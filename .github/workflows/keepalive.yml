@@ -1,0 +1,26 @@
+name: Keepalive
+
+# GitHub は60日間リポジトリにアクティビティがないと
+# スケジュールワークフローを自動無効化する。
+# このワークフローが毎月 daily.yml を再有効化することで
+# スケジュール停止を防ぐ。
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # 毎月1日 00:00 UTC
+  workflow_dispatch:       # 手動実行も可能
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Re-enable daily workflow
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.enableWorkflow({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'daily.yml'
+            });
+            console.log('daily.yml を再有効化しました');

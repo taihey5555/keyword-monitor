@@ -1,33 +1,34 @@
 import smtplib
 from email.mime.text import MIMEText
 from datetime import datetime
-from config import GMAIL_ADDRESS, GMAIL_APP_PASSWORD, EMAIL_RECIPIENTS, FIELDS
+from config import GMAIL_ADDRESS, GMAIL_APP_PASSWORD, EMAIL_RECIPIENTS, FIELDS, KEYWORDS
+
+
+# グループラベル（KEYWORDS から自動生成）
+_kw_names = list(KEYWORDS.values())
+_kw_label = " / ".join(_kw_names)
+
+GROUP_LABELS: dict[str, str] = {"A": "[A] 複数キーワードヒット"}
+for _i, _name in enumerate(_kw_names, 1):
+    GROUP_LABELS[f"B{_i}"] = f"[B{_i}] {_name}のみ"
+
+GROUP_ORDER = ["A"] + [f"B{i+1}" for i in range(len(KEYWORDS))]
 
 
 def build_message(report: dict) -> str:
     """メール本文組み立て"""
     today = datetime.now().strftime("%Y-%m-%d")
-    lines = [f"【Klotho/PF4/NK cell therapy 日次レポート】{today}"]
-
-    group_labels = {
-        "A":   "[A] 全ヒット (Klotho + PF4 + NK cell therapy)",
-        "AB1": "[AB1] Klotho + PF4",
-        "AB2": "[AB2] Klotho + NK cell therapy",
-        "AB3": "[AB3] PF4 + NK cell therapy",
-        "B1":  "[B1] Klothoのみ",
-        "B2":  "[B2] PF4のみ",
-        "B3":  "[B3] NK cell therapyのみ",
-    }
+    lines = [f"【{_kw_label} 日次レポート】{today}"]
 
     total_count = 0
 
-    for group_key in ["A", "AB1", "AB2", "AB3", "B1", "B2", "B3"]:
+    for group_key in GROUP_ORDER:
         group = report.get(group_key, {})
         group_articles = [a for arts in group.values() for a in arts]
         total_count += len(group_articles)
 
         lines.append(f"\n{'='*25}")
-        lines.append(group_labels[group_key])
+        lines.append(GROUP_LABELS[group_key])
         lines.append(f"{'='*25}")
 
         for field in FIELDS:
@@ -41,7 +42,10 @@ def build_message(report: dict) -> str:
                 url = article.get("url", "URL不明")
                 summary = article.get("summary_ja", "要約なし")
                 source = article.get("source", "")
+                matched = article.get("matched_keywords", [])
                 lines.append(f"\n{i}. {title}")
+                if matched:
+                    lines.append(f"マッチ: {' + '.join(matched)}")
                 lines.append(f"出典: [{source}] {url}")
                 lines.append(f"{summary}")
 
@@ -60,7 +64,7 @@ def send_email(message: str) -> bool:
         return True
 
     today = datetime.now().strftime("%Y-%m-%d")
-    subject = f"【Klotho/PF4/NK cell therapy 日次レポート】{today}"
+    subject = f"【{_kw_label} 日次レポート】{today}"
 
     msg = MIMEText(message, "plain", "utf-8")
     msg["Subject"] = subject

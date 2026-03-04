@@ -14,13 +14,11 @@ def save_report(report: dict):
     today = datetime.now().strftime("%Y-%m-%d")
     os.makedirs("docs/data", exist_ok=True)
 
-    # 日次JSONを保存
     filepath = f"docs/data/{today}.json"
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(report, f, ensure_ascii=False, indent=2)
     print(f"[SAVE] {filepath}")
 
-    # index.json を更新
     index_path = "docs/data/index.json"
     if os.path.exists(index_path):
         with open(index_path, "r", encoding="utf-8") as f:
@@ -39,26 +37,17 @@ def save_report(report: dict):
 def main():
     print("=== キーワード監視 開始 ===")
 
-    kw1 = KEYWORDS["kw1"]
-    kw2 = KEYWORDS["kw2"]
-    kw3 = KEYWORDS["kw3"]
+    # 1. 全キーワードを検索
+    article_lists = []
+    for kw in KEYWORDS.values():
+        print(f"[1/4] 検索中: {kw}")
+        arts = collect_all(kw)
+        print(f"  → {len(arts)}件")
+        article_lists.append(arts)
 
-    # 1. 検索
-    print(f"[1/4] 検索中: {kw1}")
-    articles_kw1 = collect_all(kw1)
-    print(f"  → {len(articles_kw1)}件")
-
-    print(f"[1/4] 検索中: {kw2}")
-    articles_kw2 = collect_all(kw2)
-    print(f"  → {len(articles_kw2)}件")
-
-    print(f"[1/4] 検索中: {kw3}")
-    articles_kw3 = collect_all(kw3)
-    print(f"  → {len(articles_kw3)}件")
-
-    # 2. A/AB1/AB2/AB3/B1/B2/B3 分類
+    # 2. グループ分類
     print("[2/4] グループ分類中...")
-    ab_groups = classify_ab(articles_kw1, articles_kw2, articles_kw3)
+    ab_groups = classify_ab(article_lists)
     for k, v in ab_groups.items():
         print(f"  {k}: {len(v)}件")
 

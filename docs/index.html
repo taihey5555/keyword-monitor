@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Klotho/PF4/NK cell therapy 論文モニター</title>
+  <title>Klotho/PF4/NK/Exosomes/sEVs 論文モニター</title>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -177,6 +177,14 @@
       text-decoration: none;
     }
     .article-url:hover { color: #3b5bdb; text-decoration: underline; }
+    .kw-badge {
+      font-size: 0.7rem;
+      font-weight: 600;
+      padding: 2px 7px;
+      border-radius: 4px;
+      background: #fff3e0;
+      color: #e65100;
+    }
     .article-summary {
       font-size: 0.82rem;
       color: #444;
@@ -213,7 +221,7 @@
 
 <header>
   <div>
-    <h1>Klotho / PF4 / NK cell therapy 論文モニター</h1>
+    <h1>Klotho / PF4 / NK cell therapy / Exosomes / sEVs 論文モニター</h1>
     <div class="subtitle">日次キーワード監視レポート</div>
   </div>
   <select id="date-select" aria-label="日付を選択"></select>
@@ -221,25 +229,22 @@
 
 <nav class="tabs" role="tablist">
   <button class="tab-btn active" data-group="A" role="tab">
-    A: 全ヒット <span class="tab-badge" id="badge-A">0</span>
-  </button>
-  <button class="tab-btn" data-group="AB1" role="tab">
-    AB1: Klotho+PF4 <span class="tab-badge" id="badge-AB1">0</span>
-  </button>
-  <button class="tab-btn" data-group="AB2" role="tab">
-    AB2: Klotho+NK <span class="tab-badge" id="badge-AB2">0</span>
-  </button>
-  <button class="tab-btn" data-group="AB3" role="tab">
-    AB3: PF4+NK <span class="tab-badge" id="badge-AB3">0</span>
+    A: 複数ヒット <span class="tab-badge" id="badge-A">0</span>
   </button>
   <button class="tab-btn" data-group="B1" role="tab">
-    B1: Klothoのみ <span class="tab-badge" id="badge-B1">0</span>
+    B1: Klotho <span class="tab-badge" id="badge-B1">0</span>
   </button>
   <button class="tab-btn" data-group="B2" role="tab">
-    B2: PF4のみ <span class="tab-badge" id="badge-B2">0</span>
+    B2: PF4 <span class="tab-badge" id="badge-B2">0</span>
   </button>
   <button class="tab-btn" data-group="B3" role="tab">
-    B3: NKのみ <span class="tab-badge" id="badge-B3">0</span>
+    B3: NK cell <span class="tab-badge" id="badge-B3">0</span>
+  </button>
+  <button class="tab-btn" data-group="B4" role="tab">
+    B4: Exosomes <span class="tab-badge" id="badge-B4">0</span>
+  </button>
+  <button class="tab-btn" data-group="B5" role="tab">
+    B5: sEVs <span class="tab-badge" id="badge-B5">0</span>
   </button>
 </nav>
 
@@ -298,10 +303,12 @@
 
   // ---- Badges ----
   function updateBadges() {
-    ["A", "AB1", "AB2", "AB3", "B1", "B2", "B3"].forEach(g => {
+    ["A", "B1", "B2", "B3", "B4", "B5"].forEach(g => {
+      const el = document.getElementById(`badge-${g}`);
+      if (!el) return;
       const group = currentData[g] || {};
       const count = Object.values(group).reduce((s, arr) => s + arr.length, 0);
-      document.getElementById(`badge-${g}`).textContent = count;
+      el.textContent = count;
     });
   }
 
@@ -337,6 +344,8 @@
     const url = a.url || '';
     const source = esc(a.source || '');
     const summary = esc(a.summary_ja || '');
+    const matched = Array.isArray(a.matched_keywords) ? a.matched_keywords : [];
+    const kwBadges = matched.map(kw => `<span class="kw-badge">${esc(kw)}</span>`).join('');
 
     return `
       <div class="article-card">
@@ -344,6 +353,7 @@
         ${titleJa ? `<div class="article-title-ja">${titleJa}</div>` : ''}
         <div class="article-meta">
           ${source ? `<span class="source-badge">${source}</span>` : ''}
+          ${kwBadges}
           ${url ? `<a class="article-url" href="${esc(url)}" target="_blank" rel="noopener">${esc(url)}</a>` : ''}
         </div>
         ${summary ? `<div class="article-summary">${summary}</div>` : ''}

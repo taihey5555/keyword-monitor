@@ -35,53 +35,48 @@ FIELD_KEYWORDS = {
     ]
 }
 
-# グループの表示順
-GROUP_ORDER = ["A", "AB1", "AB2", "AB3", "B1", "B2", "B3"]
+# グループの表示順（KEYWORDS数に応じて自動生成）
+GROUP_ORDER = ["A"] + [f"B{i+1}" for i in range(len(KEYWORDS))]
 
 
-def classify_ab(
-    articles_kw1: list[dict],
-    articles_kw2: list[dict],
-    articles_kw3: list[dict]
-) -> dict:
+def classify_ab(article_lists: list[list[dict]]) -> dict:
     """
-    A:   Klotho + PF4 + NK cell therapy（3つ全部）
-    AB1: Klotho + PF4のみ
-    AB2: Klotho + NK cell therapyのみ
-    AB3: PF4 + NK cell therapyのみ
-    B1:  Klothoのみ
-    B2:  PF4のみ
-    B3:  NK cell therapyのみ
+    A:      2つ以上のキーワードにヒット（article["matched_keywords"] に組み合わせを記録）
+    B1-B5:  各キーワードのみにヒット
     """
-    # URL → article の辞書（重複URLは先勝ち）
-    map1 = {a["url"]: a for a in reversed(articles_kw1)}
-    map2 = {a["url"]: a for a in reversed(articles_kw2)}
-    map3 = {a["url"]: a for a in reversed(articles_kw3)}
+    kw_names = list(KEYWORDS.values())
+    n = len(kw_names)
 
-    s1, s2, s3 = set(map1), set(map2), set(map3)
+    # url → article（最初にヒットしたキーワードのデータを優先）
+    url_to_article: dict[str, dict] = {}
+    # url → ヒットしたキーワード名リスト
+    url_to_matched: dict[str, list[str]] = {}
 
-    result = {g: [] for g in GROUP_ORDER}
+    for i, articles in enumerate(article_lists):
+        for a in articles:
+            url = a["url"]
+            if not url:
+                continue
+            if url not in url_to_article:
+                url_to_article[url] = a
+            if url not in url_to_matched:
+                url_to_matched[url] = []
+            if kw_names[i] not in url_to_matched[url]:
+                url_to_matched[url].append(kw_names[i])
 
-    for url in s1 & s2 & s3:
-        result["A"].append(map1[url])
+    result: dict[str, list] = {"A": []}
+    for i in range(n):
+        result[f"B{i+1}"] = []
 
-    for url in (s1 & s2) - s3:
-        result["AB1"].append(map1[url])
-
-    for url in (s1 & s3) - s2:
-        result["AB2"].append(map1[url])
-
-    for url in (s2 & s3) - s1:
-        result["AB3"].append(map2[url])
-
-    for url in s1 - s2 - s3:
-        result["B1"].append(map1[url])
-
-    for url in s2 - s1 - s3:
-        result["B2"].append(map2[url])
-
-    for url in s3 - s1 - s2:
-        result["B3"].append(map3[url])
+    for url, article in url_to_article.items():
+        matched = url_to_matched[url]
+        art = article.copy()
+        if len(matched) >= 2:
+            art["matched_keywords"] = matched
+            result["A"].append(art)
+        else:
+            idx = kw_names.index(matched[0])
+            result[f"B{idx+1}"].append(art)
 
     return result
 
@@ -109,9 +104,8 @@ def classify_field(article: dict) -> str:
 def build_classified_report(ab_groups: dict) -> dict:
     """
     {
-      "A":   {"医学": [...], "生物学": [...], ...},
-      "AB1": {...}, "AB2": {...}, "AB3": {...},
-      "B1":  {...}, "B2":  {...}, "B3":  {...}
+      "A":  {"医学": [...], "生物学": [...], ...},
+      "B1": {...}, "B2": {...}, ..., "B5": {...}
     }
     """
     report = {}

@@ -6,7 +6,8 @@ load_dotenv()
 # キーワード設定
 KEYWORDS = {
     "kw1": "Klotho",
-    "kw2": "PF4"
+    "kw2": "PF4",
+    "kw3": "NK cell therapy"
 }
 
 # 分野リスト

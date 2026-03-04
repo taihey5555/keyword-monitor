@@ -7,17 +7,21 @@ from config import GMAIL_ADDRESS, GMAIL_APP_PASSWORD, EMAIL_RECIPIENTS, FIELDS
 def build_message(report: dict) -> str:
     """メール本文組み立て"""
     today = datetime.now().strftime("%Y-%m-%d")
-    lines = [f"【Klotho/PF4 日次レポート】{today}"]
+    lines = [f"【Klotho/PF4/NK cell therapy 日次レポート】{today}"]
 
     group_labels = {
-        "A":  "[A] 両キーワードヒット (Klotho + PF4)",
-        "B1": "[B1] Klothoのみ",
-        "B2": "[B2] PF4のみ"
+        "A":   "[A] 全ヒット (Klotho + PF4 + NK cell therapy)",
+        "AB1": "[AB1] Klotho + PF4",
+        "AB2": "[AB2] Klotho + NK cell therapy",
+        "AB3": "[AB3] PF4 + NK cell therapy",
+        "B1":  "[B1] Klothoのみ",
+        "B2":  "[B2] PF4のみ",
+        "B3":  "[B3] NK cell therapyのみ",
     }
 
     total_count = 0
 
-    for group_key in ["A", "B1", "B2"]:
+    for group_key in ["A", "AB1", "AB2", "AB3", "B1", "B2", "B3"]:
         group = report.get(group_key, {})
         group_articles = [a for arts in group.values() for a in arts]
         total_count += len(group_articles)
@@ -56,7 +60,7 @@ def send_email(message: str) -> bool:
         return True
 
     today = datetime.now().strftime("%Y-%m-%d")
-    subject = f"【Klotho/PF4 日次レポート】{today}"
+    subject = f"【Klotho/PF4/NK cell therapy 日次レポート】{today}"
 
     msg = MIMEText(message, "plain", "utf-8")
     msg["Subject"] = subject

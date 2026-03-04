@@ -41,6 +41,7 @@ def main():
 
     kw1 = KEYWORDS["kw1"]
     kw2 = KEYWORDS["kw2"]
+    kw3 = KEYWORDS["kw3"]
 
     # 1. 検索
     print(f"[1/4] 検索中: {kw1}")
@@ -51,9 +52,13 @@ def main():
     articles_kw2 = collect_all(kw2)
     print(f"  → {len(articles_kw2)}件")
 
-    # 2. A/B1/B2分類
-    print("[2/4] A/B1/B2 分類中...")
-    ab_groups = classify_ab(articles_kw1, articles_kw2)
+    print(f"[1/4] 検索中: {kw3}")
+    articles_kw3 = collect_all(kw3)
+    print(f"  → {len(articles_kw3)}件")
+
+    # 2. A/AB1/AB2/AB3/B1/B2/B3 分類
+    print("[2/4] グループ分類中...")
+    ab_groups = classify_ab(articles_kw1, articles_kw2, articles_kw3)
     for k, v in ab_groups.items():
         print(f"  {k}: {len(v)}件")
 

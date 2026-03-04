@@ -35,35 +35,53 @@ FIELD_KEYWORDS = {
     ]
 }
 
+# グループの表示順
+GROUP_ORDER = ["A", "AB1", "AB2", "AB3", "B1", "B2", "B3"]
 
-def classify_ab(articles_kw1: list[dict], articles_kw2: list[dict]) -> dict:
+
+def classify_ab(
+    articles_kw1: list[dict],
+    articles_kw2: list[dict],
+    articles_kw3: list[dict]
+) -> dict:
     """
-    A: 両キーワードヒット
-    B1: Krothoのみ
-    B2: PF4のみ
+    A:   Klotho + PF4 + NK cell therapy（3つ全部）
+    AB1: Klotho + PF4のみ
+    AB2: Klotho + NK cell therapyのみ
+    AB3: PF4 + NK cell therapyのみ
+    B1:  Klothoのみ
+    B2:  PF4のみ
+    B3:  NK cell therapyのみ
     """
-    urls_kw1 = {a["url"] for a in articles_kw1}
-    urls_kw2 = {a["url"] for a in articles_kw2}
+    # URL → article の辞書（重複URLは先勝ち）
+    map1 = {a["url"]: a for a in reversed(articles_kw1)}
+    map2 = {a["url"]: a for a in reversed(articles_kw2)}
+    map3 = {a["url"]: a for a in reversed(articles_kw3)}
 
-    # 両方に含まれるURL
-    both_urls = urls_kw1 & urls_kw2
+    s1, s2, s3 = set(map1), set(map2), set(map3)
 
-    result = {"A": [], "B1": [], "B2": []}
+    result = {g: [] for g in GROUP_ORDER}
 
-    # A: 両方ヒット（kw1側のデータを使用）
-    for a in articles_kw1:
-        if a["url"] in both_urls:
-            result["A"].append(a)
+    for url in s1 & s2 & s3:
+        result["A"].append(map1[url])
 
-    # B1: Krothoのみ
-    for a in articles_kw1:
-        if a["url"] not in both_urls:
-            result["B1"].append(a)
+    for url in (s1 & s2) - s3:
+        result["AB1"].append(map1[url])
 
-    # B2: PF4のみ
-    for a in articles_kw2:
-        if a["url"] not in both_urls:
-            result["B2"].append(a)
+    for url in (s1 & s3) - s2:
+        result["AB2"].append(map1[url])
+
+    for url in (s2 & s3) - s1:
+        result["AB3"].append(map2[url])
+
+    for url in s1 - s2 - s3:
+        result["B1"].append(map1[url])
+
+    for url in s2 - s1 - s3:
+        result["B2"].append(map2[url])
+
+    for url in s3 - s1 - s2:
+        result["B3"].append(map3[url])
 
     return result
 
@@ -82,7 +100,6 @@ def classify_field(article: dict) -> str:
             if kw.lower() in text:
                 scores[field] += 1
 
-    # スコア最大の分野を返す（同点なら医学優先）
     best = max(scores, key=lambda f: scores[f])
     if scores[best] == 0:
         return "医学"  # デフォルト
@@ -92,9 +109,9 @@ def classify_field(article: dict) -> str:
 def build_classified_report(ab_groups: dict) -> dict:
     """
     {
-      "A": {"医学": [...], "生物学": [...], ...},
-      "B1": {...},
-      "B2": {...}
+      "A":   {"医学": [...], "生物学": [...], ...},
+      "AB1": {...}, "AB2": {...}, "AB3": {...},
+      "B1":  {...}, "B2":  {...}, "B3":  {...}
     }
     """
     report = {}

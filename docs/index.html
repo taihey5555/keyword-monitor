@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Klotho/PF4 論文モニター</title>
+  <title>Klotho/PF4/NK cell therapy 論文モニター</title>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -213,7 +213,7 @@
 
 <header>
   <div>
-    <h1>Klotho / PF4 論文モニター</h1>
+    <h1>Klotho / PF4 / NK cell therapy 論文モニター</h1>
     <div class="subtitle">日次キーワード監視レポート</div>
   </div>
   <select id="date-select" aria-label="日付を選択"></select>
@@ -221,13 +221,25 @@
 
 <nav class="tabs" role="tablist">
   <button class="tab-btn active" data-group="A" role="tab">
-    A: 両キーワード <span class="tab-badge" id="badge-A">0</span>
+    A: 全ヒット <span class="tab-badge" id="badge-A">0</span>
+  </button>
+  <button class="tab-btn" data-group="AB1" role="tab">
+    AB1: Klotho+PF4 <span class="tab-badge" id="badge-AB1">0</span>
+  </button>
+  <button class="tab-btn" data-group="AB2" role="tab">
+    AB2: Klotho+NK <span class="tab-badge" id="badge-AB2">0</span>
+  </button>
+  <button class="tab-btn" data-group="AB3" role="tab">
+    AB3: PF4+NK <span class="tab-badge" id="badge-AB3">0</span>
   </button>
   <button class="tab-btn" data-group="B1" role="tab">
     B1: Klothoのみ <span class="tab-badge" id="badge-B1">0</span>
   </button>
   <button class="tab-btn" data-group="B2" role="tab">
     B2: PF4のみ <span class="tab-badge" id="badge-B2">0</span>
+  </button>
+  <button class="tab-btn" data-group="B3" role="tab">
+    B3: NKのみ <span class="tab-badge" id="badge-B3">0</span>
   </button>
 </nav>
 
@@ -286,7 +298,7 @@
 
   // ---- Badges ----
   function updateBadges() {
-    ["A", "B1", "B2"].forEach(g => {
+    ["A", "AB1", "AB2", "AB3", "B1", "B2", "B3"].forEach(g => {
       const group = currentData[g] || {};
       const count = Object.values(group).reduce((s, arr) => s + arr.length, 0);
       document.getElementById(`badge-${g}`).textContent = count;

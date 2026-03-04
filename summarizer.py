@@ -2,10 +2,42 @@ import requests
 from config import DEEPSEEK_API_KEY, SUMMARY_MAX_CHARS
 
 
+def translate_title(title: str) -> str:
+    """DeepSeek APIで英語タイトルを日本語に翻訳"""
+    if not DEEPSEEK_API_KEY or not title:
+        return title
+
+    prompt = (
+        "以下の英語タイトルを自然な日本語に翻訳してください。"
+        "翻訳文のみ出力してください。\n\n"
+        f"{title}"
+    )
+
+    try:
+        resp = requests.post(
+            "https://api.deepseek.com/v1/chat/completions",
+            headers={
+                "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
+                "Content-Type": "application/json"
+            },
+            json={
+                "model": "deepseek-chat",
+                "messages": [{"role": "user", "content": prompt}],
+                "max_tokens": 200,
+                "temperature": 0.1
+            },
+            timeout=30
+        )
+        data = resp.json()
+        return data["choices"][0]["message"]["content"].strip()
+    except Exception as e:
+        print(f"[DeepSeek TRANSLATE ERROR] {e}")
+        return title
+
+
 def summarize(article: dict) -> str:
-    """DeepSeek APIで日本語200文字要約"""
+    """DeepSeek APIで日本語要約"""
     if not DEEPSEEK_API_KEY:
-        # APIキーなし時はabstractの先頭を返す
         abstract = article.get("abstract", "")
         return abstract[:SUMMARY_MAX_CHARS] if abstract else "要約なし"
 
@@ -32,14 +64,13 @@ def summarize(article: dict) -> str:
             json={
                 "model": "deepseek-chat",
                 "messages": [{"role": "user", "content": prompt}],
-                "max_tokens": 300,
+                "max_tokens": 400,
                 "temperature": 0.3
             },
             timeout=30
         )
         data = resp.json()
         summary = data["choices"][0]["message"]["content"].strip()
-        # 200文字を超えた場合は切る
         return summary[:SUMMARY_MAX_CHARS]
     except Exception as e:
         print(f"[DeepSeek ERROR] {e}")
@@ -48,9 +79,10 @@ def summarize(article: dict) -> str:
 
 
 def summarize_all(report: dict) -> dict:
-    """reportの全記事に要約を付与"""
+    """reportの全記事に日本語タイトル訳・要約を付与"""
     for group in report.values():
         for articles in group.values():
             for article in articles:
+                article["title_ja"] = translate_title(article.get("title", ""))
                 article["summary_ja"] = summarize(article)
     return report

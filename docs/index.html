@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Klotho/PF4 論文モニター</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #f5f6fa;
+      color: #222;
+      min-height: 100vh;
+    }
+
+    /* Header */
+    header {
+      background: #1a1a2e;
+      color: #fff;
+      padding: 16px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    header h1 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+    header .subtitle {
+      font-size: 0.75rem;
+      color: #aab;
+      margin-top: 2px;
+    }
+
+    #date-select {
+      padding: 6px 10px;
+      border-radius: 6px;
+      border: 1px solid #444;
+      background: #2a2a4a;
+      color: #fff;
+      font-size: 0.9rem;
+      cursor: pointer;
+    }
+
+    /* Tabs */
+    .tabs {
+      display: flex;
+      background: #fff;
+      border-bottom: 2px solid #e0e0e8;
+      overflow-x: auto;
+    }
+    .tab-btn {
+      flex: 1;
+      min-width: 100px;
+      padding: 12px 16px;
+      border: none;
+      background: transparent;
+      color: #666;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      border-bottom: 3px solid transparent;
+      transition: all 0.15s;
+      white-space: nowrap;
+    }
+    .tab-btn:hover { background: #f0f0f8; color: #333; }
+    .tab-btn.active {
+      color: #3b5bdb;
+      border-bottom-color: #3b5bdb;
+      background: #f7f8ff;
+    }
+    .tab-badge {
+      display: inline-block;
+      background: #e8ecff;
+      color: #3b5bdb;
+      border-radius: 10px;
+      padding: 1px 7px;
+      font-size: 0.75rem;
+      margin-left: 5px;
+    }
+    .tab-btn.active .tab-badge { background: #3b5bdb; color: #fff; }
+
+    /* Main */
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px 16px 40px;
+    }
+
+    /* Field section */
+    .field-section {
+      margin-bottom: 28px;
+    }
+    .field-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 10px;
+      padding-bottom: 6px;
+      border-bottom: 1px solid #dde;
+    }
+    .field-num {
+      width: 26px; height: 26px;
+      background: #3b5bdb;
+      color: #fff;
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 0.75rem;
+      font-weight: 700;
+      flex-shrink: 0;
+    }
+    .field-name {
+      font-size: 1rem;
+      font-weight: 700;
+      color: #333;
+    }
+    .field-count {
+      margin-left: auto;
+      font-size: 0.8rem;
+      color: #888;
+    }
+
+    /* Empty */
+    .empty-msg {
+      color: #aaa;
+      font-size: 0.85rem;
+      padding: 10px 0 4px 36px;
+    }
+
+    /* Article card */
+    .article-card {
+      background: #fff;
+      border-radius: 8px;
+      padding: 14px 16px;
+      margin-bottom: 10px;
+      border: 1px solid #e4e4ee;
+      transition: box-shadow 0.15s;
+    }
+    .article-card:hover { box-shadow: 0 2px 10px rgba(60,80,200,0.08); }
+
+    .article-title-en {
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: #1a1a2e;
+      line-height: 1.4;
+      margin-bottom: 3px;
+    }
+    .article-title-ja {
+      font-size: 0.85rem;
+      color: #3b5bdb;
+      margin-bottom: 8px;
+      line-height: 1.4;
+    }
+    .article-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 8px;
+      flex-wrap: wrap;
+    }
+    .source-badge {
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 2px 7px;
+      border-radius: 4px;
+      background: #eef2ff;
+      color: #4263eb;
+    }
+    .article-url {
+      font-size: 0.75rem;
+      color: #888;
+      word-break: break-all;
+      text-decoration: none;
+    }
+    .article-url:hover { color: #3b5bdb; text-decoration: underline; }
+    .article-summary {
+      font-size: 0.82rem;
+      color: #444;
+      line-height: 1.65;
+      border-top: 1px solid #f0f0f8;
+      padding-top: 8px;
+      margin-top: 2px;
+    }
+
+    /* Loading / Error */
+    .status-msg {
+      text-align: center;
+      padding: 60px 20px;
+      color: #888;
+      font-size: 0.95rem;
+    }
+
+    /* No data */
+    .no-data {
+      text-align: center;
+      padding: 60px 20px;
+      color: #aaa;
+    }
+    .no-data h2 { font-size: 1rem; margin-bottom: 8px; }
+    .no-data p { font-size: 0.85rem; }
+
+    @media (max-width: 600px) {
+      header h1 { font-size: 0.95rem; }
+      .tab-btn { font-size: 0.78rem; padding: 10px 10px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>Klotho / PF4 論文モニター</h1>
+    <div class="subtitle">日次キーワード監視レポート</div>
+  </div>
+  <select id="date-select" aria-label="日付を選択"></select>
+</header>
+
+<nav class="tabs" role="tablist">
+  <button class="tab-btn active" data-group="A" role="tab">
+    A: 両キーワード <span class="tab-badge" id="badge-A">0</span>
+  </button>
+  <button class="tab-btn" data-group="B1" role="tab">
+    B1: Klothoのみ <span class="tab-badge" id="badge-B1">0</span>
+  </button>
+  <button class="tab-btn" data-group="B2" role="tab">
+    B2: PF4のみ <span class="tab-badge" id="badge-B2">0</span>
+  </button>
+</nav>
+
+<main id="main-content">
+  <div class="status-msg">読み込み中...</div>
+</main>
+
+<script>
+  const FIELDS = ["医学", "生物学", "農学", "工学", "産業", "ビジネス"];
+  const FIELD_NUMS = { "医学": "①", "生物学": "②", "農学": "③", "工学": "④", "産業": "⑤", "ビジネス": "⑥" };
+
+  let currentData = null;
+  let currentGroup = "A";
+
+  // ---- Init ----
+  async function init() {
+    try {
+      const res = await fetch('./data/index.json');
+      const dates = await res.json();
+
+      const sel = document.getElementById('date-select');
+      if (!dates || dates.length === 0) {
+        showNoData();
+        return;
+      }
+
+      dates.forEach((d, i) => {
+        const opt = document.createElement('option');
+        opt.value = d;
+        opt.textContent = d;
+        if (i === 0) opt.selected = true;
+        sel.appendChild(opt);
+      });
+
+      sel.addEventListener('change', () => loadDate(sel.value));
+      await loadDate(dates[0]);
+    } catch (e) {
+      document.getElementById('main-content').innerHTML =
+        '<div class="status-msg">データを読み込めませんでした。</div>';
+    }
+  }
+
+  // ---- Load date ----
+  async function loadDate(date) {
+    document.getElementById('main-content').innerHTML = '<div class="status-msg">読み込み中...</div>';
+    try {
+      const res = await fetch(`./data/${date}.json`);
+      currentData = await res.json();
+      updateBadges();
+      renderGroup(currentGroup);
+    } catch (e) {
+      document.getElementById('main-content').innerHTML =
+        '<div class="status-msg">データの読み込みに失敗しました。</div>';
+    }
+  }
+
+  // ---- Badges ----
+  function updateBadges() {
+    ["A", "B1", "B2"].forEach(g => {
+      const group = currentData[g] || {};
+      const count = Object.values(group).reduce((s, arr) => s + arr.length, 0);
+      document.getElementById(`badge-${g}`).textContent = count;
+    });
+  }
+
+  // ---- Render group ----
+  function renderGroup(groupKey) {
+    const main = document.getElementById('main-content');
+    const group = (currentData && currentData[groupKey]) || {};
+
+    const html = FIELDS.map((field, idx) => {
+      const articles = group[field] || [];
+      const cardsHtml = articles.length === 0
+        ? '<div class="empty-msg">該当なし</div>'
+        : articles.map(a => articleCard(a)).join('');
+
+      return `
+        <section class="field-section">
+          <div class="field-header">
+            <div class="field-num">${idx + 1}</div>
+            <span class="field-name">${FIELD_NUMS[field]} ${field}</span>
+            <span class="field-count">${articles.length}件</span>
+          </div>
+          ${cardsHtml}
+        </section>`;
+    }).join('');
+
+    main.innerHTML = html || '<div class="status-msg">データなし</div>';
+  }
+
+  // ---- Article card ----
+  function articleCard(a) {
+    const titleEn = esc(a.title || 'タイトル不明');
+    const titleJa = esc(a.title_ja || '');
+    const url = a.url || '';
+    const source = esc(a.source || '');
+    const summary = esc(a.summary_ja || '');
+
+    return `
+      <div class="article-card">
+        <div class="article-title-en">${titleEn}</div>
+        ${titleJa ? `<div class="article-title-ja">${titleJa}</div>` : ''}
+        <div class="article-meta">
+          ${source ? `<span class="source-badge">${source}</span>` : ''}
+          ${url ? `<a class="article-url" href="${esc(url)}" target="_blank" rel="noopener">${esc(url)}</a>` : ''}
+        </div>
+        ${summary ? `<div class="article-summary">${summary}</div>` : ''}
+      </div>`;
+  }
+
+  function esc(str) {
+    return String(str)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  function showNoData() {
+    document.getElementById('date-select').style.display = 'none';
+    document.getElementById('main-content').innerHTML = `
+      <div class="no-data">
+        <h2>データがまだありません</h2>
+        <p>GitHub Actionsが実行されると自動的にデータが追加されます。</p>
+      </div>`;
+  }
+
+  // ---- Tab switching ----
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentGroup = btn.dataset.group;
+      if (currentData) renderGroup(currentGroup);
+    });
+  });
+
+  init();
+</script>
+</body>
+</html>

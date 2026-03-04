@@ -32,7 +32,12 @@ def search_pubmed(keyword: str, days: int = 1) -> list[dict]:
 
         # XMLを簡易パース
         import xml.etree.ElementTree as ET
-        root = ET.fromstring(rf.text)
+        try:
+            root = ET.fromstring(rf.content)
+        except ET.ParseError as e:
+            print(f"[PubMed ERROR] XML parse error: {e}")
+            print(f"[PubMed ERROR] status={rf.status_code}, body_head={rf.text[:200]!r}")
+            return results
         for article in root.findall(".//PubmedArticle"):
             title_el = article.find(".//ArticleTitle")
             abstract_el = article.find(".//AbstractText")

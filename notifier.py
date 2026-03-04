@@ -1,9 +1,7 @@
 import smtplib
 from email.mime.text import MIMEText
 from datetime import datetime
-from config import GMAIL_ADDRESS, GMAIL_APP_PASSWORD, FIELDS
-
-RECIPIENT = "maple0848241355@gmail.com"
+from config import GMAIL_ADDRESS, GMAIL_APP_PASSWORD, EMAIL_RECIPIENTS, FIELDS
 
 
 def build_message(report: dict) -> str:
@@ -63,13 +61,13 @@ def send_email(message: str) -> bool:
     msg = MIMEText(message, "plain", "utf-8")
     msg["Subject"] = subject
     msg["From"] = GMAIL_ADDRESS
-    msg["To"] = RECIPIENT
+    msg["To"] = ", ".join(EMAIL_RECIPIENTS)
 
     try:
         with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
             server.login(GMAIL_ADDRESS, GMAIL_APP_PASSWORD)
             server.send_message(msg)
-        print(f"[GMAIL] 送信完了 → {RECIPIENT}")
+        print(f"[GMAIL] 送信完了 → {', '.join(EMAIL_RECIPIENTS)}")
         return True
     except Exception as e:
         print(f"[GMAIL ERROR] {e}")

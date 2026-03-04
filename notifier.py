@@ -1,17 +1,20 @@
-import requests
+import smtplib
+from email.mime.text import MIMEText
 from datetime import datetime
-from config import LINE_CHANNEL_ACCESS_TOKEN, LINE_USER_ID, FIELDS
+from config import GMAIL_ADDRESS, GMAIL_APP_PASSWORD, FIELDS
+
+RECIPIENT = "maple0848241355@gmail.com"
 
 
 def build_message(report: dict) -> str:
-    """LINE通知メッセージ組み立て"""
+    """メール本文組み立て"""
     today = datetime.now().strftime("%Y-%m-%d")
     lines = [f"【Klotho/PF4 日次レポート】{today}"]
 
     group_labels = {
-        "A":  "🔵 [A] 両キーワードヒット (Klotho + PF4)",
-        "B1": "🟡 [B1] Klothoのみ",
-        "B2": "🟢 [B2] PF4のみ"
+        "A":  "[A] 両キーワードヒット (Klotho + PF4)",
+        "B1": "[B1] Klothoのみ",
+        "B2": "[B2] PF4のみ"
     }
 
     total_count = 0
@@ -47,44 +50,27 @@ def build_message(report: dict) -> str:
     return "\n".join(lines)
 
 
-def send_line(message: str) -> bool:
-    """LINE Messaging APIで送信（5000文字制限で分割）"""
-    if not LINE_CHANNEL_ACCESS_TOKEN or not LINE_USER_ID:
-        print("[LINE] トークンまたはユーザーID未設定。標準出力に表示します。")
+def send_email(message: str) -> bool:
+    """Gmail SMTPでメール送信"""
+    if not GMAIL_ADDRESS or not GMAIL_APP_PASSWORD:
+        print("[GMAIL] 送信元アドレスまたはアプリパスワード未設定。標準出力に表示します。")
         print(message)
         return True
 
-    chunks = _split_message(message, max_len=5000)
-    success = True
-    for chunk in chunks:
-        try:
-            r = requests.post(
-                "https://api.line.me/v2/bot/message/push",
-                headers={
-                    "Authorization": f"Bearer {LINE_CHANNEL_ACCESS_TOKEN}",
-                    "Content-Type": "application/json"
-                },
-                json={
-                    "to": LINE_USER_ID,
-                    "messages": [{"type": "text", "text": chunk}]
-                },
-                timeout=10
-            )
-            if r.status_code != 200:
-                print(f"[LINE ERROR] status={r.status_code} {r.text}")
-                success = False
-        except Exception as e:
-            print(f"[LINE ERROR] {e}")
-            success = False
-    return success
+    today = datetime.now().strftime("%Y-%m-%d")
+    subject = f"【Klotho/PF4 日次レポート】{today}"
 
+    msg = MIMEText(message, "plain", "utf-8")
+    msg["Subject"] = subject
+    msg["From"] = GMAIL_ADDRESS
+    msg["To"] = RECIPIENT
 
-def _split_message(message: str, max_len: int = 5000) -> list[str]:
-    """メッセージを分割"""
-    if len(message) <= max_len:
-        return [message]
-    chunks = []
-    while message:
-        chunks.append(message[:max_len])
-        message = message[max_len:]
-    return chunks
+    try:
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
+            server.login(GMAIL_ADDRESS, GMAIL_APP_PASSWORD)
+            server.send_message(msg)
+        print(f"[GMAIL] 送信完了 → {RECIPIENT}")
+        return True
+    except Exception as e:
+        print(f"[GMAIL ERROR] {e}")
+        return False

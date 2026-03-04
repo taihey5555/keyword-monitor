@@ -1,7 +1,7 @@
 from search import collect_all
 from classifier import classify_ab, build_classified_report
 from summarizer import summarize_all
-from notifier import build_message, send_line
+from notifier import build_message, send_email
 from config import KEYWORDS
 
 
@@ -34,10 +34,10 @@ def main():
     print("[4/4] 日本語要約生成中...")
     report = summarize_all(report)
 
-    # 5. LINE通知
-    print("[送信] LINE通知...")
+    # 5. メール通知
+    print("[送信] Gmail通知...")
     message = build_message(report)
-    send_line(message)
+    send_email(message)
 
     print("=== 完了 ===")
 

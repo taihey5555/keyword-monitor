@@ -25,4 +25,4 @@ GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY", "")
 GOOGLE_CSE_ID = os.environ.get("GOOGLE_CSE_ID", "")
 
 # 要約文字数
-SUMMARY_MAX_CHARS = 200
+SUMMARY_MAX_CHARS = 400

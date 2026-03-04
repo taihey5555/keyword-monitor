@@ -31,7 +31,6 @@
       font-size: 1rem;
       font-weight: 700;
       line-height: 1.35;
-      letter-spacing: 0.01em;
     }
     header .subtitle {
       font-size: 0.7rem;
@@ -45,55 +44,145 @@
       border: 1px solid #444;
       background: #2a2a4a;
       color: #fff;
-      font-size: 0.85rem;
+      font-size: 16px;
       cursor: pointer;
       min-height: 44px;
     }
 
-    /* ===== Tab bar ===== */
-    .tabs {
+    /* ===== Group bar (ハンバーガー) ===== */
+    .group-bar {
       display: flex;
+      align-items: center;
+      justify-content: space-between;
       background: #fff;
       border-bottom: 2px solid #e0e0e8;
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
-      scrollbar-width: none;
+      padding: 0 16px;
+      height: 48px;
       position: sticky;
       top: 0;
       z-index: 100;
     }
-    .tabs::-webkit-scrollbar { display: none; }
-
-    .tab-btn {
-      flex-shrink: 0;
-      padding: 12px 14px;
+    .group-bar-label {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.9rem;
+      font-weight: 700;
+      color: #3b5bdb;
+    }
+    .hamburger-btn {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 5px;
+      width: 44px;
+      height: 44px;
+      padding: 10px;
       border: none;
       background: transparent;
-      color: #666;
-      font-size: 0.82rem;
-      font-weight: 600;
       cursor: pointer;
-      border-bottom: 3px solid transparent;
-      white-space: nowrap;
-      min-height: 44px;
-      transition: color 0.15s, background 0.15s;
+      border-radius: 6px;
+      flex-shrink: 0;
     }
-    .tab-btn:hover { background: #f0f0f8; color: #333; }
-    .tab-btn.active {
+    .hamburger-btn:hover { background: #f0f0f8; }
+    .hamburger-btn span {
+      display: block;
+      width: 100%;
+      height: 2px;
+      background: #333;
+      border-radius: 2px;
+      transition: transform 0.2s, opacity 0.2s;
+    }
+    /* open state → × */
+    .hamburger-btn.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .hamburger-btn.open span:nth-child(2) { opacity: 0; }
+    .hamburger-btn.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+    /* ===== Dropdown menu ===== */
+    .group-menu {
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      z-index: 200;
+      display: none;
+    }
+    .group-menu.open { display: block; }
+
+    .group-menu-backdrop {
+      position: absolute;
+      inset: 0;
+      background: rgba(0,0,0,0.35);
+    }
+    .group-menu-panel {
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      background: #fff;
+      border-bottom-left-radius: 16px;
+      border-bottom-right-radius: 16px;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.18);
+      overflow: hidden;
+      animation: slideDown 0.2s ease;
+    }
+    @keyframes slideDown {
+      from { transform: translateY(-100%); opacity: 0; }
+      to   { transform: translateY(0);    opacity: 1; }
+    }
+    .group-menu-header {
+      padding: 14px 16px 10px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: #999;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      border-bottom: 1px solid #eee;
+    }
+    .menu-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 100%;
+      padding: 14px 20px;
+      border: none;
+      background: transparent;
+      cursor: pointer;
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: #333;
+      border-bottom: 1px solid #f4f4f8;
+      text-align: left;
+      transition: background 0.12s;
+    }
+    .menu-item:last-child { border-bottom: none; }
+    .menu-item:hover { background: #f5f7ff; }
+    .menu-item.active {
       color: #3b5bdb;
-      border-bottom-color: #3b5bdb;
-      background: #f7f8ff;
+      background: #f0f3ff;
     }
+    .menu-item-right {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .menu-item-check {
+      width: 18px; height: 18px;
+      background: #3b5bdb;
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 0.65rem;
+      color: #fff;
+      flex-shrink: 0;
+    }
+
+    /* ===== Badges ===== */
     .tab-badge {
       display: inline-block;
       background: #e8ecff;
       color: #3b5bdb;
       border-radius: 10px;
-      padding: 1px 6px;
-      font-size: 0.7rem;
-      margin-left: 4px;
+      padding: 1px 8px;
+      font-size: 0.72rem;
+      font-weight: 700;
     }
-    .tab-btn.active .tab-badge { background: #3b5bdb; color: #fff; }
+    .menu-item.active .tab-badge { background: #3b5bdb; color: #fff; }
 
     /* ===== Main ===== */
     main {
@@ -122,23 +211,10 @@
       font-weight: 700;
       flex-shrink: 0;
     }
-    .field-name {
-      font-size: 0.95rem;
-      font-weight: 700;
-      color: #333;
-    }
-    .field-count {
-      margin-left: auto;
-      font-size: 0.75rem;
-      color: #999;
-    }
+    .field-name { font-size: 0.95rem; font-weight: 700; color: #333; }
+    .field-count { margin-left: auto; font-size: 0.75rem; color: #999; }
 
-    /* ===== Empty ===== */
-    .empty-msg {
-      color: #bbb;
-      font-size: 0.8rem;
-      padding: 8px 0 4px 32px;
-    }
+    .empty-msg { color: #bbb; font-size: 0.8rem; padding: 8px 0 4px 32px; }
 
     /* ===== Article card ===== */
     .article-card {
@@ -207,31 +283,17 @@
     }
 
     /* ===== Status ===== */
-    .status-msg {
-      text-align: center;
-      padding: 60px 20px;
-      color: #999;
-      font-size: 0.9rem;
-    }
-    .no-data {
-      text-align: center;
-      padding: 60px 20px;
-      color: #bbb;
-    }
+    .status-msg { text-align: center; padding: 60px 20px; color: #999; font-size: 0.9rem; }
+    .no-data { text-align: center; padding: 60px 20px; color: #bbb; }
     .no-data h2 { font-size: 1rem; margin-bottom: 8px; color: #999; }
     .no-data p { font-size: 0.82rem; }
 
-    /* ===== Mobile ===== */
     @media (max-width: 480px) {
       header h1 { font-size: 0.88rem; }
-      #date-select { font-size: 16px; }  /* iOS zoom prevention */
-      .tab-btn { font-size: 0.78rem; padding: 10px 12px; }
       main { padding: 12px 10px 40px; }
       .article-card { padding: 10px 11px; }
       .article-title-en { font-size: 0.84rem; }
-      .article-title-ja { font-size: 0.8rem; }
       .article-summary { font-size: 0.8rem; }
-      .field-section { margin-bottom: 18px; }
     }
   </style>
 </head>
@@ -247,26 +309,66 @@
   </div>
 </header>
 
-<nav class="tabs" id="tab-nav" role="tablist">
-  <button class="tab-btn active" data-group="A" role="tab">
-    A: 複数ヒット <span class="tab-badge" id="badge-A">0</span>
+<!-- sticky bar -->
+<div class="group-bar">
+  <div class="group-bar-label">
+    <span id="group-bar-name">A: 複数ヒット</span>
+    <span class="tab-badge" id="group-bar-badge">0</span>
+  </div>
+  <button class="hamburger-btn" id="hamburger-btn" aria-label="グループを選択" aria-expanded="false">
+    <span></span><span></span><span></span>
   </button>
-  <button class="tab-btn" data-group="B1" role="tab">
-    B1: Klotho <span class="tab-badge" id="badge-B1">0</span>
-  </button>
-  <button class="tab-btn" data-group="B2" role="tab">
-    B2: PF4 <span class="tab-badge" id="badge-B2">0</span>
-  </button>
-  <button class="tab-btn" data-group="B3" role="tab">
-    B3: NK cell <span class="tab-badge" id="badge-B3">0</span>
-  </button>
-  <button class="tab-btn" data-group="B4" role="tab">
-    B4: Exosomes <span class="tab-badge" id="badge-B4">0</span>
-  </button>
-  <button class="tab-btn" data-group="B5" role="tab">
-    B5: sEVs <span class="tab-badge" id="badge-B5">0</span>
-  </button>
-</nav>
+</div>
+
+<!-- dropdown -->
+<div class="group-menu" id="group-menu" role="dialog" aria-modal="true">
+  <div class="group-menu-panel">
+    <div class="group-menu-header">グループを選択</div>
+    <button class="menu-item active" data-group="A">
+      <span>A: 複数ヒット</span>
+      <div class="menu-item-right">
+        <span class="tab-badge" id="badge-A">0</span>
+        <span class="menu-item-check">✓</span>
+      </div>
+    </button>
+    <button class="menu-item" data-group="B1">
+      <span>B1: Klotho</span>
+      <div class="menu-item-right">
+        <span class="tab-badge" id="badge-B1">0</span>
+        <span class="menu-item-check" style="display:none">✓</span>
+      </div>
+    </button>
+    <button class="menu-item" data-group="B2">
+      <span>B2: PF4</span>
+      <div class="menu-item-right">
+        <span class="tab-badge" id="badge-B2">0</span>
+        <span class="menu-item-check" style="display:none">✓</span>
+      </div>
+    </button>
+    <button class="menu-item" data-group="B3">
+      <span>B3: NK cell therapy</span>
+      <div class="menu-item-right">
+        <span class="tab-badge" id="badge-B3">0</span>
+        <span class="menu-item-check" style="display:none">✓</span>
+      </div>
+    </button>
+    <button class="menu-item" data-group="B4">
+      <span>B4: Exosomes</span>
+      <div class="menu-item-right">
+        <span class="tab-badge" id="badge-B4">0</span>
+        <span class="menu-item-check" style="display:none">✓</span>
+      </div>
+    </button>
+    <button class="menu-item" data-group="B5">
+      <span>B5: sEVs</span>
+      <div class="menu-item-right">
+        <span class="tab-badge" id="badge-B5">0</span>
+        <span class="menu-item-check" style="display:none">✓</span>
+      </div>
+    </button>
+  </div>
+  <div class="group-menu-backdrop" id="group-menu-backdrop"></div>
+</div>
 
 <main id="main-content">
   <div class="status-msg">読み込み中...</div>
@@ -275,9 +377,59 @@
 <script>
   const FIELDS = ["医学", "生物学", "農学", "工学", "産業", "ビジネス"];
   const FIELD_NUMS = { "医学": "①", "生物学": "②", "農学": "③", "工学": "④", "産業": "⑤", "ビジネス": "⑥" };
+  const GROUP_LABELS = {
+    A: "A: 複数ヒット", B1: "B1: Klotho", B2: "B2: PF4",
+    B3: "B3: NK cell therapy", B4: "B4: Exosomes", B5: "B5: sEVs"
+  };
 
   let currentData = null;
   let currentGroup = "A";
+
+  // ---- Hamburger ----
+  const hamburgerBtn = document.getElementById('hamburger-btn');
+  const groupMenu    = document.getElementById('group-menu');
+  const backdrop     = document.getElementById('group-menu-backdrop');
+
+  function openMenu() {
+    groupMenu.classList.add('open');
+    hamburgerBtn.classList.add('open');
+    hamburgerBtn.setAttribute('aria-expanded', 'true');
+  }
+  function closeMenu() {
+    groupMenu.classList.remove('open');
+    hamburgerBtn.classList.remove('open');
+    hamburgerBtn.setAttribute('aria-expanded', 'false');
+  }
+
+  hamburgerBtn.addEventListener('click', () => {
+    groupMenu.classList.contains('open') ? closeMenu() : openMenu();
+  });
+  backdrop.addEventListener('click', closeMenu);
+
+  // ---- Menu item click ----
+  document.querySelectorAll('.menu-item').forEach(item => {
+    item.addEventListener('click', () => {
+      const g = item.dataset.group;
+
+      // update active state
+      document.querySelectorAll('.menu-item').forEach(el => {
+        el.classList.remove('active');
+        el.querySelector('.menu-item-check').style.display = 'none';
+      });
+      item.classList.add('active');
+      item.querySelector('.menu-item-check').style.display = 'flex';
+
+      // update bar label
+      document.getElementById('group-bar-name').textContent = GROUP_LABELS[g];
+
+      currentGroup = g;
+      closeMenu();
+      if (currentData) {
+        renderGroup(g);
+        updateBarBadge();
+      }
+    });
+  });
 
   // ---- Init ----
   async function init() {
@@ -286,15 +438,11 @@
       const dates = await res.json();
 
       const sel = document.getElementById('date-select');
-      if (!dates || dates.length === 0) {
-        showNoData();
-        return;
-      }
+      if (!dates || dates.length === 0) { showNoData(); return; }
 
       dates.forEach((d, i) => {
         const opt = document.createElement('option');
-        opt.value = d;
-        opt.textContent = d;
+        opt.value = d; opt.textContent = d;
         if (i === 0) opt.selected = true;
         sel.appendChild(opt);
       });
@@ -314,6 +462,7 @@
       const res = await fetch(`./data/${date}.json`);
       currentData = await res.json();
       updateBadges();
+      updateBarBadge();
       renderGroup(currentGroup);
     } catch (e) {
       document.getElementById('main-content').innerHTML =
@@ -322,14 +471,18 @@
   }
 
   // ---- Badges ----
+  function groupCount(g) {
+    const group = currentData[g] || {};
+    return Object.values(group).reduce((s, arr) => s + arr.length, 0);
+  }
   function updateBadges() {
     ["A", "B1", "B2", "B3", "B4", "B5"].forEach(g => {
       const el = document.getElementById(`badge-${g}`);
-      if (!el) return;
-      const group = currentData[g] || {};
-      const count = Object.values(group).reduce((s, arr) => s + arr.length, 0);
-      el.textContent = count;
+      if (el) el.textContent = groupCount(g);
     });
+  }
+  function updateBarBadge() {
+    document.getElementById('group-bar-badge').textContent = groupCount(currentGroup);
   }
 
   // ---- Render group ----
@@ -382,10 +535,8 @@
 
   function esc(str) {
     return String(str)
-      .replace(/&/g, '&amp;')
-      .replace(/</g, '&lt;')
-      .replace(/>/g, '&gt;')
-      .replace(/"/g, '&quot;');
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   }
 
   function showNoData() {
@@ -396,18 +547,6 @@
         <p>GitHub Actionsが実行されると自動的にデータが追加されます。</p>
       </div>`;
   }
-
-  // ---- Tab switching ----
-  document.querySelectorAll('.tab-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      // アクティブタブをタブバー内でスクロールして中央表示
-      btn.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
-      currentGroup = btn.dataset.group;
-      if (currentData) renderGroup(currentGroup);
-    });
-  });
 
   init();
 </script>

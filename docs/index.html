@@ -225,18 +225,12 @@
       margin-bottom: 8px;
       border: 1px solid #e4e4ee;
     }
-    .article-title-en {
+    .article-title-ja {
       font-size: 0.875rem;
       font-weight: 600;
       color: #1a1a2e;
       line-height: 1.45;
-      margin-bottom: 4px;
-    }
-    .article-title-ja {
-      font-size: 0.83rem;
-      color: #3b5bdb;
       margin-bottom: 8px;
-      line-height: 1.45;
     }
     .article-meta {
       display: flex;
@@ -321,7 +315,7 @@
       header h1 { font-size: 0.88rem; }
       main { padding: 12px 10px 40px; }
       .article-card { padding: 10px 11px; }
-      .article-title-en { font-size: 0.84rem; }
+      .article-title-ja { font-size: 0.84rem; }
       .article-summary { font-size: 0.8rem; }
       .summary-section { padding: 10px 10px 0; }
     }
@@ -525,7 +519,7 @@
     if (!text) { sec.innerHTML = ''; return; }
     sec.innerHTML = `
       <div class="summary-box">
-        <div class="summary-box-header">■ 本日のAIサマリー（Gemini）</div>
+        <div class="summary-box-header">■ 本日のAIサマリー</div>
         <div class="summary-box-text">${esc(text)}</div>
       </div>`;
   }
@@ -556,8 +550,7 @@
 
   // ---- Article card ----
   function articleCard(a) {
-    const titleEn = esc(a.title || 'タイトル不明');
-    const titleJa = esc(a.title_ja || '');
+    const titleJa = esc(a.title_ja || a.title || 'タイトル不明');
     const url = a.url || '';
     const source = esc(a.source || '');
     const summary = esc(a.summary_ja || '');
@@ -566,8 +559,7 @@
 
     return `
       <div class="article-card">
-        <div class="article-title-en">${titleEn}</div>
-        ${titleJa ? `<div class="article-title-ja">${titleJa}</div>` : ''}
+        <div class="article-title-ja">${titleJa}</div>
         <div class="article-meta">
           ${source ? `<span class="source-badge">${source}</span>` : ''}
           ${kwBadges}

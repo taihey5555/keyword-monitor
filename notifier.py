@@ -40,20 +40,14 @@ def build_message(report: dict) -> str:
                 h.append('<p style="margin:2px 0;color:#888;">該当なし</p>')
                 continue
             for i, article in enumerate(articles, 1):
-                title   = html.escape(article.get("title", "タイトル不明"))
                 url     = article.get("url", "")
                 summary = html.escape(article.get("summary_ja", "要約なし"))
-                source  = html.escape(article.get("source", ""))
-                matched = article.get("matched_keywords", [])
 
+                title_ja = html.escape(article.get("title_ja", "") or article.get("title", "タイトル不明"))
                 h.append('<div style="margin:8px 0 12px;padding:8px;border-left:3px solid #ccc;">')
-                h.append(f'<b>{i}. {title}</b><br>')
-                if matched:
-                    h.append(f'マッチ: {html.escape(" + ".join(matched))}<br>')
+                h.append(f'<b>{i}. {title_ja}</b><br>')
                 if url:
-                    h.append(f'出典: [{source}] <a href="{html.escape(url)}">{html.escape(url)}</a><br>')
-                elif source:
-                    h.append(f'出典: [{source}]<br>')
+                    h.append(f'<a href="{html.escape(url)}">{html.escape(url)}</a><br>')
                 h.append(f'<span style="color:#444;">{summary}</span>')
                 h.append('</div>')
 

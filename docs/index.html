@@ -466,15 +466,36 @@
       const sel = document.getElementById('date-select');
       if (!dates || dates.length === 0) { showNoData(); return; }
 
-      dates.forEach((d, i) => {
-        const opt = document.createElement('option');
-        opt.value = d; opt.textContent = d;
-        if (i === 0) opt.selected = true;
-        sel.appendChild(opt);
+      const DOW = ['日','月','火','水','木','金','土'];
+
+      // 年月でグループ化
+      const groups = {};
+      dates.forEach(d => {
+        const ym = d.slice(0, 7);
+        if (!groups[ym]) groups[ym] = [];
+        groups[ym].push(d);
+      });
+
+      let firstDate = null;
+      Object.keys(groups).sort().reverse().forEach(ym => {
+        const [y, m] = ym.split('-');
+        const og = document.createElement('optgroup');
+        og.label = `${y}年${parseInt(m)}月`;
+
+        groups[ym].forEach(d => {
+          const dt = new Date(d + 'T00:00:00+09:00');
+          const opt = document.createElement('option');
+          opt.value = d;
+          opt.textContent = `${dt.getMonth()+1}月${dt.getDate()}日（${DOW[dt.getDay()]}）`;
+          if (!firstDate) { opt.selected = true; firstDate = d; }
+          og.appendChild(opt);
+        });
+
+        sel.appendChild(og);
       });
 
       sel.addEventListener('change', () => loadDate(sel.value));
-      await loadDate(dates[0]);
+      await loadDate(firstDate);
     } catch (e) {
       document.getElementById('main-content').innerHTML =
         '<div class="status-msg">データを読み込めませんでした。</div>';

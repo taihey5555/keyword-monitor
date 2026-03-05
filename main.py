@@ -5,7 +5,7 @@ from datetime import datetime
 
 from search import collect_all
 from classifier import classify_ab, build_classified_report
-from summarizer import summarize_all
+from summarizer import summarize_all, generate_daily_summary
 from notifier import build_message, send_email
 from config import KEYWORDS
 
@@ -79,6 +79,15 @@ def main():
     # 4. 要約・タイトル翻訳
     print("[4/5] 日本語要約・タイトル翻訳中...")
     report = summarize_all(report)
+
+    # 4.5. Gemini デイリーサマリー生成
+    print("[4.5/5] Gemini デイリーサマリー生成中...")
+    try:
+        report["summary"] = generate_daily_summary(report)
+        print(f"[Gemini] サマリー生成完了 ({len(report['summary'])}文字)")
+    except Exception as e:
+        print(f"[Gemini SUMMARY ERROR] {e}")
+        report["summary"] = ""
 
     # 5. JSON保存（メール送信より先に実行。エラーでも処理を続行）
     print("[5/5] docs/data/ に保存中...")

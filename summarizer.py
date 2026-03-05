@@ -1,10 +1,32 @@
 import requests
-from config import DEEPSEEK_API_KEY, SUMMARY_MAX_CHARS
+from config import GEMINI_API_KEY, SUMMARY_MAX_CHARS
+
+_GEMINI_URL = (
+    "https://generativelanguage.googleapis.com/v1beta"
+    "/models/gemini-2.0-flash:generateContent"
+)
+
+
+def _gemini(prompt: str, max_tokens: int = 400, temperature: float = 0.3) -> str:
+    """Gemini API 共通呼び出し"""
+    resp = requests.post(
+        f"{_GEMINI_URL}?key={GEMINI_API_KEY}",
+        json={
+            "contents": [{"parts": [{"text": prompt}]}],
+            "generationConfig": {
+                "maxOutputTokens": max_tokens,
+                "temperature": temperature
+            }
+        },
+        timeout=30
+    )
+    resp.raise_for_status()
+    return resp.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
 
 
 def translate_title(title: str) -> str:
-    """DeepSeek APIで英語タイトルを日本語に翻訳"""
-    if not DEEPSEEK_API_KEY or not title:
+    """Gemini APIで英語タイトルを日本語に翻訳"""
+    if not GEMINI_API_KEY or not title:
         return title
 
     prompt = (
@@ -12,32 +34,16 @@ def translate_title(title: str) -> str:
         "翻訳文のみ出力してください。\n\n"
         f"{title}"
     )
-
     try:
-        resp = requests.post(
-            "https://api.deepseek.com/v1/chat/completions",
-            headers={
-                "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
-                "Content-Type": "application/json"
-            },
-            json={
-                "model": "deepseek-chat",
-                "messages": [{"role": "user", "content": prompt}],
-                "max_tokens": 200,
-                "temperature": 0.1
-            },
-            timeout=30
-        )
-        data = resp.json()
-        return data["choices"][0]["message"]["content"].strip()
+        return _gemini(prompt, max_tokens=200, temperature=0.1)
     except Exception as e:
-        print(f"[DeepSeek TRANSLATE ERROR] {e}")
+        print(f"[Gemini TRANSLATE ERROR] {e}")
         return title
 
 
 def summarize(article: dict) -> str:
-    """DeepSeek APIで日本語要約"""
-    if not DEEPSEEK_API_KEY:
+    """Gemini APIで日本語要約"""
+    if not GEMINI_API_KEY:
         abstract = article.get("abstract", "")
         return abstract[:SUMMARY_MAX_CHARS] if abstract else "要約なし"
 
@@ -53,34 +59,53 @@ def summarize(article: dict) -> str:
         f"タイトル: {title}\n"
         f"内容: {abstract}"
     )
-
     try:
-        resp = requests.post(
-            "https://api.deepseek.com/v1/chat/completions",
-            headers={
-                "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
-                "Content-Type": "application/json"
-            },
-            json={
-                "model": "deepseek-chat",
-                "messages": [{"role": "user", "content": prompt}],
-                "max_tokens": 400,
-                "temperature": 0.3
-            },
-            timeout=30
-        )
-        data = resp.json()
-        summary = data["choices"][0]["message"]["content"].strip()
-        return summary[:SUMMARY_MAX_CHARS]
+        result = _gemini(prompt, max_tokens=400, temperature=0.3)
+        return result[:SUMMARY_MAX_CHARS]
     except Exception as e:
-        print(f"[DeepSeek ERROR] {e}")
+        print(f"[Gemini ERROR] {e}")
         abstract = article.get("abstract", "")
         return abstract[:SUMMARY_MAX_CHARS] if abstract else "要約取得失敗"
+
+
+def generate_daily_summary(report: dict) -> str:
+    """全記事をGeminiに渡して本日の注目3トピックを500文字で要約"""
+    if not GEMINI_API_KEY:
+        return ""
+
+    lines = []
+    for group_key, group in report.items():
+        if not isinstance(group, dict):
+            continue
+        for articles in group.values():
+            for article in articles:
+                title = article.get("title", "")
+                summary = article.get("summary_ja", "") or article.get("abstract", "")
+                if title:
+                    lines.append(f"- {title}: {summary[:120]}")
+
+    if not lines:
+        return ""
+
+    articles_text = "\n".join(lines[:50])
+    prompt = (
+        "以下はKlotho、PF4、NK cell therapy、Exosomes、sEVsに関する本日の論文・記事一覧です。\n"
+        "特に注目すべき3つのトピックを選び、それぞれの重要性・背景・今後の展望を含めて"
+        "合計500文字以内の日本語でまとめてください。\n\n"
+        f"{articles_text}"
+    )
+    try:
+        return _gemini(prompt, max_tokens=700, temperature=0.4)
+    except Exception as e:
+        print(f"[Gemini DAILY SUMMARY ERROR] {e}")
+        return ""
 
 
 def summarize_all(report: dict) -> dict:
     """reportの全記事に日本語タイトル訳・要約を付与"""
     for group in report.values():
+        if not isinstance(group, dict):
+            continue
         for articles in group.values():
             for article in articles:
                 article["title_ja"] = translate_title(article.get("title", ""))

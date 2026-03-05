@@ -53,6 +53,14 @@ def build_message(report: dict) -> str:
         lines.append("\n本日は全キーワードでヒットなしでした。")
 
     lines.append(f"\n合計: {total_count}件")
+
+    ai_summary = report.get("summary", "")
+    if ai_summary:
+        lines.append(f"\n{'='*25}")
+        lines.append("■ 本日のAIサマリー（Gemini）")
+        lines.append(f"{'='*25}")
+        lines.append(ai_summary)
+
     return "\n".join(lines)
 
 

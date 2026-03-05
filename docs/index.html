@@ -289,12 +289,41 @@
     .no-data h2 { font-size: 1rem; margin-bottom: 8px; color: #999; }
     .no-data p { font-size: 0.82rem; }
 
+    /* ===== AI Summary ===== */
+    .summary-section {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 14px 14px 0;
+    }
+    .summary-box {
+      background: linear-gradient(135deg, #f0f4ff 0%, #e8f5e9 100%);
+      border: 1px solid #b3c3f7;
+      border-radius: 10px;
+      padding: 14px 16px;
+    }
+    .summary-box-header {
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: #3b5bdb;
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .summary-box-text {
+      font-size: 0.83rem;
+      color: #333;
+      line-height: 1.75;
+      white-space: pre-wrap;
+    }
+
     @media (max-width: 480px) {
       header h1 { font-size: 0.88rem; }
       main { padding: 12px 10px 40px; }
       .article-card { padding: 10px 11px; }
       .article-title-en { font-size: 0.84rem; }
       .article-summary { font-size: 0.8rem; }
+      .summary-section { padding: 10px 10px 0; }
     }
   </style>
 </head>
@@ -370,6 +399,8 @@
   </div>
   <div class="group-menu-backdrop" id="group-menu-backdrop"></div>
 </div>
+
+<div class="summary-section" id="summary-section"></div>
 
 <main id="main-content">
   <div class="status-msg">読み込み中...</div>
@@ -464,6 +495,7 @@
       currentData = await res.json();
       updateBadges();
       updateBarBadge();
+      renderSummary();
       renderGroup(currentGroup);
     } catch (e) {
       document.getElementById('main-content').innerHTML =
@@ -484,6 +516,18 @@
   }
   function updateBarBadge() {
     document.getElementById('group-bar-badge').textContent = groupCount(currentGroup);
+  }
+
+  // ---- Render AI summary ----
+  function renderSummary() {
+    const sec = document.getElementById('summary-section');
+    const text = currentData && currentData.summary;
+    if (!text) { sec.innerHTML = ''; return; }
+    sec.innerHTML = `
+      <div class="summary-box">
+        <div class="summary-box-header">■ 本日のAIサマリー（Gemini）</div>
+        <div class="summary-box-text">${esc(text)}</div>
+      </div>`;
   }
 
   // ---- Render group ----

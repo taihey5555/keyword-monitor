@@ -44,8 +44,36 @@ def select_top3(articles: list[dict]) -> list[dict]:
     if not DEEPSEEK_API_KEY:
         return articles[:3]
 
+    _MAX = 500
+
+    # 500件超の場合はキーワード×日付でバランスよくサンプリング
+    if len(articles) > _MAX:
+        from collections import defaultdict
+        buckets: dict[tuple, list] = defaultdict(list)
+        for a in articles:
+            key = (a.get("keyword", ""), a.get("_date", ""))
+            buckets[key].append(a)
+
+        sampled: list[dict] = []
+        bucket_list = list(buckets.values())
+        # ラウンドロビンで各バケットから1件ずつ取り出して500件に達するまで繰り返す
+        round_idx = 0
+        while len(sampled) < _MAX:
+            added_this_round = False
+            for bucket in bucket_list:
+                if round_idx < len(bucket):
+                    sampled.append(bucket[round_idx])
+                    added_this_round = True
+                    if len(sampled) >= _MAX:
+                        break
+            if not added_this_round:
+                break
+            round_idx += 1
+        articles = sampled
+        print(f"[WEEKLY] サンプリング: {len(articles)}件（キーワード×日付バランス）")
+
     lines = []
-    for i, article in enumerate(articles[:100]):
+    for i, article in enumerate(articles):
         title = article.get("title_ja") or article.get("title", "")
         summary = article.get("summary_ja") or article.get("abstract", "")
         date = article.get("_date", "")

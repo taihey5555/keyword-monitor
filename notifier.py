@@ -38,15 +38,11 @@ def build_message(report: dict) -> str:
                 lines.append("該当なし")
                 continue
             for i, article in enumerate(articles, 1):
-                title = article.get("title", "タイトル不明")
+                title_ja = article.get("title_ja") or article.get("title", "タイトル不明")
                 url = article.get("url", "URL不明")
                 summary = article.get("summary_ja", "要約なし")
-                source = article.get("source", "")
-                matched = article.get("matched_keywords", [])
-                lines.append(f"\n{i}. {title}")
-                if matched:
-                    lines.append(f"マッチ: {' + '.join(matched)}")
-                lines.append(f"出典: [{source}] {url}")
+                lines.append(f"\n{i}. {title_ja}")
+                lines.append(url)
                 lines.append(f"{summary}")
 
     if total_count == 0:

@@ -8,7 +8,7 @@ _GEMINI_URL = (
 )
 
 # 15 RPM制限対策: 呼び出し間隔（秒）
-_CALL_INTERVAL = 5
+_CALL_INTERVAL = 3
 
 
 def _gemini(prompt: str, max_tokens: int = 400, temperature: float = 0.3) -> str:

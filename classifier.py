@@ -1,3 +1,6 @@
+import re
+from difflib import SequenceMatcher
+
 from config import KEYWORDS, FIELDS
 
 
@@ -38,38 +41,81 @@ FIELD_KEYWORDS = {
 # グループの表示順（KEYWORDS数に応じて自動生成）
 GROUP_ORDER = ["A"] + [f"B{i+1}" for i in range(len(KEYWORDS))]
 
+_TITLE_SIMILARITY_THRESHOLD = 0.8
+
+
+def _normalize_title(title: str) -> str:
+    """タイトルを正規化（英字小文字化・記号除去）"""
+    t = (title or "").lower()
+    t = re.sub(r'[^a-z0-9\u3040-\u9fff]', ' ', t)
+    t = re.sub(r'\s+', ' ', t).strip()
+    return t
+
 
 def classify_ab(article_lists: list[list[dict]]) -> dict:
     """
     A:      2つ以上のキーワードにヒット（article["matched_keywords"] に組み合わせを記録）
     B1-B5:  各キーワードのみにヒット
+
+    重複排除（キーワードをまたいで適用）:
+      1. URL完全一致
+      2. DOI一致
+      3. タイトル類似度80%以上
     """
     kw_names = list(KEYWORDS.values())
     n = len(kw_names)
 
-    # url → article（最初にヒットしたキーワードのデータを優先）
-    url_to_article: dict[str, dict] = {}
-    # url → ヒットしたキーワード名リスト
-    url_to_matched: dict[str, list[str]] = {}
+    # 正規記事リスト: [(article, [matched_kw, ...])]
+    canonical: list[tuple[dict, list[str]]] = []
+    url_map: dict[str, int] = {}   # url → canonical index
+    doi_map: dict[str, int] = {}   # doi → canonical index
+    title_map: list[tuple[str, int]] = []  # (normalized_title, canonical index)
 
     for i, articles in enumerate(article_lists):
         for a in articles:
-            url = a["url"]
-            if not url:
+            url = (a.get("url") or "").strip()
+            doi = (a.get("doi") or "").strip()
+            title = (a.get("title") or "").strip()
+
+            # 1. URL完全一致
+            dup_idx = url_map.get(url) if url else None
+
+            # 2. DOI一致
+            if dup_idx is None and doi:
+                dup_idx = doi_map.get(doi)
+
+            # 3. タイトル類似度
+            if dup_idx is None and title:
+                norm = _normalize_title(title)
+                if norm:
+                    for existing_norm, idx in title_map:
+                        if SequenceMatcher(None, norm, existing_norm).ratio() >= _TITLE_SIMILARITY_THRESHOLD:
+                            dup_idx = idx
+                            break
+
+            if dup_idx is not None:
+                _, matched = canonical[dup_idx]
+                if kw_names[i] not in matched:
+                    matched.append(kw_names[i])
                 continue
-            if url not in url_to_article:
-                url_to_article[url] = a
-            if url not in url_to_matched:
-                url_to_matched[url] = []
-            if kw_names[i] not in url_to_matched[url]:
-                url_to_matched[url].append(kw_names[i])
+
+            # 新規記事として登録
+            new_idx = len(canonical)
+            canonical.append((a, [kw_names[i]]))
+            if url:
+                url_map[url] = new_idx
+            if doi:
+                doi_map[doi] = new_idx
+            if title:
+                norm = _normalize_title(title)
+                if norm:
+                    title_map.append((norm, new_idx))
 
     result: dict[str, list] = {"A": []}
     for i in range(n):
         result[f"B{i+1}"] = []
 
-    for url, article in url_to_article.items():
-        matched = url_to_matched[url]
+    for article, matched in canonical:
         art = article.copy()
         if len(matched) >= 2:
             art["matched_keywords"] = matched

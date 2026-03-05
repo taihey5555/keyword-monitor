@@ -1,3 +1,4 @@
+import time
 import requests
 from config import GEMINI_API_KEY, SUMMARY_MAX_CHARS
 
@@ -6,22 +7,33 @@ _GEMINI_URL = (
     "/models/gemini-2.0-flash:generateContent"
 )
 
+# 15 RPM制限対策: 呼び出し間隔（秒）
+_CALL_INTERVAL = 5
+
 
 def _gemini(prompt: str, max_tokens: int = 400, temperature: float = 0.3) -> str:
-    """Gemini API 共通呼び出し"""
-    resp = requests.post(
-        f"{_GEMINI_URL}?key={GEMINI_API_KEY}",
-        json={
-            "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {
-                "maxOutputTokens": max_tokens,
-                "temperature": temperature
-            }
-        },
-        timeout=30
-    )
-    resp.raise_for_status()
-    return resp.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
+    """Gemini API 共通呼び出し（429時は自動リトライ）"""
+    for attempt in range(4):
+        resp = requests.post(
+            f"{_GEMINI_URL}?key={GEMINI_API_KEY}",
+            json={
+                "contents": [{"parts": [{"text": prompt}]}],
+                "generationConfig": {
+                    "maxOutputTokens": max_tokens,
+                    "temperature": temperature
+                }
+            },
+            timeout=30
+        )
+        if resp.status_code == 429:
+            wait = _CALL_INTERVAL * (2 ** attempt)  # 5 → 10 → 20 → 40秒
+            print(f"[Gemini] 429 Rate limit、{wait}秒待機してリトライ ({attempt+1}/4)...")
+            time.sleep(wait)
+            continue
+        resp.raise_for_status()
+        time.sleep(_CALL_INTERVAL)  # 成功後も次の呼び出しまで待機
+        return resp.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
+    resp.raise_for_status()  # 最終的に失敗なら例外を投げる
 
 
 def translate_title(title: str) -> str:

@@ -16,7 +16,7 @@
         "source": "PubMed",
         "keyword": "Klotho",
         "title_ja": "CKDステージ2～5Dの小児におけるミネラル代謝マーカー",
-        "summary_ja": "本論文は、小児のCKDステージ2～5Dにおける、CKD-MBD関連の加齢・性別に応じたマーカーの変化を初めて調査した。血清リン、FGF23、PTHはCKDの進行に伴い早期から上昇し、ビタミンDは低下した。特に思春期前の小児では、これらのマーカーの変動が顕著であった。この知見は、小児CKD-MBDの病態理解と、成長段階を考慮した管理戦略の必要性を示唆している。"
+        "summary_ja": "本論文は、小児CKD患者（ステージ2～5D）におけるCKD-MBD関連マーカーの加齢・性別に応じた変化を初めて包括的に検討した。血清リン、FGF23、PTHはCKDの進行とともに上昇し、特にステージ3以降で顕著であった。ビタミンDは早期から低下し、石灰化抑制因子であるフェチュインAはステージ5Dで高値を示した。これらのマーカーの変動パターンは成人と異なり、小児特有の成長・骨代謝を反映している。"
       },
       {
         "title": "Yi-Shen-Hua-Shi granules ameliorate renal injury via PPARγ-Klotho-mediated metabolic restoration and immune regulation in adenine-induced chronic kidney disease.",
@@ -25,7 +25,7 @@
         "source": "PubMed",
         "keyword": "Klotho",
         "title_ja": "Yi-Shen-Hua-Shi顆粒は、アデニン誘発性慢性腎臓病においてPPARγ-Klothoを介した代謝回復と免疫調節により腎障害を改善する",
-        "summary_ja": "本論文は、慢性腎臓病（CKD）に対する漢方薬「益腎化湿顆粒（Yi-Shen-Hua-Shi granule, YS）」の作用機序を解明した研究である。アデニン誘発CKDマウスモデルを用いた実験により、YS顆粒がPPARγを活性化し、抗老化因子Klothoの発現を増加させることを示した。これにより、脂質・糖代謝異常の改善、炎症性サイトカインの抑制、腎線維化の軽減が達成され、腎機能保護効果が発揮されると結論づけている。"
+        "summary_ja": "本論文は、慢性腎臓病（CKD）に対する益腎化湿顆粒（YS顆粒）の作用機序を解明した研究である。アデニン誘発CKDラットモデルを用いた実験により、YS顆粒が腎機能改善、蛋白尿減少、病理損傷軽減をもたらすことを確認した。その分子メカニズムは、PPARγの活性化と抗老化因子Klothoの発現上昇を通じた代謝恒常性の回復（脂質・糖代謝改善）と、免疫調節（炎症性サイトカイン抑制、M1/M2マクロファージバランス是正）の二つの経路によるものである。"
       },
       {
         "title": "Klotho antiaging protein: molecular mechanisms and therapeutic potential in diseases",
@@ -34,7 +34,7 @@
         "source": "SemanticScholar",
         "keyword": "Klotho",
         "title_ja": "クロトー抗老化タンパク質：疾患における分子メカニズムと治療可能性",
-        "summary_ja": "Klothoは抗老化タンパク質として同定され、腎臓を中心に発現する。膜結合型と可溶型の2形態があり、抗炎症・抗酸化・抗線維化・腫瘍抑制など多様な作用を示す。膜結合型はFGF23シグナル・ビタミンD代謝・リン恒常性の調節により腎臓の恒常性維持に中心的役割を果たす。Klotho欠乏は、慢性腎臓病の主要因である糖尿病性腎症（DKD）を含む腎疾患への防御能を低下させる。KlothoはDKDの複雑な病態（炎症・酸化ストレス・線維化）に対し有益な効果を示し、その保護作用は心血管疾患・アルツハイマー病・癌などにも及ぶ。本論文は、特にDKDに焦点を当てたKlothoと疾患の関連、作用機序、および外来性Klotho補充療法の可能性を総括する。"
+        "summary_ja": "Klothoは抗老化タンパク質として同定され、主に腎臓で発現する。膜型と可溶型の2形態が存在し、抗炎症・抗酸化・抗線維化・腫瘍抑制など多様な薬理作用を示す。膜型はFGF23シグナル・ビタミンD代謝・リン平衡を調節し、腎恒常性維持に中心的役割を果たす。Klotho欠乏は、慢性腎臓病の主要因である糖尿病性腎症（DKD）を含む腎疾患への防御能を低下させる。KlothoはDKDの複雑な病態（炎症・酸化ストレス・線維化）を抑制し、さらに心血管疾患・アルツハイマー病・癌など広範な疾患への保護効果が示されている。本総説は、特にDKDに焦点を当てたKlothoと疾患の関連、作用機序、および治療戦略としての外因性Klotho補充の可能性をまとめる。今後の研究はDKDをはじめとする疾患の新規治療法開発につながると期待される。"
       }
     ],
     "生物学": [
@@ -45,7 +45,7 @@
         "source": "PubMed",
         "keyword": "Klotho",
         "title_ja": "高齢男性における7日間の温水浸漬は、休息時のアイリシンとBDNFを増加させるが、クロトーは増加させない。",
-        "summary_ja": "高齢男性12名を対象に、7日間の温水浴が認知・代謝健康に関わるバイオマーカー（BDNF、イリシン、クロトー）に及ぼす影響を検証。その結果、安静時BDNFとイリシンは有意に増加したが、クロトーと運動誘発性の各因子には変化が認められなかった。加齢で低下するこれらの因子に対し、運動が困難な場合の代替手段として、受動的加熱（温水浴）の有用性が示唆される。"
+        "summary_ja": "高齢男性12名を対象に、7日間の温水浴が認知・代謝健康に関わるBDNF、イリシン、クロトーの安静時・運動誘発レベルに及ぼす影響を検証。その結果、安静時のBDNFとイリシンは有意に増加したが、クロトーと運動誘発レベルには変化が認められなかった。運動が困難な高齢者において、受動的加熱は細胞レベルの生理的レジリエンスを高める有望な代替手段となりうる。"
       },
       {
         "title": "Low-level expression of Cmyc in mature neurons: Maintaining neuronal function and preventing neurodegeneration.",
@@ -54,7 +54,7 @@
         "source": "PubMed",
         "keyword": "Klotho",
         "title_ja": "成熟ニューロンにおけるCmycの低レベル発現：神経機能の維持と神経変性の防止",
-        "summary_ja": "成熟ニューロンにおける低レベルCmyc発現：神経機能維持と神経変性予防\n\n従来、成熟ニューロンでは機能なしとされた原がん遺伝子Cmycが、実はドーパミンニューロンの健康維持に必須であることを示唆。成体マウス黒質ドーパミンニューロン特異的Cmyc欠失により、進行性神経脱落、パーキンソン病様症状、Klotho発現低下、細胞老化関連炎症・酸化ストレス増加、α-シヌクレイン蓄積が生じた。in vitroではC-MYC欠失細胞の老化がKLOTHO過剰発現により部分的回復。低レベルCmycはc-Myc/Klotho軸を介して神経変性を防ぎ、加齢関連神経変性疾患の新規治療標候補となる。本研究は正常加齢関連パーキンソン病様状態を再現する新規マウスモデルを提供した。"
+        "summary_ja": "成熟ニューロンにおける低レベルCmyc発現：神経機能維持と神経変性予防\n\n従来、成熟ニューロンでは機能なしとされた原癌遺伝子Cmycが、実はドーパミンニューロンの健康維持に必須であることを示唆。成体マウス黒質ドーパミンニューロン特異的Cmyc欠失は、進行性神経脱落、パーキンソン病様症状、Klotho発現低下、細胞老化関連炎症亢進、酸化ストレス増大、ニトロ化α-シヌクレイン蓄積を引き起こした。in vitroではC-MYC欠失細胞の老化がKLOTHO過剰発現により部分的回復。c-Myc/Klotho軸は加齢関連神経変性疾患の新規治療標候補となり、本研究は正常加齢関連パーキンソン病様状態を再現する新規マウスモデルを提供する。"
       }
     ],
     "農学": [],
@@ -71,7 +71,7 @@
         "source": "PubMed",
         "keyword": "PF4",
         "title_ja": "機械学習、コロカリゼーション、およびSMR解析の統合によるクローン病の新規バイオマーカーの同定。",
-        "summary_ja": "本研究は、機械学習・コロカリゼーション・SMR解析を統合し、クローン病(CD)の新規バイオマーカーを同定した。GEOデータセットを用い、ネットワーク解析と複数の機械学習アルゴリズムにより、CXCL5、SERPINB2、SOCS3、PF4、IL1R1の5つのハブ遺伝子を選定。これらは高い診断性能を示し、免疫細胞浸潤やTh1/Th17応答と関連していた。特に、コロカリゼーションとSMR解析により、IL1R1がCD発症との因果的関連を有する診断バイオマーカーかつ治療標的としての可能性が示された。"
+        "summary_ja": "本研究は、機械学習・コロカリゼーション・SMR解析を統合し、クローン病(CD)の新規バイオマーカーを同定した。GEOデータセットを用い、ネットワーク解析と複数の機械学習アルゴリズムにより、CXCL5、SERPINB2、SOCS3、PF4、IL1R1の5つのハブ遺伝子を抽出。これらは高い診断性能を示し、免疫細胞浸潤やTh1/Th17応答と関連していた。特に、コロカリゼーションとSMR解析により、IL1R1がCD発症との因果的関連を有する診断バイオマーカーかつ治療標的であることが示された。"
       },
       {
         "title": "Single-cell transcriptomic profiling of platelet-adherent circulating tumor cells using a microcavity-gel manipulation platform.",
@@ -80,7 +80,7 @@
         "source": "PubMed",
         "keyword": "PF4",
         "title_ja": "マイクロキャビティ・ゲル操作プラットフォームを用いた血小板接着性循環腫瘍細胞の単一細胞トランスクリプトーム解析",
-        "summary_ja": "膵癌は転移性・薬剤耐性により致死率が高い。本研究では、転移の鍵を握る循環腫瘍細胞（CTCs）を、マイクロキャビティアレイとゲル操作技術を組み合わせたプラットフォームで回収し、単一細胞トランスクリプトーム解析を実施した。患者由来CTCsの解析により、その多くが上皮間葉転換（EMT）様の特徴を示し、血小板関連遺伝子（PF4、PPBP）の発現上昇から血小板によるEMT活性化が示唆された。またCTCsは細胞周期G1期で停止しており、治療ストレス下での生存メカニズムが示された。本プラットフォームは高品質な単一細胞解析を可能とし、膵癌CTCsの生物学的理解に新たな知見を与える。"
+        "summary_ja": "膵癌は転移・耐性化により致死率が高い。本研究は、転移の鍵を握る循環腫瘍細胞（CTCs）を単細胞レベルで解析するため、マイクロキャビティアレイとゲル操作を組み合わせたプラットフォームを開発した。これにより、非標的細胞の混入を抑えつつ高品質な単細胞RNAシーケンスが可能となった。患者由来CTCsの解析では、上皮間葉転換（EMT）様特徴と血小板関連遺伝子（PF4、PPBP）の高発現が観察され、血小板によるEMT活性化が示唆された。またCTCsは細胞周期G1期で停止しており、治療ストレス下での生存メカニズムが示された。本プラットフォームはCTCsの生物学的解明に有用である。"
       },
       {
         "title": "Target anesthesia and surgery induced senescent cell via composite microsphere hydrogels as nose-to-brain amplifiers of platelet factor 4 delivery for neurocognitive dysfunction repair.",
@@ -89,7 +89,7 @@
         "source": "PubMed",
         "keyword": "PF4",
         "title_ja": "標的麻酔および手術誘発性老化細胞に対する複合マイクロスフェアハイドロゲルを介した血小板第4因子の鼻から脳への送達増幅による神経認知機能障害修復",
-        "summary_ja": "**要約**\n周術期神経認知障害（PND）は高齢手術患者に多く、認知機能低下を引き起こす。本研究は、高齢マウスにおいて麻酔・手術が海馬神経細胞の老化（細胞老化）を増強し、シナプス機能障害を招くことを示した。老化細胞から分泌されるSASPが炎症と認知機能低下を促進する。一方、血小板由来因子PF4の上昇は防御的反応であり、その投与は神経細胞老化を軽減し認知機能を改善した。臨床応用に向け、鼻腔から脳への持続的PF4送達を可能にする微小球ハイドロゲル複合体を開発した。細胞老化がPNDの鍵であり、PF4療法は有望な治療戦略である。"
+        "summary_ja": "**要約**\n周術期神経認知障害（PND）は高齢手術患者に多く、認知機能低下を引き起こす。本研究は、高齢マウスにおいて麻酔・手術が海馬神経細胞の老化（細胞老化）を促進し、老化関連分泌形質（SASP）等のマーカーを増加させることを示した。同時に、血小板由来因子PF4の防御的反応を同定し、その投与が神経細胞老化と認知障害を軽減した。さらに、侵襲が少なく持続的な治療を実現するため、鼻腔から脳へのPF4送達を可能にする複合マイクロスフェア・ハイドロゲル製剤を開発した。細胞老化がPNDの重要なメカニズムであり、PF4療法は有望な治療戦略である。"
       }
     ],
     "生物学": [
@@ -100,7 +100,7 @@
         "source": "PubMed",
         "keyword": "PF4",
         "title_ja": "GRIPAP1は血小板α顆粒の生合成を仲介するエンドソーム係留因子である。",
-        "summary_ja": "血小板α顆粒は巨核球で産生されるリソソーム関連細胞小器官である。本研究では、普遍的に発現するタンパク質GRIPAP1がα顆粒形成機構の新規構成因子であることを発見した。GRIPAP1欠損巨核球ではα顆粒数と内容物が減少した。GRIPAP1はRab4aとStx12が存在するエンドソーム領域に局在し、GTP結合型Rab4aと結合して膜へリクルートされる。生化学的には膜テザリング因子に類似した伸長型ホモ二量体を形成し、ミトコンドリアへ人為的に局在化させると、Rab4a区画と輸送中のPF4やトランスフェリンをミトコンドリアへ再配置できた。GRIPAP1はエンドソーム輸送とα顆粒形成を仲介するテザリング因子として機能すると結論される。"
+        "summary_ja": "本論文は、血小板α顆粒の生合成における新規因子GRIPAP1を同定した。GRIPAP1は、メガカリオサイト内でRab4aと結合し、エンドソーム膜ドメインに局在する。これが、エンドサイトーシスで取り込まれたフィブリノゲンや新規合成PF4などのカーゴのα顆粒への輸送を仲介する膜係留因子として機能する。GRIPAP1欠損ではα顆粒数が減少し、逆にミトコンドリアへ人為的に局在化させると、Rab4a区画とα顆粒前駆カーゴをミトコンドリアへ再配置できた。GRIPAP1は、α顆粒をはじめとするエンド・リソソーム関連オルガネラ形成の理解を進める新規エンドソーム係留因子である。"
       },
       {
         "title": "Classification of Platelet-Activating Anti-Platelet Factor 4 Disorders.",
@@ -118,7 +118,98 @@
     "ビジネス": []
   },
   "B3": {
-    "医学": [],
+    "医学": [
+      {
+        "title": "Enhancing cancer killing and natural killer cell persistence by targeting NOXA, a predictor of poor patient survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41783357/",
+        "abstract": "Natural killer (NK)-cell-based therapeutics have emerged as promising modalities in cancer immunotherapy due to their potent ability to target and kill cancer cells. However, their clinical efficacy is often constrained by the limited ",
+        "source": "PubMed",
+        "keyword": "NK cell therapy",
+        "title_ja": "患者生存率低下の予測因子NOXAを標的とした、がん殺傷効果とナチュラルキラー細胞持続性の向上",
+        "summary_ja": "本論文は、がん免疫療法におけるNK細胞療法の効果を高める新たなアプローチを報告する。NK細胞の抗腫瘍活性と持続性は、Bcl-2ファミリーのプロアポトーシスタンパク質NOXAの発現によって制限されている。研究では、NOXAを標的として抑制することで、NK細胞のがん細胞殺傷能と体内での生存期間が著しく向上し、腫瘍増殖が抑制されることを示した。臨床データから、NOXAは患者予後の不良な予測因子でもある。したがって、NOXAを標的とすることは、NK細胞療法の臨床的有効性を改善する有望な戦略である。"
+      },
+      {
+        "title": "Spontaneous clinical and anatomical pathology findings in SDRG rats.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41782294/",
+        "abstract": "The SDRG rat, characterized by a Sprague-Dawley (SD) genetic background with deletion of ",
+        "source": "PubMed",
+        "keyword": "NK cell therapy",
+        "title_ja": "SDRGラットにおける自然発生的な臨床所見および解剖病理学的所見",
+        "summary_ja": "**タイトル: SDRGラットにおける自発的臨床・解剖病理学的所見**\n\nSDRGラットは、Sprague-Dawley (SD)遺伝的背景に**グレリン受容体(GHSR)遺伝子欠失**を有する。本研究では、この系統の**自発的発生病変**を詳細に調査した。主な所見として、加齢に伴い**腎臓**に高い頻度で嚢胞・腺腫が観察され、特に雄で顕著であった。また、**下垂体**の過形成/腺腫、**膵臓**の腺腫/腺癌、**肝臓**の結節性過形成など、多臓器に腫瘍性・過形成病変が認められた。これらの所見は、GHSR欠失に起因する内分泌・代謝調節異常が背景にある可能性を示唆しており、SDRGラットが特定の病態研究に有用なモデルであることを明らかにした。"
+      },
+      {
+        "title": "Overexpression of TFF3 is Associated with Immune Infiltration, Molecular Subtypes, and Clinical Progression in Breast Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41779324/",
+        "abstract": "Trefoil factor 3 (TFF3), a secreted protein involved in mucosal protection and tumor progression, has an incompletely defined role in breast cancer (BRCA). This study aimed to comprehensively evaluate TFF3 expression patterns, clinical relevance, and prognostic significance in BRCA.",
+        "source": "PubMed",
+        "keyword": "NK cell therapy",
+        "title_ja": "TFF3の過剰発現は、乳癌における免疫浸潤、分子サブタイプ、および臨床進行と関連している。",
+        "summary_ja": "本論文は、TFF3（Trefoil factor 3）の発現が乳癌（BRCA）における免疫浸潤、分子サブタイプ、臨床進行と関連することを包括的に評価した。解析の結果、TFF3はBRCA組織で高発現し、その発現レベルは臨病期の進行、リンパ節転移、予後不良と相関していた。さらに、TFF3高発現は、腫瘍微小環境における免疫細胞（特にマクロファージやT細胞）の浸潤増加と強く関連し、特定の分子サブタイプ（特にHER2陽性型およびルミナル型）で顕著であった。これらの知見は、TFF3がBRCAの進行と免疫応答に関与する潜在的なバイオマーカーおよび治療標的となりうることを示唆している。"
+      },
+      {
+        "title": "Natural killer cell-inspired dendritic mesoporous rare-earth nanoparticles potentiate X-ray-triggered reactive oxygen generation for low-dose radiotherapy-radiodynamic therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41737643/",
+        "abstract": "The efficacy of traditional radiotherapy has been significantly limited by its severe side effects, tumor hypoxia, and insufficient tumor accumulation. To address these challenges, we developed a multifarious radio enhancer composed of NK cell-derived extracellular vesicle (NKEV)-cloaked dendritic mesoporous thulium oxide (Tm",
+        "source": "PubMed",
+        "keyword": "NK cell therapy",
+        "title_ja": "ナチュラルキラー細胞に着想を得た樹状メソポーラス希土類ナノ粒子によるX線誘起活性酸素生成の増強：低線量放射線治療・放射線力学療法への応用",
+        "summary_ja": "本論文では、従来の放射線療法（RT）の副作用、腫瘍低酸素、集積不足を克服するため、NK細胞由来細胞外小胞（NKEV）で被覆した樹状メソポーラス酸化ツリウム（Tm₂O₃）ナノ粒子（NKEV@dmTm）を開発した。この複合体は、X線照射下で活性酸素種（ROS）を効率的に生成し、低酸素環境でも放射線増感効果を発揮する。さらに、NKEVの膜により腫瘍ターゲティング性と免疫賦活化能が付与され、低用量RTとラジオダイナミック療法（RDT）を組み合わせた相乗的治療を実現し、従来RTの課題を大幅に改善した。"
+      },
+      {
+        "title": "A mixed inflammatory peripheral signature defines clinical outcomes in a phase II trial combining pembrolizumab with paclitaxel and carboplatin in melanoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41732954/",
+        "abstract": "Checkpoint blockade of PD-1 with pembrolizumab provides long-term survival to a significant proportion of patients with metastatic melanoma. Pembrolizumab has been successfully used in combination with chemotherapy in non-small-cell lung cancer to increase the response rate. This phase II trial combined pembrolizumab with carboplatin/paclitaxel (CP) to assess its safety and efficacy, and to identify correlates of responses. Thirty patients without prior immunotherapy for unresectable/metastatic melanoma were treated with pembrolizumab and CP. Peripheral blood was collected at baseline and after 2 cycles to characterize systemic immune activity by multiplex assays and flow cytometry. Seventy percent of patients received all 4 cycles of CP; 87% received pembrolizumab for 2 y or until progression. Grade 3 and higher adverse events (AEs) occurred in 50% of the patients. The overall response rate (ORR) and disease control rate (DCR) by irRC criteria were 43% and 53%, respectively. Median overall survival (OS) was 23.8 months. Objective response was associated with a lower frequency of naive CD8 T cells and low plasma CCL3 at baseline, along with a larger proportion of mature NK cells and of CD4 T cells expressing BTLA or LAIR-1. Survival rate was higher for patients with lower baseline of IL-6, IL-8, and CD4",
+        "source": "PubMed",
+        "keyword": "NK cell therapy",
+        "title_ja": "混合炎症性末梢シグネチャーが、メラノーマにおけるペムブロリズマブとパクリタキセルおよびカルボプラチンの併用第II相試験の臨床転帰を定義する",
+        "summary_ja": "本試験は、切除不能/転移性メラノーマ患者30名を対象に、ペムブロリズマブ（抗PD-1抗体）とカルボプラチン/パクリタキセル（CP）併用療法の安全性・有効性を評価した第II相試験である。全患者の50%にGrade 3以上の有害事象が認められた。irRC基準での全奏効率（ORR）は43%、疾患制御率（DCR）は53%、中央値全生存期間（OS）は23.8か月であった。奏効と関連した末梢血バイオマーカーとして、ベースラインでのナイーブCD8 T細胞と血漿CCL3の低値、成熟NK細胞およびBTLA/LAIR-1発現CD4 T細胞の高頻度が同定された。また、IL-6、IL-8、CD4のベースライン値が低い患者で生存率が高かった。"
+      },
+      {
+        "title": "Targeting immune checkpoint therapy: The role of manganese in tumor immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41732211/",
+        "abstract": "Cancer immunotherapy has emerged as a promising complement to traditional treatments such as radiotherapy and chemotherapy. Although conventional therapies remain central to cancer management, the potential of immunotherapy is increasingly recognized. Immune checkpoint therapy, a key strategy in tumor immunotherapy, has demonstrated significant efficacy against solid tumors. However, its clinical application is hindered by its limited response rate, necessitating efforts to optimize its effectiveness. Recent studies have highlighted the pivotal role of the cyclic GMP-AMP synthase (cGAS) - stimulator of interferon gene (STING) pathway in immune checkpoint therapy. Manganese (Mn), an essential trace element, regulates the activity of CD8",
+        "source": "PubMed",
+        "keyword": "NK cell therapy",
+        "title_ja": "免疫チェックポイント療法の標的化：腫瘍免疫療法におけるマンガンの役割",
+        "summary_ja": "本論文は、がん免疫療法における免疫チェックポイント療法の効果を高めるためのマンガン（Mn）の役割に着目している。従来の放射線・化学療法に加え、免疫療法は有望な補完的治療として注目されるが、特に免疫チェックポイント療法は固形がんに有効であるものの、奏効率の低さが課題である。近年、cGAS-STING経路が免疫チェックポイント療法において重要な役割を果たすことが明らかになっており、必須微量元素であるマンガンは、この経路を活性化させるとともに、CD8+ T細胞の機能を調節することで、抗腫瘍免疫応答を増強する可能性が示されている。"
+      },
+      {
+        "title": "Come together: The BE-TILs-Efficient multiplex base editing of tumor-infiltrating lymphocytes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41716470/",
+        "abstract": "",
+        "source": "PubMed",
+        "keyword": "NK cell therapy",
+        "title_ja": "共に集え：腫瘍浸潤リンパ球におけるBE-TILs-効率的マルチプレックス塩基編集",
+        "summary_ja": "**タイトル：BE-TILs：腫瘍浸潤リンパ球（TILs）における効率的マルチプレックス塩基編集**\n\n本論文は、がん免疫療法における腫瘍浸潤リンパ球（TILs）の機能を強化するため、CRISPR-Cas9由来の塩基編集技術（BE）を用いて、複数の遺伝子座を同時に効率的に改変する新規プラットフォーム「BE-TILs」を開発した。この手法により、T細胞の機能を抑制する複数の遺伝子（例：PD-1、CTLA-4）を一括で不活化でき、従来法と比較して細胞生存率を高めつつ、高い編集効率を達成した。これにより、改変TILsの抗腫瘍活性の持続的向上が可能となり、固形がん治療への応用が期待される。"
+      },
+      {
+        "title": "From innate immunity to precision cancer therapy: the clinical advancement of NK cell therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41707592/",
+        "abstract": "Natural killer (NK) cells are pivotal effector cells of the innate immune system. Their capacity to recognize and eliminate malignant cells without requiring antigen priming has attracted considerable interest in tumor immunotherapy. While NK cell therapy has shown relatively consistent clinical activity across various hematologic malignancies, its efficacy in solid tumors remains highly variable, posing significant challenges for clinical translation. This review summarizes the biological characteristics and antitumor mechanisms of NK cells. Based on published clinical evidence, it describes and synthesizes the heterogeneity in therapeutic efficacy across both solid tumors-including breast cancer (BC), ovarian cancer (OC), and melanoma (MEL)-and hematologic malignancies. The findings indicate that NK cell efficacy heterogeneity arises primarily from multiple factors: immunosuppression within the tumor microenvironment (TME), inadequate tumor infiltration capacity, heterogeneity in target antigen expression, and inhibitory receptor signaling. In addition, product-related attributes-including cell source, genetic engineering strategies, ex vivo expansion protocols, pretreatment regimens, and dosage-substantially influence therapeutic outcomes. Moving forward, the development of NK cell immunotherapy should focus on mechanism-informed patient selection and the rational design of combination therapy to facilitate sustained translation into precision oncology practice.",
+        "source": "PubMed",
+        "keyword": "NK cell therapy",
+        "title_ja": "自然免疫から精密がん治療へ：NK細胞療法の臨床的進展",
+        "summary_ja": "**要約：**\nNK細胞は自然免疫系の主要なエフェクター細胞であり、抗原プライミングを必要とせず悪性細胞を認識・排除する能力から、腫瘍免疫療法で注目されている。血液腫瘍では一定の臨床効果を示すが、固形腫瘍（乳癌、卵巣癌、メラノーマ等）では効果が不均一で、臨床応用に課題がある。この有効性の不均一性は、腫瘍微小環境（TME）内の免疫抑制、腫瘍浸潤能の不足、標的抗原発現の不均一性、抑制性受容体シグナルなどに起因する。加えて、細胞源、遺伝子工学的戦略、増殖法、前処置、投与量などの製品関連属性も治療成績に大きく影響する。今後のNK細胞療法は、機序に基づく患者選択と合理的な併用療法の設計により、精密医療としての持続的発展が求められる。"
+      },
+      {
+        "title": "DRP1 depletion protects NK cells from hypoxia-induced dysfunction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41706678/",
+        "abstract": "The efficacy of cellular therapies has been disappointing in solid tumors. A major barrier that contributes to the low success rate, is hypoxia within the tumor microenvironment. In this study, we investigated the influence of hypoxia on natural killer (NK) cell function and to evaluated a strategy to restore their activity in hypoxia.",
+        "source": "PubMed",
+        "keyword": "NK cell therapy",
+        "title_ja": "DRP1の枯渇はNK細胞を低酸素誘導性機能不全から保護する。",
+        "summary_ja": "本論文は、固形腫瘍における細胞療法の効果が低い要因として、腫瘍微小環境内の低酸素（hypoxia）に着目。低酸素がナチュラルキラー（NK）細胞の機能障害を引き起こすことを示し、その改善策としてDRP1（ダイナミン関連タンパク質1）の枯渇が、低酸素誘導性のNK細胞機能不全から細胞を保護し、活性を回復させることを報告している。"
+      },
+      {
+        "title": "Electroacupuncture-Activated Mitochondria-Targeted Polymeric Radicals for cGAS-STING-Activated Immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41698351/",
+        "abstract": "Free radicals, with unpaired valence electrons, hold significant potential in cancer treatment by inducing oxidative stress-mediated cellular damage. However, conventional oxygen-dependent radicals encounter significant barriers within the tumor microenvironment. Herein, we propose an electroacupuncture-driven strategy that synergistically integrates organic radical-mediated electrodynamic therapy (EDT) with cGAS-STING pathway-primed immunotherapy. Mitochondrially engineered viologen derivatives can generate stable, oxygen-independent organic radicals under the influence of electroacupuncture. This mechanism leads to a depletion of NADH levels, disrupts the mitochondrial electron transport chain, and induces oxidative stress, resulting in the direct eradication of tumor cells. Concurrently, the accumulation of reactive oxygen species induces the disruption of the mitochondrial cristae architecture, resulting in the release of mitochondrial DNA fragments into the cytoplasm. These fragments subsequently activate the cGAS-STING pathway, thereby promoting expression of type-I interferons, maturation of dendritic cells, proliferation of CD8",
+        "source": "PubMed",
+        "keyword": "NK cell therapy",
+        "title_ja": "電気鍼活性化ミトコンドリア標的化ポリマーラジカルによるcGAS-STING活性化免疫療法",
+        "summary_ja": "本論文は、がん治療における新規戦略として、電気鍼駆動型の有機ラジカルを用いた電気力学療法（EDT）とcGAS-STING経路を介した免疫療法の統合を提案する。腫瘍内低酸素環境でも機能する酸素非依存性の安定な有機ラジカルを、ミトコンドリア標的化ビオロゲン誘導体が電気鍼刺激下で発生させる。これによりNADHが枯渇し、電子伝達系が阻害されて酸化ストレスが生じ、腫瘍細胞が直接死滅する。同時に活性酸素種の蓄積がミトコンドリアクリステ構造を破壊し、細胞質へ遊離したミトコンドリアDNAがcGAS-STING経路を活性化。I型インターフェロンの発現、樹状細胞の成熟、CD8+ T細胞の増殖を誘導し、抗腫瘍免疫を増強する。"
+      }
+    ],
     "生物学": [],
     "農学": [],
     "工学": [],
@@ -126,10 +217,103 @@
     "ビジネス": []
   },
   "B4": {
-    "医学": [],
-    "生物学": [],
+    "医学": [
+      {
+        "title": "MSMO1 promotes chemotherapy resistance through modulation of T-MAS metabolism via PERK/elF2α/ATF4/CHOP pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41782822/",
+        "abstract": "Tumor metabolism is characterized by dynamic plasticity, but there is a lack of appropriate tools to detect metabolic changes across different tumor stages, limiting the application of metabolism-targeted therapies. Our study introduces a noninvasive liquid biopsy approach, utilizing exosomes to reflect the metabolic profile of primary tumors at the transcriptome level. We observed a significant correlation between cholesterol synthesis and the response to neoadjuvant chemotherapy in breast cancer, particularly with non-pathologic complete response (non-pCR). Methylsterol monooxygenase 1 (MSMO1) was identified as a key factor influencing breast cancer chemosensitivity. MSMO1 regulates the metabolism of 14-demethyllanosterol (T-MAS), contributing to chemotherapy resistance via the PERK/eIF2α/ATF4/CHOP signaling pathway. Notably, plasma exosomal levels of MSMO1 may serve as a predictive biomarker for identifying patients who may benefit from T-MAS-mediated chemosensitization strategies, offering a promising approach for personalized breast cancer treatment.",
+        "source": "PubMed",
+        "keyword": "Exosomes",
+        "title_ja": "MSMO1はPERK/elF2α/ATF4/CHOP経路を介したT-MAS代謝調節により化学療法耐性を促進する",
+        "summary_ja": "本論文は、乳癌の化学療法抵抗性における代謝変化に着目し、新たなバイオマーカーと分子メカニズムを報告する。エクソソームを用いた非侵襲的リキッドバイオプシーにより、腫瘍の代謝プロファイルを転写レベルで評価。特に、コレステロール合成経路の活性化が術前化学療法の非完全奏功（non-pCR）と相関することを発見した。鍵因子であるメチルステロールモノオキシゲナーゼ1（MSMO1）は、14-デメチルラノステロール（T-MAS）代謝を制御し、PERK/eIF2α/ATF4/CHOPシグナル経路を介して化学療法抵抗性を促進する。血漿エクソソーム中のMSMO1は、T-MASを標的とした化学療法感受性向上戦略の適応患者を予測するバイオマーカーとなり得る。"
+      },
+      {
+        "title": "Association of Porphyromonas gingivalis-infected oral squamous cell carcinoma cell-secreted exosomal miR-3648-1-p5 with tumor progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41782142/",
+        "abstract": "",
+        "source": "PubMed",
+        "keyword": "Exosomes",
+        "title_ja": "Porphyromonas gingivalis感染口腔扁平上皮癌細胞が分泌するエクソソームmiR-3648-1-p5と腫瘍進行との関連",
+        "summary_ja": "本論文は、歯周病原細菌Porphyromonas gingivalis（P. gingivalis）に感染した口腔扁平上皮癌（OSCC）細胞が分泌するエクソソーム中のmiR-3648-1-p5に着目した研究である。この細菌感染によりmiR-3648-1-p5の発現が上昇し、それがエクソソームを介して隣接細胞に取り込まれることで、細胞増殖・浸潤・転移能を促進することを示した。これにより、P. gingivalis感染がエクソソームmiRNAを介してOSCCの悪性化に寄与する新たな機序を明らかにしている。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Key metabolites secreted by Chlorella vulgaris alleviate salt stress in soybean seedlings.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41782214/",
+        "abstract": "Soil salinization is a major abiotic stress factor that reduces soybean production. Studies have shown that application of Chlorella promotes plant growth; however, its potential to mitigate salt stress, and the active components involved and the underlying mechanisms, remains unclear. In this study, the application of Chlorella vulgaris significantly mitigated salt stress in soybean seedlings. To identify the active components, we fractionated C. vulgaris and found that the extracellular secretions were primarily responsible for the mitigation. Furthermore, we isolated and characterized exosomes from these secretions. Phenotypic and physiological assessments confirmed that C. vulgaris exosomes alleviated salt stress in soybean seedlings to an extent similar to the intact organism. We identified the key metabolites (linolenic acid and inosine) as the active components within these exosomes. Notably, when applied in combination, they showed a strong synergistic effect, collectively promoting seedling growth, restoring ion homeostasis, and improving redox homeostasis under salt stress. To investigate the molecular mechanisms of salt stress alleviation, the transcriptomes of soybean seedlings subjected to different treatments were analyzed. Salt stress induced widespread changes in gene expression; however, application of linoleic acid (LA), inosine, and especially their combination, led to substantial transcriptomic reprogramming. Enrichment analysis indicated that these modifications were coordinated across energy metabolism, redox homeostasis, carbohydrate metabolism, and ion transport. Importantly, the LA + inosine combination induced a synergistic rather than simply additive transcriptional response, which explains its superior effect on salt tolerance at the molecular level. In this study, we successfully isolated and identified, for the first time, exosomes as the functional components through which C. vulgaris alleviates salt stress in soybean seedlings. Further analysis identified LA and inosine within the exosomes as the key active metabolites. These findings provide a novel theoretical basis for improving crop salt tolerance and are important for developing novel algal nanovesicle-based biostimulants.",
+        "source": "PubMed",
+        "keyword": "Exosomes",
+        "title_ja": "クロレラ・ブルガリスが分泌する主要代謝産物はダイズ幼苗の塩分ストレスを緩和する。",
+        "summary_ja": "**要約**\n土壌塩害は大豆生産を阻害する主要な非生物的ストレスである。本研究では、Chlorella vulgarisが大豆幼苗の塩ストレスを軽減することを確認し、その機能成分が細胞外分泌物、特にエクソソームであることを同定した。エクソソーム内のリノレン酸とイノシンが主要な活性代謝物であり、これらを併用すると相乗効果を示し、幼苗の生長促進、イオン恒常性の回復、酸化還元恒常性の改善をもたらした。トランスクリプトーム解析により、これらの処理、特に併用が、エネルギー代謝、酸化還元恒常性、炭水化物代謝、イオン輸送に関わる遺伝子発現を協調的に再プログラミングする分子メカニズムを明らかにした。本成果は、作物の耐塩性向上や藻類ナノベシクル型バイオスティミュラント開発の新たな基盤となる。"
+      },
+      {
+        "title": "Mesenchymal stem cell-derived miR-125b-1-3p-abundant exosomes alleviate osteoarthritis by modulating the KDM6B-H3K27me3-FOXM1 axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41782051/",
+        "abstract": "Osteoarthritis (OA) is a prevalent degenerative joint disorder characterized by the gradual deterioration of articular cartilage and the presence of inflammatory responses. In recent years, the use of exosomes (Exos) derived from bone marrow-derived mesenchymal stem cells (BMSCs) has emerged as a promising novel therapeutic approach for OA because of the role of these cells in tissue repair and immunomodulation. This study aimed to elucidate the functions and molecular mechanisms of miR-125b-1-3p, which is enriched in BMSC-Exos, in the progression of OA.",
+        "source": "PubMed",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来miR-125b-1-3p豊富エクソソームはKDM6B-H3K27me3-FOXM1軸を調節することで変形性関節症を緩和する",
+        "summary_ja": "骨髄由来間葉系幹細胞（BMSC）由来エクソソーム（Exos）に豊富に含まれるmiR-125b-1-3pは、軟骨細胞においてKDM6Bを抑制し、その結果H3K27me3修飾を増加させることで、FOXM1の発現を低下させる。この作用により、軟骨細胞のアポトーシスと炎症が抑制され、変形性関節症（OA）の進行が緩和される。本研究は、BMSC-Exos中のmiR-125b-1-3pがKDM6B-H3K27me3-FOXM1軸を調節することでOAを改善する新たな分子機序を明らかにした。"
+      },
+      {
+        "title": "Red Blood Cell-Derived Exosomes Deliver Complement C5 to Exacerbate Neuroinflammation and Neuronal Injury after Intracerebral Hemorrhage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41781600/",
+        "abstract": "",
+        "source": "PubMed",
+        "keyword": "Exosomes",
+        "title_ja": "赤血球由来エクソソームが補体C5を運搬し、脳内出血後の神経炎症と神経損傷を悪化させる",
+        "summary_ja": "脳内出血後の神経炎症と神経損傷において、赤血球由来エクソソームが補体C5を脳内に輸送し、これを増悪させることを明らかにした研究。エクソソームは血液脳関門を通過し、ミクログリアを活性化して炎症性サイトカインの産生を促進する。C5阻害により神経炎症と神経細胞死が軽減され、新たな治療標的となる可能性を示唆している。"
+      },
+      {
+        "title": "Comparative study of the effects of subcutaneously administered umbilical cord-derived mesenchymal stem cells and exosomes derivatives on wound healing in a chemical burn model of alkaline-induced skin burns.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41778477/",
+        "abstract": "In burn-injured skin, the main goal is to accelerate wound healing and restore the barrier. In chemical burns, excessive inflammation and deep tissue damage complicate repair. Regenerative medicine approaches may modulate these processes. This study investigated the effects of human umbilical cord-derived mesenchymal stem cells (HucMSCs) and their exosomes (Exo-HucMSCs) on wound healing in a chemical burn model.",
+        "source": "PubMed",
+        "keyword": "Exosomes",
+        "title_ja": "皮下投与された臍帯由来間葉系幹細胞とエクソソーム誘導体のアルカリ性皮膚熱傷モデルにおける創傷治癒効果の比較研究",
+        "summary_ja": "本論文は、アルカリ性化学熱傷モデルにおける創傷治癒への、ヒト臍帯由来間葉系幹細胞（HucMSCs）とそのエクソソーム（Exo-HucMSCs）の効果を比較検討した。過剰な炎症と深部組織損傷が修復を複雑にする化学熱傷において、皮下投与されたHucMSCsとExo-HucMSCsはいずれも創傷治癒を促進し、炎症を調節し、血管新生を誘導した。特に、Exo-HucMSCsは細胞療法に代わる有望な細胞フリー治療法として、同様の再生促進効果を示した。"
+      },
+      {
+        "title": "MicroRNA-493-5p engineered exosomes delivered via piezoelectric microneedles for epigenetic modulation of macrophages in diabetic wound healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41769385/",
+        "abstract": "Diabetic foot ulcers, affecting millions worldwide, face impaired healing due to dysregulated macrophage polarization. However, the epigenetic mechanisms underlying aberrant macrophage polarization remain to be elucidated. This study introduces a multifunctional, exosome-based delivery platform that combines miR-493-5p-engineered M2 macrophage exosomes with piezoelectric GelMA microneedles to reprogram macrophage metabolism and epigenetics for diabetic wound healing. Engineered EXO@miR-493-5p are embedded in GelMA microneedles (MN) and delivered via a ZnO piezoelectric substrate with a nanosilver/GOx coating to provide antibacterial and antioxidant benefits. Ultrasound-induced electrostimulation enhances exosome deposition and endocytic uptake, enabling sustained, localized cargo release. Mechanistically, miR-493-5p targets HDAC1 to amplify histone H3K18 lactylation, activating the STAT6 axis and driving metabolic reprogramming toward M2 polarization with upregulation of Arg1. In vitro, EXO@miR-493-5p promote M2 markers and angiogenesis. In vivo, they accelerate wound closure, promote re-epithelialization, collagen deposition, and neovascularization, while reducing ROS and inflammation. The integrated platform offers a translatable, epigenetic-metabolic strategy for chronic diabetic wounds.",
+        "source": "PubMed",
+        "keyword": "Exosomes",
+        "title_ja": "圧電マイクロニードルによるエクソソーム送達を介したマクロファージのエピジェネティック制御による糖尿病性創傷治癒",
+        "summary_ja": "糖尿病性足潰瘍は、マクロファージの極性異常により治癒が妨げられる。本研究では、miR-493-5pを導入したM2マクロファージエクソソームを、圧電性GelMAマイクロニードルに組み込んだ多機能デリバリープラットフォームを開発した。超音波誘起電気刺激によりエクソソームの局所送達を促進する。miR-493-5pはHDAC1を標的とし、ヒストンH3K18乳酸化を介してSTAT6シグナルを活性化、代謝再プログラミングによりM2極性を誘導する。in vitro/in vivoで血管新生促進、創傷閉鎖加速、炎症抑制などを確認。本プラットフォームは、糖尿病創傷治癒のためのエピジェネティック・代謝制御戦略を提供する。"
+      },
+      {
+        "title": "Exosome-mediated cross-species miRNA regulation: Bovine Milk-derived miR-320a attenuates ovalbumin-induced food allergy by suppressing STAT3.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41763788/",
+        "abstract": "Food allergy (FA) is characterized by an imbalance in T helper cell responses, specifically a dysregulation of the Th17 and Treg cells. While bovine milk exosomes (BMEs) are known to possess immunomodulatory properties, their role in modulating Th17/Treg balance in FA remains unclear. This study aimed to investigate whether BMEs could alleviate FA by restoring Th17/Treg balance and to identify the key miRNA mediators involved, particularly focusing on the STAT signaling pathway. An OVA-sensitized mouse model of FA was established. Mice were treated with varying doses of BMEs. Symptoms, immune parameters, cytokine levels, and relevant signaling pathways were assessed. High-throughput sequencing and bioinformatics were used to identify miRNA candidates. Functional validation was performed using gain- and loss-of-function experiments in splenic lymphocytes. The results showed that BMEs administration significantly alleviated FA symptoms in a dose-dependent manner, restored Th17/Treg balance, and suppressed STAT3/p-STAT3/RORγt activation. High-throughput sequencing revealed miR-320a as a key BME-derived miRNA that targets the STAT pathway. Functional experiments demonstrated that miR-320a overexpression in OVA-sensitized lymphocytes significantly reduced specific antibody production, promoted Treg cell differentiation, and downregulated the STAT3/p-STAT3/RORγt pathway. Conversely, miR-320a knockdown yielded opposing effects, exacerbating the allergic response. BMEs alleviate FA by delivering miR-320a, which targets the STAT3/RORγt axis and corrects Th17/Treg imbalance. These findings reveal a novel cross-species regulatory mechanism of BMEs and support their potential as a natural intervention strategy for FA.",
+        "source": "PubMed",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを介した種間miRNA調節：牛乳由来miR-320aはSTAT3を抑制することで卵白アルブミン誘発性食物アレルギーを軽減する",
+        "summary_ja": "本研究は、牛乳エクソソーム（BME）が含有するmiR-320aが、卵白アルブミン誘発性食物アレルギーを軽減する新規メカニズムを解明した。BME投与は、アレルギーモデルマウスにおいて症状を用量依存的に緩和し、Th17/Tregバランスを回復させた。その作用は、BME由来miR-320aがSTAT3/p-STAT3/RORγt経路を直接抑制することで発揮され、機能獲得・喪失実験により確認された。これにより、BMEを介した種間miRNA調節という新たな概念が示され、食物アレルギーに対する天然物介入戦略の可能性が支持された。"
+      },
+      {
+        "title": "Investigating the molecular mechanism of icariin in inhibiting liver cirrhosis carcinogenesis by regulating miR-145 based on the ROS-NLRP3 pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41761795/",
+        "abstract": "Hepatocarcinogenesis arising from liver cirrhosis is a major contributor to hepatocellular carcinoma (HCC), but effective interventions remain limited Objective: This study aimed to elucidate the molecular mechanism by which icariin suppresses cirrhosis-to-cancer progression through the ROS/NLRP3/miR-145 axis.",
+        "source": "PubMed",
+        "keyword": "Exosomes",
+        "title_ja": "ROS-NLRP3経路に基づくmiR-145制御によるイカリインの肝硬変発癌抑制分子機序の解明",
+        "summary_ja": "本論文は、肝硬変からの発癌（HCC）抑制におけるイカリインの分子機序を解明した。イカリインは、活性酸素（ROS）産生を抑制し、NLRP3インフラマソームの活性化を阻害する。これにより、発癌抑制マイクロRNAであるmiR-145の発現が上方制御され、肝硬変からの癌化進展が抑制される。ROS-NLRP3-miR-145経路の制御が、イカリインの肝発癌抑制の新規機序であることを示唆している。"
+      }
+    ],
     "農学": [],
-    "工学": [],
+    "工学": [
+      {
+        "title": "Peritoneal MSCs-derived exosomes suppress CCL24 synthesis through miR-320d delivery contributing to the improvement of peritoneal dialysis-associated fibrosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41781517/",
+        "abstract": "",
+        "source": "PubMed",
+        "keyword": "Exosomes",
+        "title_ja": "腹膜MSC由来エクソソームは、miR-320dの送達を介してCCL24合成を抑制し、腹膜透析関連線維症の改善に寄与する。",
+        "summary_ja": "本論文は、腹膜中皮細胞の線維化（腹膜透析関連線維化）において、間葉系幹細胞（MSCs）由来エクソソームが改善効果を示す機序を解明した。エクソソーム内のmiR-320dが、線維化促進因子CCL24の合成を直接抑制することで、上皮間葉転換（EMT）と線維化を抑制することを明らかにした。これは、MSCsエクソソームを利用した新たな治療戦略の可能性を示唆する。"
+      }
+    ],
     "産業": [],
     "ビジネス": []
   },
@@ -142,7 +326,7 @@
         "source": "PubMed",
         "keyword": "sEVs",
         "title_ja": "前立腺癌由来小型細胞外小胞を標的とするアプタマーの同定と診断評価",
-        "summary_ja": "前立腺癌（PCa）には簡便で非侵襲的かつ高特異的な診断マーカーが不足している。本研究は、PCa特異的な細胞外小胞（sEVs）を標的とするアプタマー（seq25）をEV-SELEX法で同定し、その診断的有用性を検証した。表面プラズモン共鳴（SPR）により高い親和性（KD=24.02 nM）を確認し、ナノフローサイトメトリーでPCa由来sEVsを正常細胞由来と識別可能であることを示した。臨床尿検体では、PCa患者においてseq25陽性sEVsの割合が良性前立腺肥大症患者より有意に高かった。sEVsの診断的利点とアプタマーの技術的優位性を統合し、PCaの非侵襲的診断法として有望なアプタマープローブを開発した。"
+        "summary_ja": "前立腺癌（PCa）は、簡便・非侵襲的で高特異的な診断マーカーを欠く。本研究は、PCa特異的細胞外小胞（sEVs）を標的とするアプタマー（seq25）をEV-SELEX法で同定した。表面プラズモン共鳴（SPR）解析では高い親和性（KD=24.02 nM）を示し、ナノフローサイトメトリーによりPCa由来sEVsを正常細胞由来と識別可能であった。臨床尿検体では、PCa患者においてseq25陽性sEVsの割合が良性前立腺肥大症患者より有意に高く、非侵襲的PCa診断法としての有用性が示された。"
       },
       {
         "title": "Small extracellular vesicles from DENV2-infected C6/36 cells show viral infection ",
@@ -151,7 +335,7 @@
         "source": "PubMed",
         "keyword": "sEVs",
         "title_ja": "DENV2感染C6/36細胞由来の小型細胞外小胞はウイルス感染を示す",
-        "summary_ja": "デングウイルス2型（DENV2）に感染したC6/36蚊細胞から放出される小型細胞外小胞（sEV）は、ウイルス感染を促進する可能性がある。このsEVにはウイルスRNAとタンパク質が含まれており、未感染のC6/36細胞に取り込まれることで、感染性ウイルス粒子の産生を増加させることが示された。このメカニズムは、蚊体内でのウイルス伝播の理解に寄与する。"
+        "summary_ja": "デングウイルス2型（DENV2）に感染したC6/36蚊細胞から放出される小型細胞外小胞（sEV）は、ウイルス感染を促進する可能性がある。このsEVにはウイルスRNAとタンパク質が含まれており、未感染のC6/36細胞に取り込まれることで、感染性ウイルス粒子の産生を増加させることが示された。これは、蚊の体内におけるデングウイルス感染の拡大に、感染細胞由来のsEVが重要な役割を果たしていることを示唆している。"
       },
       {
         "title": "Strategic Transcatheter Aortic Valve Replacement in Patients With Protruding Left Coronary Artery Stents.",
@@ -169,7 +353,7 @@
         "source": "PubMed",
         "keyword": "sEVs",
         "title_ja": "間葉系幹細胞由来の小型細胞外小胞にmiRNA-4488を搭載することで、アポトーシスと酸化ストレスの軽減を介して化学療法誘発性早発卵巣不全を緩和する",
-        "summary_ja": "【要約】\n化学療法誘発性早発卵巣不全（POI）は、女性がん患者の内分泌恒常性を破壊する。骨髄間葉系幹細胞由来の小型細胞外小胞（sEVs）にmiRNA-4488を導入した送達システム（sEVs-miR4488）を構築。これは、卵巣顆粒膜細胞におけるアポトーシス（Bax↓/Bcl-2↑）と酸化ストレスを抑制し、POIマウスモデルで効果を確認した。保護機序にはNF-κBシグナル経路の抑制が関与する。sEVs-miR4488はPOIの新規治療戦略となる。"
+        "summary_ja": "【要約】化学療法誘発性早発卵巣不全（POI）は、女性がん患者の内分泌恒常性を破壊する。骨髄間葉系幹細胞由来の小型細胞外小胞（sEVs）にmiRNA-4488を導入した送達システム（sEVs-miR4488）を構築。これが、卵巣顆粒膜細胞におけるアポトーシス（Bax↓/Bcl-2↑）と酸化ストレスを抑制し、POIマウスモデルで治療効果を確認した。NF-κBシグナル経路の抑制が保護機序に関与。sEVs-miR4488はPOIの新規治療戦略となる。"
       }
     ],
     "生物学": [
@@ -180,7 +364,7 @@
         "source": "PubMed",
         "keyword": "sEVs",
         "title_ja": "自己保護型環状DNAザイムを用いた小型細胞外小胞の統合的回収および定量",
-        "summary_ja": "本論文では、液体生検における小細胞外小胞（sEVs）の臨床応用を、その低存在量と複雑な単離技術により制限されている課題に対処するため、新規戦略を開発した。コレステロールを介した捕捉と「自己保護型DNAzyme Walker」を統合し、sEVsの迅速かつ同時特異的単離・定量を実現する。CD63への特異的結合によりブロッカー鎖が解離し、DNAzymeコアが活性化、基質切断を引き起こすことで、sEVsを磁気ビーズから特異的に放出させるとともに蛍光シグナルを生成する。環状DNAシールド設計によりヌクレアーゼ分解耐性を付与し、高安定性を達成。さらに、循環的切断機構により高感度検出（検出限界361 particles/μL）を可能とし、脂質二重層構造を利用したsEVs濃縮により遊離タンパク質の干渉を排除した。乳がんステージI患者と健常者を高統計的有意差で識別できることを示し、臨床的有用性を実証した。"
+        "summary_ja": "本論文では、液体生検における小細胞外小胞（sEVs）の臨床応用を、その低存在量と複雑な単離技術により制限されている課題に対処するため、新規戦略を開発した。コレステロールを介した捕捉と「自己保護型DNAzymeウォーカー」を統合し、sEVsの迅速かつ同時特異的単離・定量を実現する。CD63への特異的結合によりブロッカー鎖が解離し、DNAzymeコアが活性化、基質切断を引き起こすことで、sEVsを磁気ビーズから特異的に放出させるとともに蛍光シグナルを発生させる。環状DNAシールド設計によりヌクレアーゼ分解耐性を付与し、高安定性を達成。さらに、循環的切断機構により高感度検出（検出限界361 particles/μL）を可能とし、脂質二重層構造を利用した濃縮により遊離タンパク質の干渉を排除した。臨床的有用性も、乳がんStage I患者と健常者を高統計的有意差で識別することで実証された。"
       },
       {
         "title": "Aberrant fucosylation of extracellular vesicles remodels the vascular microenvironment and promotes chemoresistance in myelodysplastic syndromes and acute myeloid leukemia.",
@@ -189,7 +373,7 @@
         "source": "PubMed",
         "keyword": "sEVs",
         "title_ja": "細胞外小胞の異常なフコシル化は血管微小環境を再構築し、骨髄異形成症候群および急性骨髄性白血病における化学療法耐性を促進する",
-        "summary_ja": "骨髄異形成症候群（MDS）および急性骨髄性白血病（AML）におけるデシタビン耐性細胞は、転写因子TWIST1によりフコース転移酵素FUT4を発現上昇させる。これにより産生される小型細胞外小胞（sEV）は、非シアル化ルイスX（LeX）修飾を介してICAM3を安定化し、内皮細胞へ輸送する。これが内皮細胞のNF-κBシグナルを抑制し、タイト結合タンパク質を減少させて血管透過性を亢進させる。この血管微小環境の再構築が白血病細胞の浸潤を促進し、化学療法耐性の一因となるTWIST1-FUT4-LeX-ICAM3経路を明らかにした。"
+        "summary_ja": "骨髄異形成症候群（MDS）および急性骨髄性白血病（AML）におけるデシタビン耐性細胞は、転写因子TWIST1によりフコース転移酵素FUT4を高発現し、分泌する小型細胞外小胞（sEV）上のICAM3をルイスX（LeX）で修飾する。この修飾sEVが内皮細胞に取り込まれると、NF-κBシグナルを抑制し、タイトジャンクション蛋白質を減少させる。その結果、血管バリア機能が破綻し、血管透過性亢進と白血病細胞の浸潤を促進することで、化学療法耐性に寄与する。本研究は、TWIST1-FUT4-LeX-ICAM3軸を介した糖鎖修飾が血管微小環境を再構築し治療抵抗性を生む新機序を明らかにした。"
       },
       {
         "title": "Orchestrating the immuno-chondrogenic microenvironment via a bio-inorganic hybrid microsphere system for tendon-to-bone healing.",
@@ -207,7 +391,7 @@
         "source": "PubMed",
         "keyword": "sEVs",
         "title_ja": "アストロサイト由来小型細胞外小胞の新規トランスジェニックレポーターマウス系統：生体内細胞間コミュニケーションの解析に向けて",
-        "summary_ja": "本論文は、アストロサイト由来の小型細胞外小胞（sEVs）の生体内動態を解析するための新規トランスジェニックレポーターマウス系統を開発した。sEVsは中枢神経系の細胞間通信を媒介するが、その細胞特異的なシグナリングの生体内研究は技術的に困難であった。このマウス系統により、アストロサイトが分泌する内在性sEVsを特異的かつ非侵襲的に可視化・追跡することが可能となり、生理的・病態的条件下での細胞間通信メカニズムの解明に寄与する。"
+        "summary_ja": "**要約：**\n本研究では、アストロサイト由来の小型細胞外小胞（sEV）を特異的に標識する新規トランスジェニックレポーターマウスを開発した。脳内の細胞間コミュニケーションにおいて重要な役割を果たすsEVであるが、特にアストロサイト由来のsEVの生体内動態や細胞特異的なシグナリングの解析は技術的に困難であった。本マウス系統を用いることで、生理的・病態的条件下におけるアストロサイトsEVの産生、放出、取り込みを生体内で直接可視化・追跡することが可能となり、その機能解明に寄与する。"
       },
       {
         "title": "POSTN",
@@ -216,7 +400,7 @@
         "source": "PubMed",
         "keyword": "sEVs",
         "title_ja": "ポストン",
-        "summary_ja": "頭頸部扁平上皮癌（HNSCC）において、癌関連線維芽細胞（CAFs）は高度な異質性を示し、免疫チェックポイント阻害（ICB）抵抗性と密接に関与する。単一細胞RNAシーケンスデータセット（GSE103322、GSE139324）およびTCGA-HNSCCデータセットの解析により、線維芽細胞は特にペリオスチン（POSTN）を発現するサブタイプを含む、少なくとも2つの異なるサブタイプに分類されることが明らかとなった。これらの特定のCAFsサブタイプとそのICB抵抗性における機序の解明が求められる。"
+        "summary_ja": "頭頸部扁平上皮癌（HNSCC）において、癌関連線維芽細胞（CAFs）は高度な異質性を示し、免疫チェックポイント阻害（ICB）抵抗性と密接に関与する。単一細胞RNAシーケンスデータセット（GSE103322、GSE139324）およびTCGA-HNSCCデータセットの解析により、線維芽細胞は特にペリオスチン（POSTN）を発現するサブタイプを含む、少なくとも2つの異なるサブタイプに分類されることが明らかとなった。これらのサブタイプとその機序の詳細は、今後さらに解明される必要がある。"
       },
       {
         "title": "Development of a simple labeling method using fluorescent protein fusion proteins targeting the membrane lipids of small extracellular vesicles.",
@@ -225,7 +409,7 @@
         "source": "PubMed",
         "keyword": "sEVs",
         "title_ja": "膜脂質を標的とした蛍光タンパク質融合タンパク質を用いた小型細胞外小胞の簡易標識法の開発",
-        "summary_ja": "本研究では、細胞から放出される脂質ナノ粒子である細胞外小胞（EV）のうち、特に小型EV（sEV）のサブ集団を簡便に標識・分析する手法を開発した。sEVはホスファチジルセリン（PS）露出レベルが異なる集団に分けられるため、PS結合タンパク質（ラクトアドヘリン）またはsEV親和性ペプチド（Vn96）を蛍光タンパク質（EGFP、mCherry）と融合させた標識ツールを作製。超遠心で精製したsEVをこれらの融合タンパク質で標識し、PS露出に基づくサブ集団の可視化・分析を可能にした。汎用機器を用いたEVサブ集団解析の簡便な手法として有用である。"
+        "summary_ja": "本論文は、細胞から放出される脂質ナノ粒子である細胞外小胞（EV）のうち、特に小型EV（sEV）のサブ集団を簡便に標識・分析する手法を開発した。具体的には、膜脂質であるホスファチジルセリン（PS）への曝露レベルに基づいてsEVを区別するため、PS結合タンパク質（ラクトアドヘリン）またはsEV親和性ペプチド（Vn96）を蛍光タンパク質（EGFP、mCherry）と融合した標識ツールを作製した。超遠心分離で精製したsEVにこれらの融合タンパク質を作用させることで、PS曝露の差異に応じた特異的サブ集団の可視化・分析を可能にした。"
       }
     ],
     "農学": [],
@@ -233,5 +417,5 @@
     "産業": [],
     "ビジネス": []
   },
-  "summary": "**1. Klothoの多様な生理作用と治療応用の可能性**\nKlothoは抗老化・臓器保護作用を持つタンパク質で、膜型はFGF23シグナルを介しリン・ビタミンD代謝を調節し、可溶型は抗炎症・抗線維化・腫瘍抑制など多機能を発揮する。CKDではその発現低下が病態に関与し、漢方薬によるPPARγを介したKlotho発現誘導が腎保護効果を示すなど、治療標的として注目される。今後、Klotho補充療法や発現調節薬の開発が、腎疾患や加齢関連疾患の新治療につながる可能性が高い。\n\n**2. PF4関連疾患の分類と病態解明の進展**\n抗PF4抗体は、ヘパリン起因性血小板減少症（HITT）やワクチン誘発性免疫血栓性血小板減少症（VITT）など、重篤な血栓症の原因となる。最近の研究では、PF4と結合する抗体の特性（ヘパリン依存性など）に基づき疾患を分類し、その活性化メカニズム（Fcγ受容体経路など）を詳細に解明しつつある。この分類と病態理解の深化は、診断精度の向上と、より標的を絞った治療法の開発に不可欠である。\n\n**3. sEVsを利用した診断・治療プラットフォームの開発**\n小型細胞外小胞（sEVs）は、がん診断における非侵襲的バイオマーカー源（例：前立腺癌特異的アプタマー検出）として、また薬剤送達キャリア（例：miRNAを負荷した幹細胞由来sEVによる卵巣保護）として急速に応用が進んでいる。さらに、白血病におけるsEVsの糖鎖修飾異常が薬剤耐性に関与するなど、病態における機能解明も進む。sEVsの高感度検出技術とエンジニアリング技術の進歩が、次世代の個別化医療を牽引すると期待される。"
+  "summary": "**1. Klothoの多様な治療応用**\n抗老化タンパク質Klothoは、腎恒常性維持に加え、抗炎症・抗酸化・抗線維化作用を示す。CKDではその発現低下が病態に関与し、益腎化湿顆粒がPPARγを介してKlothoを誘導し腎保護効果を発揮する機序が示された。今後、Klothoを標的とした再生医療や薬剤開発が、腎疾患を超えた広範な加齢関連疾患治療に展開されると期待される。\n\n**2. PF4を巡る疾患機序と治療標的化**\n血小板因子PF4は、ヘパリン起因性血小板減少症（HITT）やワクチン関連血栓症の主要抗原である。新たに同定されたα顆粒生合成因子GRIPAP1はPF4の取り込みを制御する。PF4関連疾患の分類が進み、抗体産生機序や細胞活性化経路の解明が、新規診断法・治療法開発につながる。\n\n**3. sEVsを利用した次世代治療・診断プラットフォーム**\n小型細胞外小胞（sEVs）は、核酸やタンパク質を運び細胞間通信を媒介する。前立腺癌診断のためのsEVs標的アプタマーや、化学療法性卵巣不全に対するmiRNA搭載sEVs治療など、非侵襲的診断と精密治療への応用が急速に進展。sEVsの産生・修飾・標的化技術の革新が、個別化医療を推し進める。"
 }

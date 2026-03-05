@@ -16,7 +16,7 @@ KEYWORDS = {
 FIELDS = ["医学", "生物学", "農学", "工学", "産業", "ビジネス"]
 
 # API Keys（.envから取得）
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
+DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 GMAIL_ADDRESS = os.environ.get("GMAIL_ADDRESS", "")
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
 EMAIL_RECIPIENTS: list[str] = [

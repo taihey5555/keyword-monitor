@@ -1,44 +1,44 @@
 import time
 import requests
-from config import GEMINI_API_KEY, SUMMARY_MAX_CHARS
+from config import DEEPSEEK_API_KEY, SUMMARY_MAX_CHARS
 
-_GEMINI_URL = (
-    "https://generativelanguage.googleapis.com/v1beta"
-    "/models/gemini-2.0-flash:generateContent"
-)
+_DEEPSEEK_URL = "https://api.deepseek.com/chat/completions"
 
-# 15 RPM制限対策: 呼び出し間隔（秒）
+# RPM制限対策: 呼び出し間隔（秒）
 _CALL_INTERVAL = 5
 
 
-def _gemini(prompt: str, max_tokens: int = 400, temperature: float = 0.3) -> str:
-    """Gemini API 共通呼び出し（429時は自動リトライ）"""
+def _deepseek(prompt: str, max_tokens: int = 400, temperature: float = 0.3) -> str:
+    """DeepSeek API 共通呼び出し（429時は自動リトライ）"""
     for attempt in range(4):
         resp = requests.post(
-            f"{_GEMINI_URL}?key={GEMINI_API_KEY}",
+            _DEEPSEEK_URL,
+            headers={
+                "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
+                "Content-Type": "application/json"
+            },
             json={
-                "contents": [{"parts": [{"text": prompt}]}],
-                "generationConfig": {
-                    "maxOutputTokens": max_tokens,
-                    "temperature": temperature
-                }
+                "model": "deepseek-chat",
+                "messages": [{"role": "user", "content": prompt}],
+                "max_tokens": max_tokens,
+                "temperature": temperature
             },
             timeout=30
         )
         if resp.status_code == 429:
             wait = _CALL_INTERVAL * (2 ** attempt)  # 5 → 10 → 20 → 40秒
-            print(f"[Gemini] 429 Rate limit、{wait}秒待機してリトライ ({attempt+1}/4)...")
+            print(f"[DeepSeek] 429 Rate limit、{wait}秒待機してリトライ ({attempt+1}/4)...")
             time.sleep(wait)
             continue
         resp.raise_for_status()
         time.sleep(_CALL_INTERVAL)  # 成功後も次の呼び出しまで待機
-        return resp.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
+        return resp.json()["choices"][0]["message"]["content"].strip()
     resp.raise_for_status()  # 最終的に失敗なら例外を投げる
 
 
 def translate_title(title: str) -> str:
-    """Gemini APIで英語タイトルを日本語に翻訳"""
-    if not GEMINI_API_KEY or not title:
+    """DeepSeek APIで英語タイトルを日本語に翻訳"""
+    if not DEEPSEEK_API_KEY or not title:
         return title
 
     prompt = (
@@ -47,15 +47,15 @@ def translate_title(title: str) -> str:
         f"{title}"
     )
     try:
-        return _gemini(prompt, max_tokens=200, temperature=0.1)
+        return _deepseek(prompt, max_tokens=200, temperature=0.1)
     except Exception as e:
-        print(f"[Gemini TRANSLATE ERROR] {e}")
+        print(f"[DeepSeek TRANSLATE ERROR] {e}")
         return title
 
 
 def summarize(article: dict) -> str:
-    """Gemini APIで日本語要約"""
-    if not GEMINI_API_KEY:
+    """DeepSeek APIで日本語要約"""
+    if not DEEPSEEK_API_KEY:
         abstract = article.get("abstract", "")
         return abstract[:SUMMARY_MAX_CHARS] if abstract else "要約なし"
 
@@ -72,17 +72,17 @@ def summarize(article: dict) -> str:
         f"内容: {abstract}"
     )
     try:
-        result = _gemini(prompt, max_tokens=400, temperature=0.3)
+        result = _deepseek(prompt, max_tokens=400, temperature=0.3)
         return result[:SUMMARY_MAX_CHARS]
     except Exception as e:
-        print(f"[Gemini ERROR] {e}")
+        print(f"[DeepSeek ERROR] {e}")
         abstract = article.get("abstract", "")
         return abstract[:SUMMARY_MAX_CHARS] if abstract else "要約取得失敗"
 
 
 def generate_daily_summary(report: dict) -> str:
-    """全記事をGeminiに渡して本日の注目3トピックを500文字で要約"""
-    if not GEMINI_API_KEY:
+    """全記事をDeepSeekに渡して本日の注目3トピックを500文字で要約"""
+    if not DEEPSEEK_API_KEY:
         return ""
 
     lines = []
@@ -107,9 +107,9 @@ def generate_daily_summary(report: dict) -> str:
         f"{articles_text}"
     )
     try:
-        return _gemini(prompt, max_tokens=700, temperature=0.4)
+        return _deepseek(prompt, max_tokens=700, temperature=0.4)
     except Exception as e:
-        print(f"[Gemini DAILY SUMMARY ERROR] {e}")
+        print(f"[DeepSeek DAILY SUMMARY ERROR] {e}")
         return ""
 
 

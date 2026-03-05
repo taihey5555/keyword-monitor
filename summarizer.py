@@ -1,11 +1,7 @@
-import time
 import requests
 from config import DEEPSEEK_API_KEY, SUMMARY_MAX_CHARS
 
 _DEEPSEEK_URL = "https://api.deepseek.com/chat/completions"
-
-# RPM制限対策: 呼び出し間隔（秒）
-_CALL_INTERVAL = 5
 
 
 def _deepseek(prompt: str, max_tokens: int = 400, temperature: float = 0.3) -> str:
@@ -26,12 +22,12 @@ def _deepseek(prompt: str, max_tokens: int = 400, temperature: float = 0.3) -> s
             timeout=30
         )
         if resp.status_code == 429:
-            wait = _CALL_INTERVAL * (2 ** attempt)  # 5 → 10 → 20 → 40秒
+            import time
+            wait = 10 * (2 ** attempt)  # 10 → 20 → 40 → 80秒
             print(f"[DeepSeek] 429 Rate limit、{wait}秒待機してリトライ ({attempt+1}/4)...")
             time.sleep(wait)
             continue
         resp.raise_for_status()
-        time.sleep(_CALL_INTERVAL)  # 成功後も次の呼び出しまで待機
         return resp.json()["choices"][0]["message"]["content"].strip()
     resp.raise_for_status()  # 最終的に失敗なら例外を投げる
 
@@ -122,5 +118,4 @@ def summarize_all(report: dict) -> dict:
             for article in articles:
                 article["title_ja"] = translate_title(article.get("title", ""))
                 article["summary_ja"] = summarize(article)
-                time.sleep(5)  # 1記事処理後に5秒待機
     return report

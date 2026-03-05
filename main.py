@@ -1,7 +1,7 @@
 import json
 import os
 import traceback
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 
 from search import collect_all
 from classifier import classify_ab, build_classified_report
@@ -12,7 +12,7 @@ from config import KEYWORDS
 
 def save_report(report: dict):
     """docs/data/YYYY-MM-DD.json に保存し、index.json を更新"""
-    today = datetime.now().strftime("%Y-%m-%d")
+    today = datetime.now(timezone(timedelta(hours=9))).strftime("%Y-%m-%d")
 
     try:
         os.makedirs("docs/data", exist_ok=True)

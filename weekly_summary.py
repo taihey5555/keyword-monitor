@@ -81,7 +81,7 @@ def select_top3(articles: list[dict]) -> list[dict]:
 
 
 def generate_weekly_comment(top3: list[dict]) -> str:
-    """今週の総括コメントをDeepSeekで生成（200文字以内）"""
+    """今週の総括コメントをDeepSeekで生成（500文字以内）"""
     if not DEEPSEEK_API_KEY or not top3:
         return ""
 
@@ -93,11 +93,11 @@ def generate_weekly_comment(top3: list[dict]) -> str:
 
     prompt = (
         "以下は今週の注目論文トップ3です。\n"
-        "これらを踏まえて、今週の研究トレンドや注目すべき動向を200文字以内の日本語で総括してください。\n\n"
+        "これらを踏まえて、今週の研究トレンドや注目すべき動向を500文字以内の日本語で総括してください。\n\n"
         + "\n".join(lines)
     )
     try:
-        return _deepseek(prompt, max_tokens=300, temperature=0.4)
+        return _deepseek(prompt, max_tokens=700, temperature=0.4)
     except Exception as e:
         print(f"[WEEKLY] 総括コメント生成エラー: {e}")
         return ""

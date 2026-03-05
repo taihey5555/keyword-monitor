@@ -3,9 +3,13 @@ from config import DEEPSEEK_API_KEY, SUMMARY_MAX_CHARS
 
 _DEEPSEEK_URL = "https://api.deepseek.com/chat/completions"
 
+# 課金が必要な状態を検出した場合 True になるフラグ
+billing_required: bool = False
+
 
 def _deepseek(prompt: str, max_tokens: int = 400, temperature: float = 0.3) -> str:
     """DeepSeek API 共通呼び出し（429時は自動リトライ）"""
+    global billing_required
     for attempt in range(4):
         resp = requests.post(
             _DEEPSEEK_URL,
@@ -27,8 +31,20 @@ def _deepseek(prompt: str, max_tokens: int = 400, temperature: float = 0.3) -> s
             print(f"[DeepSeek] 429 Rate limit、{wait}秒待機してリトライ ({attempt+1}/4)...")
             time.sleep(wait)
             continue
+        # 残高不足（HTTP 402 または レスポンスボディの error コード）
+        if resp.status_code == 402:
+            billing_required = True
+            print("[DeepSeek] 残高不足（HTTP 402）")
+            raise Exception("DeepSeek API: 残高不足（HTTP 402）")
+        if resp.status_code == 200:
+            body = resp.json()
+            err_code = (body.get("error") or {}).get("code", "")
+            if err_code in ("insufficient_balance", "billing_required"):
+                billing_required = True
+                print(f"[DeepSeek] 残高不足（error.code={err_code}）")
+                raise Exception(f"DeepSeek API: 残高不足（{err_code}）")
+            return body["choices"][0]["message"]["content"].strip()
         resp.raise_for_status()
-        return resp.json()["choices"][0]["message"]["content"].strip()
     resp.raise_for_status()  # 最終的に失敗なら例外を投げる
 
 

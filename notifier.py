@@ -3,6 +3,7 @@ import smtplib
 from email.mime.text import MIMEText
 from datetime import datetime, timezone, timedelta
 from config import GMAIL_ADDRESS, GMAIL_APP_PASSWORD, EMAIL_RECIPIENTS, FIELDS, KEYWORDS
+import summarizer
 
 
 # グループラベル（KEYWORDS から自動生成）
@@ -31,6 +32,20 @@ def build_message(report: dict) -> str:
     h = []
     h.append('<html><body style="margin:0;padding:0;background:#f3f4f6;font-family:-apple-system,BlinkMacSystemFont,\'Segoe UI\',sans-serif;">')
     h.append('<div style="max-width:700px;margin:0 auto;padding:20px;">')
+
+    # DeepSeek 課金警告
+    if summarizer.billing_required:
+        h.append(
+            '<div style="background:#fef2f2;border:2px solid #ef4444;border-radius:10px;'
+            'padding:16px 20px;margin-bottom:20px;">'
+            '<div style="color:#b91c1c;font-size:15px;font-weight:700;margin-bottom:6px;">'
+            '&#9888; DeepSeek API の残高が不足しています</div>'
+            '<div style="color:#7f1d1d;font-size:13px;">'
+            'AI要約・翻訳・サマリーが生成できませんでした。'
+            '<a href="https://platform.deepseek.com/" style="color:#b91c1c;">DeepSeekコンソール</a>'
+            'でチャージしてください。</div>'
+            '</div>'
+        )
 
     # ヘッダー
     h.append(

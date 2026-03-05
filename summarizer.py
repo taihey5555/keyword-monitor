@@ -8,7 +8,7 @@ _GEMINI_URL = (
 )
 
 # 15 RPM制限対策: 呼び出し間隔（秒）
-_CALL_INTERVAL = 3
+_CALL_INTERVAL = 5
 
 
 def _gemini(prompt: str, max_tokens: int = 400, temperature: float = 0.3) -> str:
@@ -122,4 +122,5 @@ def summarize_all(report: dict) -> dict:
             for article in articles:
                 article["title_ja"] = translate_title(article.get("title", ""))
                 article["summary_ja"] = summarize(article)
+                time.sleep(5)  # 1記事処理後に5秒待機
     return report

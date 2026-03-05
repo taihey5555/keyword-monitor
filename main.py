@@ -12,7 +12,8 @@ from config import KEYWORDS
 
 def save_report(report: dict):
     """docs/data/YYYY-MM-DD.json に保存し、index.json を更新"""
-    today = datetime.now(timezone(timedelta(hours=9))).strftime("%Y-%m-%d")
+    JST = timezone(timedelta(hours=9))
+    today = datetime.now(JST).strftime("%Y-%m-%d")
 
     try:
         os.makedirs("docs/data", exist_ok=True)

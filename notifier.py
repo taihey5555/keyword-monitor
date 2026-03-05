@@ -1,7 +1,7 @@
 import html
 import smtplib
 from email.mime.text import MIMEText
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from config import GMAIL_ADDRESS, GMAIL_APP_PASSWORD, EMAIL_RECIPIENTS, FIELDS, KEYWORDS
 
 
@@ -18,7 +18,8 @@ GROUP_ORDER = ["A"] + [f"B{i+1}" for i in range(len(KEYWORDS))]
 
 def build_message(report: dict) -> str:
     """メール本文組み立て（HTML）"""
-    today = datetime.now().strftime("%Y-%m-%d")
+    JST = timezone(timedelta(hours=9))
+    today = datetime.now(JST).strftime("%Y-%m-%d")
 
     h = []
     h.append('<html><body style="font-family:sans-serif;font-size:14px;color:#222;max-width:800px;">')
@@ -74,7 +75,8 @@ def send_email(message: str) -> bool:
         print(message)
         return True
 
-    today = datetime.now().strftime("%Y-%m-%d")
+    JST = timezone(timedelta(hours=9))
+    today = datetime.now(JST).strftime("%Y-%m-%d")
     subject = f"【{_kw_label} 日次レポート】{today}"
 
     msg = MIMEText(message, "html", "utf-8")

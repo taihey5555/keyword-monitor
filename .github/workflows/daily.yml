@@ -2,7 +2,7 @@ name: Daily Keyword Monitor
 
 on:
   schedule:
-    - cron: '0 21 * * *'  # 毎日 21:00 UTC = 翌6:00 JST（UTC+9）
+    - cron: '48 20 * * *'  # 毎日 20:48 UTC = 翌5:48 JST（UTC+9）
   workflow_dispatch:       # 手動実行も可能
 
 jobs:

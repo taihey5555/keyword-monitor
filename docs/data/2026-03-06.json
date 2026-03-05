@@ -1,0 +1,237 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Markers of Mineral Metabolism in Children With CKD Stages 2 to 5D.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41767622/",
+        "abstract": "Changes in age- and sex-related markers for chronic kidney disease (CKD)-mineral and bone disorder (MBD) (CKD-MBD) across CKD stages 2 to 5D have not yet been studied in children.",
+        "source": "PubMed",
+        "keyword": "Klotho",
+        "title_ja": "CKDステージ2～5Dの小児におけるミネラル代謝マーカー",
+        "summary_ja": "本論文は、小児のCKDステージ2～5Dにおける、CKD-MBD関連の加齢・性別に応じたマーカーの変化を初めて調査した。血清リン、FGF23、PTHはCKDの進行に伴い早期から上昇し、ビタミンDは低下した。特に思春期前の小児では、これらのマーカーの変動が顕著であった。この知見は、小児CKD-MBDの病態理解と、成長段階を考慮した管理戦略の必要性を示唆している。"
+      },
+      {
+        "title": "Yi-Shen-Hua-Shi granules ameliorate renal injury via PPARγ-Klotho-mediated metabolic restoration and immune regulation in adenine-induced chronic kidney disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41475627/",
+        "abstract": "Chronic kidney disease (CKD) is a major global public health challenge, yet current clinical treatments fail to significantly reduce its associated morbidity and mortality. Yi-Shen-Hua-Shi (YS) granule, a traditional Chinese medicine widely used in mainland China, has demonstrated efficacy in improving renal function, reducing proteinuria, and mitigating renal pathological damage in CKD patients. However, the underlying molecular mechanisms of YS granule remain unclear.",
+        "source": "PubMed",
+        "keyword": "Klotho",
+        "title_ja": "Yi-Shen-Hua-Shi顆粒は、アデニン誘発性慢性腎臓病においてPPARγ-Klothoを介した代謝回復と免疫調節により腎障害を改善する",
+        "summary_ja": "本論文は、慢性腎臓病（CKD）に対する漢方薬「益腎化湿顆粒（Yi-Shen-Hua-Shi granule, YS）」の作用機序を解明した研究である。アデニン誘発CKDマウスモデルを用いた実験により、YS顆粒がPPARγを活性化し、抗老化因子Klothoの発現を増加させることを示した。これにより、脂質・糖代謝異常の改善、炎症性サイトカインの抑制、腎線維化の軽減が達成され、腎機能保護効果が発揮されると結論づけている。"
+      },
+      {
+        "title": "Klotho antiaging protein: molecular mechanisms and therapeutic potential in diseases",
+        "url": "https://www.semanticscholar.org/paper/a65c9e837f89514d6e0055ed17b39dca3f37f6bd",
+        "abstract": "Klotho, initially introduced as an anti-aging protein, is expressed in the brain, pancreas, and most prominently in the kidney. The two forms of Klotho (membrane-bound and soluble form) have diverse pharmacological functions such as anti-inflammatory, anti-oxidative, anti-fibrotic, tumour-suppressive etc. The membrane-bound form plays a pivotal role in maintaining kidney homeostasis by regulating fibroblast growth factor 23 (FGF 23) signalling, vitamin D metabolism and phosphate balance. Klotho deficiency has been linked with significantly reduced protection against various kidney pathological phenotypes, including diabetic kidney disease (DKD), which is a major cause of chronic kidney disease leading to end-stage kidney disease. Owing to the pleiotropic actions of klotho, it has shown beneficial effects in DKD by tackling the complex pathophysiology and reducing kidney inflammation, oxidative stress, as well as fibrosis. Moreover, the protective effect of klotho extends beyond DKD in other pathological conditions, including cardiovascular diseases, alzheimer's disease, cancer, inflammatory bowel disease, and liver disease. Therefore, this review summarizes the relationship between Klotho expression and various diseases with a special emphasis on DKD, the distinct mechanisms and the potential of exogenous Klotho supplementation as a therapeutic strategy. Future research into exogenous Klotho could unravel novel treatment avenues for DKD and other diseases.",
+        "source": "SemanticScholar",
+        "keyword": "Klotho",
+        "title_ja": "クロトー抗老化タンパク質：疾患における分子メカニズムと治療可能性",
+        "summary_ja": "Klothoは抗老化タンパク質として同定され、腎臓を中心に発現する。膜結合型と可溶型の2形態があり、抗炎症・抗酸化・抗線維化・腫瘍抑制など多様な作用を示す。膜結合型はFGF23シグナル・ビタミンD代謝・リン恒常性の調節により腎臓の恒常性維持に中心的役割を果たす。Klotho欠乏は、慢性腎臓病の主要因である糖尿病性腎症（DKD）を含む腎疾患への防御能を低下させる。KlothoはDKDの複雑な病態（炎症・酸化ストレス・線維化）に対し有益な効果を示し、その保護作用は心血管疾患・アルツハイマー病・癌などにも及ぶ。本論文は、特にDKDに焦点を当てたKlothoと疾患の関連、作用機序、および外来性Klotho補充療法の可能性を総括する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Seven days of warm-water immersion enhances resting irisin and BDNF, but not klotho, in older men.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41779094/",
+        "abstract": "We examined whether seven consecutive days of warm-water immersion could elevate resting and exercise-induced levels of brain-derived neurotrophic factor (BDNF), irisin and klotho in older adults. These biomarkers support cognitive and metabolic health, but their levels decline with age. Passive heat exposure, like warm-water immersion, may offer a promising alternative to exercise for enhancing cellular-level physiological resilience in populations where exercise is limited. Twelve habitually active older men (median [IQR] age: 68 [64-73] years; ",
+        "source": "PubMed",
+        "keyword": "Klotho",
+        "title_ja": "高齢男性における7日間の温水浸漬は、休息時のアイリシンとBDNFを増加させるが、クロトーは増加させない。",
+        "summary_ja": "高齢男性12名を対象に、7日間の温水浴が認知・代謝健康に関わるバイオマーカー（BDNF、イリシン、クロトー）に及ぼす影響を検証。その結果、安静時BDNFとイリシンは有意に増加したが、クロトーと運動誘発性の各因子には変化が認められなかった。加齢で低下するこれらの因子に対し、運動が困難な場合の代替手段として、受動的加熱（温水浴）の有用性が示唆される。"
+      },
+      {
+        "title": "Low-level expression of Cmyc in mature neurons: Maintaining neuronal function and preventing neurodegeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40313104/",
+        "abstract": "JOURNAL/nrgr/04.03/01300535-202606000-00067/figure1/v/2026-02-11T151048Z/r/image-tiff Cmyc , a proto-oncogene, is expressed at extremely low levels in mature neurons and is traditionally thought to have no function in these cells. However, recent studies suggest that Cmyc may play a crucial role in maintaining the health and function of mature dopaminergic neurons. This study assessed the role of Cmyc in dopaminergic neurons and its significance in Parkinson's disease. We used a conditional knockout approach to specifically delete Cmyc in substantia nigra dopaminergic neurons of adult mice. Our findings showed that Cmyc deletion led to progressive neuron loss, Parkinson's disease-like symptoms, downregulation of Klotho, and upregulation of senescence-associated inflammatory factors, along with enhanced oxidative stress and nitrated alpha-synuclein accumulation, ultimately causing neuronal death. In vitro experiments confirmed increased senescence in C-MYC knockout cells, which was partially reversible by KLOTHO overexpression. We conclude that low-level Cmyc expression is essential for maintaining the health of mature dopaminergic neurons and preventing neurodegeneration, and suggest the c-Myc/Klotho axis as a potential therapeutic target for age-related neurodegenerative diseases, including Parkinson's disease. Our study introduces a novel mouse model for Parkinson's disease that replicates a condition associated with normal aging, offering a valuable tool for future research into disease mechanisms and therapeutic strategies.",
+        "source": "PubMed",
+        "keyword": "Klotho",
+        "title_ja": "成熟ニューロンにおけるCmycの低レベル発現：神経機能の維持と神経変性の防止",
+        "summary_ja": "成熟ニューロンにおける低レベルCmyc発現：神経機能維持と神経変性予防\n\n従来、成熟ニューロンでは機能なしとされた原がん遺伝子Cmycが、実はドーパミンニューロンの健康維持に必須であることを示唆。成体マウス黒質ドーパミンニューロン特異的Cmyc欠失により、進行性神経脱落、パーキンソン病様症状、Klotho発現低下、細胞老化関連炎症・酸化ストレス増加、α-シヌクレイン蓄積が生じた。in vitroではC-MYC欠失細胞の老化がKLOTHO過剰発現により部分的回復。低レベルCmycはc-Myc/Klotho軸を介して神経変性を防ぎ、加齢関連神経変性疾患の新規治療標候補となる。本研究は正常加齢関連パーキンソン病様状態を再現する新規マウスモデルを提供した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Identification of Novel Biomarkers for Crohn's Disease Through the Integration of Machine Learning, Colocalization, and SMR Analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41773807/",
+        "abstract": "Crohn's disease (CD) is a chronic inflammatory bowel disease with a prevalence rate increasing with time, thus demanding improved diagnostic and therapeutic strategies. The present work focused on identifying the candidate biomarkers for CD diagnosis and treatment. Gene Expression Omnibus (GEO)-derived CD-related gene expression datasets were analyzed. Differential protein-protein interaction network and weighted gene co-expression network analyses were conducted to prioritize the core candidate genes. Multiple machine learning algorithms were used to further refine these candidates. The feature importance of the model with the highest performance was explained using SHapley Additive exPlanations. Additionally, a single-sample gene set enrichment analysis was carried out to evaluate immune cell infiltration and determine the associations with diagnostic markers. In addition, the causal biomarker genes were identified using Bayesian colocalization and the summary data-based Mendelian randomization (SMR) analysis. The combination of glmBoost and random forest machine learning analysis identified five hub genes (CXCL5, SERPINB2, SOCS3, PF4, and IL1R1), which demonstrated robust diagnostic performance for CD. These biomarkers were correlated with the immune cell infiltration patterns indicative of heightened inflammation and Th1/Th17 adaptive immune responses. Colocalization and SMR analyses established a causal association of IL1R1 with CD development. This integrative multiomics approach identified the key biomarkers involved in the pathogenic mechanism of CD. The eQTL data based SMR analysis suggested a significant association of IL1R1 with CD risk, highlighting its dual effects as a diagnostic biomarker and therapeutic target.",
+        "source": "PubMed",
+        "keyword": "PF4",
+        "title_ja": "機械学習、コロカリゼーション、およびSMR解析の統合によるクローン病の新規バイオマーカーの同定。",
+        "summary_ja": "本研究は、機械学習・コロカリゼーション・SMR解析を統合し、クローン病(CD)の新規バイオマーカーを同定した。GEOデータセットを用い、ネットワーク解析と複数の機械学習アルゴリズムにより、CXCL5、SERPINB2、SOCS3、PF4、IL1R1の5つのハブ遺伝子を選定。これらは高い診断性能を示し、免疫細胞浸潤やTh1/Th17応答と関連していた。特に、コロカリゼーションとSMR解析により、IL1R1がCD発症との因果的関連を有する診断バイオマーカーかつ治療標的としての可能性が示された。"
+      },
+      {
+        "title": "Single-cell transcriptomic profiling of platelet-adherent circulating tumor cells using a microcavity-gel manipulation platform.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41558870/",
+        "abstract": "Pancreatic cancer remains one of the most lethal malignancies, with a 5-year survival rate of less than 9 %, primarily due to its aggressive metastasis and drug resistance. Circulating tumor cells (CTCs), which are key mediators of metastasis, are critical for understanding these clinical challenges. In this study, we applied a single-cell transcriptome analysis platform combining a microcavity array (MCA) and gel-based cell manipulation (GCM) technique for marker-independent cell recovery to analyze CTCs from patients with metastatic pancreatic cancer. Using pancreatic cancer cell lines, we demonstrated that this microcavity-gel manipulation platform enables high-quality single-cell RNA sequencing while preserving intrinsic molecular characteristics. Furthermore, spiking experiments with cancer cells in blood confirmed that the process minimizes contamination from non-target blood cells. Application of this platform to patient-derived CTCs revealed that most CTCs exhibited epithelial-mesenchymal transition (EMT)-like features and high expression of platelet-related genes such as PF4 and PPBP, suggesting platelet-driven EMT activation. In addition, CTCs were consistently arrested in the G1 phase of the cell cycle, implying a potential survival mechanism under therapeutic stress. These findings highlight the utility of microcavity-gel manipulation platform for robust single-cell transcriptomic profiling and provided novel insights into the biology of pancreatic CTCs.",
+        "source": "PubMed",
+        "keyword": "PF4",
+        "title_ja": "マイクロキャビティ・ゲル操作プラットフォームを用いた血小板接着性循環腫瘍細胞の単一細胞トランスクリプトーム解析",
+        "summary_ja": "膵癌は転移性・薬剤耐性により致死率が高い。本研究では、転移の鍵を握る循環腫瘍細胞（CTCs）を、マイクロキャビティアレイとゲル操作技術を組み合わせたプラットフォームで回収し、単一細胞トランスクリプトーム解析を実施した。患者由来CTCsの解析により、その多くが上皮間葉転換（EMT）様の特徴を示し、血小板関連遺伝子（PF4、PPBP）の発現上昇から血小板によるEMT活性化が示唆された。またCTCsは細胞周期G1期で停止しており、治療ストレス下での生存メカニズムが示された。本プラットフォームは高品質な単一細胞解析を可能とし、膵癌CTCsの生物学的理解に新たな知見を与える。"
+      },
+      {
+        "title": "Target anesthesia and surgery induced senescent cell via composite microsphere hydrogels as nose-to-brain amplifiers of platelet factor 4 delivery for neurocognitive dysfunction repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41289965/",
+        "abstract": "Perioperative neurocognitive disorder (PND) is a common complication in older surgical patients, leading to increased neurodegenerative and death risk, augment socioeconomic burdens. Despite its prevalence, the reasons of why this complication occurs highly in older, underlying pathogenesis mechanisms, and effective treatments remain unclear. Senescence associated secretory phenotype (SASP), resulting from cellular senescence, drives inflammaging and cognitive decline. However, the association between cellular senescent and poor cognitive outcome is seldomly defined in PND. Herein, we showed that anesthesia and surgery in aged mice further increase hippocampal neuron senescent burden, manifest as increased senescence-like markers (CDKN2A/p16, CDKN1A/p21, SASP, SA-β-Gal), along with lipofuscin and lipid droplet accumulation and synaptic dysfunction. We identified elevated PF4, a platelet-derived factor, as a defensive response in older PND mice. Intraperitoneal PF4 administration mitigated neuronal senescence burden and improved cognitive dysfunction. Considering the older, frail patients and shorter perioperative period, we developed microfluidic hydrogel microspheres and cationic thermosensitive hydrogel complexes for nasal PF4 delivery enabling satisfy minimally invasive, less frequent dosing and sustained treatment. These findings reveal a critical role for cellular senescence in PND and propose PF4-based therapies as a promising translational strategy.",
+        "source": "PubMed",
+        "keyword": "PF4",
+        "title_ja": "標的麻酔および手術誘発性老化細胞に対する複合マイクロスフェアハイドロゲルを介した血小板第4因子の鼻から脳への送達増幅による神経認知機能障害修復",
+        "summary_ja": "**要約**\n周術期神経認知障害（PND）は高齢手術患者に多く、認知機能低下を引き起こす。本研究は、高齢マウスにおいて麻酔・手術が海馬神経細胞の老化（細胞老化）を増強し、シナプス機能障害を招くことを示した。老化細胞から分泌されるSASPが炎症と認知機能低下を促進する。一方、血小板由来因子PF4の上昇は防御的反応であり、その投与は神経細胞老化を軽減し認知機能を改善した。臨床応用に向け、鼻腔から脳への持続的PF4送達を可能にする微小球ハイドロゲル複合体を開発した。細胞老化がPNDの鍵であり、PF4療法は有望な治療戦略である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "GRIPAP1 is an endosomal tethering factor mediating platelet α-granule biogenesis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632639/",
+        "abstract": "Platelet α-granules are lysosome-related organelles produced in megakaryocytes, the platelet precursor cells. The biogenesis of α-granules is incompletely understood but depends on common endosomal pathways. Here, we discovered GRIPAP1, a partially characterized ubiquitous protein, as a new component of the α-granule biogenesis machinery. GRIPAP1-deficient megakaryocytes showed a significant decrease of α-granule numbers and overall cargo levels. In WT megakaryocytes, fibrinogen taken up by endocytosis and newly synthesized PF4 trafficked through GRIPAP1-labeled compartments en route to α-granules. GRIPAP1 localized to endosome subdomains decorated by Rab4a and Stx12, known players in α-granule biogenesis. GRIPAP1 bound GTP-loaded Rab4a, a key interaction for GRIPAP1 recruitment to membranes. Biochemically, GRIPAP1 behaved as an elongated homodimer akin to membrane tethering factors. Consistently, artificial mislocalization of GRIPAP1 to the mitochondria was sufficient to recruit Rab4a compartments containing internalized transferrin and newly synthesized PF4 to mitochondria. Together, the data advance understanding of endosomal transport, the biogenesis of α-granules, and likely other endo-lysosomal organelles.",
+        "source": "PubMed",
+        "keyword": "PF4",
+        "title_ja": "GRIPAP1は血小板α顆粒の生合成を仲介するエンドソーム係留因子である。",
+        "summary_ja": "血小板α顆粒は巨核球で産生されるリソソーム関連細胞小器官である。本研究では、普遍的に発現するタンパク質GRIPAP1がα顆粒形成機構の新規構成因子であることを発見した。GRIPAP1欠損巨核球ではα顆粒数と内容物が減少した。GRIPAP1はRab4aとStx12が存在するエンドソーム領域に局在し、GTP結合型Rab4aと結合して膜へリクルートされる。生化学的には膜テザリング因子に類似した伸長型ホモ二量体を形成し、ミトコンドリアへ人為的に局在化させると、Rab4a区画と輸送中のPF4やトランスフェリンをミトコンドリアへ再配置できた。GRIPAP1はエンドソーム輸送とα顆粒形成を仲介するテザリング因子として機能すると結論される。"
+      },
+      {
+        "title": "Classification of Platelet-Activating Anti-Platelet Factor 4 Disorders.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40358013/",
+        "abstract": "The prototypic anti-platelet factor 4 (PF4) disorder-heparin-induced thrombocytopenia and thrombosis (HITT)-features immunoglobulin G (IgG) class antibodies that activate platelets, monocytes, and neutrophils in a mainly heparin-dependent fashion via Fcγ receptor-dependent cellular activation. The identification in 2021 of an ultrarare HITT-mimicking disorder, vaccine-induced immune thrombocytopenia and thrombosis (VITT)-triggered by two different adenoviral vector vaccines-abruptly broadened the spectrum of recognized anti-PF4 disorders.",
+        "source": "PubMed",
+        "keyword": "PF4",
+        "title_ja": "血小板活性化抗血小板第4因子疾患の分類",
+        "summary_ja": "抗血小板第4因子（PF4）疾患の原型であるヘパリン起因性血小板減少症・血栓症（HITT）は、主にヘパリン依存的にFcγ受容体を介して血小板・単球・好中球を活性化するIgG抗体を特徴とする。2021年、2種類のアデノウイルスベクターワクチンにより誘発される極めて稀なVITT（ワクチン誘発性免疫性血小板減少症・血栓症）が同定され、認識される抗PF4疾患のスペクトラムは突然拡大した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Identification and diagnostic evaluation of an aptamer targeting prostate-cancer-derived small extracellular vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41646885/",
+        "abstract": "Prostate cancer (PCa) lacks convenient, non-invasive, and highly specific diagnostic markers. Aptamers have emerged as preferred probes for biosensors that target extracellular vesicles (EVs). This study aimed to explore the diagnostic value of PCa-specific EVs aptamer probes. We used EV-SELEX to identify aptamers that selectively target PCa small EVs (sEVs). Surface plasmon resonance (SPR) and nanoflow cytometry were used to verify aptamer affinity. The diagnostic value of PCa was evaluated using clinical samples from patients. We screened and validated an aptamer, seq25, which exhibited high specificity for PCa-derived sEVs. The SPR assay revealed a strong binding affinity, with a KD of 24.02 nM and a dose-dependent binding response. Nanoflow cytometry demonstrated that seq25 could distinguish sEVs from PCa and normal prostate cell lines. In clinical specimens, the proportion of seq25-positive sEVs isolated from urine samples was significantly higher in patients with PCa than in those with benign prostatic hyperplasia. Our study integrated the diagnostic advantages of EVs with the technical benefits of aptamers to develop a PCa-specific sEVs aptamer probe that offers a promising non-invasive approach for PCa diagnosis.",
+        "source": "PubMed",
+        "keyword": "sEVs",
+        "title_ja": "前立腺癌由来小型細胞外小胞を標的とするアプタマーの同定と診断評価",
+        "summary_ja": "前立腺癌（PCa）には簡便で非侵襲的かつ高特異的な診断マーカーが不足している。本研究は、PCa特異的な細胞外小胞（sEVs）を標的とするアプタマー（seq25）をEV-SELEX法で同定し、その診断的有用性を検証した。表面プラズモン共鳴（SPR）により高い親和性（KD=24.02 nM）を確認し、ナノフローサイトメトリーでPCa由来sEVsを正常細胞由来と識別可能であることを示した。臨床尿検体では、PCa患者においてseq25陽性sEVsの割合が良性前立腺肥大症患者より有意に高かった。sEVsの診断的利点とアプタマーの技術的優位性を統合し、PCaの非侵襲的診断法として有望なアプタマープローブを開発した。"
+      },
+      {
+        "title": "Small extracellular vesicles from DENV2-infected C6/36 cells show viral infection ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41591810/",
+        "abstract": "Dengue, transmitted by ",
+        "source": "PubMed",
+        "keyword": "sEVs",
+        "title_ja": "DENV2感染C6/36細胞由来の小型細胞外小胞はウイルス感染を示す",
+        "summary_ja": "デングウイルス2型（DENV2）に感染したC6/36蚊細胞から放出される小型細胞外小胞（sEV）は、ウイルス感染を促進する可能性がある。このsEVにはウイルスRNAとタンパク質が含まれており、未感染のC6/36細胞に取り込まれることで、感染性ウイルス粒子の産生を増加させることが示された。このメカニズムは、蚊体内でのウイルス伝播の理解に寄与する。"
+      },
+      {
+        "title": "Strategic Transcatheter Aortic Valve Replacement in Patients With Protruding Left Coronary Artery Stents.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41553323/",
+        "abstract": "Transcatheter aortic valve replacement is challenging in patients with coronary artery stents protruding into the aorta. While there have been a few reports using balloon-expandable valves with unique techniques, there are no reports using self-expandable valves (SEVs).",
+        "source": "PubMed",
+        "keyword": "sEVs",
+        "title_ja": "左冠動脈ステント突出を伴う患者における戦略的経カテーテル大動脈弁置換術",
+        "summary_ja": "左冠動脈ステントが大動脈内に突出した患者に対する経カテーテル的大動脈弁置換術（TAVR）は困難である。バルーン拡張型弁を用いた特異的手技の報告はあるが、自己拡張型弁（SEV）使用の報告はない。本論文は、このような症例に対してSEVを用いた戦略的TAVRの初の実施例を報告するものである。"
+      },
+      {
+        "title": "Mesenchymal stem cell-derived small extracellular vesicles loaded with miRNA-4488 alleviate chemotherapy-induced premature ovarian insufficiency via mitigation of apoptosis and oxidative stress.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41406654/",
+        "abstract": "Chemotherapy-induced premature ovarian insufficiency (POI) can disrupt endocrine homeostasis in female cancer patients. Since current therapeutic options remain inadequate, there is an urgent need to develop new strategies for POI prevention or treatment. Small extracellular vesicles (sEVs) derived from stem cells are recognized for their capacities in tissue repair, regeneration, and drug delivery. In this study, a microRNA delivery system was constructed by loading miRNA-4488 into bone marrow mesenchymal stem cell-derived sEVs via electroporation. The prepared sEVs-miR4488 significantly inhibited macrophage inflammation and promoted fibroblast cell migration and proliferation. In oxaliplatin-induced ovarian granulosa cells, sEVs-miR4488 reduced the expression of Bax and increased the expression of Bcl-2, demonstrating the anti-apoptotic activity. Additionally, oxaliplatin-induced reactive oxygen species production and mitochondrial depolarization were both decreased following treatment with sEVs-miR4488. These therapeutic effects were further confirmed in a POI mouse model. Bioinformatics analysis using FunRich and GO-BP revealed the involvement of multiple signaling pathways, and the NF-κB signaling pathway was verified to be downregulated in the protective mechanism mediated by miR-4488. Collectively, it provides a new strategy for the prevention and treatment of POI using sEVs-miR4488 in this study.",
+        "source": "PubMed",
+        "keyword": "sEVs",
+        "title_ja": "間葉系幹細胞由来の小型細胞外小胞にmiRNA-4488を搭載することで、アポトーシスと酸化ストレスの軽減を介して化学療法誘発性早発卵巣不全を緩和する",
+        "summary_ja": "【要約】\n化学療法誘発性早発卵巣不全（POI）は、女性がん患者の内分泌恒常性を破壊する。骨髄間葉系幹細胞由来の小型細胞外小胞（sEVs）にmiRNA-4488を導入した送達システム（sEVs-miR4488）を構築。これは、卵巣顆粒膜細胞におけるアポトーシス（Bax↓/Bcl-2↑）と酸化ストレスを抑制し、POIマウスモデルで効果を確認した。保護機序にはNF-κBシグナル経路の抑制が関与する。sEVs-miR4488はPOIの新規治療戦略となる。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Self-protected circular DNAzyme for integrated enrichment and quantification of small extracellular vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41784788/",
+        "abstract": "Small extracellular vesicles (sEVs) hold immense potential for liquid biopsy given the wealth of biological information they carry. Currently, the clinical application of these methods is limited due to their low abundance and the complexities associated with traditional isolation techniques. To address this, we developed a strategy integrating cholesterol-mediated capture with a Self-Protected DNAzyme Walker for the rapid and simultaneous specific isolation and quantification of small extracellular vesicles (sEVs). Upon specific binding to CD63, the blocker strand is released, which activates the DNAzyme catalytic core, leading to substrate cleavage, which triggers the specific release of sEVs from magnetic beads and the generation of a fluorescent signal. Importantly, the circular DNA Shield design provides remarkable stability to the system by safeguarding the DNAzyme core from nuclease degradation. Furthermore, the cyclic cleavage mechanism allows for highly sensitive detection, achieving a limit of detection (LOD) as low as 361 particles per μL. In addition, by leveraging the lipid bilayer structure for sEV enrichment, this strategy effectively eliminates interference from free proteins. Furthermore, the clinical feasibility of this assay was validated by successfully distinguishing Stage I breast cancer patients from healthy individuals with high statistical significance (",
+        "source": "PubMed",
+        "keyword": "sEVs",
+        "title_ja": "自己保護型環状DNAザイムを用いた小型細胞外小胞の統合的回収および定量",
+        "summary_ja": "本論文では、液体生検における小細胞外小胞（sEVs）の臨床応用を、その低存在量と複雑な単離技術により制限されている課題に対処するため、新規戦略を開発した。コレステロールを介した捕捉と「自己保護型DNAzyme Walker」を統合し、sEVsの迅速かつ同時特異的単離・定量を実現する。CD63への特異的結合によりブロッカー鎖が解離し、DNAzymeコアが活性化、基質切断を引き起こすことで、sEVsを磁気ビーズから特異的に放出させるとともに蛍光シグナルを生成する。環状DNAシールド設計によりヌクレアーゼ分解耐性を付与し、高安定性を達成。さらに、循環的切断機構により高感度検出（検出限界361 particles/μL）を可能とし、脂質二重層構造を利用したsEVs濃縮により遊離タンパク質の干渉を排除した。乳がんステージI患者と健常者を高統計的有意差で識別できることを示し、臨床的有用性を実証した。"
+      },
+      {
+        "title": "Aberrant fucosylation of extracellular vesicles remodels the vascular microenvironment and promotes chemoresistance in myelodysplastic syndromes and acute myeloid leukemia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41784036/",
+        "abstract": "Primary resistance to hypomethylating agents (HMAs) remains a major obstacle in the treatment of elderly patients with myelodysplastic syndromes (MDS) and acute myeloid leukemia (AML). An altered integrity of the vascular wall is suspected to contribute to this resistance, yet the underlying molecular mechanisms remain unclear. Here, we show that small extracellular vesicles (sEVs) derived from leukemic cells resistant to decitabine (DAC-R), a commonly used HMA, promote vascular permeability by downregulating tight junction proteins, including ZO-1, occludin, and claudin5, in endothelial cell monolayers. This disruption of vascular integrity may facilitate vascular leakage and leukemic cell dissemination. Mechanistically, DAC-R cells exhibit increased expression of the fucosyltransferase FUT4, driven by the transcription factor TWIST1, leading to enhanced biosynthesis of non-sialylated Lewis X (LeX) structures. FUT4-mediated LeX modification stabilizes intercellular adhesion molecule 3 (ICAM3) on sEVs, and the delivery of LeX-modified ICAM3 to endothelial cells suppresses NF-κB signaling, impairing endothelial barrier function. Functionally, vascular remodeling driven by fucosylated sEVs promotes leukemic dissemination, suggesting that disruption of vascular homeostasis represents an additional layer of therapeutic resistance. These findings define a TWIST1-FUT4-LeX-ICAM3 axis and highlight glycosylation as a critical mediator of vascular microenvironment remodeling in MDS/AML.",
+        "source": "PubMed",
+        "keyword": "sEVs",
+        "title_ja": "細胞外小胞の異常なフコシル化は血管微小環境を再構築し、骨髄異形成症候群および急性骨髄性白血病における化学療法耐性を促進する",
+        "summary_ja": "骨髄異形成症候群（MDS）および急性骨髄性白血病（AML）におけるデシタビン耐性細胞は、転写因子TWIST1によりフコース転移酵素FUT4を発現上昇させる。これにより産生される小型細胞外小胞（sEV）は、非シアル化ルイスX（LeX）修飾を介してICAM3を安定化し、内皮細胞へ輸送する。これが内皮細胞のNF-κBシグナルを抑制し、タイト結合タンパク質を減少させて血管透過性を亢進させる。この血管微小環境の再構築が白血病細胞の浸潤を促進し、化学療法耐性の一因となるTWIST1-FUT4-LeX-ICAM3経路を明らかにした。"
+      },
+      {
+        "title": "Orchestrating the immuno-chondrogenic microenvironment via a bio-inorganic hybrid microsphere system for tendon-to-bone healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41675681/",
+        "abstract": "The structural failure of rotator cuff repair is largely attributed to fibrovascular scar formation driven by a persistent inflammatory microenvironment and insufficient fibrocartilage regeneration at the tendon-to-bone interface. To address this, a microfluidic-generated GelMA microsphere system co-encapsulating Zeolitic Imidazolate Framework-8 (ZIF-8) nanoparticles and bone marrow mesenchymal stem cell (BMSC)-derived small extracellular vesicles (sEVs) is developed. This composite system (ZIF-8/sEVs@MS) enables the sustained release of Zn",
+        "source": "PubMed",
+        "keyword": "sEVs",
+        "title_ja": "生体無機ハイブリッド微小球システムによる免疫軟骨形成微小環境の制御による腱-骨治癒の促進",
+        "summary_ja": "本論文は、腱-骨界面の治癒を促進するため、持続的な亜鉛イオン放出と細胞外小胞の徐放を可能とするバイオ無機ハイブリッド微小粒子システム（ZIF-8/sEVs@MS）を開発した。このシステムは、炎症性微小環境を調節し軟骨形成を誘導することで、線維血管性瘢痕の形成を抑制し、腱-骨修復の構造的失敗を改善することを目的としている。"
+      },
+      {
+        "title": "A novel transgenic reporter mouse line of astrocyte-derived small extracellular vesicles for investigating intercellular communication in vivo.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41654312/",
+        "abstract": "Small extracellular vesicles (sEVs) mediate intercellular communication in the central nervous system, regulating processes ranging from homeostatic maintenance to injury repair. Although astrocytes are a major source of sEVs in the brain, in vivo investigation of their endogenous and cell-specific signaling remains technically challenging.",
+        "source": "PubMed",
+        "keyword": "sEVs",
+        "title_ja": "アストロサイト由来小型細胞外小胞の新規トランスジェニックレポーターマウス系統：生体内細胞間コミュニケーションの解析に向けて",
+        "summary_ja": "本論文は、アストロサイト由来の小型細胞外小胞（sEVs）の生体内動態を解析するための新規トランスジェニックレポーターマウス系統を開発した。sEVsは中枢神経系の細胞間通信を媒介するが、その細胞特異的なシグナリングの生体内研究は技術的に困難であった。このマウス系統により、アストロサイトが分泌する内在性sEVsを特異的かつ非侵襲的に可視化・追跡することが可能となり、生理的・病態的条件下での細胞間通信メカニズムの解明に寄与する。"
+      },
+      {
+        "title": "POSTN",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41645751/",
+        "abstract": "Carcinoma‑associated fibroblasts (CAFs) exhibit notably heterogeneity and are closely implicated in immune checkpoint blockade (ICB) resistance in head and neck squamous cell carcinoma (HNSCC). However, the specific subtypes and mechanisms involved remain to be elucidated. By analyzing two single‑cell RNA sequencing datasets (GSE103322 and GSE139324) and The Cancer Genome Atlas (TCGA)‑HNSCC dataset, two distinct fibroblasts subtypes were identified: Perostin (POSTN)",
+        "source": "PubMed",
+        "keyword": "sEVs",
+        "title_ja": "ポストン",
+        "summary_ja": "頭頸部扁平上皮癌（HNSCC）において、癌関連線維芽細胞（CAFs）は高度な異質性を示し、免疫チェックポイント阻害（ICB）抵抗性と密接に関与する。単一細胞RNAシーケンスデータセット（GSE103322、GSE139324）およびTCGA-HNSCCデータセットの解析により、線維芽細胞は特にペリオスチン（POSTN）を発現するサブタイプを含む、少なくとも2つの異なるサブタイプに分類されることが明らかとなった。これらの特定のCAFsサブタイプとそのICB抵抗性における機序の解明が求められる。"
+      },
+      {
+        "title": "Development of a simple labeling method using fluorescent protein fusion proteins targeting the membrane lipids of small extracellular vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41534243/",
+        "abstract": "Extracellular vesicles (EV) are lipid-based nanoparticles naturally released by cells, exhibiting considerable heterogeneity in size, surface charge, and biomolecular composition. Recently, increasing attention has been directed toward the characterization of distinct EV-subpopulations, particularly based on unique surface antigen expression profiles. Therefore, a method for analyzing EV-subpopulations using versatile equipment would be highly valuable. In this study, we developed a labeling method for analyzing specific populations in small EVs (sEVs) distinguished by their levels phosphatidylserine (PS) exposure. For visualization, sEVs were labeled with two fusion proteins (enhanced green fluorescent protein [EGFP] linked to lactadherin [LA] and mCherry-Vn96) comprising a PS-binding protein or sEV-tropic peptide (Vn96) combined with fluorescent proteins. Using ultracentrifugation, bulk sEVs were collected, and a fraction of PS",
+        "source": "PubMed",
+        "keyword": "sEVs",
+        "title_ja": "膜脂質を標的とした蛍光タンパク質融合タンパク質を用いた小型細胞外小胞の簡易標識法の開発",
+        "summary_ja": "本研究では、細胞から放出される脂質ナノ粒子である細胞外小胞（EV）のうち、特に小型EV（sEV）のサブ集団を簡便に標識・分析する手法を開発した。sEVはホスファチジルセリン（PS）露出レベルが異なる集団に分けられるため、PS結合タンパク質（ラクトアドヘリン）またはsEV親和性ペプチド（Vn96）を蛍光タンパク質（EGFP、mCherry）と融合させた標識ツールを作製。超遠心で精製したsEVをこれらの融合タンパク質で標識し、PS露出に基づくサブ集団の可視化・分析を可能にした。汎用機器を用いたEVサブ集団解析の簡便な手法として有用である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. Klothoの多様な生理作用と治療応用の可能性**\nKlothoは抗老化・臓器保護作用を持つタンパク質で、膜型はFGF23シグナルを介しリン・ビタミンD代謝を調節し、可溶型は抗炎症・抗線維化・腫瘍抑制など多機能を発揮する。CKDではその発現低下が病態に関与し、漢方薬によるPPARγを介したKlotho発現誘導が腎保護効果を示すなど、治療標的として注目される。今後、Klotho補充療法や発現調節薬の開発が、腎疾患や加齢関連疾患の新治療につながる可能性が高い。\n\n**2. PF4関連疾患の分類と病態解明の進展**\n抗PF4抗体は、ヘパリン起因性血小板減少症（HITT）やワクチン誘発性免疫血栓性血小板減少症（VITT）など、重篤な血栓症の原因となる。最近の研究では、PF4と結合する抗体の特性（ヘパリン依存性など）に基づき疾患を分類し、その活性化メカニズム（Fcγ受容体経路など）を詳細に解明しつつある。この分類と病態理解の深化は、診断精度の向上と、より標的を絞った治療法の開発に不可欠である。\n\n**3. sEVsを利用した診断・治療プラットフォームの開発**\n小型細胞外小胞（sEVs）は、がん診断における非侵襲的バイオマーカー源（例：前立腺癌特異的アプタマー検出）として、また薬剤送達キャリア（例：miRNAを負荷した幹細胞由来sEVによる卵巣保護）として急速に応用が進んでいる。さらに、白血病におけるsEVsの糖鎖修飾異常が薬剤耐性に関与するなど、病態における機能解明も進む。sEVsの高感度検出技術とエンジニアリング技術の進歩が、次世代の個別化医療を牽引すると期待される。"
+}

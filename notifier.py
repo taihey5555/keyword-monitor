@@ -57,7 +57,7 @@ def build_message(report: dict) -> str:
     ai_summary = report.get("summary", "")
     if ai_summary:
         lines.append(f"\n{'='*25}")
-        lines.append("■ 本日のAIサマリー（Gemini）")
+        lines.append("■ 本日のAIサマリー")
         lines.append(f"{'='*25}")
         lines.append(ai_summary)
 

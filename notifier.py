@@ -64,6 +64,8 @@ def build_message(report: dict) -> str:
         h.append('<hr>')
         h.append(f'<p>{html.escape(ai_summary).replace(chr(10), "<br>")}</p>')
 
+    h.append('<hr>')
+    h.append('<p style="font-size:12px;color:#888;">サイトで過去のレポートを確認できます：<a href="https://taihey5555.github.io/keyword-monitor/">https://taihey5555.github.io/keyword-monitor/</a></p>')
     h.append('</body></html>')
     return "\n".join(h)
 

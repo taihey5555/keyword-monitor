@@ -58,11 +58,9 @@ def save_report(report: dict):
 
 def main():
     print("=== キーワード監視 開始 ===")
-    try:
-        validate_required_env(require_deepseek=True, require_mail=True)
-    except RuntimeError as e:
-        print(f"[CONFIG ERROR] {e}")
-        return
+    missing = validate_required_env(require_deepseek=True, require_mail=True)
+    if missing:
+        print(f"[CONFIG WARNING] 未設定: {', '.join(missing)}（処理は継続）")
 
     # 1. 全キーワードを検索
     article_lists = []

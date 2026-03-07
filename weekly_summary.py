@@ -21,6 +21,35 @@ _JST = timezone(timedelta(hours=9))
 _KW_LABEL = " / ".join(KEYWORDS.values())
 
 
+def _parse_top3_json(raw: str, total_articles: int) -> list[dict]:
+    """DeepSeek返答からトップ3候補を安全に抽出する。"""
+    candidates = None
+    try:
+        candidates = json.loads(raw)
+    except Exception:
+        match = re.search(r"\[[\s\S]*\]", raw)
+        if not match:
+            return []
+        try:
+            candidates = json.loads(match.group())
+        except Exception:
+            return []
+
+    if not isinstance(candidates, list):
+        return []
+
+    valid: list[dict] = []
+    for item in candidates:
+        if not isinstance(item, dict):
+            continue
+        idx = item.get("index")
+        if isinstance(idx, int) and 0 <= idx < total_articles:
+            valid.append(item)
+        if len(valid) >= 3:
+            break
+    return valid
+
+
 def load_weekly_articles() -> list[dict]:
     """過去7日分のJSONから全記事を収集する"""
     today = datetime.now(_JST).date()
@@ -96,22 +125,22 @@ def select_top3(articles: list[dict]) -> list[dict]:
         f"{articles_text}"
     )
 
-    try:
-        raw = _deepseek(prompt, max_tokens=600, temperature=0.3)
-        match = re.search(r'\[.*?\]', raw, re.DOTALL)
-        if match:
-            selected = json.loads(match.group())
-            result = []
-            for item in selected[:3]:
-                idx = item.get("index")
-                if idx is not None and 0 <= idx < len(articles):
+    for attempt in range(2):
+        try:
+            raw = _deepseek(prompt, max_tokens=600, temperature=0.3)
+            selected = _parse_top3_json(raw, len(articles))
+            if selected:
+                result = []
+                for item in selected:
+                    idx = item.get("index")
                     art = articles[idx].copy()
                     art["_reason"] = item.get("reason", "")
                     result.append(art)
-            if result:
-                return result
-    except Exception as e:
-        print(f"[WEEKLY] トップ3選定エラー: {e}")
+                if result:
+                    return result
+            print(f"[WEEKLY] トップ3選定のJSON解釈に失敗（{attempt + 1}/2）")
+        except Exception as e:
+            print(f"[WEEKLY] トップ3選定エラー（{attempt + 1}/2）: {e}")
 
     return articles[:3]
 
@@ -153,6 +182,32 @@ def build_weekly_message(top3: list[dict], comment: str) -> str:
         'font-family:-apple-system,BlinkMacSystemFont,\'Segoe UI\',sans-serif;">'
     )
     h.append('<div style="max-width:700px;margin:0 auto;padding:20px;">')
+
+    # DeepSeek キー未設定警告
+    if not summarizer.DEEPSEEK_API_KEY:
+        h.append(
+            '<div style="background:#fffbeb;border:2px solid #f59e0b;border-radius:10px;'
+            'padding:16px 20px;margin-bottom:20px;">'
+            '<div style="color:#92400e;font-size:15px;font-weight:700;margin-bottom:6px;">'
+            '&#9888; DeepSeek APIキーが未設定です</div>'
+            '<div style="color:#78350f;font-size:13px;">'
+            '週次コメントは生成せず、記事情報のみで配信しています。</div>'
+            '</div>'
+        )
+
+    # DeepSeek 認証エラー警告
+    if summarizer.auth_failed:
+        h.append(
+            '<div style="background:#fef2f2;border:2px solid #ef4444;border-radius:10px;'
+            'padding:16px 20px;margin-bottom:20px;">'
+            '<div style="color:#b91c1c;font-size:15px;font-weight:700;margin-bottom:6px;">'
+            '&#9888; DeepSeek API の認証に失敗しました</div>'
+            '<div style="color:#7f1d1d;font-size:13px;">'
+            'APIキーが無効または権限不足の可能性があります。'
+            '<a href="https://platform.deepseek.com/" style="color:#b91c1c;">DeepSeekコンソール</a>'
+            'でAPIキーを確認してください。</div>'
+            '</div>'
+        )
 
     # DeepSeek 課金警告
     if summarizer.billing_required:
@@ -281,11 +336,9 @@ def send_weekly_email(message: str) -> bool:
 
 def main():
     print("=== 週次サマリー 開始 ===")
-    try:
-        validate_required_env(require_deepseek=True, require_mail=True)
-    except RuntimeError as e:
-        print(f"[CONFIG ERROR] {e}")
-        return
+    missing = validate_required_env(require_deepseek=True, require_mail=True)
+    if missing:
+        print(f"[CONFIG WARNING] 未設定: {', '.join(missing)}（処理は継続）")
 
     print("[1/4] 過去7日分のJSONを読み込み中...")
     articles = load_weekly_articles()

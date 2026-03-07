@@ -5,11 +5,13 @@ _DEEPSEEK_URL = "https://api.deepseek.com/chat/completions"
 
 # 課金が必要な状態を検出した場合 True になるフラグ
 billing_required: bool = False
+# 認証エラー（キー無効など）を検出した場合 True になるフラグ
+auth_failed: bool = False
 
 
 def _deepseek(prompt: str, max_tokens: int = 400, temperature: float = 0.3) -> str:
     """DeepSeek API 共通呼び出し（429時は自動リトライ）"""
-    global billing_required
+    global billing_required, auth_failed
     for attempt in range(4):
         resp = requests.post(
             _DEEPSEEK_URL,
@@ -36,6 +38,10 @@ def _deepseek(prompt: str, max_tokens: int = 400, temperature: float = 0.3) -> s
             billing_required = True
             print("[DeepSeek] 残高不足（HTTP 402）")
             raise Exception("DeepSeek API: 残高不足（HTTP 402）")
+        if resp.status_code in (401, 403):
+            auth_failed = True
+            print(f"[DeepSeek] 認証エラー（HTTP {resp.status_code}）")
+            raise Exception(f"DeepSeek API: 認証エラー（HTTP {resp.status_code}）")
         if resp.status_code == 200:
             body = resp.json()
             err_code = (body.get("error") or {}).get("code", "")
@@ -44,6 +50,8 @@ def _deepseek(prompt: str, max_tokens: int = 400, temperature: float = 0.3) -> s
                 print(f"[DeepSeek] 残高不足（error.code={err_code}）")
                 raise Exception(f"DeepSeek API: 残高不足（{err_code}）")
             return body["choices"][0]["message"]["content"].strip()
+        if resp.status_code >= 500:
+            print(f"[DeepSeek] サーバーエラー（HTTP {resp.status_code}）")
         resp.raise_for_status()
     resp.raise_for_status()  # 最終的に失敗なら例外を投げる
 

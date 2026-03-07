@@ -31,8 +31,12 @@ GOOGLE_CSE_ID = os.environ.get("GOOGLE_CSE_ID", "")
 SUMMARY_MAX_CHARS = 400
 
 
-def validate_required_env(require_deepseek: bool = True, require_mail: bool = True) -> None:
-    """必須環境変数が不足している場合は例外を投げる。"""
+def validate_required_env(
+    require_deepseek: bool = True,
+    require_mail: bool = True,
+    strict: bool = False,
+) -> list[str]:
+    """必須環境変数の不足一覧を返す。strict=True の場合は例外を投げる。"""
     missing: list[str] = []
     if require_deepseek and not DEEPSEEK_API_KEY:
         missing.append("DEEPSEEK_API_KEY")
@@ -40,5 +44,6 @@ def validate_required_env(require_deepseek: bool = True, require_mail: bool = Tr
         missing.append("GMAIL_ADDRESS")
     if require_mail and not GMAIL_APP_PASSWORD:
         missing.append("GMAIL_APP_PASSWORD")
-    if missing:
+    if strict and missing:
         raise RuntimeError(f"必須環境変数が未設定です: {', '.join(missing)}")
+    return missing

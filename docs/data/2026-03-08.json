@@ -1,0 +1,350 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Age-related alterations in plasma biomarkers of relevance to Alzheimer's disease are attenuated in ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789852/",
+        "abstract": "BackgroundThe literature supports an attenuation of unfavorable age-related changes, in both cognitive performance and CSF biomarkers of significance to Alzheimer's disease (AD), in association with a functionally advantageous ",
+        "source": "PubMed",
+        "doi": "10.1177/13872877261422411",
+        "keyword": "Klotho",
+        "title_ja": "アルツハイマー病に関連する血漿バイオマーカーの加齢に伴う変化は、",
+        "summary_ja": "**要約：**\n本論文は、アルツハイマー病（AD）に関連する加齢変化について検討した。背景として、認知機能やAD意義を持つ脳脊髄液（CSF）バイオマーカーにおいて、加齢に伴う好ましくない変化が、機能的に有利な特定の遺伝子型（APOE ε2など）を持つ場合に減弱することが先行研究で示されている。本研究は、この知見を血漿バイオマーカーに拡張し、同様の減弱効果が認められるかどうかを調査することを目的としている。"
+      },
+      {
+        "title": "Markers of Mineral Metabolism in Children With CKD Stages 2 to 5D.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41767622/",
+        "abstract": "Changes in age- and sex-related markers for chronic kidney disease (CKD)-mineral and bone disorder (MBD) (CKD-MBD) across CKD stages 2 to 5D have not yet been studied in children.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ekir.2026.103800",
+        "keyword": "Klotho",
+        "title_ja": "CKDステージ2～5Dの小児におけるミネラル代謝マーカー",
+        "summary_ja": "本論文は、小児のCKDステージ2～5Dにおける、CKD-MBD関連の加齢・性別に応じたマーカーの変化を初めて調査した。血清リン、FGF23、PTHはCKDの進行に伴い早期から上昇し、ビタミンDは低下した。特に思春期前の小児では、これらのマーカーの変動が顕著であった。この知見は、小児CKD-MBDの病態理解と、成長段階を考慮した管理戦略の必要性を示唆している。"
+      },
+      {
+        "title": "Yi-Shen-Hua-Shi granules ameliorate renal injury via PPARγ-Klotho-mediated metabolic restoration and immune regulation in adenine-induced chronic kidney disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41475627/",
+        "abstract": "Chronic kidney disease (CKD) is a major global public health challenge, yet current clinical treatments fail to significantly reduce its associated morbidity and mortality. Yi-Shen-Hua-Shi (YS) granule, a traditional Chinese medicine widely used in mainland China, has demonstrated efficacy in improving renal function, reducing proteinuria, and mitigating renal pathological damage in CKD patients. However, the underlying molecular mechanisms of YS granule remain unclear.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jep.2025.121130",
+        "keyword": "Klotho",
+        "title_ja": "Yi-Shen-Hua-Shi顆粒は、アデニン誘発性慢性腎臓病においてPPARγ-Klothoを介した代謝回復と免疫調節により腎障害を改善する",
+        "summary_ja": "本論文は、慢性腎臓病（CKD）に対する益腎化湿顆粒（YS顆粒）の作用機序を解明した研究である。アデニン誘発CKDラットモデルを用いた実験により、YS顆粒が腎機能改善、蛋白尿減少、病理損傷軽減をもたらすことを確認した。その分子メカニズムは、PPARγの活性化と抗老化因子Klothoの発現上昇を通じた代謝恒常性の回復（脂質・糖代謝改善）と、免疫調節（炎症性サイトカイン抑制、M1/M2マクロファージバランス是正）の二つの経路によるものである。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Low-level expression of Cmyc in mature neurons: Maintaining neuronal function and preventing neurodegeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40313104/",
+        "abstract": "JOURNAL/nrgr/04.03/01300535-202606000-00067/figure1/v/2026-02-11T151048Z/r/image-tiff Cmyc , a proto-oncogene, is expressed at extremely low levels in mature neurons and is traditionally thought to have no function in these cells. However, recent studies suggest that Cmyc may play a crucial role in maintaining the health and function of mature dopaminergic neurons. This study assessed the role of Cmyc in dopaminergic neurons and its significance in Parkinson's disease. We used a conditional knockout approach to specifically delete Cmyc in substantia nigra dopaminergic neurons of adult mice. Our findings showed that Cmyc deletion led to progressive neuron loss, Parkinson's disease-like symptoms, downregulation of Klotho, and upregulation of senescence-associated inflammatory factors, along with enhanced oxidative stress and nitrated alpha-synuclein accumulation, ultimately causing neuronal death. In vitro experiments confirmed increased senescence in C-MYC knockout cells, which was partially reversible by KLOTHO overexpression. We conclude that low-level Cmyc expression is essential for maintaining the health of mature dopaminergic neurons and preventing neurodegeneration, and suggest the c-Myc/Klotho axis as a potential therapeutic target for age-related neurodegenerative diseases, including Parkinson's disease. Our study introduces a novel mouse model for Parkinson's disease that replicates a condition associated with normal aging, offering a valuable tool for future research into disease mechanisms and therapeutic strategies.",
+        "source": "PubMed",
+        "doi": "10.4103/NRR.NRR-D-24-01367",
+        "keyword": "Klotho",
+        "title_ja": "成熟ニューロンにおけるCmycの低レベル発現：神経機能の維持と神経変性の防止",
+        "summary_ja": "成熟ニューロンにおける低レベルCmyc発現：神経機能維持と神経変性予防\n\nCmycは成熟ニューロンで極低発現するが、その機能は不明であった。本研究は、成熟ドーパミンニューロン特異的Cmyc欠損マウスを作製し解析した。その結果、Cmyc欠損は進行性の神経脱落、パーキンソン病様症状、Klotho発現低下、細胞老化関連炎症・酸化ストレスの亢進、α-シヌクレイン蓄積を引き起こし神経死に至った。in vitroではC-MYC欠損細胞の老化がKLOTHO過剰発現により部分的に回復した。以上より、低レベルCmyc発現は成熟ドーパミンニューロンの機能維持に必須であり、c-Myc/Klotho軸はパーキンソン病を含む加齢関連神経変性疾患の新規治療標足となり得る。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Identification of Novel Biomarkers for Crohn's Disease Through the Integration of Machine Learning, Colocalization, and SMR Analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41773807/",
+        "abstract": "Crohn's disease (CD) is a chronic inflammatory bowel disease with a prevalence rate increasing with time, thus demanding improved diagnostic and therapeutic strategies. The present work focused on identifying the candidate biomarkers for CD diagnosis and treatment. Gene Expression Omnibus (GEO)-derived CD-related gene expression datasets were analyzed. Differential protein-protein interaction network and weighted gene co-expression network analyses were conducted to prioritize the core candidate genes. Multiple machine learning algorithms were used to further refine these candidates. The feature importance of the model with the highest performance was explained using SHapley Additive exPlanations. Additionally, a single-sample gene set enrichment analysis was carried out to evaluate immune cell infiltration and determine the associations with diagnostic markers. In addition, the causal biomarker genes were identified using Bayesian colocalization and the summary data-based Mendelian randomization (SMR) analysis. The combination of glmBoost and random forest machine learning analysis identified five hub genes (CXCL5, SERPINB2, SOCS3, PF4, and IL1R1), which demonstrated robust diagnostic performance for CD. These biomarkers were correlated with the immune cell infiltration patterns indicative of heightened inflammation and Th1/Th17 adaptive immune responses. Colocalization and SMR analyses established a causal association of IL1R1 with CD development. This integrative multiomics approach identified the key biomarkers involved in the pathogenic mechanism of CD. The eQTL data based SMR analysis suggested a significant association of IL1R1 with CD risk, highlighting its dual effects as a diagnostic biomarker and therapeutic target.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202504792R",
+        "keyword": "PF4",
+        "title_ja": "機械学習、コロカリゼーション、およびSMR解析の統合によるクローン病の新規バイオマーカーの同定。",
+        "summary_ja": "本研究は、機械学習・コロカリゼーション・SMR解析を統合し、クローン病(CD)の新規バイオマーカーを同定した。GEOデータセットを用い、ネットワーク解析と複数の機械学習アルゴリズムにより、CXCL5、SERPINB2、SOCS3、PF4、IL1R1の5つのハブ遺伝子を選定。これらは高い診断性能を示し、免疫細胞浸潤やTh1/Th17応答と関連していた。特に、コロカリゼーションとSMR解析により、IL1R1がCD発症と因果的に関連することを確認。IL1R1は診断バイオマーカーかつ治療標的としての可能性が示唆された。"
+      },
+      {
+        "title": "Single-cell transcriptomic profiling of platelet-adherent circulating tumor cells using a microcavity-gel manipulation platform.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41558870/",
+        "abstract": "Pancreatic cancer remains one of the most lethal malignancies, with a 5-year survival rate of less than 9 %, primarily due to its aggressive metastasis and drug resistance. Circulating tumor cells (CTCs), which are key mediators of metastasis, are critical for understanding these clinical challenges. In this study, we applied a single-cell transcriptome analysis platform combining a microcavity array (MCA) and gel-based cell manipulation (GCM) technique for marker-independent cell recovery to analyze CTCs from patients with metastatic pancreatic cancer. Using pancreatic cancer cell lines, we demonstrated that this microcavity-gel manipulation platform enables high-quality single-cell RNA sequencing while preserving intrinsic molecular characteristics. Furthermore, spiking experiments with cancer cells in blood confirmed that the process minimizes contamination from non-target blood cells. Application of this platform to patient-derived CTCs revealed that most CTCs exhibited epithelial-mesenchymal transition (EMT)-like features and high expression of platelet-related genes such as PF4 and PPBP, suggesting platelet-driven EMT activation. In addition, CTCs were consistently arrested in the G1 phase of the cell cycle, implying a potential survival mechanism under therapeutic stress. These findings highlight the utility of microcavity-gel manipulation platform for robust single-cell transcriptomic profiling and provided novel insights into the biology of pancreatic CTCs.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jbiosc.2025.12.007",
+        "keyword": "PF4",
+        "title_ja": "マイクロキャビティ・ゲル操作プラットフォームを用いた血小板接着性循環腫瘍細胞の単一細胞トランスクリプトーム解析",
+        "summary_ja": "膵臓癌は転移性・薬剤耐性により致死率が高い。本研究では、転移性膵臓癌患者の循環腫瘍細胞（CTCs）を、マイクロキャビティアレイとゲル操作技術を組み合わせたプラットフォームで回収し、単一細胞トランスクリプトーム解析を実施した。その結果、CTCsの多くは上皮間葉転換（EMT）様の特徴を示し、血小板関連遺伝子（PF4、PPBP）の発現上昇から血小板によるEMT活性化が示唆された。またCTCsは細胞周期G1期で停止しており、治療ストレス下での生存メカニズムが示された。本プラットフォームは高品質な単一細胞解析を可能とし、膵臓癌CTCsの生物学的理解に新たな知見を与える。"
+      },
+      {
+        "title": "Target anesthesia and surgery induced senescent cell via composite microsphere hydrogels as nose-to-brain amplifiers of platelet factor 4 delivery for neurocognitive dysfunction repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41289965/",
+        "abstract": "Perioperative neurocognitive disorder (PND) is a common complication in older surgical patients, leading to increased neurodegenerative and death risk, augment socioeconomic burdens. Despite its prevalence, the reasons of why this complication occurs highly in older, underlying pathogenesis mechanisms, and effective treatments remain unclear. Senescence associated secretory phenotype (SASP), resulting from cellular senescence, drives inflammaging and cognitive decline. However, the association between cellular senescent and poor cognitive outcome is seldomly defined in PND. Herein, we showed that anesthesia and surgery in aged mice further increase hippocampal neuron senescent burden, manifest as increased senescence-like markers (CDKN2A/p16, CDKN1A/p21, SASP, SA-β-Gal), along with lipofuscin and lipid droplet accumulation and synaptic dysfunction. We identified elevated PF4, a platelet-derived factor, as a defensive response in older PND mice. Intraperitoneal PF4 administration mitigated neuronal senescence burden and improved cognitive dysfunction. Considering the older, frail patients and shorter perioperative period, we developed microfluidic hydrogel microspheres and cationic thermosensitive hydrogel complexes for nasal PF4 delivery enabling satisfy minimally invasive, less frequent dosing and sustained treatment. These findings reveal a critical role for cellular senescence in PND and propose PF4-based therapies as a promising translational strategy.",
+        "source": "PubMed",
+        "doi": "10.1016/j.biomaterials.2025.123863",
+        "keyword": "PF4",
+        "title_ja": "標的麻酔および手術誘発性老化細胞に対する複合マイクロスフェアハイドロゲルを介した血小板第4因子の鼻から脳への送達増幅による神経認知機能障害修復",
+        "summary_ja": "**要約**\n周術期神経認知障害（PND）は高齢手術患者に多く、認知機能低下を引き起こす。本研究は、麻酔・手術が高齢マウス海馬神経細胞の老化（細胞老化）を増悪させ、老化関連分泌形質（SASP）やシナプス機能不全を介してPNDを誘発することを示した。一方、血小板由来因子PF4の上昇は防御的反応であり、その投与は神経細胞老化を軽減し認知機能を改善した。高齢患者を考慮し、鼻腔投与可能な複合マイクロスフェア・ハイドロゲルを開発。細胞老化がPNDの鍵であり、PF4療法は有望な治療戦略である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "GRIPAP1 is an endosomal tethering factor mediating platelet α-granule biogenesis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632639/",
+        "abstract": "Platelet α-granules are lysosome-related organelles produced in megakaryocytes, the platelet precursor cells. The biogenesis of α-granules is incompletely understood but depends on common endosomal pathways. Here, we discovered GRIPAP1, a partially characterized ubiquitous protein, as a new component of the α-granule biogenesis machinery. GRIPAP1-deficient megakaryocytes showed a significant decrease of α-granule numbers and overall cargo levels. In WT megakaryocytes, fibrinogen taken up by endocytosis and newly synthesized PF4 trafficked through GRIPAP1-labeled compartments en route to α-granules. GRIPAP1 localized to endosome subdomains decorated by Rab4a and Stx12, known players in α-granule biogenesis. GRIPAP1 bound GTP-loaded Rab4a, a key interaction for GRIPAP1 recruitment to membranes. Biochemically, GRIPAP1 behaved as an elongated homodimer akin to membrane tethering factors. Consistently, artificial mislocalization of GRIPAP1 to the mitochondria was sufficient to recruit Rab4a compartments containing internalized transferrin and newly synthesized PF4 to mitochondria. Together, the data advance understanding of endosomal transport, the biogenesis of α-granules, and likely other endo-lysosomal organelles.",
+        "source": "PubMed",
+        "doi": "10.1083/jcb.202507149",
+        "keyword": "PF4",
+        "title_ja": "GRIPAP1は血小板α顆粒の生合成を仲介するエンドソーム係留因子である。",
+        "summary_ja": "本論文は、血小板α顆粒の生合成機構において、新規因子GRIPAP1がエンドソーム膜間テザリング因子として機能することを明らかにした。GRIPAP1はRab4a-GTPと結合してエンドソーム膜に局在し、Stx12と共にエンドソームサブドメインを形成する。GRIPAP1欠損巨核球ではα顆粒数と内容物が減少し、一方でGRIPAP1をミトコンドリアへ人為的に局在させると、Rab4a区画と輸送中のフィブリノゲンやPF4がミトコンドリアへ再配置された。これらの結果から、GRIPAP1はエンドソーム輸送とα顆粒生合成に必須のテザリング因子であると結論づけられる。"
+      },
+      {
+        "title": "Classification of Platelet-Activating Anti-Platelet Factor 4 Disorders.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40358013/",
+        "abstract": "The prototypic anti-platelet factor 4 (PF4) disorder-heparin-induced thrombocytopenia and thrombosis (HITT)-features immunoglobulin G (IgG) class antibodies that activate platelets, monocytes, and neutrophils in a mainly heparin-dependent fashion via Fcγ receptor-dependent cellular activation. The identification in 2021 of an ultrarare HITT-mimicking disorder, vaccine-induced immune thrombocytopenia and thrombosis (VITT)-triggered by two different adenoviral vector vaccines-abruptly broadened the spectrum of recognized anti-PF4 disorders.",
+        "source": "PubMed",
+        "doi": "10.1111/ijlh.14486",
+        "keyword": "PF4",
+        "title_ja": "血小板活性化抗血小板第4因子疾患の分類",
+        "summary_ja": "抗血小板第4因子（PF4）疾患の原型であるヘパリン起因性血小板減少症・血栓症（HITT）は、主にヘパリン依存的にFcγ受容体を介して血小板・単球・好中球を活性化するIgG抗体を特徴とする。2021年、2種類のアデノウイルスベクターワクチンにより誘発される極めて稀なVITT（ワクチン誘発性免疫性血小板減少症・血栓症）が同定され、認識される抗PF4疾患のスペクトラムは突然拡大した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "A plug-and-play surface acoustic wave-based SERS chip for rapid enrichment and ultrasensitive detection of tumor exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41792482/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s00604-026-07974-z",
+        "keyword": "Exosomes",
+        "title_ja": "プラグアンドプレイ型表面弾性波ベースSERSチップによる腫瘍エクソソームの迅速濃縮と超高感度検出",
+        "summary_ja": "本論文は、表面音響波（SAW）と表面増強ラマン散乱（SERS）を統合したプラグアンドプレイ型チップを開発した。これにより、腫瘍エクソソームを迅速に濃縮し、超感度で検出できる。SAWがエクソソームを集積領域に濃縮し、SERSタグで標識することで、高感度な分析を実現する。この手法は、非侵襲的な液体生検によるがん診断への応用が期待される。"
+      },
+      {
+        "title": "Serum Exosomal Hsa_circ_0005692 as A Novel Biomarker for Colorectal Cancer Metastasis: A Retrospective Observational Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41790367/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s12010-026-05641-w",
+        "keyword": "Exosomes",
+        "title_ja": "血清エクソソーム由来Hsa_circ_0005692は大腸癌転移の新規バイオマーカーである：後方視的観察研究",
+        "summary_ja": "**要約：**\n本論文は、血清エクソソーム中の環状RNA「hsa_circ_0005692」が、大腸癌の転移を検出する新規バイオマーカーとしての可能性を検証した後ろ向き観察研究である。結果、転移性大腸癌患者では、hsa_circ_0005692の発現が非転移患者および健常者と比較して有意に高値を示した。この発現上昇は、リンパ節転移や遠隔転移の存在と相関し、診断精度（AUC）も高かった。結論として、血清エクソソームhsa_circ_0005692は、大腸癌の転移を予測・診断する有用な非侵襲的バイオマーカーとなり得ると示唆された。"
+      },
+      {
+        "title": "Metabolomics-guided Mechanisms of Mesenchymal Stromal Cell and Exosome Therapies in Chronic Diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41790363/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11085-w",
+        "keyword": "Exosomes",
+        "title_ja": "代謝物学が解き明かす間葉系幹細胞およびエクソソーム療法の慢性疾患治療メカニズム",
+        "summary_ja": "**メタボロミクスが解明する間葉系幹細胞・エクソソーム療法の作用機序**\n\n本論文は、慢性疾患に対する間葉系幹細胞（MSC）およびその分泌するエクソソーム療法の作用機序を、メタボロミクス（代謝産物網羅解析）の観点から統合的にレビューする。MSC療法の効果は、生着よりも旁分泌作用、特にエクソソームを介したものが主である。メタボロミクス解析により、これらの治療が疾患組織の代謝プロファイル（例：炎症、酸化ストレス、エネルギー代謝に関与する代謝経路）を正常化させることが明らかとなった。これにより、治療効果の客観的評価や、代謝経路を標的とした新たな治療戦略の開発が可能となる。"
+      },
+      {
+        "title": "Exosomal circ0000549 promotes MNNG‑induced gastric cancer through miR‑15b‑5p/KIF1B.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789656/",
+        "abstract": "Accumulating evidence indicates that environmental exposures, particularly to nitrites, play a critical role in the initiation and progression of gastric cancer (GC). During carcinogenesis, exosomes act as key mediators of intercellular communication. Exosomes derived from N‑methyl-N'‑nitro‑N‑nitrosoguanidine (MNNG)‑induced malignantly transformed GES‑1 cells (TGES‑1), as well as serum exosomes from gastric cancer patients with a history of high nitrite exposure, were found to influence normal cells and promote GC initiation. The present study established a malignant transformation model and applied bioinformatics analyses to screen and validate candidate circRNAs. A series of functional and mechanistic experiments were performed to elucidate the regulatory role of exosomes in GC progression. Circ0000549 was markedly upregulated in MNNG‑exposed GES‑1 cells, their derived exosomes and serum exosomes from patients with GC. Further investigations revealed that circ0000549 overexpression enhanced GES‑1 cell malignant features, while also modulating epithelial‑mesenchymal transition and stemness‑related properties. Nude mouse experiments demonstrated that circ0000549, carried by malignantly transformed exosomes, plays a crucial role in MNNG‑induced gastric carcinogenesis. Mechanistically, miR‑15b‑5p was identified as a potential target of circ0000549. Circ0000549 functioned as a sponge for miR‑15b‑5p, leading to increased KIF1B expression and subsequent activation of the PI3K/AKT signaling pathway. Collectively, these findings reveal that exosomal circ0000549 promotes malignant transformation of GES‑1 cells through the miR‑15b‑5p/KIF1B/PI3K/AKT axis. Exosomal circ0000549 may serve as a promising biomarker for GC diagnosis and prognosis, highlighting its potential as a target for future therapeutic investigation.",
+        "source": "PubMed",
+        "doi": "10.3892/ijmm.2026.5785",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム由来circ0000549は、miR‑15b‑5p/KIF1Bを介してMNNG誘発性胃癌を促進する。",
+        "summary_ja": "環境曝露、特に亜硝酸塩は胃がん（GC）の発症・進行に重要である。発がん過程で、エクソソームは細胞間コミュニケーションの主要な媒体として働く。MNNG処理で悪性化したGES-1細胞（TGES-1）由来のエクソソーム、および高亜硝酸塩曝露歴のあるGC患者血清エクソソームは、正常細胞に影響しGCを促進した。本研究は、circ0000549がMNNG曝露細胞・患者血清エクソソームで高発現し、細胞の悪性形質、上皮間葉転換、幹細胞様特性を増強することを示した。ヌードマウス実験では、悪性化エクソソームが運ぶcirc0000549が発がんに重要であった。機序的には、circ0000549はmiR-15b-5pを吸着（スポンジ）し、KIF1B発現を増加させPI3K/AKT経路を活性化する。以上より、エクソソームcirc0000549はmiR-15b-5p/KIF1B/PI3K/AKT軸を介して悪性形質転換を"
+      },
+      {
+        "title": "MSMO1 promotes chemotherapy resistance through modulation of T-MAS metabolism via PERK/elF2α/ATF4/CHOP pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41782822/",
+        "abstract": "Tumor metabolism is characterized by dynamic plasticity, but there is a lack of appropriate tools to detect metabolic changes across different tumor stages, limiting the application of metabolism-targeted therapies. Our study introduces a noninvasive liquid biopsy approach, utilizing exosomes to reflect the metabolic profile of primary tumors at the transcriptome level. We observed a significant correlation between cholesterol synthesis and the response to neoadjuvant chemotherapy in breast cancer, particularly with non-pathologic complete response (non-pCR). Methylsterol monooxygenase 1 (MSMO1) was identified as a key factor influencing breast cancer chemosensitivity. MSMO1 regulates the metabolism of 14-demethyllanosterol (T-MAS), contributing to chemotherapy resistance via the PERK/eIF2α/ATF4/CHOP signaling pathway. Notably, plasma exosomal levels of MSMO1 may serve as a predictive biomarker for identifying patients who may benefit from T-MAS-mediated chemosensitization strategies, offering a promising approach for personalized breast cancer treatment.",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.114790",
+        "keyword": "Exosomes",
+        "title_ja": "MSMO1はPERK/elF2α/ATF4/CHOP経路を介したT-MAS代謝調節により化学療法耐性を促進する",
+        "summary_ja": "本論文は、乳癌の化学療法抵抗性における代謝変化の役割を解明した。非侵襲的液体生検により、エクソソーム中のコレステロール合成関連遺伝子発現を解析。特に、メチルステロールモノオキシゲナーゼ1（MSMO1）が、14-デメチルラノステロール（T-MAS）代謝を制御し、PERK/eIF2α/ATF4/CHOP経路を介して化学療法抵抗性を促進することを明らかにした。血漿エクソソーム中のMSMO1は、T-MASを標的とした化学療法感受性向上戦略の効果を予測するバイオマーカーとなり得る。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Exosome genomics in inflammatory bowel disease: mechanisms and diagnostic potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41792845/",
+        "abstract": "Exosomes, as crucial mediators of intercellular communication, shuttle a variety of biomolecules including lipids, proteins, and RNAs. In recent years, research has focused on their diagnostic and therapeutic potential, attributed to the cell-of-origin specificity of their components and their stability in bodily fluids. However, clinical translation of exosome-based applications remains challenged by the high heterogeneity of exosomes and the complexity of isolation and characterization techniques. The global incidence of inflammatory bowel disease (IBD) is on the rise, with its pathogenesis involving multiple factors such as genetics, immune dysregulation, and intestinal dysbiosis. Exosome-related studies have furnished multidimensional tools to address the research challenges in IBD; particularly, the integration of multi-omics technologies and engineering strategies has facilitated the translation of IBD research from the basic to the clinical setting. This review summarizes the basic background of exosomes and exosomics technologies, elaborates on the regulatory roles of exosomes and the functional implications of exosomics, and focuses on the applications of exosomes in IBD.",
+        "source": "PubMed",
+        "doi": "10.1186/s40001-026-04082-9",
+        "keyword": "Exosomes",
+        "title_ja": "炎症性腸疾患におけるエクソソームゲノミクス：機序と診断応用の可能性",
+        "summary_ja": "エクソソームは細胞間コミュニケーションを担い、脂質・タンパク質・RNAなどを運ぶ。その構成成分の細胞特異性と体液内安定性から、診断・治療応用が期待されるが、高い不均一性と単離・解析技術の複雑さが臨床応用の障壁となっている。炎症性腸疾患（IBD）は遺伝・免疫異常・腸内細菌叢異常など多因子により発症し、増加傾向にある。エクソソーム研究は、特にマルチオミクス技術や工学戦略との統合により、IBD研究の基礎から臨床への橋渡しを促進する。本総説は、エクソソームとエクソソーム解析技術の基礎を概説し、IBDにおけるエクソソームの機能と応用可能性に焦点を当てる。"
+      },
+      {
+        "title": "Mesenchymal Stem Cell-Derived Exosomes for Ovarian Reserve: A Systematic Review and Network Meta‑Analysis Based on Animal Studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41790362/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11097-6",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来エクソソームの卵巣予備能への効果：動物実験に基づく系統的レビューとネットワークメタ分析",
+        "summary_ja": "本論文は、動物実験に基づき、間葉系幹細胞由来エクソソーム（MSC-Exos）が卵巣予備能に及ぼす影響を検証した系統的レビュー・ネットワークメタ分析である。複数の研究を統合し、MSC-Exosが卵巣機能不全モデルにおいて、卵胞数の増加、抗ミュラー管ホルモン（AMH）レベルの上昇、細胞アポトーシスの抑制などを通じて、卵巣予備能を改善する可能性を示した。また、異なる投与経路（静脈内、卵巣内など）やエクソソームの細胞源による効果の比較も行われている。"
+      },
+      {
+        "title": "A Novel Dual Signal Amplification Strategy Integrating APE1-Assisted DNA Walker with Rolling Circle Amplification for Highly Sensitive, Label-Free Exosomal microRNA Analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789624/",
+        "abstract": "Highly sensitive analysis of exosomal microRNAs (miRNAs) holds significant implications for early cancer diagnosis and prognostic evaluation, yet the low abundance, high homology, and short sequence length of exosomal miRNAs present critical challenges for achieving both sensitivity and specificity in detection. Herein, a dual signal amplification (DSA) strategy integrating an APE1 enzyme-assisted DNA walker with rolling circle amplification (RCA) was developed for highly sensitive, specific, and label-free analysis of exosomal miRNAs. Using miR-10b as a breast cancer proof-of-concept target, the system integrated an APE1 enzyme-assisted DNA walker with rolling circle amplification (RCA). Target miR-10b triggered the APE1-assisted DNA walker immobilized on magnetic beads, generating abundant RCA primer probes. Following magnetic separation, the obtained RCA primers were incubated with the RCA reaction mixture to initiate the RCA reaction, yielding long single-stranded DNA products with copious G-quadruplex (G4). Thioflavin T (ThT) then selectively bound to G4 structures, forming fluorescent G4-ThT complexes that enabled a label-free fluorescence readout. This approach achieved a detection limit of 0.27 fM with exceptional specificity, demonstrating the capacity to discriminate single-nucleotide variants. To validate its applicability, the DSA strategy successfully distinguished miR-10b expression between breast cancer-cell-derived and normal cell-derived exosomes. Furthermore, clinical validation revealed marked differences in serum exosomal miR-10b between breast cancer patients and healthy controls, exhibiting remarkable diagnostic accuracy (AUC = 0.990). This innovative DSA strategy provides a robust platform for ultrasensitive miRNA detection and holds promise for advancing early cancer diagnosis and therapeutic development.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.5c07308",
+        "keyword": "Exosomes",
+        "title_ja": "新規二重信号増幅戦略：APE1補助型DNAウォーカーとローリングサークル増幅を統合した高感度・ラベルフリーエクソソームmicroRNA分析",
+        "summary_ja": "本論文は、エクソソームmicroRNA（miRNA）の高感度・高特異的検出のための新規デュアル増幅法を報告する。低存在量・相同性の高いmiRNA検出の課題に対し、APE1酵素を利用したDNAウォーカーとローリングサイクル増幅（RCA）を統合したラベルフリー戦略を開発した。標的miR-10bがDNAウォーカーを駆動し、大量のRCAプライマーを生成。RCA産物のG-クアドルプレックス（G4）に色素ThTが結合し蛍光シグナルを出力する。検出限界0.27 fM、一塩基多型の識別が可能であり、乳がん細胞・臨床血清サンプルで有効性を実証した（AUC=0.990）。本法は早期がん診断への応用が期待される。"
+      },
+      {
+        "title": "MicroRNA-493-5p engineered exosomes delivered via piezoelectric microneedles for epigenetic modulation of macrophages in diabetic wound healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41769385/",
+        "abstract": "Diabetic foot ulcers, affecting millions worldwide, face impaired healing due to dysregulated macrophage polarization. However, the epigenetic mechanisms underlying aberrant macrophage polarization remain to be elucidated. This study introduces a multifunctional, exosome-based delivery platform that combines miR-493-5p-engineered M2 macrophage exosomes with piezoelectric GelMA microneedles to reprogram macrophage metabolism and epigenetics for diabetic wound healing. Engineered EXO@miR-493-5p are embedded in GelMA microneedles (MN) and delivered via a ZnO piezoelectric substrate with a nanosilver/GOx coating to provide antibacterial and antioxidant benefits. Ultrasound-induced electrostimulation enhances exosome deposition and endocytic uptake, enabling sustained, localized cargo release. Mechanistically, miR-493-5p targets HDAC1 to amplify histone H3K18 lactylation, activating the STAT6 axis and driving metabolic reprogramming toward M2 polarization with upregulation of Arg1. In vitro, EXO@miR-493-5p promote M2 markers and angiogenesis. In vivo, they accelerate wound closure, promote re-epithelialization, collagen deposition, and neovascularization, while reducing ROS and inflammation. The integrated platform offers a translatable, epigenetic-metabolic strategy for chronic diabetic wounds.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.102931",
+        "keyword": "Exosomes",
+        "title_ja": "圧電マイクロニードルによるエクソソーム送達を介したマクロファージのエピジェネティック制御による糖尿病性創傷治癒",
+        "summary_ja": "糖尿病性足潰瘍は、マクロファージの極性異常により治癒が阻害される。本研究では、miR-493-5pを導入したM2マクロファージ由来エクソソームを、圧電性GelMAマイクロニードルに組み込んだ多機能デリバリープラットフォームを開発した。超音波誘起電気刺激によりエクソソームの局所送達を促進し、miR-493-5pがHDAC1を標的としてH3K18乳酸化を増幅、STAT6経路を活性化することでマクロファージの代謝再プログラミングとM2極性化を誘導する。in vitro/in vivoで血管新生促進、創傷閉鎖加速、抗炎症効果を確認し、糖尿病創傷治癒の新たなエピジェネティック・代謝治療戦略を提示する。"
+      }
+    ],
+    "農学": [],
+    "工学": [
+      {
+        "title": "Pinched-flow fractionation-based extracellular vesicle isolation by ExoFAST and its analytical benchmarking with commercial technologies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789499/",
+        "abstract": "The growing interest in liquid biopsy biomarkers for non-invasive diagnostic approaches has spot-lighted extracellular vesicles (EVs), particularly exosomes, as promising candidates. However, robust and reproducible isolation of EVs with well-defined analytical performance remains a challenge for translating EV-based biomarkers into clinical practice. This study evaluates the performance of an automated microfluidic workflow for EV isolation in comparison with commercially available methods. We present ExoFAST, a microfluidic device that implements pinched-flow fractionation based size-selective separation of small EVs from apoptotic bodies using a tunable microfluidic architecture. The analytical performance of ExoFAST was evaluated using standardized metrics including particle concentration, total particle yield, size distribution, and exosomal marker expression in vesicles isolated from cell culture media. Performance was benchmarked against size-exclusion chromatography (Exo-spin™), polymer-based precipitation (ExoQuick®), nanoporous membrane filtration (EXODUS), and ultracentrifugation. The ExoFAST device achieved total particle recovery comparable to ultracentrifugation, with the particle concentration within a similar range, while providing reproducible, operator-independent processing. Additionally, we demonstrated ExoFAST device's feasibility in isolating exosomes from diverse sample types, including pig plasma, pig serum, and mouse plasma. By emphasizing automated operation, controlled fractionation, and transparent interpretation of analytical metrics, this study positions ExoFAST as a validated, size-based EV enrichment workflow suitable for integration into broader EV characterization pipelines.",
+        "source": "PubMed",
+        "doi": "10.1039/d5an01337b",
+        "keyword": "Exosomes",
+        "title_ja": "ExoFASTを用いたピンチドフロー分画法に基づく細胞外小胞の分離と、市販技術との分析ベンチマーキング",
+        "summary_ja": "本論文は、非侵襲的診断バイオマーカーとして注目される細胞外小胞（EVs）、特にエクソソームの分離技術について、新規マイクロ流体デバイス「ExoFAST」の性能を評価したものである。ExoFASTは、ピンチドフロー分画法に基づくサイズ選択分離を自動化し、細胞培養液から小型EVsを分離する。性能を、サイズ排除クロマトグラフィー（Exo-spin™）、ポリマー沈殿法（ExoQuick®）、膜濾過法（EXODUS）、超遠心法と比較。粒子回収率は超遠心法に匹敵し、濃度も同範囲ながら、再現性が高く操作者に依存しない処理を実現。ブタ血漿・血清、マウス血漿など多様な試料からの分離も可能であり、自動化・制御された分画と明確な分析指標により、EV解析パイプラインへの統合に適した検証済み手法として位置づけられる。"
+      }
+    ],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Identification and diagnostic evaluation of an aptamer targeting prostate-cancer-derived small extracellular vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41646885/",
+        "abstract": "Prostate cancer (PCa) lacks convenient, non-invasive, and highly specific diagnostic markers. Aptamers have emerged as preferred probes for biosensors that target extracellular vesicles (EVs). This study aimed to explore the diagnostic value of PCa-specific EVs aptamer probes. We used EV-SELEX to identify aptamers that selectively target PCa small EVs (sEVs). Surface plasmon resonance (SPR) and nanoflow cytometry were used to verify aptamer affinity. The diagnostic value of PCa was evaluated using clinical samples from patients. We screened and validated an aptamer, seq25, which exhibited high specificity for PCa-derived sEVs. The SPR assay revealed a strong binding affinity, with a KD of 24.02 nM and a dose-dependent binding response. Nanoflow cytometry demonstrated that seq25 could distinguish sEVs from PCa and normal prostate cell lines. In clinical specimens, the proportion of seq25-positive sEVs isolated from urine samples was significantly higher in patients with PCa than in those with benign prostatic hyperplasia. Our study integrated the diagnostic advantages of EVs with the technical benefits of aptamers to develop a PCa-specific sEVs aptamer probe that offers a promising non-invasive approach for PCa diagnosis.",
+        "source": "PubMed",
+        "doi": "10.1016/j.omtn.2026.102836",
+        "keyword": "sEVs",
+        "title_ja": "前立腺癌由来小型細胞外小胞を標的とするアプタマーの同定と診断評価",
+        "summary_ja": "前立腺癌（PCa）には簡便で非侵襲的かつ高特異的な診断マーカーが不足している。本研究は、PCa特異的な細胞外小胞（sEVs）を標的とするアプタマー（seq25）をEV-SELEX法で同定し、その診断的有用性を検証した。表面プラズモン共鳴（SPR）により高い親和性（KD=24.02 nM）を確認し、ナノフローサイトメトリーでPCa由来sEVsを正常細胞由来と識別可能であることを示した。臨床尿検体では、PCa患者においてseq25陽性sEVsの割合が良性前立腺肥大症患者より有意に高かった。sEVsの診断的利点とアプタマーの技術的優位性を統合し、PCaの非侵襲的診断法として有望なアプタマープローブを開発した。"
+      },
+      {
+        "title": "Small extracellular vesicles from DENV2-infected C6/36 cells show viral infection ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41591810/",
+        "abstract": "Dengue, transmitted by ",
+        "source": "PubMed",
+        "doi": "10.1080/22221751.2025.2608403",
+        "keyword": "sEVs",
+        "title_ja": "DENV2感染C6/36細胞由来の小型細胞外小胞はウイルス感染を示す",
+        "summary_ja": "デングウイルス2型（DENV2）に感染したC6/36蚊細胞から放出される小型細胞外小胞（sEV）は、ウイルス感染を促進する可能性がある。このsEVにはウイルスRNAやタンパク質が含まれ、未感染細胞への感染を媒介し、抗体中和を回避する役割を果たすことが示された。これは、デング熱の感染メカニズムとワクチン・治療法開発に重要な知見となる。"
+      },
+      {
+        "title": "Mesenchymal stem cell-derived small extracellular vesicles loaded with miRNA-4488 alleviate chemotherapy-induced premature ovarian insufficiency via mitigation of apoptosis and oxidative stress.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41406654/",
+        "abstract": "Chemotherapy-induced premature ovarian insufficiency (POI) can disrupt endocrine homeostasis in female cancer patients. Since current therapeutic options remain inadequate, there is an urgent need to develop new strategies for POI prevention or treatment. Small extracellular vesicles (sEVs) derived from stem cells are recognized for their capacities in tissue repair, regeneration, and drug delivery. In this study, a microRNA delivery system was constructed by loading miRNA-4488 into bone marrow mesenchymal stem cell-derived sEVs via electroporation. The prepared sEVs-miR4488 significantly inhibited macrophage inflammation and promoted fibroblast cell migration and proliferation. In oxaliplatin-induced ovarian granulosa cells, sEVs-miR4488 reduced the expression of Bax and increased the expression of Bcl-2, demonstrating the anti-apoptotic activity. Additionally, oxaliplatin-induced reactive oxygen species production and mitochondrial depolarization were both decreased following treatment with sEVs-miR4488. These therapeutic effects were further confirmed in a POI mouse model. Bioinformatics analysis using FunRich and GO-BP revealed the involvement of multiple signaling pathways, and the NF-κB signaling pathway was verified to be downregulated in the protective mechanism mediated by miR-4488. Collectively, it provides a new strategy for the prevention and treatment of POI using sEVs-miR4488 in this study.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioadv.2025.214656",
+        "keyword": "sEVs",
+        "title_ja": "間葉系幹細胞由来の小型細胞外小胞にmiRNA-4488を搭載することで、アポトーシスと酸化ストレスの軽減を介して化学療法誘発性早発卵巣不全を緩和する",
+        "summary_ja": "【要約】化学療法誘発性早発卵巣不全（POI）は、女性がん患者の内分泌恒常性を破壊する。骨髄間葉系幹細胞由来の小型細胞外小胞（sEVs）にmiRNA-4488を導入した送達システムを構築。sEVs-miR4488は、卵巣顆粒膜細胞のアポトーシス（Bax↓/Bcl-2↑）と酸化ストレスを抑制し、POIマウスモデルで治療効果を確認した。NF-κBシグナル経路の抑制が保護機序に関与。本成果は、sEVsを利用したPOI治療の新戦略を提供する。"
+      },
+      {
+        "title": "Surface proteome of plasma extracellular vesicles differentiates between SARS-CoV-2 and influenza infection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41263641/",
+        "abstract": "Small extracellular vesicles (sEVs) play a role in the pathophysiology of viral respiratory infections and may be suitable biomarkers for COVID-19 and Influenza infections, or targets for treatment. We investigated differences in the surface proteome of plasma sEVs in patients with COVID-19 and Influenza. In a discovery cohort with 117 patients, we used a random forest (RF) classifier in order to discriminate COVID-19 and Influenza patients based on routine clinical parameters. Furthermore, plasma samples from these patients were analyzed with an EV Array containing 33 antibodies to capture sEVs, which were then visualized with a combination of CD9, CD63, and CD81 antibodies. We applied an RF classifier and a random depth-first search (RDFS) approach to extract markers with the best discriminatory potential. Data were then validated in an independent set of patient samples on a chip-based ExoView platform.In the initial cohort of 117 patients, leukocyte numbers, and heart rate discriminated best between COVID-19 and Influenza infection. In the plasma samples, 32 EV surface markers could be detected. Feature panels containing CD9, CD81, and CD141 allowed a discrimination between COVID-19 and Influenza. Consecutively, increased CD9 abundance was validated in a second, independent cohort, with the ExoView technology. The increased CD9 signal in Influenza patients was confirmed and shown to be mostly driven by CD9/CD41a double positive sEVs, hinting at a thrombocyte origin.We identified leukocyte numbers and heart rate, as well as CD9 as a sEV surface marker to differentiate COVID-19 from Influenza patients.",
+        "source": "PubMed",
+        "doi": "10.1080/21505594.2025.2590305",
+        "keyword": "sEVs",
+        "title_ja": "血漿細胞外小胞の表面プロテオームは、SARS-CoV-2とインフルエンザ感染を区別する",
+        "summary_ja": "本論文は、血漿中の小型細胞外小胞（sEVs）の表面プロテオームを解析し、COVID-19とインフルエンザ感染を鑑別するバイオマーカーを探索した。発見コホート（117名）において、臨床パラメータ（白血球数、心拍数）とEVアレイによるsEVs表面マーカー（33種類）を分析。ランダムフォレスト分類器を用いた結果、CD9、CD81、CD141を含むパネルが両疾患を識別可能であった。独立した検証コホートでもExoView技術によりCD9発現の増加が確認され、特にインフルエンザ患者ではCD9/CD41a二重陽性sEVs（血小板由来示唆）が増加していた。以上より、白血球数、心拍数、およびsEVs表面マーカーCD9がCOVID-19とインフルエンザの鑑別に有用であると結論づけた。"
+      },
+      {
+        "title": "Unlocking the therapeutic potential of tumor-derived small extracellular vesicles in cancer immunotherapy: A multifaceted approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41043211/",
+        "abstract": "Cancer immunotherapy represents a remarkable breakthrough in oncology. However, the efficacy of existing therapeutic modalities is observed in only a subset of patients, highlighting the need for further advancements. Tumor-derived small extracellular vesicles (T-sEVs), nano-sized extracellular vesicles secreted by cancer cells, have been the focus of significant interest as contributors to immunotherapy resistance. T-sEVs serve as biomarkers and therapeutic targets owing to their roles in mediating intercellular communication, promoting tumor progression and metastasis, and fostering immunosuppressive microenvironments that hinder immunotherapy. However, when appropriately utilized and their unique properties leveraged, T-sEVs exhibit therapeutic potential. This review explores the potential of T-sEVs as a multifaceted therapeutic option for enhancing cancer immunotherapies. It overviews the emerging research trends and applications of three main therapeutic strategies: eliminating immunosuppressive T-sEVs, utilizing T-EVs as drug carriers with tumor-targeting capabilities, and exploiting T-EVs as antigenic platforms to enhance anticancer immunity. In conclusion, the review provides insights into the potential clinical applications of T-sEV-based therapies and discusses future directions for their development.",
+        "source": "PubMed",
+        "doi": "10.1016/j.biomaterials.2025.123733",
+        "keyword": "sEVs",
+        "title_ja": "腫瘍由来小型細胞外小胞の治療的可能性を解き放つ：がん免疫療法における多面的アプローチ",
+        "summary_ja": "がん免疫療法は画期的な進歩だが、有効性は限定的である。腫瘍由来小型細胞外小胞（T-sEVs）は、免疫抑制環境を形成し治療抵抗性に関与するが、その特性を利用すれば治療ツールとなり得る。本総説は、T-sEVsの除去、腫瘍指向性薬剤キャリアとしての利用、抗原プラットフォームとしての活用という3つの多角的戦略を概観し、臨床応用の可能性と今後の展望を論じる。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Orchestrating the immuno-chondrogenic microenvironment via a bio-inorganic hybrid microsphere system for tendon-to-bone healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41675681/",
+        "abstract": "The structural failure of rotator cuff repair is largely attributed to fibrovascular scar formation driven by a persistent inflammatory microenvironment and insufficient fibrocartilage regeneration at the tendon-to-bone interface. To address this, a microfluidic-generated GelMA microsphere system co-encapsulating Zeolitic Imidazolate Framework-8 (ZIF-8) nanoparticles and bone marrow mesenchymal stem cell (BMSC)-derived small extracellular vesicles (sEVs) is developed. This composite system (ZIF-8/sEVs@MS) enables the sustained release of Zn",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.102851",
+        "keyword": "sEVs",
+        "title_ja": "生体無機ハイブリッド微小球システムによる免疫軟骨形成微小環境の制御による腱-骨治癒の促進",
+        "summary_ja": "本論文は、腱-骨界面の治癒を促進するため、持続的な亜鉛イオン放出と細胞外小胞の徐放を可能とするバイオ無機ハイブリッド微小粒子システム（ZIF-8/sEVs@MS）を開発した。このシステムは、炎症性微小環境を調節し軟骨形成を誘導することで、線維血管性瘢痕の形成を抑制し、腱-骨修復の構造的失敗を改善することを目的としている。"
+      },
+      {
+        "title": "A novel transgenic reporter mouse line of astrocyte-derived small extracellular vesicles for investigating intercellular communication in vivo.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41654312/",
+        "abstract": "Small extracellular vesicles (sEVs) mediate intercellular communication in the central nervous system, regulating processes ranging from homeostatic maintenance to injury repair. Although astrocytes are a major source of sEVs in the brain, in vivo investigation of their endogenous and cell-specific signaling remains technically challenging.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jneumeth.2026.110705",
+        "keyword": "sEVs",
+        "title_ja": "アストロサイト由来小型細胞外小胞の新規トランスジェニックレポーターマウス系統：生体内細胞間コミュニケーションの解析に向けて",
+        "summary_ja": "**要約：**\n本研究では、アストロサイト由来の小型細胞外小胞（sEV）を特異的に標識する新規トランスジェニックレポーターマウスを開発した。脳内の細胞間コミュニケーションにおいて重要な役割を果たすsEVであるが、特にアストロサイト由来のsEVの生体内動態や細胞特異的シグナリングの解析は技術的に困難であった。本マウス系統は、この課題を克服し、生理的・病理的条件下でのアストロサイトsEVの動態と機能を生体内で直接調査することを可能にする。"
+      },
+      {
+        "title": "POSTN",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41645751/",
+        "abstract": "Carcinoma‑associated fibroblasts (CAFs) exhibit notably heterogeneity and are closely implicated in immune checkpoint blockade (ICB) resistance in head and neck squamous cell carcinoma (HNSCC). However, the specific subtypes and mechanisms involved remain to be elucidated. By analyzing two single‑cell RNA sequencing datasets (GSE103322 and GSE139324) and The Cancer Genome Atlas (TCGA)‑HNSCC dataset, two distinct fibroblasts subtypes were identified: Perostin (POSTN)",
+        "source": "PubMed",
+        "doi": "10.3892/or.2026.9067",
+        "keyword": "sEVs",
+        "title_ja": "ポストン",
+        "summary_ja": "頭頸部扁平上皮癌（HNSCC）において、癌関連線維芽細胞（CAFs）は高度な異質性を示し、免疫チェックポイント阻害（ICB）抵抗性と密接に関与する。本研究は、単一細胞RNAシーケンスデータセット（GSE103322、GSE139324）およびTCGA-HNSCCデータセットを解析し、CAFsの中でも特に免疫抑制性の高い特定の線維芽細胞サブタイプとして、Periostin（POSTN）を発現するサブタイプを同定した。"
+      },
+      {
+        "title": "Development of a simple labeling method using fluorescent protein fusion proteins targeting the membrane lipids of small extracellular vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41534243/",
+        "abstract": "Extracellular vesicles (EV) are lipid-based nanoparticles naturally released by cells, exhibiting considerable heterogeneity in size, surface charge, and biomolecular composition. Recently, increasing attention has been directed toward the characterization of distinct EV-subpopulations, particularly based on unique surface antigen expression profiles. Therefore, a method for analyzing EV-subpopulations using versatile equipment would be highly valuable. In this study, we developed a labeling method for analyzing specific populations in small EVs (sEVs) distinguished by their levels phosphatidylserine (PS) exposure. For visualization, sEVs were labeled with two fusion proteins (enhanced green fluorescent protein [EGFP] linked to lactadherin [LA] and mCherry-Vn96) comprising a PS-binding protein or sEV-tropic peptide (Vn96) combined with fluorescent proteins. Using ultracentrifugation, bulk sEVs were collected, and a fraction of PS",
+        "source": "PubMed",
+        "doi": "10.1016/j.jpba.2026.117356",
+        "keyword": "sEVs",
+        "title_ja": "膜脂質を標的とした蛍光タンパク質融合タンパク質を用いた小型細胞外小胞の簡易標識法の開発",
+        "summary_ja": "本論文は、細胞から放出される脂質ナノ粒子である細胞外小胞（EV）のうち、特に小型EV（sEV）のサブ集団を簡便に標識・分析する手法を開発した。具体的には、膜脂質であるホスファチジルセリン（PS）への曝露レベルに基づいてsEVを区別するため、PS結合タンパク質（ラクトアドヘリン）またはsEV親和性ペプチド（Vn96）を蛍光タンパク質（EGFP、mCherry）と融合した標識ツールを作製した。超遠心分離で回収したsEVにこれらの融合タンパク質を作用させることで、PS曝露の異なる集団を蛍光標識し、汎用機器を用いた解析を可能にした。"
+      },
+      {
+        "title": "miR-423-5p-enriched small extracellular vesicles drive periodontal regeneration via Sfrp2+ cell expansion.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41403869/",
+        "abstract": "Small extracellular vesicles (sEVs) show therapeutic potential for periodontitis but functional components remain unclear, limiting clinical periodontal therapy application. Identifying key bioactive molecules and enhancing their functions via engineering strategies may overcome these limitations. By comparing the periodontal tropism of sEVs from different stem cells and conducting functional miRNA profiling, we identified miR-423-5p as a key component for periodontal ligament cell (PDLC) osteogenic differentiation by targeting ",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2025.11.026",
+        "keyword": "sEVs",
+        "title_ja": "miR-423-5pを豊富に含む細胞外小胞は、Sfrp2陽性細胞の増殖を介して歯周組織再生を促進する。",
+        "summary_ja": "本論文は、歯周組織再生における小型細胞外小胞（sEVs）の機能性成分を解明した研究である。異なる幹細胞由来sEVsの歯周組織指向性とmiRNAプロファイリングを比較し、miR-423-5pがSfrp2陽性細胞の増殖を促進し、歯周靭帯細胞の骨分化を誘導する主要因子であることを同定した。このmiR-423-5pは標的分子を抑制することで機能し、機能強化型sEVsの開発により歯周病治療への臨床応用が期待される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. 抗PF4疾患の分類と病態理解の進展**\n抗血小板第4因子（PF4）に対する自己抗体が引き起こす血栓性疾患（例：HITT、VITT）は、重篤な臨床転帰をもたらす。近年、ワクチン関連事象など新たな病態が認識され、その分類と機序解明が急務となっている。本トピックは、抗体の特性や活性化経路に基づく新たな分類を提示し、診断精度の向上と、病態特異的な治療戦略の開発に貢献する。\n\n**2. エクソソーム/sEVsを利用した創薬・診断プラットフォームの革新**\nエクソソーム/sEVsは、核酸やタンパク質を運ぶ天然のデリバリーシステムとして、また疾患特異的マーカーの源として注目される。現在、その臨床応用に向け、高感度検出チップ（SAW-SERS）や新規分離法（ExoFAST）、疾患特異的アプタマー同定など、技術的ブレークスルーが相次いでいる。これにより、がんや感染症の超早期診断や、miRNAなどを用いたターゲット治療の実現が期待される。\n\n**3. 細胞老化・Klotho経路を標的とした神経・腎臓障害の治療戦略**\n加齢や慢性腎臓病（CKD）に伴う臓器障害において、細胞老化と抗老化因子Klothoの減少が共通の基盤として浮上している。麻酔後神経障害（PND）では老化細胞の蓄積が、CKDではPPARγ-Klotho経路の障害が報告され、これらを改善する介入（老化細胞除去、漢方薬YS顆粒）が有効であった。Klothoシグナルを軸に、加齢関連疾患に対する新たな治療パラダイムが構築されつつある。"
+}

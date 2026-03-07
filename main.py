@@ -7,7 +7,7 @@ from search import collect_all
 from classifier import classify_ab, build_classified_report
 from summarizer import summarize_all, generate_daily_summary
 from notifier import build_message, send_email
-from config import KEYWORDS
+from config import KEYWORDS, validate_required_env
 
 
 def save_report(report: dict):
@@ -58,6 +58,11 @@ def save_report(report: dict):
 
 def main():
     print("=== キーワード監視 開始 ===")
+    try:
+        validate_required_env(require_deepseek=True, require_mail=True)
+    except RuntimeError as e:
+        print(f"[CONFIG ERROR] {e}")
+        return
 
     # 1. 全キーワードを検索
     article_lists = []
@@ -81,13 +86,13 @@ def main():
     print("[4/5] 日本語要約・タイトル翻訳中...")
     report = summarize_all(report)
 
-    # 4.5. Gemini デイリーサマリー生成
-    print("[4.5/5] Gemini デイリーサマリー生成中...")
+    # 4.5. DeepSeek デイリーサマリー生成
+    print("[4.5/5] DeepSeek デイリーサマリー生成中...")
     try:
         report["summary"] = generate_daily_summary(report)
-        print(f"[Gemini] サマリー生成完了 ({len(report['summary'])}文字)")
+        print(f"[DeepSeek] サマリー生成完了 ({len(report['summary'])}文字)")
     except Exception as e:
-        print(f"[Gemini SUMMARY ERROR] {e}")
+        print(f"[DeepSeek SUMMARY ERROR] {e}")
         report["summary"] = ""
 
     # 5. JSON保存（メール送信より先に実行。エラーでも処理を続行）

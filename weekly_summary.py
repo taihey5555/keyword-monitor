@@ -6,7 +6,14 @@ import smtplib
 from datetime import datetime, timezone, timedelta
 from email.mime.text import MIMEText
 
-from config import DEEPSEEK_API_KEY, GMAIL_ADDRESS, GMAIL_APP_PASSWORD, EMAIL_RECIPIENTS, KEYWORDS
+from config import (
+    DEEPSEEK_API_KEY,
+    GMAIL_ADDRESS,
+    GMAIL_APP_PASSWORD,
+    EMAIL_RECIPIENTS,
+    KEYWORDS,
+    validate_required_env,
+)
 import summarizer
 from summarizer import _deepseek
 
@@ -122,7 +129,7 @@ def generate_weekly_comment(top3: list[dict]) -> str:
 
     prompt = (
         "以下は今週の注目論文トップ3です。\n"
-        "これらを踏まえて、今週の研究トレンドや注目すべき動向を200文字以内の日本語で総括してください。\n\n"
+        "これらを踏まえて、今週の研究トレンドや注目すべき動向を500文字以内の日本語で総括してください。\n\n"
         + "\n".join(lines)
     )
     try:
@@ -274,6 +281,11 @@ def send_weekly_email(message: str) -> bool:
 
 def main():
     print("=== 週次サマリー 開始 ===")
+    try:
+        validate_required_env(require_deepseek=True, require_mail=True)
+    except RuntimeError as e:
+        print(f"[CONFIG ERROR] {e}")
+        return
 
     print("[1/4] 過去7日分のJSONを読み込み中...")
     articles = load_weekly_articles()

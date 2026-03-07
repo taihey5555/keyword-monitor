@@ -22,7 +22,14 @@ def build_message(report: dict) -> str:
     JST = timezone(timedelta(hours=9))
     today = datetime.now(JST).strftime("%Y-%m-%d")
 
-    GROUP_COLORS = {"A": "#f59e0b", "B1": "#3b82f6", "B2": "#8b5cf6", "B3": "#10b981", "B4": "#ef4444"}
+    GROUP_COLORS = {
+        "A": "#f59e0b",
+        "B1": "#3b82f6",
+        "B2": "#8b5cf6",
+        "B3": "#10b981",
+        "B4": "#ef4444",
+        "B5": "#f97316",
+    }
 
     total_count = sum(
         len([a for arts in report.get(gk, {}).values() for a in arts])

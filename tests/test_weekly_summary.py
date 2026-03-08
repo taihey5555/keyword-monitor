@@ -4,7 +4,7 @@ import weekly_summary
 
 
 def test_generate_weekly_comment_prompt_mentions_500_chars():
-    top3 = [{"title": "A", "_reason": "R"}]
+    top5 = [{"title": "A", "_reason": "R"}]
 
     captured = {}
 
@@ -15,7 +15,8 @@ def test_generate_weekly_comment_prompt_mentions_500_chars():
     with patch.object(weekly_summary, "DEEPSEEK_API_KEY", "sk-test"), patch(
         "weekly_summary._deepseek", side_effect=fake_deepseek
     ):
-        out = weekly_summary.generate_weekly_comment(top3)
+        out = weekly_summary.generate_weekly_comment(top5)
 
     assert out == "ok"
     assert "500文字以内" in captured["prompt"]
+    assert "トップ5" in captured["prompt"]

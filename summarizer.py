@@ -101,7 +101,7 @@ def summarize(article: dict) -> str:
 
 
 def generate_daily_summary(report: dict) -> str:
-    """全記事をDeepSeekに渡して本日の注目3トピックを500文字で要約"""
+    """全記事をDeepSeekに渡して本日の注目5トピックを500文字で要約"""
     if not DEEPSEEK_API_KEY:
         return ""
 
@@ -122,7 +122,7 @@ def generate_daily_summary(report: dict) -> str:
     articles_text = "\n".join(lines[:50])
     prompt = (
         "以下はKlotho、PF4、NK cell therapy、Exosomes、sEVsに関する本日の論文・記事一覧です。\n"
-        "特に注目すべき3つのトピックを選び、それぞれの重要性・背景・今後の展望を含めて"
+        "特に注目すべき5つのトピックを選び、それぞれの重要性・背景・今後の展望を含めて"
         "合計500文字以内の日本語でまとめてください。\n\n"
         f"{articles_text}"
     )

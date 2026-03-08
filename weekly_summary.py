@@ -19,10 +19,11 @@ from summarizer import _deepseek
 
 _JST = timezone(timedelta(hours=9))
 _KW_LABEL = " / ".join(KEYWORDS.values())
+WEEKLY_TOP_N = 5
 
 
-def _parse_top3_json(raw: str, total_articles: int) -> list[dict]:
-    """DeepSeek返答からトップ3候補を安全に抽出する。"""
+def _parse_top_json(raw: str, total_articles: int, top_n: int = WEEKLY_TOP_N) -> list[dict]:
+    """DeepSeek返答からトップ候補を安全に抽出する。"""
     candidates = None
     try:
         candidates = json.loads(raw)
@@ -45,7 +46,7 @@ def _parse_top3_json(raw: str, total_articles: int) -> list[dict]:
         idx = item.get("index")
         if isinstance(idx, int) and 0 <= idx < total_articles:
             valid.append(item)
-        if len(valid) >= 3:
+        if len(valid) >= top_n:
             break
     return valid
 
@@ -76,10 +77,10 @@ def load_weekly_articles() -> list[dict]:
     return all_articles
 
 
-def select_top3(articles: list[dict]) -> list[dict]:
-    """DeepSeek APIで今週のトップ3論文を選定"""
+def select_top5(articles: list[dict]) -> list[dict]:
+    """DeepSeek APIで今週のトップ5論文を選定"""
     if not DEEPSEEK_API_KEY:
-        return articles[:3]
+        return articles[:WEEKLY_TOP_N]
 
     _MAX = 500
 
@@ -119,7 +120,7 @@ def select_top3(articles: list[dict]) -> list[dict]:
     articles_text = "\n".join(lines)
     prompt = (
         f"以下は今週の{_KW_LABEL}に関する論文・記事一覧です（インデックス番号付き）。\n"
-        "この中から特に重要・注目すべき上位3本を選び、以下のJSON形式のみで返してください。\n"
+        f"この中から特に重要・注目すべき上位{WEEKLY_TOP_N}本を選び、以下のJSON形式のみで返してください。\n"
         "余分な説明やMarkdownコードブロックは不要です。\n\n"
         '[{"index": 0, "reason": "選定理由100文字以内"}, ...]\n\n'
         f"{articles_text}"
@@ -128,7 +129,7 @@ def select_top3(articles: list[dict]) -> list[dict]:
     for attempt in range(2):
         try:
             raw = _deepseek(prompt, max_tokens=600, temperature=0.3)
-            selected = _parse_top3_json(raw, len(articles))
+            selected = _parse_top_json(raw, len(articles))
             if selected:
                 result = []
                 for item in selected:
@@ -138,26 +139,26 @@ def select_top3(articles: list[dict]) -> list[dict]:
                     result.append(art)
                 if result:
                     return result
-            print(f"[WEEKLY] トップ3選定のJSON解釈に失敗（{attempt + 1}/2）")
+            print(f"[WEEKLY] トップ{WEEKLY_TOP_N}選定のJSON解釈に失敗（{attempt + 1}/2）")
         except Exception as e:
-            print(f"[WEEKLY] トップ3選定エラー（{attempt + 1}/2）: {e}")
+            print(f"[WEEKLY] トップ{WEEKLY_TOP_N}選定エラー（{attempt + 1}/2）: {e}")
 
-    return articles[:3]
+    return articles[:WEEKLY_TOP_N]
 
 
-def generate_weekly_comment(top3: list[dict]) -> str:
+def generate_weekly_comment(top5: list[dict]) -> str:
     """今週の総括コメントをDeepSeekで生成（500文字以内）"""
-    if not DEEPSEEK_API_KEY or not top3:
+    if not DEEPSEEK_API_KEY or not top5:
         return ""
 
     lines = []
-    for i, art in enumerate(top3, 1):
+    for i, art in enumerate(top5, 1):
         title = art.get("title_ja") or art.get("title", "")
         reason = art.get("_reason", "")
         lines.append(f"{i}. {title}（{reason}）")
 
     prompt = (
-        "以下は今週の注目論文トップ3です。\n"
+        f"以下は今週の注目論文トップ{WEEKLY_TOP_N}です。\n"
         "これらを踏まえて、今週の研究トレンドや注目すべき動向を500文字以内の日本語で総括してください。\n\n"
         + "\n".join(lines)
     )
@@ -168,7 +169,7 @@ def generate_weekly_comment(top3: list[dict]) -> str:
         return ""
 
 
-def build_weekly_message(top3: list[dict], comment: str) -> str:
+def build_weekly_message(top5: list[dict], comment: str) -> str:
     """週次サマリーのHTML本文を組み立て"""
     today = datetime.now(_JST).strftime("%Y-%m-%d")
     week_start = (datetime.now(_JST) - timedelta(days=6)).strftime("%Y-%m-%d")
@@ -234,14 +235,14 @@ def build_weekly_message(top3: list[dict], comment: str) -> str:
         f'</div>'
     )
 
-    # トップ3
+    # トップ5
     h.append('<div style="margin-bottom:24px;">')
     h.append(
         '<div style="color:#374151;font-size:16px;font-weight:700;margin-bottom:14px;">'
-        '&#127942; 今週のトップ3論文</div>'
+        f'&#127942; 今週のトップ{WEEKLY_TOP_N}論文</div>'
     )
 
-    for i, article in enumerate(top3):
+    for i, article in enumerate(top5):
         url = article.get("url", "")
         title = html.escape(article.get("title_ja") or article.get("title", "タイトル不明"))
         reason = html.escape(article.get("_reason", ""))
@@ -348,15 +349,15 @@ def main():
         print("[WEEKLY] 記事が見つかりませんでした。終了します。")
         return
 
-    print("[2/4] DeepSeekでトップ3論文を選定中...")
-    top3 = select_top3(articles)
-    print(f"  → {len(top3)}件選定")
+    print(f"[2/4] DeepSeekでトップ{WEEKLY_TOP_N}論文を選定中...")
+    top5 = select_top5(articles)
+    print(f"  → {len(top5)}件選定")
 
     print("[3/4] 総括コメント生成中...")
-    comment = generate_weekly_comment(top3)
+    comment = generate_weekly_comment(top5)
 
     print("[4/4] メール送信中...")
-    message = build_weekly_message(top3, comment)
+    message = build_weekly_message(top5, comment)
     send_weekly_email(message)
 
     print("=== 週次サマリー 完了 ===")

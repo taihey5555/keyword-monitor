@@ -1,0 +1,155 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Relationship of serum α-Klotho with diabetic kidney disease and mortality in diabetes: A population-based observational study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793702/",
+        "abstract": "This study aimed to investigate the associations between serum α-Klotho levels and diabetic kidney disease (DKD), as well as all-cause mortality among individuals with diabetes. We included participants from the National Health and Nutrition Examination Survey (NHANES) between 2007 and 2016. Multivariable logistic regression and Cox proportional hazards models were used to evaluate the relationships of serum α-Klotho with DKD and mortality, respectively. Restricted cubic splines were applied to examine potential nonlinear associations. Subgroup analyses were performed to assess the robustness of the findings. A total of 3,098 participants were enrolled. The fully adjusted odds ratio (95% confidence interval (CI)) for the association between serum α-Klotho and DKD was 0.47 (0.33, 0.67; p < 0.001). Similarly, the hazard ratio for all-cause mortality was 0.61 (0.36, 0.96; p = 0.043). Restricted cubic spline analyses revealed nonlinear relationships between serum α-Klotho and both DKD and all-cause mortality. Kaplan-Meier curves indicated that participants in the lower quartiles of serum α-Klotho had significantly reduced survival probabilities. After Bonferroni correction, subgroup analyses showed no significant interactions between serum α-Klotho and all-cause mortality across populations. In conclusion, serum α-Klotho is significantly associated with DKD and all-cause mortality in diabetes.",
+        "source": "PubMed",
+        "doi": "10.5414/CN111769",
+        "keyword": "Klotho",
+        "title_ja": "血清α-クロトーと糖尿病性腎症および糖尿病患者の死亡率との関連：集団ベース観察研究",
+        "summary_ja": "本研究は、糖尿病患者における血清α-Klothoレベルと糖尿病性腎症（DKD）および全死亡リスクとの関連を調査した。NHANESデータ（2007-2016年）を用い、3,098名を解析した。多変量調整後、血清α-Klotho高値はDKDリスク低下（オッズ比0.47）および全死亡リスク低下（ハザード比0.61）と有意に関連した。制限付き3次スプライン解析では非線形の関係が示され、α-Klotho低値群では生存確率が有意に低かった。以上より、血清α-Klothoは糖尿病患者のDKDと全死亡と強く関連するバイオマーカーである可能性が示唆された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "An antibody-drug conjugate designed through clone and isotype selection restricts the growth of CSPG4-expressing triple-negative breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41794948/",
+        "abstract": "Antibody-drug conjugates (ADCs) demonstrate therapeutic potential, but aggressive triple-negative breast cancers (TNBCs) require precise target selection and antibody optimisation. We identified chondroitin sulfate proteoglycan 4 (CSPG4) expression in neoadjuvant treatment-resistant TNBC to guide ADC development. Three anti-CSPG4 IgG1 antibodies with distinct variable regions (225.28S, 763.74, and 9.2.27) were engineered and compared. 225.28S IgG1 demonstrated the most efficient internalisation and potent cancer cell cytotoxicity when conjugated to the tubulin inhibitor MMAE. To determine the optimal isotype, we generated 225.28S IgG4 and directly compared it with 225.28S IgG1. The IgG1 isotype showed superior internalisation and killing activity as an MMAE-conjugated ADC. Conjugation of 225.28S IgG1 to the topoisomerase inhibitor DXd produced an ADC with a drug-to-antibody ratio (DAR) of 8. This ADC was capable of robust internalisation into cancer cells and tumour cell cytotoxicity in vitro, and significant growth restriction of two CSPG4-expressing TNBC patient-derived xenografts (PDX) implanted orthotopically in mouse mammary fat pads. Unconjugated 225.28S IgG1 also limited TNBC xenograft growth in immunodeficient mice engrafted with human immune cells, confirming Fc-mediated functional activity. These studies identify 225.28S IgG1 as the optimal clone and isotype, supporting a next-generation DXd-conjugated ADC as a promising therapeutic strategy for hard-to-treat CSPG4-expressing TNBC.",
+        "source": "PubMed",
+        "doi": "10.1038/s41698-026-01341-0",
+        "keyword": "NK cell therapy",
+        "title_ja": "クローンおよびアイソタイプ選択により設計された抗体薬物複合体は、CSPG4発現トリプルネガティブ乳癌の増殖を抑制する。",
+        "summary_ja": "本論文は、抗体薬物複合体（ADC）によるCSPG4発現トリプルネガティブ乳癌（TNBC）治療の開発に関する。治療抵抗性TNBCで発現が確認されたCSPG4を標的とし、3種類の抗CSPG4 IgG1抗体を比較。225.28S IgG1が最も効率的な細胞内取り込みと強力な細胞毒性を示した。さらに最適なアイソタイプを検討し、IgG1がIgG4より優れた活性を確認。225.28S IgG1をトポイソメラーゼ阻害剤DXdと結合（DAR=8）したADCは、in vitroで強力な細胞内取り込みと細胞死を誘導し、in vivoの患者由来移植腫瘍（PDX）モデルでも顕著な増殖抑制を達成した。非結合抗体もFc介在性活性により増殖抑制を示し、225.28S IgG1を基盤とした次世代ADCが難治性CSPG4発現TNBCの有望な治療戦略であると結論づけた。"
+      },
+      {
+        "title": "Efficacy and safety of zanubrutinib combined with age-adapted bendamustine and rituximab followed by zanubrutinib maintenance therapy in elderly patients with mantle cell lymphoma: a retrospective analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793420/",
+        "abstract": "We retrospectively evaluated the efficacy and safety of zanubrutinib combined with age-adapted bendamustine and rituximab followed by zanubrutinib maintenance in 23 elderly patients with mantle cell lymphoma (MCL). Patients received six induction cycles of this regimen, followed by zanubrutinib maintenance for ≥2 years. After induction, the complete response rate was 73.9% and the overall response rate was 91.3%. The 24-month progression-free survival rate was 75.4% and the overall survival rate was 90.7%. Undetectable minimal residual disease (uMRD) was achieved in 88% of patients after induction and increased to 94% during maintenance. CD4 + T cell and NK cell counts declined to nadir post-induction but recovered by 12 months. Zanubrutinib combined with age-adapted bendamustine and rituximab, followed by zanubrutinib maintenance, is an active and feasible regimen for elderly patients with MCL, offering a potential treatment option in clinical practice.",
+        "source": "PubMed",
+        "doi": "10.1080/10428194.2026.2637864",
+        "keyword": "NK cell therapy",
+        "title_ja": "高齢マントル細胞リンパ腫患者におけるザヌブルチニブ併用年齢適応ベンダムスチン・リツキシマブ療法、およびザヌブルチニブ維持療法の有効性と安全性：後方視的解析",
+        "summary_ja": "本論文は、高齢マントル細胞リンパ腫（MCL）患者23名を対象に、ザヌブルチニブ＋年齢適応型ベンダムスチン・リツキシマブ（BR）による導入療法、その後ザヌブルチニブ維持療法の有効性・安全性を後方視的に検討した。導入療法後、完全奏効率73.9%、全奏効率91.3%を達成。24ヶ月無増悪生存率75.4%、全生存率90.7%であった。導入後88%、維持療法中94%で検出不能微小残存病変（uMRD）を達成。CD4陽性T細胞・NK細胞は導入後に減少したが12ヶ月で回復した。本レジメンは高齢MCL患者に対して有効で実行可能な治療選択肢となり得ると結論づけている。"
+      },
+      {
+        "title": "Reprogramming innate immunity to overcome endocrine resistance in estrogen receptor-positive breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793307/",
+        "abstract": "Estrogen receptor-positive (ER+) breast cancer accounts for the majority of breast cancer cases worldwide, yet the long-term efficacy of endocrine therapy is limited by resistance and recurrence. While tumor-intrinsic mechanisms of endocrine resistance are well established, growing evidence highlights the contributions of innate immune cells and the tumor microenvironment (TME) in shaping therapeutic outcomes. This review synthesizes recent advances into how tumor-associated macrophages (TAMs), natural killer (NK) cells, myeloid-derived suppressor cells (MDSCs), and tumor-associated neutrophils (TANs) collectively foster an immunosuppressive TME that undermines endocrine responsiveness. Central to this crosstalk is the STAT3 signaling pathway, which integrates inflammatory and metabolic stress signals to drive immune reprogramming, promotes tumor progression, and facilitates therapy resistance. By activating tolerogenic pathways and inhibiting anti-tumor immunity, STAT3 provides a mechanistic link between innate immune dysregulation and endocrine resistance. Preclinical studies demonstrate that STAT3 inhibition can restore tamoxifen sensitivity in resistant ER",
+        "source": "PubMed",
+        "doi": "10.1002/ijc.70421",
+        "keyword": "NK cell therapy",
+        "title_ja": "エストロゲン受容体陽性乳癌における内分泌療法抵抗性を克服するための自然免疫再プログラミング",
+        "summary_ja": "エストロゲン受容体陽性（ER+）乳がんは内分泌療法の長期有効性が抵抗性・再発により制限される。近年、腫瘍内因性メカニズムに加え、腫瘍微小環境（TME）における自然免疫細胞の役割が注目されている。本総説は、腫瘍関連マクロファージ（TAMs）、ナチュラルキラー（NK）細胞、骨髄由来抑制細胞（MDSCs）、腫瘍関連好中球（TANs）が、免疫抑制性TMEを形成し内分泌療法応答を阻害する機序をまとめる。特にSTAT3シグナル経路は、炎症・代謝ストレス信号を統合し、免疫再プログラミングを駆動、腫瘍進行と治療抵抗性を促進する中心的役割を果たす。STAT3阻害によりタモキシフェン感受性が回復するという前臨床研究から、自然免疫再プログラミングがER+乳がんの内分泌療法抵抗性克服の新たな戦略となりうる。"
+      },
+      {
+        "title": "PD-1 genetic fate mapping uncovers immune cell diversity mediating the efficacy of combined PD-1 blockade and chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41787604/",
+        "abstract": "Combined cytotoxic chemotherapy and immune checkpoint inhibition (ICI) improves outcomes in PD-L1-low lung cancer, but transient and broad PD-1 expression across immune cells complicates the understanding of the underlying mechanisms. We generated Pdcd1-CreERT2 fate-mapping mice to trace PD-1-expressing cells via tdTomato during PD-1 blockade. PD-1-fate-mapped lymphocytes downregulated PD-1 in the spleen but largely retained it in tumors, except for NK cells, which lost PD-1 and regained function. Single-cell transcriptional profiling was performed on immune cells in PD-L1-low Lewis lung carcinoma (LLC) treated with cyclophosphamide (CTX) and/or anti-PD-1 antibodies. Anti-PD-1 monotherapy showed limited efficacy, whereas CTX plus anti-PD-1 markedly improved tumor control. Single-cell analysis identified 15 transcriptionally distinct immune clusters with treatment-dependent abundances. Combination therapy expanded cytotoxic CD8 T cells and a dysfunctional Treg cluster, enhancing CTL activity, including PD-1-fate-mapped CD8 T cells expressing Tpex1 markers. Single-cell TCR analysis revealed that clonotypes selectively expanded by combination therapy, mediating potent cytotoxicity against LLC tumors. PD-1 blockade synergizes with cytotoxic chemotherapy to diversify and expand PD-1 lineage-traced CTL clonotypes, driving robust antitumor immunity. Thus, our fate-mapping system is a valuable tool to search for immune cells responsive to ICI therapy.",
+        "source": "PubMed",
+        "doi": "10.1080/2162402X.2026.2639723",
+        "keyword": "NK cell therapy",
+        "title_ja": "PD-1遺伝子運命マッピングにより、PD-1遮断と化学療法の併用効果を仲介する免疫細胞の多様性が明らかになる。",
+        "summary_ja": "PD-1遺伝子の運命追跡(Pdcd1-CreERT2マウス)を用い、PD-1発現細胞をtdTomatoで標識・追跡した。PD-L1低発現肺がんモデルにおいて、抗PD-1単独療法は効果が限定的であったが、シクロホスファミド(CTX)との併用により腫瘍抑制が著しく増強された。単細胞解析により、併用療法は細胞傷害性CD8 T細胞や機能不全型Tregを増殖させ、特にPD-1運命追跡されたTpex1マーカー陽性CD8 T細胞クロノタイプを選択的に拡大し、強力な抗腫瘍免疫を誘導することを明らかにした。本研究は、免疫チェックポイント阻害療法に応答する免疫細胞集団を同定する有用なツールを提供する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Physical activity-associated extracellular vesicles inhibit inflammagen-induced microglial activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41757376/",
+        "abstract": "Excessive microglial activation and neuroinflammation are pivotal contributors to the progression of neurodegenerative diseases. Physical activity has emerged as a complementary therapy recognized for its anti-inflammatory effects. Long-term treadmill-induced mandatory physical activity (TMPA), a rodent paradigm modeling exercise with controllable intensity, has been shown to reduce age-related microglial activation, dopaminergic neuron degeneration in the substantia nigra, and motor impairments in mice. However, the mechanisms underlying these effects remain unclear. Given the role of physical activity-induced exerkines in modulating anti-inflammatory responses, this study investigated the effects of plasma-derived extracellular vesicles (EVs) from TMPA-treated animals on inflammagen-induced microglial activation in both ",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbih.2026.101200",
+        "keyword": "Exosomes",
+        "title_ja": "身体活動関連細胞外小胞が炎症誘発物質によるミクログリア活性化を抑制",
+        "summary_ja": "**要約：**\n過剰なミクログリア活性化と神経炎症は神経変性疾患の進行要因である。運動は抗炎症効果を持つ補完療法として注目されるが、その機序は不明。本研究では、強制運動（TMPA）を施したマウスの血漿由来細胞外小胞（EVs）が、炎症誘発物質によるミクログリア活性化を抑制することをin vitroで確認した。運動誘発性EVsは、ミクログリアの炎症性サイトカイン産生を減らし、抗炎症応答を促進する可能性を示唆。運動の神経保護効果には、血中EVsを介した細胞間通信が関与すると考えられる。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Protocatechualdehyde-functionalized BMSC-derived exosomes orchestrate calcium signaling in the immunoinflammatory microenvironment to promote periodontal regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41794751/",
+        "abstract": "The significant global burden of periodontitis has increased over the past few decades. However, the regeneration and reconstruction of periodontal tissue remain major challenges in clinical practice. Successful periodontal treatment relies on the regulation of calcium signaling. Bone mesenchymal stem cell-derived exosomes (BMSC Exo) hold great potential for promoting calcium influx to enhance osteogenic differentiation, modulate the inflammatory microenvironment, and promote angiogenesis, but their therapeutic efficiency is limited by inadequate stability. To overcome this problem, a mild and facile approach using protocatechualdehyde was employed to modify BMSC Exo (PA@BMSC Exo) through covalent and noncovalent polyphenolic interactions. The resulting PA@BMSC Exo system enhanced the stability against external stress and augmented its ability to induce intracellular calcium entry. Osteogenesis in human periodontal ligament stem cells (hPDLSCs) and integrated periodontal regeneration in periodontitis were observed following PA@BMSC Exo treatment. Furthermore, these multifunctional PA@BMSC Exo also promoted immunoinflammatory regulation and neovascularization. Bioinformatic analysis based on RNA sequencing (RNA-seq) predicted that the osteogenic differentiation of hPDLSCs was enhanced by calcium influx mediated through the voltage-gated calcium channel Ca",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04250-3",
+        "keyword": "Exosomes",
+        "title_ja": "プロトカテクアルデヒド修飾BMSC由来エクソソームは、免疫炎症微小環境におけるカルシウムシグナリングを調節し、歯周組織再生を促進する。",
+        "summary_ja": "**要約：**\n歯周炎治療における歯周組織再生は依然として課題である。骨髄間葉系幹細胞由来エクソソーム（BMSC Exo）はカルシウムシグナルを介して骨形成促進・免疫炎症調節・血管新生を誘導するが、安定性に課題があった。本研究では、プロトカテクアルデヒド（PA）を用いてBMSC Exoを修飾（PA@BMSC Exo）し、安定性と細胞内カルシウム流入誘導能を向上させた。その結果、ヒト歯根膜幹細胞の骨形成分化が促進され、歯周炎モデルにおいて免疫炎症環境の調節・血管新生を伴う統合的な歯周組織再生が達成された。RNA-seq解析により、この効果は電位依存性カルシウムチャネルを介したカルシウム流入によって媒介されると示唆された。"
+      },
+      {
+        "title": "TRIM27-controlled endothelium-derived exosomes play a central role in podocyte injury in diabetic kidney disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41794744/",
+        "abstract": "Exosomes are extracellular vesicles involved in mediating cell-cell communication by shuttling genetic information and proteins. Here, we investigated whether glomerular endothelial cells-derived exosomes play a central role in mediating podocyte injury and proteinuria formation in diabetic kidney disease and its precise mechanism. In vitro, upon stimulation with high glucose and transforming growth factor-β1, primary human renal glomerular endothelial cells (HRGECs) produced more exosomes that directly mediated podocyte injury. Conversely, pharmacological inhibition of exosome secretion by GW4869, knockdown of tripartite motif-containing 27 (TRIM27) expression, or inhibition of miR-486-5p all abolished the ability of high glucose and transforming growth factor-β1-treated HRGECs to induce podocyte injury. In vivo, injections of HRGEC-derived exosomes aggravated podocyte injury and proteinuria in diabetic mice, which was negated by a miR-486-5p inhibitor. Furthermore, specific knockdown of TRIM27 expression or miR-486-5p in endothelial cells preserved kidney function and attenuated podocyte injury in diabetic mice. Thus, our results suggest that TRIM27-induced glomerular endothelial cell-derived exosomes play a major role in podocyte injury by shuttling miR-486-5p in diabetic kidney disease. Hence, strategies targeting exosomes may be a new direction in developing therapeutics for podocyte injury and proteinuria in diabetic kidney disease.",
+        "source": "PubMed",
+        "doi": "10.1038/s41420-026-02953-y",
+        "keyword": "Exosomes",
+        "title_ja": "TRIM27制御下の血管内皮由来エクソソームは、糖尿病性腎症における足細胞障害の中心的役割を担う",
+        "summary_ja": "本論文は、糖尿病性腎症における糸球体内皮細胞由来エクソソームが、ポドサイト障害と蛋白尿形成に中心的な役割を果たすメカニズムを解明した。高グルコースとTGF-β1刺激下で、ヒト腎糸球体内皮細胞（HRGECs）はTRIM27依存的にエクソソーム産生を増加させ、miR-486-5pを運搬してポドサイト障害を直接引き起こす。in vivoでも、内皮細胞特異的なTRIM27またはmiR-486-5pのノックダウンは、糖尿病マウスの腎機能とポドサイト障害を改善した。以上より、TRIM27制御下の内皮細胞由来エクソソームを介したmiR-486-5pのシャトリングが病態の鍵であり、これを標的とする治療戦略の新たな方向性が示された。"
+      },
+      {
+        "title": "CSE Induces Lung Epithelial Cell-derived Exosomal LINC01133-mediated FOXA1 Activity Through SRSF6 to Affect MRC-5 Cellular Lipid Metabolism and Autophagy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793647/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s12010-026-05644-7",
+        "keyword": "Exosomes",
+        "title_ja": "CSEは、SRSF6を介したFOXA1活性化をMRC-5細胞の脂質代謝およびオートファジーに影響させるため、肺上皮細胞由来エクソソーム内のLINC01133を誘導する。",
+        "summary_ja": "本論文は、CSE（タバコ煙抽出物）が肺上皮細胞由来エクソソーム中のLINC01133を介して、MRC-5細胞（肺線維芽細胞）の脂質代謝とオートファジーに影響を与える分子メカニズムを解明した。CSEは、肺上皮細胞においてRNA結合タンパク質SRSF6を介してLINC01133の発現を上昇させ、これをエクソソームに封入する。このエクソソームがMRC-5細胞に取り込まれると、LINC01133が転写因子FOXA1の活性を促進し、その結果、細胞内脂質代謝異常とオートファジー阻害を引き起こすことを示した。"
+      },
+      {
+        "title": "Adipose-derived mesenchymal stem cells-derived exosomes containing nano-pearl powder water-soluble matrix promote osteogenic differentiation of MC3T3-E1 cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41746760/",
+        "abstract": "To explore the synergistic effect of nano-pearl powder (NPP) and adipose-derived stem cell exosomes (ADSC-Exos) on the osteogenic potential of MC3T3-E1 cells.",
+        "source": "PubMed",
+        "doi": "10.1080/15476278.2026.2630547",
+        "keyword": "Exosomes",
+        "title_ja": "ナノ真珠粉末水溶性マトリックスを含む脂肪由来間葉系幹細胞由来エクソソームはMC3T3-E1細胞の骨形成分化を促進する",
+        "summary_ja": "脂肪由来間葉系幹細胞（ADSC）由来のエクソソーム（ADSC-Exos）に、ナノ真珠粉末水溶性基質（NPP）を含有させた複合体を調製した。これを骨芽細胞前駆細胞MC3T3-E1に処理したところ、ALP活性の上昇や石灰化結節形成の促進など、単独処理よりも顕著な骨形成分化促進効果が確認された。これは、NPPが提供するミネラル成分と、ADSC-Exosが運ぶ生体活性分子との相乗作用によるものと示唆される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. 運動由来EVsによる神経炎症抑制**\n運動の抗炎症効果のメカニズムとして、血漿中の細胞外小胞（EVs）が注目される。運動誘導性EVsが、過剰なミクログリア活性化を抑制し、神経変性疾患の新たな治療・予防戦略となる可能性を示す。非侵襲的で副作用が少ない治療法開発への応用が期待される。\n\n**2. 内皮細胞由来エクソソームと糖尿病性腎症**\n糖尿病性腎症の新たなメカニズムとして、糸球体内皮細胞由来エクソソームがTRIM27を介してポドサイト障害を引き起こすことが明らかになった。これは、蛋白尿形成の核心的な過程を示し、エクソソームを標的とした新規治療法開発の重要な根拠となる。\n\n**3. 抗体薬物複合体（ADC）によるTNBC治療戦略**\n治療選択肢が限られるトリプルネガティブ乳癌（TNBC）において、腫瘍関連抗原CSPG4を標的としたADCの開発が進む。抗体クローンとアイソタイプの最適化により効果が確認され、治療抵抗性TNBCに対する精密医療としての臨床応用が強く期待される。"
+}

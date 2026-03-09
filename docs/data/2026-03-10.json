@@ -1,0 +1,239 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Impact of Klotho genotype on lactylation in Alzheimer's disease and mechanistic insights.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41796322/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12979-026-00563-x",
+        "keyword": "Klotho",
+        "title_ja": "アルツハイマー病におけるクロトー遺伝子型が乳酸化に及ぼす影響とその機序に関する考察",
+        "summary_ja": "本論文は、アルツハイマー病（AD）におけるKlotho遺伝子型の影響を、新たな翻訳後修飾「乳酸化」に焦点を当てて検討した。Klothoの保護的遺伝子型（KL-VS）は、ADの認知機能低下を緩和するが、その機序は不明であった。研究により、KL-VS保有者は脳内で特定のタンパク質の乳酸化レベルが変化しており、これが代謝経路やシナプス機能に関与する遺伝子発現を調節することで、神経保護効果を発揮する可能性が示された。Klotho遺伝子型はAD病理における乳酸化修飾を介した新たなメカニズムに影響を与えることが示唆される。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "The protective role of FLI-1 in cardiac hypertrophy: Modulation of the IGF-1R/GNAI1/PLCG1 pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41797647/",
+        "abstract": "The transcription factor Friend leukemia integration-1 (FLI-1) is implicated in various cellular functions, including the regulation of cardiovascular function. This study aimed to elucidate the role and molecular mechanisms of FLI-1 in myocardial hypertrophy. We conducted FLI-1 overexpression interventions in ISO-induced H9C2 cells and mouse models of myocardial hypertrophy, subsequently assessing their effects on Klotho expression, cardiomyocyte hypertrophy, apoptosis, and IGF-1R/GNAI1PLCG1 signaling pathway activity. Our results demonstrated that ISO induction led to a time-dependent decrease in FLI-1 expression in H9C2 cells. Furthermore, FLI-1 overexpression enhanced Klotho expression in ISO-induced H9C2 cells and significantly inhibited ISO-induced cardiomyocyte hypertrophy and apoptosis. Furthermore, the overexpression of FLI-1 was found to attenuate the activity of the insulin-like growth factor type 1 receptor (IGF-1R)/GNAI1/PLCG1 signaling pathway in ISO-induced H9C2 cells. Notably, the silencing of Klotho negated the protective effects conferred by FLI-1 overexpression on cardiomyocyte hypertrophy and apoptosis, as well as its inhibitory impact on the IGF-1R/GNAI1/PLCG1 signaling pathway. In a murine model of myocardial hypertrophy, FLI-1 overexpression similarly exhibited a protective effect by mitigating myocardial hypertrophy and damage. These findings suggest that FLI-1 exerts a protective role in cardiac hypertrophy and apoptosis, potentially through the modulation of the Klotho and IGF-1R/GNAI1/PLCG1 pathways.",
+        "source": "PubMed",
+        "doi": "10.14670/HH-25-057",
+        "keyword": "Klotho",
+        "title_ja": "心肥大におけるFLI-1の保護的役割：IGF-1R/GNAI1/PLCG1経路の調節",
+        "summary_ja": "転写因子FLI-1は、心筋肥大において保護的役割を果たすことを明らかにした。ISO誘導心筋肥大モデルにおいて、FLI-1発現は時間依存的に減少した。FLI-1の過剰発現は、Klotho発現を増加させ、心筋細胞の肥大とアポトーシスを抑制した。さらに、IGF-1R/GNAI1/PLCG1シグナル経路の活性化を減衰させた。Klothoのサイレンシングは、FLI-1過剰発現によるこれらの保護効果を打ち消した。マウスモデルでも同様の保護効果が確認された。FLI-1は、KlothoとIGF-1R/GNAI1/PLCG1経路を調節することで、心筋肥大とアポトーシスに対して保護的に働く可能性が示唆された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Mechanisms of tumor cell evasion from NK cell-mediated killing and advances in NK cell-based cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41799416/",
+        "abstract": "Natural killer (NK) cells represent a critical component of the innate immune system, capable of exerting potent cytotoxic activity against infected and transformed cells. However, tumor cells evolve diverse strategies to evade NK cell-mediated surveillance, including modulation of receptor-ligand interactions, secretion of immunosuppressive cytokines, metabolic disruption, and induction of NK cell exhaustion. In this review, we summarise the mechanisms by which tumors escape NK cell control and highlight recent advances in NK cell-based immunotherapies, including adoptive NK transfer, immune checkpoint blockade, and CAR-engineered NK cells. Ongoing efforts to improve NK cell persistence, infiltration, and functional resilience hold promise for optimising clinical efficacy.",
+        "source": "PubMed",
+        "doi": "10.1016/j.pscia.2026.100109",
+        "keyword": "NK cell therapy",
+        "title_ja": "腫瘍細胞のNK細胞による殺傷回避メカニズムとNK細胞を用いたがん免疫療法の進展",
+        "summary_ja": "**要約**\nNK細胞は、感染細胞やがん細胞を殺傷する自然免疫の重要な構成要素である。しかし、がん細胞は、受容体-リガンド相互作用の調節、免疫抑制性サイトカインの分泌、代謝破壊、NK細胞疲弊の誘導など、多様な回避戦略を進化させる。本レビューは、これらの回避メカニズムを概説し、養子移入NK細胞療法、免疫チェックポイント阻害、CAR-NK細胞など、NK細胞ベースの免疫療法の最新動向を強調する。NK細胞の持続性、浸潤能、機能回復を改善する取り組みが、臨床効果の最適化に期待される。"
+      },
+      {
+        "title": "Efficacy and safety of ruxolitinib for graft-versus-host disease prophylaxis in patients with aplastic anemia undergoing PBSC-only allogeneic stem cell transplantation: a prospective phase II study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41796372/",
+        "abstract": "While peripheral blood hematopoietic stem cell transplantation (PB-HSCT) supports rapid engraftment and reduces graft failure risk in aplastic anemia (AA) patients, it compromised higher risk of acute graft-versus-host disease (aGVHD), highlighting the need for more effective prophylactic strategies. This phase II clinical trial was designed to assess the efficacy and safety of ruxolitinib, a JAK1/2 inhibitor, as part of GVHD prophylaxis regimen following PB-HSCT.",
+        "source": "PubMed",
+        "doi": "10.1186/s40164-026-00753-9",
+        "keyword": "NK cell therapy",
+        "title_ja": "再生不良性貧血患者における末梢血幹細胞単独同種幹細胞移植後の移植片対宿主病予防を目的としたルキソリチニブの有効性および安全性：前向き第II相試験",
+        "summary_ja": "再生不良性貧血（AA）患者に対する末梢血幹細胞移植（PB-HSCT）は、生着促進と移植不全リスク低減に寄与するが、急性移植片対宿主病（aGVHD）リスクが高い。本第II相臨床試験は、JAK1/2阻害剤ルキソリチニブをGVHD予防レジメンに追加した有効性・安全性を評価した。"
+      },
+      {
+        "title": "Angiotensin‑converting enzyme 2 as an immune and prognostic biomarker in colorectal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41796239/",
+        "abstract": "Angiotensin-converting enzyme 2 (ACE2) has been implicated as an oncogene in certain cancer types; however, there is a lack of analysis on the role of ACE2 in the predictive value for prognosis and immunotherapy response in various tumor types. This study used data from the Cancer Genome Atlas (TCGA), Tumor Immune Estimation Resource (TIMER 2.0), cBioPortal, and ROC Plotter databases to analyze the expression, prognosis, and immune cell infiltration of ACE2 in various tumor types. Furthermore, we analyzed the correlation between the expression of ACE2 and clinicopathological characteristics in 119 pairs of colorectal cancer (CRC) tissues using immunohistochemistry analysis, and then conducted the in vitro experiments to verify the role of ACE2 in the migration and proliferation of CRC cells. We found that ACE2 was highly expressed in CRC tissues compared with adjacent normal tissues, and that CRC patients with high ACE2 expression levels showed poor survival. Additionally, combined bioinformatics and qRT-PCR analysis identified a strong negative correlation between ACE2 expression and natural killer cell infiltration in CRC. Meanwhile, ACE2 expression was significantly elevated in patients resistant to anti-CTLA-4 and anti-PD-L1 therapy and was linked to poor prognosis. In vitro experiments showed that silencing ACE2 inhibits the proliferation and invasion of CRC cells. These results highlight ACE2's involvement in CRC pathogenesis and cancer-immune interactions, positioning it as a promising prognostic and therapeutic biomarker in CRC.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-43588-4",
+        "keyword": "NK cell therapy",
+        "title_ja": "大腸癌における免疫および予後バイオマーカーとしてのアンジオテンシン変換酵素2",
+        "summary_ja": "本論文は、アンジオテンシン変換酵素2（ACE2）が大腸癌（CRC）における免疫・予後バイオマーカーとしての役割を検証した。複数のデータベース解析と免疫組織化学的検討により、CRC組織では隣接正常組織に比べACE2発現が高く、高発現は予後不良と関連した。さらに、ACE2高発現はナチュラルキラー細胞浸潤の減少、抗CTLA-4/抗PD-L1療法抵抗性、および不良予後と相関していた。in vitro実験では、ACE2のサイレンシングがCRC細胞の増殖・浸潤を抑制した。以上より、ACE2はCRCの病態形成と免疫応答に関与する有望な予後・治療バイオマーカーであると結論づけた。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Preclinical advances and mechanistic insights of CAR-T therapy for acute myeloid leukemia: from target iteration to microenvironment regulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41800605/",
+        "abstract": "Relapsed/refractory acute myeloid leukaemia (AML) carries a dismal prognosis, primarily due to profound biological heterogeneity and the scarcity of effective targeted therapies. Chimeric antigen receptor T (CAR-T) cell therapy has emerged as a transformative investigational strategy for AML by genetically engineering T cells to specifically target tumour antigens; however, its clinical translation is severely impeded by target antigen scarcity and the immunosuppressive tumour microenvironment (TME).",
+        "source": "PubMed",
+        "doi": "10.1080/07853890.2026.2640457",
+        "keyword": "NK cell therapy",
+        "title_ja": "急性骨髄性白血病に対するCAR-T療法の臨床前進展と機序的知見：標的の最適化から微小環境制御まで",
+        "summary_ja": "再発・難治性急性骨髄性白血病（AML）は、生物学的異質性と有効な標的療法の不足により予後不良である。CAR-T細胞療法は、腫瘍抗原を特異的に標的化する遺伝子改変T細胞を用いた革新的な治療戦略として注目される。しかし、標的抗原の不足と免疫抑制性腫瘍微小環境（TME）が臨床応用を大きく阻害している。本論文は、標的抗原の探索・改良からTME制御に至る、AMLに対するCAR-T療法の前臨床的進展と機序的知見を概説する。"
+      },
+      {
+        "title": "Prognostic significance of HLA-B leader matching status and its relationship with NK cell reconstitution in patients with hematological malignancies following haploidentical transplantation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41720450/",
+        "abstract": "The leader peptide encoded by exon 1 of the HLA-B gene exhibits a dimorphism at position -21. To investigate the influence of HLA-B leader matching status between recipients and donors on the prognosis of patients undergoing haploidentical hematopoietic stem cell transplantation (haplo-HSCT), as well as potential relevant biological correlates, we conducted a study involving two patient cohorts. Cohort 1 included 1245 patients with hematological malignancies who had complete survival outcome data, while cohort 2 comprised 130 patients who underwent natural killer (NK) cell reconstitution tests post-transplantation. In cohort 1, no significant effect of HLA-B leader matching status on prognosis was found. However, multivariate analysis of a subgroup of patients with myeloid malignancies revealed that HLA-B leader mismatched was associated with significantly higher non-relapse mortality (hazard ratio [HR] = 1.73; P = 0.044), reduced overall survival (HR = 1.67; P = 0.007), and decreased disease-free survival (HR = 1.52; P = 0.015) compared to matched transplants after propensity score matching analysis, findings not observed in lymphoid malignancies. Data from cohort 2 indicated that matched HLA-B leader was associated with favorable NK cell reconstitution in patients with myeloid malignancies. In particular, HLA-B leader matched patients had a higher CD57 expression of total NK and NKG2A",
+        "source": "PubMed",
+        "doi": "10.1016/j.canlet.2026.218329",
+        "keyword": "NK cell therapy",
+        "title_ja": "造血器悪性疾患患者におけるハプロ同一移植後のHLA-Bリーダーマッチング状態の予後意義とNK細胞再構築との関連性",
+        "summary_ja": "本論文は、HLA-Bリーダー配列の一致状態が、半合致造血幹細胞移植後の予後およびNK細胞再構築に与える影響を調査した。骨髄性悪性腫瘍患者において、HLA-Bリーダーの不一致は、非再発死亡率の上昇、全生存率・無病生存率の低下と関連していた。また、一致症例ではNK細胞再構築が良好で、特に総NK細胞およびNKG2A陽性細胞におけるCD57発現が高かった。リンパ性腫瘍では同様の関連は認められなかった。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Clinical Advances in Exosome-Based Therapies for Aesthetic Medicine: A Systematic Review and Meta-analysis of Human Clinical Trials.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41800726/",
+        "abstract": "Exosomes have gained increasing attention in aesthetic medicine for their regenerative properties and role in skin and hair rejuvenation. By stimulating collagen production, delivering growth factors, and supporting follicle regeneration, they offer a novel, noninvasive approach to facial rejuvenation and hair growth. A systematic review and meta-analysis were conducted to evaluate the clinical efficacy of exosome therapies in aesthetic indications. A comprehensive search of Medline, Embase, Cochrane, Trip Database, and ClinicalTrials.gov was performed on February 2, 2025. Eligible studies included human trials reporting outcomes on wrinkles, pigmentation, elasticity, skin texture, erythema, overall aesthetic improvement, hair density, or hair thickness. Thirty-nine studies were included: 26 focused on skin outcomes and 13 on hair outcomes. Meta-analyses were performed using random-effects models where percent improvement and standard error were available. Facial wrinkle reduction averaged 20.2% (95% CI, 15.3%-25.2%; P < .001). Additional skin-related outcomes improved by 14.7% to 23.4%, including pigmentation, elasticity, texture, erythema, and overall appearance. Hair density and thickness improved by 23.6% (95% CI, 18.1%-29.0%) and 18.0% (95% CI, 11.1%-24.9%), respectively. Nine ongoing clinical trials were identified across the United States, Iran, and China. Risk of bias in randomized controlled trials was assessed using the Cochrane risk of bias (ROB2) tool. Although heterogeneity and nonstandardized protocols limit generalizability, findings indicate consistent, meaningful improvements in both skin and hair outcomes. These results support further investigation of exosome therapies as a regenerative modality in aesthetic medicine. Level of Evidence: 3 (Therapeutic).",
+        "source": "PubMed",
+        "doi": "10.1093/asj/sjaf178",
+        "keyword": "Exosomes",
+        "title_ja": "美容医療におけるエクソソーム療法の臨床的進展：ヒト臨床試験の系統的レビューとメタ分析",
+        "summary_ja": "本論文は、美容医療におけるエクソソーム療法の臨床的有効性を評価するシステマティックレビューおよびメタ分析である。エクソソームは、コラーゲン産生刺激や成長因子の送達により、非侵襲的な若返り効果が期待される。2025年2月時点の検索により、皮膚（26件）と毛髪（13件）の計39件のヒト臨床試験を解析した。\n\nメタ分析の結果、皮膚では顔のしわが平均20.2%減少し、その他色素沈着、弾力性なども14.7～23.4%改善した。毛髪では密度が23.6%、太さが18.0%増加した。試験には異質性や標準化の課題はあるものの、皮膚・毛髪の両方で一貫した有意な改善が確認され、再生医療としてのさらなる研究が支持される。エビデンスレベルは3（治療）。"
+      },
+      {
+        "title": "Human Placental Mesenchymal Stem Cell-Derived Exosomes in Wound Healing and Scar Therapy: A Systematic Review and Meta-analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41800724/",
+        "abstract": "Exosome therapy represents an emerging regenerative medicine approach for optimizing wound healing and reducing scarring. Extensive pre-clinical research on human placental mesenchymal stem cell-derived exosomes (hpMSC-exosomes) demonstrates significant therapeutic potential in aesthetic and reconstructive surgery applications. Despite compelling preclinical evidence supporting the efficacy of exosomes in wound healing, human clinical studies remain scarce. The author's current study includes 738 patients treated with hpMSC-exosomes over a 7-year period across multiple aesthetic and reconstructive indications, with 175 cases involving wound healing and 118 cases involving scar therapy. The objective of this systematic review and meta-analysis is to comprehensively evaluate the current evidence for hpMSC-exosomes in wound healing and scar therapy, analyzing their mechanisms of action, clinical applications, and safety profiles through a review of preclinical studies, safety data, and clinical case series in both animals and humans. Analysis of the author's series will be included. Information sources included PubMed, Cochrane Library, EMBASE, Web of Science, and ClinicalTrials.gov resulting in a meta-analysis of 21 global preclinical studies (323 animals) which demonstrated superior outcomes compared with controls across multiple parameters: wound healing rate, neovascular density, re-epithelialization rate, and collagen deposition. hpMSC-exosomes demonstrated accelerated wound healing through enhanced angiogenesis, reduced inflammation, improved collagen production, and immunomodulatory effects. Most studies utilized rodent models, with limited translation to human trials. Current human evidence is predominantly based on early-phase trials, case series, and observational studies. Large-scale, well-designed clinical trials are essential to advancing exosome therapy in wound healing and scar management. hp-MSC-exosomes represent a promising therapeutic modality for wound healing and scar therapy with demonstrated safety and efficacy. Standardization of manufacturing processes and FDA approval remain critical for widespread clinical implementation. Level of Evidence: 3 (Therapeutic).",
+        "source": "PubMed",
+        "doi": "10.1093/asj/sjaf163",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト胎盤由来間葉系幹細胞エクソソームの創傷治癒および瘢痕治療における効果：システマティックレビューとメタアナリシス",
+        "summary_ja": "ヒト胎盤間葉系幹細胞由来エクソソーム（hpMSC-exosomes）は、創傷治癒と瘢痕治療における新規再生医療として注目される。本システマティックレビュー・メタアナリシスは、前臨床研究（21件、動物323例）と臨床症例（著者らの症例含む）を統合的に評価した。その結果、hpMSC-exosomesは、血管新生の促進、炎症抑制、コラーゲン産生調節などを通じて、治癒率、血管密度、上皮化、コラーゲン沈着を改善し、優れた有効性と安全性を示した。しかし、ヒト臨床試験は初期段階のものが主であり、製造プロセスの標準化と大規模な臨床試験が今後の課題である。"
+      },
+      {
+        "title": "Efficacy and Safety of a Topical Cream Containing Adipose Tissue-Derived, Stem Cell-Derived Exosomes in Mitigating Radiation Dermatitis After Adjuvant Radiotherapy for Breast Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41800723/",
+        "abstract": "Acute radiation dermatitis (RD) is a common and significant adverse effect experienced by patients with breast cancer undergoing radiotherapy (RT). The authors of this study investigate the efficacy and safety of a topical cream infused with exosomes derived from adipose tissue-derived mesenchymal stem cells (ASC-EXOs) in reducing radiation-induced skin damage. Fifteen patients undergoing RT applied the cream to the radiation-treated areas starting the night before treatment initiation and continued use for 2 weeks posttreatment. The severity of RD was evaluated at baseline and at Weeks 2, 4, 6, and 8, using a 5-point Radiation Therapy Oncology Group (RTOG) grading scale. The peak RTOG score was observed at Week 6, aligning with the cumulative radiation exposure. Maximum RTOG grades of 0, 1, and 2 were recorded in 6.7% (1/15), 40% (6/15), and 53.3% (8/11) of patients, respectively. By Week 8, transepidermal water loss was decreased to levels below baseline. The overall occurrence of RD in this study was notably lower than that previously documented, emphasizing the protective effects of ASC-EXO-containing cream against radiation-induced skin injury. Level of Evidence: 4 (Therapeutic).",
+        "source": "PubMed",
+        "doi": "10.1093/asj/sjaf071",
+        "keyword": "Exosomes",
+        "title_ja": "乳がん術後補助放射線療法後の放射線皮膚炎を軽減するための脂肪組織由来幹細胞エクソソーム含有クリームの有効性と安全性",
+        "summary_ja": "【要約】\n乳がん術後放射線療法における放射線皮膚炎（RD）の軽減を目的に、脂肪組織由来間葉系幹細胞エクソソーム（ASC-EXOs）含有クリームの有効性・安全性を検討した。15例に放射線照射前夜から照射終了後2週間まで外用した結果、RDの最大重症度（RTOGグレード）は、グレード0が6.7%、1が40%、2が53.3%であり、既報より発生率は低かった。照射終了8週後には経表皮水分喪失量がベースライン以下に減少し、皮膚保護効果が示唆された。エビデンスレベルは4。"
+      },
+      {
+        "title": "Comparison of Exosome- and Hybrosome-Based Therapies in Regenerative Medicine and Cell Aging: A Narrative Review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41800721/",
+        "abstract": "Exosomes have emerged as promising agents in regenerative medicine because of their ability to mediate intercellular communication, modulate inflammation, and promote tissue repair. However, their clinical application remains limited by issues of stability, bioavailability, and therapeutic consistency. Hybrosomes, engineered hybrid vesicles that combine exosomal membranes with liposomal structures, have been developed to enhance delivery, protect bioactive cargo, and prolong regenerative activity. The authors of this review aim to discuss the therapeutic efficacy of exosomes and hybrosomes in the context of skin regeneration and aesthetic procedures and evaluate their respective advantages and limitations. They aim to explore how bioengineered delivery systems may overcome current barriers to clinical translation. Studies were included if they evaluated exosome- or hybrosome-based interventions in wound healing or skin aging through in vitro, in vivo, or clinical models. Data regarding cellular proliferation, migration, angiogenesis, and inflammatory modulation were extracted and synthesized. The improved stability and delivery of hybrosomes enables sustained regenerative effects. The integration of liposomal architecture in hybrosomes may improve vesicle stability, extend bioactivity, and optimize delivery, potentially offering sustained regenerative benefits. However, future studies should include long-term clinical evaluations and standardized production protocols to establish hybrosome therapies as reliable and scalable interventions in regenerative and aesthetic medicine. Level of Evidence: 3 (Therapeutic).",
+        "source": "PubMed",
+        "doi": "10.1093/asj/sjaf119",
+        "keyword": "Exosomes",
+        "title_ja": "再生医療と細胞老化におけるエクソソーム療法とハイブロソーム療法の比較：ナラティブレビュー",
+        "summary_ja": "本論文は、再生医療におけるエクソソームとハイブロソームの治療効果を比較したナラティブレビューである。エクソソームは細胞間コミュニケーションや組織修復を促進するが、安定性や生体利用能に課題がある。一方、エクソソーム膜とリポソーム構造を融合した人工ハイブリッド小胞であるハイブロソームは、安定性と薬剤送達効率を向上させ、持続的な再生効果が期待される。皮膚再生と美容医療における両者の利点・限界を検証し、ハイブロソームが臨床応用の障壁を克服する可能性を示唆する。ただし、長期臨床評価と標準化された製造プロトコルの確立が今後の課題である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Biologically Distinct, Clinically Convergent: A Comparative Study of Umbilical Cord- and Adipose-Derived Mesenchymal Stem Cell Exosomes in Human Skin Regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41800728/",
+        "abstract": "Mesenchymal stem cell (MSC)-derived exosomes are emerging as cell-free bioregenerative platforms in aesthetic dermatology. Umbilical cord (UC-MSC) and adipose-derived (AD-MSC) exosomes are among the most studied sources, yet existing data derive from heterogeneous models that preclude direct comparison. No standardized head-to-head evaluation in a human skin aging model has been conducted. The aim of the study is to compare the regenerative and antiaging effects of UC-MSC and AD-MSC exosomes using a physiologically relevant ex vivo human skin aging model. MSCs were isolated and characterized per International Society for Cellular Therapy criteria. Exosomes were purified through differential ultracentrifugation and analyzed by nanoparticle tracking and flow cytometry. Cytokine cargo was profiled using multiplex assays. Human dermal fibroblasts and ex vivo skin explants were used to assess proliferation, senescence-associated β-gal activity, melanogenesis, senescence-associated secretory phenotype (SASP) suppression (interleukin-6, matrix metalloproteinase-9), and extracellular matrix (ECM) biosynthesis. Topical retinoic acid and resveratrol served as reference controls. Both exosome types increased fibroblast proliferation and reduced senescence. AD-MSC exosomes showed higher vascular endothelial growth factor (VEGF) content, driving angiogenesis and greater collagen and hyaluronic acid production. UC-MSC exosomes, enriched in transforming growth factor-beta and platelet-derived growth factor-BB (PDGF-BB), demonstrated stronger immunomodulatory activity and more pronounced SASP reduction in ultraviolet-damaged skin. Both reduced melanogenesis without altering melanocyte viability. UC-MSC and AD-MSC exosomes exhibit distinct yet complementary regenerative profiles. AD-MSC exosomes favor dermal ECM remodeling and hydration, whereas UC-MSC exosomes exert potent anti-inflammatory and photo-protective effects. These findings support their potential for personalized regenerative dermatology and combinatory exosome-based facial rejuvenation strategies.",
+        "source": "PubMed",
+        "doi": "10.1093/asj/sjaf254",
+        "keyword": "Exosomes",
+        "title_ja": "生物学的に異なり、臨床的には収束する：ヒト皮膚再生における臍帯および脂肪由来間葉系幹細胞エクソソームの比較研究",
+        "summary_ja": "**要約**\n間葉系幹細胞（MSC）由来エクソソームは、皮膚再生における細胞フリー療法として注目される。臍帯（UC-MSC）と脂肪組織（AD-MSC）由来エクソソームをヒト皮膚老化モデルで比較した。両者とも線維芽細胞増殖促進、細胞老化抑制、メラニン生成抑制効果を示した。**AD-MSCエクソソーム**はVEGFを豊富に含み、血管新生、コラーゲン・ヒアルロン酸産生を促進し、真皮リモデリングに優れる。**UC-MSCエクソソーム**はTGF-βやPDGF-BBに富み、免疫調節作用が強く、紫外線損傷皮膚での炎症性SASP抑制に優れた。これらは相補的な作用プロファイルを持ち、個別化・併用再生医療戦略の基盤となる。"
+      },
+      {
+        "title": "Preliminary Insights From a Split-Face Study on Skin Quality Changes After Needling Radiofrequency With or Without a Plant-Derived Exosome-Based Formulation Over 6 Months.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41800727/",
+        "abstract": "Needling radiofrequency (NRF) induces controlled dermal remodeling while preserving the epidermis. Rose stem cell-derived exosomes (RSCEs) possess regenerative and anti-inflammatory properties, but limited penetration restricts clinical utility.",
+        "source": "PubMed",
+        "doi": "10.1093/asj/sjaf253",
+        "keyword": "Exosomes",
+        "title_ja": "6ヶ月間のニードリングラジオ波施術後における植物由来エクソソーム基剤配合の有無が皮膚の質感変化に及ぼす影響：分割顔面試験による予備的知見",
+        "summary_ja": "マイクロニードルラジオ波（NRF）は表皮を温存しつつ真皮リモデリングを誘導する。植物由来エクソソーム（RSCEs）は再生・抗炎症作用を持つが、透過性が課題である。本分割顔試験では、NRF単独とNRF+RSCEs併用の6ヶ月間の皮膚質変化を比較。併用群では、NRF単独より、より良好な皮膚弾力性・きめ・色素沈着改善が持続的に観察され、エクソソームの補助的効果が示唆された。"
+      },
+      {
+        "title": "Exosomes in Aesthetic Medicine: An Overview.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41800722/",
+        "abstract": "The use of exosomes in regenerative aesthetics represents a conceptual shift. Although stem cells operate using an engraftment and differentiation method, exosomes mediate therapeutic effects through transfer of bioactive molecules that orchestrate regenerative cascades. These tiny particles have evolved from their initial characterization as cellular waste repositories to critical mediators of physiological processes. Laboratory research and clinical trials position exosomes as tailored biological messengers with tissue-specific tropism and immunomodulatory capabilities. Sourcing diversity, ranging from mesenchymal stem cells to immune cells and platelets, imparts distinct molecular signatures that determine therapeutic potential. Contemporary isolation techniques have progressed from ultracentrifugation to more sophisticated approaches yielding variable purity profiles. Regulatory frameworks span Section 351 of the Public Health Service Act governing minimally manipulated preparations, Section 361 therapeutics with specific drug indications, and Federal Food, Drug, and Cosmetic Act-regulated topical formulations, with international approaches varying significantly across jurisdictions. Clinical applications include photoaging remediation, scar remodeling, hair follicle regeneration, wound healing, postprocedure recovery and adipose tissue volumization, with mechanisms encompassing matrix remodeling, neovascularization, and immunomodulation. Emerging evidence supports efficacy in combination with energy-based treatments and microneedling. Future directions include cargo-engineered exosomes, stimuli-responsive release systems, and tissue-specific targeting. Developing GMP-compliant production and unified potency metrics will likely transition exosomes from supplementary components to primary agents in next-generation aesthetic protocols.",
+        "source": "PubMed",
+        "doi": "10.1093/asj/sjaf259",
+        "keyword": "Exosomes",
+        "title_ja": "美容医療におけるエクソソーム：概要",
+        "summary_ja": "エクソソームは、幹細胞の移植・分化とは異なり、生理活性分子の転送により再生カスケードを調節する。細胞廃棄物とされたが、現在は組織指向性・免疫調節能を持つ生理的メディエーターと位置づけられる。間葉系幹細胞や血小板など多様な細胞由来で、分子特性が治療効果を決定する。単離法は超遠心から高純度法へ進化。規制は米国ではPHS法第351条・第361条、FD&C法に基づき、国際的には多様である。臨床応用は光老化、瘢痕、毛包再生、創傷治癒、脂肪容積補充などで、マトリックス再構築、血管新生、免疫調節が機序。エネルギー治療やマイクロニードリングとの併用も有効。将来はカスタムエクソソーム、刺激応答性放出系、組織特異的ターゲティングが期待され、GMP準拠生産と効力基準の確立により、次世代美容医療の主役となる可能性がある。"
+      },
+      {
+        "title": "Erbium:YAG Laser Combined With Plant-Derived Exosomes (ASCEplus IRLV) for Genital Rejuvenation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41800720/",
+        "abstract": "Genitourinary syndrome of menopause (GSM) is a condition affecting peri and postmenopausal women. Er:YAG vaginal laser has been reported to improve symptoms through thermal remodeling, without tissue ablation. Exosomes are emerging biological mediators with regenerative and anti-inflammatory effects. Their use in combination with Er:YAG laser has not yet been extensively studied.",
+        "source": "PubMed",
+        "doi": "10.1093/asj/sjaf243",
+        "keyword": "Exosomes",
+        "title_ja": "エルビウム:YAGレーザーと植物由来エクソソーム（ASCEplus IRLV）を併用した生殖器若返り療法",
+        "summary_ja": "本論文は、閉経周辺期・閉経後女性に生じる生殖泌尿器症候群（GSM）に対する新規治療法を検討したものである。既存のエルビウム:YAG（Er:YAG）レーザーは、組織切除を伴わない熱リモデリングにより症状改善が報告されている。これに、再生・抗炎症作用を持つ植物由来エクソソーム（ASCEplus IRLV）を併用する治療法を提案する。両者の併用効果は未だ広範に研究されていないが、相乗的な組織修復・再生促進が期待される。"
+      },
+      {
+        "title": "From Biointelligence to Biointerference: Exosomes as Bioengineered Cellular Communicators Transforming Regenerative Medicine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41800719/",
+        "abstract": "Exosomes are nanoscale extracellular vesicles that facilitate intercellular communication by transporting regulatory molecules, such as microRNAs, proteins, and lipids. Acting as \"software updates\" for cells, exosomes influence gene expression and cellular behavior without altering the genetic code. Their emerging roles in tissue repair, immune modulation, and age-related rejuvenation have positioned them as promising tools in regenerative and aesthetic medicine. The authors of this systematic review aim to explore the therapeutic potential of natural and bioengineered exosomes, focusing on their mechanisms of action and applications in regenerative therapies and aesthetic interventions. A structured literature search was conducted across PubMed, Scopus, and Web of Science, including English-language studies available online as of April 2025. Eligible studies consisted of original in vitro, in vivo, and clinical research examining exosome-based applications in tissue regeneration, wound healing, and anti-aging therapies. Studies were thematically grouped by exosome origin, engineering strategy, and therapeutic context. A narrative synthesis approach was employed because of methodological heterogeneity. Exosomes represent a novel class of therapeutic agents capable of modulating biological processes critical to repair and regeneration. In addition to mammalian-derived vesicles, plant-based and hybrid systems offer scalable, biocompatible platforms for targeted molecular delivery. The integration of exosome-based therapies with advances in cellular reprogramming and bioelectric signaling may further expand their clinical utility. However, broader clinical adoption will require continued research addressing safety, manufacturing scalability, regulatory challenges, and ethical considerations. Level of Evidence: 3 (Therapeutic).",
+        "source": "PubMed",
+        "doi": "10.1093/asj/sjaf076",
+        "keyword": "Exosomes",
+        "title_ja": "バイオインテリジェンスからバイオインターフェアランスへ：再生医療を変革する、バイオエンジニアリングされた細胞間コミュニケーターとしてのエクソソーム。",
+        "summary_ja": "エクソソームは、マイクロRNAやタンパク質などを運び細胞間通信を担うナノサイズの細胞外小胞である。細胞の「ソフトウェア更新」のように遺伝子コードを変えずに細胞挙動を調節し、組織修復・免疫調整・若返りなど再生医療・美容医療で有望な治療ツールとされる。本システマティックレビューは、天然・人工エクソソームの作用機序と応用を検証。哺乳類由来に加え、植物性・ハイブリッドシステムも標的分子送達プラットフォームとして有望であり、細胞再プログラミング等との統合で臨床応用が拡大しうる。ただし、安全性・製造拡張性・規制・倫理課題の解決が今後の普及には必要である。"
+      }
+    ],
+    "農学": [],
+    "工学": [
+      {
+        "title": "Enhanced Healing and Outcomes With Human Dermal Fibroblast Exosomes: Case Series Combining Deep Helium Radiofrequency Plasma Skin Resurfacing, Facelifts, and Exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41800725/",
+        "abstract": "Deep skin resurfacing with helium radiofrequency plasma produces rhytid and photodamage correction with significant tissue contraction. Although the outcomes can be quite impressive, the recovery process can be daunting and prolonged.",
+        "source": "PubMed",
+        "doi": "10.1093/asj/sjaf214",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト真皮線維芽細胞エクソソームによる治癒促進と治療効果の向上：深部ヘリウムラジオ波プラズマ皮膚リサーフェシング、フェイスリフト、エクソソームを併用した症例シリーズ",
+        "summary_ja": "【要約】\nヘリウムラジオ波プラズマによる深部皮膚リサーフェシングは、シワ・光老化の改善と組織収縮をもたらすが、回復は長期化し得る。本症例シリーズでは、この処置と顔面リフトに、ヒト真皮線維芽細胞エクソソームを併用。エクソソームは治癒を促進し、浮腫・紅斑・ダウンタイムを軽減、治療成績を向上させた。"
+      }
+    ],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Lipotoxic hepatocyte-derived ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795680/",
+        "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH) serves as a primary contributor to liver fibrosis, cirrhosis, and hepatocellular carcinoma, yet specific diagnostic markers and therapeutic targets remain unavailable. This study elucidates the molecular mechanism by which UBQLN1 (ubiquilin 1) promotes MASH-related liver fibrosis by regulating small extracellular vesicles (sEVs) secretion and the functionality of the lysosome-mitochondria axis, as well as its clinical significance. Analysis of a multicenter cohort (",
+        "source": "PubMed",
+        "doi": "10.1080/15548627.2026.2642976",
+        "keyword": "sEVs",
+        "title_ja": "リポトキシック肝細胞由来の",
+        "summary_ja": "以下は、指定された論文・記事の要約です。\n\n**要約（400文字以内）**\n\n代謝機能障害関連脂肪性肝炎（MASH）は肝線維化の主要因であるが、診断・治療標的は不足している。本研究は、UBQLN1が小胞外小胞（sEV）分泌とリソソーム-ミトコンドリア軸機能を調節しMASH関連線維化を促進する分子機序と臨床的意義を解明した。多施設コホート解析により、肝細胞のUBQLN1発現はMASH患者で上昇し、線維化重症度と相関した。脂毒性肝細胞では、UBQLN1がsEV分泌を促進し、これらsEVは肝星細胞を活性化して線維化を誘導した。さらにUBQLN1はリソソーム機能不全とミトコンドリア障害を引き起こし、細胞ストレスとsEV分泌を増幅する。UBQLN1ノックダウンはこれらの現象を抑制した。以上より、UBQLN1はMASH関連線維化の新たな診断マーカーおよび治療標的として有望である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. Klotho遺伝子型とアルツハイマー病の乳酸化**\nKlothoの保護的遺伝子型が認知機能低下を緩和する新規メカニズムとして「乳酸化」を解明。AD治療標的としてKlotho関連経路の重要性を示し、代謝・エピジェネティック調節を組み合わせた治療開発に期待。\n\n**2. NK細胞療法と腫瘍免疫回避機構**\nがん細胞の多様なNK細胞回避戦略を包括的にレビュー。CAR-NKやバイオマーカー活用など、回避機構を克服する次世代免疫療法の開発が進んでおり、固形癌を含むがん治療のブレークスルーとなる可能性。\n\n**3. 半合致移植におけるHLA-Bリーダー一致の予後影響**\nHLA-Bリーダー不一致が非再発死亡率上昇と関連し、NK細胞再構築の遅延を介した機序を解明。ドナー選択の新規バイオマーカーとして臨床応用が期待され、移植成績向上に寄与。\n\n**4. 美容医療におけるエクソソーム療法の臨床的エビデンス**\nシステマティックレビューにより、エクソソームの皮膚若返り効果を確認。非侵襲的治療として標準化が進み、再生医療における「細胞フリー療法」の確立が期待される。\n\n**5. 小胞外小胞（sEVs）と肝線維化（MASH）**\n肝細胞由来sEVsの分泌調節因子UBQLN1を同定。sEVsを介した細胞間通信がMASHの線維化に寄与する機序を解明し、新規診断・治療標的としての可能性を示した。"
+}

@@ -1,0 +1,226 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Adaptive immune and platelet activation during the maintenance phase of therapy in adults with B cell acute lymphoblastic leukemia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41797571/",
+        "abstract": "Maintenance therapy is an integral component of treatment for B cell acute lymphoblastic leukemia (B-ALL) and has demonstrated clinical efficacy. However, features of immune activation and an increased thrombotic risk may persist beyond the induction phase of treatment. The mechanisms underlying immune activation during the maintenance phase of B-ALL remain unclear. Therefore, this study aimed to evaluate immune activation and thrombotic risk in adult patients with B-ALL undergoing maintenance therapy.",
+        "source": "PubMed",
+        "doi": "10.1080/09537104.2026.2636463",
+        "keyword": "PF4",
+        "title_ja": "B細胞性急性リンパ芽球性白血病成人患者における維持療法期の適応免疫および血小板活性化",
+        "summary_ja": "B細胞性急性リンパ性白血病（B-ALL）の維持療法は臨床的有効性が確認されているが、免疫活性化と血栓リスクの上昇が誘導期後も持続する機序は不明である。本研究は、維持療法中の成人B-ALL患者において、適応免疫と血小板の活性化状態を評価した。その結果、治療維持期においても免疫系の持続的活性化と血小板の活性亢進が観察され、これが血栓リスクの増加に関与している可能性が示唆された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Immunosuppressive Tumor Microenvironment and Therapeutic Landscape of Diffuse Intrinsic Pontine Glioma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41804105/",
+        "abstract": "Diffuse intrinsic pontine glioma (DIPG) is a highly aggressive and fatal pediatric brainstem tumor, characterized by rapid progression and extremely poor prognosis. Its infiltrative growth within the pons, combined with the critical function and inaccessibility of the brainstem, makes surgical resection different and significantly limits therapeutic options. Moreover, the molecular and cellular heterogeneity of DIPG complicates therapeutic development, and despite decades of research, the current standard of care remains limited to palliative radiotherapy. In recent years, tumor immunology in DIPG has gained attention, as its immunosuppressive microenvironment, resulting in an immunologically 'cold' tumor, presents both a challenge and an opportunity for advancing immunotherapeutic strategies. In this review, we focus on outlining what is known about the developmental biology, pathological hallmarks, and immunosuppressive tumor microenvironment of DIPG, including immune infiltration and function of both immunosuppressive cells and effector NK and T cells. We also summarize recent advances in the therapeutic landscape of DIPG, including targeted therapies (epigenetic modulators, receptor tyrosine kinase inhibitors, cell cycle and DNA damage response inhibitors, metabolic immune modulators), immunotherapies (adoptive cell therapy, immune checkpoint inhibitors, vaccine therapy and oncolytic virotherapy), and novel delivery approaches currently under preclinical and clinical investigation. Emerging trends highlight the potential of combination therapies to enhance treatment efficacy. A deeper understanding of DIPG biology and tumor microenvironment is critical for advancing more effective therapies for this aggressive disease among these vulnerable populations.",
+        "source": "PubMed",
+        "doi": "10.1002/med.70037",
+        "keyword": "NK cell therapy",
+        "title_ja": "免疫抑制性腫瘍微小環境とびまん性内因性橋膠腫の治療戦略",
+        "summary_ja": "**要約**\nびまん性橋膠腫（DIPG）は、小児脳幹に発生する浸潤性・致死性の高い腫瘍である。外科的切除は困難で、標準治療は緩和的放射線療法に限られる。近年、DIPGの免疫学的「冷たい」腫瘍微小環境（免疫抑制細胞の浸潤と効果的免疫細胞の機能不全）が注目されている。本総説は、DIPGの発症生物学、病理学的特徴、免疫抑制的微小環境を概説し、治療戦略（エピジェネティック調節薬、標的療法、免疫療法（CAR-T、免疫チェックポイント阻害薬等））と新規薬剤送達法の進展をまとめる。疾患理解の深化と併用療法の開発が、効果的な治療法確立に不可欠である。"
+      },
+      {
+        "title": "Synergistic immunotherapeutic effects of irreversible electroporation and CAR-NK cell therapy against hepatocellular carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41803088/",
+        "abstract": "Chimeric antigen receptor natural killer (CAR-NK) cell therapy has emerged as a promising immunotherapeutic modality with potent cytotoxicity and a favorable safety profile. However, its therapeutic efficacy is often limited by poor infiltration into tumors and the profoundly immunosuppressive tumor microenvironment (TME). In hepatocellular carcinoma (HCC), one of the leading causes of cancer-related mortality, this suppressive TME severely compromises the function of CAR-NK cells. To overcome this limitation, we developed a combinatorial strategy integrating irreversible electroporation (IRE), a clinically approved nonthermal ablation modality capable of reshaping the TME, with glypican-3 (GPC3)-targeted CAR-NK cells generated via 1,2-dioleoyl-3-trimethylammonium-propane (DOTAP)-functionalized lipid nanoparticle (LNP)-mediated gene delivery. IRE promoted immunogenic cell death and reprogrammed the TME through the release of damage-associated molecular patterns and chemokines, notably CX3CL1, thereby enhancing NK cell infiltration. Moreover, IRE-treated HCC cells exhibited heightened susceptibility to NK-mediated cytotoxicity through elevated intracellular reactive oxygen species, establishing a mechanism of immune sensitization. When combined with LNP-engineered GPC3-specific CAR-NK cells, this approach elicited synergistic antitumor activity, as demonstrated by superior tumor lysis in vitro and robust tumor regression in various HCC models without systemic toxicity. By coupling TME remodeling of IRE with the precision and safety of LNP-engineered CAR-NK cells, we propose a durable, clinically actionable treatment paradigm to overcome resistance in solid tumors, such as HCC.",
+        "source": "PubMed",
+        "doi": "10.1038/s41392-026-02627-2",
+        "keyword": "NK cell therapy",
+        "title_ja": "肝細胞癌に対する不可逆的電気穿孔とCAR-NK細胞療法の相乗的免疫治療効果",
+        "summary_ja": "不可逆的電気穿孔法（IRE）とCAR-NK細胞療法の相乗効果を肝細胞癌（HCC）に対して検討。IREは免疫原性細胞死を誘導し、特にCX3CL1の放出により免疫抑制性腫瘍微小環境（TME）を再構築し、NK細胞の浸潤を促進。さらに、IRE処理により癌細胞内活性酸素種が増加し、NK細胞介在性細胞障害への感受性が亢進。これに、DOTAP機能化脂質ナノ粒子（LNP）で作製したGPC3標的CAR-NK細胞を組み合わせることで、in vitroおよびin vivoで相乗的な抗腫瘍効果と腫瘍退縮を確認し、全身毒性は認められなかった。IREによるTMEリモデリングとLNP-CAR-NK細胞の安全性・精度を統合した、HCCを含む固形癌に対する新規治療戦略を提案。"
+      },
+      {
+        "title": "Adenosine drives suppression of CD16low NK cell responses against HGSC via NKG2A:HLA-E interactions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41802914/",
+        "abstract": "High grade serous carcinoma (HGSC) of the ovary remains the deadliest gynecologic cancer, with five-year survival rates of less than 50%. Remission is usually achieved by surgical debulking and chemotherapy, but most (∼70%) of patients ultimately develop treatment-resistant disease. Infiltration of immune cells into the HGSC microenvironment, including natural killer (NK) cells, is associated with lengthened overall and progression-free survival, suggesting that immunosurveillance contributes to HGSC control. The mechanisms permitting or prohibiting anti-cancer activity are unclear, but if understood, might shed light on opportunities for immunotherapy or precision medicine. We investigated the interactions between NK cells and adenosine, an immunosuppressive metabolite that concentrates in HGSC. Exposure of HGSC to adenosine induces upregulation of ligands associated with NK cell inhibition, including HLA-E. On NK cells, adenosine induces upregulation of the cognate inhibitory receptor for HLA-E, natural killer group 2A (NKG2A). The CD16low NK cell subset was most responsive to the HGSC cell line, OVCAR4, but also more likely to upregulate NKG2A and become inhibited after adenosine treatment. A single nucleotide polymorphism (SNP) in the gene for NKG2A (V5: rs2734440 C) encodes for higher NKG2A surface expression and a stronger inhibitory response to HLA-E-expressing targets. Here, we demonstrate that NK cell suppression in the context of adenosine is most profound in NK cells homozygous for the V5 variant. Our results reveal a novel link between metabolism and immunologic inhibition and highlight the KLRC1-V5 variant as a putative biomarker for response to anti-NKG2A therapy and/or susceptibility to adenosine-driven immunosuppression.",
+        "source": "PubMed",
+        "doi": "10.1093/jleuko/qiag032",
+        "keyword": "NK cell therapy",
+        "title_ja": "アデノシンはNKG2A:HLA-E相互作用を介して、HGSCに対するCD16low NK細胞応答の抑制を促進する。",
+        "summary_ja": "**要約**\n高悪性度漿液性卵巣癌(HGSC)は予後不良であり、腫瘍微小環境へのNK細胞浸潤は生存延長と関連する。本研究は、HGSCに蓄積する免疫抑制代謝物アデノシンに着目した。アデノシンは、腫瘍細胞上の抑制リガンドHLA-Eと、NK細胞上のその受容体NKG2Aの双方を誘導し、特にCD16low NK細胞の抗腫瘍応答を抑制する。NKG2A遺伝子の一塩基多型(V5変異体)はNKG2A発現を高め、アデノシンによる抑制を増強する。代謝と免疫抑制の新たな関連を明らかにし、V5変異体は抗NKG2A療法のバイオマーカー候補となる。"
+      },
+      {
+        "title": "B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41792971/",
+        "abstract": "B cells and the humoral immune response are increasingly recognized as critical modulators of melanoma progression and immunotherapy outcomes. While checkpoint inhibitor (CPI) therapy was developed to target T cell exhaustion mechanisms, emerging evidence highlights the complexity and clinical relevance of B cell biology in this highly immunogenic cancer. Dysregulated B cell subsets, including enriched circulating naïve and immunosuppressive populations, and skewing toward immune-inert antibody isotypes such as IgG4, correlate with diminished Fc-mediated effector functions and poor survival. Regulatory B cells (Bregs) contribute to immune tolerance by inducing regulatory T cells (Tregs) and shaping the suppressive tumor microenvironment (TME) via the secretion of immunosuppressive cytokines (TGFβ and IL-10). While intratumoral B cells exhibit clonal expansion, somatic hypermutation, and polyreactivity, the expression of antibodies with high frequencies of unproductive sequences may support an active yet aberrant autoimmune-like humoral response. Conversely, mature class-switched memory B cells and tumor-resident B cell populations, including those assembled in tertiary lymphoid structures (TLSs), are associated with improved CPI responses. Dynamic changes in circulating B cell phenotypes and autoantibody profiles during CPI treatment further link humoral immunity to therapeutic efficacy and immune-related adverse events (irAEs). Collectively, these findings underscore a dual role for B cells in melanoma, supporting antitumor immunity or promoting immune escape, and highlight opportunities to target Bregs, correct isotype imbalance, and leverage B cell signatures as biomarkers. Monitoring humoral responses before and during CPI therapy may inform patient stratification, predict toxicity, and guide interventions to optimize immunotherapy outcomes.",
+        "source": "PubMed",
+        "doi": "10.1080/2162402X.2026.2638620",
+        "keyword": "NK cell therapy",
+        "title_ja": "メラノーマにおけるB細胞と体液性免疫：調節性および自己免疫様特性と免疫療法への示唆",
+        "summary_ja": "B細胞と液性免疫は、メラノーマ進行と免疫療法効果の重要な調節因子である。免疫抑制性B細胞（Breg）やIgG4へのアイソタイプ偏りは、免疫抑制環境を形成し予後不良と関連する。一方、腫瘍内の成熟記憶B細胞や三次リンパ様構造（TLS）は、チェックポイント阻害剤（CPI）への良好な反応と相関する。CPI治療中のB細胞動態や自己抗体プロファイルは、治療効果や免疫関連有害事象（irAE）と関連し、バイオマーカーとしての可能性を示す。B細胞は抗腫瘍免疫と免疫回避の二面性を持ち、その制御は治療最適化の新たな標的となる。"
+      },
+      {
+        "title": "CAR-NK cell therapy: promise and challenges in solid tumors",
+        "url": "https://www.semanticscholar.org/paper/358b68eb6786825c01eb7c4fa62f5f211fc00bf8",
+        "abstract": "Over the past few years, cellular immunotherapy has emerged as a promising treatment for certain hematologic cancers, with various CAR-T therapies now widely used in clinical settings. However, challenges related to the production of autologous cell products and the management of CAR-T cell toxicity highlight the need for new cell therapy options that are universal, safe, and effective. Natural killer (NK) cells, which are part of the innate immune system, offer unique advantages, including the potential for off-the-shelf therapy. A recent first-in-human trial of CD19-CAR-NK infusion in patients with relapsed/refractory lymphoid malignancies demonstrated safety and promising clinical activity. Building on these positive clinical outcomes, current research focuses on enhancing CAR-NK cell potency by increasing their in vivo persistence and addressing functional exhaustion. There is also growing interest in applying the successes seen in hematologic malignancies to solid tumors. This review discusses current trends and emerging concepts in the engineering of next-generation CAR- NK therapies. It will cover the process of constructing CAR-NK cells, potential targets for their manufacturing, and their role in various solid tumors. Additionally, it will examine the mechanisms of action and the research status of CAR-NK therapies in the treatment of solid tumors, along with their advantages, limitations, and future challenges. The insights provided may guide future investigations aimed at optimizing CAR-NK therapy for a broader range of malignancies.",
+        "source": "SemanticScholar",
+        "doi": "10.3389/fimmu.2025.1574742",
+        "keyword": "NK cell therapy",
+        "title_ja": "CAR-NK細胞療法：固形がんにおける可能性と課題",
+        "summary_ja": "CAR-NK細胞療法は、固形腫瘍治療における新たな免疫療法として注目されている。CAR-T療法に比べ、同種（オフザシェルフ）使用が可能で安全性が高く、自然免疫系を活かした抗腫瘍効果が期待される。血液がんではCD19-CAR-NKの臨床試験で有効性が示されたが、固形腫瘍では腫瘍微小環境による抑制や細胞の生体内持続性などの課題がある。現在の研究は、CAR-NK細胞の持続性向上と機能疲弊の克服、ならびに新規標的の探索に焦点を当て、次世代療法の開発を進めている。"
+      },
+      {
+        "title": "Novel gene manipulation approaches to unlock the existing bottlenecks of CAR-NK cell therapy",
+        "url": "https://www.semanticscholar.org/paper/8dd5a8a6930bee84b90b23a9f6613fe53490dd91",
+        "abstract": "Currently, CAR-T cell therapy is known as an efficacious treatment for patients with relapsed/refractory hematologic malignancies. Nonetheless, this method faces several bottlenecks, including low efficacy for solid tumors, lethal adverse effects, high cost of autologous products, and the risk of GvHD in allogeneic settings. As a potential alternative, CAR-NK cell therapy can overcome most of the limitations of CAR-T cell therapy and provide an off-the-shelf, safer, and more affordable product. Although published results from preclinical and clinical studies with CAR-NK cells are promising, several bottlenecks must be unlocked to maximize the effectiveness of CAR-NK cell therapy. These bottlenecks include low in vivo persistence, low trafficking into tumor sites, modest efficacy in solid tumors, and sensitivity to immunosuppressive tumor microenvironment. In recent years, advances in gene manipulation tools and strategies have laid the groundwork to overcome the current bottlenecks of CAR-NK cell therapy. This review will introduce the existing gene manipulation tools and discuss their advantages and disadvantages. We will also explore how these tools can enhance CAR-NK cell therapy’s safety and efficacy.",
+        "source": "SemanticScholar",
+        "doi": "10.3389/fcell.2024.1511931",
+        "keyword": "NK cell therapy",
+        "title_ja": "CAR-NK細胞療法の既存のボトルネックを解消する新規遺伝子操作アプローチ",
+        "summary_ja": "CAR-NK細胞療法は、CAR-T療法の課題（固形腫瘍への低効果、重篤な副作用、高コスト、移植片対宿主病リスク）を克服し、オフ・ザ・シェルフで安全・安価な治療法として期待される。しかし、生体内持続性の低さ、腫瘍部位への移行不足、固形腫瘍での効果限界、免疫抑制性腫瘍微小環境への感受性がボトルネックとなっている。近年の遺伝子操作技術の進展は、これらの課題を克服する基盤を提供している。本総説は、既存の遺伝子操作ツールの利点・欠点を紹介し、CAR-NK療法の安全性と有効性を高める応用について論じる。"
+      },
+      {
+        "title": "CAR-NK cell therapy: a potential antiviral platform.",
+        "url": "https://www.semanticscholar.org/paper/9ecbf1e0803ec09bde5d2d74c4c162bde8e977cb",
+        "abstract": "Viral infections persist as a significant cause of morbidity and mortality worldwide. Conventional therapeutic approaches often fall short in fully eliminating viral infections, primarily due to the emergence of drug resistance. Natural killer (NK) cells, one of the important members of the innate immune system, possess potent immunosurveillance and cytotoxic functions, thereby playing a crucial role in the host's defense against viral infections. Chimeric antigen receptor (CAR)-NK cell therapy has been developed to redirect the cytotoxic function of NK cells specifically towards virus-infected cells, further enhancing their cytotoxic efficacy. In this manuscript, we review the role of NK cells in antiviral infections and explore the mechanisms by which viruses evade immune detection. Subsequently, we focus on the optimization strategies for CAR-NK cell therapy to address existing limitations. Furthermore, we discuss significant advancements in CAR-NK cell therapy targeting viral infections, including those caused by severe acute respiratory syndrome coronavirus 2, human immunodeficiency virus, hepatitis B virus, human cytomegalovirus, and Epstein-Barr virus.",
+        "source": "SemanticScholar",
+        "doi": "10.1016/j.scib.2025.01.002",
+        "keyword": "NK cell therapy",
+        "title_ja": "CAR-NK細胞療法：潜在的な抗ウイルス治療プラットフォーム",
+        "summary_ja": "CAR-NK細胞療法は、薬剤耐性ウイルス感染に対する新たな治療プラットフォームである。自然免疫系のNK細胞は、抗ウイルス防御に重要な役割を果たすが、ウイルスは免疫回避機構を有する。CAR（キメラ抗原受容体）をNK細胞に発現させることで、ウイルス感染細胞を特異的に認識・攻撃するよう誘導できる。本論文は、SARS-CoV-2、HIV、HBVなどの主要ウイルスを標的としたCAR-NK療法の進展を概説し、その機序と、限界を克服するための最適化戦略について論じている。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosomes from macrophages intervened by Jiedu Yangxin decoction mediated endothelial-to-mesenchymal transition to improve myocardial fibrosis after myocardial infarction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41804264/",
+        "abstract": "Myocardial fibrosis, a critical pathological feature in myocardial infarction (MI) associated with adverse outcomes. Endothelial-to-mesenchymal transition (EndMT) emerges as a central driver of fibrosis, regulated by macrophage polarization and exosomal microRNAs (miRNAs). This study elucidates the anti-fibrotic mechanism of Jiedu Yangxin Decoction (JDYX), a Traditional Chinese Medicine, investigating regulation of macrophage-derived exosomes and suppression of EndMT in post-myocardial infarction (MI) cardiac remodelling.",
+        "source": "PubMed",
+        "doi": "10.1111/bph.70398",
+        "keyword": "Exosomes",
+        "title_ja": "解毒養心湯が介入したマクロファージ由来エクソソームは、内皮細胞から間葉系細胞への移行を介して心筋梗塞後の心筋線維化を改善する。",
+        "summary_ja": "心筋梗塞後の心筋線維化において、内皮-間葉転換（EndMT）は線維化の主要な駆動因子である。本研究は、解毒養心湯（JDYX）が、マクロファージのエクソソームを介してEndMTを抑制し、心筋線維化を改善する機序を解明した。マクロファージの極性とエクソソーム内miRNAを調節することで、JDYXは心リモデリングを抑制する抗線維化作用を発揮する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "The Comparison between Different Extracellular Vesicle Isolation Methods by AFM-IR Nanospectroscopy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41804080/",
+        "abstract": "Extracellular vesicles (EVs) contain cell-type-specific signatures and have been proposed as biomarkers in various diseases. However, due to their small dimensions, quantification and size distribution, the biophysical characterization of these particles is challenging and still controversial. The diffraction-limiting effect limits acquiring spectral data on EV samples in the mid-IR range, making it impossible to capture images and spectra at the nanoscale by conventional vibrational spectroscopy methods. Here, we employed atomic force microscopy-infrared nanospectroscopy (AFM-IR) technique to elucidate the molecular signatures of EVs isolated from blood (serum and plasma), as well as the direct correlation of their topography and biochemical signature with respect to the isolation method. EVs were extracted from serum or plasma from C57BL/6 male mice by Total Exosome Isolation Reagent (TEIR), ultracentrifugation, and size-exclusion chromatography (SEC), and evaluated by microreflectance in FTIR and AFM-IR analysis. The multivariate analysis by PCA and PLS-DA showed that phosphate groups could be significantly altered depending on the EV isolation/purification method, as well as glycosidic linkages. The SEC processing strongly depletes the amount of biomolecules whose bands fall in the region above 1150 cm",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.5c07289",
+        "keyword": "Exosomes",
+        "title_ja": "AFM-IRナノ分光法による異なる細胞外小胞単離法の比較",
+        "summary_ja": "本論文は、原子間力顕微鏡赤外分光法（AFM-IR）を用いて、血液（血清・血漿）由来の細胞外小胞（EVs）の分子特性を解析し、単離方法の違いによる影響を比較した研究である。EVsはバイオマーカーとして有望だが、微小サイズのため生物理学的特性評価は困難であった。AFM-IRにより、超遠心分離、サイズ排除クロマトグラフィー（SEC）、試薬法（TEIR）で単離したEVsのナノスケールでの形態と生化学的特性を相関させて解析した。多変量解析の結果、リン酸基やグリコシド結合などの分子特性は単離法によって有意に変化し、特にSEC法では1150 cm⁻¹以上の領域の生体分子が強く減少することが示された。"
+      },
+      {
+        "title": "Adipose-derived stem cell exosomes promote endometrial carcinoma progression via MAGED4B/CDH1/EMT axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41803570/",
+        "abstract": "Adipose-derived stem cell exosomes (ADSCs-Exos) enhance endometrial carcinoma (EC) cell proliferation, migration, and invasion. Mechanistically, ADSCs-Exos downregulate MAGED4B and CDH1, reduce E-cadherin expression, and upregulate vimentin, promoting epithelial-mesenchymal transition (EMT). Overexpression of MAGED4B reverses these effects and inhibits malignant behaviors. Furthermore, ADSCs-Exos increase organoid viability and confirm key protein changes. These findings demonstrate that ADSCs-Exos promote EC progression via the MAGED4B/CDH1/EMT axis.",
+        "source": "PubMed",
+        "doi": "10.1007/s10735-026-10757-8",
+        "keyword": "Exosomes",
+        "title_ja": "脂肪由来幹細胞エクソソームはMAGED4B/CDH1/EMT軸を介して子宮内膜癌の進行を促進する",
+        "summary_ja": "脂肪由来幹細胞エクソソーム（ADSCs-Exos）は、子宮内膜癌（EC）細胞の増殖、遊走、浸潤を促進する。その機序として、ADSCs-ExosはMAGED4BとCDH1をダウンレギュレーションし、E-カドヘリン発現を減少させ、ビメンチンをアップレギュレーションすることで上皮間葉転換（EMT）を誘導する。MAGED4Bの過剰発現はこれらの作用を逆転させ、悪性形質を抑制する。さらに、ADSCs-Exosはオルガノイド生存率を上昇させ、主要なタンパク質変化を確認した。これらの知見は、ADSCs-ExosがMAGED4B/CDH1/EMT軸を介してECの進行を促進することを示している。"
+      },
+      {
+        "title": "Knockdown of SOX4 attenuates sepsis myocardial injury by inhibiting the EZH2/H3K27me3/SOCS3 axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41803420/",
+        "abstract": "Inhibition of SOX4 has been reported to ameliorate myocardial ischemic injury, yet its role in sepsis myocardial injury remains unknown. To explore the protective effects and mechanisms of SOX4 inhibition in septic myocardial injury. AC16 cardiomyocytes were exposed to LPS to mimic sepsis-induced myocardial injury. Cell viability was measured by CCK-8 assay, apoptosis by flow cytometry and TUNEL staining, and apoptosis-related proteins by western blot. The connection between SOX4 and EZH2 was validated using co-immunoprecipitation (co-IP) assay and immunofluorescence. Additionally, chromatin immunoprecipitation (ChIP) was employed to detect the enrichment of H3K27me3 in SOCS3 promoter region. The results showed that SOX4 and EZH2 were significantly elevated in septic patients, and their expression levels were positively correlated. In LPS-treated AC16 cardiomyocytes, the expressions of SOX4 and EZH2 increased, while the expression of SOCS3 decreased. Knockdown of SOX4 enhanced AC16 cell viability and inhibited LPS-induced apoptosis. SOX4 and EZH2 colocalized within AC16 cells, and co-IP assays confirmed their interaction. Elevated EZH2 expression reduced the protective impact of SOX4 knockdown in AC16 cells. Silencing EZH2 reduced the enrichment of H3K27me3 in SOCS3 promoter region and thereby promoting SOCS3 expression. Overexpression of SOCS3 promoted AC16 cell survival and partially reversed the damaging effect of EZH2 overexpression on cell survival. Animal experiments confirmed that knockdown of SOX4 attenuated myocardial injury in CLP sepsis mouse model. Knockdown of SOX4 reduces the H3K27me3 methylation level of the SOCS3 promoter by inhibiting EZH2 expression, thereby promoting SOCS3 expression and attenuating myocardial injury.",
+        "source": "PubMed",
+        "doi": "10.1007/s00335-026-10206-7",
+        "keyword": "Exosomes",
+        "title_ja": "SOX4ノックダウンはEZH2/H3K27me3/SOCS3軸を阻害することで敗血症性心筋障害を軽減する",
+        "summary_ja": "SOX4ノックダウンは、敗血症性心筋障害を軽減する。その機序として、SOX4はEZH2と相互作用し、EZH2を介してH3K27me3をSOCS3プロモーター領域に蓄積させ、SOCS3発現を抑制する。SOX4を抑制すると、このEZH2/H3K27me3/SOCS3軸が阻害され、SOCS3発現が促進される。その結果、心筋細胞のアポトーシスが抑制され、細胞生存が向上し、敗血症性心筋障害が軽減されることが、LPS処理心筋細胞およびCLPマウスモデルで確認された。"
+      },
+      {
+        "title": "External Magnetic Field-Modulated Bi@SiO",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41801684/",
+        "abstract": "In this work, we developed an external magnetic field-modulated plasmonic bilayer metasurface based on localized surface plasmon resonance (LSPR) of Bi@SiO",
+        "source": "PubMed",
+        "doi": "10.1021/acssensors.5c04670",
+        "keyword": "Exosomes",
+        "title_ja": "外部磁場変調型Bi@SiO",
+        "summary_ja": "本論文では、外部磁場変調型プラズモニック二層メタ表面を開発した。これは、Bi@SiO₂ナノ粒子の局在表面プラズモン共鳴（LSPR）を基盤としている。外部磁場を印加することで、メタ表面の光学応答を動的に制御・変調できることが特徴である。このアプローチは、磁気光学効果とプラズモニクスを融合させ、センシングや光変調デバイスへの応用が期待される。"
+      },
+      {
+        "title": "Umbilical Cord Mesenchymal Stem Cell-Derived Exosomes Ameliorates Testicular injury to improve spermatogenic disorder through PRDX1/TRAF6/TGFβ signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41801482/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s10238-026-02110-w",
+        "keyword": "Exosomes",
+        "title_ja": "臍帯間葉系幹細胞由来エクソソームはPRDX1/TRAF6/TGFβシグナル経路を介して精巣損傷を改善し、精子形成障害を回復させる",
+        "summary_ja": "**要約：**\n\n本論文は、臍帯間葉系幹細胞由来エクソソーム（UCMSC-Exos）が、PRDX1/TRAF6/TGFβシグナル経路を介して精巣損傷を改善し、造精障害を回復させる機序を報告する。実験では、精巣損傷モデルマウスにUCMSC-Exosを投与した結果、精子形成の回復と酸化ストレス・炎症の抑制が確認された。分子機序として、エクソソームがPRDX1を標的細胞に移行させ、TRAF6のユビキチン化を抑制。これによりTGFβシグナルが減衰し、炎症性サイトカイン産生が低下して精巣環境が改善され、造精機能が向上すると結論づけた。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Engineered MSC‐sEVs as a Versatile Nanoplatform for Enhanced Osteoarthritis Treatment via Targeted Elimination of Senescent Chondrocytes and Maintenance of Cartilage Matrix Metabolic Homeostasis",
+        "url": "https://www.semanticscholar.org/paper/4cbc9e2245b9c04cfcbb20de83b14b0b2b223ff2",
+        "abstract": "Chondrocyte senescence is an important pathogenic factor causing osteoarthritis (OA) progression through persistently producing pro‐inflammatory factors. Mesenchymal stem cells‐derived small extracellular vesicles (MSC‐sEVs) have shown anti‐inflammatory effects in OA models, while persistent existence of senescent chondrocytes still promotes cartilage destruction. Therefore, improving the targeted elimination ability on senescent chondrocytes is required to facilitate the translation of MSC‐sEVs in OA treatment. In this study, versatile engineered MSC‐sEVs are developed to targetedly clear senescent chondrocytes and maintain cartilage metabolic homeostasis. Specifically, MSC‐sEVs are loaded with siRNA mouse double minute 2 homologue (siMDM2) and modified with cartilage‐targeting peptide WYRGRL‐PEG2K‐DSPE (WPD), named WPD‐sEVssiMDM2. The results demonstrate versatile modification improves the cellular uptake of MSC‐sEVs in chondrocytes, and thus improves the antiaging effects. Importantly, multifunctional modification enhances cartilage penetration ability and extends joint retention time of MSC‐sEVs. In both post‐traumatic OA mice and naturally aged mice, WPD‐sEVssiMDM2 more effectively eliminates senescent chondrocytes and maintained matrix metabolic homeostasis. By using the P53 phosphorylation inhibitor, the essential role MDM2‐P53 pathway in the antiaging function of WPD‐sEVssiMDM2 on chondrocytes is verified. In ex vivo cultured human OA cartilage explants, it is confirmed that WPD‐sEVssiMDM2 alleviates senescent phenotype. Altogether, the findings suggest that WPD‐sEVssiMDM2 have promising translational potential for OA treatment.",
+        "source": "SemanticScholar",
+        "doi": "10.1002/advs.202413759",
+        "keyword": "sEVs",
+        "title_ja": "エンジニアリングされたMSC-sEVsを多機能ナノプラットフォームとして活用し、老化軟骨細胞の標的除去と軟骨基質代謝恒常性の維持による変形性関節症治療の強化",
+        "summary_ja": "本論文は、変形性関節症(OA)治療のための新規ナノプラットフォームとして、多機能化改変を施した間葉系幹細胞由来小型細胞外小胞(MSC-sEVs)を開発した研究である。OAの進行要因である老化軟骨細胞を標的除去し、軟骨基質代謝恒常性を維持することを目的とする。具体的には、siMDM2を封入し、軟骨標的ペプチド(WPD)で修飾した「WPD-sEVssiMDM2」を創製した。この改変により、軟骨細胞への取り込み促進、軟骨浸透性・関節内滞留時間の向上、老化細胞の除去効果が増強された。マウスOAモデルおよびヒトOA軟骨外植片において、MDM2-P53経路を介した抗老化作用と軟骨保護効果が確認され、臨床応用の可能性が示された。"
+      },
+      {
+        "title": "Cardiac fibroblast-derived mitochondria-enriched sEVs regulate tissue inflammation and ventricular remodeling post-myocardial infarction through NLRP3 pathway.",
+        "url": "https://www.semanticscholar.org/paper/5853a1f8ae761960667ea0a676d68e1d2a0adbe6",
+        "abstract": "Resident cardiac fibroblasts (CFs) play crucial roles in sensing injury signals and regulating inflammatory responses post-myocardial infarction (MI). Damaged mitochondria can be transferred extracellularly via various mechanisms, including extracellular vesicles (EVs). In this study, we aimed to investigate whether CFs could transfer damaged mitochondrial components via small EVs (sEVs) and elucidate their role in regulating inflammatory responses post-MI. Left anterior descending coronary artery ligation was performed in mice. Mitochondrial components in sEVs were detected using nanoflow cytometry. Differential protein expression in sEVs from normoxia and normoglycemia CFs (CFs-Nor-sEVs) and CFs post oxygen-glucose deprivation (CFs-OGD-sEVs) was identified using label-free proteomics. CFs-sEVs were co-cultured with mouse bone marrow-derived macrophages (BMDMs) to assess macrophage inflammatory responses. Effects of intramyocardial injection of CFs-sEVs were assessed in MI mice in the absence or presence of NLRP3 inhibitor CY-09. Results demonstrated that mitochondrial components were detected in CFs-derived sEVs post-MI. Damaged mitochondrial components were enriched in CFs-OGD-sEVs (CFs-mt-sEVs), which promoted pro-inflammatory phenotype activation of BMDMs in vitro. Myocardial injection of CFs-mt-sEVs enhanced tissue inflammation, aggravated cardiac dysfunction, and exacerbated maladaptive ventricular remodeling post-MI in vivo. Mechanistically, above effects were achieved via activation of NLRP3 and above effects could be reversed by NLRP3 inhibitor CY-09. This study indicates that CFs could transfer damaged mitochondrial components via the sEVs post-MI, promote macrophage inflammatory activation and exacerbate maladaptive ventricular remodeling post MI by activating NLRP3. Our findings highlight the potential therapeutic effects of inhibiting CFs-mt-sEVs and NLRP3 to improve cardiac function and attenuate ventricular remodeling post-MI.",
+        "source": "SemanticScholar",
+        "doi": "10.1016/j.phrs.2025.107676",
+        "keyword": "sEVs",
+        "title_ja": "心臓線維芽細胞由来のミトコンドリア豊富sEVsは、NLRP3経路を介して心筋梗塞後の組織炎症と心室リモデリングを調節する。",
+        "summary_ja": "心臓線維芽細胞（CFs）は、心筋梗塞（MI）後の損傷シグナルを感知し炎症応答を調節する。本研究では、CFsが酸素・グルコース欠乏後に放出する小型細胞外小胞（sEVs）に損傷ミトコンドリア成分が濃縮され（CFs-mt-sEVs）、これがマクロファージの炎症性活性化を促進することを示した。心筋内投与により、CFs-mt-sEVsは組織炎症を増強し、心機能障害と不適応的心室リモデリングを悪化させた。この作用はNLRP3経路の活性化を介しており、NLRP3阻害剤CY-09で抑制可能であった。CFs-mt-sEVsとNLRP3の阻害は、MI後の心機能改善と心室リモデリング軽減の治療標足となる可能性がある。"
+      },
+      {
+        "title": "Optimized Tangential Flow Filtration for Efficient Isolation of Highly Pure and Bioactive sEVs.",
+        "url": "https://www.semanticscholar.org/paper/faf405375c0be75f5f05e10864eb77dacf3534aa",
+        "abstract": "Small extracellular vesicles (sEVs) have demonstrated significant therapeutic potential. However, the lack of efficient and scalable methods for sEV separation remains a critical barrier to their large-scale production as therapeutic agents. Tangential flow filtration (TFF) has emerged as a promising technique for large-scale sEV separation, but the absence of comprehensive and systematic studies makes it challenging to determine optimal TFF parameters for sEV isolation. In this study, we investigated the effects of key TFF parameters, including shear stress, molecular weight cutoff (MWCO), transmembrane pressure (TMP), and washing-filtration cycles, on sEVs separation and impurity removal. We evaluated particle concentration, size distribution, morphology, chemical properties, fluorescence, and protein content to assess the impact of these parameters. The results revealed that excessive shear stress (>9.05 Pa) during TFF led to protein aggregation and sEV damage. Using a filter membrane with an MWCO of 750 kDa and maintaining TMP between 3 and 5 psi prevented sEV leakage and achieved moderately high filtration efficiency. Based on these findings, optimal TFF parameters were identified. sEVs isolated using optimized TFF conditions (TFF-sEVs) were then compared with sEVs isolated via ultracentrifugation (UC-sEVs). TFF-sEVs exhibited comparable physical properties and purity to UC-sEVs but demonstrated superior proliferation-promoting activity and a 3-fold higher recovery rate. Quantitative proteomic analysis revealed that TFF-sEVs were enriched with extracellular vesicle membrane proteins and corona proteins, contributing to their enhanced bioactivity. In summary, optimizing TFF parameters enables efficient purification of sEVs, balancing purity, recovery, and bioactivity, paving the way for scalable production of sEVs and accelerating the clinical translation of sEV-based therapeutics.",
+        "source": "SemanticScholar",
+        "doi": "10.1021/acs.analchem.5c03781",
+        "keyword": "sEVs",
+        "title_ja": "高純度で生物活性の高いsEVsを効率的に単離するための最適化接線流ろ過法",
+        "summary_ja": "**要約**\n小胞外小胞（sEVs）は治療応用の可能性が高いが、効率的な分離法の確立が課題である。接線流ろ過（TFF）は有望な手法だが、最適条件は不明だった。本研究では、せん断応力、分子量分画（MWCO）、膜間圧力（TMP）等のTFFパラメータがsEVsの分離・精製に及ぼす影響を検証した。その結果、過剰なせん断応力はsEVsを損傷し、MWCO 750 kDaの膜とTMP 3-5 psiの条件が高効率でsEVsの漏出を防ぐことを明らかにした。最適化TFFで分離したsEVsは、超遠心法と同等の純度でありながら、回収率が3倍高く、増殖促進活性に優れていた。これは、膜タンパク質やコロナタンパク質の保持によるものである。TFFの最適化は、sEVsの純度・回収率・生物活性を両立させ、臨床応用に向けた規模拡大を可能にする。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n1. **CAR-NK細胞療法の固形腫瘍への応用と課題**：CAR-T療法の限界を克服する次世代免疫療法として期待される。同種使用が可能で安全性が高く、自然免疫を活かせる利点があるが、生体内持続性や腫瘍浸潤性の向上が今後の課題である。\n\n2. **IREとCAR-NKの相乗効果による肝細胞癌治療**：不可逆的電気穿孔法(IRE)が免疫原性細胞死を誘導し、免疫抑制性腫瘍微小環境を再構築。これによりCAR-NK細胞の抗腫瘍効果が増強され、新たな併用療法の可能性を示す。\n\n3. **アデノシンによるNK細胞機能抑制の機序解明**：高悪性度漿液性卵巣癌において、免疫抑制代謝物アデノシンがNKG2A/HLA-E相互作用を介してCD16low NK細胞の応答を抑制。この経路の阻害が新たな治療戦略となる。\n\n4. **心筋梗塞後の心臓線維芽細胞由来sEVsの役割**：損傷ミトコンドリアを含むsEVsがNLRP3経路を活性化し、炎症と心室リモデリングを促進。sEVsを標的とした治療介入の可能性を示す重要な知見である。\n\n5. **sEVsの効率的な分離法の最適化**：治療応用に向けた高純度・高活性sEVsの分離が課題。接線流ろ過(TFF)のパラメーター最適化により、収量と品質を両立する方法を探る研究は、臨床転換に不可欠である。"
+}

@@ -1,0 +1,195 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "EXPRESSION OF CONCERN: PAI-1 Induction during Kidney Injury Promotes Fibrotic Epithelial Dysfunction via Deregulation of Klotho, p53, and TGF-β1-Receptor Signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41811301/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1096/fsb2.71664",
+        "keyword": "Klotho",
+        "title_ja": "懸念表明：腎損傷時のPAI-1誘導はKlotho、p53、およびTGF-β1受容体シグナル伝達の制御異常を介して線維化性上皮機能障害を促進する",
+        "summary_ja": "【要約】\n本論文は、腎障害時のPAI-1誘導が、Klotho、p53、TGF-β1受容体シグナリングの制御異常を介して、線維化を伴う上皮機能障害を促進する機序についての懸念表明である。具体的には、PAI-1の上昇が抗老化・保護因子であるKlothoを抑制し、一方でp53とTGF-β1シグナルを活性化させることで、腎臓の上皮細胞が異常な線維化表現型（上皮間葉転換様変化）に陥り、慢性腎臓病の進行を促進するという新たな病理経路を提唱している。"
+      },
+      {
+        "title": "The ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41810430/",
+        "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is the most common cause of chronic liver disease worldwide, paralleling the rising prevalence of obesity. We previously reported that the rs17618244 variant in the Klotho-beta (",
+        "source": "PubMed",
+        "doi": "10.1016/j.jhepr.2025.101717",
+        "keyword": "Klotho",
+        "title_ja": "ザ・",
+        "summary_ja": "**タイトル: The**\n\n**要約:**\nMetabolic dysfunction-associated steatotic liver disease (MASLD)は、肥満の増加と並行して世界的に最も一般的な慢性肝疾患である。本研究では、Klotho-beta (KLB)遺伝子のrs17618244変異体が、肝臓のKLB発現を低下させ、MASLDのリスクを増加させることを以前報告した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Icaritin Sensitizes Hepatocellular Carcinoma to PD-L1 Therapy by NQO1-Dependent Ferroptosis Induction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41806164/",
+        "abstract": "Hepatocellular carcinoma (HCC) remains challenging with limited immunotherapy response. Despite its clinical promise in advanced HCC, the mechanisms of icaritin, especially concerning ferroptosis induction and immune modulation, remain elusive. This study aims to determine if the antitumor effect of icaritin involves the induction of ferroptosis via NAD(P)H quinone oxidoreductase 1 (NQO1) and if it can augment the efficacy of programmed cell death 1 ligand 1 (PD-L1) therapy by potentiating natural killer (NK) cell activity. Using human HCC cell lines (Huh7, Hep3B, PLC/PRF/5, SNU-449, and MHCC97-H) and two synergistic mouse models (Hepa1-6 and SgPten/c-Met), we examined icaritin's inhibition of tumor growth and induction of ferroptosis via the NQO1 pathway, monitoring key markers (reactive oxygen species [ROS], glutathione peroxidase 4 [GPX4], ferritin heavy chain 1 [FTH1]). The NQO1 inhibitor dicoumarol was employed to validate the pathway. Tumor microenvironment (TME) remodeling was assessed through cancer-associated fibroblasts (CAFs) markers and immune cell profiling, focusing on NK cell infiltration. Combination therapy with anti-PD-L1 was tested in vivo. Icaritin significantly inhibited HCC growth in vitro and in vivo. Its antitumor effect was mediated by NQO1-mediated ferroptosis, via elevated ROS, diminished mitochondrial membrane potential, and downregulated GPX4 and FTH1. Analysis of The Cancer Genome Atlas (TCGA) data revealed that NQO1 is overexpressed in human HCC tissues. Icaritin enhanced NK cell infiltration while reducing CAF abundance and suppressing recombinant focal adhesion kinase (FAK) and discoidin domain receptor 1 (DDR1) signaling. Notably, icaritin synergized with anti-PD-L1 therapy to enhance tumor suppression without increasing toxicity, correlating with potentiated NK cell immunity. Our findings demonstrate that icaritin triggered NQO1-mediated ferroptosis and remodeled TME to enhance NK cell recruitment and PD-L1 therapy efficacy. This provides rationale for evaluating icaritin-based combination immunotherapy in HCC through dual action on ferroptosis and NK cell activation.",
+        "source": "PubMed",
+        "doi": "10.1002/ptr.70230",
+        "keyword": "NK cell therapy",
+        "title_ja": "イカリチンはNQO1依存性フェロトーシス誘導を介して肝細胞癌のPD-L1療法への感受性を高める。",
+        "summary_ja": "本論文は、肝細胞癌（HCC）におけるイカリチンの抗腫瘍機序を解明した。イカリチンは、NAD(P)Hキノン酸化還元酵素1（NQO1）を介してフェロトーシス（脂質過酸化による細胞死）を誘導し、活性酸素種（ROS）上昇、GPX4/FTH1発現低下を引き起こすことでHCC増殖を抑制した。さらに、腫瘍微小環境（TME）を再構築し、癌関連線維芽細胞（CAF）を減少させてナチュラルキラー（NK）細胞の浸潤を促進。これにより、抗PD-L1療法との相乗効果を発揮し、毒性を増すことなく腫瘍抑制効果を高めた。イカリチンは、NQO1依存的なフェロトーシス誘導とNK細胞活性化の二重作用により、HCC免疫療法の効果増強が期待される。"
+      },
+      {
+        "title": "Decoding B Cell Signatures of Complete Pathological Response to Perioperative Chemoimmunotherapy in Non-Small Cell Lung Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41805895/",
+        "abstract": "Complete pathological response (CPR) correlates with long-term survival after perioperative chemoimmunotherapy (ChIO) in resectable non-small cell lung cancer (NSCLC). We provide a multiomic characterization of B cells and tertiary lymphoid structures (TLS) to dissect the immune landscape associated with CPR.",
+        "source": "PubMed",
+        "doi": "10.1158/1078-0432.CCR-25-3315",
+        "keyword": "NK cell therapy",
+        "title_ja": "非小細胞肺癌における周術期化学免疫療法への完全病理学的反応のB細胞シグネチャー解読",
+        "summary_ja": "本論文は、切除可能非小細胞肺癌（NSCLC）において、周術期化学免疫療法（ChIO）後の完全病理学的奏効（CPR）が長期生存と相関することを背景に、CPRに関連する免疫環境を解明するため、B細胞と三次リンパ様構造（TLS）のマルチオミクス解析を行った。その結果、CPR症例では、活性化されたB細胞や特定のTLS成熟段階の特徴など、抗腫瘍免疫応答に関与する特異的なB細胞シグネチャーが同定された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosomal Lnc-DLK1-35 reprograms microglia into a pro-tumorigenic phenotype via a non-canonical cytokine signature to promote glioblastoma progression and chemoresistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41811084/",
+        "abstract": "Temozolomide (TMZ) resistance in glioblastoma (GBM) involves dynamic crosstalk of cancer cells with tumor-associated microglia, but the role of exosomal long non-coding RNAs (lncRNAs) remains poorly defined.",
+        "source": "PubMed",
+        "doi": "10.5603/fhc.109684",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム由来Lnc-DLK1-35は非典型サイトカインシグネチャーを介してミクログリアを腫瘍促進型へ再プログラミングし、膠芽腫の進行と化学療法耐性を促進する",
+        "summary_ja": "**要約：**\nグリオブラストーマ（GBM）におけるテモゾロミド（TMZ）耐性には、がん細胞と腫瘍関連ミクログリアの相互作用が関与する。本論文は、GBM細胞が分泌するエクソソーム中の長鎖ノンコーディングRNA「Lnc-DLK1-35」に着目。このRNAはミクログリアに取り込まれ、非古典的サイトカインシグネチャーを誘導することで、ミクログリアを前腫瘍表現型へ再プログラミングする。その結果、腫瘍増殖の促進とTMZ化学療法耐性が引き起こされ、GBMの悪性化に寄与することを明らかにした。"
+      },
+      {
+        "title": "Understanding the role of regulatory T cell-derived small extracellular vesicles in suppression of anti-tumor immune response: Key to advancing cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41810879/",
+        "abstract": "Regulatory T cells (Tregs) represent a distinct T cell subpopulation crucial for preserving immune homeostasis. Their primary function is to facilitate self-tolerance and suppress other immune responses, achieved through multifaceted mechanisms, including the secretion of extracellular vesicles (EVs) such as exosomes, which effectively modulate the activity of other innate and adaptive immune cells. Treg-derived extracellular vesicles (Treg-EVs) are minute, membrane-bound vesicles containing specific biological molecules, comprising proteins, nucleic acids, and lipids. Upon transfer to target cells, these molecules exert diverse effects on immune responses. The Treg-mediated immune suppression process encompasses several contact-dependent and contact-independent mechanisms. These encompass the expression of various inhibitory receptors, such as CTLA-4, PD-1, CD39, and CD73, which serve to regulate the immune response. Furthermore, Tregs exhibit the capacity to directly eliminate target cells through the expression of perforin and granzyme B. Additionally, Tregs produce immunosuppressive cytokines that play a pivotal role in maintaining immune system equilibrium. Studying the impact of Treg-derived exosomes on the immune system in cancer is crucial for advancing cancer research and treatment. Understanding these interactions is vital for unraveling the potential implications for cancer development and progression.",
+        "source": "PubMed",
+        "doi": "10.1080/08830185.2026.2631464",
+        "keyword": "Exosomes",
+        "title_ja": "制御性T細胞由来小型細胞外小胞による抗腫瘍免疫応答抑制機構の解明：がん免疫療法の進展に向けた鍵",
+        "summary_ja": "**要約：**\n制御性T細胞（Treg）は免疫恒常性を維持するT細胞亜集団であり、抗腫瘍免疫応答を抑制する。その多様な抑制機構の一つが、エクソソームなどの細胞外小胞（Treg-EV）の分泌である。Treg-EVはタンパク質、核酸、脂質を含み、標的細胞に移行して免疫応答を調節する。Tregはまた、CTLA-4やPD-1などの抑制性受容体の発現、パーフォリン/グランザイムBを介した細胞傷害、免疫抑制性サイトカイン産生により免疫を抑制する。がん免疫療法の進展には、Treg-EVが腫瘍微小環境で免疫系に与える影響の解明が重要である。"
+      },
+      {
+        "title": "CircEif3c/miR-96-5p/PHF20L1/MEOX2 axis in perivascular preadipocyte exosomes mediates fibroblast dysfunction and vascular remodeling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41809968/",
+        "abstract": "Diabetes mellitus is a major modifiable risk factor for atherosclerotic cardiovascular disease and pathological vascular remodeling. During chronic hyperglycemia, exosomes serve as essential nanocarriers that coordinate intercellular communication and induce structural and functional alterations in the vascular wall. Perivascular pre-adipocytes (PVPACs) exhibit high exosome secretory activity, while adventitial fibroblasts (AFs) are key effector cells in vascular remodeling. Despite their anatomical proximity, the potential bidirectional crosstalk between PVPAC-derived exosomes and AFs, and its roles for vascular remodeling, remains largely unexplored.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ncrna.2026.01.006",
+        "keyword": "Exosomes",
+        "title_ja": "血管周囲前駆脂肪細胞エクソソームにおけるCircEif3c/miR-96-5p/PHF20L1/MEOX2軸は、線維芽細胞機能不全と血管リモデリングを媒介する。",
+        "summary_ja": "糖尿病は動脈硬化性心血管疾患と病的血管リモデリングの主要な修正可能な危険因子である。慢性高血糖下では、エクソソームが細胞間コミュニケーションを調整し、血管壁の構造的・機能的変化を誘導する。血管周囲前駆脂肪細胞（PVPAC）は高いエクソソーム分泌活性を示し、外膜線維芽細胞（AF）は血管リモデリングの重要なエフェクター細胞である。両者の解剖学的近接にもかかわらず、PVPAC由来エクソソームとAF間の双方向クロストークと血管リモデリングへの役割は未解明である。本論文は、CircEif3c/miR-96-5p/PHF20L1/MEOX2軸が、PVPACエクソソームを介した線維芽細胞機能不全と血管リモデリングを媒介することを明らかにした。"
+      },
+      {
+        "title": "Preparation of covalent organic frameworks coated with cell membranes for precise analysis of cancer exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41808546/",
+        "abstract": "In this study, we have developed an electrochemical biosensor based on cell membrane-coated covalent organic frameworks for the selective detection of homologous exosomes. The biosensor can achieve a detection limit as low as 27 particles per µL. Moreover, it can effectively differentiate serum samples from patients with triple-negative breast cancer and luminal A breast cancer subtypes.",
+        "source": "PubMed",
+        "doi": "10.1039/d6cc00954a",
+        "keyword": "Exosomes",
+        "title_ja": "がんエクソソームの精密分析のための細胞膜コーティング共有結合性有機構造体の調製",
+        "summary_ja": "本研究では、細胞膜で被覆した共有結合性有機構造体（COF）を用いた電気化学的バイオセンサーを開発し、相同性エクソソームの選択的検出を実現した。このセンサーは27 particles/µLという低い検出限界を達成し、さらに三重陰性乳癌とルミナルA型乳癌患者の血清サンプルを効果的に識別できる。細胞膜コーティングにより高い選択性を付与し、癌サブタイプの精密分析への応用可能性を示した。"
+      },
+      {
+        "title": "The role of natural and engineered exosomes in repairing damage to the nervous system.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41808084/",
+        "abstract": "Following neurological injury, neuronal cell death and neuroinflammation mutually reinforce each other, further exacerbating neurological damage. Concurrently, the blood-brain barrier (BBB) and blood-spinal cord barrier (BSCB) impede drug penetration into the injured region, rendering neurological injury challenging to treat. Natural exosomes can penetrate biological barriers and deliver bioactive molecules to target sites, offering new possibilities for treatment. Engineered modifications further enhance the bioactivity and targeting capabilities of exosomes. Both natural and engineered exosomes, as a cell-free therapy, hold great promise for applications in the repair of neurological injuries. This review summarizes exosomes from different cellular sources and their engineering strategies, discusses the neuroinflammatory regulation and neuroprotective effects of natural and engineered exosomes, reviews the current status of exosome clinical research and key areas for clinical translation, with the aim of providing new insights for the clinical treatment and research of neural injury.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04268-7",
+        "keyword": "Exosomes",
+        "title_ja": "自然由来および人工エクソソームの神経系損傷修復における役割",
+        "summary_ja": "神経損傷後、神経細胞死と神経炎症は相互に増幅し、損傷を悪化させる。一方、血液脳関門（BBB）等が薬剤の到達を阻害し、治療を困難にしている。天然エクソソームは生体障壁を透過し、生理活性分子を標的部位へ届ける新たな治療可能性を提供する。さらに工学的修飾により、その生物活性と標的指向性が強化される。細胞を用いない治療法として、天然・人工エクソソームは神経損傷修復への応用が大きく期待される。本総説は、様々な細胞由来のエクソソームとその工学戦略をまとめ、神経炎症調節・神経保護効果を論じ、臨床研究の現状と実用化の課題を概説し、神経損傷の治療・研究に新たな視点を提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Rethinking Extracellular Vesicle Signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41811152/",
+        "abstract": "Extracellular vesicles mediate intercellular communication through transport of bioactive cargo from producing to recipient cells. Cellular uptake and subsequent cytoplasmic release of internal cargo is often emphasized as the main mechanism of extracellular vesicle-mediated signaling. This article highlights two alternate modes of extracellular vesicle signaling based on surface binding without internalization: 'bind-and-stay', and 'bind-and-leave'. The transient binding of extracellular vesicles to multiple cells, inducing downstream signaling in each, challenges the conventional \"one-vesicle-one-cell\" model. We provide a forward-looking perspective on the efficiency and effectiveness of extracellular vesicle signaling modes and outline techniques that could be leveraged to study these interactions moving forward. An improved understanding of extracellular vesicle signaling is necessary for advancing fundamental biology and therapeutic development.",
+        "source": "PubMed",
+        "doi": "10.1002/adma.202522172",
+        "keyword": "Exosomes",
+        "title_ja": "細胞外小胞シグナリングの再考",
+        "summary_ja": "細胞外小胞は、生物活性物質を産生細胞から受容細胞へ輸送し、細胞間コミュニケーションを媒介する。従来は、細胞内取り込みと細胞質内でのカーゴ放出が主要なシグナル伝達機序とされてきた。本論文は、内部取り込みを伴わない新たな二つのシグナルモード「結合・滞留」と「結合・離脱」に着目する。一つの小胞が複数の細胞に一時的に結合し、それぞれで下流シグナルを誘導する可能性は、従来の「一細胞一小胞」モデルに疑問を投げかける。小胞シグナリングの効率と効果を理解することは、基礎生物学と治療法開発の進展に不可欠である。"
+      },
+      {
+        "title": "Therapeutic effects of hypoxia-preconditioned cartilage progenitor cell-exosomes on osteoarthritis through autophagy activation and macrophage polarization modulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41809373/",
+        "abstract": "Osteoarthritis (OA) is a prevalent degenerative joint disease characterized by progressive cartilage loss, pain, and functional disability. While tissue engineering holds promise for cartilage repair, obtaining high-quality seed cells with optimized functional activity remains a bottleneck. Exosomes derived from cartilage progenitor cells (CPCs) have emerged as potent cell-free therapeutic candidates. Here, we demonstrate that exosomes from hypoxia-preconditioned CPCs (H-Exos) possess superior regenerative capabilities compared to their normoxic counterparts. specifically by promoting proliferation and migration while suppressing catabolism in IL-1β-treated ATDC5 cells. Mechanistically, we show that hypoxic preconditioning enriches miR-222-3p in H-Exos, which targets Rab1A to inhibit mTORC1 signaling and restore autophagy, thereby enhancing chondrocyte anabolism. Notably, we also identified a distinct immunomodulatory function: H-Exos were efficiently internalized by macrophages (RAW264.7), driving their polarization toward an anti-inflammatory phenotype via inhibition of the NF-κB signaling pathway. In a rat OA model, intra-articular delivery of a GelMA/H-Exos composite hydrogel significantly attenuated cartilage destruction and subchondral bone remodeling, concomitant with favorable modulation of synovial macrophage polarization. Collectively, this study elucidates a dual protective mechanism-involving the miR-222-3p-Rab1A-mTORC1-autophagy axis and macrophage reprogramming-and presents a promising biomaterial-based strategy for comprehensive OA therapy.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.102961",
+        "keyword": "Exosomes",
+        "title_ja": "低酸素前処理軟骨前駆細胞エクソソームのオートファジー活性化とマクロファージ極性制調節による変形性関節症への治療効果",
+        "summary_ja": "本論文は、低酸素前処理を施した軟骨前駆細胞由来エクソソーム（H-Exos）が、二重の作用機序で変形性関節症（OA）に対して治療効果を示すことを報告する。H-Exosは、miR-222-3pを豊富に含み、これがRab1Aを標的としてmTORC1シグナルを抑制し、オートファジーを回復させることで軟骨細胞の代謝を改善する。さらに、H-Exosはマクロファージに取り込まれ、NF-κBシグナルを抑制して抗炎症型への極性化を誘導する。ラットOAモデルでは、GelMAハイドロゲルと複合化したH-Exosの関節内投与が、軟骨保護と滑膜マクロファージの調節により顕著な治療効果を示した。"
+      },
+      {
+        "title": "Cerebral organoid exosomes reversed behavioral deficits by repressing NLRP3-mediated neuroinflammation in stress models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41809039/",
+        "abstract": "Depression, a highly prevalent neuropsychiatric disorder, involves neuroinflammation in its pathophysiology. Exosomes have emerged as a promising strategy for modulating neuroinflammation, however, the potential of cerebral organoid (CO)-derived exosomes (OExos) in regulating neuroinflammation and their efficacy in treating depression remain unexplored. Using induced pluripotent stem cell-derived cerebral organoids containing neural progenitors, neurons, and glia, we demonstrated through proteomics that OExo modulate depression-associated inflammatory pathways by coordinately regulating NOD-, LRR- and pyrin domain-containing protein 3 (NLRP3) inflammasome cascade. ",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.115069",
+        "keyword": "Exosomes",
+        "title_ja": "脳オルガノイド由来エクソソームはストレスモデルにおいてNLRP3を介した神経炎症を抑制し行動障害を回復させた",
+        "summary_ja": "脳オルガノイド由来エクソソーム（OExos）は、ストレス誘発性うつ病モデルにおいて、NLRP3インフラマソームを介した神経炎症を抑制することで、行動異常を改善する。iPS細胞由来の脳オルガノイドから調製したOExosは、プロテオミクス解析により、うつ病関連炎症経路、特にNLRP3カスケードを協調的に制御することが示された。これにより、神経炎症を伴ううつ病の新規治療戦略としての可能性が示唆される。"
+      },
+      {
+        "title": "Engineering MSC-exosomes for diabetic bone regeneration: from mechanism to delivery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41808198/",
+        "abstract": "The rapidly growing diabetic population is at high risk of dental implant failure due to a disrupted peri-implant immune microenvironment. Mesenchymal stem cells-derived exosomes (MSC-Exos) have emerged as a potent nanotherapeutic platform to remodel this hostile niche. Their mechanisms involve reprogramming macrophage polarization to alleviate inflammation, delivering pro-angiogenic miRNAs to restore vascular-osteogenic coupling, and modulating neuro-immune crosstalk to reestablish homeostasis. Collectively, these actions break the vicious cycle of impaired healing. Furthermore, engineering strategies such as membrane modification, integration with biomaterials, and preconditioning of parent cells can enhance the targeting, stability, and controlled release of MSC-Exos, thereby improving osseointegration outcomes in diabetic models. These engineering innovations, which focus on precise delivery and controlled release, are as critical to therapeutic development as elucidating the underlying biological mechanisms. This review systematically delineates the mechanisms by which MSC-Exos recalibrate the diabetic bone immune niche to foster osseointegration and critically discusses the clinical translation prospects of engineered exosome-based therapies.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-04957-y",
+        "keyword": "Exosomes",
+        "title_ja": "糖尿病性骨再生のためのMSCエクソソーム工学：メカニズムから送達まで",
+        "summary_ja": "糖尿病性骨再生におけるMSC-エクソソームの応用について、その機序とデリバリー戦略を概説する。糖尿病患者ではインプラント周囲の免疫微小環境の破綻により治癒不全リスクが高い。間葉系幹細胞由来エクソソーム（MSC-Exos）は、マクロファージの極性を再プログラミングして炎症を軽減し、血管新生・骨形成カップリングを回復するmiRNAを運搬し、神経・免疫クロストークを調節することで、この環境を再構築するナノ治療プラットフォームである。さらに、膜修飾、バイオマテリアルとの複合化、親細胞のプレコンディショニングなどの工学的戦略により、標的指向性、安定性、制御放出性を高め、オッセオインテグレーションの改善が期待される。治療開発には、基礎機序の解明と並び、こうした精密なデリバリー技術の進展が不可欠である。"
+      },
+      {
+        "title": "3D-bioprinted mesenchymal stem cell-derived exosomes reprogram macrophages via PI3K/AKT to accelerate nerve regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41808118/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-07845-4",
+        "keyword": "Exosomes",
+        "title_ja": "3Dバイオプリントされた間葉系幹細胞由来エクソソームは、PI3K/AKT経路を介してマクロファージを再プログラミングし、神経再生を促進する。",
+        "summary_ja": "**要約：**\n本研究では、3Dバイオプリント技術を用いて、間葉系幹細胞（MSC）由来エクソソームを内包する足場を構築した。この足場は、損傷部位のマクロファージを、炎症促進型（M1）から抗炎症・修復促進型（M2）へと再プログラミング（極性転換）させた。その分子メカニズムは、エクソソームがマクロファージ内のPI3K/AKTシグナル経路を活性化することによる。このマクロファージの機能変化により、坐骨神経損傷モデルにおける神経再生と機能回復が著しく促進された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. エクソソームによる腫瘍微小環境再編成 (Lnc-DLK1-35)**\nGBM細胞が分泌するエクソソーム中のLnc-DLK1-35が、ミクログリアを腫瘍促進型へ再教育し、化学療法耐性を誘導する。腫瘍免疫抑制環境の新規メカニズムとして、治療抵抗性克服の標的となる。\n\n**2. 制御性T細胞由来sEVsの免疫抑制機能**\nTreg細胞が分泌するsEVsが抗腫瘍免疫応答を抑制する新たな機構。がん免疫療法の効果を阻害する要因として注目され、Treg-EVの機能阻害は次世代免疫療法開発の鍵となる。\n\n**3. エクソソームの新たなシグナル伝達モード「Rethinking EV Signaling」**\nEVの作用機序として、従来の細胞内取り込みに加え、細胞表面受容体との「結合依存性シグナル」や膜融合による「膜成分交換」が提唱された。EV生物学のパラダイムシフトであり、治療応用の基盤的理解を革新する。\n\n**4. 低酸素前処理エクソソーム (H-Exos) による変形性関節症治療**\n低酸素前処理を施した軟骨前駆細胞エクソソームが、オートファジー活性化とマクロファージ極性調節を介して変形性関節症を改善。細胞治療に代わる、品質管理が容易な無細胞治療プラットフォームとして期待される。\n\n**5. 脳オルガノイド由来エクソソームによる神経炎症抑制**\niPS細胞由来脳オルガノイドから産生されたエクソソームが、NLRP3インフラマソームを抑制し、うつ病様行動を改善。血液脳関門を透過するドラッグデリバリーシステムとして、神経変性疾患治療への応用が期待される。"
+}

@@ -1,0 +1,197 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Circulating markers of biological aging associated with obstructive sleep apnea or insomnia in adults: A systematic review and meta-analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41655394/",
+        "abstract": "Obstructive sleep apnea (OSA) and insomnia could accelerate biological aging through pathways including oxidative stress and systemic inflammation. This systematic review aimed to determine the association of sleep disorders with circulating markers of biological aging. We searched MEDLINE, Embase, CINAHL, Cochrane, PsycINFO from inception to October 2024. Eligibility criteria included full manuscript English studies on adult humans examining OSA or insomnia and circulating markers of aging. Of the 1839 deduplicated records screened, 49 full-text studies were eligible for inclusion. Included studies ranged from poor to good quality and assessed telomere length (TL), DNA methylation clocks (epigenetics), mitochondrial alterations, sirtuin levels and activity, autophagy protein levels, and klotho gene expression. Telomeres were the most extensively studied marker, with our findings showing a significant association between TL and OSA, based on both unadjusted and adjusted values (SMD = -0.451, 95% CI: 0.688 to -0.215, p = 0.0026 and SMD = -3.01, 95% CI: 4.98 to -1.04, p = 0.033, respectively). Most studies linked insomnia and poor sleep quality to shorter TL. Although evidence for other aging biomarkers was more limited, the published literature supports the role of OSA and insomnia in accelerating biological aging, especially for telomere length.",
+        "source": "PubMed",
+        "doi": "10.1016/j.smrv.2026.102255",
+        "keyword": "Klotho",
+        "title_ja": "成人における閉塞性睡眠時無呼吸または不眠症に関連する生物学的老化の循環マーカー：系統的レビューとメタ分析",
+        "summary_ja": "閉塞性睡眠時無呼吸症候群（OSA）および不眠症は、酸化ストレスや全身性炎症などを介して生物学的老化を加速させる可能性がある。本システマティックレビューは、睡眠障害と循環老化バイオマーカーの関連を評価した。2024年10月までの文献を検索し、49研究を対象とした。テロメア長（TL）が最も多く研究され、OSAとTL短縮との間に統計的有意な関連が確認された（調整後SMD=-3.01, p=0.033）。不眠症や睡眠の質の低下もTL短縮と関連していた。他のバイオマーカー（エピジェネティック時計など）のエビデンスは限定的だが、OSAと不眠症が生物学的老化、特にテロメア長を促進する役割を支持する結果が得られた。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Design, synthesis and preclinical evaluation of a tumor extracellular nucleotidase CD73 targeted theranostic radiotracer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41774990/",
+        "abstract": "High levels of adenosine are often associated with immunosuppression in malignant tumors, acting through adenosine receptors to inhibit the functions of T cells and NK cells. The ectonucleotidase CD73, as a key enzyme that catalyzes adenosine monophosphate to adenosine, plays an important role in the tumor immune microenvironment and promotes resistance to immune checkpoint blockade, and thus was regarded as an important biomarker for tumor prognosis. The inhibition of overexpressed CD73 was also believed as a promising strategy to restore tumor immune function in anti-tumor therapies. However, the in vivo evaluation of CD73 expression in patients is still challenging. In this investigation, a series of novel non-nucleotide small-molecule targeting CD73 was developed, and the most potent compounds (HX-6 and HX-8) were radiolabeled with ",
+        "source": "PubMed",
+        "doi": "10.1016/j.ejmech.2026.118728",
+        "keyword": "NK cell therapy",
+        "title_ja": "設計、合成、および腫瘍細胞外ヌクレオチダーゼCD73を標的とした治療診断用放射性トレーサーの前臨床評価",
+        "summary_ja": "本論文は、腫瘍免疫抑制に関わる細胞外酵素CD73を標的とした診断・治療一体型（Theranostic）放射性トレーサーの開発を報告する。CD73はアデノシン産生を触媒し、免疫チェックポイント阻害療法への抵抗性に関与するため、その発現を非侵襲的に評価する手法が求められていた。研究では、非ヌクレオチド系低分子化合物を設計・合成し、最も強力な化合物（HX-6およびHX-8）を放射性同位体で標識した。これにより、CD73発現のin vivo評価と、治療への応用が期待される。"
+      },
+      {
+        "title": "Rational Design and Identification of Highly Selective TLR8 Agonists as Potent HIV-1 Latency Reversal Agents.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41739651/",
+        "abstract": "Highly active antiretroviral therapy (HAART) for HIV-1 infection suppresses but does not cure the disease due to persistent latent viral reservoirs. The \"shock and kill\" strategy aims to eradicate these reservoirs completely. In exploring the role of TLR8 activation in this context, extensive efforts have been devoted to identify compound ",
+        "source": "PubMed",
+        "doi": "10.1021/acs.jmedchem.5c02319",
+        "keyword": "NK cell therapy",
+        "title_ja": "合理的設計による高選択的TLR8アゴニストの同定と強力なHIV-1潜伏期逆転剤としての評価",
+        "summary_ja": "**要約：**\nHIV-1感染において、HAARTはウイルスを抑制するが潜伏リザーバーにより根治しない。「ショック・アンド・キル」戦略による根絶が目指される。本研究では、TLR8活性化が潜伏逆転に重要であることに着目。合理的薬剤設計により、高選択的かつ強力なTLR8アゴニストとして**化合物**を同定した。これは、HIV-1潜伏リザーバーを標的とする新規治療薬開発への有望な進展である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Inhibition of NFAT after human uterus transplant promotes loss of tissue-resident NK cells and attendant pregnancy complications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41811989/",
+        "abstract": "Uterine natural killer (uNK) cells are a tissue-resident lymphocyte population critical for pregnancy success. Although mouse models have demonstrated that uNK cell deficiency results in abnormal placentation and poor pregnancy outcomes, the generalizability of this knowledge to humans remains unclear. Here, we compared tissue samples collected from a cohort of human recipients of uterus transplant (UTx) at high risk for pregnancy complications with healthy controls using flow cytometry, immunofluorescence microscopy, and single-cell RNA sequencing (scRNA-seq). Subsets of tissue-resident uNK cells were reduced in endometrial and decidual samples from recipients of UTx compared with healthy control samples. Loss of tissue-resident uNK cells was associated with histopathologic evidence of maternal vascular malperfusion in placentas from recipients of UTx and related pregnancy complications including preeclampsia. scRNA-seq of UTx endometrial biopsies and deciduae further revealed that the NK cell reduction in recipients of UTx correlated with impaired transcriptional programming of NK tissue residency arising from the inhibition of signaling by nuclear factor of activated T cells (NFAT). In vitro culture of uNK cells from healthy controls with the NFAT inhibitor tacrolimus resulted in down-regulation of adhesion molecules. Together, these experiments suggested that NFAT-dependent genes modulate multiple molecular tissue residency programs in uNK cells, including early residency programs involving activator protein-1 (AP-1) family transcription factors and later residency programs characterized by up-regulation of surface integrins by transforming growth factor-β (TGF-β). Collectively, these data identify a previously undescribed role for NFAT in uNK tissue residency and provide mechanistic insights into the biologic basis of pregnancy complications due to alteration of tissue-resident NK cell subsets in humans.",
+        "source": "PubMed",
+        "doi": "10.1126/scitranslmed.adp2196",
+        "keyword": "NK cell therapy",
+        "title_ja": "ヒト子宮移植後のNFAT阻害は、組織常在性NK細胞の喪失とそれに伴う妊娠合併症を促進する。",
+        "summary_ja": "子宮移植（UTx）を受けたヒトにおいて、組織常在性NK細胞（uNK細胞）の減少が妊娠合併症（子癇前症など）と関連することを明らかにした。uNK細胞の減少は、NFAT（活性化T細胞核内因子）シグナル阻害により、組織常在性に関わる遺伝子プログラム（AP-1やTGF-βを介したインテグリン発現など）が障害されることが原因であった。NFAT阻害剤タクロリムスによるin vitro実験でも、接着分子の発現低下が確認された。NFATはヒトuNK細胞の組織常在性維持に必須であり、その障害が妊娠合併症の生物学的基盤となることを示唆する。"
+      },
+      {
+        "title": "Tac-kling tissue-resident uterine NK cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41811988/",
+        "abstract": "After human uterus transplant, all uterine immune cell lineages were reconstituted but with alterations in tissue-resident NK cells, potentially due to tacrolimus (Asiimwe ",
+        "source": "PubMed",
+        "doi": "10.1126/scitranslmed.aec4494",
+        "keyword": "NK cell therapy",
+        "title_ja": "組織常在型子宮NK細胞のタックリング",
+        "summary_ja": "**要約：**\nヒト子宮移植後、全ての子宮免疫細胞系統は再構築されるが、組織常在性NK細胞に変化が生じる。この変化は免疫抑制剤タクロリムスによる影響の可能性が示唆されている（Asiimwe研究）。移植後も免疫細胞は再生するものの、特に組織特異的なNK細胞の機能や構成に異常が生じ、その一因としてタクロリムスが関与していると考えられる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Physical Changes of Biomacromolecules upon Covalent Surface Immobilization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41817376/",
+        "abstract": "Immobilization of large biomacromolecules is often required for analytical quantification and physicochemical characterization. However, immobilization can alter the structure and size of the particles being studied. Here, two exosomes (derived from HEK-293 and MDA-MB-231 cells) and three viral particles (Suid herpesvirus 1 (SuHV), xenotropic murine leukemia virus (XmuLV), and porcine parvovirus (PPV)) were immobilized to different covalent chemistries to understand how surface chemistry influences particle deformation during immobilization. The surface chemistries explored were: (i) NHS (",
+        "source": "PubMed",
+        "doi": "10.1021/acs.langmuir.5c06836",
+        "keyword": "Exosomes",
+        "title_ja": "共有結合的表面固定化による生体高分子の物理的変化",
+        "summary_ja": "生体高分子の共有結合的表面固定化は、分析・物性評価に必要だが、粒子の構造・サイズを変化させる可能性がある。本研究では、HEK-293およびMDA-MB-231細胞由来エクソソーム2種と、SuHV、XmuLV、PPVウイルス粒子3種を、異なる共有結合化学（例：NHS化学）を用いて固定化し、表面化学が固定化時の粒子変形に与える影響を調査した。固定化手法が粒子の物理的特性に及ぼす影響を理解することは、正確な計測のために重要である。"
+      },
+      {
+        "title": "Adaptive ROS-Responsive Dual-Layered Hydrogel with Ginkgo Biloba-Derived Exosome-Like Nanovesicles for Diabetic Wound Healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41814949/",
+        "abstract": "Impaired healing of diabetic wounds is frequently associated with persistent local infection and a dynamic imbalance in reactive oxygen species (ROS), which synergistically exacerbate tissue damage and complicate clinical management. Conventional single-layer hydrogel dressings often fail to meet the contradictory requirements of distinct wound-healing stages. This study developed a multifunctional bilayer hydrogel system (Dual-Gel) designed to promote wound healing by precisely regulating dynamic ROS levels in the wound microenvironment. The hydrogel was synthesized from a glycidyl methacrylate-modified ε-polylysine (EPLGMA) network loaded with copper ions (Gel 1) and a gelatin network crosslinked with an ROS-cleavable linker (NHS-TK-NHS) (Gel 2). During the infection phase, Gel 1 exerts antibacterial activity through ε-polylysine, which dissociates from the hydrogel matrix in the infected microenvironment, whereas the slowly released copper ions catalyze a Fenton reaction that converts H",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.202505954",
+        "keyword": "Exosomes",
+        "title_ja": "糖尿病創傷治癒のための銀杏由来エクソソーム様ナノベシクルを有する適応型ROS応答性二層ハイドロゲル",
+        "summary_ja": "本論文は、糖尿病性創傷治癒を促進する多機能二層ハイドロゲル（Dual-Gel）を開発した。上層（Gel 1）はε-ポリリジンと銅イオンを含み、感染期に抗菌作用とフェントン反応によるROS消去を行う。下層（Gel 2）はROS応答性リンカーで架橋され、高ROS環境で分解してイチョウ由来エクソソーム様ナノベシクルを放出し、血管新生と細胞増殖を促進する。このシステムは創傷治癒段階に応じてROSレベルを動的に制御し、感染抑制と組織再生を両立させる。"
+      },
+      {
+        "title": "Artificial intelligence-assisted spatial omics-based biomimetic nanoplatform for intelligent and precise intervention in the immunosuppressive core region of ovarian cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41814059/",
+        "abstract": "Ovarian cancer (OC) ranks among the most aggressive malignancies of the female reproductive system. The immunosuppressive tumor microenvironment (TME) and pronounced spatial heterogeneity significantly restrict the efficacy of immunotherapy. Recent advances in single-cell omics and spatial transcriptomics (ST) have enabled the identification of immunosuppressive core regions within the TME at molecular and spatial levels. These regions often contain \"exclusion structures\" composed of regulatory T cells (Tregs), tumor-associated macrophages (TAMs), and myeloid-derived suppressor cells (MDSCs) in hypoxia-enriched niches. To achieve precise therapeutic modulation of these core microregions, researchers have developed biomimetic nanodrug platforms such as cell membrane-coated systems and exosome-based carriers. These platforms deliver immunoregulatory agents targeting programmed death-ligand 1 (PD-L1), transforming growth factor-beta (TGF-β), and colony-stimulating factor 1 receptor (CSF1R), with enhanced efficiency and adaptability through multi-responsive mechanisms. The paper provides a comprehensive review of the spatial organization mechanisms, omics-based identification methods, and signaling network pathways that define the immunosuppressive core regions in OC. It also summarizes the design principles and adaptive strategies of biomimetic platforms and introduces an artificial intelligence (AI)-assisted closed-loop therapeutic framework encompassing identification, delivery, and feedback to support individualized and precise immunotherapy. Although the approach demonstrates strong potential for multidimensional integration, several challenges remain, including the standardization of spatial atlases, the stability of delivery systems, and cross-platform compatibility, all of which require further technological advancement.",
+        "source": "PubMed",
+        "doi": "10.1038/s41698-026-01345-w",
+        "keyword": "Exosomes",
+        "title_ja": "人工知能支援空間オミクス基盤の生体模倣ナノプラットフォームによる卵巣癌免疫抑制コア領域への知的精密介入",
+        "summary_ja": "卵巣癌は免疫抑制的腫瘍微小環境と空間不均一性により免疫療法の効果が制限される。近年、空間トランスクリプトミクス等により、低酸素ニッチにおけるTregs、TAMs、MDSCsからなる免疫抑制中核領域が同定された。これを標的とするため、細胞膜コーティングやエクソソーム由来の生体模倣ナノプラットフォームが開発され、PD-L1、TGF-β、CSF1R等を標的とした薬剤を多応答性で送達する。本論文は、同領域の空間組織メカニズム、オミクス同定法、シグナル経路を概説し、AI支援による個別化精密免疫治療の閉ループ枠組みを提案する。空間アトラスの標準化や送達系の安定性等の課題は残る。"
+      },
+      {
+        "title": "Extracellular vesicles released in vitro from a Parkinson's disease-like model: a combined biochemical and spectroscopic approach as proof of concept for the diagnosis of neurodegenerative diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41813344/",
+        "abstract": "Extracellular vesicles (EVs) are stable carriers of molecular signals and can cross the blood-brain barrier, making them promising non-invasive biomarkers for diseases of the central nervous system. While their diagnostic potential is already established and is present in many clinical trials for brain tumors, applications in neurodegenerative disorders such as Parkinson's disease (PD) are still emerging. Although researchers have shown that EVs are involved in the intercellular diffusion of aggregated α-synuclein, a hallmark of PD pathology, the clinical use of EVs as disease biomarkers is still limited by the lack of standardized and selective protocols for EV isolation and analysis.",
+        "source": "PubMed",
+        "doi": "10.1016/j.aca.2026.345296",
+        "keyword": "Exosomes",
+        "title_ja": "パーキンソン病様モデルからin vitroで放出される細胞外小胞：神経変性疾患診断の概念実証としての生化学的・分光学的複合アプローチ",
+        "summary_ja": "パーキンソン病（PD）などの神経変性疾患では、血液脳関門を通過可能な細胞外小胞（EVs）が非侵襲的生体マーカーとして有望視される。本論文は、PD様モデルから放出されたEVsを生化学的・分光学的に解析する概念実証的研究である。EVsは凝集α-シヌクレインの細胞間伝播に関与するが、その臨床応用はEVsの分離・解析プロトコルの標準化が不十分なため限られている。本研究は、EVsを基盤とした神経変性疾患診断法開発の基盤を示す。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "TEAD1 Enhances Exosome Secretion and Promotes Exosome-Mediated Tissue Regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41815094/",
+        "abstract": "Exosomes serve as intercellular communication vectors and are involved in a broad range of physiological functions. Although exosome-based therapies have demonstrated diverse functional potential, the regulatory mechanisms underlying their biogenesis and secretion remain poorly understood. Here, we report that TEAD1 functions as a molecular switch, dramatically enhancing the synthesis and secretion of exosomes. Mechanistically, TEAD1 enhances exosome secretion by promoting the expression of exosome secretion-associated proteins RAB11, CD9, and SNAP23. We found that TEAD1 enhances exosome secretion from adipose-derived mesenchymal stem cells, thereby promoting skin wound healing in diabetic mice. Similarly, TEAD1 promotes the release of exosomes from bone marrow-derived mesenchymal stem cells, thereby facilitating spinal cord injury (SCI) repair. Our study elucidates a novel role for TEAD1 in driving exosome secretion in different cell types, highlighting the therapeutic potential of TEAD1 in enhancing tissue regeneration, particularly in diabetic wound healing and SCI repair.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.202514104",
+        "keyword": "Exosomes",
+        "title_ja": "TEAD1はエクソソーム分泌を促進し、エクソソームを介した組織再生を活性化する",
+        "summary_ja": "TEAD1はエクソソーム分泌の分子スイッチとして機能し、RAB11、CD9、SNAP23などの分泌関連タンパク質の発現を促進することで、エクソソームの合成・分泌を大幅に増強する。脂肪由来および骨髄由来間葉系幹細胞においてTEAD1がエクソソーム分泌を促進し、糖尿病マウスの皮膚創傷治癒と脊髄損傷修復をそれぞれ加速させた。本研究は、TEAD1が異なる細胞種でエクソソーム分泌を駆動する新規機能を明らかにし、組織再生、特に糖尿病性創傷治癒と脊髄損傷修復における治療応用の可能性を示した。"
+      },
+      {
+        "title": "Therapeutic translation of traditional Chinese medicine Huangqi derived exosome like nanoparticles: targeting prostate cancer through ferroptosis activation, immune reprogramming, and microbiome modulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41814394/",
+        "abstract": "Plant derived exosome-like nanoparticles (PELNs) are emerging as a powerful tool for treating cancers. Among them, PELNs derived from traditional Chinese medicines have shown great potential in treating various cancers. However, many Chinese medicines remain to be explored, and currently, there are no reports on the use of PELNs for treating prostate cancer. In this study, we extracted Huangqi derived exosome-like nanoparticles (HELNs) from fresh Huangqi (Astragalus membranaceus) and systematically explored the effects and mechanisms of HELNs in treating prostate cancer through an integrated approach of single-cell sequencing, 16 S rDNA sequencing, and bulk-RNA sequencing. We found that HELNs demonstrated robust cytotoxic effects against prostate cancer both in vitro and in vivo. HELNs reverse the polarization of M2 macrophages, promote their M1-like polarization, and increase the abundance of anti-tumor probiotics in the gut to exert anti-tumor effects. In terms of direct effects, HELNs downregulate the expression level of GPX4 protein in prostate cancer cells, thereby inducing ferroptosis. Finally, we loaded siGPX4 into HELNs to construct a new nanoparticle siGPX4@HELNs. siGPX4@HELNs induce more pronounced ferroptosis in prostate cancer cells, achieving better therapeutic outcomes while maintaining safety.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04160-4",
+        "keyword": "Exosomes",
+        "title_ja": "漢方薬黄耆由来エクソソーム様ナノ粒子の治療的応用：フェロトーシス活性化、免疫再プログラミング、およびマイクロバイオーム調節を介した前立腺癌標的化",
+        "summary_ja": "本論文は、漢方薬「黄耆」由来のエクソソーム様ナノ粒子（HELNs）が、前立腺癌治療において強力な抗腫瘍効果を示すことを報告する。HELNsは、前立腺癌細胞内でGPX4タンパク質の発現を抑制し、鉄依存性細胞死（フェロトーシス）を誘導する。さらに、腫瘍関連マクロファージをM2型から抗腫瘍性M1型へ再極化させ、腸内では抗腫瘍プロバイオティクスを増加させることで、免疫再プログラミングと腸内細菌叢調節を介した間接的抗腫瘍効果も発揮する。GPX4を標的とするsiRNAをHELNsに内包したsiGPX4@HELNsは、より強力なフェロトーシス誘導により、安全性を維持しつつ優れた治療効果を達成した。"
+      },
+      {
+        "title": "UBQLN1 Inhibition reduces MASH progression through downregulating SIKE/p38 MAPK pathway in hepatocyte.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41814315/",
+        "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH) is increasingly recognized as a major global contributor to cirrhosis and hepatocellular carcinoma (HCC). However, the key regulatory molecules governing lipid metabolism dysregulation, remains incompletely understood.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04202-x",
+        "keyword": "Exosomes",
+        "title_ja": "UBQLN1阻害は、肝細胞におけるSIKE/p38 MAPK経路のダウンレギュレーションを通じてMASH進行を抑制する",
+        "summary_ja": "本論文は、代謝機能障害関連脂肪性肝炎（MASH）の進行におけるUBQLN1の役割を検討した。UBQLN1の抑制が、肝細胞においてSIKE/p38 MAPK経路をダウンレギュレーションすることで、脂質代謝異常を改善し、MASHの進行を抑制することを明らかにした。この知見は、MASHから肝硬変・肝細胞癌（HCC）への進展を制御する新たな分子メカニズムと治療標候補を提示するものである。"
+      },
+      {
+        "title": "Harnessing exosomal long non-coding RNAs as a new frontier for molecular diagnostics and therapeutics in diabetes mellitus.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41814272/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12964-026-02739-w",
+        "keyword": "Exosomes",
+        "title_ja": "糖尿病における分子診断・治療の新たなフロンティアとしてのエクソソーム長鎖非コードRNAの活用",
+        "summary_ja": "本論文は、糖尿病において、細胞から分泌されるエクソソーム内の長鎖非コードRNA（lncRNA）に着目する。エクソソームlncRNAは、安定性と組織特異性から、新たなバイオマーカーとしての診断・予後評価への応用可能性を論じる。さらに、これらのRNAを標的とした治療法開発や、治療薬のデリバリーシステムとしての利用など、治療への新たなフロンティアとしての展望を提示している。"
+      }
+    ],
+    "農学": [
+      {
+        "title": "Isolation of plant-derived exosome-like nanovesicles (PDENs) from ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41817241/",
+        "abstract": "Chronic inflammation and ultraviolet (UV)-induced oxidative stress drive tissue damage and skin photoaging. This study evaluates ",
+        "source": "PubMed",
+        "doi": "10.1080/20565623.2026.2641016",
+        "keyword": "Exosomes",
+        "title_ja": "植物由来エクソソーム様ナノ小胞（PDENs）の単離",
+        "summary_ja": "**植物由来エクソソーム様ナノ小胞（PDENs）の単離と評価**\n\n本研究は、慢性炎症や紫外線（UV）誘発性酸化ストレスによる皮膚光老化に着目。植物由来エクソソーム様ナノ小胞（PDENs）を単離し、その抗炎症・抗酸化作用を評価した。PDENsは、皮膚細胞の炎症性サイトカイン産生を抑制し、酸化ストレスから保護する効果を示した。これにより、PDENsが皮膚バリア機能の改善や光老化防止に有用な天然素材としての可能性が示唆された。"
+      }
+    ],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に注目すべき5つのトピックをまとめます。\n\n1. **CD73を標的としたTheranostic放射性トレーサー**：腫瘍免疫抑制酵素CD73を非侵襲的に可視化・治療する新規トレーサー。免疫チェックポイント阻害療法抵抗性の克服に貢献し、個別化医療への応用が期待される。\n\n2. **組織常在性NK細胞と妊娠合併症**：子宮移植後、免疫抑制剤によるNFATシグナル阻害が子宮内組織常在性NK細胞の減少を招き、子癇前症などの妊娠合併症に関与。移植後免疫管理の最適化に向けた重要な知見。\n\n3. **TEAD1によるエクソソーム分泌制御**：転写因子TEAD1がエクソソーム分泌の分子スイッチとして機能することを発見。分泌を人為的に増強することで、再生医療におけるエクソソーム療法の効率向上に道を開く。\n\n4. **黄耆由来エクソソーム様ナノ粒子による前立腺癌治療**：漢方薬由来ナノ粒子がフェロトーシス誘導、免疫再プログラミング、腸内細菌叢調節を介して抗腫瘍効果を示す。天然物を基盤とした新しい癌治療戦略。\n\n5. **糖尿病性創傷治癒のためのROS応答性ハイドロゲル**：銀杏由来エクソソーム様ナノ小胞を組み込んだ二層ハイドロゲルが、ROS消去・抗菌・組織再生を時空間制御して治癒を促進。慢性創傷治療の画期的なデバイスとして期待。"
+}

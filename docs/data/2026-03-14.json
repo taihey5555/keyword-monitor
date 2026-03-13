@@ -1,0 +1,134 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Vascular Endothelial Growth Factor-D Improves Lung Vascular Integrity During Acute Lung Injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41822962/",
+        "abstract": "Disorders in pulmonary vascular integrity are a prominent feature in many lung diseases. Paracrine signaling is highly enriched in the lung and plays a crucial role in regulating vascular homeostasis. However, the specific local cell-cell crosstalk signals that maintain pulmonary microvascular stability in adult animals and humans remain largely unexplored.",
+        "source": "PubMed",
+        "doi": "10.1161/CIRCRESAHA.124.326094",
+        "keyword": "NK cell therapy",
+        "title_ja": "急性肺損傷における肺血管完全性改善における血管内皮増殖因子-Dの役割",
+        "summary_ja": "**要約：**\n肺血管完全性の障害は多くの肺疾患の特徴である。肺はパラクリンシグナルが豊富で、血管恒常性の調節に重要である。しかし、成体における肺微小血管安定性を維持する局所的な細胞間クロストークシグナルは未解明である。本研究は、VEGF-Dが急性肺損傷時に肺血管完全性を改善することを示した。"
+      },
+      {
+        "title": "Tumour immune cell infiltration and response to FOLFOX or FOLFIRI chemotherapy in colorectal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41820332/",
+        "abstract": "Tumor immune cell infiltration plays an important role in determining treatment response and prognosis in colorectal cancer (CRC). This study aimed to investigate the association between tumor immune landscape and clinical outcomes in CRC patients receiving infusional 5-fluorouracil/leucovorin combined with either oxaliplatin (FOLFOX) or irinotecan (FOLFIRI)-based chemotherapy. Immune cell infiltration profiles were evaluated using transcriptomic data from The Cancer Genome Atlas (TCGA) and Gene Expression Omnibus (GEO) databases, and the relative proportions of 22 immune cell subtypes were estimated using the CIBERSORTx algorithm. Associations between immune cell infiltration and treatment response, progression-free survival (PFS), and overall survival (OS) were systematically analyzed. A total of 511 CRC patients were included in the analysis. In patients receiving FOLFOX chemotherapy, improved drug response rates were positively associated with increased infiltration of M1 macrophages, whereas higher levels of gamma delta (γδ) T cells were correlated with poorer treatment response and reduced OS. In patients treated with FOLFIRI, elevated infiltration of M1 macrophages, M2 macrophages, activated natural killer (NK) cells, and T follicular helper (Tfh) cells was associated with unfavorable OS. Consensus clustering analysis identified three distinct immune subtypes, among which one subtype exhibited superior drug response rates and improved clinical outcomes following FOLFIRI treatment and was characterized by enrichment of adaptive immune cells, particularly memory CD4⁺ T cells and B cell-related populations. These findings demonstrate that specific immune cell subtypes and immunologically defined tumor subgroups are significantly associated with chemotherapy response and survival outcomes in CRC patients, highlighting the potential of tumor immune profiling as a predictive biomarker for chemotherapy efficacy.",
+        "source": "PubMed",
+        "doi": "10.1038/s41397-026-00403-7",
+        "keyword": "NK cell therapy",
+        "title_ja": "大腸癌における腫瘍免疫細胞浸潤とFOLFOXまたはFOLFIRI化学療法への反応",
+        "summary_ja": "大腸癌における腫瘍免疫細胞浸潤は、化学療法への反応性や予後に影響する。本研究では、FOLFOXまたはFOLFIRI療法を受けた患者511例を対象に、CIBERSORTx法を用いて22種類の免疫細胞サブタイプを解析した。FOLFOX群では、M1マクロファージの浸潤が治療反応の向上と、γδT細胞の浸潤が反応不良・全生存期間（OS）短縮と関連した。FOLFIRI群では、M1/M2マクロファージ、活性化NK細胞、Tfh細胞の浸潤が不良なOSと関連した。また、免疫サブタイプ分類により、適応免疫細胞（特に記憶CD4⁺T細胞やB細胞）が豊富なサブタイプはFOLFIRI治療後により良好な反応と転帰を示した。腫瘍免疫プロファイルは化学療法効果の予測バイオマーカーとしての可能性がある。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Skin Barrier-Improving and Anti-Inflammatory Effects of Exosomes Derived from the ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41821372/",
+        "abstract": "This study investigated the anti-inflammatory and skin barrier-improving activities of ",
+        "source": "PubMed",
+        "doi": "10.4014/jmb.2512.12008",
+        "keyword": "Exosomes",
+        "title_ja": "皮膚バリア改善および抗炎症効果を有するエクソソームの研究",
+        "summary_ja": "本研究は、ヒト脂肪組織由来間葉系幹細胞（hADMSC）のエクソソームが、皮膚バリア機能改善と抗炎症作用を持つことを検証した。エクソソームは、ヒト角化細胞においてフィラグリン、ロリクリン等のバリア関連タンパク質の発現を促進し、炎症性サイトカイン（TNF-α、IL-6）の産生を抑制した。また、アトピー性皮膚炎モデルマウスにおいて、皮膚炎症状の軽減とバリア機能の回復を確認した。これらの結果から、hADMSCエクソソームは皮膚疾患治療のための新規治療剤候補となり得ると示唆される。"
+      },
+      {
+        "title": "Immunoediting in pregnancy: a new paradigm for understanding fetal tolerance and obstetric disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41818778/",
+        "abstract": "Pregnancy poses an immunological paradox: the maternal immune system must tolerate a semi-allogeneic fetus while maintaining defense against infections. Rather than being an immunosuppressed state, gestation is now recognized as a dynamic, highly regulated immune condition.",
+        "source": "PubMed",
+        "doi": "10.1515/jpm-2025-0246",
+        "keyword": "Exosomes",
+        "title_ja": "妊娠における免疫編集：胎児寛容と産科疾患を理解するための新たなパラダイム",
+        "summary_ja": "妊娠は、母体免疫系が半同種の胎児を寛容しつつ感染防御を維持するという免疫学的パラドックスを提起する。本論文は、妊娠を免疫抑制状態ではなく、動的で高度に制御された免疫状態と再定義する。その中核に「免疫編集」の概念を導入し、母体-胎児界面での免疫監視・排除・平衡のプロセスを通じて胎児寛容が成立する新たなパラダイムを提示する。これは、妊娠関連疾患の理解にも新たな視座を与える。"
+      },
+      {
+        "title": "Exosomes serve as natural nanocarriers targeting cancer stem cells to advance precision oncology.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41817789/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-04748-0",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームはがん幹細胞を標的とする天然のナノキャリアとして精密腫瘍学を推進する",
+        "summary_ja": "本論文は、エクソソームが天然のナノキャリアとして、がん幹細胞（CSC）を標的とする精密腫瘍学への応用可能性を示す。エクソソームは生体由来のため生体適合性が高く、薬物送達システムとしてCSC表面の特定分子を認識し、治療抵抗性や再発の原因となるCSCを効果的に標的化できる。これにより、従来治療が困難だった腫瘍の根治的治療への新たな道筋が開かれると結論づけている。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Overview of combined adjuvant strategies for tumor biomarker detection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41823325/",
+        "abstract": "Cancer is one of the leading causes of death worldwide, and early tumor detection can significantly reduce mortality rates. Liquid biopsy is a minimally invasive, repeatable method with a high economic benefit ratio, and it shows excellent prospects for tumor diagnosis. However, the detection methods relying on classical biomarkers have limited sensitivity and accuracy. The application of auxiliary reagents, such as iRGD, promotes the release of alpha-fetoprotein (AFP) to improve the detection efficiency of liver cancer. Artificial intelligence (AI) technology is increasingly being applied as an assistant in tumor diagnosis. It can automatically identify tumor lesions in imaging, analyze tumor-related gene mutations, classify circulating tumor cells (CTCs), and integrate multi-omics data. These auxiliary means have enhanced the efficiency of tumor screening or detection. In this review, we summarize the combined applications of iRGD and AFP. We also discuss emerging new detection techniques, including CTCs, circulating tumor DNA (ctDNA), exosomes, and tumor-educated platelets (TEPs), specifically with the help of AI. The aim is to better understand the auxiliary role of the iRGD reagent and AI technology in early tumor detection.",
+        "source": "PubMed",
+        "doi": "10.1177/03008916261425908",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍バイオマーカー検出のための複合アジュバント戦略の概要",
+        "summary_ja": "がんは主要な死因であり、早期発見が死亡率低減に重要である。リキッドバイオプシーは低侵襲で経済性が高く、診断への応用が期待されるが、従来のバイオマーカーに基づく検出法は感度・精度に限界がある。補助試薬iRGDは肝がんマーカーAFPの放出を促進し、検出効率を向上させる。またAI技術は、画像解析、遺伝子変異解析、循環腫瘍細胞（CTCs）分類、マルチオミクス統合などを通じて、診断を支援する。本総説では、iRGDとAFPの併用に加え、AIを活用したCTCs、循環腫瘍DNA（ctDNA）、エクソソーム、腫瘍教育血小板（TEPs）などの新技術を概説し、早期腫瘍検出における補助的役割を考察する。"
+      },
+      {
+        "title": "Orchestrating organotropism: miRNA-driven mechanisms of site-specific metastasis in triple-negative breast cancer (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41822558/",
+        "abstract": "Triple-negative breast cancer (TNBC), characterized by its aggressive nature and poor prognosis, exhibits a pronounced propensity for organ-specific metastasis, which remains the primary cause of treatment failure and mortality. The present review synthesizes current knowledge on the pivotal role of microRNAs (miRNAs/miRs), particularly those shuttled via tumor-derived exosomes, in orchestrating the complex molecular mechanisms underlying TNBC metastasis to the brain, bone, liver and lungs. In addition, the review highlights how specific miRNAs function as master regulators of organotropic metastasis by facilitating pre-metastatic niche (PMN) formation through miRNA-target gene-microenvironment remodeling cascades. Key mechanisms discussed include: Brain metastasis, in which miR-105 disrupts the blood-brain barrier by targeting zonula occludens protein 1 and miR-19a activates astrocytic STAT3 signaling to promote tumor extravasation and survival; bone metastasis, in which miR-218-5p disrupts the osteoprotegerin/receptor activator of nuclear factor κB ligand balance and miR-21 drives a self-perpetuating osteolysis-growth factor-tumor proliferation loop via programmed cell death 4/nuclear factor of activated T cells 1 and TGF-β feedback; liver metastasis, in which miR-122 reprograms the host metabolism by suppressing pyruvate kinase M2 and O-GlcNAc transferase, and contributes to immune evasion; and lung metastasis, in which miR-200 family members regulate endothelial permeability and epithelial-mesenchymal transition. Common metastasis drivers, including miR-10b, miR-21, the miR-200 family and the miR-221/222 cluster, exhibit both shared and organ-specific functions. Although targeting these miRNA networks holds therapeutic promise, notable challenges persist, including organ-specific delivery efficiency, particularly across the blood-brain barrier, potential toxicity, including miR-10b hepatotoxicity, and scalable exosome engineering for drug delivery. Emerging strategies offering potential solutions include engineered exosomes and localized implantable systems. Understanding the spatiotemporal dynamics of miRNA-mediated organotropism, facilitated by advanced technologies, will be crucial for the future development of precision therapies to combat TNBC metastasis.",
+        "source": "PubMed",
+        "doi": "10.3892/ol.2026.15504",
+        "keyword": "Exosomes",
+        "title_ja": "オーケストラする臓器指向性：トリプルネガティブ乳癌における部位特異的転移のmiRNA駆動メカニズム（総説）",
+        "summary_ja": "**要約**\nトリプルネガティブ乳癌（TNBC）は、脳・骨・肝臓・肺などへの臓器特異的転移（オルガノトロピズム）傾向が強く、予後不良の主因である。本総説は、腫瘍由来エクソソームを介して運ばれるマイクロRNA（miRNA）が、転移先臓器の前転移ニッチ形成を制御する中心的メカニズムを臓器別に整理した。具体的には、miR-105（血液脳関門破壊）、miR-218-5p（骨代謝破綻）、miR-122（宿主代謝再プログラミング）、miR-200ファミリー（内皮透過性調節）などが、標的遺伝子と微小環境を改変し転移を促進する。miR-10b/21など共通駆動因子も存在する。これらのmiRNAネットワークは治療標足として有望だが、臓器特異的デリバリーや毒性など課題も残る。エクソソーム工学や局所投与システムの開発が進展しており、時空間動態の解明が精密治療開発に重要である。"
+      },
+      {
+        "title": "Exosomes From Cancer-Associated Fibroblasts Promote Colorectal Cancer Progression and Glutamine Metabolism Through METTL1-Mediated m7G Modification of SLC1A5 mRNA.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41820224/",
+        "abstract": "Colorectal cancer (CRC) represents a major cause of cancer-related mortality worldwide. Exosomes derived from cancer-associated fibroblasts (CAFs-Exo) transfer oncogenic signals to cancer cells, promoting tumor growth, metastasis, and glutamine metabolism. However, the specific contribution of CAFs-Exo to the pathogenesis of CRC is still largely unexplored.",
+        "source": "PubMed",
+        "doi": "10.1111/jgh.70334",
+        "keyword": "Exosomes",
+        "title_ja": "がん関連線維芽細胞由来エクソソームは、METTL1を介したSLC1A5 mRNAのm7G修飾を通じて、大腸がんの進行とグルタミン代謝を促進する。",
+        "summary_ja": "がん関連線維芽細胞（CAFs）由来エクソソーム（CAFs-Exo）は、METTL1を介したSLC1A5 mRNAのm7G修飾を促進し、大腸がん（CRC）のグルタミン代謝亢進、腫瘍増殖・転移を駆動する。この分子機構の解明は、CRC治療標的の新たな可能性を示唆する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. 妊娠免疫編集の新パラダイム**\n妊娠を動的で高度に制御された免疫状態と再定義し、母体-胎児界面での「免疫編集」概念を提唱。胎児寛容と感染防御のバランス、流産や子癇前症などの病態理解に革新をもたらし、新たな治療戦略開発への道を開く。\n\n**2. エクソソームによるがん幹細胞標的治療**\n生体適合性の高い天然ナノキャリアとして、治療抵抗性・再発の原因であるがん幹細胞を特異的に標的化できる可能性を示す。精密腫瘍学において、従来療法を補完する新たな薬物送達システムとして期待される。\n\n**3. エクソソームmiRNAと臓器特異的転移**\nトリプルネガティブ乳癌などで、腫瘍由来エクソソームが運ぶmiRNAが転移先臓器の微小環境を事前に整え、臓器特異的転移を促進する機序を総説。転移抑制の新たな介入ポイントとして注目される。\n\n**4. CAFエクソソームとがん代謝 reprogramming**\n大腸癌において、がん関連線維芽細胞由来エクソソームがMETTL1を介してm7G修飾を行い、グルタミン代謝を亢進させ腫瘍増殖を駆動する新規機構を解明。腫瘍微小環境を標的とした代謝療法開発に寄与。\n\n**5. 免疫細胞浸潤と大腸癌化学療法反応性**\n腫瘍内免疫細胞サブタイプの浸潤パターンが、FOLFOX/FOLFIRI療法への反応性や予後に影響することを示唆。免疫微小環境を考慮した個別化化学療法選択や、免疫療法との組み合わせ戦略構築への応用が期待される。"
+}

@@ -1,0 +1,176 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Postviral Anti-PF4 Immunothrombosis in Children: A Narrative Review with Practical Guidance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41825487/",
+        "abstract": "Postviral antiplatelet factor 4 (PF4) immunothrombosis is an emerging pediatric entity characterized by thrombocytopenia, thrombosis, and markedly elevated D-dimer levels and anti-PF4 antibodies. It shares immunopathologic features with vaccine-induced immune thrombotic thrombocytopenia but arises after natural infection, most often adenoviral infection. We reviewed pediatric cases and mechanistic studies identified through PubMed and reference screening (latest search: November 20, 2025), with a focus on pathophysiology, differential diagnosis, laboratory evaluation, and treatment. We identified 10 pediatric patients, with a reported mortality rate of 20%. Children typically presented with acute severe headache, focal neurological deficits, and thrombocytopenia 5-14 days after recent viral illness. All reported cases had markedly increased D-dimers. Rapid immunoassays for heparin-induced thrombocytopenia were often negative; PF4-specific enzyme-linked immunosorbent assay and PF4-enhanced functional assays were positive. Treatments in published cases included anticoagulation (9/10 cases), intravenous immunoglobulin (5/10 cases), and plasma exchange therapy (3/10 cases). On the basis of these findings and mechanistic parallels, we propose a diagnostic and therapeutic approach, acknowledging the limited evidence base. In conclusion, postviral anti-PF4 immunothrombosis in children, although rare, is potentially fatal and likely underrecognized. Further research is needed to establish standardized diagnostic criteria and evidence-based treatment protocols.",
+        "source": "PubMed",
+        "doi": "10.1055/a-2791-8607",
+        "keyword": "PF4",
+        "title_ja": "小児におけるウイルス感染後抗PF4免疫血栓症：実践的ガイダンスを交えたナラティブレビュー",
+        "summary_ja": "小児におけるウイルス感染後抗PF4免疫血栓症は、血小板減少、血栓症、著明なD-ダイマー上昇と抗PF4抗体を特徴とする新興疾患である。アデノウイルス感染後などに発症し、VITTと免疫病理学的機序を共有する。本総説では10例の小児症例を検討し、死亡率は20％であった。典型的にはウイルス感染後5-14日で急性頭痛、神経症状、血小板減少を呈し、D-ダイマーは全例で著増。迅速HIT検査は陰性、PF4特異的ELISA/機能検査が陽性となる。治療は抗凝固療法、免疫グロブリン、血漿交換が実施された。稀だが致死的であり、診断基準と治療プロトコルの確立が急務である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Myeloid-derived immunosuppression of chimeric antigen receptor T cells in the neuronal microenvironment of glioblastoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41827001/",
+        "abstract": "Chimeric antigen receptor (CAR)-T cell therapy remains largely ineffective in glioblastoma (GB), where a highly immunosuppressive microenvironment and tumor heterogeneity impair therapeutic durability.",
+        "source": "PubMed",
+        "doi": "10.1186/s12916-026-04783-2",
+        "keyword": "NK cell therapy",
+        "title_ja": "膠芽腫の神経微小環境におけるキメラ抗原受容体T細胞の骨髄由来免疫抑制",
+        "summary_ja": "**要約：**\n膠芽腫（GB）におけるCAR-T細胞療法の効果は限定的である。その主な要因として、腫瘍微小環境、特に神経細胞が産生する免疫抑制性サイトカイン（GDF-15など）が、骨髄由来抑制細胞（MDSC）を動員・活性化させることが挙げられる。活性化したMDSCは、CAR-T細胞の浸潤、増殖、細胞傷害活性を直接阻害し、治療効果を持続不可能にする。この神経微小環境を介した骨髄系細胞による免疫抑制経路が、GBに対するCAR-T療法の重大な障壁となっている。"
+      },
+      {
+        "title": "The dual roles of natural killer cells in liver immunity and tolerance: Implications for health and disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41824635/",
+        "abstract": "The liver, a pivotal organ in immunity, functions as a central site with dual roles in immune defense and tolerance. Natural killer (NK) cells, a key subset of hepatic lymphocytes, display significant heterogeneity, with varied phenotypic and functional traits that enable them to perform essential roles in immune surveillance, maintain tissue homeostasis, and defend against pathogens and tumors. NK cell activation is tightly controlled by a balance between activating and inhibitory receptors, which orchestrates their cytotoxic, cytokine-producing, and immunoregulatory functions. They are vital participants in antiviral responses, tumor surveillance, fibrosis regulation, and liver regeneration. In chronic liver diseases such as viral hepatitis, fibrosis, and hepatocellular carcinoma (HCC), NK cell dysfunction, characterized by diminished cytotoxic function and altered receptor expression, contributes to disease progression. Emerging therapies, including chimeric antigen receptor-engineered NK (CAR-NK) cells and cytokine-based treatments, aim to restore NK cell functionality and harness their therapeutic potential for liver disease management. This review highlights the dual roles of NK cells in liver health and disease, emphasizing their significance in immune regulation, disease progression, and therapeutic innovation.",
+        "source": "PubMed",
+        "doi": "10.1097/HC9.0000000000000923",
+        "keyword": "NK cell therapy",
+        "title_ja": "自然殺傷細胞の肝臓免疫と免疫寛容における二重役割：健康と疾患への示唆",
+        "summary_ja": "肝臓は免疫防御と免疫寛容の二重役割を担う重要な免疫臓器である。肝臓内の自然キラー（NK）細胞は、活性化・抑制受容体のバランスにより制御され、免疫監視、組織恒常性維持、病原体・腫瘍防御に寄与する。抗ウイルス応答、腫瘍監視、線維化調節、肝再生においても重要な役割を果たす。しかし、ウイルス性肝炎、線維化、肝細胞癌などの慢性肝疾患では、NK細胞の細胞傷害機能低下や受容体発現変化などの機能不全が病態進行に関与する。現在、CAR-NK細胞やサイトカイン療法などの新規治療法が開発され、NK細胞機能の回復と治療応用が目指されている。本総説は、肝臓の健康と疾患におけるNK細胞の二重役割を、免疫調節、疾患進行、治療革新の観点から概説する。"
+      },
+      {
+        "title": "Steroid-induced modulation of the tumor immune microenvironment: Implications for cancer progression and immunotherapy outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41775287/",
+        "abstract": "Glucocorticoids (GCs) remain indispensable in oncology due to their strong anti-inflammatory, anti-oedema, and immunosuppressive effects, which are crucial for controlling cancer symptoms and treatment-related toxicities. However, the expanding use of immunotherapies, particularly immune checkpoint blockade and CAR-T cell approaches, has highlighted the paradoxical influence of steroids on anti-tumor immunity. GCs profoundly reshape the tumor immune microenvironment (TIME) by suppressing cytotoxic T-cell activity, enhancing regulatory T cells, polarizing macrophages toward tumor-promoting states, inhibiting NK and dendritic cell function, and expanding myeloid-derived suppressor cells. Together, these alterations weaken immune surveillance and may promote tumor progression, metastasis, and therapeutic resistance. Both systemic and tumor-derived GC signaling further interact with niches that sustain cancer stemness. Clinical data indicate that the timing, dose, and duration of steroid exposure are decisive, with early or high-dose administration frequently associated with poorer immunotherapy outcomes. Therefore, clarifying GC-driven immune modulation is critical to balance toxicity control while preserving anti-tumor efficacy in precision immunotherapy.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jsbmb.2026.106978",
+        "keyword": "NK cell therapy",
+        "title_ja": "ステロイド誘発性腫瘍免疫微小環境の変容：がん進行と免疫療法アウトカムへの示唆",
+        "summary_ja": "グルココルチコイド（GCs）は、がん症状や治療関連毒性の管理に不可欠である。しかし、免疫療法の拡大に伴い、GCsが抗腫瘍免疫に与える逆説的影響が注目されている。GCsは、細胞傷害性T細胞の抑制、制御性T細胞の増強、マクロファージの腫瘍促進型への極性化、NK細胞・樹状細胞機能の抑制、骨髄由来抑制細胞の拡大などを介して腫瘍免疫微小環境（TIME）を再構築し、免疫監視を弱め、腫瘍の進行・転移・治療抵抗性を促進しうる。臨床データでは、特に早期または高用量のGCs投与が免疫療法の予後不良と関連する。したがって、精密免疫療法において毒性管理と抗腫瘍効果のバランスを取るため、GCsによる免疫調節の解明が重要である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Single-cell RNA sequencing unravels chondrocyte heterogeneity and immune cell interactions in knee osteoarthritis pathogenesis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41824220/",
+        "abstract": "Osteoarthritis (OA) is a degenerative joint disorder characterized by progressive articular cartilage destruction and chronic inflammation. However, the dynamic changes in immune cell subpopulations during OA progression and their specific regulatory interactions with chondrocyte subsets remain poorly understood.",
+        "source": "PubMed",
+        "doi": "10.1007/s10067-026-08030-0",
+        "keyword": "NK cell therapy",
+        "title_ja": "単一細胞RNAシーケンスが解き明かす膝関節症発症における軟骨細胞の多様性と免疫細胞相互作用",
+        "summary_ja": "単一細胞RNAシーケンシングにより、変形性膝関節症（OA）の病態における軟骨細胞の不均一性と免疫細胞との相互作用が解明された。OAは軟骨破壊と慢性炎症を特徴とするが、その進行に伴う免疫細胞サブポピュレーションの動的変化や、軟骨細胞サブセットとの特異的調節相互作用は不明であった。本研究は、軟骨細胞内に複数の機能的多様性を発見し、特定の軟骨細胞サブセットと免疫細胞（特にマクロファージやT細胞）との間に、炎症促進や組織修復に関与する重要な細胞間コミュニケーションネットワークが存在することを明らかにした。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Identification of the expression of tRNA-derived small RNAs associated with necrotizing enterocolitis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41826707/",
+        "abstract": "Necrotizing enterocolitis (NEC) is a severe neonatal gastrointestinal disease. We explored plasma exosomal small noncoding RNAs (sncRNAs), especially tsRNAs, as potential NEC treatment targets.",
+        "source": "PubMed",
+        "doi": "10.1038/s41390-026-04810-1",
+        "keyword": "Exosomes",
+        "title_ja": "壊死性腸炎に関連するtRNA由来低分子RNAの発現の同定",
+        "summary_ja": "壊死性腸炎（NEC）は重篤な新生児消化管疾患である。本研究では、治療標的としての可能性を探るため、血漿エクソソーム中のsmall noncoding RNA（sncRNA）、特にtRNA由来small RNA（tsRNA）の発現を解析した。その結果、NECに関連する特異的なtsRNAの発現パターンが同定された。これらはNECの新たなバイオマーカーや治療標的となり得ると示唆される。"
+      },
+      {
+        "title": "Menstrual blood-derived stem cell exosomes improve ovarian function in chemotherapy-Induced POF rats via apoptosis regulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41826617/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-43562-0",
+        "keyword": "Exosomes",
+        "title_ja": "月経血由来幹細胞エクソソームは、アポトーシス制御を介して化学療法誘発性卵巣機能不全ラットの卵巣機能を改善する",
+        "summary_ja": "**要約**\n\n化学療法誘発性早発卵巣不全（POF）モデルラットにおいて、月経血由来幹細胞（MenSC）のエクソソーム投与が卵巣機能を改善した。その機序は、卵巣顆粒膜細胞のアポトーシス（細胞死）を抑制することによる。具体的には、エクソソームがアポトーシス促進因子（Bax, Caspase-3）の発現を低下させ、抑制因子（Bcl-2）を増加させた。これにより、卵胞発育が促進され、性ホルモンレベルが回復し、卵巣組織の萎縮が軽減された。MenSCエクソソームは、細胞治療に代わる新たなPOF治療戦略となる可能性を示唆する。"
+      },
+      {
+        "title": "Lung cancer as a global health challenge: Multidimensional biomarker research and therapeutic advances.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41826059/",
+        "abstract": "Lung cancer, the leading cause of global cancer-related mortality, is categorized into small-cell and non-small-cell subtypes. The heterogeneous non-small-cell lung cancer group is further subcategorized primarily into adenocarcinoma, squamous cell carcinoma, and large cell carcinoma, each underpinned by distinct molecular alterations. Although traditional serum biomarkers aid in subtype differentiation and treatment monitoring, their utility is limited by challenges such as poor specificity due to inflammatory confounders and the difficulty of dynamically tracking therapeutic resistance. Recent advances have identified emergent subtype-specific biomarkers that reflect metabolic reprogramming, epigenetic dysregulation, stemness signatures, and interactions within the immune microenvironment. By integrating analytes such as ctDNA, exosomal RNAs, and urinary DNA with multi-analyte panels and advanced imaging, liquid biopsies offer a promising avenue to enhance early detection accuracy, prognostication, and dynamic therapy monitoring. Nevertheless, the clinical adoption is hindered by several challenges, including incomplete validation, the need for technical standardization, intratumoral heterogeneity, and inter-ethnic variability. The convergence of artificial intelligence (AI)-enhanced multi-omics with biomarker-guided therapeutics represents a transformative strategy with the potential to overcome resistance, mitigate ethnic disparities, and ultimately transform lung cancer into a chronic, manageable disease. Therefore, prioritizing clinically validated AI-integrated platforms is pivotal to achieve precision oncology.",
+        "source": "PubMed",
+        "doi": "10.1002/ijc.70419",
+        "keyword": "Exosomes",
+        "title_ja": "肺がんをグローバルヘルス課題として：多次元的バイオマーカー研究と治療の進歩",
+        "summary_ja": "肺がんは、小細胞と非小細胞に大別され、後者はさらに腺がん、扁平上皮がんなど分子特性の異なる亜型に分類される。従来の血清バイオマーカーは有用だが、特異性や治療抵抗性の動的追跡に課題があった。近年、代謝再編や免疫微小環境などを反映する新規バイオマーカーが同定され、ctDNAやエクソソームRNAなどを用いたリキッドバイオプシーは、早期診断・治療モニタリングの精度向上に寄与する。しかし、検証不足や技術標準化、腫瘍内不均一性などが臨床実装の障壁となっている。AIを統合したマルチオミクスとバイオマーカー誘導治療の融合は、治療抵抗性の克服や個別化医療の実現により、肺がんを慢性疾患化する変革的な戦略である。"
+      },
+      {
+        "title": "Tumor-Derived Exosomal TAGLN2 Promotes Metastasis by Inducing Vascular Permeability and Angiogenesis via the NRP1/SEMA4D/YAP Axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41824788/",
+        "abstract": "Tumor-derived exosomes critically mediate metastasis, yet how specific cargoes reprogram the vasculature remains unclear. In gastric cancer (GC), we identify TAGLN2 as a key exosomal mediator. It is co-overexpressed in GC cells and tumor-associated endothelial cells (TECs), and its high endothelial expression correlates with lymph node metastasis and poor prognosis. Functionally, GC-derived exosomes deliver TAGLN2 to endothelial cells (ECs), orchestrating angiogenesis, EndoMT, and the disruption of endothelial junctions. In vivo, exosomal TAGLN2 accelerated tumor growth and lung metastasis by generating abnormal, leaky vasculature and hypoxia. Mechanistically, exosomal TAGLN2 initiates a novel signaling axis: it transcriptionally upregulates NRP1 via c-Jun/SP1 and concurrently induces SEMA4D expression. TAGLN2 then interacts with both NRP1 and SEMA4D to nucleate a stable cytoplasmic ternary complex. This complex dually activates YAP by competitively disrupting NRP1-YAP binding to release YAP from cytoplasmic retention, and simultaneously suppressing Hippo-mediated degradation, operating independently of the canonical SEMA4D-PlexinB1-RhoA/ROCK pathway. Therapeutically, targeting the TAGLN2 axis synergized with both cisplatin and bevacizumab, potently suppressing tumor progression by impairing neovascularization and promoting vascular normalization. Clinically, exosomal TAGLN2 levels were significantly elevated in GC patient serum. Our study delineates a complete exosome-to-vasculature signaling axis and positions TAGLN2/NRP1/SEMA4D/YAP module as an integrated diagnostic and therapeutic target against metastatic GC.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.202521962",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍由来エクソソーム内TAGLN2は、NRP1/SEMA4D/YAP軸を介した血管透過性と血管新生の誘導により転移を促進する",
+        "summary_ja": "胃がん（GC）において、腫瘍由来エクソソームはTAGLN2を血管内皮細胞（EC）へ運搬し、血管新生・EndoMT・内皮細胞間結合破壊を誘導する。これにより異常な血管漏出と低酸素環境を生じ、転移を促進する。機序的には、エクソソームTAGLN2がNRP1とSEMA4Dを誘導し、両者と三元複合体を形成。これがYAPを二重に活性化し、血管リモデリングを駆動する。臨床的には、GC患者血清中エクソソームTAGLN2は上昇し、予後不良と相関。TAGLN2/NRP1/SEMA4D/YAP軸は診断・治療標的として有望である。"
+      },
+      {
+        "title": "Cross-talk between pyroptosis and miRNAs in Alzheimer disease neuropathology, therapeutic targeting of NLRP inflammasomes, and recent advances in nanoparticle-targeted therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41824288/",
+        "abstract": "Alzheimer disease (AD) is a widespread neurodegenerative disorder. It is pathologically marked by the deposition of β-amyloid (Aβ) plaques and a high phosphorylation level of tau proteins, resulting in neurofibrillary tangle development, cognitive decline, and neuronal loss. Previous studies showed the correlation between AD and pyroptosis, an inflammasome-mediated programmed cell death. It was reported that Aβ and tau deposits may activate the NOD-like receptor pyrin domain-3 (NLRP3) and inflammasome-caspase-1-gasdermin D (GSDMD) pathway. This leads to cell membrane rupture and discharge of IL-1β and IL-18 cytokines that initiate neuroinflammation. However, there is still a lack of research on therapeutic approaches that target the pyroptotic pathway in AD. This review documents recent research on the regulatory function of miRNAs in regulating the NLRP3/caspase-1/GSDMD pathways and their potential to lessen pyroptosis-induced neuronal damage. We also address novel platforms for delivering antipyroptotic drugs and miRNA modulators across the blood-brain barrier using nanotechnology, such as engineered nanocarriers and exosome-like nanoparticles. These approaches have a promising therapeutic implication as potential treatment options for AD by combining molecular regulation and nanomedicine.",
+        "source": "PubMed",
+        "doi": "10.1093/jnen/nlag014",
+        "keyword": "Exosomes",
+        "title_ja": "アルツハイマー病の神経病理学におけるパイロトーシスとmiRNAのクロストーク、NLRPインフラマソームの治療標的化、およびナノ粒子標的療法の最近の進歩",
+        "summary_ja": "アルツハイマー病（AD）は、Aβ斑やタウタンパク質の過剰リン酸化による神経原線維変化を特徴とする神経変性疾患である。近年、細胞死の一種であるパイロトーシスがAD病態に関与することが示され、AβやタウはNLRP3インフラマソームを活性化し、カスパーゼ-1/GSDMD経路を介して神経炎症を引き起こす。本論文は、miRNAがこの経路を調節し神経損傷を軽減する可能性に着目。さらに、ナノ粒子を用いた抗パイロトーシス薬やmiRNA調節因子の血液脳関門通過を可能にするナノ医療技術の進展を概説し、分子調節とナノ医薬を組み合わせた新規治療法の可能性を示す。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Lipid Messengers: Mechanisms and Clinical Applications of Exosomal Lipids in Neurodegenerative Diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41826764/",
+        "abstract": "Neurodegenerative diseases, including Alzheimer's disease and Parkinson's disease, represent an escalating global health burden owing to their complex pathophysiology and limited therapeutic options. Exosomes, nanoscale extracellular vesicles (30-150 nm) capable of crossing the blood-brain barrier (BBB), have emerged as critical mediators of intercellular communication in the central nervous system. While research has predominantly focused on exosomal proteins and nucleic acids, the functional significance of exosomal lipids in neurodegeneration is increasingly recognized. This review outlines the biological characteristics of exosome lipids. Then, we focus on three core mechanisms: how lipid imbalance drives neuronal damage (including membrane dysfunction, lipid peroxidation, and mitochondrial energy crisis), how the lipid-mediated inflammatory network regulates microglial activation and BBB integrity, and how the lipid microenvironment affects the folding, aggregation, and cross-cell transmission of pathological proteins. Critically, these mechanisms form a mutually reinforcing vicious cycle, jointly driving the progression of the disease. Based on this framework, we have summarized the specific alterations of exosomal lipids in diseases such as Alzheimer's disease and Parkinson's disease. The clinical potential of exosomal lipids as liquid biopsy biomarkers and drug delivery carriers is discussed, alongside current challenges including technical standardization, heterogeneity analysis, and quantitative accuracy. A comprehensive understanding of exosomal lipid dynamics is essential for developing novel diagnostic and therapeutic strategies for neurodegenerative diseases.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-05794-z",
+        "keyword": "Exosomes",
+        "title_ja": "脂質メッセンジャー：神経変性疾患におけるエクソソーム脂質の機序と臨床応用",
+        "summary_ja": "神経変性疾患では、エクソソーム脂質が重要な役割を果たす。脂質異常は、神経細胞損傷（膜機能障害、脂質過酸化、エネルギー危機）、炎症ネットワークの活性化、病理タンパク質の凝集・伝播を介して、病態を悪循環的に増悪させる。アルツハイマー病やパーキンソン病などでエクソソーム脂質の特異的変動が確認されており、これらは液体生検バイオマーカーや薬剤送達キャリアとしての臨床応用が期待される。技術標準化や定量精度などの課題は残るものの、エクソソーム脂質の理解は新たな診断・治療戦略の開発に不可欠である。"
+      },
+      {
+        "title": "Exosome-mediated delivery of miRNA-1290 inhibitor enhances JNK-dependent tissue-resident memory T cell immunity in prostate cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41826614/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-43719-x",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを介したmiRNA-1290阻害剤の送達は前立腺癌におけるJNK依存性組織常在性記憶T細胞免疫を増強する",
+        "summary_ja": "**要約：**\n本論文は、前立腺癌において、エクソソームを用いてmiRNA-1290阻害剤を送達する新規治療法を報告する。miRNA-1290は、組織常在性記憶T細胞（TRM）の生存と機能を抑制する。その阻害により、JNKシグナル経路が活性化され、TRMの増殖・サイトカイン産生・腫瘍浸潤が促進される。結果として、前立腺癌モデルマウスで抗腫瘍免疫応答が増強され、腫瘍増殖が抑制された。エクソソームを利用したmiRNA標的療法は、癌免疫療法の新たな戦略となる可能性を示唆している。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n1. **小児ウイルス感染後抗PF4免疫血栓症**：アデノウイルス感染後などに発症する新興疾患。VITTと類似の機序で血栓症を引き起こし、小児における迅速な診断・治療ガイドの確立が急務である。\n\n2. **膠芽腫におけるCAR-T療法と免疫抑制微小環境**：神経細胞由来の因子がMDSCを活性化し、CAR-T療法の効果を阻害。GB治療には腫瘍微小環境そのものの制御が次の重要な標的となる。\n\n3. **肝臓NK細胞の二面性**：免疫監視と寛容維持の両機能をバランスよく制御することは、肝疾患の新たな治療戦略（がん免疫療法・線維化抑制など）開発に不可欠である。\n\n4. **月経血由来幹細胞エクソソームと卵巣機能回復**：化学療法による卵巣機能不全に対し、エクソソームを介した細胞死抑制アプローチは、生殖機能温存の非侵襲的治療として期待される。\n\n5. **腫瘍由来エクソソームと血管透過性誘導**：胃がんエクソソームが運ぶTAGLN2は血管漏出を促進し転移を助長。この経路の阻害は、転移抑制の新たな治療標的となる可能性がある。"
+}

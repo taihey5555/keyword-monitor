@@ -1,0 +1,137 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Integrative Approaches to Treating Cellular Senescence in Kidney Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41831318/",
+        "abstract": "Cellular senescence in the kidney plays a crucial role in the progression of acute kidney injury and chronic kidney disease. Therapeutic approaches targeting senescent cells, such as small molecule senolytic and senomorphic drugs, display efficacy in preclinical models. However, such drugs pose a risk of adverse effects and only partially mitigate disease progression, highlighting the need for new therapeutic approaches that more comprehensively and safely address disease pathways in aging kidney disease. This review discusses the potential of extracellular vesicles and longevity proteins, such as α-klotho and silencing information regulator 2-related enzyme 1 (SIRT1), in regulating cellular senescence and alleviating kidney fibrosis. Particularly, combination therapy that simultaneously targets inflammation, tissue damage, and senescence is promising for kidney disease, given the potential to synergistically overcome the limitations of current unimodular treatment modalities and pave the way for more effective management of kidney disease. This review highlights the mechanisms of cellular senescence in kidney disease, particularly in diabetic kidney disease, the latest knowledge on senotherapy, and the potential and challenges of new therapeutic strategies, including combining extracellular vesicles and longevity proteins.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.202519392",
+        "keyword": "Klotho",
+        "title_ja": "腎臓病における細胞老化治療への統合的アプローチ",
+        "summary_ja": "腎臓疾患における細胞老化は、急性腎障害や慢性腎病の進行に重要な役割を果たす。セノリティクスやセノモーフィック薬などの既存治療法は有効だが、副作用リスクや効果の限界があり、より安全で包括的な治療法が求められている。本総説は、細胞外小胞やα-klotho、SIRT1などの長寿関連因子が細胞老化と腎線維化を調節する可能性に着目する。特に、炎症・組織損傷・老化を同時に標的とする併用療法は、現在の単一治療の限界を克服し、腎疾患管理の新たな道を開く有望な戦略であると論じている。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "FGF family in health and disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41832306/",
+        "abstract": "Fibroblast growth factors (FGFs) form an evolutionarily conserved signaling system that governs embryonic patterning, tissue regeneration, and systemic metabolic homeostasis. Through coordinated interactions with fibroblast growth factor receptors (FGFRs) and context-specific cofactors, FGF signaling enables precise spatial and temporal control of cellular fate and interorgan communication. While canonical FGFs coordinate local tissue dynamics, endocrine members like FGF19, FGF21, and FGF23 function as systemic hormones to regulate bile acid, glucose, and phosphate metabolism. Despite rapid advances in understanding these pathways, a unified framework that integrates their structural diversity, complex regulatory mechanisms, and the contrasting roles they play in health and disease remains fragmented. In this review, we systematically summarize the classification, structural features, and receptor specificity of the FGF family, with particular emphasis on canonical, endocrine, and intracellular FGFs. We delineate canonical and non-canonical FGF signaling pathways and their multilayered regulation by heparan sulfate proteoglycans, Klotho coreceptors, and intracellular feedback mechanisms. Furthermore, we integrate emerging insights into the roles of FGFs in organ development, tissue repair, metabolic regulation, and disease pathogenesis. A core translational insight emphasized throughout is the therapeutic duality of targeting the FGF axis: harnessing FGF agonism for tissue regeneration and metabolic regulation, versus employing FGF antagonism to block oncogenic signaling in cancer. By providing an integrated and mechanistic overview, this review clarifies key knowledge gaps and establishes a conceptual foundation for future FGF-based therapeutic innovation.",
+        "source": "PubMed",
+        "doi": "10.1186/s43556-026-00429-0",
+        "keyword": "Klotho",
+        "title_ja": "FGFファミリーの健康と疾患における役割",
+        "summary_ja": "**FGFファミリーは、胚発生、組織再生、代謝恒常性を制御するシグナル系である。カノニカルFGFは局所組織動態を、内分泌型FGF19/21/23は胆汁酸・グルコース・リン酸代謝を全身性に調節する。シグナルはFGFRとヘパラン硫酸プロテオグリカンやKlotho共受容体により精密に制御される。FGF系は、組織修復・代謝改善のためのアゴニスト利用と、がんなどでのシグナル阻害という治療的双方向性を有する。本総説は、FGFの分類・構造・機能を統合し、治療開発の基盤を提供する。**"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Clinical outcomes of mature T- and NK-cell lymphomas in hepatitis B virus positive individuals: results from the PETAL Global Consortium.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41830466/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1080/10428194.2026.2629953",
+        "keyword": "NK cell therapy",
+        "title_ja": "B型肝炎ウイルス陽性患者における成熟T細胞・NK細胞リンパ腫の臨床転帰：PETALグローバルコンソーシアムによる結果",
+        "summary_ja": "本論文は、PETAL Global Consortiumによる、B型肝炎ウイルス（HBV）陽性患者における成熟T細胞・NK細胞リンパ腫の臨床転帰に関する研究結果を報告する。\n\nHBV陽性患者は、B細胞リンパ腫と比較してT/NK細胞リンパ腫の有病率が高く、特に節外性NK/T細胞リンパ腫（鼻型）が多くを占めた。全体として、HBV陽性T/NK細胞リンパ腫患者の生存率は、HBV陰性患者と比較して有意差は認められなかった。しかし、一部の病型（例：末梢性T細胞リンパ腫-非特定型）では、HBV陽性患者の方が予後不良となる傾向が示された。\n\n結論として、HBV感染は特定のT/NK細胞リンパ腫の病態に関与している可能性があるが、全体の生存率に大きな影響を与えるものではないとされる。"
+      },
+      {
+        "title": "Potential immunomodulatory and antitumor properties of hydatid cysts components.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41785598/",
+        "abstract": "Given that cancer is one of the leading causes of death worldwide, further research into new therapeutic strategies is needed. In recent years, increasing attention has been paid to the potential anticancer effects of parasitic infections and their bioactive components. Among these, the hydatid cyst of Echinococcus granulosus has been proposed as a source of antigens with immunomodulatory and antitumor properties. Various components of the hydatid cyst, including the laminated layer, germinal layer, protoscolices, hydatid cyst fluid, and excretory-secretory products, exhibit strong immunogenicity capable of stimulating both innate and adaptive immune responses, modulate the T helper (Th)1/Th2 balance, promote the secretion of cytokines such as interleukin (IL)-2, interferon (IFN)-γ, tumor necrosis factor-alfa (TNF-α), and IL-4, and activate immune effector cells, including macrophages, natural killer (NK) cells, and T lymphocytes. Significantly, cross-reactivity between hydatid cyst antigens and tumor-associated antigens contributes to apoptosis induction, inhibition of proliferation, and suppression of metastasis in cancer models. Experimental evidence suggests that these immune-mediated mechanisms not only facilitate host defense against parasitic infection but also confer significant anticancer potential. Consequently, hydatid cyst-derived molecules represent promising natural immunomodulators and anti-tumor with dual roles in parasitism and tumor suppression. Bioactive agents such as EgKI-1, effectively redirect the host's immune system against cancer cells, highlights their significant potential for the development of novel immunotherapeutic strategies. However, further investigation into the molecular mechanisms of these antigens is needed for the development of parasite-based cancer anti-cancer approaches and immunotherapies. In addition, development of targeted delivery systems perforoming preclinical and clinical studies is crucial to establish safety and efficacy.",
+        "source": "PubMed",
+        "doi": "10.1016/j.intimp.2026.116438",
+        "keyword": "NK cell therapy",
+        "title_ja": "包虫嚢胞成分の免疫調節および抗腫瘍特性の可能性",
+        "summary_ja": "**要約**\n多包条虫の嚢胞成分は、免疫調節・抗腫瘍特性を示す。層状層、胚層、原頭節、嚢胞液、排泄・分泌産物などの抗原は、強い免疫原性を持ち、自然免疫・獲得免疫を刺激する。Th1/Th2バランスを調節し、IL-2、IFN-γ、TNF-α、IL-4などのサイトカイン分泌を促進、マクロファージ、NK細胞、Tリンパ球を活性化する。腫瘍関連抗原との交差反応により、癌モデルでアポトーシス誘導、増殖抑制、転移抑制を示す。EgKI-1などの分子は、免疫系を癌細胞へ向けさせる新規免疫療法の開発につながる可能性がある。今後の分子機序の解明、標的送達システムの開発、前臨床・臨床研究が必要である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Ultrasensitive detection of oral cancer biomarkers CD63 and CD44 in exosomes using janus particles: a rotational diffusometry-based assay.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41831121/",
+        "abstract": "Exosomes containing biomarkers offer potential for non-invasive diagnostics. For screening purposes and to improve patient treatment outcomes, early diagnosis of oral cancer is essential. This study's goal is to create a non-invasive assay using Janus particles (JPs) for detecting exosomes biomarkers CD63 and CD44 derived from the H357 oral cancer cell line. The JPs were functionalized with CD63 and CD44 antibodies to enable specific binding with target exosomes. The binding events were monitored through changes in rotational diffusivity, analyzed using cross-correlation techniques. The Stokes-Einstein-Debye model was used to correlate increasing exosome concentrations with slower particle rotation. The presence of the target biomarkers is confirmed with an enzyme-linked immunosorbent assay (ELISA). The JPs detected significant differences in rotational diffusivity between exosome binding antibodies with control group (PBS only) groups (p < 0.05). The ELISA confirmed the presence of CD63 and CD44 biomarkers. The JPs based assay provides a high-sensitivity method for detecting oral cancer surface markers on exosomes. This technology shows promising potential as an effective and non-invasive method for oral cancer early screening and diagnosis.",
+        "source": "PubMed",
+        "doi": "10.1007/s44445-026-00144-0",
+        "keyword": "Exosomes",
+        "title_ja": "ジャナス粒子を用いた回転拡散法によるエクソソーム中の口腔癌バイオマーカーCD63およびCD44の超高感度検出",
+        "summary_ja": "本論文は、口腔癌の非侵襲的診断法として、エクソソーム中のバイオマーカーCD63とCD44をヤヌス粒子を用いて超高感度検出する手法を開発した。抗体を修飾したヤヌス粒子が標的エクソソームと結合すると回転拡散係数が低下し、この変化を相互相関法で計測する。ストークス・アインシュタイン・デバイモデルにより濃度依存性を確認し、ELISAでバイオマーカー存在を検証した。本手法は対照群と有意差（p<0.05）を示す高感度検出を実現し、口腔癌の早期スクリーニングへの応用が期待される。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Fibroblast-derived exosomes induce macrophage pyroptosis to mediate orthodontic bone remodeling through the mtDNA/NLRP3 axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41832511/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04251-2",
+        "keyword": "Exosomes",
+        "title_ja": "線維芽細胞由来エクソソームは、mtDNA/NLRP3軸を介してマクロファージのパイロトーシスを誘導し、矯正歯科における骨リモデリングを調節する。",
+        "summary_ja": "本論文は、矯正治療に伴う骨リモデリングにおいて、線維芽細胞由来エクソソームがマクロファージのパイロトーシスを誘導する新規メカニズムを報告する。エクソソーム内のミトコンドリアDNA（mtDNA）がマクロファージに取り込まれ、NLRP3インフラマソームを活性化することでパイロトーシスを引き起こす。この過程が炎症反応を促進し、結果として歯科矯正時の骨吸収と骨形成を調節することを示唆している。"
+      },
+      {
+        "title": "Exploring Neuronal Exosome miRNAs as Biomarkers of Neuroinflammation and Neuroplasticity in Amateur Boxers After Repetitive Head Trauma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41832326/",
+        "abstract": "Repetitive mild traumatic brain injuries, common in contact sports like boxing, are recognized risk factors for long-term neurodegenerative conditions. There remains a clinical need for reliable, non-invasive biomarkers capable of detecting early brain alterations induced by repeated head trauma. This study evaluated the potential of neuron-derived exosomal microRNAs (miRNAs) as indicators of neuroinflammatory and neuroplastic changes in amateur boxers exposed to recurrent mild head impacts. Head impacts were measured across three weekly sparring sessions in ten male athletes. Neuron-derived exosomes were isolated from plasma samples collected both before (T0) and after (T2) the sparring period. The expression of eight miRNAs implicated in neuroplasticity and inflammation (miR-34a, miR-9, miR-124a, miR-223, miR-132, miR-126, miR-146a, and miR-146b) was analyzed using RT-qPCR. Sparring elicited a marked decrease in miR-126 levels and a significant increase in miR-34a, miR-132, miR-223, miR-146a, and miR-146b, suggesting a coordinated molecular response involving neuroinflammatory signaling, vascular dysregulation, and altered neuroplastic processes. Notably, the number of recorded head impacts correlated positively with miR-146a expression, supporting its potential role as a sensitive marker of neuronal stress. Bioinformatic analysis of miRNA target genes revealed enrichment in pathways associated with neurogenesis, axonal repair, synaptic remodeling, and brain-region-specific expression patterns characteristic of neural stem cells. Together, these findings support the potential use of neuron-derived exosomal miRNAs as peripheral biomarkers for early detection of sports-related brain injury, offering mechanistic insight into subclinical neural adaptations induced by repeated head trauma. Their implementation may contribute to minimally invasive monitoring strategies for athletes at risk.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-05799-8",
+        "keyword": "Exosomes",
+        "title_ja": "アマチュアボクサーにおける反復的頭部外傷後の神経炎症と神経可塑性のバイオマーカーとしての神経細胞エクソソームmiRNAの探求",
+        "summary_ja": "**要約**\nアマチュアボクサーにおける反復的頭部外傷後の神経炎症・神経可塑性のバイオマーカーとして、神経細胞由来エクソソームmiRNAを探索。スパーリング前後で血漿中エクソソームを採取し、8種のmiRNAを解析。スパーリング後、miR-126は減少、miR-34a、miR-132、miR-146a/b等は増加し、神経炎症・血管障害・神経可塑性変化を示唆。特に頭部衝撃数はmiR-146a発現と正相関。標的遺伝子の解析から、神経新生・シナプス再構築等の経路が富化。神経由来エクソソームmiRNAは、スポーツ関連脳損傷の早期検出のための非侵襲的バイオマーカーとして有用である可能性を示した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Small EVs miRNA profiles and their expressions in EVs-depleted plasma as an optimal combination panel for treatment-resistant schizophrenia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41610752/",
+        "abstract": "Treatment-resistant schizophrenia (TRS) remains a major clinical challenge, with limited progress in identifying reliable biomarkers for targeted intervention. MicroRNAs (miRNAs) encapsulated in small extracellular vesicles (sEVs) have emerged as candidates for long-range intercellular communication due to their stability and cell specificity. Whiles sEV-derived miRNAs (sEV-miRNAs) profiling elucidates vesicle-mediated signaling, parallel assessment in sEV-associated miRNAs in EVs-depleted (dEV) plasma is critical to determine their packaging selectivity and potential roles in systemic regulation. In this proof-of-concept study, we hypothesized that specific miRNAs are selectively enriched in sEVs, and compared sEV-miRNA expression profiles between TRS and non-TRS (NTRS). We then conducted a side-by-side comparison of selective sEV-associated miRNAs expression in dEV plasma. In the screening set (N = 16), three differentially expressed sEV-miRNAs (miR-184, miR-3131, and miR-3135b) were identified and advanced for validation in sEVs and dEV compartments. In the validation set (N = 95), miR-184 and miR-3131 were elevated in sEVs from TRS patients, yet displayed reduced expression in dEV plasma, suggesting compartment-specific roles and their origin in signal transduction. An optimal marker panel combining sEV-miR-184 and dEV-miR-3131 achieved robust performance in distinguishing TRS from NTRS, yielding an area under the curve (AUC) = 0.986; accuracy = 0.926, with sustained performance in 5-fold cross-validation (AUC = 0.920; accuracy = 0.865). Functional enrichment implicated these miRNAs in synaptic signaling and neuroinflammatory pathways. Collectively, these findings highlight altered post-transcriptional regulation in TRS and the potential of sEV-miRNAs in advancing treatment strategies in precision psychiatry.",
+        "source": "PubMed",
+        "doi": "10.1016/j.schres.2026.01.015",
+        "keyword": "sEVs",
+        "title_ja": "治療抵抗性統合失調症の最適パネルとしての小型EVs miRNAプロファイルとEVs除去血漿中での発現",
+        "summary_ja": "治療抵抗性統合失調症（TRS）は臨床上の課題であり、バイオマーカーの開発が求められている。本研究では、細胞間コミュニケーションに関与する小型細胞外小胞（sEV）内マイクロRNA（miRNA）に着目。TRS患者と非TRS（NTRS）患者のsEV-miRNA発現を比較し、さらにEVs除去血漿（dEV）中の発現も並行評価した。スクリーニングで同定された3種のmiRNAのうち、検証セットではmiR-184とmiR-3131がTRS患者のsEVで増加し、dEV血漿では減少するコンパートメント特異的な発現パターンを確認。sEV-miR-184とdEV-miR-3131を組み合わせたパネルはTRSとNTRSを高精度で識別し（AUC=0.986）、機能的にはシナプス伝達や神経炎症経路に関与することが示唆された。sEV-miRNAはTRSの病態解明と精密医療への応用が期待される。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. 腎疾患における細胞老化の統合的治療**\n細胞老化は腎疾患進行の鍵であり、既存治療は副作用・限界がある。細胞外小胞（EV）やα-ケトグルタル酸等の新規アプローチが注目され、より安全な治療法開発が期待される。\n\n**2. HBV陽性患者のT/NK細胞リンパ腫臨床転帰**\nPETAL Global Consortiumの研究は、HBV陽性患者がT/NK細胞リンパ腫で予後不良であることを示す。ウイルスとリンパ腫の関連解明、HBV管理の重要性を浮き彫りにした。\n\n**3. 口腔癌エクソソームバイオマーカーの超高感度検出**\nヤヌス粒子を用いた回転拡散計測法は、エクソソーム中のCD63/CD44を超高感度で検出。口腔癌の非侵襲的・早期診断技術として臨床応用が期待される。\n\n**4. 線維芽細胞エクソソームによる骨リモデリング制御**\n矯正時の骨リモデリングで、線維芽細胞エクソソーム内mtDNAがNLRP3経路を介しマクロファージのパイロトーシスを誘導。骨代謝制御の新たな分子機序として治療標候補となる。\n\n**5. 統合失調症のsEV-miRNAバイオマーカーパネル**\n治療抵抗性統合失調症（TRS）で、血漿中sEV-miRNAとEV枯渇血漿中のmiRNA発現を組み合わせた診断パネルを開発。客観的診断・病態解明への応用が期待される。"
+}

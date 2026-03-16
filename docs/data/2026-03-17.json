@@ -1,0 +1,121 @@
+{
+  "A": {
+    "医学": [
+      {
+        "title": "Therapeutic small extracellular vesicles from key human stem and immune cellular sources: A review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41833359/",
+        "abstract": "Cell-to-cell communication is fundamental to life, with extracellular vesicles (EVs) playing a key role in intercellular signaling. Among them, small EVs (sEVs) have gained increasing attention as next-generation therapeutics. This review provides an overview of sEVs as therapeutic agents, comparing their advantages with cell-based and liposomal therapies, including unique benefits such as their enhanced ability to traverse biological barriers, ease of storage and administration, and their capability to utilize cellular machinery for fine-tuning therapeutic effects. Additionally, the therapeutic potential of sEVs from common human cell sources, including stem cells and immune cells, is discussed, highlighting their roles in modulating signaling pathways, cellular responses, and the microenvironment for treating cardiovascular, orthopedic, neurological, and autoimmune diseases, as well as cancer. Despite their promising outlook, challenges such as heterogeneity, extensive quality control requirements, systemic clearance, and scale-up limitations hinder clinical translation. Nonetheless, advancements in assay development, microfluidic models, computational databases, and bioengineering strategies continue to drive sEV-based therapies toward clinical and commercial viability.",
+        "source": "PubMed",
+        "doi": "10.7555/JBR.39.20250424",
+        "keyword": "NK cell therapy",
+        "matched_keywords": [
+          "NK cell therapy",
+          "Exosomes",
+          "sEVs"
+        ],
+        "title_ja": "主要なヒト幹細胞および免疫細胞由来の治療用小細胞外小胞：レビュー",
+        "summary_ja": "細胞間コミュニケーションにおいて、細胞外小胞（EVs）、特に小型EVs（sEVs）は次世代治療剤として注目されている。本レビューは、sEVsの治療薬としての可能性を概説し、生体障壁透過性や保存・投与の容易さ、細胞機構を利用した治療効果の微調整など、細胞療法やリポソーム療法に対する優位性を指摘する。また、幹細胞や免疫細胞など主要なヒト細胞由来のsEVsが、心血管・整形外科・神経・自己免疫疾患や癌治療において、シグナル伝達経路や微小環境を調節する役割を有することを示す。臨床応用には、異質性や品質管理、全身クリアランス、スケールアップなどの課題が残るものの、アッセイ開発やマイクロ流体モデル、バイオエンジニアリング戦略の進展が実用化を推進している。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Late-onset combined immunodeficiency and bone marrow failure in severe autoimmune hepatitis: a case report.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41834055/",
+        "abstract": "Late-onset combined immunodeficiency ( is a rare primary immunodeficiency characterized by hypogammaglobulinemia, T-cell lymphopenia, and susceptibility to opportunistic infections. While autoimmune liver involvement has been well documented in common variable immunodeficiency, no association with late-onset combined immunodeficiency has previously been reported. This case represents, to our knowledge, the first pediatric description of autoimmune hepatitis as the initial manifestation of late-onset combined immunodeficiency.",
+        "source": "PubMed",
+        "doi": "10.1186/s13256-025-05800-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "重症自己免疫性肝炎における遅発性複合免疫不全と骨髄不全：症例報告",
+        "summary_ja": "後発性複合免疫不全症（LOCID）は、低ガンマグロブリン血症、T細胞リンパ球減少、日和見感染易性を特徴とする稀な原発性免疫不全症である。自己免疫性肝障害は、他の免疫不全症では報告があるが、LOCIDとの関連は未報告であった。本症例は、自己免疫性肝炎を初発症状としたLOCIDの小児例として初めての報告である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Correction to: Tumor-Derived Exosomal Circular RNA Pinin Induces FGF13 Expression to Promote Colorectal Cancer Progression through miR-1225-5p.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41834171/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.5009/gnl230304.e",
+        "keyword": "Exosomes",
+        "title_ja": "訂正：腫瘍由来エクソソーム性環状RNAピニンはmiR-1225-5pを介してFGF13発現を誘導し、大腸癌の進行を促進する",
+        "summary_ja": "本論文は、大腸がん（CRC）における腫瘍由来エクソソーム内の環状RNA「Pinin」（circPinin）の役割を解明した。circPininはmiR-1225-5pを吸着（スポンジ）し、その抑制を解除することで線維芽細胞増殖因子13（FGF13）の発現を促進する。このシグナル伝達経路は、CRC細胞の増殖、浸潤、転移を駆動し、がんの悪性化を促進する。したがって、circPinin/miR-1225-5p/FGF13軸は、CRCの新たな治療標的となる可能性が示唆される。"
+      },
+      {
+        "title": "Exosomal ZFPL1 Identifies Neuroendocrine and Stem Cell-Like Prostate Cancer Subtypes?",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41833068/",
+        "abstract": "Calcitonin (CT) and its receptor promote prostate cancer (PC) progression and metastasis. Identifying downstream CT-regulated genes may provide clinically useful biomarkers.",
+        "source": "PubMed",
+        "doi": "10.1002/pros.70148",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム由来ZFPL1による神経内分泌型および幹細胞様前立腺癌サブタイプの同定",
+        "summary_ja": "カルシトニン（CT）とその受容体は前立腺癌（PC）の進行・転移を促進する。本研究では、CT制御下流遺伝子を探索し、臨床的有用なバイオマーカー候補としてエクソソーム関連タンパク質ZFPL1を同定。ZFPL1は神経内分泌型および幹細胞様PCサブタイプの識別に寄与する可能性が示唆された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "From Vesicles to Value: A Standards-First Blueprint for Exosomal Small-RNA Diagnostics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41834925/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s12291-025-01357-6",
+        "keyword": "Exosomes",
+        "title_ja": "小胞体から価値へ：エクソソーム小分子RNA診断のための標準先行型ブループリント",
+        "summary_ja": "**論文要約：『From Vesicles to Value: A Standards-First Blueprint for Exosomal Small-RNA Diagnostics』**\n\n本論文は、エクソソームに含まれるsmall RNAを疾患診断バイオマーカーとして実用化するための「標準化先行」ロードマップを提案する。現状は、エクソソームの分離・RNA抽出法、測定技術の違いによりデータの比較可能性が低く、臨床応用の障壁となっている。著者らは、試料前処理からデータ解析に至る全工程で、厳格な参照材料（リファレンスマテリアル）と標準プロトコルを確立する必要性を強調。標準化を通じて測定の再現性と精度を高め、エクソソームsmall RNA診断の信頼性を確保し、臨床導入と商業的価値創出を加速すべきと論じる。"
+      }
+    ],
+    "農学": [],
+    "工学": [
+      {
+        "title": "Optimization of Microfluidic Geometry for Extracellular Vesicle Capture Using an Automated Parallel Pattern Search.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41834358/",
+        "abstract": "Microfluidic affinity-based capture of extracellular vesicles (EVs) holds great promise for disease diagnostics and monitoring therapeutic EV production. However, optimizing microfluidic channel geometries for efficient EV capture remains understudied due to the effort required to experimentally test numerous designs. To overcome this, we developed an automated parallel pattern search (PPS) optimizer integrating Python, COMSOL Multiphysics, and high-performance computing. We applied this approach to optimize triangular micropillar array geometries by parameterizing periodic unit cells and maximizing simulated particle capture efficiency. Surprisingly, the highest EV capture was not achieved by maximizing the number of pillars and surface area. Instead, designs with slightly larger, more widely spaced pillars promoted EV contact by enabling slower particles to follow the contours of the pillars more closely. We validated these findings experimentally using bioreactor-produced EVs and microchannels functionalized with anti-CD63 antibodies. EVs captured in the best and worst designs were quantified using fluorescence plate reading and eluted for nanoparticle tracking analysis (NTA), confirming a significant increase in capture efficiency with the optimized design. These results highlight the power of automated microfluidic optimization to advance EV isolation technologies and demonstrate a practical strategy for improving device performance in this rapidly growing field.",
+        "source": "PubMed",
+        "doi": "10.1002/pmic.70115",
+        "keyword": "Exosomes",
+        "title_ja": "自動化並列パターン探索を用いた細胞外小胞捕捉のためのマイクロ流体デバイス形状最適化",
+        "summary_ja": "マイクロ流体デバイスを用いた細胞外小胞（EV）の効率的な捕捉には、チャネル形状の最適化が重要である。本研究では、多数の設計を実験的に検証する負荷を軽減するため、Python、COMSOL、高性能計算を統合した自動化並列パターン探索（PPS）手法を開発した。三角マイクロピラーアレイの最適化を行った結果、捕捉効率が最大となるのは、ピラー数や表面積を最大化する設計ではなく、ピラーをやや大きく間隔を広げ、粒子がピラー表面に沿って低速で移動できる設計であった。抗CD63抗体で修飾したマイクロチャネルとバイオリアクター産生EVを用いた実験的検証により、最適化設計で捕捉効率が大幅に向上することを、蛍光プレートリーダーおよびナノ粒子追跡分析（NTA）で確認した。本手法はEV分離技術の高度化に寄与する実用的な最適化戦略である。"
+      }
+    ],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. sEVsの治療剤としての可能性**\n細胞外小胞、特に小型EVs（sEVs）は、生体障壁透過性や安定性に優れ、細胞間コミュニケーションを介した次世代治療剤として注目。幹細胞や免疫細胞由来のsEVsの治療応用が期待される。\n\n**2. 腫瘍エクソソームcircRNAの役割解明**\n大腸がん由来エクソソーム内の環状RNA「circPinin」がmiR-1225-5pを吸着し、FGF13発現を促進してがん進行に関与。新たな診断・治療ターゲットとなる可能性。\n\n**3. エクソソーム診断の標準化への道筋**\nエクソソーム内small RNAを診断に応用するため、サンプル処理からデータ解析までの標準化プロトコル確立が急務。再現性のある臨床応用への重要な青図を提示。\n\n**4. エクソソームタンパク質によるがんサブタイプ分類**\n前立腺がんにおいて、エクソソーム関連タンパク質ZFPL1が神経内分泌型や幹細胞様サブタイプの識別に有用なバイオマーカー候補として同定。個別化医療への貢献が期待。\n\n**5. マイクロ流体デバイスの効率化手法**\nEV捕捉用マイクロ流体チップの設計最適化を、自動化並列探索により効率的に実施。高感度なEV分析技術の開発加速に寄与する方法論を確立。"
+}

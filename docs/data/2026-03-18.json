@@ -1,0 +1,256 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Effect of lixisenatide on arterial stiffness in people with type 2 diabetes and kidney disease: Results of a randomised controlled trial.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41705420/",
+        "abstract": "People with chronic kidney disease (CKD) and diabetes are at high risk of cardiovascular disease (CVD). Aortic pulse wave velocity (Ao-PWV) is an independent predictor of CVD. Cardiovascular outcome trials (CVOTs) with glucagon like peptide-1 receptor agonist (GLP-1 RA) class demonstrate notable differences, with lixisenatide having neutral effects as compared to longer acting GLP-1 RA. It is unknown if shorter acting GLP-1 RA have an impact on Ao-PWV and if this may explain the discordance observed in GLP-1RA CVOTs.",
+        "source": "PubMed",
+        "doi": "10.1111/dom.70481",
+        "keyword": "Klotho",
+        "title_ja": "2型糖尿病および腎疾患患者におけるリキセナチドの動脈硬化への影響：無作為化比較試験の結果",
+        "summary_ja": "**要約**\n2型糖尿病と慢性腎臓病（CKD）患者は心血管疾患（CVD）リスクが高い。大動脈脈波伝播速度（Ao-PWV）はCVDの独立予測因子である。GLP-1受容体作動薬（GLP-1 RA）の心血管アウトカム試験（CVOT）では、作用時間の長い薬剤と異なりリキセナチドは中性効果を示す。この相違の機序として、短時間作用型GLP-1 RAのAo-PWVへの影響は不明であった。本無作為化比較試験は、リキセナチドがAo-PWVに有意な影響を及ぼさないことを示し、CVOT結果の相違を説明する可能性を示唆した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Human CD3 complex is required for the generation of T-cell receptor-like chimeric antigen receptor targeting WT1 in natural killer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41843174/",
+        "abstract": "Chimeric antigen receptor-natural killer (CAR-NK) cells represent a promising cellular immunotherapy platform for various cancers, offering a favorable clinical safety profile and potential to generate off-the-shelf products. However, broader application of CAR-NK cells is in part restricted by the availability of surface tumor antigens. T-cell receptor (TCR)-like CARs have gained increasing attention due to their ability to recognize peptides derived from intracellular tumor antigens presented by major histocompatibility complex molecules. In the present study, we designed a third-generation CAR targeting WT1(126-134) peptide presented by HLA-A*02:01, harboring a TCR-like scFv linked to CD28, 4-1BB, and CD3ζ signaling domains (CAR-WT1), and introduced it into human NK-92 cells-the only FDA-approved NK cell line for clinical trials. Interestingly, we found that surface expression of CAR-WT1 in NK-92 cells required the presence of human CD3 complex, as observed for full-length TCRs. Quantitative PCR and subsequent pathway and network analyses indicated enhanced immune activation potentially relevant to effector function in CAR-WT1/CD3 NK-92 cells. The established CAR-WT1/CD3 NK-92 cells exhibited significantly greater cytotoxicity against WT1",
+        "source": "PubMed",
+        "doi": "10.1007/s00262-026-04352-9",
+        "keyword": "NK cell therapy",
+        "title_ja": "ヒトCD3複合体は、ナチュラルキラー細胞におけるWT1標的型T細胞受容体様キメラ抗原受容体の生成に必要である。",
+        "summary_ja": "本論文は、WT1腫瘍抗原を標的とするT細胞受容体（TCR）様キメラ抗原受容体（CAR）をNK細胞に発現させる研究である。CAR-NK細胞は有望な免疫療法プラットフォームだが、標的となる表面抗原が限られる。そこで、細胞内抗原由来のペプチドをMHC分子上で認識するTCR様CARをNK-92細胞株に導入した。興味深いことに、このCAR（CAR-WT1）の細胞表面発現には、完全長TCRと同様にヒトCD3複合体の存在が必要であった。CAR-WT1とCD3を共発現させたNK-92細胞は、免疫活性化関連経路が増強され、WT1陽性細胞に対して顕著に高い細胞傷害活性を示した。"
+      },
+      {
+        "title": "Mitochondrial impairment and mTORC1 signalling exhaustion define NK Cell dysfunction progression in melanoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41843165/",
+        "abstract": "Cutaneous melanoma is a highly metastatic cancer which had limited treatment options until the advent of immune checkpoint inhibitors (ICI); however, only around 50% of patients respond. Natural killer (NK) cells are potent cytotoxic and cytokine producing lymphocytes which present a promising avenue for immunotherapy. However, the progressive dysfunction of NK cells during cancer development represents a major barrier to effective autologous therapies. This study investigated the metabolic and functional plasticity of circulating NK cells during melanoma progression from Stage III lymph node positive and Stage IV metastatic melanoma. Stage III patient NK cells displayed reduced mitochondrial mass, fragmented morphology and dysregulated mTORC1 activity, accompanied by impaired cytotoxicity. Stage IV patients showed severe mitochondrial fragmentation, altered mTORC1 activation and markedly reduced cytokine responsiveness. Pharmacologic restoration of mTORC1 activity using MHY1485 rescued IFN-y production in Stage III but not Stage IV patient NK cells, suggesting stage-dependent differences in metabolic responsiveness. Collectively, these findings indicate progressive metabolic and functional impairment of circulating NK cells as melanoma advances and highlight a potential window for therapeutic intervention earlier in disease progression.",
+        "source": "PubMed",
+        "doi": "10.1007/s00262-026-04323-0",
+        "keyword": "NK cell therapy",
+        "title_ja": "ミトコンドリア機能障害とmTORC1シグナル枯渇がメラノーマにおけるNK細胞機能不全の進行を規定する",
+        "summary_ja": "皮膚メラノーマにおけるNK細胞機能不全の進行は、ミトコンドリア障害とmTORC1シグナル枯渇により特徴づけられる。ステージIII患者のNK細胞では、ミトコンドリア質量の減少、断片化、mTORC1活性の調節異常と細胞傷害能の低下が認められた。ステージIVでは、ミトコンドリア断片化がさらに深刻化し、mTORC1活性が変化、サイトカイン応答性が著しく減衰した。薬理学的なmTORC1活性回復はステージIIIのIFN-γ産生を救済したが、ステージIVでは効果がなく、代謝応答性に病期依存性の差異が示された。これらの結果は、メラノーマの進行に伴うNK細胞の代謝・機能障害の進行を明らかにし、早期病期における治療介入の可能性を示唆する。"
+      },
+      {
+        "title": "Balancing the Dual Mechanisms of Anti-VISTA mAbs for Anti-Tumor Activity: CD8+ T Cell Responses and Fc-dependent Depletion of VISTA-Expressing Immune Cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41841398/",
+        "abstract": "V-domain immunoglobulin suppressor of T cell activation (VISTA) is a negative immune checkpoint and an emerging target for cancer immunotherapy, yet its broad expression on myeloid cells and T cells has complicated therapeutic antibody development. Here, we report two monoclonal antibodies (mAbs), Vs22 and Mu61, which were engineered from a common parental antibody and are cross-reactive with both human VISTA (hVISTA) and mouse VISTA (mVISTA). Vs22 demonstrates anti-tumor efficacy in the CT26 syngeneic model, whereas Mu61 is ineffective despite having a slightly higher affinity for mVISTA than Vs22. While both mAbs block VISTA-ligand interactions and deplete VISTA⁺ tumor-infiltrating immune cells via NK cytotoxicity, they differed in several aspects: they recognize similar but non-identical epitopes; only Vs22 enhances cytokine production by CD8⁺ T cells; and Vs22 exhibits a better pharmacokinetic (PK) profile and greater VISTA endocytosis. This multifaceted profile likely underlies Vs22's anti-tumor efficacy, in contrast to the inactive Mu61. Mechanistic studies revealed Vs22's anti-tumor activity requires coordinated fragment antigen-binding (Fab)-mediated VISTA blockade and fragment crystallizable (Fc) effector function and Vs22 treatment leads to durable, tumor-specific immune memory. Notably, combining Vs22 with TABBY106, an agonistic anti-4-1BB antibody, produced synergistic anti-tumor effects across CT26, MC38, and EMT6 models, substantially outperforming monotherapy. Collectively, we identify Vs22 as a cross-species anti-VISTA mAb that achieves effective tumor control by simultaneously blocking VISTA signaling and engaging strong Fc-mediated cytotoxicity. The synergy between Vs22 and 4-1BB-stimulation highlights a promising combination strategy to enhance anti-tumor immunity and supports the clinical translation of VISTA-targeting therapeutics.",
+        "source": "PubMed",
+        "doi": "10.1158/1535-7163.MCT-24-1214",
+        "keyword": "NK cell therapy",
+        "title_ja": "抗VISTA抗体の抗腫瘍活性における二重メカニズムのバランス：CD8+T細胞応答とVISTA発現免疫細胞のFc依存性除去",
+        "summary_ja": "**要約**\nVISTAは免疫チェックポイント分子であり、癌免疫療法の標的として注目される。本研究では、ヒトとマウスのVISTAに交差反応する2種類のモノクローナル抗体（Vs22、Mu61）を開発した。両抗体はVISTA-リガンド相互作用を阻害し、Fc依存性の細胞傷害によりVISTA発現免疫細胞を除去するが、抗腫瘍効果はVs22のみが示した。Vs22は、Mu61と比較して、CD8⁺T細胞のサイトカイン産生を増強し、薬物動態とVISTAの内在化が優れていた。Vs22の効果には、Fabを介したVISTA阻害とFcエフェクター機能の両方が必要であった。さらに、Vs22と抗4-1BB抗体の併用は相乗的な抗腫瘍効果を示した。以上より、Vs22は二重の機序で効果的な腫瘍制御を達成する有望な抗VISTA抗体である。"
+      },
+      {
+        "title": "Cytidinyl/Cationic Lipids-siRNA Delivery Silences MYC to Reprogram Macrophages and Circadian Rhythm for Cancer Treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41841193/",
+        "abstract": "Nonsmall cell lung cancer (NSCLC) remains a leading cause of cancer-related mortality, with ",
+        "source": "PubMed",
+        "doi": "10.1021/acs.molpharmaceut.5c01718",
+        "keyword": "NK cell therapy",
+        "title_ja": "シトシジニル/カチオン性脂質-siRNA送達によるMYCサイレンシングは、がん治療のためのマクロファージと概日リズムの再プログラムを実現",
+        "summary_ja": "本論文は、非小細胞肺癌（NSCLC）治療の新規アプローチとして、Cytidinyl/カチオン性リピッドを用いたsiRNAデリバリーシステムを開発した。このシステムは、癌細胞におけるMYC遺伝子の発現を特異的に抑制し、腫瘍関連マクロファージの再プログラミングと体内時計（概日リズム）の調節を同時に誘導する。これにより、腫瘍微小環境を改善し、抗腫瘍効果を発揮することが示された。"
+      },
+      {
+        "title": "Bifidobacterium breve inhibits colorectal cancer via extracellular vesicles containing formate acetyltransferase.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41840625/",
+        "abstract": "Colorectal cancer (CRC) is the second leading cause of cancer-related mortality worldwide. The gut microbiota exerts unique therapeutic advantages against CRC, and the probiotic Bifidobacterium breve (B. breve) has been extensively documented to suppress CRC initiation in murine models. Although the role of B. breve in CRC has been established, whether its extracellular vesicles (EVs), as key mediators of bacteria-host crosstalk, exert a functional impact remains undefined. Here, we aim to explore the therapeutic potential of B. breve-derived EVs (B.breEVs) and their active cargo, formate acetyltransferase (pflB), in CRC.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04275-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "ビフィドバクテリウム・ブレーベは、ギ酸アセチルトランスフェラーゼを含む細胞外小胞を介して大腸癌を抑制する。",
+        "summary_ja": "大腸癌（CRC）は、腸内細菌叢による治療的効果が注目されている。プロバイオティクスBifidobacterium breve（B. breve）はCRC抑制が報告されているが、その細胞外小胞（EVs）の機能は不明であった。本研究では、B. breve由来EVs（B.breEVs）が、含有する活性物質フォルミアートアセチルトランスフェラーゼ（pflB）を介して、大腸癌細胞の増殖を抑制し、アポトーシスを誘導することを明らかにした。B.breEVsは、pflBによるピルビン酸代謝調節を介して抗腫瘍効果を発揮し、新たなCRC治療戦略となる可能性を示唆している。"
+      },
+      {
+        "title": "Characteristics of NK cells activation following IL-12, IL-15, IL-18 cytokines stimulation for preclinical purposes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41840113/",
+        "abstract": "Adoptive cell therapy is a promising strategy in cancer treatment, among which NK cell therapies represent an encouraging approach. Freshly isolated NK cells exhibit low cytolytic activity. Therefore, efficient activation of NK cells is essential to enhance their anti-cancer properties. The aim of this study was to compare ex vivo NK cells activation with commonly used cytokines, including IL-2, IL-12, IL-15, IL-18, or STING agonist, and to determine the most effective activation method. Our results indicate higher viability and expression of activating receptors and granzyme B in IL-15-treated NK cells. The addition of IL-12 to IL-15 augmented the production of IFN-γ and CCL3 in NK cells. However, incubation of NK cells with a cocktail of IL-12, IL-15, and IL-18 cytokines generated massive production of pro-inflammatory cytokines and a significant increase in activation marker CD69. We have also observed reduced viability of NK cells after incubation with STING agonist. NK cells activated with IL-12/IL-15, and IL-12/IL-15/IL-18 co-cultured with MHC",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-42816-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "前臨床目的におけるIL-12、IL-15、IL-18サイトカイン刺激後のNK細胞活性化特性",
+        "summary_ja": "本論文は、がん治療におけるNK細胞療法の効果向上を目的に、IL-2、IL-12、IL-15、IL-18、STINGアゴニストを用いたex vivo活性化法を比較検討した。結果、IL-15単独処理はNK細胞の生存率、活性化受容体及びグランザイムB発現を高めた。IL-12をIL-15に添加すると、IFN-γとCCL3産生が増強された。さらにIL-12/IL-15/IL-18のカクテル刺激は、著しい炎症性サイトカイン産生と活性化マーカーCD69の顕著な上昇を誘導した。一方、STINGアゴニストは細胞生存率を低下させた。IL-12/IL-15およびIL-12/IL-15/IL-18で活性化したNK細胞は、MHC欠損細胞との共培養で高い抗腫瘍効果を示した。"
+      },
+      {
+        "title": "Safety and efficacy of CD33-targeted CAR-NK cell therapy for relapsed/refractory AML: preclinical evaluation and phase I trial",
+        "url": "https://www.semanticscholar.org/paper/01115fa77e71d241719ff5019d4cf2d486ceb7e6",
+        "abstract": "Due to the lack of effective treatment options, the prognosis of patients with relapsed/refractory acute myeloid leukemia (R/R AML) remains poor. Although chimeric antigen receptor (CAR)-T-cell therapy has shown promising effects in acute lymphoblastic leukemia (ALL) and lymphoma, its application in R/R AML is limited by “off-target” effects, which lead to severe bone marrow suppression and limit its clinical application. CAR-natural killer (NK) cells not only exhibit antitumor effects but also demonstrate increased safety and universality. We have developed a new CAR construct that targets CD33 and modified NK cells, specifically eliminating AML cells while reducing severe side effects on stem cells. The CD33-targeting domain was selected by CAR-T cells, and this optimized CAR construct was subsequently transduced into umbilical cord-derived NK cells via a retroviral vector. Preclinical efficacy and safety studies were conducted both in vitro and in vivo. Ten eligible patients with R/R AML aged 18–65 years who received one or more infusions of anti-CD33 CAR-NK cells following the preconditioning regimen were enrolled. We assessed the response rates and treatment-related side effects post-infusion, while also documenting the long-term efficacy of the therapy. The CD33 sequence was selected on the basis of its antitumor efficacy and safety in CAR-T-cell studies conducted both in vitro and in vivo. CD33 CAR-NK cells demonstrated efficacy comparable to that of CD33 CAR-T cells but showed limited toxicity to hematopoietic stem cells (HSCs). Ten patients, with a median of five prior lines of treatment, completed the efficacy evaluation (range, 3–8). No grade 3–4 adverse events were observed, except bone marrow suppression, which was relieved within one month. No cases of immune effector cell–associated neurotoxicity syndrome (ICANS) or graft-versus-host disease (GVHD) were reported following CAR-NK cell infusion. Only one patient experienced grade 2 cytokine release syndrome (CRS) and presented with persistent fever. By day 28, six of ten patients had achieved minimal residual disease (MRD)-negative complete remission. Our preclinical and clinical data demonstrated the primary efficacy and safety of CD33 CAR-NK cells for patients with R/R AML. Expanded samples and longer follow-up periods are needed to provide further efficacy data. NCT05008575 (https://clinicaltrials.gov/study/NCT05008575).",
+        "source": "SemanticScholar",
+        "doi": "10.1186/s40164-024-00592-6",
+        "keyword": "NK cell therapy",
+        "title_ja": "CD33標的CAR-NK細胞療法の再発・難治性AMLに対する安全性と有効性：臨床前評価および第I相試験",
+        "summary_ja": "再発・難治性急性骨髄性白血病（R/R AML）は予後不良である。CAR-T療法は骨髄抑制などの副作用によりAMLへの応用が限られていた。本研究では、CD33を標的とし、安全性を最適化した新規CAR構築体を開発し、臍帯血由来NK細胞に導入した。前臨床試験で有効性と安全性を確認後、18～65歳のR/R AML患者10名を対象に第I相試験を実施した。重篤な有害事変（ICANS、GVHD）は認められず、骨髄抑制は1か月以内に軽快した。投与28日後、10名中6名でMRD陰性の完全寛解が達成された。CD33 CAR-NK療法はR/R AMLに対して有望な有効性と安全性を示した。"
+      },
+      {
+        "title": "CAR-NK cell therapy: latest updates from the 2024 ASH annual meeting",
+        "url": "https://www.semanticscholar.org/paper/cc40ed7d833351088d1a7f97dcd8a85e66c87bca",
+        "abstract": "Natural killer cells, integral to the innate immune response, exhibit the inherent capacity to identify and eliminate cancer cells without prior exposure, positioning them as prime candidates for immunotherapeutic strategies. Chimeric antigen receptor-engineered natural killer (CAR-NK) cells obviate the requirement for human leukocyte antigen compatibility, simplifying personalized schedules and facilitating the manufacture of off-the-shelf products. In addition, CAR-NK cell therapy possesses lower risk of cytokine release syndrome and neurotoxicity, benefitting patients with higher security. Nevertheless, CAR-NK cell therapy is also confronted with challenges, including but not limited to short lifespan and restrictions from tumor microenvironment. Here, we summarized the latest advancements in the preclinical investigations and clinical trials of CAR-NK cell therapy from the 2024 ASH Annual Meeting.",
+        "source": "SemanticScholar",
+        "doi": "10.1186/s13045-025-01677-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "CAR-NK細胞療法：2024年ASH年次総会からの最新報告",
+        "summary_ja": "**CAR-NK細胞療法：2024年ASH年次集会の最新知見**\n\n自然殺傷（NK）細胞は、事前感作なしにがん細胞を認識・排除する生来の免疫能を持ち、免疫療法の有力候補である。キメラ抗原受容体を導入したCAR-NK細胞は、HLA適合が不要で、オフ・ザ・シェルフ製剤の製造を可能にする。さらに、サイトカイン放出症候群や神経毒性のリスクが低く安全性に優れる。しかし、寿命の短さや腫瘍微小環境による制限などの課題も残る。2024年ASH年次集会では、これらの課題克服に向けた前臨床研究及び臨床試験の最新進展が報告された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosome-based vaccines in cancer immunotherapy: antitumor mechanisms, engineering strategies, and challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41843206/",
+        "abstract": "Exosome-based vaccines hold significant promise in cancer immunotherapy, yet their native forms face inherent challenges, including imprecise targeting, suboptimal immunogenicity, and poor controllability of antigen loading. This review posits that engineering is pivotal to transforming exosomes from passive carriers into active, programmable therapeutic platforms. We systematically dissect the multifaceted antitumor mechanisms of exosomes and critically evaluate how various engineering strategies (e.g., physical loading, genetic modification, membrane functionalization) are designed to address these specific biological bottlenecks, thereby establishing a coherent \"biological limitation-engineering solution\" framework. Building on this foundation, we assess their application potential and ongoing challenges in areas such as personalized neoantigen vaccines.",
+        "source": "PubMed",
+        "doi": "10.1007/s00432-026-06435-7",
+        "keyword": "Exosomes",
+        "title_ja": "がん免疫療法におけるエクソソームベースワクチン：抗腫瘍メカニズム、設計戦略、および課題",
+        "summary_ja": "本論文は、がん免疫療法におけるエクソソームベースワクチンの可能性と課題を論じる。天然のエクソソームは、標的精度・免疫原性・抗原負荷制御に課題がある。著者らは、エクソソームを受動的キャリアから能動的・プログラム可能な治療プラットフォームへ転換するには「工学的設計」が不可欠と主張する。多面的な抗腫瘍メカニズムを分析し、物理的負荷・遺伝子改変・膜機能化などの工学的戦略が、各生物学的限界をどう解決するかを「生物学的限界－工学的解決」の枠組みで評価する。さらに、個別化ネオ抗原ワクチンなどへの応用可能性と残る課題を考察する。"
+      },
+      {
+        "title": "The characterization of RUNX1-mediated macrophage polarization requires a multidimensional perspective beyond the M1/M2 binary.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41843115/",
+        "abstract": "We comment on the recent study by He et al. reporting that RUNX1 promotes non-small cell lung cancer (NSCLC) progression by driving a pro-tumoral macrophage program via the ACP5/β-catenin/SMAD3 axis, interpreted as \"M2\" polarization. While the M1/M2 framework (e.g., CD86 vs. CD206/Arg1) remains widely used, accumulating single-cell and spatial profiling data indicate that tumor-associated macrophages (TAMs) in vivo occupy a multidimensional continuum and may co-express canonical inflammatory and anti-inflammatory markers, challenging binary labeling. We propose that RUNX1 may induce a more specific TAM transcriptional program than a generic \"M2\" state and encourage future studies to apply high-resolution subtype annotations (e.g., SPP1 or C1QC TAM signatures) to define RUNX1-associated macrophage states more precisely. In addition, validating the RUNX1 axis in immunocompetent models (beyond NOD/SCID settings) and identifying tumor-derived upstream inducers (e.g., cytokines or exosomal cargos) would strengthen mechanistic completeness and translational relevance.",
+        "source": "PubMed",
+        "doi": "10.1007/s00011-026-02196-8",
+        "keyword": "Exosomes",
+        "title_ja": "RUNX1を介したマクロファージ極性の解明には、M1/M2二分法を超えた多次元的視点が必要である。",
+        "summary_ja": "本論文は、RUNX1が非小細胞肺癌においてACP5/β-catenin/SMAD3経路を介して「M2型」と解釈される腫瘍促進性マクロファージプログラムを駆動するという研究に対し、マクロファージの極性評価に関する見解を述べたコメントである。従来のM1/M2二分法では、実際の腫瘍関連マクロファージ（TAM）が示す多様で連続的な表現型を捉えきれないと指摘。RUNX1は一般的な「M2」状態ではなく、より特異的な転写プログラムを誘導する可能性があり、SPP1やC1QCなどの高解像度サブタイプ分類を用いた解析の必要性を提言。さらに、免疫機能正常モデルでの検証や、腫瘍由来の上流誘導因子の同定が、機序の完全性と臨床応用に重要であると論じている。"
+      },
+      {
+        "title": "PPARA-Engineered HUCMSC Exosomes Attenuate Sepsis-associated Acute Kidney Injury Via TXNRD1/NRF2 Signaling Activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41843009/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s12010-026-05617-w",
+        "keyword": "Exosomes",
+        "title_ja": "PPARA改変HUCMSCエクソソームはTXNRD1/NRF2シグナル活性化を介して敗血症関連急性腎障害を軽減する",
+        "summary_ja": "**PPARA改変HUCMSCエクソソームは、TXNRD1/NRF2シグナル活性化を介して敗血症関連急性腎障害を軽減する**\n\n本研究では、PPARAを過剰発現させたヒト臍帯間葉系幹細胞（HUCMSC）由来エクソソーム（PPARA-Exo）が、敗血症関連急性腎障害（SA-AKI）に対して保護効果を示すことを報告する。PPARA-Exoは、腎臓のチオレドキシンレダクターゼ1（TXNRD1）の発現を上昇させ、これが核内因子E2関連因子2（NRF2）シグナル経路を活性化する。この活性化により、酸化ストレスと炎症反応が抑制され、結果として腎細胞のアポトーシスが減少し、腎機能が改善された。本研究は、PPARA-ExoがTXNRD1/NRF2経路を標的としたSA-AKIの新規治療戦略となる可能性を示唆している。"
+      },
+      {
+        "title": "Airborne particulate matter and the lung-brain axis: unraveling the neuroinflammatory cascade from alveolar irritation to microglial activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41840695/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12974-026-03770-x",
+        "keyword": "Exosomes",
+        "title_ja": "エアロゾル粒子と肺-脳軸：肺胞刺激からミクログリア活性化に至る神経炎症カスケードの解明",
+        "summary_ja": "本論文は、大気中浮遊粒子状物質（PM）の吸入が肺-脳軸を介して神経炎症を引き起こす経路を解明した。PMは肺胞上皮を刺激し、炎症性サイトカインの全身循環を惹起。これが血液脳関門の透過性を高め、脳内ではミクログリアが活性化され、神経炎症と酸化ストレスが生じる。このカスケードは神経変性疾患リスクの潜在的な機序を示唆する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Implications of inflammasomes in dental pulp inflammation: immunopathology and therapeutic targeting.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41841025/",
+        "abstract": "Pulpitis is a dynamic condition that affects vascular and immune responses. A major driver of inflammation is the inflammasome, which regulates interleukin-1 (IL-1) family cytokines and pyroptosis. Pathogen-associated molecular patterns (PAMPs) and damage-associated molecular patterns (DAMPs) activate the inflammasome via caspase recruitment, which is essential for the inflammasome's immunomodulatory effects.",
+        "source": "PubMed",
+        "doi": "10.1080/08923973.2026.2625040",
+        "keyword": "Exosomes",
+        "title_ja": "歯髄炎症におけるインフラマソームの意義：免疫病理学的機序と治療標的化",
+        "summary_ja": "歯髄炎における炎症の主要駆動因子はインフラマソームであり、IL-1ファミリーサイトカインとパイロトーシスを制御する。PAMPsやDAMPsがカスパーゼを介してインフラマソームを活性化し、免疫調節作用を発現させる。本論文は、この免疫病理学的機序を解説し、インフラマソームを標的とした歯髄炎の新たな治療戦略の可能性を示唆している。"
+      },
+      {
+        "title": "Extracellular matrix polysaccharides and glycoproteins in ovarian cancer: structural-functional macromolecular perspectives and potential exosome-derived biomarkers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41840676/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12964-026-02813-3",
+        "keyword": "Exosomes",
+        "title_ja": "卵巣癌における細胞外マトリックス多糖類と糖タンパク質：構造-機能的大分子の視点とエクソソーム由来バイオマーカーの可能性",
+        "summary_ja": "本論文は、卵巣癌における細胞外マトリックス（ECM）の多糖類（プロテオグリカン、グリコサミノグリカン）と糖タンパク質の構造的・機能的役割を概説する。ECM構成分子は癌の増殖、浸潤、転移に重要な微小環境を形成し、シグナル伝達を調節する。さらに、癌細胞由来エクソソームがこれらのECM分子を運搬し、体液診断における新規バイオマーカーとしての可能性を論じている。"
+      },
+      {
+        "title": "Human umbilical cord-derived mesenchymal stem cell exosomes ameliorate hepatocyte ferroptosis and sepsis-associated liver injury by restoring iron homeostasis in hepatocytes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41840663/",
+        "abstract": "Mesenchymal stem cells-derived exosomes (MSCs-Exo) constitute critical mediators of intercellular communication between stem cells and other cell types. Among these, exosomes derived from human umbilical cord mesenchymal stem cells (HUMSCs-Exo) have attracted considerable attention owing to their potent immunomodulatory capacity, low surface antigenicity, and favorable biosafety profile. Accumulating evidence indicates that HUMSCs-Exo can attenuate ferroptosis in target tissues across a spectrum of pathological conditions, including inflammatory bowel disease and viral cardiomyopathy, thereby mitigating tissue injury, improving organ function, and prolonging host survival. Nevertheless, the regulatory effects of HUMSCs-Exo on sepsis-associated liver injury (SALI) and hepatocellular ferroptosis, as well as the underlying molecular mechanisms, remain largely undefined. In this study, we identified pronounced differential gene expressions between control and septic mice hepatocytes, particularly within pathways related to iron metabolism, lipid metabolism, and ferroptosis. Building on these findings, we systematically characterized the dynamic progression of hepatocyte ferroptosis in septic mice through integrated in vivo and in vitro experiments, demonstrating a strong positive correlation between ferroptotic activity and the severity of liver injury. Using wild-type male C57BL/6J mice and the murine normal hepatocyte cell line NCTC1469, we further demonstrated that HUMSCs-Exo markedly upregulate the expression of FPN, xCT, GPX4, and FTH1 while concomitantly downregulating ACSL4 and TFRC. These molecular alterations reduced intracellular lipid peroxidation and labile iron accumulation, thereby robustly attenuating sepsis-induced hepatocyte ferroptosis and conferring significant hepatoprotective effects. Finally, these findings were validated in the immortalized human normal hepatocyte cell line THLE-2, in which HUMSCs-Exo similarly suppressed lipopolysaccharide-induced ferroptosis and cellular injury by modulating intracellular lipid peroxide and free iron levels. Collectively, our results demonstrate that HUMSCs-Exo exert potent inhibitory effects on sepsis-induced hepatocyte ferroptosis and confer protection against liver injury, primarily through the restoration of intracellular iron homeostasis and the suppression of lipid peroxidation. This study provides a novel therapeutic strategy for the treatment of SALI and ferroptosis.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04270-z",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト臍帯由来間葉系幹細胞エクソソームは、肝細胞内の鉄恒常性を回復させることで、肝細胞のフェロトーシスおよび敗血症関連肝障害を改善する。",
+        "summary_ja": "ヒト臍帯由来間葉系幹細胞エクソソーム（HUMSCs-Exo）は、敗血症関連肝障害（SALI）において、肝細胞のフェロトーシス（鉄依存性細胞死）を抑制し、肝保護効果を示す。研究では、敗血症マウスおよび肝細胞株において、HUMSCs-Exoが鉄代謝関連分子（FPN、FTH1上昇、TFRC低下）と脂質代謝関連分子（GPX4、xCT上昇、ACSL4低下）を調節することで、細胞内の遊離鉄蓄積と脂質過酸化を軽減し、フェロトーシスを抑制することを明らかにした。これにより、肝障害が改善され、HUMSCs-ExoがSALI治療の新たな戦略となる可能性が示された。"
+      },
+      {
+        "title": "Unravelling Epigenetic Modulation via MicroRNA Delivery: A Therapeutic Frontier for Alzheimer's.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41840318/",
+        "abstract": "Alzheimer's disease (AD) is a common form of dementia that primarily affects the elderly population. Several signalling pathways, including Wnt/β-catenin and PI3K/Akt, are significantly affected, disrupting normal physiological processes such as neurogenesis, neuronal survival, neuroinflammation, and BBB disruption, all of which contribute to the progression of AD-like conditions. The current study seeks to investigate and evaluate the involvement of the PI3K-Akt and Wnt/β-catenin pathways in AD, as well as epigenetic regulators that may alter these pathways and be employed as a treatment to improve AD-like conditions. A class of epigenetic regulators known as miRNAs, or short non-coding RNAs, greatly affects gene expression by preventing translation or encouraging target gene destruction. This review will focus on how miRNAs affect Aβ peptide accumulation, hyperphosphorylated tau protein aggregation, and neuroinflammation. In addition, miRNA delivery through exosomes, a lipid nanoparticle, has also been explored in later sections. Our knowledge will assist in creating new miRNA-based therapeutics involving mimics/inhibitors and advance our understanding of how miRNAs control gene expression.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-05805-z",
+        "keyword": "Exosomes",
+        "title_ja": "マイクロRNA送達によるエピジェネティック調節の解明：アルツハイマー治療の新たなフロンティア",
+        "summary_ja": "アルツハイマー病（AD）は、Wnt/β-cateninやPI3K/Aktなどのシグナル伝達経路の異常を伴い、神経新生や神経炎症などを障害する。本論文は、これらの経路と、それらを調節するエピジェネティック因子であるmiRNAに着目する。miRNAはAβペプチド蓄積、タウ蛋白質凝集、神経炎症を制御し、エクソソームを介した送達が治療戦略として有望である。miRNA模倣体/阻害剤を用いた新規治療開発への理解を深める内容である。"
+      },
+      {
+        "title": "Effect of circulating exosomal miRNA-122-3p on metabolic dysfunction-associated steatotic liver disease through impairing FGFR4 expression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41839758/",
+        "abstract": "In metabolic dysfunction-associated steatotic liver disease (MASLD), exosome-encapsulated miRNAs mediate intercellular signaling pathways that drive dysregulated lipid metabolism, inflammation, and fibrosis. However, the cell-of-origin specificity and disease-modifying mechanisms of these microRNAs (miRNAs) remain poorly characterized. Here, we aimed to define the exosomal miRNA signatures originating from key MASLD microenvironments (liver and adipose tissue) and evaluate their causal roles in promoting hepatic steatosis and cellular damage.",
+        "source": "PubMed",
+        "doi": "10.1097/CM9.0000000000004003",
+        "keyword": "Exosomes",
+        "title_ja": "循環性エクソソームmiRNA-122-3pがFGFR4発現を損なうことを介した代謝機能障害関連脂肪性肝疾患への影響",
+        "summary_ja": "代謝機能障害関連脂肪性肝疾患（MASLD）において、エクソソーム内miRNAは脂質代謝異常・炎症・線維化を促進する細胞間シグナル伝達を担う。本研究は、肝臓および脂肪組織由来のエクソソームmiRNAの特徴を解析し、特にmiR-122-3pが標的遺伝子FGFR4の発現を低下させることで、肝臓の脂肪蓄積と細胞障害を引き起こす因果的役割を明らかにした。"
+      },
+      {
+        "title": "The Exosome-Lactate-Lactylation Axis: A Metabolic-Epigenetic Circuit Driving Tumor Immune Evasion.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41839641/",
+        "abstract": "Lactylation, as a post-translational modification, plays a role in tumor proliferation, metabolism, and the remodeling of the tumor microenvironment (TME). Emerging studies have revealed that exosomes regulate lactate metabolism by delivering functional molecules (such as lncRNAs, metabolic enzymes, etc.) thereby driving protein lactylation and establishing a novel intercellular communication mechanism. Furthermore, acidic microenvironments induce the release of immunosuppressive exosomes, amplifying immune evasion. Here, we summarize the current understanding of lactylation and exosome regulation in the TME and their impact on immune evasion. We explore the pivotal role of the \"exosome-lactate-lactylation\" axis in tumor metabolic reprogramming, metastasis, and immunosuppression, proposing targeted strategies against this axis.",
+        "source": "PubMed",
+        "doi": "10.1002/cph4.70114",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム-乳酸-乳酸化軸：腫瘍免疫回避を駆動する代謝-エピジェネティック回路",
+        "summary_ja": "本論文は、翻訳後修飾の一種である乳酸化が、腫瘍の増殖・代謝・微小環境（TME）再編に寄与することを概説する。特に、エクソソームが機能分子（lncRNA、代謝酵素等）を運搬し乳酸代謝を制御することで、新たな細胞間コミュニケーション経路「エクソソーム-乳酸-乳酸化」軸を形成することを示す。この軸は、腫瘍の代謝再プログラミング、転移、免疫抑制を促進し、酸性微小環境下では免疫抑制性エクソソームの放出を誘導して免疫逃避を増幅する。最後に、この軸を標的とした治療戦略の可能性が提案されている。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Hitting Two Birds with One Stone: Magnetism-Fluorescence Janus Composites for Simultaneous Targeting of Serum Exosomes and Trapping of Phosphoproteins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41772897/",
+        "abstract": "Designing a highly efficient serum exosome (sEV) phosphorylation proteomics platform with specific sEV targeting and phosphoprotein trapping for biomarker identification in renal cell carcinoma (RCC) is challenging. Herein, we fabricated a Janus composite serving as one stone for two birds, enabling directed localization of sEVs and phosphoprotein enrichment, thus realizing the trapping of differential sEV phosphoproteins. Rhodamine B (RhB) and guanidine (Gua) endowed the composite, denoted as Janus@RhB@Gua, with magnetism-fluorescence dual functionality. The material possessed high sEV uptake efficiency (14000 μg/mL) and exhibited high sensitivity (with a detection limit of 0.1 fmol/μL) for phosphopeptide detection coupled with liquid chromatography-tandem mass spectrometry (LC-MS/MS). Furthermore, we confirmed its effectiveness in the control experiment, wherein 4095 phosphopeptides (1802 N-phosphopeptides and 2293 O-phosphopeptides) corresponding to 986 phosphoproteins were enriched from RCC patient (",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.5c06133",
+        "keyword": "sEVs",
+        "title_ja": "一石二鳥：血清エクソソームの同時標的化とリンタンパク質捕捉のための磁性-蛍光ジャヌス複合体",
+        "summary_ja": "本論文では、腎細胞癌（RCC）のバイオマーカー同定のため、血清エクソソーム（sEV）の標的化とリン酸化タンパク質の捕捉を同時に行うジャナス複合体「Janus@RhB@Gua」を開発した。ローダミンBとグアニジンにより磁性-蛍光二機能性を付与。sEVの高い取り込み効率（14000 μg/mL）を示し、LC-MS/MSと組み合わせたリン酸化ペプチド検出では感度0.1 fmol/μLを達成。RCC患者サンプルから4095リン酸化ペプチド（986リン酸化タンパク質）を濃縮し、高性能sEVリン酸化プロテオミクスプラットフォームとして有効性を確認した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. CAR-NK細胞療法の進展（CD33標向AML治療）**\n再発・難治性AMLは予後不良で、CAR-T療法は骨髄抑制のリスクが課題。CD33を標的とする最適化CARを臍帯血NK細胞に導入した療法は、臨床前および第I相試験で安全性・有効性を示し、オフターゲット毒性低減の有望な新選択肢となる。\n\n**2. 細胞内抗原を標的とするTCR様CAR-NKの開発**\nCAR-NK療法は表面抗原に限られていた。WT1などの細胞内腫瘍抗原由来ペプチドをMHCクラスI経由で認識する「TCR様CAR」をNK細胞に発現させる技術は、標的選択肢を大幅に拡大し、実用化へ前進。\n\n**3. エクソソームを介した代謝-エピジェネティッククロストーク**\n腫瘍微小環境において、エクソソームが乳酸代謝酵素やlncRNAを運び、免疫細胞の乳酸化を介したエピジェネティック再プログラミングを誘導する「エクソソーム-乳酸-乳酸化」軸は、新たな免疫逃避機構として治療標候補。\n\n**4. エンジニアリングされた幹細胞エクソソームの治療応用**\n敗血症関連急性腎障害に対し、PPARAを改変した間葉系幹細胞エクソソームがTXNRD1/NRF2経路を活性化し保護効果を示した。エクソソームを能動的治療プラットフォームとして設計する戦略の有効性を実証。\n\n**5. メラノーマにおけるNK細胞機能不全の機序解明**\n進行メラノーマ患者のNK細胞では、ミトコンドリア障害とmTORC1シグナル枯渇が機能低下と関連。この機序解明は、代謝・シグナルを標的としたNK細胞機能回復療法の開発基盤となる。"
+}

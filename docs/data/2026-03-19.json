@@ -1,0 +1,216 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Monoclonal gammopathy of thrombotic significance in a nutshell.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41841750/",
+        "abstract": "This nutshell review discusses the pathophysiology, diagnostic features, treatment strategies and avenues for future research in a recently identified thrombotic entity, monoclonal gammopathy of thrombotic significance (MGTS). MGTS is an anti-platelet factor 4 (PF4) antibody-mediated disorder distinct from heparin-induced thrombocytopenia (HIT) and vaccine-induced thrombotic thrombocytopenia (VITT), as it involves the production of persistent, monoclonal anti-PF4 antibodies. Several subtypes of MGTS, including 'HIT-like', 'VITT-like' and 'non-HIT/VITT-like', exhibit unique serological profiles that can complicate diagnosis. Recognition of 'HIT-like' MGTS is critical to avoid heparin exposure in these patients, which can result in adverse effects like those seen in heparin-exposed HIT patients. 'Non-HIT/VITT-like' MGTS antibodies have only been detected in PF4-enhanced functional testing; therefore, we recommend using these platelet-based tests as the front-line assay for detecting MGTS antibodies. Mass profiling using mass spectrometry is critical for the 'fingerprinting' of monoclonal antibodies to establish a diagnosis of MGTS. Treatments used in HIT and VITT, such as non-heparin anticoagulants and intravenous immunoglobulin G, are typically insufficient for managing MGTS. Emerging MGTS therapies, such as plasma cell-directed drugs and Bruton tyrosine kinase inhibitors, are discussed. The review concludes with an emphasis on areas of future research in MGTS.",
+        "source": "PubMed",
+        "doi": "10.1111/bjh.70438",
+        "keyword": "PF4",
+        "title_ja": "血栓性意義を有する単クローン性免疫グロブリン血症の概要",
+        "summary_ja": "本論文は、新たに同定された血栓性疾患「血栓性意義を有する単クローン性ガンマパチー（MGTS）」の病態生理、診断、治療、今後の研究課題を概説する。MGTSは、持続的な単クローン性抗血小板第4因子（PF4）抗体が関与し、ヘパリン起因性血小板減少症（HIT）やワクチン誘発性免疫性血栓性血小板減少症（VITT）とは異なる。そのサブタイプ（HIT様、VITT様、非HIT/VITT様）は特有の血清学的プロファイルを示し、診断を複雑にする。特に「HIT様」MGTSではヘパリン曝露を避けることが重要である。診断には血小板機能検査を一次検査として用い、質量分析による抗体の「指紋」同定が決定的である。HIT/VITTの治療はMGTSでは不十分であり、新たな治療として形質細胞標的薬やブルトン型チロシンキナーゼ阻害剤が検討されている。今後の研究推進が強調されている。"
+      },
+      {
+        "title": "Autoantibodies Against Type I Interferons are a Prominent Feature in SARS-CoV-2 Fatal Disease and Hospitalization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41074539/",
+        "abstract": "Autoantibodies have been implicated as key players in COVID-19 pathogenesis, with evidence of impacting disease severity and poor outcomes.",
+        "source": "PubMed",
+        "doi": "10.1093/infdis/jiaf514",
+        "keyword": "PF4",
+        "title_ja": "I型インターフェロン自己抗体は、SARS-CoV-2による致死的疾患および入院例の顕著な特徴である。",
+        "summary_ja": "本論文は、I型インターフェロン（IFN）に対する自己抗体が、SARS-CoV-2感染症の重症化と死亡リスクに強く関連することを示した。COVID-19による入院患者、特に致命症例において、これらの自己抗体が高頻度に検出された。これは、ウイルス排除に重要なI型IFNの機能を中和し、自然免疫応答を障害することで、重症化の原因となることを示唆している。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Combinatorial immunotherapy drives exhaustion in tumor antigen-specific CD8+ T cells within the mouse renal tumor microenvironment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41847866/",
+        "abstract": "Immunotherapies have greatly improved outcomes for patients with renal cell carcinoma (RCC), yet response rates remain suboptimal and the factors promoting therapy resistance versus sensitivity are incompletely understood. Currently, no preclinical model of orthotopic renal cancer exists that permits evaluation of tumor antigen-specific (TAS) CD8+ tumor-infiltrating lymphocytes (TILs). To address this deficiency, we developed a mouse renal cancer model that permits tracking of adoptively transferred TAS CD8+ T cells. Renca-LUC tumor cells were transduced to express tumor ERK (tERK), a model antigen expressing a one-amino-acid change from wild-type ERK, resulting in recognition by tERK/H-2Kd-specific DUC Thy1.1 TCR transgenic CD8+ T cells. Renca-tERK-LUC challenge into DUC Thy1.1 mice results in rapid tumor clearance. To assess intratumoral TAS T-cell responses, we adoptively transferred limited numbers of DUC Thy1.1 T cells into mice with established renal tumors, followed by clinically relevant anti-PD-1 + anti-VEGFR-2 combinatorial immunotherapy. We used standard flow cytometry gating as well as unbiased Leiden clustering of stained cells to assess TIL phenotypes and prevalence. Therapy responders showed intratumoral gene expression changes reflective of those seen in human RCC responders to therapy, and had increased frequencies of activated and exhausted CD8+ TILs, activated CD4+ TILs, and NKp46+ natural killer cells. Examination of CD8+ TILs revealed unique aspects of the TAS response characterized by reduced phenotypic cluster heterogeneity and heightened levels of PD-1+CD39+CD44+CD8+ TILs versus endogenous CD8+ TILs from the same tumors. Future studies using this model should yield insights into the biology of TAS CD8+ TILs in renal tumors and facilitate the development of novel immunotherapies for patients with RCC.",
+        "source": "PubMed",
+        "doi": "10.1093/jimmun/vkag013",
+        "keyword": "NK cell therapy",
+        "title_ja": "マウス腎腫瘍微小環境における腫瘍抗原特異的CD8+T細胞の疲弊を組み合わせ免疫療法が促進する",
+        "summary_ja": "本論文は、腎細胞癌（RCC）における腫瘍抗原特異的（TAS）CD8+ T細胞の応答を評価する新規マウス腎癌モデルを開発した。このモデルを用い、抗PD-1と抗VEGFR-2の併用免疫療法を施行した。治療応答群では、活性化・疲弊したCD8+ TILsの増加が観察された。特にTAS CD8+ TILsは、内因性TILsと比較して表現型クラスターの均質化とPD-1+CD39+CD44+表現型の高度な発現という特徴を示した。本モデルはRCC免疫療法の機序解明と新規治療開発に有用である。"
+      },
+      {
+        "title": "Engineering an in vivo charging station for CAR-redirected invariant natural killer T cells to enhance cancer therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41845089/",
+        "abstract": "Invariant natural killer T (iNKT) cells are a unique subset of T lymphocytes with allogeneic potential and strong solid tumour-homing capacity, making them attractive for cancer immunotherapy. Unlike conventional T cells, iNKT cells recognize lipid antigens presented by the non-polymorphic CD1d molecule. Chimaeric antigen receptor (CAR)-redirected iNKT (CAR-iNKT) cells have shown promise; however, their clinical efficacy is limited by insufficient activation and poor long-term persistence within the tumour microenvironment. Here we describe the iNKT cell-targeted microparticle recruitment and activation system (iMRAS), a biomimetic platform engineered to locally recruit, activate and expand CAR-iNKT cells in vivo. Acting as an in vivo 'charging station', iMRAS provides chemotactic and activating cues that enhance CAR-iNKT cell functionality, improving persistence and tumour control in preclinical lymphoma and melanoma models. Through its biomimetic design and localized immunostimulatory effects, iMRAS helps overcome the limitations of current therapies for solid tumours, establishing a robust platform for advancing CAR-iNKT cell-based cancer immunotherapy.",
+        "source": "PubMed",
+        "doi": "10.1038/s41551-026-01629-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "がん治療を強化するためのCAR誘導不変ナチュラルキラーT細胞のための生体内充電ステーションの設計",
+        "summary_ja": "**要約：**\n不変ナチュラルキラーT（iNKT）細胞は、固形腫瘍への親和性が高く、がん免疫療法の有望な標的である。しかし、CARを発現させたCAR-iNKT細胞療法は、腫瘍微小環境内での活性化・持続性の不足が課題だった。本研究では、生体内でCAR-iNKT細胞を局所的に呼び寄せ、活性化・増殖させる生体模倣プラットフォーム「iMRAS」を開発した。iMRASは「充電ステーション」として機能し、化学走性・活性化シグナルを提供することで、CAR-iNKT細胞の機能・持続性・腫瘍制御を増強し、リンパ腫・メラノーマの前臨床モデルで有効性を確認した。本プラットフォームは、固形がん治療の限界を克服する新たな基盤技術となる。"
+      },
+      {
+        "title": "CCL8-dependent recruitment of natural killer cells enhances the antitumor activity of neoadjuvant chemotherapy in gastric cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41843172/",
+        "abstract": "Neoadjuvant chemotherapy (NACT) has become a standard treatment for patients with locally advanced gastric cancer (GC), yet the effects of NACT on natural killer (NK) cells remain insufficiently characterized. In this study, we investigated the immune remodeling induced by NACT in paired tumor samples from GC patients and in a murine model, aiming to uncover mechanisms that could guide combination strategies with immunotherapy. We observed enhanced infiltration of antitumor immune cells, particularly CD8⁺ T cells and NK cells, after NACT in both human and mouse tumors, with elevated levels of these cells correlating with improved clinical responses. In vivo depletion experiments confirmed that NK cells contributed to the antitumor efficacy of NACT. In vitro, NACT-treated tumor cells displayed enhanced chemotactic effects on NK92 cells. Mechanistically, NACT activated the mitogen-activated protein kinase (MAPK) pathway in GC cells, inducing CCL8 secretion and facilitating NK cell recruitment. Notably, in an advanced GC patient, the combination of NACT and adoptive NK cell transfer resulted in increased peripheral NK cell counts and a favorable clinical response. Together, these findings reveal that NACT stimulates NK cell recruitment through tumor-derived CCL8 via MAPK activation and support a promising therapeutic rationale for combining NACT with NK cell-based immunotherapy in GC.",
+        "source": "PubMed",
+        "doi": "10.1007/s00262-026-04326-x",
+        "keyword": "NK cell therapy",
+        "title_ja": "CCL8依存的なナチュラルキラー細胞の動員が胃癌における術前化学療法の抗腫瘍効果を増強する",
+        "summary_ja": "胃がんに対する術前化学療法（NACT）は、腫瘍内での抗腫瘍免疫細胞、特にCD8⁺ T細胞とNK細胞の浸潤を増強し、臨床反応の改善と相関した。NACTは、胃がん細胞内でMAPK経路を活性化し、ケモカインCCL8の分泌を誘導することでNK細胞の遊走を促進する。マウスモデルでのNK細胞除去実験は、NACTの抗腫瘍効果へのNK細胞の寄与を確認した。一例では、NACTとNK細胞移入の併用が良好な反応を示した。本研究は、NACTが腫瘍由来CCL8を介してNK細胞を動員する機序を明らかにし、胃がんにおけるNACTとNK細胞療法の併用の理論的根拠を支持する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Hypoxia-induced cisplatin resistance in cancer: a comprehensive exploration of molecular mechanisms and novel therapeutic strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41847764/",
+        "abstract": "Tumor hypoxia is a critical contributor to cisplatin resistance, promoting molecular adaptations such as HIF-1α activation, reduced DNA repair capacity, metabolic reprogramming, and exosome-mediated drug efflux that collectively weaken cisplatin-induced cytotoxicity. This review integrates current evidence on these hypoxia-driven mechanisms and emphasizes how spatially heterogeneous hypoxic niches generate tumor subpopulations with distinct resistance profiles. Two therapeutic strategies show promising potential to counter this challenge: adjunct therapies that target hypoxia-related signaling and metabolic pathways, including HIF inhibitors, HDAC inhibitors, natural compounds, and metabolic modulators, and oxygenation approaches designed to reverse hypoxic stress. Notably, advances in nanotechnology-based oxygen-delivery systems provide sustained, localized reoxygenation of hypoxic regions, addressing limitations of conventional oxygen therapies. Although these interventions demonstrate strong preclinical efficacy, translation to consistent clinical benefit remains limited, partly due to inadequate hypoxia biomarkers and insufficient preclinical models that fail to replicate tumor oxygen gradients. Future progress will require biomarker-guided patient selection, optimized combination regimens, and early clinical evaluation of oxygen-delivery platforms to enhance cisplatin sensitivity and reduce hypoxia-driven chemoresistance.",
+        "source": "PubMed",
+        "doi": "10.1515/jbcpp-2025-0092",
+        "keyword": "Exosomes",
+        "title_ja": "癌における低酸素誘発性シスプラチン耐性：分子メカニズムと新規治療戦略の包括的探求",
+        "summary_ja": "腫瘍低酸素は、HIF-1α活性化、DNA修復能低下、代謝再プログラミング、エクソソーム介在性薬剤排出などを促進し、シスプラチン耐性の重要な原因となる。本総説は、これらの分子機構と、低酸素微小環境が生み出す耐性プロファイルの不均一性を概説する。対策として、①HIF阻害剤や代謝調節剤等を用いた低酸素関連経路の標的化、②ナノテクノロジーに基づく酸素送達システムによる持続的再酸素化、の2つの戦略が有望である。しかし、適切な低酸素バイオマーカーの欠如や、酸素勾配を再現する前臨床モデルの不足が臨床応用を妨げている。今後は、バイオマーカーによる患者選別、最適な併用療法、酸素送達プラットフォームの早期臨床評価が、耐性克服に必要である。"
+      },
+      {
+        "title": "Exosomes in diabetic kidney disease: pathogenesis, biomarker discovery, and emerging therapeutics-a comprehensive systematic review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41845912/",
+        "abstract": "Diabetic kidney disease (DKD), characterized by progressive renal dysfunction, is a prevalent microvascular complication of diabetes mellitus and a leading cause of end-stage renal disease worldwide. Despite advances in glycemic and blood pressure control, the incidence and prevalence of DKD continue to escalate, posing a growing public health challenge. Extracellular vesicles, particularly exosomes, are nanometer-sized vesicles secreted by diverse cells and have emerged as key regulators of intercellular communication. By transferring molecular cargo-including proteins, lipids, and nucleic acids-they exert pleiotropic effects on cellular homeostasis and participate in both physiological and pathological processes. Accumulating evidence has revealed dynamic alterations in the quantity and composition of urinary exosomes under diabetic conditions, implicating these vesicles in the multifactorial pathogenesis of DKD and highlighting their promise as liquid biopsy biomarkers for DKD. This review provides a comprehensive overview of the landscape of research on exosomes in DKD. We elucidate their roles in molecular pathology, investigate their potential for diagnostic and prognostic biomarker discovery powered by multi-omics and machine learning approaches, and examine their implications for therapeutic applications, including their use as drug delivery vehicles and direct therapeutic agents. Looking forward, we highlight critical research gaps and future directions, emphasizing the need for artificial intelligence (AI)-integrated multi-omics analyses to decipher exosome heterogeneity, large-scale multicenter trials to validate biomarker efficacy, and innovative strategies to overcome barriers in clinical translation, ultimately paving the way for personalized medicine in DKD management.",
+        "source": "PubMed",
+        "doi": "10.1080/0886022X.2026.2640720",
+        "keyword": "Exosomes",
+        "title_ja": "糖尿病性腎症におけるエクソソーム：病態形成、バイオマーカーの発見、新規治療法の展望―包括的系統的レビュー",
+        "summary_ja": "糖尿病性腎症（DKD）は、糖尿病の主要な微小血管合併症であり、末期腎不全の主要な原因である。細胞外小胞、特にエクソソームは、タンパク質や核酸などの分子を運び、細胞間コミュニケーションを媒介する。糖尿病状態では尿中エクソソームの量と組成が変化し、DKDの病態に関与するとともに、リキッドバイオプシーによるバイオマーカーとしての可能性が示されている。本総説は、エクソソームのDKDにおける分子病理学的役割、マルチオミクスや機械学習を活用した診断・予後バイオマーカーとしての応用、薬物送達キャリアや治療剤としての可能性を包括的に概説する。今後の課題として、AI統合型マルチオミクス解析によるエクソソームの不均一性解明、大規模多施設試験によるバイオマーカーの検証、臨床応用への障壁克服が重要である。"
+      },
+      {
+        "title": "Engineering BiTE-inspired IPSC-exosomes to potentiate CAR-T cell therapy against lung cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41845388/",
+        "abstract": "Chimeric antigen receptor T (CAR-T) cell therapy faces critical barriers in solid tumors, including poor infiltration, T cell exhaustion, and immunosuppressive microenvironments, resulting in response rates below 10%. Herein, we engineered an inhalable nanoplatform using induced pluripotent stem cell-derived exosomes (IEXOs) displaying bispecific PD-1/mesothelin (MSLN) single-chain variable fragments (scFv) and loaded with indole-3-propionic acid (IPA) for metabolic reprogramming. IEXOs demonstrated high yield and intrinsic antitumor properties, inhibiting Lewis lung carcinoma (LLC) cell proliferation and migration. The bispecific exosomes loaded with IPA (BIEXO@IPA) achieved efficient pulmonary delivery via nebulization with 79.3% tumor cell-specific uptake versus 47.9% for liposomes in orthotopic lung cancer models. BIEXO@IPA treatment reduced tumor burden by 87.9% and achieved 80% survival at 80 days. Mechanistically, BIEXO@IPA bridged PD-1",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04242-3",
+        "keyword": "Exosomes",
+        "title_ja": "BiTEに着想を得たiPSCエクソソームを設計し、肺がんに対するCAR-T細胞療法を増強する。",
+        "summary_ja": "本論文では、固形腫瘍に対するCAR-T細胞療法の課題（浸潤不良、T細胞疲弊、免疫抑制微小環境）を克服するため、吸入可能な新規ナノプラットフォームを開発した。誘導多能性幹細胞由来エクソソーム（IEXO）に、PD-1とメソテリン（MSLN）に対する二重特異性scFvを提示させ、代謝再プログラミング剤であるインドール-3-プロピオン酸（IPA）を内包した「BIEXO@IPA」を創製した。BIEXO@IPAはネブライザーによる効率的な肺送達と腫瘍細胞特異的取り込みを示し、Lewis肺癌モデルにおいて腫瘍体積を87.9%抑制、80日生存率80%を達成した。作用機序として、BIEXO@IPAはPD-1陽性CAR-T細胞とMSLN陽性腫瘍細胞を架橋し、免疫抑制を解除することでCAR-T療法を増強した。"
+      },
+      {
+        "title": "A novel method to encapsulate polydeoxyribonucleotides extracted from trout into exosomes and applications in skin recovery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41845379/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12896-026-01131-3",
+        "keyword": "Exosomes",
+        "title_ja": "マスから抽出したポリデオキシリボヌクレオチドをエクソソームに封入する新規手法と皮膚回復への応用",
+        "summary_ja": "本論文では、マス由来のポリデオキシリボヌクレオチド（PDRN）をエクソソームに内包化する新規手法を開発し、皮膚回復への応用を検討した。PDRNは組織修復促進作用を持つが、生体内での安定性に課題があった。そこで、エクソソームを天然のナノキャリアとして利用し、PDRNを効率的に封入する方法を確立。このPDRN内包エクソソームは、皮膚線維芽細胞における細胞増殖とコラーゲン産生を顕著に促進し、創傷治癒モデルでも回復を加速させた。本法は、PDRNの安定性と送達効率を向上させる新たな治療戦略となる。"
+      },
+      {
+        "title": "A core-shell microneedle platform for the spatiotemporal codelivery of dual-agent therapeutics precisely orchestrates diabetic wound healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41845345/",
+        "abstract": "Chronic non-healing of diabetic wound (DW) remains a critical clinical challenge worldwide. Sustained oxidative stress and prolonged inflammatory responses disrupt the wound microenvironment, while bacterial colonization and biofilm formation on the wound bed compromise drug penetration, consequently leading to suboptimal outcomes with conventional approaches. Here, we developed a core-shell structured microneedle (MN) patch system, designated as MN@Ple/Exo",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04155-1",
+        "keyword": "Exosomes",
+        "title_ja": "コアシェルマイクロニードルによる二剤治療薬の時空間的共送達が糖尿病性創傷治癒を精密に調節する",
+        "summary_ja": "本論文は、糖尿病性創傷治癒を時空間的に制御するためのコア-シェル構造マイクロニードル（MN）パッチ「MN@Ple/Exo」を開発した。コアには抗酸化・抗炎症作用を持つプレラドリンを、シェルには血管新生を促進する間葉系幹細胞エクソソームを封入。これにより、持続的酸化ストレスと炎症、細菌バイオフィルム形成という創傷環境の課題に対し、薬剤の浸透性向上と二剤の時空間的協調的送達を実現し、治癒過程を精密に制御する新規プラットフォームを提案している。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Proteomics in tissue regeneration: insights into protein alterations and post-translational modifications during healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41848587/",
+        "abstract": "Tissue regeneration is a complex, multi-phase process orchestrated by dynamic changes in protein expression and post-translational modifications (PTMs). Proteomics has emerged as a transformative tool for decoding these molecular events, providing comprehensive insights into the mechanisms underlying wound healing, angiogenesis, extracellular matrix remodeling, and stem cell differentiation. High-throughput proteomic technologies, including mass spectrometry, quantitative labeling approaches, and spatial/single-cell analyses, enable the identification of phase-specific protein signatures and PTMs such as phosphorylation, glycosylation, ubiquitination, acetylation, and redox modifications. Mapping these proteome alterations across the inflammatory, proliferative, and remodeling phases reveals critical biomarkers, therapeutic targets, and regulatory networks driving tissue repair. Translational applications of proteomics include the development of predictive biomarkers for wound healing prognosis, PTM-targeted therapies, and stem cell or exosome-based regenerative interventions. Moreover, patient-specific proteomic signatures offer avenues for personalized medicine strategies in regenerative care. Despite technical challenges related to tissue-specific proteome complexity, dynamic PTMs, and large-scale data interpretation, integration with multi-omics approaches and artificial intelligence promises to accelerate the discovery of novel regenerative therapies. This review highlights current advances in proteomic profiling, the functional role of PTMs during tissue healing, and their clinical and translational relevance, emphasizing how these molecular insights can inform precision regenerative medicine and guide the development of next-generation interventions for improved healing outcomes.",
+        "source": "PubMed",
+        "doi": "10.1039/d5tb02812d",
+        "keyword": "Exosomes",
+        "title_ja": "組織再生におけるプロテオミクス：治癒過程におけるタンパク質変動と翻訳後修飾の解明",
+        "summary_ja": "組織再生におけるプロテオミクスは、創傷治癒の分子メカニズムを解明する革新的手法である。質量分析や定量的ラベリング法などを用い、炎症・増殖・再構築の各段階におけるタンパク質発現動態と、リン酸化・グリコシル化などの翻訳後修飾（PTM）を網羅的に解析する。これにより、血管新生や細胞外マトリックス再構築を駆動するバイオマーカーや治療標的が同定され、予後予測やPTM標的療法、幹細胞・エクソソーム治療の開発が進む。患者特異的プロテオーム解析は個別化医療への応用が期待されるが、組織特異的複雑性や大規模データ解析が課題である。マルチオミクスとAIの統合により、新規再生治療の開発が加速すると展望される。"
+      },
+      {
+        "title": "Scalable Production of Multi-Source Hybrid Biomimetic Exosomes Co-Loaded with Therapeutic Plasmids for Treatment of High-Altitude Pulmonary Edema.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41848507/",
+        "abstract": "Exosomes show therapeutic promise but face limitations in simultaneous targeting and potency. While hybrid exosome strategies combining multiple cell components can address this, current methods rely on native exosome extraction and drug loading, suffering from low yield and encapsulation efficiency. We developed a biological origin-based hybrid biomimetic exosome (BOB-HBE) platform that synthetically assembles exosomes using parent cell-derived components through a water/oil/water emulsion method, overcoming production bottlenecks. For high-altitude pulmonary edema (HAPE) treatment, we engineered hybrid exosomes combining: (1) vascular endothelial cell membranes for lung targeting, (2) mesenchymal stem cell factors for regeneration, and (3) eNOS-encoding plasmid DNA to restore nitric oxide signaling. The BOB-HBE platform achieved >150-fold higher production yield than natural exosome isolation while enhancing pulmonary endothelial specificity. In HAPE models, these hybrid exosomes demonstrated triple therapeutic effects: restoring NO bioavailability, inhibiting pathogenic HIF-1α/TGF/Smad1/5 signaling, and preventing endothelial-mesenchymal transition and vascular remodeling. Consequently, they significantly attenuated HAPE progression by addressing both molecular pathways and tissue-level pathology. This study establishes a scalable platform for constructing multifunctional exosome mimetics that maintain native exosome advantages while solving key production challenges. The cell-origin-informed design strategy offers a versatile approach for targeted therapy in pulmonary and vascular disorders, with potential clinical translation advantages.",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.202504014",
+        "keyword": "Exosomes",
+        "title_ja": "高所肺水腫治療のための治療用プラスミドを共搭載した多源ハイブリッド模倣エクソソームのスケーラブルな生産",
+        "summary_ja": "本論文は、高収量・高機能なハイブリッドエクソソームの合成プラットフォーム「BOB-HBE」を開発した。従来の天然抽出法に比べ150倍以上の収量向上を実現し、高所肺水腫（HAPE）治療に向け、肺標的化（血管内皮細胞膜）、再生因子（間葉系幹細胞）、治療用プラスミドDNA（eNOS）を同時に搭載した。HAPEモデルでは、一酸化窒素シグナル回復、病的シグナル経路抑制、血管リモデリング防止の三重治療効果を示し、病態進行を抑制した。本プラットフォームは、生産性と多機能性を両立し、肺・血管疾患への標的治療への応用が期待される。"
+      },
+      {
+        "title": "Phenotypic modulation of corpus cavernosum smooth muscle cells in type 2 diabetic rats is mediated by regulated exosomes secretion via neutral sphingomyelinase-2.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41846426/",
+        "abstract": "Phenotypic modulation of corpus cavernosum smooth muscle cells (CCSMCs) is closely related to the occurrence of erectile dysfunction (ED). However, the effect of exosomes (EXOs) on the phenotypic modulation of CCSMCs with diabetes mellitus (DM)-related ED is not fully understood. Using a rat model of type 2 DM, we found an important role for phenotypic modulation of CCSMCs in DM-related ED. EXO secretion by CCSMCs is also driven by pathological changes to the corpus cavernosum in diabetic rats. We used CCSMCs subjected to platelet-derived growth factor-BB as an in vitro model of phenotypic modulation and isolated EXOs from the supernatants of cultured CCSMCs by ultracentrifugation. The results suggest that phenotypic modulation enhances the capacity of CCSMCs to secrete EXOs and that inhibiting EXO secretion could restore the contractile phenotype of CCSMCs in vitro. Notably, a further mechanistic study revealed that regulated EXO secretion could change the phenotype of CCSMCs via the neutral sphingomyelinase-2 (nSMase2) pathway. Taken together, our results indicate that the modulation of EXO biogenesis and secretion may be a novel therapeutic approach to improve type 2 DM-induced ED by maintaining the contractile phenotype of CCSMCs.",
+        "source": "PubMed",
+        "doi": "10.4103/aja202569",
+        "keyword": "Exosomes",
+        "title_ja": "2型糖尿病ラットにおける海綿体平滑筋細胞の表現型調節は、中性スフィンゴミエリナーゼ-2を介した制御されたエクソソーム分泌によって媒介される。",
+        "summary_ja": "2型糖尿病ラットにおいて、陰茎海綿体平滑筋細胞（CCSMCs）の表現型調節は勃起不全（ED）発生に関与する。本研究では、糖尿病EDにおいてエクソソーム（EXOs）がCCSMCsの表現型調節に及ぼす影響を検討。その結果、糖尿病ラットではCCSMCsのEXOs分泌が亢進し、これが表現型変化を促進することが判明。さらに、このEXOs分泌は中性スフィンゴミエリナーゼ-2（nSMase2）経路を介して調節されていることを明らかにした。EXOsの生成・分泌を制御することでCCSMCsの収縮表現型を維持し、糖尿病性EDを改善する新規治療法の可能性が示唆された。"
+      },
+      {
+        "title": "Umbilical cord mesenchymal stromal cells-derived HGF inhibits STING-mediated pyroptosis to alleviate cerebral ischemia/reperfusion injury via c-Met/β-catenin/RNF5 pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41845461/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-08008-1",
+        "keyword": "Exosomes",
+        "title_ja": "臍帯間葉系間質細胞由来HGFは、c-Met/β-カテニン/RNF5経路を介してSTING依存性パイロトーシスを抑制し、脳虚血再灌流障害を軽減する。",
+        "summary_ja": "本論文は、脳虚血再灌流障害（CIRI）において、臍帯間葉系間質細胞由来の肝細胞増殖因子（HGF）が、c-Met/β-カテニン/RNF5経路を活性化することで、STING依存性のパイロトーシスを抑制し、神経保護効果を発揮するメカニズムを報告している。HGFは、RNF5を介したSTINGのユビキチン化分解を促進し、その結果、炎症性細胞死であるパイロトーシスを軽減することで、脳損傷を緩和する。"
+      },
+      {
+        "title": "Exosomes derived from bone marrow mesenchymal stem cells alleviate sepsis-induced ARDS via inhibition of HOXA9-mediated glycolysis in alveolar macrophages.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41845452/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12931-026-03564-y",
+        "keyword": "Exosomes",
+        "title_ja": "骨髄由来間葉系幹細胞のエクソソームは、肺胞マクロファージにおけるHOXA9介在性解糖系の抑制を介して、敗血症誘発性ARDSを軽減する。",
+        "summary_ja": "本論文は、骨髄間葉系幹細胞由来エクソソーム（BMSC-Exo）が、敗血症誘発性ARDSを軽減する新規メカニズムを報告する。BMSC-Exoは、肺胞マクロファージにおけるHOXA9発現を抑制し、これがHK2を介した解糖系を阻害することで、マクロファージの過剰な炎症反応と肺障害を抑制する。HOXA9ノックダウンは同様の保護効果を示し、BMSC-Exoの作用はmiR-125b-5pのHOXA9ターゲティングによることを示唆する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Placental small extracellular vesicles as modulators of bisphenol A-induced oxidative stress and mitochondrial activation in human astrocytoma cells (U-373 MG).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41721783/",
+        "abstract": "Astrocytes play a crucial role in maintaining central nervous system homeostasis, supporting neuronal function and regulating oxidative stress. The placenta, through the secretion of small extracellular vesicles (sEVs), facilitates communication between the maternal and fetal environments, potentially mitigating external stressors. Bisphenol A (BPA), an endocrine disruptor, has been implicated in oxidative stress and mitochondrial dysfunction, particularly in the developing brain. However, the mechanisms by which placental sEVs influence astrocyte responses to BPA remain unclear. This study investigates the effects of BPA on astrocyte oxidative stress and mitochondrial activity and explores how placental sEVs modulate these responses. Human glioblastoma astrocytoma (U-373 MG) cells were exposed to environmentally relevant concentrations of BPA (10 nM), with or without placental sEVs isolated from human term placental explants. Reactive oxygen species (ROS) levels, mitochondrial activation, and antioxidant enzyme expression (SOD1, GCLC, and GSTA) were assessed. Direct BPA exposure increased astrocyte ROS levels and mitochondrial activation, indicative of oxidative stress. Placental sEVs were rapidly internalized by astrocytes and counteracted BPA-induced ROS accumulation, restoring mitochondrial homeostasis. Notably, sEVs from BPA-exposed placental explants were more efficiently incorporated into astrocytes, suggesting an adaptive response. sEVs treatment also upregulated antioxidant enzyme expression and reduced inflammatory cytokine markers (CCL2 and IL-1β), indicating a potential protective mechanism. These findings suggest that placental sEVs play a critical role in modulating astrocyte responses to oxidative stress and mitochondrial dysfunction. The ability of sEVs to restore redox homeostasis highlights their potential physiological function in fetal neuroprotection against environmental stressors.",
+        "source": "PubMed",
+        "doi": "10.1152/ajpcell.00312.2025",
+        "keyword": "sEVs",
+        "title_ja": "ヒト星状膠芽腫細胞（U-373 MG）におけるビスフェノールA誘発酸化ストレスとミトコンドリア活性化の調節因子としての胎盤性小型細胞外小胞",
+        "summary_ja": "胎盤由来小細胞外小胞（sEVs）は、環境濃度のビスフェノールA（BPA）曝露によるヒト星状膠芽腫細胞（U-373 MG）の酸化ストレスとミトコンドリア活性化を調節する。BPAは活性酸素種（ROS）とミトコンドリア活性を増加させたが、胎盤sEVsはこれを抑制し、抗酸化酵素（SOD1等）の発現を上昇、炎症性サイトカインを減少させた。特にBPA曝露胎盤由来sEVsはより効率的に取り込まれ、胎児神経保護における適応的役割を示唆する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. 血栓性意義を有する単クローン性ガンマパチー（MGTS）**\n抗PF4抗体が持続的に産生される新たな血栓性疾患。ヘパリン起因性血小板減少症（HIT）に似るが、ヘパリン非曝露でも発症し、診断・治療指針の確立が急務。今後の研究で病態解明と新規治療法開発が期待される。\n\n**2. I型インターフェロン自己抗体とCOVID-19重症化**\n重症COVID-19患者で高頻度に検出されるI型インターフェロン自己抗体は、自然免疫応答を阻害し、重症化リスクを大幅に上昇させる。既存の自己免疫疾患との関連や、重症化予測バイオマーカーとしての応用が注目される。\n\n**3. CAR-iNKT細胞療法の持続性向上戦略**\n固形腫瘍治療の有望な候補であるCAR-iNKT細胞の、腫瘍内での活性化・持続性不足を克服するため、「生体内充電ステーション」を開発。細胞療法の効果持続を可能にする画期的なプラットフォームとして、臨床応用が期待される。\n\n**4. エクソソームを利用したCAR-T療法の増強**\n固形腫瘍に対するCAR-T療法の課題（浸潤不良、免疫抑制環境）を克服するため、iPSC由来エクソソームにBiTE様分子を搭載した吸入型ナノプラットフォームを開発。CAR-T細胞の活性化と腫瘍殺傷効果を劇的に増強する次世代併用療法として注目。\n\n**5. ハイブリッド・バイオミメティックエクソソームの大量生産**\n天然エクソソームの収量・機能性の課題を解決する合成プラットフォーム「BOB-HBE」を開発。複数の細胞膜と治療用プラスミドを組み合わせた高機能エクソソームを大量生産可能にし、核酸医薬デリバリーや難治性疾患治療への応用に道を開く。"
+}

@@ -1,0 +1,144 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Cellular therapies for rheumatic disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41852187/",
+        "abstract": "Cellular therapies, particularly chimeric antigen receptor (CAR)-modified lymphocytes, have progressed from experimental oncology into serious consideration for selected autoimmune rheumatic diseases. Autologous and emerging allogeneic CAR-T platforms now offer the possibility of deep, drug-free remission in systemic lupus erythematosus (SLE), idiopathic inflammatory myopathies (IIM), systemic sclerosis (SSc), and related conditions for which conventional therapies remain inadequate. This timely article reviews the rationale, current clinical experience, safety profile, and future directions of cell therapies in rheumatology with a focus on efficacy, safety, and \"immune reset\" in autoimmune rheumatic disease. The review is particularly pertinent as multiple parallel cell-based platforms (autologous and allogeneic CAR T cells, transient RNA CARs, CAR-NK, and T cell engagers) are entering the rheumatology space faster than practice guidelines or trial frameworks can fully adjust.",
+        "source": "PubMed",
+        "doi": "10.1097/BOR.0000000000001159",
+        "keyword": "NK cell therapy",
+        "title_ja": "リウマチ性疾患に対する細胞療法",
+        "summary_ja": "細胞療法、特にCAR-T細胞療法は、実験的腫瘍学から、選択された自己免疫性リウマチ疾患への応用が本格的に検討される段階に進展した。従来療法が不十分なSLE、IIM、SScなどにおいて、自家および新興の同種CAR-Tプラットフォームは、薬剤不要の深い寛解の可能性を提供する。本稿は、自己免疫性リウマチ疾患における「免疫リセット」に焦点を当て、細胞療法の理論的根拠、臨床経験、安全性、将来展望を概説する。自家／同種CAR-T、一過性RNA CAR、CAR-NK、T細胞エングージャーなど多様なプラットフォームが急速に登場しており、診療ガイドラインや試験枠組みの調整を上回る速度で発展している。"
+      },
+      {
+        "title": "Advances in immunotherapy for cytomegalovirus infection following allogeneic hematopoietic stem cell transplantation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41852018/",
+        "abstract": "Allogeneic hematopoietic stem cell transplantation (allo-HSCT) is an effective curative therapy for hematologic malignancies. However, post-transplant cytomegalovirus (CMV) infection remains a common and serious complication, significantly impacting patient prognosis and survival. Currently available antiviral agents are limited by bone marrow suppression, nephrotoxicity, drug resistance, and high cost, highlighting the need for alternative therapeutic strategies. Advances in immunotherapy - including CMV-specific T cells (CMV-CTL), TCR-engineered T cells (CMV-TCR-T), and natural killer (NK) cell therapies - as well as antibody-based approaches and prophylactic vaccines, provide new avenues for CMV management. Future treatment paradigms may integrate antiviral therapy, immunotherapy, and vaccination to improve outcomes in patients experiencing CMV reactivation after transplantation. This review summarizes the current progress of immunotherapeutic strategies for CMV infection following allo-HSCT. Relevant literature was identified through PubMed, Embase, and Web of Science databases, covering the period from January 2000 to December 2025.",
+        "source": "PubMed",
+        "doi": "10.1080/1750743X.2026.2644106",
+        "keyword": "NK cell therapy",
+        "title_ja": "同種造血幹細胞移植後のサイトメガロウイルス感染に対する免疫療法の進歩",
+        "summary_ja": "同種造血幹細胞移植（allo-HSCT）後のサイトメガロウイルス（CMV）感染は、予後に影響する重篤な合併症である。既存の抗ウイルス薬は骨髄抑制や耐性などの課題があり、新たな治療戦略が求められている。本論文は、免疫療法の進展を概説する。CMV特異的T細胞（CMV-CTL）、TCR改変T細胞（CMV-TCR-T）、NK細胞療法、抗体療法、予防ワクチンなどが新たな選択肢として登場している。今後の治療パラダイムは、抗ウイルス薬、免疫療法、ワクチンを統合し、移植後CMV再活性化の転帰改善を目指す。"
+      },
+      {
+        "title": "NIR-II Nanomedicine Engineered CAR-NK Cells for Precision Navigation and Potentiating Lung Cancer Immunotherapy by Remodeling Tumor Microenvironment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789570/",
+        "abstract": "Despite the prominent success against hematologic malignancies in clinical settings, chimeric antigen receptor NK (CAR-NK) cell immunotherapy is still hindered in lung cancer tumors owing to insufficient infiltration and poor immune activation induced by the immunosuppressive tumor microenvironment (TME). Herein, a nanoengineered CAR-NK biohybrid (CK-PSI) was constructed by conjugating nanomedicine (PSI NPs) containing a near-infrared II (NIR-II) polymer and a specific small-molecule inhibitor of Smad3 (SIS3) to the surface of metabolic glycan-engineered CAR-NK cells via a bioorthogonal reaction. Anti-B7H3 CAR modification on cell vectors offers selectively targeted delivery of hitchhiking NIR-II nanomedicine into lung cancer tumors, simultaneously enabling real-time tracking of CAR-NK cells and precise localization of deep-seated tumors through NIR-II fluorescence imaging. NIR-II excitation mild photothermal therapy not only destroys tumor cells by thermal ablation but also promotes the infiltration and penetration of CK-PSI through the rupture of physical barriers within tumor tissues. More importantly, the ",
+        "source": "PubMed",
+        "doi": "10.1021/jacs.6c01128",
+        "keyword": "NK cell therapy",
+        "title_ja": "NIR-IIナノ医薬品で設計されたCAR-NK細胞による精密ナビゲーションと腫瘍微小環境リモデリングを介した肺がん免疫療法の増強",
+        "summary_ja": "本論文では、CAR-NK細胞療法が免疫抑制的な腫瘍微小環境（TME）により肺がんでは効果が限られる課題に対し、NIR-IIナノ医薬を結合させたバイオハイブリッド「CK-PSI」を開発した。抗B7H3 CARにより腫瘍への選択的送達とNIR-II蛍光イメージングによる追跡を実現。NIR-II励起による温和な光熱療法が物理的障壁を破壊し細胞浸潤を促進し、同時に放出されるSmad3阻害剤SIS3がTMEを再構築して免疫活性化を増強する。これにより、CAR-NK療法の有効性を高める新戦略を提案している。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Aptamer-targeted hybrid nanoparticles based on human exosomes and LXR agonist-loaded liposomes for enhanced anti-AML therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41854184/",
+        "abstract": "Despite advances in acute myeloid leukemia (AML) research, the treatment of AML is still inadequate, with relapse rates exceeding 50% in high-risk patients. There is an urgent need for the development of novel and synergistic therapies. In this study, we devised a Liver X Receptor (LXR) agonist, T0901317, employing the CD123 aptamer as a targeting element and exosome-liposome hybrid nanoparticles as delivery vehicles: aptamer mediated exosome-liposome hybridized nanoparticles@T0901317 (A-ELHN@T0901317). The A-ELHN@T0901317 was successfully synthesized with a uniform size of 162.0 ± 2.082 nm (PDI: 0.2368 ± 0.01845), ideal encapsulation efficiency (83.17 ± 2.881% for T0901317). ",
+        "source": "PubMed",
+        "doi": "10.1080/15257770.2026.2644606",
+        "keyword": "Exosomes",
+        "title_ja": "ヒトエクソソームとLXRアゴニスト内包リポソームを基盤としたアプタマー標的型ハイブリッドナノ粒子による強化抗AML療法",
+        "summary_ja": "本論文は、急性骨髄性白血病（AML）に対する新規治療として、CD123アプタマーを標的分子とし、エクソソームとリポソームのハイブリッドナノ粒子（A-ELHN）を用いてLXRアゴニスト（T0901317）を送達するシステムを開発した。この製剤は均一な粒子径（約162 nm）と高い封入効率（約83%）を示し、標的細胞への選択的送達と薬剤の相乗効果により、AML治療の効率向上が期待される。"
+      },
+      {
+        "title": "Bioprinting of Exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41853937/",
+        "abstract": "Exosomes (EXOs) help cells communicate by transporting proteins, lipids, and RNA. EXOs are being studied for diagnosis and treatment in oncology, regenerative medicine, and infectious diseases. EXOs' research is limited because isolating high-purity EXOs in sufficient quantities impairs their therapeutic value. Bioprinting, which uses 3D printing to produce complex living objects, opens new avenues for medical research. 3D bioprinting can overcome limitations in EXO research. Bioprinting-customized microenvironments can imitate the natural biological setting, increasing the production of EXOs and their research. Bioprinting has enabled the development of precise, reproducible 3D models to study EXOs' dynamics in a controlled setting. In three dimensions, bioprinted tissues can be used to study how EXOs affect cell-to-cell communication and disease progression. Additionally, bioprinted tissue models are essential for EXO-based therapeutic safety and efficacy testing. EXO bioprinting advances EXO isolation and application, clarifying their functions and therapeutic potential. Scientists enhance the scalability and precision of EXO production ",
+        "source": "PubMed",
+        "doi": "10.1039/d5bm01754h",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームのバイオプリンティング",
+        "summary_ja": "**論文要約：エクソソームのバイオプリンティング**\n\nエクソソーム（EXOs）は、タンパク質・脂質・RNAを運び細胞間通信を担う。がん、再生医療、感染症分野での診断・治療応用が研究されるが、高純度で大量のEXOsを単離する難しさが課題である。バイオプリンティング（生体組織の3D印刷技術）は、EXOs研究の新たな道を開く。生体環境を模倣したバイオプリント微小環境は、EXOsの産生増加と研究促進を可能にする。精密で再現性の高い3Dモデルにより、制御された条件下でのEXOs動態や細胞間通信・疾患進行への影響を解析できる。さらに、EXOsを利用した治療法の安全性・有効性評価にも必須である。EXOsのバイオプリンティングは、その機能解明と治療応用の拡大に寄与する。"
+      },
+      {
+        "title": "Retraction Note: Exosome-mediated Transfer of lncRNA in Liver Associated Diseases; Uncovered Truths.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41849081/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s12013-026-02059-3",
+        "keyword": "Exosomes",
+        "title_ja": "撤回記事: 肝臓関連疾患におけるエクソソーム媒介性lncRNA転送; 明らかになった真実",
+        "summary_ja": "【要約】\n本論文は、肝臓関連疾患におけるエクソソームを介したlncRNA（長鎖非コードRNA）の転送に関する研究についての取り下げ通知である。著者らは、元論文の図1Bおよび図3Aにおいて、画像の重複や不適切な加工が発見されたため、データの信頼性に重大な疑問が生じたと説明。これを受け、編集委員会は論文全体の結論の根拠が損なわれたと判断し、読者の利益のために当該論文を取り下げることを決定した。"
+      },
+      {
+        "title": "Cancer-associated fibroblasts-secreted exosomes promote malignant advancement of liver cancer by regulating the circE2F3/miR-1305/E2F3 axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41849019/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s11010-026-05517-x",
+        "keyword": "Exosomes",
+        "title_ja": "癌関連線維芽細胞が分泌するエクソソームは、circE2F3/miR-1305/E2F3軸を調節することで肝癌の悪性進行を促進する。",
+        "summary_ja": "本論文は、肝細胞癌（HCC）における癌関連線維芽細胞（CAFs）由来エクソソームの役割を解明した。CAFsが分泌するエクソソームは、circE2F3（環状RNA）をHCC細胞へ移行させる。移行したcircE2F3はmiR-1305を吸着（スポンジ）し、その抑制を解除することで標的遺伝子E2F3の発現を上昇させる。このcircE2F3/miR-1305/E2F3軸の活性化が、HCC細胞の増殖、浸潤、転移を促進し、悪性進展を駆動することを示した。CAFsエクソソームを介した新たな分子メカニズムは、HCC治療の潜在的な標的となる。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Targeting cardiomyocyte-derived extracellular vesicle miR-574-5p protects against cognitive impairment induced by ischemia-reperfusion.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41851712/",
+        "abstract": "Acute myocardial ischemia/reperfusion (MI/R) increases risk for cognitive decline, yet the underlying mechanisms mediating heart-brain communication remain poorly understood. Small extracellular vesicles (sEVs) have emerged as novel long-range signaling mediators and may play a critical role.",
+        "source": "PubMed",
+        "doi": "10.1186/s12916-026-04792-1",
+        "keyword": "Exosomes",
+        "title_ja": "心筋細胞由来細胞外小胞miR-574-5pを標的とすることで虚血再灌流による認知機能障害から保護する",
+        "summary_ja": "心筋虚血再灌流（MI/R）は認知機能低下リスクを高めるが、その心臓-脳間通信機序は不明である。本研究は、心筋細胞由来の小型細胞外小胞（sEVs）が重要な遠距離シグナル伝達媒体であることを示し、特にsEVs内のmiR-574-5pがMI/R後の認知障害を誘導することを明らかにした。従って、心筋細胞sEVsのmiR-574-5pを標的とすることが、MI/Rに伴う認知障害に対する新たな保護戦略となり得る。"
+      },
+      {
+        "title": "Mesenchymal stem cell-originated exosomal ZEB1 alleviates hypoxia/reperfusion-induced apoptosis, oxidative stress, and endoplasmic reticulum stress in cardiomyocytes via regulating UBIAD1.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41849074/",
+        "abstract": "Acute myocardial infarction (AMI) is a major cardiovascular disease. Exosomes from mesenchymal stem cells (MSCs) are known to ameliorate myocardial ischemia-reperfusion (I/R) injury, and aberrant expression of UbiA prenyltransferase domain-containing protein 1 (UBIAD1) is linked to cardiovascular pathologies. However, it remains unclear whether MSC-derived exosomes mediate myocardial I/R injury by regulating UBIAD1.",
+        "source": "PubMed",
+        "doi": "10.1007/s10863-026-10095-0",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来のエクソソーム内ZEB1は、UBIAD1を調節することで、心筋細胞における低酸素/再灌流誘導アポトーシス、酸化ストレス、および小胞体ストレスを軽減する。",
+        "summary_ja": "間葉系幹細胞（MSC）由来のエクソソームに含まれるZEB1が、心筋虚血再灌流（I/R）障害を軽減するメカニズムを解明した研究。エクソソーム内ZEB1は、心筋細胞内のUBIAD1発現を上昇させ、アポトーシス、酸化ストレス、小胞体ストレスを抑制することで、心筋保護効果を発揮する。これにより、MSCエクソソームがUBIAD1を介して心筋I/R障害を改善する新たな経路が示された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. CAR-T細胞療法のリウマチ疾患への応用**\n従来治療不応性の全身性エリテマトーデスなどへの応用が本格化。自家・同種CAR-Tプラットフォームが開発中で、自己免疫疾患治療のパラダイムシフトとなる可能性。\n\n**2. NIR-IIナノ医薬結合CAR-NK細胞による肺がん治療**\n免疫抑制性腫瘍微小環境が課題の肺がんに対し、近赤外光第二窓帯（NIR-II）ナノ材料を結合したCAR-NK細胞を開発。光制御による標的送達と微小環境リモデリングで治療効果増強を目指す。\n\n**3. エクソソーム・リポソームハイブリッド粒子によるAML治療**\n急性骨髄性白血病に対し、アプタマー標的型のエクソソーム・リポソームハイブリッドナノ粒子を開発。LXRアゴニストの効率的送達により、新規標的治療剤として期待。\n\n**4. 心筋細胞由来sEVsのmiR-574-5pによる心臓-脳連関の解明**\n心筋虚血再灌流後の認知機能障害において、心筋細胞由来小型細胞外小胞（sEVs）内miR-574-5pが保護的に作用する機序を発見。臓器間通信を介した合併症予防の新ターゲットを示唆。\n\n**5. エクソソームのバイオプリンティング**\n診断・治療応用の障壁であるエクソソームの大量高純度単離に対し、バイオプリンティング技術を用いた新規製造プラットフォームを開発。実用化に向けた生産技術の進展が期待される。"
+}

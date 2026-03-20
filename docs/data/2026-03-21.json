@@ -1,0 +1,144 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Safety and efficacy of JWATM204, a novel Glypican-3 (GPC3)-targeted CAR T cell therapy for advanced hepatocellular carcinoma: A phase I dose-escalation study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41859477/",
+        "abstract": "Glypican-3 (GPC3) is an important therapeutic target for chimeric antigen receptor (CAR) T cell therapy in hepatocellular carcinoma (HCC). JWATM204 is a novel GPC3-targeted CAR T cell therapy developed on the Antibody Redirected T Cells with Endogenous Modular Immune Signaling (ARTEMIS) T-cell platform, combining the high affinity and specificity of an anti-GPC3 monoclonal antibody with enhanced safety profiles. This Phase I study aimed to evaluate the safety and tolerability of JWATM204 in patients with advanced HCC.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cpt.2025.12.002",
+        "keyword": "NK cell therapy",
+        "title_ja": "進行性肝細胞癌に対する新規Glypican-3（GPC3）標的CAR-T細胞療法JWATM204の安全性と有効性：第I相用量漸増試験",
+        "summary_ja": "本論文は、進行性肝細胞癌（HCC）を対象とした新規CAR-T細胞療法「JWATM204」の第I相試験結果を報告する。JWATM204は、標的分子Glypican-3（GPC3）に対する高親和性抗体と、安全性プロファイルを強化したARTEMIS T細胞プラットフォームを組み合わせた療法である。試験では用量漸増により安全性と忍容性を評価し、有望な初期有効性が示された。GPC3標的CAR-T療法は、進行性HCCに対する新たな治療選択肢となる可能性がある。"
+      },
+      {
+        "title": "Reprogramming ferroptosis in MDSCs: For state-dependent immunotherapy combinations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41794306/",
+        "abstract": "Ferroptosis of myeloid-derived suppressor cells (MDSCs) exerts state-specific and contextually regulated effects on antitumor immunity. Sublethal ferroptotic stress is characterized by lipid peroxidation and the release of prostaglandin E2 (PGE2) and oxidized phospholipids. Such stress dampens T-cell and natural killer cell functions, reinforcing immunosuppression. Conversely, reducing intratumoral MDSC accumulation restores antitumor immunity. Disrupting metabolic pathways (e.g., the aconitate decarboxylase 1 (ACOD1)-itaconate-nuclear factor erythroid 2-related factor 2 (NRF2) axis) sensitizes tumor-infiltrating PMN-MDSCs to ferroptosis, while inhibiting N-acylsphingosine amidohydrolase 2 (ASAH2) drives lethal ferroptosis enhancing immune activation. This review proposes the \"ferroptosis immunomodulation window\" concept: (i) during sub-lethal ferroptotic stress, limitation/neutralization of MDSC-derived immunosuppressive lipid mediators, avoiding prolonged retention of cells in the phase; (ii) in a ferroptosis-resistant state, attenuating antioxidant/anti-ferroptotic defenses and inducing lethal ferroptosis to alleviate MDSC burden, while synergizing with immunotherapy. Future research should focus on developing delivery systems for the targeted control of MDSC ferroptosis.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbcan.2026.189571",
+        "keyword": "NK cell therapy",
+        "title_ja": "MDSCにおけるフェロトーシスの再プログラミング：状態依存的な免疫療法併用に向けて",
+        "summary_ja": "骨髄由来抑制細胞（MDSC）のフェロトーシスは、抗腫瘍免疫に状態依存的・文脈依存的影響を及ぼす。亜致死フェロトーシスストレスは脂質過酸化とPGE2等の免疫抑制性脂質メディエーター放出を伴い、T細胞・NK細胞機能を抑制する。一方、代謝経路（ACOD1-イタコネート-NRF2軸など）を阻害しPMN-MDSCをフェロトーシスに感受性化、またはASAH2阻害により致死的フェロトーシスを誘導すると、MDSC負荷が軽減され免疫活性化が促進される。本レビューは「フェロトーシス免疫調節ウィンドウ」を提唱：亜致死段階では免疫抑制性脂質メディエーターを制限、フェロトーシス抵抗性状態では抗酸化防御を減弱させ致死フェロトーシスを誘導し、免疫療法と相乗する。今後の標的制御デリバリーシステム開発が課題である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Optimised untargeted metabolomics workflow for human urinary extracellular vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860237/",
+        "abstract": "Extracellular vesicles (EVs) have been a key focus in biomarker discovery, with urinary EVs (uEVs), primarily derived from cells of the urogenital tract, providing valuable insights into kidney and urinary tract health and disease. However, progress in uEV-based metabolomics remains limited by variability in EV isolation and extraction approaches. Here, we systematically evaluated and optimised experimental conditions for untargeted metabolite profiling of human uEVs. We compared three different EV isolation methods, namely precipitation, size-exclusion chromatography, and pH-adjustment with resin separation, and found that precipitation yielded the highest particle count. However, the pH-adjustment with resin separation method produced the highest number of small EVs (30-150 nm), aligning with the primary focus of EV research. Transmission electron microscopy analysis confirmed the presence of well-structured exosomes in these isolates. Moreover, this EV isolation method generated the broadest metabolite coverage. To identify the most effective metabolite extraction conditions, we compared two established protocols (P. Liu, W. Wang, F. Wang, J. Fan, J. Guo and T. Wu, ",
+        "source": "PubMed",
+        "doi": "10.1039/d6ay00002a",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト尿中細胞外小胞の最適化された非ターゲット代謝物質解析ワークフロー",
+        "summary_ja": "**要約：**\n尿中細胞外小胞（uEVs）は泌尿器系疾患のバイオマーカーとして注目されるが、代謝物解析は分離・抽出法のばらつきにより進展が限られていた。本研究では、ヒトuEVsの非標的代謝プロファイリングの条件を体系的に評価・最適化した。3種類のEV分離法（沈殿法、サイズ排除クロマトグラフィー、pH調整・樹脂分離法）を比較した結果、沈殿法は粒子数が最多であったが、pH調整・樹脂分離法は主要な研究対象である小型EV（30-150 nm）の回収率が最も高く、透過型電子顕微鏡でエクソソーム構造を確認した。さらに、この分離法は最も広範な代謝物カバレッジをもたらした。代謝物抽出条件については、2つの既存プロトコルを比較検討した。"
+      },
+      {
+        "title": "Target-Gated Ratiometric pH Sensing via Tetrahedral DNA Framework-Based Dual-CRISPR System.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41859774/",
+        "abstract": "Extracellular vesicle (EV)-mediated communication is tightly regulated by local pH, which governs vesicle biogenesis, cargo release, and membrane fusion. Accurate and context-specific pH sensing is therefore crucial for elucidating EV function and disease-associated microenvironmental regulation. Here, we present a tetrahedral DNA framework (TDF)-orchestrated dual-CRISPR system that integrates orthogonal Cas12a and Cas13a nucleases for target-activated, ratiometric pH detection at lipid membranes. By exploiting the distinct pH-activity profiles of Cas12a (optimal pH ∼ 8.5) and Cas13a (optimal pH ∼ 7.2), combined with their complete substrate orthogonality, we constructed a self-calibrating nanosensor featuring equimolar coassembly of both nucleases and their corresponding fluorogenic reporters at the four vertices of a TDF. The well-defined tetrahedral geometry ensured reproducible molecular organization and stable fluorescence output, eliminating variability inherent to conventional single-fluorophore probes. The sensor exhibited quantitative assembly fidelity and robust pH responsiveness across physiological ranges. Importantly, the Cas module can be programmed for conditional activation, enabling pH sensing only upon recognition of disease-associated biomarkers. Using miR-146a, a regulatory microRNA enriched in EVs implicated in inflammation and cancer progression, as a model target, we demonstrated target-gated pH monitoring on cell-derived exosomes and during liposome fusion events. This work establishes a versatile and generalizable platform for programmable, ratiometric sensing at biomembrane interfaces, offering new opportunities to probe EV-mediated intercellular communication and dynamic microenvironmental regulation.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.5c07666",
+        "keyword": "Exosomes",
+        "title_ja": "標的ゲート型比率測定pHセンシング：四面体DNAフレームワークに基づくデュアルCRISPRシステム",
+        "summary_ja": "本論文は、細胞外小胞（EV）の機能解明に重要な局所pHを、標的認識依存型で高精度に検出する新規センサーを報告する。正四面体DNA骨格（TDF）上に、至適pHの異なるCas12a（pH 8.5）とCas13a（pH 7.2）を等モル配置し、それらが標的（例：miR-146a）で活性化されることで、蛍光強度比から自己校正型のratiometric pH測定を実現した。構造の均一性により再現性が高く、EVやリポソーム膜上での標的依存的なpHモニタリングに成功。生体膜界面におけるプログラム可能なセンシングプラットフォームを確立した。"
+      },
+      {
+        "title": "An exosome-biomimetic photothermal nanocarrier for IGF2BP2 siRNA delivery and enhanced ferroptosis in head and neck squamous cell carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41859644/",
+        "abstract": "Head and neck squamous cell carcinoma (HNSCC) commonly develops treatment resistance, highlighting the necessity of novel therapeutic strategies. Although ferroptosis has emerged as a promising route, its regulatory determinants and effective gene delivery approaches in HNSCC remain poorly understood. In this study, we determined that the RNA-binding protein IGF2BP2 promotes ferroptosis resistance in HNSCC, at least in part by associating with increased NRF2 mRNA stability and sustaining the NRF2-SLC7A11/GPX4 antioxidant axis. Actinomycin D chase assays further support an IGF2BP2-dependent post-transcriptional regulation of NRF2 under erastin-induced ferroptotic stress. To therapeutically target this pathway, we engineered a biomimetic hybrid nanocarrier (si@PLE) by fusing M1 macrophage-derived exosomes with photothermally responsive cationic liposomes for the targeted delivery of IGF2BP2 small interfering RNA (siRNA). si@PLE exhibited favorable physicochemical properties and stability, and exosome-liposome fusion improved siRNA protection and tumor accumulation compared with that of the matched non-fused control, enabling enhanced tumor-site heating under identical irradiation conditions. In vitro and in vivo, si@PLE combined with near-infrared laser irradiation enhanced ferroptosis relative to either monotherapy, significantly suppressing tumor growth with a favorable safety profile. Collectively, these findings establish a biomimetic gene silencing-photothermal platform to sensitize HNSCC to ferroptosis by targeting the IGF2BP2-NRF2 axis.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.102999",
+        "keyword": "Exosomes",
+        "title_ja": "頭頸部扁平上皮癌におけるIGF2BP2 siRNA送達と増強フェロトーシスのためのエクソソーム模倣光熱ナノキャリア",
+        "summary_ja": "本論文は、頭頸部扁平上皮癌（HNSCC）における治療抵抗性克服のため、新規治療戦略としてフェロトーシス（鉄依存性細胞死）に着目した。RNA結合タンパク質IGF2BP2がNRF2 mRNAの安定化を介して抗酸化経路（NRF2-SLC7A11/GPX4軸）を維持し、フェロトーシス抵抗性を促進することを明らかにした。この経路を標的とするため、M1マクロファージ由来エクソソームと光熱応答性リポソームを融合させた生体模倣ナノキャリア（si@PLE）を開発し、IGF2BP2 siRNAを標的送達した。si@PLEは優れた腫瘍集積性と光熱効果を示し、近赤外線照射と組み合わせることで、in vitro及びin vivoでフェロトーシスを増強し、腫瘍増殖を有意に抑制した。本研究は、IGF2BP2-NRF2軸を標的とする生体模倣遺伝子サイレンシング・光熱複合プラットフォームを確立した。"
+      },
+      {
+        "title": "Exosome-loaded hydrogels for bone regeneration: a cell-free therapeutic strategy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41857754/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s13036-026-00659-4",
+        "keyword": "Exosomes",
+        "title_ja": "骨再生のためのエクソソーム内包ハイドロゲル：細胞を用いない治療戦略",
+        "summary_ja": "本論文は、骨再生のための細胞フリー治療戦略として、エクソソームを内包したハイドロゲルを提案する。間葉系幹細胞（MSCs）から分泌されるエクソソームは、骨形成促進因子やmiRNAなどを運び、骨再生を誘導する。しかし、生体内での急速なクリアランスが課題である。これを解決するため、持続的な徐放性デリバリーシステムとして生体適合性ハイドロゲルを利用する。エクソソームをハイドロゲルに内包・固定化することで、局所滞留性を高め、骨欠損部位への効果的な放出を可能とする。このアプローチは、生体細胞移植に伴うリスクを回避しつつ、エクソソームの骨形成促進作用を最大限に活用する新規治療法として期待される。"
+      },
+      {
+        "title": "ReVesicle: Curation and Equilibration of Lipid Vesicles for Mesoscale Simulations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41855556/",
+        "abstract": "Molecular dynamics simulations provide essential atomistic insights into the organization and dynamics of complex biological membranes. However, the equilibration of large-scale, curved lipid assemblies at the all-atom level remains a significant challenge. Standard construction approaches, such as wrapping planar bilayers onto spherical meshes, frequently reverberate into structural instabilities, including membrane holes, infiltrated water, lipid flipping, and nonequilibrated densities, which hinder stable production simulations. Here, we present ",
+        "source": "PubMed",
+        "doi": "10.1021/acs.jctc.6c00219",
+        "keyword": "Exosomes",
+        "title_ja": "ReVesicle: メソスケールシミュレーションのための脂質二分子膜小胞のキュレーションと平衡化",
+        "summary_ja": "**ReVesicle：メソスケールシミュレーションのための脂質ベシクルのキュレーションと平衡化**\n\n分子動力学シミュレーションは生体膜の理解に不可欠だが、大規模で曲率を持つ脂質集合体の全原子レベルでの平衡化は困難である。従来の平面膜を球面メッシュに包む方法では、膜の孔、水の侵入、脂質反転、非平衡密度など構造的不安定性が生じ、安定なシミュレーションを妨げる。本研究では、これらの問題を体系的に検出・修復し、最適化された初期構造を提供する自動化ツール「ReVesicle」を提案する。"
+      },
+      {
+        "title": "The circTIMP2/miR-106a/TIMP2 tumor-suppressive axis versus tumor-derived exosomal counteraction in gastric cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41854883/",
+        "abstract": "Gastric cancer is a multifactorial disease and remains one of the leading causes of cancer-related deaths worldwide. CircRNAs have emerged as critical regulators in various cancers, while exosomes play essential roles in shaping the tumor microenvironment. However, the function of circTIMP2 and its interaction with exosomes are largely unknown. In this study, we evaluated the expression of circTIMP2 and investigated its biological roles in gastric cancer through a series of in vitro and in vivo experiments. The sponge mechanism of circTIMP2 for miR-106a, together with the target TIMP2, was validated using bioinformatics, luciferase, RNA immunoprecipitation, and fluorescence in situ hybridization assays. The involvement of exosomes and the influence on circTIMP2 were further explored. We found that circTIMP2 was significantly downregulated in gastric cancer, whereas miR-106a was upregulated, accompanied by downregulation of TIMP2. Overexpression of circTIMP2 attenuated malignant behaviors of cancer cells and suppressed subcutaneous tumor growth by upregulating its host gene TIMP2, coinciding with reduced miR-106a and inhibition of Wnt/β-catenin signaling pathway. Mechanistically, circTIMP2 acts as a competitive endogenous RNA by sequestering miR-106a to release its target TIMP2, thereby forming a circTIMP2/miR-106a/TIMP2 feedback loop that suppresses gastric cancer through inhibition of Wnt/β-catenin signaling. Importantly, tumor-derived exosomes counteracted the suppressive effects of circTIMP2, promoting orthotopic tumor progression by inhibiting TIMP2 and reactivating Wnt/β-catenin signaling. Our findings unveil a novel circRNA-guided feedback loop in gastric cancer and highlight how exosome-mediated mechanisms counteract this axis, providing new insights into the molecular pathogenesis of gastric cancer and suggesting potential therapeutic targets.",
+        "source": "PubMed",
+        "doi": "10.1007/s10495-026-02297-z",
+        "keyword": "Exosomes",
+        "title_ja": "circTIMP2/miR-106a/TIMP2腫瘍抑制軸と胃がんにおける腫瘍由来エクソソームによる拮抗作用",
+        "summary_ja": "本論文は、胃がんにおける新規なcircTIMP2/miR-106a/TIMP2抑制軸と、腫瘍由来エクソソームによるその拮抗作用を明らかにした。circTIMP2は胃がんで発現低下し、miR-106aをスポンジとして捕捉することで、その標的遺伝子TIMP2の発現を回復させる。このフィードバックループはWnt/β-カテニン経路を抑制し、腫瘍増殖を抑制する。一方、腫瘍由来エクソソームはこの抑制軸を打ち消し、TIMP2を抑制してWnt/β-カテニン経路を再活性化することで、腫瘍進展を促進する。この発見は胃がんの分子病態に新たな知見を与え、治療標候補を示唆する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Small extracellular vesicle-integrated by herbal hydrogels for spatiotemporal immunomodulation and neurovascular repair following traumatic brain injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41853701/",
+        "abstract": "Traumatic brain injury (TBI) causes acute neuronal and vascular damage accompanied by intense neuroinflammation, yet current surgical and pharmacological interventions yield limited long-term benefits. Embryonic stem cell-derived small extracellular vesicles (ESC-sEV) carry potent pro-repair signals but suffer from poor brain targeting and rapid clearance in the acute inflammatory window. To address these critical limitations, we engineered an injectable ESC-sEV-glycyrrhizic acid (GA) co-assembled hydrogel (EG-gel) in which sEVs act as a functional gel factor interpenetrating GA nanoscaffolds. GA molecules were self-assembled into nanoscaffolds via hydrogen bonding, with polar head groups coordinating to sEV membranes while hydrophobic cores insert into lipid bilayers, yielding a robust, hierarchical matrix. EG-gel exhibited brain-compatible mechanical properties, rapid self-healing, shear-thinning injectability, and strong tissue adhesion, which collectively enhance local sEV accumulation at the lesion site. In a mouse TBI model, the EG-gel showed superior neuroprotective effects and functional recovery outcomes compared with the GA-gel. Transcriptomics combined with experimental validation confirmed a spatiotemporal synergistic mechanism: GA mediated early inflammatory suppression and immune microenvironment stabilization, while co-assembled sEVs drove angiogenesis and neuronal repair. Therefore, the EG-gel played a synergistic role in establishing a sequential \"first anti-inflammatory, then vaso-neural regeneration\" microenvironment, thereby promoting neuroprotection after TBI. This work highlights the EG-gel as an up-and-coming candidate for translational therapy in TBI.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.02.056",
+        "keyword": "sEVs",
+        "title_ja": "外傷性脳損傷後の時空間的免疫調節と神経血管修復のための漢方ハイドロゲル統合型小型細胞外小胞",
+        "summary_ja": "外傷性脳損傷（TBI）後の神経血管修復と免疫調節を目的に、胚性幹細胞由来の小型細胞外小胞（ESC-sEV）と甘草酸（GA）を共集合させた注入可能なハイドロゲル（EG-gel）を開発した。EG-gelは、損傷部位への局所保持性と組織粘着性に優れ、sEVの持続的放出を可能にする。マウスTBIモデルでは、GAが早期の炎症抑制と免疫環境安定化を担い、sEVが後期の血管新生と神経修復を促進する時空間的相乗メカニズムを発揮。これにより「抗炎症先行、その後神経血管再生」という連続的な修復微小環境を構築し、神経保護と機能回復を顕著に改善した。本材料はTBI治療の革候補として期待される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下は、特に注目すべき5つのトピックです。\n\n1. **GPC3標的CAR-T療法（JWATM204）**：進行性肝細胞癌に対する新規治療。従来の治療が難しい患者層への選択肢拡大が期待される。今後の大規模試験で有効性・安全性が確認されれば、実臨床への導入が進む。\n\n2. **MDSCのフェロトーシス再プログラミング**：免疫抑制環境を制御する新概念。フェロトーシスを状態依存的に操作し、免疫療法との組み合わせ効果を最大化する次世代コンビネーション療法の基盤となる。\n\n3. **尿中EVの代謝プロファイリング最適化**：泌尿器疾患の非侵襲的バイオマーカー開発に向けた基盤技術。標準化されたワークフローは、診断・予後予測ツールの開発を加速させる。\n\n4. **EVの標的認識型pHセンサー**：EVの機能解明に不可欠な微小環境計測技術。疾患特異的EVの動態や細胞間通信の理解を深め、新たな治療標的の発見につながる。\n\n5. **エクソソームハイドロゲルによる骨再生**：細胞治療に代わるオフ・ザ・シェルフ型治療戦略。エクソソームの局所保持・徐放を実現し、組織再生医療の実用性と再現性を高める。"
+}

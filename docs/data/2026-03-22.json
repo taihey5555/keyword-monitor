@@ -1,0 +1,104 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Overcoming the blood‒brain barrier: nanomedicine strategies for targeted delivery and multimodal therapy in Alzheimer's disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863079/",
+        "abstract": "Alzheimer's disease (AD) remains a significant therapeutic challenge, primarily because the formidable blood‒brain barrier (BBB), which drastically limits the brain bioavailability of most drugs. Nanoparticle-based drug delivery systems offer a promising strategy to overcome this central obstacle. This review systematically examines the design, mechanisms, and applications of nanomedicine in AD therapy. We analyze key strategies for enhancing BBB penetration through surface engineering and the utilization of various nanocarriers, including liposomes, exosomes, dendrimers, and carbon dots. Furthermore, we discuss how stimuli-responsive release mechanisms (e.g. responsive to pH, enzymes, reactive oxygen species, light, or ultrasound) enable targeted and precise drug delivery. A critical focus is placed on how these multifunctional nanoplatforms can address multiple AD pathogenic pathways simultaneously, such as amyloid-β and tau aggregation, cholinergic dysfunction, oxidative stress, neuroinflammation, and gut‒brain axis dysregulation. Although preclinical evidence is compelling, the clinical translation of these nanotherapies is hindered by challenges related to long-term biocompatibility, scalable manufacturing, patient heterogeneity, and regulatory frameworks. This review highlights the translational potential of nanomedicine in AD treatment while outlining the key hurdles that must be addressed for its successful implementation.",
+        "source": "PubMed",
+        "doi": "10.1080/10717544.2026.2645830",
+        "keyword": "Exosomes",
+        "title_ja": "血液脳関門の克服：アルツハイマー病における標的指向的デリバリーと多様式治療のためのナノ医薬品戦略",
+        "summary_ja": "アルツハイマー病（AD）治療の主要な障壁は血液脳関門（BBB）であり、ナノ粒子薬物送達システムはこれを克服する有望な戦略である。本総説は、リポソームやエクソソーム等のナノキャリアによるBBB透過性向上や、pH・酵素等に応答する刺激応答性放出機構を用いた標的送達を検討する。さらに、アミロイドβ凝集や神経炎症など複数の病因経路を同時に標的とする多機能性ナノプラットフォームの可能性を論じる。臨床応用には、生体適合性や製造スケールアップなどの課題が残されているが、ナノ医薬はAD治療に大きな転換をもたらし得ると結論づける。"
+      },
+      {
+        "title": "Exploring exosome-related genes as candidate biomarkers in primary immune thrombocytopenia through transcriptomics and preliminary experimental validation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41862615/",
+        "abstract": "Primary Immune Thrombocytopenia (ITP) is an autoimmune disease characterized by thrombocytopenia and bleeding tendency. Exosomes mediate abnormal crosstalk between immune cells and megakaryocytes in ITP, suggesting that exosome-related genes may serve as potential candidates for understanding disease pathogenesis. ITP transcriptome data and exosome-related genes (ERGs) were retrieved from public databases. Potential candidate genes were preliminarily identified by intersecting ITP's differentially expressed genes (DEGs) with exosome-related key module genes, followed by exploratory screening via machine learning and the construction of a preliminary predictive model. Multi-dimensional analyses (enrichment, immune infiltration [subsequently removed due to methodological concerns], drug prediction) and RT-qPCR validation were performed. Four candidate genes (GABARAPL1, SLC39A14, HIBADH, GSR) were identified through bioinformatic analysis, involved in spliceosome and other pathways (P < 0.05, |NES| > 1). GABARAPL1, SLC39A14, and HIBADH showed exploratory correlations with specific functional T-cell subsets (|cor| > 0.3, P < 0.05). Molecular docking simulations suggested potential binding feasibility between SLC39A14/nortriptyline and GSR/oxiglutatione (binding free energy < -5 kcal/mol). RT-qPCR confirmed the significant downregulation of GABARAPL1, SLC39A14, and GSR in ITP patients (P < 0.05), while HIBADH did not show statistically significant changes (P > 0.05). In this exploratory study, GABARAPL1, SLC39A14, and GSR were identified as potential candidate biomarkers with experimental support from clinical samples. HIBADH, while predicted by bioinformatic analysis, requires further investigation to determine its clinical relevance. These findings provide exploratory insights and a preliminary basis for future hypothesis-driven research on the role of exosome-related genes in ITP.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-43618-1",
+        "keyword": "Exosomes",
+        "title_ja": "トランスクリプトミクスと予備的実験的検証による原発性免疫性血小板減少症におけるエクソソーム関連遺伝子のバイオマーカー候補としての探索",
+        "summary_ja": "原発性免疫性血小板減少症（ITP）において、エクソソーム関連遺伝子（ERGs）をバイオマーカー候補として探索した。トランスクリプトーム解析と機械学習により、GABARAPL1、SLC39A14、HIBADH、GSRの4遺伝子を候補として同定。スプライセオソーム経路などに関与し、一部はT細胞サブセットと相関を示した。臨床サンプルによるRT-qPCR検証では、GABARAPL1、SLC39A14、GSRがITP患者で有意に下方制御され、HIBADHは有意差を認めなかった。これら3遺伝子は、ITPの病態解明やバイオマーカー開発に向けた基盤的知見を提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Superabundant microRNAs are transcribed from human rDNA spacer promoters insulated by CTCF.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860999/",
+        "abstract": "microRNAs are ~22-nucleotide RNAs processed from primary transcripts and exported from the nucleus to repress gene expression by base-pairing to mRNAs. Unexpectedly, we find that the highest levels of RNA polymerase II (Pol II) at human microRNA genes are within the ribosomal gene repeat arrays (rDNAs). Alignment of public nascent transcript data to the hs1 human genome assembly reveals a 50-nucleotide transcript for both miR-1275 and miR-6724, which exits from the nucleus with exceptional rapidity. We show that the miR-1275/miR-6724 transcription unit is closely flanked by CCCTC-binding factor (CTCF) within a <400-bp span of the rDNA spacer promoter. miR-1275/miR-6724 and microRNA precursors expressed from the 5' external transcribed spacer (5'ETS) are exported independently of known RNA processing activities and are detected in exosomes and as circulating cancer biomarkers. We propose that the rDNA spacer promoter and 5'ETS microRNA genes have evolved for general regulatory functions in recipient cells.",
+        "source": "PubMed",
+        "doi": "10.1126/sciadv.aec1451",
+        "keyword": "Exosomes",
+        "title_ja": "ヒトrDNAスペーサープロモーターから転写される過剰なマイクロRNAはCTCFによって隔離されている。",
+        "summary_ja": "ヒトrDNAスペーサープロモーター領域から、miR-1275およびmiR-6724という超豊富なmicroRNAが転写されていることを発見。これらの転写単位はCTCFによって囲まれ、RNAポリメラーゼIIの高い集積が見られる。転写産物は核外へ迅速に輸送され、既知のRNA処理経路に依存せず、エクソソームや循環がんバイオマーカーとして検出される。rDNAスペーサープロモーターと5'ETS由来のmiRNAは、受容細胞における一般的な調節機能のために進化したと考えられる。"
+      },
+      {
+        "title": "Dengue virus harnesses mosquito Syntenin to load and secrete viral RNA into salivary exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41838911/",
+        "abstract": "Viruses exploit extracellular vesicles (EVs) to transfer infection-enhancing viral RNAs. However, mechanisms underlying viral RNA loading remain elusive. We leveraged our previous discovery that dengue virus secretes transmission-enhancing subgenomic flaviviral RNA (sfRNA) into mosquito salivary EVs to investigate viral RNA loading mechanism. We demonstrate that sfRNA alone promotes the secretion of sfRNA-containing EVs marked by the mosquito EV biogenesis protein AeSyntenin, by applying microscopy and viral genetic editing in in vitro and in vivo models. SfRNA via its stem loop structures interacts intracellularly with mosquito AeSyntenin and this interaction is selectively maintained within EVs as shown by complementary RNA-affinity chromatography and RNA immunoprecipitation, and AI-based prediction. Finally, we used systemic and salivary gland-specific protein depletion to establish a functional role for mosquito AeSyntenin in exosome production and salivary secretion of sfRNA. We propose that sfRNA binds AeSyntenin to drive its selective packaging and release into exosomes, elucidating a mechanism for viral RNA incorporation into EVs.",
+        "source": "PubMed",
+        "doi": "10.1073/pnas.2520697123",
+        "keyword": "Exosomes",
+        "title_ja": "デングウイルスは蚊のシンデカニンを利用してウイルスRNAを唾液エクソソームに搭載・分泌する",
+        "summary_ja": "デングウイルスは、感染を増強するサブゲノムフラビウイルスRNA（sfRNA）を蚊の唾液エクソソームに分泌する。本研究は、sfRNAが単独で、蚊のエクソソーム生合成タンパク質AeSynteninをマークしたエクソソームの分泌を促進することを示した。sfRNAはそのステムループ構造を介して細胞内でAeSynteninと相互作用し、この複合体がエクソソーム内に選択的に取り込まれる。AeSynteninの機能阻害により、エクソソーム産生と唾液へのsfRNA分泌が減少した。以上より、sfRNAはAeSynteninに結合し、エクソソームへの選択的パッケージングと放出を駆動するメカニズムが明らかとなった。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Neutrophil membrane engineered human umbilical cord MSC-derived sEVs enhance anti-tumor efficacy for gastric cancer via delivering pentraxin 3.",
+        "url": "https://www.semanticscholar.org/paper/9b84f4db208bcd9bc033b82163d98a2067b7491a",
+        "abstract": "Gastric cancer poses a significant global health challenge, promoting ongoing updates and exploration of treatment strategies. In this study, we proposed the naïve human umbilical cord mesenchymal stem cell derived small extracellular vesicles (hucMSC-sEVs) effectively inhibit gastric cancer proliferation and migration, presenting a promising bioactive agent for gastric cancer therapy. To address the issues of shortage in circulation time, limited targeting efficiency, suboptimal therapeutic outcomes associated with hucMSC-sEVs, we engineered a membrane fusion between hucMSC-sEVs with human neutrophil membrane, creating Neu/MSC-sEVs. This modification enhanced tumor cell targeting, reduced clearance by the mononuclear macrophage system, prolonged circulation time, and improved therapeutic efficacy. Furthermore, inhibiting the tumor suppressor protein pentraxin 3 (PTX3) in hucMSC-sEVs attenuated their anti-tumor effects, indicating that enrichment with PTX3 enhances the tumor-inhibiting potential of hucMSC-sEVs. Overall, our findings shed light on the mechanism by which hucMSC-sEVs exert their therapeutic effects on gastric cancer and underscore the importance of vesicle modification in enhancing targeting precision and therapeutic outcomes. These findings provide new insights for clinical application of modified vesicles in cancer treatment.",
+        "source": "SemanticScholar",
+        "doi": "10.1016/j.jconrel.2025.113828",
+        "keyword": "sEVs",
+        "title_ja": "好中球膜を改変したヒト臍帯由来間葉系幹細胞の細胞外小胞は、ペントラキシン3を送達することで胃がんに対する抗腫瘍効果を増強する。",
+        "summary_ja": "本論文は、胃がん治療におけるヒト臍帯間葉系幹細胞由来小胞外小胞（hucMSC-sEVs）の応用を検討したものである。hucMSC-sEVsは胃がんの増殖・転移を抑制するが、循環時間や標的効率に課題があった。そこで、ヒト好中球膜と融合させたNeu/MSC-sEVsを開発した。この改変により、腫瘍細胞への標的性が向上し、単球マクロファージ系による除去が減少、循環時間と治療効果が増強された。また、hucMSC-sEVsの抗腫瘍効果にはペントラキシン3（PTX3）が重要であることを確認した。膜改修による標的性・治療効果の向上は、がん治療への臨床応用に新たな知見をもたらす。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "注目すべき5トピックは以下の通りです。\n\n1. **BBB克服のナノ医薬**：アルツハイマー病治療の最大障壁である血液脳関門を、エクソソーム等のナノキャリアで突破。刺激応答性放出により標的効率向上が期待される。\n\n2. **ITPのエクソソームバイオマーカー**：原発性免疫性血小板減少症で、トランスクリプトーム解析から4つのエクソソーム関連遺伝子を同定。診断・病態解明への応用が期待。\n\n3. **rDNA由来miRNAの新機能**：ヒトrDNAスペーサーから発現する超豊富なmiRNAを発見。CTCFによる転写制御機構の解明は、新たな遺伝子調節機構の理解に貢献。\n\n4. **デングウイルスのエクソソーム利用**：ウイルスRNAが蚊のエクソソーム分泌を促進し感染を増強。ウイルス-宿主相互作用の新たなメカニズムを示し、感染制御戦略開発に寄与。\n\n5. **sEVsの抗腫瘍効果強化**：胃がん治療で、好中球膜修飾により臍帯MSC由来sEVsの循環時間と標的効率を向上。ペントラキシン3の送達により抗腫瘍効果を高める。\n\nこれらは、ナノ医薬・バイオマーカー・遺伝子制御・感染症・がん治療の各分野で、エクソソーム/sEVsを基盤とした画期的なアプローチを示しています。"
+}

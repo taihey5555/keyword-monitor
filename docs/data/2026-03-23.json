@@ -1,0 +1,73 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "More than Glucose Elimination: Additional Benefits of SGLT2 Inhibitors in Glomerular Diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41691570/",
+        "abstract": "Sodium-glucose cotransporter 2 (SGLT2) inhibitors have consistent nephroprotective effects across diverse patient populations, including those with glomerular disease without diabetes mellitus. These somehow unexpected benefits cannot be solely explained by glycosuria and intrarenal hemodynamic effects. Experimental evidence largely supports the effects of SGLT2 inhibitors on several pathways, many of them outside the kidneys. This review explores the mechanisms underlying these benefits, focusing on those of importance in primary and secondary glomerulonephritis. In addition to glucose homeostasis, SGLT2 inhibitors exert local and systemic effects that mimic nutrient deprivation, impacting inflammation, immunity, autophagy, hypoxia responses, ferroptosis, lipotoxicity, and energy metabolism. Sodium-glucose cotransporter 2 inhibitors modulate inflammatory pathways through suppression of cytokines and NLR family pyrin domain containing 3 inflammasome activity, mechanisms relevant to immunoglobulin A glomerulonephritis, lupus nephritis, and anti-neutrophil cytoplasmic antibody-associated vasculitis. They also influence immune cell metabolism, inhibit T-cell activation, and potentially modulate B-cell and macrophage polarization. There is evidence that autophagy may show a dual role in glomerular disease. It could activate innate and adaptive immunity, so triggering the disease, or may protect podocytes, so reducing proteinuria and the risk of progression. Sodium-glucose cotransporter 2 inhibition also modulates the hypoxia inducible factor axis and reduces ferroptosis, possibly contributing to attenuate hypoxia-induced kidney damage. The upregulation of ketogenesis and activation of nutrient-sensing pathways (adenosine monophosphate-activated protein kinase-activated protein kinase, sirtuins, and mammalian target of rapamycin) further supports their role in metabolic reprogramming. Finally, they contribute to preserve gerosuppressor functions by increasing kidney Klotho, a protein with anti-aging, and-inflammatory, and antifibrotic effects, and liver betaine. Although direct clinical evidence on the specific molecular pathways targeted by SGLT2 inhibitors in glomerulonephritis remains limited, preclinical data and emerging human observations suggest SGLT2 inhibitors may offer therapeutic advantages beyond non-specific kidney-cardiovascular protection.",
+        "source": "PubMed",
+        "doi": "10.1007/s40265-026-02286-1",
+        "keyword": "Klotho",
+        "title_ja": "グルコース排出を超えて：糸球体疾患におけるSGLT2阻害薬の追加的利点",
+        "summary_ja": "SGLT2阻害薬は、糖尿病を伴わない糸球体疾患を含む多様な患者層で腎保護効果を示す。その機序は、糖排泄や腎内血流動態効果のみでは説明できず、局所および全身的な「栄養飢餓」様状態の誘導が関与する。具体的には、炎症（サイトカイン・NLRP3抑制）、免疫（T細胞活性化抑制、B細胞・マクロファージ極性調節）、オートファジー、低酸素応答、フェロトーシス、脂質毒性、エネルギー代謝（AMPK、サーチュイン、mTOR経路）など多岐にわたる経路を調節する。さらに、抗老化・抗炎症・抗線維化作用を持つKlothoタンパク質の増加ももたらす。これらの作用は、IgA腎症、ループス腎炎、ANCA関連血管炎など、特定の糸球体腎炎の病態に関連し、非特異的な腎・心血管保護を超えた治療的利点をもたらす可能性が示唆されている。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Single-cell dissection of pleural and systemic immunity uncovers pathogen-specific immune reprogramming in tuberculosis versus lung adenocarcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41865158/",
+        "abstract": "To dissect how malignant versus infectious pleural disease reshapes local and systemic immunity, we compared lung adenocarcinoma with tuberculosis using matched pleural effusions and peripheral blood from patients and healthy controls using single cell transcriptome analysis and TCR clonotype tracking. Th1/17 polarized pro-inflammation dominating TB effusions, while their precursors, the recently activated CD4 T cells, adopt an antitumor trajectory in LUAD, but their recruitment and clonal expansion were effectively suppressed. In both diseases, CD8⁺ T cells diverged into GZMH⁺ and GZMK⁺ subsets. The former served as the antitumor killer cells but suppressed by multiple anti-inflammatory signals especially from the extracellular matrix in LUAD. The later could serve as stem-like precursors. MAITs and class-switched B cells both exhibited higher levels of activation and expanded in TB. Myeloid cells were mostly recovered from peripheral bloods and showed heightened activation in TB, upregulating TNFRSF14, TNFRSF13B, and pro-inflammatory cytokines (CXCL2, CXCL3, IL1), while LUAD featured immunosuppressive signals including MDK-NCL, FN1-CD44, and THBS1-CD47. Cell-cell communication highlighted LUAD-enriched outgoing interaction strengths by myeloid cells including monocytes and DCs, through IL16 and VISFATIN signaling, which strongly corelated with survivals. In conclusion, both pleural effusions and peripheral blood from TB and LUAD exhibit significant distinct immune landscapes. These results delineate disease-specific molecular mechanisms underlying immune regulation in pleural malignancies and infections.",
+        "source": "PubMed",
+        "doi": "10.1007/s00011-025-02177-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "胸膜免疫と全身免疫の単一細胞解析により結核と肺腺癌における病原体特異的免疫再プログラミングを解明",
+        "summary_ja": "悪性疾患（肺腺癌：LUAD）と感染症（結核：TB）による胸水と末梢血の単一細胞解析を実施。TB胸水ではTh1/17偏倚の強い炎症応答が優勢であり、MAIT細胞やクラススイッチB細胞の活性化・増殖が顕著であった。一方、LUADでは、抗腫瘍経路をとり得る活性化CD4 T細胞の動員とクローン増殖が抑制され、CD8⁺ T細胞の抗腫瘍エフェクター機能は細胞外マトリックス由来の抑制シグナルにより阻害されていた。骨髄系細胞はTBで炎症性サイトカインを高発現したが、LUADではMDK-NCLやTHBS1-CD47などの免疫抑制シグナルが優位であり、単球・DCを介するIL16やVISFATINシグナル伝達は予後と強く相関した。両疾患は胸膜・全身免疫において明確に異なる免疫景観と制御機構を示す。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下は、本日のリストから特に注目すべき5つのトピックのまとめです。\n\n1.  **SGLT2阻害薬の多様な腎保護機序**：糖尿病の有無を問わず糸球体疾患に有効で、糖排泄以外に「栄養飢餓」状態の誘導による炎症抑制（NLRP3等）が新機序として注目。既存治療を超える腎臓病治療の基盤となる可能性が高い。\n\n2.  **疾患特異的な免疫再プログラミングの解明**：結核(TB)と肺腺癌(LUAD)で胸水・全身免疫を比較。TBではTh1/17やMAIT細胞が活性化するのに対し、LUADでは異なる免疫経路が動員されることが判明。疾患バイオマーカーや治療標的の開発につながる。\n\n3.  **Klothoの多機能性**：抗老化因子として知られるKlothoが、慢性腎臓病や神経変性疾患など多岐にわたる病態で保護的に働くことが明らかになってきた。補充療法やその誘導が新たな治療戦略として期待される。\n\n4.  **PF4（血小板第4因子）の免疫調節機能**：従来の止血機能に加え、炎症や免疫応答、組織修復における役割が注目されている。自己免疫疾患や血栓炎症性病態における新たな治療標的としての可能性を探る研究が進む。\n\n5.  **細胞外小胞（sEVs/Exosomes）の治療応用**：特に間葉系幹細胞（MSC）由来sEVsは、抗炎症・組織修復作用を持ち、再生医療や免疫療法の「細胞フリー」治療剤として臨床開発が活発化。ドラッグデリバリーシステムとしての応用も広がる見込み。"
+}

@@ -1,0 +1,134 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Pilot study on cannabis-induced alterations in platelet function: implications for transfusion medicine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41870043/",
+        "abstract": "Platelet transfusions are essential in the management of thrombocytopenia, bleeding disorders, and hematologic malignancies. With cannabis use rising worldwide, its impact on donor platelet quality and transfusion efficacy remains poorly understood. This study investigated the effects of cannabis joint extracts (CJE) on platelet activation, pro-coagulant phenotype, mitochondrial function, and cytokine/chemokine release, with implications for transfusion safety. Human platelets were exposed in vitro to increasing concentrations of two CJE with distinct cannabinoid profiles: Orchid (O-CJE, THC 10.4%, CBD 14.7%) and QCGold (G-CJE, THC 25.5%, CBD 0.04%). Platelet activation (CD62P, Annexin V), mitochondrial depolarization, ATP levels, aggregation responses, and cytokine secretion (CCL3, PF4) were assessed. RBC lysate experiments were performed to assess the role of hemolysis. The involvement of CB1 and CB2 receptors was tested using specific antagonists, and activation of p38 MAPK and NF-κB pathways was evaluated. Functional effects of platelet supernatants were examined on EA.hy926 endothelial cells. CJE exposure induced dose-dependent platelet activation, characterized by increased CD62P expression, Annexin V binding, mitochondrial depolarization, and ATP depletion, consistent with metabolic stress. Platelet aggregation in response to ADP, collagen, and arachidonic acid was impaired, suggesting a pre-activated or refractory phenotype. RBC lysate did not reproduce the observed effects, indicating hemolysis is unlikely to be the underlying mechanism. CBR1 and CBR2 antagonists did not attenuate platelet activation, while signaling analysis revealed activation of p38 MAPK and NF-κB pathways. Exploratory proteomics indicated modulation of proteins involved in angiogenesis, cytoskeletal organization, and stress responses. Elevated plasma levels of CCL3 and PF4 and endothelial activation (IL-6 secretion, CD54, CD62P, CD62E expression) further suggested a pro-inflammatory environment. Cannabis exposure can alter platelet phenotype and signaling under in vitro conditions, potentially affecting platelet function and interactions with the vascular endothelium. However, these findings require confirmation in vivo to determine their clinical relevance. Future studies should aim to establish exposure thresholds and clarify whether cannabis use has implications for transfusion safety, given potential risks of reduced efficacy or increased thrombotic complications in recipients.",
+        "source": "PubMed",
+        "doi": "10.1080/09537104.2026.2644368",
+        "keyword": "PF4",
+        "title_ja": "大麻誘発性血小板機能変化に関する予備的研究：輸血医学への示唆",
+        "summary_ja": "本論文は、カンナビノイド含有量の異なる2種類の大麻抽出物（CJE）が、輸血用血小板の機能に及ぼす影響をin vitroで検討したパイロット研究である。CJE曝露は、用量依存的に血小板を活性化（CD62P発現増加等）し、代謝ストレス（ミトコンドリア脱分極、ATP枯渇）を誘導した。一方、凝集能は減衰し、前活性化/不応性表現型を示唆した。活性化機序は溶血ではなく、p38 MAPK/NF-κB経路を介し、カンナビノイド受容体依存的ではなかった。血小板上清は血管内皮細胞を活性化し、炎症性環境（CCL3、PF4上昇）を促進した。これらの知見は、大麻使用が血小板の表現型と機能を変化させ、輸血の有効性低下や血栓性合併症リスクに影響する可能性を示唆するが、臨床的意義の確認にはin vivo検証が必要である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Engineered Microglial Exosome-Liposome Hybrid Nanovesicles for Synergistic Therapy of Hypoxic-Ischemic Encephalopathy by Dual-Targeting Ferroptosis and Neuroinflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41870146/",
+        "abstract": "Hypoxic-ischemic encephalopathy (HIE) is a major cause of neurological injury in neonates, with pathological cascades such as neuroinflammation and ferroptosis driving disease progression. Current therapeutic strategies for HIE are largely limited to supportive care and therapeutic hypothermia, which fail to effectively target these mechanisms. To address this challenge, we developed a microglia-derived exosome-liposome hybrid membrane systems (HMS) (R+si@LPs-TK/TAT+Exo, abbreviated as Rs@LP-T/T-E) for the co-delivery of resveratrol (RES) and acyl-CoA synthetase long-chain family member 4 (ACSL4) siRNA. The nanosystem exhibited favorable stability, reactive oxygen species (ROS)-responsive drug release, and efficient blood-brain barrier (BBB) penetration, enabling targeted accumulation within ischemic brain regions. In experimental models, Rs@LP-T/T-E significantly attenuated neuroinflammation and ferroptosis, promoted microglial polarization toward the anti-inflammatory M2 microglial phenotype, and restored mitochondrial function, thereby reducing cerebral infarct volume and improving cerebral perfusion. In conclusion, this study presents an efficient, targeted, and biocompatible nanodelivery strategy that holds strong translational potential for HIE therapy.",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.71060",
+        "keyword": "Exosomes",
+        "title_ja": "二重標的化フェロトーシスと神経炎症による低酸素性虚血性脳症の相乗的治療のための、工学的に設計されたミクログリアエクソソーム-リポソームハイブリッドナノベシクル",
+        "summary_ja": "新生児の低酸素性虚血性脳症（HIE）は、神経炎症とフェロトーシスが病態を進行させる。既存療法はこれらを標的化できていない。本研究では、レスベラトロールとACSL4 siRNAを共送達するため、ミクログリア由来エクソソームとリポソームのハイブリッド膜ナノシステム（Rs@LP-T/T-E）を開発した。このシステムは安定性、ROS応答性薬物放出、血液脳関門透過性に優れ、虚血脳領域に集積。実験モデルで、神経炎症とフェロトーシスを抑制し、ミクログリアのM2型極性化を促進、ミトコンドリア機能を回復させ、脳梗塞体積を減少させた。本ナノデリバリー戦略はHIE治療への応用が期待される。"
+      },
+      {
+        "title": "Aptamer-functionalized exosomes combined with doxorubicin suppress GBM progression and enhance chemoradiosensitivity by promoting pyroptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41867498/",
+        "abstract": "Glioblastoma (GBM) is the highly lethal intracranial tumor characterized by low survival rates and high recurrence, partly attributable to the challenges posed by the blood-brain barrier (BBB). To enhance therapeutic efficacy, the Exo-U2-Dox complex was engineered by functionalizing mesenchymal stem cell (MSC)-derived exosomes with the GBM-targeting aptamer U2 and integrating them with doxorubicin (DOX). This complex is designed to augment the sensitivity of GBM to chemo-radiotherapy. Here, it is found that Exo-U2 effectively accumulates in GBM-bearing mice, thereby inhibiting tumor progression. When administered in conjunction with DOX and radiation, Exo-U2-Dox increases DNA damage in GBM cells, and diminishes invasiveness. Mechanistically, Exo-U2 targets and inhibits the autophosphorylation of Epidermal growth factor receptor variant Ⅲ (EGFRvⅢ) in GBM cells, thereby activating the NOD-, LRR- and pyrin domain-containing protein 3 (NLRP3) inflammasome-mediated pyroptosis pathway, which leads to increased expression of Gasdermin D (GSDMD) and Cysteine-aspartic acid protease-1 (caspase-1), ultimately suppressing GBM cell proliferation, migration, and invasion. Furthermore, the combination of Exo-U2 with X-ray treatment inhibits the expression of p53-binding protein 1 (53BP1), reduces phosphorylation of the Ataxia-Telangiectasia Mutated/Checkpoint kinase 2 (ATM/Chk2) pathway, resulting in the accumulation of DNA damage. Collectively, these findings underscore the potential of aptamer-functionalized exosomes in conjunction with DOX as a promising strategy for GBM treatment. This approach not only broadens the therapeutic applications of DOX but also provides a novel direction for targeted GBM therapies.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103006",
+        "keyword": "Exosomes",
+        "title_ja": "アプタマー機能化エクソソームとドキソルビシンの併用が、ピロトーシスを促進することで膠芽腫の進行を抑制し、化学放射線感受性を増強する。",
+        "summary_ja": "**要約**\n膠芽腫（GBM）は血液脳関門（BBB）により治療が困難な致死性脳腫瘍である。本研究では、間葉系幹細胞由来エクソソームを標的アプタマーU2で機能化し、ドキソルビシン（DOX）と複合化した「Exo-U2-Dox」を開発した。この複合体はGBMに集積し、EGFRvⅢの自己リン酸化を阻害することでNLRP3インフラマソームを介したピロトーシス（GSDMD/caspase-1発現上昇）を誘導し、腫瘍増殖・浸潤を抑制した。さらに放射線と併用すると、DNA損傷を増加させ、ATM/Chk2経路を抑制することで化学放射線感受性を増強した。アプタマー機能化エクソソームとDOXの併用は、GBM治療の新たな標的戦略となる。"
+      },
+      {
+        "title": "Plant-derived nanocarriers & nanostructures for barrier-defined translation: a comprehensive review of mechanisms, targets, and translation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41866484/",
+        "abstract": "Plant-derived nanocarriers (PDNs) constitute a heterogeneous family of bioinspired delivery platforms, including plant-derived extracellular vesicles, lipid-based nanovectors, and plant viral nanoparticles, that have attracted growing interest for applications in diseases constrained by biological barriers. A critical challenge in this field is distinguishing descriptive reports of barrier interaction from mechanistically and translationally meaningful evidence. This review provides a structured synthesis of plant-derived nanocarriers through a barrier-defined framework, rather than a platform-centric catalog, to clarify where and how these systems may add value relative to established nanomedicine approaches. We examine three exemplar contexts in which delivery barriers dominate therapeutic failure: central nervous system tumors, where the relevant interface is often the blood-tumor barrier rather than an intact blood-brain barrier; metabolic steatotic liver disease, governed by oral exposure and the gut-liver axis; and radiation-induced intestinal injury, characterized by epithelial disruption, oxidative stress, and inflammatory signaling. Across these settings, we differentiate intrinsic bioactivity of plant-derived carriers from engineered payload delivery, and critically assess the experimental models, routes of administration, and readouts used to support claims of tissue access and efficacy. Importantly, we highlight recurring methodological limitations, including heterogeneous isolation workflows, labeling artifacts, and overgeneralization from disease-compromised barriers, and align terminology with current extracellular vesicle reporting guidance. Beyond biological performance, we evaluate translational constraints, including pharmacokinetics, mononuclear phagocyte system clearance, manufacturing scalability, and regulatory classification ambiguity. By integrating mechanistic evidence with barrier context and translational readiness, this review reframes plant-derived nanocarriers not as universally superior delivery systems, but as context-dependent platforms whose utility depends on matching carrier class, route, and disease biology. This synthesis aims to extract actionable design principles while delineating the evidentiary gaps that must be addressed before clinical translation.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04255-y",
+        "keyword": "Exosomes",
+        "title_ja": "バリア規定型翻訳のための植物由来ナノキャリアおよびナノ構造：機構、標的、翻訳に関する包括的レビュー",
+        "summary_ja": "植物由来ナノキャリア（PDNs）は、細胞外小胞や脂質ナノベクターなど多様な生体由来デリバリープラットフォームであり、生体障壁が治療を制限する疾患への応用が注目されている。本レビューは、従来のナノ医薬品に対するPDNsの付加価値を明らかにするため、プラットフォーム別ではなく「障壁」に焦点を当てた枠組みで解析した。具体的には、中枢神経系腫瘍（血液腫瘍障壁）、代謝性脂肪肝疾患（腸肝軸）、放射線性腸障害（上皮障壁破綻）を例に、PDNsの内在性生物活性とエンジニアリングされた薬物送達を区別して評価。さらに、異なる単離法や標識アーチファクトなど方法論的限界や、製造拡張性・規制分類の曖昧さといった臨床転用上の課題を指摘。PDNsは万能ではなく、キャリア種類・投与経路・疾患生物学を適切に組み合わせることで初めて有用性が発揮される、文脈依存型プラットフォームであると結論づけた。"
+      },
+      {
+        "title": "The expanding role of biocompatible hydrogels in plant-derived exosome-like nanovesicles for skin diseases: prospects and challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863833/",
+        "abstract": "Plant-derived exosome like nanovesicles known for their biocompatibility, minimal immunogenicity, and capacity to transport diverse therapeutic molecules, have emerged as effective carriers for targeted drug delivery. When integrated into hydrogels, these offer improved stability, prolonged release, and precise delivery to specific skin layers, thereby enhancing treatment outcomes.",
+        "source": "PubMed",
+        "doi": "10.1080/07853890.2026.2643038",
+        "keyword": "Exosomes",
+        "title_ja": "皮膚疾患における植物由来エクソソーム様ナノ小胞への生体適合性ハイドロゲルの拡大する役割：展望と課題",
+        "summary_ja": "植物由来エクソソーム様ナノベシクルは、生体適合性、低免疫原性、多様な治療分子の輸送能を有し、標的指向型薬物送達の有効なキャリアとして注目されている。これをハイドロゲルに組み込むことで、安定性の向上、持続的放出、特定の皮膚層への精密な送達が可能となり、皮膚疾患治療の効果増大が期待される。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Detecting metabolic stress signals to optimize intense military training: A focus on extracellular vesicle cargo as a promising strategy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41870346/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1152/physiolgenomics.00291.2025",
+        "keyword": "Exosomes",
+        "title_ja": "激しい軍事訓練を最適化するための代謝ストレス信号の検出：有望な戦略としての細胞外小胞の内容物に焦点を当てて",
+        "summary_ja": "本論文は、高強度軍事訓練による代謝ストレスを、細胞外小胞（EV）内の生体分子（マイクロRNA、タンパク質など）をバイオマーカーとして検出・モニタリングし、トレーニング最適化と健康リスク低減を目指す戦略を提案する。従来のバイオマーカーより早期・動的な情報を提供し、個別化された回復・栄養介入を可能にする新たな手法としての可能性を論じている。"
+      },
+      {
+        "title": "SHED-derived exosomes ameliorate age-related osteoporosis by activating mitophagy in senescent bone marrow mesenchymal stem cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41869903/",
+        "abstract": "This study aims to explore the therapeutic efficacy of stem cells from human exfoliated deciduous teeth-derived exosomes (SHED-Exo) in age-related osteoporosis (OP) and clarify its mechanism via mitophagy activation in senescent bone marrow mesenchymal stem cells (BMSCs).",
+        "source": "PubMed",
+        "doi": "10.1080/17435889.2026.2645397",
+        "keyword": "Exosomes",
+        "title_ja": "SHED由来エクソソームは、老化骨髄間葉系幹細胞におけるミトファジーを活性化することで、加齢性骨粗鬆症を改善する。",
+        "summary_ja": "本論文は、ヒト乳歯由来幹細胞（SHED）のエクソソーム（SHED-Exo）が、加齢性骨粗鬆症に対して治療効果を示す機序を検討した。その結果、SHED-Exoは老化した骨髄間葉系幹細胞（BMSCs）において、ミトファジー（ミトコンドリアの選択的自食）を活性化することで、細胞の老化を改善し、骨形成能を回復させることが明らかとなった。加齢性骨粗鬆症の新たな治療戦略としての可能性を示唆している。"
+      },
+      {
+        "title": "The role of stem cells and their engineering strategies in the repair of nerve damage in intracerebral hemorrhage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41866551/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s13578-026-01551-w",
+        "keyword": "Exosomes",
+        "title_ja": "脳内出血における神経損傷修復における幹細胞とその工学戦略の役割",
+        "summary_ja": "**脳内出血における神経損傷修復における幹細胞とその工学的戦略の役割**\n\n脳内出血後の神経損傷修復は、神経幹細胞/前駆細胞（NSPCs）や間葉系幹細胞（MSCs）などの幹細胞移植が有望な治療戦略である。しかし、生着率の低さや分化効率の問題がある。これを克服するため、細胞を生体材料（ハイドロゲルなど）で足場固定し、神経栄養因子や微小環境を制御する「幹細胞工学」が発展している。これらの戦略は、細胞の生存・分化・機能統合を促進し、神経再生と機能回復を目指す。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. 低酸素性虚血性脳症（HIE）に対するハイブリッドナノベシクル**\n**重要性**: 新生児HIEは深刻な神経障害の原因。既存療法は限定的。\n**背景**: 神経炎症とフェロトーシスが病態進行の鍵。単一標的治療では不十分。\n**展望**: ミクログリアエクソソームとリポソームのハイブリッドにより、二つの病態を同時に標的化する新規治療プラットフォームを提供。\n\n**2. アプタマー機能化エクソソームによる膠芽腫（GBM）治療**\n**重要性**: GBMは治療抵抗性が高く予後不良。\n**背景**: 血液脳関門（BBB）通過と腫瘍特異的標的化が課題。\n**展望**: アプタマーで標的化したエクソソームがBBBを通過し、腫瘍細胞にピロトーシスを誘導。化学放射線療法の効果増強に寄与する新戦略。\n\n**3. 植物由来ナノキャリア（PDNs）の治療応用**\n**重要性**: 生体障壁（BBBなど）を越えた薬物送達は未解決課題。\n**背景**: 従来の合成ナノ粒子は生体適合性や標的化能に限界。\n**展望**: 植物由来の細胞外小胞や脂質ナノベクターは、高い生体適合性と障壁透過性を示し、難治性疾患への治療応用が期待される。\n\n**4. 細胞外小胞（EV）を利用した軍事訓練の最適化**\n**重要性**: 過酷な訓練による健康リスク管理とパフォーマンス最大化が重要。\n**背景**: 従来のバイオマーカーでは早期・動的な代謝ストレス検出が困難。\n**展望**: EV内の分子をバイオマーカーとして用いることで、早期介入と個人最適化されたトレーニングプログラムの構築が可能に。\n\n**5. SHED-エクソソームによる加齢性骨粗鬆症治療**\n**重要性**: 高齢化社会において加齢性骨粗鬆症は重大な健康問題。\n**背景**: 骨髄間葉系幹細胞の老化が骨再生を妨げる。\n**展望**: 乳歯由来幹細胞のエクソソームが老化細胞のミトファジーを活性化し、骨再生を促進。非侵襲的で新規な細胞治療代替策となる可能性。"
+}

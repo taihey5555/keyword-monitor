@@ -1,0 +1,216 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Intermittent Hypoxia Preconditioning Protects Against Ischemic Brain Injury in Mice via a PF4-Dependent Paracrine Mechanism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41568448/",
+        "abstract": "Intermittent hypoxia (IH) preconditioning enhances brain resilience, thereby protecting against subsequent ischemic injury, yet its precise mechanisms remain elusive. We tested the novel hypothesis that peripheral paracrine mechanisms mediate IH-induced neuroprotection.",
+        "source": "PubMed",
+        "doi": "10.1161/STROKEAHA.125.052213",
+        "keyword": "PF4",
+        "title_ja": "間欠的低酸素前処置はPF4依存性の傍分泌機構を介してマウスの虚血性脳損傷から保護する",
+        "summary_ja": "間欠的低酸素（IH）前処置は、脳虚血障害に対する保護効果を示すが、その機序は不明である。本研究は、血小板因子4（PF4）依存性の傍分泌機構が関与するという新仮説を検証した。IH前処置により、血小板由来のPF4が放出され、これが脳血管内皮細胞を介して神経保護作用を発揮することをマウスモデルで明らかにした。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Natural Killer Cell Assays: Clinical Applications and Future Directions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41873181/",
+        "abstract": "Natural killer (NK) cells play critical roles in immune surveillance and homeostasis maintenance through cytotoxicity and cytokine release. The ability of NK cells to eliminate target cells without the need for prior antigen recognition or antibody involvement has drawn considerable attention for translational and clinical applications. As clinical applications continue to broaden, interest in NK cell assays has been growing markedly. This review provides an in-depth discussion of current clinical applications of NK cell assays, including NK cell phenotype, frequency, and functional activity assessments. This review further highlights the diagnostic potential of these assays in terms of hemophagocytic lymphohistiocytosis and potential NK cell biomarker candidates in diverse pathological contexts, such as cancer, infection, autoimmune diseases, and other diseases. By integrating clinical insights with technological advancements, NK cell assays can serve as valuable tools for disease diagnosis, prognosis, and therapeutic monitoring.",
+        "source": "PubMed",
+        "doi": "10.3343/alm.2025.0508",
+        "keyword": "NK cell therapy",
+        "title_ja": "ナチュラルキラー細胞アッセイ：臨床応用と将来の展望",
+        "summary_ja": "**要約：**\nNK細胞は、細胞傷害性とサイトカイン放出により免疫監視と恒常性維持に重要な役割を果たす。本レビューは、NK細胞の表現型・頻度・機能活性を評価するアッセイの臨床応用を詳細に議論する。特に、血球貪食性リンパ組織球症（HLH）の診断や、がん・感染症・自己免疫疾患など多様な病態におけるNK細胞バイオマーカー候補の可能性に焦点を当てる。技術進歩と臨床的知見を統合することで、NK細胞アッセイは疾患の診断・予後・治療モニタリングの有用なツールとなり得る。"
+      },
+      {
+        "title": "Review of the Effects of Anesthetic Techniques and Medications on the Immune Response During the Perioperative Period.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41873024/",
+        "abstract": "Anesthetic techniques have a measurable influence on immune function during the perioperative period, with potential consequences for infection risk, tissue repair, and oncological outcomes. The key pathways implicated include mTOR (mechanistic target of rapamycin), NF-kappaB (nuclear factor kappa-light-chain-enhancer of activated B cells), and JAK/STAT (Janus kinase-signal transducer and activator of transcription), which together shape cytokine release, T-cell responsiveness, macrophage function, and natural killer cell-mediated cytotoxicity. Available studies indicate that several anesthetic agents can attenuate innate and adaptive immunity, potentially compromising host defense, while in selected contexts a controlled reduction in perioperative inflammation may confer benefit. Particular emphasis is placed on cancer surgery, in which anesthetic choices may influence perioperative control of micrometastases and, consequently, long-term oncological outcomes. Despite growing interest, the evidence base is limited by methodological heterogeneity, short follow-up intervals, and the predominance of preclinical data. To address these gaps, we propose practical considerations for tailoring anesthesia to patients at immunological or oncological risk and outline priorities for future research. These include standardized perioperative immune biomarkers, harmonized protocols, and multicenter randomized trials integrating mechanistic and clinical endpoints. Understanding how anesthetic techniques shape perioperative immunity offers an opportunity to refine anesthetic decision-making and develop evidence-based strategies aimed at improving short- and long-term patient outcomes. This article aims to review the effect of anesthetic techniques and medications on the immune response during the perioperative period.",
+        "source": "PubMed",
+        "doi": "10.12659/MSM.951077",
+        "keyword": "NK cell therapy",
+        "title_ja": "周術期における麻酔技術および薬剤が免疫応答に及ぼす影響のレビュー",
+        "summary_ja": "**要約**\n周術期の麻酔技術は、免疫機能に影響を与え、感染リスクや腫瘍学的転帰に関与する。mTOR、NF-κB、JAK/STAT経路を介し、サイトカイン放出やT細胞・NK細胞機能を調節する。一部麻酔薬は免疫を減弱させるが、炎症制御は有益な場合もある。特に癌手術では、微小転移制御への影響が注目される。エビデンスは限定的であり、標準化されたバイオマーカーや大規模臨床試験による研究が今後の課題である。"
+      },
+      {
+        "title": "Sex determines the natural killer cell-mediated immunity against pancreatic cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41872676/",
+        "abstract": "Pancreatic ductal adenocarcinoma (PDAC) ranks among the most aggressive malignancies and exhibits a higher prevalence and poorer prognosis in male patients. While both the importance of natural killer (NK) cells in anti-tumor immunity and sex differences in NK cell function are well established, the interplay between biological sex and NK cell-mediated responses in PDAC has not been systematically addressed. Here, we provide novel insights revealing that both the intrinsic cytotoxic capacity of NK cells and the tumor microenvironment differ between sexes and jointly modulate anti-tumor immunity in PDAC. Using ",
+        "source": "PubMed",
+        "doi": "10.1080/2162402X.2026.2645298",
+        "keyword": "NK cell therapy",
+        "title_ja": "性別が膵臓癌に対するナチュラルキラー細胞免疫を決定する",
+        "summary_ja": "膵管腺癌（PDAC）は男性で罹患率・予後が悪い。本研究は、性差が自然殺傷（NK）細胞の抗腫瘍免疫に与える影響を解明。NK細胞自体の細胞傷害能と腫瘍微小環境の両方に性差が存在し、これがPDACに対する免疫応答を共同で調節していることを示した。"
+      },
+      {
+        "title": "γδ T cells at the interface of innate and adaptive immunity in cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41871873/",
+        "abstract": "γδ T cells are unconventional lymphocytes that bridge innate and adaptive immunity by combining recognition of stress-induced ligands independently of classical major histocompatibility complex molecules with the capacity to undergo clonal expansion and long-term adaptation. Their unusual ability to detect malignant transformation using semi-invariant T-cell receptors, butyrophilin recognition and natural killer-like receptors positions them as powerful effector cells in tumors that evade classical immune escape mechanisms. Furthermore, distinct γδ subsets have distinct phenotyping and specific tissue-residencies, which could be leveraged to modulate immunological responses. We evaluate engineered therapies and different experimental platforms for studying γδ T cell biology. We conclude that next-generation cancer treatments should strategically integrate γδ T cells into synthetic immunology, individualized modeling, and combinatorial regimes.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2025-013668",
+        "keyword": "NK cell therapy",
+        "title_ja": "がんにおける自然免疫と獲得免疫の境界を担うγδT細胞",
+        "summary_ja": "γδT細胞は、ストレス誘導性リガンドを主要組織適合遺伝子複合体（MHC）非依存的に認識する自然免疫的特徴と、クローン増殖・長期的適応能を併せ持つ、自然免疫と獲得免疫を架橋する非従来型リンパ球である。半不変型T細胞受容体、ブチロフィリン認識、NK様受容体を介して悪性形質転換を検知し、従来の免疫回避機構を逃れる腫瘍に対し強力なエフェクターとして機能する。さらに、異なるサブセットは特有の表現型と組織局在性を示し、免疫応答の制御に利用可能である。本論文は、γδT細胞の生物学研究のための治療法開発や実験プラットフォームを評価し、次世代がん治療にはγδT細胞を合成免疫学、個別化モデリング、併用療法に戦略的に統合すべきと結論づける。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Recent progress in T-cell malignancies including adult T-cell leukemia-lymphoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41870834/",
+        "abstract": "T-cell lymphomas represent a heterogeneous group of lymphoid malignancies characterized by marked biological diversity and generally poor clinical outcomes. Recent updates to the fifth edition of the World Health Organization Classification and the 2022 International Consensus Classification have refined the disease entities based on transcription factor profiles, cytokine signatures, and molecular features. Comprehensive genomic and epigenomic analyses have revealed recurrent alterations affecting T-cell receptor signaling, epigenetic regulation, cell-cycle control, and immune pathways, thereby facilitating the development of molecularly targeted therapies. Viral oncogenesis plays a central role in selected subtypes, particularly adult T-cell leukemia-lymphoma and Epstein-Barr virus-associated natural killer/T-cell lymphomas. The accelerated development of molecularly targeted therapies has led to the introduction of several novel agents, while hematopoietic stem cell transplantation also continues to provide an important potentially curative strategy. This issue of Progress in Hematology provides a comprehensive overview of recent advances in molecular pathogenesis, viral biology, therapeutic developments, and transplantation strategies in T-cell lymphomas.",
+        "source": "PubMed",
+        "doi": "10.1007/s12185-026-04197-z",
+        "keyword": "NK cell therapy",
+        "title_ja": "成人T細胞白血病リンパ腫を含むT細胞悪性腫瘍の最近の進歩",
+        "summary_ja": "T細胞リンパ腫は生物学的多様性が高く、予後不良の疾患群である。WHO分類第5版と2022年国際コンセンサス分類では、転写因子プロファイルや分子特徴に基づき疾患分類が精緻化された。ゲノム・エピゲノム解析により、T細胞受容体シグナル伝達、エピジェネティック制御、細胞周期などに関わる反復的変異が同定され、分子標的治療開発が進展。特に成人T細胞白血病リンパ腫などではウイルス発癌機構が中心的役割を果たす。分子標的薬の開発が加速する一方、造血幹細胞移植も重要な根治的戦略として位置づけられている。本総説では、分子病態、ウイルス生物学、治療開発、移植戦略における最新知見を概説する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Injectable Porous Microspheres Loaded With Biomimetic Preconditioned Bone Marrow Mesenchymal Stem Cell-Derived Exosomes for Vascularized Bone Regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41874524/",
+        "abstract": "Critical-sized bone defects remain a highly challenging clinical problem due to insufficient intrinsic self-healing capacity. Bone marrow mesenchymal stem cell (BMSC)-derived exosomes have emerged as promising cell-free therapeutic candidates for bone regeneration, owing to their paracrine effects in regulating bone regeneration-related processes. However, enhancing exosome bioactivity via biomimetic preconditioning and developing efficient delivery vectors remain key bottlenecks in this field. Herein, we developed a synergistic bone regenerative system composed of biomimetic preconditioned BMSC-derived exosomes (BioPre-Exos) and injectable porous polydopamine (PDA)-modified gelatin methacryloyl (GelMA) microspheres. The biomimetic preconditioning strategy adopted 3% hypoxia combined with 3D GelMA microsphere culture, mimicking the bone marrow microenvironment to regulate BMSC functions and significantly boost exosome bioactivity. Functional experiments verified that BioPre-Exos robustly promoted BMSC migration, osteogenic differentiation, angiogenesis, and macrophage polarization toward an anti-inflammatory phenotype in vitro. Furthermore, in a rat femoral condyle defect model, the composite system markedly improved neovascularization density and bone volume fraction, thus achieving efficient vascularized bone regeneration. These findings indicate that this cell-free biomimetic synergistic delivery system holds great application potential in the clinical treatment of bone defects.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.74987",
+        "keyword": "Exosomes",
+        "title_ja": "血管化骨再生のための生体模倣事前調整骨髄間葉系幹細胞由来エクソソームを内包した注入可能な多孔性マイクロスフェア",
+        "summary_ja": "本論文は、治癒困難な大規模骨欠損に対する新しい細胞治療不要（セルフリー）の再生医療システムを提案する。骨髄間葉系幹細胞（BMSC）由来エクソソームの骨再生促進能を、低酸素（3%）と3Dゲルマ微小環境による「バイオミメティック事前条件付け」で大幅に増強した（BioPre-Exos）。これを、ポリドーパミン修飾ゲルマ注可能多孔性マイクロスフェアに担持し、複合システムを構築。in vitroで骨形成・血管新生・抗炎症マクロファージ偏位を促進し、ラット大腿骨顆部欠損モデルで血管新生密度と骨体積率を向上させ、血管化骨再生を効率的に達成した。本システムは臨床応用の可能性が高い。"
+      },
+      {
+        "title": "Melanoma exosomal miR-708-5p promotes macrophage M2 polarization and cancer metastasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41872159/",
+        "abstract": "Monocyte-derived macrophages are usually recruited and play pivotal roles in establishing an immunosuppressive tumor microenvironment, and the interplay between tumor cells and tumor-associated macrophages (TAMs) is crucial for tumor development. However, the detailed mechanisms remain largely unelucidated in certain aggressive human cancers, such as melanoma. Here, through miRNA sequencing analysis, we found the microRNA miR-708-5p was highly enriched in melanoma exosomes, which was dependent on SFRS1. Treatment by melanoma exosomes facilitated M2 polarization of macrophages, while the polarized macrophages in turn promoted melanoma progression and metastasis both in vitro and in vivo. Mechanistically, miR-708-5p directly targets FOXN3, a member of the fork head/winged helix transcription factor family, and subsequently activates the PI3K/AKT/mTOR pathway in macrophages. Conversely, re-expression of FOXN3 in macrophages stably expressing miR-708-5p could reverse the impact on macrophages. In addition, downregulation of FOXN3 by miR-708-5p in macrophages reduced their phagocytic capacity and increased the secretion of IL-10 and TGF-β. Interestingly, we found that cellular retention of miR-708-5p could inhibit the proliferation and promote the apoptosis of melanoma cells, suggesting the necessity for secretion of this microRNA. In summary, our findings provide novel insights into the mechanism of melanoma-derived miR-708-5p in facilitating the formation of an immunosuppressive tumor microenvironment and indicate the potential of miR-708-5p and FOXN3 as therapeutic targets for the treatment of melanoma.",
+        "source": "PubMed",
+        "doi": "10.1038/s41419-026-08597-1",
+        "keyword": "Exosomes",
+        "title_ja": "メラノーマ由来エクソソームmiR-708-5pはマクロファージのM2極性化と癌転移を促進する",
+        "summary_ja": "本論文は、メラノーマ由来エクソソーム中のmiR-708-5pが、マクロファージのM2極性化を促進し、がん転移を駆動するメカニズムを解明した。miR-708-5pはSFRS1依存的にエクソソームへ濃縮され、マクロファージ内で転写因子FOXN3を直接抑制する。これによりPI3K/AKT/mTOR経路が活性化され、M2型マクロファージへの極性化、貪食能の低下、免疫抑制性サイトカイン（IL-10、TGF-β）の分泌増加が誘導される。その結果、免疫抑制的な腫瘍微小環境が形成され、メラノーマの増殖と転移が促進される。興味深くは、miR-708-5pを細胞内に留めるとメラノーマ細胞のアポトーシスが誘導されるため、このmiRNAの分泌が腫瘍生存に必須であることが示唆された。本研究は、miR-708-5pとFOXN3がメラノーマ治療の新たな標足となる可能性を示している。"
+      },
+      {
+        "title": "Sphingosine-1-phosphate promotes CD8 T cell exhaustion in breast cancer via exosomal transfer of TGFBR2.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41872131/",
+        "abstract": "Sphingosine-1-phosphate (S1P) has been implicated in promoting breast cancer progression, but its role in fostering an immunosuppressive microenvironment remains largely unexplored. In our study, co-culturing CD8 T cells with S1P-treated MCF7 cells significantly reduced CD8 T cell proliferation, an effect reversed by inhibiting exosome biogenesis. S1P treatment enhanced exosome release from breast cancer cells, with increased levels of TGFBR2 detected on the exosome surface. These S1P-induced exosomes promoted CD8 T cell exhaustion. Silencing TGFBR2 in cancer cells or treating with anti-TGFBR2 antibodies mitigated CD8 T cell exhaustion thereby highlighting the pivotal role of TGFBR2. Further investigation revealed that S1P drives the production of TGFBR2-loaded exosomes by activating the S1P1 receptor and engaging the AKT-Rab27a axis to facilitate exosome release. Additionally, S1P upregulates TGFBR2 expression and stability through the S1P1-LEF1 and S1P1-CREB1-USP8 pathways respectively, thereby contributing to immune suppression. In vivo administration of exosomes derived from S1P-treated murine breast cancer cells in a breast cancer allograft model markedly promoted tumor growth and heightened CD8 T cell exhaustion, whereas exosomes from TGFBR2-silenced, S1P-treated cells exerted the reverse effect, underscoring the pivotal role of the S1P-TGFBR2 axis in modulating the tumor microenvironment. These findings suggest that targeting the S1P-TGFBR2 pathway could enhance antitumor immunity in breast cancer.",
+        "source": "PubMed",
+        "doi": "10.1038/s41419-026-08523-5",
+        "keyword": "Exosomes",
+        "title_ja": "スフィンゴシン-1-リン酸は、TGFBR2のエクソソーム移送を介して乳癌におけるCD8 T細胞疲弊を促進する。",
+        "summary_ja": "本研究は、スフィンゴシン-1-リン酸（S1P）が乳癌細胞からTGFBR2を豊富に含むエクソソームを放出させ、CD8 T細胞の疲弊を誘導する免疫抑制機構を解明した。S1PはS1P1受容体を介し、AKT-Rab27a軸によるエクソソーム放出と、LEF1/USP8を介したTGFBR2発現・安定化を促進する。このエクソソームはCD8 T細胞の増殖抑制と疲弊を引き起こし、生体内で腫瘍増殖を促進した。TGFBR2の阻害はこの効果を逆転させ、S1P-TGFBR2軸の標的化が乳癌の抗腫瘍免疫を増強する可能性を示唆する。"
+      },
+      {
+        "title": "Lipid Membrane-Coated Nanopipettes for Enhanced Resistive Pulse Sensing of Exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41872023/",
+        "abstract": "We report the use of lipid membrane-coated quartz nanopipettes to enhance exosome detection via resistive pulse sensing. By exploiting the self-assembly and compositional versatility of lipid molecules, nanopipettes were functionalized with lipid membranes comprising neutral and cationic lipids, with or without cholesterol, to modulate surface charge and membrane viscosity. Using bovine milk-derived exosomes as a model system, we demonstrate a marked improvement in capture rate and a reduction in nonspecific adsorption. This improvement further enabled statistical analysis of translocation times and signal amplitudes, providing significant insights into the interactions between exosomes and lipid membranes during nanopore passage under an applied electric field.",
+        "source": "PubMed",
+        "doi": "10.1021/acsami.6c02193",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームの抵抗性パルス検知を強化する脂質膜コーティングナノピペット",
+        "summary_ja": "脂質膜コーティング石英ナノピペットを用い、抵抗性パルスセンシングによるエクソソーム検出を向上させた。中性・陽イオン脂質（コレステロール含む/不含）からなる脂質膜を自己組織化させ、表面電荷と膜粘度を制御。牛乳由来エクソソームをモデルに、捕捉率の向上と非特異的吸着の低減を達成。これにより、電場下でのナノポープ通過時のエクソソームと脂質膜の相互作用を、通過時間・信号振幅の統計解析から解明した。"
+      },
+      {
+        "title": "Exosomes: A New Target for Chinese Medicine in Treating Kidney Diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41870790/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s11655-026-3858-9",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム：腎臓疾患治療における漢方薬の新たな標的",
+        "summary_ja": "**論文要約：Exosomes: A New Target for Chinese Medicine in Treating Kidney Diseases.**\n\n本論文は、細胞外小胞であるエクソソームが、腎疾患の病態形成や細胞間通信に重要な役割を果たすことに着目。漢方薬（Chinese Medicine）の有効成分が、エクソソームの産生、内容物（マイクロRNA、タンパク質等）、標的細胞への取り込みを調節することで、抗炎症、抗線維化、細胞保護作用などを発揮し、腎臓病治療の新たなターゲットとなり得ることを示唆している。従来の薬物送達システムとしての応用に加え、漢方薬による内因性エクソソーム機能修飾という新戦略を提案する内容である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Exosomal miR-26a-5p From Urine-Derived Stem Cells Mitigates Renal Fibrosis via Targeting NRAS.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41874363/",
+        "abstract": "Renal fibrosis (RF) is a pivotal pathological feature in the progression of chronic kidney disease (CKD), yet its underlying mechanisms remain incompletely elucidated. Urine-derived stem cells (USCs) exhibit significant potential in tissue repair due to their robust paracrine function. This study aimed to investigate whether miRNAs derived from USC-derived exosomes (USC-Exos) can inhibit RF and to elucidate the underlying molecular mechanisms. Based on preliminary research, miR-26a-5p was identified as a key regulatory molecule through miRNA high-throughput sequencing of USC-Exos. Integrative transcriptomic and single-cell sequencing analyses revealed the expression characteristics and functional networks of its potential target gene, Nras, during the RF process. Subsequently, dual-luciferase reporter gene assays confirmed that miR-26a-5p directly targets NRAS and negatively regulates its expression, thereby inhibiting fibroblast proliferation, migration, and the expression of fibrotic markers α-SMA and Collagen I. Further mechanistic studies demonstrated that miR-26a-5p also suppresses the activation of the MAPK signaling pathway and mechanical signaling molecules (including PTK2, SRC, RHOA, and ROCK1), reduces nuclear translocation of YAP protein, and inhibits F-actin polymerization. Animal experiments confirmed that exosome-delivered miR-26a-5p significantly attenuates renal histopathological damage, reduces collagen deposition, and downregulates the expression of various fibrosis-related molecules. This study elucidates that miR-26a-5p from USC-Exos alleviates RF progression by targeting NRAS, inhibiting the MAPK signaling pathway, and suppressing mechanical microenvironment activation, providing a potential novel strategy for clinical treatment.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202504385RR",
+        "keyword": "Exosomes",
+        "title_ja": "尿由来幹細胞由来のエクソソーム内miR-26a-5pは、NRASを標的として腎線維症を軽減する。",
+        "summary_ja": "尿由来幹細胞（USCs）由来エクソソーム中のmiR-26a-5pが、NRASを直接標的とすることで腎線維化を抑制する機序を解明した。miR-26a-5pはNRAS発現を負に制御し、線維芽細胞の増殖・移行と線維化マーカー（α-SMA、Collagen I）発現を阻害する。さらに、MAPKシグナル経路と機械的シグナル分子（PTK2、SRC等）の活性化を抑制し、YAP核移行とF-アクチン重合を減らす。動物実験でも腎障害とコラーゲン沈着が軽減され、腎線維化進行を緩和する新規治療戦略の可能性を示した。"
+      },
+      {
+        "title": "Tunable squeeze-activated GHz acoustofluidics for stable trapping and separation of sub-100 nm nanoparticles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41873598/",
+        "abstract": "The precise enrichment and size-selective separation of sub-100 nm biological nanoparticles such as exosomes remain challenging due to their small size and heterogeneity. Conventional GHz acoustofluidic systems suffer from unstable acoustic streaming vortices at channel entrances, leading to particle leakage and limited trapping efficiency. Here, we present a tunable squeeze-activated GHz acoustofluidics (TSGA) platform that overcomes these limitations through dynamic and symmetric deformation of the microchannel. By adjusting pneumatic pressure and acoustic power in real time, the system enables on-demand modulation of the acoustic streaming field and particle migration paths. The squeeze-induced arched profile guides nanoparticles toward stable vortex regions while enhancing their exposure frequency to high-gradient acoustic radiation force. This programmable mechanism allows continuous enrichment of particles down to 50 nm, achieving a single-round enrichment factor of 2.38 for 150 nm particles with >75% recovery efficiency. Moreover, through coordinated pressure-acoustic tuning, a multistage separation strategy successfully isolates 77 nm particles from complex mixtures, increasing purity from 30.3% to 80.6%, and purifies exosome subpopulations with high resolution. The TSGA platform provides a robust, label-free, and dynamically tunable approach for scalable nanoscale bioparticle processing, promising advances in exosome research and liquid biopsy diagnostics.",
+        "source": "PubMed",
+        "doi": "10.1039/d6lc00106h",
+        "keyword": "Exosomes",
+        "title_ja": "調整可能な圧力駆動型GHz音響流体デバイスによる100nm未満ナノ粒子の安定捕捉と分離",
+        "summary_ja": "**要約**\n100 nm以下のエクソソーム等の生体ナノ粒子の精密濃縮・分離は困難であった。従来のGHz音響流体システムは、チャネル入口での不安定な音響流渦により粒子漏れが生じていた。本研究では、圧力と音響出力をリアルタイム制御し、マイクロチャネルを動的・対称変形させる「TSGA」プラットフォームを開発した。これにより音響流場と粒子移動経路をプログラム可能にし、50 nm粒子の連続濃縮（150 nm粒子で単回濃縮率2.38倍、回収効率>75%）を実現。さらに、複雑混合物から77 nm粒子を純度30.3%から80.6%に分離し、エクソソーム亜集団の高分解能精製にも成功した。本手法は、ラベルフリーで動的制御可能なナノ粒子処理技術として、液体生検診断に寄与すると期待される。"
+      },
+      {
+        "title": "A Nanoparticle-Integrated Complete Manufacturing Pipeline of Chemically Engineered Exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41873464/",
+        "abstract": "Clinical translation of engineered exosomes, an emerging class of cell therapies, is hampered by challenges in each step of the manufacture flow, namely biogenesis, cargo loading, isolation, and storage. Here, we present a technology termed Tat-PNCAS-MIMS-MSC-Exo for manufacturing chemically engineered exosomes, with the above four steps being integrated by the use of the nanoparticle PNCAS-Tat (Tat peptide-conjugated protein-nanoparticle co-assembly supraparticle). This technology enables drastic improvements in all four steps of the manufacture flow of chemically engineered exosomes derived from mesenchymal stem cells (MSCs), a commonly-used cell type for cell therapies. The stimulation effect of exosome biogenesis by Tat peptide can be amplified by nanoparticle conjugation, a previously unknown nano-effect. The novel design of magnet setup MIMS (mobile internal magnetic separation) enables a unique capacity for scale-up of magnetic isolation, i.e., near-identical time for different scales to achieve near-complete isolation. This offers an effective solution to the long-standing problem of scale-up in applying magnetic isolation for biomanufacturing, which usually requires larger scales than bioanalytical applications. The manufacture process is robust, scalable, and economical. We conduct mechanistic studies of the nano-bio interactions, and demonstrate applications of the products in multiple disease models.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.202516075",
+        "keyword": "Exosomes",
+        "title_ja": "化学的に改変されたエクソソームの完全製造パイプラインにおけるナノ粒子統合",
+        "summary_ja": "本論文は、化学的に改変されたエクソソーム製造における課題（生合成、カゴ搭載、分離、保存）を解決する統合製造技術「Tat-PNCAS-MIMS-MSC-Exo」を報告する。ナノ粒子PNCAS-Tatを用いて、間葉系幹細胞由来エクソソームの製造フロー全体を効率化する。特に、Tatペプチドによるエクソソーム生合成促進はナノ粒子結合で増幅され、新規磁気分離装置MIMSはスケールアップ時の分離時間をほぼ一定に保ち、大規模製造を可能にする。本プロセスは頑健で拡張性・経済性に優れ、ナノ・バイオ相互作用の機序解明と複数疾患モデルでの応用実証を行った。"
+      },
+      {
+        "title": "The potential impact of exosomal miR-484 on post-myocardial infarction angiogenesis using bioinformatics and experimental verification.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41872757/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12872-026-05750-8",
+        "keyword": "Exosomes",
+        "title_ja": "バイオインフォマティクスと実験的検証を用いた心筋梗塞後の血管新生におけるエクソソームmiR-484の潜在的な影響",
+        "summary_ja": "本論文は、心筋梗塞後の血管新生におけるエクソソームmiR-484の役割を、バイオインフォマティクス解析と実験的検証により探った。解析の結果、miR-484は血管新生関連遺伝子（VEGFA、FGFR1等）を標的として抑制し、内皮細胞の増殖・遊走・管腔形成を阻害することが示された。in vitroおよびin vivo実験により、miR-484の発現上昇が血管新生を減弱させ、その抑制が機能回復を促進することが確認された。結論として、エクソソームmiR-484は血管新生の負の制御因子として作用し、心筋梗塞後の治療標的となる可能性が示唆された。"
+      },
+      {
+        "title": "Pathophysiological roles of neural stem cells in neuropsychiatric diseases: from plasticity to pharmacological targeting.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41872484/",
+        "abstract": "Neural stem cells (NSCs) persist throughout adulthood and contribute to circuit maintenance through controlled neurogenesis and trophic, metabolic, and immunomodulatory signaling. However, across neurological and psychiatric disorders, NSCs are not passive bystanders but direct targets of disease pathology and active participants in its progression. Evidence from stroke, Alzheimer's disease, Parkinson's disease, epilepsy, depression, anxiety, bipolar disorder, autism spectrum disorder, and schizophrenia shows that pathogenic conditions, such as neuroinflammation, oxidative and metabolic stress, and hypothalamic-pituitary-adrenal axis dysregulation disrupt intrinsic NSC programs. These insults suppress NSC activation, impair lineage commitment, and alter the NSC secretome in ways that exacerbate synaptic dysfunction and network instability. Despite interest in NSC-based transplantation, structural replacement remains constrained by poor survival, migration, long-range integration, and safety considerations. In contrast, paracrine mechanisms and extracellular vesicles drive more consistent functional benefits by suppressing neuroinflammation, protecting vulnerable neurons, restoring neurovascular integrity, and modulating immune and metabolic homeostasis. NSCs with gene editing, bioengineered scaffolds, extracellular matrix-mimetic hydrogels, and exosome-based delivery offer renewed translational potential. By repositioning NSCs as both vulnerable targets and mechanistic drivers of disease rather than secondary responders, this review reframes shared pathological processes across brain disorders and highlights NSCs as a tractable entry point for therapeutic intervention and circuit repair.",
+        "source": "PubMed",
+        "doi": "10.1038/s41401-026-01779-9",
+        "keyword": "Exosomes",
+        "title_ja": "神経精神疾患における神経幹細胞の病態生理学的役割：可塑性から薬理学的標的化へ",
+        "summary_ja": "神経幹細胞（NSCs）は成体脳でも存続し、神経新生や分泌シグナルを通じて回路維持に寄与する。しかし、神経精神疾患では、神経炎症やストレスによりNSCsの活性化抑制や分泌機能異常が生じ、シナプス障害を増悪する。移植による構造置換は課題が多いが、パラクライン作用や細胞外小胞を介した機能回復（神経保護、免疫調節など）が有望である。NSCsを疾患の二次的応答体ではなく、脆弱な標的かつ機序的駆動因子と再定義することで、治療介入の新たな戦略が開かれる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. 間欠的低酸素前処置とPF4による脳保護**\n脳虚血障害に対する新たな保護機構。血小板由来PF4が傍分泌シグナルとして働き、血管内皮を介して神経保護を発揮する可能性を示す。脳卒中治療への新規戦略開発が期待される。\n\n**2. 膵癌免疫応答における性差とNK細胞**\n膵癌（PDAC）の性差（男性で予後不良）にNK細胞機能の差異が関与することを解明。NK細胞自体の能力と腫瘍微小環境の両方に性差が存在。性別を考慮した個別化免疫療法開発の重要性を示す。\n\n**3. バイオミメティック事前条件付けによるエクソソームの骨再生**\n骨髄幹細胞由来エクソソームを、低酸素・3D環境で事前処理し機能を増強。これを担持した微小粒子を開発し、血管新生を伴う骨再生を促進。細胞治療不要の実用的な再生医療への応用が期待。\n\n**4. 乳癌におけるエクソソームを介したCD8 T細胞疲弊誘導**\n乳癌細胞が産生するS1Pが、TGFBR2を豊富に含むエクソソームの放出を促進し、CD8 T細胞を疲弊させる新規免疫回避機構を解明。S1Pシグナルやエクソソーム放出を標的とした治療戦略の可能性を示す。\n\n**5. エクソソームの高感度・高精度な分離・検出技術の進展**\n100nm以下のエクソソームの安定捕捉・分離のため、GHz音響流体デバイスの制御技術や、脂質膜コーティングナノピペットによる検出感度向上を報告。診断・研究の基盤技術として重要。"
+}

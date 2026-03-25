@@ -1,0 +1,177 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Structure and function of mouse lens suture examined by 2-photon fluorescence microscopic imaging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41876809/",
+        "abstract": "We used two-photon fluorescence microscopy (2PFM) to examine lens fiber and suture architecture, as well as permeability, in wild-type (WT) lenses and in lenses from klotho-like protein homology (KLPH) knockout (KLPH-KO) mice. KLPH is a type I membrane glycoprotein encoded by the Lctl gene; KLPH-KO mice develop lens suture cataracts. Lens sutures have been hypothesized to serve as pathways for transporting ions, nutrients, and other factors as part of the lens microcirculation required to maintain homeostasis and transparency. Three-dimensional (3D) in vivo imaging revealed typical \"Y\" and \"double-Y\" anterior suture geometries, along with depth-dependent variation, in WT lenses. In contrast, KLPH-KO lenses exhibited markedly heterogeneous suture morphologies and misalignment between the anterior and posterior suture planes. Quantification of pattern variability using the mean structural similarity index (SSIM) of individual z-stacks relative to the stack mean projection revealed a significant increase in pattern randomization in KLPH-KO lenses (p < 0.05). Both WT and KLPH-KO lenses displayed voids near sutures and enlarged vacuoles distributed throughout the lens in vivo. Notably, KLPH-KO lenses exhibited irregular, enlarged central voids containing ~ 2-5 μm amorphous structures, consistent with subcellular remnants and/or membrane-associated aggregates. In conclusion, this study provides novel morphological markers for characterizing suture cataracts and associated fiber pathology. It further demonstrates that the dye-impermeable lens suture represents a stabilized interface formed by elongated fiber ends, supporting lens integrity and maintaining the organization of lens fibers.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-45299-2",
+        "keyword": "Klotho",
+        "title_ja": "2光子蛍光顕微鏡イメージングによるマウス水晶体縫合線の構造と機能の解析",
+        "summary_ja": "本研究は、2光子蛍光顕微鏡を用いて、野生型（WT）及びKLPHノックアウト（KLPH-KO）マウス水晶体の線維・縫合構造と透過性を解析した。KLPH-KO水晶体は縫合白内障を生じる。3Dイメージングにより、WTでは典型的な「Y」字型縫合構造が観察されたが、KLPH-KOでは縫合形態の不均一性と前後縫合面の不整合が認められた。構造類似性指数（SSIM）による定量解析で、KLPH-KOではパターンランダム化が有意に増加した。両群とも縫合近傍に空隙を有したが、KLPH-KOでは不規則な中心空隙内に2–5μmの無構造物が存在した。本成果は、縫合白内障の新たな形態マーカーを提供し、染色不透過性の縫合が線維末端により形成される安定化界面であり、水晶体の構造完全性と線維配向を維持することを示唆する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Structural Mass-Spectrometric Description of Immune Complexes in Vaccine-Induced Immune Thrombocytopenia and Thrombosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41875409/",
+        "abstract": "Antibodies binding the heparin-binding domain of platelet factor 4 (PF4) cause a severe prothrombotic condition first identified as vaccine-induced immune thrombocytopenia and thrombosis (VITT). Reverse-engineered recombinant antibodies (rAbs) generated from mass-spectrometry-based sequencing of patient sera recapitulate the functional characteristics of VITT patient serum. However, the structure of the antigen interface and the architecture of the immune complexes are unknown. Here we utilize structural mass spectrometry to describe the immune complexes formed by three rAbs. Employing cross-linking mass spectrometry (XLMS) with multiple linkers, we identified interacting paratope-epitope residues and determined that the PF4 binding occurs primarily via light-chain interactions with the PF4 C-terminus. Structural modeling corroborated interprotein links and predicted the formation of a tetravalent immune complex, satisfying observed cross-links and existing epitope information. Native MS demonstrated lower-order complexes and tetravalent assemblies, supporting the modeling predictions. Our study provides structural insights into the pathogenesis of VITT and related PF4 disorders and highlights the potential for complementary structural MS and modeling to study challenging protein-protein interactions.",
+        "source": "PubMed",
+        "doi": "10.1021/jacs.5c18732",
+        "keyword": "PF4",
+        "title_ja": "ワクチン誘発性免疫性血小板減少症および血栓症における免疫複合体の構造質量分析による解析",
+        "summary_ja": "**要約**\nワクチン誘発性免疫性血小板減少症・血栓症（VITT）は、血小板第4因子（PF4）のヘパリン結合ドメインに結合する抗体が引き起こす重篤な血栓性疾患である。本研究は、構造的質量分析法を用いて、VITT患者血清由来の再構成抗体（rAb）とPF4が形成する免疫複合体の構造を解明した。架橋質量分析（XLMS）により、抗体の軽鎖がPF4のC末端と主に相互作用することを特定し、構造モデリングは四価の免疫複合体の形成を予測した。ネイティブMSは低次複合体と四価会合体を確認し、予測を支持した。本成果はVITTの病態理解に寄与し、構造MSとモデリングの相補的活用による難解なタンパク質相互作用解析の可能性を示す。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Targeting the PSMD14-BCKDK pathway overcomes immune suppression and enhances CAR-NK infiltration in glioblastoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41876842/",
+        "abstract": "Nutrient competition between tumor and immune cells is a hallmark of the glioblastoma (GBM) microenvironment, yet the mechanisms underlying amino acid metabolic reprogramming and immune evasion remain incompletely understood. Here, we demonstrate that GBM cells outcompete NK cells for branched-chain amino acid (BCAA), leading to BCAA depletion, suppression of NK and CD8",
+        "source": "PubMed",
+        "doi": "10.1038/s41418-026-01725-6",
+        "keyword": "NK cell therapy",
+        "title_ja": "PSMD14-BCKDK経路を標的とすることで免疫抑制を克服し、膠芽腫におけるCAR-NK細胞浸潤を促進する",
+        "summary_ja": "**要約：**\nグリオブラストーマ（GBM）微小環境では、腫瘍細胞がNK細胞と分岐鎖アミノ酸（BCAA）を競合し、BCAA枯渇による免疫抑制が生じる。本研究は、この代謝再プログラミングの鍵として**PSMD14-BCKDK経路**を同定した。PSMD14はBCKDKを脱ユビキチン化して安定化し、BCAA分解を促進する。この経路を阻害すると、腫瘍内BCAAレベルが回復し、CAR-NK細胞の機能と浸潤が劇的に増強され、抗腫瘍効果が向上した。つまり、**PSMD14-BCKDK経路の標的化は、GBMの代謝性免疫回避を打破する新規治療戦略**となる。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "IL-12-secreting CAR-T cells reprogram the tumor microenvironment and improve efficacy against heterogeneous models of glioblastoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41876135/",
+        "abstract": "Glioblastoma (GBM) remains uniformly lethal due to pronounced intratumoral heterogeneity and a highly immunosuppressive microenvironment that limits the efficacy of targeted therapies.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2025-012532",
+        "keyword": "NK cell therapy",
+        "title_ja": "IL-12を分泌するCAR-T細胞は、腫瘍微小環境を再プログラミングし、膠芽腫の不均一モデルに対する効果を向上させる。",
+        "summary_ja": "IL-12分泌型CAR-T細胞は、膠芽腫（GBM）の治療において、腫瘍微小環境を再プログラミングする。従来のCAR-T療法は腫瘍内不均一性と免疫抑制環境により効果が限られていたが、IL-12の分泌により、免疫抑制性細胞を減少させ、内因性の抗腫瘍免疫を活性化する。これにより、抗原発現が不均一な腫瘍モデルに対しても、治療効果が持続的に向上することが示された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Immune-modified exosome vaccine loaded with liver cancer epitope peptides induces potent and specific antitumor immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41877229/",
+        "abstract": "Dendritic cell-derived exosomes (DEXs) are emerging as effective platforms for cancer vaccines due to their capacity to present tumor antigens and regulate immune responses. Here, we developed a multifunctional DEX vaccine (DEX",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04166-y",
+        "keyword": "Exosomes",
+        "title_ja": "免疫修飾エクソソームワクチンに肝がんエピトープペプチドを搭載することで、強力かつ特異的な抗腫瘍免疫を誘導する。",
+        "summary_ja": "本論文では、樹状細胞由来エクソソーム（DEX）を基盤とした新規肝がんワクチンを開発した。この多機能DEXワクチンは、肝がん特異的エピトープペプチドを搭載し、免疫応答を増強する分子で修飾されている。その結果、強い腫瘍特異的な抗腫瘍免疫を誘導し、肝がんの成長を有意に抑制した。DEXは腫瘍抗原の提示と免疫調節に優れ、効果的ながんワクチンプラットフォームとして有望であると結論づけている。"
+      },
+      {
+        "title": "ATP6V1B2 alleviates hepatic steatosis by promoting lysosomal acidification in hepatocytes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41876447/",
+        "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is a common metabolic disorder characterized by the abnormal accumulation of fat in the liver. ATP6V1B2, an essential subunit of the vacuolar ATPase (V-ATPase) complex, plays a pivotal role in its function and assembly. Despite its importance, the regulatory role of ATP6V1B2 and its molecular mechanism in MASLD progression remain poorly understood. In this study, we observed a significant reduction in ATP6V1B2 expression in the serum of MASLD patients. Experimental results demonstrated that inhibiting ATP6V1B2 expression in liver cells led to increased lipid accumulation, aggravated oxidative stress, upregulation of fatty acid synthase (FASN), and impaired autophagic activity. Further investigation revealed that ATP6V1B2 promotes the lysosomal degradation of FASN by maintaining the acidic environment of lysosomes, thereby playing a crucial role in lipid metabolism regulation. These findings uncover the critical mechanism by which ATP6V1B2 contributes to MASLD development and suggest that restoring its function could offer novel therapeutic strategies for treating this condition.",
+        "source": "PubMed",
+        "doi": "10.1038/s41420-026-03052-8",
+        "keyword": "Exosomes",
+        "title_ja": "ATP6V1B2は肝細胞におけるリソソームの酸性化を促進することで肝脂肪変性を軽減する。",
+        "summary_ja": "ATP6V1B2は、液胞型ATPアーゼ（V-ATPase）複合体の必須サブユニットであり、リソソームの酸性化を担う。代謝機能障害関連脂肪性肝疾患（MASLD）患者では血清中のATP6V1B2発現が低下していた。肝細胞におけるATP6V1B2の抑制は、脂質蓄積の増加、酸化ストレスの悪化、脂肪酸合成酵素（FASN）のアップレギュレーション、およびオートファジー活性の障害を引き起こした。ATP6V1B2はリソソームの酸性環境を維持することでFASNのリソソーム分解を促進し、脂質代謝調節に重要な役割を果たす。本研究は、ATP6V1B2機能の回復がMASLDの新規治療戦略となり得ることを示唆する。"
+      },
+      {
+        "title": "Tumor-Derived Exosomes Deliver Membrane-Bound Fgl2 to Activate FcγRIIB-Mediated Immunosuppression in Myeloid-Derived Suppressor Cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41875310/",
+        "abstract": "Myeloid-derived suppressor cells (MDSCs) play a pivotal role in establishing an immunosuppressive tumor microenvironment (TME), yet the mechanisms underlying their functional activation remain incompletely defined. Here, we identify the Fgl2-FcγRIIB signaling axis as a critical mediator of MDSC-driven immune evasion across solid tumors. Analysis of clinical specimens revealed that Fgl2 expression is significantly elevated in tumor tissues and inversely correlates with CD8",
+        "source": "PubMed",
+        "doi": "10.1002/advs.202521784",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍由来エクソソームは膜結合型Fgl2を運搬し、骨髄由来抑制細胞におけるFcγRIIBを介した免疫抑制を活性化する。",
+        "summary_ja": "本論文は、腫瘍免疫抑制における骨髄由来抑制細胞（MDSC）の活性化メカニズムを解明した。腫瘍組織で高発現するFgl2が、エクソソームを介してMDSCに膜結合型Fgl2を送達し、受容体FcγRIIBを活性化することで免疫抑制機能を誘導することを明らかにした。臨床サンプル解析では、Fgl2発現は腫瘍組織で上昇し、CD8陽性T細胞浸潤と逆相関を示した。このFgl2-FcγRIIBシグナル軸は、固形腫瘍における免疫逃避の重要なメディエーターである。"
+      },
+      {
+        "title": "The global clinical landscape of human-derived extracellular vesicles: an analysis based on ClinicalTrials.gov (2010-2025).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41874702/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s10238-026-02124-4",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト由来細胞外小胞のグローバルな臨床動向：ClinicalTrials.govに基づく分析（2010-2025年）",
+        "summary_ja": "本論文は、ClinicalTrials.gov（2010-2025年）に登録されたヒト由来細胞外小胞（EV）を用いた臨床試験を分析した。その結果、EV臨床応用の大部分（約80%）が間葉系幹細胞（MSC）由来であり、再生医療（神経・整形外科疾患）と免疫調節（GVHD、COVID-19）が主要な適応領域であることが明らかになった。試験は主にアジア（中国・韓国）で実施され、安全性評価が中心だが、有効性を検証する後期試験も増加傾向にある。これにより、EV療法が新規治療モダリティとして確立されつつある現状が示された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Liposome/Exosome Hybrid Loaded with FGF2 mRNA for Diabetic Wound Healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41877519/",
+        "abstract": "Diabetic foot ulcer (DFU) is a severe complication of diabetes, characterized by impaired healing due to chronic inflammation, poor blood vessel growth, and compromised cell function. To improve DFU healing, we create a FGF2 mRNA loaded liposome/exosome hybrid (FGF2-LEH) with dual functions of tissue regrowth and inflammation regulation. The FGF2-LEH was fabricated by incubating FGF2 mRNA with liposomes to form the FGF2-Lipo complex, followed by hybridization with platelet-rich plasma-derived exosomes (PRP-Exos) through freeze-thaw cycle and extrusion. Characterizations demonstrated that the FGF2-LEH had suitable particle size, high encapsulation efficiency, and biosafety. In vitro experiments revealed that FGF2-LEH enhanced the migration and tube formation of human umbilical vein endothelial cells, highlighting its pro-angiogenic potential. In both type 1 and type 2 diabetic mouse models, a single dose of FGF2-LEH greatly accelerated wound healing. After 15 days, the healing rate of the FGF2-LEH group exceeded 96% with improved granulation tissue growth, which was superior to that of control. Histopathological analysis further confirmed that FGF2-LEH promoted CD31",
+        "source": "PubMed",
+        "doi": "10.1021/acsami.5c25924",
+        "keyword": "Exosomes",
+        "title_ja": "FGF2 mRNAを搭載したリポソーム/エクソソームハイブリッドによる糖尿病性創傷治癒",
+        "summary_ja": "糖尿病性足潰瘍（DFU）は、慢性炎症や血管新生不全により治癒が困難な合併症である。本研究では、組織再生と炎症調節の二重機能を持つFGF2 mRNA搭載リポソーム/エクソソームハイブリッド（FGF2-LEH）を開発した。FGF2-LEHは、FGF2 mRNAとリポソームを複合化後、血小板由来エクソソームと凍結融解・押出し法で調製された。適切な粒子サイズと高い封入効率を示し、安全性も確認された。in vitroでは血管内皮細胞の遊走・管形成を促進し、in vivoでは糖尿病マウスモデルにおいて単回投与で創傷治癒を大幅に加速、15日後で96%以上の治癒率と肉芽組織形成の改善を達成した。組織学的解析でもCD31発現増加など血管新生促進が確認された。"
+      },
+      {
+        "title": "Restoring the FOXO1 geroprotective pathway via seno-resistant mesenchymal progenitor cells alleviates primate epididymal aging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41875394/",
+        "abstract": "Aging of the male reproductive system is characterized by declining fertility, with epididymal dysfunction being a critical yet poorly understood contributor. Through a multimodal analysis in non-human primates that integrated histology and transcriptomics, we delineated a coherent epididymal aging phenotype encompassing epithelial senescence, chronic inflammation, fibrosis, and functional decline. Single-nucleus transcriptomics revealed principal cells (PCs) as the predominant and most transcriptionally perturbed epithelial cell type. Within PCs, the longevity-associated transcription factor FOXO1 was markedly downregulated with age. Functional studies in human epididymal epithelial cells demonstrated that FOXO1 deficiency drives cellular senescence. Mechanistically, FOXO1 transcriptionally activates LHX1, and this axis is essential for counteracting senescence. Furthermore, intervention with senescence-resistant mesenchymal progenitor cells or their exosomes mitigated epididymal aging phenotypes and restored FOXO1 expression in vivo and in vitro. Our study establishes the FOXO1-LHX1 axis as a key protective pathway against primate epididymal aging, providing mechanistic insights and potential therapeutic targets for preserving male reproductive health.",
+        "source": "PubMed",
+        "doi": "10.1093/procel/pwag020",
+        "keyword": "Exosomes",
+        "title_ja": "老化抵抗性間葉系前駆細胞によるFOXO1老化保護経路の回復は、霊長類精巣上体の老化を軽減する。",
+        "summary_ja": "非ヒト霊長類を用いた研究により、加齢に伴う精巣上体の機能低下には、上皮細胞の老化（細胞老化）、慢性炎症、線維化が関与することを解明。単一核トランスクリプトーム解析から、主要な上皮細胞タイプである主細胞において、長寿関連転写因子FOXO1の発現が加齢とともに顕著に低下していることを発見。FOXO1はLHX1を転写活性化し、このFOXO1-LHX1軸が細胞老化を抑制する必須経路であることを機能実験で確認。さらに、老化抵抗性間葉系前駆細胞またはそのエクソソームを投与することで、精巣上体の老化表現型が軽減され、FOXO1発現が回復した。本研究は、FOXO1-LHX1軸が霊長類の精巣上体老化に対する重要な保護経路であり、男性生殖健康維持の新たな治療標的となる可能性を示す。"
+      },
+      {
+        "title": "GFAP",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41875155/",
+        "abstract": "Ependymal cells in the adult ventricular-subventricular zone are increasingly recognized for functions extending beyond cerebrospinal fluid dynamics; however, their identity and functional specialization remain incompletely understood. While ependymal cells (EP) have been implicated in interactions with the stem cell niche and the vasculature, their role in repair processes following neural injury remains elusive. In this study, we employed region-specific single-cell transcriptomics of the subventricular zone (SVZ) and ipsilesional peri-infarct territory in mice to identify a distinct subpopulation of GFAP",
+        "source": "PubMed",
+        "doi": "10.1073/pnas.2520352123",
+        "keyword": "Exosomes",
+        "title_ja": "GFAP",
+        "summary_ja": "**要約：**\n成人脳室下帯の上衣細胞は、脳脊髄液動態を超えた機能を持つが、その詳細は不明である。本研究では、マウスの脳室下帯および梗塞周囲領域の単一細胞トランスクリプトミクス解析を行い、損傷後に活性化する特異的なGFAP陽性上衣細胞サブポピュレーションを同定した。この細胞集団は、神経幹細胞ニッチや血管との相互作用に関与し、神経損傷後の修復過程で重要な役割を果たす可能性が示唆される。"
+      },
+      {
+        "title": "Olfactory Mucosa Mesenchymal Stem Cell-Derived Exosomes Enhance Microglia M2 Polarization via the FGFR1/PLCγ1 Axis to Alleviate Alzheimer's Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41874868/",
+        "abstract": "This study aims to investigate the effect of exosomes derived from olfactory mucosa mesenchymal stem cells (OM-MSCs-Exo) on microglial polarization and its potential therapeutic role in Alzheimer's disease (AD). OM-MSCs-Exo were isolated and purified from the mice olfactory mucosa, followed by phenotypic characterization. Proteins transferred by OM-MSCs-Exo were screened using proteomic analysis. The AD model was established in microglial cells and mice with Aβ",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-05797-w",
+        "keyword": "Exosomes",
+        "title_ja": "嗅覚粘膜間葉系幹細胞由来エクソソームは、FGFR1/PLCγ1軸を介してミクログリアのM2極性化を促進し、アルツハイマー病を軽減する。",
+        "summary_ja": "本研究は、嗅粘膜間葉系幹細胞由来エクソソーム（OM-MSCs-Exo）が、FGFR1/PLCγ1シグナル軸を介してミクログリアのM2型極性化を促進し、アルツハイマー病（AD）を軽減する可能性を検証した。プロテオミクス解析により同定されたOM-MSCs-Exo内のタンパク質が、Aβ誘導ADモデル（細胞・マウス）において、ミクログリアの炎症抑制・保護的機能を有するM2型への転換を誘導し、神経炎症を緩和した。OM-MSCs-Exoは、AD治療の新規戦略として有望である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下は、特に注目すべき5つのトピックです。\n\n1. **VITTの構造的解明（PF4）**：ワクチン誘発性免疫性血小板減少症・血栓症（VITT）の原因となるPF4抗体複合体の構造を質量分析で解明。病態機序の理解と、より安全なワクチン・治療法開発への応用が期待される。\n\n2. **GBMの代謝免疫療法（NK細胞）**：グリオブラストーマ（GBM）で、腫瘍細胞がNK細胞と分岐鎖アミノ酸を競合する「代謝免疫抑制」の鍵経路（PSMD14-BCKDK）を同定。この経路を標的とすることで、CAR-NK療法の浸潤と効果を高める新戦略となる。\n\n3. **免疫修飾エクソソームワクチン（肝がん）**：樹状細胞由来エクソソームに肝がん特異的エピトープと免疫増強分子を搭載した新規ワクチン。強い特異的抗腫瘊免疫を誘導し、個別化がん免疫療法の実現に寄与する可能性が高い。\n\n4. **腫瘍エクソソームによる免疫抑制機構**：腫瘍由来エクソソームが膜結合型Fgl2を運び、骨髄由来抑制細胞（MDSC）のFcγRIIBを活性化して免疫抑制を誘導する新機序を解明。がん免疫療法の抵抗性克服のための新たな標的となる。\n\n5. **臨床応用としてのEV（再生医療）**：細胞外小胞（EV）の臨床試験の大部分が間葉系幹細胞（MSC）由来で、再生医療（神経・整形外科）に集中。EVは細胞治療に代わるオフ・ザ・シェルフ製剤として、実用化が最も近い分野である。"
+}

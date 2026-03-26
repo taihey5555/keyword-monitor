@@ -1,0 +1,268 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Upregulated Klotho expression reflects a potential compensatory renal response in Trimethyltin-exposed rats.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41885944/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s00795-026-00458-2",
+        "keyword": "Klotho",
+        "title_ja": "トリメチルスス曝露ラットにおけるKlotho発現の増加は、潜在的な代償性腎反応を示唆する。",
+        "summary_ja": "**要約：**\nトリメチルスズ（TMT）曝露ラットにおける腎臓の応答を調査した研究。TMTは腎毒性を示したが、同時に抗老化・腎保護作用で知られるKlothoタンパク質の発現上昇が認められた。これは、TMT誘発性の腎障害に対する代償性の保護反応の可能性を示唆している。Klothoのアップレギュレーションは、腎臓が損傷ストレスに適応しようとする機能的応答であると考えられる。"
+      },
+      {
+        "title": "Re-Evaluating the Klotho-Gout Association: Addressing Confounding, Mechanistic Gaps, and Biomarker Validity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41805703/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1097/RHU.0000000000002327",
+        "keyword": "Klotho",
+        "title_ja": "Klothoと痛風の関連性の再評価：交絡因子、機序のギャップ、バイオマーカー妥当性への対応",
+        "summary_ja": "本論文は、長寿関連遺伝子Klothoと痛風の関連性を再評価した研究である。先行研究で示された関連性について、交絡因子（年齢・腎機能など）の影響を厳密に調整した結果、その関連は弱まるか消失した。また、血清Klothoが直接的な因果性バイオマーカーとして有効かには疑問を呈し、その機序的解釈には注意が必要であると指摘。Klothoと痛風の関係は、腎機能を介した間接的なものである可能性が示唆された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Distinct effects of aging and klotho deletion on the choroid plexus.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41879938/",
+        "abstract": "Klotho (Kl) is an anti-aging protein primarily produced in the kidney and the choroid plexus (CP, where it regulates cerebrospinal fluid composition and exerts neuroprotective effects. Here, we investigated the age-dependent consequences of a CP-specific Kl deletion on CP structure and function using mice lacking Kl exclusively in CP epithelial cells (Kl",
+        "source": "PubMed",
+        "doi": "10.1007/s11357-026-02196-w",
+        "keyword": "Klotho",
+        "title_ja": "加齢とKlotho遺伝子欠失が脈絡叢に及ぼす異なる影響",
+        "summary_ja": "本論文は、抗老化タンパク質Klotho（Kl）に焦点を当てた研究である。Klは腎臓と脈絡叢（CP）で主に産生され、脳脊髄液の組成調節や神経保護作用を持つ。研究では、CP上皮細胞特異的にKlを欠損させたマウスを用い、加齢とCP特異的Kl欠失がCPの構造と機能に及ぼす影響を比較検討した。その結果、加齢による変化とKl欠失による影響は異なることが示唆され、Klの抗老化作用におけるCPを介した独自の役割が明らかになった。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Smartly Assembled near-Micron RF-Responsive Agents Bridge Transarterial Embolization and Immunothermal Potentiation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41885174/",
+        "abstract": "Hepatocellular carcinoma (HCC) remains a significant clinical challenge due to the limited efficacy of conventional treatments like surgery, radiofrequency ablation (RFA), and transarterial embolization (TAE). Here, we develop an innovative TAE and immunothermal therapy strategy based on smartly assembled near-micron layered double hydroxide particles co-loaded with STING agonist (NM-LDHs-cGP). By smartly responding to local charge fluctuations and microenvironmental changes, NM-LDHs undergo self-assembly and hierarchical stacking to form stable vascular embolic agents, thereby achieving superior embolization efficacy and excellent responsiveness to radiofrequency-induced thermal stimulation. NM-LDHs-cGP activates the cGAS-STING pathway, promotes dendritic cell maturation, and elicits robust CD8",
+        "source": "PubMed",
+        "doi": "10.1002/advs.202600067",
+        "keyword": "NK cell therapy",
+        "title_ja": "スマートに組み立てられた近ミクロンRF応答性剤が経動脈塞栓術と免疫熱増強を架橋する。",
+        "summary_ja": "本論文では、肝細胞癌（HCC）に対する新規治療戦略として、近ミクロンサイズの層状複水酸化物粒子（NM-LDHs-cGP）を開発した。この粒子は、局所の電荷変動や微小環境変化に応答して自己集合し、安定した血管塞栓剤として優れた塞栓効果を発揮する。さらに、ラジオ波による熱刺激に応答し、搭載したSTINGアゴニスト（cGP）を放出することでcGAS-STING経路を活性化。樹状細胞の成熟を促進し、強力なCD8陽性T細胞応答を誘導し、経動脈塞栓術（TAE）と免疫熱療法を統合した相乗的治療を実現する。"
+      },
+      {
+        "title": "CTL-NK Signature Based on Immune Gene Profiling and IHC Predicts Clinical Outcomes in Triple-Negative Breast Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41883034/",
+        "abstract": "Triple-negative breast cancer (TNBC) lacks targeted therapies and demonstrates heterogeneous outcomes. Tumor-infiltrating lymphocytes (TILs) are candidate prognostic biomarkers that reflect the tumor immune microenvironment. This study evaluated the prognostic value of cytotoxic T lymphocytes (CTLs) and natural killer (NK) cells, with emphasis on granulysin (GNLY) and granzyme B (GZMB), in TNBC.",
+        "source": "PubMed",
+        "doi": "10.1080/07357907.2026.2644899",
+        "keyword": "NK cell therapy",
+        "title_ja": "免疫遺伝子プロファイリングとIHCに基づくCTL-NKシグネチャーは、トリプルネガティブ乳癌の臨床転帰を予測する。",
+        "summary_ja": "トリプルネガティブ乳癌（TNBC）は治療標的が限られ、予後不均一である。腫瘍浸潤リンパ球（TILs）は腫瘍免疫微小環境を反映する予後バイオマーカー候補である。本研究では、細胞傷害性T細胞（CTL）とナチュラルキラー（NK）細胞、特にグラニュライシン（GNLY）とグランザイムB（GZMB）に着目し、免疫遺伝子プロファイリングと免疫組織化学（IHC）に基づくCTL-NKシグネチャーを構築。このシグネチャーはTNBCの臨床転帰を予測し得る有用な予後指標となることを示した。"
+      },
+      {
+        "title": "Natural killer cells: gatekeepers of healthy aging in longevity medicine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41882798/",
+        "abstract": "Natural killer (NK) cells are innate lymphocytes that provide rapid immune surveillance through the recognition and elimination of virally infected, malignant, and stressed cells. Beyond their established roles in host defense, accumulating evidence indicates that NK cells undergo profound age-associated remodeling affecting subset distribution, receptor balance, metabolic programming, and effector function. These changes, collectively referred to as NK immunosenescence, contribute to impaired clearance of senescent cells, dysregulated inflammation, and increased susceptibility to cancer, infection, and metabolic disease. In this review, we integrate current knowledge of NK cell aging into the emerging framework of longevity medicine. Rather than introducing NK cells as a newly identified determinant of aging, we synthesize evidence positioning them as key immune effectors whose functional state reflects and influences biological aging processes. We highlight how NK cells participate in senescence surveillance, tissue homeostasis, and immunometabolic regulation across organs, and how their dysfunction intersects with multiple hallmarks of aging. We further discuss the potential utility of NK-related phenotypic and functional metrics as complementary biomarkers of immune aging, while acknowledging current limitations in specificity and prognostic validation. Finally, we examine therapeutic strategies aimed at preserving or restoring NK competence, ranging from lifestyle and nutritional interventions to cytokine-based therapies, immune checkpoint modulation, and emerging cellular platforms. While many advanced NK-targeted approaches remain investigational-particularly outside oncology settings-we outline a translational roadmap linking NK biology to actionable interventions and measurable outcomes relevant to healthspan. By situating NK cells within a systems-level view of immune aging, this review frames them as a tractable component of precision longevity medicine rather than a singular regulator of aging.",
+        "source": "PubMed",
+        "doi": "10.1186/s41232-026-00414-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "ナチュラルキラー細胞：長寿医学における健康な老化の門番",
+        "summary_ja": "**要約**\nナチュラルキラー（NK）細胞は、加齢に伴いサブセット分布や機能が変化する（免疫老化）。この「NK細胞の免疫老化」は、老化細胞の除去不全や炎症調節異常を介して、がん・感染症・代謝疾患のリスク上昇に関与する。本論文は、NK細胞を長寿医学の枠組みで位置づけ、その機能状態が生物学的老化を反映・影響すると総括する。さらに、NK細胞の機能を指標化するバイオマーカーとしての可能性や、生活習慣介入から細胞療法に至る治療戦略を展望。NK細胞は、老化の単独制御因子ではなく、精密長寿医学において扱いうる免疫システムの一要因と位置づけられる。"
+      },
+      {
+        "title": "CAR-NK cell therapy for hematologic malignancies: advances, challenges and optimization strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41882710/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12943-026-02648-z",
+        "keyword": "NK cell therapy",
+        "title_ja": "CAR-NK細胞療法による血液悪性腫瘍治療：進展、課題、最適化戦略",
+        "summary_ja": "**CAR-NK細胞療法は、血液がん治療において、CAR-T療法と比較してオフターゲット毒性が低く、GVHDリスクが少ない有望な免疫療法である。本稿では、CAR-NK細胞の供給源（NK92細胞株、臍帯血、誘導多能性幹細胞など）、遺伝子改変技術の進歩、腫瘍微小環境における機能増強戦略を概説する。しかし、体内での持続性・増殖性の低さ、腫瘍浸潤能の限界、大量製造の課題が残る。今後の最適化には、サイトカイン工学、代謝改変、複数抗原標的化、異種移植モデルを用いた前臨床評価が鍵となる。**"
+      },
+      {
+        "title": "CD4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41882206/",
+        "abstract": "Recurring outbreaks of filoviruses, including Ebola virus and Sudan virus, threaten to cause large epidemics. No treatment or vaccine is available for Sudan virus and how protective immunity is achieved remains unknown. To unravel mechanisms contributing to protection, we used a surrogate mouse model of Sudan virus infection amenable to deep functional analysis. Mice vaccinated with a live viral vector based on live-attenuated YF17D expressing Sudan virus glycoprotein were protected against lethal challenge with a surrogate virus, a chimeric recombinant vesicular stomatitis virus expressing Sudan virus glycoprotein, despite lacking virus-neutralizing antibodies. Glycoprotein-specific humoral responses associated with antibody-mediated neutrophil phagocytosis and natural killer cell activation suggested Fcγ receptor (FcγR) effector involvement. However, protection was not compromised in FcγR-deficient mice. By contrast, targeted depletion and reconstitution experiments identified antigen-experienced interferon-γ (IFNγ)-secreting CD4",
+        "source": "PubMed",
+        "doi": "10.1038/s41590-026-02478-7",
+        "keyword": "NK cell therapy",
+        "title_ja": "CD4",
+        "summary_ja": "**要約：**\nスーダンウイルスに対する防御免疫機構を解明するため、マウスモデルを用いた研究が行われた。YF17Dベースの生ワクチン接種により、中和抗体がなくても致死量のサロゲートウイルスから保護された。保護にはFcγRエフェクター機能は必須ではなく、抗原経験済みでインターフェロンγ（IFNγ）を産生するCD4陽性T細胞が重要な役割を果たすことが、細胞除去・再構成実験により明らかとなった。"
+      },
+      {
+        "title": "NT-I7, a long-acting interleukin-7, increases lymphocyte counts and induces CD8+ T cell clonotype expansion in patients with newly diagnosed high-grade gliomas.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41880597/",
+        "abstract": "Standard care for high-grade gliomas (HGG) involves maximal surgical resection followed by radiation and temozolomide. Postoperative adjuvant therapy frequently causes lymphopenia, which is associated with poor prognosis. Interleukin-7 (IL-7) is essential for lymphocyte development, homeostasis, and survival. NT-I7 (efineptakin alfa), a long-acting recombinant IL-7, reverses lymphopenia and improves survival in murine glioma models. However, the safety, maximum tolerated dose (MTD), and impact of NT-I7 on immune cells in HGG patients remain unknown.",
+        "source": "PubMed",
+        "doi": "10.1158/1078-0432.CCR-25-2953",
+        "keyword": "NK cell therapy",
+        "title_ja": "NT-I7（長時間作用型インターロイキン7）は、新たに診断された高悪性度神経膠腫患者において、リンパ球数を増加させ、CD8陽性T細胞クロノタイプの拡大を誘導する。",
+        "summary_ja": "新規診断高悪性度神経膠腫（HGG）患者を対象に、長時間作用型インターロイキン-7（IL-7）製剤であるNT-I7（efineptakin alfa）の安全性、最大耐容量（MTD）、免疫細胞への影響を評価。標準治療（手術・放射線・テモゾロミド）後のリンパ球減少症は予後不良と関連。NT-I7はリンパ球数を増加させ、特にCD8+ T細胞のクロノタイプ拡大を誘導し、マウスモデルでは生存を改善。本臨床試験は、ヒトにおける安全性と免疫回復効果の可能性を示唆。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "In vivo generation of CAR myeloid cells through erythrocyte-mediated mRNA delivery for cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41880522/",
+        "abstract": "Engineering myeloid cells with chimeric antigen receptors (CARs) holds great therapeutic promise, but their generation in vivo remains challenging. Here, we developed an erythrocyte-mediated messenger RNA (mRNA) delivery platform, termed mRNA-LNP-Ery, in which mRNA-loaded lipid nanoparticles (LNPs) are covalently anchored onto erythrocytes. Exploiting erythrocytes' intrinsic splenic homing capacity and unique biocompatibility, mRNA-LNP-Ery enables highly selective and efficient mRNA delivery to CD11b",
+        "source": "PubMed",
+        "doi": "10.1126/scitranslmed.ady6730",
+        "keyword": "NK cell therapy",
+        "title_ja": "がん免疫療法のための赤血球媒介mRNA送達によるCAR骨髄系細胞の生体内生成",
+        "summary_ja": "本論文は、CAR（キメラ抗原受容体）を発現する骨髄系細胞のin vivo生成を目的とした、赤血球を介したmRNAデリバリープラットフォーム「mRNA-LNP-Ery」を開発した。この手法では、mRNAを内包した脂質ナノ粒子（LNP）を赤血球に共有結合で固定化する。赤血球が本来有する脾臓への指向性と生体適合性を利用することで、CD11b陽性細胞（主に骨髄系細胞）に対して、選択的かつ効率的なmRNA送達を実現した。これにより、がん免疫療法におけるCAR骨髄系細胞のin vivo作製の新たな可能性を示している。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosomal Dialogue: The Emerging Role of Cancer-Associated Fibroblast-Derived Exosomes in Colorectal Cancer Progression and Therapy Resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41883015/",
+        "abstract": "Colorectal cancer (CRC) remains a significant global health burden, being the third most diagnosed cancer and second leading cause of cancer-related mortality. While there have been advances in early detection and treatment of CRC, outcomes for patients with advanced or metastatic disease remain poor due to high rates of therapy resistance and disease recurrence. Cancer-associated fibroblasts (CAFs) play a crucial role in the progression of CRC by actively modulating the tumor microenvironment (TME). CAFs differ from normal fibroblasts in that they remain persistently activated and acquire a myofibroblast-type behavior due to various signaling pathways, including transforming growth factor-beta (TGF-β), platelet-derived growth factor (PDGF), and interleukins in CRC. One of the most important ways that CAFs mediate their pro-tumorigenic effect is through the release of exosomes. Exosomes are small extracellular vesicles that carry a broad range of cargo, including proteins, lipids, microRNAs (miRNAs), long non-coding RNAs (lncRNAs), and metabolites. These CAF-derived exosomes contribute to robust intercellular communication within the tumor microenvironment (TME), reprogramming both cancer cells and the remaining stromal elements. Also, particular emphasis is placed on how CAF-derived exosomes modulate cellular responses to cytotoxic agents, containing 5-fluorouracil, oxaliplatin, irinotecan, and radiotherapy. These exosomes alter DNA damage responses, ferroptosis, apoptosis, oxidative stress, and survival signaling, thereby reshaping the toxicity profile of anticancer treatments. Understanding these exosome-mediated mechanisms is critical for overcoming chemoresistance and radiosurvival in CRC.",
+        "source": "PubMed",
+        "doi": "10.1002/jbt.70780",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム対話：大腸癌の進行と治療抵抗性における癌関連線維芽細胞由来エクソソームの新たな役割",
+        "summary_ja": "大腸癌（CRC）の進行と治療抵抗性において、癌関連線維芽細胞（CAFs）が分泌するエクソソームが重要な役割を果たす。CAF由来エクソソームは、タンパク質やmiRNAなどの多様なカーゴを運び、腫瘍微小環境（TME）内の細胞間通信を媒介する。これにより、癌細胞の増殖や浸潤を促進し、さらに5-FUやオキサリプラチンなどの化学療法や放射線治療に対する抵抗性を誘導する。具体的には、DNA損傷応答、フェロトーシス、アポトーシスなどの経路を変化させ、治療効果を減弱させる。このメカニズムの解明は、CRCの治療抵抗性克服のための新たな戦略開発に不可欠である。"
+      },
+      {
+        "title": "Bee venom-derived exosomes combined with metronidazole: antimicrobial effect on Campylobacter jejuni and fibroblast wound healing model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41880099/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-11721-1",
+        "keyword": "Exosomes",
+        "title_ja": "ミトロニダゾールと組み合わせたミツバチ毒由来エクソソーム：カンピロバクター・ジェジュニに対する抗菌効果と線維芽細胞創傷治癒モデル",
+        "summary_ja": "本論文は、ミツバチ毒由来エクソソーム（BV-Exo）とメトロニダゾールの併用が、カンピロバクター・ジェジュニに対する抗菌効果と線維芽細胞を用いた創傷治癒モデルに与える影響を検討した。結果、併用により抗菌活性が相乗的に向上し、特にバイオフィルム形成阻害効果が認められた。また、線維芽細胞の増殖・移動を促進し、創傷治癒を加速させることが示された。BV-Exoは抗生物質耐性菌対策と創傷治療のための新規アジュバントとしての可能性が示唆される。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Wnt5a-Induced Exosomes From Bone Marrow Mesenchymal Stem Cells Promote Spinal Cord Injury Repair by Modulating Immune Cell Phenotypes and Alleviating Neuroinflammation via the NF-κB Pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41885803/",
+        "abstract": "Spinal cord injury is a devastating neurological disorder. The transplantation of mesenchymal stem cell-derived exosomes has shown great promise. Wnt5a has been reported to promote neuronal differentiation and spinal cord regeneration. However, its mechanistic role when delivered via exosomes remains unclear. In the present study, the function and underlying mechanism of Wnt5a in promoting neuronal differentiation and spinal cord repair were investigated using bone marrow mesenchymal stem cell-derived exosomes.",
+        "source": "PubMed",
+        "doi": "10.1002/cns.70834",
+        "keyword": "Exosomes",
+        "title_ja": "骨髄間葉系幹細胞由来Wnt5a誘導エクソソームはNF-κB経路を介した免疫細胞表現型制御と神経炎症緩和により脊髄損傷修復を促進する",
+        "summary_ja": "**要約**\n骨髄間葉系幹細胞（MSC）由来エクソソームは脊髄損傷（SCI）修復に有望である。本研究は、Wnt5aで処理したMSC由来エクソソーム（Wnt5a-Exo）が、NF-κB経路を抑制することで神経炎症を軽減し、免疫細胞（特にマクロファージ）の表現型を抗炎症型へ転換させることを明らかにした。これにより、神経細胞分化促進と神経保護作用が発揮され、SCI修復が促進される機序を示した。"
+      },
+      {
+        "title": "Adhesive Microneedle-Nanosheets With Temporally Orchestrated Antimicrobial, Immunomodulatory, and Osteogenic Functions for Periodontal Regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41885240/",
+        "abstract": "An ideal guided bone regeneration (GBR) membrane must simultaneously maintain structural rigidity and adhesive properties for early space stabilization, defense against bacteria, efficiently manage inflammation and thus promote periodontal regeneration. Herein, we engineer a novel microneedle-nanosheet (MN) composite membrane that enables conformal adhesion to bone surfaces and sequentially targets the bacterial and inflammatory phases in periodontitis (PD). Upon implantation, with the instant degradation of the polyvinyl alcohol (PVA) layer, MN achieves adaptive adhesion to periodontal defect sites via nanoscale properties. Accelerated degradation of gelatin methacryloyl (GelMA) layer enables sustained antimicrobial peptide release to control periodontal pathogens, while slow degradation of microneedle facilitates sustained delivery of mesenchymal stem cell-derived exosomes. In vitro, MN exhibits favorable mechanical stability, potent antibacterial activity against periodontal pathogens, biocompatibility, and promotes osteogenesis/angiogenesis. In rat and beagle dog periodontal bone defect models, MN enhances immunomodulation, osteogenesis, and angiogenesis, resulting in significant alveolar bone regeneration. 16S rRNA sequencing reveals reduced abundance of PD-associated bacterial communities, while RNA sequencing analysis further demonstrates activation of immune signaling pathways. In summary, MN adapts to critical demands for next-generation GBR membranes that offer a dynamic, bio-integrated microenvironment for tissue healing and regeneration by enabling temporally regulation, from space maintenance to multiplexed biological functions.",
+        "source": "PubMed",
+        "doi": "10.1002/adma.72919",
+        "keyword": "Exosomes",
+        "title_ja": "接着性マイクロニードルナノシート：抗菌、免疫調節、骨再生を時間制御して歯周組織再生を促進する",
+        "summary_ja": "本研究では、歯周組織再生のための新規マイクロニードル・ナノシート複合膜（MN膜）を開発した。この膜は、骨表面への適応的粘着性を有し、ポリビニルアルコール層の即時分解により初期の空間維持を実現する。ゼラチンメタクリロイル層の速い分解により抗菌ペプチドを持続放出して歯周病原菌を制御し、マイクロニードルの緩徐な分解により間葉系幹細胞由来エクソソームを持続送達する。これにより、抗菌、免疫調節、骨形成・血管新生を時系列的に制御する。ラットとビーグル犬の歯周骨欠損モデルで、顕著な歯槽骨再生を確認し、次世代の誘導骨再生膜としての可能性を示した。"
+      },
+      {
+        "title": "Advances in vehicles for in situ delivery: From classical vectors to biologically inspired structures.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41884229/",
+        "abstract": "The emerging fields of synthetic biology and gene therapy rely on delivery systems to introduce the nucleic acids and proteins into recipient cells. Hence, the development of delivery tools with high specificity, strong manufacturability, and low immunogenicity can advance these fields. In this review, we summarize recent advances in the development of delivery systems for proteins and nucleic acids. First, we outline viral vector-based delivery tools, including lentivirus, adenovirus, and adeno-associated virus-based delivery technologies, discussing their advantages and limitations. Next, we summarize the advantages and disadvantages of non-viral vector-based delivery tools, including delivery strategies based on lipid nanoparticles, polyethyleneimine, exosomes, cell-penetrating peptides, virus-like particles, gold nanoparticles, and mesoporous silica nanoparticles. Lastly, we examine the specific principles and functional potential of novel delivery systems, including the Arc, PNMA2, SEND, PVC, and Coacervate systems. Overall, this review provides a systematic assessment of the mechanisms of action, current application progress, and future prospects for viral vectors, non-viral vectors, and novel delivery tools. Moreover, this review will serve as a reference for technological development and theoretical research in the fields of synthetic biology and gene therapy.",
+        "source": "PubMed",
+        "doi": "10.1016/j.synbio.2026.02.013",
+        "keyword": "Exosomes",
+        "title_ja": "in situデリバリーのための車両の進歩：古典的ベクターから生物学的に着想を得た構造体まで",
+        "summary_ja": "**要約**\n合成生物学や遺伝子治療の発展には、核酸やタンパク質を細胞内へ送達するシステムが不可欠である。本論文は、高特異性・高製造性・低免疫原性を備えたデリバリー技術の進展を概説する。まず、レンチウイルス、アデノウイルス等の**ウイルスベクター**の利点と限界を整理する。次に、脂質ナノ粒子、エクソソーム、細胞膜透過ペプチド等の**非ウイルスベクター**の特徴を比較する。さらに、Arc、PNMA2、SEND等の**新規デリバリーシステム**の原理と可能性を検討する。総じて、各システムの作用機序、応用状況、将来展望を体系的に評価し、今後の技術開発と理論研究の基盤を提供する。"
+      },
+      {
+        "title": "Changes in the microRNA cargo of granulosa cell-derived extracellular vesicles under oxidative stress in a bovine model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41882814/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s40659-026-00689-8",
+        "keyword": "Exosomes",
+        "title_ja": "ウシモデルにおける酸化ストレス下での顆粒膜細胞由来細胞外小胞のマイクロRNA含有量の変化",
+        "summary_ja": "**要約：**\n本論文は、酸化ストレス条件下におけるウシ顆粒膜細胞由来細胞外小胞（EV）のmicroRNA（miRNA）カーゴの変化を解析した。結果、酸化ストレスによりEVのmiRNA発現プロファイルが有意に変化し、細胞増殖、アポトーシス、酸化ストレス応答に関与する経路を標的とするmiRNAが濃縮された。これは、顆粒膜細胞がEVを介して卵胞内の細胞間コミュニケーションを変化させ、酸化ストレスへの適応的応答を調節する可能性を示唆する。"
+      },
+      {
+        "title": "Exosomal lncRNA DLEU2 aggravates inflammatory injury and apoptosis in pediatric viral pneumonia via the miR-330-5p.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41882791/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s41065-026-00665-y",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム由来lncRNA DLEU2は、miR-330-5pを介して小児ウイルス性肺炎の炎症性損傷とアポトーシスを増悪させる",
+        "summary_ja": "本論文は、小児ウイルス性肺炎におけるエクソソーム由来長鎖非コードRNA DLEU2の役割を検討した。DLEU2はmiR-330-5pを直接標的としてその発現を抑制し、その結果、炎症性損傷と細胞アポトーシスを増悪させることを明らかにした。このDLEU2/miR-330-5p軸は、疾患の病態進行に関与する新たな分子メカニズムとして提唱されている。"
+      },
+      {
+        "title": "Modulating tumor-associated macrophages through APP-CD74 blockade with IL4R-exosomes synergizes with PD-1 inhibition in gastric cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41882095/",
+        "abstract": "Gastric cancer (GC) is characterized by a highly immunosuppressive tumor microenvironment (TME), limiting the efficacy of immunotherapies. This study identifies the APP-CD74 signaling axis as a critical driver of M2-like tumor-associated macrophage (TAM) polarization in GC. Integrated single-cell RNA sequencing from the Gene Expression Omnibus (GEO) and The Cancer Genome Atlas (TCGA) datasets revealed selective enrichment of Amyloid Precursor Protein (APP)-CD74 signaling in immunosuppressive TAM subsets. Functional assays in THP-1-derived and murine bone marrow-derived macrophages confirmed that APP and CD74 activation promotes M2 polarization. In vivo, pharmacological inhibition of APP in GC-bearing mice repolarized TAMs toward the M1 phenotype, enhanced CD8⁺ T cell and NK cell responses, and significantly inhibited tumor growth. To enable targeted delivery, exosomes derived from M1 macrophages were engineered with IL4R-targeting ligands and loaded with APP-specific siRNA [IL4R-Exo(siCD74)], effectively targeting M2 macrophages and reversing their phenotype. In orthotopic GC models, IL4R-Exo(siCD74) markedly suppressed tumor progression. Strikingly, its combination with the immune checkpoint inhibitor Nivolumab synergistically boosted antitumor immunity and reshaped the immunosuppressive TME. These findings uncover the APP-CD74 axis as a novel immunoregulatory pathway in GC and provide a nanotherapeutic strategy leveraging macrophage plasticity to overcome immune resistance and enhance immunotherapeutic efficacy.",
+        "source": "PubMed",
+        "doi": "10.1038/s41698-025-01268-y",
+        "keyword": "Exosomes",
+        "title_ja": "胃がんにおけるPD-1阻害と相乗効果を示す、IL4R-エクソソームを用いたAPP-CD74遮断による腫瘍関連マクロファージの制御",
+        "summary_ja": "胃がんは免疫抑制的な腫瘍微小環境（TME）により免疫療法の効果が制限される。本研究は、APP-CD74シグナル経路がM2型腫瘍関連マクロファージ（TAM）の極性化を駆動することを明らかにした。APP阻害はTAMをM1型へ再極性化し、抗腫瘍免疫を促進した。標的送達のため、IL4R標識エクソソームにsiCD74を搭載し[IL4R-Exo(siCD74)]、M2マクロファージを特異的に標的として表現型を転換。これとニボルマブの併用は、相乗的に抗腫瘍免疫を増強し、TMEを再編した。APP-CD74軸は胃がんの新規免疫制御経路であり、マクロファージ可塑性を利用したナノ治療戦略を提供する。"
+      },
+      {
+        "title": "Oral wound healing in the elderly: Mechanisms, challenges, and innovations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41881503/",
+        "abstract": "This narrative synthesizes current knowledge on the biological mechanisms, clinical challenges, and regenerative innovations for optimizing intraoral wound healing in the elderly.",
+        "source": "PubMed",
+        "doi": "10.1111/prd.70027",
+        "keyword": "Exosomes",
+        "title_ja": "高齢者の口腔創傷治癒：メカニズム、課題、そして革新",
+        "summary_ja": "【要約】\n高齢者の口腔内創傷治癒は、加齢に伴う細胞機能低下、血管新生の減少、免疫・炎症反応の変化により、遷延化・不全化のリスクが高い。臨床的には、併存疾患や薬剤の影響、栄養状態が複雑に関与する。再生医療のイノベーションとして、成長因子療法、細胞療法、足場材料を用いた組織工学的アプローチが、治癒環境の改善を目指し研究されている。"
+      },
+      {
+        "title": "Exosomes derived from TGF-β1-modified mesenchymal stem cells protect septic mice by inducing macrophage M2 polarization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41880049/",
+        "abstract": "Exosomes derived from mesenchymal stem cells (MSCs) have been reported to improve the prognosis in septic mice. Additionally, we have confirmed that TGF-β1 plays a critical role in MSC-mediated protection against sepsis. In this study, we aimed to investigate whether exosomes derived from TGF-β1-overexpressing MSCs (TGF-β1-Exo) offer protective effects in sepsis.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-11715-z",
+        "keyword": "Exosomes",
+        "title_ja": "TGF-β1修飾間葉系幹細胞由来エクソソームは、マクロファージのM2極性化を誘導することで敗血症マウスを保護する",
+        "summary_ja": "**要約**\nTGF-β1遺伝子を導入して形質転換した間葉系幹細胞（MSC）から抽出したエクソソーム（TGF-β1-Exo）は、敗血症マウスモデルにおいて保護効果を示した。その機序として、TGF-β1-Exoがマクロファージを炎症抑制型（M2型）へと分化誘導（極性化）することが確認された。本研究は、TGF-β1を強化したMSC由来エクソソームが、敗血症治療の新たな戦略となり得ることを示唆している。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Small and Large Extracellular Vesicles in Circulation of Diffuse Large B-Cell Lymphoma Patients Originate From Different Cell Types of the Tumor Microenvironment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41885389/",
+        "abstract": "Malignant and non-malignant cells within the tumor microenvironment (TME) actively secrete extracellular vesicles (EVs) that may mediate intercellular communication or enter the blood stream. Circulating EVs in Diffuse Large B-Cell Lymphoma (DLBCL) patients are a promising source of liquid biopsy biomarkers; however, whether different cellular components of the TME preferentially secrete small (S-) and/or large (L-) EVs is still unknown. With an established density-gradient separation protocol and tunable resistive pulse sensing analysis, we demonstrate that DLBCL cells in culture produce 100-1000-fold higher numbers of S-EVs (50-200 nm) compared with L-EVs (200-1000 nm) and very large EVs (>1000 nm). In contrast, the plasma from DLBCL patients contains comparable concentrations of S- and L-EVs, consistent with various cellular origins. Small RNA sequencing showed minor differences in miRNA content between plasma S- and L-EVs; however, messenger RNA sequencing revealed stark differences in cargo between EV-size subtypes and between healthy donors and patients. Deconvolution analysis with single-cell sequencing data from 17 DLBCL tumor tissues as reference using the Statescope algorithm indicated that circulating S-EVs from malignant cells outnumber the L-EVs. In contrast, TME macrophage-, T cell-, and natural killer-derived L-EVs outnumber S-EVs. Together, these findings suggest that circulating S- and L-EVs can originate from distinct cellular compartments within the DLBCL TME, representing complementary biological information. These observations have important implications for the development of EV-based liquid biopsy strategies.",
+        "source": "PubMed",
+        "doi": "10.1002/jev2.70259",
+        "keyword": "sEVs",
+        "title_ja": "びまん性大細胞型B細胞リンパ腫患者の循環中における小型および大型細胞外小胞は、腫瘍微小環境の異なる細胞種に由来する",
+        "summary_ja": "**要約**\n悪性および非悪性細胞は腫瘍微小環境（TME）内で細胞外小胞（EV）を分泌する。培養DLBCL細胞は主に小径EV（S-EV）を産生するが、患者血漿中のS-EVと大径EV（L-EV）濃度は同等であった。RNAシーケンスと単一細胞データを用いたデコンボリューション解析により、血中S-EVは主に悪性細胞に、L-EVはマクロファージやT細胞などのTME細胞に由来することが示された。これらは異なる細胞区画に由来する相補的な情報を含み、EVベースのリキッドバイオプシー開発に重要な示唆を与える。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. Klothoの腎保護作用と代償応答**\nTMT曝露ラットでKlotho発現上昇が確認され、腎障害に対する代償的保護反応の可能性を示唆。抗老化・腎保護因子としての役割が再認識され、急性腎障害の新規バイオマーカーや治療標的としての応用が期待される。\n\n**2. CAR-NK細胞療法の最適化戦略**\n血液がん治療において、CAR-Tよりオフターゲット毒性・GVHDリスクが低いCAR-NK療法が進展。供給源（iPS細胞など）や遺伝子改変技術の多様化により、製造拡大と効果持続が課題。固形がんへの応用も視野。\n\n**3. エクソソームによる腫瘍微小環境制御**\nCAF由来エクソソームが大腸癌の治療抵抗性に関与。また、IL4R修飾エクソソームによるTAM再教育とPD-1阻害の相乗効果が胃がんで示され、エクソソームを利用した免疫療法併用が新潮流。\n\n**4. 細胞外小胞（EV）のサイズ別機能解析**\nDLBCL患者血漿中で、小径EVと大径EVが異なる細胞由来であることが判明。EVサイズごとのカーゴと機能の違いを理解することが、リキッドバイオプシーや治療応用の精度向上に不可欠。\n\n**5. 生体適合性デリバリーシステムの進化**\n赤血球を介したmRNAデリバリー（mRNA-LNP-Ery）により、in vivoでCAR骨髄系細胞を生成するプラットフォームが開発。非ウイルス性で安全な細胞療法の実現に道を開く。"
+}

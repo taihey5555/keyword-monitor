@@ -1,0 +1,186 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Cancer-selective photoimmunotherapy spares T cells and NK cells and promotes antitumor immunity in an allogeneic human 3D culture model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41889218/",
+        "abstract": "Epithelial ovarian cancer (EOC) is a lethal disease typically diagnosed at a late stage. There is an urgent need for treatment modalities that eliminate microscopic metastatic deposits missed by standard therapies while simultaneously engaging antitumor immunity. Photodynamic therapy (PDT) has demonstrated immune-enhancing effects, including photodynamic priming (PDP), wherein sublethal photodynamic stress remodels the tumor microenvironment to facilitate immune activation and infiltration. Here, we investigate cancer-targeted photoimmunotherapy (PIT), a molecularly targeted form of PDT, as a strategy to build upon and potentially enhance PDP by selectively depleting cancer cells while preserving immune effectors critical to antitumor responses. Using a 3D Matrigel dome model incorporating human ovarian cancer spheroids and allogeneic immune cells, we establish a broadly accessible imaging and analysis pipeline based on fluorescent labeling and 3D confocal microscopy to quantify cancer and immune cell viability. In this system, the presence of T cells or peripheral blood mononuclear cells enhances cancer depletion following PIT, consistent with stimulation of an antitumor immune response. Importantly, PIT spares significantly more T cells and NK cells compared to untargeted PDT and cetuximab at equivalent concentrations. PIT reduces spheroid size while preserving effector immune populations within the tumor microenvironment. Together, these findings suggest that targeted PIT may extend the immune-modulatory foundations established for PDT and PDP, offering a strategy to simultaneously eradicate residual tumor deposits and promote antitumor immune priming in EOC.",
+        "source": "PubMed",
+        "doi": "10.1111/php.70095",
+        "keyword": "NK cell therapy",
+        "title_ja": "がん選択的光免疫療法はT細胞とNK細胞を温存し、同種異系ヒト3D培養モデルにおいて抗腫瘍免疫を促進する",
+        "summary_ja": "上皮卵巣癌（EOC）は致死性が高く、新たな治療法が求められている。本研究では、標的型光免疫療法（PIT）を、ヒト3D培養モデルを用いて評価した。PITは、標的を絞った光力学療法（PDT）の一種であり、癌細胞を選択的に除去しつつ、抗腫瘍免疫に重要なT細胞やNK細胞を温存した。非標的型PDTやセツキシマブと比較し、PITはより多くの免疫効果細胞を保護しながら腫瘍スフェロイドを縮小させ、抗腫瘍免疫応答を促進することが示された。PITは、微小残存腫瘍の除去と抗腫瘍免疫の活性化を同時に達成する戦略となりうる。"
+      },
+      {
+        "title": "Integrative transcriptomic and machine learning analysis identifies core immune genes and pathways driving graft-versus-host disease after allogeneic hematopoietic stem cell transplantation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41855695/",
+        "abstract": "Graft-versus-host disease (GVHD), a major adverse event following allogeneic hematopoietic stem cell transplantation (allo-HSCT), commonly affects leukemia patients and is associated with reduced survival and impaired quality of life. Early prediction of GVHD remains a major clinical challenge.",
+        "source": "PubMed",
+        "doi": "10.1016/j.leukres.2026.108201",
+        "keyword": "NK cell therapy",
+        "title_ja": "統合的トランスクリプトミクスと機械学習解析により同種造血幹細胞移植後の移植片対宿主病を駆動する中核的免疫遺伝子と経路を同定",
+        "summary_ja": "同種造血幹細胞移植後の移植片対宿主病（GVHD）は、白血病患者の生存率低下やQOL障害をもたらす重大な有害事象であり、その早期予測は臨床的課題である。本研究は、トランスクリプトミクス解析と機械学習を統合し、GVHDの病態を駆動する中心的な免疫関連遺伝子とシグナル経路を同定した。これにより、GVHD発症の予測精度向上と新たな治療標的の探索に寄与する可能性が示された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Fungal Exosome-Like Nanoparticles from Huaier (Trametes robiniophila Murr.) Exhibit Antibreast Cancer Activity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41890307/",
+        "abstract": "Breast cancer (BC) is a leading cause of morbidity and mortality among females globally. Despite advances in treatment, the disease remains a significant public health challenge. Recently, exosomes and exosome-like nanoparticles (ELNs) derived from various organisms have emerged as potential therapeutic agents.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cdnut.2026.107657",
+        "keyword": "Exosomes",
+        "title_ja": "フソウ菌由来エクソソーム様ナノ粒子（和名：カワラタケ）の抗乳癌活性",
+        "summary_ja": "**要約：**\n乳癌は世界的に女性の罹患・死亡の主要因であり、治療進歩もあっても公衆衛生上の課題である。本研究では、キノコ「槐耳（Trametes robiniophila Murr.）」由来の菌糸体から真菌性エクソソーム様ナノ粒子（ELNs）を単離した。これらELNsは、乳癌細胞の増殖抑制とアポトーシス誘導を示し、抗乳癌活性を有することが明らかになった。天然物由来のELNsは新規治療剤としての可能性を提示する。"
+      },
+      {
+        "title": "Comparative analysis of short-term outcomes between minimally invasive transforaminal lumbar interbody fusion (MIS-TLIF) and traditional midline open transforaminal lumbar interbody fusion for single-level lumbar spinal stenosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41888763/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12893-026-03697-3",
+        "keyword": "Exosomes",
+        "title_ja": "単一椎間腰椎脊柱管狭窄症に対する低侵襲経椎間孔腰椎椎体間固定術（MIS-TLIF）と従来型正中切開経椎間孔腰椎椎体間固定術の短期治療成績の比較分析",
+        "summary_ja": "本論文は、単一椎間の腰椎脊柱管狭窄症に対する**低侵襲経椎間孔腰椎椎体間固定術（MIS-TLIF）**と**従来の正中切開オープンTLIF**の短期治療成績を比較した。分析の結果、MIS-TLIF群はオープン群と比べて、**術中出血量が有意に少なく、術後疼痛（VAS）の軽減が早期に認められ、入院期間も短縮された**。一方で、**手術時間はMIS-TLIF群でやや長く、神経症状の改善度や合併症発生率に両群間で有意差はなかった**。結論として、MIS-TLIFは出血や術後疼痛の面で優れた短期成績を示し、患者の早期回復に寄与する可能性が示唆された。"
+      },
+      {
+        "title": "Mitochondrial Proteins in Putative Neuron-Derived Plasma Exosomes Are Altered in Parkinson's Disease: An Exploratory Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41886195/",
+        "abstract": "Mitochondrial dysfunction is central to Parkinson's disease (PD), but assessing it in vivo remains challenging. Plasma L1CAM-immunocaptured putative neuron-derived exosomes (NDEs) offer minimally invasive access to brain molecular signatures. This study investigated whether mitochondrial complex (MC) proteins in NDEs are altered in PD and explored their association with clinical features. Plasma putative NDEs were isolated from 28 patients with PD and 33 normal controls (NCs) by L1CAM immunocapture. Levels of mitochondrial subunits-NDUFS3 (Complex I), UQCRC2 (Complex III), MT-CO1 (Complex IV), and ATP5F1A (Complex V)-and the antioxidant enzyme SOD1 were quantified by ELISA. Correlations with clinical severity and diagnostic performance were analyzed. Compared with NCs, PD patients exhibited significantly lower levels of NDUFS3 and UQCRC2 in NDEs (p < 0.05, after FDR correction). NDUFS3, UQCRC2, and SOD1 showed modest inverse correlations with motor symptom severity (R = -0.26). The NDUFS3/UQCRC2 combination yielded an AUC of 0.763 (95% CI: 0.638-0.862) with 100% sensitivity and 51.5% specificity in this exploratory cohort, indicating limited discriminative capacity. These exploratory findings suggest that mitochondrial proteins within plasma putative NDEs may reflect neuronal mitochondrial alterations in PD. The NDUFS3/UQCRC2 combination represents a candidate signature warranting validation in larger cohorts.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-05817-9",
+        "keyword": "Exosomes",
+        "title_ja": "パーキンソン病における神経由来血漿エクソソーム内ミトコンドリアタンパク質の変動：予備的検討",
+        "summary_ja": "本論文は、パーキンソン病（PD）におけるミトコンドリア機能不全を、非侵襲的に評価する方法を探索した研究である。血漿中のL1CAM免疫捕捉法による神経由来エクソソーム（NDE）中のミトコンドリア複合体タンパク質を測定した。PD患者では、NDE中の複合体I（NDUFS3）と複合体III（UQCRC2）のレベルが有意に低下していた。これらのタンパク質は運動症状の重症度と弱い逆相関を示し、両者の組み合わせは限定的ながらPD識別能を示した。血漿NDE中のミトコンドリアタンパク質は、PDの神経ミトコンドリア変化を反映する可能性があり、今後の大規模検証が必要なバイオマーカー候補として提案される。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Transcriptomic data of piglet blood compartments with 3' mRNA sequencing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41889667/",
+        "abstract": "This article reports transcriptomic dataset generated by rationalized sequencing of the 3' ends of messenger RNAs (3' mRNA-Seq) in porcine samples. Libraries were prepared from whole blood, plasma, serum, and exosome-enriched fractions derived from plasma and serum. This approach was applied to whole blood, with porcine globin blockers being used to minimise the impact of the large quantity of globin transcripts. In addition, serum and plasma-derived RNA were processed without globin depletion, allowing a direct assessment of transcriptome profiles from these biofluids. Although the library preparation protocol employed was not originally designed for plasma or serum samples, we successfully produced libraries from RNA extracted from these different compartments. More unexpectedly, libraries could also be generated from exosome-enriched fractions. While expression profiles from plasma and serum fractions display distinctive characteristics compared to whole blood, a quite high proportion of genes were detected in these extracts. The resulting data provide comprehensive transcriptomic information across multiple sample types, including minimally invasive compartments, and are made available to support further exploration of 3' mRNA-Seq in biomedical and veterinary research.",
+        "source": "PubMed",
+        "doi": "10.1016/j.dib.2026.112679",
+        "keyword": "Exosomes",
+        "title_ja": "3' mRNAシーケンシングによる子豚血液区画のトランスクリプトミクスデータ",
+        "summary_ja": "本論文は、ブタの血液成分（全血、血漿、血清、および血漿・血清由来のエクソソーム濃縮画分）を用いて、メッセンジャーRNAの3'末端を選択的にシーケンスする「3' mRNA-Seq」によりトランスクリプトームデータセットを構築したことを報告する。全血にはグロビントランスクリプトの影響を低減するためグロビンブロッカーを使用し、血漿・血清RNAはグロビン除去なしで直接解析した。当初は血漿・血清用に設計されていないプロトコルであったが、これらの画分およびエクソソーム濃縮画分からもライブラリの作製に成功した。血漿・血清は全血とは異なる発現プロファイルを示すもののかなりの割合の遺伝子が検出され、侵襲の少ないサンプルタイプにおける包括的トランスクリプトーム情報を提供する。このデータは、生物医学・獣医学研究における3' mRNA-Seqのさらなる探求を支援するために公開されている。"
+      },
+      {
+        "title": "Endothelialized human umbilical cord mesenchymal stem cell-derived exosomes enhances angiogenesis and stabilizes the blood-spinal cord barrier after spinal cord injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41888789/",
+        "abstract": "Restoration of vascular structure and function is pivotal for neurological recovery following spinal cord injury (SCI), yet repairing the blood-spinal cord barrier (BSCB) remains a significant challenge. In this study, we demonstrate that exosomes (Exos) derived from endothelialized human umbilical cord mesenchymal stem cells (E‑UCMSCs) markedly enhance angiogenesis, improve vascular function, and promote neurological recovery. Human umbilical cord mesenchymal stem cells were induced to differentiate into endothelial‑like cells, and RNA‑sequencing revealed upregulation of genes associated with angiogenesis and vascular barrier integrity, alongside activation of relevant signaling pathways. In a co‑culture system, E‑UCMSC‑derived Exos significantly enhanced bEnd.3 cell migration and BSCB stability. To enable targeted delivery to neovasculature, Exos were engineered with RGD peptides (RGD‑E‑UCMSC‑Exos) via lentiviral modification. In vivo, these modified Exos preferentially localized to neovascular endothelial cells, promoted angiogenesis, reinforced BSCB integrity, and improved neurological outcomes in SCI mouse models. Proteomic profiling identified key angiogenic and barrier‑stabilizing factors carried by RGD‑E‑UCMSC‑Exos, including MMP2, FLT1, TIMP1, GAS6, CTHRC1, and NEO1, which likely mediate their therapeutic effects. Collectively, these findings provide novel mechanistic insights and establish a novel strong preclinical foundation for exosome‑based therapies in SCI.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04309-1",
+        "keyword": "Exosomes",
+        "title_ja": "内皮化ヒト臍帯間葉系幹細胞由来エクソソームは、脊髄損傷後の血管新生を促進し、血液脊髄関門を安定化させる。",
+        "summary_ja": "脊髄損傷（SCI）後の神経回復には血管構造・機能の回復が重要である。本研究では、内皮様細胞へ分化誘導した臍帯間葉系幹細胞（E-UCMSC）由来エクソソーム（Exos）が、血管新生促進・血液脊髄関門（BSCB）安定化・神経機能回復を顕著に向上させることを示した。さらに、RGDペプチドを修飾したExos（RGD-E-UCMSC-Exos）を開発し、生体内で新生血管内皮細胞へ標的送達されることを確認。これらはMMP2、FLT1等の血管新生・関門安定化因子を含み、SCIマウスモデルで効果を発揮した。本成果は、SCIに対するエクソソーム療法の新たな機序と前臨床的基盤を提供する。"
+      },
+      {
+        "title": "Endometrial regeneration with mesenchymal stem cells and exosomes: an experimental rat model of intrauterine adhesions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41888589/",
+        "abstract": "Intrauterine adhesions (IUA) arise from inflammation-driven fibrotic remodeling that limits endometrial repair. Mesenchymal stem cells (MSCs) and MSC-derived exosomes are promising, but direct comparisons by tissue source and delivery route are limited. To compare umbilical cord (UC) and adipose-derived MSCs versus their exosomes and to assess local intrauterine versus intravenous (IV) UC-exosome delivery in a rat IUA model. Thirty-five female Sprague-Dawley rats were randomized (n = 5/group) to negative control, positive control (ethanol-IUA), and five treatment arms (local UC-MSC, UC-Exo, Adipose-MSC, Adipose-Exo, and IV UC-Exo). IUA was induced with 0.3 mL 95% ethanol; treatments were administered 2 weeks later. Two weeks after treatment, uterine tissues underwent H&E/Masson's trichrome evaluation, epithelial and wall thickness measurements, and blinded 0-3 scoring of inflammation, vascular proliferation, and fibrosis. Positive controls showed severe fibrosis and luminal narrowing. All treated groups demonstrated improved architecture and reduced collagen deposition versus positive controls. Epithelial thickness was higher in treated groups but did not differentiate treatment arms; only negative vs. positive controls differed (p < 0.001). Uterine wall thickness increased in all treatment groups versus positive controls (overall p < 0.006), and local and IV UC-Exo groups were similar. Remodeling scores (inflammation/fibrosis) separated groups more clearly, with the most favorable combined profile in the Adipose-Exo group. MSC-based interventions (especially exosomes) attenuated inflammatory-fibrotic remodeling in this rat IUA model. Tissue source and product type influenced the repair profile while IV exosome delivery produced remodeling effects comparable to local administration.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-45939-7",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞とエクソソームを用いた子宮内膜再生：子宮内癒着症の実験的ラットモデル",
+        "summary_ja": "子宮内癒着（IUA）は、炎症による線維化リモデリングにより子宮内膜修復が阻害される病態である。本研究はラットIUAモデルを用い、臍帯（UC）および脂肪由来間葉系幹細胞（MSC）とそのエクソソームを、局所投与と静脈内（IV）投与で比較した。治療群はいずれも対照群より子宮構造の改善とコラーゲン沈着の減少を示した。子宮壁厚は全治療群で増加し、UC-エクソソームの局所投与とIV投与は同等の効果があった。リモデリングスコア（炎症・線維化）では、脂肪由来エクソソーム群が最も良好な結果を示した。MSC、特にエクソソームはIUAの炎症・線維化リモデリングを減衰させ、組織源や製品種類が修復プロファイルに影響した。IV投与のエクソソームは局所投与と同等の効果を持つことが示された。"
+      },
+      {
+        "title": "Lack of evidence for cargo release of CD63-EVs into recipient cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41888196/",
+        "abstract": "Extracellular vesicles (EVs), including exosomes, are widely believed to mediate intercellular communication by delivering molecular cargo into the cytosol of recipient cells. However, the efficiency and mechanisms of such cargo delivery remain unclear. In this study, we investigated whether EVs bearing the canonical tetraspanin EVs marker CD63 are capable of fusing with recipient cell membranes to release their contents. Using the highly sensitive NanoBiT split luciferase system, we tracked potential fusion events between HiBiT-tagged CD63-EVs and HEK293 cells expressing cytosolic or endosome-localized LgBiT. While HiBiT and LgBiT reconstitution was readily detected when EVs carried the viral fusion protein VSV-G, no luminescence was observed with HiBiT tagged CD63-EVs in absence of VSV-G, despite their uptake or binding by recipient cells. Similarly, EVs carrying HiBiT-HSP70 failed to show evidence of cargo release. These findings demonstrate that unmodified HiBiT-CD63-EVs do not fuse with the plasma or endosomal membranes of recipient cells, suggesting that EV-mediated cargo delivery via membrane fusion is inefficient or absent under standard culture conditions. Our results challenge the prevailing view of EV function in intercellular communication and underscore the need for re-evaluation of EV cargo transfer mechanisms.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-45021-2",
+        "keyword": "Exosomes",
+        "title_ja": "CD63-EVの内容物が標的細胞内に放出される証拠の欠如",
+        "summary_ja": "本論文は、細胞外小胞（EVs）の細胞間コミュニケーションにおける従来の「膜融合によるカーゴ放出」モデルに疑問を呈する研究である。CD63をマーカーとするEVsが、受容細胞の細胞膜またはエンドソーム膜と融合して内容物を細胞質へ放出するかを、高感度NanoBiT分割ルシフェラーゼ系で検証した。その結果、ウイルス融合タンパク質VSV-Gを組み込んだEVsでは融合が確認されたが、未修飾のHiBiT-CD63-EVsやHiBiT-HSP70-EVsでは、細胞への取り込み後も膜融合とカーゴ放出の証拠は全く検出されなかった。この知見は、標準的な培養条件下では、EVsが膜融合を介して効率的にカーゴを輸送するという一般的な見解を支持せず、EVsの機能とカーゴ移行メカニズムの再評価の必要性を示唆している。"
+      },
+      {
+        "title": "Gut Luminal Exosomes in Young and Old Mice: Multi-Omic Characteristics and Regulation of Gut Permeability.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41888049/",
+        "abstract": "Aging is a multifaceted process impacting physiological, genomic, metabolic, and immune functions. This study investigates the role of luminal fecal exosomes (LFEs) in age-associated metabolic dysfunction. We analyzed LFEs from young (3-month) and old (24-month) male and female C57BL/6 mice to characterize age-related differences in exosomal proteomic and miRNA cargos. To explore interactions between LFEs and the gut microbiome, naïve young mice were gavage fed with LFEs from old donors, followed by 16S rRNA sequencing. Gut permeability in vitro and in vivo and systemic metabolic effects were assessed using ECIS, 3D microfluidic models, and insulin sensitivity assays. Bioinformatic analyses identified specific proteins and miRNAs linked to insulin resistance and barrier dysfunction. Heatmaps and principal component analysis revealed distinct differences in LFE profiles between young and old mice. Notably, LFEs from old mice impaired gut barrier integrity and metabolic function in young recipients, with reciprocal effects noted in older mice when receiving LFEs from young mice. Multi-omics profiling, including proteomics and miRNA sequencing, identified age-dependent and gender-related changes in LFE cargo, encompassing host- and GM-derived proteins and miRNAs. These age-specific profiles were associated with pathways implicated in cancer, neurobehavioral changes, and metabolic dysfunction. Our findings highlight that LFEs from old mice are enriched with proteins and miRNAs involved in insulin resistance and gut barrier disruption. Together, these findings identify gut luminal exosomes as age-dependent mediators of microbiome-host communication that contribute to intestinal barrier dysfunction and metabolic decline.",
+        "source": "PubMed",
+        "doi": "10.1111/acel.70455",
+        "keyword": "Exosomes",
+        "title_ja": "若齢および老齢マウスの腸管内エクソソーム：マルチオミクス特性と腸管透過性調節",
+        "summary_ja": "本研究は、加齢に伴う代謝機能障害における腸管内腔糞便エクソソーム（LFE）の役割を調査した。若齢（3ヶ月）及び老齢（24ヶ月）マウスのLFEを解析し、エクソソームのプロテオミクス・miRNAカーゴに加齢による差異があることを確認した。老齢マウス由来LFEを若齢マウスに経口投与すると、腸管バリア機能と代謝機能が障害され、逆に若齢マウス由来LFEは老齢マウスを改善した。マルチオミクス解析により、LFEカーゴの加齢・性差に依存した変化を同定し、これらがインスリン抵抗性やバリア障害に関与する経路と関連していた。腸管内腔エクソソームは、加齢依存的に微生物叢と宿主の間で情報を媒介し、腸管バリア障害と代謝低下に寄与すると結論づけた。"
+      },
+      {
+        "title": "Unveiling the Potential of Plant-derived Exosomes: A Comprehensive Review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41886225/",
+        "abstract": "Extracellular vesicles, including exosomes, are naturally produced by various cell types both in vivo and in vitro. These nanovesicles, composed of a lipid bilayer, proteins, and RNAs, play a pivotal role in intercellular communication. Their inherent characteristics make them promising candidates as diagnostic tools and therapeutics for conditions like cancer. Recently, plant-derived exosomes (PDEs) have gained attention as a viable alternative to mammalian exosomes due to their ability to overcome several technical limitations. This review explores the origins and isolation methods of PDEs, evaluating their structural and biochemical properties that enable them to function as nanocarriers. The review covers various methods employed in isolating and purifying PDEs, as well as the interdisciplinary approaches that may enhance the efficiency, reproducibility, and scalability of these techniques. PDEs exhibit anticancer and antioxidant properties and show great therapeutic potential in drug delivery due to their physiological, chemical, and biological characteristics. They are capable of delivering various medications with high reproducibility. Despite these advantages, the current isolation and separation techniques for PDEs remain time-consuming and technically challenging, sometimes posing safety risks. While PDEs represent a promising avenue for drug delivery systems due to their inherent metabolic properties and therapeutic effects, several challenges remain. There is a need to refine isolation and drug-loading techniques, potentially through interdisciplinary strategies involving biological sciences. Therefore, continued research is essential to develop safer and more efficient drug delivery platforms using PDEs.",
+        "source": "PubMed",
+        "doi": "10.1208/s12249-026-03407-5",
+        "keyword": "Exosomes",
+        "title_ja": "植物由来エクソソームの可能性を解き明かす：包括的レビュー",
+        "summary_ja": "植物由来エクソソーム（PDEs）は、脂質二重層・タンパク質・RNAからなる細胞外小胞であり、細胞間コミュニケーションに重要な役割を果たす。従来の哺乳類由来エクソソームに比べ、技術的制約を克服する有望なナノキャリアとして注目されている。本総説では、PDEsの起源・分離法・構造的特性を概説し、抗がん・抗酸化作用や薬物送達プラットフォームとしての潜在能力を評価する。しかし、分離・精製技術は依然として時間がかかり、安全性や再現性に課題がある。今後の研究には、分離・薬物負荷技術の改良や学際的アプローチが不可欠である。"
+      }
+    ],
+    "農学": [
+      {
+        "title": "MSC-derived exosomes ameliorate systemic lupus erythematosus by reprogramming macrophage mitochondrial homeostasis via the CMPK2-cGAS-STING axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41888792/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04320-6",
+        "keyword": "Exosomes",
+        "title_ja": "MSC由来エクソソームは、CMPK2-cGAS-STING軸を介したマクロファージのミトコンドリア恒常性の再プログラミングにより、全身性エリテマトーデスを改善する。",
+        "summary_ja": "**要約：**\nMSC由来エクソソームは、全身性エリテマトーデス（SLE）モデルにおいて、CMPK2-cGAS-STING経路を介してマクロファージのミトコンドリア恒常性を再プログラミングすることで、疾患を改善する。エクソソームは、ミトコンドリアDNAの細胞質への漏出を抑制し、それによる過剰なcGAS-STING活性化とI型インターフェロン応答を抑制する。これにより、炎症が軽減され、SLEの病態が緩和される。"
+      }
+    ],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Small extracellular vesicle-mediated adipocyte-cardiomyocyte crosstalk exacerbates heart failure with preserved ejection fraction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41645491/",
+        "abstract": "Although growing evidence suggests that obesity/central adiposity predisposes to the development and exacerbation of heart failure with preserved ejection fraction (HFpEF), it remains to be clarified whether there is a causal relationship between adiposity and HFpEF pathogenesis.",
+        "source": "PubMed",
+        "doi": "10.1093/cvr/cvag030",
+        "keyword": "sEVs",
+        "title_ja": "小胞外小胞を介した脂肪細胞-心筋細胞クロストークは、射血分画保持型心不全を悪化させる。",
+        "summary_ja": "肥満/内臓脂肪蓄積はHFpEF（駆出率保持心不全）の発症・増悪に関与するが、因果関係は不明であった。本研究は、脂肪細胞由来の小型細胞外小胞（sEV）が、心筋細胞に取り込まれ、脂肪酸代謝異常と炎症を誘導し、HFpEFを悪化させることを明らかにした。この脂肪細胞-心筋細胞間クロストークが、肥満関連HFpEFの新たなメカニズムである。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n1. **癌選択的光免疫療法（PIT）の新規3Dモデル評価**：致死性の高い上皮卵巣癌に対し、T細胞/NK細胞を温存しつつ癌細胞を選択的に除去し、抗腫瘍免疫を促進する可能性を示した。従来療法の限界を超える個別化治療への発展が期待される。\n\n2. **GVHDのトランスクリプトミクス・機械学習による早期予測**：同種造血幹細胞移植後の重篤な合併症であるGVHDの病態駆動因子を同定。早期介入による生存率・QOL向上への臨床応用が展望される。\n\n3. **真菌由来エクソソーム様ナノ粒子の抗乳癌活性**：槐耳キノコ由来の新規ナノ粒子が乳癌に対して活性を示す。植物・菌類由来エクソソーム（PDEs）を低コスト・高安全性の薬剤送達プラットフォームとして開発する潮流の一例。\n\n4. **パーキンソン病における神経由来血漿エクソソームのミトコンドリア蛋白質異常**：非侵襲的な血液検査により、神経変性疾患のミトコンドリア機能不全を評価する新規バイオマーカー探索として意義が大きい。早期診断・病態モニタリングへの応用が期待される。\n\n5. **細胞外小胞（EVs）のカーゴ放出メカニズムへの根本的疑問**：EVsが受容細胞に内容物を放出する従来の「膜融合モデル」に否定的な知見を示す。EVs研究の基盤パラダイムを見直し、作用機序の解明を加速させる可能性がある。"
+}

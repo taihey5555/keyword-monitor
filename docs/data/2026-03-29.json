@@ -1,0 +1,118 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Harnessing semen-derived exosomes for noninvasive fundus drug delivery: A paradigm for exosome-based ocular fundus therapeutics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41894499/",
+        "abstract": "Exosomes, despite their promise as drug carriers for crossing biological barriers, remain underexplored for noninvasive posterior ocular delivery. Here, we demonstrate that semen-derived exosomes (SEVs) penetrate ocular barriers effectively, owing to their epidermal growth factor expression, which mediates reversible tight-junction disruption. SEVs reach the posterior segment via dual corneal and conjunctival routes. Using this, we engineered FA-SEVs@CMG eye drops, where SEVs are modified with folic acid (FA) and loaded with a nanozyme system (CMG) composed of carbon dots, manganese dioxide, and glucose oxidase. This eye drop leverages SEVs' excellent penetration ability and FA's targeting effect to enhance drug delivery to retinoblastoma (RB) cells. Internalized CMG induces intense oxidative stress, disrupts the autophagy-apoptosis balance, and triggers RB cell self-destruction. In vivo, FA-SEVs@CMG effectively inhibits RB growth while preserving retinal function. This work establishes the first SEV-based platform for noninvasive posterior segment delivery, offering a transformative strategy for treating posterior ocular diseases.",
+        "source": "PubMed",
+        "doi": "10.1126/sciadv.adw7275",
+        "keyword": "Exosomes",
+        "matched_keywords": [
+          "Exosomes",
+          "sEVs"
+        ],
+        "title_ja": "精液由来エクソソームを利用した非侵襲的眼底薬物送達：エクソソームベース眼底治療の新たなパラダイム",
+        "summary_ja": "**要約：**\n精液由来エクソソーム（SEV）は、上皮成長因子発現により眼のバリアを可逆的に通過し、後眼部へ到達する。本研究では、SEVを葉酸（FA）で修飾し、酸化ストレス誘導ナノザイム（CMG）を搭載した点眼薬FA-SEVs@CMGを開発。FAの標的効果とSEVの浸透性により網膜芽細胞腫（RB）細胞へ選択的に送達され、内部化されたCMGが強い酸化ストレスを誘導し、オートファジー-アポトーシス平衡を破綻させてRB細胞を死滅させる。非侵襲的な後眼部治療の新規プラットフォームを確立した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Overcoming lysosomal barrier via V-ATPase: an exosome-based co-delivery platform for combined chemo/RNAi therapy against breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41896932/",
+        "abstract": "Overcoming the lysosomal entrapment of nanotherapeutics remains a pivotal challenge for efficient drug delivery. Herein, we developed a nano-delivery system, designated as CEL-TPP@siSurvivin/TDNP NPs, consisting of a self-assembled nanocore formed by triphenylphosphine (TPP)-modified celastrol (CEL) and siSurvivin, encapsulated within turmeric-derived nanoparticles (TDNPs), for effective tumor treatment through a combined chemotherapy and gene therapy approach. The TPP modification confers mitochondrial targeting capability to CEL, which acts combinedly with siSurvivin-mediated gene silencing to significantly enhance tumor cell apoptosis. Notably, once the NPs enter cells and become sequestered within lysosomes, they induce the upregulation of the V-ATPase subunits ATP",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04311-7",
+        "keyword": "Exosomes",
+        "title_ja": "V-ATPaseを介したリソソーム障壁の克服：乳癌に対する化学療法/RNAi併用療法のためのエクソソームベース共送達プラットフォーム",
+        "summary_ja": "本論文は、乳癌に対する化学療法と遺伝子療法を組み合わせた治療のため、リソソーム内トラップを克服する新規ナノデリバリーシステム「CEL-TPP@siSurvivin/TDNP NPs」を開発した。このシステムは、トリフェニルホスフィン（TPP）修飾セラストロール（CEL）とsiSurvivinからなるナノコアをウコン由来ナノ粒子（TDNP）で被覆した構造を持つ。TPP修飾によりCELはミトコンドリアを標的化し、siSurvivinによる遺伝子サイレンシングと相乗的に腫瘍細胞のアポトーシスを促進する。特に、リソソームに捕捉されたナノ粒子はV-ATPaseサブユニットATP6V0C/Dの発現を誘導し、リソソーム膜の透過性を高めて脱出を可能にすることで、薬剤送達効率を大幅に向上させた。"
+      },
+      {
+        "title": "Hypoxia‑induced exosomal CAMTA1 promotes radio‑resistance in MDA‑MB‑231 cells by regulating NRG1 to mediate M2 macrophage polarization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41891984/",
+        "abstract": "Radiotherapy remains an irreplaceable treatment modality for breast cancer (BC). Calmodulin‑binding Transcription Activator 1 (CAMTA1) has been implicated in tumor progression; however, its role in BC is unclear. The present study aimed to elucidate the mechanistic function of CAMTA1 in BC. RNA sequencing was performed on RAW264.7 macrophages co‑cultured with 4T1 cells and subjected to X‑ray irradiation. ",
+        "source": "PubMed",
+        "doi": "10.3892/ijo.2026.5875",
+        "keyword": "Exosomes",
+        "title_ja": "低酸素誘導性エクソソームCAMTA1は、NRG1を介したM2マクロファージ極性化を制御することでMDA-MB-231細胞の放射線耐性を促進する。",
+        "summary_ja": "**要約：**\n低酸素環境下で乳がん細胞（MDA-MB-231）から分泌されるエクソソーム中のCAMTA1は、放射線抵抗性を促進する。その機序として、CAMTA1はNRG1を調節し、マクロファージをM2型（腫瘍促進型）へ極性化させることで放射線抵抗性を媒介する。本研究は、乳がんの放射線治療抵抗性におけるCAMTA1を介した腫瘍-微小環境間相互作用の新たな機序を明らかにした。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Destabilized Soluble SOD1 Species as Potential Determinants of Disease Severity in Familial Amyotrophic Lateral Sclerosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41894255/",
+        "abstract": "Mutations in the Cu/Zn superoxide dismutase (SOD1) gene are linked to familial amyotrophic lateral sclerosis (ALS), yet the identity of the toxic molecular species remains unclear. We investigated the relationship between protein misfolding and pathogenicity by expressing GFP-tagged wild-type and mutant SOD1 (A4V, H46R, G93A) in mouse hippocampal HT22 cells. Western blotting under nonreducing conditions suggested that A4V, associated with rapid disease progression, was largely depleted of properly folded soluble SOD1 and instead produced highly destabilized soluble species. In contrast, H46R, associated with a milder phenotype, showed a moderate reduction in properly folded soluble SOD1 and generated partially folded/native-like conformers. G93A exhibited biochemical characteristics intermediate between those of A4V and H46R. A4V also showed a pronounced loss of GFP fluorescence, indicating severe structural destabilization; the extent of fluorescence loss in A4V, G93A, and H46R broadly correlated with clinical severity. Neither CuATSM nor ebselen─targeting metal binding and disulfide formation, respectively─rescued fluorescence, suggesting broader defects in SOD1 maturation. Nevertheless, both compounds inhibited ferroptosis, a nonapoptotic form of cell death characterized by iron-dependent lipid peroxidation, in HT22 cells, indicating alternative neuroprotective mechanisms. These findings identify destabilized soluble SOD1 species as a key toxic entity in ALS and highlight the utility of GFP-tagged constructs for evaluating folding status and screening therapeutic candidates.",
+        "source": "PubMed",
+        "doi": "10.1021/acschemneuro.5c00668",
+        "keyword": "Exosomes",
+        "title_ja": "家族性筋萎縮性側索硬化症における疾患重症度の潜在的決定因子としての不安定化可溶性SOD1種",
+        "summary_ja": "**要約**\n家族性筋萎縮性側索硬化症（ALS）では、Cu/Znスーパーオキシドディスムターゼ（SOD1）遺伝子変異が病因に関わるが、毒性分子種は不明である。GFP標識SOD1変異体（A4V、H46R、G93A）をHT22細胞で発現させ解析した。非還元条件下でのウエスタンブロットにより、病状進行の速いA4Vでは正常に折り畳まれた可溶性SOD1が著減し、高度に不安定化した可溶性種が生成していた。一方、軽症型のH46Rでは部分折り畳み/ネイティブ様構造体を生成した。GFP蛍光消失の程度は臨床重症度と相関し、A4Vで顕著だった。CuATSMやエブセレンは蛍光を回復させなかったが、フェロトーシスを抑制し、神経保護的機序を示した。不安定化した可溶性SOD1種がALSの主要な毒性実体である可能性が示された。"
+      },
+      {
+        "title": "circOMA1 delivered by exosomes regulates DRD2‑mediated prolactinoma resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41891968/",
+        "abstract": "Among pituitary adenomas, prolactin‑secreting pituitary neuroendocrine tumours (PRL‑PitNETs) are unique in that pharmacotherapy, specifically cabergoline (CAB), can be used as a first‑line treatment, and it is the recommended therapeutic option. However, the mechanisms underlying CAB resistance remain incompletely understood. In the present study, gene microarray analysis and clinical tissue specimens were used to identify circular RNAs (circRNAs) associated with CAB resistance. circOMA1 expression was quantified in PRL‑PitNET tissues and patient plasma using reverse transcription‑quantitative PCR, and its diagnostic potential was evaluated in 219 patients with pituitary adenoma. Gain‑ and loss‑of‑function assays, combined with molecular biology techniques, were used to investigate the biological function of circOMA1 and the underlying molecular mechanism. circOMA1 was identified as a critical circular RNA influencing CAB resistance and prognosis in PRL‑PitNET. Mechanistically, circOMA1 acted as a miR‑145‑5p sponge, leading to upregulation of the E3 ubiquitin ligase Kelch‑repeat and BTB domain‑containing protein 7. This promoted ubiquitination of the CAB‑specific, high‑affinity G‑protein‑coupled receptor dopamine D2 receptor. Consequently, downstream autophagy was attenuated, and AKT pathway inhibition was impaired, which underlied the resistance. Furthermore, ",
+        "source": "PubMed",
+        "doi": "10.3892/ijmm.2026.5812",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームによって運ばれるcircOMA1は、DRD2を介したプロラクチノーマ耐性を調節する。",
+        "summary_ja": "本論文は、プロラクチン産生下垂体神経内分泌腫瘍（PRL-PitNET）におけるカベルゴリン（CAB）耐性の新規メカニズムを解明した。CAB耐性組織で高発現するcircOMA1は、エクソソームを介して伝達され、miR-145-5pをスポンジとして吸着する。これにより標的であるE3ユビキチンリガーゼKBTBD7が増加し、CABの標的受容体であるドーパミンD2受容体（DRD2）のユビキチン化分解を促進する。その結果、下流の自食作用が減弱し、AKTシグナル抑制が妨げられ、CAB耐性が惹起される。circOMA1は血中でも検出可能であり、診断・予後マーカーとしての可能性を示唆している。"
+      },
+      {
+        "title": "Metformin-Loaded Schwann Cell Exosomes Reprogram Macrophages and Enhance Neurogenesis in Spinal Cord Injury Through PI3K/AKT Activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41891911/",
+        "abstract": "Spinal cord injury (SCI) creates a hostile microenvironment characterized by persistent inflammation and glial scarring, which severely limits endogenous neural regeneration. To address these multifactorial barriers, we developed a targeted nanotherapeutic system comprising glutathione-functionalized Schwann cell-derived exosomes loaded with metformin (Exos-GSH@Met). In vitro and in vivo evaluations showed that GSH functionalization enabled the exosomes to effectively cross the blood-spinal cord barrier and selectively accumulate in macrophages at the injury site. Transcriptomic sequencing identified the PI3K/AKT pathway as a critical target activated by Exos-GSH@Met. Mechanistically, the treatment reprogrammed macrophages from a pro-inflammatory M1 phenotype to a reparative M2 phenotype via PI3K/AKT activation. This immunomodulatory shift subsequently orchestrated the differentiation of neural stem cells (NSCs) into functional neurons while suppressing astrocytic differentiation. Crucially, in vivo blockade of the PI3K pathway using the inhibitor LY294002 negated these regenerative effects, confirming the pathway's centrality. Furthermore, Exos-GSH@Met not only reduced the density of the glial scar but also significantly inhibited the secretion of pro-inflammatory cytokines (TNF-α, IL-1β, and IL-6) by reactive astrocytes. Functionally, the treatment significantly improved motor recovery, restored electrophysiological conduction, and ameliorated bladder dysfunction in SCI mice. Collectively, these findings establish Exos-GSH@Met as a dual-action platform that coordinates immune microenvironment remodeling and neurogenesis through the PI3K/AKT axis, offering a promising strategy for SCI repair.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202502540R",
+        "keyword": "Exosomes",
+        "title_ja": "メトホルミンを内包したシュワン細胞エクソソームは、PI3K/AKT活性化を介してマクロファージを再プログラミングし、脊髄損傷における神経新生を促進する。",
+        "summary_ja": "【要約】\n脊髄損傷(SCI)後の炎症・瘢痕形成による再生阻害を克服するため、メトホルミンを内包しグルタチオンで機能化したシュワン細胞エクソソーム(Exos-GSH@Met)を開発した。本ナノ治療剤は血液脊髄関門を通過し、損傷部マクロファージに選択的に集積。PI3K/AKT経路を活性化し、マクロファージを炎症性M1型から修復型M2型へ再プログラミングした。これにより神経幹細胞の神経細胞への分化を促進し、アストロサイト分化と炎症性サイトカイン(TNF-α, IL-1β, IL-6)分泌を抑制。グリア瘢痕密度低減、運動機能・電気生理学的伝導・膀胱機能の改善を達成した。PI3K阻害剤LY294002は効果を打ち消し、本経路の重要性を確認。Exos-GSH@MetはPI3K/AKT軸による免疫環境制御と神経再生の両立を可能にする新規治療戦略である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "注目すべき5つのトピックとその重要性・展望は以下の通りです。\n\n1. **精液由来エクソソームによる眼底薬物送達**：非侵襲的な点眼薬として、眼の生理的バリアを克服する新規プラットフォームを確立。難治性眼底疾患治療への応用が期待される。\n\n2. **リソソーム障壁克服型エクソソームデリバリーシステム**：化学療法とRNAi療法の協調的送達を可能にし、乳癌治療の効果向上と耐性克服に寄与する革新的技術。\n\n3. **低酸素誘導性エクソソームによる放射線抵抗性機構**：腫瘍微小環境におけるエクソソームを介した細胞間通信が治療抵抗性を誘導する新機序を解明。乳癌の放射線治療効果を高める新たな標的となる。\n\n4. **エクソソーム輸送circRNAによる下垂体腫瘍耐性機序**：カベルゴリン耐性プロラクチノーマにおいて、エクソソームを介したcircOMA1の伝達が耐性獲得に寄与する新規経路を同定。治療抵抗性克服のための新規バイオマーカー・治療標点として期待。\n\n5. **機能化シュワン細胞エクソソームによる脊髄損傷治療**：メトホルミン内包エクソソームが免疫環境を再プログラミングし神経再生を促進。血液脊髄関門透過性と標的指向性を併せ持ち、中枢神経再生医療への応用可能性が高い。\n\nこれらは、エクソソーム/sEVsが、従来困難だった標的への薬剤送達、治療抵抗性の機序解明、複合療法の実現において極めて重要な基盤技術・発見であることを示している。"
+}

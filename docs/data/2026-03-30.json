@@ -1,0 +1,134 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Modulation of PKCα/ETS1 by klotho restores CYB5R4-dependent mitochondrial function in proximal tubular epithelial cells to attenuate the progression of diabetic kidney disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41904515/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12933-026-03150-y",
+        "keyword": "Klotho",
+        "title_ja": "KlothoによるPKCα/ETS1の制御は近位尿細管上皮細胞におけるCYB5R4依存的なミトコンドリア機能を回復させ、糖尿病性腎症の進行を抑制する",
+        "summary_ja": "**要約：**\nKlothoは、糖尿病腎病変における近位尿細管上皮細胞のミトコンドリア機能障害を改善する。具体的には、KlothoはPKCα/ETS1シグナル経路を抑制し、その下流の酸化還元酵素CYB5R4の発現を回復させる。これによりミトコンドリア機能が修復され、細胞の酸化ストレスとアポトーシスが軽減、糖尿病腎症の進行が抑制される。本研究は、Klotho-CYB5R4軸が新たな治療標的となる可能性を示唆している。"
+      },
+      {
+        "title": "Association of Klotho with cognitive impairment and sleep difficulties: a multicenter cross-sectional study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41904446/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12882-026-04940-y",
+        "keyword": "Klotho",
+        "title_ja": "クロトーと認知障害および睡眠障害との関連：多施設横断研究",
+        "summary_ja": "**要約：**\nKlothoタンパク質と認知機能・睡眠障害の関連を調査した多施設横断研究。高齢者を対象に血中Klotho濃度を測定し、認知機能評価（MoCA）および睡眠の質（PSQI）と比較。結果、Klotho低値は認知障害リスク上昇および睡眠困難（特に睡眠効率の低下）と有意に関連していた。Klothoは加齢関連の認知機能低下と睡眠障害に保護的役割を果たす可能性が示唆される。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Preclinical efficacy of combination therapy with allogeneic induced pluripotent stem cell-derived invariant natural killer T and α-galactosylceramide-pulsed antigen-presenting cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41904478/",
+        "abstract": "Invariant natural killer T (iNKT) cells, upon activation, exhibit antitumor roles by bridging innate and acquired immunity. To overcome the challenges in producing iNKT cells from patients with cancer, we previously developed allogeneic human induced pluripotent stem cell-derived iNKT (iPSC-iNKT) cells. However, the activation of iPSC-iNKT cells by glycolipid ligands remains a critical step for iNKT cell-mediated cancer therapy. To show the effect of iPSC-iNKT cell-mediated antitumor immunity, in this preclinical study, by taking advantage of a human immune cell-transplanted patient-derived xenograft model using human IL-7/15 knock-in NSG mice, we demonstrate that a combination of iPSC-iNKT cells and α-galactosylceramide-pulsed antigen-presenting cells (αGalCer/APC) induces robust antitumor effects. Single-cell analysis of tumor-infiltrating lymphocytes revealed that this combination therapy uniquely expanded tumor-reactive memory-phenotype CD4 and CD8 T cells. Taken together, upon activation by αGalCer/APC, iPSC-iNKT cells are capable of effectively inducing antitumor T cell immunity, making them a promising tool for generating personalized antitumor T cell immunity.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-04994-7",
+        "keyword": "NK cell therapy",
+        "title_ja": "同種誘導多能性幹細胞由来不変性ナチュラルキラーT細胞とα-ガラクトシルセラミドパルス抗原提示細胞との併用療法の前臨床的有効性",
+        "summary_ja": "本研究は、ヒトiPS細胞由来の不変性ナチュラルキラーT（iPSC-iNKT）細胞と、糖脂質リガンドα-ガラクトシルセラミドをパルスした抗原提示細胞（αGalCer/APC）との併用療法の抗腫瘍効果を前臨床モデルで検証した。この併用療法は、ヒト免疫細胞移植患者由来腫瘍移植（PDX）モデルにおいて強力な抗腫瘍効果を誘導し、腫瘍浸潤リンパ球の単一細胞解析により、腫瘍反応性メモリーフェノタイプCD4/CD8 T細胞の特異的増殖を明らかにした。αGalCer/APCによる活性化により、iPSC-iNKT細胞は効果的な抗腫瘍T細胞免疫を誘導し、個別化がん免疫療法の有望な手段となる。"
+      },
+      {
+        "title": "Dendritic Cell-Based Immunotherapy for Solid Tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41903989/",
+        "abstract": "Dendritic cells (DCs) are key antigen-presenting cells that connect innate and adaptive immunity, influencing tumor microenvironments by activating T cells, NK, and NKT cells, and directly killing tumor cells. They are being explored as immunotherapies in cancers like melanoma, breast, prostate, brain, and blood cancers with over 300 clinical trials to date. Intratumoral injection shows promise for its direct effects. The only FDA-approved DC therapy, sipuleucel-T, increases survival in prostate cancer. Further DC trials are ongoing, often combining DCs with other available immunotherapies. Early-stage disease is an emerging target for DC therapy. Further research is needed to optimize these approaches.",
+        "source": "PubMed",
+        "doi": "10.1016/j.soc.2025.10.005",
+        "keyword": "NK cell therapy",
+        "title_ja": "固形腫瘍に対する樹状細胞ワクチン療法",
+        "summary_ja": "樹状細胞（DC）は、自然免疫と獲得免疫を連結する主要な抗原提示細胞であり、T細胞・NK細胞・NKT細胞の活性化や腫瘍細胞の直接殺傷を通じて腫瘍微小環境に影響を与える。メラノーマ、乳がん、前立腺がん、脳腫瘍、血液がんなどで免疫療法として研究が進み、300件以上の臨床試験が実施されている。腫瘍内投与は直接的な効果が期待される。FDA承認の唯一のDC療法であるsipuleucel-Tは前立腺がんの生存期間を延長する。現在もDC単独または他免疫療法との併用試験が進行中であり、早期疾患も新たな標的となっている。手法の最適化にはさらなる研究が必要である。"
+      },
+      {
+        "title": "[Developing anti-CD20 molecules and B cell depletion in multiple sclerosis].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41902455/",
+        "abstract": "The efficacy of anti-CD20 therapies in multiple sclerosis (MS) has been recognized since 2008. Since then, three anti-CD20 monoclonal antibodies - ocrelizumab, ofatumumab, and ublituximab - have been developed and approved for MS treatment, whereas rituximab, the first monoclonal antibody shown to be effective, remains an off-label therapy in this indication. Anti-CD20 antibodies deplete B cells primarily through two mechanisms: complement-dependent cytotoxicity (CDC) and natural killer (NK) cell-mediated antibody-dependent cellular cytotoxicity (ADCC). The relative contribution of these mechanisms differs among individual antiCD20 antibodies. NK cell-mediated ADCC is modulated by the glycosylation state of the antibody Fc region as well as by genetic polymorphisms in FcγRIIIa, the Fc receptor on NK cells responsible for Fc binding. Fc engineering can enhance ADCC and partially overcome the functional consequences of FcγRIIIa polymorphisms. This article reviews the structure and mechanisms of action of immunoglobulins and anti-CD20 antibodies; outlines the development of antibody humanization and Fc engineering to enhance efficacy and tolerability; presents clinical data from ublituximab treatment; and discusses additional strategies for achieving effective B-cell depletion.",
+        "source": "PubMed",
+        "doi": "10.18071/isz.79.0131",
+        "keyword": "NK cell therapy",
+        "title_ja": "【多発性硬化症における抗CD20分子とB細胞除去の開発】",
+        "summary_ja": "抗CD20療法は2008年以降、多発性硬化症（MS）で有効性が認められ、現在オクレリズマブ等3種が承認されている。作用機序は主に補体依存性細胞傷害（CDC）とNK細胞介在性抗体依存性細胞傷害（ADCC）によるB細胞除去である。ADCCは抗体Fc領域の糖鎖構造とNK細胞のFcγRIIIa遺伝子多型に影響され、Fcエンジニアリングにより増強可能である。本稿は抗CD20抗体の構造・作用機序、ヒト化・Fc改変による改良、ウブリツキシマブの臨床データ、B細胞除去戦略を概説する。"
+      },
+      {
+        "title": "Anoikis-Related Genes Signature Contributes to Predicting Prognosis and Response to Immunotherapy in Lung Squamous Cell Carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41902322/",
+        "abstract": "BACKGROUND Lung squamous cell carcinoma (LUSC) is a highly heterogeneous malignancy, with the immune micro-environment playing a critical role in tumor progression and response to therapy. However, stemness, endothelial-to-mesenchymal transition (EMT), and anoikis (a type of apoptosis) are not sufficiently studied in the LUSC immune micro-environment. This research aimed to explore the prognostic value of anoikis-related genes and tumor immune in the treatment of LUSC. MATERIAL AND METHODS Immune-cell fractions in LUSC samples were predicted using 3 computational algorithms: CIBERSORT, quanTseq, and SVR. The immune-cell infiltration patterns, including B cells, NK cells, neutrophils, macrophages, mast cells, and T cells, were analyzed. A prognostic nomogram was constructed using clinical variables and immune markers, and its predictive ability for overall survival at 1, 3, and 5 years was evaluated. Calibration plots, decision curve analysis, and receiver operating characteristic (ROC) curves were used to assess model performance. We used Python and R software to perform the analysis. P<0.05 was considered as statistically significant. RESULTS S100A7, S100A8, and SPP1 were identified from the LUSC tumor micro-environment and were used to construct a nomogram. The immune profiling revealed significant heterogeneity in immune-cell infiltration across LUSC samples, with T cells, macrophages, tregs, and dendritic cells being predominantly associated with immune suppression. The nomogram integrating clinical and immune markers demonstrated moderate predictive accuracy for overall survival. Calibration and decision curve analyses confirmed the clinical utility of the nomogram for survival prediction. CONCLUSIONS Our study presents a prognostic model of the interplay between anoikis resistance and immune-cell infiltration. Personalized immunotherapy strategies, including targeting the identified prognostic markers can improve treatment efficacy and overcome immune evasion mechanisms and can enhance clinical outcomes for LUSC patients.",
+        "source": "PubMed",
+        "doi": "10.12659/MSM.951722",
+        "keyword": "NK cell therapy",
+        "title_ja": "アノイキス関連遺伝子シグネチャーは肺扁平上皮癌の予後および免疫療法反応の予測に寄与する",
+        "summary_ja": "肺扁平上皮癌（LUSC）において、アノイキス関連遺伝子と腫瘍免疫微小環境の相互作用に着目した予後予測モデルを構築した。免疫細胞浸潤パターンの解析から、S100A7、S100A8、SPP1を同定し、臨床変数と統合したノモグラムを作成した。このモデルは、免疫抑制に関与するT細胞やマクロファージなどの浸潤の不均一性を反映し、全生存期間を中程度の精度で予測できた。同定されたバイオマーカーを標的とする個別化免疫療法は、治療効果の向上と免疫回避の克服に寄与し得ると結論づけた。"
+      },
+      {
+        "title": "Single-Cell Transcriptomic Analysis of Chemotherapy-Induced Changes in Osteosarcoma With a Pyroptosis-Related Gene-Based Prognostic Model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41896410/",
+        "abstract": "Osteosarcoma, the most common primary malignant bone tumour, presents significant treatment challenges due to its complex tumour microenvironment and the development of chemoresistance. This study employs single-cell transcriptomics to investigate chemotherapy-induced changes in osteosarcoma at both the cellular and molecular levels. Single-cell RNA sequencing data were analysed to identify cell subpopulations and their responses to chemotherapy. Differential gene expression and pathway enrichment analyses were performed to elucidate chemotherapy-induced changes. Additionally, we developed and validated a predictive model based on pyroptosis-related genes, named Pyroscore, using 101 different machine-learning algorithms. Chemotherapy led to an increased proportion of osteoclasts, endothelial cells, mesenchymal stem cells and pericytes, while decreasing T and NK cells, B cells, chondroblasts, monocytes and macrophages. Chemotherapy markedly upregulates the pyroptosis pathway in tumour cells, suggesting that chemotherapy induces programmed cell death in cancer cells through the activation of pyroptosis. Metabolic pathway analysis revealed significant inhibition of sulphur metabolism, starch and sucrose metabolism, pentose phosphate pathway, inositol phosphate metabolism, nitrogen metabolism and fatty acid metabolism. The Pyroscore model, which incorporates BAK1, CASP1, CASP5 and CASP6, demonstrated robust prognostic value across multiple data sets, with high scores correlating with improved survival outcomes. This study highlights the impact of chemotherapy on osteosarcoma cell subpopulations and the tumour microenvironment. The activation of the pyroptosis pathway and the development of the pyroscore prognostic model provide new insights into the mechanisms of chemotherapy response and potential therapeutic targets. These findings underscore the importance of personalized treatment strategies in improving outcomes for osteosarcoma patients.",
+        "source": "PubMed",
+        "doi": "10.1111/jcmm.71110",
+        "keyword": "NK cell therapy",
+        "title_ja": "単一細胞トランスクリプトーム解析による化学療法誘発性骨肉腫の変化とピロプトーシス関連遺伝子に基づく予後モデル",
+        "summary_ja": "本論文は、骨肉腫における化学療法誘発性変化を単一細胞トランスクリプトミクスで解析し、パイロトーシス関連遺伝子に基づく予後モデルを構築した。化学療法により、破骨細胞や間葉系幹細胞の割合が増加し、T細胞やB細胞などは減少した。腫瘍細胞ではパイロトーシス経路が活性化され、一方で硫黄代謝や脂肪酸代謝など複数の代謝経路が抑制された。また、BAK1、CASP1、CASP5、CASP6を用いた機械学習による予後モデル「Pyroscore」は、高いスコアが良好な生存と関連し、有効な予後指標となった。これらの知見は、化学療法応答の機序理解と個別化治療戦略の開発に寄与する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Enhancement of monocytopoiesis and erythropoiesis in human bone marrow-derived hematopoietic stem cells by placental extracellular vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41855843/",
+        "abstract": "Maternal blood composition undergoes profound changes during pregnancy to meet immunological, hemostatic, and oxygen demands. Despite the importance of these adaptations, the mechanisms regulating maternal hematopoiesis remain poorly understood. An interaction between maternal hematopoietic stem cells (HSCs) and placenta-derived extracellular vesicles (EVs) may play a key role in this process.",
+        "source": "PubMed",
+        "doi": "10.1016/j.placenta.2026.03.005",
+        "keyword": "sEVs",
+        "title_ja": "胎盤細胞外小胞によるヒト骨髄由来造血幹細胞の単球産生および赤血球産生の促進",
+        "summary_ja": "妊娠中、母体血液組成は免疫・止血・酸素需要に対応し劇的に変化するが、その造血調節機構は不明な点が多い。本研究は、母体骨髄由来造血幹細胞（HSCs）が胎盤由来細胞外小胞（EVs）と相互作用することで、単球産生（monocytopoiesis）と赤血球産生（erythropoiesis）が特異的に増強される可能性を示した。胎盤EVsは母体造血を制御する新たなメカニズムとして注目される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. Klothoと糖尿病腎症の新規機序**\nKlothoがPKCα/ETS1経路を抑制しCYB5R4を介してミトコンドリア機能を回復、糖尿病腎症の進行を抑制する機序を解明。抗老化因子Klothoの臓器保護作用の新たな分子基盤を示し、治療標的として期待。\n\n**2. Klothoと認知機能・睡眠障害の臨床関連**\n血中Klotho低値が認知障害・睡眠障害リスクと関連することを多施設研究で確認。Klothoが脳機能維持に寄与する可能性を示す臨床エビデンスであり、神経変性疾患のバイオマーカーや予防標的としての応用に道。\n\n**3. iPS細胞由来iNKT細胞の新規がん免疫療法**\nヒトiPS細胞から大量産生した不変性NKT（iNKT）細胞とαGalCerパルス抗原提示細胞の併用療法が前臨床で有効性を示した。オフザシェルフ型の細胞療法として、実用化に向けた重要な進展。\n\n**4. 抗CD20療法の作用機序と多発性硬化症**\n抗CD20抗体が補体依存性細胞傷害（CDC）とNK細胞介在性ADCCによりB細胞を除去し多発性硬化症を治療する機序を解説。既承認療法の作用理解を深め、より効率的な次世代抗体設計に貢献。\n\n**5. 胎盤細胞外小胞による造血調節**\n胎盤由来細胞外小胞（EVs）が母体骨髄造血幹細胞に作用し、単球・赤血球産生を促進することを発見。妊娠適応の新規メカニズムを示し、EVsを利用した造血制御療法の可能性を拓く。"
+}

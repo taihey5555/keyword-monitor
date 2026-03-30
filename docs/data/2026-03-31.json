@@ -1,0 +1,175 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Epstein-Barr Virus-positive NK/T-cell Malignancies in Poland: Distinctive Features, Therapeutic Strategies, and Survival Insights-The Real-world Retrospective Report of the Polish Lymphoma Research Group.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41906380/",
+        "abstract": "Extranodal NK/T-cell lymphoma (ENKTCL) and aggressive NK-cell leukemia (ANKL) are rare aggressive hematologic malignancies. Genetic differences and varying Epstein-Barr virus (EBV) strains suggest potential disparities in disease characteristics in Europe compared to Asian countries. Our aim was to describe clinical characteristics and treatment approaches of these tumors in the solid Polish population.",
+        "source": "PubMed",
+        "doi": "10.1111/ajco.70102",
+        "keyword": "NK cell therapy",
+        "title_ja": "ポーランドにおけるエプスタイン・バーウイルス陽性NK/T細胞悪性腫瘍：特徴、治療戦略、生存に関する考察－ポーランドリンパ腫研究グループによる現実世界レトロスペクティブ報告",
+        "summary_ja": "本論文は、ポーランドにおけるEBV陽性NK/T細胞悪性腫瘍（節外性NK/T細胞リンパ腫および侵襲性NK細胞白血病）の実態を後方視的に分析した報告である。アジアと比較し、遺伝的差異やEBV株の違いに起因する疾患特性の相違が示唆される中、ポーランド集団における臨床的特徴と治療アプローチを明らかにすることが目的である。治療戦略と生存状況に関する実臨床データを提示し、この希少で侵襲性の高い血液悪性腫瘍の地域別特性解明に貢献する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Temsirolimus safety evaluation: real-world adverse event analysis from the FDA adverse event reporting system database.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41910729/",
+        "abstract": "Temsirolimus is a mammalian target of rapamycin inhibitor primarily used to treat not only various types of renal carcinoma, but also various types of lymphomas and other tumors. However, its real-world safety profile remains inadequately characterized. By analyzing the Food and Drug Administration Adverse Event Reporting System (FAERS) database, we identified risk signals associated with temsirolimus adverse reactions and gained valuable insights for clinical decision-making and risk management. We extracted temsirolimus-related reports of adverse events (AEs) from FAERS across 68 quarters (Q2 2007-Q2 2024) and analyzed the demographic characteristics. Disproportionality analyses-including Reporting Odds Ratio (ROR), Proportional Reporting Ratio (PRR), Bayesian Confidence Propagation Neural Network (BCPNN), and Empirical Bayes Geometric Mean (EBGM)-were conducted to evaluate the association between temsirolimus and adverse events. When a signal simultaneously meets the threshold criteria of all four algorithms, it is considered a significantly positive signal. We compared the significant positive signals obtained with those in the drug label and ultimately identified new adverse reactions that had not been discovered. We extracted 2,929 adverse event reports from the Food and Drug Administration Adverse Event Reporting System (FAERS) database in which temsirolimus was identified as the \"primary suspect\"drug. Through disproportionality analysis, we identified 128 preferred terms (PTs) associated with temsirolimus across 17 organ systems. The significant adverse reactions consistent with the drug label were observed, including hypersensitivity/infusion reactions, liver injury, hyperglycemia/insulin resistance, infections, interstitial lung disease, hyperlipidemia, intestinal perforation, renal failure, wound complications, and intracranial hemorrhage. Additionally, the new positive signals not documented in the drug label were identified, including dehydration, pleural effusion, cardiac failure, and ascites. Our findings are basically consistent with prior clinical studies, and the new potential adverse events (AEs) associated with temsirolimus were identified. These insights contribute to ongoing pharmacovigilance efforts, enhancing safety monitoring and optimizing clinical application.",
+        "source": "PubMed",
+        "doi": "10.1007/s00210-026-05233-9",
+        "keyword": "Exosomes",
+        "title_ja": "テムシロリムスの安全性評価：FDA有害事象報告システムデータベースに基づく実世界の有害事象分析",
+        "summary_ja": "**要約**\nTemsirolimus（mTOR阻害薬）の実世界での安全性を、FDA有害事象報告システム（FAERS）データ（2007-2024年）を用いて分析。不均等解析により、128の有害事象（17臓器系）との関連性を検出。既知の重大反応（過敏性/輸注反応、肝障害、高血糖など）を確認するとともに、医薬品添付文書に未記載の新たな潜在的なリスクシグナル（脱水、胸水、心不全、腹水）を同定した。本知見は、薬剤監視（ファーマコビジランス）の強化と臨床応用の最適化に寄与する。"
+      },
+      {
+        "title": "Comparative Analysis of Red Onion-Derived Exosome-Like Nanovesicles and Extract Reveals Sustained Immunomodulatory Effects in LPS/IFN-γ-Stimulated Microglia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41910688/",
+        "abstract": "Neuroinflammation is a central factor in many neurodegenerative diseases, making it an important target for novel treatments. This study compares the effects of organic red onion-derived materials, particularly crude extract and exosome-like nanovesicles (RO-ELNs), on neuroinflammation in the human microglia HMC3 cell line. Red onions are abundant in neuroprotective phytochemicals, primarily quercetin and anthocyanin constituents. The non-cytotoxic RO-ELNs purified through ultracentrifugation, along with their corresponding ethanolic extract, showed that they contain inherited phytopharmaceutical compounds from their parent source. Despite RO-ELNs having lower metabolite concentrations relative to the extract, their therapeutic value is mostly attributed to their lipids and other components. Both treatments engage similar biological pathways yet demonstrate contrasting time-dependent anti-neuroinflammatory and antioxidant effects by suppressing NLRP3 inflammasome components (NLRP3, IL-1β) and critical inflammatory markers (COX-2, phospho-NF-κB, ROS, IL-6, TNF-α) during acute inflammation. Nevertheless, the extract showed restricted effectiveness in prolonged inflammation or at longer incubation times owing to its poor bioavailability. Conversely, RO-ELNs showed a robust and lasting effect due to their lipid bilayer, facilitating gradual uptake and extended retention within target microglia, with uptake escalating from 20 to 70% over 24 to 72 h compared to control. This study uniquely investigates the time-dependent anti-inflammatory and antioxidant actions of red onion-derived ELNs and extract across acute and prolonged phases of neuroinflammation, suggesting RO-ELNs as a promising nanosized approach for neuroinflammation prevention.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-05820-0",
+        "keyword": "Exosomes",
+        "title_ja": "赤タマネギ由来エクソソーム様ナノ小胞と抽出物の比較解析により、LPS/IFN-γ刺激ミクログリアにおける持続的免疫調節効果が明らかに。",
+        "summary_ja": "本研究は、有機赤タマネギ由来のエキスとエクソソーム様ナノ粒子（RO-ELNs）の神経炎症抑制効果を比較した。両者ともケルセチン等を含み、急性炎症時にはNLRP3インフラマソームや炎症マーカーを抑制した。しかし、エキスは時間経過とともに効果が減衰したのに対し、RO-ELNsは脂質二重層による徐放性吸収により、72時間にわたり持続的な抗炎症・抗酸化効果を示した。RO-ELNsは神経炎症予防の有望なナノサイズアプローチであると示唆される。"
+      },
+      {
+        "title": "Dual Roles of Exosomes in Tumor Progression and Their Bioengineering as Targeted Drug Carriers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41910262/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.5c07735",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームの腫瘍進行における二重役割と標的薬剤担体としてのバイオエンジニアリング",
+        "summary_ja": "**要約：**\nエクソソームは、腫瘍増殖を促進する細胞間コミュニケーション担体として二面的な役割を果たす。一方で、腫瘍細胞はエクソソームを利用して増殖・転移・免疫回避を促進する。他方で、その生体適合性と標的指向性から、抗がん剤や核酸を腫瘍に特異的に送達する「生物工学的ドラッグキャリア」として再設計できる。表面修飾による能動的標的化など、バイオエンジニアリング技術が治療応用の可能性を広げている。"
+      },
+      {
+        "title": "Intelligent-responsive hydrogel synergistically mediates immune remodel-antibacterial-angiogenesis cascade for diabetic foot ulcer repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41909502/",
+        "abstract": "The healing of diabetic foot ulcers (DFU) is severely hindered by dysregulated immune microenvironment, recurrent infections, and insufficient angiogenesis. The persistent and resistant nature, coupled with elevated morbidity and amputation rates, has driven the scientific community to pursue the development of novel therapies. Current wound dressings mostly target a singular aspect and fail to achieve systematic regulation of these dynamically related factors, highlighting the urgent need for dressings capable of accurate sense and response to the complex pathological process of wound and precise repair. Herein, an intelligent treatment strategy of \"intelligent response - synergistic regulation\" was proposed. We designed a desferrioxamine-loaded Mn-doped zeolitic imidazolate framework-8 (DFO@Mn-ZIF-8), which exhibits dual enzyme-mimetic activity to scavenge excess reactive oxygen species (ROS) and, upon disintegration, combats infection and promotes angiogenesis. Subsequently, a glucose- and ROS-responsive chitosan-based hydrogel loaded with DFO@Mn-ZIF-8 and umbilical cord mesenchymal stem cell-derived exosome was fabricated (Exo/MOF@CPH). In a validated ",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.03.034",
+        "keyword": "Exosomes",
+        "title_ja": "糖尿病性足潰瘍修復のための免疫再構築・抗菌・血管新生カスケードを相乗的に調節する知能応答性ハイドロゲル",
+        "summary_ja": "本論文は、糖尿病性足潰瘍（DFU）の創傷治癒を阻害する免疫環境の乱れ、感染、血管新生不足という複合的な課題に対処するため、「知能応答-協調的制御」戦略を提案する。デフェロキサミンを内包したMnドープZIF-8（DFO@Mn-ZIF-8）は、過剰な活性酸素（ROS）を除去する二重酵素模倣活性を示し、分解時に感染抑制と血管新生促進を行う。これを、グルコース・ROS応答性キトサンベースのハイドロゲルに、臍帯間葉系幹細胞由来エクソソームと共に封入した（Exo/MOF@CPH）。この複合材料は、創傷の複雑な病態プロセスを感知・応答し、免疫調節・抗菌・血管新生を協調的に促進する新規治療法として期待される。"
+      },
+      {
+        "title": "Exosomal lncRNA OTUD6B-AS1 as a pathogenic nanocarrier promotes inflammatory macrophage polarization in endometritis via a targetable ceRNA circuit.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41909231/",
+        "abstract": "Endometritis, a major inflammatory cause of infertility, is driven by unresolved immune dysregulation in which macrophage polarization is critical. Yet, how inflammatory signaling is spatially propagated within the endometrial microenvironment remains unclear. Here, we report that exosomes-natural nanoscale extracellular vesicles-released from lipopolysaccharide (LPS)-injured endometrial epithelial cells (EECs) act as pathogenic nanocarriers that fuel macrophage-dependent inflammation. We demonstrate that LPS enhances exosome biogenesis and secretion via the AKT/ATG16L1 pathway. These exosomes efficiently deliver their molecular cargo to macrophages, triggering NF-κB activation and polarizing them toward a pro-inflammatory M1 phenotype. RNA sequencing identified lncRNA OTUD6B-AS1 as a highly enriched cargo in exosomes from inflamed EECs. Functional studies established that exosome-mediated transfer of lncRNA OTUD6B-AS1 is both necessary and sufficient to drive M1 polarization. Mechanistically, lncRNA OTUD6B-AS1 functions as a competing endogenous RNA (ceRNA), sequestering miR-128 to relieve its repression on Notch2, thereby amplifying NF-κB signaling. This axis was validated in clinical endometritis tissues, which exhibited elevated lncRNA OTUD6B-AS1 and Notch2 alongside reduced miR-128. Importantly, targeting this pathway-through genetic knockdown of lncRNA OTUD6B-AS1 or pharmacological inhibition of the miR-128/Notch2 node-abolished the pro-inflammatory effects. Our work not only delineates a new exosome-coordinated signaling circuit in endometritis but also highlights exosomes as druggable natural nanoparticles. These findings position exosome-based engineering-such as cargo modulation or designed vesicle delivery-as a promising nanomedicine strategy to intercept pathological cell-cell communication and treat inflammatory diseases.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103027",
+        "keyword": "Exosomes",
+        "title_ja": "病原性ナノキャリアとしてのエクソソームlncRNA OTUD6B-AS1は、標的化可能なceRNA回路を介して子宮内膜炎における炎症性マクロファージ極性化を促進する。",
+        "summary_ja": "子宮内膜炎は、マクロファージの極性化が重要な免疫調節異常により引き起こされる。本研究では、LPSで損傷した子宮内膜上皮細胞が放出するエクソソームが、マクロファージへの分子運搬体として働き、炎症を促進することを明らかにした。エクソソームはAKT/ATG16L1経路により分泌が増強され、lncRNA OTUD6B-AS1を豊富に含む。このlncRNAはceRNAとしてmiR-128を捕捉し、Notch2の抑制を解除してNF-κBシグナルを増幅し、マクロファージをM1型に極性化させる。臨床検体でも同様の発現変動が確認された。本経路の阻害は炎症効果を消失させ、エクソソームを標的としたナノ医療戦略の可能性を示す。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Exosome-like nanovesicles from acerola for CRISPR-Cas9 ribonucleoprotein delivery to the central nervous system.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41909467/",
+        "abstract": "An aberrant six-base repeat in intron 1 of ",
+        "source": "PubMed",
+        "doi": "10.1016/j.omtn.2026.102896",
+        "keyword": "Exosomes",
+        "title_ja": "アセロラ由来エクソソーム様ナノ小胞によるCRISPR-Cas9リボヌクレオタンパク質の中枢神経系への送達",
+        "summary_ja": "本論文は、アセロラ由来のエクソソーム様ナノベシクル（ELN）を利用し、CRISPR-Cas9リボヌクレオタンパク質（RNP）を中枢神経系へ送達する手法を報告している。この手法は、神経変性疾患の原因となるC9orf72遺伝子イントロン1内の異常な6塩基繰り返し配列を標的とし、その編集を目指す。植物由来ELNは生体適合性が高く、血液脳関門を通過できる可能性があり、非ウイルス性の治療用ゲノム編集プラットフォームとして有望である。"
+      },
+      {
+        "title": "Exercise-primed exosomes in an injectable hydrogel promote myocardial repair via angiogenesis and ferroptosis inhibition.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41909223/",
+        "abstract": "Myocardial infarction (MI) is a leading global cause of mortality and morbidity, with current therapies failing to achieve effective cardiac regeneration. Exercise-derived exosomes (Exos) hold great promise for cardioprotection, yet their clinical translation is severely hindered by rapid in vivo clearance and poor retention in infarcted myocardial tissue. Herein, we engineered an injectable polyethylene glycol-based hydrogel (Gel-PEG) as a localized and sustained delivery platform for exercise-derived exosomes (Exos@Gel-PEG), and systematically characterized the hydrogel's physicochemical, mechanical and biocompatibility properties, as well as exosome encapsulation efficiency and release kinetics. The association between exercise exosomes and ferroptosis of cardiomyocytes and vascular biology was determined through multi-omics analysis (metabolomics and proteomics). The therapeutic efficacy and underlying mechanisms of Exos@Gel-PEG were evaluated in a murine MI model, and the results demonstrated that Exos@Gel-PEG exhibited excellent injectability, biocompatibility and a sustained exosome release profile for up to 28 days in vitro, with significantly improved exosome retention in the infarcted heart for 15 days in vivo compared to free exosomes. In vivo, Exos@Gel-PEG treatment markedly improved cardiac systolic function, reduced myocardial interstitial fibrosis, and attenuated adverse ventricular remodeling in MI mice. Mechanistically, Exos@Gel-PEG activated the AKT/eNOS signaling pathway to promote endothelial cell proliferation, migration and post-infarction angiogenesis, and modulated myocardial iron homeostasis and oxidative stress to upregulate the expression of anti-ferroptotic proteins (xCT, GPX4, FTH1), thereby effectively suppressing cardiomyocyte ferroptosis. Furthermore, Exos@Gel-PEG showed no systemic toxicity and good in vivo biosafety. Collectively, our findings highlight that the Exos@Gel-PEG system integrates the cardioprotective merits of exercise-derived exosomes with the sustained delivery advantages of Gel-PEG, and exerts myocardial repair effects via dual mechanisms of angiogenesis promotion and ferroptosis inhibition, representing a novel and promising biomaterial-based therapeutic strategy for MI with potential clinical translation value.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103035",
+        "keyword": "Exosomes",
+        "title_ja": "運動誘導性エクソソームを含む注入可能なハイドロゲルは、血管新生とフェロトーシス抑制を介して心筋修復を促進する。",
+        "summary_ja": "本論文は、心筋梗塞後の心臓修復を目的とした、運動由来エクソソームを内包するPEG系ハイドロゲル（Exos@Gel-PEG）の開発を報告する。このシステムは、エクソソームの生体内滞留性を飛躍的に向上させ、持続的に放出した。マウス心筋梗塞モデルにおいて、Exos@Gel-PEGは、心機能改善、線維化抑制、心室リモデリング軽減を達成した。その作用機序は、AKT/eNOSシグナルを介した血管新生の促進と、抗フェロトーシスタンパク質（xCT、GPX4、FTH1）の発現上昇による心筋細胞のフェロトーシス抑制という二重メカニズムに基づく。高い生体安全性も確認され、臨床応用が期待される新規治療戦略である。"
+      },
+      {
+        "title": "Fibroin/sulfated alginate membranes containing exosomes of stem cells treated with B and Zn-doped hydroxyapatite for periosteal tissue engineering.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41906986/",
+        "abstract": "Periosteal regeneration requires tissue engineering strategies that simultaneously support osteogenesis, angiogenesis, and immunomodulation. In this study, fibroin/sulfated alginate (F/sA) composite membranes loaded with exosomes derived from human adipose-derived stem cells (hADSCs) treated with pure, 4 mol% B-doped, and 4 mol% B and 8 mol% Zn-doped hydroxyapatite (HA) were developed for periosteal tissue engineering. It was hypothesized that incorporation of sA and HA-conditioned exosomes enhances osteoimmunomodulation while preserving scaffold integrity. F/sA membranes with varying sulfated alginate content (0-20 wt%) were fabricated and characterized. Increasing sulfated alginate content enhanced water uptake and degradation while reducing tensile strength and Young's modulus. A 95 : 5 F/sA ratio was identified as optimal exosome delivery composition, exhibiting the highest hADSC viability and reducing IL1B and CASP1 levels in THP-1 macrophages (",
+        "source": "PubMed",
+        "doi": "10.1039/d5tb02784e",
+        "keyword": "Exosomes",
+        "title_ja": "骨膜組織工学のためのBおよびZn添加ハイドロキシアパタイト処理幹細胞エクソソーム含有フィブロイン/硫酸化アルギン酸膜",
+        "summary_ja": "骨膜組織工学のため、純粋・Bドープ・B/Zn共ドープ水酸アパタイト（HA）で処理したヒト脂肪由来幹細胞（hADSC）のエクソソームを、フィブロイン/硫酸化アルギン酸（F/sA）膜に担持した。硫酸化アルギン酸の増加は膜の吸水性・分解性を向上させるが、引張強度・ヤング率は低下した。95:5のF/sA比が最適なエクソソーム担持組成と判明し、hADSC生存率を最大化し、THP-1マクロファージにおけるIL1BとCASP1発現を抑制した。本膜は骨形成・血管新生・免疫調節を同時に促進する骨膜再生材料として有望である。"
+      },
+      {
+        "title": "Taenia solium extracellular vesicles decrease reactive oxygen species production in human neutrophils by inhibiting myeloperoxidase activity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41906969/",
+        "abstract": "Taenia solium cysticerci are the etiological agents of neurocysticercosis, a leading cause of acquired epilepsy worldwide and a significant public health problem in endemic regions. The chronicity of the infection reflects a complex host-parasite interaction in which the parasite establishes long-term persistence through immunomodulatory mechanisms. In recent years, extracellular vesicles (EVs) have emerged as important mediators for some of these interactions. EVs are membrane-bound structures released by virtually every organism studied, which carry a diverse set of molecules that mediate intercellular communication. We isolated Taenia solium extracellular vesicles (TsEVs) from racemose cysticerci recovered from a patient, subsequently cultured in vitro, in order to characterize them by transmission electron microscopy, nanoparticle tracking analysis, and mass spectrometry-based proteomics. Effect of TsEVs on the production of reactive oxygen species (ROS) and myeloperoxidase (MPO) activity was evaluated in human neutrophils using fluorometric and colorimetric assays under basal and chemically stimulated conditions. Obtained TsEVs were under 200 nm in diameter. Proteomic analysis of four independent TsEV samples allowed identification of a core set of 336 proteins. Gene Ontology analysis of these vesicles was consistent with exosomes, as a number of exosome-associated marker proteins such as tetraspanins were identified. Proteins linked to immunomodulation and redox metabolism were also identified, suggesting a potential role in interactions with host cells. Finally, the effect of TsEVs on the respiratory burst of human neutrophils was evaluated, revealing a reduction in ROS production, primarily through inhibition of MPO activity, adding up evidence for the role of these vesicles in parasite's survival against the host immune response.",
+        "source": "PubMed",
+        "doi": "10.1042/BSR20250355",
+        "keyword": "Exosomes",
+        "title_ja": "豚条虫の細胞外小胞はミエロペルオキシダーゼ活性を阻害することでヒト好中球における活性酸素種の産生を減少させる。",
+        "summary_ja": "**要約**\n有鉤条虫嚢胞は神経嚢胞症の原因であり、宿主免疫応答を調節することで慢性感染を確立する。本研究では、患者由来嚢胞から細胞外小胞（TsEVs）を単離・解析した。TsEVsは200nm未満で、エクソソームマーカーや免疫調節・酸化還元関連タンパク質を含む。ヒト好中球における反応性酸素種（ROS）産生への影響を評価した結果、TsEVsがミエロペルオキシダーゼ（MPO）活性を抑制することでROS産生を減少させ、寄生虫の免疫回避に関与する可能性が示された。"
+      },
+      {
+        "title": "Chemical constituents of exosome-like nanoparticles-enriched vesicle fraction derived from Sparassis crispa and its biological and molecular docking studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41906696/",
+        "abstract": "Exosome-like nanovesicles (ELNs) are extracellular vesicles (50-200 nm) with a bilayer membrane derived from endosomes. They contain nucleic acids, proteins, lipids and secondary metabolites, and function as mediators of intercellular communication. ELNs isolated from plants and mushrooms have been reported to exhibit diverse biological activities.",
+        "source": "PubMed",
+        "doi": "10.1111/ics.70094",
+        "keyword": "Exosomes",
+        "title_ja": "スラガス・クリスパ由来エクソソーム様ナノ粒子濃縮小胞画分の化学成分とその生物学的・分子ドッキング研究",
+        "summary_ja": "**要約：**\n本論文は、タマチョレイタケ由来のエクソソーム様ナノ粒子（ELNs）の化学構成成分と生物活性を解析した。ELNsは細胞間コミュニケーションを担う二層膜小胞であり、核酸・タンパク質・脂質・二次代謝産物を含む。研究では、タマチョレイタケELNsの分画から特定の化学構成成分を同定し、その生物活性を評価。さらに分子ドッキング研究により、構成成分と標的分子との相互作用を予測し、ELNsの機能的な基盤の解明を試みた。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Small extracellular vesicles (sEVs) in pancreatic cancer progression and diagnosis.",
+        "url": "https://www.semanticscholar.org/paper/1ebc201df36c85bfdb49263289a48eff30da560b",
+        "abstract": "Pancreatic cancer is one of the most aggressive malignancies with poor prognostic outcomes, necessitating the exploration of novel biomarkers and therapeutic targets for early detection and effective treatment. Small extracellular vesicles (sEVs) secreted by cells, have gained considerable attention in cancer research due to their role in intercellular communication and their potential as non-invasive biomarkers. This review focuses on the role of sEVs in the progression of pancreatic cancer and their application as biomarkers. We delve into the biogenesis, composition, and functional implications of sEVs in pancreatic tumor biology, emphasizing their involvement in processes such as tumor growth, metastasis, immune modulation, and chemotherapy resistance. In addition, we discuss the challenges in isolating and characterizing sEVs. The review also highlights recent advances in the utilization of sEV-derived biomarkers for the early diagnosis, prognosis, and monitoring of pancreatic cancer. By synthesizing the latest findings, we aim to underscore the significance of sEVs in pancreatic cancer and their potential to revolutionize patient management through improved diagnostics and targeted therapies.",
+        "source": "SemanticScholar",
+        "doi": "10.1016/j.jconrel.2025.01.072",
+        "keyword": "sEVs",
+        "title_ja": "膵臓癌の進行と診断における小型細胞外小胞（sEVs）の役割",
+        "summary_ja": "膵臓癌は予後不良の悪性腫瘍であり、早期診断・治療のための新規バイオマーカー探索が急務である。本レビューは、細胞間コミュニケーションを担うsmall extracellular vesicles (sEVs) に焦点を当てる。sEVsは、膵臓癌の増殖・転移・免疫調節・化学療法耐性に関与し、非侵襲的バイオマーカーとして早期診断・予後予測に応用できる可能性がある。その生合成、構成、機能に加え、分離・解析の課題や最新の臨床応用について概説する。sEVs研究は、診断精度と標的治療を革新し、患者管理を改善する潜在的可能性を有する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. EBV陽性NK/T細胞悪性腫瘍の地域特性**\nポーランドでの実態分析は、アジアと異なる遺伝的背景・EBV株が臨床像に影響することを示唆。疾患の地理的多様性理解と、地域に適した治療戦略構築の基盤となる。\n\n**2. エクソソームの二面性と薬剤送達ツール化**\n腫瘍はエクソソームで増殖・転移を促進するが、その生体適合性を逆用し、抗がん剤やCRISPR-Cas9を標的送達する「スマートナノキャリア」としての開発が活発。治療パラダイム転換の可能性。\n\n**3. 食品由来エクソソーム様粒子の機能性**\n赤タマネギやアセロラなど、植物由来エクソソーム様ナノ粒子が抗炎症や遺伝子治療キャリアとして機能。安全・安価な天然素材の新たな医療応用が期待される。\n\n**4. エクソソームを活用した組織修復**\n運動由来や幹細胞由来のエクソソームをハイドロゲルに担持し、心筋梗塞や糖尿病性足潰瘍で、血管新生促進や免疫環境制御による治癒促進を実証。再生医療への応用が進む。\n\n**5. 寄生虫細胞外小胞の免疫逃避機構**\n有鉤条虫の細胞外小胞が好中球の活性酸素産生を抑制するメカニズムを解明。感染症における病原体の生存戦略理解と、免疫調節療法開発への示唆を与える。"
+}

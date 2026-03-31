@@ -1,0 +1,257 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "MR-ProADM Predicts Mortality and Heart Failure Events in ATTR Cardiac Amyloidosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41914183/",
+        "abstract": "With the increasing diagnosis of transthyretin amyloid cardiomyopathy (ATTR-CM) at earlier stages and new therapies, there is a rising demand for tools to stratify risk and prognosis. We evaluated the prognostic value of multiple circulating biomarkers for predicting outcomes in ATTR-CM.",
+        "source": "PubMed",
+        "doi": "10.1161/CIRCULATIONAHA.125.077833",
+        "keyword": "Klotho",
+        "title_ja": "MR-ProADM、ATTR心臓アミロイドーシスにおける死亡率と心不全イベントを予測",
+        "summary_ja": "**要約**\nトランスサイレチン心アミロイドーシス（ATTR-CM）において、リスク層別化ツールの需要が高まっている。本研究は、複数の循環バイオマーカーの予後予測能を評価した。その結果、**MR-proADM（中域副腎髄質アドレノメデュリン前駆体）**が、従来のバイオマーカー（NT-proBNP、トロポニンT）を上回り、**全死亡および心不全イベント**を強力に予測することを示した。これは、MR-proADMが神経体液性活性化や線維化など、ATTR-CMの病態生理のより広範な側面を反映するためと考えられる。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "The antiaging protein Klotho is a key factor in susceptibility to cerebral ischemia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41796790/",
+        "abstract": "Ischemic cerebrovascular events are among the leading causes of death and disability worldwide, disproportionately affecting the elderly due to vascular aging, oxidative stress, and chronic inflammation. During cerebral ischemia, oxygen and glucose deprivation trigger a cascade of pathological events, including excitotoxicity, mitochondrial dysfunction, blood-brain barrier disruption, and neuroinflammation. Emerging evidence identifies Klotho as a multifunctional protein with anti-aging, antioxidant, and anti-inflammatory properties that may confer neuroprotection against ischemic injury. Aging is associated with a progressive decline in Klotho expression, correlating with increased stroke susceptibility and poorer recovery outcomes. Experimental studies demonstrate that Klotho attenuates glutamatergic excitotoxicity by regulating the GluN2B subunit and excitatory amino acid transporters. It reduces oxidative stress through inhibition of NADPH oxidase and activation of SOD2 and FOXO3 pathways, while preserving blood-brain barrier integrity by downregulating aquaporin-4 and matrix metalloproteinase-9. Moreover, Klotho suppresses pro-inflammatory signaling by inhibiting NF-κB, RelA, and NLRP3 inflammasome activation, and enhances anti-inflammatory responses via PPAR-γ modulation. Beyond limiting neuronal death, Klotho promotes neurogenesis and synaptic plasticity by regulating neurotrophic factors and Wnt signaling, thereby supporting neural stem cell survival and functional recovery after ischemia. Collectively, these findings position Klotho as a central regulator of neuronal homeostasis and post-ischemic repair. This review provides the first comprehensive mechanistic integration of Klotho's neuroprotective role in ischemic cerebrovascular injury, proposing it as a unifying molecular axis linking brain aging to ischemic vulnerability and regenerative capacity.",
+        "source": "PubMed",
+        "doi": "10.1016/j.neuroscience.2026.03.005",
+        "keyword": "Klotho",
+        "title_ja": "抗老化タンパク質Klothoは脳虚血感受性の重要な因子である",
+        "summary_ja": "脳虚血は高齢者に多く、血管老化・酸化ストレス・炎症が関与する。抗老化蛋白質Klothoは加齢とともに発現低下し、脳虚血感受性を高める。Klothoは、グルタミン酸興奮毒性の調節、NADPH酸化酵素抑制やSOD2/FOXO3経路による酸化ストレス軽減、血液脳関門保護、NF-κB/NLRP3抑制による抗炎症作用を示す。さらに神経栄養因子やWntシグナルを介し神経新生・シナプス可塑性を促進し、虚血後回復を支える。Klothoは脳老化と虚血脆弱性・再生能力を結ぶ統合的分子軸として位置づけられる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "An innovative treatment for lung cancer using gene-engineered human-induced pluripotent stem cell-derived natural killer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41915242/",
+        "abstract": "Various therapeutic approaches have been developed for lung cancer, including chemotherapy, radiation therapy, and immune checkpoint inhibitors. However, these approaches, including chimeric antigen receptor (CAR)-T cell therapy, have shown limited efficacy against solid tumors, especially in advanced disease.To enhance the therapeutic effect, we focused on the multiple effects of a new modality of cell therapy and created engineered natural killer (eNK) cells, which are gene-engineered induced pluripotent stem cell (iPSC)-derived NK cells armed with CC motif ligand 19 (CCL19), CC chemokine receptor type 2B (CCR2B), high-affinity cluster of differentiation 16 (CD16), interleukin (IL)-15, and natural killer group 2, member D (NKG2D)-DNAX-activating protein 10 (DAP10) complex. In vitro studies showed that eNK cells exhibit significant long-lasting cytotoxicity and antibody-dependent cell-mediated cytotoxicity (ADCC) against human lung cancer cell lines. In vivo, eNK cells achieved near-complete tumor regression in orthotopic and subcutaneous cell line-derived xenograft (CDX) models. In contrast, in patient-derived xenograft (PDX) models, eNK cells demonstrated modest tumor growth inhibition (28% reduction) as monotherapy and significantly enhanced efficacy (53% inhibition) in combination with cetuximab via antibody-dependent cellular cytotoxicity. In treated PDX tumors, human CD45-positive cells were detected within the tumor parenchyma, supporting intratumoral presence of administered human cells.These findings support the potential contribution of the five-gene modifications in enhancing tumor homing, persistence, and cytotoxicity in solid tumor treatment. This study underscores the potential of eNK cells as a novel, \"off-the-shelf\" allogeneic therapy for refractory solid tumors, including lung cancer.",
+        "source": "PubMed",
+        "doi": "10.1007/s00262-026-04370-7",
+        "keyword": "NK cell therapy",
+        "title_ja": "遺伝子操作したヒトiPS細胞由来NK細胞を用いた革新的な肺がん治療法",
+        "summary_ja": "肺がん治療において、従来のCAR-T細胞療法を含む既存治療は固形腫瘍への効果が限定的であった。本研究では、遺伝子改変ヒトiPS細胞由来のNK細胞（eNK細胞）を開発した。eNK細胞はCCL19、CCR2B、高親和性CD16、IL-15、NKG2D-DAP10複合体の5遺伝子を導入し、腫瘍指向性・持続性・細胞傷害性を強化している。in vitroでは持続的細胞傷害活性とADCCを確認。in vivoではCDXモデルで腫瘍退縮を達成し、PDXモデルではセツキシマブ併用により53%の腫瘍増殖抑制を示した。本成果は、固形腫瘍に対するオフ・ザ・シェルフ型新規免疫療法の可能性を支持する。"
+      },
+      {
+        "title": "Allogeneic CD56 + cell infusion as a bridge to hematopoietic stem cell transplantation in relapsed/refractory acute myeloid leukemia: a phase I clinical trial.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41915180/",
+        "abstract": "Acute myeloid leukemia (AML) is an aggressive disease with suboptimal overall survival, especially in relapsed/refractory patients. The primary goal of salvage therapy in this patient is to achieve optimal disease control, thereby allowing the transition to hematopoietic stem cell transplantation (HSCT), which remains the only curative option for a subset of these patients. Allogeneic KIR ligand-mismatched CD56",
+        "source": "PubMed",
+        "doi": "10.1007/s00262-025-04285-9",
+        "keyword": "NK cell therapy",
+        "title_ja": "再発/難治性急性骨髄性白血病における造血幹細胞移植へのブリッジ療法としての同種CD56陽性細胞投与：第I相臨床試験",
+        "summary_ja": "本論文は、再発・難治性急性骨髄性白血病（AML）を対象とした第I相臨床試験を報告する。AML、特に再発・難治例では予後不良であり、根治療法である造血幹細胞移植（HSCT）に至ることが重要である。本研究では、HSCTへの「橋渡し」として、同種KIRリガンド不適合CD56陽性細胞（主にNK細胞）の輸注を実施。その安全性と、移植前の疾患コントロールを可能とする「ブリッジ療法」としての可能性を探求した。"
+      },
+      {
+        "title": "Mass cytometry uncovers distinct blood myeloid phenotypes linked to clinical responses during gastric cancer chemoimmunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41915048/",
+        "abstract": "Combination therapy with immune checkpoint inhibitors (ICIs) and chemotherapy has reshaped metastatic gastric cancer (GC) treatment, improving response rate, progression-free survival, and overall survival. We aimed to explore circulating immune cells and elucidate the mechanisms underlying the therapeutic effects of pembrolizumab and capecitabine/oxaliplatin (XELOX) in patients with metastatic GC. Potential immune mechanisms in GC tumors were retrospectively examined among patients from our phase 2 chemoimmunotherapy trial. Peripheral blood samples from patients with GC undergoing first-line pembrolizumab plus XELOX therapy were monitored using high-dimensional cytometry. Matched paired-tissue single-cell RNA-seq data were analyzed. Samples were collected from 24 patients at baseline, after one cycle of XELOX (FU1), and 18 weeks after pembrolizumab addition (FU2). Natural killer cell (CD3-NCAM +) and myeloid cell (CD11c + or CD14 +) subsets increased during chemoimmunotherapy.-At FU1, the proportion of PBMC monocytes was significantly higher in responders compared to non-responders. Consistent with the increase in monocyte-derived macrophages (M1-like) in paired tissues, monocytes in peripheral blood mononuclear cells increased at FU1. Immunosenescence score revealed recently mobilized monocytes infiltrating the tumor bed after chemotherapy. Gene expression analysis showed significantly upregulated CXCL8, CCL3, and CCL4 in FU1 responders. Early elevation of circulating monocytes correlated with better survival. After adding pembrolizumab, memory CD8 (CD3 + CD8 + CD27 + CD28 + CD45RO +) T cells increased in responders compared to non-responders. Our results elucidate the serial immunological landscape underpinning favorable responses to first-line ICI plus chemotherapy in patients with gastric cancer. Early distinct changes in blood myeloid cells during chemotherapy can be used to assess clinical response.",
+        "source": "PubMed",
+        "doi": "10.1007/s00262-025-04263-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "質量サイトメトリーが明らかにする胃癌化学免疫療法中の臨床反応に関連する特異的血中骨髄球表現型",
+        "summary_ja": "転移性胃癌の化学免疫療法（ペムブロリズマブ＋XELOX）において、治療効果に関連する末梢血免疫細胞の動態を質量サイトメトリー等で解析した。治療初期（1サイクル後）に、奏効者では非奏効者に比べ単球（CD14+）の割合が有意に増加し、これは組織内M1型マクロファージの増加と一致した。また、単球ではCXCL8/CCL3/CCL4の発現上昇が認められた。ペムブロリズマブ追加後は、奏効者でメモリーCD8+T細胞が増加した。化学療法初期の血中単球の変化は治療反応性の評価指標となり得る。"
+      },
+      {
+        "title": "Chimeric antigen receptor T-cell therapies related to immune effector cell-associated hemophagocytic lymphohistiocytosis-like syndrome: Diagnosis, high-risk factors, and management.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41914034/",
+        "abstract": "Immune effector cell-associated hemophagocytic lymphohistiocytosis-like syndrome (IEC-HS) is a life-threatening complication of chimeric antigen receptor T cell (CAR-T) therapy. Despite its high mortality rate, IEC-HS remains underrecognized due to overlapping clinical and laboratory features with severe cytokine release syndrome (CRS), leading to delayed diagnosis and suboptimal management. This review systematically analyzes key strategies to distinguish IEC-HS from severe CRS in the literature. The analysis focuses on temporal patterns, such as the delayed onset of IEC-HS after CAR-T infusion. It also examines dynamic laboratory trends, including persistently elevated ferritin and lactate dehydrogenase levels and a slower decline in C-reactive protein (CRP). In addition, distinct cytokine profiles are discussed, such as prolonged interferon-gamma (IFN-γ) elevation and surges in chemokines and growth factors. We further identify high-risk factors for IEC-HS, including patient-specific factors (baseline inflammation, low natural killer [NK] cell counts), disease-related factors (high B-cell acute lymphoblastic leukemia [B-ALL] burden and prior high-grade CRS), and CAR-T-related factors (CD22 target, CD28 costimulation, T-cell selection, high CAR-T cell dose, excessive CAR-T cell expansion, and TET2 gene mutation). For management, we evaluate conventional therapies (corticosteroids, etoposide) and emerging immunomodulatory agents (anakinra, ruxolitinib, emapalumab), emphasizing the 2023 treatment regimen by the American Society of Transplantation and Cellular Therapy (ASTCT). By integrating risk stratification, early diagnostic criteria, and tailored therapeutic approaches, this review aims to improve clinical outcomes for IEC-HS patients.",
+        "source": "PubMed",
+        "doi": "10.1097/CM9.0000000000004066",
+        "keyword": "NK cell therapy",
+        "title_ja": "キメラ抗原受容体T細胞療法に関連する免疫効果細胞関連血球貪食性リンパ組織球症様症候群：診断、高危険因子、および管理",
+        "summary_ja": "CAR-T療法の重篤な合併症である免疫効果細胞関連血球貪食リンパ組織球症様症候群（IEC-HS）は、高死亡率であるにもかかわらず、重篤なサイトカイン放出症候群（CRS）と症状が類似するため診断が遅れがちである。本総説は、IEC-HSとCRSを鑑別するための戦略を体系的に分析した。診断には、発症の時間的遅延、フェリチンやLDHの持続的上昇、IFN-γの遷延などが有用である。高リスク因子として、患者要因（基礎炎症、NK細胞減少）、疾患要因（高腫瘍負荷）、CAR-T要因（CD28共刺激、過剰増殖など）を特定した。管理では、従来治療（ステロイド、エトポシド）に加え、新規免疫調整剤やASTCT2023レジメンを評価し、リスク層別化と早期診断・治療の統合により予後改善を目指す。"
+      },
+      {
+        "title": "An Immunomodulating Peptide With Potential to Counteract Endometriosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41913689/",
+        "abstract": "Endometriosis is underpinned by dysfunctional immune responses resulting in failure to clear ectopic endometrial lesions from the peritoneal cavity. The pelvic milieu comprising immature dendritic cells, dysfunctional cytotoxic lymphocytes, and an imbalance in production of interleukin-12 isoforms including Type I/II interferons (IFNs) is thought to play a major role in this process. The recent discovery of an immunomodulating lipidic peptide, designated IK14004, that activates natural killer (NK) and CD8+ T cells, skews IL-12 signalling towards the IL-12p70 isoform and uncouples production of Type I from Type II IFNs may enable earlier diagnosis of endometriosis and could also have therapeutic benefit.",
+        "source": "PubMed",
+        "doi": "10.1111/ajo.70123",
+        "keyword": "NK cell therapy",
+        "title_ja": "子宮内膜症に対抗する可能性を秘めた免疫調節ペプチド",
+        "summary_ja": "子宮内膜症は、異所性子宮内膜病変の腹腔内クリアランス不全を招く免疫応答不全に起因する。未成熟樹状細胞、機能不全細胞傷害性リンパ球、IL-12アイソフォーム（I型/II型IFN含む）の産生不均衡からなる骨盤内微小環境が主要な役割を果たす。最近発見された免疫調節脂質ペプチドIK14004は、NK細胞とCD8+ T細胞を活性化し、IL-12シグナルをIL-12p70アイソフォームへ偏倚させ、I型とII型IFNの産生を分離する。これにより、子宮内膜症の早期診断と治療への応用が期待される。"
+      },
+      {
+        "title": "Exploring the immune environment of glioblastoma in humanized mouse models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41913047/",
+        "abstract": "Glioblastoma (GBM) is the deadliest primary brain tumor in adults, where current therapies fail to extend survival meaningfully. Available animal GBM tumor models, especially therapy-resistant and recurrent models with human tumor and human immune cell interactions, are limited, impeding innovative treatment research. To address this critical obstacle, we established a unique GBM mouse model using patient-derived xenografts (PDXs) in humanized mice.",
+        "source": "PubMed",
+        "doi": "10.1093/neuonc/noag073",
+        "keyword": "NK cell therapy",
+        "title_ja": "ヒト化マウスモデルにおける膠芽腫の免疫環境の探求",
+        "summary_ja": "ヒト化マウスモデルを用いた膠芽腫（GBM）の免疫環境の解明に関する研究。GBMは最も致死性の高い脳腫瘍であり、既存治療は生存期間を有意に延長できない。特に、ヒト腫瘍とヒト免疫細胞の相互作用を再現する治療抵抗性・再発モデルが不足し、新規治療開発を阻害していた。本研究は、ヒト化マウスに患者由来移植片（PDX）を用いた独自のGBMモデルを確立し、この課題の解決を目指す。"
+      },
+      {
+        "title": "Reinvigorating COTL1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41912896/",
+        "abstract": "Patients with impaired tumour-specific major histocompatibility complex class I (tsMHC-I",
+        "source": "PubMed",
+        "doi": "10.1038/s41556-026-01925-9",
+        "keyword": "NK cell therapy",
+        "title_ja": "COTL1の活性化",
+        "summary_ja": "本論文は、腫瘍特異的MHCクラスI（tsMHC-I）の発現が低下した患者において、COTL1遺伝子の発現を高めることで、がん免疫応答を再活性化できる可能性を示した研究である。COTL1は、細胞内のアクチン動態を制御するタンパク質であり、その発現上昇が、がん細胞のtsMHC-I発現を回復させ、細胞傷害性T細胞による認識と攻撃を促進することが明らかになった。これは、免疫療法が効きにくい患者に対する新たな治療戦略となり得る。"
+      },
+      {
+        "title": "Self-amplifying COVID-19 mRNA vaccination induces longitudinally enhanced antibody function in a Phase 3 trial.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41912532/",
+        "abstract": "Sustained and functional antibody responses to respiratory pathogens through vaccination is critical for global public health. The development and deployment of mRNA vaccines during the coronavirus disease 2019 (COVID-19) pandemic was a landmark achievement in modern medicine and ushered in a new age of vaccine innovation. The mRNA-based vaccines elicited strong antibody responses, both neutralizing and extra-neutralizing, against the viral Spike protein. The antibody levels waned with time since vaccination, and that coupled with the antigenic drift of the virus prompted updates to the mRNA vaccine composition and evaluation of other mRNA modalities. Self-amplifying mRNA (sa-mRNA) vaccines such as ARCT-154 can prolong antigen production and durability of humoral immune response post-immunization, and can thus be administered at a lower dose. How this translates into the overall humoral architecture compared to that shaped by conventional mRNA vaccinations, however, is unclear. Here, we analyze serum-based antibody responses in a subset of participants from a recent Phase III trial comparing neutralizing immune responses elicited by ARCT-154 and mRNA BNT162B2 as a post-hoc research. All participants had received three doses of mRNA COVID-19 vaccines and were randomized to receive a booster dose of ARCT-154 or BNT162B2. Primary outcomes of this research were to quantify waning responses against ancestral/wild type SARS-CoV-2 Spike (WT Spike) and a panel of diverse SARS-CoV-2 variant Spikes. Through a systems serology approach, we identified that the sa-mRNA vaccine ARCT-154 elicited a unique antibody response compared to BNT162B2 defined by a sustained, activating profile to the vaccine-encoded Spike protein and a broad spectrum of drifted Spikes. Notably, potently activating FcγRIIIA-binding antibodies showed a sustained stimulation in the ARCT-154-treatment arm, and this translated to an enhanced natural killer (NK) cell activation. The NK-activation through ARCT-154 was present for both target WT Spike and the antigenically drifted BA.5 Spike, which was the predominant form of SARS-CoV-2 during the observation period. Our results support a model whereby prolonged antigen expression and presentation moves immune profiles towards activating phenotypes with broad antigenic coverage.",
+        "source": "PubMed",
+        "doi": "10.1038/s41541-026-01431-x",
+        "keyword": "NK cell therapy",
+        "title_ja": "自己増幅型COVID-19 mRNAワクチンの第3相試験で、経時的に増強される抗体機能が確認される",
+        "summary_ja": "**要約**\nCOVID-19 mRNAワクチンの新様式である自己増幅型mRNA（sa-mRNA）ワクチンARCT-154の第III相試験における抗体応答を分析。従来型mRNAワクチンBNT162b2と比較し、ARCT-154は、ワクチン由来のスパイク蛋白質および抗原的に多様な変異株スパイクに対する抗体応答を、より持続的かつ活性化型（FcγRIIIA結合能亢進、NK細胞活性化増強）に誘導した。抗原持続提示により、広範な抗原カバレッジを持つ活性化表現型への免疫プロファイルの移行が支持される。"
+      },
+      {
+        "title": "HFB301001, an OX40-based immunotherapy, drives Treg clearance and CTL activation through optimized OX40 receptor clustering.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41912269/",
+        "abstract": "OX40, a key co-stimulatory receptor that amplifies T cell-mediated anti-tumor immunity, is a promising immunotherapeutic target. Despite most reported OX40 agonists in clinical trials having high affinity, the relationship between affinity and agonistic activity remains complex, necessitating further clarification of affinity's impact on OX40-based immunotherapy efficacy and its underlying mechanisms.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2025-014185",
+        "keyword": "NK cell therapy",
+        "title_ja": "HFB301001、OX40ベースの免疫療法は、最適化されたOX40受容体クラスタリングを介してTregの除去とCTLの活性化を促進します。",
+        "summary_ja": "本論文は、OX40を標的とする免疫療法HFB301001について、その作用機序を明らかにした研究である。HFB301001は、最適化されたOX40受容体クラスタリングを誘導する。これにより、腫瘍免疫を抑制する制御性T細胞（Treg）の除去と、抗腫瘍効果を持つ細胞傷害性T細胞（CTL）の活性化を同時に駆動する。高親和性とアゴニスト活性の複雑な関係を踏まえ、本剤は効率的な受容体クラスタリングを通じて優れた抗腫瘍効果を発揮するメカニズムを提示している。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Systemic immune profiling uncovers divergent mechanisms and predictive biomarkers of response to combination immunotherapies in hepatocellular carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41912268/",
+        "abstract": "Combination immunotherapies such as atezolizumab plus bevacizumab (Atez/Bev) and durvalumab plus tremelimumab (Dur/Tre) improve outcomes in advanced hepatocellular carcinoma (HCC), yet systemic immune mechanisms underlying response remain incompletely defined.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2025-013648",
+        "keyword": "NK cell therapy",
+        "title_ja": "全身性免疫プロファイリングが肝細胞癌における併用免疫療法への反応の多様なメカニズムと予測バイオマーカーを解明",
+        "summary_ja": "本論文は、肝細胞癌（HCC）に対するアテゾリズマブ＋ベバシズマブ（Atez/Bev）およびデュルバルマブ＋トレメリムマブ（Dur/Tre）という2つの免疫併用療法の奏効機序を、全身性免疫プロファイリングにより解明した研究である。その結果、両療法では異なる免疫メカニズム（Atez/Bevは自然免疫と血管新生抑制、Dur/TreはT細胞活性化）が関与し、治療前の血中バイオマーカー（例：特定のサイトカインや免疫細胞）が奏効予測に有用であることが示された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosome-niosome hybrid oxygen carrier for protection against acetaminophen-induced acute liver injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41914983/",
+        "abstract": "Acetaminophen (APAP) overdose is one of the contributing factors for acute liver injury (ALI), caused by a hypoxic microenvironment, elevated oxidative stress, and pro-inflammatory signaling. In this work, we present an exosome-niosome hybrid oxygen carrier (ENh-OC) composed of polysorbate 80, Pluronic® F-127, medium chain triglyceride oil, and blueberry-derived exosomes. We propose that our delivery system shields the liver tissue from localized hypoxia by maintaining sustained oxygen delivery, and the antioxidant and anti-inflammatory components present in the exosomes enhance the hepatoprotective effect. The hydrodynamic diameter of ENh-OCs is 74.0 ± 30.8 nm with a zeta potential of -13.2 ± 0.5 mV, and oxygen holding capacity of 54.3 ± 1.5 mg L",
+        "source": "PubMed",
+        "doi": "10.1039/d5bm01861g",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム-ニオソームハイブリッド酸素キャリアによるアセトアミノフェン誘発性急性肝障害の防御",
+        "summary_ja": "本論文では、アセトアミノフェン（APAP）過剰摂取による急性肝障害（ALI）に対する新規治療として、エクソソーム-ニオソーム複合酸素キャリア（ENh-OC）を開発した。ENh-OCは、ポリソルベート80、Pluronic® F-127、中鎖脂肪酸油、ブルーベリー由来エクソソームから構成され、持続的な酸素供給により局所的低酸素を防ぐ。さらに、エクソソーム中の抗酸化・抗炎症成分が肝保護効果を増強する。ENh-OCの粒径は74.0±30.8 nm、ゼータ電位-13.2±0.5 mV、酸素保持能は54.3±1.5 mg/Lであった。"
+      },
+      {
+        "title": "Repurposing Hetrombopag for Multiple Myeloma by Targeting PNPO: A Celastrol-Inspired Approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41914238/",
+        "abstract": "Multiple myeloma (MM) is a malignancy of plasma cells whose excessive immunoglobulin production elevates reactive oxygen species (ROS), promoting pathogenesis. Active compounds from Traditional Chinese Medicine, such as celastrol, can exert antitumour effects by further increasing ROS levels to toxic levels, thereby inducing apoptosis. Our previous study has demonstrated that pyridoxine-5'-phosphate oxidase (PNPO) is the specific target of celastrol. In this study, we discovered that PNPO, a key enzyme involved in vitamin B6 coenzyme metabolism, is highly expressed in various cancers, including MM. Increased PNPO levels correlated with MM disease progression, promoting cell proliferation and inducing osteoclast differentiation via exosomes. Concurrently, through a structure-based virtual screening workflow targeting critical PNPO residues (R95 and K117), we identified Hetrombopag as a potential PNPO inhibitor. Hetrombopag simultaneously inhibited MM cell proliferation and osteoclast differentiation. Preliminary data from clinical trials also supported the idea that hetrombopag treatment can prolong survival in MM patients. Our research highlights the significant role of PNPO in MM progression and suggests hetrombopag as a promising therapeutic option for MM treatment.",
+        "source": "PubMed",
+        "doi": "10.1111/bcpt.70227",
+        "keyword": "Exosomes",
+        "title_ja": "PNPOを標的としたセラストロールに着想を得たアプローチ：多発性骨髄腫へのヘトロンボパグの転用",
+        "summary_ja": "多発性骨髄腫（MM）は、過剰な免疫グロブリン産生により活性酸素種（ROS）が上昇し、病態を促進する形質細胞の悪性腫瘍である。漢方由来化合物セラストロールは、ROSをさらに上昇させてアポトーシスを誘導する。本研究では、セラストロールの標的であるピリドキシン-5'-リン酸酸化酵素（PNPO）がMMを含む癌で高発現し、病態進行、細胞増殖、エクソソームを介した破骨細胞分化を促進することを示した。構造ベース仮想スクリーニングにより、PNPOのR95とK117残基を標的とする既存薬ヘトロンボパグをPNPO阻害剤として同定。ヘトロンボパグはMM細胞増殖と破骨細胞分化を同時に抑制し、臨床試験でも生存期間延長が示唆された。PNPOはMM進行に重要な役割を果たし、ヘトロンボパグは有望な治療選択肢となり得る。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Neural Stem Cell-Derived Exosomes-Transmitted miR-31-5p Promote Functional Recovery of Spinal Cord Injury by Shifting Astrocytes A1/A2 Polarization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41915346/",
+        "abstract": "Spinal cord injury (SCI) causes irreversible motor dysfunction, with reactive astrocytes contributing significantly to the secondary injury cascade. Neuronal stem cell (NSC)-derived exosomes have recently emerged as therapeutic carriers for functional microRNAs (miRNAs) in the central nervous system (CNS), yet their regulatory effects on astrocyte phenotypes in SCI remain unclear. We utilized in vivo and in vitro models of SCI to evaluate the therapeutic potential of NSC-derived exosomes. Microarray profiling was performed to identify exosomal miRNAs, followed by mechanistic validation using bioinformatics, RNA immunoprecipitation (RIP), luciferase reporter assays, and Western blotting. Functional outcomes were assessed by behavioral tests and rescue experiments in SCI mice. NSC-derived exosomes significantly enhanced motor recovery after SCI by shifting astrocytes from the A1-reactive phenotype to the neuroprotective A2-like properties. miR-31-5p was identified as the most enriched miRNA in exosomes and was found to directly target interleukin-34 (Il34), thereby downregulating the Il34/Stat3 signaling axis in astrocytes. Rescue assays confirmed that miR-31-5p-mediated suppression of Il34/Stat3 facilitates astrocytic phenotypic modulation and neurorepair. Our findings uncover a novel mechanism by which exosomal miR-31-5p modulates astrocyte phenotypes via the Il34/Stat3 pathway, highlighting its therapeutic potential as a miRNA-based intervention for promoting functional recovery after SCI.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-05827-7",
+        "keyword": "Exosomes",
+        "title_ja": "神経幹細胞由来エクソソーム伝達miR-31-5pは、アストロサイトのA1/A2極性変換を介して脊髄損傷の機能回復を促進する",
+        "summary_ja": "**要約：**\n神経幹細胞（NSC）由来エクソソームは、脊髄損傷（SCI）後の運動機能回復を促進する。その作用機序として、エクソソーム内で高発現するmiR-31-5pが、アストロサイト内の標的分子インターロイキン-34（Il34）を直接抑制し、Il34/Stat3シグナル軸をダウンレギュレーションする。これにより、アストロサイトの表現型が、障害性のA1型から神経保護的なA2型へと転換され、神経修復が促進される。本研究は、エクソソームmiR-31-5pを介した新たな治療戦略の可能性を示す。"
+      },
+      {
+        "title": "Correction: Efficacy of dental stem cell-derived exosomes for pulp regeneration: a systematic review of clinical, animal, and in vitro studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41915259/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-11720-2",
+        "keyword": "Exosomes",
+        "title_ja": "修正：歯髄再生における歯科幹細胞由来エクソソームの有効性：臨床・動物・in vitro研究の系統的レビュー",
+        "summary_ja": "本論文は、歯髄再生における歯科幹細胞由来エクソソームの有効性を、臨床・動物・in vitro研究の系統的レビューにより評価した。結果、エクソソームは抗炎症・血管新生・細胞遊走を促進し、歯髄様組織の再生を誘導する可能性を示した。しかし、臨床応用には至っておらず、至適用量・投与方法の標準化など課題が残る。"
+      },
+      {
+        "title": "Correction to \"Endplate Chondrocyte Derived Exosomal miR-133a-3p Alleviates Intervertebral Disc Degeneration by Targeting the NF-κB Signaling Pathway through the miR-133a-3p/MAML1 Axis\".",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41914908/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1021/acs.molpharmaceut.6c00351",
+        "keyword": "Exosomes",
+        "title_ja": "「終板軟骨細胞由来エクソソームmiR-133a-3pはmiR-133a-3p/MAML1軸を介してNF-κBシグナル経路を標的とし椎間板変性を軽減する」への修正",
+        "summary_ja": "本論文は、椎間板変性（IVDD）の新たな治療標的として、終板軟骨細胞由来エクソソーム中のmiR-133a-3pに着目した。miR-133a-3pは、標的分子MAML1を抑制することでNF-κBシグナル経路を阻害し、炎症性サイトカイン産生を抑制し、細胞外マトリックス分解を軽減する。これにより、椎間板変性の進行が抑制されることが示された。本研究は、miR-133a-3p/MAML1軸を介した分子メカニズムを解明し、IVDD治療への応用可能性を示唆している。"
+      },
+      {
+        "title": "Plasma exosomal fibroblast activation protein: a novel biomarker links fatty acid metabolic dysregulation to systemic lupus erythematosus.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41913217/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s13075-026-03801-1",
+        "keyword": "Exosomes",
+        "title_ja": "血漿エクソソーム線維芽細胞活性化タンパク質：脂肪酸代謝異常と全身性エリテマトーデスを結ぶ新規バイオマーカー",
+        "summary_ja": "本論文は、全身性エリテマトーデス（SLE）患者の血漿エクソソーム中に、線維芽細胞活性化タンパク質（FAP）が高発現していることを発見した。FAP高発現エクソソームは、脂肪酸酸化（FAO）を抑制し、免疫細胞の代謝異常と炎症を誘導する。このFAP発現は、SLE疾患活動性と相関し、脂肪酸代謝異常とSLE病態を結びつける新規バイオマーカーとしての可能性を示唆している。"
+      },
+      {
+        "title": "Tumor exosomes impact functional hallmarks of cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41912733/",
+        "abstract": "Cancer-derived extracellular vesicles (EVs), particularly exosomes, transfer oncogenic proteins, metabolites and nucleic acids to both nearby and distant cells. These diverse bioactive molecules act synergistically to promote cancer progression by simultaneously modulating multiple signaling networks in recipient cells. By inducing coordinated and complex molecular reprogramming, exosomes provide tumors with a powerful mechanism to drive the diverse processes required for malignant growth, invasion, metastasis and immune modulation. This review integrates recent and landmark studies from primary studies of tumor exosomes and how they influence critical features of cancer as defined in the updated 2022 Hallmarks of Cancer framework. Tumour-derived exosomes not only drive proliferative signalling and metabolic rewiring, but also actively reprogram the stromal and immune compartments of the tumour microenvironment and condition distant tissues to form metastatic niches. In particular, we focus on hypoxia-driven exosome biology. The low-oxygen conditions that characterize most solid tumors enhances exosomal biogenesis and selectively enriches cargo with active molecules to promote angiogenesis, cancer cell survival, epithelial-mesenchymal transition, immune evasion and metastasis. The hypoxia-conditioned exosomes act as long-range carriers of stress-adaptation signals, extending the influence of the hostile tumour microenvironment to diverse cell types. Furthermore, we examine emerging roles for tumor-derived exosomes in modulating host-microbial interactions and influencing the efficacy of immune checkpoint inhibitors, highlighting vesicle-mediated communication between tumors, the immune system, and polymorphic microbiomes. We also explore the potential of targeting exosome-mediated pathways for therapeutic and diagnostic applications. By mapping recent experimental findings onto the updated hallmarks of cancer, this review integrates the central role of exosomes in malignant progression and highlights their potential as therapeutic targets in the clinic.",
+        "source": "PubMed",
+        "doi": "10.1007/s10555-026-10333-2",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍エクソソームはがんの機能的特性に影響を与える",
+        "summary_ja": "**要約**\n腫瘍由来エクソソームは、がん細胞から放出される細胞外小胞であり、タンパク質・核酸・代謝物を周囲や遠隔の細胞へ運ぶ。これらの多様な分子は協調的に作用し、受容細胞内の複数のシグナルネットワークを同時に調節することで、増殖、浸潤、転移、免疫回避など、2022年版「がんの特徴」に定義される悪性化プロセスを促進する。特に低酸素（低酸素）環境はエクソソームの産生と機能を増強し、血管新生や免疫抑制を誘導する。さらに、腫瘍微小環境の再編や免疫チェックポイント阻害剤の効率にも関与し、新たな治療標的として期待される。"
+      },
+      {
+        "title": "Ultralong-Acting PLGA Microspheres Engineered to Sustain Release across the Entire Bone-Regeneration Timeline.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41911044/",
+        "abstract": "Bone defect repair is a precisely choreographed, multiphase cascade that imposes temporally distinct demands on the implanted scaffold. The critical challenge is to create an implant that sustains potent anti-inflammatory and osteogenic signals while eroding at a pace matched to the more than 6-month remodeling timeline. Here, we reported ultralong-acting microspheres that meet this requirement across the entire regeneration program. By synergistically integrating polydopamine-coated poly(lactic-",
+        "source": "PubMed",
+        "doi": "10.1021/acsbiomaterials.6c00161",
+        "keyword": "Exosomes",
+        "title_ja": "超長時間作用型PLGAマイクロスフィア：骨再生の全タイムラインにわたる持続放出を実現する設計",
+        "summary_ja": "本論文は、骨再生の全タイムラインにわたって持続的な薬剤放出を実現する超長期作用型PLGAマイクロスフィアを報告した。骨欠損修復は多段階のカスケードであり、6ヶ月以上に及ぶリモデリング期間を通じて、抗炎症・骨形成促進シグナルを持続的に供給するインプラントの開発が課題であった。本研究では、ポリドーパミンでコーティングしたポリ乳酸-グリコール酸（PLGA）を利用し、薬物放出と材料の分解速度を骨再生の各段階に同期させることに成功した。これにより、炎症期からリモデリング期まで、時空間的に制御された治療が可能な足場材料を実現している。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. Klothoと脳虚血感受性**\n抗老化蛋白質Klothoは加齢とともに発現低下し、脳虚血（脳卒中）への感受性を高める。酸化ストレス調節や興奮毒性抑制を通じて神経保護的に働くため、Klothoを標的とした脳虚血予防・治療戦略の開発が期待される。\n\n**2. iPS細胞由来遺伝子改変NK細胞（eNK細胞）**\n固形腫瘍である肺がんに対し、ヒトiPS細胞から遺伝子改変を施したNK細胞（eNK細胞）を開発。従来のCAR-T療法の課題を克服するオフ・ザ・シェルフ型細胞療法として、実用化が注目される。\n\n**3. 腫瘍エクソソームのがん機能への影響**\n腫瘍由来エクソソームは、核酸やタンパク質を運び、受容細胞の増殖・浸潤・転移など多様ながん形質を協調的に調節する。がん進展の基盤メカニズムとして理解が進み、新たな診断・治療標的となる可能性が高い。\n\n**4. 脊髄損傷回復における神経幹細胞エクソソーム**\n神経幹細胞由来エクソソーム中のmiR-31-5pが、アストロサイトの病態型（A1）から保護型（A2）への極性変換を促し、脊髄損傷後の機能回復を促進する。細胞療法に代わる無細胞治療として期待される。\n\n**5. 急性肝障害に対するエクソソーム複合酸素キャリア**\nアセトアミノフェン中毒による急性肝障害に対し、エクソソームとニオソームを融合した新規酸素キャリアを開発。低酸素状態の組織への酸素供給とエクソソームの治療効果を併せ持ち、ドラッグデリバリーシステムの進展を示す。"
+}

@@ -1,0 +1,115 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Longevity factor klotho and resistance to cognitive deficits in individuals with Parkinson's disease and in an α-synuclein mouse model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41916755/",
+        "abstract": "Aging is the primary risk factor for Parkinson's disease (PD) and PD-related cognitive impairment remains a major unmet biomedical challenge. Klotho, a pleiotropic protein, extends lifespan and enhances cognition, but whether it confers resilience to cognitive impairments in PD is unclear. Here, we show that in humans, the KL-VS genetic variant of ",
+        "source": "PubMed",
+        "doi": "10.1523/JNEUROSCI.1904-25.2026",
+        "keyword": "Klotho",
+        "title_ja": "長寿因子クロトーとパーキンソン病患者およびα-シヌクレインマウスモデルにおける認知機能障害への抵抗性",
+        "summary_ja": "**タイトル: 長寿因子クロトーとパーキンソン病における認知機能障害への抵抗性**\n\n加齢はパーキンソン病（PD）の主要な危険因子であり、PD関連の認知障害は未解決の課題である。長寿・認知機能増強因子である多機能性タンパク質クロトーが、PDにおける認知障害への耐性（レジリエンス）を与えるかは不明であった。本研究では、ヒトにおいて、クロトー遺伝子の**KL-VS**変異（寿命・認知機能と関連）が、PD患者の認知機能低下に対する保護効果を持つことを示した。α-シヌクレイン蓄積マウスモデルでも同様に、クロトーレベルが高いと認知機能が保持された。結論として、クロトーはPDにおける認知障害への抵抗性を付与し、新たな治療標的となる可能性がある。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Decreased serum PF4 levels correlate with cognitive decline and CSF biomarkers in Alzheimer's disease in a Chinese cohort.",
+        "url": "https://www.semanticscholar.org/paper/224b9cfd9e9a4113958dbfe0aa79bcc7a748a5a3",
+        "abstract": "BACKGROUND\nPlatelet factor 4 (PF4), a chemotactic factor secreted from the α-granules of platelets, has recently been proved to mitigate neuroinflammation and improve aging-related cognition decline, which may be involved in Alzheimer's disease (AD).\n\n\nOBJECTIVE\nThis study aims to investigate the alterations of serum PF4 levels in AD, the correlation between serum PF4 and β-amyloid (Aβ) and tau levels in cerebrospinal fluid (CSF), and the potential diagnostic utility of PF4 in AD.\n\n\nMETHODS\nA cross-sectional study was conducted involving 38 amyloid-positive AD patients and 50 cognitively normal controls. The levels of serum PF4 were detected using the Human CXCL4/PF4 enzyme-linked immunosorbent assay (ELISA) Kit. The levels of CSF Aβ42, Aβ40, p-tau181, and t-tau were measured on the fully-automated Lumipulse G1200 platform via commercially available kits.\n\n\nRESULTS\nThe levels of serum PF4 were significantly decreased in AD patients (5163.51 (3198.24-6301.15) vs. 5859.29 (4126.06-8006.70), Z = -2.30, P = 0.021). The negative correlation between AD diagnosis (β = -1972.292, P = 0.009) and PF4 levels retained after the adjustments of age, sex, APOE ε4 status, platelet count, platelet distribution width (PDW), and comorbidity of dyslipidemia in the multiple linear regression analysis. Further analysis showed that serum PF4 levels were positively correlated with CSF Aβ42 levels and Mini-Mental State Examination (MMSE) scores, and negatively correlated with CSF t-tau levels. Besides, the area under the curve (AUC) of serum PF4 for AD (AUC = 0.6437, P = 0.022) was comparable to that of CSF Aβ40 (AUC = 0.6400) yet lower than those of CSF Aβ42, ptau181, and t-tau. The AUC slightly increased when combining serum PF4 with other CSF AD biomarkers separately.\n\n\nCONCLUSIONS\nThe serum levels of PF4 were decreased in AD patients and were significantly correlated with the cognitive function and CSF levels of Aβ42 and t-tau. PF4 may become a promising anti-aging and therapeutic target for AD, which is worthy of further study.",
+        "source": "SemanticScholar",
+        "doi": "10.1016/j.exger.2025.112689",
+        "keyword": "PF4",
+        "title_ja": "中国のコホートにおけるアルツハイマー病の血清PF4レベル低下は、認知機能の低下および脳脊髄液バイオマーカーと相関する。",
+        "summary_ja": "血小板由来のケモカインPF4は、神経炎症を軽減し加齢性認知機能低下を改善することが示されている。本研究では、アミロイド陽性アルツハイマー病（AD）患者38名と対照50名を対象に、血清PF4濃度と脳脊髄液（CSF）バイオマーカーとの関連を調査した。その結果、AD患者では血清PF4濃度が有意に低下しており、年齢・性別・APOE ε4などを調整後もAD診断と負の相関を示した。さらに、血清PF4濃度はCSF Aβ42濃度やMMSEスコアと正相関、CSF t-tau濃度と負相関を示した。診断精度（AUC）は単独ではCSF Aβ40と同等であったが、他のCSFバイオマーカーと組み合わせると向上した。以上より、血清PF4はADの認知機能や病理と関連し、治療標的としての可能性が示唆された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Efficacy of modified dendritic cell-cytokine-induced killer cells loaded with tumour stem cell membrane microparticle therapy in the treatment of relapsed or refractory T- and NK-cell lymphoid proliferations and lymphomas: a report of three cases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41920199/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s00277-026-06965-7",
+        "keyword": "NK cell therapy",
+        "title_ja": "修飾樹状細胞-サイトカイン誘導キラー細胞に腫瘍幹細胞膜微小粒子を搭載した療法の再発または難治性T・NK細胞リンパ増殖性疾患およびリンパ腫治療における有効性：3症例の報告",
+        "summary_ja": "本論文は、再発・難治性のT細胞・NK細胞リンパ増殖症およびリンパ腫3症例に対し、腫瘍幹細胞膜マイクロ粒子を負荷した修飾樹状細胞-サイトカイン誘導キラー細胞（DC-CIK）療法の有効性を報告した症例報告である。\n\n治療により、3症例全てで臨床症状の改善と腫瘍縮小が認められ、うち2例では完全寛解が達成された。このアプローチは、腫瘍幹細胞関連抗原を提示することで、腫瘍特異的免疫応答を強化し、従来治療が困難な本疾患群に対する新たな免疫療法の可能性を示唆している。"
+      },
+      {
+        "title": "In vivo CRISPR screens identify CBX4 as an epigenetic regulator for cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41915438/",
+        "abstract": "Epigenetic dysregulation is associated with immune evasion and immune checkpoint blockade (ICB) resistance. Here, using in vivo CRISPR-Cas9 screens targeting epigenetic-related factors in mouse tumor models treated with ICB, we identified Chromobox 4 (CBX4) as a key negative regulator of immune tumor microenvironment. Single-cell RNA sequencing and spatial transcriptomics analyses of patients receiving neoadjuvant anti-PD-1 therapy revealed high CBX4 expression in both tumor cells and immunosuppressive tumor-associated macrophage subpopulations, with preferential accumulation in non-responders. Deficiency of CBX4 in macrophages or tumor cells, induced robust anti-tumor immunity, increased infiltration and cytotoxic activity of CD8+ T cells and NK cells, thereby heightening the sensitivity of ICB treatment. Mechanistically, CBX4 targeted H3K9me3 and H3K27me3-marked endogenous retroelements such as RLTR4-Mm-int. Loss of CBX4 derepressed retrotransposons, activating cytosolic RNA-sensing pathways and triggering type I interferon response, ultimately leading to robust inflamed TME. Moreover, we uncovered a negative correlation between CBX4 expression and immune responses, retrotransposon levels as well as the prognosis of patients with hepatocellular carcinoma (HCC) undergoing ICB therapy. Our study establishes CBX4 as an epigenetic immune checkpoint through the epigenetic silencing of retrotransposons, remodeling immune TME and thus providing a promising therapeutic target to enhance tumor immunogenicity and overcoming immunotherapy resistance.",
+        "source": "PubMed",
+        "doi": "10.1172/JCI200564",
+        "keyword": "NK cell therapy",
+        "title_ja": "生体内CRISPRスクリーニングにより、がん免疫療法におけるエピジェネティック制御因子としてCBX4を同定。",
+        "summary_ja": "本論文は、in vivo CRISPRスクリーニングにより、がん免疫療法における新たなエピジェネティックな免疫チェックポイントとしてCBX4を同定した。CBX4は、免疫チェックポイント阻害剤（ICB）抵抗性患者の腫瘍細胞および免疫抑制性マクロファージで高発現し、腫瘍免疫微小環境（TME）の負の制御因子として機能する。CBX4欠損は、H3K9me3/H3K27me3で標識された内在性レトロトランスポゾンの抑制を解除し、細胞質RNAセンシング経路とI型インターフェロン応答を活性化することで、炎症性TMEを誘導し、CD8+ T細胞やNK細胞の浸潤・活性化を促進してICB感受性を高める。肝細胞がん患者では、CBX4発現は免疫応答や予後と負の相関を示した。CBX4はレトロトランスポゾンのエピジェネティックサイレンシングを通じて免疫抑制性TMEを形成するため、免疫療法抵抗性克服の有望な治療標的となる。"
+      },
+      {
+        "title": "The pivotal role of metabolism in shaping tumor-associated macrophages phenotype and function.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41875496/",
+        "abstract": "Tumor progression is critically shaped by the dynamic interplay between tumor cells and the tumor microenvironment (TME). The TME harbors a diverse array of immune cells, encompassing T cell, B cell, NK cell and macrophages. Among these, TAMs profoundly shape tumor growth and metastasis by interacting with tumor cells and other immune cells. To adapt to the varied immune and metabolic cues in the TME, they undergo dynamic metabolic reprogramming, which recent advances have shown to involve extensive remodeling of glucose, lipid, and amino acid metabolism, along with the tricarboxylic acid cycle. However, critical knowledge gaps remain regarding the cellular heterogeneity of TAM metabolic reprogramming, divergent metabolic signatures across TAM subsets, and context-dependent variations in metabolic rewiring among different cancer types. However, the mechanisms by which these metabolic alterations translate into distinct functional phenotypes and shape the immune landscape of the TME remain poorly defined. This review systematically synthesizes the current knowledge on how metabolic remodeling in TAMs regulates their polarization and pro-tumor functions. We specifically focus on delineating the heterogeneity of TAM metabolic features across tumor types and subsets and discuss the implications of these metabolic variations for TAM-mediated immunosuppression. Furthermore, we summarize the representative therapeutic agents targeting key metabolic nodes in TAMs. By integrating emerging insights into TAM metabolism and associated pharmacologic interventions, this review aims to identify key unanswered questions and provide a theoretical framework for developing precision immunotherapies that target TAM metabolic nodes without compromising anti-tumor immunity.",
+        "source": "PubMed",
+        "doi": "10.1016/j.intimp.2026.116547",
+        "keyword": "NK cell therapy",
+        "title_ja": "代謝が腫瘍関連マクロファージの表現型と機能形成に果たす決定的役割",
+        "summary_ja": "腫瘍微小環境（TME）において、腫瘍関連マクロファージ（TAMs）は代謝再プログラミングにより、その機能と表現型を動的に変化させる。TAMsは、グルコース、脂質、アミノ酸代謝やTCA回路を広範に再構築し、腫瘍増殖や免疫抑制を促進する。しかし、TAMsの代謝再編には細胞異質性や癌種間での差異があり、代謝変化が機能表現型に変換される機序は未解明である。本総説は、TAMsの代謝リモデリングが極性と機能を制御する現状を体系化し、代謝標的治療薬を概説する。これにより、TAM代謝ノードを標的とした精密免疫療法の理論的基盤を提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Complementary multi-omics profiling of chronic thromboembolic pulmonary hypertension reveals immune cell alterations, epigenetic changes, and genetically supported candidate genes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41915478/",
+        "abstract": "Chronic thromboembolic pulmonary hypertension (CTEPH) is driven by unresolved pulmonary arterial thrombi and involves complex processes such as vascular remodeling and immune dysregulation. Early identification of molecular markers may support more accurate diagnosis and individualized therapy.",
+        "source": "PubMed",
+        "doi": "10.1002/ame2.70166",
+        "keyword": "NK cell therapy",
+        "title_ja": "慢性血栓塞栓性肺高血圧症の相補的なマルチオミクス解析により、免疫細胞の変化、エピジェネティックな変化、および遺伝的に支持される候補遺伝子が明らかになる。",
+        "summary_ja": "慢性血栓塞栓性肺高血圧症（CTEPH）は、未溶解の肺動脈血栓により引き起こされ、血管リモデリングや免疫調節異常などの複雑な過程を伴う。本研究は、多層的オミクス解析により、CTEPH患者における免疫細胞の変化、エピジェネティックな変化、および遺伝的に支持される候補遺伝子を明らかにした。これらの分子マーカーの早期同定は、より正確な診断と個別化治療を支援する可能性がある。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. 長寿因子クロトーとパーキンソン病認知機能**\n加齢はパーキンソン病（PD）最大の危険因子。長寿・認知機能増強因子であるクロトーが、PDおよびαシヌクレイン病態モデルにおいて認知障害への抵抗性に関与することが示された。加齢関連神経変性疾患の新たな治療・予防戦略開発への道筋となる。\n\n**2. 血清PF4低下とアルツハイマー病認知機能低下**\n血小板由来PF4は神経炎症軽減・認知機能改善作用が報告されている。中国コホート研究で、アルツハイマー病患者の血清PF4レベル低下が認知機能低下および脳脊髄液バイオマーカーと相関。血液ベースの新規診断・治療モニタリングバイオマーカーとして期待。\n\n**3. 膜粒子負荷DC-CIK療法によるNK/T細胞リンパ腫治療**\n再発・難治性T/NK細胞リンパ腫3症例に対し、腫瘍幹細胞膜マイクロ粒子を負荷した修飾DC-CIK療法を施行し、全例で臨床効果を確認。がん幹細胞を標的とする新規細胞免疫療法の可能性を示す重要な症例報告。\n\n**4. in vivo CRISPRスクリーニングによる新規免疫チェックポイントCBX4同定**\nin vivo CRISPRスクリーニングにより、エピジェネティック調節因子CBX4が免疫チェックポイント阻害剤抵抗性に関与する新規免疫チェックポイントとして同定。がん免疫療法の効果を高める新たな併用ターゲットとして注目。\n\n**5. 腫瘍関連マクロファージ（TAM）の代謝再プログラミング**\n腫瘍微小環境におけるTAMの機能は、グルコース・脂質・アミノ酸代謝などの広範な代謝再構築により規定される。この代謝リプログラミングを標的とすることは、免疫抑制性TAMを制御し、がん免疫療法の効果を増強する新戦略となる。"
+}

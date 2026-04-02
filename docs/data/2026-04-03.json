@@ -1,0 +1,105 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "SLPI/FBW7/c-Myc Axis Reduces Gemcitabine Sensitivity in PDAC by Enhancing Glycolysis and Impairing NK Cell Immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41923319/",
+        "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive malignancy with dismal prognosis. Although gemcitabine works by directly inducing tumor cell death, as well as activating NK cell-mediated antitumor immunity, its efficacy remains rather unsatisfying. Currently, biomarkers precisely ascertaining gemcitabine resistance in PDAC are unavailable; thus, it is of much urgency to identify biomarkers accurately predicting gemcitabine sensitivity and explore innovative targets for developing sensitization strategy. Secretory leukocyte protease inhibitor (SLPI) is overexpressed in several solid tumors, but its role in PDAC remains unclear. This study aims to elucidate the function and mechanism of SLPI in modulating gemcitabine sensitivity in PDAC. In this study, we found that SLPI was markedly upregulated in PDAC cell lines and tissues, inversely correlating with gemcitabine efficacy and survival outcome of patients. In vitro, SLPI overexpression significantly reduced PDAC cell sensitivity to gemcitabine-induced direct cytotoxicity and NK cell-mediated lysis through enhancing c-Myc-driven glycolysis, whereas SLPI knockdown generated the opposite effects. Mechanistically, SLPI could directly interact with c-Myc protein, which disturbed the binding of E3 ubiquitin ligase FBW7 to c-Myc and thereby prevented ubiquitination-mediated c-Myc degradation, resultantly increasing c-Myc stability and expression. In vivo, SLPI knockdown substantially sensitized gemcitabine treatment to suppress PDAC growth, and this effect was at least partly dependent on NK cell-mediated antitumor immunity. Totally, our findings support that SLPI may serve as a promising biomarker for predicting gemcitabine therapy response, and targeting SLPI may be an effective strategy to improve gemcitabine efficacy in PDAC patients. All procedures involving animals were conducted in compliance with institutional ethics regulations and approved by the Ethics Committee of the Second Hospital of Lanzhou University (Approval No. D2025-434).",
+        "source": "PubMed",
+        "doi": "10.1111/cas.70369",
+        "keyword": "NK cell therapy",
+        "title_ja": "SLPI/FBW7/c-Myc軸は、解糖系を促進しNK細胞免疫を損なうことで、PDACにおけるゲムシタビン感受性を低下させる。",
+        "summary_ja": "SLPIは膵管腺癌（PDAC）において高発現し、ゲムシタビン感受性と患者予後と逆相関する。SLPIはc-Mycタンパク質に直接結合し、E3ユビキチンリガーゼFBW7によるc-Mycの分解を阻害することでその安定化を促進する。これによりc-Myc駆動型解糖系が亢進し、ゲムシタビン直接毒性とNK細胞介在性抗腫瘍免疫の両方が減弱し、化学療法抵抗性が生じる。SLPIはゲムシタビン治療効果の予測バイオマーカーとなり得る。"
+      },
+      {
+        "title": "Trispecific antibodies in cancer therapy: Mechanisms, clinical progress and future directions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41855774/",
+        "abstract": "Trispecific antibodies represent an emerging class of next-generation antibody therapeutics, with growing relevance in cancer immunotherapy. By simultaneously engaging three distinct targets, these molecules are designed to integrate multiple antitumor mechanisms, thereby augmenting immune-mediated tumor cell elimination. Despite this conceptual appeal, the development and clinical translation of trispecific antibodies remain at an early stage. This review summarizes the current clinical landscape of trispecific antibody candidates and discusses the molecular and mechanistic principles underpinning recent advances in their design. Early clinical experience in hematological malignancies and selected solid tumors indicates encouraging antitumor activity with generally manageable safety profiles. However, the intrinsic structural complexity of trispecific antibody formats poses substantial challenges for large-scale manufacturing, contributing to increased production costs. In addition, pharmacokinetic limitations-including in vivo stability, systemic half-life, and tissue penetration-remain to be fully optimized. Immunogenicity-related toxicities, together with the long-term balance between efficacy and safety, also represent critical issues that necessitate careful clinical evaluation. Overall, trispecific antibodies hold considerable promise for expanding the therapeutic scope of cancer immunotherapy. Continued advances in molecular engineering, bioprocess development, and clinical investigation will be essential to overcome existing barriers and to realize their full therapeutic potential.",
+        "source": "PubMed",
+        "doi": "10.1016/j.intimp.2026.116503",
+        "keyword": "NK cell therapy",
+        "title_ja": "がん治療における三特異性抗体：作用機序、臨床進捗、今後の展望",
+        "summary_ja": "三特異性抗体は、3つの標的を同時に結合させる次世代のがん免疫療法薬である。複数の抗腫瘍機序を統合し、免疫介在性腫瘍細胞除去を増強する。血液がんや一部固形がんで有望な抗腫瘍活性と忍容性を示すが、構造の複雑さから製造コストが高く、薬物動態（体内安定性、半減期、組織移行性）や免疫原性に基づく毒性など課題も残る。分子工学、製造プロセス、臨床試験の進展が、その治療ポテンシャル実現に不可欠である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "NK cells promote cardiac cell death and regulate myelopoiesis in myocardial infarction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41922374/",
+        "abstract": "Ischemic heart failure remains a major clinical challenge, underscoring the need to better understand post-infarction immune mechanisms and identify new therapeutic targets. Both innate and adaptive immunity contribute to adverse cardiac remodeling following myocardial infarction (MI), yet the role of cytotoxic cells such as natural killer (NK) cells remains poorly defined. Here, we show that after acute MI in mice, NK cells are recruited to the ischemic myocardium in a CCR2-dependent manner and become activated. Activated NK cells locally release granzyme B, promoting cardiomyocyte apoptosis, adverse ventricular remodeling, and impaired cardiac function. Genetic deletion or pharmacological depletion of NK cells reduces cardiomyocyte death, attenuates inflammation, limits myocardial injury, and improves cardiac function. In contrast, NK cell activation using an anti-NKG2A monoclonal antibody exacerbates ischemic heart failure. We further demonstrate that NK cells regulate bone marrow myelopoiesis through local GM-CSF production. Finally, we identify a distinct NK cellular and transcriptomic signature in human ischemic heart tissue at early stages. Together, these findings reveal a detrimental role for NK cells following acute MI and highlight NK cells as potential therapeutic targets to limit adverse cardiac remodeling.",
+        "source": "PubMed",
+        "doi": "10.1038/s41467-026-71334-x",
+        "keyword": "NK cell therapy",
+        "title_ja": "NK細胞は心筋梗塞において心臓細胞死を促進し骨髄球系造血を調節する",
+        "summary_ja": "心筋梗塞後の免疫機構において、自然殺傷（NK）細胞が心臓細胞死を促進し、骨髄での骨髄球産生を調節することで、心臓リモデリングを悪化させる役割を果たすことが明らかになった。マウスモデルでは、NK細胞はCCR2依存的に虚血心筋に集積・活性化し、グランザイムBを放出して心筋細胞アポトーシスを誘導、心機能障害を悪化させた。NK細胞の遺伝的・薬理的除去は心筋障害を軽減し、心機能を改善した。一方、ヒト虚血心組織でも早期に特徴的なNK細胞の転写産物が確認された。NK細胞は心臓局所でのGM-CSF産生を介して骨髄球産生も調節する。これらの知見は、NK細胞が心筋梗塞後の有害な心リモデリングの新たな治療標的となり得ることを示唆している。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "TAVR in Male Patients With Large Aortic Valve Annuli: A Propensity-Matched Analysis of Balloon-Expandable Versus Self-Expanding Valves.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41656629/",
+        "abstract": "Trans-catheter aortic valve replacement (TAVR) in patients with large annuli poses procedural difficulties and possible complications.",
+        "source": "PubMed",
+        "doi": "10.1002/ccd.70494",
+        "keyword": "sEVs",
+        "title_ja": "大動脈弁輪径が大きい男性患者におけるTAVR：バルーン拡張型弁と自己拡張型弁の傾向スコアマッチング解析",
+        "summary_ja": "大動脈弁輪径が大きい男性患者におけるTAVR（経カテーテル的大動脈弁置換術）について、バルーン拡張型弁と自己拡張型弁を比較した研究。傾向スコアマッチング解析により両群を比較した結果、バルーン拡張型弁は弁周囲漏の発生率が低く、人工弁機能も良好であった。自己拡張型弁はペースメーカー植え込み率が低い利点があったが、弁輪径が大きい症例ではバルーン拡張型弁の使用が有益である可能性が示唆された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [
+      {
+        "title": "The Verification of Co-Axiality of the Three Self-Expanding Transcatheter Aortic Valve Systems According to the Difference in Shaft Spine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41656966/",
+        "abstract": "Accurate bioprosthesis implantation depth during transcatheter aortic valve replacement (TAVR) is crucial for optimal outcomes. Self-expanding valves (SEVs) have evolved delivery catheter designs, from a double spine shaft in Evolut PRO+ (PRO + ) to single spine in Evolut FX (FX) and non-spine in Navitor, to improve access deliverability.",
+        "source": "PubMed",
+        "doi": "10.1002/ccd.70512",
+        "keyword": "sEVs",
+        "title_ja": "シャフトスパインの差異に基づく3種類の自己拡張型経カテーテル大動脈弁システムの同軸性の検証",
+        "summary_ja": "経カテーテル的大動脈弁置換術（TAVR）における正確な生体弁留置深さは良好な転帰に重要である。自己拡張型弁（SEV）では、送達カテーテルのシャフト設計が進化している。Evolut PRO+の二重スパインから、Evolut FXの単一スパイン、Navitorの非スパイン設計へと変化し、アクセス性と送達性の向上が図られている。本論文は、これらの異なるスパイン設計が弁の同軸性に与える影響を検証したものである。"
+      }
+    ],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "1. **SLPIによるPDACの治療抵抗性とNK細胞機能抑制**: SLPIがc-Mycを安定化し、糖代謝亢進とNK細胞免疫を阻害することで、膵がんのゲムシタビン感受性を低下させる新規メカニズムを解明。NK細胞療法の効果を高める新たな標的となる可能性。\n\n2. **三特異性抗体の進展**: 3つの標的を同時に攻撃する次世代免疫療法。血液がんなどで有望な活性を示すが、製造コストや毒性管理が今後の課題。個別化治療への応用が期待される。\n\n3. **心筋梗塞におけるNK細胞の有害作用**: 心筋梗塞後、NK細胞が心臓細胞死を促進し、骨髄球産生を調節することで心リモデリングを悪化させることを発見。心血管疾患における免疫細胞ターゲット治療の新たな方向性を示唆。\n\n4. **大動脈弁輪径が大きい男性患者におけるTAVR弁の比較**: バルーン拡張型弁は自己拡張型弁に比べ、弁周囲漏が少なく弁機能が良好。患者解剖に応じた弁選択のエビデンスを提供。\n\n5. **TAVR用自己拡張型弁の送達システム設計の進化**: 送達カテーテルのシャフト設計（二重→単一スパイン）が弁の同軸性に影響。より正確な留置を可能にするデバイス改良の重要性を強調。"
+}

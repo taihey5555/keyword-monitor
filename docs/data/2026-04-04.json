@@ -1,0 +1,197 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Uremic toxin p‑cresyl sulfate enhances the calcification of aortic valvular interstitial cells via klotho/sirtuin‑1 signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41930468/",
+        "abstract": "Calcific aortic valve disease (CAVD), a valvular heart disease with severe complications, is common in patients with chronic kidney disease (CKD). P‑cresyl sulfate (PCS) is a protein‑binding uremic toxin that induces chronic inflammation. Klotho and sirtuin‑1 (SIRT1) represent potential therapeutic agents for mitigating CKD‑induced vascular calcifications. We hypothesized that PCS could enhance valvular interstitial cell (VIC) calcification, which could be modulated by klotho/SIRT1 signaling. Alizarin Red S staining, western blotting and immunohistochemical analysis were performed in order to examine calcification and klotho/SIRT1 signaling in isolated porcine VICs following various 7‑day treatments. VIC treatments included incubation with PCS (10 and 100 ",
+        "source": "PubMed",
+        "doi": "10.3892/mmr.2026.13872",
+        "keyword": "Klotho",
+        "title_ja": "尿毒症毒素p-クレシル硫酸は、Klotho/Sirtuin-1シグナリングを介して大動脈弁間質細胞の石灰化を促進する。",
+        "summary_ja": "慢性腎臓病（CKD）患者に多い石灰化大動脈弁疾患（CAVD）において、尿毒症毒素p-クレシル硫酸（PCS）が大動脈弁間質細胞（VIC）の石灰化を促進するメカニズムを検討。PCSはKlothoとSIRT1の発現を抑制し、これがVICの石灰化を増強することを、ブタVICを用いた実験（アリザリンレッド染色、ウエスタンブロット等）で確認した。Klotho/SIRT1シグナルはPCS誘発性の弁石灰化を調節する潜在的な治療標的であると示唆される。"
+      },
+      {
+        "title": "SP/NK-1 pathogenic signaling drives doxorubicin nephrotoxicity: Novel therapeutic role of MK-0869 via modulation of α-Klotho, RAS, and Wnt/β-catenin trajectories.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41871660/",
+        "abstract": "Doxorubicin (Dox) is a cornerstone chemotherapeutic agent whose clinical use is limited by nephrotoxicity driven by oxidative stress, renin-angiotensin system (RAS) imbalance, activation of the profibrotic Wnt/β-catenin pathway, and suppression of the renoprotective protein α-Klotho. Substance P (SP) signaling through the neurokinin-1 (NK-1) receptor is a mediator of inflammatory injury; however, its role in Dox-induced nephrotoxicity remains unexplored. Therefore, we investigated whether pharmacological blockade of the NK-1 receptor with MK-0869 could alleviate Dox-induced nephrotoxicity and modulate α-Klotho-associated antioxidant and signaling pathways. Male Sprague-Dawley rats were assigned to control, MK-0869, Dox, and Dox + MK-0869 groups. Dox nephrotoxicity was induced cumulatively (16 mg/kg over 28 days), while MK-0869 was administered orally (10 mg/kg/day). Renal function markers, signaling and oxidative stress markers were assessed using ELISA, qRT-PCR, Western blotting, immunohistochemistry, and histopathological analysis. MK-0869 markedly attenuated Dox-induced renal injury, significantly improving renal function and histological architecture. Specifically, compared with Dox-treated rats, MK-0869 reduced serum creatinine by 53% (p < 0.0001) while restoring renal α-Klotho levels nearly two-fold (p < 0.0001). Mechanistically, NK-1 receptor blockade suppressed SP signaling, restored Ang-(1-7) levels while attenuating the Ang II/AT-1 receptor axis, activated the Nrf2/HO-1 antioxidant pathway, reinstated FoxO3a-dependent SOD2 expression, and inhibited Wnt-1/β-catenin signaling, thereby reducing renal fibrosis. In conclusion, NK-1 receptor blockade confers robust protection against Dox-induced nephrotoxicity through integrated modulation of α-Klotho signaling, RAS balance, oxidative stress, and profibrotic pathways. These findings support MK-0869 as a promising renoprotective adjunct during Dox therapy and warrant further studies to evaluate long-term safety and translational potential.",
+        "source": "PubMed",
+        "doi": "10.1016/j.lfs.2026.124339",
+        "keyword": "Klotho",
+        "title_ja": "SP/NK-1病原性シグナル伝達がドキソルビシン腎毒性を駆動する：α-クロトー、RAS、およびWnt/β-カテニン経路の調節を介したMK-0869の新規治療的役割",
+        "summary_ja": "ドキソルビシン（Dox）の腎毒性は、酸化ストレス、レニン-アンジオテンシン系（RAS）不均衡、Wnt/β-カテニン経路の活性化、腎保護蛋白α-Klothoの抑制により生じる。本研究は、サブスタンスP（SP）/NK-1受容体シグナルがこの腎毒性を媒介することを初めて報告した。NK-1受容体拮抗薬MK-0869は、Dox投与ラットにおいて腎機能・組織障害を改善し、血清クレアチニンを53%減少、腎α-Klothoを約2倍に回復させた。機序として、MK-0869はSPシグナルを抑制し、RASバランス（Ang II/AT-1抑制、Ang-(1-7)回復）、Nrf2/HO-1経路を介する酸化ストレス軽減、Wnt-1/β-カテニンシグナル抑制を統合的に調節した。NK-1受容体阻害はDox腎毒性に対する新規治療戦略となり得る。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "FGF21 targets pathways which enhance insulin sensitivity in brown adipose, but not skeletal muscle in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41926710/",
+        "abstract": "Acute pharmacological administration of the endocrine hormone fibroblast growth factor 21 (FGF21) enhances insulin sensitivity. This acute insulin-sensitizing effect of FGF21 is mediated through direct signaling to brown adipose tissues. Since skeletal muscle is an important site of insulin-stimulated glucose intake and shares a common progenitor cell with brown adipocytes, we examined whether the beneficial effects of FGF21 administration could be enhanced by making skeletal muscle a FGF21-responsive target tissue. This was accomplished by ectopically expressing the FGF21 co-receptor, β-klotho, in skeletal muscle. Here, we demonstrate that under normal conditions, FGF21 does not enhance insulin-stimulated glucose uptake in skeletal muscle. In addition, generation of FGF21 responsiveness and direct signaling to skeletal muscle also has no effect on FGF21-mediated increases in whole-body or skeletal muscle insulin sensitivity. Instead, FGF21 uniquely signals to brown adipocytes to enhance insulin-stimulated glucose uptake. Therefore, to identify how FGF21 signals to brown adipocytes to enhance insulin sensitivity, we performed comprehensive phospho-proteomics in brown adipocytes in response to FGF21 and/or insulin. Our results indicate that FGF21 administration increases the phosphorylation of several proteins involved in the trafficking of GLUT4 in primary brown adipocytes. These results provide new insights into how FGF21 enhances insulin sensitivity.",
+        "source": "PubMed",
+        "doi": "10.1210/endocr/bqag040",
+        "keyword": "Klotho",
+        "title_ja": "FGF21はマウスにおいて、骨格筋ではなく褐色脂肪組織のインスリン感受性を高める経路を標的とする。",
+        "summary_ja": "FGF21の急性投与は、褐色脂肪組織への直接シグナル伝達を介してインスリン感受性を向上させる。本研究では、骨格筋をFGF21応答性組織とするため、共受容体β-klothoを異所的に発現させたが、FGF21は骨格筋のインスリン刺激下グルコース取り込みを促進せず、全身・骨格筋のインスリン感受性にも影響を与えなかった。一方、褐色脂肪細胞では、FGF21がGLUT4輸送関連タンパク質のリン酸化を増加させ、インスリン感受性を特異的に向上させることがプロテオミクス解析で示された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Intrinsic immune properties of carrier MSC impact on the clinical outcome of children with solid tumors receiving oncolytic virotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41928285/",
+        "abstract": "Our previous clinical data showed that autologous mesenchymal stromal cells (MSCs) can be used as carriers for the systemic delivery of oncolytic adenoviruses in children with advanced cancers, a therapy known as Celyvir. Despite achieving clinical remissions, treatment responses have been heterogeneous. Here, we sought to determine whether intrinsic biological characteristics of carrier MSCs influence therapeutic outcomes. Transcriptomic profiling was performed on MSCs from responder and non-responder patients to identify pathways differentially regulated according to clinical response. Expression of MAVS (mitochondrial antiviral signaling), NF-κB activation, and secretion of pro-inflammatory cytokines were analyzed in MSCs and Celyvir products both at baseline and after adenoviral infection. Among the pathways differentially regulated in MSCs according to treatment response, MAVS was identified as a relevant modulator, showing significantly lower expression in Celyvir products from responder patients. Consistently, MSCs and Celyvir products from responders exhibited reduced NF-κB activation and secreted significantly lower levels of pro-inflammatory cytokines at baseline and post-infection. To validate these findings, immunocompetent mice were treated with murine Celyvir prepared using MAVS-deficient (MAVS",
+        "source": "PubMed",
+        "doi": "10.1186/s40164-026-00768-2",
+        "keyword": "NK cell therapy",
+        "title_ja": "担体MSCの内在性免疫特性が、腫瘍溶解性ウイルス療法を受ける固形腫瘍患児の臨床転帰に与える影響",
+        "summary_ja": "本論文は、固形腫瘍患児に対するオンコリティックウイルス療法「Celyvir」（自家間葉系幹細胞（MSC）をウイルスキャリアとする全身投与療法）において、治療反応が不均一である原因を探った研究である。治療応答者と非応答者のMSCを比較したトランスクリプトーム解析から、応答者のMSCおよびCelyvir製品では、ミトコンドリア抗ウイルスシグナル（MAVS）の発現が低く、それに伴いNF-κB活性化と炎症性サイトカイン分泌が、感染前後を通じて一貫して低いことが明らかになった。MAVS欠損マウスMSCを用いた検証でも同様の傾向が確認され、キャリアMSCに内在する免疫特性、特にMAVSを介した自然免疫応答の強さが、治療効果に影響を与える重要な因子であることが示された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Transforming growth factor β induced as a novel secreted immune checkpoint counterinhibiting human tumor-associated T cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41927343/",
+        "abstract": "We investigated the hypothesis that transforming growth factor β induced (TGFBI), an extracellular matrix protein secreted in the microenvironment of several tumors, can act as a secreted immune checkpoint (sIC) that contributes to the suppression of human antitumor T cell responses.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2025-012668",
+        "keyword": "NK cell therapy",
+        "title_ja": "新規分泌型免疫チェックポイントとして誘導される形質転換増殖因子βがヒト腫瘍関連T細胞を抑制する",
+        "summary_ja": "本論文は、腫瘍微小環境で分泌される細胞外基質タンパク質TGFBIが、新規の分泌型免疫チェックポイント（sIC）として機能し、抗腫瘍T細胞応答を抑制する可能性を検証した。TGFBIは、複数のがん種で発現が確認され、ヒト腫瘍関連T細胞の活性化と機能を直接阻害することが示された。この発見は、TGFBIを標的とした新たな免疫療法の開発につながる可能性がある。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "CCL26-Mediated Modulation of Endothelial Secretome by Hypoxia-Induced Tumor-Derived Exosomes Enhances Metastatic Progression in Head and Neck Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41928618/",
+        "abstract": "Tumor cells adapt to hypoxia by releasing hiTDExs enriched with bioactive molecules that modulate endothelial behavior and promote tumor progression. This study aimed to characterize how hypoxia-induced HNSCC exosomes reshape the endothelial secretome and contribute to metastatic potential.",
+        "source": "PubMed",
+        "doi": "10.1002/hed.70259",
+        "keyword": "Exosomes",
+        "title_ja": "低酸素誘導性腫瘍由来エクソソームによるCCL26を介した内皮細胞分泌制御が頭頸部癌の転移進行を促進する",
+        "summary_ja": "低酸素環境下の頭頸部癌細胞は、低酸素誘導性腫瘍由来エクソソーム（hiTDExs）を放出する。このhiTDExsはCCL26を豊富に含み、血管内皮細胞の分泌プロファイル（分泌体）を再編成する。その結果、血管透過性や血管新生を促進する因子の発現が増加し、腫瘍の転移進展が増強される。本研究は、hiTDExsを介したCCL26シグナル伝達が腫瘍微小環境を改変し、転帰を悪化させる新たな機序を明らかにした。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "CRISPR-Cas9 and next-generation gene editing strategies for therapeutic intervention of neurodegenerative pathways in Alzheimer's disease: a state-of-the-art review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931258/",
+        "abstract": "Alzheimer's disease (AD) is a progressive and multifactorial neurodegenerative disorder and the leading cause of dementia worldwide, characterized by extracellular amyloid-β (Aβ) plaque deposition, intracellular neurofibrillary tangles composed of hyperphosphorylated tau, synaptic loss, mitochondrial dysfunction, oxidative stress, and chronic neuroinflammation. Despite major advances in understanding its molecular basis, currently approved therapies remain largely symptomatic and fail to halt or reverse neurodegeneration, emphasizing the urgent need for disease-modifying strategies. In this comprehensive state-of-the-art review, we examine the rapidly evolving landscape of CRISPR-Cas9 and next-generation gene-editing technologies, including base editors and prime editors, as innovative therapeutic platforms for precisely modulating AD-associated genetic and molecular pathways. We discuss targeting of critical genes such as APOE4, APP, PSEN1, PSEN2, and MAPT, which play central roles in amyloid processing, tau pathology, lipid metabolism, and neuroinflammatory cascades, and evaluate strategies for allele-specific correction, gene silencing, and transcriptional regulation using CRISPR interference/activation and epigenome editing tools. The review further explores multiplex editing approaches that simultaneously target interconnected pathogenic networks underlying Aβ accumulation, tau hyperphosphorylation, microglial activation, and synaptic dysfunction. A central focus is placed on overcoming delivery barriers to the central nervous system, particularly the blood-brain barrier (BBB), highlighting advances in engineered adeno-associated viral vectors, lentiviral systems, lipid nanoparticles, polymeric nanocarriers, exosome-based delivery, receptor-mediated transcytosis, immune-evasive vector design, and focused ultrasound-mediated BBB modulation. Review examines the integration of bioinformatics, multi-omics profiling, and artificial intelligence-guided design to enhance editing specificity, efficiency, and safety while minimizing off-target effects. Preclinical evidence demonstrating reductions in amyloid burden, attenuation of tau pathology, restoration of synaptic function, and improvement in cognitive performance is critically evaluated. This review discusses translational challenges, including immunogenicity, long-term genomic stability, ethical considerations, and regulatory frameworks. It outlines future directions, emphasizing personalized, precision-based, and durable gene-editing strategies that may redefine therapeutic intervention for AD.",
+        "source": "PubMed",
+        "doi": "10.1007/s13760-026-03033-9",
+        "keyword": "Exosomes",
+        "title_ja": "CRISPR-Cas9および次世代遺伝子編集技術によるアルツハイマー病神経変性経路の治療的介入：最先端レビュー",
+        "summary_ja": "アルツハイマー病（AD）は、アミロイドβ（Aβ）斑やタウ凝集体の蓄積などを特徴とする神経変性疾患であり、現行療法は対症的で疾患修飾が急務である。本総説は、CRISPR-Cas9や塩基編集・プライム編集などの次世代ゲノム編集技術を、APOE4やAPP等のAD関連遺伝子・経路の精密制御に応用する戦略を検討する。Aβ蓄積やタウ病理など複数の病因を同時標的とする多重編集や、ウイルスベクター・ナノ粒子等による血液脳関門（BBB）越えの送達法の進展を概説する。さらに、AIを活用した編集の特異性・安全性向上や、臨床転換における課題・将来展望について論じる。"
+      },
+      {
+        "title": "Exercise‑induced extracellular vesicle microRNA regulates physiological function (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41930485/",
+        "abstract": "Physical exercise is essential for maintaining health and preventing disease. Various forms of exercise enhance physiological function by regulating multiple body systems, including the metabolic, immune, cardiovascular and nervous systems. Beyond directly improving organ performance, exercise promotes systemic homeostasis through the modulation of extracellular vesicles (EVs), particularly exosomes. Functioning as key mediators of intercellular communication, exosome‑derived microRNAs (miRNAs) exhibit dynamic regulation influenced by exercise type, frequency and intensity. Accumulating evidence suggests that exercise‑induced exosomal miRNAs support organ integrity and play crucial roles in the prevention and treatment of disorders associated with the metabolic, immune, cardiovascular and nervous systems. Elucidating the underlying cellular and molecular mechanisms of these miRNAs may enable their application as diagnostic biomarkers and therapeutic targets for a variety of diseases. The present review summarized advances in the study of exercise‑induced exosomal miRNAs and underscored their potential in promoting health and preventing disease.",
+        "source": "PubMed",
+        "doi": "10.3892/mmr.2026.13871",
+        "keyword": "Exosomes",
+        "title_ja": "運動誘発性細胞外小胞マイクロRNAによる生理機能調節（総説）",
+        "summary_ja": "運動は健康維持・疾病予防に重要であり、代謝・免疫・循環・神経系など多様な生理機能を調節する。運動は臓器機能を直接改善するだけでなく、細胞間コミュニケーションを担う細胞外小胞、特にエクソソームを介した全身的な恒常性維持にも寄与する。運動様式・頻度・強度に応じて動的に制御されるエクソソーム由来マイクロRNA（miRNA）は、臓器の統合性を支え、各システムに関連する疾患の予防・治療に重要な役割を果たす。これらのmiRNAの細胞・分子メカニズムを解明することで、疾患の診断バイオマーカーや治療標的としての応用が期待される。本総説は、運動誘発性エクソソームmiRNAの研究動向を概説し、健康増進と疾病予防における潜在的可能性を強調した。"
+      },
+      {
+        "title": "Long non-coding RNA H19 contributes to M1 macrophage polarization mediated inflammation via miR-145-5p-PAI-1 axis in systemic lupus erythematosus.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41928431/",
+        "abstract": "Systemic lupus erythematosus (SLE) represents a prototypical autoimmune disorder characterized by multi-organ involvement due to loss of immune tolerance. Emerging evidence implicates macrophage polarization dynamics as a pivotal contributor to SLE pathogenesis, with epigenetic regulation by long noncoding RNAs (lncRNAs) emerging as a critical regulatory mechanism. To elucidate the pathogenic role of exosome-derived lncRNAs in this process, we performed comprehensive RNA sequencing analysis on circulating exosomes from SLE patients, identifying lncRNA H19 as a significantly upregulated candidate. Subsequent functional analyses using primary murine macrophages demonstrated that exogenous H19 administration recapitulated the pro-inflammatory phenotype observed in SLE, as evidenced by enhanced M1 macrophage differentiation, transmigration capacity, and renal infiltration patterns in experimental models. Notably, we primarily identified lncRNA H19 as a potential indicator in SLE, the knockdown of which might significantly attenuate these pathological manifestations. Mechanistic investigations revealed that H19 promoted the proliferation and migration of macrophages in vitro and exerted its regulatory function through competitive binding to miR-145-5p, thereby derepressing PAI-1 expression and subsequently activating the JAK2-STAT3 signaling cascade to orchestrate pro-inflammatory cytokine production. Overall, this study reveals novel molecular mechanisms underlying immune dysregulation in SLE, establishing exosomal lncRNA H19 as a key epigenetic modulator of macrophage polarization via the miR-145-5p/PAI-1/STAT3 axis, and proposes a novel potential therapeutic target for restoring immune homeostasis in patients with SLE before clinical practice.",
+        "source": "PubMed",
+        "doi": "10.1080/08916934.2026.2649582",
+        "keyword": "Exosomes",
+        "title_ja": "全身性エリテマトーデスにおけるmiR-145-5p-PAI-1軸を介したM1マクロファージ極性化炎症への長鎖非コードRNA H19の関与",
+        "summary_ja": "全身性エリテマトーデス（SLE）において、血中エクソソーム由来の長鎖非コードRNA H19が著明に増加していることを発見した。H19はmiR-145-5pに競合的に結合し、その抑制下にあるPAI-1の発現を脱抑制する。これによりJAK2-STAT3シグナルが活性化され、マクロファージのM1型極分化と炎症性サイトカイン産生が促進され、SLEの病態形成に寄与する。本研究は、エクソソームlncRNA H19を介した新たな免疫調節機構を明らかにし、SLEの新規治療標候補を提唱する。"
+      },
+      {
+        "title": "Non-invasive profiling of exosomal miRNA and protein biomarkers from vaginal discharge for the early detection of preterm labor.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41928233/",
+        "abstract": "Preterm labor is a serious concern that can lead to preterm birth, posing substantial risks for both the mother and the neonate. Despite approximately 15 million preterm births worldwide each year, there is a lack of sufficient strategies for predicting and preventing preterm labor. Here, we present a non-invasive method for simultaneously detecting exosomal miRNA and protein biomarkers in vaginal discharge, enabling early diagnosis of life-threatening conditions in both the mother and the neonate. Our non-invasive vaginal discharge biopsy using a swab enables the isolation of enriched intact extracellular vesicles through our microfluidic platform called Biologically-intact Exosome Separation Technology (BEST). We observed differential expression of specific miRNAs, including up-regulated hsa-miR-206 and down-regulated hsa-miR-3674, hsa-miR-365a-5p, and hsa-miR-193b-3p, in mothers experiencing preterm labor. We also found significant differences in protein expression in mothers with preterm labor compared to full-term mothers, indicating the involvement of HGS, ATL3, APOH, and GUSB in preterm labor mechanisms. We envision a future in which non-invasive detection of unique miRNA and protein biomarkers in vaginal discharge transforms global healthcare by enabling early detection and effective treatment of preterm labor.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04277-6",
+        "keyword": "Exosomes",
+        "title_ja": "早産の早期発見のための腟分泌物由来エクソソームmiRNAおよびタンパク質バイオマーカーの非侵襲的プロファイリング",
+        "summary_ja": "**要約：**\n本論文は、早産の早期診断を目的として、腟分泌物中のエクソソーム由来miRNAおよびタンパク質バイオマーカーの非侵襲的検出法を提案する。マイクロ流体プラットフォーム（BEST）を用いてエクソソームを分離し、早産群ではhsa-miR-206の上昇、hsa-miR-3674などの低下を確認した。タンパク質ではHGS、ATL3などの発現差を同定し、これらが早産機構に関与する可能性を示した。本法は、腟分泌物を用いた簡便な検査により早産の早期発見・治療を可能にし、医療変革をもたらすと期待される。"
+      },
+      {
+        "title": "Neuron-derived mitochondrial DNA (mtDNA) activates microglia via the Z-DNA binding protein 1 (ZBP1)-mediated pathway in mild traumatic brain injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41926540/",
+        "abstract": "Traumatic brain injury (TBI) is a leading cause of morbidity and mortality, with closed-head mild TBI (mTBI) accounting for nearly 90% of all cases. Early pathological events include microglial activation and neuronal mitochondrial dysfunction; however, their interconnection in mTBI remains poorly understood. Using a clinically relevant closed-head weight-drop mouse model, we identified mitochondrial DNA (mtDNA)-specific damage and increased expression of innate inflammatory markers (IL-1α/β, IL-6, TNFα, and CXCL1) in the cerebral cortex during the acute mTBI phase. Mechanistically, neurons subjected to in vitro injury model of mTBI exhibited early mtDNA-specific damage followed by mtDNA release via extracellular vesicles (EVs) together with the neuronal and exosomal markers. The released neuronal mtDNA induced a robust microglial activation mediated by binding to the cytoplasmic DNA/RNA sensor Z-DNA-binding protein 1 (ZBP1), triggering activation of the ZBP1-TBK1-IRF3 pathway resulted IL-6 and TNFα expression. An early, enhanced amounts of mtDNA, neuronal and exosomal markers were measured in EVs circulating in the blood of mice subjected to mTBI. ZBP1 knockout (KO) mice displayed suppressed microglial-but not astrocytic-activation in the cortex during the acute mTBI phase. We also measured accumulation of mtDNA-specific damage in the hippocampus during the postacute mTBI phase. The absence of microglial activation in ZBP1 KO mice exacerbated hippocampal-related memory deficits in the postacute mTBI phase. Collectively, our findings identify mtDNA-ZBP1 signaling as a key mechanism regulating microglial activation in mTBI.",
+        "source": "PubMed",
+        "doi": "10.1073/pnas.2527009123",
+        "keyword": "Exosomes",
+        "title_ja": "軽度外傷性脳損傷におけるZ-DNA結合タンパク質1（ZBP1）を介した経路によるニューロン由来ミトコンドリアDNA（mtDNA）のミクログリア活性化",
+        "summary_ja": "軽度外傷性脳損傷（mTBI）において、神経細胞は損傷を受け、ミトコンドリアDNA（mtDNA）に特異的な損傷が生じる。損傷したmtDNAは細胞外小胞（EVs）を介して放出され、ミクログリアの細胞質内DNAセンサーであるZ-DNA結合タンパク質1（ZBP1）に結合する。これによりZBP1-TBK1-IRF3経路が活性化し、IL-6やTNFαなどの炎症性サイトカイン産生を介してミクログリアを強く活性化させる。ZBP1欠損マウスでは急性期のミクログリア活性化が抑制され、その結果、亜急性期の海馬における記憶障害が増悪した。本研究は、放出された神経細胞由来mtDNAがZBP1を介してミクログリアを活性化させる新規経路を同定した。"
+      },
+      {
+        "title": "Integrative Dermatology for Longevity: The Synergy of Topical and Internal Approaches.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41926038/",
+        "abstract": "Skin aging reflects both intrinsic biological decline and extrinsic influences collectively known as the skin exposome, including ultraviolet (UV) radiation, air pollution, psychosocial stress, fatigue, sleep disruption, and suboptimal lifestyle behaviors. These factors contribute to cumulative molecular and structural damage, positioning the skin as both a visible marker of whole-body aging and a target for longevity strategies. This review examines the validity of an integrative \"In and Out\" approach, combining topical treatments, such as retinoids, peptides, antioxidants, and exosome-based formulations, with internal nutraceuticals including NAD",
+        "source": "PubMed",
+        "doi": "10.1007/s13555-026-01732-y",
+        "keyword": "Exosomes",
+        "title_ja": "長寿のための統合皮膚医学：局所療法と内面療法の相乗効果",
+        "summary_ja": "皮膚老化は、内的生物学的衰退と、紫外線・大気汚染・ストレス・睡眠障害・生活習慣など外的要因（スキンエクスポソーム）の総合的影響を反映する。これらは分子・構造的損傷を蓄積させ、皮膚は全身の老化の可視的マーカーかつ長寿戦略の標的となる。本レビューは、レチノイド・ペプチド・抗酸化剤・エクソソーム製剤などの局所治療と、NAD+前駆体などの内服ニュートラシューティカルを統合した「内外相乗（In and Out）」アプローチの有効性を検証する。"
+      },
+      {
+        "title": "Identification of plasma exosome circRNA as potential novel biomarkers for DLBCL and circrna-miRNA-mRNA network analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41925757/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s10238-025-02019-w",
+        "keyword": "Exosomes",
+        "title_ja": "DLBCLにおける新規バイオマーカーとしての血漿エクソソームcircRNAの同定と、circRNA-miRNA-mRNAネットワーク解析",
+        "summary_ja": "本論文は、びまん性大細胞型B細胞性リンパ腫（DLBCL）における血漿エクソソーム由来circRNAの新規バイオマーカーとしての可能性を探る。RNAシーケンシングにより、DLBCL患者と健常者で発現が異なるcircRNAを同定。特にhsa_circ_0001806とhsa_circ_0000437は高い診断精度を示した。さらに、競合的内因性RNA（ceRNA）ネットワーク（circRNA-miRNA-mRNA）を構築し、これらのcircRNAがmiRNAを介してDLBCL関連遺伝子発現を調節する可能性を示唆した。血漿エクソソームcircRNAはDLBCLの非侵襲的バイオマーカー候補である。"
+      },
+      {
+        "title": "Orchestrating the metastatic symphony: the role of extracellular vesicles in the epithelial-mesenchymal transition and pulmonary niche formation of breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41923477/",
+        "abstract": "The complexity of breast cancer (BC) lung metastasis lies in the capacity of tumour cells to interact efficiently with distant organs to promote colonisation, a process that involves the sophisticated coordination of inherent cellular plasticity and the remodelling of the distant microenvironment. This review emphasises the essential function of extracellular vesicles (EVs) within this communication network. Tumour-derived EVs (TEVs) not only induce epithelial-mesenchymal transition (EMT) by reprogramming breast cancer cell gene expression networks, thereby enhancing migratory and invasive capabilities, but also serve as a 'vanguard', arriving in the lungs in advance to educate stromal cells and establish a pre-metastatic niche that facilitates breast cancer progression. This review uniquely conceptualises EV-mediated EMT and niche formation as a synergistic and sequential biological continuum. We comprehensively examine the sorting mechanisms of EV molecular cargo, targeted delivery approaches, and hierarchical regulatory networks. Critically, we propose that the concurrent regulation of EMT and niche formation is likely driven by the synergistic action of distinct EV subpopulations rather than single 'multitasking' vesicles. Future investigations dissecting this heterogeneity will be pivotal for verifying this synergistic subpopulations hypothesis and establishing a theoretical basis for precise EV-based metastasis intervention strategies.",
+        "source": "PubMed",
+        "doi": "10.1002/brv.70167",
+        "keyword": "Exosomes",
+        "title_ja": "転移の交響曲を指揮する：乳がんの上皮間葉転換と肺ニッチ形成における細胞外小胞の役割",
+        "summary_ja": "乳癌肺転移は、腫瘍細胞が遠隔臓器と相互作用してコロニー形成を促進する能力にあり、細胞可塑性と微小環境再構築の精巧な協調を伴う。本総説は、細胞外小胞（EVs）がこの通信網で果たす重要な役割を強調する。腫瘍由来EVs（TEVs）は、遺伝子発言ネットワークを再プログラミングして上皮間葉転移（EMT）を誘導し、移動・浸潤能を高めるだけでなく、「先遣隊」として肺に先行到達し、間質細胞を教育して前転移ニッチを形成し、転移を促進する。本稿は、EVを介したEMTとニッチ形成を相乗的・連続的な生物学的連続体として概念化し、EV分子カーゴの選別機構、標的送達アプローチ、階層的制御ネットワークを包括的に検討する。重要なのは、EMTとニッチ形成の同時制御は、単一の「マルチタスク」小胞ではなく、異なるEVサブ集団の相乗作用によって駆動されると提唱する点である。この不均一性を解明する将来の研究が、相乗的サブ集団仮説の"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. 尿毒症毒素とKlothoシグナルによる弁石灰化**\nCKD患者のCAVD進行に、尿毒症毒素PCSがKlotho/SIRT1シグナルを抑制し、大動脈弁石灰化を促進する新機序を解明。Klothoは石灰化抑制の鍵であり、その保護シグナルを標的とした治療開発が期待される。\n\n**2. オンコリティックウイルス療法の成否を決めるMSCの内在性免疫特性**\n固形腫瘍患児への「Celyvir」療法の反応性は、ウイルスキャリアである自家MSCの内在性免疫特性（インターフェロン応答など）に依存。MSCの品質管理・改変が、治療効果の均一化・向上に重要。\n\n**3. 分泌型免疫チェックポイントとしてのTGFBI**\n腫瘍微小環境で産生される細胞外基質タンパク質TGFBIが、新規の分泌型免疫チェックポイントとして抗腫瘍T細胞を抑制。既存のチェックポイント阻害剤とは異なる作用機序であり、新たな免疫療法ターゲットとして注目。\n\n**4. 腫瘍由来エクソソームによる転移前ニッチ形成**\n低酸素頭頸部癌由来エクソソームがCCL26を運び、血管内皮細胞の分泌プロファイルを再編成して転移を促進。エクソソーム介在した臓器特異的転移メカニズムの一端を解明し、転移抑制の新たな介入点を示す。\n\n**5. 運動誘発性エクソソームの生理機能調節**\n運動が全身の健康に寄与するメカニズムとして、エクソソームを介した臓器間通信が重要。エクソソームに含まれるmiRNA等が生理機能を調節し、「運動模倣」療法やバイオマーカー開発への応用が期待される。"
+}

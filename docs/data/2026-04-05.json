@@ -1,0 +1,146 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [
+      {
+        "title": "Phosphorylation of PfiA modulates Pf4 phage production through PfiA/PfiT stoichiometric reconfiguration in ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931616/",
+        "abstract": "Filamentous Pf bacteriophages are widely distributed in ",
+        "source": "PubMed",
+        "doi": "10.1126/sciadv.aeb5480",
+        "keyword": "PF4",
+        "title_ja": "PfiAのリン酸化は、PfiA/PfiTの化学量論的再構成を介してPf4ファージ産生を調節する",
+        "summary_ja": "**Pf4ファージ生産におけるPfiAリン酸化の役割**\n\nPf4ファージの生産は、宿主タンパク質PfiAとPfiTの複合体形成により制御される。本論文は、PfiAのリン酸化がこの複合体のストイキオメトリー（量的関係）を変化させることで、ファージ生産を調節する新規メカニズムを明らかにした。具体的には、PfiAのリン酸化状態がPfiTとの結合親和性を変化させ、結果として細胞内の遊離PfiT量を制御する。この遊離PfiT量の変動が、ファージゲノムの複製と放出のスイッチとして機能し、Pf4ファージ生産を増幅または抑制する。"
+      }
+    ],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Laparoscopic Delivery of a MnO",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41933937/",
+        "abstract": "Recurrence and metastasis are the primary causes of mortality in hepatocellular carcinoma (HCC), primarily driven by an immunosuppressive tumor microenvironment. This study developed a multifunctional flexible patch (MnO",
+        "source": "PubMed",
+        "doi": "10.1002/advs.202524246",
+        "keyword": "NK cell therapy",
+        "title_ja": "MnOの腹腔鏡下送達",
+        "summary_ja": "本論文は、肝細胞癌（HCC）の再発・転移の主要因である免疫抑制性腫瘍微小環境を標的とした、多機能柔軟パッチ（MnO₂ナノシート含有）の開発を報告する。腹腔鏡を用いた低侵襲送達により、腫瘍部位に直接貼付。MnO₂が腫瘍の酸性環境で酸素を発生させ低酸素を緩和、免疫抑制環境を改善し、抗腫瘍免疫を活性化することで、再発・転移抑制を目指す新規治療アプローチである。"
+      },
+      {
+        "title": "Dual T-cell exhaustion and hyperactivation profiles identify patients with advanced HIV at high risk for fungal co-infections.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41933298/",
+        "abstract": "To characterize immune alterations in PLWH across disease stages and identify laboratory indicators for diagnosing fungal co-infections.",
+        "source": "PubMed",
+        "doi": "10.1186/s12879-026-13223-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "二重のT細胞疲弊と過剰活性化プロファイルが、真菌重感染の高リスクを抱える進行期HIV患者を特定する",
+        "summary_ja": "本論文は、HIV感染者の免疫状態を解析し、真菌重複感染の高リスク群を特定する研究である。進行期HIV患者では、T細胞の「枯渇」と「過活性化」という二重の異常プロファイルが同時に観察された。この特徴的な免疫状態が、侵襲性真菌感染症の発症リスクと強く関連しており、臨床的な診断指標として有用である可能性を示唆している。"
+      },
+      {
+        "title": "Peripheral Immune Profile Alterations in Treatment-Naïve Immune-Mediated Necrotizing Myopathy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41933178/",
+        "abstract": "Immune-mediated necrotizing myopathy (IMNM) is a severe autoimmune myopathy causing proximal muscle weakness. Its underlying immunopathogenesis remains incompletely understood, limiting the development of targeted therapies. To elucidate disease mechanisms and inform therapeutic strategies, this study characterized the peripheral immune profile of treatment-naïve IMNM patients.",
+        "source": "PubMed",
+        "doi": "10.1002/mus.70238",
+        "keyword": "NK cell therapy",
+        "title_ja": "未治療免疫介在性壊死性筋症における末梢免疫プロファイルの変化",
+        "summary_ja": "治療未経験の免疫介在性壊死性筋症（IMNM）患者の末梢免疫プロファイルを解析。IMNMは重篤な自己免疫性筋症であるが、免疫病態は未解明。本研究は、疾患機序の解明と治療戦略立案に向け、末梢血中の免疫細胞サブセットを詳細に特徴づけた。その結果、IMNM特異的な免疫異常パターンが同定され、今後の標的療法開発への基盤情報を提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Recent advances in CAR T and CAR NK cell therapy for AML.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41933267/",
+        "abstract": "CAR T cell therapy has demonstrated remarkable efficacy in treating haematological malignancies, including B-cell lymphomas, B-cell leukaemias, and multiple myeloma. CAR T cell therapy for acute myeloid leukaemia (AML) is also urgently needed. One of the major challenges is identifying AML-specific antigens, since many potential candidates (e.g. CD33, CD123, CLL-1, CD70, TIM-3 and FLT3) are also expressed on normal haematopoietic progenitors. This can lead to 'on-target/off-tumour' toxicity and bone marrow aplasia. CAR NK cell therapy for AML shows promise as a lower-toxicity, off-the-shelf alternative. NK cells have a lower inherent risk of GVHD and may cause milder CRS/ICANS. In this review, we will describe the current status of CAR T/NK cell development for AML. We will also introduce a new CAR T-cell or NK-cell therapy that targets mismatched HLA-DRB1 in patients with AML who have relapsed following an allogeneic haematopoietic stem cell transplant.",
+        "source": "PubMed",
+        "doi": "10.1007/s12185-026-04203-4",
+        "keyword": "NK cell therapy",
+        "title_ja": "AMLに対するCAR T細胞療法およびCAR NK細胞療法の最近の進歩",
+        "summary_ja": "CAR T細胞療法は血液腫瘍で顕著な効果を示すが、AMLでは腫瘍特異的抗原の同定が課題である。CD33やCD123など候補抗原は正常造血前駆細胞にも発現し、骨髄不全などの「オンターゲット・オフ腫瘍」毒性を引き起こす可能性がある。一方、CAR NK細胞療法はGVHDリスクが低く、CRS/ICANSも軽微な「オフザシェルフ」療法として期待される。本稿ではAML向けCAR T/NK細胞療法の現状を概説し、同種造血幹細胞移植後再発AMLを対象とした、ミスマッチHLA-DRB1を標的とする新規療法も紹介する。"
+      },
+      {
+        "title": "Single-cell transcriptomics reveals FXR1 as an actionable target for siRNA therapy in ovarian cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41932914/",
+        "abstract": "Ovarian cancer is one of the leading causes of cancer-related mortality among women and remains exceptionally difficult to manage and treat effectively in the clinic. Fragile X-related protein 1 (FXR1) is highly amplified and overexpressed in ovarian and several other cancers. FXR1 is a key regulator of the translation of multiple oncogenes and therefore represents a vulnerable target for cancer therapy. RNA interference (RNAi) of FXR1 using a locked nucleic acid (LNA) form of siRNA (siFXR1-LNA) inhibits tumor growth, ascites formation, and metastasis of ovarian cancer more efficiently than the native form of FXR1 siRNA in vivo. LNA modification of siRNA improves resistance to RNase mediated degradation and enhances tumor tissue uptake of siRNA with robust inhibition of target mRNA in tumor tissues. Single-cell RNA sequencing (scRNA-seq) analysis of ascites composed of tumor, stromal, and immune cells analysis reveals that FXR1 silencing suppresses tumor cell proliferation and reduces tumor-promoting M2-like macrophages. FXR1 silencing also increases cytotoxic T cells, NK cells, and dendritic cells with anti-tumor characteristics in vivo. Collectively, our data establishes FXR1 as an important regulator of oncogenic processes in cancer tissues and serves as a therapeutic liability. Therefore, FXR1 silencing in tumor tissues provides an effective strategy to treat tumors expressing high levels of FXR1.",
+        "source": "PubMed",
+        "doi": "10.1038/s41467-026-71468-y",
+        "keyword": "NK cell therapy",
+        "title_ja": "単一細胞トランスクリプトミクスが明らかにする、卵巣がんにおけるsiRNA療法の実行可能な標的としてのFXR1。",
+        "summary_ja": "卵巣癌は治療が困難な癌の一つである。脆弱X関連蛋白質1（FXR1）は卵巣癌などで増幅・過剰発現し、複数のがん遺伝子の翻訳を調節するため、治療標的として有望である。Locked nucleic acid（LNA）修飾siRNA（siFXR1-LNA）によるFXR1のRNA干渉（RNAi）は、未修飾siRNAより効率的に腫瘍増殖、腹水形成、転移を抑制した。LNA修飾はsiRNAの安定性と腫瘍組織取り込みを向上させる。単一細胞RNAシークエンシング（scRNA-seq）解析により、FXR1サイレンシングが腫瘍細胞増殖と腫瘍促進型M2様マクロファージを抑制し、抗腫瘍性の細胞傷害性T細胞、NK細胞、樹状細胞を増加させることが明らかになった。FXR1はがん組織における発癌プロセスの重要な調節因子であり、そのサイレンシングはFXR1高発現腫瘍の有効な治療戦略となる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "From nanotechnology to immunomodulation: emerging strategies targeting macrophages in high altitude pulmonary hypertension.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41933337/",
+        "abstract": "High altitude pulmonary hypertension (HAPH) is a public health issue in high-altitude regions, characterized by increased pulmonary artery pressure, pulmonary vascular remodeling, and right heart failure, leading to the high incidence rate and high mortality. Current therapies can alleviate patient symptoms but provide limited control over disease progression. Immune regulation has gained recognition as a central driver of HAPH. Among immune cells, macrophages, as key immune regulators in the lung, orchestrate HAPH pathogenesis through recruitment, M1/M2 polarization, inflammatory activation, metabolic reprogramming, and crosstalk with pulmonary vascular cells. Targeting macrophages has emerged as a promising therapeutic strategy. Nanoplatforms provide powerful tools to enable precise targeting and functional modulation of macrophages in HAPH, as nanoplatforms such as liposomes, polymeric nanoparticles, and exosomes enable targeted delivery and controlled release, thereby facilitating precise regulation of the pulmonary immune microenvironment, including both macrophages and pulmonary vascular cells. Recent advances in nanoplatforms have enabled the development of macrophage focused precision interventions. In this review, we first outline the pathogenic roles of macrophages in the development and progression of HAPH. We then summarize the therapeutic potential of nanoplatform-based approaches in HAPH, with a particular focus on emerging nanomaterial-based strategies that enable targeted modulation of macrophage function. We argue that nanoplatform assisted macrophage immunotherapy holds strong potential to move HAPH treatment from symptomatic management toward mechanistic and precision interventions.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04317-1",
+        "keyword": "Exosomes",
+        "title_ja": "ナノテクノロジーから免疫調節まで：高所肺高血圧症におけるマクロファージを標的とする新たな戦略",
+        "summary_ja": "高所肺高血圧症（HAPH）は、肺動脈圧上昇・肺血管リモデリング・右心不全を特徴とし、高死亡率を示す。既存治療は症状緩和にとどまるが、免疫調節、特に肺のマクロファージが病態形成において中心的な役割を果たす。マクロファージは、M1/M2極性・炎症活性化・代謝再プログラミングなどを通じてHAPHを促進する。近年、リポソームやポリマーナノ粒子などのナノプラットフォームを利用し、マクロファージを標的とした精密な薬剤送達・機能制御が可能となった。本論文は、マクロファージの病態機序を概説し、ナノ材料を基盤とするマクロファージ標的治療が、HAPH治療を対症療法から機序に基づく精密医療へ転換する可能性を論じる。"
+      },
+      {
+        "title": "Exosome-mediated cholesterol flow drives scoliosis progression via promoting the spinal cartilage-bone positive feedback.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41933055/",
+        "abstract": "Adolescent Idiopathic Scoliosis (AIS) is the most common form of spinal deformity among adolescents. To explore its etiology of progression and scoliosis-modifying drugs, chondrocytic senescence was confirmed in AIS facet joint cartilage by analyzing clinical specimen. Furthermore, through 4D/480 label-free proteomics analysis, we identified an exosome-mediated positive feedback loop during scoliosis progression, which driving the elevation of cholesterol flow between spinal cartilage and vertebra. To further investigate the pathological significance of the loop in vivo, high-cholesterol flow was reconstructed in C57BL/6 J mice by injecting with recombinant adeno-associated virus rAAV9-Runx2-HMGCR. Our results confirmed the important role of the positive feedback loop in the development of scoliosis. Meanwhile, Avasimibe or/and Corylin were used to delay the scoliosis progression by targeting the key exosomal proteins APOB (Apolipoprotein B-100) or/and HSP90β (Heat Shock Protein 90-beta). This research extends the etiology of scoliosis progression and provides an alternative perspective for scoliosis non-surgical treatment.",
+        "source": "PubMed",
+        "doi": "10.1038/s42003-026-09960-w",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを介したコレステロール流動が、脊柱軟骨-骨の正のフィードバックを促進することで側弯症の進行を駆動する",
+        "summary_ja": "思春期特発性側弯症（AIS）の進行には、脊椎軟骨細胞の老化が関与する。臨床検体およびプロテオミクス解析により、軟骨と椎骨間のエクソソームを介したコレステロール流動の正のフィードバックループが同定された。このループの重要性は、高コレステロール流動を再現したマウスモデルで確認。さらに、エクソソームタンパク質APOBまたはHSP90βを標的とするAvasimibeやCorylinが側弯症進行を遅延させた。本研究はAIS進行の新たな病因を提唱し、非外科的治療への視座を提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Fabrication and characterization of 3D-printed polyacrylonitrile scaffolds for the neural differentiation of mesenchymal stem cells via exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41933393/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s13036-026-00648-7",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞の神経分化のための3Dプリントポリアクリロニトリル足場の作製とエクソソームによる特性評価",
+        "summary_ja": "本論文では、3Dプリントしたポリアクリロニトリル（PAN）足場を開発し、間葉系幹細胞（MSCs）の神経分化におけるその有効性を評価した。この足場は、神経組織工学に適した多孔質構造と機械的特性を示した。MSCsを足場上で培養し、神経分化を誘導したところ、分化促進に重要な役割を果たすエクソソームの分泌が増加した。結果、PAN足場はMSCsの神経分化を支持し、神経再生医療における応用可能性が示唆された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下は、特に注目すべき5つのトピックです。\n\n1. **CAR T/CAR NK細胞療法のAMLへの応用**：AMLでは腫瘍特異的抗原の欠如が課題。CAR NK細胞は「オフ腫瘍」毒性リスクが低く、同種反応性も有するため、有望な代替策として開発が進む。\n\n2. **エクソソーム/sEVsを介したAIS進行メカニズム**：思春期特発性側弯症で、軟骨-骨間のエクソソームによるコレステロール流動が正のフィードバックループを形成し、病態を促進。新たな治療標的となる可能性。\n\n3. **MnO₂ナノシートパッチによる肝細胞癌免疫微小環境の改善**：腹腔鏡で貼付する柔軟パッチが腫瘍酸性環境で酸素を発生、免疫抑制を解除。低侵襲かつ局所的な治療法として期待。\n\n4. **卵巣癌におけるFXR1標的siRNA療法**：単細胞解析で同定されたFXR1は複数のがん遺伝子を調節。LNA修飾siRNAによるノックダウンは、新規治療戦略につながる。\n\n5. **HIV患者の真菌感染リスクとT細胞二重異常**：T細胞の「枯渇」と「過活性化」が同時に生じる免疫状態が侵襲性真菌感染のハイリスク要因。個別化予防・治療への応用が期待される。"
+}

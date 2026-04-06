@@ -1,0 +1,188 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Heparin-Induced Thrombocytopenia With a False Negative Anti-PF4 Assay.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41194557/",
+        "abstract": null,
+        "source": "PubMed",
+        "doi": "10.1177/15385744251395139",
+        "keyword": "PF4",
+        "title_ja": "偽陰性抗PF4抗体検査を伴うヘパリン誘発性血小板減少症",
+        "summary_ja": "【要約】\nヘパリン起因性血小板減少症（HIT）は、抗PF4抗体が陰性でも発症し得る。本論文は、典型的なHIT臨床像でありながら抗PF4抗体検査が陰性であった症例を報告する。原因として、特定のサブクラス（IgG）のみが陽性で標準的なELISA法では検出されない、または抗体がPF4複合体ではなく別のエピトープと反応する可能性が示唆される。HITの診断には、抗体検査の結果だけでなく、臨床的な可能性評価（4Tスコア）と機能的検査（セロトニン放出試験等）の重要性が再確認された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Dendritic cell vaccines: Current research progress, challenges, and opportunities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41938709/",
+        "abstract": "This review examines the advancements in cancer immunotherapies, particularly focusing on dendritic cell (DC)-based vaccines developed through ",
+        "source": "PubMed",
+        "doi": "10.1016/j.gendis.2025.101913",
+        "keyword": "NK cell therapy",
+        "title_ja": "樹状細胞ワクチン：最新の研究動向、課題、そして可能性",
+        "summary_ja": "**タイトル: 樹状細胞ワクチン：現在の研究進展、課題、機会**\n\n本レビューは、がん免疫療法、特に樹状細胞（DC）ベースワクチンの進展を概観する。DCワクチンは、患者自身のDCを体外で腫瘍抗原に曝露・活性化し、再投与することで抗腫瘍免疫を誘導する。現在の研究は、抗原選択の最適化、DCサブセットの利用、免疫チェックポイント阻害剤などとの併用療法に焦点が当たっている。主要な課題は、腫瘍微小環境における免疫抑制、治療効果の不均一性、製造コストとプロセスの標準化である。しかし、個別化医療と組み合わせることで、DCワクチンは依然として重要な治療機会を提供する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Knowledge Mapping of Exosomes in Glioblastoma: A Bibliometric Analysis From 2006 to 2025.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941145/",
+        "abstract": "Glioblastoma (GBM) is the most aggressive primary malignant brain tumor, marked by profound heterogeneity, diffuse invasion, and rapid recurrence, resulting in poor survival despite standard therapy. Growing evidence indicates that exosomes mediate key processes in GBM, including tumor microenvironment remodeling, angiogenesis, invasion, immune modulation, and therapeutic resistance, and show translational promise as biofluid-based biomarkers and as engineered delivery vehicles to address blood-brain barrier limitations. Although research on exosomes in GBM has expanded rapidly, the field's global knowledge structure and evolving hotspots and frontiers remain unclear. Therefore, this study performs a bibliometric analysis from 2006 to 2025 to map publication trends, collaboration networks, influential journals and references, and emerging themes in GBM exosome research.",
+        "source": "PubMed",
+        "doi": "10.1097/SCS.0000000000012707",
+        "keyword": "Exosomes",
+        "title_ja": "グリオブラストーマにおけるエクソソームの知識マッピング：2006年から2025年までの文献計量分析",
+        "summary_ja": "グリオブラストーマ（GBM）は最も悪性の原発性脳腫瘍であり、標準治療後も予後不良である。近年、エクソソームがGBMの腫瘍微小環境再構築、血管新生、浸潤、免疫調節、治療抵抗性などを媒介し、バイオマーカーやドラッグデリバリー担体としての応用が期待されている。本研究は、2006年から2025年までの文献を計量分析し、GBMエクソソーム研究の出版動向、国際協力ネットワーク、主要ジャーナル・文献、新興テーマを可視化することで、分野の知識構造と研究の最前線を明らかにする。"
+      },
+      {
+        "title": "Lung cancer cell-derived exosomal EHF drives M2 macrophage polarization via transcriptional activation of RNF41 to promote tumor progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41939996/",
+        "abstract": "M2 macrophage polarization in the tumor microenvironment drives lung cancer progression. ETS homologous factor (EHF) is overexpressed in lung cancer and linked to malignancy. However, the mechanism by which EHF regulates macrophage M2 polarization in the lung cancer microenvironment remains unclear.",
+        "source": "PubMed",
+        "doi": "10.1016/j.reth.2026.101104",
+        "keyword": "Exosomes",
+        "title_ja": "肺がん細胞由来エクソソームEHFは、RNF41の転写活性化を介してM2マクロファージ極性化を駆動し、腫瘍進行を促進する。",
+        "summary_ja": "肺がん細胞由来のエクソソーム内の転写因子EHFは、RNF41の転写活性化を介してマクロファージのM2型極性化を誘導し、腫瘍増殖を促進する。EHFは肺がんで過剰発現し、悪性度と関連するが、腫瘍微小環境におけるM2極性化の制御機構は不明であった。本研究は、エクソソームを介した細胞間通信によりEHFがRNF41を活性化し、M2マクロファージを誘導する新規経路を明らかにした。"
+      },
+      {
+        "title": "Oral milk-derived exosomes loaded with tafatinib for anti-inflammatory therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41939441/",
+        "abstract": "Ulcerative colitis (UC) is a chronic idiopathic inflammatory bowel disease primarily affecting the colon and rectum, characterized by complex pathogenesis and clinical challenges, such as disease recurrence and potential malignant transformation. The pan-JAK inhibitor tofacitinib (TOF) has emerged as an effective therapeutic option for inducing and maintaining clinical remission in moderate-to-severe UC. Recent advances in nanomedicine have identified milk-derived exosomes (mEXOs) as promising natural drug delivery vehicles due to their favorable physicochemical properties and biocompatibility. Therefore, an oral TOF-loaded mEXOs system (mEXOs@TOF) was successfully developed, which exhibited favorable pharmaceutical characteristics, including stability, uniform size distribution, high drug-loading capacity, and efficient macrophage uptake. The therapeutic efficacy of mEXOs@TOF was mediated through multifaceted mechanisms including suppression of pro-inflammatory cytokines (IL-6, IFN-γ, NO), elevation of anti-inflammatory IL-10 levels, reduction of reactive oxygen species production, and inhibition of JAK-STAT3 signaling pathway activation. Comprehensive ",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijpx.2026.100520",
+        "keyword": "Exosomes",
+        "title_ja": "抗炎症療法のためのタファチニブを内包した経口ミルク由来エクソソーム。",
+        "summary_ja": "潰瘍性大腸炎（UC）に対する経口治療として、牛乳由来エクソソーム（mEXOs）にジャヌスキナーゼ（JAK）阻害剤トファシチニブ（TOF）を担持したナノ医薬品（mEXOs@TOF）を開発した。mEXOsは優れた薬物送達担体として安定性・生体適合性に富み、マクロファージへの取り込みも良好であった。mEXOs@TOFは、炎症性サイトカイン（IL-6、IFN-γ）や活性酸素の抑制、抗炎症性IL-10の上昇、さらにJAK-STAT3シグナル伝達経路の阻害を介して、UCに対する多面的な抗炎症効果を示した。"
+      },
+      {
+        "title": "Interplay of Skin Aging: Mitochondrial Stress and Ultraviolet Exposure.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41937223/",
+        "abstract": "Skin photoaging, clinically characterized by wrinkles and hyperpigmentation, accounts for 80% of extrinsic aging. Chronic UV exposure drives this process via oxidative damage. However, its synergistic axis with mitochondrial dysfunction remains mechanistically elusive. This study aims to elucidate the mechanistic link between mitochondrial oxidative stress and UV-induced photoaging, focusing on reactive oxygen species overproduction as a central driver of cellular decline.",
+        "source": "PubMed",
+        "doi": "10.1111/phpp.70089",
+        "keyword": "Exosomes",
+        "title_ja": "皮膚老化の相互作用：ミトコンドリアストレスと紫外線曝露",
+        "summary_ja": "皮膚光老化は、臨床的にシワや色素沈着として現れ、外因性老化の80％を占める。慢性的な紫外線曝露は酸化損傷を介してこの過程を駆動するが、ミトコンドリア機能不全との相乗的関係は機構的に不明な点が多い。本研究は、ミトコンドリア酸化ストレスと紫外線誘導光老化の機構的関連を解明し、活性酸素種の過剰産生が細胞機能低下の中心的な駆動因子であることに焦点を当てる。"
+      },
+      {
+        "title": "Immune-evasive stem cells: engineering tolerance and reprogramming microenvironments for regenerative therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41937145/",
+        "abstract": "Stem cell transplantation (SCT) holds significant promise for regenerative medicine, yet immune rejection remains a major obstacle. To address this, recent advances leverage CRISPR/Cas9 to engineer hypoimmunogenic induced pluripotent stem cells. These modified cells lack classical immune recognition markers (HLA class I/II) yet retain immune-tolerant molecules such as HLA-E, HLA-G, and CD47, enabling their universal use across different individuals. Additionally, mesenchymal stem cell-derived exosomes and immune checkpoint modulators (e.g., PD-L1) have shown clinical effectiveness by reducing graft-versus-host disease and autoimmune reactions. They achieve this through mechanisms such as suppressing inflammatory T-cell activation, promoting regulatory T-cell expansion, and modulating macrophage polarization. Despite these advances, several challenges remain. One key concern is the potential tumorigenic risk caused by genomic instability during genome editing and long-term cell expansion. Emerging precision editing platforms, including base editing and prime editing, provide strategies to reduce double-strand DNA break-induced chromosomal rearrangements and improve genomic safety. Future research priorities include integrating AI-based immune profiling, precision genome editing, and advanced 3D-bioprinting technologies. Together, these innovations represent a paradigm shift toward developing safer, more effective, universally compatible stem cell therapies for diseases previously deemed untreatable.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-04997-4",
+        "keyword": "Exosomes",
+        "title_ja": "免疫回避性幹細胞：再生医療のための免疫寛容の構築と微小環境の再プログラミング",
+        "summary_ja": "幹細胞移植は再生医療の有望な手法であるが、免疫拒絶が課題である。CRISPR/Cas9を用いて、古典的HLAを欠損させつつ免疫寛容分子（HLA-E/G、CD47）を発現する低免疫原性iPS細胞を作製し、汎用的な利用が可能となった。また、間葉系幹細胞由来エクソソームやPD-L1などの免疫チェックポイント分子は、炎症性T細胞の抑制や制御性T細胞の増殖などを介して拒絶反応を軽減する。課題としては、ゲノム編集に伴う腫瘍化リスクがあり、塩基編集やプライム編集などの精密技術による安全性向上が進む。今後はAI免疫プロファイリング、精密ゲノム編集、3Dバイオプリンティングの統合により、安全で汎用性の高い治療法の開発が期待される。"
+      },
+      {
+        "title": "Exosomal miR-4443 confers cisplatin resistance in breast cancer by inhibiting ferroptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41936016/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-04912-6",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム由来miR-4443は、フェロトーシスを抑制することで乳がんのシスプラチン耐性を付与する",
+        "summary_ja": "本論文は、乳癌におけるシスプラチン耐性獲得に、エクソソームを介したmiR-4443の伝達が関与する新規メカニズムを報告する。miR-4443は、フェロトーシス（鉄依存性細胞死）の重要な抑制因子であるGPX4を直接標的とし、その発現を抑制する。これにより、癌細胞内の脂質過酸化が減少し、フェロトーシスが阻害される。その結果、シスプラチン誘導性の細胞死が減弱し、化学療法耐性が生じる。エクソソームによるmiR-4443の細胞間伝達は、腫瘍微小環境における耐性拡散の一因となる可能性を示唆している。"
+      },
+      {
+        "title": "Regenerative effects of myogenic gene transfected MSC derived exosomes on radiation esophagitis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41936013/",
+        "abstract": "Radiation esophagitis is a common adverse effect of radiotherapy for head and neck cancers, and is marked by irreversible damage and fibrosis of esophageal muscle tissue. Although mesenchymal stem cell (MSC) therapy is emerging as a promising approach for tissue regeneration, clinical translation remains challenging due to issues with cell viability and differentiation in vivo. This study evaluates the regenerative efficacy of exosomes derived from MSCs transfected with myogenic genes (MyoD, Myogenin, Myf6, referred to as Myo-MIX) using a murine model of radiation-induced esophageal fibrosis.",
+        "source": "PubMed",
+        "doi": "10.1007/s13770-026-00795-4",
+        "keyword": "Exosomes",
+        "title_ja": "放射線性食道炎に対する筋原性遺伝子導入MSC由来エクソソームの再生効果",
+        "summary_ja": "【要約】\n放射線性食道炎は頭頸部癌放射線療法の有害事象で、不可逆的筋損傷・線維化を特徴とする。本研究では、骨髄間葉系幹細胞（MSC）に筋形成遺伝子（MyoD, Myogenin, Myf6）を導入し、その細胞から分泌されるエクソソーム（Myo-MIXエクソソーム）を調製。放射線誘発食道線維化マウスモデルを用いて評価した結果、このエクソソームが食道筋組織の再生効果を示した。MSC直接移植の課題（生着・分化効率）を克服する新規治療法の可能性を示唆。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Preventive effects and mechanisms of yam exosome-like nanoparticles on acute liver injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41937194/",
+        "abstract": "Acute liver injury (ALI) represented a significant clinical challenge due to its high mortality rate and the absence of specific therapeutic interventions. Plant-derived exosome-like nanoparticles (ELNs) had recently garnered increasing attention in the field of disease prevention and treatment, owing to their favorable biocompatibility and potential for targeted delivery. In this study, we isolated and systematically characterized ELNs from the medicinal plant yam (Yam ELNs). Structural analysis revealed that Yam ELNs possess a homogeneous bilayer membrane structure with an average particle size of 214.7 nm and demonstrated considerable stability in gastrointestinal fluids. These nanoparticles were found to be enriched with lipids (primarily phosphatidylcholine, PC), functional proteins (including GPX1 and GSTP1), and microRNAs (such as the miR159 family). In vivo imaging and cellular uptake assays indicated that Yam ELNs were efficiently internalized by the liver and HepG2 cells. Using a carbon tetrachloride (CCl₄)-induced ALI model, we demonstrated that oral administration of Yam ELNs significantly reduced serum markers of liver injury (ALT and AST), ameliorated oxidative stress imbalance (as evidenced by decreased MDA and increased GSH levels), and attenuated histopathological damage in the liver. Furthermore, in vitro experiments confirmed that Yam ELNs modulate cellular oxidative stress through their cargo of endogenous functional RNA molecules, thereby exerting a prophylactic protective effect. Desorption electrospray ionization mass spectrometry imaging (DESI-MSI) visually demonstrated that Yam ELNs remodel the spatial distribution of glycerophospholipid metabolism and suppress lipid peroxidation and the propagation of inflammation. Targeted lipidomics analysis further revealed that disturbances in several core metabolic pathways, including glycerophospholipid metabolism and linoleic acid metabolism, were corrected by Yam ELNs. As a result, the homeostasis of key phospholipid species, such as PE, PI, and PS, was maintained, and the propagation of inflammatory responses was limited. Notably, Yam ELNs pretreatment significantly reduced serum levels of lipopolysaccharide (LPS) and downregulated hepatic Toll-like receptor 4 (TLR4) expression, indicating preservation of intestinal barrier integrity and attenuation of endotoxin-triggered hepatic inflammation. Furthermore, an integrated correlation analysis based on gut microbiota 16S rRNA sequencing, fecal metabolomics, and untargeted serum metabolomics clarified the relationships between differential serum metabolites, fecal metabolites, and microbial community structure. Following treatment with Yam ELNs, modulation of gut microbiota composition was observed, marked by the enrichment of Lactobacillus spp. These microbial shifts correlated with concurrent improvements in both serum lipid profiles and fecal metabolite profiles. Collectively, these effects were associated with enhanced hepatoprotective efficacy, suggesting a gut-initiated and metabolism-mediated mechanism underlying the prophylactic protection against ALI. In summary, this study systematically establishes the substantial potential of Yam ELNs in the prevention and treatment of liver injury, offering a novel strategy for the development of natural vesicle-based liver-targeted therapies.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04321-5",
+        "keyword": "Exosomes",
+        "title_ja": "ヤムイモ由来エクソソーム様ナノ粒子の急性肝障害に対する予防効果とその機序。",
+        "summary_ja": "**要約**\n\n急性肝障害（ALI）は有効な治療法が限られる。本研究では、薬用植物ヤムから抽出したエクソソーム様ナノ粒子（Yam ELNs）の予防効果と機序を検討した。Yam ELNsは、リン脂質、機能性タンパク質、miRNAなどを含み、肝臓に取り込まれた。CCl₄誘発ALIモデルにおいて、Yam ELNsの経口投与は、肝障害マーカー（ALT/AST）の上昇抑制、酸化ストレスと組織損傷の軽減を示した。その機序として、①細胞内で抗酸化作用を発揮、②グリセロリン脂質代謝の空間分布を再構築し脂質過酸化を抑制、③腸管バリア機能を維持しLPS-TLR4経路を介した炎症を軽減、④腸内細菌叢（乳酸菌増加）と代謝物プロファイルを改善し、腸-肝軸を介した保護作用を発揮することが明らかとなった。Yam ELNsは天然由来の肝標的治療剤として有望である。"
+      }
+    ],
+    "農学": [
+      {
+        "title": "Activating the cellular scavenger: A bioactive hydrogel promotes diabetic wounds via plant exosome-like nanovesicles enhanced macrophage efferocytosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41937946/",
+        "abstract": "The core pathological process of impaired diabetic wound healing is closely associated with macrophage homeostasis imbalance and defective efferocytosis. To address this clinical challenge, this study innovatively developed a synergistic therapeutic system combining grape exosome-like nanovesicles (G-ELNs) and decellularized small intestinal submucosa matrix-modified hydrogel (SM). In vitro experiments demonstrated that G-ELNs effectively induced macrophage polarization toward the M2c phenotype and significantly enhanced efferocytosis efficiency by activating the c-Mer Tyrosine Kinase (MERTK) receptor. The SM hydrogel, with its triple-microporous topological structure and dynamic sustained-release properties, provided a long-term localized delivery platform for G-ELNs. In a diabetic rat full-thickness skin defect model, this system exhibited dual regulatory effects: spatially and temporally targeted delivery of exosomes promoted M2c macrophage polarization during the early inflammatory phase, rapidly clearing apoptotic cell debris through enhanced efferocytosis to block inflammatory cascades and transition the healing process to the proliferative phase, while simultaneously accelerating collagen fiber cross-linking and vascular network maturation in the proliferative phase, ultimately expediting wound closure. This study not only elucidates a novel immunomodulatory mechanism based on natural products but also proposes a clinically transformative strategy for efficient diabetic wound management.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.03.039",
+        "keyword": "Exosomes",
+        "title_ja": "細胞内掃除屋の活性化：植物由来エクソソーム様ナノ小胞がマクロファージのエフェロサイトーシスを強化し、糖尿病性創傷を促進するバイオアクティブハイドロゲル",
+        "summary_ja": "本論文は、糖尿病創傷治癒障害の核心的病態であるマクロファージ恒常性の破綻とエフェロサイトーシス（細胞貪食）不全に対処するため、ブドウ由来エクソソーム様ナノ小胞（G-ELNs）と脱細胞化小腸粘膜下層マトリックス修飾ハイドロゲル（SM）を組み合わせた治療システムを開発した。G-ELNsはM2c型マクロファージへの極性化を誘導し、MERTK受容体を活性化してエフェロサイトーシスを増強した。SMハイドロゲルは持続放出プラットフォームとして機能し、糖尿病ラットモデルにおいて、炎症期早期のM2c極性化とアポトーシス細胞除去による炎症収束、ならびに増殖期のコラーゲン架橋と血管新生を促進し、創傷閉鎖を加速した。天然物由来の新規免疫調節機構に基づく、臨床応用可能な糖尿病創傷治療戦略を提案する。"
+      }
+    ],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Small Extracellular Vesicles from Neural Cells: Physiological and Pathological Roles, and Potential in Neurodegenerative Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41937703/",
+        "abstract": "Small extracellular vesicles (sEVs) have emerged as central mediators of intercellular communication in the central nervous system (CNS) and are increasingly recognized for their dual roles in the pathogenesis and treatment of neurodegenerative diseases (NDDs). In disease contexts, sEVs facilitate the intercellular dissemination of pathogenic proteins and nucleic acids, thereby contributing to the propagation of Alzheimer's disease (AD) and Parkinson's disease (PD) pathology. Conversely, their intrinsic biocompatibility, capacity to traverse brain barriers, and inherent organotropic properties position sEVs as highly promising nanocarriers for CNS drug delivery. While mesenchymal stem cell-derived sEVs have been widely investigated in preclinical NDD models, accumulating evidence suggests that sEVs derived from neural cells, including neural stem cells, neurons, astrocytes, microglia, oligodendrocytes, and brain endothelial cells may offer superior brain targeting, disease relevance, and functional efficacy. This review provides a comprehensive and critical analysis of current knowledge on neural cell-derived sEVs, encompassing their physiological roles in brain homeostasis, their involvement in AD and PD pathogenesis, and their emerging therapeutic applications. We discuss cell-type-specific sEV cargo profiles, mechanisms underlying blood-brain and blood-cerebrospinal fluid barrier traversal, and recent advances in endogenous and exogenous engineering strategies that enhance cargo loading, targeting precision, and therapeutic performance. Importantly, we address key translational challenges that currently limit clinical implementation. By integrating mechanistic insights with therapeutic and engineering perspectives, this review highlights neural cell-derived sEVs as a biologically informed and versatile platform, underscoring their potential to advance next-generation neuro-nanomedicine for NDDs.",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.202504608",
+        "keyword": "sEVs",
+        "title_ja": "神経細胞由来小型細胞外小胞：生理的・病理的役割と神経変性疾患治療への可能性",
+        "summary_ja": "神経細胞由来の小型細胞外小胞（sEVs）は、中枢神経系の細胞間コミュニケーションにおいて中心的な役割を担う。神経変性疾患（NDDs）においては、病原性タンパク質や核酸を拡散させ、アルツハイマー病やパーキンソン病の病理進行に関与する。一方、生体適合性や血液脳関門通過能、標的指向性を活かし、優れたCNS向けドラッグデリバリー担体としても期待される。本総説は、神経細胞由来sEVsの生理的機能、病態における役割、治療応用を包括的に分析する。細胞種特異的なカーゴ、関門通過機構、工学的改変による治療性能向上の進展を論じ、臨床応用に向けた課題も提示する。神経細胞由来sEVsは、次世代神経ナノ医療の有望なプラットフォームである。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Engineered small extracellular vesicles as bioactive materials: Integrating engineering strategies for cargo loading and targeted delivery systems.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41939725/",
+        "abstract": "Small extracellular vesicles (sEVs) are increasingly regarded as a unique class of bioactive materials whose intrinsic membrane composition and nanoscale architecture provide a versatile platform for therapeutic engineering. Rather than passive carriers, sEVs can be actively programmed through diverse strategies to achieve efficient loading, precise targeting, and functional integration with synthetic systems. Endogenous modulation of donor cells-via genetic editing, priming with bioactive glass, cytokine stimulation, or hypoxic cues-enables selective packaging of nucleic acids, proteins, and metabolites into secreted vesicles. Exogenous techniques, including electroporation, sonication, and extrusion, allow controlled incorporation of therapeutic drugs or genome-editing complexes such as CRISPR/Cas. In parallel, surface modifications based on Lamp2b-fusion scaffolds, aptamers, antibodies, and click chemistry confer tissue tropism and extend circulation time. Integration with nanomaterials, scaffolds, and microfluidic platforms further enhances stability, scalability, and reproducibility, positioning sEVs at the intersection of biology and materials science. This review highlights recent advances in engineering sEVs as programmable bioactive materials and discusses their potential to transform regenerative medicine, oncology, and precision therapeutics.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2025.12.029",
+        "keyword": "sEVs",
+        "title_ja": "生体活性材料として設計された小型細胞外小胞：カーゴの搭載と標的指向性デリバリーシステムのための工学戦略の統合",
+        "summary_ja": "**要約：**\n小細胞外小胞（sEVs）は、膜組成とナノ構造を活かした生体活性材料として注目される。内在性（遺伝子編集や細胞刺激による）・外在性（電気穿孔や超音波処理による）戦略で核酸・タンパク質・治療薬を効率的に搭載可能。さらに、Lamp2b融合タンパク質やアプタマーによる表面修飾で標的指向性や循環時間を向上。ナノ材料・足場との統合により安定性・再現性を高め、再生医療・がん治療などへの応用が期待される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5つのトピックを選び、重要性・背景・展望を簡潔にまとめます。\n\n1. **偽陰性HIT症例の報告（PF4）**：抗PF4抗体検査陰性でもHITを発症し得る症例を報告。標準ELISAでは検出できない特定IgGサブクラスが原因の可能性を示し、診断精度向上と検査法見直しの必要性を提示。\n\n2. **低免疫原性iPS細胞の開発（再生医療）**：CRISPRでHLAを編集し免疫寛容分子を発現させたiPS細胞を作製。移植時の免疫拒絶を回避し、汎用的な再生医療製品実現への重要な一歩。\n\n3. **GBMにおけるエクソソームの包括的分析**：悪性脳腫瘍GBMにおいて、エクソソームが腫瘍進展や治療抵抗性に与える影響を体系的に整理。バイオマーカーや治療標的としての応用可能性を展望。\n\n4. **植物由来エクソソーム様ナノ粒子の創傷治癒応用**：ブドウ由来ナノ小胞をハイドロゲルに組み込み、糖尿病創傷のマクロファージ機能を改善。天然素材を活用した新規治療材料開発の進展を示す。\n\n5. **sEVsの工学的応用（ドラッグデリバリー）**：小細胞外小胞（sEVs）を核酸や薬剤の効率的な送達担体として設計する工学戦略を統合。標的指向性治療の実現に向けた基盤技術として注目される。"
+}

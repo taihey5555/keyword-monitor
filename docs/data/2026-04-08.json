@@ -1,0 +1,134 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Correcting Mitochondrial Complex I Defect in Tumor-Associated Natural Killer Cells Potentiates Immunotherapy for Glioblastoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41944586/",
+        "abstract": "Despite successful immuno-oncology therapies in other cancers, they largely failed in glioblastoma(GBM). Here, natural killer (NK) cells from glioma patients show impaired oxidative phosphorylation and mitochondrial complex I activity. Multiomics profiling identified complex I subunit NDUFA9 as a critical mediator of NK cell metabolic fitness. Abundance of NDUFA9+ NK cells informed patient outcome. Ndufa9 knockout in NK cells compromised mitochondrial function, anti-tumor efficacy, and memory-like phenotype of NK cells by triggering a metabolic reprogramming toward glutamine dependence. Decreased α-ketoglutarate(α-KG)/succinate ratio in Ndufa9-deficient NK cells mediated widespread epigenetic reprogramming through inducing transcriptionally repressive histone mark H3K27me3 on key immune function genes. Resveratrol-mediated NDUFA9 activation or its overexpression enhanced NK cell anti-GBM function by restoring complex I activity. Together, these findings reveal the critical role of mitochondrial complex I activity in NK cells and highlight its potential as an actionable target to enhance NK cell-based immunotherapy for GBM patients.",
+        "source": "PubMed",
+        "doi": "10.1158/2159-8290.CD-25-0643",
+        "keyword": "NK cell therapy",
+        "title_ja": "腫瘍関連ナチュラルキラー細胞のミトコンドリア複合体I欠損を修正することで、膠芽腫に対する免疫療法が増強される。",
+        "summary_ja": "**要約**\n神経膠腫患者のNK細胞では、ミトコンドリア複合体Iの機能不全により酸化リン酸化が障害され、抗腫瘍活性が低下している。複合体IサブユニットNDUFA9はNK細胞の代謝適性の重要な媒介因子であり、その発現は患者予後と相関した。NDUFA9欠損は代謝再プログラミング（グルタミン依存性亢進）とα-ケトグルタル酸/コハク酸比の低下を引き起こし、H3K27me3修飾を介したエピジェネティックな転写抑制により免疫機能遺伝子の発現を低下させた。複合体I活性の回復（レスベラトロールやNDUFA9過剰発現）はNK細胞の抗腫瘍機能を増強し、膠芽腫に対するNK細胞免疫療法の新規標的としての可能性を示した。"
+      },
+      {
+        "title": "First-in-Human Study of IL15-Activated Cytokine-Induced Killer Cells After Allogeneic HCT Shows Durable Remission and Serotherapy-Associated Immune Reconstitution in Leukemia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941697/",
+        "abstract": "Patients with high-risk (HR) leukemia remain at substantial risk of early relapse, treatment-related toxicity, and poor survival, underscoring the need for effective relapse prevention therapies. To our knowledge, this first-in-human, disease burden-guided study evaluated the feasibility, safety, and efficacy of donor-derived allogeneic interleukin-15-activated cytokine-induced killer cells (IL15-CIK) combining T-cell and natural killer cell properties for post-transplant disease control.",
+        "source": "PubMed",
+        "doi": "10.1200/JCO-25-01966",
+        "keyword": "NK cell therapy",
+        "title_ja": "同種造血細胞移植後のIL15活性化サイトカイン誘導キラー細胞を用いた初のヒト試験で、白血病における持続的寛解とセロセラピー関連免疫再構築が示される",
+        "summary_ja": "高リスク白血病患者は、同種造血細胞移植後も早期再発リスクが高い。本研究は初のヒト臨床試験として、ドナー由来のIL-15活性化サイトカイン誘導キラー細胞（IL15-CIK）を移植後投与し、その安全性・有効性を評価した。IL15-CIKはT細胞とNK細胞の特性を併せ持ち、再発予防に寄与した。結果、持続的な寛解と、セロセラピー関連の免疫再構築が認められ、新たな治療選択肢となる可能性を示した。"
+      },
+      {
+        "title": "Spatially Defined DNA Origami Cell Engagers for T and Natural Killer Cell-Mediated Immune Modulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41889227/",
+        "abstract": "Cell engagers have emerged as a promising approach for cancer immunotherapy, yet their efficacy is often limited by structural constraints in antibody valency and spatial configuration. Here, we present a DNA origami-based platform for the precise spatial organization of antibodies, enabling the construction of tailored multivalent cell engagers to enhance antitumor immunity. By modulating the composition, valency, and spatial arrangement of antibodies on a single DNA origami scaffold at the single-molecule level, we developed two types of cell engagers, T cell engagers and natural killer cell engagers, that effectively activate immune cells and improve tumor specificity. In vitro studies demonstrated that both engagers elicited specific and effective immune responses against epidermal growth factor receptor (EGFR)-expressing tumors. Furthermore, in vivo studies using murine solid tumor models validated the efficacy of both engagers in inhibiting tumor growth. This study demonstrates the potential of DNA origami as a versatile and programmable platform for engineering precision immunotherapies and highlights its utility for targeted tumor eradication.",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.5c17463",
+        "keyword": "NK cell therapy",
+        "title_ja": "空間的に定義されたDNAオリガミ細胞エンゲージャーによるT細胞およびナチュラルキラー細胞を介した免疫調節",
+        "summary_ja": "**要約：**\nDNAオリガミを基盤とした細胞エンゲージャーを開発し、抗体の組成・価数・空間配置を単分子レベルで精密に制御した。これにより、T細胞およびNK細胞を標的とする2種類のエンゲージャーを作製。EGFR発現腫瘍に対して、in vitroで特異的免疫応答を、in vivoマウス固形腫瘍モデルで腫瘍増殖抑制効果を確認した。DNAオリガミは、プログラム可能な高精度免疫療法の新規プラットフォームとして有望である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Plasma and Sonophoresis-Assisted Topical Delivery of an Exosome for Androgenic Alopecia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945329/",
+        "abstract": "Androgenetic alopecia (AGA) is characterized by progressive follicular miniaturization and shortening of the anagen phase, leading to visible scalp hair thinning. Evidence-based pharmacologic options exist, but real‑world outcomes are limited by adherence, tolerability, and patient preference.",
+        "source": "PubMed",
+        "doi": "10.1097/SCS.0000000000012762",
+        "keyword": "Exosomes",
+        "title_ja": "プラズマおよび超音波導入法を併用したエクソソームの男性型脱毛症への局所投与",
+        "summary_ja": "本論文は、男性型脱毛症（AGA）に対する新規治療法として、血漿処理と超音波導入（ソノフォレーシス）を併用したエクソソームの局所送達を提案する。AGAは毛包の微小化と成長期の短縮により進行する。既存薬剤は実臨床ではアドヒアランスや忍容性に課題がある。本法は、エクソソームの皮膚透過性を向上させ、毛包再生を促進する可能性を示している。"
+      },
+      {
+        "title": "Co-Delivery of Ferrostatin-1 and M2 Macrophage-Derived Exosomal Signals via Engineered Hybrid Nanovesicles Enables Synergistic Neuroprotection in Traumatic Brain Injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41944411/",
+        "abstract": "Secondary brain injury after traumatic brain injury (TBI) is driven largely by ferroptosis-induced neuronal death and maladaptive neuroinflammation. Current therapies are limited by poor drug delivery and the narrow scope of single-pathway interventions. Here, we report a biomimetic hybrid nanovesicle (hMLV) engineered to codeliver the ferroptosis inhibitor ferrostatin-1 (Fer-1) and M2 macrophage-derived exosomes, enabling simultaneous suppression of neuronal ferroptosis and reprogramming of the immune microenvironment. The liposomal core encapsulates hydrophobic Fer-1 to enhance solubility and stability, while the exosomal membrane promotes blood-brain barrier penetration, lesion targeting via chemokine receptors, and immune evasion through CD47 expression. Within injured brain tissue, released Fer-1 restores glutathione peroxidase 4 (GPX4) activity, reduces lipid peroxidation, and prevents ferroptotic neuronal death. Concurrently, exosomal cytokines such as interleukin-10 and transforming growth factor-β drive macrophage polarization toward a reparative M2 phenotype, mitigating neuroinflammation. This dual mechanism establishes a positive therapeutic cycle: ferroptosis inhibition dampens inflammatory triggers, while M2 polarization reduces oxidative stress. In a murine TBI model, hMLV treatment conferred superior neuroprotection and functional recovery compared with monotherapies. These findings highlight hMLV as a clinically translatable nanoplatform for synergistic, mechanism-guided intervention in secondary brain injury.",
+        "source": "PubMed",
+        "doi": "10.1021/acsami.6c01290",
+        "keyword": "Exosomes",
+        "title_ja": "エンジニアリングされたハイブリッドナノベシクルを介したフェロスタチン-1とM2マクロファージ由来エクソソームシグナルの共送達は、外傷性脳損傷における相乗的な神経保護を可能にする。",
+        "summary_ja": "外傷性脳損傷（TBI）後の二次性脳損傷は、フェロトーシスによる神経細胞死と不適応な神経炎症が主因である。本研究では、フェロトーシス阻害剤フェロスタチン-1（Fer-1）とM2マクロファージ由来エクソソームを共送達する生体模倣型ハイブリッドナノベシクル（hMLV）を開発した。リポソームコアがFer-1を封入し、エクソソーム膜が血液脳関門透過性、病変標的化、免疫回避を促進する。損傷脳内でFer-1はGPX4活性を回復し脂質過酸化を抑制、一方エクソソームのサイトカインはマクロファージを修復型M2へ極性化させる。これら二重作用が相乗的に神経炎症とフェロトーシスを抑制し、マウスTBIモデルで優れた神経保護と機能回復を実証した。本プラットフォームは二次性脳損傷に対する機序指向型治療として臨床応用が期待される。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Retraction Notice to \"Bone marrow stromal cells-derived exosomes reduce neurological damage in traumatic brain injury through the miR-124-3p/p38 MAPK/GLT-1 axis\" [Experimental Neurology 365 (2023) 114408].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945041/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.expneurol.2026.115760",
+        "keyword": "Exosomes",
+        "title_ja": "「骨髄間質細胞由来エクソソームはmiR-124-3p/p38 MAPK/GLT-1軸を介して外傷性脳損傷の神経学的損傷を軽減する」の論文撤回通知【Experimental Neurology 365 (2023) 114408】",
+        "summary_ja": "【要約】\n本論文は、外傷性脳損傷（TBI）における骨髄間質細胞由来エクソソームの神経保護メカニズムを報告したが、画像の不正操作が発覚したため撤回された。原著では、エクソソーム中のmiR-124-3pがp38 MAPK経路を抑制し、アストロサイトのグルタミン酸トランスポーター1（GLT-1）発現を増加させることで神経損傷を軽減すると主張していた。しかし、査読過程で図版の重複と改竄が確認され、結果の信頼性が損なわれたため、編集委員会が論文撤回を決定した。"
+      },
+      {
+        "title": "Comprehensive analysis of plasma exosomal and non-exosomal microRNA profiles identifies potential early indicators of carcass traits in Japanese Black cattle.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41942866/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12864-026-12820-w",
+        "keyword": "Exosomes",
+        "title_ja": "日本黒毛和牛の枝肉形質における初期兆候としての可能性を探る：血漿エクソソーム内および非エクソソーム内マイクロRNAプロファイルの包括的解析",
+        "summary_ja": "**要約：**\n本研究は、黒毛和種の枝肉形質（肉質・歩留まり）の早期指標として、血漿中のエクソソーム内およびエクソソーム外（非エクソーム）マイクロRNA（miRNA）を包括的に解析した。両画分のmiRNA発現プロファイルを比較した結果、特定のmiRNA（例：miR-1、miR-206）がエクソソーム画分で濃縮され、筋肥大や脂肪蓄積に関連する遺伝子を標的することが示された。これらのmiRNAの発現パターンは、生体時の血液から測定可能な、枝肉形質の新規なバイオマーカー候補としての可能性を提示している。"
+      },
+      {
+        "title": "NUFIP1-engineered exosomes modulate propofol-induced neurotoxicity in neonatal rats via the ERS apoptotic pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41942784/",
+        "abstract": "Early-life exposure to general anesthetics, particularly propofol, elevates the risk of neurodevelopmental impairment and cognitive sequelae in pediatric populations, representing a pivotal concern in translational neuroanesthesiology. Although preclinical studies have linked propofol to increased developmental neurotoxicity, the underlying molecular mechanisms remain elusive. Our previous work established that nuclear fragile X mental retardation-interacting protein 1 (NUFIP1)-engineered exosomes from human umbilical cord mesenchymal stem cells could mitigate propofol-induced neurotoxicity and neuronal apoptosis in neonatal rats during a critical postnatal window of synaptogenesis (postnatal days 7-14). The present study provides the first mechanistic insights by performing transcriptomic profiling to link this neuroprotection to the endoplasmic reticulum stress (ERS) apoptotic pathway. Importantly, we directly validated key ERS/apoptosis markers and functionally confirmed the pathway's role through pharmacological rescue experiments with Salubrinal. In conclusion, NUFIP1-engineered exosomes regulate propofol-induced nerve injury through the ERS apoptotic pathway, offering novel mechanistic insights with potential implications for addressing pediatric neurodevelopmental impairments.",
+        "source": "PubMed",
+        "doi": "10.1007/s10495-026-02326-x",
+        "keyword": "Exosomes",
+        "title_ja": "NUFIP1を改変したエクソソームは、ERSアポトーシス経路を介して新生児ラットにおけるプロポフォール誘発性神経毒性を調節する。",
+        "summary_ja": "**要約**\n早期プロポフォール曝露は小児の神経発達障害リスクを高める。本研究では、ヒト臍帯間葉系幹細胞由来のNUFIP1改変エクソソームが、新生仔ラットのプロポフォール誘発神経毒性を軽減することを確認。トランスクリプトーム解析により、その保護機序が小胞体ストレス（ERS）依存性アポトーシス経路の抑制によることを初めて解明した。薬理学的救済実験でも経路の関与を確認。NUFIP1エクソソームはERSアポトーシス経路を介して神経傷害を調節し、新たな治療戦略となりうる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に注目すべき5つのトピックをまとめます。\n\n1. **腫瘍内NK細胞の代謝修復（神経膠腫）**：腫瘍微小環境内のNK細胞はミトコンドリア複合体Iの機能不全により活性が抑制される。NDUFA9発現を標的とした代謝修復は、免疫療法の効果を増強する新戦略となる。\n\n2. **移植後IL-15活性化CIK細胞療法（白血病）**：同種移植後の高リスク白血病患者に、ドナー由来IL-15活性化CIK細胞を投与。早期再発抑制と免疫再構築の両立が期待される革新的なアプローチ。\n\n3. **DNAオリガミ細胞エンゲージャー**：抗体の空間配置をナノスケールで精密設計した新規プラットフォーム。T細胞/NK細胞の活性化を最適化し、標的治療の効率と特異性を向上させる可能性。\n\n4. **エクソソームの局所送達技術（脱毛症）**：血漿処理と超音波導入を組み合わせ、エクソソームの毛包への送達効率を向上。既存治療の課題であるアドヒアランスを改善する非侵襲的治療法。\n\n5. **ハイブリッドナノベシクルによる神経保護（脳損傷）**：フェロトーシス阻害剤とM2マクロファージエクソソームシグナルを共送達。神経炎症と細胞死を同時に抑制する協調的治療として注目される。\n\nこれらの進展は、細胞療法の効率化、ナノ材料の医療応用、エクソソームの実用化において重要な段階を示しています。"
+}

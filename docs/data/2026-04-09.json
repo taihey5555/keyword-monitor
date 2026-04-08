@@ -1,0 +1,206 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Dataset of multi-trait selection approach of superior purple-fleshed Sweet Potato (PFSP) genotypes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41947981/",
+        "abstract": "Sweet potato (",
+        "source": "PubMed",
+        "doi": "10.1016/j.dib.2026.112686",
+        "keyword": "PF4",
+        "title_ja": "優良な紫肉サツマイモ（PFSP）遺伝子型の多形質選抜手法に関するデータセット",
+        "summary_ja": "**論文要約：**\n\n本論文は、紫色果肉サツマイモ（PFSP）の優良系統選抜のための多形質選択アプローチに関するデータセットを提示する。従来の単一形質選抜ではなく、複数の農学的・品質形質（収量、乾物率、アントシアニン含有量など）を統合的に評価する手法を採用。これにより、高収量かつ高機能性（抗酸化能）を兼ね備えた優良系統の効率的な選定が可能となる。データセットは、遺伝的多様性の評価と育種プログラムへの応用に資する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Engineered Bacillus Calmette-Guérin Mediated Immunotherapy of Triple-Negative Breast Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41949057/",
+        "abstract": "Live bacterial therapy has shown promise in inducing antitumor immunity, but its efficacy is often limited by the immunosuppressive tumor microenvironment (TME) and insufficient tumor-specific T cell activation. In this study, core-shell Au@Zn",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.5c22491",
+        "keyword": "NK cell therapy",
+        "title_ja": "トリプルネガティブ乳癌に対する組換えBCGを用いた免疫療法",
+        "summary_ja": "**要約**\n本研究では、免疫抑制的な腫瘍微小環境（TME）と腫瘍特異的T細胞活性化の不足という課題に対処するため、BCG（Bacillus Calmette-Guérin）を改変した生菌療法を開発した。コア-シェル構造を持つAu@Zn（詳細は原文に譲る）を利用し、三重陰性乳がん（TNBC）に対する免疫療法として応用。このエンジニアリングされたBCGは、TMEを再編成し、効果的な抗腫瘍免疫応答を誘導することで、治療効果の向上が示された。"
+      },
+      {
+        "title": "Advances in cellular therapy for cancer: vector design and genome editing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41947579/",
+        "abstract": "The year 2025 saw continued scientific progress in cell therapy and further commercial expansion of CAR T-cell therapeutics, alongside notable strategic contractions driven largely by manufacturing cost constraints. The field also benefited from the recent transition in T-cell subset nomenclature toward function- and state-based definitions, enabling more precise characterization of CAR T-cell products. We highlight five key advances, including in vivo CAR generation, next-generation genome engineering and the expanding potential of AI-guided antibody discovery platforms for cellular immunotherapy.",
+        "source": "PubMed",
+        "doi": "10.1111/imcb.70111",
+        "keyword": "NK cell therapy",
+        "title_ja": "がん細胞療法の進展：ベクター設計とゲノム編集",
+        "summary_ja": "2025年におけるがん細胞療法の進展は、CAR-T療法の商業展開と製造コストによる戦略的縮小が並存した。T細胞サブセットの機能・状態に基づく新たな分類は、製品の精密な評価を可能にした。主な進歩として、①in vivoでのCAR生成、②次世代ゲノム工学、③AIを活用した抗体発見プラットフォームの細胞免疫療法への応用などが挙げられる。"
+      },
+      {
+        "title": "Attributable Fraction of Epstein-Barr Virus in Subtypes of Lymphoma: A Systematic Review and Global Meta-Analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41947331/",
+        "abstract": "There is evidence for a causal role of Epstein-Barr virus (EBV), a known carcinogen, in an increasing number of lymphoma subtypes, but a systematic evaluation of EBV attributable fraction is lacking. We conducted a systematic review and meta-analysis of EBV prevalence in lymphoma subtypes from 1990 to 2024, stratified by HIV status and geographical region. For each subtype, we calculated pooled prevalence and corresponding 95% confidence intervals (CIs) of EBV, measured by EBV-encoded RNA in situ hybridisation. 307 eligible studies, including > 21,140 lymphoma cases, were included. In HIV-negative persons, EBV pooled prevalence was 10.8% (95% CI 8.6%-13.5%) in Diffuse large B-cell lymphoma (DLBCL), 45.8% (35.2%-56.8%) in Burkitt lymphoma (BL), 53.0% (46.9%-58.9%) in Hodgkin lymphoma, 52.5% (29.6%-74.4%) in plasmablastic lymphoma, 92.4% (83.3%-96.7%) in extranodal NK/T-cell lymphoma (ENKTL), and 5.1% (2.7%-9.4%) in follicular lymphoma. EBV prevalence was higher among tumors diagnosed among persons living with HIV (PLHIV), for DLBCL (43.6% (95% CI 31.5%-56.5%)), BL (43.3% (27.9%-60.2%)), and PBL (79.4% (65.6%-88.6%)), compared to HIV-negative tumors. BL was the only subtype with evidence of heterogeneity in EBV positivity by region, with near-universal EBV positivity in East African BL. This provides the first systematic and comprehensive evidence on EBV's substantial contribution to lymphoma, highlighting its particular importance in lymphomas arising in PLHIV. These data can contribute to estimating the complete burden of EBV-related disease and inform public health and clinical strategies, including vaccines, early diagnosis, or targeted therapies.",
+        "source": "PubMed",
+        "doi": "10.1002/ijc.70468",
+        "keyword": "NK cell therapy",
+        "title_ja": "リンパ腫サブタイプにおけるエプスタイン・バーウイルスの寄与割合：系統的レビューとグローバルメタ分析",
+        "summary_ja": "本論文は、エプスタイン・バーウイルス（EBV）が原因となるリンパ腫サブタイプの割合（EBV帰属割合）をシステマティックレビューとメタ解析により評価した。1990-2024年の307研究（21,140例以上）を解析。HIV陰性者では、EBV陽性率はDLBCLで10.8%、バーキットリンパ腫（BL）で45.8%、ホジキンリンパ腫で53.0%、節外性NK/T細胞リンパ腫（ENKTL）で92.4%などであった。HIV感染者ではDLBCL、BLなどで陽性率が顕著に高かった。BLでは地域差が認められ、東アフリカではほぼ全例がEBV陽性であった。本研究はEBVがリンパ腫に与える影響を包括的に示し、公衆衛生・臨床戦略（ワクチン、標的療法など）への活用が期待される。"
+      },
+      {
+        "title": "Identification of immunomodulators associated with atrial fibrillation reporting to better understand AF immunologic mechanisms: a Vigibase retrospective disproportionality analysis and a literature review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41946548/",
+        "abstract": "Growing evidence exists about the pivotal role of immune mechanisms in the physiopathology of atrial fibrillation (AF). Drugs that modulate the immune system (immunomodulators) may contribute to the development of AF. We aimed to identify immunomodulators that are associated with AF to better define their safety profile, and elucidating their mechanisms of action could yield novel insights into AF's immune physiopathology.",
+        "source": "PubMed",
+        "doi": "10.1136/bmjopen-2024-098166",
+        "keyword": "NK cell therapy",
+        "title_ja": "心房細動の免疫学的機序をより深く理解するための免疫調節剤の同定：Vigibase後ろ向き不均衡性解析と文献レビュー",
+        "summary_ja": "免疫機構が心房細動（AF）の病態生理に重要な役割を果たすというエビデンスが増加している。本研究は、免疫系を調節する薬剤（免疫調節薬）がAF発症に関与する可能性に着目し、Vigibaseデータベースを用いた後ろ向き disproportionality 解析と文献レビューを実施した。目的は、AFと関連する免疫調節薬を同定して安全性プロファイルを明確にし、その作用機序を解明することで、AFの免疫学的病態理解に新たな知見をもたらすことである。"
+      },
+      {
+        "title": "HLA-E single-chain trimer shields gene-edited allogeneic CAR T Cells from NK cell attack.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945756/",
+        "abstract": "Allogeneic chimeric antigen receptor (CAR) T cell therapies hold promise for certain malignant disorders as they allow for scalability, on-demand availability, and enhanced product quality. Currently, allogeneic CAR T cell approaches focus on deleting the αβTCR complex and MHC-I/II from CAR T cells to prevent GvHD and rejection of allogeneic cells by the recipient's immune system. However, genetic ablation of MHC-I leads to NK activation in recipients due to the \"missing-self\" response. Here, we demonstrate the successful generation of universal allogeneic CART (UCART) cells that evade the NK cell \"missing-self\" response and display similar performance to autologous CAR T cells both in vitro and in vivo. An HLA single-chain trimer (ScT) platform enabled our demonstration that HLA-E presentation of a defined signal peptide sequence, VMAPRTLIL (designated as HLA-ESP-1C), confers resistance to NKG2A+ cell populations with negligible activation of NKG2C+ cell populations. Examination of additional receptor-ligand interactions that may impact NK cell activation confirmed that CD54 and CD58 ablation on UCART cells, in combination with HLA-ESP-1C expression, led to optimal resistance to heterogenous NKG2A+/C+ NK cell populations. Finally, in a humanized mouse model reconstituted with allogeneic NK cells, we demonstrate that UCART19 cells promote stringent tumor control. Our work suggests an updated approach for allogeneic CART cell therapy for clinical applications.",
+        "source": "PubMed",
+        "doi": "10.1182/bloodadvances.2025016927",
+        "keyword": "NK cell therapy",
+        "title_ja": "HLA-E単鎖トリマーは遺伝子編集された同種CAR-T細胞をNK細胞の攻撃から保護する",
+        "summary_ja": "**要約**\n同種異系CAR-T細胞療法は、拒絶反応回避のためMHC-Iを欠損させるが、NK細胞の「missing-self」応答を誘発する。本研究では、HLA-E単鎖トリマー（ScT）を用いて特定ペプチド（VMAPRTLIL）を提示することで、NKG2A+ NK細胞からの攻撃を回避する普遍的同種CAR-T（UCART）細胞を開発した。さらにCD54/CD58の欠損と組み合わせることで、多様なNK細胞集団に対する最適な抵抗性を達成し、ヒト化マウスモデルで有効な腫瘍抑制を確認した。これは同種CAR-T療法の臨床応用に向けた新たなアプローチを示す。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Integrated multi-omics and experimental validation for identifying novel biomarkers of acute myocardial infarction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41949600/",
+        "abstract": "Acute myocardial infarction (AMI) remains a leading cause of morbidity and mortality, and early diagnosis and personalized therapy are constrained by complex molecular mechanisms. We integrated high-throughput bulk RNA sequencing with weighted gene co-expression network analysis (WGCNA) to prioritize AMI-associated genes, externally validated findings in two independent cohorts, and screened candidates using machine learning models. Diagnostic performance was assessed by receiver operating characteristic area under the curve, and immune-cell associations were explored. Single-cell RNA sequencing (scRNA-seq) across AMI stages provided orthogonal validation via gene set variation analysis, inferred cell-cell communication, pseudotime trajectories, and cell-type proportion analyses. Genetic support for causality was evaluated using two-sample bidirectional Mendelian randomization (MR) and summary-data-based MR (SMR). We additionally predicted compound-target interactions through in silico molecular docking of Comparative Toxicogenomics Database sourced compounds and examined histology and gene expression in rat and H9C2 models using hematoxylin and eosin (HE) staining, Western blotting, and qRT-PCR. MR/SMR analyses supported potential causal contributions of STAT3 (OR 1.417, 95% CI 1.063-1.889, P",
+        "source": "PubMed",
+        "doi": "10.1007/s00210-026-05281-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "急性心筋梗塞の新規バイオマーカー同定のための統合マルチオミクスと実験的検証",
+        "summary_ja": "【要約】\n急性心筋梗塞（AMI）の新規バイオマーカー同定のため、多層オミクス解析と実験的検証を統合した研究。バルクRNA-seqとWGCNAでAMI関連遺伝子を抽出し、機械学習で候補を選定。単一細胞RNA-seqにより細胞間コミュニケーションや軌跡解析を実施。メンデルランダム化解析でSTAT3の因果的関与を支持（OR 1.417）。さらに、in silico分子ドッキング、ラット・H9C2細胞モデルでの組織染色・発現解析により候補遺伝子を検証した。早期診断と個別化治療に向けた統合的なアプローチを示す。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Toxicity of nanostructures in drug delivery applications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41948008/",
+        "abstract": "Nanostructures and nanoparticles have transformed drug delivery by enabling enhanced bioavailability, targeted therapy, controlled drug release, and improved therapeutic outcomes; however, these benefits come with complex safety and translational challenges that remain incompletely resolved. This updated review synthesizes recent advances in nanostructured drug carriers over the past five years, emphasizing unique delivery platforms such as engineered exosomes, transfersomes, cubosomes, and solid lipid nanoparticles (SLNs), and discusses their mechanisms of action, disease-specific applications, and emerging toxicity insights (e.g., neurotoxicity, pulmonary toxicity, and reproductive toxicity), which are often overlooked. Exosomes, as natural extracellular vesicles, exemplify a class of multifunctional nanocarriers that can encapsulate diverse therapeutic payloads with low inherent toxicity and favorable pharmacokinetics, and recent engineering approaches such as microfluidics, lipid modification, and surface ligand decoration have advanced their targeting precision and clinical potential, particularly for challenging indications like central nervous system infections via blood-brain barrier penetration. Moreover, this review incorporates analytical discussion of specific biological pathways and biomarkers associated with nanostructure toxicity including reactive oxygen species (ROS)-driven oxidative stress, lysosomal dysfunction, immune activation, and organ accumulation and quantitatively evaluates risk indicators across different nanocarrier classes, addressing gaps in dose, exposure duration, and aggregation state effects. Regulatory contexts and advanced predictive toxicology models, including artificial intelligence-guided quantitative structure-activity relationship (QSAR) and physiologically based pharmacokinetic (PBPK) simulations, are critically evaluated for their roles in regulatory decision-making and clinical translation. By integrating recent high-impact literature and methodical toxicity frameworks with detailed mechanistic insights, this review offers a comprehensive and up-to-date resource that delineates both therapeutic innovation and safety considerations in nanostructure-based drug delivery.",
+        "source": "PubMed",
+        "doi": "10.1016/j.pscia.2026.100117",
+        "keyword": "Exosomes",
+        "title_ja": "薬物送達応用におけるナノ構造の毒性",
+        "summary_ja": "ナノ構造体は薬物送達において標的指向性や制御放出など治療効果を向上させるが、安全性と臨床応用には課題が残る。本総説は、エクソソームやSLNなど新規ナノキャリアの作用機序・応用に加え、神経毒性や酸化ストレス等の毒性機序を検証する。また、QSARやPBPK等のAI予測毒性モデルや規制枠組みを評価し、治療革新と安全性の両面からナノ薬物送達の現状を包括的にまとめている。"
+      },
+      {
+        "title": "Dual role of exosomes in pancreatic cancer: Underlying mechanisms and research advances (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41947900/",
+        "abstract": "Pancreatic cancer is one of the most common malignant tumors. Due to late diagnosis and a lack of effective treatments, pancreatic cancer has a poor prognosis and a high mortality rate. Further understanding of the mechanisms underlying the development and progression of pancreatic cancer is key to developing rational diagnostic and therapeutic strategies. Exosomes are small vesicles secreted by most cells, carrying a rich cargo of lipids, proteins and nucleic acids. Exosomes serve various roles in intercellular communication, biological processes and signal transduction. Notably, exosomes exhibit a dual role in pancreatic cancer: Exosomes can directly promote tumor cell proliferation, growth and metastasis, modulate the complex immunosuppressive microenvironment and contribute to chemoresistance; by contrast, exosomes can serve as biomarkers for diagnosis and drug delivery vehicles. The present study systematically reviewed the mechanisms through which exosomes exert their dual functions via their specific biomolecular cargo in pancreatic cancer, as well as their potential applications in diagnosis and treatment, thereby laying a research foundation for exosomes to potentially serve a more active role in pancreatic cancer in the future.",
+        "source": "PubMed",
+        "doi": "10.3892/ol.2026.15547",
+        "keyword": "Exosomes",
+        "title_ja": "膵臓癌におけるエクソソームの二重役割：基礎的機序と研究の進展（総説）",
+        "summary_ja": "膵臓癌は診断の遅れと有効治療の不足から予後不良な悪性腫瘍である。エクソソームは細胞から分泌される小胞で、脂質・タンパク質・核酸を運び、細胞間通信やシグナル伝達に関与する。膵臓癌においてエクソソームは二面性を示す：一方で腫瘍増殖・転移促進、免疫抑制微小環境の調節、化学療法耐性に関与し、他方で診断バイオマーカーや薬剤送達キャリアとしての応用が可能である。本総説は、エクソソームがその生体分子を介して発揮する二重機能の機序と、診断・治療への応用可能性を体系的に概説し、今後の研究基盤を提供する。"
+      },
+      {
+        "title": "Pomegranate peel-derived exosome-like nanoparticles: A discarded treasure trove for colorectal cancer treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41947898/",
+        "abstract": "Colorectal cancer (CRC) is the leading cause of cancer-related deaths. Thus, there is an urgent need for effective treatment strategies. Exosomes and exosome-like nanoparticles (ELNs) have recently received widespread attention due to their various bioactivity functions and potential clinical applications. The present study focused on the molecular mechanism of pomegranate peel-derived ELNs (PELNs) in anti-CRC therapy. PELNs were successfully extracted via the ultra-centrifugation method and were effectively received by CRC cells (SW480). In addition, the proliferation and migration of CRC cells treated with PELNs were significantly inhibited ",
+        "source": "PubMed",
+        "doi": "10.3892/ol.2026.15546",
+        "keyword": "Exosomes",
+        "title_ja": "ザクロの皮由来エクソソーム様ナノ粒子：大腸癌治療における廃棄された宝の山",
+        "summary_ja": "ザクロ果皮由来エクソソーム様ナノ粒子（PELNs）は、超遠心法で抽出され、大腸癌（CRC）細胞に取り込まれる。PELNsはCRC細胞の増殖と遊走を有意に抑制し、新たな抗CRC治療戦略としての可能性を示した。廃棄物由来の生体活性ナノ粒子が、癌治療の貴重な資源となることを示唆する研究である。"
+      },
+      {
+        "title": "Isorhamnetin-preconditioned MSC-derived exosomes restore ovarian function by inhibiting ferroptosis in chemotherapy-induced POF.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41947243/",
+        "abstract": "Chemotherapy-induced premature ovarian failure (POF) is a major cause of infertility, with limited treatment options. Mesenchymal stem cell-derived exosomes (MSC-Exos) have therapeutic potential. This study investigated whether preconditioning MSCs with the antioxidant flavonoid isorhamnetin (ISO) enhances the efficacy of their exosomes (ISO-MSC-Exos) against POF.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-04989-4",
+        "keyword": "Exosomes",
+        "title_ja": "イソラムネチン前処理を施した間葉系幹細胞由来エクソソームは、化学療法誘発性早発卵巣不全におけるフェロトーシスを抑制することで卵巣機能を回復させる。",
+        "summary_ja": "化学療法誘発性早発卵巣不全(POF)は不妊の主要因で、治療法が限られる。間葉系幹細胞由来エクソソーム(MSC-Exos)は治療効果が期待されるが、本研究では抗酸化フラボノイドであるイソラムネチン(ISO)で前処理したMSCのエクソソーム(ISO-MSC-Exos)の効果を検討。その結果、ISO-MSC-Exosはフェロトーシスを抑制することで卵巣機能を回復し、通常のMSC-Exosより高い治療効果を示した。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Exosomal miR-199a-3p From Dermal Papilla Cells Regulates Hair Follicle Pigmentation by Targeting POU2F1 in Melanocytes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41948944/",
+        "abstract": "To elucidate the paracrine regulatory mechanism of dermal papilla cells (DPCs) on melanocyte (MC) melanogenesis, we focused on exosomal miR-199a-3p as a key mediator. DPCs, MCs, and DPC-Exos were identified by immunofluorescence, Western blot (WB), nanoparticle tracking analysis (NTA), and transmission electron microscopy (TEM). Functional assays showed DPC-Exos were internalized by MCs, enhanced proliferation, decreased apoptosis, and elevated melanin production. miRNA sequencing identified miR-199a-3p as the key exosomal cargo, which was localized to hair follicle bulbs by fluorescence in situ hybridization (FISH). Transwell co-culture and Cy3-tracing revealed intercellular transfer. Dual-luciferase assays confirmed miR-199a-3p directly targets the 3'UTR of POU2F1. Additionally, exosomal miR-199a-3p promoted the growth of ex vivo hair follicles and significantly regulated the expression of melanogenesis-related genes in hair follicles. Gain-of-function experiments demonstrated that DPC-Exos transfected with miR-199a-3p mimics suppressed POU2F1, effectively reversing its anti-melanogenic activity. This study elucidates an exosome-mediated DPC-MC regulatory axis centered on miR-199a-3p/POU2F1, providing novel therapeutic targets for pigmentation disorders and advancing animal coat color modulation strategies.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202504126R",
+        "keyword": "Exosomes",
+        "title_ja": "毛乳頭細胞由来のエクソソーマルmiR-199a-3pは、メラノサイト内のPOU2F1を標的として毛包色素沈着を調節する。",
+        "summary_ja": "真皮乳頭細胞（DPCs）がメラノサイト（MCs）のメラニン生成を調節する傍分泌機構を解明するため、エクソソーム内miR-199a-3pに着目した。DPCs由来エクソソーム（DPC-Exos）はMCsに取り込まれ、その増殖促進、アポトーシス抑制、メラニン産生亢進を誘導した。miR-199a-3pは毛包球部に局在し、細胞間移行後、転写因子POU2F1の3'UTRに直接結合してその発現を抑制することを確認した。機能獲得実験では、miR-199a-3pを導入したDPC-ExosがPOU2F1を抑制し、抗メラニン生成作用を逆転させた。本研究は、miR-199a-3p/POU2F1を軸とするエクソソーム介在性のDPC-MC調節経路を明らかにし、色素異常症の治療や動物毛色制御への応用が期待される。"
+      },
+      {
+        "title": "Hypoxia conditioned adipose-derived stem cell-derived extracellular vesicle therapy improves cardiac function in a rat model of ischemic cardiomyopathy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41948478/",
+        "abstract": "Extracellular vesicles (EVs) are potential cell-free therapies for cardiac regeneration. Although adipose-derived stem cells (ADSCs) are easily obtained using minimally invasive procedures, therapeutic effects of hypoxically conditioned ADSC-derived EVs on the heart remain unknown. We aimed to verify whether hypoxic preconditioning enhances the therapeutic efficacy of ADSC-derived EVs.",
+        "source": "PubMed",
+        "doi": "10.1016/j.reth.2026.101105",
+        "keyword": "Exosomes",
+        "title_ja": "低酸素条件下脂肪由来幹細胞由来細胞外小胞療法は、虚血性心筋症ラットモデルにおける心機能を改善する",
+        "summary_ja": "【要約】\n脂肪由来幹細胞（ADSC）由来細胞外小胞（EV）は、心臓再生の細胞フリー療法として有望である。本研究は、低酸素条件下で培養したADSC由来EV（低酸素条件付きEV）が、虚血性心筋症ラットモデルにおいて心機能を改善するか検証した。結果、低酸素前処置はADSC-EVの治療効果を増強し、心機能回復を促進することが示された。低酸素条件付きEVは、より優れた心筋再生療法となる可能性がある。"
+      },
+      {
+        "title": "Single-Luminophore Ratiometric Electrochemiluminescence Based on Afterglow Emission from Defect-Engineered Carbon Nitride.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945892/",
+        "abstract": "Ratiometric electrochemiluminescence (ECL) sensing is an effective strategy for improving signal reliability; however, most existing systems rely on dual luminophores or multiple electrochemical processes, which inevitably increase system complexity and compromise signal coherence. Herein, a fundamentally different ratiometric ECL paradigm was established based on a single luminophore capable of simultaneously generating conventional and afterglow ECL emissions. By engineering nitrogen defect-rich carbon nitride with defect electronic states, injected electrons can be temporarily stored during pulsed excitation and gradually released to sustain light emission, even after the applied potential is removed. This afterglow ECL process introduces an intrinsically low-background, time-resolved analytical signal with an identical emissive origin to conventional ECL. Based on the synchronous modulation of these homologous signals, an intrinsically self-referenced ratiometric ECL platform with exceptional stability and ultrahigh sensitivity was constructed. As a proof of concept, the strategy was successfully employed to quantify exosomal microRNA at attomolar levels in complex biological samples. Beyond this specific application, the proposed approach also represents a general single-component ratiometric ECL framework that can be utilized to expand the analytical scope of ECL sensing into the time domain.",
+        "source": "PubMed",
+        "doi": "10.1021/jacs.6c03512",
+        "keyword": "Exosomes",
+        "title_ja": "単一発光体を用いた比定量型電気化学発光：欠陥制御窒化炭素の残光放出に基づく手法",
+        "summary_ja": "単一発光体によるレシオメトリック電気化学発光（ECL）センシングの新たなパラダイムを提案。従来の二重発光体方式と異なり、窒素欠陥を導入した炭素窒化物が、パルス励起中に電子を一時的に蓄え、電位除去後も徐々に放出するアフターグローECLを発現。これにより、同一発光体から時間分解された二つの発光（従来型ECLとアフターグローECL）を取得可能に。これらの相同信号を自己参照として用いることで、極めて安定かつ高感度なレシオメトリックECLプラットフォームを構築。複雑な生物試料中でのエクソソームmicroRNAのアトモルレベル検出に成功し、時間領域を活用した新規ECLセンシングの一般的手法としての可能性を示した。"
+      },
+      {
+        "title": "Exosome-Mitochondrial Hybrid Membrane with Targeted Delivery of CO Prevents Mitochondrial Dysfunction and Pyroptosis against Myocardial Ischemia-Reperfusion Injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945782/",
+        "abstract": "Myocardial ischemia-reperfusion (I/R) injury exacerbates cardiac dysfunction and heart failure following clinical revascularization. The main mechanisms involve aberrant accumulation of reactive oxygen species (ROS) that induce mitochondrial dysfunction, trigger pyroptosis, and amplify immune-inflammatory responses. Herein, we developed exosome-mitochondrial hybrid membrane vessels to encapsulate carbon monoxide (EM@CO) for targeted delivery of CO to attenuate myocardial I/R injury. Due to the adhesive properties of exosomes and the homologous mitochondrial targeting capacity of the mitochondrial membrane (MM), EM@CO exhibits sequential targeting from infarcted myocardium to myocardial cell mitochondria. The released CO in mitochondria reduces abnormal mitochondrial ROS generation to maintain mitochondrial function, thereby decreasing mtDNA release and inhibiting pyroptosis ",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.5c21479",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム-ミトコンドリアハイブリッド膜によるCOの標的送達は、心筋虚血再灌流障害に対するミトコンドリア機能不全とパイロトーシスを防止する。",
+        "summary_ja": "本論文は、心筋虚血再灌流（I/R）障害に対し、エクソソームとミトコンドリア膜のハイブリッド膜（EM）を用いて一酸化炭素（CO）を標的送達する新規ナノ粒子（EM@CO）を開発した。EM@COは、梗塞心筋から心筋細胞内ミトコンドリアへと順次標的する。ミトコンドリア内で放出されたCOは、異常な活性酸素種（ROS）の産生を抑制し、ミトコンドリア機能を維持。これにより、ミトコンドリアDNAの放出と、それに続くパイロトーシス（炎症性細胞死）を抑制し、心筋I/R障害を軽減する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "注目すべき5つのトピックは以下の通りです。\n\n1.  **HLA-Eによる同種異系CAR-T細胞のNK細胞攻撃からの防御**：同種CAR-T細胞はMHC-I欠損によりNK細胞に攻撃される課題があった。HLA-E単鎖トリマーを発現させることで、NK細胞の抑制性受容体に結合し「missing-self」応答を回避。オフ・ザ・シェル療法の実用化に大きく寄与する。\n\n2.  **低酸素条件付き脂肪幹細胞由来EVの心臓再生**：細胞フリー療法として、低酸素ストレスをかけた脂肪由来幹細胞の細胞外小胞（EV）が、虚血性心筋症モデルで心機能を改善。製造過程の最適化により治療効果を増強できる可能性を示し、再生医療の新戦略となる。\n\n3.  **膵臓癌におけるエクソソームの二面性と治療標的化**：エクソソームは膵臓癌の増殖・転移を促進する一方、診断バイオマーカーや薬剤送達キャリアとしても有望。その二面性の機序理解と、治療への応用（例：廃棄物由来ナノ粒子）が進み、難治性癌治療の突破口となる。\n\n4.  **ザクロ果皮由来エクソソーム様ナノ粒子の大腸癌治療**：農業廃棄物であるザクロ果皮から抽出した生体適合性ナノ粒子が、大腸癌細胞の増殖・遊走を抑制。安価で持続可能な天然物由来ナノ医薬品の開発につながる画期的なアプローチ。\n\n5.  **in vivo CAR生成など次世代細胞療法の進展**：2025年の細胞療法は、高価なex vivo工程を省略する「in vivoでのCAR生成」技術が主要な進歩。ウイルスベクター設計とゲノム編集技術の融合により、治療のアクセス性と適用範囲が飛躍的に拡大する。"
+}

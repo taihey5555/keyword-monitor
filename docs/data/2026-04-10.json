@@ -1,0 +1,143 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Recent progress of dendritic cell-derived exosomes in tumor immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41954838/",
+        "abstract": "Despite advancements in conventional tumor therapies including surgery and chemotherapy, effective cancer management remains challenging due to treatment resistance and tumor microenvironment complexity. Dendritic cell (DC)-based vaccines, while representing a milestone in tumor immunotherapy, face clinical limitations such as poor viability and limited antigen presentation capacity. Importantly, dendritic cell-derived exosomes (DEXs) have emerged as a potential alternative. In contrast to DC vaccines, DEXs possess excellent in vivo biocompatibility and biosafety, demonstrate higher immunogenicity, exhibit stronger immunosuppressive resistance, and require lower production costs. Mechanistically, DEXs overcome immunosuppressive obstacles through dual delivery of immunostimulatory cargo and tumor-associated antigens, thereby achieving superior anti-tumor effects. This review examines recent research progress regarding DEXs in tumor immunotherapy, with particular emphasis on their roles in immune activation, the regulation of the tumor microenvironment, serving as drug delivery vehicles, and vaccine development. These advancements will help deepen the understanding of tumor immunotherapy and promote clinical translation.",
+        "source": "PubMed",
+        "doi": "10.1007/s10637-026-01604-4",
+        "keyword": "Exosomes",
+        "title_ja": "樹状細胞由来エクソソームの腫瘍免疫療法における最近の進歩",
+        "summary_ja": "**要約（400字以内）**\n\n従来の癌治療には抵抗性や腫瘍微小環境の複雑さといった課題がある。樹状細胞（DC）ワクチンは画期的だが、生体内での生存性や抗原提示能に限界がある。これに対し、樹状細胞由来エクソソーム（DEX）は有望な代替手段として注目されている。DCワクチンと比較し、DEXは生体適合性・安全性が高く、免疫原性が強く、免疫抑制耐性があり、製造コストも低い。その機序は、免疫刺激因子と腫瘍関連抗原の二重デリバリーにより免疫抑制を克服し、優れた抗腫瘍効果を発揮することにある。本レビューは、DEXの免疫活性化、腫瘍微小環境の調節、ドラッグデリバリーキャリアやワクチンとしての役割に関する最新の進展を概説し、腫瘍免疫療法の理解深化と臨床応用の促進に寄与する。"
+      },
+      {
+        "title": "Bushen Huatan formula improves reproductive and endocrine metabolic disorders in non-obese polycystic ovary syndrome rats via adipose tissue-derived exosomal miR-27a-3p/PPARG signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41954200/",
+        "abstract": "This study aims to investigate the therapeutic effects of the Bushen Huatan (BSHT) Formula on non-obese polycystic ovary syndrome (PCOS) rats, and to explore its potential mechanisms of action.",
+        "source": "PubMed",
+        "doi": "10.1080/09513590.2026.2655498",
+        "keyword": "Exosomes",
+        "title_ja": "補腎化痰方剤は、脂肪組織由来エクソソームmiR-27a-3p/PPARGシグナル伝達経路を介して、非肥満多嚢胞性卵巣症候群ラットの生殖・内分泌代謝異常を改善する",
+        "summary_ja": "**要約**\n非肥満PCOSラットにおいて、補腎化痰方（BSHT）は、脂肪組織由来エクソソーム中のmiR-27a-3pを介して、その標的遺伝子PPARGシグナル経路を調節する。これにより、内分泌・代謝異常（インスリン抵抗性、アンドロゲン過剰など）および生殖機能障害（排卵障害など）が改善され、BSHTの治療効果の分子メカニズムの一端が示された。"
+      },
+      {
+        "title": "Macrophage exosome-engineered nanoplatform with pH-responsive ratiometric photoacoustic and NIR-II fluorescence imaging for guided photothermal immunotherapy of hepatocellular carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41953722/",
+        "abstract": "The effectiveness of immunotherapy for hepatocellular carcinoma (HCC) is severely compromised by an immunosuppressive tumor microenvironment (TME) dominated by M2-polarized tumor-associated macrophages (TAMs), coupled with a lack of reliable strategies for real-time treatment monitoring. To address this, we developed a pH-responsive nanoimmunomodulator derived from macrophage exosomes for spatiotemporal TAM reprogramming combined with second near-infrared (NIR-II) theranostics. Our nanoplatform (anti-CD47 conjugated Croc@DMPC/Ag",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103058",
+        "keyword": "Exosomes",
+        "title_ja": "マクロファージエクソソームを利用したpH応答性比率光音響・NIR-II蛍光イメージングナノプラットフォームによる肝細胞癌の光熱免疫療法ガイド",
+        "summary_ja": "本論文は、肝細胞癌（HCC）の免疫抑制的腫瘍微小環境（TME）を、M2偏極腫瘍関連マクロファージ（TAM）の再プログラミングにより改善するナノ免疫調節プラットフォームを開発した。マクロファージエクソソーム由来のpH応答性ナノ粒子（抗CD47修飾Croc@DMPC/Ag）は、NIR-II蛍光・光音響二重イメージングにより治療をリアルタイムでモニタリングしつつ、光熱療法と免疫療法をガイドする。これにより、TMEの免疫抑制を解除し、HCC治療の効果を高めることを目指す。"
+      },
+      {
+        "title": "Exosomal miR-92a-3p promotes pancreatic cancer cells' extravasation by inducing vascular permeability through inhibition of DAB2IP.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41951578/",
+        "abstract": "Metastasis, the colonization of distant organs by cells derived from primary cancer, is the leading cause of mortality in pancreatic adenocarcinoma (PAAD). Growing evidence indicates that cancer-derived exosomes play pivotal roles in facilitating cancer metastasis by promoting pre-metastatic niche formation. However, the contribution of PAAD-derived exosomal microRNAs (MiRNAs) to this process remains poorly characterized. In this study, we identified specific PAAD-derived exosomal miRNAs involved in metastatic progression. Sequencing of small RNAs extracted from circulating exosomes derived from patients with metastatic or non-metastatic PAAD revealed that miR-92a-3p is associated with a metastatic phenotype. We demonstrated that exosomal miR-92a-3p facilitates cancer cells' extravasation and lung metastasis by disrupting vascular barrier integrity. Mechanistically, exosomal miR-92a-3p directly inhibits the tumor suppressor disabled homolog 2 interacting protein (DAB2IP), thereby activating the PI3K-AKT signaling cascade in endothelial cells (ECs). This activation attenuates expression of intracellular junction markers and stimulates endothelial nitric oxide synthase, leading to increased vascular permeability. Our findings suggest that targeting miR-92a-3p could represent a potential strategy to reduce metastasis in PAAD.",
+        "source": "PubMed",
+        "doi": "10.1038/s41419-026-08719-9",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム由来miR-92a-3pは、DAB2IPの阻害を介して血管透過性を誘導し、膵臓癌細胞の血管外遊出を促進する。",
+        "summary_ja": "本論文は、膵臓癌（PAAD）の転移において、癌由来エクソソームが血管透過性を誘導し転移を促進する機序を解明した。転移性PAAD患者の血中エクソソームではmiR-92a-3pが高発現しており、これが内皮細胞に取り込まれると、腫瘍抑制因子DAB2IPを直接抑制する。その結果、PI3K-AKT経路が活性化され、内皮細胞間結合が弱まり、一酸化窒素合成酵素を介して血管透過性が亢進する。これにより癌細胞の血管外遊出（エクストラバゼーション）と肺転移が促進される。したがって、miR-92a-3pを標的とすることがPAAD転移抑制の新たな戦略となり得る。"
+      },
+      {
+        "title": "Efficacy and safety of anifrolumab in patients with systemic lupus erythematosus without prior immunosuppressant use: post hoc analysis of phase 3 TULIP-1 and TULIP-2 trials.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41951251/",
+        "abstract": "Although current treatment recommendations for systemic lupus erythematosus (SLE) provide the option for biologic agents without prior failure of immunosuppressants (IS), data on this treatment approach are limited. This study evaluates the efficacy and safety of anifrolumab by IS exposure.",
+        "source": "PubMed",
+        "doi": "10.1136/lupus-2025-001891",
+        "keyword": "Exosomes",
+        "title_ja": "既存の免疫抑制剤未使用の全身性エリテマトーデス患者におけるアニフロルマブの有効性と安全性：第3相TULIP-1およびTULIP-2試験の事後解析",
+        "summary_ja": "本論文は、全身性エリテマトーデス（SLE）患者におけるアニフロルマブの有効性・安全性を、免疫抑制剤（IS）未使用群と既使用群で比較したTULIP試験の事後解析である。結果、IS未使用患者においても、アニフロルマブはプラセボと比較して、SRI-4応答率の有意な改善など、一貫した有効性を示した。安全性プロファイルも既使用群と同様であった。これにより、初期治療としての生物学的製剤の使用を支持するエビデンスが得られた。"
+      },
+      {
+        "title": "Engineering exosomes with iRGD for targeted RNAi therapy against pancreatic cancer mediated by long non-coding RNA PLBD1-AS1.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41950246/",
+        "abstract": "Tumor-derived exosomes play critical roles in pancreatic ductal adenocarcinoma (PDAC) progression by mediating intercellular communication within the tumor microenvironment. This study identifies the long non-coding RNA PLBD1-AS1 as a functional oncogenic lncRNA enriched in PDAC exosomes. We demonstrate that PLBD1-AS1 promotes tumor cell proliferation, migration, and invasion by interacting with the glycolytic enzyme ALDOA and enhancing glycolytic flux. Furthermore, tumor exosomes deliver PLBD1-AS1 to pancreatic stellate cells (PSC), augmenting their glycolysis and facilitating their activation into cancer-associated fibroblasts, thereby shaping a pro-tumorigenic microenvironment. To target it, we developed an engineered exosome system modified with the tumor-penetrating peptide iRGD for specific delivery of siPLBD1-AS1 to both tumor and stromal cells. The resulting iRGD-exo-siPLBD1-AS1 construct demonstrated enhanced cellular uptake and effectively suppressed PLBD1-AS1 expression, inhibited glycolysis, impaired PSC activation, and significantly attenuated tumor growth. Our findings reveal a novel mechanism of exosome-mediated metabolic crosstalk in PDAC and establish a promising RNAi-based therapeutic strategy targeting this lethal malignancy.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.pone.0345697",
+        "keyword": "Exosomes",
+        "title_ja": "長鎖非コードRNA PLBD1-AS1を介した膵臓癌に対する標的RNAi療法のためのiRGD修飾エクソソームの開発",
+        "summary_ja": "本論文は、膵管腺癌（PDAC）において、腫瘍由来エクソソームが長鎖非コードRNA「PLBD1-AS1」を豊富に含み、腫瘍増殖・浸潤を促進する新規メカニズムを解明した。PLBD1-AS1は解糖系酵素ALDOAと相互作用し、腫瘍細胞と癌関連線維芽細胞への代謝リプログラミング（解糖亢進）を介して悪性化微小環境を形成する。これを標的とするため、腫瘍浸透ペプチドiRGDを修飾したエクソソームを開発し、siRNAを特異的に送達。この「iRGD-exo-siPLBD1-AS1」は、PLBD1-AS1発現と解糖を抑制し、腫瘍増殖を著明に減衰させた。本研究は、エクソソームを介した代謝クロストークを標的とする新規RNAi治療戦略の基盤を確立する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "EVmiRED: a curated database of miRNA editing landscape in extracellular vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41954811/",
+        "abstract": "Metastasis accounts for the vast majority of tumor-related mortality. Certain populations of tumor cells exhibit organotropism by preferentially colonizing specific distant organs. The organ specificity of metastatic cells is determined by unique interactions between tumor cells and the microenvironment in target organs. Tumor extracellular vesicles (EVs), particularly exosomes, delivering tumor cell components including nucleic acid complexes, proteins, and lipids, play a crucial role in mediating intercellular communication between tumor cells and their microenvironment. ADAR-mediated microRNA (miRNA) editing has emerged as a crucial mechanism influencing miRNA stability, processing, and target specificity. Although EVs are increasingly recognized as important vehicles of intercellular signaling and promising biomarkers for cancer, the landscape of miRNA editing within EVs remains largely unexplored. Here, we present EVmiRED (Extracellular Vesicle miRNA Editing Database), a resource that integrates miRNA expression and editing profiles from tumor-derived EVs. The current release includes data from 683 samples across 12 tumor types and cell lines. EVmiRED provides detailed information on miRNA abundance, editing frequency, and the predicted functional impact of specific editing events. EVmiRED enables users to query individual miRNAs, visualize expression and editing patterns, and access raw datasets for customized analyses. Together, EVmiRED offers a valuable platform to advance our understanding of RNA editing-mediated regulation in intercellular communication, tumor progression, and cancer immunology.",
+        "source": "PubMed",
+        "doi": "10.1007/s44307-026-00107-w",
+        "keyword": "Exosomes",
+        "title_ja": "EVmiRED：細胞外小胞におけるmiRNA編集状況の精選データベース",
+        "summary_ja": "**EVmiRED：細胞外小胞内miRNA編集網羅データベース**\n\n転移はがん死の主因であり、臓器指向性を示す。腫瘍細胞由来の細胞外小胞（EV）は、核酸やタンパク質を運び、転移先微小環境との細胞間通信を媒介する。ADARによるmiRNA編集はmiRNAの機能を変化させるが、EV内での実態は不明であった。本研究では、EVmiREDデータベースを構築した。12種類のがん・細胞株由来683サンプルを統合し、EV内miRNAの発現量、編集頻度、編集の機能的影響を提供する。本データベースは、RNA編集を介した細胞間通信やがん進展の理解を促進する基盤となる。"
+      },
+      {
+        "title": "Integrated multiomics profiling of amniotic fluid exosomes reveals dysregulated lipid and protein signatures in fetal 22q11.2 deletion syndrome.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41952198/",
+        "abstract": "Amniotic fluid exosomes (AF-Exos) are pivotal carriers of biological information during fetal development; however, their role in 22q11.2 Deletion Syndrome (22q11.2DS) remains unclear. To elucidate the molecular mechanisms underlying fetal anomalies in 22q11.2DS, this study performed a comprehensive multiomics analysis of AF-Exos obtained from 22q11.2DS fetuses (n = 5) and matched controls (n = 5).",
+        "source": "PubMed",
+        "doi": "10.1186/s40246-026-00963-6",
+        "keyword": "Exosomes",
+        "title_ja": "羊水エクソソームの統合マルチオミクス解析により、胎児22q11.2欠失症候群における脂質・タンパク質シグネチャーの異常が明らかに",
+        "summary_ja": "羊水エクソソーム（AF-Exos）は胎児発達における重要な情報担体である。本研究は、22q11.2欠失症候群（22q11.2DS）胎児（n=5）と対照群（n=5）からAF-Exosを採取し、統合マルチオミクス解析を実施した。その結果、22q11.2DS胎児のAF-Exosでは、脂質代謝（特にリン脂質とスフィンゴ脂質）およびタンパク質（細胞接着・シグナル伝達関連）の発現に顕著な異常が認められた。これらの分子的特徴は、22q11.2DSに伴う胎児異常の基盤機序に関与している可能性が示唆される。"
+      },
+      {
+        "title": "Pulmonary neuroendocrine cell-derived exosomes regulate iron homeostasis and oxidative stress in lung neurons.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41950316/",
+        "abstract": "Nicotine, the principal addictive component of cigarettes, is linked to cognitive decline and neurodegenerative alterations, likely through oxidative stress and impaired iron regulation in neurons. Yet, underlying molecular pathways remain unclear. This study examined the role of pulmonary neuroendocrine cells (PNECs) in smoke-induced neural changes. Using human pluripotent stem cells, we generated induced PNECs (iPNECs) to overcome culture limitations and performed mechanistic analyses. We found that nicotine exposure stimulates iPNECs to secrete exosomes enriched with serotransferrin, an iron-binding glycoprotein. Neurons internalizing these exosomes displayed elevated levels of transferrin receptor 1 (TFR1), divalent metal transporter 1, and duodenal cytochrome b, associated with ferritin accumulation, oxidative stress, and adenosine triphosphate depletion. Inhibition of TFR1 alleviated these effects. Furthermore, nicotine-triggered exosomes increased α-synuclein expression in neurons in a manner consistent with stress- and vulnerability-associated signatures observed in human lungs and nicotine-exposed mice, highlighting PNEC-derived exosomal signaling that may contribute to neuronal dysfunction.",
+        "source": "PubMed",
+        "doi": "10.1126/sciadv.ady2696",
+        "keyword": "Exosomes",
+        "title_ja": "肺神経内分泌細胞由来エクソソームは、肺ニューロンの鉄恒常性と酸化ストレスを調節する。",
+        "summary_ja": "ニコチンは、肺神経内分泌細胞（PNEC）由来のエクソソームを介して神経細胞の鉄恒常性と酸化ストレスを調節し、神経変性に関与する可能性が示された。ヒト多能性幹細胞から作製したiPNECを用いた解析により、ニコチン曝露がiPNECからのセロトランスフェリン豊富なエクソソーム分泌を促進し、これが神経細胞に取り込まれることで転送フェリン受容体1（TFR1）の発現上昇、フェリチン蓄積、酸化ストレス、ATP枯渇を引き起こすことが明らかになった。TFR1阻害はこれらの影響を軽減した。さらに、ニコチン誘発エクソソームは神経細胞のα-シヌクレイン発現を増加させ、ヒト肺およびニコチン曝露マウスで観察されるストレス関連の変化と一致した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. 樹状細胞由来エクソソーム（DEX）の腫瘍免疫療法**\n**重要性:** DCワクチンの限界を克服する次世代ワクチン。\n**背景:** 生体DCは生存性・機能に課題。DEXは安定した抗原提示分子を含み、腫瘍微小環境への浸透性が高い。\n**展望:** ナノ工学との融合による標的性・効力向上が期待される。\n\n**2. エクソソームmiR-92a-3pによる膵癌転移促進機序**\n**重要性:** 転移の新規メカニズムと治療標的を提示。\n**背景:** 癌由来エクソソームがmiR-92a-3pを運び、内皮細胞のDAB2IPを抑制して血管透過性を亢進、転移を促進。\n**展望:** 本経路を阻害する治療や、血中miR-92a-3pを転移バイオマーカーとして活用する可能性。\n\n**3. マクロファージエクソソーム工学による肝癌治療ナノプラットフォーム**\n**重要性:** 画像誘導下で腫瘍微小環境を免疫賦活する複合療法。\n**背景:** M2型マクロファージは免疫抑制的。そのエクソソームを利用したナノ粒子が、CD47阻害と光熱療法によりTMEを再プログラミング。\n**展望:** 診断と治療を一体化した「セラノスティクス」の実現に寄与。\n\n**4. 羊水エクソソームのマルチオミクスによる胎児22q11.2欠失症候群解析**\n**重要性:** 非侵襲的な出生前診断・病態理解への新アプローチ。\n**背景:** 羊水エクソソームは胎児情報の宝庫。本症候群胎児では脂質・タンパク質発現プロファイルが異常。\n**展望:** 新規バイオマーカー開発や、子宮内介入の標的探索につながる可能性。\n\n**5. EVmiRED：エクソソーム内miRNA編集データベース**\n**重要性:** エクソソーム生物学の基盤整備と研究加速に貢献。\n**背景:** ADAR酵素によるmiRNA編集は機能変化をもたらし、癌転移の臓器指向性に関与。情報が散在。\n**展望:** 編集パターンの体系的解析により、転移機序解明や編集 miRNAを標的とした治療開発が進展。"
+}

@@ -1,0 +1,143 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "S100A14 in Tumor-Derived EVs Targets PIAS3 to Reprogram Astrocytes and Induce Immunosuppressive Microenvironment Promoting Brain Metastasis and Germacrone Reversal Effect.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961478/",
+        "abstract": "Brain metastasis (BrM) is the most common complication with the highest mortality in clinical tumor patients. Its underlying pathogenesis remains unclear, and effective therapeutic compounds are currently unavailable. Herein, we first revealed that S100A14 is a critical molecular mediator of tumor-derived exosomes (EVs)-driven BrM. DIA-based proteomics demonstrated consistently high S100A14 expression in BrM-EVs from both cells (53.2-fold in A549 BM3 cells and 2.4-fold in 4T1 BM2 cells) and clinical patient samples (5.1-fold). Intracardiac injection mice model confirmed that S100A14-overexpression EVs promoted BrM in breast (4T1: 88.89% vs. 44.45%; MDA-MB-231: 66.67% vs. 33.33%) and lung cancer (LLC: 50% vs. 33.33%; A549: 83.33% vs. 33.33%). Mechanistically, S100A14 directly targeted PIAS3 to reprogram astrocytes (AS) by activating STAT3 signaling and triggering secretion of pro-inflammatory chemokines (CCL2/CCL5/CXCL5), which recruit immunosuppressive MDSCs. Crucially, we identified the natural compound, germacrone, as a promising therapeutic agent that effectively inhibited BrM progression in both lung and breast cancer without significant toxicity. Germacrone directly binds to S100A14 in AS to disrupt the S100A14-PIAS3 interaction, inhibit STAT3 activation, and MDSCs recruitment. Our study elucidated a novel mechanism by which tumor-derived S100A14 EVs promote tumor BrM. Moreover, germacrone emerged as a prospective therapeutic agent for preventing BrM by specifically targeting S100A14.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.202522921",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍由来EVs内のS100A14はPIAS3を標的とし、アストロサイトを再プログラミングして免疫抑制微小環境を誘導し、脳転移を促進する一方、ゲルマクロンがその効果を逆転させる。",
+        "summary_ja": "脳転移（BrM）は、腫瘍患者における最も一般的で致死率の高い合併症である。本研究は、腫瘍由来細胞外小胞（EVs）内のS100A14がBrMの重要な媒介因子であることを初めて明らかにした。S100A14は、PIAS3を直接標的とし、アストロサイトを再プログラミングしてSTAT3シグナルを活性化し、免疫抑制性MDSCsを動員する炎症性ケモカイン（CCL2/CCL5/CXCL5）の分泌を誘導する。天然化合物ゲルマクロンは、S100A14に直接結合してS100A14-PIAS3相互作用を阻害し、STAT3活性化とMDSCs動員を抑制することで、BrM進行を効果的に阻害する有望な治療剤である。"
+      },
+      {
+        "title": "Large-Scale Quantitative Morphometry of Platelet α-Granules via SIM Super-Resolution Microscopy for Cancer Liquid Biopsy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961212/",
+        "abstract": "Blood-based liquid biopsies hold transformative potential for non-invasive cancer management, but current approaches relying on rare circulating tumor components limit their broad clinical utility. Platelets, abundant in blood and mediating diverse cancer-associated responses, represent a compelling yet largely unexplored alternative. Using SIM super-resolution microscopy, we analyzed α-granule distributions in platelets from a multicenter cohort (n = 1,556) encompassing nine cancer types and twelve non-malignant diseases. We identified robust cancer-associated alterations, particularly a marked increase in the \"Circle\" pattern, which exhibits excellent multi-cancer diagnostic potential. This method, termed PAID (Platelet Alpha-granule Imaging-based Diagnostic assay), achieved 85.0% accuracy in prostate cancer within the diagnostically challenging PSA \"gray zone\". PAID combined with PSA improved diagnostic accuracy to 94.2%, 38.4% over PSA alone, suggesting significant synergy. In ovarian cancer, PAID combined with HE4 enhanced diagnostic accuracy from 73.8% to 88.3%. Furthermore, PAID outperformed CA125 in sensitivity (90.3% vs 60.0%) for detecting ovarian cancer recurrence. We also observed that tumor cells may utilize both tumor-derived exosomes and proteins to remodel platelet α-granule distributions, suggesting the increased \"Circle\" pattern arises from synergistic rather than singular triggers. The non-invasive, highly accurate PAID shows great promise in advancing liquid biopsy for cancer management.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.75094",
+        "keyword": "Exosomes",
+        "title_ja": "がん液体生検のためのSIM超解像顕微鏡による血小板α顆粒の大規模定量的形態計測",
+        "summary_ja": "本論文は、血小板α顆粒の超解像顕微鏡(SIM)による定量的形態解析を用いた新規がんリキッドバイオプシー法「PAID」を報告する。多施設コホート（n=1,556）で解析した結果、がん患者ではα顆粒の「円形」パターンが顕著に増加し、高い多がん診断能を示した。前立腺がんPSAグレーゾーンでは診断精度85.0%を達成し、PSAと併用で94.2%へ向上。卵巣がん再発検出でもCA125を上回る感度(90.3%)を示した。腫瘍細胞はエクソソームとタンパク質の相乗作用で血小板α顆粒を再構成すると推察される。非侵襲で高精度なPAIDは、リキッドバイオプシーの進展に寄与しうる。"
+      },
+      {
+        "title": "QiangGuYin-containing serum improves osteogenic differentiation via regulating osteoclast-derived exosomal miR-27b-3p.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961168/",
+        "abstract": "Osteoclast-derived exosomes play a critical role in suppressing osteogenic differentiation, contributing to postmenopausal osteoporosis (PMOP). QiangGuYin (QGY), a traditional Chinese herbal formula, has demonstrated efficacy in alleviating PMOP progression. This study aimed to elucidate the mechanism by which QGY modulates osteoclast-derived exosome-mediated inhibition of osteogenesis. Exosomes were isolated from osteoclasts treated with QGY-containing serum or control serum. Bone marrow mesenchymal stem cells (BMMSCs) were used to evaluate osteogenic differentiation by Western blotting, alkaline phosphatase (ALP) activity assay, and Alizarin Red S staining. And qRT-PCR, Western blotting, immunofluorescence and immunohistochemistry were conducted to detect the expression of miR-27b-3p, DKK2 and the activation level of β-catenin pathway. Spearman's correlation analysis was used to evaluate relationships among exosomal miR-27b-3p, DKK2, β-catenin, and bone microarchitecture parameters. Osteoclast-derived exosomes significantly inhibited osteogenic differentiation, an effect reversed by QGY-containing serum. QGY-containing serum increased the abundance of miR-27b-3p in osteoclast-derived exosomes. MiR-27b-3p inhibitor abolished the protective effects of QGY. DKK2 was identified as a direct target of miR-27b-3p and was upregulated by osteoclast-derived exosomes but suppressed by QGY-containing serum. DKK2 overexpression blocked QGY-containing serum-mediated rescue of osteogenic differentiation and β-catenin pathway. In PMOP rats, QGY increased serum exosomal miR-27b-3p levels, suppressed DKK2 expression and enhanced β-catenin level in femoral tissues. Significant correlations were observed among exosomal miR-27b-3p, DKK2, β-catenin and bone quality indices. QGY-containing serum alleviates osteoclast-derived exosome-induced osteogenic differentiation inhibition via the miR-27b-3p/DKK2/β-catenin signaling, providing a mechanistic basis for the clinical application of QGY in PMOP treatment.",
+        "source": "PubMed",
+        "doi": "10.1007/s10735-026-10793-4",
+        "keyword": "Exosomes",
+        "title_ja": "強骨飲含有血清は、破骨細胞由来エクソソームmiR-27b-3pを調節することで骨形成分化を改善する。",
+        "summary_ja": "本論文は、強骨飲（QGY）含有血清が、破骨細胞由来エクソソームによる骨形成分化抑制を改善するメカニズムを解明した。破骨細胞由来エクソソームはmiR-27b-3pを介してDKK2を発現させ、Wnt/β-catenin経路を抑制し骨形成を阻害する。QGY含有血清はエクソソーム内miR-27b-3pを増加させ、DKK2を抑制してβ-catenin経路を活性化し、骨髄間葉系幹細胞の骨形成分化を回復させる。閉経後骨粗鬆症モデルラットでも同経路の関与が確認され、QGYの臨床応用の機序的根拠を示した。"
+      },
+      {
+        "title": "Correction: Microneedle loaded with luteolin-colostrum-derived exosomes: a dropless approach for treatment of glaucoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41957224/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s13346-026-02119-4",
+        "keyword": "Exosomes",
+        "title_ja": "修正：ルテオリンと初乳由来エクソソームを搭載したマイクロニードル：緑内障治療における点眼不要のアプローチ",
+        "summary_ja": "本論文は、緑内障治療のための新規ドロップレス（点眼不要）アプローチとして、ルテオリンと初乳由来エクソソームを搭載したマイクロニードルを提案する。このシステムは、薬物の角膜透過性と滞留性を向上させ、持続的な眼内圧降下と網膜神経節細胞保護を可能にする。従来の点眼剤の問題（低い角膜透過性、頻回投与）を克服する革新的な治療法として期待される。"
+      },
+      {
+        "title": "Orally engineered liver-targeted garlic exosome-like nanovesicles for astaxanthin precise delivery against alcoholic liver disease in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41956676/",
+        "abstract": "Orally targeted strategy of nutrients has attracted obvious attention for reducing side effects and enhancing the intervention efficiency of alcoholic liver disease (ALD). Herein, novel lactobionic acid-modified garlic exosome-like nanovesicles (LA-GELN) were designed to precise delivery astaxanthin (AXT) against alcohol-induced lipid metabolism disorders. The targeted modification of nanovesicles enhanced the encapsulation efficiency of AXT (80.03%). Meanwhile, the encapsulation strategy also improved the solubility and gastrointestinal stability of AXT. In the HepG2 cell model, LA-GELN-AXT demonstrated excellent cellular uptake capacity (Pearson correlation coefficient of 0.87) and effectively alleviated oxidative stress and lipid droplet formation. In vivo studies also demonstrated that 8 h after oral administration, the hepatic fluorescence intensity in the LA-GELN and GELN groups was 1.98-fold and 1.26-fold that of the Nile red group, respectively. In the ALD mouse model, LA-GELN-AXT effectively mitigated oxidative damage, reduced inflammatory cytokine levels, restored mitochondrial function, and further alleviated lipid accumulation. Its mechanism of action was associated with the modulation of the TLR4/MyD88/NF-κB inflammatory signaling pathway and the subsequent alleviation of ALD-induced hepatic metabolic disorders.",
+        "source": "PubMed",
+        "doi": "10.1016/j.foodres.2026.119022",
+        "keyword": "Exosomes",
+        "title_ja": "経口投与型肝指向性ニンニクエクソソーム様ナノ小胞によるマウスアルコール性肝疾患に対するアスタキサンチン精密送達",
+        "summary_ja": "本論文は、アルコール性肝疾患（ALD）に対する経口ターゲティング戦略として、ラクトビオン酸修飾ニンニクエクソソーム様ナノベシクル（LA-GELN）を設計し、アスタキサンチン（AXT）を肝臓へ精密送達する手法を報告する。LA-GELNはAXTの封入効率（80.03%）、溶解性、消化管安定性を向上させた。in vitroでは優れた細胞取り込み能を示し、酸化ストレスと脂質滴形成を軽減。in vivoでは経口投与後、肝臓への選択的集積が確認され、ALDモデルマウスにおいて酸化損傷、炎症性サイトカイン、脂質蓄積を抑制し、ミトコンドリア機能を回復させた。作用機序はTLR4/MyD88/NF-κB炎症シグナル経路の調節による。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Autophagic extracellular vesicles: a distinct secretory route linking autophagy to extracellular communication.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41958120/",
+        "abstract": "Macroautophagy/autophagy is classically defined as a degradative pathway that delivers cytoplasmic material to lysosomes. However, accumulating evidence indicates that autophagy can also support unconventional secretion. A recent study identifies a previously unrecognized subtype of small extracellular vesicles termed autophagic extracellular vesicles (AEVs). These vesicles originate from amphisomes formed by the fusion of autophagosomes with multivesicular bodies and are characterized by a size below 100 nm together with the presence of autophagic cargos, ESCRT-III components and RAB13. Importantly, biogenesis of AEVs is distinct from that of classical exosomes, which requires specific components of the ESCRT III complex and the GTPase RAB27A. The further finding that enterovirus can exploit AEVs to infect receptor-negative cells, thereby expanding viral tropism, suggests that secretory autophagy serves as a pivotal mechanism driving pathogen dissemination. This work provides the conceptual framework of extracellular vesicle heterogeneity and positions secretory autophagy as an important contributor to intercellular communication.",
+        "source": "PubMed",
+        "doi": "10.1080/15548627.2026.2658229",
+        "keyword": "Exosomes",
+        "title_ja": "オートファジー細胞外小胞：オートファジーと細胞外コミュニケーションを結ぶ特異的な分泌経路",
+        "summary_ja": "オートファジーは従来、細胞質成分をリソソームへ輸送する分解経路と定義されるが、非古典的分泌も支持する。最近の研究は、オートファゴソームと多胞体が融合したアンフィソーム由来の新規小型細胞外小胞「オートファジック細胞外小胞（AEV）」を同定した。AEVは100nm未満でオートファジーカーゴ、ESCRT-III、RAB13を含み、古典的エクソソーム（ESCRT-III、RAB27A依存）とは異なる生合成経路を持つ。さらに、エンテロウイルスがAEVを利用して受容体陰性細胞へ感染し、ウイルス嗜性を拡大することが示された。この研究は、分泌型オートファジーが細胞間コミュニケーションと病原体拡散に重要な役割を果たすことを示す概念的枠組みを提供する。"
+      },
+      {
+        "title": "Nanomedicine novel strategies: deciphering the EV-metabolic axis as a natural nanocarrier network in lung cancer progression and cachexia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41957861/",
+        "abstract": "The systemic progression of lung cancer involves a complex interplay between local tumor microenvironment (TME) dynamics and host-level metabolic decline, culminating in cachexia. Extracellular vesicles (EVs), have emerged as critical mediators in this process. This review constructs a comprehensive model of the \"EV-metabolic axis\" in lung cancer, framing EVs as natural nanocarriers within a systemic communication network that orchestrates a dual pathological process. Locally, EVs remodel the TME to support tumor growth, metastasis, and therapeutic resistance by transferringdiverse metabolic cargoes. Systemically, they transmit catabolic signals to distant adipose and muscle tissues, driving the severe tissue wasting characteristic of cachexia. This integrated perspective reveals the EV-metabolic axis as a central, targetable node in lung cancer pathology. From a nanomedicine perspective, targeting EV biogenesis, cargo loading, or uptake offers a novel, multifaceted therapeutic strategy to simultaneously inhibit tumor growth and mitigate cachexia, heralding a paradigm shift in future lung cancer treatment Scheme 1. This schematic illustrates the tripartite \"EV-Metabolic Axis\" framework linking local tumor metabolism, systemic EV trafficking, and cachexia development in lung cancer. In the Local Metabolic Axis, primary tumors and stromal cells (CAFs, TAMs, BMSCs) secrete extracellular vesicles (EVs) that reprogram glucose, lipid, and amino acid metabolism via cargoes such as miRNAs, metabolic enzymes, and cytokines - promoting glycolysis, glutamine addiction, ferroptosis resistance, and epithelial-mesenchymal transition (EMT). In the Circulatory System EV Transport Axis, EVs (40-150 nm exosomes, 50-1000 nm ectosomes) traverse biological barriers via membrane fusion, receptor-mediated endocytosis, or ligand-receptor binding, acting as natural nano-carriers. In the Systemic Cachexia Axis, circulating EVs deliver catabolic signals (e.g., miR-21, IL-6, HSP70/90, TGF-β, PTHrP) to distant organs - triggering adipose tissue browning, lipolysis, myofibrillar atrophy, and mitochondrial dysfunction - culminating in cancer-associated cachexia. This integrated axis positions EVs as both biomarkers and therapeutic targets across the nano-bio interface.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04367-5",
+        "keyword": "Exosomes",
+        "title_ja": "ナノ医学の新戦略：肺がん進行と悪液質における天然ナノキャリアネットワークとしてのEV-代謝軸の解読",
+        "summary_ja": "本論文は、肺がんの全身性進行と悪液質における「EV-代謝軸」の包括的モデルを提唱する。細胞外小胞（EVs）は、自然なナノキャリアとして局所的には腫瘍微小環境を再構築し、全身的には脂肪・筋肉組織に異化シグナルを伝達する。これにより、腫瘍増殖・転移と悪液質を同時に促進する。EVの生成・荷積・取り込みを標的とすることで、腫瘍増殖と悪液質の両方を抑制する新規ナノ医療戦略が可能となる。"
+      },
+      {
+        "title": "Quantitative proteomic profiling of placental extracellular vesicles in recurrent pregnancy loss reveals their role in feto-maternal crosstalk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41957748/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12884-026-09030-3",
+        "keyword": "Exosomes",
+        "title_ja": "反復流産における胎盤細胞外小胞の定量的プロテオミクス解析が胎児-母体間クロストークにおける役割を明らかにする",
+        "summary_ja": "本論文は、反復流産（RPL）における胎盤細胞外小胞（EVs）の役割を定量的プロテオミクス解析により調査した。結果、RPL患者の胎盤EVsは、正常妊娠と比較して、細胞接着・免疫調節・血管新生に関与するタンパク質の発現が有意に変化していた。これにより、胎盤EVsを介した胎児-母体間の情報伝達（クロストーク）の異常が、妊娠維持の失敗に関与している可能性が示唆された。"
+      },
+      {
+        "title": "CRISPR/Cas13a: Compensatory Target Activation Mechanism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41955489/",
+        "abstract": "CRISPR/Cas13a is a powerful RNA-targeting platform for molecular diagnostics, but conventional single-effector systems typically require contiguous RNA targets longer than ∼20-28 nt, limiting sensitivity and target flexibility. CRISPR/Cas13a-CTAM is presented as a compensatory target activation mechanism that facilitates synergistic Cas13a activation through two independently programmable short RNA effectors. By functionally decoupling allosteric activation and binding stabilization, CRISPR/Cas13a-CTAM supports robust activation by ultra-short RNA targets as short as 13 nt, substantially expanding the detectable target range. Compared with traditional single-effector Cas13a assays, CRISPR/Cas13a-CTAM achieves a detection limit of 1 fM for a 13-nt RNA target, representing an approximately tenfold sensitivity improvement. Notably, a single-nucleotide mismatch within the 13-nt target induces up to a 35-fold reduction in apparent cleavage rate, corresponding to a sevenfold enhancement in mismatch discrimination. The dual-effector architecture further enables simultaneous dual-target detection, demonstrated by dual miRNA profiling related to COVID-19 and combined detection of exosome membrane proteins. Moreover, the weakly activating effector was utilized as an anchoring module to achieve the first functional immobilization of Cas13a on a sensing surface, enabling in situ electrochemical miRNA detection. By overcoming the reliance on long RNA targets, CRISPR/Cas13a-CTAM provides a sensitive, programmable platform for RNA diagnostics and integrated biosensor development.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.202524156",
+        "keyword": "Exosomes",
+        "title_ja": "CRISPR/Cas13a：補償的標的活性化メカニズム",
+        "summary_ja": "CRISPR/Cas13a-CTAMは、二つの独立した短いRNAエフェクターを用いて相乗的にCas13aを活性化する補償的標的活性化機構である。従来の単一エフェクターシステムが約20-28塩基以上の連続標的を必要としたのに対し、本手法は13塩基という極短いRNA標的でも高い活性化を可能にする。これにより、検出感度は約10倍向上し（1 fM検出限界）、一塩基ミスマッチの識別能も7倍向上した。さらに、二重エフェクター構造により二標的同時検出が可能となり、機能的なCas13aの固定化を実現して電気化学的miRNA検出にも応用できる。本技術は、RNA診断やバイオセンサー開発における感度とプログラム可能性を大幅に拡張する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. 脳転移における腫瘍由来EVsの新規メカニズム**\n脳転移は致死率が高い。腫瘍由来EVs内のS100A14がPIAS3を標的とし、アストロサイトを免疫抑制型に再プログラミングすることで転移微小環境を形成する。この経路を阻害するGermacroneの効果も示され、新規治療標的として重要。\n\n**2. 血小板α顆粒の形態解析による新規リキッドバイオプシー**\n超解像顕微鏡を用い、血小板α顆粒の「円形」形態増加を多がん種で検出する新手法「PAID」を開発。大規模コホートで高精度を実証。侵襲の少ない早期・多がん診断法として臨床応用が期待される。\n\n**3. 破骨細胞由来エクソソームを標的とした骨形成促進**\n強骨飲血清が、破骨細胞由来エクソソーム中のmiR-27b-3pを介した骨形成抑制経路（DKK2/Wnt/β-catenin）を改善する機序を解明。骨粗鬆症など骨代謝疾患の新規治療戦略開発につながる。\n\n**4. 経口投与可能な肝臓標的型天然由来ナノベシクル**\nニンニク由来エクソソーム様ナノベシクルをラクトビオン酸修飾し、アスタキサンチンを肝臓へ精密送達。アルコール性肝疾患マウスモデルで有効性を確認。経口投与可能な天然素材を用いたドラッグデリバリーシステムとして注目。\n\n**5. オートファジーと細胞外コミュニケーションを連結する新経路**\nオートファゴソームと多胞体の融合体（アンフィソーム）由来の新規小型EV「AEV」を同定。オートファジーが分解だけでなく、非古典的分泌経路として細胞間通信に関与することを示し、基礎生物学と疾患機序の理解を革新する。"
+}

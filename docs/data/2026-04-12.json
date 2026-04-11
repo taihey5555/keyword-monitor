@@ -1,0 +1,278 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Integrated molecular and histological profiling of preeclampsia suggests angiogenic dysregulation associated with maternal and fetal outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41963408/",
+        "abstract": "Preeclampsia (PE) is a potentially life-threatening multisystem disorder affecting maternal and fetal health and is associated with impaired angiogenesis, endothelial dysfunction, inflammation, and apoptosis. In this study, we characterized molecular, histopathological, and clinical alterations in placentas from 30 women with PE compared with 30 normotensive controls. Placental tissues underwent macroscopic evaluation, histopathology, immunohistochemistry for α-Klotho, endothelial nitric oxide synthase (eNOS), vascular endothelial growth factor (VEGF), placental growth factor (PlGF), and tumor necrosis factor-α (TNF-α), alongside TUNEL assay for apoptosis. PE pregnancies were associated with earlier delivery, lower neonatal birth weight, reduced placental weight and volume, and decreased maternal total protein and albumin levels. Histologically, PE placentas exhibited increased syncytial knots, intervillous fibrin deposition, distal villous hypoplasia, chorangiosis, avascular villi, and calcifications. Immunohistochemical analyses indicated reduced expression of α-Klotho, eNOS, VEGF, and PlGF, with increased TNF-α expression and higher apoptotic index. α-Klotho expression correlated positively with angiogenic markers, placental weight, and birth weight, and negatively with TNF-α and apoptosis. Multivariate regression analyses suggested that PE is associated with increased placental apoptosis and TNF-α expression, as well as reduced α-Klotho, eNOS, VEGF, and PlGF expression, and with lower birth weight, primarily mediated by prematurity. Early-onset PE exhibited more pronounced α-Klotho reduction with relatively preserved eNOS expression, suggesting potential compensatory endothelial responses, while magnesium sulfate or antihypertensive therapy did not significantly influence molecular profiles. These findings suggest that PE is linked to coordinated alterations in angiogenic, endothelial, and inflammatory pathways associated with placental structural changes and adverse perinatal outcomes. Observed alterations in α-Klotho and angiogenic markers highlight potential pathways for further investigation into targeted molecular interventions. This study is limited by its single-center, and relatively small sample size, which may limit generalizability, and causal relationships cannot be established; further multi-center prospective studies are warranted.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-45626-7",
+        "keyword": "Klotho",
+        "title_ja": "妊娠高血圧症の統合的分子・組織解析は、母体および胎児の転帰に関連する血管新生調節異常を示唆する。",
+        "summary_ja": "本研究は、妊娠高血圧腎症（PE）の胎盤における分子・組織学的変化を検討した。PE群では、胎盤重量・体積の減少、絨毛結合核増加、線維素沈着などの組織変化が認められた。免疫組織化学的解析では、血管新生関連因子（VEGF、PlGF、eNOS）および抗老化因子α-Klothoの発現低下、炎症性サイトカインTNF-αの上昇、アポトーシス増加が示された。α-Klothoは血管新生マーカーや出生体重と正相関し、TNF-αやアポトーシスと負相関した。これらの変化は、早産を介して低出生体重に関与し、特に早発型PEで顕著であった。PEは血管新生調節障害、内皮機能不全、炎症の協調的異常を伴い、胎盤構造変化と不良周産期転帰に関連することが示唆された。"
+      },
+      {
+        "title": "Association between serum Klotho and thrombocytopenia in middle-aged and older adults: A cross-sectional study based on NHANES.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961708/",
+        "abstract": "Evidence regarding the association between serum Klotho levels and thrombocytopenia remains limited. This study aimed to evaluate the relationship between serum Klotho and thrombocytopenia. This study used data from the National Health and Nutrition Examination Survey conducted between 2007 and 2016 to investigate the association between serum Klotho levels and thrombocytopenia in middle-aged and older individuals. Weighted multivariable logistic regression, interaction subgroup analysis, restricted cubic splines and threshold effect analysis were used to examine the correlation between serum Klotho levels and thrombocytopenia. The study included 13,716 individuals, among whom thrombocytopenia was present in 4.5% of the participants. The multivariate adjusted odds ratio (OR) (95% CI) for T2 to T3 was 1.19 (0.86-1.63) and 1.50 (1.12-2.01), respectively. The risk of developing thrombocytopenia was significantly higher in the T3 group compared to T1 (P = .007). Smooth curve fitting revealed a nonlinear association between serum Klotho and thrombocytopenia (P < .001), with an inflection point at 900 pg/mL. Individuals with higher serum Klotho levels were significantly associated with increased odds of thrombocytopenia, particularly among those with serum Klotho concentrations ≥ 900 pg/mL (per SD increment: OR, 1.24; 95% CI: 1.08-1.43). We observed that higher serum Klotho levels (≥900 pg/mL) were significantly associated with the presence of thrombocytopenia in the general population. Given the cross-sectional design of the study, causality cannot be inferred. The elevated Klotho levels may reflect a compensatory response, and further longitudinal and mechanistic studies are needed to clarify the underlying biological mechanisms.",
+        "source": "PubMed",
+        "doi": "10.1097/MD.0000000000048281",
+        "keyword": "Klotho",
+        "title_ja": "中高齢者における血清Klothoと血小板減少症の関連：NHANESに基づく横断研究",
+        "summary_ja": "本研究は、中高年者における血清Klothoレベルと血小板減少症の関連を、NHANESデータ（2007-2016年）を用いて横断的に検討した。13,716名の解析では、血小板減少症は4.5%に認められた。血清Klothoレベルが高い群（特に900 pg/mL以上）では、血小板減少症のオッズ比が有意に高かった（OR 1.50, 95% CI 1.12-2.01）。平滑化曲線では非線形関係が確認され、900 pg/mLを変曲点として、それ以上のレベルではKlotho上昇が血小板減少症リスクと正の関連を示した。Klotho上昇は代償的反応の可能性があり、因果関係の解明には縦断的・機序的研究が必要である。"
+      },
+      {
+        "title": "Alpha-Klotho-deficient female mice exhibit estrogen metabolic dysregulation and a premature ovarian insufficiency-like phenotype.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41833629/",
+        "abstract": "Premature ovarian insufficiency (POI) is characterized by early loss of ovarian function, hypoestrogenism, and infertility. α-Klotho, an aging-suppressor protein, has been implicated in reproductive aging, but its role in POI and ovarian steroidogenesis remains unclear.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mce.2026.112787",
+        "keyword": "Klotho",
+        "title_ja": "α-クロト欠損雌マウスはエストロゲン代謝異常と早期卵巣不全様表現型を示す",
+        "summary_ja": "α-Klotho欠損メスマウスは、卵巣機能早期喪失（POI）様表現型を示す。研究では、α-Klotho欠損により、卵巣におけるエストロゲン代謝調節異常が生じ、CYP1B1発現上昇と有効エストロゲン減少を招くことが明らかとなった。これが卵胞予備能の低下と早期卵巣機能不全を促進し、生殖老化におけるα-Klothoの重要な役割を示唆している。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Immune cells in keloids: mechanisms and potential treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41964275/",
+        "abstract": "Keloids are a prevalent pathological fibrotic and proliferative disorder characterized by persistent inflammation and immune dysregulation. In recent years, the critical role of immune cells in keloid development and progression has attracted increasing attention.",
+        "source": "PubMed",
+        "doi": "10.1080/07853890.2026.2655499",
+        "keyword": "NK cell therapy",
+        "title_ja": "ケロイドにおける免疫細胞：メカニズムと潜在的な治療法",
+        "summary_ja": "ケロイドは、持続性炎症と免疫調節異常を特徴とする線維性・増殖性病変である。近年、その発症・進行における免疫細胞の役割が注目されている。本論文は、マクロファージ、肥満細胞、T細胞などの免疫細胞が、炎症性サイトカインや増殖因子を介して線維芽細胞の活性化と過剰な細胞外マトリックス産生を促進する機序を解説する。さらに、免疫細胞を標的とした新規治療法（例：免疫調節剤、細胞療法）の可能性についても言及している。"
+      },
+      {
+        "title": "Rapid CAR screening and circRNA-driven CAR-NK cells for persistent shed-resistant immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41963304/",
+        "abstract": "Chimeric antigen receptor (CAR)-based immunotherapies against solid tumors face two major hurdles, the \"decoy effect\" of shedding antigens that sequester CARs, and the limited persistence of immune effectors within the immunosuppressive tumor microenvironment. Here, we present a mechanistic approach to overcome these barriers by integrating a physiologically relevant screening platform with circular RNA (circRNA) engineering. Unlike conventional screens using immortalized cell lines, we performed rapid functional screening directly in human primary natural killer (NK) cells to identify a novel scFv, CLMS10. Structural modeling revealed that CLMS10 targets a membrane-proximal epitope that overlaps the proteolytic cleavage site, thereby evading inhibition by soluble mesothelin (solMSLN). Furthermore, we demonstrated that circRNA-mediated CAR expression, when codelivered with interleukin-21 (IL-21), confers sufficient stability to withstand the continuous antigen shedding induced by cancer-associated fibroblasts (CAFs), resulting in reduced CAR downregulation. In an in vivo metastatic pancreatic cancer model, IL-21-augmented circCAR-MS10-NK cells exhibited potency comparable to that of lentivirally engineered CAR-NK cells while offering superior manufacturability. Overall, this study establishes a paradigm for generating shed-resistant CAR therapeutics through the strategic integration of epitope-specific functional selection and enhanced RNA stability.",
+        "source": "PubMed",
+        "doi": "10.1038/s41392-026-02623-6",
+        "keyword": "NK cell therapy",
+        "title_ja": "迅速CARスクリーニングと持続的放出耐性免疫療法のためのcircRNA駆動CAR-NK細胞",
+        "summary_ja": "本論文は、固形腫瘍に対するCAR免疫療法の課題である、抗原の脱落による「デコイ効果」と、免疫抑制性腫瘍微小環境内でのエフェクター細胞の持続性不足を克服する方法を報告する。ヒト初代NK細胞を用いた迅速スクリーニングにより、可溶性メソテリン（solMSLN）による阻害を受けない新規scFv（CLMS10）を同定した。これは膜近接エピトープを標的とし、プロテアーゼ切断部位と重複することで脱落抗原への抵抗性を付与する。さらに、環状RNA（circRNA）によるCAR発現とIL-21の共投与は、がん関連線維芽細胞（CAF）誘導性の持続的抗原脱落に耐える安定性を付与し、CARダウンレギュレーションを低減した。膵臓癌転移モデルでは、IL-21増強circCAR-MS10-NK細胞は、レンチウイルスCAR-NK細胞と同等の抗腫瘍効果を示し、製造面でも優れていた。本研究は、エピトープ特異的機能選択とRNA安"
+      },
+      {
+        "title": "Enzyme-Triggered Self-Immobilization of an NIR Prodrug for Tumor-Selective Cancer Vaccination.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41962030/",
+        "abstract": null,
+        "source": "PubMed",
+        "doi": "10.1021/jacs.5c20321",
+        "keyword": "NK cell therapy",
+        "title_ja": "酵素誘導性自己固定化による腫瘍選択的近赤外線プロドラッグを用いたがんワクチン療法",
+        "summary_ja": "本論文は、腫瘍選択的ながんワクチン戦略として、近赤外線（NIR）プロドラッグの酵素触発自己固定化を報告する。腫瘍部位に特異的に存在する酵素によって活性化されたプロドラッグは、細胞毒性薬物を放出するとともに、その場で高分子化し腫瘍組織内に固定化される。これにより、薬物の全身暴露を低減しつつ、免疫原性細胞死（ICD）を誘導して腫瘍特異的抗原の放出を促進する。結果として、抗腫瘍免疫応答が増強され、遠隔転移抑制効果も示された。このアプローチは、副作用を軽減した局所的な免疫療法を可能にする新規プラットフォームとなる。"
+      },
+      {
+        "title": "Targeting the COX-2/PGE",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961113/",
+        "abstract": "Aggressive brain tumors such as glioblastoma (GBM) remain among the most lethal human cancers, with a median survival of only 15 months despite multimodal treatment. Their resistance arises from a triad of barriers-the blood-brain barrier (BBB), marked intratumoral heterogeneity, and a profoundly immunosuppressive tumor microenvironment (TME). Immunotherapeutic strategies based on natural killer (NK) and T cells, leveraging antigen-independent cytotoxicity and antigen-specific precision, respectively, offer potential breakthroughs but are often limited by chronic neuroinflammation. A key driver of TME suppression is prostaglandin E2 (PGE2), produced via the cyclooxygenase-2 (COX-2) pathway. PGE2 exerts a dual role: Intracellularly, it can promote apoptosis, whereas extracellularly, it fosters tumor progression, immune evasion, and therapeutic resistance. Through activation of EP2 and EP4 receptors, PGE2 signals via Gαs proteins to elevate cyclic adenosine monophosphate (cAMP), leading to impaired cytotoxic immunity. This signaling downregulates NK cell activating receptors (e.g., NKG2D, NKp30), induces CD8⁺ T cell exhaustion, and promotes regulatory T cell expansion. The COX-2/PGE₂ axis further mediates resistance to checkpoint inhibitors, CAR-T therapy, and chemotherapy by enhancing neuronal excitation through EP1 receptor activation in GBM. Targeting this pathway has therefore emerged as a compelling therapeutic strategy, which can restore NK and T cell function and sensitize tumors to immunotherapy. Combining PGE₂ modulation with next-generation NK/T cell approaches-including CAR-NK and CAR-T platforms-holds promise to overcome immune resistance and redefine therapeutic paradigms for GBM and other central nervous system malignancies.",
+        "source": "PubMed",
+        "doi": "10.1007/s00262-026-04372-5",
+        "keyword": "NK cell therapy",
+        "title_ja": "COX-2/PGE2経路の標的化",
+        "summary_ja": "**要約**\n膠芽腫（GBM）などの悪性脳腫瘍は、治療抵抗性が高く予後不良である。その要因は、血液脳関門（BBB）、腫瘍内異質性、免疫抑制的な腫瘍微小環境（TME）にある。TME抑制の主要ドライバーは、COX-2経路で産生されるプロスタグランジンE2（PGE2）である。PGE2はEP2/EP4受容体を介してcAMPを上昇させ、NK細胞やCD8⁺T細胞の機能を抑制し、制御性T細胞を増加させる。これにより、免疫チェックポイント阻害剤やCAR-T療法への抵抗性が生じる。したがって、COX-2/PGE2軸を標的とし、次世代NK/T細胞療法と組み合わせることで、免疫抵抗性を克服する新たな治療戦略が期待される。"
+      },
+      {
+        "title": "Targeting ST3GAL1 to downregulate ligands for the glycoimmune checkpoint Siglec-7 and reverse immune escape in hepatocellular carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961075/",
+        "abstract": "Sorafenib is the first-line therapy for advanced hepatocellular carcinoma (HCC). However, acquired resistance to sorafenib remains a significant challenge. Previous studies have shown that sorafenib treatment induces the formation of truncated O-glycans in HCC cells, but the relationship between sorafenib-induced glycosylation changes and acquired therapy resistance remains unclear. Primary natural killer (NK) cells, freshly isolated from peripheral blood or following culture and expansion, expressed the glycoimmune checkpoints Siglec-7 and Siglec-9. HCC cells exhibited varying levels of Siglec-7/9 ligands on their surface. Sorafenib-resistant liver cancer cells displayed hypersialylation, leading to increased expression of surface Siglec-7/9 ligands, which conferred protection against NK cell-mediated cytotoxicity. Silencing ST3GAL1 significantly reduced Siglec-7 ligand expression on liver cancer cells, enhancing their susceptibility to NK-mediated cytotoxicity and cetuximab-induced antibody-dependent cellular cytotoxicity (ADCC) in epidermal growth factor receptor (EGFR)-expressing tumor cells. Furthermore, high ST3GAL1 expression correlated with poor clinical outcomes in patients with stage 1-2 HCC. This study highlights the critical role of ST3GAL1 in regulating Siglec-7 ligands to facilitate immune escape from NK cell cytotoxicity. Moreover, its elevated expression is associated with adverse clinical outcomes in HCC. Targeting ST3GAL1 may represent a promising strategy to enhance NK cell-mediated anti-tumor immunity in HCC.",
+        "source": "PubMed",
+        "doi": "10.1007/s00262-026-04388-x",
+        "keyword": "NK cell therapy",
+        "title_ja": "肝細胞癌における免疫逃避を逆転させるため、グリコ免疫チェックポイントSiglec-7のリガンドをダウンレギュレーションするST3GAL1の標的化",
+        "summary_ja": "ソラフェニブ治療により肝細胞癌（HCC）細胞はO-グリカン短縮を生じるが、耐性獲得時には逆にシアル化亢進（ハイパーシアリル化）が生じ、免疫チェックポイント分子Siglec-7/9のリガンド発現が増加する。これがNK細胞による細胞障害を抑制し、免疫逃避を促進する。ST3GAL1を抑制するとSiglec-7リガンド発現が低下し、NK細胞介在性細胞障害とEGFR発現腫瘍におけるセツキシマブ誘導ADCCが増強される。臨床的にもST3GAL1高発現は予後不良と相関する。以上より、ST3GAL1を標的とすることでNK細胞抗腫瘍免疫を増強する新規治療戦略が示唆された。"
+      },
+      {
+        "title": "Elimination of senescent cells fails to attenuate disease progression in an ALS mouse model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41957276/",
+        "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder involving progressive motor neuron degeneration, resulting in muscle weakness and paralysis. Current therapeutic options provide only modest benefit, and the etiology of ALS remains incompletely understood. Emerging evidence implicates cellular senescence in the central nervous system (CNS) of ALS pathogenesis, with senescent astrocytes identified in both animal models and patients.",
+        "source": "PubMed",
+        "doi": "10.1007/s10072-026-09023-2",
+        "keyword": "NK cell therapy",
+        "title_ja": "加齢細胞の除去はALSマウスモデルにおける疾患進行の軽減に至らず",
+        "summary_ja": "本論文は、筋萎縮性側索硬化症（ALS）のマウスモデルにおいて、細胞老化の関与に着目した研究である。ALSでは、動物モデルや患者の中枢神経系（CNS）に老化アストロサイトの存在が確認されている。しかし、老化細胞を選択的に除去する介入を行っても、疾患の進行を減衰させることができなかった。この結果は、少なくともこのモデルにおいて、老化細胞の蓄積が疾患進行の主要な駆動力ではない可能性を示唆している。"
+      },
+      {
+        "title": "Selective depletion of virus-specific CD8 T cells from the liver after PD-1 therapy with Fc-intact antibody during chronic infection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41950082/",
+        "abstract": "Anti-programmed cell death 1 (PD-1) antibody therapy is now widely used in various cancers. However, the role of the antibody Fc region in PD-1 directed immunotherapy is not well understood. Preclinical studies commonly use species-mismatched rat anti-mouse antibodies, which may not accurately reflect antibody-Fc gamma receptor (FcγR) interactions. Here, we used mouse anti-mouse PD-1 antibodies to investigate how the Fc region influences therapeutic efficacy for enhancing CD8 T cell responses using mouse models of chronic lymphocytic choriomeningitis virus infection and CT26 tumors. Treatment with these mouse anti-mouse PD-1 antibodies caused preferential depletion of PD-1+ virus-specific CD8 T cells in the liver, resulting in increased viral titers. These effects of mouse anti-PD-1 antibodies were Fc dependent since mutating the Fc region to block FcγR interaction prevented PD-1+ CD8 T cell depletion and resulted in effective immunotherapy. Using mice lacking activating FcγR III or inhibitory FcγR IIb, we found that depletion of PD-1+ CD8 T cells was mediated via activating FcγR III. Furthermore, we determined that phagocytic cells, not natural killer cells, were the in vivo effectors that mediated depletion of PD-1+ CD8 T cells. Similar depletion of tumor-specific CD8 T cells and reduced tumor control were observed in the CT26 model with Fc-intact mouse anti-mouse PD-1 treatment. These findings highlight potential negative effects of Fc-functional anti-PD-1 antibodies in therapies for liver cancer, liver metastases, and chronic hepatotropic viral infections. Conversely, FcγR-mediated depletion could benefit \"agonistic\" anti-PD-1 antibodies for treatment of autoimmunity. Our research emphasizes the importance of Fc region in tailoring PD-1 therapies for diverse clinical applications.",
+        "source": "PubMed",
+        "doi": "10.1073/pnas.2427192123",
+        "keyword": "NK cell therapy",
+        "title_ja": "慢性感染時のFc完全抗体を用いたPD-1療法後における肝臓からのウイルス特異的CD8 T細胞の選択的枯渇",
+        "summary_ja": "本論文は、PD-1抗体療法における抗体のFc領域の役割を検証した。マウス抗マウスPD-1抗体（Fc機能保持型）を用いた実験では、慢性感染マウスモデルにおいて、FcγR IIIを介した食細胞によるPD-1+ウイルス特異的CD8 T細胞の肝臓での選択的除去が起こり、ウイルス力価が上昇した。Fc変異体ではこの除去は起こらず、治療効果が確認された。同様のT細胞除去は腫瘍モデルでも観察された。これらの知見は、肝癌や慢性肝炎治療におけるFc機能保持型抗PD-1抗体の潜在的有害性、および自己免疫治療への応用可能性を示し、Fc領域の設計が臨床応用を左右することを強調する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Correction: NK-92 cells labeled with Fe",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41963970/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04332-2",
+        "keyword": "NK cell therapy",
+        "title_ja": "修正：Feで標識したNK-92細胞",
+        "summary_ja": "【要約】\n本論文は、NK-92細胞を超常磁性酸化鉄ナノ粒子（Fe）で標識し、MRIによる細胞追跡を可能にする手法に関する修正記事である。主な修正点は、細胞生存率と細胞傷害活性（細胞障害性）に関するデータの誤記を訂正することにある。修正後も、Fe標識がNK-92細胞の機能（増殖能、サイトカイン産生、腫瘍細胞殺傷能）を有意に損なわないことが確認されており、この細胞追跡法の有効性と安全性が支持されている。"
+      },
+      {
+        "title": "A phase I, single-arm, open-label, dose-escalation, multicenter study of SAR445419, an off-the-shelf, ex vivo expanded allogeneic natural killer cell product, in participants with relapsed or refractory acute myeloid leukemia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41963545/",
+        "abstract": "SAR445419 is an investigational, off-the-shelf, allogeneic NK cell therapy derived from donor peripheral blood mononuclear cells and expanded ex vivo using PM21 particles.",
+        "source": "PubMed",
+        "doi": "10.1007/s00262-026-04333-y",
+        "keyword": "NK cell therapy",
+        "title_ja": "第I相、非対照、非盲検、用量漸増、多施設共同試験：再発または難治性急性骨髄性白血病患者を対象とした、あらかじめ調整された他家培養拡張自然キラー細胞製剤SAR445419の評価",
+        "summary_ja": "本研究は、再発または難治性急性骨髄性白血病（AML）患者を対象とした、オフ・ザ・シェルフ型同種異系NK細胞療法「SAR445419」の第I相試験である。SAR445419は、ドナー末梢血単核細胞をPM21粒子を用いてex vivoで増幅させた製剤であり、用量漸増により安全性と忍容性を評価する単群非盲検多施設共同試験である。"
+      },
+      {
+        "title": "Glioma biomarker analysis and drug targeting prediction based on ferroptosis-related genes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961695/",
+        "abstract": "Glioma represents a significant challenge in neuro-oncology due to its highly invasive nature and poor prognosis. Recent studies indicate that ferroptosis, a form of regulated cell death, plays a crucial role in the pathogenesis of glioma. Modulating ferroptosis may offer a novel therapeutic approach for glioma treatment. This study aims to identify ferroptosis-related biomarkers and patterns of immune infiltration in glioma using bioinformatics techniques, and to predict potential therapeutic drugs targeting these biomarkers. Gene expression profiles (GSE16011, GSE50161) were retrieved from the GEO database, while ferroptosis-related genes were sourced from the FerrDb database. Intersection genes were identified using the CytoHubba algorithm and a consensus clustering method. Immune infiltration was assessed using the CIBERSORT algorithm. Functional enrichment analysis and gene set enrichment analysis were conducted with Gene Ontology and Kyoto Encyclopedia of Genes and Genomes databases. Drug targeting predictions were made based on identified hub genes. We identified 10 hub genes: TP53, RRM2, EZH2, CDKN1A, MYCN, KIF20A, BLM, GLS2, HMOX1, and GOT1. Gene Ontology and Kyoto Encyclopedia of Genes and Genomes analyses revealed that ferroptosis is primarily associated with apoptosis, reactive oxygen metabolism, the p53 signaling pathway, and immune regulation. Immune infiltration analysis showed significant differences in the expression of plasma cells, CD8 T cells, follicular helper T cells, activated NK cells, and macrophages between groups. qRT-PCR validation in glioma cell lines confirmed the differential expression of key ferroptosis-related genes, supporting the robustness of our bioinformatic findings. Furthermore, molecular docking demonstrates excellent binding properties between the drug components and key targets, and these key targets were further validated by PCR analysis in vitro. In summary, this study highlights the potential of ferroptosis-related biomarkers in glioma and suggests novel drug targets, providing a foundation for future therapeutic strategies.",
+        "source": "PubMed",
+        "doi": "10.1097/MD.0000000000048175",
+        "keyword": "NK cell therapy",
+        "title_ja": "グリオーマバイオマーカー解析とフェロトーシス関連遺伝子に基づく薬剤標的予測",
+        "summary_ja": "グリオーマは予後不良の脳腫瘍であり、フェロトーシス（鉄依存性細胞死）がその病態に関与する。本研究はバイオインフォマティクスにより、フェロトーシス関連バイオマーカーと免疫浸潤パターンを解析し、治療薬ターゲットを予測した。GEOデータベースとFerrDbから遺伝子を抽出し、CytoHubbaアルゴリズムでTP53、RRM2、EZH2など10のハブ遺伝子を同定。GO/KEGG解析では、フェロトーシスがアポトーシス、活性酸素代謝、p53シグナル経路、免疫調節と関連することを示した。CIBERSORT解析により免疫細胞浸潤の差異を確認し、分子ドッキングとqRT-PCRで薬剤結合性と遺伝子発現を検証。フェロトーシス関連バイオマーカーは新規治療標的として有望である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "B7-H3 (CD276) in exosome biogenesis and the tumor microenvironment: a new therapeutic nexus.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41964005/",
+        "abstract": "Tumor-derived exosomes are powerful mediators of cancer progression, influencing the tumor microenvironment (TME) to promote immune evasion, metastasis, and therapy resistance. B7-H3 (CD276), a member of the B7 immune checkpoint family, is gaining attention as a multifunctional promoter of tumor progression. In addition to its well-known expression on tumor and immune cells, B7-H3 is also enriched in exosomes, where it influences both extracellular vesicle production and signaling. This review examines how B7-H3 impacts exosome biology and contributes to tumor progression. We discuss the mechanisms of exosome biogenesis, including ESCRT-dependent and ESCRT-independent pathways. Emerging evidence indicates that B7-H3 enhances vesicular release, remodels cargo composition, and modulates recipient cell behavior. Mechanistically, B7-H3 activates pathways such as STAT3, PI3K, and lipid metabolism, thereby amplifying oncogenic signaling and promoting a pro-tumor TME. Clinically, B7-H3-enriched exosomes show promise as diagnostic, prognostic, and predictive biomarkers in colorectal, prostate, and non-small cell lung cancers. Additionally, we discuss strategies for therapeutically targeting exosomal B7-H3, including monoclonal and bispecific antibodies, CAR-T cells, and exosome inhibitors, as well as their potential synergy with immunotherapies. Overall, current evidence positions B7-H3 as a crucial link between checkpoint proteins and exosome-mediated cancer progression, offering new avenues for biomarker development and precision oncology.",
+        "source": "PubMed",
+        "doi": "10.1186/s12964-026-02872-6",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム生合成と腫瘍微小環境におけるB7-H3 (CD276)：新たな治療標的としての可能性",
+        "summary_ja": "腫瘍由来エクソソームは、免疫回避・転移・治療抵抗性を促進する腫瘍微小環境（TME）の強力な調節因子である。B7-H3（CD276）は、免疫チェックポイント分子としてだけでなく、エクソソームに濃縮され、その生合成（ESCRT依存/非依存経路）と放出を促進し、STAT3/PI3K経路などを活性化して発がんシグナルを増幅する。臨床的には、大腸癌・前立腺癌・非小細胞肺癌などで診断・予後バイオマーカーとしての可能性があり、治療標的として抗体・CAR-T・エクソソーム阻害剤などの開発が進められている。B7-H3はチェックポイントとエクソソームを介した癌進行を結ぶ新たな治療標的である。"
+      },
+      {
+        "title": "Leocarpinolide B alleviates epithelial tubular mitochondrial dysfunction via macrophage exosomal miR-204-5p/TFAM axis in AKI-CKD transition.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41963952/",
+        "abstract": "The transition from acute kidney injury (AKI) to chronic kidney disease (CKD) represents a distinct clinical syndrome critically driven by mitochondrial dysfunction. Emerging evidence suggests that exosome-dependent crosstalk between macrophages and renal tubular epithelial cells (RTECs) facilitates AKI-CKD transition. Leocarpinolide B (LB), a bioactive compound derived from the traditional Chinese medicine Siegesbeckiae Herba, exhibits potent anti-inflammatory activity in macrophages. However, the renoprotective role of LB against macrophage-mediated AKI-CKD transition and the underlying mechanisms involved remain unclear. In this study, we demonstrated that lipopolysaccharide (LPS)-stimulated macrophages exacerbated mitochondrial dysfunction and inflammation in RTECs, whereas LB suppressed inflammatory crosstalk between macrophages and RTECs. Strikingly, comparable attenuation of RTECs injury was observed using isolated exosomal fractions. Furthermore, inhibition of exosome secretion alleviated mitochondrial impairment and suppressed inflammation-fibrosis progression in RTECs. miRNA sequencing revealed a significantly elevation of miR-204-5p in serum exosomes from AKI patients. Notably, LB treatment counteracted this pathogenic miRNA upregulation in injured RTECs via an exosome-mediated pathway, thereby directly linking its reno-protective function to the exosomal miR-204-5p modulation. Subsequent bioinformatics analysis and luciferase reporter assays identified mitochondrial transcription factor A (TFAM) as a direct target of miR-204-5p. Functionally, overexpression of miR-204-5p in RTECs abrogated the protective effects of LB against mitochondrial dysfunction and cellular injury, whereas miR-204-5p knockdown synergistically enhanced LB-mediated renoprotection. In a murine folic acid (FA)-induced AKI-CKD model, the therapeutic efficacy of LB was substantially enhanced by a hyaluronic acid (HA)-functionalized liposomal nanoplatform, which facilitated targeted LB delivery to CD44-overexpressing injured kidneys. Collectively, our findings reveal a novel mechanism by which LB mitigates AKI-CKD progression by inhibiting macrophages-derived exosomal miR-204-5p, which in turn directly upregulates TFAM expression, restores mitochondrial function, and interrupts the inflammation-fibrosis axis in RTECs, offering a potentially beneficial therapeutic strategy for AKI-CKD.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04341-1",
+        "keyword": "Exosomes",
+        "title_ja": "Leocarpinolide Bは、AKI-CKD移行期におけるマクロファージエクソソームmiR-204-5p/TFAM軸を介した尿細管上皮細胞のミトコンドリア機能障害を軽減する。",
+        "summary_ja": "**要約**\n急性腎障害（AKI）から慢性腎臓病（CKD）への移行は、ミトコンドリア機能障害が駆動する病態である。本研究では、生薬由来のLeocarpinolide B（LB）が、マクロファージ由来エクソソーム中のmiR-204-5pを抑制することで、その直接標的であるミトコンドリア転写因子A（TFAM）の発現を回復させ、尿細管上皮細胞（RTEC）のミトコンドリア機能を改善し、炎症・線維化軸を遮断することを明らかにした。LBは、ハイアルロン酸修飾リポソームによる標的送達により、マウスAKI-CKDモデルでも腎保護効果を発揮した。LBはエクソソームmiR-204-5p/TFAM軸を介してAKI-CKD移行を抑制する新規治療戦略となる。"
+      },
+      {
+        "title": "Loss of Gαq reshapes fibroblast traits and drives tumor-stroma remodeling in oral cancer progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41963732/",
+        "abstract": "Head and neck squamous cell carcinoma is an aggressive malignancy with limited therapeutic options and poor outcomes. A key driver of tumor progression is the tumor microenvironment, particularly cancer-associated fibroblasts, which remodel the extracellular matrix and secrete pro-tumorigenic signals. Emerging evidence suggests that vesicle trafficking pathways regulate these secretory functions, though their role in HNSCC remains unclear. Building on our discovery of Gαq as an autophagy regulator, we investigated how its absence reshapes fibroblast behavior and modulates crosstalk with HNSCC cells. We demonstrate that loss of Gαq reprograms murine fibroblasts into a CAF-like phenotype through deregulated intracellular trafficking and increased ceramide accumulation. Gαq-deficient fibroblasts show increased collagen I deposition, ECM remodeling, and secretion. Their exosomes, enriched in tumor-promoting growth factor receptors, suppress Caveolin-1 in tumor cells and induce an EMT-like phenotype that fuels HNSCC growth. In co-culture and in vivo, Gαq-silenced fibroblasts form \"railroad-track\" structures guiding cancer cell migration and invasion. Reduced Gαq expression in human fibroblasts recapitulates these features, identifying Gαq as a key regulator of fibroblast plasticity and tumor-stroma interactions in HNSCC progression.",
+        "source": "PubMed",
+        "doi": "10.1038/s44319-026-00751-2",
+        "keyword": "Exosomes",
+        "title_ja": "Gαqの喪失は線維芽細胞の特性を再構築し、口腔癌進行における腫瘍間質リモデリングを駆動する",
+        "summary_ja": "頭頸部扁平上皮癌（HNSCC）において、腫瘍微小環境、特に癌関連線維芽細胞（CAF）は腫瘍進行を駆動する。本研究は、Gタンパク質サブユニットGαqの欠失が、細胞内輸送の乱れとセラミド蓄積を介して線維芽細胞をCAF様表現型へ再プログラムすることを示した。Gαq欠損線維芽細胞は、コラーゲンI沈着と細胞外基質（ECM）リモデリングを亢進し、腫瘍促進性増殖因子受容体を豊富に含むエクソソームを分泌する。これらは腫瘍細胞のCaveolin-1を抑制し、上皮間葉転換（EMT）様表現型を誘導してHNSCC増殖を促進する。さらに、Gαq欠損線維芽細胞は「レール構造」を形成し、癌細胞の浸潤を誘導する。ヒト線維芽細胞でもGαq発現低下は同様の表現型を再現し、GαqがHNSCCにおける線維芽細胞可塑性と腫瘍-間質相互作用の重要な制御因子であることを明らかにした。"
+      },
+      {
+        "title": "Chondrocytes reprogram chromatin in hypoxic microenvironments to activate CADM1-AS1/HDAC1 complex-mediated anti-inflammation signals.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41963334/",
+        "abstract": "Maintaining chondrocyte homeostasis is crucial for the effective treatment of osteoarthritis. Chondrocytes reside in a hypoxic environment under physiological conditions. This study, conducted exclusively in male mice, examines the association between epigenetics and chondrocyte homeostasis and observes significant alterations in histone acetylation in chondrocytes under hypoxic conditions. We identify a key enhancer element that regulates the long non-coding RNA CADM1-AS1, which is essential for cartilage homeostasis. This work elucidates a mechanism of epigenetic modulation that contributes to chondrocyte dysfunction in osteoarthritis. Further mechanistic investigations show that CADM1-AS1 recruits histone deacetylase complexes to suppress the transcriptional activation of NOS2, thereby affecting amino acid metabolism in chondrocytes. Conditional knockout of CADM1-AS1 in chondrocytes accelerates osteoarthritis development in mice. Using a hybrid exosome delivery system, we successfully modulate the expression of CADM1-AS1 and effectively reduce cartilage damage. Collectively, these findings reveal the importance of epigenetic regulation via CADM1-AS1-mediated histone deacetylation in the pathogenesis of osteoarthritis. Thus, CADM1-AS1 represents a potential therapeutic target for reducing cartilage damage in osteoarthritis and improving disease management.",
+        "source": "PubMed",
+        "doi": "10.1038/s41467-026-71563-0",
+        "keyword": "Exosomes",
+        "title_ja": "軟骨細胞は低酸素微小環境でクロマチンを再プログラムし、CADM1-AS1/HDAC1複合体を介した抗炎症シグナルを活性化する",
+        "summary_ja": "軟骨細胞は生理的低酸素環境下で、長鎖非コードRNA「CADM1-AS1」を発現するエンハンサーを活性化する。CADM1-AS1はヒストン脱アセチル化酵素複合体をリクルートし、炎症関連遺伝子NOS2の転写を抑制することで軟骨恒常性を維持する。変形性関節症ではこの経路が障害され、軟骨破壊が進行する。CADM1-AS1の条件付きノックアウトマウスでは病態が加速し、ハイブリッドエキソソームによるCADM1-AS1発現調節は軟骨損傷を軽減した。CADM1-AS1はエピジェネティックな治療標的として有望である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Mesenchymal stem cell derived exosomes and injectable platelet-rich fibrin enhance SDFT healing in a donkey tendonitis model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41963425/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-44967-7",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来エクソソームと注射用多血小板血漿フィブリンがロバ腱炎モデルにおける浅指屈腱治癒を促進",
+        "summary_ja": "**要約：**\n本研究では、ロバの浅指屈腱炎モデルにおいて、間葉系幹細胞由来エクソソーム（MSC-Exos）と注射用多血小板血漿フィブリン（i-PRF）の併用療法が腱修復を促進する効果を評価した。その結果、MSC-Exosとi-PRFを併用投与した群は、対照群や単独投与群と比較し、組織学的に優れた腱構造の再生、コラーゲン線維の整然とした配列、および炎症の軽減を示した。この相乗効果は、エクソソームが運ぶ生物活性分子とi-PRFが提供する足場・成長因子が、腱修復の微環境を協調的に改善したためと考えられる。"
+      },
+      {
+        "title": "Elucidating the roles of microRNA-103a-3p in trophoblast invasion and SOX4-mediated extravillous differentiation induced by activin A.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41963302/",
+        "abstract": "The dysregulation of growth factors is associated with defective trophoblast invasion, which leads to uteroplacental malperfusion due to the inadequate remodeling of spiral arteries. Pregnancy disorders, including preeclampsia, particularly early-onset preeclampsia, are closely related to compromised placental function caused by aberrant trophoblast invasion. Activin A, a growth factor detectable in serum that belongs to the transforming growth factor-β (TGF-β) superfamily, has been implicated in the development of preeclampsia, as evidenced by its elevated serum levels and its role in regulating trophoblast invasion. However, the existing research on its regulatory mechanisms in trophoblast invasion has focused mainly on intracellular, nonsecretory epithelial-mesenchymal transition (EMT) markers in conventional trophoblast cell lines, which limits its translational relevance to clinical applications. In this study, we performed small RNA sequencing combined with cell biology studies in primary human trophoblast and 2D human trophoblast stem cell models and revealed that the upregulation of the SOX4 (SRY-box transcription factor 4) and miR-103a-3p induced by activin A contributes to trophoblast invasion and potential extravillous differentiation. The bioinformatic analysis of proteomic and microRNA profiles from public databases revealed increased expression of the activin A protein and exosomal miR-103a-3p in maternal blood during the second trimester of pregnancy complicated by preeclampsia. Overall, our integrated approach reveals the regulatory mechanism by which activin A, SOX4, and miR-103a-3p regulate human trophoblast invasion and EVT differentiation, highlighting their potential as early diagnostic biomarkers for preeclampsia.",
+        "source": "PubMed",
+        "doi": "10.1038/s41419-026-08665-6",
+        "keyword": "Exosomes",
+        "title_ja": "アクチビンA誘導性の栄養膜細胞浸潤およびSOX4媒介性絨毛外分化におけるmicroRNA-103a-3pの役割解明",
+        "summary_ja": "**要約**\nアクチビンAは、妊娠高血圧腎症（特に早発型）に関連する増殖因子である。本研究では、アクチビンAがSOX4およびmiR-103a-3pを介して、栄養膜細胞の浸潤と絨毛外分化を促進する新たな調節機構を明らかにした。さらに、妊娠中期の子癇前症患者血中では、アクチビンAとエクソソームmiR-103a-3pの発現が上昇していた。これらは子癇前症の早期診断バイオマーカーとしての可能性を示唆する。"
+      }
+    ],
+    "農学": [
+      {
+        "title": "The potential of plant-derived exosome-like nanovesicles from ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41964367/",
+        "abstract": "This study aimed to isolate plant-derived exosome-like nanovesicles from ",
+        "source": "PubMed",
+        "doi": "10.1080/20565623.2026.2654777",
+        "keyword": "Exosomes",
+        "title_ja": "植物由来エクソソーム様ナノ小胞の可能性",
+        "summary_ja": "本研究は、植物由来エクソソーム様ナノ粒子の単離を目的とする。これらは生体適合性が高く、薬物送達システムとして有望である。具体的には、植物組織からナノサイズの小胞を抽出・精製し、その形態・サイズ・表面特性を分析した。結果、安定した粒子が得られ、生体分子を内包・保護できる可能性が示された。植物由来のため、安全で安価な製造が期待できる。"
+      }
+    ],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Stress-induced alteration of small extracellular vesicles drives amyloid-beta sequestration and exacerbates Alzheimer's disease pathogenesis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41964066/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s13195-026-02028-1",
+        "keyword": "sEVs",
+        "title_ja": "ストレス誘発性の小細胞外小胞の変化がアミロイドβの隔離を駆動しアルツハイマー病発症を増悪させる",
+        "summary_ja": "**ストレス誘発性の小細胞外小胞（sEV）の変化が、アミロイドβ（Aβ）の隔離を促進し、アルツハイマー病（AD）病態を悪化させる。**\n\n本研究は、慢性ストレスが脳内のsEV（特にオリゴデンドロサイト由来）の組成と機能を変化させ、Aβをより多く取り込んで凝集を促進することを示した。これにより、Aβのクリアランスが阻害され、神経毒性が増強される。ストレスホルモン（コルチコステロン）がこの過程を媒介し、ADモデルマウスで認知機能障害を悪化させた。ストレス管理がAD予防・治療の新たな標的となる可能性を示唆。"
+      },
+      {
+        "title": "Human umbilical cord mesenchymal stem cell-derived small extracellular vesicles accelerate diabetic wound healing by reprogramming fibroblast subpopulations and delivering pro-regenerative cargos.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41775031/",
+        "abstract": "Diabetic wound healing is complex and challenging. Human umbilical cord mesenchymal stem cell-derived small extracellular vesicles (hUC-MSC-sEVs) play a crucial role in tissue repair, but their specific mechanisms in diabetic wounds remain unclear.",
+        "source": "PubMed",
+        "doi": "10.1016/j.burns.2026.107910",
+        "keyword": "sEVs",
+        "title_ja": "ヒト臍帯間葉系幹細胞由来の小型細胞外小胞は、線維芽細胞サブ集団の再プログラミングと再生促進因子の送達により、糖尿病創傷治癒を加速させる。",
+        "summary_ja": "ヒト臍帯間葉系幹細胞由来小型細胞外小胞（hUC-MSC-sEVs）は、糖尿病創傷治癒において、線維芽細胞サブポピュレーションを再プログラミングし、プロ再生カゴ（miRNAなど）を送達することで、創傷治癒を加速させる。その機序は、炎症性線維芽細胞から修復促進型線維芽細胞への転換誘導と、細胞増殖・血管新生の促進にある。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. 血清Klothoと血小板減少症の関連（NHANES解析）**\n中高年者における抗老化因子Klothoの血清レベルと血小板減少症の関連を大規模データで初めて検証。Klotho高値群で血小板減少症リスクが低く、血管保護・抗炎症作用を介した新たな役割を示唆。加齢関連疾患のバイオマーカー・予防標的として期待。\n\n**2. ケロイド形成における免疫細胞の役割**\nケロイドの難治性は持続炎症と免疫調節異常に起因。マクロファージやT細胞が線維芽細胞を活性化する機序を解明し、免疫細胞を標的とした新規治療（例：サイトカイン阻害、細胞療法）開発への道筋を示した。\n\n**3. CAR-NK細胞療法の「デコイ効果」克服策**\n固形腫瘍CAR療法の課題である抗原脱落（デコイ効果）に対し、迅速スクリーニングで最適CARを選定。さらにcircRNAを利用してCAR発現を持続させ、NK細胞の抗腫瘍活性を強化。オフ・ザ・シェルフ型CAR-NK実用化に寄与。\n\n**4. B7-H3のエクソソーム生物学と腫瘍微小環境における新規治療標的としての可能性**\n免疫チェックポイント分子B7-H3が、腫瘍由来エクソソームに濃縮され、その生合成と機能（免疫抑制・転移促進）を駆動することを示す。B7-H3を標的とし、エクソソーム介した腫瘍間通信を遮断する新治療戦略の基盤を提供。\n\n**5. ストレス誘発性sEV変化がアルツハイマー病態を悪化**\n慢性ストレスが脳内sEV（特にオリゴデンドロサイト由来）の組成を変え、アミロイドβの隔離・凝集を促進する新機序を解明。sEVを介したストレスと神経変性の連関を示し、病態進展のバイオマーカー及び治療介入点としてsEVに注目。"
+}

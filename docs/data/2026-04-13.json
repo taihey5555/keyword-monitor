@@ -1,0 +1,146 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "CX3CR1-mediated immune networks in sepsis: implications for precision therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41965341/",
+        "abstract": "Sepsis is a life-threatening syndrome characterized by profound immune dysregulation in response to infection, and it remains a major cause of mortality worldwide. The CX3C chemokine receptor 1 (CX3CR1) has emerged as a pivotal regulator of sepsis-induced immune dysregulation, orchestrating the proliferation, differentiation, activation, migration, and survival of various immune cell populations, including monocytes/macrophages, natural killer cells (NK), and T cells. Emerging evidence highlights that the diverse expression patterns of CX3CR1 within distinct immune cell subsets determine its dual pro-inflammatory and anti-inflammatory effects, and CX3CR1 expression level is closely correlated with patient survival in sepsis. In addition, targeted modulation of CX3CR1 in specific immune cell types has shown promising efficacy in preclinical sepsis models. This review provides a comprehensive overview of the molecular immunoregulatory networks governed by CX3CR1, its heterogenous functions across different immune subsets, and recent advances in CX3CR1-targeted therapies, highlighting cell type-specific interventions as promising strategies for precision sepsis treatment.",
+        "source": "PubMed",
+        "doi": "10.1038/s41420-026-03102-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "CX3CR1を介する免疫ネットワークが敗血症に与える影響：精密治療への示唆",
+        "summary_ja": "敗血症は、感染応答における重度の免疫調節異常を特徴とする致死的症候群である。CX3Cケモカイン受容体1（CX3CR1）は、単球/マクロファージ、NK細胞、T細胞などの免疫細胞の動態を制御し、敗血症の免疫異常の中心的調節因子として注目されている。CX3CR1の発現パターンは免疫細胞サブセットにより異なり、炎症促進と抗炎症の二面性を持つことが明らかとなっており、その発現レベルは患者の生存率と相関する。特定の免疫細胞タイプにおけるCX3CR1の標的制御は前臨床モデルで有効性を示しており、本論文はCX3CR1が関与する分子ネットワーク、機能の多様性、細胞種特異的介入に基づく精密治療戦略の進展を総括する。"
+      },
+      {
+        "title": "Activating NK cell immunity against prostate cancer with Hedysarum polybotrys Hand.-Mazz.: A multi-omics integration of computational prediction and experimental validation on PI3K/AKT and PD-1/PD-L1 axes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41903590/",
+        "abstract": "Hedysarum polybotrys Hand.-Mazz. (Hongqi, HQ) is a prized Qi-tonifying herb in Traditional Chinese Medicine (TCM), historically employed to enhance the body's resistance and modulate immune function. While its anti-tumor properties are recognized, the specific immunomodulatory mechanisms by which HQ empowers Natural Killer (NK) cells to combat prostate cancer (PCa) remain under-explored.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jep.2026.121564",
+        "keyword": "NK cell therapy",
+        "title_ja": "ヘディサルム・ポリボトリスの前立腺癌に対するNK細胞免疫活性化作用：PI3K/AKTおよびPD-1/PD-L1経路における計算予測と実験検証のマルチオミクス統合解析",
+        "summary_ja": "**要約**\n伝統中国薬の補気薬である紅耆（Hedysarum polybotrys）が、前立腺癌に対するNK細胞免疫を活性化する機序を、計算予測と実験検証によるマルチオミクス解析で解明。その作用は、PI3K/AKTシグナル経路の活性化と、PD-1/PD-L1チェックポイント軸の抑制という二重の経路を介して、NK細胞の抗腫瘍機能を増強することによる。"
+      },
+      {
+        "title": "CD161⁺ Treg as a potential biomarker for evaluating disease activity and treatment efficacy in rheumatoid arthritis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860697/",
+        "abstract": "CD161⁺ regulatory T cells (Tregs) are involved in rheumatoid arthritis (RA) pathogenesis. This study aimed to investigate the levels of circulating CD161⁺ Tregs in RA patients and to evaluate their associations with clinical features, laboratory indicators, and therapeutic responses.",
+        "source": "PubMed",
+        "doi": "10.1007/s10067-026-08056-4",
+        "keyword": "NK cell therapy",
+        "title_ja": "CD161⁺ Tregは、関節リウマチの疾患活動性と治療効果を評価するための潜在的なバイオマーカーである。",
+        "summary_ja": "CD161⁺制御性T細胞（Treg）は関節リウマチ（RA）の病態に関与する。本研究は、RA患者における血中CD161⁺ Tregのレベルを調査し、臨床的特徴、検査指標、治療反応との関連を評価した。その結果、CD161⁺ Tregの割合は疾患活動性の高い患者で増加し、治療による改善に伴い減少した。従って、CD161⁺ TregはRAの疾患活動性評価や治療効果判定の潜在的なバイオマーカーとなり得る。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Bee sting-shaped microneedles for accelerating Achilles tendinopathy healing via enhanced regulating macrophage polarization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41965678/",
+        "abstract": "Achilles tendinopathy (AT) is a common overuse injury to the Achilles tendon, and its progression is closely associated with an imbalance in M1/M2 macrophages and the inflammatory microenvironment. Traditional AT treatments are often limited by unwanted side effects, poor tissue penetration, and low therapeutic efficacy. Therefore, the targeted modulation of macrophage polarization could be a useful approach to relieve the inflammatory microenvironment of the Achilles tendon. In this study, we developed bee sting-shaped microneedles (DT-Exo-TMNs) to accelerate AT healing by enhancing the regulation of macrophage polarization. The DT-Exo-TMNs effectively reversed M1 macrophage polarization to M2 macrophage with a high efficiency of 43.4% by activating mitochondrial transcription factor A (TFAM). In addition, the photothermal agent, tannic acid /Fe",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04364-8",
+        "keyword": "Exosomes",
+        "title_ja": "アキレス腱症治癒促進のためのマクロファージ極性制御強化型蜂刺し状マイクロニードル",
+        "summary_ja": "**要約：**\nアキレス腱症（AT）は、M1/M2マクロファージの不均衡と炎症性微小環境に関連する一般的な障害である。従来治療は副作用や浸透性の低さに課題があった。本研究では、マクロファージの極性調節を強化しAT治癒を加速する「蜂刺し形状マイクロニードル（DT-Exo-TMNs）」を開発した。本デバイスは、ミトコンドリア転写因子A（TFAM）を活性化し、43.4%の高効率でM1からM2マクロファージへの極性転換を促進した。さらに、光熱剤であるタンニン酸/Feの組み合わせにより、治癒効果が増強された。"
+      },
+      {
+        "title": "NK-cell-derived exosomes exert antitumor potency via miR-140/XYLT1/HSPG2 axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41965528/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s11658-026-00914-y",
+        "keyword": "Exosomes",
+        "title_ja": "NK細胞由来エクソソームはmiR-140/XYLT1/HSPG2軸を介して抗腫瘍効果を発揮する",
+        "summary_ja": "本論文は、NK細胞由来エクソソームが、miR-140を介して標的細胞のXYLT1発現を抑制し、プロテオグリカンHSPG2の発現を低下させることで、抗腫瘍効果を発揮するメカニズムを明らかにした。このmiR-140/XYLT1/HSPG2軸の阻害は、腫瘍細胞の増殖と転移を抑制し、NK細胞エクソソームの新たな抗腫瘍治療応用の可能性を示唆している。"
+      },
+      {
+        "title": "M2-polarized tumor-associated macrophages as key orchestrators of gastric cancer pathogenesis and therapeutic resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41964714/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-04730-w",
+        "keyword": "Exosomes",
+        "title_ja": "M2型腫瘍関連マクロファージ：胃癌の病態形成と治療抵抗性における主要な調節因子",
+        "summary_ja": "本論文は、M2型極性を有する腫瘍関連マクロファージ（M2-TAMs）が、胃癌の病態形成と治療抵抗性において中心的役割を果たすことを論じている。M2-TAMsは、腫瘍微小環境において免疫抑制を促進し、血管新生やがん細胞の浸潤・転移を誘導する。さらに、化学療法や免疫療法に対する抵抗性を媒介する。したがって、M2-TAMsを標的とした治療戦略が、胃癌治療の新たな可能性として示唆される。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Therapeutic potential of ADAR1-regulated macrophage exosomes for improving myocardial damage in septic cardiomyopathy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41965774/",
+        "abstract": "Sepsis-induced cardiomyopathy (SICM) is a critical cardiovascular complication characterized by cardiac dysfunction and high mortality. The molecular mechanisms that underlie SICM remain elusive, and effective therapies are limited.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04368-4",
+        "keyword": "Exosomes",
+        "title_ja": "ADAR1制御マクロファージエクソソームによる敗血症性心筋症の心筋損傷改善への治療的潜在性",
+        "summary_ja": "敗血症誘発心筋症（SICM）は、心機能障害と高死亡率を特徴とする重篤な合併症である。本研究は、マクロファージにおけるADAR1（Adenosine Deaminase Acting on RNA 1）の発現低下が、炎症性エクソソームmiRNA（miR-3473e）の増加を介して心筋細胞のアポトーシスを誘導する機序を解明した。ADAR1を標的とした治療により、このエクソソームの放出を抑制し、敗血症モデルマウスの心機能を改善できる可能性を示した。ADAR1制御下のマクロファージ由来エクソソームは、SICMの新規治療標的となり得る。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Proteomic Analysis of Paired FFPE Tissue and Extracellular Vesicles Reveals Proteins Associated with Recurrence in Stage II Colorectal Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41966223/",
+        "abstract": "Colorectal cancer (CRC) remains a leading cause of cancer-related mortality worldwide. Stage II CRC poses a clinical challenge due to its heterogeneous outcomes, with 15-20% of patients experiencing recurrence. Current prognostic models based on clinicopathologic features lack sufficient precision, highlighting the need for new molecular markers. In this study, we employed an integrative TMT-based proteomics strategy to identify biomarkers of recurrence in stage II CRC. We analyzed paired formalin-fixed paraffin-embedded (FFPE) tissues and small extracellular vesicles (sEVs) from stage II recurrent and nonrecurrent CRC patients. Validation of proteomics data was performed in silico and by WB, immunohistochemistry, ELISA, and in vitro functional cell-based assays. This multifaceted approach identified several dysregulated proteins associated with CRC recurrence, including MANF, TLN1, TALDO1, and CDCA2, among others. CDCA2 knockdown altered the tumorigenic properties of CRC cells in vitro, correlating findings with its association with prognosis. Conversely, higher plasma levels of MANF were found in nonrecurrent CRC patients, aligning results with its favorable prognosis profile. Collectively, our findings support the value of combining paired FFPE tissue and sEVs proteomics analyses to uncover recurrence-associated biomarkers, offering the potential for risk stratification and management of stage II CRC patients.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.jproteome.5c01148",
+        "keyword": "sEVs",
+        "title_ja": "ステージII大腸癌の再発に関連するタンパク質を明らかにする：FFPE組織と細胞外小胞のペアワイズ解析によるプロテオミクス研究",
+        "summary_ja": "ステージII大腸癌（CRC）は再発率が不均一であり、予後予測バイオマーカーの開発が課題である。本研究では、再発・非再発患者のFFPE組織と小型細胞外小胞（sEV）をTMTプロテオミクスで解析し、再発関連タンパク質を同定した。MANF、TLN1、TALDO1、CDCA2などが同定され、CDCA2ノックダウンは腫瘍形成能を変化させ、MANF高血漿濃度は良好な予後と関連した。FFPE組織とsEVの統合プロテオミクス解析は、ステージII CRCのリスク層別化に有用なバイオマーカーを提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Adipocyte small extracellular vesicle-derived microRNA-30a-3p exacerbates hepatic steatosis in high fat diet-fed male mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41965824/",
+        "abstract": "Adipose tissue dysfunction drives hepatic lipid overload in metabolic dysfunction-associated steatotic liver disease (MASLD), yet the involvement of adipose tissue-derived small extracellular vesicles (sEVs) remains unclear. Herein, we showed that transplanting adipose tissue from high‑fat diet (HFD)-fed male mice exacerbated insulin resistance and hepatic steatosis in lean recipients. Adipose‑specific Sirt3 overexpression (Sirt3",
+        "source": "PubMed",
+        "doi": "10.1038/s41467-026-71731-2",
+        "keyword": "sEVs",
+        "title_ja": "脂肪細胞由来小型細胞外小胞のマイクロRNA-30a-3pは、高脂肪食摂取雄マウスにおける肝脂肪変性を悪化させる",
+        "summary_ja": "**要約：**\n脂肪組織機能不全はMASLDにおける肝脂質蓄積を駆動するが、脂肪組織由来sEVsの関与は不明である。本研究では、高脂肪食摂取マウスの脂肪組織移植が、レシピエントのインスリン抵抗性と肝脂肪変性を悪化させることを示した。脂肪特異的Sirt3過剰発現は、脂肪組織のsEVs分泌を抑制し、肝脂肪変性を軽減した。sEVs内のmiR-30a-3pが肝細胞に取り込まれ、Ppargc1aを抑制することで脂肪酸酸化を阻害し、肝脂肪蓄積を促進することを明らかにした。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下は、Klotho、PF4、NK細胞療法、エクソソーム、sEVsに関連する注目すべき5つのトピックです。\n\n1. **NK細胞療法の新規活性化戦略（前立腺癌）**：伝統薬・紅耆がPI3K/AKT経路を介してNK細胞を活性化し、PD-1/PD-L1軸を抑制することで、前立腺癌治療への応用が期待される。背景として、固形癌へのNK療法の効果限界があり、本成果は漢方の科学的根拠と併用療法の可能性を示す。\n\n2. **NK細胞由来エクソソームの抗腫瘍メカニズム**：NK細胞エクソソームがmiR-140/XYLT1/HSPG2軸を介して抗腫瘍効果を発揮。細胞療法に比べ安定性・送達性に優れるエクソソームを利用した、新規核酸医薬の開発基盤となる。\n\n3. **sEVsを利用した大腸癌再発予測バイオマーカー**：ステージII大腸癌のFFPE組織とsEVsのプロテオミクスから、再発関連タンパク質（MANF等）を同定。sEVsはリキッドバイオプシーとして、侵襲性の低い予後予測ツールとなる可能性がある。\n\n4. **脂肪細胞sEVsによる代謝疾患悪化機構**：脂肪細胞sEVs中のmiR-30a-3pが肝脂肪変性を促進。sEVsを介した臓器間通信が代謝異常の基盤であり、新たな治療標的となる。\n\n5. **敗血症における免疫調節とエクソソーム治療**：CX3CR1を標的とした精密免疫療法と、ADAR1調節マクロファージエクソソームによる心筋保護の2研究は、敗血症の免疫異常を多角的に修正する次世代治療として注目される。"
+}

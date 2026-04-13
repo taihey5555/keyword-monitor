@@ -1,0 +1,136 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "The role of Klotho protein in delaying cellular ageing through exercise intervention: SA - β - Gal activity and age-related metabolism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41968926/",
+        "abstract": "Cellular ageing is closely related to various age-related diseases, and Klotho protein, as an anti-ageing related factor, plays an important role in delaying ageing by regulating cellular function and metabolism.",
+        "source": "PubMed",
+        "doi": "10.1080/13813455.2026.2657414",
+        "keyword": "Klotho",
+        "title_ja": "運動介入によるKlothoタンパク質の細胞老化遅延効果：SA-β-Gal活性と加齢関連代謝における役割",
+        "summary_ja": "Klothoタンパク質は抗老化因子として、細胞機能と代謝を調節することで老化遅延に重要な役割を果たす。本論文は、運動介入がKlotho発現を促進し、老化マーカーであるSA-β-Gal活性を抑制し、加齢関連代謝を改善することで、細胞老化を遅らせる可能性を示唆している。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Pirfenidone-exosomes as innovative strategies for scarless tissue repair in wound healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41973317/",
+        "abstract": "To facilitate scarless wound healing, developing an anti-scarring treatment that modulates dermal fibroblast activity is a promising strategy, with pirfenidone (PFD) showing potential due to its anti-fibrotic properties by targeting intracellular pathways that regulate collagen disposition. PFD, particularly when delivered via dermal fibroblast-derived exosomes, may further enhance therapeutic effectiveness and promote scarless healing. Two common isolation methods-PEG precipitation and affinity-based techniques-were compared to identify the most efficient approach for obtaining high-purity and relatively homogenous exosomes derived from human dermal fibroblasts. Characterization techniques, including transmission electron microscopy (TEM), atomic force microscopy (AFM), antibody arrays, and enzyme-linked immunosorbent assays (ELISA), confirmed the successful isolation of high-purity exosomes. The affinity-based method demonstrated superior performance, yielding well-dispersed and highly pure exosomes. We optimized the encapsulation and formulation of the antifibrotic compound PFD by exploiting exosomes as a drug delivery platform, employing an active loading method via sonication to enhance encapsulation efficiency (EE%) and loading efficiency (LE%), while carefully controlling the sonication process to preserve exosome integrity. The optimal formulation of PFD-exosomes achieved an EE% of 11.14% ± 1.27% and an LE of 10.01% ± 1.03%, with a particle recovery rate of exosomes at 64.21% ± 8.49% using sonication technique. Then, we investigated how to harness exosomes and PFD-exosomes as innovative strategies for achieving scarless tissue repair in wound healing. Our findings showed that exosomes enhanced fibroblast migration and proliferation, highlighting their potential as a stand-alone cell-free therapy for wound healing. Additionally, this study was ground-breaking in demonstrating that exosomes can improve the efficacy of PFD as a drug carrier, amplifying its anti-fibrotic effects in both in vitro and in vivo models. The in vivo results indicated that PFD-exosomes accelerated wound healing while organizing the extracellular matrix (ECM) by reducing excessive collagen deposition. Overall, PFD-exosomes present an innovative strategy for pre-scarring interventions, offering benefits of enhanced wound healing outcomes while minimizing scarring.",
+        "source": "PubMed",
+        "doi": "10.1007/s13346-026-02108-7",
+        "keyword": "Exosomes",
+        "title_ja": "創傷治癒における瘢痕のない組織修復のための革新的戦略としてのピルフェニドン-エクソソーム",
+        "summary_ja": "本論文は、瘢痕のない創傷治癒を促進するため、抗線維化薬ピルフェニドン（PFD）を真皮線維芽細胞由来エクソソームに封入した新規治療戦略を検討した。エクソソームの単離法では、親和性ベース法が高純度・均一なサンプルを得た。超音波処理による能動的封入法で最適化し、PFD-エクソソーム製剤を作製。in vitroおよびin vivoモデルで評価した結果、エクソソーム単独でも線維芽細胞の遊走・増殖を促進し、PFD-エクソソームは薬剤の抗線維化効果を増強し、過剰なコラーゲン沈着を抑制しながら創傷治癒を加速させた。PFD-エクソソームは、瘢痕を最小化する創傷治療への革新的な介入戦略となる。"
+      },
+      {
+        "title": "hTERT-immortalized mesenchymal stem cell-derived EV treatment reduces ZIKV-induced cortical neuronal death, infection, and exosome-mediated transmission.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41972754/",
+        "abstract": "The application of stem cells, mesenchymal stem cells (MSCs), and exosomes/extracellular vesicles (EVs) derived from these stem cells has shown potential advancement in solving several major medical complications. Recent studies on MSC-EVs have gained focus on tissue repair, inflammation, apoptosis, fibrosis, and regenerative medicine. MSC-EVs modulate and play potential therapeutic roles in the treatment of various diseases such as cancer, neurological disorders, and viral infections. In the current study, we provide evidence that human telomerase reverse transcriptase (hTERT)-immortalized MSC-EVs possess a neuroprotective role in Zika virus (ZIKV)-infected murine cortical neurons. The American Type Culture Collection (ATCC) 2022 challenge award (call for proposals to use the product \"ATCC SCRC-4000-EXM,\" hTERT-immortalized MSC-EVs in new, interesting, or daring applications) afforded us the opportunity to test these hTERT-MSC-EV in ZIKV-infected neurons. We found that hTERT-MSC-EV treatment increased the cell viability of ZIKV-infected neurons and decreased the expression of apoptotic markers (Bax, caspases 3/9, and Bcl-2). In addition, hTERT-MSC-EV treatment reduced ZIKV loads in cortical neurons that correlated with increased interferon-beta and decreased TNF-alpha transcripts. Poly I:C (polyinosinic:polycytidylic acid) stimulation and treatment of uninfected cortical neurons with hTERT-MSC-EV showed an increased trend in IFN-alpha levels, but IFN-beta transcript levels were reduced. Furthermore, hTERT-MSC-EV treatment continued to reduce viral loads, even upon Poly I:C stimulation and ZIKV infection. GW4869 inhibition followed by hTERT-MSC-EV treatment revealed that exosome-mediated viral transmission is also affected in ZIKV-infected cortical neurons. Overall, this study suggests a potential therapeutic effect of hTERT-MSC-EV in ZIKV-induced neuronal death and perhaps in controlling exosome biogenesis during viral infections. This study opens new thoughts on how hTERT-MSC-EV could be proposed as a therapeutic potential in ZIKV-mediated microcephaly by enhancing cell viability of ZIKV-infected cortical neurons, inhibiting apoptosis, and reducing viral infection and exosome-mediated transmission in fetal and newborn brains.",
+        "source": "PubMed",
+        "doi": "10.1128/spectrum.02524-25",
+        "keyword": "Exosomes",
+        "title_ja": "hTERT不死化間葉系幹細胞由来EV治療は、ZIKV誘発性皮質神経細胞死、感染、およびエクソソーム媒介伝播を軽減する",
+        "summary_ja": "本論文は、hTERT-不死化間葉系幹細胞（MSC）由来の細胞外小胞（EV）が、ジカウイルス（ZIKV）感染マウス皮質ニューロンにおいて神経保護作用を示すことを報告する。hTERT-MSC-EV処理は、感染ニューロンの細胞生存率を向上させ、アポトーシスマーカー（Bax、カスパーゼ3/9）の発現を抑制した。さらに、ウイルス量を減少させ、これはインターフェロン-βの増加とTNF-αの減少と相関した。ポリI:C刺激下でもウイルス量は減少し、GW4869阻害実験はEVを介したウイルス伝播も抑制されることを示唆した。本研究は、hTERT-MSC-EVがZIKV誘発性神経細胞死やEV介在性感染伝播を抑制し、ZIKV関連小頭症に対する新たな治療戦略となり得る可能性を提唱する。"
+      },
+      {
+        "title": "Immune Evasion of Helicobacter pylori and Extra-Gastric Cancer Risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41972361/",
+        "abstract": "Helicobacter pylori (H. pylori) is a group 1 gastric carcinogen that plays a significant role in extra-gastric digestive system cancers. H. pylori disrupts host cell homeostasis through expression of virulence factors leading to immune evasion as well as persistent gastric mucosal colonization. H. pylori infection has been shown to play a role in extra-gastric cancers such as, hepatocellular cancer, cholangiocarcinoma, colorectal, pancreatic, and esophageal cancers. H. pylori are highly heterogeneous bacterium, and different strains may carry different virulence factors, which varies across geographic regions. Intercellular communication via exosomes derived from H. pylori-infected cells, and the H. pylori-related gut microbiota dysbiosis leads to extra-gastric cancer development through the \"microbiota-epigenetic-cancer regulatory axis\" in epigenomic reprogrammed host. Because of the regional and social variabilities, studies have conflicting results concerning the effect of the mutual interactions between the virulence factors of H. pylori, host, and host's microbiota on the development of extra-gastric cancer. Consistently, a significant increase in kynurenine production from tryptophan via indoleamine-2,3-dioxygenase activity of gut microbiome suppresses host's immune response by activating the aryl hydrocarbon receptor in H. pylori seropositive patients. Immune suppression in extra-gastric digestive system cancer development preserves the tumor cells from immune attack and promotes tumor growth.",
+        "source": "PubMed",
+        "doi": "10.1111/jgh.70376",
+        "keyword": "Exosomes",
+        "title_ja": "ヘリコバクター・ピロリの免疫回避と胃外癌リスク",
+        "summary_ja": "ヘリコバクター・ピロリ（H. pylori）は、胃がんの確立された発がん因子であり、胃外消化器がん（肝細胞がん、胆管がん、大腸がん、膵がん、食道がんなど）のリスクにも関与する。その発がん機序には、病原性因子による宿主免疫回避と持続感染が基盤にある。H. pylori感染細胞由来のエクソソームを介した細胞間通信や、腸内細菌叢の乱れが「微生物叢－エピゲノム－がん制御軸」を通じて胃外発がんを促進する。特に、腸内細菌のインドールアミン-2,3-ジオキシゲナーゼ活性によるキヌレニン産生増加は、アリール炭化水素受容体を活性化し、免疫抑制を引き起こし、腫瘍成長を助長する。ただし、菌株や地域による差異があり、研究結果には一致しない点もある。"
+      },
+      {
+        "title": "An Integrated Nanozyme-Exosome Platform for Multi-Targeted Therapy of Metabolic-Associated Steatotic Liver Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41968605/",
+        "abstract": "Metabolic-associated steatotic liver disease (MASLD) is a prevalent chronic liver disorder driven by a complex interplay of lipid accumulation, oxidative stress, and inflammation, for which effective targeted therapies remain limited. To address this multifactorial pathology, we developed an integrated nano-therapeutic platform, termed CMEPA, that unites three complementary components: a copper-based nanozyme with dual superoxide dismutase (SOD)- and catalase (CAT)-like activities, human umbilical cord mesenchymal stem cell-derived exosomes (UC-MSC-Exos) enriched in regulatory microRNAs, and a hepatocyte-targeting antibody against ASGR1. In vitro, CMEPA efficiently scavenged reactive oxygen species (ROS), significantly reduced lipid droplet accumulation, and suppressed apoptosis in palmitic acid-challenged hepatocytes. In vivo, CMEPA exhibited preferential hepatic accumulation and an excellent biosafety profile, with no observable systemic toxicity. Therapeutic evaluation in a diet-induced murine MASLD model revealed that CMEPA administration significantly improved serum alanine aminotransferase (ALT), aspartate aminotransferase (AST), triglyceride, and cholesterol levels, alleviated hepatic steatosis as confirmed by histopathology, enhanced endogenous SOD and CAT activities, and attenuated inflammatory and lipogenic signaling pathways, as revealed by transcriptomic analysis. Collectively, these results establish CMEPA as a robust, multi-modal nano-therapeutic strategy that integrates catalytic antioxidation, exosome-mediated gene regulation, and active hepatocyte targeting, offering a promising translational approach for MASLD treatment.",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.71147",
+        "keyword": "Exosomes",
+        "title_ja": "統合型ナノザイム・エクソソームプラットフォームによる代謝関連脂肪性肝疾患の多標的治療",
+        "summary_ja": "本論文は、代謝関連脂肪性肝疾患（MASLD）に対する新規複合ナノ治療プラットフォーム「CMEPA」を開発した。CMEPAは、抗酸化活性を持つ銅ナノザイム、調節性マイクロRNAを豊富に含む間葉系幹細胞エクソソーム、および肝細胞標的抗体を統合した。in vitroおよび食事誘発性MASLDマウスモデルにおいて、CMEPAはROSの除去、脂質蓄積の抑制、肝障害マーカーの改善、肝脂肪変性の軽減、抗酸化酵素活性の向上、炎症・脂質生成経路の抑制を実証し、優れた安全性を示した。本研究は、触媒的抗酸化、エクソソームによる遺伝子調節、能動的標的化を統合したMASLD治療戦略としての可能性を示す。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Functionalized Thermosensitive Hydrogel Regulates the Immune Microenvironment and Stem Cell Differentiation to Enhance Cartilage Regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41969062/",
+        "abstract": "Osteoarthritis (OA) is a heterogeneous degenerative joint disease involving cartilage degradation, subchondral bone remodeling, and chronic inflammation, which collectively lead to pain and disability. Current therapeutic strategies remain insufficient to effectively halt disease progression. To address this, we engineered a multifunctional injectable hydrogel based on hydroxybutyl chitosan (HBC) coloaded with strontium acetate (Sr) and nanosized chondroprogenitor cell-derived exosomes (CPC-EXOs) (HBC@Sr@CPC-EXOs) to modulate the inflammatory joint microenvironment and drive cartilage regeneration. The hydrogel underwent a sol-gel transition at ∼17 °C (gelling at body temperature) and swelled to equilibrium in ∼16 h, forming a water-rich matrix. Release profiling showed ∼50% cumulative Sr release at 36 h and exosome release at 60 h, yielding a functionally sequential (time-staggered) exposure, where Sr mediates early attenuation of inflammatory mediators, while CPC-EXOs sustain late-phase immunoprogramming. Under inflammatory conditions in vitro, HBC@Sr@CPC-EXOs enhanced chondrocyte viability, increased extracellular matrix anabolism, and polarized macrophages toward M2. Time-resolved assays revealed early suppression of pro-inflammatory cytokines (0-12 h), followed by later enhancement of immunoregulatory cytokines (24-48 h) (",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.6c00315",
+        "keyword": "Exosomes",
+        "title_ja": "機能化温感ハイドロゲルが免疫微小環境を制御し、幹細胞分化を促進して軟骨再生を向上させる。",
+        "summary_ja": "変性関節疾患である変形性関節症(OA)に対し、ヒドロキシブチルキトサン(HBC)を基材とする温度応答性ハイドロゲル(HBC@Sr@CPC-EXOs)を開発した。本ゲルは、酢酸ストロンチウム(Sr)と軟骨前駆細胞由来エクソソーム(CPC-EXOs)を内包し、体温でゲル化する。放出プロファイルは時間差設計で、初期にSrが炎症性サイトカインを抑制し、後期にCPC-EXOsが免疫調節を継続する。これにより、軟骨細胞の生存率と細胞外マトリックス産生が向上し、マクロファージは抗炎症型(M2)へ極性化した。炎症性関節微小環境の制御と軟骨再生促進を両立する新規治療戦略である。"
+      }
+    ],
+    "農学": [],
+    "工学": [
+      {
+        "title": "The mechanistic study of injectable hydrogel loaded with BMSC-exosomes in regulating the TGF-β/MMP axis to inhibit experimental myopia model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41970253/",
+        "abstract": "Pathological myopia involves reduced collagen deposition and scleral thinning, leading to axial elongation-a process exacerbated by chronic inflammation that disrupts scleral extracellular matrix homeostasis. To address this, we developed an injectable microgel system based on methacrylated alginate (AlgMA) loaded with BMSC-derived exosomes for preventing myopia progression. The photocrosslinkable AlgMA hydrogel exhibited a compressive modulus of ∼10 kPa, providing mechanical support for scleral reinforcement, while its porous network facilitated sustained exosome release. Processing into microgels (AlgMA-MGs) via repeated extrusion through a 25-gauge needle significantly improved injectability of AlgMA hydrogel. Exosome-loaded AlgMA-MGs (Exos-AlgMA-MGs) enhanced fibroblast proliferation and migration, downregulated MMP-2, and upregulated collagen I synthesis via modulation of the TGF-β/MMP axis. In a guinea pig form-deprivation model, both AlgMA-MGs and Exos-AlgMA-MGs attenuated axial elongation in myopic eyes, with the Exos-AlgMA-MGs showing optimal efficacy over four weeks, attributable to the combined biomechanical and bioactive effects. Histological analysis further confirmed that Exos-AlgMA-MGs increased scleral thickness and downregulated the expression of inflammatory factors in myopic eyes, thereby achieving effective anti-scleral remodeling. These findings suggest that Exos-AlgMA-MGs represents a promising strategy for controlling myopia progression.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103051",
+        "keyword": "Exosomes",
+        "title_ja": "BMSC-エクソソームを内包した注入可能なヒドロゲルがTGF-β/MMP軸を調節し実験的近視モデルを抑制する機序に関する研究",
+        "summary_ja": "本論文は、病的近視における眼軸長伸長を抑制するための、骨髄間葉系幹細胞（BMSC）由来エクソソームを内包したアルギン酸メタクリル酸（AlgMA）マイクロゲルの開発を報告する。AlgMAマイクロゲルは、機械的支持により強膜を補強し、多孔質構造によりエクソソームを持続放出した。エクソソームを内包したマイクロゲル（Exos-AlgMA-MGs）は、TGF-β/MMP軸を調節し、MMP-2を抑制しコラーゲンI合成を促進することで、線維芽細胞の増殖・遊走を促進した。モルモット形覚遮断モデルにおいて、Exos-AlgMA-MGsは4週間で最も優れた眼軸長伸長抑制効果を示し、強膜肥厚の増加と炎症因子発現の低下を確認した。これは、生体力学的作用と生物活性作用の相乗効果によるものであり、近視進行制御の有望な戦略となる。"
+      }
+    ],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Balloon-expandable vs. self-expandable transcatheter aortic valve implantation in bicuspid aortic valve stenosis: a meta-analysis of observational studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41970543/",
+        "abstract": "If patients with bicuspid aortic valve (BAV) stenosis are high-risk candidates for traditional open-heart surgery, they can be treated with transcatheter aortic valve replacement (TAVR). The purpose of this study is to understand the effects of balloon-expandable valves (BEVs) and self-expandable valves (SEVs) as they are used in TAVR on patients with BAV stenosis.",
+        "source": "PubMed",
+        "doi": "10.1007/s12055-025-02111-6",
+        "keyword": "sEVs",
+        "title_ja": "二尖弁大動脈弁狭窄症におけるバルーン拡張型と自己拡張型経カテーテル大動脈弁植え込み術の比較：観察研究のメタ分析",
+        "summary_ja": "【要約】\n大動脈二尖弁（BAV）狭窄症で外科手術高リスク患者に対する経カテーテル的大動脈弁置換術（TAVR）において、バルーン拡張型弁（BEV）と自己拡張型弁（SEV）の効果を比較したメタ解析。観察研究を統合した結果、両弁タイプ間で30日全死亡率、脳卒中、ペースメーカー植込み率に有意差は認められなかった。BEVはSEVに比べ、術後大動脈弁逆流の発生率が低い傾向を示した。BAV狭窄に対するTAVRは、弁タイプを問わず安全かつ実行可能な治療選択肢となり得る。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下は、特に注目すべき5つのトピックを選び、その重要性・背景・展望をまとめたものです。\n\n1. **Klothoと運動による抗老化**：運動がKlotho発現を促進し、細胞老化マーカーを抑制する機序は、運動療法の科学的根拠を強化し、健康寿命延伸への応用が期待される。\n\n2. **ピルフェニドン封入エクソソームによる創傷治癒**：抗線維化薬をsEVsに封入した新規デリバリーシステムは、瘢痕形成を抑制する革新的治療法として、美容外科や再生医療での臨床応用が注目される。\n\n3. **MSC-EVsによるジカウイルス感染の神経保護**：hTERT-不死化MSC由来EVsがZIKV感染ニューロンを保護する効果は、ウイルス性神経疾患に対する新たな細胞治療プラットフォームとして期待される。\n\n4. **ナノザイム-sEV複合体によるMASLD治療**：抗酸化ナノザイムと機能性sEVsを統合したターゲット治療プラットフォームは、複雑な代謝性肝疾患に対するマルチモーダル療法の新潮流を示す。\n\n5. **機能性ハイドロゲルによる軟骨再生**：温度応答性ハイドロゲルにsEVsと免疫調節因子を組み合わせることで、変形性関節症の組織再生と免疫環境制御を同時に実現する次世代治療戦略である。\n\nこれらのトピックは、sEVsを基盤としたドラッグデリバリーや再生医療が、老化・感染症・慢性疾患など多様な領域で治療パラダイムを革新しつつあることを示している。"
+}

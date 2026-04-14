@@ -1,0 +1,175 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Association of genetic ancestry with outcomes and toxicity of idecabtagene vicleucel in patients with relapsed/refractory multiple myeloma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41974660/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1038/s41408-026-01489-9",
+        "keyword": "NK cell therapy",
+        "title_ja": "再発/難治性多発性骨髄腫患者におけるイデカブタゲンビクルセル治療の転帰および毒性と遺伝的祖先との関連",
+        "summary_ja": "本論文は、再発・難治性多発性骨髄腫患者に対するCAR-T療法イデカブタゲンビクレウセル（ide-cel）の有効性・毒性と遺伝的祖先との関連を調査した。結果、アフリカ系祖先（AFR）の患者は、欧州系祖先（EUR）患者と比較し、無増悪生存期間（PFS）が短く、血液学的毒性の発現率が高い傾向が認められた。これは、遺伝的祖先に基づく治療反応性の差異を示唆する重要な知見である。"
+      },
+      {
+        "title": "A Microbial Lipid-ATP Synthase Axis Fuels NK Cell Antitumor Activity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41972457/",
+        "abstract": "The gut microbiota influences systemic immunity and cancer through inter-organ communication, but OMV-mediated mechanisms remain unclear. Here, we uncover a previously unrecognized role of Bacteroides intestinalis in restraining extra-intestinal tumor growth via OMVs enriched in sphingosine (SP), a bioactive lipid that directly binds to ATP5F1A-a subunit of the mitochondrial ATP synthase-to enhance NK cell function. This microbial lipid-ATP synthase interaction augments mitochondrial efficiency, reduces reactive oxygen species (ROS) production, and potently upregulates IFN-γsecretion in NK cells, driving increased cytotoxicity and tumor infiltration. Remarkably, OMVs from B. intestinalis or SP administration greatly inhibit murine tumor growth, while their combination with anti-PD-1 therapy enhances systemic antitumor immunity. This study establishes the specific immune activation ability for gut microbial OMVs and highlights microbiota-derived lipid-based immunotherapies.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.202520095",
+        "keyword": "NK cell therapy",
+        "title_ja": "微生物脂質-ATP合成酵素軸がNK細胞の抗腫瘍活性を活性化",
+        "summary_ja": "**要約**\n腸内細菌Bacteroides intestinalisは、スフィンゴシン（SP）を豊富に含む外膜小胞（OMV）を産生し、これがNK細胞の抗腫瘍活性を増強する。OMV中のSPは、ミトコンドリアATP合成酵素サブユニットATP5F1Aに直接結合し、ミトコンドリア効率を向上、活性酸素種（ROS）産生を抑制、IFN-γ分泌を促進する。これによりNK細胞の細胞傷害性と腫瘍浸潤が亢進し、マウス腫瘍成長を抑制する。B. intestinalis OMVまたはSP投与は、抗PD-1療法と併用で全身性抗腫瘍免疫をさらに増強する。本研究は、腸内細菌由来OMVと脂質を基盤とする新たな免疫療法の可能性を示す。"
+      },
+      {
+        "title": "Bioengineered iPSC-derived human macrophages with increased angiotensin-converting enzyme (ACE) expression suppress solid tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41968179/",
+        "abstract": "The potential of the immune system to decrease cancer progression is widely recognized and has led to the development of innovative anti-cancer immunotherapies. Here, we studied human macrophages derived from genetically engineered iPSCs (iMac) with angiotensin-converting enzyme (ACE) expression regulatable by a doxycycline (dox)-inducible promoter as a novel anti-cancer immunotherapy. Increased ACE expression in iMac (cells now termed ACE-iMac) augments polarization towards an M1 macrophage phenotype characterized by increased production of proinflammatory cytokines, reactive oxygen species, nitric oxide, and an RNA profile indicating an aggressive immune response. ACE-iMac kills tumor cells in vitro significantly better than iMac. In vivo, studies using tumor xenografts for melanoma, breast cancer, and head and neck squamous cell carcinoma (HNSCC) showed a highly significant 3.4- to 7.2-fold reduction in solid tumor size following ACE-expressing ACE-iMac immunotherapy as compared to results with iMac. To further investigate the impact of ACE on human anti-tumor responses, we developed a humanized BLT-NSG mouse model with a fully functional adaptive immune system. Here, ACE-iMac treatment significantly reduced the growth of human melanoma xenografts by enhancing the activation of human T cells and NK cells. In conclusion, enhancing ACE expression in human-derived macrophages (ACE-iMac) greatly amplifies their anti-cancer phenotype, offering a compelling new therapeutic strategy with the potential to improve clinical outcomes for cancer patients.",
+        "source": "PubMed",
+        "doi": "10.1038/s41392-026-02650-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "固体腫瘍の成長を抑制するACE発現増強型バイオエンジニアリングiPSC由来ヒトマクロファージ",
+        "summary_ja": "本研究では、ドキシサイクリン誘導性プロモーターによりACE発現を制御可能なiPSC由来マクロファージ（iMac）を開発した。ACE高発現型（ACE-iMac）はM1型へ極化し、炎症性サイトカインや活性酸素種の産生が増加、抗腫瘍免疫応答を示すRNAプロファイルを獲得した。ACE-iMacは、in vitroで腫瘍細胞殺傷能を増強し、in vivoではメラノーマ、乳癌、頭頸部扁平上皮癌の移植腫瘍サイズを3.4～7.2倍抑制した。ヒト化BLT-NSGマウスモデルでも、ACE-iMacはヒトT細胞・NK細胞の活性化を介してメラノーマ増殖を抑制した。ACE発現増強によるマクロファージの抗腫瘍性増強は、新規がん免疫療法として有望である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Novel insights into the role of Annexin A2 signaling pathway in female reproductive system diseases: from mechanisms to advanced therapies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41979667/",
+        "abstract": "Annexin A2 (ANXA2) is a calcium-dependent protein with high affinity for phospholipids, and its multifunctional nature has drawn increasing attention in the onset and progression of various disorders of the female reproductive system (FRS). Beyond its canonical roles in endocytosis, cytoskeletal dynamics, angiogenesis, and extracellular matrix (ECM) remodeling, ANXA2 signaling integrates phosphorylation events, interactions with S100A10, and fibrinolytic activity to shape reproductive biology. Emerging evidence demonstrates that aberrant ANXA2 expression is implicated in gynecological cancers, endometriosis, adenomyosis, infertility, and pregnancy-related complications, where it modulates processes such as epithelial-mesenchymal transition, trophoblast invasion, vascular integrity, and immune homeostasis. Elevated ANXA2 levels have been correlated with tumor aggressiveness, recurrence risk, chemoresistance, and poor prognosis, while circulating ANXA2 and exosome-derived ANXA2 show promise as minimally invasive biomarkers for benign reproductive system disorders. Despite these advances, the precise molecular mechanisms and context-specific functions of ANXA2 remain incompletely understood, and significant gaps persist regarding its clinical translation. This review synthesizes current knowledge of ANXA2 signaling in female reproductive diseases, highlights its potential diagnostic and therapeutic value, and identifies key challenges and research priorities. A deeper understanding of ANXA2 biology may not only refine disease stratification and prognosis but also open new avenues for targeted interventions, positioning ANXA2 as a promising node for precision medicine in reproductive health.",
+        "source": "PubMed",
+        "doi": "10.1152/ajpendo.00462.2025",
+        "keyword": "Exosomes",
+        "title_ja": "Annexin A2シグナル伝達経路の女性生殖器疾患における役割に関する新たな知見：メカニズムから先進治療まで",
+        "summary_ja": "Annexin A2 (ANXA2)は、リン脂質への高い親和性を持つカルシウム依存性タンパク質であり、女性生殖器系疾患（婦人科癌、子宮内膜症、不妊、妊娠合併症など）の発症・進展に関与する。そのシグナル伝達は、上皮間葉転換、血管形成、免疫恒常性などを制御し、異常発現は腫瘍の悪性度や予後不良と相関する。また、血中やエクソソーム由来ANXA2は非侵襲的バイオマーカーとしての可能性を示す。本総説は、ANXA2の分子機序と診断・治療標的としての価値を整理し、精密医療への応用に向けた課題と展望を提示する。"
+      },
+      {
+        "title": "Cultivation and transplantation of engineered stem cells: A new strategy for promoting repair of central nervous system injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41975601/",
+        "abstract": "Due to the complex pathological microenvironment of nerve injury, the ability for self-repair is extremely limited, posing a major challenge for clinical treatment. Stem cell therapy has brought hope for nerve regeneration; however, natural stem cells have limitations such as low survival rates, poor directional differentiation efficiency, and insufficient secretion of neurotrophic factors. In recent years, the development of engineered stem cells through gene editing, biomaterial co-culture, or pretreatment has emerged as a promising new strategy. This review systematically describes the current application status of engineered stem cells in the repair of nerve injury. It summarizes the pathological mechanisms of nerve injury and the biological processes of endogenous neurogenesis and regeneration, providing a theoretical basis for engineering interventions. It details the engineering strategies used, including engineering methods, cell sources, cell processing technologies, cell delivery vehicles, and cell function regulation. Additionally, it discusses the multiple mechanisms of engineered stem cells, highlighting that their therapeutic effect is not solely dependent on differentiation into neurons or glial cells for replacement. Instead, their therapeutic effects primarily arise from the strong paracrine effects of engineered stem cells: they secrete neurotrophic factors to support the survival of host neurons, regulate the immune microenvironment, release exosomes to deliver repair-related miRNA or proteins, and promote angiogenesis and axon myelination, thereby facilitating the reconstruction of neural circuits. This review provides insights into the application of engineered stem cells in preclinical research, highlighting significant functional improvements in various neurological disease models such as spinal cord injury, stroke, Alzheimer's disease, and Parkinson's disease. Finally, this paper discusses the key challenges facing the clinical translation of this technology, including the risks of tumorigenicity, the long-term survival and safety of transplanted cells, the need for standardized preparation processes, and ethical and regulatory considerations. In summary, engineered stem cells demonstrate therapeutic potential beyond that of natural stem cells through synergistic multi-mechanism effects, providing more precise and efficient strategies for nerve injury repair. This review not only outlines the technological systems and theoretical advancements in this field but also establishes an important academic foundation for promoting the transition from basic research to clinical application. It systematically summarizes the mechanisms and applications of engineered stem cells in neural repair, emphasizing their potential and existing bottlenecks in translational medicine, thus providing a theoretical basis and directional guidance for future research.",
+        "source": "PubMed",
+        "doi": "10.4103/NRR.NRR-D-25-01121",
+        "keyword": "Exosomes",
+        "title_ja": "**培養および移植による人工幹細胞の活用：中枢神経損傷修復促進の新戦略**",
+        "summary_ja": "中枢神経損傷の修復促進に向け、遺伝子編集や前処理により機能を強化した「エンジニアリング幹細胞」の応用が新戦略として注目される。従来の幹細胞療法が抱える生存率・分化効率の低さ等の課題に対し、エンジニアリング幹細胞は神経栄養因子の分泌、免疫調節、エクソソームを介した修復因子の運搬など、強力な傍分泌作用を中心とした多機序により治療効果を発揮する。脊髄損傷や脳卒中などの疾患モデルで機能改善が確認される一方、腫瘍化リスクや長期安全性、標準化プロセスの確立など、臨床応用に向けた課題も残されている。"
+      },
+      {
+        "title": "An exosome-related gene signature predicts prognosis, immune suppression, and therapeutic sensitivity in luminal breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41975138/",
+        "abstract": "Luminal breast cancer has a high incidence and significant heterogeneity. Exosomes, as key mediators of intercellular communication, are involved in the tumor process, but the related genes in Luminal breast cancer regarding prognosis and mechanism remain unclear.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-04990-6",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム関連遺伝子シグネチャーは、ルミナル型乳がんの予後、免疫抑制、治療感受性を予測する。",
+        "summary_ja": "本論文は、ルミナル型乳癌におけるエクソソーム関連遺伝子の予後・機能的意義を検討した研究である。エクソソームは細胞間コミュニケーションを介して腫瘍環境形成に関与する。研究では、エクソソーム関連遺伝子に基づく予後予測シグネチャーを構築し、その高リスク群は予後不良、免疫抑制環境の亢進、および化学療法感受性の低下と関連することを明らかにした。このシグネチャーは、ルミナル型乳癌の予後予測と治療戦略の個別化に有用なバイオマーカーとなる可能性を示唆している。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "The therapeutic potential of exosomes derived from mesenchymal stem cells for premature ovarian failure: A systematic.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41979449/",
+        "abstract": "This review evaluates mesenchymal stem cell-derived exosomes (MSC-Exos) for treating premature ovarian failure (POF). A comprehensive search was conducted across five databases, including PubMed, Embase, and Web of Science (WoS), yielding 17 English-language studies published between 2016 and 2025. Studies primarily using animal and in vitro models assessed the therapeutic effects and mechanisms of MSC-Exos from diverse sources. MSC-Exos significantly elevated estrogen levels, reduced follicle-stimulating hormone (FSH), increased antral follicle counts, and restored estrous cyclicity. Specifically, BMSC-Exos activated the PI3K/AKT pathway via miRNAs to suppress granulosa cell apoptosis; hUCMSC-Exos mitigated cellular senescence and autophagy; ADSC-Exos promoted follicular development through SMAD and SIRT1/FOXO1; PMSC-Exos attenuated ROS damage by improving mitochondrial function; AFSC-Exos together with MenSC-Exos enhanced oocyte maturation via the P53 pathway. Notably, perinatal exosomes showed 18-32% greater efficacy in functional recovery than adult-tissue counterparts with fewer doses. MSC-Exos present a promising therapeutic strategy for POF by targeting apoptosis, autophagy, angiogenesis, and oxidative stress. Perinatal-derived exosomes offer superior potential due to their non-invasive collection and minimal ethical concerns. Nonetheless, challenges pertaining to heterogeneity, long-term safety, and standardized manufacturing necessitate resolution through multicenter clinical trials to advance clinical applicability..",
+        "source": "PubMed",
+        "doi": "10.29063/ajrh2026/v30i7.11",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来エクソソームの早発卵巣不全に対する治療的可能性：系統的レビュー",
+        "summary_ja": "本論文は、間葉系幹細胞由来エクソソーム（MSC-Exos）の早発卵巣不全（POF）治療への応用を系統的にレビューしたものである。動物・in vitroモデルを用いた17件の研究から、MSC-Exosはエストロゲン上昇、FSH低下、卵胞数回復等の効果を示した。作用機序は細胞源により異なり、PI3K/AKT経路の活性化、細胞老化・自食の抑制、卵胞発達促進、酸化ストレス軽減等、多角的に作用する。特に周産期由来エクソソームは、成人組織由来より高い回復効果を示した。MSC-Exosは有望な治療戦略であるが、異質性、長期安全性、製造標準化等の課題解決に向けた臨床試験が必要である。"
+      },
+      {
+        "title": "[Progress in regulating stem cell functions for repair and regeneration of craniomaxillofacial tissues].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41978397/",
+        "abstract": "Craniofacial tissue regeneration remains a pivotal challenge in oral and regenerative medicine. Mesenchymal stem/stromal cells (MSCs) are central effector cells in this process, and their functions are regulated by a sophisticated, multidimensional network. This article provides a comprehensive overview of the regulatory mechanisms governing MSCs in craniofacial regeneration. We highlight the interactive roles of metabolism, epigenetics, and immunity in precisely controlling MSC stemness, lineage-specific differentiation, and immunomodulatory capabilities. Key regulatory dimensions are explored in detail. Metabolic reprogramming, such as serine one-carbon metabolism and mitochondrial dynamics under hyperosmotic stress, couples energy production with epigenetic modifications to dictate MSC fate. The gasotransmitter hydrogen sulfide (H",
+        "source": "PubMed",
+        "doi": "",
+        "keyword": "Exosomes",
+        "title_ja": "頭蓋顎顔面組織の修復と再生のための幹細胞機能制御の進展",
+        "summary_ja": "頭蓋顎顔面組織の再生は、再生医療における重要な課題である。間葉系幹細胞（MSCs）はその中心的な効果細胞であり、その機能は複雑な多次元ネットワークにより制御されている。本論文は、代謝再プログラミング（例：セリン一炭素代謝、高浸透圧ストレス下でのミトコンドリア動態）、エピジェネティクス、免疫の相互作用に焦点を当て、これらの機構がMSCの幹細胞性、系統特異的分化、免疫調節能を精密に制御することを概説する。特に、ガス伝達物質である硫化水素（H₂S）の役割を含め、エネルギー産生とエピジェネティック修飾を連動させてMSCの運命を決定する統合的な制御メカニズムを詳細に探る。"
+      },
+      {
+        "title": "Electroactive hydrogel with human umbilical cord mesenchymal stem cell-derived exosomes remodels the microenvironment of spinal cord lesion sites and rebuilds neural circuits after injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41975619/",
+        "abstract": "Spinal cord injury remains a devastating condition with no curative therapies currently available. Existing treatments are largely limited to symptomatic management and fail to address the complex pathophysiological microenvironment that hinders neural regeneration. Hydrogels with appropriate conductive properties offer potential new therapeutic avenues for treating spinal cord injury and can appropriately adjust the pathological and electrophysiological microenvironment at the injury site. Exosomes secreted by human umbilical cord mesenchymal stem cells, which can cross the blood-spinal cord barrier, have effects on repairing tissue damage and promoting cell differentiation. Here, we developed a conductive hydrogel, integrating gelatin methacrylate with polyaniline and exosomes derived from human umbilical cord mesenchymal stem cells, which exhibits excellent biocompatibility, thereby facilitating neuronal repair by activating the Wnt/β-catenin signaling pathway and improving the pathological environment at the lesion site. This hydrogel can modulate the differentiation of neural stem cells into neurons and oligodendrocytes in vitro, promoting the proliferation of neural cells. In vivo, it can improve the motor and physiological functions of rats with spinal cord injury by inhibiting scar formation and promoting nerve and myelin regeneration. The novel conductive composite hydrogel, developed in the present study and capable of loading exosomes, offers a new therapeutic strategy for spinal cord injury with promising application prospects.",
+        "source": "PubMed",
+        "doi": "10.4103/NRR.NRR-D-25-01752",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト臍帯間葉系幹細胞由来エクソソーム含有電位応答性ハイドロゲルが脊髄損傷部位の微小環境を再構築し神経回路を再生",
+        "summary_ja": "**要約**\n脊髄損傷は、複雑な病理環境により神経再生が阻害され、根治的治療法が未確立である。本研究では、ゼラチンメタクリル酸とポリアニリンからなる導電性ハイドロゲルに、ヒト臍帯間葉系幹細胞由来エクソソームを組み込んだ複合材料を開発した。この材料は優れた生体適合性を示し、損傷部位の病理環境を改善。Wnt/β-カテニン経路を活性化し、神経幹細胞のニューロン・オリゴデンドロサイトへの分化を促進する。in vivoでは瘢痕形成を抑制し、神経・髄鞘再生を促すことで、脊髄損傷ラットの運動機能を改善した。本材料は、エクソソーム搭載可能な新規治療戦略として応用が期待される。"
+      },
+      {
+        "title": "Angiotensin II impairs the remyelination mediated by brain endothelial cell-derived exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41975522/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s40478-026-02288-w",
+        "keyword": "Exosomes",
+        "title_ja": "アンジオテンシンIIは脳内皮細胞由来エクソソームを介した再髄鞘化を損なう。",
+        "summary_ja": "**タイトル：アンジオテンシンIIは脳内皮細胞由来エクソソームを介した髄鞘再生を障害する**\n\n**要約：**\n本研究は、高血圧関連分子であるアンジオテンシンIIが、脳血管内皮細胞から分泌されるエクソソーム（細胞外小胞）の機能を変化させ、その結果、オリゴデンドロサイト前駆細胞の分化と髄鞘再生（再髄鞘化）を阻害することを明らかにした。アンジオテンシンIIは、内皮細胞エクソソーム内のmiRNAプロファイルを変化させ、特にmiR-204-5pを増加させた。このmiR-204-5pが標的遺伝子であるSIRT1の発現を抑制し、再髄鞘化障害を引き起こすメカニズムが示された。本成果は、高血圧が神経変性疾患のリスク因子である機序の一端を、血管-神経系の細胞間コミュニケーションの観点から解明するものである。"
+      },
+      {
+        "title": "Small vesicles, big potential: A review of innovative exosome delivery and molecular mechanisms in preclinical myocardial infarction models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41975504/",
+        "abstract": "Exosomes have emerged as promising therapeutic carriers, with over 40 000 scientific publications reflecting their exponential growth in biomedical research. Cardiovascular diseases (CVDs) are the leading cause of mortality worldwide. Among these, myocardial infarction (MI) represents the most prevalent and devastating form, contributing significantly to global morbidity and mortality. Reducing the mortality and long-term complications associated with MI is therefore both necessary and urgent. Exosomes, naturally occurring extracellular vesicles, offer a promising cell-free alternative for drug delivery and cardiac repair and regeneration after ischemic injury due to their ability to transport bioactive proteins, lipids, and RNA. This narrative review summarizes recent advancements in exosome-based therapeutics for ischemic heart disease, focusing on the efficacy of various animal models. Various approaches are being studied to optimize exosome-based therapies, including methods to enhance their stability, targeting ability, and bioavailability in the cardiovascular system, highlighting the potential of exosomes not only as drug delivery vehicles but also as regenerative mediators capable of promoting myocardial repair and reducing MI. With continued advances in exosome technology and a deeper understanding of their biological functions, there is growing optimism that these vesicles could pave the way for more effective and less invasive treatments for cardiovascular diseases in the near future.",
+        "source": "PubMed",
+        "doi": "10.1002/ame2.70199",
+        "keyword": "Exosomes",
+        "title_ja": "小胞体、大いなる可能性：前臨床的心筋梗塞モデルにおける革新的エクソソーム送達と分子メカニズムのレビュー",
+        "summary_ja": "**要約：**\n心筋梗塞（MI）は、世界的な主要死因である心血管疾患の中で最も罹患率・死亡率が高い。エクソソームは、生体由来の細胞外小胞であり、タンパク質、脂質、RNAなどの生物活性物質を運搬できるため、虚血性心疾患に対する細胞フリーの治療法・薬剤デリバリーキャリアとして注目されている。本総説は、前臨床動物モデルにおけるエクソソーム療法の進展を概説する。安定性、標的指向性、バイオアベイラビリティの向上を目指す最適化手法が研究され、エクソソームは薬剤運搬体としてだけでなく、心筋修復を促進する再生誘導体としての可能性も示されている。技術の進歩と生物学的理解の深化により、エクソソームは心血管疾患の新たな治療法を拓くことが期待される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Molecularly Imprinted Nanozyme Intelligent Array Sensing Platform Realizes the Enrichment and Quantitative Detection of Small Extracellular Vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41906645/",
+        "abstract": "As tumor-associated biomarkers, proteins on small extracellular vesicles (sEVs) play a critical role in revealing tumor subtypes and disease progression. Nevertheless, the rapid isolation of sEVs and the quantitative detection of their surface proteins remain challenging. In this study, we developed a nanozyme (PB-MIP-PEG) array sensing platform based on molecular imprinting technology (MIT), which can efficiently enrich sEVs and simultaneously detect three proteins: CD20, CD19, and PD-L1. Fe",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.5c06664",
+        "keyword": "sEVs",
+        "title_ja": "分子刷り込みナノ酵素インテリジェントアレイセンシングプラットフォームによる小型細胞外小胞の濃縮と定量検出の実現。",
+        "summary_ja": "本論文では、腫瘍関連バイオマーカーとして重要な小細胞外小胞（sEVs）表面タンパク質の迅速な分離・定量検出を実現するため、分子インプリント技術（MIT）を応用したナノザイム（PB-MIP-PEG）アレイセンシングプラットフォームを開発した。このプラットフォームは、sEVsを効率的に濃縮しつつ、CD20、CD19、PD-L1という3種類のタンパク質を同時に定量検出可能であり、腫瘍サブタイプの解明や疾患進行のモニタリングへの応用が期待される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. 腸内細菌由来OMVによるNK細胞活性化**\n腸内細菌Bacteroides intestinalisが産生する外膜小胞（OMV）中のスフィンゴシンが、NK細胞の抗腫瘍活性を増強する新規メカニズムを解明。腸内環境と全身免疫の連関を示し、微生物叢を標的とした免疫療法開発に道筋。\n\n**2. 遺伝的祖先とCAR-T療法効果の関連**\n再発/難治性多発性骨髄腫に対するide-cel治療で、アフリカ系祖先患者は欧州系と比べ無増悪生存期間が短い可能性を示唆。治療効果の個人差に遺伝的背景が関与することを示し、個別化医療の重要性を強調。\n\n**3. エクソソーム関連遺伝子による乳癌予後予測**\nルミナル型乳癌において、エクソソーム関連遺伝子シグネチャーが予後、免疫抑制環境、治療感受性を予測可能であることを示した。エクソソームを介した腫瘍微小環境形成の理解と、新たな予後バイオマーカーとしての応用に期待。\n\n**4. 導電性ハイドロゲルとエクソソーム複合材料による脊髄再生**\nヒト臍帯MSC由来エクソソームを導電性ハイドロゲルに組み込むことで、脊髄損傷部位の微小環境を改善し神経回路を再建。細胞フリー療法と生体材料工学の融合により、難治性中枢神経損傷の治療戦略を革新。\n\n**5. 分子インプリントナノザイムによるsEVs高感度検出**\n小細胞外小胞（sEVs）表面タンパク質の迅速な分離・定量を可能にする新規センシングプラットフォームを開発。がん診断などにおける液体生検の実用化に向け、sEVsの簡便・高感度検出技術の進展に寄与。"
+}

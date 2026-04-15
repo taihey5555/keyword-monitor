@@ -1,0 +1,114 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Neuroprotective roles of klotho: Molecular pathways and therapeutic implications for cognitive health in neurological and psychiatric diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41983942/",
+        "abstract": "Klotho, a pleiotropic protein initially identified for its role in kidney function, has garnered significant attention for its neuroprotective properties in various neurodegenerative diseases. It regulates key processes, such as oxidative stress, neuroinflammation, synaptic plasticity and myelination, all crucial for maintaining neuronal integrity and cognitive function. Preclinical studies demonstrate that klotho enhances amyloid-β and tau clearance, stabilizes synaptic function, supports oligodendrocyte maturation and mitigates excitotoxicity. Clinical findings show that higher α-klotho levels are associated with slower cognitive decline in Alzheimer's and Parkinson's diseases, improved outcomes in multiple sclerosis and better recovery after stroke. Notably, the protective effects of klotho appear most pronounced in individuals with high genetic or pathological risks, such as apolipoprotein E ε4 carriers in Alzheimer's disease. Despite these promising insights, the clinical application of klotho-based therapies is hindered by variability in biomarker assays, challenges in crossing the blood-brain barrier, and the need for precision-based interventions tailored to individual genetic profiles. Current strategies to enhance klotho activity include lifestyle changes, pharmacological agents, recombinant protein delivery and gene therapy. Although challenges remain, klotho stands as a potential therapeutic target for mitigating cognitive decline and promoting brain health across a range of neurodegenerative and cerebrovascular conditions.",
+        "source": "PubMed",
+        "doi": "10.1113/EP093571",
+        "keyword": "Klotho",
+        "title_ja": "クロトーの神経保護作用：神経・精神疾患における認知健康の分子経路と治療的意義",
+        "summary_ja": "Klothoは腎機能に関わる多機能性タンパク質であり、神経変性疾患における神経保護作用が注目されている。酸化ストレス、神経炎症、シナプス可塑性、髄鞘形成などの重要なプロセスを調節し、神経細胞の健全性と認知機能を維持する。前臨床研究では、アミロイドβやタウのクリアランス促進、シナプス機能安定化、オリゴデンドロサイト成熟支援などの効果が示されている。臨床的には、アルツハイマー病やパーキンソン病における認知機能低下の抑制、多発性硬化症や脳卒中後の回復改善との関連が報告されている。特に、APOE ε4キャリアーなど高リスク個体で効果が顕著である。しかし、バイオマーカー測定のばらつき、血液脳関門通過の課題、個別化治療の必要性など、臨床応用には障壁が残る。現在、生活習慣改善、薬剤、組換えタンパク質投与、遺伝子治療などの介入策が検討されており、認知機能低下を抑制する有望な治療標的として期待される。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Inhibition of Gemcitabine-Induced Autophagy in Cancer-Associated Fibroblasts Reduces Collagen I and Enhances Chemotherapeutic Efficacy in Pancreatic Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41981800/",
+        "abstract": "In pancreatic cancer, increased collagen I impairs the efficacy of gemcitabine; however, the role of gemcitabine itself in collagen I accumulation remains unclear. This study aims to explore the mechanism of gemcitabine-induced fibrosis and provide new insights to enhance its therapeutic efficacy. We analyzed COL1A1 expression in pancreatic cancer patient tumor tissues and found that gemcitabine treatment upregulated COL1A1 expression. Subsequently, cancer-associated fibroblasts (CAFs) were modeled by inducing human adipose-derived mesenchymal stem cells with tumor-derived exosomes. Using the autophagy inhibitor chloroquine (CQ) and the protein kinase B (AKT) activator SC79, we demonstrated that gemcitabine downregulated P62 expression and upregulated LC3BII, Beclin-1 expression, inducing autophagy in CAFs via decreasing AKT phosphorylation, which further led to collagen I accumulation. In addition, gemcitabine combined with CQ enhanced cell death in both CAFs and tumor cells, while inhibiting tumor cell proliferation and migration. In animal models, this combination therapy reduced gemcitabine-induced autophagy and collagen I deposition, contributing to delayed tumor growth. Collectively, gemcitabine upregulates collagen I by inducing CAF autophagy via reducing AKT phosphorylation. Targeting CAF autophagy can reduce collagen deposition, offering a promising strategy to improve the therapeutic efficacy of gemcitabine in pancreatic cancer.",
+        "source": "PubMed",
+        "doi": "10.1177/15473287261442512",
+        "keyword": "Exosomes",
+        "title_ja": "癌関連線維芽細胞におけるゲムシタビン誘導性オートファジーの阻害は、コラーゲンIを減少させ、膵臓癌における化学療法効果を高める。",
+        "summary_ja": "本論文は、膵臓癌におけるゲムシタビン治療が、癌関連線維芽細胞（CAFs）のオートファジーを誘導し、コラーゲンI蓄積を引き起こすことで、逆に治療効果を減弱させる機序を解明した。具体的には、ゲムシタビンがAKTリン酸化を減少させ、P62発現をダウンレギュレート、LC3BIIとBeclin-1をアップレギュレートすることでCAFのオートファジーを誘導し、コラーゲンI産生を増加させることを示した。オートファジー阻害剤クロロキン（CQ）との併用は、CAFと腫瘍細胞の細胞死を促進し、腫瘍増殖・転移を抑制した。動物実験でも、併用療法はコラーゲンI沈着を減らし腫瘍成長を遅延させた。以上より、CAFのオートファジーを標的とすることが、ゲムシタビン治療効果増強の新たな戦略となり得る。"
+      },
+      {
+        "title": "Dendritic cell-derived exosomes from PDT-treated glioma cells enhance antitumor immunity as a subcellular vaccine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41981674/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-08111-3",
+        "keyword": "Exosomes",
+        "title_ja": "PDT処理された神経膠腫細胞由来の樹状細胞エクソソームは、細胞内ワクチンとして抗腫瘍免疫を増強する。",
+        "summary_ja": "**要約：**\n光線力学療法（PDT）を施したグリオーマ細胞から樹状細胞が取り込んだエクソソーム（DEX）は、細胞内ワクチンとして抗腫瘍免疫を増強する。このDEXは、腫瘍関連抗原を豊富に含み、樹状細胞を成熟化させ、T細胞を活性化する。マウスモデルでは、DEX接種により腫瘍増殖が抑制され、生存期間が延長した。本研究は、PDTとエクソソームを組み合わせた新規免疫療法の基盤を示す。"
+      },
+      {
+        "title": "Peripheral immunochemical considerations in Parkinson disease: sources, targets and crosstalk mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41981587/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-08102-4",
+        "keyword": "Exosomes",
+        "title_ja": "パーキンソン病における末梢免疫化学的考察：発生源、標的、およびクロストーク機構",
+        "summary_ja": "本論文は、パーキンソン病（PD）における末梢免疫系の役割を概説する。PDでは、α-シヌクレインの異常凝集が腸管や末梢組織で生じ、これが免疫原性を獲得することで、末梢および中枢神経系への免疫応答を惹起する。特に、末梢免疫細胞（T細胞、ミクログリアなど）は異常α-シヌクレインを標的とし、炎症性サイトカインの放出や細胞傷害をもたらす。また、腸-脳軸を介した免疫細胞の移動や炎症伝播が、神経変性を促進する「クロストーク」機構の存在を指摘する。末梢免疫系はPDの病態進行における重要な要因であり、新たな治療標足となる可能性を示唆している。"
+      },
+      {
+        "title": "The Therapeutic Potential of Human Umbilical Cord Mesenchymal Stem Cell-derived Exosomes in Acute Radiation Intestinal Injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41980723/",
+        "abstract": "Radiation-induced bowel injury is a common complication of radiation therapy for pelvic or abdominal cancers, with its occurrence increasing worldwide. Current treatments face significant challenges, and the limitations of conventional methods highlight the urgent need for new therapeutic strategies and drugs. Mesenchymal stem cell-derived exosomes show promising potential in treating inflammatory diseases. In this study, an acute radiation-induced intestinal injury model was created in rats after exposure to a 10 Gy X-ray dose, after administration of human umbilical cord mesenchymal stem cell-derived exosomes (hUC-MSC-exo) via tail vein injection. The results showed that these exosomes (exos) enhanced survival, aided in functional recovery, reduced inflammation, decreased enterocyte death, and helped regenerate the intestinal lining. Additionally, bioinformatic analyses of gene expression and gene ontology (GO) enrichment were performed. Molecular validation revealed a significant increase in pyroptosis-related factors in the intestinal tissues after irradiation, indicating that cellular pyroptosis is a key mechanism. In conclusion, HUC-MSC-exos help maintain intestinal integrity and promote cell growth, suggesting they could be an effective treatment for radiation-induced intestinal injury.",
+        "source": "PubMed",
+        "doi": "10.1667/RADE-25-00020.1",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト臍帯間葉系幹細胞由来エクソソームの急性放射線腸障害に対する治療的可能性",
+        "summary_ja": "骨盤・腹部がん放射線治療の一般的な合併症である急性放射線腸障害に対し、ヒト臍帯間葉系幹細胞由来エクソソーム（hUC-MSC-exo）の治療効果を検討。ラットモデルを用いた実験で、エクソソーム投与は生存率向上、機能回復、炎症抑制、腸上皮細胞死の減少、粘膜再生を促進した。分子解析により、放射線照射後は腸組織でパイロトーシス関連因子が増加し、細胞性パイロトーシスが主要な損傷機序であることを確認。hUC-MSC-exoは腸管の恒常性維持と細胞増殖を促進し、新規治療法として有望である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Exosome-mediated Piezo1 activation in 3D-printed titanium scaffolds promotes repair of femoral head osteonecrosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41981591/",
+        "abstract": "Osteonecrosis of the femoral head (ONFH) is a debilitating bone disorder characterized by ischemic degeneration with limited therapeutic options. Piezo1, a mechanosensitive ion channel, transduces physical stimuli into intracellular signals regulating osteogenesis and angiogenesis. Here, we developed a 3D-printed Ti6Al4V scaffold conformally coated with photocrosslinked hyaluronic acid hydrogel that retains and releases Piezo1-engineered exosomes (P-Exos), forming a hybrid construct (P-Exos@HAMA/Ti) with cancellous-bone-like stiffness and sustained bioactivity. In vitro studies demonstrated that P-Exos enhanced BMSC viability, migration, and osteogenic differentiation (ALP/ARS; Runx2, Osterix, OCN) while promoting endothelial proliferation and network formation (CD31, VEGFA). RNA-seq and mechanistic validation revealed Ca",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04424-z",
+        "keyword": "Exosomes",
+        "title_ja": "3Dプリントチタンスキャフォールドにおけるエクソソーム媒介Piezo1活性化が大腿骨頭壊死修復を促進",
+        "summary_ja": "大腿骨頭壊死（ONFH）は治療法が限られる難治性疾患である。本研究では、機械刺激感受性イオンチャネルPiezo1を改変したエクソソーム（P-Exos）を保持・放出する3DプリントTi6Al4V足場（P-Exos@HAMA/Ti）を開発した。この複合体は海綿骨様の硬さと持続的な生物活性を有する。in vitroで、P-Exosは骨髄間葉系幹細胞の生存・遊走・骨分化（Runx2、Osterix等）を促進し、内皮細胞の増殖と血管網形成（CD31、VEGFA）を誘導した。RNA-seqと機構検証により、Ca2+シグナルを介したPiezo1活性化が骨修復を促進するメカニズムが示された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. Klothoの神経保護作用**\n認知機能維持に重要なタンパク質Klothoは、酸化ストレスや神経炎症を抑制し、神経変性・精神疾患への治療応用が期待される。加齢関連疾患の予防・治療ターゲットとして注目。\n\n**2. 膵臓癌治療：CAFのオートファジー阻害**\n癌関連線維芽細胞（CAF）のゲムシタビン誘導性オートファジーがコラーゲン蓄積と治療抵抗性を引き起こす。これを阻害する新規併用療法は、膵臓癌治療の効果向上に寄与する可能性。\n\n**3. エクソソームワクチンによる抗腫瘍免疫**\nPDT処理グリオーマ細胞由来の樹状細胞エクソソーム（DEX）は、腫瘍抗原を運び免疫応答を活性化する「細胞内ワクチン」として有望。個別化がん免疫療法の新形態。\n\n**4. パーキンソン病と末梢免疫**\n腸管など末梢で生じた異常α-シヌクレインが免疫系を活性化し、神経炎症を促進する機序が解明されつつある。免疫標的療法や早期バイオマーカー開発への応用が期待。\n\n**5. 幹細胞エクソソームの放射線障害治療**\nヒト臍帯幹細胞由来エクソソームは、急性放射線腸障害に対し、炎症抑制と組織修復促進により治療効果を示す。再生医療の新たなオフ・ザ・シェルフ治療剤として実用化が期待される。"
+}

@@ -1,0 +1,164 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "PTPN1/PTPN2 inhibition improves NK cancer therapy by enhancing IL-2 and mitigating TGFβ1 responses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41986797/",
+        "abstract": "Natural killer (NK) cells are promising candidates for allogeneic anti-cancer immunotherapy. However, their cytolytic activity is often suppressed by the tumor microenvironment. We demonstrate that genetic silencing or pharmacological dual inhibition of protein tyrosine phosphatases PTPN1 and PTPN2 (PTPN1/N2) in NK cells significantly enhances anti-tumor cytolytic activity both in vitro and in vivo. This augmented NK cell activity is mediated by increased expression of early activation markers and the production of effector molecules such as granzyme B and interferon-gamma (IFN-γ). Notably, this elevated cell cytolytic response remains substantially resistant to the immunosuppressive effects of TGFβ-1, a cytokine known to dampen NK cell activity and commonly present in the tumor microenvironment. Mechanistically, targeting PTPN1/N2 in NK cells promotes JAK/STAT signaling pathways and sensitizes cells to IL-2 stimulation. Importantly, dual inhibition of PTPN1/N2 markedly enhances the cytolytic activity of cord blood NK cells against patient-derived glioblastoma cells, highlighting the potential of this approach for future therapeutic applications. These findings provide compelling evidence that dual targeting of PTPN1/N2 could significantly improve the efficacy of therapeutic \"off-the-shelf\" NK cell-based immunotherapy.",
+        "source": "PubMed",
+        "doi": "10.1038/s44319-026-00745-0",
+        "keyword": "NK cell therapy",
+        "title_ja": "PTPN1/PTPN2阻害は、IL-2の増強とTGFβ1応答の緩和によりNK細胞がん治療を改善する",
+        "summary_ja": "本論文は、がん免疫療法におけるNK細胞の抗腫瘍活性を増強する新規手法を報告する。腫瘍微小環境による抑制を克服するため、チロシンリン酸酵素PTPN1とPTPN2（PTPN1/N2）を遺伝的または薬理学的に二重阻害すると、NK細胞の活性化マーカーやグランザイムB、IFN-γの発現が増加し、抗腫瘍細胞傷害活性がin vitro/in vivoで著しく向上した。特に、阻害によりJAK/STATシグナルが促進されIL-2刺激への感受性が高まる一方、免疫抑制性サイトカインTGFβ-1の影響を受けにくくなった。臍帯血NK細胞を用いた患者由来膠芽腫細胞への効果も確認され、本アプローチが「オフザシェルフ」NK細胞療法の有効性を高める可能性を示した。"
+      },
+      {
+        "title": "Immunotherapy for pediatric solid tumors: overcoming biological barriers through rational multimodal combinations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41984108/",
+        "abstract": "Pediatric solid tumors remain among the most treatment-refractory childhood malignancies, defined by biological features that have largely resisted the immunotherapeutic advances transforming adult oncology. Exceptionally low tumor mutational burden, sparse neoantigen landscapes, and profoundly immunosuppressive tumor microenvironments collectively undermine the T cell-dependent mechanisms on which most current immunotherapies depend. Yet the field is undergoing a meaningful shift. Anti-GD2 monoclonal antibodies have established a survival benchmark in high-risk neuroblastoma, and next-generation antibody-drug conjugates and bispecific T cell engagers targeting GD2, B7-H3, and GPC2 are extending the reach of antibody-based approaches across pediatric histologies. CAR T cell therapies have demonstrated clinical feasibility against multiple targets, with advanced engineering strategies, including cytokine armoring, bispecific constructs, and locoregional delivery, beginning to address fundamental barriers such as poor tumor infiltration, limited persistence, and antigen escape. Immune checkpoint inhibitors, while largely ineffective as monotherapy in unselected populations, induce durable responses in molecularly defined subsets such as mismatch repair-deficient and hypermutated tumors. Emerging platforms, including oncolytic virotherapy, NK cell engagers, and neoantigen vaccines, offer rational strategies to convert immunologically cold tumors into treatment-responsive phenotypes. Together, these advances point toward a future of combination immunotherapy tailored to the distinct immune biology of childhood cancers.",
+        "source": "PubMed",
+        "doi": "10.1007/s00262-026-04384-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "小児固形腫瘍に対する免疫療法：合理的多様式併用による生物学的障壁の克服",
+        "summary_ja": "小児固形腫瘍は、腫瘍変異負荷の低さ、ネオ抗原の乏しさ、免疫抑制性微小環境など、T細胞依存性免疫療法の効果を妨げる生物学的障壁を持つ。しかし、抗GD2抗体は神経芽腫で有効性を示し、次世代抗体薬や二重特異性T細胞誘導薬が開発中である。CAR-T療法も、浸潤性・持続性・抗原逸脱への対策とともに進展している。免疫チェックポイント阻害薬は、ミスマッチ修復欠損腫瘍など特定群で有効。腫瘍溶解性ウイルス療法やネオ抗原ワクチン等の新規プラットフォームにより、免疫学的に「冷たい」腫瘍を「熱い」腫瘍へ変換する多剤併用療法の開発が進んでいる。"
+      },
+      {
+        "title": "Base Editing of TIGIT Reprograms CD155 Signaling in Natural Killer Cells to Enhance Cancer Immunotherapy Efficacy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41982126/",
+        "abstract": "NK cells hold great promise for cancer immunotherapy owing to their intrinsic capacity to recognize and eliminate malignant cells. Nevertheless, broad clinical deployment is hindered by NK-cell properties like poor expansion and refractoriness to genetic modification, as well as by tumor immune-evasion mechanisms. In this study, we applied base-editing technology to precisely modify signal transduction in primary human NK cells, which achieved a high editing efficiency of the T-cell immunoreceptor with Ig and ITIM domains (TIGIT) gene (>90%) in peripheral blood-derived NK (TIGIT BE-NK) cells. TIGIT editing forced tumor-derived CD155 to engage CD226 and thereby converted an inhibitory signal into an activating one that amplified NK-cell cytotoxicity. TIGIT BE-NK cells specifically targeted cancer cells across multiple tumor types and were validated as safe, with minimal off-target effects. Cryopreserved TIGIT BE-NK cells exhibited similar antitumor activity as fresh TIGIT BE-NK cells, supporting their potential as an \"off-the-shelf\" therapy. Combining TIGIT BE-NK cells and IL2 further improved antitumor immunity. Together, these results underscore the feasibility of using base editing to modify NK cells and significantly enhance their therapeutic potential for treating patients with cancer.",
+        "source": "PubMed",
+        "doi": "10.1158/0008-5472.CAN-25-0733",
+        "keyword": "NK cell therapy",
+        "title_ja": "TIGITの塩基編集によるCD155シグナル再プログラミングがナチュラルキラー細胞の癌免疫療法効果を増強",
+        "summary_ja": "本論文は、がん免疫療法におけるNK細胞の治療効果を、塩基編集技術により増強する手法を報告した。TIGIT遺伝子を高効率（>90%）で編集したヒトNK細胞（TIGIT BE-NK細胞）を作製。これにより、腫瘍細胞上のCD155が抑制性シグナルを介さず、活性化シグナルを担うCD226に結合するよう変換され、NK細胞の細胞傷害活性が増幅された。TIGIT BE-NK細胞は複数のがん種を標的とし、オフターゲット効果も最小で安全であった。凍結保存後も活性を維持し、IL-2との併用でさらに抗腫瘍効果が向上した。塩基編集によるNK細胞の改変は、実用的なオフ・ザ・シェルフ療法としての可能性を示す。"
+      },
+      {
+        "title": "Human Cytomegalovirus Infection in Haematopoietic Stem Cell Transplant Recipients and CAR T Cell Recipients - PART 1: Risk Factors, Clinical Impact and Immune Response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41982051/",
+        "abstract": "Human cytomegalovirus (HCMV) is one of the most important opportunistic pathogens in immunocompromised individuals, including allogeneic haematopoietic stem cell transplant (allo-HSCT) recipients. In allo-HSCT, HCMV seropositivity of the recipient and donor is associated with inferior survival outcomes, and post-transplant HCMV reactivation is a frequent complication, necessitating close viral monitoring and pre-emptive and prophylactic antiviral therapies. We present a review in two parts that focuses on the risk factors, immunological responses and treatment strategies for HCMV infection in allo-HSCT recipients, and also explores current evidence surrounding HCMV reactivation in recipients of chimeric antigen receptor T cell (CAR T) therapies. In the current article (Part 1), the impact of HCMV infection in allo-HSCT and CAR T cell recipients is investigated. HCMV reactivation in allo-HSCT recipients is associated with increased mortality, graft-versus-host disease (GvHD) and other microbial infections. Prominent alterations in T cell and natural killer (NK) cell recovery represent distinct immune reconstitution features associated with HCMV reactivation. Immunological biomarkers to predict HCMV complications have been proposed and their adoption in future immune monitoring strategies may allow individualised risk assessment to guide antiviral treatment decisions. The clinical significance of HCMV reactivation after CAR T cell infusion is yet to be fully determined. Continued viral surveillance and investigation of viral dynamics with correlative studies of immune function are needed in this patient population. Current and emerging strategies for treatment and prevention of HCMV complications in allo-HSCT, including use of letermovir prophylaxis and adoptive HCMV-specific T cell therapies, are explored in the following article (Part 2).",
+        "source": "PubMed",
+        "doi": "10.1002/rmv.70142",
+        "keyword": "NK cell therapy",
+        "title_ja": "造血幹細胞移植およびCAR-T細胞療法を受けた患者におけるヒトサイトメガロウイルス感染 ― 第1部：危険因子、臨床的影響、免疫応答",
+        "summary_ja": "ヒトサイトメガロウイルス（HCMV）は、同種造血幹細胞移植（allo-HSCT）後の重要な日和見病原体である。移植後のHCMV再活性化は、死亡率の上昇、移植片対宿主病（GvHD）、他の感染症と関連する。また、T細胞やNK細胞の免疫再構築に特徴的な変化を引き起こす。免疫学的バイオマーカーを用いた個別化リスク評価や抗ウイルス療法の適応が検討されている。一方、CAR-T細胞療法後のHCMV再活性化の臨床的意義は未確定であり、継続的なウイルス動態と免疫機能の相関解析が必要である。予防・治療戦略（レテルモビル予防投与、HCMV特異的T細胞療法など）は次稿（Part 2）で論じる。"
+      },
+      {
+        "title": "Interpretable multiple instance learning for hematologic diagnosis from peripheral blood smears.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41981246/",
+        "abstract": "Accurate diagnosis of hematologic malignancies from peripheral blood smears (PBSs) requires integrating cellular morphology and composition across numerous white blood cells. Existing computational approaches predominantly automate single-cell classifications and do not provide holistic, slide-level diagnostic predictions.",
+        "source": "PubMed",
+        "doi": "10.1038/s43856-026-01558-x",
+        "keyword": "NK cell therapy",
+        "title_ja": "末梢血液塗抹標本からの血液学的診断のための解釈可能なマルチインスタンス学習",
+        "summary_ja": "本論文は、末梢血塗抹標本（PBS）からの血液悪性腫瘍診断のための解釈可能なマルチインスタンス学習（MIL）手法を提案する。既存の単一細胞分類自動化手法とは異なり、多数の白血球の形態と構成を統合し、スライド全体としての診断予測を可能にする。これにより、ホリスティックで解釈可能な診断支援を実現する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosomes in Alzheimer's disease: neuroinflammation mitigation via immune modulation and inflammatory pathway targeting.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41989517/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-11780-4",
+        "keyword": "Exosomes",
+        "title_ja": "アルツハイマー病におけるエクソソーム：免疫調節と炎症経路ターゲティングによる神経炎症緩和",
+        "summary_ja": "本論文は、アルツハイマー病（AD）におけるエクソソームの役着に焦点を当てる。ADの主要な病態である神経炎症に対し、エクソソームは免疫細胞（ミクログリア、アストロサイト）の活性を調節し、炎症性サイトカイン（IL-1β, TNF-α）の産生を抑制することで、神経炎症を緩和する可能性を示す。また、NF-κBやNLRP3インフラマソームなどの炎症経路を標的とし、神経保護効果を発揮する治療ツールとしての応用が期待される。"
+      },
+      {
+        "title": "Beyond the Sand Fly and the Macrophage: A Multidimensional Redefinition of the ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41987748/",
+        "abstract": "Leishmaniasis remains a major global health challenge, hampered by an antiquated therapeutic arsenal compromised by toxicity, resistance, and an inability to achieve a sterile cure. The high attrition rate in drug and vaccine development stems from a fundamental disconnect between traditional experimental models and the true biological complexity of the ",
+        "source": "PubMed",
+        "doi": "10.1021/acsinfecdis.6c00135",
+        "keyword": "Exosomes",
+        "title_ja": "サシチョウバエとマクロファージを超えて：リーシュマニア症の多次元的再定義",
+        "summary_ja": "**タイトル: サシチョウバエとマクロファージを超えて：リーシュマニア症の多次元的再定義**\n\nリーシュマニア症は、毒性・耐性・根治不能な治療法により、依然として重大な課題である。従来の研究モデル（サシチョウバエとマクロファージに焦点）は、病原体の真の生物学的複雑性（宿主-寄生虫の多次元的相互作用、組織ニッチ、慢性化メカニズムなど）を反映しておらず、これが薬剤・ワクチン開発の高い失敗率の根本原因である。本論文は、この複雑性を包括的に理解するための新たなパラダイム（多次元的再定義）を提唱する。"
+      },
+      {
+        "title": "Extracellular vesicle delivery of Myricetin suppresses ovarian cancer through mitochondrial dynamics by downregulating the ECM1/NF-κB/TGFβ signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41986409/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-46901-3",
+        "keyword": "Exosomes",
+        "title_ja": "細胞外小胞によるミリセチン送達は、ECM1/NF-κB/TGFβシグナル経路のダウンレギュレーションを介したミトコンドリア動態変化によって卵巣癌を抑制する",
+        "summary_ja": "本論文は、細胞外小胞（EV）を用いてミリセチンを送達し、卵巣癌を抑制する新規治療法を報告する。ミリセチンは、ECM1/NF-κB/TGFβシグナル経路を抑制し、ミトコンドリア動態（分裂促進）を調節することで、癌細胞の増殖と転移を阻害する。EVによる送達は、ミリセチンの安定性と標的指向性を高め、治療効果を増強した。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Smooth Muscle Cell-Derived Exosomal miR-30a-5p as a Novel Therapeutic Strategy for Erectile Dysfunction in Diabetes Mellitus.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41987693/",
+        "abstract": "Erectile dysfunction (ED) affects more than half of male patients with diabetes. Diabetes mellitus-related ED (DMED) remains challenging to manage due to hyperglycemia-induced apoptosis and fibrosis of corpus cavernosum smooth muscle cells (SMCs). Exosomes secreted by normal SMCs (NSMC-EXOs) have emerged as promising therapeutic vectors. This study investigated the therapeutic role and molecular mechanism of NSMC-EXO-carried microRNA-30a-5p (miR-30a-5p) in DMED.",
+        "source": "PubMed",
+        "doi": "10.1111/andr.70234",
+        "keyword": "Exosomes",
+        "title_ja": "糖尿病性勃起不全に対する新規治療戦略としての平滑筋細胞由来エクソソーマルmiR-30a-5p",
+        "summary_ja": "糖尿病性勃起不全（DMED）は、高血糖による海綿体平滑筋細胞（SMC）のアポトーシスと線維化が原因で治療が困難である。本研究では、正常SMC由来エクソソーム（NSMC-EXO）が運搬するmiR-30a-5pに着目。miR-30a-5pは、アポトーシス関連因子（ATG5、BECN1）を抑制し、SMCの生存を促進することで、DMEDを改善する新規治療戦略となる可能性を示した。"
+      },
+      {
+        "title": "Exosomes and Extracellular Vesicles in CAR-T Cell Therapy: Emerging Mediators and Biomarkers of Cardiac Injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41986929/",
+        "abstract": "Chimeric antigen receptor T-cell (CAR-T) therapy has transformed outcomes in hematologic malignancies but is frequently complicated by cardiovascular toxicity, most notably in the setting of cytokine release syndrome. While systemic inflammation, endothelial activation, and myocardial stress have been implicated, the mechanistic links between immune activation and cardiac injury remain incompletely understood. Exosomes and other extracellular vesicles (EVs) have emerged as critical mediators of intercellular communication during immune responses, carrying bioactive cargo including cytokines, microRNAs, proteins, and lipids that can modulate cardiovascular function. In the context of CAR-T therapy, EVs derived from activated T-cells, tumor cells, and injured endothelium may amplify inflammatory signaling, promote endothelial dysfunction, and contribute directly to myocardial injury. Importantly, EVs are detectable in peripheral blood and exhibit dynamic changes in concentration and cargo during CAR-T-associated toxicities, positioning them as promising biomarkers for early detection, risk stratification, and prognostication of cardiac injury. This review synthesizes current evidence on the biogenesis, functional roles, and cardiovascular effects of exosomes and EVs in CAR-T therapy, highlighting their potential as mechanistic mediators and translational biomarkers. We also discuss existing knowledge gaps, technical challenges in EV characterization, and future directions for integrating EV-based diagnostics into cardio-oncology practice.",
+        "source": "PubMed",
+        "doi": "10.1097/CRD.0000000000001246",
+        "keyword": "Exosomes",
+        "title_ja": "CAR-T細胞療法におけるエクソソームと細胞外小胞：心臓障害の新たな媒介因子およびバイオマーカーとしての台頭",
+        "summary_ja": "CAR-T細胞療法は血液がん治療を革新したが、心血管毒性を合併しやすい。この免疫活性化と心障害の機序は未解明である。エクソソームや細胞外小胞（EV）は、活性化T細胞や腫瘍細胞などから放出され、サイトカインやマイクロRNAなどの生体活性物質を運び、炎症シグナルを増幅し、内皮機能障害や心筋障害を引き起こすメディエーターとして注目される。さらに、血中で動的に変化するEVは、心障害の早期発見・リスク層別化のバイオマーカーとして有望である。本総説は、CAR-T療法におけるEVの生成、機能、心血管影響に関する知見を整理し、診断ツールとしての可能性と課題を論じる。"
+      },
+      {
+        "title": "miR-449b-5p from adipose-derived mesenchymal stem cell-derived exosomes targets IGF1R to alleviate airway inflammation and improve airway smooth muscle cell dysfunction in children with asthma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41986878/",
+        "abstract": "This study investigated the protective effect of miR-449b-5p from adipose-derived mesenchymal stem cell-derived exosomes (ADSC-Exos) targeting type 1 insulin-like growth factor receptor (IGF1R) on airway smooth muscle cells (ASMCs) and further investigated its mechanism of action. ADSC-Exos were isolated and characterized. Cellular uptake of ADSC-Exos by ASMCs was observed. Differences in serum miR-449b-5p expression levels between healthy children and asthmatic children were detected by RT-qPCR. The possible binding sites of miR-449b-5p and IGF1R were identified and then verified. The proliferation of ASMCs was determined by MTT assay and EdU assay. Cell cycle of ASMCs was measured by flow cytometry. Cell contraction of ASMCs was evaluated by inverted microscopy. IL-4, IL-5, and IFN-γ were measured by ELISA to evaluate the inflammatory response of ASMCs. ADSC-Exos exerted therapeutic effects on ASMCs by effectively inhibiting proliferation, cell contraction, and inflammatory response. miR-449b-5p upregulation in ASMCs effectively inhibited the promoting effect of PDGF-BB on cellular proliferation and contraction, while IGF1R upregulation showed the opposite effect. miR-449b-5p in ADSC-Exos targeted IGF1R to alleviate airway inflammation in asthma and improve ASMC dysfunction. ADSC-Exos carrying miR-449b-5p improve ASMC dysfunction, excessive proliferation, and inflammatory responses by downregulating IGF1R.",
+        "source": "PubMed",
+        "doi": "10.1093/jimmun/vkaf376",
+        "keyword": "Exosomes",
+        "title_ja": "脂肪由来間葉系幹細胞のエクソソーム由来miR-449b-5pはIGF1Rを標的とし、喘息患児の気道炎症を軽減し気道平滑筋細胞機能障害を改善する",
+        "summary_ja": "脂肪由来間葉系幹細胞由来エクソソーム（ADSC-Exos）中のmiR-449b-5pが、気管支喘息患児において、気道平滑筋細胞（ASMC）の機能障害を改善する機序を検討。ADSC-ExosはASMCに取り込まれ、miR-449b-5pは標的分子IGF1Rに直接結合。これにより、ASMCの過剰な増殖・収縮・炎症性サイトカイン産生を抑制し、気道炎症を軽減する。喘息児では血清miR-449b-5p発現が低下しており、ADSC-ExosによるmiR-449b-5p補充がIGF1Rを介した治療効果を発揮すると示唆された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "注目すべき5トピックを以下にまとめます。\n\n1. **PTPN1/N2阻害によるNK療法の増強**：腫瘍微小環境の抑制を克服し、NK細胞の抗腫瘍活性を高める新手法。IL-2応答増強とTGFβ1抑制の二重効果で、固形がん治療への応用が期待される。\n\n2. **TIGIT塩基編集によるNK細胞の機能再プログラミング**：CD155シグナルを抑制性から活性化性に転換。高効率編集でNK療法の効果持続性を向上させ、次世代オフザシェルフ療法として注目。\n\n3. **小児固形腫瘍の免疫療法**：生物学的障壁（低変異負荷等）を克服する多様なアプローチ（抗GD2抗体、CAR-T等）の組み合わせが進展。神経芽腫を皮切りに治療パラダイムの転換が期待。\n\n4. **EVを利用したミリセチンによる卵巣癌治療**：ECM1/NF-κB/TGFβ経路を標的にした新規ドラッグデリバリーシステム。ミトコンドリア動態調節による抗癌作用は、難治性がん治療の新戦略となる。\n\n5. **CAR-T療法におけるEVの二面性**：心血管毒性のメディエーターとしての役割と、そのバイオマーカーとしての可能性。副作用機序の解明と管理法開発への応用が急務。\n\nこれらの進展は、細胞療法とEV技術の融合により、がんや難病治療の精度と安全性を高める次世代医療へと発展する可能性を秘めています。"
+}

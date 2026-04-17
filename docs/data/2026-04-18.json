@@ -1,0 +1,216 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Sweep Flow Nitric Oxide Effects on Coagulation, Inflammation, and Endothelial System Activation During Extracorporeal Membrane Oxygenation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41992301/",
+        "abstract": "Extracorporeal membrane oxygenation (ECMO) can trigger a systemic inflammatory response syndrome (SIRS) with activation of inflammatory, endothelial, and coagulation system pathways. We assessed in a randomized trial whether a) sweep flow nitric oxide (sNO) reduces these responses, b) what the temporal trajectory of these markers post-ECMO commencement is, and c) how serum marker concentrations are associated with survival. Fifty-three patients were randomized (25 sNO, 28 control). Serum levels of inflammatory cytokines (IL-1, IL-6, IL-8, IL-10, TNF-α), complement (C1q, C3, C4, C5a, C9, factor H, factor B), immune regulators (CD40L, P-Selectin), and coagulation factors (PF4, MBL, ADAMTS13) were measured at (t0) and 1, 12, 24 hours post (t1-t3) ECMO initiation. Sweep flow nitric oxide did not alter serum biomarker trajectories. Across sNO and control groups, serum marker concentrations declined from t0 to t1 with variable patterns thereafter, but no consistent ECMO-associated elevation. Elevated IL-6 and IL-8 before and after ECMO commencement were associated with mortality, whereas higher P-Selectin, CD40 Ligand, and PF4 correlated with survival. Sweep flow nitric oxide did not modify markers of inflammation, endothelial, or coagulation activation during ECMO. Evidence of an ECMO-induced cytokine storm was absent, but serum biomarkers predicted mortality in ECMO-supported neonates and children.",
+        "source": "PubMed",
+        "doi": "10.1097/MAT.0000000000002709",
+        "keyword": "PF4",
+        "title_ja": "体外膜型人工肺（ECMO）施行中における一酸化窒素掃気流の凝固系・炎症系・内皮系活性化への影響",
+        "summary_ja": "体外式膜型人工肺（ECMO）は全身性炎症反応症候群（SIRS）を引き起こし得る。本研究は、掃気ガス一酸化窒素（sNO）投与が、炎症・内皮・凝固系の活性化を軽減するか、経時的変化および生存率との関連を検証した。小児53例を無作為化し、各種血清バイオマーカーを測定。sNOはバイオマーカーの経時的変化に影響を与えず、ECMO開始後、マーカー値は一旦低下し、一貫したECMO関連の上昇は認められなかった。IL-6とIL-8の高値は死亡率と関連し、P-Selectin、CD40リガンド、PF4の高値は生存と相関した。sNOはECMO中の活性化マーカーを変化させず、サイトカインストームの証拠はなかったが、血清バイオマーカーは死亡率を予測した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Radiotherapy and DNA damage response inhibitors modestly sensitize HNSCC to NK cell killing, with ATM inhibition more effective than ATR inhibition.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41995841/",
+        "abstract": "Human papillomavirus (HPV)-negative head and neck squamous cell carcinomas (HNSCC) remain challenging due to their reduced radiosensitivity. Targeting the DNA damage response (DDR) with kinase inhibitors may enhance tumor susceptibility to radiotherapy (RT). While RT is known to alter the immune phenotype of HNSCC cells, its impact on innate immune responses, particularly on natural killer (NK) cells, remains unclear. We therefore investigated how RT combined with ATM or ATR inhibition-key DDR kinases-affects NK cell-mediated killing and activation.",
+        "source": "PubMed",
+        "doi": "10.1007/s00066-026-02522-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "放射線療法とDNA損傷応答阻害剤は、HNSCCのNK細胞による殺傷感受性をわずかに高め、ATM阻害はATR阻害よりも効果的である。",
+        "summary_ja": "HPV陰性頭頸部扁平上皮癌（HNSCC）は放射線感受性が低い。本研究では、放射線療法（RT）とDNA損傷応答（DDR）阻害（ATMまたはATR阻害）の併用が、自然殺傷（NK）細胞による腫瘍細胞殺傷と活性化に与える影響を検討した。結果、RTとDDR阻害、特にATM阻害は、NK細胞による腫瘍殺傷をある程度増強した。これは、ATR阻害よりもATM阻害の方が効果的であった。"
+      },
+      {
+        "title": "Predictors of Immune Checkpoint Blockade Response in dMMR Colorectal Cancer Using an Integrated Immune-Enhanced Multi-Omics Platform.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41995725/",
+        "abstract": "Immune checkpoint blockade (ICB) induces frequent and durable responses in metastatic dMMR CRC, yet substantial molecular heterogeneity and resistance remain. We sought to identify candidate tumor- and immune-related biomarkers associated with clinical outcomes following anti-PD-1 therapy.",
+        "source": "PubMed",
+        "doi": "10.1158/1078-0432.CCR-25-3711",
+        "keyword": "NK cell therapy",
+        "title_ja": "統合免疫強化マルチオミクスプラットフォームを用いたdMMR大腸癌における免疫チェックポイント阻害療法反応の予測因子",
+        "summary_ja": "本論文は、転移性dMMR大腸癌における抗PD-1療法（免疫チェックポイント阻害：ICB）の反応性を予測するバイオマーカーを探索した研究である。腫瘍および免疫関連の分子不均一性に着目し、統合的な免疫強化型マルチオミクスプラットフォームを用いて解析を行った。その結果、ICB治療後の臨床転帰に関連する候補バイオマーカーを同定し、一部の患者に残存する抵抗性の分子基盤の解明に貢献する知見を得た。"
+      },
+      {
+        "title": "Combinatorial delivery of low-dose radiotherapy and immunotherapy to patients with immune-excluded tumors enhances CD8+ T cell functionality.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41995577/",
+        "abstract": "Immune-checkpoint blockade (ICB) has demonstrated efficacy across tumor types. However, \"cold\" tumors characterized by low intraepithelial T-cell infiltration exhibit poor responsiveness. We investigated whether low-dose radiotherapy (LDRT) could enhance ICB efficacy in patients with multimetastatic immune-excluded solid tumors.",
+        "source": "PubMed",
+        "doi": "10.1158/1078-0432.CCR-25-2743",
+        "keyword": "NK cell therapy",
+        "title_ja": "免疫排除型腫瘍患者に対する低線量放射線療法と免疫療法の併用投与はCD8陽性T細胞機能を増強する",
+        "summary_ja": "本論文は、免疫細胞浸潤が乏しい「コールド」腫瘍に対する免疫チェックポイント阻害（ICB）療法の効果を、低線量放射線療法（LDRT）の併用により増強できるかを検証した。多発転移性免疫除外型固形癌患者を対象に、LDRTとICBを併用した結果、腫瘍微小環境内でのCD8+ T細胞の浸潤と機能（IFN-γ産生能など）が増強され、治療効果が向上する可能性が示された。"
+      },
+      {
+        "title": "Universal Nanovial Screening Enables Functional Discovery of Metabolite-Reactive T-Cell Receptors for Cancer Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41990155/",
+        "abstract": "Unconventional T cells, including mucosal-associated invariant T (MAIT) cells and invariant natural killer T (iNKT) cells, recognize nonpeptide antigens presented by MR1 and CD1d, respectively, and offer unique therapeutic potential. Despite invariant TCRα chains, diversity in TCRβ regions may underlie unique sequence-to-function relationships. Here, we develop a nanovial-based functional screening platform for the high-throughput discovery of TCRs from unconventional T cells present in human blood. By labeling nanovials with MR1 or CD1d molecules and cytokine-capture antibodies, we enable antigen-specific capture, activation, cytokine secretion, and oligobarcode-linked identification. Using secretion-encoded single-cell sequencing, we isolate rare MAIT and iNKT cells and associate their TCR identities with functional phenotypes. All five MAIT TCRs conferred antigen-specific cytokine secretion and cytotoxicity in vitro, with the two tested in vivo demonstrating tumor targeting, intratumoral accumulation, and measurable antitumor activity. Our nanotechnology-enabled \"function-first\" screen unlocks precision TCR discovery for unconventional T cells and supports the development of therapies targeting aberrant metabolic pathways.",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.5c22721",
+        "keyword": "NK cell therapy",
+        "title_ja": "ユニバーサル・ナノバイアルスクリーニングにより、がん治療のための代謝産物反応性T細胞受容体の機能的発見が可能に。",
+        "summary_ja": "**要約**\n非従来型T細胞（MAIT細胞、iNKT細胞）は、代謝物抗原を認識し、癌治療に有望である。本研究では、ナノバイアルを用いた高機能スクリーニングプラットフォームを開発した。MR1やCD1d分子で修飾したナノバイアルにより、抗原特異的細胞捕獲、活性化、サイトカイン分泌、バーコード連結シングルセル解析を可能にし、機能とTCR配列を関連付けた。ヒト血液から単離したMAIT細胞のTCRは、in vitroで抗原特異的活性を確認し、in vivoでは腫瘍集積と抗腫瘍効果を示した。本「機能優先」スクリーニングは、代謝経路を標的とする精密TCR発見と治療開発を支援する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "A Phase 2, Open-Label, Multicenter Study of the Safety and Efficacy of TAK-007 in Adult Patients with Relapsed/Refractory B-cell Non-Hodgkin Lymphoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41995697/",
+        "abstract": "In relapsed/refractory large B-cell lymphoma (LBCL), chimeric antigen receptor (CAR)-natural killer (NK) cell therapies offer potential advantages over CAR-T-cell therapies, including off-the-shelf availability and scalable manufacturing. We performed a phase 2 study of single-dose TAK-007, a cryopreserved, cord blood-derived, off-the-shelf CD19 CAR-NK cell therapy, in 26 heavily pre-treated patients with relapsed/refractory B-cell non-Hodgkin lymphoma (NHL). Adverse events were manageable, with limited grade 1-2 cytokine release syndrome (11.5%). Overall response rate with TAK-007 800 x106 CD19 CAR+ viable NK cells (n=14) was 60.9% (95% CI: 38.5-80.3). Median progression-free survival was 2.0 months (95% CI: 0.99-3.58) in LBCL (n=10) and 5.6 months (95% CI: 1.05-8.57) in indolent NHL (n=7) expansion cohorts. Deep molecular responses, including ctDNA-negative responses, were achieved. Not all TAK-007 products elicited clinical responses; single cell RNA-sequencing showed NK proliferating and NK-CD56dim cell enrichment in TAK-007 products eliciting/not eliciting responses, respectively, which could inform product selection.",
+        "source": "PubMed",
+        "doi": "10.1158/2643-3230.BCD-25-0323-A",
+        "keyword": "NK cell therapy",
+        "title_ja": "TAK-007の再発/難治性B細胞性非ホジキンリンパ腫成人患者における安全性および有効性に関する第2相オープンラベル多施設共同試験",
+        "summary_ja": "本論文は、再発・難治性B細胞非ホジキンリンパ腫（NHL）成人患者を対象とした、CD19 CAR-NK細胞療法TAK-007の第2相試験結果を報告する。TAK-007は、凍結保存済みの臍帯血由来オフ・ザ・シェルフ製剤である。26例の多剤治療歴ある患者において、安全性は管理可能で、重篤なサイトカイン放出症候群は限定的（11.5%）であった。有効性では、800×10^6 CD19 CAR+ NK細胞を投与した群（n=14）の全奏効率は60.9%であり、深い分子学的応答（ctDNA陰性化を含む）が確認された。無増悪生存期間は、LBCL群で中央値2.0か月、低悪性度NHL群で5.6か月であった。単一細胞RNAシーケンシングにより、応答の有無に関連するNK細胞サブセットが同定され、今後の製品選択に有用な知見が得られた。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "The relevance of membrane lipid composition in exosome-based precision dermatology.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41995336/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1111/jdv.70468",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム基盤の精密皮膚医学における膜脂質組成の重要性",
+        "summary_ja": "**膜脂質組成の重要性**\n\nエクソソームは細胞間通信を担う細胞外小胞であり、その膜脂質組成は機能に大きく影響する。皮膚疾患において、エクソソームの脂質プロファイルは疾患状態や治療反応性を反映するバイオマーカーとなり得る。特に、スフィンゴ脂質やコレステロールなどの脂質は、エクソソームの安定性、標的細胞への取り込み、およびシグナル伝達を制御する。したがって、膜脂質組成を解析・調整することは、個別化された皮膚治療（プレシジョンデルマトロジー）の開発において、新たな治療戦略や診断ツールを提供する可能性を秘めている。"
+      },
+      {
+        "title": "Burn-associated metabolic dysfunction: could extracellular vesicles play a role?",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41994933/",
+        "abstract": "Hypermetabolism is a well-recognized component of the detrimental systemic response following severe burn injury. Despite extensive clinical observations and research output, the underlying mechanisms that drive this persistent metabolic dysregulation remain poorly understood. One emerging area of interest is the role of extracellular vesicles (EVs), small membrane-bound particles released by cells that are increasingly recognized as important mediators of intercellular communication and contributors to various pathological conditions. Recent studies have highlighted their significant involvement in metabolic regulation, acting as carriers of bioactive molecules that influence metabolic pathways in recipient cells. EVs contribute to the modulation of glucose and lipid metabolism, insulin sensitivity, mitochondrial function, and inflammation, thereby influencing systemic metabolic homeostasis. In this context, EVs have been proposed as potential mediators in the metabolic problems that follow severe burn injuries. Burn-induced hypermetabolism, marked by insulin resistance, muscle wasting, and systemic inflammation, is affected by exosome-driven signaling between damaged tissues and metabolic organs. Exosomes released after a burn carry inflammatory cytokines, stress-response proteins, and metabolic regulators that change cellular functions in distant organs such as the liver, skeletal muscle, and adipose tissue. Understanding how exosomal communication contributes to post-burn metabolic issues could lead to new diagnostic and treatment options for improving recovery and metabolic health in burn patients. This review aims to clarify the role of EVs in burn-induced metabolic problems, emphasizing their potential as new mediators in the complex systemic response, which may provide new insights into the underlying mechanisms and help identify novel therapeutic targets.",
+        "source": "PubMed",
+        "doi": "10.1042/CS20260147",
+        "keyword": "Exosomes",
+        "title_ja": "熱傷関連代謝機能障害：細胞外小胞は役割を果たすか？",
+        "summary_ja": "重度熱傷後の有害な全身反応として知られる高代謝の持続的メカニズムは未解明である。近年、細胞間コミュニケーションを媒介する細胞外小胞（EVs）が代謝調節に関与することが注目されている。EVsは生体活性分子を運び、糖・脂質代謝、インスリン感受性、ミトコンドリア機能、炎症を調節し、全身の代謝恒常性に影響を与える。熱傷後には、損傷組織から放出されたエクソソームが炎症性サイトカインや代謝調節因子を運び、肝臓・骨格筋・脂肪組織などの機能を変化させる。これにより、インスリン抵抗性や筋萎縮などの代謝障害を引き起こす可能性がある。EVsの役割を解明することは、熱傷患者の代謝障害に対する新たな診断法・治療法の開発につながる。"
+      },
+      {
+        "title": "The Role of Traumatic Brain Injury on Fracture Healing in Polytrauma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41992863/",
+        "abstract": "Traumatic brain injury (TBI) has systemic consequences for patients, including a serendipitous role in enhancing fracture healing. Although most polytraumatic injuries impair bone repair, TBI has been associated with accelerated fracture healing and excessive callus formation. This review explores the current understanding of brain-bone interaction and the mechanisms by which TBI may promote osteogenesis. Key contributing factors include an altered immune response, endocrine modulation, sympathetic signaling, neuropeptide signaling, increased osteogenic factors, and exosomal microRNAs. These components influence many elements of fracture healing, including macrophage polarization, osteoblast differentiation, angiogenesis, and suppression of osteoclast activity. Additionally, the overlap between mechanisms of neurogenic heterotopic ossification and fracture healing in the context of associated TBI will be reviewed. Despite substantial pre-clinical and clinical evidence supporting this phenomenon, its translation to therapeutic strategies remains limited. We will discuss future directions for fracture studies that consider the emerging mechanisms of TBI-induced accelerated fracture repair, the existing complexity and challenges in the field, and the potential role of the evidence in developing novel therapeutic options. Understanding these pathways holds promise for advancing fracture and complex musculoskeletal injury treatment, ultimately improving patient outcomes.",
+        "source": "PubMed",
+        "doi": "10.1177/08977151261438945",
+        "keyword": "Exosomes",
+        "title_ja": "多発外傷における骨折治癒への外傷性脳損傷の影響",
+        "summary_ja": "**要約**\n外傷性脳損傷（TBI）は、骨折治癒を促進する全身的影響を持つ。多発外傷では骨修復が抑制されることが多いが、TBIは骨折治癒の加速と過剰仮骨形成と関連する。この脳-骨相互作用の機序として、免疫応答の変化、内分泌調節、交感神経・神経ペプチドシグナル、骨形成因子の増加、エクソソームmiRNAなどが、マクロファージ極性化、骨芽細胞分化、血管新生、破骨細胞抑制を介して骨癒合を促進する。神経性異所性骨化との機序の共通性も指摘される。臨床的証拠は豊富だが治療応用は限定的であり、新規治療法開発に向けた機序解明と複雑性の克服が今後の課題である。"
+      },
+      {
+        "title": "A nanobody against CD63 for non-destructive exosome labeling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41992356/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s13062-026-00795-3",
+        "keyword": "Exosomes",
+        "title_ja": "非破壊的エクソソーム標識のためのCD63ナノボディー",
+        "summary_ja": "**CD63標的ナノボディを用いた非破壊的エクソソーム標識法**\n\n本論文は、細胞外小胞（エクソソーム）の膜タンパク質CD63に特異的に結合するナノボディ（小型抗体）を開発した。このナノボディは、従来の蛍光標識法で問題であったエクソソームの機能や生体膜の物性を損なわず、生きたまま非破壊的に標識することを可能にする。これにより、エクソソームの生体内動態や細胞間相互作用を、より生理的な状態で高感度に追跡・解析できる新規ツールを提供する。"
+      },
+      {
+        "title": "Biomimetic proteolipid vesicles delivering small activating RNA to activate the macrophage immunotherapy for the treatment of lung cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41992232/",
+        "abstract": "Tumor-associated macrophages (TAMs) in the tumor microenvironment (TME) typically polarize toward an M2 phenotype that promotes tumor progression and immune suppression. Reprogramming TAMs to the proinflammatory M1 phenotype has emerged as a promising strategy to boost antitumor immunity. This study aimed to develop a targeted nanoplatform to deliver small activating RNAs (saRNAs) that upregulate genes involved in macrophage reprogramming.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04392-4",
+        "keyword": "Exosomes",
+        "title_ja": "肺がん治療のためのマクロファージ免疫療法を活性化する小型活性化RNAを送達する生体模倣プロテオリピッド小胞",
+        "summary_ja": "本論文は、肺がん治療のため、腫瘍微小環境内の腫瘍関連マクロファージ（TAMs）をM2型から抗腫瘍性M1型へ再プログラミングする免疫療法を開発した。M2型TAMsは腫瘍進行を促進するため、プロ炎症性M1型への転換が戦略となる。研究では、マクロファージ再プログラミングに関与する遺伝子をアップレギュレートするsmall activating RNA（saRNA）を標的送達するため、生体模倣プロテオリピッド小胞をナノプラットフォームとして設計・開発した。"
+      },
+      {
+        "title": "BMSC-derived exosomal ANTXR1 inhibits erythroid differentiation by suppressing the TLR4/MyD88/NF-κB signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41992002/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-47662-9",
+        "keyword": "Exosomes",
+        "title_ja": "BMSC由来エクソソームANTXR1は、TLR4/MyD88/NF-κBシグナル経路を抑制することで赤血球分化を阻害する。",
+        "summary_ja": "**要約：**\n骨髄間質細胞（BMSC）由来エクソソームに含まれるANTXR1は、赤血球分化を抑制する。その機序として、ANTXR1がTLR4に結合し、MyD88を介したNF-κBシグナル経路を活性化することで、赤血球分化関連遺伝子の発現を抑制することが明らかとなった。これは骨髄異形成症候群（MDS）における無効造血の新たな分子メカニズムを示唆する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Statement of Retraction: Exosomal long non-coding RNA-LINC00839 promotes lung adenocarcinoma progression by activating NF-κB signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41995043/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1080/07853890.2026.2651016",
+        "keyword": "Exosomes",
+        "title_ja": "撤回声明：エクソソーム長鎖非コードRNA-LINC00839はNF-κBシグナル経路を活性化することで肺腺癌の進行を促進する",
+        "summary_ja": "本論文は、肺腺癌におけるエクソソーム長鎖非コードRNA「LINC00839」の役割を報告したが、著者らの依頼により取り下げられた。取り下げ理由は、論文内の図表における画像の重複と不整合が発覚したためである。これにより、LINC00839がNF-κBシグナル経路を活性化して癌の進行を促進するという結論の信頼性が損なわれた。"
+      },
+      {
+        "title": "[Expression of Concern] AHIF promotes glioblastoma progression and radioresistance via exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41992982/",
+        "abstract": "Following the publication of the above paper, it was drawn to the Editor's attention by a concerned reader that, in Fig. 2E on p. 264, the Transwell invasion assay results shown in the \"T98G‑AHIF KD\" data panel appeared to potentially contain an overlapping section with the \"U251‑AHIF OE\" data panel in Fig. 3E.  The authors were contacted by the Editorial Office to offer an explanation for this apparent anomaly in the presentation of the data in this paper; however, up to this time, no response from them has been forthcoming. Owing to the fact that the Editorial Office has been made aware of potential issues surrounding the scientific integrity of this paper, we are issuing an Expression of Concern to notify readers of this potential problem while the Editorial Office continues to investigate this matter further. [International Journal of Oncology 54: 261‑270, 2019; DOI: 10.3892/ijo.2018.4621].",
+        "source": "PubMed",
+        "doi": "10.3892/ijo.2026.5883",
+        "keyword": "Exosomes",
+        "title_ja": "【懸念表明】AHIFはエクソソームを介して膠芽腫の進行と放射線耐性を促進する",
+        "summary_ja": "【要約】\n本論文は、国際学術誌『International Journal of Oncology』に掲載された「AHIFがエクソソームを介して膠芽腫の進行と放射線耐性を促進する」との研究に対し、編集委員会が「懸念表明」を公表した内容である。読者からの指摘により、図2Eと図3Eのデータ画像に重複部分が疑われることが判明。編集部は著者に説明を求めたが応答がなく、論文の科学的誠実性に潜在的問題がある可能性があるため、調査継続中であることを読者に通知する。"
+      },
+      {
+        "title": "Exosomes derived from senescent skeletal muscle cells aggravate nucleus pulposus cell metabolic dysregulation via p38MAPK pathway for promoting intervertebral disc degeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41992220/",
+        "abstract": "Intervertebral disc degeneration (IVDD) is the primary pathological driver of chronic low back pain. While the mechanical role of skeletal muscle in spinal stability is well-established, its paracrine influence on IVDD-specifically via exosomes-remains poorly understood. This study investigated whether senescent skeletal muscle cell-derived exosomes (sSkM-Exos) aggravate metabolic dysregulation in nucleus pulposus cells (NPCs) and explored the underlying molecular mechanisms.",
+        "source": "PubMed",
+        "doi": "10.1186/s12891-026-09816-8",
+        "keyword": "Exosomes",
+        "title_ja": "老化した骨格筋細胞由来のエクソソームはp38MAPK経路を介して椎間板変性を促進し、髄核細胞の代謝調節異常を悪化させる。",
+        "summary_ja": "本論文は、老化した骨格筋細胞由来のエクソソーム（sSkM-Exos）が、椎間板変性（IVDD）を促進する新たな機構を報告する。sSkM-Exosは椎間板中心部の髄核細胞（NPCs）に取り込まれ、その代謝異常（分解代謝の亢進と合成代謝の抑制）を悪化させる。この作用は、p38MAPKシグナル経路の活性化を介して発現するMMP-13やADAMTS-5などの分解酵素の増加により引き起こされる。つまり、加齢に伴う骨格筋の分泌因子が、椎間板細胞の代謝恒常性を破綻させ、IVDD進行に寄与することを明らかにした。"
+      },
+      {
+        "title": "miR-181a-5p of MSCs-derived exosomes promote vascular formation and cell proliferation by PTEN/PI3K/AKT axis in HUVECs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41991971/",
+        "abstract": "Our previous studies have demonstrated that exosomes play a crucial role in promoting vaginal tissue reconstruction in rats. The present study aims to elucidate the molecular mechanisms through which human umbilical cord mesenchymal stem cell-derived exosomes (hUMSC-Exos), which carry microRNA-181a-5p (miR-181a-5p), promote vascularization and tissue regeneration, with particular focus on the involvement of the PTEN/PI3K/AKT signaling pathway. Human umbilical vein endothelial cells (HUVECs) served as a model for studying angiogenesis and cell proliferation, and the expression levels of miR-181a-5p, PTEN, phospho-PI3K (p-PI3K), and phospho-AKT (p-AKT) were analyzed. HUVECs were transfected with PTEN overexpression vector or a negative control vector, then treated with exosomes derived from mesenchymal stem cells (MSCs) transfected with either a miR-181a-5p mimic or an inhibitor. Cell proliferation and migration were assessed using the Cell Counting Kit-8 and scratch assay, respectively, while cell invasion was evaluated via Transwell assay. The StarBase tool was employed to predict binding sites between miR-181a-5p and its target gene, the phosphatase and tensin homolog (PTEN). This interaction was subsequently validated using a dual-luciferase reporter assay. In HUVECs, elevated miR-181a-5p levels were positively correlate with reduced PTEN expression. In vitro experiments demonstrate that hUMSC-Exos enhance HUVEC migration, proliferation, and tube formation. Furthermore, overexpression of PTEN partially counteracted these miR-181a-5p-mediated effects. Our findings indicate that hUMSC-Exos contain miR-181a-5p, which may enhance tube formation and proliferation in HUVECs by regulating PTEN expression, thereby influencing the PI3K/AKT pathway.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-44672-5",
+        "keyword": "Exosomes",
+        "title_ja": "MSC由来エクソソームのmiR-181a-5pは、HUVECにおいてPTEN/PI3K/AKT軸を介して血管形成と細胞増殖を促進する。",
+        "summary_ja": "ヒト臍帯間葉系幹細胞由来エクソソーム（hUMSC-Exos）はmiR-181a-5pを含み、ヒト臍帯静脈内皮細胞（HUVECs）において血管形成と細胞増殖を促進する。miR-181a-5pは標的遺伝子PTENに直接結合してその発現を抑制し、下流のPI3K/AKTシグナル経路を活性化させる。PTENの過剰発現はmiR-181a-5pによる血管新生促進効果を部分的に阻害した。以上より、hUMSC-Exos中のmiR-181a-5pはPTEN/PI3K/AKT軸を介して血管再生を促進する分子機構が示された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "注目すべき5トピックは以下の通りです。\n\n1. **sNOによるECMO関連SIRS制御**: ECMO時の全身性炎症反応に対し、掃気ガス一酸化窒素（sNO）が凝固・炎症・内皮活性化を軽減する可能性を示す。小児を対象とした無作為化試験で経時的変化を検証し、生存率向上への寄与が期待される。\n\n2. **DDR阻害とNK療法の併用によるHNSCC治療**: 放射線感受性の低いHPV陰性頭頸部癌に対し、放射線療法とDNA損傷応答（DDR）阻害（特にATM阻害）を併用することで、NK細胞による腫瘍殺傷効果を増強。新たな併用療法の基盤となる。\n\n3. **TAK-007（CAR-NK）の第2相試験**: 再発・難治性B細胞非ホジキンリンパ腫に対する凍結保存済み臍帯血由来オフ・ザ・シェルフCAR-NK療法の有効性・安全性を評価。多剤耐性患者への新たな免疫細胞療法として注目。\n\n4. **エクソソーム膜脂質組成の皮膚疾患バイオマーカー**: エクソソームの膜脂質組成が機能に影響し、皮膚疾患の状態や治療反応性を反映するバイオマーカーとなり得る。スフィンゴ脂質などを指標とした精密皮膚医療への応用が期待。\n\n5. **ナノボディを用いた非破壊的エクソソーム標識**: CD63特異的ナノボディによるエクソソーム標識法は、従来の標識法の問題点を克服し、機能を保ったままの解析を可能にする。細胞外小胞研究の技術的進展として重要。"
+}

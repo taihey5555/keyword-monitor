@@ -1,0 +1,151 @@
+{
+  "A": {
+    "医学": [
+      {
+        "title": "Phosphorylated filamin-A at serine 1459 from plasma-derived small extracellular vesicles as a promising biomarker for high-risk adenoma and colorectal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41998177/",
+        "abstract": "Colorectal cancer (CRC) is the third most diagnosed cancer and the second leading cause of cancer-related death worldwide. Early detection can reduce CRC mortality by more than 90%. Circulating small extracellular vesicles (sEVs) are emerging as promising biomarkers for CRC, but their role in detecting precancerous lesions remains unclear. Herein, parallel proteomic and phosphoproteomic analyses of plasma-derived sEVs were performed in healthy subjects with negative colonoscopy, patients with high-risk adenoma (HRA) and patients with CRC. A total of 139 phosphorylation sites on 52 proteins were identified, among which 16 phosphorylation sites on 12 sEV proteins showed significant changes (≥ 2-fold) with 90% confidence in site localization. Web-based validation demonstrated that the phosphorylation level of sEV-derived filamin-A at serine 1459 (pFLNA",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-48722-w",
+        "keyword": "Exosomes",
+        "matched_keywords": [
+          "Exosomes",
+          "sEVs"
+        ],
+        "title_ja": "血漿由来小型細胞外小胞中のセリン1459リン酸化フィラミンA：高危険度腺腫および大腸癌の有望なバイオマーカーとして",
+        "summary_ja": "本論文は、大腸癌（CRC）およびその前癌病変である高リスク腺腫（HRA）の新規バイオマーカーとして、血漿由来小型細胞外小胞（sEV）中のリン酸化フィラミンA（セリン1459、pFLNA）を提案する。プロテオミクス・リン酸化プロテオミクス解析により、健常者、HRA患者、CRC患者のsEVを比較した結果、pFLNAを含む12のsEVタンパク質の16のリン酸化部位が有意に変化していた。sEV pFLNAは、侵襲的な内視鏡検査に代わる、早期発見のための有望な血中バイオマーカーとなる可能性を示唆している。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "KLOTHO Deficiency Drives Ovarian Aging by Inducing Granulosa Cell Senescence and Dysfunction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41998463/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s43032-026-02106-7",
+        "keyword": "Klotho",
+        "title_ja": "KLOTHO欠乏は顆粒膜細胞の老化と機能不全を誘導することで卵巣の老化を促進する",
+        "summary_ja": "**KLOTHO欠乏は顆粒膜細胞の老化と機能不全を誘導し、卵巣老化を駆動する**\n\n本研究は、抗老化因子KLOTHOが卵巣老化の鍵となるメカニズムを解明した。加齢に伴い卵巣のKLOTHO発現は低下する。KLOTHO欠乏は、顆粒膜細胞において細胞老化（セネセンス）を誘導し、その機能（ステロイドホルモン産生など）を障害する。これにより卵胞発育不全が生じ、卵巣予備能が低下する。逆に、KLOTHOを補充すると顆粒膜細胞の老化と機能不全が改善された。KLOTHOは卵巣老化の新たな制御因子であり、その補充は生殖寿命延長の潜在的な治療戦略となる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "CAR-NK Cells in B-cell Lymphoma: A New Frontier toward Accessible and Scalable Cellular Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41996826/",
+        "abstract": "In this phase II study, TAK-007, an off-the-shelf allogeneic CD19 CAR NK-cell therapy expressing IL-15, demonstrates encouraging response rates, rapid treatment availability, and an excellent safety profile in heavily pretreated B-cell lymphoma, including post-CAR-T patients, albeit with limited durability. These findings, supported by integrated translational analyses, provide important mechanistic insights into CAR-NK biology that may guide future optimization and bring this approach closer to broader clinical application. See related article by Darrah et al., p. XX .",
+        "source": "PubMed",
+        "doi": "10.1158/2643-3230.BCD-26-0086",
+        "keyword": "NK cell therapy",
+        "title_ja": "B細胞リンパ腫におけるCAR-NK細胞：アクセス可能で拡張性のある細胞療法への新たなフロンティア",
+        "summary_ja": "本論文は、CD19 CAR-NK細胞療法TAK-007の第II相試験結果を報告する。同療法は、IL-15を発現するオフザシェルフ（既製）の同種異系CAR-NK細胞であり、多剤治療歴のあるB細胞リンパ腫（CAR-T療法後を含む）患者において、良好な奏効率、迅速な治療提供、優れた安全性を示した。ただし、持続性には限界があった。これらの知見は、CAR-NK細胞の生物学的機序に関する重要な洞察を提供し、今後の最適化と幅広い臨床応用への道筋を示すものである。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Development and initial characterization of Ang-2 decorated exosome-liposome hybrid nanocarriers for BBB targeting capability: An evaluation of LRP-1 receptor mediated endocytosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41997210/",
+        "abstract": "Central Nervous System (CNS) diseases, including Parkinson's, Alzheimer's, and brain tumors, are among the most challenging conditions to treat and are associated with high mortality rates. A significant obstacle in conventional treatment methods for CNS diseases is that many drugs struggle to penetrate the blood-brain barrier (BBB), which diminishes their effectiveness. The primary aim of the current study was to develop and characterize a hybrid nanocarrier composed of exosomes and liposomes to facilitate targeted drug delivery across the BBB for future CNS disease therapies. To achieve targeted uptake, we conjugated the exosome-liposome hybrid to the Angiopep-2 peptide (ANG-2), which has a specific affinity for the LRP-1 receptor, found on endothelial cells of the blood-brain barrier. Our results indicate that exosome-liposome hybrid nanoparticles exhibit significantly greater stability than exosomes alone. Moreover, the LRP-1 ligand-decorated exo-lipo hybrids effectively targeted U87 cells (a model cell line that expresses LRP-1) more efficiently than HEK293 (a cell line with low LRP-1 expression). Additionally, our findings demonstrated that these nanocarriers successfully evaded lysosomal degradation in U87 cells. We also assessed the barrier-crossing efficiency of the nanocarriers in vivo using zebrafish embryos.",
+        "source": "PubMed",
+        "doi": "10.1088/1748-605X/ae6164",
+        "keyword": "Exosomes",
+        "title_ja": "BBB標的化能のためのAng-2修飾エクソソーム-リポソームハイブリッドナノキャリアの開発と初期特性評価：LRP-1受容体媒介エンドサイトーシスの評価",
+        "summary_ja": "本論文は、中枢神経系（CNS）疾患治療における血液脳関門（BBB）通過の課題に対し、エクソソームとリポソームのハイブリッド型ナノキャリアを開発した。標的指向性を高めるため、BBB内皮細胞のLRP-1受容体に親和性を持つAngiopep-2ペプチド（ANG-2）を修飾した。その結果、ハイブリッドナノ粒子は単独のエクソソームより安定性が高く、LRP-1発現細胞（U87）への選択的取り込みとリソソーム分解回避を確認。ゼブラフィッシュ胚を用いたin vivo評価でもBBB通過能を示し、CNS向け薬物送達システムとしての可能性を提示した。"
+      },
+      {
+        "title": "Tearing down the wall: emu-miR-745-3p in Echinococcus multilocularis exosomes attenuates host liver fibrosis to permit invasive lesion development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41996579/",
+        "abstract": "Alveolar echinococcosis (AE), caused by Echinococcus multilocularis (E. multilocularis), exhibits tumor-like, invasive growth in the liver. Unlike cystic echinococcosis, AE lesions are often bordered by loose fibrosis rather than a dense fibrotic capsule. The mechanism by which the parasite attenuates this host fibrotic response remains unknown.",
+        "source": "PubMed",
+        "doi": "10.1093/infdis/jiag215",
+        "keyword": "Exosomes",
+        "title_ja": "壁を打ち破る：多包虫エキソソーム中のemu-miR-745-3pが宿主肝線維化を減衰させ、浸潤性病変の発達を可能にする。",
+        "summary_ja": "多包条虫（Echinococcus multilocularis）による多包虫症（AE）では、肝臓に腫瘍様の浸潤性病変が形成される。本論文は、寄生虫が宿主の線維化応答を減弱させるメカニズムを解明した。寄生虫由来エクソソームに含まれるmiRNA（emu-miR-745-3p）が宿主の肝星細胞に取り込まれ、TGF-βシグナル経路を抑制することで、線維化を抑制することを示した。これにより、緻密な線維性被膜ではなく緩い線維化が生じ、寄生虫の浸潤性増殖が可能になると結論づけた。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Integrated serum proteomic and liver genomic analyses identify molecular signatures associated with metabolic dysfunction-associated steatotic liver disease: a multi-cohort study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41998640/",
+        "abstract": "Circulating proteomics acts as an intermediate phenotype linking genetic susceptibility to MASLD. However, current evidence rarely establishes a direct concordance between serum protein levels and hepatic gene expression. We aimed to perform a multi-cohort joint analysis of serum proteomics and transcriptomics to characterize essential molecular features for MASLD.",
+        "source": "PubMed",
+        "doi": "10.1186/s12916-026-04834-8",
+        "keyword": "Exosomes",
+        "title_ja": "統合血清プロテオミクスおよび肝臓ゲノミクス解析による代謝機能不全関連脂肪性肝疾患の分子シグネチャーの同定：多コホート研究",
+        "summary_ja": "本論文は、血清プロテオミクスと肝臓トランスクリプトミクスの統合解析により、代謝機能障害関連脂肪性肝疾患（MASLD）の分子特性を明らかにする多コホート研究である。血清プロテオミクスは遺伝的素因とMASLDを結ぶ中間表現型として機能するが、血清タンパク質レベルと肝遺伝子発現の直接的な一致は未解明であった。本研究は、両データの統合解析を通じて、MASLDの本質的な分子シグネチャーを同定した。"
+      },
+      {
+        "title": "Neuro-Behavioral Improvement and Mechanistic Pathways of Bone Marrow-Derived Mesenchymal Stem Cells and Exosomes in Experimental Multiple Sclerosis: A Systematic Review and Meta-analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41998337/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s10571-026-01715-9",
+        "keyword": "Exosomes",
+        "title_ja": "実験的多発性硬化症における骨髄由来間葉系幹細胞およびエクソソームの神経行動学的改善と機序的経路：系統的レビューとメタ分析",
+        "summary_ja": "本論文は、実験的多発性硬化症（MS）モデルにおいて、骨髄由来間葉系幹細胞（BM-MSCs）およびそのエクソソームの神経行動改善効果と作用機序を検証したシステマティックレビュー・メタ分析である。\n\n結果、BM-MSCsとそのエクソソームは、神経炎症の抑制、脱髄の軽減、神経保護・再生の促進により、臨床スコアを有意に改善した。主要な作用機序として、免疫調節（T細胞応答の抑制）、抗炎症性サイトカインの増加、神経栄養因子の分泌、ミエリン形成の促進が同定された。これらは、MS治療の新たな細胞・細胞外小胞療法の基盤となる知見である。"
+      },
+      {
+        "title": "Discovery of actinators, actin-derived bioactive peptides that modulate cytoskeleton and actin-related cellular activities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41996500/",
+        "abstract": "The cortical actin cytoskeleton serves as a structural support and force-generating machinery in cells, but the actin meshwork can also act as a barrier, hindering the delivery of extracellular substances. To address the issue of the cortical actin barrier, we engineered synthetic libraries of human β-actin-derived peptides to promote actin dynamics. Here, we report the discovery of six major peptides, collectively termed actinators, that are biologically active in selective modulation of actin-related cellular activities. Using retro- and lentiviral vector transduction of CAR T cells as a model, we demonstrate that an actinator markedly enhances viral vector transduction 20- to 30-fold. An individual actinator can also selectively modulate cellular functions such as regulating surface receptors, enhancing T cell adhesion, and promoting the cellular uptake of exosomes. Molecular docking and protein phosphorylation studies confirmed that actinators can modulate actin-binding proteins like cofilin. Actinators represent a class of actin-derived bioactive peptides with diverse applications in gene and immune therapies, drug delivery, and disease treatment.",
+        "source": "PubMed",
+        "doi": "10.1126/sciadv.aeb5548",
+        "keyword": "Exosomes",
+        "title_ja": "アクチン関連細胞活性を調節する細胞骨格由来生理活性ペプチド「アクチネーター」の発見",
+        "summary_ja": "**要約**\n細胞骨格を構成するβ-アクチン由来の合成ペプチドライブラリーから、アクチン関連細胞活動を選択的に調節する6種の生物活性ペプチド「アクチネーター」を発見した。アクチネーターは、アクチン結合タンパク質（例：コフィリン）を調節し、皮質アクチン障壁を動態化する。CAR-T細胞へのレトロ/レンチウイルスベクター導入を20～30倍増強し、表面受容体調節、T細胞接着促進、エクソソーム取り込み向上などの機能も選択的に制御する。これにより、遺伝子・免疫療法、薬剤送達、疾患治療への応用が期待される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "High-gradient magnetic separation chip-based small extracellular vesicle isolation for noninvasive subtyping of primary aldosteronism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41996506/",
+        "abstract": "Primary aldosteronism (PA), a leading cause of secondary hypertension, remains vastly underdiagnosed due to unreliable screening tools. We developed an integrated platform combining a high-gradient magnetic separation three-dimensional (HGMS-3D) chip and locked nucleic acid (LNA)-enhanced droplet digital polymerase chain reaction (ddPCR) for noninvasive detection of potassium inwardly rectifying channel subfamily J member 5 (",
+        "source": "PubMed",
+        "doi": "10.1126/sciadv.aeb4949",
+        "keyword": "sEVs",
+        "title_ja": "高勾配磁気分離チップを用いた小型細胞外小胞の分離による原発性アルドステロン症の非侵襲的サブタイピング",
+        "summary_ja": "本論文は、原発性アルドステロン症（PA）の非侵襲的サブタイピングのため、高勾配磁気分離3Dチップ（HGMS-3D）とLNA増強型ddPCRを統合したプラットフォームを開発した。従来の診断法は信頼性に課題があったが、この手法により血中からの小胞外小胞（sEV）を効率的に分離・濃縮し、その中に含まれるKCNJ5遺伝子変異を高感度に検出することに成功した。これにより、PAの原因となる副腎腫瘍の非侵襲的な鑑別診断が可能となる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. 大腸癌早期発見の新規バイオマーカー (pFLNA in sEVs)**\n血漿sEV中のリン酸化フィラミンA(pFLNA)は、高リスク腺腫や大腸癌の新規バイオマーカー候補。侵襲的な内視鏡検査に代わる液体生検による早期発見・スクリーニングへの応用が期待される。\n\n**2. 卵巣老化の鍵となるメカニズム (KLOTHO欠乏)**\n抗老化因子KLOTHOの欠乏が顆粒膜細胞の老化・機能不全を誘導し、卵巣老化を駆動する。加齢に伴う不妊や卵巣機能低下の根本治療法開発（例：KLOTHO補充療法）への道筋を示す。\n\n**3. アクセス可能な細胞療法の新展開 (CAR-NK細胞)**\n既製（オフザシェルフ）の同種CAR-NK細胞療法が、多剤耐性B細胞リンパ腫で有望な結果。CAR-T療法の課題（製造コスト、待機時間）を克服し、よりアクセスしやすい細胞療法の実用化が進む。\n\n**4. 脳疾患治療のドラッグデリバリー革新 (エクソソーム-リポソームハイブリッド)**\nエクソソームとリポソームのハイブリッドナノキャリアが、血液脳関門(BBB)を標的化して通過。中枢神経系疾患（アルツハイマー病等）への治療薬効率的送達システムの開発に寄与。\n\n**5. 寄生虫感染症の病態形成メカニズム (寄生虫エクソソームmiRNA)**\n多包条虫のエクソソーム内miRNAが宿主肝臓の線維化を抑制し、寄生虫の浸潤を許容。宿主-寄生虫相互作用の新たな理解と、感染症治療の新規標的（エクソソームシグナル阻害）につながる発見。"
+}

@@ -1,0 +1,164 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Statins targeting mevalonate-geranylgeranyl diphosphate pathway inhibit proliferation in NK/T lymphoma by promoting pyroptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41932011/",
+        "abstract": "Pyroptosis, an inflammation-driven programmed cell death, plays a pivotal role in the carcinogenicity of various tumors. Given the proven antitumor effects of statins, this study investigated whether statins suppress natural killer /T cell lymphoma (NKTCL) via pyroptosis and the underlying mechanism. NKYS and YT cells were treated with different concentrations of statins. The carcinogenicity of cells was validated through cell viability and invasion assays. The level of cell cycle, apoptosis, and the number of pyroptosis cells were evaluated via flow cytometry. Western-blot and immunofluorescence assays were conducted to verify the expressions of pyroptosis and immunity related proteins. The morphological characteristics of cell pyroptosis were observed via transmission electron microscopy. A subcutaneous transplant tumor model was used to verify the inhibitory effect of fluvastatin (FLU) on NKTCL cells in vivo. FLU inhibited the carcinogenicity of NKTCL cells in a concentration-dependent manner, and activated pyroptosis and its related immunity levels, which were represented by swelling of cell morphology, formation of inflammasome, and elevated expressions of gasdermin D, cleaved caspase-1 and interleukin-1β/18. Administration of pyroptosis inhibitors and exogenous mevalonate (MVA) or geranyl pyrophosphate (GGPP) partially weakened the inhibitory effect of FLU on NKTCL cells both in vitro and in vivo. Lastly, FLU and gemcitabine demonstrated satisfactory synergistic effects in tumor suppression and pyroptosis activation. Our data suggest that FLU represses NKTCL growth by promoting pyroptosis via the MVA-GGPP pathway.",
+        "source": "PubMed",
+        "doi": "10.1016/j.tranon.2026.102747",
+        "keyword": "NK cell therapy",
+        "title_ja": "メバロン酸-ゲラニルゲラニル二リン酸経路を標的とするスタチンは、パイロトーシスを促進することでNK/T細胞リンパ腫の増殖を抑制する。",
+        "summary_ja": "本論文は、スタチンがメバロン酸-ゲラニルゲラニル二リン酸（MVA-GGPP）経路を阻害することで、NK/T細胞リンパ腫（NKTCL）の増殖を抑制するメカニズムを検証した。研究では、フルバスタチン（FLU）が濃度依存的にNKTCL細胞の生存と浸潤を抑制し、細胞膨化やインフラマソーム形成などの形態的変化を伴うピロトーシス（炎症性細胞死）を誘導することを確認した。この過程では、ガスダーミンDや活性化カスパーゼ-1、インターロイキン-1β/18の発現上昇が認められた。ピロトーシス阻害剤やMVA・GGPPの添加によりFLUの抑制効果が部分的に減弱したことから、MVA-GGPP経路を介したピロトーシスの促進が抗腫瘍作用の主要機序であると示唆された。さらに、FLUはゲムシタビンと協調的な腫瘍抑制効果を示した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Differential expression analysis of serum exosome miRNAs in acral melanocytic tumor.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42001282/",
+        "abstract": "Acral melanocytic tumors are a common cutaneous neoplasm with malignant potential. Early and non-invasive biomarkers for identifying malignant transformation remain lacking. Exosomal microRNAs (miRNAs) have shown great potential as stable diagnostic indicators in various cancers.",
+        "source": "PubMed",
+        "doi": "10.36721/PJPS.2026.39.6.168.1",
+        "keyword": "Exosomes",
+        "title_ja": "末端黒色腫における血清エクソソームmiRNAの差次的発現解析",
+        "summary_ja": "アクロールメラノサイト性腫瘍は悪性化リスクを持つ皮膚腫瘍である。悪性転換を早期に非侵襲的に識別するバイオマーカーは不足している。本研究は、血清エクソソームmiRNAに着目。エクソソームmiRNAは各種癌で安定した診断指標として有望である。悪性腫瘍と良性腫瘍の患者血清エクソソームmiRNAを比較解析し、発現変動を示すmiRNAを同定。これらは悪性化の潜在的なバイオマーカー候補となる。"
+      },
+      {
+        "title": "Turmeric-derived exosome-coated ZIF-8 nanoplatform for targeted delivery of TGF-β1 siRNA in the treatment of liver fibrosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42001054/",
+        "abstract": "Liver fibrosis constitutes a progressive pathological condition for which TGF-β1 pathway-targeted siRNA therapy holds considerable therapeutic potential. Nevertheless, clinical application of TGF-β1 siRNA is critically limited by inherent instability and inefficient delivery in vivo. In this study, we engineered an innovative siRNA delivery platform through the integration of turmeric-derived exosome-like nanovesicles (TDEs) with a metal-organic framework (ZIF-8) to generate TDEs@ZIF-8@TGFβ1siRNA nanoparticles, thereby enhancing siRNA delivery efficiency and therapeutic efficacy in liver fibrosis. Characterization revealed TDEs@ZIF-8@TGFβ1siRNA nanoparticles exhibited a well-defined nanostructure with a high TGF-β1 siRNA encapsulation efficiency of 64.73%. Additionally, the system exhibited pH-responsive release and lysosomal escape capabilities, significantly enhancing siRNA stability and cellular uptake efficiency. In vitro, TDEs@ZIF-8@TGFβ1siRNA effectively inhibited hepatic stellate cells (HSCs) activation, reducing TGF-β1, Collagen I, and CTGF mRNA levels by 78.6%, 72.1%, and 69.4%, respectively. In a CCl",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04430-1",
+        "keyword": "Exosomes",
+        "title_ja": "ウコン由来エクソソームでコーティングしたZIF-8ナノプラットフォームによるTGF-β1 siRNAの標的送達：肝線維症治療への応用",
+        "summary_ja": "本論文では、肝線維症治療のためのTGF-β1 siRNA標的送達プラットフォームとして、ウコン由来エクソソーム様ナノ小胞（TDEs）と金属有機構造体（ZIF-8）を組み合わせたTDEs@ZIF-8@TGFβ1siRNAナノ粒子を開発した。本ナノ粒子は、高いsiRNA封入効率（64.73%）、pH応答性放出、リソソーム脱出能を示し、siRNAの安定性と細胞取り込み効率を向上させた。in vitroでは、肝星細胞の活性化を抑制し、TGF-β1、コラーゲンI、CTGFのmRNA発現をそれぞれ78.6%、72.1%、69.4%減少させた。CCl4誘発肝線維症マウスモデルでも、肝線維化マーカーの有意な減少と肝機能の改善を確認し、本プラットフォームの有効性を実証した。"
+      },
+      {
+        "title": "Cell immunotherapy in autoimmune rheumatic diseases: a paradigm shift in the therapy of autoimmune inflammatory rheumatic diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42000955/",
+        "abstract": "Autoimmune inflammatory rheumatic diseases (AIRDs) remain a major cause of chronic morbidity worldwide despite substantial advances in biologic and targeted synthetic disease-modifying antirheumatic drugs. A considerable proportion of patients experience inadequate disease control, intolerance, or primary nonresponse, highlighting the need for fundamentally different therapeutic strategies. Cell-based immunotherapies represent a paradigm shift, aiming not merely to suppress inflammation but to re-establish immune tolerance and restore physiological immune homeostasis. Mesenchymal stem cell (MSC) therapy, regulatory T cell (Treg) immunotherapy, chimeric antigen receptor (CAR)-T cell therapy, and emerging exosome-based approaches are at the forefront of this transformation. MSCs exert broad immunomodulatory, anti-inflammatory, and reparative effects through coordinated actions on innate and adaptive immune cells, paracrine signalling, extracellular vesicles, and metabolic and epigenetic reprogramming. Early-phase clinical studies in refractory rheumatoid arthritis and systemic lupus erythematosus demonstrate clinically meaningful improvements with acceptable short-term safety, although heterogeneity in cell sources, manufacturing, and treatment protocols remains a key limitation. Treg-based therapies seek to correct defective immune tolerance by restoring regulatory cell number and function, offering the potential for durable disease control but currently constrained by cost, technical complexity, and safety considerations. CAR-T cell therapy, initially developed for haematological malignancies, has shown unprecedented efficacy in selected refractory autoimmune diseases by selectively depleting pathogenic immune cell populations, with reports of sustained, and in some cases drug-free, remission. Exosome-based therapies provide a promising cell-free alternative, potentially improving safety, scalability, and standardisation. Optimal patient selection, early intervention, and long-term safety will be critical determinants of success. Cell immunotherapy has the potential to redefine AIRD management, shifting from chronic immunosuppression toward sustained remission and possible cure.",
+        "source": "PubMed",
+        "doi": "10.1007/s10067-026-08103-0",
+        "keyword": "Exosomes",
+        "title_ja": "自己免疫性リウマチ性疾患における細胞免疫療法：自己免疫性炎症性リウマチ性疾患治療のパラダイムシフト",
+        "summary_ja": "自己免疫性炎症性リウマチ疾患（AIRD）では、従来治療に不応・不耐容の症例が多く、根本的に異なる治療戦略が求められている。細胞免疫療法は、炎症抑制だけでなく免疫寛容の再構築を目指すパラダイムシフトである。間葉系幹細胞（MSC）療法、制御性T細胞（Treg）療法、CAR-T細胞療法、エクソソーム療法などが中心であり、MSCは広範な免疫調節・修復作用を示す。初期臨床試験では難治性関節リウマチや全身性エリテマトーデスで有効性が示されているが、細胞ソースや製造法の標準化が課題である。CAR-T療法は難治例で持続的寛解をもたらす可能性がある。最適な患者選択と長期安全性の評価が今後の鍵となる。"
+      },
+      {
+        "title": "A noninvasive urinary microRNA-based assay for early detection of lung cancer and its potential application to prognosis and recurrence monitoring: a case-control study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42000891/",
+        "abstract": "Lung cancer remains the leading cause of cancer-related mortality worldwide, with recurrence or cancer-related death occurring even after curative-intent therapy. In this multicenter case-control study, we developed and validated a noninvasive urinary extracellular vesicle-derived microRNA (miRNA)-based assay for early-stage lung cancer detection and explored its utility for prognosis prediction and recurrence monitoring. Urine samples from 278 patients with lung cancer (half with early-stage disease) and 213 non-cancer controls were analyzed using small RNA sequencing and machine learning. The detection model showed high performance, with AUCs of 0.942 in the training and 0.941 in the test set. Sensitivity and specificity for early-stage lung cancer were 82.0% and 92.5% in the training set, and 88.2% and 87.0% in the test set, respectively. Twelve miRNAs decreased after surgery and rose again at recurrence. Eleven miRNAs were significantly associated with recurrence-free survival, and a 3-miRNA prognostic panel stratified patients into high- and low-risk groups with significantly different outcomes. Although systemic differences in age and sample storage between cohorts were observed, these findings suggest that urinary EV-miRNA profiling may be useful for early detection of lung cancer in a case-control setting and underscore its potential relevance for prognosis prediction and recurrence monitoring.",
+        "source": "PubMed",
+        "doi": "10.1038/s41698-026-01418-w",
+        "keyword": "Exosomes",
+        "title_ja": "非侵襲的尿中マイクロRNAに基づく肺癌早期検出アッセイとその予後・再発モニタリングへの応用可能性：症例対照研究",
+        "summary_ja": "本論文は、尿中細胞外小胞由来マイクロRNA（miRNA）を用いた非侵襲的検査による早期肺がん検出の可能性を検証した多施設症例対照研究である。278例の肺がん患者（半数は早期）と213例の対照から尿サンプルを採取し、small RNAシーケンシングと機械学習により解析した。検出モデルは早期肺がんに対し高い性能（AUC 0.941）を示し、感度88.2%、特異度87.0%を達成した。さらに、12種類のmiRNAは術後に減少し再発時に上昇し、3種類のmiRNAからなる予後パネルは再発リスクを層別化できた。尿中EV-miRNAプロファイリングは、早期発見に加え、予後予測や再発モニタリングへの応用可能性が示唆された。"
+      },
+      {
+        "title": "Cancer-Associated Fibroblasts-Derived Exosomal HOXC8 Promotes Glycolysis and Malignant Metastasis of Lung Cancer Cells via CDKN3.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41999541/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s10528-026-11372-8",
+        "keyword": "Exosomes",
+        "title_ja": "がん関連線維芽細胞由来エクソソーム内HOXC8は、CDKN3を介して肺がん細胞の解糖系と悪性転移を促進する。",
+        "summary_ja": "本論文は、がん関連線維芽細胞（CAFs）由来のエクソソームが、肺がん細胞の解糖系亢進と悪性転移を促進する分子メカニズムを解明した。CAFsのエクソソームは転写因子HOXC8を肺がん細胞へ移送する。移入されたHOXC8はCDKN3遺伝子の転写を直接活性化し、その結果、解糖系酵素の活性上昇と上皮間葉転換（EMT）を誘導する。これにより、肺がん細胞の増殖、浸潤、転移が促進される。HOXC8/CDKN3シグナル軸は、肺がんの進展における新たな治療標的となる可能性がある。"
+      },
+      {
+        "title": "Nature's Power at Nanoscale: Isolation and Characterization of Exosome-like Nanovesicles from Murraya koenigii.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41999475/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s12010-026-05699-6",
+        "keyword": "Exosomes",
+        "title_ja": "ナノスケールで見る自然の力: ムラサキセンダン由来エクソソーム様ナノ小胞の単離と特性解析",
+        "summary_ja": "タイトル：ナノスケールの自然の力：Murraya koenigiiからのエクソソーム様ナノ小胞の単離と特性評価\n\n要約：本研究は、ハーブ植物Murraya koenigii（カレーリーフ）から、エクソソームに類似した生体由来ナノ小胞（ELNVs）を初めて単離・特性評価した。超遠心法により抽出したこれらの植物性ナノ小胞は、粒径が約150nmで、脂質二重膜構造を有し、タンパク質やRNAなどの生体分子を内包していた。動物細胞のエクソソームと形態的・物理的特性が類似しており、生体適合性の高いドラッグデリバリーシステムや機能性分子の天然源としての応用可能性を示唆している。"
+      },
+      {
+        "title": "Cisplatin-induced renal toxicity: an integrated view of molecular pathways and emerging therapeutic targets-a comprehensive review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41999298/",
+        "abstract": "Cisplatin is a widely used chemotherapeutic agent effective against a variety of solid tumors; however, its clinical utility is limited by dose-dependent nephrotoxicity. Cisplatin-induced renal injury involves a complex pathophysiology, including transporter-mediated uptake, biotransformation into reactive metabolites, oxidative stress, mitochondrial dysfunction, DNA damage, inflammation, and activation of cell death pathways such as apoptosis, necroptosis, and ferroptosis. Hydration therapy remains the primary clinical intervention; however, it provides limited protection, particularly in high-risk patient populations. Emerging biomarkers such as NGAL, KIM-1, cystatin C, and IL-18 enable earlier and more accurate detection of renal injury, whereas conventional markers, including serum creatinine and blood urea nitrogen (BUN), lack sensitivity for early diagnosis. Several pharmacological strategies targeting oxidative stress, inflammasome activation, mitochondrial dysfunction, and regulated cell death pathways are being investigated for their nephroprotective potential. Compounds such as MitoQ, ferrostatin-1, necrostatin-1, and NLRP3 inhibitors have demonstrated promising effects in preclinical models by attenuating cisplatin-induced renal damage. In addition, emerging approaches, including growth factors, stem cell-derived exosomes, and biomarker-guided therapeutic strategies, offer promising avenues for clinical translation. Overall, this review highlights the need for individualized, multi-targeted strategies to prevent and manage cisplatin-induced nephrotoxicity by integrating mechanistic insights, clinical challenges, and emerging therapeutic advances. Such approaches may improve cancer treatment outcomes while preserving renal function.",
+        "source": "PubMed",
+        "doi": "10.1080/15376516.2026.2656926",
+        "keyword": "Exosomes",
+        "title_ja": "シスプラチン誘発性腎毒性：分子経路と新たな治療標的の統合的視点―包括的レビュー",
+        "summary_ja": "シスプラチンは有効な抗がん剤だが、用量依存性の腎毒性が臨床使用を制限している。その腎障害は、トランスポーターを介した取り込み、活性代謝物の生成、酸化ストレス、ミトコンドリア機能障害、DNA損傷、炎症、アポトーシス・ネクロプトーシス・フェロプトーシスなどの細胞死経路の活性化を含む複雑な機序による。従来の血清クレアチニンやBUNは早期診断に不十分であり、NGALやKIM-1などの新規バイオマーカーが早期検出に有用である。水分補液療法に加え、酸化ストレスや炎症、細胞死経路を標的としたMitoQやフェロスタチン-1などの薬剤、さらには成長因子や幹細胞由来エクソソームを用いた新規治療戦略が前臨床段階で有望視されている。個別化された多標的アプローチにより、腎機能を保護しつつがん治療の成果を向上させることが今後の課題である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Exosomal lncRNA SILC1 from bicalutamide-activated mesenchymal stem cells promotes prostate cancer survival and bicalutamide resistance via the miR-577/RHOA axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42001081/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-08105-1",
+        "keyword": "Exosomes",
+        "title_ja": "ビカルタミド活性化間葉系幹細胞由来のエクソソーム長鎖非コードRNA SILC1は、miR-577/RHOA軸を介して前立腺癌の生存とビカルタミド耐性を促進する",
+        "summary_ja": "**要約：**\n本論文は、前立腺癌治療薬ビカルタミドが間葉系幹細胞（MSC）を活性化し、エクソソームを通じて長鎖非コードRNA SILC1を放出させることを報告する。放出されたSILC1は前立腺癌細胞に取り込まれ、miR-577をスポンジ状に吸着・抑制する。これによりmiR-577の標的であるRHOAの発現が増加し、結果として癌細胞の生存促進とビカルタミド耐性獲得を引き起こす。MSC由来エクソソーム中のSILc1/miR-577/RHOA軸が、前立腺癌の治療抵抗性獲得の新たなメカニズムであることを示唆する。"
+      },
+      {
+        "title": "Comparative analysis of extracellular vesicles released from resting neutrophils under distinct pharmacological inhibition.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42000854/",
+        "abstract": "Cells in resting conditions spontaneously release extracellular vesicles (EVs). Comparative studies for pharmacological EV inhibition, targeting multiple biogenesis elements within the same cell type, remain scarce. Spontaneously released neutrophil-derived EVs are important mediators of immunity that exhibit anti-inflammatory properties. Here, we present a systematic investigation of seven pharmacologic inhibitors (calpeptin, D-pantethine, Y27632, cytochalasin D, GW4869, R5421, and Nexinhib20) on the quantitative and qualitative properties of the selected EV population (16,100 g pellet obtained by filtration, size‑exclusion chromatography, and differential centrifugation) derived from resting neutrophils. We measured EV numbers, size distribution, total lipid, protein, and RNA content. We also analyzed EV morphology by cryogenic electron microscopy and EV cargo composition qualitatively by mass spectrometry and RNA sequencing. The results revealed differential profiles of proteins, mRNAs, and miRNAs depending on the inhibitor applied, as well as changes in the physical characteristics of the EVs. Inhibition of a single biogenesis pathway often led to compensatory upregulation of alternative vesicle formation mechanisms, as reflected in preserved EV numbers but altered cargo composition. These findings underscore the necessity of carefully selecting and reporting EV-inhibiting pharmacologic agents, as each compound uniquely shapes both the quantity and biological cargo of released EVs, and may have physiological consequences.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-48570-8",
+        "keyword": "Exosomes",
+        "title_ja": "静止好中球からの細胞外小胞放出の薬理学的阻害下における比較解析",
+        "summary_ja": "静止状態の好中球が自然放出する細胞外小胞（EVs）について、7種類の薬理学的阻害剤（calpeptin、D-pantethine、Y27632、cytochalasin D、GW4869、R5421、Nexinhib20）の影響を体系的に解析した。EVの数・サイズ・脂質・タンパク質・RNAを定量し、クライオ電子顕微鏡・質量分析・RNAシーケンスで性状・カーゴを評価した。結果、各阻害剤はEVの物理的特性とタンパク質・mRNA・miRNAの組成を特異的に変化させた。単一生合成経路の阻害は、代替経路の補償的活性化を引き起こし、EV数は維持されてもカーゴ組成が変化した。EV阻害剤の選択は、放出EVの量と生物学的カーゴに特異的影響を与えるため、注意深い選定と報告が重要である。"
+      },
+      {
+        "title": "Liquid biopsy in modern medicine: advancing diagnostics from molecular insights to clinical practice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41999549/",
+        "abstract": "Liquid biopsy is the analysis of tumour components in bodily fluids and is increasingly considered a complementary approach to conventional diagnostics. Although tissue biopsy is the gold standard in clinical diagnostics, this approach is invasive, spatially restricted, and often difficult to perform repeatedly. Liquid biopsy is a minimally invasive approach for molecular analysis of tumours using circulating tumour DNA, cells, and extracellular vesicles, including exosomes. Although significant progress in this field has been made, a comprehensive synthesis of the biological basis, analytical methods, and clinical utility of these circulating markers still seems fragmented, with considerable methodological heterogeneity hindering standardised clinical use. This, in turn, underscores the need to understand the appropriate approach to the clinical utility of liquid biopsy. This review article is a concise and comprehensive synthesis of important liquid biopsy markers, a review of detection methods and their utility in cancer management, and an examination of the methodological limitations of this approach, including sensitivity, standardisation, and interpretation. This review article consolidates current evidence and highlights the importance of liquid biopsy and its utility for disease monitoring and precision oncology-based therapeutic decisions.",
+        "source": "PubMed",
+        "doi": "10.1007/s12094-026-04363-z",
+        "keyword": "Exosomes",
+        "title_ja": "現代医療におけるリキッドバイオプシー：分子レベルの知見から臨床実践へ進化する診断法",
+        "summary_ja": "液体生検は、血液等の体液に含まれる循環腫瘍DNA・細胞・エクソソーム等を解析し、腫瘍の分子情報を得る低侵襲的手法である。従来の組織生検に比べ反復可能だが、検出感度や手法の標準化など課題も残る。本総説は、主要なバイオマーカーと検出法、臨床応用（疾患モニタリング・精密医療）を整理し、標準的な臨床導入に向けた現状と限界を概説する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. スタチンによるNK/T細胞リンパ腫治療**\nスタチンがメバロン酸経路を阻害し、NK/T細胞リンパ腫の増殖を抑制し、ピロトーシスを誘導する新機序を解明。既存薬の新たな適応として、難治性リンパ腫への低コスト治療戦略となり得る。\n\n**2. エクソソームmiRNAによる早期肺がん検出**\n尿中エクソソームmiRNAを用いた非侵襲的検査が、早期肺がんの検出・予後・再発モニタリングに有望。液体生検の実用化を加速し、スクリーニングと個別化医療への応用が期待される。\n\n**3. 植物由来エクソソーム様ナノ小胞の創薬応用**\nカレーリーフからエクソソーム様ナノ小胞を単離。天然物由来の生体適合性高いドラッグデリバリーシステムとして、低毒性・高効率な新規ナノ医薬品開発の基盤となる。\n\n**4. 細胞免疫療法による自己免疫疾患治療のパラダイムシフト**\nMSCや制御性T細胞を用いた細胞療法は、自己免疫性リウマチ疾患において免疫寛容の再構築を目指す。従来治療に不応の患者に対する根治的な新治療法として期待される。\n\n**5. CAF由来エクソソームが促進するがん悪性化**\n肺がんのがん関連線維芽細胞(CAF)が放出するエクソソームが、HOXC8を介してがん細胞の解糖系と転移を促進する機序を解明。腫瘍微小環境を標的とした新たな治療戦略開発に貢献。"
+}

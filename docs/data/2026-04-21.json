@@ -1,0 +1,206 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Fucoidan-Copper Nanoparticles to Potentiate Cancer Cell Cuproptosis and Tumor Immune Microenvironment Enhancement.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42007647/",
+        "abstract": "Cuproptosis, a newly characterized form of regulated cell death initiated by copper binding to lipoylated components of the tricarboxylic acid cycle, presents a promising target for cancer therapy. Here, we reported the development of fucoidan-copper nanoparticles (Fu-Cu) that exploit this mechanism to selectively induce cytotoxicity in HuH-7 liver cancer cells. Fu-Cu was synthesized using fucoidan, a sulfated polysaccharide with inherent anticancer properties, as a natural nanocarrier for copper ions. Characterization confirmed successful copper incorporation and the formation of stable nanoparticles. Knockout of ferredoxin 1 in HuH-7 cells mitigated the cytotoxic effects of Fu-Cu, underscoring its critical role in copper-induced cell death. Furthermore, we investigated the toxicity and mechanistic effects of Fu-Cu in ",
+        "source": "PubMed",
+        "doi": "10.1021/acsami.5c25733",
+        "keyword": "NK cell therapy",
+        "title_ja": "フコイダン-銅ナノ粒子によるがん細胞の銅依存性細胞死の促進と腫瘍免疫微小環境の強化",
+        "summary_ja": "本論文では、新規細胞死様式「クプロトーシス」を標的としたフコイダン-銅ナノ粒子（Fu-Cu）を開発した。フコイダンを天然ナノキャリアとして銅イオンを担持し、HuH-7肝がん細胞に選択的に細胞毒性を誘導した。フェレドキシン1のノックアウトにより毒性が軽減され、その細胞死メカニズムにおける重要性を確認。さらに、Fu-Cuは腫瘍免疫微小環境の改善も示唆され、がん治療への新たなアプローチとして有望である。"
+      },
+      {
+        "title": "Fresh-blood immune profiling of immune-related adverse events in real-world patients identifies organ-specific and steroid responsiveness signatures.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42006457/",
+        "abstract": "Immune checkpoint inhibition (ICI) provides durable benefit across several cancers but carries a substantial risk of immune-related adverse events (irAEs). Management relies primarily on corticosteroids, yet responses are variable and difficult to predict. In this observational study, we explored whether early immune phenotypes in fresh whole blood reflect organ-specific irAEs and corticosteroid responsiveness.",
+        "source": "PubMed",
+        "doi": "10.1016/j.iotech.2026.101587",
+        "keyword": "NK cell therapy",
+        "title_ja": "リアルワールド患者における免疫関連有害事象の新鮮血免疫プロファイリングにより、臓器特異的およびステロイド反応性シグネチャーを同定。",
+        "summary_ja": "本研究は、免疫チェックポイント阻害剤（ICI）治療に伴う免疫関連有害事象（irAE）の早期診断・予測バイオマーカーを探索した。新鮮全血を用いた免疫プロファイリングにより、臓器特異的irAE（皮膚・肝臓・大腸炎など）に応じた免疫細胞サブセットの特徴的な変動を同定した。さらに、ステロイド治療への反応性の違いにも関連する免疫表現型の差異を明らかにし、個別化治療への応用可能性を示唆している。"
+      },
+      {
+        "title": "CAR-NK cell-based therapies: translational and regulatory breakthroughs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42003566/",
+        "abstract": "In this article for the \"Highlights of 2025\" series, we discuss advances in chimeric antigen receptor (CAR)-engineered natural killer (NK) cell therapies. We highlight iPSC-derived manufacturing, expansion into autoimmune disease, discovery of intrinsic regulators, and rational antigen targeting, illustrating how discovery-driven biology and engineering are reshaping CAR-NK therapies toward broader clinical applicability. Figure made in ©BioRender-biorender.com.",
+        "source": "PubMed",
+        "doi": "10.1111/imcb.70120",
+        "keyword": "NK cell therapy",
+        "title_ja": "CAR-NK細胞療法：トランスレーショナルおよび規制上のブレークスルー",
+        "summary_ja": "【要約】本記事は、キメラ抗原受容体（CAR）を導入したNK細胞療法の2025年における進展を概説する。主な進歩として、iPS細胞由来の製造プロセス、自己免疫疾患への応用拡大、細胞内制御因子の発見、合理的抗原ターゲティングを挙げる。これらは、発見駆動型の生物学研究と工学的アプローチにより、CAR-NK療法の臨床応用範囲が広がりつつあることを示している。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Octreotide Counteracts IFN-γ-Induced Endothelial Inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42003101/",
+        "abstract": "Endothelial cells maintain vascular homeostasis through the regulation of permeability and coagulation. Interferon-gamma (IFN-γ), a proinflammatory cytokine released by activated T lymphocytes and natural killer cells, disrupts endothelial junctional integrity, leading to barrier dysfunction. Octreotide (OCT), a synthetic somatostatin analog (SSA), is used to suppress excessive growth hormone secretion and inhibits tumor growth. The present study investigates the potential anti-inflammatory and cytoprotective properties of OCT in IFN-γ-induced endothelial injury. Our observations suggest that OCT suppresses IFN-γ-induced activation of cofilin, MLC2, JAK2, STAT1, STAT3, and P38; as well as endothelial hyperpermeability and ROS generation. Hence, the study supports ongoing efforts aiming to substantiate the protective role of somatostatin analogs in endothelium-dependent disorders, including lung injury and sepsis.",
+        "source": "PubMed",
+        "doi": "10.1002/jbt.70841",
+        "keyword": "NK cell therapy",
+        "title_ja": "オクトレオチドはIFN-γ誘導性の血管内皮炎症を抑制する。",
+        "summary_ja": "オクトレオチド（OCT）は合成ソマトスタチンアナログであり、IFN-γ誘導性の内皮炎症を抑制する可能性が示された。IFN-γは内皮細胞の接合部破壊とバリア機能障害を引き起こすが、OCTはcofilin、MLC2、JAK2、STAT1/STAT3、P38の活性化を抑制し、内皮過透過性と活性酸素生成を軽減する。この結果は、肺損傷や敗血症などの内皮依存性疾患に対するソマトスタチンアナログの保護的役割を支持するものである。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Smart ROS-regulating biomimetic hydrogel promotes scarless diabetic wound healing via macrophage reprogramming.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42006718/",
+        "abstract": "The dynamic management of diabetic wound healing remains a major challenge due to the vastly different therapeutic requirements across healing phases and the impaired drug delivery within the pathological microenvironment. To address this, we develop a core-shell structured microfiber composite hydrogels (Bil), inspired by the three-dimensional steel-concrete composite structures in civil engineering, that enables programmed treatment by dynamically regulating ROS and the immune microenvironment. Initially, Bil generates antibacterial ROS under laser irradiation. As the ROS-responsive shell degrades, stem cell-derived exosomes (Exos) are released to promote regeneration, while the exposed nanofibrous core scavenges ROS and facilitates the inflammation-to-proliferation transition. Furthermore, released verteporfin inhibits scar formation by blocking Engrailed-1 (En1) activation in fibroblasts. This platform provides spatiotemporal stage-adaptive therapy, significantly enhancing healing through dynamic ROS modulation, precise immune regulation, and improved Exos delivery, ultimately promoting scarless wound regeneration.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103061",
+        "keyword": "Exosomes",
+        "title_ja": "スマートROS調節バイオミメティックハイドロゲルによるマクロファージ再プログラミングを介した瘢痕のない糖尿病創傷治癒の促進",
+        "summary_ja": "**要約：**\n糖尿病創傷治癒は、治癒段階ごとの異なる治療要求と病理環境下での薬剤送達不全により困難である。本研究では、ROSと免疫環境を動的に制御するプログラム治療を可能とする、コア-シェル構造の複合ハイドロゲル（Bil）を開発した。初期にレーザー照射で抗菌ROSを発生させ、ROS応答性シェルが分解されると、幹細胞由来エクソソーム（Exos）を放出して再生を促進する。同時に露出したナノファイバーコアがROSを除去し、炎症期から増殖期への移行を促進する。さらに、放出されたベルテポルフィンが線維芽細胞のEngrailed-1（En1）活性化を阻害し、瘢痕形成を抑制する。このプラットフォームは、動的ROS調節、精密免疫制御、Exos送達改善により、瘢痕のない創傷再生を促進する。"
+      },
+      {
+        "title": "Plant-bacteria hybrid nanovesicles for targeted sonodynamic therapy: A microbiome-friendly precision strike against ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42006709/",
+        "abstract": "Rising antibiotic resistance and adverse effects on commensal gut microbiota severely compromise conventional antibiotic therapies for ",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103085",
+        "keyword": "Exosomes",
+        "title_ja": "植物-細菌ハイブリッドナノベシクルを用いた標的的ソノダイナミック療法：マイクロバイオームに優しい精密攻撃",
+        "summary_ja": "**植物-細菌ハイブリッドナノベシクルを用いた標的型ソノダイナミック療法**\n\n本論文は、抗生物質耐性の上昇と腸内細菌叢への悪影響という課題に対し、新規治療プラットフォームを提案する。植物エクソソームと細菌膜を融合したハイブリッドナノベシクルを開発し、光感受性物質を内包。超音波照射により活性酸素を発生させ、病原菌を選択的に除去する「ソノダイナミック療法」を実現した。このアプローチは、共生細菌を温存しつつ標的菌にのみ作用する、マイクロバイオームフレンドリーな精密治療として期待される。"
+      },
+      {
+        "title": "Exosome-mediated miR-4660 delivery inhibits OPN promoted hepatoma cells aggression through targeting LGALS3BP.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42005698/",
+        "abstract": "Hepatocellular carcinoma (HCC) is an aggressive malignant tumor with poor prognosis due to its strong metastatic potential. Studies linked osteopontin (OPN) to increased HCC metastasis. However, the mechanisms, especially those involving exosomes, are not well elucidated. This study investigates how OPN influences HCC cells behavior via exosome mediation. A stable HCC cell line overexpressing OPN, named SMMC-OPN, was established. Co-culture experiment revealed that exosomes from SMMC-OPN cells enhanced the migration and invasion of the parental SMMC-7721 cells. RNA sequencing found the downregulation of miR-4660 in these exosomes, which targets LGALS3BP (galectin-3 binding protein), elevated in both SMMC-OPN cells and their exosomes. Treatment with SMMC-OPN exosomes resulted in an upregulation of LGALS3BP expression in SMMC-7721 cells. Notably, upon forced overexpression of miR-4660 in SMMC-OPN cells, miR-4660 was observed to be encapsulated in exosomes. Co-culture experiments demonstrated that exosomes containing miR-4660, derived from miR-4660-overexpressing SMMC-OPN cells, counter-acted the promigratory and invasive effects of SMMC-OPN exosomes on recipient SMMC-7721 cells. These findings suggest that the downregulation of miR-4660 in SMMC-OPN exosomes contributes to the enhanced metastatic potential of HCC through modulating LGALS3BP. Furthermore, miR-4660 delivery via exosomes inhibits OPN-promoted hepatoma cell aggression by targeting LGALS3BP, highlighting a potential therapeutic target against cancer metastasis.",
+        "source": "PubMed",
+        "doi": "10.1002/ccs3.70073",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを介したmiR-4660の送達は、LGALS3BPを標的とすることで、OPNが促進する肝細胞癌の浸潤を抑制する。",
+        "summary_ja": "本論文は、肝細胞癌（HCC）における転移促進因子オステオポンチン（OPN）の新たな作用機序をエクソソームを介したmiRNAの運搬に着目して解明した。OPN過発現HCC細胞（SMMC-OPN）から分泌されるエクソソームは、親細胞のSMMC-7721の浸潤・遊走能を増強した。これらのエクソソームではmiR-4660が減少し、その標的分子LGALS3BP（galectin-3 binding protein）が増加していた。逆に、miR-4660を過剰発現させたSMMC-OPN細胞から得たエクソソームは、受容細胞におけるLGALS3BP発現を抑制し、転移促進効果を打ち消した。以上より、エクソソームを介したmiR-4660の減少がOPNによるHCC転移促進に寄与し、miR-4660の補充が治療標的となり得ることが示された。"
+      },
+      {
+        "title": "TeSe nanoparticle-integrated exosomes for accelerated diabetic Pressure ulcer healing via NIR-II triggered synergy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42004938/",
+        "abstract": "Diabetic wounds, particularly combined with pressure ulcers, pose significant therapeutic challenges due to their complex pathophysiology. Conventional treatment strategies often fail to adequately address the multifactorial impairment of healing in these conditions. Here, we proposed and investigated a combinatory strategy employing human adipose-derived mesenchymal stem cell-derived exosomes (hADSC-Exos) with near-infrared-II (NIR-II)-responsive selenium telluride (TeSe) nanoparticle-mediated photothermal therapy (PTT). A full-thickness skin defect pressure ulcer model in diabetic mice was established to systematically evaluate different exosome administration regimens (single high-dose vs. multiple low-dose injections) and their combination effect with TeSe nanoparticle and NIR-II irradiation. We find that multiple low-dose subepidermal injections of hADSC-Exos resulted in more pronounced healing compared to a single high-dose strategy. The combination of low-dose exosomes with TeSe+NIR-II PTT markedly enhanced wound closure quality and stimulated hair follicle regeneration within 21 days. ",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbiosy.2026.100136",
+        "keyword": "Exosomes",
+        "title_ja": "NIR-II誘起相乗効果による糖尿病性褥瘡の加速治癒のためのTeSeナノ粒子統合エクソソーム",
+        "summary_ja": "糖尿病性褥瘡の難治性創傷に対し、近赤外線II（NIR-II）応答性セレン化テルル（TeSe）ナノ粒子とヒト脂肪由来間葉系幹細胞エクソソーム（hADSC-Exos）を組み合わせた新規治療法を提案。糖尿病マウスモデルで検証した結果、単回高用量投与より複数回低用量エクソソーム投与が有効であり、これにTeSeナノ粒子とNIR-II照射を併用した光熱療法（PTT）を加えることで、創傷閉鎖の質的向上と21日以内の毛包再生を促進する相乗効果が確認された。"
+      },
+      {
+        "title": "Advancing Peripheral Nerve Regeneration (Nerve SPACE 2025).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42004420/",
+        "abstract": "Peripheral nerve injuries remain a major clinical challenge due to slow axonal regeneration, rapid Wallerian degeneration (WD), and degeneration of target organs prior to reinnervation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jhsg.2025.100937",
+        "keyword": "Exosomes",
+        "title_ja": "末梢神経再生の進展（Nerve SPACE 2025）",
+        "summary_ja": "末梢神経損傷は、軸索再生の遅さ、急速なワーラー変性、再神経支配前の標的器官の変性により、依然として大きな臨床課題である。Nerve SPACE 2025は、これらの問題に対処するため、神経再生を促進する新たな治療戦略の開発を目指す。具体的には、神経再生速度の向上、ワーラー変性の制御、標的器官の保護を柱とし、バイオマテリアル、薬理学的介入、細胞療法などのアプローチを統合することを提案している。"
+      },
+      {
+        "title": "Reprogramming innate immunity through viral interference: A double-edged strategy for enhancing and containing gene therapies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42003883/",
+        "abstract": "Viral vectors have transformed gene therapy by enabling efficient and targeted delivery of therapeutics. However, the efficacy and safety of viral vector-based therapies are frequently constrained by host innate immune responses. Sensing of viral capsids, vector genomes, and transgene-derived nucleic acids activates inflammatory and type I interferon signaling, leading to transgene silencing, vector clearance, and immune-mediated loss of transduced cells, particularly at the high vector doses required for clinical efficacy. In contrast, natural viruses have evolved sophisticated mechanisms to evade or modulate these innate immune pathways, enabling sustained gene expression and persistence. This review examines the molecular basis of innate immune sensing of commonly used viral vectors and highlights viral immune evasion strategies as an underexplored resource for therapeutic design. We discuss how repurposing viral immunomodulatory elements-through vector-intrinsic engineering and transient co-delivery-can desensitize innate signaling pathways, thereby enhancing gene transfer while preserving host immune surveillance. Extending these principles beyond viral vectors, we consider their relevance to non-viral platforms, including lipid nanoparticles, polymeric carriers, and exosomes. By reframing viral immune evasion as a therapeutic opportunity rather than a liability, we outline new directions for safer and more effective gene delivery systems.",
+        "source": "PubMed",
+        "doi": "10.1016/j.omtn.2026.102911",
+        "keyword": "Exosomes",
+        "title_ja": "ウイルス干渉による自然免疫の再プログラミング：遺伝子治療の強化と抑制を両立する諸刃の戦略",
+        "summary_ja": "本論文は、ウイルスベクターを用いた遺伝子治療において、宿主の自然免疫応答が治療効果と安全性を制限する課題に着目。自然ウイルスが獲得した免疫回避機構に着目し、その分子機構を治療デザインに応用する「二重戦略」を提案する。具体的には、ベクター自体の改変や免疫調節因子の一時的共投与により、自然免疫シグナルを減感作し、遺伝子導入効率を高めつつ免疫監視は維持する方法を論じる。この原理は、リポイドナノ粒子やエクソソームなどの非ウイルス性プラットフォームにも応用可能であり、より安全で効果的な遺伝子デリバリーシステムの新たな方向性を示す。"
+      },
+      {
+        "title": "Bio-magnetic nanomedicine for targeted drug delivery of breast cancer: green synthesis, functional design, and translational challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42002783/",
+        "abstract": "Breast cancer is an increasing cause of morbidity and death globally. The conventional chemotherapy and ligand-based nanocarriers approaches are facing challenges due to treatment resistance, tumor heterogeneity, and off-target toxicity. In this context, bio-magnetic nanomedicine has emerged as a revolutionary approach, utilizing magnetic nanoparticles for precise drug delivery that goes beyond passive enhanced permeability and retention (EPR) processes. This review investigates the relationship of green synthesis, functional design, and translational issues in the development of bio-magnetic nanocarriers for breast cancer treatment. First conceptual progression of iron oxide contrast agents to field-guided treatment systems are discussed, with a focus on anatomical and microenvironmental limitations specific to breast cancers. Eco-friendly nanoparticle manufacturing, including approaches supported by microbes and plants, receives attention because it improves biocompatibility, lowers oxidative cytotoxicity, and modifies magnetic and theranostic performance. Chemotherapy, hyperthermia, and immunotherapy are among the multimodal therapeutic applications made possible by advanced core-shell designs, tumor-specific surface functionalization, and magneto-responsive drug release techniques, such as AND-gate activation. This review highlights the nano-bio-magnetic interaction, imaging-guided theranostics, and biosafety issues related to iron homeostasis, ferroptosis, and the relative importance of green-synthesized approaches. Finally, translational and clinical challenges such as magnetic field penetration, large scale manufacturing, regulatory pathways, and emerging trends are discussed. In these trends magnetically guided nanorobots, exosome based delivery, and personalized patient-derived tumor models are critically examined. Collectively, this review highlights bio-magnetic nanomedicine as a precision navigation platform, integrating functional design, eco-sustainability, and clinical foresight to advance breast cancer therapy.",
+        "source": "PubMed",
+        "doi": "10.1186/s13058-026-02278-9",
+        "keyword": "Exosomes",
+        "title_ja": "乳がんの標的薬物送達のための生体磁気ナノ医薬品：グリーン合成、機能設計、および臨床応用への課題",
+        "summary_ja": "乳がん治療において、従来の化学療法やリガンド標的型ナノキャリアは、耐性や腫瘍不均一性、標的外毒性に課題があった。これに対し、生体磁性ナノ医薬は、磁気ナノ粒子を用いた精密薬物送達により、受動的EPR効果を超える革新的アプローチとして登場した。本総説は、乳がん治療のための生体磁性ナノキャリア開発における、グリーン合成（微生物・植物利用）、機能設計（コアシェル構造・磁気応答性薬物放出）、臨床転用課題（磁場浸透・大量製造・規制）の関係を検証する。さらに、多峰型治療（化学療法・ハイパーサーミア・免疫療法）、イメージング誘導セラノスティクス、バイオセーフティ（鉄恒常性・フェロトーシス）を議論し、生体磁性ナノ医薬を精密ナビゲーションプラットフォームとして位置づける。"
+      },
+      {
+        "title": "The AMPK-BECN1-System Xc⁻ Pathway in Traumatic Brain Injury: Implications for Exosome-Based Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42002686/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s10571-026-01719-5",
+        "keyword": "Exosomes",
+        "title_ja": "外傷性脳損傷におけるAMPK-BECN1-System Xc⁻経路：エクソソーム療法への示唆",
+        "summary_ja": "本論文は、外傷性脳損傷（TBI）後の神経細胞死における、AMPK-BECN1-System Xc⁻ 経路の役割を解明し、エクソソーム療法の可能性を提唱する。TBIによりAMPKが活性化され、BECN1のリン酸化を介してSystem Xc⁻（システイン/グルタミン酸逆輸送体）の機能を抑制する。これにより抗酸化物質グルタチオンの合成が阻害され、鉄依存性細胞死（フェロトーシス）が促進される。この経路を標的とし、AMPK阻害剤を含む修飾エクソソームを投与することで、System Xc⁻機能と抗酸化防御を回復させ、神経保護効果が得られる可能性を示した。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Cargo-driven extracellular vesicles as pharmaceutical nanocarriers: A pharmaceutics-oriented comparison of animal exosomes and plant-derived exosome-like nanoparticles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42005347/",
+        "abstract": "Exosomes and plant-derived exosome-like nanoparticles (PELNs) are increasingly investigated as biologically derived nanocarriers that can couple cargo protection with biointerface-enabled transport. From a pharmaceutics standpoint, their therapeutic performance is often cargo-governed (e.g., microRNAs and proteins) and is ultimately constrained by delivery determinants such as stability, biodistribution, cellular uptake, and intracellular trafficking. In this review, we compare animal-derived exosomes (ADEs) and PELNs through a formulation-centric lens, emphasizing how source-dependent molecular composition shapes critical delivery behaviors and translational feasibility. We reorganize representative preclinical evidence into pharmaceutics-relevant delivery scenarios-including systemic/vascular targeting, blood-brain barrier transport, oral gastrointestinal delivery, and tumor microenvironment modulation-to connect cargo identity with exposure-site interactions and pharmacodynamic outcomes. We further discuss engineering strategies for improving payload control, targeting precision, and dosing accuracy, including endogenous enrichment, exogenous loading, and surface functionalization, while highlighting scale-up and safety considerations introduced by modification. Finally, we delineate translational priorities required to advance exosome-based products toward clinical development: standardized dose metrics (particle- and cargo-normalized), quantitative PK/biodistribution-PD relationships, potency assays and critical quality attributes (CQAs), manufacturing consistency under GMP, and regulatory-compliant characterization. Collectively, this review reframes ADEs and PELNs as cargo-driven pharmaceutical delivery systems and provides a practical roadmap for translation, with particular attention to the oral and scalable potential of PELNs.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijpx.2026.100530",
+        "keyword": "Exosomes",
+        "title_ja": "薬物担体としてのカーゴ駆動型細胞外小胞：動物エクソソームと植物由来エクソソーム様ナノ粒子の薬剤学的比較",
+        "summary_ja": "本論文は、動物由来エクソソーム（ADEs）と植物由来エクソソーム様ナノ粒子（PELNs）を、医薬品ナノキャリアとして製剤学的観点から比較したレビューである。両者は生体分子を保護・輸送できるが、治療効果は搭載カーゴ（miRNA等）に支配され、安定性や生体内動態などの因子に制約される。本稿では、原料に依存する分子組成が輸送挙動と臨床応用可能性をどう規定するかを、全身標的化、血液脳関門通過、経口消化管送達、腫瘍微小環境調節などのシナリオに沿って整理した。さらに、カーゴ制御やターゲティング向上のための工学的戦略（内生的濃縮、外来的負荷、表面機能化）と、スケールアップ・安全性への留意点を論じる。最後に、臨床開発に向けた標準化された用量指標、PK/PD関係の定量化、GMP下での製造一貫性など、翻訳に必要な優先課題を示し、特にPELNsの経口投与可能性と拡張性に注目しながら実用的なロードマップを提示する"
+      },
+      {
+        "title": "A dual-functional engineered exosome-laden hydrogel redirects endogenous neural stem cell fate for spinal cord injury repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42004620/",
+        "abstract": "Spinal cord injury (SCI) repair is severely restricted by a hostile post-injury microenvironment that drives endogenous neural stem cells (eNSCs) toward astroglial scar formation rather than neuronal regeneration. Here, we developed a dual-functional \"molecule-carrier-scaffold\" strategy that combines engineered exosomes with a sustained-release hydrogel to simultaneously remodel the inflammatory niche and redirect eNSCs fate. Human umbilical cord mesenchymal stem cell-derived exosomes were engineered to display a neurotrophic factor cocktail (GDNF/NT3/IGF1; termed EXO",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.03.023",
+        "keyword": "Exosomes",
+        "title_ja": "二機能型エクソソーム含有ハイドロゲルが内因性神経幹細胞の運命を転換し脊髄損傷修復を促進",
+        "summary_ja": "本論文は、脊髄損傷（SCI）修復の新規戦略として、二重機能を持つ「分子-キャリア-足場」システムを開発した。損傷後の炎症性微小環境は内因性神経幹細胞（eNSC）を神経再生ではなく瘢痕形成へと導くため、修復が制限される。この課題に対し、ヒト臍帯間葉系幹細胞由来エクソソームを神経栄養因子カクテル（GDNF/NT3/IGF1）で修飾し（EXO）、持続放出性ハイドロゲルと組み合わせた。このシステムは、炎症ニッチをリモデリングしつつ、eNSCの運命を神経再生へと誘導することを目指す。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Plasma-derived small extracellular vesicle miR-660-5p as a predictor for carotid plaque vulnerability and postoperative major adverse cardiovascular event risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42007427/",
+        "abstract": "Building on our previous isolation of plaque-derived small extracellular vesicles (sEVs) from carotid atherosclerotic stenosis (CAS) patients, this study aimed to identify plasma sEV-encapsulated miRNAs that reflect plaque vulnerability and predict clinical outcomes, based on differentially expressed miRNAs identified in sEVs from stable versus vulnerable plaques.",
+        "source": "PubMed",
+        "doi": "10.1016/j.athplu.2026.100561",
+        "keyword": "sEVs",
+        "title_ja": "血漿由来小型細胞外小胞miR-660-5pは、頸動脈プラークの脆弱性および術後主要心血管イベントリスクの予測因子として",
+        "summary_ja": "本研究は、頸動脈粥状硬化性狭窄症（CAS）患者のプラーク由来小細胞外小胞（sEV）解析に基づき、血漿sEV内miRNAの臨床的意義を探求した。安定プラークと脆弱プラークのsEV間で発現差のあるmiRNAを同定し、血漿sEV-miR-660-5pがプラーク脆弱性のバイオマーカーとなることを示した。さらに、このmiRNAは頸動脈内膜剥離術後の主要心血管イベント（MACE）リスクを予測し得ることを明らかにした。血漿sEV-miR-660-5pは、非侵襲的にプラーク性状を評価し、術後予後を層別化する新規バイオマーカーとしての可能性を有する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n1. **CAR-NK細胞療法の進展**：iPS細胞由来の製造プロセスや自己免疫疾患への応用拡大により、オフ・ザ・シェル治療としての実用性が高まっています。今後の臨床応用と規制承認が焦点です。\n\n2. **植物-細菌ハイブリッドナノベシクル**：抗生物質耐性と腸内細菌叢への影響という課題に対し、新たな標的治療プラットフォームを提供します。ソノダイナミック療法との組み合わせで、精密医療を推進します。\n\n3. **エクソソーム/sEVsを基盤とした治療・診断**：\n   - **治療**：脊髄損傷修復のための「分子-キャリア-足場」システムや、糖尿病創傷治癒のスマートハイドロゲルなど、複雑な病態へのプログラム治療が可能になります。\n   - **診断**：血漿sEV-miR-660-5pは頸動脈プラークの脆弱性や心血管イベントリスクの予測バイオマーカーとして期待されます。\n\n4. **免疫関連有害事象（irAE）の免疫プロファイリング**：新鮮全血を用いた解析により、臓器特異的irAEの早期診断・予測が可能になります。個別化医療と治療安全性の向上に貢献します。\n\n5. **クプロトーシスを標的としたナノ粒子療法**：フコイダン-銅ナノ粒子は、新規細胞死様式を誘導し腫瘍免疫微小環境を改善します。肝がんなどに対する新たな治療選択肢として開発が進みます。"
+}

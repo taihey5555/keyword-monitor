@@ -1,0 +1,238 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "DNMT inhibitor ameliorates hyperglycemia and renal inflammation partially via reversing hypermethylation-induced Klotho suppression in diabetic mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42010679/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s13148-026-02116-x",
+        "keyword": "Klotho",
+        "title_ja": "DNMT阻害剤は、糖尿病マウスにおける高メチル化誘発性Klotho抑制の逆転を介し、高血糖と腎炎症を部分的に改善する。",
+        "summary_ja": "**要約：**\n本研究は、糖尿病マウスにおいて、DNAメチルトランスフェラーゼ（DNMT）阻害剤が高血糖と腎炎症を改善するメカニズムを検討した。その結果、糖尿病状態では腎臓の抗老化・保護因子であるKlotho遺伝子が高メチル化により抑制されており、DNMT阻害剤はこのエピジェネティックな変化を部分的に逆転させることでKlotho発現を回復させ、腎障害を軽減することが示された。Klothoは炎症抑制にも関与しており、その回復が腎炎症改善に寄与すると考えられる。"
+      },
+      {
+        "title": "Endogenous α-Klotho is a common target in atherosclerosis and calcific aortic valve disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41905429/",
+        "abstract": "Although atherosclerotic vascular disease (ASVD) and calcific aortic stenosis (AS) are distinct clinical entities, inflammation is a common driving force. The contribution of endogenous α-Klotho, an anti-aging protein, in the vasculature and aortic valve (AV) as an inflammatory mediator of such diseases remains unclear. We investigated α-Klotho expression using qPCR, ELISA, and immunohistochemistry in vascular (aorta, carotid, and femoral) and AV tissue samples from patients with ASVD (n = 112) and calcific AS (n = 172), respectively. We also determined circulating levels of soluble α-Klotho. We assessed α-Klotho associations with inflammatory and calcification markers. In vitro, we treated human vascular smooth muscle cells (VSMCs) and valve interstitial cells (VICs) with interleukin (IL)-1β and high-phosphate (HP) medium, respectively, and we evaluated the effects α-Klotho silencing and recombinant α-Klotho (rKlotho) supplementation. α-Klotho expression was significantly reduced in atherosclerotic vessels and stenotic AVs. Vascular expression varied across territories, with the lowest levels in the carotids. In stenotic AVs, α-Klotho expression was lower in fibro-calcified areas compared to \"healthy\" regions. Endogenous tissue α-Klotho and circulating soluble α-Klotho were inversely associated with local and systemic inflammatory markers and, in AVs, with osteogenic-related markers. In vitro, pro-inflammatory stimuli downregulated α-Klotho gene expression in VSMCs and VICs. α-Klotho silencing amplified inflammatory responses in both cell types and promoted VIC calcification, whereas rKlotho attenuated inflammation and inhibited osteogenic differentiation. These findings suggest endogenous α-Klotho plays a central role in the inflammation underlying ASVD and calcific AS.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bcp.2026.117937",
+        "keyword": "Klotho",
+        "title_ja": "内因性α-クロトーは、動脈硬化症と石灰化大動脈弁疾患の共通の標的である。",
+        "summary_ja": "本論文は、動脈硬化性血管疾患（ASVD）と石灰化大動脈弁狭窄症（AS）に共通する炎症メカニズムにおける内因性抗老化蛋白質α-Klothoの役割を検討した。患者組織解析により、ASVD血管と狭窄弁ではα-Klotho発現が有意に低下し、炎症・石灰化マーカーと逆相関を示した。in vitro実験では、炎症刺激がVSMCとVICのα-Klotho発現を抑制し、そのサイレンシングは炎症反応とVIC石灰化を増幅した。一方、組換えα-Klothoはこれらの過程を抑制した。以上より、内因性α-Klothoは両疾患の基盤となる炎症の共通の調節因子であることが示唆された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "The emerging role of FGF21 in alcohol consumption and dependence: mechanisms and therapeutic prospects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941929/",
+        "abstract": "Alcohol use disorder (AUD) is a neuropsychiatric recurring, persistent illness, characterized by the consumption of alcohol, irrespective of its physical, psychological, and social effects. The clinical manifestations are cravings, anxiety, mood disorders, mental defects, and liver dysfunction, and this may increase the risk of morbidity and mortality in AUD. Fibroblast growth factor 21 (FGF21), an endocrine protein, is mainly synthesized in the liver. It is an important metabolic homeostatic hormone that controls the metabolism of glucose and lipids. There is also growing evidence that the FGF21 signal is relayed to the brain via the fibroblast growth factor receptor 1c (FGFR1c)-β-klotho (KLB) receptor complex to prevent the consumption of alcohol. It is a mechanical controller of the mesolimbic dopamine, and a neuroendocrine controller of the metabolic stress, which ultimately leads to the loss of alcohol craving and intake, and which in turn reduces the alcohol damage to the liver. Pharmacological and genetic preclinical findings have revealed that exogenous FGF21 or long-acting FGF21 analogues inhibit alcohol preference, highlighting it as a promising biomarker and therapeutic target, although current clinical evidence remains limited. The paper aims to critically synthesise available literature to identify the biological role of FGF21 in AUD and its potential therapeutic uses, along with highlighting important gaps and future research directions to improve FGF21-based interventions in the treatment of AUD.",
+        "source": "PubMed",
+        "doi": "10.1016/j.gene.2026.150150",
+        "keyword": "Klotho",
+        "title_ja": "FGF21のアルコール摂取および依存における新たな役割：メカニズムと治療の展望",
+        "summary_ja": "アルコール使用障害（AUD）は、身体的・心理的・社会的悪影響にもかかわらず飲酒を継続する神経精神疾患である。線維芽細胞成長因子21（FGF21）は肝臓で産生される内分泌タンパク質であり、糖・脂質代謝を制御する。近年、FGF21はFGFR1c-β-klotho（KLB）受容体複合体を介して脳にシグナルを伝達し、中脳辺縁系ドーパミン経路を調節することでアルコール摂取欲求を抑制し、肝障害を軽減することが示されている。薬理学的・遺伝学的前臨床研究から、外因性FGF21やその長効型アナログはアルコール嗜好を抑制し、有望なバイオマーカーおよび治療標的となりうる。しかし、臨床エビデンスは未だ限定的であり、今後の研究による検証が待たれる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Intraperitoneal administration of NK-92 improves survival in xenografts of early and established ovarian cancer models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42008496/",
+        "abstract": "Ovarian cancer (OC) is a leading cause of gynecological cancer-related mortality. Management remains challenging as the disease frequently presents with intra-abdominal metastases at diagnosis, standard therapies can be associated with severe complications and disease recurrence is common. While cellular immunotherapy is increasingly investigated as a promising approach, the most effective routes of administration need to be established. We have investigated NK cell therapeutics as a less toxic option and examined the permanent NK cell line, NK-92, as a suitable model. Here, we report two xenograft mouse models with the ovarian adenocarcinoma cell line, SKOV-3, representing early-stage OC and late-stage OC with ascites to comprehensively evaluate the anti-cancer efficacy of different routes of NK-92 administration. Bioluminescence imaging, cell tracking with the IVIS system and animal survival were used to evaluate outcomes. The cells were administered via intraperitoneal (IP), intravenous (IV), or a combination of IP and IV routes. We showed that NK-92 significantly increased animal survival when delivered IP (p = 0.009 and p = 0.018) or combined IP and IV (p = 0.05 and p = 0.017) in early and established OC xenografts, respectively, whereas intravenous delivery at similar doses had no effect on survival (p = 0.665 and p = 0.052) compared with untreated controls. These findings, and our novel models, have potential implications for enhancing the clinical benefit of NK therapy in patients with advanced OC.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.pone.0347095",
+        "keyword": "NK cell therapy",
+        "title_ja": "NK-92の腹腔内投与は、早期および確立卵巣癌モデルの異種移植片における生存率を改善する",
+        "summary_ja": "**要約**\n卵巣癌(OC)は婦人科癌死の主要因であり、腹腔内転移が多く、再発も多い。細胞免疫療法としてNK細胞療法が注目される中、最適な投与経路を検討した。ヒト卵巣腺癌SKOV-3細胞を用いた早期及び進行期（腹水有）マウス移植腫瘍モデルを確立し、NK-92細胞株を腹腔内(IP)、静脈内(IV)、併用投与した。その結果、IP投与及びIP/IV併用投与は、早期・進行期モデル双方で生存期間を有意に延長したが、同用量のIV単独投与では効果が認められなかった。腹腔内投与は卵巣癌に対するNK細胞療法の臨床効果向上に有用な可能性が示唆される。"
+      },
+      {
+        "title": "In vivo CAR-cell therapy: current challenges and emerging therapeutic advances.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42008208/",
+        "abstract": "In vivo chimeric antigen receptor (CAR) cell therapy is undergoing a transformative shift from conventional ex vivo manufacturing toward in situ cellular editing, aiming to generate functional CAR-engineered immune cells directly within patients through targeted vector delivery, thereby significantly enhancing therapeutic accessibility and applicability. While rapid advances have been made in both viral (lentiviral and adeno-associated viral vectors) and non-viral (lipid nanoparticle) delivery platforms, along with the expansion of effector cell lineages including CAR-T, CAR-NK, and CAR-M, critical translational bottlenecks remain. These include insufficient delivery precision, limited cellular persistence, immunosuppressive tumor microenvironment (TME) resistance, and challenges in safety controllability. This review systematically examines the working mechanisms and limitations of current delivery platforms for in vivo gene transfer. It provides a comprehensive comparison of how CAR-T, CAR-NK, and CAR-M platforms employ distinct yet complementary strategies to address tumor heterogeneity, solid tumor physical and immune barriers, and the specificity constraints of in situ editing. Furthermore, we highlight emerging frontiers such as artificial intelligence-guided personalized therapy design, smart delivery systems (logic-gated CARs, circular RNA vectors), and the development of multicellular synergistic \"synthetic immune systems.\" By integrating multidisciplinary perspectives, this review not only offers a comprehensive roadmap bridging fundamental mechanisms to clinical translation but also lays a theoretical and technical foundation for advancing the next generation of safe, precise, and efficacious in vivo CAR therapies.",
+        "source": "PubMed",
+        "doi": "10.1186/s43556-026-00447-y",
+        "keyword": "NK cell therapy",
+        "title_ja": "生体内CAR細胞療法：現在の課題と新たな治療的進展",
+        "summary_ja": "**要約：**\nin vivo CAR細胞療法は、患者体内で直接CAR免疫細胞を創出する次世代治療である。ウイルス・非ウイルス性デリバリーやCAR-T/NK/Mなど多様なエフェクター細胞の開発が進むが、送達精度の不足、細胞持続性の低さ、免疫抑制性腫瘍微小環境、安全性制御が主要な課題である。本総説は、各デリバリー法と細胞プラットフォームの機序・限界を比較し、腫瘍不均一性や固形腫瘍障壁への対応を論じる。さらに、AIによる個別化設計、スマートデリバリーシステム、多細胞協調的「合成免疫システム」などの新興技術を展望し、次世代治療の基盤を提示する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Human natural killer cells exhibit potent antifungal activity against azole-resistant ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42012259/",
+        "abstract": "Invasive aspergillosis in immunocompromised individuals is associated with a poor prognosis. Recently, the global emergence of azole-resistant ",
+        "source": "PubMed",
+        "doi": "10.1128/spectrum.03372-25",
+        "keyword": "NK cell therapy",
+        "title_ja": "ヒト自然殺傷細胞はアゾール耐性菌に対して強力な抗真菌活性を示す",
+        "summary_ja": "本論文は、免疫不全患者における侵襲性アスペルギルス症の予後不良を背景に、世界的に増加するアゾール耐性Aspergillus fumigatusへの新規治療戦略として、ヒト自然殺傷（NK）細胞の抗真菌活性を検証した。結果、NK細胞はアゾール耐性株を含むA. fumigatusに対して強力な殺菌活性を示し、その作用は直接的な接触と穿孔素・グランザイム経路に依存していた。これは、NK細胞ベースの免疫療法が耐性真菌感染症に対する有望な治療法となり得ることを示唆している。"
+      },
+      {
+        "title": "Reprogramming Antitumor Immunity: NK Cell Strategies to Navigate the Immunosuppressive Tumor Microenvironment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42011876/",
+        "abstract": "Tumor immune escape is a major barrier to durable cancer immunotherapy, as advanced malignancies create a tumor microenvironment (TME) that preferentially exhausts and disables T cell responses. While most approved cell therapies are T cell-based, this limitation motivates the exploration of an alternative effector cell platform. Natural killer (NK) cells, innate cytotoxic lymphocytes capable of antigen-independent recognition and killing, offer a compelling foundation for next-generation therapies with an improved safety profile. In this review, we first outline the cellular, molecular, and metabolic features of the immunosuppressive TME that restrict cytotoxic lymphocyte function, emphasizing mechanisms that limit immune cell-mediated responses. We then summarize key aspects of NK cell biology that can circumvent these barriers and critically evaluate current NK-based strategies, including engineered chimeric antigen receptor (CAR)-NK products and metabolic and trafficking interventions. Finally, we highlight emerging in vivo viral and mRNA/lipid nanoparticle platforms for CAR-NK generation and their potential to enhance scalability and therapeutic durability.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.75326",
+        "keyword": "NK cell therapy",
+        "title_ja": "抗腫瘍免疫の再プログラミング：免疫抑制的腫瘍微小環境をナビゲートするNK細胞戦略",
+        "summary_ja": "**要約**\n腫瘍免疫回避はがん免疫療法の主要障壁であり、免疫抑制的な腫瘍微小環境（TME）はT細胞応答を疲弊・無力化する。T細胞療法の限界から、代替エフェクター細胞として自然殺傷（NK）細胞に注目が集まる。NK細胞は抗原非依存的な認識・殺傷能を持つ自然免疫系細胞であり、安全性が高く次世代療法の基盤となり得る。本総説では、免疫抑制TMEが細胞傷害性リンパ球機能を阻害する機構を概説し、NK細胞がこれらの障壁を回避し得る生物学的特性を説明する。さらに、CAR-NK細胞や代謝・トラフィッキング制御などの現行戦略、およびin vivoでのCAR-NK作製を可能にする新興のウイルス・mRNA/LNPプラットフォームの治療持続性・拡張性向上への可能性を論じる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Multidimensional information detection of liver cancer cell exosomes treated with shikonin.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42012069/",
+        "abstract": "Exosomes were recently recognized as mediators of intercellular communication and as potential biomarkers associated with cancer. However, the multidimensional characterization of exosomes secreted by cancer cells after drug treatment remains largely unexplored. In this study, the morphological and mechanical differences among SMMC-7721-exos, HepG2-exos, and HL-7702-exos were comparatively analyzed under both air and liquid conditions, and the effects of shikonin on the morphology and nanomechanical properties of SMMC-7721-exos were further investigated. Exosomes were characterized by SEM, NTA, and WB analyses. AFM was then employed to compare the morphology, adhesion force, and Young's modulus of SMMC-7721-exos, HepG2-exos, and HL-7702-exos under air and liquid conditions. Compared with those observed under the air condition, the adhesion forces of SMMC-7721-exos, HepG2-exos, and HL-7702-exos increased under the liquid condition, and the Young's modulus of HL-7702-exos increased by approximately 1.7 folds. Subsequently, the morphology and mechanical properties of exosomes secreted by cancer cells after shikonin treatment were examined by AFM. Compared with that in the untreated group, the adhesion force of SMMC-7721-exos decreased after drug treatment. In contrast, both the adhesion force and Young's modulus of SMMC-7721-exos exhibited an increasing trend with increasing shikonin concentration (0.5 µM, 1 µM, and 2 µM). These results indicated that shikonin altered the mechanical properties of exosomes by acting on cancer cells, potentially disrupting exosome-mediated intercellular interactions. This effect contributed to elucidating the antitumor mechanism of shikonin and provided novel insights for studying tumor metastasis and prognosis.",
+        "source": "PubMed",
+        "doi": "10.1039/d6ay00133e",
+        "keyword": "Exosomes",
+        "title_ja": "シコニン処理された肝臓癌細胞エクソソームの多次元情報検出。",
+        "summary_ja": "本研究は、抗腫瘍薬シコニン処理による肝がん細胞エクソソームの多面的特性変化を解析した。エクソソームは細胞間コミュニケーションを媒介し、がんバイオマーカーとして注目される。SMMC-7721、HepG2、HL-7702細胞由来エクソソームを、空気中と液体中でAFMを用いて比較した結果、液体中では接着力が増加し、HL-7702-exosのヤング率は約1.7倍上昇した。さらにシコニン処理により、SMMC-7721-exosの接着力は低下したが、濃度依存的に接着力とヤング率は増加傾向を示した。これはシコニンががん細胞を介してエクソソームの機械的特性を変化させ、細胞間相互作用を阻害する可能性を示し、抗腫瘍機序の解明や転移・予後研究への新たな知見を提供する。"
+      },
+      {
+        "title": "Exosomal miRNA Predicts Response to Preoperative Chemoradiotherapy in Locally Advanced Rectal Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42011875/",
+        "abstract": "We recently reported blood-based transcriptomic biomarkers for the identification of response to preoperative chemoradiotherapy followed by surgery in patients with locally advanced rectal cancer.",
+        "source": "PubMed",
+        "doi": "10.1097/DCR.0000000000004253",
+        "keyword": "Exosomes",
+        "title_ja": "局所進行直腸癌における術前化学放射線療法への反応をエクソソームmiRNAが予測",
+        "summary_ja": "【要約】\n局所進行直腸癌における術前化学放射線療法の治療反応性を、血液中のエクソソームmiRNAをバイオマーカーとして予測する研究。従来のトランスクリプトーム解析に加え、エクソソームmiRNAプロファイルが、術前治療後の病理学的完全奏効を含む治療反応を高精度に識別し得ることを示唆。これは個別化医療への応用が期待される非侵襲的検査法の開発につながる。"
+      },
+      {
+        "title": "Exosomes from tumor-associated macrophages promote glycolysis and malignant NSCLC progression by delivery of hsa_circ_0000896.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42010627/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s13062-026-00791-7",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍関連マクロファージ由来エクソソームはhsa_circ_0000896を運搬することで解糖系を促進し、悪性非小細胞肺癌の進行を駆動する",
+        "summary_ja": "**要約：**\n\n腫瘍関連マクロファージ（TAM）由来のエクソソームが、環状RNA hsa_circ_0000896を非小細胞肺癌（NSCLC）細胞へ運搬することを報告。このcircRNAは、miR-1294の機能を抑制し、その標的であるグルコキナーゼ（GCK）の発現を上昇させる。GCKの増加は、がん細胞の解糖系（グリコーリス）を亢進させ、増殖・浸潤・転移などの悪性形質を促進する。TAMエクソソームを介したhsa_circ_0000896の細胞間輸送が、NSCLCの悪性化における新たな分子メカニズムであることを示唆。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "High altitude adaptation: role of nuclear receptor's exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42012784/",
+        "abstract": "High altitude exposes humans to hypobaric hypoxia and poses a significant challenge for human performance and survival. Humans have adapted to the chronic hypoixa of high altitude in several geographical locations and nevertheless, the fundamental questions regarding the functional links between those adoptive unique phenotypic attributes and the associated cellular and molecular signaling mechanisms remains unanswered. The high-altitude acclimatization and adaptation responses are primarily orchestrated by hypoxia inducible factor (HIF). However, some HIF-independent response pathways exists and act either in coordination and/or in parallel to HIF to mediate the physiological response of hypoxia. Recently, several multi-omic analysis studies demonstrated crucial oxygen homeostatic and metabolic signaling pathways in hypoxia including members of nuclear receptor (NR's) superfamily like LXR's, RXR's, ER's and PPARA's. Since acclimatization and adaptation to high altitude confers several benefits for the prevention of various high altitude illnesses, the cellular and molecular signaling mechanisms underlying oxygen homeostasis during acute and prolonged high altitude exposure becomes an attractive avenue for understanding the physiology of adaptation and pathophysiology of mal-adaptation. Members of NR's are of particular interest owing to their involvement in multiple physiological functions and their possible role in epigenetic regulation due to the presence of well defined DNA and ligand binding domains. In this review, we summarize the current understanding of the involvement of NR's in regulation of physiological responses hypoxia and how they may contribute for high altitude adaptation. Additionally, we have made an effort to draw attention to the connection between NRs and EVs.",
+        "source": "PubMed",
+        "doi": "10.1007/s00484-026-03188-3",
+        "keyword": "Exosomes",
+        "title_ja": "高高度適応：核内受容体のエクソソームの役割",
+        "summary_ja": "高所環境は低圧低酸素状態をもたらし、ヒトの適応を必要とする。この適応には低酸素誘導因子（HIF）が中心的役割を果たすが、HIF非依存経路も存在する。近年のマルチオミクス解析により、LXRやPPARαなどの核内受容体（NR）スーパーファミリーが酸素恒常性と代謝調節に関与することが示された。NRは多様な生理機能とエピジェネティック調節に関わる可能性から注目される。本総説は、低酸素生理応答におけるNRの関与と高所適応への寄与、さらに細胞外小胞（EV）との関連についての知見をまとめる。"
+      },
+      {
+        "title": "Human Periodontal Ligament Cells Exosome-Loaded Biodegradable Piezoelectric Fibrous Membrane for Vascularized Periodontal Bone Regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42012481/",
+        "abstract": "Periodontal bone destruction caused by periodontitis, surgery, or trauma results in loss of periodontal ligament attachment, which in turn leads to tooth mobility and tooth loss. Complete periodontal bone reconstruction remains challenging. Periodontal ligament mesenchymal stem cells (PDLSCs) are a crucial cellular resource for regenerating and repairing periodontal bone defects. As a cell-free therapeutic approach, exosomes (Exos) derived from PDLSCs represent a promising and effective cell-free therapeutic strategy for inducing neo-bone growth. Due to the electrophysiological features of native bone, this study proposed the use of a piezoelectric fibrous membrane as the delivery carrier for Exos in guided tissue/bone regeneration therapy, synergistically promoting periodontal bone regeneration. The membrane was composed of poly(l-lactide)/gelatin, fabricated via electrospinning, and coated with polydopamine for Exos loading and sustained release. The piezoelectricity of the membrane came from the poly(l-lactide) after polarization. The material electroactivity and the bioactive Exos combinedly created a microenvironment conducive to cell recruitment, proliferation, angiogenic and osteogenic differentiation. In rat periodontal bone defect models, piezoelectric membranes functionalized with PDLSC-Exos significantly enhanced bone regeneration compared to membranes lacking Exos or piezoelectric properties. Collectively, this study provided valuable new insights to design biomimetic membranes with enhanced angiogenesis and osteogenesis properties for vascularized periodontal bone regeneration and other applications.",
+        "source": "PubMed",
+        "doi": "10.1021/acsbiomaterials.6c00014",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト歯根膜細胞エクソソーム内包生分解性圧電繊維膜による血管新生を伴う歯周骨再生",
+        "summary_ja": "歯周病などによる歯周骨欠損の再生は困難である。本研究では、歯根膜幹細胞(PDLSCs)由来エクソソーム(Exos)を、ポリ(L-乳酸)/ゼラチンの圧電性ナノファイバー膜に担持させ、持続放出を実現した。この膜は、電気的活性とExosの生物活性により、細胞の遊走・増殖、血管新生・骨形成を促進する微小環境を構築する。ラットモデルで、Exosを担持した圧電性膜は、骨再生を顕著に促進した。本成果は、血管新生を伴う歯周骨再生などに向けた革新的なバイオミメティック材料設計に寄与する。"
+      },
+      {
+        "title": "Single-Atom Fe/Au Nanozymic Electrode to Accelerate Glucose Oxidation for Self-Powered Sensing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42011862/",
+        "abstract": "Self-powered sensing based on enzymatic biofuel cells (EBFCs) provides a promising platform for miniaturized and portable exosome analysis by converting biochemical reactions directly into electrical output. However, the operational reliability of such systems remains fundamentally restricted by the instability, limited electron-transfer efficiency, and high cost of natural enzymes. Herein, we design a heteroatomic nanozyme featuring Fe single atoms electronically coupled to Au nanoparticles anchored on nitrogen-doped carbon (FeSA-AuNP/NC) to enhance glucose oxidation. When paired with a FeSA/NC cathode, FeSA-AuNP/NC serves as an efficient nanozymatic anode to construct a fully nanozyme-driven BFC. The fully nanozymic BFC displays markedly higher electrical output and improved operational durability relative to the BFC using a GOx-based bioanode. As a proof of concept, this fully nanozymatic system enables quantitative and sensitive exosome detection across a wide linear range (10",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.6c00085",
+        "keyword": "Exosomes",
+        "title_ja": "単原子Fe/Auナノザイム電極によるグルコース酸化促進を利用した自立駆動型センシング",
+        "summary_ja": "本論文では、酵素バイオ燃料電池（EBFC）の課題である天然酵素の不安定性・低効率・高コストを克服するため、Fe単原子とAuナノ粒子を窒素ドープ炭素に担持した複合ナノザイム（FeSA-AuNP/NC）を開発した。これをグルコース酸化用アノードとして用い、FeSA/NCカソードと組み合わせた全ナノザイム駆動型バイオ燃料電池を構築。従来のグルコースオキシダーゼ（GOx）使用系と比べて、著しく高い電力出力と耐久性を実証した。このシステムを応用し、広い線形範囲（10細胞/μL～）でのエクソソームの高感度定量検出に成功した。"
+      },
+      {
+        "title": "The Potentials of Stem Cell-Derived Exosomal MicroRNAs in Ferroptosis Modulation: Molecular Insights into Hepatoprotection, Neuroprotection, Cardioprotection, Renoprotection and Pulmonoprotection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42010206/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11126-4",
+        "keyword": "Exosomes",
+        "title_ja": "幹細胞由来エクソソーム性マイクロRNAのフェロトーシス制御における可能性：肝保護、神経保護、心臓保護、腎保護、肺保護への分子的知見",
+        "summary_ja": "幹細胞由来エクソソーム内のマイクロRNAは、フェロトーシス（鉄依存性細胞死）を調節する新たな治療戦略として注目されている。本論文は、その分子メカニズムに基づき、肝臓・神経・心臓・腎臓・肺における保護作用（ヘパト／ニューロ／カーディオ／レノ／パルモンプロテクション）の可能性を包括的に考察する。エクソソームmiRNAが標的遺伝子を抑制し、フェロトーシス関連経路（GPX4、システイン/グルタミン酸輸送体など）を調節することで、各臓器の傷害を軽減できると示唆している。"
+      },
+      {
+        "title": "Exosomal miR-145-5p from BMSCs alleviates AKI-induced renal fibrosis via KLHL12/KHSRP-mediated m6A-dependent repression of FLI-1.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42009851/",
+        "abstract": "Pericyte to myofibroblast transformation is a key driver of renal fibrosis following acute kidney injury (AKI). Exosomes, miRNAs, and bone mesenchymal stem cells (BMSCs) are important in alleviating AKI renal fibrosis. We proposed to explore the role of engineering exosomes rich in miR-145-5p and correlated with KLHL12/KHSRP in AKI-induced pericytes-mediated fibrosis in the present study. Rat perirenal cells were isolated and cultured. Engineering exosomes rich in miR-145-5p derived from BMSCs were obtained through cell transfection technology. AKI rat model and Hypoxia/Reoxygenation (HR) induced perirenal cells injury model were established. Dual luciferase reporter gene, MeRIP, and Co-immunoprecipitation were performed to validate miR-145-5p targeting KLHL12 and its downstream molecules including KHSRP and FLI-1. Renal function, apoptosis and pyroptosis, fibrosis-related proteins were detected through biochemistry, immunohistochemistry, immunofluorescence, and transmission electron microscopy to explore the functional role of the miR-145-5p/ KLHL12/KHSRP/FLI-1 axis in cellular and animal models. According to our findings, pericyte-myoblast transformation contributed to AKI-induced fibrosis in vivo and HR-induced fibrosis along with apoptosis and pyroptosis in vitro. MiR-145-5p down-regulated KLHL12 expression by targeting its 3'UTR to improve perirenal cells-mediated fibrosis. KLHL12 might downregulate KHSRP to increase FLI-1 expression by promoting FLI-1 mRNA stability in AKI-induced fibrosis mediated by perirenal cells. These findings indicate that miR-145-5p enriched in BMSC derived engineered exosomes may suppress KLHL12 expression to up-regulate KHSRP and then down-regulate FLI-1 by m6A to attenuate perirenal cells-mediated fibrosis.",
+        "source": "PubMed",
+        "doi": "10.1007/s10565-026-10191-2",
+        "keyword": "Exosomes",
+        "title_ja": "BMSC由来エクソソームmiR-145-5pは、KLHL12/KHSRPを介したm6A依存性FLI-1抑制により、AKI誘発性腎線維症を軽減する。",
+        "summary_ja": "本論文は、急性腎障害（AKI）後の腎線維化における、骨髄間質幹細胞（BMSC）由来エクソソーム内miR-145-5pの役割を検討した。AKIにより周皮細胞が筋線維芽細胞へ転換し線維化が進行するが、BMSC由来のmiR-145-5p高発現エクソソームは、標的分子KLHL12の3'UTRに直接結合してその発現を抑制する。これにより、下流のKHSRPが増加し、m6A修飾を介した転写因子FLI-1 mRNAの安定性が低下、FLI-1発現が抑制される。このmiR-145-5p/KLHL12/KHSRP/FLI-1軸の調節により、周皮細胞を介した線維化、アポトーシス、パイロトーシスが軽減され、腎線維化が抑制されることが細胞・動物モデルで示された。"
+      },
+      {
+        "title": "[Hypoxia-mimetic agent CoCl",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42009541/",
+        "abstract": "This study investigated the proteomic characteristics and biological functions of hypoxic exosomes derived from hypoxia-preconditioned feline adipose-derived mesenchymal stem cells (ADMSCs), aiming to reveal the remodeling effect of hypoxic preconditioning on the protein composition of exosomes derived from feline ADMSCs and its potential applications. CoCl",
+        "source": "PubMed",
+        "doi": "10.13345/j.cjb.250703",
+        "keyword": "Exosomes",
+        "title_ja": "低酸素模倣剤CoCl2",
+        "summary_ja": "本研究は、低酸素条件下で前処理した猫脂肪由来間葉系幹細胞（ADMSC）から分泌されるエクソソーム（低酸素エクソソーム）のプロテオミクス特性と生物学的機能を調査した。低酸素前処理が猫ADMSC由来エクソソームのタンパク質構成を再構築し、その機能に影響を与えることを明らかにし、その応用可能性を探ることを目的としている。"
+      },
+      {
+        "title": "Transcriptomic and Functional Analysis of Fibroid Extracellular Vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42008339/",
+        "abstract": "Exosomes were isolated from cultures of fibroid explants and matched myometrial explants, and their RNA cargo was analyzed by next-generation sequencing to profile both long and short RNA species. Fibroid-derived exosomes (Fib-EXO) expressed the canonical EV markers CD81 and CD63, and their size distribution (30-200 nm) was consistent with exosomal vesicles. The RNA cargo of Fib-EXO generally reflected that of its tissue of origin, although selective enrichment of specific transcripts, such as piR-1398740 and piR-333378, suggested active loading mechanisms. Long RNA sequencing identified differential expression of protein-coding genes and lncRNAs involved in RNA binding, cytoplasmic translation, exosome pathways, and PI3K/AKT and focal adhesion signaling. qPCR validation confirmed increased IGF2, HOXA10, and decreased IGFBP6 mRNA expression in Fib-EXO. Among lncRNAs, MSC-AS1, PART1, and H19 were overexpressed in Fib-EXO. Small RNA sequencing revealed differential expression of multiple sncRNA classes, including piRNAs, miRNAs, snRNAs, snoRNAs, and tRNAs. KEGG analysis showed that miRNAs were primarily associated with PI3K/AKT signaling, proteoglycans in cancer, interleukin signaling, and transcriptional regulation. Functionally, Fib-EXO were internalized by myometrial cells and promoted their proliferation with no effects on apoptosis. Furthermore, Fib-EXO enhanced angiogenesis in HUVECs. Fib-EXO increased the expression of vimentin, EZH2, DNMT1, TGF-β3, and c-MYC, and phosphorylated p65 protein, reduced COL1A1 and COL3A1 expression, and decreased miR-133a, miR-29, and miR-200c while increasing miR-21 in cultured MSMC, mirroring changes observed in fibroids. These findings indicate that Fib-EXO reprogram myometrial cells toward a fibroid-like phenotype characterized by increased proliferation, inflammation and fibrotic features thus contributing to fibroid propagation.",
+        "source": "PubMed",
+        "doi": "10.1042/CS20250814",
+        "keyword": "Exosomes",
+        "title_ja": "線維腫細胞外小胞のトランスクリプトミクスおよび機能解析",
+        "summary_ja": "子宮筋腫由来エクソソーム（Fib-EXO）は、筋腫組織と正常子宮筋層組織から単離され、RNAカーゴを解析した。そのRNAプロファイルは、piRNAや特定のmRNA（IGF2、HOXA10上昇、IGFBP6低下など）・lncRNAの選択的濃縮を示し、PI3K/AKTシグナルなどに関与した。機能的には、Fib-EXOは子宮筋層細胞に取り込まれ、増殖・血管新生を促進。また、vimentin、EZH2、TGF-β3上昇やmiR-29低下など筋腫様表現型を誘導し、炎症・線維化特徴を伴う筋腫増殖に関与することが示された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Robust loading and delivery of functional small RNAs ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42011198/",
+        "abstract": "Small extracellular vesicles (sEVs) are naturally secreted nanovesicles that mediate intercellular communication by transporting biomolecules such as proteins and nucleic acids. Their inherent biocompatibility makes them promising platforms for RNA therapeutics; however, efficient encapsulation of small RNAs remains challenging. To address this, we developed the Protein N-Myristoylation-induced sEVs Loading (PMEVL) system. PMEVL employs a genetic construct encoding an N-Myristoylation peptide and, optionally, a small-RNA expression cassette in its 3'-untranslated region, enabling N-myristoylation-dependent, efficient, and specific RNA loading into sEVs. Mechanistically, PMEVL enhances sEVs biogenesis by activating ERK1/2 and inhibiting AMPK, while promoting RNA loading through recruitment of ANXA2 and key ESCRT components ALIX and TSG101. This system achieved highly efficient encapsulation of diverse functional RNAs, including exogenous/endogenous small RNAs (miRNAs, siRNAs) and messenger RNAs (e.g., GFP, mCherry), as well as co-loading of multiple siRNAs with proteins of interest. To demonstrate therapeutic potential, PMEVL-mediated delivery of Pcsk9 siRNA suppressed hepatic Pcsk9 expression ",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.04.012",
+        "keyword": "sEVs",
+        "title_ja": "機能性低分子RNAの堅牢なローディングとデリバリー",
+        "summary_ja": "小細胞外小胞（sEV）は、タンパク質や核酸などの生体分子を輸送する細胞間コミュニケーション媒体であり、RNA治療のプラットフォームとして有望である。しかし、低分子RNAの効率的な封入は課題であった。本研究では、N-ミリストイル化ペプチドと、オプションで3'非翻訳領域に低分子RNA発現カセットを組み込んだ遺伝子構築物を用いる「PMEVL」システムを開発した。このシステムは、ERK1/2の活性化とAMPKの抑制によるsEV生合成の促進、およびANXA2、ALIX、TSG101のリクルートを介したRNA封入を実現し、miRNA、siRNA、mRNA（GFP、mCherryなど）の多様な機能性RNAを高効率で封入可能とした。治療応用例として、PMEVLを介したPcsk9 siRNAの送達により、肝臓でのPcsk9発現抑制を実証した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. Klothoのエピジェネティック制御と糖尿病性腎症**\n糖尿病マウスでDNMT阻害剤がKlotho発現を回復させ、腎炎症・高血糖を改善。Klothoの高メチル化抑制が治療標的となる可能性を示す。\n\n**2. NK細胞療法の投与経路と適応拡大**\n卵巣癌モデルで腹腔内投与のNK-92細胞が生存率を改善。最適な投与経路の確立と、アゾール耐性真菌症など新たな適応への応用が期待される。\n\n**3. 腫瘍微小環境におけるNK細胞療法の再プログラミング**\n免疫抑制的TMEを克服するNK細胞療法の開発が進む。抗原非依存的な腫瘍殺傷能を活かし、CAR-NKなど次世代療法として期待。\n\n**4. エクソソームmiRNAによる治療反応予測と疾患進展制御**\n直腸癌で術前治療の反応性をエクソソームmiRNAで予測可能に。また、TAM由来エクソソームがcircRNAを運びNSCLCの悪性化を促進する機序を解明。\n\n**5. 幹細胞由来エクソソームによる臓器保護**\nBMSC由来エクソソームmiR-145-5pが急性腎障害後の線維化を抑制。フェロトーシス調節を介した多臓器保護作用が示され、新規治療プラットフォームとして発展。"
+}

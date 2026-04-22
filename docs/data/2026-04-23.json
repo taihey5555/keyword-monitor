@@ -1,0 +1,206 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "PF4/Heparin-Nonbinding Platelet-Activating Antibodies in Heparin-Induced Thrombocytopenia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42013023/",
+        "abstract": "The hallmark of heparin-induced thrombocytopenia (HIT) is the presence of immunoglobulin G (IgG) antibodies against platelet factor 4/heparin (PF4/H) complexes, typically detected by PF4/H ELISA; thus, negative ELISA results are commonly used to exclude this diagnosis. Here, we report a prevalent yet previously unrecognized subset of antibodies that are undetectable by PF4/H ELISA (ELISA⁻) but activate platelets in the PF4-dependent P-selectin expression assay (PEA⁺). In 11 patients with clinically confirmed HIT who tested positive in both PF4/H ELISA and platelet activation assays, ELISA⁻PEA⁺ antibodies accounted for 65 ± 19% of total platelet-activating IgG activity and coexisted with ELISA⁺PEA⁺ antibodies. Consistent with this finding, single-cell cloning from seven HIT patients identified 23 PEA⁺ antibody-producing B-cell clones, of which 17 were ELISA⁻, outnumbering the ELISA⁺ clones. Functionally, ELISA-PEA⁺ antibodies closely resembled ELISA+PEA+ antibodies: platelet binding and activation required exogenous PF4 and were inhibited by FcgRIIA blockade, high-dose heparin, or Fab fragments made from ELISA+PEA+ antibodies. Importantly, these antibodies induced thrombocytopenia in a humanized mouse model of HIT. Despite lacking PF4/H reactivity in ELISAs, they recognize PF4 on platelets and showed no appreciable binding to NAP-2, IL-8, or PF4 alone. Structurally, these antibodies were heterogeneous, with a subset sharing heavy-chain features with ELISA⁺PEA⁺ antibodies. Collectively, our findings demonstrate that ELISA⁻PEA⁺ antibodies are a common, previously unrecognized feature of HIT, with functional relevance, supporting the possibility that they play an important, perhaps even central, role in HIT pathogenesis. Defining their prevalence, kinetics, and clinical impact deserves high priority for further investigation.",
+        "source": "PubMed",
+        "doi": "10.1182/blood.2025032317",
+        "keyword": "PF4",
+        "title_ja": "ヘパリン誘発性血小板減少症におけるPF4/ヘパリン非結合性血小板活性化抗体",
+        "summary_ja": "ヘパリン起因性血小板減少症（HIT）において、従来の診断基準であるPF4/ヘパリン複合体に対するELISA法で検出不能（ELISA⁻）でありながら、血小板活性化アッセイ（PEA⁺）ではPF4依存的に血小板を活性化する抗体サブセットが普遍的に存在することを報告。これらのELISA⁻PEA⁺抗体は、ELISA陽性抗体と機能的・構造的に類似し、ヒト化マウスモデルで血小板減少を誘発した。HIT患者の血小板活性化IgG活性の大部分を占め、病態において中心的役割を果たす可能性が示唆された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Isocitrate Dehydrogenase Mutations in Cancer: From Bench to Bedside Applications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42017056/",
+        "abstract": "Isocitrate dehydrogenase (IDH) mutations represent pivotal oncogenic drivers across multiple malignancies. Mutant IDH enzymes acquire neomorphic activity that produces the oncometabolite d-2-hydroxyglutarate (D-2HG), which competitively inhibits α-ketoglutarate-dependent dioxygenases and promotes epigenetic reprogramming, differentiation arrest, and malignant transformation. Beyond tumor cell-intrinsic effects, D-2HG profoundly remodels the tumor immune microenvironment by directly suppressing T-cell proliferation and effector functions, silencing natural killer (NK) cell-activating ligands, and impairing dendritic cell maturation. In this review, we delineate the mechanistic basis of mutant IDH in oncogenesis and evaluate the development of selective allosteric inhibitors validated through rigorous preclinical models demonstrating potent D-2HG suppression. Clinical translation has yielded multiple FDA-approved IDH inhibitors demonstrating significant therapeutic efficacy across diverse IDH-mutant malignancies. Notably, dual inhibitors have extended progression-free survival in gliomas, whereas triple-combination regimens have achieved substantial complete remission rates in acute myeloid leukemia. However, therapeutic resistance has emerged through second-site mutations, clonal evolution, and metabolic reprogramming. We also discuss rational combinatorial strategies integrating IDH inhibitors with hypomethylating agents (HMAs), targeted therapies, and immunomodulatory approaches, alongside emerging technologies such as single-cell profiling and spatial transcriptomics. By addressing both achievements and challenges, this review underscores the translational relevance of IDH-targeted therapy and its potential to reshape precision oncology through refined patient stratification and enhanced therapeutic efficacy.",
+        "source": "PubMed",
+        "doi": "10.1002/mco2.70732",
+        "keyword": "NK cell therapy",
+        "title_ja": "癌におけるイソクエン酸脱水素酵素変異：基礎研究から臨床応用まで",
+        "summary_ja": "IDH（イソクエン酸脱水素酵素）変異は、多様ながんの重要な癌化ドライバーである。変異型IDHは新規酵素活性を獲得し、オンコメタボライトD-2HGを産生する。D-2HGはα-ケトグルタル酸依存性ジオキシゲナーゼを阻害し、エピジェネティック再プログラミングや分化停止を引き起こす。さらに、腫瘍免疫微小環境を抑制的に再構築する。選択的アロステリック阻害剤は、臨床試験で有効性が確認され、一部はFDA承認されている。神経膠腫や急性骨髄性白血病で治療成績が向上したが、耐性機序も出現している。現在は、低メチル化剤や免疫療法との併用、単一細胞解析などの新技術を活用した治療戦略が探求されている。"
+      },
+      {
+        "title": "Chidamide synergizes with cisplatin-etoposide to trigger pyroptosis and anti-tumor immunity in diffuse large B-cell lymphoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42014876/",
+        "abstract": "Diffuse large B-cell lymphoma (DLBCL) is an aggressive malignancy where many patients relapse after standard therapy, necessitating novel approaches. Pyroptosis is an inflammatory cell death that can stimulate antitumor immunity. Histone deacetylases are frequently overexpressed in DLBCL and contribute to immune evasion. This study investigates whether combining the HDAC inhibitor chidamide with cisplatin and etoposide induces pyroptosis and enhances antitumor immune responses.",
+        "source": "PubMed",
+        "doi": "10.1038/s43856-026-01598-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "チダミドはシスプラチン-エトポシドと相乗効果を発揮し、びまん性大細胞型B細胞リンパ腫におけるパイロプトーシスと抗腫瘍免疫を誘導する。",
+        "summary_ja": "**要約**\n拡散性大細胞型B細胞リンパ腫（DLBCL）は、標準治療後に再発が多い。本研究では、HDAC阻害剤チダミドをシスプラチン・エトポシドと併用し、その効果を検討した。その結果、この併用療法は、炎症性細胞死であるパイロトーシスを誘導し、抗腫瘍免疫応答を増強することが示された。これは、DLBCLで過剰発現し免疫逃避に関与するヒストン脱アセチル化酵素（HDAC）をチダミドが阻害することで、相乗効果を発揮するためである。"
+      },
+      {
+        "title": "Antibiotic potentiation and inhibition of cross-resistance in pathogens associated with cystic fibrosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42011977/",
+        "abstract": "Critical Gram-negative pathogens, like ",
+        "source": "PubMed",
+        "doi": "10.7554/eLife.91082",
+        "keyword": "NK cell therapy",
+        "title_ja": "嚢胞性線維症関連病原体における抗生物質増感と交差耐性の阻害",
+        "summary_ja": "**タイトル: 嚢胞性線維症関連病原体における抗生物質増強と交差耐性の阻害**\n\n本論文は、嚢胞性線維症患者に感染する重要なグラム陰性病原体（例：緑膿菌）を対象とする。これらの多剤耐性菌に対し、既存抗生物質の効果を増強し、交差耐性の発達を阻害する新規アジュバント（補助剤）戦略について論じる。具体的には、細菌の膜透過性を高めたり、耐性メカニズム（エフラックスポンプやβ-ラクタマーゼなど）を抑制する化合物を併用することで、抗菌療法の有効性を回復させる可能性を示す。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "An APS-hydrogel composite provides dual molecular-physical protection to NK-92 cells by preserving membrane stability and surface microstructures.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41962724/",
+        "abstract": "The surface microstructures of Natural Killer (NK) cells, such as microvilli, are essential for target cell recognition and the subsequent formation of immunological synapses. However, traditional cryopreservation protocols (e.g., 10% DMSO and serum) severely damage the cell surface structure, which further impairs cytotoxicity. Although a variety of novel cryoprotectants or ice inhibitors have emerged to improve the post-thaw viability of cells, there are currently few reports on strategies for the preservation of surface microstructures essential for immune synapse formation in natural killer (NK) cells. Here, we introduce a dual-protection strategy that combines the membrane-stabilizing capacity of Astragalus Polysaccharide (APS), a bioactive compound from traditional Chinese medicine, with a hydrogel encapsulation system to mitigate cryo-injury from ice crystal formation. The results demonstrated that, in the absence of DMSO, the experimental group achieved an 85% viability rate for NK-92 cells. Furthermore, the surface microstructure was significantly better preserved compared to conventional protocols, and the corresponding cytokine secretion and cytotoxicity showed no significant difference from the fresh group. This study demonstrates that the synergistic cryoprotective effect of APS and hydrogel, thereby laying a solid foundation for immune cell preservation and cell-based therapies.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijbiomac.2026.151914",
+        "keyword": "NK cell therapy",
+        "title_ja": "APS-ハイドロゲル複合体は、膜安定性と表面微細構造を保持することで、NK-92細胞に分子的・物理的二重保護を提供します。",
+        "summary_ja": "**要約：**\nNK細胞の表面微細構造（微絨毛等）は標的細胞認識と免疫シナプス形成に必須であるが、従来の凍結保存法（DMSO・血清使用）はこれらを損傷し細胞傷害性を低下させる。本研究では、膜安定化作用を持つアストラガルス多糖（APS）と、氷晶形成を抑制するハイドロゲル封入システムを組み合わせた二重保護戦略を開発した。DMSO不使用下でNK-92細胞の生存率85%を達成し、表面微細構造が従来法より良好に保持された。サイトカイン分泌と細胞傷害性は新鮮細胞群と差がなく、免疫細胞保存の新たな基盤を提示した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Research advances in the role of circulating microorganisms in gastrointestinal tumors (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42017035/",
+        "abstract": "Gastrointestinal tumors are common malignant tumors of the digestive system, which globally threaten human health. Notably, it has been discovered that blood and other circulating body fluids are not completely sterile; instead, they harbor complex and dynamic microbial DNA and signatures [circulating microorganisms (CM)]. These microorganisms primarily originate from the microbial translocation (including bacterial fragments, DNA and metabolites) through a compromised intestinal barrier, and are closely associated with the initiation and progression of gastrointestinal tumors, thus providing novel perspectives for early tumor diagnosis and prognosis. Although there is currently no evidence that CM can directly cause cancer, their metabolites and exosomes may contribute to tumor microenvironment remodeling. On one hand, they activate pattern recognition and inflammatory signaling pathways, such as Toll-like receptor/signal transducer and activator of transcription, potentially inducing and maintaining low-grade chronic inflammation. On the other hand, they may facilitate immune evasion, potentially promoting the 'inflammation-cancer' transition. With the development of metagenomic technologies and the maturation of next-generation high-throughput sequencing technologies, CM have shown potential as liquid biopsy biomarkers for the early diagnosis of gastrointestinal tumors. Interventions targeting specific CMs have also shown prospects for enhancing efficacy in early clinical trials. However, the field still faces numerous challenges, including insufficient depth of mechanistic validation and a lack of standardized detection protocols. Future efforts should aim to conduct further systematic research to clarify the biological functions and clinical translational value of CM in gastrointestinal tumors.",
+        "source": "PubMed",
+        "doi": "10.3892/mco.2026.2949",
+        "keyword": "Exosomes",
+        "title_ja": "消化器腫瘍における循環微生物の役割に関する研究の進展（総説）",
+        "summary_ja": "消化器腫瘍は、血液などの循環体液中に存在する微生物群（CM）が、腸管バリア障害を介した微生物転座により生じ、腫瘍発生・進展に関与する。CM自体の発癌直接性は未証明だが、その代謝物やエクソソームは、Toll様受容体/STAT経路等を介した慢性炎症の誘導・維持や免疫回避を促し、「炎症-癌」転換に関わる可能性がある。メタゲノム技術の発展に伴い、CMは液体生検による早期診断・予後バイオマーカーや治療標的として期待されるが、機序解明の深度不足や検出法の標準化など課題も残る。"
+      },
+      {
+        "title": "Transforming Duchenne muscular dystrophy therapy: The multifaceted role of extracellular vesicles and exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42016928/",
+        "abstract": "Duchenne muscular dystrophy (DMD) remains a devastating X chromosome-linked disorder with restricted curative options. Additionally, the existing treatment approaches, such as growth-modulating agents, anti-inflammatory drugs, antisense oligonucleotides with exon-skipping capabilities, stop codon mutation suppressors, vector-mediated gene therapy, CRISPR/Cas9 gene editing, and exogenous cell transplantation, can delay disease progression but are not curative. Extracellular vesicles (EVs), especially exosomes, nanoscale vesicles involved in intercellular communication, have emerged as promising therapeutic tools for DMD due to their low immunogenicity, ability to deliver therapeutic cargos, and potential to modulate inflammation, oxidative stress, and fibrosis. This review explores the transformative role of EVs (including exosomes) as multifunctional tools in DMD management. Natural EVs, enriched with regenerative microRNAs (miRNAs) and anti-fibrotic proteins, modulate inflammation, oxidative stress, and muscle degeneration. Besides, innovative engineering approaches could improve EVs' cargo loading and targeting, assisting efficient delivery of oligonucleotides and CRISPR/Cas9 editing components. Furthermore, we address the capacity of these vesicles to restore dystrophin expression and attenuate pathogenic mechanisms. Lastly, challenges associated with EV isolation, stability, and scalability are critically evaluated to support the development of an integrated cell and gene therapy framework with significant potential to improve clinical outcomes in DMD patients.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbrep.2026.102578",
+        "keyword": "Exosomes",
+        "title_ja": "デュシェンヌ型筋ジストロフィー治療の変革：細胞外小胞とエクソソームの多面的な役割",
+        "summary_ja": "**要約**\nデュシェンヌ型筋ジストロフィー（DMD）は治療法が限られる疾患である。既存治療は進行を遅らせるが根治的ではない。細胞外小胞（EV）、特にエクソソームは、低免疫原性、治療カーゴの運搬能力、炎症・酸化ストレス・線維化の調節能から有望な治療ツールとして注目されている。本総説は、再生促進性miRNAや抗線維化タンパク質を含む天然EVの役割に加え、オリゴヌクレオチドやCRISPR/Cas9の効率的な送達を可能にする工学的改良の可能性を論じる。また、ジストロフィン発現の回復や病態機序の減衰へのEVの能力を検討し、臨床応用に向けた課題（単離・安定性・拡張性）を評価する。"
+      },
+      {
+        "title": "Breaking barriers in peritoneal fibrosis: extracellular vesicles as promising diagnostic and therapeutic strategy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42015747/",
+        "abstract": "Peritoneal dialysis is an essential therapy for end-stage kidney disease, but its long-term efficacy is severely limited by peritoneal fibrosis. Driven by mesothelial-mesenchymal transition, inflammation and angiogenesis, this pathological process leads to treatment failure and increased mortality. The urgent need for effective therapies has shifted research focus to extracellular vesicles-phospholipid bilayer nanovesicles that shuttle bioactive cargoes to modulate pathogenic pathways, positioning them as key mediators in peritoneal fibrosis.",
+        "source": "PubMed",
+        "doi": "10.1080/07853890.2026.2659509",
+        "keyword": "Exosomes",
+        "title_ja": "腹膜線維症の障壁を打破する：有望な診断・治療戦略としての細胞外小胞",
+        "summary_ja": "腹膜透析は末期腎疾患の重要な治療法だが、長期実施は腹膜線維化により制限される。この病態は中皮-間葉転換、炎症、血管新生により駆動され、治療失敗や死亡率上昇を招く。有効な治療法の必要性から、研究焦点は細胞外小胞へ移行している。これらは生体活性物質を運び、病態経路を調節するリン脂質二重層ナノ小胞であり、腹膜線維化における重要なメディエーターとして、診断・治療戦略の有望な標的となっている。"
+      },
+      {
+        "title": "Bioengineered anti-EpCAM-guided exosome nanocarriers delivering Foxp3 agonist butyrate achieve tissue-specific immunomodulation in autoimmune Sjögren's syndrome.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42015251/",
+        "abstract": "Primary Sjögren's syndrome (pSS) is characterized by salivary gland-centered immune dysregulation, in which an imbalanced T follicular helper (Tfh)/T follicular regulatory (Tfr) axis drives aberrant follicular responses and glandular dysfunction. In this study, we developed an engineered exosome-based therapeutic platform (Exo@But-αEpCAM) by combining CD4",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04373-7",
+        "keyword": "Exosomes",
+        "title_ja": "バイオエンジニアリングされた抗EpCAM誘導エクソソームナノキャリアによるFoxp3作動薬ブチレートの送達が、自己免疫性シェーグレン症候群における組織特異的免疫調節を実現",
+        "summary_ja": "本論文では、原発性シェーグレン症候群（pSS）の唾液腺を標的とした新規治療プラットフォーム「Exo@But-αEpCAM」を開発した。これは、抗EpCAM抗体で表面修飾したエクソソームに、転写因子Foxp3のアゴニストである酪酸塩（butyrate）を封入したナノキャリアである。この設計により、唾液腺上皮細胞に特異的に薬剤を送達し、不均衡なT濾胞性ヘルパー（Tfh）/T濾胞性制御（Tfr）細胞軸を調節し、腺機能障害を改善する。この組織特異的免疫調節アプローチは、自己免疫疾患治療の新たな戦略となる可能性を示している。"
+      },
+      {
+        "title": "Construction of a homologous targeting exosome-based drug delivery system for colorectal cancer and evaluation of its anti-tumor efficacy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42014797/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-48004-5",
+        "keyword": "Exosomes",
+        "title_ja": "大腸癌向け相同標的エクソソーム薬剤送達システムの構築と抗腫瘍効果の評価",
+        "summary_ja": "**要約：**\n\n本論文は、大腸癌に対する新規薬物送達システムとして、ホモロジー標的型エクソソームを構築し、その抗腫瘍効果を評価した。具体的には、大腸癌細胞に高発現する膜タンパク質を標的とするリガンドをエクソソーム表面に修飾し、抗癌剤を内包させた。このシステムは、in vitroおよびin vivo実験において、標的細胞への選択的な取り込みと優れた腫瘍増殖抑制効果を示し、非標的エクソソームや遊離薬剤よりも高い治療効果と安全性を確認した。標的型エクソソームは、大腸癌治療のための有望なナノ薬物送達プラットフォームとなる可能性を示唆している。"
+      },
+      {
+        "title": "Natural Broccoli Sprout-Derived Exosomes Encapsulating Bioactive Molecules as a Novel Nanomedicine for Repair of Intestinal Inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42014622/",
+        "abstract": "Dietary bioactives from broccoli sprouts exhibit anti-inflammatory properties in the prevention and management of inflammatory bowel disease (IBD), but are limited by instability during gastrointestinal (GI) transit and insufficient delivery to inflamed intestinal tissues. Here, we report the discovery and functional characterization of broccoli sprout-derived exosomes (BSDExo) as a naturally occurring nanomedicine that encapsulates endogenous bioactive molecules, including sulforaphane (SFN) and plant miRNAs, and promotes intestinal epithelial repair. BSDExo exhibited a nanoscale size of 40.1 ± 17.2 nm, expressed conserved exosomal protein markers, and were enriched in regulatory miRNAs. Importantly, BSDExo effectively protected encapsulated SFN under simulated gastric and intestinal conditions, demonstrating strong vesicle stability and controlled release. BSDExo (25 µg/mL quantified by total proteins) promoted the proliferation of normal colon epithelial CCD841 CoN cells with a cell viability of 154 ± 5% (p < 0.05). Cellular uptake of fluorescence-labeled BSDExo significantly increased with more severe inflammation stimulation in CCD841 CoN and Caco-2 cells. Secretion of interleukin 8 (IL-8) from inflammation-stimulated colon cells was significantly reduced by the BSDExo treatment (p < 0.05). BSDExo also significantly recovered the epithelial barrier integrity in Caco-2 monolayer that was damaged by LPS or DSS, as assessed by transepithelial electrical resistance (TEER) values (p < 0.05). This study identifies BSDExo as GI-stable, bioactive-rich nanovesicles that selectively target inflamed intestinal epithelium, enhance epithelial repair, and represent a first-in-class, diet-derived nanomedicine with translational potential for IBD.",
+        "source": "PubMed",
+        "doi": "10.1208/s12248-026-01241-y",
+        "keyword": "Exosomes",
+        "title_ja": "天然ブロッコリースプラウト由来エクソソームによる生物活性分子の封入：腸管炎症修復のための新規ナノ医薬品",
+        "summary_ja": "ブロッコリースプラウト由来のエクソソーム（BSDExo）は、スルフォラファンや植物miRNAなどの生理活性分子を内包する天然のナノ医薬品である。BSDExoは胃腸環境下で安定し、制御放出により炎症腸管上皮に選択的に取り込まれる。in vitro実験では、炎症刺激を受けた大腸上皮細胞の増殖促進（細胞生存率154%）、インターロイキン8分泌の抑制、およびLPSやDSSで損傷した上皮バリア機能の回復（TEER値上昇）を確認した。これにより、BSDExoは炎症性腸疾患（IBD）治療に向けた食事由来の新規ナノ医薬品としての可能性を示した。"
+      },
+      {
+        "title": "Recent Progress in Exosome-Derived Nanocarriers for Breast Cancer Therapy: Advances, Translational Barriers, and Scale-Up Considerations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42014584/",
+        "abstract": "Breast cancer remains the most prevalent malignancy among women worldwide and a major cause of cancer-related mortality. Despite remarkable progress in molecularly targeted and immune-based therapies, therapeutic resistance, dose-limiting systemic toxicity, and inefficient drug delivery continue to hinder clinical outcomes, particularly in aggressive subtypes such as triple-negative breast cancer. Exosomes, naturally secreted nanosized vesicles, have emerged as a transformative platform owing to their biocompatibility, intrinsic targeting capability, and ability to transport diverse therapeutic cargos across biological barriers. Recent advances in exosome biology, engineering, and isolation technologies have reignited interest in their clinical exploitation as drug delivery systems. However, translation into clinical oncology remains in its early stages. This review provides a comprehensive overview of exosome-based drug delivery systems specifically within the context of breast cancer therapy, critically evaluating their sources, isolation techniques, cargo loading strategies, targeting mechanisms, and formulation considerations. It also examines preclinical findings demonstrating enhanced therapeutic efficacy and reduced off-target toxicity, alongside the limited yet growing number of clinical trials investigating exosome therapeutics in solid tumours. Importantly, the review identifies major gaps, including lack of standardized manufacturing protocols, incomplete pharmacokinetic understanding, and unresolved safety concerns, that currently impede clinical translation. By bridging molecular insights with translational perspectives, this work underscores the untapped potential of exosomes as next-generation drug carriers in breast cancer. It highlights the urgent need for harmonized methodologies, scalable production systems, and regulatory frameworks to enable their safe and effective integration into future cancer therapeutics.",
+        "source": "PubMed",
+        "doi": "10.1007/s11095-026-04095-3",
+        "keyword": "Exosomes",
+        "title_ja": "乳がん治療におけるエクソソーム由来ナノキャリアの最近の進歩：進展、臨床応用の障壁、およびスケールアップへの課題",
+        "summary_ja": "乳がんは世界的に女性の主要な悪性腫瘍であり、治療抵抗性や全身毒性が課題である。エクソソームは生体適合性や標的指向性を持つ天然のナノ粒子として、新たなドラッグデリバリーシステムとして注目されている。本レビューは、乳がん治療におけるエクソソームの利用について、分離技術・薬剤搭載法・標的化機構を概説し、前臨床研究での有効性向上と毒性低減を評価する。しかし、標準化された製造プロトコルの欠如や安全性懸念などが臨床応用の障壁となっている。規制枠組みとスケーラブルな生産システムの確立が、次世代キャリアとしての実用化に不可欠である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Germ cell-directed exosomal delivery enables in vivo genetic modification in birds.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42015259/",
+        "abstract": "Avian embryos present substantial barriers to early-stage genetic manipulation due to the rigid eggshell and opaque yolk, underscoring the need for alternative in vivo germline delivery systems. Extracellular vesicles (EVs), particularly exosomes, are biocompatible nanoscale carriers of nucleic acids, yet their potential for germline targeting in birds has not been investigated. Here, we isolated exosomes from long-term cultured chicken primordial germ cells (PGCs) and characterized their morphology, size distribution, and exosomal marker expression. PGC-derived exosomes efficiently delivered plasmid DNA into primary PGCs with minimal cytotoxicity. In vivo microinjection of plasmid-loaded exosomes into early chicken and quail embryos induced robust transgene expression within developing embryonic gonads, demonstrating their ability to traverse embryonic barriers and access germline niches. Vector-derived sequences persisted in embryonic and post-hatch gonads, and GFP-positive germ cells were detected in the testes of sexually mature G₀ quails, supporting preferential germline uptake and expression. Collectively, these findings establish PGC-derived exosomes as promising germline-directed nanocarriers for in vivo gene delivery in birds, with potential applications in avian genome engineering and germline modification.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04442-x",
+        "keyword": "Exosomes",
+        "title_ja": "生殖細胞指向性エクソソーム送達により鳥類での生体内遺伝子修飾が可能に",
+        "summary_ja": "鳥類胚は卵殻や卵黄の障壁により初期遺伝子操作が困難である。本研究では、ニワトリ始原生殖細胞（PGC）由来エクソソームを単離し、その形態・サイズ・マーカーを解析した。PGCエクソソームはプラスミドDNAを効率的に細胞内へ輸送し、生体毒性が低かった。鶏胚およびウズラ胚へのエクソソーム・プラスミド複合体の顕微注入により、生殖腺で強い遺伝子発現が確認され、胚障壁を越えて生殖系列へアクセス可能と示された。ベクター配列は孵化後も生殖腺に持続し、成熟G₀オスウズラ精巣でGFP陽性生殖細胞を検出。PGCエクソソームは鳥類の生体内生殖系列指向性ナノキャリアとして、ゲノム工学や生殖細胞改変への応用が期待される。"
+      },
+      {
+        "title": "Quercetin-loaded exosomes derived from human umbilical cord mesenchymal stem cells alleviate microglia-mediated neuroinflammation via an anti-inflammatory mechanism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42014646/",
+        "abstract": "Neuroinflammation is central to the progression of neurodegenerative diseases (NDs), with microglia contributing through the release of pro-inflammatory and oxidative mediators. Although quercetin (Que) possesses potent anti-inflammatory and antioxidant properties, its clinical application is limited by poor solubility and bioavailability. Umbilical cord mesenchymal stem cells (UC-MSCs)-derived exosomes (Exo) offer a promising delivery system to enhance Que efficacy. This study investigated the anti-inflammatory effects of Que-loaded Exo (Que-Exo) using an in vitro neuroinflammation model. Exo were isolated from UC-MSC-conditioned media via ultracentrifugation and loaded with Que through sonication. Characterization of Exo and Que-Exo was performed using dynamic light scattering, zeta potential analysis, transmission electron microscopy, and western blotting. In vitro release and cellular uptake studies assessed Que-Exo release profiles and their internalization by HMC3 microglial cells. Neuroinflammation was induced in HMC3 cells using lipopolysaccharide (LPS). The effects of Que-Exo on pro-inflammatory cytokine and enzyme expression, nitric oxide (NO) production, and inflammatory signaling pathways were evaluated using flow cytometry, the Griess assay, and western blotting. In vitro release from Que-Exo demonstrated improved stability and controlled delivery, while fluorescence imaging confirmed efficient uptake of Que-Exo by HMC3 cells. Mechanistically, Que-Exo inhibited NF-κB nuclear translocation, a key regulator of pro-inflammatory mediator transcription. Que-Exo pretreatment significantly reduced TNF-α, IL-6, iNOS, and COX-2 expression and suppressed NO synthesis in LPS-stimulated cells. Overall, Que-Exo exhibited superior anti-inflammatory activity compared to Exo and free Que, highlighting the synergistic effect of exosomal delivery in enhancing Que bioavailability and therapeutic efficacy against neuroinflammation.",
+        "source": "PubMed",
+        "doi": "10.1007/s10787-026-02236-z",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト臍帯間葉系幹細胞由来クェルセチン内包エクソソームは抗炎症メカニズムを介してミクログリア媒介性神経炎症を緩和する",
+        "summary_ja": "ヒト臍帯間葉系幹細胞由来エクソソームに抗炎症・抗酸化物質ケルセチンを担持したQue-Exoを調製し、神経炎症モデルにおける抗炎症効果を検討した。Que-Exoは、LPS刺激によるミクログリアの炎症性サイトカイン（TNF-α、IL-6）や酵素（iNOS、COX-2）の発現、一酸化窒素産生を抑制した。その機序は、NF-κBの核内移行阻害による。エクソソーム送達はケルセチンの安定性と細胞内取り込みを向上させ、単独投与より優れた抗炎症効果を示し、神経変性疾患治療への応用が期待される。"
+      },
+      {
+        "title": "BAT-derived miR-378a-3p facilitates endothelial angiogenic function and promotes wound healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42012885/",
+        "abstract": "Interscapular brown adipose tissue (iBAT), one of the most vascularized tissues in the body, exemplifies the intricate crosstalk between the vascular system and adipocytes. BAT is known to secrete abundant exosomes into circulation, while exosomes are known to play a key role in vascular remodeling and cell migration. However, whether BAT-derived exosomes (BATexos) modulate peripheral vasculature remains unclear. Here, we report that BATexos promoted peripheral angiogenesis and vascular repair. Among their cargo, miR-378a-3p was highly enriched and identified as a key mediator of endothelial angiogenic function. The overexpression of miR-378a-3p in endothelial cells substantially promoted cell migration and tube formation. Conversely, inhibition of exosome secretion from BAT impaired vascular repair and delayed wound healing. Mechanistically, miR-378a-3p directly targeted the phosphatase and tensin homolog (Pten), thereby activating the PI3K-AKT signaling pathway. Liposomes encapsulating miR-378 mimics promoted angiogenesis and accelerated wound healing in a diabetic mouse model. Collectively, this study uncovers BAT-derived miR-378a-3p as a key regulator of vessel regeneration and tissue repair following injury, offering new therapeutic potential for treating vascular complications in metabolic disease.",
+        "source": "PubMed",
+        "doi": "10.1172/jci.insight.201311",
+        "keyword": "Exosomes",
+        "title_ja": "BAT由来miR-378a-3pは血管新生機能を促進し創傷治癒を加速させる",
+        "summary_ja": "褐色脂肪組織（BAT）由来のエクソソーム（BATexos）は、末梢血管新生と創傷治癒を促進する。その主要因子としてmiR-378a-3pが同定され、内皮細胞においてPTENを直接抑制し、PI3K-AKT経路を活性化することで、細胞遊走や血管形成を亢進させる。BATからのエクソソーム分泌阻害は血管修復を損ない、逆にmiR-378a-3p模倣体の投与は糖尿病モデルマウスで血管新生と治癒を加速した。本研究は、BAT由来miR-378a-3pが血管再生の新規調節因子であり、代謝疾患に伴う血管合併症治療への応用可能性を示す。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**1. PF4/Heparin-Nonbinding HIT抗体:** ELISA陰性でも血小板を活性化する新規HIT抗体サブセットの発見は、診断を見直し、偽陰性を防ぐ重要性がある。今後の診断精度向上と治療戦略に影響。\n\n**2. チダミド併用によるDLBCL治療:** 標準治療後の再発DLBCLに対し、HDAC阻害剤チダミドと化学療法の併用がパイロトーシスを誘導し抗腫瘍免疫を活性化。新規併用療法として臨床応用が期待される。\n\n**3. APS-ハイドロゲルによるNK細胞保存:** 凍結保存によるNK細胞の表面微細構造損傷は機能低下の一因。APSとハイドロゲルの複合体が構造と機能を保護する技術は、細胞療法の効率向上に寄与。\n\n**4. 抗EpCAMエクソソームによるシェーグレン症候群治療:** 組織特異的に酪酸塩を送達するエクソソームプラットフォームは、自己免疫疾患の新たな標的治療として、全身副作用を軽減する可能性を拓く。\n\n**5. ブロッコリースプラウト由来エクソソーム:** 天然の植物性エクソソームが内包する生理活性分子による腸管炎症修復効果は、安全で効果的なナノ医薬品として、炎症性腸疾患治療への新アプローチとなる。"
+}

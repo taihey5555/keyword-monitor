@@ -1,0 +1,136 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Klotho in the kidney distal convolution regulates urinary Klotho excretion and kidney calcium reabsorption, but not phosphate homeostasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41759932/",
+        "abstract": "Klotho acts as a coreceptor for the phosphaturic hormone fibroblast growth factor-23 (FGF-23) and exists in both a membrane-bound and a soluble form (sKlotho) found in blood and urine. Klotho protein is moderately expressed in kidney proximal tubule and more abundant in the distal convolution (DC), which includes the distal convoluted tubule (DCT) and connecting tubule (CNT). However, the function of Klotho in the DC, particularly its role in sKlotho release and regulation of mineral metabolism, remains unclear.",
+        "source": "PubMed",
+        "doi": "10.1016/j.kint.2026.01.030",
+        "keyword": "Klotho",
+        "title_ja": "腎臓遠位尿細管におけるKlothoは、尿中Klotho排泄と腎臓のカルシウム再吸収を調節するが、リン酸恒常性には影響しない。",
+        "summary_ja": "Klothoはリン利尿ホルモンFGF-23の共受容体であり、膜結合型と可溶性型（sKlotho）として存在する。腎臓では近位尿細管に中程度、遠位曲部（DCTおよびCNTを含む）に高発現するが、遠位曲部におけるKlothoの機能、特にsKlotho放出とミネラル代謝調節への関与は不明である。本論文は、遠位曲部のKlothoが尿中sKlotho排泄と腎臓のカルシウム再吸収を調節する一方、リン恒常性には関与しないことを明らかにした。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Single-cell analysis highlights the role of CD4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42021381/",
+        "abstract": "Behcet's disease (BD) involves multiple immune cells, but the mechanism by which interferon α-2a (IFNα-2a) exerts therapeutic effects on BD through immune cell modulation remains unclear. This study aimed to investigate the role of CD4 + IFN-I-related T cells in BD with active uveitis during IFNα-2a therapy.",
+        "source": "PubMed",
+        "doi": "10.1186/s13062-026-00810-7",
+        "keyword": "NK cell therapy",
+        "title_ja": "シングルセル解析がCD4の役割を浮き彫りに",
+        "summary_ja": "ベーチェット病（BD）は複数の免疫細胞が関与するが、インターフェロンα-2a（IFNα-2a）の治療効果における免疫細胞調節機構は不明である。本研究は、活動性ぶどう膜炎を伴うBD患者におけるIFNα-2a治療中のCD4+ IFN-I関連T細胞の役割を、単一細胞解析により調査した。その結果、IFNα-2a治療によりCD4+ T細胞サブセットの変化が認められ、特にIFN-Iシグナル関連遺伝子の発現変動が治療効果と関連することが示された。本解析は、BDにおけるIFNα-2aの免疫調節メカニズムの一端を明らかにした。"
+      },
+      {
+        "title": "CAR-NK cell therapy for hematological malignancies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42018660/",
+        "abstract": "Chimeric antigen receptor (CAR)-natural killer (NK) cells represent a novel cell therapy platform distinguished from CAR-T cells by their more favorable safety profile, easier off-the-shelf allogeneic manufacturing and consequent scalability, and their innate cytotoxicity without needing prior sensitization. CAR-NK cells derived from a variety of sources have been used against hematologic malignancies in several clinical trials, showing significant therapeutic responses and efficacy without severe adverse effects. Limitations that are being addressed in CAR-NK cell therapy include challenges regarding NK cell persistence in vivo, metabolic bottlenecks, and tumor-coopted immunosuppressive mechanisms that induce NK cell exhaustion. This review synthesizes current trends and innovations in CAR-NK cell engineering, examines the biological and technical challenges encountered in the clinical setting, outlines targeted preclinical approaches being implemented, and introduces recent early-phase clinical trials in the pipeline. Summatively, we highlight the rapidly advancing and transformative potential of CAR-NK cell therapy for treating hematological cancers.",
+        "source": "PubMed",
+        "doi": "10.1182/bloodadvances.2024014082",
+        "keyword": "NK cell therapy",
+        "title_ja": "CAR-NK細胞療法による血液悪性腫瘍の治療",
+        "summary_ja": "CAR-NK細胞療法は、CAR-T細胞と比較して安全性が高く、既製品としての同種製造が容易でスケーラビリティに優れ、事前感作なしに自然細胞傷害活性を発揮する新たな細胞治療プラットフォームである。多様な由来のCAR-NK細胞は血液悪性腫瘍を対象とした複数の臨床試験で用いられ、重篤な副作用なく有意な治療効果を示している。課題として、生体内でのNK細胞持続性、代謝的ボトルネック、腫瘍による免疫抑制機構が誘導する疲弊が挙げられ、これらに対処する研究が進められている。本総説は、CAR-NK細胞工学の最新動向と革新、臨床現場での生物学的・技術的課題、標的化された前臨床アプローチ、初期臨床試験を紹介し、血液がん治療におけるCAR-NK細胞療法の急速に進展する変革的ポテンシャルを強調する。"
+      },
+      {
+        "title": "Inhalable Cryo-Shocked Tumor Cells for Synergistic Chemoimmunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41947504/",
+        "abstract": "Lung cancer, particularly nonsmall cell lung cancer (NSCLC), poses significant therapeutic challenges due to frequent late-stage diagnosis and limited treatment efficacy. While chemoimmunotherapy has emerged as a promising approach, its clinical application is hampered by systemic toxicity and pharmacokinetic asynchrony. To address these limitations, we developed an innovative inhalable platform utilizing liquid nitrogen-treated tumor cells (LNT cells) that serve dual functions as both drug carriers and potent immunostimulators. These LNT cells retain their structural integrity while being rendered nonviable, exposing tumor-associated antigens (TAAs) and damage-associated molecular patterns (DAMPs) that robustly promote dendritic cell (DC) maturation and proinflammatory cytokine secretion via activation of Toll-like receptor (TLR) and nuclear factor kappa B (NF-κB) signaling pathways. This biomimetic system demonstrates excellent pulmonary retention following inhalation and exhibits high drug-loading capacity, with the preserved cellular architecture of LNT cells enabling the sustained release of doxorubicin (DOX) under physiologically relevant conditions. The resulting LNT-DOX formulation combines controlled chemotherapeutic delivery with immunogenic cell death (ICD) induction, achieving synergistic therapeutic effects. In both orthotopic lung cancer and aggressive pulmonary metastasis models, inhalation of LNT-DOX demonstrated superior tumor suppression, significantly prolonged survival, and reduced systemic toxicity compared with conventional DOX administration. Mechanistic studies revealed that this enhanced efficacy stems from a multifaceted immunomodulatory response, including sustained local chemotherapy, robust DC activation, M1 macrophage polarization, and significant recruitment of NK cells and CD8",
+        "source": "PubMed",
+        "doi": "10.1021/acsami.6c04726",
+        "keyword": "NK cell therapy",
+        "title_ja": "吸入式冷休克肿瘤细胞用于协同化学免疫治疗。",
+        "summary_ja": "本論文は、非小細胞肺がん（NSCLC）治療の課題に対し、吸入可能な液体窒素処理腫瘍細胞（LNT細胞）を用いた新規プラットフォームを報告する。LNT細胞は構造を保持しつつ非生存化され、腫瘍関連抗原（TAA）や損傷関連分子パターン（DAMP）を露出し、Toll様受容体（TLR）およびNF-κB経路を介して樹状細胞（DC）成熟と炎症性サイトカイン分泌を促進する。この生体模倣システムは高い肺滞留性と薬物搭載能を示し、ドキソルビシン（DOX）を持続放出する。LNT-DOX製剤は化学療法と免疫原性細胞死（ICD）を組み合わせ、同所性肺がんおよび転移モデルにおいて、従来のDOX投与と比較して優れた腫瘍抑制、生存期間延長、全身毒性低減を達成した。その機序として、持続的な局所化学療法、DC活性化、M1マクロファージ分極、NK細胞およびCD8陽性T細胞の顕著な動員が確認された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Highlights of 2025: advancements in natural killer cell biology.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42023427/",
+        "abstract": "Recent findings uncover new mechanisms governing NK cell activation, inhibition, metabolism, and memory-like responses, alongside a newly described role in systemic immune regulation via adipose tissue.",
+        "source": "PubMed",
+        "doi": "10.1111/imcb.70121",
+        "keyword": "NK cell therapy",
+        "title_ja": "2025年のハイライト：ナチュラルキラー細胞生物学の進歩",
+        "summary_ja": "2025年のナチュラルキラー（NK）細胞生物学の進展として、NK細胞の活性化、抑制、代謝、および記憶様応答を制御する新たなメカニズムが解明された。特に、脂肪組織を介した全身性免疫調節における新たな役割が報告され、NK細胞が代謝と免疫の連携に重要な機能を果たすことが示された。これらの知見は、NK細胞の基礎生物学の理解を深め、がん免疫療法や自己免疫疾患への応用可能性を広げるものである。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "PBK-Loaded secretory autophagosomes drive radiotherapy-induced systemic adipose depletion via MAPK/ERK-PRKA/PKA-LIPE/HSL signaling: a therapeutic target for esophageal cancer cachexia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41988986/",
+        "abstract": "Radiotherapy, while a cornerstone treatment for esophageal squamous cell carcinoma (ESCC), is paradoxically associated with significant weight loss that portends poor patient outcomes. The mechanisms driving this metabolic complication remain elusive. Here, we identified adipose depletion - rather than muscle atrophy - as the primary contributor to radiotherapy-induced weight loss in ESCC. We demonstrated that secretory autophagosomes (SAPs) released post-irradiation mediate systemic fat loss through integrated ",
+        "source": "PubMed",
+        "doi": "10.1080/15548627.2026.2661313",
+        "keyword": "sEVs",
+        "title_ja": "PBKを搭載した分泌型オートファゴソームがMAPK/ERK-PRKA/PKA-LIPE/HSLシグナル伝達を介して放射線治療誘発性の全身性脂肪減少を促進する：食道癌悪液質の治療標的",
+        "summary_ja": "放射線療法は食道扁平上皮癌（ESCC）の主要治療法だが、体重減少を誘発し予後不良と関連する。本研究では、放射線誘発性体重減少の主因が筋萎縮ではなく脂肪組織の枯渇であることを特定した。照射後に放出される分泌型オートファゴソーム（SAPs）が、MAPK/ERK-PRKA/PKA-LIPE/HSLシグナル伝達経路を介して全身性の脂肪分解を促進することを明らかにした。このSAPsを介した脂肪組織減少機構は、食道癌悪液質の新たな治療標的となる可能性を示す。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Rational design of FAP-targeted sEVs delivered by microneedles for precision treatment of hypertrophic scars via ferroptosis in hypertrophic scar fibroblasts.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42021919/",
+        "abstract": "Hypertrophic scars (HS) lack cell-specific therapies because pathogenic hypertrophic scar fibroblasts (HSFs) are hard to inactivate without damaging human dermal fibroblasts (HDFs). Ferroptosis has emerged as a potential antifibrotic vulnerability of activated fibroblasts, yet its translational use is constrained by off-target toxicity of small-molecule inducers. Here, we report a targeted delivery strategy based on small extracellular vesicles (sEVs) surface-decorated with a fibroblast activation protein (FAP) ligand to preferentially deliver a widely used ferroptosis inducer erastin to HSFs. We confirmed that FAP is upregulated in HSFs and HS tissue, and engineered adipose-derived mesenchymal stem cell (ADSC)-derived sEVs loaded with erastin and covalently conjugated with the FAP ligand UAMC1110 (sEVs",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103117",
+        "keyword": "sEVs",
+        "title_ja": "肥厚性瘢痕線維芽細胞におけるフェロトーシスを介した肥厚性瘢痕の精密治療のための、マイクロニードルにより送達されるFAP標的化sEVの合理的設計",
+        "summary_ja": "本論文は、肥厚性瘢痕（HS）治療における新たな標的送達戦略を報告する。HS線維芽細胞（HSFs）は不活化が困難であり、既存のフェロトーシス誘導剤はオフターゲット毒性が課題であった。研究では、HSFsおよびHS組織で線維芽細胞活性化タンパク質（FAP）が高発現することを確認。脂肪由来間葉系幹細胞（ADSC）由来の小型細胞外小胞（sEVs）にフェロトーシス誘導剤エラスチンを内包し、表面にFAPリガンドUAMC1110を共有結合させた。このsEVsはFAP陽性HSFsに選択的にエラスチンを送達し、正常なヒト皮膚線維芽細胞（HDFs）への影響を最小化。マイクロニードルによる経皮投与でHS組織への効率的な送達を実現し、HSFsのフェロトーシスを誘導することで抗線維化効果を示した。本アプローチは、HSに対する細胞特異的治療の可能性を拓く。"
+      },
+      {
+        "title": "Delivery of miR-25802 via Small Vesicles Protects Against Mitochondrial Injury, Oxidative Stress, and Neuroinflammation in Alzheimer's Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42020886/",
+        "abstract": "Mitochondrial dysfunction, oxidative stress, and neuroinflammation play a critical role in the occurrence and progression of Alzheimer's disease (AD). MicroRNAs (miRNAs) have been studied recently as potential therapeutic approaches for AD. In this study, we examined the function and underlying mechanism of microRNA-25802 (miR-25802), a newly discovered miRNA in an AD model. In order to evaluate the levels of oxidative stress, mitochondrial damage and neuroinflammation in neuroblastoma cells, four experimental groups were created: control group (neuroblastoma cells, SH-SY5Y), amyloid beta (Aβ)-induced neuroblastoma cells (SY5Y-Aβ), small extracellular vesicles (sEVs)-only group and miR-25802-loaded small extracellular vesicles (sEV-miR25802) administered group. Neuroinflammation, oxidative stress, mitochondrial damage, tau hyperphosphorylation, and Aβ accumulation were evaluated in Aβ-induced neuroblastoma cells. Oxidative stress was analyzed by measuring reactive oxygen species (ROS), malondialdehyde (MDA), lactate dehydrogenase (LDH), superoxide dismutase (SOD), and glutathione peroxidase 1 (GPX1). Inflammatory markers such as tumor necrosis factor-alpha (TNF-α), intercellular adhesion molecule 1 (ICAM1), and brain-derived neurotrophic factor (BDNF) mRNA levels, a neurotrophic factor, were evaluated by RT-qPCR. Neurofilament light chain (NfL), vascular endothelial growth factor-A (VEGF-A), macrophage migration inhibitory factor (MIF), monocyte chemoattractant protein-1 (MCP-1) and cytochrome c (Cyt-c), mitochondrial transcription factor A (TFAM), PTEN-induced kinase 1 (PINK1) and dynamin-1-like protein (DNM1L) protein levels were determined by ELISA. Mechanistically, sEV-miR25802 were shown to provide anti-inflammatory and neuroprotective effects by regulating neuroinflammation, mitochondrial dysfunction, and oxidative stress. These findings reveal the regulatory role of miR-25802 on neuroinflammation, mitochondrial damage, and oxidative stress and suggest that it may be a potential therapeutic target for AD.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-05889-7",
+        "keyword": "sEVs",
+        "title_ja": "小胞を介したmiR-25802の送達は、アルツハイマー病におけるミトコンドリア障害、酸化ストレス、および神経炎症を抑制する",
+        "summary_ja": "本論文では、アルツハイマー病（AD）におけるミトコンドリア障害、酸化ストレス、神経炎症に対する新規miRNAであるmiR-25802の機能を検討した。神経芽細胞腫SH-SY5Yを用い、コントロール群、アミロイドβ（Aβ）誘導群、小型細胞外小胞（sEVs）単独投与群、miR-25802搭載sEVs（sEV-miR25802）投与群の4群で実験を行った。酸化ストレスはROS、MDA、LDH、SOD、GPX1で評価し、炎症マーカー（TNF-α、ICAM1、BDNF）はRT-qPCRで、NfL、VEGF-A、MIF、MCP-1、Cyt-c、TFAM、PINK1、DNM1LはELISAで測定した。その結果、sEV-miR25802は神経炎症、ミトコンドリア機能不全、酸化ストレスを調節し、抗炎症・神経保護効果を示した。これらの知見は、miR-25802がADの新たな治療標的となる可能性を示唆する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **腎臓遠位尿細管におけるKlothoの新機能**  \n   KlothoはFGF-23の共受容体としてリン・ビタミンD代謝に関与するが、本研究は遠位尿細管でのKlothoが尿中排泄とカルシウム再吸収を調節し、リン恒常性には直接関与しないことを示した。腎疾患や電解質異常の新たな治療標的として期待される。\n\n2. **CAR-NK細胞療法の血液悪性腫瘍への応用**  \n   CAR-NK細胞はCAR-Tに比べ安全性が高く、同種製造が容易で即時利用可能な「既製品」細胞治療として注目される。血液がんに対する有効性が示されつつあり、今後のスケーラブルな製造技術と併用療法の開発が鍵となる。\n\n3. **吸入可能な凍結ショック腫瘍細胞による化学免疫療法**  \n   非小細胞肺がんに対し、液体窒素処理した腫瘍細胞を吸入投与する新規プラットフォームが報告された。腫瘍抗原とDAMPを保持し、免疫応答を誘導するため、局所治療と全身免疫活性化の両立が期待される。\n\n4. **FAP標的化sEVsによる肥厚性瘢痕の精密治療**  \n   肥厚性瘢痕線維芽細胞に特異的なFAPを標的とし、フェロトーシス誘導剤を搭載した小型細胞外小胞（sEVs）をマイクロニードルで送達する戦略。オフターゲット毒性を低減し、瘢痕治療の精密化に貢献する。\n\n5. **miR-25802搭載小胞によるアルツハイマー病治療**  \n   新規miRNAであるmiR-25802を小型小胞で送達し、ミトコンドリア障害・酸化ストレス・神経炎症を抑制するアプローチ。ADの多因子病態を包括的に標的とする点で画期的であり、早期介入への応用が期待される。"
+}

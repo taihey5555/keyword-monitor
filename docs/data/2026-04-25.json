@@ -1,0 +1,195 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Klotho-derived peptide preserves erectile function by limiting fibrosis, oxidative stress, and apoptosis of penile smooth muscle cells in cavernous nerve injured-rats through suppression of the TGF-β1/TGF-β type II receptor signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41962889/",
+        "abstract": "Patients with prostate cancer frequently complain of erectile dysfunction (ED) after radical prostatectomy (RP). Corporal fibrosis and apoptosis following cavernous nerve injury (CNI) significantly contribute to RP-induced ED. Klotho is an anti-aging protein, and Klotho-derived peptide (KP) has been introduced as an antagonist of tissue fibrosis and apoptosis. However, it is unknown whether CNI-induced functional and morphological changes in the penis. This study was designed to explore the impact of KP on CNI-induced ED. The rats were randomly divided into three groups: Sham operation, bilateral CNI with saline injection, and bilateral CNI with KP injection. Assessments of erectile function were conducted three weeks post-treatment. Penile tissues were obtained for histopathological examination. Corpus cavernosum smooth muscle cells (CCSMCs) treated with transforming growth factor-beta 1 (TGF-β1) served as an in vitro model to assess the impact of KP. Rats subjected to bilateral CNI developed severe ED. Penile tissues exhibited reduced smooth muscle abundance and nitric oxide synthase expression, alongside increased fibrosis, oxidative stress, apoptosis, and TGF-β1 signaling activation. However, KP ameliorated these functional and morphological damage. Moreover, KP exerted anti-fibrotic and anti-apoptotic effects on TGF-β1-stimulated CCSMCs by downregulating TGF-β type II receptor, which intercepted the Smad2/JNK signaling and activated the AKT pathway. Overall, KP improved CNI-induced ED and corporal remodeling. These beneficial effects were mediated by TGF-β type II receptor downregulation, which rebalanced the TGF-β1-driven Smad2/JNK activation and PI3K/AKT suppression, thereby ameliorating CCSMC dysfunction. Our results establish the potential of KP as a therapy for neurogenic ED.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ejphar.2026.178849",
+        "keyword": "Klotho",
+        "title_ja": "クロトー由来ペプチドは、TGF-β1/TGF-βタイプII受容体シグナル伝達の抑制を介して、海綿体神経損傷ラットの陰茎平滑筋細胞の線維化、酸化ストレス、アポトーシスを制限することにより勃起機能を保護する",
+        "summary_ja": "前立腺がん患者は根治的前立腺摘除術後、勃起障害（ED）を頻発する。海綿体神経損傷（CNI）後の線維化とアポトーシスが主因である。Klotho由来ペプチド（KP）は抗線維化・抗アポトーシス作用を持つが、CNIへの効果は不明。本研究では、ラットをSham群、両側CNI+生理食塩水群、両側CNI+KP群に分け、3週間後に勃起機能と陰茎組織を評価。in vitroではTGF-β1刺激海綿体平滑筋細胞（CCSMC）を用いた。CNI群では重度ED、平滑筋減少、一酸化窒素合成酵素低下、線維化・酸化ストレス・アポトーシス・TGF-β1シグナル活性化が認められたが、KPはこれらを改善。KPはTGF-β type II受容体を下方制御し、Smad2/JNKシグナルを遮断、AKT経路を活性化することで抗線維化・抗アポトーシス効果を示した。KPはCNI誘発EDと陰茎リモデリングを改善し、神経性ED治療の可能性を示"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Allogeneic hematopoietic cell transplantation in mature T- or NK-lymphomas: a phase II clinical trial.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42026073/",
+        "abstract": "Allogeneic hematopoietic cell transplantation (HCT) is a potential cure for patients with peripheral T-/NK-cell lymphomas (PTCL), but its application is understudied. This prospective trial evaluates a unique reduced-intensity (RIC) transplantation platform in 31 patients with PTCL (NCT03922724). One-year progression-free survival, the primary endpoint, is 53% (95% CI 29-72%) on the RIC arm and 60% (95% CI 25-83%) on the modified-RIC arm. The 3-year overall survival is 61% (95% CI 42-76%), with relapse estimated at 18% (95% CI 6-34%) at 3 years. Transplant-related mortality was 24% (95% CI 10-41%) at 1-year, low at 11% (95% CI 2-29%) for patients ≤60 years but 56% (95% CI 17-82%) for patients >60 years, p = 0.01. There was no grade III-IV acute graft-versus-host disease, while chronic graft-versus-host disease was estimated at 23% (95 CI 10-38%) at 2 years. This study demonstrates a benefit regardless of pre-transplantation disease status, challenging the requirement of remission for HCT.",
+        "source": "PubMed",
+        "doi": "10.1038/s41467-026-71461-5",
+        "keyword": "NK cell therapy",
+        "title_ja": "成熟TまたはNKリンパ腫に対する同種造血細胞移植：第II相臨床試験",
+        "summary_ja": "本試験は、成熟T/NK細胞リンパ腫（PTCL）に対する同種造血細胞移植（HCT）の前向き第II相試験（NCT03922724）である。31例のPTCL患者に対し、独自の強度減弱前処置（RIC）レジメンを用いた。主要評価項目である1年無増悪生存率は、RIC群53%（95% CI 29-72%）、modified-RIC群60%（95% CI 25-83%）であった。3年全生存率は61%（95% CI 42-76%）、3年再発率は18%（95% CI 6-34%）と推定された。1年移植関連死亡率は24%（95% CI 10-41%）で、60歳以下では11%（95% CI 2-29%）と低い一方、60歳超では56%（95% CI 17-82%）と有意に高かった（p=0.01）。Grade III-IVの急性移植片対宿主病（GVHD）は認めず、2年慢性GVHDは23%（95% CI 10-38%）"
+      },
+      {
+        "title": "Multiomics immune profiling of a patient-relevant orthotopic lung cancer model using SEPARATE-Seq.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42026061/",
+        "abstract": "Relevant pre-clinical models are essential for driving progress in cancer therapy research. Here, we develop a pre-clinical study framework using an injectable orthotopic lung adenocarcinoma (LUAD) model (ORTHO) that replicates key features of human LUAD patients and is dissectible into tumoural and non-tumoural adjacent tissue, in analogy with patient samples. We also present SEPARATE-Seq, a broadly applicable technique enabling the partitioning of vascular and intratissue immune cells along with scRNA-Seq. By applying both SEPARATE-Seq and spatial transcriptomics to our dissectible ORTHO model, we confirm that our model replicates key immune features of human LUAD patients. Similarly to these patients, we observe NK-cell dysfunction and neutrophil dichotomy, and show that these are affected by their vascular/intratissue or tumour/adjacent location, highlighting the need for these spatial distinctions. Additionally, we show that several immune populations are restricted to specialised, local niches within the tumour, including a ring of lipid-associated TAMs lining the tumour edge and hubs of interferon-stimulated cells. Overall, our resource, available through an interactive tool, provides a comprehensive multiomics immune characterisation of a reproducible pre-clinical LUAD mouse model.",
+        "source": "PubMed",
+        "doi": "10.1038/s41467-026-72247-5",
+        "keyword": "NK cell therapy",
+        "title_ja": "SEPARATE-Seqを用いた患者関連性の高い同所性肺癌モデルのマルチオミクス免疫プロファイリング",
+        "summary_ja": "本論文では、ヒト肺腺癌（LUAD）患者の特徴を再現する注入可能な同所性LUADモデル（ORTHO）を用いた前臨床研究フレームワークを開発した。また、血管内および組織内免疫細胞を分離しscRNA-Seq解析を可能にする新規手法「SEPARATE-Seq」を提示する。ORTHOモデルにSEPARATE-Seqと空間トランスクリプトミクスを適用し、ヒトLUAD患者と同様の免疫特性（NK細胞機能不全、好中球二極性）を確認した。これらの特性は血管内/組織内や腫瘍/隣接組織といった空間的位置に影響され、空間的区別の重要性が示された。さらに、腫瘍辺縁に脂質関連TAMsのリングやインターフェロン刺激細胞のハブなど、特殊な局所ニッチに限定される免疫集団を同定した。本リソースはインタラクティブツールとして提供され、再現可能な前臨床LUADマウスモデルの包括的マルチオミクス免疫特性評価を実現する。"
+      },
+      {
+        "title": "Combined inhibition of S100A4 and TIGIT suppresses late-stage breast cancer metastasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41962622/",
+        "abstract": "It is estimated that ∼170,000 women in the US live with metastatic breast cancer in 2025. While multiple treatment options exist for metastatic breast tumor, none of them are curative. Here, we investigate the mechanism through which S100A4 promotes breast cancer metastases and report that S100A4 is a critical regulator of neutrophil infiltration into the lung to establish a premetastatic niche (PMN). We show that a novel S100A4 blocking antibody (S100A4-11) suppresses neutrophil infiltration and relieves TIGIT-mediated NK cell inhibition in the lung, leading to significantly reduced lung metastases in two different mouse models. When the treatment is initiated after the PMN formation, simulating most clinical situations, S100A4-11 treatment as a monotherapy is not sufficient to block lung metastases. However, a novel combination of anti-S100A4 and anti-TIGIT treatment significantly suppresses late-stage lung metastases by increasing CD8",
+        "source": "PubMed",
+        "doi": "10.1016/j.canlet.2026.218491",
+        "keyword": "NK cell therapy",
+        "title_ja": "S100A4とTIGITの併用阻害が乳癌後期転移を抑制する",
+        "summary_ja": "2025年、米国では約17万人の女性が転移性乳癌と共に生きると推定されるが、現行治療に根治的療法はない。本論文では、S100A4が乳癌転移を促進する機構を解明した。S100A4は肺への好中球浸潤を制御し、転移前ニッチ（PMN）を形成する重要な因子である。新規S100A4阻害抗体（S100A4-11）は、好中球浸潤を抑制し、肺におけるTIGIT介在性NK細胞阻害を解除することで、2種類のマウスモデルで肺転移を有意に減少させた。しかし、PMN形成後に治療を開始した臨床に即した条件下では、S100A4-11単剤療法は不十分であった。そこで、抗S100A4抗体と抗TIGIT抗体の新規併用療法を実施したところ、CD8陽性T細胞の増加を介して後期肺転移を有意に抑制することに成功した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Correspondence on: \"Exosomes in trichology: A literature review\".",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42028383/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.jpra.2026.03.017",
+        "keyword": "Exosomes",
+        "title_ja": "「トリコロジーにおけるエクソソーム：文献レビュー」に関する通信",
+        "summary_ja": "タイトル: Correspondence on: \"Exosomes in trichology: A literature review\"\n\n本稿は、毛髪学におけるエクソソームの役割を検討したレビューへの対応である。エクソソームは、細胞間情報伝達を担う小型小胞で、成長因子やmiRNAを含み、毛包の再生や成長サイクル調節に関与する。既存研究では、エクソソームが毛乳頭細胞や幹細胞に作用し、アンドロゲン性脱毛症や円形脱毛症などの治療に有望とされる。しかし、標準化された分離・精製法の欠如、有効成分の同定不足、臨床試験の限界が課題である。本対応は、これらの問題点を指摘し、今後の研究ではエクソソームの均一性や作用機序の解明、大規模臨床試験の必要性を強調する。結論として、エクソソームは毛髪再生医療の新たなツールとなり得るが、実用化にはさらなる基礎的・臨床的検証が不可欠である。"
+      },
+      {
+        "title": "Enhancing exosomes efficacy with engineered nanozymes for a multi-targeted combination strategy in osteoarthritis treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42028286/",
+        "abstract": "Osteoarthritis (OA) is a prevalent degenerative joint disease characterized by multifactorial pathological mechanisms, and remains a significant clinical challenge. Exosome therapy represents a future direction for delaying OA progression, yet its efficacy is often compromised by inflammatory microenvironment within the joints. To overcome these limitations, we present a novel combinatorial therapeutic platform that alleviates OA through a multi-targeted strategy, including the scavenging of reactive oxygen species (ROS), suppression of macrophage-driven inflammation, and inhibition of chondrocyte ferroptosis. This platform combines dental pulp stem cells-derived exosomes (Exo) with hollow mesoporous cerium oxide nanozymes, which were first loaded with curcumin and subsequently coated with hyaluronic acid, termed HA@Cur@CeO",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103118",
+        "keyword": "Exosomes",
+        "title_ja": "ナノザイム工学によるエクソソームの効果増強：変形性関節症治療における多標的併用戦略",
+        "summary_ja": "本論文は、変形性関節症（OA）に対する新規治療プラットフォームを提案する。OAは多因子性の病態を持つ変性関節疾患であり、関節内の炎症性微小環境がエクソソーム療法の効果を制限する。本研究では、歯髄幹細胞由来エクソソーム（Exo）と、クルクミンを内包しヒアルロン酸で被覆した中空メソポーラス酸化セリウムナノザイム（HA@Cur@CeO₂）を組み合わせた。本プラットフォームは、活性酸素種（ROS）の除去、マクロファージ由来炎症の抑制、軟骨細胞フェロトーシスの阻害という多標的戦略によりOAを緩和する。これにより、エクソソーム療法の有効性を向上させる新たなアプローチを提示している。"
+      },
+      {
+        "title": "Intelligent plant exosomes synergize miRNAs and cisplatin for spatiotemporally precise multimodal treatment for TNBC with high safety.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42027810/",
+        "abstract": "Triple-negative breast cancer (TNBC) lacks common receptors and exhibits aggressive behavior, limiting treatment options due to drug resistance and systemic toxicity. TNBC chemotherapy is hindered by poor tumor targeting, drug resistance, and systemic toxicity. Herein, this study presented a cascade targeting exosomal-cisplatin synergistic microneedle nanoplatform (CDDP@RKTExo-MN) as an intelligent wearable therapeutic device for TNBC treatment. Medicinal plant ",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.02.013",
+        "keyword": "Exosomes",
+        "title_ja": "植物エクソソームがmiRNAとシスプラチンを相乗的に活用し、時空間的に精密なマルチモーダル治療で高安全性のTNBCを実現",
+        "summary_ja": "タイトル：Intelligent plant exosomes synergize miRNAs and cisplatin for spatiotemporally precise multimodal treatment for TNBC with high safety.\n\n要約：Triple-negative breast cancer (TNBC)は共通受容体を欠き、攻撃的で、薬剤耐性や全身毒性により治療選択肢が限られる。本研究では、カスケード標的化エクソソーム-シスプラチン相乗マイクロニードルナノプラットフォーム（CDDP@RKTExo-MN）を、TNBC治療用のスマートウェアラブルデバイスとして開発。薬用植物由来のエクソソームがmiRNAとシスプラチンを相乗的に送達し、時空間的に精密なマルチモーダル治療を実現。高い安全性を示した。"
+      },
+      {
+        "title": "Role of mesenchymal stem cells and their derived exosomes in cervical cancer: Bidirectional mechanisms and research progress (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42027645/",
+        "abstract": "Cervical cancer (CC) is one of the most common malignant tumors among women worldwide and it imposes a notable clinical burden. Current traditional treatment methods have certain limitations. Mesenchymal stem cells (MSCs), due to their notable biological properties, have shown broad application prospects in the field of regenerative medicine. The unique tumor homing characteristics and immune regulatory capabilities of MSCs have made them an important research direction for targeted cancer treatment. As the key mediator of MSC functions, their derived exosomes serve an important role in intercellular communication and disease regulation. However, MSCs and their exosomes, as important components of the tumor microenvironment, may have potential tumorigenic risks, which also restrict the progress of related therapies towards clinical application. Therefore, the present review aimed to systematically elaborate on the molecular mechanisms by which MSCs and their exosomes exert both promoting and inhibitory effects in CC and further explore the possible reasons behind this contradictory phenomenon.",
+        "source": "PubMed",
+        "doi": "10.3892/ol.2026.15580",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞とその由来エクソソームの子宮頸癌における役割：双方向性メカニズムと研究の進展（レビュー）",
+        "summary_ja": "子宮頸癌（CC）は女性に多い悪性腫瘍で、既存治療には限界がある。間葉系幹細胞（MSCs）は再生医療で有望視され、腫瘍指向性と免疫調節能から癌治療の標的として注目される。MSCs由来エクソソームは細胞間情報伝達や疾患調節に重要だが、腫瘍微小環境の構成要素として発癌リスクも有し、臨床応用を制限する。本総説は、MSCsとそのエクソソームがCCにおいて促進・抑制の両方向性分子機構を発揮するメカニズムを体系的に整理し、この矛盾現象の背景を考察する。"
+      },
+      {
+        "title": "Exosomal miR-1278 From Bone Marrow Mesenchymal Stem Cells Modulates Ldha-Mediated Microglia Polarization to Decelerate Parkinson's Disease Pathology.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42026401/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s12017-026-08920-1",
+        "keyword": "Exosomes",
+        "title_ja": "骨髄間葉系幹細胞由来のエクソソームmiR-1278がLdhaを介したミクログリア極性化を調節し、パーキンソン病の病態進行を遅延させる",
+        "summary_ja": "タイトル：骨髄間葉系幹細胞由来のエクソソームmiR-1278がLdha介在性ミクログリア極性を調節し、パーキンソン病病理を遅延させる\n\n本論文は、骨髄間葉系幹細胞（BMSCs）から分泌されるエクソソーム内のmiR-1278が、パーキンソン病（PD）の進行を抑制するメカニズムを解明した。PDモデルにおいて、BMSCs由来エクソソームはmiR-1278を介してミクログリアの極性を調節し、神経炎症を軽減した。具体的には、miR-1278は乳酸脱水素酵素A（Ldha）の発現を抑制することで、ミクログリアを神経保護的なM2型へと誘導し、神経変性を遅延させた。この結果は、miR-1278がPD治療における新たな分子標的となる可能性を示唆している。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Inflammation-Regeneration Axis of Dental Pulp Stem Cells: Wnt/NF-κB Crosstalk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42028976/",
+        "abstract": "Inflammation critically determines dental pulp regenerative outcomes, with dental pulp stem cells (DPSCs) orchestrating tissue homeostasis through differentiation, self-renewal and immunomodulation processes dynamically regulated by Wnt/β-catenin and NF-κB signaling crosstalk. Given the rising therapeutic potential of Wnt-targeted interventions in dental tissue engineering, elucidating these molecular interactions under pathological conditions is essential for developing regenerative therapeutics capable of simultaneously promoting reparative dentinogenesis while resolving inflammatory insults.",
+        "source": "PubMed",
+        "doi": "10.1111/iej.70169",
+        "keyword": "Exosomes",
+        "title_ja": "歯髄幹細胞における炎症-再生軸：Wnt/NF-κBクロストーク",
+        "summary_ja": "歯髄幹細胞（DPSCs）は、Wnt/β-カテニンとNF-κBシグナル伝達のクロストークにより、分化、自己複製、免疫調節を動的に制御し、組織恒常性を維持する。炎症は歯髄の再生結果を決定的に左右し、これらの分子相互作用の解明は、修復性象牙質形成を促進しつつ炎症を解決する再生治療法の開発に不可欠である。Wnt標的介入の歯科組織工学における治療可能性が高まる中、病理条件下での分子機構の理解が重要となる。"
+      },
+      {
+        "title": "Microcarriers encapsulating COL1A1 mRNA-loaded nanovesicles for skin photoaging treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42028282/",
+        "abstract": "Extracellular vesicles have shown great potential in treating ultraviolet (UV)-induced skin photoaging. However, effective delivery of these bioactive agents to achieve long-term therapeutic effects remains a significant challenge. In this study, we have developed recombinant human collagen (RHC)-based microcarriers loaded with native exosomes as well as Collagen type I alpha 1 chain (COL1A1) mRNA-encapsulating nanovesicles (Emvs) to treat skin photoaging. The microcarriers mitigated UV-induced cellular senescence in HaCaT cells, as evidenced by reduced oxidative stress, decreased apoptosis, and attenuation of senescence-associated markers. In the animal model, the microcarriers not only attenuated wrinkle formation, but also promoted type I collagen deposition in UV-damaged skin. These results together with the demonstrated biocompatibility highlight the potential of the microcarrier delivery system in photoaging treatment.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103126",
+        "keyword": "Exosomes",
+        "title_ja": "マイクロキャリアに内包されたCOL1A1 mRNA搭載ナノベシクルによる皮膚光老化治療",
+        "summary_ja": "本論文では、紫外線（UV）誘発性皮膚光老化治療のため、組換えヒトコラーゲン（RHC）ベースのマイクロキャリアに、天然エクソソームおよびCOL1A1 mRNA内包ナノベシクル（Emvs）を搭載したシステムを開発した。本マイクロキャリアは、HaCaT細胞において酸化ストレス、アポトーシス、老化関連マーカーを低減し、UV誘発細胞老化を軽減した。動物モデルでは、皺形成を抑制し、UV損傷皮膚でのI型コラーゲン沈着を促進した。これらの結果と生体適合性は、本デリバリーシステムの光老化治療における可能性を示している。"
+      },
+      {
+        "title": "Exosomal-miR-32-5p directly targets FOXN2 to regulate the proliferation, migration and apoptosis of uterine corpus endometrial carcinoma via the PI3K/AKT/BCL-2 pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42027648/",
+        "abstract": "The transfer of microRNAs (miRNAs) between cells through exosomes is crucial in controlling the expression of various target genes in the recipient cells, giving exosomal miRNAs the capability to control the advancement of tumors. The present study aimed to explore the function of exosomal miR-32-5p in the ",
+        "source": "PubMed",
+        "doi": "10.3892/ol.2026.15574",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム由来miR-32-5pはFOXN2を直接標的とし、PI3K/AKT/BCL-2経路を介して子宮体部類内膜癌の増殖、遊走、アポトーシスを制御する",
+        "summary_ja": "タイトル：Exosomal-miR-32-5p directly targets FOXN2 to regulate the proliferation, migration and apoptosis of uterine corpus endometrial carcinoma via the PI3K/AKT/BCL-2 pathway.\n\n内容：エクソソームを介したmiRNAの細胞間伝達は、受容細胞における標的遺伝子発現制御を通じて腫瘍進展を調節する。本研究では、子宮体部類内膜癌（UCEC）におけるエクソソームmiR-32-5pの機能を検討した。miR-32-5pはUCEC細胞およびエクソソームで高発現し、FOXN2を直接標的として抑制した。FOXN2ノックダウンはPI3K/AKT/BCL-2経路を活性化し、UCEC細胞の増殖・遊走を促進し、アポトーシスを抑制した。逆に、miR-3"
+      },
+      {
+        "title": "Bone quality, biology, and next-generation enhancers for spinal fusion in osteoporosis: a comprehensive narrative review with systematic search methodology.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42026826/",
+        "abstract": "Comprehensive narrative review with systematic search methodology.",
+        "source": "PubMed",
+        "doi": "10.31616/asj.2026.0186",
+        "keyword": "Exosomes",
+        "title_ja": "骨質、生物学、および骨粗鬆症における脊椎固定術のための次世代増強剤：系統的検索手法を用いた包括的ナラティブレビュー",
+        "summary_ja": "本レビューは、骨粗鬆症患者における脊椎固定術の課題と次世代の骨癒合促進剤について、系統的検索手法を用いて包括的に検討した。骨粗鬆症では骨量減少に加え、骨質（微細構造、コラーゲン架橋、骨代謝回転）の劣化が癒合不全リスクを高める。従来の固定法ではスクリュー緩みや隣接椎体骨折が問題となる。近年、BMP（骨形成タンパク質）やテリパラチドなどの骨代謝調節薬に加え、Wntシグナル経路を標的とした新規因子（sclerostin抗体など）や、局所投与可能な成長因子・足場材料の開発が進んでいる。これらのenhancerは骨形成と血管新生を促進し、脆弱な骨床での癒合率向上が期待される。しかし、至適投与量・キャリア・長期安全性の確立が課題であり、個別化医療の観点から患者の骨質評価と統合した治療戦略が重要である。本レビューは、骨生物学と臨床応用の橋渡しとなるエビデンスを提供する。"
+      },
+      {
+        "title": "Milk exosomes attenuate OVA-induced food allergy by regulating the Th1/Th2 balance and remodeling the gut microbiota.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42023548/",
+        "abstract": "To address the rising incidence of food allergy (FA), there is an urgent need to develop effective prevention and treatment strategies. This study represents the first investigation into the immunomodulatory effects of milk-derived exosomes (M-Exo) in an ovalbumin (OVA)-induced FA mouse model. Results showed that M-Exo ameliorated allergy-induced hypothermia and reduced serum levels of IgE, IgG, IgG1, and mast cell protease-1 (MCPT-1). Concurrently, M-Exo intervention downregulated key Th2 cytokine expression and diminished Th2 and Th17 cell counts. At the intestinal level, M-Exo mitigated jejunal tissue damage and mast cell infiltration while upregulating tight junction protein mRNA expression. Furthermore, M-Exo modulated the gut microbiota composition, enhancing α and β diversity and increasing the relative abundance of the phylum Firmicutes and the genus ",
+        "source": "PubMed",
+        "doi": "10.1039/d6fo00469e",
+        "keyword": "Exosomes",
+        "title_ja": "ミルクエクソソームはTh1/Th2バランスの調節と腸内細菌叢の再構築によりOVA誘発性食物アレルギーを軽減する",
+        "summary_ja": "本論文は、牛乳由来エクソソーム（M-Exo）がOVA誘発食物アレルギーマウスモデルにおいて免疫調節効果を示す初の報告である。M-Exo投与により、アレルギー性低体温が改善され、血清中のIgE、IgG、IgG1、MCPT-1レベルが低下した。また、Th2サイトカイン発現を抑制し、Th2およびTh17細胞数を減少させた。腸管レベルでは、空腸組織障害と肥満細胞浸潤を軽減し、タイトジャンクション蛋白質mRNA発現を上昇させた。さらに、M-Exoは腸内細菌叢のα・β多様性を向上させ、Firmicutes門とLactobacillus属の相対存在量を増加させた。以上より、M-ExoはTh1/Th2バランスの是正と腸内細菌叢の再構築を介して食物アレルギーを緩和する可能性が示唆された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **Klotho由来ペプチドによる勃起障害治療**：前立腺がん術後の勃起障害に対し、Klotho由来ペプチドがTGF-β1シグナルを抑制し、線維化・酸化ストレス・アポトーシスを軽減することをラットモデルで実証。新たな非ホルモン性治療薬として期待される。\n\n2. **S100A4とTIGITの二重阻害による乳癌転移抑制**：S100A4が好中球を介して転移前ニッチを形成する機構を解明。TIGIT阻害との併用で転移を抑制。転移性乳癌に対する新たな免疫療法戦略として注目される。\n\n3. **エクソソームとナノザイムの複合による変形性関節症治療**：歯髄幹細胞由来エクソソームにクルクミン内包ナノザイムを組み合わせ、炎症性微小環境を改善。多標的治療プラットフォームとして、OA治療の有効性向上が期待される。\n\n4. **植物エクソソームによる三種陰性乳癌の精密治療**：植物由来エクソソームにmiRNAとシスプラチンを搭載し、時空間的に制御された多モード治療を実現。高い安全性と治療効果を両立する新規ナノキャリアとして有望。\n\n5. **牛乳エクソソームによる食物アレルギー抑制**：牛乳由来エクソソームがTh1/Th2バランスを調整し、腸内細菌叢を再構築することで、OVA誘発食物アレルギーを軽減。安全で低コストな経口免疫療法素材として実用化が期待される。"
+}

@@ -1,0 +1,145 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Senescence of T cells and organ aging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42032757/",
+        "abstract": "Senescence of T cells is strongly linked to organismal aging through two interconnected processes: chronic low-grade inflammation and reduced immune surveillance of senescent cells. T cells are particularly vulnerable to thymic involution, hematopoietic stem cell aging, repeated homeostatic proliferation, chronic antigenic stimulation, and metabolic and mitochondrial dysfunction. As a result, aged T cells may lose their capacity to combat infection and eliminate senescent cells, while also contributing to inflammaging through the production of inflammatory cytokines. Recent preclinical studies in murine models have demonstrated that modulation of T-cell immunosenescence can ameliorate age-related diseases. These approaches include PD-1/PD-L1 blockade, senolytic chimeric antigen receptor T (CAR-T) cells, and CXCL4/platelet factor 4 (PF4). In addition, early-stage human clinical studies of caloric restriction, low-dose mTOR inhibition, thymic regeneration, and mesenchymal stromal/stem cell (MSC) therapy suggest that interventions targeting immunosenescence may provide health benefits. Moreover, in murine models of Alzheimer's disease, T cells infiltrating the brain may exert either disease-promoting or protective effects depending on the disease stage, highlighting an important point of intersection between T-cell-mediated immunosenescence and brain aging. This review summarizes the basic concepts of immunosenescence, the molecular basis of immune surveillance of senescent cells, age-associated T-cell subsets, their links to brain aging, and interventional strategies aimed at clinical translation, with particular emphasis on T-cell biology and the transcriptional regulatory network driven by NR4a.",
+        "source": "PubMed",
+        "doi": "10.1186/s41232-026-00419-3",
+        "keyword": "PF4",
+        "title_ja": "T細胞の老化と臓器老化",
+        "summary_ja": "T細胞の老化は、慢性低度炎症と老化細胞の免疫監視低下という2つの相互関連プロセスを通じて、個体の老化と強く結びついている。T細胞は胸腺退縮、造血幹細胞の老化、恒常性増殖の反復、慢性抗原刺激、代謝・ミトコンドリア機能障害に特に脆弱である。その結果、老化T細胞は感染防御や老化細胞除去能を失う一方、炎症性サイトカイン産生によりインフラメイジングに寄与する。マウスモデルを用いた前臨床研究では、PD-1/PD-L1阻害、セノリティックCAR-T細胞、CXCL4/PF4などによるT細胞免疫老化の調節が加齢関連疾患を改善することが示された。また、カロリー制限、低用量mTOR阻害、胸腺再生、MSC療法の初期臨床試験は、免疫老化への介入が健康利益をもたらす可能性を示唆する。さらにアルツハイマー病マウスモデルでは、脳浸潤T細胞が病期依存的に促進的または保護的効果を発揮し、T細胞介在性免疫老化と脳老化の接点が注"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Single-Cell Transcriptomics Dissects the Molecular Mechanism by Which Macrophage Polarization Drives Hepatocellular Carcinoma Metastasis Through Crosstalk with Emt-Tumor Microenvironment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42032376/",
+        "abstract": "Hepatocellular carcinoma (HCC) is a highly heterogeneous malignancy whose progression is tightly linked to the immunosuppressive tumor microenvironment (TME). Tumor-associated macrophages (TAMs), central regulatory components of the TME, foster HCC metastasis by mediating immune evasion and epithelial-mesenchymal transition (EMT). The underlying molecular mechanisms remain to be elucidated. Clarifying how TAM polarization intersects with EMT will provide a rational basis for targeted HCC therapies.",
+        "source": "PubMed",
+        "doi": "10.1007/s10620-026-09921-7",
+        "keyword": "NK cell therapy",
+        "title_ja": "一細胞トランスクリプトミクスが解明する、マクロファージの分極化がEMT-腫瘍微小環境とのクロストークを介して肝細胞癌転移を促進する分子メカニズム",
+        "summary_ja": "肝細胞癌（HCC）は高異質性の悪性腫瘍であり、その進行は免疫抑制性の腫瘍微小環境（TME）と密接に関連する。TMEの中心的調節因子である腫瘍関連マクロファージ（TAM）は、免疫逃避と上皮間葉転換（EMT）を媒介し、HCC転移を促進するが、その分子機構は未解明である。本研究では、単一細胞トランスクリプトミクスを用いて、TAMの分極化がEMT-TMEとのクロストークを介してHCC転移を駆動する分子メカニズムを解明した。TAM分極とEMTの相互作用を明確化することで、HCC標的治療の合理的基盤を提供する。"
+      },
+      {
+        "title": "Curability difference between autochthonous mouse tumors and their transplants in association with immune gene expression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42030330/",
+        "abstract": "Compared with transplanted tumors, autochthonous tumors are difficult to cure using experimental radiation therapy in mice. Here we analyzed differences in immune-related gene expression profiles between mouse fibrosarcomas subcutaneously induced by 3-methylcholanthrene (3MC) and their corresponding transplanted tumors. The immune genes examined were Pd1, Pdl1, Pdl2, Cd3d, Cd8a, Cd8b, Ifnγ, Itga2, Gzmb, and Foxp3. Among 12 tumors, one was non-transplantable and showed a benign phenotype with an abundance of DX5+ natural killer cells and CD8+ T cells together with increased IFNγ expression and mRNA levels of all immune genes except for Itga2. The other 11 transplantable tumors showed increased expression of Pd1, Pdl1, Pdl2, Cd3d, Cd8b, and Ifnγ following transplantation into syngeneic mice. These effects of transplantation highlight the relevance of immune gene expression status to the curability of tumors.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.pone.0338289",
+        "keyword": "NK cell therapy",
+        "title_ja": "自己由来マウス腫瘍とその移植腫瘍における免疫遺伝子発現と関連した治癒可能性の差異",
+        "summary_ja": "本論文では、マウスにおいて自家発生腫瘍（3-methylcholanthrene誘発線維肉腫）とその移植腫瘍間の免疫関連遺伝子発現プロファイルの差異を解析した。対象遺伝子はPd1、Pdl1、Pdl2、Cd3d、Cd8a、Cd8b、Ifnγ、Itga2、Gzmb、Foxp3。12腫瘍中1つは非移植性で良性表現型を示し、DX5+ナチュラルキラー細胞とCD8+ T細胞が豊富で、Itga2以外の全免疫遺伝子のmRNA発現が上昇していた。残り11の移植可能腫瘍では、同系マウスへの移植後にPd1、Pdl1、Pdl2、Cd3d、Cd8b、Ifnγの発現が増加した。これらの結果は、免疫遺伝子発現状態が腫瘍の治癒可能性に関連することを示唆する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "From Bench to Bedside: Stem and Progenitor Cell-Derived Extracellular Vesicles in Cardiac Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42033045/",
+        "abstract": "Initially regarded as insignificant cellular waste, extracellular vesicles (EVs) are now recognized as key mediators of intercellular communication, capable of transferring bioactive molecules-such as proteins, nucleic acids, and small compounds-between cells. This function has positioned EVs as promising cell-free therapeutic agents with the potential to transform modern medicine. Stem and progenitor cells naturally release EVs that can replicate many of the therapeutic effects of cell transplantation, while avoiding the challenges associated with administering living cells. EVs derived from various cell sources-including embryonic stem cells, induced pluripotent stem cells, mesenchymal stem cells, stromal cells, cardiac progenitor cells, and endothelial progenitor cells-have shown therapeutic efficacy in preclinical models of ischemic heart disease. EVs' translation into human trials in cardiac therapy has lagged behind, however, largely due to challenges related to EV production standardization, regulatory frameworks, and the demonstration of reproducible efficacy in human subjects. Nevertheless, recent milestones have been achieved with the successful completion of the phase I EV-AMI trial (Safety Evaluation of Intracoronary Infusion of EVs in Patients with Acute Myocardial Infarction, NCT04327635) and the enrollment of the first patient in the phase I SECRET-HF trial (Treatment of Non-ischemic Cardiomyopathies by Intravenous Extracellular Vesicles of Cardiovascular Progenitor Cells, NCT05774509). This concise review outlines the evolution of EVs from basic biological discovery to innovative therapeutic platforms, with particular emphasis on their potential applications in acute myocardial infarction. Remaining challenges for clinical translation, including manufacturing and regulatory hurdles, will also be discussed.",
+        "source": "PubMed",
+        "doi": "10.1093/stmcls/sxag022",
+        "keyword": "Exosomes",
+        "title_ja": "ベンチからベッドサイドへ：心臓治療における幹細胞および前駆細胞由来の細胞外小胞",
+        "summary_ja": "細胞外小胞（EVs）は、かつて細胞の老廃物と見なされていたが、現在では細胞間情報伝達の主要な媒介因子として認識され、タンパク質や核酸などの生体分子を輸送する。幹細胞や前駆細胞由来のEVsは、細胞移植の治療効果を模倣しつつ、生細胞投与に伴う課題を回避できるため、無細胞治療薬として有望視されている。胚性幹細胞、iPS細胞、間葉系幹細胞、心臓前駆細胞、内皮前駆細胞など多様な細胞源由来のEVsは、虚血性心疾患の前臨床モデルで治療効果を示している。しかし、臨床応用はEV製造の標準化、規制枠組み、再現性実証の課題により遅れている。最近、Phase I EV-AMI試験（急性心筋梗塞患者への冠動脈内EV注入の安全性評価）の完了と、Phase I SECRET-HF試験（非虚血性心筋症への心血管前駆細胞由来EV静脈投与）の最初の患者登録という進展があった。本総説は、EVsの基礎発見から革新的治療プラットフ"
+      },
+      {
+        "title": "Placental exosomal miR-372-3p drives preeclampsia progression by inducing mitochondrial damage in RVLM neurons.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42032459/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s11658-026-00929-5",
+        "keyword": "Exosomes",
+        "title_ja": "胎盤エクソソーム由来miR-372-3pはRVLMニューロンのミトコンドリア障害を誘導し、子癇前症の進行を促進する",
+        "summary_ja": "タイトル：胎盤エクソソーム由来miR-372-3pがRVLMニューロンのミトコンドリア障害を誘導し、子癇前症を進行させる\n\n要約：本論文は、子癇前症（PE）の進行における胎盤エクソソーム由来miR-372-3pの役割を解明した。PE患者の胎盤から分泌されるエクソソーム中にmiR-372-3pが高発現しており、これが延髄腹外側野（RVLM）のニューロンに取り込まれる。miR-372-3pはRVLMニューロンのミトコンドリア機能を障害し、酸化ストレスとアポトーシスを誘導することで、交感神経系の過剰活性化を引き起こす。このメカニズムが血圧上昇や臓器障害を促進し、PEの病態進行に寄与することを示した。胎盤-脳軸を介した新たなPE発症機序の一端を明らかにした。"
+      },
+      {
+        "title": "Distinct tumor genomic signatures underlie canine macrophage polarization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42030266/",
+        "abstract": "Tumor-associated macrophages (TAMs) drive cancer progression and metastasis. However, the mechanisms by which tumor cells shape TAM phenotypes in canine cancers remain poorly understood. We investigated correlations between cancer cell gene expression and macrophage polarization to identify potential biomarkers and therapeutic targets. Tumor-conditioned media from 25 canine cancer cell lines were applied to monocyte-derived macrophages from three canine donors for 24 hours. Following washout, supernatants were analyzed for immunomodulatory cytokines and chemokines. Each cell line's polarization capacity was ranked using modified z-scores, then correlated with RNA-sequencing data through Spearman's correlation and differential expression analysis. Cancer cell lines showed marked heterogeneity in macrophage polarization capacity, largely independent of histologic type. MVB12A, a gene involved in exosome biogenesis, strongly correlated with vascular endothelial growth factor (VEGF) stimulation, suggesting exosome-mediated polarization mechanisms. Exosome fractionation experiments confirmed that purified exosomes induced significantly more macrophage VEGF secretion than other conditions, and high-MVB12A cell lines showed greater VEGF enrichment in exosomes. C-C motif chemokine ligand 3 (CCL3) was strongly correlated with tumor necrosis factor-alpha (TNF-α) secretion exclusively in histiocytic sarcoma cells, and recombinant CCL3 induced dose-dependent TNF-α secretion from macrophages. High-polarizing cell lines exhibited upregulation of macrophage activation, epithelial-to-mesenchymal transition (EMT), and metabolic reprogramming genes, and downregulation of immune surveillance and cell adhesion genes. Gene set enrichment analysis confirmed pathways for immune suppression, EMT, and extracellular matrix remodeling. These findings identify exosome-associated VEGF stimulation as a previously uncharacterized mechanism in canine tumors and highlight CCL3 as a potential histiocytic sarcoma-specific driver of macrophage TNF-α secretion. Further validation in canine clinical cohorts will determine whether these pathways can serve as biomarkers or therapeutic targets in veterinary oncology.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.pone.0346239",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍ゲノムの特異的なシグネチャーがイヌのマクロファージ極性化を支える",
+        "summary_ja": "本研究は、犬の腫瘍関連マクロファージ（TAM）の分極化における腫瘍細胞の遺伝子発現の役割を調査した。25種類の犬がん細胞株から調整した培地を、3頭のドナー由来の単球由来マクロファージに24時間曝露し、免疫調節性サイトカイン・ケモカインを解析。細胞株の分極化能は修正zスコアで評価し、RNAシーケンシングデータとスピアマン相関・発現差解析で関連付けた。その結果、エクソソーム生合成に関わるMVB12A遺伝子が血管内皮増殖因子（VEGF）刺激と強く相関し、精製エクソソームがマクロファージのVEGF分泌を促進した。また、組織球性肉腫細胞ではCCL3が腫瘍壊死因子α（TNF-α）分泌と相関し、組換えCCL3が用量依存的にTNF-αを誘導した。高分極化能株ではマクロファージ活性化、上皮間葉転換（EMT）、代謝リプログラミング遺伝子が上昇し、免疫監視・細胞接着遺伝子が低下。以上より、エクソソームを介したV"
+      },
+      {
+        "title": "A Bioinspired Exosomal Nanoplatform for Coordinated Sorafenib and MicroRNA Delivery to Sensitize Ferroptosis and Induce Immunoactivation in Triple-Negative Breast Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42030227/",
+        "abstract": "Triple-negative breast cancer (TNBC) remains a therapeutic challenge due to its aggressive behavior and lack of targeted treatments. We developed Sor@AKAExo, a bioinspired exosomic nanoplatform that utilizes ",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.6c02310",
+        "keyword": "Exosomes",
+        "title_ja": "生体模倣エクソソームナノプラットフォームによるソラフェニブとマイクロRNAの協調送達：トリプルネガティブ乳癌におけるフェロトーシス増感と免疫活性化の誘導",
+        "summary_ja": "タイトル: トリプルネガティブ乳癌（TNBC）に対するSor@AKAExoナノプラットフォームの開発と評価\n\n内容: TNBCは攻撃的で標的治療が乏しいため治療が困難である。本研究では、生体模倣エクソソームナノプラットフォームSor@AKAExoを開発した。これは、ソラフェニブとマイクロRNAを同時送達し、フェロトーシスを増感させるとともに免疫活性化を誘導する。本プラットフォームは、TNBCの治療抵抗性を克服し、新たな治療戦略を提供する可能性を示す。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Single-Cell Sequencing Reveals That CCL2+ Adipose-Derived Stem Cells Promote Diabetic Wound Healing Through the CCL2-ACKR1 Signaling Axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42033160/",
+        "abstract": "Diabetic wounds, particularly diabetic foot ulcers, represent a significant clinical challenge owing to impaired vascularization, persistent inflammation, and dysfunctional extracellular matrix remodeling. Although adipose-derived stem cells offer therapeutic potential, their heterogeneity and functional impairment within the diabetic microenvironment limit their efficacy. Using single-cell RNA sequencing of human adipose and diabetic wound tissues, we identified a distinct CCL2-expressing ADSC subpopulation that is enriched in obese individuals and exhibits elevated stemness, unique metabolic profiles, and enrichment in pathways related to ECM organization and tissue development. This subpopulation functions as a key communication node, engaging with fibroblasts, macrophages, and endothelial cells through ligand-receptor interactions such as CCL2-ACKR1, TGFB1-TGFBR1, and IL34-CSF1R. Exosomes secreted by these CCL2-positive ADSCs were found to be enriched in CCL2, TGFB1, and IL34. In a diabetic mouse wound model, CCL2-ADSC-derived exosomes significantly accelerated wound closure compared with conventional exosomes, promoting angiogenesis, collagen deposition, and M2-macrophage polarization while reducing pro-inflammatory cytokines. In vitro, these exosomes reversed high-glucose-induced suppression of endothelial cell proliferation, migration, and tube formation. Mechanistically, CCL2 carried by the exosomes activates the PI3K/AKT/mTOR/HIF-1α signaling axis in endothelial cells via ACKR1, an effect abolished by CCL2 neutralization or ACKR1 knockdown. Together, these results demonstrate that the CCL2-positive ADSC subpopulation exerts multi-cellular and multi-target therapeutic actions, and that exosomes derived from this subpopulation offer a potent cell-free strategy to enhance diabetic wound healing by improving vascularization, modulating immune responses, and supporting ECM remodeling.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202601311R",
+        "keyword": "Exosomes",
+        "title_ja": "シングルセルシークエンシングにより、CCL2陽性脂肪由来幹細胞がCCL2-ACKR1シグナル軸を介して糖尿病性創傷治癒を促進することが明らかになった。",
+        "summary_ja": "糖尿病創傷、特に糖尿病性足潰瘍は、血管新生障害、持続的炎症、細胞外マトリックス（ECM）リモデリング不全により臨床的課題となっている。脂肪由来幹細胞（ADSC）は治療可能性を持つが、糖尿病環境下での不均一性と機能障害が効果を制限する。ヒト脂肪組織と糖尿病創傷組織のシングルセルRNAシークエンシングにより、肥満個体で豊富なCCL2発現ADSCサブ集団を同定した。この細胞は高い幹細胞性、特異的代謝プロファイル、ECM組織化や組織発生関連経路の濃縮を示し、CCL2-ACKR1、TGFB1-TGFBR1、IL34-CSF1Rなどのリガンド-受容体相互作用を介して線維芽細胞、マクロファージ、内皮細胞と連携する。CCL2陽性ADSC由来エクソソームはCCL2、TGFB1、IL34を豊富に含み、糖尿病マウス創傷モデルにおいて従来のエクソソームより創傷治癒を促進し、血管新生、コラーゲン沈着、M2マクロファ"
+      },
+      {
+        "title": "Delivery of HSP70 mRNA via exosomes ameliorates sleep deprivation-induced cognitive impairments in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42031702/",
+        "abstract": "Chronic sleep deprivation impairs cognition and triggers neuroinflammation, but effective molecular therapies are lacking. Heat shock protein 70 (HSP70) offers neuroprotection, though its delivery across the blood-brain barrier remains a challenge. This study investigates exosomes as a vehicle to enhance brain delivery of HSP70 for treating chronic sleep deprivation. We engineered HEK293T cells to stably express HSP70 mRNA and the brain-targeting RVG-Lamp2b fusion protein, generating HSP70@Exo",
+        "source": "PubMed",
+        "doi": "10.1038/s41398-026-04044-z",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを介したHSP70 mRNAの送達が、睡眠不足によって誘発されるマウスの認知障害を改善する。",
+        "summary_ja": "慢性睡眠不足は認知機能を低下させ神経炎症を誘発するが、有効な分子治療法は乏しい。熱ショックタンパク質70（HSP70）は神経保護作用を示すが、血液脳関門通過が課題である。本研究では、エクソソームを担体としてHSP70の脳内送達を強化し、慢性睡眠不足を治療する手法を検討した。HEK293T細胞にHSP70 mRNAと脳標的化RVG-Lamp2b融合タンパク質を安定発現させ、HSP70@Exoを作製した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **T細胞老化と個体老化**：T細胞の老化は胸腺退縮や代謝障害により進行し、慢性炎症と免疫監視低下を招く。老化細胞の除去不全が加齢性疾患を促進するため、T細胞機能を若返らせる免疫介入が抗老化治療の鍵となる。\n\n2. **マクロファージ分極と肝細胞癌転移**：腫瘍関連マクロファージ（TAM）は免疫逃避と上皮間葉転換（EMT）を介し転移を促進。シングルセル解析により分子機構が解明されつつあり、TAMを標的とした免疫療法の開発が期待される。\n\n3. **幹細胞由来細胞外小胞（EVs）による心臓治療**：幹細胞由来EVsは細胞移植の効果を模倣しつつ、腫瘍化リスクが低い。心筋修復や血管新生を促進するため、臨床応用に向けた製造・品質管理の標準化が進められている。\n\n4. **胎盤エクソソームmiR-372-3pと子癇前症**：胎盤由来エクソソームが神経細胞のミトコンドリア障害を誘導し、血圧調節異常を引き起こす。エクソソーム内miRNAの制御が新たな治療標的となる可能性がある。\n\n5. **エクソソーム搭載HSP70 mRNAと睡眠障害治療**：エクソソームを担体としてHSP70 mRNAを脳内送達することで、睡眠不足による認知機能低下と神経炎症を改善。血液脳関門通過が課題だった分子治療に新たな道を開く。"
+}

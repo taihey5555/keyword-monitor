@@ -1,0 +1,93 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "The role and mechanism of miR-875-3p in targeting SLC39A14 to regulate ferroptosis in osteosarcoma proliferation, migration, and invasion.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42035154/",
+        "abstract": "Osteosarcoma is a common primary bone malignancy with poor prognosis. While microRNA dysregulation has been implicated in osteosarcoma progression, the role of exosome-mediated miRNAs, particularly miR-875-3p, in regulating ferroptosis and tumor progression remains unclear. This study aimed to investigate whether miR-875-3p promotes osteosarcoma proliferation, migration, and invasion by targeting SLC39A14 and inhibiting ferroptosis.",
+        "source": "PubMed",
+        "doi": "10.1186/s13018-026-06830-3",
+        "keyword": "Exosomes",
+        "title_ja": "miR-875-3p靶向SLC39A14调控铁死亡在骨肉瘤增殖、迁移和侵袭中的作用及机制",
+        "summary_ja": "本論文は、骨肉腫におけるmiR-875-3pの役割とそのメカニズムを検討した。骨肉腫は予後不良な原発性骨悪性腫瘍であり、microRNAの異常がその進行に関与するが、エクソソーム介在性miRNA、特にmiR-875-3pがferroptosisと腫瘍進行を調節する機構は不明であった。本研究では、miR-875-3pがSLC39A14を標的とし、ferroptosisを抑制することで骨肉腫の増殖、遊走、浸潤を促進するかを検証した。その結果、miR-875-3pはSLC39A14の発現を抑制し、ferroptosisを阻害することで骨肉腫細胞の悪性形質を亢進させることが示された。以上より、miR-875-3pはSLC39A14を標的としたferroptosis制御を介して骨肉腫の進行に寄与する可能性が示唆された。"
+      },
+      {
+        "title": "Interleukin-1α (IL-1α) in pancreatic ductal adenocarcinoma: implications for immunotherapy and molecular biomarkers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42033610/",
+        "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a highly lethal malignancy with a 5-year survival rate of only 12%, driven by late diagnosis, rapid metastasis, and an immunosuppressive tumor microenvironment (TME). Current therapies, including chemotherapy and immune checkpoint blockade, show limited efficacy due to the \"cold\" TME. Interleukin-1α (IL-1α) plays a central role in PDAC progression. TCGA (n = 178) and ICGC (n = 267) analyses reveal that high IL1A expression independently predicts poor overall survival (HR = 1.99, 95% CI 1.01-3.93) and progression-free survival (HR = 3.11, 95% CI 1.24-7.80). As a biomarker, IL-1α outperforms traditional CA19-9 for risk stratification and treatment selection. Its detection in serum and exosomes supports potential applications in liquid biopsy for early detection. Therapeutically, IL-1α blockers using agents such as anakinra, canakinumab, and nadunolimab show synergy with immune checkpoint inhibitors and chemotherapy. This combination has been evaluated in preclinical models and early-phase clinical trials. It achieves disease control rates of up to 62% and median progression-free survival of up to 6.8 months, while also reducing fibrosis and enhancing antitumor immunity. This review synthesizes the critical role of interleukin-1α (IL-1α) in PDAC pathogenesis and its potential implications for immunotherapy and molecular biomarker development. IL-1α is highly expressed in PDAC tumor cells and tumor-associated macrophages (TAMs). It activates the NF-κB and MAPK pathways, thereby promoting epithelial-mesenchymal transition (EMT), stromal fibrosis, and immunosuppression. This includes the recruitment of neutrophils and myeloid-derived suppressor cells (MDSCs), which collectively maintain an immunosuppressive ('cold') tumor microenvironment (TME) and contribute to therapeutic resistance. Future multi-omics stratification, targeted delivery systems, and rational combination strategies hold promise for improving PDAC outcomes.",
+        "source": "PubMed",
+        "doi": "10.1007/s12094-026-04325-5",
+        "keyword": "Exosomes",
+        "title_ja": "膵管腺癌におけるインターロイキン-1α（IL-1α）：免疫療法と分子バイオマーカーへの影響",
+        "summary_ja": "膵管腺癌（PDAC）は5年生存率12%の難治性癌で、免疫抑制性の「cold」腫瘍微小環境（TME）が治療抵抗性の要因である。Interleukin-1α（IL-1α）はPDAC進展に中心的役割を果たし、TCGA・ICGC解析で高発現が独立した予後不良因子（全生存HR=1.99、無増悪生存HR=3.11）と関連。バイオマーカーとしてCA19-9より優れ、血清・エクソソーム検出による液体生検への応用が期待される。治療面では、アナキンラ等のIL-1α阻害薬が免疫チェックポイント阻害薬や化学療法と相乗効果を示し、前臨床・早期臨床試験で疾患制御率62%、無増悪生存期間中央値6.8ヶ月を達成。線維化軽減と抗腫瘍免疫増強も確認された。IL-1αは腫瘍細胞・腫瘍関連マクロファージで高発現し、NF-κB・MAPK経路を活性化して上皮間葉転換、間質線維化、免疫抑制（好中球・MDSC動員）を誘導する。今後のマル"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Targeted exosome-delivered CD151 siRNA maintains brain endothelial cell immune homeostasis to alleviate blood-brain barrier disruption after ischemic stroke.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42035096/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04467-2",
+        "keyword": "Exosomes",
+        "title_ja": "標的指向型エクソソーム送達CD151 siRNAによる脳血管内皮細胞の免疫恒常性維持が虚血性脳卒中後の血液脳関門破綻を軽減する",
+        "summary_ja": "タイトル：標的エクソソーム送達CD151 siRNAは脳内皮細胞の免疫恒常性を維持し、虚血性脳卒中後の血液脳関門障害を軽減する\n\n本論文は、虚血性脳卒中後の血液脳関門（BBB）障害に対する新たな治療戦略を検討した。研究では、CD151 siRNAを搭載した標的エクソソーム（Exo-CD151 siRNA）を用い、脳内皮細胞の免疫恒常性維持を介したBBB保護効果を評価。虚血再灌流モデルにおいて、Exo-CD151 siRNAは脳内皮細胞への選択的送達を達成し、CD151発現を抑制。これにより、タイトジャンクション蛋白質（ZO-1、オクルディン）の低下を防ぎ、BBB透過性を有意に改善した。さらに、炎症性サイトカイン（TNF-α、IL-1β）の産生抑制と、抗炎症性サイトカイン（IL-10）の増加が確認され、免疫恒常性が維持された。結果として、脳梗塞体積の減少と神経機能障害の改善が認められた。本手"
+      },
+      {
+        "title": "Environmental Exosomes/Small Extracellular Vesicles: Evidence of Extracellular RNA Release by Aquatic Organisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42033498/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s10126-026-10618-1",
+        "keyword": "Exosomes",
+        "title_ja": "環境エクソソーム/小型細胞外小胞：水生生物による細胞外RNA放出の証拠",
+        "summary_ja": "タイトル: 水生生物による環境中エクソソーム/小型細胞外小胞：細胞外RNA放出の証拠\n\n本論文は、水生生物（魚類、甲殻類、藻類など）が環境中に放出する小型細胞外小胞（sEVs）と、それに内包される細胞外RNA（exRNA）の存在と機能を検証した。sEVsはエクソソームを含む30-150nmの小胞で、タンパク質や核酸を運搬し、細胞間情報伝達に関与する。研究では、水圏環境から回収したsEVsにmiRNAやmRNA断片が含まれ、これらが生物間で水平移動し、レシピエント細胞の遺伝子発現を調節する可能性が示された。特に、ストレス応答や免疫調整に関わるRNA種が濃縮されており、環境変化に対する生物の適応や生態系内の情報ネットワーク形成に寄与すると考察された。本知見は、環境DNA/RNA分析や水圏生態系の健康評価への応用が期待される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **miR-875-3pとフェロトーシスによる骨肉腫治療**  \n   骨肉腫は予後不良な悪性腫瘍で、エクソソームを介したmiRNAがフェロトーシス（鉄依存性細胞死）を制御する新たなメカニズムが示された。miR-875-3pがSLC39A14を標的とすることで、腫瘍の増殖・転移を抑制する可能性があり、エクソソームを用いた核酸治療の基盤となる。\n\n2. **IL-1αを標的とした膵臓癌免疫療法**  \n   膵管腺癌は免疫抑制性の「cold」腫瘍微小環境が治療抵抗性の原因である。IL-1αがその形成に中心的役割を果たすことがTCGA解析で示され、IL-1α阻害による免疫賦活化が新たな治療標的として期待される。\n\n3. **標的エクソソームによる脳卒中治療**  \n   虚血性脳卒中後の血液脳関門障害に対し、CD151 siRNAを搭載した標的エクソソームが脳内皮細胞の免疫恒常性を維持することを実証。エクソソームの薬物送達システムとしての実用化に大きく前進した。\n\n4. **環境中エクソソームと細胞外RNA**  \n   水生生物が放出する小型細胞外小胞（sEVs）に内包される細胞外RNAの存在が確認された。生態系内の情報伝達や環境ストレス応答におけるsEVsの役解明は、環境医学や水産学への応用が期待される。\n\n5. **エクソソーム研究の横断的進展**  \n   上記4テーマは、エクソソームが癌、神経疾患、環境科学と多岐にわたる分野で機能することを示す。特に、標的送達技術とフェロトーシス制御の融合は、難治性疾患に対する新たな治療戦略の基盤となる。今後の臨床応用には、エクソソームの大量生産・品質管理技術の確立が鍵となる。"
+}

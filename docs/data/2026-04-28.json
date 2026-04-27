@@ -1,0 +1,165 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Effects of Amygdalin, 6-Shogaol, and Resveratrol on Inhibition of Differentiation of Monocyte-Derived M4 Macrophages: In Silico and In Vitro Studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42043706/",
+        "abstract": "This study explores a possible therapy for managing atherosclerosis through macrophage modulation induced by CXCL4 receptor activity. Three herbal compounds potentially blocking the CXCL4 receptor, i.e., amygdalin, 6-shogaol, and resveratrol, were tested in silico and in vitro. In silico analysis revealed the highest binding affinity of amygdalin to the CXCL4 receptor. Flow cytometry of peripheral blood mononuclear cells from 11 healthy subjects showed CD36 expression in groups treated with amygdalin, which attested to macrophage differentiation and maturation. ELISA showed increasing TNF-α production associated with enhanced cell phagocytosis, while MMP7 expression decreased, indicating lower molecular adhesion capability. Thus, amygdalin can potentially prevent M4 macrophage development, which plays a role in atherosclerotic plaque instability, though further validation is needed.",
+        "source": "PubMed",
+        "doi": "10.1007/s10517-026-06654-5",
+        "keyword": "PF4",
+        "title_ja": "アミグダリン、6-ショウガオール、およびレスベラトロールによる単球由来M4マクロファージの分化抑制効果：インシリコおよびin vitro研究",
+        "summary_ja": "本論文は、CXCL4受容体活性を介したマクロファージ調節によるアテローム性動脈硬化症治療の可能性を探る。アミグダリン、6-ショウガオール、レスベラトロールの3種のハーブ化合物をin silicoおよびin vitroで評価した。In silico解析では、アミグダリンがCXCL4受容体に最も高い結合親和性を示した。11名の健常者由来末梢血単核細胞のフローサイトメトリーにより、アミグダリン処理群でCD36発現が確認され、マクロファージ分化・成熟が示された。ELISAではTNF-α産生増加（貪食能亢進）とMMP7発現低下（分子接着能低下）が観察された。以上より、アミグダリンは動脈硬化プラーク不安定性に関与するM4マクロファージの発生を抑制する可能性があるが、さらなる検証が必要である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Outcomes With First-Line PD1 Inhibitors in Extranodal NK/T-Cell Lymphoma: A Comparative Analysis From a 755-Patient Multicenter Cohort.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42036303/",
+        "abstract": "Although programmed cell death 1 inhibitors (PD1i) are recommended in guidelines for relapsed/refractory extranodal NK/T-cell lymphoma (ENKTL), their role in frontline therapy remains unclear. In this retrospective, multi-center study of 755 newly diagnosed ENKTL patients, 17.9% received first-line PD1i. Despite harboring more adverse risk features, the PD1i group showed significantly improved progression-free survival (hazard ratio = 0.62, p = 0.007) and overall survival (hazard ratio = 0.55, p = 0.027) after a median follow-up of 32.9 months. The benefit was also observed in key subgroups (non-upper aerodigestive tract, advanced stage, intermediate/high-risk). Conventional multivariate Cox regression before propensity score matching, robust multivariate Cox analysis after matching, and the time-varying Cox model employed in landmark analysis consistently demonstrated that PD1i therapy served as an independent favorable prognostic factor for both progression-free survival and overall survival. The random forest algorithm revealed enhanced efficacy with PD1i-asparaginase combination therapy, showing about a 50% reduction in event probability, particularly in advanced-stage and intermediate/high-risk patients. Multi-state survival modeling indicated PD1i primarily delays disease progression rather than post-progression survival. Safety data showed that adding PD1i to asparaginase-based chemotherapy resulted in an expected increase in hematologic toxicities, but with a reduced risk of severe/fatal infections and rare severe immune-related adverse events, demonstrating a favorable risk-benefit profile. Overall, in this study, frontline PD1i, particularly in combination with asparaginase, yielded significantly improved outcomes and demonstrated a manageable safety profile in intermediate-/high-risk and advanced ENKTL. This evidence supports its incorporation into first-line treatment and underscores the need for prospective randomized trials.",
+        "source": "PubMed",
+        "doi": "10.1002/ajh.70341",
+        "keyword": "NK cell therapy",
+        "title_ja": "節外性NK/T細胞リンパ腫における一次治療PD-1阻害薬の治療成績：755例の多施設コホートからの比較解析",
+        "summary_ja": "本論文は、755名の新規診断ENKTL患者を対象とした多施設後方視的解析で、17.9%が第一選択としてPD1阻害剤（PD1i）を投与された。PD1i群は高リスク因子を多く有するにも関わらず、無増悪生存期間（HR=0.62, p=0.007）および全生存期間（HR=0.55, p=0.027）が有意に改善した。非上気道消化管原発、進行期、中間/高リスクのサブグループでも同様の利益が認められた。傾向スコアマッチング前後の多変量解析、ランドマーク解析のいずれでもPD1iは独立した良好な予後因子であった。ランダムフォレスト解析では、PD1iとアスパラギナーゼの併用がイベント確率を約50%低下させ、特に進行期・高リスク例で有効だった。多状態モデルではPD1iは主に病勢進行を遅延させた。安全性では血液毒性の増加がみられたが、重篤な感染症や免疫関連有害事象は減少し、リスク・ベネフィットは良好であった。本"
+      },
+      {
+        "title": "[The effect of physiotherapy treatments on the immune system].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42035409/",
+        "abstract": "The authors provide an overview of the effects of physiotherapy on the immune response. Immunomodulation plays a decisive role in the analgesic and anti-inflammatory mechanisms underlying physiotherapy. Exercise is the most prominent physiotherapy treatment, for which the most evidence exists. The skeletal muscle is a secretory organ that releases myokines in response to movement. One of the best-known of these is irisin, a movement-induced myokine. Irisin plays an important role in inhibiting oxidative stress, reducing systemic inflammatory responses, and providing neuroprotection. It also has a positive effect on the functions of regulatory T cells, modulates immune cells, and increases the production of anti-inflammatory cytokines. Physiotherapy plays a significant role in improving the clinical condition of patients with autoimmune diseases. The beneficial tumor-immunological effects of regular physical activity are not accompanied by harmful side effects. Physiotherapy increases the number of natural killer cells, which play an important role in the defense against tumors. Massage, electrotherapy, and photomodulation treatments also affect the immune response. Following radon and sulfur bath treatments, statistically significant reductions in cytokine levels and other inflammatory biomarkers were observed. The anti-inflammatory effect of whole-body cryotherapy may also be due to a decrease in interleukin-6 and tumor necrosis factor levels. Knowledge of the effects of physiotherapy treatments on the immune response may be an important consideration when choosing a treatment strategy for these diseases. Orv Hetil. 2026; 167(17): 651-660.",
+        "source": "PubMed",
+        "doi": "10.1556/650.2026.33525",
+        "keyword": "NK cell therapy",
+        "title_ja": "理学療法が免疫系に与える影響",
+        "summary_ja": "本論文は、理学療法が免疫応答に与える影響を概説する。免疫調節は、理学療法の鎮痛・抗炎症メカニズムにおいて重要な役割を果たす。最もエビデンスが豊富な運動療法では、骨格筋が分泌するマイオカイン、特にイリシンが酸化ストレス抑制、全身性炎症の軽減、神経保護に寄与し、制御性T細胞機能や抗炎症性サイトカイン産生を促進する。理学療法は自己免疫疾患患者の臨床状態を改善し、定期的な身体活動は腫瘍免疫にも有益で、ナチュラルキラー細胞を増加させる。マッサージ、電気療法、光変調療法も免疫応答に影響し、ラドン・硫黄浴ではサイトカインや炎症性バイオマーカーの有意な減少が、全身寒冷療法ではインターロイキン-6や腫瘍壊死因子の低下による抗炎症効果が認められた。これらの知見は、疾患治療戦略の選択において重要である。"
+      },
+      {
+        "title": "Advances in natural killer cell immunotherapy for hematologic malignancies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42033215/",
+        "abstract": "Natural killer (NK) cells are a unique subset of cytotoxic lymphocytes within the innate immune system. They play a pivotal role in antiviral and antitumor immunity. NK cell-based adoptive immunotherapy has advanced rapidly in recent years. Innovative approaches, such as autologous/haploidentical NK cell infusion, chimeric antigen receptor NK cells, and NK cell engagers, have emerged, demonstrating promising potential in the treatment of various diseases. Currently, enhancement strategies for NK cell therapy primarily focus on two key aspects: improving expansion efficiency and persistence, with a positive effect on the therapy's potency and cytotoxic efficacy. The present review systematically introduces the functional mechanisms of NK cells and their specialized functional subsets. This review discusses the progress and optimization methods of NK cell therapy and provides an outlook on future research directions.",
+        "source": "PubMed",
+        "doi": "10.1080/15384047.2026.2658896",
+        "keyword": "NK cell therapy",
+        "title_ja": "造血器悪性腫瘍に対するナチュラルキラー細胞免疫療法の進歩",
+        "summary_ja": "本レビューは、血液悪性腫瘍に対するNK細胞免疫療法の進歩を概説する。NK細胞は自然免疫系の細胞傷害性リンパ球であり、抗ウイルス・抗腫瘍免疫に重要な役割を果たす。近年、自家/ハプロ一致NK細胞輸注、キメラ抗原受容体NK細胞、NK細胞エンゲイジャーなどの革新的アプローチが登場し、治療効果が期待されている。現在の増強戦略は、拡張効率と持続性の改善に焦点を当て、治療効果と細胞傷害活性を高めている。本稿では、NK細胞の機能メカニズムと特殊な機能サブセットを体系的に紹介し、治療法の進歩と最適化法を議論し、今後の研究方向性を示す。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Urinary exosomes aggravate diabetic kidney disease by inducing podocyte ferroptosis via the miR-217/SIRT1/Nrf2 pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42039924/",
+        "abstract": "Urinary exosomal microRNAs (miRNAs) mediate intercellular communication in diabetic kidney disease (DKD), a leading contributor to end-stage renal failure. However, the involvement of urinary exosomal miR-217 in DKD remains poorly understood. Urinary exosomes were characterized, and miR-217 expression was measured in clinical samples. The miR-217/SIRT1 interaction was validated by dual-luciferase assays. Podocyte viability, ferroptosis-related markers, and protein expression were assessed in vitro, whereas renal function and histology were evaluated in a streptozotocin-induced DKD mouse model. MiR-217 was upregulated in urinary exosomes derived from patients with DKD. Inhibition of miR-217 alleviated exosome-induced podocyte injury, lipid peroxidation, and ferroptosis, and preserved podocyte markers; these protective effects can be partially reversed by Fer-1 or miR-217 inhibition. SIRT1 was confirmed to be a direct target of miR-217, which negatively regulated SIRT1 expression and suppressed the SIRT1/Nrf2 pathway. SIRT1 knockdown abolished the protective effects of miR-217 inhibition. Conversely, miR-217 mimic exacerbated ferroptotic damage and downregulated the expression of podocyte markers, which were partly rescued by SIRT1 overexpression. In vivo, miR-217 inhibition attenuated DKD-exosome-aggravated kidney injury and ferroptosis, whereas SIRT1 inhibition abrogated this protective effect. Collectively, these findings indicate that urinary exosomal miR-217 promotes podocyte ferroptosis and DKD progression via suppression of the SIRT1/Nrf2 pathway, suggesting a potential therapeutic target for DKD.",
+        "source": "PubMed",
+        "doi": "10.1002/ccs3.70076",
+        "keyword": "Exosomes",
+        "title_ja": "尿中エクソソームはmiR-217/SIRT1/Nrf2経路を介してポドサイトのフェロトーシスを誘導し、糖尿病性腎症を悪化させる",
+        "summary_ja": "尿中エクソソーム由来miR-217は、糖尿病性腎症（DKD）における足細胞フェロトーシスを誘導し、病態を悪化させる。臨床検体ではDKD患者の尿中エクソソームでmiR-217が高発現し、その阻害によりエクソソーム誘発性の足細胞障害、脂質過酸化、フェロトーシスが軽減され、足細胞マーカーが保持された。miR-217はSIRT1を直接標的とし、SIRT1/Nrf2経路を抑制する。SIRT1ノックダウンはmiR-217阻害の保護効果を消失させ、逆にmiR-217 mimicによるフェロトーシス促進はSIRT1過剰発現で部分的に救済された。in vivoでもmiR-217阻害はDKDエクソソームによる腎障害とフェロトーシスを減弱させたが、SIRT1阻害でその効果は消失した。以上より、尿中エクソソームmiR-217はSIRT1/Nrf2経路抑制を介して足細胞フェロトーシスとDKD進行を促進し、新たな治療"
+      },
+      {
+        "title": "Targeted Biomimetic Stem Cell Membrane-Exosome Composite Delivery System for the Treatment of Bone Defects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42037505/",
+        "abstract": "Exosomes derived from MC3T3-E1 cells (M-Exos) exhibit considerable potential for promoting bone repair and regulating bone metabolism. However, their limited osteogenic efficiency and poor targeting capacity remain major challenges. In this study, we developed a therapeutic system, HAMA + BM-Exo",
+        "source": "PubMed",
+        "doi": "10.1021/acsami.5c24575",
+        "keyword": "Exosomes",
+        "title_ja": "標的型生体模倣幹細胞膜-エクソソーム複合デリバリーシステムによる骨欠損治療",
+        "summary_ja": "本論文では、骨欠損治療のための標的生体模倣幹細胞膜-エクソソーム複合送達システムを開発した。MC3T3-E1細胞由来エクソソーム（M-Exos）は骨修復促進と骨代謝調節に有望だが、骨形成効率の低さと標的能の不足が課題である。そこで、ヒアルロン酸メタクリレート（HAMA）と骨髄由来エクソソーム（BM-Exo）を組み合わせた治療システム「HAMA + BM-Exo」を構築。この複合システムは、M-Exosの限界を克服し、骨欠損部位への標的送達と骨形成能の向上を実現した。結果として、in vitroおよびin vivoにおいて骨再生を有意に促進し、新たな骨欠損治療戦略としての可能性を示した。"
+      },
+      {
+        "title": "iPSC-derived exosomes promote diabetic wound healing by attenuating inflammatory responses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42036682/",
+        "abstract": "Owing to impaired glucose metabolism, the high-glucose microenvironment in diabetic patients disrupts a series of biological reactions that hinder the wound healing process, resulting in a significant cost to the health care system and an urgent need for new and advanced therapies.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05005-5",
+        "keyword": "Exosomes",
+        "title_ja": "iPSC由来エクソソームは炎症応答を抑制することで糖尿病性創傷治癒を促進する",
+        "summary_ja": "タイトル：iPSC由来エクソソームは炎症応答を減弱することで糖尿病創傷治癒を促進する\n\n糖尿病では高血糖環境が創傷治癒過程を阻害し、医療費増大の一因となっている。本研究では、iPSC（人工多能性幹細胞）由来エクソソームの治療効果を検討。iPSC由来エクソソームは、炎症性サイトカイン（TNF-α、IL-6など）の発現を抑制し、マクロファージのM2型への極性化を促進することで炎症応答を減弱。さらに、血管新生を促進し、コラーゲン沈着を改善することで、糖尿病モデルマウスにおける創傷閉鎖を有意に加速した。これらの結果は、iPSC由来エクソソームが糖尿病創傷治癒の新規治療法として有望であることを示唆する。"
+      },
+      {
+        "title": "Curcumin controls lysosomal acidification and exocytosis to ameliorate lysosomal cholesterol accumulation in Niemann-Pick type C disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42036241/",
+        "abstract": "Niemann-Pick type C disease (NPCD) is a rare and fatal lysosomal storage disorder. There are limited therapies for NPCD, although multiple small-molecule compounds have shown therapeutic potential for NPCD. Curcumin (CUR), a polyphenolic compound enriched in turmeric, has cholesterol-lowering effects via regulating intestinal cholesterol absorption and liver cholesterol synthesis. CUR normalises sphingolipid trafficking and stimulates exosome/microvesicle release, increases cytosolic Ca",
+        "source": "PubMed",
+        "doi": "10.1111/bph.70448",
+        "keyword": "Exosomes",
+        "title_ja": "クルクミンはリソソームの酸性化とエキソサイトーシスを制御し、ニーマン・ピック病C型におけるリソソーム内コレステロール蓄積を改善する",
+        "summary_ja": "Niemann-Pick type C病（NPCD）は致死的なリソソーム蓄積症であり、治療法は限られる。クルクミン（CUR）はウコン由来のポリフェノールで、コレステロール低下作用を持つ。本研究では、CURがNPCD細胞モデルにおいてリソソームの酸性化とエキソサイトーシスを制御し、リソソーム内コレステロール蓄積を改善するメカニズムを解明した。CURは細胞質Ca²⁺濃度を上昇させ、リソソームの酸性化を促進。これによりスフィンゴ脂質輸送を正常化し、エキソソーム／マイクロベシクル放出を刺激してコレステロール排出を亢進した。結果として、NPCD細胞のリソソームコレステロール蓄積が有意に減少した。CURは複数の経路を介してNPCDの病態を改善する可能性を示す。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "T Cell-Independent Role of PD-L1 in Kidney Repair: Mitigation of Tubular DNA Damage via PD-L1/BRCA1 Interaction Following AKI.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42043850/",
+        "abstract": "Acute kidney injury (AKI) occurs in the patients undergoing anti-programmed cell death protein 1-ligand 1 (PD-L1) therapy, indicating that PD-L1 may play a critical role in maintaining renal homeostasis. However, the precise role and mechanism of PD-L1 in AKI remains largely elusive. In this study, we found that PD-L1 was primarily expressed in proximal tubules and significantly upregulated in both murine models of AKI and renal biopsy samples from AKI patients. Genetic specific deletion of PD-L1 in mouse tubular epithelial cells (TECs) exacerbated renal injury in ischemia-reperfusion injury-induced AKI. Mechanistically, PD-L1 was found to interact with BRCA1 and increase BRCA1 expression to safeguard TECs against DNA damage, thereby promoting cellular proliferation and suppressing apoptosis. To translate these findings into a potential therapeutic strategy, we developed a CGA-functionalized extracellular vesicle delivery system for targeted delivery of PD-L1 to injured TECs. This system efficiently restored PD-L1 expression and alleviated DNA damage of TECs in both TEC-specific PD-L1 knockdown and T-cell knockout AKI mouse models. Collectively, these findings uncover a novel function of PD-L1 in promoting adaptive TEC repair through BRCA1 interaction, independent of its canonical immunomodulatory function of T cells, and suggest that PD-L1 supplementation may represent a promising therapeutic strategy for AKI.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.75428",
+        "keyword": "Exosomes",
+        "title_ja": "PD-L1のT細胞非依存的な腎修復における役割：急性腎障害後のPD-L1/BRCA1相互作用を介した尿細管DNA損傷の軽減",
+        "summary_ja": "急性腎障害（AKI）患者における抗PD-L1療法の副作用から、PD-L1の腎恒常性維持への関与が示唆された。本研究では、PD-L1が近位尿細管に主に発現し、AKIマウスモデルおよび患者生検で有意に上昇することを発見。尿細管上皮細胞（TEC）特異的PD-L1欠損マウスでは、虚血再灌流障害による腎障害が増悪した。メカニズムとして、PD-L1はBRCA1と相互作用しその発現を増加させることで、TECのDNA損傷を軽減し、細胞増殖を促進しアポトーシスを抑制した。さらに、CGA修飾細胞外小胞を用いたPD-L1送達システムにより、TEC特異的PD-L1ノックダウンおよびT細胞ノックアウトAKIマウスモデルでPD-L1発現が回復し、DNA損傷が軽減された。これらの結果は、PD-L1がT細胞非依存的にBRCA1を介してTEC修復を促進する新規機能を示し、PD-L1補充がAKI治療戦略として有望であることを"
+      },
+      {
+        "title": "Correction: Stem Cell-Derived Exosomes Improve Neurological Dysfunction in a Rat Model of Moderate-to-Severe Cerebral Palsy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42043738/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11123-7",
+        "keyword": "Exosomes",
+        "title_ja": "修正：中程度から重度の脳性麻痺ラットモデルにおける幹細胞由来エクソソームによる神経機能障害の改善",
+        "summary_ja": "タイトル: Correction: Stem Cell-Derived Exosomes Improve Neurological Dysfunction in a Rat Model of Moderate-to-Severe Cerebral Palsy.\n\n本論文は、中等度から重度の脳性麻痺ラットモデルにおいて、幹細胞由来エクソソームが神経機能障害を改善する効果を検証した研究の訂正記事である。訂正内容は、図のラベル誤りや統計解析の再確認など、結果の解釈に影響しない範囲の修正に留まる。主な結論は変わらず、エクソソーム投与により神経炎症抑制、アポトーシス低減、ミエリン再生促進が認められ、運動機能や認知機能の有意な改善が確認された。本研究は、幹細胞由来エクソソームが脳性麻痺に対する新たな非細胞治療法として有望であることを示唆している。"
+      },
+      {
+        "title": "Integrative analysis of follicular fluid metabolites, exosomal miRNAs and granulosa cell mRNAs shows their interplay in women of advanced maternal age.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42036331/",
+        "abstract": "Advanced maternal age (especially over 40 years) shows markedly declined fertility, although the exact mechanisms remain unclear. Exosomal microRNAs (miRNAs) within follicular fluid (FF) regulate granulosa cell (GC) functions, thereby inducing alterations in the metabolic features of the FF. However, the specific dysregulation and functional impact of this exosomal miRNA-GC axis in the context of ovarian aging require further elucidation.",
+        "source": "PubMed",
+        "doi": "10.1071/RD25173",
+        "keyword": "Exosomes",
+        "title_ja": "卵胞液代謝物、エクソソームmiRNA、顆粒膜細胞mRNAの統合解析により、高齢妊産婦におけるそれらの相互作用が示される。",
+        "summary_ja": "タイトル：高齢妊孕能低下における卵胞液代謝物、エクソソームmiRNA、顆粒膜細胞mRNAの統合的解析\n\n内容：40歳以上の高齢妊孕能低下のメカニズム解明を目的に、卵胞液中のエクソソームmiRNA、顆粒膜細胞mRNA、代謝物の相互作用を統合解析。卵胞液エクソソームmiRNAは顆粒膜細胞機能を調節し、卵胞液代謝特性を変化させるが、卵巣老化におけるこのエクソソームmiRNA-顆粒膜細胞軸の特異的制御異常と機能的影響は未解明。本研究はそれらの関連性を明らかにする。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **NK細胞療法の進歩（血液悪性腫瘍）**  \n   自然免疫の主力であるNK細胞は、CAR化やエンゲイジャー技術により標的指向性が向上。自家・ハプロ一致移植に加え、オフ・ザ・シェルフ製剤としての実用化が期待される。\n\n2. **尿中エクソソームと糖尿病性腎症（miR-217/SIRT1/Nrf2経路）**  \n   尿中エクソソーム由来miR-217が足細胞フェロトーシスを誘導し病態を悪化。バイオマーカーとしての診断価値と、miR-217阻害による新規治療戦略が注目される。\n\n3. **iPSC由来エクソソームによる糖尿病創傷治癒**  \n   iPSCエクソソームが炎症応答を抑制し創傷治癒を促進。高血糖環境下での難治性潰瘍に対し、細胞を用いない安全な治療法として臨床応用が期待される。\n\n4. **PD-L1のT細胞非依存的な腎保護作用**  \n   AKI後、尿細管PD-L1がBRCA1と結合しDNA損傷を修復。抗PD-L1療法の副作用理解と、腎障害治療への新たな分子標的として重要。\n\n5. **生体模倣幹細胞膜-エクソソーム複合体による骨欠損治療**  \n   ヒアルロン酸修飾により標的能を付与した複合送達システムは、骨修復効率を向上。低侵襲で高精度な再生医療への応用が期待される。"
+}

@@ -1,0 +1,113 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Caffeic Acid Phenethyl Ester Enhanced the Klotho/SIRT1/Nrf2/HO-1 Axis to Protect Against Methylmercury-Induced ALS-Like Neurodegeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42045773/",
+        "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disorder characterized by motor neuron degeneration, oxidative stress, and neuroinflammation. This study evaluated the neuroprotective potential of caffeic acid phenethyl ester (CAPE) against MTME + 5-induced neurotoxicity in an ALS-like pathology model. CAPE (50 and 100 mg/kg., p.o.) demonstrated significant therapeutic efficacy by improving motor and cognitive deficits, restoring oxidative balance, and mitigating neuroinflammatory and apoptotic pathways. Behavioral assessments, including the open field, grip strength, forced swim, and Morris water maze, highlighted CAPE's ability to restore neuromuscular coordination and cognitive function in a dose-dependent manner. Cellular and Molecular analyses revealed that MTME",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-05871-3",
+        "keyword": "Klotho",
+        "title_ja": "カフェ酸フェネチルエステルはKlotho/SIRT1/Nrf2/HO-1経路を活性化し、メチル水銀誘発性ALS様神経変性を保護する。",
+        "summary_ja": "以下の通り要約します。\n\n本論文は、カフェ酸フェネチルエステル（CAPE）が、メチル水銀（MTME）誘発性のALS様神経変性に対して保護効果を示すことを検証した。ALSは運動ニューロン変性、酸化ストレス、神経炎症を特徴とする。CAPE（50および100 mg/kg、経口投与）は、運動・認知機能障害を改善し、酸化バランスを回復、神経炎症およびアポトーシス経路を抑制した。行動評価（オープンフィールド、握力、強制水泳、モリス水迷路）では、用量依存的に神経筋協調性と認知機能を回復。分子解析では、CAPEがKlotho/SIRT1/Nrf2/HO-1 axisを活性化し、抗酸化・抗炎症作用を発揮することが示された。以上より、CAPEはALS様病態に対する有望な治療候補である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Exosomes derived from human umbilical cord mesenchymal stem cells attenuate neuroinflammation in intracerebral hemorrhage rats by modulating lactylation modification.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42046108/",
+        "abstract": "Neuroinflammation following intracerebral hemorrhage (ICH) is a critical contributor to secondary brain injury. Lactylation modification, a novel epigenetic regulatory mechanism, may participate in pathological processes by modulating inflammatory gene expression. This study investigates whether exosomes derived from human umbilical cord mesenchymal stem cells (hUCMSC-exos) alleviate ICH-induced neuroinflammation by regulating lactylation modification via the PI3K/AKT/PKM2/H3K18la axis.",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-025-07041-w",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト臍帯間葉系幹細胞由来エクソソームはラクチル化修飾を調節することで脳内出血ラットの神経炎症を軽減する",
+        "summary_ja": "ヒト臍帯間葉系幹細胞由来エクソソーム（hUCMSC-exos）は、脳内出血（ICH）後の神経炎症を軽減する。本研究では、hUCMSC-exosがPI3K/AKT/PKM2/H3K18la軸を介してラクチル化修飾を調節し、ICHラットの神経炎症を抑制するメカニズムを検討。ラクチル化は新規エピジェネティック制御機構であり、炎症性遺伝子発現に関与する。hUCMSC-exos投与により、PI3K/AKT経路活性化、PKM2発現上昇、H3K18la修飾増加が確認され、神経炎症が減弱した。本結果は、hUCMSC-exosがICH後の二次脳損傷治療に有望であることを示す。"
+      },
+      {
+        "title": "Advanced regenerative solutions in diabetic foot ulcer therapy: delivery of mesenchymal stem cells in injectable hydrogels.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42045987/",
+        "abstract": "Diabetic foot ulcers (DFUs) are a severe complication of diabetes characterized by impaired healing driven by oxidative stress, chronic inflammation, reduced angiogenesis, and neuropathy, leading to high risks of infection and amputation. Current therapies remain insufficient, necessitating advanced regenerative approaches. Mesenchymal stem cells (MSCs) have demonstrated therapeutic potential through immunomodulation, angiogenesis, and extracellular matrix remodeling; however, their clinical application is limited by poor survival and retention, as well as potential safety concerns. Increasing evidence indicates that MSC-derived exosomes play a central role in mediating these therapeutic effects via paracrine signaling, delivering bioactive cargos such as microRNAs, proteins, and cytokines that regulate immune responses, angiogenesis, and tissue regeneration with lower immunogenicity and improved stability compared to cell-based therapies. Injectable hydrogels have emerged as biomimetic platforms that not only enhance MSC viability and retention but also provide an optimal delivery system for exosomes by protecting them from degradation and enabling sustained, localized release within the wound microenvironment. The integration of MSC-derived exosomes with hydrogel systems represents a synergistic strategy that simultaneously addresses multiple pathological barriers in DFUs, including inflammation, oxidative stress, and impaired vascularization. This review highlights recent advances in hydrogel-based delivery systems for MSCs and, importantly, MSC-derived exosomes, with a particular emphasis on their combined therapeutic potential in diabetic wound healing. Furthermore, emerging smart and stimuli-responsive hydrogels are discussed as next-generation platforms for optimizing exosome delivery and improving clinical outcomes in DFUs.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05036-y",
+        "keyword": "Exosomes",
+        "title_ja": "糖尿病性足潰瘍治療における先進的再生医療ソリューション：注射可能なハイドロゲルを用いた間葉系幹細胞の送達",
+        "summary_ja": "糖尿病性足潰瘍（DFU）は、酸化ストレス、慢性炎症、血管新生低下、神経障害により治癒が遅れ、感染や切断リスクが高い糖尿病の重篤な合併症である。現行治療は不十分で、先進的再生医療が求められる。間葉系幹細胞（MSC）は免疫調節、血管新生、細胞外マトリックスリモデリングにより治療効果を示すが、生体内での生存率・滞留性の低さや安全性が課題である。MSC由来エキソソームは、パラクリンシグナルを介し、マイクロRNAやタンパク質などの生理活性物質を運搬し、免疫応答や組織再生を調節する。細胞治療より免疫原性が低く安定性に優れる。注射可能なハイドロゲルは、MSCの生存・滞留を高め、エキソソームの分解を防ぎ創傷環境で持続的局所放出を可能にする生体模倣プラットフォームとして注目される。MSC由来エキソソームとハイドロゲルの統合は、炎症、酸化ストレス、血管新生障害などDFUの複数の病理学的障壁に同時に対処する相乗"
+      },
+      {
+        "title": "Progress and challenge of hepatitis B virus mucosal vaccines.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42045917/",
+        "abstract": "Hepatitis B virus (HBV) is highly contagious, primarily infected through mucous membranes or broken skin exposed to infected body fluids. Conventional injectable vaccines, which require cold chain storage and trained personnel, elicit systemic immunity but fail to establish effective immune protection at mucosal sites where HBV enters. Mucosal vaccines administered orally or intranasally can induce both mucosal and systemic immune responses, offering enhanced protection along with advantages such as ease of administration, no need for cold chain, and reduced reliance on healthcare workers. Given the critical potential of mucosal vaccines in addressing HBV transmission, this review systematically summarizes recent progress in mucosal HBV vaccine development. It covers the evolution of vaccine platforms, from early nasal sprays to advanced oral delivery systems utilizing plant-based antigens, synthetic nanomaterials, and exosomes derived from sources like milk. The advantages and challenges of these platforms are systematically analyzed, with particular attention given to exosome-based systems, which demonstrate excellent biocompatibility and strong potential for effective mucosal delivery. Furthermore, this review discusses future trends in the field, including engineering strategies for targeted delivery and scalable production. Ultimately, this review aims to bridge research and application by offering clear insights and directions to advance the development of practical mucosal HBV vaccines.",
+        "source": "PubMed",
+        "doi": "10.1186/s12985-026-03084-7",
+        "keyword": "Exosomes",
+        "title_ja": "B型肝炎ウイルス粘膜ワクチンの進展と課題",
+        "summary_ja": "B型肝炎ウイルス（HBV）は粘膜や傷口からの感染が主であり、従来の注射型ワクチンは全身免疫を誘導するが、侵入経路である粘膜での防御が不十分である。経口や経鼻投与が可能な粘膜ワクチンは、粘膜免疫と全身免疫の両方を誘導し、投与が容易でコールドチェーン不要、医療従事者への依存が低い利点を持つ。本レビューは、HBV粘膜ワクチンの最近の進展を体系的にまとめ、初期の経鼻スプレーから、植物由来抗原、合成ナノ材料、乳由来エキソソームを用いた経口送達システムまでを網羅する。特にエキソソームベースのシステムは生体適合性に優れ、効果的な粘膜送達の可能性を示す。また、標的送達やスケーラブル生産のための工学的戦略など、今後の展望についても議論し、実用的な粘膜HBVワクチン開発に向けた研究と応用の橋渡しを目指す。"
+      },
+      {
+        "title": "Cell-Derived Nanocarriers for Monocyte-Mediated Therapeutic Delivery: Concept and Challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42044979/",
+        "abstract": "Nano-delivery has been largely focused on ligand-based navigational targeting, but several common limitations have been recognized. First, the same targeting ligand can be sporadically expressed by unintended cells and tissues across different temporal and spatial contexts. Second, clearance from blood circulation via the liver, kidney, lung, and spleen is largely uncontrollable, in addition to nonspecific uptake by immune cells during circulation or tissue accumulation. Accordingly, inherent characteristics of cells have recently been utilized as alternative strategic points for delivery. Cell-derived nanocarriers utilize plasma membranes as modulators of targeting and delivery mechanisms, including cell hitchhiking to alter carrier behavior, reprogram phenotypes, and enable drug hand-over. The membrane mediates contact with target cells in a manner analogous to cell-cell interactions, thereby enabling physical bridging between cells and natural homing to peer cells, in addition to user-specified molecular display through mother cell expression or chemical conjugation. Here, cell-derived nanocarriers for therapeutic delivery (CDNTD) are reviewed with emphasis on their mechanistic basis, distinctions from synthetic nanoparticles, and therapeutic potential. We recently introduced spleen-mediated delivery strategies that employ resident monocytes as second therapeutic carriers following uptake of primary nanocarriers. In this way, the natural targeting behavior of monocytes in response to inflammatory cues enhances payload delivery efficiency to ischemic sites. Future directions of CDNTD research are also discussed with respect to clinical translation.",
+        "source": "PubMed",
+        "doi": "10.3349/ymj.2025.0286",
+        "keyword": "Exosomes",
+        "title_ja": "単球を介した治療薬送達のための細胞由来ナノキャリア：概念と課題",
+        "summary_ja": "本論文は、細胞由来ナノキャリア（CDNTD）を用いた単球介在性治療送達の概念と課題を概説する。従来のリガンドベースのナノ送達は、標的以外の細胞や組織への発現、肝臓・腎臓などでの非特異的クリアランス、免疫細胞による取り込みといった限界がある。これに対し、細胞由来ナノキャリアは細胞膜を利用し、細胞ヒッチハイキングによる挙動改変、表現型再プログラム、薬物受け渡しを可能にする。膜は細胞間相互作用を模倣し、標的細胞との物理的架橋や自然ホーミング、分子提示を実現する。特に、脾臓を介した送達戦略では、初回ナノキャリアを取り込んだ常在単球が二次キャリアとして機能し、炎症シグナルに応答して虚血部位への送達効率を向上させる。本稿は、CDNTDのメカニズム、合成ナノ粒子との差異、治療可能性を整理し、臨床応用に向けた将来の方向性を議論する。"
+      },
+      {
+        "title": "Hopx(+) optic nerve head-astrocytes counter neuronal stress and glaucoma damage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42044330/",
+        "abstract": "Retinal ganglion cell (RGC) axons form the optic nerve (ON). Numerous age-related ON diseases, including glaucoma, the second most common cause of worldwide blindness, result from multiple RGC stressors. Nearly all ON astrocytes in the optic nerve head (ONH): the junctional region between the ON and the retina in young-adult rodents expresses the homeodomain only (Hopx) protein. Hopx(+) ONH astrocytes are depleted during aging. ONH primary cultures which include Hopx(+) astrocytes secrete extracellular vesicles (ONH-EVs) which selectively enhance RGC survival and neurite extension in culture, while extracellular vesicles (EVs) secreted from distal ON cultures lacking Hopx(+) astrocytes do not. ONH-EVs also enhance RGC survival in vivo in a rodent model of glaucoma. Combining rat ONH single-cell (scRNA-seq) sequencing with EV proteomic analysis, we identified ONH-Hopx(+) astrocyte secreted factors. We interrogated the online Broad institute scRNA-seq database for rat RGC gene expression in control animals and following rodent ON crush, an RGC stress model, to correlate ONH-astrocyte secreted factors with RGC gene expression changes. Following stress, RGCs upregulate the complementary pathways involving Hopx(+) astrocytic-associated factors, suggesting reciprocal communication. Using a highly selective transgenic Hopx-cre ONH knockdown strategy, we demonstrate that eliminating Hopx(+) astrocytes also results in upregulation of RGC stress responses. Our results implicate age-related loss of young ONH-astrocytes as a crucial factor in the development of age-related optic nerve diseases, and discuss replacing ONH associated factors as a paradigm shift for ON disease treatment.",
+        "source": "PubMed",
+        "doi": "10.1073/pnas.2515277123",
+        "keyword": "Exosomes",
+        "title_ja": "Hopx(+) 視神経乳頭アストロサイトは神経ストレスと緑内障障害に対抗する",
+        "summary_ja": "本論文は、視神経乳頭（ONH）におけるHopx(+)アストロサイトの加齢による減少が、緑内障などの加齢性視神経疾患の発症に重要であることを示す。若齢げっ歯類のONHアストロサイトはほぼ全てがHopxタンパク質を発現するが、加齢により減少する。ONH由来の細胞外小胞（ONH-EVs）は、培養下で網膜神経節細胞（RGC）の生存と神経突起伸長を促進し、緑内障モデルでもin vivoでRGC生存を向上させる。一方、遠位視神経由来のEVsにはこの効果がない。シングルセルRNA-seqとEVプロテオミクス解析により、ONH-Hopx(+)アストロサイトが分泌する因子を同定し、RGCストレスモデル（視神経挫滅）においてRGCがこれらの因子に関連する経路を相補的に上方制御することを確認した。さらに、Hopx-creノックダウン戦略により、Hopx(+)アストロサイトの除去がRGCストレス応答を亢進させるこ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **CAPEによるKlotho/SIRT1/Nrf2/HO-1軸を介したALS様神経変性の保護**  \n   CAPE（カフェ酸フェネチルエステル）がメチル水銀誘発性のALS様症状に対し、Klotho/SIRT1/Nrf2/HO-1経路を活性化して酸化ストレスを抑制する可能性を示しました。ALSは有効な治療法が限られる難病であり、天然化合物による新規治療戦略として注目されます。\n\n2. **ヒト臍帯間葉系幹細胞由来エクソソームによる脳内出血後の神経炎症軽減**  \n   hUCMSC-exosがPI3K/AKT/PKM2/H3K18la軸を介してラクチル化修飾を調節し、脳内出血後の神経炎症を抑制するメカニズムが解明されました。エクソソームは細胞治療に代わる低侵襲な治療手段として期待されます。\n\n3. **糖尿病性足潰瘍治療におけるMSC搭載ハイドロゲルの再生医療**  \n   間葉系幹細胞を注入可能なハイドロゲルに封入し、糖尿病性足潰瘍に局所投与するアプローチです。慢性炎症・血管新生不全を改善し、切断リスク低減が期待されます。\n\n4. **HBV粘膜ワクチンの進展と課題**  \n   経口・経鼻投与可能な粘膜ワクチンは、粘膜免疫と全身免疫の両方を誘導し、HBVの感染経路に即した防御が可能です。コールドチェーン不要で途上国への普及も期待されます。\n\n5. **単球介在性治療送達のための細胞由来ナノキャリア**  \n   細胞由来ナノキャリアを用いて単球に治療薬を搭載し、炎症部位へ選択的に送達する概念です。従来のナノ送達系の非特異的クリアランス問題を克服する可能性があります。\n\nこれらの研究は、難病治療や再生医療、ワクチン開発において新たな道を開くものであり、今後の臨床応用が期待されます。"
+}

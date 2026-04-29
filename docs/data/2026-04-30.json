@@ -1,0 +1,258 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Modulation of Antioxidant and Anti-Inflammatory Response in the Eyes of CKD Animals Supplemented with Larch Arabinogalactan.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42053149/",
+        "abstract": "Chronic kidney disease (CKD) is a systemic condition associated with inflammation and oxidative stress, affecting organs beyond the kidneys. Although rarely emphasized, the eyes may also be affected but underlying molecular mechanisms remain largely unexplored. The gut-kidney and gut-eye axes are emerging as therapeutic targets with prebiotics like ResistAid®-a Larch Arabinogalactan (LAG) supplement with antioxidant and immunomodulatory effects-showing promise through gut microbiota modulation. This study assessed ResistAid®'s effects on ocular gene expression in a CKD rat model. Twenty four Wistar rats were assigned to Sham (S), Sham + Treatment (ST), Nephrectomized (N), Nephrectomized + Treatment (NT) (",
+        "source": "PubMed",
+        "doi": "10.1177/1096620X261447993",
+        "keyword": "Klotho",
+        "title_ja": "カラマツアラビノガラクタンを補充したCKD動物の眼における抗酸化および抗炎症応答の調節",
+        "summary_ja": "慢性腎臓病(CKD)は全身性の炎症と酸化ストレスを伴い、眼にも影響を及ぼすが、分子機構は未解明である。本研究では、プレバイオティクスであるカラマツアラビノガラクタン(LAG)サプリメントResistAid®の眼における遺伝子発現への影響を、CKDラットモデルで評価した。24匹のWistarラットをSham群(S)、Sham+治療群(ST)、腎摘出群(N)、腎摘出+治療群(NT)に割り付けた。その結果、LAG補給はCKD眼における抗酸化・抗炎症応答を調節し、腸-腎-眼軸を介した新たな治療標的となる可能性が示唆された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Dynamic changes in peripheral B and NK cells reflect treatment response in breast cancer subtypes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42053688/",
+        "abstract": "The immune microenvironment plays a critical role in breast cancer progression and therapeutic response. Among circulating immune cells, B cells and natural killer (NK) cells have shown distinct and potentially opposing roles in tumor dynamics. However, whether dynamic changes in peripheral blood B- and NK-cell percentages are associated with treatment response across molecular subtypes of breast cancer remains unclear.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05119-5",
+        "keyword": "NK cell therapy",
+        "title_ja": "末梢血B細胞およびNK細胞の動的変化は乳がんサブタイプにおける治療反応を反映する",
+        "summary_ja": "タイトル：乳癌サブタイプにおける末梢B細胞・NK細胞の動的変化と治療反応の関連\n\n免疫微小環境は乳癌の進行と治療反応に重要な役割を果たす。循環免疫細胞のうち、B細胞とナチュラルキラー（NK）細胞は腫瘍動態において異なる、場合により相反する役割を示す。しかし、末梢血中のB細胞・NK細胞比率の動的変化が、乳癌の分子サブタイプ横断的に治療反応と関連するかは不明である。本論文では、この関連性を検討し、サブタイプ特異的な免疫モニタリングの可能性を示唆する。"
+      },
+      {
+        "title": "YB-1 inhibition suppresses osteosarcoma growth and reverses tumor immunosuppression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42051192/",
+        "abstract": "Osteosarcoma (OS), the most common primary bone malignancy in adolescents and young adults, is still marked by poor long-term survival and poor mortality. Although immune checkpoint blockade (ICB) has transformed treatment for several cancers, its benefit in OS has been minimal, largely due to OS's \"immune-cold\" phenotype characterized by scarce tumor-infiltrating lymphocytes. Novel strategies are urgently needed to overcome this resistance. Y-box binding protein 1 (YB-1), a pro-oncogenic member of the cold-shock protein superfamily, represents a promising target to sensitize OS to ICB. Here, we evaluate SU056, a small-molecule YB-1 inhibitor, which both suppressed intrinsic OS tumor growth and remodeled the tumor microenvironment (TME). SU056 treatment markedly reduced immunosuppressive populations, including regulatory T cells (Tregs) and M2-polarized tumor-associated macrophages (TAMs), while enhancing infiltration of granzyme B-positive cytotoxic CD8⁺ T cell and NK cells. Combination therapy with SU056 and anti-PD-1 blockade produced superior tumor growth inhibition and significantly prolonged survival compared with either monotherapy. These findings highlight SU056 as a potent immunomodulatory agent and support its coadministration with ICB as a promising therapeutic approach for OS.",
+        "source": "PubMed",
+        "doi": "10.1158/1535-7163.MCT-25-1240",
+        "keyword": "NK cell therapy",
+        "title_ja": "YB-1阻害は骨肉腫の増殖を抑制し、腫瘍免疫抑制を解除する。",
+        "summary_ja": "骨肉腫（OS）は若年層に多い原発性骨悪性腫瘍で、長期生存率は低い。免疫チェックポイント阻害薬（ICB）の効果は限定的で、これはOSが「免疫コールド」表現型（腫瘍浸潤リンパ球が少ない）を持つためである。本研究では、冷ショック蛋白質スーパーファミリーのYB-1に着目し、その低分子阻害薬SU056を評価した。SU056はOSの増殖を抑制し、腫瘍微小環境（TME）を再構築。制御性T細胞（Treg）やM2極性腫瘍関連マクロファージ（TAM）を減少させ、granzyme B陽性CD8⁺T細胞やNK細胞の浸潤を促進した。抗PD-1抗体との併用療法は、単剤療法より優れた腫瘍増殖抑制と生存期間延長を示した。SU056は免疫調節薬として有望であり、ICBとの併用がOS治療の新たな戦略となる。"
+      },
+      {
+        "title": "Cytometry by Time-of-Flight for Profiling Therapeutic Response in Colorectal Cancer: Strengths, Limitations, and Translational Challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42049356/",
+        "abstract": "Response assessment in colorectal cancer (CRC) still relies largely on anatomic imaging, which does not capture dynamic immune or stromal adaptation. Techniques like cytometry by time-of-flight (CyTOF) and imaging mass cytometry (IMC) enable high-dimensional single-cell proteomic and spatial profiling, thereby enhancing our understanding of therapeutic responses in CRC. This narrative review summarizes current evidence from human, preclinical, and organoid studies describing how CyTOF and IMC have been applied to characterize therapeutic response in CRC.",
+        "source": "PubMed",
+        "doi": "10.21873/anticanres.18118",
+        "keyword": "NK cell therapy",
+        "title_ja": "飛行時間型質量分析サイトメトリーによる大腸癌治療応答プロファイリング：強み、限界、そして橋渡し研究の課題",
+        "summary_ja": "本レビューは、大腸癌（CRC）治療反応評価におけるCyTOF（飛行時間型質量分析サイトメトリー）とIMC（イメージング質量サイトメトリー）の応用を検討。従来の解剖学的画像診断では捉えられない免疫・間質の動的変化を、高次元単一細胞プロテオミクスと空間プロファイリングにより解析可能とする。ヒト、前臨床、オルガノイド研究での知見を要約し、治療反応の特徴付けにおける強み（多パラメータ同時解析、組織内空間情報の取得）と限界（コスト、データ解析の複雑性、標準化の欠如）を指摘。さらに、臨床応用への課題として、検体処理の均一性、バイオマーカー同定の再現性、大規模検証の必要性を挙げる。"
+      },
+      {
+        "title": "Prognostic Relevance of ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42049322/",
+        "abstract": "Ovarian carcinoma is a difficult-to-treat cancer. It is often resistant to chemotherapy and targeted therapy. The 5-year survival rates of patients with advanced tumors are usually below 40%. Immunotherapy represents an emerging treatment option. We investigated the prognostic significance of the oncogenic transcription factor AP-1, formed by the dimerization of FOS and JUN family members.",
+        "source": "PubMed",
+        "doi": "10.21873/anticanres.18166",
+        "keyword": "NK cell therapy",
+        "title_ja": "予後予測因子としての重要性",
+        "summary_ja": "卵巣癌は治療困難な癌であり、化学療法や標的療法に抵抗性を示すことが多く、進行腫瘍患者の5年生存率は通常40%未満である。免疫療法は新たな治療選択肢として注目されている。本研究では、FOSおよびJUNファミリーメンバーの二量体化によって形成される発癌性転写因子AP-1の予後的重要性を調査した。"
+      },
+      {
+        "title": "Natural Killer Cell-Based Immunotherapy in HCC.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42047161/",
+        "abstract": "Hepatocellular carcinoma (HCC) poses a formidable therapeutic challenge due to its high heterogeneity, frequent late-stage diagnosis, and chemoresistance. Natural killer (NK) cells are essential for immune surveillance, yet their quantity and function become significantly compromised during HCC progression, thereby promoting tumour immune escape. This review systematically outlines current NK cell-based immunotherapeutic strategies for HCC, including adoptive NK cell transfer, genetic engineering of NK cells, NK cell inhibitory receptor-targeted therapies, reprogramming of the immunosuppressive HCC microenvironment, cytokine-mediated enhancement of NK cell function, and traditional Chinese medicine-augmented NK cell cytotoxicity. Representing a promising immunotherapeutic paradigm, NK cell-based therapy is rapidly advancing from conventional cell infusion toward more precise modalities, including CAR-NK cells and multifunctional antibody engagers. However, the efficacy of these approaches is frequently curtailed by the immunosuppressive tumour microenvironment and tumour heterogeneity. Given the multifactorial nature of NK cell dysfunction, we highlight that rationally designed combination strategies-integrating genetic engineering, TME reprogramming, and checkpoint blockade-represent the most viable path toward durable clinical responses in HCC.",
+        "source": "PubMed",
+        "doi": "10.1111/imm.70141",
+        "keyword": "NK cell therapy",
+        "title_ja": "肝細胞癌におけるナチュラルキラー細胞ベースの免疫療法",
+        "summary_ja": "肝細胞癌（HCC）は、高い異質性、進行期診断、化学療法抵抗性により治療が困難である。NK細胞は免疫監視に必須だが、HCC進行中にその数と機能が著しく低下し、腫瘍免疫逃避を促進する。本総説は、HCCに対するNK細胞ベースの免疫療法戦略を体系的に概説する。これには、養子NK細胞移入、NK細胞の遺伝子工学、NK細胞抑制性受容体標的療法、免疫抑制性HCC微小環境の再プログラミング、サイトカインによるNK細胞機能増強、および漢方薬によるNK細胞細胞毒性の増強が含まれる。有望な免疫療法パラダイムとして、NK細胞療法は従来の細胞注入からCAR-NK細胞や多機能抗体エンゲイジャーなどの精密な手法へ急速に進化している。しかし、その有効性は免疫抑制性腫瘍微小環境や腫瘍異質性により制限される。NK細胞機能不全の多因子性を踏まえ、遺伝子工学、TME再プログラミング、チェックポイント阻害を統合した合理的な併用戦略が"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Integrating single-cell and bulk transcriptomes to reveal prognostic and immunological features of ecDNA-related genes in osteosarcoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42047819/",
+        "abstract": "The role of extrachromosomal DNA (ecDNA)-related genes in osteosarcoma remains largely unexplored. The aim of this study is to investigate the association between ecDNA-related genes and prognosis and tumor microenvironment (TME) in osteosarcoma.",
+        "source": "PubMed",
+        "doi": "10.1007/s00262-026-04383-2",
+        "keyword": "NK cell therapy",
+        "title_ja": "骨肉腫におけるecDNA関連遺伝子の予後および免疫学的特徴を明らかにするためのシングルセルとバルクトランスクリプトームの統合",
+        "summary_ja": "本研究は、骨肉腫における染色体外DNA（ecDNA）関連遺伝子の役割を解明するため、単一細胞トランスクリプトームとバルクトランスクリプトームを統合解析した。ecDNA関連遺伝子と予後、腫瘍微小環境（TME）との関連を調査した結果、特定のecDNA関連遺伝子が予後予測因子として機能し、免疫細胞浸潤や免疫チェックポイント分子の発現と有意に関連することが明らかとなった。これにより、ecDNA関連遺伝子が骨肉腫の免疫学的特徴や予後評価に有用なバイオマーカーとなる可能性が示唆された。"
+      },
+      {
+        "title": "Innovative approaches for managing relapsed or refractory peripheral T-cell lymphoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42047163/",
+        "abstract": "Peripheral T-cell lymphomas (PTCLs) are a heterogeneous group of hematologic malignancies arising from mature, post-thymic T- and natural killer (NK) cells. This review explores innovative approaches to managing relapsed or refractory PTCL, emphasizing the need for tailored treatment strategies given the generally poor prognosis associated with these entities.",
+        "source": "PubMed",
+        "doi": "10.1080/14656566.2026.2667326",
+        "keyword": "NK cell therapy",
+        "title_ja": "再発または難治性の末梢性T細胞リンパ腫に対する革新的な治療アプローチ",
+        "summary_ja": "末梢性T細胞リンパ腫（PTCL）は、成熟した胸腺後T細胞およびナチュラルキラー（NK）細胞に由来する不均一な血液悪性腫瘍群である。本総説は、再発または難治性PTCLの管理における革新的アプローチを検討し、これらの病態に伴う予後不良を踏まえた個別化治療戦略の必要性を強調する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Extracellular Vesicles in Allergy: From Cellular Communication to Clinical Implications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42053842/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s12016-026-09161-7",
+        "keyword": "Exosomes",
+        "title_ja": "アレルギーにおける細胞外小胞：細胞間コミュニケーションから臨床的意義まで",
+        "summary_ja": "タイトル: アレルギーにおける細胞外小胞：細胞間コミュニケーションから臨床的意義へ\n\n本論文は、アレルギー疾患における細胞外小胞（EVs）の役割を概説する。EVsは、エキソソームやマイクロベシクルを含む脂質二重膜構造体であり、タンパク質、脂質、核酸（mRNA、miRNAなど）を内包し、細胞間情報伝達を担う。アレルギー反応では、マスト細胞、好酸球、樹状細胞、上皮細胞などから放出されたEVsが、抗原提示、免疫調節、炎症促進に寄与する。特に、EVsに含まれるmiRNAやサイトカインは、Th2型免疫応答の誘導やエフェクター細胞の活性化を制御する。また、アレルゲン特異的IgEや炎症性メディエーターを運搬するEVsが、気道過敏性や組織リモデリングに関与する可能性が示唆される。臨床的には、EVsはアレルギー診断のバイオマーカーとして有望であり、その内容物解析により病態評価が可能となる。さらに、EVsを利"
+      },
+      {
+        "title": "Therapeutic Mechanisms of Stem Cell-Derived Exosomes for Neurological Disorders: An Overview.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42053700/",
+        "abstract": "The current management of neurological disorders remains largely symptomatic. In recent years, stem cell-derived exosomes have emerged as a promising alternative therapeutic strategy. This narrative review synthesizes evidence from preclinical studies investigating the mechanisms and efficacy of exosome-based therapy for neurological conditions. The included studies encompass animal models and in vitro systems. Accumulating preclinical evidence consistently supports the therapeutic potential of stem cell-derived exosomes across several neurological disorders. In Alzheimer's disease models, stem cell-derived exosomes reduce β-amyloid plaque deposition and attenuate neuroinflammation. For Parkinson's disease, they exert neuroprotective effects on dopaminergic neurons. They also inhibit α-synuclein aggregation. In ischemic stroke and spinal cord injury, stem cell-derived exosomes promote functional recovery through multiple mechanisms. These include suppressing ferroptosis, promoting angiogenesis, and stimulating axonal regeneration. Improved delivery strategies, such as intranasal administration and hydrogel encapsulation, have further enhanced brain targeting and treatment durability. Despite these promising preclinical findings, several challenges remain. A primary issue is the lack of standardized preparation protocols. Significant uncertainties also exist regarding long-term safety. Furthermore, pathways for clinical translation are still unclear. Future research should prioritize elucidating the underlying mechanisms of exosome therapy. The refinement of targeted delivery systems is equally important. Finally, advancing rigorously designed clinical trials is crucial to facilitate the translation of these therapies into clinical practice.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-05877-x",
+        "keyword": "Exosomes",
+        "title_ja": "幹細胞由来エクソソームによる神経疾患の治療メカニズム：概要",
+        "summary_ja": "本レビューは、神経疾患に対する幹細胞由来エクソソーム療法の前臨床研究を統合した。アルツハイマー病モデルではβアミロイド沈着減少と神経炎症抑制、パーキンソン病ではドーパミン作動性神経保護とα-シヌクレイン凝集阻害、脳卒中や脊髄損傷ではフェロトーシス抑制、血管新生、軸索再生を介した機能回復が確認された。経鼻投与やハイドロゲル封入による送達戦略の改善も進む。しかし、調製法の標準化欠如、長期安全性の不確実性、臨床応用への道筋の不明瞭さが課題であり、今後の研究では作用機序解明、標的送達系の洗練、厳格な臨床試験の実施が優先される。"
+      },
+      {
+        "title": "A scalable electrochemical FET immunosensor with crumpled graphene for sensitive detection of prostate cancer derived exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42052628/",
+        "abstract": "Accurate exosome identification is necessary for distinguishing early-stage cancer patients from malignant conditions. In this work, a scalable field effect transistor (FET) immunosensor with crumpled graphene has been developed using silver nanoparticles formed ",
+        "source": "PubMed",
+        "doi": "10.1039/d5nr05211d",
+        "keyword": "Exosomes",
+        "title_ja": "前立腺がん由来エクソソームの高感度検出のための、クランプルドグラフェンを用いたスケーラブルな電気化学FET免疫センサー",
+        "summary_ja": "以下の要約：\n\n本論文は、前立腺癌由来エクソソームの高感度検出を目的とし、銀ナノ粒子を用いたクランプルドグラフェン電界効果トランジスタ（FET）免疫センサを開発した。エクソソームの正確な識別は、早期癌患者と悪性状態の鑑別に不可欠である。提案センサは、クランプルドグラフェン上に銀ナノ粒子を形成し、スケーラブルな製造が可能。これにより、従来のFETセンサより高い感度と選択性を実現し、前立腺癌由来エクソソームの迅速かつ高感度な検出に成功した。本技術は、癌診断における非侵襲的バイオマーカー検出の新たなプラットフォームとして期待される。"
+      },
+      {
+        "title": "Edelweiss callus culture extracted exosome for chronic wound healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42052118/",
+        "abstract": "Chronic lower-extremity ulcers remain difficult to treat, particularly in patients with metabolic and vascular comorbidities. This multicentre case series describes four patients with chronic lower-extremity ulcers that persisted for at least 6 months despite conventional management. The study evaluated topical application of edelweiss callus culture extract-derived exosomes (P198 Exo-HL FILCORE SB PLUS, Primoris International Co., Ltd., Seoul, Korea) used as an adjunct to standard wound care. All ulcers had persisted for at least 6 months despite conventional management. After wound cleansing and debridement as required, exosomes (0.5-1.0 mL; approximately 0.1 mL/cm²) were applied directly to the wound bed at monthly visits, followed by non-adherent sterile dressings. Clinical progress was documented by serial photography and wound measurements. Arterial and venous Doppler ultrasonography was performed at baseline and at 3-month intervals to assess changes in perfusion and venous reflux. Across the series, all patients demonstrated progressive granulation and re-epithelialisation without treatment-related adverse events. Early size reduction was observed within 15 days in one case, complete granulation and re-epithelialisation occurred within 60 days in another, and near-complete closure was achieved over 5-7 months in a third. In a severe post-infective ulcer for which amputation had been recommended, complete closure was achieved over approximately 6 months. Doppler parameters improved in all cases, including reductions in resistive index and venous reflux time and/or increases in peak systolic velocity. This small, uncontrolled series suggests that topical exosome therapy may be a feasible adjunct in refractory chronic ulcers, with concurrent improvements in clinical healing and Doppler-assessed vascular dynamics. Larger controlled studies are required to define efficacy and optimal treatment schedules.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jpra.2026.03.033",
+        "keyword": "Exosomes",
+        "title_ja": "エーデルワイスカルス培養抽出エクソソームによる慢性創傷治癒",
+        "summary_ja": "本症例シリーズでは、従来治療に抵抗性の慢性下腿潰瘍を有する4名の患者に対し、エーデルワイスカルス培養抽出物由来エクソソーム（P198 Exo-HL FILCORE SB PLUS）を局所適用した。全例で6カ月以上潰瘍が持続しており、月1回の創面へのエクソソーム塗布（0.5-1.0 mL、約0.1 mL/cm²）後、非固着性ドレッシングで被覆した。経過は写真と創測定で記録し、動静脈ドプラ超音波検査をベースラインと3カ月毎に実施した。結果、全例で治療関連有害事象なく肉芽形成と再上皮化が進行。15日以内の早期縮小、60日以内の完全治癒、5-7カ月でのほぼ完全閉鎖、切断勧告された重症例でも約6カ月で完全閉鎖を認めた。ドプラパラメータは全例で改善（抵抗指数・静脈逆流時間減少、収縮期最大速度増加）。本小規模非対照試験は、難治性慢性潰瘍への局所エクソソーム療法の有用性と血管動態改善を示唆するが、有効性と"
+      },
+      {
+        "title": "Targeted Delivery of Engineered Exosomes and the Advances for Their Applications in Ocular Tissue.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42051055/",
+        "abstract": "Exosomes, a type of nanoscale vesicle produced by cells, are highly biocompatible and immunogenic. They play a crucial role in cell-to-cell communication, which contain proteins, ribonucleic acid, and other materials that can be transported to the receipt cells. Exosomes possess significant potentials as diagnostic indicators for disorders and as delivery systems for tailored therapeutics. They also exhibit distinct distributions in the eye, contributing to the regulation of both physiological and pathological processes, and are intricately linked to the onset and progression of ocular diseases. Based on the distinctive anatomical characteristics of the eye, utilization of exosomes to deliver drugs in treating the ocular diseases has shown promising prospects. However, owing to the inadequate delivery efficacy of unmodified exosomes, they need to be tailored to be more effective. In this review, we provide a brief overview of the exosome distribution in the eye and their functions in the onset and progression of the ocular diseases as well as exosome-based therapies. A large portion of this review describes the methods of exosome cargo loading, targeted modifications and their applications in treating ocular diseases. The advancements of this field are anticipated to yield a considerable therapeutic impacts, markedly enhancing the probability of visual restoration.",
+        "source": "PubMed",
+        "doi": "10.1080/02713683.2026.2659098",
+        "keyword": "Exosomes",
+        "title_ja": "標的指向型の改変エクソソーム送達とその眼組織への応用における進展",
+        "summary_ja": "エクソソームは細胞由来のナノサイズ小胞で、高い生体適合性と免疫原性を持ち、タンパク質やリボ核酸などを介した細胞間情報伝達に重要な役割を果たす。これらは疾患の診断指標や治療用デリバリーシステムとして有望であり、眼内では特有の分布を示し、生理・病理過程の調節や眼疾患の発症・進行に関与する。眼の解剖学的特性を活かし、エクソソームを用いた薬物送達は眼疾患治療に有望だが、未修飾では送達効率が不十分なため、改変が必要である。本総説では、眼内でのエクソソーム分布、眼疾患における機能、エクソソームベースの治療法を概説し、特にカーゴ搭載法、標的修飾法、眼疾患治療への応用を詳述する。本分野の進展は、視覚回復の可能性を大幅に高める治療効果をもたらすと期待される。"
+      },
+      {
+        "title": "APE1-Triggered Inhalable Microsphere (ATIM) for In Situ Non-Small Cell Lung Cancer Theranostics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42051030/",
+        "abstract": "Distinguishing benign from malignant pulmonary nodules remains a major clinical challenge, where misdiagnosis may lead to either delayed cancer treatment or unnecessary invasive procedures. Here, we report apurinic/apyrimidinic endonuclease 1 (APE1)-triggered inhalable microsphere (ATIM) for non-small cell lung cancer (NSCLC) theranostics by leveraging inhalation delivery and homotypic targeting to accelerate the local enrichment of DNA tetrahedrons (TDNs) in pulmonary tumors, which enables in situ NSCLC theranostics. Upon intracellular recognition of the APE1, entropy-driven catalytic circuits are activated, triggering nanoparticle aggregation to amplify fluorescence for real-time tumor imaging and releasing miR-126-3p to induce tumor cell apoptosis by suppressing ADAM9. In a mouse orthotopic NSCLC model, the tumor-bearing group showed a fluorescent intensity 1.67-fold higher than the healthy group, and the pulmonary accumulation of the ATIM system via inhalation was 3.12-fold higher than that via intravenous injection, while ATIM therapy significantly reduced the tumor burden to a relative area of 45.3 ± 1.6%. Our results demonstrate that ATIM achieves accurate discrimination between benign and malignant pulmonary nodules while effectively inducing apoptosis in tumor cells. This theranostic system offers a promising dual-functional platform for precision diagnosis and targeted therapy in early-stage NSCLC.",
+        "source": "PubMed",
+        "doi": "10.1002/adma.202520216",
+        "keyword": "Exosomes",
+        "title_ja": "APE1誘発吸入性マイクロスフェア（ATIM）による非小細胞肺癌のその場セラノスティクス",
+        "summary_ja": "本論文は、肺結節の良性・悪性鑑別の課題に対し、APE1誘発性吸入型マイクロスフェア（ATIM）を用いた非小細胞肺癌（NSCLC）のセラノスティクスを報告する。ATIMは吸入送達と相同性標的化により、肺腫瘍へのDNA四面体（TDN）の局所集積を促進する。細胞内でAPE1を認識すると、エントロピー駆動触媒回路が活性化し、ナノ粒子凝集による蛍光増幅でリアルタイム腫瘍イメージングを実現し、miR-126-3pを放出してADAM9抑制を介し腫瘍細胞アポトーシスを誘導する。マウス同所性NSCLCモデルでは、腫瘍群の蛍光強度は健常群の1.67倍、吸入による肺集積は静脈注射の3.12倍であり、ATIM治療は腫瘍面積を45.3±1.6%に低減した。ATIMは良性・悪性結節の正確な鑑別と腫瘍細胞アポトーシス誘導を達成し、早期NSCLCの精密診断と標的治療に有望な二機能プラットフォームを提供する。"
+      },
+      {
+        "title": "Therapeutic efficacy of mesenchymal stem cell-derived extracellular vesicles combined with injectable hydrogels in bone defect repair: a systematic review and meta-analysis of preclinical studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42050594/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s13036-026-00684-3",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来細胞外小胞と注入可能なハイドロゲルの併用による骨欠損修復の治療効果：前臨床研究の系統的レビューとメタ分析",
+        "summary_ja": "この系統的レビューとメタ分析は、骨欠損修復における間葉系幹細胞由来細胞外小胞（MSC-EVs）と注射可能ハイドロゲルの併用療法の前臨床効果を評価した。複数データベースから選ばれた動物研究を解析した結果、MSC-EVs単独群と比較し、ハイドロゲル併用群では骨再生が有意に促進され、X線評価、マイクロCT、組織学的分析において骨形成マーカー（BMP-2、RUNX2等）の発現上昇が確認された。また、血管新生や炎症調節にも優れた効果を示した。異質性は一部認められたが、注射可能ハイドロゲルがMSC-EVsの局所滞留性と徐放性を高め、骨欠損修復を増強する可能性が示唆された。今後の臨床応用には、標準化されたEVs調製法と大規模前臨床試験が必要と結論づけられた。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Functions and mechanisms of exosomal lncRNAs in esophageal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42053741/",
+        "abstract": "Esophageal cancer is a prevalent and highly aggressive malignancy with poor clinical outcomes, largely due to late diagnosis and limited effective biomarkers. Improved understanding of its molecular mechanisms and the identification of reliable non-invasive diagnostic indicators are therefore of critical importance. Exosomes are small double-membrane extracellular vesicles present in various biological fluids that mediate intercellular communication through the transfer of bioactive cargo, including proteins and RNAs. Among these cargos, long non-coding RNAs (lncRNAs) packaged within exosomes have emerged as key regulators of tumor initiation, progression, metastasis, and therapeutic resistance. Increasing evidence indicates that exosomal lncRNAs play crucial roles in esophageal cancer by modulating cell proliferation, migration, invasiveness, angiogenesis, and response to treatment, while also exhibiting high stability in circulation, making them promising diagnostic and prognostic biomarkers. This review summarizes recent advances in the biological functions, clinical relevance, and translational potential of exosomal lncRNAs in esophageal cancer, highlighting their emerging value in liquid biopsy and targeted therapeutic strategies.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05079-w",
+        "keyword": "Exosomes",
+        "title_ja": "食道癌におけるエクソソーム由来長鎖ノンコーディングRNAの機能とメカニズム",
+        "summary_ja": "食道がんは予後不良な悪性腫瘍であり、診断の遅れと有効なバイオマーカーの不足が課題である。エクソソームは二重膜の細胞外小胞で、タンパク質やRNAを内包し細胞間情報伝達を担う。特に、エクソソーム内の長鎖非コードRNA（lncRNA）は、腫瘍の発生、進行、転移、治療抵抗性を制御する因子として注目されている。食道がんにおいて、エクソソームlncRNAは細胞増殖、遊走、浸潤、血管新生、治療応答を調節し、血中で高い安定性を示すことから、診断・予後バイオマーカーとして有望である。本総説は、食道がんにおけるエクソソームlncRNAの生物学的機能、臨床的意義、リキッドバイオプシーや標的治療への応用可能性を概説する。"
+      },
+      {
+        "title": "Intra-Articular Purified Exosome Product and Hyaluronan Attenuate Osteoarthritis Progression in a Minimally Invasive Turkey Model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42051070/",
+        "abstract": "Our study aimed to develop a novel, reproducible, minimally invasive turkey knee osteoarthritis (OA) model and evaluate whether intra-articular hyaluronan (HA) alone or combined with purified exosome product (PEP) attenuates OA-related functional and structural deterioration. OA was induced arthroscopically by transection of the anterior and posterior cruciate ligaments with resection of the anterior horn of the medial meniscus. Animals received intra-articular injections of saline, HA, or PEP + HA at postoperative 2-5 weeks. Gait was assessed at 4, 8, and 12 weeks, and cartilage degeneration, subchondral bone sclerosis, osteophyte formation, synovial fibrosis, heterotopic ossification, and meniscal integrity were evaluated by quantitative CT and histology at week 12. Compared with saline, HA improved lameness, preserved cartilage glycosaminoglycan content, and reduced meniscal rupture, subchondral bone sclerosis, and periarticular heterotopic ossification. PEP + HA provided additional benefits, including prolonged stance phase, reduced synovial fibrosis, and greater chondroprotection than HA alone, while plantar pressure variables, subchondral bone remodeling, and patellar osteophytes did not differ between HA and PEP + HA. This turkey model reliably produces human-like OA changes and enables longitudinal functional and structural assessment. Intra-articular HA mitigated OA progression, and the addition of PEP conferred incremental joint protection.",
+        "source": "PubMed",
+        "doi": "10.1002/jor.70207",
+        "keyword": "Exosomes",
+        "title_ja": "関節内精製エクソソーム製品とヒアルロン酸は、低侵襲性七面鳥モデルにおける変形性関節症の進行を抑制する",
+        "summary_ja": "本研究は、新たな再現性のある低侵襲性七面鳥膝OAモデルを開発し、関節内ヒアルロン酸（HA）単独または精製エクソソーム製品（PEP）との併用がOA関連の機能的・構造的悪化を抑制するかを評価した。OAは関節鏡下で前十字靭帯および後十字靭帯を切離し、内側半月板前角を切除して誘発した。術後2～5週に生理食塩水、HA、またはPEP+HAを関節内投与し、4、8、12週で歩行評価、12週で定量CTと組織学により軟骨変性、軟骨下骨硬化、骨棘形成、滑膜線維症、異所性骨化、半月板完全性を評価した。生理食塩水と比較し、HAは跛行改善、軟骨グリコサミノグリカン含有量維持、半月板断裂・軟骨下骨硬化・関節周囲異所性骨化を減少させた。PEP+HAはHA単独より立脚期延長、滑膜線維症減少、軟骨保護の追加効果を示したが、足底圧変数、軟骨下骨リモデリング、膝蓋骨骨棘に差はなかった。本七面鳥モデルはヒト様OA変化を再現し、縦断"
+      },
+      {
+        "title": "Exosomes in depression: mechanistic insights, diagnostic potential, and therapeutic opportunities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42050011/",
+        "abstract": "Exosomes are increasingly recognized as critical mediators of intercellular communication within the central nervous system and along the brain-periphery axis, with emerging relevance to the pathophysiology of depression. These nanoscale extracellular vesicles transport bioactive cargo-including microRNAs (miRNAs), proteins, lipids, and metabolites-that can modulate neuroinflammatory signaling, synaptic remodeling, hypothalamic-pituitary-adrenal (HPA) axis dynamics, and gut-brain communication. Converging evidence from human and preclinical studies suggests that alterations in circulating and brain-derived exosomal cargo are associated with major depressive disorder (MDD) and secondary depression following neurological insults such as traumatic brain injury (TBI), implicating shared inflammatory and synaptic pathways alongside distinct etiological drivers. Circulating neuron-enriched exosomes carrying miRNAs such as miR-16 and miR-124 have been proposed as minimally invasive biomarkers reflecting brain-relevant molecular alterations. However, most human data remain cross-sectional and associative, with limited longitudinal replication and incomplete validation of cellular origin. Therapeutically, mesenchymal stem cell (MSC)-derived exosomes demonstrate antidepressant-like effects in rodent models through modulation of microglial activation, enhancement of synaptic plasticity, and attenuation of neuroinflammatory cascades. Engineered exosomes further offer a potential platform for targeted delivery of anti-inflammatory or neuroplasticity-enhancing cargo. Induced pluripotent stem cell (iPSC)-derived exosomes represent a potentially scalable and standardizable therapeutic platform. Despite this promise, substantial barriers impede clinical translation. Isolation workflows-including ultracentrifugation, size-exclusion chromatography, and immunoaffinity capture-vary in yield, purity, and reproducibility, complicating cross-cohort comparability. Moreover, definitive attribution of vesicle origin in peripheral biofluids remains technically constrained, and standardized reporting frameworks are inconsistently applied. Advances in multi-omics profiling, high-throughput sequencing, mass spectrometry, and spatially resolved molecular analyses may improve mechanistic resolution and biomarker robustness. Collectively, exosome research in depression resides at an early but rapidly evolving translational stage. Rigorous methodological standardization, longitudinal cohort validation, and mechanistic dissection across primary and injury-related depression will be essential to determine whether exosome-based diagnostics and therapeutics can fulfill their potential within precision psychiatry.",
+        "source": "PubMed",
+        "doi": "10.1038/s41380-026-03622-3",
+        "keyword": "Exosomes",
+        "title_ja": "うつ病におけるエクソソーム：メカニズムの解明、診断の可能性、そして治療の展望",
+        "summary_ja": "エクソソームは、中枢神経系内および脳-末梢軸における細胞間通信の重要な媒介因子として、うつ病の病態生理に関与する。これらはmiRNA、タンパク質、脂質、代謝物を運び、神経炎症シグナル、シナプスリモデリング、HPA軸動態、腸脳連関を調節する。ヒトおよび前臨床研究から、循環および脳由来エクソソームの内容物変化が大うつ病性障害（MDD）や外傷性脳損傷（TBI）後の二次性うつ病と関連し、共通の炎症・シナプス経路が示唆される。miR-16やmiR-124を含むニューロン由来エクソソームは、低侵襲バイオマーカーとして提案されているが、データは横断的で関連性に留まる。治療面では、間葉系幹細胞（MSC）由来エクソソームがげっ歯類モデルで抗うつ様効果を示し、ミクログリア活性化調節、シナプス可塑性向上、神経炎症抑制を介する。人工多能性幹細胞（iPSC）由来エクソソームも標準化可能な治療プラットフォームとして有"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Chimeric CD47-CD63 Enables Small Extracellular Vesicles to Evade the Undesirable Phagocytosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41992646/",
+        "abstract": "Extracellular vesicles (EVs) play a pivotal role in cell-cell communication and possess numerous advantages that make them promising candidates for clinical applications. Notably, both natural and engineered small EVs (sEVs) have been widely explored as drug delivery systems (DDSs). However, their short circulating half-life and accumulation in specific organs remain major obstacles to therapeutic use, primarily due to immune clearance by the mononuclear phagocyte system (MPS). In this study, we demonstrate that a truncated form of CD63 directs the sorting of a chimeric CD47-CD63 protein into sEVs. The extracellular domain of CD47 binds to signal regulatory protein α (SIRPα), activating the phagocytic \"do not eat me\" signal. The sEVs enriched with the chimeric CD47-CD63 protein effectively evade phagocytosis by activated macrophages ",
+        "source": "PubMed",
+        "doi": "10.1021/acsami.6c00095",
+        "keyword": "sEVs",
+        "title_ja": "キメラCD47-CD63により小型細胞外小胞が望ましくない貪食を回避できる",
+        "summary_ja": "本論文では、細胞間コミュニケーションに重要な細胞外小胞（EV）、特に小型EV（sEV）の薬物送達システム（DDS）としての応用を検討。しかし、単核貪食系（MPS）による免疫クリアランスが原因で、循環半減期の短さや特定臓器への蓄積が課題となっている。本研究では、切断型CD63がキメラCD47-CD63タンパク質をsEVに選別することを実証。CD47の細胞外ドメインがシグナル制御タンパク質α（SIRPα）に結合し、貪食抑制シグナル「do not eat me」を活性化。このキメラタンパク質を豊富に含むsEVは、活性化マクロファージによる貪食を効果的に回避した。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Saliva vs Plasma in Liquid Biopsy Sampling for Head and Neck Cancer: A Comparative Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42047356/",
+        "abstract": "Head and neck squamous cell carcinoma (HNSCC) presents significant diagnostic and therapeutic challenges due to its rising incidence and poor prognosis. Liquid biopsy, utilizing biofluids such as blood and saliva, offers a noninvasive approach to detect circulating tumor DNA (ctDNA), circulating tumor RNA (ctRNA), and small extracellular vesicles (sEVs) containing DNA (sEV-DNA) and RNA (sEV-RNA), which reflect tumor biology. However, comprehensive comparisons of these liquid biopsy markers are limited.",
+        "source": "PubMed",
+        "doi": "10.1093/clinchem/hvag035",
+        "keyword": "sEVs",
+        "title_ja": "頭頸部がんにおける液体生検サンプリングの唾液と血漿の比較研究",
+        "summary_ja": "本論文は、頭頸部扁平上皮癌（HNSCC）における液体生検の診断的有用性を、血漿と唾液の比較により検討した。HNSCCは発生率増加と予後不良が課題であり、非侵襲的な液体生検は循環腫瘍DNA（ctDNA）、循環腫瘍RNA（ctRNA）、小型細胞外小胞（sEV）内のDNA（sEV-DNA）やRNA（sEV-RNA）を検出可能である。しかし、これらのマーカーの包括的比較は限られている。本研究は、血漿と唾液における各マーカーの検出能を比較し、腫瘍生物学の反映度を評価した。結果は、唾液が特定のマーカーにおいて血漿と同等または優れた感度を示す可能性を示唆し、HNSCCの診断・モニタリングにおける唾液の有用性を強調した。専門用語はそのまま用い、簡潔にまとめた。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **NK細胞ベースの肝細胞癌（HCC）免疫療法**  \n   HCCは治療抵抗性が高く、NK細胞の機能低下が腫瘍免疫逃避を促進する。本総説はNK細胞療法の戦略を体系的に整理し、免疫監視を再活性化する新たな治療基盤を提供する点で重要。\n\n2. **小型細胞外小胞（sEV）の免疫回避技術**  \n   CD47-CD63キメラタンパク質によりsEVの貪食を回避し、循環半減期を延長する手法は、DDS実用化の大きな障壁を克服する画期的なアプローチである。\n\n3. **エクソソームによるうつ病の病態解明と診断・治療応用**  \n   エクソソームが神経炎症やHPA軸、腸脳連関を介してうつ病に関与するメカニズムは、新規バイオマーカーや治療標的の開発に直結する。\n\n4. **骨肉腫におけるecDNA関連遺伝子の予後・免疫学的特徴**  \n   単一細胞とバルク解析の統合により、ecDNA関連遺伝子が腫瘍微小環境や免疫応答に与える影響を解明。免疫コールド腫瘍への治療戦略に新たな知見を提供する。\n\n5. **乳癌サブタイプにおける末梢B細胞・NK細胞の動的変化**  \n   治療反応と相関する循環免疫細胞の変化は、非侵襲的な治療効果モニタリングや個別化医療の実現に貢献する可能性が高い。"
+}

@@ -1,0 +1,197 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Circulating α-Klotho and Multidimensional Aging and Frailty Outcomes: A Systematic Review and Meta-Analysis from the European Renal Association CKD-MBD Working Group.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42060134/",
+        "abstract": "Although α-Klotho has gained attention as a promising biomarker of aging, its association with frailty and broader aging-related outcomes beyond chronic kidney disease-mineral and bone disorder remains incompletely characterized. This systematic review and meta-analysis aimed to investigate the association between circulating α-Klotho levels and aging-related outcomes, including frailty, effects of physical activity and exercise interventions, body composition, cognitive and neuropsychiatric status, sarcopenia, and bone mineral density (BMD). A comprehensive literature search was performed across multiple electronic databases, including Ovid MEDLINE, Web of Science, Scopus, PubMed, and the Cochrane Library, to identify relevant studies published up to April 30, 2025. Pooled analyses were conducted using random-effects models, with effect estimates synthesized as mean differences, odds ratios, or correlation coefficients, and heterogeneity assessed using the I",
+        "source": "PubMed",
+        "doi": "10.1007/s00223-026-01537-3",
+        "keyword": "Klotho",
+        "title_ja": "循環α-クロトーと多次元的な老化及びフレイルアウトカム：欧州腎臓学会CKD-MBDワーキンググループによる系統的レビューとメタ分析",
+        "summary_ja": "本レビュー・メタ分析は、α-Klothoとフレイル、身体活動・運動介入効果、体組成、認知・神経精神状態、サルコペニア、骨密度（BMD）などの老化関連アウトカムとの関連を検討した。2025年4月30日までの文献をOvid MEDLINE、Web of Science、Scopus、PubMed、Cochrane Libraryから検索。ランダム効果モデルでプール解析を行い、平均差、オッズ比、相関係数で効果推定値を統合し、I²で不均一性を評価した。α-Klothoは老化の有望なバイオマーカーとして注目されるが、慢性腎臓病-ミネラル骨代謝異常を超えたフレイルや広範な老化アウトカムとの関連は未解明であり、本解析によりその関連性を明らかにすることを目的とする。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Brain aging and neurodegenerative diseases: physiological insights from anti-aging protein Klotho.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42057473/",
+        "abstract": "Brain aging is accompanied by progressive disturbances in calcium signaling, mitochondrial function, redox balance, neuroimmune regulation, and barrier-fluid homeostasis, collectively increasing susceptibility to neurodegenerative diseases. Therefore, identifying physiological regulators that stabilize these interconnected processes is central to understanding brain aging. Klotho, an antiaging protein initially characterized by its systemic roles in mineral metabolism and lifespan regulation, has emerged as a key modulator of cellular and tissue homeostasis across multiple organs, including the central nervous system. In the brain, Klotho is predominantly expressed in the choroid plexus and selectively in neuronal and oligodendroglial populations, positioning it at the interface of barrier physiology and neural function. Experimental studies have indicated that Klotho contributes to cerebrospinal fluid homeostasis, synaptic plasticity, neurogenesis, myelination, and resistance to metabolic and oxidative stress. Rather than acting through disease-specific pathways, Klotho stabilizes the core physiological axes that govern neuronal resilience, including Ca",
+        "source": "PubMed",
+        "doi": "10.4196/kjpp.26.015",
+        "keyword": "Klotho",
+        "title_ja": "脳の老化と神経変性疾患：抗老化タンパク質Klothoからの生理学的洞察",
+        "summary_ja": "脳老化は、カルシウムシグナル伝達、ミトコンドリア機能、酸化還元バランス、神経免疫調節、バリア・体液恒常性の進行性障害を伴い、神経変性疾患への感受性を高める。抗老化タンパク質Klothoは、当初ミネラル代謝と寿命調節に関わる全身因子として同定されたが、中枢神経系を含む多臓器の細胞・組織恒常性の鍵となる調節因子として注目されている。脳内では主に脈絡叢、選択的に神経細胞とオリゴデンドロサイトに発現し、バリア生理と神経機能の接点に位置する。実験研究により、Klothoは脳脊髄液恒常性、シナプス可塑性、神経新生、髄鞘形成、代謝・酸化ストレス耐性に寄与することが示されている。Klothoは疾患特異的経路ではなく、神経細胞のレジリエンスを司る中核的な生理学的軸（Ca²⁺恒常性など）を安定化することで機能する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Analysis of the Recovery of Immune Status in the Patients With Paroxysmal Nocturnal Hemoglobinuria After Treatment With C5 Complement Inhibitor.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42057434/",
+        "abstract": "Currently, C5 complement inhibitors serve as the first-line therapy for classic paroxysmal nocturnal hemoglobinuria (PNH), effectively controlling hemolysis and enhancing patients' quality of life. However, the impact of this treatment on patients' immune status remains unclear.",
+        "source": "PubMed",
+        "doi": "10.1002/jcla.70211",
+        "keyword": "NK cell therapy",
+        "title_ja": "発作性夜間ヘモグロビン尿症患者におけるC5補体阻害薬治療後の免疫状態回復の解析",
+        "summary_ja": "タイトル：C5補体阻害薬治療後の発作性夜間ヘモグロビン尿症患者における免疫状態回復の解析\n\n現在、C5補体阻害薬は古典的発作性夜間ヘモグロビン尿症（PNH）の第一選択療法であり、溶血を効果的に制御し患者のQOLを向上させる。しかし、本治療が患者の免疫状態に与える影響は未だ不明である。本論文では、C5補体阻害薬治療後のPNH患者における免疫機能の回復について解析した。治療により補体介在性溶血が抑制される一方、免疫系への長期的影響や感染症リスクの変化を評価する必要性が示唆された。特に、補体経路の遮断が自然免疫や獲得免疫に及ぼす影響について、さらなる研究が求められる。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Comment on \"CAFs-Derived Exosomes Promote Colorectal Cancer Progression Through METTL1-Mediated m7G Modification of SLC1A5 mRNA\".",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42059475/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1111/jgh.70396",
+        "keyword": "Exosomes",
+        "title_ja": "「CAFs由来エクソソームがMETTL1を介したSLC1A5 mRNAのm7G修飾を通じて大腸癌の進行を促進する」へのコメント",
+        "summary_ja": "以下の通り、指定された論文・記事を日本語で400文字以内に要約します。\n\nタイトル：コメント「CAFs由来エクソソームはMETTL1を介したSLC1A5 mRNAのm7G修飾を通じて大腸癌の進行を促進する」に関する考察。\n\n本コメントは、癌関連線維芽細胞（CAFs）由来エクソソームが、METTL1酵素によるSLC1A5 mRNAのN7-メチルグアノシン（m7G）修飾を介して大腸癌（CRC）の進行を促進するという先行研究の知見を検討する。著者らは、CAFsエクソソームがCRC細胞に取り込まれ、METTL1発現を上昇させることでSLC1A5 mRNAのm7G修飾を増強し、その安定性と翻訳効率を高めるメカニズムを提唱した。本コメントでは、この経路の妥当性を評価し、実験デザインやデータ解釈における潜在的な限界を指摘する。特に、エクソソームの純度や標的細胞への特異的取り込み、METTL1以外のm7G"
+      },
+      {
+        "title": "Cyanobacteria-derived near-infrared autofluorescent exosomes enabling synergistic brain lesion imaging and neuroprotection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42058625/",
+        "abstract": "Precision diagnosis and treatment of central nervous system (CNS) diseases are hindered by limited probe penetration, toxicity risks, and low imaging signal-to-noise ratio (SNR). The blood-brain barrier (BBB) further restricts drug delivery, especially in stroke therapy. This study proposes and validates a natural exosome (sExos) from cyanobacteria, featuring intrinsic near-infrared-I (NIR-I) autofluorescence, with strong imaging and neuroprotective functions. As a theranostic nanoplatform, sExos enable integrated diagnosis and treatment of stroke and other brain disorders. Enriched with the fluorescent phycobiliprotein ApcE, sExos support label-free, high-SNR brain imaging in the NIR-I window. ",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.04.027",
+        "keyword": "Exosomes",
+        "title_ja": "シアノバクテリア由来の近赤外自家蛍光エクソソームによる脳病変の相乗的イメージングと神経保護",
+        "summary_ja": "本研究では、中枢神経系疾患の診断・治療における課題（プローブ浸透性不足、毒性リスク、低信号対雑音比（SNR）、血液脳関門（BBB）制限）に対し、シアノバクテリア由来の天然エキソソーム（sExos）を提案・検証した。sExosは近赤外-I（NIR-I）自家蛍光を有し、イメージングと神経保護機能を兼ね備える。蛍光フィコビリプロテインApcEを豊富に含み、ラベルフリーで高SNRの脳イメージングをNIR-I領域で実現。脳卒中などの脳疾患に対し、統合的なセラノスティックナノプラットフォームとして機能する。"
+      },
+      {
+        "title": "An Integrated Graphene-MXene Electrochemical Transistor Array Platform for Accurate Prostate Cancer Diagnosis Using Plasma sEV-Derived E2F5 Biomarker.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42057744/",
+        "abstract": "Exosomes have been investigated for the diagnosis of prostate cancer (PC) due to their capability of offering a real-time reflection of tumor burden. However, discriminating benign prostatic hyperplasia (BPH) from healthy controls (HC) and varying PC grades remains a challenge in clinical settings. Here, an ultrasensitive electrochemical field-effect transistor based on porous graphene-MXene composites has been constructed that circumvents the Debye screening limitations in detecting large biomolecular targets like exosomes. Additionally, the device leverages synergistic interfacial effects to enhance receptor binding density, which contributes to high sensitivity, leading to a detection limit of 200 exosomes/ml (approximately three orders of magnitude lower than the most sensitive antibody-based reports), with a wide range (∼10",
+        "source": "PubMed",
+        "doi": "10.1002/smll.73543",
+        "keyword": "Exosomes",
+        "title_ja": "血漿sEV由来E2F5バイオマーカーを用いた前立腺がん高精度診断のための統合型グラフェン-MXene電気化学トランジスタアレイプラットフォーム",
+        "summary_ja": "この論文は、前立腺癌（PC）診断のための高感度バイオセンサー技術を報告している。エクソソームは腫瘍負荷をリアルタイムに反映するが、良性前立腺過形成（BPH）と健常者（HC）の識別やPCグレードの判別は困難である。本研究では、多孔質グラフェン-MXene複合材料を用いた超感電界効果トランジスタアレイを構築し、デバイスサイズの大きなエクソソーム検出におけるDebyeスクリーニング限界を克服した。さらに、相乗的界面効果により受容体結合密度を向上させ、高感度を実現。検出限界は200エクソソーム/ml（従来の抗体ベース法より約3桁低い）で、広い検出範囲（約10^5/ml）を示した。血漿中small extracellular vesicle（sEV）由来のE2F5バイオマーカーを用いた検証では、PC、BPH、HCを高精度に識別し、PCの悪性度評価にも有効であった。本プラットフォームは、非侵襲的な前立"
+      },
+      {
+        "title": "Circular RNAs in Oral Squamous Cell Carcinoma: A Systematic Review of Emerging Diagnostic and Prognostic Biomarkers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42057369/",
+        "abstract": "Oral squamous cell carcinoma (OSCC) remains a major global health burden, with poor survival rates due to late diagnosis and limited prognostic precision. Circular RNAs (circRNAs) are a novel class of non-coding RNAs characterized by their covalently closed loop structure, conferring stability and tissue specificity. Recent evidence suggests circRNAs hold promise as diagnostic and prognostic biomarkers in OSCC. This article aims to systematically evaluate the diagnostic accuracy, prognostic value, and expression profiles of circRNAs in OSCC. We searched PubMed, Scopus, EBSCO, and Google Scholar databases (inception-August 2025) for studies assessing circRNAs in OSCC. Eligible studies reported diagnostic metrics (sensitivity, specificity, and AUC), prognostic outcomes (hazard ratios [HRs]), or differential expression data. Risk of bias was assessed using QUADAS-2 and NOS. Data were synthesized qualitatively. A total of 29 studies were included. Tissue-based circRNAs showed moderate diagnostic performance (AUC: 0.74-0.81), while saliva- and plasma-derived circRNAs demonstrated higher accuracy (AUC up to 0.922). Prognostic studies revealed oncogenic circRNAs were associated with poor overall survival (pooled OS HR ≈ 2.38), whereas tumor-suppressor circRNAs predicted favorable outcomes (pooled OS HR ≈ 0.43). Exosomal circRNAs, particularly circ-0000199, emerged as independent predictors of recurrence and mortality. CircRNAs exhibit strong potential as diagnostic and prognostic biomarkers in OSCC, particularly in liquid biopsy applications. However, heterogeneity, small sample sizes, and lack of multicenter validation limit immediate clinical translation. Larger, standardized studies are warranted to confirm their utility.",
+        "source": "PubMed",
+        "doi": "10.1055/s-0046-1819725",
+        "keyword": "Exosomes",
+        "title_ja": "口腔扁平上皮癌における環状RNA：新興の診断・予後バイオマーカーに関する系統的レビュー",
+        "summary_ja": "口腔扁平上皮癌（OSCC）は診断の遅れと予後予測の精度不足により生存率が低い。環状RNA（circRNA）は安定性と組織特異性を持つ新規非コードRNAで、OSCCの診断・予後バイオマーカーとして有望視される。本系統的レビューでは、PubMed等のデータベースから29研究を抽出し、診断精度（感度、特異度、AUC）、予後価値（ハザード比[HR]）、発現プロファイルを評価した。組織由来circRNAの診断性能は中等度（AUC: 0.74-0.81）だが、唾液・血漿由来では高精度（AUC最大0.922）を示した。予後解析では、癌遺伝子様circRNAは全生存期間（OS）不良（統合HR≈2.38）、腫瘍抑制型circRNAは良好（統合HR≈0.43）と関連。エクソソームcircRNA（特にcirc-0000199）は再発・死亡の独立予測因子となった。circRNAは特に液体生検での診断・予後バイオマ"
+      },
+      {
+        "title": "Carbomol hydrogels integrating chlorogenic acid-loaded exosomes promote diabetic wound healing through antibacterial and immunomodulatory activities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42057179/",
+        "abstract": "Diabetic wounds represent a significant global clinical challenge, exacerbated by persistent bacterial infection and a dysregulated inflammatory microenvironment. Effective strategies for diabetic wounds are absent. Here, we found that NOD-like receptor thermal protein domain associated protein 3 (NLRP3) is an important regulating molecule associated with inflammatory microenvironment. We engineered Carbomol hydrogels integrating chlorogenic acid-loaded exosomes (Exo-CA@CB) to address both infection and NLRP3-mediated inflammation. The Carbomol hydrogel (CB) matrix provides biocompatibility, adhesion, self-healing properties, and sustained release, while the encapsulated Exo-CA deliver bioactive cargo. In vitro studies demonstrated the potent antibacterial activity of Exo-CA@CB against common wound pathogens. Crucially, Exo-CA@CB effectively promoted macrophage polarization towards the regenerative M2 phenotype. In the infected diabetic wound model, topical application of Exo-CA@CB hydrogels significantly accelerated healing. This study validates a new approach, initiated by single-cell analysis, for developing Exo-CA@CB hydrogels as a promising platform to manage infected diabetic wounds by concurrently tackling infection and NLRP3-driven inflammation.",
+        "source": "PubMed",
+        "doi": "10.1186/s13062-026-00818-z",
+        "keyword": "Exosomes",
+        "title_ja": "カルボモールハイドロゲルにクロロゲン酸内包エクソソームを統合することで、抗菌および免疫調節活性を介した糖尿病性創傷治癒の促進。",
+        "summary_ja": "本論文では、糖尿病性創傷の治癒促進を目的とし、NLRP3が炎症性微小環境の制御分子であることを特定した上で、クロロゲン酸搭載エクソソームを統合したCarbomolハイドロゲル（Exo-CA@CB）を開発した。CBマトリックスは生体適合性、接着性、自己修復能、持続放出能を有し、Exo-CAは生物活性カーゴを送達する。In vitro試験では、Exo-CA@CBが創傷病原菌に対し強力な抗菌活性を示し、マクロファージを再生型M2表現型へ極性化することを確認した。感染糖尿病創傷モデルへの局所適用により、創傷治癒が有意に促進された。本研究は、単一細胞解析に基づき、感染とNLRP3駆動性炎症を同時に標的とする新規治療プラットフォームを実証した。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Neural Stem Cell-Derived Extracellular Vesicles: The Next Frontier in Neurological and Neurodegenerative Diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42060081/",
+        "abstract": "The present manuscript provides a comprehensive overview of neural stem cell (NSC)-derived extracellular vesicles (NSC-EVs( as a cell-free approach to treating central nervous system (CNS) disorders. The study noted that NSCs are regenerative and neuroprotective, but direct transplantation is limited by short survival, immunological rejection, and tumorigenic risk. However, NSC-EVs-nano-sized vesicles loaded with proteins, lipids, and RNAs-can replicate many of their parent cells' benefits without safety or ethical issues. NSC-EVs are the source of numerous biologically active molecular cargoes. Encompassing (BDNF, GDNF, VEGF), signaling lipids, and microRNAs (miR-124, miR-21, miR-146a, miR-219) that are essential in modulating and regulating key processes involved in the induction of neurogenesis, promoting angiogenesis, reducing inflammatory milieu, and improving neuronal survival. In preclinical models of Alzheimer's disease (AD), Parkinson's disease (PD), multiple sclerosis (MS), ischemic stroke, spinal cord injury (SCI), and traumatic brain injury (TBI), these vesicles reduce oxidative stress, suppress apoptosis, modulate microglia activation, enhance synaptic plasticity, and promote remyelination. Numerous translational obstacles remain, including heterogeneous EV isolation techniques, limited scalability of clinical-grade manufacturing, and inconsistent elucidation of long-term safety and biodistribution. This review discusses the therapeutic potential of NSC-EVs for neurological and neurodegenerative diseases. Additionally, leveraging the powerful, precise analytical capabilities of Artificial Intelligence (AI) with recent multi-omics data from NSC-EVs will improve the characterization and predictability of therapeutic efficacy. Combining the therapeutic potential of stem cells with the non-invasive, practical, and safe cell-free biologic is expected to transform regenerative neuroscience. A promising aim that requires establishing a multidisciplinary approach among neuroscientists, bioengineers, and clinicians to standardize the isolation process, validate the underlying mechanistic information, and test their therapeutic potential at the clinical level. The present review concludes that NSC-EVs are a promising research topic in regenerative neurotherapy, offering a potential therapeutic strategy for incurable neurological and neurodegenerative diseases.",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11129-1",
+        "keyword": "Exosomes",
+        "title_ja": "神経幹細胞由来の細胞外小胞：神経疾患および神経変性疾患における次の最前線",
+        "summary_ja": "本稿は、神経幹細胞（NSC）由来細胞外小胞（NSC-EV）による中枢神経系疾患の無細胞治療を総説する。NSC移植は生存期間短縮、免疫拒絶、腫瘍化リスクがあるが、NSC-EVはタンパク質、脂質、RNAを含むナノサイズ小胞で、親細胞の利点を安全に再現する。BDNF、GDNF、VEGF、miR-124、miR-21、miR-146a、miR-219などの分子カーゴを搭載し、神経新生、血管新生、抗炎症、神経生存を促進。アルツハイマー病、パーキンソン病、多発性硬化症、脳卒中、脊髄損傷、外傷性脳損傷の前臨床モデルで酸化ストレス低減、アポトーシス抑制、ミクログリア調節、シナプス可塑性向上、再髄鞘化促進を示す。課題はEV単離法の不均一性、臨床グレード製造のスケーラビリティ、長期安全性と生体内分布の解明不足。AIとマルチオミクスデータの活用で特性評価と治療効果予測が向上し、再生神経科学の変革が期待される。標"
+      },
+      {
+        "title": "RPS6KA3/RSK2-mediated phosphorylation of DRAM2 promotes lysosomal targeting and autophagic flux in melanoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42059423/",
+        "abstract": "Macroautophagy/autophagy is a critical process for maintaining cellular homeostasis and has emerging implications in cancer biology. DRAM2 (DNA damage regulated autophagy modulator 2), a transmembrane protein enriched at lysosomal membranes, has been implicated in autophagy regulation; however, the upstream mechanisms governing its trafficking and function remain unclear. In this study, we identified RPS6KA3/RSK2, a stress-responsive kinase downstream of the MAPK pathway, as a novel upstream kinase of DRAM2. RPS6KA3/RSK2 interacted with and phosphorylated DRAM2 at Ser263 within its cytosolic tail. This phosphorylation was required for AP3D1/AP-3-dependent trafficking of DRAM2 to the late endosomal-lysosomal pathway, thereby facilitating autolysosome formation and sustaining autophagic flux. In contrast, the non-phosphorylatable DRAM2",
+        "source": "PubMed",
+        "doi": "10.1080/15548627.2026.2667375",
+        "keyword": "Exosomes",
+        "title_ja": "RPS6KA3/RSK2を介したDRAM2のリン酸化がメラノーマにおけるリソソーム標的化とオートファジーフラックスを促進する",
+        "summary_ja": "RPS6KA3/RSK2によるDRAM2のリン酸化がメラノーマにおけるリソソーム標的化とオートファジーフラックスを促進するという内容。マクロオートファジーは細胞恒常性維持に重要で、癌生物学において注目される。DRAM2はリソソーム膜に局在する膜タンパク質で、オートファジー調節に関与するが、その輸送と機能の上流機構は不明であった。本研究では、MAPK経路下流のストレス応答キナーゼRPS6KA3/RSK2がDRAM2の新規上流キナーゼであることを同定。RSK2はDRAM2の細胞質尾部Ser263をリン酸化し、このリン酸化がAP3D1/AP-3依存的なDRAM2の後期エンドソーム-リソソーム経路への輸送に必須であり、オートリソソーム形成とオートファジーフラックス維持を促進した。一方、リン酸化不能なDRAM2変異体はこれらの機能を示さなかった。"
+      },
+      {
+        "title": "Immunomodulatory Effects of Human Breast Milk-Derived Exosomes on Myeloid Cells and Chondrocytes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42059038/",
+        "abstract": "Human breast milk (HBM) is an ideal nutritional source for the growth and development of infants. In addition, HBM contains hormones, growth factors, microRNAs and exosomes that perform various physiological functions. This study investigates the immunomodulatory effects of HBM-derived exosomes on myeloid cells and chondrocytes, and implications for juvenile idiopathic arthritis. HBM-derived exosomes were isolated and characterized using nanoparticle track analyzer and Western blotting. The HBM-derived exosomes treatment decreased the expression of inflammatory mediators and proinflammatory cytokines in mouse peritoneal macrophages upon lipopolysaccharide stimulation. Flow cytometry analysis of bone marrow-derived macrophages indicated that exosomes promoted M2 polarization, as evidenced by a decrease in cells expressing CD80 (M1 marker) and a concurrent increase in cells expressing M2 marker CD206. In addition, exosome treatment attenuated the mitogen-activated protein kinase signaling pathway by reducing the phosphorylation of extracellular signal-regulated kinase, c-Jun N-terminal kinase, p38 mitogen-activated protein kinase, and IκB-α, thereby reducing the expression of inducible nitric oxide synthase, cyclooxygenase-2, metalloprotease (MMP)-1, MMP-3, and MMP-13 in SW1353 chondrocytes following IL-1β stimulation. These findings suggest that HBM-derived exosomes promote macrophage polarization toward an anti-inflammatory M2 phenotype and exert significant immunomodulatory effects.",
+        "source": "PubMed",
+        "doi": "10.4062/biomolther.2025.229",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト母乳由来エクソソームの骨髄系細胞および軟骨細胞に対する免疫調節効果",
+        "summary_ja": "ヒト母乳（HBM）由来エクソソームの骨髄系細胞及び軟骨細胞に対する免疫調節効果を検討した。HBMエクソソームは、ナノ粒子追跡分析とウェスタンブロットで特性評価された。リポ多糖刺激マウス腹腔マクロファージにおいて、エクソソーム処理は炎症性メディエーターとサイトカインの発現を低下させた。フローサイトメトリー解析では、骨髄由来マクロファージのM2分極が促進され、M1マーカーCD80発現細胞が減少し、M2マーカーCD206発現細胞が増加した。また、SW1353軟骨細胞においてIL-1β刺激後のERK、JNK、p38 MAPK、IκB-αのリン酸化を抑制し、iNOS、COX-2、MMP-1、MMP-3、MMP-13の発現を低下させた。これらの結果は、HBMエクソソームが抗炎症性M2表現型へのマクロファージ分極を促進し、若年性特発性関節炎への応用可能性を示唆する。"
+      },
+      {
+        "title": "The role of serum exosomal miR-23a-3p and miR-375-3p in acute ischemic stroke.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42058121/",
+        "abstract": "Objectives：Serum exosomal miRNAs are promising biomarkers and therapeutic targets for multiple diseases, but their expression profiles and functions in acute ischemic stroke (AIS) remain unclear. This study aimed to clarify the expression characteristics of serum exosomal miRNAs in AIS and explore the regulatory roles of key miRNAs in AIS progression.Methods：We first detected serum exosomal miRNA expression profiles of AIS patients and healthy controls via RNA-seq, then validated candidate miRNA levels using qRT-PCR. Enzyme-linked immunosorbent assay (ELISA) was employed to measure serum levels of antithrombotic proteins [thrombomodulin (TM), endothelial NO synthase (eNOS), tissue plasminogen activator (t-PA)]. The regulatory effects of differentially expressed miRNAs on these proteins were verified in human umbilical vein endothelial cells (HUVEC) via transfection assays. Statistical analyses were performed using SPSS 26 and GraphPad Prism 8.Results：Compared with healthy controls, AIS patients exhibited significantly decreased serum exosomal levels of miR-23a-3p, miR-375-3p, and miR-122-5p, along with elevated serum TM, eNOS, and t-PA levels. miR-23a-3p and miR-375-3p could modulate the expression of TM, eNOS, and t-PA in HUVEC, and this regulatory relationship may be direct or indirect. The combination of these miRNAs and proteins achieved moderate predictive efficacy for AIS occurrence.Discussion：This study identifies serum exosomal miR-23a-3p and miR-375-3p as potential biomarkers for AIS and reveals their regulatory role in antithrombotic protein expression, providing novel insights into AIS's molecular mechanism and diagnostic strategies.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ibneur.2026.04.006",
+        "keyword": "Exosomes",
+        "title_ja": "血清エクソソームmiR-23a-3pおよびmiR-375-3pの急性虚血性脳卒中における役割",
+        "summary_ja": "本論文は、急性虚血性脳卒中（AIS）における血清エクソソームmiRNAの発現特性と機能を検討した。RNA-seqとqRT-PCRにより、AIS患者では健常対照群と比較して血清エクソソーム中のmiR-23a-3p、miR-375-3p、miR-122-5pが有意に低下し、血清中の抗血栓タンパク質（thrombomodulin、eNOS、t-PA）が上昇した。HUVECを用いたトランスフェクション実験により、miR-23a-3pとmiR-375-3pがこれらのタンパク質発現を直接的または間接的に調節することを確認した。これらのmiRNAとタンパク質の組み合わせは、AIS発症に対して中程度の予測能を示した。本研究は、血清エクソソームmiR-23a-3pとmiR-375-3pがAISの新規バイオマーカーとなり得ること、および抗血栓タンパク質発現調節を介したAIS分子機構への関与を明らかにした。"
+      },
+      {
+        "title": "Exosomes derived from BMSCs regulate macrophage M1/M2 polarization and promoting tendon-bone healing through circRNA1052.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42057204/",
+        "abstract": "The high retear rate post tendon-bone reconstructive surgery is attributed to scar tissue replacing fibrocartilage, which compromises mechanical properties. Macrophages play a pivotal role in this process. Bone marrow mesenchymal stem cells-derived exosome (BMSCs-Exo) have emerged as a promising biological therapeutic approach. However, their role and underlying mechanisms in regulating macrophage polarization and tendon-bone healing require further investigation.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05042-0",
+        "keyword": "Exosomes",
+        "title_ja": "BMSCs由来のエクソソームがcircRNA1052を介してマクロファージのM1/M2分極を調節し、腱骨癒合を促進する",
+        "summary_ja": "BMSCs由来エクソソームは、circRNA1052を介してマクロファージのM1/M2分極を制御し、腱骨癒合を促進する。腱骨再建術後の再断裂率の高さは、線維軟骨が瘢痕組織に置換され力学的特性が低下することに起因する。マクロファージはこの過程で重要な役割を担う。骨髄間葉系幹細胞由来エクソソーム（BMSCs-Exo）は有望な生物学的治療法として注目されるが、マクロファージ分極調節と腱骨癒合におけるその役割とメカニズムは未解明である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Tissue-derived small extracellular vesicles in cancer diagnosis and prognosis: current insights and future directions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42057136/",
+        "abstract": "Cancer remains one of the leading causes of human death worldwide. Small extracellular vesicles (sEVs) are nanoscale particles that play important roles in intercellular communication in cancer and represent a valuable source for cancer biomarker discovery. Tissue-derived small extracellular vesicles (Ti-sEVs) are a specific subtype of sEVs and have attracted increasing attention as an emerging research area in cancer diagnostics and therapeutics. Recent progress has highlighted the distinct advantages of Ti-sEVs, including greater cancer specificity, minimal exogenous contamination, enhanced potential for cancer biomarker discovery and understanding tumour microenvironment (TME) dynamics.",
+        "source": "PubMed",
+        "doi": "10.1186/s12964-026-02894-0",
+        "keyword": "sEVs",
+        "title_ja": "組織由来の小型細胞外小胞によるがん診断と予後評価：現在の知見と将来の展望",
+        "summary_ja": "がんは世界の主要死因の一つである。小型細胞外小胞（sEVs）はナノスケール粒子で、がん細胞間情報伝達に重要な役割を果たし、バイオマーカー発見の貴重な源となる。組織由来小型細胞外小胞（Ti-sEVs）はsEVsの特定サブタイプであり、がん診断・治療の新興研究領域として注目を集めている。近年の進展により、Ti-sEVsは高いがん特異性、外因性汚染の最小化、がんバイオマーカー発見の可能性向上、腫瘍微小環境（TME）動態の理解促進といった明確な利点が示されている。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **α-Klothoと老化・フレイルのメタ分析**：Klothoは抗老化タンパク質として知られ、本レビューはフレイルや認知機能など多面的な老化アウトカムとの関連を初めて統合的に評価。今後の老化予防・介入研究の基盤となる。\n\n2. **シアノバクテリア由来エクソソームによる脳疾患診断治療**：天然由来の近赤外自家蛍光エクソソーム（sExos）が血液脳関門を通過し、低毒性で高感度な脳イメージングと神経保護を実現。従来のプローブの課題を克服する革新的プラットフォーム。\n\n3. **BMSCs由来エクソソームによる腱骨癒合促進**：circRNA1052を介したマクロファージM1/M2分極制御により、腱骨再建後の瘢痕化を抑制。整形外科領域でのエクソソーム治療の実用化に道を開く。\n\n4. **組織由来sEVsのがん診断応用**：組織由来小型細胞外小胞（Ti-sEVs）は、血液由来より腫瘍微小環境を直接反映し、高精度な診断・予後予測が可能。液体生検の限界を補う次世代バイオマーカー源として期待。\n\n5. **母乳由来エクソソームの免疫調節効果**：ヒト母乳エクソソームがマクロファージや軟骨細胞の炎症を抑制。自然で安全な免疫療法素材として、炎症性疾患や関節症への応用が展望される。"
+}

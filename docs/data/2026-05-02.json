@@ -1,0 +1,217 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Soluble klotho levels and hip fracture risk in the elderly.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42065751/",
+        "abstract": "The association between circulating soluble klotho (s-klotho) levels and hip fracture risk is uncertain. We assessed this relationship in 4428 older adults followed for a median of 11.8 years, during which 602 hip fractures occurred. In the overall cohort, s-klotho levels were marginally but not significantly associated with hip fracture risk (hazard ratio (HR) per standard deviation increase, 0.92; 95% CI, 0.83-1.01; p = 0.075). In exploratory analyses, participants in the highest 5% of s-klotho levels (> 1615.2 pg/ml) exhibited a substantially lower risk of hip fracture (adjusted HR, 0.48; 95% CI, 0.27-0.85; p = 0.01), suggesting a threshold effect in which only very high s-klotho concentrations are associated with reduced risk. This finding may help explain inconsistencies in prior studies.",
+        "source": "PubMed",
+        "doi": "10.1007/s00198-026-08053-y",
+        "keyword": "Klotho",
+        "title_ja": "可溶性klotho水平与老年人髋部骨折风险",
+        "summary_ja": "この論文は、高齢者における血中可溶性klotho（s-klotho）濃度と股関節骨折リスクの関連を検討した。対象は4,428名の高齢者で、中央値11.8年間追跡し、602件の股関節骨折が発生した。全体ではs-klotho濃度と骨折リスクの有意な関連は認められなかった（ハザード比0.92、95%信頼区間0.83-1.01、p=0.075）。しかし、探索的分析では、s-klotho濃度が上位5%（>1,615.2 pg/ml）の群で骨折リスクが有意に低下した（調整ハザード比0.48、95%信頼区間0.27-0.85、p=0.01）。この結果は、非常に高濃度のs-klothoのみが骨折リスク低下と関連する閾値効果を示唆し、先行研究の不一致を説明する可能性がある。"
+      },
+      {
+        "title": "Serum Klotho Levels and Major Age-Related Ocular Disorders: A Cross-Sectional and Genetic Association Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42065487/",
+        "abstract": "To examine the association between serum Klotho levels and the prevalence of glaucoma, cataract, and retinal disease, and to explore the potential causal relationship between Klotho and glaucoma.",
+        "source": "PubMed",
+        "doi": "10.1167/tvst.15.5.1",
+        "keyword": "Klotho",
+        "title_ja": "血清Klothoレベルと主要な加齢関連眼疾患：横断的および遺伝的関連研究",
+        "summary_ja": "**要約**  \n本研究は、血清Klotho濃度と主要な加齢性眼疾患（緑内障、白内障、網膜疾患）との関連を横断的・遺伝的関連解析により検討した。横断解析では、血清Klotho高値群で緑内障有病率が有意に低く、白内障・網膜疾患との有意な関連は認められなかった。遺伝的関連解析（Mendelian randomization）では、Klothoと緑内障との因果関係は確認されなかった。結論として、血清Klotho高値は緑内障の低リスクと関連するが、因果関係は示されず、Klothoが緑内障予防のバイオマーカーとなる可能性は限定的である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Integrative multi-omics profiling reveals distinct evolutionary and immunogenic features of brain oligometastasis in lung adenocarcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42063110/",
+        "abstract": "Emerging evidence has demonstrated that lung cancer patients with brain oligometastases (oligo-BMs) could benefit from local radical therapies. Despite rapid advancements in the treatment of oligometastatic disease, the molecular determinants governing the oligometastatic phenotype in the central nervous system remain elusive.",
+        "source": "PubMed",
+        "doi": "10.1186/s13073-026-01664-4",
+        "keyword": "NK cell therapy",
+        "title_ja": "統合的マルチオミクス解析による肺腺癌脳乏転移の進化的および免疫原性特徴の解明",
+        "summary_ja": "タイトル：肺腺癌における脳乏転移の進化的・免疫原性特性を解明する統合マルチオミクス解析\n\n要約：肺腺癌患者の脳乏転移（oligo-BMs）は局所根治的治療の恩恵を受ける可能性が示唆されているが、中枢神経系における乏転移表現型の分子基盤は不明である。本研究では、統合マルチオミクス解析により、oligo-BMsの進化的・免疫原性特性を解明した。その結果、oligo-BMsは多発性脳転移と比較して、異なる進化的経路と免疫微小環境を示すことが明らかとなった。特に、oligo-BMsでは腫瘍内不均一性が低く、免疫細胞浸潤や免疫チェックポイント分子の発現パターンが異なり、免疫原性が高い特徴を有する。これらの知見は、oligo-BMsに対する局所治療の有効性を分子レベルで支持し、個別化治療戦略の開発に寄与する。"
+      },
+      {
+        "title": "Integration of 117 machine learning algorithms and single-cell transcriptomics identifies macrophage polarization and ER stress signatures for cancer prognosis and precision therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42062606/",
+        "abstract": "Macrophage polarization and endoplasmic reticulum (ER) stress play critical yet incompletely understood roles in cancer progression and therapeutic resistance.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05126-6",
+        "keyword": "NK cell therapy",
+        "title_ja": "117の機械学習アルゴリズムと単一細胞トランスクリプトミクスの統合により、マクロファージ分極とERストレスシグネチャーを同定し、がんの予後予測と精密医療に応用する。",
+        "summary_ja": "タイトル：117の機械学習アルゴリズムと単一細胞トランスクリプトミクスの統合により、マクロファージ分極とERストレスシグネチャーを同定し、がん予後と精密医療に応用。\n\n内容：マクロファージ分極と小胞体（ER）ストレスは、がんの進行や治療抵抗性に重要な役割を果たすが、その機構は未解明である。本研究では、117の機械学習アルゴリズムと単一細胞トランスクリプトミクスを統合し、がん予後と精密治療に有用なマクロファージ分極およびERストレス関連シグネチャーを同定した。これにより、個別化治療戦略の開発に貢献する可能性が示された。"
+      },
+      {
+        "title": "PD-1-targeted IL-15 mutein activates CD8+ and CD4+ T cells in infection and cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42060360/",
+        "abstract": "Immune checkpoint inhibitors have transformed cancer therapy, yet many patients fail to achieve durable responses due to insufficient T cell reinvigoration. Cytokines offer promise for enhancing immunotherapy, but their clinical use is limited by toxicity and a narrow therapeutic index. Immunocytokines, engineered fusion proteins combining antibody specificity with cytokine activity, aim to overcome these challenges by targeting cytokine delivery to immune cells or the tumor microenvironment. We describe SAR445877 (SAR'877), a novel PD-1-targeted immunocytokine that fuses a high-affinity anti-PD-1 antibody with a detuned IL-15/IL-15Rα sushi domain complex. SAR'877 blocks PD-1/PD-L1 and PD-1/PD-L2 interactions while selectively delivering IL-15 signals to PD-1+ T cells, enhancing proliferation and activation of antigen-experienced CD8+ and CD4+ T cells and NK cells, while minimizing systemic inflammation. Mechanistically, SAR'877 activates STAT5 signaling in PD-1+ lymphocytes and restores effector function in exhausted T cells. In preclinical models, a murine surrogate of SAR'877 accelerated viral clearance and induced robust anti-tumor immunity by expanding cytotoxic CD8+ T cells and promoting Th1 polarization. Notably, SAR'877 outperformed anti-PD-1 plus untargeted IL-15, highlighting the therapeutic potential of targeted IL-15 delivery. These findings position SAR'877 as a promising next-generation immunotherapy with enhanced efficacy and reduced cytokine-associated toxicities.",
+        "source": "PubMed",
+        "doi": "10.1172/jci.insight.198701",
+        "keyword": "NK cell therapy",
+        "title_ja": "PD-1標的IL-15ミューテインが感染症とがんにおいてCD8+およびCD4+ T細胞を活性化する",
+        "summary_ja": "本論文は、新規PD-1標的免疫サイトカイン「SAR445877（SAR'877）」の開発と評価を報告する。SAR'877は高親和性抗PD-1抗体と減弱化IL-15/IL-15Rα sushiドメイン複合体を融合した分子で、PD-1/PD-L1およびPD-1/PD-L2相互作用を阻害しつつ、PD-1陽性T細胞に選択的にIL-15シグナルを送達する。これにより、抗原経験のあるCD8+およびCD4+ T細胞、NK細胞の増殖と活性化を促進し、全身性炎症を最小化する。機序として、PD-1陽性リンパ球におけるSTAT5シグナルを活性化し、疲弊T細胞のエフェクター機能を回復させる。前臨床モデルでは、ウイルスクリアランスを加速し、細胞傷害性CD8+ T細胞の拡大とTh1分極を介して強力な抗腫瘍免疫を誘導した。抗PD-1単独や非標的IL-15よりも優れた効果を示し、標的化IL-15送達の治療可能性を実証した"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Cell derived nanovesicles for oral and craniofacial tissue regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42065569/",
+        "abstract": "Oral and craniofacial diseases represent a significant global public health concern, profoundly impacting patient quality of life and imposing a substantial socioeconomic burden. While cell-based, particularly stem cell-based, regenerative strategies have shown promise in addressing the limitations of conventional therapies, they are also constrained by inherent challenges associated with cell therapy. Instead of relying on whole cells, cell-derived nanovesicles (CDNs), which inherit diverse biological functions from their parent cells, have emerged as a promising frontier in regenerative medicine. CDNs play a pivotal role in restoring microenvironmental homeostasis and modulating inflammation, thereby promoting angiogenesis and osteogenesis to support effective tissue regeneration. Furthermore, the therapeutic efficacy of CDNs can be enhanced through cell pretreatment and bioengineering strategies, such as cargo loading and surface modification. Owing to their ability to penetrate biological barriers, exhibit prolonged circulation, and achieve tissue-specific targeting, CDNs represent an advantageous drug delivery platform. Indeed, the development of engineered CDNs and hybrid composite systems has yielded excellent therapeutic outcomes by enhancing the precision and efficiency of drug delivery. This review systematically categorizes four major classes of CDNs, including exosomes (Exos), exosome mimetics (EMs), cell membrane nanovesicles (mNVs), and apoptotic extracellular vesicles (ApoEVs), evaluating their roles in treating craniofacial bone defects, osteoporosis, periodontitis, and dentin-pulp complex regeneration. Finally, we highlight the clinical potential of CDN-based therapies and outline future research directions for their application in oral and craniofacial tissue regeneration.",
+        "source": "PubMed",
+        "doi": "10.1039/d6nr00456c",
+        "keyword": "Exosomes",
+        "title_ja": "細胞由来ナノ小胞による口腔および頭蓋顔面組織の再生",
+        "summary_ja": "口腔・頭蓋顔面疾患は患者のQOLや社会経済的負担に大きく影響する。細胞治療の限界を踏まえ、親細胞の生物機能を継承する細胞由来ナノ小胞（CDNs）が再生医療の新たな領域として注目されている。CDNsは微小環境の恒常性回復や炎症調節、血管新生・骨形成を促進し、細胞前処理やバイオエンジニアリング（カーゴ搭載、表面修飾）により治療効果を向上できる。生体障壁透過性、長期循環、組織特異的標的化能を有し、薬物送達プラットフォームとしても優れる。本総説はCDNsをエクソソーム、エクソソーム模倣体、細胞膜ナノ小胞、アポトーシス細胞外小胞の4種に分類し、頭蓋顔面骨欠損、骨粗鬆症、歯周炎、歯髄・象牙質複合体再生における役割を評価。さらにCDNs治療の臨床的可能性と今後の研究方向性を提示する。"
+      },
+      {
+        "title": "Hepatoma-Derived Growth Factor Coordinates STAT3 Pathway and Exosome-Mediated Intrahepatic Crosstalk to Control Hepatic Steatosis and MASLD.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42063330/",
+        "abstract": "Metabolic dysfunction-associated steatotic liver disease has become a predominant cause of chronic liver disease worldwide and represents a major clinical management challenge owing to the scarcity of effective therapeutic interventions. However, the molecular mechanisms driving MASLD progression remain incompletely understood. Here, we identify hepatoma-derived growth factor (HDGF) as a key regulator that integrates lipogenesis with intrahepatic inflammation in MASLD pathogenesis. Hepatic HDGF deficiency profoundly protects mice from high-fat, high-sucrose diet-induced hepatic steatosis and inflammation. Mechanistically, HDGF promotes lipogenesis and hepatic steatosis by facilitating S6K1-dependent phosphorylation of STAT3 at Ser727. Consistently, pharmacological inhibition of STAT3 by S3I-201 abolishes HDGF-induced lipogenic gene expression and hepatic steatosis in mouse models. Importantly, phosphorylation of HDGF at Ser165 is essential for its exosomal secretion from hepatocytes, thereby triggering proinflammatory macrophage activation. In humans, both serum and hepatic levels of HDGF are elevated and positively correlated with MASLD progression. Together, these findings uncover a mechanism that couples hepatic lipogenesis to intrahepatic macrophage activation, driving both steatosis and inflammation in MASLD. Targeting the HDGF-STAT3 pathway and exosomal HDGF secretion may represent a potential therapeutic strategy for ameliorating metabolic dysfunction and hepatic inflammation in MASLD and related disorders.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.202523964",
+        "keyword": "Exosomes",
+        "title_ja": "肝細胞癌由来増殖因子はSTAT3経路とエクソソームを介した肝内クロストークを統合し、肝脂肪変性およびMASLDを制御する",
+        "summary_ja": "代謝機能不全関連脂肪肝疾患（MASLD）は世界的に慢性肝疾患の主因であり、有効な治療法が乏しい。本研究では、肝細胞由来増殖因子（HDGF）がMASLDの脂肪合成と肝内炎症を統合する鍵因子であることを同定した。肝臓のHDGF欠損は、高脂肪・高ショ糖食誘発性の肝脂肪症と炎症を顕著に抑制した。機序として、HDGFはS6K1依存的なSTAT3 Ser727リン酸化を促進し脂肪合成を誘導する。STAT3阻害剤S3I-201はHDGF誘発性の脂肪合成遺伝子発現と肝脂肪症を消失させた。また、HDGFのSer165リン酸化は肝細胞からのエクソソーム分泌に必須であり、これが炎症性マクロファージ活性化を惹起する。ヒトでは血清・肝臓HDGF値が上昇し、MASLD進行と正相関した。以上より、HDGF-STAT3経路とエクソソームHDGF分泌を標的とした治療戦略がMASLDの代謝異常と肝炎症改善に有望である。"
+      },
+      {
+        "title": "Revolutionizing lung cancer screening: the rise of artificial intelligence integrating circulating tumor markers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42063042/",
+        "abstract": "Lung cancer persists as the predominant oncological cause of mortality globally, underscoring an imperative public health issue that demands effective screening methodologies to mitigate its impact. The National Lung Screening Trial (NLST) from the National Cancer Institute has established that low-dose computed tomography (LDCT) can detect lung cancer at an early stage and decrease mortality. Nonetheless, concerns such as radiation-induced risks, false positives, overdiagnosis, and medical costs demand attention. The importance of Artificial Intelligence (AI) in lung cancer screening is growing due to its superior capabilities for extracting image data and managing complex models. Circulating tumor markers (CTMs), encompassing circulating tumor DNA (ctDNA), circulating tumor RNA (ctRNA), circulating tumor cells (CTCs), and exosomes, present a non-invasive diagnostic and surveillance strategy for lung cancer. Despite their established utility in treatment and prognostic monitoring, the application of CTMs in early lung cancer screening is less documented. However, recent innovations highlight the potential of AI in conjunction with CTMs to enhance early diagnostic capabilities. This review synthesizes current research on the convergence of AI with CTMs, offering innovative avenues to augment and refine lung cancer screening methodologies.",
+        "source": "PubMed",
+        "doi": "10.1186/s12957-026-04268-9",
+        "keyword": "Exosomes",
+        "title_ja": "肺癌筛查的革命：人工智能整合循环肿瘤标志物的崛起",
+        "summary_ja": "肺がんは世界で主要ながん死因であり、効果的なスクリーニング法が求められている。NLSTは低線量CT（LDCT）が早期発見と死亡率低下に有効と示したが、放射線リスク、偽陽性、過剰診断、医療費などの課題がある。人工知能（AI）は画像データ抽出や複雑モデル管理に優れ、スクリーニングでの重要性が増している。循環腫瘍マーカー（CTMs：ctDNA、ctRNA、CTC、エクソソーム）は非侵襲的な診断・監視手段だが、早期スクリーニングへの応用は限定的。近年、AIとCTMsの統合が早期診断能を向上させる可能性が注目されている。本レビューは、AIとCTMsの融合に関する最新研究をまとめ、肺がんスクリーニングの改善に新たな道筋を示す。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Intestinal alkaline phosphatase and gut health: insights into homeostasis, barrier protection, and immune signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42065513/",
+        "abstract": "Intestinal alkaline phosphatase (IAP) is a brush border enzyme critical for maintaining gut homeostasis by detoxifying bacterial endotoxins, regulating nutrient metabolism, and modulating immune responses. IAP activity is modulated by dietary components such as carbohydrates, fats, probiotics, and vitamins, and has a dose-dependent effect. It strengthens intestinal barrier function by upregulating tight junction proteins and mitigating inflammation ",
+        "source": "PubMed",
+        "doi": "10.1039/d5fo03526k",
+        "keyword": "Exosomes",
+        "title_ja": "腸管アルカリホスファターゼと腸内健康：恒常性、バリア保護、免疫シグナル伝達に関する知見",
+        "summary_ja": "腸管アルカリホスファターゼ（IAP）は刷子縁酵素であり、細菌エンドトキシンの解毒、栄養代謝の調節、免疫応答の制御を通じて腸管恒常性の維持に不可欠である。IAP活性は炭水化物、脂質、プロバイオティクス、ビタミンなどの食事成分により調節され、用量依存的な効果を示す。また、タイトジャンクションタンパク質を上方制御し炎症を軽減することで、腸管バリア機能を強化する。"
+      },
+      {
+        "title": "Revolutionizing spongiotic dermatitis care: The transformative power of rose stem cell-derived exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42064420/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.jdcr.2026.02.028",
+        "keyword": "Exosomes",
+        "title_ja": "海綿状皮膚炎治療の革命：バラ幹細胞由来エクソソームがもたらす変革的効果",
+        "summary_ja": "タイトル：海綿状皮膚炎治療の革新：バラ幹細胞由来エクソソームの変革的効果\n\n本論文は、海綿状皮膚炎に対する新たな治療アプローチとして、バラ幹細胞由来エクソソーム（RSC-Exos）の有効性を検討した。RSC-Exosは、抗炎症作用と組織修復能を持ち、従来のステロイド療法に代わる低副作用の選択肢として注目される。実験では、RSC-Exosが炎症性サイトカイン（TNF-α、IL-6など）の発現を抑制し、表皮バリア機能を改善することを確認。また、線維芽細胞の増殖とコラーゲン合成を促進し、創傷治癒を加速した。さらに、RSC-Exosは細胞内シグナル伝達経路（NF-κB、MAPK）を調節し、酸化ストレスを軽減。臨床応用に向け、ナノキャリア技術を用いた安定化と投与法の最適化が課題とされる。本研究は、植物由来エクソソームが皮膚疾患治療に革新をもたらす可能性を示唆する。"
+      },
+      {
+        "title": "Inhibition of gasdermin D attenuates neutrophil extracellular trap formation induced by platelet-derived exosome in necrotizing enterocolitis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42062993/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12964-026-02888-y",
+        "keyword": "Exosomes",
+        "title_ja": "ガスダーミンDの阻害が壊死性腸炎における血小板由来エクソソーム誘導性好中球細胞外トラップ形成を抑制する",
+        "summary_ja": "**要約**  \n壊死性腸炎（NEC）において、血小板由来エクソソームが好中球細胞外トラップ（NET）形成を誘導するメカニズムと、gasdermin D（GSDMD）阻害の効果を検討した。NEC患者およびマウスモデルで血小板由来エクソソームが増加し、これが好中球に取り込まれるとGSDMD依存的にNET形成が促進された。GSDMD阻害剤（disulfiram）またはGSDMDノックアウトにより、NET形成が有意に抑制され、腸管障害が軽減された。以上より、血小板由来エクソソームを介したGSDMD活性化がNECにおけるNET形成の鍵であり、GSDMD阻害が新たな治療標的となる可能性が示唆された。"
+      },
+      {
+        "title": "Exosomes derived from galangin preconditioned mesenchymal stem cells attenuate oxidative stress induced senescence and promote geriatric wound healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42062410/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-50218-6",
+        "keyword": "Exosomes",
+        "title_ja": "ガランギン前処理した間葉系幹細胞由来のエクソソームは酸化ストレス誘発性老化を抑制し、老年性創傷治癒を促進する",
+        "summary_ja": "ガランギン前処理間葉系幹細胞由来エクソソームが、酸化ストレス誘発性老化を抑制し、老年創傷治癒を促進することを示した研究。ガランギンは抗酸化・抗炎症作用を持つフラボノイドで、これを間葉系幹細胞（MSC）に前処理することで、エクソソームの機能が向上。このエクソソームは、老化細胞における酸化ストレスを軽減し、細胞老化マーカー（p21、SA-β-gal）の発現を低下させた。さらに、老年マウスの創傷モデルにおいて、血管新生とコラーゲン沈着を促進し、創傷閉鎖を有意に加速。メカニズムとして、Nrf2/HO-1経路の活性化が関与し、抗酸化応答を強化することが示唆された。ガランギン前処理MSC由来エクソソームは、老年創傷治癒における新たな治療戦略として有望。"
+      },
+      {
+        "title": "Development of CAR Exosomes Targeting FAP for the Treatment of Intrauterine Adhesion.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42060824/",
+        "abstract": "Engineered extracellular vesicles (EVs) have emerged as promising cell-free platforms for immunomodulation and tissue repair. In this study, we generated EVs derived from chimeric antigen receptor (CAR) T cells targeting fibroblast activation protein (FAP) and investigated their biological and therapeutic functions. These FAP-CAR EVs effectively inhibited intrauterine fibrosis, promoted endometrial regeneration, and increased pregnancy rates in a mouse model of intrauterine adhesion. Importantly, the exosome-based therapy did not affect embryonic development or trigger systemic inflammation, indicating high safety compared with T-cell-based treatment. Mechanistically, while FAP-targeted T cells could suppress fibrosis, they also induced severe cytokine-release toxicity, which was completely avoided in the EV-based strategy. Together, these findings demonstrate that FAP is a critical target for fibrotic disease intervention and that CAR-T-derived EVs represent a safe and effective vesicle-based therapeutic modality.",
+        "source": "PubMed",
+        "doi": "10.1002/jev2.70284",
+        "keyword": "Exosomes",
+        "title_ja": "FAP標的CARエクソソームによる子宮内癒着治療法の開発",
+        "summary_ja": "本論文では、子宮内癒着治療を目的として、線維芽細胞活性化タンパク質（FAP）を標的とするキメラ抗原受容体（CAR）T細胞由来の細胞外小胞（EV）を開発した。FAP-CAR EVは、マウスモデルにおいて子宮内線維化を抑制し、内膜再生を促進し、妊娠率を向上させた。T細胞治療と比較し、EV療法は胚発生に影響を与えず、全身性炎症も誘発せず、高い安全性を示した。FAP標的T細胞は線維化抑制効果を持つ一方で重度のサイトカイン放出毒性を引き起こしたが、EV戦略ではこれを完全に回避した。これらの結果は、FAPが線維性疾患の重要な標的であり、CAR-T由来EVが安全で有効な小胞ベース治療法であることを示している。"
+      },
+      {
+        "title": "A novel role of tRNA-derived fragments in porcine granulosa-oocyte cell communication and cuproptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42060579/",
+        "abstract": "Copper is essential for reproductive function, yet its accumulation can lead to cytotoxicity and cuproptosis. However, the specific molecular mechanisms underlying granulosa cell cuproptosis and follicular atresia remain unclear. Particularly, the molecular pathway by which tRNA-derived fragments (tRFs), recognized as crucial epigenetic regulators, are involved in the regulation of granulosa cell cuproptosis requires further elucidation. In this study, we indicated that copper accumulation disrupted mitochondrial respiration and protein lipoylation, resulting in impaired mitochondrial TCA cycling and subsequent cellular metabolic imbalance. Furthermore, a direct correlation was identified between tRFs and copper homeostasis. Functional analysis demonstrated that tRF-Gly-M3, produced by angiopoietin (ANG) splicing, was significantly upregulated in granulosa cells cuproptosis, and impaired mitochondrial function to induce cuproptosis by silencing the expression of GLS mRNA. tRF-Gly-M3 in exosomes secreted by cuproptosis-induced granulosa cells was high expression, and these exosomes could be delivered into oocytes. tRF-Gly-M3 also impaired oocytes mitochondrial metabolic function, inhibited oocytes maturation, first polar body extrusion and parthenogenesis via silencing GLS mRNA. Overall, our findings indicated that tRFs from granulosa cells could be intercellularly delivered to oocytes, effectively regulating oocyte development.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.pgen.1012119",
+        "keyword": "Exosomes",
+        "title_ja": "tRNA由来断片のブタ顆粒膜細胞-卵母細胞間コミュニケーションおよび銅依存性細胞死における新たな役割",
+        "summary_ja": "銅は生殖機能に必須だが、蓄積は細胞毒性やcuproptosisを引き起こす。しかし、顆粒膜細胞のcuproptosisと卵胞閉鎖における分子機構は不明であり、tRNA由来断片（tRFs）の関与も未解明である。本研究では、銅蓄積がミトコンドリア呼吸とタンパク質リポイル化を阻害し、TCA回路障害と代謝不均衡を誘導することを示した。また、tRFsと銅恒常性の直接的な関連を特定し、ANGスプライシングで産生されるtRF-Gly-M3が顆粒膜細胞のcuproptosisで有意に上昇し、GLS mRNAを抑制してミトコンドリア機能障害を介しcuproptosisを誘導することを明らかにした。cuproptosis誘導顆粒膜細胞由来のエクソソーム中でtRF-Gly-M3は高発現し、卵母細胞に送達された。tRF-Gly-M3は卵母細胞のミトコンドリア代謝機能を障害し、GLS mRNA抑制を介して成熟、第一"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Flexible Dual-Apt Scaffolds Reveal gPD-L1-sEVs in Breast Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42065221/",
+        "abstract": "The PD-1/PD-L1 blockade is a cornerstone of breast cancer immunotherapy, yet predictive biomarkers for immunotherapy outcomes remain scarce, restricting its clinical benefit. Glycosylated PD-L1 (gPD-L1) regulates tumor progression, immune suppression, and immune-checkpoint blockade (ICB) response, but it remains undetectable by conventional immunohistochemistry (IHC) due to glycan-mediated epitope shielding. This \"detection blind spot\" largely undermines current ICB biomarker prediction. To address this unmet clinical need, we developed an ultrasensitive CAP-g bioplatform with a novel CF/DPEDOT:PSS/Au nanoflexible scaffold. It integrates a dual-recognition-driven proximity cascade amplification for accurate gPD-L1 on small extracellular vesicle (gPD-L1-sEV) detection. We constructed this three-dimensional (3D) CF/DPEDOT:PSS/Au nanonetwork scaffold electrode, where π-π stacking synergistically minimizes charge-transfer resistance to improve electron transfer efficiency and maximizes the effective reaction area. Co-anchoring of a PD-L1 aptamer and a glycan probe further triggers hybridization chain reaction (HCR) for signal amplification, and this integrated design outperforms conventional electrochemical or immunological detection strategies. The CAP-g platform achieves an ultralow limit of detection (LOD) of 52 particles/mL, which is 1-2 orders of magnitude lower than existing gPD-L1-sEV or PD-L1-sEV detection methods, and a broad linear dynamic range of 10",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.6c01173",
+        "keyword": "sEVs",
+        "title_ja": "フレキシブルデュアルアプタマースキャフォールドが乳がんにおけるgPD-L1-sEVsを明らかにする",
+        "summary_ja": "本論文は、乳がん免疫療法におけるPD-1/PD-L1阻害のバイオマーカーとして、従来の免疫組織化学（IHC）では検出困難な糖鎖修飾PD-L1（gPD-L1）に着目した。この「検出死角」を克服するため、CF/DPEDOT:PSS/Auナノフレキシブル足場を用いた超高感度CAP-gバイオプラットフォームを開発した。本プラットフォームは、二重認識駆動の近接カスケード増幅により、小型細胞外小胞上のgPD-L1（gPD-L1-sEV）を高精度に検出する。三次元ナノネットワーク構造により電荷移動抵抗を低減し、電子伝達効率と反応面積を最大化。PD-L1アプタマーと糖鎖プローブの共固定化によりハイブリダイゼーション連鎖反応（HCR）を誘発し、信号増幅を実現した。その結果、検出限界（LOD）は52粒子/mLと既存法より1～2桁低く、広い直線ダイナミックレンジ（10～1×10⁶粒子/mL）を示した。本技術は、"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Ellagic Acid‐Loaded sEVs Encapsulated in GelMA Hydrogel Accelerate Diabetic Wound Healing by Activating EGFR on Skin Repair Cells",
+        "url": "https://www.semanticscholar.org/paper/91ba5d5d474b0b7b5dcc1a8d06d7a1a23bac5f0d",
+        "abstract": "Delayed diabetic wound healing is partially attributed to the functional disorder of skin repair cells caused by high glucose (HG). Small extracellular vehicles (sEVs) loaded with small‐molecule drugs represent a highly promising therapeutic strategy. This study aims to evaluate the therapeutic efficacy of ellagic acid‐encapsulated small extracellular vesicles (EA‐sEVs) in diabetic wound regeneration and to unravel related mechanisms. Cytotoxicity tests of ellagic acid (EA) as liposomal small molecules (LSMs) were performed with the CCK8 assay. EA was incorporated into sEVs obtained from chorionic plate‐mesenchymal stem cells (CP‐MSCs) to construct EA‐engineered sEVs. The protective effects of EA‐sEVs on human dermal fibroblasts (HDFs) and human epidermal keratinocytes (HEKs) induced by high glucose (HG) were assessed through the evaluation of their proliferative, migrative and differentiative capabilities. Furthermore, to illustrate the underlying mechanism, the specific biological targets of EA were predicted and confirmed. Finally, EA‐sEVs were encapsulated in GelMA hydrogel for investigating the pro‐healing effects on diabetic wounds. EA was harmless to cell viability, increasing the possibility and safety of drug development. EA‐engineered sEVs were fabricated by loading EA in sEVs. In vitro, EA‐sEVs promoted the proliferation, migration, and transdifferentiation of HG‐HDFs and the proliferation and migration of HG‐HEKs. Mechanism analysis elucidated that epidermal growth factor receptor (EGFR) was the specific biological target of EA. EA interacting with EGFR was responsible for the functional improvement of HG‐HDFs and HG‐HEKs. In vivo, EA‐sEVs encapsulated in GelMA promoted the healing of diabetic wounds by improving re‐epithelialisation, collagen formation and the expression of EGFR. Gel‐EA‐sEVs promoted diabetic wound healing by improving biological functions of HDFs and HEKs. EGFR was first identified as the specific biological target of EA and was responsible for the functional improvement of HG‐HDFs and HG‐HEKs by Gel‐EA‐sEVs. Hence, Gel‐EA‐sEVs can serve as a new promising active dressing for diabetic wound treatment.",
+        "source": "SemanticScholar",
+        "doi": "10.1111/cpr.70064",
+        "keyword": "sEVs",
+        "title_ja": "エラグ酸を搭載したsEVを内包するGelMAハイドロゲルは、皮膚修復細胞上のEGFRを活性化することで糖尿病性創傷治癒を促進する",
+        "summary_ja": "糖尿病創傷治癒遅延は高血糖による皮膚修復細胞の機能障害に起因する。本研究では、エラグ酸（EA）を内包した小型細胞外小胞（EA-sEVs）をGelMAハイドロゲルに封入し、糖尿病創傷治癒効果を評価した。EAは細胞毒性がなく、絨毛膜間葉系幹細胞由来sEVsに搭載された。EA-sEVsは高血糖下のヒト皮膚線維芽細胞（HDFs）と表皮角化細胞（HEKs）の増殖、遊走、分化を促進した。メカニズム解析により、EAの特異的標的が上皮成長因子受容体（EGFR）であることを初めて同定し、EGFRとの相互作用が細胞機能改善に関与した。in vivoでは、GelMAに封入したEA-sEVs（Gel-EA-sEVs）が再上皮化、コラーゲン形成、EGFR発現を促進し、糖尿病創傷治癒を加速した。Gel-EA-sEVsは新規の活性ドレッシングとして有望である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **Klothoと加齢性疾患リスク**  \n   Klothoは抗老化因子として知られ、今回の研究では血清Klotho高値が高齢者の股関節骨折リスク低下や緑内障有病率低下と関連することが示された。加齢に伴う多臓器障害の共通バイオマーカーとして有望であり、今後はKlotho補充療法や生活習慣介入による予防戦略の開発が期待される。\n\n2. **PD-1標的IL-15融合タンパク質（SAR445877）**  \n   免疫チェックポイント阻害とサイトカイン療法を融合した新規分子で、PD-1陽性T細胞に選択的にIL-15シグナルを送ることで、抗腫瘍・抗感染症免疫を増強する。従来のIL-15療法の全身毒性を低減しつつ、CD8+・CD4+ T細胞を活性化できる点が画期的であり、固形がんや慢性感染症への応用が期待される。\n\n3. **CARエクソソームによる子宮内癒着治療**  \n   FAP（線維芽細胞活性化タンパク質）を標的とするCAR-T細胞由来の細胞外小胞（CAR-EV）が、子宮内癒着モデルで線維化抑制と内膜再生を促進した。CAR-EVは生細胞を用いないため安全性が高く、オフターゲット毒性が少ない。再生医療と免疫工学の融合として、今後の臨床応用が注目される。\n\n4. **ガランギン前処理MSC由来エクソソームと老年創傷治癒**  \n   抗酸化フラボノイドであるガランギンで前処理した間葉系幹細胞由来エクソソームが、酸化ストレスによる細胞老化を抑制し、高齢マウスの創傷治癒を促進した。高齢者における慢性創傷は難治性であり、既存治療の限界を補う新たな細胞無し治療として期待される。\n\n5. **エラグ酸内包sEVs内包ハイドロゲルと糖尿病創傷治癒**  \n   エラグ酸を小型細胞外小胞（sEVs）に封入し、GelMAハイドロゲルに包埋することで、糖尿病創傷においてEGFR経路を活性化し治癒を促進した。sEVsの安定化と局所徐放を両立するドラッグデリバリーシステムとして、糖尿病性潰瘍など難治性創傷への応用が期待される。"
+}

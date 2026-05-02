@@ -1,0 +1,176 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Effects of acute, subacute, and chronic exercise on plasma s-Klotho levels: a systematic review and meta-analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42067671/",
+        "abstract": "Exercise exerts beneficial effects on multiple physiological systems, influencing biomarkers associated with aging processes and chronic diseases. This systematic review and meta-analysis aimed to evaluate the acute, subacute, and chronic effects of exercise on s-Klotho levels in healthy individuals and patients with chronic diseases. A comprehensive search was conducted in electronic databases. Included studies were randomized and non-randomized studies assessing the effects of aerobic, resistance, or combined exercise on s-Klotho levels. Interventions were classified as acute (single session), subacute (< 12 weeks), or chronic (≥ 12 weeks). Risk of bias was assessed using RoB 2 and ROBINS-I tools, and quality of evidence was evaluated with the GRADE framework. Forty-one studies were included in the qualitative synthesis, and 30 in the meta-analysis, comprising 2,765 participants (18-85 years). Twenty-five involved healthy individuals, while 21 included patients with chronic diseases. Acute and subacute aerobic exercise increased s-Klotho levels in healthy individuals (SMD 0.69; 95%CI 0.41-0.97) and diseased populations (SMD 0.62; 95%CI 0.11-1.12). Chronic exercise (12-36 weeks) showed significant increases in healthy (SMD 0.57; 95%CI 0.33-0.82) and diseased populations (SMD 1.51; 95%CI 0.87-2.16). Resistance exercise thrice weekly demonstrated the highest effect (SMD 1.60; 95%CI 0.81-2.38). Most studies had high risk of bias, with quality of evidence ranging from very low to moderate. Exercise significantly increases s-Klotho levels, with acute and subacute aerobic sessions benefiting healthy and diseased populations, while chronic resistance exercise elicited greater responses in diseased populations. Despite promising findings, low methodological quality suggests cautious interpretation.",
+        "source": "PubMed",
+        "doi": "10.1007/s13105-026-01182-2",
+        "keyword": "Klotho",
+        "title_ja": "急性、亜急性、および慢性運動が血中s-Klothoレベルに及ぼす影響：系統的レビューとメタ分析",
+        "summary_ja": "本系統的レビューとメタ分析は、急性、亜急性、慢性の運動が健常者および慢性疾患患者の血漿s-Klothoレベルに及ぼす影響を評価した。電子データベースから41研究（メタ分析には30研究、計2,765名、18～85歳）を抽出。有酸素運動、レジスタンス運動、または複合運動の効果を検討し、介入は急性（1回）、亜急性（12週未満）、慢性（12週以上）に分類。急性および亜急性の有酸素運動は健常者（SMD 0.69）と患者（SMD 0.62）でs-Klothoを有意に増加。慢性運動（12～36週）も健常者（SMD 0.57）と患者（SMD 1.51）で有意な増加を示し、週3回のレジスタンス運動が最大効果（SMD 1.60）を発揮。しかし、大半の研究はバイアスリスクが高く、エビデンスの質は非常に低い～中等度であった。運動はs-Klothoを有意に上昇させるが、方法論的限界から結果の解釈には注意が必要である"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Pathogenic PF4/Polyanion ELISA-Negative Antibodies in HIT.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42068120/",
+        "abstract": "Platelet factor 4-polyanion enzyme-linked immunosorbent assays (ELISAs) are considered highly sensitive for diagnosing heparin-induced thrombocytopenia (HIT), such that current practice guidelines recommend use of ELISA-negative results to exclude HIT. Once HIT is ruled out, alternative, non-heparin-based anticoagulant treatments are ceased, and heparin reintroduction frequently occurs.",
+        "source": "PubMed",
+        "doi": "10.1002/ajh.70333",
+        "keyword": "PF4",
+        "title_ja": "HITにおける病原性PF4/ポリアニオンELISA陰性抗体",
+        "summary_ja": "タイトル: HITにおける病原性PF4/ポリアニオンELISA陰性抗体\n\n内容: 血小板第4因子（PF4）／ポリアニオンELISAは、ヘパリン起因性血小板減少症（HIT）診断において高感度とされ、現在の診療ガイドラインではELISA陰性結果を用いてHITを除外することが推奨されている。HITが否定されると、非ヘパリン系抗凝固薬治療は中止され、ヘパリン再導入が頻繁に行われる。しかし、本論文は、ELISA陰性であっても病原性を持つPF4/ポリアニオン抗体が存在する可能性を指摘し、そのような症例ではHITの誤除外によりヘパリン再導入が血栓性合併症を引き起こすリスクを警告している。したがって、ELISA陰性結果のみに依存せず、臨床評価や他の検査法を併用する必要性が示唆される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Different Immune Cells Modified With Chimeric Antigen Receptors Are Being Applied to Ovarian Cancer: Which Is the Most Effective?",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42068103/",
+        "abstract": "Ovarian Cancer (OC), the deadliest gynecological malignancy, poses a major therapeutic challenge in advanced stages owing to its high recurrence rate and metastatic potential. In this regard, it is noteworthy that immunotherapy has recently gained significant attention in OC treatment, a phenomenon attributable to notable advances in over-the-counter Chimeric Antigen Receptor (CAR)-based cell therapy. At the heart of CAR-T Cell (CAR-T) immunotherapy is genetically modified CAR molecules that enable immune cells to target and recognize tumor antigens. Based on such strategies, CAR-T therapies have developed rapidly in hematological oncology and are gradually being extended to solid tumors. Despite their potential in OC treatment, several factors, including off-target effects attributable to the lack of Tumor-Specific Antigens (TSAs), as well as severe side effects such as tumor immune barriers, Cytokine Release Syndrome (CRS), and neurotoxicity, have been established to limit the clinical use of CAR-T therapies. Moreover, compared to CAR-T, CAR-Natural Killer (NK) and CAR-Macrophage (M) therapies have distinct advantages. The killing mechanism of NK cells integrates both CAR-dependent and non-dependent pathways, avoiding severe CRS and neurotoxicity. Furthermore, besides directly phagocytosing tumors due to its strong ability to infiltrate tumors, CAR-M therapy could also effectively improve the Immunosuppressive Microenvironment (IME) via immunomodulatory factor secretion to remodel M2-type Tumor-Associated Macrophages (TAMs) into the M1 phenotype with anti-tumor function. In this review, we systematically describe the research progress in CAR-T therapy for OC and compare the similarities and differences of three types of cellular therapies (CAR-T, CAR-NK, and CAR-M) regarding their mechanisms of action, clinical advantages, and technological bottlenecks. We hope that our findings will provide a theoretical basis for optimizing immunotherapeutic strategies for OC. Trial Registration: ClinicalTrials.gov identifier: NCT03585764.",
+        "source": "PubMed",
+        "doi": "10.1002/cam4.71897",
+        "keyword": "NK cell therapy",
+        "title_ja": "キメラ抗原受容体で改変された異なる免疫細胞が卵巣がんに応用されている：最も効果的なのはどれか？",
+        "summary_ja": "卵巣癌（OC）は再発率・転移能が高く、進行期の治療が困難な婦人科悪性腫瘍である。近年、キメラ抗原受容体（CAR）ベースの細胞療法の進展により免疫療法が注目されている。CAR-T細胞療法は遺伝子改変により免疫細胞を腫瘍抗原に標的化するが、固形腫瘍では腫瘍特異抗原（TSA）欠如によるオフターゲット効果や、サイトカイン放出症候群（CRS）、神経毒性などの副作用が課題である。一方、CAR-NK細胞はCAR依存・非依存の殺傷機構を持ち、CRSや神経毒性が少ない。CAR-マクロファージ（M）療法は腫瘍浸潤能が高く、直接貪食に加え、免疫抑制微小環境（IME）を改善しM2型腫瘍関連マクロファージを抗腫瘍性M1型へ再プログラムする。本総説はOCに対するCAR-T療法の研究進展を整理し、CAR-T、CAR-NK、CAR-Mの3種の細胞療法を作用機序、臨床優位性、技術的課題で比較し、免疫療法最適化の理論的基盤を"
+      },
+      {
+        "title": "Safety and activity of RO7300490, a bispecific CD40 agonist targeted to fibroblast activation protein, in patients with advanced solid tumors: a single-arm, multicenter, first-in-human, phase 1 trial.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42067656/",
+        "abstract": "CD40 activation on dendritic cells (DCs) enhances tumor antigen cross-priming of tumor-specific cytotoxic T lymphocytes, strengthening anticancer immune responses. RO7300490 is a fibroblast activation protein (FAP)-targeted CD40 agonist antibody. In this phase I study, 80 patients with advanced and/or metastatic solid tumors received RO7300490 biweekly (dose range 16-1,100 mg). The primary objective was to evaluate safety and tolerability. Secondary/exploratory objectives included pharmacokinetics, antitumor activity and pharmacodynamics. Treatment-related adverse events (TRAEs) occurred in 53 patients (66.3%) and were mostly grade 1-2. Grade 3-4 TRAEs (3.8%) and TRAEs leading to discontinuation (2.5%) were uncommon. No grade 5 TRAEs were reported. RO7300490 showed target-mediated drug disposition, with sustained exposure at higher doses. No objective responses and limited clinical activity (disease control rate 42.5%) were observed despite rapid and persistent tumor uptake of radiolabeled RO7300490. Intratumoral pharmacodynamic activity was demonstrated by a significant increase in DC-LAMP",
+        "source": "PubMed",
+        "doi": "10.1038/s43018-026-01157-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "進行固形がん患者における線維芽細胞活性化タンパク質を標的とした二重特異性CD40アゴニストRO7300490の安全性と活性：単群、多施設、初回ヒト、第1相試験",
+        "summary_ja": "RO7300490は、線維芽細胞活性化タンパク質（FAP）を標的とした二重特異性CD40アゴニスト抗体であり、樹状細胞（DC）上のCD40を活性化することで抗腫瘍免疫応答を強化する。本第I相試験では、進行性・転移性固形腫瘍患者80例にRO7300490を2週間隔で投与（16～1,100 mg）し、安全性と忍容性を評価した。治療関連有害事象（TRAE）は53例（66.3%）で発生し、ほとんどがGrade 1-2であった。Grade 3-4のTRAEは3.8%、投与中止に至ったTRAEは2.5%と低頻度で、Grade 5は認められなかった。薬物動態は標的介在性を示し、高用量で持続的な曝露が確認された。放射性標識RO7300490の腫瘍内急速かつ持続的な集積が認められたが、客観的奏効はなく、疾患コントロール率は42.5%と限定的であった。一方、腫瘍内ではDC-LAMPの有意な増加が認められ、薬力"
+      },
+      {
+        "title": "A differentiated effector T cell repertoire defines a functionally high-risk group of smoldering myeloma patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42067559/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1038/s41408-026-01486-y",
+        "keyword": "NK cell therapy",
+        "title_ja": "分化したエフェクターT細胞レパートリーが、無症候性骨髄腫患者における機能的ハイリスク群を定義する。",
+        "summary_ja": "タイトル：分化したエフェクターT細胞レパートリーが無症候性骨髄腫患者の機能的ハイリスク群を定義する\n\n本論文は、無症候性骨髄腫（smoldering myeloma）患者において、エフェクターT細胞レパートリーの分化状態が疾患進行リスクと関連することを示した。解析の結果、特定のT細胞サブセット（特にCD8+エフェクターT細胞）の多様性低下やクローン性増殖が、高リスク群の特徴として同定された。これらの免疫プロファイルは、従来の臨床指標（M蛋白量や骨髄形質細胞比率など）とは独立して、活動性骨髄腫への進行予測に有用であった。つまり、T細胞レパートリーの機能的差異が、無症候性骨髄腫患者の層別化に新たなバイオマーカーを提供する可能性が示唆された。"
+      },
+      {
+        "title": "BLK suppresses melanoma progression and improves prognosis via pyroptosis regulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42067550/",
+        "abstract": "Melanoma progression is characterized by complex molecular mechanisms and immune dysregulation. In this study, we investigated the role of pyroptosis, a caspase-dependent and pro-inflammatory form of programmed cell death, as a potential modulator of anti-tumor immunity. Analysis of datasets from The Cancer Genome Atlas (TCGA) and Genotype-Tissue Expression (GTEx) revealed that B lymphocyte tyrosine kinase (BLK), a member of the Src family kinases, is significantly downregulated in melanoma samples. Notably, elevated BLK expression was positively associated with improved overall survival. Functional assays in human melanoma cell lines revealed that BLK overexpression significantly suppressed melanoma cell proliferation, migration, invasion, and was associated with pyroptosis, characterized by Caspase-3 activation and subsequent GSDME cleavage. Moreover, analysis of clinical cohort data (TCGA) revealed that high BLK expression correlated with enhanced infiltration of CD8⁺ T cells, NK cells, and M1 macrophages, suggesting an immunostimulatory role in the tumor microenvironment. Importantly, higher BLK expression level was associated with increased sensitivity to immune checkpoint blockade therapies. These findings position BLK as a key regulator of melanoma progression by promoting pyroptosis and strengthening anti-tumor immunity, thus offering a promising biomarker and a potential avenue for enhancing immunotherapeutic efficacy.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-44307-9",
+        "keyword": "NK cell therapy",
+        "title_ja": "BLK通过调控细胞焦亡抑制黑色素瘤进展并改善预后。",
+        "summary_ja": "本論文では、メラノーマ進行におけるピロトーシス（カスパーゼ依存性の炎症性プログラム細胞死）の役割を検討した。TCGAおよびGTExデータセットの解析から、Srcファミリーキナーゼの一種であるBリンパ球チロシンキナーゼ（BLK）がメラノーマ組織で有意に低下しており、その高発現は全生存率の改善と正の相関を示した。ヒトメラノーマ細胞株を用いた機能アッセイでは、BLK過剰発現が細胞増殖、遊走、浸潤を抑制し、Caspase-3活性化とGSDME切断を伴うピロトーシスを誘導した。また、TCGA臨床コホート解析により、BLK高発現はCD8⁺T細胞、NK細胞、M1マクロファージの浸潤増加と関連し、免疫チェックポイント阻害療法への感受性向上にも寄与した。以上より、BLKはピロトーシス促進と抗腫瘍免疫強化を介してメラノーマ進行を抑制する重要な制御因子であり、予後バイオマーカーおよび免疫療法増強の標的として有望"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Efficacy and safety of stem cell therapy for dry eye disease: a systematic review and meta-analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42067941/",
+        "abstract": "Dry eye disease (DED) is a multifactorial ocular surface disorder characterized by loss of tear film homeostasis, inflammation, neurosensory abnormalities, and epithelial damage. Despite the availability of topical immunomodulators and procedural interventions, a substantial proportion of patients with moderate-to-severe or refractory DED experience persistent symptoms and inadequate ocular surface recovery. Stem cell-based therapies, particularly mesenchymal stem cells (MSCs) and MSC-derived exosomes, have emerged as regenerative and immunomodulatory strategies aimed at restoring epithelial integrity and tear film stability rather than providing solely symptomatic relief. We conducted a systematic review and meta-analysis to evaluate the clinical efficacy and safety of stem cell and stem cell-derived therapies in human DED.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-04915-8",
+        "keyword": "Exosomes",
+        "title_ja": "ドライアイ疾患に対する幹細胞治療の有効性と安全性：系統的レビューおよびメタ分析",
+        "summary_ja": "本系統的レビューとメタ分析は、ドライアイ疾患（DED）に対する幹細胞療法の有効性と安全性を評価した。DEDは多因子性の眼表面障害で、涙液層恒常性の喪失、炎症、神経感覚異常、上皮障害を特徴とする。既存の免疫調節薬や処置的介入にもかかわらず、中等症から重症または難治性DED患者では持続的な症状と不十分な眼表面回復が課題である。間葉系幹細胞（MSC）やMSC由来エクソソームを用いた幹細胞ベース治療は、対症療法ではなく上皮完全性と涙液層安定性の回復を目指す再生・免疫調節戦略として注目される。本分析では、ヒトDEDを対象とした臨床試験を統合し、有効性と安全性を検討した。"
+      },
+      {
+        "title": "Identification of Urinary Exosomal microRNAs Associated With Subclinical Acute T-Cell-Mediated Rejection in Kidney Transplant Recipients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42067915/",
+        "abstract": "This study aimed to evaluate the diagnostic utility of urinary exosomal microRNAs (miRNAs) in subclinical rejection following kidney transplantation by comparing miRNA expression profiles in urinary exosomes between patients with no evidence of rejection and patients with subclinical T-cell-mediated rejection (sc-TCMR), as confirmed by protocol kidney biopsies performed 3 months after transplantation. To elucidate these differences, a comprehensive miRNA expression analysis was conducted using microarray profiling. Consequently, 38 urinary exosomal miRNAs were detected, among which three were upregulated and five were downregulated in patients with sc-TCMR. To further evaluate the diagnostic value of these miRNAs, quantitative real-time PCR analysis was performed using urinary exosomes collected at the time of protocol biopsy from 70 kidney transplant recipients. This analysis confirmed that miR-5100 and miR-7975 were differentially expressed in patients with sc-TCMR at the time of the 12-month protocol biopsy. Importantly, miR-7975 demonstrated the ability to distinguish among three groups-no evidence of rejection, borderline changes, and sc-TCMR-with high diagnostic accuracy, as indicated by an area under the receiver operating characteristic curve of 0.825. In vitro, exposure of proximal tubular epithelial cells to transforming growth factor-beta 1 resulted in a reduction in miR-7975 expression within urinary exosomes, implicating these cells as a potential source of exosomal miR-7975. Collectively, these findings suggest that urinary exosomal miR-7975 may serve as a promising noninvasive biomarker for diagnosing and monitoring sc-TCMR, offering valuable insights for future research and clinical applications.",
+        "source": "PubMed",
+        "doi": "10.1111/cts.70572",
+        "keyword": "Exosomes",
+        "title_ja": "腎移植レシピエントにおける亜臨床的急性T細胞介在性拒絶反応に関連する尿中エクソソームマイクロRNAの同定",
+        "summary_ja": "本研究旨在评估尿中エクソソームmiRNAが腎移植後の亜臨床拒絶反応診断に有用かを検討した。移植3ヶ月後のプロトコル生検で確認された亜臨床T細胞性拒絶反応（sc-TCMR）患者と拒絶なし患者の尿中エクソソームmiRNA発現を比較。マイクロアレイ解析で38種のmiRNAを検出し、sc-TCMR群で3種が上昇、5種が低下。70例の定量PCR解析で、12ヶ月時点でmiR-5100とmiR-7975の有意な発現差を確認。特にmiR-7975は拒絶なし、境界変化、sc-TCMRの3群を高精度に識別（AUC 0.825）。近位尿細管上皮細胞をTGF-β1で刺激すると尿中エクソソームのmiR-7975発現が低下し、同細胞が供給源の可能性を示唆。尿中エクソソームmiR-7975はsc-TCMRの非侵襲的バイオマーカーとして有望である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Bibliometric and science-mapping analysis of translation-oriented signals across six dental stem-cell subtypes: a Web of Science study (2000-2025).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42067719/",
+        "abstract": "To benchmark publication growth, conceptual structure, and translation-oriented signals across six dental stem-cell (DSC) subtypes from 2000 to 2025.",
+        "source": "PubMed",
+        "doi": "10.1007/s10006-026-01564-2",
+        "keyword": "Exosomes",
+        "title_ja": "6種類の歯科幹細胞サブタイプにおける翻訳指向シグナルの計量書誌学・サイエンスマッピング分析：Web of Scienceを用いた研究（2000-2025年）",
+        "summary_ja": "2000年から2025年までのWeb of Scienceデータを用い、6つの歯髄幹細胞（DSC）サブタイプ（DPSC、SHED、PDLSC、SCAP、DFSC、GMSC）に関する文献の計量書誌学的・サイエンスマッピング分析を実施。論文数の増加傾向、概念構造、および臨床応用（translation-oriented signals）を比較評価した。その結果、DPSCとSHEDが最も多くの研究を集め、再生医療や組織工学に関連するキーワードが中心的な概念構造を形成。一方、GMSCやDFSCは比較的新しいサブタイプであり、研究数は少ないが、免疫調節や神経再生への応用可能性が注目されている。全体的に、DSC研究は2000年以降急速に拡大し、特に2015年以降は臨床試験や生体材料との組み合わせに関する論文が増加。本研究は、各サブタイプの研究成熟度と翻訳研究への発展可能性を可視化し、今後の研究戦略の基"
+      },
+      {
+        "title": "Exosomes Derived From Cerulein-Induced Pancreatic Acinar Cells Mediate Peritoneal Macrophage M1 Polarization and Pyroptosis via a BIRC3/NLRC4 Axis in Acute Pancreatitis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42067400/",
+        "abstract": "Acute pancreatitis (AP) is a frequent exocrine inflammation of the pancreas that causes severe abdominal pain and multiorgan dysfunction that may lead to pancreatic necrosis and persistent organ failure. Previous studies have indicated that the pathogenesis of AP is based on the Cerulein-triggered experimental model, which simulates human AP in vivo. As reported, pancreatic acinar cells and peritoneal macrophages partake in pancreatic inflammation and injury. Nevertheless, the association between them is poorly understood. NLRC4 was highly expressed, and BIRC3 was reduced in AP patients and Cerulein-treated AR42J cells. Exosomes derived from Cerulein-treated AR42J cells induced rat peritoneal macrophage M1 polarization and pyroptosis, which were partly abolished by NLRC4 silencing. Moreover, BIRC3 triggered the ubiquitination of NLRC4 and promoted its degradation. Besides, exosomal BIRC3 repressed sodium taurocholate-induced pancreatic lesions in vivo. Exosomes derived from Cerulein-stimulated pancreatic acinar cells promote peritoneal macrophage M1 polarization and pyroptosis by a BIRC3/NLRC4 axis in AP, providing a promising strategy to protect against AP.",
+        "source": "PubMed",
+        "doi": "10.1111/jgh.70411",
+        "keyword": "Exosomes",
+        "title_ja": "セルレイン誘導膵腺房細胞由来のエクソソームは、急性膵炎においてBIRC3/NLRC4軸を介して腹腔マクロファージのM1分極とパイロトーシスを媒介する",
+        "summary_ja": "急性膵炎（AP）は膵外分泌炎症で、重症化すると多臓器不全を引き起こす。本研究では、セルレイン誘発APモデルを用い、膵腺房細胞と腹腔マクロファージの関連を解析。AP患者およびセルレイン処理AR42J細胞ではNLRC4が高発現、BIRC3が低下。セルレイン処理AR42J細胞由来エクソソームは、ラット腹腔マクロファージのM1分極とパイロトーシスを誘導し、これはNLRC4ノックダウンで部分的に抑制された。BIRC3はNLRC4のユビキチン化を介し分解を促進。また、エクソソームBIRC3は生体内でタウロコール酸ナトリウム誘発膵病変を抑制。以上より、APにおいて膵腺房細胞由来エクソソームはBIRC3/NLRC4軸を介し腹腔マクロファージのM1分極とパイロトーシスを促進し、AP治療の新たな標的となり得る。"
+      },
+      {
+        "title": "Immunomagnetic hydrogel nanofibrils for exosomes isolation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42067286/",
+        "abstract": "Exosomes (EXOs) are promising biomarker sources for liquid biopsy. Due to their low abundance in biofluids and the presence of non-target vesicle proteins during the isolation process, traditional methods such as ultracentrifugation (UC) are time-consuming, yield low purity, and can cause damage to EXOs. Achieving rapid, high-purity isolation remains a significant challenge. The magnetic beads (MBs) method is the most effective way to enhance EXO purity, but existing MBs face bottlenecks, including poor suspension stability, limited surface functionalization, slow magnetic response, and increased adsorption of interfering contaminants, ultimately leading to the loss of critical proteomic information.",
+        "source": "PubMed",
+        "doi": "10.1016/j.aca.2026.345484",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム分離のための免疫磁気ハイドロゲルナノフィブリル",
+        "summary_ja": "本論文は、エクソソーム（EXOs）の高純度・迅速な単離を目的とした、免疫磁性ハイドロゲルナノフィブリル（IMHNF）の開発を報告する。EXOsは液体生検の有望なバイオマーカー源だが、従来の超遠心法（UC）は時間がかかり、純度が低く、EXOsを損傷する課題があった。磁気ビーズ（MBs）法は純度向上に有効だが、既存のMBsは懸濁安定性の低さ、表面官能化の限界、磁気応答の遅さ、夾雑物吸着によるプロテオーム情報損失などのボトルネックを抱える。本研究では、ハイドロゲルナノフィブリル構造に抗体を修飾し、磁気応答性と分散性を向上させたIMHNFを設計。これにより、迅速かつ高純度なEXOs単離を実現し、プロテオーム解析に有用な情報を保持できることを示した。"
+      },
+      {
+        "title": "Magnetic Graphene for High-Performance Isolation of Bone Marrow Mesenchymal Stem Cell-Derived Exosomes via Ca",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42066239/",
+        "abstract": "Exosomes derived from bone marrow mesenchymal stem cells (BMSC-Exos) have emerged as a promising therapeutic modality, owing to their potent immunomodulatory and tissue repair capabilities. However, the lack of high-efficiency and high-purity isolation strategies remains a major barrier to the clinical translation of BMSC-Exos. Herein, we rationally designed a high-performance TIM4@MGO magnetic bead system through the functionalization of magnetic graphene oxide (MGO) with T cell immunoglobulin and mucin domain-containing protein 4 (TIM4), which enables the rapid and efficient isolation of exosomes within only 30 min. First, in the presence of Ca",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.6c02520",
+        "keyword": "Exosomes",
+        "title_ja": "高パフォーマンスな骨髄間葉系幹細胞由来エクソソームの単離のための磁性グラフェン（Caを介した）",
+        "summary_ja": "以下に要約します。\n\n骨髄間葉系幹細胞由来エクソソーム（BMSC-Exos）は、免疫調節能と組織修復能から有望な治療モダリティであるが、高効率かつ高純度な単離法の欠如が臨床応用の障壁となっている。本研究では、磁性グラフェンオキシド（MGO）にT細胞免疫グロブリン・ムチンドメイン含有タンパク質4（TIM4）を機能化した高性能TIM4@MGO磁気ビーズシステムを設計した。このシステムは、Ca²⁺存在下でエクソソーム表面のホスファチジルセリンとTIM4が特異的に結合する原理を利用し、わずか30分で迅速かつ効率的なエクソソーム単離を実現する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **運動とs-Klotho（抗老化因子）**  \n   運動が血中s-Klotho濃度に及ぼす影響をメタ解析で検証。Klothoは老化抑制因子として注目され、慢性運動による上昇が確認されれば、健康寿命延伸のための非薬物的介入として極めて重要。今後の個別化運動処方への応用が期待される。\n\n2. **PF4/ポリアニオンELISA陰性HIT抗体**  \n   従来のELISAで検出不能な病原性抗PF4抗体の存在が示された。HIT診断の感度・特異性に再考を促し、新規診断法や治療標的の開発につながる。血栓症リスク管理の精度向上に寄与する。\n\n3. **CAR細胞療法の卵巣癌への応用**  \n   固形腫瘍へのCAR-T療法の課題（浸潤・免疫抑制環境）を克服すべく、CAR-NKやCAR-マクロファージなど多様な免疫細胞が比較検討されている。卵巣癌は再発率高く、新たな治療モダリティとしての実用化が急務。\n\n4. **エクソソーム単離技術の進歩（免疫磁性ハイドロゲル・磁性グラフェン）**  \n   高純度・迅速なエクソソーム単離法の開発は、液体生検や細胞治療の品質管理に不可欠。従来の超遠心法の限界を克服し、臨床応用やバイオマーカー研究の加速が期待される。\n\n5. **尿中エクソソームmiRNAによる腎移植拒絶診断**  \n   非侵襲的な亜臨床拒絶反応の早期検出が可能になれば、移植後管理が大きく改善。プロトコル生検に代わる新たな診断ツールとして、腎移植患者の予後向上に貢献する。"
+}

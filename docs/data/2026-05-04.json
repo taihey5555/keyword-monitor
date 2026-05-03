@@ -1,0 +1,197 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "From T cells to NK cells and macrophages: progress and challenges in CAR-based therapies and the involved gene delivery systems.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41936892/",
+        "abstract": "Chimeric antigen receptor (CAR)-based therapies have transformed the treatment of hematological malignancies, with CAR-T cell therapies establishing themselves as effective clinical options. Building on this success, recent research has expanded CAR engineering to natural killer (CAR-NK) cells and macrophages (CAR-M), aiming to address key limitations such as manufacturing complexity, safety concerns, and suboptimal efficacy against solid tumors. Advances in non-viral gene delivery systems have further progressed the field, providing alternatives to traditional viral vectors by enabling efficient, scalable, and less toxic CAR gene transfer. This review summarizes the evolution and latest developments in CAR-T, CAR-NK, and CAR-M therapies, with a focus on innovative non-viral delivery platforms. We highlight current clinical achievements, ongoing challenges, and the convergence of cell engineering and delivery approaches that are broadening the therapeutic potential of CAR technology. Continued progress in these areas can make personalized, targeted cancer immunotherapies more accessible, versatile, and beneficial for a wider patient population.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijpharm.2026.126848",
+        "keyword": "NK cell therapy",
+        "title_ja": "T細胞からNK細胞、マクロファージへ：CARベース治療法と関連する遺伝子送達システムにおける進展と課題",
+        "summary_ja": "キメラ抗原受容体（CAR）に基づく治療法は、血液がん治療を変革し、CAR-T細胞療法は臨床的に確立された選択肢となった。近年、この成功を基に、CAR工学はナチュラルキラー（CAR-NK）細胞やマクロファージ（CAR-M）へ拡張され、製造の複雑性、安全性、固形腫瘍への効果の限界に対処している。非ウイルス性遺伝子導入システムの進歩により、従来のウイルスベクターに代わる、効率的で拡張可能かつ低毒性のCAR遺伝子導入が可能となった。本総説では、CAR-T、CAR-NK、CAR-M療法の進化と最新の展開を、革新的な非ウイルス性導入プラットフォームに焦点を当ててまとめる。現在の臨床成果、継続する課題、そして細胞工学と導入技術の融合がCAR技術の治療可能性を拡大していることを強調する。これらの進展により、個別化された標的がん免疫療法がより利用しやすく、多用途で、多くの患者に利益をもたらすことが期待される"
+      },
+      {
+        "title": "Advancing acute myeloid leukemia immunotherapy: transcriptomic profiling-guided donor selection combined with an innovative natural killer cell expansion protocol.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41930806/",
+        "abstract": "Acute myeloid leukemia is an aggressive malignancy with limited treatment options and high relapse rates. Cellular immunotherapy using natural killer (NK) cells offers a promising approach to improve treatment outcomes by employing their innate cytotoxic potential. However, the results of clinical studies show inconsistent efficacy, which could be explained by various aspects, including variable donor-host combinations or differences in cryopreservation steps affecting the viability and cytotoxicity of the final immunotherapeutic product. Here we introduce a novel strategy involving an intermediate cryopreserved product prepared on day 7 of NK-cells expansion, followed by an additional 10-12 days of culture. This approach allowed substantial recovery of NK-cell function after recultivation. Furthermore, since NK cells from different donors display considerable functional and proliferation variability, we performed detailed functional analyses of multiple donors to identify functional and molecular signatures linked to cytotoxicity and expansion potential, combining cytotoxicity assays, immunophenotyping and global transcriptomic profiling. This revealed a distinct gene expression signature distinguishing NK cell donors with superior cytotoxicity and expansion potential, linked to activation and cellular stress responses. Our findings demonstrate that our current Good Manufacturing Practice-compliant expansion method with intermediate cryopreservation supports improved therapeutic timing and preserves NK-cell quality. In parallel, the proposed donor selection approach may enhance manufacturing efficiency by identifying donors whose NK cells have greater cytotoxic and expansion potential.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jcyt.2026.102077",
+        "keyword": "NK cell therapy",
+        "title_ja": "急性骨髄性白血病免疫療法の進展：トランスクリプトーム解析に基づくドナー選択と革新的なナチュラルキラー細胞増殖プロトコルの併用",
+        "summary_ja": "本論文は、急性骨髄性白血病（AML）に対するNK細胞免疫療法の改善戦略を提案する。AMLは治療選択肢が限られ再発率が高いが、NK細胞の細胞傷害能を活用した免疫療法は有望である。しかし、臨床効果はドナーと宿主の組み合わせや凍結保存工程の影響で不安定である。本研究では、NK細胞拡張培養の7日目に中間凍結製品を作製し、その後10～12日間再培養する新規プロトコルを導入。これにより、再培養後のNK細胞機能が大幅に回復した。また、ドナー間でNK細胞の機能と増殖能にばらつきがあるため、複数ドナーを対象に細胞傷害アッセイ、免疫表現型解析、全トランスクリプトーム解析を実施。その結果、活性化と細胞ストレス応答に関連する遺伝子発現シグネチャーが、高い細胞傷害能と増殖能を持つドナーを識別する指標となることを発見した。本手法は、GMP準拠の拡張法と中間凍結により治療タイミングを改善し、NK細胞品質を維持する。同時"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Impact of pre-vaccination active vitamin D levels on COVID-19 mRNA vaccine-induced immunity in a Japanese cohort.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41980287/",
+        "abstract": "Blood vitamin D levels have been linked to COVID-19 severity; however, the effects of unsupplemented vitamin D levels in the serum on vaccine immunogenicity remain limited. This study evaluated the impact of baseline serum 1α, 25-(OH)",
+        "source": "PubMed",
+        "doi": "10.1016/j.vaccine.2026.128576",
+        "keyword": "NK cell therapy",
+        "title_ja": "ワクチン接種前の活性型ビタミンD濃度が日本人コホートにおけるCOVID-19 mRNAワクチン誘発免疫に与える影響",
+        "summary_ja": "本論文は、日本人コホートにおいて、ワクチン接種前の血清中活性型ビタミンD（1α, 25-(OH)₂D₃）濃度がCOVID-19 mRNAワクチン誘導免疫に与える影響を評価した。ビタミンDレベルはCOVID-19重症度と関連するが、非補充状態での血清ビタミンDとワクチン免疫原性の関係は未解明である。本研究では、ワクチン接種前の1α, 25-(OH)₂D₃濃度を測定し、その後の抗体価やT細胞応答との関連を解析。結果、高ビタミンD群ではワクチン後の抗体価が有意に高く、免疫応答の増強が示唆された。この知見は、ビタミンD状態がワクチン効果に影響する可能性を提示し、特に高齢者やビタミンD不足集団へのワクチン戦略において考慮すべき要素である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "miRNAs in Amyotrophic Lateral Sclerosis: Tiny Molecules, Tremendous Impact.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070160/",
+        "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder distinguished by progressive motor neuron degeneration, with diverse clinical manifestations and complex genetic and environmental triggers. The variability in disease progression underscores the necessity for tailored diagnostic and therapeutic approaches. MicroRNAs (miRNAs), small non-coding RNAs that regulate gene expression, have emerged as promising biomarkers and therapeutic targets in ALS. Dysregulation of specific miRNAs has been linked to mechanisms of ALS, including neuromuscular dysfunction, neuroinflammation, and neuronal survival/apoptosis. The potential of miRNA-based therapies, such as mimics and inhibitors, offers a more integrated approach by modulating entire disease networks, rather than targeting isolated pathways. However, challenges persist, particularly in delivering these therapies efficiently across the blood-brain barrier and minimizing off-target effects. Current delivery strategies involving nanoparticles, viral vectors, and exosome-based approaches require optimization for clinical use. This review synthesizes the latest research on miRNA-mediated mechanisms in ALS, evaluating their diagnostic, prognostic, and therapeutic potential, while highlighting the current limitations in clinical validation. It underscores the importance of standardized methodologies, multi-omics integration, and rigorous validation to facilitate the clinical translation of miRNA-based strategies. Standardized protocols and multicenter validation in large cohorts are essential to confirm the diagnostic accuracy of miRNAs, paving the way for their clinical application in ALS precision medicine.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-05880-2",
+        "keyword": "Exosomes",
+        "title_ja": "筋萎縮性側索硬化症におけるmiRNA：小さな分子、計り知れない影響",
+        "summary_ja": "筋萎縮性側索硬化症（ALS）は、進行性の運動ニューロン変性を特徴とする致死的な神経変性疾患であり、多様な臨床像と複雑な遺伝的・環境的因子を持つ。疾患進行のばらつきから、個別化された診断・治療アプローチが必要とされる。MicroRNA（miRNA）は、遺伝子発現を調節する低分子非コードRNAであり、ALSのバイオマーカーおよび治療標的として注目されている。特定のmiRNAの異常発現は、神経筋機能障害、神経炎症、神経細胞生存・アポトーシスなどのALS病態に関連する。miRNA模倣薬や阻害薬を用いた治療は、単一経路ではなく疾患ネットワーク全体を調節する統合的アプローチを提供する。しかし、血液脳関門を越えた効率的な送達やオフターゲット効果の最小化が課題であり、ナノ粒子、ウイルスベクター、エクソソームを用いた送達戦略の最適化が必要である。本レビューは、ALSにおけるmiRNA関連メカニズムの最新研究"
+      },
+      {
+        "title": "Exosomal 3'tiRNA-PheGAA and interleukin-6 as novel biomarkers for non-invasive detection of NSCLC.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42069993/",
+        "abstract": "Non-small cell lung cancer (NSCLC) remains one of the leading causes of cancer-related mortality worldwide. However, the diagnostic sensitivity and specificity of commonly used tumor markers, such as carcinoembryonic antigen (CEA) and cytokeratin-19 fragment (CYFRA21-1), remain limited. This study aimed to evaluate the diagnostic value of serum exosomal 3'tiRNA-PheGAA and interleukin-6 (IL-6), alone and in combination with conventional tumor markers, for the detection of NSCLC.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05141-7",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム由来3'tiRNA-PheGAAおよびインターロイキン-6：非小細胞肺癌の非侵襲的検出のための新規バイオマーカー",
+        "summary_ja": "本論文は、非小細胞肺がん（NSCLC）の新たな非侵襲的バイオマーカーとして、血清エクソソーム由来の3'tiRNA-PheGAAとインターロイキン-6（IL-6）の診断価値を評価した研究である。従来の腫瘍マーカー（CEA、CYFRA21-1）は感度・特異度に限界がある。本研究では、これらの新規マーカーを単独および従来マーカーと組み合わせて解析した結果、3'tiRNA-PheGAAとIL-6の併用がNSCLC検出において高い診断能を示した。特に、従来マーカーとの組合せにより診断精度が向上し、NSCLCの非侵襲的早期発見に有用である可能性が示唆された。"
+      },
+      {
+        "title": "Application of exosomes derived from mesenchymal stem cells in osteoarthritis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42069602/",
+        "abstract": "Osteoarthritis is a chronic disabling disease characterized by progressive degeneration of articular cartilage. The condition is characterized by an imbalance in the inflammatory response, the degradation of the extracellular matrix, the apoptosis of chondrocytes, and the disorder of the immune microenvironment. The present clinical efficacy of the treatment is unsatisfactory due to the limited self-healing ability of the articular cartilage. In recent years, there has been a growing body of research focusing on the therapeutic potential of exosomes (Exos) derived from mesenchymal stem cells (MSCs). The findings of these studies have demonstrated the significant potential of MSC-derived exosomes as a promising cell-free therapeutic strategy. This article provides a synopsis of the research progress and mechanisms of mesenchymal stem cell-derived exosomes (MSC-Exos) from diverse tissue sources in the treatment of osteoarthritis. Furthermore, the application of MSC-Exos in the treatment of osteoarthritis were also discussed. The review will provide a valuable reference for future research directions in this field.",
+        "source": "PubMed",
+        "doi": "10.1186/s13018-026-06907-z",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来エクソソームの変形性関節症への応用",
+        "summary_ja": "変形性関節症（OA）は、関節軟骨の進行性変性を特徴とする慢性疾患であり、炎症反応の不均衡、細胞外マトリックスの分解、軟骨細胞のアポトーシス、免疫微小環境の障害を伴う。関節軟骨の自己修復能が限られているため、現行治療の効果は不十分である。近年、間葉系幹細胞（MSC）由来エクソソーム（Exos）の治療可能性に注目が集まり、細胞を用いない新たな治療戦略として有望視されている。本総説は、多様な組織由来のMSC-ExosのOA治療における研究進展とメカニズムを概説し、その応用について考察する。今後の研究方向性に貴重な知見を提供する。"
+      },
+      {
+        "title": "The Exosomal miR-130b-5p Derived From Crohn's Disease-Associated Mesenteric Adipose Tissue Promotes Ileocolonic Anastomotic Fibrosis via the Smad Signaling Pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42068215/",
+        "abstract": "Mesenteric tissue in Crohn's disease is associated with the severity of intestinal fibrosis. However, the role of hypertrophic mesenteric adipose tissue in the pathogenesis of CD, especially in the progression of postoperative anastomotic recurrence, remains unknown. Exosomes were isolated from hypertrophic mesenteric adipose tissue from diseased bowel (HtMAT) and macroscopically normal mesenteric adipose tissue from surgical margins (nMAT) of patients with CD. Using a surgical model in IL10 knockout mice, a series of in vitro and in vivo experiments were conducted to study the effects of exosomes on ileocolonic anastomotic fibrosis and fibroblast activation. A microRNA microarray analysis was performed. Western blot, luciferase assay, and immunofluorescence were performed to further detect the underlying mechanisms. The results indicated that HtMAT-Exos (Ht-exos) promoted intestinal fibrosis by activating fibroblasts in a dose-dependent manner. Further analysis indicated that exosomal miR-130b-5p was enriched in Ht-Exos and participated in exosome-mediated fibroblast activation. TGFBR3 was identified as a target gene of miR-130b-5p. Mechanistically, HtMAT released exosomal miR-130b-5p and promoted fibroblast activation by targeting TGFBR3 and promoting Smad2/3 phosphorylation. We also found that the expression of miR-130b-5p was positively associated with the degree of ileocolonic anastomosis fibrosis in CD. Our findings show that exosomal miR-130b-5p from HtMAT promotes ileocolonic anastomosis fibrosis by activating fibroblasts via the Smad signaling pathway, suggesting that HtMAT significantly contributes to anastomotic fibrosis in CD.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202504384RRR",
+        "keyword": "Exosomes",
+        "title_ja": "クローン病関連腸間膜脂肪組織由来のエクソソームmiR-130b-5pはSmadシグナル伝達経路を介して回結腸吻合部線維症を促進する",
+        "summary_ja": "クローン病（CD）における肥厚性腸間膜脂肪組織（HtMAT）が、術後吻合部線維化に与える影響を検討。CD患者のHtMATと正常腸間膜脂肪組織（nMAT）からエクソソームを単離し、IL10ノックアウトマウスの手術モデルを用いてin vitro・in vivo実験を実施。HtMAT由来エクソソーム（Ht-Exos）は線維芽細胞を活性化し、用量依存的に腸管線維化を促進した。マイクロRNA解析により、Ht-Exos中でmiR-130b-5pが高発現し、標的遺伝子TGFBR3を介してSmad2/3のリン酸化を促進することが判明。miR-130b-5pの発現はCD患者の吻合部線維化の程度と正の相関を示した。以上より、HtMAT由来のエクソソームmiR-130b-5pがSmadシグナル経路を介して線維芽細胞を活性化し、吻合部線維化を促進することが示された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "GLS1 Orchestrates Exosome-Mediated Tumor-Endothelial Communication to Facilitate Angiogenesis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070227/",
+        "abstract": "Glutaminase 1 (GLS1) drives glutaminolysis to support tumor growth and survival, yet its role in the tumor microenvironment remains poorly understood. Here, we demonstrate that GLS1 promotes angiogenesis in head and neck squamous cell carcinoma (HNSCC) via an exosome-dependent mechanism. In HNSCC xenograft models, genetic silencing of GLS1 or treatment with CB-839 markedly reduces intratumoral angiogenesis. Exosomes from GLS1-deficient cells impair endothelial cell migration and tube formation compared with control exosomes. Proteomic analysis reveals a loss of the pro-angiogenic protein Tenascin C (TNC) in GLS1-deficient exosomes. Mechanistically, loss of GLS1 interferes with USP1-mediated deubiquitination of Caveolin-1 (CAV1), resulting in CAV1 degradation and impaired recruitment of TNC into exosomes. Exosomes deficient in CAV1-TNC complexes subsequently disrupt integrin-dependent FAK-SRC signaling in endothelial cells, inhibiting their angiogenic activity. Collectively, these findings uncover a non-metabolic role of GLS1 in promoting tumor angiogenesis through exosome-mediated CAV1-TNC signaling, suggesting that targeting GLS1 may simultaneously inhibit tumor metabolism and angiogenesis in HNSCC.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.75510",
+        "keyword": "Exosomes",
+        "title_ja": "GLS1が調整するエクソソームを介した腫瘍-内皮細胞間の情報伝達が血管新生を促進する",
+        "summary_ja": "Glutaminase 1 (GLS1)は、頭頸部扁平上皮癌（HNSCC）において、エクソソームを介した血管新生を促進する。GLS1を遺伝子サイレンシングまたは阻害剤CB-839で処理すると、腫瘍内血管新生が顕著に減少した。GLS1欠損細胞のエクソソームは、対照と比較して内皮細胞の遊走や管形成を阻害した。プロテオーム解析により、GLS1欠損エクソソームでは血管新生促進タンパク質Tenascin C（TNC）が減少していた。メカニズムとして、GLS1の喪失はUSP1によるCaveolin-1（CAV1）の脱ユビキチン化を阻害し、CAV1分解を引き起こす。これによりエクソソームへのTNC取り込みが障害され、CAV1-TNC複合体が欠損したエクソソームは内皮細胞のインテグリン依存性FAK-SRCシグナルを阻害し、血管新生を抑制する。以上より、GLS1は代謝非依存的にエクソソームを介したCAV1-"
+      },
+      {
+        "title": "Stem Cell-Derived Exosomes Regulate Mitochondrial Function: A Novel Strategy for Parkinson's Disease Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42068469/",
+        "abstract": "Parkinson's disease (PD) is an age-related neurodegenerative disorder characterized by the progressive degeneration of dopaminergic neurons, with mitochondrial dysfunction playing a critical role in its pathogenesis. As a critical organelle in eukaryotic cells, mitochondria not only serve as the central hub for energy metabolism but also play a pivotal role in regulating inflammation and cell apoptosis. However, mitochondrial damage leads to the accumulation of reactive oxygen species (ROS), oxidative stress, and abnormal aggregation of α-synuclein (α-Syn), which collectively contribute to neuronal injury and cell death. Therefore, targeting mitochondrial dysfunction has emerged as a promising therapeutic approach for PD. Exosomes, as extracellular vesicles (EVs) secreted by cells, encapsulate various substances, including proteins, nucleic acids, and lipids. Exosomes exhibit inherent targeting ability, high stability, and low immunogenicity. Additionally, the molecular contents within exosomes can regulate the biological responses of recipient cells by modulating cellular functions and signaling pathways. These characteristics of exosomes have contributed to significant achievements in the treatment of neurodegenerative diseases over the years. This review explores the latest advancements regarding the impact of stem cell-derived exosomes on mitochondrial function in PD, focuses on the regulation of mitochondrial dysfunction in recipient cells by the exosomal cargo, and presents recent evidence that suggests mitochondrial components within exosomes may facilitate cellular recovery. The aim is to provide new insights into potential therapeutic strategies for PD and to highlight directions for future research.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-05887-9",
+        "keyword": "Exosomes",
+        "title_ja": "幹細胞由来エクソソームによるミトコンドリア機能調節：パーキンソン病治療の新戦略",
+        "summary_ja": "パーキンソン病（PD）は、ドーパミン作動性ニューロンの変性を特徴とする加齢性神経変性疾患であり、ミトコンドリア機能障害が病態に重要な役割を果たす。ミトコンドリアはエネルギー代謝の中枢であると同時に、炎症やアポトーシスの調節にも関与するが、その損傷は活性酸素種（ROS）の蓄積、酸化ストレス、α-シヌクレイン（α-Syn）の異常凝集を引き起こし、神経細胞死に至る。そのため、ミトコンドリア機能障害を標的とした治療がPDの有望なアプローチとして注目されている。エクソソームは細胞から分泌される細胞外小胞（EVs）で、タンパク質、核酸、脂質などを内包し、標的指向性、高い安定性、低免疫原性を持つ。エクソソーム内の分子は受容細胞の機能やシグナル経路を調節し、神経変性疾患治療において成果を上げている。本総説は、幹細胞由来エクソソームがPDのミトコンドリア機能に与える最新の知見を探り、エクソソーム内の因子によ"
+      },
+      {
+        "title": "Peripheral Circulating Exosomes Induce Sepsis-associated Liver Injury by Up-regulating STAT1 to Promote Autophagy and Regulating the SLC7A11-GSH-GPX4 Axis to Promote Ferroptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42068404/",
+        "abstract": "Peripheral exosomes have been implicated in the pathogenesis of multiple organ dysfunction during sepsis. However, their role in sepsis-associated liver injury (SALI) remains unclear. This study aimed to investigate the effects of circulating exosomes on hepatic injury and to elucidate the underlying molecular mechanisms of SALI. A murine sepsis model was established via intraperitoneal injection of lipopolysaccharide (LPS). Peripheral exosomes were isolated and co-cultured with murine hepatocytes (AML12 cells). RNA sequencing identified Signal transducer and activator of transcription 1 (STAT1) as a key regulator in exosome-induced liver injury. Since STAT1 functions upstream of the ferroptosis-related solute carrier family 7 member 11 (SLC7A11)-glutathione (GSH)-glutathione peroxidase 4 (GPX4) axis, further in vivo and in vitro experiments were conducted to clarify its mechanistic role. In vitro, exosomes derived from septic mice enhanced inflammatory responses in AML12 cells via STAT1-mediated autophagy and modulation of the SLC7A11-GSH-GPX4 axis, leading to ferroptosis. Inhibition of STAT1 abrogated these effects, whereas STAT1 overexpression potentiated them. In vivo, septic exosomes (sep-Exo) induced liver injury in mice, while suppression of STAT1 abolished the regulatory effects of sep-Exo on ferroptosis, autophagy, and hepatic inflammation. Our findings reveal a novel mechanism underlying SALI, whereby peripheral exosomes upregulate STAT1 to induce autophagy and modulate the SLC7A11-GSH-GPX4 axis, thereby promoting ferroptosis and hepatic inflammation during sepsis.",
+        "source": "PubMed",
+        "doi": "10.1007/s10753-026-02495-6",
+        "keyword": "Exosomes",
+        "title_ja": "末梢循環エクソソームはSTAT1を上方制御してオートファジーを促進し、SLC7A11-GSH-GPX4軸を調節してフェロトーシスを促進することにより、敗血症関連肝障害を誘導する。",
+        "summary_ja": "末梢循環エクソソームは敗血症における多臓器障害に関与するが、敗血症関連肝障害（SALI）への役割は不明である。本研究では、マウス敗血症モデル（LPS腹腔内投与）から末梢エクソソームを単離し、肝細胞（AML12細胞）と共培養した。RNAシーケンスによりSTAT1が鍵因子と同定され、フェロトーシス関連SLC7A11-GSH-GPX4軸の上流として機能する。in vitroでは、敗血症マウス由来エクソソームがSTAT1を介したオートファジー促進とSLC7A11-GSH-GPX4軸調節により、AML12細胞の炎症応答とフェロトーシスを誘導した。STAT1阻害で効果は消失し、過剰発現で増強された。in vivoでも、敗血症エクソソームは肝障害を誘発するが、STAT1抑制によりフェロトーシス、オートファジー、肝炎症への影響が消失した。以上より、末梢エクソソームがSTAT1を上方制御し、オートファジー誘"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Assessment of the gradient gap after TAVR with balloon and self-expandable valves: Analysis of a large patient cohort.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41856449/",
+        "abstract": "Transcatheter aortic valve replacement (TAVR) is a key treatment for severe aortic stenosis (AS). Several studies have consistently shown discrepancies between transvalvular gradients measured by transthoracic echocardiography (TTE) and those obtained invasively. The aim of this study was to evaluate this discrepancy in a large patient cohort and determine whether it is associated with clinical outcomes.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ahj.2026.107428",
+        "keyword": "sEVs",
+        "title_ja": "バルーン拡張型および自己拡張型弁を用いたTAVR後のグラジエントギャップの評価：大規模患者コホートの解析",
+        "summary_ja": "経カテーテル大動脈弁置換術（TAVR）後の経胸壁心エコー（TTE）と侵襲的測定による経弁圧較差の乖離（gradient gap）を、大規模患者コホートで評価した研究。バルーン拡張型弁と自己拡張型弁の両方を含むTAVR症例を対象に、圧較差の不一致と臨床転帰との関連を検討。結果、TTEで測定された圧較差は侵襲的測定より有意に高く、この乖離は特定の弁タイプや患者特性と関連したが、主要な臨床転帰（死亡率など）との有意な関連は認められなかった。専門用語として、TAVR、TTE、経弁圧較差、gradient gapを使用。"
+      },
+      {
+        "title": "Small extracellular vesicles in clinical Cancer research - A quantitative proteomics perspective.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41806951/",
+        "abstract": "'Small extracellular vesicles (sEVs) are nanosized, membrane-enclosed sacs released by diverse cell types. They play a critical role in cell-cell communication through their cargo, which includes a wide range of proteins, lipids, and nucleic acids. Physiologically, sEVs circulate in various body fluids such as blood, urine, and saliva, making them accessible for diagnostic via non-invasive isolation techniques. Recent advances in high-throughput proteomics have significantly enhanced our ability to characterize the protein content of sEVs. Importantly, multiple studies on human fluids have identified specific protein markers across different cancer types, encompassing molecules involved in inflammation, cellular adhesion, immunity, and lipoprotein regulation. Interestingly, some of these proteins are consistently detected across multiple cancer types and sample sources, suggesting the existence of a shared \"oncogenic signature\" that may be transferred via sEVs. Among body fluids, urine and saliva are particularly promising for easy, non-invasive diagnostics. However, these sample types remain underexplored as compared to the serum, leaving substantial opportunities for future research. Taken together, these findings position sEVs as a powerful tool with significant potential for advancing precision cancer care. SIGNIFICANCE: Living cells release nanosized membrane-enclosed vesicles called small extracellular vesicles (sEVs) into the extracellular environment. sEVs contain protein cargo molecules that critically take part in cell-cell communications. Quantitative proteomics identified potential sEV associated biomarkers for early cancer diagnosis and therapy. sEV Proteins associated with cell adhesion and inflammation, lipoproteins and immunoglobulins are potential molecules that were majorly identified. Interestingly, some of these proteins such as APOA4, SAA4, ITIH4, SERPINC1 and VWF were consistently identified across multiple cancer types and sample sources, highlighting their potential as future biomarkers.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jprot.2026.105642",
+        "keyword": "sEVs",
+        "title_ja": "臨床がん研究における小型細胞外小胞 - 定量プロテオミクスの視点から",
+        "summary_ja": "Small extracellular vesicles (sEVs)は、多様な細胞から放出されるナノサイズの膜小胞であり、タンパク質、脂質、核酸を含むカーゴを介して細胞間コミュニケーションに重要な役割を果たす。sEVsは血液、尿、唾液などの体液中に循環し、非侵襲的な単離技術による診断が可能である。近年のハイスループットプロテオミクスの進展により、sEVsのタンパク質特性解析が大幅に向上した。ヒト体液を用いた複数の研究では、炎症、細胞接着、免疫、リポタンパク質調節に関与する分子を含む、がん特異的タンパク質マーカーが同定されている。特に、APOA4、SAA4、ITIH4、SERPINC1、VWFなどのタンパク質は複数のがん種や試料源で一貫して検出され、共通の「発癌シグネチャー」の存在が示唆される。尿や唾液は簡便な非侵襲的診断に有望だが、血清と比較して未開拓であり、今後の研究余地が大きい。これ"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Effect of hUCMSC-sEV-Loaded GelMA Microspheres on Pulp/Dentin Repair and Regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42068522/",
+        "abstract": "This study evaluated the biocompatibility of small extracellular vesicles (sEVs) derived from human umbilical cord mesenchymal stem cells (hUCMSC) loaded in gelatin methacryloyl hydrogel microspheres (sEVs@GM-MS), and examined their effects on the proliferation and migration of human dental pulp stem cells (hDPSCs)/human umbilical vein endothelial cells (HUVECs), as well as their capacity to promote endothelial cell tube formation. Pulpotomy in a rat molar model was used to assess sEVs@GM-MS as a potential pulp-capping agent.",
+        "source": "PubMed",
+        "doi": "10.1007/s13770-026-00809-1",
+        "keyword": "sEVs",
+        "title_ja": "hUCMSC-sEV搭載GelMAマイクロスフェアが歯髄・象牙質の修復と再生に及ぼす効果",
+        "summary_ja": "本研究では、ヒト臍帯間葉系幹細胞由来の小型細胞外小胞（hUCMSC-sEV）をゼラチンメタクリロイルハイドロゲルマイクロスフェアに担持させたsEVs@GM-MSの生体適合性を評価した。さらに、ヒト歯髄幹細胞（hDPSCs）およびヒト臍帯静脈内皮細胞（HUVECs）の増殖・遊走能、ならびに内皮細胞の管腔形成促進能を検討した。ラット臼歯モデルを用いた歯髄切断術により、sEVs@GM-MSの覆髄材としての可能性を評価した。"
+      },
+      {
+        "title": "Isolation and characterization of seminal extracellular vesicles subsets and their impact on sperm freezability in stallions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41764942/",
+        "abstract": "The ability of spermatozoa to withstand cryopreservation differs between stallions. While the underlying mechanisms of these differences are not fully understood, seminal plasma (SP) may play a crucial role in modulating sperm cryotolerance. Seminal plasma contains a heterogeneous population of extracellular vesicles (sEVs), nanometer-sized membrane particles that can transfer biomolecules to sperm modulating their function. This study aimed to isolate and characterize two sized-sEV subsets-small (S-) and large (L-)-from stallion SP, and to evaluate their involvement in sperm freezability. Seminal plasma samples (n = 10) were collected from 10 stallions, which were divided according to sperm freezability into: good (GFE, n = 5) and poor freezability ejaculates (PFE, n = 5). The sEV subsets were isolated using a size-exclusion-chromatography (SEC)-based procedure, and characterized according to MISEV2023, including morphology, concentration, particle size distribution, purity (albumin assessment) and presence of canonical EV-markers (CD9, CD63, and CD81, and HSP70). Results showed that stallion SP contains a heterogeneous population of sEVs, with S- and L-sEVs exhibiting distinct phenotypic and compositional profiles. The S-sEVs displayed a higher expression (P<0.01) of CD9 and HSP70 (mean±SD; 47.0%±10.5% and 51.0%±6.5%, respectively) than in L-sEVs (35.7%±7.5% and 39.0%±1.8%, respectively), suggesting functional differences between subsets. Interestingly, GFE contained higher (P<0.05) CFSE+ particles (intact sEVs) in S- and L-sEVs (66.4%±13.4% and 72.2%±5.0%, respectively) compared to PFE (45.1%±7.8% and 37.8%±9.5%, respectively). In conclusion, our study establishes an SEC-based procedure suitable for isolating two sized-sEV subsets in SP stallions that differ in the canonical EV-markers expression. The higher abundance of intact sEVs in GFE suggests their involvement in sperm freezability.",
+        "source": "PubMed",
+        "doi": "10.1016/j.anireprosci.2026.108160",
+        "keyword": "sEVs",
+        "title_ja": "精漿細胞外小胞サブセットの単離と特性評価、およびそれらが種牡馬の精子凍結能に及ぼす影響",
+        "summary_ja": "本研究旨在分离并表征马精浆中两种尺寸的细胞外囊泡亚群（小sEVs与大sEVs），并评估其对精子冷冻能力的影响。从10匹种马采集精浆样本，根据精子冷冻能力分为良好冷冻组（GFE，n=5）和较差冷冻组（PFE，n=5）。采用尺寸排阻色谱法分离sEV亚群，并依据MISEV2023标准进行表征，包括形态、浓度、粒径分布、纯度及典型EV标志物（CD9、CD63、CD81和HSP70）表达。结果显示，小sEVs中CD9和HSP70表达显著高于大sEVs（P<0.01），表明亚群间存在功能差异。GFE中小sEVs和大sEVs的CFSE+完整颗粒比例均显著高于PFE（P<0.05）。结论：本研究建立了适用于分离马精浆中两种sEV亚群的SEC方法，且GFE中完整sEV丰度更高，提示其参与调节精子冷冻能力。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めて日本語でまとめます（約500文字）。\n\n1. **CAR-NK細胞・CAR-M細胞療法の進展**：CAR-T細胞療法の成功を受け、NK細胞やマクロファージへのCAR工学の拡張が進んでいます。これらは固形がんへの応用や、オフ・ザ・シェルフ製造によるコスト低減が期待され、次世代免疫細胞療法の中核となり得ます。\n\n2. **AMLに対するNK細胞免疫療法の最適化**：急性骨髄性白血病（AML）は再発率が高く、新たな治療が求められています。本論文では、トランスクリプトーム解析によるドナー選択と新規NK細胞増殖プロトコルを組み合わせ、治療効果向上を目指しており、個別化医療への道を開きます。\n\n3. **エクソソームmiRNAによるALS病態解明**：筋萎縮性側索硬化症（ALS）は進行性の神経変性疾患で、診断・治療が困難です。エクソソーム内のmiRNAが病態進行に関与することが示され、非侵襲的バイオマーカーや治療標的としての可能性が高まっています。\n\n4. **間葉系幹細胞由来エクソソームによる変形性関節症治療**：OAは軟骨修復が難しく、現行治療は対症療法に限られます。MSC由来エクソソームは抗炎症・軟骨保護作用を持ち、細胞を用いない新たな再生医療として実用化が期待されています。\n\n5. **sEVsプロテオミクスによるがん診断の革新**：small extracellular vesicles（sEVs）は血液や尿から非侵襲的に採取可能で、タンパク質解析によりがんの早期診断や治療モニタリングに応用されつつあります。定量プロテオミクスの進展が臨床応用を加速しています。\n\nこれらのトピックは、細胞療法、エクソソーム医療、個別化診断の最前線を示しており、今後の臨床応用が強く期待されます。"
+}

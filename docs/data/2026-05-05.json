@@ -1,0 +1,146 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Torque teno virus DNA load as a clinical biomarker for immunosuppression and infection risk in early kidney transplantation: a prospective study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42076858/",
+        "abstract": "Torque teno virus (TTV) load is emerging as a biomarker of net immunosuppression in kidney transplant recipients (KTRs). This study investigated the dynamics of TTV DNA load, its correlations with immune profiles, and its clinical associations during the early posttransplant period.",
+        "source": "PubMed",
+        "doi": "10.4285/ctr.25.0091",
+        "keyword": "NK cell therapy",
+        "title_ja": "トルクテノウイルスDNA量：早期腎移植における免疫抑制および感染リスクの臨床バイオマーカーとしての前向き研究",
+        "summary_ja": "タイトル：初期腎移植における免疫抑制と感染リスクの臨床バイオマーカーとしてのTorque teno virus DNA量：前向き研究\n\nTorque teno virus（TTV）量は腎移植レシピエント（KTRs）における正味の免疫抑制のバイオマーカーとして注目されている。本研究では、移植後初期におけるTTV DNA量の動態、免疫プロファイルとの相関、および臨床的関連性を調査した。"
+      },
+      {
+        "title": "Total neoadjuvant chemotherapy combined with PD‑1 blockade and IL‑2 in MSS/pMMR locally advanced rectal cancer: short-term results of a prospective, single-arm phase II study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42071008/",
+        "abstract": "Neoadjuvant therapy has become a cornerstone in the management of locally advanced rectal cancer (LARC). In this single-arm, open-label phase II study, we evaluated the efficacy and safety of total neoadjuvant chemotherapy (TNT) using a CapOX regimen combined with a programmed cell death protein 1 (PD‑1) antibody (sintilimab) and interleukin‑2 (IL‑2) in patients with microsatellite stable (MSS)/defining proficient mismatch repair (pMMR) LARC. A total of 33 patients, aged 18-75 years, with rectal tumors located within 12 cm from the anal verge and staged as cT3/4N_anyM0 or cT_anyN⁺M0, were enrolled. Patients received a regimen consisting of oxaliplatin, sintilimab, capecitabine, and IL‑2 administered in a three‑week cycle, with response evaluations performed after every two cycles. Following six cycles of treatment, 33 patients underwent radical surgery, achieving a 100% R0 resection rate. The pathological complete response (pCR) rate was 42.4% (95% CI: 25.68-59.16%) while the remaining 19 patients (57.6%, 95% CI: 41.07-74.09%) were assessed as having a partial response. The tumor regression grades (TRG) were, TRG1: 3 cases (9.1%, 95% CI: 1.90-25.97%), TRG2: 14 cases (42.4%, 95% CI: 26.27-60.38%), and TRG3: 2 cases (6.1%, 95% CI: 0.73-20.37%), respectively. Surgical safety reported as no cases of grade B/C anastomotic leakage or bowel obstruction. Adverse events (AEs) were manageable, with a 21.2% incidence of grade 3 events and no grade IV/V events or treatment‑related deaths. With a median follow‑up of 25.5 weeks, no recurrences were observed. Analysis of blood and tissue samples from patients with different treatment outcomes revealed significant activation of CD8",
+        "source": "PubMed",
+        "doi": "10.1038/s41392-026-02683-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "PD-1阻害剤とIL-2を併用した完全術前化学療法によるMSS/pMMR局所進行直腸癌の治療：前向き単群第II相試験の短期成績",
+        "summary_ja": "本試験は、MSS/pMMR局所進行直腸癌（LARC）に対するTotal Neoadjuvant Chemotherapy（TNT）として、CapOX療法にPD-1抗体（シンチリマブ）とIL-2を併用した単群第II相試験である。33例（cT3/4N_anyM0またはcT_anyN+M0）を対象に3週サイクルで治療を行い、6サイクル後に全例が根治手術を施行され、R0切除率100%を達成した。病理学的完全奏効（pCR）率は42.4%、部分奏効は57.6%であった。腫瘍退縮グレード（TRG）はTRG1: 9.1%、TRG2: 42.4%、TRG3: 6.1%であった。Grade B/Cの吻合部漏出やイレウスは認めず、Grade 3の有害事象は21.2%で、Grade IV/Vや治療関連死はなかった。観察期間中央値25.5週で再発は認められなかった。血液・組織解析ではCD8陽性T細胞の有意な活性化が"
+      },
+      {
+        "title": "Development of Chimeric Antigen Receptor-Modified NK Cells for the Immunotherapy of Adult T-Cell Leukemia/Lymphoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070769/",
+        "abstract": "Adult T-cell leukemia/lymphoma (ATL) is an aggressive hematological malignancy with a poor prognosis and limited therapeutic options. ATL cells exhibit aberrant surface glycosylation patterns resulting from dysregulated glycosyltransferase expression, representing a potentially tumor-specific therapeutic target. We previously isolated an ATL-specific single-chain variable fragment (scFv), S1TSCFR3-1, that selectively binds to ATL cell surface glycans. In this study, we engineered natural killer (NK) cells to express a chimeric antigen receptor (CAR) incorporating S1TSCFR3-1 and evaluated their therapeutic potential against ATL. In vitro, CAR-NK cells exhibited dose-dependent cytotoxicity against ATL cell lines, mediated primarily through enhanced granzyme B production, whereas no augmentation of cytotoxic activity was observed against non-ATL cell lines. S1TSCFR3-1 binding was detected in PBMCs from 3 of 7 ATL patients, and CAR-NK cells demonstrated significant cytotoxicity against PBMCs from a binding-positive patient. In a xenograft mouse model, administration of irradiated CAR-NK cells partially suppressed tumor burden as evidenced by reduced serum hsIL-2R levels, although survival benefit did not reach statistical significance. These findings suggest that CAR-NK cell therapy targeting ATL-associated aberrant glycan epitopes represents a potentially valuable therapeutic approach warranting further investigation.",
+        "source": "PubMed",
+        "doi": "10.1111/ejh.70199",
+        "keyword": "NK cell therapy",
+        "title_ja": "成人T細胞白血病/リンパ腫の免疫療法のためのキメラ抗原受容体改変NK細胞の開発",
+        "summary_ja": "成人T細胞白血病/リンパ腫（ATL）は予後不良の血液悪性腫瘍であり、異常な糖鎖発現が治療標的となる。本研究では、ATL特異的scFv（S1TSCFR3-1）を組み込んだキメラ抗原受容体（CAR）を発現するNK細胞を開発し、その治療効果を評価した。in vitroでは、CAR-NK細胞はATL細胞株に対して用量依存的な細胞傷害活性を示し、主にgranzyme B産生増強を介していた。非ATL細胞株への活性増強は認められなかった。ATL患者7例中3例のPBMCでS1TSCFR3-1結合が確認され、結合陽性患者PBMCに対しCAR-NK細胞は有意な細胞傷害活性を示した。異種移植マウスモデルでは、放射線照射したCAR-NK細胞投与により血清hsIL-2R値の低下が認められたが、生存期間の有意な延長は得られなかった。ATL関連異常糖鎖エピトープを標的とするCAR-NK細胞療法は、さらなる検討に値する"
+      },
+      {
+        "title": "Comprehensive Multi-Omics Profiling of Tertiary Lymphoid Structures Reveals Immunogenetic Landscapes and Prognostic Subtypes in Lung Adenocarcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070266/",
+        "abstract": "Tertiary lymphoid structures (TLSs) are key components of the tumor immune microenvironment and show prognostic relevance in many cancers. However, their genetic association with lung adenocarcinoma (LUAD) is still lacking. This study aims to construct a TLS-related prognostic model through an integrated multi-omics strategy and to elucidate relevant immunogenetic mechanisms. TLS-related genes (TRGs) showing genetically supported associations with LUAD were identified using Mendelian randomization (MR). A TRG-based model was established using machine learning (ML), with its accuracy assessed through a nomogram. Downstream analyses were performed, including immune microenvironment, tumor mutational burden (TMB), pathway enrichment, drug sensitivity profiling, and single-cell RNA sequencing (scRNA-seq). The expression of TRGs was confirmed using reverse transcription quantitative polymerase chain reaction (RT-qPCR). The prognostic model we built using the best algorithm showed strong prognostic value (1-, 3-, and 5-year AUCs > 0.75). Individuals classified in the high-risk (H-R) cohort exhibited markedly poorer outcomes (p < 0.001). Incorporation of the risk model into the nomogram improved its predictive accuracy compared with the model without this variable (AUC = 0.769 for risk score). TMB analysis suggested a higher TMB in the H-R group, which may predict a worse prognosis. Drugs targeting the PI3K-AKT-mTOR and cell cycle pathways showed higher efficacy in the H-R group. According to enrichment results, TRGs were mainly involved in immune activation and cell cycle regulation, suggesting that these genes may regulate LUAD prognosis through PI3K-AKT-mTOR and cell cycle pathways. The scRNA-seq analysis showed that the 10 TRGs were predominantly localized within T/NK and myeloid cell clusters, indicating their potential involvement in modulating local immune responses. The differential expression patterns of these genes across multiple cell lines were validated using RT-qPCR. In summary, this comprehensive model highlights the significance of TRGs in LUAD, providing a new paradigm for immunogenetic risk evaluation and personalized therapy.",
+        "source": "PubMed",
+        "doi": "10.1002/mc.70120",
+        "keyword": "NK cell therapy",
+        "title_ja": "三次リンパ構造の包括的マルチオミクスプロファイリングにより、肺腺癌における免疫遺伝学的ランドスケープと予後サブタイプが明らかに",
+        "summary_ja": "本論文は、肺腺癌（LUAD）における三次リンパ構造（TLS）関連遺伝子（TRG）の免疫遺伝学的プロファイルと予後サブタイプを解明した研究である。メンデルランダム化（MR）でLUADと遺伝的関連が確認されたTRGを同定し、機械学習（ML）により予後モデルを構築した。ノモグラムによる評価で高い予後予測能（1、3、5年AUC > 0.75）を示し、高リスク群は有意に予後不良（p < 0.001）であった。腫瘍変異負荷（TMB）は高リスク群で高く、PI3K-AKT-mTORおよび細胞周期経路を標的とする薬剤の有効性が示唆された。scRNA-seq解析ではTRGがT/NK細胞や骨髄系細胞に局在し、免疫応答調節への関与が示された。RT-qPCRで発現パターンを確認し、本モデルはLUADの免疫遺伝学的リスク評価と個別化治療に新たな枠組みを提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Pre-frailty in people with HIV: inflammatory immune signatures and opportunities for early identification.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42080615/",
+        "abstract": "Frailty is an emerging concern in the ageing population of people with HIV. Pre-frailty, an intermediate but reversible stage, offers a vital window for early intervention. Despite effective antiretroviral therapy, persistent immune activation and systemic inflammation accelerate biological ageing and increase vulnerability to functional decline. This review synthesizes evidence linking inflammatory immune signatures to pre-frailty in people with HIV. Elevated levels of IL-6, TNF-α, CRP, and soluble activation markers such as sCD14, sCD163, CXCL10, and D-dimer underscore contributions from microbial translocation, macrophage activation, and coagulation pathways. Immune cell alterations, including low CD4/CD8 ratios, activated CD8+ T cells, and NK cell dysfunction, further highlight the role of immune senescence. Sex- and age-related trends indicate heightened inflammatory responses in women, particularly during menopause, and distinct metabolic and immunological risks in men. Notably, most data originate from high-income settings, with limited evidence from sub-Saharan Africa. Immune profiling shows promise for early screening and risk stratification of pre-frailty in people with HIV, but challenges related to assay standardization, cost, and predictive validation remain.",
+        "source": "PubMed",
+        "doi": "10.1080/09540121.2026.2669034",
+        "keyword": "NK cell therapy",
+        "title_ja": "HIV感染者におけるプレフレイル：炎症性免疫シグネチャーと早期発見の可能性",
+        "summary_ja": "HIV感染者におけるプレフレイル（可逆的な虚弱前段階）は、早期介入の重要な機会を提供する。抗レトロウイルス療法が有効でも、持続的な免疫活性化と全身性炎症が生物学的老化を促進し、機能低下のリスクを高める。本レビューは、プレフレイルと関連する炎症性免疫シグネチャを統合する。IL-6、TNF-α、CRP、sCD14、sCD163、CXCL10、Dダイマーなどの可溶性活性化マーカーの上昇は、微生物転座、マクロファージ活性化、凝固経路の関与を示す。免疫細胞の変化（低CD4/CD8比、活性化CD8+T細胞、NK細胞機能不全）は免疫老化の役割を強調する。女性（特に閉経期）では炎症反応が高く、男性では代謝・免疫リスクが異なる。データは主に高所得国に由来し、サブサハラアフリカのエビデンスは限られる。免疫プロファイリングは早期スクリーニングとリスク層別化に有望だが、アッセイ標準化、コスト、予測妥当性の課題が残"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Unlocking the potential of exosomes: overcoming challenges in retention time, stability and targeting.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42080345/",
+        "abstract": "Exosomes, a subtype of extracellular vesicles (EVs) ranging in size from 30-150 nm, have emerged as critical mediators of intercellular communication and promising therapeutic tools for drug delivery, biomarker detection, and the treatment of complex diseases such as cancer and neurodegenerative disorders. PubMed, Scopus, and Web of Science were searched using MeSH terms and keywords related to exosome. Despite their high promise, clinical translation is hampered by issues such as fast circulation clearance, storage instability, variability in biomarker composition, and limited production scalability. Furthermore, current exosome isolation and retention approaches frequently impair purity, yield, or functionality. This research emphasizes the importance of uniform separation, storage protocols, and scalable manufacturing processes, while also investigating sophisticated imaging approaches for monitoring exosome biodistribution and therapeutic effects. These breakthroughs have the potential to overcome translational constraints, allowing for the integration of exosome-based medicines into clinical practice and changing the precision medicine landscape.",
+        "source": "PubMed",
+        "doi": "10.1080/17435889.2026.2668709",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームの可能性を引き出す：滞留時間、安定性、標的化の課題を克服する",
+        "summary_ja": "エクソソーム（30–150 nmの細胞外小胞）は、細胞間通信の重要な媒介因子であり、薬物送達、バイオマーカー検出、がんや神経変性疾患の治療に有望である。PubMed、Scopus、Web of Scienceで関連キーワードを用いて検索した結果、臨床応用には循環クリアランスの速さ、保存安定性の低さ、バイオマーカー組成のばらつき、製造スケーラビリティの限界などの課題が存在する。また、現在の単離・保持法は純度、収量、機能性を損なうことが多い。本稿では、均一な分離、保存プロトコル、スケーラブルな製造プロセスの重要性を強調し、エクソソームの生体内分布と治療効果をモニタリングする高度なイメージング手法を探求する。これらの進歩は翻訳的制約を克服し、エクソソームベースの治療法の臨床統合と精密医療の変革を可能にする。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "CAF-Secreted Exosomes Deliver BMP4 to Confer Radiotherapy Resistance in Cervical Cancer Through a Novel Mechanism Linking Nrf2 Activation to Cuproptosis Inhibition.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42081167/",
+        "abstract": "This study elucidates a novel intercellular communication mechanism underlying radiotherapy resistance in cervical cancer, focusing on the functional role of cancer-associated fibroblast-derived exosomes (CAF-Exo) in modulating redox homeostasis and cell death pathways. We demonstrate that CAF-Exo serve as critical vehicles for transferring radioresistant phenotypes to tumor cells through coordinated regulation of antioxidant defense systems and copper-dependent cell death processes. Our findings reveal that CAF-Exo activate the Nrf2-HO-1 signaling axis while simultaneously suppressing key cuproptosis regulators, establishing a dual-pathway mechanism for treatment resistance. Bone morphogenetic protein 4 (BMP4) was identified as the essential molecular cargo within these exosomes, functioning as a master regulator of this protective cellular response. The pathological significance of this pathway was confirmed through comprehensive functional assays showing that BMP4 knockdown effectively restored radiosensitivity in vitro and significantly enhanced radiotherapy efficacy in vivo. These results uncover a previously unrecognized biological axis wherein tumor-stroma interactions mediated by exosomal BMP4 orchestrate a sophisticated defense mechanism against radiotherapy-induced stress. This study elucidates key molecular mechanisms underlying treatment resistance and highlights potential therapeutic targets for cervical cancer, offering a basis for future intervention strategies.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202504134RR",
+        "keyword": "Exosomes",
+        "title_ja": "CAF分泌エクソソームがBMP4を運搬し、Nrf2活性化と銅依存性細胞死抑制を結びつける新規メカニズムを介して子宮頸癌に放射線治療抵抗性を付与する",
+        "summary_ja": "本研究阐明了宫颈癌放疗抵抗中一种新的细胞间通讯机制，聚焦于癌相关成纤维细胞来源外泌体（CAF-Exo）在调节氧化还原稳态和细胞死亡通路中的作用。CAF-Exo通过协同调控抗氧化防御系统与铜死亡过程，将放疗抵抗表型转移至肿瘤细胞。具体机制为：CAF-Exo激活Nrf2-HO-1信号轴，同时抑制关键铜死亡调节因子，形成双重通路抵抗。骨形态发生蛋白4（BMP4）被鉴定为外泌体中的关键分子载体，作为该保护性细胞反应的主调节因子。功能实验证实，敲低BMP4可在体外有效恢复放疗敏感性，并在体内显著增强放疗疗效。这些结果揭示了一个此前未知的生物学轴：外泌体BMP4介导的肿瘤-基质相互作用，协调了针对放疗应激的复杂防御机制。本研究阐明了治疗抵抗的关键分子机制，并突出了宫颈癌的潜在治疗靶点，为未来干预策略提供了基础。"
+      },
+      {
+        "title": "Exosomal Protein Biomarkers for Predicting Early Neurological Deterioration Following Intravenous Thrombolysis in Acute Ischemic Stroke.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42081015/",
+        "abstract": "Early neurological deterioration due to ischemic progression (ENDi) remains a poorly understood complication in acute ischemic stroke (AIS). We aim to uncover exosomal protein signatures for ENDi risk prediction and potential targets for intervention. From 110 prospectively enrolled AIS patients undergoing thrombolysis, we selected 3 ENDi and 5 age- and sex-matched early neurological improvement (ENI) patients. Plasma exosomes isolated before and 24 h post-thrombolysis were subjected to 4D-DIA proteomics, followed by Gene Set Enrichment Analysis (GSEA) and cellular origin analyses. Baseline differentially expressed proteins (DEPs) were further analyzed via functional enrichment and protein-protein interaction networks to identify candidate biomarkers and validated by ELISA in an independent cohort. We identified 1,238 exosomal proteins, among which 69 DEPs at baseline distinguished the ENDi from ENI patients. Cellular origin analysis revealed a post-thrombolytic reduction in monocyte-derived exosomal proteins in the ENDi group, while the ENI group showed upregulation of naive B cell-derived exosomal proteins. Regarding biological processes, ENDi after thrombolysis was characterized by activation of the coagulation and neuroinflammation pathways, along with suppression of the complement pathway and humoral immunity. From thrombo-inflammatory-related DEPs, we identified C-C motif chemokine 5 (CCL5) as a promising biomarker, and independent validation confirmed that elevated baseline plasma exosomal CCL5 was correlated with ENDi. In conclusion, our study highlights the role of exosomal proteins in immunothrombosis and establishes CCL5 as a potential predictor for ENDi. Importantly, we propose a novel mechanism involving immunoglobulin- and complement-related humoral immune suppression in the pathogenesis of ENDi, offering new directions for therapeutic intervention.",
+        "source": "PubMed",
+        "doi": "10.1007/s12975-026-01444-7",
+        "keyword": "Exosomes",
+        "title_ja": "急性虚血性脳卒中における静脈内血栓溶解療法後の早期神経学的悪化を予測するためのエクソソームタンパク質バイオマーカー",
+        "summary_ja": "この研究は、急性虚血性脳卒中（AIS）患者における血栓溶解療法後の早期神経学的悪化（ENDi）を予測するエクソソームタンパク質バイオマーカーの同定を目的とした。110人の前向き登録患者から、ENDi群3人と早期神経学的改善（ENI）群5人を選び、血栓溶解療法前後の血漿エクソソームを4D-DIAプロテオミクスで解析した。その結果、ベースラインで69の差次的発現タンパク質（DEP）がENDiとENIを区別した。細胞起源解析では、ENDi群で単球由来エクソソームタンパク質が減少し、ENI群でナイーブB細胞由来タンパク質が増加。生物学的プロセスでは、ENDiは凝固・神経炎症経路の活性化と補体・体液性免疫の抑制を特徴とした。血栓炎症関連DEPからCCL5が有望なバイオマーカーとして同定され、独立検証でベースラインの血漿エクソソームCCL5高値がENDiと相関した。本研究は、免疫血栓症におけるエクソソ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Tetrastigma hemsleyanum alleviates febrile seizures by inhibiting HSPB1/Akt/NF-κB signaling via small extracellular vesicle-mediated astrocyte-microglia crosstalk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41886953/",
+        "abstract": "Febrile seizures (FS) induced by hyperthermia are typically accompanied by inflammation, but how heat induces an inflammatory response is still unclear.",
+        "source": "PubMed",
+        "doi": "10.1016/j.phymed.2026.158087",
+        "keyword": "sEVs",
+        "title_ja": "テトラスティグマ・ヘムスレヤヌムは、小型細胞外小胞を介したアストロサイト-ミクログリアのクロストークによりHSPB1/Akt/NF-κBシグナルを阻害し、熱性けいれんを緩和する",
+        "summary_ja": "タイトル：Tetrastigma hemsleyanumは、小型細胞外小胞を介したアストロサイト-ミクログリア連携によりHSPB1/Akt/NF-κBシグナルを阻害し、熱性けいれんを緩和する。\n\n内容：高体温による熱性けいれん（FS）は炎症を伴うが、熱が炎症応答を誘発する機序は未解明である。本研究では、FSモデルにおいて、アストロサイト由来の小型細胞外小胞（sEV）がHSPB1をミクログリアに伝達し、Akt/NF-κB経路を活性化して炎症を促進することを示した。一方、漢方薬Tetrastigma hemsleyanum（TH）は、このsEVを介したアストロサイト-ミクログリア連携を阻害し、HSPB1/Akt/NF-κBシグナルを抑制することでFSを緩和した。THは新たなFS治療候補として期待される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **TTV DNA量による腎移植後の免疫モニタリング**  \n   Torque teno virus（TTV）は健常者にも存在するが、免疫抑制下で増殖する。そのDNA量が腎移植後の正味の免疫抑制状態を反映し、感染リスクの予測バイオマーカーとなる可能性が示された。非侵襲的で個別化免疫調整に貢献し、拒絶と感染のバランス最適化が期待される。\n\n2. **MSS/pMMR直腸癌へのTNT＋PD-1抗体＋IL-2併用療法**  \n   免疫チェックポイント阻害薬が効きにくいMSS/pMMR局所進行直腸癌に対し、化学療法にPD-1抗体とIL-2を加える新規レジメンが短期成績で有望。IL-2によるT細胞活性化が免疫応答を増強し、今後の臓器温存や生存率向上につながる可能性がある。\n\n3. **CAR-NK細胞によるATL治療**  \n   成人T細胞白血病/リンパ腫（ATL）は予後不良で、新規治療が切望される。本研究ではATL特異的糖鎖を標的としたCAR-NK細胞を開発。NK細胞はGVHDリスクが低く、オフ・ザ・シェルフ製剤として実用化が進めば、難治性血液がん治療の選択肢が広がる。\n\n4. **エクソソームの臨床応用における課題と克服戦略**  \n   エクソソームは薬物送達やバイオマーカーとして有望だが、体内滞留時間の短さ、標的指向性の低さ、安定性不足が障壁。本レビューはこれらの課題を整理し、表面修飾や工学的手法による改善策を提示。今後のエクソソーム医療実用化の基盤となる。\n\n5. **CAF由来エクソソームによる子宮頸がん放射線抵抗性機構**  \n   癌関連線維芽細胞（CAF）が分泌するエクソソームがBMP4を介してNrf2活性化と銅死亡抑制を誘導し、放射線抵抗性を獲得する新機構を解明。エクソソームを標的とした治療戦略や、銅死亡関連バイオマーカーによる抵抗性予測への応用が期待される。"
+}

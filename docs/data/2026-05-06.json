@@ -1,0 +1,184 @@
+{
+  "A": {
+    "医学": [
+      {
+        "title": "Advances in Cell Therapy for Chronic Graft-versus-Host Disease: Prophylactic and Therapeutic Perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42084784/",
+        "abstract": "Chronic graft-versus-host disease (cGvHD) can affect about 70% of people who undergo allogeneic hematopoietic stem cell transplantation (allo-HSCT). This condition is characterized by a complex immune dysregulation that leads to persistent inflammation and fibrosis. These complications can lead to long-term health issues that significantly affect the quality of life after HSCT. Conventional therapies such as corticosteroids and broad immunosuppressants are partially effective and have significant toxicity. They also fail to reverse established fibrotic damage. Advances in targeted pharmacological agents, including Bruton's tyrosine kinase inhibitors and JAK inhibitors, show improved outcomes for steroid-refractory cGvHD. However, their high costs and variable responses highlight the unmet need for more effective approaches. Cell-based therapies have emerged as promising strategies to modulate pathogenic immune responses and prevent or even treat cGvHD. Mesenchymal stromal cells (MSCs), regulatory T cells (Tregs), natural killer (NK) cells, and chimeric antigen receptor (CAR) T cells are being investigated for their immunoregulatory potential in preclinical and clinical trials, and they are considered a safer, more effective, and targeted approach to managing cGvHD. MSC-derived cytokines and exosomes can suppress Th17 cells and promote the generation of IL-10-expressing Tregs. This dual action helps reduce inflammation and tissue fibrosis associated with the cGvHD. Tregs and NK cells also help rebalance immune responses and suppress alloreactivity through different mechanisms. This review highlights underlying mechanisms, clinical efficacy, and challenges in translating these therapies into routine clinical practice. Additionally, it suggests that future trials should incorporate patient stratification based on cGvHD phases and phase-relevant biomarkers for managing disease progression more precisely.",
+        "source": "PubMed",
+        "doi": "10.1007/s10238-026-02120-8",
+        "keyword": "NK cell therapy",
+        "matched_keywords": [
+          "NK cell therapy",
+          "Exosomes"
+        ],
+        "title_ja": "慢性移植片対宿主病に対する細胞療法の進歩：予防的および治療的展望",
+        "summary_ja": "慢性移植片対宿主病（cGvHD）は、同種造血幹細胞移植（allo-HSCT）後の約70%に発症し、複雑な免疫調節異常により持続的な炎症と線維化を引き起こす。従来のステロイドや免疫抑制剤は部分的に有効だが毒性が強く、線維化を改善できない。ブルトン型チロシンキナーゼ阻害薬やJAK阻害薬などの標的薬剤はステロイド抵抗性cGvHDに有効だが、高コストや効果のばらつきが課題である。細胞治療は新たな戦略として注目され、間葉系間質細胞（MSC）、制御性T細胞（Treg）、ナチュラルキラー（NK）細胞、キメラ抗原受容体（CAR）T細胞が免疫調節能を発揮する。MSC由来のサイトカインやエクソソームはTh17細胞を抑制し、IL-10発現Tregを誘導して炎症と線維化を軽減する。TregやNK細胞もアロ反応性を抑制する。本総説はこれらの基礎機序、臨床的有効性、実用化への課題を概説し、将来の試験ではcGvHDの病"
+      },
+      {
+        "title": "Disease-specific alterations in the expression of circulating extracellular vesicle surface proteins in sepsis, hypertension and hypertensive sepsis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42082618/",
+        "abstract": "The diagnostic approach for sepsis is complicated by its pathophysiological heterogeneity and the absence of a gold-standard test. Moreover, the high prevalence of preexisting chronic diseases, specifically hypertension, further complicates clinical interpretation. Recently, extracellular vesicles (EVs) have emerged as a rich source of diagnostic biomarkers for several diseases, including sepsis and hypertension, because of their critical role in intercellular communication and inflammation. Therefore, this study aimed to explore the effects of sepsis, hypertension, and their comorbidities on the surface protein markers of small EVs (sEVs), offering a novel avenue for diagnostic discovery. sEVs were isolated from different groups (healthy controls, hypertensive, septic, and hypertensive-septic patients; n = 12 per group) and fully characterized, and their surface markers were identified via the MACSPlex exosome kit (a flow cytometry-based technique). Distinct profiles were identified across the hypertension, sepsis, and hypertensive-sepsis groups, revealing differentially expressed surface markers compared with healthy controls or between disease states. Our findings reveal preliminary disease-specific surface signatures under MACSPlex detection. The identification of these unique biosignatures provides a foundational framework for pioneering sEV-based diagnostic strategies. This work holds significant promise for improving patient stratification, enabling more precise biomarker-driven insights into the complex interplay of sepsis and hypertension.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-46474-1",
+        "keyword": "Exosomes",
+        "matched_keywords": [
+          "Exosomes",
+          "sEVs"
+        ],
+        "title_ja": "敗血症、高血圧および高血圧性敗血症における循環細胞外小胞表面タンパク質発現の疾患特異的変化",
+        "summary_ja": "本研究は、敗血症、高血圧、およびそれらの併存が小型細胞外小胞（sEV）の表面タンパク質マーカーに与える影響を探索した。敗血症の診断は病態生理学的異質性とゴールドスタンダード検査の欠如により複雑であり、高血圧の併存が臨床解釈をさらに困難にしている。sEVは細胞間情報伝達や炎症に重要な役割を果たし、診断バイオマーカーとして注目される。健常対照群、高血圧群、敗血症群、高血圧性敗血症群（各n=12）からsEVを単離し、MACSPlexエクソソームキット（フローサイトメトリー法）で表面マーカーを同定した。その結果、各疾患群で健常対照群や疾患間と比較して異なる発現パターンが確認され、疾患特異的な表面シグネチャーが明らかになった。これらの独自のバイオシグネチャーは、sEVベースの診断戦略の基盤を提供し、患者層別化や敗血症と高血圧の複雑な相互作用の理解に貢献する可能性がある。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Pancreatic ductal adenocarcinoma: integrating molecular insights for targeted interventions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42082461/",
+        "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is one of the most lethal and aggressive tumor types, with a dismal 5-year survival rate of less than 15%. Despite major advances in understanding PDAC biology, therapeutic progress has been limited. Numerous preclinical studies have provided encouraging evidence that immune-based therapies may be effective. However, the clinical translation of immunotherapies for PDAC treatment has proven difficult with a lack of favorable tumor responses outside of a very select group of patients such as patients with MSI high tumors. Immune checkpoint inhibitors, as well as combination strategies with targeted radiotherapy or chemotherapy, have largely failed to demonstrate meaningful survival benefits for the majority of PDAC patients. Increasing evidence indicates that PDAC harbors a uniquely complex and multifaceted immunosuppressive microenvironment, which plays a central role in shielding malignant cells from effective antitumor immunity. Overcoming this barrier requires the development of rational and effective combination regimens that simultaneously target both the tumor and its surrounding immune microenvironment. Novel strategies, including the use of natural killer cell-based therapies, reprogramming of cancer-associated fibroblasts, and integration of predictive or prognostic biomarkers, hold promise for enhancing therapeutic efficacy. This review summarizes recent progress in PDAC immunotherapy, highlights key challenges, and discusses emerging approaches designed to improve patient outcomes.",
+        "source": "PubMed",
+        "doi": "10.1038/s41392-026-02705-5",
+        "keyword": "NK cell therapy",
+        "title_ja": "膵管腺癌：分子レベルの知見を統合した標的治療へのアプローチ",
+        "summary_ja": "膵管腺癌（PDAC）は極めて致死率の高い腫瘍であり、5年生存率は15%未満である。生物学の理解は進んだが、治療の進展は限定的である。免疫療法の前臨床研究は有望だが、臨床応用は困難で、MSI高値腫瘍の一部患者を除き有効な腫瘍反応は得られていない。免疫チェックポイント阻害薬や放射線・化学療法との併用も、大多数の患者に生存利益を示せていない。PDACは複雑で多面的な免疫抑制性微小環境を有し、効果的な抗腫瘍免疫を妨げている。この障壁を克服するには、腫瘍と免疫微小環境の両方を標的とする合理的な併用療法が必要である。ナチュラルキラー細胞療法、癌関連線維芽細胞の再プログラミング、予測・予後バイオマーカーの統合などの新戦略が期待される。本総説はPDAC免疫療法の最近の進展、主要な課題、患者転帰改善のための新たなアプローチをまとめる。"
+      },
+      {
+        "title": "CAR-engineering of innate and innate-like immune cells: a new horizon in adoptive cell therapy for solid tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42082268/",
+        "abstract": "Chimeric antigen receptor (CAR) therapies have revolutionized cancer immunotherapy, particularly in hematologic malignancies, but their efficacy in solid tumors remains limited. Key barriers include tumor antigen heterogeneity, on-target/off-tumor toxicity, impaired trafficking, and an immunosuppressive tumor microenvironment.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2025-014592",
+        "keyword": "NK cell therapy",
+        "title_ja": "自然免疫細胞および自然様免疫細胞のCAR工学：固形腫瘍に対する養子細胞療法の新たな地平",
+        "summary_ja": "キメラ抗原受容体（CAR）療法は血液がんにおいてがん免疫療法に革命をもたらしたが、固形腫瘍への効果は限定的である。主な障壁として、腫瘍抗原の不均一性、標的オン/腫瘍オフ毒性、移行障害、免疫抑制性腫瘍微小環境が挙げられる。本稿では、これらの課題を克服するため、自然免疫細胞および自然免疫様細胞（NK細胞、NKT細胞、γδT細胞、マクロファージなど）へのCAR工学適用を新たな展望として論じる。これらの細胞は、抗原提示非依存的な活性化、低いサイトカイン放出症候群リスク、固形腫瘍への浸潤能など独自の特性を持つ。さらに、CAR設計の最適化、腫瘍微小環境への耐性強化、オフターゲット毒性低減のための戦略についても概説する。自然免疫系を活用したCAR細胞療法は、固形腫瘍に対する養子細胞療法の新たな地平を拓く可能性がある。"
+      },
+      {
+        "title": "Inhibitors of Ectonucleotidase CD39 for Immunotherapy of Cancer and Infections─Recent Developments and Future Perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42081290/",
+        "abstract": "Ectonucleoside triphosphate diphosphohydrolase-1 (NTPDase1, CD39) is a purinergic immune checkpoint protein and a potential biomarker in tumor immunotherapy. The enzyme can hydrolyze extracellular adenosine tri- and diphosphate (ATP, ADP) to generate adenosine monophosphate (AMP), which is subsequently hydrolyzed by ecto-5'-nucleotidase (CD73) to generate immunosuppressive adenosine (ADO). CD39 inhibition increases the extracellular concentration of immunostimulatory ATP, concomitantly reducing ADO production. In the tumor microenvironment, ATP can recruit a variety of antitumor immune cells, including T cells, dendritic cells, M1 macrophages, B cells, natural killer cells, and N1 neutrophils, to the tumor site, thereby suppressing various tumor activities. Here, we present non-nucleotidic and nucleotide-derived CD39 inhibitors, structural insights, current clinical studies, and strategies for combination therapy. We highlight the potential advantages of targeting CD39 in tumor immunotherapy and provide valuable insights to guide future drug development and therapeutic applications.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.jmedchem.6c00078",
+        "keyword": "NK cell therapy",
+        "title_ja": "エクトヌクレオチダーゼCD39阻害剤による癌および感染症の免疫療法─最近の進展と将来の展望",
+        "summary_ja": "CD39（エクトヌクレオチダーゼ）は、プリン作動性免疫チェックポイントタンパク質であり、腫瘍免疫療法におけるバイオマーカーとして注目されている。CD39は細胞外ATPやADPをAMPに加水分解し、さらにCD73がAMPを免疫抑制性のアデノシン（ADO）に変換する。CD39阻害により、免疫刺激性のATP濃度が上昇し、ADO産生が減少する。腫瘍微小環境では、ATPがT細胞、樹状細胞、M1マクロファージ、B細胞、NK細胞、N1好中球などの抗腫瘍免疫細胞を動員し、腫瘍活動を抑制する。本稿では、非ヌクレオチド系およびヌクレオチド由来のCD39阻害剤、構造的知見、現在の臨床試験、併用療法の戦略を紹介する。CD39を標的とする腫瘍免疫療法の潜在的な利点を強調し、今後の創薬と治療応用への指針を提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Chiral Bismuth Molybdate Nanoparticles Recruiting and Activating Group 3 Innate Lymphoid Cells to Suppress Gastric Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42008343/",
+        "abstract": "Gastric cancer poses a formidable therapeutic challenge due to high heterogeneity and aggressive invasiveness. To address this challenge, we first prepared chiral Bi",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.5c20671",
+        "keyword": "NK cell therapy",
+        "title_ja": "キラルなビスマスモリブデートナノ粒子がグループ3自然リンパ球を動員・活性化し胃癌を抑制する",
+        "summary_ja": "以下は、指定された論文・記事の要約です。\n\n本論文では、胃がんの高い異質性と浸潤性という治療課題に対し、キラルなビスマスモリブデン酸ナノ粒子（Chiral Bismuth Molybdate Nanoparticles）を初めて調製し、Group 3 Innate Lymphoid Cells（ILC3）を動員・活性化することで胃がんを抑制する新規アプローチを報告している。このナノ粒子は、免疫微小環境を調節し、ILC3を腫瘍部位に誘導するとともに、その抗腫瘍機能を増強する。結果として、胃がんの増殖と転移が有意に抑制された。本手法は、従来の治療法の限界を克服する可能性を示し、キラルナノ材料を用いた免疫療法の新たな戦略を提供する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "A study to investigate HLA-G targeted exosome (SOB100) in healthy subjects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42083744/",
+        "abstract": "To investigate the safety profile and tolerability of SOB100, a targeted exosome drug delivery platform derived from HEK293T cells engineered with an anti-Human Leukocyte Antigen G(HLA-G) nanobody. An open-label, dose-escalation Phase I with a total of fifteen subjects will be enrolled in five cohorts, three subjects in each cohort, comprising one single-ascending dose (SAD) cohort or multiple-ascending dose (MAD) cohorts (low, medium, and high dose levels). This will be the first in-human study to evaluate the safety and tolerability of HLA-G targeted exosome (SOB100) in healthy volunteers.",
+        "source": "PubMed",
+        "doi": "10.1080/17435889.2026.2668706",
+        "keyword": "Exosomes",
+        "title_ja": "HLA-G標的エクソソーム（SOB100）の健常被験者における検討",
+        "summary_ja": "本論文は、抗HLA-Gナノボディを搭載したHEK293T細胞由来の標的型エクソソーム薬物送達プラットフォームSOB100の安全性と忍容性を評価する第I相臨床試験に関するものである。オープンラベル、用量漸増デザインで、計15名の健常被験者が5コホート（各3名）に登録される。コホートは単回漸増用量（SAD）または複数回漸増用量（MAD）（低、中、高用量）で構成される。本試験は、HLA-G標的エクソソーム（SOB100）のヒト初回投与試験であり、安全性プロファイルの確立を目的とする。"
+      },
+      {
+        "title": "Scutellaria baicalensis exosome-like nanoparticles combat lung infection caused by Mycoplasma gallisepticum by regulating calcium homeostasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42083016/",
+        "abstract": "Scutellaria baicalensis, a traditional Chinese medicine (TCM), has demonstrated significant therapeutic efficacy in treating respiratory diseases caused by Mycoplasma gallisepticum (MG). However, the effective components of Scutellaria baicalensis are complex, and the material basis for its efficacy anti-MG infection remains unclear. This study aims to elucidate the molecular mechanism by which Scutellaria baicalensis exosome-like nanoparticles (SBELNs) and the key effector molecule, miR159a, regulate inflammation-induced injury caused by MG infection.",
+        "source": "PubMed",
+        "doi": "10.1186/s40104-026-01395-x",
+        "keyword": "Exosomes",
+        "title_ja": "黄芩外泌体样纳米颗粒通过调控钙稳态对抗鸡毒支原体引起的肺部感染",
+        "summary_ja": "タイトル：Scutellaria baicalensis exosome-like nanoparticles combat lung infection caused by Mycoplasma gallisepticum by regulating calcium homeostasis.\n\n要約：漢方薬Scutellaria baicalensisは、Mycoplasma gallisepticum（MG）による呼吸器疾患に治療効果を示すが、有効成分と作用機序は不明である。本研究では、同植物由来のexosome-like nanoparticles（SBELNs）と主要エフェクター分子miR159aが、MG感染による炎症性傷害を調節する分子機構を解明することを目的とする。"
+      },
+      {
+        "title": "Serum Exosomal ADGRF5: A Potential Diagnostic Biomarker for Metastasis in Triple-Negative Breast Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42081321/",
+        "abstract": "Triple-negative breast cancer (TNBC) is associated with frequent recurrence, early metastasis, and poor prognosis, making timely detection of metastatic spread clinically important. Because exosomes are involved in tumor metastasis and immune evasion, they may provide useful early biomarkers. This study aimed to identify and preliminarily validate serum exosomal markers for TNBC metastasis using high-throughput proteomics. Two sequential, independent 4D-label free proteomic analyses of serum exosomes were performed. The exploratory phase used pooled serum samples from 6 metastatic TNBC patients, 6 nonmetastatic TNBC patients, and 6 healthy controls, generating 9 exosome samples. A second analysis was conducted in an expanded cohort of 10 metastatic and 10 nonmetastatic TNBC patients. Differentially expressed proteins identified in both analyses were compared and further evaluated by Gene Ontology, Kyoto Encyclopedia of Genes and Genomes, and receiver operating characteristic analyses, with selected candidates validated by ELISA. Distinct exosomal protein expression profiles were observed among metastatic TNBC, nonmetastatic TNBC, and healthy controls. ADGRF5 showed strong diagnostic performance in distinguishing metastatic from nonmetastatic TNBC, with an area under the curve of 0.94. These findings suggest that ADGRF5 is a promising serum biomarker for TNBC metastasis and may aid future breast cancer biomarker discovery.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.jproteome.5c01011",
+        "keyword": "Exosomes",
+        "title_ja": "血清エクソソームADGRF5：トリプルネガティブ乳がん転移の潜在的な診断バイオマーカー",
+        "summary_ja": "トリプルネガティブ乳がん（TNBC）は再発・転移が多く予後不良であり、転移の早期検出が重要である。本研究は、エクソソームが腫瘍転移や免疫回避に関与することに着目し、血清エクソソーム中の転移バイオマーカーを同定・検証するため、高分解能プロテオミクスを用いた。探索段階では、転移性TNBC 6例、非転移性TNBC 6例、健常者6例のプール血清から9検体のエクソソームを抽出し、4Dラベルフリー解析を実施。次に、転移性・非転移性TNBC各10例の拡大コホートで再解析し、共通の differentially expressed proteins を抽出。Gene Ontology、KEGG、ROC解析を行い、ELISAで検証した。その結果、ADGRF5が転移性TNBCと非転移性TNBCを識別する優れた診断能（AUC 0.94）を示した。ADGRF5はTNBC転移の有望な血清バイオマーカーであり、今後の"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Expression and diagnostic significance of plasma exosomal RNA in diffuse large B-cell lymphoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42084824/",
+        "abstract": "This study aimed to investigate the expression profiles of plasma exosomal RNAs in patients with Diffuse Large B-Cell Lymphoma (DLBCL) and evaluate their diagnostic potential.",
+        "source": "PubMed",
+        "doi": "10.1007/s12094-026-04336-2",
+        "keyword": "Exosomes",
+        "title_ja": "びまん性大細胞型B細胞リンパ腫における血漿エクソソームRNAの発現と診断的意義",
+        "summary_ja": "本研究は、びまん性大細胞型B細胞リンパ腫（DLBCL）患者における血漿エクソソームRNAの発現プロファイルを調査し、その診断的有用性を評価した。DLBCL患者と健常対照者の血漿からエクソソームを単離し、RNA発現を解析した結果、特定のエクソソームRNAがDLBCL群で有意に変動していることが明らかとなった。これらのRNAは、診断バイオマーカーとして高い感度と特異度を示し、DLBCLの非侵襲的診断に寄与する可能性が示唆された。特に、一部のRNAは病期や予後とも関連しており、臨床応用への期待が高まる。本研究は、血漿エクソソームRNAがDLBCLの診断および病態理解において重要な役割を果たすことを示している。"
+      },
+      {
+        "title": "Exosomes from human urine-derived stem cells in porcine urethral scaffold construction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42083585/",
+        "abstract": "This study aims to examine the role of exosomes derived from human urine-derived stem cells (hUSCs-Exo) in the ",
+        "source": "PubMed",
+        "doi": "10.1515/biol-2025-1320",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト尿由来幹細胞のエクソソームを用いたブタ尿道スキャフォールド構築",
+        "summary_ja": "本論文は、ヒト尿由来幹細胞から分泌されるエクソソーム（hUSCs-Exo）が、ブブ尿道足場構築において果たす役割を検討した研究である。hUSCs-Exoは、血管新生促進、細胞増殖・遊走の亢進、及び抗線維化効果を示し、尿道組織再生に寄与することが明らかとなった。特に、足場材料内での細胞生存率向上と組織統合性の改善が確認され、hUSCs-Exoが細胞を用いない新たな尿道再生治療戦略の有望なツールとなる可能性が示唆された。"
+      },
+      {
+        "title": "A review of recent advances in exosome-mediated drug delivery for regenerative therapy and immunomodulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42083028/",
+        "abstract": "Exosomes are small, nanoscale extracellular vesicles that facilitate intercellular communication through the transport of proteins, lipids, and nucleic acids. Recent advances in utilizing exosomes as promising vehicles for targeted delivery have opened up numerous opportunities for establishing next-generation exosome-based nanocarriers and therapeutics for multiple biomedical domains. Their inherent biocompatibility, low immunogenicity, nanoscale size and ability to naturally cross biological barriers make them promising alternatives to traditional synthetic drug-delivery systems such as liposomes and polymeric nanoparticles. In this review, we analyzed existing literature and provided an overview of biogenesis, molecular composition, and functional diversity of exosomes followed by a review of recent reports on their application in regenerative therapies and immunomodulation. First, we outlined the role of exosomes in angiogenesis, tissue repair, and immunomodulation. Next, we critically evaluated existing engineering solutions, including isolation techniques, cargo-loading approaches, genetic programming of donor cells, and surface functionalization strategies. Furthermore, we provided a comprehensive overview of recent research on engineered systems that enable controlled release, stability, and multifunctional design of therapeutics, such as exosome-biomaterial hybrids, synthetic exosome mimics, and exosome-nanoparticle platforms. Finally, we highlighted the significant barriers, such as vesicle heterogeneity, optimized production and standardization, and other regulatory challenges in translating exosomal therapeutics from basic research to clinical practice.",
+        "source": "PubMed",
+        "doi": "10.1186/s12938-026-01557-y",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを介した再生治療と免疫調節のための薬物送達における最近の進歩のレビュー",
+        "summary_ja": "本レビューでは、エクソソームを基盤とした次世代ナノキャリアの再生医療と免疫調節への応用について概説する。エクソソームは、タンパク質、脂質、核酸を輸送するナノスケールの細胞外小胞であり、生体適合性、低免疫原性、生体バリア通過能から、従来の合成薬物送達システムに代わる有望な候補である。本稿では、まずエクソソームの生合成、分子構成、機能的多様性を整理し、血管新生、組織修復、免疫調節における役割を考察した。次に、単離技術、カーゴ搭載法、ドナー細胞の遺伝子改変、表面機能化などの工学的解決策を批判的に評価した。さらに、制御放出、安定性、多機能設計を可能とするエクソソーム-生体材料ハイブリッド、合成エクソソーム模倣体、エクソソーム-ナノ粒子プラットフォームなどの最新研究を包括的に紹介した。最後に、小胞の不均一性、最適生産と標準化、規制上の課題など、臨床応用に向けた重要な障壁を指摘した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、注目すべき5トピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **慢性GVHDへの細胞治療**：同種移植後70%に発症する慢性GVHDは、既存治療では線維化を改善できず毒性も強い。新たな細胞治療の予防・治療戦略は、難治性病態の根本的制御につながる可能性があり、今後の臨床応用が期待される。\n\n2. **敗血症・高血圧におけるsEV表面タンパク質**：敗血症診断の困難さに加え、高血圧併存が病態解釈を複雑化する中、sEV表面タンパク質の疾患特異的変化は新たなバイオマーカーとして有望。早期診断や病態層別化への応用が展望される。\n\n3. **CAR自然免疫細胞による固形腫瘍治療**：CAR-T療法の固形腫瘍への限界を打破すべく、NK細胞など自然免疫細胞へのCAR搭載が注目される。腫瘍微小環境の免疫抑制を克服し、低毒性で広範な固形腫瘍に有効な治療法開発が期待される。\n\n4. **キラルナノ粒子による胃がん免疫療法**：キラルビスマスモリブデン酸ナノ粒子がグループ3自然リンパ球を動員・活性化し胃がんを抑制する新機序は、従来の免疫チェックポイント阻害薬とは異なるアプローチ。異質性の高い胃がんへの新たな免疫治療戦略として重要。\n\n5. **HLA-G標的エクソソーム（SOB100）の第I相試験**：抗HLA-Gナノボディ搭載エクソソームは、標的型薬物送達プラットフォームとして初のヒト試験に進んだ。安全性と忍容性の確認は、エクソソーム医薬品の実用化に向けた重要なマイルストーンとなる。"
+}

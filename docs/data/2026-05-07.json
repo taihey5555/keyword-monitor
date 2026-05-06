@@ -1,0 +1,194 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Non-viral targeted integration at the CISH locus enables CAR-NK cell engineering with enhanced anti-tumor activity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42088618/",
+        "abstract": "Natural killer (NK) cells hold promise for adoptive cell therapy due to their innate cytotoxicity. Early clinical trials confirm their safety and efficacy in cancer and autoimmune disease treatment. Engineering NK cells with chimeric antigen receptors (CARs) enhances target specificity and facilitates their development as off-the-shelf allogeneic therapies. However, both viral and non-viral engineering methods of NK cells present challenges. Here, we introduce ",
+        "source": "PubMed",
+        "doi": "10.1016/j.omton.2026.201206",
+        "keyword": "NK cell therapy",
+        "title_ja": "CISH遺伝子座への非ウイルス標的遺伝子導入により、抗腫瘍活性が向上したCAR-NK細胞の作製が可能に",
+        "summary_ja": "本論文では、CAR-NK細胞の抗腫瘍活性向上を目的とし、CISH遺伝子座への非ウイルス的標的遺伝子導入法を報告する。NK細胞は自然細胞傷害能を持ち、養子細胞療法への応用が期待される。初期臨床試験では、癌や自己免疫疾患治療における安全性と有効性が確認されている。キメラ抗原受容体（CAR）による改変は標的特異性を高め、既製品同種異系療法としての開発を促進する。しかし、ウイルス・非ウイルス両方の改変手法には課題が残る。本研究では、CISH遺伝子座へのノックインによりCAR発現を実現し、従来法と比較して高い導入効率と安定した発現を達成。CISH欠損はNK細胞の代謝活性と持続性を向上させ、in vitroおよびin vivoで抗腫瘍効果が増強された。本手法は、安全かつ効率的なCAR-NK細胞作製を可能にし、次世代細胞免疫療法への応用が期待される。"
+      },
+      {
+        "title": "Efficacy of LNP@2DG-DON liposomal nanoparticles in tumor inhibition and immune activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42087185/",
+        "abstract": "Pancreatic cancer has poor prognosis, and immunotherapy efficacy is limited by PD-L1 stability via GFAT1-mediated glycosylation. We developed LNP@2DG-DON, a liposomal nanoparticle co-delivering glycolysis inhibitor 2DG and GFAT1 inhibitor DON, to enhance antitumor immunity and metabolic targeting.",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-08039-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "LNP@2DG-DONリポソームナノ粒子の腫瘍抑制と免疫活性化における有効性",
+        "summary_ja": "膵癌は予後不良であり、免疫療法の効果はGFAT1を介した糖鎖修飾によるPD-L1安定性によって制限される。本研究では、解糖系阻害剤2DGとGFAT1阻害剤DONを同時送達するリポソームナノ粒子LNP@2DG-DONを開発し、抗腫瘍免疫と代謝標的を強化した。"
+      },
+      {
+        "title": "Hemostasis at the edge between physiology and cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42086829/",
+        "abstract": "Hemostasis lies at the edge between physiology and cancer, where the coagulation cascade-initiated by tissue factor, thrombin generation, and fibrin deposition-shifts from vascular repair to tumor promotion. The interplay between coagulation and cancer is now recognized as a two-way street, with tumor cells activating the clotting system and coagulation components feeding back to promote malignancy. Tumor cells not only foster proliferation and invasion by overexpressing tissue factor and activating Protease-Activated Receptors (PAR1/PAR2) signalling, but they also induce endothelial cells and fibroblasts in the tumor microenvironment (TME) to produce coagulation factors (TF, FV, prothrombin) through cytokines (VEGF, IL-1β), NF-κB signalling, and hypoxia factor (HIF-1α). Generated thrombin and FXa drive MAPK/PI3K pathways, angiogenesis (VEGF upregulation), and immune evasion by suppressing T-cell chemokines (CXCL9/10/11) and fostering M2 macrophages. Platelets, activated by tumor-associated coagulation, release PDGF, TGF-β, and VEGF to promote stromal remodeling and exclude cytotoxic T cells via PD-L1 transfer, while fibrin matrices shield tumors and recruit suppressive myeloid cells. This bidirectional interplay creates a protumoral niche supporting both primary growth and metastatic dissemination, where circulating tumor cells (CTCs) exploit platelet cloaking against shear stress and NK cells. Cancer hypercoagulability is a known state which elevates venous thromboembolism, with D-dimer as a prognostic biomarker linking thrombosis to aggressive disease. Targeting this hemostasis-cancer axis-via TF inhibition, anticoagulation, or antiplatelet therapy-offers therapeutic promise to disrupt proliferation, immune escape, and metastasis.",
+        "source": "PubMed",
+        "doi": "10.1007/s11739-026-04294-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "生理学とがんの境界における止血",
+        "summary_ja": "止血は生理学とがんの境界に位置し、組織因子、トロンビン生成、フィブリン沈着により開始される凝固カスケードが血管修復から腫瘍促進へと転換する。凝固とがんの相互作用は双方向性であり、腫瘍細胞は凝固系を活性化し、凝固成分は悪性化を促進する。腫瘍細胞は組織因子の過剰発現とプロテアーゼ活性化受容体（PAR1/PAR2）シグナル伝達を介して増殖・浸潤を促進するだけでなく、サイトカイン（VEGF、IL-1β）、NF-κBシグナル、低酸素因子（HIF-1α）を通じて腫瘍微小環境（TME）の内皮細胞や線維芽細胞に凝固因子（TF、FV、プロトロンビン）を産生させる。生成されたトロンビンとFXaはMAPK/PI3K経路、血管新生（VEGF上方制御）、免疫回避（T細胞ケモカインCXCL9/10/11抑制、M2マクロファージ誘導）を促進する。腫瘍関連凝固で活性化された血小板はPDGF、TGF-β、VEGFを放出し、"
+      },
+      {
+        "title": "Age-related differences and common pathways of lymphocyte subsets in sepsis: a comparative review of elderly and pediatric patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42086562/",
+        "abstract": "Sepsis disproportionately affects older adults and children, two immunologically vulnerable extremes of age. Yet sepsis is superimposed on distinct baselines-immunosenescence in the elderly and immune immaturity in neonates and young children-leading to different pathways toward immune failure. This comparative narrative review synthesizes clinical and experimental evidence on age-specific and shared alterations in lymphocyte subsets in sepsis, including lymphopenia; CD4",
+        "source": "PubMed",
+        "doi": "10.1038/s41419-026-08773-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "敗血症におけるリンパ球サブセットの加齢関連差異と共通経路：高齢患者と小児患者の比較レビュー",
+        "summary_ja": "このレビューは、敗血症における高齢者と小児のリンパ球サブセットの加齢関連差異と共通経路を比較したものである。敗血症は免疫学的に脆弱な両年齢層に不均衡に影響するが、高齢者では免疫老化（immunosenescence）、新生児・幼児では免疫未熟性（immune immaturity）という異なるベースラインに基づき、免疫不全に至る経路が異なる。本総説では、リンパ球減少症、CD4陽性T細胞、CD8陽性T細胞、B細胞、NK細胞などのサブセットにおける年齢特異的変化と共通の変化について、臨床・実験的エビデンスを統合した。共通経路としては、リンパ球減少と機能不全が認められる一方、高齢者では記憶T細胞の減少と炎症促進性表現型への偏り、小児ではナイーブT細胞の減少と制御性T細胞の相対的増加など、年齢に応じた異なるパターンが示された。これらの知見は、年齢層に応じた免疫調節療法の開発に重要である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosomal circVANGL1 promotes cisplatin resistance in osteosarcoma cells by regulating the miR-145-5p/E2F3 axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42090086/",
+        "abstract": "Osteosarcoma (OS) is a malignant bone tumor originating directly from bone tissue, predominantly affecting adolescents. Cisplatin (DDP)-based chemotherapy is commonly used in the treatment of OS, but the emergence of DDP resistance poses a significant challenge to effective management. The study aimed to investigate the role of circRNA VANGL1 (circVANGL1) in mediating DDP resistance in OS in vitro.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-04384-8",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム由来circVANGL1は、miR-145-5p/E2F3軸を調節することで骨肉腫細胞におけるシスプラチン耐性を促進する。",
+        "summary_ja": "骨肉腫（OS）は骨組織由来の悪性腫瘍で、主に若年者に発症する。シスプラチン（DDP）ベースの化学療法が標準治療だが、耐性獲得が課題である。本研究は、circRNA VANGL1（circVANGL1）がin vitroでOS細胞のDDP耐性を媒介する機構を解析した。その結果、circVANGL1はmiR-145-5pをスポンジ状に吸着し、E2F3の発現を促進することでDDP耐性を誘導することが明らかとなった。すなわち、circVANGL1/miR-145-5p/E2F3軸が耐性制御に重要であり、circVANGL1はOS治療の新規標的となる可能性が示唆された。"
+      },
+      {
+        "title": "Platelet-Rich Fibrins as Local Drug-Delivery Carriers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42089193/",
+        "abstract": "The present review article explores the emerging evidence on the use of autologous platelet concentrates (APCs) as sustained release vehicles for a variety of drugs, including antibiotics, antifungals, antidiabetic drugs, exosomes, and vitamins for localized delivery approaches. The incorporation of such bioactive agents into APCs could enhance their therapeutic efficacy, support antimicrobial effects, wound healing and regeneration, and potentially reduce the need for systemic therapy. Although platelet-rich plasma (PRP) has also been studied as a carrier of bioactive agents, the rapid degranulation of platelets and lack of a cohesive fibrin network in PRP lead to a short-lived burst-type release profile. On the other hand, platelet-rich fibrin (PRF) has a three-dimensional scaffold of fibrin in which the growth factors and drug agents are retained, characteristics which make PRF-based APCs advantageous over PRP in the field of drug-delivery systems. However, a major challenge remains to be the absence of standardized drug-loaded APCs preparation protocols, with variations in centrifugation parameters, tube composition, and biomolecules' loading techniques, thereby influencing the APCs' structural integrity and release kinetics. The present review further highlights key findings on optimal loading strategies and the interactions between incorporated agents and the carrying APCs. It further highlights the level of current evidence for each of these drug-loaded APCs under investigation, their strength of recommendation, and possible knowledge gaps. Future work should focus on further developing and standardizing preparation protocols, advancing controlled release technologies, and validating efficacy through large scale clinical trials. Overall, bioactive drug-loaded APCs could represent a promising platform for targeted antimicrobial, antifungal, and regenerative therapies, bridging infection management with precision-guided tissue healing.",
+        "source": "PubMed",
+        "doi": "10.1111/jre.70114",
+        "keyword": "Exosomes",
+        "title_ja": "血小板豊富フィブリンを局所薬物送達担体として用いる",
+        "summary_ja": "本レビューでは、自己血小板濃縮物（APCs）を抗生物質、抗真菌薬、抗糖尿病薬、エキソソーム、ビタミンなどの局所薬物送達担体として用いるエビデンスを検討する。APCsへの生理活性物質の組み込みは、治療効果の向上、抗菌作用、創傷治癒・再生を促進し、全身療法の必要性を低減する可能性がある。多血小板血漿（PRP）は急速な脱顆粒とフィブリン網の欠如により短時間のバースト放出を示すが、多血小板フィブリン（PRF）は三次元フィブリン足場内に成長因子や薬剤を保持し、薬物送達システムにおいてPRPより優位である。しかし、遠心分離条件やチューブ組成、薬剤添加技術のばらつきにより、標準化された薬剤搭載APCs調製プロトコルが未確立であることが課題である。本レビューは最適な搭載戦略、薬剤とAPCsの相互作用、各薬剤搭載APCsのエビデンスレベルと推奨度、知識ギャップを強調する。今後の研究は調製プロトコルの標準化、"
+      },
+      {
+        "title": "The immunobiology of pancreatic cancer metastasis: premetastatic niche formation, organ-specific immune landscapes, and therapeutic opportunities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42086952/",
+        "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is associated with poor overall survival and is largely refractory to standard therapies. Most patients present with locally advanced or metastatic disease, and those with early-stage tumors amenable to surgical resection face high rates of metastatic relapse. Despite the many successes of immunotherapy in other solid tumors, these approaches have shown only marginal activity in PDAC. In PDAC, metastasis occurs through a coordinated, multistep process characterized by a gradient loss of immune surveillance. This process begins with establishment of a receptive premetastatic niche, which occurs via conditioning of distant tissues by tumor-derived exosomes and the recruitment of myeloid cells, leading to extracellular matrix remodeling and local immunosuppression prior to metastatic dissemination. On arrival of metastatic cells, tissues undergo organ-specific immune editing with important implications for therapeutic vulnerability. Importantly, liver metastases maintain a profoundly immunosuppressive environment whereas lung metastases have higher immune activity. These observations challenge the prevailing assumption that insights from primary tumors are broadly applicable to metastatic disease, establishing metastatic PDAC as a distinct immunologic entity. This framework identifies unique therapeutic opportunities across the disease spectrum from early interventions targeting premetastatic niche formation to site-specific strategies for established metastatic disease.",
+        "source": "PubMed",
+        "doi": "10.1007/s10555-026-10334-1",
+        "keyword": "Exosomes",
+        "title_ja": "膵癌転移の免疫生物学：転移前ニッチ形成、臓器特異的免疫環境、および治療の可能性",
+        "summary_ja": "膵管腺癌（PDAC）は予後不良で標準治療に抵抗性を示す。多くは進行・転移で診断され、切除可能例でも高率に再発する。免疫療法は他固形腫瘍で成功を収めたが、PDACでは効果が限定的である。PDAC転移は免疫監視の段階的喪失を特徴とする多段階プロセスで進行する。まず腫瘍由来エクソソームと骨髄系細胞の動員により遠隔組織が前転移ニッチを形成し、細胞外マトリックス再編と局所免疫抑制が生じる。転移細胞到達後、臓器特異的な免疫編集が起こり治療脆弱性に影響する。肝転移は強力な免疫抑制環境を維持する一方、肺転移は免疫活性が高い。これは原発腫瘍の知見が転移病変にそのまま適用できないことを示し、転移性PDACを免疫学的に独立した実体と位置付ける。本枠組みは、前転移ニッチ形成への早期介入から確立転移に対する部位特異的戦略まで、治療機会を提示する。"
+      },
+      {
+        "title": "Research progress on biomarkers for acute kidney injury in children.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42086806/",
+        "abstract": "Pediatric acute kidney injury (AKI) often presents insidiously and progresses rapidly. Traditional diagnostic criteria based on serum creatinine and urine output are markedly delayed and insufficient to capture injury patterns across different etiologies. This paper aims to summarize recent advances in pediatric AKI biomarker research since the release of the ADQI 23 (2020) consensus. Focusing on three major clinical scenarios-cardiac surgery, sepsis, and nephrotoxic drugs-it reviews early biomarker evidence and explores their potential applications in risk stratification. At the mechanistic level, this paper outlines key pathological pathways in pediatric AKI progression: oxygenation-perfusion imbalance after cardiac surgery, endothelium-immune dysregulation driven by sepsis, and tubular-mitochondrial injury associated with nephrotoxic exposure. In CS-AKI, uNGAL shows the earliest elevation within hours after cardiopulmonary bypass, followed by sequential changes in IL-18, L-FABP, and KIM-1. [TIMP-2] × [IGFBP7] and exosomal miRNA aid in identifying high-risk or severe AKI. In SA-AKI, suPAR and glycocalyx/endothelial injury markers (e.g., syndecan-1, Angpt-2/sTM/Tie-2), combined with urinary DKK3 and complement Ba, can be used for early risk stratification and predicting poor outcomes. In NT-AKI, uNGAL has high negative predictive value for excluding severe AKI, while uKIM-1, uCysC, uOPN, and multi-biomarker combinations can indicate subclinical tubular injury earlier after drug exposure. Overall, single biomarkers struggle to cover AKI heterogeneity. Future efforts should integrate functional dynamic assessments (e.g., FST, RRI), scenario-based multi-biomarker combinations, and AI dynamic models to propose evidence-based, scenario-stratified identification pathways. These will serve as structured references for prospective studies and clinical workflow optimization.",
+        "source": "PubMed",
+        "doi": "10.1007/s00467-026-07321-7",
+        "keyword": "Exosomes",
+        "title_ja": "小児急性腎障害におけるバイオマーカーの研究進展",
+        "summary_ja": "小児急性腎障害（AKI）は潜行性に発症し急速に進行するが、従来の血清クレアチニンや尿量に基づく診断基準では遅延が生じる。本論文はADQI 23（2020）コンセンサス以降のバイオマーカー研究の進展を、心臓手術（CS-AKI）、敗血症（SA-AKI）、腎毒性薬剤（NT-AKI）の3つの臨床シナリオに焦点を当てて概説する。CS-AKIではuNGALが体外循環後数時間で早期上昇し、IL-18、L-FABP、KIM-1が続く。[TIMP-2]×[IGFBP7]やエクソソームmiRNAは高リスク・重症例の同定に有用である。SA-AKIではsuPAR、糖衣・内皮障害マーカー（syndecan-1、Angpt-2/sTM/Tie-2）に加え、尿中DKK3や補体Baが早期リスク層別化と予後予測に活用される。NT-AKIではuNGALが重症AKI除外に高い陰性的中率を示し、uKIM-1、uCysC、uOPN"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Citrus limon-Derived Extracellular Vesicles Promote Hair Growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42090071/",
+        "abstract": "The use of Exosomes (EXOs) to induce the regeneration of hair follicles has received much attention today. The present study was conducted to survey the effects of Citrus limon-derived EXOs (EXO-CLs) on promoting hair growth. EXOs were isolated from citrus limon by the filtration technique. According to NanoSight DynamicLight Scattering and Scanning Electron Microscopy, the extracted EXOs had a size of 147 nm and a spherical morphology. The flow cytometry analysis showed the expression of surface markers CD9 (64.6%), CD63(66.2%), and CD81(65.2%). The MTT test showed a significant increase in the percentage of human skin fibroblast cell viability in the group treated with EXO-CLs (400 µg/mL) compared to the control. The evaluations performed in vivo phase showed a significant increase in the thickness of dermis, the number of hair follicles, and the percentage of collagen were observed in the group treated with EXO compared to the negative control group. The expression ratio of Wnt-1, β-Catenin, Lef1, Vegf, Tgf-β1, and Collagen I genes respectively, increased by a factor of 4.4, 4.8, 2.7, 2.3, 4.6, and 2.4 in EXO-CLs groups compared to the negative control group. According to the findings, the EXO-CLs could promote hair follicle regeneration in vivo and improve hair regrowth.",
+        "source": "PubMed",
+        "doi": "10.1007/s12010-026-05659-0",
+        "keyword": "Exosomes",
+        "title_ja": "柑橘由来の細胞外小胞が毛髪成長を促進する",
+        "summary_ja": "本論文は、レモン由来の細胞外小胞（EXO-CLs）が毛髪成長に与える影響を調査した。EXO-CLsは濾過技術で単離され、サイズ147 nm、球状形態を示し、表面マーカーCD9（64.6%）、CD63（66.2%）、CD81（65.2%）が発現した。MTT試験では、EXO-CLs（400 µg/mL）処理群でヒト皮膚線維芽細胞の生存率が有意に増加。in vivo評価では、EXO処理群で真皮厚、毛包数、コラーゲン割合が対照群より有意に増加し、Wnt-1、β-Catenin、Lef1、Vegf、Tgf-β1、Collagen I遺伝子の発現比がそれぞれ4.4、4.8、2.7、2.3、4.6、2.4倍上昇した。以上より、EXO-CLsはin vivoで毛包再生を促進し、毛髪再成長を改善することが示された。"
+      },
+      {
+        "title": "Light-Switched Mesenchymal Stem Cells for In Situ Exosome Amplification in Craniofacial Bone Defect Reconstruction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42089450/",
+        "abstract": "Mesenchymal stem cell (MSC)-based therapies hold great promise for tissue regeneration, yet precise spatiotemporal regulation of their bioactivity remains challenging. Here, we report a light-switchable MSC system (MSC-UCNPs) enabled by intracellular upconversion nanoparticles (UCNPs), which allowed remote control of exosome biogenesis and regenerative function. Upon 980 nm near-infrared irradiation, intracellular UCNPs emitted localized 365 nm ultraviolet light without compromising MSC viability. The generated UVA stimulus activated the ROS/HEXB/LAMP1 signaling cascade, suppressing lysosome-multivesicular body fusion and thereby markedly enhancing exosome production (increased to 2.7-fold). The MSC-derived exosomes exerted autocrine effects to promote MSC proliferation and osteogenic differentiation, while also facilitating osteoblast maturation via activating the Wnt/β-catenin pathway. To facilitate in vivo application, an injectable hydrogel composed of sodium alginate, calcium alginate, and hyaluronic acid was constructed through electrostatic interactions for the localized delivery of MSC-UCNPs. Positron emission tomography-computed tomography (PET-CT) imaging confirmed the in vivo light-switchable behavior of MSC-UCNPs, allowing on-demand enhancement of in situ exosome release. Benefiting from the synergistic regenerative effects of MSCs and their exosomes, this light-responsive MSC platform achieved robust cranial bone regeneration with a 3.2-fold greater bone volume fraction compared to the control group.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.75519",
+        "keyword": "Exosomes",
+        "title_ja": "光スイッチング間葉系幹細胞による頭蓋顔面骨欠損再建におけるin situエクソソーム増幅",
+        "summary_ja": "本論文では、頭蓋顔面骨欠損再建のための光スイッチ型間葉系幹細胞（MSC-UCNPs）システムを報告する。細胞内に導入したアップコンバージョンナノ粒子（UCNPs）が、980nm近赤外光照射下で365nm紫外光を局所発光し、MSCの生存率を維持しつつROS/HEXB/LAMP1シグナルカスケードを活性化。これによりリソソーム-多胞体融合を抑制し、エクソソーム産生を2.7倍に増強した。産生されたエクソソームは自己分泌的にMSCの増殖と骨分化を促進し、Wnt/β-カテニン経路を介して骨芽細胞成熟も誘導した。生体内応用のため、アルギン酸ナトリウム、アルギン酸カルシウム、ヒアルロン酸からなる注入可能ハイドロゲルを構築し、MSC-UCNPsを局所送達。PET-CTイメージングで光スイッチ挙動を確認し、オンデマンドなin situエクソソーム放出を実現した。MSCとエクソソームの相乗効果により、対照群比"
+      },
+      {
+        "title": "Reinforced Bacterial Cellulose/GelMA-HAMA Bionic Cartilage Hydrogel with Spatiotemporal Delivery of Exosomes and BMSCs for Temporomandibular Joint Disc Regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42089189/",
+        "abstract": "Cartilage regeneration, especially of the temporomandibular joint (TMJ) disc critical for chewing and speech, remains challenging. Key hurdles include its avascular, low-cell structure (impeding repair cell migration) and persistent post-injury compressive/shear stresses (damaging tissue and disrupting new formation). This study designed a sandwich composite hydrogel: GelMA/HAMA loaded with BMSCs, combined with a PVA-bacterial cellulose membrane carrying chondrocyte-derived exosomes. The membrane provides mechanical support and slowly releases exosomes to regulate BMSC proliferation/differentiation. Biomechanical analysis showed reduced stress concentration at perforation edges, protecting regeneration. In vitro experiments confirmed upregulated cartilage matrix genes (e.g., COL1A1, ACAN) in BMSCs. Implantation in a rabbit TMJ disc perforation model for eight weeks led to new cartilage-like tissue and successful repair. This system, optimizing mechanical microenvironment, regulating stem cell fate, and promoting matrix regeneration, offers a novel strategy for functional TMJ disc repair.",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.202503929",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームとBMSCsの時空間的送達による強化バクテリアセルロース/GelMA-HAMAバイオニック軟骨ハイドロゲルを用いた顎関節円板再生",
+        "summary_ja": "本論文は、咀嚼や発声に重要な顎関節（TMJ）円板の再生を目的とし、無血管・低細胞構造による修復細胞の移動困難や、損傷後の圧縮・せん断応力といった課題に対処するため、サンドイッチ構造の複合ハイドロゲルを設計した。GelMA/HAMAにBMSCsを搭載し、軟骨細胞由来エクソソームを含むPVA-バクテリアセルロース膜と組み合わせた。膜は機械的補強とエクソソームの徐放によりBMSCの増殖・分化を調節し、生体力学的解析では穿孔縁の応力集中を低減した。in vitroでBMSCの軟骨関連遺伝子（COL1A1, ACAN等）発現が上昇し、ウサギTMJ円板穿孔モデルへの8週間の移植で軟骨様組織の新生と修復を確認した。本システムは力学的微小環境の最適化、幹細胞運命の制御、基質再生促進により、機能的TMJ円板修復の新戦略を提供する。"
+      },
+      {
+        "title": "Aging alters synergistic microRNA networks in exosomes to stimulate repair in lung injury and skin wound healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42088451/",
+        "abstract": "Mesenchymal stem cells (MSCs) deliver their effects via paracrine signaling, including the release of extracellular vesicles (EVs), which transfer microRNAs (miRNAs) and mRNAs to recipient cells. Aging alters exosome composition and function, raising questions about donor age, the use of autologous vs. allogeneic donors, and exosome dose and dosing frequency for exosome-based therapies in fibrotic lung disease. To address these gaps, we investigated how exosomes from younger (28-39 years, adult-exo) and older (58-66 years) donors influence fibrosis and tissue repair. Exosomes were delivered intravenously to 18-months-old male C57BL/6 mice on day 12 post-bleomycin (BLM), with lung injury evaluated on day 21 by histologic, molecular, mitochondrial, and telomere analyses. A human skin injury model was used to quantitate exosome-mediated wound healing. Adult-exo reduced lung injury and accelerated skin wound closure. RNA sequencing (RNA-seq) revealed that adult-exo carried elevated antifibrotic miRNAs, such as let-7. Pathway enrichment linked this cargo to extracellular matrix (ECM) remodeling, mitochondrial function, and senescence. Adult-exo treatment also downregulated fibrosis- and senescence-associated miRNAs, such as miR-34, in lung tissue. ",
+        "source": "PubMed",
+        "doi": "10.1016/j.omtn.2026.102927",
+        "keyword": "Exosomes",
+        "title_ja": "加齢によりエクソソーム内の相乗的マイクロRNAネットワークが変化し、肺損傷の修復や皮膚創傷治癒を促進する。",
+        "summary_ja": "間葉系幹細胞（MSCs）は細胞外小胞（EVs）を介してmiRNAやmRNAを輸送し、パラクライン効果を発揮する。加齢はエクソソームの組成と機能を変化させるため、線維性肺疾患におけるエクソソーム療法のドナー年齢、自家・同種ドナーの選択、投与量・頻度について検討した。若年ドナー（28-39歳）由来エクソソーム（adult-exo）と高齢ドナー（58-66歳）由来エクソソームを、ブレオマイシン投与12日後の18ヶ月齢雄性C57BL/6マウスに静脈内投与し、21日後に肺損傷を組織学的・分子的・ミトコンドリア・テロメア解析で評価。ヒト皮膚創傷モデルで創傷治癒を定量した。Adult-exoは肺損傷を軽減し、皮膚創傷閉鎖を促進。RNA-seqにより、adult-exoはlet-7などの抗線維化miRNAを高発現し、細胞外マトリックスリモデリング、ミトコンドリア機能、老化に関連する経路が濃縮された。また、"
+      },
+      {
+        "title": "Hypoxia-Driven HIF-2α Transcriptionally Activates Exosomal ITGβ5 to Promote Gastric Cancer Progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42087351/",
+        "abstract": "Gastric cancer (GC) is the fifth most diagnosed malignancy and the fifth leading cause of cancer-related deaths, with a poor overall survival of under one year. Metastatic tumors that arise from malignant primary tumors account for the majority of cancer-related deaths for GC. Hypoxia-inducible transcription factors (HIFs), including HIF-2α, and integrin such as ITGβ5 play important roles in tumor metastasis. However, the regulatory relationship and functional significance between HIF-2α and ITGβ5 in GC remain poorly understood. We analyzed TCGA RNA-seq data to identify hypoxia-related biological processes and signaling pathways in GC. Exosome proteomics was used to characterize the protein profiles of extracellular vesicles (EVs) derived from GC cells under hypoxia. Under hypoxic conditions, ITGβ5 expression in GC showed a positive correlation with HIF-2α levels. Clinical analysis confirmed the overexpression of ITGβ5, which was further validated by RT-qPCR, western blot, and flow cytometry. The chromatin immunoprecipitation (ChIP) was performed to confirm the binding of HIF-2α to the promoter of ITGβ5. The role of ITGβ5 in GC cell proliferation, invasion, and migration was investigated through gain- and loss-of-function studies conducted both in vivo and in vitro. Our results showed that HIF-2α directly binds to the promoter of ITGβ5, thereby transcriptionally activating its expression. In vivo and in vitro studies revealed that the overexpression of ITGβ5 significantly enhanced the invasion, migration, and growth of GC. Our study uncovers a novel pathway in which hypoxia-induced activation of HIF-2α promotes the proliferation, invasion, and metastasis of GC by directly upregulating the expression of exosomal ITGβ5. Given these findings, ITGβ5 may serve as a potential prognostic biomarker and therapeutic target for GC.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202600482R",
+        "keyword": "Exosomes",
+        "title_ja": "低酸素駆動型HIF-2αがエクソソームITGβ5を転写活性化し、胃癌の進行を促進する",
+        "summary_ja": "胃癌（GC）は診断数・死亡数ともに世界第5位の悪性腫瘍で、生存期間は1年未満と予後不良である。低酸素誘導因子HIF-2αとインテグリンITGβ5は腫瘍転移に重要だが、GCにおける両者の関係は不明であった。本研究では、TCGA RNA-seqデータ解析、エクソソームプロテオミクス、ChIPアッセイ等を用いて検討。低酸素条件下でGC細胞のITGβ5発現はHIF-2αと正相関し、HIF-2αがITGβ5プロモーターに直接結合して転写活性化することが確認された。機能解析では、ITGβ5過剰発現がGCの増殖、浸潤、遊走を有意に促進。低酸素誘導性HIF-2αがエクソソームITGβ5を介してGC進展を促進する新規経路を解明した。ITGβ5はGCの予後バイオマーカーおよび治療標的となる可能性がある。"
+      },
+      {
+        "title": "Mesenchymal stem cell-derived extracellular vesicles attenuate liver transplantation-induced ischemia/reperfusion injury by suppressing hepatocellular complement C5 expression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42087186/",
+        "abstract": "Hepatic ischemia-reperfusion injury (HIRI) is an unavoidable complication of liver transplantation (LT) that drives allograft dysfunction and mortality. Mesenchymal stem cell-derived extracellular vesicles (MSC-EVs) show therapeutic promise, yet their actions within the hepatic network remain incompletely defined. We investigated how MSC-EVs protect against LT-induced HIRI, focusing on intercellular communication and complement-mediated inflammation.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04388-0",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来の細胞外小胞は肝細胞補体C5発現を抑制することで肝移植誘発性虚血再灌流障害を軽減する",
+        "summary_ja": "肝移植（LT）に伴う肝虚血再灌流障害（HIRI）は、移植片機能不全や死亡を引き起こす不可避な合併症である。間葉系幹細胞由来細胞外小胞（MSC-EVs）は治療効果が期待されるが、肝臓内での作用機序は未解明である。本研究では、MSC-EVsがLT誘発HIRIを抑制する機構を、細胞間コミュニケーションと補体介在性炎症に着目して解析した。その結果、MSC-EVsが肝細胞の補体C5発現を抑制することで、HIRIを軽減することを明らかにした。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **CISH遺伝子座への非ウイルス的標的遺伝子導入によるCAR-NK細胞の抗腫瘍活性向上**  \n   NK細胞療法の課題である持続性と機能強化を、CISH（免疫チェックポイント）遺伝子座へのノックインにより解決。非ウイルス的手法で安全性も高く、次世代CAR-NK細胞療法の基盤技術として期待される。\n\n2. **LNP@2DG-DONリポソームナノ粒子による膵癌免疫代謝療法**  \n   解糖系阻害剤2DGとGFAT1阻害剤DONを同時送達し、PD-L1安定性を抑制。膵癌の免疫抵抗性を代謝経路から打破する新戦略であり、難治性癌への応用が有望。\n\n3. **低酸素誘導HIF-2αによるエクソソームITGβ5転写活性化と胃癌進展**  \n   低酸素環境下でHIF-2αがエクソソーム表面のITGβ5発現を促進し、転移を誘導する機構を解明。エクソソームを介した癌微小環境制御の新たな標的として注目される。\n\n4. **レモン由来細胞外小胞（EXO-CLs）による毛髪成長促進**  \n   植物由来エクソソームの新たな応用として、レモン由来EVが毛包に作用。低コスト・高収量で製造可能なため、脱毛治療や美容分野での実用化が期待される。\n\n5. **光スイッチ型MSCによるin situエクソソーム増幅と頭蓋顔面骨再生**  \n   近赤外光でMSC内のUCNPsを励起し、局所的にエクソソーム分泌を促進。非侵襲的かつ時空間制御可能な骨再生技術として、再生医療の精度向上に貢献する。"
+}

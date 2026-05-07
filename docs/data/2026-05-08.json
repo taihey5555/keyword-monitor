@@ -1,0 +1,185 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "JMJD1C-mediated epigenetic control of autoimmunity and HIT antibody production.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42095895/",
+        "abstract": "Heparin-induced thrombocytopenia (HIT) is a common drug-induced immune disorder occurring in a subset of heparin-treated patients. Immune complexes comprising heparin, platelet factor 4 (PF4), and PF4/heparin-reactive antibodies are central to its pathogenesis. However, the role of epigenetic modification in HIT remains unexplored. Our study identified JMJD1C, a member of the lysine-specific histone demethylase 3 subfamily, as an essential regulator of PF4/heparin-specific antibody production. While JMJD1C was expressed throughout B-cell development and was dispensable for normal B-cell development, its deficiency disrupted immune tolerance and promoted production of self-reactive antibodies in systemic autoimmune diseases, including PF4/heparin-specific platelet-activating antibodies, a hallmark of pathogenic HIT antibodies. JMJD1C-deficient B cells were hyperresponsive, characterized by enhanced B-cell receptor (BCR)-induced proliferation. Transcriptomic analysis (RNA-Seq) revealed upregulation of pathways associated with BCR signaling, NF-kB activation, the cell cycle, and systemic lupus erythematosus (SLE). CUT&Tag profiling demonstrated that JMJD1C deficiency increased H3K36me1 modification at gene start sites in these pathways, indicating that epigenetic dysregulation drives B-cell hyperactivation. Importantly, transcriptional profiling and regulon analysis of B cells from HIT patients showed enrichment of BCR signaling, cell-cycle, NF-κB, and SLE-associated pathways, closely mirroring those in JMJD1C-deficient B cells. Epigenetic analyses further revealed enhanced promoter chromatin accessibility and elevated H3K36me1 deposition at promoter-TSS regions in HIT B cells. Together, these findings establish a strong molecular overlap between JMJD1C deficiency and human HIT B cells and reveal a previously unrecognized epigenetic mechanism underlying HIT pathogenesis. Our study provides the first evidence linking epigenetic regulation to HIT, offering new insights into its pathophysiology.",
+        "source": "PubMed",
+        "doi": "10.1182/blood.2025029593",
+        "keyword": "PF4",
+        "title_ja": "JMJD1Cを介した自己免疫とHIT抗体産生のエピジェネティック制御",
+        "summary_ja": "本論文は、ヘパリン起因性血小板減少症（HIT）におけるエピジェネティック制御の役割を初めて解明した。HITはヘパリン治療患者に生じる薬剤誘発性免疫疾患で、血小板第4因子（PF4）とヘパリンに対する抗体が病態に関与する。研究では、ヒストン脱メチル化酵素JMJD1CがPF4/ヘパリン特異的抗体産生に必須であることを発見。JMJD1C欠損はB細胞の正常発生には影響しないが、免疫寛容を破綻させ、自己反応性抗体やHIT病原性抗体の産生を促進した。欠損B細胞はBCRシグナル伝達やNF-κB経路の亢進を示し、CUT&Tag解析では遺伝子開始点でのH3K36me1修飾増加が確認された。HIT患者B細胞でも同様の経路亢進とプロモーター領域でのH3K36me1沈着増加が認められ、JMJD1C欠損とヒトHIT B細胞の分子学的類似性が示された。本研究はHITにおける新たなエピジェネティック機構を明らかにした。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Correction to \"Dual Targeting of Mutant p53 and SNRPD2 via Engineered Exosomes Modulates Alternative Splicing to Suppress Ovarian Cancer\".",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42095522/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1002/advs.75571",
+        "keyword": "Exosomes",
+        "title_ja": "「変異p53とSNRPD2の二重標的化による人工エクソソームを介した選択的スプライシング調節が卵巣癌を抑制する」の訂正",
+        "summary_ja": "以下の論文・記事を要約します。\n\n本論文は、卵巣癌抑制を目的とした、変異型p53とSNRPD2の二重標的化に関する研究の訂正事項を報告する。訂正内容は、図のラベル誤りやデータの再解析に基づくもので、主要な結論には影響しない。研究では、人工的に設計されたエキソソームを用いて、変異型p53とスプライシング因子SNRPD2を同時に標的化し、選択的スプライシングを調節することで卵巣癌の増殖を抑制する手法を提案している。この二重標的化により、癌細胞のアポトーシス誘導や腫瘍成長抑制が確認された。訂正により、結果の再現性と信頼性が向上した。"
+      },
+      {
+        "title": "Oral milk exosome-PLGA nanoparticles enhance anti-tuberculosis efficacy of PBTZ169 and bedaquiline.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42095088/",
+        "abstract": "The oral delivery of next-generation anti-tuberculosis drugs, such as PBTZ169 and bedaquiline (BDQ), is hindered by their poor solubility and low bioavailability. We, here, developed a bioinspired delivery platform that combines milk exosomes with poly(lactic-co-glycolic acid) (PLGA) nanoparticles to deliver the two drugs separately. This nanodelivery system leverages the gastrointestinal stability and mucosal penetration of exosomes, along with the high encapsulation efficiency of PLGA, significantly enhancing drug hydrophilicity and stability. In murine models, the exosome-coated nanoparticles increased plasma bioavailability by 2.5- to 4.9-fold compared with free drugs and achieved superior accumulation in target organs, while mitigating the cardiotoxicity risk associated with BDQ. This synergistic strategy, integrating synthetic and natural carriers, overcomes key pharmacological barriers, offering a promising approach to developing effective and patient-compliant oral therapies for tuberculosis and other potentially infectious diseases.",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.115641",
+        "keyword": "Exosomes",
+        "title_ja": "経口乳エクソソーム-PLGAナノ粒子がPBTZ169およびベダキリンの抗結核効果を増強する",
+        "summary_ja": "本論文では、次世代抗結核薬PBTZ169およびベダキリン（BDQ）の経口投与における溶解性とバイオアベイラビリティの低さを克服するため、ミルクエクソソームとPLGAナノ粒子を組み合わせた生体模倣型送達システムを開発した。本システムは、エクソソームの消化管安定性と粘膜浸透能、PLGAの高封入効率を活用し、薬物の親水性と安定性を向上させる。マウスモデルにおいて、エクソソーム被覆ナノ粒子は遊離薬物と比較して血漿中バイオアベイラビリティを2.5～4.9倍に増加させ、標的臓器への優れた集積を示すとともに、BDQ関連の心毒性リスクを軽減した。この合成・天然キャリアの相乗戦略は主要な薬理学的障壁を克服し、結核や他の感染症に対する患者コンプライアンスの高い経口療法の開発に有望なアプローチを提供する。"
+      },
+      {
+        "title": "Edaravone delivery of exosome-liposome hybrid nanoparticles for the treatment of ischemic stroke.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42093740/",
+        "abstract": "Ischemic stroke (IS) triggers neuroinflammatory cascades mediated by microglial polarization, where pro-inflammatory M1 phenotypes exacerbate neuronal damage, and anti-inflammatory M2 phenotypes promote repair. Edaravone (Eda), a free radical scavenger, shows potential for modulating microglial polarization but faces challenges in penetrating the blood-brain barrier (BBB) and achieving targeted delivery. This study develops a hybrid nanoparticle (SHp-NSCsome) that integrates hypoxia-preconditioned neural stem cell-derived exosomes with Eda-loaded liposomes functionalized with the ischemic-homing peptide SHp. SHp-NSCsome combines the biocompatibility and immunomodulatory properties of exosomes with the drug-loading capacity of liposomes, enabling efficient BBB traversal and targeting of ischemic lesions. ",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103159",
+        "keyword": "Exosomes",
+        "title_ja": "エダラボン搭載エクソソーム-リポソームハイブリッドナノ粒子による虚血性脳卒中治療",
+        "summary_ja": "虚血性脳卒中（IS）は、ミクログリアの分極を介した神経炎症カスケードを誘発し、炎症性M1表現型が神経損傷を悪化させ、抗炎症性M2表現型が修復を促進する。フリーラジカル消去剤であるEdaravone（Eda）はミクログリア分極の調節に有望だが、血液脳関門（BBB）透過と標的送達に課題がある。本研究では、低酸素プレコンディショニングした神経幹細胞由来エクソソームと、虚血ホーミングペプチドSHpで機能化したEda搭載リポソームを統合したハイブリッドナノ粒子（SHp-NSCsome）を開発。SHp-NSCsomeは、エクソソームの生体適合性・免疫調節特性とリポソームの薬物搭載能を組み合わせ、効率的なBBB通過と虚血病変への標的化を実現する。"
+      },
+      {
+        "title": "Macrophage-Inspired Nanomedicines: Harnessing Innate Biology for Precision Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42093314/",
+        "abstract": "While conventional nanomedicines often struggle with biological barriers and off-target effects, macrophage-based delivery systems offer a distinct advantage by harnessing the innate homing, barrier-penetrating, and immunomodulatory capacities of these cells. This review provides a critical analysis of the three main platforms derived from this concept: whole-macrophage carriers, macrophage membranes (MM)-coated nanoparticles, and macrophage-derived exosomes. Beyond cataloging engineering strategies-from genetic modification to biomimetic coating-we emphasize the design logic of translating specific biological functions into therapeutic capabilities. A key focus is their application across diverse diseases, particularly in remodeling the tumor microenvironment (TME) and treating inflammatory conditions, where their intrinsic biology aligns with therapeutic goals. Despite promising preclinical outcomes, we argue that the field's central challenge lies in transitioning from proof-of-concept studies to scalable, clinically viable manufacturing processes. This review not only synthesizes current advances but also establishes a framework for evaluating these systems, highlighting the need for standardized characterization and long-term safety studies to guide their rational development toward clinical precision medicine.",
+        "source": "PubMed",
+        "doi": "10.1002/smll.73699",
+        "keyword": "Exosomes",
+        "title_ja": "マクロファージに着想を得たナノ医薬品：自然免疫の生物学を活用した精密治療",
+        "summary_ja": "このレビューは、従来のナノ医薬品が抱える生体バリアやオフターゲット効果の問題に対し、マクロファージの持つ生来のホーミング能、バリア透過能、免疫調節能を活用したマクロファージ模倣ナノ医薬品を批判的に分析する。主なプラットフォームとして、全マクロファージキャリア、マクロファージ膜（MM）コーティングナノ粒子、マクロファージ由来エクソソームの3つを挙げ、遺伝子改変から生体模倣コーティングに至る工学戦略を整理し、生物学的機能を治療能力に変換する設計論理を強調する。特に腫瘍微小環境（TME）のリモデリングや炎症性疾患への応用に焦点を当て、その内在的生物学的特性が治療目標と一致する点を論じる。前臨床成果は有望だが、概念実証からスケーラブルで臨床的に実行可能な製造プロセスへの移行が最大の課題であると指摘。標準化された特性評価と長期安全性研究の必要性を提唱し、臨床精密医療に向けた合理的開発の枠組みを提示す"
+      },
+      {
+        "title": "Modulation of tumor-derived exosomes and reprogramming of cancer-associated fibroblasts for colorectal cancer therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42092888/",
+        "abstract": "Hypoxia is pervasive within the solid tumor microenvironment (TME), reshaping it through exosome release. As the main component of the tumor stroma, fibroblasts influence TME remodeling and tumor progression. Recent advances in targeting tumor-derived exosomes offer promising opportunities for innovative colorectal cancer (CRC) therapies. Here, we found that exosomes induced by hypoxia in CRC cells (H-Exo) can promote the activation of normal tissue-associated fibroblasts (NAFs) into cancer-associated fibroblasts (CAFs) phenotype, with a stronger effect compared to normoxic exosomes (N-Exo). Machine learning analysis identified HIF1A-AS2, induced by hypoxic tumor-derived exosomes, as a promising prognostic lncRNA in CRC. Pan-cancer and scRNA-seq analyses showed that high HIF1A-AS2 expression was characterized by hypoxia, angiogenesis, immunosuppression (e.g., CAFs), TGF-β, and fibroblast-CD44 interactions in CRC. HIF1A-AS2 expression progressively increased along pseudotime, shifting from early immune activation to late-stage extracellular matrix (ECM) organization, vascular niche formation, and fibroblast activation. HIF1A-AS2 in H-Exo was a key factor in the transformation of NAFs into CAFs. Exosomal HIF1A-AS2 sequesters miR-33, thereby derepressing HIF-1α, activating Notch1/ERK signaling, and upregulating angiogenic and matrix-remodeling factors (e.g., VEGF, MMP-7, and MMP-9). Further research revealed that exosomes with silenced HIF1A-AS2 or overexpressed miR-33 could inhibit CAF infiltration, tumor cell proliferation, angiogenesis, and ECM reorganization in xenografts, ultimately suppressing tumor growth. These findings highlight that simultaneously blocking tumor exosome-driven fibroblast activation and the HIF1A-AS2/miR-33/HIF-1α axis may serve as a promising therapeutic avenue for CRC intervention.",
+        "source": "PubMed",
+        "doi": "10.1186/s12943-026-02661-2",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍由来エクソソームの調節と大腸がん治療のための癌関連線維芽細胞のリプログラミング",
+        "summary_ja": "低酸素環境は固形腫瘍微小環境（TME）において普遍的であり、エクソソーム放出を介してTMEを再形成する。本研究では、大腸癌（CRC）細胞由来の低酸素誘導エクソソーム（H-Exo）が、正常組織関連線維芽細胞（NAF）を癌関連線維芽細胞（CAF）へと活性化することを発見した。機械学習解析により、低酸素腫瘍由来エクソソームに含まれるHIF1A-AS2がCRCの予後関連lncRNAとして同定された。HIF1A-AS2は低酸素、血管新生、免疫抑制（CAFなど）、TGF-β、線維芽細胞-CD44相互作用と関連し、偽時間解析では初期免疫活性化から後期細胞外マトリックス（ECM）組織化、血管ニッチ形成、線維芽細胞活性化へと発現が増加した。H-Exo中のHIF1A-AS2はmiR-33を隔離し、HIF-1αを抑制解除、Notch1/ERKシグナルを活性化し、VEGF、MMP-7、MMP-9を上方制御した。H"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Preclinical Evidence of Extracellular Vesicle-derived MicroRNAs in Relieving Diabetic Peripheral Neuropathy: A Systematic Review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42095965/",
+        "abstract": "Diabetic peripheral neuropathy (DPN) provokes axonal degeneration and impairs nerve repair. Preclinical studies suggest that extracellular vesicles (EVs) exert neuroregenerative effects. As miRNAs are key, transferable bioactive cargoes that mediate the majority of observed EV functions in cell-to-cell communication, this systematic review specifically evaluated animal model evidence on the therapeutic potential of EV-derived miRNAs in alleviating DPN. A comprehensive search of MEDLINE, Embase, and ISI Web of Science was conducted on March 21, 2025 following PRISMA 2020 (PROSPERO registration ID: CRD420251130044). This review included studies that utilized in vivo models of DPN and in vitro hyperglycemic models only when corroborated by in vivo validation within the same study. Functional, electrophysiological, and histological assessments of nerve regeneration constituted the outcomes. Data were qualitatively synthesized and their quality was assessed using SYRCLE's Risk of Bias Tool. Nine studies met the inclusion criteria. The synthesis revealed a bidirectional regulatory role for EV miRNAs in DPN pathophysiology, dependent on both the miRNA species and the pathophysiological state of the EV source cell. Neuroprotective miRNAs (e.g., miR-21, -146a, let-7a, -20b-3p) from healthy or stem cell sources enhanced myelin integrity, nerve conduction, and neurovascularization, while mitigating neuroinflammation. Conversely, pathological hyperglycemia could reprogram EV cargo, leading to the enrichment of neurodegenerative miRNAs (e.g., miR-28, -31a, -221) that exacerbated neuropathic features. EV miRNAs exhibit significant improvement in peripheral nerve function, alleviating neuropathic pain, or promoting nerve regeneration under hyperglycemia. Nevertheless, preclinical research with more homogenous methods is necessary to advance clinical translation.",
+        "source": "PubMed",
+        "doi": "10.1007/s12031-026-02500-5",
+        "keyword": "Exosomes",
+        "title_ja": "細胞外小胞由来マイクロRNAによる糖尿病性末梢神経障害緩和の前臨床的エビデンス：系統的レビュー",
+        "summary_ja": "この系統的レビューは、糖尿病性末梢神経障害（DPN）に対する細胞外小胞（EV）由来miRNAの治療可能性を動物モデルで評価した。MEDLINE、Embase、ISI Web of Scienceを2025年3月21日に検索（PRISMA 2020準拠、PROSPERO登録ID: CRD420251130044）。in vivo DPNモデルとin vitro高血糖モデルを用いた研究を対象とし、機能的・電気生理学的・組織学的評価をアウトカムとした。9件の研究が適格基準を満たした。EV miRNAはDPN病態において二方向性の調節役割を示し、健常または幹細胞由来の神経保護的miRNA（miR-21、-146a、let-7a、-20b-3p）は髄鞘統合性、神経伝導、神経血管新生を促進し、神経炎症を軽減した。一方、病的な高血糖はEVカーゴを再プログラムし、神経変性miRNA（miR-28、-31a"
+      },
+      {
+        "title": "Exosomal miR-27a-3p promotes osteosarcoma lung metastasis by negatively regulating TNFAIP3 to form a premetastatic niche.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42095873/",
+        "abstract": "Osteosarcoma (OS) is a highly aggressive primary bone malignancy with a strong predilection for lung metastasis, and the formation of a lung pre-metastatic niche represents a key early event driving OS distant dissemination. Elucidating the molecular mechanisms of pre-metastatic niche establishment is therefore critical for developing novel anti-metastatic therapies for OS. However, the mechanisms by which OS cells initiate the formation of a lung pre-metastatic niche remain poorly understood. Exosomes, as key mediators of intercellular communication, play a pivotal role in promoting tumor metastasis by shuttling functional biomolecules to remodel the microenvironment of distant target organs. In this study, we found that MG63 OS cells secreted exosomal miR-27a-3p, which targeted TNFAIP3 in lung fibroblasts, resulting in decreased TNFAIP3 protein expression. This downregulation enhanced the metastatic potential of OS cells toward lung fibroblasts. TNFAIP3 was identified as a direct target of miR-27a-3p, and TNFAIP3-Mut abrogated the regulatory effect of miR-27a-3p on TNFAIP3 expression, confirming the specific targeting relationship. Mechanistically, miR-27a-3p-mediated suppression of TNFAIP3 abrogated its negative regulation of the NF-κB pathway, leading to increased transcription of downstream inflammatory cytokines IL-1β, IL-6, and IL-8. The resulting pro-inflammatory microenvironment contributed to the establishment of a lung pre-metastatic niche, thereby promoting OS lung metastasis. These findings underscore the critical role of OS-derived exosomes in lung metastasis and suggest that exosomal miR-27a-3p may serve as a promising therapeutic target in OS lung metastasis.",
+        "source": "PubMed",
+        "doi": "10.1007/s00438-026-02431-1",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームmiR-27a-3pはTNFAIP3を負に制御して転移前ニッチを形成することで骨肉腫の肺転移を促進する",
+        "summary_ja": "骨肉腫（OS）は肺転移を好む高悪性度骨腫瘍であり、肺のpremetastatic niche形成が遠隔転移の初期イベントとして重要である。本研究では、MG63骨肉腫細胞が分泌するexosomal miR-27a-3pが、肺線維芽細胞のTNFAIP3を直接標的とし、その発現を低下させることを見出した。TNFAIP3の抑制はNF-κB経路の負の制御を解除し、炎症性サイトカインIL-1β、IL-6、IL-8の転写を亢進させ、炎症性微小環境を形成した。これにより肺のpremetastatic nicheが確立され、骨肉腫の肺転移が促進された。TNFAIP3-Mutを用いた検討により、miR-27a-3pとTNFAIP3の特異的結合関係が確認された。以上の結果は、骨肉腫由来エクソソームが肺転移に果たす役割を明らかにし、exosomal miR-27a-3pが骨肉腫肺転移の治療標的として有望であること"
+      },
+      {
+        "title": "Retina-targeted siRNA delivery ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42093552/",
+        "abstract": "Effective treatment of neovascular age-related macular degeneration (AMD) requires targeted inhibition of vascular endothelial growth factor (VEGF) within the retina. However, delivering therapeutic siRNA to the retinal pigment epithelium (RPE), a key source of pathogenic VEGF, remains a major challenge due to ocular barriers and poor cellular tropism. To address this, we developed a retina-targeted delivery system by engineering exosome-liposome hybrid vesicles that encapsulate VEGF-silencing siRNA (Hybrid-siVEGF). The hybrid design leverages the innate homing capability of RPE-derived exosomes for retinal targeting, combined with the high siRNA loading capacity of synthetic liposomes. ",
+        "source": "PubMed",
+        "doi": "10.1039/d6bm00090h",
+        "keyword": "Exosomes",
+        "title_ja": "網膜標的型siRNA送達",
+        "summary_ja": "加齢黄斑変性（AMD）の治療には網膜内のVEGF標的阻害が有効だが、siRNAを網膜色素上皮（RPE）へ送達することは眼のバリアと細胞指向性の低さから困難である。本研究では、RPE由来エクソソームの網膜指向性と合成リポソームの高siRNA搭載能を組み合わせた、エクソソーム-リポソームハイブリッド小胞（Hybrid-siVEGF）を開発した。このシステムはVEGFサイレンシングsiRNAを内包し、網膜標的送達を実現する。"
+      },
+      {
+        "title": "PAM@GO Composite Scaffolds Enhance the Yield of iMEC Exosomes for Accelerated Burn Repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42093508/",
+        "abstract": "Severe burns trigger widespread tissue necrosis and a persistent inflammatory cascade, demanding the development of advanced biomaterials capable of actively promoting cutaneous regeneration. In this study, we present a multifunctional hydrogel system integrating a polyacrylamide-graphene oxide (PAM@GO) matrix, capable of promoting induced mammary epithelial-like cells (iMECs) to achieve the high-yield production of exosomes (PAM@GO-EXOs-iMECs), and enhance the biological functions. Mechanistically, iMECs exosome biogenesis can be enhanced by both activating RAB27A/B-mediated vesicular trafficking and upregulating the critical MITF-NSMASE2 signaling axis. Furthermore, in vitro assays demonstrated that PAM@GO-EXOs-iMECs significantly stimulated keratinocyte proliferation and migration, alongside robust endothelial tube formation compared to 2D-EXOs-iMECs. The PAM@GO-EXOs-iMECs were subsequently encapsulated within a methoxy polyethylene glycol (MPEG) hydrogel to form a sustained-release bioactive dressing (PAM@GO-EXOs-MPEG). In murine burn models, PAM@GO-EXOs-MPEG accelerated wound closure, improved collagen alignment, and fostered neovascularization compared to 2D-EXOs-iMECs. Meanwhile, proteomic profiling revealed profound enrichment of proteins linked to epidermal development, cytoskeletal reorganization, and inflammatory resolution following treatment with PAM@GO-EXOs-MPEG. Collectively, this work establishes an innovative PAM@GO scalable platform for significantly promoting exosome production and introduces a clinically translatable exosome-hydrogel hybrid with substantial regenerative potential for severe burn repair.",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.202505468",
+        "keyword": "Exosomes",
+        "title_ja": "PAM@GO複合足場がiMECエクソソームの収量を向上させ、熱傷治癒を促進する",
+        "summary_ja": "本論文では、重症熱傷治療のため、PAM@GO複合足場を用いてiMECからの高収量エクソソーム産生を促進するハイドロゲルシステムを開発した。PAM@GOマトリックスはRAB27A/Bを介した小胞輸送とMITF-NSMASE2シグナル軸を活性化し、エクソソーム産生を増強した。in vitroでは、PAM@GO-EXOs-iMECsが2D培養と比較してケラチノサイトの増殖・遊走および内皮管形成を有意に促進。これをMPEGハイドロゲルに封入したPAM@GO-EXOs-MPEGは、マウス熱傷モデルにおいて創傷治癒の加速、コラーゲン配向の改善、新生血管形成を促進した。プロテオーム解析では、表皮発生や細胞骨格再編成、炎症収束に関連するタンパク質の濃縮が確認された。本プラットフォームは、エクソソーム生産のスケーラブルな増強と、臨床応用可能な再生医療用ハイブリッド材料を提供する。"
+      },
+      {
+        "title": "Circulating miR-184 and miR-206 as predictive biomarkers for early recurrence in HBV-related hepatocellular carcinoma: a prospective study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42092820/",
+        "abstract": "Early recurrence after curative resection remains a major challenge in hepatocellular carcinoma (HCC), particularly in hepatitis B virus (HBV)-related cases. Liquid biopsy using circulating microRNAs (miRNAs) offers a non-invasive approach to identify molecular markers predictive of recurrence.",
+        "source": "PubMed",
+        "doi": "10.1186/s12876-026-04871-w",
+        "keyword": "Exosomes",
+        "title_ja": "循環miR-184およびmiR-206がHBV関連肝細胞癌の早期再発予測バイオマーカーとしての前向き研究",
+        "summary_ja": "タイトル：HBV関連肝細胞癌における早期再発予測バイオマーカーとしての循環miR-184およびmiR-206：前向き研究\n\n肝細胞癌（HCC）の根治的切除後、特にB型肝炎ウイルス（HBV）関連症例では早期再発が主要な課題である。循環マイクロRNA（miRNA）を用いたリキッドバイオプシーは、再発予測のための分子マーカーを非侵襲的に同定する手法として注目される。本前向き研究では、HBV関連HCC患者を対象に、術前の血中miR-184およびmiR-206の発現量を測定し、早期再発との関連を解析した。その結果、両miRNAの高発現が早期再発の有意な予測因子であることが示された。miR-184とmiR-206は、HBV関連HCCにおける再発リスク層別化のための有用なバイオマーカーとなる可能性が示唆された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Environmental pollutant BDE-47 alters glycan and microRNA signatures of macrophage-derived extracellular vesicles and modulates senescence signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42093027/",
+        "abstract": "Extracellular vesicles (EVs) are key mediators of intercellular communication, and their molecular cargo and surface properties can be profoundly influenced by external stimuli. In the context of inflammation, immune cells increase EV release to regulate immunity and metabolism. We previously demonstrated that BDE-47 alters macrophage immune responses by impairing pro-inflammatory cytokine secretion and modulating both the production and microRNA cargo of macrophage-derived sEVs, which in turn can influence the phenotype of naïve macrophages. These observations suggest that pollutant-induced alterations of EVs may represent an important mechanism regulating cell-to-cell communication and immune signaling pathways.",
+        "source": "PubMed",
+        "doi": "10.1186/s12964-026-02903-2",
+        "keyword": "sEVs",
+        "title_ja": "環境汚染物質BDE-47がマクロファージ由来細胞外小胞のグリカンおよびマイクロRNAシグネチャーを変化させ、老化シグナル伝達を調節する",
+        "summary_ja": "環境汚染物質BDE-47が、マクロファージ由来細胞外小胞（EV）のグリカンおよびマイクロRNAシグネチャーを変化させ、老化シグナル伝達を調節することを示した研究。EVは細胞間コミュニケーションの主要な媒介因子であり、その分子カーゴや表面特性は外部刺激の影響を強く受ける。炎症時には免疫細胞がEV放出を増加させ、免疫と代謝を調節する。先行研究でBDE-47は、マクロファージの炎症性サイトカイン分泌を抑制し、小型EVの産生とマイクロRNAカーゴを変化させ、未処理マクロファージの表現型に影響を与えることが示された。これらの知見は、汚染物質によるEVの変化が細胞間コミュニケーションや免疫シグナル経路を調節する重要なメカニズムである可能性を示唆する。"
+      },
+      {
+        "title": "Hypericin-loaded small extracellular vesicles increase photodynamic therapy and remodel miRNA-mRNA axes in AGS gastric cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42091966/",
+        "abstract": "Gastric cancer remains a cause of cancer mortality, and there is a need for locally controllable therapies that limit systemic toxicity and overcome heterogeneous responses. Photodynamic therapy (PDT) is attractive, yet efficacy is constrained by limited intracellular availability of photosensitizers. We tested whether small extracellular vesicles (sEVs) enhance hypericin (HYP) delivery and PDT responses in AGS cells, and whether cytotoxicity aligns with transcript and epigenetic remodeling. Human sEVs were loaded with HYP by probe sonication and characterized by DLS/ELS, TEM, and CD9/CD63/CD81 flow profiling. Cells were assigned to untreated, light-only, sEV-only (+ light), free HYP (dark), free HYP + PDT, sEV-HYP (dark), or sEV-HYP + PDT; irradiation used 590 nm (3 J/cm²). sEV-HYP + PDT left-shifted dose-response and reduced IC₅₀ at 24 h (9.8 vs. 12.9 µg/mL) and 48 h (5.1 vs. 8.9 µg/mL). sEV delivery accelerated intracellular deposition: at 4 h, HYP",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-48139-5",
+        "keyword": "sEVs",
+        "title_ja": "高ピペリシン搭載小型細胞外小胞がAGS胃癌細胞における光線力学療法を増強し、miRNA-mRNA軸を再構築する",
+        "summary_ja": "この論文では、胃癌細胞AGSに対する光線力学療法（PDT）の効果向上を目的に、小型細胞外小胞（sEV）を用いたハイペリシン（HYP）の送達を検討した。HYPをプローブソニケーションでsEVに内包させ、DLS/ELS、TEM、CD9/CD63/CD81フロー解析で特性評価を行った。AGS細胞を未処理、光のみ、sEVのみ（＋光）、遊離HYP（暗所）、遊離HYP＋PDT、sEV-HYP（暗所）、sEV-HYP＋PDTの7群に分け、590 nm（3 J/cm²）で照射した。その結果、sEV-HYP＋PDT群は用量反応曲線が左方シフトし、24時間後のIC₅₀が9.8 µg/mL（遊離HYP＋PDTは12.9 µg/mL）、48時間後は5.1 µg/mL（同8.9 µg/mL）と低下した。また、sEV送達によりHYPの細胞内取り込みが促進され、4時間後には有意な蓄積が確認された。以上より、sEV搭載H"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、それぞれの重要性・背景・今後の展望をまとめます（合計500文字以内）。\n\n1. **JMJD1CとHIT抗体産生のエピジェネティック制御**  \n  ヘパリン起因性血小板減少症（HIT）はPF4抗体が原因の重篤な免疫疾患。本研究はヒストン脱メチル化酵素JMJD1Cが抗体産生を制御する初のエビデンスを示し、エピジェネティック治療の新標的を提示。今後、HIT予防や個別化医療への応用が期待される。\n\n2. **ミルクエクソソーム-PLGAナノ粒子による抗結核薬経口送達**  \n  PBTZ169やベダキリンの低バイオアベイラビリティを克服するため、ミルクエクソソームとPLGAを融合した生体模倣キャリアを開発。経口投与で薬効を向上させ、結核治療のアドヒアランス改善に貢献する可能性が高い。\n\n3. **エクソソーム-リポソームハイブリッドによる脳卒中治療**  \n  エダラボンを搭載したハイブリッドナノ粒子が、虚血性脳卒中モデルでミクログリアのM2分極を誘導し神経保護効果を示した。脳関門透過性と標的性を両立する次世代DDSとして、臨床応用が期待される。\n\n4. **低酸素誘導エクソソームによる大腸癌微小環境リプログラミング**  \n  腫瘍由来エクソソームが正常線維芽細胞を癌関連線維芽細胞（CAF）に変換する機構を解明。CAF再プログラム化による治療抵抗性克服や、エクソソーム分泌阻害を標的とした新規治療戦略の基盤となる。\n\n5. **環境汚染物質BDE-47による細胞外小胞の老化シグナル調節**  \n  難燃剤BDE-47がマクロファージ由来EVのグリカン・miRNAプロファイルを変化させ、老化関連シグナルを活性化することを発見。環境因子と細胞間コミュニケーションを結ぶ新たな視点を提供し、EVを介した老化・疾患予防への応用が期待される。"
+}

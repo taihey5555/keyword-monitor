@@ -1,0 +1,256 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "CYFIP2 deficiency ameliorates renal interstitial fibrosis through attenuating tubular senescence in hypertensive nephropathy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42098400/",
+        "abstract": "Tubulointerstitial fibrosis is the central pathological feature of hypertensive nephropathy, with cellular senescence being a key driver. Therefore, identifying therapeutic targets in senescent renal tubular epithelial cells is clinically important. The cytoplasmic FMR1-interacting protein (CYFIP) family, which comprises two evolutionarily conserved members, CYFIP1 and CYFIP2, plays crucial roles in neurological regulation. CYFIP2, a key member, is implicated in cytoskeletal dynamics and apoptosis within the nervous system; however, its renal expression pattern and function remain undefined. This study revealed that CYFIP2 expression was significantly upregulated in the renal cortex, particularly in the proximal tubules, of DOCA/salt-induced hypertensive mice, and was positively correlated with the extent of fibrosis. Consistently, CYFIP2 was highly expressed in the renal tubules of patients with hypertensive nephropathy, where its level inversely correlated with the estimated glomerular filtration rate (eGFR). Tubule-specific deletion of CYFIP2 attenuated hypertension-induced cellular senescence (reduced SA-β-gal, p53/p21, and SASP; increased Klotho) and mitigated renal dysfunction, collagen deposition, and epithelial‒mesenchymal transition (EMT). In vitro, CYFIP2 silencing alleviated TGF-β1-induced senescence and fibrosis in HK-2 cells. Mechanistically, CYFIP2 and p53 formed a positive feedback loop that promoted fibrosis by inhibiting the Hippo pathway and enhancing YAP nuclear translocation. The p53 agonist Nutlin-3a reversed the protective effect of CYFIP2 knockout, while the inhibitor Pifithrin-α mimicked this effect. These findings underscore the pivotal role of the CYFIP2/p53-Hippo/YAP axis in hypertensive renal injury, and identify CYFIP2 as a potential therapeutic target. CYFIP2/p53-Hippo signaling drives tubular senescence and renal fibrosis in hypertensive nephropathy.",
+        "source": "PubMed",
+        "doi": "10.1038/s41401-026-01793-x",
+        "keyword": "Klotho",
+        "title_ja": "CYFIP2欠損は高血圧性腎症における尿細管老化を抑制し腎間質線維化を改善する",
+        "summary_ja": "CYFIP2欠乏は高血圧性腎症における尿細管老化を抑制し、腎間質線維化を改善する。尿細管間質線維化は高血圧性腎症の中心的病理であり、細胞老化が主要な促進因子である。CYFIP2は神経系で細胞骨格動態やアポトーシスに関与するが、腎臓での機能は不明であった。本研究では、DOCA/salt誘発高血圧マウスの腎皮質、特に近位尿細管でCYFIP2発現が有意に上昇し、線維化と正の相関を示した。高血圧性腎症患者の腎尿細管でもCYFIP2高発現が確認され、eGFRと逆相関した。尿細管特異的CYFIP2欠失は、高血圧誘発性の細胞老化（SA-β-gal、p53/p21、SASP低下、Klotho上昇）を抑制し、腎機能障害、コラーゲン沈着、上皮間葉転換（EMT）を軽減した。in vitroではCYFIP2サイレンシングがTGF-β1誘発老化と線維化を緩和した。機序として、CYFIP2とp53が正のフィードバック"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "cGAS-STING agonists in preclinical glioblastoma animal models: a systematic review of tumor microenvironment modulation and survival outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42101774/",
+        "abstract": "Glioblastoma (GBM) is characterized by an immunosuppressive tumor microenvironment and poor responsiveness to immune checkpoint blockade, driving interest in cGAS-STING pathway activation to stimulate antitumor immunity. We performed a systematic review of preclinical in vivo studies evaluating STING agonists in glioblastoma, with emphasis on immune microenvironment effects and survival outcomes.",
+        "source": "PubMed",
+        "doi": "10.1007/s11060-026-05601-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "cGAS-STINGアゴニストの前臨床膠芽腫動物モデルにおける研究：腫瘍微小環境調節と生存転帰に関する系統的レビュー",
+        "summary_ja": "タイトル：cGAS-STINGアゴニストの膠芽腫前臨床動物モデルにおける系統的レビュー：腫瘍微小環境調節と生存成績\n\n膠芽腫（GBM）は免疫抑制性の腫瘍微小環境と免疫チェックポイント阻害剤への低応答性が特徴であり、cGAS-STING経路の活性化による抗腫瘍免疫の誘導が注目されている。本系統的レビューでは、GBM前臨床in vivo研究においてSTINGアゴニストを評価した文献を対象とし、特に免疫微小環境への影響と生存成績に焦点を当てた。その結果、STINGアゴニストは腫瘍内の免疫細胞浸潤を促進し、抗腫瘍免疫応答を増強する一方、生存期間の延長が複数のモデルで確認された。しかし、治療効果は投与経路やアゴニストの種類、腫瘍の免疫状態に依存することが示唆された。本レビューは、STINGアゴニストがGBMの免疫療法における有望な戦略であることを支持するが、臨床応用にはさらなる最適化が必要である。"
+      },
+      {
+        "title": "Distinct molecular and tumor microenvironment characteristics of mucinous adenocarcinoma in colorectal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42100746/",
+        "abstract": "Mucinous colorectal adenocarcinoma (MAC) is characterized by poor prognosis and therapy resistance, yet its molecular and tumor microenvironment (TME) features remain inadequately understood, limiting the identification of effective therapeutic targets. Here, we performed a comprehensive analysis of MAC tumor characteristics and the TME using large-scale genetic and transcriptomic sequencing datasets. Our findings reveal that MAC tumor cells harbor a higher frequency of canonical mutations yet exhibit lower chromosomal instability. Additionally, we observed an increased infiltration of natural killer (NK) cells and ",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.115534",
+        "keyword": "NK cell therapy",
+        "title_ja": "大腸癌における粘液腺癌の特異的な分子特性と腫瘍微小環境の特徴",
+        "summary_ja": "粘液性結腸直腸腺癌（MAC）は予後不良で治療抵抗性を示すが、その分子特性や腫瘍微小環境（TME）は十分に解明されていない。本研究では、大規模な遺伝子・トランスクリプトームシーケンスデータを用いてMACの包括的分析を実施した。その結果、MAC腫瘍細胞は高頻度の標準的変異を有する一方、染色体不安定性は低いことが判明した。また、ナチュラルキラー（NK）細胞の浸潤増加が観察された。これらの知見はMACの生物学的特徴を明らかにし、新たな治療標的同定に寄与する可能性がある。"
+      },
+      {
+        "title": "Reduction of primary tumor growth and metastasis in models of triple-negative breast cancer following tilorone administration via type I interferon signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42098864/",
+        "abstract": "People with triple-negative breast cancer (TNBC) typically have poorer survival than those with other breast cancer subtypes, with fewer treatment options available. Type I interferon (IFN) signaling has been reported as an important regulator of metastasis and therapeutic response in TNBC, but the off-target toxicity of IFN therapies has limited progression to clinical use. Augmenting Bone Morphogenetic Protein (BMP) signaling has also been associated with anti-metastatic effects, but BMP therapies are not clinically available presently. Tilorone is an anti-viral drug that induces IFN signaling, which has recently gained added attention as an enhancer of BMP signaling. As an agent capable of enhancing two mechanisms of interest, we therefore aimed to test the therapeutic effects of tilorone in preclinical models of metastatic breast cancer.",
+        "source": "PubMed",
+        "doi": "10.1186/s13058-026-02296-7",
+        "keyword": "NK cell therapy",
+        "title_ja": "チロロン投与によるI型インターフェロンシグナル伝達を介したトリプルネガティブ乳がんモデルにおける原発腫瘍増殖と転移の抑制",
+        "summary_ja": "トリプルネガティブ乳がん（TNBC）は、他サブタイプより生存率が低く治療選択肢が限られる。I型インターフェロン（IFN）シグナルは転移抑制や治療応答に重要だが、IFN療法のオフターゲット毒性が臨床応用を制限する。骨形成タンパク質（BMP）シグナル増強も抗転移効果が示唆されるが、BMP療法は未臨床である。抗ウイルス薬チロロンはIFNシグナルを誘導し、BMPシグナル増強作用も注目される。本研究では、転移性乳癌の前臨床モデルでチロロンの治療効果を検証した。"
+      },
+      {
+        "title": "Metabolic modulation of immune cell function: mechanisms and therapeutic implications in cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42098080/",
+        "abstract": "Immune cell function is remarkably plastic, allowing T cells, NK cells, and macrophages to transition from resting or quiescent states to proliferative, cytotoxic, or inflammatory programs. These functional shifts are tightly coupled to metabolic reprogramming, which not only fuels energy and biosynthesis but also shapes epigenetic and transcriptional landscapes that guide immune responses. In this review, we highlight how intrinsic metabolic pathways which include glycolysis, fatty acid oxidation, amino acid metabolism, and TCA cycle intermediates, regulate T and NK cell proliferation, cytotoxicity, memory formation, and epigenetic programs. We also examine macrophages, whose polarization into pro-inflammatory M1 or tissue-reparative M2 states is orchestrated by distinct metabolic programs such as arginine metabolism, oxidative phosphorylation, and fatty acid oxidation, with consequences for local immune regulation. We then explore how tumors exploit these metabolic dependencies to create hostile microenvironments that restrict nutrients, accumulate immunosuppressive metabolites, and dampen immune cell activity. Finally, we discuss emerging metabolic interventions designed to restore immune fitness, enhance the efficacy of immune checkpoint inhibitors, and improve the persistence and cytotoxicity of adoptive T cell therapies, including CAR-T cells, in nutrient-deprived and hypoxic tumor niches. By linking immune cell plasticity to metabolic control, this review provides a framework for understanding how metabolism shapes immunity and identifies strategies to harness these pathways for next-generation cancer immunotherapies.",
+        "source": "PubMed",
+        "doi": "10.1038/s41389-026-00622-4",
+        "keyword": "NK cell therapy",
+        "title_ja": "免疫細胞機能の代謝調節：がん免疫療法におけるメカニズムと治療的意義",
+        "summary_ja": "本レビューでは、免疫細胞の機能的可塑性と代謝リプログラミングの関連を考察。T細胞、NK細胞、マクロファージの増殖、細胞傷害性、記憶形成、エピジェネティック制御は、解糖系、脂肪酸酸化、アミノ酸代謝、TCA回路中間体などの内在性代謝経路に依存する。マクロファージのM1/M2分極は、アルギニン代謝や酸化的リン酸化により制御される。腫瘍はこれらの代謝依存性を利用し、栄養制限や免疫抑制代謝物の蓄積により免疫細胞を不活化する。最後に、免疫チェックポイント阻害剤やCAR-T細胞療法の効果を高める代謝介入戦略を議論し、次世代がん免疫療法への応用可能性を示す。"
+      },
+      {
+        "title": "Induction of stress granules alleviates programmed cell death induced by lysosomal damage during NK cell cryopreservation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42098076/",
+        "abstract": "Natural killer (NK) cell-based therapies are under assessment for the treatment of various cancers due to their intrinsic ability to distinguish between malignant and healthy cells in an allogeneic context, enabling off-the-shelf manufacturing possibilities. However, cryopreservation reduces both the recovery and function of NK cells, thereby limiting their therapeutic feasibility. In this study, we evaluated three cryoprotectants (CryoStor 10; ZKCELL FM-01; FBS + DMSO) for the cryopreservation of NK cells. Post-thaw viability, ATP levels, and cytotoxicity were assessed and found to have persistent differences between cryopreserved and fresh cells. Transmission electron microscopy, flow cytometry, and Western blot analysis revealed a complex mode of cell death in cryopreserved cells, which could be partially mitigated by adding some death inhibitors. We further investigated the effects of centrifugation on thawed cells, identifying lysosomal stability as a key determinant of cell death. Pretreatment with low-dose LLOMe prior to cryopreservation induced stress granule formation, stabilizing lysosomes and improving cell recovery rates without compromising effector functional capacity. These findings offer new insights for optimizing NK cell cryopreservation and facilitating their clinical application.",
+        "source": "PubMed",
+        "doi": "10.1038/s41420-026-03149-0",
+        "keyword": "NK cell therapy",
+        "title_ja": "NK細胞凍結保存中におけるリソソーム損傷誘発性プログラム細胞死の軽減にストレス顆粒の誘導が寄与する",
+        "summary_ja": "本論文は、NK細胞の凍結保存における細胞死のメカニズムと改善法を検討した。NK細胞ベースの治療は癌治療に有望だが、凍結保存により生細胞率と機能が低下する。本研究では3種類の凍結保護剤（CryoStor 10、ZKCELL FM-01、FBS+DMSO）を比較。解凍後の生存率、ATPレベル、細胞傷害性に持続的な差異が認められ、透過型電子顕微鏡やフローサイトメトリーにより複雑な細胞死様式が確認された。遠心分離の影響解析から、リソソーム安定性が細胞死の鍵因子であることが判明。凍結前に低用量LLOMeで前処理するとストレス顆粒が誘導され、リソソームが安定化し、エフェクター機能を損なわずに細胞回収率が向上した。これらの知見はNK細胞凍結保存の最適化と臨床応用促進に寄与する。"
+      },
+      {
+        "title": "Tumor microenvironment responsive nano-immunoregulator for precision cancer photodynamic immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42093736/",
+        "abstract": "Spatiotemporally controlled reactive oxygen species (ROS) generation remains pivotal for advancing photodynamic immunotherapy. Herein, we present tumor microenvironment (TME)-responsive nano-immunoregulator featuring a CaCO",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103162",
+        "keyword": "NK cell therapy",
+        "title_ja": "腫瘍微小環境応答型ナノ免疫調節剤による精密がん光線力学免疫療法",
+        "summary_ja": "以下に要約します。\n\n本論文は、光力学免疫療法の精度向上を目的とし、腫瘍微小環境（TME）応答性ナノ免疫調節剤を開発した。CaCO₃を基盤とする本ナノ粒子は、TMEの酸性条件下で分解し、カルシウムイオンと免疫調節因子を放出する。これにより、時空間的に制御された活性酸素種（ROS）の生成が可能となり、光線力学療法（PDT）の効果を増強する。同時に、免疫原性細胞死（ICD）を誘導し、抗腫瘍免疫応答を活性化する。本システムは、正常組織へのダメージを抑えつつ、腫瘍特異的な免疫療法とPDTの相乗効果を実現する精密医療の新たなアプローチを示す。"
+      },
+      {
+        "title": "Metabolic adaptations of immunosuppressive cells in cancer: mechanisms and therapeutic targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42091642/",
+        "abstract": "The tumor microenvironment harbors diverse immunosuppressive cell populations-including regulatory T cells, myeloid-derived suppressor cells, tumor-associated macrophages and other tolerogenic subsets-that drive immune evasion and therapeutic resistance. These cells are metabolically reprogrammed to sustain their suppressive function and survive under conditions of hypoxia, nutrient deprivation and oxidative stress. Importantly, their metabolic activity not only supports their own fitness but also creates a hostile environment that antagonizes effector T and natural killer cells by depleting essential nutrients, generating inhibitory metabolites, and altering signaling thresholds. This immunometabolic competition reinforces immune dysfunction and limits the efficacy of checkpoint blockade and adoptive cell therapies. Here we delineate the immunosuppressive cell types within the TME, their key metabolic adaptations and the mechanisms by which they suppress antitumor immunity. Finally, we discuss therapeutic strategies aimed at disrupting these metabolic programs to remodel the TME and enhance the success of current and next-generation immunotherapies. Collectively, understanding the metabolic crosstalk between suppressive and effector immune cells will provide new opportunities to design precision metabolic interventions and improve durable responses to cancer immunotherapy.",
+        "source": "PubMed",
+        "doi": "10.1038/s12276-026-01713-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "がんにおける免疫抑制細胞の代謝適応：メカニズムと治療標的",
+        "summary_ja": "腫瘍微小環境（TME）には、制御性T細胞、骨髄由来抑制細胞、腫瘍関連マクロファージなどの免疫抑制性細胞が存在し、免疫逃避や治療抵抗性を促進する。これらの細胞は低酸素、栄養欠乏、酸化ストレス下で代謝的に再プログラムされ、抑制機能を維持する。その代謝活動は、必須栄養素の枯渇、抑制性代謝産物の生成、シグナル閾値の変化を介して、エフェクターT細胞やナチュラルキラー細胞に拮抗し、免疫機能障害を強化する。これにより、免疫チェックポイント阻害や養子細胞療法の効果が制限される。本稿では、TME内の免疫抑制性細胞の種類、主要な代謝適応、および抗腫瘍免疫を抑制するメカニズムを概説する。さらに、これらの代謝プログラムを標的としてTMEを再構築し、免疫療法の成功を高める治療戦略を議論する。抑制性細胞とエフェクター細胞間の代謝クロストークの理解は、精密な代謝介入の設計と持続的な免疫療法応答の改善に新たな機会をもたら"
+      },
+      {
+        "title": "Interventional therapy for hepatocellular carcinoma in the immunotherapy era: From mechanism exploration to materials innovation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42008884/",
+        "abstract": "Hepatocellular carcinoma(HCC) ranks among the leading causes of cancer-related mortality worldwide. In the treatment landscape of HCC, transarterial therapies plfan'yiay a crucial role. This review focuses on transarterial embolization for HCC, with particular emphasis on transarterial chemoembolization(TACE) and transarterial radioembolization(TARE), exploring their significant effects on the tumor microenvironment. TACE involves the liberation of tumor-derived antigens and damage-associated molecular patterns (DAMPs), while exerting direct modulatory influences on immune populations including tumor-infiltrating macrophages, cytotoxic T cells, and natural killer lymphocytes. This process, in turn, activates the local immune response while simultaneously inducing changes in the tumor's vascular environment. These changes have unveiled novel opportunities for immunotherapy and targeted therapy. Additionally, nanomaterials have emerged as a significant component in both HCC treatment and TACE therapy. Their unique properties facilitate improved drug delivery, precise modulation of the immune microenvironment, and ultimately, better treatment outcomes. They can targetedly ameliorate the hypoxic and acidic immunosuppressive tumor microenvironment. Furthermore, by activating immunogenic cell death and regulating immune cell infiltration, these materials can reverse immunosuppression. Looking ahead, elucidating the intricate mechanisms by which TACE modulates the immuno-tumor microenvironment and developing innovative therapeutics that specifically target the tumor microenvironment will remain key focal points in future HCC research.",
+        "source": "PubMed",
+        "doi": "10.1016/j.biomaterials.2026.124208",
+        "keyword": "NK cell therapy",
+        "title_ja": "免疫療法時代における肝細胞癌の介入治療：メカニズムの探求から材料の革新へ",
+        "summary_ja": "肝細胞癌（HCC）は世界のがん関連死亡の主要因である。本レビューは、経動脈的塞栓療法、特にTACEとTAREに焦点を当て、腫瘍微小環境への影響を探る。TACEは腫瘍由来抗原やDAMPsを放出し、腫瘍浸潤マクロファージ、細胞傷害性T細胞、NK細胞などの免疫細胞に直接作用する。これにより局所免疫応答が活性化され、腫瘍血管環境が変化し、免疫療法や標的治療の新たな機会が生まれる。また、ナノ材料はHCC治療とTACEにおいて重要な役割を果たし、薬物送達の改善、免疫微小環境の精密調節、治療成績向上に寄与する。これらは低酸素・酸性の免疫抑制性微小環境を標的に改善し、免疫原性細胞死の活性化や免疫細胞浸潤の調節により免疫抑制を解除する。今後、TACEによる免疫腫瘍微小環境調節の複雑な機構解明と、腫瘍微小環境を標的とした革新的治療法の開発がHCC研究の焦点となる。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Autophagy in Obesity and Type 2 Diabetes: Beyond the Protective Paradigm.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42101776/",
+        "abstract": "This review examines the current evidence on autophagy dysregulation in obesity and type 2 diabetes mellitus (T2DM), with particular emphasis on its tissue-specific nature and implications for clinical translation.",
+        "source": "PubMed",
+        "doi": "10.1007/s13679-026-00716-5",
+        "keyword": "Exosomes",
+        "title_ja": "肥満と2型糖尿病におけるオートファジー：保護的パラダイムを超えて",
+        "summary_ja": "本レビューは、肥満および2型糖尿病（T2DM）におけるオートファジー調節異常に関する現在のエビデンスを検討し、特にその組織特異性と臨床応用への示唆に焦点を当てる。従来、オートファジーは代謝ストレスに対する保護的役割が強調されてきたが、肥満やT2DMでは臓器ごとに異なる動態を示す。例えば、肝臓や脂肪組織ではオートファジーが抑制され、インスリン抵抗性や脂質蓄積を促進する一方、膵β細胞では過剰なオートファジーが細胞死を誘導する可能性がある。また、視床下部ではエネルギー代謝調節に関与する。これらの組織特異的なオートファジー機能の理解は、治療標的としての可能性を拓くが、全身的な介入は逆効果を招くリスクがある。本稿は、保護的パラダイムを超えたオートファジーの複雑な役割を整理し、今後の研究と臨床応用の方向性を示す。"
+      },
+      {
+        "title": "Exosomal Biomarkers: Paving the Way for Precision Diagnosis in Orthopedics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42101769/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11151-3",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームバイオマーカー：整形外科における精密診断への道を拓く",
+        "summary_ja": "タイトル：整形外科における精密診断を拓くエクソソームバイオマーカー\n\n本論文は、エクソソームに含まれる核酸やタンパク質が、整形外科領域の非侵襲的バイオマーカーとして有望であると述べている。エクソソームは細胞間情報伝達を担う小胞で、血液や関節液から採取可能であり、変形性関節症、骨肉腫、椎間板変性などの病態を分子レベルで反映する。特に、miRNAや特定のタンパク質の発現パターンが、疾患の早期診断、進行度評価、治療効果予測に有用とされる。従来の画像診断や血液検査に比べ、より高感度で特異的な診断が可能となり、個別化医療への応用が期待される。しかし、標準化された分離・検出法の確立や大規模臨床検証が課題である。本稿は、エクソソームバイオマーカーが整形外科の精密診断を実現する基盤技術となる可能性を強調している。"
+      },
+      {
+        "title": "Biomaterials and Nanoparticle-Based Therapeutics in Neurodegenerative Diseases: Bridging the Gap Between Innovation and Translation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42101470/",
+        "abstract": "Neurodegenerative diseases, including Alzheimer's, Parkinson's, Huntington's, amyotrophic lateral sclerosis, and multiple sclerosis, represent a growing global health crisis characterized by irreversible neuronal loss, protein aggregation, chronic neuroinflammation, and mitochondrial dysfunction. Central to their therapeutic intractability is the blood-brain barrier (BBB), a highly selective neurovascular interface that excludes nearly 98% of conventional pharmacological agents from the central nervous system (CNS). Nanoparticle- and biomaterial-based delivery platforms have emerged as promising strategies to overcome these barriers, encompassing liposomes, polymeric nanoparticles, engineered exosomes, inorganic nanoparticles, and hydrogel scaffolds capable of enabling targeted CNS drug delivery. This Review systematically evaluates the landscape of nanomaterial-based neurotherapeutics across disease-specific pathological contexts, critically analyzing translational failure mechanisms including limited parenchymal brain exposure, receptor saturation during transcytosis, protein corona-mediated immune clearance, and nanoscale toxicity in postmitotic neural tissue. Preclinical-to-clinical translational gaps arising from interspecies BBB transporter heterogeneity and pharmacokinetic divergence are examined alongside manufacturing and regulatory barriers impeding Good Manufacturing Practice (GMP)-scale production. Emerging convergence strategies─including AI-integrated design, hybrid physiologically based pharmacokinetic modeling, theranostic nanoplatforms, and wearable bioresponsive delivery systems─are evaluated for their capacity to address these limitations. The review concludes by proposing a framework for developing clinically viable, disease-modifying CNS nanomedicines.",
+        "source": "PubMed",
+        "doi": "10.1021/acschemneuro.6c00245",
+        "keyword": "Exosomes",
+        "title_ja": "神経変性疾患における生体材料とナノ粒子ベースの治療法：革新と実用化のギャップを埋める",
+        "summary_ja": "本論文は、アルツハイマー病、パーキンソン病、ハンチントン病、筋萎縮性側索硬化症、多発性硬化症などの神経変性疾患における、血液脳関門（BBB）を克服するためのナノ粒子・生体材料ベースの治療法を体系的に評価する。リポソーム、高分子ナノ粒子、工学化エクソソーム、無機ナノ粒子、ハイドロゲル足場などの送達プラットフォームが、標的化CNS薬物送達を可能にする。しかし、実質脳曝露の限界、トランスサイトーシス時の受容体飽和、タンパク質コロナによる免疫クリアランス、分裂後神経組織におけるナノスケール毒性などの翻訳失敗メカニズムが存在する。また、種間BBBトランスポーター不均一性や薬物動態の相違、GMPスケール生産の障壁も課題である。AI統合設計、ハイブリッド生理学的薬物動態モデリング、セラノスティックナノプラットフォーム、ウェアラブル生体応答型送達システムなどの新興戦略が、これらの限界に対処する可能性を持つ"
+      },
+      {
+        "title": "Cavitation-Free Acoustic Sensitization Enhances PLK4-Targeted Therapy Using the Phillyrin Derivative DE02 in Osteosarcoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42099105/",
+        "abstract": "To ascertain whether cavitation-free acoustic sensitization enhances intracellular delivery and amplifies polo-like kinase 4 (",
+        "source": "PubMed",
+        "doi": "10.1177/10849785261446291",
+        "keyword": "Exosomes",
+        "title_ja": "キャビテーションフリー音響増感によるフィリリン誘導体DE02を用いた骨肉腫におけるPLK4標的治療の増強",
+        "summary_ja": "以下の通り、指定された論文・記事を日本語で400文字以内に要約します。\n\n本論文は、骨肉腫治療において、キャビテーションを伴わない音響増感（cavitation-free acoustic sensitization）が、フィリリン誘導体DE02を用いたPLK4標的療法の細胞内送達と治療効果を増強するかを検証した。PLK4（polo-like kinase 4）は中心体複製に関与し、骨肉腫で過剰発現する新たな治療標的である。DE02はPLK4を阻害するが、細胞内への移行性に課題があった。超音波によるキャビテーションフリーの音響増感を適用することで、細胞膜の透過性が一過性に向上し、DE02の細胞内取り込みが有意に増加した。その結果、PLK4阻害による中心体複製異常とアポトーシス誘導が増幅され、in vitroおよびin vivoの骨肉腫モデルにおいて抗腫瘍効果が顕著に向上した。本手法は、従来"
+      },
+      {
+        "title": "Research progress on the mechanisms of Panax ginseng and its active components in maintaining skin homeostasis and disease intervention.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42098749/",
+        "abstract": "Panax ginseng (Panax ginseng C.A. Meyer) is a classic herbal medicine widely utilized in dermatological management, yet its precise therapeutic mechanisms have only recently begun to be fully elucidated. This review systematically synthesizes the pharmacological roles of ginseng's active components, including ginsenosides, polysaccharides, and gintonin, in maintaining skin homeostasis and treating various cutaneous pathologies. Emerging evidence suggests that the efficacy of ginseng extends beyond direct molecular interactions, exhibiting the distinct characteristics of \"indirect pharmacology.\" Specifically, parent ginsenosides function primarily as natural prodrugs that require microbial biotransformation into high-affinity active metabolites, such as Compound K and Rh2, to exert potent therapeutic effects. Functionally, these components regulate skin health by mobilizing endogenous host defense systems, particularly through the activation of the Nrf2/ARE antioxidant pathway and the suppression of inflammatory cascades via the NF-κB, MAPK, and IL-1 signaling networks. Furthermore, they remodel the systemic microenvironment through the gut-skin axis, facilitating metabolic homeostasis to improve skin barrier function. Notably, biotransformation rates and ultimate therapeutic efficacy are highly dependent on individualized variables, such as host age, dietary patterns, and baseline disease states. This systemic regulation has demonstrated robust efficacy in intervening in complex pathologies, including atopic dermatitis, psoriasis, and skin cancer. Additionally, this article addresses the translational bottleneck of low bioavailability and evaluates recent advances in novel skin delivery systems, specifically those utilizing ginseng-derived exosomes. Collectively, this review provides a scientific framework for understanding the systemic actions of ginseng, supporting its development as a precision botanical therapy for dermatological applications.",
+        "source": "PubMed",
+        "doi": "10.1186/s13020-026-01407-y",
+        "keyword": "Exosomes",
+        "title_ja": "パナックス・ギンセン（高麗人参）とその有効成分による皮膚恒常性維持及び疾患介入のメカニズムに関する研究進展",
+        "summary_ja": "本レビューは、皮膚恒常性維持と疾患介入におけるオタネニンジン（Panax ginseng C.A. Meyer）及びその活性成分（ginsenosides、polysaccharides、gintonin）の薬理機構を体系的にまとめたものである。有効性は「間接的药理学」に特徴づけられ、親ginsenosidesはプロドラッグとして微生物変換を経て高親和性代謝物（Compound K、Rh2等）となる。機能面では、Nrf2/ARE経路の活性化やNF-κB、MAPK、IL-1シグナル抑制による抗酸化・抗炎症作用、さらに腸-皮膚軸を介した全身性微小環境のリモデリングにより皮膚バリア機能を改善する。変換率や治療効果は年齢、食事、疾患状態に依存し、アトピー性皮膚炎、乾癬、皮膚癌への有効性が示されている。低バイオアベイラビリティという課題に対し、ginseng由来exosomeを用いた新規経皮デリバリ"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Low-Voltage Scanning Electron Microscopy of Extracellular Vesicles Derived from Human Urine, Saliva, Pericardial and Cerebrospinal Fluids.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42101764/",
+        "abstract": "Vesicles obtained from pericardial fluid, cerebrospinal fluid, urine, and saliva by differential centrifugation were examined using low-voltage scanning electron microscopy. Numerous particles and their aggregates were found in the obtained micrographs. The size of most individual particles ranged from 25 to 150 nm, which approximately corresponds to the size of extracellular vesicles. Thus, low-voltage scanning electron microscopy enables the acquisition of high-quality images of both single extracellular vesicles and their aggregates.",
+        "source": "PubMed",
+        "doi": "10.1007/s10517-026-06672-3",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト尿、唾液、心膜液、脳脊髄液由来の細胞外小胞の低電圧走査型電子顕微鏡観察",
+        "summary_ja": "本論文では、ヒトの尿、唾液、心膜液、脳脊髄液から差速遠心分離により得られた細胞外小胞を、低電圧走査型電子顕微鏡（Low-Voltage Scanning Electron Microscopy）で観察した。得られた画像には多数の粒子とその凝集体が確認され、個々の粒子のサイズは25～150 nmであり、これは細胞外小胞のサイズに概ね一致した。低電圧走査型電子顕微鏡は、単一の細胞外小胞およびその凝集体の高品質画像取得を可能にする手法である。"
+      },
+      {
+        "title": "TEMIS: A temperature-controlled microwave irradiation system for enhancing extracellular vesicle secretion.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42100722/",
+        "abstract": "Extracellular vesicles (EVs) secreted by cells and tissues are promising tools for disease biomarkers and regenerative medicine, necessitating the establishment of technologies to efficiently enhance their secretion. Here, we investigated the effects of a temperature-controlled microwave irradiation system (TEMIS) on EV secretion from HEK293T cells. Unlike conventional microwave (MW) irradiation devices, TEMIS incorporates an active cooling mechanism that maintains the culture medium temperature at 37 °C during irradiation, thereby avoiding cell death associated with temperature elevation. Although cell viability remained unchanged, the amount of EV secretion in the MW-irradiated group increased by 2- to 3-fold compared to the non-irradiated control group, peaking approximately 3 h after irradiation began. No significant differences were observed between the irradiated and control groups in particle size distribution, proteome analysis, or miRNA expression analysis of the isolated EVs. These results indicate that MW irradiation can enhance EV secretion under temperature-controlled conditions, while preserving the molecular characteristics of the EVs. TEMIS enables MW irradiation without damaging cells, potentially making it a practical method for enhancing EV production from cells.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbrep.2026.102608",
+        "keyword": "Exosomes",
+        "title_ja": "TEMIS：温度制御型マイクロ波照射システムによる細胞外小胞分泌の促進",
+        "summary_ja": "細胞や組織から分泌される細胞外小胞（EV）は、疾患バイオマーカーや再生医療において有望なツールであり、その分泌を効率的に促進する技術の確立が求められている。本研究では、温度制御型マイクロ波照射システム（TEMIS）がHEK293T細胞のEV分泌に与える影響を調査した。従来のマイクロ波（MW）照射装置と異なり、TEMISは能動冷却機構を備え、照射中に培養液温度を37℃に維持し、温度上昇に伴う細胞死を回避する。細胞生存率に変化はなかったが、MW照射群では非照射対照群と比較してEV分泌量が2～3倍に増加し、照射開始から約3時間後にピークに達した。粒子径分布、プロテオーム解析、単離EVのmiRNA発現解析において、照射群と対照群間に有意差は認められなかった。これらの結果は、温度制御条件下でのMW照射がEVの分子特性を保持しつつ分泌を促進することを示す。TEMISは細胞に損傷を与えずにMW照射を可能"
+      },
+      {
+        "title": "Phosphorylation beyond the plasma membrane: How secretory pathway kinases sculpt the cellular dialogue in cancer (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42099239/",
+        "abstract": "Intercellular communication is critical for tissue homeostasis, development and immune responses, with its disruption often implicated in various diseases, particularly cancer. Secretory pathway kinases and kinase‑like proteins (SPKKPs) constitute a distinctive enzyme class operating within the luminal secretory pathway or extracellular space, positioning them as pivotal regulators of cellular communication. This review consolidates current insights into the role of SPKKPs, including the FAM20 family, four‑jointed box kinase 1 (FJX1) and others, in orchestrating intercellular interactions through the phosphorylation of secreted proteins, extracellular matrix components and extracellular vesicle (EV) cargo. The molecular mechanisms by which SPKKPs modulate key oncogenic signaling pathways, such as PI3K/AKT, ERK/MAPK and SMAD family member 2, across diverse cancer types are examined. Additionally, their involvement in EV‑mediated signaling, extracellular matrix remodeling and regulation of fundamental biological processes, including development, tissue homeostasis and immune coordination, is explored. The review further addresses SPKKP dysregulation in a range of pathologies, from nervous system tumors to gastrointestinal and reproductive cancers, and discusses emerging therapeutic strategies. These strategies include specific kinase inhibitors, FJX1‑targeted peptide vaccines and innovative approaches targeting exosomes carrying SPKKPs substrates. Ultimately, this work highlights the essential role of SPKKPs in intercellular communication networks and their promising potential as diagnostic biomarkers and therapeutic targets, particularly in cancer.",
+        "source": "PubMed",
+        "doi": "10.3892/ijmm.2026.5845",
+        "keyword": "Exosomes",
+        "title_ja": "原形質膜を超えたリン酸化：分泌経路キナーゼが癌における細胞間対話を形成する仕組み（総説）",
+        "summary_ja": "本レビューは、分泌経路キナーゼおよびキナーゼ様タンパク質（SPKKPs）が、細胞間コミュニケーションにおいて果たす役割をまとめたものである。SPKKPsは、分泌経路内腔や細胞外空間で機能し、分泌タンパク質、細胞外マトリックス成分、細胞外小胞（EV）カーゴのリン酸化を介して、細胞間相互作用を調節する。FAM20ファミリーやfour‑jointed box kinase 1（FJX1）などが含まれ、PI3K/AKT、ERK/MAPK、SMADファミリーなどの発癌シグナル経路を多様な癌種で制御する。また、EV媒介シグナル伝達、細胞外マトリックスリモデリング、発生や組織恒常性、免疫調整への関与も解説する。さらに、神経系腫瘍から消化器・生殖器癌に至る病態でのSPKKPsの異常を指摘し、特異的キナーゼ阻害剤、FJX1標的ペプチドワクチン、SPKKPs基質を含むエクソソームを標的とした革新的治療戦略を議"
+      },
+      {
+        "title": "3D-printed dictamni-calcium silicate scaffolds modulate the osteoimmune microenvironment and enhance macrophage-derived exosomal miR-21 signaling in vascularized bone regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42098777/",
+        "abstract": "Reconstruction of critical-sized bone defects remains a formidable clinical challenge due to a persistent, localized, pro-inflammatory microenvironment that disrupts the coordinated process of osteogenic-angiogenic coupling. To address this, we engineered 3D-printed calcium silicate scaffolds containing Dictamni Radicis Cortex to modulate the osteoimmune niche. In vitro models demonstrated that Dic5 scaffolds effectively attenuated the pro-inflammatory state, promoting the transition of macrophages from an M1 to a proregenerative M2 phenotype, characterized by anti-inflammatory cytokine secretion. In parallel, elevated levels of angiogenesis-related factors were also observed. In vivo assessments using a rabbit bone defect model corroborated these findings, with Dic5 scaffolds implantation was associated with the rapid resolution of local tissue inflammation, facilitation of early vascular network formation, and accelerated highly mineralized bone healing compared to the Dic0 group. To elucidate the molecular mechanisms linking this immunomodulation to the observed therapeutic efficacy, we investigated macrophage-mediated paracrine signaling. Transcriptomic profiling using next-generation sequencing revealed that extracellular vesicles secreted by these modulated macrophages were significantly enriched with miR-21-5p. Subsequent in vitro mechanistic studies demonstrated that upon internalization by human mesenchymal stem cells, exosomal miR-21 acts as an epigenetic regulator, targeting and silencing inhibitory genes, specifically Spry1 and Pten, thereby unlocking downstream signaling pathways to promote the expression of osteogenic effectors, including Runx2 and osteocalcin. Finally, blocking miR-21 with a specific inhibitor significantly abolished Dic5-M2EV-mediated osteogenic capabilities. In summary, this study presents a translatable phytochemically engineered 3D bioscaffold and elucidates the regulatory role of the biomaterial-macrophage-exosomal miR-21 axis, providing a promising cell-free therapeutic strategy for vascularized bone tissue engineering.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04507-x",
+        "keyword": "Exosomes",
+        "title_ja": "3Dプリントされた白鮮ケイ酸カルシウム足場材が骨免疫微小環境を調節し、血管化骨再生におけるマクロファージ由来エクソソームmiR-21シグナル伝達を促進する",
+        "summary_ja": "3Dプリントした白鮮皮（Dictamni Radicis Cortex）含有ケイ酸カルシウム足場材（Dic5）が、骨欠損修復における免疫微小環境を調節し、血管新生を伴う骨再生を促進するメカニズムを解明した。Dic5足場材はin vitroでマクロファージを炎症性M1から抗炎症性M2表現型へ転換し、血管新生関連因子の分泌を亢進。ウサギ骨欠損モデルにおいても、局所炎症の早期消退、血管網形成の促進、高度に石灰化した骨治癒を確認した。次世代シーケンシング解析により、M2マクロファージ由来細胞外小胞にmiR-21-5pが高含有されることを発見。このエクソソームmiR-21はヒト間葉系幹細胞に取り込まれ、標的遺伝子Spry1とPtenを抑制し、Runx2やオステオカルシンなどの骨形成エフェクターの発現を促進した。miR-21阻害剤によりこの効果は消失した。本研究は、植物化学物質を応用した3D足場材によ"
+      },
+      {
+        "title": "Liquid Biopsy in Primary CNS Tumors: Bridging Biology, Technology, and Clinical Care.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42098393/",
+        "abstract": "Liquid biopsy has emerged as a minimally invasive approach for the molecular characterization and longitudinal monitoring of primary central nervous system (CNS) tumors. Although extensively validated in systemic malignancies, its clinical application in CNS tumors is challenged by the blood-brain barrier, low analyte abundance, and heterogeneous assay performance. Recent advances have expanded the spectrum of detectable tumor-derived components, including circulating tumor DNA (ctDNA), cell-free DNA, extracellular vesicles, RNA species, nucleosomes, metabolites, and lipids, across multiple biofluids such as cerebrospinal fluid (CSF), plasma, serum, urine, saliva, and tears. The aim of this study was to review the biological foundations, analytes, biofluids, clinical applications, and technical limitations of liquid biopsy in primary CNS tumors, with emphasis on diagnostic, prognostic, and surveillance value. We synthesized current evidence on tumor-derived analytes detectable through liquid biopsy, their molecular correlates, and their performance across biofluids. CSF is consistently the most informative biofluid for CNS tumors, with higher analyte concentration and superior concordance with tumor tissue compared with plasma. CtDNA in CSF reliably identifies hallmark alterations, including IDH1/2, H3K27M, TERT, BRAF, ATRX, TP53, 1p/19q codeletion, and MYCN amplification, thereby enabling better diagnosis, molecular classification, and therapeutic stratification. Plasma-based assays are less sensitive but remain valuable for longitudinal monitoring, especially when combined with ultrasensitive sequencing or fragmentomic approaches. Emerging biomarkers, including nucleosome footprints, exosomes, proteins, microRNA (miRNA)/long noncoding RNA (lncRNA)/circular RNA (circRNA) signatures, lipidomic panels, and metabolites such as D-2-hydroxyglutarate, show potential for integration into multimodal diagnostics. Liquid biopsy provides a powerful and rapidly evolving tool for the minimally invasive molecular assessment of CNS tumors. While CSF remains the optimal matrix for diagnosis and characterization, advances in ultrasensitive detection methods increasingly support the feasibility of plasma and urine for longitudinal follow-up. Integrating liquid biopsy with advanced imaging and tissue-based data will likely transform diagnostic accuracy, therapeutic decision-making, and real-time monitoring of CNS tumors.",
+        "source": "PubMed",
+        "doi": "10.1007/s40291-026-00849-2",
+        "keyword": "Exosomes",
+        "title_ja": "原発性中枢神経系腫瘍におけるリキッドバイオプシー：生物学、技術、臨床ケアの架け橋",
+        "summary_ja": "リキッドバイオプシーは、原発性中枢神経系（CNS）腫瘍の低侵襲な分子特性評価と経時的モニタリング手法として注目されている。血液脳関門や低いアナリット濃度、アッセイ性能の不均一性が課題だが、近年の進歩により、循環腫瘍DNA（ctDNA）、cell-free DNA、細胞外小胞、RNA、ヌクレオソーム、代謝物、脂質など多様な腫瘍由来成分が、脳脊髄液（CSF）、血漿、血清、尿、唾液、涙液などのバイオフルイドで検出可能となった。本総説では、診断・予後・サーベイランスにおける価値を中心に、生物学的基盤、アナリット、バイオフルイド、臨床応用、技術的限界を検討した。CSFはCNS腫瘍に最も情報量が多く、血漿より高濃度かつ腫瘍組織との一致率が高い。CSF中のctDNAはIDH1/2、H3K27M、TERT、BRAF、ATRX、TP53、1p/19q共欠失、MYCN増幅などの特徴的変異を同定し、診断・分子分"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Small extracellular vesicles as emerging biomarkers and therapeutic targets in neurodegenerative diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41763443/",
+        "abstract": "Small extracellular vesicles (sEVs) have rapidly emerged as versatile mediators of intercellular communication with significant potential to transform the diagnosis and treatment of neurodegenerative diseases (NDDs). Increasing evidence shows that sEVs not only participate in the propagation of pathogenic proteins but also serve as accessible, CNS-informative carriers of molecular signatures that reflect neuronal, glial, and systemic disease processes. This dual role positions sEVs at the intersection of biomarker discovery and therapeutic innovation. In the diagnostic domain, advances in immunoaffinity capture, single-vesicle analysis, and multi-omics profiling have enabled increasingly precise characterization of neuron-, astrocyte-, and microglia-derived sEVs, revealing candidate markers for Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and related disorders. However, translation remains limited by methodological heterogeneity, a lack of large-scale validation, and the need for standardized pre-analytical and analytical pipelines aligned with the ISEV/MISEV guidelines. On the therapeutic front, native and engineered sEVs, particularly those derived from mesenchymal and neural stem cells, demonstrate promising neuroprotective effects, including the modulation of neuroinflammation; the enhancement of synaptic resilience; and the delivery of antioxidant, anti-amyloid, or gene-modifying cargo across the blood-brain barrier. Scalable GMP manufacturing, cargo-loading strategies, targeting specificity, and long-term safety remain key challenges for clinical translation. This narrative review synthesizes current advances in sEV-based biomarkers and therapeutics, outlines technological and regulatory barriers, and proposes a translational roadmap spanning mechanistic discovery, platform standardization, and integration into precision-medicine frameworks. Collectively, emerging data position sEVs as powerful tools capable of reshaping the diagnostic and therapeutic landscape of NDDs, provided that coordinated multidisciplinary efforts address the remaining gaps in validation, scalability, and regulatory readiness.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cca.2026.120932",
+        "keyword": "sEVs",
+        "title_ja": "小型細胞外小胞：神経変性疾患における新たなバイオマーカーと治療標的としての可能性",
+        "summary_ja": "小型細胞外小胞（sEVs）は、神経変性疾患（NDDs）の診断と治療に革新をもたらす可能性がある。sEVsは病原性タンパク質の伝播に関与しつつ、神経・グリア細胞由来の分子シグナルを運ぶため、バイオマーカーと治療標的の両面で注目される。診断では、免疫親和性捕捉や単一小胞解析、マルチオミクス技術の進歩により、アルツハイマー病やパーキンソン病などに特異的な神経細胞・アストロサイト・ミクログリア由来sEVsの解析が可能となったが、方法論の不均一性や大規模検証不足、ISEV/MISEVガイドラインに準拠した標準化が課題である。治療面では、間葉系・神経幹細胞由来の天然・改変sEVsが、神経炎症調節、シナプス可塑性向上、血液脳関門通過による抗酸化・抗アミロイド・遺伝子改変カーゴ送達など有望な神経保護効果を示す。一方、GMP製造のスケーラビリティ、カーゴ搭載戦略、標的特異性、長期安全性が臨床応用の障壁である"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めて500文字以内でまとめます。\n\n1. **CYFIP2欠乏と腎線維化**：高血圧性腎症の中心病理である尿細管間質線維化に対し、CYFIP2欠乏が細胞老化を抑制し改善する可能性を示した。神経系で知られる因子の腎臓での新たな役割が注目され、抗老化治療の標的として期待される。\n\n2. **NK細胞凍結保存とストレス顆粒**：NK細胞療法の実用化には凍結保存後の機能低下が課題。本研究は、凍結保護剤によるストレス顆粒誘導がリソソーム障害に起因する細胞死を軽減することを示し、細胞治療の品質向上に直結する知見である。\n\n3. **エクソソームバイオマーカーと整形外科診断**：エクソソーム中の核酸・タンパク質が非侵襲的バイオマーカーとして整形外科領域で有望。関節液や血液からの採取が容易で、早期診断や治療効果モニタリングへの応用が期待される。\n\n4. **sEVsと神経変性疾患**：小型細胞外小胞（sEVs）は病原性タンパク質の伝播に関与しつつ、神経・グリア由来の分子シグナルを運ぶ。診断バイオマーカーとしての有用性と、治療標的としての可能性が高まっている。\n\n5. **TME応答性ナノ免疫調節剤**：腫瘍微小環境の酸性条件で分解し免疫調節因子を放出するCaCO₃ベースのナノ粒子。光力学免疫療法の精度向上と副作用低減に寄与し、個別化がん治療への応用が期待される。"
+}

@@ -1,0 +1,134 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Phase 1 multicenter study of the NKG2A targeting antibody S095029 as a single agent and in combination with anti-PD-1 in patients with advanced malignancies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42103356/",
+        "abstract": "NKG2A is a C-type lectin that heterodimerizes with CD94 creating an inhibitory immunoreceptor. S095029 is a fully human monoclonal IgG1 anti-NKG2A antibody with attenuated Fc-effector functions that specifically binds the NKG2A/CD94 heterodimer, blocking the interaction with its ligand HLA-E. Sym021 is an anti-programmed cell death protein 1 (PD-1) IgG1 antibody. Preclinical data demonstrated that S095029 combined with Sym021 increases antitumor activity.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2025-014325",
+        "keyword": "NK cell therapy",
+        "title_ja": "NKG2A標的抗体S095029の単剤および抗PD-1との併用による進行悪性腫瘍患者を対象とした第1相多施設共同試験",
+        "summary_ja": "NKG2AはCD94とヘテロ二量体を形成するC型レクチンであり、抑制性免疫受容体として機能する。S095029は、Fcエフェクター機能を減弱させた完全ヒト型モノクローナルIgG1抗NKG2A抗体で、NKG2A/CD94ヘテロ二量体に特異的に結合し、リガンドHLA-Eとの相互作用を阻害する。Sym021は抗PD-1 IgG1抗体である。前臨床データでは、S095029とSym021の併用により抗腫瘍活性が増強されることが示された。本試験は、進行悪性腫瘍患者を対象に、S095029単剤および抗PD-1抗体との併用療法の安全性と有効性を評価する第1相多施設共同試験である。"
+      },
+      {
+        "title": "Bioprinted Tumor Microenvironment Models Reveal Immune Evasion and Guide CAR-NK Therapeutic Strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42102353/",
+        "abstract": "The clinical outcome predictions of conventional in vitro and in vivo models are often inaccurate because they cannot replicate the tumor microenvironment (TME) complexity. Existing 3D models encounter challenges regarding TME complexity replication, engineering constraints, and limited capacity in analyzing immune-cancer interactions. This study employs 3D embedded bioprinting to develop a heterogeneous lung spheroid (HLS) model, incorporating key stromal factors to better reflect the TME. Transcriptomic profiling via RNA sequencing reveals gene signatures associated with extracellular matrix remodeling, immune suppression, and tumor progression, demonstrating substantial similarity to patient-derived lung tumor samples and validating the biological fidelity of the model. Functional assays demonstrate that the model effectively replicated TME dynamics, as evidenced by reduced CAR-NK cell infiltration, cytotoxicity, and cytokine secretion with increasing model complexity, indicative of a highly immunosuppressive environment. Advanced CAR-NK cells expressing chemokine receptors are utilized to overcome this immune barrier and enhance migration and infiltration within the physiologically relevant lung TME model. Overall, this model replicates critical features of the lung TME, showing potential for evaluating next-generation immunotherapies targeting complex solid tumors.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.202521188",
+        "keyword": "NK cell therapy",
+        "title_ja": "バイオプリンティング腫瘍微小環境モデルが免疫回避を解明し、CAR-NK治療戦略を導く",
+        "summary_ja": "本研究采用3D嵌入式生物打印技术构建了异质性肺球体（HLS）模型，通过整合关键基质因子以更真实地模拟肿瘤微环境（TME）。RNA测序转录组分析揭示了与细胞外基质重塑、免疫抑制及肿瘤进展相关的基因特征，与患者来源的肺肿瘤样本高度相似，验证了模型的生物学保真度。功能实验表明，随着模型复杂度增加，CAR-NK细胞浸润、细胞毒性及细胞因子分泌显著降低，证实了模型有效复现了高度免疫抑制的TME动态。为克服这一免疫屏障，研究利用表达趋化因子受体的先进CAR-NK细胞，在生理相关的肺TME模型中增强了其迁移与浸润能力。该模型复现了肺TME的关键特征，为评估针对复杂实体瘤的下一代免疫疗法提供了潜在平台。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosomal circPOLK promotes metastasis of NSCLC cells via regulating mir-1204/SOX8 axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42104439/",
+        "abstract": "Non-small cell lung cancer (NSCLC) is the most common subtype of lung cancer, and the prognosis of NSCLC patients is still poor particularly for patients with metastatic disease. Thus, extending the knowledge about the mechanism of metastasis is critical for NSCLC treatment. We demonstrated that hsa_circ_0073052 (circPOLK) was overexpressed in blood exosomes from cancer patients than those from healthy people. CircPOLK overexpression enhanced the metastasis and EMT progression of NSCLC cells. Next, circPOLK might function as miRNA sponge in NSCLC cells. Through bioinformatical prediction and RNA pull-down experiment, miR-1204 might be a potential target of circPOLK. Interestingly, serumal miR-1204 was an efficacious diagnostic and prognostic molecular for lung cancer patients and acted as a suppressor on NSCLC progression. Furthermore, circPOLK promoted metastasis of NSCLC via regulating miR-1204. Furthermore, SOX8 was identified as a potential target of circPOLK/miR-1204. GO enrichment of circPOLK regulated DEGs showed that circPOLK might be involved in angiogenesis of NSCLC. Indeed, circPOLK secreted by NSCLC cells could promote angiogenesis. Our dada not only identifies a novel circPOLK/miR-1204/SOX8 signaling pathway, but also provides therapeutical strategies for NSCLC patients with metastatic disease.",
+        "source": "PubMed",
+        "doi": "10.1186/s12935-026-04306-2",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム由来circPOLKは、mir-1204/SOX8軸を調節することでNSCLC細胞の転移を促進する",
+        "summary_ja": "非小細胞肺癌（NSCLC）は肺がんの主要サブタイプであり、転移例の予後は不良である。本研究では、NSCLC患者の血液エクソソームにおいてcircPOLK（hsa_circ_0073052）が健常者より高発現し、その過剰発現がNSCLC細胞の転移と上皮間葉転換（EMT）を促進することを示した。circPOLKはmiRNAスポンジとして機能し、バイオインフォマティクス解析とRNAプルダウン実験によりmiR-1204が標的と判明。血清miR-1204はNSCLCの診断・予後マーカーとして有効で、がん抑制的に作用する。さらに、circPOLKはmiR-1204を介して転移を促進し、SOX8がその下流標的として同定された。GO解析によりcircPOLKが血管新生に関与することが示され、実際にNSCLC細胞由来のcircPOLKが血管新生を促進した。本研究は新たなcircPOLK/miR-1204/S"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Mesenchymal stem cell derived exosomes mitigate COVID-19 cytokine storm via Annexin A1 and TGF-β mediated MAPK pathway inhibition.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42104510/",
+        "abstract": "Severe COVID-19 is marked by a dysregulated inflammatory response, known as a cytokine storm, resulting in acute respiratory distress syndrome (ARDS) and multiple organ failure. Mesenchymal stem cell-derived exosomes (MSC-Exos) have demonstrated potential as immunomodulatory agents. This work investigates the possibility of MSC-Exos to mitigate excessive inflammation in COVID-19 by targeting the mitogen-activated protein kinase (MAPK) signalling pathway.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-04980-z",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来エクソソームによるAnnexin A1およびTGF-βを介したMAPK経路阻害を介したCOVID-19サイトカインストームの軽減",
+        "summary_ja": "重症COVID-19は、サイトカインストームと呼ばれる調節不全の炎症反応を特徴とし、急性呼吸窮迫症候群（ARDS）や多臓器不全を引き起こす。間葉系幹細胞由来エクソソーム（MSC-Exos）は免疫調節作用を持つ可能性が示されている。本研究では、MSC-Exosがマイトジェン活性化プロテインキナーゼ（MAPK）シグナル伝達経路を標的とし、COVID-19における過剰な炎症を軽減する可能性を検討した。その結果、MSC-ExosはAnnexin A1およびTGF-βを介してMAPK経路を阻害し、サイトカインストームを抑制することが明らかとなった。"
+      },
+      {
+        "title": "A bibliometric analysis of the evolution of nanotechnology research in precision theranostics for nasopharyngeal carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42104166/",
+        "abstract": "This study aimed to analyze the global research landscape, collaborative patterns, and developmental trends of nanotechnology applications in nasopharyngeal carcinoma (NPC) using bibliometric analysis and knowledge visualization techniques.",
+        "source": "PubMed",
+        "doi": "10.1186/s11671-026-04627-1",
+        "keyword": "Exosomes",
+        "title_ja": "ナノテクノロジーによる上咽頭癌精密セラノスティクス研究の進展に関する文献計量分析",
+        "summary_ja": "本研究は、上咽頭癌（NPC）における精密セラノスティクス（theranostics）へのナノテクノロジー応用に関する国際研究動向を、文献計量分析（bibliometric analysis）と知識可視化技術を用いて解析した。対象はWeb of Science Core Collectionから抽出した関連文献で、発表年、国・機関、著者、キーワード、共引用関係などを分析。結果、研究は急速に増加しており、中国と米国が主要な貢献国であることが判明。主要テーマとして、ナノ粒子を用いた標的薬物送達、イメージング、光熱療法、免疫療法などが挙げられ、特に金ナノ粒子やメソポーラスシリカナノ粒子が注目されている。共起ネットワーク分析から、研究は診断と治療の統合（セラノスティクス）へと進化していることが示された。本分析は、NPC治療におけるナノテクノロジーの発展経路と今後の研究方向性を明らかにした。"
+      },
+      {
+        "title": "Exercise-induced microRNAs: molecular pathways and adaptive remodeling of skeletal muscle.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42103955/",
+        "abstract": "Exercise is an effective physiological stimulus that promotes vast structural and functional changes in skeletal muscular tissue. Although transcriptional pathways that control exercise-based plasticity have been studied in depth, recent findings highlight the importance of microRNAs (miRNAs) as an essential post-transcriptional control platform mediating contractile stimuli and molecular and physiologic adaptations. This review provides a synthesis of existing evidence on exercise responsive miRNAs at the systems level, and especially on the topic of skeletal muscle remodeling. The review outlines the effects of different exercise regimens such as endurance, resistance, and high-intensity interval training to dynamic miRNA response to regulate major biological pathways such as mitochondrial biogenesis, protein turnover, angiogenesis, inflammatory signaling, and metabolic regulation. Acute exercise is also typified by temporary changes in miRNAs, which facilitate short-term stress signalling, and chronic training leads to more long-term miRNA re-programming, which facilitates long-term structural and functional remodeling. Also, circulating and exosome-bound miRNAs are also mentioned as potential agents of the muscle-to-organ interaction, thus supporting the idea of skeletal muscle that acts like an endocrine-like organ during exercise. Besides narrative synthesis, the review is based on an exploratory, data-driven re-analysis of publicly available skeletal muscle miRNA sequencing data to define convergent regulatory programs instead of data-specific differentiation. This is observed under integrative pathway and network-level analysis which identifies coordinated miRNA modules linked to mitochondrial regulation, cytoskeletal remodeling, and inflammatory control. Taken together, this framework brings together non-homogenous evidence throughout the literature and highlights the prospect of exercise-sensitive miRNAs as systems-level regulators of skeletal muscle adaptation.",
+        "source": "PubMed",
+        "doi": "10.1007/s00424-026-03177-w",
+        "keyword": "Exosomes",
+        "title_ja": "運動誘発性マイクロRNA：骨格筋の分子経路と適応的リモデリング",
+        "summary_ja": "運動は骨格筋組織に広範な構造的・機能的変化を誘発する生理的刺激である。転写経路の研究は進んでいるが、近年、マイクロRNA（miRNA）が収縮刺激と分子・生理的適応を仲介する必須の転写後制御プラットフォームとして注目されている。本レビューは、運動応答性miRNAに関する既存エビデンスをシステムレベルで統合し、特に骨格筋リモデリングに焦点を当てる。持久性、レジスタンス、高強度インターバルトレーニングなどの異なる運動様式が、ミトコンドリア生合成、タンパク質代謝回転、血管新生、炎症シグナル、代謝調節といった主要経路を制御する動的miRNA応答を誘導する。急性運動は一時的なmiRNA変化を特徴とし、慢性的トレーニングは長期的なmiRNA再プログラミングを促進する。また、循環中やエクソソーム結合miRNAは筋と他臓器間の相互作用の潜在的メディエーターとして、骨格筋の内分泌様器官としての役割を示唆する。"
+      },
+      {
+        "title": "miR-200b-3p enriched exosomes promote smooth muscle cell proliferation and fibrosis via targeting ZO-1 in bladder outlet obstruction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42103878/",
+        "abstract": "Bladder outlet obstruction (BOO) induces urinary bladder wall remodeling. However, the function of exosomal miRNAs from bladder smooth muscle cells (BSMCs) in BOO development remains unclear. Differentially expressed miRNA profiles in BSMC-derived exosomes from BOO rat models and normal rats were analyzed using miRNA sequencing. LPS-induced BSMCs were treated with exosomes from BOO-extracted BSMCs. The uptake of exosomes in BSMCs was assessed by PKH26 fuorescent dye. The protein levels of MCP-1, IL-1β, TNF-α, α-SMA, and collagen I were detected by western blotting and qPCR analysis. Cell proliferation and apoptosis were assessed by CCK-8, EdU, and flow cytometry, respectively. The interaction between miR-200b-3p and zonula occludens-1 (ZO-1) 3'UTR was analyzed by luciferase reporter gene assay. Results indicated that miRNA-200b-3p was upregulated in BSMC-derived exosomes from BOO rats compared with the sham group. Treatment with exosomes from BOO-extracted BSMCs further aggravated LPS-induced BSMC proliferation, inflammation, and fibrosis. Inhibition of miR-200b-3p attenuated these effects, which were restored by silencing ZO-1 expression in BSMCs. We identified upregulation of exosomal miR-200b-3p from BSMCs in BOO rats and demonstrated that BSMC-derived exosomes enhanced proliferation, inflammation, and fibrosis of BSMCs via miR-200b-3p/ZO-1 axis. Our work identifies a potential target for diagnosis and therapy in BOO.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-51518-7",
+        "keyword": "Exosomes",
+        "title_ja": "miR-200b-3p高含有エクソソームは膀胱出口部閉塞においてZO-1を標的とすることで平滑筋細胞の増殖と線維化を促進する",
+        "summary_ja": "膀胱出口閉塞（BOO）は膀胱壁リモデリングを誘発するが、膀胱平滑筋細胞（BSMC）由来エクソソームmiRNAの機能は不明である。BOOラットモデルと正常ラットのBSMC由来エクソソームにおけるmiRNA発現プロファイルをシーケンス解析した。LPS誘導BSMCにBOO由来エクソソームを添加し、PKH26染色で取り込みを評価。MCP-1、IL-1β、TNF-α、α-SMA、コラーゲンIのタンパク質・mRNA発現をウェスタンブロット・qPCRで検出し、細胞増殖・アポトーシスをCCK-8、EdU、フローサイトメトリーで測定。miR-200b-3pとZO-1 3'UTRの結合をルシフェラーゼアッセイで解析した。結果、BOO群でmiR-200b-3pが上昇し、BOO由来エクソソーム処理はLPS誘導BSMCの増殖・炎症・線維化を促進。miR-200b-3p阻害はこれらの効果を減弱させ、ZO-1発現抑制で"
+      },
+      {
+        "title": "Palmitoylation-mediated exosomal trafficking of nuclear protein NAT10 potentiates liver fibrosis in MASH.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42103688/",
+        "abstract": "Liver fibrosis is the principal histological determinant of mortality in metabolic dysfunction-associated steatohepatitis (MASH), yet the mechanisms driving progression from steatosis to fibrosis remain incompletely defined and effective anti-fibrotic therapies are limited. Although hepatocyte-derived exosomes under lipotoxic stress promote hepatic stellate cell (HSC) activation, the pathogenic protein cargos remain undefined. This study sought to identify lipotoxicity-induced hepatocyte-derived exosomal proteins that drive MASH fibrogenesis and to define their mechanistic and therapeutic relevance.",
+        "source": "PubMed",
+        "doi": "10.1097/HEP.0000000000001785",
+        "keyword": "Exosomes",
+        "title_ja": "パルミトイル化を介した核タンパク質NAT10のエクソソーム輸送がMASHにおける肝線維化を促進する",
+        "summary_ja": "本論文は、MASH（代謝機能障害関連脂肪性肝炎）における肝線維化の進行メカニズムを解明した研究である。肝細胞がリポ毒性ストレス下で放出するエクソソームに含まれる核タンパク質NAT10に着目し、そのパルミトイル化修飾がエクソソームへの輸送を促進することを明らかにした。NAT10は肝星細胞（HSC）に取り込まれ、その活性化を誘導することで線維化を促進する。本研究は、NAT10がMASH線維化の新たな病原性因子であり、治療標的としての可能性を示唆している。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **NKG2A標的抗体S095029の第1相試験**：NKG2Aは抑制性免疫受容体であり、がん免疫逃避に関与。本抗体は抗PD-1との併用で新たな免疫チェックポイント阻害戦略として有望で、固形がん治療の選択肢拡大が期待される。\n\n2. **3Dバイオプリンティングによる腫瘍微小環境モデルとCAR-NK療法**：異種肺球体モデルが免疫逃避機構を再現し、CAR-NK細胞の治療戦略最適化に貢献。個別化医療への応用が期待される。\n\n3. **エクソソームcircPOLKとNSCLC転移**：血中エクソソーム内のcircPOLKがmiR-1204/SOX8軸を介して転移を促進。新たなバイオマーカー・治療標的として注目される。\n\n4. **MSC由来エクソソームによるCOVID-19サイトカインストーム抑制**：Annexin A1とTGF-βを介したMAPK経路阻害が鍵。重症COVID-19の新規治療法として、安全性・有効性のさらなる検証が進む。\n\n5. **エクソソームNAT10とMASH肝線維化**：核タンパクNAT10のパルミトイル化がエクソソーム輸送を促進し線維化を増悪。肝疾患の新たな分子標的として今後の治療開発が期待される。"
+}

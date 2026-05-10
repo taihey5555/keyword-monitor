@@ -1,0 +1,123 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Mesenchymal stromal cells therapy for remodeling the joint microenvironment: mechanisms, nanotechnology-enhanced strategies, and translation prospects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42106739/",
+        "abstract": "Osteoarthritis (OA) is a complex, multifactorial whole-joint disease characterized by progressive articular cartilage degeneration, synovitis, and subchondral bone remodeling. Current clinical interventions primarily offer symptomatic management but do not halt or reverse disease progression. Recent advancements in regenerative medicine have emphasized mesenchymal stromal cell (MSC) therapy owing to its substantial potential in tissue repair and microenvironmental modulation. This review systematically evaluates the therapeutic efficacy and potential mechanisms of bone marrow-derived MSCs, adipose-derived stromal cells, umbilical cord-derived MSCs, synovium-derived MSCs, embryonic stem cell-derived MSCs and induced pluripotent stem cell-derived MSCs, as well as MSC-derived exosomes, in modulating the joint microenvironment. Furthermore, we discuss recent innovations in nanotechnology-enhanced strategies, designed to improve targeting specificity and therapeutic durability of MSC-based interventions. This review aims to establish a foundational framework and translational roadmap for the development of next-generation disease-modifying therapies for OA.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05050-0",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系間質細胞療法による関節微小環境のリモデリング：メカニズム、ナノテクノロジー強化戦略、および臨床応用の展望",
+        "summary_ja": "本論文は、変形性関節症（OA）に対する間葉系間質細胞（MSC）療法の可能性を総説する。OAは関節軟骨変性、滑膜炎、軟骨下骨リモデリングを特徴とする複合疾患で、現行治療は対症療法に留まる。MSC療法は組織修復と微小環境調節能に注目され、骨髄由来、脂肪組織由来、臍帯由来、滑膜由来、胚性幹細胞由来、iPS細胞由来のMSC、およびMSC由来エクソソームの治療効果と機序を評価。さらに、標的特異性と治療持続性を向上させるナノテクノロジー強化戦略の最新進展を議論し、次世代の疾患修飾療法開発に向けた基盤と翻訳ロードマップを提示する。"
+      },
+      {
+        "title": "Vitamin D remodels the tumor microenvironment to suppress gastric cancer progression through cancer-associated fibroblasts-secreted exosomal miR-378c targeting KDSR.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42105149/",
+        "abstract": "Gastric cancer (GC) is a malignant neoplasm displaying highly cancer-related mortality globally. Although our previous studies have confirmed that vitamin D possessed a direct anti-cancer effect on GC cells, the regulatory role of vitamin D on gastric tumor microenvironment (TME) remains unexplored. This study aims to expound the modulation of vitamin D on TME especially on GC-associated fibroblasts (CAFs) and to further elucidate the essential role of the CAFs-derived exosomal ingredients in tumor-stroma crosstalk. Patient-derived primary CAFs enhanced the aggressive characteristics of GC cells. When co-cultured with GC cells, CAFs pretreated with 1,25(OH)",
+        "source": "PubMed",
+        "doi": "10.1007/s12272-026-01618-9",
+        "keyword": "Exosomes",
+        "title_ja": "ビタミンDは癌関連線維芽細胞が分泌するエクソソームmiR-378cを介してKDSRを標的とし、腫瘍微小環境を再構築して胃癌の進行を抑制する",
+        "summary_ja": "本論文は、ビタミンDが胃がん（GC）の腫瘍微小環境（TME）に与える影響を解明した研究である。ビタミンDの活性型である1,25(OH)₂D₃が、がん関連線維芽細胞（CAFs）に作用し、その分泌するエクソソーム内のmiR-378cを増加させることを見出した。このmiR-378cは、GC細胞内で標的遺伝子KDSRを抑制することで、がん細胞の浸潤・増殖能を低下させる。患者由来のCAFsはGC細胞の悪性形質を亢進させるが、1,25(OH)₂D₃で前処理したCAFsとの共培養では、その促進効果が減弱した。本研究は、ビタミンDがCAFs由来エクソソームを介してTMEを再構築し、GCの進行を抑制する新たなメカニズムを明らかにした。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "A Hydrogel-Mediated Sustained-Release Platform Alters the Biodistribution of Umbilical Cord Mesenchymal Stem Cell-Derived Extracellular Vesicles in Mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42106948/",
+        "abstract": "Mesenchymal stem cell-derived exosomes represent a promising therapeutic avenue for tissue regeneration, yet their clinical translation is hindered by rapid clearance following systemic administration and the lack of optimized, sustained-release delivery strategies. To address these challenges, we crafted a biomimetic hydrogel to carry and gently release MSC-derived exosomes. We engineered a biocompatible, dextran-based composite hydrogel (carboxymethyl chitosan-oxidized dextran/tannic acid-iron complex, CMC-OD/TA-Fe(III)) for the encapsulation and sustained release of human umbilical cord MSC-derived exosomes. We systematically compared the organ biodistribution of exosomes delivered via this hydrogel platform using three distinct local routes: intraperitoneal injection, oral (intragastric) administration, and rectal administration, employing in vivo imaging and tissue immunofluorescence analyses in C57BL/6J mice. Following a single intraperitoneal dose, released exosomes accumulated primarily in the liver and spleen, with minimal brain enrichment. Notably, both oral and rectal administration-non-invasive alternatives to injection-facilitated considerable exosome dissemination to multiple organs. The significant distribution observed via the oral route specifically challenges the prevailing assumption regarding the inefficacy of gastrointestinal delivery for exosome-based therapeutics. This study provides critical insights into administration-route-dependent biodistribution patterns and proposes novel, non-invasive delivery strategies to enhance the therapeutic efficacy and application scenarios of exosomes.",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.71210",
+        "keyword": "Exosomes",
+        "title_ja": "ハイドロゲルを介した持続放出プラットフォームがマウスにおける臍帯間葉系幹細胞由来細胞外小胞の生体内分布を変化させる",
+        "summary_ja": "本論文では、間葉系幹細胞由来エクソソームの治療応用における課題（全身投与後の急速なクリアランスと持続放出戦略の欠如）に対し、生体模倣ハイドロゲルを用いた新規送達プラットフォームを開発した。デキストラン系複合ハイドロゲル（CMC-OD/TA-Fe(III)）にヒト臍帯MSC由来エクソソームを封入し、C57BL/6Jマウスにおいて腹腔内注射、経口投与、直腸投与の3経路で臓器生体内分布を比較した。腹腔内投与では肝臓と脾臓への集積が主で脳への移行は限定的だった。一方、非侵襲的な経口・直腸投与では複数臓器への広範な分布が確認され、特に経口経路での有意な分布は、エクソソームの消化管送達が非効率とする従来の前提に疑問を投げかけた。本研究は投与経路依存的な分布パターンを解明し、新たな非侵襲的持続放出戦略を提案する。"
+      },
+      {
+        "title": "Dental pulp stem cell-derived exosomes attenuate psoriatic inflammation by restoring epithelial redox homeostasis via a miR-1246/miR-17-3p-GPX2-NF-κB axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42106764/",
+        "abstract": "Psoriasis is driven by sustained epidermal inflammation tightly coupled to dysregulated redox homeostasis. Although current systemic therapies are effective, their long-term use is limited by safety concerns. Dental pulp stem cell-derived exosomes (DPSC-Exo) have emerged as promising immunomodulatory, cell-free therapeutics, yet their role in regulating epithelial redox-inflammatory balance remains undefined.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05055-9",
+        "keyword": "Exosomes",
+        "title_ja": "歯髄幹細胞由来エクソソームは、miR-1246/miR-17-3p-GPX2-NF-κB軸を介して上皮の酸化還元恒常性を回復することにより、乾癬性炎症を軽減する",
+        "summary_ja": "歯髄幹細胞由来エクソソーム（DPSC-Exo）は、乾癬の上皮炎症とレドックス恒常性の異常を改善する。乾癬は持続的な表皮炎症とレドックス調節不全が密接に関連する疾患で、既存治療は長期安全性に課題がある。DPSC-Exoは免疫調節性の無細胞治療として注目されるが、上皮のレドックス-炎症バランスへの作用は未解明だった。本研究では、DPSC-ExoがmiR-1246/miR-17-3pを介してGPX2（グルタチオンペルオキシダーゼ2）の発現を抑制し、NF-κB経路を阻害することで、上皮のレドックス恒常性を回復し、乾癬炎症を軽減することを示した。これにより、DPSC-Exoが乾癬治療の新たな細胞治療戦略となる可能性が示唆された。"
+      },
+      {
+        "title": "Exosomes-mediated intercellular communication and their theragnostic potential against cancer and related disorders: a comprehensive review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42106581/",
+        "abstract": "Exosomes, a specialized group of extracellular vesicles (EVs) ranging from 30 to 150 nm in size, have emerged as important mediators of intercellular communication across both mammalian and plant kingdoms. By facilitating the transfer of bioactive cargo, these vesicles orchestrate complex signalling networks essential for physiological homeostasis and pathological progression. Extensive research into both plant and mammalian exosomes has established their inherent biocompatibility and potential as cell-free systems for the targeted delivery of therapeutic drugs in the management of various diseases, including cancer. Moreover, exosomes have unique molecular signatures that enable the identification of their cell of origin and serve as high-fidelity biomarkers for precise disease diagnosis. This review provides a comprehensive overview of exosomal biology, beginning with the critical importance of standardized isolation and enrichment protocols to ensure sample purity and yield. This review also evaluates contemporary detection and characterization methodologies, ranging from nanoparticle tracking analysis to super-resolution microscopy, which are essential for defining exosomal identity. Moreover, the dual role of exosomes in cancer and disease progression, emphasizing their ability to modulate the tumour microenvironment and serve as non-invasive biomarkers for liquid biopsies, has also been explored. Bioengineering strategies such as genetic manipulation of the host cell or chemical modification of the exosome surface, can enhance their targeting precision and therapeutic loading capacity. The review also discusses the capacity of these vesicles to be loaded with exogenous drugs, including small molecules and RNA-based therapeutics, transforming them into potent, site-specific delivery vehicles. Despite their immense potential as biocompatible, cell-free drug delivery vehicles, several translational hurdles, including large-scale manufacturing consistency and regulatory complexities, remain as significant challenges, which if addressed, can lead to a shift toward personalized exosome-based diagnosis and therapy that could revolutionize the management of cancer and other complex systemic disorders.",
+        "source": "PubMed",
+        "doi": "10.1007/s10529-026-03738-0",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを介した細胞間コミュニケーションと、がん及び関連疾患に対するその治療診断の可能性：包括的レビュー",
+        "summary_ja": "本レビューでは、30～150nmの細胞外小胞であるエクソソームの生物学と、がん診断・治療への応用可能性を包括的に解説する。エクソソームは生体適合性が高く、細胞間情報伝達を介して生理的恒常性や病態進行に関与する。独自の分子シグナルにより高精度なバイオマーカーとして機能し、液体生検による非侵襲的診断を可能にする。また、遺伝子操作や化学修飾による標的指向性向上や、低分子薬・RNA医薬の搭載により、細胞を用いないドラッグデリバリーシステムとして有望である。一方、大規模製造の均一性や規制上の課題が残るものの、これらを克服すれば個別化医療への応用が期待される。"
+      },
+      {
+        "title": "Exosome-based strategies to enhance CAR-T cell therapy for systemic lupus erythematosus: A promising new frontier.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42105262/",
+        "abstract": "Dysregulated B lymphocyte activation plays a pivotal role in the pathogenesis of systemic lupus erythematosus (SLE), making it a promising target for therapeutic intervention. Chimeric antigen receptor T cell (CAR-T) therapy, specifically targeting CD19-positive B cells, has shown potential in selectively eliminating aberrant B cells, offering a path toward sustained remission and even complete eradication of SLE. However, the broad immunosuppressive effects and cytotoxicity associated with CAR-T therapy pose significant challenges to its application in autoimmune disease treatment. Recent advances in extracellular vesicle biology, particularly exosomes, have highlighted their potential as a cell-free therapeutic platform due to their superior biocompatibility, plasticity, and ability to modulate immune responses. CAR-T-derived or engineered exosomes represent a potential cell-free alternative to reduce cellular dose and toxicity while preserving efficacy in SLE. This review provides a comprehensive analysis of the current landscape of CAR-T cell therapy in autoimmune diseases, with a focus on its safety, effectiveness, and potential in treating SLE. Furthermore, it explores the emerging role of exosomes as a promising adjunct to traditional CAR-T therapy, offering novel perspectives and therapeutic strategies for SLE management.",
+        "source": "PubMed",
+        "doi": "10.1080/08830185.2026.2669734",
+        "keyword": "Exosomes",
+        "title_ja": "全身性エリテマトーデスに対するCAR-T細胞療法を強化するエクソソームベースの戦略：有望な新たなフロンティア",
+        "summary_ja": "全身性エリテマトーデス（SLE）の病態にはB細胞の異常活性化が関与し、CD19標的キメラ抗原受容体T細胞（CAR-T）療法は異常B細胞を除去し寛解をもたらす可能性がある。しかし、免疫抑制や細胞毒性が課題である。近年、細胞外小胞（エクソソーム）は生体適合性や免疫調節能に優れ、CAR-T由来のエクソソームは細胞投与量や毒性を低減しつつ効果を維持する細胞フリー治療として期待される。本総説は、SLE治療におけるCAR-T療法の安全性と有効性を分析し、エクソソームが従来のCAR-T療法を補完する新たな戦略となる可能性を探る。"
+      },
+      {
+        "title": "Nanoscale Fluorescent Characterizations and Origin Tracing of Extracellular Vesicles through Standard Preparation Methods.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42104942/",
+        "abstract": "Extracellular vesicles (EVs) facilitate intercellular communication and have emerged as valuable diagnostic and prognostic biomarkers, therapeutic tools, and delivery systems. Due to their heterogeneity, precise profiling of EVs requires sub-EV resolution beyond standard EV biomarkers. Additionally, there is a growing need to trace the biogenesis of individual EVs. While super-resolution microscopy enables EV profiling at the nanoscale with biochemical specificity, the lack of standardized workflows for EV purification, immobilization, and labeling continues to limit reproducibility and biological interpretation. Here, we demonstrate the use of two standard purification methods to prepare EVs isolated from two cellular sources for nanoscale characterizations of CD81 using direct stochastic optical reconstruction microscopy (",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.6c01976",
+        "keyword": "Exosomes",
+        "title_ja": "標準的な調製法による細胞外小胞のナノスケール蛍光特性評価と起源追跡",
+        "summary_ja": "以下の通り要約します。\n\n細胞外小胞（EV）は細胞間情報伝達を担い、診断・治療バイオマーカーや薬物送達システムとして注目される。しかし、その不均一性ゆえに、従来のバイオマーカーを超えるサブEV分解能での解析と、個々のEVの生合成追跡が求められる。超解像顕微鏡はナノスケールでの生化学的特異的解析を可能にするが、EVの精製、固定化、標識の標準化が不十分であり、再現性と生物学的解釈に課題がある。本研究では、2種類の標準精製法を用いて2つの細胞由来EVを調製し、直接確率的光学再構成顕微鏡（dSTORM）によるCD81のナノスケール特性評価を実証した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めて500文字以内でまとめます。\n\n---\n\n**1. ビタミンDとエクソソームによる胃がん微小環境リモデリング**  \nビタミンDがCAFs由来エクソソームのmiR-378cを介してKDSRを標的とし、胃がん抑制に寄与することを示した。栄養因子とエクソソームの融合は、低侵襲ながん治療戦略として有望である。\n\n**2. ハイドロゲルによるMSC由来EVの持続放出プラットフォーム**  \n全身投与後のEVの急速なクリアランスを克服するため、生体模倣ハイドロゲルを用いた徐放システムを開発。組織滞留性と治療効果の向上が期待され、再生医療の実用化に貢献する。\n\n**3. 歯髄幹細胞由来エクソソームによる乾癬治療**  \nDPSC-ExoがmiR-1246/miR-17-3pを介してGPX2-NF-κB経路を調整し、上皮レドックス恒常性を回復。無細胞治療として安全性が高く、慢性炎症性皮膚疾患への新たなアプローチとなる。\n\n**4. CAR-T療法とエクソソームの融合によるSLE治療**  \nCD19標的CAR-T細胞の免疫抑制や細胞毒性を克服するため、エクソソームを併用する戦略が提案された。免疫調節と標的除去の両立が可能となり、自己免疫疾患治療の新たなフロンティアを拓く。\n\n**5. MSC療法とナノテクノロジーによる関節微小環境再構築**  \n変形性関節症に対し、MSCの組織修復能とナノ粒子技術を組み合わせた治療戦略が総説された。局所送達と持続効果の向上により、対症療法に留まらない疾患修飾療法の実現が期待される。\n\n---\n\nこれらのトピックは、エクソソームやMSCを基盤とした細胞外小胞技術が、がん・自己免疫疾患・変性疾患の治療において、標的化・持続性・安全性を高める方向へ進化していることを示している。"
+}

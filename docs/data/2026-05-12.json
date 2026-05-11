@@ -1,0 +1,186 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Interaction of Pf4 tactoids with bacteria and synthetic colloidal rods.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42113299/",
+        "abstract": "We investigated the interaction of liquid crystal droplets, formed by a phase separating system of elongated virus particles and polymer with rod-like impurities. The virus particles were Pf4, which when mixed with sodium alginate as polymer, phase separated into an isotropic phase in coexistence with a nematic phase of the virus particles. The nematic phase appeared in the form of spindle-shaped liquid crystal droplets, which are called tactoids. We studied the interaction of this mixture with micrometer sized rods, which were either bacteria (Bacillus subtilis or Escherichia coli) or inert colloidal particles (made of SU8 photoresist polymer or silica). Confocal laser scanning microscopy was used to examine the mixtures and four different dominant configurations were found, classified as no attachment, partial attachment of the rod to the tactoid, a \"sandwich\" state, where two tactoids interact with the same rod, and lastly encapsulation of the rods by the tactoids. We categorized the results in terms of surface properties and rod geometry (size and aspect ratio). We further investigated the system through numerical calculation in a simplified two-dimensional model. Finally, we addressed the role of confining the experimental system from three dimensions to a quasi two-dimensional setup, a relevant scenario in bacteria biofilms.",
+        "source": "PubMed",
+        "doi": "10.1007/s00249-026-01844-5",
+        "keyword": "PF4",
+        "title_ja": "Pf4タクトイドと細菌および合成コロイドロッドとの相互作用",
+        "summary_ja": "Pf4ウイルス粒子とポリマー（アルギン酸ナトリウム）の相分離系で形成される液晶液滴（タクトイド）と、棒状不純物（細菌Bacillus subtilisやEscherichia coli、または不活性コロイド粒子）との相互作用を研究した。共焦点レーザー走査顕微鏡により、四つの主要な配置（無付着、部分付着、二つのタクトイドが同一棒に結合する「サンドイッチ」状態、棒のタクトイド内包封）を観察し、表面特性や棒の形状（サイズ、アスペクト比）で分類した。さらに二次元モデルによる数値計算と、三次元から準二次元への閉じ込め効果（細菌バイオフィルムに関連）も検討した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Next-generation CAR-NK cell therapy for glioblastoma: strategies to overcome antigen escape and the immunosuppressive tumor microenvironment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42113024/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1080/14712598.2026.2672421",
+        "keyword": "NK cell therapy",
+        "title_ja": "次世代CAR-NK細胞療法による膠芽腫治療：抗原逃避と免疫抑制性腫瘍微小環境を克服する戦略",
+        "summary_ja": "タイトル：膠芽腫に対する次世代CAR-NK細胞療法：抗原逃避と免疫抑制性腫瘍微小環境を克服する戦略\n\n本論文は、膠芽腫（GBM）治療におけるCAR-NK細胞療法の課題と次世代戦略を論じる。GBMは抗原不均一性と免疫抑制性腫瘍微小環境（TME）により、既存のCAR-T細胞療法では抗原逃避や浸潤不全が問題となる。CAR-NK細胞は、自然細胞傷害性やサイトカイン放出症候群リスク低減などの利点を持つが、GBMのTMEでは抑制性シグナルや代謝ストレスにより機能が減弱する。次世代戦略として、(1)複数抗原標的（例：EGFRvIII、HER2、IL13Rα2）を同時認識する二重特異性CARやタンデムCARの設計、(2)IL-15やIL-21などのサイトカインを分泌する「武装CAR-NK」による持続活性化、(3)TGF-βやPD-L1に対する阻害分子を組み込んだ抵抗性強化、(4)低酸素環境でも機能する代謝"
+      },
+      {
+        "title": "T cells, the next big target in axSpA?",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42112876/",
+        "abstract": "Axial spondyloarthritis (axSpA) is a chronic inflammatory disease characterized by complex immune dysregulation, with T cells playing a central role in its pathogenesis. In this review we synthesize current knowledge on diverse T cell subsets in axSpA, their pathogenic mechanisms, and emerging therapeutic strategies targeting these cells. We highlight conventional αβ T cell receptor (TCR) expressing CD8+ T cells, CD4+ Th17and Treg cells, and CD103+CD49a+ tissue-resident memory (TRM) integrin expressing (InEx) T cells in axSpA initiation and progression. Innate-like T cell subsets, including γδ T cells, mucosal-associated invariant T (MAIT) cells, and invariant natural killer T (iNKT) cells alongwith innate lymphoid cells (ILC3s, though not T cells), contribute substantially via interlukin-17 (IL-17) production via IL-23, driving inflammation and tissue damage. We discuss complex milieu of cytokines in T cell-mediated inflammation, offering potential explanations for inefficacy of some cytokine inhibitors. We explore alternative drivers of inflammation and their implications for developing more effective therapies targeting T cells in axSpA, either directly via anti-TRBV9 antibody therapy or janus kinase (JAK) inhibition or indirectly by inhibiting mediators such as IL-17 and TNF. This complex interplay of T cell subsets in disease pathogenesis underscores the need for research to develop more targeted treatments, opening new avenues for personalized therapies and combination approaches that address multiple aspects of the inflammatory cascade in axSpA.",
+        "source": "PubMed",
+        "doi": "10.1002/art.70221",
+        "keyword": "NK cell therapy",
+        "title_ja": "T細胞、axSpAにおける次の大きな標的？",
+        "summary_ja": "本レビューでは、軸性脊椎関節炎（axSpA）におけるT細胞の多様なサブセットとその病原性メカニズム、及び新たな治療戦略を統合する。axSpAの病態には、従来のαβT細胞受容体を発現するCD8+ T細胞、CD4+ Th17細胞、制御性T細胞、CD103+CD49a+組織常在性メモリーT細胞に加え、γδ T細胞、MAIT細胞、iNKT細胞などの自然免疫様T細胞が関与し、IL-23を介したIL-17産生により炎症と組織障害を促進する。サイトカイン阻害薬の効果不十分な理由として、T細胞介在性炎症における複雑なサイトカインネットワークを考察。新たな治療法として、抗TRBV9抗体療法やJAK阻害による直接的なT細胞標的、またはIL-17やTNF阻害による間接的なアプローチを提案する。T細胞サブセット間の複雑な相互作用は、個別化治療や併用療法の開発に向けた研究の重要性を示している。"
+      },
+      {
+        "title": "Clinical features and prognostic factors of adult systemic chronic active EBV disease: A retrospective analysis in Japan.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42108635/",
+        "abstract": "Systemic chronic active Epstein-Barr virus disease (sCAEBV) is a life-threatening disorder characterized by Epstein-Barr virus (EBV) infection in T cells and/or natural killer (NK) cells leading to systemic inflammation. We retrospectively analysed 46 adult patients diagnosed with sCAEBV at two high-volume centres in Japan. Patients with active disease received immunosuppressive therapy, chemotherapy-based regimens and/or ruxolitinib. Allogeneic haematopoietic stem cell transplantation (allo-HSCT) was pursued whenever feasible. Of 46 patients, 41 (89.1%) ultimately underwent allo-HSCT. Five patients progressed from hydroa vacciniforme lymphoproliferative disorder (HV-LPD); all showed EBV-infected CD4+ cells. The 3-year overall survival (OS) was 43.1% (95% confidence interval [CI], 27.7-57.5), and all patients who did not undergo allo-HSCT died within 8 months from diagnosis. Five patients (10.9%) developed lymphoma or leukaemia. Leading causes of death included haemophagocytic lymphohistiocytosis and infections. Multivariable analysis identified high alanine aminotransferase (ALT) and ferritin as independent predictors of poor outcome. Based on these findings, we developed a risk model stratifying patients into three groups with distinct 3-year OS rates: 69.9% (95% CI, 44.6-85.3) in patients with neither factor, 24.8% (95% CI, 7.0-48.2) in those with one factor and 0% in those with both factors (p < 0.001). ALT and ferritin are practical biomarkers for risk stratification and treatment.",
+        "source": "PubMed",
+        "doi": "10.1111/bjh.70532",
+        "keyword": "NK cell therapy",
+        "title_ja": "成人全身性慢性活動性EBウイルス病の臨床的特徴と予後因子：日本における後方視的解析",
+        "summary_ja": "本論文は、日本国内の2施設で診断された成人全身性慢性活動性EBウイルス病（sCAEBV）46例の後方視的解析である。sCAEBVはT細胞やNK細胞へのEBV感染により全身性炎症を来す致死的疾患であり、患者は免疫抑制療法、化学療法、ルキソリチニブ、可能な場合は同種造血幹細胞移植（allo-HSCT）を受けた。46例中41例（89.1%）がallo-HSCTを実施し、5例は水痘様リンパ増殖性疾患（HV-LPD）からの進展例で全例CD4陽性細胞にEBV感染を認めた。3年全生存率（OS）は43.1%であり、allo-HSCT未実施例は診断後8ヶ月以内に全例死亡した。5例（10.9%）がリンパ腫や白血病を発症し、主な死因は血球貪食性リンパ組織球症と感染症であった。多変量解析で高ALT値と高フェリチン値が独立した予後不良因子と同定され、これらに基づくリスクモデルでは、両因子なし群の3年OS 69.9%"
+      },
+      {
+        "title": "How exercise scheduling affects IL-6-mediated tumor suppression: a fixed exercise volume perspective.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42049052/",
+        "abstract": "Recent investigations into exercise-induced tumor suppression suggest that higher exercise frequency enhances tumor control when the total duration of exercise within a specified time window is not constrained. An equally compelling avenue for exploration is the effect of increased exercise frequency under the condition of a fixed total exercise duration within the same time frame. Using a mathematical model of IL-6-mediated interactions between natural killer cells and tumor cells, here we explore how different combinations of exercise and rest intervals-while maintaining a constant overall exercise volume-affect tumor suppression. Our results reveal a nonmonotonic tumor response and key metrics such as the time of maximum tumor suppression and the duration of tumor suppression are found to decrease with increasing exercise frequency. Interestingly, unlike earlier study where increasing exercise frequency leads to increase in tumor suppression, here we find that under fixed exercise volume constraints, increased frequency diminishes therapeutic efficacy of exercise, suggesting exercise bouts with longer duration are more effective in suppressing tumors. These findings highlight the importance of considering total exercise volume when designing exercise-based cancer interventions.",
+        "source": "PubMed",
+        "doi": "10.1088/1478-3975/ae65f8",
+        "keyword": "NK cell therapy",
+        "title_ja": "運動スケジュールがIL-6を介した腫瘍抑制に与える影響：固定運動量の観点から",
+        "summary_ja": "本論文では、総運動時間を固定した条件下で、運動頻度の増加がIL-6を介した腫瘍抑制に与える影響を数理モデルを用いて解析した。NK細胞と腫瘍細胞間のIL-6媒介相互作用をモデル化し、運動と休息の間隔を変化させた結果、腫瘍応答は非単調であり、最大抑制時間や抑制持続時間は運動頻度の増加に伴い減少した。先行研究とは異なり、総運動量が固定された場合、頻度を上げると治療効果が低下し、長時間の運動がより効果的であることが示された。この結果は、運動ベースのがん介入において総運動量の考慮が重要であることを強調している。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Targeted drug delivery systems for cardiovascular disease treatment: principles, targeting strategies, and future prospects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42109009/",
+        "abstract": "Targeted drug delivery systems achieve precise drug enrichment at lesion sites through mechanisms such as passive targeting, active targeting, and stimulus-responsive release, offering novel pathways to enhance therapeutic efficacy while reducing systemic toxicity. With advancements in technologies like antibody-drug conjugates and carrier-based encapsulation, these systems have demonstrated remarkable success in treating multiple diseases.",
+        "source": "PubMed",
+        "doi": "10.1080/07853890.2026.2667553",
+        "keyword": "Exosomes",
+        "title_ja": "心血管疾患治療のための標的薬物送達システム：原理、標的化戦略、および将来の展望",
+        "summary_ja": "標題：心血管疾患治療における標的薬物送達システム：原理、標的化戦略、および将来の展望\n\n内容：標的薬物送達システムは、受動的標的化、能動的標的化、および刺激応答性放出などのメカニズムを通じて、病変部位に薬物を精密に濃縮し、治療効果を高めつつ全身毒性を低減する新たな手法を提供する。抗体薬物複合体やキャリアベースの封入技術の進展により、これらのシステムは複数の疾患治療において顕著な成功を収めている。本稿では、心血管疾患への応用に焦点を当て、その原理と戦略を概説し、今後の展望を論じる。"
+      },
+      {
+        "title": "The Potential Function of Toxoplasma gondii in Tumour Immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42108599/",
+        "abstract": "Immunotherapy has revolutionised the clinical treatment of many types of cancer, including immune checkpoint inhibitors, adoptive cell therapies, and tumour vaccines, which are capable of providing long-term clinical benefit in some patients. Nevertheless, a high degree of tumour immune heterogeneity and an ongoing immunosuppressive the tumour microenvironment (TME) remain as limitations to therapeutic outcomes, and alternative methods to stimulate antitumor immunity are necessary. Given these limitations, recent researchers has been attracted to the fact that Toxoplasma gondii and its derivatives can be considered as unconventional parasite-derived immunomodulatory vectors in cancer immunotherapy. T. gondii infection triggers strong Th1 immunity mediated on interleukin-12 (IL-12) and interferon-γ (IFN-γ), promotes dendritic cell maturation, and activates cytotoxic T cells, thus reprogramming the TME to a more immunostimulatory condition. Attenuated or metabolic-deficient strains have shown strong antitumor efficacy in various murine tumour models by reducing tumour burden and prolonging host survival. Meanwhile, the effector proteins of the parasite, such as GRA15, GRA16, and ROP18, regulate immune cell function to induce tumour cell apoptosis, inhibit angiogenesis, and suppress metastasis. The T. gondii-infected cell-derived exosomes and T. gondii lysate antigens are also immunogenic and represent safer, non-infectious therapeutic alternatives. Here, we summarise the latest advances in the antitumor effects of T. gondii and its derivatives, focusing on immune activation, signalling regulation, direct antitumor effects, synergistic immunotherapy, potential for drug development, and challenges in future clinical translation. T. gondii and its derivatives have shown the potential to reshape TME and convert 'cold' tumours into 'hot' ones in murine cancer models. We believe that with further research in this field, the future of cancer immunotherapy will see breakthrough advancements.",
+        "source": "PubMed",
+        "doi": "10.1111/imm.70147",
+        "keyword": "Exosomes",
+        "title_ja": "トキソプラズマ原虫の腫瘍免疫療法における潜在的機能",
+        "summary_ja": "本論文は、トキソプラズマ原虫（Toxoplasma gondii）とその派生体が腫瘍免疫療法において持つ可能性を概説する。免疫チェックポイント阻害剤や養子細胞療法などの免疫療法は一部の癌患者に長期効果をもたらすが、腫瘍免疫の不均一性や免疫抑制的な腫瘍微小環境（TME）が課題である。T. gondii感染はIL-12やIFN-γを介した強力なTh1免疫を誘導し、樹状細胞成熟や細胞傷害性T細胞活性化を促進してTMEを免疫刺激性に再プログラムする。弱毒株や代謝欠損株はマウスモデルで腫瘍縮小と生存延長を示し、エフェクタータンパク質（GRA15、GRA16、ROP18）は免疫細胞調節、アポトーシス誘導、血管新生阻害、転移抑制に寄与する。また、感染細胞由来エクソソームや原虫溶解物抗原は非感染性の安全な治療代替手段となる。本稿は、免疫活性化、シグナル制御、直接抗腫瘍効果、相乗免疫療法、薬剤開発、臨床応用"
+      },
+      {
+        "title": "Exosome-camouflaged chitosan/zinc oxide/carbon quantum dot nanocarriers for pH-responsive doxorubicin delivery in breast cancer treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42097777/",
+        "abstract": "Doxorubicin (DOX) chemotherapy for breast cancer is constrained by systemic toxicity and limited tumor selectivity, underscoring the need for polysaccharide-based carriers in which pH responsiveness arises from intrinsic polymer properties rather than chemical modification. In this study, a carbohydrate-centered biomimetic nanocarrier was developed using chitosan as the primary structural and pH-responsive matrix, integrating zinc oxide nanoparticles (ZnO) and carbon quantum dots (CQDs) through a W1/O/W2 double-emulsion process, followed by surface association with bone marrow-derived mesenchymal stem cell (BM-MSC) exosomal membranes. The resulting CS/ZnO/CQDs@DOX nanocarriers exhibited an average hydrodynamic diameter of ∼180 nm, which increased to ∼205 nm after exosome association, accompanied by partial surface charge shielding. Physicochemical analyses supported a predominantly non-covalent assembly without evidence of alteration of the chitosan backbone, yielding a high encapsulation efficiency (88.75 ± 2.1%) and a drug loading of 6.8 ± 0.5 wt%. In vitro studies revealed pronounced pH-dependent doxorubicin release and enhanced cytotoxicity toward MCF-7 cells (IC₅₀ = 0.8 ± 0.1 μM), while maintaining minimal toxicity toward normal cells. Overall, these findings demonstrate that chitosan-driven pH responsiveness, complemented by inorganic components and biomimetic surface camouflaging, provides an effective and chemically conservative strategy for carbohydrate-based drug delivery design.",
+        "source": "PubMed",
+        "doi": "10.1016/j.carbpol.2026.125345",
+        "keyword": "Exosomes",
+        "title_ja": "乳がん治療におけるpH応答性ドキソルビシン送達のためのエクソソームで偽装したキトサン/酸化亜鉛/カーボン量子ドットナノキャリア",
+        "summary_ja": "以下は、指定された論文の要約です。\n\nドキソルビシン（DOX）の乳がん化学療法は全身毒性と腫瘍選択性の低さが課題であり、pH応答性を化学修飾ではなく高分子自体の特性に依存する多糖系キャリアが注目される。本研究では、キトサンを構造的・pH応答性マトリックスとし、酸化亜鉛ナノ粒子（ZnO）と炭素量子ドット（CQDs）をW1/O/W2ダブルエマルション法で組み込み、骨髄由来間葉系幹細胞（BM-MSC）のエクソソーム膜で表面修飾した生体模倣ナノキャリアを開発した。得られたCS/ZnO/CQDs@DOXは平均流体力学的直径約180 nm、エクソソーム結合後は約205 nmとなり、表面電荷の部分的な遮蔽が確認された。物理化学的分析により非共有結合的な会合が示され、キトサン骨格の変化は認められず、高い封入効率（88.75±2.1%）と薬物搭載量（6.8±0.5 wt%）を達成した。in vitroではp"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Exosomes in Amyloid Propagation-Roles in Neurodegeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42113315/",
+        "abstract": "Extracellular vesicle (EVs)-mediated cell-to-cell communication is crucial for cell growth, signaling, and metabolism. Exosomes are a subtype of EVs originating from endosomal cellular machinery and have a relatively smaller size (30-150 nM). They carry nucleic acids, proteins, miRNA, lipids, metabolites, and growth factors, making them an exciting research tool for understanding the pathophysiology of complex human diseases. Different brain cells also communicate with themselves by the release of exosomes which helps in overall brain growth and in cell signaling. Recent studies have highlighted the importance of exosomes in neurodegenerative diseases (NDDs) of Alzheimer's disease (AD), Parkinson's disease (PD), amyotrophic lateral sclerosis (ALS), prion, and Huntington's disease (HD). Exosomes are involved in the spread of amyloid-like protein aggregates formed in these diseases, but a comprehensive understanding of this spread mechanism is limited. In this article, we have analyzed the roles of exosomes in the spread of amyloid protein aggregates in the NDDs. Furthermore, we have discussed possible measures to address several gaps in our current understanding of cross talks between exosomes and protein aggregates in neurodegenerative disorders (NDDs). We have also discussed the therapeutic opportunities to delay or prevent pathogenic amyloid aggregate spread by exploiting exosomal transport. Overall, the review will contribute to develop a better understanding vesicular transport of amyloids and will help contend their propagation in different NDDs.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-05913-w",
+        "keyword": "Exosomes",
+        "title_ja": "アミロイド伝播におけるエクソソームの役割―神経変性への関与",
+        "summary_ja": "細胞間コミュニケーションにおいて、細胞外小胞（EVs）特にエクソソーム（30-150 nm）は、核酸、タンパク質、miRNA、脂質、代謝物、成長因子を運び、複雑な疾患の病態解明に重要である。脳内では、エクソソームが神経細胞間のシグナル伝達や成長を支える。近年、アルツハイマー病、パーキンソン病、筋萎縮性側索硬化症、プリオン病、ハンチントン病などの神経変性疾患（NDDs）において、エクソソームがアミロイド様タンパク質凝集体の伝播に関与することが示されたが、その機構の包括的理解は限られている。本総説では、NDDsにおけるアミロイド凝集体の伝播におけるエクソソームの役割を分析し、エクソソームとタンパク質凝集体間の相互作用に関する知識のギャップを解消するための方策を議論する。また、エクソソーム輸送を利用した病原性アミロイド凝集体の伝播を遅延・防止する治療的機会についても考察する。本レビューは、アミロ"
+      },
+      {
+        "title": "DNA methylation and exosomes in relation to type 2 diabetes in Black South Africans: A pilot study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42109600/",
+        "abstract": "Type 2 diabetes (T2D) is a metabolic disorder characterised by hyperglycaemia, reduced insulin secretion, and increased insulin resistance, yet its mechanisms are not fully understood. While genetic predisposition contributes to the variable disease presentation across different ethnic populations, it does not fully explain the burden of T2D. Global 5-methylcytosine (5-mC) has emerged as an important regulator of gene expression, influencing disease pathogenesis through interactions with environmental factors. In parallel, circulating exosomes have attracted significant attention in research due to their role in mediating cell-to-cell communication and their capability to transport bioactive molecules, including methylated genomic DNA, that influence gene expression and metabolic pathways. The combined contribution of 5-mC and circulating exosome concentration to T2D pathogenesis in African populations remains poorly understood. A South African community case-control study of 40 T2D cases and 40 healthy controls quantified exosomes and 5-mC using their corresponding enzyme-linked immunosorbent assay. Associations of variables with T2D were evaluated using linear and logistic regression models. Serum exosome concentrations were positively correlated with global 5-mC (r = 0.269, p = 0.016). Global 5-mC levels were positively associated with triglycerides (r = 0.232, p = 0.038) and inversely correlated with weight in the diabetic group (r = -0.342, p = 0.038), while exosomes showed a sex-specific inverse association with diastolic blood pressure in males (r = -0.585, p = 0.028). However, neither biomarker independently predicted T2D after adjustment for confounders. These findings suggest a modest interplay between epigenetic modification and exosome signalling, warranting further investigation in larger studies.",
+        "source": "PubMed",
+        "doi": "10.1016/j.gmg.2026.100109",
+        "keyword": "Exosomes",
+        "title_ja": "黒人南アフリカ人における2型糖尿病と関連したDNAメチル化およびエクソソーム：パイロット研究",
+        "summary_ja": "本パイロット研究は、南アフリカの黒人集団における2型糖尿病（T2D）と、DNAメチル化（global 5-mC）及び血中エクソソーム濃度の関連を検討した。T2D患者40例と健常対照40例を対象にELISA法で測定した結果、血清エクソソーム濃度とglobal 5-mCは正の相関を示した（r=0.269, p=0.016）。5-mCはトリグリセリドと正相関（r=0.232, p=0.038）、糖尿病群では体重と逆相関（r=-0.342, p=0.038）し、エクソソームは男性の拡張期血圧と性特異的な逆相関を示した（r=-0.585, p=0.028）。しかし、交絡因子調整後、いずれのバイオマーカーもT2Dを独立して予測しなかった。エピジェネティック修飾とエクソソームシグナル伝達の緩やかな相互作用が示唆され、大規模研究での検証が必要である。"
+      },
+      {
+        "title": "RNA Therapeutics and Their Delivery Methods: A Paradigm for Hemophilia Management.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42109006/",
+        "abstract": "Hemophilia management is currently undergoing a paradigm shift from traditional protein replacement to RNA modalities and their delivery. This review provides a critical analysis of RNA-based therapeutics (specifically siRNA, mRNA, and CRISPR/Cas9) as a versatile paradigm distinct from DNA ones. We synthesize clinical and preclinical data to contrast these modalities: siRNA strategies (e.g., fitusiran) have indicated ∼90% reductions in bleeding rates by rebalancing hemostasis independent of factor deficiency; LNP-mRNA platforms offer tunable, transient factor production without genomic integration risks; and CRISPR-based editing aims for permanent correction (up to 170% FIX expression in preclinical studies) but necessitates rigorous monitoring for off-target effects. Crucially, this article dissects the non-viral delivery landscape determining the clinical viability of these cargos. We evaluate lipid nanoparticles (LNPs) as the current clinical gold standard for hepatic delivery, contrasting them against emerging polymeric systems, aptamer-conjugates, and exosomes designed to overcome rate-limiting barriers such as endosomal entrapment and renal clearance. By juxtaposing the immunogenic limitations of viral vectors, we conclude that next-generation RNA therapeutics, enabled by LNPs and GalNAc-conjugation, offer a strategic pathway to overcome the durability gap observed in Hemophilia A and expand treatment access to patients currently excluded by viral seroprevalence.",
+        "source": "PubMed",
+        "doi": "10.1080/1061186X.2026.2638330",
+        "keyword": "Exosomes",
+        "title_ja": "RNA治療薬とその送達方法：血友病管理におけるパラダイム",
+        "summary_ja": "本レビューは、血友病管理における従来のタンパク質補充療法からRNAモダリティへのパラダイムシフトを分析する。siRNA（fitusiranは出血率を約90%低減し凝固因子非依存的に止血を再調整）、mRNA（LNP製剤でゲノム組込みリスクなく一過性の因子産生を実現）、CRISPR/Cas9（前臨床でFIX発現170%までの恒久的補正が可能だがオフターゲット効果の監視が必要）の各戦略を比較。非ウイルス性送達システムとして、肝臓標的の脂質ナノ粒子（LNP）が臨床的金標準であり、エンドソーム捕捉や腎クリアランスを克服する高分子系、アプタマー複合体、エクソソームが台頭。ウイルスベクターの免疫原性制限を踏まえ、LNPやGalNAc複合体を活用した次世代RNA治療薬は、血友病Aの持続性ギャップを克服し、ウイルス血清有病率で除外された患者への治療アクセス拡大に寄与する。"
+      },
+      {
+        "title": "Effect of ADSCs-Exos on Pg-LPS-Induced Osteoclastogenesis in an In Vitro Inflammatory Model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42108521/",
+        "abstract": "Periodontitis is a chronic inflammatory disorder characterized by tissue degradation and bone loss. Lipopolysaccharide (LPS) accelerates disease progression by host immune activation, inducing localized inflammatory infiltration and osteoclastogenesis, and disrupting bone metabolic homeostasis. Adipose-derived mesenchymal stem cells (ADSCs) exert anti-inflammatory, anti-apoptotic, and regenerative effects via paracrine signaling.",
+        "source": "PubMed",
+        "doi": "10.1111/odi.70350",
+        "keyword": "Exosomes",
+        "title_ja": "ADSCs-ExosがPg-LPS誘導性破骨細胞形成に及ぼす影響：in vitro炎症モデルにおける検討",
+        "summary_ja": "タイトル：ADSCs-ExosがPg-LPS誘導性破骨細胞形成に及ぼす影響（in vitro炎症モデル）\n\n歯周炎は組織破壊と骨喪失を特徴とする慢性炎症性疾患である。リポ多糖（LPS）は宿主免疫を活性化し、局所的な炎症性浸潤と破骨細胞形成を誘導して骨代謝恒常性を破綻させることで病態を進行させる。脂肪由来間葉系幹細胞（ADSCs）はパラクリンシグナルを介して抗炎症、抗アポトーシス、再生効果を発揮する。本研究では、Pg-LPS刺激下のin vitro炎症モデルにおいて、ADSCs由来エクソソーム（ADSCs-Exos）が破骨細胞形成に与える影響を検討した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Neonatal small extracellular vesicle-loaded GelNB hydrogel reprograms the vascular-immune microenvironment for spinal cord injury repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42111233/",
+        "abstract": "Adult mammals with spinal cord injury (SCI) face permanent disability from failed regeneration and scarring, while neonatal mice achieve scarless repair. We show neonatal mouse circulating blood-derived small extracellular vesicles (NCE) rejuvenate adult spinal cord microvascular endothelial cells (SCMECs), restoring lipid metabolism, easing immune imbalance, and supporting neuroaxonal regrowth. Post-SCI myelin debris triggers IRS1-mediated PI3K-Akt-mTOR overactivation in SCMECs, causing harmful lipid droplet buildup, organelle dysfunction, and endothelial-to-mesenchymal transition (EndoMT). It also increases CXCL12 secretion from SCMECs, which recruits CXCR4",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.04.026",
+        "keyword": "sEVs",
+        "title_ja": "新生児由来小型細胞外小胞搭載GelNBハイドロゲルによる血管-免疫微小環境の再プログラミングを介した脊髄損傷修復",
+        "summary_ja": "新生児マウス由来の循環血液小型細胞外小胞（NCE）は、成体脊髄損傷（SCI）後の微小血管内皮細胞（SCMECs）を若返らせ、脂質代謝を回復し、免疫バランスを改善し、神経軸索再生を促進する。SCI後のミエリン debris はSCMECsにおいてIRS1を介したPI3K-Akt-mTOR経路の過剰活性化を誘導し、有害な脂質滴蓄積、オルガネラ機能障害、内皮間葉転換（EndoMT）を引き起こす。また、SCMECsからのCXCL12分泌増加がCXCR4陽性細胞を動員する。NCEを搭載したGelNBハイドロゲルは、この血管免疫微小環境を再プログラムし、瘢痕形成を抑制して脊髄修復を促進する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **次世代CAR-NK細胞療法と膠芽腫**  \n   膠芽腫は抗原不均一性と免疫抑制性微小環境が治療障壁です。CAR-NK細胞はこれらの克服に有望で、次世代戦略として多重標的化やTME改変が進められています。今後の臨床応用が期待されます。\n\n2. **運動スケジューリングとIL-6を介した腫瘍抑制**  \n   総運動量固定下で頻度がNK細胞活性に非単調な影響を与える数理モデルは、運動療法の最適化に新たな視点を提供。個別化された運動処方の基盤となる可能性があります。\n\n3. **エクソソームによる神経変性疾患のアミロイド伝播**  \n   エクソソームが神経細胞間でアミロイドや病原性因子を運び、病態拡大に関与。診断バイオマーカーや治療標的としての応用が進み、アルツハイマー病などへの介入が期待されます。\n\n4. **新生児由来sEVsによる脊髄損傷治療**  \n   新生児血中の小型細胞外小胞が脊髄損傷後の血管・免疫微小環境を再プログラムし、神経再生を促進。再生医療における新たな細胞外小胞療法の可能性を示しています。\n\n5. **トキソプラズマ原虫の腫瘍免疫療法への応用**  \n   病原体由来因子が免疫抑制性TMEを打破し、抗腫瘍免疫を活性化する可能性。免疫チェックポイント阻害剤との併用など、新規免疫療法の開発につながる注目すべきアプローチです。"
+}

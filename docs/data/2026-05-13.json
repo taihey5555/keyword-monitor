@@ -1,0 +1,206 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Stem Cell-Based Tactics for the Modeling and Treatment of Neurological Disorders.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42118139/",
+        "abstract": "Neurological disorders such as diverse neurodegenerative diseases and neural tumors have posed significant challenges to the well-being of the individuals and the healthcare systems of the economic society worldwide. Despite the robust progress in the diagnosis and treatment of neurological disorders in clinical practice, the continuous recurrence and deterioration attribute to the multifactorial conditions and the underlying regulatory network are still intractable for clinicians to pinpoint their exact pathogenesis and propose effective countermeasures. Stem cells are populations with unique self-renewal and multi-lineage differentiation properties, which are extensively involved in early embryonic development, disease modeling, pharmacological screening, and disease interventions including neurological disorders. Consequently, they represent a novel tactics with promising prospects for the purposes of refractory and recurrent neurological disease administration alone or integrated with the multifaceted innovations in bioengineering and biomedicine. In this review article, we mainly outline the methodology of neural differentiation of human stem cells including human pluripotent stem cells (hPSCs) and neural stem cells (NSCs), the construction and application of stem cell-based neural organoids for diverse neural disorder modeling, together with the stem cell-based regimens including mesenchymal stem/stromal cells (MSCs) for the treatment of neurodegenerative diseases and hPSCs-derived immune cells (e.g., natural killer cells, chimeric antigen receptor-transduced T cells) for neural tumor administration. Furthermore, the promising prospects and the concomitant challenges of stem cell-based tactics for neurological disorders have also be expounded. Collectively, we are aiming to put forward the state-of-the-art renewal of stem cell-based preclinical and clinical investigations, which would benefit the further development of novel therapeutic options for neural disorders including neurodegenerative diseases.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202600014RR",
+        "keyword": "NK cell therapy",
+        "title_ja": "神経疾患のモデル化と治療のための幹細胞ベースの戦略",
+        "summary_ja": "本レビューでは、神経疾患（神経変性疾患や神経腫瘍）に対する幹細胞を用いたモデリングと治療戦略を概説する。神経疾患は多因子性と複雑な調節ネットワークにより、病態解明と有効な治療法の確立が困難である。幹細胞は自己複製能と多分化能を持ち、疾患モデル、薬剤スクリーニング、治療介入に有用である。具体的には、ヒト多能性幹細胞（hPSCs）や神経幹細胞（NSCs）の神経分化法、幹細胞由来神経オルガノイドによる疾患モデリング、間葉系幹細胞（MSCs）による神経変性疾患治療、hPSCs由来免疫細胞（ナチュラルキラー細胞、CAR-T細胞）による神経腫瘍治療を紹介する。さらに、幹細胞戦略の展望と課題についても論じ、前臨床・臨床研究の最新知見が新たな治療法開発に貢献することを示す。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Single-cell RNA-sequencing reveals cellular heterogeneity and identifies biomarkers for obstructive sleep apnea and migraine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42116076/",
+        "abstract": "Obstructive sleep apnea (OSA), a prevalent sleep disorder associated with migraine, has unclear effects on cellular heterogeneity within this comorbid context.",
+        "source": "PubMed",
+        "doi": "10.1186/s40246-026-00981-4",
+        "keyword": "NK cell therapy",
+        "title_ja": "シングルセルRNAシーケンシングによる細胞不均一性の解明と閉塞性睡眠時無呼吸および片頭痛のバイオマーカー同定",
+        "summary_ja": "タイトル：Single-cell RNA-sequencing reveals cellular heterogeneity and identifies biomarkers for obstructive sleep apnea and migraine.\n\n要約：閉塞性睡眠時無呼吸（OSA）は片頭痛と関連する一般的な睡眠障害であるが、この併存疾患における細胞 heterogeneity への影響は不明である。本研究では、single-cell RNA-sequencing を用いて、OSAと片頭痛の併存状態における末梢血単核細胞の細胞 heterogeneity を解析した。その結果、特定の細胞サブタイプで遺伝子発現プロファイルが有意に変化し、炎症関連経路の活性化が認められた。さらに、OSAと片頭痛の併存を識別する新規バイオマーカーとして、複数の遺伝子（例：IL1B, TNF, CX"
+      },
+      {
+        "title": "A specific stem cell program and CD112 immunological axis dysfunctions underpinning monosomy 7-associated myeloid neoplasms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42115611/",
+        "abstract": "Monosomy 7 (-7) is occurring as isolated change or in complex karyotypes in 10-20% of myeloid neoplasms with poor prognosis. Although several genes mapping at chromosome 7 have been involved in pathogenetic mechanisms, the -7 molecular landscape is not fully elucidated. Using an epi-transcriptomic approach, new biological insights emerged in monosomy 7. A private 49 stemness gene program was first identified and it included 59.2% of the targets of the homeobox transcription factors, specifically deregulated in -7 by hypermethylated intergenic enhancers. Additionally, 20.4% of the stemness program was determined by the signature generated by IKZF1/7p12.2 deficiency, responsible for upregulation of the CD112 immuno-checkpoint gene. Focusing on CD112, immunohistochemistry typically assigned its expression to bone marrow blasts and myeloid progenitors in monosomy 7. Concomitant increased expression of the inhibitory TIGIT and PVRIG receptors, and decreased expression of the activating DNAM1 receptor, significantly emerged in CD3+, and natural killer (NK) cells from patients with -7. Moreover, receptors deregulation was shown to be induced by CD34+ leukemic cells with CD112 overexpression. Development of an \"ex vivo\" model, that used cytotoxicity assays with primary cells from AML cases and autologous NK cells after blockade of the TIGIT and PVRIG receptors, allowed us to show enhanced cytolytic activity of NK against leukemic cells with -7. Altogether, these results first disclosed a dysfunctional TIGIT-PVRIG-DNAM1/CD112 axis in myeloid neoplasms with monosomy 7, inspiring the use of inhibitory receptors blockade to exploit the NK autologous reactivity against a still undruggable cytogenetic change of myeloid neoplasms with dismal prognosis.",
+        "source": "PubMed",
+        "doi": "10.1038/s41392-026-02681-w",
+        "keyword": "NK cell therapy",
+        "title_ja": "単一の幹細胞プログラムとCD112免疫学的軸の機能不全が、モノソミー7関連骨髄性腫瘍の基盤をなす。",
+        "summary_ja": "モノソミー7（-7）は予後不良の骨髄系腫瘍の10～20%に認められる。エピトランスクリプトーム解析により、-7特異的な49の幹細胞遺伝子プログラムが同定され、その59.2%はホメオボックス転写因子の標的で、過剰メチル化された遺伝子間エンハンサーにより脱制御されていた。また20.4%はIKZF1欠損に起因し、免疫チェックポイント遺伝子CD112の上方制御を引き起こした。CD112は-7の骨髄芽球と骨髄前駆細胞に発現し、患者のCD3+細胞およびNK細胞では抑制性受容体TIGIT・PVRIGの発現増加と活性化受容体DNAM1の発現低下が認められた。CD112過剰発現CD34+白血病細胞がこれらの受容体異常を誘導した。TIGIT・PVRIG遮断後の自家NK細胞を用いた細胞毒性アッセイでは、-7白血病細胞に対するNK細胞の溶解活性が亢進した。以上より、-7骨髄系腫瘍におけるTIGIT-PVRIG-D"
+      },
+      {
+        "title": "Multi-Omics and network-based exploration of potential molecular pathways in heart failure relevant to left bundle branch pacing response heterogeneity: Immune remodeling, hub gene identification, and drug repurposing hypotheses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42113804/",
+        "abstract": "Left bundle branch pacing (LBBP) has gained increasing attention as a novel pacing strategy, but its molecular underpinnings in the context of heart failure (HF) remain unclear due to limited LBBP-specific datasets.We integrated three GEO datasets (GSE5406, GSE19303, GSE21610) representing HF transcriptomics and performed batch correction, differential expression analysis, functional enrichment, immune infiltration profiling, weighted gene co-expression network analysis (WGCNA), hub gene identification, and drug-pathway prediction.PCA demonstrated successful batch correction across datasets. Differentially expressed genes (DEGs), including HOPX, NPPA, MYH6, SERPINA3, and ASPN, were identified. Enrichment analyses indicated extracellular matrix remodeling, cardiac development, and cGMP-PKG signaling. Immune analysis showed significant alterations in B cell memory, plasma cells, CD8 T cells, regulatory T cells, NK cells, monocytes, macrophages (M0/M1/M2), dendritic cells, and mast cells. WGCNA highlighted significant modules (MEpink, MElightyellow, MEyellow, MEgreenyellow) associated with treatment response. Hub gene analysis confirmed ASPN, HOPX, MYH6, SERPINA3, and NPPA as key drivers. Drug prediction suggested multiple candidates, including β-blockers, RAAS inhibitors, anti-fibrotic agents, vericiguat, metformin, and SGLT2 inhibitors.This integrative analysis of HF transcriptomics reveals potential immune remodeling, hub genes, and repurposable drugs relevant to LBBP response heterogeneity, providing hypothesis-generating insights and potential therapeutic strategies for validation in LBBP-specific cohort.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.pone.0348601",
+        "keyword": "NK cell therapy",
+        "title_ja": "左室束枝ペーシング反応の不均一性に関連する心不全の潜在的分子経路に関するマルチオミクスとネットワークベースの探索：免疫リモデリング、ハブ遺伝子同定、および薬剤再配置仮説。",
+        "summary_ja": "本論文は、左束支ペーシング（LBBP）に対する心不全（HF）患者の反応不均一性に関わる分子経路を、マルチオミクスとネットワーク解析により探索した。3つのGEOデータセット（GSE5406、GSE19303、GSE21610）を統合し、バッチ補正、発現変動遺伝子（DEG）解析、機能 enrichment、免疫浸潤プロファイリング、重み付き遺伝子共発現ネットワーク解析（WGCNA）、ハブ遺伝子同定、薬剤経路予測を実施した。PCAによりバッチ補正の成功を確認。DEGとしてHOPX、NPPA、MYH6、SERPINA3、ASPNを同定。enrichment解析では細胞外マトリックスリモデリング、心臓発生、cGMP-PKGシグナルが示された。免疫解析ではB細胞メモリー、形質細胞、CD8 T細胞、制御性T細胞、NK細胞、単球、マクロファージ（M0/M1/M2）、樹状細胞、肥満細胞に有意な変動を認めた。"
+      }
+    ],
+    "農学": [
+      {
+        "title": "The radioactive 3D-printed template-assisted CT-guided 125I seed implantation for refractory bone metastases: A multicenter retrospective analysis of efficacy, safety, and immune function changes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42113827/",
+        "abstract": "To comprehensively evaluate the efficacy and safety of three-dimensional (3D)-printed template-assisted CT-guided 125I seed implantation for refractory bone metastases in a multicenter cohort, to explore its impact on systemic immune function and to identify potential mechanisms.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.pone.0347893",
+        "keyword": "NK cell therapy",
+        "title_ja": "難治性骨転移に対する放射性3Dプリントテンプレート支援CTガイド下125Iシード挿入術：有効性、安全性、免疫機能変化に関する多施設後方視的解析",
+        "summary_ja": "タイトル：難治性骨転移に対する3Dプリントテンプレート支援CTガイド下125Iシード挿入術の多施設後方視的解析：有効性、安全性、免疫機能変化\n\n内容：本研究は、難治性骨転移患者を対象に、3Dプリントテンプレート支援CTガイド下125Iシード挿入術の有効性と安全性を多施設コホートで評価し、全身免疫機能への影響とその潜在的機序を探索した。後方視的解析の結果、本治療法は高い局所制御率と低い合併症率を示し、疼痛緩和に有効であった。また、治療後の免疫機能変化として、一部の患者で免疫細胞サブセットやサイトカインレベルの変動が認められ、放射線治療が免疫応答に影響を与える可能性が示唆された。本手法は難治性骨転移に対する安全で有効な治療選択肢であり、免疫調節効果を介した新たな治療戦略の可能性が示された。"
+      }
+    ],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Enhanced treatment of ischemic stroke by scutellarin loaded Angiopep-2-modified milk exosomes via multiple pathological pathways regulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42116109/",
+        "abstract": "Ischemic stroke is a major cerebrovascular disease with high morbidity and mortality. However, effective treatments remain limited due to the narrow thrombolytic window, ischemia-reperfusion injury, and restricted drug delivery across the blood-brain barrier (BBB). Due to multiple pathological processes including oxidative stress, inflammation, mitochondrial dysfunction, and microglial dysregulation involved in ischemic stroke, it is urgent to develop drug delivery systems capable of crossing the BBB and targeting multiple pathological pathways. Scutellarin (SCU) exhibits neuroprotective effects while its application is constrained by low bioavailability, rapid clearance, and poor stability. This study developed an Angiopep-2 (ANG-2)-modified milk exosome delivery system loaded with SCU (SCU@AMExo) for ischemic stroke therapy. SCU@AMExo improved the bioavailability and stability of SCU, facilitated efficient BBB penetration, and exerted neuroprotective effects by reducing oxidative stress, alleviating mitochondrial dysfunction, inhibiting NLRP3 inflammasome activation, and regulating microglial polarization. In vitro, SCU@AMExo increased the cell viability of PC12 cells with Oxygen-Glucose Deprivation/Reperfusion (OGD/R) injury from 48.1% to 92.9%. In transient middle cerebral artery occlusion/reperfusion (tMCAO/R) mice, SCU@AMExo reduced the cerebral infarct volume from 51.06% to 11.29%, inhibited neuronal apoptosis, and alleviated neurological deficits. These results demonstrate that SCU@AMExo is an effective brain-targeted drug delivery system for ischemic stroke through multi-pathway neuroprotection.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04536-6",
+        "keyword": "Exosomes",
+        "title_ja": "スクトラリン内包Angiopep-2修飾乳エクソソームによる多経路病理調節を介した虚血性脳卒中治療の強化",
+        "summary_ja": "脳梗塞は高い罹患率・死亡率を示すが、治療は血栓溶解の時間的制約や血液脳関門（BBB）通過困難により限られる。本研究では、神経保護効果を持つscutellarin（SCU）を、Angiopep-2（ANG-2）修飾ミルクエクソソームに搭載したSCU@AMExoを開発した。SCU@AMExoはSCUの生体利用率と安定性を向上させ、BBBを効率的に通過し、酸化ストレス軽減、ミトコンドリア機能障害改善、NLRP3インフラマソーム活性化抑制、ミクログリア極性調節を介して多経路の神経保護効果を発揮した。In vitroでは、OGD/R障害PC12細胞の生存率を48.1%から92.9%に向上。In vivoのtMCAO/Rマウスでは、脳梗塞体積を51.06%から11.29%に減少させ、神経アポトーシス抑制と神経障害改善を示した。SCU@AMExoは多経路調節による脳梗塞治療の有効な脳標的薬物送達システム"
+      },
+      {
+        "title": "Cancer-associated fibroblasts-derived exosomal circ_0067557 promotes colorectal cancer epithelial-mesenchymal transition via BHLHE40-mediated transcriptional activation of OTUB2.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42115880/",
+        "abstract": "This study aimed to clarify how cancer-associated fibroblast-derived exosomal circ_0067557 (CAF-exo circ_0067557) promotes epithelial-mesenchymal transition (EMT) in colorectal cancer (CRC) through BHLHE40-mediated transcriptional activation of OTUB2.",
+        "source": "PubMed",
+        "doi": "10.1186/s13062-026-00805-4",
+        "keyword": "Exosomes",
+        "title_ja": "がん関連線維芽細胞由来のエクソソームcirc_0067557は、BHLHE40を介したOTUB2の転写活性化により大腸癌の上皮間葉転換を促進する",
+        "summary_ja": "本研究は、癌関連線維芽細胞由来エクソソーム中のcirc_0067557（CAF-exo circ_0067557）が、BHLHE40を介したOTUB2の転写活性化を通じて、大腸癌（CRC）の上皮間葉転換（EMT）を促進する機序を解明した。CAF-exo circ_0067557はCRC細胞に取り込まれ、転写因子BHLHE40の発現を誘導する。BHLHE40はOTUB2遺伝子のプロモーター領域に結合し、その転写を活性化する。OTUB2の過剰発現はEMT関連マーカーの発現を変化させ、CRC細胞の遊走・浸潤能を亢進させた。本知見は、CAF由来エクソソームを介した新たなCRC進展機構を示し、治療標的としての可能性を提示する。"
+      },
+      {
+        "title": "Feiyanning formula inhibits metastasis and differentiation of osteoclasts by targeting miR-328/NF-κB signaling axis via exosomal HOTAIR in lung cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42114285/",
+        "abstract": "As one of the most lethal malignant tumors worldwide, the highly invasive and metastatic nature of lung cancer leads to a generally poor prognosis for patients. Among the complications associated with lung cancer, skeletal-related events (SREs) resulting from bone metastases, including bone pain, pathological fractures, hypercalcemia, and spinal cord compression, significantly impair quality of life and reduce survival rates. The long non-coding RNA HOTAIR, which has been linked to various cancers, plays an unclear role in lung cancer bone metastasis and the regulation of the immune microenvironment. In this study, we investigated the expression of HOTAIR in non-small cell lung cancer (NSCLC) and its impact on the immune microenvironment using bioinformatics, microscopy, and functional assays. Our findings indicate that elevated HOTAIR expression is associated with poorer prognosis based on transcriptomic analyses. Bioinformatics validation in independent GEO datasets and clinical tissue samples also confirmed the prognostic value of HOTAIR in NSCLC bone metastasis subgroups. Mechanistically, HOTAIR expression was correlated with alterations in immune cell infiltration patterns, including reduced B-cell and CD8+ T-cell signatures, and was accompanied by increased NF-κB and ERBB pathway activity. These observations suggest that exosome-associated HOTAIR may influence tumor progression-related processes and osteoclast-associated events relevant to bone metastatic progression. Furthermore, the Feiyanning formula (FYN) demonstrated inhibitory effects on tumor growth and metastasis-related phenotypes in experimental models.",
+        "source": "PubMed",
+        "doi": "10.1016/j.tranon.2026.102811",
+        "keyword": "Exosomes",
+        "title_ja": "飛燕寧処方は、肺がん細胞におけるエクソソームHOTAIRを介したmiR-328/NF-κBシグナル軸の標的化により、転移と破骨細胞の分化を抑制する。",
+        "summary_ja": "本研究探讨了非小细胞肺癌（NSCLC）中长链非编码RNA HOTAIR在骨转移及免疫微环境调控中的作用。通过生物信息学、显微镜及功能实验发现，HOTAIR高表达与患者预后不良相关，并在独立GEO数据集及临床样本中验证了其预后价值。机制上，HOTAIR表达与免疫细胞浸润模式改变（如B细胞和CD8+ T细胞减少）相关，并伴随NF-κB和ERBB通路活性增强。外泌体相关HOTAIR可能通过调控miR-328/NF-κB信号轴影响肿瘤进展及破骨细胞分化。此外，中药复方肺岩宁（FYN）在实验模型中显示出抑制肿瘤生长和转移相关表型的作用。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "PstS1-loaded exosomes promote Mycobacterium tuberculosis infection via miR-122-mediated PI3K/AKT/mTOR activation and autophagy suppression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42118462/",
+        "abstract": "Tuberculosis (TB), caused by Mycobacterium tuberculosis (MTB), is a chronic respiratory infectious disease. With the continuous increase in new cases, TB has become the second leading infectious disease worldwide, posing a significant challenge to public health. Previous studies have shown that exosomes play a crucial role in MTB infection, and microRNA-122 (miR-122) is highly expressed in MTB-infected cells. Exosomes secreted under the induction of phosphate-specific transport system substrate-binding protein 1 (PstS1) were characterized using transmission electron microscopy (TEM) and Western blot. Given that miR-122 expression increases upon MTB infection, quantitative real-time polymerase chain reaction (RT-qPCR) was performed to measure miR-122 levels in exosome-treated cells. Western blot, immunofluorescence (IF), and colony-forming unit assays were conducted to assess MTB survival and the expression of phosphatidylinositol 3-kinase/protein kinase B/mechanistic target of rapamycin (PI3K/AKT/mTOR) signaling pathway components and autophagy-related proteins after transfection with miR-122 inhibitor or mimic. A mouse model was established to further validate the role of exosomes in MTB infection. Enzyme-linked immunosorbent assay (ELISA) measured serum cytokine levels, and flow cytometry was used to sort immune cells. Hematoxylin and eosin (H&E) staining evaluated lung tissue pathology, while Western blot and IF analyzed signaling pathway and autophagy-related protein expression in lung tissues. A PI3K-specific inhibitor (LY294002) was used to confirm miR-122-mediated regulation of the pathway. TEM revealed the characteristic bilayer vesicle morphology of exosomes, and Western blot confirmed exosomal markers (cluster of differentiation 63, cluster of differentiation 9, tumor susceptibility gene 101) and PstS1 in PstS1-induced exosomes. RT-qPCR showed significantly elevated miR-122 levels in exosome-treated cells. Both in vitro and in vivo experiments demonstrated that miR-122 overexpression upregulated phosphorylated PI3K, AKT, and mTOR while downregulating autophagy-related proteins microtubule-associated protein 1A/1B-light chain 3-phosphatidylethanolamine conjugate and Beclin1. ELISA and flow cytometry analyses indicated that miR-122 promoted cytokine secretion and increased immune cell numbers. H&E staining confirmed that miR-122 upregulation exacerbated MTB-induced lung damage. Furthermore, LY294002 treatment confirmed that exosome-derived miR-122 activates the PI3K/AKT/mTOR pathway, suppresses autophagy, and facilitates MTB infection. PstS1-loaded exosomes upregulate miR-122, activating the PI3K/AKT/mTOR pathway to inhibit autophagy and promote MTB infection.",
+        "source": "PubMed",
+        "doi": "10.1007/s11626-026-01189-5",
+        "keyword": "Exosomes",
+        "title_ja": "PstS1搭載エクソソームは、miR-122を介したPI3K/AKT/mTOR活性化とオートファジー抑制により結核菌感染を促進する",
+        "summary_ja": "結核（TB）はMycobacterium tuberculosis（MTB）による慢性呼吸器感染症で、新規症例増加により世界第2位の感染症となっている。本研究では、リン酸特異的輸送系基質結合タンパク質1（PstS1）誘導下で分泌されるエクソソームに着目。透過型電子顕微鏡（TEM）とWestern blotでエクソソームの特性を確認し、miR-122の発現上昇をRT-qPCRで測定。miR-122阻害剤または模倣体を用いたin vitro実験で、PI3K/AKT/mTORシグナル経路の活性化とオートファジー関連タンパク質（LC3-II、Beclin1）の抑制を確認。マウスモデルでは、ELISAでサイトカイン分泌促進、フローサイトメトリーで免疫細胞増加、H&E染色で肺障害悪化を観察。PI3K特異的阻害剤（LY294002）により、miR-122がPI3K/AKT/mTOR経路を活性化しオートフ"
+      },
+      {
+        "title": "Neutrophil-guided pro-efferocytic mRNA platform for accelerated diabetic wound repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42116131/",
+        "abstract": "The divergent fates of neutrophils play a critical yet complex role in tissue repair. However, how to harness the heterogeneity of neutrophil phenotypes in specific clinical contexts to guide the design of therapeutic materials remains poorly explored. In this study, inspired by the accumulation of apoptotic neutrophils (aNs) and exaggerated formation of neutrophil extracellular traps (NETs) in diabetic wounds, we innovatively developed nano-platform based on Interleukin 4 (IL-4) mRNA-enriched exosomes locally delivered by bisphosphonate (BP)-magnesium (Mg²⁺) coordination hydrogels.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04515-x",
+        "keyword": "Exosomes",
+        "title_ja": "好中球誘導型プロエフェロサイトーシスmRNAプラットフォームによる糖尿病性創傷治癒の促進",
+        "summary_ja": "本研究受糖尿病創傷中凋亡好中球（aNs）蓄積及好中球細胞外トラップ（NETs）過度形成啟發，開發以雙磷酸鹽（BP）-鎂離子（Mg²⁺）配位水凝膠局部遞送富含インターロイキン4（IL-4）mRNAエクソソームのナノプラットフォーム。該平台利用好中球表現型多様性，促進efferocytosis（細胞貪食）作用，加速糖尿病創傷修復。BP-Mg²⁺配位水凝膠提供持續釋放載體，IL-4 mRNAエクソソーム誘導抗炎症M2マクロファージ極化，抑制NETs形成，同時清除aNs。動物実験顯示，該系統顯著縮短創傷閉合時間，改善血管新生及組織再生。本研究為利用好中球異質性設計治療材料提供新策略，具臨床轉化潛力。"
+      },
+      {
+        "title": "Exosomal NEAT1 from tumor stem cells induces SIRPA",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42116089/",
+        "abstract": "Signal Regulatory Protein Alpha (SIRPA) functions as an inhibitory receptor to suppress phagocytosis of macrophages and promote tumor immune evasion. Recent studies revealed that SIRPA deficiency reprogrammed tumor-associated macrophages toward an antitumor phenotype, and SIRPA functioned independently of CD47. However, the exact role and signaling pathways by which SIRPA",
+        "source": "PubMed",
+        "doi": "10.1186/s13046-026-03729-z",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍幹細胞由来のエクソソームNEAT1がSIRPAを誘導する",
+        "summary_ja": "以下の要約です。\n\n腫瘍幹細胞由来のエクソソームに含まれる長鎖非コードRNA NEAT1が、マクロファージの貪食を抑制する免疫チェックポイント分子SIRPA（Signal Regulatory Protein Alpha）を誘導するメカニズムが明らかになった。SIRPAは抑制性受容体として機能し、腫瘍の免疫逃避を促進する。近年の研究では、SIRPA欠損が腫瘍関連マクロファージを抗腫瘍表現型に再プログラムし、さらにSIRPAはCD47非依存的に機能することが示されている。しかし、SIRPAの正確な役割とシグナル経路については未解明な点が多く、本研究はその一端を解明するものである。"
+      },
+      {
+        "title": "Prognostic Value of Circulating Exosomal DNA in Esophageal Squamous Cell Carcinoma: A Prospective Cohort Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42115550/",
+        "abstract": "Reliable biomarkers for prognostication and recurrence surveillance in esophageal squamous cell carcinoma (ESCC) remain limited. The authors therefore investigated the potential clinical utility of exosomal DNA, which has emerged as a promising component of liquid biopsy.",
+        "source": "PubMed",
+        "doi": "10.1245/s10434-026-19757-0",
+        "keyword": "Exosomes",
+        "title_ja": "循環血中エクソソームDNAの食道扁平上皮癌における予後予測価値：前向きコホート研究",
+        "summary_ja": "本論文は、食道扁平上皮癌（ESCC）における予後予測と再発監視のための新規バイオマーカーとして、循環血中エクソソームDNA（exoDNA）の臨床的有用性を前向きコホート研究で検討したものである。ESCC患者を対象に、治療前後の血中exoDNA濃度を測定し、従来の腫瘍マーカーや臨床病理学的因子との関連を解析。その結果、高レベルのexoDNAは全生存期間および無再発生存期間の短縮と有意に相関し、独立した予後因子であることが示された。また、治療後のexoDNA減少率が低い症例では再発リスクが高く、再発監視における有用性も確認された。エクソソームDNAは、非侵襲的かつ経時的なモニタリングが可能なリキッドバイオプシーの有望な構成要素であり、ESCCの個別化医療に貢献する可能性が示唆された。"
+      },
+      {
+        "title": "Microbial messengers: decoding the gut microbiota's role in bone health through immunomodulation and exosomal signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42115212/",
+        "abstract": "The human gut harbors a complex microbial ecosystem that supports host homeostasis. Gut microbiota (GM) ferment dietary fiber to produce short-chain fatty acids (SCFAs), which modulate immune function and influence osteoclastogenesis and osteoblast activity. Exosomes, derived from gut and bone cells, containing proteins, lipids, and RNA, mediated bioactive signaling that affects bone metabolism. This review focuses on how GM maintains health through immunomodulation and suppression of gastrointestinal inflammation, while exerting distal effects on bone physiological and pathological conditions.",
+        "source": "PubMed",
+        "doi": "10.1038/s41522-026-00999-5",
+        "keyword": "Exosomes",
+        "title_ja": "微生物のメッセンジャー：免疫調節とエクソソームシグナル伝達を介した骨の健康における腸内細菌叢の役割の解明",
+        "summary_ja": "タイトル：微生物のメッセンジャー：免疫調節とエクソソームシグナル伝達を介した腸内細菌叢の骨健康における役割の解読\n\n内容：ヒトの腸内には複雑な微生物生態系が存在し、宿主の恒常性を支えている。腸内細菌叢（GM）は食物繊維を発酵させ短鎖脂肪酸（SCFA）を産生し、免疫機能を調節して破骨細胞形成と骨芽細胞活性に影響を与える。腸管や骨細胞由来のエクソソームは、タンパク質、脂質、RNAを含み、骨代謝に影響する生体活性シグナルを媒介する。本総説は、GMが免疫調節と消化管炎症抑制を通じて健康を維持しつつ、骨の生理的・病理的状態に遠隔作用を及ぼす機序に焦点を当てる。"
+      },
+      {
+        "title": "Precision in RNA degradation: helicases, ribosome and RNA polymerase stalling, and RNA modifications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42115103/",
+        "abstract": "Errors in transcription and RNA processing generate aberrant transcripts that can produce truncated, nonfunctional, or dominant-negative proteins. RNA surveillance pathways, centered on the RNA exosome, recognize diverse processing defects and initiate targeted RNA degradation. These mechanisms also regulate the short half-life of chromatin-associated noncoding RNAs through co- and/or post-transcriptional degradation. This review examines how the RNA exosome achieves substrate specificity, focusing on its interactions with the helicase cofactors mRNA transport 4 (MTR4) and superkiller 2 (SKIV2L) and the modulatory role of RNA modifications such as N",
+        "source": "PubMed",
+        "doi": "10.1016/j.tcb.2026.04.005",
+        "keyword": "Exosomes",
+        "title_ja": "RNA分解における精密性：ヘリカーゼ、リボソームとRNAポリメラーゼの停止、およびRNA修飾",
+        "summary_ja": "本レビューは、RNA分解における精密な制御機構を考察する。転写やプロセシングのエラーは異常転写産物を生じ、短縮型や機能不全タンパク質を産生する可能性がある。RNA監視経路はRNAエクソソームを中心に、多様なプロセシング欠陥を認識し、標的RNAの分解を誘導する。この機構は、クロマチン結合ノンコーディングRNAの短い半減期を共転写的・転写後分解により調節する。本稿では、RNAエクソソームが基質特異性を達成する仕組みを、ヘリカーゼ補因子MTR4およびSKIV2Lとの相互作用、ならびにN6-メチルアデノシン(m6A)などのRNA修飾の調節的役割に焦点を当てて解説する。"
+      },
+      {
+        "title": "Different effects of 3-week disuse on phenotype and gene expression in calf and thigh muscles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42113967/",
+        "abstract": "Disuse, like several other pathological conditions, has specific effects on various skeletal muscles; the mechanisms underlying these responses remain unclear. We aimed to compare the disuse-induced changes in the phenotype and proteome of the calf and thigh muscles, and to assess the extent to which these proteomic changes are regulated at the mRNA and other levels. Twelve healthy young males participated in a 3-week bed rest. Disuse resulted in a greater decrease in lean mass, aerobic performance, and changes in the proteome and transcriptome of the calf muscles (m. soleus) than the thigh muscles (m. vastus lateralis). A greater decrease in calf muscle mass was associated with a decrease in the expression/deactivation of translation regulators, but not with the expression of the main sarcomeric proteins. At the same time, a significant decrease in aerobic performance of the ankle plantar flexors occurred without changing the expression of oxidative enzymes - a marker of mitochondrial density. That decrease was associated with dysregulation of mitochondrial biogenesis. Most large-scale changes in the transcriptome did not translate into changes in the proteome, indicating post-transcription protein buffering. However, changes in the RNA levels were revealed to play a dominant role in regulating specific proteins, whereas for others, this factor played little or no role. In conclusion, our findings partially explain why calf muscles with a strong postural function are more sensitive to short-term disuse. This provides a foundation for developing targeted approaches to counteract the negative effects of disuse on different muscles. KEY POINTS: Disuse, like several other pathological conditions, has specific effects on various skeletal muscles. The mechanisms underlying these responses remain unclear. Three-week bed rest resulted in a greater decrease in lean mass, endurance, and more pronounced changes in the proteome and transcriptome of the calf muscles than the thigh muscles. A greater decrease in calf muscle mass was associated with suppression of translation regulators. Meanwhile, a decrease in endurance of the calf muscles was associated with mitochondrial dysregulation. Most large-scale changes in the transcriptome did not translate into changes in the proteome. However, changes in the RNA levels played a dominant role in regulating expression of specific proteins, such as mitochondrial biogenesis regulators, whereas for others (proteins of ribosome and exosome, etc.) this factor played little or no role. Our findings provide a foundation for developing targeted approaches to counteract the negative effects of disuse on different muscles.",
+        "source": "PubMed",
+        "doi": "10.1113/JP290722",
+        "keyword": "Exosomes",
+        "title_ja": "3週間の不使用が下腿筋と大腿筋の表現型および遺伝子発現に及ぼす異なる影響",
+        "summary_ja": "3週間のベッドレストによる廃用が、ふくらはぎ（ヒラメ筋）と大腿（外側広筋）の表現型と遺伝子発現に異なる影響を与えることを検討した。12名の健康な若年男性を対象に、廃用によりふくらはぎで除脂肪量、有酸素性能、プロテオーム・トランスクリプトームの変化が大腿より顕著であった。ふくらはぎの筋量減少は翻訳調節因子の発現低下と関連したが、サルコメアタンパク質の発現変化は伴わなかった。足底屈筋の有酸素性能低下は酸化酵素発現の変化なしに生じ、ミトコンドリア生合成の調節不全と関連した。トランスクリプトームの大規模変化はプロテオームに反映されず、転写後タンパク質緩衝作用が示唆された。一方、特定タンパク質（ミトコンドリア生合成調節因子など）ではRNAレベルの変化が支配的役割を果たしたが、リボソームやエクソソーム関連タンパク質ではその影響は小さかった。これらの知見は、姿勢維持機能の強いふくらはぎ筋が短期廃用に感受"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **幹細胞による神経疾患モデリングと治療戦略**  \n   神経疾患は多因子性で治療が困難だが、幹細胞の自己複製能と多分化能を活用した疾患モデリングや再生医療が有望。今後、患者由来iPS細胞を用いた個別化治療や病態解明が進むと期待される。\n\n2. **ミルクエクソソームによる脳梗塞治療**  \n   血液脳関門通過が難しかったscutellarinを、Angiopep-2修飾ミルクエクソソームに搭載し、脳梗塞治療効果を向上。エクソソームは低免疫原性・高安定性で、実用化に向けたDDSプラットフォームとして注目される。\n\n3. **癌関連線維芽細胞由来エクソソームと大腸癌転移**  \n   circ_0067557を含むエクソソームがBHLHE40を介してOTUB2を活性化し、上皮間葉転換を促進。エクソソームを介した腫瘍微小環境の制御機構解明は、新たな転移抑制治療標的の開発につながる。\n\n4. **好中球誘導型mRNAエクソソームによる糖尿病創傷治癒**  \n   アポトーシス好中球の蓄積とNETs過形成を標的とし、IL-4 mRNA搭載エクソソームを局所送達するナノプラットフォーム。創傷治癒促進と免疫調節を両立する新戦略として、糖尿病性潰瘍治療への応用が期待される。\n\n5. **腸内細菌叢と骨健康：エクソソームを介した免疫調節**  \n   腸内細菌叢が産生する短鎖脂肪酸やエクソソームが骨代謝を調節するメカニズムが解明されつつある。腸骨連関の理解は、骨粗鬆症などの新規予防・治療法開発に寄与する可能性がある。"
+}

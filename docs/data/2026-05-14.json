@@ -1,0 +1,218 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Evaluation of anticoagulation management in patients with suspected heparin-induced thrombocytopenia awaiting diagnosis confirmation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42126779/",
+        "abstract": "The 2018 American Society of Hematology (ASH) guidelines recommend discontinuation of heparin products upon suspicion of heparin-induced thrombocytopenia (HIT) and initiation of therapeutic non-heparin anticoagulation. This practice may be influenced by various factors, including diagnostic method. Our institution recently switched from an enzyme-linked immunosorbent assay (ELISA) that was run once daily to a chemiluminescence immunoassay (CLIA) that is run on-demand to detect anti-platelet factor 4 (PF4)/heparin antibodies. The objective was to evaluate if implementation of an on-demand anti-PF4/heparin antibody CLIA assay changed the timing of initiating a non-heparin anticoagulant compared with the traditional ELISA assay. A retrospective analysis was performed at our single academic medical center. Eligible subjects included patients ordered for an ELISA or CLIA anti-PF4/heparin assay upon suspicion of HIT. The major endpoint was the percentage of patients transitioned to a therapeutic non-heparin anticoagulant at the time of testing. Minor endpoints included the development of new or worsening thrombosis and/or bleeding within 72 h of testing. Overall, 227 patients were included in the analysis (n = 123 (ELISA), n = 104 (CLIA)). Significantly fewer patients in the CLIA group were switched to non-heparin anticoagulation at the time of testing as compared to the ELISA group (10.4% vs. 23.6%, p = 0.006). There were no differences between groups for the development of the minor endpoints. Significantly fewer patients were switched to therapeutic non-heparin anticoagulation at the time of testing after converting to an on-demand anti-PF4/heparin antibody CLIA assay. These findings may aid in optimizing institutional guidelines.",
+        "source": "PubMed",
+        "doi": "10.1007/s11239-026-03305-4",
+        "keyword": "PF4",
+        "title_ja": "ヘパリン起因性血小板減少症が疑われ診断確定を待つ患者における抗凝固療法管理の評価",
+        "summary_ja": "2018年米国血液学会（ASH）ガイドラインは、ヘパリン起因性血小板減少症（HIT）が疑われた時点でヘパリン製品を中止し、非ヘパリン系抗凝固薬の治療用量を開始することを推奨している。本研究では、従来の1日1回実施のELISA法から、オンデマンドで実施可能なCLIA法（抗PF4/ヘパリン抗体検出）への変更が、非ヘパリン系抗凝固薬開始のタイミングに与える影響を後方視的に評価した。単一アカデミック医療センターで、HIT疑いでELISAまたはCLIA法がオーダーされた227例（ELISA群123例、CLIA群104例）を解析。主要評価項目は検査時の非ヘパリン系抗凝固薬への切り替え率で、CLIA群は10.4%とELISA群の23.6%より有意に低かった（p=0.006）。検査後72時間以内の新規血栓症・出血の発生に群間差はなかった。オンデマンドCLIA法への移行後、検査時点での非ヘパリン系抗凝固薬へ"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Intravital calcium imaging of meningeal macrophages reveals niche-specific dynamics and aberrant responses to brain hyperexcitability.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42126091/",
+        "abstract": "The meninges, which envelop and protect the brain, host a dense network of resident macrophages with diverse roles in regulating homeostasis and neuroinflammation. Despite their importance, we have a limited understanding of their behavior in vivo. Many dynamic cellular functions of macrophages involve intracellular Ca",
+        "source": "PubMed",
+        "doi": "10.7554/eLife.109888",
+        "keyword": "PF4",
+        "title_ja": "髄膜マクロファージの生体カルシウムイメージングは、ニッチ特異的な動態と脳過興奮性に対する異常な応答を明らかにする。",
+        "summary_ja": "タイトル：髄膜マクロファージの生体内カルシウムイメージングが明らかにするニッチ特異的動態と脳過剰興奮に対する異常応答\n\n内容：脳を包み保護する髄膜には、恒常性維持や神経炎症調節に多様な役割を担う常在マクロファージが高密度に存在する。しかし、そのin vivoでの挙動は未解明である。マクロファージの動的機能の多くは細胞内Ca²⁺シグナルに関与するため、本研究では生体内カルシウムイメージングを用いて髄膜マクロファージの活動を可視化した。その結果、マクロファージは髄膜の解剖学的ニッチ（硬膜・くも膜・軟膜）に応じて異なる自発的Ca²⁺動態を示し、特に硬膜マクロファージは高い活動性を有することが判明した。さらに、脳過剰興奮（てんかん様活動）時には、髄膜マクロファージが異常なCa²⁺応答を示し、神経活動の変化に敏感に反応することが明らかとなった。これらの知見は、髄膜免疫細胞が脳の状態を監視し、神経免疫"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "ART Interrupted: Insights into ART-free HIV remission.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42119366/",
+        "abstract": "Defining correlates of HIV rebound upon antiretroviral therapy (ART) interruption can advance HIV cure research. In this issue of Immunity, Ma et al. analyze immunophenotypes and transcriptomes from multiple clinical trials, linking T and NK cell subsets to delayed rebound and identifying DDIT4 and ZNF254 as HIV silencing factors. The antidiabetic drug metformin induces DDIT4 and silences HIV in vitro.",
+        "source": "PubMed",
+        "doi": "10.1016/j.immuni.2026.04.011",
+        "keyword": "NK cell therapy",
+        "title_ja": "ARTの中断：ARTなしでのHIV寛解への洞察",
+        "summary_ja": "タイトル：ART Interrupted: Insights into ART-free HIV remission\n\n本論文では、抗レトロウイルス療法（ART）中断後のHIV再活性化の相関因子を特定することで、HIV治癒研究を前進させる。Maらは複数の臨床試験から免疫表現型とトランスクリプトームを解析し、T細胞およびNK細胞サブセットがウイルス再活性化の遅延と関連することを示した。さらに、DDIT4とZNF254をHIVサイレンシング因子として同定。抗糖尿病薬メトホルミンがin vitroでDDIT4を誘導し、HIVをサイレンシングすることを明らかにした。"
+      },
+      {
+        "title": "A venetoclax-cytarabine-based induction regimen incorporating a translation inhibitor for adult patients with de novo acute myeloid leukemia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42118656/",
+        "abstract": "Translation inhibitors have been shown to accelerate acute myeloid leukemia (AML) cell apoptosis and regulate Akt activity and the Bcl-2 family, suggesting their potential benefit when combined with venetoclax and cytarabine in de novo AML patients.",
+        "source": "PubMed",
+        "doi": "10.1002/cncr.70432",
+        "keyword": "NK cell therapy",
+        "title_ja": "新規発症急性骨髄性白血病の成人患者に対する翻訳阻害剤を組み込んだベネトクラクス・シタラビン導入療法",
+        "summary_ja": "タイトル：新規発症AML成人患者に対する翻訳阻害剤併用のvenetoclax-cytarabine導入療法\n\n翻訳阻害剤は、急性骨髄性白血病（AML）細胞のアポトーシスを促進し、Akt活性およびBcl-2ファミリーを調節することが示されている。これにより、新規発症AML患者において、venetoclaxおよびcytarabineとの併用が有益となる可能性が示唆される。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Reprogramming endogenous NK circuits by highly efficient nonviral genome editing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42126429/",
+        "abstract": "Natural killer (NK) cells are promising platforms for off-the-shelf immunotherapy, yet nonviral precision engineering remains limited by poor HDR efficiency, DNA toxicity, and manufacturing challenges. The aim of this study was to establish a high-yield, nonviral knock-in platform. Through extensive in-depth rational screens, we achieved ∼90% HDR insertion of therapeutic payloads while maintaining 100% postediting recovery. By hijacking endogenous transcriptional programs, we installed genetic circuits into defined genomic loci to tune transgene expression. To enable context-dependent therapeutic responses, we integrated a synthetic positive feedback circuit at the CISH locus, which enhanced NK cell persistence and drove strong expression of anti-CD22/19 dual CAR. A hypoxia-responsive IL-12 circuit gated by the PFKFB4 promoter restored cytotoxicity under environmental stress. Finally, we showed this platform is compatible with GMP manufacturing and supports clinical-scale expansion. These findings provide a scalable framework for programmable, nonviral editing of NK cell effector functions for therapeutic and research applications.",
+        "source": "PubMed",
+        "doi": "10.1084/jem.20260192",
+        "keyword": "NK cell therapy",
+        "title_ja": "高効率な非ウイルスゲノム編集による内在性NK回路の再プログラミング",
+        "summary_ja": "本論文では、NK細胞への非ウイルスゲノム編集による高効率ノックイン技術を確立した。従来のHDR効率の低さやDNA毒性、製造課題を克服し、約90%のHDR挿入率と100%の編集後回復率を達成。内在性転写プログラムを活用し、CISH遺伝子座に合成ポジティブフィードバック回路を導入することで、抗CD22/19デュアルCARの発現とNK細胞の持続性を向上。また、PFKFB4プロモーター制御による低酸素応答性IL-12回路を組み込み、環境ストレス下での細胞傷害性を回復。本プラットフォームはGMP製造に対応し、臨床規模での拡大が可能である。これにより、NK細胞のエフェクター機能をプログラム可能に編集するスケーラブルな基盤を提供する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Engineered Exosomes: Innovative Strategies for Precision Drug Delivery in Parkinson's Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42126515/",
+        "abstract": "Parkinson's disease is a progressive neurodegenerative disorder marked by dopaminergic neuron loss in the substantia nigra, pathological α-synuclein aggregation, and persistent neuroinflammation. Current therapies mainly offer symptomatic relief but do not halt or reverse disease progression, largely because of the restrictive blood-brain barrier. Exosomes, naturally occurring nanoscale vesicles, possess key attributes such as biocompatibility, low immunogenicity, and the capacity to cross the blood-brain barrier. In Parkinson's disease, exosomes have a dual role: they propagate α-syn pathology and amplify inflammatory signaling, accelerating disease progression; conversely, they can be engineered as carriers of neurotrophic factors, microRNAs, or small-molecule drugs, conferring neuroprotective and anti-inflammatory benefits. This review examines current strategies for exosome engineering, with emphasis on surface modification and optimized cargo loading. However, clinical translation remains hindered by suboptimal delivery efficiency, limited brain accumulation, potential immunogenicity, exosome heterogeneity, and regulatory barriers. Future research should prioritize high-affinity targeting ligands, multimodal delivery platforms, deeper insights into blood-brain barrier translocation, and integration with regenerative medicine approaches. These advancements are essential for standardized large-scale production and personalized therapies, ultimately advancing precision medicine in Parkinson's disease.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-05898-6",
+        "keyword": "Exosomes",
+        "title_ja": "工学エクソソーム：パーキンソン病における精密薬物送達の革新的戦略",
+        "summary_ja": "本論文は、パーキンソン病（PD）におけるエクソソームを用いた精密薬物送達戦略を概説する。PDは黒質ドーパミン作動性ニューロン喪失、α-シヌクレイン凝集、持続的神経炎症を特徴とする進行性神経変性疾患であり、現行治療は対症療法に留まる。エクソソームは生体適合性、低免疫原性、血液脳関門（BBB）通過能を持ち、PDでは病態伝播と炎症増幅の二面性を示す。一方、神経栄養因子やmiRNA等を搭載した改変エクソソームは神経保護・抗炎症効果を発揮する。本レビューは表面修飾やカーゴ搭載最適化を含むエクソソーム工学の現状を検討する。臨床応用には、送達効率・脳集積性の低さ、免疫原性、不均一性、規制障壁が課題であり、高親和性リガンド、多機能プラットフォーム、BBB通過機構解明、再生医療との統合が将来の優先課題である。これらは標準化大量生産と個別化治療を可能にし、PDの精密医療を促進する。"
+      },
+      {
+        "title": "VAMP2/SNAP25 promotes the aggressive progression of head and neck cancer by regulating the fate of multivesicular bodies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42125990/",
+        "abstract": "Tumor-secreted exosomes are essential in driving tumor progression by releasing multivesicular bodies (MVBs), which are endosome organelles containing intraluminal vesicles (ILVs), as exosomes. However, the mechanisms controlling MVB biosynthesis, trafficking, and exosome exocytosis are not fully understood.",
+        "source": "PubMed",
+        "doi": "10.20892/j.issn.2095-3941.2025.0522",
+        "keyword": "Exosomes",
+        "title_ja": "VAMP2/SNAP25は多胞体の運命を制御することで頭頸部癌の悪性進行を促進する",
+        "summary_ja": "タイトル：VAMP2/SNAP25は多胞体の運命を調節することで頭頸部癌の進行を促進する\n\n腫瘍由来のエクソソームは、多胞体（MVB）を放出することで腫瘍の進行に重要な役割を果たす。MVBは内腔小胞（ILV）を含むエンドソーム小器官であり、これがエクソソームとして分泌される。しかし、MVBの生合成、輸送、およびエクソソーム放出の制御機構は完全には解明されていない。本論文では、VAMP2とSNAP25が頭頸部癌においてMVBの運命を調節し、癌の悪性進行を促進することを示す。これらの分子はエクソソーム分泌を制御し、腫瘍の浸潤や転移に関与する可能性が示唆される。"
+      },
+      {
+        "title": "CD4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42125790/",
+        "abstract": "CD4",
+        "source": "PubMed",
+        "doi": "10.1002/smll.202513605",
+        "keyword": "Exosomes",
+        "title_ja": "CD4",
+        "summary_ja": "CD4は、免疫系において重要な役割を果たす糖タンパク質であり、主にヘルパーT細胞の表面に発現する。CD4分子は、主要組織適合遺伝子複合体クラスII（MHCクラスII）分子と結合し、抗原提示細胞からのシグナルを認識することで、T細胞の活性化を補助する。また、CD4はヒト免疫不全ウイルス（HIV）の受容体としても機能し、ウイルスが標的細胞に侵入する際の鍵となる。HIV感染によりCD4陽性T細胞が減少すると、免疫不全状態が進行する。CD4の測定は、HIV感染の進行度や免疫機能の評価に用いられる。"
+      },
+      {
+        "title": "Engineering cardiac regeneration using stem cells: Cellular sources, differentiation signatures, targeted delivery, and functional recovery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42125407/",
+        "abstract": "Cardiovascular diseases remain the leading cause of mortality worldwide, and the limited regenerative capacity of the adult heart continues to delay functional recovery, resulting in myocardial injury. Stem cell-based therapies offer a promising avenue for cardiac repair through mechanisms that include cardiomyogenic differentiation, paracrine signaling, angiogenic stimulation, and immunomodulation. Although pluripotent stem cells, mesenchymal stem cells, and cardiac progenitor cells have demonstrated significant benefits in preclinical models, clinical translation has yielded modest functional improvements, mainly due to poor cell retention, electrical and structural immaturity of transplanted cells, immune-mediated clearance, and concerns regarding tumorigenicity and arrhythmogenicity. Therapeutic efficacy largely derives from extracellular vesicles, secreted microRNAs, pro-survival cytokines, and other bioactive substances released by cells. Direct replacement of cardiomyocytes is challenging because the host tissue environment limits the acceptance and stable integration of exogenous cells. Novel engineered cardiac patches, biomaterial-assisted cell delivery, gene-edited progenitor transplantation, exosome therapeutics, and cell-free therapy are improving safety, the plausibility of cell transplantation, and the precision of tissue targeting. Despite those biotech improvements, there are still significant obstacles to restoring permanent, clinically meaningful cardiac function. Regenerative stem cell and cell-free technologies will have the greatest potential for myocardial repair if integrative approaches to regenerative biology, biomaterial engineering, and immunomodulation are used.",
+        "source": "PubMed",
+        "doi": "10.1016/j.reth.2026.101120",
+        "keyword": "Exosomes",
+        "title_ja": "幹細胞を用いた心臓再生医療：細胞源、分化シグネチャー、標的送達、および機能回復",
+        "summary_ja": "心血管疾患は世界の主要死因であり、成体心臓の再生能力が限られているため心筋損傷からの回復が遅れる。幹細胞治療は、心筋分化、パラクリンシグナル伝達、血管新生刺激、免疫調節を介して心臓修復を促進する。多能性幹細胞、間葉系幹細胞、心臓前駆細胞は前臨床モデルで有意な効果を示したが、臨床応用では細胞保持率の低さ、移植細胞の電気的・構造的未熟性、免疫排除、腫瘍形成性や不整脈原性の問題から機能改善は限定的である。治療効果は主に細胞外小胞、分泌型マイクロRNA、生存促進サイトカインなどの生物活性物質による。直接的な心筋細胞置換は宿主組織環境による制限で困難である。新たな心臓パッチ、生体材料支援細胞送達、遺伝子編集前駆細胞移植、エクソソーム治療、無細胞治療が安全性と標的精度を向上させているが、恒久的な心機能回復には依然課題が多い。再生生物学、生体材料工学、免疫調節の統合的アプローチが、心筋修復における再生幹"
+      },
+      {
+        "title": "Muc1 drives tendon regeneration by activating an endothelial-to-tenocyte PDGFA signaling axis via extracellular vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42125260/",
+        "abstract": "Tendon injuries pose significant clinical challenges because tendon tissue has limited intrinsic healing capacity, often resulting in poor functional recovery. In exploring novel therapeutic strategies, we found that Mucin 1 (Muc1), a key regulator of tissue repair, is transiently upregulated during the early stages of tendon injury. We therefore hypothesized that sustained activation of this naturally transient signal would promote tendon repair. To validate this hypothesis, we developed a nanoparticle-based gene delivery system to achieve sustained Muc1 expression in a rat model of tendon injury. This targeted intervention significantly improved tendon healing, primarily by creating a pro-regenerative microenvironment. Mechanistically, we demonstrated that Muc1 activation stimulates endothelial cells to secrete platelet-derived growth factor A (PDGFA), which promotes tendon cell proliferation, particularly when packaged within extracellular vesicles. Collectively, those findings support Muc1 as a potent therapeutic target. The nanoparticle-mediated Muc1 gene delivery strategy offers a highly promising regenerative approach for tendon injury treatment with direct translational potential.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103158",
+        "keyword": "Exosomes",
+        "title_ja": "Muc1は細胞外小胞を介して内皮細胞から腱細胞へのPDGFAシグナル伝達軸を活性化し、腱の再生を促進する",
+        "summary_ja": "Muc1は腱損傷初期に一過性に上昇する組織修復因子である。本研究では、この自然なシグナルを持続活性化することで腱修復が促進されると仮説を立て、ラット腱損傷モデルにおいてナノ粒子ベースの遺伝子送達システムを用いてMuc1を持続発現させた。その結果、腱治癒が有意に改善され、そのメカニズムとしてMuc1が内皮細胞を刺激し、血小板由来増殖因子A（PDGFA）を細胞外小胞にパッケージングして分泌させることで、腱細胞の増殖を促進することが明らかとなった。これらの知見は、Muc1が強力な治療標的であり、ナノ粒子を用いたMuc1遺伝子送達戦略が腱損傷治療における再生医療アプローチとして直接的な臨床応用の可能性を持つことを示している。"
+      },
+      {
+        "title": "Engineered Exosomes for Delivery of Mir-423-5p to Improve Radiation Sensitivity by Inhibiting MAP7D1 in Esophageal Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42120691/",
+        "abstract": "Radiation therapy is a common treatment for patients with esophageal cancer (EC). Local recurrence after radiotherapy is one of the main reasons for treatment failure. Exosomal microRNA (miRNA) is associated with the initiation and progression of EC. However, the efficacy of exosomal miRNA in sensitivity to radiotherapy in EC remains unknown.",
+        "source": "PubMed",
+        "doi": "10.1245/s10434-026-19692-0",
+        "keyword": "Exosomes",
+        "title_ja": "放射線感受性を向上させるためのmiR-423-5p搭載エンジニアリングエクソソームによる食道癌におけるMAP7D1阻害",
+        "summary_ja": "タイトル：食道癌におけるMAP7D1阻害による放射線感受性向上のためのmiR-423-5p搭載工学エクソソーム\n\n放射線療法は食道癌の一般的治療法だが、局所再発が治療失敗の主因である。エクソソーム内マイクロRNA（miRNA）は食道癌の発生・進行に関与するが、放射線感受性への影響は不明であった。本研究では、工学エクソソームを用いてmiR-423-5pを送達し、標的遺伝子MAP7D1を阻害することで放射線感受性を向上させる可能性を検討した。これにより、食道癌治療における新たな戦略が示唆される。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "SNARE proteins as biomarkers and therapeutic targets in central nervous system tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42126736/",
+        "abstract": "Soluble N-ethylmaleimide-sensitive factor attachment protein receptor (SNARE) proteins constitute the core molecular machinery that drives intracellular vesicular trafficking and membrane fusion in eukaryotic cells. Beyond their canonical roles in neurotransmitter release, autophagic flux, and exosome secretion, accumulating evidence indicates that dysregulated SNARE expression and function contribute to tumor progression. In central nervous system tumors (CNSTs), aberrant SNARE activity has been increasingly implicated in invasive growth, chemotherapy resistance, and tumor microenvironment remodeling. Guided by the 2021 World Health Organization classification of tumors of the central nervous system (WHO CNS5), this review summarizes current advances on the pathogenic roles of SNARE proteins in glioblastoma, medulloblastoma, meningioma, and pituitary neuroendocrine tumors, and discusses their translational potential as molecular biomarkers and therapeutic targets for precision neuro-oncology.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05184-w",
+        "keyword": "Exosomes",
+        "title_ja": "SNAREタンパク質：中枢神経系腫瘍におけるバイオマーカーおよび治療標的としての役割",
+        "summary_ja": "SNAREタンパク質は、真核細胞における小胞輸送と膜融合を駆動する核心分子機構である。神経伝達物質放出、オートファジーフラックス、エクソソーム分泌といった従来の役割に加え、SNAREの発現・機能異常が腫瘍進行に寄与する証拠が蓄積している。中枢神経系腫瘍（CNST）では、異常なSNARE活性が浸潤性増殖、化学療法抵抗性、腫瘍微小環境リモデリングに関与する。本レビューは、2021年WHO中枢神経系腫瘍分類（WHO CNS5）に基づき、膠芽腫、髄芽腫、髄膜腫、下垂体神経内分泌腫瘍におけるSNAREタンパク質の病原的役割を総括し、精密神経腫瘍学における分子バイオマーカーおよび治療標的としてのトランスレーショナルポテンシャルを考察する。"
+      },
+      {
+        "title": "Exosome-like nanoparticles from the Okinawan medicinal plant ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42125763/",
+        "abstract": "Plant-derived exosome-like nanoparticles (ELNs) exhibit diverse physiological activities across biological kingdoms. ",
+        "source": "PubMed",
+        "doi": "10.3892/br.2026.2145",
+        "keyword": "Exosomes",
+        "title_ja": "沖縄の薬用植物由来のエクソソーム様ナノ粒子",
+        "summary_ja": "沖縄の薬用植物から抽出されたエクソソーム様ナノ粒子（ELNs）は、生物界を超えて多様な生理活性を示すことが報告されている。本論文では、これらのELNsの特性と機能に焦点を当て、植物由来ナノ粒子が持つ生物間相互作用における役割を考察している。特に、ELNsは脂質二重膜構造を持ち、タンパク質や核酸などの生体分子を内包し、細胞間情報伝達や免疫調節に関与する可能性が示唆されている。沖縄の伝統薬用植物に由来するELNsは、新たなナノ医薬品や機能性食品への応用が期待される。"
+      },
+      {
+        "title": "Identification of plasma exosomal VPS41 chr7:38764322A>I editing as a diagnostic biomarker in lung cancer via a pan-cancer screen.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42121172/",
+        "abstract": "Plasma exosomal RNA has emerged as a promising source of tumor biomarkers for early cancer detection. However, conventional expression-based markers are often limited by the need for stable reference genes. RNA editing, as a sequence-specific modification, provides internal, reference-free molecular signals, offering a potential advantage for robust and reproducible biomarker development.",
+        "source": "PubMed",
+        "doi": "10.1186/s12931-026-03659-6",
+        "keyword": "Exosomes",
+        "title_ja": "血漿エクソソーム中のVPS41 chr7:38764322A>I編集のパンキャンスクリーニングによる肺癌診断バイオマーカーとしての同定",
+        "summary_ja": "タイトル：汎癌スクリーニングによる肺がん診断バイオマーカーとしての血漿エクソソームVPS41 chr7:38764322A>I編集の同定\n\n血漿エクソソームRNAは早期がん検出の有望な腫瘍バイオマーカー源として注目されている。しかし、従来の発現ベースのマーカーは安定したリファレンス遺伝子を必要とするため限界がある。RNA編集は配列特異的な修飾であり、内部のリファレンスフリーな分子シグナルを提供するため、堅牢で再現性のあるバイオマーカー開発に有利である。本研究では、汎癌スクリーニングを通じて、肺がん患者の血漿エクソソーム中にVPS41遺伝子のchr7:38764322A>I編集が特異的に検出されることを見出し、これを診断バイオマーカーとして同定した。"
+      },
+      {
+        "title": "Porcine plasma-derived extracellular vesicles orchestrate multi-target neuroimmune reconfiguration to alleviate Alzheimer's disease pathology in a 5×FAD mouse model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42120990/",
+        "abstract": "Systemic factors found in young blood possess the capacity to revitalize the aging brain, yet the clinical translation of human-derived therapeutics is severely limited by donor scarcity. We hypothesized that porcine plasma-derived small extracellular vesicles (PpSEVs) could serve as a scalable, cross-species alternative by leveraging evolutionarily conserved bioactive cargoes.",
+        "source": "PubMed",
+        "doi": "10.1186/s12974-026-03866-4",
+        "keyword": "Exosomes",
+        "title_ja": "ブタ血漿由来の細胞外小胞が5×FADマウスモデルにおけるアルツハイマー病病理を緩和するための多標的神経免疫再構成を調整する",
+        "summary_ja": "タイトル：ブタ血漿由来細胞外小胞が5×FADマウスモデルのアルツハイマー病病理を緩和する多標的神経免疫再構成を orchestrate する内容：若い血液中の全身性因子は老化脳を活性化する能力を持つが、ヒト由来治療薬の臨床応用はドナー不足により制限される。我々は、ブタ血漿由来小型細胞外小胞（PpSEVs）が、進化的に保存された生理活性カーゴを活用し、スケーラブルな異種間代替手段となり得ると仮説を立てた。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Development of a CD9 aptamer for liquid biopsy of extracellular vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42066939/",
+        "abstract": "Extracellular vesicles (EVs) are nanoscale, membrane-bound particles that play pivotal roles in intercellular communication as well as modulate diverse physiological and pathological processes. As a classical EV surface marker, the tetraspanin CD9 is critically involved in vesicle biogenesis, membrane fusion, and cell-to-cell signaling. While antibodies remain the conventional tool for CD9 detection, their utility in biosensing is constrained by inherent limitations. Aptamers offer a compelling alternative as synthetic single-stranded nucleic acids with high target affinity and specificity. In this study, a novel epitope-specific DNA aptamer, CD9 A3-A, targeting the extracellular domain of CD9 was developed using a peptide-directed Systematic Evolution of Ligands by Exponential Enrichment (SELEX) approach. The aptamer's specificity and binding efficacy toward recombinant CD9 protein, CD9-positive cells, and CD9-enriched EVs, including those from human serum, were validated using ELISA and flow cytometry. Furthermore, this epitope-specific CD9 aptamer enabled the detection and differentiation of EVs from distinct cancer cell origins in a fluorescence polarization-based aptamer detection method for extracellular nanovesicles. Notably, a flow cytometric assay based on a HER2 aptamer successfully detected one HER2-povitive EV amongst 499 HER2-negative sEVs, with sEVs defined by the CD9 A3-A aptamer. These findings suggest that the CD9 aptamer-based biosensing platforms represent a promising next-generation tool for liquid biopsy-based precision medicine.",
+        "source": "PubMed",
+        "doi": "10.1016/j.abb.2026.110837",
+        "keyword": "sEVs",
+        "title_ja": "細胞外小胞の液体生検のためのCD9アプタマーの開発",
+        "summary_ja": "本研究では、細胞外小胞（EV）の表面マーカーであるテトラスパニンCD9を標的とする新規エピトープ特異的DNAアプタマー（CD9 A3-A）を、ペプチド指向SELEX法により開発した。CD9 A3-Aは、組換えCD9タンパク質、CD9陽性細胞、およびヒト血清由来のCD9濃縮EVに対して高い特異性と結合能を示し、ELISAやフローサイトメトリーで検証された。さらに、このアプタマーを用いた蛍光偏光法により、異なる癌細胞由来のEVの検出と識別が可能であった。また、HER2アプタマーを用いたフローサイトメトリー解析では、CD9 A3-Aで定義されたsEV中、499個のHER2陰性sEVに対して1個のHER2陽性sEVを検出することに成功した。これらの結果は、CD9アプタマーに基づくバイオセンシングプラットフォームが、リキッドバイオプシーを用いた精密医療における次世代ツールとして有望であることを示して"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めて500文字以内でまとめます。\n\n---\n\n**1. NK細胞への非ウイルスゲノム編集（Reprogramming endogenous NK circuits）**  \n従来のウイルスベクターに代わり、高効率かつ低毒性な非ウイルスゲノム編集技術をNK細胞に応用。CISH遺伝子座へのノックインにより約90%の挿入率を達成し、抗腫瘍活性を増強。細胞療法の製造コストと安全性を大幅に改善する可能性があり、次世代がん免疫療法の基盤技術として注目される。\n\n**2. エクソソームによるパーキンソン病治療（Engineered Exosomes for Parkinson's Disease）**  \nα-シヌクレイン凝集や神経炎症を標的としたエクソソーム搭載薬物送達戦略。血液脳関門通過能と低免疫原性を活かし、対症療法に留まる現状を打破する精密医療への期待が高まる。\n\n**3. ブタ血漿由来細胞外小胞によるアルツハイマー病治療（Porcine plasma-derived EVs）**  \n若齢血液由来因子の老化脳への効果を応用し、ブタ血漿由来EVが多標的神経免疫再構成を介してアルツハイマー病病理を緩和。ドナー不足を克服する新規治療リソースとして臨床応用が期待される。\n\n**4. エクソソームmiR-423-5pによる食道癌放射線感受性向上（Engineered Exosomes for miR-423-5p）**  \n放射線抵抗性の克服は癌治療の重要課題。エクソソームにmiR-423-5pを搭載しMAP7D1を阻害することで放射線感受性を向上。局所再発抑制への応用が期待される。\n\n**5. 植物由来エクソソーム様ナノ粒子（Exosome-like nanoparticles from Okinawan medicinal plant）**  \n生物界を超えた生理活性を持つ植物由来ナノ粒子は、低コスト・大量生産が可能。抗炎症・抗酸化作用を活かした新規治療プラットフォームとして、今後の機能解明と応用展開が注目される。"
+}

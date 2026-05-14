@@ -1,0 +1,196 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Immunosuppressive roles of pericytes in cancer disease: insights from a systematic review and meta-analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42129871/",
+        "abstract": "Although the crosstalk between the immune system and tumour endothelial cells has been extensively investigated, interactions with tumour-associated pericytes (TAPs) remain poorly understood. Such issue may be of great interest considering the immunoregulatory roles of pericytes reported in both healthy and tumour tissues. This systematic review integrates current evidence on TAP-immune system interplay, encompassing functional roles, molecular mechanisms, associated biomarkers, and in vitro assessment methodologies. Preclinical investigations on the anticancer potential of TAP-targeted immunotherapies were also critically analysed, complemented by a meta-analysis assessing TAP-mediated immune regulation across distinct malignancies with a larger sample size.",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-08216-9",
+        "keyword": "NK cell therapy",
+        "title_ja": "がん疾患におけるペリサイトの免疫抑制的役割：系統的レビューとメタ分析からの知見",
+        "summary_ja": "本系統的レビューとメタ分析は、腫瘍関連ペリサイト（TAP）と免疫系の相互作用を包括的に検討した。腫瘍内皮細胞と免疫系のクロストークは広く研究されているが、TAPの免疫調節的役割は未解明である。本レビューでは、TAPの機能的役割、分子メカニズム、関連バイオマーカー、in vitro評価手法を統合。さらに、TAPを標的とした免疫療法の前臨床研究を批判的に分析し、異なる悪性腫瘍におけるTAP介在性免疫調節をメタ分析で評価した。その結果、TAPは免疫抑制性の性質を持ち、腫瘍微小環境における免疫回避に寄与することが示唆された。"
+      },
+      {
+        "title": "First-in-human single-cell and TCR atlas reveals peripheral immune remodeling before and after irreversible electroporation in prostate cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42128518/",
+        "abstract": "Prostate cancer (PCa) is the second most common malignancy in men worldwide. Although radical prostatectomy effectively controls tumor progression, it often causes complications such as urinary incontinence and sexual dysfunction. Irreversible electroporation (IRE), a non-thermal ablation technique that preserves neurovascular structures, has emerged as a promising focal therapy and may induce systemic antitumor immunity through immunogenic cell death. However, the mechanisms and temporal dynamics of systemic immune responses to IRE in humans remain unclear.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2025-014288",
+        "keyword": "NK cell therapy",
+        "title_ja": "ヒト初の単一細胞およびTCRアトラスが前立腺癌における不可逆的電気穿孔術前後の末梢免疫リモデリングを解明",
+        "summary_ja": "前立腺癌（PCa）は男性で2番目に多い悪性腫瘍である。根治的前立腺摘除術は腫瘍進行を抑制するが、尿失禁や性機能障害などの合併症を引き起こす。非熱的アブレーション技術である不可逆的電気穿孔法（IRE）は神経血管構造を温存し、免疫原性細胞死を介して全身性抗腫瘍免疫を誘導する可能性がある。しかし、IREに対するヒトの全身免疫応答のメカニズムと時間的動態は不明である。本論文は、初のヒト単一細胞およびTCRアトラスを用いて、前立腺癌IRE前後の末梢免疫リモデリングを解析した。"
+      },
+      {
+        "title": "Natural killer cell immunotherapy reverses lung fibrosis by eliminating senescent fibroblasts.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42127218/",
+        "abstract": "Impaired immune clearance of senescent fibroblasts is a putative driver of pulmonary fibrosis. Exhausted natural killer (NK) cells have been implicated in this process, yet the underlying immune evasion mechanisms remain poorly understood. Using single-cell RNA sequencing (scRNA-seq) and spectral flow cytometry, we identified natural killer group 2 member A (NKG2A) as the predominant inhibitory checkpoint receptor expressed on NK cells in fibrotic lung diseases. Mechanistic in vitro coculture studies showed that NK cell suppression was mediated by senescent fibroblasts expressing human leukocyte antigen-E (HLA-E), the high-affinity ligand for NKG2A. scRNA-seq analysis of lungs from patients with idiopathic pulmonary fibrosis (IPF) further identified selective HLA-E expression in senescent HAS1",
+        "source": "PubMed",
+        "doi": "10.1126/scitranslmed.adq5442",
+        "keyword": "NK cell therapy",
+        "title_ja": "ナチュラルキラー細胞免疫療法は老化線維芽細胞を除去することで肺線維症を改善する",
+        "summary_ja": "この論文は、肺線維症における老化線維芽細胞の免疫クリアランス不全と、NK細胞の疲弊が病態進行に関与することを明らかにした。シングルセルRNAシークエンシング（scRNA-seq）とスペクトルフローサイトメトリーを用い、線維化肺疾患においてNK細胞上の主要な抑制性チェックポイント受容体としてNKG2Aを同定した。in vitro共培養実験により、老化線維芽細胞が発現するHLA-E（NKG2Aの高親和性リガンド）がNK細胞の抑制を媒介することを示した。特発性肺線維症（IPF）患者の肺のscRNA-seq解析では、老化したHAS1陽性線維芽細胞に選択的なHLA-E発現が確認された。これらの知見は、NKG2A-HLA-E経路を標的とした免疫療法が、老化線維芽細胞を除去し肺線維症を改善する可能性を示唆している。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Superoxide dismutase in intervertebral disc degeneration: from pathophysiological mechanism to therapeutic strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42133213/",
+        "abstract": "Reactive oxygen species (ROS) induce inflammation, senescence and various forms of cell death in nucleus pulposus cells. By promoting these reactions and their interplay, ROS significantly accelerate intervertebral disc degeneration (IDD). Conventional surgical interventions and analgesics can alleviate symptoms but fail to halt the disease progression mechanistically. Eliminating ROS may serve as a fundamental therapeutic approach to mitigate IDD. Within the endogenous antioxidant defense system for scavenging ROS, superoxide dismutase (SOD) serves as the first line of defense, playing an irreplaceable role in initiating the clearance of reactive species. Furthermore, transcriptomics and single-cell sequencing analyses have identified SOD as a key gene in nucleus pulposus tissue degeneration, underscoring its unique value in the research of antioxidant therapies for IDD. Recently, a range of SOD-centered therapeutic strategies, including the enhancement of endogenous SOD via drugs, hormones, herbal medicines, exosomes, genetically engineered stem cells, in addition to the use of exogenous SOD nanozymes have been explored. Despite these advancements, a comprehensive overview of these emerging approaches remains elusive. This review details how ROS contribute to IDD and critically assesses current and future SOD-centered therapeutic strategies, providing valuable insights for clinical practice and research directions.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-11944-2",
+        "keyword": "Exosomes",
+        "title_ja": "椎間板変性におけるスーパーオキシドジスムターゼ：病態生理学的メカニズムから治療戦略まで",
+        "summary_ja": "活性酸素種（ROS）は髄核細胞に炎症、老化、多様な細胞死を誘導し、椎間板変性症（IDD）を促進する。従来の外科的治療や鎮痛薬は症状を緩和するが、疾患進行を根本的に止められない。ROS除去はIDD治療の基本アプローチであり、内因性抗酸化防御系の最前線であるスーパーオキシドジスムターゼ（SOD）は不可欠な役割を担う。トランスクリプトミクスや単一細胞解析により、SODは髄核組織変性の鍵遺伝子と特定され、抗酸化療法研究での重要性が示された。近年、薬物、ホルモン、漢方薬、エクソソーム、遺伝子操作幹細胞による内因性SOD増強や、外因性SODナノザイムの使用など、SOD中心の治療戦略が模索されている。本総説は、ROSがIDDに寄与する機序を詳述し、現状と将来のSOD中心治療戦略を批判的に評価し、臨床と研究への洞察を提供する。"
+      },
+      {
+        "title": "The synergistic applications of organoids and exosomes in disease modeling and disease treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42133100/",
+        "abstract": "As a three-dimensional miniature organ model, organoids can simulate the structural and functional heterogeneity of the tissues, especially demonstrating unique advantages in disease pathogenesis and personalized drug screening. Exosomes are key carriers of intercellular communication, carrying small biological molecules (proteins and nucleic acids), and exhibit the significant potential in disease diagnosis, signal transduction, and targeted therapy. However, both of them have certain limitations in terms of applications. The synergistic applications of organoids and exosomes can achieve complementary functions and information carriers between them, which may become a potential strategy to promote the elucidation of disease mechanisms, drug screening, and the clinical translation. In this review, we summarize the cultivation and isolation methods of organoids and exosomes, and introduce the synergistic applications of organoid and exosomes in disease modeling, mechanism research, diagnostic biomarker discovery, and treatment strategy development in different types of diseases. This review will establish a foundation for theoretical basis and technical reference for precision medicine and regenerative medicine.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-11926-4",
+        "keyword": "Exosomes",
+        "title_ja": "オルガノイドとエクソソームの疾患モデリングおよび疾患治療における相乗的応用",
+        "summary_ja": "本レビューでは、オルガノイドとエクソソームの相乗的応用について概説する。オルガノイドは三次元のミニ臓器モデルであり、組織の構造的・機能的異質性を模倣し、疾患発症機構の解明や個別化薬剤スクリーニングに独自の利点を示す。一方、エクソソームは細胞間情報伝達の主要な担体であり、タンパク質や核酸などの生体分子を内包し、疾患診断、シグナル伝達、標的治療において顕著な可能性を有する。しかし、両者にはそれぞれ応用上の限界が存在する。オルガノイドとエクソソームの相乗的利用は、それらの機能と情報伝達を補完し、疾患メカニズムの解明、薬剤スクリーニング、臨床応用を促進する潜在的な戦略となる。本稿では、両者の培養・単離法を整理し、様々な疾患における疾患モデリング、メカニズム研究、診断バイオマーカー発見、治療戦略開発への相乗的応用を紹介する。これにより、精密医療と再生医療のための理論的基盤と技術的参考を提供する。"
+      },
+      {
+        "title": "ROS-Responsive Trifluoperazine Prodrug Nanoparticles and Mesenchymal Stem Cell Exosomes Synergistically Modulate Astrocyte Phenotype for Spinal Cord Injury Repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42131986/",
+        "abstract": "Spinal cord injury (SCI) often triggers pronounced astrocytic edema, which worsens neurological deficits. To counteract the key role of Aquaporin-4 (AQP4) delocalization in this process, we developed a reactive oxygen species (ROS)-responsive nanodrug delivery system to restore AQP4 polarity and reduce edema. We synthesized a trifluoperazine (TFP) prodrug linked by a ROS-cleavable thioketal bond that self-assembled into TFP-ROS nanoparticles (TFP-ROS Nano). In parallel, we isolated exosomes from human umbilical cord mesenchymal stem cells (hUCMSC-Exos) to harness their regenerative potential. Under hypoxic conditions in vitro, TFP-ROS Nano protected astrocytes from apoptosis and modulated AQP4 expression, promoting a shift from the neurotoxic A1 phenotype to the neuroprotective A2 phenotype. In a murine SCI model, combined treatment with hUCMSC-Exos and TFP-ROS Nano outperformed each monotherapy: treated animals showed greater motor recovery by Basso Mouse Scale scores and better preservation of spinal cord architecture, with reduced tissue necrosis and maintained structural integrity. Together, these results suggest that the TFP-ROS Nano, especially when used synergistically with hUCMSC-Exos, provides a promising strategy to alleviate astrocytic edema and promote neuro-regeneration after SCI.",
+        "source": "PubMed",
+        "doi": "10.1021/acsami.6c09304",
+        "keyword": "Exosomes",
+        "title_ja": "活性酸素応答性トリフルオペラジンプロドラッグナノ粒子と間葉系幹細胞エクソソームの相乗効果による脊髄損傷修復のためのアストロサイト表現型調節",
+        "summary_ja": "脊髄損傷（SCI）では、アストロサイト浮腫が神経障害を悪化させる。本研究では、アクアポリン4（AQP4）の局在異常に着目し、活性酸素種（ROS）応答性ナノ薬物送達システムを開発した。ROS切断可能なチオケタール結合を介したトリフルオペラジン（TFP）プロドラッグを合成し、TFP-ROSナノ粒子（TFP-ROS Nano）を形成。さらに、ヒト臍帯間葉系幹細胞由来エクソソーム（hUCMSC-Exos）を単離した。低酸素条件下、TFP-ROS Nanoはアストロサイトのアポトーシスを抑制し、AQP4発現を調節、神経毒性A1表現型から神経保護A2表現型への転換を促進した。マウスSCIモデルでは、hUCMSC-ExosとTFP-ROS Nanoの併用治療が単独治療より優れ、運動機能回復（Basso Mouse Scale）と脊髄構造保存（組織壊死低減、構造的完全性維持）を示した。本併用戦略は、SCI"
+      },
+      {
+        "title": "The role of noncoding RNAs in host-Cryptosporidium interactions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42128744/",
+        "abstract": "Increasing evidence suggests that regulatory noncoding RNAs (ncRNAs) modulate a series of epithelial responses following Cryptosporidium invasion. During infection, ncRNAs are involved in the activation of intracellular signaling pathways, the production of antimicrobial molecules, the expression of cytokines/chemokines, the release of epithelial cell-derived exosomes, and the feedback regulation of immune homeostasis. In addition, Cryptosporidium may have developed strategies to modulate host ncRNA-mediated cellular function for immune evasion. These findings indicate that ncRNAs may be important determinants of the infection resistance conferred by the host and the long-term latency established by the parasite. Here, we summarize recent progress on the role of ncRNAs in the regulation of host-Cryptosporidium interactions, relevant to the development of ncRNA-based drug therapeutics for cryptosporidiosis in the future.",
+        "source": "PubMed",
+        "doi": "10.1016/j.pt.2026.04.006",
+        "keyword": "Exosomes",
+        "title_ja": "宿主とクリプトスポリジウムの相互作用における非コードRNAの役割",
+        "summary_ja": "クリプトスポリジウム感染後、非コードRNA（ncRNA）が上皮応答を調節する証拠が増加している。ncRNAは、細胞内シグナル伝達経路の活性化、抗菌分子の産生、サイトカイン・ケモカインの発現、上皮細胞由来エクソソームの放出、免疫恒常性のフィードバック制御に関与する。また、クリプトスポリジウムは宿主のncRNA介在性細胞機能を調節し、免疫回避する戦略を発達させた可能性がある。これらの知見は、ncRNAが宿主の感染抵抗性と寄生虫の長期潜伏性の重要な決定因子であることを示す。本稿では、宿主-クリプトスポリジウム相互作用におけるncRNAの役割に関する最近の進展を要約し、将来のクリプトスポリジウム症に対するncRNAベースの薬物療法の開発に関連付ける。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Understanding exosomes in facial esthetics and skin aging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42130348/",
+        "abstract": "Skin aging is a multifactorial process mediated by intrinsic (genetic and metabolic) and extrinsic (environmental) factors leading to functional and structural deterioration, including wrinkles, loss of collagen and elastin, as well as various pigmentation disorders. Exosomes, the smallest subset of extracellular vesicles, have emerged as potent cell-free regulators of intercellular communication with significant regenerative potential. This scoping review synthesized available in vitro, in vivo, and clinical evidence investigating the role of exosomes in facial esthetics and skin rejuvenation.",
+        "source": "PubMed",
+        "doi": "10.1111/prd.70053",
+        "keyword": "Exosomes",
+        "title_ja": "顔の美学と皮膚老化におけるエクソソームの理解",
+        "summary_ja": "皮膚老化は、遺伝・代謝などの内因性因子と環境などの外因性因子が関与する多因子プロセスであり、皺、コラーゲン・エラスチンの減少、色素異常などを引き起こす。エクソソームは、最小の細胞外小胞であり、細胞間コミュニケーションを調節する強力な無細胞性因子として、顕著な再生能を持つ。本スコーピングレビューは、顔面美容と皮膚若返りにおけるエクソソームの役割を検討したin vitro、in vivo、および臨床エビデンスを統合した。"
+      },
+      {
+        "title": "Role of liquid biopsy in genitourinary (GU) cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42130297/",
+        "abstract": "Liquid biopsy is a noninvasive diagnostic and monitoring method that provides molecular information about disease by analyzing tumor-derived biomaterials obtained from body fluids - primarily blood, as well as plasma, urine, saliva, and others - including circulating tumor DNA (ctDNA), RNA, circulating tumor cells, and exosomes. Consequently, liquid biopsy has become one of the most intensely investigated and rapidly evolving fields in contemporary oncology.",
+        "source": "PubMed",
+        "doi": "10.1080/14737159.2026.2673947",
+        "keyword": "Exosomes",
+        "title_ja": "泌尿器がんにおけるリキッドバイオプシーの役割",
+        "summary_ja": "液体生検（Liquid biopsy）は、血液、血漿、尿、唾液などの体液から得られる腫瘍由来の生体物質（循環腫瘍DNA（ctDNA）、RNA、循環腫瘍細胞、エクソソームなど）を解析し、疾患の分子情報を非侵襲的に提供する診断・モニタリング手法である。泌尿生殖器（GU）癌において、液体生検は低侵襲性と反復採取の容易さから、腫瘍の遺伝子プロファイリング、治療効果判定、耐性メカニズムの解明、再発モニタリングに有用とされる。特にctDNA解析は、組織生検が困難な症例や経時的変化の追跡に有効であり、個別化医療の進展に寄与する。現在、液体生検は現代腫瘍学で最も精力的に研究され、急速に発展している分野の一つである。"
+      },
+      {
+        "title": "Molecular and cellular mechanisms of muscle-adipose tissue crosstalk driving sarcopenic obesity: an integrative review of human, animal, and in vitro models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42129838/",
+        "abstract": "Sarcopenic Obesity is a complex geriatric syndrome that is not simply the co-occurrence of sarcopenia and obesity but is a synergistic pathophysiological relationship in which the sum of the risk factors is greater than the sum of the individual conditions. This integrative review proposes that sarcopenic obesity is fundamentally an illness of impaired bidirectional communication between skeletal muscle and adipose tissue that function as dynamic endocrine organs that interact through a vast repertoire of bioactive molecules. We critically analyze the molecular signaling pathways responsible for this crosstalk and the simultaneous hyperactivation of the Ubiquitin-Proteasome System and NF-κB pathways. Furthermore, highlighting the paradigm-shifting role of the Exosomal miRNA Regulatory Network, we explored how adipose-derived extracellular vesicles deliver atromiRs (e.g., miR-27a, Let-7d-3p) to myocytes and cause insulin resistance and regenerative failure, and the loss of myocyte-derived miR-146a-5p eliminates an important brake on adipogenesis. Also, we explored cellular mechanisms such as macrophage phenotypic switching (metaflammation), mitochondrial lipotoxicity, and the newly emerging gut-microbiota-muscle axis. Finally, we explored advanced experimental models, such as organ-on-a-chip systems, and explored the clinical paradox of GLP-1 receptor agonist-induced muscle loss. We conclude that future therapeutic frontiers are in the area of combination therapies and miRNA mimics to reinstate this broken molecular dialogue.",
+        "source": "PubMed",
+        "doi": "10.1186/s12986-026-01123-2",
+        "keyword": "Exosomes",
+        "title_ja": "サルコペニア肥満を引き起こす筋肉-脂肪組織間クロストークの分子・細胞メカニズム：ヒト、動物、in vitroモデルに基づく統合的レビュー",
+        "summary_ja": "サルコペニア肥満は、サルコペニアと肥満の単なる合併ではなく、リスク因子が相乗的に作用する老年症候群である。本総説では、骨格筋と脂肪組織が内分泌器官として双方向に通信する障害と捉え、その分子・細胞メカニズムを統合的に解析した。主要経路として、ユビキチン-プロテアソーム系とNF-κB経路の同時過活性化、脂肪由来エクソソームmiRNA（miR-27a、Let-7d-3p）による筋インスリン抵抗性と再生不全、筋由来miR-146a-5p減少による脂肪形成促進を指摘。さらに、マクロファージ表現型転換（メタフランメーション）、ミトコンドリアリポ毒性、腸内細菌叢-筋軸、臓器オンチップモデル、GLP-1受容体作動薬による筋減少の臨床的パラドックスを考察。治療の未来は、併用療法とmiRNA模倣薬による分子対話の再構築にあると結論づけた。"
+      },
+      {
+        "title": "Exosomal nanovesicles derived from Atractylodes macrocephala delivering exogenous miRNA-146a-5p for treatment of sepsis-induced acute kidney injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42129822/",
+        "abstract": "Sepsis-associated acute kidney injury (SA-AKI) is a critical complication in intensive care units (ICUs) with a high mortality rate, and current treatments lack precision. Its pathogenesis involves interconnected mechanisms such as systemic inflammation, renal microcirculatory disturbances, mitochondrial dysfunction, and metabolic reprogramming. In this study, we designed an innovative synergistic delivery system combining a natural vector with gene regulation-Atractylodes macrocephala exosome-like nanoparticles loaded with miR-146a-5p (AMEVLP@miR). The system was prepared via electroporation and evaluated in LPS-induced HK2 cells and mouse models. Results showed that the nanocomplex exhibited uniform particle size (~ 90 nm), favorable stability, and high renal-targeted accumulation. Compared with AMEVLP alone, AMEVLP@miR significantly decreased the release of IL-6, IL-1β, and TNF-α, decreased ROS levels, remedied mitochondrial membrane potential, attenuated apoptosis, and promoted macrophage polarization from an M1 to an M2 phenotype. Transcriptomic analysis revealed that AMEVLP@miR precisely regulated key targets by specifically inhibiting the NF-κB/IL-6 inflammatory axis and oxidative stress pathways, while also ameliorating intestinal microbiota imbalance. In summary, AMEVLP@miR effectively alleviates pathological damage in SA-AKI through multi-target synergistic effects, including anti-inflammatory effects being one aspect, antioxidant, and anti-apoptotic actions, as well as intestinal flora regulation. This work advances a new theoretical architecture and experimental substantiation of developing precise organ-protective strategies based on plant-derived nanocarriers combined with miRNAs.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04503-1",
+        "keyword": "Exosomes",
+        "title_ja": "オオバナウド由来のエクソソーム様ナノ小胞による外因性miRNA-146a-5pの送達を介した敗血症性急性腎障害の治療",
+        "summary_ja": "敗血症関連急性腎障害（SA-AKI）はICUで死亡率が高く、現行治療は非特異的である。本研究では、天然ベクターと遺伝子調節を組み合わせた、miR-146a-5pを搭載したオオバナオケラ由来エクソソーム様ナノ粒子（AMEVLP@miR）を設計した。エレクトロポレーションで調製し、LPS誘導HK2細胞とマウスモデルで評価した結果、約90nmの均一粒子径、高い安定性、腎臓への標的集積を示した。AMEVLP単独と比較し、AMEVLP@miRはIL-6、IL-1β、TNF-αの放出、ROSレベルを有意に低下させ、ミトコンドリア膜電位を改善し、アポトーシスを抑制し、マクロファージをM1からM2表現型へ極性化させた。トランスクリプトーム解析により、NF-κB/IL-6炎症軸と酸化ストレス経路を特異的に阻害し、腸内細菌叢の不均衡も改善した。AMEVLP@miRは抗炎症、抗酸化、抗アポトーシス、腸内フローラ"
+      }
+    ],
+    "農学": [
+      {
+        "title": "Immunotherapies based on macrophage reprogramming in periodontitis and apical periodontitis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42133106/",
+        "abstract": "Periodontitis and apical periodontitis (AP) are characterized by biofilm-driven, immune-mediated bone destruction. Macrophages orchestrate the immune imbalance, where the M1/M2 polarization axis is critical for tissue homeostasis.",
+        "source": "PubMed",
+        "doi": "10.1007/s00784-026-06918-4",
+        "keyword": "Exosomes",
+        "title_ja": "歯周炎および根尖性歯周炎におけるマクロファージ再プログラミングに基づく免疫療法",
+        "summary_ja": "歯周炎と根尖性歯周炎（AP）は、バイオフィルム駆動性の免疫介在性骨破壊を特徴とする。マクロファージは免疫バランスを制御し、M1/M2分極軸が組織恒常性に重要である。本論文は、マクロファージ再プログラミングに基づく免疫療法を概説する。M1優位の炎症環境からM2優位の修復環境への転換を促す戦略として、サイトカイン、成長因子、薬剤、遺伝子治療、ナノ材料などが検討されている。これらのアプローチは、炎症抑制と骨再生を促進し、歯周病治療の新たな可能性を示す。"
+      }
+    ],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "A Bioinspired Three-Dimensional High-Curvature Nano-Interface Integrated Microfluidic Chip for Small Extracellular Vesicles Enrichment and Machine Learning-Assisted Prostate Cancer Precision Diagnosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42133268/",
+        "abstract": "The efficient and unbiased isolation of small extracellular vesicles (sEVs) from complex biological fluids remains a major obstacle for clinical diagnostics. Here, we report a bioinspired microfluidic chip that integrates a three-dimensional high-curvature TiO",
+        "source": "PubMed",
+        "doi": "10.1002/advs.202521178",
+        "keyword": "sEVs",
+        "title_ja": "生体模倣型三次元高曲率ナノ界面集積マイクロ流体チップによる小型細胞外小胞濃縮と機械学習支援前立腺がん精密診断",
+        "summary_ja": "本論文では、複雑な生体試料からの小型細胞外小胞（sEVs）の効率的かつバイアスのない分離を実現するため、生体模倣型マイクロ流体チップを報告する。本チップは、三次元高曲率TiO₂ナノ界面を集積しており、sEVsの高効率捕捉を可能にする。さらに、機械学習支援解析を組み合わせることで、前立腺がんの精密診断に応用した。本技術は、sEVsの臨床診断応用における主要な障壁を克服する可能性を示す。"
+      },
+      {
+        "title": "Balloon-Expandable Versus Self-Expanding Prostheses for Transcatheter Treatment of Patients With Low-Flow, Low-Gradient Aortic Stenosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42132173/",
+        "abstract": "The use of balloon-expandable valves (BEVs) or self-expanding valves (SEVs) for transcatheter aortic valve replacement (TAVR) in patients with low-flow, low-gradient aortic stenosis (LFLG-AS) has been poorly investigated. Aim of this study is to evaluate the procedural and clinical outcomes of patients with severe low-flow, low-gradient aortic stenosis undergoing TAVR with current-generation prostheses.",
+        "source": "PubMed",
+        "doi": "10.1161/JAHA.125.046441",
+        "keyword": "sEVs",
+        "title_ja": "低流量・低圧較差大動脈弁狭窄症に対する経カテーテル治療におけるバルーン拡張型プロテーゼと自己拡張型プロテーゼの比較",
+        "summary_ja": "タイトル：低流量・低圧較差大動脈弁狭窄症に対する経カテーテル治療におけるバルーン拡張型と自己拡張型プロテーゼの比較\n\n内容：低流量・低圧較差大動脈弁狭窄症（LFLG-AS）患者に対する経カテーテル大動脈弁置換術（TAVR）でのバルーン拡張型弁（BEV）と自己拡張型弁（SEV）の使用は十分に研究されていない。本研究の目的は、重症LFLG-AS患者において最新世代のプロテーゼを用いたTAVRの手技的および臨床的転帰を評価することである。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます（500文字以内）。\n\n1. **NK細胞療法による肺線維症治療**：老化線維芽細胞のクリアランス不全とNK細胞疲弊が肺線維症の病態に関与することを解明。NK細胞免疫療法が新たな治療戦略として期待される。\n\n2. **オルガノイドとエクソソームの相乗応用**：3Dミニ臓器モデルとエクソソームを組み合わせ、疾患モデリングや個別化薬剤スクリーニングの精度向上が可能に。再生医療への応用も視野。\n\n3. **ROS応答性ナノ粒子とMSCエクソソームによる脊髄損傷修復**：活性酸素種に応答する薬物送達システムと間葉系幹細胞由来エクソソームの併用で、アストロサイト表現型を調節し神経修復を促進。\n\n4. **エクソソームの皮膚老化・美容応用**：エクソソームが細胞間コミュニケーションを介してコラーゲン産生や色素異常を改善。無細胞治療として安全性が高く、美容医療への実用化が加速。\n\n5. **高曲率ナノ界面マイクロ流体チップによるsEVs濃縮と前立腺癌診断**：生体模倣型チップで小型細胞外小胞を高効率分離し、機械学習と組み合わせて前立腺癌の精密診断を実現。液体生検の実用化に貢献。\n\nこれらの研究は、細胞外小胞や免疫細胞を活用した新規治療・診断法の基盤を提供し、難治性疾患への応用が期待されます。"
+}

@@ -1,0 +1,146 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "KLRG1 silencing increases the efficacy of CAR NK cell therapy against colon cancer via SHP-2/ZAP-70/NF-κB signal pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42135837/",
+        "abstract": "NK cells are the core cells of the innate immune system, which can kill cancer cells non-specifically and almost do not cause immune rejection or neurotoxicity, thereby enabling broad application in immune cell therapy. The KLRG1/Cadherin signaling axis has been reported to inhibit the anti-tumor response of NK cells. However, the mechanism by which KLRG1 regulates CAR NK cell function remains unclear.",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-08267-y",
+        "keyword": "NK cell therapy",
+        "title_ja": "KLRG1のサイレンシングはSHP-2/ZAP-70/NF-κBシグナル経路を介して大腸癌に対するCAR NK細胞療法の効果を高める",
+        "summary_ja": "KLRG1/Cadherinシグナル軸はNK細胞の抗腫瘍応答を抑制することが報告されているが、CAR NK細胞機能におけるKLRG1の調節機構は不明である。本研究では、KLRG1サイレンシングが大腸癌に対するCAR NK細胞療法の有効性を向上させるメカニズムを解析した。KLRG1発現を抑制したCAR NK細胞は、SHP-2/ZAP-70/NF-κBシグナル経路を介して活性化が増強され、癌細胞傷害活性が有意に上昇した。NK細胞は自然免疫系の中核細胞であり、非特異的に癌細胞を殺傷し、免疫拒絶や神経毒性をほとんど引き起こさないため、免疫細胞療法への広範な応用が可能である。本結果は、KLRG1サイレンシングがCAR NK細胞の抗腫瘍効果を増強する新たな分子基盤を提供し、大腸癌治療におけるCAR NK細胞療法の改良に寄与する。"
+      },
+      {
+        "title": "A Probiotic Approach Targeting Hypersialylation Revives CD8+ T-cell Immunity and Boosts Photodynamic Therapy Efficacy in Solid Tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42133438/",
+        "abstract": "Excess terminal sialic acids on tumor glycans engage inhibitory Siglec receptors and mask peptide and glycan epitopes, including major histocompatibility complex class I (MHC-I), thereby reducing antigen visibility and dampening cytotoxic T-cell surveillance. In this study, we showed that a compact, lectin-free Salmonella typhimurium sialidase (Sia) efficiently desialylated melanoma and colorectal carcinoma cells, abolished Siglec-E binding, and spared MHC-I from lysosomal degradation. Functionally, Sia treatment enhanced dendritic cell phagocytosis and tumor antigen presentation, expanded IFNγ+/granzyme B+ CD8+ T cells, and slowed tumor growth in a CD8+ T cell-dependent manner without systemic toxicity. Engineering the probiotic Escherichia coli Nissle 1917 to coexpress the photosensitizer KillerRed (KR) and Sia (ProKR/Sia) enabled localized targeting. Following intratumoral delivery, ProKR/Sia selectively colonized hypoxic tumor cores while sparing healthy tissues; no off-target desialylation or organ colonization was detected. Brief white-light irradiation lysed the bacteria, synchronously releasing Sia to remodel tumor glycans and activating KR to generate reactive oxygen species that drive immunogenic cell death. In syngeneic murine tumor models, ProKR/Sia photodynamic therapy (PDT) outperformed either monotherapy and induced robust cellular immunity with expansion of cytotoxic CD8+ and CD4+ T cells and multiple innate responses, including natural killer cell activation and M1-like macrophage polarization. Furthermore, ProKR/Sia PDT established antigen-specific memory that rejected rechallenge. These data define a spatially confined, antigen-agnostic strategy that restores MHC-I visibility and activates antitumor immunity in immunologically \"cold\" tumors, leading to a durable response. Rational combinations with immunotherapy, deep-tissue illumination, and programmable biosafety switches may further overcome tumor antigen heterogeneity and broaden clinical applicability.",
+        "source": "PubMed",
+        "doi": "10.1158/0008-5472.CAN-25-3070",
+        "keyword": "NK cell therapy",
+        "title_ja": "標的を高シアル酸修飾に置いたプロバイオティクスアプローチが、固形腫瘍におけるCD8+ T細胞免疫を回復させ、光線力学療法の効果を高める。",
+        "summary_ja": "腫瘍表面の過剰なシアル酸はSiglec受容体を介してMHC-Iを隠蔽し、CD8+ T細胞の免疫監視を抑制する。本研究では、サルモネラ由来のシアル酸分解酵素（Sia）がメラノーマや大腸癌細胞の脱シアル化を効率的に行い、Siglec-E結合を阻害し、MHC-Iの分解を防ぐことを示した。Sia処理は樹状細胞の貪食と抗原提示を促進し、IFNγ+/granzyme B+ CD8+ T細胞を増加させ、腫瘍増殖を抑制した。さらに、光増感剤KillerRedとSiaを共発現するプロバイオティクス大腸菌Nissle 1917（ProKR/Sia）を設計。腫瘍内投与後、低酸素領域に選択的に定着し、白色光照射で菌が溶解しSiaと活性酸素を放出。光線力学療法（PDT）は単独療法より優れ、CD8+・CD4+ T細胞、NK細胞活性化、M1マクロファージ偏極を誘導し、抗原特異的メモリー免疫を確立した。本戦略は免疫学的に"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "UBE2S emerges as a key driver in an NK cell-based prognostic model for clear cell renal cell carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42133651/",
+        "abstract": "Clear cell renal cell carcinoma (ccRCC) is highly heterogeneous, and robust biomarkers for risk stratification and therapeutic guidance remain limited.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.pone.0344925",
+        "keyword": "NK cell therapy",
+        "title_ja": "UBE2Sが淡明細胞型腎細胞癌におけるNK細胞ベースの予後モデルの主要な推進因子として浮上",
+        "summary_ja": "タイトル：淡明細胞型腎細胞癌（ccRCC）におけるNK細胞ベース予後モデルの主要因子としてUBE2Sが浮上\n\n内容：ccRCCは高い異質性を有し、リスク層別化や治療指針に有効なバイオマーカーは限られている。本研究では、ccRCCの腫瘍微小環境におけるNK細胞の役割に着目し、遺伝子発現データを用いてNK細胞関連遺伝子を解析。その結果、UBE2SがNK細胞浸潤と強く関連し、予後不良因子として同定された。UBE2S高発現は、免疫抑制性微小環境の形成やNK細胞機能の低下と相関し、独立した予後予測因子となることが示された。さらに、UBE2Sを含むNK細胞関連遺伝子群に基づく予後モデルを構築し、ccRCC患者のリスク層別化に有用であることを検証した。本モデルは、従来の臨床因子を超えた予後予測能を示し、免疫療法の効果予測にも応用可能な可能性が示唆された。UBE2SはccRCCにおける新たな治療標的および"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Immunofluorescence Analysis for Simultaneous Liquid Biopsy of Multiple Hepatocellular Carcinoma Markers Using a Microfluidic Chip.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42138022/",
+        "abstract": "Hepatocellular carcinoma (HCC) presents a global health burden due to its asymptomatic early course and aggressive progression. Conventional ultrasound often detects HCC at intermediate or advanced stages, beyond optimal intervention windows. This diagnostic limitation highlights the critical need for highly sensitive early detection methods. Although microfluidic platforms offer advantages in throughput and integration, their current focus on single biomarkers restricts diagnostic accuracy and clinical applicability. This study introduces the \"Pro-Exo\" chip, an innovative liquid-biopsy platform where antibody-conjugated microbeads disrupt laminar flow to improve binding efficiency, while multichannel parallel detection enables simultaneous analysis of multiple HCC biomarkers. This platform enables concurrent analysis of plasma proteins (DCP, GP73, AFP) and exosomal surface markers (CD9+CD81, EpCAM, GPC3) from minimal plasma volumes. By integrating different biomarker categories, it overcomes the limitations of single-analyte detection technologies. Validation studies demonstrated that the assay requires only 50 μL plasma per chamber and can be completed within 60 min, with low detection limits for all target biomarkers. Receiver operating characteristic analysis confirmed that single-marker detection provides insufficient diagnostic power, whereas combined plasma protein and exosomal marker detection significantly improved the accuracy of HCC identification. The Pro-Exo Chip establishes a robust platform for rapid, sensitive multibiomarker liquid biopsy, effectively addressing critical needs in early HCC detection. This integrated methodology not only advances cancer diagnostic strategies but also highlights the substantial clinical value of exosomal biomarkers, offering significant implications for both translational research and clinical practice.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.6c00701",
+        "keyword": "Exosomes",
+        "title_ja": "マイクロ流体チップを用いた多種肝細胞癌マーカーの同時液体生検のための免疫蛍光解析",
+        "summary_ja": "本論文は、肝細胞癌（HCC）の早期診断を目的とした新規液体生検プラットフォーム「Pro-Exoチップ」を紹介する。HCCは無症状で進行するため、従来の超音波検査では中期以降に発見されることが多く、高感度な早期検出法が求められている。既存のマイクロ流体プラットフォームは単一バイオマーカーに依存し、診断精度が限られていた。Pro-Exoチップは、抗体結合マイクロビーズが層流を乱して結合効率を向上させ、マルチチャンネル並列検出により複数のHCCバイオマーカーを同時分析する。血漿タンパク質（DCP、GP73、AFP）とエクソソーム表面マーカー（CD9+CD81、EpCAM、GPC3）を50 μLの血漿から60分以内に検出可能で、低検出限界を達成した。ROC解析により、単一マーカーでは診断能が不十分だが、タンパク質とエクソソームマーカーの併用でHCC識別精度が大幅に向上した。本チップは、迅速かつ高感"
+      },
+      {
+        "title": "Chinese bayberry exosome-like nanoparticles attenuate DSS-induced colitis via immunomodulation, barrier restoration, and microbiota remodeling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42135311/",
+        "abstract": "Inflammatory bowel disease (IBD) is a chronic intestinal disorder characterized by intestinal barrier dysfunction and immune dysregulation, with limited safe and effective therapeutic options available. Owing to their biocompatibility and bioactivity, plant exosome-like nanoparticles (PELNs) have emerged as promising natural nanotherapeutics. In this study, exosome-like nanovesicles from Chinese bayberry (Myrica rubra) were isolated, characterized, and termed BELNs to investigate their therapeutic potential against IBD. Purified BELNs exhibited a typical bilayer membrane structure with a 100-300 nm size. Lipidomic, proteomic, and miRNA sequencing analyses revealed that BELNs contain bioactive components, including diacylglycerols, sphingomyelin, specific proteins, miRNAs, and polyphenols like cyanidin-3-O-glucoside. In vitro experiments demonstrated that BELNs were internalized by RAW 264.7 macrophages via galactose-mediated endocytosis, reducing LPS-induced proinflammatory cytokines (TNF-α and IL-1β) and increasing anti-inflammatory IL-10. In vivo, orally administered BELNs accumulated predominantly in the murine gastrointestinal tract. In a DSS-induced IBD model, BELNs alleviated disease symptoms, preserved intestinal tissue integrity, and enhanced barrier function by upregulating tight junction protein ZO-1 and mucin MUC2. Additionally, BELNs remodeled the gut microbiota by decreasing Escherichia-Shigella and enriching beneficial short-chain fatty acid-producing bacteria. These findings highlight BELNs' potential as safe and effective nanotherapeutics for treating ulcerative colitis through immunoregulation, barrier repair, and microbiota modulation.",
+        "source": "PubMed",
+        "doi": "10.1038/s41538-026-00880-x",
+        "keyword": "Exosomes",
+        "title_ja": "中国楊梅エクソソーム様ナノ粒子は、免疫調節、バリア修復、およびマイクロバイオータ再構築を介してDSS誘発大腸炎を軽減する",
+        "summary_ja": "中国産ヤマモモ由来のエクソソーム様ナノ粒子（BELNs）は、炎症性腸疾患（IBD）に対する治療可能性が示された。BELNsは二重膜構造（100-300 nm）を持ち、脂質、タンパク質、miRNA、ポリフェノール（シアニジン-3-O-グルコシド）などの生理活性成分を含む。in vitroでは、RAW 264.7マクロファージにガラクトース介在性エンドサイトーシスで取り込まれ、LPS誘導性のTNF-α、IL-1βを抑制し、抗炎症性IL-10を増加させた。in vivoでは、経口投与されたBELNsは主にマウス消化管に蓄積し、DSS誘導性大腸炎モデルにおいて症状を軽減し、腸管組織の完全性を維持。タイトジャンクションタンパク質ZO-1とムチンMUC2の発現を上昇させ、バリア機能を改善した。さらに、腸内細菌叢を再構築し、有害なEscherichia-Shigellaを減少させ、短鎖脂肪酸産生菌を増加"
+      },
+      {
+        "title": "Targeted peptide-modified M2 exosomes drug delivery system for the targeted regulation of the lung injury microenvironment with isorhynchophylline (IRN): based on the inflammatory-metabolic-epigenetic synergy mechanism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42134712/",
+        "abstract": "Exploring the targeted regulatory effect of isorhynchophylline on lipopolysaccharide (LPS)-induced acute lung injury (ALI) by constructing a drug delivery system of GEF-modified exosomes derived from M2 macrophages (M2-Exos) loaded with isorhynchophylline (GEF-M2-Exos-IRN; GMI).",
+        "source": "PubMed",
+        "doi": "10.1111/bph.70403",
+        "keyword": "Exosomes",
+        "title_ja": "標的ペプチド修飾M2エクソソーム薬物送達システムによるイソリンコフィリン（IRN）を用いた肺損傷微小環境の標的制御：炎症-代謝-エピジェネティック相乗メカニズムに基づいて",
+        "summary_ja": "本論文は、M2マクロファージ由来エクソソーム（M2-Exos）にGEFペプチド修飾を施し、イソリンコフィリン（IRN）を搭載した薬物送達システム（GEF-M2-Exos-IRN; GMI）を構築し、リポ多糖（LPS）誘発急性肺損傷（ALI）に対する標的制御効果を検討した。GMIは肺損傷微小環境を標的とし、炎症-代謝-エピジェネティクスの相乗メカニズムを介して治療効果を発揮する。本システムは、M2-Exosの抗炎症特性とIRNの薬理作用を組み合わせ、GEF修飾により肺組織への標的性を向上させた。結果、GMIは炎症性サイトカインの抑制、代謝経路の調節、エピジェネティック修飾の是正を通じてALIを改善し、新たな治療戦略を提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Heterozygous loss-of-function alleles associate the conserved 3'-5' exoribonuclease EXOSC10 with hypersensitivity to the anticancer drug 5-fluorouracil.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42138069/",
+        "abstract": "The 3'-5' exoribonuclease EXOSC10 degrades aberrant mRNAs and noncoding RNAs in cooperation with the nuclear RNA exosome. EXOSC10's localization and stability are regulated by sumoylation and proteasomal degradation in response to stress, and the protein is essential for cell growth and proliferation, fertility, hematopoiesis, and brain development. EXOSC10 is a cancer biomarker; its activity is inhibited by the widely used anticancer drug 5-fluorouracil (5-FU) and the protein's depletion sensitizes cells to 5-FU. We employed mass spectrometry to reveal EXOSC10's post-translational modifications, such as phosphorylation, acetylation and ubiquitination, and to explore its protein interaction network, which includes RNA exosome subunits and enzymes involved in protein degradation. Furthermore, we find that the EXOSC10",
+        "source": "PubMed",
+        "doi": "10.1002/1878-0261.70239",
+        "keyword": "Exosomes",
+        "title_ja": "ヘテロ接合性機能喪失アレルが、保存された3'-5'エキソリボヌクレアーゼEXOSC10を抗がん剤5-フルオロウラシルへの過敏性と関連付ける。",
+        "summary_ja": "EXOSC10は、核RNAエキソソームと協調して異常mRNAや非コードRNAを分解する3'-5'エキソリボヌクレアーゼである。その局在と安定性はストレス応答におけるSUMO化とプロテアソーム分解により制御され、細胞増殖、生殖、造血、脳発生に必須である。EXOSC10は癌バイオマーカーであり、抗癌剤5-フルオロウラシル（5-FU）により活性が阻害され、その欠損は5-FUへの感受性を高める。質量分析により、リン酸化、アセチル化、ユビキチン化などの翻訳後修飾と、RNAエキソソームサブユニットやタンパク質分解酵素を含む相互作用ネットワークが明らかになった。"
+      },
+      {
+        "title": "Letter to the editor regarding \"Evaluation of the healing effect of kappa-carrageenan combined with dental pulp stem cell-derived exosomes on induced knee osteoarthritis in male rats\".",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42135128/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.knee.2026.104489",
+        "keyword": "Exosomes",
+        "title_ja": "「編集者への手紙：『カッパカラギーナンと歯髄幹細胞由来エクソソームの併用が雄ラットの誘発性膝変形性関節症に及ぼす治癒効果の評価』に関する見解」",
+        "summary_ja": "以下は、指定された論文・記事の要約です。\n\n本レターは、κ-カラギーナンと歯髄幹細胞由来エクソソームの併用が、雄ラットの誘発性膝変形性関節症（OA）に及ぼす治癒効果を評価した研究に対する見解を示す。著者らは、実験デザインや統計解析の妥当性、エクソソームの特性評価の不足、OAモデルの再現性に関する問題点を指摘。特に、κ-カラギーナン単独の効果とエクソソームとの相乗効果の区別が不明瞭であること、また、関節内投与の至適濃度や投与スケジュールの検討が不十分であると批判する。結論として、当該研究の結果の解釈には慎重さが必要であり、さらなる検証実験を推奨している。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Phosphatidylserine-Rich circulating extracellular vesicles activate TAM receptor signaling to promote skin wound repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41921755/",
+        "abstract": "Phosphatidylserine (PS) is an anionic phospholipid that acquires signaling activity when exposed on membrane surfaces. Although small extracellular vesicles (sEVs) have been implicated in diverse biological processes, the contribution of membrane-associated PS to vesicle-mediated signaling remains incompletely understood. Here, we show that circulating small extracellular vesicles (csEVs) activate dermal fibroblasts and keratinocytes through a PS-dependent receptor signaling mechanism. Pharmacological blockade of PS using annexin V markedly attenuated csEV-induced cellular proliferation, migration, and paracrine factor expression. Mechanistically, PS-rich csEV membranes activated TAM family receptors and inhibition of TAM receptors suppressed csEV-induced cellular responses. To determine whether PS-mediated membrane signaling is sufficient to account for csEV bioactivity, we generated phosphatidylserine liposomes (PSLs) as a reductionist membrane mimetic. PSLs reproduced key csEV-induced responses in fibroblasts and keratinocytes in vitro and recapitulated csEV activity in ex vivo porcine skin explants and in vivo mouse wound models. Collectively, our data identify membrane-exposed phosphatidylserine as a key determinant of csEV bioactivity and define a PS-TAM receptor signaling axis that regulates skin cell activation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bcp.2026.117941",
+        "keyword": "sEVs",
+        "title_ja": "ホスファチジルセリンに富む循環細胞外小胞がTAM受容体シグナルを活性化し、皮膚創傷治癒を促進する",
+        "summary_ja": "ホスファチジルセリン（PS）は、膜表面に露出するとシグナル活性を示す陰イオン性リン脂質である。本研究では、循環小型細胞外小胞（csEV）が、PS依存的な受容体シグナル伝達機構を介して皮膚線維芽細胞とケラチノサイトを活性化することを示した。アネキシンVによるPSの薬理学的遮断は、csEV誘導性の細胞増殖、遊走、およびパラクリン因子発現を顕著に減弱させた。機構的には、PSに富むcsEV膜がTAMファミリー受容体を活性化し、その阻害によりcsEV誘導性応答が抑制された。さらに、PSリポソーム（PSL）を用いた実験により、PSLがin vitroでcsEVの効果を再現し、ex vivoおよびin vivoの創傷モデルでも同様の活性を示した。以上より、膜露出PSがcsEVの生物活性の鍵であり、PS-TAM受容体シグナル軸が皮膚細胞活性化を制御することが明らかとなった。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **KLRG1サイレンシングによるCAR NK細胞療法の増強**：NK細胞の抑制性受容体KLRG1を標的とし、CAR NK細胞の抗腫瘍効果を向上させる新戦略。大腸癌治療における有効性が示され、免疫チェックポイント阻害と細胞療法の融合として今後の臨床応用が期待される。\n\n2. **プロバイオティクスによる脱シアル化と免疫活性化**：腫瘍表面の過剰シアル酸が免疫回避を促進するメカニズムを解明。サルモネラ由来酵素で脱シアル化し、CD8+ T細胞の免疫監視を回復させるアプローチは、固形腫瘍への光線力学療法との併用で新たな治療選択肢となる。\n\n3. **UBE2Sを基盤としたNK細胞予後モデル（ccRCC）**：淡明細胞型腎細胞癌において、UBE2SがNK細胞関連予後モデルの主要因子として同定された。腫瘍微小環境の免疫状態を反映し、個別化医療や治療層別化に貢献する可能性がある。\n\n4. **Pro-Exoチップによる肝細胞癌の液体生検**：マイクロ流体チップを用いたエクソソーム多重解析により、肝細胞癌の早期診断を実現。非侵襲的で高感度な検出法として、超音波検査では捉えられない早期病変の発見に寄与する。\n\n5. **植物由来エクソソーム様ナノ粒子による腸炎治療**：ヤマモモ由来のエクソソーム様ナノ粒子（BELNs）が、免疫調節・バリア修復・腸内細菌叢再構築を介して大腸炎を改善。植物由来ナノ粒子は低毒性かつ大量生産可能で、炎症性腸疾患への新規治療基盤として注目される。"
+}

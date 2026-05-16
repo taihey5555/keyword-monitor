@@ -1,0 +1,84 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Establishment and characterization of NKMS-1, a novel mouse NK cell line.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42141022/",
+        "abstract": "Following the recent success of genetically modified T cells in cancer immunotherapy, an increasing number of studies are focusing on natural killer (NK) cells as an alternative to T cells. The characteristics of NK cells may help overcome the disadvantages of T cell-based therapy, such as graft-versus-host disease, cytokine release syndrome, and the high cost and long preparation time of the treatment. To accelerate the development of NK cell-based therapies, the establishment of appropriate mouse models using murine NK cells would be beneficial. Although several groups have reported the establishment of murine NK cell clones, only a few are currently available. In this study, we established a murine NK cell line, NKMS-1, which can grow in a standard cell culture medium supplemented with interleukin-2 and can be stored frozen, retaining cytotoxicity and the ability to be genetically modified. These properties make the cell line suitable for studying NK cell-based cancer immunotherapy and NK cell biology.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-50317-4",
+        "keyword": "NK cell therapy",
+        "title_ja": "新規マウスNK細胞株NKMS-1の樹立と特性評価",
+        "summary_ja": "近年、遺伝子改変T細胞を用いたがん免疫療法の成功を受け、T細胞に代わる選択肢としてナチュラルキラー（NK）細胞への関心が高まっている。NK細胞は、移植片対宿主病やサイトカイン放出症候群、治療の高コスト・長い準備期間といったT細胞療法の欠点を克服する可能性を持つ。NK細胞ベースの治療法開発を加速するには、マウスNK細胞を用いた適切なモデル確立が有用だが、利用可能な細胞株は限られている。本研究では、新たなマウスNK細胞株NKMS-1を樹立した。本細胞株はインターロイキン-2添加の標準培地で増殖可能で、凍結保存後も細胞傷害活性と遺伝子改変能を保持する。これらの特性により、NK細胞のがん免疫療法や生物学研究に適したツールとなる。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Small CD63 + CD81+ extracellular vesicles induce autophagy via the FOXO3a pathway in pancreatic cancer cells during starvation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42141110/",
+        "abstract": "Pancreatic ductal adenocarcinoma (PDAC), the most common histological subtype of pancreatic cancer, is an aggressive malignancy expected to become the second leading cause of cancer-related deaths by 2040. A hallmark of PDACs is the highly desmoplastic and hypovascularized nature of its microenvironment, which enables PDAC cells to adapt and survive under conditions of low oxygen and nutrient deprivation through various cellular mechanisms. Among these processes, autophagy has emerged as a key response mechanism to cope with these adverse conditions. Consequently, a deeper understanding of the molecular events driving autophagy could pave the way for the development of new and more effective treatments for PDAC. In this context, we provide evidence of novel pathway mediated by extracellular vesicles (EVs) that promotes autophagy in a paracrine manner in PDAC cells in response to starvation. Our findings indicate that, under starvation conditions, EVs-associated tetraspanins, namely CD9, CD63 and CD81, mobilize towards domains-like structures within the plasma membrane of PDAC cells. Correspondingly, a specific release of small EVs (sEVs) is observed in the starved cells. Notably, sEVs derived from starved cells, but not those from cells at basal conditions, strongly induce the autophagy pathway in PDAC cells cultured with optimal nutritional media. Interestingly, this ability to induce autophagy is specific to CD63/CD81 double-positive sEVs and is effective even in non-tumoral pancreatic cells. This sEVs-mediated autophagy is, at least partially, mediated by the activation of the FOXO3a pathway. It is worth noting that, although EVs release returns to basal level after 1 h of recovery following starvation, these EVs retain a capacity to induce autophagy, suggesting a decupling between quantity and quality of secreted vesicles. Our results demonstrate that pancreatic cancer cells in nutrient-deprived environments release specific sEVs that, in turn, activate the FOXO3a pathway and autophagy flux in recipient cells.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-52731-0",
+        "keyword": "sEVs",
+        "title_ja": "飢餓状態における膵臓癌細胞において、小型CD63+CD81+細胞外小胞がFOXO3a経路を介してオートファジーを誘導する",
+        "summary_ja": "膵管腺癌（PDAC）は低酸素・低栄養環境に適応するため、オートファジーを重要な応答機構として利用する。本研究は、飢餓条件下のPDAC細胞が放出する小型細胞外小胞（sEVs）が、パラクライン的にオートファジーを誘導する新規経路を解明した。飢餓時、細胞膜上のテトラスパニン（CD9, CD63, CD81）がドメイン様構造に移動し、CD63/CD81二重陽性sEVsの特異的放出が促進される。このsEVsは、栄養十分な条件下のPDAC細胞や非腫瘍性膵臓細胞においても、FOXO3a経路の活性化を介して強力にオートファジーを誘導する。飢餓回復後1時間でsEVs放出量は基底レベルに戻るが、誘導能は維持され、分泌小胞の質と量が乖離することを示唆する。以上より、栄養欠乏環境下のPDAC細胞は特定のsEVsを放出し、レシピエント細胞でFOXO3a経路とオートファジーフラックスを活性化する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Mechanisms and functions of large extracellular vesicle biogenesis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42141161/",
+        "abstract": "Owing to the ability of extracellular vesicles (EVs) to encapsulate and transfer biomolecules for intercellular communication, EVs are recognized as promising candidates as biomarkers and therapeutic delivery vehicles. Small EVs (S-EVs), below 200 nm in diameter, have previously been the major focus in the EV field, but large EVs (L-EVs) are gaining considerable interest, with many distinct subsets of L-EVs having been described in the past few years. Here we review L-EV biogenesis from a context-specific perspective, focusing on the biological settings that drive L-EV formation. We also discuss the roles of L-EVs in facilitating the removal of unwanted cellular content and intercellular communication. Finally, we identify key challenges in the L-EV field and discuss future investigations towards harnessing L-EVs for diagnostic and therapeutic applications.",
+        "source": "PubMed",
+        "doi": "10.1038/s41556-026-01940-w",
+        "keyword": "sEVs",
+        "title_ja": "大規模細胞外小胞生合成のメカニズムと機能",
+        "summary_ja": "細胞外小胞（EV）は生体分子を内包・輸送し細胞間情報伝達を担うことから、バイオマーカーや治療用運搬体として注目される。従来は直径200nm未満の小型EV（S-EV）が研究の中心だったが、近年は大型EV（L-EV）への関心が高まり、複数のサブタイプが報告されている。本稿では、L-EVの生合成を状況依存的に概観し、その形成を促進する生物学的環境に焦点を当てる。また、L-EVが不要な細胞内容物の除去や細胞間コミュニケーションに果たす役割を考察する。最後に、L-EV研究の主要な課題を整理し、診断・治療応用に向けた今後の研究方向性を議論する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **NK細胞株「NKMS-1」の樹立**：T細胞療法の課題（GVHD、サイトカイン放出症候群、高コスト）を克服するNK細胞療法の実用化に向け、安定した細胞源として新規マウスNK細胞株を確立。今後、遺伝子改変や大量培養の基盤となり、免疫療法の選択肢拡大に貢献する。\n\n2. **飢餓状態の膵癌細胞が放出するsEVsとオートファジー誘導**：低栄養環境下のPDAC細胞がCD63⁺CD81⁺小型細胞外小胞（sEVs）を介し、FOXO3a経路で周囲細胞のオートファジーを誘導する新機構を解明。膵癌の代謝適応と微小環境制御の理解が進み、sEVsを標的とした治療戦略の可能性を示す。\n\n3. **大型細胞外小胞（L-EV）の形成機構と機能**：従来の小型EVに加え、直径200nm以上のL-EVが多様なサブタイプを持ち、独自の生合成・輸送機構を有することが明らかに。バイオマーカーやDDSキャリアとしての応用範囲が拡大し、EV研究の新たなフロンティアを拓く。\n\n4. **PF4（血小板第4因子）の免疫調節機能**：PF4は血小板由来のケモカインで、炎症・免疫応答に関与。近年、老化抑制や組織修復への関与が示唆され、Klothoとの関連も注目される。今後の老化研究や再生医療への応用が期待される。\n\n5. **Exosomes/sEVsの治療応用と品質管理**：sEVsは低免疫原性・高安定性から薬物送達キャリアとして有望だが、均一性・再現性の確保が課題。標準化された製造・評価法の確立が臨床応用への鍵となる。\n\n以上、NK細胞療法、sEVsによる癌微小環境制御、L-EVの新機能、PF4の老化制御、エクソソームの実用化が今後の重要トピックです。"
+}

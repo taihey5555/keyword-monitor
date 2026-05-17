@@ -1,0 +1,134 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Genetic evidence that FGF21 signaling reduces problematic alcohol use and alcohol-related liver disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41747774/",
+        "abstract": "Fibroblast growth factor 21 (FGF21) analogs are in development for metabolic dysfunction-associated steatotic liver disease (MASLD), but their impact on problematic alcohol use (PAU), alcohol use disorder, binge drinking, and alcohol-related liver disease (ALD) is unknown.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jhep.2026.01.025",
+        "keyword": "Klotho",
+        "title_ja": "FGF21シグナル伝達が問題飲酒とアルコール関連肝疾患を軽減するという遺伝学的エビデンス",
+        "summary_ja": "タイトル: FGF21シグナルが問題飲酒とアルコール関連肝疾患を低減する遺伝学的証拠\n\n要約: Fibroblast growth factor 21 (FGF21) アナログは代謝機能障害関連脂肪肝疾患（MASLD）向けに開発中だが、問題飲酒（PAU）、アルコール使用障害、過剰飲酒、アルコール関連肝疾患（ALD）への影響は不明である。本研究は遺伝学的証拠に基づき、FGF21シグナルがPAUとALDリスクを低減することを示した。FGF21経路の遺伝的変異が飲酒行動と肝障害に保護的役割を果たす可能性が示唆され、新たな治療標的としての有用性が期待される。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "In vitro nano‑emodin-associated exosome‑mediated aPDT against Acinetobacter baumannii.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42143640/",
+        "abstract": "Biofilm-forming Acinetobacter baumannii, particularly multidrug-resistant (MDR) strains, present major challenges in burn wound treatment. This study evaluated the antibacterial and antibiofilm efficacy of exosomes associated with nano-emodin (NE-Exos) combined with antimicrobial photodynamic therapy (aPDT) against A. baumannii. Antibacterial and antibiofilm activities were evaluated against the standard strain (ATCC 19606) and clinical isolates of A. baumannii, including MDR, extensively drug-resistant (XDR), and non-MDR/non-XDR strains. Minimum inhibitory and bactericidal concentrations (MIC, MBC), biofilm-inhibitory and eradication concentrations (MBIC, MBEC), drug release, hemolysis, and expression of biofilm-associated genes (abaI, bap) were evaluated. Nano-emodin and NE-Exos showed inhibitory and antibacterial activities with MIC and MBC values ranging from 15 to 39 μg/mL and 30 to 156 μg/mL, respectively. NE-Exos showed better antibiofilm efficacy compared to nano-emodin alone, especially in MDR isolates. The release of nano-emodin from NE-Exos reached 30.73% nano-emodin release at pH 5.5 after 300 min, compared to 27.56% and 23.76% at pH 7.4 and 8.5, respectively, and was associated with minimal hemolysis (0.015%). Furthermore, NE‑Exos combined with aPDT significantly downregulated the biofilm‑associated genes abaI and bap, with reductions of up to 10.96‑fold and 5.33‑fold, respectively (p < 0.001). Exosomes may have contributed to the observed antimicrobial effects, although their role appears to be as a carrier for nano‑emodin. These findings support NE‑Exos combined with aPDT as a promising in vitro strategy against A. baumannii biofilms; however, the lack of direct quantification of nano‑emodin encapsulation should be considered a study limitation.",
+        "source": "PubMed",
+        "doi": "10.1186/s13568-026-02069-7",
+        "keyword": "Exosomes",
+        "title_ja": "インビトロにおけるナノエモジン関連エクソソーム媒介aPDTのアシネトバクター・バウマニに対する効果",
+        "summary_ja": "本論文は、多剤耐性（MDR）を含むAcinetobacter baumanniiのバイオフィルム形成株に対する、ナノエモジン関連エクソソーム（NE-Exos）と抗菌光線力学療法（aPDT）の併用効果を評価した。標準株（ATCC 19606）および臨床分離株（MDR、超多剤耐性（XDR）、非MDR/non-XDR）を用い、最小発育阻止濃度（MIC）・最小殺菌濃度（MBC）、バイオフィルム阻止・除去濃度（MBIC、MBEC）、薬物放出、溶血性、バイオフィルム関連遺伝子（abaI, bap）発現を解析。NE-Exosはナノエモジン単独より優れた抗バイオフィルム効果を示し、特にMDR株で顕著であった。pH 5.5で300分後に30.73%のナノエモジン放出が確認され、溶血は最小限（0.015%）であった。aPDTとの併用により、abaIおよびbap遺伝子発現がそれぞれ最大10.96倍、5.33倍有"
+      },
+      {
+        "title": "Neural stem cell extracellular vesicle-mediated delivery of astragaloside IV attenuates hypoxic-ischemic brain damage by activating the mTOR pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42142143/",
+        "abstract": "Hypoxic-ischemic brain damage (HIBD) is a primary cause of neonatal neurological dysfunction, such as cerebral palsy, characterized by complex cascades of neuronal death. Despite the urgent need, effective therapeutic strategies are scarce, and the efficacy of standard interventions, such as therapeutic hypothermia, remains limited. Astragaloside IV (AS-IV), a promising neuroprotective agent, is hindered from wide clinical applications by poor permeability across the blood-brain barrier (BBB) and low bioavailability. To overcome this bottleneck, we developed a novel targeted delivery system based on neural stem cell-derived extracellular vesicle, designated AS-EV, which efficiently deliver AS-IV to the HIBD-affected brain region. AS-EV were successfully prepared via ultracentrifugation and sonication-loading, exhibiting typical exosomal characteristics, and favorable drug-loading efficiency. In vivo experiments confirmed that AS-EV effectively crossed the BBB to accumulate in the injured brain region with satisfying biocompatibility. Mechanistic investigation using primary cortical neurons revealed that the core therapeutic mechanism of AS-EV is mediated by mTOR activation, which consequently suppressed HIBD-induced neuronal apoptosis, an effect that was abrogated by mTOR inhibition. Furthermore, functional and histological assessments demonstrated that AS-EV intervention significantly promoted neurological function recovery, alleviated brain tissue pathology, protected white matter integrity, facilitated neural structural remodeling, and inhibited glial scar proliferation in neonatal HIBD rats. In conclusion, NSC-EV-mediated delivery of AS-IV exerts multifaceted neuroprotective and reparative effects by activating the mTOR pathway, offering a promising therapeutic strategy for HIBD.",
+        "source": "PubMed",
+        "doi": "10.1007/s00210-026-05452-0",
+        "keyword": "Exosomes",
+        "title_ja": "アストラガロシドIVの神経幹細胞細胞外小胞を介した送達は、mTOR経路の活性化により低酸素性虚血性脳損傷を軽減する。",
+        "summary_ja": "新生児低酸素性虚血性脳損傷（HIBD）は神経機能障害の主因だが、既存治療の効果は限定的である。アストラガロシドIV（AS-IV）は神経保護作用を持つが、血液脳関門（BBB）透過性とバイオアベイラビリティが低い。本研究では、神経幹細胞由来細胞外小胞（NSC-EV）を用いたAS-IV標的送達システム（AS-EV）を開発した。超遠心と超音波処理で調製したAS-EVはエクソソーム特性と高い薬物封入効率を示し、in vivoでBBBを通過し損傷脳領域に集積した。初代皮質ニューロンを用いた解析により、AS-EVはmTOR経路を活性化し、HIBD誘発神経細胞アポトーシスを抑制した。新生児HIBDラットにおいて、AS-EVは神経機能回復、脳組織病理改善、白質保護、神経構造再構築促進、グリア瘢痕増殖抑制を示した。以上より、NSC-EVによるAS-IV送達はmTOR経路活性化を介した多面的神経保護・修復効果を"
+      },
+      {
+        "title": "Rab27: Molecular switch of tumor exosome secretion (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42138205/",
+        "abstract": "Rab proteins are core regulators of vesicle trafficking during membrane transport. As key members of this family, Rab27 comprises two functionally distinct isoforms, Rab27a and Rab27b, and participates in the regulation of exosome secretion by mediating the selective anchoring of multivesicular bodies to the plasma membrane. In tumor cells, Rab27 promotes malignant progression by modulating exosome secretion. Aberrantly expressed Rab27 is associated with the prognosis of patients with cancer, suggesting its potential as a prognostic biomarker for various malignant tumors. Furthermore, the development of novel small‑molecule drugs targeting Rab27 is promising because these drugs can exert antitumor effects through interference with the exosome secretory pathway. The present review systematically summarizes the molecular mechanisms underlying the Rab27‑mediated regulation of exosome secretion and its role in tumorigenesis and cancer progression and discusses the application prospects and challenges of Rab27‑targeted antitumor therapeutic strategies, aiming to provide a reference for basic research and clinical translation of Rab27.",
+        "source": "PubMed",
+        "doi": "10.3892/ijmm.2026.5853",
+        "keyword": "Exosomes",
+        "title_ja": "Rab27：腫瘍エクソソーム分泌の分子スイッチ（レビュー）",
+        "summary_ja": "Rab27は、膜輸送における小胞輸送の中心的制御因子であるRabタンパク質ファミリーの一員であり、Rab27aとRab27bの2つの機能的に異なるアイソフォームから構成される。Rab27は、多胞体の細胞膜への選択的アンカーリングを媒介し、エクソソーム分泌を制御する。腫瘍細胞では、Rab27はエクソソーム分泌を調節することで悪性進行を促進する。Rab27の異常発現は癌患者の予後と関連し、各種悪性腫瘍における予後バイオマーカーとしての可能性が示唆される。また、Rab27を標的とした新規低分子薬の開発は、エクソソーム分泌経路を阻害することで抗腫瘍効果を発揮する有望な戦略である。本総説は、Rab27によるエクソソーム分泌制御の分子機構と発癌・癌進行における役割を体系的に整理し、Rab27標的抗腫瘍治療戦略の応用展望と課題を考察する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Inflammation and wound healing: a comprehensive overview of mechanisms, therapeutic strategies, and translational perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42141493/",
+        "abstract": "Wound healing is the dynamic biological process by which an organism restores homeostasis following injury and is characterized by a series of stages resulting in hemostasis, inflammatory response, proliferation, and tissue remodeling. As a consequence, the inflammatory response represents a key early step in this process and plays a central role in clearing necrotic debris and pathogens, as well as inducing reparative pathways. Mild to moderate inflammation induces angiogenesis, fibroblast activation, and extracellular matrix (ECM) remodeling, whereas chronic or excessive inflammation causes tissue damage, fibrosis, and chronic non-healing wounds. The current review systematically illustrates the contribution and dynamics of the inflammatory response underlying wound healing. These processes consist of immune cell polarization, regulation of cytokines and chemokines, and signaling network dynamics, hence emphasis is laid on the canonical mechanism for maintaining steady-state tissue restoration, namely, immune homeostasis. Moreover, this review examines the dynamic cross-talk of growth factors, ECM components, and angiogenesis in different healing phases. An overview of novel interventions is also included such as negative pressure wound therapy (NPWT), hyperbaric oxygen, exosome-based approaches, biomaterial-based approaches, nanohydrogel systems, and microneedle-facilitated delivery, with insights into mechanisms and translational progress. Critical clinical translation barriers, including wound heterogeneity, host-microbe cross-talk, and limitations of model extrapolation as well as the potential application of multi-omics integration and an interdisciplinary approach towards precision wound healing, are discussed. Overall, regulation of inflammation is the foundation for the whole wound healing cascade, and immune homeostasis is a key prerequisite for injury repair. Tailored therapeutic strategies might thus greatly enhance healing outcomes and clinical efficacy.",
+        "source": "PubMed",
+        "doi": "10.1186/s40364-026-00935-x",
+        "keyword": "Exosomes",
+        "title_ja": "炎症と創傷治癒：メカニズム、治療戦略、そしてトランスレーショナルな展望に関する包括的概観",
+        "summary_ja": "創傷治癒は止血、炎症、増殖、組織リモデリングの段階からなる動的過程であり、炎症反応は壊死組織や病原体の除去、修復経路の誘導に不可欠である。軽度から中等度の炎症は血管新生、線維芽細胞活性化、細胞外マトリックス（ECM）リモデリングを促進するが、慢性または過剰な炎症は組織障害、線維症、難治性創傷を引き起こす。本総説は、免疫細胞の極性化、サイトカイン・ケモカイン調節、シグナルネットワーク動態に焦点を当て、免疫恒常性維持のメカニズムを解説する。また、成長因子、ECM成分、血管新生の相互作用を検討し、陰圧閉鎖療法（NPWT）、高圧酸素療法、エクソソーム、生体材料、ナノハイドロゲル、マイクロニードル送達などの新規介入とその翻訳的進展を概説する。臨床翻訳の障壁として、創傷の不均一性、宿主-微生物相互作用、モデル外挿の限界を挙げ、マルチオミクス統合や学際的アプローチによる精密創傷治癒の可能性を論じる。炎症"
+      },
+      {
+        "title": "HECTD4 in human umbilical cord mesenchymal stem cells-derived exosomes alleviates osteoclast differentiation in osteoporosis progression by suppressing RANK m6A modification via promoting METTL3 ubiquitination.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42141331/",
+        "abstract": "Human umbilical cord mesenchymal stem cells-derived exosomes (UC-MSCs-exos) have demonstrated considerable potential in osteoporosis treatment. This study explored the underlying mechanisms of UC-MSCs-exos in this context. Osteoporosis cell models were established by treating RAW264.7 cells with RANKL, followed by incubation with UC-MSCs-exos. The effects on osteoclast differentiation were assessed via Western blot and TRAP staining. Transfection of HECTD4, METTL3, and RANK was performed to investigate the regulatory mechanism of UC-MSCs-exos on osteoclast differentiation. MeRIP-qPCR analyzed the impact of METTL3 on RANK m6A modification, and ubiquitination assays examined the influence of HECTD4 on METTL3 ubiquitination. Treatment with UC-MSCs-exos inhibited osteoclast differentiation in the osteoporosis models by decreasing the number of mature osteoclasts and markers such as RANK, ACP5, and CTSK. UC-MSCs-exos also reduced METTL3 levels in these models. When METTL3 was overexpressed in the presence of UC-MSCs-exos, osteoclast differentiation was enhanced. METTL3 promoted RANK protein stability by facilitating its m6A modification. In UC-MSCs-exos-treated models, RANK silencing reversed the effect of METTL3 overexpression on osteoclast differentiation. UC-MSCs-exos were found to contain abundant HECTD4, which promoted METTL3 degradation via ubiquitination. Silencing of HECTD4 promoted osteoclast differentiation in the presence of UC-MSCs-exos, but this was reversed by METTL3 silencing. HECTD4 from UC-MSCs-exos attenuated osteoclast differentiation in osteoporosis by inhibiting RANK m6A modification through METTL3 ubiquitination. These findings suggest that UC-MSCs-exos offer a promising strategy for osteoporosis treatment.",
+        "source": "PubMed",
+        "doi": "10.1007/s10735-026-10827-x",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト臍帯間葉系幹細胞由来エクソソーム中のHECTD4は、METTL3のユビキチン化を促進することでRANKのm6A修飾を抑制し、骨粗鬆症の進行における破骨細胞分化を軽減する",
+        "summary_ja": "ヒト臍帯間葉系幹細胞由来エクソソーム（UC-MSCs-exos）は骨粗鬆症治療に有望である。本研究では、RANKL処理RAW264.7細胞を用いた骨粗鬆症モデルにおいて、UC-MSCs-exosが破骨細胞分化を抑制する機構を解析した。UC-MSCs-exosは成熟破骨細胞数やRANK、ACP5、CTSKなどのマーカーを減少させ、METTL3発現を低下させた。METTL3過剰発現は破骨細胞分化を促進し、これはRANKのm6A修飾を介したタンパク質安定化によるものであった。UC-MSCs-exos存在下でのRANKノックダウンはこの効果を打ち消した。UC-MSCs-exosにはHECTD4が豊富に含まれ、HECTD4はMETTL3のユビキチン化を促進して分解を誘導した。HECTD4ノックダウンは破骨細胞分化を促進したが、METTL3ノックダウンにより回復した。以上より、UC-MSCs-exos"
+      },
+      {
+        "title": "Exosome and biotherapeutic strategies for dermatological and oncological skin complications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42139022/",
+        "abstract": "Exosomes are nanosized extracellular vesicles (30-150 nm) that mediate intercellular communication by transferring bioactive molecules, including proteins, lipids, and nucleic acids. Their ability to regulate inflammation, immune responses, angiogenesis, and tissue regeneration has positioned them as promising candidates for the management of dermatological diseases and oncologic skin complications.",
+        "source": "PubMed",
+        "doi": "10.1080/07853890.2026.2673184",
+        "keyword": "Exosomes",
+        "title_ja": "皮膚科学的および腫瘍学的皮膚合併症に対するエクソソームと生物治療戦略",
+        "summary_ja": "エクソソームは、タンパク質、脂質、核酸などの生体分子を運搬する30～150 nmのナノサイズ細胞外小胞であり、細胞間情報伝達を媒介する。炎症、免疫応答、血管新生、組織再生を調節する能力から、皮膚疾患および腫瘍性皮膚合併症の管理における有望な候補として注目されている。本論文では、エクソソームの生物学的特性と、皮膚科学的および腫瘍学的皮膚合併症に対するバイオセラピー戦略としての応用可能性を概説する。"
+      },
+      {
+        "title": "CircRAD18 promotes glioblastoma proliferation, migration and invasion via the miR‑1231/LUC7L2 axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42138196/",
+        "abstract": "Glioblastoma (GBM) is an exceptionally aggressive and malignant central nervous system tumor with a poor prognosis. Studies suggest that circular RNAs (circRNAs) play a vital role in GBM progression. Exosomes, key mediators of intercellular communication, carry circRNAs that may regulate this process. The present study aimed to investigate how circRAD18 modulates GBM cell proliferation, migration and invasion through the miR‑1231/LUC7L2 axis and to evaluate the potential of exosomal circRAD18 as a diagnostic biomarker for GBM. Bioinformatics analyses identified differentially expressed circRAD18, miR‑1231 and LUC7L2 in GBM and predicted their interactions. Expression levels were assessed using western blot analysis, immunohistochemistry and reverse transcription‑quantitative polymerase chain reaction. Regulatory mechanisms were examined via dual‑luciferase reporter assays, RNA pull‑down assays, CCK‑8 assays, wound healing assays, Transwell assays, fluorescence ",
+        "source": "PubMed",
+        "doi": "10.3892/ijmm.2026.5851",
+        "keyword": "Exosomes",
+        "title_ja": "CircRAD18はmiR‑1231/LUC7L2軸を介して膠芽腫の増殖、遊走、浸潤を促進する",
+        "summary_ja": "本論文は、膠芽腫（GBM）におけるcircRAD18の機能と診断マーカーとしての可能性を検討した。GBMは予後不良な悪性中枢神経系腫瘍であり、環状RNA（circRNA）やエクソソームを介した細胞間通信がその進行に関与する。本研究では、circRAD18がmiR‑1231/LUC7L2軸を介してGBM細胞の増殖、遊走、浸潤を促進する機構を解析した。バイオインフォマティクス解析により、GBMで発現変動するcircRAD18、miR‑1231、LUC7L2を同定し、それらの相互作用を予測。ウェスタンブロット、免疫組織化学、RT‑qPCRで発現を確認し、デュアルルシフェラーゼアッセイ、RNAプルダウン、CCK‑8、創傷治癒、トランスウェルアッセイ等で制御機構を検証した。結果、circRAD18はmiR‑1231をスポンジ吸着し、LUC7L2発現を上昇させることで腫瘍悪性形質を促進。また、エクソソ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **FGF21と飲酒・肝疾患の遺伝学的関連**  \n   FGF21アナログはMASLD治療薬として開発中ですが、本研究成果は問題飲酒やアルコール性肝疾患の低減にも有効である可能性を示唆。遺伝学的エビデンスに基づき、新たな適応拡大が期待されます。\n\n2. **ナノエモジン搭載エクソソームによる光線力学療法**  \n   多剤耐性A. baumanniiのバイオフィルムに対し、エクソソームをキャリアとしたaPDTが有効。感染症治療におけるエクソソームの応用可能性を広げる重要な一歩です。\n\n3. **神経幹細胞由来細胞外小胞による脳保護**  \n   アストラガロシドIVを搭載した神経幹細胞由来sEVsが、血液脳関門を通過し低酸素性虚血性脳損傷を軽減。mTOR経路活性化が鍵で、新生児脳障害治療への応用が期待されます。\n\n4. **Rab27と腫瘍エクソソーム分泌**  \n   Rab27a/bはエクソソーム分泌の分子スイッチとして機能。その制御機構解明は、がんの転移や免疫抑制に関わるエクソソームを標的とした新規治療戦略につながります。\n\n5. **UC-MSCsエクソソームによる骨粗鬆症治療**  \n   HECTD4を搭載したエクソソームがMETTL3ユビキチン化を介してRANKのm6A修飾を抑制し、破骨細胞分化を阻害。骨粗鬆症に対する新たなエクソソーム治療の基盤を提供します。\n\nこれらの研究は、エクソソーム・sEVsの多様な疾患への応用可能性と、分子機構解明による治療標的の発見に貢献しています。"
+}

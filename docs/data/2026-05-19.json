@@ -1,0 +1,171 @@
+{
+  "A": {
+    "医学": [
+      {
+        "title": "Peptides as integrative modulators for clinical prognosis and targeted therapy in pancreatic cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42149255/",
+        "abstract": "Pancreatic cancer remains a formidable global health challenge, ranking as the twelfth most common malignancy yet claiming an outsized toll with dismal 5-year survival rates 13.3%, largely due to late-stage diagnosis and limited therapeutic options. This comprehensive review delves into the transformative potential of peptides as innovative biomarkers and prognostic indicators, addressing the critical gaps in early detection and personalized management of this aggressive disease. Drawing from cutting-edge research in molecular oncology, proteomics, and bioinformatics, this paper highlights key genetic drivers such as KRAS, TP53, CDKN2A, and SMAD4 mutations that fuel Pancreatic cancer progression and stromal desmoplasia. Diverse peptide sources, including tumor-derived neoantigens, stromal remodeling fragments, and immune-modulating signals and their release mechanisms via ectodomain shedding and exosomes, were explored. Emphasizing advanced discovery pipelines, from mass spectrometry-based proteomics to immunoassays and machine learning-driven validation, current work spotlights promising candidates like PF4, PRO-C11-511, and CXCL7, which enhance diagnostic accuracy (AUC up to 0.961) and predict outcomes when integrated with established markers like CA19-9. By overcoming limitations of current biomarkers, such as low specificity and stage-dependency. This review underscores peptides' role in revolutionizing precision oncology, paving the way for non-invasive screening, targeted therapies, and improved survival in pancreatic cancer patients.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05130-w",
+        "keyword": "PF4",
+        "matched_keywords": [
+          "PF4",
+          "Exosomes"
+        ],
+        "title_ja": "ペプチドによる膵癌の臨床予後と標的治療における統合的調節因子としての役割",
+        "summary_ja": "膵臓癌は世界的な健康課題であり、5年生存率13.3%と予後不良である。本総説は、ペプチドの革新的バイオマーカーおよび予後指標としての可能性を探る。KRAS、TP53、CDKN2A、SMAD4などの遺伝子変異が癌進行と間質デスモプラジアを促進する。腫瘍由来ネオアンチゲン、間質リモデリング断片、免疫調節シグナルなど多様なペプチド源と、エクトドメイン脱落やエクソソームを介した放出機構を解説。質量分析、免疫測定法、機械学習を用いた発見パイプラインを重視し、PF4、PRO-C11-511、CXCL7などの候補がCA19-9と統合することで診断精度（AUC最大0.961）を向上させる。既存バイオマーカーの低特異性や病期依存性を克服し、非侵襲的スクリーニングや標的治療への応用が期待される。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Exploring paclitaxel-albumin-loaded neutrophil-like cells ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42148930/",
+        "abstract": "This study investigated the rapid drug delivery capabilities of neutrophil-like cells using a microfluidic chip-based mechanical deformation approach, with an emphasis on glioblastoma treatment at the cellular level. We designed a microfluidic chip comprising multiple constriction gaps and parallel microchannels to enable efficient drug loading into HL-60 cells and neutrophil-like cells derived from differentiated HL-60 cells (dHL-60 cells). Optimization was performed using dye molecules, including FITC-dextran (4 kDa, 20 kDa) and FITC-BSA, with delivery efficiency and the cell recovery rate serving as critical evaluation parameters. The optimal performance was achieved at a gap size of 8 μm and a flow rate of 150 μL min",
+        "source": "PubMed",
+        "doi": "10.1039/d5lc01140j",
+        "keyword": "NK cell therapy",
+        "title_ja": "パクリタキセル-アルブミン搭載好中球様細胞の探索",
+        "summary_ja": "本研究では、神経膠芽腫治療を目的とし、好中球様細胞への迅速な薬剤搭載を実現するマイクロ流体チップを用いた機械的変形アプローチを検討した。複数の狭窄ギャップと並列マイクロ流路を備えたチップを設計し、HL-60細胞および分化誘導した好中球様細胞（dHL-60細胞）への効率的な薬剤搭載を実施。FITC-dextran（4 kDa、20 kDa）やFITC-BSAなどの色素分子を用いて最適化を行い、送達効率と細胞回収率を評価指標とした。ギャップサイズ8 μm、流速150 μL min⁻¹の条件下で最適な性能が得られた。"
+      },
+      {
+        "title": "CAR-engineered neutrophils derived from induced pluripotent stem cells: a new frontier in cellular immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42144533/",
+        "abstract": "Adoptive cell therapy has been revolutionized by chimeric antigen receptor (CAR)-based immunotherapy, but its applications are still mainly limited to T and natural killer (NK) cells. The FDA-approved seven CAR-T products in less than ten years, demonstrating the high capacity of this approach. However, given the limitations of CAR-T cell therapy, such as low tumor infiltration and clinical efficacy in solid tumors, there has been significant interest in recent years to engineer other immune cell types, including neutrophils, with CARs because they provide special advantages for cancer therapy, such as rapid infiltration into tumor sites, strong cytotoxic functions, and the ability to modify the tumor microenvironment (TME). However, the main barriers to the practical translation of CAR-neutrophils are their short lifespan, restricted ex vivo proliferation, and inherent resistance to genetic alterations, which calls for the availability of an infinite source for the ongoing supply of CAR-neutrophil therapy. These obstacles may be overcome by developments in induced pluripotent stem cell (iPSC) technology, which offers a consistent, renewable, and genetically changeable source of CAR-neutrophils (CAR-Neuts). The goal of this study is to present a comprehensive analysis of the state, gaps, and potential future directions of this recently developed topic.",
+        "source": "PubMed",
+        "doi": "10.1007/s12094-026-04396-4",
+        "keyword": "NK cell therapy",
+        "title_ja": "iPS細胞由来CAR改変好中球：細胞免疫療法の新たな最前線",
+        "summary_ja": "CAR操作好中球（CAR-Neuts）は、キメラ抗原受容体（CAR）を用いた細胞免疫療法の新たなフロンティアである。従来のCAR-T細胞療法は固形腫瘍への浸潤能や臨床効果に限界があるが、好中球は腫瘍への迅速な浸潤、強力な細胞傷害能、腫瘍微小環境（TME）の改変能などの利点を持つ。しかし、好中球は寿命が短く、ex vivoでの増殖が制限され、遺伝子改変が困難であるため、実用化には無限の供給源が必要である。この課題に対し、人工多能性幹細胞（iPSC）技術は、安定かつ再生可能で遺伝子改変可能なCAR-Neutsの供給源を提供する。本稿は、この新興分野の現状、課題、将来の方向性を包括的に分析することを目的とする。"
+      },
+      {
+        "title": "Cell-based cancer immunotherapy: milestones, mechanistic insights, and emerging therapeutic directions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42144448/",
+        "abstract": "Cell-based immunotherapies have emerged as a transformative modality in modern cancer treatment, complementing conventional approaches such as surgery, chemotherapy, radiotherapy, and molecularly targeted therapies. This review provides an integrated and up-to-date synthesis of the rapidly evolving landscape of cellular immunotherapy, encompassing chimeric antigen receptor (CAR) T cells, T cell receptor (TCR)-engineered T cells, tumor-infiltrating lymphocytes (TILs), dendritic cell (DC) vaccines, natural killer (NK) cell-based therapies, and macrophage-directed strategies. We delineate the mechanistic foundations underlying each modality, summarize clinical outcomes across both hematologic malignancies and solid tumors, and critically evaluate therapeutic performance in the context of treatment-associated toxicities, resistance mechanisms, and barriers to durable response. Furthermore, we highlight emerging next-generation strategies designed to mitigate antigen escape, overcome immunosuppressive tumor microenvironments, and address challenges related to manufacturing, scalability, and accessibility. Collectively, these advances establish cell-based immunotherapies as a central component of precision oncology, with expanding potential to deliver durable and broadly accessible clinical benefit across diverse cancer types.",
+        "source": "PubMed",
+        "doi": "10.1038/s41401-026-01811-y",
+        "keyword": "NK cell therapy",
+        "title_ja": "細胞ベースのがん免疫療法：マイルストーン、メカニズムの洞察、そして新たな治療の方向性",
+        "summary_ja": "本レビューは、細胞ベースのがん免疫療法の進展を包括的にまとめたものである。対象は、CAR-T細胞、TCR改変T細胞、腫瘍浸潤リンパ球（TIL）、樹状細胞（DC）ワクチン、NK細胞療法、マクロファージ戦略など多岐にわたる。各モダリティのメカニズム、血液がん・固形がんにおける臨床成績、治療関連毒性、耐性機構、持続的応答への障壁を評価。さらに、抗原逃避や免疫抑制性腫瘍微小環境の克服、製造・拡張性・アクセス性の課題に対応する次世代戦略を提示する。これらの進歩により、細胞ベース免疫療法は精密腫瘍学の中核をなし、多様ながん種への持続的かつ広範な臨床効果の提供が期待される。"
+      },
+      {
+        "title": "Elotuzumab enhances the anti-tumor activity of Vγ9Vδ2 T cells against primary effusion lymphoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42081990/",
+        "abstract": "Primary Effusion Lymphoma (PEL) is an aggressive B-cell lymphoma with no standard treatment. Vγ9Vδ2 T cells contribute to tumor eradication but have limited cytotoxicity on their own. Elotuzumab (Elo), an anti-SLAMF7 monoclonal antibody approved for multiple myeloma, primarily acts through NK cells; however, its direct effect on γδ T cells has not been reported. In this study, we examined whether Elo enhances γδ T cell cytotoxicity against PEL. We found that SLAMF7 is expressed on both PEL cells and γδ T cells. Elo treatment significantly increased γδ T cell cytotoxicity and degranulation, and these effects were prevented by Fc receptor blockade or by Fc-deficient Elo, indicating an antibody-dependent cellular cytotoxicity (ADCC) mechanism. Our findings demonstrate for the first time that Elo directly boosts γδ T cell anti-tumor activity against PEL, offering novel preclinical evidence for combining Elo with γδ T cell therapy as a potential treatment strategy for this intractable lymphoma.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ejphar.2026.178922",
+        "keyword": "NK cell therapy",
+        "title_ja": "エロツズマブは、原発性滲出性リンパ腫に対するVγ9Vδ2 T細胞の抗腫瘍活性を増強する。",
+        "summary_ja": "本論文は、標準治療が確立されていない進行性B細胞リンパ腫であるPrimary Effusion Lymphoma（PEL）に対する新たな治療戦略を検討したものである。Vγ9Vδ2 T細胞は腫瘍排除に寄与するが、単独では細胞傷害活性が限定的である。多発性骨髄腫に承認されている抗SLAMF7モノクローナル抗体エロツズマブ（Elo）は主にNK細胞を介して作用するが、γδ T細胞への直接効果は未報告であった。本研究では、PEL細胞とγδ T細胞の両方にSLAMF7が発現していることを確認し、Elo処理によりγδ T細胞の細胞傷害活性と脱顆粒が有意に亢進することを示した。この効果はFc受容体遮断またはFc欠損Eloにより抑制され、抗体依存性細胞傷害（ADCC）機構によることが明らかとなった。本知見は、Eloがγδ T細胞の抗腫瘍活性を直接増強する初めての報告であり、Eloとγδ T細胞療法の併用が難"
+      },
+      {
+        "title": "Pancreatic metastases are suppressed by photodynamic therapy and irinotecan through macrophage reprogramming in immunodeficient mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42061234/",
+        "abstract": "Pancreatic ductal adenocarcinoma (PDAC) exhibits early metastatic dissemination, dense desmoplastic stroma, and significant resistance to therapy. Our previous studies have shown that photodynamic therapy (PDT) combined with chemotherapy reduces the incidence of distant metastases in immunodeficient mouse models of PDAC. Given the absence of functional T cells in these models, we wondered why a local treatment reduced distant metastases. We hypothesized that the innate immune mechanisms, particularly macrophages, mediate the antimetastatic effects of PDT-chemotherapy combinations. To test this hypothesis, orthotopic xenograft tumors derived from metastatic human AsPC-1 PDAC cells were established in nude Swiss mice, and PDT with nanoliposomal irinotecan (nal-IRI) was evaluated in both pre-metastatic and advanced metastatic stages. In the pre-metastatic setting, combination therapy resulted in significant tumor regression, decreased stromal collagen, and reprogramming of TAMs from immunosuppressive to a pro-inflammatory phenotype. It increased natural killer (NK) cell recruitment and granzyme B-mediated cytotoxicity. In the advanced metastatic model, in which treatment was initiated after metastasis was established, a similar dominance of pro-inflammatory macrophage polarization was observed compared to pretreatment. However, these effects were less pronounced than observed with early intervention. Given the lack of pronounced polarization effects with either monotherapy alone, these findings suggest that PDT, when combined with nal-IRI, induces antitumor and antimetastatic responses by remodeling innate immunity, even in the absence of adaptive T-cell activity. It also supports macrophage polarization as a key mechanism underlying PDT-nal-IRI combination therapeutic increase both in local and distant tumor burden.",
+        "source": "PubMed",
+        "doi": "10.1016/j.neo.2026.101311",
+        "keyword": "NK cell therapy",
+        "title_ja": "免疫不全マウスにおいて、光線力学療法とイリノテカンはマクロファージの再プログラミングを介して膵臓転移を抑制する。",
+        "summary_ja": "膵管腺癌（PDAC）は早期転移と治療抵抗性を示す。免疫不全マウスモデルにおいて、光線力学療法（PDT）と化学療法の併用が遠隔転移を抑制する機序を、マクロファージを介した自然免疫の観点から検討した。ヒトAsPC-1細胞を用いた同所性異種移植腫瘍に対し、ナノリポソームirinotecan（nal-IRI）とPDTを併用した結果、前転移段階では腫瘍退縮、間質コラーゲン減少、腫瘍関連マクロファージ（TAM）の免疫抑制型から炎症促進型への再プログラム化、NK細胞の動員とgranzyme B依存性細胞傷害の増加が認められた。転移成立後の進行期モデルでも同様のTAM極性化が観察されたが、効果は減弱した。単剤治療では顕著な極性化は見られず、PDTとnal-IRIの併用は、適応免疫が欠如した状態でも自然免疫を再編成し、抗腫瘍・抗転移効果を発揮することが示された。TAM極性化が本併用療法の局所および遠隔腫瘍抑"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Recombinant humanized type III collagen attenuates recurrent spontaneous abortion by regulating stromal cell decidualization and reinforcing protective immune microenvironment at the maternal-fetal interface.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42143931/",
+        "abstract": "Recurrent spontaneous abortion (RSA), the common early pregnancy complication, remains elusive in its pathogenesis and treatment. Recombinant humanized type III collagen (rhCOLIII), a novel biomaterial, has demonstrated efficacy in treating various diseases. However, the role of rhCOLIII in RSA is unclear. This study aimed to explore the therapeutic potential and underlying mechanisms of rhCOLIII in RSA at single-cell resolution.",
+        "source": "PubMed",
+        "doi": "10.1016/j.intimp.2026.116836",
+        "keyword": "NK cell therapy",
+        "title_ja": "遺伝子組換えヒト化III型コラーゲンは、間質細胞の脱落膜化を調節し、母胎界面における保護的免疫微小環境を強化することにより、反復性自然流産を軽減する。",
+        "summary_ja": "本研究旨在探索重组人源化III型胶原蛋白（rhCOLIII）对复发性流产（RSA）的治疗潜力及其机制。RSA是常见早期妊娠并发症，其发病机制与治疗手段尚不明确。rhCOLIII作为一种新型生物材料，已在多种疾病中显示疗效，但在RSA中的作用未知。通过单细胞分辨率分析，研究发现rhCOLIII可调节基质细胞蜕膜化，并增强母胎界面的保护性免疫微环境，从而改善妊娠结局。该研究为rhCOLIII在RSA治疗中的应用提供了新见解。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "The updated role of exosomes in cancer diagnosis and therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42149292/",
+        "abstract": "Exosomes are nanoscale extracellular vesicles secreted by cells via endosomal pathways. They mediate intercellular communication by transporting bioactive molecules, including proteins, lipids, and nucleic acids. During tumorigenesis, exosomes critically participate in multiple oncogenic processes, including metastatic dissemination, immune evasion, tumor microenvironment remodeling, angiogenesis, and the development of chemoresistance. Comprehensive characterization and molecular profiling of vesicular surface epitopes are essential for tracing their origins. These membrane-bound biomarkers not only facilitate precise vesicle classification but also enable the selective enrichment of tissue-specific molecular signatures that are crucial for targeted therapeutic applications. Accumulating evidence indicates that tumor-derived exosomes have emerged as promising diagnostic biomarkers with exceptional specificity, while their intrinsic biocompatibility and cargo-loading capacity confer transformative potential for next-generation drug delivery platforms. This review critically examines exosome roles in tumor biology. It highlights clinical applications in oncology. We focus on exosome biomarkers in liquid biopsy, engineered exosomes for drug delivery, and pharmacological or genetic strategies targeting exosome biogenesis.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05193-9",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームのがん診断と治療における最新の役割",
+        "summary_ja": "エクソソームは、細胞がエンドソーム経路を介して分泌するナノサイズの細胞外小胞であり、タンパク質、脂質、核酸などの生体分子を運搬して細胞間コミュニケーションを仲介する。腫瘍形成において、エクソソームは転移、免疫回避、腫瘍微小環境リモデリング、血管新生、薬剤耐性などの発癌プロセスに重要な役割を果たす。表面エピトープの特性解析と分子プロファイリングは、その起源追跡に必須であり、膜結合バイオマーカーは小胞分類や組織特異的分子シグネチャーの選択的濃縮を可能にし、標的治療に貢献する。腫瘍由来エクソソームは、高い特異性を持つ診断バイオマーカーとして有望であり、生体適合性とカーゴ搭載能から次世代薬物送達プラットフォームへの応用が期待される。本総説は、エクソソームの腫瘍生物学における役割を検討し、リキッドバイオプシーでのバイオマーカー、薬物送達のための工学的エクソソーム、エクソソーム生合成を標的とする薬理学"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "BMSC-Derived Exosomal miR-874-3p Protects against OGD/R-Induced Neuronal Injury in PC12 Cells via Regulating KPNA4.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42149376/",
+        "abstract": "Sciatic nerve injury was considered to be one of the most common peripheral nerve injuries, posing a major threat to patients. miR-874-3p previously reported to modulate key biological processes including cell proliferation, immune response, and apoptosis. However, its specific role and underlying mechanism in sciatic nerve injury remain largely uncharacterized. In this study, we demonstrated that exosomal miR‑874‑3p derived from bone marrow mesenchymal stem cells (BMSCs) alleviates key pathological features of sciatic nerve injury in a cellular model.",
+        "source": "PubMed",
+        "doi": "10.1007/s11064-026-04768-w",
+        "keyword": "Exosomes",
+        "title_ja": "BMSC由来エクソソームmiR-874-3pはKPNA4を調節することでPC12細胞におけるOGD/R誘発神経損傷を保護する",
+        "summary_ja": "本論文は、骨髄間葉系幹細胞（BMSC）由来のエクソソーム中miR-874-3pが、坐骨神経損傷の細胞モデル（PC12細胞におけるOGD/R誘発神経損傷）において保護的役割を果たすことを示した。miR-874-3pは細胞増殖、免疫応答、アポトーシスに関与することが知られるが、坐骨神経損傷における機能は未解明であった。本研究では、BMSC由来エクソソームがmiR-874-3pを介してKPNA4を制御し、神経細胞死を抑制することを明らかにした。これにより、miR-874-3pが坐骨神経損傷治療の新たな標的となる可能性が示唆された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Engineered small extracellular vesicles provide low-dose salidroside delivery to attenuate retinal ganglion cell degeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41999785/",
+        "abstract": "Optic neuropathy is characterized by impaired optic nerve function resulting from various pathological processes, often leading to retinal ganglion cell (RGC) degeneration and irreversible vision loss. Several studies have demonstrated the neuroprotective effects of salidroside (Sal). However, its clinical application has been limited by the high dosage required and the short half-life of Sal. To enhance drug efficacy and prolong therapeutic effects, we developed engineered small extracellular vesicles (sEVs) loaded with Sal (sEVs-Sal) for intravitreal administration in a mouse model of optic nerve crush (ONC). Our findings demonstrate that sEV-mediated low-dose Sal administration significantly enhanced visual functional recovery in ONC mice by mitigating RGC degeneration and inhibiting microglial activation. Proteomic profiling indicated that sEVs-Sal concurrently modulate both the TNF-α/IL-1β inflammatory axis and the Caspase-3/Bcl-2 apoptotic pathway, thereby conferring dual anti-inflammatory and antiapoptotic effects. This study establishes an efficient sEV-based drug delivery platform and highlights the considerable therapeutic potential of sEVs-Sal in the treatment of optic nerve injury. By addressing the pharmacokinetic limitations of free Sal and augmenting neuroprotection, this nanoformulation represents a promising translational strategy for optic neuropathies.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ejps.2026.107532",
+        "keyword": "sEVs",
+        "title_ja": "工学的小細胞外小胞による低用量サリドロシド送達が網膜神経節細胞変性を抑制する",
+        "summary_ja": "視神経症は網膜神経節細胞（RGC）変性を伴い不可逆的な視力喪失を引き起こす。サリドロシド（Sal）には神経保護効果があるが、高用量と短い半減期が臨床応用の障壁となっている。本研究では、Salを搭載した工学的な小型細胞外小胞（sEVs-Sal）を開発し、マウス視神経挫滅（ONC）モデルに硝子体内投与した。その結果、低用量のsEVs-Sal投与により、RGC変性の抑制とミクログリア活性化の阻害を介して視機能回復が有意に促進された。プロテオミクス解析により、sEVs-SalはTNF-α/IL-1β炎症軸とCaspase-3/Bcl-2アポトーシス経路を同時に調節し、抗炎症・抗アポトーシスの二重効果を発揮することが示された。本ナノ製剤は、遊離Salの薬物動態学的限界を克服し、神経保護を増強するため、視神経損傷治療における有望なトランスレーショナル戦略となる。"
+      },
+      {
+        "title": "Small extracellular vesicles as biomarkers and therapeutic targets in breast Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41933680/",
+        "abstract": "Small extracellular vesicles (sEVs) represent a novel frontier in oncology, functioning as critical mediators of intercellular communication that profoundly influence the biology of breast cancer. These nano-sized particles, typically ranging from 30 to 200 nm in diameter, are released by virtually all cell types into the extracellular space and circulate in biofluids like blood, urine, and saliva. Encased within a lipid bilayer, sEVs carry a complex molecular payload including proteins, lipids, various nucleic acids like microRNAs (miRNAs) and long non-coding RNAs (lncRNAs), and metabolites that reflects the physiological or pathological state of their parent cell. In the context of breast cancer, these vesicles are not merely cellular debris but are active participants in orchestrating tumor progression, shaping the tumor microenvironment (TME), facilitating metastasis, and mediating resistance to therapies. This dual nature positions sEVs at the heart of precision medicine, offering immense potential as minimally invasive \"liquid biopsies\" for real-time diagnosis, prognosis, and treatment monitoring, while simultaneously presenting themselves as powerful tools for targeted therapeutic intervention. This review provides a comprehensive investigation into the multifaceted roles of sEVs in breast cancer, examining their applications as biomarkers and therapeutic targets across all major subtypes, integrating insights on underlying biological mechanisms, and critically evaluating their path toward clinical translation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cca.2026.120989",
+        "keyword": "sEVs",
+        "title_ja": "乳がんにおけるバイオマーカーおよび治療標的としての小型細胞外小胞",
+        "summary_ja": "小型細胞外小胞（sEVs）は、乳癌生物学に深く関与する細胞間通信の重要なメディエーターである。直径30～200nmのナノ粒子で、血液や尿などの体液中に存在し、親細胞の状態を反映するタンパク質、脂質、miRNAやlncRNAなどの核酸を内包する。乳癌においてsEVsは、腫瘍進行、微小環境形成、転移、治療抵抗性を能動的に調節する。この二面性から、低侵襲な液体生検として診断・予後・治療モニタリングに活用可能であり、同時に標的治療ツールとしても有望である。本総説は、全主要サブタイプにおけるsEVsのバイオマーカーおよび治療標的としての応用を、生物学的メカニズムと臨床応用への課題とともに包括的に検討する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を簡潔にまとめます。\n\n1. **CAR操作好中球（CAR-Neuts）の新展開**  \n   CAR-T細胞療法の固形腫瘍への浸潤能や効果の限界を克服するため、iPS細胞由来のCAR-Neutsが注目されています。好中球は腫瘍への迅速な浸潤と強力な細胞傷害能を持ち、新たな細胞免疫療法のフロンティアとして期待されます。\n\n2. **エクソソーム・sEVsによるがん診断・治療の進展**  \n   エクソソームは腫瘍形成、転移、免疫回避に関与し、バイオマーカーや治療標的として有望です。特に乳癌ではsEVsが診断・治療の新たなツールとして研究が進んでいます。\n\n3. **膵臓癌におけるペプチドの統合的モジュレーターとしての可能性**  \n   5年生存率13.3%と極めて予後不良な膵臓癌に対し、ペプチドが革新的バイオマーカーや予後指標として期待されています。KRASなどの遺伝子変異と間質デスモプラジアを標的とした新たな治療戦略が模索されています。\n\n4. **光線力学療法と化学療法の併用による膵臓癌転移抑制**  \n   免疫不全マウスモデルにおいて、PDTとイリノテカンの併用がマクロファージ再プログラミングを介して遠隔転移を抑制する機序が明らかになりました。自然免疫を活用した新たな治療アプローチとして注目されます。\n\n5. **工学的sEVsによる低用量サリドロシド送達と神経保護**  \n   網膜神経節細胞変性に対し、サリドロシド搭載sEVsが低用量で効果的な神経保護を実現。高用量・短半減期という従来の課題を克服し、視神経症治療への応用が期待されます。\n\nこれらの研究は、細胞間コミュニケーションや免疫機構を活用した次世代治療の基盤を築くものです。"
+}

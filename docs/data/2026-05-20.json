@@ -1,0 +1,196 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Converging neurotrophic-immune signaling in autism spectrum disorder: integrative roles of klotho, GDNF/GFRA-1, IGF-1 and GLP-1 pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42154377/",
+        "abstract": "Autism spectrum disorder (ASD) is a heterogeneous neurodevelopmental condition characterized by deficits in social communication and restricted, repetitive behaviors. Although traditionally linked to synaptic protein dysfunction and neurotransmitter imbalance, growing evidence suggests that broader intracellular signaling networks critically regulate the neurodevelopmental processes disrupted in ASD. This review synthesizes current evidence on four interconnected signaling pathways-Klotho, GDNF/GFRA-1, IGF-1, and GLP-1-and examines their potential roles in ASD pathophysiology within a unified mechanistic framework. These pathways regulate fundamental processes, including neuronal survival, synaptogenesis, dendritic maturation, myelination, modulation of oxidative stress, neuroinflammation, and metabolic homeostasis. Importantly, they converge on shared intracellular cascades such as PI3K/Akt, MAPK/ERK, mTOR, and Wnt/β-catenin, which are increasingly implicated in ASD-related abnormalities in synaptic plasticity and circuit organization. Experimental models demonstrate that dysregulation of these signaling systems can impair hippocampal function, alter excitatory-inhibitory balance, and disrupt structural connectivity. Among them, IGF-1 has shown promising translational potential in clinical trials for syndromic ASD, while GLP-1 receptor agonists and Klotho modulation represent emerging therapeutic avenues. The GDNF/GFRA-1 axis further highlights the importance of trophic support in maintaining synaptic integrity and neuronal resilience. By integrating molecular, preclinical, and clinical findings, this review proposes that convergent dysregulation of trophic and metabolic signaling pathways may contribute to ASD heterogeneity. A systems-level understanding of these interconnected mechanisms may facilitate biomarker development and support the advancement of stratified, pathway-targeted therapeutic strategies.",
+        "source": "PubMed",
+        "doi": "10.1007/s11011-026-01866-0",
+        "keyword": "Klotho",
+        "title_ja": "自閉スペクトラム症における神経栄養-免疫シグナルの収束：クロトー、GDNF/GFRA-1、IGF-1、GLP-1経路の統合的役割",
+        "summary_ja": "自閉症スペクトラム障害（ASD）は、社会的コミュニケーション障害と反復行動を特徴とする神経発達障害である。本レビューは、Klotho、GDNF/GFRA-1、IGF-1、GLP-1の4つのシグナル伝達経路に着目し、ASD病態生理における役割を統合的に検討する。これらの経路は、神経生存、シナプス形成、樹状突起成熟、髄鞘形成、酸化ストレス調節、神経炎症、代謝恒常性を制御し、PI3K/Akt、MAPK/ERK、mTOR、Wnt/β-カテニンなどの共通細胞内カスケードに収束する。実験モデルでは、これらの経路の異常が海馬機能障害、興奮-抑制バランスの変化、構造的結合性の破綻を引き起こす。IGF-1は症候群性ASDの臨床試験で有望な結果を示し、GLP-1受容体作動薬やKlotho調節は新たな治療戦略として注目される。本レビューは、栄養因子と代謝シグナルの収束的異常がASDの不均一性に寄与し、システムレ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Progress in Adoptive Cell Therapy for Advanced Gastric Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42152534/",
+        "abstract": "Although great progress has been achieved in radiotherapy,chemotherapy,and molecular targeted therapy for gastric cancer in recent years,the clinical benefits for patients with gastric cancer are very limited due to the high heterogeneity of gastric cancer.As the research on the immune microenvironment and the progression mechanism of solid cancers keeps advancing,accumulating evidence indicates that adoptive cell transfer therapy (ACT),as a novel precision therapy,holds important potential clinical applications in solid tumors such as gastric cancer.Chimeric antigen receptor T cell (CAR-T) therapy,T cell receptor-engineered T cell (TCR-T) therapy,natural killer (NK) cell therapy,etc.can inhibit the proliferation and metastasis of gastric cancer cells by conjugating specific antigen recognition components with T cells,genetically engineering T cells,and expanding and reinfusing NK cells in vitro.They exhibit particularly favorable therapeutic effects in patients with unresectable and metastatic gastric cancer.This article reviews the therapeutic principles,classification,main targets,and current treatment status of ACT and explores the opportunities and challenges it faces in the precision treatment of advanced gastric cancer,aiming to provide new ideas for the clinical treatment of gastric cancer.",
+        "source": "PubMed",
+        "doi": "10.3881/j.issn.1000-503X.16660",
+        "keyword": "NK cell therapy",
+        "title_ja": "進行性胃癌に対する養子細胞療法の進歩",
+        "summary_ja": "近年、胃癌に対する放射線・化学・分子標的療法は進歩したが、高い異質性により臨床効果は限定的である。固形癌の免疫微小環境と進行機構の研究が進む中、新たな精密療法として養子細胞移入療法（ACT）が注目されている。キメラ抗原受容体T細胞（CAR-T）療法、T細胞受容体改変T細胞（TCR-T）療法、ナチュラルキラー（NK）細胞療法などは、特異的抗原認識成分とT細胞の結合、遺伝子改変、NK細胞の体外増幅・再輸注により胃癌細胞の増殖・転移を抑制し、切除不能・転移性胃癌に特に有効である。本稿はACTの治療原理、分類、主要標的、現状を概説し、進行胃癌の精密治療における機会と課題を考察し、新たな治療アイデアを提供する。"
+      },
+      {
+        "title": "Preclinical and clinical studies on CAR-NK cell therapy: latest update from 2025 ASH Annual Meeting.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42152051/",
+        "abstract": "Chimeric antigen receptor-engineered natural killer (CAR-NK) cells are emerging as an off-the-shelf immunotherapy for hematologic malignancies, supported by early clinical data and a favorable safety profile. Compared with CAR-T therapy, CAR-NK cells offer the potential for scalable allogeneic manufacturing with reduced toxicity while retaining antitumor activity. However, challenges such as limited in vivo persistence, immunosuppressive tumor microenvironments, and variable durability of responses remain. This summary highlights recent preclinical and clinical advances in CAR-NK cell therapy reported at the 2025 ASH Annual Meeting, focusing on engineering strategies to enhance NK-cell fitness and early trial results demonstrating efficacy with manageable toxicity.",
+        "source": "PubMed",
+        "doi": "10.1186/s40164-026-00780-6",
+        "keyword": "NK cell therapy",
+        "title_ja": "CAR-NK細胞療法の前臨床および臨床研究：2025年ASH年次総会からの最新情報",
+        "summary_ja": "2025年ASH年次総会で報告されたCAR-NK細胞療法の最新知見を要約する。キメラ抗原受容体改変ナチュラルキラー（CAR-NK）細胞は、血液悪性腫瘍に対する既製免疫療法として注目され、早期臨床データと良好な安全性プロファイルが示されている。CAR-T療法と比較し、CAR-NK細胞は同種異系製造の拡張性と低毒性を有しつつ抗腫瘍活性を維持する。一方、生体内持続性の限界、免疫抑制性腫瘍微小環境、応答の持続性のばらつきが課題である。本総説では、NK細胞機能を向上させる工学的戦略と、管理可能な毒性下での有効性を示す初期臨床試験結果に焦点を当てる。"
+      },
+      {
+        "title": "Features of tumor microenvironment in HER2-positive urothelial carcinoma and its implications for immunotherapy resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42151849/",
+        "abstract": "HER2 overexpression or ERBB2 amplification represents an important molecular feature of urothelial carcinoma (UC) and has been associated with differential responses to immune checkpoint inhibitors (ICIs). However, the tumor microenvironmental (TME) features associated with HER2-defined UC and their potential relationship with ICI responsiveness remain incompletely characterized.",
+        "source": "PubMed",
+        "doi": "10.1186/s12885-026-16157-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "HER2陽性尿路上皮癌における腫瘍微小環境の特徴と免疫療法抵抗性への影響",
+        "summary_ja": "タイトル：HER2陽性尿路上皮癌における腫瘍微小環境の特徴と免疫療法抵抗性への示唆\n\nHER2過剰発現またはERBB2増幅は尿路上皮癌（UC）の重要な分子特徴であり、免疫チェックポイント阻害剤（ICI）への反応性の差異と関連する。しかし、HER2で定義されるUCに伴う腫瘍微小環境（TME）の特徴と、ICI応答性との潜在的関係は十分に解明されていない。本論文では、HER2陽性UCのTME特性を解析し、免疫療法抵抗性への影響を考察する。"
+      },
+      {
+        "title": "Tumor-derived type IX collagen regulates dormancy in triple-negative breast cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42151242/",
+        "abstract": "Metastasis and recurrence of triple-negative breast cancer (TNBC), are mainly attributed to the presence of dormant cancer cells (DCCs), yet the molecular mechanisms governing the maintenance and reactivation of DCC dormancy remain poorly elucidated. This study identified collagen IX alpha 1 chain (Col9a1) as a gene specifically expressed in TNBC dormant cells and confirmed that it is a key molecule sustaining DCC dormancy. Mechanistic studies revealed that COL9A1 sustains TNBC cell dormancy by suppressing the FAK-AKT-p27 signaling axis, thereby inducing G0/G1 cell cycle arrest. Col9a1 knockdown reactivates DCCs, and the reactivated cells recruit natural killer (NK) cells by upregulating retinoic acid early inducible 1γ (RAE-1γ) and secreting proinflammatory cytokines (IL-15/IL-18), thus abrogating the immune evasion capacity of DCCs and enhancing the chemosensitivity of reactivated TNBC cells to docetaxel. This study uncovers a novel mechanism by which COL9A1 regulates TNBC cell dormancy, indicating that COL9A1 can serve as a potential biomarker for assessing the dormant phenotype of TNBC and predicting tumor recurrence, as well as a novel therapeutic target for TNBC. This study also provides preclinical evidence for developing COL9A1-targeted combination therapies for TNBC.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-49687-6",
+        "keyword": "NK cell therapy",
+        "title_ja": "腫瘍由来のIX型コラーゲンはトリプルネガティブ乳癌細胞の休眠を制御する",
+        "summary_ja": "トリプルネガティブ乳癌（TNBC）の転移・再発は休眠がん細胞（DCC）に起因するが、その分子機構は不明である。本研究は、TNBC休眠細胞に特異的に発現するCol9a1（COL9A1）を同定し、DCC休眠維持の鍵分子であることを確認した。COL9A1はFAK-AKT-p27シグナル軸を抑制しG0/G1期停止を誘導することで休眠を維持する。Col9a1ノックダウンはDCCを再活性化し、RAE-1γの上方制御とIL-15/IL-18分泌によりNK細胞を動員、免疫回避能を消失させ、ドセタキセルへの感受性を高めた。本知見はCOL9A1がTNBC休眠表現型のバイオマーカー、再発予測因子、新規治療標的となり得ることを示し、COL9A1標的併用療法の前臨床的根拠を提供する。"
+      },
+      {
+        "title": "Nanoplastics impair antitumor NK and CD8⁺ T cell cytotoxicity and antiviral B cell antibody responses to SARS-CoV-2.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42151232/",
+        "abstract": "Nanoplastics are pervasive environmental contaminants that continuously expose humans and accumulate in multiple organs. Increasing evidence associates NPs with adverse health effects, including inflammation and carcinogenesis, yet their impact on human innate and adaptive immunity remains poorly understood. This knowledge gap is particularly relevant for diseases treated with therapies that modulate immune responses. Here, we investigated the effects of NP exposure on major subsets of human peripheral lymphocytes, essential for antitumor and antiviral defense while preserving immune tolerance. Peripheral blood mononuclear cells from healthy donors were exposed to oxidized and plasma-exposed NPs, which acquired a stable protein corona. NP exposure induced a time-dependent increase in immune cell interactions and resulted in reduced activation and functionality of CD4⁺ and CD8⁺ T cells, B cells, and natural killer cells. T lymphocytes displayed impaired tumor antigen-specific responses, while natural killer cells showed decreased tumor cell-killing capacity. Notably, B cells internalized NPs, leading to reduced ability to generate antibodies against SARS-CoV-2. Overall, these findings demonstrate that NPs compromise both innate and adaptive immune functions, weakening antiviral and antitumor responses. Our results highlight potential risks associated with NP exposure for susceptibility to infections and cancer as well as immune-based therapy efficacy.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-51193-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "ナノプラスチックが抗腫瘍NK細胞およびCD8⁺T細胞の細胞傷害活性と、SARS-CoV-2に対する抗ウイルスB細胞抗体応答を損なう",
+        "summary_ja": "本論文は、ナノプラスチック（NPs）がヒトの免疫機能に与える影響を調査した。NPsは環境中に広く存在し、臓器に蓄積するが、自然免疫と獲得免疫への影響は不明である。健常者の末梢血単核球を酸化・血漿曝露したNPsに曝露した結果、NPsは安定なタンパク質コロナを形成し、免疫細胞との相互作用が時間依存的に増加した。CD4⁺・CD8⁺ T細胞、B細胞、NK細胞の活性化と機能が低下し、T細胞の腫瘍抗原特異的応答、NK細胞の腫瘍細胞殺傷能が減弱した。さらに、B細胞はNPsを内部化し、SARS-CoV-2に対する抗体産生能が低下した。これらの結果は、NPsが自然免疫と獲得免疫の両方を損ない、抗ウイルス・抗腫瘍応答を弱めることを示し、感染症や癌への感受性、免疫療法の効果にリスクをもたらす可能性を示唆する。"
+      },
+      {
+        "title": "Network toxicology and bioinformatics analysis predict potential molecular targets and mechanisms by which sevoflurane and propofol influence type 2 diabetes mellitus.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42149890/",
+        "abstract": "Sevoflurane and propofol are commonly used anesthetics that may exert pronounced effects on glucose metabolism and cardiovascular function in patients with type 2 diabetes mellitus (T2DM). This study aimed to elucidate the molecular mechanisms underlying the association of sevoflurane and propofol with T2DM progression.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.pone.0349565",
+        "keyword": "NK cell therapy",
+        "title_ja": "ネットワーク毒性学とバイオインフォマティクス解析による、セボフルランとプロポフォールが2型糖尿病に影響を与える潜在的な分子標的とメカニズムの予測",
+        "summary_ja": "本論文は、セボフルランとプロポフォールが2型糖尿病（T2DM）患者の糖代謝や心血管機能に影響を与える分子メカニズムを、ネットワーク毒性学とバイオインフォマティクス解析を用いて予測した研究である。両麻酔薬とT2DM進行の関連を標的遺伝子やシグナル経路の観点から解析し、共通および特異的な分子標的を同定した。結果は、これらの麻酔薬が炎症応答やインスリンシグナル伝達経路などを介してT2DMに影響を及ぼす可能性を示唆している。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Thyroid cancer-derived exosomal SPP1 promotes tumor progression by driving macrophage M2 polarization through the CD44/JAK2/STAT3 signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42153613/",
+        "abstract": "While secreted phosphoprotein 1 (SPP1) drives macrophage M2 polarization and cancer progression in multiple malignancies, its role in thyroid cancer remains poorly understand. This study investigated the roles and mechanisms of thyroid cancer-derived exosomal SPP1 in regulating macrophage M2 polarization and malignant progression in thyroid cancer.",
+        "source": "PubMed",
+        "doi": "10.1080/15476278.2026.2670152",
+        "keyword": "Exosomes",
+        "title_ja": "甲状腺がん由来のエクソソームSPP1は、CD44/JAK2/STAT3シグナル経路を介してマクロファージのM2分極を促進し、腫瘍の進行を促進する。",
+        "summary_ja": "甲状腺がん由来のエクソソームに含まれる分泌型リン酸化タンパク質1（SPP1）は、CD44/JAK2/STAT3シグナル経路を介してマクロファージのM2分極を誘導し、腫瘍の悪性進行を促進することが明らかとなった。本研究では、甲状腺がんにおけるSPP1の役割とその分子機構を解析。エクソソームを介したSPP1の伝達が、腫瘍微小環境での免疫抑制を促進し、がんの増殖・転移を亢進させることを示した。"
+      },
+      {
+        "title": "Application of exosomes derived from human umbilical cord stem cells in the treatment of ovalbumin-induced allergic asthma in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42152079/",
+        "abstract": "This study investigated the therapeutic potential of exosomes derived from human umbilical cord mesenchymal stem cells (hUCMSCs-exos) in an Ovalbumin (OVA) -induced mouse model of allergic asthma, comparing their efficacy to budesonide, a standard asthma treatment. hUCMSCs-exos were characterized by their typical morphology, size, and marker expression (CD9, CD63, and HSP70) using transmission electron microscopy (TEM), Nanosight 300, and Western blot analysis.",
+        "source": "PubMed",
+        "doi": "10.1186/s42826-026-00280-y",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト臍帯幹細胞由来エクソソームの卵白アルブミン誘発マウスアレルギー性喘息治療への応用",
+        "summary_ja": "本研究では、卵白アルブミン（OVA）誘発アレルギー性喘息マウスモデルにおいて、ヒト臍帯間葉系幹細胞由来エクソソーム（hUCMSCs-exos）の治療効果を検討し、標準治療薬ブデソニドと比較した。hUCMSCs-exosは、透過型電子顕微鏡（TEM）、Nanosight 300、ウェスタンブロット解析により、典型的な形態、サイズ、およびマーカー発現（CD9、CD63、HSP70）が確認された。"
+      },
+      {
+        "title": "Hypoxia-pretreated exosomes promote enterocutaneous fistula healing via regulating inflammation and tissue repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42151796/",
+        "abstract": "Enterocutaneous fistula (ECF) is an abnormal pathological passage. This study aims to investigate the role and mechanism of action of gelatin sponges loaded with hypoxic exosomes (GS-Hypo-Exos) in the treatment of enterocutaneous fistulas.",
+        "source": "PubMed",
+        "doi": "10.1186/s12860-026-00592-w",
+        "keyword": "Exosomes",
+        "title_ja": "低酸素前処理エクソソームは炎症調節と組織修復を介して腸皮瘻の治癒を促進する",
+        "summary_ja": "腸皮膚瘻（ECF）は異常な病理学的通路である。本研究は、低酸素エクソソームを搭載したゼラチンスポンジ（GS-Hypo-Exos）のECF治療における役割と作用機序を解明することを目的とする。低酸素前処理したエクソソームは、炎症調節と組織修復を促進することで、ECF治癒を改善する可能性が示された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Aptamer-Targeted PrPC Drives Colorectal Cancer Metastasis via a LYN-STAT3 Complex and Enables Liquid Biopsy Detection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42154443/",
+        "abstract": "Colorectal cancer (CRC) poses a significant global health challenge, highlighting the need for better diagnostic tools and molecular targets. Compared to traditional antibodies, aptamers, which are single-stranded oligonucleotides with high affinity and low immunogenicity, offer an ideal platform for discovering novel biomarkers. Based on this approach, we used the Cell-SELEX strategy to develop a high-affinity aptamer-based probe, WHY-3E, which successfully identified the cellular prion protein (PrPC) as a key molecular target. We observed that PrPC was significantly upregulated in CRC tissues, strongly correlating with unfavorable clinical outcomes. Functionally, PrPC promotes malignant phenotypes, including migration and invasion, by regulating MSN. Mechanistically, we revealed that PrPC physically translocates from the cell surface to the cytoplasm via endocytosis. Once internalized, it interacts with the STAT3-NTD and LYN-SH domains, facilitating the ternary complex formation that enhances LYN-mediated STAT3 phosphorylation, ultimately increasing MSN transcriptional activity. Moreover, the deubiquitinase USP18 stabilizes PrPC by removing its Lys48-linked ubiquitin chains, ensuring the continuous activation of this oncogenic axis. Notably, the WHY-3E aptamer achieved 90.6% sensitivity and 89.0% specificity in detecting PrPC-positive circulating exosomes in patient cohorts. These findings deepen the mechanistic understanding of CRC progression and offer novel strategic avenues for PrPC-targeted aptamer applications in non-invasive diagnostics.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.75758",
+        "keyword": "Exosomes",
+        "title_ja": "アプタマー標的化PrPCはLYN-STAT3複合体を介して大腸癌転移を促進し、液体生検検出を可能にする。",
+        "summary_ja": "本論文では、大腸癌（CRC）の新規診断・治療標的として、アプタマーWHY-3Eを用いて同定された細胞プリオン蛋白質（PrPC）の役割を解明した。PrPCはCRC組織で高発現し、予後不良と相関した。機能的には、PrPCはエンドサイトーシスにより細胞表面から細胞質へ移行し、STAT3-NTDおよびLYN-SHドメインと三者複合体を形成、LYNを介したSTAT3リン酸化を促進し、MSN転写活性を亢進させることで浸潤・転移を誘導する。また、脱ユビキチン化酵素USP18がPrPCのK48ユビキチン鎖を除去し、本発癌経路を持続的に活性化する。臨床応用として、WHY-3Eアプタマーは患者血中PrPC陽性エクソソーム検出において感度90.6%、特異度89.0%を示し、非侵襲的液体生検への有用性が示された。"
+      },
+      {
+        "title": "Ribosomal RNA processing undergoes surveillance by the mRNA guard protein Npl3.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42154234/",
+        "abstract": "Ribosome production is an essential, but highly energy-demanding and complex cellular process. High-fidelity ribosome assembly is critical to ensure integrity of the proteome, and during their biogenesis, the pre-ribosomal subunits undergo surveillance so that defective complexes are removed. Currently, knowledge on the mechanisms of pre-ribosome quality control lag behind understanding of other RNA surveillance pathways. Interestingly, a family of \"guard proteins\" has been shown to monitor mRNA maturation in S. cerevisiae and act as maturation switches by either licensing ongoing biogenesis or, in case assembly defects are detected, recruiting components of the RNA degradation machinery. Here, we reveal association of the mRNA guard protein Npl3 with RNA polymerase I, the ribosomal DNA (rDNA) locus and early pre-ribosomal particles. Consistent with this, our data show that Npl3 is required for recruitment of a subset of ribosome assembly factors to the nascent pre-rRNA transcript, and we demonstrate a role for Npl3 in the turn-over of aberrant precursor ribosomal RNA (pre-rRNA). Aberrant pre-rRNAs polyadenylated by Trf5 are bound by Npl3, which in turn interacts with Air1 to recruit the RNA exosome for degradation. Thus, Npl3 is a multifunctional RNA surveillance factor, recognizing different types of aberrant pre-RNAs and promoting recruitment of the RNA degradation machinery to clear these transcripts.",
+        "source": "PubMed",
+        "doi": "10.1007/s00018-026-06246-6",
+        "keyword": "Exosomes",
+        "title_ja": "リボソームRNAプロセシングはmRNAガードタンパク質Npl3による監視を受ける",
+        "summary_ja": "リボソーム生合成は高エネルギー要求性の複雑な過程であり、その高忠実度はプロテオームの完全性に不可欠である。本研究では、mRNA監視タンパク質Npl3がS. cerevisiaeにおいてRNAポリメラーゼI、rDNA遺伝子座、および初期プレリボソーム粒子と結合することを明らかにした。Npl3は新生pre-rRNA転写産物へのリボソーム集合因子のリクルートに必要であり、異常なpre-rRNAのターンオーバーにも関与する。Trf5によりポリアデニル化された異常pre-rRNAはNpl3に結合され、Npl3はAir1と相互作用してRNAエクソソームをリクルートし分解を促進する。以上より、Npl3は多機能RNA監視因子であり、異なる種類の異常pre-RNAを認識し、RNA分解機構を動員してそれらを除去する。"
+      },
+      {
+        "title": "PMN-MDSCs-derived exosomal S100A9 drives breast cancer progression by enhancing cancer stemness and CXCL5-mediated metastatic potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42151127/",
+        "abstract": "Polymorphonuclear myeloid-derived suppressor cells (PMN-MDSCs) represent a critical subset of immunosuppressive cells within the tumor microenvironment. Their interaction with breast cancer stem cells (BCSCs) constitutes a vital link that drives the malignant progression of breast cancer, particularly in triple-negative breast cancer (TNBC). However, the precise molecular mechanisms through which these cells mediate BCSC-related stemness reprogramming and enhanced metastatic potential in breast cancer remain inadequately understood. In this study, PMN-MDSCs were isolated from mouse breast cancer solid tumor tissues. Functional characterization was conducted using flow cytometric phenotyping, nuclear morphology analysis, and T cell immunosuppressive function assays. In vivo tumorigenesis experiments confirmed their pro-tumor growth effects and enhanced tumor stem cell characteristics. Concurrently, the CD44",
+        "source": "PubMed",
+        "doi": "10.1038/s41420-026-03134-7",
+        "keyword": "Exosomes",
+        "title_ja": "PMN-MDSCs由来のエクソソームS100A9は、がん幹細胞性の亢進とCXCL5を介した転移能の増強により乳がんの進行を促進する",
+        "summary_ja": "PMN-MDSCs由来エクソソーム内のS100A9が、乳癌幹細胞（BCSCs）の幹細胞性を亢進し、CXCL5を介した転移能を促進する機構を解明。PMN-MDSCsは腫瘍微小環境における免疫抑制性細胞であり、特にトリプルネガティブ乳癌（TNBC）で悪性化を促進するが、その分子機構は不明であった。本研究では、マウス乳癌固形腫瘍組織からPMN-MDSCsを単離し、フローサイトメトリー、核形態解析、T細胞免疫抑制機能アッセイで特性評価。生体内腫瘍形成実験により、腫瘍増殖促進と幹細胞特性の亢進を確認。さらに、PMN-MDSCs由来エクソソーム中のS100A9がBCSCsのCD44発現を誘導し、幹細胞性を維持するとともに、CXCL5分泌を介して転移能を促進することを明らかにした。本知見は、TNBCにおけるPMN-MDSCsとBCSCsのクロストークの新たな分子基盤を提供する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Protocol for isolation and characterization of small extracellular vesicles from human menstrual fluid using size-exclusion chromatography.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42149715/",
+        "abstract": "Human menstrual fluid (MF) is rich in extracellular vesicles originating from peripheral blood components and local endometrial and immune cells. Here, we present a protocol to obtain MF-derived small extracellular vesicles (MF-sEVs) using dilution, low-speed centrifugation, filtration, and size-exclusion chromatography. We describe steps for characterizing pooled fractions by transmission electron microscopy (TEM), nanoparticle tracking analysis (NTA), and western blotting. This workflow yields high-quality MF-sEVs suitable for reproducible omics and functional assays, enabling robust biomarker discovery and therapeutic exploration in uterine disorders.",
+        "source": "PubMed",
+        "doi": "10.1016/j.xpro.2026.104573",
+        "keyword": "sEVs",
+        "title_ja": "サイズ排除クロマトグラフィーを用いたヒト月経血からの小型細胞外小胞の単離および特性評価のためのプロトコル",
+        "summary_ja": "本プロトコルは、ヒト月経液（MF）から小型細胞外小胞（MF-sEVs）を単離・特性評価する手法を提示する。MFは末梢血成分や子宮内膜・免疫細胞由来の細胞外小胞に富む。工程は、希釈、低速遠心、濾過、サイズ排除クロマトグラフィーを含む。得られたプール画分は、透過型電子顕微鏡（TEM）、ナノ粒子追跡分析（NTA）、ウェスタンブロッティングで特性評価される。本ワークフローは高品質のMF-sEVsを提供し、再現性のあるオミクス解析や機能アッセイを可能にし、子宮疾患におけるバイオマーカー発見や治療探索を促進する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **CAR-NK細胞療法の最新臨床知見（ASH 2025）**  \n   血液悪性腫瘍に対する既製免疫療法としてCAR-NK細胞が注目され、2025年ASH年次総会で早期臨床データと良好な安全性が報告されました。CAR-Tに比べサイトカイン放出症候群リスクが低く、オフ・ザ・シェルフ製剤として実用化が期待されます。今後の課題は固形腫瘍への応用と持続的な抗腫瘍効果の向上です。\n\n2. **ナノプラスチックの免疫毒性**  \n   環境中に広く存在するナノプラスチックが、NK細胞やCD8⁺T細胞の抗腫瘍細胞傷害能、さらにSARS-CoV-2に対するB細胞抗体応答を阻害することが示されました。免疫機能への影響は未知の領域であり、環境因子と免疫疾患・感染症リスクの関連を解明する上で極めて重要な知見です。\n\n3. **甲状腺がんエクソソームによる腫瘍促進機構**  \n   甲状腺がん由来エクソソーム中のSPP1が、CD44/JAK2/STAT3経路を介してマクロファージをM2型に分極させ、腫瘍悪性化を促進するメカニズムが解明されました。エクソソームを介した免疫微小環境制御の理解が進み、新たな治療標的としてSPP1や関連経路が期待されます。\n\n4. **PMN-MDSCs由来エクソソームと乳癌転移**  \n   PMN-MDSCsが分泌するエクソソーム内のS100A9が、乳癌幹細胞の幹細胞性を亢進し、CXCL5を介した転移能を促進する機構が明らかになりました。特にトリプルネガティブ乳癌において、エクソソームを標的とした新規治療戦略の可能性を示しています。\n\n5. **低酸素前処理エクソソームによる腸皮膚瘻治療**  \n   低酸素環境で前処理したエクソソームを搭載したゼラチンスポンジが、炎症調節と組織修復を介して腸皮膚瘻の治癒を促進することが示されました。再生医療におけるエクソソームの応用範囲を拡大する成果であり、難治性瘻孔に対する新たな治療法として期待されます。"
+}

@@ -1,0 +1,257 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Klotho Attenuates Glucocorticoid-Induced Osteoblast Cytotoxicity Via Wnt Signaling Pathway Modulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42159852/",
+        "abstract": "Glucocorticoids are commonly prescribed in clinical settings; however, their prolonged use at high doses can adversely affect human health. One significant complication following glucocorticoid therapy is glucocorticoid-induced osteoporosis (GIO), which is second in incidence only to senile osteoporosis. Based on previous research indicating that Klotho alleviates dexamethasone-induced osteoblast cytotoxicity through the NF-kB pathway, we aimed to explore the underlying mechanisms in greater depth. We assessed the impact of Lithium chloride (LiCl), a Wnt pathway activator, on glucocorticoid-induced cell cytotoxicity and viability. Cytotoxicity was specifically quantified by Annexin V/PI flow cytometry. We performed qRT-PCR and Western blotting analyzes to scrutinize the expressions of genes and proteins associated with both canonical and non-canonical Wnt signaling pathways. Dexamethasone treatment induced an upregulation of the non-canonical Wnt ligand, Wnt5a, and a downregulation of the canonical ligand, Wnt3a, along with its downstream marker, β-catenin. Transfection with Klotho counteracted these effects. Klotho has the potential to modulate both canonical and non-canonical Wnt signaling pathways, thereby counteracting osteoblast cytotoxicity induced by glucocorticoids.",
+        "source": "PubMed",
+        "doi": "10.1007/s10528-026-11390-6",
+        "keyword": "Klotho",
+        "title_ja": "クロトはWntシグナル伝達経路の調節を介してグルココルチコイド誘発性骨芽細胞毒性を軽減する",
+        "summary_ja": "グルココルチコイドは高用量・長期使用で骨粗鬆症（GIO）を引き起こす。本研究では、Klothoがデキサメタゾン誘発性骨芽細胞毒性をNF-κB経路を介して軽減するという知見に基づき、Wntシグナル経路の関与を検討した。Wnt経路活性化剤である塩化リチウム（LiCl）の影響を評価し、Annexin V/PIフローサイトメトリーで細胞毒性を定量。qRT-PCRとWestern blottingでWnt関連遺伝子・タンパク質発現を解析した。デキサメタゾン処理は非古典的WntリガンドWnt5aを上昇させ、古典的リガンドWnt3aとその下流マーカーβ-カテニンを低下させた。Klotho導入はこれらの変化を抑制した。Klothoは古典的・非古典的Wnt経路の両方を調節し、グルココルチコイド誘発性骨芽細胞毒性を軽減する可能性が示された。"
+      },
+      {
+        "title": "β-Klotho inhibited the epithelial-mesenchymal transition of liver sinusoidal endothelial cells to alleviate schistosomiasis liver fibrosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42154778/",
+        "abstract": "Schistosomiasis is a neglected zoonotic disease, and the liver fibrosis induced by Schistosoma japonicum infection poses a significant threat to human health. Traditionally, liver fibrosis in schistosomiasis has been attributed to eggs deposited in the liver, which trigger hepatic inflammation and fibrosis. However, our study reveals that schistosomula migration to the liver induces epithelial-to-mesenchymal transition (EMT) in liver sinusoidal endothelial cell (LSEC), thereby contributing to the progression of liver fibrosis. In the early stage of S. japonicum infection, mice exhibited a reduction in the proportion of LSEC and impairment of their function. RNA-sequencing revealed significant alterations in β-Klotho (KLB) expression in injured LSEC. Although KLB is known to exert anti-inflammatory functions as a co-receptor for fibroblast growth factor (FGF) in the liver, its role in LSEC EMT and schistosomiasis-induced liver fibrosis was unclear. Using SK-Hep1 cells, we found that KLB knockdown exacerbated EMT, whereas KLB over-expression attenuated EMT and decreased TGFβ1 secretion from LSEC, thereby suppressing LX-2 activation. In mice infected with S. japonicum, treatment with recombinant KLB protein or AAV8-KLB increased the LSEC population, mitigated EMT in both LSEC and liver tissues, ameliorated hepatic fibrosis, and inhibited TGFβ1 pathway activation. Our study reveals that KLB suppresses LSEC EMT induced by liver-stage schistosomula and TGFβ1 secretion, thereby inhibiting HSC activation and reducing liver fibrosis. Our findings highlight KLB as a promising therapeutic target for hepatic fibrosis in schistosomiasis.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.ppat.1014148",
+        "keyword": "Klotho",
+        "title_ja": "β-Klotho は肝類洞内皮細胞の上皮間葉転換を抑制し、住血吸虫症肝線維化を軽減した",
+        "summary_ja": "本論文は、住血吸虫症における肝線維化の新たなメカニズムを解明した。従来、肝線維化は虫卵による炎症が原因とされてきたが、本研究では、移行期の幼虫（schistosomula）が肝類洞内皮細胞（LSEC）に上皮間葉転換（EMT）を誘導し、線維化を促進することを発見した。感染初期のマウスではLSECの減少と機能障害が認められ、RNAシーケンスによりβ-Klotho（KLB）の発現変動が確認された。KLBはFGFの共受容体として抗炎症作用を持つが、LSECのEMTにおける役割は不明であった。SK-Hep1細胞を用いた実験では、KLBノックダウンがEMTを促進し、過剰発現がEMTとTGFβ1分泌を抑制し、LX-2（肝星細胞）の活性化を阻害した。感染マウスへの組換えKLBタンパク質またはAAV8-KLB投与は、LSECの増加、EMTの軽減、肝線維化の改善、TGFβ1経路の抑制をもたらした。以上より、K"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Enhanced Antitumor Efficacy of Combined PTC596 and PD1 Blockade in Hepatocellular Carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42159460/",
+        "abstract": "PTC596 has been studied in advanced solid tumors in clinical trials. However, the effects of PTC596 alone or in combination with programmed cell death protein-1 (PD1) blockade in hepatocellular carcinoma (HCC) remain unclear. Subcutaneous tumor models in both Balb/c and C57BL/6 mice were used to evaluate the effects of PTC596 alone or combined with an anti-PD1 antibody (anti-PD1) on tumor growth control, survival, and tumor-infiltrating immune cells, and the underlying mechanism was investigated by immunofluorescence, flow cytometry, RNA sequencing and immunohistochemistry. We found PTC596 not only killed HCC cells in vitro but also controlled H22 and Hepa1-6 tumor growth in vivo. PTC596 promoted the infiltration of CD8+ T-cells in H22 and Hepa1-6 models. Importantly, combination therapy (PTC596 plus anti-PD1) showed superior antitumor efficacy and prolonged mouse survival. Moreover, combination therapy induced robust antitumor immune activity by activating mature dendritic cells, CD8+ T-cells, natural killer cells, inflammatory monocytes, and total macrophages, while suppressing the infiltration of B cells and M2-type macrophages. RNA sequencing confirmed that the antitumor effects of PTC596 alone or plus anti-PD1, relied on the regulation of inflammation- and immune-associated pathways. Furthermore, combination therapy induced long-term immunological memory in 'cured' mice, as these mice were unaffected by tumor rechallenge after the original tumors were eliminated. Therefore, PTC596 is not only an effective antitumor drug for HCC but also supports the formation of a favorable tumor microenvironment that enhances the effect of PD1 blockade. This study supports that PTC596 combined with PD1 blockade could be a promising strategy for HCC.",
+        "source": "PubMed",
+        "doi": "10.1158/1535-7163.MCT-25-0790",
+        "keyword": "NK cell therapy",
+        "title_ja": "PTC596とPD1阻害薬の併用による肝細胞癌における抗腫瘍効果の増強",
+        "summary_ja": "PTC596は進行固形腫瘍の臨床試験で研究されているが、肝細胞癌（HCC）における単独またはPD1阻害との併用効果は不明であった。Balb/cおよびC57BL/6マウスの皮下腫瘍モデルを用い、PTC596単独または抗PD1抗体との併用が腫瘍増殖制御、生存、腫瘍浸潤免疫細胞に与える影響を評価し、免疫蛍光染色、フローサイトメトリー、RNAシーケンス、免疫組織化学で機序を解析した。PTC596はin vitroでHCC細胞を殺傷し、in vivoでH22およびHepa1-6腫瘍増殖を抑制した。PTC596はCD8+ T細胞の浸潤を促進し、併用療法は優れた抗腫瘍効果と生存延長を示した。さらに、成熟樹状細胞、CD8+ T細胞、NK細胞、炎症性単球、マクロファージを活性化し、B細胞とM2型マクロファージの浸潤を抑制した。RNAシーケンスは炎症・免疫関連経路の調節を確認し、治癒マウスでは長期免疫記憶が誘"
+      },
+      {
+        "title": "Synergistic Chemoimmunotherapy of Hepatocellular Carcinoma via ROS-Responsive Carrier-Free Prodrug Nanoparticles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42159189/",
+        "abstract": "Carrier-free nanomedicines, with their high drug-loading capacity and low carrier-associated toxicity, offer a promising strategy for synergistic cancer therapy. Here, we developed a reactive oxygen species (ROS)-responsive, carrier-free nanoparticle (PRO/OCA NP) self-assembled from a resveratrol prodrug (PRO) and the immune adjuvant obeticholic acid (OCA). The oxalate ester linkage enabled selective cleavage in the ROS-enriched tumor microenvironment, ensuring precise co-release of Res and OCA. This dual delivery suppressed hepatocellular carcinoma (HCC) proliferation, induced apoptosis and cell cycle arrest, and inhibited PI3K/AKT/mTOR signaling. Meanwhile, PRO/OCA NPs trigger immunogenic cell death in tumor cells, activating NK and NKT cells and enhancing their cytotoxic functions, thereby amplifying the innate immune responses. In an orthotopic HCC mouse model, PRO/OCA markedly inhibited both primary and metastatic tumors while exhibiting favorable biocompatibility. Compared with monotherapy or simple drug combinations, this platform achieves a \"1 + 1 > 2\" chemo-immunotherapeutic synergy, offering a strategy with translational potential for comprehensive HCC treatment.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.nanolett.5c05725",
+        "keyword": "NK cell therapy",
+        "title_ja": "活性酸素応答性キャリアフリープロドラッグナノ粒子による肝細胞癌の相乗的化学免疫療法",
+        "summary_ja": "本論文では、高薬物搭載量と低キャリア毒性を特徴とするキャリアフリー型ナノ医薬品として、ROS応答性のPRO/OCA NPを開発した。これはレスベラトロールプロドラッグ（PRO）と免疫アジュバントのオベチコール酸（OCA）から自己組織化され、シュウ酸エステル結合が腫瘍微小環境のROSにより選択的に切断され、ResとOCAを同時放出する。PRO/OCA NPは肝細胞癌（HCC）の増殖抑制、アポトーシス誘導、細胞周期停止、PI3K/AKT/mTOR経路阻害に加え、免疫原性細胞死を誘発しNK・NKT細胞を活性化して自然免疫応答を増強した。同所性HCCマウスモデルにおいて、原発巣と転移巣の両方を顕著に抑制し、高い生体適合性を示した。単剤療法や単純な薬剤併用と比較し、「1+1>2」の化学免疫療法相乗効果を達成し、HCC包括治療へのトランスレーショナルポテンシャルを有する。"
+      },
+      {
+        "title": "TIM-3 in AML: a janus-faced orchestrator of immune exhaustion and leukemic self-renewal.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42157277/",
+        "abstract": "Acute Myeloid Leukemia (AML) remains a therapeutic challenge due to relapse driven by therapy-resistant leukemic stem cells (LSCs) and a profoundly immunosuppressive microenvironment. The immune checkpoint T-cell immunoglobulin and mucin-domain containing-3 (TIM-3) emerges as a uniquely Janus-faced orchestrator in AML pathogenesis. This review synthesizes emerging evidence that TIM-3 operates dually: on one edge, it acts as an important contributor to immune exhaustion, suppressing T-cell, natural killer (NK) cell, and dendritic cell function within the AML niche. On the second edge, TIM-3 serves as a cell-autonomous driver of leukemic stemness, where it marks functional LSCs and promotes their self-renewal, survival, and metabolic reprogramming via non-canonical signaling networks like β-catenin and nuclear factor kappa B (NF-κB). TIM-3 is also detectable on subsets of immature blasts, but the biologic and clinical meaning of blast-level expression appears more context dependent than its LSC-associated role. This dual biology positions TIM-3 at a compelling therapeutic intersection. We examine the current landscape of TIM-3-targeted agents, from monoclonal antibodies like sabatolimab to bispecifics and CAR-T cells, and critically evaluate rational combination strategies with hypomethylating agents, venetoclax, and other immunotherapies. Finally, we discuss the challenges of patient stratification, resistance mechanisms, and on-target toxicity, outlining a roadmap for converting the multifaceted biology of TIM-3 into transformative clinical benefit for AML patients.",
+        "source": "PubMed",
+        "doi": "10.1186/s12935-026-04337-9",
+        "keyword": "NK cell therapy",
+        "title_ja": "AMLにおけるTIM-3：免疫疲弊と白血病性自己複製の二面性を持つ指揮者",
+        "summary_ja": "急性骨髄性白血病（AML）は、治療抵抗性の白血病幹細胞（LSC）と免疫抑制性微小環境により再発が課題である。免疫チェックポイント分子TIM-3は、AML病態において二面的な役割を果たす。一方で、T細胞、NK細胞、樹状細胞の機能を抑制し免疫疲弊を促進する。他方で、LSCに発現し、β-カテニンやNF-κBを介した非古典的シグナル伝達により自己複製、生存、代謝リプログラミングを駆動する。TIM-3は未熟芽球にも検出されるが、その生物学的意義はLSC関連の役割ほど明確ではない。この二重性から、TIM-3は治療標的として有望視され、モノクローナル抗体（sabatolimab）、二重特異性抗体、CAR-T細胞などの開発が進む。低メチル化薬やvenetoclaxとの併用戦略も検討されている。本総説は、患者層別化、耐性機序、標的外毒性の課題を議論し、TIM-3の多面的生物学を臨床的利益に変換する道筋を示す"
+      },
+      {
+        "title": "Decoding the crosstalk between ubiquitination and other post-translational modifications in cancer immunity: from mechanisms to clinical prospects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42156901/",
+        "abstract": "The tumor microenvironment is dynamically regulated by complex post-translational modifications (PTMs), which play pivotal roles in cancer immunity. Ubiquitination, along with other PTMs such as phosphorylation, glycosylation, and acetylation, orchestrates immune checkpoint activity and immune cell function, shaping antitumor responses. In this review, we discuss the intricate crosstalk and regulatory mechanisms between ubiquitination and other PTMs in cancer immunity. Studies have revealed that the stability and function of immune checkpoint proteins, such as PD-L1, are dynamically regulated by synergistic or competitive modifications, which directly shape the tumor microenvironment's immunological characteristics. We highlight how PTMs regulate immune cell function (e.g., T cells, NK cells, and macrophages) and key signaling pathways (e.g., STAT, type I IFN, and NF-κB) in the TME. Furthermore, we summarize potential therapeutic strategies targeting these PTMs, including small-molecule inhibitors and novel technologies (e.g., PROTACs and cell-penetrating peptides), which offer insights into overcoming immunotherapy resistance and optimizing combination therapies. Future research should explore non-classical PTMs and leverage multi-omics approaches to refine precision immunotherapy strategies.",
+        "source": "PubMed",
+        "doi": "10.1038/s41698-026-01488-w",
+        "keyword": "NK cell therapy",
+        "title_ja": "ユビキチン化と他の翻訳後修飾のクロストークががん免疫に与える影響の解明：メカニズムから臨床展望まで",
+        "summary_ja": "本レビューでは、がん免疫におけるユビキチン化と他の翻訳後修飾（リン酸化、グリコシル化、アセチル化など）間のクロストークと制御機構を解説する。腫瘍微小環境（TME）はこれらの修飾により動的に制御され、免疫チェックポイントタンパク質（例：PD-L1）の安定性や機能は、相乗的・競合的な修飾によって調節され、抗腫瘍免疫応答を形成する。また、T細胞、NK細胞、マクロファージなどの免疫細胞機能や、STAT、I型IFN、NF-κBなどの主要シグナル経路への影響を概説する。治療戦略としては、低分子阻害剤、PROTACs、細胞透過性ペプチドなどの新規技術が、免疫療法抵抗性克服や併用療法最適化に有望である。今後の研究では、非古典的修飾の探索とマルチオミクス解析による精密免疫療法の洗練が期待される。"
+      },
+      {
+        "title": "Non-lytic viral immunotherapy induces long-term glioblastoma survival and tumor-specific immunity without eliciting an antiviral response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42156731/",
+        "abstract": "Glioblastoma is a lethal brain tumor that is resistant to conventional therapies. Here we present a non-lytic replicating retrovirus (RRV) that delivers an IL-15-receptor-linked fusion protein (RLI) superagonist directly into glioblastoma cells, creating localized immunotherapy biofactories. In orthotopic mouse models, RRV-RLI dramatically suppresses tumor growth, prolongs survival, and induces lasting remission with immunologic memory. Mechanistically, we observe increased CD8⁺ T cell and natural killer cell infiltration and activation, alongside elevated antigen presentation pathways. Combining RRV-RLI with temozolomide, which is standard-of-care chemotherapy for glioblastoma, enhances antitumor immunity. T cell receptor sequencing reveals a polyclonal repertoire of T cells, enhanced by combining RRV-RLI with temozolomide. Analysis of the T-cell repertoire suggests it to be directed against tumor rather than viral antigens, supporting the specificity and re-applicability of our approach. These findings illustrate that RRV-RLI reprograms glioblastoma into an immunostimulatory hub, offering a viral immunotherapy against glioblastoma and potentially other therapy-resistant solid tumors.",
+        "source": "PubMed",
+        "doi": "10.1038/s41467-026-72746-5",
+        "keyword": "NK cell therapy",
+        "title_ja": "非溶解性ウイルス免疫療法が、抗ウイルス応答を誘発することなく、長期の膠芽腫生存と腫瘍特異的免疫を誘導する。",
+        "summary_ja": "本論文は、致死性脳腫瘍である膠芽腫に対し、非溶解性複製レトロウイルス（RRV）を用いた新規免疫療法を報告する。RRVはIL-15受容体結合融合タンパク質（RLI）スーパーアゴニストを腫瘍細胞内に直接送達し、局所的な免疫療法バイオファクトリーを形成する。マウスモデルにおいて、RRV-RLIは腫瘍増殖を抑制し、生存期間を延長、免疫記憶を伴う長期寛解を誘導した。機序として、CD8⁺ T細胞とNK細胞の浸潤・活性化、抗原提示経路の亢進が確認された。標準治療薬テモゾロミドとの併用は抗腫瘍免疫を増強し、T細胞受容体レパートリーは腫瘍特異的でウイルス抗原に対する応答は認められなかった。本手法は膠芽腫を免疫刺激ハブに再プログラムし、難治性固形腫瘍への応用可能性を示す。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Dual CAR-NK cells targeting PD-L1 and ErbB2 (HER2) exhibit cooperative CAR signaling and counteract solid tumor heterogeneity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42157284/",
+        "abstract": "Chimeric antigen receptor (CAR)-engineered natural killer (NK) cells have shown potent efficacy against hematologic malignancies. In contrast, solid tumors remain difficult to treat due to heterogeneous antigen expression and an immunosuppressive tumor microenvironment that fosters immune evasion and is driven to a large part by checkpoint-mediated inhibition.",
+        "source": "PubMed",
+        "doi": "10.1186/s13046-026-03722-6",
+        "keyword": "NK cell therapy",
+        "title_ja": "PD-L1とErbB2（HER2）を標的とするデュアルCAR-NK細胞は、協調的なCARシグナル伝達を示し、固形腫瘍の不均一性に対抗する。",
+        "summary_ja": "タイトル：PD-L1とErbB2（HER2）を標的とする二重CAR-NK細胞は協調的CARシグナルを示し、固形腫瘍の不均一性に対抗する。\n\n内容：キメラ抗原受容体（CAR）を遺伝子改変したナチュラルキラー（NK）細胞は、血液悪性腫瘍に対して強力な有効性を示している。一方、固形腫瘍は、不均一な抗原発現と免疫抑制性の腫瘍微小環境により治療が困難であり、この微小環境は免疫逃避を促進し、主にチェックポイントを介した阻害によって駆動される。本論文では、PD-L1とErbB2（HER2）の両方を標的とする二重CAR-NK細胞を開発し、その効果を検証した。二重CAR-NK細胞は、単一標的のCAR-NK細胞と比較して、協調的なCARシグナル伝達を示し、腫瘍細胞の不均一な抗原発現に対抗可能であった。また、免疫抑制性微小環境下でも抗腫瘍活性を維持し、固形腫瘍治療における新たな戦略として期待される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Menstrual Blood Stem Cell-Derived Exosomes as Modulators of Apoptosis, Migration and Angiogenesis in Breast Cancer Cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42159846/",
+        "abstract": "The complexity of breast cancer cells complicates the process of enhancing our understanding, which may lead to the development of effective therapeutic agents and approaches. Among the novel medical interventions, menstrual blood-derived mesenchymal stem cells (Mens-MSCs) demonstrate proactive and immunomodulatory interactions with malignant cells. This study aims to evaluate the effects of Mens-MSCs-derived exosomes (MM-Exos) on breast cancer cell behaviors, with particular emphasis on apoptosis, migration, and angiogenesis. MM-Exos were characterized using DLS, flow cytometry, and TEM. After determining the effective concentration by MTT assay, the exosomes were applied to MDA-MB-231 and SK-BR-3 cell lines. Cell motility was evaluated using a scratch assay, while apoptosis, cell cycle distribution, and ROS generation were assessed by flow cytometry and ELISA. Gene expression of BAX, BCL-2, MMP-2, and VEGF was analyzed by qPCR, and corresponding protein levels were confirmed through Western blotting. Based on the results, MM-Exos dose-dependently decreased breast cancer cell survival across both cell lines. Furthermore, MM-Exos at 50 and 100 µg/ml significantly reduced the migratory rate of cell lines (P < 0.001). Treatment with MM-Exos (100 µg/ml) significantly increased ROS production (P < 0.001), enhanced apoptosis (P < 0.001), induced cell cycle arrest (P < 0.001), and altered gene and protein expression. Both cell lines exhibited significant down-regulation of VEGF(P < 0.001), BCL-2 (P < 0.01), and MMP-2 (P < 0.01) after treatment with MM-Exos, whereas BAX demonstrated significant up-regulation (P < 0.001). Based on results, MM-Exo demonstrates anticancer functions by enhancing cytotoxicity, ROS generation, apoptosis, while reducing migration rate. Thus, MM-Exo may represent a potential therapeutic option for breast cancer; however, further comprehensive studies are required.",
+        "source": "PubMed",
+        "doi": "10.1007/s12010-026-05728-4",
+        "keyword": "Exosomes",
+        "title_ja": "月経血由来幹細胞エクソソームによる乳癌細胞のアポトーシス、遊走及び血管新生の調節",
+        "summary_ja": "本論文は、月経血由来間葉系幹細胞（Mens-MSCs）のエクソソーム（MM-Exos）が乳癌細胞のアポトーシス、遊走、血管新生に与える影響を評価した。MM-ExosをDLS、フローサイトメトリー、TEMで特性評価後、MDA-MB-231およびSK-BR-3細胞株に適用。MTTアッセイで有効濃度を決定し、スクラッチアッセイで遊走能、フローサイトメトリーとELISAでアポトーシス、細胞周期、ROS産生を評価。qPCRとウェスタンブロッティングでBAX、BCL-2、MMP-2、VEGFの発現を解析した。結果、MM-Exosは濃度依存的に細胞生存率を低下させ、50および100 µg/mlで遊走能を有意に抑制（P<0.001）。100 µg/ml処理ではROS産生、アポトーシス、細胞周期停止を有意に促進し（P<0.001）、VEGF、BCL-2、MMP-2の発現を低下（各P<0.001、P<0.01"
+      },
+      {
+        "title": "Mechanistic Study on MSC-EXO Loaded with Salubrinal for the Treatment of Osteomyelitis-Induced Bone Defects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42159260/",
+        "abstract": "Osteomyelitis-related bone defects arise from bacterial infection-induced tissue damage and inadequate repair, resulting in pain, swelling, and functional loss. Here, we evaluated locally delivered salubrinal-loaded mesenchymal stem cell-derived exosomes (Sal-MSC-exo) in a rat model of infectious osteomyelitis. After characterizing MSCs, their exosomes, and drug-loading efficiency, we established a Staphylococcus aureus-induced osteomyelitis model and assigned rats to five groups: control, infected, salubrinal (Sal), exosome (Exo), and Sal-MSC-exo. Outcomes included histology and micro-CT, osteoblast proliferation (EdU), ER ultrastructure (electron microscopy), immunohistochemistry, Western blotting, and cell migration assays (transwell and scratch). These analyses assessed osteoblast proliferation and apoptosis, ER-stress signaling, extracellular matrix proteins, autophagy-related markers, and inflammatory activation. Sal-MSC-exo partially restored trabecular architecture, suppressed osteoblast apoptosis, and enhanced osteoblast migration compared with infected controls and single-agent groups. Mechanistically, Sal-MSC-exo attenuated ER stress, evidenced by upregulation of p-eIF2α and ATF4 with concomitant reduction of CHOP. In parallel, Sal-MSC-exo modulated autophagy-associated with increased p-eIF2α, eIF2α, LC3-I/II, and ALP and reduced p62-consistent with relief of maladaptive ER-stress-autophagy cross talk. Collectively, these findings indicate that Sal-MSC-exo mitigates osteomyelitis-associated bone loss and supports bone repair, highlighting its translational potential as a localized therapy for infection-induced bone defects.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202502940R",
+        "keyword": "Exosomes",
+        "title_ja": "サルブリナールを搭載したMSC-EXOによる骨髄炎誘発性骨欠損治療のメカニズム研究",
+        "summary_ja": "本論文は、骨髄炎による骨欠損治療のため、サルブリナールを搭載した間葉系幹細胞由来エクソソーム（Sal-MSC-exo）の局所投与効果をラットモデルで検討した。黄色ブドウ球菌誘発骨髄炎モデルを用い、対照群、感染群、サルブリナール単独群、エクソソーム単独群、Sal-MSC-exo群の5群で比較。組織学、micro-CT、細胞増殖・遊走アッセイ、電子顕微鏡、免疫組織化学、ウェスタンブロッティングにより評価した。Sal-MSC-exoは、感染対照群や単独投与群と比較し、骨架構を部分的に回復させ、骨芽細胞アポトーシス抑制と遊走促進を示した。機序として、p-eIF2αとATF4の上昇、CHOP低下による小胞体ストレス軽減、さらにLC3-I/IIやALP増加、p62低下を伴うオートファジー調節が確認された。以上より、Sal-MSC-exoは骨髄炎関連骨損失を軽減し骨修復を促進し、感染性骨欠損に対する局所"
+      },
+      {
+        "title": "A Comparative Analysis of MSCs and Their Exosomes in Osteoarthritis Therapy: Complementary Roles and Clinical Translation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42157532/",
+        "abstract": "AbstractsThere is presently no cure for the degenerative joint disease known as osteoarthritis (OA). Despite the original promise of mesenchymal stem cell (MSC) transplantation, issues such as low cell survival and engraftment have led research to shift toward the exosomes (EXOs) these cells secrete. Because they mirror the immunomodulatory and tissue-regenerative actions of their parent cells without the safety and logistical issues associated with cell-based therapies, MSC-derived EXOs (MSC-EXOs) constitute an emerging class of medicines. For the treatment of OA, this paper offers a comparison and contrast of MSCs and MSC-EXOs. Using data from clinical trials that consistently indicate symptomatic alleviation but provide inconsistent evidence of structural cartilage regeneration, we describe the basic characteristics of MSCs and assess their therapeutic benefits and limitations. The review further examines the pathways by which MSC-EXOs mediate reparative effects on injured joint tissue, highlighting that although preclinical results are encouraging, clinical confirmation is lacking. MSC-EXOs have a less developed body of evidence and greater regulatory uncertainty than MSCs, but they may offer advantages in safety, targeting, and scalability. Standardizing EXO manufacturing and purification procedures, identifying optimal dosage schedules, establishing long-term safety profiles, and engineering EXOs for improved targeting and therapeutic efficacy are important translational issues. In the end, MSC-EXO-based treatment demonstrates potential as a regenerative approach for OA.",
+        "source": "PubMed",
+        "doi": "10.1080/08923973.2026.2673950",
+        "keyword": "Exosomes",
+        "title_ja": "骨髄間葉系幹細胞とそのエクソソームによる変形性関節症治療の比較分析：補完的役割と臨床応用",
+        "summary_ja": "変形性関節症（OA）に対する根治的治療は現時点で存在しない。間葉系幹細胞（MSC）移植は期待されたが、生着率や生存率の低さから、その分泌するエクソソーム（EXO）に研究が移行している。MSC由来EXO（MSC-EXO）は、細胞治療に伴う安全性や物流上の問題がなく、免疫調節や組織再生作用を模倣する新たな医薬品群である。本論文は、MSCとMSC-EXOを比較し、臨床試験で症状緩和は一貫しているが軟骨再生のエビデンスは不十分であると指摘する。MSC-EXOは前臨床で有望だが臨床確認は不足しており、MSCよりエビデンスと規制の明確さで劣る一方、安全性、標的指向性、スケーラビリティで優位性を持つ。今後の課題は、EXO製造・精製の標準化、至適用量の確立、長期安全性の評価、標的指向性と治療効果の向上である。MSC-EXOベースの治療はOAに対する再生医療として有望である。"
+      },
+      {
+        "title": "Exosomal lncRNA NORAD drives oxaliplatin resistance in AEG via the miR-433-3p/autophagy axis: a novel mechanism and potential biomarker.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42157197/",
+        "abstract": "Oxaliplatin resistance poses a substantial therapeutic challenge in adenocarcinoma of the esophagogastric junction (AEG). Although the lncRNA NORAD has been implicated in chemoresistance, its specific role, underlying mechanism, and clinical significance in AEG remain unclear. We hypothesize that exosome-derived NORAD promotes oxaliplatin resistance via a competing endogenous RNA network that modulates autophagy and may serve as a potential circulating biomarker.",
+        "source": "PubMed",
+        "doi": "10.1186/s12935-026-04340-0",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム由来lncRNA NORADは、miR-433-3p/オートファジー軸を介してAEGにおけるオキサリプラチン耐性を促進する：新規メカニズムと潜在的バイオマーカー",
+        "summary_ja": "タイトル：Exosomal lncRNA NORAD drives oxaliplatin resistance in AEG via the miR-433-3p/autophagy axis: a novel mechanism and potential biomarker.\n\n要約：AEG（食道胃接合部腺癌）におけるオキサリプラチン耐性は治療上の大きな課題である。lncRNA NORADは化学療法耐性に関与するが、AEGでの具体的な役割や機序は不明である。本研究では、エクソソーム由来NORADが競合的内因性RNAネットワークを介してオートファジーを調節し、オキサリプラチン耐性を促進するという仮説を検証。NORADはmiR-433-3pをスポンジのように吸収し、オートファジー関連遺伝子の発現を亢進させることで耐性を誘導する。また、血中エクソソームNORADは耐性予測の循環バイオマーカ"
+      },
+      {
+        "title": "Exosome-Coated Boron-Containing Evodiamine Derivative Triggered by Pathology-Specific Reactive Oxygen Species Targets Myofibroblasts to Ameliorate Hypertrophic Scarring.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42154999/",
+        "abstract": "Targeting overactivated myofibroblasts is a potential treatment for hypertrophic scarring. Evodiamine, an indole alkaloid derived from Evodiae fructus, has attracted increasing attention for its antitumor efficacy to inhibit proliferation and promote apoptosis of tumor cells. However, its role on hypertrophic scarring remains unexplored. Hence, we engineered a boronic acid-functionalized evodiamine derivative (BED) triggered by pathology-specific reactive oxygen species (ROS) to target myofibroblasts to ameliorate hypertrophic scarring with minimal toxicity to normal fibroblasts. In vitro experiments presented that BED could be triggered by the increased ROS in myofibroblasts and thus selectively induce apoptosis and suppress proliferation of myofibroblasts, inhibit myofibroblast contraction and migration, and suppress α-SMA and collagen expression. The underlying antiscar mechanism was partly mediated by disrupting microtubules and microfilaments, thereby suppressing the proliferation and contraction of myofibroblasts. To optimize delivery and therapeutic efficacy, the exosome-encapsulated delivery system was further developed, and the results showed that exosomes-coated BED, enhancing BED cellular internalization while protecting BED from extracellular ROS degradation, achieved the optimized therapeutic efficacy of hypertrophic scarring in vivo by targeting myofibroblasts. This approach represents a promising therapeutic strategy for hypertrophic scarring and other fibrotic pathologies.",
+        "source": "PubMed",
+        "doi": "10.1021/acsami.6c03628",
+        "keyword": "Exosomes",
+        "title_ja": "病理特異的活性酸素種により誘発されるエクソソーム被覆ホウ素含有エボジアミン誘導体が筋線維芽細胞を標的として肥厚性瘢痕を改善する",
+        "summary_ja": "過活性化筋線維芽細胞を標的とした肥厚性瘢痕治療のため、病理特異的活性酸素種（ROS）に応答するホウ酸修飾エボジアミン誘導体（BED）を開発した。BEDは筋線維芽細胞内の高ROS環境下で選択的にアポトーシスを誘導し、増殖・収縮・遊走を抑制、α-SMAやコラーゲン発現を低下させた。その抗瘢痕機構は微小管・マイクロフィラメントの破壊を介した。さらに、エクソソーム封入により細胞内取り込みを向上させ、細胞外ROS分解から保護し、in vivoで筋線維芽細胞標的化による治療効果を最大化した。本手法は肥厚性瘢痕や線維性疾患への新規治療戦略となる。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Progress in research on the association between mesenchymal stem cell senescence and knee osteoarthritis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42157255/",
+        "abstract": "Osteoarthritis (OA) is an age-related disease characterized by cartilage degeneration, subchondral bone remodeling, and chronic low-grade inflammation, with knee osteoarthritis (KOA) being a leading cause of functional impairment and reduced quality of life in middle-aged and elderly individuals. In recent years, advances in stem cell biology and aging research have highlighted the critical role of mesenchymal stem cells (MSCs) in maintaining joint homeostasis, regulating inflammatory responses, and mediating cartilage repair. Accumulating evidence indicates that reductions in MSC quantity and functional decline-particularly age-associated decreases in proliferative capacity, impaired differentiation potential, mitochondrial dysfunction, and activation of the senescence-associated secretory phenotype (SASP)-constitute key biological mechanisms driving KOA onset and progression.This review systematically summarizes the major molecular mechanisms underlying MSC senescence, including telomere shortening, DNA damage accumulation, mitochondrial dysregulation, and SASP activation, and emphasizes the roles of senescent MSCs in impaired cartilage regenerative capacity, disruption of extracellular matrix homeostasis, and imbalance in inflammatory and immune microenvironments. Additionally, we highlight recent research on potential interventions targeting MSC senescence, including senescent cell clearance, metabolic and mitochondrial restoration, MSC-derived exosome therapy, and advances in engineered culture and delivery technologies.In conclusion, MSC senescence represents not only a fundamental pathological basis for KOA development but also a critical target for future OA interventions, providing important theoretical and translational value for advancing regenerative medicine strategies toward clinical application.",
+        "source": "PubMed",
+        "doi": "10.1186/s13018-026-06962-6",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞の老化と膝関節症の関連性に関する研究の進展",
+        "summary_ja": "本論文は、間葉系幹細胞（MSC）の老化と膝変形性関節症（KOA）との関連性を概説する。KOAは中高年の機能障害とQOL低下の主因であり、軟骨変性、軟骨下骨リモデリング、慢性炎症を特徴とする。近年、MSCの老化がKOA発症・進行の鍵となる生物学的メカニズムとして注目されている。具体的には、加齢に伴うMSCの増殖能低下、分化能障害、ミトコンドリア機能不全、老化関連分泌表現型（SASP）の活性化が、軟骨再生能の低下、細胞外マトリックス恒常性の破綻、炎症・免疫微小環境の不均衡を引き起こす。本レビューは、MSC老化の分子機構（テロメア短縮、DNA損傷蓄積、ミトコンドリア制御異常、SASP活性化）を整理し、老化細胞除去、代謝・ミトコンドリア機能回復、MSC由来エクソソーム療法、培養・送達技術の進歩などの介入研究を紹介する。結論として、MSC老化はKOAの病理学的基盤であると同時に、将来の治療標的として"
+      },
+      {
+        "title": "Circular RNAs in hepatocellular carcinoma: a systematic qualitative review of regulatory mechanisms, therapeutic resistance, and clinical translation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42157114/",
+        "abstract": "Hepatocellular carcinoma (HCC) is characterized by high mortality, frequent recurrence, and limited long-term benefit from systemic therapy and radiotherapy. Circular RNAs (circRNAs), a class of covalently closed non-coding RNAs with high molecular stability and tissue-specific expression, have emerged as important regulators of HCC biology and treatment response.",
+        "source": "PubMed",
+        "doi": "10.1186/s12876-026-04930-2",
+        "keyword": "Exosomes",
+        "title_ja": "肝細胞癌における環状RNA：制御機構、治療抵抗性、および臨床応用に関する系統的質的レビュー",
+        "summary_ja": "肝細胞癌（HCC）は高死亡率、頻繁な再発、全身療法や放射線療法の長期的効果の限界が特徴である。環状RNA（circRNA）は、共有結合で閉じた高安定性・組織特異的発現を示す非コードRNAであり、HCCの生物学的制御や治療応答において重要な役割を果たすことが明らかになっている。本系統的質的レビューでは、circRNAの調節機構、治療抵抗性への関与、臨床応用への可能性を包括的に整理した。circRNAはmiRNAスポンジ、タンパク質結合、遺伝子発現調節などを介し、HCCの増殖、浸潤、転移、アポトーシス耐性に関与する。また、化学療法や放射線療法への抵抗性にも寄与し、診断・予後バイオマーカーや治療標的としての臨床応用が期待される。"
+      },
+      {
+        "title": "A conserved Sas10/C1D domain protein, CaLrp1, is a critical regulator of hyphal development and pathogenicity in Candida albicans.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42157077/",
+        "abstract": "Candida albicans represents the predominant opportunistic fungal pathogen in clinical contexts, with its virulence contingent upon multilayered regulatory networks. CaLrp1 (orf19.5067) encodes a conserved Sas10/C1D domain-containing protein, though its precise biological role has remained uncharacterized.",
+        "source": "PubMed",
+        "doi": "10.1186/s12866-026-05111-7",
+        "keyword": "Exosomes",
+        "title_ja": "保存されたSas10/C1Dドメインタンパク質CaLrp1は、カンジダ・アルビカンスにおける菌糸発育と病原性の重要な制御因子である。",
+        "summary_ja": "Candida albicansは主要な日和見真菌病原体であり、その病原性は多層的な制御ネットワークに依存する。CaLrp1（orf19.5067）は保存されたSas10/C1Dドメイン含有タンパク質をコードするが、その正確な生物学的役割は未解明であった。本研究では、CaLrp1が菌糸発育と病原性の重要な制御因子であることを明らかにした。"
+      },
+      {
+        "title": "Research advances of copper homeostasis and cuproptosis in orthopedic diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42156360/",
+        "abstract": "Copper is an essential trace element that plays a significant role in human physiological functions. However, abnormal accumulation of copper can trigger a programmed cell death mechanism known as cuproptosis, which has a significant pathological impact, especially in orthopedic diseases such as osteoarthritis (OA), rheumatoid arthritis (RA), osteosarcoma (OS), and osteoporosis (OP). Cuproptosis not only causes damage to cell membranes, proteins and DNA through oxidative stress mechanisms, but also triggers apoptosis by disrupting mitochondrial function, thereby further exacerbating the structural damage of bone and cartilage tissues. The cuproptosis-related genes (CRGs) exhibit unique biological functions in regulating these pathological processes, and thus become potential diagnostic markers and therapeutic targets. In this regard, we have proposed an innovative therapeutic approach that utilizes the water gel sustained-release technology to load natural antioxidants. The aim is to achieve multi-dimensional targeted cuproptosis through improving drug delivery. Furthermore, natural substances such as sage extract, cinnamon and probiotics have demonstrated the potential for potent antioxidant and anti-inflammatory effects, providing a foundation for future therapeutic strategies. A key challenge for these strategies will be to precisely modulate copper levels to induce therapeutic cuproptosis in pathological cells (e.g., in osteosarcoma or hyperactive osteoclasts) while preserving the essential physiological functions of copper in normal bone and cartilage remodeling. Exosomal miRNAs provide a new perspective for intervening in the pathologies caused by copper through regulating copper homeostasis and related signaling pathways. Future research will focus on optimizing the combination application of these natural drugs, exploring the potential of different copper chelators and pioneering the design of innovative biomaterials, in order to achieve better control of cuproptosis and innovative progress in the treatment of orthopedic diseases.",
+        "source": "PubMed",
+        "doi": "10.1038/s41420-025-02921-y",
+        "keyword": "Exosomes",
+        "title_ja": "骨疾患における銅恒常性と銅誘発細胞死の研究進展",
+        "summary_ja": "銅は必須微量元素だが、異常蓄積は細胞死「cuproptosis」を誘発し、変形性関節症(OA)、関節リウマチ(RA)、骨肉腫(OS)、骨粗鬆症(OP)等の整形外科疾患に病理的影響を及ぼす。Cuproptosisは酸化ストレスやミトコンドリア機能障害を介し骨・軟骨組織の構造損傷を悪化させる。Cuproptosis関連遺伝子(CRGs)は診断マーカーや治療標的として有望であり、ハイドロゲル徐放技術を用いた天然抗酸化物質の搭載や、セージ抽出物・シナモン・プロバイオティクスの抗酸化・抗炎症効果が治療戦略の基盤となる。課題は、正常組織の銅機能を維持しつつ病的細胞に治療的cuproptosisを誘導する銅レベルの精密制御であり、エクソソームmiRNAが銅恒常性調節の新たな視点を提供する。今後の研究は天然薬物の併用最適化、銅キレート剤の探索、革新的生体材料の設計に焦点を当てる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Lipid droplets and small extracellular vesicles interplay in Japanese encephalitis virus non-lytic release.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42159429/",
+        "abstract": "Lipid droplets (LDs) and small extracellular vesicles (sEVs) are classically known for lipid metabolism and intercellular communication, respectively. Here, we reveal a mechanistic connection between LD dynamics and sEV-mediated non-lytic release of Japanese encephalitis virus (JEV) from neuronal cells. Using Neuro2A, SHSY-5Y, N9 microglia, and primary cortical neurons, we show that JEV is packaged within sEVs (~200 nm) through an ESCRT-independent, neutral sphingomyelinase 2 (nSMase2)/ceramide-dependent pathway. Virions inside sEVs display a higher JEV premature membrane/membrane protein (PrM/M) ratio compared to those released via the conventional secretory pathway. Although containing a higher proportion of premature virions than mature ones, sEV-associated JEV virions gain an evolutionary advantage by evading immune detection and delivering multiple virions to recipient cells, thereby increasing overall infection efficiency. Temporal profiling showed early cytoplasmic LD enrichment (from 6 hpi), followed by a surge in sEV release from 14 hpi, suggesting sequential roles for LDs and sEVs. nSMase2 inhibition decreased sEV-mediated egress without affecting viral replication but increased cytoplasmic LD abundance, consistent with LD underutilization in multivesicular bodies (MVB) biogenesis. Our findings identify LDs as facilitators of MVB formation and nSMase2 as a key driver of sEV-mediated viral exit, revealing parallel yet coordinated pathways in JEV's stealthy egress.",
+        "source": "PubMed",
+        "doi": "10.1128/mbio.00423-26",
+        "keyword": "sEVs",
+        "title_ja": "日本脳炎ウイルスの非溶解性放出における脂質滴と小型細胞外小胞の相互作用",
+        "summary_ja": "本論文は、日本脳炎ウイルス（JEV）の非溶解性放出における脂質滴（LD）と小型細胞外小胞（sEV）の連携機構を解明した。神経細胞を用いた解析から、JEVはESCRT非依存的、nSMase2/セラミド依存的な経路でsEV（約200 nm）内に取り込まれる。sEV内のウイルス粒子は従来の分泌経路と比較してPrM/M比が高く、未成熟粒子が多いものの、免疫回避と複数粒子の同時感染により感染効率を高める。経時的解析では、感染初期（6時間後）に細胞質LDが増加し、その後（14時間後）にsEV放出が急増する。nSMase2阻害はsEV放出を減少させるがウイルス複製には影響せず、細胞質LD量を増加させた。これはMVB形成におけるLDの利用低下を示す。以上より、LDはMVB形成を促進し、nSMase2がsEVを介したウイルス放出を駆動する、協調的な非溶解性脱出経路が明らかとなった。"
+      },
+      {
+        "title": "Flow orientation as a critical parameter in nanoscale membrane filtration for optimising small extracellular vesicle isolation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42016524/",
+        "abstract": "Membrane filtration of biological nanoparticles typically employs tangential or perpendicular flow geometries, each presenting inherent performance trade-offs between membrane flux and fouling. While these configurations involve established limitations in transmembrane pressure, fouling, and particle damage, how intermediate inlet angles quantitatively modulate these effects at the microscale remains unexplored. Here, we combine computational fluid dynamics with experimental validation to systematically investigate how inlet microchannel orientation relative to a nanoporous alumina membrane (0°, 30°, 60°, and 90°) governs the separation performance of small extracellular vesicles (sEVs) - sub-200 nm particles that serve as promising liquid biopsy targets for ovarian cancer detection. Simulations show that intermediate flow angles (30° and 60°) produce filtration fluxes between those of perpendicular and tangential configurations, reflecting modified near-membrane hydrodynamics, while potentially improving filtrate composition. Using OVCAR3 ovarian cancer cell-derived sEVs, we demonstrate that a 60° inlet angle generates a distinct hydrodynamic regime favourable for sEV membrane-based filtration. Devices with inlet orientation at 60° (i) suppress contaminants of >100 nm by 3-fold compared to perpendicular flow, (ii) retain comparable sEV recovery compared to tangential flow (",
+        "source": "PubMed",
+        "doi": "10.1039/d6na00035e",
+        "keyword": "sEVs",
+        "title_ja": "ナノスケール膜ろ過におけるフロー配向性が小型細胞外小胞の単離最適化に与える重要なパラメータとしての役割",
+        "summary_ja": "本論文では、ナノスケール膜濾過における流入口角度（0°、30°、60°、90°）が、小型細胞外小胞（sEV）の分離性能に与える影響を、計算流体力学と実験により系統的に調査した。従来の接線流と垂直流の中間角度（30°、60°）では、膜近傍の流体力学的変化により、濾過フラックスは両者の中間値を示し、濾液組成が改善される可能性が示された。特に、60°の流入角度では、卵巣癌細胞由来sEVを用いた実験において、垂直流と比較して100nm以上の夾雑物を3倍抑制し、接線流と同等のsEV回収率を維持する、膜濾過に有利な流れ場が形成されることを実証した。"
+      },
+      {
+        "title": "Combined multi-omics and multi-spectral profiling of plasma extracellular vesicles reveals liquid biopsy biomarkers for glioma diagnosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41999751/",
+        "abstract": "Plasma small extracellular vesicles (sEVs) are a promising liquid biopsy tool. This study aims to delineate and validate a multimodal plasma sEV biomarker signature for glioma. We use size exclusion chromatography to separate sEVs from plasma (1 mL) and a combination of multi-spectral (Fourier transform infrared/Raman) and orthogonal multi-omics (proteomic/microRNA) approaches on 206 plasma samples (159 individuals) across three independent cohorts. We identify distinct glioma sEV biomolecular profiles, including differences in sEV protein/nucleic acid composition, and consistent alterations in 45 proteins and 20 microRNAs. Machine learning models derived from training cohort data achieve high diagnostic performance (areas under the curve [AUCs] 0.931-0.971), while external validation across independent cohorts confirms the signature's diagnostic potential, with 100% accuracy for the proteomic and multimodal signatures in the longitudinal cohort. Our findings, generated through a rigorous multi-cohort and multi-algorithmic framework, establish the potential of plasma sEV signatures as a clinically relevant diagnostic liquid biopsy approach for glioma.",
+        "source": "PubMed",
+        "doi": "10.1016/j.xcrm.2026.102744",
+        "keyword": "sEVs",
+        "title_ja": "血漿細胞外小胞のマルチオミクスとマルチスペクトル統合プロファイリングによるグリオーマ診断のためのリキッドバイオプシーバイオマーカーの発見",
+        "summary_ja": "本論文は、グリオーマ診断のための血漿小型細胞外小胞（sEV）に基づく液体生検バイオマーカーの開発を目的とする。206検体（159名）からサイズ排除クロマトグラフィーでsEVを分離し、マルチスペクトル（FTIR/ラマン）とオミクス（プロテオミクス/microRNA）解析を統合。グリオーマ特異的なsEVの生体分子プロファイル（45種タンパク質、20種miRNAの変動）を同定。機械学習モデルは訓練コホートで高診断能（AUC 0.931-0.971）を示し、外部検証コホートでもプロテオミクスおよびマルチモーダルシグネチャーが100%の精度を達成。血漿sEVシグネチャーの臨床診断応用可能性を実証した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、それぞれの重要性・背景・今後の展望をまとめます（合計500文字以内）。\n\n1. **Klothoと骨・肝線維化**  \n   Klothoは抗老化因子として知られ、グルココルチコイド誘発性骨芽細胞毒性をWnt経路調節で軽減する可能性が示された。また、住血吸虫症肝線維化ではβ-Klothoが類洞内皮細胞の上皮間葉転換を抑制。骨粗鬆症や肝線維化に対する新規治療標的として期待される。\n\n2. **TIM-3とAMLの二面的役割**  \n   TIM-3は急性骨髄性白血病（AML）において、免疫疲弊と白血病幹細胞の自己複製を同時に促進する。この二面性を標的とした治療戦略は、再発難治性AMLの克服に貢献する可能性がある。\n\n3. **Dual CAR-NK細胞による固形腫瘍治療**  \n   PD-L1とHER2を同時標的とする二重CAR-NK細胞は、協調的シグナルにより固形腫瘍の不均一性に対抗する。血液がんに続き、固形腫瘍へのCAR-NK療法応用の突破口となる。\n\n4. **エクソソームと薬剤耐性・治療応用**  \n   エクソソーム内のlncRNA NORADがmiR-433-3p/オートファジー軸を介してAEGのオキサリプラチン耐性を誘導するメカニズムが解明された。また、MSC由来エクソソームに薬剤を搭載する技術は骨髄炎や変形性関節症治療で有望視される。\n\n5. **sEV分離技術と液体生検**  \n   ナノスケール膜濾過における流入口角度の最適化や、血漿sEVのマルチオミクス解析により、グリオーマ診断のための高感度液体生検が実現しつつある。非侵襲的がん診断の精度向上に貢献する。"
+}

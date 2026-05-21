@@ -1,0 +1,194 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Overcoming resistance in CD44-overexpressing myeloma through combination therapy with ATRA, bortezomib, and NK cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42165861/",
+        "abstract": "CD44 is a cell-surface glycoprotein frequently overexpressed in cancers and associated with poor prognosis. We evaluated the prognostic significance of CD44 overexpression in multiple myeloma (MM) and investigated the therapeutic efficacy of combining natural killer (NK) cell therapy with all-trans retinoic acid (ATRA) and bortezomib (Bor) against CD44-overexpressing MM. Clinical data from the CoMMpass database were analyzed to assess survival outcomes relative to CD44 expression. NK cells were expanded from healthy donors using K562-OX40L-mbIL-18/21 feeder cells supplemented with interleukin (IL)-2 and IL-15. Functional assays were performed using CD44-high myeloma cell lines treated with ATRA and Bor, individually or in combination with NK cells. Therapeutic efficacy was evaluated based on tumor growth, systemic dissemination, and survival in an intravenous U266-green fluorescent protein-firefly luciferase xenograft NOD/SCID IL-2Rγnull mouse model. Clinical data showed CD44 overexpression correlated with inferior overall survival (P < 0.0001) in all three stages I, II, and III of the revised International Stage System. In vitro, ATRA and Bor co-treatment downregulated β-catenin and CD44 expression, inhibited proliferation, migration, and invasion, and enhanced NK cell-mediated cytotoxicity via upregulation of MICA/B, Fas, TRAIL-R2, and intercellular adhesion molecule-1. In vivo, combination therapy with NK cells, ATRA, and Bor significantly suppressed CD44 expression, reduced extramedullary spread, and prolonged survival without notable toxicity. These preclinical findings support CD44 overexpression as a marker associated with inferior survival in MM and provide a rationale for pharmacologic tumor priming with ATRA and bortezomib to enhance NK cell-mediated cytotoxicity. However, the therapeutic strategy requires further validation in heterogeneous patient-derived models and prospective clinical studies before clinical efficacy can be inferred.",
+        "source": "PubMed",
+        "doi": "10.1007/s00262-026-04418-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "ATRA、ボルテゾミブ、NK細胞の併用療法によるCD44過剰発現骨髄腫における抵抗性の克服",
+        "summary_ja": "CD44は癌で高発現し予後不良に関連する糖タンパク質である。本研究では、多発性骨髄腫（MM）におけるCD44過剰発現の予後意義と、ATRA、ボルテゾミブ（Bor）、NK細胞の併用療法の有効性を検討した。CoMMpassデータベースの解析では、CD44高発現は全生存期間の短縮と有意に関連した（P<0.0001）。in vitroでは、ATRAとBorの併用がβ-カテニンとCD44発現を低下させ、増殖・遊走・浸潤を抑制し、MICA/B、Fas、TRAIL-R2、ICAM-1を介してNK細胞の細胞傷害活性を増強した。in vivoのマウスモデルでは、NK細胞、ATRA、Borの併用療法がCD44発現を抑制し、髄外進展を減少させ、生存期間を延長した。本結果は、CD44高発現がMMの予後不良マーカーであることを支持し、ATRAとBorによる薬理学的プライミングがNK細胞療法を増強する根拠を示すが、臨"
+      },
+      {
+        "title": "Stem cell-directed targeted chemotherapy primes drug-resistant metastatic ovarian tumors for elimination by natural killer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42164422/",
+        "abstract": "Cancer stem-like cells (CSCs) drive ovarian cancer metastasis, therapeutic resistance, and relapse. This study aimed to develop a combination therapeutic strategy capable of eliminating both rapidly proliferating ovarian cancer cells and drug-resistant CSCs, thereby eradicating metastatic disease and preventing relapse. We engineered an adipose-derived mesenchymal stem cell clone (ASC-shCE2:yCD) that homes to tumors and locally converts the prodrugs irinotecan and 5-fluorocytosine (5-FC) into the cytotoxic agents SN38 and 5-fluorouracil (5-FU). This approach was combined with natural killer (NK) cell immunotherapy to eradicate CSCs that survived chemotherapy. Using patient-derived, drug-resistant metastatic ovarian cancer models, we show that exposure to SN38 or 5-FU upregulates NKG2D stress ligands (MICA/B) on CSCs, enhancing their susceptibility to NK-mediated cytotoxicity. Real-time imaging demonstrated rapid homing of engineered adipose-derived stem cells (ASCs) to tumor sites within 3 days. In triple-immunodeficient CIEA NOG mice, ASC-directed enzyme/prodrug therapy followed by NK cell immunotherapy eliminated metastatic ovarian tumors and prevented relapse during the monitoring period. Histopathological and hematological analyses revealed no clinically significant toxicity. Collectively, these findings establish a stem cell-directed chemoimmunotherapy that primes drug-resistant ovarian cancer cells for immune elimination, offering a rationale and effective strategy to safely eradicate metastatic disease and prevent recurrence.",
+        "source": "PubMed",
+        "doi": "10.1016/j.omton.2026.201214",
+        "keyword": "NK cell therapy",
+        "title_ja": "幹細胞指向性標的化学療法が、薬剤耐性転移性卵巣腫瘍をナチュラルキラー細胞による排除へと準備する。",
+        "summary_ja": "本論文は、卵巣癌の転移・治療抵抗性・再発を駆動する癌幹細胞（CSCs）を標的とした併用療法を開発した。脂肪由来間葉系幹細胞クローン（ASC-shCE2:yCD）を改変し、腫瘍にホーミングさせてプロドラッグ（イリノテカン、5-フルオロシトシン）を局所で活性化（SN38、5-FU）する。これにNK細胞免疫療法を組み合わせ、化学療法生存CSCsを排除する。患者由来の薬剤耐性転移性卵巣癌モデルにおいて、SN38または5-FU曝露がCSCs上のNKG2Dストレスリガンド（MICA/B）を上方制御し、NK細胞による細胞傷害感受性を亢進させた。リアルタイムイメージングで改変ASCが3日以内に腫瘍部位へホーミングすることを確認。三重免疫不全CIEA NOGマウスにおいて、ASC指向性酵素/プロドラッグ療法後にNK細胞免疫療法を実施した結果、転移性卵巣腫瘍が消失し、観察期間中の再発を防止した。組織学的・血液"
+      },
+      {
+        "title": "Targeting PLD3 Reverses the Immunosuppressive Niche by Reprogramming Tumor-Associated Macrophages and Potentiates Antitumor Immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42163781/",
+        "abstract": "A challenge in treating colorectal cancer (CRC) is the resistance of mismatch repair-proficient or microsatellite stable (MSS) tumors to immune checkpoint inhibitors (ICIs). Tumor-associated macrophages (TAMs) are among key drivers of this resistance. Phospholipase D3 (PLD3) is mainly expressed in macrophages, and PLD3+ macrophage (PLD3+Macro) influences immunotherapeutic efficacy and patient prognosis. We sought to define the role of PLD3 in regulating macrophage phenotypes, CRC progression, and immunotherapeutic response, and to identify potential agents target PLD3. Immunofluorescence revealed that the spatial infiltration dynamics of PLD3+Macro dictate immunotherapy resistance in CRC. We generated myeloid-specific Pld3-knockout mice. Using single-cell RNA sequencing (scRNA-seq) and flow cytometry, we delineated the impact of PLD3 on the tumor microenvironment (TME). RNA sequencing (RNA-seq) and mass spectrometry were applied to explore the role of PLD3 in macrophages. By integrating molecular docking with tumor models, we assessed the therapeutic potential of targeting macrophage-specific PLD3 in tumor progression and immunotherapy resistance. Collectively, PLD3 promotes tumor progression and immunotherapy resistance by modulating lysosomal-AKT-NF-κB axis, thereby driving macrophage senescence and anti-inflammatory phenotype. This is accompanied by dysregulated crosstalk from macrophages to NK and T cells, ultimately forming an immunosuppressive TME. Abrine targets PLD3 in macrophages and effectively enhances immunotherapy response in CRC.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.75730",
+        "keyword": "NK cell therapy",
+        "title_ja": "PLD3を標的とすることで、腫瘍関連マクロファージの再プログラミングを介して免疫抑制環境を逆転させ、抗腫瘍免疫を増強する。",
+        "summary_ja": "大腸癌（CRC）治療において、ミスマッチ修復正常・マイクロサテライト安定（MSS）腫瘍の免疫チェックポイント阻害剤（ICI）耐性が課題である。腫瘍関連マクロファージ（TAM）が耐性の主要因であり、ホスホリパーゼD3（PLD3）はマクロファージに主に発現し、PLD3+マクロファージ（PLD3+Macro）が免疫療法効果や患者予後に影響する。本研究では、PLD3のマクロファージ表現型制御、CRC進行、免疫療法応答における役割を解明し、標的薬剤を特定した。免疫蛍光法でPLD3+Macroの空間浸潤動態がICI耐性を決定し、骨髄特異的Pld3ノックアウトマウスを用いたシングルセルRNA-seqやフローサイトメトリーで腫瘍微小環境（TME）への影響を解析。RNA-seqと質量分析でPLD3がリソソーム-AKT-NF-κB軸を介しマクロファージ老化と抗炎症表現型を誘導し、NK・T細胞とのクロストークを"
+      },
+      {
+        "title": "Immune tolerance versus cancer surveillance: an ongoing challenge.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42161401/",
+        "abstract": "Maintenance of anticancer immunity without compromising immune tolerance remains a challenge. Immunosuppressive regulatory T cells (Tregs) are the guardians of immune tolerance that underpin prevention of autoimmune responses. Tregs express checkpoint molecules that suppress autoreactive immune cells from being activated by endogenous (self) proteins. However, expression of these checkpoints on immune cells contributes to cancer cell evasion from the immune system while inhibition of checkpoint signaling in cancer immunotherapy induces autoimmune-related adverse events. Two instructive cytokines that regulate the opposing functions of immunosuppressive Tregs and anticancer responses mediated by cytotoxic natural killer cells include the interleukins, IL-2 and IL-12. An overview based on published data is described herein to highlight how manipulation of these cytokines may have dual action in oncologic and autoimmune models. This raises the possibility of exploiting mechanisms in cancer immunotherapy that could promote anticancer immunity while still maintaining immune tolerance. Given the role of peptides in protein-related interactions, it remains important in rational drug design to remain vigilant for potentially beneficial effects that could benefit both cancer surveillance and immune tolerance.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2025-014602",
+        "keyword": "NK cell therapy",
+        "title_ja": "免疫寛容とがん監視：継続する課題",
+        "summary_ja": "免疫寛容とがん免疫監視の両立は課題である。免疫抑制性制御性T細胞（Tregs）は自己免疫応答を防ぐ免疫寛容の守護者であり、チェックポイント分子を発現して自己タンパク質による自己反応性免疫細胞の活性化を抑制する。しかし、この分子の発現はがん細胞の免疫回避を促進し、免疫療法でのチェックポイント阻害は自己免疫関連有害事象を誘発する。Tregsの抑制機能と細胞傷害性ナチュラルキラー細胞による抗がん応答を調節するサイトカインとしてIL-2とIL-12が重要であり、これらの操作が腫瘍学と自己免疫モデルで二重の作用を持つ可能性が示唆される。これにより、免疫寛容を維持しつつ抗がん免疫を促進する機構の活用が期待される。ペプチドのタンパク質相互作用における役割を踏まえ、合理的な薬剤設計ではがん監視と免疫寛容の両方に有益な効果に留意すべきである。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "The role of targeted exosomes in improving drug delivery in breast cancer: challenges and prospects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42165907/",
+        "abstract": "Breast cancer is one of the most common and deadly types of cancer in women, and its treatment is associated with several challenges, including drug resistance, drug side effects, and inadequate targeting of cancer cells. In recent years, the use of exosomes as natural drug carriers has attracted much attention due to their properties such as high biocompatibility, ability to cross biological barriers, and ability to target specific cells. Targeted exosomes, by surface modification and loading of chemotherapeutic drugs, regulatory RNAs, and other therapeutic molecules, enable more effective drug delivery and reduce systemic toxicity. This review article will examine the role of targeted exosomes in improving drug delivery in breast cancer in a narrative manner. First, the structure and biological properties of exosomes and different drug loading methods are described. Then, the preclinical and clinical applications of exosomes in the delivery of various drugs and their effects on cancer cells and cancer stem cells are reviewed. The main challenges in the use of exosomes are also discussed, including standardization of isolation and detection methods, precise control of drug loading, unfavorable stability and biodistribution, and issues related to mass production and safety. Finally, the future prospects of this field are discussed, focusing on novel exosome engineering technologies, combination with immunotherapies, and development of more precise targeting methods. This review shows that targeted exosomes have great potential to improve the efficacy of breast cancer therapies, but further research and resolution of technical and clinical challenges are required for widespread clinical entry.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-11635-y",
+        "keyword": "Exosomes",
+        "title_ja": "標的指向性エクソソームが乳がんにおける薬物送達を改善する役割：課題と展望",
+        "summary_ja": "乳がんは女性に多く、薬剤耐性や副作用、標的化の不十分さが治療課題である。近年、エクソソームは高い生体適合性、生体関門通過能、標的細胞指向性を持ち、天然の薬物キャリアとして注目される。標的化エクソソームは表面修飾と化学療法薬、調節RNA等の搭載により、薬物送達効率を向上させ全身毒性を低減する。本総説では、まずエクソソームの構造・生物学的特性と薬物搭載法を解説し、前臨床・臨床応用における乳がん細胞やがん幹細胞への効果を概観する。課題として、単離・検出法の標準化、搭載量の精密制御、安定性・生体内分布の不良、大量生産と安全性が挙げられる。将来展望として、新規エンジニアリング技術、免疫療法との併用、精密標的法の開発が議論される。標的化エクソソームは乳がん治療効果向上に大きな可能性を持つが、臨床普及には技術的・臨床的課題の解決が必要である。"
+      },
+      {
+        "title": "Auto-loaded polydopamine-M2 exosomes as an antioxidative nanoscavenger for lupus erythematosus therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42164463/",
+        "abstract": "Systemic lupus erythematosus (SLE) is a chronic autoimmune disease characterized by multisystem inflammation and immune dysregulation, predominantly affecting women of reproductive age. Current treatments, including antimalarials, corticosteroids, and immunosuppressants, often entail long-term toxicity. To address this, we developed an auto-loaded polydopamine-M2 exosome system (M2/pEXO) as an antioxidative nanoscavenger for SLE therapy. Ultrasmall PDA nanoparticles facilitated M2 macrophage polarization and were autonomously encapsulated into exosomes during polarization, yielding M2/pEXO with enriched protein content and enhanced cellular uptake. Proteomic analysis indicated that M2/pEXO cargo proteins are involved in cellular energy metabolism and inflammatory regulation, underpinning its immunomodulatory and antioxidant functions. Compared with conventional M2 EXO, M2/pEXO exhibited superior antioxidative and anti-inflammatory effects, reducing M1 macrophage polarization and pro-inflammatory cytokine secretion while promoting regulatory T cell expansion. In a murine SLE model, M2/pEXO significantly alleviated lupus nephritis, attenuating renal immune infiltration, glomerular mesangial proliferation, proteinuria, serum creatinine, and anti-dsDNA autoantibody levels, without detectable toxicity. The platform elevates M2 EXO from mere anti-inflammatory carriers to an integrated nanoscavenger system capable of targeted delivery, oxidative stress scavenging, and immunomodulation. This auto-loaded, naturally engineered strategy presents a safe and effective therapeutic approach for SLE and potentially other chronic inflammatory diseases.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103199",
+        "keyword": "Exosomes",
+        "title_ja": "自己搭載型ポリドーパミン-M2エクソソームによるループス erythematosus 治療のための抗酸化ナノスカベンジャー",
+        "summary_ja": "全身性エリテマトーデス（SLE）は、生殖年齢女性に多い慢性自己免疫疾患で、現行治療には長期毒性の問題がある。本研究では、抗酸化ナノスカベンジャーとして、自動搭載型ポリドーパミン-M2エクソソームシステム（M2/pEXO）を開発した。超小型PDAナノ粒子がM2マクロファージの分極を促進し、その過程でエクソソーム内に自律的に内包され、タンパク質含有量と細胞取り込みが向上した。プロテオミクス解析により、M2/pEXOの積載タンパク質は細胞エネルギー代謝と炎症制御に関与し、免疫調節・抗酸化機能を支える。従来のM2 EXOと比較し、M2/pEXOは優れた抗酸化・抗炎症効果を示し、M1マクロファージ分極と炎症性サイトカイン分泌を抑制し、制御性T細胞を増加させた。SLEマウスモデルでは、腎免疫浸潤、糸球体メサンギウム増殖、タンパク尿、血清クレアチニン、抗dsDNA自己抗体を有意に軽減し、毒性は認められな"
+      },
+      {
+        "title": "Tumor microenvironment-responsive ARRDC4: unveiling the tumor-suppressive pathway in colorectal cancer progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42163297/",
+        "abstract": "One of the leading causes of poor prognosis in colorectal cancer (CRC) patients is the presence of colorectal cancer-initiating cells (CCICs). The tumor microenvironment (TME) plays a role in the acquisition of CCICs characteristics. However, the underlying mechanisms remain unclear.",
+        "source": "PubMed",
+        "doi": "10.1186/s12935-026-04339-7",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍微小環境応答性ARRDC4：大腸癌進展における腫瘍抑制経路の解明",
+        "summary_ja": "タイトル：大腸癌進展における腫瘍抑制経路としてのTME応答性ARRDC4の解明\n\n大腸癌（CRC）患者の予後不良の主因は、大腸癌起始細胞（CCICs）の存在である。腫瘍微小環境（TME）はCCICs特性の獲得に関与するが、その分子機構は不明である。本論文では、TMEに応答するARRDC4がCRC進展において腫瘍抑制経路を担うことを示す。ARRDC4はTMEシグナルにより発現調節を受け、CCICsの維持や腫瘍形成能を抑制する。この経路の解明は、CRC治療における新たな標的の可能性を提示する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Recent advances in the use of stem cell-derived exosomes for joint regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42166085/",
+        "abstract": "Recent advances in regenerative medicine have highlighted the pivotal role of stem cell-derived exosomes (SC-Exos) as promising acellular therapeutics for joint regeneration. These nanosized extracellular vesicles, which are secreted by mesenchymal stem cells (MSCs) and other progenitor cells, encapsulate bioactive molecules such as proteins, lipids, and nucleic acids, which can modulate inflammation, promote chondrogenesis, and enhance cartilage and bone repair. Unlike their cellular counterparts, SC-Exos offer advantages including lower immunogenicity, improved safety profiles, and easier storage and handling.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-11992-8",
+        "keyword": "Exosomes",
+        "title_ja": "幹細胞由来エクソソームを用いた関節再生における最近の進歩",
+        "summary_ja": "近年の再生医療の進展により、関節再生における無細胞治療薬として、幹細胞由来エクソソーム（SC-Exos）の重要性が注目されている。間葉系幹細胞（MSCs）や他の前駆細胞から分泌されるこれらのナノサイズの細胞外小胞は、タンパク質、脂質、核酸などの生理活性分子を内包し、炎症調節、軟骨形成促進、軟骨および骨修復を誘導する。従来の細胞治療と比較し、SC-Exosは低免疫原性、高い安全性、保存・取り扱いの容易さといった利点を持つ。"
+      },
+      {
+        "title": "Platelet-rich plasma-primed bone marrow mesenchymal stem cell-derived exosomes inhibit neuronal apoptosis and autophagy, and promote nerve regeneration via the miR-29a-3p/PTEN/PI3K/Akt/mTOR axis after spinal cord injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42165939/",
+        "abstract": "Both platelet-rich plasma (PRP) and exosomes derived from bone marrow mesenchymal stem cells (BMSCs) exhibit therapeutic potential for spinal cord injury (SCI). However, the combined application of PRP and BMSCs-derived exosome (PRP-primed BMSCs-EXO, PRP-BMSCs-EXO) has not been reported. This study aimed to investigate whether the combined use confers superior therapeutic effects and to explore the underlying molecular mechanisms. First, we examined the effects of PRP priming on the proliferation and exosome secretion of BMSCs. High-throughput sequencing and RT-qPCR were used to analyze the differential miRNA expression profiles between exosomes from PRP- primed BMSCs (PRP-BMSCs-EXO) and naive BMSCs (BMSCs-EXO). Subsequently, a series of in vitro SCI models were established to evaluate the therapeutic effects of PRP-BMSCs-EXO on SCI. TargetScan, RNAhybrid, GO, KEGG, dual-luciferase reporter assay, RT-qPCR, western blotting (WB), and rescue experiments were performed to explore the roles of miRNAs in PRP-BMSCs-EXO and the associated signaling regulatory mechanisms in SCI. Finally, a series of in vivo SCI models were used to verify the therapeutic efficacy and mechanisms of PRP-BMSCs-EXO in vivo. PRP priming promoted the proliferation and exosome secretion of BMSCs. High-throughput sequencing and RT-qPCR revealed that multiple miRNAs were highly expressed in PRP-BMSCs-EXO compared with BMSCs-EXO, among which miR-29a-3p was the most abundant. In in vitro SCI models, PRP-BMSCs-EXO exerted better therapeutic effects than BMSCs-EXO and PRP. Mechanistically, PRP-BMSCs-EXO may enhance the viability and migration and inhibit the apoptosis and autophagy of pheochromocytoma 12 (PC12) cells by delivering miR-29a-3p, thereby promoting nerve regeneration and SCI repair. Bioinformatic analysis and luciferase assays indicated that PTEN may be a downstream target gene of miR-29a-3p. Rescue experiments confirmed that the miR-29a-3p/PTEN/PI3K/Akt/mTOR axis may mediate the regulatory effects of PRP-BMSCs-EXO on neuronal apoptosis, autophagy, and nerve regeneration in SCI. These findings were further validated in in vivo SCI models. Compared with PRP and BMSC-derived exosomes alone, PRP-primed BMSC-derived exosomes provide superior neuroprotective effects against SCI. PRP-BMSCs-EXO inhibits neuronal apoptosis and autophagy and promotes nerve regeneration via the miR-29a-3p/PTEN/PI3K/Akt/mTOR axis, representing a promising and effective therapeutic strategy for SCI.",
+        "source": "PubMed",
+        "doi": "10.1007/s10735-026-10823-1",
+        "keyword": "Exosomes",
+        "title_ja": "多血小板血漿プライミング骨髄間葉系幹細胞由来エクソソームは、脊髄損傷後においてmiR-29a-3p/PTEN/PI3K/Akt/mTOR経路を介して神経細胞のアポトーシスとオートファジーを抑制し、神経再生を促進する。",
+        "summary_ja": "本論文は、PRP（多血小板血漿）で前処理した骨髄間葉系幹細胞（BMSCs）由来エクソソーム（PRP-BMSCs-EXO）の脊髄損傷（SCI）治療効果と分子機構を検討した。PRP前処理はBMSCsの増殖とエクソソーム分泌を促進し、PRP-BMSCs-EXOは未処理BMSCs由来エクソソームやPRP単独より優れた治療効果を示した。miR-29a-3pが高発現しており、これを介してPC12細胞の生存・遊走能を向上させ、アポトーシスとオートファジーを抑制した。標的遺伝子PTENを介したPI3K/Akt/mTOR経路の調節が関与し、神経再生を促進した。in vivoモデルでも同様の効果が確認され、PRP-BMSCs-EXOはSCIに対する有望な治療戦略である。"
+      },
+      {
+        "title": "Statement of Retraction: Exosomes derived from fibrinogen-like protein 1-overexpressing bone marrow-derived mesenchymal stem cells ameliorates rheumatoid arthritis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42165306/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1080/21655979.2026.2667615",
+        "keyword": "Exosomes",
+        "title_ja": "撤回声明：过表达纤维蛋白原样蛋白1的骨髓间充质干细胞来源的外泌体改善类风湿性关节炎。",
+        "summary_ja": "以下の通り、指定された論文の要約を日本語で400文字以内にまとめます。\n\n**要約**\n\n本論文は、フィブリノーゲン様タンパク質1（FGL1）を過剰発現する骨髄由来間葉系幹細胞（BM-MSC）から分泌されるエクソソームが、関節リウマチ（RA）を改善するという内容でしたが、正式に撤回（Retraction）されました。撤回理由は、研究の信頼性やデータの整合性に関する問題が発見されたためとみられます。専門用語として、FGL1、BM-MSC、エクソソーム、関節リウマチが使用されています。本声明は、当該論文の内容が科学的に有効でないことを示す公式な通知です。"
+      },
+      {
+        "title": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42164935/",
+        "abstract": "Plant bioactives are necessary for human health owing to their many biological impacts. ",
+        "source": "PubMed",
+        "doi": "10.1007/s13197-025-06267-2",
+        "keyword": "Exosomes",
+        "title_ja": null,
+        "summary_ja": "植物由来の生理活性物質（Plant bioactives）は、多様な生物学的影響を持つため、人間の健康に不可欠である。これらの化合物は抗酸化作用、抗炎症作用、免疫調節機能などを示し、慢性疾患の予防や健康維持に寄与する。具体的なメカニズムや応用例については本文中で詳述されていないが、植物由来成分の重要性が強調されている。"
+      },
+      {
+        "title": "Gastric Cancer-Derived Exosomal MATN3 Favours Immunosuppressive Tumour Microenvironment by Activating Autophagy in an EGFR/ELK1/ATG12 Signalling Dependent Manner.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42163458/",
+        "abstract": "Gastric cancer (GC)-derived exosomes (Exos) have been identified to facilitate GC progression by inducing M2 macrophage polarization. This study investigated the biological function of exosomal matrilin-3 (MATN3) in M2 macrophage polarisation during GC development and its underlying mechanism. Exos were isolated from GC cells and then co-cultured with THP-1-derived macrophages. Macrophage polarisation was evaluated by measuring the levels of M1/M2 macrophage markers. Target molecule expression was evaluated by RT-qPCR, Western blotting and immunohistochemical staining. LC3II expression and the co-localisation of MATN3 and epidermal growth factor receptor (EGFR) were determined by immunofluorescent staining. In vivo growth of GC cells was assessed in a xenograft mouse model. Molecular mechanisms were analysed by Co-IP, ChIP, dual-luciferase reporter assay and ubiquitination assay. MATN3 was highly expressed in GC and its high expression was negatively associated with the overall survival and M1 macrophage marker expression of GC patients. The in vitro experiments validated that MATN3 was secreted by GC-Exos, which promoted M2 macrophage polarisation via autophagy activation. In addition, exosomal MATN3 contributed to in vivo growth of GC cells via promoting M2 macrophage infiltration. Mechanistically, MATN3 interacted with EGFR to enhance its protein stability, which activated Ets-like protein-1 (ELK1) and consequently promoted ATG12-mediated autophagy. Activation of the EGFR/ELK1 pathway abolished exosomal MATN3 silencing-mediated inhibitory effect on autophagy and M2 macrophage polarisation. GC-derived exosomal MATN3 exerted an oncogenic role by inducing M2 macrophage polarisation via activation of the EGFR/ELK1/ATG12 axis-mediated autophagy, which provides potential therapeutic targets for GC.",
+        "source": "PubMed",
+        "doi": "10.1111/imm.70144",
+        "keyword": "Exosomes",
+        "title_ja": "胃がん由来エクソソームMATN3は、EGFR/ELK1/ATG12シグナル依存的にオートファジーを活性化することで免疫抑制性腫瘍微小環境を促進する",
+        "summary_ja": "胃癌由来エクソソーム（GC-Exos）はM2マクロファージ分極を誘導し、腫瘍進行を促進する。本研究では、エクソソーム内のmatrilin-3（MATN3）の機能と機構を解析。GC細胞から単離したExosをTHP-1由来マクロファージと共培養し、M1/M2マーカー発現を評価。MATN3はGCで高発現し、患者の全生存率およびM1マーカー発現と負の相関を示した。in vitro実験で、GC-Exos由来MATN3はオートファジー活性化を介してM2分極を促進。in vivoでもM2浸潤を介した腫瘍増殖に寄与した。機構的には、MATN3がEGFRと結合しその安定性を高め、ELK1を活性化、ATG12を介したオートファジーを誘導した。EGFR/ELK1経路の活性化は、MATN3抑制によるオートファジーおよびM2分極抑制効果を消失させた。以上より、GC由来エクソソームMATN3はEGFR/ELK1/AT"
+      },
+      {
+        "title": "Targeting skin barrier repair: mechanisms of action, therapeutic evidence, and clinical translation challenges of mesenchymal stem cell-derived exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42163388/",
+        "abstract": "Dysfunction of the skin barrier is a central pathological feature in dermatology, driving the need for innovative repair strategies. Mesenchymal stem cell-derived exosomes (MSC-exos) represent a promising cell-free therapeutic paradigm, leveraging their innate cargo to modulate regeneration and immune responses. This review systematically examines the multifaceted role of MSC-exos in restoring skin barrier integrity. We delineate their molecular mechanisms in repairing physical, immunological, and microbial barrier components, supported by evidence from preclinical disease models. The influence of MSC source and preconditioning on exosome efficacy is analyzed, alongside emerging bioengineering approaches. Crucially, we identify and discuss the key translational challenges-including standardization, scalable manufacturing, and regulatory pathways-that must be addressed to advance these nanotherapeutics toward clinical application. This synthesis provides a critical framework for future research aimed at harnessing MSC-exos for targeted barrier repair.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-04941-6",
+        "keyword": "Exosomes",
+        "title_ja": "標的とする皮膚バリア修復：間葉系幹細胞由来エクソソームの作用機序、治療エビデンス、および臨床応用における課題",
+        "summary_ja": "本レビューは、皮膚バリア機能不全に対する新規治療法として、間葉系幹細胞由来エクソソーム（MSC-exos）の役割を体系的に検討した。MSC-exosは細胞フリー治療パラダイムとして、物理的、免疫学的、微生物学的バリア成分の修復に関与する分子メカニズムを有し、前臨床疾患モデルでその有効性が示されている。また、MSCの供給源やプレコンディショニングがエクソソームの有効性に与える影響、および新たなバイオエンジニアリング手法について分析。さらに、臨床応用に向けた主要な課題として、標準化、スケーラブルな製造、規制経路を特定し、これらの克服がナノ治療薬の実用化に不可欠であると結論づけている。"
+      },
+      {
+        "title": "Exosome-functionalized alginate/gelatin composite scaffolds: synergistic enhancement of osteogenic differentiation for bone tissue engineering.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42163379/",
+        "abstract": "This study investigates the osteogenic potential of exosome (Exo)-loaded alginate/gelatin (OA/Gel) macromolecular composite scaffolds for human adipose-derived stem cells (hASCs). OA/Gel scaffolds were fabricated and crosslinked with EDC, followed by the incorporation of Exo at concentrations of 0.5, 1, 2, and 4 µL. The scaffolds were characterized in terms of morphology, porosity, swelling behavior, mechanical properties, and cell adhesion. Osteogenic differentiation was assessed through alkaline phosphatase activity, Alizarin Red staining, and RT-PCR for Runt-related transcription factor 2, alkaline phosphatase, and bone gamma-carboxyglutamic acid-containing protein expression. Scanning electron microscopy analysis revealed interconnected pores predominantly within the range of 100-200 μm, with OA/Gel scaffolds demonstrating reduced pore size and enhanced mechanical strength compared to single-component scaffolds. The OA/Gel macromolecular scaffold exhibited optimal pore architecture (~ 180 μm), superior cell adhesion and proliferation, and significantly upregulated osteogenic markers at days 7 and 21. These findings suggest that Exo-loaded OA/Gel scaffolds, particularly at a concentration of 2.0 µL Exo, provide a favorable three-dimensional microenvironment for hASC osteogenic differentiation, highlighting their potential as a promising biomaterials for bone tissue engineering applications.",
+        "source": "PubMed",
+        "doi": "10.1186/s13018-026-06945-7",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム機能化アルギン酸/ゼラチン複合足場：骨組織工学における骨形成分化の相乗的促進",
+        "summary_ja": "本論文は、エクソソーム（Exo）を搭載したアルギン酸/ゼラチン（OA/Gel）複合足場材料が、ヒト脂肪由来幹細胞（hASCs）の骨形成分化に与える影響を検討した。OA/Gel足場をEDCで架橋後、0.5、1、2、4 µLのExoを添加し、形態、多孔性、膨潤性、力学特性、細胞接着を評価。骨形成分化はALP活性、アリザリンレッド染色、RT-PCR（Runx2、ALP、BGLAP発現）で解析した。SEM観察により、OA/Gel足場は100–200 µmの連通孔を有し、単一成分足場より孔径が小さく力学強度が向上。最適な孔径（約180 µm）を示し、細胞接着・増殖に優れ、7日目と21日目で骨形成マーカーが有意に上昇した。特に2.0 µL Exo搭載群が最も効果的であり、本足場はhASCの骨形成分化を促進する三次元微小環境を提供し、骨組織工学用生体材料として有望である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めて500文字以内でまとめます。\n\n1. **CD44陽性骨髄腫へのATRA・ボルテゾミブ・NK細胞併用療法**  \n   CD44は癌の予後不良因子。多発性骨髄腫でこの併用が耐性克服に有望で、既存薬の再活用と免疫療法の融合が新たな治療軸となる。\n\n2. **癌幹細胞標的療法とNK細胞による卵巣癌治療**  \n   脂肪由来間葉系幹細胞を改変し腫瘍へホーミング、プロドラッグ活性化で癌幹細胞を除去後、NK細胞で残存腫瘍を排除。転移・再発抑制に革新をもたらす。\n\n3. **標的化エクソソームによる乳癌薬物送達**  \n   エクソソームは生体適合性・標的指向性に優れ、表面修飾で薬剤耐性や副作用を克服。乳癌治療の個別化・低侵襲化を促進する次世代DDSとして期待。\n\n4. **M2エクソソームによる全身性エリテマトーデス治療**  \n   抗酸化ナノスカベンジャーとしてM2マクロファージ由来エクソソームを開発。自己免疫疾患の慢性炎症を抑制し、長期毒性のない新規治療法へ発展可能性。\n\n5. **胃癌エクソソームMATN3による免疫抑制機構**  \n   胃癌由来エクソソーム内MATN3がM2マクロファージ分極を誘導。EGFR/ELK1/ATG12経路を介した免疫逃避機構の解明は、新たな免疫チェックポイント標的創出につながる。\n\nこれらの研究は、エクソソームやNK細胞を活用した癌・自己免疫疾患治療の精密化と、耐性克服・副作用低減への道を拓く。"
+}

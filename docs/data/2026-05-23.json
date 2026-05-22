@@ -1,0 +1,262 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Isolation of small extracellular vesicles from small volumes of blood plasma using size exclusion chromatography and density gradient ultracentrifugation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42170952/",
+        "abstract": "Small extracellular vesicles (sEVs) are heterogeneous biological vesicles released by cells under both physiological and pathological conditions. Due to their potential as valuable diagnostic and prognostic biomarkers in human blood, there is a pressing need to develop effective methods for isolating high-purity sEVs from the complex milieu of blood plasma, which contains abundant plasma proteins and lipoproteins. Size exclusion chromatography (SEC) and density gradient ultracentrifugation (DGUC) are two commonly employed isolation techniques that have shown promise in addressing this challenge. In this study, we aimed to determine the optimal combination and sequence of SEC and DGUC for isolating sEVs from small plasma volumes, in order to enhance both the efficiency and purity of the resulting isolates. To achieve this, we compared sEV isolation using two combinations: SEC-DGUC and DGUC-SEC, from unit volumes of 500 μL plasma. Both protocols successfully isolated high-purity sEVs; however, the SEC-DGUC combination yielded higher sEV protein and RNA content. We further characterized the isolated sEVs obtained from the SEC-DGUC protocol using flow cytometry and mass spectrometry to assess their quality and purity. In conclusion, the optimized SEC-DGUC protocol is efficient, highly reproducible, and well suited for isolating high-purity sEVs from small blood volumes.",
+        "source": "PubMed",
+        "doi": "10.7554/eLife.92796",
+        "keyword": "Exosomes",
+        "matched_keywords": [
+          "Exosomes",
+          "sEVs"
+        ],
+        "title_ja": "サイズ排除クロマトグラフィーと密度勾配超遠心法を用いた少量血漿からの小型細胞外小胞の単離",
+        "summary_ja": "本論文では、血液中のsmall extracellular vesicles (sEVs) を少量の血漿から高純度で分離する手法を検討した。SEC（サイズ排除クロマトグラフィー）とDGUC（密度勾配超遠心法）の2つの組み合わせ（SEC-DGUCおよびDGUC-SEC）を500 μLの血漿で比較した結果、両プロトコルとも高純度のsEVsを分離できたが、SEC-DGUCの方がsEVタンパク質およびRNA含量が高かった。さらに、フローサイトメトリーと質量分析により品質を確認し、SEC-DGUCプロトコルが効率的で再現性が高く、少量血漿からの高純度sEV分離に適していると結論づけた。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Monoclonal gammopathies of cutaneous significance: A nomenclature and pathophysiology-based classification.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41740896/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.jaad.2025.12.126",
+        "keyword": "PF4",
+        "title_ja": "皮膚関連単クローン性ガンマパチー：命名法と病態生理に基づく分類",
+        "summary_ja": "以下の要約です。\n\n本論文は、皮膚に異常を呈する単クローン性ガンマパチー（monoclonal gammopathies of cutaneous significance）の新たな命名法と病態生理に基づく分類を提案する。従来の分類は臨床像に依存していたが、本分類では原因となる免疫グロブリン（IgG、IgA、IgMなど）とその沈着部位（真皮、血管、基底膜など）に着目。病態として、アミロイドーシス、クリオグロブリン血症、免疫複合体沈着、補体活性化などを挙げ、これらに応じて治療法（抗骨髄腫療法、免疫抑制、血漿交換など）を整理した。皮膚所見（紫斑、水疱、硬化性病変など）と血清・組織学的所見を統合し、血液内科と皮膚科の連携を重視する。本分類は診断精度向上と個別化治療に寄与すると結論づける。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "The role of immunotherapy in the treatment of neuroblastoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42171699/",
+        "abstract": "Neuroblastoma is the most common extracranial solid tumor in children. The prognosis for high-risk disease remains poor despite multimodal therapy, including chemotherapy, surgical resection, radiotherapy, and autologous stem-cell transplantation. Immunotherapy has improved outcomes remarkably, particularly using anti-GD2 monoclonal antibodies, which are now established as standard maintenance therapy. Combination regimens of cytokines and isotretinoin have enhanced survival, and chemo-immunotherapy has demonstrated superior response rates in relapsed/refractory settings. The aim of treatment with next-generation antibodies, such as humanized or Fc-engineered formats, is to reduce toxicity and improve efficacy. GD2-based vaccines and cellular therapies, including CAR-T cells, NK/NKT cell therapy, and bispecific antibody-armed T cells, have shown promising activity, particularly for minimal residual disease. However, challenges such as GD2 downregulation, an immunosuppressive tumor microenvironment, and manufacturing constraints persist. Future strategies may involve multimodal immunotherapy integrating antibodies, vaccines, and cellular platforms with precise patient selection and microenvironment modulation. Immunotherapy is reshaping neuroblastoma treatment, with the potential to achieve both deeper remission and long-term disease control.",
+        "source": "PubMed",
+        "doi": "10.1007/s00595-026-03327-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "免疫療法が神経芽腫治療において果たす役割",
+        "summary_ja": "神経芽腫は小児で最も多い頭蓋外固形腫瘍であり、高リスク例では集学的治療にもかかわらず予後不良である。免疫療法は特に抗GD2モノクローナル抗体の導入により転帰を著しく改善し、現在は標準的な維持療法として確立されている。サイトカインとイソトレチノインの併用は生存率を向上させ、再発・難治例では化学免疫療法が高い奏効率を示す。次世代抗体（ヒト化型やFc改変型）は毒性低減と有効性向上を目的とし、GD2ワクチンやCAR-T細胞、NK/NKT細胞療法、二重特異性抗体 armed T細胞などの細胞療法は微小残存病変に有望である。一方、GD2発現低下、免疫抑制性腫瘍微小環境、製造上の課題が残る。今後の戦略は、抗体・ワクチン・細胞プラットフォームを統合し、患者選択と微小環境調節を精密化する多様な免疫療法が鍵となる。免疫療法は神経芽腫治療を変革し、深い寛解と長期制御の可能性を秘めている。"
+      },
+      {
+        "title": "Broadening activity of checkpoint blockade agents by intratumoral nucleoside cleavage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42171604/",
+        "abstract": "We investigated whether destroying malignant cells and the associated tumor microenvironment (TME) by focal gene therapy would broaden immune checkpoint inhibitor (ICI) effectiveness. We show that ICI antitumor activity against syngeneic (murine) triple-negative breast cancer (TNBC) was augmented when a therapeutic transgene (purine nucleoside phosphorylase, referred to here as E. coli PNP) was used to cleave fludarabine (2-fluoro-arabinofuranosyl adenine) to the anticancer purine base, 2-fluoroadenine (F-Ade). We also established strong repression of anatomically distant, non-PNP-expressing tumors being treated by the same strategy. TNBC cytoreduction was associated with decreased intratumoral PD1+ Tregs, increased granzyme B+ NK cells, elevated MKI67+ T8 cells, and rapid immune clearance. Because F-Ade works by a mechanism that destroys quiescent neoplastic and supporting cells in the microenvironment, and since resistance to ICIs depends upon an intact TME, tumor killing by this approach offers a means to sensitize refractory malignancies to immune ablation and points to broad applicability against numerous cancer subtypes.",
+        "source": "PubMed",
+        "doi": "10.1172/jci.insight.194142",
+        "keyword": "NK cell therapy",
+        "title_ja": "腫瘍内ヌクレオシド切断によるチェックポイント阻害薬の活性拡大",
+        "summary_ja": "本論文では、腫瘍内ヌクレオシド切断による局所遺伝子治療が免疫チェックポイント阻害剤（ICI）の効果を拡大する可能性を検討した。同系マウスのトリプルネガティブ乳癌（TNBC）モデルにおいて、治療用トランスジーン（大腸菌プリン ヌクレオシド ホスホリラーゼ、E. coli PNP）を用いてフルダラビンを抗がん性プリン塩基である2-フルオロアデニン（F-Ade）に切断することで、ICIの抗腫瘍活性が増強された。また、PNPを発現しない遠隔腫瘍に対しても強い抑制効果が確認された。TNBCの細胞減少は、腫瘍内PD1+制御性T細胞の減少、granzyme B+ NK細胞の増加、MKI67+ CD8 T細胞の上昇、および迅速な免疫クリアランスと関連していた。F-Adeは静止期の腫瘍細胞や微小環境支持細胞を破壊する機序を持ち、ICI抵抗性は腫瘍微小環境（TME）の完全性に依存するため、本アプローチは難治性"
+      },
+      {
+        "title": "Polydopamine-coated hollow mesoporous silica nanoparticles loaded with lupeol regulates immune microenvironment in gastric cancer mice by down-regulating IL-10 through regulating NF-κb signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42170971/",
+        "abstract": "Modulating the immune microenvironment is a promising strategy against gastric cancer.",
+        "source": "PubMed",
+        "doi": "10.36721/PJPS.2026.39.7.194.1",
+        "keyword": "NK cell therapy",
+        "title_ja": "ルペオールを内包したポリドーパミン被覆中空メソポーラスシリカナノ粒子は、NF-κBシグナル調節を介してIL-10を低下させることにより、胃癌マウスの免疫微小環境を制御する",
+        "summary_ja": "タイトル：ルペオール内包ポリドーパミン被覆中空メソポーラスシリカナノ粒子はNF-κBシグナル調節を介したIL-10低下により胃癌マウスの免疫微小環境を制御する\n\n内容：免疫微小環境の調節は胃癌治療の有望な戦略である。本研究では、ルペオールを内包したポリドーパミン被覆中空メソポーラスシリカナノ粒子（LuP@HMSN-PDA）を作製し、胃癌マウスモデルにおける効果を検討した。LuP@HMSN-PDAは腫瘍部位に選択的に集積し、NF-κBシグナル経路を阻害することでIL-10の発現を低下させた。その結果、免疫抑制性の腫瘍微小環境が改善され、CD8+ T細胞の浸潤が増加し、抗腫瘍免疫応答が活性化された。本ナノ粒子は胃癌の免疫療法における新たなプラットフォームとして期待される。"
+      },
+      {
+        "title": "Hemoglobin-Based Oxygen Carriers Promoted the Antitumor Effect of ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42170772/",
+        "abstract": null,
+        "source": "PubMed",
+        "doi": "10.1177/10849785261448523",
+        "keyword": "NK cell therapy",
+        "title_ja": "ヘモグロビン酸素運搬体が抗腫瘍効果を促進",
+        "summary_ja": "申し訳ありませんが、ご提供いただいた論文・記事の内容が「None」となっており、要約するための本文が存在しません。タイトル「Hemoglobin-Based Oxygen Carriers Promoted the Antitumor Effect of」のみでは、具体的な内容を要約できません。正しい本文をご提供いただければ、専門用語を保持しつつ400文字以内で簡潔にまとめます。"
+      },
+      {
+        "title": "Polysaccharides: Natural candidates for targeting immunometabolic regulation in hepatocellular carcinoma (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42169648/",
+        "abstract": "Hepatocellular carcinoma (HCC) is a leading cause of cancer‑related morbidity and mortality worldwide. HCC pathogenesis is predominantly associated with chronic liver disease, driven by a vicious cycle of persistent hepatic injury, chronic inflammation and aberrant hepatocyte regeneration. Within this complex pathological landscape, remodeling of the tumor immune microenvironment (TIME), metabolic dysregulation and gut‑liver axis imbalance collectively contribute to HCC initiation and progression. Given the limited efficacy of conventional therapeutic modalities against such multifaceted pathologies, there is an urgent need to explore novel strategies that are safe, effective and capable of multi‑target regulation. Natural polysaccharides, a class of bioactive macromolecules, have emerged as promising candidates for prevention and treatment. Polysaccharides not only directly suppress malignant phenotypes in HCC cells by modulating cell cycle progression, inducing apoptosis, and inhibiting invasion and metastasis, but also exert potent immunomodulatory effects. Specifically, they activate key immune effectors, including cytotoxic T lymphocytes, dendritic cells, natural killer cells and tumor‑associated macrophages, thereby reversing immunosuppression and reshaping the TIME. Furthermore, polysaccharides can modulate the gut microbiota and its metabolites, enrich beneficial bacterial taxa, and reinforce intestinal barrier integrity. These actions subsequently influence intrahepatic immune responses and inflammatory status, achieving systemic intervention via the 'gut‑liver‑immune' axis. The present review provides a systematic overview of the multifaceted mechanisms by which polysaccharides combat HCC, including direct antitumor effects, modulation of the TIME and regulation of the gut microbiota. By synthesizing current evidence, the present review aims to offer critical perspectives to advance the mechanistic understanding and facilitate the clinical translation of polysaccharides for HCC treatment.",
+        "source": "PubMed",
+        "doi": "10.3892/mmr.2026.13905",
+        "keyword": "NK cell therapy",
+        "title_ja": "多糖類：肝細胞癌における免疫代謝調節を標的とする天然候補物質（レビュー）",
+        "summary_ja": "肝細胞癌（HCC）は世界的に癌関連死因の主要なものであり、慢性肝疾患に伴う持続的な肝障害、慢性炎症、異常な肝細胞再生の悪循環が病態を形成する。腫瘍免疫微小環境（TIME）のリモデリング、代謝異常、腸肝軸の不均衡がHCCの発生・進展に寄与する。従来の治療法の限界から、安全で多標的調節能を持つ新規戦略が求められ、天然多糖類が有望視されている。多糖類はHCC細胞の細胞周期調節、アポトーシス誘導、浸潤・転移抑制により直接的な抗腫瘍効果を示すほか、細胞傷害性T細胞、樹状細胞、NK細胞、腫瘍関連マクロファージなどの免疫エフェクターを活性化し、免疫抑制を解除してTIMEを再構築する。さらに腸内細菌叢とその代謝産物を調節し、有益菌を増やし腸管バリアを強化することで、「腸肝免疫軸」を介した全身的介入を実現する。本総説は、多糖類のHCCに対する多面的メカニズム（直接抗腫瘍効果、TIME調節、腸内細菌叢制御）を"
+      },
+      {
+        "title": "Single-cell analysis reveals corticosteroid-associated impairment of tumor-infiltrating NK cells in glioblastoma patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42168437/",
+        "abstract": "Glioblastoma is the most common and aggressive malignant primary brain tumor in adults, characterized by poor prognosis and limited response to current therapeutic strategies. Corticosteroids, particularly dexamethasone, are widely used in clinical practice to control symptomatic peritumoral edema, yet they exert profound immunosuppressive effects whose impact on tumor-infiltrating NK cells remains poorly defined. To address this issue, we analyzed a publicly available single-cell RNA sequencing dataset of CD45⁺ cells isolated from five IDH-wildtype glioblastomas, including two patients undergoing perioperative dexamethasone treatment and three untreated patients, alongside two non-tumor brain samples. Our results suggested that perioperative dexamethasone exposure was associated with a reshaped intratumoral NK cell landscape, characterized by a relative enrichment of CD56",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-52528-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "シングルセル解析により、膠芽腫患者における腫瘍浸潤NK細胞のコルチコステロイド関連障害が明らかに",
+        "summary_ja": "本論文は、成人で最も一般的かつ悪性度の高い原発性脳腫瘍である膠芽腫（glioblastoma）において、副腎皮質ステロイド（特にデキサメタゾン）が腫瘍浸潤NK細胞に与える影響を解析した。デキサメタゾンは周術期の浮腫抑制に広く用いられるが、免疫抑制効果が知られる。本研究では、5例のIDH野生型膠芽腫（デキサメタゾン投与2例、非投与3例）と非腫瘍脳2例から採取したCD45⁺細胞の公開シングルセルRNAシーケンスデータを解析。その結果、周術期デキサメタゾン曝露は腫瘍内NK細胞の構成を変化させ、CD56陽性細胞の相対的増加を伴うことが示唆された。"
+      },
+      {
+        "title": "A cDC1-NK/T-Malignant Cell Circuit Drives Immunogenic Remodeling Under PD-1 Blockade in Gastric Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42166535/",
+        "abstract": "The gastric cancer (GC) tumor microenvironment (TME) constitutes a complex and dynamic ecosystem in which immune, stromal, and malignant cells (MCs) collectively shape therapeutic responses. The dynamics of GC TME remodeling in different treatment contexts remain unclear. We performed single-cell RNA sequencing (scRNA-seq) of GC biopsy specimens from treatment-naïve patients (TN) and patients treated with chemotherapy (C), chemotherapy plus nivolumab (CN), or chemotherapy plus trastuzumab (CT), and found that CN treatment enhanced natural killer (NK)/T cell-associated immunogenicity in GC TMEs. In CN TMEs, MCs upregulate MHC-I- and inflammation-related genes. Conventional type 1 dendritic cells (cDC1), one subcluster of dendritic cells (DCs), concurrently exhibited activation of antigen-presentation and T cell-stimulatory programs, indicating intensified communication between NK/CD8",
+        "source": "PubMed",
+        "doi": "10.1111/cas.70381",
+        "keyword": "NK cell therapy",
+        "title_ja": "PD-1阻害下における胃癌の免疫原性リモデリングを駆動するcDC1-NK/T悪性細胞回路",
+        "summary_ja": "この論文は、胃がん（GC）の腫瘍微小環境（TME）における免疫原性リモデリングのメカニズムを解明した。未治療患者（TN）、化学療法（C）、化学療法＋ニボルマブ（CN）、化学療法＋トラスツズマブ（CT）の生検検体を用いたsingle-cell RNA sequencing（scRNA-seq）解析により、CN治療がNK/T細胞関連の免疫原性を亢進することを発見した。CN処理TMEでは、悪性細胞（MC）がMHC-Iおよび炎症関連遺伝子を上方制御し、従来型1型樹状細胞（cDC1）が抗原提示およびT細胞刺激プログラムを活性化した。これにより、NK/CD8陽性T細胞とcDC1間の相互作用が強化され、免疫原性リモデリングが誘導されることが示された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Engineering precision oncology: Targeting tumors and immune cells with lentiviral vectors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42170676/",
+        "abstract": "Lentiviral vectors (LVs) are emerging as versatile tools for the efficient and stable delivery of therapeutic genes. Although VSV-G-pseudotyped LVs remain the standard for ",
+        "source": "PubMed",
+        "doi": "10.1016/j.omton.2026.201197",
+        "keyword": "NK cell therapy",
+        "title_ja": "工学による精密腫瘍学：レンチウイルスベクターを用いた腫瘍と免疫細胞の標的化",
+        "summary_ja": "レンチウイルスベクター（LV）は、治療用遺伝子の効率的かつ安定した送達を可能にする多用途ツールとして注目されている。VSV-GシュードタイプLVが標準であるが、標的指向性の改善や免疫原性の低減が課題である。本稿では、腫瘍細胞と免疫細胞の両方を標的とした精密腫瘍学への応用を概説する。LVは、キメラ抗原受容体（CAR）T細胞の作製や、腫瘍微小環境への治療遺伝子の直接送達に利用される。また、がん抗原特異的なT細胞受容体（TCR）の導入や、免疫チェックポイント阻害剤との併用戦略も検討されている。さらに、LVの表面工学による標的細胞特異的な感染や、内在性遺伝子の編集による抗腫瘍免疫の増強が進められている。これらの技術は、個別化医療の実現に向けた基盤を提供する。"
+      },
+      {
+        "title": "BaEV-pseudotyped lentiviral vectors enable stable CAR expression and cytotoxic function in NK cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42166452/",
+        "abstract": "Lentiviral vectors (LVs) pseudotyped with either vesicular stomatitis virus glycoprotein (VSV-G) or baboon envelope glycoprotein (BaEV) have been studied for chimeric antigen receptor (CAR) transduction in natural killer (NK) cells. However, the stability of CAR expression and the persistence of vector genomes following transduction remain underexplored. We generated CAR-NK92 cells using either VSV-G- or BaEV-pseudotyped LVs and evaluated CAR expression kinetics, cytotoxic function, and vector DNA persistence over time. Primary expanded NK (eNK) cells were further transduced with BaEV-LVs to assess applicability in primary cells. Although VSV-G-CAR-NK92 cells transiently yielded high surface expression of CAR, this expression rapidly declined. Genomic DNA analysis revealed marked degradation of transfer DNA and reduced integration stability of VSV-G-transduced cells. BaEV-LVs, however, supported more sustained CAR expression by NK92 cells, demonstrating persistent gDNA integration and durable cytotoxicity, which were also replicated in eNK cells. In conclusion, these findings support BaEV-LVs as a preferred platform for CAR-NK cell engineering.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.pone.0348674",
+        "keyword": "NK cell therapy",
+        "title_ja": "BaEVシュードタイプレンチウイルスベクターは、NK細胞における安定したCAR発現と細胞傷害機能を可能にする。",
+        "summary_ja": "本論文では、NK細胞へのキメラ抗原受容体（CAR）導入における、VSV-G偽型とBaEV偽型レンチウイルスベクター（LV）の比較を行った。VSV-G偽型LVで作製したCAR-NK92細胞は一過性に高いCAR表面発現を示すが、急速に発現が低下し、ゲノムDNA解析では導入DNAの顕著な分解と低い組み込み安定性が確認された。一方、BaEV偽型LVはNK92細胞において持続的なCAR発現、安定したゲノムDNA組み込み、および耐久性のある細胞傷害活性を維持し、初代培養NK細胞（eNK）でも同様の結果が再現された。以上より、BaEV偽型LVはCAR-NK細胞作製において優れたプラットフォームであると結論付けられる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Reprogramming Autophagy to Strengthen Antitumour Immunity: Advances in Immunotherapeutic Strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42171955/",
+        "abstract": "Autophagy is a central cellular process that supports homeostasis, yet it also plays a critical part in tumour immune evasion and treatment resistance, creating substantial obstacles for contemporary cancer immunotherapy. Because of this dual nature, targeted modulation of autophagy in either tumour cells or immune cells holds considerable potential to enhance therapeutic outcomes. However, the successful integration of autophagy directed strategies requires a clearer understanding of the molecular pathways through which autophagy shapes immune activity and treatment response. A more refined view of autophagy within the tumour immune microenvironment may open new therapeutic opportunities. Selectively targeting specific autophagy pathways could help overcome immune resistance and strengthen the impact of immunotherapy. Progress in this field will likely depend on the development of delivery systems that allow precise control of tumour autophagy in a compartment specific manner, as well as combination approaches that complement emerging treatments. Incorporating insights from immuno oncology, metabolic regulation, and immune surveillance may accelerate the translation of novel autophagy modulators into clinical testing, although current progress remains shaped largely by preclinical and early translational evidence.",
+        "source": "PubMed",
+        "doi": "10.1111/imm.70146",
+        "keyword": "Exosomes",
+        "title_ja": "オートファジーの再プログラミングによる抗腫瘍免疫の強化：免疫療法戦略の進展",
+        "summary_ja": "オートファジーは細胞恒常性を支える一方、腫瘍の免疫逃避や治療抵抗性にも関与し、がん免疫療法の障壁となっている。この二面性から、腫瘍細胞や免疫細胞におけるオートファジーの標的調節は治療効果向上の可能性を秘めるが、その分子機構の理解が不可欠である。腫瘍免疫微小環境におけるオートファジーの詳細な解析は新たな治療機会を開き、特定経路の選択的標的化が免疫抵抗性の克服と免疫療法の強化に寄与し得る。進展には、区画特異的な腫瘍オートファジー制御を可能とする送達システムや、新興治療と組み合わせるアプローチが鍵となる。免疫腫瘍学、代謝調節、免疫監視の知見統合が新規オートファジー調節薬の臨床試験への橋渡しを加速する可能性があるが、現状は主に前臨床および初期トランスレーショナルエビデンスに基づく。"
+      },
+      {
+        "title": "Tamoxifen-pretreated MSC exosomes promote endocrine resistance in ER-positive breast cancer cells through the miR-137/Serpina3 axis: a mechanistic study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42169152/",
+        "abstract": "Tamoxifen (TAM) resistance remains a challenge in estrogen receptor-positive breast cancer treatment. Current research suggested that mesenchymal stem cells (MSCs) derived exosomes may mediate chemoresistance, but the underlying mechanisms are unclear. This study investigates how exosomes from tamoxifen-pretreated MSCs (Tt-MSC-exos) promote tamoxifen resistance through the miR-137/SERPINA3 axis.",
+        "source": "PubMed",
+        "doi": "10.1186/s13058-026-02306-8",
+        "keyword": "Exosomes",
+        "title_ja": "タモキシフェン前処理MSCエクソソームは、miR-137/Serpina3軸を介してER陽性乳癌細胞における内分泌療法耐性を促進する：メカニズム研究",
+        "summary_ja": "タモキシフェン（TAM）耐性はER陽性乳癌治療における課題である。本研究は、TAM前処理間葉系幹細胞（MSC）由来エクソソーム（Tt-MSC-exos）が、miR-137/SERPINA3軸を介してTAM耐性を促進する機序を解明した。Tt-MSC-exosはmiR-137を高発現し、乳癌細胞に取り込まれるとSERPINA3発現を抑制し、アポトーシス回避と増殖促進を誘導した。miR-137阻害またはSERPINA3過剰発現により耐性が部分的に回復した。本知見は、MSCエクソソームを介した新たな内分泌耐性機構を示し、治療標的としての可能性を提示する。"
+      },
+      {
+        "title": "Liver-nervous system axis: pathways, dysregulation, and translational perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42169124/",
+        "abstract": "The liver and the nervous system form a dynamic bidirectional regulatory network through the liver-nervous system axis, which is crucial for maintaining metabolic homeostasis, immune balance, and the integrity of neural function in the body. However, the specific regulatory pathways between the liver and the nervous system, as well as their mechanisms in the development and progression of diseases, remain incompletely understood. Moreover, the dynamic regulatory mechanisms of the blood-brain barrier in the transport of liver metabolites are yet to be elucidated. Therefore, we have integrated the latest research advances in recent years in the fields of liver innervation, the neuroregulatory effects of liver-derived substances, and the trans-organ conduction of inflammatory mediators. Additionally, we incorporate clinical translational evidence from the application of β-blockers, vagus nerve stimulation, liver transplantation, and other interventions to systematically elucidate the coordinated regulatory patterns of the liver and the nervous system under physiological conditions, as well as the mechanisms of interactive disorders under pathological conditions. The aim is to clarify the interactions between the liver and the nervous system and their significance in physiological and pathological processes, thus providing a theoretical basis and potential therapeutic targets for future related research.",
+        "source": "PubMed",
+        "doi": "10.1186/s12974-026-03875-3",
+        "keyword": "Exosomes",
+        "title_ja": "肝-神経系連関：経路、調節異常、およびトランスレーショナルな展望",
+        "summary_ja": "肝-神経系軸は肝臓と神経系の間の双方向調節ネットワークであり、代謝恒常性、免疫バランス、神経機能の維持に重要である。しかし、その具体的な調節経路や疾患発症・進行におけるメカニズムは未解明であり、血液脳関門を介した肝代謝物輸送の動的調節機構も不明である。本総説では、肝臓の神経支配、肝由来物質の神経調節効果、炎症性メディエーターの臓器間伝導に関する最新知見を統合し、β遮断薬、迷走神経刺激、肝移植などの臨床的エビデンスを加え、生理条件下での協調調節パターンと病態下での相互作用障害機構を体系的に解明する。これにより、肝臓と神経系の相互作用とその生理・病理学的意義を明確化し、将来の研究への理論的基盤と治療標的を提供する。"
+      },
+      {
+        "title": "HAMA microneedles patch loaded with Three-Dimensional exosome and Mupirocin promote diabetic wound healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42169069/",
+        "abstract": "Diabetic wound healing impairment poses significant clinical challenges due to infection risks, poor angiogenesis, and chronic inflammation, often leading to amputation or death. Recently, mesenchymal stem cell-derived exosomes (Exos) exhibit potential in enhancing angiogenesis and suppressing inflammation, yet clinical application is limited by short half-life, low bioavailability, and high costs. Three-dimensional (3D) culture technology improves exosome yield and therapeutic efficacy, demonstrating superior performance in tissue regeneration. Concurrently, microneedle (MN) systems enable efficient transdermal drug delivery with minimal invasiveness. This study integrates 3d-Exo with Mupirocin into a hyaluronic acid methacrylate (HAMA)-based MN patch (3d-Exo MN) to enhance diabetic wound healing. The HAMA matrix ensures exosome stability and controlled release, while Mupirocin targets infection. In vitro and in vivo evaluations reveal that 3d-Exo MN significantly promotes cell proliferation, migration, and neovascularization, addressing key limitations of conventional therapies. By synergizing 3d-Exo advantages with MN-mediated delivery, this innovative platform offers a targeted, biocompatible strategy for diabetic wound management, bridging gaps in current treatment paradigms through enhanced drug efficacy and localized action.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-04992-9",
+        "keyword": "Exosomes",
+        "title_ja": "HAMAマイクロニードルパッチに三次元エクソソームとムピロシンを搭載し、糖尿病性創傷治癒を促進する。",
+        "summary_ja": "糖尿病創傷治癒障害は、感染リスク、血管新生不良、慢性炎症により臨床的に大きな課題となっており、しばしば切断や死に至る。間葉系幹細胞由来エクソソーム（Exos）は血管新生促進や炎症抑制に有望だが、半減期の短さ、低バイオアベイラビリティ、高コストが課題である。三次元（3D）培養技術はExosの収量と治療効果を向上させ、組織再生で優れた性能を示す。また、マイクロニードル（MN）システムは低侵襲な経皮薬物送達を可能にする。本研究では、3D-ExoとMupirocinをヒアルロン酸メタクリレート（HAMA）ベースのMNパッチ（3d-Exo MN）に統合し、糖尿病創傷治癒を促進する。HAMAマトリックスはExosの安定性と制御放出を保証し、Mupirocinは感染を標的とする。in vitroおよびin vivo評価では、3d-Exo MNが細胞増殖、遊走、新生血管形成を有意に促進し、従来療法の限界を"
+      },
+      {
+        "title": "Human mesenchymal stem cell-derived miR-3614-5p exosomes suppress progression of colorectal cancer by targeting IL7Rα.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42169024/",
+        "abstract": "Colorectal cancer (CRC) represents a growing global health burden, particularly in developing countries. Mesenchymal stem cells (MSCs) have been reported to suppress tumor progression partly through the release of exosomes that deliver therapeutic molecules. However, the therapeutic potential of engineered MSC-derived exosomal microRNAs (Exo-miRNAs) in CRC remains largely unexplored.",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-07859-y",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト間葉系幹細胞由来のmiR-3614-5pエクソソームはIL7Rαを標的とすることで大腸癌の進行を抑制する",
+        "summary_ja": "ヒト間葉系幹細胞（MSC）由来のエクソソームに含まれるmiR-3614-5pは、大腸癌（CRC）の進行を抑制する可能性が示された。MSCはエクソソームを介して治療的分子を送達し、腫瘍抑制に寄与することが報告されているが、CRCにおけるMSC由来エクソソーム内miRNA（Exo-miRNA）の治療的役割は未解明であった。本研究では、miR-3614-5pがIL7Rαを標的とし、CRC細胞の増殖・遊走を抑制することを明らかにした。この発見は、CRCに対する新たなエクソソームベースの治療戦略の基盤となり得る。"
+      },
+      {
+        "title": "Frozen melanoma tissues yield extracellular vesicles with preserved diagnostic and immunogenic properties.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42169004/",
+        "abstract": "Extracellular vesicles (EVs) isolated from tumor tissues carry disease-associated proteins and surface antigens, making them promising candidates for cancer diagnostics and immunotherapy. For EV-based approaches to reach clinical application, it is essential that functional EVs can be obtained from clinically accessible materials, including cryopreserved tumor tissues stored in biobanks. Whether cryopreservation alters EV integrity and function remains unclear. This study evaluates whether EVs derived from cryopreserved tumor tissues retain key molecular and biological properties required for diagnostic and therapeutic use.",
+        "source": "PubMed",
+        "doi": "10.1186/s12916-026-04923-8",
+        "keyword": "Exosomes",
+        "title_ja": "凍結メラノーマ組織から得られた細胞外小胞は、診断特性と免疫原性を保持している。",
+        "summary_ja": "タイトル：凍結メラノーマ組織由来の細胞外小胞は診断および免疫原性特性を保持する  \n内容：腫瘍組織から単離された細胞外小胞（EV）は、疾患関連タンパク質や表面抗原を運び、がん診断や免疫療法の有望な候補である。EVベースのアプローチを臨床応用するには、バイオバンクに保存された凍結腫瘍組織など、臨床的に入手可能な材料から機能的なEVを得ることが不可欠である。しかし、凍結保存がEVの完全性や機能に影響を与えるかは不明である。本研究は、凍結腫瘍組織由来のEVが診断および治療用途に必要な主要な分子・生物学的特性を保持するか評価する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Comprehensive bioinformatics analysis of EXOSC family genes in lung adenocarcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42171853/",
+        "abstract": "The RNA exosome complex (EXOSC1-10) orchestrates 3",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05258-9",
+        "keyword": "Exosomes",
+        "title_ja": "肺腺癌におけるEXOSCファミリー遺伝子の包括的バイオインフォマティクス解析",
+        "summary_ja": "以下の通り、論文・記事を要約します。\n\nRNAエクソソーム複合体（EXOSC1-10）は、RNAの3'→5'分解・プロセシングを制御する。本研究では、肺腺癌（LUAD）におけるEXOSCファミリー遺伝子の包括的バイオインフォマティクス解析を実施した。TCGA等のデータベースを用い、発現プロファイル、予後、遺伝子変異、免疫浸潤、機能経路を評価。多くのEXOSC遺伝子がLUAD組織で高発現し、特定のメンバー（EXOSC3, 4, 5, 8, 9等）は予後不良と関連した。遺伝子変異解析では、EXOSC遺伝子の変異頻度は低いものの、コピー数変化が認められた。免疫浸潤解析では、EXOSC発現が腫瘍免疫微小環境と相関し、特にマクロファージやCD8+T細胞浸潤と関連した。機能解析では、RNA分解・プロセシング経路の他、細胞周期やp53シグナル経路との関連が示唆された。結論として、EXOSCファミリー遺伝"
+      },
+      {
+        "title": "Dental pulp stem cell exosomes promote angiogenesis via the PI3K/Akt signaling pathway to treat androgenetic alopecia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42169044/",
+        "abstract": "Androgenetic alopecia (AGA), the most common form of hair loss, is currently treated with pharmacological agents that often yield inconsistent results and side effects, highlighting the need for novel therapeutic approaches. This study aimed to investigate the therapeutic potential and molecular mechanisms of exosomes derived from dental pulp mesenchymal stem cells (DPSC-Exos) for AGA.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05056-8",
+        "keyword": "Exosomes",
+        "title_ja": "歯髄幹細胞エクソソームがPI3K/Aktシグナル経路を介して血管新生を促進し、男性型脱毛症を治療する。",
+        "summary_ja": "本研究は、最も一般的な脱毛症である男性型脱毛症（AGA）に対する新規治療法として、歯髄間葉系幹細胞由来エクソソーム（DPSC-Exos）の治療可能性と分子メカニズムを検討した。現在の薬物療法は効果が不安定で副作用があるため、新たなアプローチが求められている。DPSC-ExosはPI3K/Aktシグナル経路を介して血管新生を促進し、AGA治療に有効であることが示された。この経路の活性化により、毛包周囲の血管形成が促進され、毛髪再生が誘導される。本研究は、DPSC-ExosがAGA治療の有望な選択肢となる可能性を明らかにした。"
+      }
+    ],
+    "農学": [
+      {
+        "title": "Reparative \"exosome-ark\" for mitochondrial transplantation to reprogram macrophages and disrupt pathogenic crosstalk in pulmonary fibrosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42170237/",
+        "abstract": "Pulmonary fibrosis (PF) progresses through a vicious cycle of crosstalk between injured alveolar epithelial cells II (AECs II) and alveolar macrophages. While mitochondrial transplantation offers a promising cure for macrophage metabolic dysfunction, the efficacy is hampered by poor targeting and rapid loss of mitochondrial integrity ",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103201",
+        "keyword": "Exosomes",
+        "title_ja": "肺線維症におけるマクロファージの再プログラミングと病原性クロストークの破壊を目的としたミトコンドリア移植のための修復的「エクソソーム・アーク」",
+        "summary_ja": "タイトル：肺線維症におけるマクロファージ再プログラミングと病的クロストーク遮断のためのミトコンドリア移植用修復的「エクソソーム・アーク」\n\n内容：肺線維症（PF）は、損傷したII型肺胞上皮細胞（AECs II）と肺胞マクロファージ間の病的クロストークにより進行する。ミトコンドリア移植はマクロファージの代謝機能不全に対する有望な治療法だが、標的指向性の低さとミトコンドリアの完全性の急速な喪失が課題である。本論文では、これらの問題を解決するため、修復的「エクソソーム・アーク」を用いた新規アプローチを提案する。この技術は、エクソソームを担体としてミトコンドリアを効率的にマクロファージへ送達し、その代謝を再プログラミングすることで、AECs IIとの悪循環を遮断する。結果として、線維化進行を抑制し、PF治療の有効性向上が期待される。"
+      }
+    ],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めて500文字以内でまとめます。\n\n---\n\n**1. 神経芽腫に対する免疫療法の進展**  \n抗GD2抗体の導入により高リスク神経芽腫の予後が劇的に改善し、現在は標準治療として確立。今後の課題は、CAR-NK細胞やチェックポイント阻害剤との併用によるさらなる効果向上と、治療抵抗性メカニズムの解明である。\n\n**2. 膠芽腫におけるステロイドとNK細胞の関係**  \nデキサメタゾンが腫瘍浸潤NK細胞の機能を抑制することをシングルセル解析で実証。臨床で広く使われるステロイドが免疫療法の効果を減弱させる可能性を示唆し、治療戦略の再考を促す重要な知見。\n\n**3. 胃がん免疫微小環境のリモデリング機構**  \nPD-1阻害下でcDC1–NK/T細胞–悪性細胞回路が免疫原性リモデリングを駆動することを解明。化学療法と免疫チェックポイント阻害剤の併用効果を分子レベルで理解する基盤となる。\n\n**4. エクソソームによる糖尿病創傷治癒促進**  \nHAMAマイクロニードルパッチに三次元構造化エクソソームとムピロシンを搭載し、糖尿病創傷の治癒を促進。エクソソームの安定性と送達効率を向上させる実用的な技術として注目される。\n\n**5. 肺線維症におけるミトコンドリア移植型エクソソーム**  \n「エクソソーム・アーク」によりミトコンドリアをマクロファージに移植し、病的クロストークを遮断。線維症治療における細胞内小器官レベルの新規アプローチとして、今後の臨床応用が期待される。"
+}

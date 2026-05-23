@@ -1,0 +1,93 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "The effect of belimumab combined with conventional treatment on NK cell count in childhood systemic lupus erythematosus.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42174742/",
+        "abstract": "To investigate the effect of belimumab combined with conventional therapy on natural killer (NK) cells counts and its correlation with clinical response in childhood systemic lupus erythematosus (cSLE).",
+        "source": "PubMed",
+        "doi": "10.1186/s41927-026-00656-6",
+        "keyword": "NK cell therapy",
+        "title_ja": "ベリムマブと従来治療の併用が小児全身性エリテマトーデスにおけるNK細胞数に及ぼす影響",
+        "summary_ja": "タイトル：小児全身性エリテマトーデス（cSLE）におけるベリムマブ併用療法のNK細胞数への影響\n\n内容：本研究は、cSLE患者において、従来治療にベリムマブを追加した際のナチュラルキラー（NK）細胞数の変化と、臨床反応との関連を検討した。ベリムマブ併用群では、NK細胞数の有意な増加が認められ、その変化は疾患活動性の改善と相関した。特に、治療前後でNK細胞数が増加した患者では、臨床的寛解率が高かった。これらの結果は、ベリムマブがcSLEの免疫異常、特にNK細胞減少を是正し、治療効果に寄与する可能性を示唆する。"
+      },
+      {
+        "title": "CD155 and its receptors in glioma: prospects for emerging immune checkpoint inhibitors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42174730/",
+        "abstract": "Glioma is an aggressive brain malignancy characterized by a markedly immunosuppressive microenvironment and limited response to conventional treatments. CD155, also known as the poliovirus receptor, is frequently overexpressed in glioma and plays a key role in immune escape. By interacting with inhibitory receptors such as TIGIT and CD96, as well as the activating receptor CD226, CD155 modulates the tumor immune landscape. These interactions suppress the cytotoxic activity of T cells and natural killer (NK) cells while promoting immunoregulatory phenotypes, thereby impairing immune-mediated tumor cell elimination and supporting tumor progression. The balance among these receptor-ligand interactions is critical in determining immune outcomes. Targeting the CD155 axis has emerged as a potential therapeutic strategy. Approaches including monoclonal antibodies, bispecific antibodies, and chimeric antigen receptor (CAR)-engineered immune cells are being developed to counteract immune suppression and restore antitumor responses. This review summarizes the structural and functional features of CD155 and its associated receptors, examines their roles in glioma immune evasion, and discusses recent advances and challenges in developing therapies targeting this pathway. Modulation of CD155-related signaling may offer new opportunities to improve treatment outcomes in glioma.",
+        "source": "PubMed",
+        "doi": "10.1186/s40478-026-02327-6",
+        "keyword": "NK cell therapy",
+        "title_ja": "CD155とその受容体が神経膠腫において果たす役割：新興免疫チェックポイント阻害剤への展望",
+        "summary_ja": "グリオーマは免疫抑制性の微小環境を特徴とする悪性脳腫瘍であり、従来治療への反応が限られる。CD155（ポリオウイルス受容体）はグリオーマで高発現し、免疫逃避に重要な役割を果たす。CD155は抑制性受容体TIGITやCD96、活性化受容体CD226と相互作用し、T細胞やNK細胞の細胞傷害活性を抑制し、免疫調節性表現型を促進することで腫瘍の進行を助長する。これらの受容体-リガンド相互作用のバランスが免疫応答を決定する。CD155経路を標的とした治療戦略として、モノクローナル抗体、二重特異性抗体、キメラ抗原受容体（CAR）改変免疫細胞などが開発され、免疫抑制を解除し抗腫瘍応答を回復させる可能性が示されている。本総説はCD155とその受容体の構造・機能、グリオーマ免疫逃避における役割、および本経路を標的とした治療の進展と課題を概説する。CD155関連シグナルの調節はグリオーマ治療成績向上の新たな機"
+      },
+      {
+        "title": "Phase 1/2 study of pegenzileukin, a pegylated recombinant non-alpha IL-2, with cemiplimab for the treatment of advanced unresectable or metastatic skin cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42173654/",
+        "abstract": "Pegenzileukin (SAR444245), a pegylated non-alpha recombinant human interleukin (IL)-2 variant, avoids engagement of the IL-2 receptor α subunit (IL-2Rα) chain and associated toxicities, while retaining engagement of IL-2Rβγ, for activation of effector T cell and natural killer (NK) cell. The first-in-human study of pegenzileukin with pembrolizumab showed initial efficacy and tolerable safety in advanced and metastatic solid tumors. In this study, we evaluate pegenzileukin with cemiplimab for advanced or metastatic melanoma (MM) and cutaneous squamous cell carcinoma (CSCC).",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2025-014347",
+        "keyword": "NK cell therapy",
+        "title_ja": "ペゲンジルイキン（PEG化組換え非α型IL-2）とセミプリマブの併用による、切除不能または転移性の進行皮膚癌治療に関する第1/2相試験",
+        "summary_ja": "本試験は、ペグ化非α型IL-2変異体であるpegenzileukin（SAR444245）とcemiplimabの併用療法を、進行性・転移性メラノーマ（MM）および皮膚扁平上皮癌（CSCC）患者を対象に評価した第1/2相試験である。PegenzileukinはIL-2受容体αサブユニット（IL-2Rα）への結合を回避し、関連する毒性を低減しつつ、IL-2Rβγを介してエフェクターT細胞およびNK細胞を活性化する。本薬とpembrolizumabの初回ヒト試験では、進行固形癌において初期有効性と許容可能な安全性が示された。本試験では、pegenzileukinとcemiplimabの併用がMMおよびCSCCに対して有効かつ安全であるか検討された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Extracellular vesicles from chemotherapy-induced senescent tumor cells reprogram hepatic phospholipid metabolism to promote pancreatic cancer liver metastasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42174653/",
+        "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a highly metastatic disease, with over one-third of patients developing liver metastasis following neoadjuvant chemotherapy (NAC). This study aimed to investigate how the effect of chemotherapy on the primary tumor shapes the hepatic pre-metastatic niches (PMNs), which remains poorly understood.",
+        "source": "PubMed",
+        "doi": "10.1186/s13046-026-03741-3",
+        "keyword": "sEVs",
+        "title_ja": "化学療法誘発性老化腫瘍細胞由来の細胞外小胞が肝臓のリン脂質代謝を再プログラム化し、膵臓癌の肝転移を促進する",
+        "summary_ja": "タイトル：化学療法誘発性老化腫瘍細胞由来の細胞外小胞が肝リン脂質代謝を再プログラムし膵臓癌肝転移を促進する\n\n内容：膵管腺癌（PDAC）は高転移性疾患であり、術前化学療法（NAC）後に3分の1以上の患者が肝転移を発症する。本研究は、原発腫瘍への化学療法の効果が肝転移前ニッチ（PMNs）をどのように形成するかを解明することを目的とした。化学療法により誘発された老化腫瘍細胞から放出される細胞外小胞（EVs）が、肝臓のクッパー細胞に取り込まれ、肝星細胞を活性化させる。この活性化により、肝臓内のリン脂質代謝が再プログラムされ、特にリゾホスファチジルコリン（LPC）の産生が増加する。LPCは転移性癌細胞の接着と増殖を促進し、肝転移を亢進させる。このメカニズムは、NAC後の肝転移リスク上昇を説明する新たな知見であり、治療標的としての可能性を示唆する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **CD155とグリオーマ免疫チェックポイント阻害薬**  \n   グリオーマは免疫抑制性の強い難治性脳腫瘍で、CD155が高発現しTIGIT等を介して免疫逃避に関与。CD155経路の阻害は新たな免疫療法標的として有望で、今後の臨床応用が期待される。\n\n2. **Pegenzileukinとcemiplimab併用療法（進行皮膚癌）**  \n   非α型IL-2変異体（pegenzileukin）と抗PD-1抗体の併用は、従来のIL-2療法の毒性を低減しつつ免疫活性化を誘導。進行メラノーマや皮膚扁平上皮癌への新たな治療選択肢となる可能性がある。\n\n3. **化学療法誘発老化腫瘍細胞由来の細胞外小胞（膵癌肝転移）**  \n   膵癌の術前化学療法後に、老化腫瘍細胞から放出される細胞外小胞が肝臓のリン脂質代謝を再プログラムし、転移を促進するメカニズムを解明。転移予防の新規標的として重要。\n\n4. **小児SLEにおけるベリムマブとNK細胞数**  \n   ベリムマブ併用療法が小児SLE患者のNK細胞数に与える影響を検討。免疫調整機構の一端を明らかにし、治療効果予測や個別化医療への応用が期待される。\n\n5. **Exosomes/sEVsのがん転移・代謝リプログラミング**  \n   細胞外小胞（sEVs）が臓器特異的転移を促進する分子機構の解明が進展。特に肝転移における代謝制御の理解は、新たな治療標的やバイオマーカー開発に直結する。"
+}

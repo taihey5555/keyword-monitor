@@ -1,0 +1,144 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Vascular Ageing in Conditions Associated With Early Onset Hypogonadism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42176296/",
+        "abstract": "Early-onset hypogonadism may increase the risk of early vascular ageing (EVA).",
+        "source": "PubMed",
+        "doi": "10.1159/000552685",
+        "keyword": "Klotho",
+        "title_ja": "早期発症性性腺機能低下症に関連する状態における血管老化",
+        "summary_ja": "早期発症性性腺機能低下症（Early-onset hypogonadism）は、早期血管老化（EVA）のリスクを高める可能性がある。本論文では、性腺機能低下症と血管老化の関連性を検討。テストステロン欠乏が血管内皮機能障害、動脈硬化、炎症促進状態を引き起こし、EVAを促進するメカニズムが示された。特に、若年発症例では長期のホルモン欠乏が心血管疾患リスクを増大させる。早期診断と適切なホルモン補充療法がEVA予防に重要であると結論づけている。"
+      },
+      {
+        "title": "Tubular Omega-3 Fatty Acid Receptor FFAR4 Deficiency Aggravated Renal Aging and Chronic Kidney Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42175992/",
+        "abstract": "Aging leads to renal function decline and increases the risk of chronic kidney disease (CKD). Omega-3 polyunsaturated fatty acids (PUFAs) are essential fatty acids for humans, exerting their functions via free fatty acid receptor 4 (FFAR4). Clinical studies indicate that omega-3 PUFAs supplementation shows benefits for the elderly population and CKD patients, but these results remain controversial. Herein, we found that omega-3 PUFAs alleviated renal fibrosis and tubular senescence in aged mice, adenine diet-induced CKD mice, and unilateral ureteral obstruction (UUO) mice. Meanwhile, omega-3 fatty acid receptor FFAR4 expression in tubular epithelial cells (TECs) were down-regulated in the old population and CKD patients, positively correlated with renal dysfunction. Systemic or TEC-specific knockout of FFAR4 aggravated renal aging and CKD in mice. Mechanically, FFAR4 agonism increases the production of endogenous PPARγ activator 15-deoxy-∆12,14-Prostaglandin J2 (15d-PGJ2), and improves PPARγ-dependent tubular epithelial cell senescence, which was indicated by anti-aging marker Klotho expression, senescence-associated β-galactosidase (SA-β-gal) activity, and profibrotic factor TGF-β1 secretion. The study demonstrated a novel role of FFAR4 from senescent TECs on fibroblast activation via paracrine effects and highlighted the therapeutic effects of omega-3 PUFAs with their receptor FFAR4 as an attractive drug target against renal aging and CKD.",
+        "source": "PubMed",
+        "doi": "10.1111/acel.70546",
+        "keyword": "Klotho",
+        "title_ja": "管状オメガ3脂肪酸受容体FFAR4欠損が腎老化と慢性腎臓病を悪化させる",
+        "summary_ja": "加齢は腎機能低下と慢性腎臓病（CKD）リスクを増大させる。オメガ3多価不飽和脂肪酸（PUFAs）は遊離脂肪酸受容体4（FFAR4）を介して機能するが、高齢者やCKD患者への補充効果は議論がある。本研究では、オメガ3 PUFAsが老化マウス、アデニン食誘導CKDマウス、片側尿管閉塞（UUO）マウスにおいて腎線維化と尿細管老化を軽減した。一方、高齢者やCKD患者の尿細管上皮細胞（TECs）でFFAR4発現が低下し、腎機能障害と正の相関を示した。全身またはTEC特異的FFAR4欠損はマウスの腎老化とCKDを悪化させた。機構的には、FFAR4作動が内因性PPARγ活性化因子15d-PGJ2産生を増加させ、Klotho発現、SA-β-gal活性、TGF-β1分泌を指標とするPPARγ依存的な尿細管上皮細胞老化を改善した。本研究は、老化TECs由来のFFAR4が傍分泌を介して線維芽細胞を活性化する新規"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "A prognostic exosome-related mRNAs risk signature correlates with the immune microenvironment in breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42177720/",
+        "abstract": "Breast cancer (BC) represents one of the most prevalent malignancies among women worldwide. Despite substantial advances in diagnostic and therapeutic modalities and pharmacological interventions in recent years, the accurate assessment of prognosis continues to pose formidable challenges. Exosomes exert pivotal roles in tumorigenesis, tumor progression, and immune modulation, with exosome-related mRNAs emerging as promising novel prognostic biomarkers. Nevertheless, the role of exosome-related mRNA in BC oncogenesis, progression, and prognostic prediction warrants further extensive investigation.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05261-0",
+        "keyword": "Exosomes",
+        "title_ja": "予後予測エクソソーム関連mRNAリスクシグネチャーは乳がんの免疫微小環境と相関する",
+        "summary_ja": "乳がん（BC）は女性に最も多い悪性腫瘍の一つであり、診断・治療法の進歩にもかかわらず、正確な予後評価は依然として困難である。エクソソームは腫瘍形成、進行、免疫調節に重要な役割を果たし、エクソソーム関連mRNAは新たな予後バイオマーカーとして注目されている。しかし、BCにおける発癌、進行、予後予測におけるその役割は、さらなる研究が必要である。本論文では、エクソソーム関連mRNAに基づくリスクシグネチャーを構築し、免疫微小環境との関連を解析した。"
+      },
+      {
+        "title": "Plasma exosome lncRNA panel as a non-invasive biomarker for molecular diagnosis of systemic lupus erythematosus.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42177684/",
+        "abstract": "Exosome-derived long non-coding RNAs (lncRNAs) have emerged as promising diagnostic biomarkers in various diseases. However, their diagnostic potential in systemic lupus erythematosus (SLE) remains largely unexplored. This study aimed to characterize plasma exosomal lncRNA profiles and identify candidate lncRNAs with diagnostic and disease-monitoring potential in SLE. Plasma exosomes were isolated from SLE patients and healthy controls (HCs), followed by high-throughput sequencing to characterize exosomal lncRNA expression profiles. Differentially expressed lncRNAs were identified and subsequently validated using quantitative real-time PCR (qRT-PCR). Correlations between the validated exosomal lncRNAs and clinical indicators of SLE were assessed. Receiver operating characteristic (ROC) curve and multivariate logistic regression analyses were performed to evaluate the diagnostic performance of the identified lncRNAs. Three plasma-derived exosomal lncRNAs-ENSG00000229882, MIR4713HG, and LINC00620-were significantly upregulated in SLE patients compared with HCs. Logistic regression analysis identified MIR4713HG and LINC00620 as predictors of SLE. A combined diagnostic model incorporating these two lncRNAs demonstrated diagnostic capacity for distinguishing SLE patients from HCs, with an area under the curve (AUC) of 0.759. Notably, exosomal LINC00620 expression was significantly upregulated in patients with active SLE compared with those with inactive disease and showed a positive correlation with SLE Disease Activity Index 2000 (SLEDAI-2 K scores). Plasma exosomal ENSG00000229882, MIR4713HG, and LINC00620 were significantly upregulated in SLE, indicating their potential as non-invasive diagnostic biomarkers. Particularly, LINC00620 showed a positive correlation with disease activity, suggesting its clinical utility for both SLE diagnosis and disease monitoring.",
+        "source": "PubMed",
+        "doi": "10.1007/s10238-026-02180-w",
+        "keyword": "Exosomes",
+        "title_ja": "血漿エクソソーム長鎖非コードRNAパネル：全身性エリテマトーデスの分子診断における非侵襲的バイオマーカー",
+        "summary_ja": "本論文は、全身性エリテマトーデス（SLE）における血漿エクソソーム由来長鎖非コードRNA（lncRNA）の診断バイオマーカーとしての可能性を検討した。SLE患者と健常者（HC）から血漿エクソソームを単離し、ハイスループットシーケンスとqRT-PCRにより発現プロファイルを解析。3つのlncRNA（ENSG00000229882、MIR4713HG、LINC00620）がSLE患者で有意に上昇した。ロジスティック回帰分析によりMIR4713HGとLINC00620がSLEの予測因子として特定され、これら2つを組み合わせた診断モデルはAUC 0.759を示した。特にLINC00620は活動性SLE患者で非活動性患者より有意に高発現し、SLEDAI-2Kスコアと正の相関を示した。これらの結果は、血漿エクソソームlncRNAがSLEの非侵襲的診断および疾患活動性モニタリングに有用であることを示唆す"
+      },
+      {
+        "title": "Engineered neuronal exosomes mediate α-synuclein clearance to ameliorate Parkinson's disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42177528/",
+        "abstract": "Parkinson's disease (PD) is the second most common neurodegenerative disorder after Alzheimer's disease. A hallmark pathological feature of PD is the abnormal aggregation of α-synuclein (αSyn) into insoluble Lewy bodies. Consequently, developing strategies to inhibit αSyn aggregation in the brain has been a major research focus for PD treatment. This study developed a therapeutic approach using engineered neuronal exosomes. These exosomes were modified to extend their blood circulation half-life to 3.8 h and enhance targeting, with a 2.15 ± 0.09% brain signal proportion (vs. 0.78 ± 0.07% for free dye). They were then loaded with a self-developed αSyn aggregation-blocking peptide (sPep) as well as the antioxidant pyrroloquinoline quinone (PQQ). We investigated the therapeutic efficacy of this system in both in vitro and in vivo models of PD. Our experiments confirmed that the screened sPep effectively targeted and blocked αSyn aggregation both in vitro and in vivo. Neuronal exosomes, isolated by ultracentrifugation and hybridization, demonstrated strong abilities to cross the blood-brain barrier. In vivo studies revealed that the treatment significantly improved motor and cognitive functions in PD model mice. The underlying neuroprotective mechanisms included reducing αSyn aggregation, enhancing antioxidant capacity, ameliorating mitochondrial dysfunction, and suppressing cell apoptosis, collectively promoting the survival of dopaminergic neurons. These findings demonstrate that the engineered exosome-mediated delivery system exerts a protective effect against PD pathology.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04552-6",
+        "keyword": "Exosomes",
+        "title_ja": "工学的に設計された神経細胞由来エクソソームがα-シヌクレインを除去し、パーキンソン病を改善する。",
+        "summary_ja": "パーキンソン病（PD）はアルツハイマー病に次ぐ神経変性疾患であり、α-シヌクレイン（αSyn）の異常凝集が特徴である。本研究では、血液循環半減期を3.8時間に延長し、脳内シグナル割合を2.15±0.09%（遊離色素は0.78±0.07%）に向上させた修飾神経細胞エクソソームを開発した。これにαSyn凝集阻害ペプチド（sPep）と抗酸化物質ピロロキノリンキノン（PQQ）を搭載し、PDモデルで治療効果を検証した。sPepはin vitroおよびin vivoでαSyn凝集を標的阻害し、エクソソームは血液脳関門を効率的に通過した。PDモデルマウスでは運動・認知機能が改善し、神経保護機構としてαSyn凝集低減、抗酸化能向上、ミトコンドリア機能改善、アポトーシス抑制が確認され、ドーパミン作動性ニューロンの生存が促進された。本システムはPD病理に対する保護効果を示した。"
+      },
+      {
+        "title": "Exosomal ORF3a mediates lung-liver axis to dysregulate hepatic lipid metabolism in mild COVID-19.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42177201/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1038/s41421-026-00901-9",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームORF3aが軽症COVID-19における肺-肝軸を介して肝脂質代謝を異常化する",
+        "summary_ja": "タイトル: Exosomal ORF3a mediates lung-liver axis to dysregulate hepatic lipid metabolism in mild COVID-19.\n\n要約: 軽症COVID-19において、SARS-CoV-2のORF3aタンパク質がエクソソームを介して肺から肝臓へ輸送され、肝臓の脂質代謝を異常にすることが示された。ORF3aは肝細胞の脂質代謝関連遺伝子発現を変化させ、中性脂肪蓄積を促進する。この肺-肝軸のメカニズムは、軽症例でも肝機能障害が生じる一因であり、COVID-19の全身性合併症の理解に寄与する。"
+      },
+      {
+        "title": "Exosome-mediated post-transcriptional oncogene regulation as a novel cancer therapeutic strategy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42176156/",
+        "abstract": "Exosomes are tiny vesicles (30-150 nm in size) secreted by nearly every cell type that have lately emerged as essential regulators of intercellular communication and gene expression in cancer. They accommodate bioactive cargos such as miRNAs, lncRNAs, circRNAs, and mRNAs, all of which direct oncogene expression at the post-transcriptional level. Exosomal RNAs influence post-transcriptional and epigenetic regulatory mechanisms implicated in tumor activity, including mRNA degradation, translation repression and activation, alternative splicing interference, and epigenetic remodeling, which contribute to tumorigenic processes such as proliferation, angiogenesis, metastasis, immune evasion, and drug resistance. Tumor-derived exosomes also regulate the key oncogenic pathways such as PI3K/AKT, JAK/STAT, and Wnt/β-catenin to promote tumor stroma remodeling, thereby inducing macrophage M2 polarization, fibroblast transformation into cancer-associated fibroblasts, and pre-metastatic niche formation, favoring metastases. Targeting exosome-mediated oncogenic communication has therapeutic potential. Strategies include inhibiting exosome biogenesis and release using GW4869 or blocking Rab GTPases, blocking exosome uptake, and modulating oncogenic RNA cargo using antisense oligonucleotides, RNA interference, or CRISPR/Cas13-mediated RNA editing. Engineered exosomes also serve as natural, biocompatible carriers for the therapeutic delivery of siRNAs, miRNA mimics, mRNAs, or CRISPR components, offering improved stability, specificity, and reduced immunogenicity compared to synthetic counterparts. There are significant translational challenges, including large-scale manufacturing, purification, standardization, and biosafety testing, despite promising preclinical and early clinical results. In summary, comprehending and implementing post-transcriptional oncogene regulation via exosomes is a transformative strategy in precision oncology, creating new opportunities in targeted diagnosis, prognostication, and advanced cancer therapies.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05255-y",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを介した転写後発癌遺伝子制御：新たながん治療戦略として",
+        "summary_ja": "エクソソーム（30–150 nmの小胞）は、細胞間通信と遺伝子発現調節に重要な役割を果たす。これらはmiRNA、lncRNA、circRNA、mRNAなどのRNAを内包し、腫瘍形成過程（増殖、血管新生、転移、免疫回避、薬剤耐性）において、mRNA分解、翻訳抑制・活性化、選択的スプライシング、エピジェネティックリモデリングを介して発癌遺伝子を転写後レベルで制御する。腫瘍由来エクソソームはPI3K/AKT、JAK/STAT、Wnt/β-catenin経路を調節し、マクロファージM2分極や癌関連線維芽細胞への変換、転移前ニッチ形成を促進する。治療戦略として、GW4869やRab GTPase阻害によるエクソソーム生合成・放出抑制、取り込み阻害、アンチセンスオリゴヌクレオチドやCRISPR/Cas13によるRNAカーゴ編集が挙げられる。また、改変エクソソームはsiRNAやmiRNA模倣体、mRNA"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Jujuboside A-Loaded Exosomes Alleviate Pulmonary Fibrosis via TGF-β/Smad and Autophagy Regulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42175766/",
+        "abstract": "This study aimed to scrutinize the antifibrotic effects of jujuboside A-loaded exosomes (JuA-Exo) on TGF-β1-induced MRC-5 fibroblasts and explore the pathophysiological basis. Exosomes were isolated from human mesenchymal stem cells and loaded with JuA by ultrasonic dispersion. A TGF-β1-induced MRC-5 fibrosis model was established. Cell viability, migration capacity, levels of inflammatory cytokines, extracellular matrix components, and autophagy-related markers were assessed. To determine autophagy dependence, the autophagy inhibitor 3-methyladenine (3-MA) was employed. JuA-Exo significantly attenuated fibroblast activation triggered by TGF-β1, decreased the secretion of IL-6, IL-1β, and hydroxyproline, and downregulated fibrotic gene expression, including α-SMA, fibronectin, COL1A1, and COL3A1. Mechanistically, JuA-Exo was associated with modulation of the TGF-β/Smad signaling pathway and restoration of autophagy-related markers. Importantly, the defensive effects of JuA-Exo were reversed upon autophagy inhibition by 3-MA. JuA-Exo exerts antifibrotic and anti-inflammatory effects, which are associated with modulation of TGF-β/Smad signaling and autophagy-related processes; however, the mechanistic linkage between these pathways and their causal roles requires further validation. These findings highlight JuA-Exo as a potential experimental candidate, although the current evidence is limited to ",
+        "source": "PubMed",
+        "doi": "10.1177/19373341261449902",
+        "keyword": "Exosomes",
+        "title_ja": "ユウジュボシドA搭載エクソソームはTGF-β/Smads経路とオートファジー調節を介して肺線維症を軽減する",
+        "summary_ja": "本研究は、Jujuboside A搭載エクソソーム（JuA-Exo）の抗線維化効果をTGF-β1誘導MRC-5線維芽細胞で検討した。ヒト間葉系幹細胞から単離したエクソソームに超音波分散法でJuAを搭載。TGF-β1誘導線維化モデルにおいて、JuA-Exoは細胞生存率、遊走能、炎症性サイトカイン（IL-6、IL-1β）、細胞外マトリックス成分（ヒドロキシプロリン）、線維化遺伝子（α-SMA、フィブロネクチン、COL1A1、COL3A1）の発現を有意に抑制した。メカニズムとして、TGF-β/Smadシグナル経路の調節とオートファジー関連マーカーの回復が関与。オートファジー阻害剤3-MAによりJuA-Exoの防御効果は消失した。JuA-Exoは抗線維化・抗炎症作用を示すが、経路間の因果関係はさらなる検証を要する。現時点では実験的候補に留まる。"
+      },
+      {
+        "title": "Mitochondrial Dysfunction Contributes to Endothelial Damage in Metabolic Diseases: Role of Mitochondrial DNA in Inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42174229/",
+        "abstract": "Endothelial cells (ECs) have a low mitochondrial density, around ~2-6% of cell volume, compared to cardiac cells (~32%). Consequently, ATP is generated mainly by the glycolytic pathway. The role of the mitochondrial network in ECs gains relevance as a signaling hub that modulates a wide range of endothelial functions, e.g., regulation of cell migration, proliferation, and angiogenesis, through the action of second messengers such as Ca",
+        "source": "PubMed",
+        "doi": "10.1007/164_2026_805",
+        "keyword": "Exosomes",
+        "title_ja": "ミトコンドリア機能障害が代謝疾患における内皮障害に寄与する：炎症におけるミトコンドリアDNAの役割",
+        "summary_ja": "この論文は、代謝疾患における内皮細胞（EC）のミトコンドリア機能不全と、ミトコンドリアDNA（mtDNA）が炎症を介して内皮障害に寄与するメカニズムを考察する。ECのミトコンドリア密度は細胞容積の約2～6%と低く（心臓細胞は約32%）、ATPは主に解糖系で産生される。しかし、ミトコンドリアネットワークはCa²⁺などのセカンドメッセンジャーを介して細胞遊走、増殖、血管新生などの内皮機能を調節するシグナル伝達ハブとして重要である。代謝疾患ではミトコンドリア機能不全が生じ、mtDNAが細胞質や血中に放出され、自然免疫を活性化して炎症を促進する。これにより内皮障害が悪化し、血管合併症の進行に関与する可能性が示唆される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の論文・記事から、特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **エクソソームによるパーキンソン病治療（Engineered neuronal exosomes）**  \n   エクソソームを改変し、α-シヌクレイン凝集体を脳内から除去する新規治療法。血液脳関門通過率向上と半減期延長を実現し、神経変性疾患への応用が期待される。\n\n2. **エクソソームmiRNAによる乳がん予後予測（Prognostic exosome-related mRNAs）**  \n   エクソソーム内mRNA発現パターンが免疫微小環境と相関し、乳がんの正確な予後評価を可能にする。液体バイオマーカーとして臨床応用が進めば、個別化治療に貢献する。\n\n3. **エクソソーム搭載Jujuboside Aによる肺線維症治療**  \n   間葉系幹細胞由来エクソソームにJujuboside Aを搭載し、TGF-β/Smad経路とオートファジーを調節。既存治療が限られる肺線維症に対し、新たな治療選択肢となる可能性がある。\n\n4. **血管老化と早期性腺機能低下症の関連**  \n   テストステロン欠乏が血管内皮機能障害や動脈硬化を促進し、早期血管老化リスクを高める。性ホルモン補充療法の適応拡大や、血管老化予防戦略の基盤となる知見。\n\n5. **エクソソームlncRNAによる全身性エリテマトーデス診断**  \n   血漿エクソソーム由来lncRNAパネルがSLEの非侵襲的分子診断バイオマーカーとして有望。従来の自己抗体検査を補完し、早期診断・病態モニタリングに革新をもたらす。\n\nこれらの研究は、エクソソームの治療・診断応用、老化と疾患の分子メカニズム解明において重要な進展を示しており、今後の臨床応用が強く期待されます。"
+}

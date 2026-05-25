@@ -1,0 +1,226 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Integrated single-cell transcriptomic analysis identifies ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42180183/",
+        "abstract": "Megakaryocytes (MKs) and low-density granulocytes (LDGs) are implicated in immune dysregulation and vascular pathology in autoimmune diseases (ADs), yet their precise subsets and pathological interactions remain poorly defined. We aimed to characterize MK and LDG subpopulations and elucidate their potential intercellular communication in ADs using single-cell transcriptomic analysis.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbrep.2026.102615",
+        "keyword": "PF4",
+        "title_ja": "統合シングルセル転写解析により同定された",
+        "summary_ja": "タイトル：統合シングルセル転写解析による同定\n\n内容：巨核球（MKs）と低密度顆粒球（LDGs）は自己免疫疾患（ADs）における免疫調節異常と血管病理に関与するが、その正確なサブセットと病理学的相互作用は未解明である。本研究では、シングルセル転写解析を用いてMKおよびLDGの亜集団を特徴づけ、ADsにおけるそれらの細胞間コミュニケーションを解明することを目的とした。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Pathological Mechanism-Inspired Biomimetic Nano-Senotherapy for Reversing Experimental Atherosclerosis in ApoE",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42183830/",
+        "abstract": "The greatest challenge in atherosclerosis (AS) management lies in achieving lesion reversal, not merely slowing progression. Senescent cell accumulation-driven by continuous generation and apoptotic resistance-perpetuates plaque pathology and obstructs regression. This study addresses the reversal conundrum through a dual-action strategy: blocking new senescent cell formation while enhancing clearance of existing senescent cells. We developed a ROS-responsive dimeric prodrug (K",
+        "source": "PubMed",
+        "doi": "10.1002/advs.75850",
+        "keyword": "NK cell therapy",
+        "title_ja": "病理機構に着想を得た生体模倣ナノセノセラピーによるApoE欠損マウス実験的アテローム性動脈硬化症の可逆化",
+        "summary_ja": "動脈硬化（AS）管理における最大の課題は、病変の進行抑制ではなく、病変の可逆的改善にある。老化細胞の蓄積は、継続的な生成とアポトーシス抵抗性によってプラーク病理を持続させ、退縮を妨げる。本研究では、新たな老化細胞の形成を阻害しつつ、既存の老化細胞の除去を促進する二重作用戦略により、この可逆性の課題に取り組んだ。我々は、ROS応答性二量体プロドラッグ（K）を開発した。"
+      },
+      {
+        "title": "CAR-iNKT cells for cancer therapy: a comprehensive review of engineering, mechanisms, and clinical progress.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42183670/",
+        "abstract": "Chimeric antigen receptor (CAR)-modified T cells, as a revolutionary cancer immunotherapy, have achieved remarkable success in hematologic malignancies. However, the therapy is hindered by severe toxicity, complex manufacturing, and suboptimal efficacy in solid tumors. Invariant natural killer T (iNKT) cells combine features of T cells and NK cells, bridging innate and adaptive immunity. Beyond direct cytotoxic functions, iNKT cells exert indirect antitumor effects through interactions with other immune cells while also modulating the tumor microenvironment (TME). Their exceptional TME infiltration capacity offers hope for solid tumor treatment. Leveraging their inherent major histocompatibility complex (MHC)-independent cytotoxicity, iNKT cells offer a viable strategy for developing \"off-the-shelf\" CAR cell products. Consequently, CAR-iNKT cell therapies developed by introducing CAR technology into iNKT cells demonstrate extraordinary potential as a next generation tumor immunotherapy. Despite being established and garnering attention, CAR-iNKT cell therapy remains nascent with numerous obstacles. This review comprehensively discusses CAR-iNKT cell therapy, from the fundamental biology of iNKT cells to the latest advances in engineering and clinical translation, offering new perspectives for its research, development, and application. A comprehensive literature search was conducted using [PubMed, Embase, and Web of Science] for articles published between [January 1900 and March 2026].",
+        "source": "PubMed",
+        "doi": "10.1080/1750743X.2026.2674418",
+        "keyword": "NK cell therapy",
+        "title_ja": "がん治療のためのCAR-iNKT細胞：工学、メカニズム、および臨床進歩に関する包括的レビュー",
+        "summary_ja": "CAR-iNKT細胞療法は、キメラ抗原受容体（CAR）改変T細胞の課題（毒性、製造困難、固形腫瘍への効果不足）を克服する次世代がん免疫療法として注目される。iNKT細胞はT細胞とNK細胞の特性を併せ持ち、自然免疫と獲得免疫を橋渡しする。直接的な細胞傷害に加え、他の免疫細胞との相互作用や腫瘍微小環境（TME）の調節を通じて間接的な抗腫瘍効果を発揮し、TMEへの高い浸潤能から固形腫瘍治療に有望である。主要組織適合遺伝子複合体（MHC）非依存性の細胞傷害性を活かし、既製（off-the-shelf）CAR細胞製品の開発が可能となる。本総説は、iNKT細胞の基礎生物学から、CAR導入による工学的進歩、臨床応用の最新知見までを包括的に議論し、今後の研究開発に新たな視点を提供する。文献検索はPubMed、Embase、Web of Scienceを用い、1900年1月から2026年3月までの論文を対象"
+      },
+      {
+        "title": "Modeling and correction of SCID-X1 using CRISPR-Cas9 homology-directed repair in human HSPCs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42181695/",
+        "abstract": "X-linked severe combined immunodeficiency (SCID-X1) is a severe primary immunodeficiency caused by mutations in the ",
+        "source": "PubMed",
+        "doi": "10.1016/j.omtn.2026.102941",
+        "keyword": "NK cell therapy",
+        "title_ja": "CRISPR-Cas9相同組換え修復によるヒトHSPCを用いたSCID-X1のモデル化と補正",
+        "summary_ja": "タイトル: Modeling and correction of SCID-X1 using CRISPR-Cas9 homology-directed repair in human HSPCs.\n\n要約:\nX連鎖重症複合免疫不全症（SCID-X1）は、IL2RG遺伝子の変異による重篤な原発性免疫不全症である。本研究では、ヒト造血幹前駆細胞（HSPCs）においてCRISPR-Cas9を用いた相同組換え修復（HDR）によりSCID-X1のモデル化と遺伝子修正を実施した。変異導入によりSCID-X1表現型を再現し、その後、野生型IL2RG cDNAを含むドナーテンプレートを用いたHDRにより効率的な遺伝子修正を達成。修正されたHSPCsは、in vitroで正常なT細胞分化能を回復し、免疫不全マウスへの移植後も長期生着と多系統への分化能を示した。本手法は、SCID-X1に対する安全かつ有効な"
+      },
+      {
+        "title": "Nicotinamide mononucleotide enhances anti-tumor effect by resetting macrophages toward the inflammatory M1-like phenotype.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42179971/",
+        "abstract": "Nicotinamide mononucleotide (NMN) supplementation has shown clinical benefits by regulating metabolic activities in the energy production process. Its protective effect and underlying immune regulatory mechanisms against tumor progression are still poorly understood. Here, we found that the high-dose NMN treatment could alter the level of several key NAD",
+        "source": "PubMed",
+        "doi": "10.1016/j.omton.2026.201221",
+        "keyword": "NK cell therapy",
+        "title_ja": "ニコチンアミドモノヌクレオチドは、マクロファージを炎症性M1様表現型にリセットすることで抗腫瘍効果を増強する。",
+        "summary_ja": "ニコチンアミドモノヌクレオチド（NMN）補充は、エネルギー産生過程における代謝活性の調節により臨床的利益を示すが、腫瘍進行に対する保護効果と免疫調節機構は未解明である。本研究では、高用量NMN処理が複数の主要なNAD関連代謝物レベルを変化させ、マクロファージを炎症性M1様表現型へ再プログラムすることで抗腫瘍効果を増強することを見出した。この機序により、NMNは腫瘍微小環境における免疫抑制状態を克服し、抗腫瘍免疫応答を活性化する可能性が示唆された。"
+      },
+      {
+        "title": "Efficient, fratricide free non-viral engineering of CD70-targeted CAR NK cells for hematologic and solid tumor immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42179676/",
+        "abstract": "Natural killer (NK) cells are a component of the innate immune system with potential safety advantages over T cells for adoptive cell therapy (ACT). However, NK cells lack the potency and persistence needed for tumor clearance. Here, we report an efficient and cost-effective non-viral method for engineering CD70 targeted CAR NK cells using a hyperactive ",
+        "source": "PubMed",
+        "doi": "10.1016/j.omta.2026.201734",
+        "keyword": "NK cell therapy",
+        "title_ja": "血液腫瘍および固形腫瘍免疫療法のための、効率的かつ自己攻撃のないCD70標的CAR NK細胞の非ウイルス工学",
+        "summary_ja": "以下は、論文「Efficient, fratricide free non-viral engineering of CD70-targeted CAR NK cells for hematologic and solid tumor immunotherapy」の要約です。\n\n本論文は、血液がんおよび固形がん免疫療法のためのCD70標的CAR NK細胞の、非ウイルス的かつ fratricide（自己攻撃）を回避した効率的な作製法を報告する。NK細胞は自然免疫の構成要素であり、T細胞と比較してACT（養子細胞療法）における安全性に優れるが、腫瘍排除に必要な持続性と効力が不足する。本研究では、hyperactive（超活性型）トランスポゾンシステムを用いた非ウイルス的手法により、CD70を標的とするCARをNK細胞に導入。この方法は、CD70発現NK細胞間でのfratricideを回避しつつ"
+      },
+      {
+        "title": "Sirolimus potentiates oncolytic Virus M1 efficacy through tumor-selective augmentation of viral replication.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42178397/",
+        "abstract": "Oncolytic virus M1 is a promising anticancer agent; however, its therapeutic efficacy is often limited by insufficient intratumoral viral replication and host antiviral immunity. Sirolimus, an mTOR inhibitor widely used in transplantation immunosuppression, has demonstrated potential to modulate antiviral responses. This study investigates whether sirolimus potentiates the efficacy of M1 virotherapy and elucidates the underlying mechanisms. Sirolimus significantly enhanced the antitumor efficacy of M1 virus in murine prostate cancer and liver cancer models, leading to reduced tumor growth. This synergistic effect remained evident in CD8⁺ T cell-depleted mice, indicating that the therapeutic benefit is independent of adaptive cytotoxic immunity. Mechanistically, sirolimus markedly increased M1 viral replication in tumor tissues, accompanied by enhanced tumor cell-cycle arrest and apoptosis. Notably, sirolimus selectively amplified viral load within tumors but not in normal organs, demonstrating tumor-specific viral enrichment and safety. Further analyses revealed that this increase in intratumoral virus was driven by mTOR pathway inhibition rather than alterations in macrophage or NK cell populations. Transcriptomic profiling and molecular validation indicated that sirolimus-mediated mTOR suppression downregulated key type I interferon-stimulated genes (Ifitm1, Stat1, Ifit3), thereby attenuating intrinsic antiviral defenses and facilitating viral amplification. In summary, sirolimus potentiates M1 oncolytic virotherapy by selectively enhancing viral replication in tumors via mTOR inhibition and suppression of type I interferon signaling, independent of CD8⁺ T cell-mediated immunity. These findings establish a mechanistic rationale for combining mTOR inhibitors with oncolytic viruses to achieve dual benefits of enhanced viral oncolysis and controlled immunosuppression, with translational relevance for cancer patients requiring long-term immunosuppressive therapy.",
+        "source": "PubMed",
+        "doi": "10.1038/s41401-026-01829-2",
+        "keyword": "NK cell therapy",
+        "title_ja": "シロリムスはウイルス複製の腫瘍選択的増強を介して腫瘍溶解性ウイルスM1の有効性を増強する",
+        "summary_ja": "シロリムス（mTOR阻害薬）は、腫瘍溶解性ウイルスM1の治療効果を増強する。前立腺癌・肝癌モデルにおいて、M1ウイルスとの併用で腫瘍増殖を抑制し、その効果はCD8⁺T細胞非依存的であった。シロリムスは腫瘍組織内でのM1ウイルス複製を選択的に亢進し、正常臓器への影響は認められなかった。この増殖促進は、mTOR経路阻害を介してI型インターフェロン刺激遺伝子（Ifitm1, Stat1, Ifit3）の発現を低下させ、腫瘍細胞の抗ウイルス防御を減弱させることで達成された。結論として、シロリムスはmTOR阻害とI型IFNシグナル抑制により、腫瘍選択的にウイルス複製を増強し、M1ウイルス療法の有効性を高める。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "An integrative transcriptomic analysis for prognosis and tumor microenvironment in HBV/HCV-associated hepatocellular carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42179967/",
+        "abstract": "Hepatocellular carcinoma (HCC) is a leading cause of cancer mortality worldwide; molecular biomarkers that reflect hepatitis B virus (HBV)/hepatitis C virus (HCV)-associated tumor biology and predict prognosis or therapeutic vulnerabilities are needed. The research is a secondary analysis of public data (secondary data analysis) based on Gene Expression Omnibus (GEO) and The Cancer Genome Atlas (TCGA) data to identify differentially expressed genes (DEGs) common to HBV-HCC, HCV-HCC, and non-viral HCC datasets. Gene Ontology (GO)/Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment, protein-protein interaction (PPI) network analysis, and hub-gene selection were then performed. Differential expression, prognostic association, immune-infiltration, and drug-sensitivity correlations were also analyzed. Eighty common DEGs (73 upregulated, 7 downregulated) were identified. PPI topological analysis yielded 53 hub genes; five genes ",
+        "source": "PubMed",
+        "doi": "10.1016/j.omton.2026.201218",
+        "keyword": "NK cell therapy",
+        "title_ja": "HBV/HCV関連肝細胞癌における予後と腫瘍微小環境の統合的トランスクリプトーム解析",
+        "summary_ja": "本論文は、HBV/HCV関連肝細胞癌（HCC）の予後と腫瘍微小環境を統合的トランスクリプトーム解析で評価した二次データ分析である。GEOおよびTCGAの公開データを用い、HBV-HCC、HCV-HCC、非ウイルス性HCCに共通する発現変動遺伝子（DEG）を同定。GO/KEGGエンリッチメント、タンパク質間相互作用（PPI）ネットワーク解析、ハブ遺伝子選定を実施し、発現差、予後関連性、免疫浸潤、薬剤感受性との相関を解析した。80の共通DEG（73 upregulated、7 downregulated）が特定され、PPIトポロジー解析から53のハブ遺伝子が抽出された。最終的に5遺伝子が選定された。"
+      },
+      {
+        "title": "Osteopontin-driven TGF-β1 signaling via integrin αvβ3-NF-κB axis impairs NK cell function in head and neck squamous cell carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42178443/",
+        "abstract": "In head and neck squamous cell carcinoma (HNSCC), an immunosuppressive tumor microenvironment (TME) frequently leads to natural killer (NK) cell dysfunction, but the molecular mechanisms underlying this impairment remain unclear. Here, we combined flow cytometry and multiplex immunohistochemistry to evaluate NK cells infiltration and functional status in HNSCC tumors. Bulk RNA-seq datasets from patient cohorts and single-cell RNA-seq data were analyzed to identify transcriptional correlates of NK cells dysfunction. Mechanistic studies in tumor cell lines assessed the role of osteopontin (OPN)-integrin αvβ3/NF-κB signaling in modulating TGF-β1 production and its effects on NK cell activity. NK cells in HNSCC tumors exhibited reduced infiltration and diminished activation marker expression, coinciding with high OPN levels in the TME. Transcriptomic analyses demonstrated a strong inverse correlation between tumor SPP1 (encoding OPN) expression and NK cells abundance. Mechanistically, tumor-derived OPN engaged integrin αvβ3 to activate NF-κB signaling, inducing robust TGF-β1 secretion that suppressed NK cell activation and cytotoxic function. Single-cell RNA-seq analysis further confirmed the exhausted functional states of NK cells within the HNSCC TME. Tumor-derived OPN promotes immune evasion in HNSCC by driving TGF-β1-mediated suppression of NK cell activity. These findings highlight the OPN-TGF-β1 axis as a potential therapeutic target for restoring NK cell-mediated immunity in HNSCC.",
+        "source": "PubMed",
+        "doi": "10.1007/s10495-026-02333-y",
+        "keyword": "NK cell therapy",
+        "title_ja": "オステオポンチンがインテグリンαvβ3-NF-κB経路を介して駆動するTGF-β1シグナル伝達は、頭頸部扁平上皮癌におけるNK細胞機能を障害する。",
+        "summary_ja": "頭頸部扁平上皮癌（HNSCC）では、免疫抑制性の腫瘍微小環境（TME）によりNK細胞の機能不全が生じるが、その分子機構は不明である。本研究では、フローサイトメトリーと多重免疫組織化学を用いてHNSCC腫瘍内のNK細胞浸潤と機能状態を評価した。患者コホートのバルクRNA-seqデータとsingle-cell RNA-seqデータを解析し、NK細胞機能不全の転写相関因子を特定した。腫瘍細胞株を用いたメカニズム解析により、オステオポンチン（OPN）-インテグリンαvβ3/NF-κBシグナルがTGF-β1産生を調節し、NK細胞活性に影響を与えることを確認した。HNSCC腫瘍ではNK細胞浸潤と活性化マーカー発現が低下し、TME内のOPN高発現と一致した。転写解析では、腫瘍SPP1（OPNをコード）発現とNK細胞存在量に強い逆相関が認められた。腫瘍由来OPNはインテグリンαvβ3を介してNF-κBシグ"
+      },
+      {
+        "title": "Integrated single-cell and bulk RNA-seq analysis reveals an NK-cell-related immune landscape and a prognostic signature for hepatocellular carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42177711/",
+        "abstract": "Hepatocellular carcinoma (HCC) is characterized by high heterogeneity and poor prognosis. Despite the importance of natural killer (NK) cells in innate immunity, their role in the HCC microenvironment remains unclear. This study aims to develop an NK-cell-related signature to optimize prognostic prediction and personalized therapy.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05198-4",
+        "keyword": "NK cell therapy",
+        "title_ja": "統合シングルセルおよびバルクRNA-seq解析による肝細胞癌におけるNK細胞関連免疫環境と予後シグネチャーの解明",
+        "summary_ja": "タイトル：肝細胞癌（HCC）におけるNK細胞関連免疫環境と予後シグネチャの統合解析\n\n内容：HCCは高い異質性と不良な予後を特徴とする。自然免疫におけるNK細胞の重要性にもかかわらず、HCC微小環境での役割は不明である。本研究では、単一細胞RNA-seqとバルクRNA-seqデータを統合し、NK細胞関連遺伝子シグネチャを構築して予後予測と個別化治療の最適化を目指した。解析の結果、NK細胞関連免疫環境が明らかとなり、構築したシグネチャは独立した予後因子として機能し、免疫療法応答性の予測にも有用であった。本シグネチャはHCC患者の層別化と治療戦略選択に貢献する可能性がある。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Quantum Dot Encoding for In-Solution Single-Molecule Biomarker Counting in Metastatic Prostate Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42183605/",
+        "abstract": "Digital assays are in wide development for biomarker quantification at the single-molecule level, but the common use of surface pull-down steps limits both analytical sensitivity and throughput. Here, we develop surface-free, wash-free, in-solution assays with an analytical sensitivity slope approaching unity for sequence-specific counting of microRNAs (miRs) relevant to metastatic castration-resistant prostate cancer (mCRPC). These assays are enabled by DNA nanoflowers (DNFs) densely encoded with ∼200 fluorescent quantum dots (QDs) that assemble in situ stoichiometrically to miRs. The QD-DNFs are detected as single events in solution by fluorescence microscopy or flow cytometry without washing away unbound labels. A ∼10 aM limit of detection and high agreement with absolute target count (intraclass correlation coefficient = 0.95) were achieved by machine learning-guided assay optimization, providing the potential for calibration-free measurements. Multiple miR sequences could be distinguished through ratiometric and colorimetric (5-color) QD signatures with a single excitation source for flexible detection in static solution or flow streams. The assays were applied to detect exosomal miRs from small-volume plasma from mCRPC patients and showed strong agreement with RT-qPCR, with more reliable detection of the trace prognostic biomarker miR-375. Consistent with our prior reports using large volume blood draws, higher plasma levels of miR-375 were associated with poor survival of patients with mCRPC. We anticipate that in-solution counting can increase the robustness of trace biomarker analysis needed for the advancement of cancer precision medicine.",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.5c21712",
+        "keyword": "Exosomes",
+        "title_ja": "転移性前立腺癌における溶液中単一分子バイオマーカー計数のための量子ドットエンコーディング",
+        "summary_ja": "本論文では、転移性去勢抵抗性前立腺癌（mCRPC）関連マイクロRNA（miR）の単分子レベルでの高感度検出を実現する、表面フリー・洗浄不要の液中アッセイを開発した。DNAナノフラワー（DNF）に約200個の量子ドット（QD）を高密度にコードし、miRと化学量論的に結合させることで、蛍光顕微鏡やフローサイトメトリーにより未結合標識の洗浄なしに単一イベントとして検出可能とした。機械学習によるアッセイ最適化により、約10 aMの検出限界と絶対標的カウントとの高い一致（級内相関係数0.95）を達成し、較正不要の測定が可能となった。また、単一励起光源での5色QDシグナルにより、複数miR配列の識別が可能である。mCRPC患者の微量血漿中のエクソソームmiR検出に応用し、RT-qPCRと高い一致を示し、特に予後バイオマーカーmiR-375の信頼性高い検出に成功した。miR-375の高発現は患者の不良な"
+      },
+      {
+        "title": "Breaking the vicious cycle of diabetic wounds with an exosome-engineered dual-responsive microneedle patch.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42182880/",
+        "abstract": "Diabetic wound (DW), a prevalent type of chronic non-healing injury, poses substantial clinical challenges owing to persistent oxidative stress, dysregulated inflammation and recurrent bacterial infections. To rationally modulate the microenvironment of DWs, this study fabricated a core-shell structured multifunctional microneedle (MN) patch, designated as AEP-GCMN. Specifically, we designed engineered exosomes, Aloe-Exo",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103198",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム工学による二重応答性マイクロニードルパッチで糖尿病性創傷の悪循環を断ち切る",
+        "summary_ja": "本論文では、糖尿病性創傷（DW）の治療に向け、コアシェル構造を持つ多機能マイクロニードル（MN）パッチ「AEP-GCMN」を開発した。DWは持続的な酸化ストレス、炎症調節不全、細菌感染再発により治癒が困難である。本研究では、アロエ由来のエクソソーム（Aloe-Exo）を設計・搭載し、創傷環境の酸化ストレスと炎症を同時に制御する。MNパッチはpHと活性酸素種（ROS）に応答する二重応答性を有し、感染部位で選択的にエクソソームを放出する。これにより、血管新生の促進、M2マクロファージへの分極誘導、細菌増殖抑制を実現し、DWの悪循環を断ち切る。動物実験では、AEP-GCMNが従来の治療法と比較して創傷閉鎖率を有意に向上させた。本技術は、DW治療における新たな戦略を提供する。"
+      },
+      {
+        "title": "MRI-guided diagnosis and dual-pathway neuroprotection in ischemic stroke ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42182870/",
+        "abstract": "Ischemic stroke (IS) presents a formidable clinical challenge due to its complex pathophysiology, encompassing neuroinflammation and oxidative stress, alongside the lack of comprehensive diagnostic and therapeutic strategies. To address this, we designed a plant-based theranostic nanoplatform by coating apple exosome-like nanoparticles (ELNs) with polydopamine (PDA) and chelating gadolinium ions (Gd), denoted as PDA@ELNs/Gd. This platform exhibits enhanced penetration of the blood-brain barrier (BBB) and targeted accumulation in ischemic brain regions. The PDA coating serves as both a substrate for Gd chelation, enabling robust T1-weighted magnetic resonance imaging (MRI) contrast for non-invasive lesion detection, and a synergistic partner with the bioactive components of apple ELNs to provide dual-pathway neuroprotection. ",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103185",
+        "keyword": "Exosomes",
+        "title_ja": "MRIガイド下診断と虚血性脳卒中における二経路神経保護",
+        "summary_ja": "虚血性脳卒中（IS）は、神経炎症と酸化ストレスを含む複雑な病態生理と、包括的な診断・治療戦略の欠如により、臨床的に困難な課題を呈する。本研究では、植物由来のセラノスティックナノプラットフォームとして、リンゴのエキソソーム様ナノ粒子（ELNs）をポリドーパミン（PDA）で被覆し、ガドリニウムイオン（Gd）をキレート化したPDA@ELNs/Gdを設計した。本プラットフォームは、血液脳関門（BBB）の透過性が向上し、虚血脳領域への標的集積を示す。PDA被覆は、Gdキレート化の基質としてT1強調MRI造影を可能にし非侵襲的病変検出を実現するとともに、リンゴELNsの生体活性成分と相乗的に作用し、二経路の神経保護を提供する。"
+      },
+      {
+        "title": "DNA-Engineered Dual-Signal Biomimetic Fusion Vesicles for Rapid Evaluation of Systemic Lupus Erythematosus.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42178944/",
+        "abstract": "Systemic lupus erythematosus (SLE) is a rare autoimmune disease with complex and variable clinical presentations that affects numerous organs and tissues. However, current diagnostic approaches provide limited insight into disease-associated molecular alterations and immune pathway activation. In this work, we report an exosome-capture-based system for rapid detection of SLE by the integration of functional DNA structures and lipid vesicles to form dual-signal biomimetic fusion vesicles (DBFVs). DBFVs are constructed by liposomes composed of DOPC, DPPC, and cholesterol, which are further functionalized with a sialic acid (SA)-binding aptamer at the outer surface to promote specific exosome capture and membrane fusion. At the same time, a DNA probe enabling dual-signal response of Mn",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.5c05551",
+        "keyword": "Exosomes",
+        "title_ja": "DNA工学によるデュアルシグナル生体模倣融合小胞を用いた全身性エリテマトーデスの迅速評価",
+        "summary_ja": "全身性エリテマトーデス（SLE）は、多臓器に影響を及ぼす複雑な自己免疫疾患であるが、既存の診断法では分子レベルの変化や免疫経路の活性化を十分に評価できない。本研究では、機能性DNA構造と脂質小胞を統合した二重シグナル生体模倣融合小胞（DBFVs）を開発し、エクソソーム捕捉に基づく迅速SLE検出システムを報告する。DBFVsはDOPC、DPPC、コレステロールからなるリポソームで構成され、表面にシアル酸結合アプタマーを修飾することで特異的なエクソソーム捕捉と膜融合を促進する。同時に、Mn²⁺依存性の二重シグナル応答を可能にするDNAプローブを搭載し、高感度なSLE診断を実現する。"
+      },
+      {
+        "title": "Macrophage exosome-modified Mn/Se nanoheterostructure induces post-infarction cardiomyocyte regeneration and immunometabolic microenvironment repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42178555/",
+        "abstract": "Myocardial infarction (MI) is the most lethal cardiovascular disease and poses a critical threat to global health. While current MI therapies partially improve cardiac function, advanced precision therapies with translational potential capable of interrupting the vicious pathological cycles remain a pivotal challenge to be addressed. Here, based on a Mn/Se nanoheterostructure that meets human elemental requirements, we constructed a PMS@ME nanotherapeutic system for achieving efficient post-MI repair. Polydopamine was incorporated to synergistically enhance biocompatibility and therapeutic efficacy. The surface is modified with exosomes derived from macrophages that highly express adhesion receptors, enabling precise targeting to the myocardial injury area. PMS@ME administration promotes cardiomyocyte survival, extracellular repair, and mitochondrial homeostasis, while suppressing oxidative damage and immune-inflammatory disorders, achieving preserved cardiac function. Importantly, PMS@ME can induce cardiomyocyte to restart the cell cycle and promotes post-MI cardiomyocyte regeneration by inhibiting the Hippo signaling pathway. These findings demonstrate the potential of the PMS@ME system in MI treatment, offering a blueprint for designing multifunctional nanotherapies tailored to human elemental essentials.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04572-2",
+        "keyword": "Exosomes",
+        "title_ja": "マクロファージエクソソーム修飾Mn/Seナノヘテロ構造が梗塞後心筋細胞の再生と免疫代謝微小環境の修復を誘導する",
+        "summary_ja": "心筋梗塞（MI）は致死率の高い心血管疾患であり、現行治療は部分的に心機能を改善するが、病的サイクルを断つ精密治療が課題である。本研究では、ヒト必須元素であるMn/Seナノヘテロ構造にポリドーパミンを組み込み、接着受容体を高発現するマクロファージ由来エクソソームで表面修飾したPMS@MEナノ治療システムを構築した。PMS@MEは心筋障害部位に精密標的化し、心筋細胞生存、細胞外修復、ミトコンドリア恒常性を促進し、酸化損傷と免疫炎症障害を抑制して心機能を維持する。さらに、Hippoシグナル経路を阻害し、心筋細胞の細胞周期再開と再生を誘導する。本システムはMI治療における多機能ナノ治療の設計指針を提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "PRDX2 Mediates the Neuroprotective Role of Umbilical Cord Blood Exosomes via the CYP2J2/8,9-EET Pathway in Models of Parkinson's Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42183902/",
+        "abstract": "Parkinson's disease (PD) is a severe neurodegenerative disorder marked by progressive dopaminergic loss, oxidative stress, metabolic dysregulation, and neuroinflammation. Umbilical cord blood-derived exosomes (UCB-Exos) have emerged as a promising cell-free therapeutic strategy, yet the precise molecular mechanisms underlying their neuroprotective properties remain largely unknown. This study highlights Peroxiredoxin-2 (PRDX2) as an important antioxidant protein within UCB-Exos that mediates their neuroprotective effects in PD models. Using advanced multi-omics approaches, including proteomics, metabolomics, and transcriptomics, we demonstrate that PRDX2 is selectively enriched in UCB-Exos compared to peripheral blood-derived exosomes. UCB-Exos, through the delivery of PRDX2, partially restore antioxidant defenses in neurons, attenuate neuroinflammation, and promote cellular survival. Moreover, UCB-Exos were found to modulate arachidonic acid metabolism by upregulating the levels of 8,9-epoxyeicosatrienoic acid (8,9-EET), a key metabolite with anti-inflammatory properties. Mechanistically, PRDX2 appears to protect the enzyme CYP2J2 from oxidative degradation, facilitating the production of 8,9-EET and reducing the NF-κB/COX-2-driven inflammatory response, thus potentially mitigating neurodegeneration. This study provides evidence for a potential pathway, the PRDX2-mediated metabolic regulatory pathway, and highlights the therapeutic potential of UCB-Exos, offering a novel strategy in the development of exosome-based treatments targeting oxidative stress and neuroinflammation in neurodegenerative diseases.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-05951-4",
+        "keyword": "Exosomes",
+        "title_ja": "パーキンソン病モデルにおけるPRDX2による臍帯血エクソソームの神経保護作用のCYP2J2/8,9-EET経路を介した媒介",
+        "summary_ja": "パーキンソン病（PD）は、ドーパミン作動性ニューロンの喪失、酸化ストレス、代謝異常、神経炎症を特徴とする神経変性疾患である。臍帯血由来エクソソーム（UCB-Exos）は細胞を用いない治療戦略として注目されるが、その神経保護機構は不明である。本研究では、UCB-Exosに含まれる抗酸化タンパク質Peroxiredoxin-2（PRDX2）がPDモデルにおいて神経保護作用を媒介することを示した。マルチオミクス解析により、PRDX2は末梢血由来エクソソームと比較しUCB-Exosに選択的に濃縮される。UCB-ExosはPRDX2を介してニューロンの抗酸化防御を部分的に回復させ、神経炎症を抑制し、細胞生存を促進する。さらに、アラキドン酸代謝を調節し、抗炎症性代謝物8,9-EETのレベルを上昇させる。機構的には、PRDX2がCYP2J2酵素を酸化分解から保護し、8,9-EET産生を促進、NF-κB/"
+      },
+      {
+        "title": "Understanding exosomes in diabetic wound healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42178716/",
+        "abstract": "Diabetic wounds signify a major complication of diabetes mellitus, characterized by chronic inflammation, compromised angiogenesis, and high risk of infection, amputation, and mortality. Contemporary therapies remain limited in efficacy and durability. This review aimed to comprehensively assess exosome-mediated interventions as a cell-free regenerative approach for diabetic wound healing.",
+        "source": "PubMed",
+        "doi": "10.1111/prd.70055",
+        "keyword": "Exosomes",
+        "title_ja": "糖尿病性創傷治癒におけるエクソソームの理解",
+        "summary_ja": "糖尿病創傷は糖尿病の主要な合併症であり、慢性炎症、血管新生障害、感染・切断・死亡リスクの高さを特徴とする。現行治療は効果と持続性に限界がある。本総説は、糖尿病創傷治癒における細胞フリー再生アプローチとしてのエクソソーム介在介入を包括的に評価する。エクソソームは、間葉系幹細胞など由来のナノサイズ小胞で、成長因子やmiRNAを運び、炎症抑制、血管新生促進、細胞増殖・遊走を誘導する。これにより、糖尿病創傷の治癒過程を改善する可能性が示されている。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **CAR-iNKT細胞療法**：次世代がん免疫療法として、CAR-T細胞の課題（毒性、固形腫瘍への効果不足）を克服。iNKT細胞はT細胞とNK細胞の特性を併せ持ち、自然免疫と獲得免疫を橋渡しするため、固形腫瘍への応用が期待される。\n\n2. **CD70標的CAR-NK細胞の非ウイルス工学**：フラトリサイド（自己攻撃）を回避した効率的な遺伝子改変技術。血液がんと固形腫瘍の両方に適用可能で、安全性と製造効率の向上が今後の臨床応用を加速する。\n\n3. **エクソソーム工学による糖尿病性創傷治療**：アロエ由来エクソソームを搭載した多機能マイクロニードルパッチは、酸化ストレス・炎症・感染の悪循環を断ち切る。細胞フリー治療として実用化が近い。\n\n4. **NMNによるマクロファージ再プログラム**：高用量NMNが腫瘍内マクロファージを炎症性M1様にリセットし抗腫瘍効果を発揮。代謝と免疫を結ぶ新たながん治療戦略として注目される。\n\n5. **統合シングルセル解析による自己免疫疾患の巨核球・低密度顆粒球サブセット同定**：自己免疫疾患における免疫調節異常と血管病理の新たな細胞基盤を解明。個別化治療の標的同定につながる。\n\nこれらの研究は、免疫細胞療法、細胞外小胞、代謝免疫学の融合領域において、基礎から臨床への橋渡しを加速する重要な知見を提供している。"
+}

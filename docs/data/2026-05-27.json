@@ -1,0 +1,114 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Gut Microbiota Regulates Systemic Inflammatory Response and Compensatory Anti-Inflammatory Response Syndromes by Targeting PF4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42189125/",
+        "abstract": "Acute pancreatitis (AP) begins with pancreatic local inflammation, leading to the onset of systemic inflammatory response syndrome (SIRS), followed by compensatory anti-inflammatory response syndrome (CARS), which causes immune paralysis and higher mortality rate. We have demonstrated that AP disrupts the balance of the gut microbiota that aggravates disease progression; however, the role of gut microbiota in the development of SIRS/CARS remains poorly understood. Here, we observed a lower abundance of Bacteroides thetaiotaomicron (B. thetaiotaomicron) that increased the infiltration of PF4",
+        "source": "PubMed",
+        "doi": "10.1002/advs.202511193",
+        "keyword": "PF4",
+        "title_ja": "腸内細菌叢はPF4を標的として全身性炎症反応および代償性抗炎症反応症候群を制御する",
+        "summary_ja": "急性膵炎（AP）は膵局所炎症から全身性炎症反応症候群（SIRS）を引き起こし、続いて代償性抗炎症反応症候群（CARS）が発症し、免疫麻痺と高い死亡率をもたらす。腸内細菌叢のバランス崩壊がAPの病態進行を悪化させることは既に示されているが、SIRS/CARS発症における腸内細菌叢の役割は不明である。本研究では、Bacteroides thetaiotaomicron（B. thetaiotaomicron）の減少がPF4の浸潤を増加させることを観察した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Integrative advances in biomarker-driven prostate cancer management from genomic discovery to precision oncology.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42189429/",
+        "abstract": "Prostate cancer (PCa) is the second most common malignancy in men worldwide, with rising mortality linked to late-stage diagnoses. While current diagnostic strategies rely heavily on biomarker detection, their limitations highlight the need for comprehensive and integrative biomarker discovery. This review consolidates recent advances in PCa biomarkers, encompassing genetic, proteomic, liquid biopsy, and imaging-based approaches. Genetic mutations inform disease prognosis and therapy selection, while proteomic biomarkers elucidate molecular mechanisms and therapeutic targets. Blood- and urine-based biomarkers, including exosome-derived markers, circulating tumor DNA (ctDNA), PCA3, and SelectMDx, enable minimally invasive risk stratification. Artificial intelligence-assisted analysis of multiparametric MRI and PSMA PET/CT has been explored to support lesion detection and staging, although most AI-based tools remain investigational. Integrating these biomarker-driven strategies into clinical workflows supports precision oncology and improves patient outcomes. Despite challenges in assay standardization, validation, cost, and ethical implementation, the convergence of genomics, liquid biopsy, and AI technologies marks a transformative step toward personalized prostate cancer management. To distinguish clinically validated tools from emerging candidates, biomarkers are discussed according to their level of evidence and clinical readiness.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05311-7",
+        "keyword": "Exosomes",
+        "title_ja": "バイオマーカー駆動型前立腺がん管理における統合的進展：ゲノム発見から精密腫瘍学へ",
+        "summary_ja": "前立腺がん（PCa）は男性で2番目に多い悪性腫瘍であり、後期診断による死亡率上昇が課題である。本レビューは、遺伝子、プロテオミクス、液体生検、画像診断に基づくPCaバイオマーカーの最近の進歩を統合する。遺伝子変異は予後や治療選択に、プロテオミクスは分子機構や治療標的に寄与する。血液・尿由来のエクソソームマーカー、循環腫瘍DNA（ctDNA）、PCA3、SelectMDxは低侵襲なリスク層別化を可能にする。人工知能（AI）支援によるマルチパラメトリックMRIやPSMA PET/CTの解析は病変検出や病期診断に有用だが、多くは研究段階である。これらの戦略を臨床に統合することで精密腫瘍学が促進される。アッセイ標準化、検証、コスト、倫理的課題は残るが、ゲノミクス、液体生検、AI技術の融合は個別化医療への変革を示す。本稿では、エビデンスレベルと臨床準備性に基づきバイオマーカーを分類する。"
+      },
+      {
+        "title": "Nanoscale Drug Delivery Systems for Ovarian Cancer: Targeting Strategies, Theranostic Platforms, and Translational Challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42187005/",
+        "abstract": "Ovarian cancer remains the most lethal gynecologic malignancy, primarily due to late-stage diagnosis, peritoneal metastasis, and chemoresistance. Conventional chemotherapy is limited by poor targeting specificity and systemic toxicity, necessitating more precise therapeutic strategies. Nanoscale drug delivery systems (DDS) offer important opportunities to improve drug accumulation, reduce off-target effects, and integrate therapeutic and diagnostic functions. In this review, we summarize major carrier platforms together with delivery strategies and theranostic approaches, while placing particular emphasis on ovarian-cancer-specific challenges and the translational relevance of different DDS designs. We compare key carrier systems (including hydrogels, polymeric and inorganic nanoparticles, exosomes, and liposomes) according to their relevance to ovarian-cancer-specific challenges such as intraperitoneal delivery, peritoneal dissemination, and postoperative residual disease. We further examine how active targeting, tumor microenvironment-responsive release, and theranostic platforms may address these challenges, while critically assessing their practical limitations. Importantly, we highlight the major factors that continue to impede clinical translation, including biological heterogeneity, biosafety concerns, manufacturing scalability, and the limited predictive value of current preclinical models. By linking nanodesign strategies to ovarian-cancer-specific barriers and translational feasibility, this review aims to provide a more clinically relevant framework for the development of next-generation precision therapies.",
+        "source": "PubMed",
+        "doi": "10.1002/smll.73850",
+        "keyword": "Exosomes",
+        "title_ja": "卵巣がんに対するナノスケール薬物送達システム：標的化戦略、セラノスティックプラットフォーム、および橋渡し研究の課題",
+        "summary_ja": "卵巣がんは婦人科悪性腫瘍中最も致死率が高く、診断の遅れ、腹膜転移、薬剤耐性が課題である。従来の化学療法は標的特異性の低さと全身毒性に限界があり、ナノスケール薬物送達システム（DDS）は薬物集積性向上、副作用低減、治療診断統合の可能性を提供する。本総説では、ハイドロゲル、高分子・無機ナノ粒子、エクソソーム、リポソームなどの主要キャリアを、腹腔内送達、腹膜播種、術後残存病変といった卵巣がん特有の課題に照らして比較する。能動的標的化、腫瘍微小環境応答性放出、セラノスティクスプラットフォームの実用限界も検討する。臨床翻訳を阻む要因として、生物学的異質性、生体安全性、製造スケーラビリティ、前臨床モデルの予測価値の低さを強調し、ナノ設計戦略と臨床実現可能性を結びつける枠組みを提示する。"
+      },
+      {
+        "title": "Bio inspired assessment of titanium-organic framework and exosome-constructed p-Synephrine carriage: pursuing the PI3K/mTOR pathway in a simulated periodontitis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42185524/",
+        "abstract": "Periodontitis, a chronic inflammatory disease, is driven by bacterial infection and oxidative stress, leading to tissue destruction and potential tooth loss. This study investigates the anti-inflammatory and antioxidant potential of p-Synephrine and enhanced delivery through NH",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-54070-6",
+        "keyword": "Exosomes",
+        "title_ja": "生体模倣によるチタン-有機フレームワークとエクソソーム構築型p-シネフリンキャリアの評価：模擬歯周炎におけるPI3K/mTOR経路の追求",
+        "summary_ja": "以下の通り要約する。\n\n本論文は、慢性炎症性疾患である歯周炎に対し、p-Synephrineの抗炎症・抗酸化作用を評価し、その送達効率を向上させるため、チタン-有機フレームワーク（Ti-MOF）とエクソソームを組み合わせたキャリアシステムを構築した。シミュレート歯周炎モデルにおいて、本システムはPI3K/mTOR経路を標的とし、炎症性サイトカインの抑制と酸化ストレスの軽減に寄与した。Ti-MOFの生体模倣的評価とエクソソームによる薬物内包により、p-Synephrineの安定性と細胞内取り込みが向上し、歯周組織再生への応用可能性が示唆された。"
+      },
+      {
+        "title": "Integrated multicompartment urinary long non-coding RNAs profiling (cellular, cell-free, and extracellular vesicle) for better differential diagnosis of biopsy-proven diabetic and non-diabetic kidney disease beyond conventional markers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42184991/",
+        "abstract": "Renal involvement in type 2 diabetes (T2DM) can be due to diabetes (diabetic kidney disease, DKD) or other causes (non-DKD, NDKD) or both (mixed kidney disease). Available clinical and laboratory parameters have limitations in predicting a diagnosis (gold standard renal biopsy). Long non-coding RNAs (lncRNAs) evaluated in preclinical models but unexplored in biopsy-proven kidney disease in T2DM. We aimed to determine whether there is differential expression of lncRNAs in DKD (compared with NDKD).",
+        "source": "PubMed",
+        "doi": "10.1136/bmjdrc-2026-006123",
+        "keyword": "Exosomes",
+        "title_ja": "統合的多区画尿中長鎖ノンコーディングRNAプロファイリング（細胞性、無細胞性、細胞外小胞）による、従来のマーカーを超えた生検確定糖尿病性および非糖尿病性腎疾患の鑑別診断向上",
+        "summary_ja": "タイトル：統合的多コンパートメント尿中長鎖非コードRNAプロファイリング（細胞、細胞外、細胞外小胞）による、従来のマーカーを超えた生検確定糖尿病性・非糖尿病性腎疾患の鑑別診断向上\n\n内容：2型糖尿病（T2DM）における腎障害は、糖尿病性腎疾患（DKD）、非糖尿病性腎疾患（NDKD）、または両者の混合型に分類される。既存の臨床・検査パラメータは診断（ゴールドスタンダードは腎生検）予測に限界がある。長鎖非コードRNA（lncRNA）は前臨床モデルで評価されているが、T2DMの生検確定腎疾患では未検討である。本研究では、DKDとNDKD間でのlncRNA発現の差異を明らかにすることを目的とした。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Hydrogel-exosome synergistic system: mechanisms, applications and future prospects in regenerative medicine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42186789/",
+        "abstract": "Hydrogels and exosomes are complementary and thus can be combined for regenerative medicine and emerging therapies. This strategy leverages the advantages of hydrogels to enhance the therapeutic potential of exosomes. Hydrogels offer numerous therapeutic and regenerative advantages, such as tailorable mechanical properties, a supportive extracellular matrix-like microenvironment, superior biocompatibility, rapid responses to environmental stimuli, and the ability to encapsulate and control the release of therapeutic agents. These attributes can be utilized to enable the long-acting delivery of exosomes. Exosomes, small extracellular vesicles (30-150 nm) secreted by cells, carry bioactive molecules such as proteins, lipids, and nucleic acids, mediating intercellular communication and modulating cellular behaviors. The integration of hydrogels and exosomes represents a potential approach in regenerative medicine, leveraging their synergistic properties to enhance tissue repair and regeneration. This combination has been reported to enhance wound healing, promote cartilage repair, and ameliorate neuronal injury. Recent advancements include the development of smart hydrogels that respond to environmental stimuli (",
+        "source": "PubMed",
+        "doi": "10.1039/d6bm00274a",
+        "keyword": "Exosomes",
+        "title_ja": "ハイドロゲル-エクソソーム相乗システム：再生医療におけるメカニズム、応用、および将来の展望",
+        "summary_ja": "ハイドロゲルとエクソソームは相補的であり、再生医療において組み合わせる戦略が注目されている。ハイドロゲルは調整可能な力学特性、細胞外マトリックス様の微小環境、高い生体適合性、環境刺激への応答性、治療薬の封入と制御放出能を持ち、エクソソームの長期徐放を可能にする。エクソソームは細胞から分泌される30～150 nmの小胞で、タンパク質、脂質、核酸などの生理活性分子を運び、細胞間コミュニケーションや細胞挙動を調節する。両者の統合は組織修復と再生を促進し、創傷治癒、軟骨修復、神経損傷の改善に有効と報告されている。最近では環境応答型スマートハイドロゲルの開発も進んでいる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **腸内細菌叢とPF4による全身性炎症制御**：急性膵炎におけるSIRS・CARSの病態進行に、腸内細菌叢のバランスとPF4が関与する新たなメカニズムが示された。免疫麻痺と高死亡率の克服に向け、腸内細菌叢を標的とした治療戦略の可能性が開かれる。\n\n2. **前立腺がんにおける統合的バイオマーカー**：ゲノム・プロテオミクス・液体生検・画像診断を統合した精密医療の進展。後期診断による死亡率上昇を抑えるため、早期発見と個別化治療の実現が期待される。\n\n3. **卵巣がんへのナノDDSとエクソソーム応用**：ナノスケール薬物送達システムによる標的特異性向上と副作用低減に加え、エクソソームを活用した治療診断統合プラットフォームが注目される。薬剤耐性克服への応用が期待。\n\n4. **Ti-MOFとエクソソームによる歯周炎治療**：p-Synephrineの抗炎症・抗酸化作用を高めるため、チタン-有機フレームワークとエクソソームを組み合わせた新規キャリアシステム。慢性炎症疾患への精密送達技術として有望。\n\n5. **ハイドロゲル-エクソソーム相乗システム**：再生医療において、ハイドロゲルの制御放出能とエクソソームの生理活性を融合。組織修復・創傷治癒の効率向上が期待され、臨床応用への橋渡しとなる基盤技術。\n\nこれらのトピックは、いずれも生体内微小環境の制御や精密医療の実現に向けた革新的アプローチであり、今後のトランスレーショナル研究の進展が強く期待される。"
+}

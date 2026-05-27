@@ -1,0 +1,282 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Small extracellular vesicle signaling and mitochondrial transfer reprogram T helper cell function in human asthma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42192147/",
+        "abstract": "Small extracellular vesicles (sEVs) orchestrate cell-cell communication, but the role of sEV signaling via mitochondria in perpetuating asthmatic airway inflammation is unknown. Myeloid-derived regulatory cells (MDRCs) control CD4",
+        "source": "PubMed",
+        "doi": "10.1038/s41467-026-73684-y",
+        "keyword": "Exosomes",
+        "matched_keywords": [
+          "Exosomes",
+          "sEVs"
+        ],
+        "title_ja": "ヒト喘息における小型細胞外小胞シグナル伝達とミトコンドリア移行によるTヘルパー細胞機能の再プログラミング",
+        "summary_ja": "以下の通り要約します。\n\n本論文は、喘息におけるsmall extracellular vesicles (sEVs) を介したミトコンドリア伝達がCD4+ T細胞の機能を再プログラムする機構を解明した。喘息患者の気道では、骨髄由来制御細胞 (MDRCs) がsEVsを介してミトコンドリアをCD4+ T細胞に移行させる。このミトコンドリア伝達により、T細胞の代謝が酸化的リン酸化へとシフトし、Th2サイトカイン産生が亢進する。一方、健常者由来のMDRCsはこの効果を示さず、喘息特異的なsEVシグナルが病態持続に寄与することが示された。sEVによるミトコンドリア伝達の阻害は、喘息炎症を抑制する新規治療標的となり得る。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Modulation of the tumor microenvironment by incretins and glucagon: Metabolic and immune mechanisms (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42199348/",
+        "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) and therapies targeting glucose-dependent insulinotropic polypeptide (GIP) have demonstrated efficacy in the treatment of type 2 diabetes (T2D) and obesity. GLP-1 and GIP are collectively referred to as incretins. The strong epidemiological link between T2D/obesity and cancer risk suggests that GLP-1 and GIP may serve a substantial role in tumor metabolism. The effects of incretin hormones and the counter-regulatory hormone glucagon (GCG) on tumor biology may have important implications for understanding tumor microenvironmental regulation and for informing cancer therapy. The present review summarizes the mechanisms by which these hormones influence the tumor microenvironment. Beyond the fundamental biology of incretins and GCG, the present review details how GLP-1RAs regulate immune cell functions, including the functions of T cells, neutrophils, natural killer cells and macrophages, to foster an antitumor immune microenvironment. Furthermore, the present review explores their roles in tumor metabolic reprogramming, affecting tumor cell cycle progression, extracellular matrix remodeling and mitochondrial function. Although preclinical and clinical data suggest that GLP-1RAs can reduce the incidence and progression of certain obesity-related cancer types, such as pancreatic and liver cancer, their impact on other malignancies, such as breast and endometrial cancer, remains controversial, with GLP-1RAs potentially exhibiting context-dependent pro-tumor effects. However, based on current evidence, the benefits of incretin hormones and GCG in cancer therapy appear to outweigh the risks. The present review suggests that targeting incretin and GCG signaling holds considerable promise in oncology, but necessitates a deeper mechanistic understanding and more careful patient stratification to fully harness its clinical utility while minimizing potential risks.",
+        "source": "PubMed",
+        "doi": "10.3892/etm.2026.13178",
+        "keyword": "NK cell therapy",
+        "title_ja": "インクレチンとグルカゴンによる腫瘍微小環境の調節：代謝および免疫メカニズム（レビュー）",
+        "summary_ja": "本レビューは、インクレチン（GLP-1、GIP）と拮抗ホルモンであるグルカゴン（GCG）が腫瘍微小環境に与える影響をまとめた。GLP-1受容体作動薬（GLP-1RAs）は、T細胞、好中球、NK細胞、マクロファージなどの免疫細胞機能を調節し、抗腫瘍免疫環境を促進する。また、腫瘍の代謝リプログラミング、細胞周期進行、細胞外マトリックスリモデリング、ミトコンドリア機能にも関与する。前臨床・臨床データでは、GLP-1RAsが膵臓癌や肝臓癌など肥満関連癌の発生・進行を抑制する可能性が示される一方、乳癌や子宮内膜癌では状況依存的に促進効果も報告され、議論がある。しかし現状では、癌治療におけるインクレチンとGCGの利益がリスクを上回るとされ、そのシグナル経路を標的とする戦略は有望だが、作用機序のさらなる解明と患者層別化が重要である。"
+      },
+      {
+        "title": "Integrating network pharmacology with ex-vivo analysis to assess the effect of IL-2 in halting breast cancer: involvement of Treg/CTLA-4/Blimp-1/caspase-3.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42192107/",
+        "abstract": "The T lymphocytes have a vital role in tumor immunosurveillance within the tumor microenvironment (TME) but on the other hand, the TME adopts several mechanisms that cause inhibition and apoptosis to effector T cells leading to tumor immune evasion. The controversial role of interleukin-2 (IL-2) was demonstrated by promoting the activation and proliferation of different immune cells such as NK cells, effector and regulatory T cells (T regs). Thus, ex-vivo approach was used to investigate IL-2 anti-tumor effect on breast cancer cells isolated from Egyptian patients after mastectomy via modulating Treg/CTLA-4/Blimp-1/caspase-3 trajectory. Previous to the ex-vivo approach we aimed to find common targets between IL-2 and breast cancer disease using network pharmacology. Results of network pharmacology illustrated that there were 35 common targets including CD4, CTLA-4 and caspase 3. Breast cancers cells obtained were then cultured in the presence of 10 µl of (50 ng/ml) recombinant IL-2 for 24 h. Results revealed that tissue culture supplementation with IL-2 significantly reduced T regs within the TME via inhibiting the tumor expression of CD25 and Forkhead box P3 (FOXP3). In addition, it was found that IL-2 significantly decreased the expression of the inhibitory receptor CTLA-4 and increased the expression of B lymphocyte-induced maturation protein-1(Blimp-1), leading to the activation of effector T cells and the induction apoptosis of the breast tumor cells. These findings suggest that IL-2 could serve as a new treatment strategy for breast cancer via modulating immune responses within the TME.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-52551-2",
+        "keyword": "NK cell therapy",
+        "title_ja": "ネットワーク薬理学とex-vivo解析を統合した、乳癌抑制におけるIL-2の効果評価：Treg/CTLA-4/Blimp-1/caspase-3の関与",
+        "summary_ja": "本論文は、IL-2の乳癌に対する抗腫瘍効果を、ネットワーク薬理学とex-vivo解析を用いて検討した。TME内でTリンパ球は腫瘍免疫監視に重要だが、免疫回避機構によりエフェクターT細胞の抑制・アポトーシスが生じる。IL-2はNK細胞やT regsを含む免疫細胞の活性化・増殖を促進する二面的役割を持つ。まずネットワーク薬理学によりIL-2と乳癌の共通標的としてCD4、CTLA-4、caspase 3など35個を同定。次に、エジプト人患者の乳癌細胞をIL-2存在下で培養した結果、IL-2はTME内のT regsを減少させ（CD25、FOXP3発現抑制）、CTLA-4発現を低下、Blimp-1発現を上昇させ、エフェクターT細胞活性化と乳癌細胞アポトーシスを誘導した。以上より、IL-2はTME内免疫応答調節を介した乳癌治療戦略となり得る。"
+      },
+      {
+        "title": "Myeloid-derived suppressor cells in anaplastic thyroid carcinoma: insights from prospective immune profiling and implications for targeted immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42191358/",
+        "abstract": "Anaplastic thyroid carcinoma (ATC) exhibits limited responsiveness to immunotherapy. The current study characterises the immune cell repertoire in ATC compared with differentiated thyroid carcinoma (DTC) and thyroid follicular nodular disease (TFND) and evaluates ",
+        "source": "PubMed",
+        "doi": "10.1136/jcp-2025-210585",
+        "keyword": "NK cell therapy",
+        "title_ja": "未分化甲状腺癌における骨髄由来抑制細胞：前向き免疫プロファイリングからの知見と標的免疫療法への示唆",
+        "summary_ja": "未分化甲状腺癌（ATC）は免疫療法への反応性が限定的である。本研究では、ATC、分化型甲状腺癌（DTC）、甲状腺濾胞性結節性疾患（TFND）における免疫細胞レパートリーを前向きに解析し、骨髄由来抑制細胞（MDSC）に着目した。ATCではMDSCの顕著な浸潤が認められ、特に多形核MDSC（PMN-MDSC）が優位であった。これらの細胞は免疫抑制性サイトカインを産生し、T細胞機能を阻害することで免疫逃避に寄与する。また、MDSCの頻度はATCの進行度や予後不良と相関した。標的免疫療法として、MDSCの動態を考慮した治療戦略の重要性が示唆された。"
+      },
+      {
+        "title": "Dietary sulfur amino acids enhance anti-tumor immunity in colon cancer via an NKT cell-XCL1-cDC1 circuit.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42190649/",
+        "abstract": "The efficacy of immune checkpoint inhibitors (ICIs) in colon cancer (CC) is limited by the tolerogenic immune landscape of both the tumor and the intestine. Here, we investigated the impact of microbial metabolic pathways associated with ICI responsiveness on anti-tumor immunity in CC. Sulfur amino acid (Saa) metabolic pathways were enriched in ICI responders and in individuals without CC. In murine models, high-Saa diets restricted CC progression, increased colonic mucus thickness, and promoted the expansion of mucus-dwelling Mucispirillum schaedleri (M. schaedleri). Dietary Saa supplementation increased the frequency of activated intratumoral cytotoxic CD8",
+        "source": "PubMed",
+        "doi": "10.1016/j.immuni.2026.05.001",
+        "keyword": "NK cell therapy",
+        "title_ja": "食事性硫黄アミノ酸は、NKT細胞-XCL1-cDC1回路を介して大腸癌における抗腫瘍免疫を増強する。",
+        "summary_ja": "この論文は、大腸がん（CC）における免疫チェックポイント阻害剤（ICI）の効果が限定的である背景から、ICI応答性に関連する微生物代謝経路の影響を調査した。ICI応答者およびCC非罹患者では、硫黄アミノ酸（Saa）代謝経路が豊富に存在した。マウスモデルにおいて、高Saa食はCCの進行を抑制し、結腸粘液層を増加させ、粘液層に生息するMucispirillum schaedleriの増殖を促進した。また、Saa補給は腫瘍内の活性化細胞傷害性CD8陽性T細胞の頻度を増加させた。これらの結果は、SaaがNKT細胞-XCL1-cDC1回路を介して抗腫瘍免疫を強化することを示唆している。"
+      },
+      {
+        "title": "Molecular architecture of the tumor microenvironment caused by ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42189716/",
+        "abstract": "Homologous recombination repair (HRR) deficiency is associated with improved immunotherapy responses in non-small cell lung cancer (NSCLC) patients. The HRR genes ",
+        "source": "PubMed",
+        "doi": "10.7554/eLife.110662",
+        "keyword": "NK cell therapy",
+        "title_ja": "腫瘍微小環境の分子構造",
+        "summary_ja": "以下の通り要約します。\n\n本論文は、非小細胞肺癌（NSCLC）患者において、相同組換え修復（HRR）欠損が免疫療法の奏効率向上と関連することを示す。HRR遺伝子の変異により腫瘍微小環境（TME）の分子構造が変化し、腫瘍免疫応答に影響を与える。具体的には、HRR欠損腫瘍ではDNA損傷が蓄積し、cGAS-STING経路を介したインターフェロンシグナルが活性化される。これにより、腫瘍浸潤リンパ球（TIL）の増加やPD-L1発現上昇が誘導され、免疫チェックポイント阻害剤への感受性が高まる。また、HRR欠損は腫瘍変異量（TMB）やネオアンチゲン産生とも相関し、免疫原性を強化する。一方で、HRR欠損に伴う特定の遺伝子変異パターンやTME内の免疫細胞構成が、治療効果のバイオマーカーとして有用である可能性が示唆される。本研究は、HRR欠損がNSCLCの免疫療法効果を予測する重要な因子であり、TMEの分子特"
+      },
+      {
+        "title": "Induced Pluripotent Stem Cell-Derived NK Cells as an Off-the-Shelf Platform for Cancer Immunotherapy: Opportunities, Challenges, and Clinical Translation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42189488/",
+        "abstract": "In recent years, off-the-shelf cellular immunotherapies have attracted much attention as a practical alternative to autologous therapies. Within this landscape, induced pluripotent stem cell-derived natural killer cells (iPSC-derived NK cells; iPSC-NK) have emerged as a highly versatile platform because they combine renewable starting material, batch-to-batch uniformity, favorable intrinsic safety, and amenability to precise genetic engineering.This review places iPSC-NK cells within the broader field of NK cell-based immunotherapy by comparing them with peripheral blood-derived NK cells, umbilical cord blood-derived NK cells, and NK cell lines, including clinically explored NK-92-based platforms, and by outlining key distinctions between NK cell therapies and CAR-T approaches. We summarize current strategies for iPSC-to-NK differentiation, spanning feeder-based systems, feeder-free protocols, embryoid body approaches, and scalable GMP-compatible manufacturing methods. We further discuss genetic engineering strategies for NK cells, with particular emphasis on genetic tuning as a systems-level framework for coordinating CAR signaling, cytokine responsiveness, and activation-inhibition balance to improve antitumor efficacy while preserving functional stability and clinical safety. In addition, this review examines translational challenges that continue to limit broader NK-cell adoption, including incomplete functional maturation, limited persistence, donor- and source-dependent variability, manufacturing standardization, cryopreservation, and quality-control requirements. Early clinical studies of iPSC-NK products indicate a favorable safety profile and preliminary antitumor activity in selected hematologic malignancies, although durable efficacy and broader validation in solid tumors remain to be established. Importantly, iPSC-NK cells should be considered one of several complementary NK-cell platforms rather than a definitive or universally superior strategy. Overall, current evidence supports iPSC-NK cells as a promising programmable off-the-shelf platform, but their ultimate clinical impact will depend on achieving reproducible large-scale manufacturing, balanced genetic engineering, and consistent in vivo performance relative to other NK-cell sources and established CAR-T therapies.",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11156-y",
+        "keyword": "NK cell therapy",
+        "title_ja": "人工多能性幹細胞由来NK細胞によるがん免疫療法の即時利用可能プラットフォーム：機会、課題、および臨床応用",
+        "summary_ja": "本レビューは、iPS細胞由来NK細胞（iPSC-NK）を、がん免疫療法におけるoff-the-shelfプラットフォームとして評価する。iPSC-NKは、再生可能な原料、均一性、安全性、遺伝子工学への適合性を備える。末梢血・臍帯血由来NK細胞やNK-92株、CAR-Tとの比較を通じ、分化法（フィーダー法、浮遊培養、胚様体法、GMP対応製造）や遺伝子改変戦略（CARシグナル、サイトカイン応答、活性化・抑制バランスの調整）を概説する。課題として、機能成熟度、持続性、ドナー・ソース間変動、製造標準化、凍結保存、品質管理を挙げる。初期臨床試験では血液腫瘍への安全性と予備的有効性が示されたが、固形腫瘍での検証は不十分。iPSC-NKは万能ではなく補完的プラットフォームと位置づけられ、実用化には再現可能な大量製造、バランスの取れた遺伝子改変、生体内での一貫した性能が鍵となる。"
+      },
+      {
+        "title": "Regulatory and Ethical Frameworks for First-in-Human Clinical Trials in India: Proceedings of a Codesigned Capacity-Building Workshop.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42189405/",
+        "abstract": "A two-and-a-half-day workshop on regulatory and ethical issues in first-in-human (FIH) clinical trials in India was held at the Postgraduate Institute of Medical Education and Research (PGIMER), Chandigarh, India, on 7-9 November 2024, under the aegis of the Indian Council of Medical Research (ICMR) Phase I Network. The workshop brought together regulators, academic investigators, and industry representatives to examine the evolving regulatory landscape of early phase trials in India and the operational challenges associated with it. Through interactive sessions, including preparation of investigational new drug (IND) application, mock pre-IND/IND and mock subject expert committee (SEC) meetings, on-site monitoring simulations, and structured hands-on exercises, the workshop navigated regulatory submission pathways, trial reporting, documentation standards, safety oversight, and informed consent processes. A panel discussion on the phase lag policy for FIH studies in India was held with expert personnel from regulatory agencies, ICMR headquarters, industry, and academia. The workshop discussions underscored the need for policy harmonization, enhanced site preparedness, and sustained capacity-building to position India as a leader for early phase clinical research. The present article summarizes the proceeding of the workshop and highlights the critical insights for developing a regulatory and ethical framework to support FIH trials in India.",
+        "source": "PubMed",
+        "doi": "10.1007/s40261-026-01558-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "インドにおける初回ヒト臨床試験のための規制および倫理的枠組み：共同設計による能力構築ワークショップの議事録",
+        "summary_ja": "2024年11月7～9日、インド・チャンディーガルのPGIMERにて、ICMR第1相ネットワーク主催の「初回人体（FIH）臨床試験の規制・倫理」に関する2.5日間のワークショップが開催された。規制当局、アカデミア研究者、業界代表が参加し、インドにおける早期相試験の規制環境の進展と運用上の課題を検討。IND申請準備、模擬IND/事前IND会議、模擬専門家委員会、オンサイトモニタリングシミュレーション等の対話型セッションを通じ、規制申請経路、試験報告、文書基準、安全性監視、インフォームドコンセント手順を学んだ。FIH試験の「フェーズラグ政策」に関するパネル討論も実施。政策調和、サイト準備態勢強化、持続的な能力構築の必要性が強調され、インドを早期相臨床研究のリーダーとして位置付けるための規制・倫理フレームワーク開発に向けた重要な洞察が示された。本稿はその議事録を要約する。"
+      },
+      {
+        "title": "Linker dependence of ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42187111/",
+        "abstract": "Three water-soluble porphyrins with tetracationic imidazolium groups were synthesized and assessed for complexation with human telomeric guanine-quadruplex (G4) DNA. Based on UV-vis titration studies, these porphyrins showed 10-fold higher complexation stability toward G4 DNA over non-G4 DNA. This was consistent with FRET experimental data, which showed that G4 stabilization by these porphyrins was significantly enhanced in comparison with that of non-G4 DNA. The porphyrins had slightly longer absorption wavelengths than a previously reported cationic porphyrin with the same functional groups but shorter linkers, indicating that they may be more suitable as photosensitizers (PSs) for photodynamic therapy (PDT). Significant photoinduced singlet oxygen (",
+        "source": "PubMed",
+        "doi": "10.1039/d6ob00581k",
+        "keyword": "NK cell therapy",
+        "title_ja": "リンカーの依存性",
+        "summary_ja": "テトラカチオン性イミダゾリウム基を持つ3種類の水溶性ポルフィリンを合成し、ヒトテロメアグアニン四重鎖（G4）DNAとの複合体形成を評価した。UV-vis滴定により、これらのポルフィリンは非G4 DNAと比較してG4 DNAに対して10倍高い複合体安定性を示した。FRET実験でも、G4安定化能が非G4 DNAよりも有意に向上していることが確認された。これらのポルフィリンは、同一の官能基を持つがより短いリンカーを有する既報のカチオン性ポルフィリンよりもわずかに長い吸収波長を示し、光線力学療法（PDT）用光増感剤（PS）としてより適している可能性が示唆された。また、光誘起一重項酸素の発生も確認された。"
+      },
+      {
+        "title": "ICIsAtlas reveals a suppressive NK cell niche in pan-cancer immunotherapy profiles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42185494/",
+        "abstract": "Immune checkpoint inhibitors (ICIs) have reshaped the treatment in multiple tumors. However, a substantial proportion of patients exhibit limited responses. The lack of harmonized, large-scale pan-cancer ICI datasets coupled with accessible analysis tools hinders the systematic discovery of response biomarkers and resistance mechanisms. Therefore, we developed a comprehensive resource named ICIsAtlas, which encompassed curated transcriptomic and clinical data from 1,268 ICI-treated patients across eight tumor types, with an accompanying R package implementing a complete workflow for deconvolution and biomarker evaluation. Applying the ICIsAtlas framework, a systematic pan-cancer analysis was performed. We identified the universal signatures that were specific for ICI response, including cooperative interactions among favorable immune cells. In addition, we discovered a competitive cell community and SERPING1 + VEGFA+ Natural Killer (NK) cell-mediated immunosuppressive niche in non-responders, which were further validated with single-cell and multiplex immunohistochemistry data. The ICIsAtlas resource and R package represent a powerful, publicly available platform for hypothesis generation and biomarker discovery, which could be used to develop the next-generation biomarkers and therapeutic targets to improve tumor immunotherapy.",
+        "source": "PubMed",
+        "doi": "10.1038/s42003-026-10336-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "ICIsAtlasが明らかにする、パンキャンサー免疫療法プロファイルにおける抑制性NK細胞ニッチ",
+        "summary_ja": "ICIsAtlasは、8種のがん種、1,268名のICI治療患者のトランスクリプトームと臨床データを統合したリソースであり、Rパッケージによる解析ワークフローを提供する。同フレームワークを用いた汎がん解析により、ICI応答に特異的な普遍的なシグネチャーや、好ましい免疫細胞間の協調的相互作用が同定された。さらに、非応答者においてSERPING1+VEGFA+ナチュラルキラー（NK）細胞を介した免疫抑制性ニッチが発見され、シングルセル解析や多重免疫組織化学で検証された。ICIsAtlasは、次世代バイオマーカーや治療標的の開発を促進する公開プラットフォームである。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "CAR-T cell therapy in cancer immunotherapy - Biology, clinical successes, and emerging challenges: A review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42189068/",
+        "abstract": "Cancer immunotherapy has transformed oncology by enabling targeted activation of antitumor immune responses in patients with relapsed or refractory malignancies. Among adoptive cell transfer (ACT) strategies, chimeric antigen receptor T-cell (CAR-T) therapy has emerged as a pivotal therapeutic advancement, genetically redirecting T lymphocytes to recognize tumor-associated antigens independently of major histocompatibility complex (MHC) presentation. This review provides a comprehensive overview of the biological principles, design evolution, manufacturing platforms, clinical applications, resistance mechanisms, toxicities, and future directions of CAR-T cell therapy within cancer immunotherapy. Specifically, we examine the evolution of CAR architecture, spanning from first-generation constructs to advanced armored and fifth-generation platforms. Furthermore, we compare viral and non-viral gene delivery systems and discuss emerging approaches such as in vivo CAR engineering, allogeneic \"off-the-shelf\" products, logic-gated receptors, safety switches, and alternative immune-cell platforms, including natural killer (NK) cells and macrophages. CAR-T cell therapy has achieved its most profound clinical success in hematological malignancies, particularly in cluster of differentiation 19 (CD19)-positive B-cell acute lymphoblastic leukemia and B-cell non-Hodgkin lymphoma, reporting durable remission rates of approximately 60-90% in specific clinical contexts. However, broader clinical translation, particularly in solid tumors, remains constrained by challenges such as cytokine release syndrome (CRS), immune effector cell-associated neurotoxicity syndrome (ICANS), antigen escape, tumor heterogeneity, poor trafficking, limited persistence, high manufacturing costs, and the immunosuppressive tumor microenvironment (TME). While next-generation strategies-including clustered regularly interspaced short palindromic repeats/CRISPR-associated protein 9 (CRISPR/Cas9)-mediated editing, lipid nanoparticle (LNP)-based messenger ribonucleic acid (mRNA) delivery, bispecific CARs, and inducible suicide switches-hold promise for improving safety, specificity, scalability, and accessibility, a significant number remain in preclinical or early-phase clinical development. Overall, CAR-T cell therapy represents a transformative \"living drug\" platform in oncology; however, its broader clinical utility is contingent upon improving durability, reducing toxicity, overcoming solid-tumor barriers, and validating next-generation technologies through robust, long-term clinical studies.",
+        "source": "PubMed",
+        "doi": "10.17305/bb.2026.14266",
+        "keyword": "NK cell therapy",
+        "title_ja": "がん免疫療法におけるCAR-T細胞療法——生物学、臨床的成功、そして新たな課題：総説",
+        "summary_ja": "本レビューは、がん免疫療法におけるCAR-T細胞療法の生物学、設計進化、製造プラットフォーム、臨床応用、抵抗性機序、毒性、将来展望を包括的に解説する。CARアーキテクチャは第1世代から第5世代へ進化し、ウイルス・非ウイルス遺伝子導入法、in vivo CAR工学、同種「既製品」製品、論理ゲート受容体、安全スイッチ、NK細胞やマクロファージを用いた代替免疫細胞プラットフォームが議論される。CAR-T療法は血液がん、特にCD19陽性B細胞急性リンパ芽球性白血病やB細胞非ホジキンリンパ腫で60～90%の持続寛解率を達成したが、固形がんではサイトカイン放出症候群（CRS）、免疫エフェクター細胞関連神経毒性症候群（ICANS）、抗原逃避、腫瘍不均一性、浸潤不良、持続性不足、高コスト、免疫抑制性腫瘍微小環境（TME）が課題である。CRISPR/Cas9編集、脂質ナノ粒子（LNP）mRNA送達、二重特異"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Polyethylene Glycol Mediated Xeno-Free Isolation of Human Umbilical Cord Tissue-derived Mesenchymal Stem cells secreted Small Extracellular Vesicles: An Optimization, Characterization, and its Functional Evaluation Study in Glioblastoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42201613/",
+        "abstract": "The therapeutic promise of small extracellular vesicles (sEV) derived from mesenchymal stem cells lies in their inherent tumor-targeting ability, immunomodulatory functions, and capacity to deliver bioactive molecules. Human umbilical cord tissue-derived MSCs (hUCT-MSCs), due to their immunosuppressive traits, non-invasive sourcing, high yield, and low immunogenicity, are a compelling source for producing hUCT-MSC-derived sEV. This study establishes a xenofree, PEG-based precipitation protocol for isolating sEV from hUCT-MSCs cultured in human platelet lysate (HPL)-supplemented medium, effectively eliminating the risks associated with animal-derived serum. Among the tested concentrations, 8% PEG yielded the highest recovery and purity, as confirmed by nanoparticle tracking analysis (NTA), transmission electron microscopy (TEM), and Western blotting for CD9 and CD81. Functionally, the isolated sEV significantly reduced the viability and migration of U87 glioblastoma cells, supporting their direct anti-cancer potential. This work presents a robust and clinically relevant strategy for generating functional sEV, potentially advancing their application in targeted therapies for glioblastoma and other cancers.",
+        "source": "PubMed",
+        "doi": "10.1007/s12010-026-05737-3",
+        "keyword": "Exosomes",
+        "title_ja": "ポリエチレングリコールを用いた異種成分不含条件下でのヒト臍帯組織由来間葉系幹細胞分泌小型細胞外小胞の単離：膠芽腫における最適化、特性評価、および機能評価研究",
+        "summary_ja": "本論文では、ヒト臍帯組織由来間葉系幹細胞（hUCT-MSCs）から分泌される小型細胞外小胞（sEV）の、異種成分不含かつポリエチレングリコール（PEG）を用いた沈殿法による単離プロトコルを確立した。hUCT-MSCsは免疫抑制特性、非侵襲的な採取、高収量、低免疫原性を有し、sEVの供給源として有望である。本研究では、動物由来血清のリスクを排除するため、ヒト血小板溶解物（HPL）添加培地で培養した細胞からsEVを単離。PEG濃度の検討の結果、8% PEGがナノ粒子追跡分析（NTA）、透過型電子顕微鏡（TEM）、CD9・CD81のウェスタンブロッティングにより、最も高い回収率と純度を示した。機能的には、単離されたsEVはU87グリオブラストーマ細胞の生存率と遊走能を有意に低下させ、直接的な抗がん作用が確認された。本手法は、グリオブラストーマ等のがん標的治療への応用に向けた、臨床応用可能なsEV"
+      },
+      {
+        "title": "Exosome-loaded nanoradiosensitizers in radiotherapy for preventing post-irradiation tumor recurrence: mechanisms, preclinical evidence, and translational challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42201428/",
+        "abstract": "Radiotherapy remains a cornerstone in cancer treatment, yet its therapeutic efficacy is often limited by radioresistance, tumor heterogeneity, and recurrence post-irradiation. Nanotechnology has emerged as a promising avenue to enhance radiosensitization, improve tumor selectivity, and reduce off-target toxicity. Among these, exosome-loaded nanoradiosensitizers represent an innovative strategy, leveraging the natural biocompatibility, tumor-homing ability, and immunomodulatory properties of exosomes to deliver radiosensitizing agents with precision. This review examines the design principles, fabrication strategies, and functional mechanisms of exosome-based nanoradiosensitizers, highlighting how they enhance DNA damage, modulate the tumor microenvironment, and overcome intrinsic and acquired radioresistance. We discuss the molecular mechanisms underlying radiosensitization, including reactive oxygen species (ROS) amplification, cell-cycle modulation, hypoxia alleviation, and immune system engagement. Furthermore, we explore in vitro and in vivo preclinical evidence demonstrating the efficacy of these systems in reducing tumor recurrence post-irradiation. Challenges such as scalable exosome production, cargo loading efficiency, targeted delivery, and regulatory considerations are critically evaluated. Finally, the review outlines translational perspectives, potential combinatorial therapies, and key considerations for clinical trial design. By integrating insights from nanomedicine, radiobiology, and exosome biology, this review aims to provide a comprehensive framework for the development of next-generation exosome-based nanoradiosensitizers, ultimately enhancing radiotherapy outcomes and minimizing tumor relapse in resistant cancers.",
+        "source": "PubMed",
+        "doi": "10.1186/s11671-026-04681-9",
+        "keyword": "Exosomes",
+        "title_ja": "放射線治療におけるエクソソーム搭載ナノ放射線増感剤による照射後腫瘍再発の予防：メカニズム、前臨床エビデンス、および橋渡し研究の課題",
+        "summary_ja": "放射線治療は癌治療の基盤だが、放射線抵抗性や腫瘍不均一性、再発が課題である。ナノテクノロジーは放射線増感、腫瘍選択性向上、副作用低減に有望であり、特にエクソソーム搭載ナノ放射線増感剤は、エクソソームの生体適合性、腫瘍指向性、免疫調節能を活用し、増感剤を精密送達する革新的戦略である。本総説は、その設計原理、作製法、機能メカニズムを検討し、DNA損傷増強、腫瘍微小環境調節、放射線抵抗性克服を解説。分子機構としてROS増幅、細胞周期調節、低酸素緩和、免疫活性化を議論。前臨床試験で再発抑制効果を示す一方、エクソソーム大量生産、積載効率、標的送達、規制課題を評価。併用療法や臨床試験デザインの展望を示し、ナノ医療、放射線生物学、エクソソーム生物学の統合による次世代増感剤開発の枠組みを提供する。"
+      },
+      {
+        "title": "Pomelo-derived exosomes suppress vesicular stomatitis virus infection through GSK3β dependent regulation of innate immune signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42200724/",
+        "abstract": "RNA virus infection triggers robust innate immune activation and inflammatory injury. Using vesicular stomatitis virus (VSV) as a model, we investigated the antiviral and immunomodulatory effects of pomelo-derived extracellular vesicles (EV",
+        "source": "PubMed",
+        "doi": "10.1039/d6fo00968a",
+        "keyword": "Exosomes",
+        "title_ja": "ポメロ由来エクソソームは、GSK3β依存的な自然免疫シグナル調節を介して水疱性口内炎ウイルス感染を抑制する。",
+        "summary_ja": "タイトル：グレープフルーツ由来エクソソームはGSK3β依存的な自然免疫シグナル調節を介して水疱性口内炎ウイルス感染を抑制する\n\n内容：RNAウイルス感染は強力な自然免疫活性化と炎症性傷害を誘発する。本研究では水疱性口内炎ウイルス（VSV）をモデルとして、グレープフルーツ由来細胞外小胞（EV）の抗ウイルス効果と免疫調節作用を検討した。その結果、グレープフルーツ由来エクソソームがGSK3βの活性を調節することで自然免疫シグナル伝達を制御し、VSV感染を抑制することが明らかとなった。このメカニズムは、ウイルス感染に伴う過剰な炎症応答を軽減しつつ、抗ウイルス免疫を強化する可能性を示唆している。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Effects of Exercise on PVAT-Derived Exosomes in the Modulation of Vascular Function in Obese Mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42201614/",
+        "abstract": "This study investigated whether perivascular adipose tissue (PVAT)-derived exosomal miRNAs contribute to exercise-induced improvement of vascular function in obesity. Male C57BL/6J mice were assigned to normal diet control (NC), high-fat diet control (HC), or high-fat diet with exercise (HE) groups. After 20 weeks of high-fat feeding, obese mice in the HE group underwent treadmill exercise for 8 weeks. Vascular contraction and relaxation were assessed in the presence or absence of PVAT-derived exosomes, which were further analyzed using a whole transcriptome sequencing. In vitro, vascular smooth muscle cells (VSMCs) were incubated with exosomes secreted from 3T3-L1 adipocytes (transfected with a miR-122-5p mimic) to evaluate phenotypic gene expression and migration. Compared with HC, arteries incubated with PVAT-conditioned medium from HE mice showed significantly reduced maximal constriction and improved endothelium-independent relaxation, whereas these effects were attenuated after removal of exosomes (P < 0.05). Exercise markedly altered the miRNA profile of PVAT-derived exosomes. Among these miRNAs, miR-122-5p was increased in obesity but decreased after exercise (P < 0.05). Exosomes enriched with miR-122-5p promoted VSMC migration and shifted phenotype gene expressions (down-regulated contractile ACTA2 and TAGLN and up-regulated synthetic SPP1; P < 0.05). This study is the first to show that PVAT-derived exosomes critically contribute to vascular function in obesity after exercise intervention. A unique exosomal miRNA signature may represent a potential regulatory mechanism underlying exercise-mediated vascular restoration, with miR-122-5p identified as a candidate molecule involved in triggering VSMC synthetic phenotype switching.",
+        "source": "PubMed",
+        "doi": "10.1007/s12010-026-05743-5",
+        "keyword": "Exosomes",
+        "title_ja": "運動が肥満マウスの血管機能調節におけるPVAT由来エクソソームに及ぼす影響",
+        "summary_ja": "本論文は、肥満マウスにおける運動が血管周囲脂肪組織（PVAT）由来エクソソームを介して血管機能を改善する機構を検討した。雄性C57BL/6Jマウスを通常食対照群、高脂肪食対照群、高脂肪食＋運動群に分け、20週間の高脂肪食後、運動群に8週間のトレッドミル運動を実施。PVAT由来エクソソームの有無で血管収縮・弛緩を評価し、全トランスクリプトーム解析を行った。また、3T3-L1脂肪細胞由来エクソソーム（miR-122-5p mimic導入）を血管平滑筋細胞（VSMC）に添加し、表現型遺伝子発現と遊走を評価。運動群のPVAT調整培地は、対照群と比較して最大収縮を有意に減少させ、内皮非依存性弛緩を改善したが、エクソソーム除去で効果は減弱。運動はPVAT由来エクソソームのmiRNAプロファイルを顕著に変化させ、肥満で増加したmiR-122-5pは運動後に減少。miR-122-5p enrichedエク"
+      },
+      {
+        "title": "The emerging role of oligodendrocytes in Alzheimer's disease: Integrating bibliometric insights with molecular pathogenesis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42199009/",
+        "abstract": "BackgroundOligodendrocytes (OLs) have received relatively limited attention in Alzheimer's disease (AD) research; however, recent studies highlight their significant role in AD pathology, particularly in neuroinflammation and myelin integrity.ObjectiveTo bibliometrically analyze oligodendrocyte research in AD.MethodsLiterature was retrieved from Web of Science and Scopus on July 8, 2025. CiteSpace, VOSviewer, and R-based bibliometrix were used for visualization and trend analysis.ResultsA total of 1780 publications from 1981 to 2025 were analyzed. Research output in this field grew significantly, particularly post-2010, following an exponential growth pattern consistent with Price's Law. The USA, China, and Japan were the top contributors, with the USA showing the highest number of publications. The University of California System, Harvard University, and Mayo Clinic emerged as central institutions, while influential authors included George Bartzokis, David A. Bennett, and Patrick L. McGeer. Leading journals, like ",
+        "source": "PubMed",
+        "doi": "10.1177/13872877261450636",
+        "keyword": "Exosomes",
+        "title_ja": "アルツハイマー病におけるオリゴデンドロサイトの新たな役割：文献計量学的知見と分子病態の統合",
+        "summary_ja": "以下の通り、論文・記事を日本語で400文字以内に要約します。\n\n本論文は、アルツハイマー病（AD）研究におけるオリゴデンドロサイト（OLs）の役割に着目し、文献計量学的分析と分子病態の統合的考察を行った。AD研究ではOLsへの注目は限定的だったが、近年、神経炎症やミエリン完全性における重要性が示されている。Web of ScienceとScopusから1981～2025年の1780件の文献を抽出し、CiteSpace、VOSviewer、Rを用いて可視化・トレンド分析を実施。結果、2010年以降に研究数が指数関数的に増加（Priceの法則に合致）。主要な貢献国は米国、中国、日本で、米国が最多。中心機関はカリフォルニア大学システム、ハーバード大学、メイヨー・クリニック。影響力のある著者としてGeorge Bartzokis、David A. Bennett、Patrick L. McGeer"
+      },
+      {
+        "title": "Exosome-mediated gut-brain axis signaling in neurodegenerative diseases: Mechanisms, experimental evidence, and therapeutic perspectives-A narrative review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42192558/",
+        "abstract": "The stomach and the brain are connected by a sophisticated two-way communication mechanism called the gut-brain axis. Extracellular vesicles, particularly exosomes, that move bioactive substances between the stomach and the brain, such as proteins, lipids, metabolites, and microRNAs, may improve the gut-brain axis. In the past years, the role of exosome-mediated communication has been recognized as significant in relation to the etiology, continued progression, and potential treatment of neurodegenerative disorders. The authors of this review article present a summary of the current understanding of the relationship of gut microbiome, exosome biogenesis, and the pathophysiological development of neurodegenerative diseases. Evidence from laboratory studies, animal studies, and newly emerging human studies suggests that microbiome-based metabolites and inflammatory mediators may modulate how exosomes are produced, what they carry, and how they interact with the blood-brain barrier. These exosomal signals may impact neuroinflammation, neuronal signaling, and the spread of pathological proteins of neurodegenerative diseases, such as Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and Huntington's disease. In addition, they examine some possible ways to target the gut-brain axis from a therapeutic perspective, including manipulating the gut microbiome, providing probiotics and/or prebiotics, performing fecal microbiota transplantation, and/or using engineered extracellular vesicles as vehicles for drug delivery. The authors also outline some of the methodological differences that make it difficult to assess the effects of exosomes.",
+        "source": "PubMed",
+        "doi": "10.1002/ame2.70226",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを介した神経変性疾患における腸脳軸シグナル伝達：メカニズム、実験的エビデンス、および治療的展望－ナラティブレビュー",
+        "summary_ja": "本レビューでは、神経変性疾患における腸脳軸を介したエクソソームの役割を概説する。胃と脳は腸脳軸と呼ばれる双方向通信で結ばれ、エクソソームはタンパク質、脂質、代謝物、microRNAなどの生理活性物質を運搬し、この軸を強化する。近年、エクソソームを介したシグナル伝達は、アルツハイマー病、パーキンソン病、筋萎縮性側索硬化症、ハンチントン病などの病因、進行、治療において重要視されている。腸内細菌叢由来の代謝物や炎症性メディエーターは、エクソソームの産生、内容物、血液脳関門との相互作用を調節し、神経炎症、神経シグナル伝達、病的タンパク質の伝播に影響を与える。治療戦略としては、腸内細菌叢の操作、プロバイオティクス/プレバイオティクス投与、糞便微生物叢移植、薬物送達担体としての改変エクソソーム利用が挙げられる。また、エクソソーム効果評価を困難にする方法論的差異についても指摘する。"
+      },
+      {
+        "title": "Milk-derived exosome-based strategy targeting ferroptosis-glycolysis network promotes bone regeneration in diabetic aging comorbidity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42192418/",
+        "abstract": "Diabetes and aging synergistically impair bone regeneration, primarily driven by functional deterioration of bone marrow mesenchymal stem cells (BMSCs). Here, we uncover an m6A-centered regulatory network integrating ferroptosis and glycolytic metabolism that dictates BMSCs dysfunction under diabetes-aging comorbidity. Mechanistically, diabetic stress selectively activated the ALKBH5-ferroptosis axis, driving excessive ferroptosis in young BMSCs, whereas senescent BMSCs exhibited an additional repression of METTL3-mediated glycolytic flux, rendering ferroptosis inhibition alone insufficient to restore osteogenic capacity. These intersecting molecular defects cooperatively exacerbated osteoporosis progression in diabetic aging. Guided by this mechanistic framework, we developed a combinatorial regenerative strategy integrating milk-derived exosomes (MiExos) and anaerobic exercise to simultaneously target ferroptotic stress and metabolic insufficiency. Mechanistically, MiExos selectively suppressed ferroptosis by stabilizing NRF2 signaling through inhibition of ubiquitination, without perturbing glycolytic metabolism, while anaerobic exercise robustly enhanced intraosseous glycolysis. Notably, the dual intervention markedly improved bone regeneration in diabetic-aged mice. Collectively, our findings establish milk-derived exosomes as a natural nanotherapeutic capable of precise ferroptosis modulation and demonstrate that coordinated suppression of ferroptosis and activation of glycolysis is essential for overcoming bone regenerative failure in diabetes-aging comorbidity.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04588-8",
+        "keyword": "Exosomes",
+        "title_ja": "糖尿病老化併存症におけるフェロトーシス-解糖系ネットワークを標的とした乳由来エクソソーム戦略による骨再生促進",
+        "summary_ja": "糖尿病と老化は相乗的に骨再生を障害し、骨髄間葉系幹細胞（BMSCs）の機能低下が主因である。本研究では、m6A修飾を中心としたフェロトーシスと解糖代謝の制御ネットワークが、糖尿病・老化併存下でのBMSCs機能不全を決定することを解明した。若年BMSCsでは糖尿病ストレスがALKBH5-フェロトーシス軸を活性化し過剰なフェロトーシスを誘導する一方、老化BMSCsではMETTL3を介した解糖フラックスが抑制され、フェロトーシス阻害のみでは骨形成能回復に不十分であった。これらの分子欠陥が協調して骨粗鬆症を悪化させる。この知見に基づき、乳由来エクソソーム（MiExos）と嫌気性運動を組み合わせた再生戦略を開発した。MiExosはユビキチン化阻害によりNRF2シグナルを安定化しフェロトーシスを選択的に抑制し、嫌気性運動は骨内解糖を強化した。この二重介入は糖尿病老化マウスの骨再生を顕著に改善した。以上"
+      },
+      {
+        "title": "UCMSC-derived exosomal circDLGAP4 enhances HFF-1 cell proliferation and migration by promoting ZNF217 promoter H3K27 acetylation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42191952/",
+        "abstract": "Umbilical cord mesenchymal stem cells (UCMSCs) have been shown to actively participate in diabetic foot ulcer (DFU) wound healing. The human foreskin fibroblast-1 (HFF-1) cell line is a crucial and widely used in vitro model for fundamental research on DFUs. In this study, the role of UCMSC-derived exosomal circDLGAP4 in high-glucose (HG)-stressed HFF-1 cells was clarified, in particular whether it regulates the TATA-box binding protein-associated factor 15 (TAF15)/p300/zinc finger protein 217 (ZNF217) axis to enhance cell proliferation and migration. We confirmed that UCMSC-derived exosomes that contained circDLGAP4 in abundance enhanced the proliferation and migration of HG-stressed HFF-1 cells. Under an HG environment, ZNF217 was downregulated in the HFF-1 cells, whereas its overexpression promoted the proliferation and migration of the cells, an effect facilitated by its own activation via the p300-mediated H3K27 acetylation of its gene promoter. The p300 mRNA was stabilized through interaction with TAF15, while the expression of TAF15 was upregulated through its interaction with circDLGAP4. Additionally, exosomal circDLGAP4 promoted wound healing in mice with DFUs. In conclusion, UCMSC-derived exosomal circDLGAP4 enhanced HFF-1 cell proliferation and migration under HG conditions in vitro and promoted diabetic wound healing in vivo by activating the TAF15/p300/ZNF217 axis.",
+        "source": "PubMed",
+        "doi": "10.1007/s00438-026-02451-x",
+        "keyword": "Exosomes",
+        "title_ja": "UCMSC由来エクソソーム中のcircDLGAP4は、ZNF217プロモーターのH3K27アセチル化を促進することでHFF-1細胞の増殖と遊走を促進する。",
+        "summary_ja": "臍帯間葉系幹細胞（UCMSC）由来エクソソーム中のcircDLGAP4は、高グルコース（HG）ストレス下のヒト包皮線維芽細胞（HFF-1）において、TAF15/p300/ZNF217軸を介して細胞増殖と遊走を促進する。HG環境下で低下するZNF217は、p300によるプロモーターH3K27アセチル化を介して活性化され、その発現上昇が細胞機能を亢進する。p300 mRNAはTAF15との相互作用で安定化し、TAF15はcircDLGAP4により発現上昇する。in vivoでは、本エクソソームが糖尿病足潰瘍マウスの創傷治癒を促進した。"
+      },
+      {
+        "title": "Comment on \"Validation of novel exosomal miRNAs identified by next-generation sequencing in coronary artery disease\".",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42191493/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.jfma.2026.05.095",
+        "keyword": "Exosomes",
+        "title_ja": "「次世代シーケンシングで同定された冠動脈疾患における新規エクソソームmiRNAの検証」へのコメント",
+        "summary_ja": "以下の要約です。\n\n本コメントは、冠動脈疾患（CAD）における新規エクソソームmiRNAの次世代シークエンシング（NGS）による同定と検証を報告した先行研究に対し、方法論的懸念を指摘する。具体的には、NGSデータの解析における偽陽性の可能性、サンプルサイズの小ささ、および検証コホートでの再現性不足を問題視する。また、エクソソームの単離手法やmiRNAの正規化法が結果に影響を与える可能性を指摘し、統計解析の妥当性についても疑問を呈する。著者らは、これらの課題を克服するためには、より大規模な独立したコホートでの検証と、標準化されたプロトコルの採用が不可欠であると結論づけている。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Outcomes of Self-Expanding Versus Balloon-Expandable Transcatheter Aortic Valves in Patients With Reduced Left Ventricular Ejection Fraction: A Meta-Analysis of Observational Studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42199515/",
+        "abstract": "Patients with reduced left ventricular ejection fraction (LVEF) undergoing transcatheter aortic valve replacement remain a clinically vulnerable group. Although self-expanding valves (SEVs) and balloon-expandable valves are widely used, the optimal choice in patients with LVEF <40% remains uncertain. We aimed to synthesize the available evidence comparing these two valve types in this high-risk population. We conducted a systematic review and meta-analysis of observational studies comparing SEVs and balloon-expandable valves in patients with LVEF <40% undergoing transcatheter aortic valve replacement. Outcomes included changes in LVEF, aortic gradients, mortality, and safety endpoints. Pooled estimates were calculated using random-effects models, and multivariable meta-regression was performed to adjust for study-level confounding. Five studies comprising 5365 patients were included. SEVs were associated with a greater improvement in 1-month LVEF (mean difference, 2.33; 95% confidence interval [CI], 0.83 to 3.83; ",
+        "source": "PubMed",
+        "doi": "10.1016/j.shj.2026.100843",
+        "keyword": "sEVs",
+        "title_ja": "左室駆出率低下患者における自己拡張型 vs バルーン拡張型経カテーテル大動脈弁の転帰：観察研究のメタ分析",
+        "summary_ja": "左室駆出率（LVEF）低下患者における経カテーテル大動脈弁置換術（TAVR）では、自己拡張型弁（SEV）とバルーン拡張型弁の最適選択は不明である。本研究はLVEF 40%未満の高リスク患者を対象に、両弁を比較した観察研究のメタ解析を実施した。5研究（計5365例）を解析し、ランダム効果モデルで統合推定値を算出、多変量メタ回帰で交絡を調整した。結果、SEVは1カ月後のLVEF改善が有意に大きかった（平均差2.33、95%信頼区間0.83～3.83）。死亡率や安全指標に有意差は認められなかった。SEVはLVEF低下患者において早期の左室機能改善に優れる可能性が示唆された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Viral dsRNA triggers human fetal membrane miR-146a-3p to be packaged into small extracellular vesicles which in turn drives inflammation through activation of Toll-like Receptor 7 and 8.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42189811/",
+        "abstract": "Maternal infection and chorioamnionitis are one of the leading causes of preterm birth and neonatal morbidity. The relationship and mechanisms linking bacterial infections and preterm labor are well researched, however, less is known about the mechanisms involved in how viral infections contribute to preterm labor. Previous work from our group demonstrated that following bacterial triggers, fetal membranes (FMs) express elevated miR-146a-3p which in turn acts as an intermediate danger signal by activating TLR8 to induce a robust inflammatory response. Using an established FM explant model system, the role of this and other TLR7/8-activating miRs in the propagation of viral-induced inflammation was investigated. Following exposure to the viral dsRNA mimic and TLR3 agonist, Poly(I:C), expression of FM tissue TLR7/8-activating miRs (miR-146a-3p, miR-21a, miR-29a, and Let7b) were not elevated. Despite this, in response to Poly(I:C), elevated FM secretion of pro-inflammatory IL-6 and IL-8, and IL-1β was TLR7- and TLR8-dependent. To investigate alternative methods of miR delivery, small extracellular vesicles (sEVs) from FM supernatants were isolated and found to contain elevated levels of miR-146a-3p and miR-21a under Poly(I:C) conditions. Furthermore, Poly(I:C)-induced IL-6 and IL-8 responses were reduced in the presence of an inhibitor of sEV biogenesis/release, and IL-6 and IL-1β production was reduced in the presence of a miR-146a-3p inhibitor. Together, these data suggests that sEVs produced from virally-stimulated human FMs contain and deliver elevated miR-146a-3p which acts as a danger signal to drive perpetuate inflammation via TLR7 and TLR8 activation. This work demonstrates a novel and important role for sEV packaged TLR7/8 activating-miR-146a-3p in FM inflammatory responses to viral infections.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.pone.0350139",
+        "keyword": "sEVs",
+        "title_ja": "ウイルス由来の二本鎖RNAがヒト胎児膜のmiR-146a-3pを誘導し、小型細胞外小胞に内包されることで、Toll様受容体7および8の活性化を介して炎症を引き起こす。",
+        "summary_ja": "ウイルス感染と早産の関連を探る研究。細菌感染と早産の関係はよく研究されているが、ウイルス感染のメカニズムは不明である。本研究では、胎児膜（FM）の炎症応答におけるmiR-146a-3pの役割を調査した。ウイルスdsRNA模倣薬Poly(I:C)で刺激したFMでは、組織内のTLR7/8活性化miR（miR-146a-3pなど）の発現上昇は見られなかったが、炎症性サイトカイン（IL-6、IL-8、IL-1β）の分泌がTLR7およびTLR8依存的に増加した。一方、FM上清から単離した小型細胞外小胞（sEV）には、Poly(I:C)刺激下でmiR-146a-3pとmiR-21aが高レベルで含まれていた。sEV生合成/放出阻害剤によりIL-6とIL-8応答が低下し、miR-146a-3p阻害剤によりIL-6とIL-1β産生が減少した。これらの結果は、ウイルス刺激FM由来のsEVがmiR-146a-3"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めて合計500文字以内でまとめます。\n\n---\n\n**1. iPSC由来NK細胞のがん免疫療法**  \niPS細胞から均一で大量生産可能なNK細胞を創製する技術は、オフ・ザ・シェルフ型細胞療法の実現に貢献する。遺伝子編集との親和性も高く、固形がんへの応用が期待される。今後の課題は製造コスト削減と長期安全性の検証である。\n\n**2. エクソソーム搭載ナノ放射線増感剤**  \n放射線治療後の再発抑制を目的とし、エクソソームの生体適合性と腫瘍指向性を活用したナノ粒子が注目される。免疫調節能を併せ持つため、放射線免疫療法との相乗効果が期待される。臨床応用には大量製造と品質管理の標準化が必要。\n\n**3. 腸脳軸とエクソソーム**  \n神経変性疾患において、腸内環境由来エクソソームが脳へシグナルを伝達する機構が解明されつつある。miRNAや代謝物を介した病態制御は、新規バイオマーカーや治療標的として有望。今後のヒト試験での検証が鍵となる。\n\n**4. 硫黄アミノ酸と抗腫瘍免疫**  \n大腸がんにおいて、食事由来の硫黄アミノ酸がNKT細胞–XCL1–cDC1回路を介して免疫チェックポイント阻害剤の効果を増強する可能性が示された。栄養介入による免疫療法の個別最適化という新たな戦略を提供する。\n\n**5. 喘息におけるsEVを介したミトコンドリア伝達**  \n喘息患者の気道で、small extracellular vesiclesがミトコンドリアをCD4+ T細胞に伝達し、T細胞機能を再プログラムする機構が明らかになった。細胞間代謝制御という新たな病態理解と治療標的を示す。"
+}

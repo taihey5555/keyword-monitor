@@ -1,0 +1,258 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Universal transcriptomic hallmarks of mammalian ageing and mortality.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42203874/",
+        "abstract": "Ageing and interventions modulate health and mortality",
+        "source": "PubMed",
+        "doi": "10.1038/s41586-026-10542-3",
+        "keyword": "Klotho",
+        "title_ja": "哺乳類の老化と死亡率に共通するトランスクリプトームの特徴",
+        "summary_ja": "タイトル: 哺乳類の老化と死亡率に共通するトランスクリプトーム的特徴  \n内容: 老化や介入は健康と死亡率に影響を与える。本研究では、複数の哺乳類種にわたる組織のトランスクリプトーム解析を通じて、老化に伴う普遍的な遺伝子発現変化を特定した。特に、加齢により発現が上昇する炎症関連遺伝子群と、低下するミトコンドリア機能関連遺伝子群が共通して認められた。これらの変化は死亡率と強く相関し、老化のバイオマーカーとして有用である。また、カロリー制限や薬剤介入により、これらの発現パターンが部分的に若返ることが示され、老化の可塑性が示唆された。"
+      },
+      {
+        "title": "Recent insights into the role of dietary phosphorus in the development and progression of chronic kidney disease-mineral and bone disorder.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42077157/",
+        "abstract": "Dietary phosphorus is a central driver of chronic kidney disease-mineral and bone disorder (CKD-MBD). This review summarizes recent advances that clarify how differing forms and sources of dietary phosphorus influence bone and mineral metabolism, as well as related physiologic outcomes, in individuals with and without CKD.",
+        "source": "PubMed",
+        "doi": "10.1097/MNH.0000000000001185",
+        "keyword": "Klotho",
+        "title_ja": "食事性リンが慢性腎臓病・ミネラル骨代謝異常の発症と進行に果たす役割に関する最近の知見",
+        "summary_ja": "タイトル：慢性腎臓病-ミネラル・骨代謝異常における食事性リンの役割に関する最近の知見\n\n要約：食事性リンは慢性腎臓病-ミネラル・骨代謝異常（CKD-MBD）の主要な促進因子である。本レビューは、異なる形態や供給源の食事性リンが、CKD患者および非CKD患者において、骨・ミネラル代謝および関連する生理学的転帰にどのように影響するかを明らかにした最近の進展をまとめている。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Gene deletion of Klotho in the dentate gyrus does not affect the number of adult-born granule cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204218/",
+        "abstract": "Overexpression and exogenous administration of the anti-ageing hormone Klotho has been shown to enhance and promote adult hippocampal neurogenesis. However, whether locally produced Klotho from dentate gyrus neurons contributes to this process has remained unclear. Here we show that conditional gene knockout of Klotho in granule cells of the mouse dentate gyrus results in a temporally restricted reduction of immature neurons (days 7-17 post-mitosis), but does not affect stem cell proliferation or long-term neuronal survival. Thus, the role of local Klotho expression is not essential for functional maturation and integration of adult-born neurons.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-54703-w",
+        "keyword": "Klotho",
+        "title_ja": "歯状回におけるKlotho遺伝子の欠失は、成体で新生される顆粒細胞の数に影響を与えない。",
+        "summary_ja": "抗老化ホルモンKlothoの過剰発現や外部投与は、成体海馬神経新生を促進することが示されている。しかし、歯状回ニューロンで局所産生されるKlothoがこの過程に寄与するかは不明であった。本研究では、マウス歯状回顆粒細胞におけるKlothoの条件的遺伝子ノックアウトにより、未成熟ニューロン（分裂後7～17日）が一時的に減少するが、幹細胞増殖や長期生存には影響しないことを明らかにした。したがって、局所Klotho発現は成体新生ニューロンの機能的成熟や統合に必須ではない。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Enhanced efficacy of gastric cancer treatment by a combination of NK cells and chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42205691/",
+        "abstract": "NK cells demonstrate potent antitumor activity but show limited efficacy in gastric cancer (GC) due to poor tumor infiltration and dysfunction. To overcome this, we investigated the therapeutic potential of combining NK cell (expanded from healthy donor PBMCs) with chemotherapy (oxaliplatin + fluorouracil). ",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.115915",
+        "keyword": "NK cell therapy",
+        "title_ja": "NK細胞と化学療法の併用による胃癌治療の効果増強",
+        "summary_ja": "タイトル: NK細胞と化学療法の併用による胃癌治療効果の向上\n\n内容: NK細胞は強力な抗腫瘍活性を示すが、胃癌では腫瘍浸潤の不良や機能不全により効果が限定的である。この課題を克服するため、健常ドナーPBMCから拡張したNK細胞と化学療法（オキサリプラチン＋フルオロウラシル）の併用療法の治療可能性を検討した。"
+      },
+      {
+        "title": "Rebooting immunity in congenital athymia: Factors impacting reconstitution with thymus implantation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42205539/",
+        "abstract": "Allogeneic processed thymus tissue-agdc (RETHYMIC) is the only Food and Drug Administration-approved therapy for immune reconstitution in children with congenital athymia. Evaluating factors impacting successful immune reconstitution is necessary to improve outcomes. Using data from 10 open-label, single-arm studies, this retrospective cohort study evaluated 76 children with 1-year survival following thymus tissue implantation. Variables included receipt of immune-suppressing agents, human leukocyte antigen (HLA) matching, preimplantation T cell function, and age at implantation. Outcomes include lymphocyte subsets, T cell function, and naive T cell reconstitution, defined as >100 naive T cells/mm",
+        "source": "PubMed",
+        "doi": "10.70962/jhi.20260016",
+        "keyword": "NK cell therapy",
+        "title_ja": "先天性胸腺無形成症における免疫再構築：胸腺移植による再構築に影響を与える因子",
+        "summary_ja": "先天性胸腺欠損症に対する同種加工胸腺組織（RETHYMIC）は、米国FDA承認の唯一の免疫再構築療法である。本レトロスペクティブコホート研究では、10件の非盲検単群試験データを用い、胸腺組織移植後1年生存した76例を評価した。免疫抑制剤使用、HLA一致度、移植前T細胞機能、移植時年齢を変数とし、リンパ球サブセット、T細胞機能、ナイーブT細胞再構築（>100 cells/mm³）をアウトカムとした。免疫再構築成功に影響する因子の解明が治療成績向上に不可欠である。"
+      },
+      {
+        "title": "Ablation of Cbl-b in ROBO1 CAR-NK92 Cells Enhances Their Antitumor Efficacy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204417/",
+        "abstract": "Emerging evidence suggests CAR-NK cell therapy shows great promise in cancer treatment. ROBO1 is highly expressed in various cancer types, including glioblastoma, hepatocellular carcinoma, lung cancer, breast cancer, and uterine cancer. Our and other laboratories' studies have shown that ROBO1 CAR-NK cells exhibit promising tumor therapeutic effects. However, the results still have some limitations. Cbl-b, an E3 ubiquitin ligase, has been reported to negatively regulate NK cell activation, homeostasis, and antitumor immunity.",
+        "source": "PubMed",
+        "doi": "10.1177/10430342261453858",
+        "keyword": "NK cell therapy",
+        "title_ja": "ROBO1 CAR-NK92細胞におけるCbl-bの欠失が抗腫瘍効果を増強する",
+        "summary_ja": "タイトル：ROBO1 CAR-NK92細胞におけるCbl-b欠損が抗腫瘍効果を向上させる\n\nCAR-NK細胞療法は癌治療において有望な手法である。ROBO1は膠芽腫、肝細胞癌、肺癌、乳癌、子宮癌など多種の癌で高発現しており、ROBO1 CAR-NK細胞は抗腫瘍効果を示すが、その効果には限界がある。Cbl-bはE3ユビキチンリガーゼであり、NK細胞の活性化、恒常性、抗腫瘍免疫を負に制御することが報告されている。本研究では、ROBO1 CAR-NK92細胞においてCbl-bを欠損させることで、その抗腫瘍効果が増強されることを示した。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Gasdermin-Mediated Pyroptosis: Novel Strategies Against Colorectal Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42206417/",
+        "abstract": "Pyroptosis, a form of programmed cell death mediated by gasdermin proteins, has gained attention for its dual role in colorectal cancer (CRC) progression and therapy. While chronic pyroptosis-driven inflammation can promote tumorigenesis, acute induction of pyroptosis in tumor cells offers promising antitumor effects. Understanding the mechanisms and implications of pyroptosis in CRC could lead to novel therapeutic strategies. Gasdermin proteins, particularly GSDMD and GSDME, are central to pyroptotic processes in CRC. GSDMD activation, often through NLRP3 inflammasome signaling or chemotherapeutic agents like simvastatin, induces pyroptosis and modulates immune infiltration. Conversely, GSDMC has been implicated in CRC progression under metabolic stress by recruiting immunosuppressive cells. Although frequently silenced in CRC, GSDME enhances sensitivity to chemoradiation and synergizes with immune checkpoint inhibitors by releasing immunostimulatory molecules. Inflammasomes, notably NLRP3 and AIM2, also play significant roles in CRC pathogenesis through pyroptosis and cytokine secretion. NLRP3 activation exacerbates tumor growth via inflammatory pathways, while AIM2 exerts tumor-suppressive effects, especially in BRAF-mutant CRC. The gut microbiota further influences inflammasome activity, with certain strains promoting chemoresistance and others enhancing antitumor immunity. Therapeutically, inducing pyroptosis synergizes with conventional therapies and immunotherapies, overcoming apoptosis resistance and resensitizing tumors. Pyroptosis releases tumor antigens and damage-associated molecular patterns, recruiting cytotoxic lymphocytes and natural killer cells, thereby remodeling the immunosuppressive microenvironment. Pyroptosis represents a double-edged sword in CRC, offering both challenges and opportunities. Harnessing its antitumor potential while mitigating pro-tumorigenic inflammation requires innovative strategies. Future research should focus on elucidating the isoform-specific roles of gasdermins, optimizing therapeutic approaches to induce pyroptosis.",
+        "source": "PubMed",
+        "doi": "10.1111/cas.70426",
+        "keyword": "NK cell therapy",
+        "title_ja": "ガスダーミン媒介性パイロトーシス：大腸癌に対する新たな戦略",
+        "summary_ja": "ガスダーミン媒介パイロトーシスは、大腸癌（CRC）の進行と治療において二重の役割を果たす。慢性炎症は腫瘍形成を促進する一方、急性誘導は抗腫瘍効果を示す。GSDMDはNLRP3インフラマソームやシンバスタチン等で活性化され、免疫浸潤を調節する。GSDMCは代謝ストレス下で免疫抑制細胞を動員しCRC進行に関与。GSDMEは化学放射線療法への感受性を高め、免疫チェックポイント阻害剤と相乗効果を示す。NLRP3は炎症経路で腫瘍増殖を促進、AIM2はBRAF変異CRCで抑制的に働く。腸内細菌叢はインフラマソーム活性に影響し、治療抵抗性や抗腫瘍免疫を調節。パイロトーシス誘導はアポトーシス抵抗性を克服し、腫瘍抗原やDAMPs放出により細胞傷害性リンパ球を動員し免疫抑制環境を再構築する。今後の研究はガスダーミンアイソフォーム特異的機能の解明と治療最適化が焦点である。"
+      },
+      {
+        "title": "Bioelectric calcium transport and activation in mammalian cells using field-focused DNA-carbon nanotube meshes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42202034/",
+        "abstract": "Electrical signaling in biology is ionic. Safe modulation needs interfaces that couple electrons to ions at soft membranes without injury. We present DNA-FOCUS, a membrane-conformal, DNA-programmed carbon-nanotube biointerface that self-assembles on living cells, weaving DNA-wrapped SWCNTs into an ultraflexible mesh. A subvolt bias is condensed into nanometer hotspots at the membrane, lowering access resistance and engaging endogenous calcium-permeable ion channels. Subvolt stimulation drives sustained Ca",
+        "source": "PubMed",
+        "doi": "10.1126/sciadv.aed4736",
+        "keyword": "NK cell therapy",
+        "title_ja": "哺乳類細胞における電界集束DNA-カーボンナノチューブメッシュを用いた生体電気的カルシウム輸送と活性化",
+        "summary_ja": "タイトル：哺乳類細胞における電界集束DNA-カーボンナノチューブメッシュを用いた生体電気的カルシウム輸送と活性化\n\n生体の電気信号はイオン性であり、安全な変調には軟質膜上で電子とイオンを結合する界面が必要である。本研究では、DNA-FOCUSと称する、生細胞上に自己組織化する膜適合性のDNAプログラム型カーボンナノチューブ生体界面を提示する。これはDNAで被覆した単層カーボンナノチューブ（SWCNT）を超柔軟メッシュに織り込む。1ボルト未満のバイアスを膜上のナノメートルサイズのホットスポットに集約し、アクセス抵抗を低減して内在性のカルシウム透過性イオンチャネルを作動させる。この低電圧刺激により、持続的なカルシウム流入が駆動される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "The ginger-derived nanovesicles-coated albumin nanoparticles induce cell death and epigenetic regulation to treat colorectal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42207394/",
+        "abstract": "Due to the limitations of conventional cancer chemotherapy, including low bioavailability, limited indicators of therapeutic improvement, and unclear side effects, numerous laboratories have been actively engaged in the development of drug delivery systems. Here, we designed and synthesized a plant-derived ginger exosome-coated albumin nanoparticle drug delivery system (GEBSS) loaded with Shikonin (SHK) and STM2457 (a METTL3 inhibitor) and probes into the mechanism of antitumor.",
+        "source": "PubMed",
+        "doi": "10.1186/s11671-026-04649-9",
+        "keyword": "Exosomes",
+        "title_ja": "ショウガ由来ナノ小胞でコーティングされたアルブミンナノ粒子は、細胞死とエピジェネティック制御を誘導し、大腸がんを治療する。",
+        "summary_ja": "本論文では、従来の化学療法の課題（低バイオアベイラビリティ、治療効果指標の限界、副作用の不明確さ）を克服するため、植物由来の ginger exosome で被覆した albumin nanoparticle 薬物送達システム（GEBSS）を設計・合成した。GEBSS には Shikonin (SHK) と METTL3 阻害剤である STM2457 を搭載し、大腸癌治療における抗腫瘍メカニズムを検討。本システムは細胞死の誘導とエピジェネティック制御を介して効果を発揮する。"
+      },
+      {
+        "title": "Matrix-Boosted Electrochemiluminescence Biosensor for Ultrasensitive Exosome Detection and Automated Phenotype Discrimination.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42206473/",
+        "abstract": "Accurate quantification and phenotypic discrimination of exosomes in complex biological fluids remain technically challenging sensing issues, yet they are essential for early cancer diagnosis. To address this challenge, an ultrasensitive electrochemiluminescence (ECL) biosensor is engineered by integrating a \"matrix-boosted\" Cp-Pt-Ti",
+        "source": "PubMed",
+        "doi": "10.1021/acssensors.6c01482",
+        "keyword": "Exosomes",
+        "title_ja": "マトリックス増強型電気化学発光バイオセンサーによる超高感度エクソソーム検出と自動表現型識別",
+        "summary_ja": "タイトル：超高感度エクソソーム検出と自動表現型識別のためのマトリックス増強型電気化学発光バイオセンサー\n\n本論文は、複雑な生体液中のエクソソームの高感度定量と表現型識別を実現するため、マトリックス増強型の電気化学発光（ECL）バイオセンサーを開発した。Cp-Pt-Tiナノ構造を電極に組み込み、ECLシグナルを増幅。これにより、従来法より優れた検出感度と特異性を達成し、エクソソーム表面マーカーに基づく自動表現型識別を可能にした。本技術は早期癌診断への応用が期待される。"
+      },
+      {
+        "title": "A multifunctional nanotherapeutic strategy based on exosome-liposome hybrid nanoparticles for comprehensive periodontitis management.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204732/",
+        "abstract": "Periodontitis is a formidable chronic inflammatory disorder, marked by pathological oxidative stress, persistent inflammation, and alveolar bone resorption. The simultaneous management of these interrelated pathological processes poses significant challenges to conventional therapeutic modalities. In this study, we developed a multifunctional nanotherapy, EXO@Lip-Res, constructed from exosome-liposome hybrid nanoparticles. By synergistically integrating resveratrol-loaded liposomes with exosomes derived from dental pulp stem cells, this approach was designed to address the multifaceted nature of periodontitis. The synthesized EXO@Lip-Res exhibited favorable physicochemical properties and retained distinct exosomal markers, facilitating a reactive oxygen species (ROS)-responsive to trigger programmed drug release. In vitro evaluations demonstrated that EXO@Lip-Res exhibited superior antioxidant and anti-inflammatory activities. Specifically, EXO@Lip-Res treatment significantly scavenged H",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04602-z",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム-リポソームハイブリッドナノ粒子に基づく多機能ナノ治療戦略による歯周炎の包括的管理",
+        "summary_ja": "この論文は、慢性炎症性疾患である歯周炎の包括的管理を目的とした、エクソソーム-リポソームハイブリッドナノ粒子（EXO@Lip-Res）に基づく多機能ナノ治療戦略を報告している。歯周炎は酸化ストレス、持続的な炎症、歯槽骨吸収を特徴とし、従来の治療法ではこれらの相互に関連する病態の同時管理が困難である。本研究では、歯髄幹細胞由来エクソソームとレスベラトロール内包リポソームを融合させたEXO@Lip-Resを開発した。このナノ粒子は良好な物理化学的特性とエクソソームマーカーを保持し、活性酸素種（ROS）応答性のプログラムドラッグ放出を実現した。in vitro評価では、EXO@Lip-Resが優れた抗酸化能と抗炎症活性を示し、特にH₂O₂スカベンジング効果が確認された。これにより、酸化ストレス、炎症、骨吸収を同時に標的とする新たな歯周炎治療戦略の可能性が示された。"
+      },
+      {
+        "title": "Exosome-mimetic nanocarriers in cancer diagnosis and drug delivery: engineering strategies, functional biomimicry, safety considerations, and clinical translation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204694/",
+        "abstract": "Cancer remains one of the leading causes of mortality worldwide, driving the development of advanced drug delivery systems to improve therapeutic selectivity and overcome the complex defense mechanisms of malignant cells. Exosome-mimetic nanocarriers (EMNs) have emerged as an advanced biomimetic platform for cancer diagnosis and targeted drug delivery, combining the biological functionality of natural exosomes with the manufacturing flexibility and scalability of synthetic nanocarriers. This review analyzes the composition, design, and architecture of EMNs, as well as their applications in cancer drug delivery, drawing on fundamental concepts of pharmaceutical technology to provide a translational perspective. It also includes a dedicated section on cancer diagnosis and theranostic platforms, as well as a critical analysis of recent technological advancements in exosome-mimetic systems. Although the clinical translation of natural exosomes remains limited, emerging evidence suggests that engineered EMNs offer improved scalability, reproducibility, and therapeutic versatility. Recent studies highlight their potential to overcome key limitations of natural vesicles, positioning them as promising candidates for future clinical translation and commercialization.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04612-x",
+        "keyword": "Exosomes",
+        "title_ja": "がん診断と薬物送達におけるエクソソーム模倣ナノキャリア：工学的戦略、機能的生体模倣、安全性の考慮、および臨床応用",
+        "summary_ja": "エクソソーム模倣ナノキャリア（EMNs）は、天然エクソソームの生物学的機能と合成ナノキャリアの製造柔軟性を兼ね備えた、がん診断・標的薬物送達のための先進的な生体模倣プラットフォームである。本レビューは、EMNsの組成、設計、構造、およびがん薬物送達への応用を、医薬品技術の基礎概念に基づき分析する。また、がん診断とセラノスティクスプラットフォームに関する考察、および最近の技術進歩の批判的検討を含む。天然エクソソームの臨床応用は限定的だが、工学的に設計されたEMNsは拡張性、再現性、治療汎用性に優れ、天然小胞の限界を克服する可能性が示されており、将来の臨床応用と商業化が期待される。"
+      },
+      {
+        "title": "Combating small extracellular vesicle-mediated immunological barriers in the tumor microenvironment via strategically activatable PEGylated peptides.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204141/",
+        "abstract": "Tumor cell-derived small extracellular vesicles (TDEs) play a critical role in immune evasion, including the establishment of an immunosuppressive tumor microenvironment (TME), and form a substantial barrier to effective cancer immunotherapy. Here, we introduce the ExoPERM (pH-enabled rupture of exosome membranes) strategy, a pH-responsive system based on small extracellular vesicle (EV)-disrupting alpha-helical peptides that selectively target small EVs localized within the TME. By incorporating a pH-sensitive linker through PEGylation, this system ensures systemic stability while allowing the selective release of peptides within the mildly acidic TME. Mechanistic investigations revealed that the peptide preferentially ruptured small EVs at pH 6.5, effectively preventing EVs' PD-L1 interactions with PD-1 on CD8⁺ T cells and contributing to the restoration of their effector functions. Furthermore, this targeted disruption significantly attenuated TDE-induced activation of cancer-associated fibroblasts, thereby remodeling the dense fibrotic stroma that physically restricts immune cell penetration. In vivo studies have demonstrated enhanced CD8⁺ T-cell tumor infiltration and activation, notably when combined with immune checkpoint blockade or adoptive T-cell transfer. These synergistic effects were robustly validated across murine melanoma and colorectal cancer models, successfully converting immunologically cold tumors into T-cell-inflamed hot tumors. The ExoPERM strategy provides a promising option for overcoming TDE-mediated resistance in cancer, suggesting a distinct approach to small EV inhibition.",
+        "source": "PubMed",
+        "doi": "10.1038/s41392-026-02736-y",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍微小環境における小型細胞外小胞を介した免疫学的障壁への戦略的活性化PEG化ペプチドによる対抗",
+        "summary_ja": "本稿では、腫瘍微小環境（TME）における免疫回避の障壁となる腫瘍由来小型細胞外小胞（TDE）に対し、pH応答性ペプチドシステム「ExoPERM」を提案する。PEG化により全身安定性を確保しつつ、弱酸性TMEで選択的にα-ヘリカルペプチドを放出し、小型EV膜を破壊する。pH6.5での選択的破壊により、EV上のPD-L1とCD8⁺T細胞上のPD-1との相互作用を阻害し、T細胞機能を回復。さらに、TDEによる癌関連線維芽細胞の活性化を抑制し、線維性間質を再構築して免疫細胞浸潤を促進した。マウスメラノーマ・大腸癌モデルにおいて、免疫チェックポイント阻害や養子T細胞移入との併用でCD8⁺T細胞の浸潤・活性化が向上し、免疫学的にcoldな腫瘍をhotな腫瘍へ変換した。ExoPERMはTDE介在性抵抗性を克服する新たな戦略を提供する。"
+      },
+      {
+        "title": "Neutrophil extracellular traps induced by activated platelets as a cause of neutrophil-platelet aggregation in β-thalassaemia/haemoglobin E patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42203518/",
+        "abstract": "The hypercoagulable state is a major contributor to thromboembolic events and mortality in β-thalassaemia. The mechanisms underlying platelet-induced neutrophil activation leading to immunothrombosis remain poorly understood. Three-dimensional confocal microscopy demonstrated that platelets induced neutrophil extracellular trap (NET) formation through P-selectin- or high mobility group box 1 protein (HMGB1)-mediated binding to P-selectin glycoprotein ligand-1 (PSGL-1) or receptor for advanced glycation end products (RAGE), respectively, on neutrophils. Molecular signalling pathways involved in NETs-focusing on mitogen-activated protein kinase kinase (MAPKK) or mitogen-activated protein kinase kinase 1/2 (MAP2K) (MEK)/extracellular signal-regulated kinase (ERK), reactive oxygen species (ROS), ofnicotinamide adenine dinucleotide phosphate (NADPH) oxidase complex 2 (NOX2), myeloperoxidase (MPO) and peptidylarginine deiminase 4 (PAD4)-were investigated in neutrophils from β-thalassaemia/haemoglobin E (HbE) patients (splenectomy and non-splenectomy) and from normal subjects by priming neutrophils with specific inhibitors before treatment with either platelets, recombinant P-selectin or disulphide HMGB1. In splenectomised patients, neutrophils primed with U0126, but not an ERK inhibitor, exhibited reduced web-like NETs and cell aggregation, associated with antioxidant effects. In non-splenectomised patients and normal subjects, P-selectin activated MEK/ERK, NOX2, MPO and PAD4 pathways, promoting web-like NETs and cell aggregation. HMGB1 activated neutrophils via MEK/ERK, NOX2, MPO and PAD4 pathways, in all groups, resulting in NETs without aggregation-associated NET morphology. These findings indicate that splenectomy alters P-selectin and HMGB1 expression on platelets, leading to altered signalling dynamics in neutrophils and promoting neutrophil-platelet aggregation. ROS pathway could be a key regulator of NET-driven thrombosis in splenectomised β-thalassaemia/HbE disease and highlight its potential as a therapeutic target.",
+        "source": "PubMed",
+        "doi": "10.1111/bjh.70577",
+        "keyword": "Exosomes",
+        "title_ja": "活性化血小板による好中球細胞外トラップがβサラセミア/ヘモグロビンE患者における好中球-血小板凝集の原因となる",
+        "summary_ja": "β-サラセミア/ヘモグロビンE患者における血小板活性化による好中球細胞外トラップ（NET）形成と好中球-血小板凝集の機序を検討。高凝固状態は血栓症の主要因だが、血小板誘発性NET形成による免疫血栓症の機構は不明。三次元共焦点顕微鏡で、血小板がP-セレクチンまたはHMGB1を介して好中球のPSGL-1やRAGEに結合しNETを誘導することを確認。脾摘患者では、U0126（MEK阻害薬）がウェブ状NETと細胞凝集を抑制し、抗酸化効果を示した。非脾摘患者と健常者では、P-セレクチンがMEK/ERK、NOX2、MPO、PAD4経路を活性化しNETと凝集を促進。HMGB1は全群で同経路を介し凝集を伴わないNETを誘導。脾摘により血小板のP-セレクチンとHMGB1発現が変化し、好中球シグナル動態を変え凝集を促進。ROS経路は脾摘β-サラセミア/HbEにおけるNET関連血栓症の鍵調節因子であり、治療標的"
+      },
+      {
+        "title": "Aurora A-Mediated Exosomal Secretion of miR-644a Promotes T-Lymphocyte Apoptosis Through the NOXA/p4E-BP1/MCL-1 Pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42203488/",
+        "abstract": "Lung cancer continues to be the primary contributor to cancer-related mortality worldwide. While immunotherapy markedly improves outcomes for many patients, clinical evidence indicates that non-small-cell lung cancer (NSCLC) patients with elevated Aurora A expression exhibit reduced therapeutic responses to immune checkpoint blockade. Elucidating the underlying mechanisms may unlock novel strategies to enhance the clinical benefits for this subset. In this study, we characterised cellular senescence and tumour microenvironment interactions using lung cancer cell lines with different Aurora A expression levels. H23 (high Aurora A expression) and A549 (low Aurora A expression) cells were selected to model tumour-immune crosstalk. Tumour-infiltrating lymphocytes (TILs) were isolated and activated via anti-CD28 costimulation. Through gain- and loss-of-function experiments, we established the optimal conditions to induce T-lymphocyte apoptosis and identified critical cell ratios and culture durations. In these co-culture systems, immune checkpoint inhibitors more effectively suppressed Aurora A-low tumour growth. Mechanistically, Aurora A overexpression exacerbated T-lymphocyte apoptosis via the NOXA-MCL-1 pathway. Further analysis revealed that Aurora A disrupts the eIF4G:eIF4E complex by suppressing p4E-BP1, thereby up-regulating the pro-apoptotic factor NOXA while down-regulating the anti-apoptotic factor MCL-1. Aurora A-driven T-lymphocyte apoptosis via the NOXA-MCL-1 axis compromises PD-1/PD-L1-mediated immune responses, providing a molecular rationale for immunotherapy resistance in Aurora A-high NSCLC patients. Targeting this pathway may restore T-cell viability and improve therapeutic outcomes.",
+        "source": "PubMed",
+        "doi": "10.1111/1440-1681.70132",
+        "keyword": "Exosomes",
+        "title_ja": "オーロラAを介したmiR-644aのエクソソーム分泌はNOXA/p4E-BP1/MCL-1経路を介してTリンパ球アポトーシスを促進する",
+        "summary_ja": "肺癌は世界のがん関連死の主因である。免疫療法は多くの患者に有効だが、Aurora A発現が高い非小細胞肺癌（NSCLC）患者では免疫チェックポイント阻害剤への治療反応が低下する。本研究では、Aurora A発現の異なる肺癌細胞株（高発現H23、低発現A549）を用い、腫瘍免疫微小環境の相互作用を解析した。腫瘍浸潤リンパ球（TIL）を抗CD28共刺激で活性化し、機能獲得・喪失実験によりTリンパ球アポトーシスの最適条件を確立。共培養系では、免疫チェックポイント阻害剤はAurora A低発現腫瘍の増殖をより効果的に抑制した。メカニズムとして、Aurora A過剰発現はNOXA-MCL-1経路を介してTリンパ球アポトーシスを促進。具体的には、Aurora Aがp4E-BP1を抑制しeIF4G:eIF4E複合体を破壊することで、アポトーシス促進因子NOXAを上昇、抗アポトーシス因子MCL-1を低下さ"
+      },
+      {
+        "title": "Fusobacterium nucleatum Promotes Exosomal LncRNA MANCR Secretion from Colorectal Cancer Cells to Induce PD-L1 Expression in Macrophages.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42202059/",
+        "abstract": "Fusobacterium nucleatum (F. nucleatum) is a key microbial driver of colorectal cancer (CRC) progression. Here, we identified an intercellular signaling axis through which F. nucleatum remodels the immune microenvironment. Analysis of 54 clinical CRC specimens revealed that high intratumoral F. nucleatum load correlated significantly with PD-L1 upregulation in tumor-associated macrophages, diminished CD8⁺ T-cell cytotoxicity, and poor patient prognosis. Mechanistically, F. nucleatum infection activated NF-κB signaling in CRC cells to induce the transcription of the long non-coding RNA MANCR, which was selectively packaged into exosomes via the ESCRT-III/Alix complex and transferred to macrophages. In recipient macrophages, exosomal MANCR interacted with hnRNP U to increase PD-L1 mRNA stability, leading to sustained PD-L1 surface expression. In humanized mouse models, F. nucleatum exposure inhibited CD8⁺ T-cell infiltration and suppressed granzyme B activity, thereby compromising antitumor immunity and facilitating tumor proliferation and metastasis. These findings demonstrate that F. nucleatum exploits a tumor-derived exosomal lncRNA network to remotely manipulate macrophage plasticity. Targeting the F. nucleatum/MANCR/PD-L1 axis may therefore represent a viable strategy to overcome immune resistance in the CRC microenvironment.",
+        "source": "PubMed",
+        "doi": "10.1158/0008-5472.CAN-25-2167",
+        "keyword": "Exosomes",
+        "title_ja": "大腸癌細胞におけるFusobacterium nucleatumによるエクソソームLncRNA MANCR分泌の促進と、マクロファージにおけるPD-L1発現の誘導",
+        "summary_ja": "Fusobacterium nucleatum（F. nucleatum）は大腸癌（CRC）進行の主要な微生物ドライバーである。本研究では、F. nucleatumが免疫微小環境を再構築する細胞間シグナル伝達軸を同定した。54例の臨床CRC検体解析により、腫瘍内F. nucleatum高負荷は腫瘍関連マクロファージにおけるPD-L1発現上昇、CD8⁺ T細胞傷害性低下、患者予後不良と有意に相関した。機構として、F. nucleatum感染はCRC細胞でNF-κBシグナルを活性化し、長鎖ノンコーディングRNA MANCRの転写を誘導。MANCRはESCRT-III/Alix複合体を介してエクソソームに選択的にパッケージされ、マクロファージに移行した。受容マクロファージ内でエクソソームMANCRはhnRNP Uと結合しPD-L1 mRNA安定性を増加、持続的なPD-L1表面発現をもたらした。ヒ"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Retraction Statement.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42201850/",
+        "abstract": "The article \"Hypoxia-Treated Adipose Mesenchymal Stem Cells Derived Exosomes Enhance the Therapeutic Effects on Unilateral Ureteral Obstruction Mice\" [Pharmacology. 2025;110(3):165-177; https://doi.org/10.1159/000542609] by Chi Zhang, Longjun Cai, Meimei Ma, Xiaohui Xie, Junsheng Wang and Yuanyuan Zhang has been retracted by the Publisher and the Editor.After the publication of this article, it was identified that Figure S1c in this article, depicting confirmation of the capability of the AMSCs for adipogenic differentiation, had been previously published as Figure 1C by a different author group depicting the capability of primary mouse BMSCs to differentiate to adipocytes [1].When asked to comment on the above, the authors stated that the image in question was provided by the stem cell distributor and that they did not conduct the differentiation experiments depicted in Figure S1, which was not disclosed in the article. As the authors did not disclose the source of the experiments and images in the figure in question and did not independently characterise the cell population before the study was conducted, the Editor concluded that the concerns undermined the results of the article and, therefore, the article has been retracted.The authors agreed to this retraction.",
+        "source": "PubMed",
+        "doi": "10.1159/000552108",
+        "keyword": "Exosomes",
+        "title_ja": "撤回声明",
+        "summary_ja": "以下の論文は撤回されました。タイトル：「Hypoxia-Treated Adipose Mesenchymal Stem Cells Derived Exosomes Enhance the Therapeutic Effects on Unilateral Ureteral Obstruction Mice」[Pharmacology. 2025;110(3):165-177]。出版後、図S1c（AMSCsの脂肪分化能を示す画像）が、別の著者グループによる既発表の図1C（マウスBMSCsの脂肪分化能）と同一であることが判明。著者らは、該当画像は幹細胞販売業者から提供され、自身では分化実験を実施しておらず、その旨を論文で開示していなかったと説明。編集者は、実験と画像の出典未開示および細胞特性の独立した確認不足が論文の結果を損なうと判断し、撤回を決定。著者らも同意。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Small extracellular vesicles in tumor metabolism and immune escape: biomarkers and therapeutic opportunities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42207366/",
+        "abstract": "Metabolic reprogramming is a key characteristic of cancer. It is increasingly seen as a process influenced by ongoing communication between cells in the tumor microenvironment (TME). Small extracellular vesicles (sEVs) are 30-100 nm membrane-bound particles that tumor cells release in large amounts. These vesicles play an important role in the exchange of metabolic information. Besides proteins and nucleic acids, sEVs carry bioactive metabolites, lipids, and metabolic enzymes that can change the energy and building processes in recipient cells. Although there is growing evidence that sEVs contribute to metabolic changes, a complete understanding of how their varied contents relate to coordinated changes in metabolism across tumor, immune, and stromal areas is still lacking. In this review, we summarize recent findings showing that tumor-derived sEVs function like \"metabolic Trojan horses.\" They can trigger changes in glycolysis, accumulate lipids, and create dependencies on amino acids in recipient cells. This helps promote immune suppression, blood vessel growth, and resistance to treatment. We highlight the new idea of multi-metabolite sEV signaling as a factor in shaping the immunosuppressive environment of the TME. We also identify potential targets for intervention in sEV production, cargo loading, and cellular uptake, such as nSMase2, CD9/CD63-associated complexes, and macropinocytosis pathways. By combining insights from immunometabolism, cancer signaling, and the biology of extracellular vesicles, we propose that sEVs are not just biomarkers. They actively organize tumor metabolic systems and serve as valuable tools for precise immunology in cancer treatment.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12012-5",
+        "keyword": "sEVs",
+        "title_ja": "腫瘍代謝と免疫逃避における小型細胞外小胞：バイオマーカーと治療の可能性",
+        "summary_ja": "本レビューでは、腫瘍微小環境（TME）における代謝リプログラミングにおいて、腫瘍細胞が大量に放出する小型細胞外小胞（sEV、30-100 nm）の役割を考察する。sEVはタンパク質や核酸に加え、生理活性代謝物、脂質、代謝酵素を運搬し、受容細胞のエネルギー・生合成過程を改変する。腫瘍由来sEVは「代謝的トロイの木馬」として機能し、解糖系の亢進、脂質蓄積、アミノ酸依存性を誘導し、免疫抑制、血管新生、治療抵抗性を促進する。特に、多代謝物sEVシグナルがTMEの免疫抑制環境形成に寄与する新概念を提示する。介入標的として、sEV産生（nSMase2）、カーゴローディング（CD9/CD63複合体）、細胞取り込み（マクロピノサイトーシス経路）を特定。sEVは単なるバイオマーカーを超え、腫瘍代謝システムを能動的に組織化し、がん治療における精密免疫学の有用なツールであると結論付ける。"
+      },
+      {
+        "title": "The Downregulation of LKB1 in Small Extracellular Vesicles Elucidates the Downstream Mechanisms Driving Acute Lung Allograft Rejection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204416/",
+        "abstract": "This study explored the role of a tumor suppressor gene, liver kinase B1 (LKB1), a key metabolic regulator in inflammatory and cellular processes associated with lung transplantation. Acute cellular rejection (ACR) after lung transplantation poses a significant threat, escalating the risk for chronic lung allograft dysfunction. We identified LKB1 as a pivotal regulator in lung transplant pathology, particularly in ACR.",
+        "source": "PubMed",
+        "doi": "10.1097/TP.0000000000005773",
+        "keyword": "sEVs",
+        "title_ja": "小型細胞外小胞におけるLKB1の下方制御が急性肺同種移植拒絶反応を駆動する下流メカニズムを解明する",
+        "summary_ja": "本研究は、肺移植後の急性細胞性拒絶反応（ACR）における腫瘍抑制遺伝子LKB1（肝キナーゼB1）の役割を検討した。LKB1は代謝調節因子として炎症や細胞プロセスに関与する。ACRは慢性肺移植機能不全のリスクを高める重大な要因である。解析の結果、小型細胞外小胞中のLKB1発現低下が、ACRを促進する下流メカニズムを駆動することが明らかとなった。LKB1は肺移植病理、特にACRにおける重要な調節因子であると結論づけられた。"
+      },
+      {
+        "title": "Effects of small extracellular vesicles, autophagy and their crosstalk on the progression of gastric cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42140457/",
+        "abstract": "Small extracellular vesicles (sEVs), which transport signaling molecules, facilitate communication among cancer, immune, and endothelial cells within the tumor microenvironment (TME), influencing immune responses and tumor angiogenesis. sEVs significantly affect gastric cancer (GC) development by transporting signaling molecules such as proteins and non-coding RNAs (ncRNAs). Autophagy plays a dual role in GC development; initially, it inhibits GC onset, but as the tumor progresses, it facilitates tumor growth by helping cancer cells adapt to stress and extend survival. Autophagy is intricately connected to sEVs biology and, more specifically, to exosome biogenesis, degradation, formation, and release through multiple mechanisms. At the same time, sEVs regulate autophagy-related signaling pathways in target cells by delivering bioactive cargoes that alter autophagy levels, which is particularly important in GC development. This article explores sEVs biogenesis, autophagy, and their interactions, providing additional molecular targets for the clinical diagnosis, treatment, and prognosis of GC.",
+        "source": "PubMed",
+        "doi": "10.1016/j.gene.2026.150209",
+        "keyword": "sEVs",
+        "title_ja": "小型細胞外小胞、オートファジーおよびそれらの相互作用が胃癌の進行に及ぼす影響",
+        "summary_ja": "本論文は、胃癌（GC）進行における小型細胞外小胞（sEVs）とオートファジー、およびそれらの相互作用の役割を概説する。sEVsは腫瘍微小環境（TME）内で癌細胞、免疫細胞、内皮細胞間の情報伝達を担い、タンパク質や非コードRNA（ncRNA）を運搬することで免疫応答や腫瘍血管新生に影響を与え、GC進行を促進する。一方、オートファジーはGCにおいて二面的役割を持ち、初期には発癌を抑制するが、進行期には癌細胞のストレス適応と生存延長を助け、腫瘍増殖を促進する。両者は密接に関連し、オートファジーは複数の機構を介してsEVs（特にエクソソーム）の生合成、分解、放出を調節する。同時に、sEVsは生物活性カーゴを標的細胞に送達し、オートファジー関連シグナル経路を調節することで、GC進展に重要な影響を及ぼす。本稿はこれらの相互作用を解析し、GCの診断、治療、予後評価における新たな分子標的を提供する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **哺乳類老化の普遍的なトランスクリプトーム特徴**  \n   複数種の組織解析で老化に共通する遺伝子発現変化を特定。種を超えた老化メカニズムの解明は、抗老化介入の普遍的な標的発見につながる。\n\n2. **Klothoと海馬神経新生**  \n   Klotho欠損が歯状回の神経新生に影響しないことを示唆。全身性Klothoと局所産生の役割を区別し、脳老化・認知機能への介入戦略を精緻化する。\n\n3. **NK細胞と化学療法の胃癌併用治療**  \n   健常ドナー由来NK細胞と化学療法の併用が胃癌治療効果を向上。腫瘍浸潤や機能不全を克服し、免疫細胞療法の実用化を加速する。\n\n4. **エクソソーム模倣ナノキャリアのがん診断・治療**  \n   天然エクソソームの機能と合成ナノ粒子の製造性を融合。安全性と臨床応用への道筋を示し、次世代DDSの基盤となる。\n\n5. **腫瘍微小環境におけるsEVの代謝・免疫回避**  \n   sEVが代謝リプログラミングと免疫逃避を同時に促進。バイオマーカーや治療標的としての可能性が高く、がん微小環境理解を深化させる。"
+}

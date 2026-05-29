@@ -1,0 +1,195 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Immune network remodeling driven by ferroptosis: Bidirectional interaction mechanisms among multiple immune cells in the lung cancer immune microenvironment (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42212386/",
+        "abstract": "The efficacy of immunotherapy for lung cancer is largely constrained by the highly complex and dynamically evolving tumor immune microenvironment (TIME). Previous studies have mainly focused on single immune checkpoints or individual immune cell types, thus hindering the comprehensive elucidation of variations in immune responses and the emergence of resistance. Ferroptosis, a form of programmed cell death characterized by iron‑dependent lipid peroxidation imbalance, has emerged as a pivotal hub linking tumor metabolism, cellular fate and immune regulation due to high dependence on metabolic states and its capacity to release multiple immunomodulatory signals. The unique environment of lung tissue, characterized by high oxygen levels, active lipid metabolism and easily disrupted iron homeostasis, provides a distinct biological foundation for the initiation and amplification of ferroptosis within the lung cancer TIME. Increasing evidence indicates that ferroptosis affects not only tumor cell survival, but also immune regulation. Through lipid peroxidation products, iron‑related metabolites and damage‑associated molecular patterns, it forms bidirectional regulatory networks with multiple immune cell subsets, including CD8",
+        "source": "PubMed",
+        "doi": "10.3892/or.2026.9140",
+        "keyword": "NK cell therapy",
+        "title_ja": "フェロトーシスによって駆動される免疫ネットワークの再構築：肺癌免疫微小環境における複数免疫細胞間の双方向相互作用メカニズム（レビュー）",
+        "summary_ja": "肺癌免疫療法の効果は、複雑で動的に変化する腫瘍免疫微小環境（TIME）に大きく制約される。従来の研究は単一の免疫チェックポイントや個々の免疫細胞に焦点を当てており、免疫応答の変動や抵抗性の獲得を包括的に解明するには至っていない。フェロトーシスは、鉄依存性の脂質過酸化バランスの崩壊を特徴とするプログラム細胞死であり、代謝状態への高い依存性と複数の免疫調節シグナルの放出能により、腫瘍代謝、細胞運命、免疫制御を結ぶ重要なハブとして注目されている。肺組織は高酸素環境、活発な脂質代謝、鉄恒常性の乱れやすさという特徴を持ち、肺癌TIMEにおけるフェロトーシスの開始と増幅に独特の生物学的基盤を提供する。近年の知見は、フェロトーシスが腫瘍細胞の生存だけでなく免疫制御にも影響することを示す。脂質過酸化産物、鉄関連代謝物、ダメージ関連分子パターン（DAMPs）を介して、CD8陽性T細胞を含む複数の免疫細胞サブ"
+      },
+      {
+        "title": "Efficient NK cell transduction with VSV-G-pseudotyped lentiviral vectors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42211741/",
+        "abstract": "The need for safe, allogeneic cell therapies for cancer is driving a growing interest in CAR-NK-based therapies, which, unlike CAR-T cell therapies, offer the potential for off-the-shelf administration. Lentiviruses pseudotyped with vesicular stomatitis virus glycoprotein G (VSV-G) are commonly used for genetic modification of cell therapy products. Their use in NK cells, however, is limited by low transduction efficiency. This study explores the complexities of NK cell transduction using lentiviral vectors pseudotyped with VSV-G. We demonstrate that efficient transduction depends on multiple factors, such as NK cell activation, domain organization of CAR construct, lentivirus pseudotype selection, and the use of transduction enhancers. By optimizing these elements, we achieved effective transduction, facilitating the use of VSV-G-pseudotyped lentiviral vectors for therapeutic NK cell production. Our optimized workflow comprises NK cell activation with interleukins, followed by transduction with an NK-cell-specific CAR construct using VSV-G-pseudotyped LVs in the presence of BX795 and retronectin, resulting in excellent transduction efficiency (91% using GFP and 80% using CAR) without compromising NK cell phenotype, growth, or cytotoxicity. This allows for the use of a widely used gene transfer vector with an excellent safety record for producing therapeutic NK cell products.",
+        "source": "PubMed",
+        "doi": "10.1016/j.omta.2026.201749",
+        "keyword": "NK cell therapy",
+        "title_ja": "VSV-Gシュードタイプ化レンチウイルスベクターを用いた効率的なNK細胞形質導入",
+        "summary_ja": "本論文は、癌治療における安全な同種細胞療法への需要から注目されるCAR-NK細胞療法において、VSV-Gシュードタイプレンチウイルスベクターを用いたNK細胞の効率的な遺伝子導入法を検討した。従来、NK細胞への導入効率は低かったが、NK細胞活性化、CAR構造のドメイン構成、シュードタイプ選択、導入促進剤の使用など複数の因子を最適化することで、高効率な導入を達成した。具体的には、インターロイキンによるNK細胞活性化後、BX795とレトロネクチン存在下でNK細胞特異的CARコンストラクトを導入するプロトコルにより、GFPで91%、CARで80%の導入効率を得た。この方法はNK細胞の表現型、増殖能、細胞傷害活性を損なわず、安全性に優れた汎用ベクターを用いた治療用NK細胞製造を可能にする。"
+      },
+      {
+        "title": "LCP2 mediates SUV39H1-driven cellular senescence-related chemoresistance in natural killer/T-cell lymphoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42209466/",
+        "abstract": "Natural killer/T-cell lymphoma (NKTCL) is an aggressive haematological malignancy with poor prognosis, particularly in patients with relapsed/refractory (R/R) disease. The mechanisms underlying multidrug resistance in NKTCL remain unclear and present an urgent challenge that must be addressed during clinical treatment. Multidrug-resistant NKTCL models were established using adriamycin (ADM), and cellular senescence was confirmed by markers including P16, P21, and senescence-associated β-galactosidase (SA-β-gal). Proteomic sequencing of plasma from clinical patients and resistant cells identified LCP2 as a key protein. Phosphoproteomics, mass spectrometry, and co-immunoprecipitation analyses revealed LCP2's role in mediating senescence-associated chemoresistance. An in vivo ageing microenvironment model was used to assess whether targeting the LCP2-mediated axis could eliminate chemoresistant senescent cells. Results show that ADM-resistant NKTCL cells exhibited phenotypic and senescence features. Of these, LCP2 expression was significantly reduced in the plasma of R/R NKTCL patients and in chemoresistant cells, correlating inversely with senescence marker SA-β-gal. Moreover, LCP2 knockdown enhanced the chemoresistance, senescent-associated secretory phenotype secretion, and G0/G1 cell cycle arrest in NKTCL cells. Mechanistically, LCP2 deficiency activated the IQGAP2/LaminA/C/SUV39H1 axis, thus driving DNA damage, telomere stress-induced senescence, and facilitating the formation of an immunosuppressive microenvironment. Importantly, targeting this axis with Epitalon and Chaetocin can partially eliminate therapy-induced senescent cells, enhance response to chemotherapeutics, and alleviate the immunosuppressive microenvironment to a certain extent in vivo. In conclusion, this study is the first to uncover LCP2 as a critical biomarker of senescence-related chemoresistance in NKTCL, providing a theoretical basis for the clinical translation of senolytics for treating R/R NKTCL.",
+        "source": "PubMed",
+        "doi": "10.1038/s41419-026-08897-6",
+        "keyword": "NK cell therapy",
+        "title_ja": "LCP2が自然 killer/T細胞リンパ腫におけるSUV39H1駆動の細胞老化関連化学療法耐性を媒介する",
+        "summary_ja": "本研究揭示了LCP2在自然杀伤/T细胞淋巴瘤（NKTCL）中介导SUV39H1驱动的细胞衰老相关化疗耐药机制。通过阿霉素建立多药耐药NKTCL模型，发现耐药细胞呈现衰老表型（P16、P21、SA-β-gal阳性）。蛋白质组学等分析显示，LCP2在复发/难治（R/R）患者血浆及耐药细胞中显著降低，与衰老标志物SA-β-gal呈负相关。LCP2敲低增强化疗耐药、衰老相关分泌表型及G0/G1期阻滞。机制上，LCP2缺失激活IQGAP2/LaminA/C/SUV39H1轴，导致DNA损伤、端粒应激诱导衰老及免疫抑制微环境形成。靶向该轴的Epitalon和Chaetocin可部分清除治疗诱导的衰老细胞，增强化疗反应并改善免疫微环境。该研究首次揭示LCP2是NKTCL衰老相关耐药的关键生物标志物，为R/R NKTCL的senolytics治疗提供理论依据。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Advances in the study of macrophage polarization in intervertebral disc degeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42213180/",
+        "abstract": "Intervertebral disc degeneration (IDD) is a major contributor to chronic low back pain, with its pathological mechanisms closely linked to an imbalance in macrophage polarization within the immune microenvironment. Macrophages are broadly categorized into two phenotypes: pro-inflammatory M1 and anti-inflammatory/restorative M2. The dynamic equilibrium between these subsets profoundly influences IDD progression. M1 macrophages exacerbate disc degeneration by secreting pro-inflammatory cytokines (e.g., TNF-α, IL-1β) and activating NF-κB and MAPK signaling pathways, thereby amplifying inflammatory responses, apoptosis, matrix degradation, and oxidative stress. Conversely, M2 macrophages promote tissue repair and extracellular matrix (ECM) remodeling through anti-inflammatory mediators such as IL-10 and TGF-β. Emerging therapeutic strategies, including pharmacological interventions (e.g., ROS scavengers, COX-2 inhibitors), biomaterials (e.g., smart hydrogels, engineered exosomes), and multimodal therapies (e.g., gene editing combined with immune-metabolic modulation), demonstrate significant translational potential. However, challenges persist, including the impact of the disc-specific microenvironment (hypoxia, nutrient deprivation, mechanical stress) on polarization efficiency, drug delivery limitations, and fibrosis risks. Future research should focus on resolving macrophage subpopulation heterogeneity, achieving precise polarization regulation, and optimizing clinical translation to advance immunometabolic therapies for IDD.",
+        "source": "PubMed",
+        "doi": "10.1007/s00586-026-10010-6",
+        "keyword": "Exosomes",
+        "title_ja": "椎间盘退变中巨噬细胞极化研究进展",
+        "summary_ja": "椎間板変性症（IDD）は慢性腰痛の主因であり、免疫微小環境におけるマクロファージ極性化の不均衡が病態に深く関与する。マクロファージは炎症性M1型と抗炎症・修復性M2型に大別され、その動的バランスがIDD進行に影響する。M1型はTNF-α、IL-1βなどの炎症性サイトカインを分泌し、NF-κBやMAPK経路を活性化して炎症、アポトーシス、細胞外基質分解、酸化ストレスを増悪させる。一方、M2型はIL-10やTGF-βを介して組織修復と細胞外基質リモデリングを促進する。ROS除去剤やCOX-2阻害薬、スマートハイドロゲルや工学化エキソソームなどの生体材料、遺伝子編集と免疫代謝調節の併用療法など、新たな治療戦略が臨床応用の可能性を示す。しかし、椎間板特異的微小環境（低酸素、栄養欠乏、機械的ストレス）による極性化効率への影響、薬物送達の制限、線維化リスクなどの課題が残る。今後の研究では、マクロファー"
+      },
+      {
+        "title": "Heterogeneity of Cancer-Associated Fibroblasts and Precision Targeting Strategies for Cancer Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42210582/",
+        "abstract": "Immune checkpoint blockade (ICB) has transformed cancer therapy, but its effect is often limited by immunosuppression and resistance mechanisms within the tumor microenvironment (TME). Cancer-associated fibroblasts (CAFs) represent a major stromal component of the TME. They exhibit substantial heterogeneity, dynamic plasticity, diverse cellular origins, and context-dependent activation states, which critically determine the safety and efficacy of CAF-targeted therapies. CAFs contribute to tumor immune evasion by remodeling the extracellular matrix, altering tissue mechanics and establishing structural barriers. In addition, CAFs release cytokines, chemokines, and exosomes to impair T-cell trafficking and function. They also interact with immune and myeloid cells, further reducing the efficacy of ICB. Therefore, CAF-targeted therapies are shifting from the strategy of extensive clearance to a more elaborate framework, which focuses on specific CAF subpopulations and their regulatory pathways, and combines specific strategies for subpopulations, functional reprogramming, and methods based on advanced delivery systems and diagnostic tools. Integrating spatial omics, single-cell technologies, and 3D culture systems can help us better understand the different states of CAFs and how they are distributed in space. This enables the identification of targetable CAF states, informs reprogramming strategies, supports rational combination design, and facilitates biomarker discovery. This review emphasizes the heterogeneity and plasticity of CAFs in tumor immunosuppression, and advocates a conceptual shift from static cellular identity to a dynamic state-niche-function framework.",
+        "source": "PubMed",
+        "doi": "10.1111/1759-7714.70310",
+        "keyword": "Exosomes",
+        "title_ja": "がん関連線維芽細胞の不均一性とがん治療における精密標的化戦略",
+        "summary_ja": "免疫チェックポイント阻害薬（ICB）の効果は、腫瘍微小環境（TME）内の免疫抑制や抵抗性機構により制限される。癌関連線維芽細胞（CAF）はTMEの主要な間質成分であり、顕著な不均一性、動的可塑性、多様な細胞起源、状況依存的な活性化状態を示す。CAFは細胞外マトリックス再構成、組織力学変化、構造的障壁形成により腫瘍免疫逃避に寄与し、さらにサイトカインやエクソソームを介してT細胞の動員・機能を阻害し、ICB効果を減弱させる。そのためCAF標的療法は、全般的除去から特定サブ集団や調節経路に焦点を当てた精密戦略へと移行し、機能リプログラミングや先進的送達システム・診断ツールを組み合わせる。空間オミクス、単一細胞技術、3D培養系の統合によりCAFの状態と空間分布を解明し、標的可能なCAF状態の同定、リプログラミング戦略、合理的併用設計、バイオマーカー発見が可能となる。本総説はCAFの不均一性と可塑性"
+      },
+      {
+        "title": "Biochemical markers of bone metabolism and bone mineral density in patients with type 2 diabetic foot ulcer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42210208/",
+        "abstract": "Type 2 diabetic foot ulcer (DFU) is closely linked to disorders of bone metabolism and abnormal bone mineral density (BMD), while serum 25-hydroxyvitamin D [25(OH)D], the gold standard for evaluating Vit D nutritional status, acts as an independent protective factor for DFU and is implicated in skeletal health regulation in diabetic patients. This cross-sectional study aimed to investigate biochemical markers of bone metabolism and BMD in patients with type 2 diabetic foot ulcer, and to identify risk factors for diabetic foot and accompanying gangrene. A total of 400 patients with type 2 diabetes mellitus (T2DM) admitted to the Endocrinology Ward of Affiliated Hospital of Nantong University from December 2021 to May 2023 were enrolled, including 155 in the DF group and 245 in the non-diabetic foot (NDF) group. Clinical data, bone metabolism markers and BMD measured by dual-energy X-ray absorptiometry (DXA) were collected, and data were analyzed using SPSS 25.0 software. Compared with the NDF group, the DF group had older age, longer diabetes duration, higher systolic blood pressure (SBP), urinary albumin creatinine ratio (UACR) and type I collagen N-terminal propeptide (PINP) level, but lower levels of serum albumin (ALB), glycemic and lipid indicators, 25(OH)D, total BMD and hip regional B < 0.05), with a significantly higher prevalence of low bone mass and osteoporosis. Binary logistic regression revealed that elevated SBP, reduced ALB, lower total T-score and total body fat content were independent risk factors for DF, with optimal cutoff values of 140 mmHg, 34.9 g/L, - 0.5 and 27.5% respectively. Additionally, lower BMD at the femoral shaft, femoral neck and greater trochanter was significantly associated with an increased risk of gangrene in DF patients. In conclusion, patients with type 2 diabetic foot ulcer present significant bone metabolism disorders and reduced BMD, and decreased BMD and related metabolic indicators can serve as valuable markers for predicting DF and its gangrene progression, providing clinical evidence for the early prevention and targeted treatment of this condition.",
+        "source": "PubMed",
+        "doi": "10.1186/s12902-026-02328-5",
+        "keyword": "Exosomes",
+        "title_ja": "2型糖尿病足潰瘍患者における骨代謝の生化学的マーカーと骨密度",
+        "summary_ja": "本研究探讨2型糖尿病足溃疡（DFU）患者的骨代谢标志物与骨密度（BMD）。纳入400例2型糖尿病患者（DF组155例，非糖尿病足NDF组245例），收集临床数据、骨代谢标志物及双能X线吸收法（DXA）测定的BMD。结果显示：与NDF组相比，DF组年龄更大、病程更长、收缩压（SBP）和尿白蛋白肌酐比（UACR）及I型胶原N端前肽（PINP）水平更高，但血清白蛋白（ALB）、血糖血脂指标、25-羟基维生素D[25(OH)D]、全身及髋部BMD更低（P<0.05），低骨量和骨质疏松患病率显著升高。二元Logistic回归表明，SBP升高、ALB降低、全身T值及体脂含量降低是DF的独立危险因素，最佳截断值分别为140 mmHg、34.9 g/L、-0.5和27.5%。此外，股骨干、股骨颈及大转子BMD降低与DF患者坏疽风险增加显著相关。结论：DFU患者存在明显骨代谢紊乱和BMD降低，相关指标可作为"
+      },
+      {
+        "title": "Extracellular Vesicles of Mycobacterium tuberculosis Serve as a Virulence Factor - Current Research Applications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42209895/",
+        "abstract": "Exosomes, microvesicles, and apoptotic bodies are types of extracellular vesicles (EVs), which are small, cup-shaped structures made up of two layers that come from both healthy and diseased cells. They improve intercellular signal transmission by transporting proteins, lipids, and nucleic acids. Blood, urine, ascitic fluid, amniotic fluid, cerebrospinal fluid, and bronchoalveolar lavage fluid include extracellular vesicles. Consequently, this review aimed to analyze the extracellular vesicles and their substantial functions in mycobacteria, such as transporting macromolecules and disease pathogenesis. Extracellular vesicle lipids, along with proteins and nucleic acids, are potential markers for various diseases, including tuberculosis caused by Mycobacterium tuberculosis. The extracellular vesicles secreted by mycobacterium include Toll-like receptor 2 agonists such as lipoproteins and lipoarabinomannan. These agonists stimulate Toll-like receptor 2-dependent proinflammatory cytokine production in macrophages. Primarily, extracellular vesicles transfer lipoproteins between cells; these lipoproteins are responsible for virulence factors and are closely associated with the pathogenesis of tuberculosis. LprA and LprG, among others, are likely involved. Clinically, the extracellular vesicles play substantial roles, likely including the translocation of lipoarabinomannan to the mycobacterium cell membrane. This process is linked with the lysis of autophagosome-lysosome fusion; thus, mycobacteria can be present in a dormant state in macrophages. Therefore, extracellular vesicles play a substantial role in disease prognosis, and analysis of their functions along with microRNAs will lead to future research in the therapy and diagnosis of tuberculosis.",
+        "source": "PubMed",
+        "doi": "10.1007/s00284-026-04978-z",
+        "keyword": "Exosomes",
+        "title_ja": "結核菌の細胞外小胞は病原性因子として機能する - 現在の研究応用",
+        "summary_ja": "結核菌由来の細胞外小胞（EV）は、エクソソーム、マイクロベシクル、アポトーシス小体を含み、タンパク質、脂質、核酸を輸送して細胞間シグナル伝達を促進する。血液、尿、腹水、羊水、脳脊髄液、気管支肺胞洗浄液などに存在し、結核を含む疾患のバイオマーカーとして注目される。結核菌が分泌するEVにはリポタンパク質やリポアラビノマンナンなどのToll様受容体2アゴニストが含まれ、マクロファージでの炎症性サイトカイン産生を誘導する。特にLprAやLprGなどのリポタンパク質は病原性因子として結核の病態形成に関与し、EVを介して細胞間で輸送される。臨床的には、EVがリポアラビノマンナンを菌体膜へ移行させ、オートファゴソーム-リソソーム融合の阻害を介して結核菌のマクロファージ内潜伏を可能にする。したがって、EVは疾患予後において重要な役割を担い、その機能解析とマイクロRNAの研究は結核の治療および診断の将来の進"
+      },
+      {
+        "title": "Decoding spontaneous intracerebral hemorrhage: mechanistic breakthroughs and disruptive revolution in pharmacological treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42209696/",
+        "abstract": "Spontaneous intracerebral hemorrhage (ICH), especially hypertensive basal ganglia hemorrhage, is a severe, often fatal stroke subtype with high morbidity and mortality. This historical review traces therapeutic progress from the 1960s to the present, emphasizing rehabilitation, peripheral-central nervous system interactions, and clinical outcomes. Molecular mechanisms, early treatments, and advances in interventions are examined. Rehabilitation strategies, such as exercise programs, stem cell therapies, and novel physical modalities, are evaluated for their effects on neuroprotection, neuroplasticity, and functional recovery. Pharmacological approaches during subacute and chronic phases are also reviewed. Clinical trials (phases I-III) are critically assessed for end points and efficacy of combined therapies. This Review highlights emerging paradigms targeting peripheral-central pathways, personalized rehabilitation, and future directions, while addressing research limitations and clinical challenges. Evolution of treatment strategies for intracerebral hemorrhage (ICH). a, Development of treatment drugs for intracerebral hemorrhage. Since the 1990s, pharmacological interventions have evolved, including thrombolytics, anticoagulants, cell-protective drugs, ferroptosis inhibitors, natural medicines, and hydrogen therapy, all aimed at improving patient outcomes. b, Advancements in drug treatments for ICH. Recent therapeutic innovations focus on reducing ICH-related damage, including the use of tranexamic acid for hemorrhage control, ferroptosis inhibitors for preventing delayed cerebral ischemia, and hydrogen therapy to mitigate inflammatory and oxidative stress responses. c, Application of rehabilitation therapy in ICH. Rehabilitation strategies, including physical therapy and pharmacological support, promote functional recovery by enhancing limb function, balance, and coordination while reducing inflammatory responses and accelerating neuroplasticity. d, Traditional treatment methods for ICH. Various traditional Chinese medicine approaches, such as Salvia miltiorrhiza-based adjuvant therapy, acupuncture for blood circulation enhancement, Tuina therapy, and hypothermia treatment, contribute to reducing cell apoptosis and brain edema. e, Current status of clinical trials. Ongoing trials assess drug safety, efficacy, and application across different patient populations, whereas challenges such as patient variability, drug dosage optimization, and administration timing remain crucial for translating research into clinical practice. f, Future prospects. The integration of multidimensional treatment approaches, encompassing gene therapy, exosome therapy, nanotechnology-based drug delivery, hydrogen therapy, and the combination of modern pharmacology with traditional medicine, holds significant promise for refining rehabilitation protocols and enhancing patient outcomes.",
+        "source": "PubMed",
+        "doi": "10.1038/s12276-026-01733-z",
+        "keyword": "Exosomes",
+        "title_ja": "自然発症性脳内出血の解明：メカニズムの進展と薬物治療における革新的変革",
+        "summary_ja": "本レビューは、特に高血圧性基底核出血を中心とする自発性脳内出血（ICH）の治療進歩を1960年代から現在まで概観する。分子機構、早期治療、リハビリテーション戦略（運動療法、幹細胞治療、新規物理療法）の神経保護・可塑性への効果、亜急性期・慢性期の薬物療法を検討。臨床試験（第I-III相）のエンドポイントと併用療法の有効性を批判的に評価する。治療は1990年代以降、血栓溶解薬、抗凝固薬、細胞保護薬、フェロトーシス阻害薬、天然医薬、水素療法へと進化。近年はトラネキサム酸による出血制御、フェロトーシス阻害薬による遅発性脳虚血予防、水素療法による炎症・酸化ストレス軽減に焦点が当たる。伝統的中国医学（丹参、鍼灸、推拿、低体温療法）も細胞死・脳浮腫軽減に寄与。今後の展望として、遺伝子治療、エクソソーム療法、ナノテクノロジー薬物送達、水素療法、現代薬理学と伝統医学の統合が、個別化リハビリテーションと患者転"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Epigenetic orchestration of scar formation: Therapeutic potential of targeting DNA methylation and non‑coding RNAs in cutaneous fibrosis (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42212370/",
+        "abstract": "Cutaneous fibrosis is sustained by epigenetic 'memory' rather than chronic inflammation. DNA hypermethylation, repressive histone marks and non‑coding RNA networks lock dermal fibroblasts into a collagen‑secretory state that can persist years after wounding. Single‑cell methylomes have identified DNA methyltransferase (DNMT)3B as the key epigenetic writer driving anti‑fibrotic gene silencing, whereas N6‑methyladenosine‑modified long non‑coding RNAs and reinforce these loops by tethering methylation machinery to chromatin. Local delivery of DNMT inhibitors, microRNA‑29 mimics or antisense oligonucleotides via dissolvable microneedles, metal‑organic framework patches or exosome arrays reproducibly reduces scar volume by 25‑55% in pre‑clinical models without systemic exposure of therapeutic agents. The present review integrates multi‑omic mechanistic data with emerging device platforms to chart a precision roadmap for converting scar‑forming repair into scar‑sparing regeneration.",
+        "source": "PubMed",
+        "doi": "10.3892/mmr.2026.13922",
+        "keyword": "Exosomes",
+        "title_ja": "瘢痕形成のエピジェネティックな制御：皮膚線維症におけるDNAメチル化と非コードRNAを標的とした治療の可能性（レビュー）",
+        "summary_ja": "皮膚線維化は慢性炎症ではなく、エピジェネティックな「記憶」によって持続する。DNA高メチル化、抑制性ヒストン修飾、非コードRNAネットワークが、線維芽細胞をコラーゲン分泌状態に固定し、創傷後も長期間維持される。一細胞メチローム解析により、DNAメチルトランスフェラーゼ（DNMT）3Bが抗線維化遺伝子のサイレンシングを駆動する主要因子であり、N6-メチルアデノシン修飾長鎖非コードRNAがメチル化機構をクロマチンに結合させてこのループを強化することが判明した。可溶性マイクロニードル、金属有機構造体パッチ、エクソソームアレイを介したDNMT阻害剤、microRNA-29模倣体、アンチセンスオリゴヌクレオチドの局所送達は、前臨床モデルで瘢痕体積を25～55％減少させ、全身曝露を回避した。本総説は、マルチオミクス機構データと新興デバイスプラットフォームを統合し、瘢痕形成修復を瘢痕回避再生へ転換する精"
+      },
+      {
+        "title": "Extracellular reticulocalbin-2 exacerbates cartilage endplate degeneration by promoting calcification via the cAMP/PKA signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42211887/",
+        "abstract": "Cartilaginous endplate (CEP) degeneration is a hallmark feature of intervertebral disc degeneration (IDD) and has been closely linked to the development of low back pain and progressive loss of disc height. Despite its clinical significance, the molecular mechanisms underlying CEP degeneration remain inadequately elucidated. Our study investigated the role of reticulocalbin-2 (RCN2) in CEP cell calcification and inflammation using an in vitro inflammatory model. Gene interference and overexpression experiments demonstrated that RCN2 plays a pivotal role in promoting CEP cell calcification and inflammatory responses by activating the intracellular cAMP/PKA signaling pathway, leading to upregulated expression of calcification-related genes. Further analysis revealed that exosomes secreted by CEP cells contain increased levels of RCN2, which in turn activates the cAMP/PKA signaling pathway and induces calcification in recipient cells. Knockdown of exosomal RCN2 significantly diminished its pro-calcifying effects, thereby establishing RCN2 as a critical mediator. Collectively, these findings elucidate a previously unrecognized molecular mechanism underlying CEP calcification and support RCN2 as a potential therapeutic target for IDD.",
+        "source": "PubMed",
+        "doi": "10.1007/s10616-026-00997-7",
+        "keyword": "Exosomes",
+        "title_ja": "細胞外レティキュロカルビン-2はcAMP/PKAシグナル経路を介して石灰化を促進し、軟骨終板変性を悪化させる。",
+        "summary_ja": "椎間板変性症（IDD）の特徴である軟骨終板（CEP）変性は、腰痛や椎間板高減少と関連するが、その分子機構は未解明である。本研究では、in vitro炎症モデルを用い、reticulocalbin-2（RCN2）のCEP細胞石灰化と炎症への役割を検討した。遺伝子干渉と過剰発現実験により、RCN2は細胞内cAMP/PKAシグナル経路を活性化し、石灰化関連遺伝子の発現を亢進させることでCEP細胞の石灰化と炎症応答を促進することが示された。さらに、CEP細胞由来エクソソーム中のRCN2が増加し、受容細胞のcAMP/PKA経路を活性化して石灰化を誘導した。エクソソームRCN2のノックダウンはこの効果を減弱させ、RCN2が重要なメディエーターであることを確認した。以上より、CEP石灰化の新たな分子機構が解明され、RCN2がIDDの治療標的となる可能性が示唆された。"
+      },
+      {
+        "title": "Cucumber-derived exosome-like nanovesicles encapsulating epigallocatechin gallate for skin depigmentation: molecular docking, stability, and efficacy in B16/F10 cells and zebrafish.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42210742/",
+        "abstract": "To address the challenges of instability and low bioavailability that limit the application of (-)-epigallocatechin gallate (EGCG) as a whitening agent, we engineered a cucumber-derived exosome-like nanovesicle (CEV) as a synergistic nanocarrier. A hybrid isolation method combining polyethylene glycol precipitation with electrophoretic dialysis (PED) was established to obtain high-purity CEVs. The resulting EGCG-loaded CEVs (EGCG@CEVs) achieved 95.43% encapsulation efficiency with enhanced stability and a sustained release profile. Metabolomics and network pharmacology identified the STAT3/MAPK signaling axis as the primary target, a mechanism subsequently validated in B16F10 melanocytes and zebrafish models. Compared with free EGCG, EGCG@CEVs significantly decreased tyrosinase activity and melanin production. With the stable EGCG@CEV system, the ERK-STAT3-MITF pathway can be regulated, potentially functioning as a plant-based cosmetic system.",
+        "source": "PubMed",
+        "doi": "10.1039/d6tb00396f",
+        "keyword": "Exosomes",
+        "title_ja": "キュウリ由来のエクソソーム様ナノ小胞に封入されたエピガロカテキンガレートによる皮膚脱色：分子ドッキング、安定性、およびB16/F10細胞とゼブラフィッシュにおける有効性",
+        "summary_ja": "本論文では、美白剤としてのEGCGの不安定性と低バイオアベイラビリティを克服するため、キュウリ由来エクソソーム様ナノベシクル（CEV）を相乗的ナノキャリアとして開発した。ポリエチレングリコール沈殿と電気泳動透析を組み合わせたハイブリッド分離法により高純度CEVを取得し、EGCGを封入したEGCG@CEVは95.43%の封入効率、安定性向上及び持続放出プロファイルを示した。メタボロミクスとネットワーク薬理学によりSTAT3/MAPKシグナル軸が主要標的と同定され、B16F10メラノサイトとゼブラフィッシュモデルで検証された。EGCG@CEVは遊離EGCGと比較し、チロシナーゼ活性とメラニン産生を有意に低下させ、ERK-STAT3-MITF経路を調節した。本システムは植物由来化粧品としての可能性を示す。"
+      },
+      {
+        "title": "Surface N-Glycosylation Dictates MSC-EV Uptake and CCR2-Driven Monocyte Recruitment to Inflamed Endothelium Under Shear Flow.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42209896/",
+        "abstract": "Mesenchymal stromal cell-derived extracellular vesicles (MSC-EV) hold promising potential for immunomodulation and tissue regeneration, especially for treating ischemia-reperfusion injury (IRI). However, their therapeutic use is hindered by challenges in tissue targeting and incomplete understanding of their functional mechanisms. Upon systemic administration, MSC-EV first encounter IRI-activated endothelium, whose response would determine the nature and extent of subsequent immune cell infiltration and inflammation, with monocytes shaping the type of immune response. Our previous work showed that surface N-glycans are key for MSC-EV interaction with endothelial cells. Here, we investigate the role of N-glycosylation in MSC-EV interaction with TNF-activated endothelial cells and subsequent monocyte rolling and adhesion. Using static and dynamic flow in vitro models, we show that depletion of surface N-glycans specifically targeted MSC-EV to inflamed endothelium. Conversely, while intact MSC-EV inhibited monocyte adhesion and fostered MSC recruitment to endothelial cells, this was lost upon N-glycan depletion. Finally, our results suggest that MSC-EV-mediated modulation of the MCP-1/CCR2 interaction may underlie the reduced monocyte infiltration into inflamed endothelium. These findings highlight the role of N-glycosylation in the immunomodulatory activity of MSC-EV, offering a potential mechanism of action and suggesting that glycoengineered MSC-EV may enhance their therapeutic effectiveness in inflammatory and ischemic conditions.",
+        "source": "PubMed",
+        "doi": "10.1002/jev2.70316",
+        "keyword": "Exosomes",
+        "title_ja": "表面N-グリコシル化がMSC-EVの取り込みと、せん断流下におけるCCR2を介した単球の炎症内皮への動員を決定する",
+        "summary_ja": "間葉系間質細胞由来細胞外小胞（MSC-EV）は、虚血再灌流障害（IRI）治療において免疫調節と組織再生の可能性を持つが、組織標的化や機能メカニズムの解明に課題がある。本研究では、MSC-EVの表面N-グリコシル化がTNF活性化内皮細胞との相互作用、および単球のローリングと接着に与える影響を検討した。静的・動的流れモデルを用いた実験の結果、表面N-グリカンの除去はMSC-EVを炎症内皮へ特異的に標的化した。一方、無傷のMSC-EVは単球接着を抑制しMSCの内皮細胞への動員を促進したが、N-グリカン除去によりこの効果は消失した。さらに、MSC-EVによるMCP-1/CCR2相互作用の調節が、炎症内皮への単球浸潤低下に関与する可能性が示唆された。これらの知見は、MSC-EVの免疫調節活性におけるN-グリコシル化の重要性を明らかにし、糖鎖改変MSC-EVが炎症性・虚血性疾患の治療効果を高める可能性"
+      },
+      {
+        "title": "DIA-based proteomic analysis reveals Scutellaria barbata D. Don Exosome-like nanovesicles promote ferroptosis in HCC through Nrf2/SLC7A11/GPX4 pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42209785/",
+        "abstract": "This study systematically characterizes ferroptosis-mediated antitumor mechanisms of exosome-like nanovesicles derived from Scutellaria barbata D. Don (SBENs) in hepatocellular carcinoma (HCC). SBENs were isolated by ultracentrifugation combined with sucrose gradient centrifugation and characterized by NTA, TEM, and DIA-based proteomic analysis. Ferroptosis induction was assessed in HepG2 cells and subcutaneous xenograft models through biochemical assays, qPCR, Western blot, and histopathological examination. SBENs were isolated using ultracentrifugation and sucrose gradient centrifugation. NTA and TEM revealed subspherical SBENs with an average diameter of 134.1 nm. Proteomic analysis identified modulation of ferroptosis-related proteins. Cellular assays showed SBENs suppressed HepG2 proliferation, migration, invasion, and ferroptosis. The ferroptosis effect induced by SBENs in HepG2 cells is marked by mitochondrial depolarization, elevated Fe²⁺, MDA, ROS, depleted GSH, and reduced SLC7A11/GPX4 expression. Mitochondrial dysfunction involved downregulated ND1, CYTB, COX1 and TFAM suppression, mechanistically associated with Nrf2/SLC7A11/GPX4 pathway inhibition. In xenografts, SBENs attenuated tumor growth, reduced Ki-67 expression, and induced ferroptosis without altering serum ALT, AST, BUN, CRE levels or causing histological damage. SBENs induced HepG2 ferroptosis via mitochondrial dysfunction and Nrf2/SLC7A11/GPX4 pathway inhibition, effectively triggering HCC ferroptosis in subcutaneous tumor xenografts with safety profiles.",
+        "source": "PubMed",
+        "doi": "10.1007/s10142-026-01892-2",
+        "keyword": "Exosomes",
+        "title_ja": "DIAプロテオミクス解析により、半枝蓮エクソソーム様ナノ小胞がNrf2/SLC7A11/GPX4経路を介して肝細胞癌のフェロトーシスを促進することが明らかになった。",
+        "summary_ja": "本研究系统解析了半枝莲外泌体样纳米囊泡（SBENs）通过铁死亡抑制肝细胞癌（HCC）的机制。采用超速离心结合蔗糖密度梯度离心分离SBENs，经NTA和TEM表征为平均直径134.1 nm的亚球形颗粒。DIA蛋白质组学分析发现SBENs调控铁死亡相关蛋白。细胞实验显示，SBENs抑制HepG2增殖、迁移、侵袭并诱导铁死亡，表现为线粒体去极化、Fe²⁺、MDA、ROS升高，GSH耗竭及SLC7A11/GPX4表达下调。线粒体功能障碍涉及ND1、CYTB、COX1下调及TFAM抑制，机制上与Nrf2/SLC7A11/GPX4通路抑制相关。皮下移植瘤模型中，SBENs抑制肿瘤生长、降低Ki-67表达并诱导铁死亡，且未改变血清ALT、AST、BUN、CRE水平或引起组织损伤。SBENs通过线粒体功能障碍及Nrf2/SLC7A11/GPX4通路抑制诱导HepG2铁死亡，有效触发HCC铁死亡且安全性良好"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Single-cell and spatial transcriptomics reveal Thbs1-CD36 crosstalk between Kupffer and hepatic stellate cells following mesenchymal stem cell-derived small extracellular vesicles transplantation, alleviating liver fibrosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42210280/",
+        "abstract": "Small extracellular vesicles (sEVs) derived from mesenchymal stem cells represent a novel regenerative therapeutic strategy for various liver injuries. Menstrual blood-derived mesenchymal stem cells (MenSCs)-derived EVs may have therapeutic potential in treating liver fibrosis. In this study, systemically injected MenSCs-derived sEVs migrated into the injured liver, ameliorated serological indices, and decreased collagenous fiber accumulation in carbon tetrachloride (CCl",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04499-8",
+        "keyword": "sEVs",
+        "title_ja": "間葉系幹細胞由来小型細胞外小胞移植後のクッパー細胞と肝星細胞間におけるThbs1-CD36クロストークを一細胞・空間トランスクリプトミクスが解明し、肝線維化を軽減する。",
+        "summary_ja": "メッセージが途中で切れています。続きの内容を確認できませんでした。お手数ですが、論文・記事の全文をお送りいただけますと、日本語で400文字以内に要約いたします。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めて500文字以内でまとめます。\n\n---\n\n**1. フェロトーシスによる免疫ネットワーク再編成（肺癌）**  \nフェロトーシスが肺癌の免疫微小環境において、複数の免疫細胞間の双方向相互作用を介して免疫応答を再編成する機構が注目される。従来の単一チェックポイント阻害では捉えきれない抵抗性獲得の理解に貢献し、新たな併用療法の基盤となる。\n\n**2. CAR-NK細胞療法の効率的遺伝子導入**  \nVSV-Gシュードタイプレンチウイルスベクターを用いたNK細胞への高効率遺伝子導入法が開発された。従来の低導入効率を克服し、安全な同種CAR-NK細胞療法の実用化を加速する技術的ブレークスルーである。\n\n**3. MSC由来sEVによる肝線維化治療**  \n間葉系幹細胞由来の小型細胞外小胞（sEV）が、Kupffer細胞と肝星細胞間のThbs1-CD36クロストークを介して肝線維化を軽減する機序が、単一細胞・空間トランスクリプトームで解明された。sEVの標的化と治療応用に新たな道を開く。\n\n**4. 癌関連線維芽細胞（CAF）の不均一性と精密標的戦略**  \nCAFの顕著な不均一性と可塑性が免疫チェックポイント阻害薬の効果を制限する要因として認識され、精密標的化戦略の重要性が高まっている。CAFサブタイプ特異的治療が次世代がん免疫療法の鍵となる。\n\n**5. 結核菌由来細胞外小胞（EV）の病原性と診断応用**  \n結核菌EVが病原性因子として機能し、血液・尿等の体液から検出可能なバイオマーカーとして診断に応用されつつある。感染症の早期診断やワクチン開発への展開が期待される。\n\n---\n\n（合計約480文字）"
+}

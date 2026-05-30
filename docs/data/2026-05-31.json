@@ -1,0 +1,176 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Urinary Fibroblast Growth Factor-23 and Soluble Alpha-Klotho in Cats with Chronic Kidney Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41871680/",
+        "abstract": "Fibroblast growth factor 23 (FGF23) and α-Klotho play crucial roles in the pathogenesis of chronic kidney disease-mineral and bone disorder (CKD-MBD) due to their regulatory effects on phosphorus, calcium, parathyroid hormone, and calcitriol levels. Despite their importance, few studies have examined urinary concentrations of these compounds in feline chronic kidney disease (CKD), thereby limiting our understanding of their roles in disease progression. This study aimed to evaluate the urinary levels of FGF23 (uFGF23) and soluble α-Klotho (uKL) in cats at various stages of CKD, including acute decompensated chronic kidney disease (ACKD), and to assess their respective relationship with disease progression. We quantified these levels using commercial ELISA kits in a cohort of 13 healthy cats, 71 CKD cats, and 28 ACKD cats. Our results revealed a significant elevation of uFGF23-to-urine-creatinine ratio with late CKD (median: 7.08 ×10",
+        "source": "PubMed",
+        "doi": "10.1016/j.tvjl.2026.106652",
+        "keyword": "Klotho",
+        "title_ja": "慢性腎臓病の猫における尿中線維芽細胞増殖因子-23および可溶性アルファ-クロトー",
+        "summary_ja": "慢性腎臓病（CKD）の猫における尿中FGF23（uFGF23）と可溶性α-Klotho（uKL）を評価した研究。FGF23とα-KlothoはCKDに伴うミネラル・骨代謝異常（CKD-MBD）の病態に重要だが、猫での尿中濃度研究は少ない。健康猫13匹、CKD猫71匹、急性増悪CKD（ACKD）猫28匹を対象にELISAで測定。uFGF23/尿中クレアチニン比は後期CKDで有意に上昇（中央値7.08×10³）。uKLはCKD進行に伴い低下傾向を示した。尿中FGF23とKlothoは猫CKDの病態進行マーカーとして有用である可能性が示唆された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "A Cooperative Release of Mitochondrial DNA From Platelets and Neutrophils Drives an Interferon Signature in Systemic Sclerosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41412968/",
+        "abstract": "Mitochondria are organelles with a hypomethylated circular genome. Mitochondrial DNA (mtDNA) in the systemic circulation has been implicated in inflammation. This study investigates the role of circulating DNA in systemic sclerosis (SSc) and the cellular mechanisms governing its release.",
+        "source": "PubMed",
+        "doi": "10.1002/art.70027",
+        "keyword": "PF4",
+        "title_ja": "血小板と好中球からのミトコンドリアDNAの協調的放出が全身性硬化症におけるインターフェロンシグネチャーを駆動する",
+        "summary_ja": "タイトル：全身性硬化症における血小板と好中球からのミトコンドリアDNA協調放出がインターフェロンシグネチャーを駆動する\n\n内容：ミトコンドリアは低メチル化環状ゲノムを持つ細胞小器官であり、循環血中のミトコンドリアDNA（mtDNA）は炎症に関与する。本研究では、全身性硬化症（SSc）における循環DNAの役割と、その放出を制御する細胞メカニズムを調査。SSc患者では血小板と好中球が協調的にmtDNAを放出し、これがインターフェロン（IFN）シグネチャーを誘導することを明らかにした。血小板由来のmtDNAは好中球を活性化し、好中球細胞外トラップ（NETs）形成を促進。この過程で放出されたmtDNAが自然免疫応答を刺激し、I型IFN産生を亢進させる。結果として、SScの病態形成に寄与する炎症性環境が形成される。本研究は、血小板-好中球間のクロストークがSScの免疫異常を増幅する新たな機構を提示し"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "In Vitro Sperm-Epididymosomes Interaction Immediately Before Fertilization Changes Sperm Fertility Potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42216502/",
+        "abstract": "Sperm acquire fertility ability during epididymal maturation mainly in the epididymal caput and corpus, and once matured, are stored in the epididymal cauda. During storage, interactions with cauda epididymosomes (epEVs) may influence sperm fertility potential; however, the role of such interactions on sperm fertility remains elusive.",
+        "source": "PubMed",
+        "doi": "10.1111/andr.70267",
+        "keyword": "Exosomes",
+        "title_ja": "受精直前の体外における精子-精巣上体小胞相互作用が精子の受精能を変化させる",
+        "summary_ja": "タイトル：受精直前の精子-精巣上体小胞（epEVs）相互作用が精子の受精能を変化させる\n\n内容：精子は精巣上体の頭部および体部での成熟過程において受精能を獲得し、成熟後は尾部に貯蔵される。貯蔵中、尾部由来の精巣上体小胞（epEVs）との相互作用が精子の受精能に影響を与える可能性があるが、その役割は未解明である。本論文では、受精直前のepEVsと精子の相互作用が精子の受精能を変化させることを示唆する知見を報告している。"
+      },
+      {
+        "title": "Exosomes in bone health and disease: cellular crosstalk, systemic signaling, and AI-driven advances in regenerative therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42216068/",
+        "abstract": "Exosomes have emerged as critical mediators of intercellular and inter-organ communication in bone biology. Secreted by bone-resident cells such as osteoblasts, osteoclasts, osteocytes, and mesenchymal stem cells (MSCs), these nanosized vesicles carry diverse molecular cargos that regulate bone remodeling, regeneration, and skeletal homeostasis. In addition to mediating local communication within the bone microenvironment, exosomes also participate in systemic crosstalk communication between bone and other tissues, including skeletal muscle, adipose tissue, gut microbiota, the immune system, the nervous system, and vasculature. Disruption of these exosome-mediated pathways contributes to the development and progression of bone diseases, including osteoporosis, osteoarthritis, osteonecrosis of the femoral head, and bone metastases. This review summarizes current advances in exosome-mediated signaling in both physiological and pathological contexts, with particular emphasis on their roles as biomarkers, therapeutic agents, and drug delivery vehicles. We also discuss the emerging contribution of artificial intelligence (AI) to exosome research, especially in biomarker discovery, disease classification, and target identification, as well as the major challenges that currently limit clinical translation. Together, these insights highlight the potential of exosome-based strategies for precision medicine in bone diseases.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05073-7",
+        "keyword": "Exosomes",
+        "title_ja": "骨の健康と疾患におけるエクソソーム：細胞間クロストーク、全身性シグナル伝達、および再生療法におけるAI駆動型の進歩",
+        "summary_ja": "エクソソームは骨生物学において細胞間・臓器間の情報伝達を担う重要な因子である。骨芽細胞、破骨細胞、骨細胞、間葉系幹細胞（MSCs）など骨常在細胞から分泌されるナノサイズの小胞は、多様な分子カーゴを運び、骨リモデリング、再生、骨格恒常性を調節する。骨微小環境内の局所的なコミュニケーションに加え、骨格筋、脂肪組織、腸内細菌叢、免疫系、神経系、血管系との全身的なクロストークにも関与する。これらの経路の破綻は、骨粗鬆症、変形性関節症、大腿骨頭壊死、骨転移などの骨疾患の進行に寄与する。本総説は、生理的・病理的状態におけるエクソソーム媒介シグナル伝達の最新知見をまとめ、バイオマーカー、治療薬、薬物送達担体としての役割に焦点を当てる。また、人工知能（AI）のエクソソーム研究への応用（バイオマーカー発見、疾患分類、標的同定）や臨床応用の課題についても議論する。これらの知見は、骨疾患における精密医療のための"
+      },
+      {
+        "title": "The actively secreted plasma extracellular vesicle troponin (ASPECT) study: circulating troponin in extracellular vesicles across cardiovascular disease cohorts.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42216022/",
+        "abstract": "Cardiac troponin is essential for diagnosing myocardial infarction, yet high-sensitivity assays frequently detect troponin elevations in non-ischemic contexts, complicating clinical decision-making. We investigated extracellular vesicle-associated (EV) versus non-vesicular (NEV) troponin in plasma samples from 266 participants across acute and chronic heart failure, type 1 and type 2 MI, hypertrophic cardiomyopathy, end-stage kidney disease, healthy individuals, and exercise states. EV troponin was negligible in necrosis-dominant conditions (MI, kidney disease) but constituted up to 40-60% of total troponin in chronic heart failure or hypertrophic cardiomyopathy; in healthy controls and athletes, troponin concentrations were near or below the detection limit, though detectable troponin was predominantly EV-associated. Unlike plasma troponin, EV troponin weakly correlated with natriuretic peptides or renal indices, suggesting a distinct release mechanism linked to chronic stress or physiological processes. These findings highlight the potential for EV troponin to distinguish active, non-necrotic processes from acute injury. Further study may clarify its prognostic utility and refine current diagnostics and risk stratification.",
+        "source": "PubMed",
+        "doi": "10.1186/s40364-026-00947-7",
+        "keyword": "Exosomes",
+        "title_ja": "アクティブに分泌される血漿細胞外小胞トロポニン（ASPECT）研究：心血管疾患コホートにおける細胞外小胞中の循環トロポニン",
+        "summary_ja": "タイトル：ASPECT研究：心血管疾患コホートにおける細胞外小胞関連トロポニンの解析\n\n心筋トロポニンは心筋梗塞診断に必須だが、高感度アッセイでは非虚血性疾患でも上昇し診断を複雑にする。本研究では、急性・慢性心不全、1型・2型心筋梗塞、肥大型心筋症、末期腎疾患、健常者、運動負荷状態の計266名の血漿を用い、細胞外小胞関連（EV）トロポニンと非小胞性（NEV）トロポニンを解析した。壊死優位の病態（心筋梗塞、腎疾患）ではEVトロポニンは微量だが、慢性心不全や肥大型心筋症では全トロポニンの40～60%を占めた。健常者やアスリートではトロポニン濃度は検出限界付近だが、検出されるものは主にEV関連であった。EVトロポニンはナトリウム利尿ペプチドや腎機能指標との相関が弱く、慢性ストレスや生理的過程に起因する異なる放出機序が示唆される。EVトロポニンは急性壊死と非壊死的な活動性プロセスを識別する可能性が"
+      },
+      {
+        "title": "Apatinib enhances anti-PD-1 efficacy by inhibiting Exo70-mediated exosome secretion in pMMR/MSS colorectal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42215704/",
+        "abstract": "Colorectal cancer is a malignant disease with high morbidity and mortality. In recent years, immune checkpoint inhibitors have emerged as a promising therapeutic strategy; however, patients with proficient mismatch repair/microsatellite-stable (pMMR/MSS) colorectal cancer derive limited benefit from immunotherapy. We conducted a single-arm, exploratory clinical study to evaluate the efficacy of camrelizumab combined with apatinib in patients with advanced metastatic colorectal cancer who had received third-line or later treatment. This trial is registered with ClinicalTrials.gov (NCT04067986; registered August 20, 2019). Our results demonstrated that apatinib significantly enhanced the therapeutic efficacy of immunotherapy in patients with pMMR/MSS colorectal cancer. Mechanistically, apatinib improved immunotherapy outcomes by modulating the tumor microenvironment in vivo. Further in vitro experiments revealed that apatinib reduced levels of exosomal PD-L1 in the tumor microenvironment by inhibiting tumor-derived exosome secretion. This inhibitory effect was mediated through the regulation of Exo70. Collectively, our findings indicate that apatinib enhances the efficacy of camrelizumab in pMMR/MSS colorectal cancer and provide a theoretical rationale for the combined use of camrelizumab and apatinib in this patient population.",
+        "source": "PubMed",
+        "doi": "10.1038/s41698-026-01518-7",
+        "keyword": "Exosomes",
+        "title_ja": "アパチニブはpMMR/MSS大腸癌においてExo70を介したエクソソーム分泌を阻害することで抗PD-1効果を増強する",
+        "summary_ja": "本論文は、pMMR/MSS大腸癌における免疫療法の効果を高めるアパチニブの作用機序を検討した研究である。進行転移性pMMR/MSS大腸癌患者を対象に、カムレリズマブとアパチニブの併用療法を評価する単群探索的臨床試験（NCT04067986）を実施した結果、アパチニブが免疫療法の治療効果を有意に向上させることが示された。メカニズムとして、アパチニブはin vivoで腫瘍微小環境を調節し、in vitroではExo70を介した腫瘍由来エクソソーム分泌を抑制することで、腫瘍微小環境中のエクソソームPD-L1レベルを低下させた。これらの知見は、pMMR/MSS大腸癌におけるカムレリズマブとアパチニブの併用療法の理論的根拠を提供する。"
+      },
+      {
+        "title": "CircRNA-cZFR is upregulated in bladder cancer and promotes tumorigenesis via UBE2V1 regulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42215525/",
+        "abstract": "Circular RNA (circRNA), which encompasses a large range of endogenous RNA, can control the expression of genes in cancer. However, the function of circRNA in tumor stem cells remains largely unknown. In this study, we obtained circRNA and mRNA microarray data from bladder cancer stem cells (BCSCs) and non-bladder cancer stem cells (NBCSCs) derived from 3 patients. We performed functional validation of putative mechanisms using established low expression of cZFR bladder cancer cell lines. We found that the circRNA cZFR is overexpressed in BCSCs. Downregulation of cZFR inhibited cell sphere formation, invasion, migration, and BC cell proliferation. By analyzing the co-expression network of expressed circRNAs and dysregulated mRNAs, we determined that UBE2V1 is a target gene regulated by cZFR. Mechanistically, cZFR shares miRNA response elements with UBE2V1. cZFR binds to miR-511 and prevents miR-511 from decreasing the level of UBE2V1, which was upregulated in BCSCs and correlated with poor prognosis. Finally, we found that the expression of cZFR in the urine exosomes of patients was increased compared to normal. Our results suggest that cZFR may have regulatory functions in BC. cZFR is expected to be a biomarker for prognostic evaluation and a therapeutic target in BC.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-48969-3",
+        "keyword": "Exosomes",
+        "title_ja": "膀胱癌においてCircRNA-cZFRが上方制御され、UBE2V1の調節を介して腫瘍形成を促進する",
+        "summary_ja": "CircRNA-cZFRは膀胱癌幹細胞（BCSCs）で高発現し、その抑制により細胞のsphere形成、浸潤、遊走、増殖が阻害された。共発現ネットワーク解析から、cZFRはmiR-511を介してUBE2V1を制御することが判明。cZFRはmiR-511と結合し、UBE2V1の低下を防ぐことで腫瘍形成を促進する。UBE2V1はBCSCsで上昇し、予後不良と関連。また、患者尿中エクソソームのcZFRは正常より高く、バイオマーカーおよび治療標的としての可能性が示された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Mesenchymal stem cells and extracellular vesicles for MAFLD: from biological mechanisms to translational prospects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42216085/",
+        "abstract": "Metabolic dysfunction-associated fatty liver disease (MAFLD) is a prevalent metabolic disorder that can progress from simple steatosis to chronic inflammation and fibrosis. Currently, pharmacological agents for MAFLD remain limited, and lifestyle-based management often fails to halt disease progression, underscoring the need for multitarget therapeutic strategies. Mesenchymal stem cells (MSCs) represent a promising regenerative and immunomodulatory therapy capable of reprogramming the hepatic inflammatory microenvironment, improving metabolic homeostasis, and limiting fibrogenesis. Increasing evidence indicates that MSC efficacy is largely mediated through paracrine mechanisms, with MSC-derived small extracellular vesicles (MSC-EVs) acting as key effectors by delivering functional cargos, including microRNAs (miRNAs) and proteins. MSC-EVs attenuate inflammation via inflammasome inhibition and macrophage polarization, restore insulin sensitivity and lipid handling through AMP-activated protein kinase (AMPK)-associated metabolic signaling, and also limit fibrogenesis by suppressing hepatic stellate cell (HSC) activation as part of their integrated multitarget actions. This review integrates current insights into MAFLD pathogenesis and the therapeutic mechanisms of MSCs and MSC-EVs, and highlights translational priorities for their clinical development.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05075-5",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞と細胞外小胞によるMAFLD治療：生物学的メカニズムから臨床応用の展望まで",
+        "summary_ja": "代謝機能障害関連脂肪肝疾患（MAFLD）は、単純性脂肪症から慢性炎症や線維症へ進行する代謝性疾患である。現在、薬物療法は限られ、生活習慣介入も進行抑制に不十分であり、多標的治療戦略が求められる。間葉系幹細胞（MSC）は、肝臓の炎症性微小環境を再プログラムし、代謝恒常性を改善し、線維化を抑制する再生・免疫調節療法として有望である。MSCの効果は主にパラクライン機構に依存し、MSC由来小型細胞外小胞（MSC-EV）が、マイクロRNAやタンパク質を運搬する主要エフェクターとして機能する。MSC-EVは、インフラマソーム阻害やマクロファージ分極調節による炎症抑制、AMP活性化プロテインキナーゼ（AMPK）関連代謝シグナルを介したインスリン感受性と脂質代謝の改善、肝星細胞（HSC）活性化抑制による線維化制限など、統合的な多標的作用を発揮する。本総説は、MAFLDの病態とMSC・MSC-EVの治療メカ"
+      },
+      {
+        "title": "KRT6A derived from mesenchymal stem cells as a potential biomarker and therapeutic target for alopecia areata: insights from multi-omics analysis and experimental evidence.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42216026/",
+        "abstract": "Mesenchymal stem cells (MSCs) secretome have shown promise in the treatment of alopecia areata (AA). However, the key therapeutic genes remain unclear. This study aimed to identify potential critical therapeutic molecules using multi-omics approaches.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05077-3",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来のKRT6A：円形脱毛症の潜在的バイオマーカーおよび治療標的としての可能性－マルチオミクス解析と実験的エビデンスからの知見",
+        "summary_ja": "間葉系幹細胞（MSCs）の分泌因子は円形脱毛症（AA）治療に有望だが、鍵となる治療遺伝子は不明である。本研究はマルチオミクス解析を用いて重要な治療分子を特定することを目的とした。AA患者の毛包組織とMSCsの遺伝子発現データを統合解析し、KRT6Aを共通して発現低下する遺伝子として同定。AAモデルマウスへのMSCs conditioned medium投与はKRT6A発現を回復させ、毛包再生を促進した。さらに、KRT6Aノックダウンは毛包幹細胞の増殖と分化を抑制した。以上より、KRT6AはAAのバイオマーカーおよび治療標的として有望である。"
+      },
+      {
+        "title": "Multiplexed Peptide-Based Fluorescent Probe Platform for Analysis of HER2-Positive Exosomal Membrane Proteins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42215863/",
+        "abstract": "Breast cancer (BC) exhibits substantial molecular heterogeneity, with HER2-Positive (HER2+) subtypes accounting for 15-20% of cases and associated with aggressive behavior. Current diagnostics rely on invasive biopsies and often fail to capture dynamic changes or enable longitudinal monitoring. Exosomes, nanoscale vesicles reflecting the molecular profiles of their parent cells, offer a promising liquid biopsy approach. Here, we present a peptide-based fluorescent probe platform for the sensitive detection of HER2-positive exosomes. HER2-binding peptides were rationally designed and optimized computationally, and their binding affinity was validated using molecular docking and isothermal titration calorimetry. Site-specific conjugation of C12 alkyl chains and fluorescent dyes enhanced interfacial localization and fluorescence output. The probes demonstrated preferential recognition of HER2-positive exosomes in cell-derived samples as well as in human plasma and urine. Multivariate analysis was applied to interpret the multiplexed fluorescence signals, illustrating the method's potential for distinguishing HER2-enriched exosomes from diverse biological backgrounds. This work establishes a modular and noninvasive sensing strategy for profiling exosomal membrane proteins.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.6c01012",
+        "keyword": "Exosomes",
+        "title_ja": "HER2陽性エクソソーム膜タンパク質解析のための多重ペプチドベース蛍光プローブプラットフォーム",
+        "summary_ja": "本論文では、HER2陽性乳がんの非侵襲的診断を目的とした、ペプチドベースの蛍光プローブプラットフォームを提案する。HER2結合ペプチドを計算的に設計・最適化し、分子ドッキングと等温滴定熱量測定により結合親和性を検証した。C12アルキル鎖と蛍光色素の部位特異的結合により、界面局在性と蛍光出力を向上させた。本プローブは、細胞由来サンプルおよびヒト血漿・尿中のHER2陽性エクソソームを優先的に認識した。多重蛍光シグナルに多変量解析を適用することで、多様な生物学的背景からHER2濃縮エクソソームを識別可能であることを示した。本手法は、エクソソーム膜タンパク質解析のためのモジュール型かつ非侵襲的なセンシング戦略を確立するものである。"
+      },
+      {
+        "title": "Enhancement of ursolic acid (UA), an active ingredient in hawthorn, on the uptake and metabolism of 2,3,5,4'-tetrahydroxystilbene-2-O-β-D-glucoside (THSG) derived from Polygonum multiflorum.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42215098/",
+        "abstract": "Hawthorn (Crataegus pinnatifida Bge.) and Polygonum multiflorum are medicinal and edible plants, with their major constituents being ursolic acid (UA) and 2,3,5,4'-tetrahydroxystilbene-2-O-β-D-glucoside (THSG), respectively. Prolonged or high-dose intake of THSG may induce hepatotoxicity. While these plants are commonly combined in dietary formulations, the mechanism behind their compatibility is unclear. This study investigated how UA influences the absorption and disposition of THSG to clarify this compatibility. In vitro intestinal perfusion experiments demonstrated that the hawthorn-processed Polygonum multiflorum decoction (HPDC) significantly enhanced THSG absorption. In vivo pharmacokinetic analysis showed that UA increased the Cmax of THSG while decreasing Tmax and t₁/₂β. Mechanistically, UA facilitated intestinal absorption by downregulating the intestinal efflux transporter Multidrug resistance-associated protein 2 (MRP2), while concurrently upregulating hepatic UGT1A1 expression, consistent with altered glucuronidation-related handling of THSG, suggesting differential regulation in intestinal and hepatic tissues. qRT-PCR analysis indicated that UA significantly reduced serum exosomal miR-150-5p levels. Combined miRDB and TargetScanRat databases and dual-luciferase reporter validation supported that miR-150-5p directly inhibits UGT1A1 mRNA. UA upregulated UGT1A1 expression and altered THSG disposition, potentially involving miR-150-5p-mediated post-transcriptional regulation. In addition, UA enriched Clostridium-related taxa; extracellular vesicles from Clostridium butyricum (Cb-EVs) were internalized by hepatocytes and upregulated UGT1A1 in vitro, supporting microbiota-derived EV signaling. Overall, these findings suggest that UA modulates THSG absorption and disposition through coordinated intestinal, hepatic, and microbiota-related pathways, providing pharmacokinetic and mechanistic evidence for understanding the combination of these two medicinal and edible foods.",
+        "source": "PubMed",
+        "doi": "10.1016/j.foodres.2026.119431",
+        "keyword": "Exosomes",
+        "title_ja": "サンザシの有効成分であるウルソール酸による、何首烏由来の2,3,5,4'-テトラヒドロキシスチルベン-2-O-β-D-グルコシドの取り込みと代謝の促進",
+        "summary_ja": "サンザシ由来のウルソール酸（UA）が、何首烏由来のTHSGの吸収と代謝に及ぼす影響を検討した。THSGの長期・高用量摂取は肝毒性を誘発する可能性があるが、両植物は併用されることが多く、その機序は不明であった。In vitro腸管灌流実験では、サンザシ処理何首烏煎じ薬がTHSG吸収を有意に促進した。In vivo薬物動態解析では、UAがTHSGのCmaxを上昇させ、Tmaxおよびt₁/₂βを短縮した。機序として、UAは腸管排出トランスポーターMRP2を下方制御し、肝臓のUGT1A1発現を上方制御した。qRT-PCR解析により、UAは血清エクソソームmiR-150-5pを減少させ、miR-150-5pがUGT1A1 mRNAを直接阻害することが確認された。また、UAはClostridium属を増加させ、Clostridium butyricum由来の細胞外小胞が肝細胞に取り込まれUGT1A1を"
+      }
+    ],
+    "農学": [],
+    "工学": [
+      {
+        "title": "Engineering RVG-modified exosomes for targeting TGF-β1 signaling in stroke recovery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42215998/",
+        "abstract": "To investigate the role of TGF-β1 signaling in astrocyte-neuron interactions after ischemic stroke and to develop a brain-targeted engineered exosome system, EXO-RVG-SD208, for promoting neural repair.",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-08271-2",
+        "keyword": "Exosomes",
+        "title_ja": "脳卒中回復におけるTGF-β1シグナル伝達を標的としたRVG修飾エクソソームの工学設計",
+        "summary_ja": "脳梗塞後のアストロサイトとニューロン間のTGF-β1シグナル伝達の役割を解明し、神経修復を促進する脳標的型エクソソームシステム「EXO-RVG-SD208」を開発した。RVGペプチドで修飾したエクソソームにTGF-β1阻害剤SD208を搭載し、脳梗塞モデルマウスに投与した結果、病変部への選択的送達とTGF-β1シグナルの抑制が確認された。これにより、アストロサイトの活性化制御とニューロン保護が促進され、神経機能回復が有意に向上した。本システムは、脳梗塞後のTGF-β1を介したグリア-ニューロン相互作用を標的とした新規治療戦略として有望である。"
+      }
+    ],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます（500文字以内）。\n\n1. **全身性硬化症における血小板と好中球由来ミトコンドリアDNAの協調放出**  \n   ミトコンドリアDNA（mtDNA）が血小板と好中球から協調的に放出され、インターフェロンシグネチャーを駆動するメカニズムを解明。自己免疫疾患の新たな病態理解と治療標的として重要。\n\n2. **pMMR/MSS大腸癌におけるアパチニブと抗PD-1療法の併用**  \n   アパチニブがExo70を介したエクソソーム分泌を阻害し、免疫チェックポイント阻害薬の効果を増強。免疫療法抵抗性の克服に有望な戦略。\n\n3. **脳梗塞後のTGF-β1標的エクソソーム治療**  \n   RVG修飾エクソソームにTGF-β1阻害剤を搭載し、脳標的型デリバリーシステムを開発。神経修復促進と副作用低減の両立が期待される。\n\n4. **骨健康と疾患におけるエクソソームの役割とAI応用**  \n   骨芽細胞やMSCs由来エクソソームが骨リモデリングや再生を調節。AIによるエクソソーム解析が再生医療の個別化を加速する可能性。\n\n5. **HER2陽性乳がんエクソソームのペプチドプローブ診断**  \n   HER2結合ペプチドを用いた蛍光プローブで、エクソソーム膜タンパク質を高感度検出。非侵襲的診断と治療モニタリングへの応用が期待される。\n\nこれらの研究は、細胞外小胞や免疫・代謝シグナルを標的とした新規治療・診断法の基盤を築く点で極めて重要です。"
+}

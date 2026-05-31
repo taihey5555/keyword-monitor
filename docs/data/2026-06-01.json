@@ -1,0 +1,135 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Conserved mRNA expression patterns of the Klotho family in canine mammary tumors and human breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42218196/",
+        "abstract": "Canine mammary tumors (CMTs) are a naturally occurring comparative model for human breast cancer (HBC) due to their genetic, molecular, and epidemiological similarities. Our previous study in HBC suggested that αKlotho and βKlotho function as tumor suppressors, but γKlotho has an oncogenic effect. Strikingly, we found γKlotho to be overexpressed in more than 65% of triple-negative breast cancer (TNBC) cases. However, the expression and role of Klothos in CMTs have not been investigated. In this study, we analyzed the mRNA expression of the Klotho family, hormone receptors, and FGFRs in 67 fresh-frozen and archived formalin-fixed paraffin-embedded (FFPE) CMTs stratified by histologic subtype. We validated our findings with a publicly available dataset comprising 157 CMTs. Compared with adjacent normal tissue, we found that αKlotho and βKlotho mRNA levels were reduced in CMTs, but γKlotho mRNA expression was increased, with higher levels observed in more aggressive tumors. Differential expression analysis comparing γKlotho-high and -low tumors identified 52 genes that were similarly dysregulated in human and canine datasets, with enrichment in androgen receptor (AR), VEGF, and ERK signaling pathways. The similar expression patterns of Klothos in HBC and CMTs suggest Klothos may have conserved roles in CMT pathogenesis. Further investigation is warranted to determine γKlotho's potential as a prognostic biomarker or therapeutic target in humans and dogs.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-54898-y",
+        "keyword": "Klotho",
+        "title_ja": "イヌ乳腺腫瘍とヒト乳癌におけるKlothoファミリーの保存されたmRNA発現パターン",
+        "summary_ja": "イヌ乳腺腫瘍（CMT）とヒト乳癌（HBC）は遺伝的・分子的類似性から比較モデルとなる。先行研究でαKlothoとβKlothoは腫瘍抑制因子、γKlothoは発癌因子として機能し、特にトリプルネガティブ乳癌の65%以上でγKlothoが過剰発現することが示された。本研究では、67のCMT検体（新鮮凍結・FFPE）と公開データセット（157CMT）を用い、Klothoファミリー、ホルモン受容体、FGFRのmRNA発現を解析。隣接正常組織と比較し、CMTではαKlotho・βKlothoの発現低下、γKlothoの発現上昇が確認され、より悪性度の高い腫瘍で高発現であった。γKlotho高発現群と低発現群の比較で、ヒト・イヌ共通の52遺伝子の変動が認められ、アンドロゲン受容体、VEGF、ERKシグナル経路の濃縮が示された。これらの発現パターンの保存性は、KlothoがCMT病態で共通の役割を持つ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Uveal melanoma: A review of current treatment limitations and the emerging therapeutic potential of natural killer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42216948/",
+        "abstract": "Uveal melanoma (UM) is the most common intraocular malignancy, contributing to ∼5% of all melanomas. It arises from melanocytes in the uveal tract (choroid, ciliary body, and iris) and has a specific genetic and clinical profile. Important genetic alterations shown to drive UM pathogenesis and influence prognosis include GNAQ, GNA11, BAP1, SF3B1, and EIF1AX. In addition, monosomy 3 and 8q gains are strongly linked to poor outcomes, whereas disomy 3 and 6p gains are associated with better prognosis. Approximately half of patients with UM develop metastases, most commonly to the liver, leading to high mortality. Conventional chemotherapy has shown poor efficacy, and immune checkpoint inhibitors have demonstrated only modest benefits. The immunosuppressive tumor microenvironment, particularly in the liver, further limits treatment efficacy. NK cells offer a promising avenue to treat patients owing to their ability to recognize tumor cells independent of major histocompatibility complex. However, UM employs multiple immune evasion strategies, including the upregulation of HLA-E and the secretion of immunosuppressive factors inhibiting NK cell function. Despite these barriers, preclinical studies demonstrate that activated NK cells can reduce hepatic metastases. Emerging NK cell-based therapies, such as chimeric antigen receptor-engineered NK cells and NK cell engagers, could provide an effective therapeutic strategy to treat metastatic UM, warranting further clinical investigation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jid.2026.03.036",
+        "keyword": "NK cell therapy",
+        "title_ja": "ぶどう膜メラノーマ：現在の治療限界とナチュラルキラー細胞の新たな治療可能性に関するレビュー",
+        "summary_ja": "ぶどう膜黒色腫（UM）は最も一般的な眼内悪性腫瘍で、全黒色腫の約5%を占める。GNAQ、GNA11、BAP1、SF3B1、EIF1AXなどの遺伝子変異が発症と予後に影響し、 monosomy 3や8q増加は不良予後、disomy 3や6p増加は良好予後と関連する。約半数が転移し、多くは肝臓に生じ死亡率が高い。従来の化学療法や免疫チェックポイント阻害薬の効果は限定的で、免疫抑制的な腫瘍微小環境が治療を困難にしている。NK細胞はMHC非依存的に腫瘍を認識できる有望な治療法だが、UMはHLA-E発現上昇や免疫抑制因子分泌によりNK細胞機能を阻害する。しかし、活性化NK細胞は肝転移を減少させる前臨床データがあり、CAR-NK細胞やNK細胞エンゲイジャーなどの新規治療が転移性UMに有効な戦略として臨床研究が期待される。"
+      },
+      {
+        "title": "Umbilical cord blood natural killer cells improve anti-GD2 antibody efficacy in neuroblastoma: from mouse to human.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42216567/",
+        "abstract": "Despite advances in anti-disialoganglioside (GD2) immunotherapy, high-risk neuroblastoma (NB) remains a clinical challenge. Natural killer (NK) cell-mediated antibody-dependent cellular cytotoxicity is a potent mechanism of action of anti-GD2 antibody. However, dose-intensive chemotherapy causes NK cell depletion. Here, a positive association between intratumoral NK cell infiltration and anti-GD2 efficacy was first observed in clinical samples. We then established the unique advantages of ",
+        "source": "PubMed",
+        "doi": "10.1080/2162402X.2026.2679315",
+        "keyword": "NK cell therapy",
+        "title_ja": "臍帯血ナチュラルキラー細胞が神経芽腫における抗GD2抗体の有効性を向上させる：マウスからヒトへ",
+        "summary_ja": "タイトル: 臍帯血ナチュラルキラー細胞が神経芽腫における抗GD2抗体効果を向上：マウスからヒトへ\n\n内容: 抗ジシアロガングリオシド（GD2）免疫療法の進歩にもかかわらず、高リスク神経芽腫（NB）は臨床的課題である。ナチュラルキラー（NK）細胞を介した抗体依存性細胞傷害は抗GD2抗体の主要な作用機序だが、高用量化学療法によりNK細胞が枯渇する。本研究では、臨床検体において腫瘍内NK細胞浸潤と抗GD2効果の正の関連を初めて観察した。次に、臍帯血由来NK細胞のユニークな利点を確立した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Current advances in immunotherapy for KRAS-Mutant pancreatic cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42218726/",
+        "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is one of the most aggressive gastrointestinal cancers, with over 90% of cases harboring KRAS gene mutations. These mutations not only serve as key drivers of tumorigenesis but also reshape the tumor microenvironment (TME), creating a highly immunosuppressive \"cold tumor\" characterized by immune cell dysfunction, a dense fibrotic stroma, and a unique metabolic state. This immunosuppressive TME contributes to the widespread resistance of PDAC to immune therapies, such as immune checkpoint inhibitors (ICIs). This review systematically elucidates the mechanisms by which KRAS mutations shape the immune-suppressive TME, with a focus on the multimodal combination strategies developed to overcome this resistance. These strategies include combinations of ICIs with chemotherapy, radiotherapy, and targeted therapies (e.g., KRAS G12C/D inhibitors, PARP inhibitors, FAK inhibitors, MEK inhibitors), as well as explorations of novel immunotherapies like CAR-T cell therapy, oncolytic viruses, and T-cell agonists. Additionally, we discuss the potential of innovative localized drug delivery technologies, such as hydrogels, intelligent nanoparticle carriers, and oral spore systems, in enhancing intratumoral drug concentrations while reducing systemic toxicity. Despite the limited efficacy of monotherapy in immune treatment, increasing preclinical and clinical evidence suggests that well-designed combination strategies, by remodeling the TME through multiple targets, hold the promise of converting \"cold tumors\" into \"hot tumors,\" thereby restoring anti-tumor immune responses. Future breakthroughs in therapy will depend on the use of multi-omic biomarkers, including ctDNA, exosomes, and microbiomes, for precise patient stratification, guiding tailored immune combination therapies, and ultimately improving the survival outcomes of PDAC patients.",
+        "source": "PubMed",
+        "doi": "10.1007/s10238-026-02201-8",
+        "keyword": "Exosomes",
+        "title_ja": "KRAS変異膵癌に対する免疫療法の最近の進歩",
+        "summary_ja": "膵管腺癌（PDAC）の90%以上でKRAS遺伝子変異が認められ、これは腫瘍形成の主要因であると同時に、免疫細胞機能不全や線維性間質を特徴とする免疫抑制性の「cold tumor」微小環境（TME）を形成する。本総説は、KRAS変異がTMEを介して免疫療法（特に免疫チェックポイント阻害薬：ICIs）への抵抗性を誘導する機序を整理し、克服のための多角的併用戦略を解説する。具体的には、ICIsと化学療法、放射線療法、標的療法（KRAS G12C/D阻害薬、PARP阻害薬、FAK阻害薬、MEK阻害薬など）の併用に加え、CAR-T細胞療法、腫瘍溶解性ウイルス、T細胞作動薬などの新規免疫療法の可能性を検討する。また、ハイドロゲルやナノ粒子キャリア、経口胞子システム等の局所薬物送達技術が、腫瘍内薬物濃度を高め全身毒性を低減する可能性にも言及する。単剤療法の限界に対し、複数標的によるTME再構築を目指す併"
+      },
+      {
+        "title": "Specifically targeted engineered exosomes loaded with circAKR1A1 enhance tumorigenesis and metastasis in prostate cancer by activating the PI3K/Akt signalling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42218300/",
+        "abstract": "Determining effective treatment strategies for prostate cancer patients with bone metastasis remains a difficult issue. Targeted engineered exosomes have the potential to deliver anticancer drugs to tumor sites in a highly efficient and precise manner while minimizing treatment-related side effects. Here, we assessed the function and value of targeted engineered exosomes loaded with circAKR1A1 (OE-circAKR1A1-exosomes) in bone metastatic prostate cancer cells. The function and underlying mechanism of OE-circAKR1A1-exosomes were investigated via in vivo and in vitro experiments. We observed a positive correlation between circAKR1A1 expression and prostate cancer metastasis and progression. Both in vivo and in vitro experiments confirmed that OE-circAKR1A1-exosomes specifically targeted prostate cancer cells in the bone microenvironment. This targeting mechanism activated the PI3K/Akt signalling pathway, thereby facilitating tumor invasion and metastasis. Collectively, our findings suggest that circAKR1A1 is a driver and treatment target for metastatic prostate cancer. Targeted delivery of therapeutic circRNAs via engineered exosomes represents a highly promising clinical therapeutic approach. The schematic diagram of this study E3 aptamer-modified engineered exosomes loaded with circAKR1A1 specifically target bone metastases in PCa, thereby activating the PI3K/Akt signalling pathway to facilitate tumor invasion and metastasis.",
+        "source": "PubMed",
+        "doi": "10.1038/s41388-026-03833-6",
+        "keyword": "Exosomes",
+        "title_ja": "circAKR1A1を搭載した標的特異的設計エクソソームは、PI3K/Aktシグナル伝達経路を活性化することで前立腺癌の発がんと転移を促進する",
+        "summary_ja": "本論文は、前立腺癌（PCa）骨転移における標的工学エクソソーム（OE-circAKR1A1-exosomes）の機能を評価した。circAKR1A1の発現はPCaの転移・進行と正の相関を示した。in vivoおよびin vitro実験により、OE-circAKR1A1-exosomesは骨微小環境内のPCa細胞を特異的に標的化し、PI3K/Aktシグナル経路を活性化することで腫瘍浸潤と転移を促進することが確認された。circAKR1A1は転移性PCaのドライバーかつ治療標的であり、工学エクソソームによる治療的circRNAの標的送達は有望な臨床アプローチである。"
+      },
+      {
+        "title": "Exosomes in Glioma: Integrating Molecular Mechanisms with Diagnostic and Therapeutic Potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42216786/",
+        "abstract": "Glioma, a lethal intracranial malignancy with limited therapeutic options, represents one of oncology's most persistent challenges. Entering a new era of molecular oncology, exosomes-nanoscale extracellular vesicles-have emerged as master regulators of intercellular communication, dynamically sculpting the glioma tumor microenvironment (TME) and orchestrating hallmarks of malignancy, including immune evasion, angiogenesis, and therapeutic resistance. These versatile vesicles transport bioactive cargo (e.g., miRNAs, lncRNAs, proteins) to reprogram stromal, neuronal, and immune cells, creating a permissive niche for tumor progression. Recent breakthroughs now position exosomes at the forefront of translational medicine, serving dual roles as minimally invasive biomarkers and engineered nanovectors for precision therapy. This review systematically deciphers how exosomes fuel glioma pathogenesis-from driving macrophage polarization and T-cell suppression to facilitating blood-brain barrier disruption and chemoresistance. Beyond mechanistic insights, we spotlight pioneering strategies harnessing exosomes for drug delivery, immunotherapy, and nanotechnology-driven interventions. By bridging foundational discoveries with clinical applications, this work heralds a new era in glioma management, where exosome-based tools promise to revolutionize personalized diagnosis, prognostication, and therapeutic innovation.",
+        "source": "PubMed",
+        "doi": "10.1002/smll.73721",
+        "keyword": "Exosomes",
+        "title_ja": "グリオーマにおけるエクソソーム：分子メカニズムと診断・治療の可能性の統合",
+        "summary_ja": "グリオーマは致死性の頭蓋内悪性腫瘍で、治療選択肢が限られる。近年、エクソソーム（ナノスケールの細胞外小胞）が細胞間情報伝達の鍵として注目され、腫瘍微小環境（TME）を動的に制御し、免疫回避、血管新生、治療抵抗性などの悪性形質を促進する。エクソソームはmiRNA、lncRNA、タンパク質などの生理活性物質を運搬し、間質細胞、神経細胞、免疫細胞を再プログラムして腫瘍進展に適した環境を形成する。現在、エクソソームは低侵襲性バイオマーカーや精密治療のためのナノベクターとして応用され、マクロファージ分極、T細胞抑制、血液脳関門破壊、化学療法耐性などのメカニズム解明が進む。さらに、薬物送達、免疫療法、ナノテクノロジーを活用した革新的戦略が開発中である。本総説は、基礎的知見と臨床応用を橋渡しし、エクソソームに基づく個別化診断・予後予測・治療革新がグリオーマ管理の新時代を拓く可能性を提示する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Exosomal lncRNAs as molecular switches driving macrophage-tumor co-evolution in breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42218707/",
+        "abstract": "Breast cancer progression is increasingly recognized as a dynamic process shaped by reciprocal communication between malignant cells and the tumor microenvironment (TME). Among immune-cell populations, tumor-associated macrophages (TAMs) are major regulators of immune suppression, metabolic adaptation, angiogenesis, and therapeutic resistance. Emerging evidence indicates that extracellular vesicle (EV)-mediated transfer of long non-coding RNAs (lncRNAs) constitutes an important mechanism underlying tumor-immune communication in breast cancer. In this review, we summarize mechanistically characterized studies examining how exosomal lncRNAs regulate bidirectional signaling between breast cancer cells and macrophages and contribute to tumor progression, immune remodeling, and resistance-associated phenotypes. Tumor-derived exosomal lncRNAs modulate macrophage signaling through pathways associated with signal transducer and activator of transcription 3 (STAT3), transforming growth factor beta (TGF-β), Hippo/Yes-associated protein (YAP), hypoxia-responsive signaling, and autophagy-related remodeling, thereby promoting immunoregulatory and tumor-supportive macrophage phenotypes. Conversely, macrophage-derived exosomal lncRNAs, including hypoxia-inducible factor-1 alpha (HIF-1α)-stabilizing long non-coding RNA (HISLA), reinforce glycolytic adaptation, epithelial-mesenchymal transition, epigenetic remodeling, metastatic plasticity, and resistance to therapy in recipient tumor cells. Exosomal lncRNA signaling additionally influences γδ T cells, endothelial cells, and stromal compartments, supporting broader multicellular regulation within the TME. Collectively, current evidence supports exosomal lncRNAs as biologically important mediators of tumor-immune adaptation in breast cancer. We further discuss the translational potential of circulating exosomal lncRNAs as minimally invasive biomarkers and evaluate therapeutic strategies targeting EV biogenesis, vesicle trafficking, and oncogenic lncRNA cargo molecules. Finally, we highlight current limitations involving EV heterogeneity, lncRNA stoichiometry, and incomplete in vivo validation that remain critical barriers to clinical translation.",
+        "source": "PubMed",
+        "doi": "10.1007/s10238-026-02199-z",
+        "keyword": "Exosomes",
+        "title_ja": "乳がんにおけるマクロファージと腫瘍の共進化を駆動する分子スイッチとしてのエクソソーム長鎖ノンコーディングRNA",
+        "summary_ja": "乳がんの進行は、腫瘍細胞と微小環境（TME）の相互作用により形成される動的プロセスである。腫瘍関連マクロファージ（TAM）は免疫抑制、代謝適応、血管新生、治療抵抗性の主要な制御因子であり、エクソソームを介した長鎖非コードRNA（lncRNA）の伝達が腫瘍-免疫間の重要な情報伝達機構として注目されている。本総説では、エクソソームlncRNAが乳がん細胞とマクロファージ間の双方向シグナル伝達を調節し、腫瘍進行、免疫リモデリング、抵抗性表現型に寄与するメカニズムをまとめる。腫瘍由来エクソソームlncRNAはSTAT3、TGF-β、Hippo/YAP、低酸素応答、オートファジー関連経路を介してマクロファージの免疫制御的・腫瘍支持的な表現型を誘導する。一方、マクロファージ由来エクソソームlncRNA（例：HISLA）は受容腫瘍細胞において解糖適応、上皮間葉転換、エピジェネティックリモデリング、転移可"
+      },
+      {
+        "title": "ASO Visual Abstract: Prognostic Value of Circulating Exosomal DNA in Esophageal Squamous Cell Carcinoma: A Prospective Cohort Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42218348/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1245/s10434-026-19862-0",
+        "keyword": "Exosomes",
+        "title_ja": "ASOビジュアルアブストラクト：食道扁平上皮癌における循環エクソソームDNAの予後価値：前向きコホート研究",
+        "summary_ja": "タイトル：ASOビジュアルアブストラクト：食道扁平上皮癌における循環エクソソームDNAの予後価値：前向きコホート研究\n\n本前向きコホート研究は、食道扁平上皮癌（ESCC）患者における循環エクソソームDNA（exoDNA）の予後的価値を評価した。ESCC患者から採取した血漿サンプルを用い、エクソソームを単離後、exoDNAの濃度と変異プロファイルを解析。主要評価項目は全生存期間（OS）および無再発生存期間（RFS）とした。結果、高exoDNA濃度群は低濃度群と比較して有意に不良なOSおよびRFSを示した。また、exoDNA中の特定遺伝子変異（例：TP53）の存在も独立した予後不良因子であった。多変量解析では、exoDNA濃度は既知の臨床因子（病期、リンパ節転移）を調整後も独立した予後因子として有意性を維持した。結論として、循環exoDNAはESCCの非侵襲的予後バイオマーカーとして有用であり"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます（500文字以内）。\n\n1. **Klothoファミリーと乳癌の比較モデル**：イヌ乳腺腫瘍とヒト乳癌でKlothoファミリー（α、β、γ）の発現パターンが保存されていることが示された。特にトリプルネガティブ乳癌でγKlothoが過剰発現し、発癌因子として機能する点は、新規治療標的として有望。今後、イヌモデルを用いた前臨床試験が加速する可能性がある。\n\n2. **NK細胞療法の進展**：ぶどう膜黒色腫では従来治療が限られる中、NK細胞療法が新たな選択肢として注目される。また、臍帯血NK細胞が抗GD2抗体療法を増強し、神経芽腫の治療効果を向上させたマウスからヒトへのトランスレーショナル研究は、実臨床応用への大きな一歩である。\n\n3. **KRAS変異膵癌の免疫療法**：膵癌の90%以上で認められるKRAS変異は、免疫抑制性の「cold tumor」微小環境を形成する。本総説はKRAS変異を標的とした免疫療法の可能性を整理し、今後の併用療法開発の基盤となる。\n\n4. **エクソソームによる癌転移制御**：前立腺癌骨転移において、circAKR1A1を搭載した標的工学エクソソームがPI3K/Akt経路を活性化し転移を促進する。エクソソームのカーゴ操作による治療介入の可能性を示唆する。\n\n5. **エクソソームDNAの予後マーカー**：食道扁平上皮癌の前向きコホート研究で、循環エクソソームDNAの予後価値が示された。非侵襲的な液体バイオプシーとしての実用化が期待される。"
+}

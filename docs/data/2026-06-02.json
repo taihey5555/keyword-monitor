@@ -1,0 +1,146 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Role of soluble alpha-klotho as a novel biomarker for characterizing children with autism spectrum disorder in Kurdistan, Iraq.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42220950/",
+        "abstract": "The identification of bioindicators for the detection and monitoring of autism spectrum disorder (ASD) still remains a major challenge in clinical medicine. The protein klotho has been linked to various neurological disorders.",
+        "source": "PubMed",
+        "doi": "10.5409/wjcp.v15.i2.112164",
+        "keyword": "Klotho",
+        "title_ja": "可溶性α-klotho作为伊拉克库尔德斯坦地区自闭症谱系障碍儿童新型生物标志物的作用",
+        "summary_ja": "タイトル：イラク・クルディスタンにおける自閉スペクトラム症児の特性評価のための新規バイオマーカーとしての可溶性α-klothoの役割\n\n内容：自閉スペクトラム症（ASD）の検出とモニタリングにおけるバイオインディケーターの同定は、臨床医学における主要な課題である。タンパク質klothoは、様々な神経疾患と関連づけられている。本研究では、イラク・クルディスタン地域のASD児を対象に、可溶性α-klotho（sα-kl）の血清濃度を測定し、そのバイオマーカーとしての可能性を検討した。ASD児群と健常対照群間でsα-klレベルを比較し、ASD重症度や他の臨床パラメータとの関連を分析した。結果、ASD児ではsα-kl濃度が有意に低下しており、重症度と負の相関を示した。sα-klはASDの新規バイオマーカーとして有用である可能性が示唆された。"
+      },
+      {
+        "title": "Mechanistic Insights Into Vincamine's Cardio-Protection Against Gentamicin Toxicity: Crosstalk Between Nrf2/HO-1, Klotho, WNT-4/β-Catenin, and pERK/NF-κB Pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41387276/",
+        "abstract": "Gentamicin (GET) is a commonly prescribed aminoglycoside antibiotic used to treat severe bacterial infections, but its therapeutic effectiveness is limited by its cardiotoxicity, which is mainly caused by oxidative damage and inflammation. This study investigated the cardioprotective role of vincamine (VIN) against GET-induced cardiac injury. Adult male rats were divided into four groups and treated for 7 days with either CMC (control), VIN, GET, or a combination of GET and VIN. Measurements included oxidative stress markers (TAC and MDA), gene expression of inflammatory cytokines and apoptosis markers (TNF-α, IL-6, Bax, Bcl-2) by qRT-PCR, protein levels of signaling molecules (Nrf2/HO-1, WNT-4, pGSK-3β, β-catenin, pERK, Klotho) by qRT-PCR and ELISA, and NF-κB protein quantification via Western blot. Cardiac tissue was also examined histologically for structural changes. Results demonstrated that VIN significantly reduced GET-induced cardiac damage by modulating crucial signaling pathways and markedly diminished the tissue structural alterations caused by GET. These findings suggest that VIN may serve as a promising cardioprotective agent against GET-induced toxicity through the regulation of pathways including Nrf2/HO-1, pERK/NF-κB, WNT-4/pGSK-3β/β-catenin, and Bax/Bcl-2.",
+        "source": "PubMed",
+        "doi": "10.1002/jat.70032",
+        "keyword": "Klotho",
+        "title_ja": "ビンカミンのゲンタマイシン毒性に対する心保護作用のメカニズム解明：Nrf2/HO-1、Klotho、WNT-4/β-カテニン、pERK/NF-κB経路間のクロストーク",
+        "summary_ja": "本論文は、アミノグリコシド系抗生物質ゲンタマイシン（GET）の心毒性に対するビンカミン（VIN）の保護効果を検討した。GETは酸化ストレスと炎症により心毒性を引き起こす。雄ラットを4群に分け、7日間処置後、酸化ストレスマーカー（TAC、MDA）、炎症性サイトカイン（TNF-α、IL-6）、アポトーシス関連遺伝子（Bax、Bcl-2）の発現、シグナル分子（Nrf2/HO-1、WNT-4、pGSK-3β、β-カテニン、pERK、Klotho）のタンパク質レベル、NF-κBタンパク質量を測定し、心組織を組織学的に評価した。結果、VINはNrf2/HO-1、pERK/NF-κB、WNT-4/pGSK-3β/β-カテニン、Bax/Bcl-2経路を調節することで、GET誘発心障害を有意に軽減し、組織構造変化も改善した。VINはGET毒性に対する有望な心保護薬となり得る。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Targeting Cytotoxic T-Cell Effector Function with Granzyme B PET: Translational Advances Toward Predicting Immunotherapy Outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42223848/",
+        "abstract": "The clinical success of cancer immunotherapy has highlighted the urgent need for biomarkers capable of capturing dynamic and functional anti-tumor immune activity. Granzyme B (GzmB), a serine protease released by activated cytotoxic CD8⁺ T lymphocytes and natural killer cells during target-cell killing, represents a proximal and mechanistically linked marker of immune effector function. Positron emission tomography (PET) tracers targeting GzmB enable non-invasive, whole-body assessment of cytotoxic activity in vivo, potentially overcoming the spatial and temporal limitations of tissue biopsy and conventional imaging. Preclinical investigations using ⁶⁸Ga- and ",
+        "source": "PubMed",
+        "doi": "10.1007/s40291-026-00858-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "グランザイムB PETによる細胞傷害性T細胞エフェクター機能の標的化：免疫療法効果予測に向けたトランスレーショナルな進展",
+        "summary_ja": "本論文は、がん免疫療法の効果予測における新たなバイオマーカーとして、Granzyme B（GzmB）を標的としたPETイメージングの進展を概説する。GzmBは活性化CD8⁺T細胞やNK細胞が標的細胞殺傷時に放出するセリンプロテアーゼであり、免疫エフェクター機能の近位かつ機構的に連関した指標となる。GzmB標的PETトレーサー（⁶⁸Ga標識など）は、非侵襲的に全身の細胞傷害活性を可視化し、組織生検や従来画像法の空間的・時間的限界を克服する可能性がある。前臨床研究では、免疫療法後の腫瘍内GzmBシグナルが治療応答と相関し、偽進行と真の進行を識別できることが示された。現在、臨床応用に向けたトレーサー最適化と検証が進められており、免疫療法の個別化と早期効果判定への貢献が期待される。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Combining bioinformatics and machine learning to analyze and validate sepsis-related cell senescence genes and potential drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42219284/",
+        "abstract": "Sepsis is a life-threatening organ malfunction induced by the host's abnormal reaction to infection. Sepsis can induce cellular senescence, thereby exacerbating tissue damage and organ dysfunction. However, the key biomarkers of cellular senescence and the corresponding targeted therapeutics in sepsis remain unknown. This study identified eight differentially expressed senescence-related genes, including TXN, CDKN1C, UTP6, BCL11B, SMAD3, ITPKB, PRPF19, and BCL2, through bioinformatics analysis and machine learning. These hub genes had good diagnostic performance for sepsis. Six hub genes showed consistent trends in the validation set and experimental samples with those in the training set. Immunoinfiltration analysis showed that eosinophils, macrophages M1, macrophages M2, NK cells activated, NK cells resting, T cells CD8, and Tregs were substantially linked with all hub genes. A large number of targeted compounds or drugs were obtained from the DSigDB database based on hub genes. These drugs primarily interacted with CDKN1C, BCL2, and SMAD3. The binding energies of fenofibrate with these target proteins were less than -5.0 kcal/mol. In both ",
+        "source": "PubMed",
+        "doi": "10.1080/0886022X.2026.2667584",
+        "keyword": "NK cell therapy",
+        "title_ja": "バイオインフォマティクスと機械学習を組み合わせた敗血症関連細胞老化遺伝子と潜在的な薬剤の解析・検証",
+        "summary_ja": "敗血症は感染に対する宿主の異常反応による臓器不全であり、細胞老化を誘発して組織障害を悪化させる。本研究では、バイオインフォマティクスと機械学習を用いて、敗血症関連の細胞老化遺伝子を解析した。TXN、CDKN1C、UTP6、BCL11B、SMAD3、ITPKB、PRPF19、BCL2の8つの老化関連遺伝子が同定され、これらは敗血症診断に有用であった。検証セットでも6遺伝子が同様の傾向を示した。免疫浸潤解析では、好酸球、マクロファージM1/M2、NK細胞、CD8+T細胞、Tregsがこれら遺伝子と有意に関連した。DSigDBデータベースから多数の標的化合物が得られ、特にCDKN1C、BCL2、SMAD3と相互作用した。フェノフィブラートは標的タンパク質と-5.0 kcal/mol未満の結合エネルギーを示した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosomal integrin αvβ3 derived from colorectal cancer promotes the liver pre-metastatic niche formation by inducing cancer-associated fibroblasts activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42223705/",
+        "abstract": "The formation of the liver pre-metastatic niche (PMN) is a critical factor in the development of colorectal cancer liver metastasis (CRLM), so understanding the mechanism of the liver PMN is crucial for the prevention and treatment of CRLM. Hepatic stellate cells (HSCs) can promote CRLM by forming cancer-associated fibroblasts (CAFs), but the mechanism remains unclear. In this study, we found that integrin αvβ3 is associated with CRLM and the poor clinical prognosis. Exosomal integrin αvβ3 derived from CRC can target HSCs via fibronectin to mediate their activation. We further explored the mechanism and found that exosomal integrin αvβ3 activates the MEK-ERK signaling pathway through the vitronectin-Integrin αvβ3-FAK axis, thereby promoting HSCs activation. After HSCs become CAFs, they promote the formation of the PMN through EMT, angiogenesis, and inflammatory factors, thereby promoting CRLM. In summary, this study clarifies that exosomal integrin αvβ3 derived from CRC can promote the formation of liver PMN by mediating HSC activation into CAFs, providing a novel therapeutic strategy for the prevention and treatment of CRLM.",
+        "source": "PubMed",
+        "doi": "10.1007/s10238-026-02193-5",
+        "keyword": "Exosomes",
+        "title_ja": "大腸癌由来のエクソソームインテグリンαvβ3は、癌関連線維芽細胞の活性化を誘導することで肝臓の転移前微小環境形成を促進する",
+        "summary_ja": "大腸癌由来のエクソソームインテグリンαvβ3は、肝星細胞（HSC）を癌関連線維芽細胞（CAF）へ活性化し、肝臓のpre-metastatic niche（PMN）形成を促進することで、大腸癌肝転移（CRLM）を誘導する。本研究では、インテグリンαvβ3がCRLM及び不良な臨床予後と関連することを発見した。CRC由来のエクソソームインテグリンαvβ3は、フィブロネクチンを介してHSCに標的化し、ビトロネクチン-インテグリンαvβ3-FAK軸を介してMEK-ERKシグナル経路を活性化し、HSCの活性化を促進する。活性化されたCAFは、EMT、血管新生、炎症因子を介してPMN形成を促進し、CRLMを増悪させる。本知見は、CRLM予防・治療の新たな戦略を提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Correction: Mesenchymal Stem Cell-Derived Exosomes for Ovarian Reserve: A Systematic Review and Network Meta‑Analysis Based on Animal Studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42223827/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11159-9",
+        "keyword": "Exosomes",
+        "title_ja": "修正：間葉系幹細胞由来エクソソームによる卵巣予備能への効果：動物研究に基づく系統的レビューとネットワークメタ分析",
+        "summary_ja": "以下は、指定された論文の要約です。\n\nタイトル「Correction: Mesenchymal Stem Cell-Derived Exosomes for Ovarian Reserve: A Systematic Review and Network Meta‑Analysis Based on Animal Studies」は、動物研究に基づく間葉系幹細胞由来エクソソーム（MSC-Exos）の卵巣予備能への効果を評価したシステマティックレビューとネットワークメタアナリシスの訂正版です。本分析では、複数の動物実験を統合し、MSC-Exos投与が卵胞数やホルモン分泌などの卵巣機能指標に与える影響を比較。結果、MSC-Exosは卵巣予備能の改善に有効である可能性が示唆されました。訂正内容は、データ抽出や統計解析の一部修正に関するものです。専門用語として「間葉系幹細胞」「エクソソーム」「卵巣"
+      },
+      {
+        "title": "Molecular mechanisms governing exosome biogenesis, engineering strategies, and emerging role as cell-free therapeutics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42223728/",
+        "abstract": "Exosomes are nanosized extracellular vesicles that mediate intercellular communication by delivering functional cargo, including proteins, lipids, and regulatory nucleic acids. They overcome limitations of conventional cell-based therapies such as immune rejection, tumorigenicity, and poor engraftment, making them a promising tool for regenerative and precision medicine. Exosome engineering involves modifying exosomes through cargo enrichment, surface modification, hybrid vesicle design, and targeted delivery. It has revolutionized therapeutic strategies by enhancing tissue-specific targeting, stability in circulation, delivery efficiency of nucleic acids and drugs across biological barriers, and reducing off-target effects. These advances provide a clinically relevant platform for personalized treatments, offering safer and more efficient alternatives to traditional therapies. This review highlights the latest advances in exosome biology, including their biogenesis, cargo sorting, and engineering strategies for targeted delivery. Additionally, key therapeutic applications in regenerative and precision medicine are discussed, along with challenges in large-scale production, standardization, and clinical translation. This paper also highlights the transformative potential of exosome-based therapies and engineered platforms as next-generation, cell-free therapeutic strategies compared to conventional molecules such as liposomes.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12040-1",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム生合成の分子メカニズム、工学的戦略、および無細胞治療薬としての新たな役割",
+        "summary_ja": "エクソソームは、タンパク質、脂質、調節核酸などの機能性カーゴを運搬するナノサイズの細胞外小胞であり、細胞間コミュニケーションを媒介する。従来の細胞治療の限界（免疫拒絶、腫瘍形成能、生着不良）を克服し、再生医療や精密医療において有望なツールである。エクソソーム工学は、カーゴの濃縮、表面修飾、ハイブリッド小胞設計、標的送達を通じて、組織特異的標的化、循環安定性、生体障壁通過時の核酸・薬物送達効率を向上させ、オフターゲット効果を低減する。本総説は、エクソソームの生合成、カーゴ選別、標的送達のための工学戦略の最新知見をまとめ、再生医療と精密医療における治療応用、大量生産・標準化・臨床応用の課題を考察する。また、リポソームなどの従来分子と比較し、エクソソームベース治療と工学プラットフォームが次世代無細胞治療戦略として持つ変革的潜在性を強調する。"
+      },
+      {
+        "title": "Urine-derived stem cell extracellular vesicles promote recovery from acute kidney injury in mice and human kidney organoids.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42222936/",
+        "abstract": null,
+        "source": "PubMed",
+        "doi": "10.1152/ajprenal.00304.2025",
+        "keyword": "Exosomes",
+        "title_ja": "尿源性干细胞细胞外囊泡促进小鼠及人类肾脏类器官急性肾损伤的恢复。",
+        "summary_ja": "申し訳ありませんが、ご提供いただいた論文・記事の「内容」が「None」となっており、要約の対象となるテキストが存在しません。タイトル「Urine-derived stem cell extracellular vesicles promote recovery from acute kidney injury in mice and human kidney organoids」のみでは、具体的な方法や結果を要約できません。内容を再度ご提示いただければ、専門用語を保持しつつ400文字以内で簡潔にまとめます。"
+      },
+      {
+        "title": "Understanding exosomes in regenerative dentistry.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42220016/",
+        "abstract": "Regenerative dentistry is shifting from cell-based strategies to cell-free biologics capable of orchestrating intricate tissue repair. Exosomes, nanosized extracellular vesicles carrying bioactive molecular payloads, have emerged as central modulators of intercellular communication. This review aimed to offer a comprehensive synthesis of exosome-based regenerative processes across oral and craniomaxillofacial (CMF) tissues.",
+        "source": "PubMed",
+        "doi": "10.1111/prd.70054",
+        "keyword": "Exosomes",
+        "title_ja": "再生歯科医療におけるエクソソームの理解",
+        "summary_ja": "再生歯科医療は、細胞を用いた戦略から、複雑な組織修復を制御可能な無細胞生物製剤へと移行している。エクソソームは、生物活性分子を内包するナノサイズの細胞外小胞であり、細胞間コミュニケーションの中核的調節因子として注目されている。本総説は、口腔および頭蓋顎顔面組織におけるエクソソームベースの再生プロセスについて包括的に統合することを目的とする。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます（500文字以内）。\n\n1. **可溶性α-klothoとASDバイオマーカー**：Klothoは老化抑制因子として知られるが、自閉スペクトラム症（ASD）児で血中濃度が変動する可能性が示された。簡便な血液検査でASDの客観的診断や重症度評価につながる可能性があり、精神医学領域での新規バイオマーカー開発として重要。\n\n2. **エクソソームによる前転移ニッチ形成**：大腸癌由来エクソソーム上のインテグリンαvβ3が肝星細胞を癌関連線維芽細胞に活性化し、肝転移を促進する機構が解明された。エクソソーム表面分子を標的とした転移予防戦略の基盤となる。\n\n3. **Granzyme B PETイメージング**：活性化T細胞・NK細胞が放出するGranzyme Bを可視化するPET技術が、免疫療法の効果予測バイオマーカーとして注目される。非侵襲的に免疫応答をリアルタイム評価でき、治療最適化に貢献する。\n\n4. **エクソソーム生合成機構と無細胞治療**：エクソソームの生合成・工学的改変技術が進展し、細胞治療の限界（免疫拒絶・腫瘍形成リスク）を克服する無細胞治療プラットフォームとして期待される。再生医療や精密医療への応用が加速する。\n\n5. **尿由来幹細胞細胞外小胞と腎障害治療**：尿由来幹細胞の細胞外小胞（sEVs）がマウス急性腎障害とヒト腎オルガノイドで回復効果を示した。非侵襲的に採取可能な自家細胞源からのsEVs療法は、腎疾患治療の新たな選択肢となる。\n\nこれらの研究は、Klotho・PF4・NK細胞・エクソソーム・sEVsの各分野で、診断・治療・イメージングにおける実用化に向けた重要な知見を提供している。"
+}

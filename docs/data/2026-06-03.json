@@ -1,0 +1,134 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Exogenous klotho as an adjunct to dapagliflozin ameliorates diabetic kidney disease by restoring mitophagy and mitigating apoptosis and fibrosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42172900/",
+        "abstract": "Diabetic kidney disease (DKD) is a growing global health concern arising as a secondary microvascular complication of diabetes. Despite current therapeutic approaches, significant residual risk persists, highlighting need for an improved treatment strategy. Impaired mitophagy, apoptosis, and fibrosis are key pathomechanisms in DKD progression. The present study aims to investigate the therapeutic potential of novel recombinant human klotho (rh-KL)-dapagliflozin (DAPA) combination in both streptozotocin-induced Type 1 diabetes in Sprague-Dawley rats and high-glucose+recombinant human TGF-β1(HG+rh-TGF-β1)-stimulated NRK-52E cells DKD model. Following treatment, urine, plasma, and renal tissues were harvested and analyzed for biochemical, histological, immunohistochemical, and qRT-PCR analysis. Furthermore, siRNA-mediated klotho knockdown was performed to elucidate its specific role in regulating apoptosis and fibrotic progression in DKD. The combination therapy of rh-KL and DAPA significantly improved metabolic, renal function, and histological analysis demonstrated marked preservation of renal architecture. The co-treatment significantly increased SIRT1, PGC-1α, PINK1, Parkin, and Bcl-2 expression and reduced TGF-β and NF-κB levels in diabetic rats, as evidenced by immunohistochemistry and qRT-PCR. Moreover, combination therapy significantly reduced vimentin, collagen-I, and Bax expression in NRK-52E cells, as confirmed by immunocytochemistry and qRT-PCR analyses. Collectively, the combination therapy showed greater potential than monotherapies to restore mitophagy, inhibit apoptosis, and fibrosis. Further, klotho knockdown confirmed its protective role in DKD, as reduced klotho expression was associated with exacerbated apoptosis and fibrosis under diabetic conditions. This evidence indicates that the rh-KL and DAPA combination enhances renoprotective effects and allows a lower DAPA dose, potentially minimizing adverse effects while improving overall therapeutic outcomes in DKD.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbrc.2026.153965",
+        "keyword": "Klotho",
+        "title_ja": "外因性クロトがダパグリフロジンの補助として、ミトファジーを回復しアポトーシスと線維化を軽減することで糖尿病性腎症を改善する",
+        "summary_ja": "糖尿病性腎症（DKD）は糖尿病の微小血管合併症であり、既存治療にもかかわらず残存リスクが高い。本研究では、新規組換えヒトklotho（rh-KL）とダパグリフロジン（DAPA）の併用療法の治療可能性を、ストレプトゾトシン誘発1型糖尿病ラットおよび高血糖＋TGF-β1刺激NRK-52E細胞モデルで検討した。併用療法は代謝・腎機能を改善し、組織学的に腎構造を保護した。免疫組織化学およびqRT-PCR解析により、SIRT1、PGC-1α、PINK1、Parkin、Bcl-2発現を増加させ、TGF-β、NF-κBを低下。また、vimentin、collagen-I、Bax発現を減少させた。単剤療法よりミトファジー回復、アポトーシス・線維化抑制に優れ、klothoノックダウンによりその保護的役割が確認された。本併用療法はDAPA用量低減と有害作用軽減に寄与し、DKD治療成績向上が期待される。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "CCR2-Guided T",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42226479/",
+        "abstract": "Gouty arthritis (GA) is a recurrent inflammatory joint disease initiated by monosodium urate (MSU) crystal deposition and driven by progressive immune dysregulation. The collapse of immune tolerance, together with persistent synovial inflammation and pathogenic cytokine imbalances, jointly exacerbates joint injury. Here, we design a bioresponsive therapeutic platform composed of regulatory T cell (T",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.71311",
+        "keyword": "Exosomes",
+        "title_ja": "CCR2誘導性T細胞",
+        "summary_ja": "タイトル: CCR2誘導性制御性T細胞プラットフォームによる痛風性関節炎治療\n\n痛風性関節炎（GA）は、尿酸一ナトリウム（MSU）結晶沈着により発症し、免疫調節異常の進行によって駆動される再発性炎症性関節疾患である。免疫寛容の崩壊、持続的な滑膜炎症、病原性サイトカインの不均衡が関節障害を増悪させる。本研究では、制御性T細胞（Treg）から構成される生体応答性治療プラットフォームを設計した。"
+      },
+      {
+        "title": "Efficacy and safety of photothermal biomodulated platelet-rich plasma versus standard platelet-rich plasma for facial rejuvenation: a prospective split-face randomized study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42225690/",
+        "abstract": "Autologous platelet-rich plasma (PRP) regenerative properties are used to treat clinical manifestations of skin aging. This study assessed the efficacy and safety of photothermal biomodulated PRP (PTBM-PRP) compared to standard PRP for skin rejuvenation. Prospective, split-face, randomized study including Thai volunteers (30-60 years) with Fitzpatrick skin type III-IV and moderate severity photoaging or higher conducted at Siriraj Hospital (Bangkok, Thailand). Face sides were randomized to receive intradermal autologous PTBM-PRP or PRP injections in three sessions at one-month intervals, with follow-up visits at one, three, and six months. PRP was preconditioned using the MCT System (Meta Cell Technology, Sant Cugat del Vallès, Spain) preset with the Exosomes program (467 nm continuous light [1 J/cm",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-54310-9",
+        "keyword": "Exosomes",
+        "title_ja": "光熱バイオモジュレーション多血小板血漿と標準多血小板血漿によるフェイシャルリジュビネーションの有効性と安全性：前向きスプリットフェイス無作為化試験",
+        "summary_ja": "この研究は、光熱変調多血小板血漿（PTBM-PRP）と標準PRPの顔面若返り効果と安全性を比較した前向き分割顔面ランダム化試験である。対象はタイ人被験者（30～60歳、Fitzpatrick皮膚タイプIII～IV、中等度以上の光老化）で、3回の皮内注射を1ヶ月間隔で実施し、1、3、6ヶ月後に評価した。PTBM-PRPはMCTシステム（Exosomesプログラム、467nm連続光、1 J/cm²）で前処理された。結果、PTBM-PRPは標準PRPと比較して、皮膚の弾力性、しわ、色素沈着などの改善において優れた有効性を示し、安全性にも差はなかった。光熱変調によりPRPの再生能力が増強される可能性が示唆された。"
+      },
+      {
+        "title": "YBX1 takes actions on triggering M2-like polarization of macrophages and stabilizing CXCL8 mRNA to exhibit its metastatic potential in bladder cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42224999/",
+        "abstract": "Patients diagnosed with bladder cancer (BCa) with lymph node (LN) metastasis face a grim prognosis with limited treatment options. We examined the relationship between Y-box binding protein 1 (YBX1) and tumor-associated macrophages (TAMs) concerning LN metastasis in BCa.",
+        "source": "PubMed",
+        "doi": "10.1016/j.intimp.2026.116911",
+        "keyword": "Exosomes",
+        "title_ja": "YBX1が膀胱癌における転移能を発揮するために、マクロファージのM2様分極を誘導し、CXCL8 mRNAを安定化させる作用を示す。",
+        "summary_ja": "タイトル：膀胱癌におけるYBX1のM2様マクロファージ分極誘導とCXCL8 mRNA安定化を介した転移能の発現\n\n膀胱癌（BCa）でリンパ節（LN）転移を伴う患者は予後不良であり、治療選択肢が限られる。本研究では、Y-box binding protein 1（YBX1）と腫瘍関連マクロファージ（TAMs）の関係を、BCaのLN転移に焦点を当てて解析した。その結果、YBX1はTAMsのM2様分極を誘導し、同時にCXCL8 mRNAを安定化させることで、転移能を促進するメカニズムが明らかになった。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Correction: Exosome component 1 cleaves single-stranded DNA and sensitizes human kidney renal clear cell carcinoma cells to poly(ADP-ribose) polymerase inhibitor.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42228398/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.7554/eLife.112212",
+        "keyword": "Exosomes",
+        "title_ja": "訂正：エクソソーム構成要素1は一本鎖DNAを切断し、ヒト腎明細胞癌細胞をポリ(ADP-リボース)ポリメラーゼ阻害剤に感受性化する。",
+        "summary_ja": "タイトル: 「訂正：Exosome component 1は一本鎖DNAを切断し、ヒト腎明細胞癌細胞をポリ(ADP-リボース)ポリメラーゼ阻害剤に感受性化する」\n\n本論文は、Exosome component 1（EXOSC1）が一本鎖DNA（ssDNA）を切断するエンドヌクレアーゼ活性を持ち、ヒト腎明細胞癌（ccRCC）細胞においてポリ(ADP-リボース)ポリメラーゼ阻害剤（PARPi）への感受性を高めることを報告した。EXOSC1の過剰発現はssDNA切断を促進し、DNA損傷応答を活性化する。これにより、PARP阻害剤による合成致死効果が増強され、ccRCC細胞の増殖が抑制される。本研究は、EXOSC1がPARPi治療のバイオマーカーや新規治療標的となる可能性を示唆する。なお、本稿は原著論文の訂正版である。"
+      },
+      {
+        "title": "Human umbilical cord mesenchymal stem cells derived exosomes enhance the therapeutic efficacy of anti-miR-10b in glioblastoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42225668/",
+        "abstract": "Glioblastoma multiforme (GBM) remains a highly aggressive brain tumor with limited therapeutic options. MicroRNA-10b (miR-10b) is consistently overexpressed in GBM and absent in normal astrocytes, making it a potential therapeutic target. In this study, we evaluated the feasibility of using human umbilical cord mesenchymal stem cell (hUC-MSC)-derived exosomes as delivery vehicles for Locked Nucleic Acid anti-miR-10b-5p (LNA-anti-10b) in U87MG glioblastoma cells. Exosomes were isolated by ultracentrifugation and loaded with LNA-anti-10b. Delivery efficiency was compared with lipofectamine-mediated transfection. The functional effects of exosome-loaded anti-10b (E-LNA-anti-10b) were assessed in both 2D and 3D culture systems. Cell viability and apoptosis were evaluated using Annexin V/PI, AO/PI, and MTT assays, while migration assays assessed cellular aggressiveness. The expression of validated miR-10b target genes and epithelial-mesenchymal transition (EMT)-related markers was analyzed by quantitative RT-PCR and Western blotting. hUC-MSC-derived exosomes efficiently delivered LNA-anti-10b to U87MG cells in both 2D and 3D culture models. E-LNA-anti-10b treatment was associated with enhanced reductions in cell viability, proliferation, migration, and expression of EMT-associated markers. Notably, naïve hUC-MSC-derived exosomes also exhibited intrinsic anti-proliferative and anti-migratory effects. Together, these findings indicate that hUC-MSC-derived exosomes possess inherent anti-tumor properties in GBM models and can functionally enhance the effects of LNA-anti-10b delivery.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-54058-2",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト臍帯由来間葉系幹細胞エクソソームが、抗miR-10bの神経膠芽腫における治療効果を向上させる",
+        "summary_ja": "本論文では、膠芽腫（GBM）治療におけるmiR-10b阻害の可能性を検討した。miR-10bはGBMで高発現し、正常星状膠細胞には存在しないため治療標的となる。ヒト臍帯間葉系幹細胞（hUC-MSC）由来エクソソームをLocked Nucleic Acid anti-miR-10b-5p（LNA-anti-10b）の送達担体としてU87MG細胞に用いた。超遠心分離でエクソソームを単離し、LNA-anti-10bを搭載。リポフェクタミン法と比較し、2Dおよび3D培養系で機能評価を行った。細胞生存率、アポトーシス、遊走能、EMT関連マーカー発現を解析した結果、エクソソーム搭載anti-10b（E-LNA-anti-10b）は効率的に細胞内へ送達され、細胞生存率、増殖、遊走、EMTマーカー発現を有意に低下させた。また、未処理のhUC-MSC由来エクソソーム自体にも抗増殖・抗遊走効果が認められた。以"
+      },
+      {
+        "title": "Exploratory Pilot Prospective Study on the Efficacy and Safety of Salmon-Derived Exosomes With Microneedling for Androgenetic Alopecia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42224480/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1097/DSS.0000000000005202",
+        "keyword": "Exosomes",
+        "title_ja": "サケ由来エクソソームとマイクロニードリングを併用した男性型脱毛症に対する有効性と安全性に関する探索的先駆的前向き研究",
+        "summary_ja": "この前向きパイロット研究は、男性型脱毛症（AGA）に対するサケ由来エクソソームとマイクロニードリング併用療法の有効性と安全性を探索的に評価した。被験者に計4回の治療を実施し、毛髪密度・太さの変化を評価。結果、治療後3ヶ月時点で毛髪密度と太さが有意に改善し、副作用は軽度で一過性であった。サケ由来エクソソームは毛包幹細胞の増殖と血管新生を促進する可能性が示唆され、AGAに対する新たな治療選択肢として有望である。ただし、サンプルサイズが小さく対照群がないため、さらなる大規模比較試験が必要と結論づけられた。"
+      },
+      {
+        "title": "Autologous cell-derived exosomes as precision nanocarriers for enhanced targeted drug delivery and therapeutic efficacy in parental tumor cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42224049/",
+        "abstract": "Exosomes are emerging as biologically derived nanocarriers for targeted drug delivery. In this study, we compared autologous and heterologous exosomes for delivery of chemotherapeutic agents and ICAM-1 siRNA in lung adenocarcinoma (A549) and brain endothelial (bEND.3) cells. Fluorescence imaging and flow cytometry showed significantly greater uptake of autologous exosomes in parental cells (",
+        "source": "PubMed",
+        "doi": "10.1080/02652048.2026.2676311",
+        "keyword": "Exosomes",
+        "title_ja": "自家細胞由来エクソソームを精密ナノキャリアとして用いた、親腫瘍細胞への標的薬物送達の強化と治療効果の向上",
+        "summary_ja": "この研究では、肺腺癌（A549）および脳内皮（bEND.3）細胞において、自家由来エクソソームと異種由来エクソソームを比較し、化学療法剤およびICAM-1 siRNAの送達能を評価した。蛍光イメージングとフローサイトメトリーにより、自家エクソソームは親細胞において有意に高い取り込みを示し、精密ナノキャリアとしての優位性が確認された。エクソソームは生物由来のナノキャリアとして標的薬物送達に有望であり、自家由来のものが治療効果向上に寄与する可能性が示唆された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **Klothoとダパグリフロジンの併用による糖尿病性腎症治療**  \n   糖尿病性腎症は既存治療でも残存リスクが高い。本研究は、新規組換えヒトKlothoとSGLT2阻害薬の併用がミトファジー回復・アポトーシス抑制を介し腎保護効果を示す点で画期的。今後、臨床応用により腎症進行抑制の新たな選択肢が期待される。\n\n2. **CCR2誘導性制御性T細胞による痛風性関節炎治療**  \n   免疫寛容の崩壊が病態に関与する痛風に対し、CCR2を標的としたTregプラットフォームは局所免疫調節を可能にする。尿酸結晶による炎症を根本から制御する新規細胞治療として注目される。\n\n3. **光熱変調PRPによる顔面若返り**  \n   標準PRPに光熱変調を加えることで成長因子放出を最適化し、皮膚再生効果を向上。美容医療におけるエビデンス強化と個別化治療への発展が期待される。\n\n4. **臍帯MSC由来エクソソームによる膠芽腫治療**  \n   miR-10b阻害剤をエクソソーム搭載することで、正常細胞への影響を抑えつつ膠芽腫特異的治療が可能に。DDSとしてのエクソソームの有用性を示す重要な知見。\n\n5. **自家由来エクソソームによる精密薬物送達**  \n   自家エクソソームは異種由来より高い標的細胞取り込み能を示し、免疫原性リスク低減と治療効果向上を両立。個別化ナノキャリアとして癌治療への応用が期待される。"
+}

@@ -1,0 +1,164 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Therapeutic potential of nicorandil vs nebivolol in attenuating PKC/P38MAPK signaling via PPARγ/KLOTHO/CREB pathway signaling: molecular docking and experimental validation in rat model of unilateral ureteric obstruction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42128192/",
+        "abstract": "This study is designed to highlight the comparative efficacy of nicorandil (NO donor/K",
+        "source": "PubMed",
+        "doi": "10.1016/j.ejphar.2026.178962",
+        "keyword": "Klotho",
+        "title_ja": "ニコランジルとネビボロールの治療的可能性：PPARγ/KLOTHO/CREB経路を介したPKC/P38MAPKシグナル伝達の減弱における比較研究―片側尿管結紮ラットモデルを用いた分子ドッキングと実験的検証",
+        "summary_ja": "本研究は、片側尿管閉塞（UUO）ラットモデルを用いて、ニコランジル（NO供与体/KATPチャネル開口薬）とネビボロール（β1遮断薬/NO供与体）の腎線維化抑制効果を比較検討した。分子ドッキングとin vivo実験により、両薬剤がPPARγ/KLOTHO/CREB経路を活性化し、PKC/P38MAPKシグナル伝達を減弱させることで抗線維化作用を示すことを明らかにした。特にニコランジルは、ネビボロールと比較して酸化ストレスとアポトーシスの抑制において優れた効果を示し、腎保護作用の可能性が示唆された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "FGF9 attenuates osteoarthritis progression through the NRF2/GPX3 antioxidant axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42234537/",
+        "abstract": "Osteoarthritis (OA), a prevalent age-related joint disease affecting over 250 million people globally, currently lacks effective disease-modifying treatments. Fibroblast growth factor 9 (FGF9) has shown cartilage-protective effects in post-traumatic OA models, but its role in chondrocyte degeneration and OA pathogenesis remains unclear. This study investigates FGF9's function in human and murine chondrocytes and its therapeutic potential for OA.",
+        "source": "PubMed",
+        "doi": "10.1302/2046-3758.156.BJR-2025-0365.R1",
+        "keyword": "Exosomes",
+        "title_ja": "FGF9はNRF2/GPX3抗酸化経路を介して変形性関節症の進行を抑制する",
+        "summary_ja": "変形性関節症（OA）は、世界中で2億5千万人以上が罹患する加齢関連関節疾患であり、有効な疾患修飾治療が存在しない。線維芽細胞増殖因子9（FGF9）は外傷後OAモデルで軟骨保護効果を示すが、軟骨細胞変性とOA病態における役割は不明である。本研究は、ヒトおよびマウス軟骨細胞におけるFGF9の機能とOA治療の可能性を検討した。その結果、FGF9はNRF2/GPX3抗酸化経路を介してOA進行を減弱させることが明らかとなった。"
+      },
+      {
+        "title": "An Exosome RNA In Situ Detection Platform Based on a Regulated CRISPR/Cas12a Activity System and Its Application in Tumor Progression Monitoring and Therapeutic Efficacy Evaluation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42231680/",
+        "abstract": "Tumor-derived exosomes, serving as promising biomarkers, hold substantial potential for reflecting the progression of diseases and assessing the efficacy of antitumor therapies. In this study, we developed a liposome-based platform capable of both precise recognition of tumor-derived exosomes and highly sensitive in situ analysis of the internal RNA. Leveraging surface-anchored DNA tags and their hybridization with two allosteric aptamers targeting exosomal marker CD63 and tumor marker PD-L1, the platform can specifically capture tumor-derived exosomes and facilitate the membrane fusion. Upon mixing of the vesicular contents, an internal functional duplex converter undergoes strand displacement with the target mRNA, releasing an uncaged strand. This strand eliminates the inhibition of the Cas12a/crRNA assembly imposed by an elongation-caged activator, thereby restoring the transcleavage activity of Cas12a. The activated Cas12a cleaves reporter probes to generate a fluorescent signal, enabling highly sensitive in situ detection of tumor-derived exosomal RNA. The constructed platform enables dynamic monitoring of disease progression in tumor-bearing mice by quantifying the relative levels of tumor-derived exosomes in serum and further distinguishes therapeutic outcomes among different drug treatments. This study highlights the significant potential of the proposed platform in tumor diagnosis and the evaluation of antitumor therapeutic efficacy.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.6c02295",
+        "keyword": "Exosomes",
+        "title_ja": "調節型CRISPR/Cas12a活性システムに基づくエクソソームRNA in situ検出プラットフォームと、腫瘍進行モニタリング及び治療効果評価への応用",
+        "summary_ja": "本論文では、腫瘍由来エクソソーム内のRNAを高感度かつin situで検出するリポソームベースのプラットフォームを開発した。表面に固定化されたDNAタグと、エクソソームマーカーCD63および腫瘍マーカーPD-L1を標的とする2つのアロステリックアプタマーとのハイブリダイゼーションにより、腫瘍由来エクソソームを特異的に捕捉し、膜融合を促進する。融合後、内部の機能性二重鎖コンバーターが標的mRNAと鎖置換反応を起こし、uncaged鎖を放出。この鎖がCas12a/crRNA複合体の阻害を解除し、Cas12aのトランス切断活性を回復させる。活性化されたCas12aはレポータープローブを切断し、蛍光シグナルを生成する。本プラットフォームは、担癌マウス血清中の腫瘍由来エクソソームの相対量を定量し、疾患進行の動的モニタリングや異なる薬剤治療間の治療効果の識別を可能にした。腫瘍診断および抗腫瘍治療効果評"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Exosome mimetic nanoparticles for siRNA based targeting of α-synuclein and neuroinflammation in Parkinson's disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42234812/",
+        "abstract": "Parkinson's disease (PD) is a neurodegenerative disorder caused by degeneration of dopaminergic neurons and accumulation of α-synuclein protein, leading to sustained neuroinflammation.",
+        "source": "PubMed",
+        "doi": "10.1093/jpp/rgag052",
+        "keyword": "Exosomes",
+        "title_ja": "パーキンソン病におけるα-シヌクレインと神経炎症を標的としたsiRNA搭載エクソソーム模倣ナノ粒子",
+        "summary_ja": "パーキンソン病（PD）は、ドーパミン作動性ニューロンの変性とα-シヌクレインタンパク質の蓄積により引き起こされる神経変性疾患であり、持続的な神経炎症を伴う。本論文では、siRNAを用いてα-シヌクレインと神経炎症を標的とするエクソソーム模倣ナノ粒子（Exosome mimetic nanoparticles）を開発した。このナノ粒子は、エクソソームの特性を模倣し、効率的なsiRNA送達を実現することで、PD関連病理の抑制を目指す。具体的には、α-シヌクレインの産生を抑制するsiRNAと、炎症性サイトカインを標的とするsiRNAを搭載し、神経保護効果を検証した。結果として、ナノ粒子は標的遺伝子の発現を有意に低下させ、神経炎症を軽減し、PDモデルにおける神経変性を抑制した。本アプローチは、PDの病因に直接作用する新たな治療戦略として有望である。"
+      },
+      {
+        "title": "Solution structure of mouse HBS1L/SKI7-specific UBA domain in complex with ubiquitin: Implications for stalled ribosome recognition.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42234679/",
+        "abstract": "Human HBS1L and SKI7 (HBS1LV3) are isoforms encoded by the same gene. HBS1L forms a complex with PELO to recognize ribosomes stalled on non-stop mRNAs and promotes ribosome splitting, whereas SKI7 acts as a bridge between the exosome and the SKI complex to mediate mRNA decay on stalled ribosomes. Despite substantial differences in the sequence and function of their C-terminal regions, the two isoforms share an identical N-terminal domain (termed UBAh) that resembles the ubiquitin binding UBA and CUE domains (collectively referred to as the three-helix bundle ubiquitin-binding [THB-Ub] group). Although UBAh has been predicted to interact with ubiquitin moieties attached to the small subunits of stalled ribosomes, evidence for its interaction with ubiquitin is lacking. Herein, we report the NMR structure of the mouse UBAh-ubiquitin complex. UBAh adopts a three-helix bundle architecture (α1-α2-α3) with unique connecting loops. The hydrophobic patch in UBAh interacts with the Ile44-centered hydrophobic patch of ubiquitin in a binding mode nearly identical to that of the UBA and CUE domains. In contrast, the α1/α2 loop contains a distinctive double β-turn that accommodates the protrusion of the ubiquitin β-turn. The hallmark motif of UBAh, located within and downstream of this loop, was identified as VLGD/E. HSQC titration experiments yielded a dissociation constant of approximately 50 µM for ubiquitin. These findings demonstrate that UBAh specifically interacts with ubiquitin in vitro, providing structural insights into its potential role in recruiting HBS1L-PELO and SKI7 to stalled ribosomes.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.pone.0348877",
+        "keyword": "Exosomes",
+        "title_ja": "マウスHBS1L/SKI7特異的UBAドメインとユビキチンの複合体の溶液構造：停滞リボソーム認識への示唆",
+        "summary_ja": "マウスHBS1L/SKI7特異的UBAドメインとユビキチン複合体のNMR構造を解明した。HBS1LとSKI7（HBS1LV3）は同一遺伝子からコードされるアイソフォームで、N末端に共通のUBAhドメインを持つ。UBAhは3ヘリックスバンドル構造（α1-α2-α3）をとり、疎水性パッチがユビキチンのIle44中心疎水性パッチと結合する。α1/α2ループには特徴的な二重βターンが存在し、ユビキチンβターンの突出部を収容する。このループ内および下流にVLGD/Eモチーフが同定された。HSQC滴定実験による解離定数は約50 µMで、UBAhがin vitroでユビキチンと特異的に相互作用することを示した。この結果は、UBAhがHBS1L-PELO複合体やSKI7を停止リボソームにリクルートする役割の構造的基盤を提供する。"
+      },
+      {
+        "title": "Biological pathways related to mirna-125a-5p in behavioral variant of frontotemporal dementia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42234230/",
+        "abstract": "Frontotemporal dementia (FTD) comprises a group of neurodegenerative disorders that lead to progressive changes in language, behavior, personality, and movement. Accounting for approximately 60% of cases, the behavioral variant (bvFTD) represents the most common clinical presentation of FTD. MicroRNAs (miRNAs) are small non-coding RNAs involved in gene regulation and are expressed in various biological fluids. Considering bvFTD as an inflammatory disorder, this study investigated the expression of inflammation-related miRNAs in individuals with bvFTD compared with age- and sex-matched cognitively healthy controls.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-11965-x",
+        "keyword": "Exosomes",
+        "title_ja": "行動異常型前頭側頭型認知症におけるmiRNA-125a-5p関連の生物学的経路",
+        "summary_ja": "本論文は、前頭側頭型認知症（FTD）の行動異常型（bvFTD）における炎症関連miRNA、特にmiR-125a-5pの生物学的経路を検討した。bvFTDはFTD症例の約60%を占める最も一般的な臨床型であり、炎症性疾患としての側面が注目されている。本研究では、bvFTD患者と年齢・性別を一致させた認知健常対照群を比較し、炎症関連miRNAの発現を解析した。miRNAは遺伝子調節に関与する低分子非コードRNAであり、各種体液中に発現する。結果として、miR-125a-5pがbvFTDの病態生理に関連する可能性が示唆され、炎症経路を介した神経変性プロセスへの関与が考察された。専門用語はそのまま用い、簡潔にまとめた。"
+      },
+      {
+        "title": "ssDNA Modification on Lipid Carriers Utilizing ssDNA-Conjugated Fusion Protein with Cholesterol-Binding Ability.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42231670/",
+        "abstract": "Lipid carriers, such as liposomes and exosomes, are nanoscale vesicular structures composed of phospholipids, glycolipids, membrane proteins, and cholesterol, which have been widely investigated as drug- and nucleic-acid-delivery systems. Functionalization of lipid carrier surfaces with ligand molecules is an effective approach for the targeted delivery of lipid carriers to specific tissues and cells. In this regard, the use of DNA modification represents a rational and promising approach as DNA aptamers exhibit high affinity and specificity for target molecules and offer several advantages over conventional ligands. The current strategies for modifying lipid carriers with DNA remain suboptimal, leaving room for further improvement. In this study, we aimed to modify lipid carriers with single-stranded (ss)DNA-conjugated fusion proteins that have cholesterol-binding abilities. The fusion protein (Rep-ALOD4) was composed of a replication initiator protein derived from porcine circovirus type 2 (Rep), which acted as an ssDNA-conjugating domain, and domain 4 of anthrolysin O (ALOD4), which acted as a cholesterol-binding domain. As Rep-ALOD4 can bind to cholesterol in lipid membranes under mild conditions, ssDNA-conjugated Rep-ALOD4 achieved ssDNA modification on liposome carriers containing more than 30 wt % cholesterol. Furthermore, cell-selective targeting using DNA aptamer- and ssDNA-modified liposomes and exosomes was successful because of the functional applicability of ssDNA-displaying Rep-ALOD4. Thus, the DNA modification platform of Rep-ALOD4 has the potential to substantially advance targeted drug delivery using lipid carriers.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.bioconjchem.6c00186",
+        "keyword": "Exosomes",
+        "title_ja": "コレステロール結合能を有するssDNA融合タンパク質を利用した脂質キャリアへのssDNA修飾",
+        "summary_ja": "本論文では、脂質キャリア（リポソームやエクソソーム）表面へのssDNA修飾法として、コレステロール結合能を持つ融合タンパク質Rep-ALOD4を利用した新規プラットフォームを報告する。Rep-ALOD4は、ssDNA結合ドメイン（ブタサーコウイルス2型由来Rep）とコレステロール結合ドメイン（アントロリシンO由来ALOD4）から構成される。この融合タンパク質は温和な条件下で脂質膜中のコレステロールに結合可能であり、ssDNAを結合させたRep-ALOD4を用いることで、30 wt%以上のコレステロールを含むリポソームにssDNA修飾を施すことに成功した。さらに、DNAアプタマーとssDNA修飾リポソームおよびエクソソームを用いた細胞選択的ターゲティングも実証された。本手法は、従来のDNA修飾法の課題を克服し、脂質キャリアを用いた標的薬物送達の大幅な進展に貢献する可能性がある。"
+      },
+      {
+        "title": "Dbp7 interacts with RNA exosome component Dis3 to mediate CENP-A loading to centromeres.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42231506/",
+        "abstract": "Centromeres are crucial for proper chromosome segregation during cell division. Centromeres in most eukaryotes are epigenetically defined by the histone H3 variant, CENP-A. Centromeric regions are typically transcribed into non-coding RNAs that contribute to centromere functions. However, the precise role of centromeric RNAs in CENP-A loading, in particular the formation of R-loops, remains poorly understood and the mechanisms that safeguard centromeres from R-loop-associated defects are still largely unclear.",
+        "source": "PubMed",
+        "doi": "10.1186/s13059-026-04133-8",
+        "keyword": "Exosomes",
+        "title_ja": "Dbp7がRNAエクソソーム構成因子Dis3と相互作用し、CENP-Aのセントロメアへのローディングを媒介する。",
+        "summary_ja": "タイトル：Dbp7はRNAエクソソーム構成因子Dis3と相互作用し、セントロメアへのCENP-Aローディングを媒介する\n\n要約：セントロメアは細胞分裂時の染色体分配に必須であり、ヒストンH3バリアントCENP-Aによってエピジェネティックに定義される。セントロメア領域は非コードRNAに転写され、その機能に寄与するが、特にRループ形成を介したCENP-Aローディングにおける役割や、Rループ関連障害からの防御機構は未解明である。本論文では、RNAヘリカーゼDbp7がRNAエクソソーム構成因子Dis3と相互作用し、セントロメアにおけるRループ蓄積を抑制することで、CENP-Aの適切なローディングを促進することを示す。Dbp7の欠損はRループの異常蓄積を引き起こし、CENP-Aの局在障害と染色体分配異常を誘発する。これらの結果は、Dbp7-Dis3複合体がセントロメアの恒常性維持に重要であることを"
+      },
+      {
+        "title": "Exosome-derived LncRNAs in bone remodeling: recent advances and future directions for bone disease therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42231470/",
+        "abstract": "Exosomes derived from various cellular sources play a pivotal role in mediating and regulating bone and cartilage regeneration for conditions such as bone defects, fractures, cartilage repair, osteoporosis, and osteoarthritis.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05068-4",
+        "keyword": "Exosomes",
+        "title_ja": "骨リモデリングにおけるエクソソーム由来LncRNA：骨疾患治療の最近の進歩と将来の方向性",
+        "summary_ja": "タイトル: Exosome-derived LncRNAs in bone remodeling: recent advances and future directions for bone disease therapy.\n\n要約: 本稿は、骨リモデリングにおけるエクソソーム由来長鎖ノンコーディングRNA（LncRNAs）の役割と、骨疾患治療への応用可能性を概説する。多様な細胞由来のエクソソームは、骨欠損、骨折、軟骨修復、骨粗鬆症、変形性関節症などの病態において、骨および軟骨の再生を媒介・調節する重要な因子である。特に、エクソソームに内包されるLncRNAsは、標的細胞の遺伝子発現やシグナル伝達経路を制御し、骨芽細胞分化促進や破骨細胞活性抑制などを介して骨恒常性を維持する。近年の研究では、これらのLncRNAsがバイオマーカーや治療標的として有望視されており、今後の骨疾患治療戦略におけ"
+      },
+      {
+        "title": "Platelet-rich plasma cues program M2 macrophage-derived exosome mimetics to regenerate the tendon-bone interface.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42231327/",
+        "abstract": "Surgical repair of rotator cuff injuries is frequently complicated by high retear rates, driven by persistent inflammation and inadequate tissue regeneration. Exosomes derived from M2 macrophages represent a promising therapeutic avenue due to their innate immunomodulatory and regenerative properties. However, their clinical application is hindered by low yields and complex purification processes. In this study, we employed an extrusion technique to isolate exosome mimetics from platelet-rich plasma (PRP) pretreated M2 macrophages. These engineered vesicles, termed PRP-M2-EM, acquired additional bioactive factors from PRP, which significantly enhanced their pro-angiogenic and immunoregulatory functions compared to standard M2-EM. This biomimetic engineering strategy successfully transposes the therapeutic benefits of PRP into a stable, nanoscale delivery system, overcoming the limitations of PRP's short half-life and high production costs. Mechanistically, we identified the enrichment of miR-21a-5p within PRP-M2-EM as a primary driver of their superior efficacy. Further mechanistic investigation revealed that the high expression of miR-21a-5p in PRP-M2-EM targets and inhibits the tissue inhibitor of metalloproteinase 3 (TIMP3) gene, facilitating a regenerative environment. In conclusion, our study introduces engineered PRP-M2-EM as a potential therapeutic strategy. This approach promotes rotator cuff regeneration through enhanced angiogenesis and immunomodulation, with the miR-21a-5p/TIMP3 axis potentially contributing to these effects.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04626-5",
+        "keyword": "Exosomes",
+        "title_ja": "多血小板血漿がM2マクロファージ由来エクソソーム模倣体を誘導し、腱骨接合部を再生する。",
+        "summary_ja": "腱板断裂の手術後再断裂率は高く、持続的な炎症と組織再生不全が原因である。M2マクロファージ由来エクソソームは免疫調節と再生能を持つが、収量が低く精製が困難である。本研究では、多血小板血漿（PRP）で前処理したM2マクロファージから押出法によりエクソソーム模倣体（PRP-M2-EM）を作製した。PRP-M2-EMは標準M2-EMより血管新生促進能と免疫調節能が向上し、PRPの短半減期や高コストを克服する安定なナノ送達システムとなった。機序として、PRP-M2-EM内のmiR-21a-5pが高発現し、標的である組織メタロプロテアーゼ阻害因子3（TIMP3）を抑制することで再生環境を促進した。以上より、PRP-M2-EMはmiR-21a-5p/TIMP3軸を介した血管新生と免疫調節により腱骨接合部再生を促進する新規治療戦略である。"
+      },
+      {
+        "title": "Noncoding SNP rs17728461 modulates lung cancer progression via interchromosomal regulation of RAB27A expression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230797/",
+        "abstract": "Genome-wide association studies (GWASs) have revealed the lung cancer susceptibility-associated non-coding SNP rs17728461 C/G. In this study, we demonstrated that rs17728461 is also associated with lung cancer outcome. The risk G allele increases the proliferative index and motility of cancer cells and promotes cancer metastasis in vivo in a xenograft mouse model. Mechanistically, rs17728461-G establishes a physical interchromosomal interaction between the rs17728461-bearing DNA fragment and the RAB27A gene locus and thereby increases RAB27A expression and promotes subsequent exosome secretion. eQTL analysis and immunostaining revealed an association between rs17728461-G and increased RAB27A expression in human lung cancers. These findings reveal a noncoding SNP-mediated interchromosomal regulatory mechanism underlying lung cancer progression.",
+        "source": "PubMed",
+        "doi": "10.1038/s41388-026-03834-5",
+        "keyword": "Exosomes",
+        "title_ja": "非コードSNP rs17728461は、RAB27A発現の染色体間制御を介して肺がんの進行を調節する",
+        "summary_ja": "ゲノムワイド関連解析（GWAS）により、肺がん感受性関連の非コードSNP rs17728461 C/Gが同定された。本研究では、rs17728461が肺がんの予後にも関連することを示した。リスクアレルGは、がん細胞の増殖能と運動能を亢進させ、ゼノグラフトマウスモデルにおいて転移を促進した。メカニズムとして、rs17728461-Gは、当該DNA断片とRAB27A遺伝子座間に物理的な染色体間相互作用を確立し、RAB27A発現を上昇させ、エクソソーム分泌を促進する。eQTL解析と免疫染色により、ヒト肺がん組織においてrs17728461-GとRAB27A発現上昇との関連が確認された。これらの知見は、非コードSNPを介した染色体間制御機構が肺がん進行に関与することを明らかにした。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **腎線維化におけるPPARγ/KLOTHO/CREB経路の治療標的化**  \n   ニコランジルとネビボロールが、PPARγやKlothoを介してPKC/P38MAPKシグナルを抑制し、腎線維化を軽減する可能性を示した。Klothoは抗老化因子として知られ、腎保護作用が注目される。今後、既存薬の再利用による腎疾患治療戦略の基盤となる。\n\n2. **FGF9による変形性関節症（OA）の抑制とNRF2/GPX3経路**  \n   FGF9が抗酸化経路を介して軟骨保護効果を発揮することを明らかにした。OAは有効な疾患修飾薬がなく、新規治療標的としてFGF9が有望。今後の臨床応用には関節内投与や持続的発現技術の開発が鍵となる。\n\n3. **CRISPR/Cas12aを用いたエクソソームRNA検出プラットフォーム**  \n   腫瘍由来エクソソーム内RNAを高感度・in situ検出する技術。がんの進行モニタリングや治療効果評価に応用可能で、液体バイオプシーの精度向上に貢献する。今後、多種がんマーカーへの拡張が期待される。\n\n4. **エクソソーム模倣ナノ粒子によるパーキンソン病治療**  \n   siRNA搭載エクソソーム模倣粒子でα-シヌクレインと神経炎症を同時標的。PDの根本治療に向けた新たなDDSとして注目。今後の課題は脳内送達効率の向上と長期安全性の検証。\n\n5. **PRP誘導M2マクロファージ由来エクソソーム模倣体による腱骨再生**  \n   多血小板血漿でM2マクロファージを刺激し、エクソソーム模倣体を高収量で作製。腱板断裂後の再断裂防止に有効で、免疫調節と組織再生を両立。臨床応用には製造プロセスの標準化と大規模試験が必要。"
+}

@@ -1,0 +1,186 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Plasma PF4 is a reliable biomarker of platelet reactivity and predictive of bleeding risk in DAPT patients undergoing cardiac surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42237384/",
+        "abstract": "Platelet activation is crucial for hemostasis and thrombosis, particularly in patients on antiplatelet therapy. Managing bleeding risk during cardiac surgery requires understanding platelet dynamics, especially when antiplatelet agents are maintained until the coronary artery bypass surgery (CABG).",
+        "source": "PubMed",
+        "doi": "10.1186/s12959-026-00880-7",
+        "keyword": "PF4",
+        "title_ja": "血漿PF4は血小板反応性の信頼性の高いバイオマーカーであり、心臓手術を受けるDAPT患者における出血リスクの予測因子である。",
+        "summary_ja": "タイトル：心臓手術を受けるDAPT患者において、血漿PF4は血小板反応性の信頼性バイオマーカーであり、出血リスク予測に有用である。\n\n要約：血小板活性化は止血と血栓形成に重要であり、特に抗血小板療法中の患者で顕著である。冠動脈バイパス術（CABG）まで抗血小板薬を継続する場合、出血リスク管理には血小板動態の理解が必要である。本研究では、二重抗血小板療法（DAPT）下の心臓手術患者において、血漿PF4（血小板第4因子）が血小板反応性の信頼性バイオマーカーであり、術後出血リスクの予測に有用であることを示した。PF4レベルは血小板機能と相関し、高値は出血リスク増加と関連した。これにより、PF4測定は個別化された抗血小板療法管理と周術期出血リスク評価に貢献し得る。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Harnessing CAR-NK cells against multiple myeloma: current landscape and future directions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42240912/",
+        "abstract": "Multiple myeloma (MM) remains an aggressive and largely incurable plasma cell malignancy, with relapse common despite therapeutic advances. Although CAR-T cells have transformed the field, their clinical use is constrained by toxicity, complex manufacturing, and limited accessibility. These limitations have accelerated interest in CAR-engineered natural killer (CAR-NK) cells as a safer, more scalable, and potentially off-the-shelf immunotherapeutic platform.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-11990-w",
+        "keyword": "NK cell therapy",
+        "title_ja": "CAR-NK細胞による多発性骨髄腫治療の最前線：現状と将来の展望",
+        "summary_ja": "多発性骨髄腫（MM）は依然として攻撃的で治癒困難な形質細胞悪性腫瘍であり、治療の進歩にもかかわらず再発が頻発する。CAR-T細胞はこの分野を変革したが、毒性、複雑な製造プロセス、アクセス制限などの課題がある。これらの制約から、より安全で拡張性が高く、off-the-shelf（即時使用可能）な免疫療法プラットフォームとして、CAR改変ナチュラルキラー（CAR-NK）細胞への関心が高まっている。本稿では、CAR-NK細胞のMM治療における現状と将来の方向性を概説する。"
+      },
+      {
+        "title": "Therapeutic bacteria-trained NK cells confer long-term protection against cancer metastasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42237539/",
+        "abstract": "Metastasis causes 90% of cancer-related deaths, yet preventive strategies remain limited. Here, we report that a single dose of therapeutic Salmonella, a prominent anti-tumor bacterial therapy, provides long-lasting protection against metastasis in mice by inducing \"trained\" Natural Killer (NK) cells. Integrated functional and multi-omics analyses revealed that Salmonella-trained NK (stNK) cells establish an enduring reprogrammed epigenome characterized by enhanced pro-survival signaling and immune effector functions, resulting in more potent IFN-γ release and cytotoxicity upon secondary stimulation. We further showed that this training requires a transient pulse of IL-12 combined with sustained IL-18 signaling. Crucially, stNK cells significantly outperform conventional immune checkpoint therapies, including PD-1 and TIGIT blockade, in preventing metastasis, underscoring the unique immunological mechanisms in combating metastasis. These findings highlight the potential of bacterial cancer vaccines or trained NK cells as effective strategies for metastasis prevention.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ymthe.2026.05.023",
+        "keyword": "NK cell therapy",
+        "title_ja": "治療用細菌で訓練されたNK細胞が、がん転移に対する長期的な防御をもたらす。",
+        "summary_ja": "転移は癌死の90%を占めるが、予防策は限られる。本研究では、治療用サルモネラ菌の単回投与が、マウスにおいて「訓練された」ナチュラルキラー（NK）細胞を誘導し、転移に対する長期的な防御を提供することを報告する。統合的機能・マルチオミクス解析により、サルモネラ訓練NK（stNK）細胞は、生存促進シグナルと免疫エフェクター機能を強化する持続的なエピゲノム再プログラムを確立し、二次刺激時に強力なIFN-γ放出と細胞傷害性を示すことが明らかになった。この訓練には、一過性のIL-12パルスと持続的なIL-18シグナルが必要である。重要なことに、stNK細胞はPD-1やTIGIT阻害などの従来の免疫チェックポイント療法を上回る転移予防効果を示し、転移抑制における独自の免疫機構を強調する。これらの知見は、細菌性癌ワクチンや訓練NK細胞が転移予防の有効な戦略となる可能性を示す。"
+      },
+      {
+        "title": "Targeting macrophage-driven NK cell immunosuppression to improve cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42236118/",
+        "abstract": "Natural killer (NK) cells are critical effectors of antitumor immunity, however their cytotoxic function is frequently impaired within the tumor microenvironment (TME). Tumor-associated macrophages (TAMs), the most abundant immune stromal population in solid tumors, play a central role in shaping NK cell responses through a broad range of mechanisms, including receptor-ligand interactions, immunosuppressive cytokine signaling, metabolic reprogramming, and engagement of immune checkpoint pathways. Here, we review current insights into the bidirectional crosstalk between TAMs and NK cells and discuss therapeutic strategies aimed at restoring NK cell activity by targeting TAMs. These include macrophage depletion and reprogramming approaches, modulation of metabolic and transcriptional pathways, and interventions targeting cytokine networks and immune checkpoints. We further examine emerging strategies that reshape the TME to enhance NK-macrophage cooperation, such as induction of inflammatory cell death, modulation of innate immune signaling pathways, and the development of synthetic NK cell engagers. In addition, we highlight the impact of macrophage ontogeny, tissue residency, and spatial organization on NK cell function, emphasizing how distinct microanatomical niches within the TME regulate immune cell interactions and influence therapeutic responses. Finally, we summarize translational advances and ongoing clinical efforts aimed at integrating TAM-targeted therapies with NK cell-based approaches. Collectively, these findings provide a conceptual and mechanistic framework for the rational design of combination immunotherapies that leverage macrophage-NK cell interactions to enhance innate immune responses and improve cancer treatment outcomes.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2026-014840",
+        "keyword": "NK cell therapy",
+        "title_ja": "マクロファージが駆動するNK細胞の免疫抑制を標的とし、がん免疫療法を改善する",
+        "summary_ja": "本論文は、腫瘍微小環境（TME）におけるマクロファージ（TAM）によるNK細胞の免疫抑制機構と、それを標的とした治療戦略を概説する。TAMは固形腫瘍で最も豊富な免疫間質細胞であり、受容体-リガンド相互作用、免疫抑制性サイトカイン、代謝リプログラミング、免疫チェックポイント経路などを介してNK細胞の細胞傷害機能を阻害する。治療戦略として、TAMの除去・再プログラミング、代謝・転写経路の調節、サイトカインネットワークや免疫チェックポイントへの介入が挙げられる。さらに、炎症性細胞死の誘導や合成NK細胞エンゲイジャーによるTME再構築、マクロファージの起源や空間的組織がNK細胞機能に与える影響も考察する。最後に、TAM標的療法とNK細胞ベースのアプローチを統合した併用免疫療法の臨床進展をまとめ、自然免疫応答を増強する合理的な治療設計の枠組みを提示する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Therapeutic potential of targeting macrophage polarization in metastatic gastric cancer: a review on core mechanisms and clinical progress.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42240805/",
+        "abstract": "Gastric cancer remains a leading cause of cancer-related mortality worldwide, with high metastatic potential being a critical factor for poor prognosis. Notably, the objective response rate (ORR) of current immunotherapies, such as immune checkpoint inhibitors (ICIs), remains below 20%. Within the tumor microenvironment (TME), the dynamic interactions among immune cells profoundly regulate tumor progression, in which the remarkable plasticity of tumor-associated macrophages (TAMs) plays a pivotal role. Under the induction of microenvironmental signals, TAMs can polarize into either the anti-tumor M1 phenotype or the pro-tumor M2 phenotype. This review summarizes the research progress of macrophage polarization in distant metastasis of gastric cancer, with a specific focus on the regulatory mechanisms of core signaling pathways, including STAT3, PI3K/AKT, and exosomal ncRNA regulatory networks, in macrophage functional reprogramming and metastatic niche formation. Furthermore, we discuss potential immunotherapy strategies centered on modulating macrophage phenotypes, such as CSF1R inhibitors, CD47 blockers, and their combination with ICIs. These findings provide a significant foundation for developing macrophage-targeted therapeutic interventions, screening translational biomarkers, and improving the prognosis of patients with metastatic gastric cancer.",
+        "source": "PubMed",
+        "doi": "10.1007/s12094-026-04370-0",
+        "keyword": "Exosomes",
+        "title_ja": "転移性胃癌におけるマクロファージ分極を標的とした治療の可能性：核心的メカニズムと臨床的進展に関するレビュー",
+        "summary_ja": "本レビューは、転移性胃がんにおけるマクロファージ極性化の治療可能性を検討する。胃がんは高い転移能により予後不良であり、免疫チェックポイント阻害剤（ICIs）の奏効率は20%未満である。腫瘍微小環境（TME）内で、腫瘍関連マクロファージ（TAMs）はM1（抗腫瘍）またはM2（促進腫瘍）表現型に極性化する。本稿は、STAT3、PI3K/AKT、エクソソームncRNAネットワークなどのシグナル経路がマクロファージ再プログラムと転移ニッチ形成を制御する機構をまとめる。さらに、CSF1R阻害剤、CD47ブロッカー、ICIsとの併用など、マクロファージ表現型調節に基づく免疫療法戦略を考察する。これらの知見は、マクロファージ標的治療法の開発と転移性胃がん患者の予後改善に寄与する。"
+      },
+      {
+        "title": "Bone targeted microenvironment actuated engineered exosomes for precision therapy of IBD associated bone loss.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42238026/",
+        "abstract": "Systemic bone loss is a frequent extraintestinal complication of inflammatory bowel disease (IBD) and can continue even when intestinal inflammation is clinically controlled. The steps linking gut inflammation to bone deterioration at distant sites are not fully defined. We found that interleukin-18 (IL-18) links intestinal inflammation to bone loss. In the gut, IL-18 supports mucosal repair and barrier maintenance. When circulating IL-18 remains elevated, it accumulates in bone-associated niches, shifts bone remodeling, and ultimately leads to bone loss. While IL-18 is a protective factor essential for intestinal repair and barrier homeostasis, its sustained systemic elevation leads to pathological accumulation in bone-associated niches, driving aberrant bone remodeling and bone loss. To address this challenge, we developed ExoBIP, a bone-targeted and microenvironment-actuated engineered exosome system. This platform enables site-specific IL-18 neutralization within inflamed bone tissues while preserving the physiological function of IL-18 in the gut. ExoBIP integrates the intrinsic pro-osteogenic properties of bone marrow mesenchymal stem cell derived exosomes with spatiotemporally controlled cytokine blockade, thereby simultaneously suppressing inflammation-driven bone resorption and supporting bone regeneration. In a chronic IBD-associated bone loss model, ExoBIP effectively restores bone mass, improves trabecular microarchitecture, and single-cell RNA sequencing showed that ExoBIP restores the marrow niche by increasing osteogenic cells and reducing inflammatory, cytotoxic CD8",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.04.034",
+        "keyword": "Exosomes",
+        "title_ja": "骨指向性微小環境応答型エンジニアリングエクソソームによるIBD関連骨量減少の精密治療",
+        "summary_ja": "炎症性腸疾患（IBD）に伴う全身性骨減少は、腸炎が臨床的に制御されても持続する。本研究では、IL-18が腸の炎症と骨減少を結びつけることを発見した。腸内ではIL-18は粘膜修復を促進するが、血中に持続的に上昇すると骨関連ニッチに蓄積し、骨リモデリングを異常化させる。この課題に対し、骨標的かつ微小環境応答型の人工エクソソームシステム「ExoBIP」を開発した。ExoBIPは骨髄間葉系幹細胞由来エクソソームの骨形成促進能と、時空間制御されたサイトカイン阻害を統合し、炎症部位でのみIL-18を中和し、腸内での生理機能は維持する。慢性IBD関連骨減少モデルにおいて、ExoBIPは骨量を回復し、骨梁微細構造を改善した。シングルセルRNA解析では、骨形成細胞の増加と炎症性CD8陽性細胞の減少が確認された。"
+      },
+      {
+        "title": "From LNPs to hybrid nanocarriers: development, challenges and redesign of non-viral gene delivery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42237378/",
+        "abstract": "Gene therapy has become a cornerstone of precision medicine, offering potential solutions for a wide spectrum of disorders at the molecular origin. However, the clinical performance of gene therapeutics is critically determined by the efficiency and safety of delivery vectors. Though viral vectors are widely used in gene therapy because of their high delivery efficiency, the safety concern remains a major limitation. In contrast, non-viral vectors have attracted increasing attention owing to their favorable safety profiles, structural tunability, larger cargo capacity, and scalable production. In this review, we examine five major classes of non-viral gene delivery vectors, including Lipid Nanoparticles (LNP), polyplexes, lipoplexes, and exosomes, together with their corresponding hybrid systems. For each platform, we summarize structural features, delivery mechanisms, therapeutic applications, and translational challenges, and further discuss how hybrid architectures integrate complementary properties from different vectors to overcome limitations inherent to single-component systems. By organizing these delivery strategies within a unified structure-function-application framework, this review provides an integrated perspective on non-viral vector design and highlights hybrid systems as an increasingly important direction for the optimization of clinically relevant gene delivery platforms.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04622-9",
+        "keyword": "Exosomes",
+        "title_ja": "LNPからハイブリッドナノキャリアへ：非ウイルス遺伝子デリバリーの開発、課題、再設計",
+        "summary_ja": "本レビューは、非ウイルス性遺伝子デリバリー技術の進展を包括的に解説する。遺伝子治療は精密医療の中核だが、その臨床効果はデリバリーベクターの効率と安全性に依存する。ウイルスベクターは高効率だが安全性に課題があり、非ウイルスベクターは安全性、構造調整能、大容量カーゴ、スケーラブル生産で注目される。本稿では、脂質ナノ粒子（LNP）、ポリプレックス、リポプレックス、エクソソームの5主要クラスとそのハイブリッドシステムを検討。各プラットフォームの構造特性、デリバリー機構、治療応用、翻訳課題を要約し、ハイブリッド構造が単一成分の限界を克服する相補的特性を統合する方法を論じる。統一的な構造-機能-応用フレームワーク内で整理し、ハイブリッドシステムが臨床的遺伝子デリバリー最適化の重要な方向性であると結論付ける。"
+      },
+      {
+        "title": "Targeted extracellular vesicle-photoimmunotherapy remodels stromal-immune microenvironment to boost chemo-immunotherapy in preclinical models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42235518/",
+        "abstract": "Solid tumors, especially pancreatic ductal adenocarcinomas (PDACs), activate quiescent fibroblasts into cancer-associated fibroblasts (CAFs) that generate dense desmoplastic stroma. This barrier restricts drug penetration and immune infiltration, promoting tumor progression. Here, we engineer Midkine (MDK)-targeting nanobody-functionalized extracellular vesicles (D4-EV) as a precision photoimmunotherapy platform. These vesicles selectively accumulate in the tumor microenvironment through MDK overexpression. Loaded with chlorin e6 (Ce6), Ce6@D4-EV induces immunogenic cell death upon light irradiation, triggering dsDNA release and cGAS-STING activation in tumor-associated macrophages. Concurrently, it reprograms CAFs, reduces extracellular matrix deposition, improves vascular perfusion, and alleviates hypoxia. This stromal-immune remodeling substantially enhances the therapeutic efficacy of immune checkpoint blockade, adoptive T cell therapy, and chemotherapy, leading to prolonged survival in multiple MDK-positive preclinical tumor models. The platform provides a promising strategy to overcome stromal barriers in desmoplastic tumors.",
+        "source": "PubMed",
+        "doi": "10.1016/j.xcrm.2026.102843",
+        "keyword": "Exosomes",
+        "title_ja": "標的型細胞外小胞光免疫療法が間質-免疫微小環境を再構築し、前臨床モデルにおける化学免疫療法を促進する",
+        "summary_ja": "この論文は、膵管腺癌（PDAC）などの固形腫瘍において、癌関連線維芽細胞（CAF）が形成する緻密な間質が薬剤浸透や免疫浸潤を阻害する問題に対し、新たな治療プラットフォームを提案する。Midkine（MDK）標的ナノボディを機能化した細胞外小胞（D4-EV）にクロリンe6（Ce6）を搭載したCe6@D4-EVは、MDK過剰発現を介して腫瘍微小環境に選択的に集積する。光照射により免疫原性細胞死を誘導し、dsDNA放出と腫瘍関連マクロファージにおけるcGAS-STING経路を活性化する。同時にCAFを再プログラムし、細胞外マトリックス沈着を低減、血管灌流を改善、低酸素状態を緩和する。この間質・免疫リモデリングにより、免疫チェックポイント阻害、養子T細胞療法、化学療法の治療効果が大幅に向上し、複数のMDK陽性前臨床腫瘍モデルで生存期間が延長した。本プラットフォームは、間質性腫瘍の障壁を克服する有望"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Beyond scarring: a next-generation vision for pulmonary fibrosis management.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42240739/",
+        "abstract": "Interstitial pulmonary fibrosis remains a progressive, fatal lung disease with a median survival of approximately 4-5 years in contemporary registry data and limited therapies that slow but do not halt or reverse fibrosis. A fundamental reconceptualization of IPF from a static scar to a dynamic, cellularly heterogeneous ecosystem is emerging, driven by recent technological breakthroughs.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12082-5",
+        "keyword": "Exosomes",
+        "title_ja": "瘢痕化を超えて：肺線維症管理の次世代ビジョン",
+        "summary_ja": "タイトル: Beyond scarring: a next-generation vision for pulmonary fibrosis management.\n\n内容: 間質性肺線維症（IPF）は進行性で致死的な肺疾患であり、最新のレジストリデータでは生存期間中央値が約4～5年で、線維化を遅延させるが停止や逆転はできない限られた治療法しかない。近年の技術的進歩により、IPFを静的な瘢痕から動的で細胞的に不均一な生態系として捉え直す根本的な概念転換が生まれつつある。"
+      },
+      {
+        "title": "Tumor-derived WNT7A reprograms pulmonary fibroblasts to remodel the metastatic niche and promote bladder cancer lung metastasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42236896/",
+        "abstract": "The mechanisms underlying lung metastases in bladder cancer (BLCA) remain poorly understood. Cancer-associated fibroblasts (CAFs) are key modulators of the metastatic microenvironment, but how they are activated and contribute to BLCA lung metastases remains unclear. Single-nucleus RNA sequencing was conducted on metastatic lung lesions from patients with BLCA to characterize the tumor microenvironment. Functional and molecular biology experiments, including co-culture assays, luciferase reporter assays, chromatin immunoprecipitation and in vivo lung metastasis models, were performed to explore the mechanisms by which tumor-derived factors and CAFs-secreted exosomes contribute to metastasis. The results revealed that CAFs were enriched in metastatic lung lesions and activated by tumor-derived WNT7A via the Wnt/β-catenin pathway. These activated CAFs promoted BLCA cell proliferation, stemness and migration through the exosomal delivery of miR-1910-5p, which directly suppressed CTDNEP1 expression and activated MYC signaling. Mechanistically, RBMX was identified as a regulator of miR-1910-5p packaging into CAFs-derived exosomes. In vivo, inhibition of CAFs-derived exosomes secretion reduced lung metastasis, highlighting their critical role in metastasis formation. In conclusion, this study uncovers a novel reciprocal activation loop between tumor cells and CAFs in BLCA lung metastases, where tumor-secreted WNT7A activates resident pulmonary CAFs, which in turn enhance tumor malignancy through exosomal delivery of miR-1910-5p. This exosome-mediated crosstalk promotes metastatic progression via the CTDNEP1/MYC signaling pathway. These findings provide potential therapeutic targets for mitigating metastatic progression in BLCA.",
+        "source": "PubMed",
+        "doi": "10.1038/s12276-026-01735-x",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍由来のWNT7Aが肺線維芽細胞を再プログラム化し、転移ニッチを再構築して膀胱癌の肺転移を促進する",
+        "summary_ja": "膀胱癌（BLCA）肺転移の機序は不明である。本研究では、BLCA患者の転移性肺病変のsingle-nucleus RNA sequencingにより、癌関連線維芽細胞（CAFs）が転移巣に豊富に存在し、腫瘍由来WNT7AがWnt/β-catenin経路を介してCAFsを活性化することを発見した。活性化CAFsはエクソソームを介してmiR-1910-5pを送達し、CTDNEP1発現を抑制してMYCシグナルを活性化し、BLCA細胞の増殖、幹細胞性、遊走を促進した。RBMXがCAFs由来エクソソームへのmiR-1910-5pパッケージングを制御した。in vivoでCAFs由来エクソソーム分泌を阻害すると肺転移が減少した。以上より、腫瘍由来WNT7Aが肺CAFsを活性化し、CAFsがエクソソームを介して腫瘍悪性度を高める相互活性化ループがBLCA肺転移を促進することが示され、新たな治療標的が示唆"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Does Anatomy Dictate Outcome?: Self-Expanding vs Balloon-Expandable Transcatheter Aortic Valve Replacement in Small and Extra-Small Annuli.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42237081/",
+        "abstract": "The optimal transcatheter aortic valve replacement strategy in patients with a small aortic annulus (SAA) remains unclear. We performed a systematic review and meta-analysis comparing self-expanding valves (SEVs) to balloon-expandable valves (BEVs) in SAA patients. We searched PubMed, Embase, Web of Science, and Scopus for studies comparing SEVs and BEVs in patients with SAA defined by computed tomography. A random-effects model using the Der Simonian and Laird estimator was used to pool odds ratios (ORs) and mean differences (MDs). We identified 25 studies encompassing 13,846 patients (5633 BEV; 8213 SEV). SEVs demonstrated superior hemodynamics, including a larger indexed effective orifice area (MD: 0.20 cm2/m2; P < 0.00001), a lower mean transvalvular gradient (MD: -4.11 mm Hg; P < 0.00001), and a lower risk of severe patient-prosthesis mismatch (OR: 0.37; P < 0.00001). However, SEVs were associated with a higher risk of permanent pacemaker implantation (PPI) (OR: 1.63; P = 0.0008) and moderate or severe paravalvular leak (PVL) (OR: 2.26; P < 0.00001). There was no significant difference in all-cause mortality at 1 year (OR: 0.96; P = 0.55) or stroke at 30 days (OR: 1.34; P = 0.18). Notably, in a subgroup analysis restricted to patients with extra-small annuli (area <400 mm2 or diameter <23 mm), the hemodynamic advantages of SEVs persisted while the elevated risks of PPI and PVL were no longer statistically significant. In patients with SAA, SEVs provide better hemodynamics but carry safety concerns including higher risks of PVL and PPI in the overall population. These risks were not observed in the extra-small annulus subgroup. Valve selection should be individualized based on patient anatomy and procedural risk profile.",
+        "source": "PubMed",
+        "doi": "10.1097/CRD.0000000000001333",
+        "keyword": "sEVs",
+        "title_ja": "解剖学的構造が転帰を左右するか？：小および極小弁輪における自己拡張型 vs バルーン拡張型経カテーテル大動脈弁置換術",
+        "summary_ja": "本論文は、小大動脈弁輪（SAA）患者における自己拡張型弁（SEV）とバルーン拡張型弁（BEV）の経カテーテル的大動脈弁置換術の成績を比較した系統的レビューとメタ分析である。25研究、13,846例（BEV 5,633例、SEV 8,213例）を解析。SEVは、有効弁口面積指数が大きく（MD: 0.20 cm²/m²）、平均圧較差が低く（MD: -4.11 mmHg）、重症患者-プロテーゼミスマッチのリスクが低かった（OR: 0.37）。一方、恒久的ペースメーカー植込み（PPI）（OR: 1.63）および中等度以上の傍弁逆流（PVL）（OR: 2.26）のリスクが高かった。1年全死亡（OR: 0.96）および30日脳卒中（OR: 1.34）に有意差はなかった。超小弁輪（面積<400 mm²または径<23 mm）のサブグループでは、SEVの血行動態優位性は維持され、PPIとPVLのリスク上昇は"
+      },
+      {
+        "title": "Small extracellular vesicles promote cell survival and neuritogenesis in vitro in a manner dependent on dosage and cell of origin.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42236787/",
+        "abstract": "Mesenchymal Stem Cells (MSC) possess a diverse secretome with well-established neuroprotective effects. Form among the materiel released by these cells, extracellular vesicles (EVs) have gained particular interest lately, owing to their good safety profile, stability, and relative ease of use as a cell-free therapy. These lipid-enclosed nano-carriers can significantly alter the survival of recipient cells through the delivery of a wide variety of signalling molecules, the exact composition of which is highly dependent on the type, age, and environment of the donor cells. Glaucoma is a chronic progressive optic neuropathy characterised by the loss of Retinal Ganglion Cells whose axons make up the optic nerve. Preservation of these neurons via the administration of the right EVs represents a promising approach for slowing disease progression, thereby preventing vision loss. Here, we evaluate and compare the protective and neuritogenic potential of small extracellular vesicles (sEVs), a subset of EVs with a diameter smaller than 220 nm, from six different cell types using a rodent in vitro model of RGC degeneration. Our findings showed that Adipose Mesenchymal Stem Cells release the most potent sEVs, with Bone Marrow being a close second. EVs released by cells of the Umbilical Cord, Dental Pulp, Dermal Fibroblasts, and an Oral Mucosal Lamina Propria-Progenitor cells did not have an observable benefit. Thus, our study provides greater insight into how the efficacy of different EVs compares to each other.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-53763-2",
+        "keyword": "sEVs",
+        "title_ja": "小型細胞外小胞は、用量と由来細胞に依存した様式で、in vitroにおける細胞生存と神経突起形成を促進する。",
+        "summary_ja": "本論文では、間葉系幹細胞（MSC）由来の小型細胞外小胞（sEVs、直径220 nm未満）が、細胞生存と神経突起形成に及ぼす影響を、ラット網膜神経節細胞（RGC）変性のin vitroモデルを用いて評価した。sEVsは脂質二重膜に包まれたナノキャリアであり、細胞の種類や状態に依存したシグナル分子を運搬し、細胞生存を促進する。緑内障はRGCの喪失による進行性視神経症であり、適切なsEVs投与が病態進行抑制に有望とされる。6種類の細胞由来sEVsを比較した結果、脂肪由来MSCのsEVsが最も強力な保護・神経突起形成効果を示し、骨髄由来がそれに次いだ。臍帯、歯髄、皮膚線維芽細胞、口腔粘膜固有層前駆細胞由来のsEVsには顕著な効果は認められなかった。本研究は、sEVsの細胞由来による効果の差異を明らかにした。"
+      },
+      {
+        "title": "Infrared spectral signatures of plasma-derived small extracellular vesicles reveal diagnostic potential of idiopathic Parkinson's disease detection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41887346/",
+        "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder lacking reliable, early-stage diagnostic biomarkers. This study utilizes Fourier Transform Infrared (FTIR) spectroscopy to identify biochemical alterations in plasma-derived small extracellular vesicles (PsEVs) from PD patients.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbamem.2026.184521",
+        "keyword": "sEVs",
+        "title_ja": "血漿由来小型細胞外小胞の赤外線スペクトル特性が特発性パーキンソン病検出の診断可能性を明らかにする",
+        "summary_ja": "本研究では、パーキンソン病（PD）の早期診断バイオマーカー欠如に対し、血漿由来小型細胞外小胞（PsEVs）のフーリエ変換赤外（FTIR）分光法を用いた生化学的変化の特定を試みた。PD患者のPsEVsは、健常対照群と比較して特異的な赤外スペクトルシグネチャを示し、特にアミドI領域や脂質領域における吸収強度の差異が確認された。これらのスペクトル特徴は、タンパク質二次構造や脂質組成の変化を反映し、PD診断の潜在的なバイオマーカーとして有用である可能性が示唆された。FTIR分光法は、非侵襲的かつ迅速なPD検出法として有望である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **PF4による出血リスク予測（心臓手術）**  \n   血漿PF4が血小板反応性の信頼性バイオマーカーとして、抗血小板療法中の出血リスクを予測できる点が重要。術後出血の個別化予防に貢献し、臨床判断を支援する可能性がある。\n\n2. **CAR-NK細胞療法（多発性骨髄腫）**  \n   CAR-T細胞の毒性や製造課題を克服する次世代免疫療法として注目。オフ・ザ・シェルフ製剤が可能で、安全性が高く、再発性骨髄腫への新たな治療選択肢となる。\n\n3. **治療用細菌によるNK細胞訓練（転移予防）**  \n   サルモネラ菌単回投与で「訓練された」NK細胞が長期的な転移防御を誘導。転移が癌死の9割を占める中、予防的免疫戦略として画期的で、今後の臨床応用が期待される。\n\n4. **マクロファージ極性化標的治療（転移性胃がん）**  \n   腫瘍関連マクロファージ（TAM）の極性制御が免疫チェックポイント阻害剤の低奏効率（20%未満）を打破する鍵。TME再教育による治療抵抗性克服が展望される。\n\n5. **標的化エクソソームによる骨減少治療（IBD）**  \n   IL-18を介した腸-骨連関を解明し、骨標的エクソソームで精密治療を実現。腸炎制御後も持続する骨減少への新規アプローチとして、慢性炎症性疾患の全身合併症治療に革新をもたらす。"
+}

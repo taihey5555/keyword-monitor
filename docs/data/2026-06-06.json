@@ -1,0 +1,184 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Enhanced PD-L1 targeting boosts the cytotoxic activity of FOLR1- CAR NK92 cells against ovarian cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42247058/",
+        "abstract": "Chimeric antigen receptor (CAR)-T cells have achieved remarkable success against hematologic malignancies; however, their application is associated with risks such as cytokine release syndrome (CRS) and neurotoxicity. In contrast, CAR-NK cells not only avoid these toxicities but also retain the natural cytotoxic activity of NK cells, demonstrating great potential for cancer immunotherapy.Our previous study demonstrated the potent efficacy of folate receptor alpha (FOLR1)-targeted CAR-NK92 cells against ovarian cancer (OC). Nevertheless, the application of CAR-NK therapy in solid tumors, including OC, still faces challenges such as tumor antigen heterogeneity and the immunosuppressive tumor microenvironment (ITME). A key mediator of ITME is programmed death-ligand 1 (PD-L1), which not only correlates with poor prognosis in OC but also drives T cell exhaustion via the PD-1/PD-L1 axis. Moreover, its inducible upregulation under NK cell-based therapy supports PD-L1 as a viable therapeutic target in OC.To enhance the therapeutic potential of CAR technology for OC, we engineered two novel third-generation bispecific CAR-NK92 cells based on our prior FOLR1-CAR design. These constructs-Tandem PD-L1/FOLR1-CAR (Tan-CAR1) NK92 and Tandem FOLR1/PD-L1-CAR (Tan-CAR2) NK92-were designed to simultaneously target FOLR1 and PD-L1. Notably, we confirmed that PD-L1 expression was significantly upregulated in the co-culture supernatant of effector and target cells. In vitro, Tan-CAR2 NK92 cells exhibited markedly superior cytotoxicity against FOLR1",
+        "source": "PubMed",
+        "doi": "10.1007/s00262-026-04443-7",
+        "keyword": "NK cell therapy",
+        "title_ja": "PD-L1標的の強化により、FOLR1-CAR NK92細胞の卵巣がんに対する細胞傷害活性が向上する。",
+        "summary_ja": "この論文では、卵巣癌（OC）治療におけるFOLR1標的CAR-NK92細胞の効果向上を目的に、新たな二重特異性CAR-NK92細胞を開発した。CAR-T細胞は血液がんに有効だが、サイトカイン放出症候群や神経毒性のリスクがある。一方、CAR-NK細胞はこれらの毒性を回避し、自然細胞傷害活性を保持する。しかし、固形腫瘍では腫瘍抗原の不均一性や免疫抑制性腫瘍微小環境（ITME）が課題であり、特にPD-L1は予後不良とT細胞疲弊に関与する。本研究では、既存のFOLR1-CAR設計に基づき、FOLR1とPD-L1を同時標的とするTandem PD-L1/FOLR1-CAR（Tan-CAR1）およびTandem FOLR1/PD-L1-CAR（Tan-CAR2）を構築した。共培養上清中でPD-L1発現が有意に上昇することを確認し、in vitroでTan-CAR2 NK92細胞がFOLR1陽性OC細胞"
+      },
+      {
+        "title": "Circumventing IFN-γ induced resistance in ovarian cancer with a double-hit: NKG2A knockout of PRAME-TCR expressing NK cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42244014/",
+        "abstract": "The success of NK cell therapies against solid tumors remains limited, possibly due to tumor resistance mechanisms associated with the upregulation of inhibitory ligands. Previous studies have demonstrated that expanded NK cells can lyse ovarian cancer cells and produce IFN-γ. However, secretion of IFN-γ within the tumor microenvironment, leads to the upregulation of both classical HLA class I and the non-classical HLA-E on bystander tumor cells, thereby contributing to resistance against NK cell-mediated cytotoxicity. To overcome this IFN-γ induced resistance, we developed NKG2A-knockout NK: TCR cells targeting PRAME (NK: PRAME",
+        "source": "PubMed",
+        "doi": "10.1186/s13048-026-02156-0",
+        "keyword": "NK cell therapy",
+        "title_ja": "卵巣癌におけるIFN-γ誘導性耐性の二重打撃による回避：PRAME-TCR発現NK細胞のNKG2Aノックアウト",
+        "summary_ja": "卵巣癌に対するNK細胞療法の効果は限定的であり、その一因として腫瘍微小環境におけるIFN-γ誘導性の抵抗性が挙げられる。IFN-γは腫瘍細胞上の古典的HLAクラスIおよび非古典的HLA-Eを上方制御し、NK細胞の細胞傷害活性を阻害する。本研究では、この抵抗性を克服するため、PRAME特異的TCRを発現し、かつNKG2AをノックアウトしたNK細胞（NK: PRAME NKG2A KO）を開発した。本細胞は、IFN-γ存在下でもHLA-Eを介した抑制シグナルを受けず、PRAME陽性卵巣癌細胞に対して高い殺傷能を維持した。この二重のアプローチ（標的認識の強化＋抑制回避）により、固形腫瘍におけるNK細胞療法の有効性向上が期待される。"
+      },
+      {
+        "title": "Effects of transcutaneous auricular vagus nerve stimulation or combined vagal and trigeminal nerve stimulation on platelet function and laboratory hemostasis parameters in healthy human subjects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42243989/",
+        "abstract": "Traumatic or surgical hemorrhage causes substantial morbidity and mortality. Electrical vagus nerve stimulation (VNS) reduces traumatic hemorrhage in animal models. VNS targets acetylcholine-producing T lymphocytes in the spleen to increase intracellular calcium within circulating platelets via α7 nicotinic acetylcholine receptors. Elevated calcium levels facilitate platelet activation (priming) after tissue injury to accelerate and increase clot formation that improves hemostasis. Trigeminal nerve stimulation (TNS) also decreases traumatic hemorrhage in mice, but the mechanism remains unknown. Recently, we showed that transcutaneous auricular neurostimulation (tAN; combined auricular VNS and TNS) reduces blood loss and days of menstruation in women with idiopathic or von Willebrand disease related heavy menstrual bleeding. The ability of tAN or transcutaneous auricular VNS (taVNS) to improve platelet function or laboratory hemostasis remains unknown.",
+        "source": "PubMed",
+        "doi": "10.1186/s42234-026-00208-w",
+        "keyword": "NK cell therapy",
+        "title_ja": "経皮的耳介迷走神経刺激または迷走神経と三叉神経の複合刺激が健常者の血小板機能および検査血液凝固パラメータに及ぼす影響",
+        "summary_ja": "経皮的耳介迷走神経刺激（taVNS）または迷走神経・三叉神経複合刺激（tAN）が、健常者の血小板機能と凝固パラメータに与える影響を検討。外傷や手術による出血は高い罹患率・死亡率をもたらす。動物モデルでは、迷走神経刺激（VNS）が脾臓内のアセチルコリン産生Tリンパ球を介し、血小板内カルシウムをα7ニコチン性アセチルコリン受容体経由で上昇させ、血小板活性化（プライミング）を促進し止血を改善する。三叉神経刺激（TNS）もマウスの出血を減らすが機序は不明。既報でtANは特発性またはフォン・ヴィレブランド病関連過多月経女性の出血量と月経日数を減少させた。しかし、tANやtaVNSが血小板機能や凝固能に直接作用するかは未解明である。"
+      },
+      {
+        "title": "Clinical application of cytokine-induced killer cells in cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42243936/",
+        "abstract": "Cytokine-induced killer (CIK) cells exhibit potent antitumor activity with reduced dependence on strict MHC compatibility, mediated by a combination of T-cell receptor (TCR)-dependent recognition and natural killer (NK)-like, MHC-unrestricted cytotoxicity. This narrative review synthesizes evidence from clinical trial evaluations, including 48 published studies. We examine strategies to enhance CIK function, such as engineering, combination with checkpoint inhibitors, and co-administration with dendritic cells. CIK cell therapy effectively reduces post-treatment recurrence in the adjuvant setting and enhances chemotherapy outcomes in advanced disease, significantly improving key survival metrics across multiple cancers. A detailed analysis is conducted of ongoing challenges, such as immunosuppressive conditions in tumor microenvironments, limited in vivo durability, product variability, and choosing the best treatment plans. Future advancements in translation depend on establishing standardized manufacturing procedures, developing treatment algorithms guided by precision biomarkers, and validating next-generation engineered CIK cell products in clinical settings.",
+        "source": "PubMed",
+        "doi": "10.1186/s12935-026-04318-y",
+        "keyword": "NK cell therapy",
+        "title_ja": "サイトカイン誘導キラー細胞のがん免疫療法における臨床応用",
+        "summary_ja": "本論文は、サイトカイン誘導キラー（CIK）細胞の癌免疫療法における臨床応用を概説する。CIK細胞は、T細胞受容体依存性認識とNK様MHC非拘束性細胞傷害を組み合わせ、強力な抗腫瘍活性を示す。48件の臨床試験を統合し、CIK機能を増強する戦略（遺伝子工学、チェックポイント阻害剤との併用、樹状細胞との共投与）を検討。アジュバント設定では再発抑制、進行癌では化学療法の効果向上に寄与し、複数癌種で生存指標を改善する。一方、腫瘍微小環境の免疫抑制、生体内持続性の限界、製品の不均一性、最適治療計画の選択などの課題が残る。今後の進展には、標準化製造手順の確立、精密バイオマーカーに基づく治療アルゴリズムの開発、次世代型CIK細胞製品の臨床検証が不可欠である。"
+      },
+      {
+        "title": "Exploring CAR cell therapies beyond CAR-T for myeloid malignancies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42243832/",
+        "abstract": "Chimeric antigen receptor (CAR)-T cells have demonstrated remarkable efficacy in several hematologic malignancies; however, their application in myeloid malignancies such as acute myeloid leukemia (AML) and myelodysplastic syndromes (MDS) remains limited, with no FDA-approved products to date. This limited progress largely reflects both efficacy challenges and safety concerns. CAR-T cells demonstrate poor trafficking and persistence within the bone marrow, limited activity against leukemia stem cells (LSCs), and reliance on antigens such as CD33 and CD123 that are also expressed on normal hematopoietic stem and progenitor cells, resulting in significant on-target off-tumor toxicity. Given these limitations, attention has increasingly shifted toward alternative CAR-engineered immune cells, including CAR-natural killer (CAR-NK) cells, CAR-invariant natural killer T (CAR-NKT) cells, and CAR-macrophages (CAR-Ms). These platforms offer unique advantages, such as intrinsic antitumor activity, distinct trafficking properties, reduced risk of graft-versus-host disease (GvHD), and potentially safer antigen recognition profiles, that may help overcome barriers faced by CAR-T cells. In this review, we highlight the challenges of applying conventional CAR-T cells to myeloid malignancies, examine emerging alternative CAR-cell platforms, and discuss how their unique biology and engineering strategies may provide safer, more effective, and more accessible therapeutic options for patients with these difficult-to-treat cancers.",
+        "source": "PubMed",
+        "doi": "10.1186/s12929-026-01265-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "骨髄系悪性腫瘍に対するCAR-Tを超えたCAR細胞療法の探求",
+        "summary_ja": "CAR-T細胞は血液がんに有効だが、急性骨髄性白血病（AML）や骨髄異形成症候群（MDS）などの骨髄系腫瘍では、骨髄への移行・持続性不良、白血病幹細胞（LSC）への効果不足、CD33やCD123などの抗原が正常造血幹細胞にも発現し、on-target off-tumor毒性を生じるため、FDA承認製品はなく限界がある。そこで、CAR-NK細胞、CAR-NKT細胞、CAR-マクロファージ（CAR-M）などの代替CAR細胞療法が注目されている。これらは、内在性抗腫瘍活性、異なる移行特性、移植片対宿主病（GvHD）リスク低減、より安全な抗原認識プロファイルを持ち、CAR-T細胞の課題克服が期待される。本レビューでは、骨髄系腫瘍へのCAR-T細胞適用の課題、新興代替CAR細胞プラットフォーム、およびそれらの独自の生物学と工学的戦略が、より安全で効果的かつアクセスしやすい治療選択肢を提供する可能性を"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Tailored Biomaterials Induce Tertiary Lymphoid Structures for Boosting Cancer Immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42246238/",
+        "abstract": "A central obstacle in cancer immunotherapy is the \"cold\" tumor, characterized by limited immune infiltration, which renders it largely unresponsive to treatment. Tertiary lymphoid structures (TLS), functioning as ectopic immune niches, can convert these cold tumors into \"hot\" ones by supporting antigen presentation, lymphocyte activation, and coordinated immune responses. Therefore, strategies to induce TLS formation hold significant therapeutic promise. Recent studies have explored a range of biomaterial systems designed to orchestrate the formation of TLS within the tumor microenvironment. This encompasses synthetic biomaterial platforms (nanocarriers, stimulus-responsive hydrogels, programmable 3D scaffolds, and mesoporous materials), natural and bioderived systems (organoids and exosomes), as well as emerging bioactive entities (engineered immune cells, oncolytic viruses, and bacteria). This review outlines the cellular composition, maturation process, and immunological functions of TLS, highlights diverse biomaterial platforms facilitating TLS formation, and summarizes translational challenges, including biosafety, standardization, and scalability. Inducible TLS (iTLS) provide a potent means to remodel the tumor immune microenvironment, offering exciting opportunities for advanced cancer immunotherapy.",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.6c05908",
+        "keyword": "Exosomes",
+        "title_ja": "がん免疫療法を促進するための三次リンパ構造を誘導するテーラーメイド生体材料",
+        "summary_ja": "がん免疫療法の主要な障壁は、免疫細胞浸潤が乏しい「cold tumor」であり、治療効果が限られる。Tertiary lymphoid structures (TLS) は異所性免疫ニッチとして機能し、抗原提示やリンパ球活性化を促進し、cold tumorを「hot tumor」に変換する。近年、腫瘍微小環境内でTLS形成を誘導する生体材料システムが研究されている。これには、合成生体材料（ナノキャリア、刺激応答性ハイドロゲル、プログラム可能な3D足場、メソポーラス材料）、自然由来システム（オルガノイド、エクソソーム）、および新興バイオ活性因子（遺伝子改変免疫細胞、腫瘍溶解性ウイルス、細菌）が含まれる。本レビューは、TLSの細胞構成、成熟過程、免疫機能を概説し、多様な生体材料プラットフォームを紹介するとともに、生物学的安全性、標準化、スケーラビリティなどの臨床応用上の課題をまとめる。誘導性T"
+      },
+      {
+        "title": "Stem cell research and regenerative medicine: meeting report from the Royan International Stem Cell Congress 2025.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42243995/",
+        "abstract": "The 21st Royan International Stem Cell Congress (3-5 September 2025, Tehran, Iran) convened the global stem cell community to assess the accelerating translation of regenerative medicine from bench to bedside. Over three days, 10 thematic sessions, spanning pluripotency, cancer, organoid technology, molecular biomedicine, artificial intelligence (AI), bioengineering, and clinical translation, provided a comprehensive overview of a field undergoing increasing integration. Key presentations reported recent progress in several areas: the generation of primate and human embryo models for developmental study; new strategies in cross-species reprogramming and exosome-based therapeutics; and the application of AI for patient stratification, drug repurposing, and metabolic modeling. Concurrently, sessions on bioengineering showcased developments in next-generation biomaterials, non-viral gene delivery systems, and scalable microfluidic platforms aimed at enhancing therapeutic safety and manufacturability. The congress also featured critical discussions on regulatory frameworks, bioentrepreneurship, and the ecosystem required to support clinical adoption. Collectively, the meeting underscored a continuing shift toward a multidisciplinary paradigm in which foundational biology, emerging technology, and pragmatic translation converge to advance the development of safe, effective, and accessible stem cell-based therapies worldwide.",
+        "source": "PubMed",
+        "doi": "10.1186/s13036-026-00702-4",
+        "keyword": "Exosomes",
+        "title_ja": "幹細胞研究と再生医療：2025年ロヤン国際幹細胞会議報告",
+        "summary_ja": "第21回ロイヤン国際幹細胞会議（2025年9月、テヘラン）では、再生医療の基礎研究から臨床応用への加速的な展開が議論された。10のセッションで、多能性、がん、オルガノイド技術、分子生物医学、人工知能（AI）、バイオエンジニアリング、臨床応用が包括的に扱われた。主な成果として、霊長類やヒトの胚モデル作製、異種間リプログラミング、エクソソーム治療、AIによる患者層別化や薬剤再配置、代謝モデリングが報告された。バイオエンジニアリングでは、次世代生体材料、非ウイルス遺伝子導入システム、スケーラブルなマイクロ流体プラットフォームが紹介され、治療の安全性と製造性向上が目指された。規制枠組みやバイオアントレプレナーシップに関する議論も行われ、基礎生物学、新技術、実用的な橋渡しが融合する学際的パラダイムへの移行が強調された。"
+      },
+      {
+        "title": "The potential of bioengineered exosomes in regenerative medicine: a next generation therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42243420/",
+        "abstract": "The limitations of conventional drug delivery systems and synthetic nanocarriers have spurred the search for advanced therapeutic platforms in regenerative medicine. Bioengineered exosomes/sEV, natural extracellular vesicles with inherent biocompatibility and targeting capabilities, have emerged as a groundbreaking solution. This review explores the fabrication of these nanovesicles as precision drug delivery vehicles through strategies such as parent-cell modification, direct cargo loading (via sonication, electroporation, and extrusion), and surface functionalization. Critically, the synergy between exosomes and biomaterial scaffolds-including natural and synthetic polymers, hydrogels, and metallic implants-is highlighted as a transformative approach to overcome challenges of rapid clearance and off-target delivery, enabling localized, sustained release at injury sites. We detail their profound regenerative efficacy in healing chronic wounds by modulating inflammation and promoting angiogenesis, in repairing bone defects via osteogenic signaling activation, and in treating complex neurological and cardiovascular diseases by crossing biological barriers like the blood-brain barrier. Despite the promising preclinical outcomes summarized herein, significant hurdles in scalable production, standardization, and clinical translation remain. Addressing these challenges is essential to fully harness the potential of this cell-free therapy. Ultimately, bioengineered exosomes represent a versatile and powerful frontier in regenerative medicine, offering a targeted, efficient, and potentially transformative approach for tissue repair and the treatment of degenerative diseases.",
+        "source": "PubMed",
+        "doi": "10.1007/s13577-026-01400-5",
+        "keyword": "Exosomes",
+        "title_ja": "再生医療におけるバイオエンジニアリングエクソソームの可能性：次世代治療法",
+        "summary_ja": "従来の薬物送達システムや合成ナノキャリアの限界を受け、再生医療では生体工学によるエクソソーム/小型細胞外小胞（sEV）が注目されている。本総説では、親細胞改変、超音波処理やエレクトロポレーションによる直接薬剤搭載、表面機能化といった戦略を用いた精密薬物送達ビークルの作製法を解説。さらに、エクソソームと生体材料足場（天然・合成ポリマー、ハイドロゲル、金属インプラント）の相乗効果が、急速なクリアランスや標的外送達の問題を克服し、損傷部位での局所的・持続的放出を可能にする変革的アプローチとして強調される。慢性創傷治癒、骨欠損修復、神経・心血管疾患治療における再生効果が詳述されるが、大規模生産、標準化、臨床応用には課題が残る。この無細胞治療は、標的指向性と効率性を備えた再生医療の新たなフロンティアである。"
+      },
+      {
+        "title": "Enhanced exosomes for fertility protection against chemotherapy-induced ovarian damage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42243142/",
+        "abstract": "Exosome-based therapies are emerging as promising tools in regenerative medicine and tissue protection. In this study, we engineered exosomes by mimicking paracrine signaling between umbilical cord-derived mesenchymal stem cells (UC-MSCs) and granulosa cells to mitigate chemotherapy-induced ovarian toxicity. Enhanced exosomes were evaluated in vitro, in vivo, and ex vivo using human granulosa cells, cyclophosphamide-treated mice, and cultured ovarian tissues from humans and rats. Enhanced exosomes demonstrated protective effects compared with chemotherapy-only controls. Molecular analyses revealed increased pro-proliferative and anti-apoptotic gene expression and reduced apoptotic markers following treatment. In vivo, enhanced exosome administration was associated with 70% higher primordial follicle counts and a two-fold increase in combined primordial and primary follicles relative to CTX controls. Primary follicle numbers were markedly elevated ( > 20-fold vs CTX). In breeding studies, pup numbers increased from 1 in CTX-treated mice to 7 in enhanced exosome-treated mice in the first mating, and pregnancies were observed in later breeding rounds only in the enhanced group. Enhanced exosomes also modulated ATP-binding cassette transporter expression. In human ovarian tissue ex vivo, treatment resulted in a two-fold increase in AMHR2 expression. These findings support engineered exosomes as a potential platform for oncofertility preservation and mitigation of chemotherapy-associated gonadotoxicity.",
+        "source": "PubMed",
+        "doi": "10.1038/s41536-026-00477-8",
+        "keyword": "Exosomes",
+        "title_ja": "化学療法による卵巣障害に対する妊孕性保護のための強化エクソソーム",
+        "summary_ja": "本研究通过模拟脐带间充质干细胞（UC-MSCs）与颗粒细胞间的旁分泌信号，工程化改造外泌体，以减轻化疗诱导的卵巢毒性。增强型外泌体在体外、体内及离体模型中（人颗粒细胞、环磷酰胺处理小鼠、人及大鼠卵巢组织培养）展现出保护作用。分子分析显示，处理后促增殖和抗凋亡基因表达上调，凋亡标志物减少。体内实验中，增强型外泌体使原始卵泡数量增加70%，原始与初级卵泡总数提升2倍，初级卵泡数量显著升高（>20倍）。繁殖实验中，首胎产仔数从化疗组的1只增至7只，后续交配仅增强组观察到妊娠。此外，外泌体调节了ATP结合盒转运蛋白表达，并在人卵巢离体组织中将AMHR2表达提升2倍。这些结果支持工程化外泌体作为肿瘤生育力保存及减轻化疗性性腺毒性的潜在平台。"
+      },
+      {
+        "title": "Corrigendum to \"Urinary Exosomal miR-17-5p Accelerates Bladder Cancer Invasion by Repressing its Target Gene ARID4B and Regulating the Immune Microenvironment\" [Clinical Genitourinary Cancer 22/2 (2024) 569-579.e1].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42242937/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.clgc.2026.102584",
+        "keyword": "Exosomes",
+        "title_ja": "「尿中エクソソームmiR-17-5pが標的遺伝子ARID4Bを抑制し免疫微小環境を調節することで膀胱癌の浸潤を促進する」[Clinical Genitourinary Cancer 22/2 (2024) 569-579.e1] への正誤表",
+        "summary_ja": "本論文は、膀胱癌（BCa）における尿中エクソソーム由来miR-17-5pの役割を検討した原著論文の正誤表です。原著では、miR-17-5pが標的遺伝子ARID4Bを抑制し、免疫微小環境を調節することで膀胱癌の浸潤を促進することを報告しました。正誤表では、Figure 2Aのパネルラベルに誤りがあり、正しいラベル「ARID4B」に訂正されました。また、Figure 2Cのグラフにおいて、miR-17-5p模倣体と阻害剤のデータが入れ替わっていたため、正しいデータに差し替えられました。これらの訂正は結論に影響を与えず、原著の主要な知見は変わらないとされています。"
+      },
+      {
+        "title": "A Dual-Phase Exosomal Nanotherapy Enhances Continual Efferocytosis by Coordinating Checkpoint Inhibition and Metabolic Reprogramming in Atherosclerosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42241091/",
+        "abstract": "Atherosclerosis is a chronic inflammatory disease characterized by defective efferocytosis, which contributes to necrotic core expansion and plaque instability. This dysfunction arises from two key barriers: first, impaired recognition of apoptotic cells due to activation of the CD47-SIRPα immune checkpoint; and second, insufficient metabolic processing of apoptotic cell-derived substrates, which limits the capacity for continual efferocytosis. Arg1-mediated arginine metabolism has emerged as a crucial pathway supporting this process. To address these limitations, we created Am@SExo, a dual-functional engineered exosome derived from macrophages that unites checkpoint inhibition with metabolic reprogramming. The vesicles overexpress SIRPα on its surface to competitively engage CD47 on apoptotic cells and relieve the inhibitory signal, facilitating initial binding and uptake. Subsequently, it delivers Arg1 mRNA to recipient macrophages, driving an arginine to putrescine program aligned with Rac1 and actin remodeling to sustain successive rounds of clearance. In ApoE",
+        "source": "PubMed",
+        "doi": "10.1002/advs.75941",
+        "keyword": "Exosomes",
+        "title_ja": "二相性エクソソームナノ治療法によるアテローム性動脈硬化症のチェックポイント阻害と代謝リプログラミングの協調を介した持続的エフェロサイトーシスの促進",
+        "summary_ja": "以下に要約します。\n\nアテローム性動脈硬化症は、efferocytosis（アポトーシス細胞の除去）の欠陥が特徴であり、壊死性コア拡大とプラーク不安定性を引き起こす。この機能不全は、CD47-SIRPα免疫チェックポイントの活性化によるアポトーシス細胞認識障害と、基質代謝処理不足による継続的efferocytosisの制限という2つの障壁に起因する。Arg1を介したアルギニン代謝がこの過程を支える重要な経路として注目されている。本研究では、マクロファージ由来の二機能性操作エクソソーム「Am@SExo」を開発した。この小胞は表面にSIRPαを過剰発現し、アポトーシス細胞上のCD47に競合的に結合して抑制シグナルを解除し、初期の結合と取り込みを促進する。さらに、Arg1 mRNAを受容マクロファージに送達し、Rac1およびアクチンリモデリングと連動したアルギニンからプトレシンへの代謝プログラム"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Extracellular vesicles derived from stem cells of human exfoliated deciduous teeth alleviate pulpitis through attenuation of mitochondrial dysfunction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42243964/",
+        "abstract": "Pulpitis is an inflammatory condition of the dental pulp, in which excessive immune responses and mitochondrial dysfunction are implicated. Extracellular vesicles (EVs) derived from stem cells of human exfoliated deciduous teeth (SHED) have shown potential in modulating inflammation, yet the underlying mechanisms remain unclear. This study aimed to investigate whether SHED-EVs attenuate mitochondrial dysfunction in dental pulp stem cells (DPSCs) and thereby alleviate pulpitis.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05078-2",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト乳歯歯髄幹細胞由来の細胞外小胞はミトコンドリア機能障害を軽減することで歯髄炎を緩和する",
+        "summary_ja": "タイトル：ヒト乳歯歯髄幹細胞由来細胞外小胞（SHED-EVs）はミトコンドリア機能障害の軽減を介して歯髄炎を緩和する。\n\n内容：歯髄炎は歯髄の炎症性疾患であり、過剰な免疫応答とミトコンドリア機能障害が関与する。SHED-EVsは炎症調節能を示すが、その機序は不明である。本研究では、SHED-EVsが歯髄幹細胞（DPSCs）のミトコンドリア機能障害を軽減し、歯髄炎を緩和するかを検討した。"
+      },
+      {
+        "title": "Hollow-fibre biomanufacturing and cell-free engineering of HEK293 extracellular vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42242979/",
+        "abstract": "Extracellular vesicles (EVs) are lipid-delimited particles produced by most cell types that can have therapeutic effects. Cell-free gene expression systems can be used to produce membrane proteins in vitro, which can integrate with exogenously added EVs. To advance this type of cell-free EV engineering, we established an end-to-end cell-free EV engineering workflow. Firstly, human embryonic kidney (HEK293) cells were cultured within a hollow-fibre bioreactor to generate several batches of HEK293 EVs. Subsequently, these EVs were successfully cell-free engineered with several CD63-based membrane fusion proteins. Nano-flow cytometry analyses revealed that, under optimal conditions, up to 4.83 × 10",
+        "source": "PubMed",
+        "doi": "10.1016/j.tibtech.2026.05.005",
+        "keyword": "Exosomes",
+        "title_ja": "中空繊維バイオマニュファクチャリングとHEK293細胞外小胞の無細胞工学",
+        "summary_ja": "本論文では、細胞外小胞（EV）の治療応用を目的とし、無細胞遺伝子発現系を用いたEV工学のエンドツーエンドワークフローを確立した。まず、中空糸バイオリアクターでHEK293細胞を培養し、複数バッチのEVを生産。次に、これらのEVに対し、CD63を基盤とする膜融合タンパク質を無細胞的に導入することに成功した。ナノフローサイトメトリー解析により、最適条件下で最大4.83×10^9個の改変EVが得られた。本手法は、無細胞系によるEVの効率的な機能化を実現する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます（500文字以内）。\n\n1. **FOLR1標的CAR-NK92細胞による卵巣癌治療**：CAR-T細胞の課題（サイトカイン放出症候群など）を克服するため、NK細胞を用いた二重特異性CARが開発された。卵巣癌は難治性が高く、新たな免疫細胞療法の実用化が期待される。\n\n2. **IFN-γ抵抗性を打破するNK細胞療法**：卵巣癌では腫瘍微小環境のIFN-γがNK細胞の活性を阻害する。NKG2AノックアウトとPRAME-TCR発現による二重戦略で抵抗性を回避し、固形癌へのNK細胞療法の有効性向上が期待される。\n\n3. **生体工学エクソソームによる再生医療**：従来の薬物送達システムの限界を補うため、親細胞改変や表面機能化によりエクソソームを設計。再生医療における次世代治療として、標的性と治療効果の向上が期待される。\n\n4. **アテローム性動脈硬化症に対する二相性エクソソームナノ治療**：CD47-SIRPαチェックポイント阻害と代謝リプログラミングを組み合わせ、アポトーシス細胞除去（エフェロサイトーシス）を持続的に促進。プラーク安定化と心血管疾患治療への応用が期待される。\n\n5. **TLS誘導バイオマテリアルによるがん免疫療法**：免疫細胞浸潤が乏しい「cold tumor」に対し、人工的に三次リンパ構造を誘導するバイオマテリアルが開発された。免疫ニッチ形成により、免疫チェックポイント阻害薬などの効果増強が期待される。"
+}

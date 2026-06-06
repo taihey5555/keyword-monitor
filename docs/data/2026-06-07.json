@@ -1,0 +1,145 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Prophylactic Administration of Gypsophila oldhamiana Extract Restricts Acute Toxoplasma gondii Infection via the DC-IL-12-CD8⁺ T Cell Axis in a Murine Model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42250127/",
+        "abstract": "Toxoplasma gondii (T. gondii) is a globally prevalent parasite that poses significant medical and veterinary challenges. Although current therapies such as pyrimethamine and sulfadiazine are effective, they often cause severe adverse effects, including myelosuppression, highlighting the need for safer and more effective alternatives. In this study, we evaluated the immunostimulatory and antiparasitic activities of three traditional herbal extracts, Stellaria dichotoma L. var. lanceolata Bge. (LDS), Stellaria aquaatic (SA) and Gypsophila oldhamiana (GO), in a murine model of T. gondii infection.",
+        "source": "PubMed",
+        "doi": "10.1007/s11686-026-01296-z",
+        "keyword": "NK cell therapy",
+        "title_ja": "マウスモデルにおけるカスミソウ抽出物の予防投与によるDC-IL-12-CD8⁺ T細胞軸を介した急性トキソプラズマ感染の抑制",
+        "summary_ja": "タイトル：マウスモデルにおけるToxoplasma gondii急性感染に対するGypsophila oldhamiana抽出物の予防投与によるDC-IL-12-CD8⁺ T細胞軸を介した抑制効果\n\nToxoplasma gondiiは世界的に蔓延する寄生虫で、医療・獣医学上重要な課題である。現行治療薬（ピリメタミン、スルファジアジン）は有効だが、骨髄抑制などの重篤な副作用があるため、より安全で効果的な代替薬が求められる。本研究では、3種の伝統的ハーブ抽出物（LDS、SA、GO）の免疫刺激活性と抗寄生虫活性をマウスT. gondii感染モデルで評価した。その結果、GO抽出物の予防投与が、樹状細胞（DC）を介したIL-12産生誘導とCD8⁺ T細胞の活性化を通じて、急性感染を有意に抑制することを明らかにした。このDC-IL-12-CD8⁺ T細胞軸がGOの抗トキソプラズマ効果の主要メカニズム"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Immune tolerance: Parallels between pregnancy and kidney transplantation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42248030/",
+        "abstract": "Pregnancy represents a unique immunological paradox in which the maternal immune system must tolerate the semi-allogeneic fetus expressing paternal antigens. The success of pregnancy depends on a highly coordinated network of immune tolerance mechanisms, encompassing the placental barrier, chemokine-guided leukocyte migration, restricted alloantigen presentation, regulatory T cells, tolerogenic natural killer cells, immune checkpoint molecules, and both hormonal and metabolic adaptations. In contrast, achieving long-term acceptance of transplanted organs-referred to as \"operational tolerance\"-remains a formidable clinical challenge that typically necessitates lifelong immunosuppression. Contemporary strategies to induce tolerance focus on the deletion or anergy of donor-reactive immune cells and the utilization of regulatory T cells to suppress rejection. Additional approaches, including co-stimulatory blockade, cell-based therapies, and induction of mixed chimerism via donor stem cell transplantation, seek to replicate these tolerance mechanisms. Ongoing clinical immune monitoring and emerging interventions-such as the inhibition of T-cell signaling, modulation of costimulatory pathways, and targeted expansion of regulatory T cells-are being actively investigated to improve rejection control and foster long-term tolerance. Both pregnancy and organ transplantation challenge the immune system to tolerate foreign antigens. Pregnancy achieves this through specialized placental barriers and regulatory immune adaptations, whereas transplantation relies on immunosuppression because natural tolerance is rare. Key concepts include immune regulation, the role of regulatory T cells, and emerging therapies targeting immune pathways. This review selectively compares these core mechanisms to clarify how lessons from each context can inform strategies for optimizing maternal health and long-term graft success.",
+        "source": "PubMed",
+        "doi": "10.1016/j.humimm.2026.111767",
+        "keyword": "NK cell therapy",
+        "title_ja": "免疫寛容：妊娠と腎移植の類似点",
+        "summary_ja": "妊娠は、母体免疫系が父方抗原を発現する半同種異系胎児を寛容する免疫学的パラドックスである。その成功には、胎盤バリア、ケモカイン誘導性白血球遊走、制限された同種抗原提示、制御性T細胞、寛容性ナチュラルキラー細胞、免疫チェックポイント分子、ホルモン・代謝適応から成る高度に調整された免疫寛容ネットワークが必要である。一方、移植臓器の長期受容（「操作的寛容」）は臨床的に困難で、通常は生涯にわたる免疫抑制を要する。現在の寛容誘導戦略は、ドナー反応性免疫細胞の除去やアネルギー化、制御性T細胞の利用に焦点を当てる。共刺激遮断、細胞療法、ドナー幹細胞移植による混合キメラ誘導なども検討されている。妊娠と移植は共に外来抗原への寛容を免疫系に課すが、妊娠は胎盤バリアと調節的免疫適応で達成するのに対し、移植は自然寛容が稀なため免疫抑制に依存する。本レビューはこれらの核心的メカニズムを比較し、母体健康と移植片長期生"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Integrating multi-omics and clinical management in breast cancer: a comprehensive review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42250175/",
+        "abstract": "Unlike conventional reviews that often treat molecular layers as isolated domains, this review uniquely integrates genomic, transcriptomic, proteomic, and metabolomic data to bridge the gap between advanced tumor microenvironment (TME) profiling and actionable clinical management. Its objective is to provide a definitive translational roadmap that decodes TME reprogramming, surmounts therapeutic resistance, and optimizes personalized oncology. We dissect the multifaceted mechanisms driving therapeutic resistance and highlight the paradigm-shifting role of liquid biopsy (ctDNA, CTCs, and exosomes) in dynamically monitoring minimal residual disease (MRD).",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05357-7",
+        "keyword": "Exosomes",
+        "title_ja": "乳がんにおけるマルチオミクスと臨床管理の統合：包括的レビュー",
+        "summary_ja": "本レビューは、従来の分子レベルの個別解析とは異なり、ゲノミクス、トランスクリプトミクス、プロテオミクス、メタボロミクスを統合し、腫瘍微小環境（TME）の高度なプロファイリングと臨床管理を橋渡しする。目的は、TMEリプログラミングの解読、治療抵抗性の克服、個別化医療の最適化に向けた翻訳的ロードマップを提示することである。治療抵抗性の多面的メカニズムを分析し、液体生検（ctDNA、CTC、エクソソーム）が微小残存病変（MRD）の動的モニタリングにおいて果たすパラダイムシフト的役割を強調する。"
+      },
+      {
+        "title": "Immunomodulatory and antimicrobial actions of extracellular vesicles in vaginal infections: implications for female infertility.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42250155/",
+        "abstract": "Extracellular vesicles (EVs), including exosomes (EXOs) and microvesicles, are small particles surrounded by lipid bilayers that almost all cell types produce. They are essential for cell signaling because they transport bioactive molecules, including DNA, RNA, proteins, and lipids. The amount and make-up of EXOs are linked to several illnesses, including inflammatory diseases, cancer, metabolic diseases, and the one we're communicating about here, female infertility. Bacteria, fungi, viruses, and parasites are just a few of the organisms known to affect the reproductive system in both men and women. EVs are very important for reproductive health, and they can be a cause of infections that make women unable to have children. EVs play a significant role in cell communication and can influence both healthy and pathological processes in the female reproductive system. We looked into the use of EVs as an alternative way to treat vaginal infections (VIs), like bacterial vaginosis, viral vaginitis, and vaginal yeast infections, because traditional treatments for these diseases have some problems. In this study, we also examined the role of EVs in infertility associated with VI. Then, the pros and cons of this method for treating this sickness in the future are discussed.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12073-6",
+        "keyword": "Exosomes",
+        "title_ja": "腟内感染における細胞外小胞の免疫調節作用と抗菌作用：女性不妊への影響",
+        "summary_ja": "細胞外小胞（EVs）は、エクソソームやマイクロベシクルを含む脂質二重層に囲まれた微小粒子であり、DNA、RNA、タンパク質、脂質などの生体分子を輸送し、細胞間シグナル伝達に必須である。EVsの量と構成は、炎症性疾患、癌、代謝疾患、そして女性不妊症と関連する。細菌、真菌、ウイルス、寄生虫などが生殖器系に影響を与え、EVsは生殖健康において重要であり、感染症を介して不妊の原因となり得る。本稿では、細菌性膣症、ウイルス性膣炎、腟カンジダ症などの腟感染症（VIs）に対する従来治療の問題点を踏まえ、EVsを用いた代替治療の可能性を検討した。また、VI関連不妊におけるEVsの役割を調査し、本治療法の将来の利点と欠点について考察した。"
+      },
+      {
+        "title": "Nanoassemblies Remodeling Tumor-Derived Exosomes' Immunity Ameliorate Local and Peripheral Immunosuppression for Cancer Immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42249854/",
+        "abstract": "Current immunotherapies primarily focus on intratumoral immune suppression, with limited consideration of peripheral immune exhaustion, resulting in suboptimal clinical outcomes. Tumor-derived exosomes (TEXs) play a crucial role in both intratumoral immune suppression and peripheral immune exhaustion, making them an attractive target for cancer immunotherapy. In this study, we developed an optimized TEXs modulation strategy to enhance cancer immunotherapy by reprogramming the immune-promoting phenotype of TEXs and boosting their secretion. We designed a TEXs-tuning nanoassembly (TEXT) coloaded with biguanides and photosensitizers. The nanoassembly leverages hyaluronic acid for targeted accumulation at tumor sites. Biguanides inhibit the AMPK/Yap pathway in tumor cells, thereby reprogramming the tumor metabolic landscape and remodeling TEXs to an immune-promoting phenotype. Photodynamic therapy (PDT) is employed to boost the release of immune-promoting TEXs. Through the reprogramming of TEXs' phenotype and enhancement of their release, TEXT effectively alleviates immune exhaustion in peripheral tissues and reverses intratumoral immune suppression. TEXT effectively overcame both local and peripheral immunosuppression and demonstrated robust inhibition of primary and metastatic tumors as a monotherapy. Our findings highlight TEXT as an effective TEXs modulator, showcasing exosome regulation as a highly efficient and low-toxicity approach to combat cancer immune evasion. Overall, this strategy achieves a functional shift of TEXs from immunosuppressive factors to therapeutic synergists, establishing a paradigm of proactive immune modulation in cancer immunotherapy.",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.6c03357",
+        "keyword": "Exosomes",
+        "title_ja": "ナノアセンブリによる腫瘍由来エクソソームの免疫再構築が、がん免疫療法における局所および末梢の免疫抑制を改善する",
+        "summary_ja": "本論文では、腫瘍由来エクソソーム（TEXs）が引き起こす局所免疫抑制と末梢免疫疲弊の両方を標的とする新規ナノアセンブリ（TEXT）を開発した。TEXTはビグアナイドと光増感剤を共搭載し、ヒアルロン酸により腫瘍部位に集積する。ビグアナイドはAMPK/Yap経路を阻害し、TEXsを免疫促進型にリプログラミングする。光線力学療法（PDT）により免疫促進型TEXsの放出を促進する。これにより、末梢免疫疲弊を軽減し、腫瘍内免疫抑制を解除する。TEXTは単独療法として原発腫瘍および転移腫瘍の増殖を強力に抑制した。本戦略はTEXsを免疫抑制因子から治療的相乗因子へと機能転換し、能動的免疫調節の新たなパラダイムを確立する。エクソソーム制御は高効率かつ低毒性のがん免疫回避対策として有望である。"
+      },
+      {
+        "title": "The exosomal miRNA/FOXN3 axis empowers fibroblasts with tumor-promoting functions via enhanced migration and altered secretome.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42249398/",
+        "abstract": "Malignant tumor tissues with high proliferative activity are frequently characterized by a rich abundance of cancer-associated fibroblasts (CAFs). Nevertheless, the precise molecular mechanisms by which CAF-tumor cell crosstalk drives malignant proliferation remain incompletely elucidated. In this study, we demonstrate that exosomal microRNAs derived from lung adenocarcinoma cells reprogram adjacent normal fibroblasts into CAFs through downregulation of their common target, FOXN3. Suppression of this transcriptional repressor enhances the expression of genes associated with cell migration and extracellular matrix remodeling, thereby potentiating CAF infiltration into the tumor core. The consequent spatial proximity between CAFs and tumor cells enables the aberrantly altered secretome of CAFs to exert robust paracrine effects on malignancy. By focusing on receptors that interact with these dysregulated secreted proteins, we evaluated the drug sensitivity of patients bearing highly proliferative tumors to receptor-targeting agents, revealing potential therapeutic opportunities. Collectively, our work offers a detailed molecular dissection of tumor cell proliferation and proposes translationally relevant strategies for cancer therapy.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04633-6",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームmiRNA/FOXN3軸は、遊走能の亢進と分泌プロファイルの変化を介して線維芽細胞に腫瘍促進機能を付与する",
+        "summary_ja": "本論文は、肺腺癌細胞由来のエクソソームmiRNAが、正常線維芽細胞を癌関連線維芽細胞（CAF）へと再プログラムする分子機構を解明した。この過程では、共通標的である転写抑制因子FOXN3がダウンレギュレーションされ、細胞遊走や細胞外マトリックスリモデリング関連遺伝子の発現が亢進する。その結果、CAFの腫瘍内部への浸潤が促進され、CAFと腫瘍細胞の空間的近接性が高まる。これにより、CAFの分泌プロファイルが異常に変化し、パラクリン効果を介して悪性増殖を強力に促進する。さらに、異常分泌タンパク質と相互作用する受容体に着目し、高増殖性腫瘍患者における受容体標的薬剤の感受性を評価し、新たな治療機会を示唆した。本研究は、腫瘍細胞増殖の分子基盤を詳細に解析し、癌治療へのトランスレーショナルな戦略を提案する。"
+      },
+      {
+        "title": "Dual evidence reveals the therapeutic efficacy of exosome-delivered miR-124-3p in spinal cord injury via a novel CTDSP1/WNT/β-catenin mechanism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42249107/",
+        "abstract": "Integrated preclinical systematic review and meta-analysis with basic experimental research.",
+        "source": "PubMed",
+        "doi": "10.1038/s41393-026-01227-9",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム送達miR-124-3pが新規CTDSP1/WNT/β-カテニン機構を介して脊髄損傷に示す治療効果を二重のエビデンスが解明",
+        "summary_ja": "タイトル：エクソソーム送達miR-124-3pの脊髄損傷治療効果と新規CTDSP1/WNT/β-カテニン機構の二重エビデンス\n\n内容：本論文は、統合的プレクリニカル系統的レビューとメタ解析に基礎実験研究を組み合わせ、エクソソームを介して送達されるmiR-124-3pの脊髄損傷（SCI）治療効果を検証した。miR-124-3pはCTDSP1を標的とし、その発現を抑制することでWNT/β-カテニンシグナル経路を活性化する。この活性化により、神経細胞のアポトーシスが抑制され、軸索再生が促進される。メタ解析では、miR-124-3p治療群が対照群と比較して、運動機能回復（Basso-Beattie-Bresnahanスコア）および組織学的改善（病変サイズ減少、ミエリン保存）において有意な効果を示した。基礎実験では、in vitroおよびin vivoモデルでCTDSP1ノックダウンが同経路を介して"
+      },
+      {
+        "title": "DN203316, a novel PPARδ agonist, suppresses ferroptotic signaling and fibrogenesis in metabolic dysfunction-associated steatohepatitis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42249087/",
+        "abstract": "Recently, ferroptosis has emerged as a pathogenic mechanism that drives metabolic dysfunction-associated steatohepatitis (MASH); however, the upstream triggers and their relevance to fibrosis remain poorly understood. Here we identified dietary cholesterol-induced ferroptosis and the downregulation of peroxisome proliferator-activated receptor delta (PPARδ) as central drivers of MASH pathogenesis. To investigate this, human liver samples and cholesterol-enriched dietary murine models of MASH were examined in parallel with mechanistic studies in hepatocytes and hepatic stellate cells (HSCs). Cholesterol-induced MASH was associated with pronounced hepatic lipid peroxidation and the selective downregulation of PPARδ. The loss of PPARδ disrupted redox homeostasis and sensitized hepatocytes to ferroptosis, whereas exosomal double-stranded DNA released from ferroptotic hepatocytes activated STING-TBK1-IRF3 and induced expression of profibrotic genes in HSCs. These effects were reversed by either overexpression of hepatocyte-specific PPARδ or pharmacologic treatment with DN203316, a novel and highly selective PPARδ agonist. In vivo, DN203316 mitigated ferroptosis, inflammation and fibrosis without inducing metabolic derangement. These findings were substantiated by clinical data demonstrating a marked increase in lipid peroxidation and STING-driven HSC activation in liver tissues from patients with MASH. In conclusion, PPARδ is a key regulator of cholesterol-induced ferroptosis and exosome-mediated fibrogenic signaling in MASH. DN203316 offers a promising therapeutic strategy to suppress ferroptosis, disrupt hepatocyte-HSC crosstalk and attenuate disease progression.",
+        "source": "PubMed",
+        "doi": "10.1038/s12276-026-01740-0",
+        "keyword": "Exosomes",
+        "title_ja": "DN203316（新規PPARδアゴニスト）は、代謝機能障害関連脂肪性肝炎におけるフェロトーシスシグナルと線維化を抑制する。",
+        "summary_ja": "本論文では、代謝機能不全関連脂肪性肝炎（MASH）における新たな病態機構として、食事性コレステロール誘発フェロトーシスとPPARδの低下が中心的な役割を果たすことを明らかにした。ヒト肝臓試料とコレステロール負荷マウスモデルを用いた解析により、コレステロール誘発MASHでは肝脂質過酸化とPPARδの選択的低下が認められた。PPARδの喪失は酸化還元恒常性を破綻させ、肝細胞をフェロトーシスに感作した。フェロトーシス肝細胞から放出されたエクソソーム二本鎖DNAは、星細胞（HSC）においてSTING-TBK1-IRF3経路を活性化し、線維化遺伝子発現を誘導した。新規PPARδ作動薬DN203316は、肝細胞特異的PPARδ過剰発現と同様に、これらの効果を抑制した。in vivoでは、DN203316は代謝異常を伴わずにフェロトーシス、炎症、線維化を軽減した。MASH患者肝臓でも脂質過酸化とSTIN"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Microplastics across marine food webs: bioaccumulation, exposome interactions, and emerging oncogenic risks.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42249102/",
+        "abstract": "Microplastic pollution is a major environmental problem affecting ecosystems, wildlife and people worldwide. Microplastics are solid synthetic polymer particles > 5 mm, insoluble in water and potentially containing functional additives and adsorbed chemical contaminants. They originate from bulk industrial products and from the degradation of large plastic debris (EFSA CONTAM Panel, in EFSA Journal 14, 2016). The extent of the contamination is critical, with global plastic production projected to exceed 1.2 billion metric tons per year by 2060 and an estimated 170 trillion plastic particles in the world's oceans at present. The globular morphology of microplastics provides them with the property of high physicochemical stability and a very high surface area to volume ratio. Thus, facilitating the adsorption of toxic chemicals, heavy metals, and persistent organic pollutants onto their surfaces and acting as mobile vectors of environmental toxicity. It reviews the microplastic bioaccumulation, ecological effects, and toxicological effects, including possible oncogenesis. There is evidence for the ingestion of microplastics by marine organisms, from plankton to highly trophic predators, which allows for trophic transfer and biomagnification through food chains, ultimately putting humans at risk through seafood consumption, with reported concentrations of 0.2-7 particles per gram wet weight in commercially important marine species. Microplastics have recently been identified as a key component of the human exposome and a potential risk factor for chronic diseases because of interaction effects with, among others, exosomal signals and genome stability. This review covers mitigation strategies including policy interventions such as the UN Global Plastics Treaty, biodegradable materials and bioremediation methods, biosurfactant-modified nanofiber filtration systems with removal efficiencies up to 99%, and artificial intelligence (AI)-derived environmental sensing technologies. However, there are significant knowledge gaps in rapid advances in dose-response relationship determination, generalizable nanoplastic detection methods, and long-term epidemiology that shows a cause-and-effect relationship between environmental exposure and clinical outcomes. This indicates a requirement for interdisciplinary expertise in dealing with microplastic hazards in marine ecology, toxicology, biomedical science, and environmental governance.",
+        "source": "PubMed",
+        "doi": "10.1007/s10653-026-03266-w",
+        "keyword": "Exosomes",
+        "title_ja": "海洋食物網におけるマイクロプラスチック：生物蓄積、曝露相互作用、および新たな発がんリスク",
+        "summary_ja": "マイクロプラスチック（5mm以下の合成高分子粒子）は、海洋生態系全体に広がり、食物連鎖を通じて生物濃縮・蓄積される。表面積が大きく、有害化学物質や重金属を吸着し、毒性の運搬体となる。プランクトンから高次捕食者まで摂取が確認され、商業魚類では0.2～7粒子/gの濃度で検出され、ヒトの海産物摂取による曝露リスクが指摘される。ヒトのエクスポソームの一部として、慢性疾患や発がんリスクとの関連が示唆される。対策として、UN Global Plastics Treatyなどの政策、生分解性材料、バイオレメディエーション、99%除去効率のナノファイバー濾過、AI環境センシング技術が挙げられる。しかし、用量反応関係の解明、ナノプラスチック検出法の標準化、長期疫学による因果関係の証明には大きな知見不足があり、海洋生態学、毒性学、生物医学、環境ガバナンスの学際的連携が不可欠である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **腫瘍由来エクソソーム（TEXs）を標的としたナノアセンブリ（TEXT）によるがん免疫療法**  \n   腫瘍由来エクソソームは局所・末梢の免疫抑制を誘導し、治療抵抗性の一因となる。本論文は、ビグアナイドと光増感剤を搭載したナノアセンブリでTEXsの免疫抑制作用をリモデリングし、がん免疫療法の効果を増強する新戦略を示した。今後の臨床応用が期待される。\n\n2. **エクソソームmiR-124-3pによる脊髄損傷治療**  \n   エクソソームを介したmiR-124-3pの送達が、CTDSP1/WNT/β-カテニン経路を介して脊髄損傷の神経再生を促進することを、メタ解析と実験で二重に証明。細胞外小胞（sEVs）を用いた非侵襲的治療法として、中枢神経系疾患への応用が有望。\n\n3. **細胞外小胞（EVs）の膣内感染と女性不妊への関与**  \n   EVsは膣内感染症において免疫調節と抗菌作用を発揮し、炎症性疾患や不妊に影響する。特に、エクソソームやマイクロベシクルが病原体と宿主の相互作用を仲介する点が重要。今後の診断・治療標的としての可能性が高い。\n\n4. **PPARδ作動薬によるMASH治療とフェロトーシス抑制**  \n   新規PPARδ作動薬DN203316が、コレステロール誘発フェロトーシスと線維化を抑制し、代謝機能不全関連脂肪性肝炎（MASH）の新たな治療候補となる。肝臓病におけるフェロトーシス制御の重要性が再認識された。\n\n5. **海洋食物連鎖におけるマイクロプラスチックの生物濃縮と発がんリスク**  \n   マイクロプラスチックは有害化学物質の運搬体として海洋生物に蓄積し、ヒトへの曝露と発がんリスクが懸念される。エクソソームやsEVsを介した細胞間シグナルへの影響も示唆され、環境医学と細胞外小胞研究の接点として注目される。"
+}

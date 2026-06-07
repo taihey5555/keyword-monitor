@@ -1,0 +1,119 @@
+{
+  "A": {
+    "医学": [
+      {
+        "title": "The electrical and chemical hypoxia-optimized (ECHO) bioreactor system enables scalable production of functionally preserved NK-exosomes validated in a syngeneic lung cancer model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42251180/",
+        "abstract": "Natural killer (NK) cell-derived exosomes represent promising cell-free immunotherapeutics, yet clinical translation is limited by low production yield and lack of scalable manufacturing strategies. Here, we developed a modified vertical-wheel bioreactor incorporating controlled electrical and hypoxia-mimetic conditioning to enhance NK-exosome production while preserving biological functionality. The Electrical and Chemical Hypoxia-Optimized (ECHO) Bioreactor increased exosome yield by 10.1 ± 0.4 -fold compared to conventional culture (n = 3), without altering particle size, zeta potential, or canonical exosomal marker expression. In vitro, NK-Exo and NK-Exo-CE reduced LLC cell viability to 37.8 ± 3.1% and 18.6 ± 2.4%, respectively, at 1 × 10¹¹ particles/mL (p < 0.001). Combination therapy with paclitaxel further reduced viability to 9.4 ± 1.8% (p < 0.001). In a subcutaneous LLC tumor model, NK-Exo and NK-Exo-CE reduced tumor volumes to 912 ± 104 mm³ and 824 ± 96 mm³, respectively, compared to 1187 ± 132 mm³ in controls (p < 0.001), while NK-Exo-CE + PTX achieved 348 ± 57 mm³ (~ 3.4-fold reduction vs. control; p < 0.001) at the end of day 16. Immune profiling as determined by flow cytometry demonstrated increased CD8⁺ T cell infiltration (8.9 ± 1.1% to 35.7 ± 2.6%, p < 0.001) and reduced regulatory T cells (28.7 ± 1.8% to 10.4 ± 1.2%, p < 0.001) in combination-treated tumors. Western blot analysis confirmed elevated cleaved caspase-3, cleaved PARP, Granzyme B, FasL, Phospho-NF-κB-p65 and reduced Ki-67 and PDL1 in NK-Exo-CE + PTX tumors. Collectively, electro-hypoxic bioreactor conditioning enables scalable NK-exosome production without compromising physicochemical integrity or antitumor efficacy, addressing a key translational barrier in extracellular vesicle therapeutics.",
+        "source": "PubMed",
+        "doi": "10.1007/s13346-026-02168-9",
+        "keyword": "NK cell therapy",
+        "matched_keywords": [
+          "NK cell therapy",
+          "Exosomes"
+        ],
+        "title_ja": "電気的・化学的低酸素最適化（ECHO）バイオリアクターシステムにより、同系肺がんモデルで検証された機能保持NKエクソソームのスケーラブルな生産が可能となる。",
+        "summary_ja": "本論文では、NK細胞由来エクソソームの臨床応用における課題（低生産量・スケーラビリティ不足）を解決するため、電気刺激と低酸素模倣条件を組み合わせたmodified vertical-wheel bioreactor（ECHOバイオリアクター）を開発した。ECHOバイオリアクターは従来培養と比較してエクソソーム収量を10.1±0.4倍に向上させ、粒子径、ゼータ電位、エクソソームマーカー発現に変化はなかった。In vitroでは、NK-ExoおよびNK-Exo-CEはLLC細胞生存率をそれぞれ37.8±3.1%、18.6±2.4%に低下させ、パクリタキセル併用で9.4±1.8%まで減少した（p<0.001）。皮下LLC腫瘍モデルでは、NK-Exo-CE+PTX群で腫瘍体積が対照群比約3.4倍減少（348±57 mm³、p<0.001）、CD8⁺T細胞浸潤増加（8.9%→35.7%）、制御性T細"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Cell-Derived Nanomaterials for Acute Kidney Injury: A Pathophysiology-Driven Framework for Precision Delivery and Multimodal Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42251524/",
+        "abstract": "Acute kidney injury (AKI) is a complex disease driven by the dynamic coupling of multiple pathological mechanisms. Current treatments remain primarily supportive, making it difficult to achieve precise regulation at key pathological junctures. In recent years, cell-derived nanomaterials (CdNMs) have demonstrated unique advantages in renal-targeted delivery, biocompatibility, and multi-mechanism synergistic regulation, due to their retention of the native biological properties of the source cells. This offers a novel technical pathway to overcome the limitations of traditional nanodelivery systems in AKI treatment. This review systematically summarizes the construction strategies and application progress of CdNMs-including exosomes, cell membrane-coated nanoparticles (CM-NPs), and engineered extracellular vesicles (eEVs)-with a focus on core AKI pathological processes. It further discusses their potential applications in multimodal synergistic therapy and integrated diagnosis-treatment approaches. More importantly, this review proposes a research paradigm in which the design principles of CdNMs are systematically coupled with AKI's pathological dynamics, therapeutic timing, and efficacy evaluation dimensions. This paradigm, driven by a reverse-engineering strategy from pathological mechanisms to material construction and functional assessment, provides methodological references for achieving precise intervention, predictable efficacy evaluation, and optimized clinical translation pathways for AKI.",
+        "source": "PubMed",
+        "doi": "10.1080/1061186X.2026.2684024",
+        "keyword": "Exosomes",
+        "title_ja": "急性腎障害に対する細胞由来ナノ材料：精密送達とマルチモーダル治療のための病態生理学に基づくフレームワーク",
+        "summary_ja": "急性腎障害（AKI）は複数の病理機構が動的に連関する複雑な疾患であり、現在の治療は対症療法に留まり、重要な病理的時点での精密制御が困難である。近年、細胞由来ナノ材料（CdNMs）は、元の細胞の生物学的特性を保持することで、腎臓標的送達、生体適合性、多機構協調制御において独自の利点を示し、従来のナノ送達システムの限界を克服する新たな技術経路を提供する。本総説は、エクソソーム、細胞膜コーティングナノ粒子（CM-NPs）、操作細胞外小胞（eEVs）を含むCdNMsの構築戦略と応用進展を、AKIの中核的病理プロセスに焦点を当てて体系的に整理し、マルチモーダル相乗療法や診断治療統合アプローチへの応用可能性を考察する。さらに、CdNMsの設計原理をAKIの病理動態、治療タイミング、有効性評価の次元と系統的に結合する研究パラダイムを提案する。このパラダイムは、病理機構から材料構築と機能評価へのリバースエ"
+      },
+      {
+        "title": "Plasma exosomal microRNAs as early predictors of subclinical acute kidney injury in septic patients undergoing major non-cardiac surgery: a prospective observational cohort study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42251093/",
+        "abstract": "Early identification of acute kidney injury (AKI), including subclinical AKI, remains a critical challenge in septic patients undergoing major non-cardiac surgery. Exosomal microRNAs (miRNAs) represent emerging biomarkers capable of reflecting early renal cellular stress before detectable changes in serum creatinine occur. This prospective observational cohort study enrolled 120 adult septic patients undergoing major non-cardiac surgery (> 2 h) at Imam Sajjad Hospital, Tabriz, between early 2025 and August 2025 (Ethics Approval ID: IR.IAU.TABRIZ.REC.1404.179). Peripheral blood was obtained at three perioperative time points (preoperative, intraoperative, and 24 h postoperative) for exosome isolation and miRNA quantification. Clinical AKI was defined according to KDIGO criteria. Subclinical AKI was defined as urinary TIMP-2 × IGFBP7 > 0.3 in the absence of any rise in serum creatinine. Diagnostic performance of candidate miRNAs was assessed using receiver operating characteristic (ROC) analysis based on observed patient data. Among the 120 enrolled patients, a proportion developed AKI during the 24-hour postoperative observation period (final numbers provided in the Results section). Patients who developed AKI demonstrated distinct perioperative alterations in specific exosomal miRNAs compared with those who did not develop AKI. Several miRNAs showed measurable discriminatory ability for early AKI detection across different sampling time points, with areas under the ROC curve (AUCs) ranging within clinically relevant thresholds (AUC values reported in the Results and Tables following recalculation using observed data with 95% confidence intervals). These findings suggest that perioperative plasma exosomal miRNAs may serve as promising early indicators of acute kidney injury in septic patients undergoing major surgery. Their potential role in identifying subclinical AKI warrants further investigation in studies specifically powered for this endpoint.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-55837-7",
+        "keyword": "Exosomes",
+        "title_ja": "血漿エクソソームマイクロRNAが非心臓大手術を受ける敗血症患者における潜在性急性腎障害の早期予測因子となる可能性：前向き観察コホート研究",
+        "summary_ja": "この前向き観察コホート研究は、大手術を受ける敗血症患者における急性腎障害（AKI）、特にサブクリニカルAKIの早期予測における血漿エクソソームmiRNAの診断性能を評価した。120名の成人患者を対象に、周術期3時点で血液を採取し、エクソソームmiRNAを定量。臨床的AKIはKDIGO基準、サブクリニカルAKIは尿中TIMP-2×IGFBP7>0.3かつ血清クレアチニン非上昇と定義した。AKI発症患者では特異的なエクソソームmiRNAの周術期変動が認められ、複数のmiRNAが臨床的に有用なAUC値を示した。周術期血漿エクソソームmiRNAは、敗血症手術患者におけるAKIの早期指標として有望であり、サブクリニカルAKI同定への応用にはさらなる検討が必要である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Digital droplet microfluidics integrating DNA walkers and CRISPR-Cas13a for simultaneous surface protein and miRNA profiling in single exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42214852/",
+        "abstract": "Tumor-derived exosomes carry multi-scale molecular signatures (e.g., surface proteins and nucleic acids) that reflect tumor heterogeneity, yet simultaneously profiling these biomarkers in single intact vesicles remains technically challenging. Herein, we developed a digital droplet microfluidic platform that integrates a DNA walker and a CRISPR/Cas13a system for the simultaneous detection of surface proteins (EpCAM, HER2) and miRNA (miR-21) at the single exosome level. This platform employed engineered liposome nanoprobes (eLipo-NPs) with EpCAM aptamers and hairpin probes (HPs) functionalized on their outer membranes, and encapsulated a CRISPR/Cas13a system within their lumen. Upon co-encapsulation with single exosomes into droplets, EpCAM-mediated membrane fusion redistributed HPs across the hybrid membrane and delivered CRISPR/Cas13a into the exosomes. The membrane-anchored DNA walker then bound HER2 and drove cyclic DNAzyme cleavage of HPs to restore red fluorescence. At the same time, crRNA-guided Cas13a recognized miR-21 and triggered trans-cleavage of reporters to generate green fluorescence. Digital counting of dual-positive droplets enabled quantitative single-exosome analysis with a limit of detection (LOD) of 10 particles/μL and a detection time of 60 min. Clinical validation using plasma-derived exosomes from 24 breast cancer patients and 14 healthy donors demonstrated distinct distributions among HER2-positive, HER2-negative, and healthy control groups, with the percentage of dual-positive droplets significantly correlated with clinical HER2 status, highlighting the platform's potential for liquid biopsy and precision oncology.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bios.2026.118854",
+        "keyword": "Exosomes",
+        "title_ja": "DNAウォーカーとCRISPR-Cas13aを統合したデジタルドロップレットマイクロ流体技術による単一エクソソーム中の表面タンパク質とmiRNAの同時プロファイリング",
+        "summary_ja": "本論文では、単一エクソソームレベルで表面タンパク質（EpCAM、HER2）とmiRNA（miR-21）を同時検出するデジタルドロップレットマイクロ流体プラットフォームを開発した。本プラットフォームは、DNAウォーカーとCRISPR/Cas13aシステムを統合し、リポソームナノプローブ（eLipo-NPs）を用いる。エクソソームと共にドロップレット内に封入されると、EpCAMを介した膜融合により、DNAウォーカーがHER2に結合し、DNAzyme切断で赤色蛍光を回復させる。同時に、Cas13aがmiR-21を認識し、緑色蛍光を生成する。二重陽性ドロップレットのデジタル計数により、検出限界10粒子/μL、検出時間60分で定量解析が可能。乳癌患者24名と健常者14名の血漿由来エクソソームを用いた臨床検証では、HER2陽性群、陰性群、健常群で明確な分布差が認められ、二重陽性ドロップレットの割合が臨"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Lactate Ringer's anti-inflammatory effects in acute pancreatitis are potentially mediated by protein lactylation of extracellular vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42251164/",
+        "abstract": "Lactated Ringer's solution (LR) has been associated with anti-inflammatory effects in acute pancreatitis, likely attributable to its lactate content, but the underlying mechanisms remain poorly understood. Circulating small extracellular vesicles (sEVs) contribute to systemic inflammation in this condition by activating macrophages, and we investigated whether lactate could modulate their inflammatory activity. sEVs derived from BxPC-3 pancreatic cells were treated with lactate and their inflammatory potential assessed by measuring their capacity to induce pro-inflammatory cytokine expression in macrophages. Circulating sEVs were also isolated from patients with acute pancreatitis receiving either LR or normal saline and analysed using the same approach. Vesicle uptake and protein lactylation levels were evaluated by microscopy and western blot, respectively. Lactate treatment reduced sEV-induced macrophage activation without altering vesicle uptake, and was associated with a modest increase in protein lactylation. A similar reduction in inflammatory activity was observed in circulating sEVs from LR-treated patients, but not in those receiving normal saline, alongside a comparable increase in protein lactylation. These findings suggest that lactate can directly modify sEV activity and that the anti-inflammatory effects of LR in acute pancreatitis may be mediated, at least in part, through lactylation-dependent modulation of sEV inflammatory activity.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-56277-z",
+        "keyword": "sEVs",
+        "title_ja": "乳酸リンゲル液の急性膵炎における抗炎症作用は、細胞外小胞のタンパク質ラクチル化を介する可能性がある。",
+        "summary_ja": "Lactated Ringer's solution（LR）は急性膵炎において抗炎症作用を示すが、その機序は不明である。本研究では、乳酸が細胞外小胞（sEV）の炎症活性を調節する可能性を検討した。BxPC-3膵臓細胞由来sEVに乳酸を添加すると、マクロファージ活性化能が低下し、タンパク質ラクチル化が軽度上昇した。また、LR投与を受けた急性膵炎患者の循環sEVでも同様の炎症活性低下とラクチル化上昇が認められたが、生理食塩水投与群では見られなかった。これらの結果は、乳酸がsEV活性を直接修飾し、LRの抗炎症効果が少なくとも一部はラクチル化依存的なsEV炎症活性調節を介する可能性を示唆する。"
+      },
+      {
+        "title": "Neural Crest-Derived Stem Cell Secretomes and Extracellular Vesicles Disrupt Glioblastoma through Dual-Pathway Inflammatory Rebalancing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42050238/",
+        "abstract": "Glioblastoma multiforme is characterised by resistance to conventional treatments via sustained pro-inflammatory signalling. This study investigated whether secretomes and small extracellular vesicles (sEVs) from human oral mucosa neural crest-derived stem cells (NCSCs) could disrupt multiple glioblastoma features by rebalancing pro- and anti-inflammatory pathways. NCSCs were characterised, and their secretomes/sEVs isolated, and analysed using a range of state-of-the-art methods. Anti-tumour effects were evaluated using multiple glioblastoma cell lines (U251, U373, U87) through viability, proliferation, migration, and tumourigenicity assays. Mechanistic studies employed dual nuclear factor-κB (NF-κB) and quadruple NF-κB/interferon regulatory factor 3 (IRF3) reporter systems, cytokine arrays, and immunocytochemistry. Therapeutic potential was assessed using temozolomide (TMZ) chemosensitivity assays and organotypic mouse brain slice models. NCSC secretomes and sEVs demonstrated consistent anti-glioblastoma activity across all functional assays. Both products potently suppressed NF-κB activation across multiple pro-inflammatory stimuli whilst simultaneously enhancing IRF3 nuclear translocation and transcriptional activity. This dual pathway modulation reprogrammed glioblastoma cytokine secretion towards anti-inflammatory profiles, and inhibited tumourigenicity in both 3D culture and ex vivo brain slice models. Notably, secretomes and sEVs enhanced the efficacy of TMZ, reducing colony size compared to monotherapy, without compromising tissue viability. These findings demonstrate the first evidence of dual NF-κB/IRF3 pathway rebalancing by NCSC-derived products in glioblastoma. The simultaneous suppression of tumour-promoting inflammation whilst enhancing anti-tumour immune signalling represents a novel therapeutic paradigm that addresses multiple resistance mechanisms simultaneously. This strategy redefines stem cell-based therapy for glioblastoma by integrating immunomodulation with chemosensitisation in a single, Good Manufacturing Practice (GMP)-compatible product.",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11133-5",
+        "keyword": "sEVs",
+        "title_ja": "神経堤由来幹細胞の分泌因子と細胞外小胞は二経路炎症再均衡化により膠芽腫を破壊する",
+        "summary_ja": "本論文は、ヒト口腔粘膜由来の神経堤幹細胞（NCSCs）の分泌因子および小型細胞外小胞（sEVs）が、膠芽腫（Glioblastoma multiforme）に対して抗腫瘍効果を示すメカニズムを検討した。NCSCの分泌因子とsEVsは、複数の膠芽腫細胞株（U251, U373, U87）において、生存、増殖、遊走、腫瘍形成能を抑制した。メカニズムとして、NF-κB活性化を抑制しつつ、IRF3の核移行と転写活性を亢進させる二重経路調節を介し、サイトカイン分泌を抗炎症プロファイルへと再プログラムした。さらに、テモゾロミド（TMZ）との併用で化学感受性を増強し、3D培養やex vivo脳スライスモデルでも腫瘍形成能を抑制した。本研究は、NCSC由来製品によるNF-κB/IRF3二重経路の再調整が、膠芽腫の複数の抵抗性メカニズムを同時に標的とする新たな治療パラダイムを提供することを示した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5トピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **ECHOバイオリアクターによるNK-エクソソーム大量生産**  \n   NK細胞由来エクソソームは抗がん免疫療法として有望だが、生産量とスケーラビリティが課題でした。本システムは電気刺激と低酸素模倣を組み合わせ、機能を保持したまま大量培養を可能にし、臨床応用への大きな前進です。\n\n2. **細胞由来ナノ材料による急性腎障害精密治療**  \n   AKIは多因子疾患で対症療法に限界があります。細胞由来ナノ材料は生体適合性と標的送達能に優れ、病態に応じた精密治療の枠組みを提供。今後の個別化医療への展開が期待されます。\n\n3. **血漿エクソソームmiRNAによる敗血症性AKIの早期予測**  \n   サブクリニカルAKIは早期発見が困難。本コホート研究はエクソソームmiRNAが高感度なバイオマーカーとなる可能性を示し、術後管理の質向上に貢献します。\n\n4. **単一エクソソーム同時検出プラットフォーム**  \n   表面タンパク質とmiRNAを単一エクソソームレベルで同時解析する技術は、がんの異質性理解や早期診断に革新をもたらします。\n\n5. **乳酸リングル液と細胞外小胞のラクチル化による抗炎症機序**  \n   急性膵炎治療で広く使われる乳酸リングル液の抗炎症作用が、sEVのタンパク質ラクチル化を介する可能性を初めて示唆。新たな治療標的として注目されます。"
+}

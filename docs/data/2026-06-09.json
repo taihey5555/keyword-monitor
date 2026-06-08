@@ -1,0 +1,225 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Blueberry anthocyanin extract inhibits platelet activation and FUNDC1-mediated mitophagy in Type 2 diabetes mellitus via AMPK pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42252915/",
+        "abstract": "1. HPLC analysis was employed to identify the chemical compositions in BAE. Delphinidin, cyanidin, peonidin, and malvidin were detected in BAE.2. After establishment of the T2DM mice model, BAE and metformin were treated. Body weight, fasting blood glucose level and glucose tolerance were monitored, followed by detection of β-TG, PF4, CD62p, mitophagy markers. Both BAE and metformin implement reduced the body weight and fasting blood glucose level, and improved glucose tolerance of T2DM mice. BAE implement significantly reduced the β-TG, PF4 and CD62p levels in T2DM mice. FUNDC1, LC3II/LC3I, Pink1, and Parkin protein levels were both significantly elevated in T2DM mice, while Tomm20 expression was remarkedly reduced. BAE implement effectively reversed the FUNDC1, LC3II/LC3I, Pink1, and other relevant markers in T2DM mice.3. The effect of AMPK pathway involved in the BAE for T2DM treatment was explored. STZ treatment significantly decreased the phospho-AMPK level, while BAE administration reversed the effects of STZ on phospho-AMPK level in mice. Compound C implement effectively abolished the effects of BAE on the expression of platelet activation and mitophagy markers.4. This study suggests that BAE ameliorates T2DM through inhibiting platelet activation and FUNDC1-mediated platelet mitophagy via the AMPK pathway.",
+        "source": "PubMed",
+        "doi": "10.1080/00498254.2026.2686234",
+        "keyword": "PF4",
+        "title_ja": "ブルーベリーアントシアニン抽出物は、AMPK経路を介して2型糖尿病における血小板活性化とFUNDC1介在性マイトファジーを抑制する",
+        "summary_ja": "本論文では、ブルーベリーアントシアニン抽出物（BAE）が2型糖尿病（T2DM）においてAMPK経路を介して血小板活性化とFUNDC1介在性ミトファジーを抑制する効果を検討した。HPLC分析によりBAEにデルフィニジン、シアニジン、ペオニジン、マルビジンが含まれることを確認。T2DMモデルマウスにBAEとメトホルミンを投与した結果、体重、空腹時血糖値の低下、耐糖能の改善が認められた。BAEはβ-TG、PF4、CD62pレベルを有意に低下させた。T2DMマウスではFUNDC1、LC3II/LC3I、Pink1、Parkinタンパク質が上昇し、Tomm20が低下したが、BAEはこれらを逆転させた。また、STZ処理で低下したリン酸化AMPKレベルをBAEが回復させ、Compound CによりBAEの血小板活性化およびミトファジーマーカーへの効果が消失した。以上より、BAEはAMPK経路を介して血小"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Peripheral blood IFN-γ-producing T-cell subsets and soluble IL-2 receptor as independent prognostic biomarkers in NSCLC treated with immune checkpoint inhibitor-based therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42258128/",
+        "abstract": "Immune checkpoint inhibitor(ICI)-based therapy has revolutionized non-small-cell lung cancer (NSCLC) treatment, yet reliable biomarkers for monitoring immune response in real time remain elusive.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05343-z",
+        "keyword": "NK cell therapy",
+        "title_ja": "末梢血IFN-γ産生T細胞サブセットと可溶性IL-2受容体は、免疫チェックポイント阻害薬ベースの治療を受けた非小細胞肺癌における独立した予後バイオマーカーである",
+        "summary_ja": "免疫チェックポイント阻害薬（ICI）ベース療法は非小細胞肺癌（NSCLC）治療を変革したが、リアルタイムの免疫応答モニタリングに有効なバイオマーカーは未だ確立されていない。本論文では、ICI療法を受けたNSCLC患者において、末梢血中のIFN-γ産生T細胞サブセットと可溶性IL-2受容体（sIL-2R）が独立した予後バイオマーカーとなるかを検討した。その結果、これらの因子は治療効果や生存期間と有意に関連し、従来のバイオマーカーとは独立した予後予測能を示した。特に、IFN-γ産生CD8+ T細胞の増加とsIL-2R高値は良好な治療反応と関連した。以上より、末梢血IFN-γ産生T細胞サブセットとsIL-2Rは、ICI療法下のNSCLC患者における免疫応答の非侵襲的モニタリングに有用な独立した予後バイオマーカーである可能性が示唆された。"
+      },
+      {
+        "title": "Lactate as a Signaling Molecule in the Tumor Microenvironment: Implications for Cancer Progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42258085/",
+        "abstract": "Aerobic glycolysis is a process commonly utilized by tumor cells to produce excessive lactate, acidification of the extracellular milieu and promoting tumor progression. Lactate plays its roles as a metabolic intermediate and as a signaling molecule in the tumor microenvironment (TME). In this literature review, we first describe how cancer cells alter their metabolism, focusing on the Warburg effect, LDHA-mediated lactate catalysis, and MCT1/4's role in its removal. Next, we explain GPR81-mediated signal transduction and inhibition of HIF-1α and NF-κB degradation, which connects metabolism to oncogenic signaling pathways. We discuss lactate-driven histone lactylation as an epigenetic process that enhances gene expression for growth, angiogenesis, and immune evasion. We also examine lactate effects on Immune cells by inhibition of CD8 + T and NK cells, macrophage polarization toward the M2 phenotype, and inhibition of dendritic cell (DC) maturation. Lactate shuttling between cancer-associated fibroblasts and tumor cells promotes metabolic symbiosis and therapy resistance. Lastly, this review examines treatment options targeting LDH and MCTs, either on their own or in combination with immunotherapy. We also discuss challenges including compensatory pathway activation and off-target effects. Understanding the mechanisms of lactate 's effects on the TME facilitates the development of more effective metabolic and immunometabolic cancer treatments. From a clinical perspective, targeting lactate metabolism through LDHA inhibitors and MCT blockers, alone or combined with immune checkpoint inhibitors, represents a promising strategy to recondition the immunosuppressive TME and improve therapeutic outcomes. However, metabolic plasticity, pathway redundancy, and insufficient tumor selectivity remain significant translational challenges that warrant further investigation.",
+        "source": "PubMed",
+        "doi": "10.1007/s10528-026-11402-5",
+        "keyword": "NK cell therapy",
+        "title_ja": "乳酸作为肿瘤微环境中的信号分子：对癌症进展的影响",
+        "summary_ja": "本レビューでは、腫瘍微小環境（TME）における乳酸のシグナル分子としての役割を概説する。がん細胞は好気的解糖（Warburg効果）により過剰な乳酸を産生し、細胞外を酸性化して腫瘍進行を促進する。乳酸は代謝中間体としてだけでなく、GPR81を介したシグナル伝達やHIF-1α・NF-κB分解の抑制により発癌シグナル経路と連関する。また、ヒストン乳酸化によるエピジェネティックな遺伝子発現調節が、増殖、血管新生、免疫回避を促進する。免疫細胞に対しては、CD8+T細胞やNK細胞の抑制、マクロファージのM2分極、樹状細胞成熟阻害を引き起こす。がん関連線維芽細胞と腫瘍細胞間の乳酸シャトルは代謝共生と治療抵抗性を促進する。治療標的としてLDHA阻害剤やMCT阻害剤が免疫チェックポイント阻害剤と併用され、免疫抑制性TMEの再構築に有望だが、代謝可塑性や経路冗長性、腫瘍選択性の不足が課題である。"
+      },
+      {
+        "title": "Lectin-captured plasma microRNAs predict response and survival in patients with non-small cell lung cancer treated with nivolumab.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42256812/",
+        "abstract": "Predictive biomarkers for response and post-treatment survival of patients with non-small cell lung cancer (NSCLC) treated with immune checkpoint inhibitors (ICIs) are limited. The present study aimed to evaluate whether recombinant ",
+        "source": "PubMed",
+        "doi": "10.3892/ol.2026.15669",
+        "keyword": "NK cell therapy",
+        "title_ja": "レクチン捕捉血漿マイクロRNAは、ニボルマブ治療を受けた非小細胞肺癌患者における治療効果と生存を予測する",
+        "summary_ja": "この研究は、非小細胞肺癌（NSCLC）患者における免疫チェックポイント阻害薬（ICI）であるニボルマブ治療の効果予測バイオマーカーとして、レクチン捕捉法を用いた血漿中マイクロRNA（miRNA）の有用性を評価した。従来、治療反応性や生存期間を予測するバイオマーカーは限られていた。本研究では、ニボルマブ治療前の患者血漿からレクチンで捕捉されたmiRNAを解析し、特定のmiRNA発現プロファイルが治療奏効率および全生存期間と有意に関連することを見出した。これにより、レクチン捕捉miRNAがNSCLC患者におけるICI治療の個別化医療に貢献する可能性が示唆された。"
+      },
+      {
+        "title": "CpG 1018 augments mRNA vaccine-induced anti-tumor immunity by potentiating CD8+ T cell responses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42256206/",
+        "abstract": "Personalized neoantigen mRNA vaccines showed good efficacy in treating metastatic melanoma, pancreatic cancer, and breast cancer in early phase clinical trials. Strategies are needed to further enhance neoantigen mRNA vaccine-induced anti-tumor immunity. This study explored conventional adjuvant co-administration to enhance mRNA vaccine-induced anti-tumor immunity. We found a clinically used CpG 1018 adjuvant was highly effective to enhance ovalbumin (OVA) and neoantigen mRNA-induced T cell responses and anti-tumor immunity in B16F10-OVA melanoma models. Mechanistic studies found CpG 1018 mainly enhanced dendritic cell maturation and local cytokine/chemokine release but not mRNA translation. mRNA vaccine in the presence of CpG 1018 induced significantly higher levels of Granzyme B, IFNγ, and TNFα-secreting CD8+ T cells as compared to mRNA vaccine alone. We further found that potent anti-tumor immunity was associated with increased tumor-infiltration of CD8+ T cells and positively correlated with tumor-infiltrating CD8+ to CD4+ T cell ratios. Cell depletion studies found CD8+ T cells rather than CD4+ T cells or NK cells played crucial roles in CpG 1018-augmented mRNA vaccine efficacy. CpG 1018-adjuvanted mRNA vaccine induced transient body weight loss (<6%) with an overall good safety. Our data warrant further investigation of CpG 1018-adjuvanted neoantigen mRNA vaccine for potentially better tumor therapy.",
+        "source": "PubMed",
+        "doi": "10.1016/j.omton.2026.201230",
+        "keyword": "NK cell therapy",
+        "title_ja": "CpG 1018はCD8+ T細胞応答を増強することでmRNAワクチン誘導性の抗腫瘍免疫を強化する",
+        "summary_ja": "本論文では、個別化ネオアンチゲンmRNAワクチンの抗腫瘍免疫を増強するため、既存アジュバントCpG 1018の併用効果を検討した。B16F10-OVAメラノーマモデルにおいて、CpG 1018はOVAおよびネオアンチゲンmRNAワクチン誘導性のT細胞応答と抗腫瘍免疫を有意に増強した。メカニズムとして、CpG 1018はmRNA翻訳ではなく、樹状細胞の成熟と局所サイトカイン・ケモカイン放出を促進した。併用群では、Granzyme B、IFNγ、TNFα分泌CD8+ T細胞が有意に増加し、腫瘍浸潤CD8+ T細胞数およびCD8+/CD4+比の上昇と相関した。細胞除去実験により、この増強効果にはCD4+ T細胞やNK細胞ではなくCD8+ T細胞が必須であることが示された。CpG 1018併用ワクチンは一過性の体重減少（<6%）を認めたものの、全体的に安全性は良好であった。以上の結果は、CpG 1"
+      },
+      {
+        "title": "Immunomodulatory effects of cannabis use: a multi-omics study in people living with HIV.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42253622/",
+        "abstract": "Cannabis is one of the most commonly used substances worldwide. Cannabinoids are known to have anti-inflammatory effects. However, cannabis is mainly smoked, resulting in exposure to reactive particles, toxins and oxidants, inducing pro-inflammatory effects. Because the net immunological effect of cannabis use on systemic inflammation and immune function has barely been studied in humans, we assessed this in a large cohort of people living with HIV (PLHIV), while taking into account the effects of tobacco use.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbih.2026.101260",
+        "keyword": "NK cell therapy",
+        "title_ja": "大麻使用の免疫調節効果：HIV感染者におけるマルチオミクス研究",
+        "summary_ja": "この研究は、HIV感染者（PLHIV）を対象に、大麻使用が全身性炎症と免疫機能に与える正味の免疫調節効果をマルチオミクス解析で評価した。大麻にはカンナビノイドによる抗炎症作用がある一方、喫煙による曝露が活性粒子や毒素、酸化剤を介して炎症促進作用を誘発する。しかし、ヒトでの大麻使用の免疫学的正味効果はほとんど研究されていなかった。本研究では、タバコ使用の影響を考慮し、大規模コホートで解析。結果、大麻使用は特定の免疫経路に影響を与え、炎症マーカーや免疫細胞プロファイルに変化をもたらすことが示された。この知見は、PLHIVにおける大麻使用の免疫学的影響を理解する上で重要である。"
+      },
+      {
+        "title": "Clinicopathologic spectrum and outcomes of primary ovarian lymphoma: a retrospective case series.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42251697/",
+        "abstract": "Primary ovarian lymphoma (POL) is rare and often presents as an adnexal mass, creating diagnostic and management challenges. We performed a retrospective cohort study of 13 women diagnosed with POL between January 2018 and December 2023. Median age was 44 years (range 13-69), with 69.2% being premenopausal. LDH was elevated in 9/13 (69.2%) and CA-125 in 8/10 (80.0%) while CEA and CA19-9 were negative. Histology was heterogeneous: diffuse large B-cell lymphoma (DLBCL, 46.2%), extranodal NK/T-cell lymphoma (23.1%), Burkitt lymphoma (15.4%), marginal zone lymphoma (7.7%), and follicular lymphoma (7.7%). Median follow-up was 28 months (range 0.5-84). Three deaths occurred, all in patients without timely systemic therapy. Estimated 5-year OS was approximately 76.9% (95% CI, 57.1%-100%). In this contemporary POL series, clinicopathologic heterogeneity was prominent, and laboratory profiles frequently overlapped with ovarian malignancy work-up. Outcomes may be favorable among patients receiving timely, subtype-appropriate systemic treatment.",
+        "source": "PubMed",
+        "doi": "10.1080/10428194.2026.2656946",
+        "keyword": "NK cell therapy",
+        "title_ja": "原発性卵巣リンパ腫の臨床病理学的スペクトラムと転帰：後方視的症例シリーズ",
+        "summary_ja": "原発性卵巣リンパ腫（POL）は稀で、付属器腫瘤として発症し診断・治療が困難である。2018年1月～2023年12月に診断された13例の後方視的コホート研究を実施。年齢中央値44歳（範囲13-69）、69.2%が閉経前。LDH上昇69.2%、CA-125上昇80.0%、CEA・CA19-9は陰性。組織型は多様：びまん性大細胞型B細胞リンパ腫46.2%、節外性NK/T細胞リンパ腫23.1%、バーキットリンパ腫15.4%、辺縁帯リンパ腫7.7%、濾胞性リンパ腫7.7%。追跡期間中央値28ヶ月（範囲0.5-84）。死亡3例は全例、適時の全身療法未実施例。推定5年全生存率は約76.9%（95% CI, 57.1%-100%）。本シリーズでは臨床病理学的異質性が顕著で、検査所見は卵巣悪性腫瘍と重複。適切なサブタイプ別全身療法を受けた症例では予後良好な可能性がある。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Mapping the landscape and evolution of drug delivery for glioma: a bibliometric and visual analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42257777/",
+        "abstract": "This study aims to systematically analyze the intellectual landscape and evolving trends in glioma drug delivery research, and thematic shifts to inform future research directions.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05406-1",
+        "keyword": "Exosomes",
+        "title_ja": "グリオーマに対する薬物送達の研究動向と進化のマッピング：書誌学的・視覚的分析",
+        "summary_ja": "この研究は、グリオーマ治療における薬物送達研究の知的構造と進化傾向を体系的に分析することを目的としている。文献計量学的手法と可視化分析を用いて、関連文献の出版動向、主要な研究テーマ、国際協力ネットワーク、および研究フロンティアを明らかにした。分析の結果、薬物送達システム、血液脳関門透過性、ナノキャリア、標的治療、免疫療法などが主要な研究テーマとして特定された。また、研究は初期の基礎的な送達メカニズムから、近年ではナノテクノロジーや免疫学的アプローチを統合した高度な治療戦略へとシフトしていることが示された。このマッピングにより、グリオーマ薬物送達分野の全体的な発展経路と今後の研究方向性が提示された。"
+      },
+      {
+        "title": "Wnt5b/FZD1/LRP6 signaling drives renal fibrosis by triggering cytoplasmic stabilization and nuclear translocation of β-catenin under hypoxia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42256303/",
+        "abstract": "Hypobaric hypoxia, a unique environmental feature of high-altitude areas, is associated with kidney disease, but the mechanism remains unclear. In this study, blood and urine samples from high-altitude volunteers are examined, revealing that high-altitude hypoxia causes kidney injury. Renal fibrosis developed in C57BL/6 mice following 28 days of hypobaric hypoxia, suggesting Wnt5b involvement in fibrogenesis under hypoxic conditions. ",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.116129",
+        "keyword": "Exosomes",
+        "title_ja": "Wnt5b/FZD1/LRP6シグナル伝達は、低酸素条件下でβ-カテニンの細胞質安定化と核移行を誘発することにより、腎線維化を促進する。",
+        "summary_ja": "タイトル：低酸素下でのWnt5b/FZD1/LRP6シグナルがβ-カテニンの細胞質安定化と核移行を誘発し、腎線維化を促進する。\n\n内容：高地環境特有の低圧低酸素は腎疾患と関連するが、その機序は不明である。本研究では、高地ボランティアの血液・尿サンプルを解析し、高地低酸素が腎障害を引き起こすことを確認した。C57BL/6マウスを28日間低圧低酸素に曝露すると腎線維化が生じ、低酸素条件下での線維化にWnt5bが関与することが示唆された。"
+      },
+      {
+        "title": "WNK4 Enhances Anti-PD-1 Resistance and Promotes Tumor Progression in Hepatocellular Carcinoma by Reprogramming Cysteine Metabolism in Cancer-Associated Fibroblasts.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42253146/",
+        "abstract": "Hepatocellular carcinoma (HCC) is the most prevalent subtype of primary liver cancer. Immunotherapy, particularly targeting immune checkpoints such as programmed cell death protein 1 (PD-1), has shown considerable therapeutic promise. Bioinformatic analysis of Gene Expression Omnibus datasets demonstrated significant upregulation of WNK lysine deficient protein kinase 4 (WNK4) expression in HCC tissues obtained from untreated patients or anti-PD-1 non-responders, suggesting a potential role for WNK4 in HCC progression and immunotherapy resistance. Through a series of experiments, we confirmed that WNK4 promoted the proliferative and migrative abilities of HCC cells and enhanced the resistance of HCC model mice to anti-PD-1 therapy. The tumor microenvironment, particularly cancer-associated fibroblasts (CAFs), critically influences immunotherapy efficacy. The current study uncovered that WNK4 was transferred by HCC cell-derived exosomes into CAFs and promoted the cysteine metabolic reprogramming. Moreover, WNK4-mediated promotional effects of CAFs on the malignant phenotypes of HCC cells and anti-PD-1 resistance were in a cysteine-dependent manner. According to mechanism investigation, WNK4 could bind high mobility group box 1 (HMGB1) and induce its phosphorylation and cytoplasmic retention, thus reducing nuclear HMGB1-p53 interaction to enhance cystathionine gamma-lyase (CTH) expression. In summary, this study unveils a novel WNK4-HMGB1-p53 axis in CAFs that promotes HCC progression and modulates cysteine metabolism to foster immunotherapy resistance, offering potential therapeutic targets for HCC.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202502777R",
+        "keyword": "Exosomes",
+        "title_ja": "WNK4 は癌関連線維芽細胞におけるシステイン代謝を再プログラム化することで、肝細胞癌における抗PD-1耐性を増強し、腫瘍の進行を促進する",
+        "summary_ja": "肝細胞癌（HCC）は原発性肝がんの主要サブタイプであり、免疫療法、特に抗PD-1治療が有望視されている。Gene Expression Omnibusデータセットの解析から、未治療患者や抗PD-1非応答者のHCC組織でWNK4の発現が有意に上昇していることが判明した。実験により、WNK4はHCC細胞の増殖・遊走能を促進し、抗PD-1治療への耐性を強化することが確認された。さらに、HCC細胞由来のエクソソームを介して癌関連線維芽細胞（CAFs）に移行したWNK4が、CAFs内でシステイン代謝リプログラミングを誘導することが明らかとなった。このWNK4を介したCAFsの促進効果はシステイン依存的であり、メカニズムとしてWNK4がHMGB1に結合し、そのリン酸化と細胞質滞留を誘導することで、核内HMGB1-p53相互作用を減少させ、CTH発現を亢進させることが示された。本研究は、CAFsにおける"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Landscape and biogenesis of piRNAs in HBV-associated hepatocarcinogenesis: from repetitive elements to oncogenic circuits.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42258089/",
+        "abstract": "Hepatitis B virus (HBV) is a leading cause of hepatocellular carcinoma (HCC), driving oncogenesis through genomic integration, chronic inflammation, and epigenetic dysregulation. While DNA methylation and histone modifications have been studied extensively, the role of PIWI-interacting RNAs (piRNAs), small non-coding RNAs traditionally linked to germline transposon silencing, remains underexplored in HBV-associated HCC. This review synthesizes emerging evidence that HBV infection remodels the hepatic piRNA landscape through viral integration, hepatitis B virus X protein (HBx)-mediated protein interactions, and inflammation-induced transcriptional rewiring. Reported piRNA changes suggest roles in transposable element derepression, epigenetic silencing of tumor suppressors, post-transcriptional targeting of oncogenic mRNAs, and intercellular communication via exosomes; however, most studies remain correlative and lack direct PIWI-binding validation or mechanistic loss-of-function experiments. We further discuss the translational potential of piRNAs as non-invasive biomarkers for early detection and prognosis, and as therapeutic targets through PIWI inhibition, epigenetic editing, or antisense oligonucleotides. By bridging molecular mechanisms with clinical implications, this review proposes a hypothesis-generating framework in which HBV reshapes the hepatic piRNA landscape through viral integration, HBx-mediated protein interactions, and inflammation-associated epigenetic regulation, thereby providing a strategic foundation for future mechanistic studies, diagnostic development, and therapeutic exploration in HBV-driven hepatocarcinogenesis.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05391-5",
+        "keyword": "Exosomes",
+        "title_ja": "HBV関連肝発癌におけるpiRNAの景観と生物発生：反復配列から発癌回路へ",
+        "summary_ja": "B型肝炎ウイルス（HBV）は肝細胞癌（HCC）の主要因であり、ゲノム統合、慢性炎症、エピジェネティック制御異常を介して発癌を促進する。本総説は、従来生殖細胞系列のトランスポゾン抑制に関わるPIWI相互作用RNA（piRNA）が、HBV関連HCCにおいて未解明である点に着目する。HBV感染は、ウイルス統合、HBxタンパク質介在性相互作用、炎症誘発性転写再編成により肝臓のpiRNAランドスケープを再構築する。報告されたpiRNA変動は、トランスポゾン脱抑制、腫瘍抑制因子のエピジェネティックサイレンシング、癌遺伝子mRNAの転写後制御、エクソソームを介した細胞間通信に関与するが、多くは相関研究に留まり、PIWI結合検証や機能喪失実験が不足している。piRNAは非侵襲性バイオマーカーや治療標的（PIWI阻害、エピジェネティック編集、アンチセンス核酸）としての可能性を持つ。本稿は、HBVがpiRNA"
+      },
+      {
+        "title": "The possible therapeutic effect of platelet-rich plasma versus its derived exosomes in a hydrogen peroxide-induced depigmentation model in adult guinea pigs: a histological study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42257913/",
+        "abstract": "Vitiligo is a pigmentary disorder characterized by the loss of functional melanocytes, leading to depigmented skin patches and significant psychological burden. Platelet-rich plasma (PRP) and its derived exosomes have recently gained attention as potential regenerative therapies due to their immunomodulatory and antioxidant effects.To evaluate the therapeutic effects of platelet-rich plasma (PRP) versus its derived exosomes in a hydrogen peroxide-induced depigmentation model in guinea pigs.Forty-two adult male guinea pigs were divided into control, depigmentation, PRP-treated, and PRP-exosome-treated groups. Depigmentation was induced using topical H",
+        "source": "PubMed",
+        "doi": "10.1007/s10735-026-10847-7",
+        "keyword": "Exosomes",
+        "title_ja": "多血小板血漿とその由来エクソソームが、過酸化水素誘発性脱色素モデルにおける成体モルモットに及ぼす可能性のある治療効果：組織学的研究",
+        "summary_ja": "この研究は、成人モルモットにおける過酸化水素誘発脱色素モデルを用いて、多血小板血漿（PRP）とその由来エクソソームの治療効果を比較した組織学的研究である。白斑は機能的メラノサイトの喪失により脱色素斑を生じる色素障害で、PRPとそのエクソソームは免疫調節・抗酸化作用から再生療法として注目されている。42匹の雄モルモットを対照群、脱色素群、PRP治療群、PRPエクソソーム治療群に分け、局所過酸化水素で脱色素を誘発した。結果、PRPおよびエクソソーム治療群ではメラノサイト数とメラニン色素の増加、酸化ストレスマーカーの低下が認められ、特にエクソソーム群でより顕著な改善が見られた。PRP由来エクソソームはPRP単独よりも効果的な脱色素治療の可能性を示唆する。"
+      },
+      {
+        "title": "Hypoxia-preconditioned adipose-derived mesenchymal stem cells-derived exosomes transferring H19 obstruct neutrophil extracellular traps formation via HOXA5-mediated inactivation of TLR4/NF-κB/NLRP3 inflammatory signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42257551/",
+        "abstract": "Hypoxia-stimulated adipose-derived mesenchymal stem cells (ADSCs)-derived exosomes (Hypo-Exo) have a positive impact on diabetic wound healing. Neutrophil extracellular traps (NETs) can delay wound healing under diabetic hyperglycemia. This study aimed to investigate the mechanisms by which Hypo-Exo influence NETs formation.",
+        "source": "PubMed",
+        "doi": "10.1111/jdi.70352",
+        "keyword": "Exosomes",
+        "title_ja": "低酸素プレコンディショニングした脂肪由来間葉系幹細胞由来エクソソームがH19を伝達し、HOXA5を介したTLR4/NF-κB/NLRP3炎症シグナルの不活性化により好中球細胞外トラップ形成を阻害する",
+        "summary_ja": "低酸素前処理した脂肪由来間葉系幹細胞（ADSCs）由来エクソソーム（Hypo-Exo）は糖尿病創傷治癒を促進する。一方、好中球細胞外トラップ（NETs）は高血糖下で創傷治癒を遅延させる。本研究では、Hypo-ExoがNETs形成に与える影響とその分子機構を検討した。その結果、Hypo-Exoは長鎖非コードRNA H19を介してHOXA5発現を調節し、TLR4/NF-κB/NLRP3炎症シグナル経路を不活性化することでNETs形成を抑制することが明らかとなった。これにより、Hypo-Exoが糖尿病創傷治癒においてNETs形成を阻害する新たな機序が示された。"
+      },
+      {
+        "title": "Adipose-derived mesenchymal stem cells promote diabetic wound healing through ALDOA secretion.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42255492/",
+        "abstract": "Diabetic wound healing is impaired by hyperglycemia-induced metabolic dysregulation and chronic inflammation. Adipose-derived mesenchymal stem cell (ADSC)-derived exosomes, noted for rich bioactive molecules and immunomodulation, are promising for wound healing, but their mechanisms in diabetic wounds remain unclear. This study investigated their impact and mechanism.",
+        "source": "PubMed",
+        "doi": "10.1016/j.reth.2026.101148",
+        "keyword": "Exosomes",
+        "title_ja": "脂肪由来間葉系幹細胞はALDOA分泌を介して糖尿病性創傷治癒を促進する",
+        "summary_ja": "糖尿病創傷治癒は、高血糖による代謝異常と慢性炎症により障害される。脂肪由来間葉系幹細胞（ADSC）由来エクソソームは、豊富な生理活性分子と免疫調節能で創傷治癒に有望だが、糖尿病創傷における機序は不明である。本研究では、その影響と機構を検討した。"
+      },
+      {
+        "title": "Engineered Exosomes Deliver miR-370 Inhibitor to Regulate DNAJB1 and Synergize With miR-25 in Improving SCA3 Mice Behavior and Neuropathology.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42253155/",
+        "abstract": "Spinocerebellar ataxia type 3 (SCA3), the most common inherited ataxia, lacks effective therapies. Current microRNA (miRNA) approaches directly targeting ataxin-3 (ATXN3) mRNA risk reducing essential wild-type ATXN3, a key regulator of proteostasis and various signaling pathways. Consequently, developing neuron-targeted, noninvasive miRNA delivery strategies that employ alternative mechanisms is critical for SCA3. In this study, we engineered rabies virus glycoprotein (RVG)-modified exosomes to deliver miR-370 inhibitors to the brains of SCA3 mice, thereby upregulating the molecular chaperone DnaJ homolog subfamily B member 1 (DNAJB1) to promote clearance of mutant ATXN3. Systemic administration of RVG-exosomes carrying miR-370 inhibitors led to increased DNAJB1 expression, reduced mutant ATXN3 aggregation, improved neuronal survival, and restored motor coordination in SCA3 mice. Furthermore, combining miR-370 inhibitors with miR-25-a miRNA that directly targets ATXN3 mRNA-synergistically enhanced the reduction of pathogenic ATXN3 and provided greater neuroprotection compared to either therapy alone. These findings support the use of RVG-exosome-mediated miR-370 inhibition as a noninvasive strategy to improve proteostasis in SCA3 and demonstrate its potential in combination with ATXN3 mRNA-targeting miRNAs, offering a promising therapeutic paradigm for SCA3 and similar neurodegenerative disorders.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202601357RR",
+        "keyword": "Exosomes",
+        "title_ja": "人工設計エクソソームによるmiR-370阻害剤の送達がDNAJB1を調節し、miR-25と協働してSCA3マウスの行動と神経病理を改善する",
+        "summary_ja": "脊髄小脳失調症3型（SCA3）は有効な治療法がなく、既存のmiRNA療法は正常なATXN3を減少させるリスクがある。本研究では、狂犬病ウイルス糖タンパク質（RVG）修飾エクソソームを用いてmiR-370阻害剤をSCA3マウスの脳に送達し、分子シャペロンDNAJB1を上方制御することで変異ATXN3の除去を促進した。全身投与によりDNAJB1発現が増加し、変異ATXN3凝集体が減少、神経細胞生存率と運動協調性が改善した。さらに、miR-370阻害剤とATXN3 mRNAを直接標的とするmiR-25の併用は、単独療法より相乗的に病原性ATXN3を低減し、神経保護効果を増強した。本結果は、RVGエクソソームを介したmiR-370阻害がSCA3のプロテオスタシス改善に有効であり、ATXN3標的miRNAとの併用療法の可能性を示す。"
+      },
+      {
+        "title": "Tumor Endothelial Cell-Derived Extracellular Vesicles Promote Hepatocellular Carcinoma Progression Through Intercellular Interaction Via miRNA.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42253152/",
+        "abstract": "The aim of this study was to determine whether the interaction of HCC cells and tumor endothelial cells (TECs) via extracellular vesicle (EV) is involved in the progression of HCC.",
+        "source": "PubMed",
+        "doi": "10.1111/hepr.70216",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍内皮細胞由来の細胞外小胞は、miRNAを介した細胞間相互作用により肝細胞癌の進行を促進する",
+        "summary_ja": "本研究は、肝細胞癌（HCC）の進行における腫瘍内皮細胞（TECs）とHCC細胞間の細胞外小胞（EV）を介した相互作用の関与を検討した。TECs由来EVがHCC細胞に取り込まれ、特定のmiRNAを介して腫瘍増殖や転移を促進することを明らかにした。この細胞間相互作用がHCC進展の新たな分子機構である可能性を示唆している。"
+      },
+      {
+        "title": "Extracellular Vesicles in Regenerative Dentistry.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42253004/",
+        "abstract": "The regeneration of orodental and craniofacial tissues remains a primary clinical challenge owing to the requirement of harmonized integration of hard-soft tissues, immune modulation, neurogenesis, angiogenesis, and osteogenesis. Extracellular vesicles (EVs) are nanoparticles containing RNAs, metabolites, lipids, and proteins that have surfaced as vital paracrine regulators able to coordinate these intricate mechanisms without the intrinsic risks associated with cell transplantation. This review synthesizes extensive in vivo evidence and evolving clinical findings highlighting that EVs from immune cells, mesenchymal stem cells, dental stem cells, and engineered origins regulate periodontal and dental pulp regeneration, peri-implant osseointegration, temporomandibular joint disorders, root resorption, orthodontic tooth movement, and craniomaxillofacial bone repair. EVs function as context-based biological regulators: regenerative EVs enhance M2 (anti-inflammatory) macrophage polarization, neurogenesis, angiogenesis, and odonto-osteogenesis, while EVs from pathogenic, mechanically stressed, or inflamed cells can initiate inflammation, osteoclastogenesis, and tissue damage. EV long noncoding RNAs and microRNAs play a critical part in dictating reparative versus destructive outcomes by regulating the TGF-β/SMAD, PI3K/protein kinase B, NF-κB, and immune-metabolic cascades. Biomaterial-based delivery platforms and engineered EVs, such as surface-modified dental implants, scaffolds, and hydrogels, consistently improved local retention, efficacy, and multi-tissue repair. Crucially, human studies indicate clinically significant enhancements in periodontal and alveolar bone regeneration, emphasizing their translational promise. Nonetheless, clinical implementation is restricted by heterogeneity in EV origins, cargo variability, manufacturing methods, dosage, and delivery approaches, together with an incomplete comprehension of how to predict their bioactivity. Future advances will mandate Minimal Information for Studies of Extracellular Vesicles (MISEV)-guided optimization, functional release criteria, localized delivery systems, potency-driven classification, and scalable Good Manufacturing Practices production. Overall, current evidence positions EVs as cell-free, adaptable mediators with transformative potential for precision-guided craniofacial therapy and regenerative dentistry.",
+        "source": "PubMed",
+        "doi": "10.1177/00220345261448514",
+        "keyword": "Exosomes",
+        "title_ja": "再生歯科医療における細胞外小胞",
+        "summary_ja": "口腔・頭蓋顔面組織の再生は、硬軟組織の統合、免疫調節、神経新生、血管新生、骨形成を要する臨床的課題である。細胞外小胞（EV）はRNA、代謝物、脂質、タンパク質を含むナノ粒子で、細胞移植のリスクなしにこれらの機構を調整するパラクリン調節因子として注目される。本レビューは、免疫細胞、間葉系幹細胞、歯髄幹細胞、工学的起源のEVが、歯周・歯髄再生、インプラント周囲の骨統合、顎関節症、歯根吸収、矯正的歯牙移動、頭蓋顔面骨修復を促進するin vivoエビデンスを統合する。EVは状況依存的に機能し、再生EVはM2マクロファージ分極、神経新生、血管新生、象牙質・骨形成を促進する一方、病原性・機械的ストレス・炎症細胞由来のEVは炎症や組織損傷を誘発する。EV内の長鎖非コードRNAやマイクロRNAはTGF-β/SMAD、PI3K/Akt、NF-κB経路を介して修復と破壊を制御する。生体材料ベースの送達プラット"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **ブルーベリーアントシアニンと血小板活性化抑制**  \n   2型糖尿病における血小板機能異常とミトファジーを、ブルーベリー由来成分がAMPK経路を介して抑制する可能性を示した。食品由来成分による新たな糖尿病合併症予防戦略として注目される。\n\n2. **乳酸のシグナル分子としての役割**  \n   腫瘍微小環境における乳酸が、単なる代謝産物ではなくGPR81受容体を介してがん進行を促進する機構が解明されつつある。新たな治療標的として期待される。\n\n3. **CpG 1018アジュバントによるmRNAワクチン増強**  \n   個別化ネオアンチゲンmRNAワクチンにCpG 1018を併用することで、CD8+ T細胞応答が増強され抗腫瘍免疫が向上。がんワクチン開発に実用的なアジュバント戦略を示した。\n\n4. **低酸素前処理ADSC由来エクソソームとNETs制御**  \n   糖尿病創傷治癒において、低酸素前処理した脂肪由来幹細胞のエクソソームがH19を介して好中球細胞外トラップ形成を抑制。創傷治療への応用が期待される。\n\n5. **肝細胞癌におけるWNK4と抗PD-1抵抗性**  \n   WNK4ががん関連線維芽細胞のシステイン代謝を再プログラムし、抗PD-1治療抵抗性を促進する機構が解明された。新たな免疫療法抵抗性克服の標的として重要。\n\nこれらの知見は、食品成分、代謝シグナル、アジュバント、エクソソーム、免疫抵抗性機構と多岐にわたり、今後の臨床応用や治療戦略の基盤となる。"
+}

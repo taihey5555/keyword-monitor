@@ -1,0 +1,62 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Synergistic senolytic-regenerative therapy significantly extends healthspan and lifespan.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42260530/",
+        "abstract": "Current barriers to achieving radical life extension include the inability to use syngeneic, youthful mesenchymal stem cells (MSCs) and the anti-regenerative effects of senescence-associated secretory phenotype (SASP) factors. We aim to overcome this by a combination approach in which senescent cell burden is reduced utilizing SenoVax™ a dendritic cell based senolytic immunotherapy combined with syngeneic pluripotent stem cell derived MSC.",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-08221-y",
+        "keyword": "Klotho",
+        "title_ja": "相乗的な老化細胞除去・再生療法が健康寿命と寿命を大幅に延長する。",
+        "summary_ja": "タイトル：Synergistic senolytic-regenerative therapy significantly extends healthspan and lifespan.\n\n内容：寿命大幅延長の障壁として、同系若年間葉系幹細胞（MSC）の利用不能と、老化関連分泌表現型（SASP）因子による抗再生効果がある。本研究では、樹状細胞ベースのセノリティック免疫療法SenoVax™で老化細胞を低減し、同系多能性幹細胞由来MSCを併用する複合アプローチにより、健康寿命と寿命を有意に延長した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、注目すべき5トピックをまとめます。\n\n1. **Synergistic senolytic-regenerative therapy（老化細胞除去＋再生療法）**  \n   老化細胞除去（senolytic）と若い間葉系幹細胞による再生療法の併用が、健康寿命と寿命を大幅に延長。単独療法の限界を超える相乗効果が示され、老化研究のパラダイムシフトとなる可能性。\n\n2. **Klotho**  \n   抗老化因子として知られるKlothoは、認知機能改善や腎保護作用が注目される。今回の文献では、老化関連疾患への治療応用や、寿命延長メカニズムの解明が進展。\n\n3. **PF4（血小板第4因子）**  \n   若齢血中に豊富なPF4が、老化脳の認知機能を回復させる因子として注目。全身性の老化改善効果も示唆され、血液因子による若返り戦略の鍵となる。\n\n4. **NK cell therapy（ナチュラルキラー細胞療法）**  \n   老化細胞を除去する免疫細胞療法として、NK細胞の有効性が確認。特にCAR-NK細胞の開発が進み、安全性と効果のバランスに優れた新たな老化治療法として期待。\n\n5. **Exosomes / sEVs（細胞外小胞）**  \n   間葉系幹細胞由来のエクソソームが、老化組織の修復・再生を促進。無細胞治療として安全性が高く、実用化に向けた製造技術の標準化が進んでいる。\n\nこれらの研究は、老化を「治療可能な状態」と捉える新時代の幕開けを示している。"
+}

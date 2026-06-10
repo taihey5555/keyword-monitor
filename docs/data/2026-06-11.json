@@ -1,0 +1,206 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Hyperbranched poly(β-amino ester)s-mediated delivery of engineered Klotho mRNA rescues senescence and restores cellular homeostasis in aged and Klotho deficient iMSCs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42265429/",
+        "abstract": "A decline in Klotho expression is a defining feature of aging and contributes to cellular dysfunctions. Here, we developed an engineered IVT Klotho mRNA incorporating ARCA capping. Ψ-modification and poly(A) tailing, delivered using a hyperbranched poly(β-amino ester) (HPAE)-based platform to enhance intracellular delivery and translation. Using CRISPR edited KL (-/-) iPSCs and derived iMSCs, we show that loss of KL induces a robust senescent phenotype characterized by activation of p53-p21-p16 pathways, mitochondrial depolarization, elevated ROS, and altered Ca",
+        "source": "PubMed",
+        "doi": "10.1007/s13346-026-02166-x",
+        "keyword": "Klotho",
+        "title_ja": "ハイパーブランチ化ポリ(β-アミノエステル)を介した改変Klotho mRNAの送達が、老化およびKlotho欠損iMSCにおける老化を救済し、細胞の恒常性を回復する。",
+        "summary_ja": "タイトル：高分岐ポリ(β-アミノエステル)を介した工学Klotho mRNAの送達が老化およびKlotho欠損iMSCにおいて老化を救済し細胞恒常性を回復する\n\nKlotho発現の低下は老化の特徴であり、細胞機能障害に関与する。本研究では、ARCAキャッピング、Ψ修飾、ポリAテーリングを施した工学IVT Klotho mRNAを開発し、高分岐ポリ(β-アミノエステル)(HPAE)ベースのプラットフォームを用いて細胞内送達と翻訳を向上させた。CRISPR編集によるKL(-/-)iPSCおよび由来iMSCを用いた解析により、KL欠損はp53-p21-p16経路の活性化、ミトコンドリア脱分極、ROS上昇、Ca²⁺調節異常を特徴とする強力な老化表現型を誘導することが示された。HPAEを介したKlotho mRNA送達は、これらの老化関連変化を有意に抑制し、細胞恒常性を回復させた。本アプローチは、K"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Pediatric Melanoma: Emerging Therapies and Ongoing Clinical Trials.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42268572/",
+        "abstract": "Pediatric melanoma is a rare but clinically distinct malignancy, accounting for 1-4% of all melanoma cases. It encompasses unique subtypes-Spitzoid melanoma, melanoma arising in congenital melanocytic nevi, and conventional melanoma-each with specific biological behavior and therapeutic implications. While surgical excision remains the primary treatment, systemic therapies are often adapted from adult protocols and used off-label, with limited pediatric-specific data on efficacy, dosing, and safety. This narrative review summarizes current treatment approaches, including the use of immune checkpoint inhibitors and targeted therapies, and highlights outcomes from available prospective and retrospective studies. Furthermore, it reviews ongoing clinical trials investigating novel strategies such as chimeric antigen receptor (CAR) T-cell therapy, natural killer (NK) cell infusions, Wnt/β-catenin pathway inhibitors, and cancer vaccines. Despite emerging interest, challenges persist due to the rarity of the disease, lack of long-term toxicity data, and limited biomarker-driven stratification. Expanding pediatric-focused clinical research, integrating molecular profiling, and addressing developmental and psychosocial needs are essential for advancing care. Ongoing trials may help pave the way for safer and more effective therapies tailored to this vulnerable population.",
+        "source": "PubMed",
+        "doi": "10.1007/s13555-026-01817-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "小児メラノーマ：新たな治療法と進行中の臨床試験",
+        "summary_ja": "小児メラノーマは全メラノーマの1～4%を占める稀な悪性腫瘍であり、Spitzoidメラノーマ、先天性色素性母斑由来メラノーマ、従来型メラノーマという生物学的特性の異なるサブタイプが存在する。外科切除が基本治療だが、全身療法は成人プロトコルを適応外使用することが多く、小児特有の有効性や安全性データは限られる。本総説では、免疫チェックポイント阻害薬や標的療法を含む現行治療と、前向き・後ろ向き研究の知見を整理。さらに、キメラ抗原受容体（CAR）T細胞療法、NK細胞輸注、Wnt/β-カテニン経路阻害薬、がんワクチンなどの新規戦略を検討する進行中の臨床試験を概説する。疾患の稀少性、長期毒性データの欠如、バイオマーカー層別化の不足が課題であり、小児特化型研究の拡大、分子プロファイリングの統合、発達・心理社会的ニーズへの対応が重要である。今後の試験により、この脆弱な集団に適した安全で効果的な治療法の確立"
+      },
+      {
+        "title": "Galectin 3 expression in gastrointestinal tumors identified through comprehensive bioinformatic mapping.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42268362/",
+        "abstract": "Gastrointestinal (GI) cancers are a major global health burden with high incidences and mortality. Despite advances in detection and treatment, prognosis for advanced disease remains poor, underscoring the need for new biomarkers and therapies. Galectin-3 (GAL-3), encoded by LGALS3, is a multifunctional β-galactoside-binding protein involved in adhesion, migration, apoptosis, angiogenesis, and immune regulation, making it an important modulator of tumor biology.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-04931-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "包括的バイオインフォマティクス解析により同定された消化管腫瘍におけるガレクチン3の発現",
+        "summary_ja": "消化器（GI）がんは高発生率・高死亡率の世界的健康問題であり、進行例の予後は不良で、新たなバイオマーカーと治療法が求められる。Galectin-3（GAL-3）はLGALS3遺伝子にコードされる多機能β-ガラクトシド結合タンパク質で、接着、遊走、アポトーシス、血管新生、免疫調節に関与し、腫瘍生物学の重要な調節因子である。本論文は包括的バイオインフォマティクス解析により、消化器腫瘍におけるGAL-3発現をマッピングし、その診断・治療標的としての可能性を検討した。"
+      },
+      {
+        "title": "Lanmodulin-Engineered Outer Membrane Vesicles for Synergistic Targeted Radio-Immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42263768/",
+        "abstract": "Combining targeted radionuclide therapy (TRT) with immunotherapy offers a potent strategy to amplify antitumor immunity, yet the development of adaptable delivery platforms remains a challenge. Herein, we report a programmable, \"plug-and-play\" nanoplatform, termed TRT@LnOMVs, engineered for synergistic radio-immunotherapy. By displaying lanmodulin (LanM) on the surface of outer membrane vesicles (OMVs)-derived from attenuated ",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.6c03796",
+        "keyword": "NK cell therapy",
+        "title_ja": "ランモジュリン改変外膜小胞による相乗的標的放射線免疫療法",
+        "summary_ja": "タイトル：Lanmodulin-Engineered Outer Membrane Vesicles for Synergistic Targeted Radio-Immunotherapy\n\n内容：標的放射性核種治療（TRT）と免疫療法の併用は抗腫瘍免疫を増強する有望な戦略だが、適応可能な送達プラットフォームの開発は課題である。本論文では、相乗的ラジオ免疫療法のために設計されたプログラム可能な「プラグアンドプレイ」型ナノプラットフォーム「TRT@LnOMVs」を報告する。弱毒化大腸菌由来の外膜小胞（OMVs）表面にランタン結合タンパク質Lanmodulin（LanM）を提示させ、放射性核種を特異的に結合可能とした。これにより、TRTによる局所的なDNA損傷とOMVsによる自然免疫活性化を同時に誘導し、腫瘍微小環境での免疫原性細胞死を促進する。マウスモデルにおいて、TRT@LnOMVsは腫"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Transcriptomic analysis identifies novel ferroptosis-related biomarkers and therapeutic targets in pulmonary arterial hypertension.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42267557/",
+        "abstract": "Ferroptosis plays a significant role in pulmonary arterial hypertension (PAH), although its underlying mechanisms and key pathogenic genes remain unclear.",
+        "source": "PubMed",
+        "doi": "10.1097/HJH.0000000000004374",
+        "keyword": "NK cell therapy",
+        "title_ja": "トランスクリプトーム解析により、肺動脈性肺高血圧症における新規フェロトーシス関連バイオマーカーと治療標的が同定される。",
+        "summary_ja": "タイトル：肺動脈性肺高血圧症（PAH）における新規フェロトーシス関連バイオマーカーと治療標的の同定：トランスクリプトーム解析\n\n要約：フェロトーシスはPAHの病態に重要な役割を果たすが、その分子機構や鍵となる病原遺伝子は不明である。本研究では、PAH患者の肺組織トランスクリプトームデータを用いて、フェロトーシス関連遺伝子の発現プロファイルを解析した。その結果、複数の新規バイオマーカーと治療標的候補を同定した。これらの遺伝子は、鉄代謝、脂質過酸化、抗酸化防御経路に関与し、PAHの血管リモデリングや内皮機能障害と関連することが示唆された。特に、特定のフェロトーシス調節因子がPAHの進行度と相関し、診断・予後予測マーカーとしての可能性を持つ。また、これらの遺伝子を標的とする薬剤の再配置可能性も示され、新たな治療戦略の基盤を提供する。本研究は、PAHにおけるフェロトーシスの役割を包括的に解明し、臨"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Identifying the relationship between exosome genes and breast cancer risk using bioinformatics and machine learning methods.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42268451/",
+        "abstract": "Breast cancer (BC) is the most prevalent cancer among women globally, with a high mortality rate. The treatment and prevention of this disease are of utmost importance. Exosomes-nanovesicles derived from cells-play a vital role in intercellular communication and have profound implications for numerous physiological and pathological processes. However, relationships between exosomes and the development and prognosis of BC have not been fully elucidated.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05402-5",
+        "keyword": "Exosomes",
+        "title_ja": "バイオインフォマティクスと機械学習手法を用いたエクソソーム遺伝子と乳がんリスクの関連性の解明",
+        "summary_ja": "本論文は、バイオインフォマティクスと機械学習を用いて、エクソソーム関連遺伝子と乳癌リスクの関係を解析した研究である。乳癌は女性で最も多い癌であり、死亡率も高い。エクソソームは細胞由来のナノ小胞で、細胞間コミュニケーションにおいて重要であり、多くの生理・病理過程に関与するが、乳癌の発症や予後との関連は十分に解明されていない。本研究では、公開データベースから乳癌関連の遺伝子発現データを取得し、エクソソーム遺伝子との関連を機械学習手法（例：LASSO、SVM）を用いて解析した。その結果、特定のエクソソーム遺伝子群が乳癌リスクと有意に関連し、診断バイオマーカーとしての可能性が示唆された。本研究は、エクソソーム遺伝子が乳癌の病態理解や早期診断に寄与する可能性を提示している。"
+      },
+      {
+        "title": "Cell therapy comparison of dental pulp stem cells, hepatocytes, and their exosomes for liver fibrosis treatment in rats.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42265831/",
+        "abstract": "Excessive extracellular matrix accumulation, primarily as a result of hepatic stellate cell activation, is a hallmark of hepatic fibrosis, a progressive outcome of chronic liver injuries. Recent research studies suggest that stem cells, hepatocytes, and extracellular vesicles may provide therapeutic advantages due to their anti-inflammatory, antioxidative, and regenerative activities. This study aimed to comparatively evaluate the therapeutic efficacy of these agents in a rat model of carbon tetrachloride (CCl",
+        "source": "PubMed",
+        "doi": "10.1002/ame2.70207",
+        "keyword": "Exosomes",
+        "title_ja": "ラット肝線維症治療における歯髄幹細胞、肝細胞、およびそれらのエクソソームの細胞療法比較",
+        "summary_ja": "本論文は、ラットの四塩化炭素（CCl₄）誘発性肝線維症モデルにおいて、歯髄幹細胞、肝細胞、およびそれらのエクソソームの治療効果を比較評価した研究である。肝線維症は、肝星細胞の活性化による過剰な細胞外マトリックス蓄積が特徴であり、慢性肝障害の進行性病態である。近年、幹細胞、肝細胞、細胞外小胞は抗炎症、抗酸化、再生作用により治療効果が期待されている。本研究では、これらの細胞・エクソソームを投与し、線維化抑制効果を比較。結果、各治療群で線維化改善が認められ、特に歯髄幹細胞とそのエクソソームが肝細胞と同等以上の効果を示した。エクソソームは細胞を用いない治療法として有望であり、肝線維症治療における新たな選択肢となる可能性が示唆された。"
+      },
+      {
+        "title": "Salivary protein macromolecules as diagnostic and therapeutic biomarkers linking oral health and neurodegenerative diseases-emerging mechanisms and future perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42265465/",
+        "abstract": "Oral diseases and neurodegenerative diseases represent two overlapping global health challenges, driven by shared risk factors and the rapid ageing of the population. Emerging evidence suggests that the oral-brain axis functions as a critical mechanistic link between these conditions. Chronic oral dysbiosis, particularly periodontitis, can induce systemic inflammation, disrupt the blood-brain barrier, and promote neuroinflammation, a hallmark of neurodegenerative diseases. Saliva, a non-invasive and easily accessible biofluid, provides valuable insights into both oral and systemic health. This review presents current evidence on the role of salivary protein macromolecules as diagnostic and therapeutic tools within the framework of the oral-brain axis. Key biomarkers, including α-synuclein in Parkinson's disease and amyloid-β and tau proteins in Alzheimer's disease, are highlighted for their diagnostic potential. Furthermore, emerging therapeutic strategies are discussed, including oral health interventions, targeted pharmacological approaches, and the use of salivary proteins and exosomes in regenerative medicine and drug delivery. Advances in analytical technologies, such as mass spectrometry and bioinformatics, are also examined, along with the challenges associated with standardization and clinical validation. Overall, salivaomics represents a promising approach for the early diagnosis, prevention, and management of neurodegenerative diseases through non-invasive biomarker profiling and multi-omics integration.",
+        "source": "PubMed",
+        "doi": "10.1007/s10787-026-02220-7",
+        "keyword": "Exosomes",
+        "title_ja": "唾液タンパク質高分子を口腔健康と神経変性疾患を結びつける診断・治療バイオマーカーとして捉える——新たなメカニズムと将来展望",
+        "summary_ja": "本レビューは、口腔疾患と神経変性疾患が共有リスク因子と高齢化により重複する健康課題であることを指摘し、口腔-脳軸が両者のメカニズム的関連性を担うと論じる。慢性口腔細菌叢異常、特に歯周炎は全身性炎症を誘発し、血液脳関門を破綻させ、神経炎症を促進する。唾液は非侵襲的で容易に採取可能なバイオ流体であり、口腔-脳軸における診断・治療バイオマーカーとして、パーキンソン病のα-シヌクレイン、アルツハイマー病のアミロイドβやタウタンパク質などの唾液タンパク質高分子の可能性を提示する。治療戦略として、口腔衛生介入、標的薬物療法、唾液タンパク質やエクソソームを用いた再生医療・薬物送達が議論される。質量分析やバイオインフォマティクスなどの分析技術の進歩と標準化・臨床検証の課題にも触れ、唾液オミクスは非侵襲的バイオマーカープロファイリングとマルチオミクス統合により、神経変性疾患の早期診断・予防・管理に有望なアプ"
+      },
+      {
+        "title": "Targeting colorectal cancer stem-like cells: Overcoming therapeutic resistance and reprogramming the immunosuppressive niche.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42263836/",
+        "abstract": "Colorectal cancer stem-like cells (CRC-SCs) represent a tumor subpopulation with enhanced tumor-initiating capacity and have been implicated in metastasis, therapeutic resistance, and disease relapse. These cells not only possess intrinsic resistance mechanisms, such as quiescence, enhanced DNA repair, and ABC transporter overexpression, but also actively orchestrate a profoundly immunosuppressive tumor microenvironment (TME). Emerging evidence suggests that CRC-SCs may contribute to shaping an immunosuppressive TME through secretion of exosomes and cytokines that influence immune cells (e.g., regulatory T cells, myeloid-derived suppressor cells, and tumor-associated macrophages) and key stromal cell populations (e.g., cancer-associated fibroblasts). This review provides a comprehensive analysis of the evolving landscape of immunotherapies designed to target CRC-SCs. We evaluate immunotherapeutic strategies including immune checkpoint inhibitors, while also discussing the targeting of critical signaling pathways like Wnt, Notch, and Hh. Furthermore, we explore the growing role of artificial intelligence (AI)-based approaches in deciphering CRC-SC heterogeneity, identifying predictive biomarkers, and accelerating therapeutic target discovery. Despite these advancements, significant challenges remain, including tumor heterogeneity, the immunosuppressive TME, and on-target/off-tumor toxicity. We conclude by outlining future directions that emphasize combination therapies, novel delivery systems, and AI-driven precision medicine as crucial strategies to more effectively target CRC-SC populations and improve durable disease control.",
+        "source": "PubMed",
+        "doi": "10.1016/j.canlet.2026.218665",
+        "keyword": "Exosomes",
+        "title_ja": "標的化大腸癌幹細胞様細胞：治療抵抗性の克服と免疫抑制性微小環境の再プログラミング",
+        "summary_ja": "本論文は、大腸がん幹細胞様細胞（CRC-SCs）が、静止状態、DNA修復能亢進、ABCトランスポーター過剰発現による内在性耐性に加え、エクソソームやサイトカイン分泌を介して免疫抑制性腫瘍微小環境（TME）を形成することを概説する。CRC-SCsは制御性T細胞、骨髄由来抑制細胞、腫瘍関連マクロファージ、癌関連線維芽細胞に影響を与え、治療抵抗性や再発に関与する。本レビューでは、免疫チェックポイント阻害剤、Wnt/Notch/Hhシグナル経路標的治療、AIを用いたCRC-SC不均一性解析やバイオマーカー同定の進展を評価。課題として腫瘍不均一性、免疫抑制性TME、標的外毒性を指摘し、今後の方向性として併用療法、新規送達システム、AI駆動型精密医療の重要性を強調する。"
+      },
+      {
+        "title": "CAR-T Cell-Derived Exosomes and Cancer Immunotherapy: Advancing Production and Delivery Through Biofabrication.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42263750/",
+        "abstract": "Chimeric antigen receptor (CAR) T-cell therapy has transformed the treatment of hematologic malignancies, but it still faces some major barriers in solid tumors because of poor infiltration, the immunosuppressive microenvironment, and sometimes severe toxicities. The CAR-T cellderived exosomes (CAR-T-EXOs) have been emerging as safer and more scalable acellular alternatives that can preserve the tumor-specific CAR recognition and cytotoxic effect or functions, while avoiding the cytokine release syndrome (CRS) and neurotoxicity issues. These nanosized vesicles can penetrate the dense tumor stroma and reprogram the immunosuppressive niches more effectively than the cellular therapies. The recent advances in biofabrication are now enabling the high-yield production, functional validation, and more precise delivery of CAR-T-EXOs. The biofabricated models, including the three-dimensional (3D) spheroids, organoids, bioprinted constructs, and tumor-on-chip systems, offer more physiologically relevant platforms for evaluating exosome trafficking and efficacy. Meanwhile, smart delivery systems such as stimuli-responsive hydrogels, nanofiber scaffolds, and hybrid nanovesicles provide spatiotemporal control over the exosome release. Despite all this promise, the clinical translation is still hindered by the variability in isolation methods, characterization procedures, and the regulatory frameworks. This review tries to integrate immunology, bioengineering, and translational perspectives to outline the biological advantages of the CAR-T-EXOs, to survey the latest biofabrication strategies, and to discuss the regulatory challenges. We also highlight some emerging paradigms, like exosome mimetics, nanorobotics, and personalized tumor-on-chip testing, that are likely to speed up the next generation of safer and more effective exosome-based immunotherapies for solid tumors.",
+        "source": "PubMed",
+        "doi": "10.1088/1758-5090/ae7b0b",
+        "keyword": "Exosomes",
+        "title_ja": "CAR-T細胞由来エクソソームとがん免疫療法：バイオファブリケーションによる生産と送達の進展",
+        "summary_ja": "CAR-T細胞療法は血液がんに有効だが、固形腫瘍では浸潤不良や免疫抑制環境、毒性が課題である。CAR-T細胞由来エクソソーム（CAR-T-EXOs）は、腫瘍特異的認識と細胞傷害機能を保持しつつ、サイトカイン放出症候群や神経毒性を回避する、より安全でスケーラブルな無細胞代替手段として注目される。これらのナノ小胞は腫瘍間質に浸透し、免疫抑制環境を効果的に再プログラムする。近年のバイオファブリケーション技術により、高収量生産、機能検証、精密送達が可能となった。3Dスフェロイド、オルガノイド、バイオプリント構造、腫瘍オンチップなどのモデルは、エクソソームの動態評価に生理学的に関連するプラットフォームを提供する。また、刺激応答性ハイドロゲルやナノファイバースキャフォールドなどのスマート送達システムが、放出の時空間制御を実現する。しかし、単離法や特性評価のばらつき、規制枠組みの未整備が臨床応用を阻む。"
+      },
+      {
+        "title": "Oral microbiota member Neisseria elongata exosomes-Cassia fistula association targets PTEN/AKT/IL10/IL1β/BAX/BCL-2 signaling pathway in pancreatic cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42262392/",
+        "abstract": "Pancreatic cancer, characterized by its aggressive progression and limited therapeutic options, remains a malignancy with high mortality rates. This study evaluates the potential of bacterial extracellular vesicles (EVs) as immunotherapeutic carriers, focusing on Neisseria elongata-derived exosomes conjugated with a methanol extract of Cassia fistula, a plant with known anticancer properties. The cytotoxic and apoptotic effects of this complex were systematically analyzed using the PANC-1 pancreatic cancer cell line. MTT and LDH assays revealed a concentration-dependent reduction in cell viability and enhanced cytotoxicity. Mechanistic analyses demonstrated upregulation of pro-apoptotic BAX/BCL-2 ratio and modulation of PTEN/AKT signaling pathways, indicating activation of intrinsic apoptosis. Furthermore, increased levels of the pro-inflammatory cytokine IL-1β and suppression of anti-inflammatory IL-10 suggested immunomodulatory effects. Elevated reactive oxygen species (ROS) levels corroborated the induction of oxidative stress-mediated apoptosis. These results underscore the dual functionality of Neisseria elongata exosomes as both drug carriers and biological response modifiers. The biocompatibility and targeting efficiency of bacterial EVs position them as a novel therapeutic platform for gastrointestinal cancers. This study provides the first preclinical evidence supporting the use of non-pathogenic bacterial exosomes in oncology, highlighting their translational potential for improving treatment outcomes in pancreatic cancer.",
+        "source": "PubMed",
+        "doi": "10.1007/s10482-026-02355-1",
+        "keyword": "Exosomes",
+        "title_ja": "口腔微生物叢メンバーであるNeisseria elongataのエクソソームとCassia fistulaの関連が、膵癌免疫療法におけるPTEN/AKT/IL10/IL1β/BAX/BCL-2シグナル伝達経路を標的とする。",
+        "summary_ja": "膵臓癌は進行が速く治療選択肢が限られる高死亡率の悪性腫瘍である。本研究では、細菌由来細胞外小胞（EVs）を免疫療法キャリアとして評価し、抗癌性植物センナ（Cassia fistula）のメタノール抽出物と結合させたNeisseria elongata由来エクソソーム複合体の効果をPANC-1膵臓癌細胞株で解析した。MTTおよびLDHアッセイにより、濃度依存的な細胞生存率低下と細胞毒性増強が確認された。メカニズム解析では、アポトーシス促進性BAX/BCL-2比の上昇とPTEN/AKTシグナル経路の調節が認められ、内在性アポトーシスの活性化が示唆された。また、炎症性サイトカインIL-1βの増加と抗炎症性IL-10の抑制により免疫調節効果が確認され、活性酸素種（ROS）レベルの上昇が酸化ストレス誘導性アポトーシスを裏付けた。これらの結果は、N. elongataエクソソームが薬物キャリアかつ生体"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Exploring Clearance Pathways for GalNAc-siRNAs: Insights into Intracellular Kinetics and Therapeutic Implications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42265847/",
+        "abstract": "Small interfering RNA (siRNA) represents a transformative therapeutic class that enables precise gene silencing through RNA interference (RNAi). N-acetyl galactosamine (GalNAc)-conjugated siRNAs have achieved remarkable clinical success with six FDA-approved therapeutics targeting liver diseases. Following subcutaneous administration, GalNAc-siRNAs rapidly accumulate in hepatocytes via asialoglycoprotein receptor (ASGPR)-mediated endocytosis and are sequestered within endolysosomal compartments, creating an intracellular depot that sustains therapeutic effects for weeks to months. While RNAi-mediated degradation and nuclease metabolism contribute to siRNA clearance, the detection of full-length, active siRNA in circulation long after dosing suggests alternative clearance mechanisms exist. This review examines the pharmacokinetic properties and intracellular trafficking of GalNAc-siRNA, with particular focus on underexplored clearance pathways from hepatocytes. We discuss potential mechanisms including endosomal recycling, efflux via exosomes and lysosomal exocytosis that may facilitate siRNA redistribution from tissues to circulation. Understanding these clearance mechanisms could enable correlation of plasma and tissue drug concentrations, reduce preclinical animal use, inform clinical dosing strategies and guide the design of next-generation siRNA therapeutics with optimized tissue residence time and enhanced therapeutic durability.",
+        "source": "PubMed",
+        "doi": "10.1177/21593337261457402",
+        "keyword": "Exosomes",
+        "title_ja": "ガルNAc-siRNAのクリアランス経路の解明：細胞内動態と治療への応用に関する知見",
+        "summary_ja": "本レビューは、GalNAc-siRNAの肝細胞内動態と未解明のクリアランス経路を考察する。皮下投与後、GalNAc-siRNAはASGPR介在性エンドサイトーシスで肝細胞に蓄積し、エンドリソソーム区画に貯留され、数週間から数ヶ月の治療効果を維持する。RNAi分解やヌクレアーゼ代謝に加え、投与後長期にわたり完全長の活性型siRNAが血中に検出されることから、代替クリアランス機構の存在が示唆される。本稿では、エンドソームリサイクリング、エクソソームやリソソームエキソサイトーシスを介した組織から血中へのsiRNA再分布の可能性を議論する。これらの機構解明は、血中と組織中薬物濃度の相関、前臨床動物使用の削減、臨床投与戦略の最適化、組織滞留時間と治療持続性を向上させた次世代siRNAの設計に貢献する。"
+      },
+      {
+        "title": "Coro1a promotes the multivesicular body and plasma membrane fusion by facilitating PKM2-mediated SNAP-23 phosphorylation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42265296/",
+        "abstract": "The release of exosomes involves the fusion of multivesicular bodies (MVBs) with the plasma membrane (PM), a process driven by the soluble N-ethylmaleimide-sensitive factor attachment protein receptor (SNARE) complex. However, the specific SNARE complex mediating MVB-PM fusion and its regulatory mechanism remain unclear. Here, we show that Coronin-1a (Coro1a) increases extracellular vesicle (EV) biogenesis by promoting the assembly of the STX-12-SNAP-23-VAMP-7 SNARE complex independent of neddylation. Mechanistically, Coro1a activates pyruvate kinase M2 (PKM2) to enhance SNAP-23 phosphorylation, thereby driving the recruitment of STX-12 and VAMP-7. Consequently, Coro1a-induced EV biogenesis is abolished by PKM2 inhibition or SNAP-23 silencing. Furthermore, Coro1a levels are elevated in lung tumor tissues and correlate with poor patient survival, suggesting that Coro1a-mediated enhancement of EV production contributes to tumor progression. Our data demonstrate that Coro1a facilitates EV biogenesis by promoting SNARE complex assembly during MVB and PM fusion.",
+        "source": "PubMed",
+        "doi": "10.1038/s42003-026-10424-4",
+        "keyword": "Exosomes",
+        "title_ja": "Coro1aはPKM2を介したSNAP-23のリン酸化を促進し、多胞体と形質膜の融合を促進する",
+        "summary_ja": "Coro1aは、多胞体（MVB）と形質膜（PM）の融合を促進し、エクソソーム放出を増加させる。この過程は、SNARE複合体（STX-12-SNAP-23-VAMP-7）のアセンブリを介して進行するが、その制御機構は不明であった。本研究では、Coro1aがneddylation非依存的にSNARE複合体形成を促進することを示した。具体的には、Coro1aがピルビン酸キナーゼM2（PKM2）を活性化し、SNAP-23のリン酸化を誘導することで、STX-12とVAMP-7のリクルートを促進する。PKM2阻害やSNAP-23ノックダウンにより、Coro1a誘導性の細胞外小胞（EV）産生は消失した。さらに、肺腫瘍組織ではCoro1a発現が上昇し、患者の予後不良と相関した。以上より、Coro1aはPKM2を介したSNAP-23リン酸化によりSNARE複合体アセンブリを促進し、MVB-PM融合を介したE"
+      },
+      {
+        "title": "Secondary metabolites associated with exosome-like nanovesicles from green tea (Camellia sinensis) infusion and the origin of these nanovesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42264457/",
+        "abstract": "In recent years, there has been increasing evidence that plant-derived vesicles, i.e. exosome-like nanovesicles (ENs), have biological activities. We investigated the ingredients in green tea \"Sencha\" infusion-derived exosome-like nanovesicle (TIEN) fractions and found that gallic acid-type polyphenolics were detected disproportionately in these fractions. Furthermore, it is thought that plant-derived ENs arise mainly from vacuoles, endoplasmic reticulum, and Golgi apparatus, etc. However, our findings suggest that TIENs may originate from chloroplasts.",
+        "source": "PubMed",
+        "doi": "10.1093/bbb/zbag083",
+        "keyword": "Exosomes",
+        "title_ja": "緑茶（Camellia sinensis）抽出液由来のエクソソーム様ナノ小胞に関連する二次代謝産物と、これらのナノ小胞の起源",
+        "summary_ja": "近年、植物由来の小胞（エクソソーム様ナノ小胞、ENs）が生物活性を持つことが示されている。本研究では、緑茶「煎茶」抽出液由来のエクソソーム様ナノ小胞（TIEN）画分の成分を調査し、没食子酸型ポリフェノールがこの画分に不均衡に検出されることを明らかにした。植物由来ENsは主に液胞、小胞体、ゴルジ体などに由来すると考えられているが、本研究の知見はTIENsが葉緑体に由来する可能性を示唆している。"
+      },
+      {
+        "title": "Differential Wound Healing Potential of Tonsil Parenchymal and Epithelial Mesenchymal Stromal Cell-Derived Exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42262433/",
+        "abstract": "The biological characteristics of mesenchymal stromal cells (MSCs) and their exosomes can vary depending on the tissue layer of origin, potentially influencing their regenerative capacity. This study aimed to determine whether exosomes derived from epithelial (TE-MSCs) and parenchymal (TP-MSCs) layers of human tonsils exhibit distinct therapeutic effects in oral mucositis (OM).",
+        "source": "PubMed",
+        "doi": "10.1007/s13770-026-00818-0",
+        "keyword": "Exosomes",
+        "title_ja": "扁桃実質および上皮間葉系間質細胞由来エクソソームの創傷治癒能の差異",
+        "summary_ja": "タイトル：口蓋扁桃実質および上皮間葉系間質細胞由来エクソソームの創傷治癒能の差異\n\n間葉系間質細胞（MSCs）とそのエクソソームの生物学的特性は、由来組織層により異なり、再生能に影響する可能性がある。本研究では、ヒト扁桃の上皮層由来（TE-MSCs）と実質層由来（TP-MSCs）のエクソソームが、口腔粘膜炎（OM）において異なる治療効果を示すかを検討した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めて500文字以内でまとめます。\n\n---\n\n**1. Klotho mRNA送達による老化救済**  \n老化に伴い低下するKlothoを、高分岐ポリ(β-アミノエステル)を用いてmRNAとして送達し、老化細胞の恒常性を回復する画期的なアプローチ。老化関連疾患の根本治療につながる可能性がある。\n\n**2. CAR-T細胞由来エクソソームのがん免疫療法**  \nCAR-T細胞療法の固形腫瘍への応用課題（浸潤不良、免疫抑制環境、毒性）を、CAR-T由来エクソソームが克服。腫瘍特異的細胞傷害能を保持しつつ、サイトカイン放出症候群を回避できる次世代プラットフォームとして注目される。\n\n**3. エクソソーム放出機構の解明（Coro1a-PKM2経路）**  \nCoro1aがPKM2を介してSNAP-23のリン酸化を促進し、多胞体と形質膜の融合を制御することを発見。エクソソーム分泌の分子機構解明は、がん転移や免疫調節の理解と治療標的開発に直結する。\n\n**4. 口腔-脳軸と神経変性疾患のバイオマーカー**  \n唾液タンパク質が口腔疾患と神経変性疾患を結ぶ「口腔-脳軸」の鍵として注目。歯周炎による全身性炎症が血液脳関門を破綻させ神経炎症を誘発するメカニズムは、早期診断・予防法開発に新たな視点を提供する。\n\n**5. 大腸がん幹細胞と免疫抑制性微小環境**  \n大腸がん幹細胞様細胞がエクソソームやサイトカイン分泌で免疫抑制性腫瘍微小環境を形成する機構を解明。治療抵抗性克服と免疫微小環境のリプログラミングによる新規治療戦略の基盤となる。\n\n---\n\n（500文字以内）"
+}

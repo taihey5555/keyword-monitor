@@ -1,0 +1,217 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "α-Klotho as a central integrative signalling hub in cognitive function and neuroprotection in neurodegenerative diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42274849/",
+        "abstract": "α-Klotho, a transmembrane protein predominantly expressed in the kidney and brain, has garnered significant attention for its anti-ageing and neuroprotective properties. Beyond its systemic role in mineral metabolism and oxidative stress regulation, emerging evidence highlights its critical involvement in maintaining cognitive function and protecting against neurodegenerative processes. This review explores the multifaceted role of α-Klotho in the central nervous system, emphasizing its physiological functions, underlying molecular mechanisms, and therapeutic potential. α-Klotho exerts neuroprotective effects by modulating calcium and phosphate homeostasis, attenuating oxidative stress, and suppressing neuroinflammation. Additionally, it regulates signalling pathways such as IGF-1, Wnt/β-catenin, and Nrf2, which are essential for neuronal survival and synaptic plasticity. Reduced α-Klotho expression has been linked to cognitive impairment, Alzheimer's disease, Parkinson's disease, and other age-related neurodegenerative disorders. Preclinical studies demonstrate that enhancing α-Klotho expression or administering a recombinant protein improves learning, memory, and neuronal resilience, positioning α-Klotho as a promising therapeutic target. However, challenges such as limited blood-brain barrier penetration, stability of recombinant forms, and incomplete mechanistic understanding hinder clinical translation. Overall, α-Klotho stands as a novel biomarker and a promising intervention strategy for mitigating neurodegeneration and promoting healthy brain ageing.",
+        "source": "PubMed",
+        "doi": "10.1007/s11011-026-01897-7",
+        "keyword": "Klotho",
+        "title_ja": "α-Klotho：神経変性疾患における認知機能と神経保護の中心的統合的シグナル伝達ハブ",
+        "summary_ja": "α-Klothoは腎臓と脳に主に発現する膜タンパク質で、抗老化と神経保護作用で注目されている。本レビューは、中枢神経系におけるα-Klothoの生理機能、分子機構、治療可能性を考察する。α-Klothoはカルシウム・リン酸恒常性の調節、酸化ストレスの軽減、神経炎症の抑制を通じて神経保護を発揮する。また、IGF-1、Wnt/β-catenin、Nrf2などのシグナル経路を調節し、神経細胞生存とシナプス可塑性に寄与する。α-Klothoの発現低下は認知障害やアルツハイマー病、パーキンソン病などの加齢性神経変性疾患と関連する。前臨床研究では、発現増強や組換えタンパク質投与が学習・記憶・神経抵抗性を改善し、治療標的として有望視される。しかし、血液脳関門透過性の低さ、組換え型の安定性、機構解明の不十分さが臨床応用の課題である。α-Klothoは新規バイオマーカーとして、神経変性の緩和と健康的な脳老化"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Functional Repurposing of Magnetic Nanoparticle-Assisted Hyperthermia for Immune Cell Labelling and Tracking.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42272313/",
+        "abstract": "Immune cell therapies show promise in hematologic malignancies and are becoming more effective in solid tumors like lungs, melanoma, and colorectal cancers. Magnetic nanoparticles (MNPs) are mostly used as tracers via magnetic particle imaging(MPI) or magnetic resonance imaging(MRI), and heat mediators to monitor and kill cancer cells via magnetic hyperthermia (MHT). Here, we apply a mild-MHT protocol (38-41°C/60 min) as a new means to boost MNPs uptake by immune cells under a harmless alternating magnetic field (AMF). Various MNPs formulations, including iron oxide or zinc-ferrite compositions stabilized by different polymers, were selected for their heating performance and colloidal stability. NK-92 cell line and NK cells from healthy donors exhibited enhanced MNP internalization upon AMF exposure without compromising viability, receptor expression, and effector functions. MNP-loaded NK cells retained cytotoxic activity, degranulating upon ligand engagement on glioblastoma and neuroblastoma targets. Similar outcomes were achieved with T cells. Thanks to its simplicity, this MHT-protocol is suitable for clinical translation, as it can be straightforwardly integrated into existing GMP-compliant adoptive cell therapy workflows in a hospital cell factory, enabling the preparation of magnetically tagged immune cells ready for tracking in cell therapy infusion.",
+        "source": "PubMed",
+        "doi": "10.1002/smtd.202502416",
+        "keyword": "NK cell therapy",
+        "title_ja": "磁性ナノ粒子支援温熱療法の免疫細胞標識と追跡への機能的転用",
+        "summary_ja": "本論文では、磁性ナノ粒子（MNP）を用いた温和な磁気ハイパーサーミア（MHT）プロトコル（38–41°C、60分）を、免疫細胞へのMNP取り込み促進法として提案する。従来、MNPは磁気粒子イメージング（MPI）やMRIによる追跡、及びMHTによるがん細胞殺傷に利用されてきた。本研究では、無害な交流磁場（AMF）下で、様々なポリマーで安定化された酸化鉄や亜鉛フェライトMNPを用い、NK-92細胞株や健常ドナー由来NK細胞、T細胞において、細胞生存率、受容体発現、エフェクター機能を損なわずにMNP内部化を向上させた。MNP搭載NK細胞は、膠芽腫や神経芽腫標的に対する細胞傷害活性と脱顆粒能を保持した。本プロトコルは簡便で、GMP準拠の養子細胞療法ワークフローに容易に統合可能であり、細胞療法注入時の追跡用磁気タグ付き免疫細胞の調製に適する。"
+      },
+      {
+        "title": "Ex vivo evaluation of Newcastle disease virus to enhance natural killer cell function against acute myeloid leukemia cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42270693/",
+        "abstract": "Natural killer (NK) cells are promising for adoptive cell therapy in hematological malignancies due to their ability to target tumors and tolerate HLA mismatch. However, their effectiveness is often limited by tumor immune evasion. The aim of this study was to investigate whether infection of AML cells with a non-lytic strain of Newcastle Disease Virus (NDV) can enhance NK cell-mediated cytotoxicity ex-vivo, as a preclinical proof-of-concept for potential sensitization strategies in AML immunotherapy. In the present study, AML cell lines and primary cells derived from newly diagnosed and relapsed/refractory patients were infected with the non-lytic NDV strain Ulster. Following infection, AML cells were co-cultured with NK cells at different Effector-to-Target ratios. Anti-tumor activity of NK cells was assessed by flow cytometry (CFSE/PI staining), lactate dehydrogenase release, and IFN-γ, perforin and granzyme B production. Our results showed that NDV infection of AML cells led to surface expression of viral hemagglutinin-neuraminidase, a danger signal and ligand for NK cell activating receptors. This, in turn, stimulated the specific cytotoxicity response of NK cells against AML cells and significantly elicited IFN-γ production as well as perforin and granzyme B secretion by activated NK cells. To the best of our knowledge, this is the first study demonstrating the potential of cancer immunotherapy through NDV infection of AML cells to enhance NK cell activation and cytotoxicity. Our findings could provide a rationale for a sequential therapeutic strategy in which NDV is administered in vivo to sensitize leukemic blasts, followed by adoptive transfer of ex vivo expanded NK cells to maximize anti-leukemic efficacy.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-56211-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "ニューカッスル病ウイルスによる急性骨髄性白血病細胞に対するナチュラルキラー細胞機能増強のex vivo評価",
+        "summary_ja": "本論文では、急性骨髄性白血病（AML）細胞に対するナチュラルキラー（NK）細胞の抗腫瘍効果を増強するため、非溶解性ニューカッスル病ウイルス（NDV）株Ulsterの感染を検討した。AML細胞株および初代培養細胞にNDVを感染後、NK細胞と共培養し、フローサイトメトリーやIFN-γ、パーフォリン、グランザイムB産生を評価した。その結果、NDV感染によりAML細胞表面にウイルス赤血球凝集素-ノイラミニダーゼが発現し、NK細胞活性化受容体のリガンドとして機能。NK細胞の特異的細胞傷害活性が亢進し、IFN-γや細胞傷害性顆粒の分泌が有意に促進された。本研究は、NDV感染によるAML細胞の感作がNK細胞療法の前臨床的proof-of-conceptとなる初の報告であり、in vivoでのNDV投与後にex vivo拡張NK細胞を移入する逐次治療戦略の基盤を提供する。"
+      },
+      {
+        "title": "Multi-Omics Integration Reveals the Genetic Mechanisms of Periodontitis and Predicts Therapeutic Drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42269280/",
+        "abstract": "Periodontitis is a chronic inflammatory disease driven by host immune dysregulation. However, the specific genetic regulatory mechanisms underlying this disease remain unclear. Identifying key molecular targets is crucial for precise therapeutic intervention.",
+        "source": "PubMed",
+        "doi": "10.1016/j.identj.2026.109678",
+        "keyword": "NK cell therapy",
+        "title_ja": "マルチオミクス統合による歯周炎の遺伝的メカニズム解明と治療薬の予測",
+        "summary_ja": "タイトル：マルチオミクス統合解析による歯周炎の遺伝的メカニズム解明と治療薬予測\n\n歯周炎は宿主の免疫調節異常に起因する慢性炎症性疾患であるが、その遺伝的制御メカニズムは未解明である。本研究では、マルチオミクス統合解析（ゲノム、トランスクリプトーム、エピゲノム等）を用いて、歯周炎関連遺伝子と制御経路を特定した。その結果、免疫応答や細胞外マトリックスリモデリングに関与する複数の遺伝子が同定され、特にNF-κB経路やサイトカインシグナル伝達の異常が病態に寄与することが示された。さらに、これらの分子標的を基に薬剤再配置解析を実施し、既存薬（例：抗炎症剤や免疫調節薬）の歯周炎治療への応用可能性を予測した。本統合的アプローチは、歯周炎の精密医療に向けた新たな治療標的と薬剤候補を提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Small-molecule inhibitors of the protein kinase DYRK as potential therapeutic candidates in cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42269611/",
+        "abstract": "Dual-specificity tyrosine-regulated kinase 1A (DYRK1A) is crucial for normal brain development, and its disruption is linked to various cancers. DYRK1A drives glioblastoma (GBM) progression via stabilization of epidermal growth factor receptor (EGFR). Here, we describe two benzothiazole-derived DYRK inhibitors, FC-2 and FC-3, obtained by structure-activity optimization of a natural product lead. Both compounds inhibited DYRK1A with nanomolar potency and displayed selectivity across a kinase panel. The co-crystal structure of FC-3 with DYRK1A revealed ATP-competitive binding, with interactions at the hinge region. The DYRK-specific phenylalanine gatekeeper residue contributed to target selectivity. Generation of inhibitor-resistant mutants confirmed DYRK1A as the primary cellular target. In GBM cell-based models, FC-2 and FC-3 impaired neurosphere self-renewal, cell invasion, and EGFR stability, phenocopying DYRK1A loss. FC-2 crossed the blood-brain barrier and suppressed tumor growth, prolonging survival in intracranial xenografts. These findings identify FC-2 and FC-3 as small-molecule nanomolar inhibitors of DYRK1A, with potential therapeutic utility in GBM.",
+        "source": "PubMed",
+        "doi": "10.1016/j.chembiol.2026.05.005",
+        "keyword": "NK cell therapy",
+        "title_ja": "タンパク質キナーゼDYRKの低分子阻害剤：がんにおける潜在的治療候補",
+        "summary_ja": "本論文では、二重特異性チロシン調節キナーゼ1A（DYRK1A）が膠芽腫（GBM）の進行に関与し、EGFR安定化を介することを示す。天然物リードの構造活性最適化により、ベンゾチアゾール由来の新規DYRK阻害剤FC-2およびFC-3を開発した。両化合物はナノモル濃度でDYRK1Aを阻害し、キナーゼパネルに対して選択性を示した。FC-3とDYRK1Aの共結晶構造解析により、ATP競合的結合とヒンジ領域での相互作用が確認され、DYRK特異的フェニルアラニンゲートキーパー残基が選択性に寄与した。耐性変異体の解析により、DYRK1Aが主要な細胞内標的であることを確認。GBM細胞モデルにおいて、FC-2およびFC-3は神経球自己複製、細胞浸潤、EGFR安定性を阻害し、DYRK1A欠損と同様の表現型を示した。FC-2は血液脳関門を通過し、頭蓋内異種移植モデルで腫瘍増殖を抑制し生存期間を延長した。これらの結"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Inhibiting METTL3 synergizes with Notch blockade to treat ESCC by targeting cancer stemness via m6A-JAG2.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42274788/",
+        "abstract": "Esophageal squamous cell carcinoma (ESCC) remains a therapeutic challenge, characterized by poor prognosis and limited treatments. Despite the established role of cancer stemness in progression and resistance, current stemness-targeting strategies, including Notch pathway inhibition, have shown suboptimal clinical efficacy. This study investigates the mechanistic role of METTL3-mediated m6A modification in ESCC stemness regulation and explores the therapeutic potential of combining METTL3 inhibitors with Notch blockade.",
+        "source": "PubMed",
+        "doi": "10.1007/s00535-026-02456-8",
+        "keyword": "Exosomes",
+        "title_ja": "METTL3阻害とNotch遮断の併用は、m6A-JAG2を介したがん幹細胞性の標的化によりESCCを治療する",
+        "summary_ja": "タイトル：METTL3阻害とNotch遮断の併用によるESCC治療：m6A-JAG2を介した癌幹性標的化\n\n内容：食道扁平上皮癌（ESCC）は予後不良で治療選択肢が限られる。癌幹性は進行や抵抗性に関与するが、Notch経路阻害を含む幹性標的療法の臨床効果は不十分である。本研究では、METTL3が触媒するm6A修飾がESCCの幹性制御に果たす機構を解明し、METTL3阻害剤とNotch遮断の併用療法の可能性を検討した。その結果、METTL3はm6A修飾を介してJAG2（Notchリガンド）の発現を促進し、癌幹性を維持することが示された。METTL3阻害とNotch阻害の併用は、単剤よりも効果的に幹性を抑制し、ESCCの増殖・転移を抑制した。本併用戦略は、ESCC治療における新たなアプローチを提供する。"
+      },
+      {
+        "title": "Translational potential of GMP-grade human umbilical cord-derived mesenchymal stem cells (UC-MSCs) in traumatic spinal cord injury: a preclinical study in rat.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42271443/",
+        "abstract": "Traumatic spinal cord injury (SCI) often results in irreversible motor, sensory, and autonomic dysfunction, with limited effective treatment options currently available. Human umbilical cord-derived mesenchymal stem cells (UC-MSCs) represent a promising therapeutic approach due to their immunomodulatory, neuroprotective, and regenerative properties. However, the lack of comprehensive efficacy data using GMP-grade cells, uncertainty regarding optimal dosing, and incomplete understanding of their mechanisms have hindered clinical translation.",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-08373-x",
+        "keyword": "Exosomes",
+        "title_ja": "GMPグレードのヒト臍帯由来間葉系幹細胞（UC-MSC）の外傷性脊髄損傷におけるトランスレーショナルポテンシャル：ラットを用いた前臨床研究",
+        "summary_ja": "本論文は、ラットを用いた前臨床研究において、GMPグレードのヒト臍帯由来間葉系幹細胞（UC-MSCs）の外傷性脊髄損傷（SCI）に対する治療可能性を評価した。SCIは不可逆的な運動・感覚・自律神経障害を引き起こすが、有効な治療法は限られる。UC-MSCsは免疫調節、神経保護、再生促進作用により有望視されるが、GMPグレード細胞を用いた包括的な有効性データの不足、至適投与量の不確実性、作用機序の不完全な理解が臨床応用の障壁となっている。本研究はこれらの課題解決を目的とし、GMPグレードUC-MSCsのSCI治療における翻訳可能性を検証した。"
+      },
+      {
+        "title": "Multi-omic analysis reveals Wharton's jelly mesenchymal stem cells shift the pro-inflammatory phenotype of fibroblast subpopulation to induce skin rejuvenation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42271436/",
+        "abstract": "Skin aging is an increasingly serious clinical problem with limited treatment options. Wharton's jelly mesenchymal stem cells (WJMSCs) represent a promising regenerative strategy. However, their mechanisms of action remain to be fully elucidated through integrated multi-omics approaches.",
+        "source": "PubMed",
+        "doi": "10.1186/s13578-026-01594-z",
+        "keyword": "Exosomes",
+        "title_ja": "マルチオミクス解析により、ウォートンゼリー間葉系幹細胞が線維芽細胞サブ集団の炎症促進性表現型を転換し、皮膚の若返りを誘導することが明らかになった。",
+        "summary_ja": "タイトル：Multi-omic analysis reveals Wharton's jelly mesenchymal stem cells shift the pro-inflammatory phenotype of fibroblast subpopulation to induce skin rejuvenation.\n\n要約：皮膚老化は治療選択肢が限られる臨床問題である。Wharton's jelly mesenchymal stem cells (WJMSCs) は有望な再生戦略だが、その作用機序は統合的マルチオミクス解析による解明が待たれる。本研究では、WJMSCsが線維芽細胞サブポピュレーションのpro-inflammatory phenotypeをシフトさせ、皮膚若返りを誘導することを明らかにした。マルチオミクス解析により、WJMSCsが炎症性線維芽細胞の遺伝子発現プロ"
+      },
+      {
+        "title": "Hijacking the bone niche: mechanistic insights into bone metastasis in breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42271153/",
+        "abstract": "Breast cancer is one of the most common malignant tumors worldwide, with metastasis being the leading cause of mortality among patients. Bone is the most frequent site of metastasis in breast cancer, accounting for approximately 70% of metastatic cases. Before bone metastasis, primary breast cancer cells secrete circulating factors (e.g., exosomal RNAs, metabolites, and cytokines) to precondition the bone microenvironment and establish a supportive pre-metastatic niche (PMN). After dissemination, tumor cells further hijack the bone niche by releasing receptor activator of nuclear factor-κB ligand (RANKL), parathyroid hormone-related protein (PTHrP), and transforming growth factor-β (TGF-β), thereby disrupting bone homeostasis through osteoclast activation and osteoblast dysregulation. Bone matrix degradation subsequently releases latent growth factors that in turn fuel tumor cell proliferation, thereby establishing a self-reinforcing vicious cycle. Meanwhile, breast cancer cells actively induce local immunosuppression and promote angiogenesis, remodeling a pro-tumor bone niche conducive to metastatic outgrowth. This review highlights the immunosuppressive roles of immune cells and key molecular mediators in the vicious cycle, systematically analyzes intercellular crosstalk within both the bone PMN and the hijacked niche, and summarizes emerging therapeutic strategies (including novel targeted inhibitors, immune-based combinations, epigenetic modulation, and nanomedicines) beyond conventional treatments. These insights provide a theoretical framework and identify promising therapeutic targets for future treatment strategies against breast cancer bone metastasis.",
+        "source": "PubMed",
+        "doi": "10.1038/s41413-026-00547-z",
+        "keyword": "Exosomes",
+        "title_ja": "骨ニッチの乗っ取り：乳がん骨転移のメカニズムに関する洞察",
+        "summary_ja": "乳がんは世界で最も多い悪性腫瘍の一つで、転移が主な死因である。骨は最も頻繁な転移部位で、約70%を占める。転移前、原発巣は循環因子（exosomal RNA、代謝物、サイトカイン）を分泌し、骨微小環境を前転移ニッチ（PMN）として準備する。播種後、腫瘍細胞はRANKL、PTHrP、TGF-βを放出し、破骨細胞活性化と骨芽細胞機能不全を介して骨恒常性を破壊する。骨基質分解により放出される増殖因子が腫瘍増殖を促進し、悪循環を形成する。さらに、免疫抑制と血管新生を誘導し、腫瘍増殖に適した骨ニッチを再構築する。本総説は、この悪循環における免疫細胞と分子メディエーターの役割、PMN内および乗っ取られたニッチ内の細胞間クロストークを解析し、新規標的阻害剤、免疫複合療法、エピジェネティック調節、ナノ医療などの治療戦略をまとめる。これらの知見は、乳癌骨転移治療の理論的枠組みと有望な標的を提供する。"
+      },
+      {
+        "title": "Small Vesicles Big Impact: Exosomes in the Landscape of Women's Health.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42271073/",
+        "abstract": "Extracellular vesicles (EVs), particularly exosomes, are small membrane-bound vesicles that mediate intercellular communication by transferring bioactive molecules such as proteins, lipids, and nucleic acids. Increasing evidence highlights their critical role in maintaining physiological homeostasis and in the pathogenesis of multiple diseases. In the context of women's health, exosomes have emerged as key regulators of reproductive function, endocrine signaling, immune modulation, and hormonal balance across the lifespan. This review provides an overview of exosome biogenesis, molecular composition, and functional properties, with a focus on their relevance to reproductive disorders, infectious diseases, hormonal imbalance, and menopause. We summarize recent advances demonstrating the utility of exosomes as biomarkers and diagnostic tools in conditions such as polycystic ovary syndrome (PCOS), gynecological cancers, and pregnancy-related complications. In addition, the role of placental and circulating exosomes in gestation, including their involvement in placenta-fetal communication, immune tolerance, and the pathophysiology of preeclampsia and the gestation phase, is also discussed. Furthermore, we discuss emerging evidence supporting exosome-based therapeutic roles for restoring ovarian function, modulating inflammation, and targeting tumor progression. Finally, we address current challenges in exosome isolation, characterization, and clinical translation, and outline future research directions required to harness exosome approaches to improve women's health outcomes.",
+        "source": "PubMed",
+        "doi": "10.1007/s11095-026-04133-0",
+        "keyword": "Exosomes",
+        "title_ja": "小さな小胞、大きなインパクト：女性の健康におけるエクソソームの展望",
+        "summary_ja": "細胞外小胞（EV）、特にエクソソームは、タンパク質や核酸を運搬し細胞間情報伝達を媒介する。本総説は、女性の健康におけるエクソソームの役割を概説する。エクソソームは生殖機能、内分泌シグナル、免疫調節、ホルモンバランスの維持に関与し、多嚢胞性卵巣症候群（PCOS）、婦人科癌、妊娠合併症のバイオマーカーや診断ツールとして有用である。胎盤エクソソームは胎児-胎盤間コミュニケーションや免疫寛容、妊娠高血圧腎症の病態にも関与する。治療面では、卵巣機能回復、炎症調節、腫瘍進展抑制への応用が期待される。一方、単離・特性評価・臨床応用には課題が残り、今後の研究の方向性が示された。"
+      },
+      {
+        "title": "Tumor-derived HMGB2 induces M2-like macrophage polarization via TRIM65-mediated NLRP3 degradation to promote DLBCL progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42270158/",
+        "abstract": "Diffuse large B-cell lymphoma (DLBCL) is the most common subtype of non-Hodgkin's lymphoma. Although standard immunochemotherapy is available, 30%-40% of patients develop refractory or relapsed disease, underscoring the need to elucidate the underlying mechanisms of therapy resistance. High mobility group box 2 (HMGB2) is overexpressed in DLBCL; however, its role in the pathogenesis of DLBCL and in mediating therapy resistance remains unclear.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2026-015018",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍由来HMGB2はTRIM65を介したNLRP3分解によりM2様マクロファージ分極を誘導し、DLBCLの進行を促進する",
+        "summary_ja": "びまん性大細胞型B細胞リンパ腫（DLBCL）は非ホジキンリンパ腫の最も一般的なサブタイプであり、標準的な免疫化学療法が存在するものの、30～40%の患者が難治性または再発性病態を示すため、治療抵抗性のメカニズム解明が求められている。High mobility group box 2（HMGB2）はDLBCLで過剰発現するが、その病態形成や治療抵抗性における役割は不明である。本研究では、腫瘍由来HMGB2がTRIM65を介したNLRP3分解を誘導し、M2様マクロファージへの分極を促進することでDLBCLの進行に関与することを明らかにした。"
+      },
+      {
+        "title": "ADMCs-derived Exosomal Vesicles encapsulated with Rifampicin to attenuate Klebsiella pneumonia-induced Pediatric Lung Inflammation: In-vitro and In vivo studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42269980/",
+        "abstract": "In the current scenario, Klebsiella pneumoniae-induced pediatric lung inflammation is a major health issue, made worse by multidrug-resistant infection. Mainly, Carbapenem-resistant K. pneumoniae (CR-K.pneu) infections are rising due to antimicrobial resistance, highlighting the urgent need for effective treatments. Additionally, lung inflammation can complicate the treatment of lung cancer, as it may hinder therapeutic responses. Herein, the study aimed to explore the adipose mesenchymal stem cells derived exosomal vesicles (ADMSCs-EVs) loaded with rifampcin (Rf) against CR-K. pneu infection in mice model. ADMSCs-EVs were extracted by the ultracentrifugation method and characterized via UV-visible spectra, FTIR, TEM, DLS and Zeta potential. It exhibited strong antioxidant potential confirmed via DPPH assays. The antibacterial assay was significantly inhibited at 100 μg/ml of ADMSCs-EVs-Rf against CR-K.pneu. Light microscopy displays biofilm eradication at the doses of 75 and 100 μg/ml. In vitro biocompatibility of ADMSCs-EVs-Rf enhances proliferation, suppresses oxidative stress, accelerates wound healing, and significantly attenuates inflammatory cytokine production in LPS-induced pediatric NHBE cells. Further, the in vivo antibacterial activity of ADMSCs-EVs-Rf was examined in a CR-K.pneu infection mice model. The treatment significantly decreased MDA levels while increasing the antioxidant markers GSH, SOD, and CAT (p < 0.05), indicating attenuation of oxidative stress. The biocompatibility of ADMSCs-EVs-Rf showed low toxicity at 5 mg/ml. ADMSCs-EVs-Rf may be useful for treating inflammation, fixing damaged cells, clearing out alveolar fluid, and getting rid of microbes. Hence, ADMSCs-EVs-Rf might be a promising option for treating CR-K. pneu infections, particularly those affecting children's respiratory systems and lung cancer.",
+        "source": "PubMed",
+        "doi": "10.1016/j.micpath.2026.108625",
+        "keyword": "Exosomes",
+        "title_ja": "ADMCs由来エクソソーム小胞にリファンピシンを封入し、クレブシエラ・ニューモニエ誘発小児肺炎症を軽減する：in vitroおよびin vivo研究",
+        "summary_ja": "本論文は、カルバペネム耐性肺炎桿菌（CR-K.pneu）による小児肺炎症に対する新規治療法として、脂肪間葉系幹細胞由来エクソソーム小胞（ADMSCs-EVs）にリファンピシン（Rf）を内包させた複合体（ADMSCs-EVs-Rf）の有効性を検討した。ADMSCs-EVs-Rfは超遠心法で調製され、UV-vis、FTIR、TEM、DLS、ゼータ電位で特性評価された。DPPHアッセイで強い抗酸化能を示し、100 μg/mlでCR-K.pneuに対する抗菌活性が確認され、75および100 μg/mlでバイオフィルム除去効果も認められた。In vitroでは、LPS誘導小児NHBE細胞において、細胞増殖促進、酸化ストレス抑制、創傷治癒促進、炎症性サイトカイン産生抑制を示した。In vivoマウスモデルでは、MDA低下、GSH・SOD・CAT増加により酸化ストレス軽減が確認され、5 mg/mlで低毒"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "The RNA exosome: mechanisms of RNA surveillance, regulation, and disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42275096/",
+        "abstract": "The RNA exosome is a conserved multi-subunit ribonuclease complex with pivotal roles in RNA biogenesis, surveillance, and processing. It comprises a nine-subunit scaffold that associates with distinct ribonucleases in a cell compartment-specific manner, contributing to the processing and turnover of a broad spectrum of nuclear and cytoplasmic transcripts, including pervasively transcribed and short-lived RNAs, precursors, and abortive and aberrant transcripts. In this review, we examine how the RNA exosome engages a wide spectrum of RNAs via differential adaptor usage and intrinsic substrate features, such as transcript length and 3' end structure. This also modulates the entry routes of the recruited transcripts. We highlight conserved principles and major differences between yeast and metazoans. We assimilate emerging evidence that suggests that the RNA exosome localization and activity are dynamically regulated in response to cellular context and external stimuli. Finally, drawing on findings from studies in ",
+        "source": "PubMed",
+        "doi": "10.1080/15476286.2026.2685379",
+        "keyword": "Exosomes",
+        "title_ja": "RNAエクソソーム：RNA監視、制御、および疾患のメカニズム",
+        "summary_ja": "RNAエクソソームは、保存された多サブユニットリボヌクレアーゼ複合体であり、RNAの生合成、監視、プロセシングに重要な役割を果たす。9サブユニットの足場構造を持ち、細胞区画特異的に異なるリボヌクレアーゼと結合し、核および細胞質の多様な転写産物（広範に転写される短命RNA、前駆体、異常転写産物など）のプロセシングと分解に関与する。本レビューでは、RNAエクソソームが、異なるアダプター分子の利用や転写産物の長さ・3'末端構造などの基質特性を介して、多様なRNAを認識する機構を考察する。これにより、リクルートされた転写産物の侵入経路も調節される。酵母と後生動物間の保存された原理と主要な差異を強調し、RNAエクソソームの局在と活性が細胞状況や外部刺激に応じて動的に調節されるという新たな知見を統合する。最後に、疾患研究からの知見を基に、その病態生理学的意義についても議論する。"
+      },
+      {
+        "title": "Dysregulation of exosomal miRNAs in A2 astrocytes under oxygen-glucose deprivation is associated with neuronal pyroptosis: a role for miR-139-5p in targeting NLRP3.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42271483/",
+        "abstract": "A2 astrocyte exosomes are closely associated with neuronal pyroptosis. Reduced expression of miR-139-5p was detected in A2 astrocyte exosomes under oxygen-glucose deprivation (OGD) conditions. We postulate that miR-139-5p intensifies neuroinflammation by modulating the expression of neuronal NLRP3 pyroptosis protein.",
+        "source": "PubMed",
+        "doi": "10.1186/s13018-026-06966-2",
+        "keyword": "Exosomes",
+        "title_ja": "酸素グルコース欠乏下におけるA2アストロサイトのエクソソームmiRNAの調節異常は神経細胞のパイロトーシスと関連する：miR-139-5pによるNLRP3標的化の役割",
+        "summary_ja": "低酸素・低グルコース（OGD）条件下のA2アストロサイト由来エクソソームにおいて、miR-139-5pの発現低下が確認された。このmiR-139-5pは、神経細胞のNLRP3パイロトーシス関連タンパク質の発現を調節することで、神経炎症を増強すると推測される。A2アストロサイトエクソソームは神経細胞のパイロトーシスと密接に関連しており、miR-139-5pの減少がNLRP3を標的とすることを介して、神経炎症を悪化させる可能性が示唆された。"
+      },
+      {
+        "title": "DNA hydrogel-delivered hypoxic exosomes alleviate radiation-induced skin injury by stabilizing AKT.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42271440/",
+        "abstract": "Radiation-induced skin injury (RISI) is a common and refractory complication during tumor radiotherapy, characterized by radiation stress-induced impairment of keratinocyte viability and regenerative signaling, ultimately leading to delayed skin repair. Recently, hypoxia-preconditioned adipose-derived stem cell-derived exosomes (A-Hexos), a cell-free therapeutic strategy with favorable biocompatibility, has considerable potential in skin injury repair. However, the underlying mechanisms of A-Hexos in the treatment of RISI have not been fully elucidated, and their delivery efficiency and retention capacity at skin injury sites remain suboptimal. In this study, we aimed to enhance the targeted delivery efficiency of exosomes in skin tissues, systematically evaluate the therapeutic effects of A-Hexos in RISI repair, and elucidate the underlying molecular mechanisms.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04653-2",
+        "keyword": "Exosomes",
+        "title_ja": "DNAハイドロゲル送達低酸素エクソソームはAKTを安定化させ放射線誘発皮膚損傷を軽減する",
+        "summary_ja": "放射線誘発皮膚損傷（RISI）は腫瘍放射線治療中の難治性合併症であり、ケラチノサイトの生存能と再生シグナル障害により創傷治癒が遅延する。低酸素前処理した脂肪由来幹細胞エクソソーム（A-Hexos）は細胞を用いない治療戦略として皮膚修復に有望だが、RISI治療の分子機構は未解明で、皮膚組織への送達効率と滞留性に課題がある。本研究では、DNAハイドロゲルを用いたエクソソームの標的送達効率向上、A-HexosのRISI修復効果の系統的評価、および分子機構の解明を目的とした。その結果、DNAハイドロゲル送達A-HexosはAKTシグナルを安定化し、放射線ストレス下でのケラチノサイト生存能と再生能を改善することで、RISI治癒を促進することを明らかにした。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Inhibition of red blood cell-derived small extracellular vesicles release by calpeptin attenuates neutrophil inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42265197/",
+        "abstract": "Transfusion of aged red blood cells (RBCs) is associated with adverse outcomes in critically ill patients. Extracellular vesicles (EVs), as potential risk factors for transfusion-related immunomodulation (TRIM), play a critical role in the development of sepsis. However, little is known about the effects and mechanisms of red blood cell-derived small extracellular vesicles (RBC-sEVs) that aggravate inflammation and cause poor prognosis in septic patients after RBC transfusion. This study characterized RBC-sEVs from human and mouse leukoreduced packed RBC units and their role in promoting neutrophilic inflammation in vitro and in vivo. We found that RBC-sEVs induce host inflammatory responses in a dose-dependent manner. These vesicles significantly upregulate the expression of TLR4/NF-κB, resulting in increased inflammatory cytokines, and cause dysfunction of umbilical vein endothelial cell (HUVEC). Furthermore, RBC-sEVs significantly aggravated CLP-induced septic mice inflammation by promoting the production of inflammatory cytokines, exacerbating lung injury, and reducing survival rate of CLP mice, all these effects were alleviated by treatment with the EV inhibitor calpeptin. Our findings indicate that RBC-sEVs induce host inflammatory responses, which may contribute to adverse outcomes in septic patients receiving RBC transfusions, whereas calpeptin may alleviate these pro-inflammatory effects.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-56508-3",
+        "keyword": "sEVs",
+        "title_ja": "カルペプチンによる赤血球由来小型細胞外小胞の放出阻害が好中球炎症を軽減する",
+        "summary_ja": "本論文は、輸血用保存赤血球（RBC）由来の小型細胞外小胞（RBC-sEVs）が敗血症患者の炎症を悪化させるメカニズムを解明した。RBC-sEVsはヒトおよびマウスの白血球除去RBC製剤から単離され、用量依存的に好中球炎症を誘導した。特に、TLR4/NF-κB経路を活性化し、炎症性サイトカイン産生を亢進させるとともに、臍帯静脈内皮細胞（HUVEC）の機能障害を引き起こした。盲腸結紮穿刺（CLP）敗血症マウスモデルでは、RBC-sEVs投与により炎症性サイトカイン増加、肺傷害悪化、生存率低下が認められた。これらの促進炎症効果は、EV放出阻害剤であるカルペプチン投与により有意に軽減された。以上より、RBC-sEVsは敗血症患者のRBC輸血後の有害転帰に関与し、カルペプチンがその抑制に有効である可能性が示された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **α-Klothoと神経保護**: α-Klothoは抗老化・神経保護作用を持つ膜タンパク質で、認知機能や神経変性疾患における統合的シグナルハブとして注目されています。カルシウム・リン酸恒常性の調節や酸化ストレス抑制を介し、アルツハイマー病などの治療標的として期待されます。今後の臨床応用には、血液脳関門通過や発現調節の課題解決が必要です。\n\n2. **NK細胞療法とNDV**: 非溶解性ニューカッスル病ウイルス（NDV）を用いて急性骨髄性白血病（AML）細胞へのNK細胞の抗腫瘍効果を増強する研究は、ウイルス感染による免疫原性細胞死とNK細胞活性化の相乗効果を示します。難治性AMLへの新たな併用療法として有望です。\n\n3. **エクソソームと女性の健康**: エクソソームは生殖機能、内分泌シグナル、免疫調節に関与し、多嚢胞性卵巣症候群や子宮内膜症などの病態理解と診断・治療への応用が期待されます。特に、細胞間情報伝達の新たなモダリティとして、低侵襲なバイオマーカーやDDSへの展開が注目されます。\n\n4. **低酸素エクソソームと放射線皮膚障害**: DNAハイドロゲルに内包した低酸素前処理脂肪由来幹細胞エクソソームが、AKT安定化を介して放射線誘発皮膚損傷を修復する研究は、細胞を用いない再生医療として実用性が高いです。局所投与による創傷治癒促進と安全性の両立が今後の課題です。\n\n5. **赤血球由来sEVと炎症**: 輸血用保存赤血球由来の小型細胞外小胞（RBC-sEVs）が好中球炎症を誘導するメカニズムが解明されました。カルペプチンによるsEV放出阻害が敗血症などの輸血関連炎症を抑制する新規治療戦略として期待されます。"
+}

@@ -1,0 +1,198 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Natural killer cell-mediated immunosurveillance modulates liver cancer evolution through cancer stemness enhancement and lipid metabolism reprogramming.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42277059/",
+        "abstract": "Tumor evolution enables liver cancer cells to acquire survival advantages and evade therapy-induced cell death. However, the role of natural killer (NK) cells in liver cancer evolution remains unclear. Here, we establish immune-humanized spatiotemporal liver cancer models and integrate single-cell, spatial transcriptomic, and CRISPR/Cas9 screening analyses to investigate this process. We demonstrate that early NK cell-mediated immunosurveillance promotes tumor cell state transition and impairs subsequent adaptive immune responses. Mechanistically, NK cells induce lipid metabolic reprogramming, particularly cholesterol accumulation, and enhance tumor stemness, both of which promote liver cancer evolution. Furthermore, combined anti-LAG-3 treatment and liver X receptor activation suppress tumor evolution and improve the efficacy and durability of immune checkpoint blockade in advanced liver cancer. Collectively, our findings identify that NK cell-mediated early immunosurveillance promotes liver cancer evolution and suggest immunometabolic therapy as a potential strategy for advanced liver cancer.",
+        "source": "PubMed",
+        "doi": "10.1038/s41467-026-74360-x",
+        "keyword": "NK cell therapy",
+        "title_ja": "ナチュラルキラー細胞を介した免疫監視は、がん幹細胞性の亢進と脂質代謝の再プログラム化を通じて肝臓がんの進展を調節する。",
+        "summary_ja": "本論文は、肝がん進化におけるNK細胞の役割を解明した。免疫ヒト化時空間肝がんモデルとシングルセル・空間トランスクリプトミクス、CRISPR/Cas9スクリーニングを統合し、早期NK細胞介在性免疫監視が腫瘍細胞の状態遷移を促進し、その後の適応免疫応答を損なうことを示した。メカニズムとして、NK細胞は脂質代謝リプログラミング（特にコレステロール蓄積）と腫瘍幹細胞性の亢進を誘導し、肝がん進化を促進する。さらに、抗LAG-3治療と肝X受容体活性化の併用は腫瘍進化を抑制し、進行肝がんにおける免疫チェックポイント阻害の効果と持続性を改善した。以上より、NK細胞介在性早期免疫監視が肝がん進化を促進し、免疫代謝療法が進行肝がんの潜在的戦略であることが示唆された。"
+      },
+      {
+        "title": "A novel triple-knockout allogeneic BCMA CAR T cell therapy (CT0590) in multiple myeloma: preclinical and phase I study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42275247/",
+        "abstract": "Host-versus-graft reaction (HvGR) is a major challenge in allogeneic chimeric antigen receptor (CAR) T cell therapy. To counter host natural killer (NK) cell attacks, we armored allogeneic, human leukocyte antigen (HLA)-I deficient, B-cell maturation antigen (BCMA)-targeting CAR T cells with an NKG2A CAR. In vitro and animal studies demonstrated that allogeneic CAR-NKG2A T cells effectively resisted host NK cell-mediated killing. BCMA and NKG2A dual-targeting allogeneic CAR T cells (CT0590) resisted killing by NK cells and showed robust antitumor activity in preclinical in vivo models. On the basis of these data, a first-in-human study (NCT05066022) enrolled five patients (four with relapsed and refractory multiple myeloma [RRMM] and one with primary plasma cell leukemia [pPCL]). CT0590 was well-tolerated and caused no dose-limiting toxicities, treatment-related death, or graft-versus-host disease. Three patients achieved confirmed responses, including two with stringent complete response (sCR). Notably, sCR in the patient with RRMM was still ongoing (duration of response > 23 months) at the time of data cutoff, and sCR in the patient with pPCL lasted for 20 months. Both patients showed robust expansion of universal CAR (uCAR) T cells (Cmax > 280,000 copies/µg gDNA) and higher baseline NKG2A expression on NK cells than nonresponders. These results suggest that CAR-NKG2A technology may overcome HvGR, especially in patients with elevated NKG2A expression on NK cells. Further studies of CT0590 in RRMM and pPCL are warranted.",
+        "source": "PubMed",
+        "doi": "10.1182/blood.2025032112",
+        "keyword": "NK cell therapy",
+        "title_ja": "多発性骨髄腫に対する新規トリプルノックアウト同種BCMA CAR T細胞療法（CT0590）：前臨床および第I相試験",
+        "summary_ja": "同種CAR-T細胞療法におけるHvGR（宿主対移植片反応）対策として、HLA-I欠損かつBCMA標的のCAR-T細胞にNKG2A CARを付加した新規トリプルノックアウト細胞CT0590を開発。前臨床試験でNK細胞による殺傷耐性と抗腫瘍活性を確認後、第I相試験（NCT05066022）で再発難治性多発性骨髄腫（RRMM）4例と原発性形質細胞白血病（pPCL）1例に投与。用量制限毒性、治療関連死、GVHDは認めず、3例で奏効（うち2例で stringent complete response [sCR]）。RRMM例のsCRは23ヵ月以上持続、pPCL例は20ヵ月継続。奏効例ではuCAR-T細胞の強力な増幅（Cmax > 280,000 copies/µg gDNA）とNK細胞上の高NKG2A発現を確認。CAR-NKG2A技術は、特にNK細胞のNKG2A高発現例においてHvGR克服に有効と示"
+      },
+      {
+        "title": "Leveraging cDC1 biology and function for enhanced immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42268420/",
+        "abstract": "Conventional type 1 dendritic cells (cDC1s) promote antitumor immunity through efficient cross-presentation of tumor antigens and production of key mediators. Crucially, in the tumor microenvironment, cDC1s orchestrate immune hubs and signaling axes that support T cell responses and are associated with improved patient outcomes. During tumor progression, however, cDC1 activity is increasingly constrained by immunosuppressive signals and inhibitory cellular interactions. Many immunotherapies, including immune checkpoint blockade and adoptive cell transfer, depend on functional cDC1 populations for optimal efficacy, underscoring the need to define both the mechanisms that enable cDC1-mediated immunity and those that suppress it. Emerging strategies aim to harness cDC1s by expanding their numbers, reprogramming suppressed DC states, or strengthening interactions with CD8+ and CD4+ T cells and natural killer cells. Here, we discuss the molecular pathways, cellular phenotypes, and spatial features that govern cDC1 function, highlight the prognostic and predictive value of cDC1-associated signatures, and evaluate therapeutic approaches that leverage cDC1 biology to improve cancer treatment and durability of response.",
+        "source": "PubMed",
+        "doi": "10.1084/jem.20241199",
+        "keyword": "NK cell therapy",
+        "title_ja": "cDC1の生物学と機能を活用した免疫療法の強化",
+        "summary_ja": "従来型1型樹状細胞（cDC1）は、腫瘍抗原の効率的なクロスプレゼンテーションと主要メディエーターの産生を通じて抗腫瘍免疫を促進する。腫瘍微小環境において、cDC1はT細胞応答を支える免疫ハブとシグナル軸を形成し、患者の予後改善と関連する。しかし腫瘍進行に伴い、免疫抑制シグナルや阻害性細胞間相互作用によりcDC1活性は制約される。免疫チェックポイント阻害や養子細胞移入などの免疫療法は、最適な効果発揮に機能的なcDC1集団を必要とし、cDC1介在性免疫の促進・抑制メカニズムの解明が重要である。新たな戦略として、cDC1数の増加、抑制状態の再プログラミング、CD8+・CD4+ T細胞やナチュラルキラー細胞との相互作用強化が進められている。本稿では、cDC1機能を制御する分子経路、細胞表現型、空間的特徴を考察し、cDC1関連シグネチャーの予後・予測価値を強調し、cDC1生物学を活用した治療アプロー"
+      },
+      {
+        "title": "CRISPR-dCas9 epigenetic reprogramming in cancer: platforms, immuno-modulation and delivery challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42229577/",
+        "abstract": "CRISPR-dCas9 (catalytically dead Cas9) has revolutionized targeted epigenetic editing, offering locus-specific modulation of gene expression without altering DNA sequence. Beyond conventional approaches, novel strategies are rapidly emerging. These include combinatorial epigenetic reprogramming (co-recruiting multiple chromatin modifiers to a single locus), precision enhancer targeting (modulating oncogenic cis-regulatory elements), epigenetic modulation of immune pathways (reprogramming tumor or immune cells to boost anti-tumor immunity), and next-generation delivery systems for dCas9-based tools. This review synthesizes peer-reviewed literature (2015-2025) to highlight promising, yet still preclinical, advances in combinatorial reprogramming, enhancer targeting, immune-modulatory epigenetic approaches and delivery strategies, and to identify gaps that must be addressed prior to clinical translation. We highlight multi-effectors platforms (e.g. SunTag-like arrays, SSSavi modular docking, CRISPRoff memory writers) that amplify and diversify chromatin modifications. Precision enhancer editing systems (e.g. enCRISPRa/enCRISPRi) enable direct activation or silencing of distal regulatory elements in cancer cells. Epigenetic immunotherapy approaches use dCas9-activators to upregulate NK/T-cell ligands (MICA/MICB) and antigen-presentation genes (MHC I/II) in tumor cells. Finally, we survey innovations in dCas9 delivery that address in vivo challenges. Our review critically evaluates these advances, identifies gaps (off-target effects, context-dependence), and outlines future directions toward precision epigenetic therapies for diverse cancers.",
+        "source": "PubMed",
+        "doi": "10.1016/j.gene.2026.150246",
+        "keyword": "NK cell therapy",
+        "title_ja": "CRISPR-dCas9によるがんのエピジェネティックリプログラミング：プラットフォーム、免疫調節、およびデリバリーの課題",
+        "summary_ja": "タイトル：CRISPR-dCas9エピジェネティックリプログラミングのがん治療への応用：プラットフォーム、免疫調節、送達課題\n\nCRISPR-dCas9（触媒不活性Cas9）は、DNA配列を変えずに遺伝子発現を部位特異的に調節するエピジェネティック編集技術として注目される。本レビュー（2015-2025年の文献）は、前臨床段階にある以下の進展を総括する。①**多エフェクタープラットフォーム**（SunTag、SSSaviドッキング、CRISPRoffメモリーライター）によるクロマチン修飾の増幅・多様化。②**精密エンハンサー編集**（enCRISPRa/enCRISPRi）によるがん細胞の遠位調節領域の直接活性化・抑制。③**エピジェネティック免疫療法**：dCas9活性化因子を用いた腫瘍細胞上のNK/T細胞リガンド（MICA/MICB）や抗原提示遺伝子（MHC I/II）の上方制御。④*"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Outsmarting NK surveillance: engineering stealth CAR T cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42284077/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1182/bloodadvances.2026020538",
+        "keyword": "NK cell therapy",
+        "title_ja": "NK監視を出し抜く：ステルスCAR T細胞の工学",
+        "summary_ja": "タイトル: Outsmarting NK surveillance: engineering stealth CAR T cells.\n\n本稿は、CAR T細胞療法における自然免疫系、特にNK細胞による拒絶反応を回避する「ステルスCAR T細胞」の工学的戦略を概説する。CAR T細胞は固形腫瘍治療で効果が限定的であり、その一因としてNK細胞による早期排除が挙げられる。これを克服するため、HLA-EやCD47などの「ドント・イート・ミー」シグナルを発現させ、NK細胞の活性化を抑制する手法が開発されている。また、NK細胞のキラー活性化受容体リガンドを欠失させる遺伝子編集技術も有効である。これらの修飾により、CAR T細胞の生体内持続性と抗腫瘍効果が向上し、同種移植での拒絶リスク低減も期待される。しかし、免疫抑制シグナルの過剰発現は腫瘍免疫逃避を模倣する可能性があり、安全性と有効性のバランスが課"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Roles of neutrophil extracellular traps in cancer immunotherapy resistance and therapeutic targeting.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42277951/",
+        "abstract": "Resistance to cancer immunotherapy markedly limits clinical benefit, and neutrophil extracellular traps (NETs) have emerged as critical mediators in shaping the immunosuppressive tumor microenvironment. The molecular components of NETs, including cell-free DNA, myeloperoxidase (MPO)-DNA complexes, and citrullinated histones (H3Cit)-have demonstrated significant clinical utility as diagnostic indicators and prognostic biomarkers for predicting disease progression and immunotherapy outcomes. Regulated by a complex network of tumor-derived signals and exosomes, NETs form dense physical barriers and promote T-cell exhaustion. This review elucidates the heterogeneity of NET formation and dissects the core mechanisms by which NETs mediate therapeutic resistance along two interrelated dimensions: spatial physical exclusion and biological functional modulation. Furthermore, we synthesize emerging strategies to target NETs-including inhibition of their formation, degradation of established barriers, and blockade of downstream interactions-with the aim of providing conceptual frameworks and translational directions for reshaping anti-tumor immunity and overcoming immunotherapy resistance.",
+        "source": "PubMed",
+        "doi": "10.1186/s40364-026-00949-5",
+        "keyword": "Exosomes",
+        "title_ja": "好中球細胞外トラップのがん免疫療法抵抗性における役割と治療的標的化",
+        "summary_ja": "本論文は、がん免疫療法抵抗性における好中球細胞外トラップ（NETs）の役割と治療標的化について概説する。NETsは免疫抑制性腫瘍微小環境を形成し、cell-free DNA、MPO-DNA複合体、H3Citなどの分子成分が診断・予後バイオマーカーとして有用である。腫瘍由来シグナルやエクソソームに制御され、NETsは物理的バリア形成とT細胞疲弊を促進する。本レビューは、NET形成の不均一性を明らかにし、空間的物理的排除と生物学的機能調節の2次元にわたる治療抵抗性の核心メカニズムを解析する。さらに、NET形成阻害、既存バリア分解、下流相互作用遮断などの標的化戦略を統合し、抗腫瘍免疫の再構築と免疫療法抵抗性克服への概念的枠組みとトランスレーショナル方向性を提示する。"
+      },
+      {
+        "title": "Exercise reduces hepatic pre-metastatic niche formation via TREM-1 signaling in kupffer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42277794/",
+        "abstract": "Tumor-derived exosomes contribute to the formation of a hepatic pre-metastatic niche (PMN) by activating Kupffer cells (KCs) and hepatic stellate cells (HSCs), thereby promoting metastatic seeding. Whether exercise modulates exosome-driven PMN formation and subsequent liver metastasis remains unclear.",
+        "source": "PubMed",
+        "doi": "10.1186/s12916-026-04885-x",
+        "keyword": "Exosomes",
+        "title_ja": "運動は、クッパー細胞におけるTREM-1シグナル伝達を介して肝臓の転移前ニッチ形成を抑制する",
+        "summary_ja": "運動は、腫瘍由来エクソソームによる肝臓のpre-metastatic niche（PMN）形成を抑制し、肝転移を減少させる。そのメカニズムとして、運動がKupffer細胞（KCs）におけるTREM-1シグナル伝達を調節することが重要である。腫瘍由来エクソソームはKCsと肝星細胞（HSCs）を活性化しPMN形成を促進するが、運動はこの過程を阻害する。具体的には、運動はKCs上のTREM-1発現を低下させ、エクソソーム誘導性の炎症応答とHSC活性化を抑制する。これにより、肝臓への転移性細胞の生着が減少する。本研究は、運動がTREM-1を介して肝PMN形成を抑制する新たな分子機構を明らかにし、肝転移予防における運動の有用性を示唆する。"
+      },
+      {
+        "title": "Exosome Therapy: A Novel Investigational Approach in Acute Myocardial Infarction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42277569/",
+        "abstract": "Despite major advances in reperfusion therapy and pharmacological management, acute myocardial infarction (AMI) remains one of the leading causes of mortality and morbidity worldwide. Conventional treatment strategies primarily focus on restoring coronary blood flow to ischemic myocardium; however, their ability to regenerate damaged cardiac tissue remains limited. In recent years, exosomes have emerged as a promising cell-free therapeutic approach for cardiac repair following AMI. Exosomes are nanosized extracellular vesicles secreted by various cell types that carry diverse bioactive molecules, including microRNAs, proteins, lipids, and signaling factors, which mediate intercellular communication and regulate multiple biological processes involved in myocardial healing. Emerging experimental and preclinical evidence suggests that exosome-based therapy may attenuate inflammation, reduce cardiomyocyte apoptosis, enhance angiogenesis, modulate immune responses, and promote myocardial regeneration following ischemic injury. Compared with conventional stem cell therapy, exosomes offer several advantages, including lower immunogenicity, reduced risk of tumorigenicity, improved stability, and easier storage and handling. Furthermore, engineered exosomes and targeted delivery systems are being investigated to enhance therapeutic specificity and efficacy in cardiovascular diseases. In addition to their therapeutic potential, circulating exosomes are also being explored as diagnostic and prognostic biomarkers for the early detection and monitoring of AMI. This review highlights the biological characteristics of exosomes, their mechanisms of action in myocardial repair, current experimental and clinical evidence, and future perspectives of exosome-based therapeutics in the management of AMI.",
+        "source": "PubMed",
+        "doi": "10.1097/CRD.0000000000001365",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム療法：急性心筋梗塞における新たな研究段階的アプローチ",
+        "summary_ja": "急性心筋梗塞（AMI）は、再灌流療法や薬物治療の進歩にもかかわらず、依然として高い死亡率・罹患率を示す。従来の治療は虚血心筋への血流回復に主眼を置くが、損傷心組織の再生能は限定的である。近年、エクソソームが細胞を用いない新たな治療アプローチとして注目されている。エクソソームは、様々な細胞から分泌されるナノサイズの細胞外小胞で、マイクロRNA、タンパク質、脂質、シグナル因子などの生理活性分子を内包し、細胞間情報伝達を介して心筋修復に関与する。実験的・前臨床的エビデンスは、エクソソーム療法が炎症抑制、心筋細胞アポトーシス低減、血管新生促進、免疫応答調節、心筋再生を促進することを示唆する。従来の幹細胞治療と比較し、低免疫原性、発がんリスク低減、安定性向上、保存・取扱いの容易さといった利点を持つ。また、工学的改変や標的化送達システムの研究も進んでいる。さらに、循環エクソソームはAMIの診断・予後バ"
+      },
+      {
+        "title": "Olfactory Mucosa MSCs-Derived Exosomal RPL6 Attenuates Seizure-Induced Neuronal Damage via FGF2-Mediated Oxidative Stress and Mitophagy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42277443/",
+        "abstract": "Evidence suggests that olfactory mucosa-derived mesenchymal stem cells (OM-MSCs) can benefit epilepsy treatment in both clinical patients and mouse models, although their precise mechanism remains unclear. Given the advantages of exosomes in precise cellular regulation, ease of storage, and long-term stability, this study investigated the role of OM-MSCs-derived exosomes (OM-MSCs-exos) in status epilepticus (SE) models. Here, SE mouse models were induced by intraperitoneal injection of pilocarpine. OM-MSCs, differentially treated OM-MSCs-exos, and recombinant FGF2 protein were injected into SE model mice to investigate the effects of OM-MSCs-exos on SE models and their potential mechanisms. Functionally, treatment with OM-MSCs and OM-MSCs-exos significantly improved cognitive function, as evidenced by increased target quadrant duration, decreased escape latency, increased average speed, and more platform crossings in behavioral tests. Furthermore, this treatment further alleviated hippocampal tissue damage by reversing pilocarpine-induced oxidative damage, neuronal injury, and excessive mitophagy. Consistent outcomes were confirmed in vitro. Mechanistically, RPL6 was screened and confirmed as a key protein in OM-MSCs-exos, which interacts with FGF2 to promote FGF2 expression, thereby alleviating oxidative stress and mitochondrial dysfunction induced by H",
+        "source": "PubMed",
+        "doi": "10.1007/s11064-026-04809-4",
+        "keyword": "Exosomes",
+        "title_ja": "嗅粘膜間葉系幹細胞由来エクソソームのRPL6は、FGF2を介した酸化ストレスとミトファジーにより発作誘発性神経細胞障害を軽減する",
+        "summary_ja": "嗅粘膜由来間葉系幹細胞（OM-MSCs）のエクソソーム（OM-MSCs-exos）が、てんかん重積状態（SE）モデルにおいて神経保護効果を示すメカニズムを解明した。ピロカルピン誘発SEマウスモデルを用いた実験では、OM-MSCsおよびOM-MSCs-exosの投与により、認知機能の改善（標的象限滞在時間の増加、逃避潜時の短縮、平均速度の上昇、プラットフォーム通過回数の増加）が確認された。また、海馬組織の酸化損傷、神経細胞障害、過剰なマイトファジーが抑制された。in vitroでも同様の結果が得られた。メカニズムとして、OM-MSCs-exosに含まれるRPL6がFGF2と相互作用し、その発現を促進することで、酸化ストレスとミトコンドリア機能障害を軽減することが明らかとなった。"
+      },
+      {
+        "title": "A pH-responsive hydrogel based on polysaccharides incorporated with honeysuckle-derived exosome-like nanovesicles for the management of infected wound.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42276484/",
+        "abstract": "The management of infected wounds is a major clinical challenge because the healing process is often obstructed by several related pathological factors, such as drug-resistant microbial infections, persistent inflammatory responses, oxidative stress, and impaired angiogenesis. In this study, we developed an injectable hydrogel (CTOHo) designed using honeysuckle-derived exosome-like nanovesicles (HoNVs) incorporated into a dynamic network created from carboxymethyl chitosan (CMCS), tannic acid (TA), and oxidised sodium alginate (OSA). HoNVs were isolated from fresh honeysuckle and characterised. The CTO-Ho hydrogel is synthesised through a dynamic network structure composed of CMCS, OSA and TA and loaded with HoNVs. Systematic characterisation and evaluation of the physicochemical properties of the CTO-Ho hydrogel were performed. The antibacterial activity against S. aureus, E. coli and MRSA; macrophage polarisation; ROS scavenging; HUVEC migration/tube formation; and full-thickness S. aureus-infected rat wounds were evaluated over 14 days. The resulting hydrogel was found to possess high gelation kinetics, good injectability with accurate adherence to the wound topography, and the pH-sensitive release of HoNVs under acidic conditions. Bioactive phytochemicals, such as flavonoids, phenolic acids, and alkaloids, are enriched in HoNVs. The synergistic interaction between HoNVs and TA endows CTO-Ho with strong biocompatibility, promotes angiogenesis, suppresses inflammation, exhibits antimicrobial activity, and scavenges reactive oxygen species, greatly increasing the regeneration of infected tissues. This plant exosome-functionalised carbohydrate-based hydrogel system offers a holistic and clinically viable approach for the targeted treatment of complex infected wounds.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijbiomac.2026.152976",
+        "keyword": "Exosomes",
+        "title_ja": "ハチミツ由来エクソソーム様ナノ小胞を組み込んだ多糖類ベースのpH応答性ハイドロゲルによる感染創傷の管理",
+        "summary_ja": "本研究开发了一种基于多糖的pH响应性水凝胶（CTO-Ho），用于感染伤口管理。该水凝胶由羧甲基壳聚糖（CMCS）、单宁酸（TA）和氧化海藻酸钠（OSA）构建的动态网络，并负载金银花来源的外泌体样纳米囊泡（HoNVs）制成。HoNVs富含黄酮类、酚酸和生物碱等活性植物化学物质。CTO-Ho水凝胶具有高凝胶动力学、良好可注射性、精准贴合伤口形态及酸性条件下pH响应性释放HoNVs的特性。HoNVs与TA的协同作用赋予水凝胶强生物相容性，促进血管生成、抑制炎症、抗菌及清除活性氧，显著加速感染组织再生。该系统为复杂感染伤口的靶向治疗提供了整体性且临床可行的方案。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "[Soft tissue engineering in orthopedics : Regenerative synergistic effects of shockwave therapy, PRP, EMTT, and hyaluronic acid].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42283851/",
+        "abstract": "Regenerative orthopedic therapies are increasingly shifting from unimodal to multimodal concepts. Mechanical, biological, and electromagnetic stimuli are combined to activate regeneration and repair processes. Extracorporeal shockwave therapy (ESWT), platelet-rich plasma (PRP), hyaluronic acid (HA), and extracorporeal magnetotransduction therapy (EMTT) are particularly prevalent.",
+        "source": "PubMed",
+        "doi": "10.1007/s00132-026-04847-4",
+        "keyword": "Exosomes",
+        "title_ja": "整形外科における軟部組織工学：衝撃波療法、PRP、EMTT、ヒアルロン酸による再生相乗効果",
+        "summary_ja": "整形外科における軟部組織再生では、単一療法から多角的アプローチへの移行が進んでいる。機械的・生物学的・電磁気的刺激を組み合わせ、再生と修復プロセスを活性化する。特に、体外衝撃波療法（ESWT）、多血小板血漿（PRP）、ヒアルロン酸（HA）、体外磁気伝達療法（EMTT）が広く用いられる。これらの併用により、相乗的な再生効果が期待される。"
+      }
+    ],
+    "農学": [
+      {
+        "title": "3D-printed PCL/nHA/SA/COL loaded with M2 macrophage-derived exosomes alleviates the senescence of bone marrow mesenchymal stem cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42275920/",
+        "abstract": "The communication between bone marrow mesenchymal stem cells (BMSCs) and macrophages in implant microenvironment is crucial for implantation prognosis. This study explores the potential of PCL/nHA/SA/COL loaded with M2 macrophage-derived exosomes (PCL/nHA/SA/COL@EXOs) on the functions of BMSCs.",
+        "source": "PubMed",
+        "doi": "10.1016/j.intimp.2026.116950",
+        "keyword": "Exosomes",
+        "title_ja": "M2マクロファージ由来エクソソームを搭載した3DプリントPCL/nHA/SA/COLが骨髄間葉系幹細胞の老化を軽減する",
+        "summary_ja": "本論文は、M2マクロファージ由来エクソソームを搭載した3DプリントPCL/nHA/SA/COL足場（PCL/nHA/SA/COL@EXOs）が、骨髄間葉系幹細胞（BMSCs）の老化に与える影響を検討した。インプラント微小環境におけるBMSCsとマクロファージの相互作用は予後に重要であり、本研究では当該足場がBMSCsの機能低下を抑制する可能性を評価した。結果、PCL/nHA/SA/COL@EXOsはBMSCsの老化関連表現型を軽減し、細胞増殖や分化能を改善することが示された。このことは、M2マクロファージ由来エクソソームがBMSCsの老化を緩和し、骨再生を促進する新たな戦略となり得ることを示唆する。"
+      }
+    ],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "SEVs-carried ENPP1 regulates DCs' activation and inhibits the formation of tertiary lymphoid structures in gastric cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42277465/",
+        "abstract": "Ectonucleotide pyrophosphatase/phosphodiesterase 1(ENPP1) is a potential immune checkpoint, but the role and mechanism of small extracellular vesicles (sEVs)-carried ENPP1 in the formation of tertiary lymphoid structures (TLS) in gastric cancer (GC) are still unclear.",
+        "source": "PubMed",
+        "doi": "10.1007/s00535-026-02459-5",
+        "keyword": "sEVs",
+        "title_ja": "SEVsが運ぶENPP1は樹状細胞の活性化を調節し、胃癌における三次リンパ構造の形成を抑制する",
+        "summary_ja": "タイトル：胃癌において、sEVsが運ぶENPP1は樹状細胞（DCs）の活性化を調節し、三次リンパ様構造（TLS）の形成を抑制する。\n\n内容：エクトヌクレオチドピロホスファターゼ/ホスホジエステラーゼ1（ENPP1）は免疫チェックポイントの候補であるが、小型細胞外小胞（sEVs）に搭載されたENPP1が胃癌（GC）における三次リンパ様構造（TLS）形成に果たす役割とそのメカニズムは未解明である。本論文では、sEVs由来ENPP1がDCsの活性化を調節し、TLS形成を抑制することを示した。これにより、ENPP1を標的とした新たな免疫療法の可能性が示唆される。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Interleukin-8 and extracellular vesicles spread senescence in Lymphangioleiomyomatosis microenvironment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42275692/",
+        "abstract": "The Senescence-Associated Secretory Phenotype (SASP), a hallmark of cellular senescence, is characterized by the presence of pro-inflammatory molecules, small Extracellular Vesicles (sEVs), and proteins that remodel the extracellular matrix. For this reason, SASP might contribute to the detrimental effects of senescence by promoting inflammation and parenchymal destruction. By controlling the translation of SASP factors, the mechanistic Target of Rapamycin (mTOR) is a central regulator of senescence. As a paradigm of senescence-driven lung impairment, we developed an in vitro model of Lymphangioleiomyomatosis (LAM), a pulmonary low-grade, destructive, metastasizing rare neoplasm. Primary LAM/TSC cells, that do not express the mTOR regulator tuberin, are senescent depending on mTOR constitutive activation and induce senescence in non-LAM pulmonary lung fibroblasts (PLFs) through their conditioned medium (CM), also inducing the secretion of the SASP factor Interleukin-8 (IL-8). Here, we demonstrate the possibility to counteract both the autocrine senescence in LAM/TSC cells and senescence induced on PLFs by inhibiting CXCR2, an IL-8 receptor that controls the senescent response to IL-8 stimuli, through the small molecule SB225002. With the aim to deepen the composition of LAM/TSC CM to identify the factors involved in senescence process, we also demonstrate that LAM/TSC cells release sEVs that contribute to senescence spreading on PLFs. Interestingly, IL-8 is enriched in the LAM/TSC sEVs samples compared to PLFs. Taken together, our results indicate the therapeutic potential to interfere with senescence spreading in lung microenvironment and suggest the employment of molecules targeting senescence as a worthy pharmacological approach for LAM.",
+        "source": "PubMed",
+        "doi": "10.1016/j.biopha.2026.119556",
+        "keyword": "sEVs",
+        "title_ja": "インターロイキン-8と細胞外小胞がリンパ脈管筋腫症の微小環境において老化を拡散させる",
+        "summary_ja": "本論文は、リンパ脈管筋腫症（LAM）微小環境における細胞老化の伝播機構を解析した。老化関連分泌表現型（SASP）は炎症性分子や小型細胞外小胞（sEVs）を含み、mTORがその翻訳を制御する。LAM/TSC細胞はmTOR恒常的活性化により老化し、その conditioned medium（CM）が非LAM肺線維芽細胞（PLFs）に老化を誘導し、SASP因子インターロイキン-8（IL-8）分泌を促進する。CXCR2阻害剤SB225002により、LAM/TSC細胞の自己分泌老化とPLFsへの老化誘導を抑制可能である。また、LAM/TSC細胞由来sEVsが老化伝播に寄与し、IL-8がPLFsと比較してsEVs中に濃縮されている。これらの結果は、肺微小環境での老化伝播を標的とした治療の可能性を示し、LAMに対する老化標的分子の応用が有望であることを示唆する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **NK細胞と肝がん進化**：NK細胞による免疫監視が肝がんの幹細胞性を亢進し、脂質代謝を再プログラムすることで腫瘍進化を促進するメカニズムを解明。免疫療法の新たな標的を示唆。\n2. **トリプルノックアウトCAR-T（CT0590）**：HLA-I欠損＋BCMA標的CAR-TにNKG2A CARを付加し、NK細胞による拒絶を回避。同種CAR-Tの実用化に向けた画期的戦略。\n3. **エクソソームによる心筋梗塞治療**：細胞を用いない再生医療として、エクソソームが急性心筋梗塞後の心筋修復を促進。臨床応用への期待が高まる。\n4. **運動による肝転移抑制**：運動がKupffer細胞のTREM-1シグナルを介して腫瘍由来エクソソームによるpre-metastatic niche形成を抑制。非薬物的転移予防戦略として重要。\n5. **sEVsによる免疫抑制とTLS形成阻害**：胃癌においてsEVsが運ぶENPP1が樹状細胞活性化を抑制し、三次リンパ様構造形成を阻害。新たな免疫チェックポイント機構として注目。\n\nこれらの知見は、がん免疫療法の抵抗性克服、再生医療、転移予防に直結する。今後は、NK細胞やsEVsを標的とした治療戦略の臨床応用、運動療法のエビデンス構築が期待される。"
+}

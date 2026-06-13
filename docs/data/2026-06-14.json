@@ -1,0 +1,134 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Whey Protein Supplementation Positively Modulates Lung Function and Pulmonary and Systemic Immune Response in Older Adults: A Randomized Controlled Clinical Trial.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41609728/",
+        "abstract": "Aging is associated with reduced protein intake, increasing the risk of infections by damping the pulmonary and systemic immune response. Although whey protein supplementation improves systemic immune response, its effects on the pulmonary immune response are unknown.",
+        "source": "PubMed",
+        "doi": "10.1080/27697061.2026.2615981",
+        "keyword": "Klotho",
+        "title_ja": "高齢者におけるホエイプロテイン補給が肺機能および肺・全身免疫応答に及ぼす肯定的な影響：ランダム化比較試験",
+        "summary_ja": "タイトル：高齢者におけるホエイプロテイン補給が肺機能および肺・全身免疫応答に及ぼす正の調整効果：ランダム化比較試験\n\n内容：加齢に伴うタンパク質摂取量の減少は、肺および全身の免疫応答を低下させ、感染リスクを高める。ホエイプロテイン補給は全身免疫応答を改善するが、肺免疫応答への影響は不明であった。本ランダム化比較試験では、高齢者を対象にホエイプロテイン補給の効果を検証。その結果、補給群では肺機能の向上、ならびに肺および全身の免疫応答の正の調整が認められた。これにより、ホエイプロテインが高齢者の呼吸器感染予防に寄与する可能性が示唆された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Mesenchymal Stem Cells Therapy for Intrauterine Adhesions and Endometriosis: Potential, Mechanisms, and Future Directions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42287087/",
+        "abstract": "Intrauterine adhesions (IUA) and endometriosis are debilitating gynecological disorders that impair endometrial function and fertility. IUA, typically caused by iatrogenic trauma to the basal endometrium, leads to fibrosis and infertility, whereas endometriosis, characterized by ectopic endometrial growth, induces chronic inflammation, pain, and subfertility. Current treatments, such as surgical adhesiolysis for IUA and hormonal suppression for endometriosis, frequently fail to address underlying pathological mechanisms, including aberrant fibrosis, inflammatory cascades, and impaired tissue regeneration. Recently, mesenchymal stem cells (MSCs) have emerged as a promising therapeutic approach. Their therapeutic benefits are mediated primarily through paracrine actions, which modulate immune responses, promote tissue repair, and attenuate inflammation and fibrosis. Recent studies have further highlighted the potential of MSC-derived exosomes (MSC-Exos) as a cell-free alternative. In this review, we comprehensively summarize current evidence from animal models and clinical studies on the application of MSCs and MSC-Exos in treating IUA and endometriosis, focusing on their therapeutic potential, mechanisms of action, and future directions. We also discuss remaining challenges and promising strategies to overcome them, thereby positioning MSC-based therapies as transformative options for endometrial restoration and disease management.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202504018RR",
+        "keyword": "Exosomes",
+        "title_ja": "子宮内癒着および子宮内膜症に対する間葉系幹細胞療法：可能性、メカニズム、および今後の方向性",
+        "summary_ja": "子宮内癒着（IUA）と子宮内膜症は、子宮内膜機能と妊孕性を損なう難治性婦人科疾患である。IUAは基底子宮内膜への医原性外傷により線維化と不妊を引き起こし、子宮内膜症は異所性子宮内膜増殖による慢性炎症、疼痛、妊孕性低下を特徴とする。現行治療（IUAへの外科的癒着剥離術、子宮内膜症へのホルモン抑制療法）は、異常線維化、炎症カスケード、組織再生障害などの根本的病態に対処できない。近年、間葉系幹細胞（MSCs）が有望な治療法として注目されている。その治療効果は主にパラクライン作用を介し、免疫応答調節、組織修復促進、炎症・線維化抑制をもたらす。さらに、MSC由来エクソソーム（MSC-Exos）が無細胞代替療法としての可能性を示している。本総説では、動物モデルおよび臨床研究におけるIUAと子宮内膜症へのMSCsおよびMSC-Exos適用のエビデンスを包括的に要約し、治療可能性、作用機序、将来の方向性に"
+      },
+      {
+        "title": "Chronobiomaterials for circadian-aligned brain therapeutics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42285786/",
+        "abstract": "Circadian rhythms are endogenous ~24 h oscillations that regulate daily changes in neural activity, metabolism, and behavior. Disruption of circadian rhythms is a hallmark of neurological and psychiatric disorders, yet most brain-directed therapies use fixed dosing schedules that do not account for time-of-day variations in drug efficacy and toxicity. Recent advances in bioengineering have led to the development of chronobiomaterials-including nanoparticles, exosomes, hydrogels, cell-based systems, and bioelectronic interfaces-that enable programmable and temporally precise control of therapeutic delivery. Here, we describe the multiscale organization of cellular and molecular circadian clocks in the brain, review chronobiomaterial platforms designed to modulate circadian phase, amplitude, and period, and discuss AI-enabled closed-loop approaches for personalized chronotherapy.",
+        "source": "PubMed",
+        "doi": "10.1016/j.tips.2026.05.005",
+        "keyword": "Exosomes",
+        "title_ja": "概日リズムに調和した脳治療のためのクロノバイオマテリアル",
+        "summary_ja": "概日リズムは約24時間周期の内因性振動であり、神経活動や代謝、行動の日内変動を調節する。その乱れは神経・精神疾患の特徴であるが、従来の脳指向治療は固定スケジュールで投与され、薬効や毒性の時間変動を考慮していない。近年のバイオエンジニアリングの進展により、ナノ粒子、エクソソーム、ハイドロゲル、細胞ベースシステム、生体電子インターフェースを含むクロノバイオマテリアルが開発され、プログラム可能で時間的に精密な治療送達が可能となった。本稿では、脳内の細胞・分子レベルの概日時計のマルチスケール組織化を解説し、概日位相・振幅・周期を調節するクロノバイオマテリアルプラットフォームを概観し、さらにAIを用いた閉ループアプローチによる個別化クロノセラピーの可能性を議論する。"
+      },
+      {
+        "title": "Non-Surgical Hair Restoration Options: Current Techniques and Emerging Technologies in Prejuvenation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42285172/",
+        "abstract": "Aims and Backgrounds: Hair loss is a highly prevalent condition, and patients are increasingly seeking pre-junvination and restoration. This review evaluates contemporary non-surgical hair restoration modalities.",
+        "source": "PubMed",
+        "doi": "10.1055/a-2887-9735",
+        "keyword": "Exosomes",
+        "title_ja": "非外科的脱毛治療の選択肢：プレジュベネーションにおける現在の技術と新興テクノロジー",
+        "summary_ja": "本レビューは、非外科的な発毛回復法の現状と新興技術を評価する。対象は、進行性の毛髪減少に悩む患者が増加する中、Prejuvenation（予防的回春）の観点から注目される手法である。主な既存技術として、低出力レーザー療法（LLLT）、 Platelet-Rich Plasma（PRP）療法、マイクロニードリング、局所薬剤（ミノキシジル、フィナステリド）が挙げられる。新興技術では、エクソソーム療法、幹細胞療法、低強度超音波、経皮薬物送達システムが検討されている。これらの手法は、外科的移植に比べ低侵襲で、ダウンタイムが少ない利点があるが、効果の持続性や個別の適応には限界がある。Prejuvenationの概念に基づき、早期介入による毛髪密度維持が重要視される。結論として、非外科的治療は複合的なアプローチが有効であり、今後のエビデンス蓄積が求められる。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Macrophage immunometabolism in stroke: a view from single-cell and nano technologies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42286638/",
+        "abstract": "Stroke induces profound neuroinflammation in which macrophages play a complex dual role, contributing to both injury and repair. The traditional M1/M2 classification is increasingly recognized as oversimplified. Advances in single-cell RNA sequencing (scRNA-seq) have revealed a spectrum of dynamic macrophage subpopulations with distinct functional and metabolic states, fundamentally reshaping our understanding of post-stroke immunity.",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-08412-7",
+        "keyword": "Exosomes",
+        "title_ja": "脳卒中におけるマクロファージ免疫代謝：シングルセル技術とナノ技術からの視点",
+        "summary_ja": "脳卒中は高度な神経炎症を引き起こし、マクロファージは傷害と修復の両方に寄与する複雑な二重の役割を果たす。従来のM1/M2分類は過度に単純化されているとの認識が高まっている。単一細胞RNAシーケンシング（scRNA-seq）の進歩により、異なる機能・代謝状態を持つ動的なマクロファージ亜集団のスペクトルが明らかになり、脳卒中後の免疫応答の理解が根本的に変革された。"
+      },
+      {
+        "title": "Adipose tissue as a humoral-neuronal hub in metabolic regulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42286355/",
+        "abstract": "Adipose tissue has emerged as a dynamic endocrine organ that coordinates systemic energy balance and cardiometabolic health. This Review highlights the dual humoral and neuronal pathways through which adipose tissue regulates systemic metabolism. Humoral signals include peptide hormones, lipid mediators, metabolites, chemokines and exosomal microRNAs secreted by adipose depots. Neuronal circuits control adipose function rapidly and precisely: sympathetic efferents trigger lipolysis in white adipose tissue and thermogenesis in brown adipose tissue, whereas sensory afferents detect chemical, thermal and mechanical signals to adjust sympathetic activity. Nutritional and environmental stimuli (for example, diet, cold exposure and exercise), along with pathological states (for example, obesity, type 2 diabetes mellitus, lipodystrophy and ageing-associated disorders), dynamically modulate these endocrine and neural outputs. Methodological innovations, such as omics based on mass spectrometry or liquid chromatography-mass spectrometry, secretome labelling, adipose tissue organoid models and click chemistry, enable high-resolution characterization of adipose-derived signals and their targets. Finally, we discuss translational opportunities, including synthetic analogues of lipophilic hormones, and future therapeutic strategies that harness adipose communication networks.",
+        "source": "PubMed",
+        "doi": "10.1038/s41574-026-01265-6",
+        "keyword": "Exosomes",
+        "title_ja": "脂肪組織：代謝調節における液性-神経性ハブ",
+        "summary_ja": "脂肪組織は、全身のエネルギー代謝と心代謝健康を調節する動的な内分泌器官として認識されている。本レビューでは、脂肪組織が体液性経路と神経経路の二重のメカニズムを介して代謝を制御する点を強調する。体液性シグナルには、脂肪組織から分泌されるペプチドホルモン、脂質メディエーター、代謝産物、ケモカイン、エクソソームmiRNAが含まれる。神経回路は迅速かつ精密に脂肪機能を制御し、交感神経遠心路は白色脂肪組織の脂肪分解と褐色脂肪組織の熱産生を促進し、感覚神経求心路は化学・温度・機械的刺激を検出して交感神経活動を調節する。栄養や環境刺激（食事、寒冷曝露、運動）や病的状態（肥満、2型糖尿病、脂肪萎縮症、加齢関連疾患）はこれらの内分泌・神経出力を動的に変化させる。質量分析やLC-MS、セクレトーム標識、脂肪組織オルガノイド、クリックケミストリーなどの方法論的革新により、脂肪由来シグナルの高分解能解析が可能とな"
+      },
+      {
+        "title": "Extracellular vesicles MicroRNAs in stroke therapy: recent advances and translational potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42285407/",
+        "abstract": "Ischemic stroke accounts for ∼ 87% of all strokes. Existing reperfusion therapies are limited by narrow time windows. Small extracellular vesicles (sEVs) can cross the blood-brain barrier and deliver microRNAs (miRNAs) that modulate post-stroke inflammation, apoptosis, angiogenesis, and neurogenesis. However, most evidence is from preclinical studies (MCAO models), and no approved clinical protocols exist. This review summarizes ischemic stroke pathogenesis and critically evaluates preclinical advances in sEV-miRNA therapy. We highlight key translational barriers: lack of standardized sEV isolation (MISEV2023), miRNA cargo heterogeneity, dosing uncertainties, limited biodistribution data, off-target risks, regulatory bottlenecks, and absence of stroke-specific trials. We also evaluate exosomal miRNAs from various cell sources (e.g., bone marrow mesenchymal stem cells). This review provides a critical synthesis of preclinical evidence to establish a foundation for future translational research in precision stroke therapy.",
+        "source": "PubMed",
+        "doi": "10.1016/j.neuroscience.2026.06.008",
+        "keyword": "Exosomes",
+        "title_ja": "脳卒中治療における細胞外小胞マイクロRNA：最近の進歩と臨床応用の可能性",
+        "summary_ja": "虚血性脳卒中は全脳卒中の約87%を占めるが、既存の再灌流療法は時間的制約が大きい。小型細胞外小胞（sEV）は血液脳関門を通過し、炎症、アポトーシス、血管新生、神経新生を調節するmicroRNA（miRNA）を送達できる。しかし、エビデンスの大半は前臨床研究（MCAOモデル）に限られ、承認された臨床プロトコルは存在しない。本総説は、虚血性脳卒中発症機序を概説し、sEV-miRNA療法の前臨床進展を批判的に評価する。主な翻訳障壁として、標準化されたsEV単離法（MISEV2023）の欠如、miRNAカーゴの不均一性、投与量の不確実性、生体内分布データの不足、オフターゲットリスク、規制上の課題、脳卒中特異的試験の不在を指摘する。また、骨髄間葉系幹細胞など様々な細胞由来のエクソソームmiRNAも評価する。本総説は、精密脳卒中治療の将来のトランスレーショナル研究の基盤を確立するため、前臨床エビデンス"
+      },
+      {
+        "title": "Isoquercitrin-loaded adipose-derived stem cell exosomes synchronize immunomodulation and neurovascular remodeling to accelerate spinal cord regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42285382/",
+        "abstract": "Spinal cord injury (SCI) involves complex and interconnected pathological processes, including microglia-driven inflammation, vascular disruption, and impaired neuronal metabolic homeostasis, which collectively limit functional recovery. Here, we developed an isoquercitrin-loaded adipose-derived stem cell exosomes formulation (IQC@ADSCs-EXOs) as a natural nanocarrier delivery platform to coordinately modulate key cellular components within the lesion niche. IQC@ADSCs-EXOs exhibited typical vesicular morphology with nanoscale size distribution and a negative surface potential, and were efficiently internalized by microglia, endothelial cells (ECs), and neurons. Functionally, IQC@ADSCs-EXOs attenuated myelin debris-induced lipid droplet accumulation, lipid peroxidation, and intracellular ROS in BV2 cells, accompanied by a shift toward an anti-inflammatory phenotype. Meanwhile, IQC@ADSCs-EXOs promoted endothelial proliferation, migration, and tube formation, and enhanced mitochondrial activity with increased neurite outgrowth in PC12 cells. In a mouse contusive SCI model, local administration of IQC@ADSCs-EXOs was associated with improved vascular rebuilding, reduced neuroinflammation, enhanced axonal regeneration, and better locomotor and electrophysiological outcomes compared with controls. Collectively, these findings support IQC@ADSCs-EXOs as a nanotherapeutic platform with multicellular targeting capacity and translational potential for SCI repair.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijpharm.2026.127072",
+        "keyword": "Exosomes",
+        "title_ja": "イソクエルシトリン搭載脂肪由来幹細胞エクソソームによる免疫調節と神経血管リモデリングの同期が脊髄再生を促進する",
+        "summary_ja": "脊髄損傷（SCI）は、ミクログリア炎症、血管障害、神経代謝異常が複合的に関与する。本研究では、イソクエルシトリン内包脂肪由来幹細胞エクソソーム（IQC@ADSCs-EXOs）を開発した。本製剤はナノサイズの小胞構造を持ち、ミクログリア、内皮細胞、神経細胞に取り込まれた。BV2細胞では、ミエリン debris 誘導の脂質滴蓄積、脂質過酸化、ROSを抑制し抗炎症性表現型へ誘導。内皮細胞では増殖・遊走・管形成を促進し、PC12細胞ではミトコンドリア活性と神経突起伸長を向上。マウス挫傷SCIモデルにおいて、局所投与は血管再構築、神経炎症抑制、軸索再生、運動機能・電気生理学的改善をもたらした。IQC@ADSCs-EXOsは多細胞標的可能なナノ治療プラットフォームとしてSCI修復に有望である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **ホエイプロテイン補給と高齢者免疫応答**  \n   加齢によるタンパク質摂取不足が肺機能や免疫応答を低下させる中、ホエイプロテイン補給がこれを改善する可能性を示したRCT。高齢者の感染症予防や健康寿命延伸に直結する実用的知見であり、栄養介入の重要性を再認識させる。\n\n2. **間葉系幹細胞療法による子宮内癒着・子宮内膜症治療**  \n   難治性婦人科疾患に対し、MSCの抗線維化・抗炎症作用を活用する新たな治療戦略。現行治療の限界を補い、妊孕性温存に貢献する可能性が高く、再生医療の臨床応用拡大が期待される。\n\n3. **概日リズムに合わせた脳指向治療（Chronobiomaterials）**  \n   神経・精神疾患治療において、薬剤投与タイミングを生体リズムに同期させる新概念。従来の固定スケジュール投与の限界を克服し、治療効果向上と副作用低減を両立する未来型治療法として注目される。\n\n4. **脂肪組織由来幹細胞エクソソームによる脊髄再生**  \n   イソクエルシトリン内包エクソソームが免疫調整と神経血管リモデリングを同時に促進。脊髄損傷の複合的病態に対し、単一治療で多面的効果を発揮する点が画期的で、難治性神経疾患への応用が期待される。\n\n5. **細胞外小胞（sEV）miRNAによる脳卒中治療**  \n   sEVが血液脳関門を通過し、miRNAを介して炎症・アポトーシス・血管新生を調節。再灌流療法の時間制約を補完する新たな治療モダリティとして、今後の臨床応用に向けたエビデンス蓄積が急務。"
+}

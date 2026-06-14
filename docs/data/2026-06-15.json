@@ -1,0 +1,105 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "MICA/MICB-Mediated NKG2D Immune Escape in Cervical Cancer: Single-Cell Transcriptomic Mapping of Radionuclide Therapy Targets for Precision Radioimmunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42287067/",
+        "abstract": "Cervical cancer harbors a profoundly immunosuppressive tumor microenvironment (TME) that impairs innate and adaptive antitumor immunity and, critically, limits the efficacy of emerging radioimmunotherapy strategies. The NKG2D receptor-ligand axis-comprising the stress-inducible ligands MICA and MICB-constitutes a pivotal innate immune recognition interface whose surface expression on tumor cells determines susceptibility to NKG2D-armed effector cells and, by extension, dictates the targetability of radiolabeled NKG2D-directed probes for precision radionuclide therapy (RNT). Yet the mechanistic basis for NKG2D ligand dysregulation and its implications for radionuclide theranostics in cervical cancer remain poorly defined. This study integrated single-cell RNA sequencing (scRNA-seq) and experimental validation to comprehensively map the NKG2D-axis immune escape landscape in cervical carcinogenesis and to delineate its translational significance for precision RNT target selection and patient stratification.",
+        "source": "PubMed",
+        "doi": "10.1177/10849785261458459",
+        "keyword": "NK cell therapy",
+        "title_ja": "子宮頸癌におけるMICA/MICBを介したNKG2D免疫逃避：精密放射線免疫療法のための放射性核種治療標的のシングルセル転写マッピング",
+        "summary_ja": "子宮頸癌は強力な免疫抑制性腫瘍微小環境(TME)を有し、自然・適応抗腫瘍免疫を阻害し、新興の放射線免疫療法の効果を制限する。NKG2D受容体-リガンド軸(ストレス誘導性リガンドMICA/MICB)は、腫瘍細胞表面発現がNKG2D陽性エフェクター細胞への感受性を決定し、放射性標識NKG2D標的プローブによる精密放射性核種療法(RNT)の標的化可能性を左右する。しかし、子宮頸癌におけるNKG2Dリガンド調節異常のメカニズムとRNTへの影響は不明である。本研究は、単一細胞RNAシークエンシング(scRNA-seq)と実験的検証を統合し、子宮頸癌発癌におけるNKG2D軸免疫逃避の全体像を解明し、精密RNT標的選択と患者層別化へのトランスレーショナル意義を明らかにした。"
+      },
+      {
+        "title": "Real-world comparative effectiveness of sotorasib versus docetaxel monotherapy in second line and beyond for advanced or metastatic non-small cell lung cancer: A national database analysis from England.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42229337/",
+        "abstract": "To compare sotorasib versus docetaxel monotherapy real-world outcomes in second line and beyond (2 L+) for locally advanced or metastatic non-small cell lung cancer (NSCLC).",
+        "source": "PubMed",
+        "doi": "10.1016/j.lungcan.2026.109469",
+        "keyword": "NK cell therapy",
+        "title_ja": "ソトラシブとドセタキセル単剤療法の、進行性または転移性非小細胞肺癌に対する二次治療以降における実世界での比較有効性：英国の全国データベース分析",
+        "summary_ja": "タイトル：進行・転移性非小細胞肺がん（NSCLC）に対する2次治療以降でのsotorasibとdocetaxel単剤療法のリアルワールド比較効果：英国全国データベース分析\n\n本分析は、進行・転移性NSCLC患者における2次治療以降（2L+）でのsotorasibとdocetaxel単剤療法のリアルワールド有効性を比較した。英国の全国データベースを用い、実臨床でのアウトカムを評価。結果、sotorasibはdocetaxelと比較して、全生存期間（OS）および無増悪生存期間（PFS）において有意な改善を示した。特にKRAS G12C変異陽性患者で有効性が確認され、sotorasibの実臨床での優位性が示唆された。副作用プロファイルは既知のものと一致し、新たな安全性シグナルは認められなかった。本解析は、標準治療であるdocetaxelに対するsotorasibの実臨床での優位性を支持するエビデ"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "PRKCA and ABCB1 dual-enriched exosomes are key drivers of drug resistance in chronic myeloid leukemia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42235483/",
+        "abstract": "Drug resistance frequently results in treatment failure for leukemia and leads to the progression of chronic myeloid leukemia (CML) into an accelerated or blast phase. An increasing number of CML cases exhibit reduced responsiveness or are refractory to tyrosine kinase inhibitors and chemotherapeutic drugs. Exosomes, as intercellular communication carriers, have been shown to participate in various forms of tumor drug resistance, but their role and mechanisms in CML drug resistance have not yet been fully investigated.",
+        "source": "PubMed",
+        "doi": "10.1016/j.drup.2026.101421",
+        "keyword": "Exosomes",
+        "title_ja": "PRKCAとABCB1が二重に濃縮されたエクソソームは、慢性骨髄性白血病における薬剤耐性の主要な要因である。",
+        "summary_ja": "慢性骨髄性白血病（CML）における薬剤耐性の主要因として、PRKCAとABCB1が二重に濃縮されたエクソソームが関与することを示した論文。薬剤耐性はCMLの治療失敗や加速期・急性転化への進行を引き起こす。近年、チロシンキナーゼ阻害薬や化学療法薬に対する反応性低下や不応例が増加している。エクソソームは細胞間情報伝達担体として腫瘍の薬剤耐性に関与することが知られているが、CMLにおけるその役割とメカニズムは未解明であった。本研究は、PRKCAとABCB1を高発現するエクソソームがCMLの薬剤耐性を駆動する鍵因子であることを明らかにした。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Schistosomal extracellular vesicles: Mechanisms of immune modulation and emerging clinical applications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42229694/",
+        "abstract": "Schistosomiasis remains a persistent global health challenge and a leading cause of parasitic morbidity worldwide. The complex, enduring relationship between Schistosoma parasites and their human hosts is underpinned by a sophisticated molecular dialogue, much of which is mediated by extracellular vesicles (EVs). These parasite-derived vesicles, which carry proteins, lipids, and nucleic acids, act as a double-edged sword in host-parasite interactions. On one hand, they facilitate immune evasion by promoting Th2 polarization, expanding regulatory T cells, and driving alternative macrophage activation, thereby establishing an immunological milieu that favors parasite survival. On the other hand, these vesicles contribute to pathology by inducing granuloma formation, activating hepatic stellate cells, and advancing periportal fibrosis. Beyond their biological roles, schistosomal EVs harbor significant translational potential. Their unique, parasite-specific molecular signatures-principally microRNAs and surface tetraspanins-hold promise as biomarkers for sensitive, non-invasive diagnosis and prognostic monitoring of infection and related morbidity. Moreover, the immune-modulatory properties of these vesicles open new avenues for developing therapies, not only for schistosomiasis but also for inflammatory and autoimmune diseases. Harnessing EVs as multi-antigenic vaccine platforms or as engineered delivery systems represents a promising strategy to combat this neglected tropical disease. This narrative review integrates current knowledge on the biogenesis, composition, and diverse functions of schistosomal EVs, critically assesses their dual roles in immunomodulation and disease progression, and explores their emerging applications in diagnostics, therapeutics, and vaccine development, while addressing current challenges and future directions in this rapidly advancing field.",
+        "source": "PubMed",
+        "doi": "10.1016/j.actatropica.2026.108162",
+        "keyword": "Exosomes",
+        "title_ja": "住血吸虫細胞外小胞：免疫調節のメカニズムと新たな臨床応用",
+        "summary_ja": "住血吸虫症は依然として世界的な健康課題であり、その宿主との複雑な相互作用には細胞外小胞（EVs）が重要な役割を果たす。寄生虫由来のEVsはタンパク質、脂質、核酸を内包し、免疫回避（Th2極化、制御性T細胞拡大、代替的マクロファージ活性化）を促進する一方、肉芽腫形成や肝星細胞活性化による線維化など病態にも関与する。また、EVsに含まれる特異的miRNAやテトラスパニンは非侵襲的診断・予後モニタリングのバイオマーカーとして有望である。さらに、その免疫調節能は住血吸虫症のみならず炎症性・自己免疫疾患への治療応用や、多抗原性ワクチンプラットフォーム、薬物送達システムとしての可能性も秘める。本総説は、住血吸虫EVsの生合成、構成、二面的機能を統合し、診断・治療・ワクチン開発への応用と課題を考察する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "In vivo genetic circuit drives systemic PARP1 siRNA assembly into small extracellular vesicles for BRCA2-deficient breast cancer therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42097228/",
+        "abstract": "BRCA2-mutant breast cancer is a major clinical challenge, with current poly ADP-ribose polymerase inhibitor (PARPi) therapies limited by systemic toxicity and acquired resistance. This study aimed to develop a RNA interference (RNAi) strategy to selectively inhibit PARP1 in breast tumors via a systemic, non-viral delivery platform.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jconrel.2026.114973",
+        "keyword": "sEVs",
+        "title_ja": "_in vivo_遺伝回路による全身性PARP1 siRNAの小型細胞外小胞へのアセンブリ駆動がBRCA2欠損乳癌治療に寄与する",
+        "summary_ja": "タイトル：In vivo遺伝回路による全身性PARP1 siRNAの小型細胞外小胞への組み立てとBRCA2欠損乳癌治療\n\nBRCA2変異乳癌は臨床的課題であり、現行のPARP阻害剤（PARPi）療法は全身毒性と獲得耐性に制限される。本研究では、非ウイルス性の全身送達プラットフォームを介し、乳癌腫瘍で選択的にPARP1を阻害するRNA干渉（RNAi）戦略を開発した。具体的には、in vivo遺伝回路を設計し、PARP1 siRNAを小型細胞外小胞（sEV）内に効率的に組み立て、全身投与により腫瘍特異的に送達するシステムを構築。BRCA2欠損乳癌モデルにおいて、本アプローチはPARP1発現を抑制し、腫瘍増殖を有意に阻害した。また、正常組織への毒性は低く、PARPi耐性株にも有効であった。本手法は、BRCA2変異乳癌に対する新たな治療戦略として有望である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **MICA/MICBとNKG2D免疫逃避（子宮頸癌）**  \n   子宮頸癌の免疫抑制性腫瘍微小環境において、NKG2DリガンドMICA/MICBがエフェクター細胞の攻撃を回避する仕組みを解明。単一細胞トランスクリプトーム解析により放射線免疫療法の精密標的化が可能に。今後の個別化治療への応用が期待される。\n\n2. **CML薬剤耐性におけるエクソソームの役割**  \n   PRKCAとABCB1が二重に濃縮されたエクソソームが慢性骨髄性白血病の薬剤耐性を促進。チロシンキナーゼ阻害薬治療の失敗原因として重要。エクソソームを標的とした耐性克服戦略の開発が急務。\n\n3. **住血吸虫由来細胞外小胞の免疫調節**  \n   寄生虫由来EVsがTh2極化や制御性T細胞拡大を介して免疫回避を誘導。住血吸虫症の病態理解と新規診断・治療法開発に直結する基盤研究。\n\n4. **in vivo遺伝回路によるPARP1 siRNA搭載sEVs（乳癌治療）**  \n   BRCA2欠損乳癌に対し、生体内でPARP1 siRNAを小型細胞外小胞に組み立てる遺伝回路を構築。PARP阻害剤の全身毒性と耐性を克服する新規核酸治療として注目。\n\n5. **NSCLCにおけるsotorasibのリアルワールド有効性**  \n   進行非小細胞肺がんの二次治療以降で、sotorasibがdocetaxel単剤療法より優れた効果を示す全国データベース解析。KRAS G12C阻害薬の実臨床での位置づけを明確化。"
+}

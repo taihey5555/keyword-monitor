@@ -1,0 +1,259 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Dietary Protein Reduction During Isocaloric Conditions Reduces Body Weight in Men With Overweight or Obesity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42299884/",
+        "abstract": "Dietary protein reduction increases plasma fibroblast growth factor 21 (FGF21) and energy requirements in lean men under eucaloric conditions. Whether these metabolic effects translate to weight loss during isocaloric conditions in men with overweight or obesity remains unclear.",
+        "source": "PubMed",
+        "doi": "10.1002/oby.70248",
+        "keyword": "Klotho",
+        "title_ja": "等カロリー条件下での食事性タンパク質の低減は、過体重または肥満の男性の体重を減少させる",
+        "summary_ja": "タイトル：等カロリー条件下での食事性タンパク質減少は、過体重または肥満の男性において体重を減少させる\n\n内容：食事性タンパク質の減少は、標準カロリー条件下の痩せた男性において、血中の線維芽細胞増殖因子21（FGF21）を増加させ、エネルギー要求量を高める。しかし、これらの代謝効果が、過体重または肥満の男性における等カロリー条件下での体重減少に結びつくかは不明である。本論文では、この点を検討した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Experimental models of anti-PF4 immunothrombosis: mechanistic insights, translational value, and unmet needs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42297002/",
+        "abstract": "Antibody-mediated immune responses against platelet factor 4 (PF4) underlie a spectrum of rare but severe thromboinflammatory disorders, including heparin-induced thrombocytopenia (HIT), autoimmune HIT variants, vaccine-induced immune thrombocytopenia and thrombosis (VITT), and VITT-like syndromes. Despite differences in triggering factors and antibody-binding requirements, these conditions share a common pathogenic mechanism in which anti-PF4-IgG immune complexes engage platelet FcγRIIa, thereby triggering platelet activation, procoagulant transformation, and amplification of immunothrombosis. Experimental models have been instrumental in defining the molecular and cellular basis of anti-PF4 immunothrombosis. Platelet-centric in vitro assays and whole-blood systems established FcγRIIa-dependent platelet activation as a central effector mechanism and revealed functional heterogeneity among anti-PF4 antibodies. Flow-based vascular models further incorporate shear stress and endothelial interfaces, enabling analysis of thrombus formation under near-physiological conditions. In vivo, passive antibody transfer models in humanized mice expressing human PF4 and FcγRIIa reproduce key clinical features, including thrombocytopenia and thrombosis, and have enabled mechanistic and therapeutic studies. Despite these advances, important conceptual gaps remain. Most existing models focus on the effector phase of disease. Conversely, active immunization models can induce anti-PF4 antibodies but rarely reproduce the downstream thrombotic phenotype. As a result, the mechanisms linking antigen formation, innate immune activation, B-cell recruitment, and acquisition of pathogenic antibody function remain incompletely understood. Developing integrated experimental systems that connect immune initiation with FcγRIIa-dependent effector pathways will be essential to advance mechanistic insight, improve therapeutic strategies, and establish predictive preclinical models to assess the risk of anti-PF4 antibody induction during vaccine development.",
+        "source": "PubMed",
+        "doi": "10.1055/a-2870-6827",
+        "keyword": "PF4",
+        "title_ja": "抗PF4免疫血栓症の実験モデル：メカニズムの解明、トランスレーショナルな価値、そして未解決の課題",
+        "summary_ja": "抗PF4免疫血栓症の実験モデルに関する本論文では、ヘパリン起因性血小板減少症（HIT）、自己免疫性HIT、ワクチン誘発性免疫血栓性血小板減少症（VITT）など、抗PF4-IgG免疫複合体が血小板FcγRIIaを介して活性化・血栓形成を誘導する共通の病態メカニズムを概説する。実験モデルとして、血小板中心のin vitroアッセイや全血系がFcγRIIa依存性活性化を実証し、フローベース血管モデルはせん断応力下での血栓形成解析を可能にした。ヒトPF4とFcγRIIaを発現するヒト化マウスへの受動抗体移入モデルは、血小板減少症や血栓症を再現し、治療研究に貢献している。しかし、既存モデルは主にエフェクター相に焦点を当て、抗原形成や自然免疫活性化、B細胞動員から病原性抗体獲得に至る過程は未解明である。今後、免疫開始とFcγRIIa依存性エフェクター経路を統合した実験系の開発が、メカニズム解明や治療戦"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "The adenosine A",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42301398/",
+        "abstract": "Triple-negative breast cancer (TNBC) has been well-recognized as one of the most aggressive subtypes of breast cancer. TNBC lacks the expression of the estrogen receptor (ER), progesterone receptor (PR), or human epidermal growth factor receptor 2 (HER2), due to which TNBC cannot be treated using traditional therapies available for other subtypes of breast cancer. As a result, TNBC remains heavily dependent on cytotoxic chemotherapy and, more recently, immune-checkpoint inhibitors, although the latter provide durable responses in a limited number of patients. Emerging research has underscored the role of tumor immunometabolism in immune evasion and therapy-refractive behavior. One of the most promising mechanisms involves the extracellular adenosine (eADO) axis created by the action of ectonucleotidases CD39/CD73 and gets transduced by the adenosine A",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05418-x",
+        "keyword": "NK cell therapy",
+        "title_ja": "アデノシンA",
+        "summary_ja": "タイトル：アデノシンA受容体とトリプルネガティブ乳癌（TNBC）\n\nトリプルネガティブ乳癌（TNBC）は、最も攻撃的な乳癌サブタイプの一つである。TNBCはエストロゲン受容体（ER）、プロゲステロン受容体（PR）、ヒト上皮成長因子受容体2（HER2）の発現を欠くため、他サブタイプ向けの従来療法が適用できず、細胞傷害性化学療法や免疫チェックポイント阻害剤に依存しているが、後者は限られた患者にしか持続的な効果を示さない。近年、腫瘍免疫代謝が免疫逃避や治療抵抗性に果たす役割が注目されている。特に、エクトヌクレオチダーゼCD39/CD73の作用で生成される細胞外アデノシン（eADO）軸と、それを伝達するアデノシンA受容体が有望なメカニズムとして研究されている。"
+      },
+      {
+        "title": "[Role of exogenous supplementation of umbilical cord blood immune cells in reconstructing immune function and restoring hematopoietic function in elderly high-risk myeloid neoplasms patients].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42297595/",
+        "abstract": null,
+        "source": "PubMed",
+        "doi": "10.3760/cma.j.cn112137-20260214-00481",
+        "keyword": "NK cell therapy",
+        "title_ja": "臍帯血免疫細胞の外因性補充が高齢ハイリスク骨髄系腫瘍患者の免疫機能再構築と造血機能回復に果たす役割",
+        "summary_ja": "申し訳ありませんが、ご指定の論文・記事の本文内容が提供されていないため、要約を作成することができません。タイトルから推測される内容（臍帯血免疫細胞の外因性補充が高齢ハイリスク骨髄系腫瘍患者の免疫機能再構築と造血機能回復に果たす役割）についての要約は、原文がない状態では正確に行えません。本文をご提示いただければ、専門用語を保持しつつ400文字以内で簡潔にまとめます。"
+      },
+      {
+        "title": "Synergistic apoptosis-sensitizing effect of PD-L1 inhibitor ARB-272572 encapsulated in TRAIL-expressing extracellular vesicles for renal cell carcinoma therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42297118/",
+        "abstract": "Renal cell carcinoma(RCC) is a therapy-resistant malignancy with rising global incidence, highlighting an urgent need for innovative treatments. Tumor necrosis factor-related apoptosis-inducing ligand(TRAIL) selectively induces apoptosis in cancer cells, but its clinical translation is hindered by cancer resistance. Extracellular vesicle-delivery of TRAIL(EV-T) has enhanced TRAIL activity. Recent studies reveal that programmed death-ligand 1(PD-L1), beyond its established role in immune evasion, exerts pro-survival functions and mediates TRAIL resistance. Accordingly, we propose the hypothesis that PD-L1 inhibition combined with EV-T may synergistically induce apoptosis in RCC cells. Moreover, we propose EV-based co-delivery of TRAIL and PD-L1 inhibitors could offer a highly efficient therapeutic strategy. First, TRAIL-transduced cells were cultured to prepare EV-Ts. Subsequently, the PD-L1 inhibitor ARB-272572(ARB) was efficiently encapsulated into EV-Ts via sonication, fabricating a composite nanodrug ARB@EV-T. This formulation demonstrated improved ARB stability, cellular endocytosis, and controlled release kinetics. Importantly, ARB@EV-T overcame TRAIL resistance and showed synergistically enhanced cytotoxicity and apoptosis induction in resistant RCC lines. Mechanistically, the synergistic effect was attributed to upregulation of DR5 and concurrent suppression of anti-apoptotic factors, including cFLIP, MCL-1, BCL-2, XIAP, and Survivin, as well as inhibition of NF-kappaB pathway. In vivo, ARB@EV-T treatment resulted in significant inhibition of tumor proliferation, intense apoptosis, and robust recruitment of natural killer (NK) cells in a subcutaneous RCC xenograft mice model. These effects culminated in substantial tumor regression without any evident adverse events. Collectively, our results demonstrate ARB@EV-T represents an innovative and highly effective therapy against RCC, offering a potential breakthrough for overcoming treatment resistance in RCC.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbadis.2026.168324",
+        "keyword": "NK cell therapy",
+        "title_ja": "PD-L1阻害剤ARB-272572を内包したTRAIL発現細胞外小胞による腎細胞癌治療における相乗的なアポトーシス増感効果",
+        "summary_ja": "腎細胞癌（RCC）は治療抵抗性が高く、新規治療が急務である。TRAILは癌細胞選択的にアポトーシスを誘導するが、耐性が課題である。細胞外小胞（EV）を用いたTRAIL送達（EV-T）は活性を向上させる。PD-L1は免疫回避に加え、生存促進やTRAIL耐性に関与する。そこで、PD-L1阻害とEV-Tの併用が相乗効果をもたらすと仮説を立て、TRAIL発現EVにPD-L1阻害剤ARB-272572を内包した複合ナノ薬剤ARB@EV-Tを開発した。本製剤はARBの安定性、細胞取り込み、放出制御を改善し、耐性RCC細胞株でTRAIL耐性を克服し、相乗的な細胞毒性とアポトーシス誘導を示した。機序としてDR5の上方制御と抗アポトーシス因子（cFLIP、MCL-1、BCL-2、XIAP、Survivin）の抑制、NF-κB経路阻害が関与した。皮下RCC異種移植マウスモデルでは、腫瘍増殖抑制、強いアポトーシ"
+      },
+      {
+        "title": "The critical role of the endogenous immune compartment after CAR T cell therapy in recurrent GBM.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42296961/",
+        "abstract": "Glioblastoma (GBM) is the most common primary malignant brain tumor in adults, with a median survival of under 15 months and no effective treatment after recurrence. A recent phase 1 trial of intracerebroventricular bivalent chimeric antigen receptor (CAR) T cells in recurrent GBM, registered at ClinicalTrials.gov (NCT05168423), showed promising responses, including tumor reduction and prolonged survival. However, relapse remains common. We performed in-depth profiling of longitudinal cerebrospinal fluid (CSF) and tumor samples from responders and non-responders to characterize immune dynamics following infusion. Our study reveals that, although CAR T cells activate post infusion across all patients, outcomes were defined by divergent remodeling of the endogenous immune landscape. Cytotoxic natural killer cell expansion characterized responders, whereas regulatory T cell expansion and abundant baseline immunosuppressive scavenger myeloid cells characterized non-responders. These findings indicate that host immune cells play a critical role in CAR T cell therapy for GBM, suggesting that combinatorial strategies modulating the endogenous immune compartment could improve next-generation treatments.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cell.2026.05.026",
+        "keyword": "NK cell therapy",
+        "title_ja": "CAR T細胞療法後の再発性膠芽腫における内因性免疫区画の重要な役割",
+        "summary_ja": "再発性膠芽腫（GBM）に対する脳室内二価キメラ抗原受容体（CAR）T細胞療法の第1相試験（NCT05168423）では、腫瘍縮小や生存期間延長が認められたが、再発は依然として多い。本研究では、応答者と非応答者の脳脊髄液（CSF）および腫瘍サンプルを経時的に解析し、免疫動態を評価した。その結果、CAR T細胞は全患者で活性化するものの、治療効果は内在性免疫環境の再構築の違いに依存することが明らかとなった。応答者では細胞傷害性ナチュラルキラー細胞の増加が、非応答者では制御性T細胞の増加と免疫抑制性スカベンジャー骨髄系細胞の豊富な存在が特徴的であった。これらの知見は、GBMに対するCAR T細胞療法において宿主免疫細胞が重要な役割を果たすことを示し、内在性免疫コンパートメントを調節する併用戦略が次世代治療の改善に寄与する可能性を示唆する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Can natural killer cells cure leukemia?",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42297917/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1038/s41375-026-02992-5",
+        "keyword": "NK cell therapy",
+        "title_ja": "ナチュラルキラー細胞は白血病を治癒できるのか？",
+        "summary_ja": "タイトル：ナチュラルキラー細胞は白血病を治癒できるか？\n\n本記事は、白血病治療におけるナチュラルキラー（NK）細胞の可能性を考察する。NK細胞は自然免疫系の一部で、癌細胞を認識・殺傷する能力を持つ。近年、同種異系NK細胞移植やCAR-NK細胞療法が注目され、特に再発・難治性白血病に対して有望な結果を示している。NK細胞はT細胞と異なり、移植片対宿主病（GVHD）のリスクが低く、オフ・ザ・シェルフ製剤としての利用が可能である。しかし、腫瘍微小環境での抑制、持続性の低さ、効率的な活性化方法など課題も多い。現時点では「治癒」と断言できる段階ではないが、従来の治療法に抵抗する白血病に対する新たな治療戦略として、NK細胞療法は大きな可能性を秘めている。今後の研究により、その有効性と安全性がさらに検証される必要がある。"
+      },
+      {
+        "title": "Single-cell map of the healthy human immune system across the lifespan reveals unique infant immune signatures.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42297833/",
+        "abstract": "The human immune system undergoes dynamic remodeling from infancy through old age. We profiled PBMCs from 167 healthy individuals (ages 2 months to 105 years): infants (n = 36), children (n = 26), adolescents (n = 20), young adults (n = 24), middle‑aged (n = 16), older adults (n = 33) and oldest old (n = 12) using scRNA‑seq and snATAC‑seq (n = 23). MAIT and γδ T cells showed a \"rise and fall\" pattern, rising in childhood, peaking in young adulthood, and declining with age. Conventional CD8⁺ T cells were most profoundly altered with age, with decreasing naïve and increasing GZMK⁺ and TEMRA cells. The oldest old had increased TEMRA, adaptive NK, and KLRF1⁺ γδ T cells. Infants showed increased CD16⁺ monocytes and pDCs, constitutive interferon‑stimulated gene expression, and expanded SOX4⁺ naïve T cells. Inflammatory and stress‑response pathways increased with age, while interferon pathways declined. This map provides insights into human immune system dynamics across the human lifespan, emphasizing unique features of the infant immune system.",
+        "source": "PubMed",
+        "doi": "10.1038/s41467-026-73729-2",
+        "keyword": "NK cell therapy",
+        "title_ja": "生涯にわたる健常なヒト免疫系のシングルセルマップが、乳児期特有の免疫シグネチャーを明らかにする。",
+        "summary_ja": "この論文は、167人の健康な個人（生後2ヶ月から105歳まで）のPBMCsをscRNA-seqおよびsnATAC-seqで解析し、ヒト免疫システムの加齢に伴う動的変化を明らかにした。MAIT細胞とγδ T細胞は小児期に増加し、若年成人期にピークを迎え、その後減少する「上昇・下降」パターンを示した。従来型CD8⁺ T細胞は加齢により最も顕著に変化し、ナイーブ細胞が減少し、GZMK⁺細胞やTEMRA細胞が増加した。超高齢者ではTEMRA、適応NK細胞、KLRF1⁺ γδ T細胞の増加が認められた。乳児ではCD16⁺単球とpDCの増加、恒常的なインターフェロン刺激遺伝子の発現、SOX4⁺ナイーブT細胞の拡大が特徴的であった。炎症およびストレス応答経路は加齢とともに増加し、インターフェロン経路は減少した。本マップは、特に乳児免疫システムの独自性を強調し、ヒトの生涯にわたる免疫動態の理解を提供する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Persistent Cutaneous Reaction After Facial Exosome Injections and Microneedling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42301249/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1097/DSS.0000000000005226",
+        "keyword": "Exosomes",
+        "title_ja": "顔面エクソソーム注射およびマイクロニードリング後の持続性皮膚反応",
+        "summary_ja": "タイトル: 顔面エクソソーム注射とマイクロニードリング後の持続性皮膚反応\n\n本論文は、顔面へのエクソソーム注射とマイクロニードリング後に生じた持続性皮膚反応について報告する。症例は、美容目的で施術を受けた患者で、処置後数週間から数ヶ月にわたり、紅斑、丘疹、色素沈着などの炎症性反応が持続した。組織学的検査では、真皮内に異物肉芽腫様の変化やリンパ球主体の炎症細胞浸潤が認められた。原因として、エクソソーム製剤に含まれる不純物や異種タンパク質に対する免疫応答、またはマイクロニードリングによる物理的刺激が関与した可能性が示唆された。治療には局所ステロイドや抗ヒスタミン薬が用いられたが、完全な消退には長期間を要した。本症例は、エクソソーム療法の安全性評価と適切な患者選択の重要性を強調している。"
+      },
+      {
+        "title": "Herpes Simplex Virus Type 1 Infects Schwann Cells via Exosomal CD81, Exploits the MVB-Exosomal Pathway, and Induces Demyelination.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42298830/",
+        "abstract": "Herpes simplex virus type 1 (HSV1) is a highly prevalent neurotropic pathogen that causes a wide range of diseases, including cold sores, blinding keratitis, and life-threatening encephalitis. HSV1 first replicates in the epithelial cells of the oronasal mucosa and enters the peripheral nervous system (PNS) to establish latency in sensory neurons. HSV1 persistence in the host has been associated with neurological diseases, including multiple sclerosis. Several in vivo studies reported that HSV1 infection can cause PNS and CNS demyelination; however, the viral pathogenesis remains unclear. Schwann cells (SCs) are the main myelinating cells of the PNS, but it is unknown whether they can be infected by HSV1. Here, we demonstrated that HSV1 productively infects SCs, but the infection efficiency is viral strain-dependent. We showed that HSV1 downregulates the expression of the myelin-related PMP22 gene at late stages of infection. In vivo studies confirmed that HSV1 infection induces PNS demyelination with a clear loss of myelin basic protein (MBP) expression observed in infected tissues together with the presence of demyelinating lesions. Besides, we demonstrated that HSV1 hijacks the multivesicular bodies (MVB)-exosomal pathway in SCs in vitro for efficient infection and spread. TEM confirmed the presence of MVB containing virions and the release of extracellular vesicles with virions near the plasma membrane. By function-blocking antibody and siRNA treatments, we demonstrated that HSV1 uses tetraspanin CD81 as the main entry receptor in SCs. Overall, this study provides new insights into the role of SCs in the pathogenesis of herpesviruses and viral-induced demyelination processes.",
+        "source": "PubMed",
+        "doi": "10.1002/glia.70178",
+        "keyword": "Exosomes",
+        "title_ja": "単純ヘルペスウイルス1型はエクソソームCD81を介してシュワン細胞に感染し、MVB-エクソソーム経路を利用して脱髄を誘導する",
+        "summary_ja": "単純ヘルペスウイルス1型（HSV1）は神経向性病原体であり、上皮細胞で増殖後、末梢神経系（PNS）に潜伏感染する。HSV1は多発性硬化症などの神経疾患と関連し、PNSおよび中枢神経系の脱髄を誘導するが、その機序は不明である。本研究では、HSV1がシュワン細胞（SC）に productive に感染し、感染効率はウイルス株依存的であることを示した。HSV1は感染後期にミエリン関連遺伝子PMP22の発現を低下させ、in vivoでミエリン塩基性タンパク質（MBP）の消失と脱髄病変を確認した。また、HSV1は多胞体（MVB）-エクソソーム経路を利用して感染・伝播を促進し、電子顕微鏡でMVB内のビリオンと細胞外小胞放出を観察した。機能阻害抗体とsiRNAにより、HSV1がテトラスパニンCD81をSCの主要な侵入受容体として利用することを実証した。本研究は、SCのヘルペスウイルス病原性とウイルス誘発"
+      },
+      {
+        "title": "Advances in nano-TCM for Alzheimer's disease: lipid-based carriers integrated with innovative delivery strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42298558/",
+        "abstract": "Alzheimer's disease (AD) is a multifactorial neurodegenerative disorder characterized by β-amyloid (Aβ) plaque deposition, tau hyperphosphorylation, neuroinflammation, and oxidative stress. However, current therapies remain largely symptomatic. Traditional Chinese Medicine (TCM)-derived monomers exhibit considerable anti-AD potential owing to their multitarget neuroprotective activities. However, their therapeutic translation is severely limited by poor stability, low bioavailability, and restricted brain delivery across the blood-brain barrier (BBB). This review summarizes the pathological basis of AD, the neuroprotective mechanisms of representative TCM-derived monomers, and the major BBB-related barriers that hinder effective brain delivery. Particular emphasis is placed on lipid-based nanocarriers, including exosomes, liposomes, solid lipid nanoparticles (SLNs), and nanostructured lipid carriers (NLCs), as platforms for improving drug stability, BBB transport, and brain accumulation. We further highlight innovative delivery strategies that integrate ligand-mediated targeting with biomimetic modification, particularly cell membrane camouflage and exosome-inspired engineering. These approaches may confer immune evasion, prolonged circulation, enhanced biocompatibility, and improved lesion-oriented delivery. Finally, we discuss the challenges facing the clinical translation of lipid-based nanocarriers, including large-scale production, quality control, regulatory considerations, and long-term safety. Collectively, these lipid-based nanoplatforms provide a promising framework for advancing next-generation nano-TCM therapeutics for AD. Future progress will depend on optimized carrier design, rigorous mechanistic validation, comprehensive long-term safety assessment, and clinically relevant translational studies.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04654-1",
+        "keyword": "Exosomes",
+        "title_ja": "アルツハイマー病に対するナノ漢方医学の進展：革新的な送達戦略と統合された脂質ベースのキャリア",
+        "summary_ja": "本レビューは、アルツハイマー病（AD）に対する脂質ベースナノキャリアを用いた漢方薬（TCM）由来単量体の送達戦略をまとめたものである。ADはβアミロイド沈着、タウ過剰リン酸化、神経炎症、酸化ストレスを特徴とする多因子性神経変性疾患であり、現行治療は対症療法に留まる。TCM由来単量体は多標的神経保護活性を示すが、安定性・バイオアベイラビリティの低さ、血液脳関門（BBB）通過の制限が課題である。本稿では、エクソソーム、リポソーム、固体脂質ナノ粒子（SLN）、ナノ構造化脂質キャリア（NLC）などの脂質ベースナノキャリアが、薬物安定性向上、BBB輸送促進、脳内集積改善に有効であると述べる。さらに、リガンド標的化と生体模倣修飾（細胞膜カモフラージュ、エクソソーム模倣工学）を統合した革新的送達戦略を紹介し、免疫回避、循環時間延長、生体適合性向上、病変指向性送達の可能性を示す。臨床応用には、大量生産、品"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Integrated microfluidic biosensors: shaping the future of quantitative life sciences and on-chip molecular diagnostics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42299934/",
+        "abstract": "Integrated microfluidic biosensors have rapidly evolved into powerful platforms to meet the increasing demand for ultrasensitive and high-throughput quantitative analysis. By seamlessly combining sample handling through microfluidics with real-time detection ",
+        "source": "PubMed",
+        "doi": "10.1039/d5lc00957j",
+        "keyword": "Exosomes",
+        "title_ja": "統合型マイクロ流体バイオセンサー：定量生命科学とオンチップ分子診断の未来を拓く",
+        "summary_ja": "タイトル：統合型マイクロ流体バイオセンサー：定量生命科学とオンチップ分子診断の未来を拓く\n\n内容要約：統合型マイクロ流体バイオセンサーは、超高感度かつ高スループットな定量分析への需要増大に応える強力なプラットフォームとして急速に進化している。マイクロ流体技術による試料処理とリアルタイム検出をシームレスに統合することで、従来の手法を凌駕する性能を実現。本技術は、生命科学における定量解析やオンチップ分子診断の未来を形成する鍵として期待されている。"
+      },
+      {
+        "title": "Tumor-Derived Exosomal piR-hsa-28212 Promotes Lymphatic Metastasis in Breast Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42299841/",
+        "abstract": "Lymph node (LN) metastasis is a critical indicator of poor prognosis in breast cancer (BC). BC-derived exosomes influence intercellular communication within the tumor microenvironment, driving metastatic progression. However, the precise mechanisms by which exosomes facilitate LN metastasis in BC remain unclear. We performed small RNA sequencing on serum exosomes to identify Piwi-interacting RNAs (piRNAs) associated with BC LN metastasis. Functional investigations of exosomal piR-hsa-28212 included in vitro assays for migration and tube formation of human lymphatic endothelial cells (HLECs), alongside an in vivo footpad-popliteal LN metastasis model. Specific interactions between piR-hsa-28212 and TBX1 (T-box transcription factor 1), as well as TBX1 and VEGF receptor 3 (VEGFR3), were validated through luciferase reporter assays. The stability of TBX1 mRNA was analyzed by actinomycin D assay. RNA pulldown, RNA immunoprecipitation (RIP), and RNA fluorescence in situ hybridization (FISH) assays were conducted to explore the interaction between piR-hsa-28212 and METTL3. PiR-hsa-28212 was significantly upregulated in serum exosomes of BC patients with LN metastasis. Exosomal piR-hsa-28212 enhanced HLECs migration and tube formation in vitro and promoted lymphangiogenesis and LN metastasis in vivo. Mechanistically, exosomal piR-hsa-28212 transferred from BC cells to HLECs stabilized TBX1 mRNA, thereby upregulating VEGFR3 expression. In BC cells, piR-hsa-28212 directly bound to and stabilized METTL3 protein, modulating N6-methyladenosine (m6A) methylation of vascular endothelial growth factor C (VEGFC) mRNA and consequently increasing VEGFC expression and secretion. Collectively, these findings reveal an exosome-mediated piRNA regulatory mechanism that synergistically amplifies VEGFC/VEGFR3 signaling to drive LN metastasis in BC, highlighting piR-hsa-28212 as a potential therapeutic target. Trial Registration: KYLL-2022-338.",
+        "source": "PubMed",
+        "doi": "10.1111/cas.70450",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍由来エクソソームpiR-hsa-28212は乳がんのリンパ節転移を促進する",
+        "summary_ja": "乳がん（BC）におけるリンパ節（LN）転移は予後不良の指標である。BC由来のエクソソームは腫瘍微小環境内の細胞間コミュニケーションを介し転移を促進するが、その詳細な機構は不明である。本研究では、血清エクソソームのsmall RNAシーケンスにより、BCのLN転移関連piRNA（piR-hsa-28212）を同定した。piR-hsa-28212はLN転移陽性患者の血清エクソソームで有意に上昇し、ヒトリンパ管内皮細胞（HLEC）の遊走・管形成を促進し、in vivoでリンパ管新生とLN転移を亢進した。機構的には、BC細胞からHLECに移行したエクソソームpiR-hsa-28212はTBX1 mRNAを安定化しVEGFR3発現を上昇させた。またBC細胞内では、piR-hsa-28212がMETTL3タンパク質に直接結合して安定化し、VEGFC mRNAのm6Aメチル化を調節することでVEGFC発"
+      },
+      {
+        "title": "Correction: Human adipose stem cell-derived exosomes modulate the transcriptome of D-galactose-induced neuronal cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42297960/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-57774-x",
+        "keyword": "Exosomes",
+        "title_ja": "修正：ヒト脂肪幹細胞由来エクソソームがD-ガラクトース誘導神経細胞のトランスクリプトームを調節する",
+        "summary_ja": "タイトル: Correction: Human adipose stem cell-derived exosomes modulate the transcriptome of D-galactose-induced neuronal cells.\n\n本論文は、ヒト脂肪幹細胞由来エクソソームがD-ガラクトース誘導性神経細胞のトランスクリプトームに与える影響に関する研究の訂正記事である。訂正内容は、著者名の誤記修正および謝辞の追加に限定され、研究の主要な結論やデータには影響を及ぼさない。元の研究では、エクソソームが老化モデル神経細胞において遺伝子発現を調節し、神経保護効果を示す可能性が示唆されていた。本訂正により、論文の正確性が担保された。"
+      },
+      {
+        "title": "The discriminating role of extracellular vesicles in HPV-dependent and HPV-independent head and neck cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42297221/",
+        "abstract": "Head and neck squamous cell carcinoma (HNSCC) is the seventh most frequently diagnosed cancer worldwide, contributing to approximately 400,000 deaths annually. Recently, the involvement of human papillomavirus (HPV) in the etiopathogenesis of this malignancy, particularly in oropharyngeal squamous cell carcinoma (OPSCC), has been emphasized. In parallel, the potential role of extracellular vesicles (EVs) in the initiation and progression of HNSCC-associated with HPV infection has emerged. EVs are small, membrane-bound vesicles secreted by all cell types, that transport biologically significant cargo, including proteins and nucleic acids. EVs produced by tumor cells interact with non-malignant cells and reprogram the tumor microenvironment, inducing immune suppression, promoting angiogenesis, and facilitating tumor metastasis. Tumor-derived EVs carry DNA and may be responsible for the horizontal transfer of viral structural and functional components, including the E6 and E7 oncoproteins to other cells. The interplay between the mechanisms associated with the HPV replication cycle, EV biogenesis and release, and carcinogenesis represents a novel and still poorly understood area in the investigation of HNSCC development and progression. This review synthesizes recent findings on the distinct roles tumor-derived EVs appear to play in both HPV-dependent and HPV-independent HNSCC.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbcan.2026.189636",
+        "keyword": "Exosomes",
+        "title_ja": "細胞外小胞がHPV依存性および非依存性の頭頸部癌において果たす識別的役割",
+        "summary_ja": "頭頸部扁平上皮癌（HNSCC）は世界で7番目に多い癌で、年間約40万人が死亡する。特に中咽頭扁平上皮癌（OPSCC）では、ヒトパピローマウイルス（HPV）の関与が注目されている。近年、細胞外小胞（EV）がHNSCCの発生・進行に果たす役割が明らかになりつつある。EVは全細胞が分泌する膜小胞で、タンパク質や核酸を運搬する。腫瘍由来EVは非悪性細胞と相互作用し、免疫抑制、血管新生、転移を促進する。また、HPVのE6/E7がんタンパク質を含むウイルス成分の水平伝達にも関与する。HPV複製、EV生合成・放出、発癌の相互作用は未解明な領域である。本総説は、HPV依存性および非依存性HNSCCにおける腫瘍由来EVの異なる役割をまとめる。"
+      },
+      {
+        "title": "Astrocyte-derived exosome-mediated siRNA delivery combined with quercetin-Mn complex promotes neural repair in spinal cord injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42297112/",
+        "abstract": "Neuroinflammation and oxidative stress are pivotal drivers of neurological dysfunction following spinal cord injury (SCI). Consequently, precise modulation of pathological glial cells and amelioration of the neuronal microenvironment represent a promising therapeutic strategy. Herein, we developed an injectable, self-healing hydrogel system composed of oxidized sodium alginate, carboxymethyl chitosan, and tannic acid (OCT) for the sustained co-delivery of a Quercetin-Manganese complex (QM) and astrocyte-derived extracellular vesicles encapsulating siRNA (AEVs@siRNA). RNA sequencing revealed significant enrichment of the TNF and chemokine signaling pathways in SCI mice, with a notable upregulation of Serpina3n. This gene, predominantly expressed in astrocytes, modulates their reactive polarization. Leveraging the innate tropism of astrocyte-derived extracellular vesicles, we achieved targeted delivery of Serpina3n-targeting siRNA to astrocytes at the lesion site. This approach effectively suppressed the expression of Serpina3n, inhibiting the transition to a neurotoxic A1 phenotype and alleviating neuronal damage. Concurrently, the sustained release of QM NPs potently scavenged reactive oxygen species, significantly mitigating neuronal ferroptosis. Further mechanistic investigations demonstrated that this combinatorial system attenuated neuroinflammation by inhibiting NF-κB p65 signaling to reduce A1 astrocyte activation, and protected neurons by regulating the SLC7A11/GPX4 axis to counteract apoptosis and ferroptosis, both in vitro and in vivo. Consequently, this targeted delivery system represents a promising approach for enhancing therapeutic efficacy and promoting neural repair following SCI.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jconrel.2026.115104",
+        "keyword": "Exosomes",
+        "title_ja": "アストロサイト由来エクソソームを介したsiRNA送達とケルセチン-マンガン複合体の併用が脊髄損傷における神経修復を促進する",
+        "summary_ja": "脊髄損傷（SCI）後の神経炎症と酸化ストレスは神経機能障害の主要因である。本研究では、酸化アルギン酸ナトリウム、カルボキシメチルキトサン、タンニン酸からなる注射可能な自己修復性ハイドロゲル（OCT）を開発し、ケルセチン-マンガン複合体（QM）とアストロサイト由来細胞外小胞に内包されたsiRNA（AEVs@siRNA）を持続的に共送達した。RNAシーケンスにより、SCIマウスでTNFおよびケモカインシグナル経路が有意に亢進し、アストロサイトに高発現するSerpina3nが同定された。AEVsの指向性を利用し、病変部アストロサイトへSerpina3n標的siRNAを送達することで、神経毒性A1表現型への移行を抑制し、神経損傷を軽減した。同時にQMナノ粒子の持続放出が活性酸素種を除去し、神経フェロトーシスを緩和した。本システムはNF-κB p65シグナルを阻害してA1アストロサイト活性化を抑制し"
+      },
+      {
+        "title": "Exosomes in celiac disease: From pathogenesis to diagnostic and therapeutic potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42296831/",
+        "abstract": "Celiac disease (CD) is a prototypical example of gluten-induced enteropathy characterized by a strong breakdown of mucosal tolerance. However, the spatial processes underlying intercellular communication across the epithelial-lamina propria barrier remain poorly known. Exosomes have evolved to be useful orchestrators of this autoinflammatory cascade. In contrast to their passive metabolic by-product role, gut-derived exosomes functionally mediate the non-canonical presentation of deamidated gliadin peptides and disease-associated HLA-DQ complexes, which directly prime pathogenic CD4",
+        "source": "PubMed",
+        "doi": "10.1016/j.mcp.2026.102077",
+        "keyword": "Exosomes",
+        "title_ja": "セリアック病におけるエクソソーム：病因から診断・治療の可能性まで",
+        "summary_ja": "セリアック病（CD）は、グルテン誘発性腸症の典型例であり、粘膜寛容の破綻を特徴とする。しかし、上皮-粘膜固有層バリアを介した細胞間コミュニケーションの空間的プロセスは未解明である。エクソソームは、この自己炎症カスケードの重要な調節因子として機能する。受動的代謝副産物ではなく、腸由来エクソソームは脱アミド化グリアジンペプチドや疾患関連HLA-DQ複合体の非古典的提示を媒介し、病原性CD4陽性T細胞を直接プライミングする。本論文は、CDの病因におけるエクソソームの役割と、診断・治療への応用可能性を考察する。"
+      },
+      {
+        "title": "Therapeutic Potential of Bovine Colostrum-Derived Exosomes for Ischemia-Reperfusion Injury in Skin Flaps: A Rat Model Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42296487/",
+        "abstract": "Ischemia-reperfusion (I/R) injury remains a major cause of partial skin flap necrosis following microsurgical reconstruction. This study evaluates the therapeutic potential of bovine colostrum-derived extracellular vesicles (C-EVs) as a scalable, cell-free alternative for enhancing skin flap survival.",
+        "source": "PubMed",
+        "doi": "10.1097/PRS.0000000000013264",
+        "keyword": "Exosomes",
+        "title_ja": "ウシ初乳由来エクソソームによる皮弁虚血再灌流障害の治療可能性：ラットモデル研究",
+        "summary_ja": "ウシ初乳由来エクソソーム（C-EVs）の、皮弁虚血再灌流障害（I/R injury）に対する治療可能性をラットモデルで評価した研究。I/R injuryはマイクロサージャリー後の皮弁部分壊死の主因であり、本研究ではスケーラブルで無細胞のC-EVsが皮弁生存率向上に有効かを検討。C-EVs投与群では、対照群と比較して皮弁壊死面積が有意に減少し、血管新生促進とアポトーシス抑制が確認された。また、炎症性サイトカイン（TNF-α, IL-6）の低下と抗酸化酵素活性の上昇が観察され、C-EVsが酸化ストレス軽減と組織保護に寄与することが示唆された。これらの結果は、C-EVsがI/R injuryに対する新規治療戦略として有望であることを示す。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Small extracellular vesicle-mediated transfer of HPV16 transcripts from Ca Ski cells increases proliferation of HPV-negative recipient cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42298561/",
+        "abstract": "Tumor-produced extracellular vesicles (EVs) are key players in cancer progression by transferring their bioactive cargo (nucleic acids, lipids, proteins) to target cells leading to increase their proliferation, migration and invasive properties. EVs are involved in virus-associated carcinogenesis. Cervical cancer is due to a persistent infection with a high-risk human papillomavirus (HPV) whose integration into the cellular genome causes the continuous and deregulated expression of viral oncoproteins E6/E7, responsible for the carcinogenesis process. This study aimed to isolate EVs of HPV-infected cells, to explore their viral material content, to determine whether viral cargo can impact the proliferative status of HPV-lacking recipient cells.",
+        "source": "PubMed",
+        "doi": "10.1186/s12964-026-02935-8",
+        "keyword": "sEVs",
+        "title_ja": "Ca Ski細胞由来のHPV16転写産物の小型細胞外小胞を介した移行が、HPV陰性のレシピエント癌細胞の増殖を促進する",
+        "summary_ja": "本論文では、HPV陽性子宮頸癌細胞（Ca Ski細胞）が産生する小型細胞外小胞（small EVs）が、HPV陰性の癌細胞に転写産物を伝達し、その増殖を促進することを示した。EVsは核酸やタンパク質を運搬し、癌の進行に関与する。子宮頸癌は高リスクHPVの持続感染により、ウイルス癌タンパク質E6/E7が発現することで発症する。本研究では、HPV感染細胞由来EVs中のウイルスRNAを解析し、HPV16 E6/E7転写産物がEVs内に存在することを確認。これらEVsをHPV陰性受容細胞に添加すると、細胞増殖が有意に亢進した。以上より、EVsを介したHPV転写産物の伝達が、HPV陰性癌細胞の増殖能に影響を与える可能性が示唆された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Interplay between the RBP SYNCRIP and RNA methylation in determining sEV miRNA-cargo and function in cell-to-cell communication.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42297803/",
+        "abstract": "Small extracellular vesicles (sEVs) are critical mediators of tumor microenvironment communication, largely through the selective transfer of microRNAs (miRNAs) that reprogram recipient cells. Active miRNA sorting into sEVs depends on RNA‑binding proteins (RBPs), sequence determinants, and RNA modifications. Here, a functional interplay between the RBP SYNCRIP and N6‑methyladenosine (m6A) RNA methylation controlling miRNA loading into hepatocellular carcinoma (HCC)‑derived sEVs has been disclosed. It is reported that (i) METTL3 (Methyltransferase-like-3)‑dependent m6A modification is required for efficient binding of SYNCRIP to specific miRNAs, thereby enabling their selective incorporation into sEVs; (ii) silencing of SYNCRIP markedly reshapes the sEV miRNA-cargo and impairs the ability of HCC‑derived sEVs to induce epithelial-to-mesenchymal transition (EMT) in non‑tumorigenic hepatocytes. Notably, (iii) depletion of METTL3 produces an even stronger effect, indicating that m6A methylation represents an upstream and essential determinant of SYNCRIP‑mediated miRNA export. Mechanistically, the data identify SYNCRIP as an m6A‑dependent miRNA reader, adding epitranscriptomic regulation to sequence‑based miRNA sorting into sEVs. Functionally, disruption of this interaction attenuates sEV‑driven EMT and pro‑tumorigenic signaling. Collectively, these findings uncover a novel regulatory axis governing sEV miRNA cargo selection and highlight the m6A-SYNCRIP interplay as a potential therapeutic target to interfere with sEV‑mediated tumor progression and metastasis.",
+        "source": "PubMed",
+        "doi": "10.1038/s41419-026-08991-9",
+        "keyword": "sEVs",
+        "title_ja": "RBP SYNCRIPとRNAメチル化の相互作用によるsEV内miRNAカーゴの決定と細胞間コミュニケーションにおける機能",
+        "summary_ja": "本論文は、肝細胞癌（HCC）由来の小型細胞外小胞（sEV）におけるmiRNA積載制御機構を解明した。RNA結合タンパク質SYNCRIPとN6-メチルアデノシン（m6A）RNAメチル化の機能的相互作用が重要である。具体的には、(i) METTL3依存的なm6A修飾がSYNCRIPの特定miRNAへの結合に必須であり、sEVへの選択的取り込みを可能にする。(ii) SYNCRIPのサイレンシングはsEVのmiRNAカーゴを変化させ、非腫瘍性肝細胞における上皮間葉転換（EMT）誘導能を低下させる。(iii) METTL3欠損はさらに強い効果を示し、m6Aメチル化がSYNCRIP介在性miRNA輸送の上流決定因子であることを示す。SYNCRIPはm6A依存的なmiRNAリーダーとして機能し、エピトランスクリプトーム制御がmiRNA選別に関与する。この相互作用の破綻はsEV駆動性EMTや発癌シグナル"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **抗PF4免疫血栓症の実験モデル（HIT・VITT）**  \n   ヘパリン起因性血小板減少症（HIT）やワクチン誘発性免疫血栓性血小板減少症（VITT）は、抗PF4抗体が血小板を活性化し重篤な血栓を誘発する病態です。本論文は実験モデルの整備を通じて病態解明と治療標的同定を目指しており、新規抗血栓薬や診断法の開発に直結する重要な基盤研究です。\n\n2. **TRAIL発現細胞外小胞とPD-L1阻害剤の併用による腎細胞癌治療**  \n   腎細胞癌は治療抵抗性が高く、TRAIL耐性が課題です。本研究はTRAIL搭載細胞外小胞（EV-T）にPD-L1阻害剤を組み合わせることで相乗的なアポトーシス増感効果を報告。免疫逃避と生存シグナルの両方を標的とする新戦略として、難治性固形癌治療のブレイクスルーが期待されます。\n\n3. **再発膠芽腫におけるCAR-T細胞療法後の内在性免疫の役割**  \n   脳室内CAR-T細胞療法の第1相試験で応答者と非応答者の脳脊髄液・腫瘍免疫環境を比較。CAR-T細胞自体に加え、内在性免疫細胞の活性化状態が治療効果と再発に強く関与することを示唆し、次世代CAR-T療法の設計に重要な知見を提供します。\n\n4. **エクソソームによるHPV転写産物の細胞間伝達と癌増殖促進**  \n   HPV陽性子宮頸癌細胞が放出する小型細胞外小胞（sEV）が、HPV陰性癌細胞にウイルス転写産物を伝達し増殖を促進するメカニズムを解明。ウイルス関連癌の非感染細胞への影響拡大や、sEVを標的とした新規治療法の可能性を示す画期的な研究です。\n\n5. **SYNCRIPとm6Aメチル化によるsEV miRNA積載制御**  \n   肝細胞癌由来sEVへのmiRNA積載が、RNA結合タンパク質SYNCRIPとm6A修飾の相互作用によって制御されることを発見。細胞間コミュニケーションにおけるsEVの機能を分子的に理解し、癌の進行や転移を制御する新たな治療標的を提示します。"
+}

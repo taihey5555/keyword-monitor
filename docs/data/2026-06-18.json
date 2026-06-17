@@ -1,0 +1,175 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "FGF21 reduces ER stress by enhancing the unfolded protein and integrated stress responses through increased sulfide signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42302784/",
+        "abstract": "Fibroblast growth factor 21 (FGF21) is an endocrine hormone with broad metabolic actions at supraphysiological concentrations but unclear physiological function, related to endoplasmic reticulum (ER) stress. ER stress activates the unfolded protein response (UPR), a cellular repair mechanism that maintains cellular homeostasis during protein folding stress. Using proximity labeling, we assessed the intracellular action of FGF21 at its receptor β-klotho (KLB) and discovered associations with protein folding in the ER, ER stress, and H",
+        "source": "PubMed",
+        "doi": "10.1016/j.cmet.2026.05.011",
+        "keyword": "Klotho",
+        "title_ja": "FGF21は硫化水素シグナルを増強することで、折りたたみ不全タンパク質応答と統合的ストレス応答を促進し、小胞体ストレスを軽減する。",
+        "summary_ja": "FGF21は、生理的濃度では不明瞭だが、高濃度で広範な代謝作用を示す内分泌ホルモンであり、小胞体（ER）ストレスと関連する。ERストレスは、タンパク質折りたたみストレス時に細胞恒常性を維持する unfolded protein response (UPR) を活性化する。本研究では、近接標識法を用いて、FGF21の受容体β-klotho (KLB) における細胞内作用を評価し、ER内のタンパク質折りたたみ、ERストレス、硫化水素シグナルとの関連を発見した。FGF21は硫化水素シグナルを増強することで、UPRおよび統合的ストレス応答を促進し、ERストレスを軽減することが示された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Extracellular vesicles in nipple discharge for breast cancer screening.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42307695/",
+        "abstract": "Nipple discharge (ND) is one of its major symptoms of breast cancer. However, the low volume of NDs has limited their diagnostic capability. This study aimed to identify extracellular vesicles (EVs) miRNAs in ND using cellulose nanofiber (CNF) sheets to develop clinical biomarkers.",
+        "source": "PubMed",
+        "doi": "10.1007/s10549-026-07975-9",
+        "keyword": "Exosomes",
+        "title_ja": "乳頭分泌液中の細胞外小胞を用いた乳がんスクリーニング",
+        "summary_ja": "本研究は、乳がんの主要症状の一つである乳頭分泌液（ND）に着目し、その微量サンプルから細胞外小胞（EVs）由来miRNAを同定し、臨床バイオマーカーを開発することを目的とした。NDは診断上有用だが、採取量が少ないため解析が困難であった。そこで、セルロースナノファイバー（CNF）シートを用いてEVsを効率的に回収し、miRNAプロファイリングを実施。その結果、CNFシートによりND中のEVs miRNAが高感度に検出可能となり、乳がんスクリーニングにおける新たな非侵襲的バイオマーカーとしての有用性が示唆された。"
+      },
+      {
+        "title": "An injectable SFMA/HA-E hydrogel for sustained delivery of hucMSC-derived exosomes promotes myocardial repair after infarction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42304508/",
+        "abstract": "Myocardial infarction (MI) causes permanent loss of cardiomyocytes and heart failure. Human umbilical cord mesenchymal stem cell-derived exosomes (hucMSCs-Exos) have shown therapeutic potential. Still, their clinical utility is limited by rapid systemic clearance, highlighting the need for a delivery system to achieve sustained release and effect.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05097-z",
+        "keyword": "Exosomes",
+        "title_ja": "注射用SFMA/HA-E水凝胶持续递送hucMSC来源外泌体促进梗死后心肌修复",
+        "summary_ja": "タイトル：注射可能なSFMA/HA-EハイドロゲルによるhucMSC由来エクソソームの持続的送達が心筋梗塞後の修復を促進\n\n心筋梗塞（MI）は心筋細胞の不可逆的喪失と心不全を引き起こす。ヒト臍帯間葉系幹細胞由来エクソソーム（hucMSCs-Exos）は治療可能性を示すが、全身クリアランスが速いため臨床応用が制限される。そこで、持続的な放出と効果を実現する送達システムが必要とされる。本研究では、注射可能なSFMA/HA-Eハイドロゲルを用いてhucMSCs-Exosを徐放するシステムを開発。このハイドロゲルは生体適合性が高く、エクソソームの局所滞留時間を延長し、心筋梗塞後の心機能改善、線維化抑制、血管新生促進に寄与した。本アプローチは、MI治療におけるエクソソームの臨床応用を促進する可能性がある。"
+      },
+      {
+        "title": "Lipid-based Nano-delivery systems as a promising strategy for the treatment of epilepsy: Current status and challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42303582/",
+        "abstract": "Epilepsy is a prevalent chronic neurological disorder characterized by abnormal neuronal electrical activity. The primary treatment modality for individuals with epilepsy (PWE) is antiseizure medication (ASM). The multiple potential factors contributing to treatment resistance in epilepsy may be attributed to the inability of ASMs to traverse the blood-brain barrier (BBB). Consequently, it is imperative to identify a solution, and optimally, enhance ASM efficacy.",
+        "source": "PubMed",
+        "doi": "10.1002/epi4.13137",
+        "keyword": "Exosomes",
+        "title_ja": "脂質ベースのナノ送達システムによるてんかん治療の有望な戦略：現状と課題",
+        "summary_ja": "てんかんは異常な神経電気活動を特徴とする慢性神経疾患であり、主な治療法は抗発作薬（ASM）である。治療抵抗性の要因として、ASMが血液脳関門（BBB）を通過できないことが挙げられる。そこで、ASMの効果を高める解決策として、脂質ベースのナノ送達システムが注目されている。本論文は、その現状と課題を概説する。"
+      },
+      {
+        "title": "Retraction notice to \"Exploring the molecular mechanisms of MSC-derived exosomes in Alzheimer's disease: Autophagy, insulin and the PI3K/Akt/mTOR signaling pathway\" [Biomedicine & Pharmacotherapy 176 (2024) 116836].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42303509/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.biopha.2026.119641",
+        "keyword": "Exosomes",
+        "title_ja": "「アルツハイマー病におけるMSC由来エクソソームの分子メカニズムの探求：オートファジー、インスリン、およびPI3K/Akt/mTORシグナル伝達経路」に関する撤回通知 [Biomedicine & Pharmacotherapy 176 (2024) 116836]",
+        "summary_ja": "以下の論文は、著者らの要請により撤回されました。タイトルは「Exploring the molecular mechanisms of MSC-derived exosomes in Alzheimer's disease: Autophagy, insulin and the PI3K/Akt/mTOR signaling pathway」で、Biomedicine & Pharmacotherapy 176 (2024) 116836に掲載されました。撤回理由は、論文内の図やデータの信頼性に関する懸念が生じたためです。編集部は調査の結果、撤回を決定しました。本論文では、間葉系幹細胞由来エクソソームがアルツハイマー病において、オートファジー、インスリン、およびPI3K/Akt/mTORシグナル伝達経路を介した分子メカニズムを探る内容でしたが、現在は撤回されています。"
+      },
+      {
+        "title": "Exosomes in Hair Restoration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42303353/",
+        "abstract": "Androgenetic alopecia is the most common cause of progressive hair loss and has substantial impact on quality of life. Conventional treatments, including minoxidil and finasteride, are limited by variable response rates and side effects. Exosomes, which are nanosized extracellular vesicles involved in cell-cell communications, have emerged as promising candidates in hair restoration. Preclinical studies indicate that exosomes can enhance hair follicle regeneration by promoting dermal papilla and outer root sheath cell proliferation and migration, increasing follicle bulb size and hair shaft elongation. Early clinical data are encouraging, but further trials are needed to establish optimal dosing and standardized protocols.",
+        "source": "PubMed",
+        "doi": "10.1016/j.det.2026.02.001",
+        "keyword": "Exosomes",
+        "title_ja": "毛包再生におけるエクソソーム",
+        "summary_ja": "アンドロゲン性脱毛症は進行性脱毛の最も一般的な原因であり、生活の質に大きな影響を与える。従来の治療法（ミノキシジル、フィナステリド）は効果の個人差や副作用が課題である。エクソソームは、細胞間コミュニケーションに関与するナノサイズの細胞外小胞であり、毛髪再生の有望な候補として注目されている。前臨床研究では、エクソソームが毛乳頭細胞や外毛根鞘細胞の増殖・遊走を促進し、毛包球サイズや毛幹伸長を増加させることで毛包再生を高めることが示されている。初期の臨床データは有望だが、至適用量と標準化プロトコルの確立にはさらなる試験が必要である。"
+      },
+      {
+        "title": "CRISPR Cas9 revolutionizing genetic engineering and therapeutic applications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42303162/",
+        "abstract": "Genetic engineering has been transformed by CRISPR-Cas9 technology, offering high precision and adaptability in biological research and therapeutic innovation. Originating from a bacterial defense system, CRISPR-Cas9 enables targeted DNA editing through guide RNA-directed Cas9 nuclease activity, allowing gene modification, mutation correction, and disease mechanism analysis. This has opened new avenues in personalized medicine and gene therapy, particularly for cancer and inherited disorders, alongside applications in agriculture. In oncology, CRISPR-Cas9 demonstrates strong potential in oncogene targeting, immune cell engineering, and CAR-T-based immunotherapy, supported by substantial preclinical success. Delivery efficiency is enhanced through systems such as exosomes, liposomes, and nanoparticles, improving stability and tumor targeting. However, clinical translation remains constrained by off-target effects, delivery limitations, and ethical concerns in human genome editing, particularly germline modification. CRISPR shows therapeutic promise for muscular dystrophy, sickle cell disease, and cystic fibrosis. Emerging platforms including base editing, prime editing, and dCas9-based epigenome editing enable precise genome and gene regulation without double-strand breaks, reducing toxicity and expanding therapeutic scope in cancer and genetic diseases. Regulatory frameworks remain heterogeneous, affecting translation. The United States leads in approvals and clinical progress, the European Union emphasizes safety and ethics, China shows rapid expansion in clinical trials, and India remains in early stages due to regulatory and infrastructure constraints. Public perception influences adoption, shaped by misinformation and limited awareness. Persistent gaps in long-term safety, clinical efficacy, and population diversity remain challenges. Overall, CRISPR-Cas9 represents a transformative but carefully regulated platform for advancing biotechnology and medicine.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jbiotec.2026.06.012",
+        "keyword": "Exosomes",
+        "title_ja": "CRISPR Cas9が遺伝子工学と治療応用に革命をもたらす",
+        "summary_ja": "CRISPR-Cas9技術は、細菌の防御機構に由来し、ガイドRNAによるCas9ヌクレアーゼ活性を介して標的DNA編集を可能にし、遺伝子工学を変革した。これにより、遺伝子改変、変異修正、疾患メカニズム解析が進み、がんや遺伝性疾患への個別化医療や遺伝子治療、農業応用が拡大。特に腫瘍学では、がん遺伝子標的化、免疫細胞工学、CAR-T免疫療法で前臨床的成功を収め、エクソソームやリポソーム、ナノ粒子による送達効率が向上。しかし、オフターゲット効果、送達制限、生殖細胞編集の倫理問題が臨床応用を制約。筋ジストロフィーや鎌状赤血球症、嚢胞性線維症への治療可能性が示され、塩基編集やプライム編集、dCas9ベースのエピゲノム編集が二本鎖切断を回避し毒性を低減。規制は不均一で、米国が承認と臨床進展を主導、EUは安全性と倫理を重視、中国は臨床試験で急速拡大、インドは初期段階。長期的安全性や集団多様性の課題が残る"
+      },
+      {
+        "title": "Hypericum perforatum L.: a legacy of herbal medicine in light of modern scientific evidence.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42302936/",
+        "abstract": "Hypericum perforatum L. has been used for centuries in traditional medicine, with core therapeutic applications including alleviation of emotional, wound and burn healing and neurological disorders, and antiparasitic treatments.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jep.2026.122066",
+        "keyword": "Exosomes",
+        "title_ja": "セイヨウオトギリソウ（Hypericum perforatum L.）：現代の科学的エビデンスから見るハーブ医学の遺産",
+        "summary_ja": "セイヨウオトギリソウ（Hypericum perforatum L.）は、伝統医学において何世紀にもわたり使用されてきた。その主要な治療応用には、感情障害の緩和、創傷・火傷の治癒、神経疾患の改善、および抗寄生虫治療が含まれる。本論文は、現代の科学的エビデンスに基づき、これらの伝統的利用法を検証する。特に、抗うつ作用に関する研究が進んでおり、有効成分であるヒペリシンやヒペルホリンが関与するメカニズムが注目されている。また、創傷治癒や抗炎症効果についても、in vitroおよびin vivo研究で支持されている。しかし、標準化や臨床試験の質に課題が残る。伝統的な知恵と現代科学の統合が、本植物の医療応用の可能性をさらに広げると結論づけられる。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "The miR-212-3p/transferrin axis promotes bone regeneration by modulating iron homeostasis through Schwann cell Exosome-BMSCs communication.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42306049/",
+        "abstract": "Functional bone regeneration relies on cross talk between nerves and bone, yet the regulatory mechanisms linking Schwann cells (SCs) to osteoporotic bone marrow mesenchymal stem cells (OP-BMSCs) remain unclear. This study demonstrated that SC-Exosomes (Exos) promoted the osteogenic differentiation of OP-BMSCs, and miRNA-mRNA sequencing revealed that SC-Exos, which contained the key mediator miR-212-3p, facilitated osteogenesis by suppressing the ferroptosis pathway in OP-BMSCs. miR-212-3p overexpression combined with transferrin (TF) knockdown or overexpression confirmed that miR-212-3p suppresses TF expression and validated the role of the miR-212-3p/TF axis, which maintained iron homeostasis in BMSCs, alleviated iron overload and oxidative stress, and promoted osteogenic differentiation. Furthermore, an injectable SC-Exos-loaded gelatin methacrylate hydrogel (SC-Exos/GelMA) targeting BMSCs was constructed. ",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.05.053",
+        "keyword": "Exosomes",
+        "title_ja": "miR-212-3p/トランスフェリン軸は、シュワン細胞エクソソームとBMSCsの相互作用を介して鉄代謝恒常性を調節し、骨再生を促進する",
+        "summary_ja": "本研究聚焦于Schwann细胞（SCs）与骨质疏松骨髓间充质干细胞（OP-BMSCs）间的调控机制。结果表明，SC来源的外泌体（SC-Exos）可促进OP-BMSCs的成骨分化。miRNA-mRNA测序揭示，SC-Exos中的关键介质miR-212-3p通过抑制OP-BMSCs的铁死亡通路来促进成骨。miR-212-3p过表达结合转铁蛋白（TF）敲低或过表达实验证实，miR-212-3p可抑制TF表达，并验证了miR-212-3p/TF轴的作用：该轴通过维持BMSCs的铁稳态，减轻铁过载和氧化应激，从而促进成骨分化。此外，研究构建了可注射的负载SC-Exos的明胶甲基丙烯酰水凝胶（SC-Exos/GelMA），靶向BMSCs。"
+      },
+      {
+        "title": "Dual-Modulation of Charge Transfer in Surface-Enhanced Raman Scattering for Qualitative and Quantitative Exosome Detection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42304977/",
+        "abstract": "The practical application of chemical-mechanism-based surface-enhanced Raman scattering (SERS) is often limited by the static charge-transfer process in conventional semiconductor substrates. Herein, we propose a multifunctional photoelectric platform that enables dynamic dual-modulation of the photoinduced charge transfer (PICT) process for ultrasensitive SERS bioanalysis. Upon mechanical stimulation, the polyvinylidene fluoride (PVDF) matrix generates a built-in electric field, which effectively lowers the excitation barrier and further promotes the PICT efficiency, thereby exhibiting an enhancement factor (EF) with nearly 10-fold improvement under a pressure of only 3 N. Beyond piezoelectric regulation, the NaGdF",
+        "source": "PubMed",
+        "doi": "10.1021/acssensors.6c01738",
+        "keyword": "Exosomes",
+        "title_ja": "表面増強ラマン散乱における電荷移動の二重変調によるエクソソームの定性・定量検出",
+        "summary_ja": "本論文は、半導体基板における静的な電荷移動の限界を克服するため、表面増強ラマン散乱（SERS）における光誘起電荷移動（PICT）プロセスを動的に二重変調可能な多機能光電プラットフォームを提案する。機械的刺激により、ポリフッ化ビニリデン（PVDF）マトリックスが内部電場を発生させ、励起障壁を低下させてPICT効率を向上。わずか3Nの圧力で増強因子（EF）が約10倍向上した。圧電制御に加え、NaGdFを用いた追加変調により、高感度かつ定量的なエクソソーム検出を実現した。"
+      },
+      {
+        "title": "Exosomal LINC01106 From PRP-Treated ADSCs Alleviates Chondrocyte Inflammatory Injury by Sponging miR-34a-5p to Upregulate SIRT1 Expression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42303604/",
+        "abstract": "ObjectiveOsteoarthritis (OA) is characterized by progressive cartilage degeneration driven by inflammation-induced chondrocyte injury, while effective disease-modifying therapies are still lacking. Exosome-based cell-free approaches are emerging as promising alternatives, but their key molecular mediators remain incompletely defined.DesignAdipose-derived stem cells (ADSCs) were pretreated with platelet-rich plasma (PRP) to enhance exosomal function. Isolated exosomes were characterized, and LINC01106 expression was modulated by overexpression or knockdown. Interleukin (IL)-1β-stimulated chondrocytes were used to assess apoptosis, inflammatory cytokine secretion, oxidative stress, and extracellular matrix degradation. The LINC01106/miR-34a-5p/SIRT1 axis was examined using luciferase reporter assays, quantitative real-time polymerase chain reaction (PCR), Western blotting, and immunofluorescence.ResultsPRP pretreatment markedly increased LINC01106 enrichment in ADSC-derived exosomes. LINC01106-rich exosomes significantly reduced chondrocyte apoptosis, suppressed tumor necrosis factor-α (TNF-α) and IL-6 secretion, alleviated oxidative stress, and attenuated matrix metalloproteinase (MMP)-mediated matrix degradation under IL-1β stimulation. Mechanistically, LINC01106 acted as a competing endogenous RNA that sequestered miR-34a-5p, thereby restoring SIRT1 expression. Rescue experiments demonstrated that miR-34a-5p overexpression or SIRT1 silencing abolished these protective effects. In addition, LINC01106-enriched exosomes inhibited nuclear factor-κB (NF-κB) and mitogen-activated protein kinase (MAPK) pathway activation in a SIRT1-dependent manner.ConclusionPRP-stimulated ADSC-derived exosomes confer potent chondroprotective effects through the LINC01106/miR-34a-5p/SIRT1 pathway, highlighting a promising cell-free therapeutic strategy for OA.",
+        "source": "PubMed",
+        "doi": "10.1177/19476035261445874",
+        "keyword": "Exosomes",
+        "title_ja": "PRP処理ADSC由来のエクソソームLINC01106は、miR-34a-5pをスポンジングしてSIRT1発現を上方制御することで軟骨細胞の炎症性損傷を軽減する",
+        "summary_ja": "変形性関節症（OA）は炎症による軟骨細胞障害が進行する疾患で、有効な治療法が不足している。本研究では、血小板豊富血漿（PRP）で前処理した脂肪由来幹細胞（ADSC）から分泌されるエクソソームに着目した。PRP処理によりエクソソーム中のLINC01106が増加し、このエクソソームはIL-1β刺激下の軟骨細胞においてアポトーシス、TNF-α・IL-6分泌、酸化ストレス、MMP介在性マトリックス分解を抑制した。機構的には、LINC01106がmiR-34a-5pをスポンジングし、SIRT1発現を回復。miR-34a-5p過剰発現やSIRT1ノックダウンで保護効果は消失した。さらに、LINC01106豊富エクソソームはSIRT1依存的にNF-κBおよびMAPK経路の活性化を阻害した。以上より、PRP刺激ADSC由来エクソソームはLINC01106/miR-34a-5p/SIRT1経路を介して軟骨保"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Comparative outcomes of balloon-expandable and self-expanding valves in Transcatheter aortic valve replacement: A systematic review and Meta-analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42303223/",
+        "abstract": "Balloon-expandable valves (BEVs) and self-expanding valves (SEVs) are the two primary platforms for transcatheter aortic valve replacement (TAVR), differing in design, deployment, and hemodynamic performance. Comparative evidence on their clinical and procedural outcomes remains limited and inconsistent.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jjcc.2026.06.009",
+        "keyword": "sEVs",
+        "title_ja": "経カテーテル大動脈弁置換術におけるバルーン拡張型弁と自己拡張型弁の比較結果：系統的レビューとメタ分析",
+        "summary_ja": "本系統综述与荟萃分析比较了经导管主动脉瓣置换术（TAVR）中球囊扩张式瓣膜（BEVs）与自膨式瓣膜（SEVs）的临床与手术结局。两种瓣膜在设计、释放方式及血流动力学性能上存在差异，但既往比较性证据有限且不一致。研究纳入多项临床试验，分析主要结局包括全因死亡率、卒中、起搏器植入率、瓣周漏及血流动力学参数。结果显示，BEVs与SEVs在短期及中期死亡率、卒中发生率方面无显著差异。但SEVs组起搏器植入率及中重度瓣周漏发生率较高，而BEVs组跨瓣压差更低、有效瓣口面积更大。结论指出，两种瓣膜平台各有优劣，选择需个体化考虑患者解剖结构与临床风险。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **FGF21とERストレス応答**  \n   FGF21が硫化シグナルを介して小胞体（ER）ストレスを軽減するメカニズムが示された。ERストレスは糖尿病や神経変性疾患の病態に関与するため、FGF21を標的とした治療戦略の基盤となる可能性がある。\n\n2. **乳頭分泌液EVsによる乳がんスクリーニング**  \n   微量な乳頭分泌液から細胞外小胞（EVs）由来miRNAを同定し、乳がんの非侵襲的バイオマーカー開発を目指す。従来の採取困難を克服する点で臨床応用への期待が高い。\n\n3. **hucMSCエクソソーム徐放ハイドロゲルによる心筋修復**  \n   注射可能なハイドロゲルを用いてヒト臍帯間葉系幹細胞由来エクソソームを持続送達し、心筋梗塞後の修復を促進。再生医療におけるDDS技術の進展を示す。\n\n4. **エクソソームによる脱毛症治療**  \n   アンドロゲン性脱毛症に対し、エクソソームが従来治療の課題（効果の個人差・副作用）を克服する新規アプローチとして注目される。毛包再生への応用が期待される。\n\n5. **CRISPR-Cas9による遺伝子治療の革新**  \n   ガイドRNAとCas9による精密なDNA編集技術は、がんや遺伝性疾患の個別化治療を可能にする。倫理的課題はあるが、医療応用の可能性は極めて大きい。"
+}

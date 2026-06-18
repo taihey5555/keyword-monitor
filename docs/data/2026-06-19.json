@@ -1,0 +1,248 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Klotho suppresses cyst growth in ADPKD through the regulation of ferroptosis and reversing DNA methylation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42314074/",
+        "abstract": "Autosomal dominant polycystic kidney disease (ADPKD) is characterized by progressive cyst growth, inflammation, fibrosis, and renal failure. Klotho is a renoprotective protein with anti-proliferative, anti-inflammatory, and antioxidant properties, but its mechanistic role in ADPKD remains poorly defined.",
+        "source": "PubMed",
+        "doi": "10.1093/ndt/gfag141",
+        "keyword": "Klotho",
+        "title_ja": "Klotho はフェロトーシスの制御とDNAメチル化の逆転を介してADPKDにおける嚢胞増殖を抑制する",
+        "summary_ja": "タイトル：Klothoはフェロトーシス制御とDNAメチル化の逆転を介してADPKDの嚢胞増殖を抑制する\n\n内容：常染色体優性多発性嚢胞腎（ADPKD）は、進行性の嚢胞増殖、炎症、線維化、腎不全を特徴とする。Klothoは抗増殖、抗炎症、抗酸化作用を持つ腎保護タンパク質であるが、ADPKDにおけるその機序的役割は不明である。本研究では、Klothoがフェロトーシス（鉄依存性細胞死）を制御し、異常なDNAメチル化を逆転させることで嚢胞増殖を抑制することを明らかにした。これにより、KlothoがADPKDの新たな治療標的となる可能性が示唆された。"
+      },
+      {
+        "title": "The role of fibroblast growth factor 21 in diabetes and metabolic dysfunction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42313341/",
+        "abstract": "Fibroblast growth factor 21 (FGF21) is an endocrine hormone central to metabolic regulation under nutritional and cellular stress. Predominantly synthesized by the liver, FGF21 exerts pleiotropic effects through fibroblast growth factor receptor 1c (FGFR1c) and its co receptor β-Klotho, targeting adipose tissue, skeletal muscle, pancreas, and the central nervous system. In diabetes mellitus, FGF21 enhances insulin sensitivity, stimulates adiponectin secretion, alleviates hepatic steatosis, and protects pancreatic β-cells from oxidative and endoplasmic reticulum stress. These effects are mediated via key molecular pathways, including AMPK, SIRT1, PGC-1α, and mTOR signaling. Interestingly, despite elevated circulating FGF21 levels in obesity and type 2 diabetes, biological responsiveness is diminished-a phenomenon termed FGF21 resistance, characterised by impaired receptor expression, inflammatory signaling interference, and downstream signaling deficits. This review presents an in depth mechanistic overview of FGF21 signaling, its regulatory networks, and implications for glucose and lipid homeostasis, inflammation, mitochondrial health, and autophagy. Additionally, it discusses the development of pharmacologically optimized FGF21 analogs and multi agonists designed to overcome resistance and enhance therapeutic efficacy. As our comprehension of FGF21 biology deepens, elucidation of its molecular processes, resistance phenomena, and pharmacological refinement will be crucial in establishing FGF21 as a fundamental element of precision medicine for metabolic illnesses. The incorporation of FGF21 based strategies with combinatorial pharmacotherapy and tissue targeted delivery methods offers a potential approach to tackle the complicated pathophysiology of diabetes and improve clinical outcomes in affected populations.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12132-y",
+        "keyword": "Klotho",
+        "title_ja": "線維芽細胞増殖因子21の糖尿病および代謝機能障害における役割",
+        "summary_ja": "線維芽細胞増殖因子21（FGF21）は、肝臓で主に合成される内分泌ホルモンであり、栄養・細胞ストレス下で代謝調節の中核を担う。受容体FGFR1cと共受容体β-Klothoを介し、脂肪組織、骨格筋、膵臓、中枢神経系に作用する。糖尿病においてFGF21は、インスリン感受性の向上、アディポネクチン分泌促進、肝脂肪症の軽減、膵β細胞の酸化・小胞体ストレス保護を発揮する。これらの効果はAMPK、SIRT1、PGC-1α、mTOR経路を介する。肥満や2型糖尿病では血中FGF21が上昇するが、受容体発現低下や炎症シグナル干渉により生物学的応答性が減弱する「FGF21抵抗性」が生じる。本総説は、FGF21シグナル伝達、調節ネットワーク、糖・脂質恒常性、炎症、ミトコンドリア機能、オートファジーへの影響を機構的に概説する。さらに、抵抗性克服を目指した薬理学的に最適化されたFGF21アナログやマルチアゴニストの"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Treatment-Free Remission and Immune Profiling after Frontline Second-Generation TKI Therapy in CML.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42314090/",
+        "abstract": "Treatment-free remission (TFR) is a major therapeutic goal in chronic myeloid leukemia (CML). This study analyzed 5-year follow-up data and immune profiling from two independent phase 2 trials, JALSG N-STOP216 (nilotinib [NIL], n=51) and D-STOP216 (dasatinib [DAS], n=49), involving patients who discontinued frontline 2G-TKIs after sustaining deep molecular response (DMR) for ≥2 years. Both trials successfully met their primary endpoints, with 12-month TFR rates of 76.5% and 55.1% in the NIL and DAS trials, respectively. No disease progression was observed, confirming the safety of this strategy. The 5-year treatment-free survival (TFS) rates were 68.6% and 50.9% for NIL and DAS patients, respectively. While recurrent cases in both cohorts rapidly regained a molecular response, NIL-treated patients showed a more gradual molecular recurrence and a persistent gap between TFS and event-free survival, suggesting relatively stable immune surveillance. Comparative immune profiling, although exploratory, suggested an \"immune paradox\" in the DAS cohort, characterized by expansion of effector memory T cells and mature CD57+ CD56dim NK cells alongside depletion of the \"immune reservoir\" of naïve and central memory cells. In the D-STOP trial, the retreatment group showed higher levels effector Tregs and exhausted CD4+ T cells than the TFR group. Furthermore, elevated pre-discontinuation IL-1β and IL-6 levels were associated with molecular relapse. These findings suggest that 2G-TKI-specific off-target effects influence TFR sustainability by modulating the immune microenvironment and the CD4+ helper cell status. JALSG N-STOP216 (UMIN000024984); JALSG D-STOP216 (UMIN000024985).",
+        "source": "PubMed",
+        "doi": "10.1182/bloodadvances.2026020915",
+        "keyword": "NK cell therapy",
+        "title_ja": "CMLにおける第一選択第二世代TKI療法後の治療なし寛解と免疫プロファイリング",
+        "summary_ja": "本論文は、慢性骨髄性白血病（CML）に対する第一選択第二世代チロシンキナーゼ阻害薬（2G-TKI）治療後の治療なし寛解（TFR）と免疫プロファイリングを解析した。2つの第2相試験（JALSG N-STOP216：ニロチニブ[NIL]51例、D-STOP216：ダサチニブ[DAS]49例）において、深い分子学的反応（DMR）を2年以上維持した患者が2G-TKIを中止。12カ月TFR率はNIL群76.5%、DAS群55.1%で、疾患進行は認めず安全性が確認された。5年治療なし生存率はNIL群68.6%、DAS群50.9%。再発例は速やかに分子学的反応を回復したが、NIL群では緩徐な再発と免疫監視の安定性が示唆された。DAS群では「免疫パラドックス」として、エフェクターメモリーT細胞や成熟NK細胞の増加と、ナイーブ・セントラルメモリー細胞の減少が観察。再治療群ではTFR群よりエフェクターTreg"
+      },
+      {
+        "title": "TFPI2 promotes NK cell-mediated glioblastoma killing through adhesion and checkpoint control.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42313930/",
+        "abstract": "Immune-mediated killing triggers dynamic transcriptional adaptations in tumor cells that can reciprocally regulate the cytolytic process. Unraveling such feedback mechanisms is crucial for advancing cancer immunotherapy. Here, we identified tissue factor pathway inhibitor 2 (TFPI2) as a central node in natural killer (NK)-glioblastoma cross talk. Using transcriptomic and functional approaches, we demonstrated that NK cell attack induces TFPI2 expression in glioblastoma cells via IL1β- and TNFα-driven activation of NFκB signaling. TFPI2 not only restrains tumor proliferation by suppressing the POU2F2-CCND1 axis but also enhances NK cytotoxicity through two complementary mechanisms: It supports optimal ICAM1 expression to promote NK-tumor adhesion, and it selectively represses the immune checkpoint molecule SIGLEC15, restoring NK cell effector function. In vivo, loss of TFPI2 accelerates glioblastoma progression and abrogates the efficacy of adoptive NK cell therapy in a context-dependent manner; the functionality is likely restricted to tumors retaining the capacity for TFPI2 induction upon inflammatory stimuli. Our findings identified the TFPI2-ICAM1 and TFPI2-SIGLEC15 axes as conditional regulators of immune-tumor adhesion and checkpoint control, supporting TFPI2 as a candidate therapeutic target for a subset of glioblastomas amenable to inflammatory reprogramming.",
+        "source": "PubMed",
+        "doi": "10.1073/pnas.2529973123",
+        "keyword": "NK cell therapy",
+        "title_ja": "TFPI2は接着とチェックポイント制御を介してNK細胞による膠芽腫の殺傷を促進する",
+        "summary_ja": "本論文は、グリオブラストーマ（GBM）とNK細胞の相互作用において、TFPI2が重要な役割を果たすことを明らかにした。NK細胞の攻撃により、IL1βおよびTNFαを介したNFκBシグナルが活性化され、GBM細胞でTFPI2発現が誘導される。TFPI2はPOU2F2-CCND1軸を抑制して腫瘍増殖を抑えるとともに、ICAM1発現を最適化してNK細胞との接着を促進し、免疫チェックポイント分子SIGLEC15を選択的に抑制してNK細胞のエフェクター機能を回復させる。in vivoでは、TFPI2の欠損がGBMの進行を加速し、養子NK細胞療法の効果を消失させる。TFPI2-ICAM1軸とTFPI2-SIGLEC15軸は、免疫-腫瘍接着とチェックポイント制御の条件付き調節因子であり、炎症性リプログラミングが可能なGBMサブセットにおける治療標的として有望である。"
+      },
+      {
+        "title": "High-Intensity thermal stress enhances adoptive NK-cell cytotoxicity in poorly differentiated hepatocellular carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42311101/",
+        "abstract": "Percutaneous thermal ablation is used to treat early-stage, non-resectable hepatocellular carcinoma (HCC). NK-cell immunotherapy has been studied as an adjuvant treatment, but the efficacy remains unclear when combined with ablation.",
+        "source": "PubMed",
+        "doi": "10.1080/02656736.2026.2685850",
+        "keyword": "NK cell therapy",
+        "title_ja": "高強度熱ストレスは低分化肝細胞癌における養子NK細胞の細胞傷害性を増強する",
+        "summary_ja": "タイトル：High-Intensity thermal stress enhances adoptive NK-cell cytotoxicity in poorly differentiated hepatocellular carcinoma.\n\n要約：経皮的熱アブレーションは、切除不能な早期肝細胞癌（HCC）の治療に用いられる。NK細胞免疫療法は補助療法として研究されているが、アブレーションとの併用効果は不明である。本研究では、低分化型HCCにおいて、高強度熱ストレスが養子移入NK細胞の細胞傷害性を増強することを示した。熱ストレスはHCC細胞上のNK細胞活性化リガンド発現を誘導し、NK細胞の脱顆粒とサイトカイン産生を促進した。この結果は、熱アブレーション後のNK細胞療法の有効性向上に寄与する可能性を示唆する。"
+      },
+      {
+        "title": "NK cell-based immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42309519/",
+        "abstract": "NK cells have rapidly become a leading platform for cancer immunotherapy. Unlike T cells, NK cells recognize transformed cells through integrated signals from inhibitory and activating receptors, enabling allogeneic \"off-the-shelf\" therapies without risk of graft-versus-host disease and low rates of cytokine release syndrome and neurotoxicity. Refinement in sourcing of allogenic NK cells, especially umbilical cord blood and induced pluripotent stem cells, ",
+        "source": "PubMed",
+        "doi": "10.1080/21645515.2026.2688610",
+        "keyword": "NK cell therapy",
+        "title_ja": "NK細胞を用いた免疫療法",
+        "summary_ja": "タイトル: NK細胞ベースの免疫療法\n\nNK細胞は、がん免疫療法の主要なプラットフォームとして急速に台頭している。T細胞とは異なり、NK細胞は抑制性および活性化受容体からの統合シグナルを通じて形質転換細胞を認識する。これにより、同種異系の「既製品（off-the-shelf）」療法が可能となり、移植片対宿主病のリスクがなく、サイトカイン放出症候群や神経毒性の発生率も低い。同種NK細胞の供給源の改良、特に臍帯血や人工多能性幹細胞の利用が進んでいる。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Paired pre- and post-transplant human immunoprofiling identifies an IFN-γ-JAK1 axis limiting stem-cell-derived RPE engraftment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42309064/",
+        "abstract": "Neovascular age-related macular degeneration is a major cause of irreversible blindness, and current therapies do not restore photoreceptors or retinal pigment epithelium (RPE). Human embryonic stem-cell-derived RPE (hESC-RPE) transplantation represents a potential regenerative strategy, but immune rejection limits durable engraftment. Here, we combine immune profiling of blood, aqueous humor, and retinal tissue with allogeneic co-cultures and humanized models to define determinants of graft vulnerability and assess a graft-directed intervention. We identify a Th1-skewed, IFN-γ-rich immune milieu across the circulation and eye and show that IFN-γ-JAK1 signaling promotes an immunogenic state in hESC-RPE, marked by increased HLA expression and antigen presentation features. Brief ex vivo conditioning with ruxolitinib attenuates this response while preserving epithelial properties. In humanized retinal degeneration models, conditioned grafts show reduced T/natural killer (NK)-cell infiltration, prolonged survival, and improved visual function without chronic systemic immunosuppression, supporting ex vivo JAK inhibition as a feasible adjunct to RPE cell therapy.",
+        "source": "PubMed",
+        "doi": "10.1016/j.stem.2026.05.006",
+        "keyword": "NK cell therapy",
+        "title_ja": "移植前後のペア免疫プロファイリングにより、幹細胞由来RPE生着を制限するIFN-γ-JAK1軸が同定された。",
+        "summary_ja": "加齢黄斑変性（新生血管型）は不可逆的な失明の主因であり、現行治療では網膜色素上皮（RPE）や光受容細胞を再生できない。ヒト胚性幹細胞由来RPE（hESC-RPE）移植は再生戦略として有望だが、免疫拒絶が生着を制限する。本研究では、血液・房水・網膜組織の免疫プロファイリング、同種共培養、ヒト化モデルを統合し、移植片脆弱性の決定因子を特定し、移植片指向性介入を評価した。その結果、循環系と眼内にTh1偏向・IFN-γ豊富な免疫環境が存在し、IFN-γ-JAK1シグナルがhESC-RPEのHLA発現亢進や抗原提示能増加を介して免疫原性状態を誘導することを示した。ルキソリチニブによる短期ex vivo処理は上皮特性を維持しつつこの応答を減弱させた。ヒト化網膜変性モデルにおいて、処理済み移植片はT細胞・NK細胞浸潤の減少、生着延長、視機能改善を示し、慢性全身性免疫抑制を要さなかった。以上より、ex v"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Shenfu Injection Inhibits Cardiac Fibroblast Activation and Improves Myocardial Fibrosis by Down-regulating M1 Macrophage-Derived Exosomal miR-155-5p.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42313305/",
+        "abstract": "Myocardial fibrosis is a key pathological feature of heart failure (HF) linked to aberrant macrophage polarization. Although the traditional Chinese medicine Shenfu injection (SFI) clinically improves HF and has been found to inhibit M1 macrophage polarization and fibrosis, its mechanisms remain unclear. This study aimed to elucidate how SFI regulates macrophage-cardiac fibroblasts (CFs) communication - specifically via exosomal miR-155-5p from M1 macrophages.",
+        "source": "PubMed",
+        "doi": "10.1007/s10557-026-07901-7",
+        "keyword": "Exosomes",
+        "title_ja": "参附注射液通过下调M1巨噬细胞来源的外泌体miR-155-5p抑制心脏成纤维细胞活化并改善心肌纤维化",
+        "summary_ja": "タイトル：Shenfu Injection Inhibits Cardiac Fibroblast Activation and Improves Myocardial Fibrosis by Down-regulating M1 Macrophage-Derived Exosomal miR-155-5p.\n\n要約：心筋線維症は心不全（HF）の主要な病理特徴であり、異常なマクロファージ分極と関連する。漢方薬である参附注射液（SFI）は臨床的にHFを改善し、M1マクロファージ分極と線維化を抑制するが、その機序は不明である。本研究では、SFIがマクロファージと心臓線維芽細胞（CFs）間の情報伝達を、特にM1マクロファージ由来のエクソソームmiR-155-5pを介してどのように調節するかを解明することを目的とした。"
+      },
+      {
+        "title": "Bacterial extracellular vesicles: emerging players in antimicrobial resistance and clinical translation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42313295/",
+        "abstract": "Antimicrobial resistance (AMR) represents a critical and escalating global health challenge that extends beyond classical genetic mechanisms of resistance acquisition. Increasing evidence highlights extracellular vesicles (EVs) as key mediators of bacterial adaptation, intercellular communication, and resistance dissemination. Among these, bacterial extracellular vesicles (BEVs) play a central role by transporting diverse cargo, including antibiotic resistance genes, mobile genetic elements, antibiotic inactivating enzymes, and immunomodulatory factors. By facilitating horizontal gene transfer (HGT) and non-genetic resistance mechanisms such as antibiotic sequestration, extracellular neutralization, and biofilm reinforcement, BEVs contribute to the emergence and persistence of multidrug-resistant (MDR) infections. This review critically examines the biogenesis, cargo composition, and functional roles of BEVs in bacterial pathogenesis and AMR, while also discussing the complementary influence of host-derived EVs on infection dynamics and antimicrobial responses. We assess emerging evidence supporting EVs as non-invasive biomarkers for resistance surveillance and as adaptable platforms for vaccine development and targeted antimicrobial delivery. Finally, we highlight key unresolved challenges, including vesicle heterogeneity, limited understanding of cargo selection mechanisms, and the lack of standardized isolation and characterization protocols, which must be addressed to enable the clinical and translational integration of EV-based strategies in combating AMR.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12143-9",
+        "keyword": "Exosomes",
+        "title_ja": "細菌性細胞外小胞：抗菌薬耐性と臨床応用における新たなプレイヤー",
+        "summary_ja": "本レビューは、抗菌薬耐性（AMR）における細菌細胞外小胞（BEV）の役割を考察する。BEVは、抗菌薬耐性遺伝子、可動性遺伝因子、抗菌薬不活化酵素、免疫調節因子を内包し、水平遺伝子伝達（HGT）や抗菌薬隔離・中和、バイオフィルム強化を通じて多剤耐性（MDR）感染症の出現・持続に寄与する。また、宿主由来EVの感染動態への影響も議論する。EVは耐性監視の非侵襲的バイオマーカーやワクチン開発、標的型抗菌薬送達プラットフォームとして有望だが、小胞の不均一性、カーゴ選択機構の解明不足、標準化された単離・特性評価プロトコルの欠如が臨床応用への課題である。"
+      },
+      {
+        "title": "Tumor-associated macrophage-derived exosomes promote radio-resistance in nasopharyngeal carcinoma cells accompanied by suppression of the cGAS/STING pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42313148/",
+        "abstract": "Radiotherapy resistance remains a major obstacle in nasopharyngeal carcinoma (NPC), leading to poor prognosis. While tumor-associated macrophages (TAMs) are implicated in radio-resistance, their mechanistic role is unclear. This study investigates the pivotal function of TAM-derived exosomes (TAM-Exos) and their underlying molecular mechanisms in conferring radio-resistance to NPC cells.",
+        "source": "PubMed",
+        "doi": "10.1080/09553002.2026.2686694",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍関連マクロファージ由来のエクソソームは、cGAS/STING経路の抑制を伴い、上咽頭癌細胞における放射線耐性を促進する。",
+        "summary_ja": "タイトル：腫瘍関連マクロファージ由来エクソソームはcGAS/STING経路の抑制を伴い上咽頭癌細胞の放射線耐性を促進する。\n\n内容：放射線治療耐性は上咽頭癌（NPC）の予後不良の主因である。腫瘍関連マクロファージ（TAMs）は放射線耐性に関与するが、その機序は不明である。本研究は、TAM由来エクソソーム（TAM-Exos）がNPC細胞に放射線耐性を付与する際の分子的役割を解明した。TAM-ExosはcGAS/STING経路を抑制することで、放射線誘導性の免疫応答を減弱させ、NPC細胞の生存を促進することを示した。この知見は、TAM-Exosを標的とした新たな治療戦略の可能性を示唆する。"
+      },
+      {
+        "title": "Exosome engineering and molecular tools for targeted therapy of brain-infecting pathogens: delivery systems, signaling pathways, and therapeutic applications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42310715/",
+        "abstract": "Brain infections, caused by various pathogens (such as viruses, bacteria, fungi, or parasites), have proven challenging to treat due to limited drug diffusion through the blood-brain barrier and the presence of intracellular reservoirs. As biologically derived nanocarriers, exosomes have emerged as viable candidates for crossing physiological barriers and effectively delivering target molecules into the central nervous system. This review aims to summarize what is currently known about exosome biogenesis, cargo sorting, and immunological function in relation to infectious disease. In addition, it provides information on how different pathogens have taken advantage of exosomal pathways to increase their virulence and modulate the immune response, while also suggesting options for the therapeutic engineering of exosomes. It critically evaluates technological advances made in exosome engineering, such as CRISPR/Cas9-based cargo loading, ligand-directed surface modification of exosomes, targeted delivery of nucleic acids, and creation of stimuli-responsive release systems for exosome cargo for their potential application as precision therapies against pathogens that infect the brain. Pharmacokinetic data and biodistribution studies, along with studies examining how route of administration, inflammatory status, and receptor mediated uptake affect CNS targeting efficacy reflect that exosome engineering offers a novel platform for creating precision therapeutics against pathogens that infect the brain.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04683-w",
+        "keyword": "Exosomes",
+        "title_ja": "脳感染病原体の標的治療のためのエクソソーム工学と分子ツール：送達システム、シグナル伝達経路、および治療応用",
+        "summary_ja": "脳感染症は、血液脳関門や細胞内リザーバーの存在により治療が困難である。エクソソームは生体由来のナノキャリアとして、これらの障壁を越え中枢神経系へ分子を送達する有望な手段である。本総説は、エクソソームの生合成、カーゴ選別、免疫機能に関する知見をまとめ、病原体がエクソソーム経路を利用して病原性を高め免疫応答を調節する機構を解説する。さらに、CRISPR/Cas9によるカーゴ搭載、リガンド指向性表面修飾、核酸の標的送達、刺激応答性放出システムなど、エクソソーム工学の進歩を評価する。薬物動態、生体内分布、投与経路、炎症状態、受容体介在性取り込みがCNS標的化効率に与える影響に関するデータは、エクソソーム工学が脳感染病原体に対する精密治療の新規プラットフォームを提供することを示している。"
+      },
+      {
+        "title": "Harnessing Serum Exosomal snoRNAs: A Novel Liquid Biopsy Approach for NSCLC Diagnosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42309446/",
+        "abstract": "The low early diagnostic efficacy of non-small cell lung cancer (NSCLC) is a key contributor to its high mortality rate, and small nucleolar RNAs (snoRNAs) in serum exosomes can serve as a beneficial liquid biopsy approach for the early diagnosis of NSCLC.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mcp.2026.102076",
+        "keyword": "Exosomes",
+        "title_ja": "血清エクソソームsnoRNAの活用：NSCLC診断のための新規リキッドバイオプシーアプローチ",
+        "summary_ja": "タイトル：血清エクソソームsnoRNAを活用したNSCLC診断の新規リキッドバイオプシーアプローチ\n\n非小細胞肺癌（NSCLC）の高い死亡率は、早期診断の低効率に起因する。血清エクソソーム中のsmall nucleolar RNAs（snoRNAs）は、NSCLCの早期診断において有用なリキッドバイオプシー手法となり得る。本論文は、血清エクソソームsnoRNAをバイオマーカーとして活用することで、非侵襲的かつ高感度な診断が可能となることを示唆する。これにより、従来の診断法の限界を克服し、NSCLCの早期発見と予後改善に貢献する可能性が期待される。"
+      },
+      {
+        "title": "Exosomal circ_0005397 promotes TNBC progression by inducing M2 macrophage polarization via the miR-204-5p/STAT6 axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42308796/",
+        "abstract": "To elucidate the functional role and mechanistic basis of TNBC-derived exosomal circ_0005397 in driving the malignant progression of triple-negative breast cancer (TNBC).",
+        "source": "PubMed",
+        "doi": "10.1016/j.intimp.2026.117040",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム由来circ_0005397は、miR-204-5p/STAT6経路を介してM2マクロファージ分極を誘導し、TNBCの進行を促進する。",
+        "summary_ja": "タイトル：Exosomal circ_0005397 promotes TNBC progression by inducing M2 macrophage polarization via the miR-204-5p/STAT6 axis.\n\n要約：本論文は、トリプルネガティブ乳癌（TNBC）由来のエクソソームに含まれるcirc_0005397が、TNBCの悪性進行を促進する機序を解明した。circ_0005397はTNBC細胞およびそのエクソソームで高発現し、マクロファージに取り込まれると、miR-204-5pをスポンジ状に吸着して発現を抑制する。その結果、標的遺伝子であるSTAT6の発現が上昇し、M2型マクロファージへの分極が誘導される。このM2マクロファージは、TNBC細胞の増殖、遊走、浸潤を促進した。以上より、エクソソーム性circ_0005397はmiR-204-5p/STA"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "An Engineered Core-Satellite Magnetic Aptasensor with Built-In Calibration and Regeneration for Accurate Quantification of Oral Cancer Exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42313649/",
+        "abstract": "Exosomes carry diverse biologically active substances that can be transferred between cells, thereby influencing physiological and pathological states of the organism. Abnormal exosome levels are closely associated with cancer. Consequently, the precise detection of exosomes holds considerable importance for noninvasive cancer diagnosis and monitoring. Nevertheless, achieving highly sensitive and consistently reproducible detection of exosomes continues to pose a significant challenge in clinical diagnostics. In this research, we developed a reusable magnetic aptamer-based surface-enhanced Raman scattering (SERS) sensor with built-in calibration for the accurate quantification of exosomes derived from oral cancer. The sensor was synthesized through a layer-by-layer assembly strategy to form an internal standard encoded core-satellite structure (NiFe",
+        "source": "PubMed",
+        "doi": "10.1021/acsami.6c09184",
+        "keyword": "Exosomes",
+        "title_ja": "口腔がんエクソソームの正確な定量のための、内蔵校正と再生機能を備えた設計型コア-サテライト磁気アプタセンサー",
+        "summary_ja": "本論文では、口腔がん由来エクソソームの高精度定量を目的とした、内部標準校正機能と再生能を備えた再利用可能な磁気アプタマーSERSセンサーを開発した。エクソソームは細胞間で生物活性物質を輸送し、がんと密接に関連するため、非侵襲的な診断・モニタリングに重要であるが、高感度かつ再現性のある検出は困難であった。本センサーは、層ごとの自己組織化戦略により内部標準コード化されたコア-サテライト構造（NiFe@Au@4-MBA@Ag）を形成し、磁気分離とSERS増強を実現。アプタマーによる特異的捕捉と、内部標準シグナルによる校正により、再現性の高い定量を可能にした。また、センサーは再生可能であり、繰り返し使用できる点も特徴である。これにより、口腔がんエクソソームの正確かつ安定した検出が可能となり、臨床診断への応用が期待される。"
+      },
+      {
+        "title": "M2 microglial exosomal miR-1949 ameliorates sepsis-associated encephalopathy through DKK1/Wnt/β-catenin-mediated microglial repolarization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42313350/",
+        "abstract": "Sepsis-associated encephalopathy (SAE), the most common neurological complication of sepsis with high mortality, lacks effective treatments. Although microglia play a significant role in SAE pathogenesis, the mechanisms of M2 microglial exosomes (M2-EXOs) and their microRNAs (miRNAs) remain unclear. The present study demonstrated that both M2 microglial conditioned media (M2-CM) and M2-EXO promote the phenotypic transformation of M1 microglia toward the M2 phenotype. In M2-EXO, among the differentially expressed miRNAs, miR-1949 exhibited the most significant difference. The dual-luciferase assay showed that miR-1949 could bind to the 3'UTR of Dickkopf-related protein 1 (DKK1). Further experiments confirmed that M2-EXO-miR-1949 mimic mediated microglial phenotypic transformation by inhibiting DKK1 and activating the Wnt/β-catenin pathway. Notably, a single injection of M2-EXO (10 μg/mouse, i.c.v.) or M2-EXO-miR-1949 mimic (0.1 nmol/mouse, i.c.v.) significantly reduced the mouse sepsis score (MSS), decreased cortical neural cell damage in SAE mice induced by lipopolysaccharide (LPS), inhibiting abnormal microglial activation and alleviating neuroinflammation. Meanwhile, M2-EXO-miR-1949 mimic markedly inhibited DKK1 and activated the Wnt/β-catenin pathway in vivo. What's more, the effects of M2-EXO-miR-1949 mimic were reversed by the Wnt/β-catenin pathway inhibitor XAV939. In contrast, the effect of M2-EXO-miR-1949 inhibitor (0.1 nmol/mouse, i.c.v.) was opposite to that of M2-EXO-miR-1949 mimic. Furthermore, co-transfection of the M2-EXO-miR-1949 mimic and inhibitor mutually neutralized their opposing effects, resulting in no significant changes in the expression of inflammatory and pathway-related markers, thereby confirming the functional specificity of exosomal miR-1949. In summary, the present study indicates that M2-EXO, especially its contained miR-1949, ameliorates LPS-induced SAE in mice through inhibiting DKK1 to activate the Wnt/β-catenin pathway, thereby leading to microglial phenotypic transformation and neuroinflammation inhibition. This study reveals a novel mechanism by which M2-EXO and miRNA ameliorate SAE, providing a theoretical basis for further studies.",
+        "source": "PubMed",
+        "doi": "10.1007/s12272-026-01622-z",
+        "keyword": "Exosomes",
+        "title_ja": "M2ミクログリア由来エクソソームmiR-1949は、DKK1/Wnt/β-カテニンを介したミクログリア再分極により敗血症関連脳症を改善する。",
+        "summary_ja": "本論文は、Sepsis-associated encephalopathy (SAE) におけるM2ミクログリア由来エクソソーム (M2-EXO) とそのmiR-1949の役割を検討した。M2-EXOはM1ミクログリアをM2表現型へ形質転換させ、miR-1949がDKK1の3'UTRに結合し、Wnt/β-catenin経路を活性化することでこの効果を媒介することを明らかにした。LPS誘導SAEマウスにおいて、M2-EXOまたはmiR-1949 mimicの単回投与は、敗血症スコアを低下させ、皮質神経細胞障害を軽減し、異常なミクログリア活性化と神経炎症を抑制した。この効果はWnt/β-catenin阻害剤XAV939で打ち消され、miR-1949 inhibitorでは逆の効果を示した。以上より、M2-EXOのmiR-1949はDKK1/Wnt/β-catenin経路を介したミクログリア再分"
+      },
+      {
+        "title": "Integrated Bioinformatics and Explainable Machine Learning Analyses Reveal Mesenchymal Stem Cell Exosome-Related Biomarkers for Diabetic Retinopathy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42311145/",
+        "abstract": "This study aims to identify potential biomarkers for diabetic retinopathy (DR) by focusing on genes associated with mesenchymal stem cell-derived exosomes (MSCs-Exo).",
+        "source": "PubMed",
+        "doi": "10.1177/10807683261460674",
+        "keyword": "Exosomes",
+        "title_ja": "統合バイオインフォマティクスと説明可能な機械学習解析による糖尿病網膜症の間葉系幹細胞エクソソーム関連バイオマーカーの解明",
+        "summary_ja": "本研究は、間葉系幹細胞由来エクソソーム（MSCs-Exo）関連遺伝子に着目し、糖尿病網膜症（DR）の潜在的バイオマーカーを特定することを目的とした。統合バイオインフォマティクスと説明可能な機械学習解析を用い、DR関連遺伝子発現データセット（GSE94019）からMSCs-Exo関連遺伝子を抽出。特徴選択にはLASSO回帰とSVM-RFEを適用し、共通して同定された6遺伝子（CD44、FN1、HSP90AA1、HSPA8、VCP、YWHAZ）を中心に解析した。これらの遺伝子は免疫細胞浸潤や炎症経路と関連し、診断モデルは高い識別能（AUC 0.934）を示した。さらに、miRNA-mRNAネットワーク解析により、miR-16-5pやmiR-1-3pなどが標的制御に関与することが示唆された。結論として、MSCs-Exo関連遺伝子はDRの診断・治療標的として有望であり、今後の実験的検証が期待される"
+      },
+      {
+        "title": "Molecular basis of polyadenylated RNA fate determination in the nucleus.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42310446/",
+        "abstract": "Eukaryotic genomes generate a plethora of polyadenylated (pA",
+        "source": "PubMed",
+        "doi": "10.1038/s41586-026-10650-0",
+        "keyword": "Exosomes",
+        "title_ja": "核内におけるポリアデニル化RNAの運命決定の分子基盤",
+        "summary_ja": "真核生物の核内では、多様なポリアデニル化（pA）RNAが生成されるが、その運命は転写後調節により厳密に決定される。本論文は、核内におけるpA RNAの運命決定の分子基盤を解明する。特に、RNAポリメラーゼIIによって転写されるmRNA前駆体や長鎖非コードRNA（lncRNA）が、核内でどのように選別され、成熟、核外輸送、あるいは分解へと振り分けられるかに焦点を当てる。鍵となるのは、RNA結合タンパク質とRNAプロセシング因子の協調的ネットワークであり、これらがRNAの3'末端形成、スプライシング、核内滞留シグナルを認識する。また、核内の相分離を介した核スペックルなどの構造体が、RNAの局在と運命決定に寄与する。これらの機構の破綻は、異常なRNA蓄積や遺伝子発現制御の不全を引き起こし、疾患と関連する。本総説は、核内RNA運命決定の包括的な理解を提供する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Engineered small extracellular vesicles in hematologic malignancies: mechanisms, therapeutic strategies, and translational challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42313192/",
+        "abstract": "Hematologic malignancies remain among the most challenging cancers to treat due to genetic heterogeneity, clonal evolution, and therapy resistance. Extracellular vesicles (EVs), particularly small EV (sEV)-enriched populations, have emerged as active mediators of disease biology, contributing to tumor progression, immune evasion, and chemoresistance through intercellular transfer of bioactive cargo. Recent advances in EV engineering have repositioned these vesicles as programmable delivery platforms capable of transporting nucleic acids, proteins, and chemotherapeutic agents with improved targeting potential. Preclinical studies across multiple hematologic models demonstrate that engineered EVs can induce immune activation, modulate oncogenic signaling pathways, and partially overcome drug resistance. However, these findings remain largely confined to experimental settings, with limited standardization of loading efficiency, biodistribution, and functional potency. Clinically, EV-based applications in hematology are still at an early stage, with most studies focused on biomarker discovery and supportive therapies rather than direct antitumor interventions. In parallel, theranostic EV platforms and liquid biopsy approaches offer promising opportunities for minimally invasive disease monitoring, although their clinical validation remains incomplete. Artificial intelligence (AI) further enhances this field by enabling advanced biomarker analysis and guiding cargo design and targeting strategies, yet its therapeutic applications are still largely exploratory. Despite key challenges, including vesicle heterogeneity, donor variability, suboptimal cargo loading, and manufacturing constraints, these limitations are primarily technical and may be addressed through standardization and engineering optimization. Collectively, EV-based systems represent a promising but still maturing platform with the potential to contribute to next-generation precision oncology in hematologic malignancies.",
+        "source": "PubMed",
+        "doi": "10.1007/s10238-026-02216-1",
+        "keyword": "sEVs",
+        "title_ja": "血液悪性腫瘍における操作された小型細胞外小胞：メカニズム、治療戦略、およびトランスレーショナルな課題",
+        "summary_ja": "血液悪性腫瘍は、遺伝的不均一性、クローン進化、治療抵抗性により治療が困難である。細胞外小胞（EV）、特に小型EV（sEV）は、生物活性カーゴの細胞間輸送を介して腫瘍進展、免疫回避、薬剤耐性に関与する。近年のEV工学の進展により、核酸、タンパク質、化学療法剤を搭載可能なプログラム可能な送達プラットフォームとして再定義された。前臨床研究では、操作EVが免疫活性化、発癌シグナル調節、薬剤耐性の部分的克服を示すが、搭載効率や生体内分布の標準化は未確立である。臨床応用は初期段階で、バイオマーカー発見や支持療法が中心である。サーノスティックEVやリキッドバイオプシーは低侵襲モニタリングに有望だが、検証は不十分。人工知能（AI）はバイオマーカー解析やカーゴ設計を支援するが、治療応用は探索的段階にある。小胞の不均一性、ドナー変動、製造制約などの課題は技術的なものであり、標準化と工学的最適化により克服可能で"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Placenta-derived small extracellular vesicles transfer miR-520d-5p to mediate pancreatic β-cell injury in gestational diabetes mellitus by targeting SIRT1.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42310610/",
+        "abstract": "Small extracellular vesicles (sEV) mediate intercellular communication in gestational diabetes mellitus (GDM). However, the mechanisms by which GDM-derived placental sEV induce pancreatic islet cell injury remain unclear. Here, we investigated the functions and underlying mechanisms of placenta-derived sEV (Pd-sEV)-associated miRNAs in GDM.",
+        "source": "PubMed",
+        "doi": "10.1186/s12884-026-09456-9",
+        "keyword": "sEVs",
+        "title_ja": "胎盤由来の小型細胞外小胞はmiR-520d-5pを輸送し、SIRT1を標的とすることで妊娠糖尿病における膵β細胞障害を媒介する",
+        "summary_ja": "胎盤由来小型細胞外小胞（Pd-sEV）は、妊娠糖尿病（GDM）における膵β細胞障害を媒介する。本研究では、GDM患者の胎盤から単離したPd-sEVが、miR-520d-5pを高発現し、これを介して膵β細胞に取り込まれることを示した。miR-520d-5pは標的遺伝子SIRT1の発現を抑制し、その結果、酸化ストレスとアポトーシスを誘導してβ細胞機能を障害する。正常妊娠群と比較し、GDM群のPd-sEVは有意に高いmiR-520d-5pレベルを示し、SIRT1発現低下と相関した。以上より、GDM胎盤由来Pd-sEVがmiR-520d-5pを輸送し、SIRT1を標的として膵β細胞障害を引き起こす新たな分子機構が明らかとなった。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **KlothoによるADPKD治療の新機軸**  \n   Klothoがフェロトーシス制御とDNAメチル化逆転を介して嚢胞増殖を抑制するメカニズムを解明。ADPKDは進行性腎不全を招く難病であり、現在の治療選択肢は限られる。Klothoのエピジェネティックな調節能は新規治療標的として有望で、今後の創薬やバイオマーカー開発に繋がる可能性がある。\n\n2. **NK細胞免疫療法の進展**  \n   NK細胞はT細胞と異なり同種異系移植が可能で、即時的な抗腫瘍効果が期待される。特に高強度熱ストレスによる肝細胞癌への細胞傷害性増強や、TFPI2を介したグリオブラストーマ制御など、新たな併用戦略が示された。今後は固形腫瘍への適応拡大とCAR-NK細胞の実用化が焦点となる。\n\n3. **エクソソーム工学による脳疾患治療**  \n   血液脳関門を越えられるエクソソームを利用し、脳感染症や神経変性疾患への標的治療が現実味を帯びている。特に工学的手法によるカーゴ搭載や標的化技術の進展は、難治性中枢神経疾患に対する新たな治療モダリティを提供する。\n\n4. **細菌細胞外小胞（BEV）と抗菌薬耐性**  \n   BEVが耐性遺伝子の水平伝播や抗菌薬不活化に寄与するメカニズムが明らかに。AMRは世界的危機であり、BEVを標的とした新規抗菌戦略や診断法の開発が急務。臨床応用には標準化と安全性評価が課題。\n\n5. **エクソソームsnoRNAによる肺癌リキッドバイオプシー**  \n   血清エクソソーム中のsnoRNAが非小細胞肺癌の早期診断バイオマーカーとして有望。低侵襲で高感度な診断法は、死亡率低減に直結する。今後は大規模臨床検証と標準化プロトコルの確立が求められる。"
+}

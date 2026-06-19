@@ -1,0 +1,145 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Elastin calcification during the initial stage of vascular calcification in kl/kl mice is suppressed by the calcimimetic upacicalcet.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42315532/",
+        "abstract": "We performed ultrastructural analyses of the aortae of klotho-deficient (kl/kl) mice to characterize the early stages of medial calcification and to evaluate the inhibitory effects of the calcimimetic upacicalcet. In the aorta of kl/kl mice, calcified materials were localized to the superficial layers of fragmented elastic laminae and were observed as minute, nodule-like elastin aggregates containing calcium phosphate deposits. Although the gene expression of elastin-degrading enzymes and osteogenic markers was increased in kl/kl mice, these elastin aggregates were ultrastructurally distinct from conventional matrix vesicles or osteoblast-derived calcifying nodules observed in bone. In contrast, highly calcified regions of the kl/kl aorta contained bone-like tissue composed of cells exhibiting osteoblastic, osteocytic, and osteoclastic phenotypes. Administration of upacicalcet attenuated elastin fragmentation and significantly reduced medial calcification in the aorta. In addition to lowering serum calcium and parathyroid hormone levels, upacicalcet reduced serum phosphate concentrations and suppressed the expression of elastin-degrading enzymes and osteogenic markers. Collectively, these findings demonstrate that vascular calcification in kl/kl mice involves a complex pathological process comprising passive calcific deposition on degraded elastin and biologically regulated calcification and ossification mediated by osteoblast-like cells and that upacicalcet mitigates disease progression by preserving the structural integrity of aortic elastic laminae.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-56029-z",
+        "keyword": "Klotho",
+        "title_ja": "kl/klマウスの血管石灰化初期におけるエラスチン石灰化は、カルシミメティック薬ウパシカルセトにより抑制される。",
+        "summary_ja": "klotho欠損（kl/kl）マウスの大動脈における初期の血管中膜石灰化を超微形態学的に解析し、カルシミメティック薬upacicalcetの抑制効果を評価した。kl/klマウスの大動脈では、石灰化物質は断片化した弾性板の表層に限局し、リン酸カルシウム沈着を含む微細な結節状エラスチン凝集体として観察された。エラスチン分解酵素や骨形成マーカーの遺伝子発現は上昇していたが、これらの凝集体は従来のマトリックス小胞や骨芽細胞由来の石灰化結節とは超微形態学的に異なっていた。一方、高度石灰化領域では骨芽細胞、骨細胞、破骨細胞様細胞からなる骨様組織が認められた。Upacicalcet投与はエラスチン断片化を抑制し、大動脈の石灰化を有意に減少させた。血清カルシウム、副甲状腺ホルモンに加え、リン濃度も低下させ、エラスチン分解酵素や骨形成マーカーの発現を抑制した。以上より、kl/klマウスの血管石灰化は、分解エ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [
+      {
+        "title": "Platelet factor 4 antibody persistence and long-term pathogenicity in vaccine-induced immune thrombotic thrombocytopenia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41936925/",
+        "abstract": "Vaccine-induced immune thrombotic thrombocytopenia (VITT) is a transient prothrombotic process, although recent data suggest that VITT anti-platelet factor 4 (PF4) antibodies are more persistent than those in heparin-induced thrombocytopenia.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jtha.2026.03.025",
+        "keyword": "PF4",
+        "title_ja": "ワクチン誘発性免疫血栓性血小板減少症における血小板第4因子抗体の持続性と長期的病原性",
+        "summary_ja": "ワクチン誘発性免疫性血栓性血小板減少症（VITT）は一過性の血栓促進過程であるが、最近のデータではVITT抗血小板第4因子（PF4）抗体はヘパリン誘発性血小板減少症の抗体よりも持続性が高いことが示唆されている。本論文は、VITTにおけるPF4抗体の持続性と長期的な病原性を検討した。VITT患者では、急性期を過ぎてもPF4抗体が長期間検出され、その抗体は血小板活性化能を維持する可能性がある。この持続性は、血栓症リスクの長期化や再発に関与する可能性があり、VITTの病態理解と管理に重要な知見を提供する。"
+      }
+    ],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Identification and validation of exosome-related biomarkers in pediatric glioblastoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42319605/",
+        "abstract": "Pediatric glioblastoma (pGBM) is an aggressive central nervous system (CNS) tumor whose pathological progression is significantly influenced by exosomal signaling. This study integrated and analyzed transcriptomic datasets (GSE50161, GSE35493) from the Gene Expression Omnibus (GEO), focusing on the intersection between exosome-related genes (ERGs) and disease-associated differentially expressed genes (DEGs). Key biomarkers, FGF9, TGFBR1, and PLCB4, were identified using a machine learning model. The results demonstrated that TGFBR1 expression was up-regulated in the tumor microenvironment, whereas FGF9 and PLCB4 were down-regulated. These genes were closely associated with the γ/α (IFN-γ/α) signaling pathway and E2F target activation. Immune profiling revealed that low expression of FGF9 and PLCB4 correlated with a reduction in central memory CD4",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05429-8",
+        "keyword": "Exosomes",
+        "title_ja": "小児神経膠芽腫におけるエクソソーム関連バイオマーカーの同定と検証",
+        "summary_ja": "小児神経膠芽腫（pGBM）は、エクソソームシグナル伝達が病態進行に影響する中枢神経系の悪性腫瘍である。本研究では、GEOデータベースのトランスクリプトームデータセット（GSE50161, GSE35493）を統合解析し、エクソソーム関連遺伝子（ERGs）と疾患関連の差次的発現遺伝子（DEGs）の交差領域を特定。機械学習モデルにより、FGF9、TGFBR1、PLCB4を主要バイオマーカーとして同定した。結果、TGFBR1は腫瘍微小環境で発現上昇、FGF9とPLCB4は低下。これらの遺伝子はγ/α（IFN-γ/α）シグナル経路やE2F標的活性化と関連。免疫プロファイリングでは、FGF9とPLCB4の低発現が中枢記憶CD4陽性T細胞の減少と相関した。"
+      },
+      {
+        "title": "Alkaline loading of extracellular vesicles produced from human neural stem cell-derived neurospheres enables CNS drug delivery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42315580/",
+        "abstract": "The blood brain barrier and blood tumor barrier (BBB and BTB, respectively) represent significant obstacles for the delivery of drugs to treat diseases of the central nervous system, such as brain cancers and neurodegenerative diseases. Extracellular vesicles (EVs) or exosomes have emerged as a new drug delivery vehicle for CNS diseases as they may penetrate the BBB/BTB and are less immunogenic than liposomal carriers. EVs derived from human neural stem cells (hNSC) provide additional benefits over other EV sources due to their increased homing capability to neural cells and demonstrated efficacy for treating stroke and traumatic brain injury in rodent models. However, the utilization of EVs from hNSC for drug delivery remains largely unexplored, due in part to difficulties in manufacturing capacity compared to traditional cell lines. Here, we report the development of a hNSC suspension neurosphere system for EV production and drug delivery. As proof of concept, doxorubicin was loaded into hNSC-EV, using a novel, high-efficiency alkaline passive loading method, and shown to be effective at inducing cytotoxicity in glioma cells in vitro and exhibiting higher BBB penetrance than doxorubicin-alone in vivo. These studies demonstrate the potential for hNSC-EV loaded doxorubicin as a therapeutic treatment for brain cancers such as glioblastoma, while also establishing hNSC-EVs as a drug-delivery vehicle for CNS diseases.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-58290-8",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト神経幹細胞由来ニューロスフェアから産生された細胞外小胞のアルカリ負荷による中枢神経系への薬物送達の実現",
+        "summary_ja": "血液脳関門（BBB）および血液腫瘍関門（BTB）は、中枢神経系疾患治療薬の送達における大きな障壁である。細胞外小胞（EV）は、BBB/BTBを透過し、リポソームより免疫原性が低いため、新たな薬物送達担体として注目されている。特にヒト神経幹細胞（hNSC）由来EVは、神経細胞への高いホーミング能と、げっ歯類モデルでの脳卒中や外傷性脳損傷治療効果が示されている。しかし、製造能力の課題から、hNSC-EVの薬物送達への応用は未開拓であった。本研究では、hNSC浮遊ニューロスフェアシステムによるEV生産と薬物送達を報告する。概念実証として、新規の高効率アルカリ受動的ローディング法を用いてドキソルビシンをhNSC-EVに搭載し、in vitroでグリオーマ細胞への細胞毒性、in vivoでドキソルビシン単独より高いBBB透過性を示した。これらは、hNSC-EV搭載ドキソルビシンの膠芽腫治療の可能性と"
+      },
+      {
+        "title": "Comparative methodological study of ultracentrifugation and a commercial kit for the isolation and characterization of outer membrane vesicles from Burkholderia thailandensis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42315032/",
+        "abstract": "Outer Membrane Vesicles (OMVs) are nanostructures naturally produced by Gram-negative bacteria, playing a relevant role in processes such as horizontal gene transfer, quorum sensing modulation, antibacterial and antibiofilm activity, and presenting potential applications in nanotechnology, including drug delivery systems. Considering the diversity of methods employed for their isolation and purification, this study aimed to compare the morphological characteristics, overall composition, concentration, and potential cytotoxic effects of OMVs isolated by ultracentrifugation (OMVs-UC) and by a commercial exosome isolation kit (OMVs-Kit). To the best of our knowledge, this is the first study to provide a systematic comparison between ultracentrifugation and a commercial precipitation-based kit for OMV isolation in Burkholderia thailandensis, integrating multiple analytical approaches to evaluate how the isolation method affects vesicle characteristics. The results indicated that the kit offers greater operational simplicity, enabling the recovery of OMVs with morphological patterns and composition similar to those obtained by ultracentrifugation. The concentrations obtained were 7.08 × 10",
+        "source": "PubMed",
+        "doi": "10.1016/j.mimet.2026.107588",
+        "keyword": "Exosomes",
+        "title_ja": "超遠心法と市販キットを用いたBurkholderia thailandensis由来外膜小胞の単離・特性評価に関する比較方法論的研究",
+        "summary_ja": "本論文は、グラム陰性菌Burkholderia thailandensisから産生されるOuter Membrane Vesicles (OMVs)の単離・精製法として、超遠心法と市販エクソソーム単離キットを比較した初の体系的研究である。OMVsは遺伝子伝達やクオラムセンシング調節、抗菌・抗バイオフィルム活性に関与し、ナノテクノロジーへの応用が期待される。本研究では、両手法で得られたOMVsの形態、組成、濃度、細胞毒性を評価。結果、キット法は操作が簡便で、超遠心法と同等の形態・組成を持つOMVsを回収可能であり、濃度は7.08×10⁹ particles/mLであった。キット法は超遠心法に代わる実用的な手法として有用と結論づけられた。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Next-generation heparin antidotes: \"Exosomes as a biocompatible alternative to protamine sulfate\".",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42319568/",
+        "abstract": "Controlling bleeding is one of the most fundamental challenges in cardiac surgery. Bleeding is controlled by neutralising heparin with protamine. Our study investigates exosomes as an alternative treatment option to protamine for use in haemostasis.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12145-7",
+        "keyword": "Exosomes",
+        "title_ja": "次世代ヘパリン解毒剤：「プロタミン硫酸塩に代わる生体適合性の代替品としてのエクソソーム」",
+        "summary_ja": "本研究では、心臓手術におけるヘパリン中和のための新たな止血剤として、エクソソームの可能性を検討した。従来のプロタミン硫酸塩に代わる生体適合性の代替手段として、エクソソームが出血制御に有効かどうかを評価した。エクソソームはプロタミンと比較して、免疫反応や副作用のリスクが低いと期待される。実験結果は、エクソソームがヘパリンを効果的に中和し、止血を促進することを示した。これにより、次世代のヘパリン解毒剤としての応用が期待される。"
+      },
+      {
+        "title": "Extracellular Vesicles and Their Multifaceted Roles in Cancer: Current Evidence from a Narrative Review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42316572/",
+        "abstract": "Extracellular Vesicles (EVs), including exosomes and microvesicles, are nanoscale, lipid bilayer-enclosed particles released by diverse cell types. They play a key role in intercellular communication by transferring proteins, lipids, and nucleic acids. In cancer, EVs contribute to remodelling the tumor microenvironment, enhancing angiogenesis, modulating immune responses, promoting metastasis, and driving therapeutic resistance.",
+        "source": "PubMed",
+        "doi": "10.2174/0118715206434074260407093116",
+        "keyword": "Exosomes",
+        "title_ja": "細胞外小胞と癌におけるその多面的な役割：ナラティブレビューからの現在のエビデンス",
+        "summary_ja": "本レビューでは、細胞外小胞（Extracellular Vesicles, EVs）が癌において多面的な役割を果たすことを示す。EVsはエクソソームやマイクロベシクルを含むナノスケールの脂質二重膜粒子であり、多様な細胞から放出され、タンパク質、脂質、核酸を輸送することで細胞間コミュニケーションを担う。癌において、EVsは腫瘍微小環境のリモデリング、血管新生の促進、免疫応答の調節、転移の促進、治療抵抗性の誘導に寄与する。これらの知見は、癌の進行メカニズム理解と新たな治療標的の可能性を示唆する。"
+      },
+      {
+        "title": "Target-Specific Recognition and Standardized Readout: A DNA Nanotransduction Strategy for Nanopore Exosome Sensing toward Clinical Applications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42316416/",
+        "abstract": "Solid-state nanopores are powerful single-molecule sensing tools, but their reliance on direct translocation requires high analyte concentrations and complicates biochemical specificity. We propose a DNA nanotransduction strategy featuring target-specific molecular recognition and standardized electrical readout, converting complex vesicular information into uniform reporter signals. Glioma-derived exosomes are selectively captured by a dual-aptamer DNA scaffold, which disassembles to release tetrahedral DNA nanostructures (TDNs) as reporter molecules. Since each type of protein on the exosome surface is expressed in multiple copies, each exosome recognition event is translated into multiple translocation signals, shifting from a one-to-one to a one-to-many amplification process. This strategy reduces concentration dependence and relocates specificity to a programmable DNA system, avoiding instability from pore functionalization. Using ∼10 nm silicon nitride nanopores, we demonstrate highly sensitive and specific detection of glioma-derived exosomes and accurate classification in clinical samples. This work establishes a DNA-based nanotransduction system that enhances the versatility of solid-state nanopores for detecting low-abundance biomarkers in complex biological environments, advancing clinical applications.",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.6c06233",
+        "keyword": "Exosomes",
+        "title_ja": "標的特異的認識と標準化読み出し：臨床応用に向けたナノポアエクソソームセンシングのためのDNAナノ変換戦略",
+        "summary_ja": "本論文では、固相ナノポアを用いた新たなDNAナノトランスダクション戦略を提案する。従来の直接転座法では高濃度の分析対象が必要で、生化学的特異性が複雑であったが、本手法では標的特異的分子認識と標準化された電気的読み出しを実現し、小胞情報を均一なレポーター信号に変換する。グリオーマ由来エクソソームはデュアルアプタマーDNA足場により選択的に捕捉され、分解によりテトラヘドラルDNAナノ構造（TDN）が放出される。エクソソーム表面の各タンパク質は複数コピー存在するため、1回の認識が複数の転座信号に変換され、1対1から1対多への増幅が可能となる。これにより濃度依存性が低減し、特異性はプログラム可能なDNAシステムに移行する。約10 nmの窒化ケイ素ナノポアを用い、高感度・高特異的なグリオーマ由来エクソソーム検出と臨床試料の正確な分類を実証した。本手法は、複雑な生体環境中の低存在量バイオマーカー検出に"
+      },
+      {
+        "title": "Engineered biomimetic exosomes for small activating RNA delivery: Low-density lipoprotein receptor-related protein-1 targeted blood-brain barrier penetration and dual therapy in intracerebral Hemorrhage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42314989/",
+        "abstract": "Efficient brain-targeted gene delivery remains a formidable primary bottleneck in the clinical management of intracerebral hemorrhage (ICH). Herein, we engineered a dual-functional biomimetic nanoplatform (L57-NExos@saRNA) that synergizes active blood-brain barrier (BBB) penetration with intrinsic neuroregeneration. Guided by transcriptomic profiling, a small activating RNA (saRNA) was designed to upregulate activating transcription factor 3 (ATF3) -a critical repressor of the Toll-like receptor 4 (TLR4) neuroinflammatory cascade. To overcome formidable physiological barriers, the saRNA was condensed within neural stem cell-derived exosomes (NExos) surface-functionalized with the low-density lipoprotein receptor-related protein-1 (LRP1)-targeting peptide L57. By proactively exploiting the pathological upregulation of LRP1 on BBB-associated astrocytes following ICH, this L57-modified nanoplatform achieves highly efficient receptor-mediated transcytosis, ensuring robust and specific accumulation at the hemorrhagic lesion. Once internalized, the nanomedicine orchestrates a profound dual-therapeutic response. First, the delivered saRNA specifically reprograms microglia from a neurotoxic (M1) to a neuroprotective (M2) phenotype. This shift fundamentally rectifies maladaptive microglial-astrocyte crosstalk, subsequently driving reactive astrocytes toward an A2 protective state to deeply detoxify the inflammatory microenvironment. Concurrently, the bioactive NExos carrier itself transcends its role as a mere vehicle by activating the PI3K/Akt survival pathway, directly inhibiting neuronal apoptosis and facilitating network repair. By seamlessly converging precise BBB-targeted gene regulation with biomimetic carrier-driven repair, this versatile delivery system presents a highly translational and promising therapeutic paradigm for ICH.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jconrel.2026.115112",
+        "keyword": "Exosomes",
+        "title_ja": "工学模倣エクソソームによる低分子活性化RNA送達：低密度リポ蛋白受容体関連タンパク質-1標的化血液脳関門透過と脳内出血における二重治療",
+        "summary_ja": "本論文では、脳内出血（ICH）治療における脳標的遺伝子送達の課題を克服するため、二機能性生体模倣ナノプラットフォーム（L57-NExos@saRNA）を開発した。トランスクリプトーム解析に基づき、TLR4神経炎症カスケードを抑制するATF3を活性化するsmall activating RNA（saRNA）を設計。このsaRNAを神経幹細胞由来エクソソーム（NExos）に封入し、LRP1標的ペプチドL57で表面修飾した。ICH後のBBB関連アストロサイトでLRP1が病的に亢進する特性を利用し、受容体介在性トランスサイトーシスを介して出血病変へ高効率に集積する。内部化後、saRNAはミクログリアを神経毒性M1から神経保護M2へ再プログラムし、アストロサイトをA2保護状態に誘導して炎症環境を改善。同時に、NExosキャリア自体がPI3K/Akt経路を活性化し、神経細胞アポトーシスを抑制しネットワ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **Klotho欠損マウスにおける血管石灰化とカルシミメティック薬の効果**  \n   kl/klマウスの大動脈で、初期石灰化が弾性板断片化に伴い生じ、カルシミメティック薬upacicalcetがこれを抑制することを超微形態学的に示した。Klothoは抗老化因子として知られ、その欠損は血管石灰化を促進する。本成果は、慢性腎臓病患者の血管石灰化に対する新たな治療戦略の基盤となる。\n\n2. **VITTにおけるPF4抗体の持続性と病原性**  \n   ワクチン誘発性免疫性血栓性血小板減少症（VITT）では、抗PF4抗体が従来のヘパリン誘発性血小板減少症より長期間持続し、血栓リスクが持続する可能性が示唆された。ワクチン安全性の長期評価や診断・治療法の改善に直結する重要な知見である。\n\n3. **小児神経膠芽腫におけるエクソソーム関連バイオマーカーの同定**  \n   小児神経膠芽腫（pGBM）のトランスクリプトーム解析から、エクソソーム関連遺伝子をバイオマーカーとして同定。エクソソームは腫瘍微小環境の調節や薬剤耐性に関与するため、診断・予後予測・治療標的としての応用が期待される。\n\n4. **神経幹細胞由来細胞外小胞による中枢神経系薬物送達**  \n   ヒト神経幹細胞由来の細胞外小胞（EV）にアルカリ処理を施すことで、血液脳関門透過性と薬物搭載能を向上。EVは低免疫原性で、脳腫瘍や神経変性疾患へのDDSキャリアとして有望であり、実用化に向けた重要なステップである。\n\n5. **エクソソームを用いたヘパリン中和剤の開発**  \n   心臓手術時のヘパリン中和において、プロタミン硫酸塩に代わる生体適合性止血剤としてエクソソームを評価。出血制御能と安全性の両立が期待され、次世代の抗凝固療法管理に革新をもたらす可能性がある。"
+}

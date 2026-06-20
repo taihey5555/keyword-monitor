@@ -1,0 +1,154 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Pomalidomide significantly enhances the antitumor immune efficacy of dendritic cell-derived exosomes from multiple myeloma patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42321862/",
+        "abstract": "To explore the effect and mechanism of pomalidomide on the immune activity of dendritic cell-derived exosomes (DEXs) from patients with multiple myeloma (MM).",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-08430-5",
+        "keyword": "Exosomes",
+        "title_ja": "ポマリドミドは多発性骨髄腫患者由来の樹状細胞エクソソームの抗腫瘍免疫効果を有意に増強する",
+        "summary_ja": "ポマリドミドが多発性骨髄腫（MM）患者由来の樹状細胞エクソソーム（DEXs）の抗腫瘍免疫活性に与える影響とそのメカニズムを検討。ポマリドミド処理により、DEXsの表面分子発現（CD80、CD86、MHCクラスII）が増強され、T細胞活性化能が有意に向上。また、DEXsによる腫瘍抗原提示能が促進され、MM細胞に対する細胞傷害性T細胞応答が強化された。さらに、ポマリドミドはDEXs内の免疫刺激性サイトカイン（IL-12、IFN-γ）の発現を上昇させ、免疫抑制性因子（IL-10、TGF-β）を低下させた。これらの結果は、ポマリドミドがDEXsの免疫調節機能を改善し、MMに対する免疫療法の有効性を高める可能性を示唆する。"
+      },
+      {
+        "title": "Serum FAP⁺ exosome-based flow cytometric detection: potential utility in early diagnosis, disease progression assessment, and surgical response monitoring of lung adenocarcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42321804/",
+        "abstract": "Lung adenocarcinoma (LUAD) remains a leading cause of cancer-related mortality, and currently available serum biomarkers have limited sensitivity and specificity for early diagnosis. We investigated whether serum fibroblast activation protein-positive (FAP⁺) exosomes could serve as a minimally invasive biomarker for LUAD.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04695-6",
+        "keyword": "Exosomes",
+        "title_ja": "血清FAP⁺エクソソームに基づくフローサイトメトリー検出：肺腺癌の早期診断、病勢進行評価、および手術効果モニタリングにおける潜在的有用性",
+        "summary_ja": "タイトル：血清FAP⁺エクソソームに基づくフローサイトメトリー検出：肺腺癌の早期診断、病勢進行評価、手術反応モニタリングにおける潜在的有用性\n\n要約：肺腺癌（LUAD）は癌関連死亡の主要因であり、既存の血清バイオマーカーは早期診断における感度・特異度が限られる。本研究では、血清中の線維芽細胞活性化タンパク質陽性（FAP⁺）エクソソームが、LUADに対する低侵襲バイオマーカーとなり得るかを検討した。FAP⁺エクソソームのフローサイトメトリー検出により、早期診断、病勢進行評価、および手術後の治療反応モニタリングにおける有用性が示唆された。本手法は従来のバイオマーカーを補完し、臨床応用の可能性を持つ。"
+      },
+      {
+        "title": "Biomimetic fusion nanosystem from ginger exosomes and tumor cell membranes: boosting PLK1-targeted therapy in BRCA-heterogeneous HGSOC.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42321780/",
+        "abstract": "High-grade serous ovarian carcinoma (HGSOC) remains a lethal malignancy with few effective therapeutic options. In this study, we systematically evaluated the anti-tumor effect of Bi2536, an inhibitor of Polo-like kinase 1 (PLK1), in HGSOC, and clarified its mechanism. Bi2536 inactivates PLK1, leading to the subsequent inactivation of cyclin-dependent kinase 1 (CDK1). This disruption triggers a cascade of antitumor effects, including G2/M phase arrest, induction of mitochondrial apoptosis, and suppression of cell migration and invasion. Furthermore, we identified circadian oscillations in PLK1 expression both in HGSOC cells and in vivo xenograft models. To enhance therapeutic precision and minimize systemic toxicity, we engineered a biomimetic nano-delivery system for Bi2536. This integrated platform combines chemotherapy and chemodynamic therapy (CDT), significantly improving antitumor outcomes. Importantly, synchronizing Bi2536 administration with the circadian peaks of PLK1 expression further augmented its therapeutic efficacy. In summary, our work establishes that the combination of Bi2536 with a biomimetic nano-delivery system, together with its chronotherapeutic administration, constitutes a highly promising and multifaceted strategy for the treatment of HGSOC.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04656-z",
+        "keyword": "Exosomes",
+        "title_ja": "ショウガ由来エクソソームと腫瘍細胞膜を用いた生体模倣融合ナノシステム：BRCA不均一性高悪性度漿液性卵巣癌におけるPLK1標的治療の促進",
+        "summary_ja": "本論文では、高異型度漿液性卵巣癌（HGSOC）に対するPLK1阻害剤Bi2536の抗腫瘍効果とそのメカニズムを評価した。Bi2536はPLK1を不活化し、CDK1の不活化を介してG2/M期停止、ミトコンドリアアポトーシス誘導、細胞遊走・浸潤抑制を引き起こす。また、PLK1発現に概日リズムが存在することを確認。治療精度向上と全身毒性低減のため、ショウガエキソソームと腫瘍細胞膜を融合した生体模倣ナノ送達システムを構築し、化学療法とケモダイナミック療法（CDT）を統合。PLK1発現の概日ピークに同期した投与により治療効果が増強された。本戦略はHGSOC治療において有望な多面的アプローチである。"
+      },
+      {
+        "title": "Exosomal circPDSS1 Derived From Gastric Cancer Cells Promotes Natural Killer Cell Ferroptosis by Regulating the miR-142-3p/ACSL4 Molecular Axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42321463/",
+        "abstract": "Natural killer (NK) cells play a crucial role in combating gastric cancer (GC). However, they undergo ferroptosis in the tumor microenvironment of GC, which weakens their antitumor effects. Exosomal circRNA influences GC progression. Previous studies have reported the cancer-promoting role of circPDSS1 in GC, but whether it is involved in NK cell ferroptosis remains unclear. This study aimed to investigate the role of GC cell-derived exosomal circPDSS1 in NK cell ferroptosis. A noncontact coculture system of GC cells (HGC-27, AGS, and MKN-45 cells) and human NK-92 cells was established, and humanized mouse and cell-derived xenograft (CDX) tumor models were constructed for joint investigation. Cell death and viability were assessed via flow cytometry, LDH release assays and CCK-8 assays; circPDSS1 stability was determined by agarose gel electrophoresis and actinomycin D treatment; ferroptosis was determined by measuring lipid ROS, MDA, and Fe",
+        "source": "PubMed",
+        "doi": "10.1007/s12010-026-05791-x",
+        "keyword": "Exosomes",
+        "title_ja": "胃がん細胞由来のエクソソームcircPDSS1は、miR-142-3p/ACSL4分子軸を調節することでナチュラルキラー細胞のフェロトーシスを促進する",
+        "summary_ja": "胃癌細胞由来のエクソソーム性circPDSS1は、miR-142-3p/ACSL4分子軸を調節することでナチュラルキラー（NK）細胞のフェロトーシスを促進する。NK細胞は胃癌（GC）に対する重要な免疫細胞だが、腫瘍微小環境でフェロトーシスを起こし抗腫瘍効果が減弱する。エクソソーム性circRNAはGCの進行に影響する。circPDSS1の癌促進的役割は既報だが、NK細胞フェロトーシスへの関与は不明であった。本研究では、GC細胞（HGC-27、AGS、MKN-45）とヒトNK-92細胞の非接触共培養系を確立し、ヒト化マウスおよびCDX腫瘍モデルを用いて検討した。細胞死と生存率はフローサイトメトリー、LDH放出アッセイ、CCK-8アッセイで評価。circPDSS1安定性はアガロースゲル電気泳動とアクチノマイシンD処理で確認。フェロトーシスは脂質ROS、MDA、Feレベルで測定した。"
+      },
+      {
+        "title": "Oral connexin43-peptide-loaded milk extracellular vesicles mitigate lethal radiation injury while preserving tumour radiosensitivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42320876/",
+        "abstract": "Ionizing radiation is central to cancer therapy, where normal-tissue toxicity limits dose escalation, and is also a major hazard in accidental or mass-casualty exposures, where practical radiomitigators for radiosensitive organs are urgently needed. We investigated orally delivered milk extracellular vesicles (mEVs) loaded with the connexin43 carboxyl-terminal peptide αCT11 (XOlacta) in a murine 14 Gy total-body irradiation model and a syngeneic GL261 glioma radiotherapy model. A single oral XOlacta dose given 1 h after total-body irradiation conferred 42% 30-day survival despite an expected 100 % lethality from a 14 Gy challenge, with marked preservation of ileal architecture and femoral bone marrow cellularity, and significant benefit was retained when dosing was delayed to 24 h. Biodistribution studies with fluorescently labelled mEVs showed radiation-enhanced uptake in brain, gut, and bone marrow, consistent with injury-licensed targeting of radiosensitive tissues. In glioma-bearing mice, XOlacta protected normal tissues without diminishing tumour radiosensitivity. These findings identify oral αCT11-loaded mEVs as a potent, non-parenteral radiomitigator that preserves normal-tissue integrity while maintaining tumour response in a therapeutic context, and support connexin-linked mEV-targeting as a promising strategy for both radiotherapy adjuncts and management of high-dose radiation exposures.",
+        "source": "PubMed",
+        "doi": "10.1016/j.canlet.2026.218686",
+        "keyword": "Exosomes",
+        "title_ja": "経口投与によるコネキシン43ペプチド搭載ミルク細胞外小胞は、腫瘍の放射線感受性を維持しつつ致死的放射線障害を軽減する",
+        "summary_ja": "本論文では、経口投与可能なコネキシン43カルボキシル末端ペプチドαCT11（XOlacta）を搭載した乳細胞外小胞（mEVs）の放射線防護効果を検討した。マウス14 Gy全身照射モデルにおいて、照射1時間後の単回経口投与で、致死線量にもかかわらず42%の30日生存率を示し、回腸構造と大腿骨骨髄細胞密度が顕著に維持された。投与を24時間後まで遅延しても有意な効果が認められた。蛍光標識mEVsの生体内分布では、放射線により脳、腸、骨髄への取り込みが増加し、障害を受けた放射線感受性組織への標的化が示唆された。同所性GL261グリオーマ放射線治療モデルでは、XOlactaは正常組織を保護する一方、腫瘍の放射線感受性を低下させなかった。以上より、経口αCT11搭載mEVsは、非経口投与で正常組織を保護しつつ腫瘍治療効果を維持する強力な放射線緩和剤であり、放射線治療補助剤や高線量被ばく管理への応用が期"
+      },
+      {
+        "title": "Exosome-mediated transfer of NOD2 from platelets to monocytes: a novel therapeutic target for atherosclerosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42320698/",
+        "abstract": "Atherosclerosis, the pathological basis of cardiovascular diseases including coronary artery disease and ischemic stroke, is increasingly recognized as a chronic inflammatory disease. The contribution of nucleotide-binding oligomerization domain containing 2 (NOD2), a key pattern recognition receptor in immunity, to atherosclerosis remains poorly defined. This study investigated the role of NOD2 in platelet-mediated monocyte activation and evaluated the therapeutic potential of pharmacological NOD2 inhibition. NOD2 protein wasdecreased in platelets from atherosclerotic patients and mice, accompanied by elevated NOD2 expression in peripheral blood mononuclear cells. These alterations were not attributable to transcriptional regulation. Plasma exosomes from atherosclerotic patients contained increased NOD2 protein. Accordingly, platelet activation caused a reduction in NOD2 protein within platelets and the release of NOD2-enriched exosomes that increased NOD2 expression in THP-1 monocytes. NOD2 overexpression in THP-1 cells enhanced cell migration and proinflammatory response without affecting cell adhesion and differentiation, whereas treatment with the NOD2 receptor antagonist GSK669 attenuated both processes. Mechanistically, NOD2 upregulated LOX-1 and activated the RIP2/JNK/p38 axis during THP-1 differentiation. In hyperlipidemic ApoE",
+        "source": "PubMed",
+        "doi": "10.1016/j.bcp.2026.118183",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを介した血小板から単球へのNOD2の移行：アテローム性動脈硬化症の新たな治療標的",
+        "summary_ja": "本論文は、動脈硬化における血小板由来エクソソームを介したNOD2の単球への移行と、その治療標的としての可能性を検討した。動脈硬化患者およびモデルマウスでは、血小板内NOD2タンパク質が減少し、末梢血単核球でのNOD2発現が上昇したが、転写調節によるものではなかった。血漿エクソソーム中のNOD2タンパク質は増加し、血小板活性化によりNOD2を豊富に含むエクソソームが放出され、THP-1単球でのNOD2発現を亢進させた。THP-1細胞でのNOD2過剰発現は、細胞遊走と炎症応答を促進したが、接着や分化には影響しなかった。一方、NOD2受容体拮抗薬GSK669はこれらの過程を抑制した。メカニズムとして、NOD2はTHP-1分化中にLOX-1を上方制御し、RIP2/JNK/p38経路を活性化した。高脂血症ApoE欠損マウスにおいても、GSK669投与は動脈硬化病変を軽減した。以上より、血小板由来エク"
+      },
+      {
+        "title": "Mechanisms and Therapeutic Implications of Galectins Regulating Epstein-Barr Virus Infection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42320681/",
+        "abstract": "Epstein-Barr virus (EBV) is a ubiquitous herpesvirus associated with a broad spectrum of malignancies and immune-mediated disorders, and growing evidence highlights the importance of host glycan-lectin interactions in shaping viral persistence and immune escape. Among these, galectins have emerged as key regulators of the EBV life cycle, influencing viral attachment, latency maintenance, lytic reactivation, and the remodeling of the tumor microenvironment. Galectin-1, -3, and -9 exhibit context-dependent functions that collectively modulate oncogenic signaling pathways, T‑cell exhaustion, regulatory T‑cell expansion, and innate immune sensing. Recent clinical studies further suggest that circulating galectins and galectin-enriched exosomes may serve as non-invasive biomarkers for disease progression and prognosis in EBV-associated malignancies. Despite these advances, major knowledge gaps remain regarding member-specific functions, compensatory galectin networks, and the spatiotemporal dynamics of galectin regulation during infection. Targeting the galectin-glycan axis therefore represents a promising frontier for host-directed antiviral and anticancer therapies, with the potential to disrupt viral latency, restore antiviral immunity, and improve clinical outcomes in EBV-driven diseases.",
+        "source": "PubMed",
+        "doi": "10.1016/j.virusres.2026.199768",
+        "keyword": "Exosomes",
+        "title_ja": "ガレクチンによるエプスタイン・バーウイルス感染制御のメカニズムと治療的意義",
+        "summary_ja": "エプスタイン・バーウイルス（EBV）は、悪性腫瘍や免疫介在性疾患に関連するヘルペスウイルスであり、宿主のグリカン-レクチン相互作用がウイルスの持続感染と免疫回避に重要である。ガレクチンはEBVの生活環において、ウイルス付着、潜伏維持、溶解性再活性化、腫瘍微小環境の再構築を調節する鍵因子である。ガレクチン-1、-3、-9は状況依存的に機能し、発癌シグナル経路、T細胞疲弊、制御性T細胞増殖、自然免疫感知を調節する。最近の臨床研究では、循環ガレクチンやガレクチン含有エクソソームがEBV関連悪性腫瘍の非侵襲的バイオマーカーとなる可能性が示唆されている。しかし、ガレクチン各メンバーの特異的機能、補償的ネットワーク、感染中の時空間的調節動態については未解明な点が多い。ガレクチン-グリカン軸を標的とする治療は、ウイルス潜伏を破壊し抗ウイルス免疫を回復させる有望な宿主指向性抗ウイルス・抗癌療法の fron"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Keratinocyte-derived exosomes serve as an active messenger platform for LINC01605 to amplify TGF-β1-induced fibroblasts activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42320250/",
+        "abstract": "Hypertrophic scarring (HS) represents a proliferative disorder that emerges due to aberrant wound healing processes and is characterized by the excessive accumulation of extracellular matrix components. Recent research has highlighted the pivotal role of exosomes-nanoscale extracellular vesicles-as crucial mediators of intercellular communication in both tissue repair and pathological states. This study investigates the mechanism by which TGF-β1 modulates the cargo of keratinocyte-derived exosomes to promote the transfer of the long non-coding RNA linc01605. The results reveal that exosomes secreted by TGF-β1-stimulated keratinocytes exhibit heightened profibrotic activity. Upon internalization by human dermal fibroblasts (HDFs), these exosomes markedly enhance cellular proliferation, migration, and collagen I (COL1A1) expression. linc01605, encapsulated within these exosomes, has been identified as the primary molecular mediator. Mechanistically, linc01605 functions as a competitive endogenous RNA that binds miR-370-3p, thereby alleviating the repression of TGFBR2 expression and amplifying the canonical TGF-β1/Smads signaling pathway. In summary, this work elucidates a novel pathogenic pathway in which TGF-β1-induced keratinocyte-derived exosomes mediate the delivery of HS-associated linc01605 to drive fibrosis. These findings not only clarify a fundamental mechanism underlying HS pathogenesis but also reveal potential therapeutic targets for the development of innovative anti-fibrotic strategies.",
+        "source": "PubMed",
+        "doi": "10.1016/j.intimp.2026.117034",
+        "keyword": "Exosomes",
+        "title_ja": "ケラチノサイト由来エクソソームは、LINC01605の活性メッセンジャープラットフォームとして機能し、TGF-β1誘導性の線維芽細胞活性化を増幅する。",
+        "summary_ja": "肥厚性瘢痕（HS）は創傷治癒異常による増殖性疾患で、細胞外基質の過剰蓄積を特徴とする。近年、エクソソームが組織修復や病態における細胞間情報伝達の重要な媒介因子として注目されている。本研究では、TGF-β1がケラチノサイト由来エクソソームの内容物を調節し、長鎖ノンコーディングRNAであるlinc01605の転移を促進する機構を解明した。TGF-β1刺激を受けたケラチノサイトが分泌するエクソソームは、線維化促進活性が亢進し、ヒト皮膚線維芽細胞（HDFs）に取り込まれると、細胞増殖、遊走、コラーゲンI（COL1A1）発現を顕著に増加させた。このエクソソーム内のlinc01605が主要な分子メディエーターであり、競合的内因性RNAとしてmiR-370-3pに結合し、TGFBR2の発現抑制を解除してTGF-β1/Smadsシグナル経路を増幅する。以上より、TGF-β1誘導性ケラチノサイト由来エクソソ"
+      },
+      {
+        "title": "The RNA exosome co-factor CTEXT exists as an independent multiprotein complex in Saccharomyces cerevisiae.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42319778/",
+        "abstract": "In Saccharomyces cerevisiae, the CTEXT (CBC-Tif4631-dependent Exosomal Targeting) complex, consisting of Cbc1/2, Tif4631, Upf3, and Dbp2, defines a novel cofactor of the nuclear RNA exosome promoting the degradation of two distinct classes of faulty transcripts, aberrantly long 3'-extended and export-defective messages.  Interestingly, CTEXT/nuclear RNA exosome also determines the cellular abundance of a group of normal ('special') mRNAs via their preferential decay, thereby exerting regulatory control over a few key cellular processes, including Unfolded Protein Response and the cell's adaptation to nutrient stress.  While previous genetic evidence indicates that CTEXT is composed of Cbc1/2, Tif4631, Upf3, and Dbp2, compelling biochemical evidence supporting that they form a multiprotein complex is currently lacking.  Using systematic biochemical and genetic analyses, we show that all known CTEXT components interact with one another and with specific nuclear RNA exosome components.  Furthermore, the CTEXT components were shown to co-sediment during sucrose gradient centrifugation, thereby affirming that CTEXT exists as a distinct multiprotein complex.  We also demonstrate that Cbc1, Tif4631, and Dbp2 are involved in the initial binding of the RNA exosomal substrate mRNAs - a crucial event for subsequent targeting of aberrant mRNAs to the RNA exosome.  Moreover, Tif4631 and Upf3 facilitate the interaction between CTEXT and the nuclear RNA exosome complex and promote the recruitment of the bound target mRNAs to the RNA exosome for degradation.  Collectively, our findings provide evidence that CTEXT exists as a distinct multiprotein complex that aids the RNA exosome in the preferential nuclear degradation of specific classes of faulty messages.",
+        "source": "PubMed",
+        "doi": "10.1042/BCJ20260288",
+        "keyword": "Exosomes",
+        "title_ja": "RNAエクソソームの共因子CTEXTは、出芽酵母において独立した多タンパク質複合体として存在する。",
+        "summary_ja": "Saccharomyces cerevisiaeにおいて、CTEXT複合体（Cbc1/2、Tif4631、Upf3、Dbp2から構成）は核RNAエクソソームの新規補因子であり、異常に長い3'伸長転写産物や輸出欠陥mRNAの分解を促進する。また、特定の正常mRNAの優先的分解を介して、 unfolded protein responseや栄養ストレス適応などの細胞プロセスを制御する。これまで遺伝学的にCTEXTの構成が示唆されていたが、生化学的証拠は不十分だった。本研究では、系統的な生化学・遺伝学的解析により、CTEXT構成因子が相互に、また特定の核RNAエクソソーム構成因子と相互作用し、ショ糖密度勾配遠心で共沈降することを示し、CTEXTが独立した多タンパク質複合体であることを確認した。さらに、Cbc1、Tif4631、Dbp2はRNAエクソソーム基質mRNAの初期結合に関与し、Tif46"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Pericardial fluid extracellular vesicles enhance angiogenesis and blunt cardiac fibrosis in coronary disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42259138/",
+        "abstract": "To date, we have lacked an understanding of how coronary artery disease (CAD) affects the extracellular vesicle (EV) profile of human pericardial fluid (PF) and there is a paucity of data querying whether PF-derived EVs have functional benefits. This study characterizes PF-derived EVs and assesses their impact on angiogenesis in vitro and in vivo.",
+        "source": "PubMed",
+        "doi": "10.1016/j.biopha.2026.119612",
+        "keyword": "sEVs",
+        "title_ja": "心膜液細胞外小胞は冠動脈疾患において血管新生を促進し、心臓線維化を抑制する",
+        "summary_ja": "本論文は、冠動脈疾患（CAD）がヒト心膜液（PF）由来の細胞外小胞（EV）プロファイルに与える影響と、PF由来EVの機能的効果を検討した。CAD患者のPFからEVを単離・特性評価し、in vitroおよびin vivoでの血管新生への影響を評価した。その結果、PF由来EVは血管新生を促進し、心臓線維化を抑制することが示された。本研究は、CADにおけるPF由来EVの新たな生物学的役割を明らかにし、治療標的としての可能性を示唆する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **ポマリドミドによる樹状細胞エクソソーム（DEXs）の抗腫瘍免疫増強**  \n   多発性骨髄腫患者由来のDEXsにポマリドミドを処理することで、CD80・CD86・MHCクラスIIの発現が向上し、T細胞活性化能が増強。免疫抑制の強い骨髄腫微小環境において、薬剤とエクソソームの併用戦略は新たな免疫療法の基盤となる可能性がある。\n\n2. **血清FAP⁺エクソソームによる肺腺癌の早期診断**  \n   フローサイトメトリーを用いた血清FAP⁺エクソソーム検出は、早期診断・病勢進行評価・手術反応モニタリングに有用。既存バイオマーカーの限界を補う非侵襲的診断法として、臨床応用が期待される。\n\n3. **胃癌エクソソームによるNK細胞フェロトーシス誘導**  \n   胃癌細胞由来のエクソソーム性circPDSS1が、miR-142-3p/ACSL4軸を介してNK細胞のフェロトーシスを促進。腫瘍免疫逃避機構の解明と、フェロトーシス阻害による免疫療法増強の新たな標的を示唆する。\n\n4. **経口投与可能な放射線防護エクソソーム**  \n   コネキシン43ペプチドを搭載した乳細胞外小胞（mEVs）が、致死放射線障害を軽減しつつ腫瘍の放射線感受性を保持。経口投与可能な放射線防護剤として、がん放射線治療の安全性向上に貢献する可能性がある。\n\n5. **血小板エクソソームを介したNOD2移行と動脈硬化治療標的**  \n   動脈硬化患者で血小板由来エクソソームがNOD2を単球に移行し、炎症を促進。エクソソームを介した細胞間情報伝達を遮断する新規治療戦略の開発が期待される。\n\nこれらの研究は、エクソソーム・細胞外小胞が診断・治療・免疫調節において多様な役割を果たすことを示しており、今後の臨床応用に向けた基盤を築いている。"
+}

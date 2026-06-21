@@ -1,0 +1,95 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "NKG2D-based CAR-T cells for synovial sarcoma: A preclinical proof-of-concept study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42259140/",
+        "abstract": "The prognosis for advanced synovial sarcoma remains poor, with limited therapeutic options. Recently, cloned T cell receptor (TCR)-engineered T cell therapy has shown promising results in patients with advanced synovial sarcoma; however, the number of patients eligible for this therapy is limited owing to human leukocyte antigen (HLA) restriction. To solve this problem, we focused on chimeric antigen receptor (CAR)-T cells that target ligands of NKG2D, an activating receptor of natural killer cells. Because NKG2D recognizes a family of eight ligands, we hypothesized that NKG2D-based CARs could function as an intrinsic multi-antigen targeting platform, potentially mitigating antigen heterogeneity and antigen escape, which are key barriers in CAR-T therapy for solid tumors. We first evaluated the surface expression of NKG2D ligands (NKG2DLs) in synovial sarcoma cell lines and examined their transcript levels in public bulk RNA-seq datasets from synovial sarcoma tissues. We then constructed NKG2D-based, 4-1BB-co-stimulated CAR-T cells. These CAR-T cells showed effector responses and antitumor effects against synovial sarcoma cells in vitro, as demonstrated by the results of the intracellular cytokine production, cytokine secretion, CD107a degranulation assay, WST-8 assay, and real-time cell analysis, and in vivo in an NSG mouse xenograft model of synovial sarcoma. Although further mechanistic, translational, and safety validation studies are required, these findings provide a preliminary disease-specific preclinical proof of concept for HLA-independent NKG2D-based CAR-T cell therapy in synovial sarcoma, particularly in patients who are ineligible for or have not responded to TCR-T therapy.",
+        "source": "PubMed",
+        "doi": "10.1016/j.biopha.2026.119637",
+        "keyword": "NK cell therapy",
+        "title_ja": "滑膜肉腫に対するNKG2DベースのCAR-T細胞：前臨床概念実証研究",
+        "summary_ja": "進行性滑膜肉腫の予後は不良で治療選択肢が限られる。TCR遺伝子導入T細胞療法は有望だが、HLA制限により適応患者が限られる。本研究では、NK細胞活性化受容体NKG2Dに着目し、そのリガンド（NKG2DL）を標的とするCAR-T細胞を開発した。NKG2Dは8種類のリガンドを認識するため、抗原不均一性や免疫逃避に対応可能な多抗原標的プラットフォームとして機能すると仮説を立てた。滑膜肉腫細胞株でのNKG2DL発現と、公開RNA-seqデータでの転写レベルを確認後、4-1BB共刺激シグナルを付与したNKG2DベースCAR-T細胞を構築。本CAR-T細胞は、in vitroでのサイトカイン産生、脱顆粒アッセイ、細胞傷害性試験、およびNSGマウス異種移植モデルにおいて抗腫瘍効果を示した。さらなる検証は必要だが、HLA非依存的な本治療法は、TCR-T療法不適格または無効例に対する新たな治療選択肢のpre"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "A potential role for effector T cells with Fc receptors in kidney transplant antibody-mediated rejection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42315234/",
+        "abstract": "Antibody-mediated rejection, a leading cause of kidney transplant failure, is believed to be largely mediated by natural killer cells, with CD16a (FCGR3a) Fc receptors engaging the Fc portions of donor-specific antibodies on the graft endothelium, possibly in concert with \"missing self\" recognition. The paper by Vaulet et al. in this issue raises the possibility that clonally expanded effector T cells with Fc receptors may also play a role in the pathogenesis of antibody-mediated rejection.",
+        "source": "PubMed",
+        "doi": "10.1016/j.kint.2026.04.011",
+        "keyword": "NK cell therapy",
+        "title_ja": "腎移植抗体関連拒絶反応におけるFc受容体を持つエフェクターT細胞の潜在的役割",
+        "summary_ja": "本論文は、腎移植における抗体関連型拒絶反応（AMR）の病態に、Fc受容体を持つエフェクターT細胞が関与する可能性を指摘する。従来、AMRは主にナチュラルキラー細胞がCD16a（FCGR3a）Fc受容体を介して移植片内皮上のドナー特異抗体のFc部分に結合し、「missing self」認識と協調して引き起こされると考えられてきた。しかし、Vauletらの報告は、クローン性に増殖したFc受容体陽性エフェクターT細胞もAMR発症に寄与する可能性を示唆している。この知見は、AMRの理解と治療標的の拡大に寄与する可能性がある。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosomal MALAT1 expression associated with the cardioprotective effects of carvacrol in acute doxorubicin-induced cardiac injury: Potential involvement of Nrf2/Keap1-related signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42259137/",
+        "abstract": "Doxorubicin remains an indispensable component of many chemotherapy regimens; however, its clinical use is limited by dose-dependent cardiotoxicity that may progress to dilated cardiomyopathy and heart failure. In the present study, we investigated the effects of the phytochemical carvacrol on cardiac function, apoptosis, and Nrf2/Keap1-related gene expression, as well as its association with extracellular vesicle-associated MALAT1 expression. Rats received oral carvacrol treatment for two weeks prior to a single 20 mg/kg doxorubicin injection to induce acute cardiac injury. Cardiac function and myocardial apoptosis were evaluated two days after doxorubicin administration. H9c2 cardiomyoblast cells were exposed to co-treatment or pretreatment protocols using carvacrol (50, 100, and 300 µM) in combination with 0.5 µM doxorubicin. Nrf2, Keap1, and extracellular vesicle-associated MALAT1 expression levels were evaluated using quantitative PCR. Caspase-3/7 activity was also assessed as an indicator of apoptotic activity. Doxorubicin treatment impaired cardiac function, increased apoptotic activity in myocardial tissue and H9c2 cells, upregulated Keap1 expression, and reduced Nrf2 transcript levels. Carvacrol treatment reduced apoptotic activity, improved cardiac functional parameters, downregulated Keap1 expression, and increased Nrf2 and extracellular vesicle-associated MALAT1 expression, with pretreatment protocols showing comparatively greater protective effects. These findings suggest that carvacrol may attenuate acute doxorubicin-induced cardiac injury in association with modulation of Nrf2/Keap1-related gene expression and altered extracellular vesicle-associated MALAT1 levels. Further mechanistic studies are required to clarify the functional role of exosomal MALAT1 in these effects.",
+        "source": "PubMed",
+        "doi": "10.1016/j.biopha.2026.119606",
+        "keyword": "Exosomes",
+        "title_ja": "急性ドキソルビシン誘発心筋障害におけるカルバクロールの心保護効果に関連するエクソソームMALAT1発現：Nrf2/Keap1関連シグナル伝達の潜在的関与",
+        "summary_ja": "本論文では、ドキソルビシン誘発性急性心筋障害に対する植物化学物質カルバクロールの保護効果を検討した。ドキソルビシンは化学療法に必須だが、用量依存的な心毒性により拡張型心筋症や心不全を引き起こす。ラットにカルバクロールを2週間前投与後、ドキソルビシン20 mg/kgを単回投与し、心機能とアポトーシスを評価。H9c2心筋芽細胞では、カルバクロール（50, 100, 300 µM）とドキソルビシン0.5 µMの共処理または前処理を行った。qPCRでNrf2、Keap1、細胞外小胞関連MALAT1発現を、Caspase-3/7活性でアポトーシスを評価。ドキソルビシンは心機能低下、アポトーシス増加、Keap1発現上昇、Nrf2低下を誘発。カルバクロールはアポトーシス抑制、心機能改善、Keap1低下、Nrf2およびMALAT1発現上昇を示し、前処理でより効果的だった。カルバクロールはNrf2/Keap"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Steatotic hepatocyte-derived exosomes increase free fatty acids uptake by transporting miR-122-5p to target ATP6V1H-mediated CD36 translocation in hepatocytes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42244364/",
+        "abstract": "Hepatic steatosis is a notable feature of metabolic-associated fatty liver disease (MAFLD), which is associated with exosomal miR-122-5p. However, the mechanisms by which exosomal miR-122-5p is involved in the transport of free fatty acid (FFA) remain uncharacterized. The aim of the present study was to investigate the functional role of exosomal miR-122-5p derived from steatotic hepatocytes in hepatic CD36 translocation. Exosomes from PBS- or FFA-treated AML12 cells were extracted via ultracentrifugation (Ctrl-exo or steatotic hepatocyte-derived exosome (SH-exo)), and recipient AML12 cells were treated with them for 24 h. Additionally, AML12 cells were transfected with miR-122-5p mimic or inhibitor for 24 h. A dual-luciferase reporter assay was applied to identify miR-122-5p targeting 3' UTR of ATP6V1H mRNA. RT-qPCR and western blot assessed the expressions of miR-122-5p, CD36, and ATP6V1H in exosomes and recipient AML12 cells. The miR-122-5p down-regulates ATP6V1H expression by directly targeting the 3' UTR of ATP6V1H mRNA. SH-exo were absorbed by recipient AML12 cells and exhibited elevated levels of miR-122-5p. The SH-exo increased FFA uptake, promoted CD36 translocation, and disrupted v-ATPase assembly in recipient AML12 cells by down-regulating the ATP6V1H expression in an insulin-independent manner. MiR-122-5p mimic similarly increased FFA uptake and CD36 translocation by inhibiting ATP6V1H expression in AML12 cells. Furthermore, miR-122-5p inhibitor reduced the FFA content and increased ATP6V1H expression in SH-exo-treated AML12 cells. Our findings indicated that exosomal miR-122-5p, derived from steatotic hepatocytes, can increase FFA uptake and promote CD36 translocation in recipient hepatocytes by directly targeting ATP6V1H expression, suggesting that hepatic exosomal miR-122-5p may serve as a potential therapeutic target for MAFLD.",
+        "source": "PubMed",
+        "doi": "10.1042/CS20261179",
+        "keyword": "Exosomes",
+        "title_ja": "脂肪変性肝細胞由来のエクソソームは、miR-122-5pを輸送して肝細胞におけるATP6V1Hを介したCD36の転座を標的とすることにより、遊離脂肪酸の取り込みを増加させる。",
+        "summary_ja": "脂肪肝（MAFLD）の特徴である肝脂肪変性には、エクソソーム由来のmiR-122-5pが関与するが、遊離脂肪酸（FFA）輸送への関与機序は未解明である。本研究では、脂肪化肝細胞由来エクソソーム（SH-exo）のmiR-122-5pが、肝細胞のCD36転座に及ぼす役割を検討した。PBSまたはFFA処理AML12細胞から超遠心でエクソソームを抽出し、受容体AML12細胞に添加。miR-122-5p mimic/inhibitor導入後、デュアルルシフェラーゼアッセイでATP6V1H mRNAの3'UTRへの結合を確認。RT-qPCRとウェスタンブロットで発現を評価した。miR-122-5pはATP6V1Hを直接標的として発現を抑制。SH-exoは受容体細胞に取り込まれ、miR-122-5pを高発現し、インスリン非依存的にATP6V1H発現低下を介してFFA取り込み増加、CD36転座促進、v-A"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **NKG2D-based CAR-T細胞療法（滑膜肉腫）**：HLA制限を克服し、NKG2Dリガンドを標的とする新規CAR-T細胞を開発。進行性滑膜肉腫への適応拡大が期待され、固形腫瘍へのCAR-T応用の突破口となる可能性がある。\n\n2. **腎移植AMRにおけるFc受容体陽性T細胞**：従来NK細胞が主体とされた抗体関連型拒絶反応に、Fc受容体を持つエフェクターT細胞が関与する新たな病態機序を提示。診断・治療標的の再考を促す重要な知見。\n\n3. **エクソソームMALAT1と心保護効果（カルバクロール）**：ドキソルビシン心毒性に対し、カルバクロールがエクソソームMALAT1を介してNrf2/Keap1経路を活性化する保護機構を解明。化学療法時の心合併症予防に新たな戦略を示す。\n\n4. **脂肪肝由来エクソソームとmiR-122-5p**：脂肪化肝細胞が放出するエクソソーム中のmiR-122-5pが、ATP6V1Hを介したCD36トランスロケーションにより遊離脂肪酸取込みを促進する機序を解明。MAFLDの病態連鎖をエクソソームが媒介する新概念。\n\n5. **sEVs（小型細胞外小胞）の治療応用**：上記研究に共通するsEVsの疾患特異的カーゴ（MALAT1、miR-122-5p）は、バイオマーカーや治療標的として極めて有望。特に非コードRNAを搭載したsEVsは、臓器間クロストークを制御する次世代DDS基盤として今後の臨床展開が期待される。"
+}

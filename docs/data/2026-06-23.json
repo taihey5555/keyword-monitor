@@ -1,0 +1,145 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Correction to \"PAI-1 Induction During Kidney Injury Promotes Fibrotic Epithelial Dysfunction via Deregulation of Klotho, p53, and TGF-β1-Receptor Signaling\".",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42322305/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202603013",
+        "keyword": "Klotho",
+        "title_ja": "「腎障害時のPAI-1誘導がKlotho、p53、TGF-β1受容体シグナルの調節異常を介して線維性上皮機能障害を促進する」の訂正",
+        "summary_ja": "以下の論文の訂正記事を要約します。\n\n本訂正は、タイトル「PAI-1 Induction During Kidney Injury Promotes Fibrotic Epithelial Dysfunction via Deregulation of Klotho, p53, and TGF-β1-Receptor Signaling」に関するものです。内容の詳細は明記されていませんが、原著論文の一部に修正が加えられたことを示しています。専門用語として、PAI-1（プラスミノーゲンアクチベーターインヒビター1）、Klotho、p53、TGF-β1受容体シグナル伝達が用いられており、腎障害時のPAI-1誘導がこれらの経路を介して線維性上皮機能障害を促進するメカニズムに関連します。訂正の具体的な箇所や影響範囲については、本記事からは判断できません。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Beyond Hemostasis: Platelet Biomarkers and Vascular-Immune Crosstalk in Dengue.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42328715/",
+        "abstract": "Dengue is an arboviral disease with major global public health impact. Its pathophysiology involves complex interactions between the virus and the host, including the immune response and the vascular endothelium. In this context, platelets play roles beyond hemostasis, acting as key immunomodulatory cells involved in inflammation and the regulation of vascular permeability. Therefore, this review summarizes and discusses the so called classic and non-classic platelet-related and endothelial biomarkers described in dengue virus infection. Classical biomarkers include P-selectin (CD62P), PF4/CXCL4, RANTES/CCL5, CD40L, IL-1β, VEGF, integrin αIIbβ3, CD63, and platelet extracellular vesicles, all supported by broad experimental and clinical evidence. Non-classical or emerging biomarkers include TLT-1, TREM-1/sTREM-1, angiopoietins (Ang-1/Ang-2), serotonin, ferritin, dengue virus envelope domain III (EIII), and soluble endothelial molecules such as IL-1RA, sCD163, SDC-1, sVCAM-1, IL-8, and IP-10. Alone or in combination, these markers can be used/explored as prognostic tools and/or as therapeutic targets. Finally, integrating multimarker panels encompassing hemostatic, inflammatory, and endothelial pathways may improve prognostic stratification. This approach could support targeted interventions and help reduce complications such as thrombocytopenia, plasma leakage, and dengue shock.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202600884RR",
+        "keyword": "PF4",
+        "title_ja": "止血を超えて：デング熱における血小板バイオマーカーと血管-免疫クロストーク",
+        "summary_ja": "デング熱はアルボウイルス疾患であり、その病態生理にはウイルスと宿主の免疫応答や血管内皮との複雑な相互作用が関与する。血小板は止血を超え、炎症や血管透過性調節に関わる免疫調節細胞として重要である。本レビューでは、デングウイルス感染における古典的および非古典的血小板関連・内皮バイオマーカーを総括する。古典的バイオマーカーにはP-selectin、PF4/CXCL4、RANTES/CCL5、CD40L、IL-1β、VEGF、インテグリンαIIbβ3、CD63、血小板細胞外小胞が含まれ、広範な実験・臨床的エビデンスに裏付けられている。非古典的または新興バイオマーカーとしてはTLT-1、TREM-1/sTREM-1、アンジオポエチン（Ang-1/Ang-2）、セロトニン、フェリチン、デングウイルスエンベロープドメインIII（EIII）、可溶性内皮分子（IL-1RA、sCD163、SDC-1、sVCA"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosomes: A new frontier in the treatment of neurological diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42325550/",
+        "abstract": "Exosomes (Exos) are an essential class of extracellular vesicles enriched with a wide range of biologically active molecules, which gives them a unique advantage in participating in intercellular signaling and communication and serving as carriers for drug delivery. Exo-based diagnostic and therapeutic strategies are currently hot topics in disease research. Owing to their naturally low immunogenicity, good biocompatibility, ability to penetrate the blood‒brain barrier (BBB), and engineered modifications, exos have significant advantages and possible applications in the treatment of nervous system diseases. Due to the serious harm of neurological diseases to human health, they have been widely studied by researchers. Exos can be administered in a variety of ways, including intranasal administration, intracranial administration, local stereotactic injection, and encapsulation in biomaterials, each of which has its own advantages and disadvantages. However, several requirements need to be met before exo-based therapies can be implemented, such as the standardization of isolation and purification techniques, an in-depth understanding of the mechanism of action, and safety assessments and regulation for clinical translation. The aim of this review is to provide a comprehensive overview of the biogenesis, molecular composition, function, and delivery modes of exos and their therapeutic roles and mechanisms in neurological diseases (e.g., multiple sclerosis (MS), Alzheimer's disease (AD), Parkinson's disease (PD), and stroke) and to discuss the current challenges and future perspectives to support ongoing research and clinical applications.",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.116331",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム：神経疾患治療の新たなフロンティア",
+        "summary_ja": "エクソソーム（Exos）は、生物活性分子を豊富に含む細胞外小胞であり、細胞間シグナル伝達や薬物送達担体として優れる。低免疫原性、高い生体適合性、血液脳関門（BBB）透過能、工学的改変可能性から、神経疾患治療において有望視される。投与方法は経鼻、頭蓋内、定位注射、生体材料封入等多様だが、各々に利点と欠点がある。実用化には、単離精製の標準化、作用機序の解明、安全性評価と規制が課題である。本総説は、Exosの生合成、分子組成、機能、送達様式、および多発性硬化症（MS）、アルツハイマー病（AD）、パーキンソン病（PD）、脳卒中における治療役割と機構を包括的に概説し、現在の課題と将来展望を議論する。"
+      },
+      {
+        "title": "Extracellular vesicles as diagnostic and prognostic biomarkers in non-small cell lung Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42323710/",
+        "abstract": "Non-small cell lung cancer (NSCLC) remains the leading cause of cancer-related mortality worldwide, largely due to late-stage diagnosis and limited availability of reliable biomarkers. Extracellular vesicles (EVs) are membrane-bound nanoparticles released by cells that carry nucleic acids, proteins, and lipids reflective of their cellular origin. Their stability and accessibility through minimally invasive sampling make them promising liquid biopsy biomarkers.",
+        "source": "PubMed",
+        "doi": "10.1080/14737159.2026.2693700",
+        "keyword": "Exosomes",
+        "title_ja": "細胞外小胞による非小細胞肺癌の診断および予後バイオマーカー",
+        "summary_ja": "非小細胞肺癌（NSCLC）は、診断の遅れと信頼性の高いバイオマーカーの不足により、世界のがん関連死因の首位である。細胞外小胞（EVs）は、細胞から放出される膜結合性ナノ粒子で、由来細胞を反映する核酸、タンパク質、脂質を内包する。EVsは安定性が高く、低侵襲なサンプリングで採取可能なため、リキッドバイオプシーにおける診断・予後バイオマーカーとして有望視されている。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Oxidative stress-preconditioned exosomes target BMF to restore mitophagy for alleviating intervertebral disc degeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42329074/",
+        "abstract": "Exosomes derived from bone marrow mesenchymal stem cells (BMSCs) represent a promising cell-free strategy for intervertebral disc degeneration (IDD). Here, we obtained oxidative stress-preconditioned exosomes (O-Exos) from BMSCs exposed to low-concentration hydrogen peroxide. Compared with exosomes from untreated cells (N-Exos), O-Exos more effectively delayed nucleus pulposus (NP) cell senescence and attenuated IDD in vitro and in vivo. The superior effects of O-Exos were associated with restoration of mitophagy and improved mitochondrial homeostasis in TNF/TNF-α-treated NP cells. BMF (Bcl2 modifying factor) was identified as a functionally relevant downstream target suppressed by O-Exos, and ",
+        "source": "PubMed",
+        "doi": "10.1080/15548627.2026.2693774",
+        "keyword": "Exosomes",
+        "title_ja": "酸化ストレスプレコンディショニング処理されたエクソソームはBMFを標的とし、ミトファジーを回復させることで椎間板変性を緩和する",
+        "summary_ja": "酸化ストレス前処理エクソソームはBMFを標的としてマイトファジーを回復し、椎間板変性症（IDD）を緩和する。骨髄間葉系幹細胞（BMSCs）由来エクソソームはIDDに対する無細胞治療戦略として有望である。本研究では、低濃度過酸化水素に曝露したBMSCsから酸化ストレス前処理エクソソーム（O-Exos）を取得した。未処理細胞由来エクソソーム（N-Exos）と比較し、O-Exosはin vitroおよびin vivoで髄核（NP）細胞の老化を遅延させ、IDDをより効果的に軽減した。この優れた効果は、TNF/TNF-α処理NP細胞におけるマイトファジーの回復とミトコンドリア恒常性の改善に関連していた。O-Exosによって抑制される機能的標的としてBMF（Bcl2 modifying factor）が同定された。"
+      },
+      {
+        "title": "Exercise-derived exosomal miR-151-3p: An innovative anti-inflammatory and antioxidant therapeutic for spinal cord injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42327493/",
+        "abstract": "Exercise (Exe) training is a cornerstone of multimodal rehabilitation of patients with spinal cord injury (SCI), yet the precise mechanisms through which it exerts its therapeutic benefits remain unclear. Exosomes (Exos) are key mediators of intercellular communication and promising vehicles for targeted therapy. This study aimed to investigate the function and underlying mechanism of exercise-derived exosomes (Exe-Exos) in SCI recovery. Circulating Exos were isolated from rats subjected to a 4-week treadmill Exe regimen and from sedentary controls. A gelatin methacrylate (GelMA) hydrogel microneedles (Hyd MNs) system was developed for the targeted, sustained delivery of these Exos directly to the injury epicenter at the T10 spinal segment in a rat SCI model. Using integrated in vitro and in vivo approaches, we showed that Exe-Exos significantly promoted motor function recovery, attenuated tissue damage, reduced apoptosis, and alleviated both inflammation and oxidative stress (Oxs) after SCI. Small RNA sequencing revealed that miR-151-3p is a key functional cargo that is enriched in Exe-Exos. Gain- and loss-of-function studies revealed that exosomal miR-151-3p exerts its protective effects by directly targeting the mitochondrial membrane protein ROMO1. This targeting led to the coordinated inhibition of the pro-apoptotic JNK/Caspase pathway, suppression of the NF-κB-mediated inflammatory cascade, and activation of the Nrf2/HO-1 antioxidant axis. Collectively, our findings establish Exe-Exos, specifically exosomal miR-151-3p, as an exercise-responsive circulating signaling axis that orchestrates multifaceted protection against secondary injury after SCI, offering an innovative, mechanism-based strategy for neuroregenerative therapy.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.06.009",
+        "keyword": "Exosomes",
+        "title_ja": "運動由来のエクソソームmiR-151-3p：脊髄損傷に対する革新的な抗炎症・抗酸化治療薬",
+        "summary_ja": "運動トレーニングは脊髄損傷（SCI）のリハビリに重要だが、その治療メカニズムは不明である。本研究では、運動由来エクソソーム（Exe-Exos）のSCI回復における機能を検討した。4週間のトレッドミル運動を行ったラットから循環Exosを単離し、ゼラチンメタクリレート（GelMA）ハイドロゲルマイクロニードル（Hyd MNs）システムを用いて、SCIモデルラットのT10損傷部位に持続的に送達した。Exe-Exosは運動機能回復を促進し、組織損傷、アポトーシス、炎症、酸化ストレス（Oxs）を軽減した。small RNAシーケンスにより、miR-151-3pがExe-Exosに豊富に含まれる機能性カーゴであることが判明。miR-151-3pはミトコンドリア膜タンパク質ROMO1を標的とし、JNK/Caspase経路の抑制、NF-κB炎症カスケードの抑制、Nrf2/HO-1抗酸化軸の活性化を介して保"
+      },
+      {
+        "title": "Enhanced exosome biomanufacturing, precision isolation, and advanced engineering: toward mechanistic regulation and biomaterial integration for osteoarthritis therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42324515/",
+        "abstract": "Exosomes (Exos) are nanoscale extracellular vesicles that have gained attention as promising therapeutic agents due to their unique biological attributes, immunomodulatory roles, and potential for targeted drug delivery. This review systematically explores their biological origins, secretion mechanisms, and cellular uptake dynamics of Exos. We explore strategies to enhance Exos production, including genetic modifications and optimized culture conditions, and compare purification methods such as ultracentrifugation and size-exclusion techniques, noting their advantages and disadvantages. Additionally, we discuss the engineering of Exos for drug delivery applications through methods like electroporation and physicochemical modifications. Focusing on osteoarthritis (OA)-a widespread degenerative joint disorder lacking effective clinical treatments for halting its progression or promoting cartilage regeneration-we elaborate on the therapeutic mechanisms of Exos in this context, including regulation of inflammatory responses, enhancement of chondrocyte survival, promotion of matrix synthesis, and inhibition of pathological angiogenesis via bioactive molecules like microRNAs and proteins. To address the challenges of rapid clearance and insufficient targeting in vivo, we propose innovative delivery systems using polymer-based and natural biomaterials to improve Exos retention and stability within the joint cavity. This approach aims to optimize therapeutic outcomes and bridge fundamental biological research with clinical applications, advancing next-generation OA treatment strategies.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04710-w",
+        "keyword": "Exosomes",
+        "title_ja": "エンハンストエクソソームのバイオマニュファクチャリング、高精度単離、および先進的工学：変形性関節症治療のためのメカニズム制御と生体材料統合に向けて",
+        "summary_ja": "このレビュー論文は、エクソソーム（Exos）の生物学的起源、分泌機構、細胞内取り込み動態を体系的に解説し、遺伝子改変や培養条件最適化による生産向上、超遠心法やサイズ排除クロマトグラフィーなどの精製法の比較、エレクトロポレーション等を用いた薬物送達への工学的応用を論じる。特に変形性関節症（OA）治療に焦点を当て、Exosが炎症調節、軟骨細胞生存促進、マトリックス合成亢進、病的血管新生抑制をmiRNAやタンパク質を介して発揮する機序を詳述。さらに、関節腔内での急速なクリアランスと標的指向性不足を克服するため、ポリマーや天然生体材料を用いた革新的送達システムを提案し、滞留性と安定性を向上させることで、基礎研究と臨床応用を橋渡しする次世代OA治療戦略を提示する。"
+      },
+      {
+        "title": "Melatonin-treated bone marrow mesenchymal stem cell-derived exosomes reverse liver fibrosis induced by CCl4 in male wistar albino rats.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42324293/",
+        "abstract": "Liver fibrosis is defined as the substitution of hepatocytes with extracellular matrix (ECM) proteins, accompanied by abnormalities in matrix remodelling. We aimed to assess the efficacy of melatonin-pretreated bone marrow mesenchymal stem cell-derived exosomes (MT/Exos) in mitigating liver fibrosis. MT/Exos were isolated from their parent cells and characterised by measuring protein content, particle size, and cluster of differentiation (CD) markers. In vivo studies (MT/Exos (100 µg/rat) via the caudal vein twice weekly for 4 weeks) include assessment of liver biomarkers, oxidative stress markers, inflammatory cytokines, apoptotic markers, fibrotic cytokines, and histopathological changes. MT/Exos with 1 mg/ml protein showed double-membrane vesicles sized 50-100 nm, and expressed CD63 and CD81 markers. Treated rats showed restoration of albumin levels, significant improvements in liver enzymes, notable elevations in SOD activity and Nrf2 levels, and a marked reduction in MDA levels. TNF-α, IL-17, NF-κB-p50, and p65 levels were attenuated, and IL-10 levels increased significantly. p53, Bax, caspase-3, TGF-β, SMAD3, collagen I, and miRNA 196 also showed a substantial decrease in treated rats (P < 0.05). Histopathological examination confirmed a marked reduction of collagen deposition and inflammatory infiltration. MT/Exos were successfully isolated and characterized. The MT/Exos-treated group showed improvements in all liver function parameters, with increased levels of antioxidant and anti-inflammatory markers. MT/Exos reduced apoptotic and fibrotic modulators and improved histopathological features. These findings confirm the synergistic effect of melatonin preconditioning in improving the therapeutic potential of MSC-derived exosomes as a novel anti-fibrotic agent. Overall, MT/Exos may offer a promising therapeutic approach for liver fibrosis with potential clinical relevance pending further studies.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-58433-x",
+        "keyword": "Exosomes",
+        "title_ja": "メラトニン処理した骨髄間葉系幹細胞由来エクソソームは、雄性ウィスターアルビノラットにおける四塩化炭素誘発性肝線維症を改善する",
+        "summary_ja": "本論文では、肝線維症に対するメラトニン前処理骨髄間葉系幹細胞由来エクソソーム（MT/Exos）の治療効果を評価した。MT/Exosは親細胞から単離・特性評価され、タンパク質含量、粒子径（50–100 nm）、CD63・CD81マーカー発現が確認された。雄WistarラットにCCl4誘発肝線維症を形成後、MT/Exos（100 µg/rat）を尾静脈投与（週2回、4週間）した。その結果、アルブミン値回復、肝酵素改善、SOD活性・Nrf2上昇、MDA低下、TNF-α・IL-17・NF-κB-p50・p65抑制、IL-10増加、p53・Bax・caspase-3・TGF-β・SMAD3・collagen I・miRNA 196低下が認められた（P<0.05）。組織学的にもコラーゲン沈着と炎症浸潤が顕著に減少した。MT/Exosは抗酸化・抗炎症マーカーを増加させ、アポトーシス・線維化調節因子を抑制"
+      },
+      {
+        "title": "Molecular senescence, neuroendocrine metaflammation, and skeletal muscle insulin resistance in type-4 diabetes: from mitochondrial dysfunction to precision therapeutics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42324036/",
+        "abstract": "With the global population aged 65 years and older projected to exceed 1.5 billion by 2050, sarcopenia-driven insulin resistance is emerging as an urgent yet still under-recognised contributor to the diabetes burden in older adults, underscoring the timeliness of a focused molecular synthesis of this entity for guiding both diagnostic recognition and therapeutic prioritisation. Molecularly different, age-driven insulin resistance promotes skeletal muscle ageing, mitochondrial bioenergetic collapse, and prolonged neuroendocrine metaflammation in type-4 diabetes (T4DM). In ageing myocytes, poor IRS-1/PI3K/Akt signalling, GLUT4 trafficking anomalies, AMPK suppression, ROS-mediated mtDNA instability, and decreased OXPHOS capacity induce T4DM. Senescent muscle cells generate IL-6, TNF-α, and MCP-1 when p16INK4a/p21 checkpoints activate, forming a self-reinforcing inflammatory cycle. Myostatin overactivation, irisin decrease, and FGF21 imbalance influence glucose homeostasis. Metabolism declines due to hypothalamic insulin resistance, microglial inflammation, gut dysbiosis-driven TLR4/NF-κB signalling, and epigenetic remodelling via miR-29, miR-34a, and l Using precision biomarkers like GDF-15, β2-microglobulin, and p16INK4a with multi-omics phenotyping may change diagnosis. Senolytics, NAD⁺ replenishment, SIRT1 activators, mitophagy inducers, anti-myostatin medicines, and exosome-based therapies shift metabolic care towards senescence. T4DM's molecular architecture and precision geriatric endocrinology translational targets are reviewed here.",
+        "source": "PubMed",
+        "doi": "10.1016/j.diabres.2026.113386",
+        "keyword": "Exosomes",
+        "title_ja": "4型糖尿病における分子老化、神経内分泌メタ炎症、および骨格筋インスリン抵抗性：ミトコンドリア機能障害から精密治療へ",
+        "summary_ja": "世界的な高齢化（65歳以上人口が2050年に15億人超と予測）に伴い、サルコペニア駆動性インスリン抵抗性が高齢者の糖尿病負荷の要因として注目されている。本稿は、タイプ4糖尿病（T4DM）における分子老化、神経内分泌メタフラメーション、骨格筋インスリン抵抗性を統合的に考察する。T4DMでは、加齢筋細胞におけるIRS-1/PI3K/Aktシグナル低下、GLUT4輸送異常、AMPK抑制、ROS介在性mtDNA不安定性、OXPHOS能低下が生じる。老化筋細胞はp16INK4a/p21チェックポイント活性化によりIL-6、TNF-α、MCP-1を産生し、炎症サイクルを形成。ミオスタチン過活性化、イリシン減少、FGF21不均衡が糖代謝に影響する。視床下部インスリン抵抗性、ミクログリア炎症、腸内細菌叢異常によるTLR4/NF-κBシグナル、miR-29/miR-34aを介したエピジェネティックリモデリン"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます（500文字以内）。\n\n1. **運動由来エクソソームによる脊髄損傷治療**（Exercise-derived exosomal miR-151-3p）  \n   運動が脊髄損傷後の回復を促すメカニズムとして、エクソソーム内包miR-151-3pの抗炎症・抗酸化作用を初めて解明。リハビリの分子基盤を提供し、新規治療法開発に直結する。\n\n2. **酸化ストレス前処理エクソソームによる椎間板変性症治療**（Oxidative stress-preconditioned exosomes）  \n   低濃度H₂O₂で前処理したBMSC由来エクソソームがBMFを標的とし、マイトファジーを回復。無細胞治療として実用化が期待され、変性疾患への応用範囲を広げる。\n\n3. **メラトニン前処理エクソソームによる肝線維症治療**（Melatonin-treated BMSC-Exos）  \n   メラトニン処理によりエクソソームの抗線維化能が増強。CCl4誘発肝線維症モデルで有効性を確認し、肝疾患への新たな細胞外小胞治療戦略を示す。\n\n4. **血小板バイオマーカーとデング熱の血管免疫クロストーク**（Beyond Hemostasis）  \n   血小板が止血を超え、デング熱における血管透過性や免疫調節に果たす役割を総説。新規バイオマーカーや治療標的としての血小板由来因子の可能性を提示。\n\n5. **エクソソームの神経疾患治療への応用**（Exosomes: A new frontier）  \n   低免疫原性・BBB透過能・工学的改変可能性を活かし、神経疾患への薬物送達担体として期待。投与経路や標的化技術の進展が今後の臨床応用を加速する。"
+}

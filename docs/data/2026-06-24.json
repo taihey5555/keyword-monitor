@@ -1,0 +1,166 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Association between soluble Klotho levels and calcification propensity T50 in patients with hemodialysis: a cross-sectional study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42332137/",
+        "abstract": "Soluble Klotho is an anti-aging hormone implicated in vascular calcification. The calcification propensity score (T50) is a method used to evaluate the calcification propensity. However, no study has evaluated the association between soluble Klotho and T50. Therefore, this study aimed to investigate the association between soluble Klotho and T50 in patients undergoing hemodialysis. This cross-sectional study recruited patients undergoing hemodialysis. We measured T50 using the turbidimetric method and soluble Klotho using an enzyme-linked immunosorbent assay. Multiple regression analysis was used to examine the association between soluble Klotho and T50. In total, 199 patients were included in this study. Patients' mean age was 65.2 ± 10.2 years, and the median soluble Klotho concentration was 408 (321-525) pg/mL. The serum T50 value was 78 (63-104) minutes. The correlation coefficient between T50 and soluble Klotho was 0.39 (p < 0.001). Multivariate analysis revealed that the T50 value was significantly longer when comparing the group with the lowest and highest Klotho concentrations (β-coefficient = 21.3 [95% confidence interval: 4.5-38.2, p < 0.013]). The analysis of hemodialysis patients revealed for the first time that Klotho is associated with the T50 time. Soluble Klotho may be involved in vascular calcification.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-55652-0",
+        "keyword": "Klotho",
+        "title_ja": "血液透析患者における可溶性Klotho濃度と石灰化傾向T50の関連性：横断研究",
+        "summary_ja": "血液透析患者における可溶性Klothoと石灰化傾向T50の関連を検討した横断研究。可溶性Klothoは抗老化ホルモンで血管石灰化に関与し、T50は石灰化傾向を評価する指標である。199名の血液透析患者（平均年齢65.2歳）を対象に、T50を比濁法、可溶性KlothoをELISAで測定。可溶性Klotho中央値408 pg/mL、T50中央値78分。両者の相関係数は0.39（p<0.001）。多変量解析では、Klotho濃度最低群と最高群でT50が有意に延長（β係数21.3、95%CI 4.5-38.2、p<0.013）。血液透析患者において初めて、KlothoとT50の関連が示され、可溶性Klothoが血管石灰化に関与する可能性が示唆された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Platelet activation stimulates macrophages to enhance ulcerative colitis through PF4/CXCR3 signaling",
+        "url": "https://www.semanticscholar.org/paper/08b505157cf8a2959731d4302c132d473506e630",
+        "abstract": "Platelets are involved in hemostasis and immune regulation, but little is currently known regarding their role in inflammatory bowel disease. In the present study, the mechanism by which platelet activation affects macrophage C-X-C motif chemokine receptor 3 (CXCR3) by releasing platelet factor 4 (PF4), thus aggravating ulcerative colitis (UC) disease progression, was investigated. A dextran sulfate sodium-induced mouse model showed co-localization of the platelet marker PF4 with the macrophage M1 marker inducible nitric oxide synthase. Furthermore, co-culturing platelets with monocytes (THP-1) in vitro led to the transformation of monocytes into macrophages, as well as the activation of macrophages exhibiting proinflammatory properties. Meanwhile, reverse transcription-quantitative PCR (RT-qPCR) showed that inflammatory factors, such as IL-1β, IL-6 and TNF-α were significantly increased in macrophages after platelet co-culture. It was therefore hypothesized that the PF4/CXCR3 pathway may serve an important role in cell-to-cell communication. Furthermore, intervention with PF4 in THP-1 cells induced the M1 macrophage phenotype and inflammatory cytokine expression, which was consistent with co-culturing, whereas inhibition of CXCR3 (AMG487) reversed the effects of PF4. In addition, following treatment with PF4, THP-1 cells were found to be under oxidative stress and apoptosis was enhanced, as determined by detecting reactive oxygen species, mitochondrial membrane potential and Annexin-V, as well as the classical apoptotic proteins Bcl-2/Bax/caspase-3 through western blotting. In addition, changes in MAPK and NF-κB, two classic inflammatory signaling pathways, were detected. Furthermore, mice were treated with an anti-platelet medication or CXCR3 inhibitor to observe in vivo inflammatory changes; through phenotypic assessment, immunofluorescence staining, RT-qPCR and TUNEL assay, it was demonstrated that the PF4/CXCR3 pathway may aggravate inflammation in mice with UC. In conclusion, platelets and macrophages may interact in UC through the PF4/CXCR3 pathway to exacerbate inflammation, providing novel options for the treatment of UC.",
+        "source": "SemanticScholar",
+        "doi": "10.3892/ijmm.2025.5519",
+        "keyword": "PF4",
+        "title_ja": "血小板活性化はPF4/CXCR3シグナルを介してマクロファージを刺激し、潰瘍性大腸炎を増悪させる",
+        "summary_ja": "血小板活性化が潰瘍性大腸炎（UC）を悪化させる機序を、PF4/CXCR3シグナルを介したマクロファージとの相互作用に着目して検討した。DSS誘発マウスモデルでは、血小板マーカーPF4とM1マクロファージマーカーiNOSの共局在が確認された。血小板と単球（THP-1）の共培養により、単球はマクロファージへ分化し、炎症性サイトカイン（IL-1β、IL-6、TNF-α）の発現が上昇した。PF4処理はTHP-1細胞をM1型に誘導し、CXCR3阻害薬AMG487はその効果を抑制した。また、PF4処理により酸化ストレスとアポトーシス（ROS増加、ミトコンドリア膜電位低下、Bcl-2/Bax/caspase-3変化）が促進され、MAPKおよびNF-κB経路の活性化が認められた。抗血小板薬やCXCR3阻害薬を用いたin vivo実験でも、PF4/CXCR3経路がUCの炎症を増悪させることが示された。本経路"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "A Review of Recent Advances in Chimeric Antigen Receptor (CAR) T-Cell Therapy for Hepatocellular Carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42332855/",
+        "abstract": "Hepatocellular carcinoma (HCC) is the most common form of primary liver cancer and poses a major global health burden. It remains a leading cause of cancer-related death worldwide, with persistently high incidence and mortality in regions affected by chronic viral hepatitis, cirrhosis, alcohol-related liver disease, and metabolic dysfunction-associated steatotic liver disease. Although surgical resection, liver transplantation, locoregional therapies, molecular targeted agents, and immune checkpoint inhibitors have improved treatment options, outcomes for advanced HCC remain unsatisfactory. Chimeric antigen receptor (CAR) T-cell therapy is an adoptive cellular immunotherapy in which T lymphocytes are genetically engineered to recognize tumor-associated antigens and eliminate malignant cells. CAR-T-cell therapy has achieved major clinical success in hematologic malignancies, but its application in HCC is still developing because of tumor heterogeneity, antigen escape, limited T-cell trafficking, and an immunosuppressive tumor microenvironment. Recent studies have investigated several HCC-associated targets, including glypican-3 (GPC3), carcinoembryonic antigen (CEA), alpha-fetoprotein (AFP), CD133, epidermal growth factor receptor variant III (EGFRvIII), B7 homolog 3 (B7H3), mucin 1 (MUC1), natural killer group 2 member D ligand (NKG2DL), programmed death-ligand 1 (PD-L1)/c-Met, CD147, CD44, and epithelial cell adhesion molecule (EpCAM). This article provides a target-oriented synthesis of HCC-related CAR-T-cell therapy, summarizes registered clinical studies according to antigen target, CAR design, trial phase, administration route, and available outcomes, and discusses how CAR structural evolution may influence therapeutic development in HCC. This article aims to review recent advances in CAR-T-cell therapy for hepatocellular carcinoma.",
+        "source": "PubMed",
+        "doi": "10.12659/MSM.953528",
+        "keyword": "NK cell therapy",
+        "title_ja": "肝細胞癌に対するキメラ抗原受容体（CAR）T細胞療法の最近の進歩に関するレビュー",
+        "summary_ja": "肝細胞癌（HCC）は原発性肝がんの主要な形態で、慢性ウイルス性肝炎、肝硬変、アルコール性肝疾患、代謝異常関連脂肪肝疾患などが原因で高い罹患率と死亡率を示す。外科切除、肝移植、局所療法、分子標的薬、免疫チェックポイント阻害薬など治療法は進歩したが、進行HCCの予後は依然不良である。キメラ抗原受容体（CAR）T細胞療法は、Tリンパ球を遺伝子改変して腫瘍関連抗原を認識させ悪性細胞を排除する養子細胞免疫療法で、血液腫瘍で大きな成功を収めたが、HCCでは腫瘍不均一性、抗原逃避、T細胞遊走の制限、免疫抑制性腫瘍微小環境などの課題がある。近年、GPC3、CEA、AFP、CD133、EGFRvIII、B7H3、MUC1、NKG2DL、PD-L1/c-Met、CD147、CD44、EpCAMなどのHCC関連標的が研究されている。本稿は、HCC向けCAR-T細胞療法の標的別合成、登録臨床試験の抗原標的・CAR"
+      },
+      {
+        "title": "Reactive and therapy induced bone marrow changes linked to systemic infectious and non-infectious disorders including MAS/HLH report from the European association for haematopathology, Dubrovnik 2024.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42332261/",
+        "abstract": "The workshop on 'Reactive and therapy induced BM changes linked to systemic infectious and non-infectious disorders including MAS/HLH' of the 22nd meeting of the European Association for Haematopathology held in Dubrovnik, 2024, included 58 cases. These encompassed a broad range of infections, autoimmune disorders, malignancies and therapy-effects, or a combination of these factors, of which 28 had an associated Hemophagocytic Lymphohistiocytosis (HLH) / Macrophage Activation Syndrome (MAS). Histoplasmosis, the infection mostly associated with HLH, showed a wide variability of BM changes, with or without focal lesions. Leishmaniasis, less often associated with HLH, induced BM changes that mimic myelodysplastic syndrome. BM changes after COVID-19 infection included myeloid and megakaryocytic hypoplasia, erythroid hyperplasia, dyserythropoiesis, hemophagocytosis, and possibly ring granulomas. Other infectious causes included viruses (HHV-8, EBV, Parvovirus B19), mycobacterial infections, and human granulocytic anaplasmosis. HLH may arise in association with the full spectrum of EBV-related disorders, including acute infection, systemic chronic active EBV disease, viral reactivation, and EBV-associated malignancies. BM changes associated with autoimmune diseases included plasmacytosis, myeloid hyperplasia and hemophagocytosis, with or without meeting the criteria of MAS/HLH, the latter often triggered by a secondary infection or exacerbation of the disease. Haematologic malignancies (EBV-positive and negative) with HLH encompassed B-cell, T-/NK-cell, and myeloid neoplasms. In addition, the workshop included therapy-induced BM changes, such as differentiation syndrome, lenalidomide-associated B-ALL, therapy-related dysplasia, gelatinous transformation, CAR-T-induced BM hypoplasia, and CAR-T-associated HLH. Finally, the workshop demonstrated the presence of T-cell expansions in a variety of conditions, which should not be misinterpreted as T-cell malignancy.",
+        "source": "PubMed",
+        "doi": "10.1007/s00428-026-04604-0",
+        "keyword": "NK cell therapy",
+        "title_ja": "反応性および治療誘発性の骨髄変化：全身性感染症および非感染性疾患（MAS/HLHを含む）との関連について——欧州血液病理学会議（ドゥブロヴニク、2024年）からの報告",
+        "summary_ja": "2024年ドブロブニクで開催された欧州血液病理学会第22回会合のワークショップでは、「反応性および治療誘発性骨髄変化と全身性感染症・非感染症（MAS/HLHを含む）」をテーマに58症例が検討された。内訳は感染症、自己免疫疾患、悪性腫瘍、治療効果、またはこれらの組み合わせで、28例に血球貪食性リンパ組織球症（HLH）/マクロファージ活性化症候群（MAS）を伴った。HLHと最も関連した感染症はヒストプラズマ症で、骨髄変化は多様で限局性病変を伴う場合と伴わない場合があった。リーシュマニア症はHLHとの関連は少ないが、骨髄異形成症候群に類似した変化を誘発した。COVID-19感染後の骨髄変化には、骨髄系・巨核球系低形成、赤芽球系過形成、赤芽球異形成、血球貪食、輪状肉芽腫が含まれた。その他の感染原因としてウイルス（HHV-8、EBV、パルボウイルスB19）、抗酸菌感染、ヒト顆粒球アナプラズマ症があっ"
+      },
+      {
+        "title": "IL-10 secretion by CD8 T cells orchestrates early NK cell recruitment and antitumor immunity after anti-VEGFR-2/PD-1 therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42331382/",
+        "abstract": "The combination of antiangiogenic therapy with immune checkpoint blockade has demonstrated significant clinical benefits in various cancers, however, the precise mechanisms of action on the immune system are not fully understood. In particular, the early intratumoral immune responses induced by angiogenesis inhibition remain unclear.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2026-015243",
+        "keyword": "NK cell therapy",
+        "title_ja": "抗VEGFR-2/PD-1療法後のCD8 T細胞によるIL-10分泌が、初期のNK細胞動員と抗腫瘍免疫を制御する",
+        "summary_ja": "タイトル：抗VEGFR-2/PD-1療法後のCD8 T細胞によるIL-10分泌がNK細胞の早期動員と抗腫瘍免疫を制御する\n\n抗血管新生療法と免疫チェックポイント阻害の併用は多種癌で臨床的有用性を示すが、免疫系への作用機序は完全には解明されていない。特に、血管新生阻害が誘導する早期の腫瘍内免疫応答は不明である。本論文では、抗VEGFR-2/PD-1併用療法において、CD8 T細胞が分泌するIL-10がNK細胞の早期腫瘍内動員を促進し、抗腫瘍免疫を増強することを明らかにした。このIL-10はNK細胞の遊走を直接誘導し、腫瘍微小環境での免疫応答を活性化する。本研究は、併用療法におけるCD8 T細胞とNK細胞の新たな連携機構を示し、治療効果向上の基盤を提供する。"
+      },
+      {
+        "title": "Trained immunity in the treatment for haematological malignancy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42331231/",
+        "abstract": "Trained immunity, an emerging treatment strategy, confers long-term anti-tumour memory by modulating epigenetic and metabolic reprogramming of innate immune cells, offering a novel pathway for immunotherapy of haematological malignancies. This article systematically outlines the mechanisms by which inducers such as β-glucan, Bacille Calmette-Guérin (BCG) and cytokines train key effector cells including macrophages and natural killer (NK) cells. It further analyses how ageing-encompassing both organismal ageing and cellular senescence-specifically undermines the efficacy of relevant pathways at multiple levels, from haematopoietic stem cell function and intracellular signalling to the tumour microenvironment, thereby systematically impairing the induction efficiency, durability of effect, and safety of trained immunity. Building on this, the article evaluates the clinical translation prospects and associated risks, including graft-versus-host diseases (GVHDs), of strategies such as cytokine-induced memory-like (CIML) NK cells, and proposes concrete, testable translational ideas aimed at overcoming ageing-related defects. We argue that to realise the full potential of this therapy in elderly patients with haematological malignancies, future work must focus on developing individualised training protocols capable of circumventing or reversing immunosenescence.",
+        "source": "PubMed",
+        "doi": "10.1016/j.arr.2026.103210",
+        "keyword": "NK cell therapy",
+        "title_ja": "訓練免疫による血液悪性腫瘍の治療",
+        "summary_ja": "本論文は、血液悪性腫瘍に対する新たな免疫療法として、自然免疫細胞のエピジェネティックおよび代謝リプログラミングを介して長期的な抗腫瘍記憶を付与する「Trained immunity（訓練免疫）」を概説する。β-グルカン、BCG、サイトカインなどの誘導因子がマクロファージやNK細胞などのエフェクター細胞を訓練する機序を整理し、加齢（個体老化と細胞老化）が造血幹細胞機能、細胞内シグナル伝達、腫瘍微小環境の複数レベルで関連経路を損ない、訓練免疫の誘導効率、効果持続性、安全性を体系的に低下させることを分析する。さらに、CIML NK細胞などの戦略の臨床応用展望とGVHDなどのリスクを評価し、加齢関連欠陥を克服するための具体的かつ検証可能なトランスレーショナルアイデアを提案する。高齢血液悪性腫瘍患者で本療法の可能性を最大限に引き出すには、免疫老化を回避または逆転させる個別化訓練プロトコルの開発が不可"
+      },
+      {
+        "title": "Early Efficacy and Exploratory Biomarker Data of Bel-sar in Patients with Intermediate-risk and High-risk Non-muscle-invasive Bladder Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42325814/",
+        "abstract": "Despite available therapies, patients with non-muscle-invasive bladder cancer (NMIBC) are impacted by recurrence and progression risk. Bel-sar (belzupacap sarotalocan) is a first-in-class virus-like drug conjugate composed of a tumor-targeting virus-like particle linked to a photoactivatable dye, inducing proimmunogenic tumor cell death and antitumor immune response. We report clinical and exploratory immune biomarker data from a phase 1 study in intermediate-risk and high-risk NMIBC.",
+        "source": "PubMed",
+        "doi": "10.1016/j.euros.2026.05.017",
+        "keyword": "NK cell therapy",
+        "title_ja": "ベルギーサルの中間リスクおよび高リスク非筋層浸潤性膀胱癌患者における早期有効性と探索的バイオマーカーデータ",
+        "summary_ja": "タイトル：中間リスクおよび高リスク非筋層浸潤性膀胱癌患者におけるBel-sarの初期有効性と探索的バイオマーカーデータ\n\n非筋層浸潤性膀胱癌（NMIBC）患者は、既存治療にもかかわらず再発・進行リスクに直面する。Bel-sar（belzupacap sarotalocan）は、腫瘍標的ウイルス様粒子に光活性化色素を結合した初のウイルス様薬物複合体であり、免疫原性腫瘍細胞死と抗腫瘍免疫応答を誘導する。本報告では、中間リスクおよび高リスクNMIBCを対象とした第1相試験の臨床データと探索的免疫バイオマーカーデータを示す。"
+      },
+      {
+        "title": "Targeting the Myocardial Microenvironment: Novel Antiviral Strategies and Therapeutic Perspectives for Coxsackievirus B-Induced Myocarditis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42325006/",
+        "abstract": "Coxsackievirus B3 is a primary cause of viral myocarditis, with ≈20% of cases progressing to dilated cardiomyopathy. Despite its clinical significance, therapeutic strategies remain limited. The pathogenesis of coxsackievirus B3-induced myocarditis is complex, centered on the virus's ability to hijack the myocardial microenvironment, which is composed of various cell types and their interactions, influencing disease progression and outcomes. This review comprehensively summarizes the changes in fibroblasts, endothelial cells, mast cells, monocytes/macrophages, neutrophils, dendritic cells, natural killer cells, and lymphocytes within the myocardial microenvironment during coxsackievirus B3 infection, highlighting their critical roles in disease development. Additionally, it provides an overview of recent findings on potential therapeutic approaches targeting the myocardial microenvironment. Targeted regulation of cellular functions, key molecular pathway intervention, intelligent delivery system development, and noninvasive biomarker identification, combined with organoid and artificial intelligence technologies, pave the way for precision therapy and diagnosis centered on myocardial microenvironment remodeling.",
+        "source": "PubMed",
+        "doi": "10.1161/JAHA.125.048926",
+        "keyword": "NK cell therapy",
+        "title_ja": "心筋微小環境を標的とした治療：コクサッキーBウイルス誘発性心筋炎に対する新規抗ウイルス戦略と治療展望",
+        "summary_ja": "コクサッキーウイルスB3はウイルス性心筋炎の主要な原因であり、約20%が拡張型心筋症に進行するが、治療法は限られている。本総説は、同ウイルスが心筋微小環境を乗っ取る病態に着目し、線維芽細胞、内皮細胞、肥満細胞、単球/マクロファージ、好中球、樹状細胞、ナチュラルキラー細胞、リンパ球などの細胞変化とその相互作用が疾患進行に果たす役割を包括的にまとめた。さらに、心筋微小環境を標的とした新たな治療戦略として、細胞機能の調節、主要分子経路への介入、スマートデリバリーシステムの開発、非侵襲的バイオマーカーの同定を概説。オルガノイドや人工知能技術と組み合わせることで、心筋微小環境リモデリングに基づく精密治療と診断の道が開かれると結論づけている。"
+      },
+      {
+        "title": "Development of an Agent-Based Model to Investigate Durability of Factor IX Activity in Hemophilia B Patients Treated With Etranacogene Dezaparvovec.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42322300/",
+        "abstract": "Many currently approved gene therapies use adeno-associated virus (AAV) to deliver DNA sequences encoding protein(s)-of-interest into cells. The AAV viral genome forms stable, circular DNA structures called episomes after entering the nuclei. Therapeutic proteins are then generated in vivo from transcription and translation of these episomes, and long-term durability thus depends on episome stability. Prior modeling work has utilized differential equation-based models to characterize AAV uptake and subsequent protein production. However, episome loss associated with target cell turnover is poorly described with these models. Here, an agent-based model (ABM) to overcome this shortcoming is developed. The liver was used as the example organ as it is known to be self-renewing and has been a common target for gene therapies. In this model, each hepatocyte is an agent, capable of division and death. When transduced, these agents acquire and carry episomes. During cell division, episomes are passed from mother to daughter cells. All episomes are presumed lost when transduced cells die. The ABM was applied to etranacogene dezaparvovec (formerly AMT-061 or CSL222), a liver-targeting gene therapy for hemophilia B consisting of AAV serotype 5 particles encoding a transgene for the Padua variant (R338L) of coagulation factor IX (FIX). ABM-simulated FIX activity in patients receiving this therapy was consistent with clinical observations over more than 2 years following treatment. This ABM was then used to generate 20-year predictions and explore biological mechanisms underlying long-term durability. The ABM framework and approach should be applicable to investigating durability of other AAV-based gene therapies.",
+        "source": "PubMed",
+        "doi": "10.1002/psp4.70286",
+        "keyword": "NK cell therapy",
+        "title_ja": "血友病B患者におけるエトラナコゲン・デザパルボベク治療後の第IX因子活性の持続性を調査するためのエージェントベースモデルの開発",
+        "summary_ja": "本論文では、血友病B治療薬エトラナコゲン・デザパルボベク（AAV5ベクターによるFIX Padua変異体発現）の長期効果持続性を検討するため、エージェントベースモデル（ABM）を開発した。従来の微分方程式モデルでは、標的細胞のターンオーバーに伴うエピソーム喪失を適切に記述できなかった。本ABMでは、肝細胞を個別エージェントとし、分裂・死滅、エピソームの母細胞から娘細胞への継承、形質導入細胞死によるエピソーム完全喪失を再現。治療後2年以上の臨床FIX活性データと整合し、20年後の予測も可能とした。本フレームワークは他のAAV遺伝子治療の持続性評価にも応用可能である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Identification of TXNIP, FTCD, and HAGH as Key Genes in a Cancer Stem Cell-Driven Prognostic Model for Hepatocellular Carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42333855/",
+        "abstract": "This study developed a prognostic model for hepatocellular carcinoma (HCC) based on cancer stem cell (CSC)-related modules identified by high-dimensional WGCNA (hdWGCNA).",
+        "source": "PubMed",
+        "doi": "10.2174/0118715303482356260608112834",
+        "keyword": "NK cell therapy",
+        "title_ja": "肝細胞癌における癌幹細胞駆動型予後モデルのキー遺伝子としてのTXNIP、FTCD、およびHAGHの同定",
+        "summary_ja": "本研究は、高次元重み付き遺伝子共発現ネットワーク解析（hdWGCNA）を用いて肝細胞癌（HCC）における癌幹細胞（CSC）関連モジュールを特定し、予後モデルを構築した。その結果、TXNIP、FTCD、HAGHの3遺伝子が鍵遺伝子として同定された。このモデルはHCC患者の予後予測に有用であり、CSC関連の分子メカニズムに基づく新たな治療標的の可能性を示唆する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Integrated Multiomics Enabled by Sequential Extraction for Comprehensive Molecular Profiling of Small Extracellular Vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42330165/",
+        "abstract": "Small extracellular vesicles (sEVs) are membrane-bound particles whose protein, lipid, and metabolite cargo reflects the molecular state of their cells of origin, making them attractive targets for biomarker discovery and therapeutic development. However, comprehensive characterization of sEVs remains challenging due to the extremely limited material available. Here, we present an integrated mass spectrometry-based multiomics platform for simultaneous characterization of lipids, metabolites, and proteins from a single sEV sample enabled by sequential extraction, maximizing sample utilization. To enhance molecular coverage and analytical depth, the platform combines iterative tandem mass spectrometry for improved small-molecule fragmentation and nanoflow proteomics with data-independent acquisition. We achieved deep and reproducible multiomic characterization of proteins, lipids, and metabolites using 10 million sEVs. We further demonstrated the compatibility of our multiomics platform with sEVs isolated from plasma by ultracentrifugation, size exclusion chromatography with ultrafiltration, and polymer precipitation, revealing purification-dependent differences in molecular profiles associated with trade-offs in yield and purity of sEVs. By enabling integrated multiomics from the same sample, this strategy addresses a key challenge in low-input sEV analysis and establishes a robust analytical foundation for synergistic biomarker discovery and therapeutic applications.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.6c01280",
+        "keyword": "sEVs",
+        "title_ja": "逐次抽出法による統合マルチオミクス解析：小型細胞外小胞の包括的分子プロファイリングを実現する手法",
+        "summary_ja": "本論文は、細胞由来の小胞体（sEV）の包括的な分子プロファイリングを可能にする、質量分析ベースの統合マルチオミクスプラットフォームを提案する。sEVはタンパク質、脂質、代謝物を含むが、試料量が極めて限られるため特性解析が困難であった。本手法では、逐次抽出により単一のsEV試料から脂質、代謝物、タンパク質を同時に分析し、試料利用を最大化する。反復タンデム質量分析とナノフロープロテオミクス（データ非依存型取得）を組み合わせ、分子カバレッジと分析深度を向上させた。10百万個のsEVを用いて再現性の高いマルチオミクス特性解析を達成。さらに、超遠心分離、サイズ排除クロマトグラフィー、ポリマー沈殿法で血漿から単離したsEVにも適用可能であり、収量と純度のトレードオフに依存した分子プロファイルの差異を明らかにした。本戦略は低投入sEV分析の課題を解決し、統合的バイオマーカー発見や治療応用の基盤を提供する"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **可溶性Klothoと石灰化傾向T50の関連（血液透析患者）**  \n   抗老化ホルモンKlothoの低下は血管石灰化を促進し、心血管イベントリスクを高める。T50は石灰化傾向の新規指標であり、両者の関連をヒトで示した点が重要。今後、Klotho補充やT50を指標とした個別化治療が透析患者の予後改善に貢献する可能性がある。\n\n2. **PF4/CXCR3シグナルによる潰瘍性大腸炎の増悪機構**  \n   血小板活性化がPF4を介してマクロファージをM1型に偏極させ、炎症を増幅する新規経路を解明。既存治療に抵抗性のUC患者に対し、PF4/CXCR3経路を標的とした治療戦略の開発が期待される。\n\n3. **抗VEGFR-2/PD-1療法後のCD8 T細胞由来IL-10によるNK細胞動員**  \n   抗血管新生＋免疫チェックポイント阻害の併用効果に、IL-10を介したNK細胞早期動員が寄与することを発見。従来免疫抑制的に捉えられていたIL-10の新たな抗腫瘍機能を示し、併用療法の最適化やバイオマーカー開発に繋がる。\n\n4. **訓練免疫による血液悪性腫瘍治療**  \n   自然免疫細胞にエピジェネティック・代謝リプログラミングを誘導し、長期抗腫瘍記憶を付与する「訓練免疫」の概念を血液がん治療に応用。BCGやβ-グルカンなど既存薬の再利用が可能で、低コストかつ広範ながん種への適応が期待される。\n\n5. **sEV統合マルチオミクス解析プラットフォーム**  \n   微量の細胞外小胞（sEV）からタンパク質・脂質・代謝物を同時解析する新規質量分析技術を開発。sEVは液体生検の有望なリソースだが、解析困難が課題だった。本手法により、がんや神経変性疾患の早期診断・病態解明が加速する。"
+}

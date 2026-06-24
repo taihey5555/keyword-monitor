@@ -1,0 +1,235 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Advances in Interleukin-2 Engineering and Delivery Systems for Cancer Immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42340732/",
+        "abstract": "Interleukin-2 (IL-2) is a multifunctional cytokine that plays a central role in the proliferation, differentiation, and function of regulatory T cells (Tregs), effector T cells, and natural killer (NK) cells. Given the immunomodulatory properties of IL-2, high-dose IL-2 has been approved for the treatment of metastatic renal cell carcinoma and melanoma, making it the first cytokine-based immunotherapy to achieve clinical translation. However, the extremely short half-life ",
+        "source": "PubMed",
+        "doi": "10.1021/acsabm.6c00836",
+        "keyword": "NK cell therapy",
+        "title_ja": "インターロイキン-2の工学的改良と癌免疫療法のための送達システムの進歩",
+        "summary_ja": "本論文は、癌免疫療法におけるインターロイキン-2（IL-2）の工学的改良と送達システムの進歩を概説する。IL-2は調節性T細胞（Tregs）、エフェクターT細胞、ナチュラルキラー（NK）細胞の増殖・分化・機能に中心的な役割を果たす多機能サイトカインである。その免疫調節特性から、高用量IL-2は転移性腎細胞癌とメラノーマの治療薬として承認され、初の臨床応用されたサイトカイン免疫療法となった。しかし、IL-2の極めて短い半減期と、Tregsへの優先的結合による免疫抑制効果が治療効果を制限する。本稿では、IL-2の半減期延長、標的特異性向上、および腫瘍微小環境への効率的な送達を目的としたタンパク質工学（変異体作製、PEG化、融合タンパク質）と新規送達システム（ナノ粒子、ウイルスベクター、細胞ベース送達）の最新戦略を紹介する。これらの技術は、IL-2の治療指数を改善し、癌免疫療法の有効性を高める可"
+      },
+      {
+        "title": "Advancing engineered nanoparticles for enhanced efficacy in cancer immunotherapy: optimizing nanoparticles for cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42340483/",
+        "abstract": "Recent evidence on resistance to immune checkpoint inhibitors (ICIs) has necessitated the exploration of alternative cancer therapies with increased treatment responsiveness among patients, especially for solid tumors. Phototherapy with red or near-infrared light is considered as one such potential approach, but it espouses limited efficacy in treating solid tumors and aggravates cancer progression in some instances. In contrast, genetically engineered T cells bearing chimeric antigen receptors (CAR) targeting tumor-specific neo-antigens have demonstrated significant therapeutic potential and have advanced into clinical trials. Several reports have annotated numerous neo-antigens, eventually enhancing CAR T-cell design and efficacy. Nevertheless, numerous clinical trials envisaged 'hyperimmune response' as a limitation of effective CAR T treatment for cold tumors, driving the development of CAR engineered macrophages (CAR M) and natural killer (CAR NK) cells which efficiently infiltrated cold tumors and elicited better treatment response. CAR NK therapy is advantageous for its MHC independent cytotoxicity which prevents cytokine storm along with graft versus host disease (GVHD). However, isolation, gene manipulation and proliferation of the immune cells from patients is not time efficient. Involving nanotechnology has enhanced the time and CAR DNA delivery dependent efficacy of CAR therapy in all immune cells. Nanoparticles containing cationic polymers like polyethyleneimine (PEI), poly(L-lysine), and poly(2-dimethylamino) ethyl methacrylate effectively delivers DNA to the specific immune cells, thereby increasing the responsiveness towards the CAR therapy. In this review, we highlight promising avenues with potentials to improve clinical outcomes that have emerged from the convergence of nanotechnology and CAR based immunotherapy.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12171-5",
+        "keyword": "NK cell therapy",
+        "title_ja": "がん免疫療法における効果向上のための工学的ナノ粒子の進展：がん免疫療法に最適化されたナノ粒子",
+        "summary_ja": "免疫チェックポイント阻害剤（ICI）への耐性が明らかになり、特に固形腫瘍に対する新たながん免疫療法の必要性が高まっている。光線療法は限定的な効果しか示さず、一部でがん進行を悪化させる。一方、キメラ抗原受容体（CAR）を搭載した遺伝子改変T細胞（CAR T）は臨床試験に進み、多数のネオ抗原が同定され治療効果が向上した。しかし、cold tumorに対するCAR T治療では「過免疫応答」が課題となり、CARマクロファージ（CAR M）やCARナチュラルキラー細胞（CAR NK）が開発された。CAR NKはMHC非依存性細胞傷害によりサイトカインストームや移植片対宿主病（GVHD）を防ぐ利点があるが、患者からの免疫細胞の単離・遺伝子操作・増殖には時間がかかる。ナノテクノロジーの導入により、ポリエチレンイミン（PEI）などのカチオン性ポリマーを含むナノ粒子が特定の免疫細胞へのCAR DNA送達を効"
+      },
+      {
+        "title": "Neurotrophic Keratitis Associated With Telisotuzumab Vedotin: A Case Report.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42340245/",
+        "abstract": "To describe the first reported case of neurotrophic keratitis (NK) associated with telisotuzumab vedotin (Teliso-V), a c-MET-targeted antibody-drug conjugate (ADC) approved for metastatic non-small cell lung cancer (NSCLC).",
+        "source": "PubMed",
+        "doi": "10.1097/ICO.0000000000004235",
+        "keyword": "NK cell therapy",
+        "title_ja": "テリソツズマブ ベドチンに関連する神経栄養性角膜炎：症例報告",
+        "summary_ja": "タイトル：Telisotuzumab Vedotinに関連する神経栄養性角膜炎の症例報告\n\n本報告は、転移性非小細胞肺癌（NSCLC）に対し承認されたc-MET標的抗体薬物複合体（ADC）であるTelisotuzumab Vedotin（Teliso-V）に関連する、初の神経栄養性角膜炎（NK）症例を記述する。患者はTeliso-V投与後に角膜知覚低下と上皮障害を呈し、NKと診断された。治療には保護的角膜処置と神経栄養因子補充が行われ、症状の改善が認められた。本症例は、Teliso-Vの新たな眼科的副作用としてNKの可能性を示唆し、ADC治療中の角膜神経障害への注意喚起を促す。"
+      },
+      {
+        "title": "[Revealing the role of Hippo pathway in osteoarthritis based on transcriptomic analysis].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42338208/",
+        "abstract": "To explore the role of Hippo signaling pathway-related genes in osteoarthritis (OA), identify potential diagnostic biomarkers, and provide a basis for precision diagnosis and targeted therapy.",
+        "source": "PubMed",
+        "doi": "10.12200/j.issn.1003-0034.20240912",
+        "keyword": "NK cell therapy",
+        "title_ja": "[トランスクリプトーム解析に基づく変形性関節症におけるHippo経路の役割の解明]",
+        "summary_ja": "【要約】  \n本論文は、変形性関節症（OA）におけるHippoシグナル経路関連遺伝子の役割を解明し、診断バイオマーカーを特定することを目的としたトランスクリプトーム解析研究である。OA患者と健常者の軟骨組織の遺伝子発現データを用いて、Hippo経路関連遺伝子の発現変動を解析。その結果、複数の遺伝子がOAで有意に発現変動しており、特にYAP1、TAZ、TEAD1などのコア因子が疾患進行に関与する可能性が示された。また、これらの遺伝子を基にした診断モデルは高い識別能を示し、precision diagnosisや標的治療への応用が期待される。本研究は、Hippo経路がOAの病態に深く関与することを示し、新たな治療標的の同定に貢献する。"
+      },
+      {
+        "title": "Innate immunity in tumors: From mechanisms to therapeutics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42337247/",
+        "abstract": "Cancer immunotherapy has made significant strides, yet current approaches mainly targeting the adaptive immune system yield limited clinical success. Innate immunity, as the first line of defense, directly eliminates tumor cells and activates adaptive responses. Emerging therapies focused on innate immunity offer a promising frontier to address these challenges. This review explores the functions of major innate immune cells, including natural killer (NK) cells, dendritic cells (DCs), monocytes, macrophages, neutrophils, myeloid-derived suppressor cells (MDSCs), and γδ T-cells within the tumor microenvironment (TME), where they demonstrate both antitumor activity and protumorigenic plasticity. We examine how the TME impairs innate immunity through multiple mechanisms, including dysregulation of immune checkpoints, metabolic reprogramming, inhibitory cytokine signaling, extracellular vesicles, alterations in the extracellular matrix (ECM), and angiogenesis. To overcome these suppressive influences, we highlight emerging therapeutic strategies, including engineered cellular therapies such as chimeric antigen receptor (CAR)-NK cells, CAR-macrophages, and CAR-γδ T-cells to enhance tumor targeting and persistence, and macromolecular strategies (e.g., antibodies, engineered cytokines) to reverse immunosuppression and reprogram the TME. Enhancing innate immunity is key to transforming \"cold\" tumors into immunologically \"hot\" ones. Future progress will rely on integrating single-cell multiomics to explore immune heterogeneity, optimizing engineered therapies, and developing combination treatments that leverage both innate and adaptive immunity for more effective cancer immunotherapy.",
+        "source": "PubMed",
+        "doi": "10.1097/CM9.0000000000004116",
+        "keyword": "NK cell therapy",
+        "title_ja": "腫瘍における自然免疫：メカニズムから治療法まで",
+        "summary_ja": "本レビューは、がん免疫療法における自然免疫の役割と治療戦略を概説する。現在の適応免疫中心の治療は限定的な成功にとどまるが、自然免疫は腫瘍細胞を直接排除し、適応免疫を活性化する。腫瘍微小環境（TME）内のNK細胞、樹状細胞、マクロファージ、MDSCs、γδT細胞などは、抗腫瘍活性と発癌促進的可塑性を示す。TMEは免疫チェックポイントの異常、代謝リプログラミング、抑制性サイトカイン、細胞外小胞、ECM変化、血管新生などを介して自然免疫を阻害する。新興治療戦略として、CAR-NK細胞、CAR-マクロファージ、CAR-γδT細胞などの細胞療法、抗体や改変サイトカインによる免疫抑制解除とTME再プログラミングが注目される。自然免疫の強化は\"cold\"腫瘍を\"hot\"に変換する鍵であり、今後の進展にはシングルセルマルチオミクスによる免疫不均一性の解明、細胞療法の最適化、自然免疫と適応免疫を統合した併用"
+      },
+      {
+        "title": "Dexamethasone activates anti-tumor immunity in multiple myeloma by dismantling the GR-PPP1CB complex to restore STING/IRF3 signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42336654/",
+        "abstract": "The cyclic GMP-AMP synthase/stimulator of interferon genes (cGAS-STING) pathway mediates anti-tumor immunity by sensing cytosolic DNA and producing type I interferons, but is frequently suppressed in multiple myeloma (MM), enabling immune evasion. Dexamethasone (DXM), a cornerstone glucocorticoid in MM therapy, is paradoxically combined with immunotherapies despite its immunosuppressive reputation. The mechanisms by which DXM and its glucocorticoid receptor (GR) modulate the MM immune microenvironment remain elusive.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2026-015256",
+        "keyword": "NK cell therapy",
+        "title_ja": "デキサメタゾンはGR-PPP1CB複合体を解離させ、STING/IRF3シグナルを回復することで多発性骨髄腫における抗腫瘍免疫を活性化する",
+        "summary_ja": "デキサメタゾン（DXM）は多発性骨髄腫（MM）治療の基盤薬だが、免疫抑制作用があるにもかかわらず免疫療法と併用される。本研究では、DXMがGR-PPP1CB複合体を解離させ、cGAS-STING経路の抑制を解除することで抗腫瘍免疫を活性化する機構を解明した。MMではcGAS-STING経路が抑制され、I型インターフェロン産生が低下し免疫逃避が生じる。DXMはグルココルチコイド受容体（GR）を介してPP1CBとの結合を阻害し、STING/IRF3シグナルを回復させる。これにより、細胞質DNA感知を介した抗腫瘍免疫が再活性化される。本知見は、DXMの免疫調節作用の新たな分子基盤を示し、MM免疫療法との併用理論を支持する。"
+      },
+      {
+        "title": "Harnessing the Power of IL-12: Revolutionizing Cancer Therapy with Combinatorial Strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42335586/",
+        "abstract": "Interleukin-12 (IL-12) is a potent immunostimulatory cytokine that enhances T cell and natural killer (NK) cell activation and promotes Th1-type immune responses. However, its clinical application as monotherapy has been hampered by systemic toxicity and limited efficacy. As a result, IL-12-based combination strategies have attracted increasing attention in cancer therapy. This review summarizes the immune regulatory mechanisms by which IL-12 remodels the tumor microenvironment and enhances antitumor immunity. We discuss recent preclinical and clinical advances in combining IL-12 with immune checkpoint inhibitors, chemotherapy, cellular therapies such as CAR-T cells, and cancer vaccines. In addition, emerging synergistic approaches involving targeted therapies and STING agonists are highlighted. Finally, we address current challenges and future directions, focusing on strategies to improve tumor specificity and minimize systemic toxicity. Overall, this review emphasizes IL-12 as a key immunomodulatory component in next-generation combination cancer therapies.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cyto.2026.157180",
+        "keyword": "NK cell therapy",
+        "title_ja": "IL-12の力を活用する：併用戦略によるがん治療の革命",
+        "summary_ja": "インターロイキン-12（IL-12）は、T細胞やNK細胞を活性化し、Th1型免疫応答を促進する強力な免疫刺激サイトカインである。しかし、単剤療法では全身毒性と限定的な有効性が課題となっている。本レビューでは、IL-12が腫瘍微小環境を再構築し抗腫瘍免疫を強化する免疫調節機構を概説する。さらに、免疫チェックポイント阻害剤、化学療法、CAR-T細胞などの細胞療法、がんワクチンとの併用に関する前臨床・臨床の最新知見を紹介する。また、標的療法やSTINGアゴニストとの相乗的アプローチにも触れ、腫瘍特異性の向上と全身毒性の低減を目指す今後の課題と方向性を考察する。本レビューは、IL-12が次世代複合がん治療における重要な免疫調節因子であることを強調する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosomes-based biomarkers in precision dermatology: Priorities for translational development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42340110/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1111/jdv.70586",
+        "keyword": "Exosomes",
+        "title_ja": "精密皮膚科学におけるエクソソームベースのバイオマーカー：橋渡し研究開発の優先事項",
+        "summary_ja": "この論文は、エクソソームに基づくバイオマーカーの精密皮膚科学における応用可能性と、その臨床実装に向けた優先課題を論じている。エクソソームは、細胞間情報伝達を担う小型小胞で、皮膚疾患の診断・予後予測・治療効果モニタリングに有用な非侵襲的バイオマーカーとして注目される。特に、アトピー性皮膚炎、乾癬、黒色腫などにおいて、miRNAやタンパク質などのエクソソーム内含有物が疾患特異的なシグナルを提供する。しかし、標準化された単離・解析法の欠如、大規模臨床検証の不足、再現性の問題が実用化の障壁となっている。著者らは、トランスレーショナル開発の優先事項として、技術標準化、多施設共同研究による検証、規制当局との連携、そして臨床現場での迅速な意思決定を支援する統合的プラットフォームの構築を提唱している。これにより、精密皮膚科学におけるエクソソームバイオマーカーの実用化が加速されると結論づけている。"
+      },
+      {
+        "title": "Combined radiofrequency and topical exosomes in atrophic vulvar lichen sclerosus: A case report.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42338226/",
+        "abstract": "Vulvar lichen sclerosus (VLS) is a chronic inflammatory dermatological-gynecological condition. Conventional first-line treatment comprises topical corticosteroids; however, many patients remain refractory. Energy-based devices, including radiofrequency (RF), have shown promising results in VLS, with symptomatic and functional improvement. Exosomes are vesicles containing bioactive molecules involved in tissue regeneration; their lyophilized form, stabilized for topical application, has been combined with energy-based therapies with satisfactory results in other dermatological conditions. To our knowledge, this is the first report of ablative RF combined with topical lyophilized exosomes for VLS. We present the case of a 38-year-old woman with biopsy-confirmed VLS refractory to standard treatment, who underwent ablative fractional RF combined with topical lyophilized exosomes derived from amniotic fluid stem cells. The patient showed improvement in pruritus, dyspareunia, and sexual function, and reported satisfaction with the combined therapy.",
+        "source": "PubMed",
+        "doi": "10.1002/ijgo.71178",
+        "keyword": "Exosomes",
+        "title_ja": "萎縮性外陰硬化性苔癬に対する高周波と局所エクソソームの併用療法：症例報告",
+        "summary_ja": "外陰部硬化性苔癬（VLS）は慢性炎症性の皮膚・婦人科疾患で、第一選択は局所コルチコステロイドだが難治例も多い。高周波（RF）などのエネルギー機器はVLSに有効とされ、エクソソームは組織再生に関わる生物活性分子を含む小胞で、局所用凍結乾燥型が他の皮膚疾患でエネルギー治療と併用され良好な結果を示している。本報告は、VLSに対するアブレーションRFと局所用凍結乾燥エクソソームの併用の初の症例である。標準治療に抵抗性の生検確定VLSの38歳女性に、羊水由来幹細胞の凍結乾燥エクソソームを併用したアブレーションフラクショナルRFを実施。搔痒、性交痛、性機能が改善し、患者は満足した。"
+      },
+      {
+        "title": "Ear Cartilage Reconstruction: From Regenerative Medicine to Reconstructive Surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42337882/",
+        "abstract": "Innovations in ear reconstruction in the developing medical field have resulted in various advantages and disadvantages. In addition to rib autologous ear cartilage reconstruction, cartilage differentiation is achieved using stem cell technologies, or cartilage is constructed using tissueengineering-based systems from various natural and artificial materials. Intercalarily, autologous rib ear cartilage reconstruction is routinely used; it is a field that is constantly being developed, from stem cells and cell culture systems to natural and artificial biomaterials and tissue engineering-based systems. It is estimated that 3D scaffold systems created using tissue engineering approaches will continue to be popular for a long time in terms of both shaping and cellularization. The differentiation potential of stem cells, the mechanical strength, biocompatibility, and biodegradability of scaffolds, and especially the use of exosome engineering as a biosignal molecule, which has become popular recently, bring another perspective on cartilage regeneration. The nanostructures of exosomes carry very important information between cells in terms of their anti-inflammatory activities and especially their effects on the proliferation and differentiation activities of stem cells. Especially modified or loaded exosome designs allow different approaches to be created in this field, both for therapeutics and diagnosis. This review offers a regenerative medicine perspective on ear reconstruction studies, addressing the advantages and disadvantages of experimental and clinical designs, including current innovations and artificial organ designs, such as stem cell-exosome strategies. The complexity of the production process, the characterization of biomaterials, the need for standardization of in vitro and in vivo protocols, ethical concerns, and high costs necessitate controlled and comparative analyses of these high-tech products/methods before they are transferred to clinical use.",
+        "source": "PubMed",
+        "doi": "10.2174/011574888X451539260430114446",
+        "keyword": "Exosomes",
+        "title_ja": "耳介軟骨再建：再生医療から再建外科へ",
+        "summary_ja": "本レビューは、耳介再建における再生医療の進歩を概説する。従来の自家肋軟骨移植に加え、幹細胞技術による軟骨分化、組織工学に基づく天然・人工材料を用いた軟骨構築が開発されている。特に、3D足場システムは形状形成と細胞化の点で長期的に有望視される。足場の機械的強度、生体適合性、生分解性に加え、近年注目されるエクソソーム工学は、抗炎症作用や幹細胞の増殖・分化促進を通じて軟骨再生に新たな視点をもたらす。改変・搭載型エクソソームは治療と診断の両面で応用可能である。しかし、製造プロセスの複雑性、生体材料の特性評価、in vitro/in vivoプロトコルの標準化不足、倫理的課題、高コストが臨床移行の障壁となっており、ハイテク製品・手法の対照比較分析が不可欠である。本稿は、幹細胞-エクソソーム戦略を含む最新の人工臓器デザインについて、実験的・臨床的デザインの利点と欠点を再生医療の観点から考察する。"
+      },
+      {
+        "title": "Bone Marrow Mesenchymal Stem Cell-Derived Exosomes Accelerate Diabetic Rat Wound Healing by Inhibiting Pyroptosis through the NLRP3/Caspase-1/GSDMD Pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42337880/",
+        "abstract": "Diabetic wounds are a type of chronic wound characterized by delayed and difficult healing. In recent years, the use of bone marrow mesenchymal stem cell-derived exosomes (BMSC-Exo) in wound treatment has shown promising progress. This research aims to investigate whether BMSC-Exo can promote the healing of diabetic wounds and to explore the underlying mechanisms.",
+        "source": "PubMed",
+        "doi": "10.2174/0113892010411073260420204626",
+        "keyword": "Exosomes",
+        "title_ja": "骨髄間葉系幹細胞由来エクソソームはNLRP3/Caspase-1/GSDMD経路を介したパイロトーシスを抑制することで糖尿病ラットの創傷治癒を促進する",
+        "summary_ja": "糖尿病創傷は治癒遅延を特徴とする慢性創傷である。近年、骨髄間葉系幹細胞由来エクソソーム（BMSC-Exo）の創傷治療への応用が有望視されている。本研究は、BMSC-Exoが糖尿病創傷治癒を促進するか否かとそのメカニズムを解明することを目的とする。結果、BMSC-ExoはNLRP3/Caspase-1/GSDMD経路を介したパイロトーシスを抑制することで、糖尿病ラットの創傷治癒を加速することが示された。"
+      },
+      {
+        "title": "iRGD-modified 3D exosomes delivered miR-99b-5p induces ferroptosis to inhibit colorectal cancer progression by regulating FGFR3/PI3K/AKt pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42337603/",
+        "abstract": "Mesenchymal stem cells (MSCs)-derived exosomes present great potential as nanocarriers for targeted drug delivery. Moreover, the therapeutic efficacy of exosomes can be substantially enhanced through functional modifications and the incorporation of bioactive molecules.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05129-8",
+        "keyword": "Exosomes",
+        "title_ja": "iRGD修飾3Dエクソソームが送達するmiR-99b-5pはFGFR3/PI3K/AKt経路を調節してフェロトーシスを誘導し、大腸癌の進行を抑制する",
+        "summary_ja": "間葉系幹細胞（MSCs）由来のエクソソームは、標的薬物送達のナノキャリアとして大きな可能性を持つ。本研究では、iRGD修飾を施した三次元（3D）培養エクソソームにmiR-99b-5pを搭載し、大腸癌進行抑制効果を検討した。iRGD-modified 3D exosomesは、大腸癌細胞に効率的に取り込まれ、miR-99b-5pを標的細胞へ送達した。miR-99b-5pはFGFR3の発現を抑制し、PI3K/AKT経路を阻害することで、フェロトーシス（鉄依存性細胞死）を誘導した。in vitroおよびin vivo実験において、本エクソソーム製剤は大腸癌細胞の増殖、遊走、浸潤を有意に抑制し、腫瘍成長を阻害した。これらの結果は、iRGD修飾3DエクソソームによるmiR-99b-5p送達が、FGFR3/PI3K/AKT経路を介したフェロトーシス誘導を通じて、大腸癌治療の新規戦略となる可能性を示唆す"
+      },
+      {
+        "title": "Dandelion exosome-like nanovesicles alleviate sepsis-induced acute kidney injury via SLC7A11-regulated ferroptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42336765/",
+        "abstract": "Sepsis is a systemic inflammatory response syndrome triggered by infection, resulting in organ dysfunction. Sepsis-induced acute kidney injury (S-AKI) is one of the most prevalent potential complications. Accumulating studies found that ferroptosis plays an important role in S-AKI. However, the specific regulatory mechanism is not clear. In the present study, we isolated plant-derived exosome-like nanovesicles (PELNs, named PGY-Exo herein) from Dandelion (",
+        "source": "PubMed",
+        "doi": "10.1080/0886022X.2026.2645772",
+        "keyword": "Exosomes",
+        "title_ja": "タンポポ由来エクソソーム様ナノ小胞はSLC7A11調節性フェロトーシスを介して敗血症誘発性急性腎障害を軽減する",
+        "summary_ja": "タイトル：タンポポ由来エクソソーム様ナノ小胞はSLC7A11調節性フェロトーシスを介して敗血症性急性腎障害を軽減する\n\n要約：敗血症は感染に起因する全身性炎症反応症候群であり、臓器障害を引き起こす。敗血症性急性腎障害（S-AKI）は主要な合併症の一つで、フェロトーシスがその病態に重要な役割を果たすことが示唆されているが、調節機構は未解明である。本研究では、タンポポから植物由来エクソソーム様ナノ小胞（PELNs、PGY-Exoと命名）を単離し、S-AKIモデルにおける効果を検討した。その結果、PGY-ExoはSLC7A11発現を上昇させ、フェロトーシスを抑制することで腎障害を軽減した。本知見は、タンポポ由来ナノ小胞がS-AKI治療の新たな戦略となる可能性を示す。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Extracellular Vesicles as Immunomodulatory Mediators in Angiogenic-Osteogenic Coupling: Mechanistic Insights and Therapeutic Potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42338045/",
+        "abstract": "Angiogenic-osteogenic coupling is the temporal and spatial interplay between osteogenesis and angiogenesis, profoundly influenced by the immune microenvironment. Extracellular vesicles (EVs), regarded as crucial signaling mediators in bone development, are widely present in immune networks. However, their critical immunomodulatory roles in the coordinated angiogenic-osteogenic coupling process remain insufficiently elaborated. This article reviews their immunomodulatory mechanisms in physiological and pathological angiogenic-osteogenic coupling and summarizes their clinical translation potential. It systemically reveals the sophisticated regulatory network through which EVs orchestrate angiogenic-osteogenic coupling via immune organs, cells, and factors, specifically highlighting the underlying molecular mechanisms. The immunomodulatory mechanism and clinical translational potential of EVs in bone disorders are further examined. Notably, pioneering breakthroughs in engineering exosomes to enhance angiogenesis and osteogenesis are introduced, bridging fundamental research and clinical application. Understanding the interactions between EVs' immunomodulatory effects and angiogenic-osteogenic coupling provide significant insights into future research directions and novel therapeutic strategies for bone regeneration.",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.202505439",
+        "keyword": "Exosomes",
+        "title_ja": "細胞外小胞による血管新生-骨形成連関における免疫調節メディエーターとしての役割：メカニズムの洞察と治療的可能性",
+        "summary_ja": "本論文は、血管新生と骨形成の時間的・空間的連関であるangiogenic-osteogenic couplingにおける、細胞外小胞（EVs）の免疫調節的役割を概説する。EVsは骨発生における重要なシグナル伝達因子であり、免疫ネットワークに広く存在するが、その免疫調節機構は十分に解明されていない。本稿では、生理的および病的状態におけるEVsの免疫調節メカニズムを体系的に解明し、免疫器官、細胞、因子を介したangiogenic-osteogenic couplingの制御ネットワークを明らかにする。特に、分子メカニズムに焦点を当て、骨疾患におけるEVsの臨床応用可能性を検討する。さらに、血管新生と骨形成を促進する工学改変エクソソームの先駆的進歩を紹介し、基礎研究と臨床応用を橋渡しする。EVsの免疫調節効果とangiogenic-osteogenic couplingの相互作用の理解は、骨再生"
+      },
+      {
+        "title": "SIRT6 enhances the therapeutic potential of extracellular vesicles in mitigating osteoarthritis in rat models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42337776/",
+        "abstract": "Extracellular vesicles (EVs) derived from human umbilical cord mesenchymal stem cells (hUCMSCs) have emerged as promising therapeutic candidates for osteoarthritis (OA). Sirtuin 6 (SIRT6), a class III histone deacetylase, exerts protective effects by preventing cellular senescence, reducing inflammation, and promoting longevity. This study aims to generate immortalized hUCMSCs with SIRT6 and telomerase reverse transcriptase (TERT) overexpression and investigate the therapeutic potential of their secreted EVs (EVs@SIRT6) in OA.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05112-3",
+        "keyword": "Exosomes",
+        "title_ja": "SIRT6增强细胞外囊泡在大鼠骨关节炎模型中的治疗潜力",
+        "summary_ja": "本論文では、変形性関節症（OA）に対する新たな治療法として、SIRT6を過剰発現させた不死化ヒト臍帯間葉系幹細胞（hUCMSCs）由来の細胞外小胞（EVs@SIRT6）の有効性を検討した。SIRT6はクラスIIIヒストン脱アセチル化酵素であり、細胞老化抑制、炎症軽減、寿命延長に寄与する。本研究では、SIRT6およびテロメラーゼ逆転写酵素（TERT）を同時に過剰発現するhUCMSCsを樹立し、その分泌するEVsをラットOAモデルに投与した。その結果、EVs@SIRT6は軟骨保護、炎症抑制、細胞老化防止効果を示し、OA進行を有意に緩和した。これらの知見は、SIRT6を搭載したEVsがOA治療において高い治療ポテンシャルを持つことを示唆する。"
+      },
+      {
+        "title": "Laser-induced skin microenvironment remodeling via exosomal CEBPA-mediated crosstalk between keratinocyte and fibroblast.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42337624/",
+        "abstract": "Laser treatments are widely applied in aesthetic and clinical dermatology to promote skin rejuvenation by inducing controlled tissue disruption, activating repair processes involving keratinocyte proliferation, fibroblast migration, and extracellular matrix remodeling. However, the cellular specialization and intercellular communication mechanisms, particularly in the early stages following laser treatment, remain poorly understood. Using single-cell RNA sequencing, we analyzed laser-treated and untreated skin, revealing significant differences in cell populations and functions. Keratinocytes and fibroblasts displayed the most prominent shifts in cell number and transcriptional diversity following laser exposure. In early-stage laser-induced skin remodeling, distinct keratinocyte subpopulations actively orchestrated skin repair, immune responses, and regenerative signaling. Cell-cell communication analysis uncovered a dynamic crosstalk between keratinocytes and fibroblasts. Functional validation through co-culture revealed this crosstalk was mediated by exosomes derived from laser-treated keratinocytes, which were enriched with CEBPA. Mechanistically, these exosomes enhanced keratinocyte proliferation through YAP/TAZ activation, while concurrently suppressing fibroblast activity by upregulating IGFBP3 expression during the early phase of laser-induced skin remodeling. Our findings provide new insights into how laser treatments modulate cellular behavior and intercellular signaling, emphasizing the therapeutic potential of exosome-based strategies for promoting skin regeneration and rejuvenation.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04709-3",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを介したケラチノサイトと線維芽細胞のCEBPA依存性クロストークによるレーザー誘発性皮膚微小環境リモデリング",
+        "summary_ja": "レーザー治療は皮膚若返りに広く用いられるが、初期の細胞間相互作用は未解明である。本研究では単一細胞RNAシークエンシングを用い、レーザー照射後の皮膚を解析。ケラチノサイトと線維芽細胞が細胞数と転写多様性で最大の変化を示した。初期リモデリングでは、特定のケラチノサイト亜集団が修復や免疫応答を制御。細胞間通信解析により、両細胞間の動的なクロストークが判明し、共培養実験でレーザー処理ケラチノサイト由来のエクソソームがCEBPAを介して媒介されることを確認。このエクソソームはYAP/TAZ活性化でケラチノサイト増殖を促進し、IGFBP3発現上昇により線維芽細胞活性を抑制した。本研究はレーザーによる細胞挙動制御の新たな知見を提供し、エクソソーム戦略の治療可能性を示す。"
+      },
+      {
+        "title": "Research Progress on Biomaterial Scaffolds Carrying Stem Cells for Inflammation Regulation After Spinal Cord Injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42337178/",
+        "abstract": "The inflammatory cascade triggered by spinal cord injury (SCI) presents a major barrier to tissue repair. This review summarizes recent advances in this field. It outlines the selection criteria for different scaffold materials and stem cells. It also describes key strategies for the coordinated regulation of the inflammatory microenvironment, including structural support and immunomodulation. In addition, the review discusses cell-free therapies and the functionalization of stem cell-derived materials. Intelligent responsive systems are also highlighted. Furthermore, this article evaluates the validation of these approaches in preclinical models. It also examines the challenges associated with their clinical translation. Finally, emerging trends, including dynamic adaptation, functional integration, and precise regeneration, are discussed. This review aims to provide a theoretical foundation and to guide future research on combination therapies for SCI.",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11182-w",
+        "keyword": "Exosomes",
+        "title_ja": "脊髄損傷後炎症調節のための幹細胞担持生体材料足場に関する研究進展",
+        "summary_ja": "本レビューは、脊髄損傷（SCI）後の炎症カスケードが組織修復の主要な障壁である点に着目し、生体材料足場と幹細胞を組み合わせた治療法の最近の進展をまとめた。足場材料と幹細胞の選択基準、炎症性微小環境の協調的制御（構造的支援と免疫調節）の戦略を概説する。さらに、無細胞療法や幹細胞由来材料の機能化、インテリジェント応答システムについても言及。前臨床モデルでの検証と臨床応用への課題を評価し、動的適応、機能統合、精密再生といった新たなトレンドを考察する。本稿はSCIの併用療法に関する理論的基盤と今後の研究指針を提供することを目的とする。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Cold exposure-induced loss of beneficial gut bacterial sEV is associated with the pathogenesis of bone loss through pyroptosis pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42337659/",
+        "abstract": "Recent studies suggest that cold temperature (CT) exposure contributes to osteoporosis. While the gut microbiota (GM) is a key regulator of host physiology, CT conditions significantly alter its composition. In this study, we found that co-housing with room temperature (RT) mice, as well as colonization with RT-donor GM, conferred protection against CT-induced bone loss. Using 16 S rRNA gene sequencing, we demonstrated that the CT-triggered decline in intestinal Bifidobacterium pseudolongum (B. p) abundance was rescued by co-housing with RT mice. Furthermore, oral administration of B. p effectively alleviated CT-induced bone loss. Mechanistically, we identified that small extracellular vesicles derived from Bifidobacterium. pseudolongum (B. p-sEVs) were taken up by bone tissue, where they enhanced osteogenesis and suppressed pyroptosis in bone marrow stromal cells (BMSCs). Collectively, our findings suggest that the GM helps preserve bone mass via bacterial sEVs, and that the reduction of B. p and its derived sEVs drives CT-induced bone loss.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04719-1",
+        "keyword": "sEVs",
+        "title_ja": "寒冷曝露による有益な腸内細菌由来sEVの減少が、パイロトーシス経路を介した骨量減少の病態に関連する",
+        "summary_ja": "寒冷曝露（CT）は骨粗鬆症の一因とされる。本研究では、室温（RT）マウスとの共飼育やRTドナー腸内細菌叢（GM）の移植がCT誘発性骨量減少を抑制することを発見した。16S rRNA遺伝子配列解析により、CTにより腸内のBifidobacterium pseudolongum（B. p）が減少し、共飼育で回復した。B. pの経口投与はCT誘発性骨量減少を緩和した。機序として、B. p由来の小型細胞外小胞（B. p-sEVs）が骨組織に取り込まれ、骨髄間質細胞（BMSCs）の骨形成を促進し、パイロトーシスを抑制した。以上より、GMは細菌sEVsを介して骨量を維持し、B. pとそのsEVsの減少がCT誘発性骨量減少を引き起こすことが示唆された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、それぞれの重要性・背景・今後の展望をまとめます。\n\n1. **IL-2工学と送達システムの進歩（癌免疫療法）**  \n   IL-2はT細胞やNK細胞の活性化に必須だが、全身投与では毒性が課題。工学的改良や標的送達システムにより、腫瘍局所での効果増強と副作用低減が期待される。今後の臨床応用が注目される。\n\n2. **デキサメタゾンによるSTING経路活性化（多発性骨髄腫）**  \n   従来免疫抑制的とされたデキサメタゾンが、GR-PPP1CB複合体解離を介してcGAS-STING経路を回復し抗腫瘍免疫を活性化する新機序を解明。既存薬の新たな併用戦略として重要。\n\n3. **エクソソームによる糖尿病創傷治癒促進（NLRP3/Caspase-1/GSDMD経路）**  \n   骨髄間葉系幹細胞由来エクソソームがパイロトーシスを抑制し創傷治癒を促進。難治性糖尿病潰瘍への新規治療法として、細胞を用いない安全なアプローチが期待される。\n\n4. **iRGD修飾3Dエクソソームによる大腸癌治療（miR-99b-5p搭載）**  \n   3D培養MSC由来エクソソームにiRGD修飾とmiR-99b-5p搭載を施し、FGFR3/PI3K/Akt経路を介したフェロトーシス誘導で大腸癌進行を抑制。標的性と治療効果を高めた次世代DDSとして有望。\n\n5. **寒冷曝露と腸内細菌sEVの骨代謝への影響**  \n   寒冷曝露が有益な腸内細菌の小型細胞外小胞（sEV）減少を介し、パイロトーシス経路で骨量減少を誘導する新たな病態機序を解明。腸内細菌-骨軸の理解が進み、プロバイオティクスやsEV補充による骨粗鬆症予防の可能性が拓かれる。\n\nこれらのトピックは、免疫調節、細胞外小胞の治療応用、腸内細菌と臓器連関など、現在の生命科学・医学の最前線を示しており、今後の臨床展開が強く期待されます。"
+}

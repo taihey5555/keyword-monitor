@@ -1,0 +1,217 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Podocyte mPGES-2 Determines Renal Aging and Contributes to Senile Osteoporosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42347750/",
+        "abstract": "Renal aging shortens healthspan and propagates organ dysfunction beyond the kidney, yet its molecular drivers remain incompletely defined. Here we identify microsomal prostaglandin E synthase-2 (mPGES-2) as a critical regulator of renal aging and its skeletal consequence. Genetic ablation of Ptges2 improved health indices in aged mice, prolonged median survival, and markedly alleviated glomerulosclerosis, podocyte injury, and renal senescence. Single-cell transcriptomic analysis, together with podocyte- and tubule-specific knockout models, showed that podocyte mPGES-2, rather than tubular mPGES-2, is the dominant intrarenal driver of aging-related kidney injury. Mechanistically, mPGES-2 promoted podocyte senescence through a PGE",
+        "source": "PubMed",
+        "doi": "10.1111/acel.70609",
+        "keyword": "Klotho",
+        "title_ja": "ポドサイトmPGES-2が腎老化を決定し、老年性骨粗鬆症に関与する",
+        "summary_ja": "タイトル: Podocyte mPGES-2 Determines Renal Aging and Contributes to Senile Osteoporosis.\n\n腎老化は健康寿命を短縮し、腎臓を超えた臓器機能障害を引き起こすが、その分子機構は未解明である。本研究では、microsomal prostaglandin E synthase-2 (mPGES-2) を腎老化とその骨格系への影響の重要な制御因子として同定した。Ptges2遺伝子欠損マウスでは、加齢に伴う健康指標の改善、生存期間中央値の延長、糸球体硬化症、ポドサイト障害、腎老化が顕著に軽減された。一細胞トランスクリプトーム解析とポドサイト特異的および尿細管特異的ノックアウトモデルにより、尿細管mPGES-2ではなく、ポドサイトmPGES-2が腎老化関連障害の主要な腎内因子であることが示された。機構的には、mPGES-2"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "SynNotch-iNOS CAR-Macrophages Remodel the Tumor Immune Microenvironment and Exhibit Antitumor Efficacy via a CD4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42341916/",
+        "abstract": "Chimeric antigen receptor T-cell (CAR-T) therapy shows limited efficacy against solid tumors due to the immunosuppressive tumor microenvironment (TME). Macrophages possess superior infiltration capabilities, yet their therapeutic potential remains under-realized.",
+        "source": "PubMed",
+        "doi": "10.1016/j.trsl.2026.06.017",
+        "keyword": "PF4",
+        "title_ja": "SynNotch-iNOS CAR-マクロファージは腫瘍免疫微小環境を再構築し、CD4を介して抗腫瘍効果を示す",
+        "summary_ja": "タイトル：SynNotch-iNOS CAR-マクロファージによる腫瘍免疫微小環境の再構築と抗腫瘍効果\n\nCAR-T細胞療法は固形腫瘍において免疫抑制性の腫瘍微小環境（TME）により効果が限定的である。マクロファージは優れた浸潤能を持つが、その治療ポテンシャルは未だ十分に活用されていない。本研究では、SynNotchシステムを用いてiNOS（誘導型一酸化窒素合成酵素）を発現するCAR-マクロファージ（SynNotch-iNOS CAR-M）を開発した。この細胞は、CD4を標的とするSynNotch受容体を介して特異的に活性化され、iNOSの発現により一酸化窒素（NO）を産生する。これにより、TME内の免疫抑制性細胞を減少させ、抗腫瘍免疫応答を促進する。マウスモデルにおいて、SynNotch-iNOS CAR-Mは腫瘍浸潤を達成し、TMEを再構築して顕著な抗腫瘍効果を示した。本アプローチは、"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "A Phase 2 Feasibility Study Combining Pembrolizumab and Metformin in patients with Metastatic Head and Neck Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42347882/",
+        "abstract": "Survival for recurrent/metastatic head and neck squamous cell carcinoma (R/M HNSCC) remains low with <20% immunotherapy response. Metformin increases tumor-infiltrating CD8+ T and natural killer (NK) cells, which harbor PD-1. In this Phase 2 clinical trial (NCT04414540), we combined metformin and pembrolizumab to evaluate the overall response rate (ORR) in R/M HNSCC and assess NK cell activity.",
+        "source": "PubMed",
+        "doi": "10.1158/1078-0432.CCR-26-0874",
+        "keyword": "NK cell therapy",
+        "title_ja": "転移性頭頸部がん患者におけるペムブロリズマブとメトホルミンの併用に関する第2相 feasibility 試験",
+        "summary_ja": "本試験（NCT04414540）は、再発・転移性頭頸部扁平上皮癌（R/M HNSCC）に対する免疫療法の低い奏効率（20%未満）を改善するため、メトホルミンとペムブロリズマブの併用療法の第2相 feasibility study である。メトホルミンは腫瘍浸潤CD8+ T細胞およびPD-1を発現するナチュラルキラー（NK）細胞を増加させる。主要評価項目は全奏効率（ORR）、副次評価項目としてNK細胞活性を評価した。"
+      },
+      {
+        "title": "RIG-I-targeted immunotherapy synergizes with immune checkpoint inhibition in a hepatocellular carcinoma model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42345470/",
+        "abstract": "Retinoic acid-inducible gene-I (RIG-I) is a cytoplasmic pattern recognition receptor that senses short double-stranded RNA with uncapped 5'-triphosphate (3p-RNA). Upon activation, RIG-I induces type I interferons and proinflammatory cytokines, thereby promoting adaptive immunity. Thus, RIG-I activation is a promising approach for creating a proinflammatory tumor microenvironment. In this study, we investigated its therapeutic potential in hepatocellular carcinoma (HCC). We explored and confirmed RIG-I expression and signaling in human HCC samples and cell lines. The therapeutic potential of RIG-I activation by 3p-RNA for the treatment of HCC was investigated in vitro and in syngeneic murine orthotopic tumor models. In vivo, 3p-RNA treatment significantly reduced the tumor burden, delayed disease progression, and achieved partial complete remission of RIL-175 tumors with durable immune memory. However, no therapeutic effects were observed in the Hep-55.1C model. Tumor clearance depended on CD4⁺ and CD8⁺ T cells, but not NK cells. Additionally, 3p-RNA induced PD-L1 expression on HCC cells, enhancing their sensitivity to anti-PD-1 immune checkpoint therapy in vivo. RIG-I activation via 3p-RNA therapy shows promise as an immunotherapeutic strategy for hepatocellular carcinoma (HCC). Future investigations need to focus on tumor-intrinsic factors to understand heterogeneity between tumors and to overcome resistance mechanisms.",
+        "source": "PubMed",
+        "doi": "10.1158/1535-7163.MCT-25-1295",
+        "keyword": "NK cell therapy",
+        "title_ja": "RIG-I標的免疫療法は肝細胞癌モデルにおいて免疫チェックポイント阻害と相乗効果を示す。",
+        "summary_ja": "本論文では、肝細胞癌（HCC）モデルにおけるRIG-I標的免疫療法と免疫チェックポイント阻害の併用効果を検討した。RIG-Iは細胞質内パターン認識受容体であり、5'三リン酸末端を持つ短鎖二本鎖RNA（3p-RNA）を認識し、I型インターフェロンや炎症性サイトカインを誘導して獲得免疫を促進する。ヒトHCC検体および細胞株でRIG-Iの発現とシグナル伝達を確認後、3p-RNAによる治療効果をin vitroおよび同系マウス同所性腫瘍モデルで評価した。in vivoでは、RIL-175腫瘍モデルにおいて腫瘍負荷の有意な減少、病勢進行の遅延、部分的な完全寛解と持続的な免疫記憶が認められたが、Hep-55.1Cモデルでは効果がなかった。腫瘍クリアランスはCD4⁺およびCD8⁺T細胞に依存し、NK細胞は関与しなかった。また、3p-RNAはHCC細胞のPD-L1発現を誘導し、抗PD-1免疫チェックポイン"
+      },
+      {
+        "title": "Human cytomegalovirus at the maternal-fetal interface: an overview of pathogenesis, defence, and interventions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42345277/",
+        "abstract": "Human cytomegalovirus (HCMV) is the leading infectious cause of congenital disease worldwide and a major contributor to birth defects and neurodevelopmental disorders. Vertical transmission occurs when the virus breaches the maternal-fetal interface, a complex immunological environment where the placenta is in direct contact with either the uterine lining (decidua) or maternal blood covering the syncytium. The present review synthesises current understanding of HCMV pathogenesis at this critical interface, examining viral invasion mechanisms, host immune responses, and immune evasion strategies. We outline the structural and cellular features of the placenta and decidua, highlighting key immune populations such as uterine natural killer cells and their roles in antiviral defence. The present review examines the mechanisms of HCMV dissemination across the placenta alongside placental-specific defences to infection and details on how HCMV subverts both innate and adaptive immunity to establish and maintain infection. Critical gaps in diagnostics, the limited efficacy of current antiviral therapies, and obstacles in vaccine development are reviewed, underscoring the urgent need for prevention strategies. Finally, we assess experimental models, placental explants, primary trophoblast and decidual organoids, and microfluidic placenta-on-chip systems that are advancing insights into cell-type-specific tropism, immune interactions, and mechanisms of transplacental HCMV transmission. Continued research into host-virus interactions at the maternal-fetal interface and improved model systems are critical for developing targeted prevention and treatment strategies to reduce the burden of congenital HCMV infection.",
+        "source": "PubMed",
+        "doi": "10.1042/CS20250044",
+        "keyword": "NK cell therapy",
+        "title_ja": "ヒトサイトメガロウイルスの母胎界面における病原性、防御、および介入の概要",
+        "summary_ja": "ヒトサイトメガロウイルス（HCMV）は、先天性疾患の主要な感染性原因であり、胎盤を介した垂直感染が神経発達障害などを引き起こす。本総説は、母児境界面におけるHCMVの病原性、宿主免疫応答、免疫回避機構を統合的に解説する。胎盤脱落膜の構造と子宮ナチュラルキラー細胞などの免疫細胞の役割、ウイルスの胎盤通過機構、胎盤特異的防御、自然免疫・適応免疫の回避戦略を詳述。診断の課題、抗ウイルス療法の限界、ワクチン開発の障害を指摘し、予防戦略の緊急性を強調する。さらに、胎盤外植片、トロホブラスト・脱落膜オルガノイド、胎盤オンチップシステムなどの実験モデルが、細胞指向性や免疫相互作用の解明に貢献していると述べる。母児境界面の宿主-ウイルス相互作用の研究とモデル改良が、先天性HCMV感染症の低減に不可欠である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "UCMSC-Exo for chemotherapy-induced myelosuppression in acute myeloid leukemia: a phase I clinical trial protocol.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42345101/",
+        "abstract": "Myelosuppression induced by chemotherapy represents a critical bottleneck for patients with hematological malignancies, leading to a series of severe complications responsible for chemotherapy dose reduction, interruptions, and even treatment-related death. There exists an urgent need for strategies to repair the bone marrow microenvironment and thus promote early recovery from myelosuppression. Umbilical cord-derived mesenchymal stem cell exosomes (UCMSC-Exo), as the key effector of stem cells, exhibit multi-target characteristics, making them a promising candidate for bone marrow structural reconstruction and functional remodeling. This study is a single-arm, open-label, dose-escalation, single-center, phase I clinical trial designed to evaluate the safety, tolerability, and preliminary efficacy of UCMSC-Exo in the treatment of chemotherapy-induced myelosuppression in patients with acute myeloid leukemia. Nine to eighteen eligible participants will be enrolled sequentially into three UCMSC-Exo dose-escalation groups to receive a single infusion, after which they will be followed up for 12 months. The primary endpoints focus on safety and tolerability. Secondary endpoints include parameters assessing myelosuppression recovery, the incidence of myelosuppression-related complications, and supportive care. The study protocol has been approved by the Ethics Committee of Union Hospital, Tongji Medical College, Huazhong University of Science and Technology.",
+        "source": "PubMed",
+        "doi": "10.1080/17435889.2026.2692455",
+        "keyword": "Exosomes",
+        "title_ja": "急性骨髄性白血病における化学療法誘発性骨髄抑制に対するUCMSC-Exo：第I相臨床試験プロトコル",
+        "summary_ja": "本論文は、急性骨髄性白血病（AML）患者における化学療法誘発性骨髄抑制に対する、臍帯由来間葉系幹細胞エクソソーム（UCMSC-Exo）の第I相臨床試験プロトコルを報告する。骨髄抑制は血液悪性腫瘍治療の重大な障壁であり、骨髄微小環境修復による早期回復が急務である。UCMSC-Exoは多標的特性を持ち、骨髄構造再構築と機能再編成の有望な候補である。本試験は単群、非盲検、用量漸増、単施設デザインで、安全性、忍容性、予備的有効性を評価する。9～18名の被験者を3つの用量群に逐次登録し、単回投与後12カ月追跡する。主要評価項目は安全性と忍容性、副次評価項目は骨髄抑制回復パラメータ、関連合併症発生率、支持療法である。本プロトコルは華中科技大学倫理委員会の承認を得ている。"
+      },
+      {
+        "title": "Aptamer-tagged exosome-coated Bismuth ferrite-mesoporous silica nanoparticle for chemoradiotherapy and CT/MR imaging of non-small cell lung cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42342170/",
+        "abstract": "The combination of chemotherapy and radiation therapy (RT) can significantly enhance anticancer efficacy, and nanoparticle-based systems that function as both radiosensitizers and drug carriers offer a promising strategy for multimodal cancer treatment. Here, we developed a core-shell nanoplatform composed of a bismuth ferrite (BiFeO",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijbiomac.2026.153188",
+        "keyword": "Exosomes",
+        "title_ja": "アプタマー標識エクソソーム被覆ビスマスフェライト-メソポーラスシリカナノ粒子による非小細胞肺癌の化学放射線療法およびCT/MRイメージング",
+        "summary_ja": "以下に要約します。\n\n本論文は、非小細胞肺癌（NSCLC）に対する化学放射線療法とCT/MRイメージングを統合したナノプラットフォームを報告する。コアシェル構造のビスマスフェライト（BiFeO₃）メソポーラスシリカナノ粒子に、アプタマー修飾エクソソームを被覆したシステムを開発。BiFeO₃は放射線増感剤として機能し、メソポーラスシリカは抗がん剤のキャリアとして作用する。エクソソーム表面のアプタマーによりNSCLC細胞への標的化能が向上。本ナノ粒子は化学放射線療法の相乗効果を促進し、CTおよびMRイメージングによる治療モニタリングを可能にする。in vitroおよびin vivo実験において、腫瘍増殖抑制効果とイメージング性能が確認された。"
+      },
+      {
+        "title": "Innovations in peptide-based targeted therapies for breast cancer: From conjugates to precision delivery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42341587/",
+        "abstract": "Breast cancer remains a leading cause of mortality among women worldwide, necessitating therapeutic innovations that combine precision targeting with effective delivery. Peptides have emerged as versatile tools in breast cancer-targeted therapy, functioning as tumor-targeting ligands, vaccine epitopes, and delivery enhancers across various platforms, including exosomes, nanoparticles, drug conjugates, and engineered immune cells. These multifunctional systems address limitations of conventional breast cancer therapies by leveraging the inherent specificity and adaptability of peptides to enable precise drug delivery, disrupt oncogenic signaling pathways, modulate the tumor microenvironment, and overcome therapeutic resistance. This review presents recent advances in peptide-based targeted therapies, highlighting the ongoing need to address tumor heterogeneity and resistance.",
+        "source": "PubMed",
+        "doi": "10.1016/j.biopha.2026.119707",
+        "keyword": "Exosomes",
+        "title_ja": "乳がんに対するペプチドベース標的治療の革新：複合体から精密送達へ",
+        "summary_ja": "本レビューは、乳がん治療におけるペプチドベース標的療法の革新を概説する。ペプチドは、腫瘍標的リガンド、ワクチンエピトープ、送達増強因子として機能し、エクソソーム、ナノ粒子、薬物複合体、操作免疫細胞など多様なプラットフォームに応用される。これらの多機能システムは、従来療法の限界を克服し、精密な薬物送達、発癌シグナル経路の阻害、腫瘍微小環境の調節、治療抵抗性の克服を可能にする。本稿は最新の進展を提示し、腫瘍不均一性と抵抗性への継続的な対応の必要性を強調する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "The Biological Basis, Mechanisms of Action, and Optimization Strategies of Exosomes Derived from Mesenchymal Stem Cells for the Treatment of Alzheimer's Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42348056/",
+        "abstract": "Alzheimer's disease (AD) is a complex neurodegenerative disorder whose pathological process involves multiple mechanisms, including Aβ deposition, tau protein abnormalities, neuroinflammation, synaptic damage, and neuronal loss. Current therapeutic approaches remain ineffective in halting disease progression; therefore, the development of multi-targeted, low-immunogenicity therapeutic strategies with efficient brain delivery is of great significance. Mesenchymal stem cell-derived exosomes (MSC-derived exosomes) inherit the immunomodulatory, neuroprotective, and tissue-repairing properties of MSCs, and possess good biocompatibility and the potential to cross the blood-brain barrier. Studies have shown that MSC-derived exosomes exert therapeutic effects by modulating neuroinflammation, promoting neurogenesis and synaptic plasticity, reducing Aβ deposition and tau pathology, and regulating multiple AD-related signaling pathways. At the same time, the molecular composition and functions of MSC-derived exosomes derived from different tissues exhibit heterogeneity, and their therapeutic efficacy is influenced by factors such as the source cells, culture conditions, preparation processes, and administration methods. In recent years, strategies such as engineered surface modification, functional molecule loading, three-dimensional culture, microenvironment pretreatment, large-scale production, as well as intranasal administration and biomaterial delivery systems have provided new directions for enhancing the brain-targeting ability, stability, yield, and therapeutic efficacy of MSC-derived exosomes. This review summarizes the biological basis of MSC-derived exosomes, their mechanisms of action in AD treatment, and optimization strategies, providing a reference for their further development and translational application as a cell-free therapeutic approach for AD.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-06002-8",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来エクソソームによるアルツハイマー病治療の生物学的基盤、作用機序、および最適化戦略",
+        "summary_ja": "アルツハイマー病（AD）は、Aβ沈着、タウ異常、神経炎症、シナプス障害、神経細胞死など複数の機序が関与する複雑な神経変性疾患であり、現行治療では進行抑制が困難である。間葉系幹細胞由来エクソソーム（MSC-Exo）は、MSCの免疫調節、神経保護、組織修復能を継承し、低免疫原性で血液脳関門を通過可能である。MSC-Exoは、神経炎症調節、神経新生・シナプス可塑性促進、Aβ・タウ病理軽減、AD関連シグナル経路制御などを介して治療効果を発揮する。一方、組織由来や培養条件、調製法、投与法によりその分子組成や機能は異質であり、治療効果に影響する。近年、エンジニアリング表面修飾、機能分子搭載、三次元培養、環境前処理、大量生産、経鼻投与や生体材料送達系などの最適化戦略が、脳標的性、安定性、収量、治療効果向上に寄与している。本総説は、MSC-Exoの生物学的基盤、AD治療における作用機序、最適化戦略を整理し"
+      },
+      {
+        "title": "Unveiling the antifungal arsenal: proteomic profiling of tomato exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42347955/",
+        "abstract": "Tomato-derived extracellular vesicles selectively package antifungal defense proteins and significantly suppress fungal spore growth and germination, supporting their role as coordinated plant immune delivery systems. Extracellular vesicles (EVs) are significant facilitators of plant-pathogen communication. However, their role as organized antifungal protein delivery systems is not fully understood. This study investigated whether tomato (Solanum lycopersicum) EVs have a unique set of antifungal proteins that helps prevent the growth of phytopathogenic fungi. EVs were extracted from mature tomato fruits and characterized using transmission electron microscopy and dynamic light scattering. They were then analyzed through LC-MS/MS-based proteomic profiling. We identified 133 high-confidence proteins in total; several are involved in defense mechanisms, including pathogenesis-related proteins, defensins, endochitinases, glucanases, osmotin-like proteins, and lipid transfer proteins. Proteins involved in quality control, vesicle trafficking, and metabolic regulation were also enriched. This suggests that EV cargo may participate in stress-responsive and defense-related processes. These functional categories are commonly associated with plant immune responses. Biological assays showed that the density and germination of Fusarium oxysporum, Fusarium solani, and Botrytis cinerea spores were reduced in a dose-dependent manner. These results bolster the hypothesis that tomato-derived EVs are enriched with antifungal-associated proteins and may serve as coordinated delivery vehicles in plant defense responses. Independent proteomic analysis of EV cargo may contribute to antifungal responses that are not apparent from total secretome analysis alone. The present research improves our understanding of how vesicles help plants fight disease and indicates how plant EVs could be used in long-term disease control strategies. Overall, these findings highlight the potential of plant-derived EVs as innovative, biologically driven tools for enhancing crop protection and developing sustainable antifungal strategies in agriculture.",
+        "source": "PubMed",
+        "doi": "10.1007/s00425-026-05050-7",
+        "keyword": "Exosomes",
+        "title_ja": "トマトのエクソソームにおける抗真菌因子の解明：プロテオームプロファイリング",
+        "summary_ja": "トマト由来の細胞外小胞（EV）は、抗真菌タンパク質を選択的に内包し、真菌の胞子発芽や成長を抑制する。本研究では、成熟トマト果実からEVを抽出し、透過型電子顕微鏡や動的光散乱で特性評価後、LC-MS/MSによるプロテオーム解析を実施。133種類の高信頼性タンパク質を同定し、病原性関連タンパク質、ディフェンシン、エンドキチナーゼ、グルカナーゼ、オスモチン様タンパク質、脂質輸送タンパク質など防御機構に関与する因子が濃縮されていた。また、品質管理や小胞輸送、代謝調節に関わるタンパク質も確認され、EVカーゴがストレス応答や防御過程に関与する可能性が示された。生物学的アッセイでは、Fusarium oxysporum、Fusarium solani、Botrytis cinereaの胞子密度と発芽が用量依存的に減少。これらの結果は、トマト由来EVが抗真菌タンパク質を豊富に含み、植物の免疫応答における協"
+      },
+      {
+        "title": "Expression of Concern: Exosomes derived from circRNA Rtn4-modified BMSCs attenuate TNF-α-induced cytotoxicity and apoptosis in murine MC3T3-E1 cells by sponging miR-146a.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42345133/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1042/BSR20193436_EOC",
+        "keyword": "Exosomes",
+        "title_ja": "懸念表明：circRNA Rtn4修飾BMSCs由来エクソソームがmiR-146aを吸着することで、TNF-α誘導性のマウスMC3T3-E1細胞における細胞毒性とアポトーシスを軽減する",
+        "summary_ja": "以下の論文・記事を要約します。\n\nタイトル: Expression of Concern: Exosomes derived from circRNA Rtn4-modified BMSCs attenuate TNF-α-induced cytotoxicity and apoptosis in murine MC3T3-E1 cells by sponging miR-146a.\n\n本論文は、circRNA Rtn4で修飾された骨髄間質細胞（BMSCs）由来のエクソソームが、miR-146aをスポンジングすることで、TNF-α誘導性の細胞毒性とアポトーシスをマウスMC3T3-E1細胞において軽減するメカニズムを報告した。しかし、後に研究の信頼性に関する懸念が表明され、Expression of Concernが発行された。具体的な懸念事項は明記されていないが、データの整合性や再現性に関"
+      },
+      {
+        "title": "NORAD Overexpression Enhances hiPSC-CM Regenerative Potency via PUM2/MASTL Signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42345093/",
+        "abstract": "The engraftment of induced cells from human pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs) for myocardial infarction therapy is critically hindered by their low cell-cycle activity and survival rates. In this study, we explored the role of the long noncoding RNA activated by DNA damage (NORAD) in enhancing the cell-cycle activity and engraftment of hiPSC-CMs, providing new insights into myocardial repair.",
+        "source": "PubMed",
+        "doi": "10.1161/ATVBAHA.126.324431",
+        "keyword": "Exosomes",
+        "title_ja": "NORADの過剰発現はPUM2/MASTLシグナル伝達を介してhiPSC-CMの再生能を向上させる",
+        "summary_ja": "タイトル：NORAD過剰発現がPUM2/MASTLシグナルを介してhiPSC-CMの再生能を向上させる\n\n内容：ヒト多能性幹細胞由来心筋細胞（hiPSC-CM）を用いた心筋梗塞治療では、細胞周期活性と生着率の低さが課題である。本研究では、DNA損傷応答性長鎖ノンコーディングRNA（NORAD）の過剰発現が、hiPSC-CMの細胞周期活性と生着能を向上させることを明らかにした。NORADはPUM2/MASTLシグナル経路を介して作用し、心筋修復の新たな知見を提供する。"
+      },
+      {
+        "title": "Epigenetic and immunological alterations in umbilical cord blood of overweight/obese women with gestational diabetes mellitus: insights into DNA methylation signatures and immune cell dysregulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42343321/",
+        "abstract": "Gestational diabetes mellitus (GDM) is a common pregnancy complication associated with adverse maternal and neonatal outcomes. Epigenetic modifications may reflect intrauterine metabolic exposure and contribute to immune and metabolic alterations. This study aimed to explore DNA methylation profiles in umbilical cord blood from overweight and obese women with and without GDM.",
+        "source": "PubMed",
+        "doi": "10.1186/s12884-026-09547-7",
+        "keyword": "Exosomes",
+        "title_ja": "妊娠糖尿病を有する過体重・肥満女性の臍帯血におけるエピジェネティックおよび免疫学的変化：DNAメチル化シグネチャーと免疫細胞調節異常に関する知見",
+        "summary_ja": "妊娠糖尿病（GDM）は、過体重・肥満女性の妊娠合併症として、母体と新生児に悪影響を及ぼす。本研究では、GDMを有する過体重・肥満女性の臍帯血におけるDNAメチル化プロファイルと免疫細胞の調節異常を解析した。その結果、GDM群では特定の遺伝子領域でDNAメチル化パターンの変化が認められ、免疫細胞サブセットの構成比や機能にも異常が観察された。これらのエピジェネティックな変化は、子宮内の代謝環境を反映し、免疫系の調節不全を介して新生児の代謝・免疫疾患リスクに寄与する可能性が示唆された。"
+      },
+      {
+        "title": "Gelatin-based cryogels seeded with exosomes enhance osteogenic activity and bone regeneration in a rabbit femoral defect model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42341319/",
+        "abstract": "The development of biomaterial scaffolds that combine structural support with biological activation remains critical for bone defect repair. In this study, gelatin-based cryogels (GBCs) that incorporate β-tricalcium phosphate (β-TCP) and hyaluronic acid (HA) were fabricated and optimized to balance porosity and mechanical stability. Increasing the HA concentration increased the water content, swelling ratio, and porosity while reducing the compressive stiffness. The cryogels that contained 0.3% HA exhibited interconnected macropores (200-300 μm after swelling), ∼30% porosity, and a compressive modulus of 3.67 MPa and were selected for biological evaluation. Human umbilical cord-derived mesenchymal stem cell (hUC-MSC)-derived exosomes were incorporated to increase osteogenic bioactivity. Compared with the control treatment, exosome treatment significantly increased MG-63 proliferation, alkaline phosphatase activity, and mineral deposition (",
+        "source": "PubMed",
+        "doi": "10.1177/08853282261463691",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを播種したゼラチン系クライオゲルがウサギ大腿骨欠損モデルにおける骨形成活性と骨再生を促進する",
+        "summary_ja": "ゼラチン系クライオゲル（GBC）にβ-リン酸三カルシウム（β-TCP）とヒアルロン酸（HA）を添加し、多孔性と機械的安定性を最適化した。HA濃度0.3%のクライオゲルは、膨潤後の連続マクロポア（200-300μm）、約30%の多孔率、圧縮弾性率3.67MPaを示し、生物学的評価に選定された。ヒト臍帯由来間葉系幹細胞（hUC-MSC）由来エクソソームを導入した結果、対照群と比較してMG-63細胞の増殖、アルカリホスファターゼ活性、ミネラル沈着が有意に向上した。ウサギ大腿骨欠損モデルにおいて、エクソソーム含有GBCは骨再生を促進し、骨形成活性の増強が確認された。"
+      },
+      {
+        "title": "Recurrent ZC3H18 mutations stabilize oncogenic endogenous retroviral RNA.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42340846/",
+        "abstract": "Endogenous retroviral (ERV) RNA is highly expressed in cancer, suggesting a selective advantage. We identify recurrent truncating mutations in ZC3H18 (Z18), a nuclear RNA surveillance factor lost in 30% of all cancers. We show that Z18 truncating mutations are oncogenic and that Z18 plays an evolutionarily conserved role in the nuclear surveillance of oncogenic ERV RNA. In zebrafish, Z18 truncation accelerates melanoma onset and selectively increases ERV RNA. Human cancer cell lines and patient tumors with Z18 mutations also upregulate ERV RNA. In engineered human melanoma cells, Z18 truncation enhances ERV RNA accumulation more than heterozygous Z18 loss, consistent with dominant-negative activity. Truncated Z18 directly stabilizes and relocalizes ERV RNA to the cytoplasm. ERV RNA expression accelerates melanoma and is required for Z18 truncation-mediated melanoma onset in zebrafish. Growth of human melanoma cells similarly depends on Z18-regulated ERV RNA. Together, these findings support Z18-regulated ERV RNA as a driver of oncogenesis.",
+        "source": "PubMed",
+        "doi": "10.1016/j.celrep.2026.117526",
+        "keyword": "Exosomes",
+        "title_ja": "再発性ZC3H18変異が癌原性内在性レトロウイルスRNAを安定化する",
+        "summary_ja": "がん細胞では内在性レトロウイルス（ERV）RNAが高発現し、選択的優位性をもたらす。全癌種の30%で核RNA監視因子ZC3H18（Z18）の切断型変異が確認され、これが発癌性を持つことを発見した。ゼブラフィッシュではZ18切断がメラノーマ発症を促進し、ERV RNAを特異的に増加させる。ヒト癌細胞株や患者腫瘍でも同様のERV RNA上昇が認められた。操作したヒトメラノーマ細胞では、Z18切断がヘテロ接合性欠失よりもERV RNA蓄積を強く促進し、優性阻害活性を示す。切断型Z18はERV RNAを直接安定化し、細胞質へ再局在化させる。ERV RNA発現はメラノーマを促進し、ゼブラフィッシュではZ18切断による発症に必須である。ヒトメラノーマ細胞の増殖もZ18制御下のERV RNAに依存する。以上より、Z18制御下のERV RNAが発癌のドライバーであることが示された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "sEV-Enriched Serum Preparations From Healthy Individuals Protect Against Acute Pancreatitis-Induced Intestinal Barrier Dysfunction Through miR-579-3p/ANXA3-Mediated Inhibition of NLRP3 Inflammasome Pyroptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42347491/",
+        "abstract": "Acute pancreatitis (AP) frequently triggers intestinal barrier dysfunction, yet the underlying molecular mechanisms remain poorly understood. This study investigated whether small extracellular vesicle (sEV)-enriched serum preparations from healthy individuals protect against AP-induced intestinal barrier dysfunction through microRNA-mediated regulation of pyroptosis. sEV-enriched preparations were isolated from 10 AP patients (AP-sEV) and 10 healthy controls (HC-sEV) using ExoQuick precipitation followed by ultracentrifugation. A murine AP model was established using cerulein and lipopolysaccharide, and human intestinal epithelial cells were stimulated with lipopolysaccharide for ",
+        "source": "PubMed",
+        "doi": "10.2478/aite-2026-0018",
+        "keyword": "sEVs",
+        "title_ja": "健常者由来のsEV含有血清製剤は、miR-579-3p/ANXA3を介したNLRP3インフラマソームパイロトーシスの抑制を通じて、急性膵炎誘発性腸管バリア機能障害を保護する",
+        "summary_ja": "急性膵炎（AP）は腸管バリア機能障害を誘発するが、分子機構は不明である。本研究は、健常者由来のsmall extracellular vesicle（sEV）濃縮血清製剤が、microRNAを介したパイロトーシス制御によりAP誘発腸管バリア障害を保護するかを検討した。AP患者10例（AP-sEV）と健常対照10例（HC-sEV）からExoQuick沈殿と超遠心分離でsEV濃縮製剤を単離。セルレインとリポ多糖でマウスAPモデルを作製し、ヒト腸管上皮細胞をリポ多糖で刺激した。HC-sEVはAP-sEVと比較し、miR-579-3pを高発現し、ANXA3を標的としてNLRP3インフラマソームパイロトーシスを抑制。これにより腸管バリア機能障害を軽減した。結論として、HC-sEVはmiR-579-3p/ANXA3経路を介したNLRP3パイロトーシス阻害によりAP誘発腸管障害を保護する可能性が示された"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めて500文字以内でまとめます。\n\n---\n\n**1. Podocyte mPGES-2と腎老化・骨粗鬆症**  \n腎臓の老化が全身の臓器機能低下を引き起こすメカニズムとして、足細胞のmPGES-2が鍵を握ることを示した。腎老化を標的とすることで、腎臓のみならず骨粗鬆症など加齢性疾患の包括的治療につながる可能性がある。\n\n**2. SynNotch-iNOS CAR-マクロファージ**  \n固形腫瘍ではCAR-T細胞が効果を発揮しにくいが、マクロファージは腫瘍微小環境に浸潤しやすい特性を持つ。本技術はiNOSを発現させ免疫抑制環境を再構築する新たなアプローチであり、次世代細胞免疫療法として期待される。\n\n**3. UCMSC-Exoによる骨髄抑制治療（第I相試験）**  \n急性骨髄性白血病の化学療法後の骨髄抑制に対し、臍帯由来間葉系幹細胞エクソソームを用いる初の臨床試験。エクソソームは細胞治療より安全で、骨髄微小環境修復による支持療法として実用化が近い。\n\n**4. MSC-Exoによるアルツハイマー病治療の最適化**  \nADは多因子性で既存治療が困難だが、MSC由来エクソソームは神経保護・抗炎症・Aβ除去など多面的に作用する。投与経路や修飾技術の最適化により、実用的な治療戦略が構築されつつある。\n\n**5. sEVによる急性膵炎腸管バリア障害の保護**  \n健常者血清由来のsmall EVがmiR-579-3pを介してNLRP3インフラマソームのパイロトーシスを抑制し、腸管バリアを保護する。自然由来のsEV製剤は、急性膵炎の新たな治療モダリティとして有望である。"
+}

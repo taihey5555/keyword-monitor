@@ -1,0 +1,164 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Herb-derived immunometabolic modulators: traditional Chinese medicine at the crossroads of metabolism and antitumor immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42363193/",
+        "abstract": "Traditional Chinese Medicine (TCM) has long been applied in oncology to \"support vital Qi and eliminate pathogenic factors\", yet its place within modern immunometabolic therapy is still not clearly defined. Tumor, stromal, and immune cells are now understood to be organized around several recurrent metabolic axes, including glycolysis-lactate, mitochondrial stress and immunogenic cell death (ICD), lipid-bile-acid signaling, and redox balance. Clarifying how herb-based formulas, isolated compounds, and contemporary delivery systems influence these axes may provide a mechanistic foundation for integrating TCM into precision cancer treatment.",
+        "source": "PubMed",
+        "doi": "10.1186/s13020-026-01448-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "ハーブ由来の免疫代謝調節因子：代謝と抗腫瘍免疫の交差点における伝統中国医学",
+        "summary_ja": "タイトル：生薬由来の免疫代謝調節因子：伝統中国医学と代謝・抗腫瘍免疫の接点\n\n内容：伝統中国医学（TCM）は古くから「正気を補い、邪気を除く」目的で腫瘍学に応用されてきたが、現代の免疫代謝療法における位置づけは未だ不明確である。現在、腫瘍細胞、間質細胞、免疫細胞は、解糖系-乳酸、ミトコンドリアストレスと免疫原性細胞死（ICD）、脂質-胆汁酸シグナル、酸化還元バランスといった複数の代謝軸を中心に組織化されていることが明らかになっている。漢方処方、単離化合物、および最新の送達システムがこれらの代謝軸にどのように影響するかを解明することで、TCMを精密癌治療に統合するためのメカニズム的基盤が提供される可能性がある。"
+      },
+      {
+        "title": "Claudin18.2 and the PD-1/PD-L1 axis in gastric cancer: mechanistic insights and implications for combination immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42363179/",
+        "abstract": "Claudin18.2 is a highly specific therapeutic target selectively expressed in gastric cancer cells. Emerging evidence suggests that Claudin18.2 positivity may be associated with an immunosuppressive tumor microenvironment and suboptimal responses to PD-1/PD-L1 blockade. However, the underlying mechanisms and therapeutic implications remain incompletely understood.",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-08408-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "胃がんにおけるClaudin18.2とPD-1/PD-L1軸：メカニズムの解明と併用免疫療法への示唆",
+        "summary_ja": "Claudin18.2は、胃がん細胞に選択的に発現する高特異的な治療標的である。近年の知見では、Claudin18.2陽性は免疫抑制性の腫瘍微小環境と関連し、PD-1/PD-L1阻害療法への反応性が低下する可能性が示唆されている。しかし、その分子メカニズムや治療的意義は完全には解明されていない。本論文は、Claudin18.2とPD-1/PD-L1経路の相互作用に関するメカニズムを考察し、併用免疫療法への応用可能性を探るものである。"
+      },
+      {
+        "title": "Oncolytic adenovirus co-expressing IL-12 and shVEGF potentiates immune checkpoint blockade for treatment of renal cell carcinoma: in vitro, organ-on-a-chip, and in vivo evaluation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42363059/",
+        "abstract": "Renal cell carcinoma (RCC) has been known as highly malignant and resistant to standard therapy due to its immunosuppressive tumor microenvironment and aberrant VEGF-mediated angiogenesis. To overcome these therapeutic limitations, here we assessed the therapeutic efficacy of an oncolytic adenovirus (oAd) co-expressing Interleukin-12 (IL-12) and a short hairpin RNA against VEGF (shVEGF) in combination with immune checkpoint inhibitors (ICIs). The oAd/IL12/shVEGF induced RCC-specific cancer cell death in vitro and 3D bioprinted model, leading to greater anti-tumor effect compared with oAd-GMCSF. Furthermore, it potentiates anti-tumor efficacy in RCC orthotopic tumor model. The potent antitumor effect induced by combination of oAd/IL12/shVEGF with anti-PD1 was due to CD4 + or CD8 + T cell- or NK cell-mediated antitumor immune response and effective inhibition of tumor-associated neovascularization. Collectively, oAd/IL12/shVEGF can be a potent strategy to overcome current limitations in conventional RCC therapy by converting the cold tumor microenvironment to an inflamed state to sensitize refractory tumors to ICIs.",
+        "source": "PubMed",
+        "doi": "10.1186/s10020-026-01535-z",
+        "keyword": "NK cell therapy",
+        "title_ja": "IL-12とshVEGFを共発現する腫瘍溶解性アデノウイルスが腎細胞癌治療における免疫チェックポイント阻害を増強する：in vitro、オルガン・オン・ア・チップ、およびin vivo評価",
+        "summary_ja": "腎細胞癌（RCC）は免疫抑制性腫瘍微小環境とVEGF介在性血管新生により標準治療に抵抗性を示す。本研究では、IL-12とshVEGFを共発現する腫瘍溶解性アデノウイルス（oAd/IL12/shVEGF）と免疫チェックポイント阻害剤（ICIs）の併用効果を評価した。oAd/IL12/shVEGFはin vitroおよび3DバイオプリントモデルでRCC特異的細胞死を誘導し、oAd-GMCSFより優れた抗腫瘍効果を示した。また、RCC同所性腫瘍モデルにおいて抗PD-1との併用でCD4+・CD8+T細胞およびNK細胞介在性免疫応答と腫瘍関連新生血管の抑制を介し強力な抗腫瘍効果を発揮した。本戦略は冷たい腫瘍微小環境を炎症状態に変換し、ICIsへの感受性を高めることで従来治療の限界を克服する可能性がある。"
+      },
+      {
+        "title": "Case of complete response to immunotherapy in MMR-deficient prostate cancer associated with NK-like and CD4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42361800/",
+        "abstract": "Mismatch repair deficiency (dMMR) and microsatellite instability (MSI-H) are rare in prostate cancer, occurring in 2%-4% of cases. These defects result in increased genomic instability and elevated tumor mutational burden (TMB), which can support responses to immune checkpoint inhibitors (ICIs). Here, we report a patient with locally advanced Gleason 5 + 5 = 10 prostatic adenocarcinoma harboring MSH2 and MSH6 genomic deletions with ultrahigh TMB (>250 mutations/megabase) in whom pembrolizumab resulted in a striking complete radiographic, pathologic, and molecular response. Using digital-spatial microscopy, single-cell RNA/T cell receptor (TCR) sequencing, and multiplex cytometry, we identify atypical tumor-infiltrating T cells with natural killer-like phenotypes and CD4",
+        "source": "PubMed",
+        "doi": "10.1016/j.xcrm.2026.102889",
+        "keyword": "NK cell therapy",
+        "title_ja": "MMR欠損前立腺癌におけるNK様およびCD4関連免疫療法への完全奏効例",
+        "summary_ja": "本症例は、前立腺癌において稀なMMR欠損（dMMR）およびMSI-Hを有する局所進行性Gleason 5+5=10の腺癌症例である。MSH2およびMSH6のゲノム欠失により超高TMB（>250変異/メガベース）を示し、ペムブロリズマブ投与により完全な画像学的、病理学的、分子学的奏効が得られた。デジタル空間顕微鏡、単一細胞RNA/T細胞受容体シークエンス、マルチプレックスサイトメトリーを用いた解析により、腫瘍浸潤T細胞にNK様表現型およびCD4を有する非典型的な細胞群が同定された。これらの知見は、dMMR前立腺癌における免疫チェックポイント阻害薬の有効性と、新たな免疫応答メカニズムの存在を示唆する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosomal LINC00323 accelerates angiogenesis through activating the MAPK and JAK-STAT pathways by stabilizing CDC5L in NSCLC.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42364008/",
+        "abstract": "Non-small cell lung cancer (NSCLC) stands as a predominant contributor to cancer-related mortality, with angiogenesis serving a pivotal role in the advancement of the disease. The upregulation of LINC00323 in NSCLC has been identified; however, its function in facilitating NSCLC progression remains ambiguous. This investigation delves into the implications of LINC00323 on cellular proliferation, angiogenesis, and associated pathways in NSCLC, emphasizing its regulation of CDC5L stability and its presence within exosomes.",
+        "source": "PubMed",
+        "doi": "10.1007/s13402-026-01248-9",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム由来LINC00323は、NSCLCにおいてCDC5Lを安定化させることでMAPKおよびJAK-STAT経路を活性化し、血管新生を促進する。",
+        "summary_ja": "非小細胞肺癌（NSCLC）は癌関連死亡の主要因であり、血管新生が病態進行に重要な役割を果たす。NSCLCにおけるLINC00323の過剰発現は確認されているが、その機能は不明である。本研究では、NSCLCにおけるLINC00323の細胞増殖、血管新生、関連経路への影響を調査し、CDC5L安定性の調節とエクソソーム内での存在に着目した。その結果、エクソソーム由来LINC00323がCDC5Lを安定化させ、MAPK経路およびJAK-STAT経路を活性化することで血管新生を促進することが明らかとなった。"
+      },
+      {
+        "title": "hUC-MSC-exosomes deliver Let-7b/7f-5p to dermal papilla cells for a multi-target synergistic treatment of androgenetic alopecia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42363148/",
+        "abstract": "Exosomes play pivotal roles in immunomodulation, tissue regeneration, and the treatment of diseases. However, their specific mechanisms of action remain unclear. Therefore, this study aimed to elucidate the therapeutic mechanisms of human umbilical cord mesenchymal stem cell-derived exosomes (hUC-MSC-exosomes) in androgenic alopecia (AGA). We established a modified AGA mouse model and found that hUC-MSC-Exosomes could be taken up by dermal papilla cells (DPCs), promoted the transition of hair follicles from telogen to anagen, ameliorated hair follicle miniaturization, and enhanced hair regeneration and thickening.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04752-0",
+        "keyword": "Exosomes",
+        "title_ja": "hUC-MSCエクソソームがLet-7b/7f-5pを毛乳頭細胞に送達し、多標的相乗効果による男性型脱毛症治療を実現",
+        "summary_ja": "ヒト臍帯間葉系幹細胞由来エクソソーム（hUC-MSC-exosomes）は、免疫調節や組織再生において重要な役割を果たすが、その作用機序は不明である。本研究では、アンドロゲン性脱毛症（AGA）に対する治療メカニズムを解明するため、改良型AGAマウスモデルを確立した。hUC-MSC-exosomesは毛乳頭細胞（DPCs）に取り込まれ、毛包の休止期から成長期への移行を促進し、毛包の小型化を改善し、毛髪の再生と太さを向上させた。特に、エクソソーム内のLet-7b/7f-5pがDPCsに送達され、複数の標的を同時に調節することで相乗効果を発揮し、AGA治療に寄与することが示された。"
+      },
+      {
+        "title": "Mannose receptor-targeted MSC-derived exosomes as a high-affinity delivery platform for liver sinusoidal endothelial cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42360611/",
+        "abstract": "Liver sinusoidal endothelial cells (LSECs) play a crucial role in the progression of liver fibrosis. While mesenchymal stem cell-derived exosomes (MSC-Exos) hold potential for liver regeneration, their therapeutic efficacy is often limited by poor target specificity and rapid clearance. Here, we developed mannose receptor-targeting MSC-Exos (Man-Exos) by incorporating DSPE-PEG-Mannose via a post-insertion method to enhance LSEC-specific delivery. The physicochemical stability and targeting efficiency of Man-Exos were evaluated both in vitro and in vivo. Man-Exos exhibited high stability in various conditions and showed significantly enhanced binding affinity to LSECs compared to non-targeted exosomes. Notably, in a co-culture system of LSECs and macrophages, Man-Exos demonstrated superior selectivity for LSECs. In vivo biodistribution studies further confirmed that Man-Exos predominantly accumulated in the liver, specifically colocalizing with LSECs for up to 48 h. Our findings suggest that Man-Exos can serve as a highly efficient and stable delivery platform for LSEC-targeted therapy, providing a promising strategy for enhancing the translational potential of exosome-based regenerative medicine in liver fibrosis.",
+        "source": "PubMed",
+        "doi": "10.1007/s13346-026-02169-8",
+        "keyword": "Exosomes",
+        "title_ja": "マンノース受容体を標的としたMSC由来エクソソーム：肝類洞内皮細胞への高親和性デリバリープラットフォーム",
+        "summary_ja": "肝類洞内皮細胞（LSEC）は肝線維化の進行に重要である。間葉系幹細胞由来エクソソーム（MSC-Exos）は肝再生に有望だが、標的特異性の低さと急速なクリアランスが課題である。本研究では、DSPE-PEG-Mannoseを後挿入法で組み込んだマンノース受容体標的化MSC-Exos（Man-Exos）を開発し、LSEC特異的送達を強化した。Man-Exosは様々な条件下で高い安定性を示し、非標的エクソソームと比較してLSECへの結合親和性が有意に向上した。LSECとマクロファージの共培養系では、Man-ExosはLSECに対して優れた選択性を示した。生体内分布試験でも、Man-Exosは肝臓に優位に集積し、最大48時間LSECと共局在した。Man-ExosはLSEC標的治療のための高効率かつ安定な送達プラットフォームとして機能し、肝線維化におけるエクソソームベース再生医療の臨床応用を促進する可"
+      },
+      {
+        "title": "VMA21 deficiency leads to autophagic dysregulation and altered vesicle trafficking in X-linked myopathy with excessive autophagy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42360470/",
+        "abstract": "X-Linked myopathy with excessive autophagy (XMEA) is a rare vacuolar myopathy caused by mutations in Vma21, an assembly chaperone required for vacuolar H⁺-ATPase (V-ATPase) function. However, the mechanisms linking Vma21 deficiency to progressive muscle pathology remain poorly understood, in part due to the lack of suitable animal models. To address this gap, we generated conditional Vma21 knockout mouse models to investigate the consequences of Vma21 loss in striated muscle. Combined deletion of Vma21 in skeletal and cardiac muscle resulted in early lethality driven by severe cardiomyopathy associated with autophagic dysregulation, preceding the development of skeletal muscle pathology. In contrast, inducible skeletal muscle-specific deletion of Vma21 produced progressive muscle weakness and myopathy characterized by centralized nuclei, fiber splitting, and increased fiber size variability. Affected skeletal muscle also recapitulated defining pathological hallmarks of XMEA, including basal lamina reduplication and autophagic vacuoles with sarcolemmal features (AVSFs). Ultrastructural analysis revealed membrane-bound vacuoles containing partially undegraded material that frequently accumulated at the subsarcolemmal region, together with clusters of vesicular structures. Notably, mutant muscle exhibited increased staining for the late endosomal/exosomal marker CD63, which strongly colocalized with the complement membrane attack complex C5b-9. A similar increase in CD63 staining and its colocalization with C5b-9 were observed in skeletal muscle biopsies from patients with XMEA. Together, these models faithfully recapitulate key pathological features of XMEA and identify the accumulation of CD63-positive structures and their colocalization with C5b-9 as previously unrecognized features of Vma21-deficient skeletal muscle, implicating altered vesicle trafficking in XMEA pathogenesis.",
+        "source": "PubMed",
+        "doi": "10.1007/s00401-026-03044-z",
+        "keyword": "Exosomes",
+        "title_ja": "VMA21欠損は、過剰なオートファジーを伴うX連鎖ミオパチーにおいて、オートファジーの調節不全と小胞輸送の異常を引き起こす",
+        "summary_ja": "XMEAはVma21遺伝子変異による空胞性ミオパチーであるが、病態機序は不明であった。本研究では、条件付きVma21ノックアウトマウスを作製し解析した。骨格筋と心筋の両方でVma21を欠失させると、重度の心筋症により早期致死となり、骨格筋病変に先行してオートファジー調節異常が認められた。一方、骨格筋特異的誘導性欠失マウスでは、進行性筋力低下、中心核、線維分裂、線維径のばらつき増大が観察され、XMEAの特徴である基底膜重複やAVSFsも再現された。超微形態解析では、未分解物質を含む膜結合性空胞が筋鞘下に蓄積し、小胞構造の集簇も見られた。変異筋では後期エンドソーム/エクソソームマーカーCD63の発現が増加し、補体膜攻撃複合体C5b-9と強く共局在した。この所見はXMEA患者筋生検でも確認された。本モデルはXMEAの主要病理像を忠実に再現し、CD63陽性構造の蓄積とC5b-9との共局在を新たな特"
+      },
+      {
+        "title": "Isolation of Mesenchymal Stem Cell-Derived Extracellular Vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42350729/",
+        "abstract": "Stem cell-derived exosomes have gained increasing attention due to their therapeutic potential in various diseases. The successful acquisition of exosomes with the desired therapeutic efficacy requires both the appropriate cultivation of the source stem cells and the use of suitable isolation methods. In this context, serum-free culture approaches have emerged as a key strategy to enhance exosome yield. This chapter explains in detail how to properly grow stem cells, how to adapt them to serum-free culture conditions, and how to get exosomes from these cells.",
+        "source": "PubMed",
+        "doi": "10.1007/7651_2026_712",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来細胞外小胞の単離",
+        "summary_ja": "本論文では、間葉系幹細胞由来の細胞外小胞（エクソソーム）の単離方法について解説する。幹細胞由来エクソソームは多様な疾患における治療応用が期待されるが、所望の治療効果を得るには、適切な幹細胞培養と単離手法の選択が不可欠である。特に、無血清培養法はエクソソーム収量を向上させる重要な戦略として注目されている。本稿では、幹細胞の適切な培養方法、無血清培養条件への適応手順、およびエクソソームの取得方法を詳細に説明する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Molecular Pathogenesis of and Regenerative Strategies for Osteonecrosis of the Femoral Head.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42363607/",
+        "abstract": "Osteonecrosis of the femoral head (ONFH) is a progressive, multifactorial bone disease characterized by ischemia-induced osteocyte death, microenvironmental imbalance, and failed tissue regeneration. According to recent advances in pathophysiological understanding, vascular injury, oxidative stress, and inflammatory storms form a pathogenic cascade leading to osteogenic dysfunction, adipogenic lineage drift of mesenchymal stem cells (MSCs), and epigenetic alterations that exacerbate bone degeneration. Despite improvements in early detection, traditional interventions-including bisphosphonates, hyperbaric oxygen therapy, and surgical decompression-have limited efficacy, particularly in the mid-to-late stages. This review systematically synthesizes emerging regenerative approaches across three domains: (1) Cellular and molecular therapies: Autologous MSC transplantation, exosomes, and apoptotic extracellular vesicles restore osteogenesis, modulate immunity, and promote angiogenesis, while gene-editing technologies such as CRISPR/Cas9 enhance MSC functionality. (2) Nanobiomaterial synergy: Enzyme-mimetic nanozymes and multifunctional polymeric scaffolds improve lesion targeting, reactive oxygen species clearance, and microenvironmental regulation. (3) Advanced bioengineering: Organoid models and 3D-bioprinted living joint prostheses enable the integration of vascularization, mechanical support, and precise drug delivery, representing transformative strategies in personalized repair. Together, these innovations highlight a future paradigm shift from passive support to active, mechanism-targeted regeneration, offering new hope for structural and functional reconstruction in ONFH. Multidisciplinary integration-bridging materials science, stem cell biology, and digital medicine-will be essential for successfully developing functional cures.",
+        "source": "PubMed",
+        "doi": "10.1177/19373368261460246",
+        "keyword": "Exosomes",
+        "title_ja": "大腿骨頭壊死の分子病態と再生医療戦略",
+        "summary_ja": "大腿骨頭壊死症（ONFH）は、虚血による骨細胞死、微小環境不均衡、組織再生不全を特徴とする進行性の多因子性骨疾患である。病態生理として、血管障害、酸化ストレス、炎症性ストームが病原性カスケードを形成し、骨形成不全、間葉系幹細胞（MSCs）の脂肪細胞系への分化転換、エピジェネティック変化を引き起こす。従来の治療（ビスホスホネート、高圧酸素療法、外科的減圧）は中期以降で効果が限定的である。本総説は、以下の3領域の再生医療アプローチを体系的にまとめる。(1) 細胞・分子療法：自家MSC移植、エクソソーム、アポトーシス細胞外小胞による骨形成・免疫調節・血管新生の促進、CRISPR/Cas9によるMSC機能強化。(2) ナノバイオマテリアル：酵素模倣ナノザイムや多機能性高分子足場による病変標的化、活性酸素除去、微小環境調節。(3) 先端バイオエンジニアリング：オルガノイドモデルや3Dバイオプリンティ"
+      },
+      {
+        "title": "BMSCs-derived exosomal miR-196a-5p promotes macrophage M2 polarization and osteogenesis in postmenopausal osteoporosis through regulating Rspo2/Wnt/β-catenin signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42362201/",
+        "abstract": "This study aimed to investigate the effects of bone marrow mesenchymal stem cell-derived exosomes (BMSCs-EXOs) on postmenopausal osteoporosis (PMOP). Bilateral ovariectomy (OVX) surgery was performed to establish mouse PMOP models. Histological analysis was conducted using hematoxylin and eosin staining. Gene expression was detected using immunohistochemistry and Western blot. miRNA and mRNA were detected using quantitative reverse transcriptase PCR. Cell functions were analyzed using oil red O, alizarin red, and alkaline phosphatase (ALP) staining, and flow cytometry. The interaction between miR-196a-5p and R-spondin 2 (Rspo2) was verified by luciferase and RNA immunoprecipitation assays. We found that BMSCs-EXOs promoted osteogenesis and macrophage M2 polarization. BMSCs-derived exosomal miR-196a-5p enhanced the effects of BMSCs-EXOs on mediating osteogenesis and M2 polarization. Mechanistically, miR-196a-5p targeted Rspo2, activating Wnt/β-Catenin signaling. BMSCs-derived exosomal miR-196a-5p alleviated the effects of M1 macrophages and promoted the osteogenesis of BMSCs, which was reversed by Rspo2. Furthermore, BMSCs-derived exosomal miR-196a-5p promoted the osteogenesis ",
+        "source": "PubMed",
+        "doi": "10.1080/15384101.2026.2691384",
+        "keyword": "Exosomes",
+        "title_ja": "BMSCs由来エクソソームmiR-196a-5pは、Rspo2/Wnt/β-カテニンシグナルを調節することで閉経後骨粗鬆症におけるマクロファージM2分極と骨形成を促進する",
+        "summary_ja": "本研究旨在探讨骨髓间充质干细胞来源外泌体（BMSCs-EXOs）对绝经后骨质疏松症（PMOP）的影响。通过双侧卵巢切除术（OVX）建立小鼠PMOP模型，采用HE染色、免疫组化、Western blot、qRT-PCR、油红O、茜素红、ALP染色及流式细胞术检测基因表达与细胞功能。荧光素酶和RNA免疫沉淀实验验证miR-196a-5p与R-spondin 2（Rspo2）的相互作用。结果显示，BMSCs-EXOs促进成骨和巨噬细胞M2极化。BMSCs来源的外泌体miR-196a-5p增强BMSCs-EXOs介导的成骨和M2极化效应。机制上，miR-196a-5p靶向Rspo2，激活Wnt/β-Catenin信号。BMSCs来源的外泌体miR-196a-5p减轻M1巨噬细胞效应并促进BMSCs成骨，该作用被Rspo2逆转。此外，BMSCs来源的外泌体miR-196a-5p促进成骨。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を簡潔にまとめます。\n\n1. **Claudin18.2とPD-1/PD-L1軸（胃がん）**  \n   胃がんに高特異的なClaudin18.2が免疫抑制性微小環境と関連し、PD-1/PD-L1阻害療法の効果を減弱させる可能性が示唆された。今後、Claudin18.2標的治療と免疫チェックポイント阻害の併用戦略が鍵となる。\n\n2. **腫瘍溶解性アデノウイルス（oAd/IL12/shVEGF）とICI併用（腎細胞癌）**  \n   IL-12とshVEGFを共発現するウイルスが免疫抑制環境と血管新生を同時に標的化。オルガンオンチップやin vivo評価でICIとの相乗効果が確認され、難治性RCCへの新たな治療基盤となる。\n\n3. **dMMR前立腺癌への免疫療法完全奏効例**  \n   MSI-H・超高TMBを示す稀な前立腺癌でペムブロリズマブが完全奏効。免疫原性の高いサブタイプの同定と、個別化免疫療法の重要性を再確認させた。\n\n4. **hUC-MSCエクソソームによるAGA治療（Let-7b/7f-5p）**  \n   ヒト臍帯MSC由来エクソソームが毛乳頭細胞にmiRNAを送達し、アンドロゲン性脱毛症を多標的治療。再生医療とエクソソーム技術の融合が実用化に近づいている。\n\n5. **BMSCsエクソソームmiR-196a-5pと骨代謝（閉経後骨粗鬆症）**  \n   エクソソーム内包miR-196a-5pがRspo2/Wnt/β-catenin経路を介してマクロファージM2分極と骨形成を促進。骨粗鬆症におけるエクソソーム治療の新たな分子基盤を提供した。\n\nこれらの研究は、**標的分子・免疫環境・細胞外小胞**を軸に、がん・代謝・再生医療の融合領域を切り拓いている。"
+}

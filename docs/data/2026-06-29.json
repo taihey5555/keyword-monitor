@@ -1,0 +1,83 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Olive Leaf Extract Enhances Natural Killer Cell-Mediated Cytotoxicity against Colorectal Cancer Cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42365471/",
+        "abstract": "Natural Killer (NK) cells are innate lymphoid cells that eliminate malignant cells via perforin/granzyme-mediated cytotoxicity. This study investigates whether Olive Leaf Extract (OLE), rich in oleuropein and hydroxytyrosol, can enhance NK-cell cytotoxicity against colorectal cancer (CRC) cells. Although OLE exhibits direct anticancer effects, its therapeutic utility is constrained by poor bioavailability, requiring supraphysiological concentrations for direct cytotoxicity.",
+        "source": "PubMed",
+        "doi": "10.22034/iji.2026.109489.3151",
+        "keyword": "NK cell therapy",
+        "title_ja": "オリーブ葉エキスが大腸癌細胞に対するナチュラルキラー細胞を介した細胞傷害性を増強する",
+        "summary_ja": "本論文は、Olive Leaf Extract（OLE）が、colorectal cancer（CRC）細胞に対するNatural Killer（NK）細胞の細胞傷害性を増強する可能性を検討した。NK細胞はperforin/granzymeを介して悪性細胞を排除する自然リンパ球である。OLEはoleuropeinやhydroxytyrosolを豊富に含み、直接的な抗がん効果を示すが、生体利用能が低く、直接的な細胞傷害には超生理的濃度が必要であるため、治療応用が制限される。本研究では、OLEがNK細胞の機能を調節し、CRC細胞に対する細胞傷害性を高める可能性に焦点を当てている。"
+      },
+      {
+        "title": "Systematic evaluation of cryopreservation parameters for natural killer cells in clinically relevant cyclic olefin polymer vials.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42364663/",
+        "abstract": "Allogeneic cell therapy uses donor-derived cells to treat disease indications in oncology, autoimmune disorders, and other areas. Unlike patient-specific autologous therapies, allogeneic therapies are manufactured in large batches. For these products, the final containment is critical for maintaining cell viability and function. Factors such as material composition, container closure integrity at cryogenic temperatures, and container-cell interactions directly affect post-thaw recovery and performance. This study evaluates key cryogenic storage parameters for NK-92 cells used in allogeneic therapies in a clinically relevant cyclic olefin polymer (COP) vial.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ejpb.2026.115168",
+        "keyword": "NK cell therapy",
+        "title_ja": "臨床応用可能な環状オレフィンポリマーバイアルにおけるナチュラルキラー細胞の凍結保存パラメータの体系的評価",
+        "summary_ja": "本論文は、同種細胞療法におけるNK-92細胞の凍結保存パラメータを、臨床用環状オレフィンポリマー（COP）バイアルを用いて系統的に評価したものである。同種細胞療法は、腫瘍学や自己免疫疾患などに対しドナー由来細胞を大量製造するが、最終容器の材質、極低温での容器閉鎖完全性、容器と細胞の相互作用が、解凍後の細胞生存率と機能に直接影響する。本研究では、COPバイアルの特性を考慮し、NK-92細胞の凍結保存条件を最適化するための重要な因子を検討した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Soluble PD-1 drives renal fibrosis in CKD by disrupting immune homeostasis: Therapeutic mitigation via a targeted sPD-1 sequestration strategy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42364692/",
+        "abstract": "Renal interstitial fibrosis (RIF) drives chronic kidney disease (CKD) progression, with elevated soluble PD-1 (sPD-1) exacerbating chronic inflammation. This study aims to elucidate the pathogenic role of sPD-1 in RIF and evaluate \"Exo-PD1\"-a novel engineered extracellular vesicle strategy designed to sequester circulating sPD-1-as a targeted therapeutic intervention to mitigate renal fibrosis.",
+        "source": "PubMed",
+        "doi": "10.1016/j.lfs.2026.124556",
+        "keyword": "Exosomes",
+        "title_ja": "可溶性PD-1通过破坏免疫稳态驱动CKD肾纤维化：靶向sPD-1清除策略的治疗缓解作用",
+        "summary_ja": "慢性腎臓病（CKD）の進行要因である腎間質線維化（RIF）において、可溶性PD-1（sPD-1）の上昇が慢性炎症を増悪させる。本研究は、sPD-1のRIFにおける病原的役割を解明し、新規設計細胞外小胞戦略「Exo-PD1」による循環sPD-1隔離療法の治療効果を評価した。Exo-PD1はsPD-1を標的に捕捉し、免疫恒常性を回復することで腎線維化を抑制した。本戦略はCKD治療における新たなアプローチを提示する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、本日の論文・記事から特に注目すべき5トピックをまとめます。\n\n1. **Olive Leaf ExtractによるNK細胞抗腫瘍効果増強**  \n   OLEが大腸癌細胞に対するNK細胞の細胞傷害性（perforin/granzyme経路）を高める可能性を示した。天然化合物による免疫療法の増強は、低コストで副作用が少ない補完療法として重要。今後、臨床応用に向けた作用機序の詳細解明と、他の癌種への応用が期待される。\n\n2. **NK-92細胞の凍結保存パラメータ最適化**  \n   臨床用COPバイアルを用いた系統的評価は、同種細胞療法の製造・保存工程の標準化に貢献する。細胞療法の普及には安定した品質管理が不可欠であり、本成果はNK細胞療法の実用化を加速する基盤技術となる。\n\n3. **sPD-1による腎線維化機構とExo-PD1治療戦略**  \n   可溶性PD-1がCKDの腎間質線維化を促進する新たな病態機序を解明。さらに、細胞外小胞（Exo-PD1）でsPD-1を捕捉する治療法は、免疫恒常性を回復する革新的アプローチ。腎臓病領域におけるsEVs治療の実用化へ道を開く。\n\n4. **Exosomes/sEVsの治療応用拡大**  \n   sEVsは低免疫原性・高安定性から、薬物送達や免疫調節のプラットフォームとして注目。特にExo-PD1のように標的分子を捕捉する戦略は、従来の抗体医薬を凌ぐ可能性があり、多疾患への応用が期待される。\n\n5. **NK細胞療法の臨床実装に向けた技術進展**  \n   凍結保存技術の最適化と天然物による活性増強は、NK細胞療法の製造コスト低減と治療効果向上に直結。同種細胞療法の普及には、これらの基盤技術の確立が不可欠であり、今後の臨床試験進展が注目される。"
+}

@@ -1,0 +1,134 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Anti-TIGIT therapies in digestive cancers: from immune evasion to precision immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42366864/",
+        "abstract": "Immune checkpoint inhibitors, particularly anti-PD-1 and anti-PD-L1 therapies, have transformed cancer treatment, yet their effectiveness in gastrointestinal cancers remains limited due to tumor complexity, immunosuppressive microenvironments, and resistance mechanisms. TIGIT, an emerging immune checkpoint receptor expressed on T cells and natural killer cells, plays a central role in suppressing antitumor immunity by promoting T-cell exhaustion and facilitating tumor immune evasion.",
+        "source": "PubMed",
+        "doi": "10.1080/1750743X.2026.2692829",
+        "keyword": "NK cell therapy",
+        "title_ja": "消化器がんにおける抗TIGIT療法：免疫逃避から精密免疫療法へ",
+        "summary_ja": "抗TIGIT療法は消化器癌において、免疫逃避から精密免疫療法への転換を目指す。免疫チェックポイント阻害薬（抗PD-1/抗PD-L1療法）は癌治療を変革したが、消化器癌では腫瘍の複雑性、免疫抑制性微小環境、耐性機構により効果が限定的である。TIGITはT細胞やナチュラルキラー細胞に発現する新興免疫チェックポイント受容体で、T細胞疲弊を促進し腫瘍免疫逃避を助長することで抗腫瘍免疫を抑制する。本稿では、TIGITを標的とした精密免疫療法の可能性と課題を考察する。"
+      },
+      {
+        "title": "Immunotherapy in pediatric bone sarcomas: Current progress and future directions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42366590/",
+        "abstract": "Pediatric bone sarcomas continue to present substantial therapeutic challenges in the metastatic, relapsed, or refractory setting, where clinical outcomes have remained largely static for decades despite advances in multimodal therapy. This review summarizes emerging immunotherapeutic strategies aimed at overcoming the immunosuppressive tumor microenvironment, low mutational burden and limited targetable antigens characteristic of these tumors. Current clinical investigations span multiple immunotherapeutic modalities, including adoptive natural killer cell therapies, cytokine-based immune priming, CAR T cell approaches and a growing array of RNA-based therapeutics. Checkpoint inhibitors are also under evaluation, particularly in combination with immunomodulatory or targeted agents. Collectively, these trials highlight both the promise and limitations of immunotherapy in pediatric sarcomas and underscore the need for deeper understanding of sarcoma immune biology to guide future, more effective therapeutic strategies.",
+        "source": "PubMed",
+        "doi": "10.1080/21645515.2026.2690876",
+        "keyword": "NK cell therapy",
+        "title_ja": "小児骨肉腫における免疫療法：現在の進歩と今後の展望",
+        "summary_ja": "小児骨肉腫は転移・再発・難治性において治療が困難で、数十年にわたり予後が改善していない。本総説は、免疫抑制的な腫瘍微小環境、低い変異量、限られた標的可能抗原に対抗する新たな免疫療法戦略をまとめる。現在の臨床試験では、養子NK細胞療法、サイトカインによる免疫プライミング、CAR T細胞療法、RNAベース治療、さらにチェックポイント阻害薬（特に免疫調整薬や標的薬との併用）が検討されている。これらの試験は免疫療法の可能性と限界を示し、より効果的な戦略開発には肉腫の免疫生物学の深い理解が必要である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Advancements in delivery systems for in vivo chimeric antigen receptor T-cell therapy in urological diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42368666/",
+        "abstract": "Chimeric antigen receptor (CAR) T-cell therapy is a new type of highly precise and targeted immunotherapy for urological diseases. It has demonstrated significant therapeutic potential in chronic and autoimmune kidney diseases such as renal fibrosis and membranous nephropathy. However, owing to its high cost, low efficiency, and serious side effects, such as cytokine storm syndrome, a new generation of drugs has emerged to solve these problems. In vivo CAR T-cell therapy is a treatment method that directly modifies specific cells within the patient's body through various delivery systems. Nonviral vectors (nanoparticles and exosomes) and viral vectors (adeno-associated viruses and lentiviruses) can be engineered to achieve better therapeutic effects. By taking advantage of different delivery systems and minimizing their drawbacks, in vivo CAR T-cell therapy can improve the stability and targeting ability, reduce immunogenicity, and minimize side effects. This review summarizes the mechanisms of action and clinical applications of various delivery systems used in in vivo CAR T-cell therapy, highlighting their potential in the treatment of urological diseases. Through a deeper understanding of the construction and optimization of well-designed platforms, the development of optimal delivery systems has valuable implications for the establishment of new pharmaceuticals for in vivo CAR T-cell therapy in urological diseases.",
+        "source": "PubMed",
+        "doi": "10.1097/CU9.0000000000000349",
+        "keyword": "Exosomes",
+        "title_ja": "泌尿器疾患におけるin vivoキメラ抗原受容体T細胞療法の送達システムの進歩",
+        "summary_ja": "本レビューは、泌尿器疾患に対するin vivo CAR T細胞療法の送達システムの進歩をまとめた。CAR T細胞療法は高精度な免疫療法で、腎線維症や膜性腎症などの慢性・自己免疫性腎疾患に有望だが、高コスト、低効率、サイトカイン放出症候群などの副作用が課題である。これに対し、in vivo CAR T細胞療法は患者体内で直接細胞を改変する手法で、非ウイルスベクター（ナノ粒子、エクソソーム）やウイルスベクター（アデノ随伴ウイルス、レンチウイルス）を利用する。各送達システムの利点を活かし欠点を最小化することで、安定性と標的能を向上させ、免疫原性と副作用を低減できる。本稿はこれらの作用機序と臨床応用を概説し、泌尿器疾患治療における可能性を強調する。最適な送達システムの開発は、新規医薬品確立に重要である。"
+      },
+      {
+        "title": "Plasma exosomal miR-339-3p promotes myocardial remodeling in chronic heart failure by regulating USP25-mediated DDX58 deubiquitination.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42367596/",
+        "abstract": "To explore the mechanism by which plasma exosome miR-339-3p regulates myocardial remodeling in heart failure (HF). Plasma exosomes were isolated from 5 patients with HF and 5 controls, and cell uptake was determined by transmission electron microscopy, western blot and PKH26 labeling. Angiotensin II treated AC16 cells to induce cell hypertrophy. Cell counting kit-8 assay and flow cytometry were used to detect cell viability and apoptosis to evaluate the effect of HF-exo. High-throughput sequencing was performed on exosomal microRNAs to identify key differential mirnas (miR-339-3p), and database screening was used to verify downstream target proteins ubiquitin-specific protease 25 (USP25) by dual-luciferase reporter gene assay and reverse transcription-quantitative polymerase chain reaction/western blot. Searchtool for the retrieval of interacting genes, the Cancer Genome Atlas and co-immunoprecipitation were used to screen USP25-interacting proteins (DDX58). Analysis revealed that inhibition of miR-339-3p completely reversed cardiomyocyte injury induced by HF-exo. miR-339-3p directly targets USP25, down-regulates its expression, and impairs its K48-related DDX58 deubiquitination. Overexpression of USP25 can reverse myocardial injury induced by mir-339-3p, and DDX58 silencing can eliminate the protective effect of USP25. Plasma exosome miR-339-3p promotes myocardial remodeling in HF through the miR-339-3p-USP25-DDX58 axis and is a potential target for the diagnosis and treatment of HF.",
+        "source": "PubMed",
+        "doi": "10.1002/ccs3.70090",
+        "keyword": "Exosomes",
+        "title_ja": "血漿エクソソームmiR-339-3pはUSP25を介したDDX58脱ユビキチン化を調節することで慢性心不全における心筋リモデリングを促進する",
+        "summary_ja": "本論文は、慢性心不全（HF）における血漿エクソソームmiR-339-3pが心筋リモデリングを促進する機序を解明した。HF患者5名と健常者5名から血漿エクソソームを単離し、透過型電子顕微鏡、ウエスタンブロット、PKH26標識で細胞取り込みを確認。アンジオテンシンII処理AC16細胞で心筋肥大を誘導し、HF-exoの影響を細胞生存率とアポトーシスで評価した。エクソソームmiRNAのハイスループットシークエンスでmiR-339-3pを同定し、デュアルルシフェラーゼアッセイとRT-qPCR/WBで標的タンパク質USP25を検証。さらに、USP25相互作用タンパク質としてDDX58を同定し、miR-339-3pがUSP25発現を抑制し、K48関連DDX58脱ユビキチン化を阻害することを示した。miR-339-3p阻害はHF-exoによる心筋障害を完全に回復させ、USP25過剰発現はmiR-339-3"
+      },
+      {
+        "title": "Harnessing Regulatory T Cells to Modulate Acute Brain Injury: From Mechanisms to Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42366311/",
+        "abstract": "Neuroinflammation is a defining feature of acute brain injury such as acute ischemic stroke, traumatic brain injury, intracerebral hemorrhage, and subarachnoid hemorrhage, driven by complex immune interactions within the central nervous system (CNS). Among these, regulatory T cells (Tregs) have emerged as pivotal modulators that counteract the deleterious effects of effector T cell subsets, including Th1 and Th17 cells, which exacerbate blood-brain barrier (BBB) disruption, leukocyte infiltration, and glial activation. In contrast, Tregs exert immunosuppressive and tissue-reparative effects that promote neuroprotection, BBB integrity, and resolution of inflammation. This review examines the mechanistic roles of Tregs in modulating CNS-resident cells such as microglia, astrocytes, and endothelial cells, with emphasis on their capacity to suppress inflammation and support functional recovery. We also highlight emerging therapeutic strategies including low-dose interleukin-2 for selective Treg expansion, exosome-based immunomodulation, and chemokine-directed cell trafficking as promising avenues for clinical intervention. Finally, we discuss translational efforts to harness Tregs in acute neuroinflammatory disease, highlighting their potential as key targets for future therapies.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-06011-7",
+        "keyword": "Exosomes",
+        "title_ja": "制御性T細胞を活用した急性脳損傷の調節：メカニズムから治療へ",
+        "summary_ja": "急性脳損傷（虚血性脳卒中、外傷性脳損傷、脳内出血、くも膜下出血）では、中枢神経系内の複雑な免疫相互作用により神経炎症が生じる。制御性T細胞（Tregs）は、Th1やTh17などのエフェクターT細胞が引き起こす血液脳関門（BBB）破綻、白血球浸潤、グリア活性化を抑制し、免疫抑制と組織修復を介して神経保護、BBB完全性維持、炎症の消退を促進する。本レビューでは、Tregsがミクログリア、アストロサイト、内皮細胞などCNS常在細胞を調節するメカニズムを解説し、低用量インターロイキン-2による選択的Treg増幅、エクソソームベースの免疫調節、ケモカイン指向性細胞輸送などの新興治療戦略を紹介する。さらに、急性神経炎症疾患におけるTregsの臨床応用への取り組みと、将来の治療標的としての可能性を考察する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Phosphorylation Patterns of Preribosomal Proteins Associated with the RNA Exosome.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42370872/",
+        "abstract": "The RNA exosome is an essential and ubiquitous RNase with exonucleolytic activity that is involved in ribosome biogenesis and RNA quality control in eukaryotes. It is present both in the nucleus and cytoplasm and interacts with specific cofactors in each cell compartment, which are essential for the recruitment and activity control of the exosome. Post-translational modifications are known to regulate enzyme activity and protein interaction, although their precise roles are individually specific. In this study, we investigated the phosphorylation status of proteins associated with the nuclear (Rrp6) and core (Rrp46) subunits of the RNA exosome in ",
+        "source": "PubMed",
+        "doi": "10.1021/acs.jproteome.6c00095",
+        "keyword": "Exosomes",
+        "title_ja": "RNAエクソソームに関連するプレリボソームタンパク質のリン酸化パターン",
+        "summary_ja": "RNA exosomeは真核生物に必須のエキソヌクレアーゼ活性を持つRNaseで、リボソーム生合成やRNA品質管理に関与する。核と細胞質に存在し、各コンパートメントで特異的コファクターと相互作用し、リクルートと活性制御に重要である。翻訳後修飾は酵素活性やタンパク質間相互作用を調節するが、その役割は個別に異なる。本研究では、RNA exosomeの核サブユニットRrp6とコアサブユニットRrp46に結合するプレリボソームタンパク質のリン酸化パターンを解析した。"
+      },
+      {
+        "title": "Exosomes from mesenchymal stem/stromal cells and their therapeutic role in osteoarthritic pain.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42367363/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1002/jeo2.70825",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞/間質細胞由来のエクソソームと変形性関節症疼痛における治療的役割",
+        "summary_ja": "タイトル：間葉系幹細胞由来エクソソームと変形性関節症疼痛における治療的役割\n\n本論文は、変形性関節症（OA）に伴う疼痛に対する間葉系幹細胞（MSC）由来エクソソームの治療可能性を検討する。MSCエクソソームは、抗炎症性サイトカインやmiRNAを内包し、関節内の炎症性環境を調節する。特に、IL-1βやTNF-αなどの炎症性メディエーターを抑制し、軟骨細胞のアポトーシスを減少させる。また、マクロファージのM2型への分極を促進し、疼痛関連因子（例：NGF、SP）の発現を低下させることで、鎮痛効果を発揮する。動物モデルでは、エクソソーム投与により疼痛行動が有意に改善され、軟骨保護効果も確認された。MSCエクソソームは、細胞治療に比べて免疫原性が低く、腫瘍形成リスクが少ないため、安全なOA疼痛治療法として有望である。今後の臨床応用には、エクソソームの標準化された製造法と投与プロトコルの確立が課題であ"
+      },
+      {
+        "title": "Integrative exosomal RNA analysis reveals the hsa-miR-186-5p-CADM1 axis in plasma cell-mediated inflammation of allergic rhinitis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42366220/",
+        "abstract": "Allergic rhinitis (AR) is a common inflammatory disorder characterized by dysregulated immune responses. Exosomes, as extracellular vesicles carrying diverse functional RNAs, play essential roles in intercellular communication. However, the profiles and regulatory roles of circulating exosomal RNAs in AR remain largely unknown. This study aimed to characterize serum exosomal RNAs in AR patients and explore their potential association in immune regulation. Serum-derived exosomes from AR patients and healthy controls were analyzed using small RNA and long non-coding RNA sequencing. Four exosomal microRNAs-hsa-miR-186-5p, hsa-miR-184, hsa-miR-454-3p, and hsa-miR-4446-3p-were significantly downregulated in AR, and their differential expression was further validated by RT-qPCR. To explore their potential downstream effects, integrated analysis of public mRNA transcriptomic datasets and miRNA target prediction identified CADM1 as a putative target of hsa-miR-186-5p. Single-cell RNA sequencing analysis further revealed that CADM1 was highly expressed specifically in plasma cells from patients with seasonal allergic rhinitis. Functional enrichment analysis demonstrated that plasma cells with high CADM1 expression showed enrichment in immune-related signaling pathways, suggesting a possible link between the exosomal hsa-miR-186-5p-CADM1 axis and plasma cell function in AR. These findings suggest that the exosomal hsa-miR-186-5p-CADM1 axis may be associated with plasma cell-mediated immune responses in allergic rhinitis. Circulating exosomal microRNAs may serve as non-invasive biomarkers and provide a foundation for further investigation into allergic inflammation.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-58584-x",
+        "keyword": "Exosomes",
+        "title_ja": "統合的エクソソームRNA解析により、アレルギー性鼻炎の形質細胞媒介性炎症におけるhsa-miR-186-5p-CADM1軸が明らかになった",
+        "summary_ja": "アレルギー性鼻炎（AR）患者の血清エクソソームRNAを解析した研究。AR患者と健常者から血清エクソソームを採取し、small RNAおよびlong non-coding RNAシーケンスを実施。AR患者では4つのエクソソームmiRNA（hsa-miR-186-5p、hsa-miR-184、hsa-miR-454-3p、hsa-miR-4446-3p）が有意に低下し、RT-qPCRで確認された。公共mRNAデータセットとmiRNA標的予測の統合解析により、hsa-miR-186-5pの標的としてCADM1が同定された。単一細胞RNAシーケンス解析では、季節性AR患者の形質細胞でCADM1が高発現し、免疫関連シグナル経路の濃縮が認められた。これらは、エクソソームhsa-miR-186-5p-CADM1軸がARにおける形質細胞介在性免疫応答に関与する可能性を示唆する。循環エクソソームmiRNAは"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます（500文字以内）。\n\n1. **抗TIGIT療法（消化器癌）**  \n   免疫チェックポイント阻害薬の効果が限定的な消化器癌において、新たな標的TIGITの阻害は免疫逃避機構を克服し、精密免疫療法への転換をもたらす可能性がある。今後の併用療法の最適化が期待される。\n\n2. **小児骨肉腫とNK細胞療法**  \n   予後が数十年改善していない難治性小児骨肉腫に対し、免疫抑制性微小環境を打破する養子NK細胞療法が注目される。低変異量や限られた抗原への対応策として、今後の臨床試験進展が鍵となる。\n\n3. **血漿エクソソームmiR-339-3p（慢性心不全）**  \n   慢性心不全の心筋リモデリングを促進する新規分子機序として、エクソソームを介したmiR-339-3pとUSP25/DDX58経路が同定された。バイオマーカーや治療標的としての応用が期待される。\n\n4. **MSC由来エクソソーム（変形性関節症疼痛）**  \n   間葉系幹細胞エクソソームは抗炎症性因子を内包し、変形性関節症の疼痛緩和に有効な可能性がある。細胞を用いない新たな治療モダリティとして、安全性と有効性の検証が進められている。\n\n5. **エクソソームhsa-miR-186-5p（アレルギー性鼻炎）**  \n   アレルギー性鼻炎患者の血清エクソソーム中で変動するmiR-186-5pがCADM1軸を介し形質細胞性炎症を制御する可能性が示された。診断・治療標的としての展開が期待される。\n\nこれらの研究は、免疫療法の新標的、エクソソームを介した病態理解と治療応用の進展を示しており、今後の臨床応用が強く期待される。"
+}

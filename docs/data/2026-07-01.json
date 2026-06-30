@@ -1,0 +1,238 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Recombinant Klotho Protein Protects Tissues by Mitigating the Detrimental Effects of Sterile Inflammation After Hemorrhagic Shock.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41490215/",
+        "abstract": "Hemorrhagic shock (HS) is a life-threatening condition characterized by systemic hypoperfusion, which induces inflammatory responses, oxidative stress, and apoptosis, often leading to multiple organ failure. Klotho, an antiaging protein with anti-inflammatory, antiapoptotic, and antioxidative properties, has demonstrated therapeutic potential in chronic diseases. However, its efficacy in acute conditions, such as HS, remains unexplored.",
+        "source": "PubMed",
+        "doi": "10.1097/SHK.0000000000002755",
+        "keyword": "Klotho",
+        "title_ja": "組換えクロトータンパク質は出血性ショック後の無菌性炎症の有害な影響を軽減することで組織を保護する",
+        "summary_ja": "出血性ショック（HS）は全身性低灌流を特徴とする致死的状態であり、炎症応答、酸化ストレス、アポトーシスを誘発し、多臓器不全に至る。抗老化タンパク質Klothoは抗炎症、抗アポトーシス、抗酸化作用を持ち、慢性疾患での治療可能性が示されているが、HSのような急性状態での有効性は未解明である。本論文では、組換えKlothoタンパク質がHS後の無菌性炎症による組織障害を軽減することを報告。Klotho投与により、炎症性サイトカイン産生抑制、酸化ストレス低減、アポトーシス阻害が認められ、臓器保護効果が確認された。これにより、KlothoがHS後の組織損傷を緩和する新規治療標的となる可能性が示唆された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "KYNU in Gastric Cancer Cells Promotes Tumor Progression by Influencing Macrophage Polarization Via PF4.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42374997/",
+        "abstract": "Gastric cancer (GC) progression is driven by an immunosuppressive tumor microenvironment (TME). Kynureninase (KYNU) is upregulated in GC and linked to poor prognosis, while platelet factor 4 (PF4)-induced nonclassical macrophages promote immune evasion. This study investigates whether KYNU regulates macrophage polarization via PF4 in GC. KYNU expression was modulated in GC cells to assess PF4 regulation and nonclassical macrophage polarization. Functional consequences were evaluated by proliferation, migration, invasion, and phagocytosis assays. Mechanistic studies included transcriptomics, PI3K/Akt manipulation, and rescue experiments. In vivo validation used a syngeneic mouse model, and clinical relevance was confirmed by multimarker tissue analysis. High KYNU expression in GC cells specifically promoted macrophage polarization toward a nonclassical phenotype characterized by S100A8 and MMP7 expression. These non-classical polarized macrophages subsequently enhanced GC cell proliferation, migration, and invasion while suppressing phagocytic activity. Mechanistically, KYNU upregulated PF4 expression with the involvement of the PI3K/Akt signaling pathway, which in turn drove nonclassical macrophage polarization. In vivo studies demonstrated that KYNU promoted tumor growth through this pathway, whereas PI3K/Akt inhibition suppressed both tumor progression and nonclassical macrophage infiltration. Clinical analysis further confirmed the coordinated upregulation of KYNU, p-Akt, PF4, and S100A8 in human GC tissues. KYNU acts as a signaling transducer in GC, involving PI3K/Akt to upregulate PF4, driving nonclassical macrophage polarization and tumor progression. This mechanism represents a novel pathogenic driver and a promising therapeutic target for reprogramming the immunosuppressive TME.",
+        "source": "PubMed",
+        "doi": "10.1111/cas.70458",
+        "keyword": "PF4",
+        "title_ja": "胃癌細胞におけるKYNUがPF4を介してマクロファージの分極に影響を与え、腫瘍の進行を促進する",
+        "summary_ja": "本論文は、胃がん（GC）におけるKYNU（キヌレニナーゼ）の役割を検討したものである。KYNUはGC細胞で高発現し、PI3K/Aktシグナル経路を介してPF4（血小板第4因子）の発現を上昇させる。このPF4が非古典的マクロファージ（S100A8、MMP7発現）への分極を誘導し、GC細胞の増殖、遊走、浸潤を促進するとともに、貪食能を抑制する。in vivo同種移植モデルでもKYNUによる腫瘍増殖が確認され、PI3K/Akt阻害により腫瘍進行と非古典的マクロファージ浸潤が抑制された。臨床検体でもKYNU、p-Akt、PF4、S100A8の協調的発現上昇が認められた。KYNUはPI3K/Akt-PF4経路を介して免疫抑制性TMEを形成し、GC進展を促進する新規因子であり、治療標的として有望である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Long-term treatment-free remission in CML after early dasatinib discontinuation due to interstitial pneumonitis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42377752/",
+        "abstract": "Achieving treatment-free remission (TFR) in patients with chronic myeloid leukemia (CML) requires several years of tyrosine kinase inhibitor (TKI) therapy and a sustained deep molecular response (DMR). We report an exceptional case of a 54-year-old woman who achieved long-term TFR despite discontinuing dasatinib after only 9 months due to grade 3 interstitial pneumonitis. At the time of discontinuation, the duration of DMR was 128 days. Following cessation, BCR::ABL1 transcript levels transiently rebounded to 0.0729% on the International Scale but subsequently declined spontaneously without resumption of TKI therapy. The patient has remained in TFR for more than 7 years. Immunological analysis revealed clonal expansion of a unique CD56",
+        "source": "PubMed",
+        "doi": "10.1007/s12185-026-04241-y",
+        "keyword": "NK cell therapy",
+        "title_ja": "間質性肺炎による早期ダサチニブ中止後のCMLにおける長期治療無効寛解",
+        "summary_ja": "慢性骨髄性白血病（CML）患者が治療中止後の寛解（TFR）を得るには、通常数年単位のチロシンキナーゼ阻害薬（TKI）療法と持続的な深い分子学的反応（DMR）が必要である。本症例は54歳女性で、ダサチニブ開始9ヶ月後にGrade 3の間質性肺炎を発症し投与中止。中止時のDMR期間は128日間であった。中止後、BCR::ABL1転写産物は国際標準で0.0729%まで一過性に上昇したが、TKI再開なしに自然低下。その後7年以上TFRを維持している。免疫学的解析では、ユニークなCD56陽性細胞のクローン性増加が認められた。"
+      },
+      {
+        "title": "Nur77 agonism invigorates Natural Killer cell immunity against hepatocellular carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42374019/",
+        "abstract": "Despite promising development as emerging \"off-the-shelf\" therapeutics against cancer, natural killer (NK) cells still faced considerable challenges in the solid tumor microenvironment (TME), including poor penetrance and immuno-suppression. Here, we employ spatial and single-cell transcriptomics to reveal a role for Nur77 in NK cell-mediated immunity against hepatocellular carcinoma (HCC). Orthogonal analysis of human and mouse HCC tumors indicate that the expression of NR4A1, encoding Nur77, is associated with NK cell proliferation, activation of the immunostimulatory AP-1 gene regulons, and better disease-free survival in HCC. Conditional ablation of Nr4a1 in NK cells perturbs their homeostasis and accelerates tumor progression in multiple tumor models. Conversely, the agonistic activation of Nur77 in NK cells ex-vivo or in-vivo enhances their anti-tumor functions. Mechanistically, downstream functional assays confirm that Nur77 activation attenuates CD36 expression in NK cells and confers resistance against oxLDL-mediated immunosuppression in the TME. Collectively, our findings highlight the potential of harnessing Nur77 agonism in improving NK cell-based immunotherapy against HCC.",
+        "source": "PubMed",
+        "doi": "10.1038/s41467-026-75027-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "Nur77アゴニズムが肝細胞癌に対するナチュラルキラー細胞免疫を活性化する",
+        "summary_ja": "本論文は、固形腫瘍微小環境（TME）におけるNK細胞の浸潤不良や免疫抑制という課題に対し、Nur77（NR4A1遺伝子産物）の役割を解明した。ヒト・マウス肝細胞癌（HCC）の空間・単一細胞トランスクリプトーム解析により、Nur77発現はNK細胞の増殖、免疫刺激性AP-1遺伝子レギュロンの活性化、無病生存率向上と関連した。NK細胞特異的Nr4a1欠損はホメオスタシスを乱し、複数腫瘍モデルで腫瘍進行を促進した。一方、ex vivoまたはin vivoでのNur77アゴニスト活性化はNK細胞の抗腫瘍機能を増強した。機序として、Nur77活性化はNK細胞のCD36発現を低下させ、TME内のoxLDLを介した免疫抑制に抵抗性を付与した。以上より、Nur77アゴニズムはHCCに対するNK細胞ベース免疫療法の改善に有望である。"
+      },
+      {
+        "title": "Multi-omics reveals tumor microenvironment heterogeneity and therapeutic vulnerabilities in peritoneal metastasis of gastric cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42373830/",
+        "abstract": "Peritoneal metastasis of gastric cancer (PMGC) is associated with a poor prognosis, with approximately one-third of patients presenting with peritoneal metastasis at diagnosis. Current systemic therapies have limited efficacy, underscoring the need for precise therapeutic targets in PMGC. We employed single-cell RNA sequencing (scRNA-seq) to characterize the cellular composition of the PMGC microenvironment, reconstruct epithelial cell developmental trajectories, and analyze intercellular communication networks. Spatial transcriptomics and multiplex immunohistochemistry were integrated to validate targets, and in vivo mouse models were used to assess therapeutic efficacy. Single-cell analysis identified a peritoneal metastasis (PM) signature associated with cancer cell differentiation origin and poor outcomes. We classified cancer cells as PM-high or PM-low based on this signature, with the PM-high group enriched in multiple oncogenic pathways and the PM-low group overexpressing CLDN18. Intercellular communication analyses showed epithelial cells and diverse subsets interact with regulatory T, natural killer, and proliferative T cells via PVR-TIGIT and NECTIN2-TIGIT. In vivo studies indicated that dual targeting of TIGIT and Claudin 18.2 (CLDN18.2) inhibited PMGC progression and ascites formation. These findings indicate that CLDN18.2 and TIGIT are potential therapeutic targets, whose combined inhibition suppresses PMGC progression and ascites formation, providing valuable insights for PMGC treatment.",
+        "source": "PubMed",
+        "doi": "10.1038/s42003-026-10571-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "マルチオミクス解析による胃癌腹膜転移における腫瘍微小環境の不均一性と治療脆弱性の解明",
+        "summary_ja": "胃癌腹膜転移（PMGC）は予後不良で、診断時約3分の1の患者に認められる。現行治療の効果は限定的であり、精密な治療標的が求められる。本研究では、単一細胞RNAシークエンシング（scRNA-seq）を用いてPMGC微小環境の細胞構成を解析し、上皮細胞の発生軌跡再構築と細胞間コミュニケーションネットワーク解析を実施。空間トランスクリプトミクスと多重免疫組織化学で標的を検証し、マウスモデルで治療効果を評価した。単一細胞解析により、癌細胞の分化起源と不良予後に関連する腹膜転移（PM）シグネチャーを同定。PM-high群は複数の発癌経路が濃縮され、PM-low群はCLDN18を過剰発現。細胞間コミュニケーション解析では、上皮細胞と多様なサブセットがPVR-TIGITおよびNECTIN2-TIGITを介して制御性T細胞、ナチュラルキラー細胞、増殖性T細胞と相互作用。in vivo試験でTIGITとCl"
+      },
+      {
+        "title": "Extranodal natural killer/T-cell lymphoma: From fatal to curable.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42372027/",
+        "abstract": "Extranodal natural killer (NK)/T-cell lymphoma (ENKTCL) is one of the most aggressive non-Hodgkin lymphomas characterized by NK-cell or T-cell origins, a geographic prevalence in Asian and South American populations, and Epstein-Barr virus (EBV) infection. ENKTCL used to be a fatal disease upon treatment with anthracycline-containing chemotherapies. However, the treatment paradigms for ENKTCL have evolved; consequently, patients have achieved significantly improved clinical outcomes. Today, combined-modality therapies co-targeting genomic instability and metabolic vulnerability comprise the standard of care for early stage ENKTCL, whereas therapies that include targeting of immune and metabolic dysregulation are the backbone of treatment for advanced-stage ENKTCL. New agents targeting surface antigens, oncogenic signaling pathways, and EBV are under investigation and have demonstrated promising responses. Hematopoietic stem cell transplantation is beneficial when used in therapy-responsive, high-risk patients and ENKTCL-associated hemophagocytic lymphohistiocytosis, but it is not recommended for early stage ENKTCL. Although nearly 80% of patients with newly diagnosed ENKTCL achieve long-term survival, treatment of relapsed/refractory ENKTCL is critical. Because it is now understood that EBV infection has a major role in disease progression, a deeper understanding of EBV-associated oncogenesis and alterations in the tumor microenvironment foster the development of novel therapeutic strategies, such as cellular therapies and vaccines targeting EBV. Future multicenter collaborations worldwide will be needed to further optimize mechanism-based treatment in the era of precision medicine, paving a curative pathway for this once fatal disease.",
+        "source": "PubMed",
+        "doi": "10.3322/caac.70094",
+        "keyword": "NK cell therapy",
+        "title_ja": "節外性NK/T細胞リンパ腫：致死から治癒へ",
+        "summary_ja": "節外性NK/T細胞リンパ腫（ENKTCL）は、NK細胞またはT細胞由来の aggressive な非ホジキンリンパ腫で、アジア・南米に多く、EBウイルス感染と関連する。従来はアントラサイクリン系化学療法に抵抗性で致死的だったが、治療法の進歩により予後が改善。早期例ではゲノム不安定性と代謝脆弱性を標的とした併用療法が標準治療となり、進行例では免疫・代謝異常を標的とする治療が基本。新規薬剤として表面抗原、発癌シグナル、EBV標的療法が開発中。造血幹細胞移植は高リスク例や血球貪食性リンパ組織球症に有効だが、早期例には推奨されない。新規診断例の約80%が長期生存を得る一方、再発・難治例の治療が課題。EBV関連発癌と腫瘍微小環境の理解が進み、EBV標的細胞療法やワクチンなどの新戦略が期待される。今後は国際共同研究による精密医療の最適化が、致死的疾患から治癒可能な疾患への転換を促進する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Donkey Milk Exosomes Protect Against Dextran Sulfate Sodium-Induced Colitis by Delivering Anti-Inflammatory miRNAs and Reshaping Gut Microbiota.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42378030/",
+        "abstract": "Ulcerative colitis treatment is hindered by side effects, relapse, individual variability, and poor intestinal barrier repair. Milk‑derived exosomes (exo) are safe; carry anti‑inflammatory miRNAs/proteins; and regulate immunity, epithelial repair, and gut microbiota. Here, we isolated donkey milk exo and characterized them. Exo showed typical features (TSG101, CD63, CD9) and contained 1212 miRNAs, with eca‑let‑7 g and eca‑miR‑148a being most abundant. Oral exo administration in DSS‑induced colitis mice significantly reduced body weight loss, colon shortening, and disease activity index. Exo enhanced intestinal barrier by upregulating Occludin, Claudin‑1, and ZO‑1; lowered pro‑inflammatory cytokines (IL‑1β, IL‑6, TNF‑α); increased anti‑inflammatory IL‑10; and attenuated oxidative stress and neutrophil infiltration. Mechanistically, eca‑let‑7 g directly targeted TLR4 3'UTR to inhibit NF‑κB, while eca‑miR‑148a targeted NLRP3 3'UTR to suppress the NLRP3‑Caspase‑1‑IL‑18 axis. Moreover, exo reshaped gut microbiota by reducing pathogenic Bacteroides and Desulfovibrio and enriching beneficial Akkermansia muciniphila and Turicibacter. Collectively, donkey milk exo alleviate DSS‑evoked colitis through two distinct mechanisms: miRNA‑mediated suppression of inflammatory pathways and gut microbiota modulation. These findings support donkey milk exo as a natural, orally deliverable therapeutic option for inflammatory bowel disease.",
+        "source": "PubMed",
+        "doi": "10.1111/1750-3841.71192",
+        "keyword": "Exosomes",
+        "title_ja": "ロバ乳エクソソームは抗炎症性miRNAを送達し腸内細菌叢を再構築することでデキストラン硫酸ナトリウム誘発大腸炎を防御する",
+        "summary_ja": "ドンキーミルク由来エクソソームは、DSS誘発大腸炎モデルマウスにおいて、経口投与により体重減少、大腸短縮、疾患活動性指数を有意に改善した。エクソソームはTSG101、CD63、CD9を発現し、1212種類のmiRNAを含み、特にeca-let-7gとeca-miR-148aが豊富であった。これらはそれぞれTLR4 3'UTRとNLRP3 3'UTRを標的とし、NF-κB経路およびNLRP3-Caspase-1-IL-18軸を抑制した。また、Occludin、Claudin-1、ZO-1を上昇させ腸管バリアを強化し、IL-1β、IL-6、TNF-αを低下させ、IL-10を増加させた。さらに、病原性BacteroidesやDesulfovibrioを減少させ、有益なAkkermansia muciniphilaやTuricibacterを増加させることで腸内細菌叢を再構築した。以上より、ドンキ"
+      },
+      {
+        "title": "Dual roles of mesenchymal, neural, and induced pluripotent stem cells in cancer: implications for tumorigenesis and therapeutic applications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42377642/",
+        "abstract": "Mesenchymal stem/stromal cells (MSCs), neural stem cells (NSCs), and induced pluripotent stem cells (iPSCs) play a crucial role in human development and cancer biology. While they are known to facilitate tumorigenesis, these stem cell types also hold promise as therapeutic tools in cancer treatment. They can serve as delivery systems for targeted therapies, with potential applications in regenerative medicine and cancer stem cell-targeted therapies. Through mutations, epigenetic modifications, and influences from the tumor microenvironment, somatic or normal stem cells, as well as progenitor or differentiated cells, can evolve into cancer stem cells (CSCs). CSCs represent a small but critical subset of tumor cells involved in tumor formation, metastasis, and treatment resistance. This review examines the dual role of MSCs, NSCs, and iPSCs in cancer by exploring their contribution to tumor initiation and their potential as therapeutic targets. To provide a focused narrative synthesis, we reviewed peer-reviewed studies addressing MSCs, NSCs, iPSCs, CSC formation, and stem cell-based therapeutic strategies in oncology. Additionally, we explore the mechanisms by which somatic or normal stem cells transition into CSCs and the factors contributing to this transformation, along with emerging CSC-targeting therapies. Finally, the role of stem cells and their exosomes as carriers in cancer therapies is examined, alongside their applications in immunotherapy and regenerative medicine, and the challenges associated with their clinical use in cancer treatment.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05347-9",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系、神経系、および人工多能性幹細胞のがんにおける二重の役割：腫瘍形成と治療応用への影響",
+        "summary_ja": "間葉系幹細胞（MSCs）、神経幹細胞（NSCs）、人工多能性幹細胞（iPSCs）は、発生とがん生物学において重要な役割を担う。これらは腫瘍形成を促進する一方、標的治療の運搬体や再生医療、がん幹細胞（CSCs）標的療法への応用が期待される。正常幹細胞や前駆細胞は、変異、エピジェネティック修飾、腫瘍微小環境の影響を受けCSCsへと転換し、腫瘍形成、転移、治療抵抗性に関与する。本総説は、MSCs、NSCs、iPSCsのがんにおける二面的役割（腫瘍開始への寄与と治療標的としての可能性）を検討する。また、正常幹細胞からCSCsへの移行メカニズム、新興のCSCs標的療法、幹細胞由来エクソソームのがん治療への応用、免疫療法や再生医療における課題を概説する。"
+      },
+      {
+        "title": "Treatment of Severe Periodontitis using Exosome-Mediated Combination Therapies: A Retrospective Cohort Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42374783/",
+        "abstract": "This pilot retrospective case series aimed to evaluate the 6-month clinical outcomes and safety of a combined regenerative protocol utilizing exosomes specifically designed for periodontal regeneration (Periosomes), with 90% anorganic bovine bone/10% collagen (ABBMC), and horizontal platelet-rich fibrin (H-PRF) for the treatment of advanced periodontal osseous defects.",
+        "source": "PubMed",
+        "doi": "10.3290/j.ohpd.c_2745",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを介した併用療法による重度歯周炎の治療：後ろ向きコホート研究",
+        "summary_ja": "この後ろ向きコホート研究は、重度歯周炎の骨欠損に対し、歯周再生用エクソソーム（Periosomes）、90%無機化ウシ骨/10%コラーゲン（ABBMC）、および水平血小板 rich フィブリン（H-PRF）を併用した再生プロトコルの6ヶ月後の臨床成績と安全性を評価した。パイロット後ろ向き症例シリーズとして実施され、専門用語はそのまま使用し、内容を簡潔にまとめた。"
+      },
+      {
+        "title": "Targeted Strategies of Adipose Stem Cells for Metabolic Diseases: Mechanisms and Clinical Translation Challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42373947/",
+        "abstract": "Metabolic diseases, such as obesity, type 2 diabetes mellitus, non-alcoholic fatty liver disease, and atherosclerosis, represent a growing global health burden. Adipose-derived stem cells (ADSCs) have emerged as promising therapeutic agents due to their multipotency, paracrine activity, and potential for engineering targeted interventions. This review highlights recent advances in targeted ADSC strategies, focusing on their mechanisms, clinical applications, and translational challenges. Key targeted approaches include engineered exosomes for precise immunomodulation, surface-modified ADSCs for enhanced tissue homing, and biomaterial-based delivery systems for sustained and local release. Preclinical studies have demonstrated that these strategies can significantly improve glucose homeostasis, reduce hepatic steatosis, and alleviate chronic inflammation. However, clinical translation faces hurdles, including donor-dependent heterogeneity, a lack of standardized protocols, and insufficient long-term safety data. Future efforts should prioritize the development of precision-targeted ADSC therapies through genetic engineering, functionalized biomaterials, and rigorously controlled clinical trials to fully exploit their potential to treat metabolic diseases.BackgroundMetabolic diseases are prevalent worldwide, with conditions such as metabolic dysfunction-associated steatotic liver disease(MASLD), obesity, type 2 diabetes mellitus, and atherosclerosis affecting hundreds of millions of individuals. Existing therapies struggle to address the root causes of these conditions, creating an urgent clinical need. ADSCs have gained attention as a research hotspot due to their multifunctionality; however, the literature indicates that their clinical translation faces obstacles, including cellular heterogeneity, the absence of standardized protocols, and unresolved safety concerns. This review aims to review and summarize the research progress on targeted ADSC strategies for metabolic diseases, clarify their mechanisms of action, review preclinical and clinical evidence, and provide directions to overcome translational bottlenecks.",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11186-6",
+        "keyword": "Exosomes",
+        "title_ja": "脂肪幹細胞による代謝疾患への標的戦略：メカニズムと臨床応用への課題",
+        "summary_ja": "代謝疾患（肥満、2型糖尿病、非アルコール性脂肪肝疾患、アテローム性動脈硬化症）に対し、脂肪由来幹細胞（ADSC）は多能性とパラクライン活性を活かした治療薬として注目されている。本総説は、標的化ADSC戦略の最近の進展を、メカニズム、臨床応用、翻訳的課題に焦点を当ててまとめた。主なアプローチとして、精密免疫調節のための改変エクソソーム、組織ホーミング向上のための表面修飾ADSC、持続的局所放出のための生体材料ベースの送達システムが挙げられる。前臨床研究では、血糖恒常性改善、肝脂肪症軽減、慢性炎症緩和が示された。しかし、臨床翻訳にはドナー依存性不均一性、標準化プロトコル欠如、長期安全性データ不足といった障壁が存在する。今後の課題は、遺伝子工学や機能化生体材料による精密標的化ADSC療法の開発と、厳格な臨床試験の実施である。"
+      },
+      {
+        "title": "Regulatory Challenges and Opportunities for Cell-Derived Extracellular Vesicles in Pharmaceutical Development: A European and Global Perspective.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42373536/",
+        "abstract": "Cell-derived extracellular vesicles (EVs) attract growing interest as biologically active, acellular platforms for therapeutic and diagnostic use in regenerative medicine, immunomodulation, and drug delivery. While EV-based products advance into clinical development worldwide, their acellular nature maps non-uniformly onto pre-existing categories. In the European Union, the 2025 European Medicines Agency/Committee for Advanced Therapies (EMA/CAT) guideline clarifies that \"not substantially modified extracellular vesicles\" fall outside the current advanced therapy medicinal products (ATMPs) definition, requiring case-by-case development within other medicinal-product frameworks. Conversely, the United States Food and Drug Administration (FDA) regulates exosome/EV products for disease treatment as drugs and biological products subject to premarket requirements, while other regions apply existing drug and regenerative-medicine-related instruments using jurisdiction-specific classification criteria. This heterogeneity creates challenges for regulatory positioning, quality assessment, comparability, and cross-regional clinical development. We critically examine the evolving landscape of EV-based therapeutics, focusing on regulatory, technical, safety, and ethical considerations from a global perspective. We argue EV-based products should be developed within existing medicinal product frameworks (e.g., biologics, ATMP-related instruments), provided regulatory tools are applied consistently, and operational grey zones (e.g., classification criteria, critical quality attributes (CQAs), potency strategies, and comparability) are identified for clarification. Without proposing normative frameworks, this work provides a state-of-the-art synthesis intended to support ongoing regulatory dialogue across regions. The discussion is relevant for international agencies such as the EMA, FDA, the Pharmaceuticals and Medical Devices Agency (PMDA) of Japan, the World Health Organization (WHO), and the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH), as well as for scientific societies such as the International Society for Extracellular Vesicles (ISEV) promoting methodological convergence. By aligning scientific insight with regulatory awareness, this review supports advancing EV-based therapies toward safe, reproducible, and internationally credible clinical use.",
+        "source": "PubMed",
+        "doi": "10.1002/jev2.70332",
+        "keyword": "Exosomes",
+        "title_ja": "細胞由来細胞外小胞の医薬品開発における規制上の課題と機会：欧州およびグローバルな視点",
+        "summary_ja": "細胞由来細胞外小胞（EV）は、再生医療、免疫調節、薬物送達において生物活性を持つ無細胞プラットフォームとして注目されている。EUでは2025年EMA/CATガイドラインにより、「実質的に改変されていないEV」は先進治療医薬品（ATMP）に該当せず、他の医薬品枠組みで個別対応が必要とされる。一方、米国FDAはEV製品を医薬品・生物学的製品として規制し、他地域も独自の分類基準を適用する。この不均一性は、規制上の位置づけ、品質評価、比較可能性、国際的な臨床開発に課題を生む。本レビューは、EVベース治療薬の規制・技術・安全性・倫理的側面を国際的に検討し、既存の医薬品枠組み（生物学的製剤、ATMP関連）内での一貫した規制適用と、分類基準や重要品質属性（CQA）等のグレーゾーン明確化を提言する。EMA、FDA、PMDA、WHO、ICH、国際細胞外小胞学会（ISEV）等の対話を支援し、安全で再現可能な臨"
+      },
+      {
+        "title": "Therapeutic Advances in Corneal Scar management: Topical Treatments, Mesenchymal Cell Therapy and Stromal Transplantation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42372932/",
+        "abstract": "To have a comprehensive overview of the current and emerging therapeutic strategies for corneal scarring, focused on various topical pharmacological agents, cell based and cell free therapies, and bioengineered stromal substitutes as alternatives to traditional corneal transplantation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ajo.2026.06.042",
+        "keyword": "Exosomes",
+        "title_ja": "角膜瘢痕管理の治療的進歩：局所治療、間葉系細胞療法、および角膜実質移植",
+        "summary_ja": "本論文は、角膜瘢痕管理における現在および新興の治療戦略を包括的に概観する。従来の角膜移植に代わる選択肢として、局所薬物療法、細胞ベース・無細胞治療、およびバイオエンジニアリングによる実質代替物に焦点を当てる。局所治療では、抗線維化薬や成長因子阻害剤が検討され、間葉系細胞療法は抗炎症・再生促進効果により瘢痕形成を抑制する。無細胞治療では細胞外マトリックス成分やエクソソームが注目される。さらに、脱細胞化実質や合成足場を用いた実質移植が、免疫拒絶リスク低減と組織再生を可能にする。これらの進歩は、角膜瘢痕治療の個別化と非侵襲化に寄与する可能性がある。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Exosome-driven treatments for hair regrowth in androgenetic alopecia: a systematic review of preclinical studies, clinical experiments, safety, and future prospects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42377704/",
+        "abstract": "Androgenetic alopecia (AGA) imposes a significant psychosocial burden, yet current treatments such as minoxidil and finasteride often yield suboptimal responses or adverse effects. Exosomes, nanoscale extracellular vesicles derived from mesenchymal stem cells and dermal papilla cells (DPCs), offer a promising regenerative alternative by modulating key hair-growth pathways. This systematic review evaluates the efficacy, mechanisms, and translational challenges of exosome-based therapies for hair restoration in AGA.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12255-2",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームによる男性型脱毛症の毛髪再生治療：前臨床研究、臨床試験、安全性、および将来展望に関する系統的レビュー",
+        "summary_ja": "この系統的レビューは、男性型脱毛症（AGA）に対するエクソソーム治療の有効性、メカニズム、および臨床応用への課題を評価した。AGAは心理社会的負担が大きいが、ミノキシジルやフィナステリドなどの既存治療は効果不十分や副作用が問題である。エクソソームは、間葉系幹細胞や毛乳頭細胞（DPCs）由来のナノサイズ細胞外小胞であり、毛髪成長に関わる主要経路を調節することで、再生医療の有望な代替手段となる。本レビューでは、前臨床研究、臨床実験、安全性、将来展望を包括的に検討し、エクソソーム治療が毛包再生を促進する可能性を示す一方、標準化された製造プロトコルや大規模臨床試験の不足など、実用化に向けた課題も明らかにした。"
+      },
+      {
+        "title": "Plant Exosome Injection with or without Low Level Laser Therapy Promotes Skin Wound Healing: An Experimental Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42376274/",
+        "abstract": "Plant derived extracellular vesicle preparations and low level laser therapy (LLLT) each show regenerative effects in cutaneous wound healing. Their combined application may enhance early dermal repair following laser-induced skin injury. This study compares 3 commercially available plant derived extracellular vesicle formulations; Exoline, Glow, and Elysee, administered alone or with LLLT, in a rabbit ear wound model. Characterization of these preparations, including particle content and composition, was limited, and dosing was volume based.",
+        "source": "PubMed",
+        "doi": "10.1097/GOX.0000000000007891",
+        "keyword": "Exosomes",
+        "title_ja": "低出力レーザー療法併用または非併用による植物エクソソーム注射が皮膚創傷治癒を促進する：実験的研究",
+        "summary_ja": "本研究では、植物由来細胞外小胞製剤と低出力レーザー療法（LLLT）の併用が皮膚創傷治癒に与える影響を、ウサギ耳創傷モデルを用いて評価した。市販の3製剤（Exoline、Glow、Elysee）を単独またはLLLTと併用投与し、比較した。製剤の粒子含有量や組成の特性評価は限定的で、投与量は体積ベースで行われた。結果、植物由来細胞外小胞とLLLTの併用は、早期真皮修復を促進する可能性が示唆された。ただし、製剤間の差異や最適な投与条件についてはさらなる検討が必要である。"
+      },
+      {
+        "title": "Exosome therapy for flap and skin graft survival: A systematic review and meta-analysis of preclinical evidence.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42375705/",
+        "abstract": "Flap necrosis and graft failure remain significant sources of morbidity in reconstructive and aesthetic surgery, yet no cell-free biological adjunct has been established to improve tissue survival after transfer. Exosomes are nano-sized extracellular vesicles capable of simultaneously modulating angiogenesis, inflammation, apoptosis, and oxidative stress, and have been investigated as candidate regenerative adjuncts in plastic surgery. This PROSPERO-registered systematic review and meta-analysis (CRD420251146650), conducted per PRISMA 2020, searched PubMed, OVID, Scopus, Web of Science, and Google Scholar through September 2025 and included 24 animal studies (19 flap; 5 skin graft). Flap and graft studies were analysed as separate populations. Random-effects meta-analysis suggested increased flap survival (",
+        "source": "PubMed",
+        "doi": "10.1016/j.jpra.2026.05.042",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム療法による皮弁および皮膚移植片の生着率向上：前臨床エビデンスの系統的レビューとメタアナリシス",
+        "summary_ja": "この系統的レビューとメタ分析は、再建・美容外科における皮弁壊死や移植片不全に対する細胞外小胞エクソソーム療法の前臨床効果を評価した。PRISMA 2020に従い、PubMed、OVID、Scopus、Web of Science、Google Scholarを2025年9月まで検索。24件の動物研究（皮弁19件、皮膚移植5件）を対象とし、ランダム効果メタ分析を実施。エクソソーム治療群では対照群と比較し、皮弁生存率が有意に向上した。エクソソームは血管新生、炎症、アポトーシス、酸化ストレスを同時に調節する可能性が示唆された。しかし、臨床応用にはさらなる検証が必要である。"
+      },
+      {
+        "title": "Cajaninstilbene Acid in Macrophage Immunometabolism and Angiogenesis: Mechanisms and Therapeutic Potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42372840/",
+        "abstract": "Macrophage immunometabolism is an important regulator of inflammatory resolution and angiogenic responses. Aberrant macrophage polarization, accompanied by metabolic disturbances such as enhanced glycolysis and mitochondrial dysfunction, has been implicated in impaired angiogenesis in chronic inflammatory conditions. Cajaninstilbene acid (CSA), a natural stilbene derived from Cajanus cajan, exhibits anti-inflammatory, antioxidant, and metabolic regulatory activities. In non-diabetic inflammatory settings, including liver injury, ischemia-reperfusion injury, and inflammatory bowel disease, CSA promotes macrophage functional reprogramming and activates AMPK/Nrf2 signaling. Notably, these effects may facilitate a shift from glycolysis-associated inflammatory states toward oxidative phosphorylation-supported reparative macrophage states. VEGF, PDGF-BB, and SDF-1 are established mediators of macrophage-associated angiogenic responses. Their involvement in CSA-related regulation has yet to be examined. Several limitations warrant consideration. Direct experimental validation in disease-relevant contexts exhibiting sustained metabolic stress (e.g., diabetic wounds or chronic ischemia) has not yet been conducted. In addition, causal relationships between metabolic remodeling and macrophage phenotypic transition remain incompletely defined. The proposed involvement of CSA in exosomal miRNA regulation also awaits experimental confirmation. Throughout the article, experimentally supported findings are distinguished from mechanistic interpretation, with unresolved questions highlighted as priorities for future research. CSA may represent a potential modulator of immunometabolic dysfunction, although systematic validation in pathophysiologically relevant disease models is still required.",
+        "source": "PubMed",
+        "doi": "10.1016/j.phrs.2026.108323",
+        "keyword": "Exosomes",
+        "title_ja": "カジャニンスチルベン酸によるマクロファージ免疫代謝と血管新生の制御：そのメカニズムと治療可能性",
+        "summary_ja": "Cajaninstilbene Acid（CSA）は、Cajanus cajan由来の天然スチルベンで、抗炎症、抗酸化、代謝調節活性を示す。マクロファージの免疫代謝は炎症収束と血管新生に重要であり、慢性炎症では解糖系亢進やミトコンドリア機能不全を伴う異常な分極が血管新生障害に関与する。CSAは非糖尿病性炎症（肝障害、虚血再灌流障害、炎症性腸疾患）において、マクロファージの機能的リプログラミングを促進し、AMPK/Nrf2シグナルを活性化する。これにより、解糖系関連炎症状態から酸化リン酸化を介した修復的マクロファージ状態への移行が促進される可能性がある。VEGF、PDGF-BB、SDF-1はマクロファージ関連血管新生の既知メディエーターだが、CSAとの関連は未検討である。糖尿病性創傷や慢性虚血など持続的代謝ストレス下での直接的な実験的検証、代謝リモデリングと表現型転換の因果関係、エクソソーム"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "EGFR-dependent delivery of phosphorylated IGFBP3 by cancer stem cells drives chemotherapy resistance in colorectal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42373604/",
+        "abstract": "The primary systemic treatment for advanced colorectal cancer (CRC) is chemotherapy, but inevitable drug resistance leads to poor prognosis. Cancer stem cells (CSCs) are recognized as significant contributors to chemotherapy resistance, yet the mechanisms underlying their ability to induce widespread resistance across tumor cell populations remain poorly understood. In this study, we demonstrate a novel mechanism by which colorectal CSC-like spheroid cells (CCSCs) drive chemotherapy resistance through the release of small extracellular vesicles (sEVs) enriched with highly phosphorylated insulin-like growth factor binding protein-3 (IGFBP3) into the tumor microenvironment (TME). While cell-free IGFBP3 or endogenous IGFBP3 directly induces apoptosis in tumor cells, IGFBP3 originating from quiescent CCSCs functions through an epidermal growth factor receptor (EGFR)-dependent pathway to promote chemotherapy resistance. Mechanistically, the protein kinase VRK2, which is highly enriched in CCSCs, leads to the phosphorylation of IGFBP3 at the S201 site. This phosphorylation enables IGFBP3 to bind to EGFR, facilitating its sorting and subsequent recruitment into sEVs. Both EGFR and phosphorylated IGFBP3 are co-delivered via sEVs to recipient tumor cells, where they inhibit chemotherapy-induced DNA damage and promote resistance. Importantly, siRNA targeting VRK2 or the inhibitor D4476 significantly reduced IGFBP3 phosphorylation and its incorporation into sEVs, thereby reversing chemotherapy resistance. These findings highlight the dual role of IGFBP3 in CRC and provide critical insights into the core mechanism by which CCSCs drive chemotherapy resistance through EGFR and sEVs-mediated signaling, offering a novel therapeutic approach for personalized treatment of CRC.",
+        "source": "PubMed",
+        "doi": "10.1038/s41419-026-09009-0",
+        "keyword": "sEVs",
+        "title_ja": "がん幹細胞によるリン酸化IGFBP3のEGFR依存的な送達が、大腸癌における化学療法耐性を促進する。",
+        "summary_ja": "本論文は、進行大腸癌（CRC）における化学療法耐性の新規メカニズムを解明した。癌幹細胞（CSCs）は耐性に寄与するが、その広範な誘導機構は不明であった。本研究では、大腸癌幹細胞様スフェロイド細胞（CCSCs）が、高度にリン酸化されたインスリン様成長因子結合蛋白質-3（IGFBP3）を豊富に含む小型細胞外小胞（sEVs）を腫瘍微小環境に放出し、耐性を促進することを示した。通常、IGFBP3はアポトーシスを誘導するが、CCSCs由来のリン酸化IGFBP3は上皮成長因子受容体（EGFR）依存的に機能し、耐性を促進する。CCSCsに高発現するVRK2がIGFBP3のS201部位をリン酸化し、EGFR結合を可能にし、sEVsへの取り込みを促進する。sEVsを介してEGFRとリン酸化IGFBP3が共に受容細胞に送達され、化学療法誘導性DNA損傷を阻害する。VRK2 siRNAや阻害剤D4476はIGF"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Silencing the Signal: The Metastasis Suppressor NDRG1 Disrupts Small Extracellular Vesicle-Mediated Crosstalk in Pancreatic Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42377994/",
+        "abstract": "Pancreatic cancer (PaC) remains one of the deadliest cancers, with 5-year survival rates of 13%. A major driver of its aggressiveness is the tumour microenvironment (TME), which fuels tumour growth, metastasis, and therapeutic resistance through dynamic, bi-directional communication between cancer cells, fibroblasts, and immune cells. Emerging evidence highlights extracellular vesicles (EVs) as key mediators of oncogenic cross-talk within the PaC TME. This study demonstrates for the first time that the overexpression of metastasis suppressor N-myc downstream regulated gene 1 (NDRG1) significantly influences the biogenesis, cargo packaging and release of EVs by cancer cells. This was mediated by a direct interaction between NDRG1 and ALIX, a key protein involved in EV biogenesis and packaging, with NDRG1 facilitating ALIX proteasomal degradation. Further, EVs released from NDRG1-overexpressing cells had significantly fewer CAF-activation proteins (i.e. TGF-β), leading to attenuated ERK1/2 and p38 activation in pancreatic stellate cells (PSCs), and reduced expression of key fibrotic markers (α-SMA, FAP, and collagen 1A). NDRG1 overexpression also reduced sEVs uptake by PaC cells and diverted these to the lysosome for degradation. These findings uncover a previously unrecognized mechanism by which NDRG1 overexpression disrupts the oncogenic two-way communication between PaC cells and the TME, positioning NDRG1 overexpression as a compelling therapeutic approach against this formidable malignancy.",
+        "source": "PubMed",
+        "doi": "10.1002/jev2.70334",
+        "keyword": "sEVs",
+        "title_ja": "シグナルを沈黙させる：転移抑制因子NDRG1が膵臓癌における小型細胞外小胞を介したクロストークを阻害する",
+        "summary_ja": "膵臓がん（PaC）は5年生存率13%の難治性癌であり、腫瘍微小環境（TME）が増殖、転移、治療抵抗性を促進する。本研究は、転移抑制遺伝子NDRG1の過剰発現が、癌細胞からの細胞外小胞（EV）の生合成、積荷、放出に影響を与えることを初めて示した。NDRG1はEV生合成因子ALIXと直接結合し、そのプロテアソーム分解を促進した。NDRG1過剰発現細胞由来のEVはCAF活性化因子（TGF-βなど）が減少し、膵星細胞（PSC）におけるERK1/2およびp38経路の活性化を減弱させ、線維化マーカー（α-SMA、FAP、コラーゲン1A）の発現を低下させた。また、NDRG1過剰発現は癌細胞によるEV取り込みを減少させ、リソソーム分解へ誘導した。これらの知見は、NDRG1がPaC細胞とTME間の癌促進的な双方向通信を破綻させる新規メカニズムを明らかにし、NDRG1過剰発現が有望な治療アプローチであることを"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **Klothoによる出血性ショック後の臓器保護**  \n   抗老化タンパク質Klothoが、出血性ショック後の無菌性炎症を軽減し、多臓器不全を防ぐ可能性が示された。急性期治療への応用が期待される。\n\n2. **胃がんにおけるKYNU/PF4軸とマクロファージ極性化**  \n   KYNUがPF4を介してマクロファージを腫瘍促進型に誘導する機構が解明された。新たな免疫治療標的として注目される。\n\n3. **Nur77作動薬による肝細胞癌へのNK細胞免疫活性化**  \n   Nur77がNK細胞の腫瘍浸潤と抗腫瘍活性を制御することが明らかになり、固形腫瘍へのNK細胞療法の有効性向上に貢献する可能性がある。\n\n4. **ドンキーミルク由来エクソソームによる大腸炎治療**  \n   経口投与可能なエクソソームが抗炎症miRNAを運び、腸内細菌叢を改善。安価で安全な新規治療法として臨床応用が期待される。\n\n5. **NDRG1による膵臓がん細胞外小胞（sEV）を介した細胞間相互作用の抑制**  \n   転移抑制遺伝子NDRG1がsEVの産生・内容物を制御し、腫瘍微小環境のリモデリングを阻害。難治性膵臓がんの新たな治療戦略となる可能性がある。"
+}

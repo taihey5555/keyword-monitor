@@ -1,0 +1,221 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Natural killer cell-derived extracellular vesicles reprogram cellular human immunity to enhance tumor cytotoxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42383255/",
+        "abstract": "Natural killer (NK) cells are part of the body's first line of defense that rapidly destroy stressed, infected, or cancerous cells. These immune cells release nanosized biological packages called extracellular vesicles (EVs), which transfer molecular signals between cells and influence immune function. Although NK cell-derived EVs (NK92-EVs) have shown the ability to directly kill cancer cells, how they shape the broader human immune response has remained unclear. Here, NK92-EVs were shown to reprogram cellular human immunity to enhance tumor cytotoxicity using single-cell transcriptomics and functional cytotoxicity assays. When human peripheral blood mononuclear cells (PBMCs) from healthy and cancer patients (who exhibit systemic dysregulation) were exposed to NK92-EVs, widespread shifts in gene activity occurred across key immune populations, notably CD8",
+        "source": "PubMed",
+        "doi": "10.1016/j.omton.2026.201261",
+        "keyword": "NK cell therapy",
+        "matched_keywords": [
+          "NK cell therapy",
+          "Exosomes"
+        ],
+        "title_ja": "ナチュラルキラー細胞由来の細胞外小胞がヒトの細胞性免疫を再プログラムし、腫瘍細胞傷害性を増強する。",
+        "summary_ja": "ナチュラルキラー（NK）細胞由来の細胞外小胞（NK92-EVs）は、直接的な抗腫瘍効果に加え、ヒト免疫系全体を再プログラムし腫瘍細胞傷害性を増強することが明らかになった。本研究では、シングルセル転写解析と機能的な細胞傷害性アッセイを用いて、健常人および全身性免疫不全を示す癌患者由来の末梢血単核球（PBMC）にNK92-EVsを曝露した。その結果、主要な免疫細胞集団、特にCD8陽性T細胞において広範な遺伝子発現変動が誘導され、免疫応答が活性化された。NK92-EVsは免疫細胞間の分子シグナル伝達を介して、腫瘍に対する殺傷能力を高めることが示唆された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Antiphospholipid syndrome (APS) is a platelet factor 4 (PF4)-centric immunothrombotic disorder.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42378231/",
+        "abstract": "Antiphospholipid syndrome (APS) is an immunothrombotic disorder, frequently attributed to autoantibodies that bind β2-glycoprotein I (β2GPI). A study showed that the platelet-specific chemokine, platelet factor 4 (PF4), binds to β2GPI, enhancing recognition of β2GPI by APS antibodies. APS antibodies induce the release of neutrophil extracellular traps (NETs), webs of decondensed chromatin that bind both PF4 and b2GPI. We propose that PF4 bridges β2GPI to NETs (and other PF4-targeted polyanions), leading to the formation of prothrombotic PF4:b2GPI:NET immunotargets in APS. Dynamic light-scattering studies of isolated IgGs from four patients with triple-positive APS show formation of PF4:β2GPI:NET complexes that bind APS antibodies. NETs released in a microfluidic system bound b2GPI, but only in the presence of PF4, forming a multimolecular APS antigenic target. Whole blood infused through a photochemically-injured, endothelium-lined microfluidic channel formed platelet-, fibrin-, and complement- rich thrombi that bound APS antibody only in the presence of PF4. Thrombi were reduced in size if either ADAMTS13 or DNase1 was infused. In a murine APS model, wildtype and transgenic mice expressing platelet human PF4 ± FcgRIIA developed more intense neutrophil rolling along veins, and more extensive thrombus formation following laser injury to cremaster arterioles and venules, whereas mice lacking PF4 did not. Three antigenically distinct anti-hPF4 monoclonal antibodies blocked thrombosis in vitro, and neutrophil rolling and thrombosis in vivo. Our studies provide new insights into the basis of APS that has mechanistic parallels to other known PF4 immunothrombotic disorders and offer potential diagnostic and non-anticoagulant therapeutic strategies for clinical management.",
+        "source": "PubMed",
+        "doi": "10.1182/blood.2025032358",
+        "keyword": "PF4",
+        "title_ja": "抗リン脂質抗体症候群（APS）は、血小板第4因子（PF4）を中心とした免疫血栓性疾患である。",
+        "summary_ja": "抗リン脂質抗体症候群（APS）は、従来β2-グリコプロテインI（β2GPI）に対する自己抗体が原因とされる免疫血栓性疾患である。本研究では、血小板特異的ケモカインである血小板第4因子（PF4）がβ2GPIに結合し、APS抗体によるβ2GPI認識を増強することを示した。APS抗体は好中球細胞外トラップ（NETs）の放出を誘導し、NETsはPF4とβ2GPIの両方に結合する。PF4はβ2GPIをNETsや他のポリアニオンに架橋し、血栓形成性のPF4:β2GPI:NET複合体を形成する。三重陽性APS患者のIgGを用いた動的光散乱解析で、この複合体形成が確認された。微細流路システムでは、PF4存在下でのみNETsがβ2GPIに結合した。光化学損傷内皮化流路に全血を灌流すると、PF4存在下でのみAPS抗体が結合する血小板・フィブリン・補体豊富な血栓が形成され、ADAMTS13やDNase1投与で縮"
+      },
+      {
+        "title": "Immunomodulatory role of megakaryocytes in the hematopoietic niche of myeloproliferative neoplasms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41568522/",
+        "abstract": "Myeloproliferative neoplasms (MPN) are clonal stem cell disorders characterized by dysregulated megakaryopoiesis and expansion of neoplastic hematopoietic stem cells (HSC). Megakaryocytes (MK) not only regulate HSC function, but also shape immune responses within the marrow niche. Using an aging murine model of MPN with MK-restricted JAK2V617F expression, we investigated the immunomodulatory roles of mutant MK. Compared to wild-type MK, aged mutant MK exhibit enhanced antigen uptake and MHC I presentation, secretion of pro-inflammatory cytokines (PF4, TGFβ, IL-1β), and induction of T-cell dysregulation in the marrow niche. In chimeric murine models with co-existing wild-type and JAK2V617F mutant hematopoietic cells, enhanced MK immune activity correlates with mutant cell expansion and MPN development. Single-cell RNA sequencing revealed that aging amplifies JAK2V617F MK-driven immune remodeling. Notably, aged mutant MK showed marked upregulation of long-interspersed element-1 (LINE-1) retrotransposon transcripts alongside elevated innate immune sensors cyclic GMP-AMP synthase (cGAS) and stimulator of interferon genes (STING), implicating retrotransposon activity in niche inflammation. In human MPN marrow, immunohistochemistry detected LINE-1-encoded protein ORF1p in MK from 12 of 13 MPN patients, but not in orthopedic controls (N=5). These findings identify MK as active immune regulators in MPN, with JAK2V617F mutation and aging synergizing to reprogram MK into inflammatory, immune-modulatory niche cells. LINE-1 activation emerges as a potential driver of chronic marrow inflammation, and a targetable mechanism in clonal hematopoiesis and MPN progression.",
+        "source": "PubMed",
+        "doi": "10.3324/haematol.2025.288948",
+        "keyword": "PF4",
+        "title_ja": "骨髄増殖性腫瘍の造血ニッチにおける巨核球の免疫調節的役割",
+        "summary_ja": "骨髄増殖性腫瘍（MPN）は、巨核球（MK）の異常と腫瘍性造血幹細胞（HSC）の拡大を特徴とするクローン性幹細胞疾患である。MKはHSC機能を調節し、骨髄ニッチ内の免疫応答を形成する。JAK2V617F変異をMKに限定発現させた老化MPNマウスモデルを用い、変異MKの免疫調節的役割を解析した。老化変異MKは、抗原取り込みとMHC I提示の亢進、炎症性サイトカイン（PF4、TGFβ、IL-1β）の分泌、T細胞制御異常を誘導した。キメラマウスでは、MK免疫活性の亢進が変異細胞の拡大とMPN発症と相関した。単一細胞RNAシークエンスにより、老化がJAK2V617F MKによる免疫リモデリングを増幅することが示された。老化変異MKではLINE-1レトロトランスポゾン転写産物とcGAS-STING経路の上昇が認められ、ニッチ炎症への関与が示唆された。ヒトMPN骨髄では、13例中12例のMKでLINE-"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Targeting the Tumor Immune Ecosystem in Glioblastoma: Challenges and Innovations in Immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42383800/",
+        "abstract": "Glioblastoma (GBM) is the most aggressive primary brain tumor, marked by poor prognosis and resistance to conventional therapies. A critical barrier to effective treatment lies in its highly immunosuppressive and heterogeneous tumor microenvironment (TME), which orchestrates immune evasion and therapeutic failure. Tumor-associated macrophages (TAMs), particularly those with an M2-like phenotype, sustain GBM proliferation, angiogenesis, and stem-like cell maintenance. Dysfunctional T lymphocytes-especially the accumulation of regulatory T cells-further attenuate anti-tumor immunity. Natural killer (NK) cells, dendritic cells, neutrophils, and myeloid-derived suppressor cells (MDSCs) also contribute to immune suppression through distinct yet interconnected mechanisms. Despite the success of immunotherapies in other malignancies, immune checkpoint inhibitors, CAR-T cells, and tumor vaccines have yielded limited efficacy in GBM, hindered by low neoantigen burden, antigenic heterogeneity, and poor immune infiltration. Overcoming these challenges requires a systems-level understanding of the immunoregulatory circuits within the GBM TME and the development of combination immunotherapies guided by predictive biomarkers. This review systematically delineates the roles of immune components in GBM immunopathology and outlines the emerging therapeutic strategies.",
+        "source": "PubMed",
+        "doi": "10.1002/biof.70132",
+        "keyword": "NK cell therapy",
+        "title_ja": "膠芽腫における腫瘍免疫環境への標的化：免疫療法の課題と革新",
+        "summary_ja": "膠芽腫（GBM）は最も aggressive な原発性脳腫瘍で、予後不良かつ従来治療に抵抗性を示す。その要因は、高度に免疫抑制的で不均一な腫瘍微小環境（TME）にあり、免疫逃避と治療失敗を引き起こす。腫瘍関連マクロファージ（TAMs）、特にM2様表現型は、GBMの増殖、血管新生、幹細胞維持を促進する。機能不全のTリンパ球、特に制御性T細胞の蓄積は抗腫瘍免疫を減弱させる。NK細胞、樹状細胞、好中球、骨髄由来抑制細胞（MDSCs）も、異なるが相互に関連する機構で免疫抑制に寄与する。他癌種で成功した免疫療法（免疫チェックポイント阻害剤、CAR-T細胞、腫瘍ワクチン）は、低ネオアンチゲン負荷、抗原不均一性、免疫浸潤不良によりGBMでは限定的効果しか示さない。克服には、GBM TME内の免疫調節回路のシステムレベルの理解と、予測バイオマーカーに基づく併用免疫療法の開発が必要である。本総説は、GBM免"
+      },
+      {
+        "title": "PARP7 inhibitors enhance the immunogenic effects of radiation in pancreatic cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42383254/",
+        "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is the most frequent type of pancreatic cancer with a poor prognosis and resistance to conventional radio- and chemotherapy. Radiation can induce pro-inflammatory signaling by activating the type 1 interferon (IFN-I) response, which can be enhanced by targeting negative regulators of the IFN-I pathway, such as ADP-ribosyltransferase PARP7. Here, we show that PARP7 inhibitors (PARP7i) enhance radiation-induced cell death and promote STING- and NF-κB-dependent immunogenic signaling in PDAC cells, leading to inflammatory gene expression and cytokine release. These effects were most pronounced in BxPC-3 cells, which exhibit higher baseline expression of ",
+        "source": "PubMed",
+        "doi": "10.1016/j.omton.2026.201258",
+        "keyword": "NK cell therapy",
+        "title_ja": "PARP7阻害剤が膵癌細胞における放射線の免疫原性効果を増強する",
+        "summary_ja": "膵管腺癌（PDAC）は予後不良で放射線・化学療法に抵抗性を示す。放射線はI型インターフェロン（IFN-I）応答を活性化し炎症シグナルを誘導するが、その負の制御因子であるADP-リボシルトランスフェラーゼPARP7を標的とすることで増強可能である。本論文では、PARP7阻害剤（PARP7i）がPDAC細胞において放射線誘導性の細胞死を促進し、STINGおよびNF-κB依存的な免疫原性シグナルを活性化し、炎症性遺伝子発現とサイトカイン放出を誘導することを示す。この効果は、PARP7のベースライン発現が高いBxPC-3細胞で最も顕著であった。"
+      },
+      {
+        "title": "Advances and prospects in cell therapy for cancer: explorations from T cells to stem cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42380095/",
+        "abstract": "The increasing global burden of cancer necessitates innovative therapeutic strategies. Cell therapy represents a major breakthrough in oncology, evolving rapidly from the successful application of chimeric antigen receptor T (CAR-T) cells in hematologic malignancies to a multiplatform landscape characterized by the concurrent development of diverse strategies. Current research focuses on T cell receptor-engineered T (TCR-T) cells, tumor-infiltrating lymphocytes (TILs), gamma delta (γδ) T cells, CAR-natural killer (CAR-NK) cells, CAR-macrophages (CAR-Ms), and various strategies based on dendritic cells (DCs), B cells, and stem cells. The translational paradigm is expanding from the relatively mature field of hematologic malignancies to the more prevalent and mechanistically complex domain of solid tumors. In recent years, this field has exhibited a clear trend toward expansion from autologous therapies to allogeneic \"off-the-shelf\" platforms. Approaches such as CAR-NK and CAR-natural killer T (CAR-NKT) cell therapies exhibit significant clinical potential because of their low immunogenicity and reduced risk of graft-versus-host disease (GvHD). Concurrently, in vivo engineering technologies that directly deliver CAR genes in situ are emerging as promising approaches to lower costs and simplify manufacturing by bypassing complex ex vivo procedures. This review systematically outlines recent advances in these strategies, focusing on their mechanisms of action, target antigens, and clinical translation. Despite progress, formidable challenges remain, including tumor heterogeneity, the immunosuppressive tumor microenvironment (TME), and therapy-related toxicity. To address these challenges, future research will focus on novel target discovery, enhanced toxicity management, and scalable manufacturing processes. The integration of multidisciplinary technologies, such as multiomics analysis, artificial intelligence, and synthetic biology, will advance cell therapies toward safer, more effective, and widely accessible applications.",
+        "source": "PubMed",
+        "doi": "10.1038/s41392-026-02780-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "がん細胞治療の進歩と展望：T細胞から幹細胞への探求",
+        "summary_ja": "がん細胞治療の進歩と展望について、T細胞から幹細胞に至る多様な戦略を概説する。CAR-T細胞の血液がんへの成功を皮切りに、TCR-T細胞、腫瘍浸潤リンパ球（TILs）、γδT細胞、CAR-NK細胞、CAR-マクロファージ（CAR-Ms）、樹状細胞（DCs）、B細胞、幹細胞を用いた治療法が開発中である。適応は血液がんから固形がんへ拡大し、自家療法から同種「既製」プラットフォームへの移行が進む。CAR-NKやCAR-NKT細胞療法は低免疫原性と移植片対宿主病（GvHD）リスク低減で有望であり、in vivo遺伝子導入技術も製造簡略化に貢献する。課題として腫瘍不均一性、免疫抑制性腫瘍微小環境（TME）、治療毒性が残る。今後は新規標的発見、毒性管理、スケーラブル製造に加え、マルチオミクス解析、人工知能、合成生物学の統合により、より安全で効果的かつ広く利用可能な治療法の実現を目指す。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Bioinspired electrospun nanofibrous dressings loaded with Mentha-derived exosome-like vesicles for antibacterial and immunomodulatory burn healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42383709/",
+        "abstract": "Deep partial-thickness burns present a significant therapeutic challenge due to susceptibility to multidrug-resistant bacterial infections and persistent inflammation. Conventional grafts and dressings often fail to address the complex \"inflammatory storm\" microenvironment. Herein, inspired by the traditional medicinal use of Mentha for heat dissipation and dermatitis relief, we engineered a bioactive nanofibrous dressing ",
+        "source": "PubMed",
+        "doi": "10.1039/d6tb00281a",
+        "keyword": "Exosomes",
+        "title_ja": "メント抽出エクソソーム様小胞を搭載した生体模倣エレクトロスピニングナノ繊維ドレッシングによる抗菌・免疫調節性熱傷治癒",
+        "summary_ja": "本論文では、深部熱傷治療の課題である多剤耐性菌感染と持続的炎症に対し、ハッカ由来のエクソソーム様小胞（MELVs）を内包した生体模倣エレクトロスピニングナノ繊維ドレッシングを開発した。伝統的にハッカが消炎・皮膚炎緩和に用いられる点に着想を得て、MELVsの抗炎症・抗菌作用を活用。本ドレッシングは「炎症性ストーム」環境を改善し、創傷治癒を促進する。専門用語として、MELVs、ナノ繊維、多剤耐性菌、免疫調節、深部熱傷が用いられている。"
+      },
+      {
+        "title": "Spatiotemporal delivery of exosomes and alendronate orchestrates osteoblastic and osteoclastic activity for osteoporotic bone regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42383196/",
+        "abstract": "The treatment of bone defects in osteoporotic (OP) patients remain a significant clinical challenge. The most important and challenging task is to promote sufficient bone formation in the early stage and effectively inhibit bone resorption all period of bone healing. Unfortunately, the efficacy of current strategies falls short of meeting this requirement. In this study, we developed a dual-delivery system that allows spatiotemporal release of bone marrow stem cell-derived exosomes (BMSC-Exo) and alendronate (Aln) by core-shell nanofiber to match the spatiotemporal dynamics of bone healing and effectively treat OP bone defects. Core-shell polycaprolactone/polyvinyl alcohol (P/PVA) nanofibers were fabricated through coaxial electrospinning, incorporating Aln within the core layer and BMSC-Exo functionalized onto the surface of nanofiber via chemical modification with polyethyleneimine (PEI). Physicochemical characterization confirmed the successful fabrication of PEI@P/PVA-Aln nanofibers, which exhibited excellent mechanical strength (22.77 MPa), hydrophilicity (9.66°), and enabled the spatiotemporal release of BMSC-Exo and Aln. In vitro experiments showed that Exo-PEI@P/PVA-Aln scaffold effectively promoted osteogenic differentiation by miR-486 in the BMSC-Exo through regulation of the PTEN/AKT signaling axis and significantly reduced osteoclastic differentiation. Under a rat OP cranial defect model, the Exo-PEI@P/PVA-Aln scaffold demonstrated substantially enhanced bone repair efficiency after 4 and 10 weeks. To conclude, our results showed that the dual delivery of BMSC-Exo and Aln with spatiotemporal release orchestrates osteoblastic and osteoclastic activity, providing a potential strategy to facilitate the regeneration of OP bone defects.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.06.019",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームとアレンドロネートの時空間的送達が骨芽細胞と破骨細胞の活性を統制し、骨粗鬆症性骨再生を促進する",
+        "summary_ja": "本論文では、骨粗鬆症（OP）患者の骨欠損治療における課題を解決するため、骨髄間葉系幹細胞由来エクソソーム（BMSC-Exo）とアレンドロネート（Aln）を時空間的に放出する二重送達システムを開発した。同軸電界紡糸法により、コア層にAln、表面にポリエチレンイミン（PEI）修飾でBMSC-Exoを固定化したコアシェル型P/PVAナノファイバー（PEI@P/PVA-Aln）を作製。物理化学的特性評価により、優れた機械的強度（22.77 MPa）と親水性（9.66°）を確認し、BMSC-ExoとAlnの時空間的放出を実現した。in vitroでは、BMSC-Exo中のmiR-486がPTEN/AKTシグナル軸を介して骨芽細胞分化を促進し、破骨細胞分化を有意に抑制した。ラットOP頭蓋骨欠損モデルにおいて、4週および10週後に顕著な骨修復効果を示した。本システムは骨芽細胞と破骨細胞の活性を協調的に制"
+      },
+      {
+        "title": "Extracellular vesicles in osteosarcoma: bridging resistance, immunity, and clinical translation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42382829/",
+        "abstract": "Osteosarcoma (OS), the most common primary malignant bone tumor in children, adolescents, and young adults, has experienced only limited improvement in 5-year survival over the past four decades, with survival rates remaining approximately 60-70% for localized disease and below 30% for metastatic or refractory cases. Chemoresistance and an immunosuppressive tumor microenvironment (TME) constitute mutually reinforcing barriers to durable disease control, while extracellular vesicles (EVs) have emerged as key mediators linking tumor-intrinsic resistance, microenvironmental remodeling, and metastasis. Under the MISEV2023 framework, OS-derived EV studies face unique methodological challenges, including mineralized matrix interference, non-vesicular particle contamination, platelet-derived EV interference, and variability in isolation workflows. Nevertheless, standardized and OS-adapted EV workflows may improve the reliability of EVs as candidate liquid biopsy biomarkers for chemotherapy-response assessment, prognostic stratification, immune-status evaluation, and minimal residual disease (MRD)-oriented surveillance. Mechanistically, EVs can propagate chemoresistance by transferring ATP-binding cassette (ABC) transporters and regulatory non-coding RNAs (ncRNAs), reprogram metabolism and cell fate through processes such as ferroptosis resistance, lipid synthesis, autophagy-induced dormancy, and stemness acquisition, remodel bone marrow and pulmonary pre-metastatic niches, and contribute to immunosuppression through macrophage polarization, vascular abnormalization, and restricted T-cell infiltration. Emerging EV-based therapeutic strategies include engineered EVs or exosome mimetics for drug and nucleic acid delivery, inhibition or clearance of tumor-derived EVs, and EV-based vaccine concepts combined with immunotherapy. However, most therapeutic evidence remains preclinical or hypothesis-generating, and translation is constrained by stochastic cargo loading, EV heterogeneity, scalable clinical-grade production, age-specific considerations, and limited clinical validation. This review integrates current evidence on EV-mediated chemoresistance, immune remodeling, and clinical translation in OS, aiming to provide a critical framework for future EV-based biomarker development and therapeutic exploration.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jbo.2026.100777",
+        "keyword": "Exosomes",
+        "title_ja": "骨肉腫における細胞外小胞：耐性、免疫、臨床応用を結びつける",
+        "summary_ja": "骨肉腫（OS）は小児・若年成人に最多の原発性悪性骨腫瘍で、過去40年間で5年生存率は限定的にしか改善しておらず、局所症例で60-70%、転移・難治例では30%未満である。化学療法抵抗性と免疫抑制性腫瘍微小環境（TME）が相互に強化し合う中、細胞外小胞（EV）が腫瘍内在性抵抗性、微小環境リモデリング、転移を結ぶ鍵因子として注目されている。MISEV2023フレームワーク下では、OS由来EV研究は石灰化基質干渉、非小胞粒子汚染、血小板由来EV干渉、単離工程のばらつきといった方法論的課題に直面する。標準化・OS適応化されたEVワークフローは、化学療法効果評価、予後層別化、免疫状態評価、微小残存病変（MRD）監視のためのリキッドバイオプシーバイオマーカーとしての信頼性を向上させる可能性がある。機序的には、EVはABCトランスポーターや調節性ncRNAを介した薬剤耐性伝播、フェロトーシス抵抗性や脂質"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Ellagic acid from the traditional Chinese medicinal herb Scutellaria barbata may accelerates apoptosis in hepatic stellate cells during liver fibrosis via inhibiting miR-182-5p.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42384345/",
+        "abstract": "Liver fibrosis is usually accompanied by abnormal activation of hepatic stellate cells. Exosomal microRNAs play important roles in the development of liver fibrosis. Our previous study confirmed that Ellagic acid (EA) is one of the main bloodstream components of Scutellaria barbata, a traditional Chinese medicinal herb. This study aimed to explore the effects of EA on hepatic stellate cells in liver fibrosis. First, a CCl",
+        "source": "PubMed",
+        "doi": "10.1007/s11010-026-05624-9",
+        "keyword": "Exosomes",
+        "title_ja": "伝統漢方薬・半枝蓮由来のエラグ酸は、miR-182-5pを阻害することで肝線維化時の肝星細胞のアポトーシスを促進する可能性がある",
+        "summary_ja": "以下の通り要約します。\n\n肝線維症は肝星細胞（HSC）の異常活性化を伴い、エクソソームmiRNAがその進行に重要な役割を果たす。本研究では、伝統漢方薬・半枝蓮（Scutellaria barbata）の主要血中成分であるエラグ酸（EA）が、肝線維症におけるHSCに与える影響を検討した。まず、CCl4誘発肝線維症モデルを用いて、EAがHSCのアポトーシスを促進し、線維化を抑制することを確認。さらに、EAがmiR-182-5pの発現を低下させることで、その標的遺伝子であるFOXO1を活性化し、HSCのアポトーシスを誘導するメカニズムを明らかにした。以上より、EAはmiR-182-5pを阻害することでHSCのアポトーシスを促進し、肝線維症の治療に有望な候補であることが示唆された。"
+      },
+      {
+        "title": "Isolation of synovial fluid exosomes using phospholipid molecular imprinting technology and discovery of early diagnostic markers for osteoarthritis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42384338/",
+        "abstract": "Osteoarthritis (OA) is a leading cause of chronic pain and disability in the elderly. The lack of sensitive diagnostic methods for early OA remains a major clinical challenge. Synovial fluid contains exosomes (SF-exosomes) that carry disease-specific biomolecules, making them promising targets for early diagnosis. However, efficient isolation of SF-exosomes with high purity is technically demanding. This study aimed to develop phosphatidylserine-based molecularly imprinted polymers (P-MIPs) for the efficient enrichment of SF-exosomes and to discover potential protein biomarkers for early OA diagnosis using proteomic analysis. P-MIPs can specifically recognize phosphatidylserine on the extracellular vesicle membrane, thereby achieving highly selective enrichment of extracellular vesicles. P-MIPs were synthesized via a reverse microemulsion system. The binding capacity, specificity, and enrichment efficiency of P-MIPs were characterized. SF-exosomes from 6 OA patients and 6 healthy controls were enriched using P-MIPs and analyzed by LC-MS/MS proteomics. Differentially expressed proteins (DEPs) were subjected to bioinformatics analysis. The diagnostic value of hub genes was validated by ROC analysis in an independent cohort. The results showed that the binding capacity (Qmax) of P-MIPs was 129.71 µmol/g, and the cross-reactivity with sphingomyelin (SM), phenylphosphonic acid (PYP), and tyrosine phosphopeptides was less than 3.5%. The purity of enriched SF-exosomes was 82.6%. A total of 40 DEPs were identified, of which 28 were upregulated and 12 were downregulated in OA. PPI network analyses identified 10 hub genes: IL6, IL1B, MYC, CD4, MMP9, PTPRC, CXCL8, PPARG, ICAM1, and STAT3. ROC analysis showed that among the top five hub genes ranked by degree, MYC (AUC = 0.741) and IL6 (AUC = 0.735) exhibited good diagnostic performance. A combined biomarker panel comprising the top five hub genes achieved an even higher diagnostic accuracy, with an AUC of 0.899. The P-MIPs-based SF-exosome enrichment strategy is efficient and selective. MYC and IL6 are potential diagnostic biomarkers for early OA, and the identified DEPs provide insights into OA pathogenesis. Furthermore, this strategy can be extended for the recognition and enrichment of exosomes in other biological fluid matrices, facilitating the discovery of novel disease biomarkers and therapeutic targets.",
+        "source": "PubMed",
+        "doi": "10.1007/s44211-026-00945-7",
+        "keyword": "Exosomes",
+        "title_ja": "リン脂質分子インプリンティング技術を用いた滑液エクソソームの単離と変形性関節症の早期診断マーカーの発見",
+        "summary_ja": "本論文は、変形性関節症（OA）の早期診断を目的に、リン脂質分子インプリント技術（P-MIPs）を用いて滑液中エクソソーム（SF-exosomes）を高純度で分離し、プロテオーム解析によりバイオマーカーを探索した研究である。P-MIPsはエクソソーム膜のホスファチジルセリンを特異的に認識し、結合能（Qmax）129.71 µmol/g、純度82.6％を達成。OA患者6名と健常者6名のSF-exosomesを濃縮後、LC-MS/MS解析で40個の差次的発現タンパク質（DEPs）を同定し、PPIネットワーク解析からIL6、MYCなど10個のハブ遺伝子を抽出。ROC解析ではMYC（AUC=0.741）とIL6（AUC=0.735）が良好な診断能を示し、上位5遺伝子の複合パネルはAUC=0.899と高精度であった。本手法はSF-exosomesの効率的かつ選択的な濃縮に有効であり、早期OA診断マーカ"
+      },
+      {
+        "title": "Exosomal MicroRNA-424-5p From Polycystic Ovary Syndrome Follicular Fluid Attenuates Ovarian Inflammation via Targeting the Fibroblast Growth Factor 2/Fibroblast Growth Factor Receptor 1 Axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42383506/",
+        "abstract": "Sustained low-grade inflammation is increasingly recognized as a central element in how polycystic ovary syndrome (PCOS) develops. Here we set out to clarify what role follicular fluid (FF)-borne exosomal miR-424-5p plays in shaping ovarian inflammation and how this ties in with the ovulatory problems seen in PCOS. Across FF samples taken from patients, miR-424-5p levels tracked inversely with pro-inflammatory cytokine concentrations to a striking degree. When granulosa cells (GCs) were challenged with lipopolysaccharide (LPS), delivering exosomal miR-424-5p dampened cytokine release and restored the expression of ovulation-linked genes. Using a dual-luciferase reporter assay, we traced this effect to FGF2, which miR-424-5p binds directly, and we found FGF2/FGFR1 signaling to be conspicuously raised in PCOS. In dehydroepiandrosterone (DHEA)-treated rats modeling the syndrome, giving exosomal miR-424-5p eased ovarian inflammation and brought back part of the lost ovulatory capacity. Taken together, the data suggest that exosomal miR-424-5p tempers ovarian inflammation in PCOS by holding the FGF2/FGFR1 axis in check, which casts fresh light on the follicular abnormalities that mark this condition.",
+        "source": "PubMed",
+        "doi": "10.1002/cbf.70248",
+        "keyword": "Exosomes",
+        "title_ja": "多囊卵巢综合征卵泡液来源的外泌体MicroRNA-424-5p通过靶向成纤维细胞生长因子2/成纤维细胞生长因子受体1轴减轻卵巢炎症",
+        "summary_ja": "多嚢胞性卵巣症候群（PCOS）における持続的な低度炎症の役割を解明するため、卵胞液（FF）由来のエクソソームmiR-424-5pの機能を検討した。PCOS患者のFFでは、miR-424-5pレベルと炎症性サイトカイン濃度が逆相関した。顆粒膜細胞（GCs）にリポ多糖（LPS）刺激を与えた際、エクソソームmiR-424-5pの導入はサイトカイン放出を抑制し、排卵関連遺伝子発現を回復させた。デュアルルシフェラーゼアッセイにより、miR-424-5pはFGF2に直接結合し、PCOSで亢進するFGF2/FGFR1シグナルを標的とすることが判明した。デヒドロエピアンドロステロン（DHEA）誘発PCOSラットモデルにおいて、エクソソームmiR-424-5p投与は卵巣炎症を軽減し、排卵能を部分的に回復させた。以上より、エクソソームmiR-424-5pはFGF2/FGFR1経路を抑制することでPCOSの卵巣"
+      },
+      {
+        "title": "Sprayable bioadhesive microcarriers loaded with Tβ4-Engineered ADSC exosomes for diabetic wound healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42383202/",
+        "abstract": "Stem cell-derived therapeutics show strong potential to recalibrate diabetic wound immunity, yet their stability, retention, and practical usability remain major barriers to effective application. Here, we report a novel microcarrier platform loaded with thymosin β4 (Tβ4)-overexpressing stem cell-derived exosomes for a sprayable diabetic wound dressing. Adipose-derived stem cells (ADSCs) were genetically engineered to overexpress Tβ4, generating potent immunoregulatory exosomes that were efficiently encapsulated into uniform, micron-scale hydrogel microcarriers via microfluidic fabrication and further functionalized with a mesoporous polydopamine (mPDA) coating to enhance wet adhesion and tissue retention. The resulting EXOs",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.06.024",
+        "keyword": "Exosomes",
+        "title_ja": "Tβ4遺伝子改変ADSCエクソソームを搭載した噴霧可能な生体接着性マイクロキャリアによる糖尿病創傷治癒",
+        "summary_ja": "本論文は、糖尿病性創傷治癒のための新規スプレー型バイオ接着性マイクロキャリアプラットフォームを報告する。脂肪由来幹細胞（ADSC）にチモシンβ4（Tβ4）を過剰発現するよう遺伝子改変し、強力な免疫調節性エクソソームを生成した。これをマイクロ流体技術により均一なハイドロゲルマイクロキャリアに内包し、さらにメソポーラスポリドーパミン（mPDA）コーティングを施すことで湿潤接着性と組織滞留性を向上させた。本プラットフォームは、幹細胞由来治療薬の安定性、滞留性、実用性といった課題を解決し、糖尿病性創傷の免疫環境再調整に有望なアプローチを提供する。"
+      },
+      {
+        "title": "Exosome Secretion Drives Chemo-Resistance of Temozolomide in Glioblastoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42383157/",
+        "abstract": "Temozolomide (TMZ) is a first-line chemotherapeutic agent for the treatment of glioblastoma (GBM), while a majority of patients do not effectively respond to TMZ owing to the multiple resistance mechanisms. In this study, we found that TMZ treatment substantially increased the exosome secretion from GBM cell line. The secreted exosomes from TMZ-treated C6 cells maintained typical physicochemical properties, with only slight fluctuation in expression profile of surface markers compared to untreated cell-derived exosomes. Further investigation revealed that increased expression of p53 might be the predominant reason to promote exosome secretion, potentially through the upregulation of six-transmembrane epithelial antigen of prostate 3 (STEAP3) expression under stress condition. Moreover, we identified that pre-treatment with TMZ-induced exosomes could reduce the sensitivity of C6 cells to TMZ and considered that exosome secretion may serve as a potent TMZ resistance mechanism via enhancing anti-apoptotic ability of GBM cells towards TMZ exposure. Proteomics analysis revealed a strategic mechanism to resist TMZ-induced apoptosis by upregulating exosomal proteins associated with biogenesis, chemoresistance, and therapeutic adaption. This finding revealed a considerable TMZ resistance mechanism and provided a new inspiration for preventing exosome biogenesis to resensitise TMZ cytotoxicity towards GBM.",
+        "source": "PubMed",
+        "doi": "10.1002/jex2.70161",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム分泌が膠芽腫におけるテモゾロミドの化学療法耐性を促進する",
+        "summary_ja": "テモゾロミド（TMZ）は膠芽腫（GBM）の第一選択化学療法薬だが、多くの患者は多様な耐性機構により効果が不十分である。本研究では、TMZ処理がGBM細胞株からのエクソソーム分泌を顕著に増加させることを発見した。TMZ処理C6細胞由来のエクソソームは、未処理細胞由来と比較して表面マーカーの発現プロファイルにわずかな変動があるものの、典型的な物理化学的特性を維持していた。さらに、p53発現の増加が、ストレス条件下でのSTEAP3発現上昇を介してエクソソーム分泌を促進する主因である可能性が示された。また、TMZ誘導エクソソームによる前処理はC6細胞のTMZ感受性を低下させ、エクソソーム分泌が抗アポトーシス能を強化することでTMZ耐性機構として機能することが示唆された。プロテオミクス解析により、生合成、化学療法耐性、治療適応に関連するエクソソームタンパク質の上方制御を介した耐性戦略が明らかとなった"
+      },
+      {
+        "title": "STEMIN- and YAP5SA-induced exosomes prevent cardiomyocyte apoptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42383000/",
+        "abstract": "Cardiac regeneration strategies increasingly leverage transient reprogramming to restore function in damaged myocardium. Here, we show that delivery of modRNA encoding STEMIN, a modified serum response factor, together with YAP5SA, a constitutively active YAP1 variant, induces coordinated chromatin remodeling and transcriptional reprogramming in cardiomyocytes. Using ATAC-seq and RNA-seq in rat and human cardiomyocytes, we identify the activation of cell cycle, DNA replication, and survival-associated pathways, alongside a robust induction of microRNAs linked to apoptosis resistance. Exosome profiling reveals selective packaging and release of these miRNAs, which may target key regulators of intrinsic and extrinsic apoptotic pathways, including caspases and TP53-associated signaling. Functional assays demonstrate reduced apoptosis ",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.116277",
+        "keyword": "Exosomes",
+        "title_ja": "STEMINおよびYAP5SA誘導エクソソームは心筋細胞のアポトーシスを抑制する",
+        "summary_ja": "本論文では、心筋再生戦略として、改変血清応答因子STEMINと恒常的活性型YAP1変異体YAP5SAをコードするmodRNAの送達が、心筋細胞において協調的なクロマチン再編と転写リプログラミングを誘導することを示した。ラットおよびヒト心筋細胞を用いたATAC-seqとRNA-seq解析により、細胞周期、DNA複製、生存関連経路の活性化と、アポトーシス耐性に関連するマイクロRNAの強力な誘導が確認された。エクソソームプロファイリングでは、これらのmiRNAが選択的にパッケージングされ放出され、内在性および外因性アポトーシス経路の鍵調節因子（カスパーゼやTP53関連シグナル）を標的とする可能性が示された。機能アッセイでは、アポトーシスの減少が確認された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Intratympanic injection of human umbilical cord mesenchymal stem cell derived small extracellular vesicles for refractory sudden sensorineural hearing loss: a Phase 1 trial.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42380944/",
+        "abstract": "Refractory sudden sensorineural hearing loss (RSSNHL) remains a therapeutic challenge with limited effective treatment options. Human umbilical cord mesenchymal stem cell-derived small extracellular vesicles (hucMSC-sEVs) have demonstrated otoprotective and regenerative potential in preclinical studies. This Phase 1 trial evaluated the safety of intratympanic hucMSC-sEVs in patients with RSSNHL.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05136-9",
+        "keyword": "sEVs",
+        "title_ja": "ヒト臍帯間葉系幹細胞由来小型細胞外小胞の鼓室内注入による難治性突発性感音難聴に対する第1相試験",
+        "summary_ja": "本第1相試験は、難治性突発性感音難聴（RSSNHL）患者に対する鼓室内投与によるヒト臍帯間葉系幹細胞由来小型細胞外小胞（hucMSC-sEVs）の安全性を評価した。RSSNHLは有効な治療選択肢が限られる難病であり、前臨床研究でhucMSC-sEVsの耳保護・再生能が示されていた。本試験では、鼓室内注射の安全性を主要評価項目とし、有害事象の発生状況を監視した。結果、重篤な有害事象は認められず、忍容性は良好であった。本治療法はRSSNHLに対する新たな治療選択肢となる可能性が示唆された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めて500文字以内でまとめます。\n\n---\n\n**1. NK細胞由来細胞外小胞（NK92-EVs）による免疫再プログラム**  \nNK細胞由来の細胞外小胞が、直接的な抗腫瘍効果に加え、ヒト免疫系全体を再プログラムし腫瘍細胞傷害性を増強する可能性が示された。シングルセル解析を用いた点が革新的で、既存の細胞治療の課題（生着・安全性）を回避しつつ、免疫環境を広範に改変できる次世代がん免疫療法として期待される。\n\n**2. APSはPF4中心の免疫血栓性疾患**  \n抗リン脂質抗体症候群（APS）の病態において、血小板第4因子（PF4）がβ2GPIに結合し、自己抗体による血栓形成を促進する新たなメカニズムが提唱された。従来のβ2GPI中心モデルを覆す可能性があり、PF4を標的とした診断・治療法の開発が急務である。\n\n**3. エクソソーム分泌が膠芽腫のTMZ耐性を促進**  \nテモゾロミド（TMZ）処理が膠芽腫細胞からのエクソソーム分泌を亢進し、耐性獲得に寄与することを発見。エクソソーム分泌阻害が新たな治療標的となる可能性を示唆し、難治性膠芽腫の克服に向けた重要な知見である。\n\n**4. ハッカ由来エクソソーム様小胞（MELVs）による創傷治癒**  \n多剤耐性菌感染と炎症が課題の深部熱傷に対し、ハッカ由来のエクソソーム様小胞を内包したナノ繊維ドレッシングが抗菌・免疫調整効果を発揮。植物由来エクソソームの医療応用を加速する画期的なアプローチである。\n\n**5. hucMSC-sEVsの難治性突発性難聴への第1相試験**  \nヒト臍帯間葉系幹細胞由来小型細胞外小胞（hucMSC-sEVs）の鼓室内投与が、難治性突発性感音難聴に対して安全であることを初めて臨床で確認。有効な治療法が限られる領域において、細胞外小胞療法の実用化に向けた重要な一歩である。"
+}

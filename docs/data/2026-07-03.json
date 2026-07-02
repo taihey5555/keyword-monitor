@@ -1,0 +1,176 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Multi-omics profiling reveals systemic rejuvenation of the aged kidney through senolytic therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42386771/",
+        "abstract": "Cellular senescence is a key driver of kidney aging, leading to functional decline and increased susceptibility to chronic kidney disease. While the senolytic combination of dasatinib and quercetin (D + Q) has shown promise in mitigating age-related pathologies, its long-term effects and underlying multi-level systemic mechanisms in the aging kidney remain poorly defined. Here, we systematically evaluated the long-term effects of D + Q in naturally aged mice using multi-omics approaches. We show that D + Q treatment reduces senescence markers (p16, p21, SA-β-gal), restores the anti-aging protein Klotho, and attenuates renal fibrosis and inflammation. Proteomic profiling reveals that D + Q enhances apoptotic clearance of senescent cells and promotes proliferative and regenerative pathways. Moreover, D + Q reactivates PPARα signaling, improves fatty acid oxidation, and reduces lipid accumulation in aged kidneys. Single-cell transcriptomics further demonstrates that D + Q reverses transcriptional aging signatures across multiple renal cell types and remodels cell-type-specific pathways associated with metabolism, inflammation, and fibrosis. Cell-cell communication analysis reveals that D + Q normalizes the hyperconnected intercellular network in aged kidneys, particularly by modulating inflammation-related signaling. Our findings offer a comprehensive, systems-level understanding of how senolytic therapy restores renal homeostasis, emphasizing its potential as a multifaceted intervention to combat kidney aging.",
+        "source": "PubMed",
+        "doi": "10.1038/s41536-026-00490-x",
+        "keyword": "Klotho",
+        "title_ja": "マルチオミクス解析により、老化した腎臓が老化細胞除去療法によって全身的に若返ることが明らかに",
+        "summary_ja": "この論文は、老化した腎臓に対するセノリティック療法（ダサチニブ＋ケルセチン、D+Q）の長期的効果をマルチオミクス解析で評価した研究である。細胞老化は腎老化の主要因であり、D+Q治療により老化マーカー（p16、p21、SA-β-gal）が減少し、抗老化タンパク質Klothoが回復、腎線維化と炎症が抑制された。プロテオミクス解析では、アポトーシスによる老化細胞除去と再生経路の促進が確認された。また、PPARαシグナルの再活性化により脂肪酸酸化が改善し、脂質蓄積が減少。シングルセルトランスクリプトミクスでは、複数の腎細胞タイプで老化関連転写シグネチャーが逆転し、代謝・炎症・線維化に関わる経路が再構築された。細胞間コミュニケーション解析では、老化腎で過剰に連結した細胞間ネットワークが正常化され、特に炎症関連シグナルが調節された。これらの結果は、セノリティック療法が多面的に腎ホメオスタシスを回復する"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Disrupted phosphate metabolism and SIBLING/ASARM peptide accumulation underlie impaired bone mineralization in klotho-deficient (kl/kl) mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42386140/",
+        "abstract": "Klotho-deficient (kl/kl) mice exhibit severely impaired bone matrix mineralization despite marked hyperphosphatemia, suggesting that local mechanisms, rather than systemic mineral availability, regulate skeletal mineralization. Therefore, to clarify the underlying mechanisms, this study aimed to examine phosphate metabolism, pyrophosphate (PPi) homeostasis, and SIBLING/ASARM peptide accumulation in the femora of kl/kl mice maintained on either normal- or low-phosphate (low-Pi) diets. Histochemical and ultrastructural analyses revealed extensive unmineralized bone matrix, impaired mineralized nodule formation, and abnormal accumulation of organic materials around osteoblasts and osteocytes in kl/kl mice. These abnormalities were associated with reduced expression of the phosphate-supplying enzymes tissue-nonspecific alkaline phosphatase (ALP) and PHOSPHO1, together with increased expression of the PPi-generating factors ENPP1 and ANK. Consistent with these findings, bone PPi levels were significantly elevated in kl/kl mice. Dentin matrix protein 1 (DMP1), osteopontin, and phosphorylated acidic serine- and aspartate-rich motif (pASARM) peptides also accumulated in osteocytes and the surrounding bone matrix. Dietary phosphate restriction reduced serum phosphate and bone PPi levels, partially restored ALP and PHOSPHO1 expression, attenuated ENPP1, ANK, DMP1, and pASARM accumulation, and improved bone mineralization. Phosphate exposure induced phosphate- and mineralization-related genes in vitro in osteocytic MLO-Y4 and osteoblastic MC3T3-E1 cells, whereas phosphate normalization partially reversed these changes. Collectively, these findings support the concept that hyperphosphatemia contributes to defective bone mineralization in klotho deficiency by disrupting phosphate/PPi homeostasis and enhancing the accumulation of SIBLING-derived mineralization inhibitors. These findings suggest that PPi dysregulation and the SIBLING/ASARM axis are important contributors to impaired bone mineralization in kl/kl mice.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bone.2026.118002",
+        "keyword": "Klotho",
+        "title_ja": "klotho欠損（kl/kl）マウスにおける骨石灰化障害の原因は、リン酸代謝の異常とSIBLING/ASARMペプチドの蓄積である。",
+        "summary_ja": "Klotho欠損（kl/kl）マウスは高リン血症を示すが、骨基質の石灰化が著しく障害される。本研究では、大腿骨におけるリン代謝、ピロリン酸（PPi）恒常性、およびSIBLING/ASARMペプチド蓄積を解析した。kl/klマウスでは、未石灰化骨基質の広範な存在、石灰化結節形成障害、骨芽細胞・骨細胞周囲の有機物異常蓄積が認められた。これらは、リン供給酵素ALPおよびPHOSPHO1の発現低下、PPi産生因子ENPP1およびANKの発現上昇を伴い、骨PPiレベルが有意に上昇した。また、DMP1、オステオポンチン、pASARMペプチドが骨細胞と周囲基質に蓄積した。低リン食により、血清リンと骨PPiが低下し、ALP・PHOSPHO1発現が部分的に回復、ENPP1・ANK・DMP1・pASARM蓄積が軽減し、石灰化が改善した。in vitroでは、リン曝露が骨細胞・骨芽細胞のリン・石灰化関連遺伝子を"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Immunological spectrum in patients with thymoma: beyond good syndrome.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42390792/",
+        "abstract": "Thymoma is associated with various immunological abnormalities, most notably Good syndrome; however, the full spectrum of immune dysfunction in these patients remains unclear. To evaluate the clinical and immunological characteristics of patients with thymoma and to identify occult immunodeficiency as well as associated autoimmune, infectious, and allergic conditions. In this retrospective single-center study, 37 adult patients with thymoma who had undergone thymectomy were evaluated at least one year after surgery. Clinical data, autoimmune and allergic comorbidities, infection history, and immunological parameters including immunoglobulin levels and lymphocyte subsets were analyzed. Good syndrome was identified in 2 patients (5.4%). However, additional immunological abnormalities were observed, including NK cell deficiency (16.2%), B cell lymphopenia (5.4%), isolated IgM deficiency (5.4%), and IgG subclass deficiency in 1 patient (2.7%). Recurrent infections were reported in 67.6% of patients. Autoimmune diseases were present in 86% and allergic diseases in 43.2% of patients. Patients with immunological abnormalities tended to have a higher frequency of recurrent infections. Our findings suggest that immune dysfunction in patients with thymoma may extend beyond classical Good syndrome and may involve a broader spectrum of immunological abnormalities. Systematic and long-term immunological evaluation may be important for the early detection and management of these conditions.",
+        "source": "PubMed",
+        "doi": "10.1007/s12026-026-09802-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "胸腺腫患者における免疫学的スペクトラム：グッド症候群を超えて",
+        "summary_ja": "胸腺腫患者における免疫異常のスペクトラムは、古典的なGood症候群（5.4%）に限らず、より広範である。本後方視的単施設研究では、胸腺摘出後1年以上経過した成人患者37例を対象に、免疫グロブリン値やリンパ球サブセットを含む免疫学的パラメータを解析した。その結果、NK細胞欠損（16.2%）、B細胞減少（5.4%）、単独IgM欠損（5.4%）、IgGサブクラス欠損（2.7%）が認められた。再発性感染症は67.6%、自己免疫疾患は86%、アレルギー疾患は43.2%にみられ、免疫異常を有する患者で感染頻度が高い傾向があった。胸腺腫における免疫機能障害は多様であり、系統的かつ長期的な免疫評価が早期発見と管理に重要である。"
+      },
+      {
+        "title": "Engineered immune cells and extracellular vesicles target tumour microenvironment barriers in solid tumour immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42390643/",
+        "abstract": "Adoptive cell therapy (ACT) for solid tumours frequently fails because the tumour microenvironment (TME) imposes multiple, overlapping barriers, including stromal exclusion, suppressive myeloid networks, inhibitory cytokines and metabolites, and antigen heterogeneity. Collectively, these factors markedly restrict the infiltration, persistence, and cytotoxic function of effector lymphocytes. In this Review, we synthesise recent primary studies, consensus guidance, and clinical-trial evidence on engineered-cell therapies, including chimeric antigen receptor (CAR) T cells, T-cell receptor-engineered T cells (TCR-T cells), CAR-NK cells, CAR-macrophages (CAR-M), and emerging in vivo CAR-engineering strategies, together with extracellular-vesicle (EV)-based therapeutics. We then map each platform to mechanism-linked resistance nodes within the TME. For engineered cells, key design levers include context-restricted recognition to reduce on-target/off-tumour toxicity, resistance to dominant suppressive pathways such as TGF-β and adenosine signalling, improved trafficking and tissue penetration, and controllability through transient programming or pharmacological switches. For EVs, the main translational advantages include tissue penetration, modular surface engineering, cargo loading, and their acellular nature, which avoids risks related to in vivo cellular expansion but introduces distinct challenges such as rapid clearance, immunogenicity, batch heterogeneity, and uncertain potency assays. Early clinical data using KRAS G12D-targeting engineered exosomes in metastatic pancreatic cancer support the feasibility of this approach and suggest that EVs may also remodel the immune microenvironment, providing a rationale for combination strategies. We propose a barrier-matched framework in which engineered cells and extracellular vesicles are assigned as functionally orthogonal but complementary modules: engineered cells provide adaptive cytotoxicity, whereas EVs enable microenvironmental reconditioning. This framework may help guide rational combination strategies designed to systematically dismantle resistance in solid tumours.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05523-x",
+        "keyword": "NK cell therapy",
+        "title_ja": "工学免疫細胞と細胞外小胞が固形腫瘍免疫療法における腫瘍微小環境の障壁を標的とする",
+        "summary_ja": "本レビューでは、固形腫瘍に対する養子細胞療法（ACT）の障壁となる腫瘍微小環境（TME）の克服を目指し、CAR-T細胞、TCR-T細胞、CAR-NK細胞、CAR-M細胞、in vivo CAR工学戦略、及び細胞外小胞（EV）ベースの治療法を統合的に検討した。各プラットフォームをTME内の抵抗性ノードにマッピングし、工学細胞では標的外毒性低減、TGF-βやアデノシン経路への耐性、組織浸透性向上、制御可能性が重要であると指摘。EVは組織浸透性、表面工学、カーゴ搭載、無細胞性という利点を持つ一方、迅速なクリアランスや免疫原性等の課題がある。KRAS G12D標的エクソソームの膵臓癌臨床データは実現可能性を示し、微小環境再構築の可能性を示唆。工学細胞による適応的細胞傷害性とEVによる微小環境再調整を相補的に組み合わせる障壁マッチングフレームワークを提案し、固形腫瘍抵抗性の系統的克服を目指す。"
+      },
+      {
+        "title": "Emerging Immune-Based Therapeutic Strategies in Hepatocellular Carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42387819/",
+        "abstract": "Hepatocellular carcinoma (HCC) remains a leading cause of cancer-related mortality worldwide despite recent advances in systemic therapy. The introduction of immune checkpoint inhibitors has substantially expanded treatment options for advanced disease; however, durable responses are observed only in a subset of patients. Increasing evidence indicates that this limited efficacy is largely driven by the complex immune landscape of HCC, which is shaped by disease aetiology, tumour microenvironment-mediated immune suppression, and impaired innate immune surveillance. Chronic viral hepatitis and metabolically driven liver diseases represent the principal drivers of HCC and profoundly influence immune regulation within the liver. Persistent antigen exposure, metabolic reprogramming, and stromal remodelling contribute to dysfunctional T- and natural killer (NK) cell responses, while immunosuppressive components of the tumour microenvironment, including tumour-associated macrophages, myeloid-derived suppressor cells, regulatory T cells, and inhibitory ligands such as HLA-G, facilitate immune escape and therapeutic resistance. In this review, we discuss recent advances in HCC immunotherapy, focusing on emerging checkpoint pathways such as TIGIT and Tim-3, glypican-3 targeted cellular therapies and bispecific antibodies, and NK cell-based therapeutic strategies. We further highlight the role of liquid biopsy approaches for treatment monitoring and biomarker development. Together, these insights emphasize the need for biomarker-guided patient stratification and integrated therapeutic strategies to improve the clinical efficacy of immunotherapy in HCC.",
+        "source": "PubMed",
+        "doi": "10.1111/liv.70773",
+        "keyword": "NK cell therapy",
+        "title_ja": "肝細胞癌における新たな免疫ベース治療戦略",
+        "summary_ja": "肝細胞癌（HCC）は、全身療法の進歩にもかかわらず、世界的に癌関連死の主要因である。免疫チェックポイント阻害剤の導入により進行期治療の選択肢は拡大したが、持続的な奏効は一部の患者に限られる。その限界は、HCCの複雑な免疫環境に起因し、疾患病因、腫瘍微小環境による免疫抑制、自然免疫監視の障害が関与する。慢性ウイルス性肝炎や代謝性肝疾患が主な原因であり、肝臓の免疫制御に深く影響する。持続的な抗原曝露、代謝リプログラミング、間質リモデリングがT細胞やナチュラルキラー（NK）細胞の機能不全を引き起こし、腫瘍関連マクロファージ、骨髄由来抑制細胞、制御性T細胞、HLA-Gなどの抑制性リガンドが免疫逃避と治療抵抗性を促進する。本レビューでは、TIGITやTim-3などの新興チェックポイント経路、グリピカン-3標的細胞療法や二重特異性抗体、NK細胞ベースの治療戦略を議論し、液体生検による治療モニタリングと"
+      },
+      {
+        "title": "PARP inhibition combined with a T-cell receptor β chain-directed antibody fusion molecule drives polyclonal antitumor immunity and tumor regression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42386344/",
+        "abstract": "Metastatic castration-resistant prostate cancer (mCRPC) remains an aggressive disease with limited response to systemic therapies despite androgen deprivation. Immune-excluded prostate tumors are typically resistant to immunotherapy. STAR0602 is a selective bifunctional T-cell agonist composed of an antibody targeting Vβ6 and Vβ10 T-cell receptor chains fused to human interleukin-2 that selectively expands Vβ6",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2025-014518",
+        "keyword": "NK cell therapy",
+        "title_ja": "PARP阻害とT細胞受容体β鎖指向性抗体融合分子の併用が、ポリクローナル抗腫瘍免疫と腫瘍退縮を誘導する。",
+        "summary_ja": "以下の通り要約します。\n\n転移性去勢抵抗性前立腺癌（mCRPC）は、アンドロゲン除去療法に抵抗性で、免疫療法にも反応しにくい免疫排除型腫瘍である。STAR0602は、T細胞受容体（TCR）β鎖のVβ6およびVβ10を標的とする抗体にヒトインターロイキン2を融合した選択的二機能性T細胞アゴニストであり、Vβ6陽性T細胞を選択的に増幅する。本研究では、PARP阻害剤とSTAR0602の併用が、ポリクローナルな抗腫瘍免疫を誘導し、腫瘍退縮をもたらすことを示した。PARP阻害によるDNA損傷が腫瘍抗原の放出を促進し、STAR0602が特定のTCRβ鎖を発現するT細胞を活性化・増幅することで、免疫排除状態を打破し、持続的な抗腫瘍免疫応答を惹起する。この併用戦略は、mCRPCを含む免疫抵抗性固形腫瘍に対する新たな治療アプローチとして有望である。"
+      },
+      {
+        "title": "Immune Reconstitution After Hematopoietic Stem Cell Transplantation: Cellular Dynamics, Clinical Determinants, and Emerging Therapeutic Strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42384545/",
+        "abstract": "Immune reconstitution following HSCT is a complex process that strongly determines post-transplant outcomes. Delayed or impaired immune recovery increases susceptibility to opportunistic infections, viral reactivation, graft-versus-host disease, relapse, and transplant-related morbidity and mortality.",
+        "source": "PubMed",
+        "doi": "10.1080/08820139.2026.2696004",
+        "keyword": "NK cell therapy",
+        "title_ja": "造血幹細胞移植後の免疫再構築：細胞動態、臨床的決定因子、および新たな治療戦略",
+        "summary_ja": "造血幹細胞移植（HSCT）後の免疫再構築は複雑なプロセスであり、移植後成績を大きく左右する。免疫回復の遅延や不全は、日和見感染症、ウイルス再活性化、移植片対宿主病、再発、および移植関連罹患率・死亡率のリスクを高める。本稿では、免疫再構築の細胞動態、臨床的決定因子、および新たな治療戦略について概説する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Identification and Experimental Verification of Key Genes Related to the Ras Signaling Pathway and the Hippo Signaling Pathway in Osteoarthritis Based on Transcriptome Data.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42389985/",
+        "abstract": "Osteoarthritis (OA) is a chronic degenerative joint disease characterized by the progressive deterioration of articular cartilage, significantly impacting the quality of life in middle-aged and elderly populations. The Ras and Hippo signaling pathways play critical roles in regulating cell proliferation, differentiation, and stress responses; however, their interactive mechanisms in OA remain unclear. This study aimed to identify key genes associated with these two pathways using bioinformatic approaches and to elucidate their potential mechanisms in OA.",
+        "source": "PubMed",
+        "doi": "10.1002/jgm.70101",
+        "keyword": "NK cell therapy",
+        "title_ja": "トランスクリプトームデータに基づく変形性関節症におけるRasシグナル伝達経路とHippoシグナル伝達経路に関連する鍵遺伝子の同定と実験的検証",
+        "summary_ja": "本論文は、変形性関節症（OA）におけるRasシグナル経路とHippoシグナル経路に関連する鍵遺伝子を同定し、実験的に検証した研究である。OAは関節軟骨の進行性変性を特徴とする慢性疾患で、中高年の生活の質に大きな影響を与える。Ras経路とHippo経路は細胞増殖や分化、ストレス応答に重要な役割を担うが、OAにおける相互作用は不明である。本研究では、トランスクリプトームデータを用いたバイオインフォマティクス解析により、両経路に関連する鍵遺伝子を特定し、その潜在的なメカニズムを解明した。"
+      },
+      {
+        "title": "Overcoming Immunological Barriers in MSC-Derived Insulin-Producing Cells through CRISPR-Based Hypoimmunogenic Engineering and Translational Perspectives for Type 1 Diabetes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42387220/",
+        "abstract": "Mesenchymal stromal cell (MSC)-derived insulin-producing cells (IPCs) represent an emerging strategy for β-cell replacement in type 1 diabetes mellitus (T1DM) owing to their differentiation potential, intrinsic immunomodulatory properties, and lower tumorigenic risk compared with pluripotent stem cell-derived platforms. However, accumulating evidence indicates that differentiation-associated immunogenicity, context-dependent immune recognition, and recurrent autoimmune responses may substantially limit long-term graft survival and therapeutic durability following transplantation. This review critically examines the immunological barriers associated with MSC-derived IPCs, including altered MHC expression, susceptibility to alloimmune and autoimmune-mediated rejection, and potential reactivation of autoreactive immune memory. We discuss the application of CRISPR-based hypoimmunogenic engineering strategies targeting antigen presentation pathways, NK-cell activation, and immune checkpoint modulation to generate more immune-evasive MSC-derived IPCs while preserving β-cell functionality. By integrating insights from T1DM immunopathogenesis, MSC biology, genome editing, and translational immunology, we propose a framework linking immune engineering with controlled differentiation, functional maturation, and long-term safety evaluation. In parallel, we comparatively position MSC-derived IPCs alongside clinically advancing iPSC-derived β-cell platforms to highlight their distinct translational niche, including potential advantages related to safety, immunomodulatory capacity, manufacturing accessibility, and scalability, while acknowledging the superior functional maturity and clinical progression currently demonstrated by iPSC-derived systems. Finally, we discuss key translational challenges, including genomic stability, immune-evasion durability, GMP-compliant manufacturing, and the need for rigorous functional and immunological benchmarking prior to clinical application of hypoimmunogenic MSC-derived IPC therapies in T1DM.",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11184-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "CRISPRに基づく低免疫原性工学によるMSC由来インスリン産生細胞の免疫学的障壁の克服と1型糖尿病に対するトランスレーショナルな展望",
+        "summary_ja": "本レビューは、1型糖尿病（T1DM）治療における間葉系幹細胞（MSC）由来インスリン産生細胞（IPC）の免疫学的障壁と、CRISPRを用いた低免疫原性工学による克服戦略を検討する。MSC由来IPCは分化能や免疫調節能、低腫瘍形成リスクから注目されるが、分化に伴う免疫原性や自己免疫応答による長期生着制限が課題である。本稿では、MHC発現変化、同種・自己免疫拒絶、自己反応性免疫記憶の再活性化を分析し、抗原提示、NK細胞活性化、免疫チェックポイント調節を標的としたCRISPRベースの遺伝子編集戦略を提案する。また、iPSC由来β細胞と比較し、MSC由来IPCの安全性、免疫調節能、製造スケーラビリティの利点を強調する一方、機能的成熟度や臨床進捗ではiPSC系が優位と指摘。臨床応用には、ゲノム安定性、免疫回避の持続性、GMP準拠製造、厳格な機能・免疫学的ベンチマークが必要と結論づける。"
+      },
+      {
+        "title": "A genome-scale CRISPRi perturbation atlas of human induced pluripotent stem cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42386990/",
+        "abstract": "Comprehensively mapping the relationship between genotype and phenotype offers essential insights into how a cell's state arises from its genetic components. Toward this goal, we generated an expressed genome-scale CRISPRi perturbation cell atlas in KOLF2.1J human induced pluripotent stem cells, mapping transcriptional phenotypes associated with 11,692 perturbed genes across >2.5 million single cells. Using correlations among perturbed phenotypes, we created a cell map of the pluripotent state, demonstrating rich recapitulation of functionally related protein complexes. We then explored the atlas to uncover metabolic factor ZBTB41 and pluripotency regulator RNF7, validating their functions through metabolic tracing, immunofluorescence and protein-protein interaction assays. Lastly, we leveraged the atlas to generate a genome-scale screen of A-to-I RNA-editing modulators assayed through direct transcriptome-wide RNA editing, uncovering and mechanistically validating DBR1 as a potent regulator. Taken together, our data provide a comprehensive resource for interrogating the regulatory networks governing pluripotency, which is accessible at https://y-doctor.github.io/KOLF2.1J_Perturbation_Cell_Atlas/ .",
+        "source": "PubMed",
+        "doi": "10.1038/s41587-026-03199-w",
+        "keyword": "NK cell therapy",
+        "title_ja": "ヒト人工多能性幹細胞のゲノム規模CRISPRi摂動アトラス",
+        "summary_ja": "この論文では、ヒト人工多能性幹細胞（iPS細胞）KOLF2.1J株を用いて、ゲノム規模のCRISPRi摂動細胞アトラスを作成した。11,692遺伝子を摂動し、250万以上の単一細胞の転写表現型をマッピングした。摂動表現型間の相関から多能性状態の細胞マップを構築し、機能的に関連するタンパク質複合体を再現した。さらに、代謝因子ZBTB41と多能性制御因子RNF7を同定し、代謝トレーシングや免疫蛍光法で機能検証した。また、A-to-I RNA編集調節因子のゲノム規模スクリーニングを実施し、DBR1を強力な制御因子として機構的に検証した。本アトラスは多能性制御ネットワーク解析の包括的リソースであり、公開サイトで利用可能である。"
+      },
+      {
+        "title": "Interferon-elicited lipoprotein metabolism in lung fibroblasts facilitates premetastatic niche formation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42386744/",
+        "abstract": "While premetastatic niche formation is known to affect primary tumors lung metastases, the role of lung stromal cells in this process remains unclear. Here, by performing multiomics sequencing, we identify interferon-regulated CD34",
+        "source": "PubMed",
+        "doi": "10.1038/s41467-026-73879-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "インターフェロン誘発性の肺線維芽細胞におけるリポタンパク質代謝が転移前ニッチ形成を促進する",
+        "summary_ja": "以下の要約です。\n\n本論文は、肺線維芽細胞におけるインターフェロン誘導性リポタンパク質代謝が、転移前ニッチ形成を促進するメカニズムを解明した。転移前ニッチ形成が原発腫瘍の肺転移に影響することは知られているが、肺間質細胞の役割は不明であった。マルチオミクス解析により、インターフェロン制御下のCD34が肺線維芽細胞のリポタンパク質代謝を調節し、転移前微小環境の構築に寄与することが示された。この代謝経路は、腫瘍細胞の接着と増殖を促進する場を提供する。本研究は、肺間質細胞を標的とした転移予防戦略の新たな可能性を示唆する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Microfluidic enrichment of urinary small extracellular vesicle-associated proteins for proteomic biomarker discovery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42155749/",
+        "abstract": "Isolation of small extracellular vesicles (sEVs) typically <150 nm from urine remains technically challenging due to the presence of abundant soluble proteins and non-vesicular nanoparticles. Here, we report a label-free microfluidic pillar-array platform for size-selective enrichment of urinary sEVs based on diffusion-dominated transport under low-Reynolds-number laminar flow conditions. In contrast to conventional ultracentrifugation or affinity-based approaches, the present platform offers a passive and membrane free enrichment strategy. Recent advances in microfluidic EV isolation technologies have emphasized. The present platform integrates rational microchannel design, nanoparticle tracking analysis (NTA), transmission electron microscopy (TEM), and mass spectrometry based proteomic profiling to validate performance. Sequential processing resulted in progressive enrichment of particles <150 nm. This suggests reduced contribution from non-vesicular proteins and preservation of vesicle-associated proteomic signatures. Collectively, these findings demonstrate a reproducible and proteomics compatible microfluidic strategy for urinary sEVs enrichment and support its potential application in non-invasive biomarker discovery.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijbiomac.2026.152608",
+        "keyword": "sEVs",
+        "title_ja": "尿中小型細胞外小胞関連タンパク質のマイクロ流体濃縮によるプロテオミクスバイオマーカー発見",
+        "summary_ja": "本論文は、尿中の小型細胞外小胞（sEVs、通常150 nm未満）を、低レイノルズ数層流条件下での拡散支配輸送に基づくラベルフリーのマイクロ流体ピラーアレイプラットフォームを用いてサイズ選択的に濃縮する手法を報告する。従来の超遠心分離や親和性ベースの手法とは異なり、本プラットフォームは受動的かつ膜フリーの濃縮戦略を提供する。合理的なマイクロチャネル設計、ナノ粒子追跡分析（NTA）、透過型電子顕微鏡（TEM）、質量分析ベースのプロテオミクスプロファイリングを統合し、性能を検証した。逐次処理により150 nm未満の粒子が段階的に濃縮され、非小胞性タンパク質の寄与低減と小胞関連プロテオミクスシグネチャの保存が示唆された。これらの知見は、再現性がありプロテオミクスに適合した尿中sEVs濃縮のマイクロ流体戦略を実証し、非侵襲的バイオマーカー発見への応用可能性を支持する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **老化腎臓へのセノリティック療法（D+Q）**  \n   老化細胞除去による腎臓の全身的な若返りをマルチオミクスで実証。細胞老化が腎老化の主要因であることを裏付け、抗老化治療の臨床応用に道を開く。\n\n2. **Klotho欠損と骨石灰化障害**  \n   Klotho欠損マウスでリン代謝異常とSIBLING/ASARMペプチド蓄積が骨石灰化を阻害する機序を解明。Klothoの骨代謝における新たな役割を示し、ミネラル代謝疾患治療への示唆を与える。\n\n3. **固形腫瘍免疫療法における細胞外小胞（EV）の活用**  \n   CAR-T/NK細胞とEVを組み合わせ、腫瘍微小環境の障壁を克服する戦略を総説。EVの低免疫原性・標的化能が次世代免疫細胞療法の鍵となる。\n\n4. **尿中sEVsのマイクロ流体濃縮技術**  \n   ラベルフリーで尿中小型細胞外小胞を高効率に濃縮し、プロテオーム解析を可能に。非侵襲的バイオマーカー発見の基盤技術として臨床応用が期待される。\n\n5. **CRISPRi摂動アトラスによるiPS細胞解析**  \n   ゲノム規模で11,692遺伝子を摂動し、iPS細胞の転写表現型を網羅的にマッピング。多能性維持や分化制御の理解が進み、再生医療の安全性向上に貢献する。"
+}

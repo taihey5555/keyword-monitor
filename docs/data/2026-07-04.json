@@ -1,0 +1,186 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Bioelectric Modulation as a Systems-Level Adjunct to Regenerative Therapies in Facial Plastic Surgery and Hair Restoration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42392657/",
+        "abstract": "Regenerative strategies in facial plastic surgery increasingly incorporate platelet-rich fibrin, platelet-rich plasma, fat grafting, and emerging biologic agents. Despite widespread adoption, outcomes remain variable, in part due to limited control of upstream processes such as perfusion, extracellular matrix remodeling, and stem cell niche stability. To review the mechanistic basis and emerging clinical evidence supporting bioelectric modulation as a systems-level regulator of regenerative pathways relevant to facial rejuvenation, wound healing, and hair restoration. Bioelectric modulation represents a plausible investigational adjunct to biologic therapies in facial plastic surgery. Further studies are required to define efficacy, optimize treatment parameters, and evaluate long-term safety.",
+        "source": "PubMed",
+        "doi": "10.1016/j.fsc.2026.05.003",
+        "keyword": "Klotho",
+        "title_ja": "生体電気調節：顔面形成外科および毛髪再生における再生治療へのシステムレベルの補完的アプローチ",
+        "summary_ja": "顔面形成外科における再生医療では、多血小板フィブリン、多血小板血漿、脂肪移植、新興生物学的製剤が広く用いられるが、灌流、細胞外マトリックスリモデリング、幹細胞ニッチ安定性といった上流プロセスの制御が不十分なため、結果はばらつく。本論文は、顔面若返り、創傷治癒、毛髪再生に関連する再生経路のシステムレベルの調節因子として、生体電気調節のメカニズム基盤と新たな臨床エビデンスをレビューする。生体電気調節は、顔面形成外科における生物学的治療の補完的アプローチとして有望であるが、有効性の確定、治療パラメータの最適化、長期安全性の評価にはさらなる研究が必要である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Biologic Improvement of Skin: Pathways and Activation of Stem Cells, Growth Factors, and Peptides.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42392654/",
+        "abstract": "Skin aging manifests as loss of collagen, thinning of the dermis, diminished epidermal turnover, and accumulation of senescent cells. Recent advances highlight the potential of biologic therapies-including stem cell secretomes, growth factors, peptides, and exosomes-to restore skin health at the molecular and cellular level. This review summarizes peer-reviewed evidence on biologic skin improvement, with emphasis on Klotho, growth factors, exosomes, bioactive peptides (including defensins), sirtuins, and senolytic approaches. Mechanistic pathways are presented, clinical outcomes are discussed, and practical considerations for facial plastic surgery are highlighted. Takeaway points underscore the synergy of combining biologic agents with established aesthetic procedures.",
+        "source": "PubMed",
+        "doi": "10.1016/j.fsc.2026.04.003",
+        "keyword": "Klotho",
+        "title_ja": "皮膚の生物学的改善：幹細胞、成長因子、ペプチドの経路と活性化",
+        "summary_ja": "本論文は、皮膚老化におけるコラーゲン減少、真皮菲薄化、表皮ターンオーバー低下、老化細胞蓄積に対し、幹細胞セクレトーム、成長因子、ペプチド、エクソソームなどの生物学的療法の可能性をレビューする。Klotho、成長因子、エクソソーム、ディフェンシンを含む生理活性ペプチド、サーチュイン、セノリティクス（老化細胞除去）アプローチに焦点を当て、分子・細胞レベルの機序と臨床結果を提示。形成外科への実践的考察も含み、生物学的因子と既存美容術の相乗効果を強調する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Engineering single-chain variable fragments to identify pathogenic antibodies in heparin-induced thrombocytopenia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42095961/",
+        "abstract": "Heparin-induced thrombocytopenia (HIT) is characterized by the production of pathogenic antibodies that bind to complexes of platelet factor 4 (PF4) and heparin, causing platelet activation and a hypercoagulable state. A significant proportion of heparin-treated patients develop nonpathogenic anti-PF4/heparin antibodies that do not activate platelets but interfere with routine screening tests causing frequent false-positive results. We recently showed that pathogenic HIT antibodies are monoclonal and bind to an overlapping PF4 binding site, which could be exploited to identify clinically significant antibodies in patients. This study aimed to develop epitope-specific inhibitors based on the HIT-like murine monoclonal antibody (KKO) that recognizes a binding site overlapping with patient-derived pathogenic HIT antibodies on PF4. We developed a wild-type single-chain variable fragment (scFv) derived from KKO and performed site-directed mutagenesis to create a library of mutant anti-PF4/heparin scFv sequences. Five candidate scFvs were selected based on sequence enrichment after phage biopanning. We confirmed the high affinity and specific binding of these scFv fragments to PF4/heparin complexes using enzyme immunoassays (EIAs) and biolayer interferometry and demonstrated that KKO and all scFvs bind to an overlapping heparin-dependent site on PF4 by epitope mapping. Using patient sera, we demonstrated that our scFv candidates selectively inhibit the binding of pathogenic anti-PF4/heparin HIT antibodies and prevented platelet activation of some samples in the serotonin release assay. Importantly, the binding of nonpathogenic antibodies to PF4/heparin was unperturbed. These findings support the use of scFvs targeting a shared pathogenic region on PF4 to improve the diagnostic accuracy of anti-PF4/heparin EIAs for HIT.",
+        "source": "PubMed",
+        "doi": "10.1182/blood.2025031696",
+        "keyword": "PF4",
+        "title_ja": "ヘパリン起因性血小板減少症における病原性抗体を同定するための単鎖可変断片の設計",
+        "summary_ja": "ヘパリン起因性血小板減少症（HIT）は、血小板第4因子（PF4）とヘパリンの複合体に結合する病原性抗体により、血小板活性化と過凝固状態を引き起こす疾患である。非病原性抗体は血小板を活性化せず、スクリーニング検査で偽陽性の原因となる。本研究では、HIT様マウスモノクローナル抗体（KKO）由来の野生型single-chain variable fragment（scFv）を開発し、部位特異的変異導入により変異scFvライブラリを作製した。ファージバイオパンニング後、5つの候補scFvを選別し、酵素免疫測定法（EIA）とバイオレイヤー干渉法でPF4/ヘパリン複合体への高親和性と特異的結合を確認した。患者血清を用いた実験で、scFv候補は病原性HIT抗体の結合を選択的に阻害し、一部の検体で血小板活性化を抑制した。非病原性抗体の結合は影響を受けず、PF4上の共通病原性領域を標的とするscFvがHIT"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Can urinary exosomal lncRNAs HOTAIR and MALAT1 predict surgical need and outcomes in unilateral antenatal hydronephrosis?",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42397434/",
+        "abstract": "Antenatal hydronephrosis is the most common prenatal urinary tract abnormality, and some cases, mainly due to ureteropelvic junction obstruction, require surgery. Noninvasive biomarkers are needed to improve diagnosis and guide management. To evaluate urinary exosomal long non-coding RNAs, specifically MALAT1 and HOTAIR, as biomarkers for predicting surgical necessity in children with unilateral antenatal hydronephrosis, and to develop an AI-based predictive model.",
+        "source": "PubMed",
+        "doi": "10.1007/s00383-026-06439-x",
+        "keyword": "Exosomes",
+        "title_ja": "尿中エクソソーム由来のlncRNA HOTAIRおよびMALAT1は、片側性胎児水腎症における手術の必要性と転帰を予測できるか？",
+        "summary_ja": "出生前水腎症は最も一般的な胎児尿路異常であり、主に腎盂尿管移行部閉塞による一部の症例で手術が必要となる。非侵襲的なバイオマーカーが診断と管理の改善に求められている。本研究では、片側性出生前水腎症の小児における手術必要性予測のため、尿中エクソソーム長鎖非コードRNA（lncRNA）、特にMALAT1とHOTAIRを評価し、AIベースの予測モデルを開発した。"
+      },
+      {
+        "title": "Intelligent responsive alloy scaffold temporally regulates the immune-osteogenic axis for the treatment of infectious bone defects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42395337/",
+        "abstract": "Excessive immune activation induced by persistent bacterial infection, which further impairs osteogenic function, is a crucial factor contributing to the poor healing of infectious bone defects. Therapeutic strategies targeting a single link often yield limited efficacy. Therefore, we developed an alloy scaffold bone graft (TCMP) with pH-responsive sequential regulation of the immuno-osteogenic axis. During the infection phase, the scaffold mainly releases copper ions to exert potent antibacterial activity, and simultaneously releases ",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.06.033",
+        "keyword": "Exosomes",
+        "title_ja": "知能応答性合金足場が免疫-骨形成軸を時間的に制御し感染性骨欠損を治療する",
+        "summary_ja": "タイトル：感染性骨欠損治療のための免疫-骨形成軸を時間的に調節するインテリジェント応答性合金足場\n\n持続的な細菌感染による過剰な免疫活性化は骨形成機能を損ない、感染性骨欠損の治癒不良の主要因となる。単一リンクを標的とする治療戦略では効果が限定的である。そこで我々は、pH応答性により免疫-骨形成軸を逐次的に調節する合金足場骨移植材（TCMP）を開発した。感染期には、足場が主に銅イオンを放出して強力な抗菌活性を発揮すると同時に、"
+      },
+      {
+        "title": "Direct Injection of Stem Cells and Differentiated Cells: European Experience and Dubai Perspective.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42392662/",
+        "abstract": "This article reviews the clinical application of direct injection of stem cells and differentiated cells, comparing established European experience with the rapidly evolving regenerative medicine landscape in Dubai. It highlights the strongest evidence in orthopedic applications, outlines current limitations in standardization and long-term outcomes, and examines emerging technologies such as exosomes and engineered cellular therapies. Differences in regulatory frameworks and clinical adoption are discussed, emphasizing the need for continued evidence-based integration and ethical oversight in the expansion of regenerative medicine.",
+        "source": "PubMed",
+        "doi": "10.1016/j.fsc.2026.05.005",
+        "keyword": "Exosomes",
+        "title_ja": "幹細胞および分化細胞の直接注入：欧州の経験とドバイの視点",
+        "summary_ja": "本稿は、幹細胞及び分化細胞の直接注入療法の臨床応用を概説し、確立された欧州の経験と急速に発展するドバイの再生医療環境を比較する。整形外科領域で最も強力なエビデンスが示される一方、標準化と長期成績における現状の限界を指摘する。さらに、エクソソームや工学的細胞療法などの新興技術を検討し、規制枠組みと臨床導入の差異を考察する。再生医療の拡大には、継続的なエビデンスに基づく統合と倫理的監視の必要性が強調される。"
+      },
+      {
+        "title": "Evaluation of Emerging Treatments that Activate Stem Cell Pathways for Hair Growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42392659/",
+        "abstract": "Today there is a growing shift in the paradigm from restorative medicine to regenerative medicine using regenerative biologics. Additional research is occurring to help solve some of the challenges of hair regeneration. While there is not a one size fits all formula for patients, further study of biologics including PRP, exosomes, PDGF, organoids, will continue to refine approaches and improve outcomes, a thorough evaluation of these approaches with consideration of not only the components but also the delivery method is key to achieving a high degree of efficacy while maintaining patient safety at the same time.",
+        "source": "PubMed",
+        "doi": "10.1016/j.fsc.2026.04.004",
+        "keyword": "Exosomes",
+        "title_ja": "幹細胞経路を活性化する新興育毛治療法の評価",
+        "summary_ja": "本論文は、再生医療へのパラダイムシフトに伴い、毛髪再生における幹細胞経路を活性化する新興治療法を評価する。PRP、エクソソーム、PDGF、オルガノイドなどの生物学的製剤（バイオロジクス）が注目されるが、患者ごとに最適な治療法は異なる。これらのアプローチの有効性と安全性を高めるには、成分だけでなく送達方法（デリバリー法）の徹底的な評価が鍵となる。現在も研究が進行中であり、個別化された治療戦略の確立が期待される。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Serum exosomal tRNA-derived small RNAs as diagnostic biomarkers for primary Sjögren's syndrome: a combined model with autoantibodies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42397643/",
+        "abstract": "The identification of reliable biomarkers for the early diagnosis and monitoring of primary Sjögren's syndrome (pSS) remains a critical clinical need. Extracellular vesicles (EVs), which carry diverse molecular cargo, including tRNA-derived small RNAs (tsRNAs), have emerged as novel regulators of immune responses. This study aimed to profile EV-associated tsRNAs in pSS and evaluate their diagnostic potential.",
+        "source": "PubMed",
+        "doi": "10.1007/s10067-026-08203-x",
+        "keyword": "Exosomes",
+        "title_ja": "血清エクソソーム由来tRNA由来低分子RNAによる原発性シェーグレン症候群の診断バイオマーカー：自己抗体との複合モデル",
+        "summary_ja": "本研究旨在探索血清エクソソーム中のtRNA由来低分子RNA（tsRNAs）が原発性シェーグレン症候群（pSS）の診断バイオマーカーとしての可能性を評価した。pSS患者と健常者の血清エクソソームからtsRNAsをプロファイリングし、特定のtsRNAsが有意に変動していることを確認した。さらに、これらのtsRNAsと自己抗体を組み合わせた診断モデルを構築し、単独の自己抗体よりも高い診断精度を示した。本結果は、エクソソームtsRNAsがpSSの早期診断およびモニタリングにおける新規バイオマーカーとして有用であることを示唆する。"
+      },
+      {
+        "title": "Mesenchymal Stem Cell-Derived Exosomes Combined With 3-Dimensional Hyaluronan-Based Scaffold Promote Tendon-to-Bone Tunnel Healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42397317/",
+        "abstract": "Tendon-to-bone healing remains a major clinical challenge due to poor regenerative capacity at the enthesis. This study aimed to evaluate the effects of mesenchymal stem cell-derived exosomes combined with a 3-dimensional hyaluronan-based scaffold on graft healing within bone tunnels. This study was conducted in accordance with the ARRIVE (Animal Research: Reporting of In Vivo Experiments) guidelines.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jhsa.2026.05.009",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来エクソソームと3次元ヒアルロン酸ベーススキャフォールドの併用が腱-骨トンネル治癒を促進する",
+        "summary_ja": "腱骨癒合は、付着部の再生能が低いため臨床的に大きな課題である。本研究では、間葉系幹細胞由来エクソソームと3次元ヒアルロン酸ベース足場を併用し、骨トンネル内の移植片治癒への効果を評価した。実験はARRIVEガイドラインに従い実施された。"
+      },
+      {
+        "title": "Suppression of macrophage enriched miRNA 210-3p improves cardiac fibrosis and cardiac function following myocardial infarction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42396853/",
+        "abstract": "BackgroundAlthough it is well-known that immune cells such as monocytes or macrophages play important roles during the early phase of inflammatory response following cardiac damage, little is known about the role of immune cell-derived exosomes, especially their contents such as micro RNAs (miRNAs), in the immune cell-mediated regulation of cardiac remodeling. This study investigated the role of macrophage-derived exosomal miR-210-3p, which was found to be increased following cardiac damage, on cardiac fibroblast activation using a rat myocardial infarction (MI) model.MethodsCell population change in the heart following MI was assessed by single cell analysis. Differentially expressed miRNAs in the exosomes derived from THP-1 cultured under hypoxia/ischemia condition was evaluated by miRNA sequencing. The effect of macrophage exosome enriched miR-210-3p on cardiac fibroblast was examined. The effect of anti-miR-210-3p administration on the MI-induced cardiac fibrosis, cardiac function, and macrophage infiltration were evaluated.ResultsMacrophages were identified as the major type of immune cells present in the ischemic tissue following MI. miR-210a-3p was one of the 10 miRNAs increased (>10-fold) in THP-1 in response to hypoxia/ischemia condition, and it exerted pro-fibrotic effect in cardiac fibroblasts. Conditioned media of THP-1 cultured under hypoxia/ischemia condition also activated cardiac fibroblasts, and this was abrogated by anti-miR-210 treatment. Intramuscular injection of anti-miR-210-3p improved cardiac fibrosis and cardiac function 14 day after MI.ConclusionsMacrophage derived exosomes were enriched with miR-210-3p under hypoxia/ischemic condition, and they activated cardiac fibroblast. Suppression of miR-210-3p improved cardiac fibrosis and cardiac function following MI. Macrophage-derived exosomal miR-210-3p may play a significant role in the regulation of early inflammatory response following cardiac injury.",
+        "source": "PubMed",
+        "doi": "10.1177/13860291261459308",
+        "keyword": "Exosomes",
+        "title_ja": "マクロファージに豊富なmiRNA 210-3pの抑制が心筋梗塞後の心臓線維化と心機能を改善する",
+        "summary_ja": "本論文は、心筋梗塞（MI）後のマクロファージ由来エクソソーム中のmiR-210-3pの役割を検討した。ラットMIモデルを用い、低酸素/虚血条件下のTHP-1細胞由来エクソソームのmiRNAシーケンス解析により、miR-210-3pが10倍以上増加することを確認。このmiRNAは心臓線維芽細胞を活性化し、線維化を促進した。抗miR-210-3p投与により、MI後14日目の心臓線維化と心機能が改善され、マクロファージ浸潤も抑制された。以上から、マクロファージ由来エクソソームmiR-210-3pは心筋傷害後の初期炎症応答とリモデリングに重要な役割を果たし、その抑制が治療標的となり得ることが示唆された。"
+      },
+      {
+        "title": "The emerging role of piRNAs in periodontal and orthodontic tissue dynamics: Biological insights and clinical perspectives-A review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42396754/",
+        "abstract": "Inflammatory conditions of teeth and their surrounding structure lead to tissue destruction and alveolar bone loss. This review critically examines the emerging role of PIWI-interacting RNAs (piRNAs) in periodontology and orthodontic tooth movement focusing on their involvement in inflammation, bone remodeling, and cellular regulation with periodontal ligament and alveolar bone. Although piRNAs were initially characterized in reproductive biology, recent studies suggest their involvement in fundamental biological basis: Both involve inflammatory responses, bone remodeling, and the regulation of cellular activities within the periodontal ligament and alveolar bone. Traditionally, research has focused on protein-coding genes, cytokines, and signaling molecules. However, the emerging role of noncoding RNAs (ncRNAs), including microRNAs, long ncRNAs, and piRNAs, is revolutionizing the understanding of oral biology. This review highlights key findings: identification of piRNA's with relevance to oral biology (piR-63049 and piR-36741); their association with Wnt/β-catenin and BMP2/METTL3-m6A pathways; evidence supporting piRNAs as potential biomarkers in saliva/gingival crevicular fluid; and the translational potential of exosome-mediated piRNA delivery for periodontal regeneration and orthodontic modulation. piRNAs thus represent a novel regulatory component, and their potential use as diagnostic biomarkers and therapeutic targets warrants the need for further investigation to establish their functional relevance in oral health and disease.",
+        "source": "PubMed",
+        "doi": "10.1111/eos.70122",
+        "keyword": "Exosomes",
+        "title_ja": "piRNAが歯周組織と矯正組織の動態に果たす新たな役割：生物学的洞察と臨床的展望－レビュー",
+        "summary_ja": "本レビューは、歯周病や矯正的歯の移動におけるPIWI相互作用RNA（piRNA）の新たな役割を批判的に検討する。piRNAは当初、生殖生物学で特徴づけられたが、近年、歯周組織や歯槽骨における炎症、骨リモデリング、細胞調節への関与が示唆されている。従来のタンパク質コード遺伝子やサイトカインに加え、非コードRNA（ncRNA）の研究が口腔生物学を変革しつつある。本稿では、口腔生物学に関連するpiR-63049やpiR-36741の同定、Wnt/β-カテニン経路やBMP2/METTL3-m6A経路との関連、唾液や歯肉溝滲出液中のバイオマーカーとしての可能性、エクソソームを介したpiRNA送達による歯周再生や矯正治療への応用可能性を強調する。piRNAは新たな調節因子として、診断バイオマーカーや治療標的への応用が期待され、口腔健康と疾患における機能的意義の解明に向けたさらなる研究が必要である。"
+      },
+      {
+        "title": "Plant-derived extracellular vesicles as bioactive nanoplatforms: Biogenesis, therapeutic evidence, and translational challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42395865/",
+        "abstract": "Plant-derived extracellular vesicles (PDEVs) are nanoscale membrane vesicles isolated from edible or medicinal plants. They have attracted interest because they combine endogenous biological activity with the practical advantages of scalable natural nanocarriers.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbrep.2026.102688",
+        "keyword": "Exosomes",
+        "title_ja": "植物由来の細胞外小胞を活用した生体活性ナノプラットフォーム：生合成、治療的エビデンス、および橋渡し研究における課題",
+        "summary_ja": "植物由来細胞外小胞（PDEVs）は、食用・薬用植物から単離されるナノスケールの膜小胞である。内在性の生物活性と、スケーラブルな天然ナノキャリアとしての実用的利点を兼ね備え、注目を集めている。本論文は、PDEVsの生合成機構、治療エビデンス、および臨床応用への課題を概説する。生合成では、植物細胞内でのエキソソーム様小胞の形成経路が議論される。治療エビデンスとして、抗炎症、抗酸化、抗腫瘍活性などが報告され、薬物送達システムとしての可能性が示される。一方、翻訳上の課題には、単離・精製法の標準化、安定性の確保、異種間免疫応答、大量生産技術の未確立が挙げられる。PDEVsは次世代のバイオアクティブナノプラットフォームとして有望だが、臨床応用にはこれらの障壁克服が不可欠である。"
+      },
+      {
+        "title": "Photobiomodulation and Biological Pathways in Skin Regeneration and Rejuvenation: Light and Biological Activation of Skin Improvement.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42392660/",
+        "abstract": "Photobiomodulation harnesses visible and near-infrared wavelengths to modulate mitochondrial energetics and transcriptional programs that orchestrate wound repair, immune homeostasis, angiogenesis, and organized extracellular matrix remodeling. In parallel, topical or intradermal biological interventions (including exosomes, platelet-rich plasma and platelet-rich fibrin, polydeoxyribonucleotides, polynucleotides, recombinant growth factors, and bioactive peptides) deliver molecular cargo that stimulates collagen synthesis, elastin assembly, and barrier restoration. Fractional ablative and non-ablative laser systems, along with mechanical and energy-based microneedling platforms, overcome the stratum corneum barrier to facilitate substantive dermal penetration of these agents through laser-assisted drug delivery (or device-assisted drug delivery).",
+        "source": "PubMed",
+        "doi": "10.1016/j.fsc.2026.05.002",
+        "keyword": "Exosomes",
+        "title_ja": "光生体調節と皮膚再生・若返りにおける生物学的経路：皮膚改善の光と生物学的活性化",
+        "summary_ja": "光線療法（Photobiomodulation）は可視光～近赤外波長を用い、ミトコンドリア機能と転写プログラムを調節し、創傷治癒、免疫恒常性、血管新生、細胞外マトリックス再構築を促進する。一方、エクソソーム、多血小板血漿・フィブリン、ポリデオキシリボヌクレオチド、ポリヌクレオチド、組換え成長因子、生理活性ペプチドなどの生物学的介入を局所または皮内投与することで、コラーゲン合成、エラスチン形成、バリア機能回復を刺激する。フラクショナルアブレイティブ・非アブレイティブレーザーや機械的・エネルギー型マイクロニードリングは角質層を突破し、レーザー支援薬物送達（デバイス支援薬物送達）によりこれらの薬剤の真皮浸透を促進する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **尿中エクソソームlncRNAによる出生前水腎症の手術予測**  \n   非侵襲的バイオマーカーとして尿中エクソソームのHOTAIRやMALAT1が、手術必要性の予測に有用である可能性を示した。出生前水腎症は頻度の高い胎児異常であり、不要な手術を減らす臨床的価値が高い。\n\n2. **血清エクソソームtsRNAによるシェーグレン症候群診断**  \n   tRNA由来低分子RNA（tsRNAs）が自己抗体と組み合わせることで診断精度向上に寄与。従来の自己抗体検査では偽陽性・偽陰性が課題であり、新たなバイオマーカーとして期待される。\n\n3. **マクロファージ由来エクソソームmiR-210-3pと心筋梗塞後線維化**  \n   心筋梗塞後のマクロファージが放出するエクソソーム中のmiR-210-3pが心線維化を促進するメカニズムを解明。抑制により心機能改善が示され、新規治療標的として有望。\n\n4. **MSC由来エクソソームと3D足場による腱骨癒合促進**  \n   間葉系幹細胞由来エクソソームとヒアルロン酸足場の併用が、腱骨トンネル治癒を向上。整形外科領域で難治性の付着部再生に新たな戦略を提供する。\n\n5. **植物由来細胞外小胞（PDEVs）の治療応用**  \n   食用・薬用植物からのナノ小胞は、低コスト・大量生産が可能で、抗炎症・抗酸化作用を持つ。動物由来EVに代わる安全なナノキャリアとして、化粧品・医薬品への応用が加速する。\n\nこれらの研究は、エクソソームや細胞外小胞の診断・治療応用を大きく前進させ、個別化医療や再生医療の実用化に貢献する。"
+}

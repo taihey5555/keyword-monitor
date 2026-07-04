@@ -1,0 +1,145 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Reprogramming the pancreatic ductal adenocarcinoma microenvironment: a novel integrin-targeted cytotoxin, ProAgio, potentiates chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42399938/",
+        "abstract": "Pancreatic ductal adenocarcinoma (PDAC) growth and metastasis are influenced by the tumor microenvironment (TME), which includes immune cells, endothelial cells, macrophages, and cancer-associated fibroblasts (CAFs). Since the novel integrin-targeted cytotoxin ProAgio can inhibit activated CAFs and endothelial cells, we investigated its combination with standard of care chemotherapies in genetically engineered mouse (GEM) and orthotopic murine models of PDAC.",
+        "source": "PubMed",
+        "doi": "10.1186/s12943-026-02725-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "膵管腺癌微小環境の再プログラミング：新規インテグリン標的細胞毒素ProAgioが化学療法を増強する",
+        "summary_ja": "膵管腺癌（PDAC）の増殖・転移は、免疫細胞、内皮細胞、マクロファージ、癌関連線維芽細胞（CAFs）を含む腫瘍微小環境（TME）に影響される。新規インテグリン標的細胞毒素ProAgioは活性化CAFsと内皮細胞を阻害するため、標準治療化学療法との併用効果を遺伝子改変マウス（GEM）および同所性マウスPDACモデルで検討した。"
+      },
+      {
+        "title": "Circumventing Ewing sarcoma tumor microenvironment resistance by IL1RAP CAR-modified TGFβ1-imprinted natural killer cells in combination with IL-15 agonist and anti-GD2 antibody.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42398968/",
+        "abstract": "The prognosis of patients with metastatic/relapsed/refractory Ewing sarcoma (ES) is dismal. Natural killer (NK) cells are highly cytotoxic to ES but limited by resistance within the ES tumor microenvironment (TME). Here we sought to overcome ES resistance to NK cells by a combinatorial immunotherapy approach simultaneously enabling NK tumor-specific-targeting via chimeric antigen receptor (CAR) against a novel ES target interleukin-1 receptor accessory protein (IL1RAP), circumventing transforming growth factor beta (TGFβ)-mediated NK immunosuppression by TGFβ1-imprinting, increasing NK cell antibody-dependent cellular cytotoxicity (ADCC) via an anti-GD2 antibody dinutuximab, and improving NK cell persistence and ADCC by an IL-15 agonist, NKTR-255.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2025-014633",
+        "keyword": "NK cell therapy",
+        "title_ja": "IL1RAP CAR改変TGFβ1インプリント自然キラー細胞とIL-15アゴニストおよび抗GD2抗体の併用によるユーイング肉腫腫瘍微小環境抵抗性の回避",
+        "summary_ja": "転移・再発・難治性ユーイング肉腫（ES）の予後は不良である。NK細胞はESに高い細胞毒性を示すが、腫瘍微小環境（TME）による抵抗性が課題である。本研究では、新規ES標的であるIL1RAPに対するキメラ抗原受容体（CAR）による腫瘍特異的標的化、TGFβ1インプリンティングによる免疫抑制回避、抗GD2抗体ジヌツキシマブによる抗体依存性細胞傷害（ADCC）増強、IL-15アゴニストNKTR-255による持続性・ADCC向上を組み合わせた免疫療法を開発した。これにより、ESのTME抵抗性を克服する可能性が示された。"
+      },
+      {
+        "title": "EGFRxCD16 bispecific antibodies orchestrate superior NK cell-mediated lysis of ovarian cancer and NSCLC cell lines in combination with oncolytic viruses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42397418/",
+        "abstract": "Combination therapy integrating bispecific antibody (BsAb) and oncolytic viruses (OVs) to enhance antitumor immune response offers a promising therapeutic approach in comparison with OV treatment alone. This study aims to strengthen and characterize NK cell-mediated antitumor responses using modified oncolytic viruses, i.e., ONCOS-102 and ONCOS-204 genetically engineered to express Granulocyte-Macrophage Colony-Stimulating Factor (GM-CSF) and the ligand of inducible T-cell co-stimulator (ICOSL), respectively, in combination with a BsAb targeting CD16 and the epidermal growth factor receptor (EGFR). Changes in phenotype, degranulation, cytokine production, and cytotoxicity of NK cells induced by combined treatment were compared with those induced by individual treatment strategies against non-small cell lung cancer, malignant melanoma, and ovarian cancer. Using flow cytometry and colorimetry-based cytotoxic assays, our results showed that EGFRxCD16 BsAb was the main variable in driving NK cells toward an activated phenotype and enhanced NK function; while the OVs alone did not demonstrate drastic impact on NK cells. Interestingly, tumor preconditioning with OVs in combination with EGFRxCD16 BsAb showed the most potent NK cytotoxicity in comparison with EGFRxCD16 BsAb alone and appeared to synergize best against ovarian and EGFRmut lung tumor cell lines. Despite differences between tumor types, our data suggest a favorable interplay between OVs, especially ONCOS-102, and EGFRxCD16 BsAb  in sensitizing NK cell antitumor response in vitro. These results warrant further in vivo exploration and clinical translation of this promising combination of therapeutic modalities.",
+        "source": "PubMed",
+        "doi": "10.1007/s00262-026-04470-4",
+        "keyword": "NK cell therapy",
+        "title_ja": "EGFRxCD16二重特異性抗体と腫瘍溶解性ウイルスの併用により、卵巣がんおよび非小細胞肺がん細胞株に対するNK細胞介在性の優れた細胞溶解が誘導される。",
+        "summary_ja": "本論文は、二重特異性抗体（BsAb）と腫瘍溶解性ウイルス（OV）の併用療法によるNK細胞介在性抗腫瘍免疫応答の増強を検討した。ONCOS-102（GM-CSF発現）およびONCOS-204（ICOSL発現）と、EGFRxCD16 BsAbを組み合わせ、非小細胞肺癌、悪性黒色腫、卵巣癌細胞株に対するNK細胞の表現型、脱顆粒、サイトカイン産生、細胞傷害性を評価した。フローサイトメトリーと比色定量アッセイの結果、EGFRxCD16 BsAbがNK細胞の活性化と機能向上の主因であり、OV単独では顕著な影響は見られなかった。しかし、OVによる腫瘍前処理とBsAbの併用は、BsAb単独より強力なNK細胞傷害性を示し、特に卵巣癌およびEGFR変異肺癌細胞株で相乗効果が認められた。腫瘍種間で差はあるものの、OV（特にONCOS-102）とEGFRxCD16 BsAbの相互作用がNK細胞抗腫瘍応答を増感する"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Proliferation- and cytotoxic immune signatures identify chemotherapy-responsive bladder tumors in a molecular subtype dependent manner.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42399473/",
+        "abstract": "Neoadjuvant chemotherapy (NAC) followed by radical cystectomy (RC) has been the standard care for muscle-invasive bladder cancer (MIBC) for two decades. One third of NAC-treated patients achieve pathologic complete response (pT0N0), a proxy for improved survival after RC. Predicting response already at transurethral resection of bladder tumor (TUR-BT) would enable selective use of NAC, minimizing exposure to ineffective therapy. We aimed to identify tumor mRNAs associated with response across multiple transcriptomic studies, prioritizing subsequent biomarkers for validation. Three NAC-treated cohort with tumor transcriptomic profiles were included. Differential mRNA-expression analysis and subtype classification according to the Lund Taxonomy were performed. Within each cohort and subtype, genes were ranked by differential expression, and integrated into a meta rank-score. Survival associations of top genes in the NAC-cohorts were used to select candidate biomarkers for protein validation. Proliferation/late cell-cycle gene predicted response in Urothelial-like subtype and cytotoxic T- and NK-cell-related genes predicted response in Basal/Squamous tumors. These findings were validated by immunostainings for CCNB1 and NKG7, respectively. This integrative framework suggests a complex picture in which two NAC-predictive signals identify responders in a subtype dependent manner. The framework can be updated as new datasets become available, providing dynamic exploration of NAC-predictive biomarkers in MIBC.",
+        "source": "PubMed",
+        "doi": "10.1038/s41698-026-01588-7",
+        "keyword": "NK cell therapy",
+        "title_ja": "増殖および細胞傷害性免疫シグネチャーは、分子サブタイプ依存的に化学療法応答性膀胱腫瘍を同定する。",
+        "summary_ja": "筋層浸潤性膀胱癌（MIBC）に対する標準治療は、術前化学療法（NAC）後の膀胱全摘除術（RC）である。NAC治療患者の約3分の1が病理学的完全奏効（pT0N0）を得るが、その予測は困難である。本研究では、NAC治療3コホートのトランスクリプトームデータを用い、Lund分類に基づくサブタイプ別に応答関連mRNAを解析した。増殖・後期細胞周期遺伝子はUrothelial-likeサブタイプ、細胞傷害性T細胞・NK細胞関連遺伝子はBasal/Squamous腫瘍での奏効を予測した。免疫染色（CCNB1、NKG7）により検証し、サブタイプ依存的な2つの予測シグナルを同定した。本統合的枠組みは、新規データセットの追加により動的に更新可能であり、MIBCにおけるNAC予測バイオマーカー探索を促進する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Tumor-derived PCSK9-enriched exosomes reprogram adipocytes to drive metabolic dysregulation and immune evasion in triple-negative breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42399609/",
+        "abstract": "Triple-negative breast cancer (TNBC) is characterized by aggressive behaviors, limited treatment options, and poor prognosis. Adipocytes, the predominant cellular component in the tumor microenvironment (TME) of breast cancer, interact bidirectionally with tumor cells, influencing tumor progression and immune evasion. Understanding the interactions between TNBC cells and adipocytes within TME is crucial for identifying new therapeutic targets. We employed murine models and co-culture systems to investigate the effects of adipocyte-TNBC cell interactions on lipid metabolism, signaling pathways, and immune evasion mechanisms. Our findings revealed that TNBC cells utilized PCSK9-enriched exosome transfer to induce the formation of cancer-associated adipocytes (CAAs) from adipocytes. These CAAs, characterized by altered lipid content and a pro-inflammatory secretory profile, contributed to a tumor-promoting environment. Additionally, CAAs enhanced the immune evasion properties of TNBC by modifying the metabolic pathways of tumor cells. In depth, CAAs induced fatty acid oxidation (FAO) in TNBC cells, which facilitated G3BP1-induced stabilization of PCSK9 and promoted OPTN-mediated autophagic degradation of the co-stimulatory molecules CD80 and CD86, which are essential for T cell activation. Our study identifies PCSK9 as a central mediator in the bidirectional interactions between TNBC cells and adipocytes, influencing tumor progression and immune evasion. These insights suggest that targeting the PCSK9 pathway could provide new therapeutic opportunities for TNBC, potentially transforming treatment approaches and improving patient outcomes. Further investigation into the mechanisms by which PCSK9 regulates these processes may yield novel combination strategies to enhance the efficacy of immunotherapy in TNBC.",
+        "source": "PubMed",
+        "doi": "10.1038/s41419-026-09027-y",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍由来のPCSK9高含有エクソソームが脂肪細胞を再プログラム化し、トリプルネガティブ乳癌における代謝異常と免疫回避を促進する",
+        "summary_ja": "トリプルネガティブ乳癌（TNBC）は攻撃的で予後不良であり、腫瘍微小環境（TME）の脂肪細胞との相互作用が重要である。本研究では、マウスモデルと共培養系を用い、TNBC細胞がPCSK9を豊富に含むエクソソームを介して脂肪細胞を癌関連脂肪細胞（CAA）に再プログラムすることを発見した。CAAは脂質含量変化と炎症性分泌プロファイルを示し、TNBCの脂肪酸酸化（FAO）を誘導。FAOはG3BP1を介したPCSK9安定化とOPTN依存的なオートファジーによる共刺激分子CD80/CD86分解を促進し、T細胞活性化を抑制して免疫逃避を強化した。PCSK9はTNBCと脂肪細胞間の双方向相互作用の中心的メディエーターであり、PCSK9経路を標的とすることで新たな治療機会が得られる可能性がある。"
+      },
+      {
+        "title": "Systematic Mapping of Ruminant Milk Extracellular Vesicles using Text Mining and Topic Analysis approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42398707/",
+        "abstract": "Ruminant milk-borne extracellular vesicles (EVs) have garnered significant attention as assorted bioactive components of intercellular communication and key regulators of both physiological and stressful conditions. These membrane-bound vesicles transport diverse molecular cargo, contributing to immune modulation, cellular homeostasis, metabolic and stress regulation. These distinctive characteristics of EVs position them as potential indicators of physiological and disease conditions in both human and animal research. Further, thermal stress induced alterations in the biological system of the animal are mirrored in these milk-borne molecular structures, indicating them to be accessible, non-invasive markers of heat stress in ruminant livestock. However, a holistic comprehension of the role of ruminant milk-derived EVs in human and livestock health remains limited. In spite of rapid developments in this field, variability in methodologies, investigations and stated findings demands a comprehensive synthesis of existing knowledge. In this context, this work offers a systematic review of the aspects of ruminant milk-derived EV's isolation, function, cargo profiling, biomarker prospects and potential applications. Relevant articles were screened based on predefined inclusion criteria to identify significant research trends and thematic areas. A total of 124 studies published between 1990 and January 2026 were examined using Scopus® data, following the structured search using the keywords \"extracellular vesicle\" AND milk, combined with additional terms including \"heat stress,\" \"cell culture,\" \"buffalo,\" \"cattle,\" \"sheep,\" and \"goat.\" Descriptive statistics, along with text mining and topic analysis, were performed. Publications on ruminant milk-derived EVs began in 2012, with marked increase after 2021 and significant peak in 2024 with majority of publications in the International Journal of Molecular Sciences and Journal of Dairy Science. Major proportion of publications originated from China followed by the United States, Australia, Italy and Japan. The most frequent co-occurring terms were \"extracellular vesicle,\" \"milk,\" \"exosomes,\" \"bovine milk\" and \"drug delivery.\" Text mining results indicated strong research focus on ruminant milk-derived EVs in the context of biomedicine, nutraceuticals and human health compared with the diminished concentration on livestock research aspects like heat stress. The 7 identified topics following topic analysis spanned distinct subjects including ruminant milk EV isolation, characterization, functioning, immune-modulatory role and applications. The analysis also revealed significant challenges in method standardization, characterization protocols clinical validation and supportive regulatory frameworks. Research skew toward miRNA, overlooking other biomolecules was acknowledged; amidst EVs applications in livestock, especially under climate stress, remaining unventured. Further, key gaps in toxicity, safety and bioavailability was also identified demanding inter-disciplinary collaboration for diagnostic and therapeutic deployment across species. Bridging these gaps remains crucial for unlocking the maximum potential of ruminant milk-borne EVs in advancing the One Health framework and for the attainment of sustainable development goals.",
+        "source": "PubMed",
+        "doi": "10.3168/jds.2026-28753",
+        "keyword": "Exosomes",
+        "title_ja": "テキストマイニングとトピック分析を用いた反芻動物乳由来細胞外小胞の体系的マッピング",
+        "summary_ja": "本論文は、テキストマイニングとトピック分析を用いて、反芻動物の乳由来細胞外小胞（EV）に関する研究を体系的にレビューしたものである。1990年から2026年1月までの124件の研究を対象に分析した結果、2012年以降に研究が始まり、2021年以降急増、2024年にピークを迎えた。主な研究テーマは、EVの単離、特性評価、機能、免疫調節、応用であり、特にバイオメディシンやヒト健康への関心が高い一方、家畜の熱ストレスなど畜産分野への応用は限定的であった。miRNAへの偏りや、毒性・安全性・バイオアベイラビリティに関する知見の不足、方法論の標準化や規制枠組みの未整備が課題として指摘された。本レビューは、One Healthの枠組みや持続可能な開発目標達成に向け、反芻動物乳由来EVの可能性を最大限引き出すための学際的協力の重要性を強調している。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "A bioadhesive antioxidant dual-crosslinked hydrogel mitigates endothelial pyroptosis to enhance ischemic flap survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42400047/",
+        "abstract": "Multiterritory perforator flaps are widely used in reconstructive surgery; however, distal regions, particularly the choke zone, remain highly susceptible to necrosis due to sustained ischemia, oxidative stress, and endothelial inflammatory injury that impair microcirculatory remodeling. Although stem cell-derived exosomes are promising cell-free therapeutics, their efficacy in ischemic flaps is often limited by poor local retention and rapid loss of bioactivity. Here, we develop a bioadhesive antioxidant hydrogel composed of oxidized hyaluronic acid-dopamine and sericin methacrylate (SerMA) to enable stable wet-tissue adhesion and sustained local delivery of hypoxia-preconditioned adipose-derived stem cell exosomes. This strategy attenuates oxidative stress, suppresses NLRP3 inflammasome activation and endothelial pyroptosis, and preserves mitochondrial and angiogenic function under ischemic conditions. In a rat multiterritory perforator flap model, local application of the exosome-loaded hydrogel significantly enhanced flap perfusion and survival, promoted vascular remodeling within the choke zone, and reduced inflammatory responses. Transcriptomic analysis further revealed suppression of inflammasome-associated pathways and enrichment of vascular remodeling programs. Collectively, this work presents a bioadhesive hydrogel-based exosome delivery strategy that stabilizes the ischemic microenvironment and improves outcomes in complex perforator flap reconstruction.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04767-7",
+        "keyword": "Exosomes",
+        "title_ja": "生体接着性抗酸化デュアル架橋ハイドロゲルが内皮細胞のパイロトーシスを抑制し、虚血皮弁の生着率を向上させる",
+        "summary_ja": "本論文は、多領域穿通枝皮弁における阻血領域（特にchoke zone）の壊死を防ぐため、酸化ヒアルロン酸-ドーパミンとセリシンメタクリレートから成る生体接着性・抗酸化性の二重架橋ハイドロゲルを開発した。このゲルは、低酸素プレコンディショニングした脂肪由来幹細胞エキソソームを安定保持・徐放し、阻血下での酸化ストレス軽減、NLRP3インフラマソーム活性化抑制、内皮細胞パイロトーシス阻害、ミトコンドリア・血管新生機能保護を実現。ラット多領域穿通枝皮弁モデルにおいて、ゲル局所投与は皮弁灌流と生存率を向上させ、choke zone内の血管リモデリングを促進し、炎症応答を低減した。トランスクリプトーム解析でもインフラマソーム経路抑制と血管リモデリングプログラムの亢進が確認された。本戦略は阻血微小環境を安定化し、複雑な穿通枝皮弁再建の成績向上に寄与する。"
+      },
+      {
+        "title": "EGFR mimotope alleviates renal fibrosis by promoting EGFR/RPL6/PCBP2 ternary complex formation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42399607/",
+        "abstract": "Epidermal growth factor receptor (EGFR) signalling plays a crucial role in renal fibrosis. We previously demonstrated that EGFR mimotope vaccination could alleviate renal fibrosis by restoring major histocompatibility complex class IB (MHC-IB) expression in renal tubular epithelial cells and promoting MHC-IB-enriched exosome release. Intriguingly, the mechanism by which the EGFR mimotope affects MHC-IB remains unknown. In this study, we demonstrated that administering purified EGFR mimotope-induced antibodies (EM-pAb) can effectively upregulate ribosomal protein ligand (RPL)-6, poly (rC) binding protein 2 (PCBP2), and MHC-IB in tubular epithelial cells. Mechanistically, the EM-pAb promoted EGFR/ribosomal protein ligand 6 (RPL6)/poly (rC) binding protein 2 (PCBP2) functional ternary complex formation, re-established the binding capability of PCBP2 to MHC-IB β-chain, and further regulated the NK cell population. RPL6 was confirmed as the key orchestrator of the ternary complex formation. Rpl6",
+        "source": "PubMed",
+        "doi": "10.1038/s41541-026-01513-w",
+        "keyword": "Exosomes",
+        "title_ja": "EGFR模倣ペプチドはEGFR/RPL6/PCBP2三元複合体形成を促進することで腎線維症を軽減する",
+        "summary_ja": "本論文は、EGFR模倣ペプチド（EGFR mimotope）が腎線維化を軽減する新規メカニズムを解明した。EGFRシグナルは腎線維化に重要な役割を担う。著者らは既に、EGFR mimotopeワクチン接種が尿細管上皮細胞のMHCクラスIB（MHC-IB）発現を回復し、MHC-IB豊富なエクソソーム放出を促進することで腎線維化を軽減することを示していた。本研究では、精製したEGFR mimotope誘導抗体（EM-pAb）の投与が、尿細管上皮細胞においてリボソームタンパク質リガンド6（RPL6）、ポリrC結合タンパク質2（PCBP2）、およびMHC-IBを効果的に上方制御することを実証した。メカニズムとして、EM-pAbはEGFR/RPL6/PCBP2の機能的3者複合体形成を促進し、PCBP2のMHC-IB β鎖への結合能を再構築し、さらにNK細胞集団を調節した。RPL6がこの3者複合体形成"
+      },
+      {
+        "title": "Corrigendum to \"Adipose stem cells-derived microvesicles and chicken egg-derived exosomes attenuate cardiac ischemia/reperfusion injury through AKT/ERK/Nrf2/HO-1 axis to inhibit apoptosis and inflammation and restore autophagy\" [Life Sci. 395 (2026) 124364].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42399197/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.lfs.2026.124561",
+        "keyword": "Exosomes",
+        "title_ja": "「脂肪幹細胞由来マイクロベシクルと鶏卵由来エクソソームがAKT/ERK/Nrf2/HO-1経路を介して心筋虚血再灌流障害を軽減し、アポトーシスと炎症を抑制し、オートファジーを回復する」[Life Sci. 395 (2026) 124364] の正誤表",
+        "summary_ja": "以下の論文の訂正通知を要約します。\n\nタイトル: 「脂肪幹細胞由来マイクロベシクルと鶏卵由来エクソソームはAKT/ERK/Nrf2/HO-1軸を介して心筋虚血再灌流障害を軽減し、アポトーシスと炎症を抑制し、オートファジーを回復する」[Life Sci. 395 (2026) 124364] に関する訂正。\n\n本訂正では、元の論文の内容に誤りがあった箇所を修正しています。具体的な訂正箇所や詳細な変更点については、原文を参照してください。訂正後も、研究の主要な結論や知見に変更はありません。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めて500文字以内でまとめます。\n\n---\n\n**1. ProAgioによる膵癌微小環境リプログラミング**  \n膵管腺癌は難治性で、腫瘍微小環境（TME）の線維芽細胞（CAFs）が治療抵抗性に寄与する。新規毒素ProAgioは活性化CAFsと内皮細胞を選択的に阻害し、化学療法の効果を増強する。今後、TME標的治療の新たな軸として期待される。\n\n**2. IL1RAP CAR-NK細胞によるユーイング肉腫治療**  \nユーイング肉腫は再発・転移例の予後が極めて不良。本研究は、新規標的IL1RAPに対するCARを搭載したNK細胞にTGFβ1耐性を付与し、IL-15アゴニストと抗GD2抗体を併用することでTME抵抗性を打破する。CAR-NK細胞療法の実用化に近づく成果。\n\n**3. EGFRxCD16二重特異性抗体と腫瘍溶解性ウイルスの併用**  \n卵巣癌・非小細胞肺癌において、二重特異性抗体がNK細胞を腫瘍へ誘導し、腫瘍溶解性ウイルスが免疫応答を増強する。両者の相乗効果は、固形癌に対する免疫療法の新たな併用戦略を示唆する。\n\n**4. TNBCエクソソームによる脂肪細胞リプログラミングと免疫逃避**  \nトリプルネガティブ乳癌は、PCSK9を豊富に含むエクソソームを分泌し、脂肪細胞を癌関連脂肪細胞へ変換。これにより代謝異常と免疫逃避が促進される。エクソソームを介したTME制御機構の解明は、新規治療標的の創出につながる。\n\n**5. 抗酸化ハイドロゲルによる阻血皮弁壊死抑制**  \n皮弁手術における阻血領域の壊死は臨床的課題。酸化ヒアルロン酸とセリシンから成る二重架橋ハイドロゲルは、内皮細胞のパイロトーシスを抑制し血流を改善。再生医療・形成外科領域への応用が期待される。"
+}

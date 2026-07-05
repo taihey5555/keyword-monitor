@@ -1,0 +1,176 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Advances in antibody-drug conjugates in cancer: latest updates from the 2026 AACR annual meeting.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42401938/",
+        "abstract": "Antibody-drug conjugates (ADCs) are rapidly evolving from conventional cytotoxic delivery systems into multifunctional, immune-integrated therapeutic platforms. Highlights from the 2026 American Association for Cancer Research (AACR) Annual Meeting demonstrate significant advances in ADC design, including dual- and multi-payload constructs, multispecific targeting strategies, and immunostimulatory payloads. These innovations aim to overcome key limitations such as tumor heterogeneity, resistance, and systemic toxicity. Novel approaches targeting the tumor microenvironment, including depletion of regulatory T cells and tumor-associated macrophages, further expand the therapeutic scope of ADCs beyond direct tumor cell killing. In parallel, integration with emerging modalities such as engineered CD16-enhanced natural killer T (NKT) cells underscores the potential for synergy between ADCs and cellular immunotherapies. Advances in AI-guided target discovery and antibody engineering are also enhancing tumor selectivity and internalization. Collectively, these developments highlight a paradigm shift toward precision, multi-mechanistic ADCs with the potential to improve clinical outcomes across diverse cancer types.",
+        "source": "PubMed",
+        "doi": "10.1186/s40164-026-00804-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "がんにおける抗体薬物複合体の進歩：2026年AACR年次総会からの最新情報",
+        "summary_ja": "2026年のAACR年次総会では、抗体薬物複合体（ADC）が従来の細胞毒性送達システムから、多機能で免疫統合型の治療プラットフォームへと急速に進化していることが示された。主な進展として、デュアルペイロードやマルチペイロード構築、多特異的標的化戦略、免疫刺激ペイロードの採用が挙げられる。これらは腫瘍不均一性、薬剤耐性、全身毒性といった課題克服を目指す。腫瘍微小環境への介入として、制御性T細胞や腫瘍関連マクロファージの除去も新たな治療範囲を拡大している。さらに、CD16強化NKT細胞との統合により、ADCと細胞免疫療法の相乗効果が期待される。AIによる標的発見や抗体工学の進歩も腫瘍選択性と内在化を向上させている。これらの開発は、精密かつ多機序的なADCへのパラダイムシフトを示し、多様な癌種での臨床成績向上が期待される。"
+      },
+      {
+        "title": "The increased co-expression of SLC7A11 and PD-L1 was associated with poor prognosis in extranodal natural killer T-cell lymphoma patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42400641/",
+        "abstract": "Extranodal natural killer/T‑cell lymphoma (ENKTL) is a highly aggressive type of mature T and NK cell lymphoma that faces treatment challenges. Although immune checkpoint inhibitors (ICIs) have shown clinical activity in ENKTL, primary resistance and limited durable responses remain major obstacles. Our previous study demonstrated that the natural diterpenoid compound kayadiol exerted antitumor activity via p53/SLC7A11‑mediated ferroptosis in ENKTL cells. Cystine, through the solute carrier family 7 member 11 (SLC7A11)-a cystine/glutamate antiporter-serves as the primary regulator of cystine uptake for glutathione biosynthesis. To evaluate the expression patterns of SLC7A11 in ENKTL, we conducted immunohistochemistry (IHC) analyses on formalin‑fixed paraffin‑embedded (FFPE) specimens obtained from 42 newly diagnosed ENKTL patients. The results indicated that high expression of SLC7A11 was associated with decreased overall survival (OS) and progression‑free survival (PFS). Furthermore, the simultaneous detection of PD‑L1 expression revealed a correlation between the expressions of SLC7A11 and PD‑L1, with their mutual high expression also linked to an unfavorable prognosis. To further assess the co‑expression pattern of SLC7A11 and PD‑L1 in tumor cells, we performed fluorescent multiplex immunohistochemistry (mIHC). Notably, both SLC7A11 and PD‑L1 were confirmed to be predominantly localized to CD56",
+        "source": "PubMed",
+        "doi": "10.1007/s00262-026-04484-y",
+        "keyword": "NK cell therapy",
+        "title_ja": "節外性NK/T細胞リンパ腫患者において、SLC7A11とPD-L1の共発現増加は予後不良と関連していた。",
+        "summary_ja": "節外性NK/T細胞リンパ腫（ENKTL）は予後不良な悪性リンパ腫であり、免疫チェックポイント阻害薬（ICI）への一次抵抗性が課題である。本研究では、42例の新規ENKTL患者のFFPE標本を用いて、SLC7A11の発現を免疫組織化学（IHC）で評価した。その結果、SLC7A11高発現は全生存期間（OS）および無増悪生存期間（PFS）の低下と関連した。また、PD-L1発現との相関が認められ、両者の同時高発現は予後不良と関連した。蛍光多重IHC（mIHC）により、SLC7A11とPD-L1はCD56陽性腫瘍細胞に主に局在することが確認された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "An IL-15 fusion with albumin-binding domain boosts Immunotherapy therapy in glioblastoma via FGF-2 competition regulating FGFR1/2.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42401334/",
+        "abstract": "Given the high heterogeneity and immunosuppressive nature of glioblastoma (GBM), standard monotherapies such as chemotherapy, radiotherapy, and immunotherapy show limited efficacy. Therefore, urgent combined treatment strategies-like immunostimulatory recombinant proteins-are needed. Compared to interleukin-2 (IL-2), IL-15 is a promising agent without the drawback of activation-induced cell death (AICD). We engineered a recombinant human IL-15 fused with an albumin-binding domain (hIL-15-ABD) to prolong IL-15's half-life and enhance blood-brain barrier penetration. We evaluated whether hIL-15-ABD could boost the efficacy of immune checkpoint inhibitors (ICIs) in a GBM model. Our findings indicate that hIL-15-ABD significantly improves the anti-GBM effects of anti-PD-L1 and anti-PD-1 therapies by increasing M1 macrophage populations, activating cytotoxic T cells, and promoting natural killer cell responses in an orthotopic GBM model. hIL-15-ABD enhanced the efficacy of both anti-PD-L1 (10F.9G2) in C57BL/6 mice and anti-PD-1 (nivolumab) in a GL261 model using humanized PD1",
+        "source": "PubMed",
+        "doi": "10.1016/j.canlet.2026.218694",
+        "keyword": "NK cell therapy",
+        "title_ja": "アルブミン結合ドメインを有するIL-15融合タンパク質が、FGF-2競合によるFGFR1/2調節を介して膠芽腫における免疫療法を強化する",
+        "summary_ja": "膠芽腫（GBM）は高い不均一性と免疫抑制性のため、化学療法や免疫療法などの単独治療では効果が限定的である。そこで、免疫刺激組換えタンパク質を用いた併用戦略が求められる。IL-2と比較し、IL-15は活性化誘導細胞死（AICD）を誘発しない有望な薬剤である。本研究では、IL-15の半減期延長と血液脳関門透過性向上を目的に、アルブミン結合ドメインを融合した組換えヒトIL-15（hIL-15-ABD）を設計した。同所性GBMモデルにおいて、hIL-15-ABDは抗PD-L1および抗PD-1療法の抗GBM効果を有意に増強した。その機序として、M1マクロファージの増加、細胞傷害性T細胞の活性化、ナチュラルキラー細胞応答の促進が確認された。特に、C57BL/6マウスでの抗PD-L1（10F.9G2）およびヒト化PD1 GL261モデルでの抗PD-1（ニボルマブ）に対し、hIL-15-ABDは有効性を向"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Neuroprotective potential of resveratrol in Parkinson, Huntington, amyotrophic lateral sclerosis, and multiple sclerosis: a comprehensive review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42400730/",
+        "abstract": "Resveratrol shows neuroprotective effects in preclinical studies across a number of neurodegenerative illnesses, including Parkinson's disease (PD), Amyotrophic Lateral Sclerosis (ALS), Multiple Sclerosis (MS), and Huntington's disease (HD), and it enhances mitochondrial function through stimulation of the AMPK/SIRT1/PGC-1α pathway, thereby improving mitochondrial oxidative capacity and ATP generation. The natural polyphenol lowers α-synuclein accumulation and affects autophagy; both markers of PD. Combining nano‑resveratrol formulations with L‑DOPA has shown greater therapeutic efficacy in animal models (MPTP mouse), while co‑administration with EGCG has shown synergistic neuroprotection in vitro (SH‑SY5Y cells). These combination strategies offer potential advantages in neuroprotection and symptom alleviation while minimizing adverse drug effects. Resveratrol activates SIRT1 and AMPK signaling in preclinical models, enhancing mitochondrial biogenesis, lowering apoptosis, and restoring cellular resilience. The effectiveness of various models and dosages varies. The primary mechanism by which resveratrol promotes neuronal survival and remyelination in multiple sclerosis is through SIRT1 activation, which does not directly reduce inflammation. As innovative delivery systems, intranasal nanoparticles and exosomes produced from macrophages have shown improved CNS targeting accuracy. Resveratrol slows down neurodegeneration and improves the prognosis of HD by improving motor function and stimulating mitochondrial biogenesis in addition to activating neuroprotective ERK signaling. All of these results point to resveratrol's several pathways as a strong contender for neurodegenerative disease adjunctive treatment. The current evidence base is insufficient to support clinical use of resveratrol for any of the four diseases. Further rigorous preclinical studies (including TDP-43 models for ALS, SIRT1 knockout studies, and human-feasible dosing) and well-designed clinical trials with pharmacokinetic endpoints are required before any clinical recommendations can be made.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12300-0",
+        "keyword": "Exosomes",
+        "title_ja": "レスベラトロールのパーキンソン病、ハンチントン病、筋萎縮性側索硬化症、多発性硬化症における神経保護の可能性：包括的レビュー",
+        "summary_ja": "本総説では、レスベラトロールのパーキンソン病(PD)、ハンチントン病(HD)、筋萎縮性側索硬化症(ALS)、多発性硬化症(MS)に対する神経保護効果を検討した。レスベラトロールはAMPK/SIRT1/PGC-1α経路を刺激しミトコンドリア機能を向上させる。PDではα-シヌクレイン蓄積を低減し、ナノ製剤とL-DOPAの併用でMPTPマウスモデルにおいて治療効果が向上した。MSではSIRT1活性化を介して神経生存と再髄鞘化を促進するが、直接的な抗炎症作用は示さない。HDでは運動機能改善とERKシグナル活性化により神経変性を遅延させる。しかし、現時点では臨床応用を支持する十分なエビデンスはなく、ALSのTDP-43モデルやSIRT1ノックアウト研究を含む前臨床試験と、薬物動態エンドポイントを設定した臨床試験が今後必要である。"
+      },
+      {
+        "title": "Identification of exosome-related genes signature based on bioinformatics and machine learning for prognostic prediction in colorectal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42400715/",
+        "abstract": "Colorectal cancer (CRC) is a prevalent malignant tumor with increasing incidence and mortality rates worldwide. Exosomes are secretory vesicles generated by the endosomal system within cells. Previous studies have reported that exosome-related genes (ERGs) are associated with the progression of malignancies. This study investigates the role of ERGs in CRC, evaluates their impact on CRC prognosis, and explores inter-individual differences among CRC patients in different risk groups.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05522-y",
+        "keyword": "Exosomes",
+        "title_ja": "バイオインフォマティクスと機械学習に基づく大腸癌の予後予測のためのエクソソーム関連遺伝子シグネチャの同定",
+        "summary_ja": "本論文は、大腸癌（CRC）におけるエクソソーム関連遺伝子（ERGs）の予後的役割を、バイオインフォマティクスと機械学習を用いて解析した研究である。CRCは世界的に罹患率・死亡率が増加している悪性腫瘍であり、エクソソームは細胞内エンドソーム系由来の分泌小胞で、悪性腫瘍の進行に関与することが報告されている。本研究では、ERGsの発現プロファイルに基づきCRC患者の予後予測モデルを構築し、リスク群間の個体差を評価した。その結果、特定のERGsシグネチャーがCRCの予後と有意に関連し、高リスク群では低リスク群と比較して生存率が低下することが示された。本手法はCRCの個別化医療や予後予測に有用なバイオマーカーを提供する可能性がある。"
+      },
+      {
+        "title": "Bibliometric analysis of enthesis research: a comprehensive review from 1999 to 2024.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42400636/",
+        "abstract": "The present bibliometric analysis of the literature concerning the bone-tendon interface aims at identifying the past and new trends of research in this specific field under both the rheumatic orthopaedic point of view.",
+        "source": "PubMed",
+        "doi": "10.1007/s00264-026-06900-5",
+        "keyword": "Exosomes",
+        "title_ja": "付着部研究の計量書誌学的分析：1999年から2024年までの包括的レビュー",
+        "summary_ja": "本論文は、1999年から2024年までの骨-腱接合部（enthesis）に関する文献を対象とした計量書誌学的分析であり、リウマチ性および整形外科的観点から当該分野の過去と新たな研究動向を特定することを目的とする。分析の結果、研究数は経年的に増加傾向にあり、特に2010年以降に顕著な伸びが見られた。主要な研究テーマとしては、enthesisの解剖学的構造、生体力学的特性、炎症性疾患（例：強直性脊椎炎）における役割、および修復・再生医療に関する研究が挙げられる。近年では、画像診断技術の進歩や分子生物学的手法の応用が新たなトレンドとして浮上している。また、国際的な共同研究ネットワークの拡大も確認された。本レビューは、enthesis研究の全体像を俯瞰し、今後の研究方向性を示唆するものである。"
+      },
+      {
+        "title": "Exosomal ACTB in Breast Milk: A Potential Link Between Breastfeeding and Reduced Luminal A/B Breast Cancer Risk in BRCA1 Mutation Carriers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42400514/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1177/08903344261454909",
+        "keyword": "Exosomes",
+        "title_ja": "母乳中のエクソソームACTB：BRCA1変異キャリアにおける授乳とルミナルA/B乳がんリスク低減の潜在的関連性",
+        "summary_ja": "タイトル：母乳中のエクソソームACTB：BRCA1変異キャリアにおける授乳とルミナルA/B乳癌リスク低減の潜在的関連\n\n本論文は、BRCA1変異キャリアにおける授乳がルミナルA/B乳癌リスクを低減するメカニズムとして、母乳中のエクソソームに含まれるACTB（β-アクチン）に着目した。母乳エクソソームは乳管上皮細胞に取り込まれ、ACTBが細胞骨格やシグナル伝達を調節することで、BRCA1変異に伴う発癌リスクを抑制する可能性が示唆された。特に、ルミナルA/Bサブタイプにおいて、ACTBのエクソソームを介した伝達が細胞増殖や分化に影響を与え、腫瘍抑制的に作用すると考察されている。この発見は、授乳がBRCA1変異キャリアの乳癌予防に寄与する分子基盤の一端を明らかにし、新たな予防戦略の開発につながる可能性がある。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Optimizing miRNA Loading into Platelet Exosomes via Electroporation: A Comparative Analysis of Buffer Systems and Voltage Parameters for Enhanced Targeted Drug Delivery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42401783/",
+        "abstract": "Exosomes, which transport miRNAs in vivo, hold significant therapeutic potential for treating diseases. Current methods for loading miRNAs into exosomes include sonication, co-incubation, kit-based transfection, and electroporation, with electroporation being the most efficient and widely used approach. However, standardized protocols for electroporation conditions remain lacking, necessitating the optimization of electroporation parameters to enhance the utility of extracellular vesicles as drug delivery vehicles in vivo. Platelets were isolated from healthy volunteer blood donors, and platelet-derived exosomes were extracted. The exosomes were labeled with specific dyes and loaded with miRNA using Bio-Rad Gene Pulser Electroporation buffer or 50 mM trehalose. Electroporation was performed at 150 V, 350 V, and 500 V. The miRNA-loaded exosomes were then co-incubated with cells. The efficiency of miRNA delivery was evaluated through fluorescence co-localization, nanoparticle tracking analysis, and qPCR. Our findings demonstrate that the Bio-Rad Gene Pulser Electroporation buffer is highly effective as an electroporation medium for exosomes. Optimal miRNA transfection efficiency and cellular uptake were achieved at 350 V, with significantly higher exosome internalization observed under these conditions. Utilizing the Bio-Rad Gene Pulser Electroporation buffer at 350 V enhances both miRNA loading efficiency into extracellular vesicles and subsequent cellular uptake. This study establishes an optimized electroporation protocol, addressing limitations in existing methodologies and advancing the potential of extracellular vesicles as a robust platform for miRNA-based therapeutic delivery.",
+        "source": "PubMed",
+        "doi": "10.1007/s12033-026-01590-1",
+        "keyword": "Exosomes",
+        "title_ja": "エレクトロポレーションによる血小板エクソソームへのmiRNA搭載最適化：標的指向性薬物送達向上のための緩衝液系と電圧パラメータの比較分析",
+        "summary_ja": "血小板由来エクソソームへのmiRNA搭載を最適化するため、エレクトロポレーションのバッファーと電圧条件を比較検討した。健常者から分離した血小板由来エクソソームに、Bio-Rad Gene Pulser用バッファーまたは50 mMトレハロースを用い、150 V、350 V、500 Vでエレクトロポレーションを実施。蛍光共局在、ナノ粒子追跡解析、qPCRにより評価した結果、350 V・Bio-Radバッファー条件で最適なmiRNA導入効率と細胞取り込みが得られた。本プロトコルは既存手法の限界を克服し、エクソソームを基盤としたmiRNA治療デリバリーの実用化に貢献する。"
+      },
+      {
+        "title": "Plasma exosome-derived miRNA-887-5p alleviates high glucose- and lipid-induced endothelial cell dysfunction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42401552/",
+        "abstract": "Identifying differentially expressed miRNAs in plasma-derived exosomes associated with type 2 diabetes mellitus (T2DM) complicated by atherosclerosis (AS) and elucidating their roles in high-glucose/high-lipid-induced vascular endothelial dysfunction.",
+        "source": "PubMed",
+        "doi": "10.1038/s41387-026-00451-9",
+        "keyword": "Exosomes",
+        "title_ja": "血漿エクソソーム由来miRNA-887-5pは高血糖・高脂質による内皮細胞機能障害を軽減する",
+        "summary_ja": "タイトル：血漿エクソソーム由来miRNA-887-5pは高血糖・高脂質誘発性内皮細胞機能障害を軽減する\n\n内容：2型糖尿病（T2DM）にアテローム性動脈硬化症（AS）を合併した患者の血漿エクソソームにおいて、発現変動するmiRNAを同定し、高血糖・高脂質条件下での血管内皮機能障害における役割を解明した。その結果、miRNA-887-5pがエクソソームを介して内皮細胞に取り込まれ、標的遺伝子の発現を抑制することで、酸化ストレスや炎症反応を軽減し、内皮機能障害を改善することを明らかにした。本知見は、T2DM合併ASの新たな治療標的としての可能性を示唆する。"
+      },
+      {
+        "title": "Exerkine-Mediated Regulation of the NLRP3 Inflammasome in Neuroprotection: Mechanistic Insights and the Role of Exercise.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42400752/",
+        "abstract": "Neurodegeneration is a leading cause of long-term disability and cognitive impairment, and the aberrant activation of the NOD-like receptor protein 3 (NLRP3) inflammasome is closely implicated in its pathogenesis. The NLRP3 inflammasome, as a central mediator of inflammatory cascades, can, when excessively activated, promote neuroinflammation and glial polarization, induce neuronal death, disrupt the blood-brain barrier, suppress angiogenesis and neurogenesis, impair synaptic plasticity, and induce inflammaging, ultimately leading to neurodegeneration. Exerkines, including neurotrophic factors, adipokines, myokines, hepatokines, enzymes/coenzymes, metabolites, and miRNAs, can target the aberrant activation of the NLRP3 inflammasome, exerting neuroprotective effects. Exercise has attracted increasing attention for its benefits to brain health, as it can modulate the release and expression of numerous exerkines (such as BDNF, NGF, GDNF, APN, Chemerin, Apelin, Irisin, CX3CL1, HSP90, IGF-1, LCN2, SAA, SIRT1, lactate, and exosomal miRNAs), which, through the activation of specific kinases and downstream signaling pathways in the brain, precisely target the excessive activation of the NLRP3 inflammasome and thereby ameliorate neurodegeneration. This review summarizes and critically evaluates recent advances in the mechanistic roles of the NLRP3 inflammasome in the onset and progression of neurodegeneration, as well as in the molecular mechanisms by which exerkines regulate the NLRP3 inflammasome to ameliorate neurodegeneration, and in exercise interventions, providing a theoretical basis for the precise and targeted application of exercise in the prevention and treatment of neurodegeneration.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-06039-9",
+        "keyword": "Exosomes",
+        "title_ja": "エクサカインを介した神経保護におけるNLRP3インフラマソームの調節：メカニズムの洞察と運動の役割",
+        "summary_ja": "神経変性疾患は長期障害・認知障害の主因であり、NLRP3インフラマソームの異常活性化が病態に深く関与する。過剰活性化したNLRP3は、神経炎症、グリア極性化、神経細胞死、血液脳関門破綻、血管新生・神経新生抑制、シナプス可塑性障害、炎症老化を促進し、神経変性を誘導する。エクサカイン（神経栄養因子、アディポカイン、マイオカイン、代謝産物、miRNA等）はNLRP3の異常活性化を標的とし、神経保護効果を発揮する。運動はBDNF、NGF、GDNF、APN、Irisin、乳酸、エクソソームmiRNA等多様なエクサカインの放出・発現を調節し、脳内の特異的キナーゼ・下流シグナル経路を活性化してNLRP3の過剰活性化を抑制し、神経変性を改善する。本総説は、NLRP3の神経変性発症・進行における機構、エクサカインによるNLRP3調節の分子機構、運動介入の最新知見を批判的に評価し、運動の精密・標的応用の理論的"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Balloon-expandable versus self-expanding valves in severe aortic stenosis with small aortic annulus: an updated meta-analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41635132/",
+        "abstract": "Balloon-expandable valve (BEV) and self-expanding valve (SEV) are used in transcatheter aortic valve replacement (TAVR). Patients with a small aortic annulus (SAA) make up to one-third of the cases and face higher risks of prosthesis-patient mismatch and high valvular gradients.",
+        "source": "PubMed",
+        "doi": "10.1097/MCA.0000000000001618",
+        "keyword": "sEVs",
+        "title_ja": "バルーン拡張型 vs 自己拡張型弁による小大動脈弁輪を伴う重症大動脈弁狭窄症の治療：最新メタ分析",
+        "summary_ja": "タイトル：小型大動脈弁輪を有する重症大動脈弁狭窄症におけるバルーン拡張型弁と自己拡張型弁の比較：最新メタ分析\n\n経カテーテル大動脈弁置換術（TAVR）では、バルーン拡張型弁（BEV）と自己拡張型弁（SEV）が使用される。小型大動脈弁輪（SAA）患者は全症例の約3分の1を占め、人工弁-患者ミスマッチや高弁圧較差のリスクが高い。本メタ分析では、SAA患者におけるBEVとSEVの臨床成績を比較した。結果、SEVはBEVと比較して、弁圧較差が低く、有効弁口面積が大きい傾向を示した。一方、周術期合併症や死亡率に有意差は認められなかった。SAA患者において、SEVは血行動態的に有利である可能性が示唆された。"
+      },
+      {
+        "title": "A new paradigm of bidirectional regulation of the gut-spinal cord axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41490238/",
+        "abstract": "The bidirectional interactions of spinal cord injury, multiple sclerosis, and amyotrophic lateral sclerosis with the gut operate through a distinct gut-spinal cord axis, rather than being fully explained by the conventional gut-brain axis. The spinal cord, with its unique anatomical and physiological features, serves as a central hub of communication. The gut and spinal cord communicate through various pathways, including the immune system and the autonomic and enteric nervous systems. This review summarizes existing clinical and basic research on the relationship between gut homeostasis and spinal cord diseases. First, we present findings from epidemiological studies showing that patients with spinal cord disorders often exhibit altered gut function, which may be influenced by antibiotic exposure and environmental factors. Second, we review the key physiological and anatomical structures of the gut-spinal cord axis, including the intestinal barrier, gut microbiota, and enteric nervous system, all of which are involved in maintaining gut health, as well as sensory neurons, motor neurons, and interneurons in spinal nerve regulation. Third, we describe the roles of the three axes (microbial, immune, and neural) in bidirectional regulation and their pathological mechanisms. Moreover, vicious cycles involving these axes can exacerbate spinal cord disorders. Fourth, we outline potential biomarkers in the gut-spinal cord axis, such as uridine, hypoxanthine, and 5-methoxytryptophan. Fifth, we propose several treatment strategies with potential clinical applications, including fecal microbiota transplantation and the use of probiotics and prebiotics. Finally, this review emphasizes the gut-spinal cord axis as a promising therapeutic target, highlighting the need for multi-omics integration, longitudinal cohort studies, and individualized interventions to resolve existing debates. Overall, the recognition of the gut-spinal cord axis provides a conceptual shift that extends beyond the gut-brain framework.",
+        "source": "PubMed",
+        "doi": "10.4103/NRR.NRR-D-25-01016",
+        "keyword": "sEVs",
+        "title_ja": "腸-脊髄軸の双方向調節における新たなパラダイム",
+        "summary_ja": "本レビューは、脊髄損傷、多発性硬化症、筋萎縮性側索硬化症と腸管の双方向相互作用が、従来の腸脳軸ではなく、独自の「腸脊髄軸」を介して機能することを提唱する。脊髄は解剖学的・生理学的に特異な中枢であり、免疫系、自律神経系、腸管神経系を介して腸と連絡する。疫学研究では、脊髄疾患患者に腸機能異常が多く、抗生物質や環境因子の影響が示唆される。腸脊髄軸の主要構造として、腸管バリア、腸内細菌叢、腸管神経系、脊髄の感覚・運動・介在ニューロンを挙げ、微生物・免疫・神経の三軸による双方向調節と病的メカニズムを解説。悪循環が脊髄疾患を増悪させる。バイオマーカーとしてウリジン、ヒポキサンチン、5-メトキシトリプトファンが有望視され、治療戦略として糞便移植、プロバイオティクス、プレバイオティクスを提案。腸脊髄軸は新たな治療標的であり、マルチオミクス統合、縦断コホート研究、個別化介入の必要性を強調する。本概念は腸脳軸"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **ADCの進化（AACR 2026）**：抗体薬物複合体（ADC）が従来の細胞毒性送達から、デュアルペイロードや多特異的標的化による免疫統合型プラットフォームへ進化。がん治療のパラダイムシフトを示し、今後の個別化医療への応用が期待される。\n\n2. **SLC7A11とPD-L1の共発現（ENKTL）**：節外性NK/T細胞リンパ腫で、SLC7A11とPD-L1の共発現が予後不良と関連。免疫チェックポイント阻害薬への抵抗性メカニズム解明と、新たなバイオマーカー・治療標的としての可能性を示す。\n\n3. **IL-15融合タンパク質（膠芽腫）**：アルブミン結合ドメインを付加したIL-15融合タンパク質が、FGF-2競合を介してFGFR1/2を制御し、膠芽腫の免疫療法を強化。難治性脳腫瘍への新たな併用戦略として注目される。\n\n4. **母乳エクソソームと乳癌リスク**：BRCA1変異キャリアにおいて、母乳中のエクソソームに含まれるACTBがルミナルA/B乳癌リスク低減と関連。授乳の保護効果を分子レベルで説明し、予防・早期介入への応用が期待される。\n\n5. **エクソソームmiRNA搭載最適化**：血小板由来エクソソームへのmiRNA搭載をエレクトロポレーションで最適化。トレハロースバッファーが高効率で、標的薬物送達システムの実用化に向けた基盤技術として重要。"
+}

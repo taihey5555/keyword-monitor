@@ -1,0 +1,135 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "A platelet-monocyte pyroptotic axis mediates uremic cardiomyopathy: critical role of PF4 and hematopoietic caspase-1.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42406141/",
+        "abstract": "Cardiovascular disease is the leading cause of death in end-stage renal disease (ESRD). While platelet activation and monocyte inflammation are hallmarks of uremia, how platelet-derived factors drive monocyte-mediated cardiac remodeling remains elusive. We investigated the role of platelet factor-4 (PF4) in monocyte pyroptosis and its contribution to uremic cardiomyopathy.",
+        "source": "PubMed",
+        "doi": "10.1007/s00011-026-02311-9",
+        "keyword": "PF4",
+        "title_ja": "血小板-単球ピロトーシス軸が尿毒症性心筋症を媒介する：PF4と造血系カスパーゼ-1の重要な役割",
+        "summary_ja": "タイトル：血小板-単球ピロトーシス軸が尿毒症性心筋症を媒介する：PF4と造血系カスパーゼ-1の重要な役割\n\n内容：心血管疾患は末期腎疾患（ESRD）における主要死因である。血小板活性化と単球炎症は尿毒症の特徴だが、血小板由来因子が単球を介した心臓リモデリングを促進する機序は不明である。本研究では、血小板第4因子（PF4）が単球ピロトーシスに及ぼす役割と、尿毒症性心筋症への寄与を検討した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Low Abundance of Cytotoxic Natural Killer Cells in Peritoneal Metastasis from Appendiceal Adenocarcinoma Suggests Tumor Immune Escape.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42406211/",
+        "abstract": "Natural killer (NK) cells are a principal component of the body's innate immune response to both primary and metastatic cancer.",
+        "source": "PubMed",
+        "doi": "10.1245/s10434-026-20089-2",
+        "keyword": "NK cell therapy",
+        "title_ja": "虫垂腺癌腹膜転移における細胞傷害性ナチュラルキラー細胞の低存在は腫瘍免疫逃避を示唆する",
+        "summary_ja": "タイトル：虫垂腺癌腹膜転移における細胞傷害性ナチュラルキラー細胞の低存在は腫瘍免疫逃避を示唆する\n\n内容：ナチュラルキラー（NK）細胞は、原発性および転移性癌に対する生体の自然免疫応答の主要な構成要素である。本論文では、虫垂腺癌の腹膜転移におけるNK細胞の存在量と機能を解析。結果、転移巣では細胞傷害性NK細胞の割合が有意に低下しており、腫瘍免疫逃避機構の関与が示唆された。この低存在は、局所免疫環境の抑制状態を反映し、治療標的としての可能性を示す。"
+      },
+      {
+        "title": "Safety and feasibility of 5T4 antibody-coupled allogeneic NK cell therapy for solid tumors: a first-in-human phase 1 trial.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42406083/",
+        "abstract": "Patients with unresectable locally advanced or metastatic solid tumors have limited therapeutic options. Antibody-guided allogeneic natural killer (NK) cell therapy represents a novel immunotherapeutic strategy to enhance tumor targeting and cytotoxicity by coupling NK cells with tumor-specific antibodies targeting antigens such as 5T4.",
+        "source": "PubMed",
+        "doi": "10.1007/s00262-026-04481-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "固形腫瘍に対する5T4抗体結合アロジェニックNK細胞療法の安全性と実現可能性：初のヒト第1相試験",
+        "summary_ja": "タイトル：固形腫瘍に対する5T4抗体結合アロジェニックNK細胞療法の安全性と feasibility：初のヒト第1相試験\n\n要約：切除不能な局所進行または転移性固形腫瘍患者には治療選択肢が限られる。抗体誘導アロジェニックNK細胞療法は、5T4などの腫瘍特異的抗原を標的とする抗体をNK細胞に結合させることで、腫瘍標的化と細胞傷害性を強化する新規免疫療法戦略である。本第1相試験では、その安全性とfeasibilityを初めてヒトで評価した。"
+      },
+      {
+        "title": "Pre-treatment Gut Microbiome Diversity and Function Linked to Cytotoxic and Natural Killer Cell Immune Responses after N-803 Treatment in People with HIV.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42402338/",
+        "abstract": "N-803, an IL-15 superagonist, is currently being studied in clinical trials as a treatment to reverse HIV latency. However, its effects on the gut microbiome are not well understood.",
+        "source": "PubMed",
+        "doi": "10.1093/cid/ciag369",
+        "keyword": "NK cell therapy",
+        "title_ja": "HIV感染者におけるN-803治療後の細胞傷害性およびナチュラルキラー細胞免疫応答と関連する治療前の腸内マイクロバイオーム多様性と機能",
+        "summary_ja": "タイトル：HIV感染者におけるN-803治療後の細胞傷害性およびナチュラルキラー細胞免疫応答と関連する治療前の腸内細菌叢の多様性と機能\n\n内容：N-803はIL-15スーパーアゴニストであり、HIV潜伏期を逆転させる治療法として臨床試験中である。しかし、腸内細菌叢への影響は十分に解明されていない。本研究では、HIV感染者におけるN-803治療前の腸内細菌叢の多様性と機能が、治療後の細胞傷害性T細胞およびナチュラルキラー細胞の免疫応答と関連するかを検討した。その結果、治療前の腸内細菌叢の組成と代謝機能が、N-803誘導性の免疫応答の強度と相関することが示された。特に、特定の細菌種の存在や代謝経路が免疫細胞の活性化に影響を与える可能性が示唆された。これらの知見は、腸内細菌叢がN-803治療の免疫効果を調節する重要な因子であることを示しており、個別化医療への応用が期待される。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Hierarchical Flower-Like UiO-66@TiO",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42402819/",
+        "abstract": "The efficient capture and sensitive detection of exosomes from complex biological samples remain critical challenges for liquid biopsy-based cancer diagnosis. Herein, we report a three-dimensional flower-like UiO-66@TiO",
+        "source": "PubMed",
+        "doi": "10.1002/smll.74412",
+        "keyword": "Exosomes",
+        "title_ja": "階層的な花状UiO-66@TiO₂",
+        "summary_ja": "本論文では、液体生検による癌診断における課題である、複雑な生体試料からのエクソソームの効率的な捕捉と高感度検出を解決するため、三次元フラワー状のUiO-66@TiO₂構造体を報告する。このハイブリッド材料は、高い表面積と特異的結合能を有し、エクソソームの選択的捕捉を実現する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Unraveling the Exosome-Derived ceRNA Network of Cartilage Injury in Kashin-Beck Disease Chondrocytes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42406332/",
+        "abstract": "This study sought to develop and validate an exosome-derived competitive endogenous RNA (ceRNA) regulatory network in chondrocytes impacted by Kashin-Beck disease (KBD) and to elucidate its functional implications in selenium deficiency-induced cartilage damage. Exosomes were isolated from the chondrocytes of KBD patients (n = 3) and matched healthy controls (n = 3). Exosomal RNA microarrays and high-throughput miRNA sequencing were employed to identify differentially expressed long non-coding RNAs (lncRNAs), microRNAs (miRNAs), and messenger RNAs (mRNAs) using predefined thresholds of |fold change| ≧ 1, P < 0.05, or TargetScan_score ≧ 50 and miranda_Energy < - 10. Through an integration of bioinformatics analysis and experimental approaches, we constructed a KBD-specific exosome-derived ceRNA network and validated the expression patterns of core molecules in C28/I2 chondrocyte and SD rat models. Transcriptomic profiling revealed numerous dysregulated exosomal lncRNAs, miRNAs, and mRNAs in KBD chondrocytes, which were predominantly enriched in pathways associated with cartilage damage, oxidative stress, and extracellular matrix metabolism. Furthermore, a comprehensive analysis identified six distinct lncRNA-miRNA-mRNA regulatory axes within the ceRNA network, encompassing five lncRNAs, miR-423-5p, miR-654-5p, and their target genes CDC42 and SETD8. Validation through RT-qPCR and immunohistochemistry (IHC) revealed aberrant expression patterns in KBD induced by selenium deficiency: lncRNAs were markedly upregulated, miRNAs were significantly downregulated, and both CDC42 and SETD8 were substantially upregulated. These findings imply that exosome-derived ceRNA interactions may play a role in selenium deficiency-associated cartilage damage by modulating CDC42 and SETD8. In conclusion, this exploratory study systematically constructs and preliminarily validates an exosome-derived ceRNA network in KBD chondrocytes. The results indicate that this network may mediate cartilage damage induced by selenium deficiency and T-2 toxin via the lncRNA-miR-423-5p/miR-654-5p-CDC42/SETD8 axes. These molecules hold potential as candidate diagnostic biomarkers for KBD, although further validation in larger cohorts is necessary.",
+        "source": "PubMed",
+        "doi": "10.1007/s12011-026-05212-4",
+        "keyword": "Exosomes",
+        "title_ja": "カシン・ベック病軟骨細胞における軟骨損傷のエクソソーム由来ceRNAネットワークの解明",
+        "summary_ja": "本研究旨在构建并验证大骨节病（KBD）软骨细胞中exosome来源的竞争性内源RNA（ceRNA）调控网络，并探讨其在硒缺乏诱导软骨损伤中的功能。从KBD患者（n=3）与健康对照（n=3）的软骨细胞中分离exosome，利用RNA芯片和miRNA测序鉴定差异表达的lncRNA、miRNA和mRNA（|fold change|≥1，P<0.05，TargetScan_score≥50，miranda_Energy<-10）。通过生物信息学与实验结合，构建了KBD特异性exosome来源的ceRNA网络，并在C28/I2软骨细胞和SD大鼠模型中验证核心分子表达。转录组分析显示，KBD软骨细胞中exosomal lncRNA、miRNA和mRNA显著失调，富集于软骨损伤、氧化应激和细胞外基质代谢通路。进一步鉴定出6条lncRNA-miRNA-mRNA调控轴，涉及5个lncRNA、miR-423-"
+      },
+      {
+        "title": "Adipocyte-Derived Exosomal Circ_0000002 Affects the Myoblast Growth and Muscle Regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42402163/",
+        "abstract": "Skeletal muscle development is strongly influenced by crosstalk between adipose tissue and muscle, yet the underlying molecular mechanisms in Ovis aries remain insufficiently defined. This study investigated the regulatory effects of adipocyte-derived exosomes on sheep primary myoblasts. Co-culture with adipocytes significantly enhanced myoblast proliferation, as indicated by increased cyclin-dependent kinase 4 (CDK4), proliferating cell nuclear antigen (PCNA), and Cyclin D1 expression, while simultaneously suppressing differentiation via reduced myogenin (MYOG), myogenic differentiation 1 (MYOD), and myosin heavy chain (MYHC) levels. Exosomes isolated from mature adipocytes (30-150 nm), expressing TSG101, CD63, and CD9, were effectively internalized by myoblasts and reproduced these effects. RNA sequencing identified circ_0000002 as one of the most abundant circular RNAs (circRNAs) in adipocyte-derived exosomes. Functional assays demonstrated that circ_0000002 promoted myoblast proliferation and inhibited differentiation. Mechanistically, circ_0000002 acted as a competing endogenous RNA (ceRNA) by sponging miR-27a, thereby relieving miR-27a-mediated repression of myostatin (MSTN). Dual-luciferase reporter assays confirmed direct interactions between circ_0000002 and miR-27a and between miR-27a and the MSTN 3' untranslated region (3´UTR). Co-transfection experiments further validated that the ceRNA-like mechanism of circ_0000002/miR-27a/MSTN regulates myoblast differentiation. In a cardiotoxin (CTX)-induced tibialis anterior injury mouse model, intramuscular administration of adipocyte-derived exosomes impaired muscle regeneration and increased MSTN expression, supporting the in vivo relevance of this pathway. Collectively, our findings reveal that exosomal circ_0000002 regulates sheep myoblast differentiation via miR-27a/MSTN ceRNA pathway. This work provides the first evidence that an adipocyte-derived exosomal circRNA mediates fat-muscle communication and highlights a potential target for improving muscle growth in sheep.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202602375R",
+        "keyword": "Exosomes",
+        "title_ja": "脂肪細胞由来エクソソームのCirc_0000002が筋芽細胞の増殖と筋再生に与える影響",
+        "summary_ja": "脂肪組織と骨格筋のクロストークは筋発達に重要だが、ヒツジにおける分子機構は未解明である。本研究では、脂肪細胞由来エクソソームがヒツジ初代筋芽細胞に与える影響を解析。脂肪細胞との共培養は、CDK4、PCNA、Cyclin D1の発現上昇により増殖を促進し、MYOG、MYOD、MYHCの低下により分化を抑制した。成熟脂肪細胞由来エクソソーム（30-150 nm、TSG101、CD63、CD9陽性）は筋芽細胞に取り込まれ、同様の効果を示した。RNA-seqで同定されたcirc_0000002は、miR-27aをスポンジングし、MSTNの抑制を解除するceRNA機構を介して増殖促進・分化抑制を誘導。デュアルルシフェラーゼアッセイでcirc_0000002/miR-27aおよびmiR-27a/MSTN 3'UTRの直接結合を確認した。マウス脛骨前筋損傷モデルにおいて、エクソソーム投与は筋再生を阻害し"
+      },
+      {
+        "title": "The Role of Human Placental Mesenchymal Stem Cell Derived Exosomes in Wound Healing and Scar Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42392652/",
+        "abstract": "Exosomes are a subtype of extracellular vesicles, critical for intercellular communication. They are released from a cell via exocytosis, after which they travel through the extracellular fluid until they reach a target cell. Research in the fields of cellular medicine, regenerative and stem cell therapy continues to grow exponentially. Deciphering the biological properties of mesenchymal stem cells-exosomes as cell-free therapeutic tools is important for wound healing and cutaneous regeneration. The future is also bright for genetically engineering exosomes for targeted diagnostic and therapeutic applications.",
+        "source": "PubMed",
+        "doi": "10.1016/j.fsc.2026.05.004",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト胎盤間葉系幹細胞由来エクソソームの創傷治癒と瘢痕治療における役割",
+        "summary_ja": "ヒト胎盤間葉系幹細胞由来エクソソームは、細胞間情報伝達に重要な細胞外小胞の一種であり、エキソサイトーシスにより放出され、標的細胞に到達する。細胞医療や再生医療、幹細胞治療の研究が急速に進む中、間葉系幹細胞由来エクソソームを無細胞治療ツールとして活用することは、創傷治癒と皮膚再生において重要である。また、遺伝子工学によるエクソソームの標的診断・治療応用への将来性も期待されている。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **PF4と尿毒症性心筋症（血小板-単球ピロトーシス軸）**  \n   血小板由来因子PF4が単球を介して心筋障害を引き起こす新規メカニズムを解明。末期腎疾患の主要死因である心血管合併症の治療標的として、PF4やカスパーゼ-1阻害の臨床応用が期待される。\n\n2. **5T4抗体結合アロジェニックNK細胞療法の第1相試験**  \n   固形腫瘍に対する初のヒト試験で安全性と feasibility を確認。抗体で標的化したNK細胞療法は、従来のCAR-NKより簡便で汎用性が高く、今後の固形癌治療の選択肢拡大につながる。\n\n3. **HIVと腸内細菌叢・NK細胞応答（N-803治療）**  \n   IL-15スーパーアゴニストN-803治療前の腸内細菌叢の多様性が、NK細胞・細胞傷害性免疫応答と関連。腸内環境を介した免疫調節戦略がHIV潜伏期逆転療法の効果向上に寄与する可能性。\n\n4. **エクソソーム捕捉のためのハイブリッド材料（UiO-66@TiO₂）**  \n   液体生検におけるエクソソームの高感度検出を可能にする3次元フラワー状構造体。高い表面積と特異的結合能により、癌診断の精度向上と早期発見への応用が期待される。\n\n5. **胎盤間葉系幹細胞由来エクソソームによる創傷治癒と瘢痕治療**  \n   無細胞治療としてのエクソソームは、細胞移植に伴うリスクを回避しつつ、組織再生を促進。創傷治癒や瘢痕軽減への臨床応用が加速し、再生医療の新たな基盤技術となる。"
+}

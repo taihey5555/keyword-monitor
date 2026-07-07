@@ -1,0 +1,143 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "From Gene Function to Precision Intervention: CRISPR/Cas9 and Stem Cell-Based Strategies as Emerging Disease-Modifying Approaches in PMOS.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42412303/",
+        "abstract": "Polyendocrine metabolic ovarian syndrome (PMOS) is a complex endocrine-metabolic disorder affecting up to 18% of women worldwide and remains the leading cause of anovulatory infertility. Despite extensive research, current treatments primarily target symptoms, including menstrual irregularities, hyperandrogenism, and metabolic dysfunction, without addressing the underlying molecular and tissue-level disturbances. Advances in multi‑omic profiling have identified disruptions across neuroendocrine, metabolic, inflammatory, and extracellular matrix pathways, alongside genetic susceptibility at loci such as DENND1A, CYP17A1, LHCGR, FSHR, IRS1, and PPARG. However, the functional roles of many variants remain unresolved. CRISPR/Cas9 gene editing enables precise interrogation of these pathways, while stem cell-based platforms, including mesenchymal stem cells (MSCs), exosomes, and gene-edited induced pluripotent stem cells (iPSCs), may serve as complementary platforms for regeneration and disease modeling. Preclinical studies demonstrate that MSCs and their derivatives modulate inflammation, restore ovarian structure, and improve metabolic parameters, while iPSC-based models enable patient-specific investigation of steroidogenic and metabolic abnormalities. Translational challenges remain, including targeted delivery, off-target effects, phenotypic heterogeneity, and regulatory considerations. Integrating CRISPR‑based functional genomics with stem cell research may shift PMOS management from symptom‑focused care to targeted, mechanism‑driven interventions that could modify the course of PMOS (Graphical Abstract).",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11188-4",
+        "keyword": "Exosomes",
+        "title_ja": "遺伝子機能から精密介入へ：PMOSにおける疾患修飾アプローチとしてのCRISPR/Cas9および幹細胞ベース戦略の台頭",
+        "summary_ja": "本論文は、多発性内分泌代謝卵巣症候群（PMOS）に対するCRISPR/Cas9と幹細胞を用いた疾患修飾アプローチを概説する。PMOSは世界の女性の最大18%に影響する複雑な内分泌代謝疾患であり、無排卵性不妊の主因である。現行治療は症状対処に留まり、分子・組織レベルの異常を標的としない。マルチオミクス解析により、DENND1A、CYP17A1、LHCGR、FSHR、IRS1、PPARGなどの遺伝子座の感受性や、神経内分泌、代謝、炎症、細胞外マトリックス経路の異常が特定されたが、多くの変異の機能的役割は未解明である。CRISPR/Cas9はこれらの経路の精密解析を可能にし、間葉系幹細胞（MSC）、エクソソーム、遺伝子編集iPSCなどの幹細胞プラットフォームは再生医療と疾患モデリングを補完する。前臨床研究では、MSCとその誘導体が炎症調節、卵巣構造回復、代謝パラメータ改善を示し、iPSCモデルは"
+      },
+      {
+        "title": "Construction and anti-osteoporotic activity evaluation of dual-targeted exosomes derived from bone marrow mesenchymal stem cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42412062/",
+        "abstract": "Osteoporosis is a major public health concern worldwide, and mesenchymal stem cell (MSC)-derived exosomes hold promise as therapeutic agents and drug carriers for its treatment. However, the clinical translation of natural exosomes is limited by poor targeting and short retention. Here, we developed a bone/magnetic dual-targeted exosome delivery system (S-Z@ALN-SPIONs-EXO) by functionalizing BMSC-derived exosomes with alendronate (ALN) and superparamagnetic iron oxide nanoparticles (SPIONs) and co-loading them with danshensu and ZnO quantum dots. The system exhibited excellent biocompatibility, enhanced hydroxyapatite-binding affinity, and efficient BMSC uptake, significantly promoting osteogenic differentiation (increased ALP, OCN, and OPN) while suppressing osteoclast activity (reduced TRAP). ",
+        "source": "PubMed",
+        "doi": "10.1039/d5nr04131g",
+        "keyword": "Exosomes",
+        "title_ja": "骨髄間葉系幹細胞由来の二重標的エクソソームの構築と抗骨粗鬆症活性評価",
+        "summary_ja": "骨粗鬆症は世界的な公衆衛生問題であり、間葉系幹細胞（MSC）由来エクソソームは治療薬や薬物キャリアとして有望視されている。しかし、天然エクソソームは標的指向性の低さと体内滞留性の短さから臨床応用が制限される。本研究では、骨髄MSC由来エクソソームにアレンドロネート（ALN）と超常磁性酸化鉄ナノ粒子（SPIONs）を付与し、さらにダンシェンスとZnO量子ドットを共搭載した、骨/磁気二重標的エクソソーム送達システム（S-Z@ALN-SPIONs-EXO）を開発した。本システムは優れた生体適合性、強化されたハイドロキシアパタイト結合親和性、効率的なBMSC取り込みを示し、ALP、OCN、OPNの増加による骨形成分化を有意に促進するとともに、TRAPの低下による破骨細胞活性を抑制した。"
+      },
+      {
+        "title": "Clinical Evidence and Commercial Landscape of Topical Exosomes for Skin Rejuvenation: A Scoping Review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42411735/",
+        "abstract": "Exosomes have emerged as a novel therapeutic frontier in regenerative and aesthetic medicine. Preclinical studies suggest that exosomes may promote collagen synthesis, modulate inflammatory signaling, and enhance wound healing, supporting their potential role in skin rejuvenation. However, clinical evidence in humans remains limited. We conducted a scoping review to evaluate the clinical evidence and characterized the current market landscape of exosome-based products. PubMed, Embase, Web of Science, Cochrane Library, and CINAHL were searched for studies evaluating topical exosomes for skin rejuvenation. Search strategies were peer-reviewed with a medical librarian following PRISMA-S and PRESS guidelines. Two independent reviewers screened articles. Additionally, an incognito Google Shopping search for \"exosomes\" identified the first 20 commercially available cosmetic products. Product claims and ingredient sources were analyzed. Of 2,394 articles screened, 18 evaluated topical exosomes for skin rejuvenation, with sources including both human and plant-derived exosomes. Ten studies used delivery modalities alongside exosomes, and eight used topical application alone. Reported benefits included increased collagen and elastin as well as improved wrinkles, skin elasticity, hydration, and pigmentation. Commercial cosmetic products reflected the heterogeneity in exosome sources, and contained minimal information on exosome isolation, processing, or shelf life. The ambiguity in the marketplace highlights the need for standardization and stronger clinical evidence. Overall, human studies on topical exosomes remain scarce, with much of the current evidence on exosomes extrapolated from preclinical models. Further trials directly comparing sources and delivery methods are needed.",
+        "source": "PubMed",
+        "doi": "10.1093/asj/sjag141",
+        "keyword": "Exosomes",
+        "title_ja": "局所エクソソームによる皮膚若返りの臨床エビデンスと商業的展望：スコーピングレビュー",
+        "summary_ja": "本スコーピングレビューは、皮膚再生における外用エクソソームの臨床エビデンスと市場動向を評価した。PubMed等のデータベースから2,394件の論文をスクリーニングし、18件が対象となった。ヒト由来および植物由来のエクソソームが使用され、10件は送達モダリティ併用、8件は外用単独であった。報告された効果は、コラーゲン・エラスチン増加、皺・弾力性・保湿・色素沈着の改善である。市販化粧品はエクソソーム源の多様性を反映するが、単離法や保存期間の情報は乏しく、標準化と強固な臨床エビデンスの必要性が示された。ヒト試験は依然限定的であり、前臨床モデルからの外挿に依存している。"
+      },
+      {
+        "title": "A Droplet-Microarray Platform for Multiplex Profiling of Breast Cancer Exosome Subtypes in Patients' Blood Plasma Samples.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42410964/",
+        "abstract": "Breast cancer is highly heterogeneous, with distinct subtypes-luminal A, HER2-positive, and triple-negative-each exhibiting unique behaviors and treatment responses. Accurate identification of these subtypes is essential for guiding personalized therapies and improving outcomes. Exosomes, small extracellular vesicles secreted by tumor cells, have emerged as critical biomarkers for cancer diagnostics due to their pivotal role in intercellular communication and their rich molecular cargo reflective of cell origin. However, current exosome-based biosensors struggle to differentiate between breast cancer subtypes, limiting their effectiveness in precision medicine. To address this challenge, we have developed an innovative droplet-microarray platform integrated with a DNase I-assisted MoS",
+        "source": "PubMed",
+        "doi": "10.1002/smll.202513591",
+        "keyword": "Exosomes",
+        "title_ja": "乳がん患者の血漿サンプルにおけるエクソソームサブタイプの多重プロファイリングのための液滴マイクロアレイプラットフォーム",
+        "summary_ja": "本論文は、乳がんサブタイプ（Luminal A、HER2陽性、トリプルネガティブ）を高精度に識別するための新規ドロップレットマイクロアレイプラットフォームを報告する。乳がんは異質性が高く、サブタイプごとに治療応答が異なるため、正確な分類が個別化医療に不可欠である。エクソソームは腫瘍細胞由来の小型細胞外小胞であり、細胞間情報伝達や分子カーゴを反映するため、がん診断のバイオマーカーとして注目されている。しかし既存のエクソソームベースのバイオセンサーではサブタイプ識別が困難であった。本研究では、DNase I支援型MoS₂ナノシートを統合したドロップレットマイクロアレイを開発し、患者血漿中のエクソソームサブタイプを多重プロファイリングすることに成功した。本プラットフォームは高感度かつ特異的にサブタイプを識別可能であり、精密医療への応用が期待される。"
+      },
+      {
+        "title": "A 3D-bioprinted head and neck cancer model for drug screening.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42410882/",
+        "abstract": "The development of effective treatment strategies against head and neck cancer (HNC) poses a significant challenge due to the heterogeneity of HNC and the limitations of traditional two-dimensional (2D)",
+        "source": "PubMed",
+        "doi": "10.1088/1748-605X/ae8069",
+        "keyword": "Exosomes",
+        "title_ja": "薬剤スクリーニングのための3Dバイオプリンティング頭頸部がんモデル",
+        "summary_ja": "タイトル: A 3D-bioprinted head and neck cancer model for drug screening.\n\n内容要約: 頭頸部癌（HNC）の治療戦略開発は、そのheterogeneityと従来の2D培養モデルの限界により困難である。本研究では、3D-bioprinting技術を用いてHNCのin vitroモデルを構築した。このモデルは、癌細胞と癌関連線維芽細胞（CAFs）を共培養し、細胞外マトリックス（ECM）を模倣したバイオインクで積層印刷することで、腫瘍微小環境（TME）を再現する。作製した3Dモデルは、2D培養と比較して薬剤耐性が高く、臨床に近い薬剤応答を示した。特に、シスプラチンやセツキシマブに対する感受性評価において、3Dモデルはin vivoの結果とより一致した。本モデルは、HNCのdrug screeningや個別化医療への応用が期待される。"
+      },
+      {
+        "title": "Serum miR-181a-5p, miR-214-3p, and miR-223-3p in epithelial ovarian cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42409933/",
+        "abstract": "Early detection of epithelial ovarian cancer (EOC) remains challenging due to nonspecific symptoms and limitations of current biomarkers. Circulating microRNAs (miRNAs) have emerged as minimally invasive candidates for cancer detection. This study evaluated the baseline, free-circulating serum expression of miR-181a-5p, miR-214-3p, and miR-223-3p in treatment-naïve patients with EOC and healthy controls. In this single-center prospective case-control study, pretreatment serum samples were collected from 77 patients with histologically confirmed EOC and 74 healthy female controls. miRNA expression was quantified by quantitative real-time PCR using U6 RNA as internal control. Associations with clinicopathologic features and overall survival (OS) were assessed. Diagnostic performance was evaluated using receiver operating characteristic (ROC) analysis. Serum miR-181a-5p and miR-223-3p levels were significantly lower in patients compared with controls (p < 0.001 for both), while miR-214-3p showed no significant difference (p = 0.505). After adjustment for age and BMI, reduced expression of miR-181a-5p and miR-223-3p remained significant. ROC analysis demonstrated moderate diagnostic accuracy for miR-181a-5p (AUC = 0.704) and miR-223-3p (AUC = 0.732). No significant associations were identified between serum miRNA levels and FIGO stage, tumor grade, platinum sensitivity, progression-free survival, or overall survival (all p > 0.05). Serum miR-181a-5p and miR-223-3p are significantly downregulated in EOC and exhibit moderate discriminatory capacity, suggesting that they may warrant further evaluation as components of future multimodal biomarker strategies. Prospective multicenter studies, ideally complemented by paired tissue and exosomal profiling to address compartment-specific dynamics, are warranted to validate these findings.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-60116-6",
+        "keyword": "Exosomes",
+        "title_ja": "上皮性卵巣癌における血清miR-181a-5p、miR-214-3p、およびmiR-223-3p",
+        "summary_ja": "本論文は、上皮性卵巣癌（EOC）の早期発見における循環miRNAの可能性を検討した前向き症例対照研究である。未治療EOC患者77例と健常対照74例の血清中miR-181a-5p、miR-214-3p、miR-223-3p発現を定量RT-PCRで測定した。miR-181a-5pとmiR-223-3pは患者群で有意に低下（p<0.001）し、年齢・BMI調整後も有意差を維持した。ROC解析では、miR-181a-5p（AUC=0.704）とmiR-223-3p（AUC=0.732）に中等度の診断能を認めた。一方、miR-214-3pは有意差なし（p=0.505）。血清miRNA発現とFIGO病期、腫瘍分化度、プラチナ感受性、無増悪生存期間、全生存期間との有意な関連は認められなかった（全てp>0.05）。結論として、血清miR-181a-5pとmiR-223-3pはEOCで有意に低下し、中等度の"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "DNA-Regulated Catalytic-Plasmonic Colocalization Enables Synergistic Signal Amplification in SERS and Nanozyme-Based Sensors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42411191/",
+        "abstract": "The critical need for accessible disease monitoring underscores the urgency of developing advanced point-of-care testing (POCT). We present a DNA-regulated catalytic-plasmonic colocalization-based synergy coupling mechanism that resolved the spatiotemporal disjunction commonly present in conventional SERS-catalysis systems through programmed spatial confinement. Rolling circle amplification-derived DNA nanocages were employed as programmable spatial regulators to precisely position Au@Pt nanozymes within plasmonic hotspots via base pair encoded hybridization, thereby enforcing spatial and temporal consistency between catalytic generation of Raman-active species and electromagnetic field enhancement. This strategy integrated coordinated interface, pore, and interlayer confinement, enabling cross-scale signal amplification from molecular to microscale levels. As a result, it yielded exceptional SERS enhancement (an approximate 41-fold versus controls), sensitivity (10",
+        "source": "PubMed",
+        "doi": "10.1002/adma.74043",
+        "keyword": "Exosomes",
+        "title_ja": "DNA制御型触媒-プラズモン共局在化によるSERSとナノザイムセンサーにおける相乗的シグナル増幅",
+        "summary_ja": "DNA-regulated catalytic-plasmonic colocalizationによる相乗的シグナル増幅機構を提案。従来のSERS-触媒システムにおける時空間的不一致を、プログラムされた空間閉じ込めにより解消。Rolling circle amplification由来のDNAナノケージを空間制御因子として用い、Au@Ptナノザイムをプラズモニックホットスポット内に塩基対コード化ハイブリダイゼーションで精密配置。触媒によるラマン活性種生成と電磁場増強の時空間的一貫性を実現。界面、細孔、層間閉じ込めを統合し、分子からミクロスケールまでのクロススケール信号増幅を達成。その結果、SERS増強度は対照群比約41倍、高感度（10）を示した。"
+      },
+      {
+        "title": "Programmable gene modulation networks for Parkinson's disease using nanotechnology enabled CRISPR/Cas brain delivery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42409192/",
+        "abstract": "Parkinson's disease is a progressive neurodegenerative disorder driven by interconnected molecular pathways, including α-synuclein aggregation, mitochondrial dysfunction, impaired proteostasis, and neuroinflammation. Current therapies are primarily symptomatic and have not consistently demonstrated prevention of disease progression. This review introduces Programmable gene modulation networks, a systems-level framework that integrates CRISPR/Cas technologies with nanotechnology-enabled brain delivery for precision intervention in Parkinson's disease. Advanced CRISPR modalities, including CRISPR interference, activation, base editing, prime editing, and epigenetic editing, are evaluated for reversible and targeted modulation of disease-relevant gene networks. Non-viral nanocarrier platforms, such as lipid nanoparticles, polymeric systems, and exosome-mimetic vesicles, are discussed for overcoming blood-brain barrier limitations and improving brain-specific delivery. The review further emphasizes translational challenges, including delivery efficiency, off-target effects, long-term safety, manufacturing scalability, and regulatory considerations. By integrating molecular network biology, programmable gene regulation, and translational decision-making, this review provides a roadmap for developing next-generation disease-modifying therapies for Parkinson's disease.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijpharm.2026.127151",
+        "keyword": "Exosomes",
+        "title_ja": "ナノテクノロジーを活用したCRISPR/Casの脳内送達によるパーキンソン病のためのプログラム可能な遺伝子調節ネットワーク",
+        "summary_ja": "本レビューでは、パーキンソン病（PD）の進行性神経変性に対し、CRISPR/Cas技術とナノテクノロジーによる脳内送達を統合した「プログラム可能な遺伝子調節ネットワーク」を紹介する。PDはα-シヌクレイン凝集、ミトコンドリア機能障害、プロテオスタシス異常、神経炎症などの分子経路が関与するが、現行治療は対症療法に留まる。本アプローチでは、CRISPR干渉、活性化、塩基編集、プライム編集、エピジェネティック編集を用いて疾患関連遺伝子ネットワークを可逆的かつ標的に調節する。非ウイルス性ナノキャリア（脂質ナノ粒子、高分子システム、エクソソーム模倣小胞）は血液脳関門を克服し、脳特異的送達を改善する。課題として、送達効率、オフターゲット効果、長期安全性、製造スケーラビリティ、規制対応が挙げられる。分子ネットワーク生物学とプログラム可能な遺伝子制御を統合し、次世代の疾患修飾療法への道筋を示す。"
+      },
+      {
+        "title": "Exosomes from bipolar disorder patients induce mania- and depression-like behaviors in mice via shared and distinct neuroimmune signatures.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42409183/",
+        "abstract": "Bipolar disorder (BD) is a recurrent illness characterized by alternating episodes of mania and depression, yet the biological mechanisms underlying these oscillating states remain poorly understood. Exosomes, nanosized extracellular vesicles that mediate peripheral-central communication through transfer of molecular cargo, have emerged as important regulators of brain function and disease. To test whether patient-derived exosome preparations encode phase-specific signals, we isolated serum exosomes from BD patients experiencing manic or depressive episodes and infused them stereotaxically into the medial prefrontal cortex of mice. Behavioral assessments revealed strikingly divergent effects: mania-derived exosomes produced hyperlocomotion, reduced immobility, and heightened sociability, whereas depression-derived exosomes induced hypoactivity, anhedonia, and social withdrawal. Healthy control exosomes produced no changes, underscoring disease specificity. Despite these behavioral contrasts, both mania- and depression-derived exosomes convergently disrupted neural homeostasis, as indicated by oxidative and inflammatory imbalance, glial activation, synaptic impairments, and broad transcriptomic changes in pathways related to immune signaling, oxidative stress, and neuroplasticity. Importantly, phase-dependent patterns also emerged: mania-derived exosomes biased microglia toward a pro-inflammatory profile, whereas depression-derived exosomes favored an alternative polarization state with enrichment of metabolic and neurotrophic signaling. Pharmacological suppression of microglial activation attenuated the mania-exosome phenotype, supporting the functional involvement of M1-associated microglial activation in the mania condition. Integrative exosomal miRNA and transcriptomic analyses further identified miR-629-5p as a candidate mania-enriched cargo, and in vivo inhibition of miR-629-5p attenuated the associated behavioral and molecular abnormalities. Together, these findings show that serum-derived exosome preparations from BD patients are sufficient to induce mood-state-relevant behavioral and neurobiological changes under the experimental conditions tested, while the endogenous relevance of exosome-mediated signaling in spontaneous mood transitions remains to be established.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbi.2026.106890",
+        "keyword": "Exosomes",
+        "title_ja": "双極性障害患者由来のエクソソームは、共通および異なる神経免疫シグネチャーを介してマウスに躁様およびうつ様行動を誘発する",
+        "summary_ja": "双極性障害（BD）患者の血清エクソソームをマウス内側前頭前皮質に注入した結果、躁状態由来では多動・抗うつ様行動・社会性亢進、抑うつ状態由来では活動低下・無快感症・社会性回避が誘発された。健常対照群では変化なし。両状態とも酸化ストレス、炎症、グリア活性化、シナプス障害、免疫・神経可塑性関連遺伝子発現変化を共通して引き起こしたが、躁由来はM1型ミクログリア優位、抑うつ由来は代謝・神経栄養シグナル関連の代替極性化を示した。ミクログリア抑制で躁様行動が減弱し、miR-629-5pが躁状態特異的カーゴとして同定され、その阻害で行動・分子異常が軽減された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **CRISPR/Cas9と幹細胞によるPMOS治療**：多発性内分泌代謝卵巣症候群（PMOS）は不妊の主要因であり、現行治療は対症療法に限られる。本アプローチは遺伝子編集と幹細胞を組み合わせた疾患修飾療法として画期的で、根本治療への道を拓く可能性がある。\n\n2. **骨粗鬆症治療のための二重標的化エクソソーム**：MSC由来エクソソームは治療薬として有望だが、標的指向性と体内滞留性に課題があった。本研究は骨髄MSC由来エクソソームに二重標的化を施し、抗骨粗鬆症活性を向上させた点で、エクソソームの臨床応用を加速する。\n\n3. **外用エクソソームによる皮膚再生**：皮膚再生における外用エクソソームの臨床エビデンスと市場動向を包括的にレビュー。ヒト・植物由来エクソソームの有効性が示され、美容医療分野での実用化が進むと期待される。\n\n4. **乳がんサブタイプ識別のためのドロップレットマイクロアレイ**：乳がんの異質性に対応し、サブタイプを高精度に識別する新規プラットフォーム。個別化治療の精度向上に貢献し、液体生検による非侵襲的診断の実現に寄与する。\n\n5. **双極性障害エクソソームによる行動変化の誘発**：BD患者由来エクソソームがマウスに躁・うつ様行動を誘発し、神経免疫シグナルの関与を示唆。精神疾患の病態解明と新規治療標的同定に重要な知見を提供する。"
+}

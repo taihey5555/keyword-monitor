@@ -1,0 +1,197 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "FGF21 connects ER stress to sulfide signaling to enhance cellular resilience.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42413473/",
+        "abstract": "Fibroblast growth factor 21 (FGF21) is a stress-induced endocrine hormone that regulates metabolism. Grandl et al. show that FGF21, through its receptor β-klotho (KLB), enhances sulfide signaling and hydrogen sulfide production, strengthening the unfolded protein response and integrated stress response to promote stress resilience, metabolic adaptation, and potentially healthy aging.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cmet.2026.06.009",
+        "keyword": "Klotho",
+        "title_ja": "FGF21は小胞体ストレスを硫化水素シグナル伝達に結びつけ、細胞の回復力を高める。",
+        "summary_ja": "FGF21はストレス誘導性の内分泌ホルモンであり、代謝調節に関与する。Grandlらは、FGF21がその受容体β-klotho（KLB）を介して硫化水素産生と硫化シグナルを増強することを示した。これにより、unfolded protein response（UPR）およびintegrated stress response（ISR）が強化され、ストレス耐性、代謝適応、さらには健康的な老化が促進される可能性がある。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Multi-proxy reconstruction of bottle-cap rafting using biofouling communities, stable isotopes and drift modeling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42413370/",
+        "abstract": "Floating plastic debris can provide long-lived substrates for attached organisms, but reconstructing the drift history of small consumer items remains difficult. Here we report a colonized plastic bottle cap collected in the northwest Pacific. The cap hosted a tube-building polychaete and an associated assemblage including benthic foraminifera. We combined (1) a census of the fouling community, (2) chamber-level δ",
+        "source": "PubMed",
+        "doi": "10.1016/j.marpolbul.2026.120051",
+        "keyword": "PF4",
+        "title_ja": "漂流瓶蓋のバイオファウリング群集、安定同位体、漂流モデルを用いたマルチプロキシ復元",
+        "summary_ja": "以下は、指定された論文・記事の400字以内の要約です。\n\n本論文は、北西太平洋で採取されたプラスチック製ボトルキャップに付着した生物群集を用いて、漂流履歴を再構築するマルチプロキシ手法を報告する。キャップには管形成多毛類と底生有孔虫を含む付着生物群集が確認された。研究では、(1) 付着生物群集のセンサス、(2) チャンバーレベルの安定同位体分析、(3) 漂流モデリングを組み合わせ、小型プラスチック片の漂流過程を復元した。浮遊プラスチック片は長期間の基質を提供するが、小型消費財の漂流履歴の再構築は困難であり、本手法はその有効性を示す。専門用語として「マルチプロキシ再構築」「バイオファウリング群集」「安定同位体」「漂流モデリング」が用いられ、プラスチック汚染の生態影響評価に貢献する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "GLP-1 and MASH: When weight loss isn't the whole story.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42413474/",
+        "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH) remains a major unmet clinical challenge. A new study by Gonzalez-Rellan et al.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cmet.2026.06.005",
+        "keyword": "NK cell therapy",
+        "title_ja": "GLP-1とMASH：体重減少だけが全てではない",
+        "summary_ja": "Gonzalez-Rellanらの研究は、Metabolic dysfunction-associated steatohepatitis (MASH)に対するGLP-1受容体作動薬の効果を検討。従来、体重減少が主な作用機序とされてきたが、本論文では、GLP-1が肝臓に直接作用し、脂肪蓄積や炎症を抑制する可能性を示唆。特に、肝細胞の脂肪酸酸化促進や、炎症性サイトカインの低減が、体重減少とは独立したメカニズムとして注目される。これにより、MASH治療におけるGLP-1の新たな治療標的が示され、体重減少が不十分な患者にも有効性が期待される。しかし、臨床応用にはさらなる検証が必要。"
+      },
+      {
+        "title": "CAR NK cell therapy for solid tumors: potential and challenges.",
+        "url": "https://www.semanticscholar.org/paper/c1c1458dc38a509781601175c61720b57a09a9f3",
+        "abstract": "CAR-T cell therapy has shown promise but is constrained by side effects and limited efficacy in treating solid tumors. Compared to CAR-T cells, CAR natural killer (NK) cells derived from multiple versatile sources exhibit more favorable safety profiles and possess the unique ability to refine cytotoxic activity, serve as off-the-shelf options, and target a broad range of tumors. However, several challenges still impede the development and implementation of CAR NK cell therapy for solid tumors. This review article outlines the therapeutic strategies, advantages, limitations, and potential solutions, while providing insight into the future landscape by challenging current knowledge in the field. It also discusses optimizing CAR NK cell structure, addressing obstacles in the clinical utility of CAR NK cell therapy, and integrating it into standard cancer treatment regimens. Ultimately, we aim to navigate the crucial challenges in treating solid tumors and explore the future of this approach.",
+        "source": "SemanticScholar",
+        "doi": "10.1093/abt/tbaf019",
+        "keyword": "NK cell therapy",
+        "title_ja": "固形腫瘍に対するCAR-NK細胞療法：可能性と課題",
+        "summary_ja": "CAR-T細胞療法は有望だが、副作用や固形腫瘍への効果に限界がある。一方、多様な供給源から得られるCAR NK細胞は、安全性が高く、細胞傷害活性の調整、既製品としての利用、幅広い腫瘍への標的化が可能である。しかし、固形腫瘍に対するCAR NK細胞療法の開発には依然として課題が存在する。本総説では、治療戦略、利点、限界、解決策を概説し、CAR NK細胞構造の最適化、臨床応用の障壁、標準治療への統合について考察する。最終的に、固形腫瘍治療における重要な課題を克服し、本アプローチの将来を探ることを目的とする。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Dual Marker Co-Expressed Exosome-Based Liquid Biopsy Electrochemical Assay for Enhanced-Accuracy Diagnosis of Prostate Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42418184/",
+        "abstract": "Tumor-derived exosomes (TDEs) have emerged as clinically significant liquid biopsies for noninvasive early cancer diagnosis. Although serum prostate-specific antigens (PSA) are widely used for prostate cancer (PCa) screening, their diagnostic accuracy is compromised by elevated levels in nonmalignant conditions. B7H3, a protein overexpressed on cancer cell membranes, shows promise as a tumor diagnostic marker but lacks PCa specificity. To address these limitations, we developed an analytical platform for high-accuracy PCa screening via the co-recognition of dual exosomal markers (PSA and B7H3) using a paper-based electrochemical immunosensor. Magnetic Fe",
+        "source": "PubMed",
+        "doi": "10.1021/acssensors.5c04025",
+        "keyword": "Exosomes",
+        "title_ja": "デュアルマーカー共発現エクソソームベースの液体生検電気化学アッセイによる前立腺癌の高精度診断",
+        "summary_ja": "前立腺がん（PCa）の高精度診断を目的とし、腫瘍由来エクソソーム（TDEs）上の二重マーカー（PSAおよびB7H3）を同時認識する紙ベースの電気化学イムノセンサーを開発した。血清PSAはPCaスクリーニングに広く用いられるが、非悪性疾患でも上昇するため診断精度に課題がある。B7H3は癌細胞膜に過剰発現するが、PCa特異性に欠ける。本研究では、磁性Feを用いたプラットフォームにより、両マーカーの共発現を検出し、従来の単一マーカー法より高精度な非侵襲的診断を実現した。"
+      },
+      {
+        "title": "HSV-1 and VZV co-reactivation: implications for worsening neurological and neurodegenerative diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42418127/",
+        "abstract": "Herpes simplex virus type 1 (HSV-1) and varicella zoster virus (VZV) are neurotropic human alphaherpesviruses that establish lifelong latency in peripheral ganglia. While traditionally studied in isolation, increasing evidence indicates that co-reactivation of these viruses may be clinically significant, especially in the context of aging and immunosuppression, and underdiagnosed. Recent studies show that both viruses can reside in the same trigeminal ganglion (TG) and interact synergistically to potentiate and exacerbate neurological and neurodegenerative disease. This review summarizes emerging insights into the clinical, immunological, and neuropathological implications of HSV-1 and VZV co-reactivation, with a particular emphasis on VZV-derived extracellular vesicles (EVs) as mediators of immune suppression and enhancers of secondary HSV-1 infection.",
+        "source": "PubMed",
+        "doi": "10.1007/s13365-026-01323-9",
+        "keyword": "Exosomes",
+        "title_ja": "HSV-1とVZVの同時再活性化：神経疾患および神経変性疾患の悪化への影響",
+        "summary_ja": "HSV-1とVZVは神経向性のヒトαヘルペスウイルスで、末梢神経節に潜伏感染する。従来は個別に研究されてきたが、加齢や免疫抑制状態での共再活性化が臨床的に重要であり、過小診断されている可能性が示唆される。両ウイルスは同一の三叉神経節に共存し、相乗的に作用して神経疾患や神経変性疾患を悪化させる。本レビューでは、VZV由来の細胞外小胞が免疫抑制を媒介し、二次的なHSV-1感染を促進するメカニズムに焦点を当て、共再活性化の臨床的、免疫学的、神経病理学的意義を概説する。"
+      },
+      {
+        "title": "Exosomal transfer of p-AKT drives doxorubicin resistance and predicts poor prognosis in breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42417926/",
+        "abstract": "Breast cancer remains the second leading cause of cancer-related mortality among women worldwide. Doxorubicin is widely used in breast cancer therapy, however, its clinical efficacy is frequently compromised by the development of drug resistance. Growing evidence suggests that small extracellular vesicles/exosomes are involved in intercellular communication might play a critical role in the horizontal transfer of chemoresistance. In this study, we investigated the contribution of exosomes to the acquisition and propagation of doxorubicin resistance in breast cancer.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12306-8",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを介したp-AKTの伝達が乳癌におけるドキソルビシン耐性を促進し、予後不良を予測する",
+        "summary_ja": "タイトル：乳癌におけるエクソソームを介したp-AKTの伝達がドキソルビシン耐性を誘導し、予後不良を予測する。\n\n乳癌は女性の癌関連死因第2位である。ドキソルビシンは広く使用されるが、薬剤耐性により効果が減弱する。近年、小型細胞外小胞／エクソソームが細胞間コミュニケーションを介し、化学療法耐性の水平伝達に関与する可能性が示唆されている。本研究では、乳癌におけるドキソルビシン耐性の獲得と伝播に対するエクソソームの寄与を検討した。"
+      },
+      {
+        "title": "Spiky Magnetic Titania Particles for Integrated Exosome Capture and Metabolic Profiling Toward Cancer Diagnosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42417707/",
+        "abstract": "Exosomal metabolite profiling represents a promising non-invasive approach for cancer diagnosis. However, its widespread application has been constrained by inefficient exosome isolation and cumbersome metabolomic workflows. Herein, we introduce a \"magnetic-catcher\" composite comprising a spiky TiO",
+        "source": "PubMed",
+        "doi": "10.1002/smll.74402",
+        "keyword": "Exosomes",
+        "title_ja": "がん診断に向けた統合的エクソソーム捕捉と代謝プロファイリングのためのスパイク状磁性チタニア粒子",
+        "summary_ja": "以下の要約を提供します。\n\n本論文は、がん診断における新規アプローチとして、スパイク状磁性チタニア粒子を用いたエクソソーム捕捉と代謝プロファイリングの統合技術を報告する。エクソソーム代謝物プロファイリングは非侵襲的ながん診断法として有望だが、従来はエクソソーム分離の非効率性と複雑なメタボロミクスワークフローが課題であった。本研究では、スパイク状TiO₂構造を有する「磁気キャッチャー」複合体を開発。この粒子は、高い表面積とチタニアのリン酸基親和性によりエクソソームを効率的に捕捉し、磁気分離を可能にする。さらに、捕捉したエクソソームの代謝物を直接分析することで、ワークフローを簡略化。本技術により、がん患者由来のエクソソーム代謝プロファイルの迅速かつ高感度な解析が実現し、がん診断への応用が期待される。"
+      },
+      {
+        "title": "From neural stem cells to cell-free exosome nanotherapy: reprogramming the injured spinal cord microenvironment for regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42417538/",
+        "abstract": "Spinal cord injury (SCI) is a severely disabling neurological disorder caused by primary mechanical trauma and subsequent secondary damage, resulting in persistent neurological deficits and imposing a significant social and economic burden. The existing treatment methods - including drug therapy, surgical treatment, and rehabilitation therapy - have limited effects in promoting functional recovery. In recent years, neural stem cells (NSCs) and their derived exosomes have emerged as highly promising innovative treatment options. NSCs promote neural repair through their multifaceted differentiation ability, secretion of neurotrophic factors, and regulation of the immune response in the injured microenvironment. However, factors such as low graft survival rate, ethical restrictions, and the risk of immune rejection have hindered their clinical translation. In contrast, NSC-derived exosomes offer an emerging cell-free alternative solution. NSC-derived exosomes can inhibit neuroinflammation, reduce glial scar formation, enhance axonal regeneration and promote angiogenesis. Compared with the transplantation of NSCs, NSC-derived exosomes may have lower immunogenicity and can avoid direct graft-related excessive proliferation. At the same time, they are convenient for loading, surface modification, and integration with hydrogels, scaffolds, or other nanomaterial delivery systems. Despite these advantages, their clinical application still faces challenges. The main challenges include vesicle heterogeneity, standardization of dosage and efficacy, target specificity of the lesion, biodistribution, timing of treatment, safety of repeated administration, storage stability, and GMP-compliant scalable manufacturing. Overall, NSCs and NSC-derived exosomes demonstrate significant therapeutic potential in the repair of SCI.",
+        "source": "PubMed",
+        "doi": "10.1039/d6tb01356b",
+        "keyword": "Exosomes",
+        "title_ja": "神経幹細胞から無細胞エクソソームナノ治療へ：損傷した脊髄微小環境を再生へと再プログラムする",
+        "summary_ja": "脊髄損傷（SCI）は、一次性機械的損傷と二次的損傷により持続的な神経障害を引き起こし、既存治療（薬物、外科、リハビリ）では機能回復効果が限定的である。近年、神経幹細胞（NSCs）とその由来エクソソームが有望な治療法として注目されている。NSCsは多分化能、神経栄養因子分泌、免疫応答調節により神経修復を促進するが、移植生着率の低さ、倫理的制約、免疫拒絶リスクが臨床応用の障壁となっている。一方、NSC由来エクソソームは細胞フリーの代替手段であり、神経炎症抑制、グリア瘢痕形成低減、軸索再生促進、血管新生を誘導する。NSCs移植と比較し、免疫原性が低く、過剰増殖リスクが回避でき、薬剤搭載や表面修飾、ハイドロゲル・足場・ナノ材料との統合が容易である。しかし、小胞の不均一性、用量・効果の標準化、病変標的特異性、生体内分布、治療タイミング、反復投与の安全性、保存安定性、GMP準拠のスケーラブル製造など課"
+      },
+      {
+        "title": "Functional Bioactive Components in Non-Bovine Milks: A Comparative Review of Health Benefits and Potential Applications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42415381/",
+        "abstract": "Nonbovine milks are gaining significant attention in health research due to their distinct nutritional and bioactive profiles. This review summarizes the functional components─including osteopontin, lactoferrin, casein, milk fat globule membrane (MFGM), ω-3 fatty acids, exosomes, and milk oligosaccharides─found in these specialty milks and their biological activities. Preclinical evidence suggests these components have the potential to exert health-promoting effects, with possible applications in immunomodulation, gut barrier enhancement, neurodevelopment, anti-inflammatory, and antioxidant activities. Interspecies variations in bioactive composition suggest specific nonbovine milks may offer targeted advantages for various health applications. However, given that most findings derive primarily from in vitro and animal studies, well-designed human clinical trials are necessary to validate these potential health benefits and elucidate underlying mechanisms in humans. This review highlights the potential of nonbovine milks as sustainable functional ingredients for tailored foods, supplements, and therapeutic formulations promoting human health.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.jafc.6c01886",
+        "keyword": "Exosomes",
+        "title_ja": "非牛乳由来の機能性生理活性成分：健康効果と応用可能性に関する比較レビュー",
+        "summary_ja": "本レビューは、非牛乳由来のミルクに含まれる機能性生理活性成分（オステオポンチン、ラクトフェリン、カゼイン、乳脂肪球皮膜、ω-3脂肪酸、エクソソーム、ミルクオリゴ糖）とその生物活性を比較検討した。前臨床試験では、免疫調節、腸管バリア強化、神経発達、抗炎症、抗酸化作用など健康促進の可能性が示唆され、種間差により特定のミルクが特定用途に有利である可能性がある。しかし、知見の多くはin vitroおよび動物実験に基づくため、ヒトでの有効性検証には適切にデザインされた臨床試験が必要である。非牛乳は、機能性食品、サプリメント、治療用製剤の持続可能な原料として期待される。"
+      },
+      {
+        "title": "Hypoxia-induced exosomal LNCOC1 orchestrates bladder cancer progression via the YBX1/PIK3CA axis and serves as a potential liquid biopsy biomarker.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42414832/",
+        "abstract": "Bladder cancer (BCa) is a prevalent genitourinary malignancy characterized by limited specific diagnostic and therapeutic options. Although hypoxia is known to drive tumor progression via exosome-mediated communication, the specific oncogenic roles of hypoxia-induced exosomal long non-coding RNAs (lncRNAs) remain poorly elucidated. Here, we profiled exosomes from normoxic and hypoxic BCa cells using high-throughput sequencing, identifying LNCOC1 as a significantly upregulated lncRNA under hypoxic conditions. Mechanistically, hypoxia-inducible factor 1α (HIF1A) directly binds to the LNCOC1 promoter to drive its transcription and subsequent exosomal encapsulation. Upon transfer to recipient cells, exosomal LNCOC1 promotes BCa cell proliferation, migration, and invasion. It acts as a nuclear scaffold, directly recruiting the transcription factor YBX1 to the PIK3CA promoter, thereby upregulating PIK3CA expression and hyperactivating the PI3K/AKT signaling pathway. Clinically, elevated LNCOC1 levels in tumor tissues and circulating plasma exosomes from 96 BCa patients positively correlated with advanced tumor grade, metastasis, and poor prognosis. Furthermore, circulating exosomal LNCOC1 demonstrated moderate diagnostic efficacy in distinguishing BCa patients from healthy controls (AUC = 0.789) and metastatic from non-metastatic cases (AUC = 0.765). Collectively, these findings elucidate a novel HIF1A/LNCOC1/YBX1/PIK3CA regulatory axis, highlighting circulating exosomal LNCOC1 as a preliminary candidate biomarker for BCa diagnosis that warrants further validation in independent cohorts.",
+        "source": "PubMed",
+        "doi": "10.1007/s13402-026-01257-8",
+        "keyword": "Exosomes",
+        "title_ja": "低酸素誘導性エクソソームLNCOC1はYBX1/PIK3CA軸を介して膀胱癌の進行を制御し、潜在的な液体生検バイオマーカーとして機能する。",
+        "summary_ja": "膀胱癌（BCa）は特異的な診断・治療法が限られる泌尿器悪性腫瘍である。低酸素環境がエクソソームを介した腫瘍進行を促進するが、低酸素誘導性エクソソーム長鎖非コードRNA（lncRNA）の役割は未解明である。本研究では、低酸素条件下のBCa細胞由来エクソソームでLNCOC1が有意に上昇することを発見した。HIF1AがLNCOC1プロモーターに直接結合し転写とエクソソーム封入を促進する。受容細胞でLNCOC1は核足場として転写因子YBX1をPIK3CAプロモーターにリクルートし、PI3K/AKT経路を過活性化する。臨床的に、96例のBCa患者でLNCOC1高発現は腫瘍悪性度、転移、予後不良と相関した。血中エクソソームLNCOC1は診断能（AUC=0.789）および転移識別能（AUC=0.765）を示した。以上より、HIF1A/LNCOC1/YBX1/PIK3CA軸を介した新規制御機構が解明され、"
+      },
+      {
+        "title": "Injectable bioactive hydrogels as pharmacological drug delivery platforms for post-myocardial infarction cardiac repair: therapeutic cargo engineering, stimuli-responsive release mechanisms, and translational perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42414695/",
+        "abstract": "This review evaluates injectable bioactive hydrogels as localized pharmacological platforms for post-myocardial infarction (MI) cardiac repair, focusing on therapeutic cargo engineering, stimuli-responsive release systems, mechanistic signaling pathways, and translational potential. A critical narrative synthesis was conducted drawing upon the most recent original research published in leading journals in the field, emphasizing hydrogel composition, pharmacological cargo classes, release mechanisms, molecular targets, animal models, and clinical evidence. The review integrates studies involving small molecules, exosomes, conductive nanomaterials, nanobodies, extracellular matrix-derived systems, and gene delivery vectors. Injectable hydrogels demonstrated the capacity to provide spatially localized and temporally controlled therapy within the infarcted myocardium. Stimuli-responsive systems exploiting pH, reactive oxygen species, and enzymatic microenvironments enabled phase-matched therapeutic release. Major pharmacological effects included macrophage immunomodulation, angiogenesis promotion, oxidative stress reduction, fibrosis attenuation, and restoration of electrical conductivity. Convergent signaling pathways across studies included PI3K/AKT, AMPK-mTOR, VEGF, and TGF-β-related networks. Preclinical studies consistently reported improvements in ventricular remodeling and cardiac function, while early clinical translation with VentriGel established feasibility and procedural safety in human patients. Injectable bioactive hydrogels represent a promising pharmacological strategy for post-MI cardiac repair by integrating biomaterial engineering with localized multi-dimensional drug delivery. Despite substantial preclinical progress, challenges including long-term safety, mechanistic standardization, large-animal validation, and regulatory complexity remain critical barriers to clinical translation.",
+        "source": "PubMed",
+        "doi": "10.1007/s00210-026-05604-2",
+        "keyword": "Exosomes",
+        "title_ja": "注射可能な生体活性ハイドロゲルによる心筋梗塞後心臓修復のための薬物送達プラットフォーム：治療用カーゴ工学、刺激応答性放出機構、および臨床応用への展望",
+        "summary_ja": "本レビューは、心筋梗塞後（post-MI）の心臓修復を目的とした注入型生体活性ハイドロゲルを評価する。治療用カーゴ工学、刺激応答性放出機構、シグナル伝達経路、臨床応用の可能性に焦点を当て、最近の原著研究を統合した。ハイドロゲルは梗塞心筋内で空間的・時間的に制御された治療を可能にし、pH、活性酸素種、酵素環境に応答するシステムが相調和的な薬物放出を実現した。主な薬理効果はマクロファージ免疫調節、血管新生促進、酸化ストレス低減、線維化抑制、電気伝導性回復であり、PI3K/AKT、AMPK-mTOR、VEGF、TGF-β経路が関与した。前臨床研究では心室リモデリングと心機能の改善が一貫して報告され、VentriGelによる初期臨床試験では安全性が確認された。しかし、長期安全性、機構の標準化、大動物検証、規制上の課題が臨床応用への障壁として残る。"
+      }
+    ],
+    "生物学": [],
+    "農学": [
+      {
+        "title": "Metabolic regulation of macrophage polarization in myocardial infarction: from mechanisms to targeted therapies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42415091/",
+        "abstract": "Myocardial infarction (MI) elicits a tightly staged immune response in which macrophages coordinate early inflammation, subsequent tissue repair, and long-term ventricular remodeling. Growing evidence indicates that macrophage polarization is directed by immunometabolic reprogramming; however, the metabolic circuits that connect immune function to durable cardiac recovery remain incompletely defined.",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-08472-9",
+        "keyword": "Exosomes",
+        "title_ja": "心筋梗塞におけるマクロファージ分極の代謝調節：メカニズムから標的治療へ",
+        "summary_ja": "心筋梗塞（MI）は、マクロファージが初期炎症、組織修復、長期的な心室リモデリングを調整する段階的な免疫応答を誘発する。近年、マクロファージの分極化は免疫代謝リプログラミングによって制御されることが明らかになっているが、免疫機能を持続的な心臓回復に結びつける代謝回路は完全には解明されていない。本論文は、MIにおけるマクロファージ分極の代謝調節機構を概説し、標的治療への応用可能性を議論する。"
+      }
+    ],
+    "工学": [],
+    "産業": [
+      {
+        "title": "IL35 Production After Living-donor Renal Transplantation: Relevance to Local, Exosome-mediated, Clinical Tolerance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42416360/",
+        "abstract": "We previously reported that 100% of HLA-identical siblings and 50% of HLA-haploidentical donor-recipient pairs exhibited bidirectional immunoregulation (BDIR) before living-related renal transplantation. BDIR predicted successful transplant outcomes. However, at the time, we were unaware of the role of the cytokine interleukin-35 (IL35) in immunoregulation, and we now appreciate exosomes as a means of confining immunoregulation to the transplanted tissue. Here we show that HLA-identical sibling transplants use IL35 in posttransplant BDIR.",
+        "source": "PubMed",
+        "doi": "10.1097/TXD.0000000000001980",
+        "keyword": "Exosomes",
+        "title_ja": "生体腎移植後のIL35産生：局所的、エクソソームを介した臨床的免疫寛容との関連性",
+        "summary_ja": "本論文では、生体腎移植後のIL35産生と、局所的・エクソソーム介在性の臨床的寛容との関連を検討した。著者らは以前、HLA一致兄弟間移植で100%、HLA半合致移植で50%の症例に移植前の双方向性免疫調節（BDIR）が認められ、これが移植成功を予測することを報告した。しかし当時はIL35の役割や、エクソソームによる免疫調節の移植組織への局在化機構は不明であった。本研究では、HLA一致兄弟間移植後のBDIRにおいてIL35が関与することを示した。これにより、IL35とエクソソームを介した局所的免疫調節が、移植後臨床的寛容の維持に重要である可能性が示唆された。"
+      }
+    ],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、それぞれの重要性・背景・今後の展望をまとめます（合計500文字以内）。\n\n1. **FGF21と硫化水素シグナルによる細胞 resilience の強化**  \n   FGF21がβ-klotho受容体を介して硫化水素産生を促進し、小胞体ストレスに対する細胞防御を強化するメカニズムが示された。代謝疾患や老化関連疾患への新たな治療標的として期待される。\n\n2. **CAR-NK細胞療法の固形腫瘍への挑戦**  \n   CAR-T細胞に比べ安全性が高く、オフ・ザ・シェルフ製剤が可能なCAR-NK細胞は、固形腫瘍への浸潤や免疫抑制環境への耐性が課題。エクソソームや遺伝子編集技術との組み合わせで克服が進む。\n\n3. **エクソソーム二重マーカー検出による前立腺がん診断**  \n   PSAとB7H3を同時検出する紙ベース電気化学センサーは、従来の血清PSA検査の特異性問題を解決し、高精度なリキッドバイオプシーとして実用化が期待される。\n\n4. **低酸素誘導エクソソームlncRNAによる膀胱がん進展機構**  \n   LNCOC1がYBX1/PIK3CA軸を介してがん進行を促進し、同時に尿中バイオマーカーとしても有用であることが示された。低酸素微小環境とエクソソームの連関を標的とした治療戦略に道を開く。\n\n5. **神経幹細胞由来エクソソームによる脊髄損傷治療**  \n   細胞治療から無細胞エクソソームナノ治療へのパラダイムシフトが進行中。神経再生と免疫調節を同時に実現する可能性があり、臨床応用に向けた製造・投与法の最適化が今後の鍵となる。"
+}

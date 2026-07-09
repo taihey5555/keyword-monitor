@@ -1,0 +1,246 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "The Role of β-Klotho in FGF Signaling: From Molecular Insights to Therapeutic Innovations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42424049/",
+        "abstract": "β-Klotho (KLB) is a transmembrane protein expressed in the liver, pancreas, hypothalamus, and adipose tissue, where it acts as an essential co-receptor for fibroblast growth factor 19 (FGF19) and FGF21. By facilitating their binding to fibroblast growth factor receptors (FGFRs), KLB helps form critical endocrine axes that regulate a wide range of physiological processes and are implicated in various diseases. This review summarizes current knowledge of KLB, focusing on its structural and functional features as well as the physiological roles of the FGF19-KLB and FGF21-KLB axes. A comprehensive analysis of the literature confirms that KLB is indispensable for high-affinity signaling of FGF19 and FGF21. The FGF19‑KLB axis primarily controls bile acid synthesis, glucose metabolism, and energy expenditure, thereby modulating glucose/lipid homeostasis, energy balance, and insulin sensitivity. Dysregulation of these axes is linked not only to metabolic disorders such as diabetes, metabolic dysfunction-associated steatotic liver disease/metabolic dysfunction-associated steatohepatitis (MASLD/MASH), and obesity, but also to certain malignancies and neurological disturbances, underscoring their broad role in disease. Growing evidence highlights the therapeutic potential of targeting these pathways, supporting their value as drug targets for novel treatments, especially in metabolic disease. This review consolidates understanding of the central roles played by KLB-mediated signaling in metabolic homeostasis and disease, examines its emerging relevance in cancer and neural regulation, and emphasizes the need to advance KLB biology in order to fully exploit its potential as a multifunctional therapeutic target.",
+        "source": "PubMed",
+        "doi": "10.1152/ajpendo.00042.2026",
+        "keyword": "Klotho",
+        "title_ja": "β-KlothoのFGFシグナル伝達における役割：分子レベルの知見から治療革新へ",
+        "summary_ja": "β-Klotho (KLB)は肝臓、膵臓、視床下部、脂肪組織に発現する膜タンパク質であり、FGF19およびFGF21の共受容体としてFGFRへの結合を促進する。本総説はKLBの構造・機能的特徴と、FGF19-KLB軸およびFGF21-KLB軸の生理的役割をまとめた。KLBはFGF19・FGF21の高親和性シグナル伝達に必須であり、前者は胆汁酸合成、糖代謝、エネルギー消費を制御し、後者は糖脂質恒常性やインスリン感受性を調節する。これらの軸の異常は糖尿病、MASLD/MASH、肥満などの代謝疾患に加え、悪性腫瘍や神経障害とも関連する。KLB経路を標的とした治療薬の開発が進んでおり、特に代謝疾患における創薬標的としての価値が示されている。本稿はKLBを介したシグナル伝達の代謝恒常性と疾患における中心的役割を統合し、癌や神経調節への関与を考察するとともに、多機能治療標的としての可能性を最大限に活用"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Anti-PD-1 single-chain variable fragments in cancer immunotherapy: from molecular engineering to clinical translation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42423743/",
+        "abstract": "The programmed death-1 (PD-1) immune checkpoint is a core regulator of T-cell exhaustion and immune evasion in cancer. While PD-1/PD-L1 monoclonal antibodies have changed the landscape of cancer immunotherapy, there are barriers to broader application due to their large size, potential for systemic toxicities, and high production costs. In this review article, we will focus on therapeutic development, functional applications, and translational advances of anti-PD-1 single-chain variable fragments (scFvs). Advances in phage-display libraries, immunization methods, and antibody engineering have helped develop high-affinity scFvs with novel structural and mechanistic properties. Direct functional applications incorporating anti-PD-1 scFvs are bispecific and trispecific constructs, antibody-drug conjugates (ADCs), immunotoxins, nanoparticles, and biological vector carriers that incorporate checkpoint blockade with targeted cytotoxicity or immunostimulation. Engineered immune cells, such as armored CAR-Ts, NK cells, and MSCs, can secrete or display anti-PD-1 scFvs within the tumor to provide localized checkpoint inhibition, enhance effector-cell persistence, and remodel the tumor microenvironment. Oncolytic and non-replicating viral vectors can further confine scFv activity to tumors, coupling checkpoint blockade with oncolysis, cytokine expression, or bispecific T-cell engagers. Early-phase clinical trials are currently studying TILs and CAR-TILs engineered to secrete scFvs and oncolytic HSV-1 encoding multifunctional checkpoint payloads across a variety of solid tumors. Taken together, anti-PD-1 scFvs represent a modular platform for localized checkpoint inhibition and potentially improved cost-effectiveness compared with systemic antibodies. Future work should prioritize rational combination strategies and well-designed clinical trials that integrate anti-PD-1 scFv platforms with other immunotherapies and standard treatments to maximize clinical benefit.",
+        "source": "PubMed",
+        "doi": "10.1007/s00280-026-04911-y",
+        "keyword": "NK cell therapy",
+        "title_ja": "がん免疫療法における抗PD-1一本鎖可変領域断片：分子工学から臨床応用へ",
+        "summary_ja": "本レビューでは、抗PD-1 single-chain variable fragments (scFvs) の治療開発、機能的応用、臨床展開に焦点を当てる。PD-1/PD-L1モノクローナル抗体はがん免疫療法を変革したが、サイズの大きさ、全身毒性、高コストが課題である。ファージディスプレイや抗体工学の進歩により、高親和性scFvが開発された。応用として、二重特異性・三重特異性構築物、ADC、免疫毒素、ナノ粒子、生物学的ベクターが挙げられる。装甲CAR-T、NK細胞、MSCなどの改変免疫細胞は腫瘍内でscFvを分泌・提示し、局所的なチェックポイント阻害とエフェクター細胞の持続性向上を実現する。オンコリティックウイルスベクターはscFv活性を腫瘍に限定し、チェックポイント阻害とオンコリシスやサイトカイン発現を組み合わせる。初期臨床試験では、scFv分泌TILやCAR-TIL、多機能チェックポイ"
+      },
+      {
+        "title": "Exploring the potential of HVJ-E for cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42423067/",
+        "abstract": "HVJ-Envelope (HVJ-E), an inactivated particle derived from the Hemagglutinating virus of Japan, represents a unique virus-based approach for cancer immunotherapy. Unlike replication-competent oncolytic viruses, which exert antitumor effects through viral propagation and tumor cell lysis, HVJ-E lacks replicative capacity and pathogenicity because its viral genome is fragmented. Conversely, although most non-replicative viral vectors are designed primarily as delivery vehicles, HVJ-E itself possesses intrinsic antitumor activity. By preserving the native viral structure and membrane-fusion capacity of the parental virus, HVJ-E enables fragmented viral genomes to enter target cells, thereby inducing antitumor immune activation and tumor cell death. Mechanistic studies have shown that HVJ-E promotes dendritic cell maturation, activates natural killer cells, and stimulates cytotoxic T lymphocytes, leading to systemic antitumor immunity. Clinical trials have demonstrated favorable safety profiles and encouraging signs of efficacy. Furthermore, reverse translational research has identified combination strategies with T cell co-stimulatory signaling and the apolipoprotein system as a downstream mediator that enhances sensitivity to immune attack. This review summarizes the historical development, mechanistic insights, and emerging therapeutic concepts of HVJ-E as a novel cancer immunotherapy platform. A comprehensive literature search was conducted using PubMed for articles related to HVJ-E and cancer published between 2002 and 2025.",
+        "source": "PubMed",
+        "doi": "10.1080/1750743X.2026.2697678",
+        "keyword": "NK cell therapy",
+        "title_ja": "HVJ-Eのがん免疫療法における可能性の探求",
+        "summary_ja": "HVJ-E（HVJエンベロープ）は、センダイウイルス由来の不活化粒子であり、複製能を持たないため病原性がなく、独自の抗腫瘍活性を有する。ウイルス構造と膜融合能を保持し、断片化ゲノムを標的細胞に導入することで、樹状細胞成熟、NK細胞活性化、細胞傷害性Tリンパ球刺激を誘導し、全身性の抗腫瘍免疫を惹起する。臨床試験では安全性と有効性が示され、T細胞共刺激シグナルやアポリポ蛋白システムを介した併用療法の可能性も報告されている。本レビューは、HVJ-Eの歴史的発展、作用機序、新たな治療概念をまとめたものである。"
+      },
+      {
+        "title": "NK cell immunotherapy after analytic treatment interruption is associated with HIV viral control.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42422767/",
+        "abstract": "Over 39.9 million individuals are living with HIV worldwide. There is a need to develop novel therapeutics to improve treatment or cure HIV. In this study, we evaluated HIV reservoir-targeting chimeric antigen receptor (CAR)/CXCR5 natural killer (NK) cells armored with IL-15 and PD-1 knockout as well as control activated NK cells for their safety and efficacy by treating antiretroviral therapy (ART)-suppressed, HIV-infected humanized DRAGA mice following ART interruption. There were no adverse health outcomes associated with cell infusions. At 56 days post-treatment (DPT), 62.5% of CAR NK-treated and 50% of control NK-treated groups had viral loads below the detection limit compared with 0% of the saline control group. CAR NK-treated animals had, on average, 1.88 times higher peak NK cell levels than control NK-treated animals, and elevated levels of NK cells persisted up to 28 DPT in treated animals. Importantly, animals that had undetectable viral loads at 56 DPT had earlier viral rebound post-ART interruption that coincided with high levels of NK cells, suggesting that timing of treatment with viral recrudescence may play a role in efficacy. This is the first study evaluating NK cell therapies in hDRAGA mice and demonstrates the promise of NK cell therapies for curing HIV.",
+        "source": "PubMed",
+        "doi": "10.1016/j.omta.2026.201778",
+        "keyword": "NK cell therapy",
+        "title_ja": "分析治療中断後のNK細胞免疫療法はHIVウイルス制御と関連する",
+        "summary_ja": "世界で約3990万人がHIVと共に生きる中、新たな治療法の開発が求められている。本研究では、ART抑制下のHIV感染ヒト化DRAGAマウスに対し、IL-15とPD-1ノックアウトを施したCAR/CXCR5 NK細胞、及び対照活性化NK細胞を投与し、安全性と有効性を評価した。細胞注入による有害事象はなく、治療56日後、CAR NK治療群の62.5%、対照NK治療群の50%でウイルス量が検出限界以下となり、生理食塩水対照群では0%だった。CAR NK治療群は対照NK治療群より平均1.88倍高いピークNK細胞レベルを示し、治療後28日まで高レベルが持続した。重要なことに、56日後にウイルス抑制された個体は、ART中断後の早期ウイルス再燃時に高NK細胞レベルを示し、治療タイミングが有効性に関与する可能性が示唆された。本研究は、hDRAGAマウスにおけるNK細胞療法の初の評価であり、HIV治癒への期"
+      },
+      {
+        "title": "Engineered PD1-NKG2D Dual-CAR NK92 cells broaden antitumor target recognition in preclinical tumor models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42421037/",
+        "abstract": "To address challenges such as the complex manufacturing of CAR-T and the immunosuppressive tumor microenvironment (TME), CAR-NK cells offer greater potential as an \"off-the-shelf\" therapy. To broaden tumor recognition and reduce the risk of immune escape associated with single-target approaches, we developed a single-promoter-driven multicistronic CAR-NK92 system that employs NKG2D for broad recognition of stress ligands and combines a PD1-CAR to reverse PD-L1 inhibitory signaling, thereby significantly enhancing antitumor efficacy.",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-08542-y",
+        "keyword": "NK cell therapy",
+        "title_ja": "工学改変PD1-NKG2D二重CAR NK92細胞が前臨床腫瘍モデルにおける抗腫瘍標的認識を拡大する",
+        "summary_ja": "本論文では、CAR-Tの複雑な製造プロセスや免疫抑制性腫瘍微小環境（TME）といった課題に対し、CAR-NK細胞が「既製品（off-the-shelf）」療法として有望であると述べている。単一標的アプローチに伴う免疫逃避リスクを低減し、腫瘍認識を拡大するため、単一プロモーター駆動のマルチシストロニックCAR-NK92システムを開発した。本システムは、NKG2Dを介してストレスリガンドを広く認識するとともに、PD1-CARを組み合わせてPD-L1による抑制シグナルを逆転させ、抗腫瘍効果を大幅に向上させる。"
+      },
+      {
+        "title": "Integrative profiling of senescence-associated cells and genes identifies UGT1A7 as a prognostic and therapeutic target in Lung squamous cell carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42421030/",
+        "abstract": "Lung Squamous Cell Carcinoma (LUSC), a common subtype of non-small cell lung cancer, primarily occurs in elderly individuals and is closely linked to senescence-related biological processes. Meanwhile, senescence reshapes the tumor microenvironment by promoting immune suppression and angiogenesis, and its underlying mechanisms remain unclear. Here, we identified three senescence-related molecular subtypes of LUSC, each with distinct clinical outcomes, genomic alterations, and immune features. Among them, Cluster 1 was associated with poor prognosis, increased genomic instability, and an immunosuppressive TME enriched with senescence signatures. To uncover the underlying mechanisms, we integrated bulk and single-cell transcriptomic data and found extensive senescence reprogramming across epithelial, myeloid, and T/NK cell compartments. Notably, senescent immune subsets-such as S100A9 + macrophages and TNFRSF4 + Tregs-were markedly enriched in older patients. Furthermore, cell communication analysis revealed enhanced intercellular signaling in senescent cells. Based on these findings, we constructed a robust machine learning-based prognostic model incorporating senescent gene expression and cell-type abundance to predict survival and immunotherapy response. Finally, functional validation demonstrated that UGT1A7 acts as a pro-proliferative driver that is significantly downregulated during the induction of cellular senescence. Experimental depletion of UGT1A7 phenocopies this senescence-associated decline, thereby triggering growth arrest and inhibiting tumor progression, suggesting its potential as a therapeutic target. Our study reveals how senescence-related alterations in cellular composition and transcriptional dysregulation reshape the tumor microenvironment, providing novel biomarkers and a theoretical basis for therapy.",
+        "source": "PubMed",
+        "doi": "10.1186/s12935-026-04334-y",
+        "keyword": "NK cell therapy",
+        "title_ja": "老化関連細胞と遺伝子の統合的プロファイリングにより、肺扁平上皮癌における予後および治療標的としてUGT1A7が同定される。",
+        "summary_ja": "本論文は、肺扁平上皮癌（LUSC）における老化関連細胞と遺伝子の統合的解析を報告する。LUSCは高齢者に多く、老化が腫瘍微小環境（TME）の免疫抑制や血管新生を促進するが、その機構は不明である。解析の結果、3つの老化関連分子サブタイプが同定され、Cluster 1は予後不良、ゲノム不安定性の増加、老化シグナルに富む免疫抑制性TMEと関連した。一細胞トランスクリプトーム解析により、上皮、骨髄系、T/NK細胞にわたる老化リプログラミングが明らかとなり、特に高齢患者ではS100A9+マクロファージやTNFRSF4+制御性T細胞などの老化免疫サブセットが濃縮されていた。細胞間コミュニケーション解析では老化細胞におけるシグナル伝達の亢進が認められた。機械学習に基づく予後モデルを構築し、生存率と免疫療法応答を予測した。機能検証により、UGT1A7は細胞老化誘導時に顕著に低下する増殖促進因子であり、その"
+      },
+      {
+        "title": "Systemic immunosuppression limits NK cell therapy efficacy in pancreatic cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42421015/",
+        "abstract": "Nature killer (NK) cell plays a critical role in cancer immunosurveillance and is considered a potent immunotherapeutic tool for many cancers, including pancreatic ductal adenocarcinomas (PDACs). Increasing evidence suggests that cancer occurs with systemic immune perturbations. However, the effects of PDAC tumor burden on systemic NK cells remain poorly understood. PDAC tumor-bearing mice display decreased frequency and dysfunction of NKs the spleens. We identified an increase in Gr-1+ myeloid cells within the spleens, which negatively impacts both endogenous and adoptively transferred NK cell frequency and function. Apolipoprotein E (ApoE), a lipid metabolism regulator, is upregulated in Gr-1+ myeloid cells of tumor-bearing mice, promoting lipid oxidation and reactive oxygen species (ROS) generation. Genetic knockout of Apoe in Gr-1+ myeloid cells abrogate their suppressive effects on NK cell function. Furthermore, treatment with lipid metabolism inhibitors restores endogenous and adoptively transferred NKs' effector function in the spleens and tumor microenvironment. These studies underscore the importance of understanding preexisting systemic alterations in PDAC patients before applying NK cell-based immunotherapies.",
+        "source": "PubMed",
+        "doi": "10.1186/s12943-025-02340-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "全身性免疫抑制が膵癌におけるNK細胞療法の効果を制限する",
+        "summary_ja": "膵管腺癌（PDAC）におけるNK細胞療法の有効性は、全身性免疫抑制により制限される。PDAC担癌マウスでは脾臓内NK細胞の頻度低下と機能不全が認められ、Gr-1+骨髄系細胞の増加が内因性および移入NK細胞の機能を抑制する。この抑制には、Gr-1+細胞におけるアポリポ蛋白E（ApoE）のアップレギュレーションが関与し、脂質酸化と活性酸素種（ROS）産生を促進する。ApoEの遺伝子欠損はNK細胞への抑制効果を消失させ、脂質代謝阻害剤投与は脾臓および腫瘍微小環境におけるNK細胞のエフェクター機能を回復させる。PDAC患者へのNK細胞免疫療法適用には、事前の全身性免疫変化の理解が重要である。"
+      },
+      {
+        "title": "SBRT embedded in low-dose RT plus αPD-1 (immuno-EclipseRT, iERT) elicits CD8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42420294/",
+        "abstract": "Bulky tumors remain challenging to treat, and immune checkpoint inhibitors (ICIs), alone or combined with conventional radiotherapy (RT), yield limited efficacy. We present EclipseRT (ERT), an RT technique that delivers low-dose RT (LDRT) to the gross tumor volume (GTV) and stereotactic body RT (SBRT) to selected subvolume(s) within the GTV. Combined with ICIs (iERT), this approach achieves marked control of bulky tumors through the coordinated activity of NK and CD8⁺ T cells. Single-cell RNA sequencing and validation experiments show that the SBRT component robustly induces type I interferon (IFN-I), which activates NK cells to secrete XCL1, thereby recruiting cross-presenting XCR1⁺ dendritic cells (DCs). SBRT also promotes the release of extracellular vesicles carrying neoantigens, enhancing DC cross-presentation and CD8⁺ T-cell responses. The LDRT component further promotes NK and CD8⁺ T-cell recruitment. iERT also induces precursor exhausted CD8⁺ T cells in tumors and tumor-draining lymph nodes. Collectively, iERT activates the IFN-I/NK/DC/CD8⁺ T-cell axis, driving potent antitumor immunity against bulky tumors.",
+        "source": "PubMed",
+        "doi": "10.1038/s41467-026-73683-z",
+        "keyword": "NK cell therapy",
+        "title_ja": "低線量放射線治療に埋め込まれたSBRTとαPD-1の併用（immuno-EclipseRT, iERT）がCD8を誘導する",
+        "summary_ja": "本論文は、巨大腫瘍に対する新たな放射線治療法「EclipseRT（ERT）」と免疫チェックポイント阻害剤（ICI）を組み合わせた「iERT」の有効性を報告する。ERTは、腫瘍全体に低線量放射線（LDRT）を照射し、その内部の選択的領域に定位放射線治療（SBRT）を施す手法である。iERTは、NK細胞とCD8⁺ T細胞の協調作用により巨大腫瘍を顕著に制御する。シングルセルRNAシーケンス解析により、SBRTがI型インターフェロン（IFN-I）を強力に誘導し、NK細胞を活性化してXCL1を分泌させ、交叉提示能を持つXCR1⁺樹状細胞（DC）を動員することが示された。またSBRTは、ネオアンチゲンを含む細胞外小胞の放出を促進し、DCの交叉提示とCD8⁺ T細胞応答を増強する。LDRTはNK細胞とCD8⁺ T細胞のさらなる動員を促進する。iERTは腫瘍および腫瘍排出リンパ節において前駆体 exha"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Inflammatory regulation of PD-L1 protein fate in the tumor microenvironment shapes immune escape and therapeutic targeting.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42423854/",
+        "abstract": "Programmed death-ligand 1 (PD-L1) has traditionally been regarded as a membrane-bound immune checkpoint ligand that suppresses antitumor T-cell activity through PD-1 engagement. Although this framework remains fundamental, it is no longer sufficient to capture the full biologic and clinical complexity of PD-L1 in cancer. Accumulating evidence indicates that PD-L1 is not a static surface marker, but a dynamically regulated molecular hub positioned at the intersection of inflammatory signaling, tumor-cell adaptation, and immune escape.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05544-6",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍微小環境におけるPD-L1タンパク質運命の炎症性制御が免疫逃避と治療標的化を形成する",
+        "summary_ja": "タイトル：腫瘍微小環境におけるPD-L1タンパク質運命の炎症性制御と免疫逃避・治療標的化\n\nProgrammed death-ligand 1 (PD-L1) は従来、膜結合型免疫チェックポイントリガンドとして、PD-1を介して抗腫瘍T細胞活性を抑制すると考えられてきた。この枠組みは依然として重要だが、癌におけるPD-L1の生物学的・臨床的複雑性を完全に説明するには不十分である。近年の知見は、PD-L1が静的な表面マーカーではなく、炎症シグナル、腫瘍細胞適応、免疫逃避の交差点に位置する動的に制御される分子ハブであることを示している。本論文は、腫瘍微小環境における炎症性シグナルがPD-L1のタンパク質運命（局在、安定性、分解）を制御し、免疫逃避を促進するメカニズムを概説する。さらに、これらの動的制御を標的とした新たな治療戦略の可能性について考察する。"
+      },
+      {
+        "title": "RETRACTION: Cancer-Associated Fibroblast-Derived Exosomal miRNA-320a Promotes Macrophage M2 Polarization ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42422540/",
+        "abstract": "[This retracts the article DOI: 10.1155/2022/9514697.].",
+        "source": "PubMed",
+        "doi": "10.1155/jo/9845393",
+        "keyword": "Exosomes",
+        "title_ja": "撤回：癌関連線維芽細胞由来エクソソームmiRNA-320aがマクロファージM2分極を促進する",
+        "summary_ja": "本論文は、2022年に掲載された「Cancer-Associated Fibroblast-Derived Exosomal miRNA-320a Promotes Macrophage M2 Polarization」（DOI: 10.1155/2022/9514697）の撤回通知です。撤回理由は明記されていませんが、掲載誌の判断により正式に撤回されました。元の研究では、癌関連線維芽細胞由来のエクソソームに含まれるmiRNA-320aが、マクロファージのM2分極を促進するメカニズムを報告していましたが、本通知によりその内容は無効となります。"
+      },
+      {
+        "title": "Safety evaluation of repeated administration of umbilical cord mesenchymal stem cell-derived exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42421160/",
+        "abstract": "Mesenchymal stem cell-derived exosomes (MSC-Exos) have shown considerable therapeutic potential in regenerative medicine. However, the biosafety profile of these exosomes following repeated administration has not been adequately characterised, and this knowledge gap continues to hinder clinical translation.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05172-5",
+        "keyword": "Exosomes",
+        "title_ja": "臍帯間葉系幹細胞由来エクソソームの反復投与における安全性評価",
+        "summary_ja": "タイトル：臍帯間葉系幹細胞由来エクソソームの反復投与における安全性評価\n\n間葉系幹細胞由来エクソソーム（MSC-Exos）は再生医療において大きな治療可能性を示している。しかし、反復投与後の生体安全性プロファイルは十分に特徴付けられておらず、この知識の欠如が臨床応用への障壁となっている。本論文では、臍帯MSC-Exosの反復投与による安全性評価を実施。投与後の毒性、免疫応答、臓器影響などを解析し、臨床応用に向けた安全性データを提供する。"
+      },
+      {
+        "title": "A thermosensitive hydrogel delivery system incorporating wogonin-treated mesenchymal stromal cell (MSC)-derived exosomes alleviates osteoarthritis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42421137/",
+        "abstract": "Osteoarthritis (OA) is a prevalent degenerative joint disease affecting major joints, causing pain and functional impairment due to cartilage degeneration and osteophyte formation. Current treatments have significant limitations. Mesenchymal stromal cell (MSC)-based therapy is advantageous for its regenerative and immunomodulatory properties, with the infrapatellar fat pad (IPFP) being a reliable MSC source involved in knee osteoarthritis (KOA) progression. MSC-derived exosomes (MSCs-Exo) are key for therapeutic efficacy through paracrine actions but face rapid clearance by the reticuloendothelial system. Sustained release drug delivery systems based on biodegradable biomaterials could enhance MSCs-Exo retention and control their release, promoting tissue repair. Previous studies indicate that wogonin, a natural flavonoid from Scutellaria baicalensis, can stimulate MSCs and be associated with enhanced therapeutic efficacy of MSCs-Exo. This study develops a thermosensitive hydrogel delivery system for intra-articular injection, incorporating IFP-MSCs-Exo (Gel@MSC",
+        "source": "PubMed",
+        "doi": "10.1186/s13036-026-00709-x",
+        "keyword": "Exosomes",
+        "title_ja": "温感応答性ハイドロゲル送達システムに組み込まれたウォゴニン処理間葉系間質細胞（MSC）由来エクソソームが変形性関節症を緩和する",
+        "summary_ja": "本論文は、変形性関節症（OA）に対する新たな治療法として、wogonin処理した間葉系幹細胞（MSC）由来エクソソームを内包した温感応性ハイドロゲル送達システム（Gel@MSC-Exo）を開発した研究である。OAは軟骨変性や骨棘形成を特徴とする degenerative joint disease であり、既存治療には限界がある。MSCベース治療は再生・免疫調節能に優れるが、エクソソームは網内系による急速なクリアランスが課題であった。本研究では、膝関節周囲の膝蓋下脂肪体（IPFP）由来MSCを用い、wogonin刺激により治療効果を増強したエクソソームを、生分解性温感応性ハイドロゲルに封入し、関節内注射により持続放出を実現した。これにより、エクソソームの滞留性向上と組織修復促進が期待される。"
+      },
+      {
+        "title": "Core binding factor β preserves early chondrogenic identity and prevents hypertrophic transition in cartilage organoids formation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42421090/",
+        "abstract": "Human-induced pluripotent stem cells (hiPSCs) represent a promising cell source for cartilage regeneration because of their self-renewal capacity and chondrogenic potential. However, the propensity of hiPSC-derived chondrocytes to undergo hypertrophic maturation remains a major obstacle to generating stable articular cartilage. Here, we identified core binding factor β (CBFβ) as a critical regulator of early chondrogenic identity and a suppressor of hypertrophic transition during hiPSC-derived cartilage organoid formation. CBFβ expression was markedly diminished in degenerative articular cartilage from both human osteoarthritis (OA) specimens and mouse OA models, and cartilage-specific ablation of Cbfβ accelerated cartilage structural deterioration and matrix loss. Notably, CBFβ was secreted by non-mineralizing cells, including chondrocytes and vascular smooth muscle cells, suggesting an autocrine/paracrine regulatory role. Pharmacological inhibition with Brefeldin A reduced extracellular CBFβ levels, whereas blockade of exosome release by GW4869 had minimal effect, indicating a secretion-associated mechanism independent of exosomes. Recombinant human CBFβ (rhCBFβ) treatment enhanced the chondrocyte phenotype by upregulating early chondrogenic markers (SOX9, COL2A1) while suppressing hypertrophic and catabolic markers ( RUNX2, MMP13). In hiPSC-derived cartilage organoids, rhCBFβ enhanced matrix deposition and increased COL2A1 and SOX9 expression. Transcriptomic profiling and qRT-PCR validation further demonstrated that rhCBFβ activated cartilage matrix-associated and anti-hypertrophic transcriptional programs, including upregulation of PTHRP, HIF1α, HDAC4, MGP, CILP, and ALK5, together with suppression of RUNX2.Collectively, these findings establish CBFβ as a key regulator of articular cartilage homeostasis and highlights its therapeutic potential for cartilage regeneration in OA. The ability of rhCBFβ to preserve early chondrogenic identity while preventing hypertrophic maturation offers a promising strategy for cartilage tissue engineering. Further preclinical studies are warranted to evaluate its efficacy and accelerate clinical translation for OA therapy.",
+        "source": "PubMed",
+        "doi": "10.1186/s13578-026-01616-w",
+        "keyword": "Exosomes",
+        "title_ja": "コア結合因子βは軟骨オルガノイド形成において初期軟骨形成特性を維持し、肥大化移行を防ぐ",
+        "summary_ja": "本論文は、ヒトiPS細胞由来軟骨オルガノイド形成において、core binding factor β（CBFβ）が初期軟骨形成能を維持し、肥大化転移を抑制する重要な因子であることを明らかにした。CBFβの発現は、ヒト変形性関節症（OA）標本およびマウスOAモデルの変性軟骨で顕著に低下し、軟骨特異的Cbfβ欠損は軟骨構造の劣化と基質喪失を促進した。CBFβは軟骨細胞や血管平滑筋細胞などの非石灰化細胞から分泌され、Brefeldin Aによる阻害で細胞外CBFβが減少した一方、エクソソーム阻害剤GW4869の影響は小さく、非エクソソーム依存的な分泌機構が示唆された。組換えヒトCBFβ（rhCBFβ）処理は、初期軟骨マーカー（SOX9、COL2A1）を上昇させ、肥大化・異化マーカー（RUNX2、MMP13）を抑制した。オルガノイドでは基質沈着とCOL2A1、SOX9発現が増加し、トランスクリプト"
+      },
+      {
+        "title": "Nature-derived exosome-like nanoparticles (NELNs) for intracellular transport and targeted RNA delivery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42419497/",
+        "abstract": "As exosomes serve as pivotal mediators of intercellular communication, research on exosomes has expanded markedly from its conventional focus on mammalian sources to the burgeoning field of nature-derived exosome-like nanoparticles (NELNs). Endowed with favorable biocompatibility, low immunogenicity, and wide, readily accessible sources, NELNs have emerged as promising delivery vehicles to address long-standing bottlenecks in RNA-based therapeutic delivery. However, their clinical translation is significantly impeded by the lack of a consensus definition and standardized manufacturing workflows. This review focuses on NELNs-mediated therapeutic RNA delivery; systematic delineation of NELNs' characteristics and biogenic pathways remains insufficient, and further investigation is warranted for details of NELNs' properties, including biochemical composition, inherent biological functions, in vivo biodistribution regulated by distinct administration routes, cellular uptake mechanisms, and regulatory pathways of targeted delivery, as well as state-of-the-art strategies for the construction and optimization of RNA-loaded NELNs. This review systematically characterizes the intracellular trafficking, cargo release kinetics, and metabolic degradation profiles of NELNs-RNA complexes, summarizes their therapeutic applications in brain disorders, intestinal diseases, and tumors, analyzes critical translational challenges including scalable production, batch-to-batch consistency, long-term safety, and targeting precision, and proposes rational optimization strategies to advance mechanistic research and clinical translation of NELNs-based RNA delivery systems.",
+        "source": "PubMed",
+        "doi": "10.1016/j.biotechadv.2026.108979",
+        "keyword": "Exosomes",
+        "title_ja": "細胞内輸送および標的RNA送達のための天然由来エクソソーム様ナノ粒子（NELNs）",
+        "summary_ja": "本レビューは、細胞間情報伝達の重要なメディエーターであるエクソソーム研究の拡張として、自然界由来のエクソソーム様ナノ粒子（NELNs）に焦点を当てる。NELNsは優れた生体適合性、低免疫原性、入手容易性を備え、RNAベース治療薬の送達における長年の課題を解決する有望なキャリアである。しかし、統一された定義や標準化された製造プロセスの欠如が臨床応用を妨げている。本稿では、NELNsの特性（生化学的組成、生物学的機能、投与経路別の体内分布、細胞取り込み機構、標的送達制御経路）やRNA搭載NELNsの構築・最適化戦略を体系的に整理。さらに、NELNs-RNA複合体の細胞内輸送、カーゴ放出動態、代謝分解プロファイルを特徴づけ、脳疾患、腸疾患、腫瘍への治療応用を要約。スケーラブル生産、バッチ間一貫性、長期安全性、標的精度などの臨床翻訳上の課題を分析し、合理的な最適化戦略を提案する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Photoreceptor-targeted engineered exosomes encapsulating black phosphorus quantum dots for alleviating photoreceptor degeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42421125/",
+        "abstract": "Photoreceptor degeneration is a major cause of irreversible visual impairment worldwide, most notably in retinitis pigmentosa (RP). Here, we developed a dual-targeted therapeutic nanoplatform by loading black phosphorus quantum dots (BPQDs) into human dental pulp mesenchymal stem cell-derived exosomes (hDPSC-Exos) and surface-modifying with cell-penetrating peptide transactivated transcription (TAT) and photoreceptor-specific peptide MH42, namely TAT/MH42-engineered black phosphorus quantum dot-loaded exosomes (M/T-BPQD@Exos). M/T-BPQD@Exos showed typical exosomal morphology and good uniformity. In vitro, M/T-BPQD@Exos effectively protected 661 W photoreceptor cells against N-methyl-N-nitrosourea (MNU) injury. In vivo, M/T-BPQD@Exos specifically accumulated in the outer nuclear layer (ONL) and significantly preserved retinal structure and visual function in MNU-induced photoreceptor degeneration rats. Biosafety assessment confirmed no obvious systemic toxicity and inflammation. Mechanistically, M/T-BPQD@Exos alleviated calcium overload, maintained mitochondrial integrity, and suppressed mitochondrial apoptosis by regulating Bcl-2, Bax, and cleaved caspase-3. This study provides a safe and precise strategy for photoreceptor protection in retinal degenerative diseases.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04763-x",
+        "keyword": "Exosomes",
+        "title_ja": "光受容体標的化エクソソームに封入した黒リン量子ドットによる光受容体変性の緩和",
+        "summary_ja": "本論文では、視細胞変性を標的とした新規ナノプラットフォームを開発。黒リン量子ドット（BPQDs）をヒト歯髄間葉系幹細胞由来エクソソーム（hDPSC-Exos）に内包し、細胞透過性ペプチドTATと視細胞特異的ペプチドMH42で表面修飾したM/T-BPQD@Exosを作製。in vitroでは、M/T-BPQD@ExosがMNU障害から661W視細胞を保護。in vivoでは、MNU誘発視細胞変性ラットの外顆粒層に特異的に集積し、網膜構造と視機能を有意に維持。生体安全性評価で毒性や炎症は認められず、メカニズムとしてカルシウム過負荷の軽減、ミトコンドリア完全性の維持、Bcl-2/Bax/cleaved caspase-3調節によるミトコンドリアアポトーシス抑制が示された。網膜変性疾患に対する安全で精密な視細胞保護戦略を提供する。"
+      },
+      {
+        "title": "Exosomes from diabetic perirenal adipose-derived MSCs promote inflammation and fibrosis in diabetic nephropathy via the miR-331-3p/TSC1/mTORC1 Axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42419147/",
+        "abstract": "Perirenal fat, due to its anatomical proximity and secretory function, is intimately linked to renal physiology and is a rich source of mesenchymal stem cells (MSCs). However, the impact of exosomes from MSCs derived from perirenal fat under diabetic pathological conditions remains unclear. Exosomes were isolated from perirenal fat-derived MSCs of healthy and diabetic nephropathy (DN) rats. Their pro-inflammatory and pro-fibrotic effects on glomerular mesangial cells were assessed in vitro using ELISA, immunofluorescence, and Western blot. Differentially expressed miRNAs were identified by high-throughput sequencing. The targeting relationship between miR-331-3p and TSC1 was validated by a dual-luciferase reporter assay. Renal function and histopathology were evaluated in a diabetic rat model to assess therapeutic efficacy following miRNA modulation. MSCs from the perirenal fat of DN rats exhibited significant pro-inflammatory and pro-fibrotic properties compared to the healthy control group. miRNA sequencing revealed that miR-331-3p was significantly upregulated in exosomes from DN rats. Mechanistically, miR-331-3p overexpression promoted high glucose-induced inflammation and fibrosis in mesangial cells by directly targeting TSC1, leading to the activation of the mTOR signaling pathway. This effect was reversed by TSC1 overexpression. In vivo, administration of a miR-331-3p antagomir significantly attenuated renal injury in DN rats, whereas its agomir induced nephropathy-like damage in healthy rats. Our findings indicate that perirenal adipose-derived mesenchymal stem cells (ADMSCs) enhanced pro-inflammatory and pro-fibrotic capabilities in the diabetic microenvironment. This effect is mediated by the delivery of miR-331-3p, which promotes inflammation and fibrosis via the TSC1/mTORC1, ultimately impairing renal function in DN.",
+        "source": "PubMed",
+        "doi": "10.1016/j.intimp.2026.117107",
+        "keyword": "Exosomes",
+        "title_ja": "糖尿病腎周囲脂肪由来MSCのエクソソームは、miR-331-3p/TSC1/mTORC1経路を介して糖尿病性腎症における炎症と線維化を促進する",
+        "summary_ja": "糖尿病性腎症（DN）ラットの腎周囲脂肪由来間葉系幹細胞（ADMSC）から分泌されるエクソソームは、健常群と比較して有意な炎症促進・線維化促進作用を示した。miRNAシーケンス解析により、DNラットのエクソソームではmiR-331-3pが高発現しており、このmiRNAがTSC1を直接標的としてmTORシグナル経路を活性化し、高血糖下のメサンギウム細胞における炎症と線維化を促進することが明らかとなった。TSC1過剰発現によりこの効果は抑制された。in vivoでは、miR-331-3pアンタゴミア投与がDNラットの腎障害を有意に軽減し、アゴミア投与は健常ラットに腎症様障害を誘導した。以上より、糖尿病環境下の腎周囲脂肪ADMSCは、エクソソームを介してmiR-331-3pを供給し、TSC1/mTORC1経路を介してDNの炎症・線維化を促進することが示された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "MSC-derived small extracellular vesicles promote dental pulp repair by alleviating inflammation in pulpitis via AKT and p38 MAPK pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42423314/",
+        "abstract": "Pulpitis compromises dental pulp defense and repair, and current therapies inadequately resolve inflammation. Mesenchymal stem/stromal cell (MSC)-derived small extracellular vesicles (sEVs) exhibit potent anti-inflammatory properties, yet their protective role in inflamed dental pulp and underlying mechanisms remain unclear. This study aimed to evaluate the therapeutic potential of MSC-sEVs in experimental rat pulpitis, define the contribution of sEV-associated CD73 activity, and elucidate the molecular mechanisms by which MSC-sEVs attenuate lipopolysaccharide (LPS)-induced inflammatory responses in dental pulp cells (DPCs).",
+        "source": "PubMed",
+        "doi": "10.1093/stmcls/sxag038",
+        "keyword": "sEVs",
+        "title_ja": "MSC由来の小型細胞外小胞は、AKTおよびp38 MAPK経路を介して歯髄炎の炎症を軽減し、歯髄修復を促進する。",
+        "summary_ja": "本論文は、歯髄炎におけるMSC由来小型細胞外小胞（MSC-sEVs）の治療効果とその分子機構を検討した。歯髄炎は歯髄の防御・修復能を損なうが、現行治療では炎症の十分な制御が困難である。MSC-sEVsは強力な抗炎症作用を持つが、炎症歯髄での保護的役割と機構は未解明であった。本研究では、ラット実験的歯髄炎モデルを用いてMSC-sEVsの治療可能性を評価し、sEV関連CD73活性の寄与を特定し、歯髄細胞（DPCs）におけるLPS誘発炎症応答を減弱する分子機構を解明した。その結果、MSC-sEVsはAKTおよびp38 MAPK経路を介して炎症を抑制し、歯髄修復を促進することが示された。"
+      },
+      {
+        "title": "FNDC5/irisin-enriched sEVs conjugated with bone-targeting aptamer alleviate osteoporosis: a potential alternative to exercise",
+        "url": "https://www.semanticscholar.org/paper/089c0edeca706239b97a9f3875e2b6d07e81399f",
+        "abstract": "Exercise maintains bone health and produces protective effects on bone loss. In this study, we investigated the potential protective effects of circulating small extracellular vesicles (sEVs) generated under endurance exercise training (Exe-sEVs) on ovariectomized (OVX)-induced bone loss. Inhibition of sEVs secretion by GW4869 partially reversed exercised-induced protection against OVX-induced bone loss. Importantly, Exe-sEVs was internalized by bone tissue and alleviated bone loss in OVX-mice. The increased levels of fibronectin type-III domain-containing protein 5 (FNDC5/irisin) in Exe-sEVs contributed to the promotion of osteogenesis in bone marrow mesenchymal stem cells (BM-MSCs). However, systemic knockdown of FNDC5, the precursor of irisin, abolished the exercise-induced protective effects against bone loss in OVX-mice. Moreover, incubation of irisin enhanced osteogenesis and attenuated adipogenesis in BM-MSCs. Intriguingly, implantation of BM-MSCs overexpressing FNDC5 accelerated osteogenesis and chondrogenesis in BALB/c immunodeficiency mice. Mechanistically, irisin promoted phosphorylation of p38MAPK and JNK, but not ERK. Blocking the JNK and p38MAPK signaling pathway with specific inhibitors abolished the pro-osteogenesis and anti-adipogenesis effects of irisin on BM-MSCs. However, inhibition of β-arrestin-2 rescued the irisin-induced activation of p38MAPK and JNK. Finally, aptamer-modified FNDC5-sEVs (Apt-FNDC5-sEVs) exhibited higher enrichment in bone tissues and enhanced bone formation. In conclusion, exercise-induced circulating FNDC5/irisin-enriched sEVs promote osteogenesis of mouse BM-MSCs both in vitro and in vivo, partially through a β-arrestin-2-dependent p38MAPK and JNK signaling pathway. Apt-FNDC5-sEVs represent a promising strategy for the treatment of osteoporosis.",
+        "source": "SemanticScholar",
+        "doi": "10.1186/s12951-025-03587-5",
+        "keyword": "sEVs",
+        "title_ja": "FNDC5/イリシン含有sEVsと骨標的アプタマーの複合体が骨粗鬆症を緩和する：運動に代わる可能性",
+        "summary_ja": "運動は骨量減少に対して保護効果を示す。本研究では、持久性運動トレーニングにより生成される循環小型細胞外小胞（Exe-sEVs）が、卵巣摘出（OVX）マウスの骨量減少に及ぼす保護効果を検討した。GW4869によるsEVs分泌阻害は運動の保護効果を部分的に消失させた。Exe-sEVsは骨組織に取り込まれ、骨量減少を軽減した。Exe-sEVs中のFNDC5/irisin増加が骨髄間葉系幹細胞（BM-MSCs）の骨形成を促進したが、全身性FNDC5ノックダウンは運動の保護効果を消失させた。IrisinはBM-MSCsの骨形成を促進し、脂肪形成を抑制した。機構的には、irisinはp38MAPKとJNKのリン酸化を促進し、β-arrestin-2阻害がこの活性化を回復させた。骨ターゲティングアプタマーを結合したFNDC5-sEVs（Apt-FNDC5-sEVs）は骨組織への集積と骨形成を促進した。以"
+      },
+      {
+        "title": "Lyophilized Small Extracellular Vesicles (sEVs) Derived from Human Adipose Stem Cells Maintain Efficacy to Promote Healing in Neuronal Injuries",
+        "url": "https://www.semanticscholar.org/paper/6ef8b8fed29ce2c7f7da1d3f0c16a909d78abc41",
+        "abstract": "Background: Traumatic brain injury (TBI) occurs in individuals of all ages, predominantly during sports, accidents, and in active military service members. Chronic consequences of TBI include declined cognitive and motor function, dementia, and emotional distress. Small extracellular vesicles (sEVs), previously referred to as exosomes, are nano-sized lipid vesicles that play a role in intercellular communication. Our prior research established the efficacy of sEVs derived from human adipose stem cells (hASC sEVs) in accelerating the healing of brain injuries. The hASC sEVs are a biologic therapeutic and need to be stored at −20 °C or −80 °C. This limits their use in translating to everyday use in clinics or their inclusion in first-aid kits for application immediately after injury. To address this, here we demonstrate that hASC sEVs can be stored at room temperature (RT) for two months post lyophilization. Methods: A transmission electron microscope (TEM) and nanoparticle tracking analysis (NTA) were used to validate the morphology of lyophilized RT sEVs. Using in vitro models of neuronal injury mimicking physical injury, inflammation, and oxidative stress, we demonstrate that lyophilized RT hASC sEVs are viable and promote the healing of neuronal injuries. Results: The lyophilized sEVs maintain their purity, size, and morphology upon rehydration. Lyophilized, RT stored sEVs showed better efficacy after two months compared with −80 °C stored sEVs. Conclusions: RT storage of lyophilized hASC sEVs maintains their efficacy to accelerate the healing of injuries in neuronal cells. This will advance the use of hASC sEVs, bringing them closer to use in clinics, home first-aid kits, and on battlefields by active service members.",
+        "source": "SemanticScholar",
+        "doi": "10.3390/biomedicines13020275",
+        "keyword": "sEVs",
+        "title_ja": "ヒト脂肪由来幹細胞から得られた凍結乾燥小型細胞外小胞（sEVs）は、神経損傷における治癒促進効果を維持する",
+        "summary_ja": "本論文は、ヒト脂肪幹細胞由来の小型細胞外小胞（hASC sEVs）の凍結乾燥保存とその神経損傷治癒効果を検討した。従来、hASC sEVsは-20℃または-80℃での保存が必要であり、臨床や救急現場での即時使用が困難であった。本研究では、凍結乾燥後のhASC sEVsを室温で2か月間保存可能か検証。透過型電子顕微鏡（TEM）とナノ粒子追跡分析（NTA）で形態を確認し、物理的損傷、炎症、酸化ストレスを模倣したin vitro神経損傷モデルで治癒促進効果を評価。結果、凍結乾燥sEVsは再水和後も純度、サイズ、形態を維持し、-80℃保存品よりも高い効果を示した。結論として、凍結乾燥による室温保存はhASC sEVsの神経損傷治癒促進効果を維持し、臨床、家庭用救急キット、戦場での応用が期待される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **β-KlothoとFGFシグナルの治療革新**  \n   β-Klotho（KLB）はFGF19/21の共受容体として代謝制御に必須であり、肥満や糖尿病への治療応用が期待される。構造解析が進み、創薬標的としての重要性が高まっている。\n\n2. **CAR-NK細胞による固形がん治療の進展**  \n   PD1-NKG2DデュアルCAR-NK細胞は、腫瘍の免疫逃避を抑制し、既製品療法として有望。HIV制御や膵臓がんへの応用も報告され、オフ・ザ・シェルフ型免疫細胞療法の実現に近づいている。\n\n3. **HVJ-Eによる自然免疫活性化**  \n   センダイウイルス由来のHVJ-Eは、樹状細胞やNK細胞を活性化し、独自の抗腫瘍効果を発揮。非複製型で安全であり、新たながん免疫療法プラットフォームとして注目される。\n\n4. **MSC由来エクソソームの疾患治療応用**  \n   変形性関節症や歯髄炎、神経損傷に対し、MSC由来エクソソームやsEVsが抗炎症・修復効果を示す。凍結乾燥保存技術の確立により、即時使用可能な治療薬としての実用化が進む。\n\n5. **老化関連遺伝子と肺がん予後**  \n   肺扁平上皮癌において、老化関連遺伝子UGT1A7が予後・治療標的として同定された。老化が腫瘍微小環境に与える影響を統合的に解析し、新たな層別化治療の可能性を示す。\n\nこれらの研究は、基礎から臨床応用への橋渡しを加速し、難治性疾患に対する新たな治療戦略を提供する。"
+}

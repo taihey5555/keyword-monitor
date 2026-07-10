@@ -1,0 +1,124 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Attenuated ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42429291/",
+        "abstract": "Despite the increasing utilization of radiotherapy in the clinical management of hepatocellular carcinoma (HCC), therapeutic efficacy is frequently compromised by radioresistance, which leads to local recurrence and metastasis. Improving the radiosensitivity of HCC cells has therefore become a key focus of current research. Interleukin-21 (IL-21) is a pleiotropic immune regulator known to induce the proliferation of tumor antigen-specific T cells, enhance NK cell cytotoxicity, and modulate the immune microenvironment. However, its role in the context of radiotherapy for HCC remains unclear. In this study, we investigated the anti-tumor effect of IL-21 combined with radiotherapy in HCC-bearing mouse models . We found that treatment with an attenuated ",
+        "source": "PubMed",
+        "doi": "10.1080/1061186X.2026.2702621",
+        "keyword": "NK cell therapy",
+        "title_ja": "弱毒化された",
+        "summary_ja": "タイトル: Attenuated\n\n肝細胞癌（HCC）の臨床管理における放射線療法の利用が増加しているが、放射線抵抗性により治療効果が損なわれ、局所再発や転移を引き起こすことが多い。そのため、HCC細胞の放射線感受性を向上させることが研究の焦点となっている。インターロイキン-21（IL-21）は多面的な免疫調節因子であり、腫瘍抗原特異的T細胞の増殖誘導、NK細胞の細胞毒性増強、免疫微小環境の調節に関与するが、HCC放射線療法における役割は不明である。本研究では、HCC担癌マウスモデルにおいて、IL-21と放射線療法の併用による抗腫瘍効果を検討した。その結果、弱毒化処理（attenuated）により、併用療法が腫瘍増殖を抑制し、免疫応答を促進することが示された。"
+      },
+      {
+        "title": "CD137 in cancer therapy - bench to bedside.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42427082/",
+        "abstract": "CD137 (4-1BB; TNFRSF9) is an inducible costimulatory receptor of the tumor necrosis factor receptor (TNFR) superfamily expressed on activated CD8",
+        "source": "PubMed",
+        "doi": "10.1080/1750743X.2026.2700925",
+        "keyword": "NK cell therapy",
+        "title_ja": "CD137在癌症治疗中的应用——从基础研究到临床实践",
+        "summary_ja": "CD137（4-1BB；TNFRSF9）は、活性化CD8陽性T細胞やNK細胞などに発現するTNF受容体スーパーファミリーの誘導性共刺激受容体である。そのリガンド（4-1BBL）との結合により、T細胞の生存、増殖、エフェクター機能および記憶形成を促進する。この特性から、CD137はがん免疫療法の有力な標的として注目され、アゴニスト抗体（ウレルマブなど）が臨床開発されている。前臨床研究では、抗腫瘍免疫の増強が確認されたが、単剤での臨床効果は限定的であり、肝毒性などの副作用も課題である。現在は、PD-1/PD-L1阻害薬や二重特異性抗体との併用療法、CAR-T細胞へのCD137シグナル導入など、多角的な戦略が探索されている。本総説は、基礎研究から臨床応用（bench to bedside）までのCD137を標的としたがん治療の現状と展望を概説する。"
+      },
+      {
+        "title": "Multifunctional-engineered NK cells overcome tumor immunosuppression by combining PD-L1 and HLA-E targeting and endogenous IL15 production.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42425951/",
+        "abstract": "The immunosuppressive tumor microenvironment (TME) poses a significant challenge to effective cancer immunotherapy, as it enables tumor escape through redundant checkpoint pathways, metabolic constraints, and direct inhibition of effector cells. To overcome these barriers, we developed a next-generation NK cell platform using a tri-cistronic retroviral vector that enhances NK cell activation, recruitment, survival, and metabolic fitness. Pan-cancer transcriptomic analyses reveal consistent co-expression of PD-L1 and HLA-E across tumors, which correlates with immune infiltration accompanied by strong immunosuppression, highlighting these molecules as key targets for immune evasion. To improve NK cell recruitment, activation, cytolytic function, survival, and metabolic fitness in the TME, we developed a next-generation NK cell platform using a tri-cistronic retroviral vector that encodes an extracellular PD-1 domain (",
+        "source": "PubMed",
+        "doi": "10.1038/s41392-026-02827-w",
+        "keyword": "NK cell therapy",
+        "title_ja": "多機能性操作NK細胞がPD-L1とHLA-E標的化および内在性IL15産生を組み合わせることで腫瘍免疫抑制を克服する",
+        "summary_ja": "この論文では、腫瘍免疫抑制を克服するため、次世代NK細胞プラットフォームを開発した。トリシストロニックレトロウイルスベクターを用い、PD-1細胞外ドメインとNKG2A細胞外ドメインを融合したPD-1/NKG2A CAR、IL-15、CCL4をコードする。パンキャンサートランスクリプトーム解析により、腫瘍全体でPD-L1とHLA-Eの一貫した共発現が確認され、これらが免疫回避の鍵であることを示した。本プラットフォームは、NK細胞の活性化、動員、生存、代謝適応性を向上させ、PD-L1とHLA-Eを同時標的とすることで、腫瘍微小環境における免疫抑制を克服する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Glycolysis‑driven immunosuppression in gastric cancer: Metabolic crosstalk between tumor cells and the immune microenvironment (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42429073/",
+        "abstract": "Gastric cancer (GC) remains a major cause of cancer‑related mortality worldwide, and only a subset of patients achieves durable benefit from immune checkpoint blockade (ICB). This suggests that non‑genomic barriers within the tumor microenvironment (TME) substantially limit antitumor immunity. Increasing evidence indicates that tumor‑intrinsic glycolytic reprogramming and lactate accumulation contribute to this immune resistance. Oncogenic signaling, hypoxia‑inducible factor‑1α (HIF‑1α), phosphoinositide 3‑kinase/protein kinase B/mechanistic target of rapamycin (mTOR) pathways and noncoding RNA networks promote the expression of glycolytic enzymes and lactate transporters, including hexokinase 2, 6‑phosphofructo‑2‑kinase/fructose‑2,6‑biphosphatase 3 (PFKFB3), pyruvate kinase M2, lactate dehydrogenase A (LDHA) and monocarboxylate transporters, thereby establishing a glycolysis‑high, lactate‑rich TME. Within this metabolic niche, lactate functions as a bioactive mediator that impairs dendritic cell differentiation and cross‑priming, weakens cytotoxic T‑cell and natural killer‑cell activity, and promotes M2‑like macrophages and myeloid‑derived suppressor cells through hydroxycarboxylic acid receptor 1/G protein‑coupled receptor 81‑dependent signaling and histone lactylation. Cancer‑associated fibroblasts and mesenchymal stem/stromal cells further reinforce this state through glycolysis, lactate shuttling, cytokine secretion, extracellular matrix remodeling and exosome‑mediated transfer of glycolysis‑promoting noncoding RNAs. These interactions generate spatially organized immunometabolic niches characterized by lactate accumulation, stromal remodeling, abnormal angiogenesis and poor CD8",
+        "source": "PubMed",
+        "doi": "10.3892/ijo.2026.5912",
+        "keyword": "NK cell therapy",
+        "title_ja": "胃がんにおける解糖系駆動型免疫抑制：腫瘍細胞と免疫微小環境間の代謝的クロストーク（レビュー）",
+        "summary_ja": "胃癌（GC）は世界的な癌死因の主要因であり、免疫チェックポイント阻害薬（ICB）の効果は一部の患者に限られる。これは腫瘍微小環境（TME）内の非ゲノム的障壁が抗腫瘍免疫を制限するためである。腫瘍固有の解糖系リプログラミングと乳酸蓄積が免疫抵抗性に寄与する。発癌シグナル、HIF‑1α、PI3K/Akt/mTOR経路、非コードRNAネットワークが解糖系酵素や乳酸輸送体（HK2、PFKFB3、PKM2、LDHA、MCT）の発現を促進し、高解糖・高乳酸TMEを形成する。乳酸は生理活性メディエーターとして、樹状細胞の分化やクロスプライミングを阻害し、細胞傷害性T細胞やNK細胞の活性を低下させ、HCA1/GPR81シグナルやヒストン乳酸化を介してM2型マクロファージや骨髄由来抑制細胞を促進する。癌関連線維芽細胞や間葉系幹細胞は解糖、乳酸シャトル、サイトカイン分泌、細胞外マトリックスリモデリング、エクソ"
+      },
+      {
+        "title": "Rewiring cellular immunotherapy: From CAR evolution to circuit innovations across diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42425236/",
+        "abstract": "Chimeric antigen receptor (CAR)-based immunotherapy has evolved from early linear receptor designs into increasingly sophisticated biological signal processing systems. While conventional CAR-T cell therapies have achieved remarkable clinical success, particularly in hematologic malignancies, their broader application is constrained by limited scalability, manufacturing complexity, and treatment-related toxicities. These challenges have driven the expansion of CAR engineering beyond T cells to alternative immune cell types, including natural killer (NK) cells and macrophages, as well as the diversification of genetic delivery and control strategies. Concurrently, advances in synthetic biology have reframed CARs not merely as static receptors but as programmable immune circuits capable of integrating multiple inputs, executing logical operations, and generating context-dependent outputs. Such circuit-based designs enable precise regulation of immune activation, improved discrimination between tumor and healthy tissues, and enhanced functional persistence within heterogeneous and immunosuppressive microenvironments. In this review, we conceptualize CAR-based immunotherapy as a form of biological signal processing and systematically trace its transition from linear CAR architectures to programmable immune circuits. We summarize engineering strategies for both ex vivo and in situ reprogramming of immune cells, compare viral and nonviral gene delivery platforms, and discuss key design principles underlying circuit CARs across different disease contexts.",
+        "source": "PubMed",
+        "doi": "10.1016/j.biotechadv.2026.108980",
+        "keyword": "NK cell therapy",
+        "title_ja": "細胞免疫療法の再配線：CARの進化から疾患横断的な回路革新へ",
+        "summary_ja": "キメラ抗原受容体（CAR）に基づく免疫療法は、初期の線形受容体設計から高度な生体信号処理システムへと進化した。従来のCAR-T細胞療法は血液がんにおいて顕著な臨床的成功を収めたが、拡張性の限界、製造の複雑さ、治療関連毒性により適用範囲が制約されている。これらの課題を受け、CAR工学はT細胞からナチュラルキラー（NK）細胞やマクロファージなどの代替免疫細胞へ拡大し、遺伝子送達・制御戦略も多様化した。同時に、合成生物学の進展により、CARは静的な受容体ではなく、複数の入力を統合し論理演算を実行し文脈依存的出力を生成するプログラム可能な免疫回路として再定義された。本レビューでは、CARベース免疫療法を生体信号処理として捉え、線形CARからプログラム可能免疫回路への移行を体系的に追跡する。ex vivoおよびin situでの免疫細胞再プログラミング戦略、ウイルス・非ウイルス遺伝子送達プラットフォ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Lymphatic extracellular vesicles and non-coding rnas in the melanoma sentinel lymph node pre-metastatic niche: Emerging lessons from aggressive skin cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42424986/",
+        "abstract": "Sentinel lymph node (SLN) involvement remains one of the strongest prognostic markers in cutaneous melanoma; however, the SLN is not merely a staging specimen. It is the first organized immune-stromal site exposed to lymph-borne melanoma-derived extracellular vesicles (EVs), soluble mediators, proteins, lipids, and non-coding RNAs (ncRNAs) before and during metastatic seeding. Current evidence supports a model in which melanoma-derived EVs traffic through lymphatic vessels, enter draining nodes, interact with lymphatic endothelial cells, medullary macrophages, dendritic cells, and T cells, and remodel lymphovascular, stromal, and immune compartments. Key vesicle-associated mechanisms include NGFR/p75NTR-positive small extracellular vesicles (sEVs) that drive lymphangiogenesis and nodal metastasis, PD-L1-positive vesicles that suppress T-cell activation, CD36-linked pathways that reshape myeloid lipid metabolism, and uPAR-associated vesicles that promote endothelial and matrix remodeling. EV-associated miRNAs, lncRNAs, and circRNAs may further regulate fibroblast activation, macrophage behavior, MAPK/ERK signaling, PTEN-related stromal restraint, glycolysis, autophagy, and tumor-suppressive pathways. This review integrates clinical SLN biology, lymphatic vesicle trafficking, cargo-specific protein and ncRNA pathways, immune tolerance, stromal remodeling, multi-omic profiling, and therapeutic interception. Comparative evidence from cutaneous squamous cell carcinoma and Merkel cell carcinoma broadens the field, but direct evidence linking lymphatic EVs to SLN remodeling remains strongest in melanoma.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ctarc.2026.101298",
+        "keyword": "sEVs",
+        "title_ja": "メラノーマセンチネルリンパ節転移前微小環境におけるリンパ系細胞外小胞と非コードRNA：進行性皮膚癌からの新たな知見",
+        "summary_ja": "センチネルリンパ節（SLN）は皮膚悪性黒色腫の予後指標であるが、単なる病期診断標本ではなく、リンパ行性のメラノーマ由来細胞外小胞（EV）や非コードRNA（ncRNA）が最初に到達する免疫・間質部位である。メラノーマ由来EVはリンパ管内皮細胞、マクロファージ、樹状細胞、T細胞と相互作用し、リンパ管新生や免疫抑制、間質再編成を誘導する。主要な機構として、NGFR/p75NTR陽性小型EVによるリンパ管新生促進、PD-L1陽性EVによるT細胞抑制、CD36関連経路による骨髄細胞脂質代謝変化、uPAR関連EVによる内皮・マトリックス再構築が挙げられる。EV内のmiRNA、lncRNA、circRNAは線維芽細胞活性化、MAPK/ERKシグナル、PTEN関連間質制御、解糖系、オートファジー、腫瘍抑制経路を調節する。本総説はSLN生物学、リンパ小胞輸送、タンパク質・ncRNA経路、免疫寛容、間質再編成"
+      },
+      {
+        "title": "hsa-let-7c-3p Restrains the Proliferation-to-Osteogenesis Transition of Human Periodontal Ligament Mesenchymal Stem/Stromal Cells via NT5E.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230452/",
+        "abstract": "Small extracellular vesicles (sEVs) derived from mesenchymal stem/stromal cells (MSCs) contain microRNAs (miRNAs) that can modulate the cellular behavior of recipient cells. Human periodontal ligament mesenchymal stem/stromal cells (hPDL-MSCs) are a unique MSC population involved in periodontal tissue regeneration; however, the specific miRNAs that regulate their proliferative and differentiation-related properties remain incompletely understood. In this study, we profiled miRNAs enriched in sEVs secreted by highly proliferative human PDL-MSCs and identified hsa-let-7c-3p as a candidate regulator of hPDL-MSC behavior. Functional assays demonstrated that hsa-let-7c-3p enhanced proliferative and migratory behavior, reflected by an approximately 1.5-fold increase in metabolic activity and a 2-fold increase in migration, while suppressing osteogenic differentiation, with approximately 50% reductions in alkaline phosphatase activity and mineralization. To identify functionally relevant downstream targets, we intersected AGO2-RIP-seq-enriched transcripts, RNA-seq-defined genes altered by hsa-let-7c-3p overexpression, and in silico target predictions, identifying NT5E/CD73 as a candidate downstream target with experimental validation. Furthermore, NT5E knockdown partially phenocopied the effects of hsa-let-7c-3p overexpression on hPDL-MSC proliferation, migration, and osteogenic differentiation, supporting a functional link between hsa-let-7c-3p and NT5E/CD73. These findings highlight hsa-let-7c-3p as an underexplored sEV-associated 3p miRNA strand that restrains the proliferation-to-osteogenesis transition of hPDL-MSCs and identify NT5E/CD73 as a functionally relevant downstream target. Clinical trial number. Not applicable.",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11160-2",
+        "keyword": "sEVs",
+        "title_ja": "hsa-let-7c-3p 通过 NT5E 抑制人牙周膜间充质干/基质细胞的增殖向成骨转化",
+        "summary_ja": "hsa-let-7c-3pは、ヒト歯根膜間葉系幹細胞（hPDL-MSC）において、増殖から骨形成への移行を抑制する。本研究では、高増殖性hPDL-MSC由来の小型細胞外小胞（sEV）に豊富なmiRNAを解析し、hsa-let-7c-3pを同定。機能解析の結果、本miRNAは代謝活性を約1.5倍、遊走能を約2倍に亢進する一方、アルカリホスファターゼ活性と石灰化を約50%抑制し、骨形成分化を阻害した。AGO2-RIP-seq、RNA-seq、in silico予測を統合し、標的遺伝子としてNT5E/CD73を同定・検証。NT5Eノックダウンはhsa-let-7c-3p過剰発現と同様の表現型を示し、両者の機能的関連が示された。本知見は、hsa-let-7c-3pがsEV関連の3p鎖miRNAとしてhPDL-MSCの増殖–骨形成移行を制御する新規因子であることを示す。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **多機能NK細胞による腫瘍免疫抑制の克服**  \n   PD-L1とHLA-Eの両方を標的とし、IL-15とCCL4を同時発現する次世代NK細胞プラットフォームが開発されました。従来のCAR-T細胞の限界を補い、固形がんへの応用が期待されます。\n\n2. **CAR免疫療法の進化と回路設計**  \n   CAR-T細胞療法は血液がんで成功しましたが、固形がんへの拡張や毒性が課題です。本総説は、生体信号処理を模倣した次世代CAR設計の重要性を強調し、今後の汎用性向上に貢献します。\n\n3. **リンパ節前転移ニッチと細胞外小胞**  \n   メラノーマ由来の細胞外小胞（EV）や非コードRNAがセンチネルリンパ節で転移前微小環境を形成するメカニズムが解明されつつあります。早期診断や治療標的としての可能性が注目されます。\n\n4. **解糖系駆動の免疫抑制と胃がん**  \n   胃がん微小環境における腫瘍細胞の解糖系リプログラミングと乳酸蓄積が免疫チェックポイント阻害薬の効果を制限するメカニズムが整理されました。代謝標的との併用療法の開発が期待されます。\n\n5. **hsa-let-7c-3pと歯根膜幹細胞の骨形成制御**  \n   小型細胞外小胞（sEV）に豊富なmiRNAが、幹細胞の増殖から骨形成への移行を抑制する新たな制御機構が示されました。再生医療や歯周病治療への応用が展望されます。"
+}

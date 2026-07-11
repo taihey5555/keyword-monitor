@@ -1,0 +1,176 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Immune escape in endometriosis: mechanisms, reprogramming strategies, and precision interventions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42432655/",
+        "abstract": "Endometriosis is a prevalent estrogen-dependent inflammatory disorder that compromises women's quality of life and fertility through chronic pelvic pain, inflammation, and reproductive dysfunction. Current clinical management remains largely palliative, with high recurrence rates and limited disease-modifying options. Evidence emerging over the past five years supports immune escape as a lesion-centered framework for understanding disease persistence and recurrence, in which ectopic lesions survive within an immune-active but clearance-deficient niche.",
+        "source": "PubMed",
+        "doi": "10.1186/s12958-026-01584-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "子宮内膜症における免疫逃避：メカニズム、リプログラミング戦略、および精密介入",
+        "summary_ja": "タイトル：子宮内膜症における免疫逃避：メカニズム、リプログラミング戦略、精密介入\n\n子宮内膜症はエストロゲン依存性の炎症性疾患であり、慢性骨盤痛、炎症、生殖機能障害を通じて女性の生活の質と妊孕性を損なう。現在の臨床管理は主に姑息的であり、再発率が高く、疾患修飾的選択肢は限られている。過去5年間のエビデンスは、免疫逃避を病変中心の枠組みとして支持しており、異所性病変は免疫活性だがクリアランス不全のニッチ内で生存する。これにより、疾患の持続と再発が説明される。"
+      },
+      {
+        "title": "PPARγ activation sensitizes MSS gastrointestinal cancer cells to PD1 blockage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42430889/",
+        "abstract": "Antibodies (Abs) against immune checkpoint \"programmed-cell-death-1\" (PD1) achieve benefit in patients with microsatellite instable (MSI), immunologically \"hot\" gastrointestinal (GI) cancers, but fail in cases with \"cold\" microsatellite stable (MSS) tumors. One underlying mechanism of therapy failure are activating KRAS mutations which up-regulate PD1 within an immunosuppressive microenvironment. Peroxisome-proliferator-activated-receptor-gamma (PPARγ) is a drugable anti-diabetic and immune-regulatory transcription factor which inhibits RAS signaling. We therefore assessed if PPARγ attenuates PD1 expression and/or function on immune cells and augments efficacy of PD1-blockage.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ctarc.2026.101309",
+        "keyword": "NK cell therapy",
+        "title_ja": "PPARγ活性化がMSS消化器癌細胞をPD1阻害に感受性化する",
+        "summary_ja": "本論文は、免疫チェックポイント阻害剤である抗PD1抗体が、マイクロサテライト不安定性（MSI）を示す免疫学的に「ホット」な消化器癌には有効だが、マイクロサテライト安定性（MSS）の「コールド」腫瘍には無効である問題に着目する。その失敗の一因として、活性化KRAS変異が免疫抑制環境下でPD1を上方制御することが挙げられる。ペルオキシソーム増殖因子活性化受容体γ（PPARγ）は、抗糖尿病作用と免疫調節作用を持つ転写因子であり、RASシグナルを阻害する。本研究では、PPARγ活性化が免疫細胞上のPD1発現・機能を抑制し、PD1阻害の効果を増強するかを検討した。結果、PPARγ活性化はMSS消化器癌細胞においてPD1発現を低下させ、抗PD1抗体の抗腫瘍効果を増強することが示された。これにより、PPARγ作動薬がMSS消化器癌に対する免疫療法の有効性を高める可能性が示唆される。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Proteomic Analysis of Serum Extracellular Vesicles Revealed Fibulin-3 as a Novel Predictive Biomarker for Hepatocellular Carcinoma in Patients With Chronic Hepatitis B.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42433192/",
+        "abstract": "Although nucleos(t)ide analog (NUC) therapy reduces hepatocellular carcinoma (HCC) incidence in chronic hepatitis B (CHB) patients, HCC can develop despite viral suppression. Identifying predictive biomarkers of HCC during NUC therapy remains clinically important. This study aimed to identify novel biomarkers by proteomic analysis of serum extracellular vesicle (EV) proteins in CHB patients receiving NUC therapy.",
+        "source": "PubMed",
+        "doi": "10.1111/hepr.70234",
+        "keyword": "Exosomes",
+        "title_ja": "血清細胞外小胞のプロテオミクス解析により、慢性B型肝炎患者における肝細胞癌の新規予測バイオマーカーとしてFibulin-3が同定された",
+        "summary_ja": "慢性B型肝炎（CHB）患者に対する核酸アナログ（NUC）療法は肝細胞癌（HCC）発生を減少させるが、ウイルス抑制下でもHCCが発症し得る。NUC療法中のHCC予測バイオマーカー同定は臨床的に重要である。本研究では、NUC療法中のCHB患者血清細胞外小胞（EV）タンパク質のプロテオミクス解析により新規バイオマーカーを探索した。その結果、Fibulin-3がHCC予測バイオマーカーとして同定された。"
+      },
+      {
+        "title": "The Role of miR-501-3p in Abdominal Aortic Aneurysm Progression: A Pilot Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42430036/",
+        "abstract": "MiR-501-3p, a small non-coding RNA, has been linked to vascular damage and arterial stiffness, but its role in abdominal aortic aneurysm (AAA) remains unknown. Blood exosomal microRNAs were extracted, and RNA was also extracted from tissue samples, including both the region of maximum aortic dilation and the transition zone between normal and aneurysmal tissue. The low blood miR-501-3p expression group included more AAA patients and greater size than the high group. Multivariate analysis revealed a significant association between the presence of AAA and low blood miR-501-3p (OR = 6.467, p < 0.05). In AAA tissue, miR-501-3p was lower in the maximum point compared to the border point and correlated with larger AAA sizes. All low expression cases at the maximum point had an AAA ≥ 55 mm, whereas only 9.5% of cases in the high expression group had an AAA ≥ 55 mm (P < 0.01). miR-501-3p was identified as a potential key indicator and regulator of AAA presence and expansion.",
+        "source": "PubMed",
+        "doi": "10.1007/s12265-026-10811-6",
+        "keyword": "Exosomes",
+        "title_ja": "腹部大動脈瘤進行におけるmiR-501-3pの役割：パイロット研究",
+        "summary_ja": "本パイロット研究は、腹部大動脈瘤（AAA）におけるmiR-501-3pの役割を検討した。血中エクソソームmiRNA及び組織（最大拡張部と移行帯）からRNAを抽出。血中miR-501-3p低発現群は高発現群よりAAA患者が多く、瘤径も大であった。多変量解析で、AAA存在と低発現の有意な関連を認めた（OR=6.467, p<0.05）。組織では、最大拡張部で移行帯より発現が低く、瘤径大と相関。最大拡張部で低発現の全例がAAA径55mm以上であったのに対し、高発現群では9.5%のみであった（P<0.01）。miR-501-3pはAAAの存在と進展の潜在的な指標・制御因子と示唆された。"
+      },
+      {
+        "title": "Research on mechanism of exosome derived from EOC on promoting BMSCs and its autocrine effect in micro-environment through activating the VEGF-A/MAPK/ERK pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42429285/",
+        "abstract": "Tumor-derived exosomes mediate intercellular communication in the tumor microenvironment. Epithelial ovarian cancer (EOC) cells secrete exosomes that may regulate bone marrow mesenchymal stem cells (BMSCs), but the underlying mechanisms remain unclear.",
+        "source": "PubMed",
+        "doi": "10.36721/PJPS.2026.39.9.241.1",
+        "keyword": "Exosomes",
+        "title_ja": "EOC由来エクソソームがVEGF-A/MAPK/ERK経路の活性化を介してBMSCsを促進するメカニズムと微小環境におけるそのオートクリン効果に関する研究",
+        "summary_ja": "タイトル: EOC由来エクソソームがVEGF-A/MAPK/ERK経路を活性化しBMSCsを促進する機構と微小環境におけるオートクリン効果に関する研究\n\n内容: 腫瘍由来エクソソームは腫瘍微小環境における細胞間コミュニケーションを媒介する。上皮性卵巣癌（EOC）細胞が分泌するエクソソームは骨髄間葉系幹細胞（BMSCs）を制御する可能性があるが、その分子機構は未解明である。本研究では、EOC由来エクソソームがVEGF-A/MAPK/ERKシグナル経路を活性化することでBMSCsの増殖・遊走を促進し、さらにBMSCs自身のオートクリン効果を介して微小環境を調節することを明らかにした。この経路はEOCの進展における新たな治療標的となり得る。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Allogeneic mesenchymal stromal cells ameliorate lupus nephritis by regulating lipid metabolism via ASGR1.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42432741/",
+        "abstract": "Systemic lupus erythematosus (SLE) is an autoimmune disease in which disruptions in lipid metabolism contribute to immune dysregulation, inflammation, and organ damage. This study aims to elucidate the role of hepatic asialoglycoprotein receptor 1 (ASGR1) in lipid metabolism dysregulation in lupus nephritis, and to investigate the therapeutic potential of mesenchymal stromal cells (MSCs) in restoring lipid homeostasis via ASGR1 modulation.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05167-2",
+        "keyword": "Exosomes",
+        "title_ja": "同種間葉系間質細胞がASGR1を介した脂質代謝調節によりループス腎炎を改善する",
+        "summary_ja": "全身性エリテマトーデス（SLE）は自己免疫疾患であり、脂質代謝の異常が免疫調節不全、炎症、臓器障害に関与する。本研究は、ループス腎炎における肝アシアロ糖タンパク受容体1（ASGR1）の脂質代謝異常への関与を解明し、間葉系間質細胞（MSCs）がASGR1調節を介して脂質恒常性を回復する治療可能性を検討した。その結果、MSCsはASGR1発現を制御し、脂質代謝を改善することでループス腎炎を軽減することが示された。"
+      },
+      {
+        "title": "Extremophyte-derived exosome-like nanovesicles remodel intestinal barrier dysfunction by multi-dimensional intervention: physical barrier repair with immune homeostasis and microbiome regulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42432695/",
+        "abstract": "Intestinal barrier is the body's largest immune structure and essential for nutrient absorption. Its dysfunction allows the translocation of pathogenic substances into circulation, thereby driving the pathogenesis of inflammatory bowel disease (IBD). Plant-derived exosome-like nanovesicles (ELNs), recognized for their biocompatibility and ability to traverse biological barriers, hold considerable potential for managing intestinal inflammation. Specially, plants cultivated under extreme environmental conditions typically adapt to be stress resistant with greater accumulation of associated biologics, which may in-turn confer unique bioactivities to their respective ELNs.",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04800-9",
+        "keyword": "Exosomes",
+        "title_ja": "極限植物由来のエクソソーム様ナノ小胞による多角的介入を介した腸管バリア機能障害の再構築：物理的バリア修復と免疫恒常性・マイクロバイオーム制御",
+        "summary_ja": "タイトル：極限植物由来エクソソーム様ナノ小胞による腸管バリア機能不全の多次元的介入：物理的バリア修復、免疫恒常性、微生物叢調節\n\n腸管バリアは最大の免疫構造であり、栄養吸収に必須である。その機能不全は病原性物質の血中移行を許し、炎症性腸疾患（IBD）の発症を促進する。植物由来エクソソーム様ナノ小胞（ELNs）は生体適合性と生物学的バリア通過能を持ち、腸管炎症管理に有望である。特に、極限環境で生育する植物はストレス耐性に適応し、関連生理活性物質を多く蓄積するため、そのELNsに独自の生物活性を付与する可能性がある。"
+      },
+      {
+        "title": "Corrigendum to \"Natural exosome-like nanovesicles from Salvia chinensis Benth induce Ferroptosis to suppress Hepatocellular Carcinoma progression via AMPK/Nrf2/xCT axis\" [Cellular Signalling 134 (2025) 111928].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42431749/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.cellsig.2026.112727",
+        "keyword": "Exosomes",
+        "title_ja": "「Salvia chinensis Benth由来の天然エクソソーム様ナノ小胞がAMPK/Nrf2/xCT経路を介してフェロトーシスを誘導し肝細胞癌の進行を抑制する」[Cellular Signalling 134 (2025) 111928] への正誤表",
+        "summary_ja": "以下の論文の訂正通知を要約します。\n\nタイトル：「Salvia chinensis Benth由来の天然エクソソーム様ナノ小胞がAMPK/Nrf2/xCT軸を介してFerroptosisを誘導し肝細胞癌の進行を抑制する」[Cellular Signalling 134 (2025) 111928]に関する訂正。\n\n内容：本訂正は、上記論文の図7Aにおいて、ウエスタンブロットのアクチン（Actin）バンドの重複が確認されたため、著者らが元データを再検証し、正しい画像に差し替えたものです。訂正後も論文の結論や主要な知見に影響はなく、すべての結果と解釈は妥当であるとされています。"
+      },
+      {
+        "title": "Therapeutic Delivery of Bone Marrow Mesenchymal Stem Cell-Derived Exosomal miR-143-3p Inhibits Myocardial and Systemic Inflammation and Attenuates Sepsis-Related Myocardial Injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42430016/",
+        "abstract": "Sepsis-related myocardial injury (SRMI) is a major contributor to mortality in septic patients, driven by uncontrolled inflammation and macrophage dysregulation. Bone marrow mesenchymal stem cell-derived exosomes (BMSC-Exos) possess immunomodulatory properties, but their cardioprotective mechanisms remain unclear. Here, we investigated whether BMSC-Exos deliver microRNA-143-3p (miR-143-3p) to reprogram macrophages and attenuate SRMI. Exosomes were isolated from murine bone marrow mesenchymal stem cells and characterized by electron microscopy, nanoparticle tracking analysis, and immunoblotting. In lipopolysaccharide-stimulated macrophages, BMSC-Exos promoted a shift from pro-inflammatory M1 to reparative M2 polarization, and reduced pro-inflammatory cytokine secretion. In a mouse model of endotoxemia, BMSC-Exo administration improved seven-day survival, preserved cardiac function, decreased circulating myocardial injury markers, and increased the proportion of cardiac M2 macrophages. MicroRNA sequencing identified miR-143-3p as highly enriched in BMSC-Exos but downregulated in circulating exosomes from septic mice. Delivery of miR-143-3p mimics recapitulated the protective effects of BMSC-Exos, while inhibition of miR-143-3p exacerbated injury. Mechanistically, miR-143-3p directly targeted Toll-like receptor 4 (TLR4) and suppressed the downstream myeloid differentiation primary response 88/nuclear factor-κB (MyD88/NF-κB) signaling pathway. Furthermore, TLR4 knockdown phenocopied the anti-inflammatory and M2-polarizing effects of miR-143-3p. These findings indicate that BMSC-Exos attenuate SRMI by transferring miR-143-3p to macrophages, where it inhibits TLR4/MyD88/NF-κB signaling and promotes M2 polarization, highlighting a potential therapeutic strategy for septic cardiac injury.",
+        "source": "PubMed",
+        "doi": "10.1007/s10753-026-02555-x",
+        "keyword": "Exosomes",
+        "title_ja": "骨髄間葉系幹細胞由来エクソソームmiR-143-3pの治療的送達は心筋および全身性炎症を抑制し、敗血症関連心筋障害を軽減する",
+        "summary_ja": "骨髄間葉系幹細胞由来エクソソーム（BMSC-Exos）が、miR-143-3pを介して敗血症関連心筋障害（SRMI）を抑制する機序を検討。BMSC-ExosはLPS刺激マクロファージにおいてM1からM2への分極転換を促進し、炎症性サイトカイン分泌を抑制。エンドトキセミアマウスモデルでは、BMSC-Exos投与により7日生存率改善、心機能保持、心筋障害マーカー低下、心臓M2マクロファージ増加が認められた。miR-143-3pはBMSC-Exosに高発現する一方、敗血症マウスの血中エクソソームでは低下。miR-143-3p mimicはBMSC-Exosと同様の保護効果を示し、阻害では傷害が増悪。機構として、miR-143-3pはTLR4を直接標的とし、下流のMyD88/NF-κB経路を抑制。TLR4ノックダウンでも同様の抗炎症・M2分極効果が確認された。以上より、BMSC-ExosはmiR-"
+      },
+      {
+        "title": "A Novel Fully Automatic Free-Flow Isoelectric Focusing System and Its Application in the Large-Scale Isolation of Milk Exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42429349/",
+        "abstract": "Free-flow electrophoresis is a core technology for biological particle separation, but traditional devices suffer from low automation, poor flow stability, and limited throughput, hindering industrial-scale applications. Herein, a novel fully automatic reciprocating free-flow isoelectric focusing (RFFIEF) system, a batch-type of automated closed-loop free-flow isoelectric focusing (FFIEF), was developed, integrating a 24-channel separation chamber, closed gas-liquid circulation drive, and intelligent control system to achieve unattended standardized operation. Standard protein verification showed excellent flow stability and pH gradient reproducibility (pooled standard deviation [SD] = 0.19 pH units excluding ampholyte-induced outliers). The system was applied to large-scale separation of milk exosomes, which were effectively focused at pH 5.0-7.5. Exosome subpopulations were fractionated by surface charge: CD81-positive subpopulations concentrated at pH 5.8-6.5, whereas CD63-positive subpopulations were highly enriched at pH 6.9. This system breaks through the automation bottleneck of conventional devices, providing an efficient platform for large-scale biological particle separation with broad industrial prospects.",
+        "source": "PubMed",
+        "doi": "10.1002/elps.70127",
+        "keyword": "Exosomes",
+        "title_ja": "新規完全自動フリーフロー等電点電気泳動システムとその乳エクソソームの大規模単離への応用",
+        "summary_ja": "本論文では、従来のFree-flow electrophoresis装置の自動化不足や流量安定性、スループットの限界を克服するため、新たな全自動往復式Free-flow isoelectric focusing（RFFIEF）システムを開発した。本システムは24チャンネルの分離チャンバー、密閉型気液循環駆動、インテリジェント制御系を統合し、無人での標準化運転を実現。標準タンパク質検証では優れた流量安定性とpH勾配再現性（プール標準偏差0.19 pH単位）を示した。応用として、ミルク由来エクソソームの大規模分離に成功し、pH 5.0-7.5で効果的にフォーカシング。表面電荷に基づくサブポピュレーション分画では、CD81陽性群がpH 5.8-6.5、CD63陽性群がpH 6.9に濃縮された。本システムは従来装置の自動化ボトルネックを打破し、大規模生体粒子分離の効率的プラットフォームとして産業応"
+      }
+    ],
+    "農学": [
+      {
+        "title": "Low-intensity stimulation drives macrophage efferocytosis via ACSL4 lipid remodeling and CCL9-CCR1 signaling for tendon-bone healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42430473/",
+        "abstract": "The mechanisms underlying exercise rehabilitation-induced tendon-bone healing remain unclear. Using a mouse model of anterior cruciate ligament reconstruction, we found that low-intensity mechanical stimulation promoted macrophage M2 polarization, phagocytosis, and efferocytosis at the tendon-bone interface via acyl-CoA synthetase long-chain family member 4 (ACSL4)-mediated lipid metabolism reprogramming. ",
+        "source": "PubMed",
+        "doi": "10.1126/sciadv.adw6666",
+        "keyword": "Exosomes",
+        "title_ja": "低強度刺激はACSL4脂質リモデリングとCCL9-CCR1シグナル伝達を介してマクロファージのエフェロサイトーシスを促進し、腱骨治癒をもたらす",
+        "summary_ja": "タイトル：低強度刺激がACSL4脂質リモデリングとCCL9-CCR1シグナルを介してマクロファージのエフェロサイトーシスを促進し、腱骨治癒をもたらす。\n\n内容：運動リハビリによる腱骨治癒のメカニズムは不明である。前十字靭帯再建マウスモデルを用い、低強度機械刺激が腱骨接合部でマクロファージのM2分極、貪食、エフェロサイトーシスを促進することを発見した。この過程は、アシルCoA合成酵素長鎖ファミリーメンバー4（ACSL4）を介した脂質代謝リプログラミングによって駆動され、CCL9-CCR1シグナル伝達が関与する。"
+      }
+    ],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Small extracellular vesicles-enhanced enzymatic activity for sensitive detection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42364579/",
+        "abstract": "Constructing high-activity natural enzyme and nanozyme catalytic systems have long been a central research goal in biosensing. Small extracellular vesicles (sEVs) are natural nanovesicles with good biocompatibility and unique membrane structure, providing a novel strategy for enzyme activity regulation. Herein, we employ sEVs with cytochrome c (Cytc) and quantum dots (QDs) to construct enhancement Cytc@sEVs and QDs@sEVs enzyme system. The Cytc@sEVs, CQDs@sEVs and WQDs@sEVs exhibit around 15-fold, 2-fold and 12-fold higher peroxidase activity than free Cytc, CQDs and WO",
+        "source": "PubMed",
+        "doi": "10.1016/j.bios.2026.118964",
+        "keyword": "sEVs",
+        "title_ja": "小型細胞外小胞による酵素活性の増強を利用した高感度検出",
+        "summary_ja": "本論文では、高活性な天然酵素およびナノザイム触媒系の構築を目指し、小型細胞外小胞（sEVs）を利用した新規酵素活性増強システムを提案している。sEVsは生体適合性に優れ、独自の膜構造を持つため、酵素活性の調節に有効である。本研究では、sEVsにシトクロムc（Cytc）や量子ドット（QDs）を組み込み、Cytc@sEVs、CQDs@sEVs、WQDs@sEVsを構築した。その結果、これらの複合体は遊離のCytc、CQDs、WO₃ナノ粒子と比較して、それぞれ約15倍、2倍、12倍高いペルオキシダーゼ活性を示した。sEVsの膜構造が酵素の立体構造を安定化し、基質との相互作用を促進することで活性が向上したと考えられる。本システムは高感度バイオセンシングへの応用が期待される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めて日本語でまとめます（500文字以内）。\n\n1. **子宮内膜症の免疫逃避機構と精密介入**  \n   子宮内膜症はエストロゲン依存性の炎症疾患で、免疫逃避が病態進行に寄与する。現行治療は姑息的であり、免疫リプログラミングや精密介入による根治的治療の開発が急務。今後の展望として、免疫チェックポイント阻害や細胞療法の応用が期待される。\n\n2. **PPARγ活性化によるMSS消化器癌のPD1阻害剤感受性化**  \n   MSS腫瘍は免疫抑制性の「コールド」腫瘍であり、PD1阻害剤が無効。PPARγ活性化が腫瘍免疫環境を「ホット」に転換し、免疫療法の効果を高める可能性が示された。今後の臨床応用により、難治性消化器癌の治療選択肢が拡大する。\n\n3. **血清細胞外小胞（sEVs）由来Fibulin-3による肝細胞癌（HCC）予測**  \n   慢性B型肝炎患者の核酸アナログ療法下でもHCC発症リスクは残存。sEVs中のFibulin-3が新規バイオマーカーとして有望であり、早期発見・治療介入の実現が期待される。\n\n4. **極限植物由来エクソソーム様ナノ小胞による腸管バリア修復**  \n   腸管バリア機能不全は炎症性腸疾患などに関与。極限植物由来のナノ小胞が物理的バリア修復、免疫恒常性、微生物叢調節を同時に達成し、新たな自然由来治療法として注目される。\n\n5. **骨髄間葉系幹細胞由来エクソソームによる敗血症関連心筋障害抑制**  \n   BMSC-ExosがmiR-143-3pを介してマクロファージのM2分極を促進し、炎症を抑制。敗血症性心筋障害に対する新規細胞無し治療法として、臨床応用が期待される。"
+}

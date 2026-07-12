@@ -1,0 +1,154 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Bone transcriptomics reveals that juzentaihoto remodels and activates multiple pathways in Klotho-deficient mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42437193/",
+        "abstract": "Aging-related osteoporosis arises from an imbalance between bone formation and resorption. The traditional Japanese Kampo formula juzentaihoto (JTT) is used in the clinic to improve imbalances in systemic homeostasis, especially in elderly individuals; however, its effects on age-associated bone loss remain unclear. Here, we confirmed the effect of JTT on the osteoporotic phenotype in a model of aging, and explored its underlying mechanisms through transcriptomic analysis.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bonr.2026.101936",
+        "keyword": "Klotho",
+        "title_ja": "骨トランスクリプトミクスにより、十全大補湯がKlotho欠損マウスにおいて複数の経路を再構築し活性化することが明らかになった。",
+        "summary_ja": "タイトル：骨トランスクリプトミクスが示す、ジュウゼンタイホトウ（十全大補湯）によるKlotho欠損マウスの複数経路のリモデリングと活性化\n\n老化関連骨粗鬆症は骨形成と骨吸収の不均衡に起因する。伝統的な漢方方剤である十全大補湯（JTT）は、特に高齢者における全身恒常性の改善に臨床使用されるが、加齢性骨減少への効果は不明である。本研究では、老化モデルマウスにおけるJTTの骨粗鬆症表現型への影響を確認し、トランスクリプトミクス解析によりその基盤メカニズムを探索した。"
+      },
+      {
+        "title": "The Use of FGF21 Analogues in MASH and MASH Cirrhosis - Metabolic Master Regulators or Liver-Specific Mechanisms? ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42435974/",
+        "abstract": "Fibroblast growth factor 21 (FGF21) is a pleiotropic endocrine hormone that coordinates metabolic homeostasis across the liver, adipose tissue, pancreas, and central nervous system. In metabolic dysfunction-associated steatotic liver disease (MASLD) circulating FGF21 is markedly elevated, yet downstream signaling remains blunted-a state of FGF21 resistance driven by reduced β-klotho co-receptor availability and altered receptor complex function. Pharmacological FGF21 analogues were engineered to overcome unfavorable native pharmacokinetics and achieve sustained target engagement at the FGFR1c/β-klotho complex in key tissues. Liver-directed effects of FGF21 analogues encompass suppression of de novo lipogenesis and lipotoxic intermediates, attenuation of hepatocellular stress and innate immune activation, and inhibition of hepatic stellate cells. Systemically, FGF21 signaling remodels adipose tissue via an FGF21-adiponectin axis, reduces atherogenic dyslipidemia, improves insulin sensitivity, and modulates central pathways of energy expenditure and macronutrient preference. This breadth of action positions FGF21 analogues as both metabolic master regulators and liver disease therapeutics. In phase 2 clinical trials, efruxifermin, pegozafermin, and efimosfermin have demonstrated meaningful histological improvements in fibrotic MASH. In addition, efruxifermin showed histological regression of cirrhosis in a dedicated compensated cirrhosis trial. Phase 3 programs are now underway to establish effects on liver-related outcomes and mortality. FGF21 analogues appear particularly potent in inducing fibrosis regression even with modest weight loss, supporting a complementary combination strategy. Current evidence supports FGF21 pathway activation as a meaningful strategy to modify of MASH progression and potentially revert cirrhotic liver disesase.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jhepr.2026.101957",
+        "keyword": "Klotho",
+        "title_ja": "FGF21アナログのMASHおよびMASH関連肝硬変における使用—代謝のマスターレギュレーターか、肝臓特異的メカニズムか？",
+        "summary_ja": "FGF21は肝臓、脂肪組織、膵臓、中枢神経系にわたり代謝恒常性を調節する内分泌ホルモンである。MASLDでは血中FGF21が上昇するが、β-klotho共受容体の減少によりシグナル伝達が鈍化する「FGF21抵抗性」状態となる。薬理学的FGF21アナログは、FGFR1c/β-klotho複合体に持続的に作用するよう設計され、肝臓では新規脂肪合成抑制、肝細胞ストレス軽減、肝星細胞阻害を発揮。全身的にはFGF21-アディポネクチン軸を介した脂肪組織リモデリング、脂質異常改善、インスリン感受性向上、エネルギー消費調節を行う。第2相試験でefruxifermin、pegozafermin、efimosferminは線維性MASHの組織学的改善を示し、efruxiferminは代償性肝硬変の退縮も認めた。第3相試験が進行中であり、FGF21経路活性化はMASH進行抑制と肝硬変可逆化に有望な戦略である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Homoharringtonine in combination with Tanshinone IIA suppresses the progression of lymphoma cells by downregulating the Akt/MMP signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42437192/",
+        "abstract": "Lymphoma can seriously affect the quality of life of patients. Both homoharringtonine (HHT) and tanshinone IIA (Tan IIA) have shown robust anti-proliferation and apoptosis-inducing effects in lymphoma cells. However, it is unclear whether they can be used in combination to treat acute myeloid leukemia and lymphoma. Cell Counting Kit-8 (CCK-8) was employed to measure cell viability, the 5-Ethynyl-20-deoxyuridine assay (EdU) was used to quantify cell proliferation, and the transwell migration assay was used to assess cell migration in U937 and Raji cells. Additionally, transmission electron microscopy and nanoparticle tracking analysis assays were used to observe and identify exosomal structure, respectively. Combined HHT and Tan IIA treatment synergistically inhibited the viability and proliferation of U937 and Raji cells, induced apoptosis, and reduced vascular endothelial growth factor (VEGF) levels in these cells. Additionally, VEGFA and VEGFC levels were significantly reduced in exosomes derived from Raji cells that had been treated with HHT and Tan IIA (Exo",
+        "source": "PubMed",
+        "doi": "10.1007/s10616-026-01031-6",
+        "keyword": "Exosomes",
+        "title_ja": "ホモハリントニンとタンシノンIIAの併用は、Akt/MMPシグナル伝達経路を下方制御することでリンパ腫細胞の進行を抑制する",
+        "summary_ja": "本論文は、ホモハリントニン（HHT）とタンシノンIIA（Tan IIA）の併用が、リンパ腫細胞の進行を抑制するメカニズムを検討した。U937およびRaji細胞を用い、CCK-8法で細胞生存率、EdUアッセイで増殖能、トランスウェルアッセイで遊走能を評価した。また、透過型電子顕微鏡とナノ粒子追跡解析でエクソソーム構造を観察した。結果、HHTとTan IIAの併用は、両細胞の生存率と増殖を相乗的に抑制し、アポトーシスを誘導し、VEGFレベルを低下させた。さらに、Raji細胞由来エクソソーム中のVEGFAおよびVEGFCレベルも有意に減少した。これらの効果は、Akt/MMPシグナル経路の下方制御を介しており、リンパ腫治療における併用療法の可能性を示唆する。"
+      },
+      {
+        "title": "Biomimetic M2 exosome-based dual-drug nanoplatform for combined immunomodulation and bone protection in rheumatoid arthritis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42436654/",
+        "abstract": "The current treatment of rheumatoid arthritis (RA) remains limited by severe drug-associated side effects and poor suppression of bone erosion. Herein, we report the development of biomimetic nanoparticles (CEC NPs) that co-deliver celecoxib (CXB) and the lysine-specific demethylase 1 (LSD1) inhibitor CC-90011 via M2 macrophage-derived exosomes (M2 Exos), thereby integrating targeted delivery with innovative multi-mechanistic therapeutic strategies. The M2 Exos enable innate homing to inflamed synovium and osteoclast-rich lesions, while ensuring efficient intracellular delivery. CEC NPs combined repolarize macrophages from the M1 to M2 phenotype, suppress fibroblast-like synoviocyte activation, and critically inhibit bone erosion by blocking the LSD1-NFATc1 signaling pathway in the osteoclast. Collectively, these effects result in potent anti-inflammatory and osteoprotective outcomes. Notably, we identified CC-90011 as a previously unrecognized anti-erosive agent to directly suppress bone erosion in RA treatment. In a collagen-induced arthritis (CIA) model, CEC NPs markedly outperform monotherapies, with pronounced reduction in joint swelling, cartilage degradation, and bone erosion, without systemic toxicity. This work introduces an M2 Exo-based dual-drug delivery system as a versatile strategy for multi-mechanistic modulation of inflammation and bone destruction, offering a promising paradigm that could be extended to other inflammatory and autoimmune bone disorders.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.05.010",
+        "keyword": "Exosomes",
+        "title_ja": "関節リウマチにおける免疫調節と骨保護のための生体模倣M2エクソソームベースの二重薬剤ナノプラットフォーム",
+        "summary_ja": "本論文は、関節リウマチ（RA）治療における新規ナノプラットフォーム（CEC NPs）を報告する。CEC NPsは、M2マクロファージ由来エクソソーム（M2 Exos）を介してセレコキシブ（CXB）とLSD1阻害剤CC-90011を共送達する生体模倣ナノ粒子である。M2 Exosは炎症滑膜や破骨細胞病変への自然ホーミング能を持ち、細胞内送達を効率化する。CEC NPsはマクロファージをM1からM2表現型へ再分極させ、線維芽細胞様滑膜細胞の活性化を抑制し、破骨細胞におけるLSD1-NFATc1経路を遮断することで骨びらんを阻害する。これにより強力な抗炎症・骨保護効果を発揮する。特にCC-90011は、RA治療で骨びらんを直接抑制する新規抗びらん剤として同定された。コラーゲン誘発関節炎（CIA）モデルにおいて、CEC NPsは単剤療法を凌駕し、関節腫脹、軟骨変性、骨びらんを顕著に低減し、全身毒性"
+      },
+      {
+        "title": "Plasma exosomal HERV-K transcripts are increased in amyotrophic lateral sclerosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42436372/",
+        "abstract": "Human endogenous retrovirus-K (HERV-K) reactivation is increasingly implicated in amyotrophic lateral sclerosis (ALS), with ongoing clinical trials investigating antiretroviral therapies. However, there is limited understanding of how HERV-K is trafficked in peripheral biofluids, and the role of exosomes, nano-sized extracellular vesicles, in this process remains largely unexplored. Exosomes offer a stable and cell-specific cargo reservoir that may reflect central pathogenic processes and serve as a minimally invasive biomarker source. In this study, we isolated plasma-derived exosomes from ALS patients (n = 21) and healthy controls (n = 16), and quantified exosomal HERV-K gag, env, and pol transcript levels using SYBR Green qPCR with RNase treatment and normalization to both traditional and exosome-enriched reference genes. HERV-K pol expression was significantly elevated in ALS, with fold-changes ranging from 1.59 to 1.85 (P = 0.037-0.051). env and gag also showed increased expression, though with greater variability. Normalization to the exosome-specific gene SOD2 provided the most consistent signal. These findings suggest that exosomal HERV-K transcripts, particularly pol, could serve as accessible biomarkers for patient stratification and treatment monitoring in HERV-K-targeted ALS trials. This work establishes proof-of-concept for using exosomal cargo to track endogenous retroviral activity in neurodegeneration and supports further investigation of liquid biopsy approaches in ALS precision medicine.",
+        "source": "PubMed",
+        "doi": "10.1186/s12868-026-01014-5",
+        "keyword": "Exosomes",
+        "title_ja": "筋萎縮性側索硬化症において血漿エクソソーム中のHERV-K転写産物が増加している。",
+        "summary_ja": "筋萎縮性側索硬化症（ALS）におけるヒト内在性レトロウイルスK（HERV-K）の再活性化が注目され、抗レトロウイルス療法の臨床試験が進行中である。しかし、末梢体液でのHERV-K輸送やエクソソームの役割は未解明である。本研究では、ALS患者21名と健常者16名の血漿由来エクソソームを単離し、SYBR Green qPCRでHERV-K gag、env、polの転写産物を定量した。RNase処理と従来及びエクソソーム特異的参照遺伝子による補正の結果、ALS群でpol発現が有意に上昇（fold-change 1.59-1.85、P=0.037-0.051）。envとgagも上昇傾向を示したが変動が大きかった。エクソソーム特異的遺伝子SOD2による補正が最も安定したシグナルを提供した。これらの知見は、エクソソームHERV-K転写産物、特にpolがALSの患者層別化や治療モニタリングのバイオマーカ"
+      },
+      {
+        "title": "Axitinib promotes stemness and vasculogenic mimicry in triple-negative breast cancer by disrupting THBS1-CD47 axis-mediated endothelial-tumor cell communication.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42435251/",
+        "abstract": "Triple-negative breast cancer (TNBC) is an aggressive subtype with limited therapeutic options. Although anti-angiogenic agents like Axitinib are used in cancers, resistance emerges through poorly understood mechanisms involving stemness and vasculogenic mimicry (VM). Here, we investigated the regulatory role of thrombospondin-1 (THBS1), an anti-angiogenic protein, in Axitinib-mediated signaling and its impact on TNBC. The effects of Axitinib on VM, angiogenesis, and stemness in TNBC were investigated through in vivo models and in vitro endothelial-supernatant cultures. Bioinformatics analyses (GSE230643 and CellChat), immunohistochemistry of clinical samples, exosome transfer assays, and xenograft models were employed to explore how Axitinib regulates THBS1-mediated endothelial-TNBC intercellular communication. Further bioinformatics analyses, combined with in vitro and in vivo experimental validations, were performed to elucidate the mechanism of the THBS1-CD47 axis in TNBC. Axitinib treatment increased stemness and promoted VM in TNBC models, despite tumor growth inhibition. Bioinformatics analyses revealed the Axitinib-dependent THBS pathway between endothelial and endothelial-like tumor cells. Axitinib-induced downregulation of THBS1 expression in HUVEC cells promoted stemness and angiogenesis of recipient TNBC cells via exosomes. Mechanistically, endothelial-derived THBS1 promoted CD47 expression in recipient TNBC cells, thereby attenuating the activity of PI3K/Akt and MAPK/ERK signaling pathways, and inhibiting stemness, angiogenesis, and VM. Importantly, Axitinib disrupted this THBS1-CD47 axis by downregulating endothelial-derived THBS1 expression. Axitinib induces the suppression of THBS1 expression in endothelial cells, thereby enhancing stemness and VM in recipient TNBC via disruption of the THBS1-CD47 axis. Restoring THBS1 signaling may represent a promising strategy to overcome Axitinib resistance.",
+        "source": "PubMed",
+        "doi": "10.1007/s10495-026-02388-x",
+        "keyword": "Exosomes",
+        "title_ja": "アキシチニブはTHBS1-CD47軸を介した内皮-腫瘍細胞間の情報伝達を阻害することで、トリプルネガティブ乳癌における幹細胞性と血管新生模倣を促進する",
+        "summary_ja": "アキシチニブは、トリプルネガティブ乳癌（TNBC）において、腫瘍増殖を抑制する一方で、幹細胞性と血管擬態（VM）を促進する。その機序として、アキシチニブが内皮細胞におけるトロンボスポンジン-1（THBS1）の発現を低下させ、THBS1-CD47軸を介した内皮-腫瘍細胞間の細胞間コミュニケーションを阻害することが明らかになった。THBS1は通常、CD47を介してPI3K/AktおよびMAPK/ERKシグナルを抑制し、幹細胞性や血管新生、VMを阻害するが、アキシチニブはこの制御を解除する。THBS1シグナルの回復が、アキシチニブ耐性克服の有望な戦略となる可能性がある。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Lung adenocarcinoma cell-derived lactate activates CAFs to promote macrophage M2 polarization via exosomal miR-214-5p.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42436128/",
+        "abstract": "Cancer-associated fibroblasts (CAFs) are key components of the tumor microenvironment that can drive cancer progression and immune evasion. Here, we identify a novel pathway in which lactate produced by lung adenocarcinoma (LUAD) cells activates normal fibroblasts into CAFs, inducing high expression of microRNA miR-214-5p. The CAFs secrete miR-214-5p via exosomes, which in turn polarizes tumor-associated macrophages (TAMs) toward the immunosuppressive M2 phenotype. Mechanistically, exosomal miR-214-5p targets the transcriptional repressor BHLHE41 in macrophages, relieving its inhibition on M2-polarization genes. We further demonstrate that lactate accumulation epigenetically upregulates miR-214-5p in CAFs by increasing histone H3 lysine 9 lactylation (H3K9la) at the DNM3OS/miR-214 gene locus, independently of the lactate receptor GPR81. Lactate also enhances the loading of miR-214-5p into exosomes by inducing lactylation of the RNA-binding protein YBX1, which binds miR-214-5p and facilitates its exosomal export. In a mouse co-implantation model of LUAD, pharmacological blockade of tumor lactate production (LDH inhibition) reduced CAF activation, TAM M2 polarization, miR-214-5p levels, and tumor growth. Our findings uncover a lactate-driven CAF-TAM signaling axis via exosomal miR-214-5p, highlighting potential therapeutic targets to counteract tumor immune evasion in lung adenocarcinoma.",
+        "source": "PubMed",
+        "doi": "10.1038/s41389-026-00641-1",
+        "keyword": "Exosomes",
+        "title_ja": "肺腺癌細胞由来の乳酸がエクソソームmiR-214-5pを介してCAFを活性化し、マクロファージのM2分極を促進する",
+        "summary_ja": "肺腺癌（LUAD）細胞由来の乳酸は、正常線維芽細胞を癌関連線維芽細胞（CAF）に活性化し、microRNA miR-214-5pの発現を誘導する。CAFはエクソソームを介してmiR-214-5pを分泌し、腫瘍関連マクロファージ（TAM）を免疫抑制性のM2表現型に分極させる。機構的には、エクソソームmiR-214-5pはマクロファージ内の転写抑制因子BHLHE41を標的とし、M2分極遺伝子の抑制を解除する。乳酸はCAFにおいて、DNM3OS/miR-214遺伝子座のヒストンH3リジン9ラクチル化（H3K9la）を増加させ、エピジェネティックにmiR-214-5pを上方制御する（乳酸受容体GPR81非依存性）。また、乳酸はRNA結合タンパク質YBX1のラクチル化を誘導し、miR-214-5pのエクソソームへの積み込みを促進する。マウス共移植モデルでは、乳酸産生阻害（LDH阻害）によりCAF活性"
+      },
+      {
+        "title": "Neuron-Targeted Exosomal Delivery of siRNA Against RIPK3 Slows Neurodegenerative Progression in Alzheimer's Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42435764/",
+        "abstract": "A major challenge in RNA therapeutics for central nervous system disorders is the lack of delivery systems capable of crossing the blood-brain barrier (BBB) while achieving cell-type-specific targeting. Herein, we develop an engineered exosomal siRNA delivery platform for systemic, neuron-targeted RNA transport to the brain. The platform leverages exosomes derived from an immortalized mouse hippocampal neuronal cell line as a biomimetic and functionally privileged material source, enhancing neuronal uptake and intracellular delivery efficiency. Through surface functionalization with a rabies virus glycoprotein-derived peptide, the system enables receptor-mediated BBB transcytosis and programmable siRNA loading. In human cortical organoids, the platform achieves efficient cytosolic delivery and robust gene silencing in neurons, demonstrating high delivery precision and bioavailability. As a proof of concept, targeting receptor-interacting protein kinase 3 (RIPK3) modulates necroptosis, a key pathway in inflammatory neurodegeneration. In transgenic mouse models, systemic administration suppresses RIPK3/MLKL signaling, reduces neuronal loss, and alleviates neuroinflammation and tau-associated pathology. Transcriptomic analyses further indicate stabilization of neuronal homeostasis across vulnerable brain regions. Collectively, the study establishes a modular and programmable exosomal RNA delivery platform and highlights age-defined, cell-derived biomaterials as a generalizable strategy for overcoming delivery barriers in neurological diseases.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.76558",
+        "keyword": "Exosomes",
+        "title_ja": "RIPK3に対するsiRNAのニューロン標的型エクソソーム送達がアルツハイマー病の神経変性進行を遅延させる",
+        "summary_ja": "本論文は、血液脳関門（BBB）を通過し、神経細胞特異的にsiRNAを送達する新規エキソソームプラットフォームを開発した。不死化マウス海馬神経細胞株由来のエキソソームを基盤とし、狂犬病ウイルス糖蛋白質由来ペプチドで表面修飾することで、BBB通過と神経細胞への取り込みを実現。ヒト大脳皮質オルガノイドでは効率的な遺伝子サイレンシングを確認し、アルツハイマー病モデルマウスにおいて、RIPK3を標的とした全身投与により、RIPK3/MLKLシグナル抑制、神経細胞死低減、神経炎症およびタウ病理の軽減、脆弱脳領域での神経恒常性維持を実証した。本プラットフォームは、神経疾患におけるRNA送達障壁を克服する汎用性戦略を提供する。"
+      },
+      {
+        "title": "Unraveling Bone-Skin Crosstalk Enables miRNA Nanoformulation for Cutaneous Neurovascular Reconstruction in Diabetic Mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42435758/",
+        "abstract": "The clinical intractability of diabetic foot ulcers stems from a profound uncoupling of cutaneous neurovascular networks, rendering standard metabolic and topical interventions largely palliative. Paradoxically, remote orthopedic trauma robustly accelerates distal skin repair, yet the systemic molecular mediators driving this \"bone-skin crosstalk\" remain undefined, precluding its translation into non-invasive therapies. Here, we establish that macroscopic bone fracture expedites diabetic wound healing through the systemic release of exosomal miR-130b-3p, a potent orchestrator of coupled angiogenesis and neurogenesis. To recapitulate this physiological axis non-invasively, we engineered a self-assembling, cholesterol-modified agomir-130b-3p nanocomplex that could bypass endolysosomal degradation. For sustained spatial delivery, these carrier-free nanoassemblies were incorporated into an in situ photocrosslinkable methacrylated collagen/silk fibroin hydrogel, creating a bio-instructive extracellular matrix that prolongs microRNA bioavailability. In streptozotocin-induced diabetic mice, hydrogel-mediated agomir delivery achieved 97.2% full-thickness wound closure. Advanced volumetric light-sheet imaging of chemically cleared whole-mount skin confirmed the robust spatiotemporal reconstruction of deep vascular and neural networks. These findings decode a distinct exosome-mediated inter-organ repair mechanism and demonstrate that biomimetic microRNA nanoformulations can effectively translate systemic physiological cues into localized, high-efficacy therapeutics for ischemic neuropathic wounds.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.76500",
+        "keyword": "Exosomes",
+        "title_ja": "骨-皮膚クロストークの解明により、糖尿病マウスにおける皮膚神経血管再建のためのmiRNAナノ製剤が可能に",
+        "summary_ja": "糖尿病性足潰瘍の難治性は、皮膚の神経血管ネットワークの乖離に起因する。本研究では、骨折が全身性のエクソソームmiR-130b-3pを介して糖尿病創傷治癒を促進する「骨-皮膚クロストーク」を解明した。この機構を非侵襲的に再現するため、コレステロール修飾agomir-130b-3pナノ複合体を設計し、光架橋性メタクリル化コラーゲン/シルクフィブロインゲルに組み込んだ。担体フリーのナノアセンブリはエンドリソソーム分解を回避し、ハイドロゲルが持続的なmiRNA送達を実現。ストレプトゾトシン誘発糖尿病マウスにおいて、本製剤は97.2%の全層創傷閉鎖率を示し、光シートイメージングにより深部血管・神経ネットワークの再構築を確認した。この知見は、エクソソーム介在性臓器間修復機構を解読し、生体模倣miRNAナノ製剤が全身性生理シグナルを局所的高効率治療に変換可能であることを示す。"
+      },
+      {
+        "title": "GABARAPL2 and Alix mediate reciprocal regulation of autophagy and exosome pathways to facilitate cellular homeostasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42435234/",
+        "abstract": "The continuous reliance of cancer cells on acquiring energy and communicating their nutrient needs makes them both resilient and vulnerable. It provides an opportunity to stifle cancer cells by restricting their energy generation and communication ability. Autophagy and exosome biogenesis pathways are essential in maintaining the robust growth and survival of cancer cells.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12327-3",
+        "keyword": "Exosomes",
+        "title_ja": "GABARAPL2とAlixは、オートファジーとエクソソーム経路の相互調節を媒介し、細胞の恒常性を促進する。",
+        "summary_ja": "タイトル: GABARAPL2とAlixによるオートファジーとエクソソーム経路の相互調節と細胞恒常性維持\n\n癌細胞はエネルギー獲得と栄養要求の伝達に継続的に依存するため、強靭でありながら脆弱でもある。この特性を利用し、エネルギー生成とコミュニケーション能力を制限することで癌細胞を抑制できる可能性がある。オートファジーとエクソソーム生合成経路は、癌細胞の強固な増殖と生存維持に不可欠である。本論文では、GABARAPL2とAlixがこれらの経路を相互に調節し、細胞恒常性を促進するメカニズムを明らかにしている。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **Klotho欠損マウスと十全大補湯（JTT）**  \n   Klothoは老化抑制因子として知られ、その欠損は骨粗鬆症を引き起こす。JTTが骨トランスクリプトームをリモデリングし、複数経路を活性化する可能性が示された。漢方薬の老化制御への応用が期待される。\n\n2. **FGF21アナログとMASH治療**  \n   FGF21は代謝恒常性を調節するが、MASLDではβ-klotho減少による抵抗性が問題。薬理学的FGF21アナログはこの抵抗性を克服し、MASHや肝硬変治療の新たな選択肢となる可能性がある。\n\n3. **M2エクソソームによる関節リウマチ治療**  \n   M2マクロファージ由来エクソソームにセレコキシブとLSD1阻害剤を搭載したナノプラットフォームは、免疫調節と骨保護を同時に実現。関節リウマチの新規治療戦略として注目される。\n\n4. **神経細胞標的エクソソームによるアルツハイマー病治療**  \n   RIPK3に対するsiRNAを搭載し、狂犬病ウイルス糖蛋白質で修飾したエクソソームはBBBを通過し神経細胞に特異的送達。神経変性を遅延させる新たなDDSとして期待される。\n\n5. **骨-皮膚クロストークと糖尿病創傷治癒**  \n   骨折がエクソソームmiR-130b-3pを介して糖尿病創傷治癒を促進する機構を解明。非侵襲的なmiRNAナノ製剤による神経血管再生治療の可能性が示された。\n\nこれらの研究は、老化、代謝疾患、自己免疫疾患、神経変性疾患、創傷治癒における新たな治療標的とDDSの開発に貢献する。"
+}

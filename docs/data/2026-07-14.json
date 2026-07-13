@@ -1,0 +1,124 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Mineral and Bone Disease in CKD and Kidney Transplantation: Controversies, Gaps, and a Path Forward.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42438722/",
+        "abstract": "The pathophysiology of chronic kidney disease (CKD)-related mineral and bone disorder (CKD-MBD) extends far beyond simple mineral imbalances. Evolving from the traditional understanding of secondary hyperparathyroidism, the conceptual framework has recently been updated to recognize 2 distinct but overlapping clinical syndromes: CKD-associated osteoporosis, which encompasses the significantly increased fracture risk and microarchitectural deterioration in this population; and CKD-associated cardiovascular disease, which accounts for vascular and structural cardiac abnormalities, including medial vascular calcification. Unlike traditional osteoporosis, the 2 clinical syndromes emerge from intricate interactions between declining kidney function and dysregulated mineral metabolism. The early rise in fibroblast growth factor-23 (FGF-23) levels; progressive phosphate retention; diminished vitamin D activation; secondary hyperparathyroidism; and uremic toxin accumulation, particularly uric acid and indoxyl sulfate, orchestrate profound disruptions in osteocyte, osteoblast, and osteoclast function. The complex interaction amplifies in the dialysis population, where protein-energy wasting affects most patients; and intensifies following kidney transplantation because of glucocorticoid, immunosuppressive, and anticoagulant treatments. Consequently, fracture rates in patients with CKD exceed those of age-matched controls by >4-fold, with patients on dialysis therapy facing a ≤ 8-fold increased risk. Available diagnostic and predictive tools need to be improved to adequately identify at-risk patients. The usefulness of additional, more recent biomarkers such as FGF-23, a-Klotho, and various bone turnover parameters remains a matter of debate. Bone biopsy, considered as the diagnostic gold-standard, remains impractical in routine practice. Dual-energy X-ray absorptiometry (DXA) cannot provide information on the type of renal osteodystrophy. Moreover, it demonstrates limitations in the presence of severe vascular calcifications. Trabecular bone scores (TBS) emerge as potential progress in noninvasive bone imaging, showing modest superiority over traditional densitometry in predicting fracture risks among secondary osteoporosis populations, yet large clinical trials with long-term follow-up are required. Therapeutic management spans from parathyroidectomy to pharmacological interventions with bisphosphonates, denosumab, teriparatide, romosozumab, whereas agents such as burosumab remain investigational, with no published clinical trials in this population. However, therapeutic nihilism persists, with most high-risk patients not receiving bone-targeted therapy despite accumulating safety data. Transforming care demands abandoning therapeutic nihilism, embracing personalized risk stratification, and conducting trials in populations historically excluded from bone health research.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ekir.2026.106662",
+        "keyword": "Klotho",
+        "title_ja": "CKDおよび腎移植におけるミネラルと骨の疾患：論争、ギャップ、そして今後の道筋",
+        "summary_ja": "慢性腎臓病（CKD）に伴う骨ミネラル代謝異常（CKD-MBD）は、単なるミネラルバランス異常を超え、CKD関連骨粗鬆症（骨折リスク増加と骨微細構造劣化）とCKD関連心血管疾患（血管石灰化を含む）の2つの臨床症候群として認識される。病態はFGF-23上昇、リン貯留、ビタミンD活性化低下、二次性副甲状腺機能亢進症、尿毒症毒素蓄積が骨細胞・骨芽細胞・破骨細胞機能を障害する。透析患者ではタンパク質エネルギー消耗が加わり、腎移植後はグルココルチコイド等で増悪する。骨折リスクは健常対照の4倍超、透析患者では最大8倍に達する。診断では骨生検がゴールドスタンダードだが非実用的で、DXAは血管石灰化の影響を受け、Trabecular bone score（TBS）が非侵襲的評価として有望だが長期試験が必要。治療は副甲状腺摘出術やビスホスホネート、デノスマブ、テリパラチド等があるが、高リスク患者への骨標的治療"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Effects of Exosomes Derived from Hydatid Cyst Stem Cells on Human Hepatocytes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42440022/",
+        "abstract": "Hydatid cyst disease is a zoonotic infection that predominantly affects the liver and can lead to severe hepatic complications. Exosomes are important mediators of intercellular signaling and are capable of transferring bioactive molecules to target cells. This study aimed to investigate the biological effects of exosomes derived from hydatid cyst stem cells on human hepatocytes to better understand parasite-associated hepatic alterations.",
+        "source": "PubMed",
+        "doi": "10.1007/s11686-026-01342-w",
+        "keyword": "Exosomes",
+        "title_ja": "包虫囊干细胞来源的外泌体对人肝细胞的影响",
+        "summary_ja": "エキノコックス症は主に肝臓に影響を及ぼす人獣共通感染症であり、重篤な肝合併症を引き起こす。エクソソームは細胞間シグナル伝達の重要なメディエーターであり、標的細胞に生理活性分子を輸送する。本研究は、エキノコックス囊胞幹細胞由来のエクソソームがヒト肝細胞に及ぼす生物学的影響を調査し、寄生虫関連の肝臓変化を解明することを目的とした。"
+      },
+      {
+        "title": "Exosome Nanotechnology in Molecular Medicine Advances, Applications and Challenges in Gene Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42439119/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1017/erm.2026.10066",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームナノテクノロジーによる分子医療：遺伝子治療における進展、応用、そして課題",
+        "summary_ja": "タイトル: Exosome Nanotechnology in Molecular Medicine Advances, Applications and Challenges in Gene Therapy.\n\n本稿は、エクソソームナノテクノロジーが分子医学、特に遺伝子治療分野で果たす役割と課題を概説する。エクソソームは、細胞間情報伝達を担うナノサイズの小胞であり、低免疫原性、高い生体適合性、標的細胞への自然な送達能を持つため、遺伝子治療のベクターとして有望視される。近年の進歩として、エクソソーム表面へのリガンド修飾による標的指向性の向上や、siRNA、mRNA、CRISPR-Cas9システムなどの核酸医薬の効率的な内包技術が開発されている。これにより、がん、神経変性疾患、遺伝性疾患などへの応用が進んでいる。一方で、大量生産・精製の困難さ、積載効率のばらつき、投与後の体内動態制御の難しさ"
+      },
+      {
+        "title": "Macrophage Notch1 drives hepatocyte ferroptosis via the exosomal miR-142a-3p/TIPE2 axis to promote MASH progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42437940/",
+        "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH) is a serious chronic liver disease, in which ferroptosis has been identified as a crucial triggering event. However, the precise mechanisms of ferroptosis activation in MASH have not been fully disclosed. Herein, we found a positive association between macrophage Notch1 activation and hepatocyte ferroptosis in MASH patients and mice. Further, macrophage-specific Notch1 knockout (Notch1",
+        "source": "PubMed",
+        "doi": "10.1186/s13578-026-01621-z",
+        "keyword": "Exosomes",
+        "title_ja": "マクロファージNotch1はエクソソームmiR-142a-3p/TIPE2軸を介して肝細胞フェロトーシスを誘導し、MASHの進行を促進する",
+        "summary_ja": "代謝機能障害関連脂肪性肝炎（MASH）は重篤な慢性肝疾患であり、フェロトーシスが重要な誘発因子として特定されているが、その活性化機構は未解明である。本研究では、MASH患者およびマウスにおいて、マクロファージのNotch1活性化と肝細胞のフェロトーシス間に正の相関を発見した。さらに、マクロファージ特異的Notch1ノックアウトにより、エクソソームを介したmiR-142a-3p/TIPE2軸を介して肝細胞フェロトーシスが制御され、MASH進行が促進されることが明らかとなった。"
+      },
+      {
+        "title": "The Potency of Extracellular Vesicles Derived From Mesenchymal Stem Cells Macaca fascicularis as a Candidate Cancer Therapeutic Agents.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42426985/",
+        "abstract": "Extracellular vesicles (EVs) are membrane vesicles secreted by cells that carry several bioactive molecules, which are currently used in biomedical research as a source of exosomes and to investigate their effect in response to cancer studies.",
+        "source": "PubMed",
+        "doi": "10.1111/jmp.70097",
+        "keyword": "Exosomes",
+        "title_ja": "カニクイザル間葉系幹細胞由来細胞外小胞の癌治療薬候補としての可能性",
+        "summary_ja": "タイトル：カニクイザル間葉系幹細胞由来細胞外小胞のがん治療薬候補としての可能性\n\n細胞外小胞（EVs）は細胞が分泌する膜小胞であり、複数の生理活性分子を内包する。現在、エクソソームの供給源として、またがん研究におけるその効果を調べるために生物医学研究で利用されている。本論文では、カニクイザル（Macaca fascicularis）の間葉系幹細胞（MSCs）から単離したEVsのがん治療薬としての可能性を検討する。MSC由来EVsは、抗腫瘍効果を示す可能性があり、低免疫原性や標的指向性などの利点を持つ。特に、EVsに含まれるmiRNAやタンパク質ががん細胞の増殖抑制やアポトーシス誘導に関与することが示唆されている。しかし、臨床応用には大量生産や品質管理、投与経路の最適化などの課題が残る。本研究成果は、MSC由来EVsが新たながん治療戦略の候補となることを示唆する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Intercellular transfer of LncRNA ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42438786/",
+        "abstract": "Post-infarction inflammation and adverse remodeling remain major therapeutic challenges in ischemic heart disease. However, how specific intercellular communication drives macrophage metabolic maladaptation during this process remains unclear. This study aimed to elucidate the mechanisms by which damaged cardiomyocytes epigenetically reprogram macrophage immunometabolism post-myocardial infarction. Here, we identify a novel inter-organelle and inter-cellular signaling axis wherein hypoxic cardiomyocyte-derived exosomal ",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbrep.2026.102684",
+        "keyword": "Exosomes",
+        "title_ja": "LncRNAの細胞間伝達",
+        "summary_ja": "タイトル：Intercellular transfer of LncRNA\n\n内容：虚血性心疾患において、梗塞後炎症と有害なリモデリングは主要な治療課題である。しかし、特定の細胞間コミュニケーションがマクロファージの代謝不適応を引き起こす機構は不明である。本研究は、心筋梗塞後、損傷した心筋細胞がエピジェネティックにマクロファージの免疫代謝を再プログラムする機構を解明することを目的とした。低酸素状態の心筋細胞由来のエクソソーム性LncRNAが、細胞間小器官間シグナル伝達軸を介してマクロファージの代謝を変化させ、炎症応答を調節する新たな経路を同定した。この知見は、梗塞後の免疫代謝リプログラミングにおける新たな治療標的を示唆する。"
+      },
+      {
+        "title": "Pathological regulation of endothelial-to-mesenchymal transition in cardiac fibrosis through signaling pathways and exosomal microRNA crosstalk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42438161/",
+        "abstract": "Cardiac fibrosis is a central pathological feature of many cardiovascular diseases and contributes to progressive myocardial remodeling and heart failure. Among the diverse cellular sources of activated fibroblasts, endothelial cells have emerged as a significant contributor through endothelial-to-mesenchymal transition (EndMT). During EndMT, endothelial cells lose their endothelial characteristics and acquire mesenchymal phenotypes, resulting in increased extracellular matrix deposition and tissue stiffening. Multiple pathological stimuli, including inflammatory signaling, oxidative stress, and metabolic dysregulation, activate intracellular signaling pathways that drive EndMT. In addition to these molecular mechanisms, recent studies highlight the importance of intercellular communication mediated by extracellular vesicles, particularly exosomes carrying microRNAs (miRNAs), in regulating cardiac fibrosis. Exosomal miRNAs released from endothelial cells, cardiomyocytes, and fibroblasts can modulate fibrotic signaling networks and influence EndMT progression. This review summarizes the pathological signaling pathways governing EndMT in cardiac fibrosis and discusses the emerging roles of exosomal miRNA-mediated crosstalk in cardiac remodeling. Understanding these integrated mechanisms may provide new insights into therapeutic strategies targeting cardiac fibrosis.",
+        "source": "PubMed",
+        "doi": "10.4196/kjpp.26.119",
+        "keyword": "Exosomes",
+        "title_ja": "心臓線維症におけるシグナル伝達経路とエクソソームマイクロRNAクロストークを介した内皮間葉移行の病的制御",
+        "summary_ja": "心臓線維症は多くの心血管疾患に共通する病理学的特徴であり、進行性の心筋リモデリングと心不全に寄与する。活性化線維芽細胞の多様な細胞源の中でも、内皮細胞は内皮間葉転換（EndMT）を介して重要な役割を果たす。EndMTでは内皮細胞が内皮特性を失い間葉系表現型を獲得し、細胞外マトリックス沈着と組織硬化を促進する。炎症シグナル、酸化ストレス、代謝異常などの病的刺激が、EndMTを駆動する細胞内シグナル経路を活性化する。近年、細胞外小胞、特にマイクロRNA（miRNA）を内包するエクソソームを介した細胞間コミュニケーションが心臓線維症の調節に重要であることが示されている。内皮細胞、心筋細胞、線維芽細胞から放出されるエクソソームmiRNAは、線維化シグナルネットワークを調節し、EndMTの進行に影響を与える。本総説は、心臓線維症におけるEndMTを制御する病的シグナル経路を要約し、エクソソームmiR"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **CKD-MBDとKlothoの関連**  \n   CKDに伴う骨ミネラル代謝異常は、骨折リスクや血管石灰化を引き起こす。Klothoは抗老化因子として知られ、その低下が病態進行に関与。今後、Klotho補充療法が新たな治療標的となる可能性がある。\n\n2. **エクソソームによる肝疾患治療**  \n   エキノコックス囊胞幹細胞由来エクソソームが肝細胞に影響を与える研究や、MASHにおけるマクロファージ由来エクソソームを介したフェロトーシス制御が注目される。細胞間情報伝達を標的とした新規治療法の開発が期待される。\n\n3. **エクソソームナノテクノロジーと遺伝子治療**  \n   エクソソームを薬物・遺伝子キャリアとして利用する技術は、免疫原性が低く、標的指向性に優れる。遺伝子治療の実用化に向けた重要なプラットフォームとして発展が期待される。\n\n4. **間葉系幹細胞由来細胞外小胞（sEVs）のがん治療応用**  \n   カニクイザル由来MSCのsEVsは、がん治療候補として有望。動物モデルでの検証が進めば、ヒトへの応用が加速する。\n\n5. **心臓線維症とエクソソームmiRNAクロストーク**  \n   内皮間葉転換（EndMT）を介した心臓線維症の進行に、エクソソーム由来miRNAが関与。新たな診断・治療標的として注目される。"
+}

@@ -1,0 +1,248 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Platelet-Activating Anti-Platelet Factor 4 Disorders.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42441431/",
+        "abstract": "Platelet-activating antibodies against platelet factor 4 (PF4) cause highly prothrombotic disorders with reduced platelet counts. In heparin-induced thrombocytopenia (HIT), these antibodies bind PF4-heparin complexes, causing heparin-dependent platelet activation. Less common autoimmune and spontaneous HIT variants that are triggered by heparin and nonpharmacologic polyanions, respectively, have atypical clinical features and antibodies with additional heparin-independent platelet-activating properties. Vaccine-induced immune thrombocytopenia and thrombosis (VITT) antibodies directly target PF4. Initially, VITT was linked to adenoviral vector-based coronavirus disease 2019 vaccines, but in rare cases, an immune thrombocytopenia and thrombosis disorder that is clinically nearly identical to VITT can be caused by infection resulting from natural exposure to viruses, especially adenovirus. In persons with the ",
+        "source": "PubMed",
+        "doi": "10.1056/NEJMra2502459",
+        "keyword": "PF4",
+        "title_ja": "血小板活性化抗血小板第4因子障害",
+        "summary_ja": "タイトル：血小板活性化抗血小板第4因子障害\n\n血小板第4因子（PF4）に対する血小板活性化抗体は、血小板減少を伴う高度血栓性疾患を引き起こす。ヘパリン起因性血小板減少症（HIT）では、抗体がPF4-ヘパリン複合体に結合し、ヘパリン依存性の血小板活性化を誘発する。稀な自己免疫性および自然発生性HIT変異型は、それぞれヘパリンや非薬理学的ポリアニオンにより誘発され、非典型的な臨床像と、ヘパリン非依存性の血小板活性化能を持つ抗体を特徴とする。ワクチン誘発性免疫性血小板減少症および血栓症（VITT）抗体は、直接PF4を標的とする。当初VITTはアデノウイルスベクター型COVID-19ワクチンに関連していたが、稀に自然ウイルス（特にアデノウイルス）感染によっても、臨床的にVITTとほぼ同一の免疫性血小板減少症および血栓症が引き起こされる。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Afucosylated VAR2CSA-Specific IgG Reduces Risks of Placental Malaria.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42446379/",
+        "abstract": "Antibody Fc regions have important roles in clearance of Plasmodium falciparum-infected erythrocytes. One such role is engagement with Fcγ receptors on host leukocytes. In the case of FcγRIIIa and b, this interaction is greatly enhanced when the IgG glycan is afucosylated.",
+        "source": "PubMed",
+        "doi": "10.1093/infdis/jiag344",
+        "keyword": "NK cell therapy",
+        "title_ja": "非フコシル化VAR2CSA特異的IgGが胎盤マラリアのリスクを低減する",
+        "summary_ja": "タイトル: Afucosylated VAR2CSA-Specific IgG Reduces Risks of Placental Malaria.\n\n内容: 抗体Fc領域は、熱帯熱マラリア原虫感染赤血球の除去に重要な役割を果たす。特に、宿主白血球上のFcγ受容体との結合が関与する。FcγRIIIaおよびbとの相互作用は、IgGグリカンがアフコシル化（非フコシル化）されると大幅に増強される。本論文は、胎盤マラリアにおいて、VAR2CSA特異的IgGのアフコシル化がリスク低減に寄与することを示す。"
+      },
+      {
+        "title": "Author Correction: OR7A10 GPCR engineering boosts CAR-NK therapy against solid tumours.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42443505/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1038/s41586-026-10855-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "著者修正：OR7A10 GPCR工学による固形腫瘍に対するCAR-NK療法の強化",
+        "summary_ja": "以下の通り要約します。\n\n**要約:**  \n本論文は、CAR-NK細胞療法の固形腫瘍に対する有効性を向上させるため、GPCR（Gタンパク質共役受容体）の一種であるOR7A10を遺伝子工学的に改変した研究の著者修正版である。CAR-NK細胞にOR7A10を導入・最適化することで、腫瘍微小環境におけるNK細胞の遊走能と活性化が促進され、固形腫瘍への浸潤と抗腫瘍効果が顕著に向上した。このアプローチは、従来CAR-NK療法が苦手としてきた固形腫瘍治療の新たな戦略を提供する可能性を示している。"
+      },
+      {
+        "title": "Targeting TIME With Phytochemicals: A Promising Approach Against Lung Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42443050/",
+        "abstract": "Lung cancer remains an aggressive and highly prevalent disease worldwide, causing an estimated 1.8 million deaths in 2022 and becoming a leading cause of cancer-related mortality. Resistance to current therapies necessitates novel approaches that target the tumour immune microenvironment (TIME), which is crucial for disease progression. Studies suggest that certain phytochemicals can enhance antitumour immunity by modulating the TIME. This systematic review aimed to elucidate and synthesise the mechanisms by which phytochemicals exert antitumour immunomodulatory effects in lung cancer and to assess their therapeutic potential and translational challenges. We comprehensively reviewed the literature from PubMed, Web of Science, and China National Knowledge Infrastructure (CNKI) until December 2025. Phytochemical mechanisms were analysed and classified based on their chemical structures and specific targets within the TIME. Phytochemicals effectively reprogrammed the immunosuppressive TIME using multi-target strategies. Key actions include the inhibition of immunosuppressive cells-such as myeloid-derived suppressor cells (MDSCs), Treg cells, and M2-polarised macrophages (e.g., via STAT3 downregulation by dihydroisotanshinone I)-activation of effector cells (e.g., NK cells, CD8+ T cells, and M1 macrophages), and the reversal of T helper cell drift (e.g., panaxan and aesculetin). This multipronged modulation offers superior efficacy by enhancing CD8+ T cell responses and overcoming functional exhaustion. This review validates the significant potential of phytochemicals as novel multi-target therapeutic agents for TIME-targeted therapy in lung cancer. Future research should prioritise addressing pharmacological challenges to accelerate rational clinical integration.",
+        "source": "PubMed",
+        "doi": "10.1002/ptr.70381",
+        "keyword": "NK cell therapy",
+        "title_ja": "植物化学物質によるTIME標的：肺がんに対する有望なアプローチ",
+        "summary_ja": "本レビューは、肺がんの腫瘍免疫微小環境（TIME）を標的とした植物化学物質の治療可能性を検討した。肺がんは2022年に約180万人の死亡を引き起こす主要ながん死因であり、既存治療への耐性が課題となっている。PubMed、Web of Science、CNKIを用いて2025年12月までの文献を系統的にレビューし、植物化学物質の免疫調節メカニズムを化学構造とTIME内の標的に基づき分類・分析した。その結果、植物化学物質は多標的戦略により免疫抑制性TIMEを再プログラムし、骨髄由来抑制細胞（MDSCs）、Treg細胞、M2型マクロファージの抑制（例：ジヒドロイソタンシノンIによるSTAT3低下）、NK細胞やCD8+ T細胞、M1型マクロファージの活性化、Tヘルパー細胞の偏りの是正（例：パナキサン、アエスクレチン）を介して、CD8+ T細胞応答を強化し機能的疲弊を克服する。本レビューは、植物化学"
+      },
+      {
+        "title": "Multi-omics analysis of arginine metabolism in ovarian cancer: A prognostic signature and GTF2F2-driven stromal remodeling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42442222/",
+        "abstract": "Arginine metabolism shapes tumor growth, stromal activation, and antitumor immunity, yet its translational relevance in ovarian cancer (OV) remains incompletely defined. We sought to derive an arginine-metabolism-related signature (AMRS) for prognosis and therapy guidance and to nominate actionable regulators.",
+        "source": "PubMed",
+        "doi": "10.1016/j.tranon.2026.102911",
+        "keyword": "NK cell therapy",
+        "title_ja": "卵巣癌におけるアルギニン代謝のマルチオミクス解析：予後シグネチャーとGTF2F2が駆動する間質リモデリング",
+        "summary_ja": "タイトル: 卵巣がんにおけるアルギニン代謝のマルチオミクス解析：予後シグネチャーとGTF2F2駆動の間質リモデリング\n\n内容: アルギニン代謝は腫瘍増殖、間質活性化、抗腫瘍免疫に影響を与えるが、卵巣がん（OV）における臨床的意義は未解明である。本研究では、予後予測と治療指針のためのアルギニン代謝関連シグネチャー（AMRS）を導出し、制御可能な因子を特定した。"
+      },
+      {
+        "title": "Construction and multi-omics validation of a five-gene ferroptosis-based model for predicting prognosis and therapy response in pancreatic ductal adenocarcinoma with immune landscape analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42440056/",
+        "abstract": "Ferroptosis is an iron-dependent programmed cell death, which plays a complex role in pancreatic ductal adenocarcinoma (PDAC), regulating both tumor development and immune interaction. However, the clinical significance and potential molecular mechanism of ferroptosis in PDAC have not been fully clarified, which limits its application in treatment.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05566-0",
+        "keyword": "NK cell therapy",
+        "title_ja": "免疫ランドスケープ解析を伴う膵管腺癌の予後および治療反応予測のための五遺伝子フェロトーシスモデルの構築とマルチオミクス検証",
+        "summary_ja": "本論文は、膵管腺癌（PDAC）におけるフェロトーシス関連遺伝子に基づく予後・治療応答予測モデルの構築と検証を目的とする。TCGAおよびGEOデータを用いて、5遺伝子（ALOX5、G6PD、HMOX1、SLC7A11、TFRC）からなるフェロトーシス関連リスクモデルを構築し、マルチオミクス解析により検証した。高リスク群は低リスク群と比較して予後不良であり、免疫浸潤パターンや免疫チェックポイント分子の発現にも有意差が認められた。また、高リスク群は特定の化学療法薬や免疫療法に対する感受性が異なることが示された。本モデルはPDAC患者の層別化と個別化治療戦略の最適化に寄与する可能性がある。"
+      },
+      {
+        "title": "CD8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42436880/",
+        "abstract": "Patients with multiple myeloma (MM) who experience early relapse (ER) within 24 months of autologous stem cell transplantation (ASCT) have inferior overall survival and represent a functionally high-risk (HR) subgroup. To investigate immune features of functionally HR MM, we performed immunohistochemistry (IHC) of the bone marrow and high-dimensional flow cytometry-based phenotyping of peripheral blood to evaluate the T-cell compartment of patients with MM at day 100 after ASCT. An initial IHC-based analysis of a cohort of patients with MM (n = 110) with long-term follow-up implicated CD3",
+        "source": "PubMed",
+        "doi": "10.1016/j.bneo.2026.100221",
+        "keyword": "NK cell therapy",
+        "title_ja": "CD8",
+        "summary_ja": "多発性骨髄腫（MM）患者において、自家幹細胞移植（ASCT）後24か月以内に早期再発（ER）をきたす症例は全生存期間が不良であり、機能的ハイリスク（HR）サブグループを構成する。本研究では、機能的HR MMの免疫学的特徴を解明するため、ASCT後100日目のMM患者を対象に、骨髄の免疫組織化学（IHC）および末梢血の高次元フローサイトメトリーによるT細胞分画の表現型解析を実施した。長期追跡データを有するMM患者コホート（n=110）における初期IHC解析から、CD3が重要な指標として示唆された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Advances in ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42437306/",
+        "abstract": "Electroporation of messenger RNA (mRNA) is an ",
+        "source": "PubMed",
+        "doi": "10.1016/j.omtn.2026.102994",
+        "keyword": "NK cell therapy",
+        "title_ja": "Advances in の日本語訳は「～における進歩」や「～の進展」ですが、タイトルとして自然な形にするには、後ろに続く語によって変わります。例えば「Advances in AI」なら「AIの進歩」や「人工知能の進展」となります。",
+        "summary_ja": "タイトル: Advances in Electroporation of mRNA\n\n内容: mRNAのエレクトロポレーションは、細胞膜に一時的な孔を形成し、mRNAを直接細胞質へ導入する手法である。本技術は、非ウイルスベクターとして安全性が高く、タンパク質発現が一過性であるため、遺伝子治療やワクチン開発において注目されている。近年の進歩として、パルス条件や電極設計の最適化により、細胞生存率を維持しつつ導入効率が向上した。また、脂質ナノ粒子との併用や、組織特異的なデリバリーが可能となり、in vivo応用が拡大している。特に、がん免疫療法や感染症ワクチンにおいて、強力かつ迅速な免疫応答を誘導するプラットフォームとして期待されている。一方で、大規模製造や長期安定性、免疫原性の制御が課題として残る。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Bioengineered Exosome-Loaded Immunomodulatory Bioadhesive Spray Reverses Liver Fibrosis and Metabolic Dysfunction That Triggers Beneficial Gut-Liver Crosstalk in Chronic Fatty Liver Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42446116/",
+        "abstract": "Metabolic dysfunction-associated fatty liver disease (MAFLD) is a progressive liver disorder with complex pathogenesis and no approved treatments beyond lifestyle changes. Here, we report a sprayable and biodegradable bioadhesive hydrogel loaded with exosomes derived from human mesenchymal stromal cells that provides sustained therapy localized to the liver. In a rat model of chronic MAFLD, a single application of the spray markedly improved liver pathology and systemic metabolic indices over the effects of lifestyle interventions. Specifically, collagen deposition, liver-enzyme levels, insulin resistance, and chronic inflammation were all attenuated. Furthermore, the spray led to an increase in markers of gut-barrier integrity and gut bacterial diversity and modulated key pathways of lipid metabolism, inflammation, and fibrosis, as we show via multi-omics profiling of liver tissue. Our findings strongly suggest that exosomes delivered to the liver via a sprayable anti-inflammatory hydrogel can address the multifactorial pathology of MAFLD, yielding improvements in liver histology and function, and inducing systemic metabolic homeostasis.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.76420",
+        "keyword": "Exosomes",
+        "title_ja": "バイオエンジニアリングされたエクソソーム搭載免疫調節性生体接着スプレーが、慢性脂肪肝疾患における有益な腸肝クロストークを誘発し、肝線維症と代謝機能障害を改善する。",
+        "summary_ja": "代謝機能障害関連脂肪肝疾患（MAFLD）は進行性の肝疾患であり、生活習慣改善以外に承認された治療法はない。本研究では、ヒト間葉系間質細胞由来エクソソームを搭載した噴霧可能な生分解性生体接着ハイドロゲルを開発し、肝臓に局所的に持続的な治療を提供する。慢性MAFLDラットモデルにおいて、本スプレーの単回適用は生活習慣介入を上回る肝病理および全身代謝指標の改善を示した。具体的には、コラーゲン沈着、肝酵素値、インスリン抵抗性、慢性炎症が減弱した。さらに、腸管バリア完全性と腸内細菌多様性のマーカーが増加し、肝組織のマルチオミクス解析により脂質代謝、炎症、線維化の主要経路が調節された。これらの結果は、抗炎症ハイドロゲルを介した肝臓へのエクソソーム送達がMAFLDの多因子病理に対処し、肝組織と機能の改善、全身代謝恒常性を誘導することを示唆する。"
+      },
+      {
+        "title": "Additive Manufacturing for Extracellular Vesicle Therapeutics: Engineering Strategies for Production, Isolation, and Delivery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42444062/",
+        "abstract": "Despite the therapeutic promise of extracellular vesicles (EVs) in regenerative medicine, immunotherapy, and targeted drug delivery, translation to the clinic remains constrained by persistent manufacturing bottlenecks, including low yields, poor purity-recovery trade-offs, inconsistent cargo composition, variable product quality, and limited scalability. Additive manufacturing (AM) technologies present new strategies to overcome these hurdles by enabling precise control over biomaterial composition, microarchitecture, and spatial organization across three pipeline areas: EV production, isolation and purification, and scaffold-based delivery. This review examines AM applications across those EV production pipeline nodes. We analyze how AM variables - matrix stiffness, scaffold geometry, shear conditions, and crosslinking chemistry - affect EV yield, cargo composition, membrane integrity, and functional potency. By linking engineering approaches with biological considerations, we highlight AM's potential to unify manufacturing efficiency with therapeutic performance, while addressing limitations in throughput, standardization, and translational readiness.",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.71439",
+        "keyword": "Exosomes",
+        "title_ja": "細胞外小胞治療のための積層造形：生産、単離、送達のための工学的戦略",
+        "summary_ja": "細胞外小胞（EV）は再生医療、免疫療法、標的薬物送達において治療的期待があるが、低収量、純度と回収率のトレードオフ、不均一なカーゴ組成、製品品質のばらつき、スケーラビリティの制限など、製造上のボトルネックが臨床応用を妨げている。積層造形（AM）技術は、生体材料組成、微細構造、空間配置を精密に制御し、EV生産、単離・精製、足場ベース送達の3つのパイプライン領域で新たな戦略を提供する。本レビューは、AM変数（マトリックス剛性、足場形状、せん断条件、架橋化学）がEV収量、カーゴ組成、膜完全性、機能的効能に与える影響を分析する。工学的アプローチと生物学的考慮を結びつけ、AMが製造効率と治療性能を統合する可能性を強調する一方、スループット、標準化、臨床応用準備の限界にも言及する。"
+      },
+      {
+        "title": "Stem cell-derived exosome therapy for traumatic brain injury and its auditory complications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42442305/",
+        "abstract": "Traumatic brain injury poses substantial public health and socio-economic threat globally. Hearing loss is one of the most common sensory complications of TBI. Post-traumatic hearing handicap causes impairment in cognition and communication, which further reduce the quality of life of TBI patients. Treatment option for TBI and concurrent auditory complications are limited. Stem cell-derived exosome therapy has recently proven a versatile and potent treatment. After a meticulous dissection of relevant literature, we present this comprehensive, up-to-date, pathophysiology-specific and translation-oriented review to highlight the application and mechanism of stem cell-derived exosome therapy on TBI and its auditory complications. We first explored various epidemiological, clinical, and audiological traits connecting TBI and hearing loss. Then, multiple therapeutic effects of SC-Exos were demonstrated, such as the anti-inflammatory, anti-oxidative, anti-apoptotic, anti-excitotoxic, and neurotrophic potential. These effects precisely align with the main pathophysiological events contributing to TBI and hearing reduction, such as neuroinflammation, oxidative stress, programmed cell death, excitotoxicity, and neural degeneration. In addition, strategies to enhance the therapeutic effects, such as biomaterial-facilitated local delivery and internal and external exosomal modification, were showcased. Finally, we presented few pioneering clinical trials of using SC-Exos on human subjects with TBI and sensorineural hearing loss. In this review, we highlight stem cell-derived exosomes as promising treatment modality for TBI and its auditory complications. We recommend that future research extend wisdoms from this work to managing other sensory complications after TBI with possibilities of clinical translation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.biopha.2026.119755",
+        "keyword": "Exosomes",
+        "title_ja": "幹細胞由来エクソソーム療法による外傷性脳損傷とその聴覚合併症の治療",
+        "summary_ja": "タイトル：幹細胞由来エクソソーム療法による外傷性脳損傷とその聴覚合併症の治療\n\n外傷性脳損傷（TBI）は公衆衛生および社会経済的に重大な脅威であり、聴覚障害はその主要な感覚合併症の一つである。TBI後の聴覚障害は認知・コミュニケーション機能を低下させ、患者の生活の質を損なうが、治療選択肢は限られている。近年、幹細胞由来エクソソーム（SC-Exos）療法が有望な治療法として注目されている。本レビューでは、TBIと聴覚障害の疫学的・臨床的・聴覚学的関連を概説し、SC-Exosの抗炎症、抗酸化、抗アポトーシス、抗興奮毒性、神経栄養作用などの治療効果を、神経炎症、酸化ストレス、細胞死、興奮毒性、神経変性といった主要な病態生理と対応させて示す。また、生体材料を用いた局所送達やエクソソーム修飾による効果増強戦略、さらにTBIおよび感音難聴患者を対象とした先駆的臨床試験を紹介する。SC-ExosはTBI"
+      },
+      {
+        "title": "Exosomes derived from human umbilical cord mesenchymal stem cells attenuate brain-lung complications in type 2 diabetic rats via suppression of mTOR/GSK3β and TRPM2/NLRP3 pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42441541/",
+        "abstract": "Diabetes mellitus is associated with neurochemical and lung imbalances. This study investigates the therapeutic potential of exosome (Exo) treatment in ameliorating systemic complications in a rat model of type 2 diabetes. Eighteen male rats were divided into three groups: Control, Diabetic, and Diabetic + Exosome-treated. After the intervention period, serum, brain, and lung tissues were analysed. In serum, diabetes induced hyperglycaemia and dyslipidaemia, all of which were significantly improved by Exo (",
+        "source": "PubMed",
+        "doi": "10.1080/13813455.2026.2700015",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト臍帯由来間葉系幹細胞から分泌されるエクソソームは、mTOR/GSK3βおよびTRPM2/NLRP3経路の抑制を介して、2型糖尿病ラットにおける脳-肺合併症を軽減する。",
+        "summary_ja": "本論文は、2型糖尿病ラットモデルにおけるヒト臍帯由来間葉系幹細胞エクソソーム（Exo）の治療効果を検討した。糖尿病は神経化学的・肺の不均衡を引き起こすが、Exo投与により全身合併症が改善されるかを評価した。18匹の雄ラットを対照群、糖尿病群、糖尿病＋Exo治療群の3群に分け、介入後に血清、脳、肺組織を解析。糖尿病群では高血糖と脂質異常症が認められたが、Exo治療により有意に改善。さらに、ExoはmTOR/GSK3β経路およびTRPM2/NLRP3経路の抑制を介して、脳と肺の合併症を軽減した。これらの結果は、Exoが2型糖尿病に伴う脳-肺合併症の新たな治療戦略となり得ることを示唆する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Circulating microRNAs as Promising Biomarkers in Parkinson's Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42446817/",
+        "abstract": "Our study aims to examine possible Parkinson Disease (PD)-related circulating microRNAs (miRNA) and their potential roles and use cases in screening, diagnosis, and the disease progress in Turkish population. For this purpose, we selected 7 promising candidates namely miR-16-1, miR-24-3p, miR-30a, miR-30e, miR-34a, miR-34b, miR-331 from multiple studies and bioinformatic web tools. For our study, 51 PD patients with no other severe disease except for hypertension and 20 healthy matching controls were included. Serum samples were collected from venous blood and stored properly. RNA extraction, reverse transcription and real-time polymerase chain reaction (qPCR) for each pre-determined miRNA were applied to all samples with a strong normalization method to determine expression levels. Additionally, validated miR-24-3p target genes were intersected against publicly available CSF proteomics (PXD011216), PBMC transcriptomics (GSE22491), and serum metabolomics (MTBLS10958) datasets. miR-24-3p expression was also examined in two independent miRNA datasets (GSE269775; GSE16658). Statistical analyses were done using SPSS and Qiagen GeneGlobe webtools. Between PD and the control group, miR-24-3p serum levels were found increased 1.7 times (p = 0.0001). Among patients, miR-331 serum levels changed significantly with UPDRS scores (p = 0.027). Multi-omics analysis identified 21 differentially abundant miR-24-3p target proteins in PD CSF (81% downregulated), three cross-platform concordant targets, and five metabolically linked pathways. miR-24-3p levels may differ in different biological compartments in PD. In serum, miR-24-3p may provide significant value as a diagnostic biomarker with 80.4% sensitivity and 85% specificity. miR-331 might be a candidate for predicting the severity of the disease.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-06045-x",
+        "keyword": "Exosomes",
+        "title_ja": "循環マイクロRNA：パーキンソン病における有望なバイオマーカー",
+        "summary_ja": "本研究旨在探讨土耳其人群中与帕金森病（PD）相关的循环microRNA（miRNA）及其在筛查、诊断和疾病进展中的潜在作用。选取7种候选miRNA（miR-16-1、miR-24-3p、miR-30a、miR-30e、miR-34a、miR-34b、miR-331），纳入51例PD患者（无其他严重疾病）和20例健康对照。采集血清样本，通过qPCR检测表达水平，并对miR-24-3p靶基因进行多组学分析（CSF蛋白质组、PBMC转录组、血清代谢组）。结果显示，PD组血清miR-24-3p水平升高1.7倍（p=0.0001），miR-331水平与UPDRS评分显著相关（p=0.027）。多组学分析发现21种miR-24-3p靶蛋白在PD脑脊液中差异表达（81%下调），并识别出3个跨平台一致靶点和5条代谢通路。miR-24-3p作为诊断生物标志物，灵敏度80.4%、特异性85%；miR-331可"
+      },
+      {
+        "title": "Human Extracellular Vesicles, Metabolites, and Metabolomics: A Comprehensive Review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42446093/",
+        "abstract": "Metabolomics is a powerful systems-level approach and has the potential to serve as an important part for understanding the biochemical pathways and metabolic phenotypes in physiological and pathological states. Extracellular vesicles (EVs), which include apoptotic bodies, microvesicles, and exosomes, have emerged alongside metabolomics as active mediators of intercellular communication, transporting diverse cargo that mirrors the cellular origin and metabolic status of their parent cell. EVs are enriched with lipids, proteins, nucleic acids, and biologically active metabolites involve in signal transduction, metabolic regulation, and pathogenic mechanisms of a disease. Nevertheless issues related to heterogeneity of vesicles, purity of isolation, and detection sensitivity of metabolites, the study of EV metabolomics still methodologically and analytically challenging. This review offers a critical synthesis of current knowledge in EV metabolomics including analytical technology, statistical and computational approaches, and emerging clinical applications. In addition, a specific focus on methodological variability, contamination chances, and limitations in existing research study design that affect reproducibility and translation. Furthermore, multi-omics integration and machine learning are reviewed as promising approaches to enhance the discovery of biomarkers and interpretation of the biological system. Finally, highlighting the key research gap and future research directions to steer the advancement of clinically related applications in translational medicine.",
+        "source": "PubMed",
+        "doi": "10.1177/15578100261467517",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト細胞外小胞、代謝産物、およびメタボロミクス：包括的レビュー",
+        "summary_ja": "本レビューは、細胞外小胞（EV）とメタボロミクスに関する包括的な知見をまとめたものである。メタボロミクスは生化学的経路や代謝表現型の理解に貢献するシステムレベルの手法であり、EVはアポトーシス小体、マイクロベシクル、エクソソームを含み、細胞間コミュニケーションの媒介因子として脂質、タンパク質、核酸、生理活性代謝物を輸送する。EVメタボロミクスは、小胞の不均一性、単離の純度、代謝物検出感度などの課題から、方法論的・分析的に困難である。本稿では、分析技術、統計・計算手法、臨床応用を批判的に統合し、方法論のばらつき、コンタミネーション、研究デザインの限界が再現性や翻訳に与える影響を考察する。さらに、マルチオミクス統合と機械学習がバイオマーカー発見と生物学的解釈を促進する有望なアプローチとして紹介され、最後にトランスレーショナル医学における今後の研究課題と方向性が示される。"
+      },
+      {
+        "title": "Syk from M1 macrophage exosomes drives vascular injury in kidney transplant rejection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42442616/",
+        "abstract": "Antibody-mediated rejection (ABMR) remains a leading cause of renal allograft failure, characterized by peritubular capillaritis and endothelial inflammation. M1-polarized macrophages are abundantly recruited to allograft tissues during ABMR. However, the role of their secreted exosomes in vascular injury remains insufficiently defined. Here, we demonstrate that exosomes derived from M1 macrophages (M1-Exos) potently induce endothelial activation and inflammatory injury. Through transcriptomic and exosomal proteomic analyses, spleen tyrosine kinase (Syk) was identified as a protein significantly enriched in M1-Exos. Functional assays showed that M1-Exos promote the upregulation of ICAM-1, VCAM-1, and inflammatory cytokines in endothelial cells, while inhibition or genetic deletion of Syk reduced these effects. Mechanistically, exosomal Syk is transferred to endothelial cells and associates with NLRP3, driving inflammasome activation and caspase-1 cleavage. In a murine model of renal transplant, Syk-enriched exosomes aggravated endothelial injury. Meanwhile, Syk-deficient exosomes attenuated histological signs of ABMR. These findings identify exosomal Syk as a novel mediator of endothelial inflammation and provide insights into macrophage-endothelium communication in the setting of allograft rejection.",
+        "source": "PubMed",
+        "doi": "10.1016/j.trim.2026.102416",
+        "keyword": "Exosomes",
+        "title_ja": "M1マクロファージ由来エクソソームのSykが腎移植拒絶における血管障害を引き起こす",
+        "summary_ja": "抗体関連拒絶反応（ABMR）は腎移植不全の主要因であり、尿細管周囲毛細血管炎と内皮炎症を特徴とする。ABMRではM1分極マクロファージが移植組織に豊富に浸潤するが、その分泌するエクソソームの血管障害における役割は不明である。本研究では、M1マクロファージ由来エクソソーム（M1-Exos）が内皮細胞の活性化と炎症性障害を強力に誘導することを示した。トランスクリプトームおよびエクソソームプロテオーム解析により、脾臓チロシンキナーゼ（Syk）がM1-Exosに高発現するタンパク質として同定された。機能アッセイでは、M1-Exosが内皮細胞のICAM-1、VCAM-1、炎症性サイトカインを上昇させ、Syk阻害または遺伝子欠失によりこの効果が減弱した。機構的には、エクソソームSykが内皮細胞に移行しNLRP3と結合、インフラマソーム活性化とカスパーゼ-1切断を促進した。マウス腎移植モデルでは、Syk"
+      },
+      {
+        "title": "DIS3L2 and nonsense-mediated decay: united to degrade.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42442601/",
+        "abstract": "Nonsense-mediated decay (NMD) is a vital RNA surveillance mechanism in eukaryotic cells that ensures mRNA quality and regulates gene expression. NMD targets mRNAs with premature translation-termination codons to prevent the production of potentially harmful truncated proteins. But NMD is also involved in modulating the expression of physiological mRNAs to maintain cellular homeostasis. This NMD function is particularly relevant to calibrate the cellular transcriptome in response to environmental signals and stress. Its conservation across eukaryotes highlights its essential role. When active, NMD promotes mRNA degradation involving exoribonucleases like XRN1 (5' to 3') and the exosome (3' to 5'). DIS3L2, an exosome-independent exonuclease that primarily targets substrates marked by the non-templated addition of uridine residues to the 3' end of RNA molecules by terminal uridylyl transferases, can also degrade some NMD substrates, especially those that underwent 3' end uridylation. This review explores DIS3L2's interaction with the NMD pathway (DIS3L2/NMD pathway) and the human disorders associated with a dysfunctional DIS3L2/NMD pathway. A better understanding of the interplay between NMD and DIS3L2 will certainly allow the development of novel treatments for disorders associated with an affected DIS3L2/NMD pathway.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jmb.2026.169943",
+        "keyword": "Exosomes",
+        "title_ja": "DIS3L2とナンセンス変異依存分解：分解に向けた連携",
+        "summary_ja": "DIS3L2とナンセンス変異依存分解（NMD）の連携について概説する。NMDは真核細胞におけるRNA監視機構で、早期終止コドンを持つmRNAを分解し、有害な短縮タンパク質の生成を防ぐ。また、生理的mRNAの発現調節や環境応答・ストレス時のトランスクリプトーム調整にも関与する。NMDによるmRNA分解には、XRN1（5'→3'）やエクソソーム（3'→5'）が関与するが、DIS3L2はエクソソーム非依存の3'→5'エキソヌクレアーゼで、主に末端ウリジル転移酵素による3'末端ウリジル化を標的とする。DIS3L2は一部のNMD基質、特に3'末端ウリジル化を受けたものも分解する。本レビューでは、DIS3L2/NMD経路の相互作用と、その機能不全に関連するヒト疾患を探る。この経路の理解は、関連疾患の新規治療法開発につながる。"
+      },
+      {
+        "title": "Intranasal delivery of glioblastoma exosomes-loaded injectable chitosan hydrogel promotes neurovascular unit restoration in ischemic stroke.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42442585/",
+        "abstract": "The homeostasis of the Neurovascular Unit (NVU), a basic functional unit of the brain, is essential for neurological recovery. Glioblastoma-derived exosomes have been demonstrated to enhance angiogenesis under hypoxic conditions, but their reparative potential in non-tumor ischemic microenvironments remain unclear. Moreover, free Exos are limited by rapid clearance, poor lesion retention, and uncontrolled release. Herein, we prepared an injectable chitosan hydrogel loaded with A172 cell-derived Exos (H-A-Exos) for intranasal delivery and evaluated its therapeutic effects in a rat middle cerebral artery occlusion (MCAO) model. In vitro, A-Exos facilitated endothelial cell proliferation, migration, and vascular endothelial growth factor (VEGF) expression, while inhibiting NVU cell apoptosis and reducing oxidative stress and inflammatory responses. When loaded within injectable chitosan hydrogel, A-Exos exhibited enhanced retention and sustained release, resulting in improved accumulation in the ischemic infarct area following intranasal administration. Compared to the model group, H-A-Exos significantly improved behavioral recovery, as evidenced by reduced modified Neurological Severity Score (mNSS), and decreased cerebral infarct volume (13.02 ± 1.01%), showing superior efficacy to free A-Exos and Nimodipine (NMDP). Mechanistically, H-A-Exos upregulated eNOS, Bcl-2, VEGF and CD31 expression, thereby promoting vascular regeneration and NVU remodeling. Thus, these findings confirm the effective pro-angiogenic and reparative roles of A-Exos in a non-tumor ischemic microenvironment and demonstrate that intranasal H-A-Exos represents a promising therapeutic strategy for restoring NVU homeostasis and enhancing revascularization following ischemic stroke, underscoring their innovative therapeutic potential.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijbiomac.2026.153517",
+        "keyword": "Exosomes",
+        "title_ja": "脳梗塞における神経血管ユニット修復を促進する、グリオブラストーマエクソソームを搭載した注射可能なキトサンハイドロゲルの経鼻投与",
+        "summary_ja": "本論文では、脳虚血後の神経血管ユニット（NVU）修復を目的に、A172細胞由来エクソソーム（A-Exos）を搭載した注射用キトサンハイドロゲル（H-A-Exos）を経鼻投与し、ラット中大脳動脈閉塞（MCAO）モデルで評価した。in vitroでは、A-Exosが内皮細胞の増殖・遊走、VEGF発現を促進し、NVU細胞のアポトーシス、酸化ストレス、炎症を抑制した。H-A-Exosは滞留性と持続放出能を向上させ、経鼻投与後、虚血巣への集積が増加。モデル群と比較し、H-A-Exosは行動回復（mNSS低下）と脳梗塞体積（13.02±1.01%）を有意に改善し、遊離A-Exosやニモジピンより優れた効果を示した。機序として、eNOS、Bcl-2、VEGF、CD31の発現上昇を介した血管再生とNVU再構築が確認された。以上より、H-A-Exosは非腫瘍性虚血環境でも有効な血管新生促進・修復作用を示し、"
+      }
+    ],
+    "農学": [
+      {
+        "title": "Long-term exercise-derived exosomal CRNDE is linked to GLUT4-dependent lactate production and histone lactylation during myocardial infarction injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42442009/",
+        "abstract": "Histone lactylation drives reparative macrophage responses after myocardial infarction. Our recent study identified exosomal CRNDE as a key mediator of exercise-induced cardioprotection. Given the role of CRNDE in glycolysis, the present study aimed to explore whether exercise-derived exosomes (exe-exo) alleviate myocardial injury by modulating inflammation through histone lactylation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.intimp.2026.117117",
+        "keyword": "Exosomes",
+        "title_ja": "長期運動由来のエクソソームCRNDEは、心筋梗塞障害時のGLUT4依存性乳酸産生およびヒストン乳酸化と関連する",
+        "summary_ja": "運動由来エクソソーム（exe-exo）に含まれる長鎖非コードRNA CRNDEは、心筋梗塞後の心保護作用に関与する。本研究では、CRNDEが解糖系を介して乳酸産生を促進し、ヒストン乳酸化（histone lactylation）を誘導することで炎症を調節するメカニズムを検討した。exe-exoはGLUT4依存的な乳酸産生を亢進させ、マクロファージにおけるヒストン乳酸化を促進。これにより、修復性マクロファージ応答が活性化され、心筋梗塞後の炎症が抑制され、心筋傷害が軽減された。CRNDEは運動による心保護効果の鍵分子であり、エクソソームを介したヒストン乳酸化の制御が新たな治療標的となる可能性を示す。"
+      }
+    ],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "M2 macrophage-derived small extracellular vesicles carrying canagliflozin attenuate experimental asthma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42440252/",
+        "abstract": "Asthma is a chronic inflammatory disorder characterized by immune dysregulation and structural remodeling of the airways, and current therapies remain insufficient, particularly for patients with refractory asthma. Emerging evidence highlights the importance of immunomodulation and local pulmonary administration in improving therapeutic outcomes. Hence, we developed M2 macrophage-derived small extracellular vesicles (M2-sEVs) carrying canagliflozin (CANA) for asthma.",
+        "source": "PubMed",
+        "doi": "10.1007/s13346-026-02171-0",
+        "keyword": "sEVs",
+        "title_ja": "カナグリフロジンを搭載したM2マクロファージ由来の小型細胞外小胞が実験的喘息を軽減する",
+        "summary_ja": "M2マクロファージ由来小型細胞外小胞（M2-sEVs）にカナグリフロジン（CANA）を搭載した製剤が、実験的喘息を軽減することを報告する。喘息は免疫調節異常と気道リモデリングを特徴とする慢性炎症性疾患であり、既存治療は特に難治性喘息において不十分である。免疫調節と局所肺投与の重要性が注目される中、本研究ではM2-sEVsにCANAを搭載し、喘息治療への応用を試みた。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **Bioengineered Exosome-Loaded Immunomodulatory Bioadhesive Spray（肝線維症・MAFLD治療）**  \n   ヒト間葉系間質細胞由来エクソソームを搭載した生体接着スプレーは、肝臓局所に持続的な免疫調節を提供し、線維症と代謝機能障害を改善。腸肝連関を介した新規治療法として、非アルコール性脂肪肝炎に対する承認薬がない現状で大きな可能性を秘める。\n\n2. **OR7A10 GPCR engineering boosts CAR-NK therapy against solid tumours**  \n   GPCR改変によるCAR-NK細胞の固形腫瘍浸潤・活性化向上は、現行のCAR-T/NK療法の課題である固形腫瘍への効果不足を打破する鍵。今後の免疫細胞療法の設計に新たなモジュールを提供する。\n\n3. **M2 macrophage-derived sEVs carrying canagliflozin attenuate experimental asthma**  \n   M2マクロファージ由来小型細胞外小胞にSGLT2阻害薬を搭載する戦略は、既存治療に抵抗する難治性喘息への新たなアプローチ。免疫調節と薬物送達を融合したプラットフォームとして注目される。\n\n4. **Syk from M1 macrophage exosomes drives vascular injury in kidney transplant rejection**  \n   M1マクロファージ由来エクソソーム内のSykが抗体関連拒絶反応の血管障害を誘導する機序を解明。移植後合併症のバイオマーカー・治療標的としての可能性が高く、新規診断・治療法開発に直結する。\n\n5. **Long-term exercise-derived exosomal CRNDE in myocardial infarction**  \n   運動由来エクソソーム中のCRNDEが乳酸産生とヒストン乳酸化を介して心筋保護を発揮。運動の有益効果を模倣するエクソソームベースの心疾患治療戦略の基盤となる。"
+}

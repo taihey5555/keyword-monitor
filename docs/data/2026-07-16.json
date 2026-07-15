@@ -1,0 +1,206 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Uncovering the cytogenetic hallmarks of resident and expanded natural killer cells from patients with acquired aplastic anemia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42448949/",
+        "abstract": "Acquired aplastic anemia (AA) serves as a life-threatening hematopoietic disorder with certain morbidity and mortality, which is caused by the immunologic attack-induced lymphocyte destruction of hematopoietic stem/progenitor cells (HSPCs). Longitudinal studies have highlighted the immunodysfunction in the relapse of AA, yet the dissection of natural killer (NK) cell-related pathogenesis remains largely obscure. In this study, we enriched bone marrow blood-derived mononuclear cells (BM-MNCs) for 20 AA patients and 20 healthy donors (HD), and detected the content and immunophenotyping of resident NK cells (rHD-NKs, rAA-NKs) by cell counting and flow cytometry (FCM) assay. Meanwhile, we utilized our well-established \"3ILs\"-based protocol for the ex vivo induction of expanded NK cells from BM-MNCs (eHD-NKs, eAA-NKs). Besides the cellular phenotyping analyses of eHD-NKs and eAA-NKs, we further compared the cellular viability and the ex vivo cytotoxicity upon tumor cell lines. Finally, with the aid of RNA-sequencing (RNA-SEQ) and bioinformatics analyses, the transcriptomic signatures of eHD-NKs and eAA-NKs were verified, including gene expression profiling and genetic spectrum. Compared to the corresponding HD-NKs (rHD-NKs, eHD-NKs), both the resident and expanded AA-NKs (rAA-NKs, eAA-NKs) were consistently declined in content of total CD3",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-62384-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "後天性再生不良性貧血患者由来の常在性および増殖性ナチュラルキラー細胞における細胞遺伝学的特徴の解明",
+        "summary_ja": "後天性再生不良性貧血（AA）は、免疫攻撃による造血幹・前駆細胞（HSPC）の破壊を原因とする致死的血液疾患である。本研究では、AA患者20名と健常ドナー（HD）20名の骨髄血単核球（BM-MNC）を用い、常在NK細胞（rHD-NKs, rAA-NKs）の含有量と免疫表現型をフローサイトメトリー（FCM）で検出した。また、確立した「3ILs」プロトコルによりBM-MNCから拡張NK細胞（eHD-NKs, eAA-NKs）を誘導し、細胞表現型、生存率、腫瘍細胞株に対する細胞傷害活性を比較した。さらにRNAシーケンス（RNA-SEQ）とバイオインフォマティクス解析により、遺伝子発現プロファイルを含む転写特性を検証した。結果、rAA-NKsおよびeAA-NKsは、対応するHD-NKsと比較して、総CD3陰性NK細胞の含有量が一貫して低下していた。"
+      },
+      {
+        "title": "A Programmable Perfusion Platform with Temperature Monitoring Achieves Multiscale Cryopreservation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42377017/",
+        "abstract": "The addition and removal of cryoprotective agents (CPAs) are critical steps in the cryopreservation of biological samples, and in most research settings, they are performed manually. During this process, the CPA formulation, the addition procedure, and the ambient temperature all have a significant impact on the sample. However, there is currently no standardized platform that can simultaneously control these variables and be applied to the cryopreservation of multiscale samples. To address these issues, we developed a portable and programmable CPA perfusion platform for the standardized processing of multiscale biological samples before and after cryopreservation. By combining cell encapsulation with a nylon mesh trapping method, the system enables integrated handling of samples with different sizes, ranging from cell suspensions (NK-92 cells, ∼10 μm) to single cells (mouse oocytes, ∼80 μm) and skin tissues (∼2 mm). In terms of the solution environment, program-controlled linear-gradient CPA perfusion precisely regulates cryoprotectant concentration changes, thereby reducing osmotic damage. In terms of the temperature environment, the device can be placed in a 4 °C refrigerator during processing, which helps reduce CPA-related cytotoxic damage. Experimental results demonstrate that this programmed perfusion significantly improves post-thaw recovery: the survival rates of mouse oocytes and NK-92 cells increased from 65.6% and 69.7% to 77.4% and 83.2%, respectively. Furthermore, histological analysis reveals that skin tissues processed by this platform exhibit superior structural integrity and reduced cryoinjury. In summary, this study provides a highly efficient and cost-effective solution for the standardized cryopreservation of multiscale biological samples.",
+        "source": "PubMed",
+        "doi": "10.1021/acsami.6c04083",
+        "keyword": "NK cell therapy",
+        "title_ja": "温度監視機能を備えたプログラム可能な灌流プラットフォームがマルチスケールの凍結保存を実現",
+        "summary_ja": "本論文では、生物試料の凍結保存におけるCPA（凍結保護剤）の添加・除去工程を標準化するため、携帯可能でプログラム制御可能な灌流プラットフォームを開発した。本システムは、細胞懸濁液（NK-92細胞、約10μm）から単一細胞（マウス卵母細胞、約80μm）、皮膚組織（約2mm）まで、異なるスケールの試料を統一的に処理可能である。セルカプセル化とナイロンメッシュ捕捉法を組み合わせ、試料サイズに応じた対応を実現。溶液環境では、プログラム制御による線形勾配CPA灌流が浸透圧損傷を低減し、温度環境では4℃冷蔵庫内での処理によりCPA関連の細胞毒性を抑制する。実験の結果、マウス卵母細胞の生存率は65.6%から77.4%、NK-92細胞は69.7%から83.2%に向上。皮膚組織では組織学的に構造的完全性が改善され、凍結損傷が軽減された。本プラットフォームは、マルチスケール試料の標準化された凍結保存に対し、高"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Tumor-Associated Macrophage Exosomal miR-142-5p Drives Prostate Cancer Neuroendocrine Differentiation via RERG/Ras/ERK Axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42455592/",
+        "abstract": "Androgen deprivation therapy (ADT) for prostate cancer (PCa) leads to lineage plasticity in PCa cells, promoting the emergence of androgen receptor-negative neuroendocrine prostate cancer (NEPC). NEPC is a highly aggressive subtype with poor prognosis and limited treatment options. Tumor-associated macrophages (TAMs) contribute to tumor progression through exosome-mediated communication. In our previous study, we analyzed RNA-seq data to identify key genes involved in PCa progression, and the RERG gene emerged as a significant candidate that suppresses neuroendocrine differentiation (NED). In this study, we demonstrate that RERG expression is significantly reduced in CRPC cells and NEPC tissues, and its downregulation activates the Ras/ERK signaling pathway, which plays a crucial role in promoting NED. Additionally, miR-142-5p, transferred from TAMs via exosomes, downregulates RERG expression and activates the Ras/ERK pathway, thereby promoting PCa progression and NED. In vitro, miR-142-5p enhanced PCa cell proliferation, migration, invasion, and NED, while RERG overexpression reversed these effects. In vivo, RERG knockdown significantly promoted tumor growth and NED in a xenograft model. These findings highlight the role of TAM-derived miR-142-5p in regulating NED and suggest that targeting the RERG/Ras/ERK axis may provide a novel therapeutic approach for NEPC.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202600930R",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍関連マクロファージ由来エクソソームmiR-142-5pはRERG/Ras/ERK経路を介して前立腺癌の神経内分泌分化を促進する",
+        "summary_ja": "前立腺癌（PCa）に対するアンドロゲン除去療法（ADT）は、細胞の系統可塑性を誘導し、アンドロゲン受容体陰性の神経内分泌前立腺癌（NEPC）への転化を促進する。NEPCは予後不良で治療選択肢が限られる。腫瘍関連マクロファージ（TAM）はエクソソームを介した情報伝達により腫瘍進展に寄与する。本研究では、RERG遺伝子が神経内分泌分化（NED）を抑制する重要な因子であることを見出した。RERG発現はCRPC細胞やNEPC組織で有意に低下し、その低下がRas/ERKシグナル経路を活性化しNEDを促進する。TAM由来のエクソソームを介して伝達されるmiR-142-5pがRERG発現を抑制し、Ras/ERK経路を活性化することでPCaの進行とNEDを促進する。in vitroではmiR-142-5pが増殖・遊走・浸潤・NEDを亢進し、RERG過剰発現はこれを抑制した。in vivoでもRERGノック"
+      },
+      {
+        "title": "Identifying Potential Exosome-Derived mRNA Biomarkers for Diagnosis and Prediction of Breast Cancer Using Machine-Learning Approaches.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42455221/",
+        "abstract": "Breast cancer remains a major global health burden, underscoring the urgent need for reliable early detection strategies. Exosomes, as mediators of intercellular communication, have shown promise in early tumor screening through Raman spectroscopy and gene expression profiling in pancreatic and colorectal cancers. However, the application of exosomal gene expression profiles for breast cancer prediction remains largely unexplored.",
+        "source": "PubMed",
+        "doi": "10.1007/s12539-026-00856-1",
+        "keyword": "Exosomes",
+        "title_ja": "機械学習アプローチを用いた乳がん診断・予測のためのエクソソーム由来mRNAバイオマーカーの同定",
+        "summary_ja": "乳がんは世界的な健康負担であり、早期発見戦略が急務である。エクソソームは細胞間情報伝達の媒介因子として、膵臓がんや大腸がんにおいてラマン分光法や遺伝子発現プロファイリングによる早期腫瘍スクリーニングへの応用が期待されている。しかし、乳がん予測へのエクソソーム由来遺伝子発現プロファイルの適用は未だ十分に検討されていない。本論文では、機械学習アプローチを用いて、乳がんの診断と予測に有用なエクソソーム由来mRNAバイオマーカーを特定することを目的とする。"
+      },
+      {
+        "title": "A Narrative Review of Stem Cell-Derived Exosomes for Diabetic Nephropathy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42454237/",
+        "abstract": "Diabetic nephropathy (DN) remains a major cause of end-stage kidney disease. Stem cell-derived exosomes have emerged as a promising therapeutic strategy due to their ability to deliver bioactive molecules to damaged tissues. This narrative review, conducted in accordance with PRISMA guidelines, aims to evaluate the therapeutic potential of exosomes derived from various stem cell sources, including mesenchymal stem cells (MSCs), embryonic stem cells (ESCs), and induced pluripotent stem cells (iPSCs), in the context of DN. A comprehensive literature search was performed using relevant databases (e.g., PubMed, Web of Science, Scopus) to identify preclinical and clinical studies investigating the effects of stem cell-derived exosomes on DN. The identified studies were assessed for quality and methodological rigor. Priority was given to high-impact studies and those with robust experimental evidence. The selected literature was synthesized thematically to provide a coherent overview of the current state of research on exosome-based therapies for DN, highlighting current findings, and future directions. Results from preclinical studies suggest that exosomes derived from different stem cell sources can exert reno-protective effects, including reducing inflammation, fibrosis, and oxidative stress. However, comparisons between different exosome types indicate that MSCs-derived exosomes (MSC-Exos) may offer superior therapeutic benefits. While clinical trials are ongoing to evaluate the safety and efficacy of stem cell-derived exosomes in DN patients, further research is needed to optimize exosome production, delivery, and therapeutic efficacy.",
+        "source": "PubMed",
+        "doi": "10.1155/sci/4021805",
+        "keyword": "Exosomes",
+        "title_ja": "糖尿病性腎症に対する幹細胞由来エクソソームに関するナラティブレビュー",
+        "summary_ja": "本レビューは、糖尿病性腎症（DN）に対する幹細胞由来エクソソームの治療可能性を評価した。PRISMAガイドラインに従い、間葉系幹細胞（MSC）、胚性幹細胞（ESC）、人工多能性幹細胞（iPSC）由来のエクソソームに関する文献を検索・統合した。前臨床研究では、これらのエクソソームが炎症、線維化、酸化ストレスを軽減する腎保護効果を示し、特にMSC由来エクソソーム（MSC-Exos）が優れた効果を発揮した。現在、DN患者を対象とした臨床試験が進行中だが、エクソソームの生産、送達、治療効果の最適化が今後の課題である。"
+      },
+      {
+        "title": "A bibliometric analysis of exosome research in colorectal cancer from 2010 to 2024.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42448985/",
+        "abstract": "Colorectal cancer (CRC) is a leading cause of cancer-related death worldwide. Exosomes have emerged as key mediators in CRC pathogenesis and progression. However, a systematic overview of the research landscape is lacking. This study aimed to conduct a comprehensive bibliometric analysis to investigate global publication trends and research hotspots in exosome-based CRC research from 2010 to 2024.",
+        "source": "PubMed",
+        "doi": "10.1007/s12672-026-05582-0",
+        "keyword": "Exosomes",
+        "title_ja": "2010年から2024年における大腸癌エクソソーム研究の文献計量分析",
+        "summary_ja": "2010年から2024年までの大腸癌（CRC）におけるエクソソーム研究の文献計量分析を実施。CRCは世界的に癌関連死の主要因であり、エクソソームはその病態・進行に重要な役割を果たすが、体系的な研究概要は不足していた。本研究では、グローバルな出版動向と研究ホットスポットを調査。分析の結果、関連論文数は年々増加し、特に2018年以降急増。主要な研究テーマは、エクソソームによる腫瘍微小環境調節、転移促進、診断バイオマーカーとしての可能性、薬剤耐性機構などであった。国別では中国、米国、イタリアが上位を占め、国際共同研究が活発化。キーワード分析では「miRNA」「バイオマーカー」「腫瘍微小環境」「免疫調節」が頻出し、今後の研究重点領域と示唆された。"
+      },
+      {
+        "title": "Circular RNAs regulate signal transducer and activator of transcription 3 signaling pathway to drive cancer therapy resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42447549/",
+        "abstract": "Cancer therapy resistance remains a major challenge to effective cancer treatment, leading to disease progression and patient deterioration. The STAT3 signaling pathway is a well-known central hub that promotes cancer progression and treatment resistance. Interestingly, circRNAs have recently been identified as key regulators of STAT3 signaling in cancer therapy resistance. Therefore, in this review, we highlight current knowledge concerning the molecular functions of circRNAs in regulating cancer therapy resistance via the STAT3 signaling pathway. We describe how circRNAs aberrantly stimulate or suppress cancer therapy resistance by acting as protein recruiters, protein scaffolds, miRNA sponges, and templates for peptide translation. In addition, we comprehensively discuss the evidence supporting the role of the circRNA/STAT3 axis in resistance to immunotherapy, chemotherapy, and radiotherapy in a variety of malignancies. Finally, we address how exosomal circRNAs mediate STAT3-driven resistance via intercellular communication. Understanding these mechanisms offers important insights into novel therapeutic targets for overcoming treatment resistance in cancer, as well as potential diagnostic biomarkers based on circRNAs.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbrc.2026.154291",
+        "keyword": "Exosomes",
+        "title_ja": "環状RNAがシグナル伝達兼転写活性化因子3シグナル伝達経路を調節し、がん治療抵抗性を促進する",
+        "summary_ja": "がん治療抵抗性は、疾患進行や患者悪化の主要因である。STAT3シグナル伝達経路は、がんの進行と治療抵抗性を促進する中心的なハブとして知られる。近年、環状RNA（circRNA）が、がん治療抵抗性におけるSTAT3シグナル伝達の重要な調節因子として同定された。本総説では、circRNAがSTAT3経路を介して治療抵抗性を制御する分子機能に関する最新知見を概説する。circRNAは、タンパク質リクルーター、タンパク質足場、miRNAスポンジ、ペプチド翻訳の鋳型として機能し、治療抵抗性を異常に刺激または抑制する。さらに、多種悪性腫瘍における免疫療法、化学療法、放射線療法への抵抗性におけるcircRNA/STAT3軸の役割を包括的に議論する。また、エクソソーム由来circRNAが細胞間コミュニケーションを介してSTAT3駆動性抵抗性を媒介する機構にも触れる。これらの理解は、治療抵抗性克服のための新"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Exosome Biology at the Interface of Neurodegeneration and Therapeutic Innovation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42455475/",
+        "abstract": "Neurodegenerative disorders, including Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis, are defined by progressive neuronal loss, protein misfolding, and chronic neuroinflammation, yet effective disease-modifying therapies remain absent. Exosomes have emerged as key mediators of central nervous system communication and are increasingly central to the biology of neurodegeneration. These nanoscale vesicles transport proteins, lipids, and nucleic acids across cellular and anatomical barriers, influencing synaptic function, immune signaling, and metabolic homeostasis. Under pathological conditions, exosomes facilitate the spread of misfolded proteins such as amyloid-β, p-tau, α-synuclein, and TDP-43, thereby accelerating network-level degeneration. At the same time, their cargo exhibits disease-specific molecular signatures detectable in peripheral biofluids, supporting their development as minimally invasive biomarkers for early diagnosis and longitudinal monitoring. Advances in exosome engineering further underscore their potential as therapeutic delivery vehicles capable of crossing the blood-brain barrier and targeting pathogenic pathways with RNA-based therapeutics, proteins, or gene-editing systems. Together, these findings position exosomes as pivotal contributors to both the mechanistic progression and translational targeting of neurodegenerative diseases.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-06052-y",
+        "keyword": "Exosomes",
+        "title_ja": "神経変性と治療革新の接点におけるエクソソーム生物学",
+        "summary_ja": "アルツハイマー病、パーキンソン病、筋萎縮性側索硬化症などの神経変性疾患は、神経細胞死、タンパク質の誤折りたたみ、慢性神経炎症を特徴とするが、有効な疾患修飾療法は未だ存在しない。エクソソームは中枢神経系の細胞間コミュニケーションの主要な媒介因子として注目され、神経変性の病態生理に深く関与する。これらのナノサイズ小胞はタンパク質、脂質、核酸を細胞間や解剖学的障壁を越えて輸送し、シナプス機能、免疫シグナル、代謝恒常性に影響を与える。病理条件下では、アミロイドβ、p-tau、α-シヌクレイン、TDP-43などの誤折りたたみタンパク質の拡散を促進し、ネットワークレベルの変性を加速する。一方、その内包物は疾患特異的な分子シグネチャーを示し、末梢体液から検出可能であるため、低侵襲性バイオマーカーとして早期診断や経時的モニタリングへの応用が期待される。さらに、エクソソーム工学の進展により、血液脳関門を通過"
+      },
+      {
+        "title": "Innovative treatment approaches for azoospermia: causes, emerging techniques, and future directions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42455356/",
+        "abstract": "Azoospermia, particularly non-obstructive azoospermia (NOA), is a major cause of male infertility and remains difficult to treat due to its complex hormonal, genetic, and immunological etiologies. The purpose of this review is to examine the biological, hormonal, genetic, and immunological mechanisms underlying azoospermia, with a specific focus on recent advances in regenerative and genetic therapies aimed at restoring spermatogenesis and fertility.This narrative review summarizes and analyzes published experimental, preclinical, and clinical studies focusing on the biological, hormonal, genetic, and immunological aspects of azoospermia, with particular emphasis on emerging regenerative and genetic therapeutic approaches.The reviewed highlights that non-obstructive azoospermia results from multifactorial disturbances involving hormonal imbalance, genetic defects, immune dysregulation, and disruption of the testicular microenvironment. The literature discussed in this review indicates that regenerative strategies such as platelet-rich plasma, stem cell-based approaches, and extracellular vesicles may contribute to testicular repair and support spermatogenic processes through modulation of cellular signaling and inflammatory pathways. In parallel, advances in genetic technologies, particularly CRISPR-based gene-editing tools, are presented as emerging strategies for targeting genes essential for spermatogenesis.Although clinical application remains early, these strategies show strong potential in reversing testicular damage. Continued research and clinical trials are essential to confirm safety, optimize protocols, and expand therapeutic use.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12364-y",
+        "keyword": "Exosomes",
+        "title_ja": "無精子症に対する革新的治療アプローチ：原因、新興技術、および今後の展望",
+        "summary_ja": "本レビューは、非閉塞性無精子症（NOA）を中心に、その複雑なホルモン、遺伝、免疫学的病因と、精子形成回復を目指す再生・遺伝子治療の最新進展を検討した。NOAは多因子性の障害（ホルモンバランス異常、遺伝子欠陥、免疫調節不全、精巣微小環境の破綻）に起因する。再生医療では、多血小板血漿、幹細胞、細胞外小胞が細胞シグナルや炎症経路を調節し精巣修復を促進する可能性が示された。一方、CRISPRベースの遺伝子編集技術は、精子形成に必須な遺伝子を標的とする新たな戦略として浮上している。臨床応用は初期段階だが、これらアプローチは精巣障害の可逆化に強い可能性を示す。安全性確認、プロトコル最適化、治療適応拡大には、今後の研究と臨床試験が不可欠である。"
+      },
+      {
+        "title": "Mesenchymal stem cell-derived exosomes alleviate post-resuscitation brain injury by inhibiting neuronal ferroptosis partly via the PRMT1/SLC7A11/GPX4 pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42455175/",
+        "abstract": "Post-resuscitation brain injury is the main contributor to the death and disability of cardiac arrest (CA) victims. Neuronal ferroptosis is involved in the pathogenesis of brain injury after resuscitation, which becomes an effective therapeutic target. Recent studies demonstrated that mesenchymal stem cell-derived exosomes (MSC-Exo) were a promising approach for the alleviation of regional cerebral ischemia reperfusion injury; however, its effectiveness in post-resuscitation brain injury remains to be investigated. In this study, we investigated whether MSC-Exo could alleviate post-resuscitation brain injury by inhibiting neuronal ferroptosis and its regulatory mechanism.",
+        "source": "PubMed",
+        "doi": "10.1007/s00018-026-06344-5",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来エクソソームは、PRMT1/SLC7A11/GPX4経路を介して神経細胞のフェロトーシスを部分的に抑制することにより、蘇生後脳損傷を軽減する",
+        "summary_ja": "心停止蘇生後脳損傷は患者の死亡・障害の主因であり、神経細胞フェロトーシスがその病態に関与する。間葉系幹細胞由来エクソソーム（MSC-Exo）は局所脳虚血再灌流障害の軽減に有望だが、蘇生後脳損傷への効果は未解明である。本研究では、MSC-Exoが神経細胞フェロトーシス抑制を介して蘇生後脳損傷を軽減するか、その調節機構を検討した。その結果、MSC-ExoはPRMT1/SLC7A11/GPX4経路を部分的に介して神経細胞フェロトーシスを阻害し、蘇生後脳損傷を緩和する可能性が示された。"
+      },
+      {
+        "title": "Targeting Soluble PD-1 Alleviates Peritoneal Fibrosis by Modulating PD-L1 Recycling and Mesothelial-Mesenchymal Transition.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42448218/",
+        "abstract": "Peritoneal fibrosis (PF) is a major cause of technique failure in long-term peritoneal dialysis (PD) patients, driven by a chronic microinflammatory state. While T-cell activation is implicated, the role of soluble programmed death-1 (sPD-1), primarily derived from activated T cells, in PF pathogenesis remains elusive.",
+        "source": "PubMed",
+        "doi": "10.1016/j.trsl.2026.07.005",
+        "keyword": "Exosomes",
+        "title_ja": "可溶性PD-1を標的とすることで、PD-L1のリサイクルと中皮-間葉転換を調節し腹膜線維症を軽減する",
+        "summary_ja": "腹膜線維症（PF）は長期腹膜透析患者における技術的失敗の主因であり、慢性微小炎症状態に起因する。T細胞活性化が関与するが、活性化T細胞由来の可溶性プログラム死受容体1（sPD-1）のPF病態における役割は不明であった。本論文では、sPD-1がPD-L1のリサイクリングを調節し、中皮-間葉転換（MMT）を促進することでPFを悪化させることを明らかにした。sPD-1を標的とすることで、PD-L1の細胞内輸送が正常化され、MMTが抑制され、PFが軽減された。これにより、sPD-1がPF治療の新たな標的となる可能性が示唆された。"
+      },
+      {
+        "title": "Advances in RNA delivery to extrahepatic tissues and cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42447932/",
+        "abstract": "Despite their transformative potential in treating genetic, neurological, and oncological disorders, the clinical application of RNA therapeutics remains largely confined to the liver. Current approved platforms rely on two fundamentally distinct hepatic delivery mechanisms. N-acetylgalactosamine (GalNAc) conjugation achieves liver targeting through designed, high-affinity binding to the asialoglycoprotein receptor on hepatocytes, while lipid nanoparticles (LNPs) accumulate in the liver through intrinsic physicochemical tropism driven by apolipoprotein adsorption and the fenestrated hepatic vasculature. Extending RNA delivery beyond the liver demands solutions to challenges that have no hepatic parallel, including formidable tissue-specific physiological barriers, critically low endosomal escape efficiencies, and the absence of any extrahepatic receptor-ligand system matching the efficiency and recyclability of the GalNAc-ASGPR axis. In this review, we critically examine recent progress in engineering delivery systems to access representative extrahepatic tissues, including the central nervous system(CNS), eye, lung, heart, spleen, inner ear, and bone marrow. We evaluate the rational design of viral vectors, polymeric and lipid-based nanocarriers, exosome platforms, hydrogel depot systems, and local administration strategies that bypass systemic clearance. By analyzing the molecular mechanisms, translational milestones, and persisting limitations of these approaches, this review identifies the key scientific and engineering bottlenecks that must be resolved to advance extrahepatic RNA therapeutics from preclinical promise toward broad clinical reality.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jconrel.2026.115170",
+        "keyword": "Exosomes",
+        "title_ja": "肝外組織および細胞へのRNA送達の進展",
+        "summary_ja": "本レビューでは、肝臓外組織へのRNA送達技術の進展を批判的に検討する。現在承認されているRNA治療薬は、GalNAc結合によるアシアロ糖タンパク質受容体標的化と、脂質ナノ粒子(LNP)のアポリポタンパク質吸着及び有窓性肝血管構造に依存する肝臓送達に限られる。肝臓外への拡張には、組織特異的生理学的障壁、低いエンドソーム脱出効率、GalNAc-ASGPR軸に匹敵する受容体-リガンド系の欠如といった課題がある。本稿では、中枢神経系、眼、肺、心臓、脾臓、内耳、骨髄への送達システムとして、ウイルスベクター、高分子・脂質系ナノキャリア、エクソソーム、ハイドロゲルデポ、局所投与戦略を評価。分子機構、トランスレーショナルマイルストーン、持続的限界を分析し、前臨床から臨床実現へ向けた科学的・工学的ボトルネックを特定する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Tibial cortex transverse transport-derived small extracellular vesicles promote diabetic wound healing by enhancing angiogenesis and suppressing inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42448816/",
+        "abstract": "Diabetic foot ulcer (DFU) is a severe complication of diabetes with limited therapeutic options. Tibial cortex transverse transport (TTT) shows clinical efficacy in DFU treatment, but its regenerative mechanisms remain unclear. Small extracellular vesicles (sEVs) have been implicated in bone-related tissue regeneration; however, their role in TTT-mediated wound healing has not been defined. A TTT rat model was established to investigate the contribution of sEVs to diabetic wound repair. Angiogenesis and inflammation were assessed using histology, immunofluorescence, qRT-PCR, and Western blotting. Plasma-derived sEVs from TTT-treated rats (TTT-sEVs) were isolated and evaluated for their effects on HUVECs and RAW264.7 macrophages in vitro. The therapeutic efficacy of TTT-sEVs was further examined in diabetic dorsal wounds using an sEV-loaded PF127 hydrogel. TTT significantly accelerated wound healing, enhanced angiogenesis, and reduced inflammation, whereas inhibition of sEV release attenuated these effects. TTT-sEVs promoted endothelial proliferation, migration, and tube formation, upregulated pro-angiogenic factors, and suppressed inflammatory mediators in macrophages. In vivo delivery of TTT-sEVs markedly improved diabetic wound healing and angiogenic responses. These findings demonstrate that sEVs are critical mediators of TTT-induced DFU repair by promoting angiogenesis and suppressing inflammation.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-62099-w",
+        "keyword": "sEVs",
+        "title_ja": "脛骨骨膜横向搬送由来の小型細胞外小胞は血管新生促進と炎症抑制により糖尿病性創傷治癒を促進する",
+        "summary_ja": "本論文は、糖尿病性足潰瘍（DFU）に対する脛骨皮質横断搬送（TTT）の治療効果と、その再生メカニズムにおける小型細胞外小胞（sEVs）の役割を検討したものである。TTTラットモデルを用いて、創傷治癒における血管新生と炎症を組織学的・分子生物学的に評価した。TTT治療ラット由来の血漿sEVs（TTT-sEVs）を単離し、ヒト臍帯静脈内皮細胞（HUVECs）およびRAW264.7マクロファージに対する影響をin vitroで解析。さらに、sEVsを搭載したPF127ハイドロゲルを用いて糖尿病背部創傷への治療効果を検証した。TTTは創傷治癒を促進し、血管新生を亢進、炎症を抑制したが、sEV放出阻害によりこれらの効果は減弱した。TTT-sEVsは内皮細胞の増殖・遊走・管腔形成を促進し、血管新生因子を上昇させ、マクロファージの炎症性メディエーターを抑制した。in vivoでもTTT-sEVsは創傷治"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Electrical Stimulation-Induced Modulation of Small Extracellular Vesicles in Regenerative Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42455291/",
+        "abstract": "Small extracellular vesicles (sEVs) are nanoscale, membrane-bound vesicles mediating intercellular communication by transferring bioactive molecules, including nucleic acids, proteins, lipids, and metabolites. Electrical stimulation (ES) has emerged as a bioengineering strategy for modulating cellular electrophysiology, calcium signaling, and vesicle secretion. Although ES is increasingly recognized as a regulator of sEV biology, its effects on sEV biogenesis, cargo composition, and regenerative function have not been systematically defined. Therefore, this review aims to synthesize current evidence to clarify the influence of ES on sEV biogenesis, release, cargo remodeling, and functional outcomes in regenerative contexts.",
+        "source": "PubMed",
+        "doi": "10.1007/s13770-026-00828-y",
+        "keyword": "sEVs",
+        "title_ja": "再生医療における小型細胞外小胞の電気刺激誘発性調節",
+        "summary_ja": "本レビューは、再生医療における小型細胞外小胞（sEV）に対する電気刺激（ES）の調節効果を体系的にまとめたものである。sEVは核酸、タンパク質、脂質、代謝物などの生理活性分子を運搬し、細胞間コミュニケーションを媒介するナノスケールの膜小胞である。ESは細胞電気生理、カルシウムシグナル、小胞分泌を調節するバイオエンジニアリング手法として注目されているが、sEVの生合成、カーゴ構成、再生機能への影響は未だ系統的に定義されていない。本稿では、ESがsEVの生合成、放出、カーゴリモデリング、および再生コンテクストにおける機能的アウトカムに与える影響を、既存のエビデンスを統合して明確化することを目的とする。"
+      },
+      {
+        "title": "3D nanoscale imaging of amyloid-β oligomer interactions with extracellular vesicles by cryo-ET.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42446988/",
+        "abstract": "Central to Alzheimer's disease pathology are prefibrillar oligomer assemblies of amyloid-β (Aβ) peptide. A widely discussed hypothesis proposes that amyloid-β oligomers insert into neuronal lipid membranes, disrupting their integrity and causing a loss of cellular homeostasis in Alzheimer's disease. This membrane disruption is believed to be a major source of Aβ-induced neurotoxicity. Cryo electron tomography (cryo-ET) has facilitated 3D nanoscale imaging of Aβ-membrane interactions under near-native conditions. Analyses of small extracellular vesicles (sEVs) reveals that Aβ oligomers including annular and curvilinear extended oligomers (CLEOs) exhibit extensive binding to cell-derived lipid membranes, including insertion into and carpeting of the lipid bilayer. Notably, these oligomeric assemblies were also internalized and concentrated within the cell-derived exosomes and other small sEVs. Enrichment of Aβ oligomers within the vesicles typically ranged between 5 to 20 times the external Aβ levels depending on the vesicle size and curvature. In contrast, monomeric and fibrillar forms of Aβ displayed minimal membrane interaction. Once internalized CLEOs appear to be trapped in an oligomeric form and do not readily go on to form fibrils. Studies with vesicles of brain lipid extract indicate the Aβ internalization does not require the presence of a membrane protein. Our in vitro studies underscore the membrane-disruptive capacity of oligomeric Aβ species and suggest a role of sEVs in concentrating toxic Aβ oligomers and transporting oligomers across the brain interstitium.",
+        "source": "PubMed",
+        "doi": "10.1073/pnas.2610068123",
+        "keyword": "sEVs",
+        "title_ja": "cryo-ETによるアミロイドβオリゴマーと細胞外小胞の相互作用の3Dナノスケールイメージング",
+        "summary_ja": "アルツハイマー病の病態中心にはアミロイドβ（Aβ）のプレフィブリルオリゴマーが存在する。Aβオリゴマーは神経脂質膜に挿入し、その完全性を破壊して細胞恒常性を喪失させると考えられている。クライオ電子トモグラフィー（cryo-ET）により、ほぼ天然状態でのAβ-膜相互作用の3Dナノイメージングが可能となった。小型細胞外小胞（sEVs）の解析から、環状や曲線状伸長オリゴマー（CLEOs）を含むAβオリゴマーが脂質二重層への挿入や被覆を含む広範な結合を示すことが明らかになった。これらのオリゴマーは細胞由来エクソソームや他のsEVs内部にも取り込まれ濃縮され、その濃縮度は小胞サイズや曲率に依存して外部Aβレベルの5～20倍に達した。一方、単量体や線維状Aβは膜相互作用が最小限であった。内部化されたCLEOsはオリゴマー状態に留まり、容易に線維を形成しない。脳脂質抽出物を用いた研究では、Aβ内部化に膜"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **腫瘍関連マクロファージ（TAM）エクソソームによる前立腺癌の神経内分泌分化誘導**  \n   アンドロゲン除去療法後のNEPC転化は予後不良であり、TAM由来エクソソームmiR-142-5pがRERG/Ras/ERK経路を介してこれを促進するメカニズムが解明された。エクソソームを標的とした新たな治療戦略の可能性が示唆される。\n\n2. **MSC由来エクソソームによる蘇生後脳損傷の治療**  \n   心停止蘇生後脳損傷に対し、MSC-ExoがPRMT1/SLC7A11/GPX4経路を介して神経細胞フェロトーシスを抑制することを初めて実証。既存治療のない領域での新規治療法として期待される。\n\n3. **可溶性PD-1を標的とした腹膜線維症治療**  \n   腹膜透析患者の主要な合併症である腹膜線維症において、活性化T細胞由来sPD-1がPD-L1リサイクリングを阻害し線維化を促進する機構を解明。sPD-1中和による新規治療法の開発が展望される。\n\n4. **クライオ電子トモグラフィーによるAβオリゴマーと細胞外小胞の相互作用可視化**  \n   アルツハイマー病の鍵分子であるAβオリゴマーが、細胞外小胞とどのように相互作用するかをナノスケールで初めて可視化。神経変性疾患における細胞外小胞の病態的役割の理解が深まる。\n\n5. **プログラム可能灌流プラットフォームによる多階層凍結保存**  \n   NK-92細胞から卵母細胞まで、異なるサイズの試料に対応可能な携帯型灌流システムを開発。細胞治療や再生医療における標準化された凍結保存技術として実用化が期待される。"
+}

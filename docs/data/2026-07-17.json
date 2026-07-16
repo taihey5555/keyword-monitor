@@ -1,0 +1,206 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Biomarkers in predicting mortality in hemodialysis patients: recent advances.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42455729/",
+        "abstract": "Patients undergoing maintenance hemodialysis face annual mortality rates of 15-27%, with cardiovascular causes accounting for more than half of all deaths. Despite advances in dialytic technology, conventional prognostic models derived from the general population systematically underestimate risk in end-stage renal disease, failing to capture the complexity of uremic pathophysiology that drives this excess mortality: immune dysregulation, chronic inflammation, oxidative stress, vascular calcification, uremic cardiomyopathy, protein-energy wasting, and accelerated vascular aging. This narrative review synthesizes current evidence on biomarkers predicting all-cause and cardiovascular mortality in haemodialysis patients, spanning established markers (albumin, CRP, ferritin, hemoglobin, high-sensitivity troponins, and NT-proBNP) to an emerging frontier encompassing IL-6, PTX3, sST2, galectin-3, FGF-23, Klotho, and multi-omics signatures. We further examine composite neutrophil-derived indices, adipokines, and mineral metabolism markers as tools for pathway-specific risk interrogation. The evidence converges on a clear practical message: combination and dynamics outperform single, static measurements. Multi-biomarker models consistently outperform individual markers, and longitudinal trajectories carry prognostic information, with divergence between survivors and non-survivors detectable many months before death, that a single time-point value cannot replicate. Advances in artificial intelligence and multi-omics further support this shift toward dynamic, personalized risk stratification, though these approaches remain at an early, largely exploratory stage. Critically, clinical translation remains limited by the lack of dialysis-specific thresholds, poor standardization, and the absence of randomized evidence demonstrating that biomarker-guided strategies improve outcomes. Bridging this gap between prognostic insight and clinical application remains the central challenge of precision nephrology.",
+        "source": "PubMed",
+        "doi": "10.20452/pamw.17351",
+        "keyword": "Klotho",
+        "title_ja": "血液透析患者の死亡予測におけるバイオマーカー：最近の進歩",
+        "summary_ja": "維持血液透析患者の年間死亡率は15～27％で、心血管死が半数以上を占める。従来の予後モデルは尿毒症病態（免疫異常、慢性炎症、酸化ストレス、血管石灰化、尿毒症性心筋症、蛋白質エネルギー消耗、血管老化促進）の複雑性を捉えきれず、リスクを過小評価する。本総説は、確立されたマーカー（アルブミン、CRP、フェリチン、ヘモグロビン、高感度トロポニン、NT-proBNP）から新興マーカー（IL-6、PTX3、sST2、ガレクチン-3、FGF-23、Klotho、マルチオミクス）までを網羅し、全死亡および心血管死亡予測におけるエビデンスを統合する。結論として、単一・静的測定より複数マーカーの組み合わせと経時的変化が優れ、生存者と非生存者の乖離は死亡の数ヶ月前から検出可能である。人工知能とマルチオミクスは動的・個別化リスク層別化を促進するが、透析特異的基準値の欠如、標準化不足、バイオマーカー主導戦略の有効性"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Safety and Feasibility of Infusing Ex Vivo Expanded Allogeneic Canine Natural Killer Cells for the Treatment of Metastatic Solid Tumours.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42461253/",
+        "abstract": "Companion canines need advances in therapeutic options for solid tumour malignancies. Natural killer (NK) cell infusions offer a promising treatment modality in canines with solid tumours. Autologous natural killer products are limited by dysfunctional immunity and a manufacturing process that delays care whereas allogeneic NK cells offer the possibility of 'off-the-shelf' therapy to be administered from healthy donors. Peripheral blood mononuclear cells (PBMCs) were isolated from healthy canine donors via density gradient separation. NK cells were expanded with recombinant human IL-2 and canine IL-21 with the addition of K562 feeder cells transfected with CD137 ligand and membrane bound human IL-15. Additional experiments included IL-12 during expansion. In vitro potency was assessed via co-culture with the D17-mKate2 canine osteosarcoma cell line. Three canines were enrolled in a phase 1 trial infusing ex vivo expanded allogeneic NK cells after lymphodepletion. Flow cytometric analysis confirmed successful expansion of canine NK cells with up to 50% of cells demonstrating NKp46+ after 14 days. Residual T cell numbers varied based on donor. The addition of IL-12 led to increased NK cell expansion. Incucyte demonstrated potency with increasing osteosarcoma cell death at higher effector to target ratios. Three canines with metastatic/refractory solid tumours were successfully lymphodepleted and infused with allogeneic NK cell products. The canines tolerated the infusions well. Canine allogeneic NK cells were successfully expanded and activated ex vivo, demonstrated potency in vitro and safety in vivo. Further studies will optimise the NK cell product and escalate dosing to reach the maximal tolerable dose.",
+        "source": "PubMed",
+        "doi": "10.1111/vco.70091",
+        "keyword": "NK cell therapy",
+        "title_ja": "転移性固形腫瘍の治療における体外増殖同種イヌナチュラルキラー細胞注入の安全性と実現可能性",
+        "summary_ja": "この論文は、転移性固形腫瘍を有するイヌに対する他家ナチュラルキラー（NK）細胞輸注の安全性と実現可能性を検討した第1相試験である。自家NK細胞は免疫機能不全や製造遅延が課題である一方、他家NK細胞は健常ドナーから即時投与可能な「オフザシェルフ」療法を提供する。健常イヌから末梢血単核球を分離後、IL-2、IL-21、K562フィーダー細胞を用いてNK細胞を体外増幅した。フローサイトメトリーで14日後に最大50%の細胞がNKp46+を示し、IL-12添加で増幅が促進された。D17骨肉腫細胞株との共培養で、エフェクター対標的比の上昇に伴い腫瘍細胞死が増加し、in vitroでの有効性が確認された。リンパ球除去後、3頭の転移性・難治性固形腫瘍イヌに他家NK細胞を輸注したところ、全例が良好な忍容性を示した。本研究は、イヌ他家NK細胞の体外増幅と活性化、in vitro有効性、in vivo安全性を実"
+      },
+      {
+        "title": "Development of a 3-day manufacturing method to generate CD19-CD20-CD22 trispecific CAR T-cells from whole blood.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42458494/",
+        "abstract": "Chimeric antigen receptor (CAR) T-cell therapy has transformed the treatment landscape for many hematological malignancies. However, high relapse rates and limited accessibility remain significant challenges. We developed a 3-day streamlined process to address these limitations.",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-08306-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "全血からCD19-CD20-CD22三特異性CAR T細胞を生成する3日間製造法の開発",
+        "summary_ja": "タイトル：全血からCD19-CD20-CD22三特異性CAR T細胞を3日間で作製する方法の開発\n\n内容：キメラ抗原受容体（CAR）T細胞療法は多くの血液悪性腫瘍の治療を変革したが、高い再発率と限られたアクセス性が課題である。本研究では、これらの制限を克服するため、3日間の効率的なプロセスを開発した。この方法は全血から直接、CD19、CD20、CD22を標的とする三特異性CAR T細胞を迅速に作製する。従来の製造期間を短縮し、複数抗原を標的とすることで再発リスク低減を目指す。本手法は、治療の迅速化と普及に貢献する可能性がある。"
+      },
+      {
+        "title": "Development and External Validation of a Transcriptome-Based Multivariable Prediction Model for Treatment-Free Remission in Chronic Myeloid Leukemia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42454992/",
+        "abstract": "Treatment-free remission (TFR) is a major therapeutic objective in chronic myeloid leukemia (CML). However, nearly 50% of patients relapse after tyrosine kinase inhibitor (TKI) discontinuation, and no robust predictive biomarker is currently available.",
+        "source": "PubMed",
+        "doi": "10.1200/JCO-25-02948",
+        "keyword": "NK cell therapy",
+        "title_ja": "慢性骨髄性白血病における治療無し寛解のためのトランスクリプトームベース多変量予測モデルの開発と外部検証",
+        "summary_ja": "タイトル：慢性骨髄性白血病における治療無効寛解のためのトランスクリプトームベース多変量予測モデルの開発と外部検証\n\n内容：治療無効寛解（TFR）は慢性骨髄性白血病（CML）の主要な治療目標である。しかし、チロシンキナーゼ阻害薬（TKI）中止後、約50%の患者が再発し、現時点で確固たる予測バイオマーカーは存在しない。本研究では、トランスクリプトームデータに基づく多変量予測モデルを開発し、外部検証を行った。モデルはTFR達成の可能性を高精度に予測し、臨床応用への有望性を示した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Proteomics of Extracellular Vesicles Derived from Primary Cells of Pancreatic Ductal Adenocarcinoma Patients Identifies Ribosomal Proteins Associated with Survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42461642/",
+        "abstract": "Pancreatic ductal adenocarcinoma remains a formidable clinical challenge, with a very poor survival rate. It is highly metastatic and quickly exhibits chemoresistance, both of which are mediated by interactions of the tumor cells with their microenvironment. Extracellular vesicles are key mediators by which tumor cells interact with their microenvironment. Here, we utilized a data-independent acquisition proteomics workflow to characterize the protein cargo of extracellular vesicles isolated from patient-derived primary cells and cell lines of varying aggressiveness. Mapping 1432 unique proteins with high reproducibility, we identified protein signatures that robustly discriminated between short-term and long-term survival phenotypes. While the data set was highly enriched for established exosomal markers, differential expression and PLS-DA modeling revealed that the most significant indicators of short survival (high aggressiveness) were ribosomal proteins. STRING analysis confirmed these as highly connected interactome hubs. These findings suggest that the differential loading of translational machinery into the extracellular space─likely via microvesicles or coisolated nonvesicular particles─contributes to poor prognosis, offering new insights into the systemic secretome of aggressive tumors.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.jproteome.6c00168",
+        "keyword": "Exosomes",
+        "title_ja": "膵管腺癌患者の初代培養細胞由来細胞外小胞のプロテオミクス解析により、生存に関連するリボソームタンパク質が同定される",
+        "summary_ja": "膵管腺癌は予後不良な難治性癌であり、高い転移能と薬剤耐性を示す。これらは腫瘍細胞と微小環境の相互作用に依存し、細胞外小胞が重要な役割を果たす。本研究では、患者由来初代細胞と異なる悪性度の細胞株から単離した細胞外小胞のタンパク質を、データ非依存型取得プロテオミクスで解析した。再現性高く1,432種類のユニークタンパク質を同定し、短期生存と長期生存の表現型を明確に区別するタンパク質シグネチャーを発見した。既知のエクソソームマーカーが豊富に検出された一方、差次的発現解析とPLS-DAモデリングにより、短期生存（高悪性度）の最も顕著な指標はリボソームタンパク質であった。STRING解析では、これらが高度に連結された相互作用ネットワークのハブであることが確認された。以上の結果は、翻訳機構の細胞外への選択的輸送（おそらくマイクロベシクルや共単離された非小胞性粒子を介する）が予後不良に寄与することを示唆"
+      },
+      {
+        "title": "Human Umbilical Cord Mesenchymal Stem Cells in Metabolic Dysfunction-associated Fatty Liver Disease (MAFLD) Therapy: Mechanisms, Clinical Efficacy, and Future Perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42461490/",
+        "abstract": "There is currently no approved drug treatment for metabolic dysfunction-related fatty liver disease (MAFLD). Umbilical cord-derived mesenchymal stem cells (UC-MSCs) show therapeutic potential, but their mechanism of action is remains incompletely understood. Different from previous reviews that focused on a single pathway, this article presents three important contributions: First, it constructs an integrated \"multi-target synergy network\" model, clarifying how UC-MSCs coordinate and regulate the inflammatory, metabolic and fibrotic processes through the interactions between the AMPK/mTOR, Nrf2/HO-1 and TGF-β/Smad pathways; Second, it systematically assesses recent clinical trials (2022-2025), identifying several unaddressed barriers to transformation, including the lack of histological endpoint indicators, batch-to-batch differences, and the absence of dose exploration studies; Third, we integrate the latest developments from 2024 to 2025, particularly mitochondrial transfer (mediated by tunnel nanotubes and accompanied by quantitative efficacy data) and exosome circular RNA networks [Formula: see text], which have not been covered in previous reviews. Based on the above analysis, we also propose specific suggestions for standardized GMP production, mandatory genomic stability testing, and long-term safety registration. This review provides a comprehensive analysis of elaborates on the treatment of MAFLD with UC-MSCs from a mechanistic and translational perspective, based on the extensive updates of relevant literature.",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11181-x",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト臍帯間葉系幹細胞による代謝機能障害関連脂肪肝疾患（MAFLD）治療：メカニズム、臨床的有効性、および将来の展望",
+        "summary_ja": "現在、代謝機能障害関連脂肪肝疾患（MAFLD）に対する承認薬はない。臍帯由来間葉系幹細胞（UC-MSCs）は治療の可能性を示すが、作用機序は完全には解明されていない。本総説は、従来の単一経路に焦点を当てたレビューとは異なり、以下の3点を提示する。第一に、AMPK/mTOR、Nrf2/HO-1、TGF-β/Smad経路間の相互作用を通じて炎症、代謝、線維化プロセスを協調的に調節する「多標的相乗ネットワーク」モデルを構築した。第二に、2022～2025年の臨床試験を体系的に評価し、組織学的エンドポイント指標の欠如、ロット間差、用量探索研究の不在といった未解決の橋渡し障壁を特定した。第三に、2024～2025年の最新知見、特にトンネルナノチューブを介したミトコンドリア移行（定量的有効性データ付き）やエクソソーム環状RNAネットワークを統合した。さらに、標準化GMP生産、必須のゲノム安定性試験、長"
+      },
+      {
+        "title": "MicroRNA-based diagnosis and therapy in prostate cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42459410/",
+        "abstract": "This review summarizes current evidence on the biological, diagnostic, prognostic, and therapeutic significance of microRNAs (miRNAs/miRs) in prostate cancer (PCa). Dysregulated miRNA networks contribute to PCa initiation, progression, metastasis, and therapy resistance by regulating androgen receptor signaling, proliferation, apoptosis, epithelial-mesenchymal transition, angiogenesis, hypoxia signaling, bone tropism, and castration-resistant evolution. Oncogenic miRNAs, including miR-21, miR-93, miR-9, miR-181a, and miR-182, promote malignant phenotypes through survival, TGF-β, PI3K/AKT, MAPK, HIF-1α, and EMT-associated pathways, whereas tumor-suppressor miRNAs, including the miR-34 family, miR-145, miR-122, and miR-382, restrict proliferation, stem-like traits, invasion, metastasis, and treatment resistance. Circulating, urinary, and exosomal miRNAs have potential as minimally invasive biomarkers for PCa detection, risk stratification, recurrence monitoring, metastatic risk prediction, and assessment of castration-resistant disease. Multi-miRNA panels, such as miR-375-3p/miR-182-5p, miR-34b-3p/miR-361-5p/miR-200c-3p, and miR-200c/miR-605/miR-135a/miR-433/miR-106a, may outperform individual markers by capturing multiple biological pathways and reducing single-marker variability; however, most remain at the discovery or validation stage rather than routine clinical implementation. Translation requires standardized sample handling, hemolysis control, reproducible RNA extraction, validated normalization strategies, assay harmonization, locked thresholds, and multicentre prospective validation against PSA, imaging, histopathology, and established risk models. High-throughput platforms, including qRT-PCR, microarray, next-generation sequencing, and nCounter digital counting, support miRNA discovery and validation but differ in sensitivity, specificity, cost, throughput, bioinformatic complexity, and clinical deployability. Therapeutically, anti-miRs, miRNA mimics, sponges, masks, CRISPR-based approaches, and nanocarrier-assisted delivery systems provide experimental strategies for inhibiting oncogenic miRNAs or restoring tumor-suppressor miRNAs. Preclinical evidence supports miR-21 inhibition and replacement of miR-34a, miR-145, miR-15a/miR-16-1, miR-124, and miR-205. Still, clinical translation is limited by off-target effects, immune activation, delivery efficiency, endosomal escape, tumor heterogeneity, pharmacokinetics, toxicity, scalability, and manufacturing reproducibility. Overall, miRNAs provide mechanistic insight into PCa heterogeneity and offer promising opportunities for precision diagnosis, prognosis, and therapy, with the most realistic near-term application being integration of validated miRNA panels with PSA, multiparametric MRI, pathology, and multi-omic or AI-assisted risk models.",
+        "source": "PubMed",
+        "doi": "10.1007/s13205-026-04966-x",
+        "keyword": "Exosomes",
+        "title_ja": "前立腺癌におけるマイクロRNAに基づく診断と治療",
+        "summary_ja": "本レビューは、前立腺癌（PCa）におけるマイクロRNA（miRNA）の生物学的、診断的、予後的、治療的意義をまとめた。miRNAネットワークの異常は、アンドロゲン受容体シグナル伝達、増殖、アポトーシス、上皮間葉転換、血管新生、低酸素シグナル、骨指向性、去勢抵抗性進展を制御し、PCaの発生、進行、転移、治療抵抗性に寄与する。miR-21などの発癌性miRNAは悪性表現型を促進し、miR-34ファミリーなどの腫瘍抑制性miRNAは増殖や転移を抑制する。循環血中、尿中、エクソソーム中のmiRNAは、低侵襲性バイオマーカーとしてPCaの検出、リスク層別化、再発監視、転移リスク予測に有望である。複数miRNAパネルは単一マーカーより優れるが、臨床実装には標準化された検体処理、検証済みの正規化戦略、多施設前向き検証が必要である。治療面では、抗miRNA、miRNA模倣薬、ナノキャリア送達システムなどが"
+      },
+      {
+        "title": "Low-dose docetaxel reprograms CAR T cells for enhanced solid tumor immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42458530/",
+        "abstract": "Chimeric antigen receptor (CAR) T cell therapy in solid tumors is hampered by dense stromal barriers, rapid functional exhaustion, and limited persistence. Here, we report that low-dose docetaxel acts as an immunomodulatory primer that reprograms CAR T cells to address these barriers. Retrospective analysis of breast cancer patients identifies host lymphocyte reserve as a key determinant of docetaxel treatment benefit, implying an immunological component beyond direct tumor cell killing.",
+        "source": "PubMed",
+        "doi": "10.1186/s13046-026-03781-9",
+        "keyword": "Exosomes",
+        "title_ja": "低用量ドセタキセルによるCAR-T細胞の再プログラミングが固形腫瘍免疫を強化する",
+        "summary_ja": "低用量ドセタキセルは、免疫調節プライマーとして機能し、固形腫瘍におけるCAR T細胞療法の障壁（密な間質バリア、機能的疲弊、持続性の低下）を克服する。乳癌患者の後ろ向き解析では、宿主リンパ球予備能がドセタキセル治療効果の主要な決定因子であり、直接的な腫瘍細胞殺傷を超えた免疫学的要素が示唆された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Stem Cell-Derived Exosomes: A Cell-Free Frontier in Peripheral Nerve Regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42461491/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11192-8",
+        "keyword": "Exosomes",
+        "title_ja": "幹細胞由来エクソソーム：末梢神経再生における無細胞フロンティア",
+        "summary_ja": "タイトル: Stem Cell-Derived Exosomes: A Cell-Free Frontier in Peripheral Nerve Regeneration.\n\n本論文は、末梢神経再生における細胞治療の代替として、幹細胞由来エクソソームの可能性を探る。エクソソームは、幹細胞が分泌するナノサイズの小胞で、成長因子やmRNA、miRNAなどの生物活性分子を運搬し、神経再生に重要な血管新生、軸索伸長、シュワン細胞の活性化を促進する。細胞を用いないため、腫瘍形成や免疫拒絶のリスクが低く、保存や投与が容易である。動物モデルでは、エクソソーム投与により神経機能回復が改善され、炎症抑制やミエリン再形成が確認された。しかし、標準化された精製法や最適な投与経路、長期安全性の検証が課題であり、臨床応用にはさらなる研究が必要と結論づけている。"
+      },
+      {
+        "title": "SHED-Exo delivery of miR-708-5p activates PI3K/AKT signaling pathway to alleviate glucocorticoid-induced osteogenic inhibition in BMSCs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42461469/",
+        "abstract": "Steroid-induced osteonecrosis of the femoral head (SONFH) is the most prevalent type of non-traumatic femoral head necrosis. Exosomes (Exo) secreted from stem cells of human exfoliated deciduous teeth (SHED) play crucial roles in biological processes, particularly in tissue regeneration and repair. Previous studies have demonstrated that exosomes from SHED (SHED-Exo) can alleviate dexamethasone (Dex)-induced osteogenic inhibition in bone marrow mesenchymal stem cells (BMSCs). This study aims to further investigate the molecular mechanism by which SHED-Exo rescues BMSCs osteogenic inhibition. Dex-induced BMSCs were used to construct the SONFH model, and SHED-Exo were used for treatment. Differentially expressed miRNAs (DE miRNAs) were identified by miRNA-seq and miRNA target genes were predicted using the database. Regulation was assessed by transfection of miRNA inhibitor and mimics. Alizarin red staining was used to verify osteogenic differentiation capacity, while qPCR and western blotting were employed to analyze osteogenesis-related proteins (OCN, OPN, and RUNX2), EFNA1, and PI3K/AKT pathways. Modulation using PI3K/AKT inhibitors and EFNA1 small interfering RNAs (siRNA) was performed to probe the molecular mechanism of SHED-Exo therapy. miRNA-seq results identified miR-708-5p as a DE miRNA. qPCR confirmed that its expression was down-regulated after Dex treatment and elevated after SHED-Exo treatment. CNTFR was validated as a miR-708-5p target gene through four database predictions and dual luciferase reporter gene results. Transfection of SHED with miR-708-5p inhibitor and mimics demonstrated that miR-708-5p derived from SHED-Exo negatively regulates CNTFR to promote osteogenesis in BMSCs and increases EFNA1 expression, thereby activating the PI3K/AKT pathway. It was further demonstrated that CNTFR is upstream of EFNA1 and negatively regulates the EFNA1/PI3K/AKT pathway by inhibiting PI3K/AKT and interfering with EFNA1 expression. SHED-Exo carries miR-708-5p into BMSCs, promoting EFNA1 expression by negatively regulating CNTFR, which in turn activates the PI3K/AKT pathway and enhances the osteogenic capacity of BMSCs.",
+        "source": "PubMed",
+        "doi": "10.1007/s11010-026-05635-6",
+        "keyword": "Exosomes",
+        "title_ja": "SHED-ExoによるmiR-708-5pの送達はPI3K/AKTシグナル伝達経路を活性化し、BMSCsにおけるグルココルチコイド誘発性の骨形成抑制を軽減する。",
+        "summary_ja": "ステロイド性大腿骨頭壊死症（SONFH）は非外傷性大腿骨頭壊死の最多原因である。本研究では、脱落乳歯幹細胞由来エクソソーム（SHED-Exo）が、dexamethasone（Dex）誘導性の骨髄間葉系幹細胞（BMSCs）の骨形成抑制を救済する分子機構を解明した。miRNA-seq解析により、Dex処理で低下しSHED-Exo処理で上昇するmiR-708-5pを同定。標的遺伝子としてCNTFRを検証し、SHED-Exo由来miR-708-5pがCNTFRを負に制御することでEFNA1発現を促進し、PI3K/AKT経路を活性化することを確認した。CNTFRはEFNA1の上流に位置し、PI3K/AKT経路を負に制御する。阻害剤やsiRNAを用いた検証により、SHED-ExoがmiR-708-5pをBMSCsに運搬し、CNTFR抑制を介してEFNA1/PI3K/AKT経路を活性化し、骨形成能を向上"
+      },
+      {
+        "title": "ADSC-Exo-bFGF promotes skin wound healing and correlates with the PI3K/AKT signaling pathway activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42461467/",
+        "abstract": "Wound healing is a complex physiological process involving a variety of tissue repair cells. Adipose-derived stem cell (ADSC)-derived exosomes have demonstrated potential in promoting wound healing. Basic fibroblast growth factor (bFGF) is known to facilitate tissue regeneration. Nevertheless, the biological functions and detailed mechanisms of ADSC-Exo-bFGF in cutaneous wound healing remain largely unelucidated. The study aimed to construct a bFGF-glycosylphosphatidylinositol (GPI)-anchored exosome system (ADSC-Exo-bFGF) and further explore its therapeutic efficacy and underlying molecular mechanisms in skin wound healing. A eukaryotic expression plasmid carrying bFGF-GPI fusion gene was constructed and transfected into ADSCs. Secreted exosomes were isolated and characterized by transmission electron microscopy (TEM), nanoparticle tracking analysis (NTA), and western blotting. Hematoxylin and Eosin (H&E) staining and Masson's trichrome staining were used for histological assessment. Inflammatory cytokines in wound tissues and cell supernatants were quantified by enzyme-linked immunosorbent assay (ELISA). Cell viability was evaluated by Cell Counting Kit-8 (CCK-8) assay. Scratch assay was applied for determining cell migration ability. The protein levels of bFGF and the phosphatidylinositol 3-kinase/protein kinase B (PI3K/AKT) pathway related proteins were assessed using western blot assay. Characteristic exosomal surface markers were positively expressed in isolated ADSC-Exo-bFGF, which also exhibited abundant bFGF protein expression. In vivo results confirmed that compared with control groups, ADSC-Exo-bFGF treatment significantly accelerated skin wound healing, reduced inflammatory infiltration, and enhanced collagen deposition, exerting better therapeutic effects than unmodified ADSC-derived exosomes. In vitro experiments further verified that ADSC-Exo-bFGF promoted proliferation and migration of human skin fibroblasts (HSFs) and suppressed inflammatory factor secretion, with superior biological activity relative to empty exosomes. Western blot results revealed that ADSC-Exo-bFGF markedly elevated the phosphorylation levels of p-PI3K and p-AKT in both HSFs and mouse wound tissues, suggesting that the PI3K/AKT signaling pathway is likely involved in this biological process. Our findings revealed that bFGF-GPI-anchored exosomes accelerate skin wound healing via suppressing inflammatory responses, which is accompanied by the activation of the PI3K/AKT signaling cascade. This research offers a novel promising therapeutic strategy for clinical cutaneous wound treatment.",
+        "source": "PubMed",
+        "doi": "10.1007/s10735-026-10885-1",
+        "keyword": "Exosomes",
+        "title_ja": "ADSC-Exo-bFGFは皮膚創傷治癒を促進し、PI3K/AKTシグナル伝達経路の活性化と関連する。",
+        "summary_ja": "本論文は、bFGFをGPIアンカーで修飾した脂肪由来幹細胞（ADSC）由来エクソソーム（ADSC-Exo-bFGF）の創傷治癒効果と分子機構を検討した。bFGF-GPI融合遺伝子をADSCに導入し、分泌されたエクソソームを単離・特性評価した。in vivoでは、ADSC-Exo-bFGF投与群で創傷治癒促進、炎症浸潤抑制、コラーゲン沈着増加が確認され、未修飾エクソソームより優れた効果を示した。in vitroでは、ヒト皮膚線維芽細胞（HSF）の増殖・遊走促進と炎症性サイトカイン分泌抑制が認められた。ウェスタンブロット解析により、ADSC-Exo-bFGFはHSFおよびマウス創傷組織においてPI3K/AKT経路のリン酸化を顕著に亢進した。以上より、ADSC-Exo-bFGFはPI3K/AKTシグナル活性化を介し炎症応答を抑制して創傷治癒を促進することが示され、新たな治療戦略として期待される。"
+      },
+      {
+        "title": "ROS-driven mitochondrial and mtDNA release as a novel pathway of metabolic injury in diabetes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42461144/",
+        "abstract": "Mitochondrial dysfunction driven by chronic hyperglycemia is a hallmark of diabetes, yet how this metabolic stress communicates pathological signals beyond individual cells remains poorly understood. In this study, we identified a novel mechanism linking chronic hyperglycemia to systemic metabolic impairment through ROS-mediated extracellular release of structurally intact mitochondria and mitochondrial DNA (mtDNA). In HepG2 cells exposed to high glucose (HG), extracellular release of structurally intact mitochondria was visualized by co-staining of mitochondria and the plasma membrane, together with electron microscopy. Mitochondria-enriched fractions isolated from culture supernatants were further quantified using flow cytometry and qPCR. Cell-free mtDNA (cf-mtDNA) was visualized with co-staining of mitochondria and double- stranded DNA, isolated through differential centrifugation and ultrafiltration, and quantified by qPCR. We demonstrate that HG stimulates the release of exosome-enclosed mtDNA as well as fragmented cf-mtDNA. Concurrently, HG induces mitochondrial dysfunction and markedly increases mitochondrial ROS (mtROS). Treatment with MitoTEMPO, a mitochondria-targeted ROS scavenger, significantly reduced HG-induced extracellular release of mitochondria and mtDNA, supporting the ROS dependence of this process. In diabetic mice, we detected elevated circulating mtDNA copy number and pronounced mitochondrial dysfunction in liver and muscle, including reduced ATP production, mitochondrial swelling, cristae disruption, and elevated MDA levels. Resting metabolic rate was markedly decreased, indicating impaired systemic respiratory metabolism. Serum analyses revealed increased 8-OHdG, pyruvic acid, GDF-15, and FGF-21, along with reduced FT3, reflecting severe oxidative stress and mtDNA damage. These findings uncover a novel mechanism in which hyperglycemia-induced ROS drive mitochondrial extrusion, potentially linking metabolic stress to systemic metabolic deterioration.",
+        "source": "PubMed",
+        "doi": "10.1530/JME-25-0203",
+        "keyword": "Exosomes",
+        "title_ja": "ROS駆動によるミトコンドリアおよびミトコンドリアDNA放出：糖尿病における新たな代謝障害経路",
+        "summary_ja": "慢性高血糖によるミトコンドリア機能障害は糖尿病の特徴だが、その代謝ストレスが細胞外へ病理シグナルを伝達する機構は不明である。本研究では、ROSを介した構造的完全性を保つミトコンドリア及びミトコンドリアDNA（mtDNA）の細胞外放出が、高血糖と全身代謝障害を結びつける新規経路であることを同定した。高グルコース（HG）曝露HepG2細胞では、共染色と電子顕微鏡により完全なミトコンドリアの放出が可視化され、培養上清中のミトコンドリア画分はフローサイトメトリーとqPCRで定量された。細胞遊離mtDNA（cf-mtDNA）は、エクソソーム内包型と断片化型として検出された。HGはミトコンドリアROS（mtROS）を増加させ、ミトコンドリア標的ROSスカベンジャーMitoTEMPO処理は放出を有意に抑制し、ROS依存性が示された。糖尿病マウスでは、血中mtDNAコピー数上昇、肝臓と筋肉でのATP産生低"
+      },
+      {
+        "title": "Improving stem cell-derived extracellular vesicles for better tendon and tendon-to-bone junction regeneration: strategies and future directions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42458649/",
+        "abstract": "Chronic tendinopathy is a debilitating tendon overuse disorder characterized by localized tenderness, swelling, and pain, significantly impairing physical function. It is particularly common among the overuse and aging populations. Traditional treatment options, including conservative therapies and surgical interventions, often yield limited success. Recent studies indicate that extracellular vesicles (EV) derived from stem cells provide a promising therapeutic avenue for healing of tendon and tendon-to-bone junction (TBJ) injuries associated with chronic tendinopathy. Their unique properties, such as higher cargo stability and the ability to serve as carriers for targeted drug delivery, position them as ideal candidates for tendinopathy treatment. However, the low yield of EVs presents challenges for clinical applications. This review systematically review various strategies to enhance EV yield and function, including preconditioning stem cells through biophysical, biological, or chemical means; genetic engineering of stem cells; in vitro loading of proteins or drugs and surface modification of EVs; and modifying the stem cell culture environment, particularly through three-dimensional (3D) culture techniques. Emphasis is placed on scaffold-free methods, scaffold-based methods, 3D printing, spinner flasks, and bioreactors, which can potentially improve EV yield and functions for tendon and TBJ regeneration. The review also summarizes relevant preclinical data and explores the molecular mechanisms underlying enhanced EV yield and functions, as well as the mechanisms of EVs on tendon and TBJ repair. Future research directions include investigating various EV enhancement strategies in models of degenerative tendon injury, studying the underlying molecular mechanisms, establishing cost-effective methods for scalable EV production, optimizing EV treatment protocols for clinical translation, and exploring combination strategies to enhance therapeutic EV production and function.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05171-6",
+        "keyword": "Exosomes",
+        "title_ja": "幹細胞由来細胞外小胞の改善による腱および腱骨接合部再生の向上：戦略と将来の方向性",
+        "summary_ja": "慢性腱障害は、局所的な圧痛、腫脹、疼痛を特徴とする消耗性の腱過使用障害であり、特に過使用や高齢者に多く、従来の治療法では限定的な効果しか得られない。近年、幹細胞由来の細胞外小胞（EV）が腱および腱骨接合部（TBJ）損傷の治療に有望であることが示されている。EVは高いカーゴ安定性や標的薬物送達能を持つが、収量の低さが臨床応用の課題である。本レビューでは、EVの収量と機能を向上させる戦略として、生物理的・生物学的・化学的刺激による幹細胞の前処理、遺伝子工学、タンパク質や薬剤のin vitroローディングと表面修飾、三次元（3D）培養技術（スキャフォールドフリー法、スキャフォールド法、3Dプリンティング、スピナーフラスコ、バイオリアクター）を体系的に整理する。また、前臨床データと、EV収量・機能向上の分子機構、およびEVによる腱・TBJ修復機構を概説する。今後の研究方向として、変性腱損傷モデルで"
+      },
+      {
+        "title": "Epigenetic modulation of the JAK2-STAT3 signaling pathway in osteoporosis: non-coding RNA networks as therapeutic targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42458565/",
+        "abstract": "Osteoporosis, a prevalent metabolic bone disease affects over 200 million people worldwide and is associated with an elevated fracture risk, is characterized by an imbalance between bone resorption and formation. The JAK2-STAT3 signaling pathway serves as a critical regulator of bone remodeling, but its chronic activation contributes to pathological bone metabolism in osteoporosis. Understanding the precise regulation of this pathway is essential for developing novel therapies.",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-08622-z",
+        "keyword": "Exosomes",
+        "title_ja": "骨粗鬆症におけるJAK2-STAT3シグナル伝達経路のエピジェネティック調節：治療標的としての非コードRNAネットワーク",
+        "summary_ja": "本論文は、骨粗鬆症におけるJAK2-STAT3シグナル伝達経路のエピジェネティック調節と、非コードRNAネットワークの治療標的としての可能性を論じる。骨粗鬆症は、骨吸収と骨形成の不均衡を特徴とする代謝性骨疾患で、全世界で2億人以上が罹患し、骨折リスクを高める。JAK2-STAT3経路は骨リモデリングの重要な調節因子であるが、その慢性的活性化は骨粗鬆症における病的な骨代謝に寄与する。本経路の精密な調節機構の解明は、新規治療法開発に不可欠である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Microfluidic post-insertion preparation and evaluation of RGD- and PEG-modified macrophage-derived small extracellular vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42229185/",
+        "abstract": "Various functionalization methods have been explored to enhance the targeted delivery of small extracellular vesicles (sEVs). We recently developed a microfluidic post-insertion method that enables the simultaneous incorporation of polyethylene glycol (PEG) lipids and high-functionality and high-quality (HFQ) lipids into bovine milk-derived sEVs. Since sEVs from different sources differ in surface composition and properties that significantly impact modifications, it is crucial to determine whether this method is applicable to sEVs from other origins. In this study, we used a PEG-lipid and a peptide consisting of arginine-glycine-aspartic acid (RGD) linked to a serine-glycine repeat (SG)",
+        "source": "PubMed",
+        "doi": "10.1016/j.dmpk.2026.101538",
+        "keyword": "sEVs",
+        "title_ja": "マイクロ流体ポストインサーション法によるRGDおよびPEG修飾マクロファージ由来小型細胞外小胞の調製と評価",
+        "summary_ja": "本論文では、小型細胞外小胞（sEV）の標的送達能向上を目的とし、マイクロ流体ポストインサーション法を用いて、ウシ乳由来sEVにポリエチレングリコール（PEG）脂質と高機能・高品質（HFQ）脂質を同時導入する手法を開発した。sEVは由来により表面組成や特性が異なり、修飾法の適用性に影響を与えるため、本研究ではマクロファージ由来sEVへの本手法の適用を検討した。具体的には、PEG脂質とアルギニン-グリシン-アスパラギン酸（RGD）ペプチド（セリン-グリシンリピート（SG）連結）を用いて修飾を行い、その調製と評価を実施した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **透析患者の新たな予後予測バイオマーカー**：維持血液透析患者の死亡率は高く、従来のモデルでは尿毒症の複雑な病態を捉えきれません。新たなバイオマーカーの開発は、リスク層別化の精度向上と個別化医療の実現に直結し、生命予後改善が期待されます。\n\n2. **他家NK細胞療法の安全性確認**：固形腫瘍治療において、自家NK細胞の課題（機能不全、製造遅延）を克服する他家NK細胞の即時投与が、イヌモデルで安全性と実現可能性を示しました。ヒトへの応用が進めば、がん免疫療法のアクセス性が大幅に向上します。\n\n3. **短期間製造法による三特異性CAR-T細胞**：全血から3日間でCD19-CD20-CD22三特異性CAR-T細胞を作製する手法は、製造時間短縮と再発率低下の両立を目指します。アクセス性向上と治療効果増強の観点から、血液がん治療のパラダイムシフトを起こす可能性があります。\n\n4. **膵臓がん細胞外小胞のプロテオミクス**：難治性膵管腺癌において、患者由来細胞の細胞外小胞に含まれるリボソームタンパク質が生存と関連することが判明。新たなバイオマーカーや治療標的として、予後改善への貢献が期待されます。\n\n5. **幹細胞由来エクソソームによる末梢神経再生**：細胞治療に代わる無細胞フロンティアとして、幹細胞由来エクソソームが末梢神経再生に有望です。免疫拒絶リスクが低く、製造安定性に優れるため、臨床応用への障壁が低く、再生医療の新たな基盤技術となり得ます。\n\nこれらのトピックは、難治性疾患に対する新規治療戦略や診断精度向上に直結し、今後の臨床応用が強く期待されます。"
+}

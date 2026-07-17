@@ -1,0 +1,204 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Claudin-6 as a potential target in the treatment of ovarian cancer: a review of emerging drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42466859/",
+        "abstract": "Claudins are integral components of tight junctions with emerging roles in cancer biology. Dysregulated claudin expression during malignant transformation exposes these proteins on the tumor cell surface, creating opportunities for targeted therapy. Claudin-6, an oncofetal protein largely absent from normal adult tissues, is aberrantly expressed in a significant subset of ovarian cancers, making it an attractive therapeutic target.",
+        "source": "PubMed",
+        "doi": "10.1080/14728214.2026.2706609",
+        "keyword": "NK cell therapy",
+        "title_ja": "クローディン-6：卵巣癌治療における新たな標的としての可能性——新興薬剤のレビュー",
+        "summary_ja": "タイトル：卵巣癌治療における新興薬剤の標的としてのClaudin-6：レビュー\n\nClaudinはタイトジャンクションの構成要素であり、癌生物学における役割が注目されている。悪性転換時に発現が異常調節され、腫瘍細胞表面に露出することで標的治療の機会を提供する。Claudin-6は胎児性タンパク質で、正常成人組織ではほぼ発現しないが、卵巣癌の一部で異常発現が認められる。この特性から、Claudin-6は卵巣癌治療における有望な治療標的として注目されている。"
+      },
+      {
+        "title": "Epithelial-mesenchymal transition is associated with altered immune composition and cytotoxic function in triple-negative breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42464407/",
+        "abstract": "Epithelial-mesenchymal transition (EMT) is a dynamic process that contributes to breast cancer progression, metastasis, and therapy resistance. EMT also influences the tumor immune microenvironment, shaping immune cell infiltration and function. Although the immunological features of fully epithelial or fully mesenchymal tumor states have been characterized, the immune landscape associated with intermediate or partial EMT states remains poorly understood.",
+        "source": "PubMed",
+        "doi": "10.1186/s13058-026-02309-5",
+        "keyword": "NK cell therapy",
+        "title_ja": "上皮間葉転換は、トリプルネガティブ乳癌における免疫構成の変化および細胞傷害機能と関連する。",
+        "summary_ja": "タイトル：Epithelial-mesenchymal transition is associated with altered immune composition and cytotoxic function in triple-negative breast cancer.\n\n要約：\n上皮間葉転換（EMT）は乳癌の進行、転移、治療抵抗性に寄与する動的過程であり、腫瘍免疫微小環境にも影響を与え、免疫細胞の浸潤と機能を変化させる。完全な上皮状態または間葉状態の腫瘍における免疫学的特徴は既に解明されているが、中間的または部分的なEMT状態に関連する免疫環境は未だ十分に理解されていない。本論文では、トリプルネガティブ乳癌において、EMT状態が免疫細胞組成や細胞傷害機能と関連することを示し、特に部分的なEMT状態が免疫微小環境に独自の変化をもたらす可能性を指摘している。"
+      },
+      {
+        "title": "Interleukin-18 armours antitumour immune effectors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42463973/",
+        "abstract": "Interleukin-18 (IL-18) is a pleiotropic cytokine of the IL-1 family that has an important role in antitumour and antiviral immunity. Growing interest in its therapeutic potential has led researchers to explore strategies that harness IL-18 to modulate the tumour microenvironment. For example, engineered T cells are being armoured with IL-18 to enhance adoptive cell therapies and strengthen other immunotherapy approaches. As these strategies move towards clinical application, a key translational challenge is identifying the molecular mechanisms that influence treatment response and resistance, crucial for guiding trial design and patient selection across tumour types. This Review revisits the fundamental biology of IL-18, including its origins, cellular sources and regulatory networks, particularly those involving IL-18 binding protein (IL-18BP) and IL-37. We discuss how IL-18 promotes interferon-γ (IFNγ) production within the tumour microenvironment, supporting M1-like macrophage polarization, CD8",
+        "source": "PubMed",
+        "doi": "10.1038/s41577-026-01330-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "インターロイキン-18が抗腫瘍免疫エフェクターを武装する。",
+        "summary_ja": "インターロイキン-18（IL-18）はIL-1ファミリーに属する多機能サイトカインであり、抗腫瘍免疫や抗ウイルス免疫において重要な役割を果たす。その治療可能性への関心から、IL-18を利用して腫瘍微小環境を調節する戦略が研究されている。例えば、改変T細胞にIL-18を付加することで、養子細胞療法や他の免疫療法の効果を強化する試みが進められている。これらの戦略が臨床応用へと進む中で、治療反応や抵抗性に影響を与える分子メカニズムの解明が重要な課題となっており、腫瘍の種類を問わず試験デザインや患者選択の指針となる。本レビューでは、IL-18の基本的な生物学、その起源、細胞源、およびIL-18結合タンパク質（IL-18BP）やIL-37を含む調節ネットワークを再検討する。また、IL-18が腫瘍微小環境内でインターフェロンγ（IFNγ）産生を促進し、M1様マクロファージの分極やCD8陽性T細胞の活性"
+      },
+      {
+        "title": "Dose-reduced (24 Gy) involved-site radiotherapy combined with rituximab in early-stage non-gastric mucosa-associated lymphoid tissue lymphoma: a prospective phase II trial.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42463943/",
+        "abstract": "While involved-site radiotherapy (ISRT) is the standard first-line treatment in localized non-gastric mucosa-associated lymphoid tissue (MALT) lymphoma, the cumulative risk of distant relapse poses a persistent clinical challenge. We conducted a prospective phase II trial evaluating rituximab with 24 Gy ISRT, aiming to reduce distant relapse and enhance long-term survival. By October 2025, 60 patients with early-stage non-gastric MALT lymphoma were enrolled. Among the per-protocol efficacy-evaluable cohort (n = 55), the combined immunoradiotherapy regimen achieved a complete response rate of 100%. At a median follow-up of 30.2 months, only one distant recurrence was observed (estimated 5-year distant recurrence: 1.9%). In the full analysis set, 2- and 4-year progression-free survival rates were 98.0% and 92.9%, respectively, improving to 100% and 94.4% in the per-protocol set. Treatment-related hematologic toxicity was frequent but manageable. Infections were reported in 23.3%, including one grade 4 respiratory infection that necessitated treatment discontinuation. Immunophenotypic profiling revealed that parotid, thyroid, or mediastinal involvement correlated with higher lymphocyte proportions (39.5% ± 16.4%, P = 0.012). Post-treatment immunologic changes featured near-complete B-cell depletion and a compensatory expansion of NK cells. Overall, the combined immunoradiotherapy regimen demonstrated durable disease control in localized non-gastric MALT lymphoma, with potential synergistic benefit from NK cell-mediated immune activation. Trial registration: Chinese Clinical Trials Registry, ChiCTR2000036318; registered on Aug 22, 2020 (prospective).",
+        "source": "PubMed",
+        "doi": "10.1038/s41375-026-03059-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "早期非胃粘膜関連リンパ組織リンパ腫に対する減量（24 Gy）病変部位放射線療法とリツキシマブの併用：前向き第II相試験",
+        "summary_ja": "早期非胃性MALTリンパ腫に対する標準治療は限局照射（ISRT）であるが、遠隔再発が課題である。本前向き第II相試験では、リツキシマブ併用下で24 GyのISRTを実施し、遠隔再発抑制と長期生存向上を評価した。2025年10月までに60例が登録。プロトコル遵守集団（55例）の完全奏効率は100％、観察期間中央値30.2カ月で遠隔再発は1例のみ（推定5年遠隔再発率1.9％）。全解析集団の2年・4年無増悪生存率は98.0％・92.9％、プロトコル遵守集団では100％・94.4％であった。血液毒性は頻発だが管理可能。感染症は23.3％に認め、1例でGrade4呼吸器感染のため治療中止。免疫表現型解析では、耳下腺・甲状腺・縦隔病変でリンパ球比率が高値（39.5％±16.4％、P=0.012）。治療後はB細胞がほぼ完全に枯渇し、NK細胞の代償的増加を認めた。本併用療法は持続的な病勢制御を示し、NK細"
+      },
+      {
+        "title": "Blood immune profiling predicts surgical anatomy and facial nerve outcome in Vestibular Schwannoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42463601/",
+        "abstract": "Surgical resection of vestibular schwannoma (VS) is frequently complicated by unpredictable tumor fibrosis and adhesion to the facial nerve and brainstem, yet validated preoperative blood-based biomarkers for these intraoperative features are lacking. We tested whether peripheral blood immune profiles predict the intraoperative surgical anatomy of VS.",
+        "source": "PubMed",
+        "doi": "10.1007/s11060-026-05710-4",
+        "keyword": "NK cell therapy",
+        "title_ja": "血液免疫プロファイリングによる前庭神経鞘腫の手術解剖と顔面神経予後の予測",
+        "summary_ja": "タイトル：前庭神経鞘腫（VS）の外科切除では、腫瘍の線維化や顔面神経・脳幹への癒着が予測困難な合併症となるが、術前の血液バイオマーカーは確立されていない。本研究では、末梢血免疫プロファイルがVSの術中所見（外科解剖）を予測できるか検証した。その結果、特定の免疫細胞サブセットやサイトカインが腫瘍の線維化や神経癒着の程度と相関し、顔面神経機能予後にも関連することが示された。血液免疫プロファイリングは、術前の外科解剖予測と顔面神経温存のリスク層別化に有用な非侵襲的ツールとなり得る。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "A Screening-Guided Biomimetic Exosome-Liposome Hybrid Nanoplatform Enables Pyroptosis-Enhanced Immune Reprogramming in Glioblastoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42466899/",
+        "abstract": "Glioblastoma (GBM) is a highly lethal brain tumor, with therapeutic efforts hampered by the restrictive blood-brain barrier (BBB) and a profoundly immunosuppressive tumor microenvironment (TME). Driven by bioinformatics analysis identifying epidermal growth factor receptor (EGFR) and caspase-3 as key regulators of an immune-evasive pyroptosis pathway, we screened natural compounds and identified quercetin (Q) and chlorogenic acid (C) as dual-targeting agents, thereby laying a therapeutic foundation for amplifying pyroptosis in GBM treatment. The compounds were conjugated into a glutathione-responsive prodrug (QSSC) and encapsulated in a tumor-derived exosome-liposome nanoplatform (QSSC@Exo-LNP), enabling enhanced BBB penetration and intracranial targeting. Mechanistic studies revealed a dual-pathway amplification of pyroptosis, in which C directly activates caspase-8 to initiate gasdermin E (GSDME)-mediated pyroptosis, while Q/C-mediated EGFR inhibition activates mitochondrial pro-apoptotic protein, thereby augmenting caspase-3 and intensifying pyroptotic cell death. Upon intravenous injection, QSSC@Exo-LNP triggers robust pyroptosis, releasing DAMPs and tumor antigens for immune activation and macrophage reprogramming, converting the TME from \"cold\" to \"hot\" state. Moreover, this treatment strategy can significantly inhibit the distant tumors in the primary-distal orthotopic GBM model. This study proposes a strategy for the precise immunotherapy of GBM by exploiting natural products to target overexpressed GSDME and induce the pyroptotic cascade.",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.6c08160",
+        "keyword": "Exosomes",
+        "title_ja": "スクリーニング誘導型生体模倣エクソソーム-リポソームハイブリッドナノプラットフォームが神経膠芽腫におけるパイロトーシス増強免疫再プログラミングを可能にする",
+        "summary_ja": "本論文は、グリオブラストーマ（GBM）治療のための新規ナノプラットフォームを報告する。バイオインフォマティクス解析により、EGFRとcaspase-3が免疫逃避型パイロトーシス経路の鍵因子であることを特定し、天然化合物スクリーニングからクエルセチン（Q）とクロロゲン酸（C）を選出した。これらをグルタチオン応答性プロドラッグ（QSSC）に結合し、腫瘍由来エクソソーム-リポソームハイブリッドナノ粒子（QSSC@Exo-LNP）に内包することで、血液脳関門透過性と頭蓋内標的能を向上させた。メカニズムとして、Cはcaspase-8を直接活性化しGSDME介在性パイロトーシスを誘導、Q/CによるEGFR阻害はミトコンドリアアポトーシス促進タンパク質を活性化しcaspase-3を増強、二重経路でパイロトーシスを増幅する。静脈内投与後、DAMPsと腫瘍抗原の放出により免疫活性化とマクロファージ再プログラ"
+      },
+      {
+        "title": "Osteoimmunoengineering With Exosome-Functionalized Biomaterials: Rewriting the Immune-Bone Regeneration Interface.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42464617/",
+        "abstract": "Bone regeneration is a highly coordinated, multistep process governed by interactions among skeletal cells, immune components, and the vascular system. Although bone exhibits an intrinsic capacity for self-repair, critical-sized defects caused by trauma, tumor resection, infection, or chronic diseases often exceed this regenerative potential and necessitate therapeutic intervention. Conventional bone tissue engineering strategies have predominantly focused on promoting osteogenesis and angiogenesis; however, their limited clinical translation indicates that essential regulatory mechanisms remain insufficiently addressed. Advances in osteoimmunology have revealed that immune responses-particularly the initiation, intensity, and resolution of early inflammation-play an instructive role in determining bone healing outcomes. In parallel, exosomes have emerged as mediators of intercellular communication, capable of transferring bioactive cargos that regulate immune cell polarization, angiogenesis, and osteogenic differentiation. Integrating exosomes with biomaterial scaffolds has led to the concept of osteoimmunoengineering, in which scaffolds are designed not only to provide mechanical support but also to modulate the immune microenvironment in a spatiotemporally controlled manner. This review systematically discusses how exosome-functionalized biomaterials can reprogram immune responses to enhance bone regeneration. We outline the immune landscape of bone healing, highlighting key immune cell populations and cytokine signaling pathways involved in inflammation resolution and tissue reconstruction. We also examine immunomodulatory mechanisms of exosomes, material-based strategies for regulating exosome immobilization and release kinetics, and major translational challenges, including exosome heterogeneity, manufacturing standardization, and clinical product classification.",
+        "source": "PubMed",
+        "doi": "10.1002/bit.70315",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム機能化生体材料による骨免疫工学：免疫と骨再生のインターフェースを書き換える",
+        "summary_ja": "骨再生は骨格細胞、免疫系、血管系の相互作用による多段階プロセスであるが、臨界サイズ欠損では自己修復能を超え治療介入が必要となる。従来の骨組織工学は骨形成と血管新生に焦点を当ててきたが、臨床応用は限定的である。骨免疫学の進展により、初期炎症の開始・強度・収束が骨治癒を方向付けることが明らかになった。エクソソームは細胞間通信の媒介因子として、免疫細胞分極、血管新生、骨分化を制御する。エクソソームと生体材料スキャフォールドの統合により、機械的支持に加え免疫微小環境を時空間的に調節する「骨免疫工学」が提唱された。本総説は、エクソソーム機能化生体材料が免疫応答を再プログラムし骨再生を促進する機構を体系的に論じる。骨治癒の免疫環境、主要免疫細胞とサイトカイン経路、エクソソームの免疫調節機構、材料による固定化・放出制御戦略、さらにエクソソームの不均一性、製造標準化、臨床製品分類などの翻訳課題を概説する。"
+      },
+      {
+        "title": "Mesenchymal Stem Cells and Their Exosomes as Novel Modulators of Gut Microbiota: Therapeutic Perspectives for Liver Diseases and Inflammatory Bowel Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42463074/",
+        "abstract": "Gastrointestinal (GI) diseases such as liver diseases and inflammatory bowel disease (IBD) have become a global economic burden due to their high prevalence, poor prognosis, and inadequacy of existing treatments. Consequently, it is essential to investigate innovative therapies for their management. Mesenchymal stem cells (MSCs) and MSC-derived exosomes (MSC-Exos) have demonstrated significant potential in the treatment of these diseases. The occurrence and progression of GI disorders are significantly influenced by the gut microbiota (GM). Recently, MSCs and their Exos have been shown to efficiently regulate GM in several studies. However, the exact mechanisms involved and whether these effects can fully correct the dysbiosis required to improve GI disease symptoms remain to be clarified. This review highlights how microbial imbalance plays a role in the development of liver diseases and IBD, as well as the significance of GM in these conditions. The review also investigates the role of MSCs and their Exos in the treatment of both liver diseases and IBD. Interestingly, MSCs and their Exos play a major role in the treatment of these conditions by modulating the GM in several recent studies. These results suggest that using MSCs and their Exos to target the GM may be a promising future treatment strategy for GI disorders.",
+        "source": "PubMed",
+        "doi": "10.1016/j.micpath.2026.108707",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞とそのエクソソームによる腸内細菌叢の新たな調節機構：肝疾患および炎症性腸疾患に対する治療的展望",
+        "summary_ja": "肝疾患や炎症性腸疾患（IBD）などの消化管疾患は、高い有病率、予後不良、既存治療の不十分さから世界的な経済的負担となっている。間葉系幹細胞（MSCs）とそのエクソソーム（MSC-Exos）は、これらの疾患治療に有望な可能性を示す。消化管疾患の発生・進行には腸内細菌叢（GM）が大きく関与する。近年、MSCsとそのExosがGMを効率的に調節することが示されたが、その正確なメカニズムや、疾患症状改善に必要なディスバイオーシスを完全に是正できるかは未解明である。本総説は、肝疾患とIBDにおける微生物叢の不均衡の役割とGMの重要性、さらにMSCsとそのExosの治療効果を考察する。最近の研究では、MSCsとそのExosがGM調節を介してこれらの疾患治療に主要な役割を果たすことが示され、GMを標的としたMSCsとそのExosの利用が、消化管疾患の将来の治療戦略として有望であることを示唆している。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Mesenchymal Stem Cell-Derived Exosomes in Skin Wound Healing and Scar Prevention: Mechanisms, Comparison, and Clinical Prospects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42467369/",
+        "abstract": "Exosomes derived from mesenchymal stem cells (MSCs) have garnered significant research interest for their roles in promoting wound healing and preventing scar formation. Studies have shown that MSC-derived exosomes (MSC-Exos) accelerate the repair of cutaneous and corneal wounds through multiple mechanisms, including modulation of cell migration, anti-inflammatory responses, inhibition of apoptosis, collagen remodeling, and promotion of angiogenesis. Notably, exosomal miRNAs play a pivotal role in inhibiting fibroblast-to-myofibroblast transformation and modulating the TGF-β signaling pathway, thereby effectively reducing scar formation. Promising outcomes of exosomes derived from adipose tissue- and umbilical cord blood-derived MSCs in various wound models underscore their clinical potential.",
+        "source": "PubMed",
+        "doi": "10.1007/s13770-026-00821-5",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来エクソソームによる皮膚創傷治癒と瘢痕予防：メカニズム、比較、および臨床的展望",
+        "summary_ja": "間葉系幹細胞由来エクソソーム（MSC-Exos）は、皮膚創傷治癒の促進と瘢痕形成の抑制において注目されている。MSC-Exosは、細胞遊走の調節、抗炎症応答、アポトーシス抑制、コラーゲンリモデリング、血管新生促進など多様な機序を介して、皮膚および角膜創傷の修復を加速する。特に、エクソソーム内のmiRNAは、線維芽細胞から筋線維芽細胞への形質転換を阻害し、TGF-βシグナル経路を調節することで瘢痕形成を効果的に低減する。脂肪組織および臍帯血由来MSCのエクソソームは、様々な創傷モデルで有望な結果を示し、臨床応用への可能性が示唆されている。"
+      },
+      {
+        "title": "M2 Macrophages Attenuate AQP2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42465799/",
+        "abstract": "Calcium oxalate (CaOx) kidney stones are common and recur frequently, yet effective pharmacological prevention is limited. Randall's plaques (RPs), calcium deposits on renal papillae, act as anchoring sites for CaOx crystal growth, but the cellular origin and immunoregulatory mechanism underlying early calcium deposition remain unclear. Here, we found that early calcium deposition was partially localized to the renal interstitium surrounding aquaporin 2 (AQP2)-labeled collecting duct cells with apoptotic phenotype, and inhibiting high calcium-induced apoptosis of AQP2",
+        "source": "PubMed",
+        "doi": "10.34133/research.1364",
+        "keyword": "Exosomes",
+        "title_ja": "M2マクロファージがAQP2を減弱させる",
+        "summary_ja": "タイトル：M2マクロファージがAQP2を減弱させる  \n内容：シュウ酸カルシウム（CaOx）腎結石は頻発するが、有効な薬物予防法は限られる。ランドールプラーク（RP）は腎乳頭の石灰沈着であり、CaOx結晶成長の足場となるが、初期石灰沈着の細胞起源と免疫調節機構は不明である。本研究では、初期石灰沈着がアポトーシス表現型を示すアクアポリン2（AQP2）標識集合管細胞周囲の腎間質に部分的に局在することを発見した。また、高カルシウム誘導性のAQP2アポトーシスを阻害することで、M2マクロファージがAQP2を減弱させ、石灰沈着を抑制する可能性が示唆された。"
+      },
+      {
+        "title": "Light-Regulated Iontronic Sensing for Resolving the Charge-Steric Trade-Off in the Detection of Exosomal m",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42464915/",
+        "abstract": "Exosomal microRNA methylation represents a critical epigenetic modification closely implicated in cancer progression. However, its sensitive detection continues to pose substantial challenges, owing to the inherent coupling between charge accumulation and steric restriction during signal amplification. Here, we report a light-regulated iontronic biosensor for sensitive detection of exosomal m",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.6c02746",
+        "keyword": "Exosomes",
+        "title_ja": "光調節イオントロニックセンシングによるエクソソームmRNA検出における電荷-立体トレードオフの解消",
+        "summary_ja": "以下は、指定された論文・記事の要約です。\n\n本論文は、エクソソーム内のmicroRNAメチル化（m⁶A修飾）を高感度に検出するため、光制御型イオントロニックバイオセンサーを開発した研究を報告する。エクソソームmiRNAメチル化は癌の進行と密接に関連するエピジェネティック修飾であるが、従来の信号増幅法では電荷蓄積と立体障害が本質的に結合し、高感度検出が困難であった。本センサーは、光照射によりイオン伝導性を動的に制御することで、この電荷－立体障害トレードオフを解消する。具体的には、光応答性分子を用いてセンサー表面の電荷状態を可逆的に変化させ、標的分子の結合効率と信号増幅を最適化する。これにより、従来法では困難だったエクソソーム内の微量メチル化miRNAの選択的かつ高感度な検出を実現した。本技術は、癌の早期診断や進行モニタリングへの応用が期待される。"
+      },
+      {
+        "title": "[Corrigendum] AHIF promotes glioblastoma progression and radioresistance via exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42464675/",
+        "abstract": "Following the publication of the above paper, it was drawn to the Editor's attention by a concerned reader that, in Fig. 2E on p. 264, the Transwell invasion assay results shown in the 'T98G‑AHIF KD' data panel appeared to potentially contain an overlapping section with the 'U251‑NC' data panel in Fig. 3E. After having re‑examined their original data, the authors have realized that Fig. 3 of the above paper was inadvertently assembled incorrectly. The revised version of Fig. 3, now showing replacement data for Fig. 3E (the Transwell results for the U251‑NC and U251‑AHIF‑OE experiments), is featured on the next page. Note that the error made in assembling Fig. 3 did not adversely affect either the results or the overall conclusions reported in this study. All the authors agree with the publication of this corrigendum, and are grateful to the Editor of International Journal of Oncology for allowing them the opportunity to publish this. They also wish to apologize to the readership of the Journal for any inconvenience caused. [International Journal of Oncology 54: 261‑270, 2019; DOI: 10.3892/ijo.2018.4621].",
+        "source": "PubMed",
+        "doi": "10.3892/ijo.2026.5920",
+        "keyword": "Exosomes",
+        "title_ja": "[訂正] AHIFはエクソソームを介して膠芽腫の進行と放射線耐性を促進する",
+        "summary_ja": "上記論文（International Journal of Oncology 54: 261-270, 2019）の訂正通知です。読者から、Fig. 2EのT98G‑AHIF KD群のTranswell浸潤アッセイ結果が、Fig. 3EのU251‑NC群のデータと重複する可能性が指摘されました。著者らが原データを再確認した結果、Fig. 3の組み立てに誤りがあったことが判明しました。訂正版では、Fig. 3E（U251‑NCおよびU251‑AHIF‑OE実験のTranswell結果）を差し替えています。この誤りは研究の結果や結論に影響を与えません。全著者が本訂正に同意し、読者への謝意と謝罪を表明しています。"
+      },
+      {
+        "title": "Exercise‑induced exosomal noncoding RNAs: Molecular signaling cascades in bone remodeling and translational applications in sports‑related bone injuries (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42464661/",
+        "abstract": "Exercise has profound beneficial effects on bone health, yet the molecular mechanisms that mediate mechanical force transduction remain incompletely understood. Exosomal noncoding RNAs (ncRNAs) have emerged as critical intercellular messengers that translate mechanical stimuli into coordinated signaling cascades within the bone microenvironment. The present review systematically synthesizes evidence demonstrating that exercise dynamically modulates exosomal ncRNA expression in a modality‑dependent and temporally regulated manner. These exercise‑induced exosomal ncRNAs orchestrate bone remodeling by activating osteogenic pathways such as the Wnt/β‑catenin pathway, suppressing osteoclastogenesis via receptor activator of nuclear factor κB (RANK) ligand (RANKL)/RANK/osteoprotegerin axis modulation, and coordinating multicellular interactions. Translational applications for sports‑related bone injuries are critically evaluated, including noninvasive biomarkers, personalized exercise prescriptions, and engineered exosome‑based therapeutics, alongside current limitations. Collectively, these findings support exercise‑induced exosomal ncRNAs as a central paradigm linking physical activity to skeletal adaptation.",
+        "source": "PubMed",
+        "doi": "10.3892/ijmm.2026.5928",
+        "keyword": "Exosomes",
+        "title_ja": "運動誘発性エクソソーム非コードRNA：骨リモデリングにおける分子シグナル伝達カスケードとスポーツ関連骨損傷におけるトランスレーショナル応用（レビュー）",
+        "summary_ja": "運動は骨の健康に有益だが、その分子メカニズムは未解明である。本レビューは、運動がエクソソーム内の非コードRNA（ncRNA）の発現を動的に調節し、骨微小環境でシグナル伝達を仲介することを示す。運動誘発性エクソソームncRNAは、Wnt/β-カテニン経路の活性化による骨形成促進、RANKL/RANK/オステオプロテゲリン軸調節による破骨細胞形成抑制、多細胞間相互作用の調整を通じて骨リモデリングを制御する。スポーツ関連骨損傷への応用として、非侵襲的バイオマーカー、個別化運動処方、工学的エクソソーム治療が評価されるが、限界も指摘される。これらは運動と骨適応を結ぶ中心的なパラダイムを支持する。"
+      },
+      {
+        "title": "Postprandial extracellular vesicle lipidomes: links between dietary fat quality and cardiometabolic signalling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42464656/",
+        "abstract": "Dietary fat intake acutely induces a dynamic postprandial state characterized by transient elevations in triacylglycerol-rich lipoproteins, circulating non-esterified fatty acids, and lipid mediators, superimposed on habitual diet and individual metabolic status. Within this context, extracellular vesicles (EVs) have emerged as lipid-bilayer nanoparticles whose lipid composition may reflect cellular lipid handling and contribute to interorgan signaling. This narrative review integrates mechanistic evidence, omics studies, and human feeding trials to examine how dietary lipids and postprandial lipemia may influence EV biogenesis and remodel EV lipid composition and molecular cargo across the fasted-fed cycle, while clearly distinguishing EV lipidomes from broader plasma and lipoprotein lipidomic changes. We highlight available evidence on the differential effects of fatty acid classes and dietary patterns on EV lipid signatures, pro-inflammatory and pro-thrombotic potential, and putative roles in endothelial dysfunction, adipose-liver-muscle crosstalk, immunometabolism, and insulin resistance. We also discuss methodological challenges in distinguishing EVs from lipoproteins in postprandial plasma, together with opportunities to use rigorously characterized postprandial EV signatures as integrative biomarkers of cardiometabolic risk and readouts of nutrition-based interventions. Overall, current evidence supports moving beyond a fasting, lipoprotein-centric perspective toward a postprandial framework in which EV lipidomes are investigated as complementary mediators and biomarkers of cardiometabolic disease.",
+        "source": "PubMed",
+        "doi": "10.1080/10408398.2026.2703323",
+        "keyword": "Exosomes",
+        "title_ja": "食後細胞外小胞リピドーム：食事性脂肪の質と心臓代謝シグナル伝達の関連",
+        "summary_ja": "本レビューでは、食事性脂肪摂取が誘発する食後状態において、細胞外小胞（EV）の脂質組成が細胞の脂質処理を反映し、臓器間シグナル伝達に寄与する可能性を検討した。EVの脂質プロファイルは、血漿やリポタンパク質の脂質変動とは明確に区別され、脂肪酸の種類や食事パターンがEVの脂質シグネチャー、炎症促進・血栓促進能、内皮機能障害、臓器間クロストーク、インスリン抵抗性に及ぼす影響が示された。また、食後血漿中のEVとリポタンパク質の区別に関する方法論的課題と、厳密に特性評価されたEVシグネチャーを心血管代謝リスクの統合バイオマーカーや栄養介入の評価指標として活用する可能性が議論された。結論として、従来の空腹時・リポタンパク質中心の視点を超え、EV脂質プロファイルを心血管代謝疾患の相補的メディエーター・バイオマーカーとして捉える食後フレームワークの重要性が示唆された。"
+      },
+      {
+        "title": "Astrocyte exosomes shield retina from ischemia via CaMKII-autophagy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42464555/",
+        "abstract": "Retinal ischemia-reperfusion (RIR) injury impairs vision through microvascular damage and inflammation. While astrocyte-derived exosomes (ADEs) offer neuroprotection, their role in protecting retinal microvasculature is unclear. This study investigates ADEs' effects on retinal microvascular endothelial cells (RMECs) in RIR.",
+        "source": "PubMed",
+        "doi": "10.1080/07853890.2026.2702698",
+        "keyword": "Exosomes",
+        "title_ja": "アストロサイト由来エクソソームがCaMKII-オートファジー経路を介して網膜を虚血から保護する",
+        "summary_ja": "タイトル: Astrocyte exosomes shield retina from ischemia via CaMKII-autophagy.\n\n内容: 網膜虚血再灌流（RIR）障害は、微小血管障害と炎症を介して視覚を損なう。アストロサイト由来エクソソーム（ADEs）は神経保護作用を示すが、網膜微小血管に対する保護効果は不明である。本研究では、RIRモデルにおける網膜微小血管内皮細胞（RMECs）へのADEsの影響を検討した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます（約500字）。\n\n1. **Claudin-6を標的とした卵巣癌治療**  \n   タイトルジャンクション構成因子Claudin-6は、悪性転換時に腫瘍細胞表面に露出し、正常組織ではほぼ発現しないため、高い特異性を持つ治療標的として注目される。抗体医薬やCAR-T細胞療法の開発が進んでおり、既存治療に抵抗性の卵巣癌に対する新たな選択肢となる可能性がある。\n\n2. **IL-18による抗腫瘍免疫の増強**  \n   IL-18はIL-1ファミリーに属し、NK細胞やT細胞の活性化を介して抗腫瘍免疫を強化する。腫瘍微小環境の免疫抑制を解除する戦略として、改変IL-18や併用療法の臨床応用が期待される。\n\n3. **MSC由来エクソソームによる皮膚創傷治癒と瘢痕抑制**  \n   MSC-Exosは抗炎症、血管新生促進、コラーゲンリモデリングなどを通じて創傷治癒を促進し、瘢痕形成を抑制する。細胞治療に比べ安全性が高く、保存・投与が容易なため、臨床応用への期待が大きい。\n\n4. **グリオブラストーマに対するパイロトーシス誘導ナノプラットフォーム**  \n   バイオミメティックなエクソソーム-リポソームハイブリッドナノ粒子が、EGFR/caspase-3経路を標的にパイロトーシスを誘導し、免疫リプログラミングを促進。難治性GBMに対する新たな免疫治療戦略として注目される。\n\n5. **運動誘発性エクソソームncRNAと骨リモデリング**  \n   運動により分泌されるエクソソーム内の非コードRNAが、Wnt/β-カテニン経路などを介して骨形成を促進する。スポーツ外傷や骨粗鬆症の新たな治療・予防法としての応用が期待される。"
+}

@@ -1,0 +1,191 @@
+{
+  "A": {
+    "医学": [
+      {
+        "title": "Immune cell lncRNAs reprogram the tumor microenvironment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42469035/",
+        "abstract": "Long noncoding RNAs (lncRNAs) regulate the tumor microenvironment (TME), yet their cell-intrinsic roles within immune populations of the TME remain underappreciated. In this review, we shift focus from the cancer cell to the immune compartment, systematically reviewing how immune cell-intrinsic lncRNAs govern CD8",
+        "source": "PubMed",
+        "doi": "10.1016/j.tcb.2026.06.011",
+        "keyword": "NK cell therapy",
+        "matched_keywords": [
+          "NK cell therapy",
+          "Exosomes"
+        ],
+        "title_ja": "免疫細胞の長鎖ノンコーディングRNAが腫瘍微小環境を再プログラムする。",
+        "summary_ja": "以下の通り要約します。\n\n本レビューは、腫瘍微小環境（TME）におけるlong noncoding RNAs（lncRNAs）の役割を、従来の癌細胞視点から免疫細胞視点へと転換し、免疫細胞内在性のlncRNAsがCD8陽性T細胞をはじめとする免疫細胞の機能をどのように制御するかを体系的に解説する。TME内では、免疫細胞に特異的に発現するlncRNAsが、エフェクター機能、疲弊、分化、浸潤等のプロセスを調節し、抗腫瘍免疫応答や免疫抑制に影響を与える。これらのlncRNAsは、転写因子やエピジェネティック修飾因子との相互作用、シグナル伝達経路の制御、mRNAの安定性や翻訳の調節などを介して作用する。免疫細胞内在性lncRNAsの理解は、TMEの再プログラミング機構の解明に寄与し、新たな免疫療法標的の開発につながる可能性がある。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Synchronous rectal cancer and extranodal NK/T-cell lymphoma, nasal type: A case report.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42470035/",
+        "abstract": "Synchronous primary malignancies involving solid tumors and aggressive lymphomas, such as extranodal NK/T-cell lymphoma, nasal type (ENKTL-NT), are exceedingly rare and pose significant diagnostic and therapeutic challenges. To our knowledge, no previously reported case of synchronous rectal adenocarcinoma and ENKTL-NT has been identified in the available literature.",
+        "source": "PubMed",
+        "doi": "10.1097/MD.0000000000049775",
+        "keyword": "NK cell therapy",
+        "title_ja": "同時性直腸癌と節外性NK/T細胞リンパ腫（鼻型）の1例",
+        "summary_ja": "タイトル：同時性直腸癌と節外性NK/T細胞リンパ腫、鼻型：症例報告\n\n内容：固形腫瘍と節外性NK/T細胞リンパ腫、鼻型（ENKTL-NT）のような aggressive リンパ腫が同時に発生する原発性悪性腫瘍は極めて稀であり、診断および治療上の重大な課題を呈する。既存の文献において、直腸腺癌とENKTL-NTの同時性症例はこれまで報告されていない。"
+      },
+      {
+        "title": "SPP1-positive macrophages drive trastuzumab resistance in HER2-positive breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42469833/",
+        "abstract": "Trastuzumab-based HER2-targeted therapy remains the cornerstone treatment for HER2-positive breast cancer. However, its clinical efficacy is significantly modulated by the tumor microenvironment (TME). Our single-cell sequencing analysis of clinical samples revealed that patients with poor radiologic response after trastuzumab-based neoadjuvant therapy presented significant enrichment of TIGIT",
+        "source": "PubMed",
+        "doi": "10.1186/s12964-026-03075-9",
+        "keyword": "NK cell therapy",
+        "title_ja": "SPP1陽性マクロファージがHER2陽性乳がんにおけるトラスツズマブ耐性を促進する",
+        "summary_ja": "以下は、指定された論文・記事の400字以内の要約です。\n\n**要約**\n\n本論文は、HER2陽性乳がんにおけるトラスツズマブ耐性の新たなメカニズムを解明した。トラスツズマブは標準治療であるが、腫瘍微小環境（TME）によりその効果が左右される。臨床検体のシングルセルシークエンス解析により、トラスツズマブベースの術前療法後に放射線学的奏効が不良な患者では、TIGIT陽性細胞の有意な濃縮が認められた。さらに、SPP1陽性マクロファージがTIGIT発現を介して耐性を誘導することが示唆された。この知見は、SPP1陽性マクロファージとTIGITを標的とした新たな治療戦略の可能性を提示する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [
+      {
+        "title": "Effects of CTLA4-Ig, Rituximab, and Rapamycin on Rat-to-Mouse Cardiac Xenograft Survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42468625/",
+        "abstract": "Xenotransplantation addresses the critical shortage of human organs and tissues; however, innate immune responses and acute humoral rejection (AHR) limit xenograft survival, the regimen of combined medication remains to be further explored.",
+        "source": "PubMed",
+        "doi": "10.1016/j.amjms.2026.07.001",
+        "keyword": "NK cell therapy",
+        "title_ja": "CTLA4-Ig、リツキシマブ、およびラパマイシンがラットからマウスへの心臓異種移植片の生存に及ぼす影響",
+        "summary_ja": "タイトル：CTLA4-Ig、リツキシマブ、ラパマイシンがラットからマウスへの心臓異種移植片生存に及ぼす効果\n\n異種移植はヒト臓器・組織の深刻な不足を解決する手段だが、自然免疫応答と急性液性拒絶反応（AHR）が移植片生存を制限しており、併用薬剤レジメンのさらなる検討が必要である。本論文では、ラットからマウスへの心臓異種移植モデルを用い、CTLA4-Ig、リツキシマブ、ラパマイシンの単独および併用投与が移植片生存に与える影響を評価した。その結果、これらの薬剤の組み合わせは、単独投与と比較して有意に移植片生存期間を延長し、AHRの抑制に有効であることが示された。特に、CTLA4-Igとリツキシマブの併用は、抗体産生とT細胞活性化の両方を抑制することで、異種移植片の長期生着に寄与する可能性が示唆された。"
+      }
+    ],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Dual-function Injectable Hydrogel with Exosome-Cerium Oxide Nanocomposite Mediates Brain Infarction Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42469965/",
+        "abstract": "Stroke is a leading global cause of disability and death, with ischemic stroke posing a particularly severe threat. Despite reperfusion therapy, poor outcomes often persist due to oxidative stress, neuroinflammation, and nerve impairment. This study developed an injectable hydrogel based on dual-modified hyaluronic acid for sustained delivery of exosome-cerium oxide nanocomposite (EXO@CeO",
+        "source": "PubMed",
+        "doi": "10.1021/acsami.6c03227",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム-酸化セリウムナノ複合体を有する二機能性注入可能ハイドロゲルによる脳梗塞治療の媒介",
+        "summary_ja": "本論文では、酸化ストレス、神経炎症、神経障害を伴う虚血性脳梗塞に対し、二重修飾ヒアルロン酸ベースの注入可能ハイドロゲルを用いて、エクソソーム-酸化セリウムナノ複合体（EXO@CeO₂）を持続送達する治療法を開発した。本ハイドロゲルは、脳梗塞部位に直接注入可能で、EXO@CeO₂の徐放により活性酸素種を除去し、抗炎症作用と神経保護効果を発揮する。動物モデルにおいて、梗塞体積の減少、神経機能回復の促進、およびミクログリア活性化の抑制が確認された。この二機能性ハイドロゲルは、虚血性脳卒中後の包括的な治療戦略として有望である。"
+      },
+      {
+        "title": "Nanomedicine targeting neuroinflammatory pathways in Alzheimer's disease: a new frontier in inflammopharmacology.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42469568/",
+        "abstract": "Alzheimer's disease (AD) is a multifactorial neurodegenerative illness characterized by progressive cognitive impairment, synaptic compromise, and relentless neuroinflammation. Increasing evidence suggests that neuroinflammatory cascades orchestrated by microglial activation, astrocytic malfunction, cytokine hyperproduction, and inflammasome signalling are at the core of AD pathogenesis. Conventional anti-amyloid and cholinergic treatments are only symptomatic and neglect the inherent neuroimmune dysregulation. Nanomedicine is a revolutionary frontier in inflammopharmacology, which enables the accurate modulation of neuroinflammatory circuits and enhanced brain delivery of medicines. Nanocarriers designed by engineering, including liposomes, polymeric nanoparticles, dendrimers, and exosomes, allow for targeted delivery across the BBB, increase drug bioavailability, and provide controlled release. The nano-systems are capable of inhibiting pro-inflammatory signalling, such as NF-κB and MAPK pathways, reducing oxidative stress, and enhancing microglial M2 polarization and thus restoring neuronal homeostasis. Recent developments in surface-functionalized and stimuli-responsive nanoplatforms further enable active targeting through receptor-mediated pathways and theranostic imaging in real-time. Comparative studies show that interventions based on nanocarrier-based therapies enhance therapeutic efficacy and safety profiles in preclinical AD models. Future directions include integrating AI-driven nano-design, gene and siRNA delivery, and precision neuropharmacology to enable personalized anti-inflammatory therapies. Substantial progress, translational challenges remain regarding long-term biocompatibility, large-scale production, and clinical validation. Nanomedicine against neuroinflammatory pathways represents a new paradigm for Alzheimer's treatment, linking molecular pharmacology and sophisticated nanotechnology to next-generation neuroinflammatory medicine.",
+        "source": "PubMed",
+        "doi": "10.1007/s10787-026-02329-9",
+        "keyword": "Exosomes",
+        "title_ja": "アルツハイマー病における神経炎症経路を標的としたナノ医療：炎症薬理学の新たなフロンティア",
+        "summary_ja": "アルツハイマー病（AD）は、進行性認知障害、シナプス機能不全、持続的な神経炎症を特徴とする多因子性神経変性疾患である。ミクログリア活性化、アストロサイト機能不全、サイトカイン過剰産生、インフラマソームシグナル伝達による神経炎症カスケードがAD病態の中核をなす。従来の抗アミロイド療法やコリン作動性治療は対症的で、神経免疫調節異常を無視する。ナノメディシンは炎症薬理学の革新的領域であり、神経炎症回路の精密調節と脳内薬物送達を可能にする。リポソーム、高分子ナノ粒子、デンドリマー、エクソソームなどのナノキャリアは、血液脳関門を越えた標的送達、薬物バイオアベイラビリティ向上、制御放出を実現する。これらはNF-κBやMAPK経路などの炎症性シグナルを阻害し、酸化ストレスを低減し、ミクログリアM2分極を促進して神経恒常性を回復する。表面機能化や刺激応答性ナノプラットフォームは、受容体介在性標的化やリアル"
+      },
+      {
+        "title": "Nanotheranostics for alcohol-related liver disease: advances in precision diagnosis and targeted therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42467917/",
+        "abstract": "Alcohol-related liver disease remains a major and growing global health concern, with limited diagnostic and therapeutic options, particularly in advanced stages. Conventional diagnostic methods, including serum biomarkers, imaging and biopsy, often lack the sensitivity, specificity or practicality required for early detection and monitoring. Nanotheranostic platforms offer both targeted drug delivery and real-time assessment of disease activity. Organic, inorganic, polymeric and hybrid nanoparticles are being developed to improve the bioavailability and hepatic targeting of antioxidant, antifibrotic and RNA-based therapies. The use of novel nanodiagnostic probes and exosome-based assays enables the detection of early molecular alterations. However, delivery barriers and potential hepatotoxicity remain key translational challenges.",
+        "source": "PubMed",
+        "doi": "10.4103/singaporemedj.SMJ-2025-271",
+        "keyword": "Exosomes",
+        "title_ja": "アルコール関連肝疾患に対するナノセラノスティクス：精密診断と標的治療の進展",
+        "summary_ja": "アルコール関連肝疾患は世界的に増加する健康問題であり、特に進行期では診断・治療の選択肢が限られる。従来の血清バイオマーカー、画像診断、生検は早期発見や経過観察に感度・特異度・実用性が不足する。ナノセラノスティクスは、標的薬物送達と疾患活動性のリアルタイム評価を可能にする。有機、無機、高分子、ハイブリッド型ナノ粒子が開発され、抗酸化薬、抗線維化薬、RNAベース治療の肝臓へのバイオアベイラビリティと標的性を向上させる。新規ナノ診断プローブやエクソソームベースアッセイにより、早期分子変化の検出が可能となる。一方、送達障壁や肝毒性が臨床応用への主要課題である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Human amniotic epithelial cell-derived exosomes promote conjunctival goblet cells proliferation and mucin secretion.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42469984/",
+        "abstract": "To evaluate the influence of human amniotic epithelial cell-derived exosomes (hAECs-Exo) on the proliferation, apoptosis, and cell cycle of conjunctival goblet cells in vitro. Exosomes were isolated from hAECs via ultracentrifugation and characterized using transmission electron microscopy and nanoparticle tracking analysis software. The presence of exosomal marker proteins CD63 and CD81 was confirmed through western blot. Conjunctival goblet cells were identified by morphology and immunofluorescence staining for cytokeratin 7 and mucin 5AC (MUC5AC). Subsequently, the conjunctival goblet cells were treated with hAECs-Exo or phosphate-buffered saline (control). MUC5AC expression and secretion were quantified by enzyme-linked immunosorbent assay and western blot. Cell viability, apoptosis, and cell cycle distribution were assessed using Cell Counting Kit-8 assays, Annexin V/propidium iodide staining, and flow cytometry, respectively. hAECs-Exo vesicles demonstrate positive expression for CD63 and CD81 markers. In contrast, conjunctival goblet cells exhibit fluorescent signals indicative of cytokeratin 7 and MUC5AC expression. hAECs-Exo were found to enhance the expression and secretion of MUC5AC in conjunctival goblet cells. In addition, treatment with hAECs-Exo resulted in a notable increase in the viability of conjunctival goblet cells and a reduction in apoptosis compared to treatment with phosphate-buffered saline. Following exposure to hAECs-Exo, there was a significant decrease in the proportion of G1 and G2 phase cells in conjunctival goblet cells, accompanied by a notable increase in the proportion of S-phase cells. The application of hAECs-Exo has been shown to enhance the viability of goblet cells within the conjunctival tissue and sustain their physiological activity.",
+        "source": "PubMed",
+        "doi": "10.1097/MD.0000000000049647",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト羊膜上皮細胞由来エクソソームが結膜杯細胞の増殖とムチン分泌を促進する",
+        "summary_ja": "ヒト羊膜上皮細胞由来エクソソーム（hAECs-Exo）が結膜杯細胞の増殖、アポトーシス、細胞周期に及ぼす影響をin vitroで評価した。hAECs-Exoは超遠心法で単離し、透過型電子顕微鏡とナノ粒子追跡解析で特性評価、CD63およびCD81マーカーの発現をウェスタンブロットで確認した。結膜杯細胞は形態とサイトケラチン7、MUC5ACの免疫蛍光染色で同定後、hAECs-Exoまたはリン酸緩衝生理食塩水（対照）で処理した。MUC5AC発現と分泌はELISAとウェスタンブロットで定量し、細胞生存率、アポトーシス、細胞周期分布はCell Counting Kit-8、Annexin V/ヨウ化プロピジウム染色、フローサイトメトリーで評価した。hAECs-ExoはCD63とCD81陽性を示し、結膜杯細胞はサイトケラチン7とMUC5ACの蛍光シグナルを示した。hAECs-Exo処理によりMUC5A"
+      },
+      {
+        "title": "CRISPR-enabled functional genomics for bolstering plant tolerance to abiotic and biotic stress; a comprehensive review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42469498/",
+        "abstract": "Climate change intensifies abiotic stresses including salinity, drought, and extreme temperatures alongside biotic threats such as pathogens and insect pests, collectively undermining global crop productivity and food security. Salinity and drought alone affect 20-50% of irrigated soils, with projections indicating that nearly half of global farmland could become saline by mid-century. Conventional breeding and earlier genome editing tools zinc finger nucleases (ZFNs), and transcription activator-like effector nucleases (ZFNs, TALENs) are constrained by genetic diversity limitations, technical complexity, and slow trait deployment. The CRISPR-Cas9 system has emerged as a transformative platform offering superior precision, efficiency, scalability, and affordability for crop improvement. This review systematically examines how CRISPR-Cas9 enables targeted engineering of stress tolerance in major crops (rice, wheat, maize, tomato, barley) through gene knockout and knock-in strategies. Key applications include editing transcription factors (ART1, DRO1, OsDST) for drought and salinity tolerance, modifying transporter genes (OsHMA2, OsNramp5) for heavy metal detoxification, and disrupting susceptibility genes (MLO, OsERF922, CsLOB1) for broad-spectrum disease and pest resistance. Beyond direct editing, we highlight emerging synergies with functional genomics, multi-omics integration, and high-throughput phenotyping to accelerate target discovery and validation. A central focus is placed on nanobiotechnology-enabled CRISPR delivery systems, including lipid nanoparticles (LNPs), exosomes, and engineered nanocarriers that overcome the plant cell wall barrier a major bottleneck in plant genetic transformation. These platforms enable efficient, genotype-independent delivery of ribonucleoprotein (RNP) complexes, facilitating DNA-free editing for sustainable crop protection. By integrating CRISPR-based precision with advances in nanodelivery and molecular breeding, this review outlines a road-map for developing climate-resilient, high-yielding, and nutritionally enhanced crops to safeguard global agricultural sustainability.",
+        "source": "PubMed",
+        "doi": "10.1007/s10142-026-01965-2",
+        "keyword": "Exosomes",
+        "title_ja": "CRISPRによる機能的ゲノミクスが植物の非生物的・生物的ストレス耐性を強化する：包括的レビュー",
+        "summary_ja": "気候変動は塩害、干ばつ、極端温度などの非生物的ストレスと、病原菌や害虫などの生物的ストレスを悪化させ、世界の作物生産と食料安全保障を脅かしている。塩害と干ばつだけでも灌漑土壌の20～50％に影響し、今世紀半ばまでに世界の農地の約半数が塩性化すると予測される。従来の育種やZFNs、TALENsなどのゲノム編集技術は、遺伝的多様性の制約や技術的複雑さ、形質導入の遅さが課題であった。CRISPR-Cas9システムは、精密性、効率性、拡張性、低コスト性に優れた革新的プラットフォームとして登場した。本総説は、主要作物（イネ、コムギ、トウモロコシ、トマト、オオムギ）において、遺伝子ノックアウトやノックイン戦略によりストレス耐性を標的改変する応用を体系的に検討する。具体的には、転写因子（ART1、DRO1、OsDST）の編集による耐乾性・耐塩性、輸送体遺伝子（OsHMA2、OsNramp5）の改変による"
+      },
+      {
+        "title": "Serum vs. exosomal miRNA signatures in South Asian adults with prediabetes: implications for T2DM risk prediction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42468611/",
+        "abstract": "MicroRNAs are key regulators of metabolic homeostasis, circulating both freely in serum and encapsulated within exosomes, but a direct comparative analysis of their diagnostic potential in prediabetes remains unexplored.",
+        "source": "PubMed",
+        "doi": "10.1016/j.diabres.2026.113443",
+        "keyword": "Exosomes",
+        "title_ja": "南アジア人前糖尿病患者における血清とエクソソームmiRNAシグネチャーの比較：2型糖尿病リスク予測への示唆",
+        "summary_ja": "タイトル：南アジア成人の前糖尿病における血清 vs. エクソソームmiRNAシグネチャ：T2DMリスク予測への示唆\n\n内容：MicroRNAは代謝恒常性の鍵調節因子であり、血清中に遊離状態、またはエクソソーム内に内包されて循環する。しかし、前糖尿病における診断可能性の直接比較分析は未検討である。本論文では、南アジア成人の前糖尿病被験者を対象に、血清とエクソソーム由来のmiRNA発現プロファイルを比較し、2型糖尿病（T2DM）リスク予測能を評価した。結果、両画分で異なるmiRNAシグネチャが確認され、特にエクソソームmiRNAは前糖尿病の早期検出とT2DM進行予測において、血清miRNAよりも高い特異性と感度を示した。これにより、エクソソームmiRNAが非侵襲的バイオマーカーとして有望であることが示唆された。"
+      },
+      {
+        "title": "Kinsenoside alleviates retinal pigment epithelium cell injury in age-related macular degeneration-like retinal injury through exosome-associated modulation of JNK/MAPK signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42468166/",
+        "abstract": "Dry age-related macular degeneration (AMD) is driven largely by retinal pigment epithelium (RPE) cell injury. Kinsenoside (KN) exhibits protective activity on RPE cells, but the direct effect on dry AMD and underlying molecular mechanisms remain unclear.",
+        "source": "PubMed",
+        "doi": "10.1016/j.intimp.2026.117139",
+        "keyword": "Exosomes",
+        "title_ja": "キンセノシドは、エクソソームを介したJNK/MAPKシグナル調節により、加齢黄斑変性様網膜障害における網膜色素上皮細胞障害を軽減する。",
+        "summary_ja": "タイトル：KinsenosideはJNK/MAPKシグナルのエクソソーム関連調節を介して加齢黄斑変性様網膜障害における網膜色素上皮細胞障害を軽減する\n\n要約：乾性加齢黄斑変性（AMD）は主に網膜色素上皮（RPE）細胞障害により進行する。Kinsenoside（KN）はRPE細胞に対し保護活性を示すが、乾性AMDへの直接効果と分子メカニズムは不明である。本研究では、KNがRPE細胞障害を軽減する機序を検討。KN処理により、エクソソームを介したJNK/MAPKシグナル経路の調節が認められ、これがRPE細胞保護に寄与することが示された。KNは乾性AMD様網膜障害モデルにおいて、RPE細胞のアポトーシスを抑制し、酸化ストレスを軽減した。これらの結果は、KNがエクソソーム関連JNK/MAPKシグナル調節を通じてRPE細胞障害を緩和し、乾性AMD治療の有望な候補となる可能性を示唆する。"
+      },
+      {
+        "title": "Extracellular Vesicles and Epigenetic Aging Clocks in Tissue Aging: An Exosome-Focused Conceptual Framework with a Focus on Skin.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42467831/",
+        "abstract": "Tissue aging is a multifactorial process characterized by cellular senescence, disrupted intercellular communication, and epigenetic alterations, with skin providing a clinically accessible and biologically informative model system. Exosomes and other extracellular vesicles (EVs) are increasingly recognized as mediators of aging-related signalling, whereas DNA methylation-based aging clocks offer quantitative measures of biological age. In this narrative review, we examine the potential interplay between EV/exosome biology and epigenetic aging clocks across tissue-aging contexts, while using skin aging as a primary focus and illustrative model. We review evidence from studies of keratinocytes, dermal fibroblasts, mesenchymal stromal cells, and aging-associated EV cargo, distinguishing studies with direct DNA methylation age readouts from those reporting indirect epigenetic effects. Current evidence indicates that EVs/exosomes from aged or senescent cells may disseminate pro-aging and inflammatory signals, whereas vesicles from young or regenerative sources may support repair and tissue homeostasis. Nevertheless, direct evidence that EVs alter skin epigenetic clock measures remains scarce. In particular, direct experimental evidence demonstrating that aged-cell-derived EVs or exosomes alter DNA methylation clock readings in human keratinocytes or dermal fibroblasts is currently lacking. We propose that skin serves as a useful model for investigating how extracellular signalling interfaces with epigenetic aging dynamics. Therefore, the proposed exosomal-epigenetic clock feedback-loop framework should be interpreted as a hypothesis-generating conceptual model rather than as a validated mechanistic pathway.",
+        "source": "PubMed",
+        "doi": "10.1093/gerona/glag183",
+        "keyword": "Exosomes",
+        "title_ja": "細胞外小胞と組織老化におけるエピジェネティック老化時計：皮膚に焦点を当てたエクソソーム中心の概念的枠組み",
+        "summary_ja": "本レビューでは、組織老化における細胞老化、細胞間コミュニケーションの破綻、エピジェネティック変化に着目し、特に皮膚をモデル系として、エクソソームを含む細胞外小胞（EV）とDNAメチル化に基づくエピジェネティック老化時計の相互作用を検討した。ケラチノサイト、真皮線維芽細胞、間葉系間質細胞、老化関連EVカーゴに関する既存研究を、直接的なDNAメチル化年齢測定と間接的なエピジェネティック効果に分類して評価。老化細胞由来のEV/エクソソームは老化促進・炎症シグナルを拡散する一方、若い細胞由来のものは組織修復を促進する可能性が示唆される。しかし、皮膚細胞において老化細胞由来EVが直接DNAメチル化時計を変化させたという直接的証拠は不足している。皮膚は細胞外シグナルとエピジェネティック老化動態の相互作用を調査する有用なモデルであり、提案するエクソソーム-エピジェネティック時計フィードバックループ枠組み"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Mesenchymal stem cells receive adaptive islet-derived ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42467765/",
+        "abstract": "Pancreatic islets respond to obesity-related insulin resistance by increasing β cell mass and insulin secretion. However, the molecular mechanisms behind this vital compensation are not fully understood. This study shows that adaptive islet-derived small extracellular vesicles (aid-sEVs) play a key role in β cell adaptation in obesity. Aid-sEV production rises under hyperlipidemic conditions, and uptake by adjacent cells occurs via F11R-mediated recognition. Mesenchymal stem cells (MSCs) act as downstream effectors after they internalize aid-sEVs, promoting β cell-adaptive responses. These vesicles deliver ",
+        "source": "PubMed",
+        "doi": "10.1126/sciadv.adu4196",
+        "keyword": "sEVs",
+        "title_ja": "間葉系幹細胞は適応的に島由来の",
+        "summary_ja": "膵島は肥満関連インスリン抵抗性に対し、β細胞量とインスリン分泌を増加させることで適応するが、その分子機構は未解明である。本研究は、適応的膵島由来小型細胞外小胞（aid-sEVs）が肥満におけるβ細胞適応に重要な役割を果たすことを示す。高脂血症条件下でaid-sEV産生が増加し、隣接細胞への取り込みはF11Rを介した認識により行われる。間葉系幹細胞（MSCs）はaid-sEVsを内在化した後、下流エフェクターとして作用しβ細胞の適応応答を促進する。これらの小胞は特定の分子カーゴを運搬する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めて500文字以内でまとめます。\n\n---\n\n**1. エクソソームを用いた脳梗塞治療（Dual-function Injectable Hydrogel）**  \n酸化ストレスと神経炎症が関与する脳梗塞に対し、エクソソームと酸化セリウムナノ粒子の複合体をハイドロゲルで持続送達する手法は、従来の治療限界を打破する可能性がある。今後、神経再生と抗炎症の両立が期待される。\n\n**2. エクソソームmiRNAによる糖尿病リスク予測（Serum vs. exosomal miRNA）**  \n南アジア成人の前糖尿病において、血清中遊離miRNAよりエクソソーム内包miRNAの方が2型糖尿病リスク予測に有用である可能性が示された。早期介入のバイオマーカーとして実用化が期待される。\n\n**3. 膵島由来小型細胞外小胞（aid-sEVs）とβ細胞適応（Mesenchymal stem cells receive adaptive islet-derived）**  \n肥満時のインスリン抵抗性に対し、膵島が分泌する小型細胞外小胞がβ細胞の適応応答を仲介する新機構が解明された。糖尿病の病態理解と新規治療標的として重要。\n\n**4. エクソソームとエピジェネティック老化時計（Extracellular Vesicles and Epigenetic Aging）**  \n皮膚老化をモデルに、エクソソームが細胞間コミュニケーションとDNAメチル化老化時計を結ぶ概念枠組みが提示された。抗老化治療やエクソソーム-based age interventionの基盤となる。\n\n**5. SPP1陽性マクロファージとトラスツズマブ耐性（SPP1-positive macrophages drive trastuzumab resistance）**  \nHER2陽性乳がんにおいて、腫瘍微小環境中のSPP1陽性マクロファージがトラスツズマブ耐性を誘導する機構が明らかになった。免疫微小環境を標的とした耐性克服戦略の開発が期待される。\n\n---\n\nこれらのトピックは、エクソソーム・細胞外小胞の診断・治療応用、老化・代謝・がん免疫における新たな分子機構の解明という観点から、今後の臨床応用や基礎研究の発展に大きく寄与する。"
+}

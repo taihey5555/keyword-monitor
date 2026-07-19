@@ -1,0 +1,134 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Immunogenic Risk Assessment of Porcine, Bovine, and Ovine Heparins for Diversifying the Global Heparin Supply.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42471057/",
+        "abstract": "The global heparin supply relies heavily on porcine mucosa, prompting renewed interest in ruminant-derived alternatives. However, concerns regarding heparin-induced thrombocytopenia (HIT) remain a major barrier to their clinical reintroduction.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jtha.2026.07.009",
+        "keyword": "PF4",
+        "title_ja": "ブタ、ウシ、ヒツジ由来ヘパリンの免疫原性リスク評価：グローバルなヘパリン供給の多様化に向けて",
+        "summary_ja": "タイトル：世界のヘパリン供給多様化に向けた、ブタ、ウシ、ヒツジ由来ヘパリンの免疫原性リスク評価\n\n現在、世界のヘパリン供給はブタ粘膜に大きく依存しており、反芻動物由来の代替品への関心が再燃している。しかし、ヘパリン起因性血小板減少症（HIT）に関する懸念が、臨床再導入の主要な障壁となっている。本論文では、ブタ、ウシ、ヒツジ由来ヘパリンの免疫原性リスクを比較評価し、HIT発症に関与する抗体産生能や血小板活性化能を検討した。その結果、各由来間で免疫原性プロファイルに差異が認められ、供給源多様化の可能性が示唆されたが、安全性確保にはさらなる検証が必要である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "SFRP2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42472387/",
+        "abstract": "Metabolic reprogramming is a hallmark of cancer, enabling tumor cells to meet the demands of rapid growth and survival. Within tumor microenvironment (TME), cancer-associated fibroblasts (CAFs) influence tumor metabolism through metabolic crosstalk. However, role of CAF-derived factors in regulating glutamine metabolism in laryngeal squamous cell carcinoma (LSCC) remains unclear. Primary fibroblasts were isolated from LSCC tumors and adjacent tissues and classified as CAFs or normal fibroblasts (NFs). These were co‑cultured with LSCC cell lines to assess effects on proliferation, migration, invasion, stemness, and chemoresistance using assays such as CCK‑8, EdU, sphere formation, Transwell migration/invasion, and real‑time RTCA assays. Exosomes were harvested from fibroblast-conditioned media, characterized by TEM, NTA, and Western blotting, and used to treat LSCC cells. Metabolic profiling included Seahorse measurements, TCA metabolites, ATP content, glutamine uptake ([",
+        "source": "PubMed",
+        "doi": "10.1002/mc.70138",
+        "keyword": "Exosomes",
+        "title_ja": "SFRP2",
+        "summary_ja": "以下の通り、論文・記事「SFRP2」を400字以内で要約します。\n\n代謝リプログラミングは癌の特徴であり、腫瘍微小環境（TME）内の癌関連線維芽細胞（CAFs）は代謝クロストークを通じて腫瘍代謝に影響を与えるが、喉頭扁平上皮癌（LSCC）におけるグルタミン代謝調節へのCAF由来因子の関与は不明である。LSCC腫瘍および隣接組織から初代線維芽細胞を分離し、CAFsまたは正常線維芽細胞（NFs）に分類。これらをLSCC細胞株と共培養し、CCK-8、EdU、スフェア形成、Transwell遊走/浸潤、リアルタイムRTCAアッセイで増殖、遊走、浸潤、幹細胞性、化学療法耐性を評価。線維芽細胞馴化培地からエクソソームを採取し、TEM、NTA、ウェスタンブロッティングで特性評価後、LSCC細胞に処理。代謝プロファイリングにはSeahorse測定、TCA代謝物、ATP含量、グルタミン取り込みを含む。"
+      },
+      {
+        "title": "The role of serologic biomarkers \"liquid biopsy\" in the fight against breast cancer: From biological foundations to clinical impact.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42472109/",
+        "abstract": "Liquid biopsy, analyzing circulating tumor-derived components, including ctDNA, circulating tumor cells, microRNAs, and exosomes, has emerged as a key tool in precision oncology. This review synthesizes evidence from the past five years, covering biological mechanisms, analytical platforms, clinical applications, and implementation barriers. Evidence from multiple clinical studies suggests ctDNA shows higher sensitivity for metastatic disease monitoring than conventional biomarkers such as CA15-3 and circulating tumor cells. For minimal residual disease detection, tumor-informed assays demonstrate sensitivity of 88%-100% and provide a median lead time of 8-15 months before clinical relapse. Despite these advances, early-stage cancer detection remains suboptimal, cost-effectiveness evidence is limited, and disparities in access are increasing. We critically evaluate current technologies and translational gaps and highlight the need for standardized clinical integration pathways. Overall, liquid biopsy is transitioning from a complementary diagnostic tool toward a longitudinal framework for cancer management, although substantial methodological and systemic challenges remain.",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.116670",
+        "keyword": "Exosomes",
+        "title_ja": "血清バイオマーカー「リキッドバイオプシー」の乳癌対策における役割：生物学的基盤から臨床的影響まで",
+        "summary_ja": "本レビューは、乳がんにおけるリキッドバイオプシー（ctDNA、循環腫瘍細胞、マイクロRNA、エクソソーム解析）の役割を、過去5年間のエビデンスに基づき生物学的基盤から臨床応用まで包括的に評価した。ctDNAは転移性疾患モニタリングにおいて従来のバイオマーカー（CA15-3等）より高感度であり、微小残存病変検出では腫瘍情報に基づくアッセイが感度88-100%、臨床再発まで中央値8-15ヶ月の先行期間を示す。一方、早期がん検出の精度は不十分で、費用対効果のエビデンスは限定的、アクセス格差も拡大している。技術的・システム的課題は残るものの、リキッドバイオプシーは補完的診断から長期的ながん管理フレームワークへ移行しつつある。標準化された臨床統合経路の確立が急務である。"
+      },
+      {
+        "title": "Hypoxia-induced mechanism of TNBC promoting tumour cell proliferation through exosomal miRNA.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42471478/",
+        "abstract": "Triple-negative breast cancer (TNBC), characterized by the absence of ER, PR, and HER2 expression, is associated with aggressive clinical behavior and limited treatment options. Hypoxia in the tumor microenvironment (TME) may influence intercellular communication through exosomes. In this study, we investigated whether hypoxia-derived exosomes regulate malignant phenotypes of TNBC cells through exosomal miRNAs. Exosomes derived from hypoxic TNBC cells increased proliferation, migration, and invasion of recipient TNBC cells compared with normoxia-derived exosomes. Small RNA sequencing and RT-qPCR validation showed enrichment of miR-4791 in hypoxia-derived exosomes. Functional assays indicated that miR-4791 overexpression promoted TNBC cell proliferation, whereas miR-4791 inhibition reduced proliferative capacity. Mechanistically, miR-4791 directly targeted the 3'UTR of CTCFL and was associated with reduced PTEN expression. Rescue experiments suggested that restoration of CTCFL or PTEN partially attenuated miR-4791-associated malignant phenotypes in vitro and in vivo. Analysis of GSE19536 showed higher miR-4791 expression in breast cancer tissues than in normal tissues; however, the number of normal samples was limited. Survival analysis using GSE19783 indicated that higher miR-4791 expression was associated with poorer survival, although the prognostic ROC performance was weak-to-modest. Overall, these findings suggest that hypoxia-derived exosomal miR-4791 may contribute to TNBC progression, at least in part, through a CTCFL/PTEN-related mechanism.",
+        "source": "PubMed",
+        "doi": "10.1007/s00335-026-10260-1",
+        "keyword": "Exosomes",
+        "title_ja": "低酸素誘導性のエクソソームmiRNAを介したTNBCの腫瘍細胞増殖促進メカニズム",
+        "summary_ja": "トリプルネガティブ乳癌（TNBC）はER、PR、HER2非発現を特徴とし、治療選択肢が限られる。腫瘍微小環境（TME）の低酸素状態はエクソソームを介した細胞間通信に影響する。本研究では、低酸素由来エクソソームがmiRNAを介してTNBC細胞の悪性表現型を調節するかを検討した。低酸素由来エクソソームは、正常酸素由来と比較して、レシピエントTNBC細胞の増殖、遊走、浸潤を促進した。小RNAシーケンスとRT-qPCRにより、低酸素由来エクソソーム中でmiR-4791の濃縮が確認された。機能解析では、miR-4791過剰発現が増殖を促進し、抑制は増殖能を低下させた。機構的には、miR-4791はCTCFLの3'UTRを直接標的とし、PTEN発現低下と関連した。レスキュー実験により、CTCFLまたはPTENの回復はmiR-4791関連の悪性表現型を部分的に減弱させた。GSE19536解析では、乳癌組"
+      },
+      {
+        "title": "Mechanistic Analysis and Clinical Translation Strategies of m",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42471058/",
+        "abstract": "Hepatocellular carcinoma (HCC) is a malignant tumor with high heterogeneity and immunotherapeutic resistance worldwide, presenting a severe challenge in clinical prevention and treatment. N6-methyladenosine (m",
+        "source": "PubMed",
+        "doi": "10.1016/j.critrevonc.2026.105496",
+        "keyword": "Exosomes",
+        "title_ja": "mRNAのメカニズム解析と臨床応用への展開戦略",
+        "summary_ja": "肝細胞癌（HCC）は世界的に高い異質性と免疫療法抵抗性を示す悪性腫瘍であり、臨床予防・治療において深刻な課題となっている。本論文では、N6-メチルアデノシン（m⁶A）修飾に着目し、そのメカニズム解析と臨床応用への翻訳戦略を検討。m⁶AはRNAの安定性、スプライシング、翻訳効率を調節し、HCCの発生・進行・免疫逃避に関与する。特に、m⁶A関連タンパク質（メチルトランスフェラーゼ、脱メチル化酵素、結合タンパク質）の異常発現が腫瘍微小環境や免疫チェックポイント分子の発現に影響を与え、免疫療法抵抗性を促進する。本稿はこれらの知見を統合し、m⁶A修飾を標的とした新規治療戦略やバイオマーカー開発の可能性を提示。臨床応用に向けた課題として、個別化医療への統合、薬剤耐性克服、安全性評価の必要性を指摘する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Injectable microsphere-based delivery strategies for stem cells and their derivatives in tissue regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42472088/",
+        "abstract": "Tissue and organ injury, degeneration, and functional loss represent a growing global health challenge, exacerbated by an aging population and the limitations of current clinical interventions. Regenerative medicine offers a promising alternative by restoring tissue function through the delivery of stem cells and their bioactive derivatives, particularly exosomes. However, direct administration of these therapeutic agents faces significant hurdles, including low retention, rapid clearance, and poor spatiotemporal control. Injectable microsphere-based delivery systems have emerged as a versatile and minimally invasive platform to overcome these limitations. This review systematically outlines the latest advances in microsphere-mediated strategies for delivering stem cells and their derivatives across multiple tissue types, including bone, cartilage, neural, skin, dental pulp, cardiac and lung. We critically evaluate the design principles of natural and synthetic polymers, fabrication techniques such as microfluidics and electrospray, and the biological functions of microspheres in providing three-dimensional (3D) scaffolds, immune protection, and sustained release. Furthermore, we highlight emerging frontiers, including the delivery of novel regenerative cues such as apoptotic bodies and the integration of microsphere-based organoid models. This comprehensive analysis aims to accelerate the clinical translation of next-generation microsphere-enabled regenerative therapies.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.07.005",
+        "keyword": "Exosomes",
+        "title_ja": "注射用マイクロスフェアを用いた組織再生における幹細胞およびその派生細胞の送達戦略",
+        "summary_ja": "本論文は、組織・臓器の損傷や機能喪失に対する再生医療の課題を解決するため、注射可能なマイクロスフェアを用いた幹細胞およびその派生体（特にエクソソーム）の送達戦略を概説する。直接投与では低滞留性や急速なクリアランスが問題となるが、マイクロスフェアは低侵襲で三次元足場、免疫保護、持続放出を提供する。骨、軟骨、神経、皮膚、歯髄、心臓、肺など多様な組織への応用を検討し、天然・合成ポリマーの設計原理、マイクロ流体やエレクトロスプレーによる作製技術を評価。さらに、アポトーシス小体の送達やオルガノイドモデルとの統合といった新たなフロンティアを提示し、次世代再生治療の臨床応用促進を目指す。"
+      },
+      {
+        "title": "Dual-regulation of mitophagy and cytosolic mtDNA-induced inflammation for the treatment of inflammatory bone loss.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42471165/",
+        "abstract": "Inflammatory osteoporosis, also known as \"immunoporosis,\" is a condition characterized by chronic inflammation and mitochondrial dysfunction, leading to impaired bone regeneration. Mitochondrial DNA (mtDNA) leakage activates the cGAS-STING pathway, triggering excessive inflammatory responses and hindering osteogenesis. Concurrently, defective mitophagy exacerbates mitochondrial damage, perpetuating a cycle of bone loss. This study investigated the role of the mtDNA-cGAS-STING axis in lipopolysaccharide (LPS)-induced bone marrow mesenchymal stem cells (BMSCs) dysfunction and inflammatory bone loss. We exposed BMSCs to LPS and assessed mitochondrial function, mtDNA release, and cGAS-STING activation using RT-qPCR, Western blotting, and immunofluorescence. We then engineered exosomes to co-deliver siRNA targeting STING and PINK1 mRNA, testing their effects on osteogenesis and mitochondrial homeostasis in vitro and in a mouse model of LPS-induced osteoporosis. LPS exposure resulted in mitochondrial damage, mtDNA leakage, and cGAS-STING activation, impairing osteogenic differentiation and increasing inflammatory cytokine expression. While STING inhibition reduced inflammatory signaling, it did not restore mitochondrial function, whereas PINK1 overexpression improved mitophagy and partially suppressed cGAS-STING activation. Dual regulation through siSTING/PINK1@Exo synergistically reduced mitochondrial ROS, restored membrane potential, promoted osteogenic marker expression, and enhanced mineralization in vitro. Dual-regulated exosomes significantly improved trabecular bone microarchitecture, reduced STING expression, and enhanced RUNX2 and OCN expression compared to single treatments through in vivo model. These results demonstrate that combining mitophagy activation with STING inhibition via engineered exosomes offers a promising therapeutic strategy for inflammatory osteoporosis by addressing both mitochondrial dysfunction and chronic inflammation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.freeradbiomed.2026.07.031",
+        "keyword": "Exosomes",
+        "title_ja": "マイトファジーと細胞質mtDNA誘発炎症の二重制御による炎症性骨喪失の治療",
+        "summary_ja": "本論文は、炎症性骨減少症（免疫骨粗鬆症）におけるミトコンドリア機能不全と慢性炎症の相互作用を解明し、新たな治療戦略を提案する。LPS誘導骨髄間葉系幹細胞（BMSCs）では、ミトコンドリアDNA（mtDNA）漏出がcGAS-STING経路を活性化し、炎症促進と骨形成阻害を引き起こす。同時に、マイトファジー不全がミトコンドリア障害を悪化させる。研究では、STINGとPINK1を標的としたsiRNAを搭載したエクソソーム（siSTING/PINK1@Exo）を作製し、in vitroおよびLPS誘導骨粗鬆症マウスモデルで評価した。単独のSTING阻害は炎症を抑制するがミトコンドリア機能を回復せず、PINK1過剰発現はマイトファジーを改善し部分的にcGAS-STINGを抑制した。二重制御エクソソームは、ミトコンドリアROS低減、膜電位回復、骨形成マーカー発現促進、石灰化亢進をin vitroで示し"
+      },
+      {
+        "title": "Steroidogenic Enzyme Dysregulation in Polycystic Ovary Syndrome: Mechanistic Insights and Emerging Therapeutic Strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42471064/",
+        "abstract": "Polycystic ovary syndrome (PCOS) is the most prevalent endocrine-metabolic disorder in women of reproductive age, and is characterized by hyperandrogenism, anovulation, and polycystic ovarian morphology. Emerging molecular evidence has identified dysregulated ovarian steroidogenesis as a major contributing mechanism linking reproductive and metabolic phenotypes in PCOS, acting in concert with neuroendocrine and metabolic dysfunction. This review synthesizes current knowledge on enzymatic and regulatory perturbations driving androgen excess and estrogen deficiency in PCOS, emphasizing their mechanistic, diagnostic, and therapeutic implications. Dysregulated steroidogenic enzymes and associated signaling pathways contribute to androgen excess, impaired folliculogenesis, and metabolic dysfunction in PCOS. Importantly, these steroidogenic alterations are not uniform across all patients with PCOS but vary according to hyperandrogenic, anovulatory, ovulatory, lean, obese, reproductive, and metabolic phenotypes. Particular focus is placed on how these molecular derangements disrupt theca-granulosa cell communication, impair folliculogenesis, and promote hyperandrogenism, oxidative stress, and insulin resistance in the ovaries. This review also discusses therapeutic strategies according to evidence level, distinguishing established PCOS treatments such as lifestyle intervention, insulin sensitizers, ovulation-induction agents, hormonal regulators, and anti-androgens from investigational enzyme-specific inhibitors and speculative precision approaches such as gene editing and exosome-based delivery systems. Collectively, these insights underscore that the pathophysiology of PCOS extends beyond endocrine imbalance to encompass multi-omic alterations in metabolism and signaling. Understanding enzyme-level dysregulation offers opportunities for mechanism-based interventions that can restore steroidogenic homeostasis, improve fertility outcomes, and mitigate long-term metabolic risk. Future research should prioritize enzyme-signal interdependencies and develop personalized therapeutic strategies targeting the biochemical dysfunctions of PCOS.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jsbmb.2026.107088",
+        "keyword": "Exosomes",
+        "title_ja": "多嚢胞性卵巣症候群におけるステロイド産生酵素の調節異常：メカニズムの解明と新たな治療戦略",
+        "summary_ja": "本レビューは、PCOSにおけるステロイド合成酵素の調節異常に焦点を当て、アンドロゲン過剰とエストロゲン欠乏の分子メカニズム、診断・治療への影響を総括する。PCOSは生殖年齢女性に最も多い内分泌代謝疾患で、高アンドロゲン血症、無排卵、多嚢胞性卵巣を特徴とする。卵巣内のステロイド合成酵素と関連シグナル経路の異常は、卵胞膜-顆粒膜細胞間の連携を破綻させ、卵胞発育障害、酸化ストレス、インスリン抵抗性を促進する。これらの分子異常は患者の表現型（高アンドロゲン型、無排卵型、肥満型など）により異なる。治療戦略としては、生活習慣介入、インスリン増感薬、排卵誘発剤、ホルモン調節薬、抗アンドロゲン薬が確立されている一方、酵素特異的阻害薬や遺伝子編集、エクソソーム送達系などの研究的アプローチも議論される。PCOSの病態は内分泌異常を超え、代謝・シグナル伝達のマルチオミクス変化を含む。酵素レベルの理解に基づく個別"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **ヘパリン供給源の多様化と免疫原性リスク評価**：現在、世界のヘパリンはブタ粘膜に依存しており、供給リスクが懸念されています。ウシやヒツジ由来の代替品開発が進む一方、ヘパリン起因性血小板減少症（HIT）のリスク評価が不可欠です。今後の安定供給と安全性確保に貢献する重要な研究です。\n\n2. **トリプルネガティブ乳癌（TNBC）と低酸素由来エクソソーム**：TNBCは治療選択肢が限られる難治性癌です。低酸素環境下で放出されるエクソソームがmiRNAを介して腫瘍増殖を促進するメカニズムが解明されつつあり、新たな治療標的として期待されます。\n\n3. **注射可能マイクロスフェアによる幹細胞・エクソソーム送達**：再生医療では、幹細胞やエクソソームの生体内滞留性が課題です。マイクロスフェアを用いた送達戦略は、組織修復効率を向上させる可能性があり、臨床応用への橋渡しとして注目されます。\n\n4. **ミトコンドリアDNA漏出と炎症性骨減少症**：ミトコンドリア機能不全がcGAS-STING経路を介して炎症を誘導し、骨減少を引き起こすメカニズムが明らかになりました。ミトコンドリア品質管理を標的とした新規治療戦略の開発が期待されます。\n\n5. **PCOSにおけるステロイド合成酵素調節異常**：PCOSは生殖年齢女性に多い内分泌疾患で、アンドロゲン過剰が病態の中核です。ステロイド合成酵素の分子メカニズム解明は、新たな診断バイオマーカーや治療標的の開発につながる可能性があります。"
+}

@@ -1,0 +1,166 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Klotho revisited: tubular heterogeneity reshapes mineral metabolism, aging, and CKD.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42474531/",
+        "abstract": "α-Klotho (hereafter Klotho) was discovered as an aging-suppressor protein whose function is intrinsically dependent on the kidney. Its shed ectodomain, soluble Klotho (sKlotho), is detectable in blood and urine. As an obligate co-receptor for endocrine fibroblast growth factor 23, Klotho operates at the intersection of mineral metabolism and chronic kidney disease (CKD). Within the kidney, Klotho expression is moderate in the proximal tubule but strongly enriched in the distal nephron, although the functional significance of this heterogeneity remains unclear. Recent findings from nephron segment-specific Klotho knockout mice reveal functional specialization of tubular Klotho along the nephron. According to the revised model, distal nephron Klotho regulates calcium reabsorption, bone remodeling, and urinary sKlotho levels. By contrast, proximal tubular Klotho regulates phosphate and vitamin D metabolism and is likely the principal source of circulating sKlotho; its loss recapitulates hyperphosphatemia, FGF23 resistance, and ageing-like phenotypes. This review re-evaluates the long-standing paradigm of renal Klotho biology in light of emerging evidence for functionally distinct proximal and distal nephron Klotho. Together, these insights place the kidney and its tubular Klotho heterogeneity at the center of mineral metabolism, aging and CKD.",
+        "source": "PubMed",
+        "doi": "10.1007/s00424-026-03197-6",
+        "keyword": "Klotho",
+        "title_ja": "クロトー再考：尿細管の不均一性がミネラル代謝、老化、CKDを再形成する",
+        "summary_ja": "α-Klotho（以下Klotho）は、腎臓に依存する老化抑制タンパク質として発見され、その切断型細胞外ドメインである可溶性Klotho（sKlotho）は血液や尿中に検出される。内分泌因子FGF23の必須共受容体として、Klothoはミネラル代謝と慢性腎臓病（CKD）の接点で機能する。腎臓内では、Klothoは近位尿細管で中程度、遠位ネフロンで高発現するが、その機能的意義は不明だった。近年のネフロン分節特異的Klothoノックアウトマウスの研究により、尿細管Klothoの機能的特殊化が明らかになった。新モデルでは、遠位ネフロンKlothoはカルシウム再吸収、骨リモデリング、尿中sKlotho量を調節する。一方、近位尿細管KlothoはリンとビタミンD代謝を制御し、循環sKlothoの主要源であり、その欠損は高リン血症、FGF23抵抗性、老化様表現型を再現する。本総説は、機能的に異なる近位"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Upfront Autologous Stem Cell Transplantation in First Complete Remission for Advanced-Stage Extra-Nodal NK/T-Cell Lymphoma: A Multicenter Retrospective Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42475115/",
+        "abstract": "The aim of this study was to evaluate the effect of upfront autologous stem cell transplantation (ASCT) on the prognosis in patients with advanced-stage extra-nodal NK/T-cell lymphoma (NKTCL) achieving first complete remission (CR1) after frontline therapy. To this end, we retrospectively reviewed data from patients diagnosed with stage III or IV NKTCL who achieved CR1 after frontline treatment between 2006 and 2023 at 14 medical centers in China. A total of 107 patients were included in this study. The majority of patients (87%) received non-anthracycline-based first-line chemotherapy, and 38 (36%) received upfront ASCT consolidation at the time of CR1. With a median follow-up time of 39.8 months, progression-free survival (PFS) and overall survival (OS) rates were significantly better in the ASCT group than in the non-ASCT group (3-year PFS: 78.2% vs. 54.6%, p = 0.005; 3-year OS: 86.0% vs. 68.9%, p = 0.04). However, in the subgroup of patients receiving non-anthracycline-based chemotherapy (N = 93), ASCT was significantly associated with better PFS (3-year PFS: 77.6% vs. 59.3%, p = 0.025) but not with OS (3-year OS: 85.6% vs. 74.8%, p = 0.164). In multivariate analyzes, upfront ASCT was an independent predictor of better PFS (hazard ratio [HR] = 0.37, 95% confidence interval [CI]: 0.15-0.88, p = 0.025) but not OS after adjusting for baseline prognostic index of NK-cell lymphoma (PINK), types of first-line chemotherapy, and local radiotherapy. After propensity score matched analyzes, upfront ASCT remained significantly associated with better PFS but not with OS. These real-world data suggest upfront ASCT prolongs PFS in patients with advanced-stage NKTCL in CR1, yet its impact on OS remains unclear.",
+        "source": "PubMed",
+        "doi": "10.1002/ajh.70415",
+        "keyword": "NK cell therapy",
+        "title_ja": "進行期節外性NK/T細胞リンパ腫に対する初回完全寛解時の前向き自家幹細胞移植：多施設後方視的研究",
+        "summary_ja": "この研究は、進行期節外性NK/T細胞リンパ腫（NKTCL）において、初回完全寛解（CR1）到達後の前向き自家幹細胞移植（ASCT）の予後への効果を評価した多施設後方視的検討である。2006年から2023年に中国14施設で治療されたIII/IV期NKTCLのCR1患者107例を対象とした。87%が非アントラサイクリン系初回化学療法を受け、38例（36%）がCR1時にASCTを実施した。中央値39.8ヶ月の追跡で、ASCT群は非ASCT群より有意に良好な無増悪生存（PFS）（3年PFS：78.2% vs 54.6%、p=0.005）および全生存（OS）（3年OS：86.0% vs 68.9%、p=0.04）を示した。しかし非アントラサイクリン系化学療法サブグループ（N=93）では、ASCTはPFS改善と関連したが（3年PFS：77.6% vs 59.3%、p=0.025）、OSでは有意差がなか"
+      },
+      {
+        "title": "Therapeutic targeting of CD47 using a tri-specific NK cell engager to inhibit multiple myeloma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42474551/",
+        "abstract": "Multiple myeloma (MM), a hematological malignancy, remains an incurable disease due to the development of resistance to the treatment; thus, there is an urgent need for new and effective therapeutic strategies, particularly for patients who do not respond to standard therapies. High levels of Cluster of Differentiation 47 (CD47) expression have been reported in MM and are associated with disease progression. CD47 acts as a cancer immune escape mechanism by binding to SIRPα protein, resulting in inhibiting phagocytosis of macrophages and NK cell activity. Therefore, blocking the CD47 signaling pathway has emerged as a promising strategy for cancer immunotherapy. In this study, we confirmed that MM cells have high CD47 expression. We generated and characterized a tri-specific killer engager targeting CD47, namely TriKE-CD47, that targets both CD47 on MM cells and CD16 on NK cells. Additionally, it incorporates an IL-15 moiety to enhance NK cell proliferation. TriKE-CD47 treatment promoted a remarkable proliferation of NK cells overexpressing CD16 (N6 cells). Co-culturing MM cells with N6 cells, primary NK cells, and monocyte-derived macrophages in the presence of 200 ng of TriKE-CD47 significantly improved NK cytotoxicity and macrophage phagocyte activities against MM cells. Notably, the efficacy of TriKE-CD47 was directly correlated with CD47 expression levels on the target cells reflecting the specificity of TriKE-CD47 to target antigen. Furthermore, TriKE-CD47 effectively suppressed tumor growth in MM xenograft mice models. Taken together, these findings strongly supported that TriKE-CD47 could be a potential therapeutic for MM patients.",
+        "source": "PubMed",
+        "doi": "10.1007/s00262-026-04431-x",
+        "keyword": "NK cell therapy",
+        "title_ja": "CD47を標的とした三重特異性NK細胞誘導剤による多発性骨髄腫の治療的制御",
+        "summary_ja": "多発性骨髄腫（MM）は治療抵抗性により治癒が困難であり、新たな治療戦略が求められている。MM細胞ではCD47が高発現し、SIRPαとの結合を介してマクロファージの貪食やNK細胞活性を抑制する免疫逃避機構が働く。本研究では、CD47を標的とする三特異性キラーエンゲージャー（TriKE-CD47）を開発した。TriKE-CD47はMM細胞上のCD47とNK細胞上のCD16を標的とし、IL-15サブユニットによりNK細胞の増殖を促進する。TriKE-CD47処理により、CD16高発現NK細胞（N6細胞）の顕著な増殖が誘導され、MM細胞との共培養においてNK細胞の細胞傷害活性とマクロファージの貪食活性が有意に向上した。その効果は標的細胞のCD47発現量と相関し、特異性が確認された。さらに、MM異種移植マウスモデルにおいて腫瘍増殖を効果的に抑制した。以上より、TriKE-CD47はMM患者に対する新"
+      },
+      {
+        "title": "Prolonged CD38 targeting with felzartamab in antibody-mediated kidney transplant rejection: a biomarker-guided open-label phase 2 extension.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42471965/",
+        "abstract": "Antibody-mediated rejection (AMR) is a major cause of kidney transplant failure. The CD38 antibody felzartamab has been shown to reduce AMR activity, but recurrence after stopping treatment suggested a need for sustained therapy. We extended a placebo-controlled phase 2 trial (NCT05021484) to assess the feasibility and durability of prolonged, biomarker-guided treatment.",
+        "source": "PubMed",
+        "doi": "10.1016/j.lanepe.2026.101768",
+        "keyword": "NK cell therapy",
+        "title_ja": "抗体関連腎移植拒絶反応におけるフェルザルタマブによる長期CD38標的治療：バイオマーカーガイド下オープンラベル第2相延長試験",
+        "summary_ja": "タイトル：抗体関連型腎移植拒絶反応におけるフェルザルタマブを用いた長期CD38標的治療：バイオマーカーガイド下オープンラベル第2相延長試験\n\n内容：抗体関連型拒絶反応（AMR）は腎移植不全の主要因である。CD38抗体フェルザルタマブはAMR活性を低下させるが、治療中止後の再発が持続的治療の必要性を示唆した。我々はプラセボ対照第2相試験（NCT05021484）を延長し、バイオマーカーガイド下での長期治療の実現可能性と耐久性を評価した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Abatacept-Loaded Podocyte-Derived Exosomes Alleviate Membranous Nephropathy via AhR-Regulated NF-κB/Nrf2 Signaling under Oxidative Stress and Inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42474677/",
+        "abstract": "Membranous nephropathy (MN) is a major cause of adult nephrotic syndrome characterized by immune complex deposition and podocyte injury. Oxidative stress and chronic inflammation contribute significantly to disease progression. The present study was conducted to explore the therapeutic effects of podocyte-abatacept loaded exosomes (Abt@Exos) on MN through regulating aryl hydrocarbon receptor (AhR) regulated nuclear factor-kappa B (NF-κB)/ nuclear factor erythroid 2-related factor 2 (Nrf2) signaling pathways. Abt@Exos were identified using scanning electron microscopy (SEM) and nanoparticle tracking analysis (NTA). An animal model of MN was induced in Passive Heymann nephritis (PHN) rats, where the exosome therapy was administered intravenously every three days for three weeks. The parameters like renal function, inflammation, oxidative stress biomarkers, and pathology were estimated. RT-qPCR analysis was used to determine the gene expressions of β-actin, CYP1A1, CYP1A2, CYP1B1, AhR, NF-κB p65, Nrf2, IL-6, TNF-α, and COX-2. Abt@Exos administration showed effective results on proteinuria and renal pathological changes, upregulation of Nrf2 and HO-1 gene expressions, inhibition of NF-κB signaling pathway. In addition, treatment decreased reactive oxygen species (ROS), malondialdehyde (MDA), and pro-inflammatory cytokine levels while restoring superoxide dismutase (SOD) activity. These findings indicate that Abt@Exos improved renal injury in membranous nephropathy by restoring redox balance and suppressing inflammation through modulation of AhR-regulated Nrf2/NF-κB signaling pathways.",
+        "source": "PubMed",
+        "doi": "10.1007/s12010-026-05819-2",
+        "keyword": "Exosomes",
+        "title_ja": "アバタセプト搭載ポドサイト由来エクソソームは、酸化ストレスと炎症下におけるAhR調節性NF-κB/Nrf2シグナル伝達を介して膜性腎症を軽減する",
+        "summary_ja": "膜性腎症（MN）は免疫複合体沈着とポドサイト障害を特徴とする成人ネフローゼ症候群の主因であり、酸化ストレスと慢性炎症が病態進行に関与する。本研究では、ポドサイト由来アバタセプト搭載エクソソーム（Abt@Exos）の治療効果を、アリル炭化水素受容体（AhR）調節性NF-κB/Nrf2シグナル経路を介して検討した。Abt@Exosは走査型電子顕微鏡（SEM）とナノ粒子追跡分析（NTA）で同定し、Passive Heymann腎炎（PHN）ラットに3日ごと3週間静脈投与した。腎機能、炎症、酸化ストレスバイオマーカー、病理組織を評価し、RT-qPCRで遺伝子発現を解析。Abt@Exos投与はタンパク尿と腎病理変化を改善し、Nrf2とHO-1発現を亢進、NF-κB経路を抑制した。また、活性酸素種（ROS）、マロンジアルデヒド（MDA）、炎症性サイトカインを低下させ、スーパーオキシドジスムターゼ（SO"
+      },
+      {
+        "title": "Recent Advances on Liquid-Phase Separation Techniques in Liquid Biopsy Technology for Detecting Circulating Cancer Biomarkers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42473295/",
+        "abstract": "Globally, cancer morbidity and death are rising quickly, making it imperative to develop a workable plan for early cancer patient identification and treatment outcome prediction. Liquid biopsy, a minimally invasive and repeatable technique, can replace the restrictions of tissue biopsy by detecting, assessing, and tracking cancer in any bodily fluid, including human blood. This novel diagnostic technique offers crucial data for tracking and recognizing tumor genomes in samples of physiological fluids. Through minimally invasive methods, the identification of tumor-origin biological components, such as circulating tumor cells (CTCs), circulating tumor DNA (ctDNA), circulating microRNAs (miRNAs), exosomes, and autoantibodies in serum, plasma, saliva, and urine, allows for disease monitoring, early diagnosis, and assessment of treatment response. The goal of this study is to provide a comprehensive summary of the most recent discoveries and applications of liquid biopsy technology for detecting cancer biomarkers, with an emphasis on the years 2005-2025. When used in conjunction with other test results, liquid biopsy is also advantageous for early recurrence detection, monitoring patients who are considered to be at high risk of getting cancer and improving diagnosis. Combining patient history, clinical results, and biopsy biomarker amounts will enable more precise and timely diagnosis thanks to developments in analytical methods and informatics. This review thoroughly examined the biosynthesis, significance, and potential role of four well-known biological markers in tumor diagnosis and treatment. In addition, the advances and challenges in detection technologies for these analytes, as well as potential solutions to address these issues, were also discussed. Finally, we discuss the advantages and disadvantages of liquid biopsy, along with suggestions for its future advancement.",
+        "source": "PubMed",
+        "doi": "10.1002/elps.70134",
+        "keyword": "Exosomes",
+        "title_ja": "液体生検技術における循環がんバイオマーカー検出のための液相分離技術の最近の進歩",
+        "summary_ja": "世界的に癌の罹患率と死亡率が急増しており、早期発見と治療効果予測が急務である。液体生検は、血液などの体液中で循環腫瘍細胞（CTC）、循環腫瘍DNA（ctDNA）、マイクロRNA（miRNA）、エクソソーム、自己抗体を検出する低侵襲で繰り返し可能な技術であり、組織生検の制限を補う。本レビューは2005～2025年に焦点を当て、癌バイオマーカー検出における液体生検技術の最新知見と応用を包括的に要約する。液体生検は、早期再発検出や高リスク患者のモニタリングに有用であり、患者歴や臨床結果と組み合わせることで診断精度が向上する。本稿では、4つの主要バイオマーカーの生合成と腫瘍診断における役割、検出技術の進歩と課題、およびその解決策を議論し、液体生検の利点と欠点、将来の発展について提言を行う。"
+      },
+      {
+        "title": "Exosomes in cancer drug resistance: dual roles in therapy failure and emerging precision therapeutics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42472816/",
+        "abstract": "Exosomes play a key role in cancer, functioning both as drivers of drug resistance and as tools for therapy. Tumor-derived exosomes facilitate intercellular communication through selective transfer of bioactive cargo, including proteins (e.g., P-gp, PD-L1), nucleic acids (e.g., miR-21, lncRNA H19), lipids, and metabolites. These cargos remodel the tumor microenvironment, activate oncogenic pathways such as PI3K/AKT and MAPK, and promote drug resistance, immune evasion, and metabolic reprogramming. This work presents a conceptually integrated translational perspective, introducing the 'exosome paradox' to unify the dual roles of exosomes in therapy resistance and therapeutic application. The review incorporates cancer-specific insights, highlighting how resistance mechanisms vary across pancreatic, breast, lung, colorectal, and ovarian cancers, underscoring the need for context-dependent strategies. Mechanistically, we integrate emerging advances in exosome heterogeneity, selective cargo loading (including SUMOylation-dependent pathways), and the metabolic-epigenetic interface, particularly the lactate-lactylation axis. We also explore the growing role of artificial intelligence in biomarker discovery, cargo profiling, and rational design of engineered exosomes. Therapeutically, two complementary strategies are emphasized: inhibition of pathogenic exosome biogenesis, secretion, and uptake, and development of engineered exosomes as delivery vehicles for chemotherapeutics, RNA-based therapies, and CRISPR/Cas9 systems. Despite promising preclinical advances, clinical translation remains limited by challenges in targeting specificity, pharmacokinetics, scalable manufacturing, and regulatory standardization. This review provides a unified framework combining suppression of pathogenic exosome signaling with strategic engineering of therapeutic exosomes, offering new directions for overcoming drug resistance and advancing precision oncology.",
+        "source": "PubMed",
+        "doi": "10.1186/s12935-026-04396-y",
+        "keyword": "Exosomes",
+        "title_ja": "がん薬剤耐性におけるエクソソーム：治療失敗における二重の役割と新たな精密治療法",
+        "summary_ja": "エクソソームは癌の薬剤耐性において二面的役割を担う。腫瘍由来エクソソームはP-gp、PD-L1、miR-21、lncRNA H19などの積荷を介して細胞間通信を行い、PI3K/AKTやMAPK経路を活性化し、薬剤耐性、免疫回避、代謝リプログラミングを促進する。本レビューは「エクソソームパラドックス」を提唱し、治療抵抗性と治療応用の両面を統合する。膵臓、乳、肺、大腸、卵巣癌における耐性機構の差異を強調し、エクソソーム不均一性、SUMO化依存的な選択的積荷搭載、乳酸-ラクチル化軸などの代謝-エピジェネティック連関、さらに人工知能によるバイオマーカー発見や設計への応用を考察する。治療戦略として、病原性エクソソームの生合成・分泌・取り込み阻害と、化学療法剤、RNA治療、CRISPR/Cas9を搭載した工学的エクソソームの開発の2つを提示する。臨床応用には標的特異性、薬物動態、製造スケーラビリティ、"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Cigarette Smoke-Exposed Alveolar Epithelial Cell-Derived Exosomes Exacerbate Skeletal Muscle Dysfunction Through HDAC2 Signalling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42473083/",
+        "abstract": "Skeletal muscle dysfunction (SMD) is a common extrapulmonary complication of chronic obstructive pulmonary disease (COPD). Histone deacetylase 2 (HDAC2) is closely involved in the suppression of inflammatory transcription and is progressively reduced during COPD progression. Exosomes mediate intercellular communication by transferring bioactive cargos, including proteins. This study aimed to elucidate the molecular mechanism by which alveolar epithelial cell-derived exosomes regulate HDAC2 and contribute to COPD-related SMD.",
+        "source": "PubMed",
+        "doi": "10.1002/jcsm.70349",
+        "keyword": "Exosomes",
+        "title_ja": "喫煙曝露された肺胞上皮細胞由来のエクソソームがHDAC2シグナル伝達を介して骨格筋機能障害を悪化させる",
+        "summary_ja": "慢性閉塞性肺疾患（COPD）の肺外合併症である骨格筋機能障害（SMD）において、肺胞上皮細胞由来のエクソソームがHDAC2シグナルを介して果たす役割を解明した研究。HDAC2は炎症性転写抑制に関与するが、COPD進行に伴い減少する。エクソソームはタンパク質などの生理活性物質を運搬し細胞間通信を仲介する。本研究では、喫煙曝露された肺胞上皮細胞から放出されるエクソソームが、HDAC2シグナルを調節することでSMDを増悪させる分子機構を明らかにした。"
+      },
+      {
+        "title": "Lyophilized platelet derived extracellular vesicles promote hemostasis and attenuate intracranial hemorrhage following traumatic brain injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42472813/",
+        "abstract": "Hemorrhage is the leading cause of preventable death world-wide. Traumatic brain injury (TBI) is the primary driver of mortality and morbidity among individuals aged 1-44 years worldwide, with intracranial hemorrhage (ICH) being the major contributor to acute mortality post-TBI. Based on prior studies, we hypothesized that lyophilized platelet-derived extracellular vesicles (LPEVs) would reduce ICH and preserve blood-brain barrier (BBB) integrity after TBI.",
+        "source": "PubMed",
+        "doi": "10.1186/s12967-026-08638-5",
+        "keyword": "Exosomes",
+        "title_ja": "凍結乾燥血小板由来細胞外小胞は、外傷性脳損傷後の止血を促進し、頭蓋内出血を軽減する。",
+        "summary_ja": "タイトル：凍結乾燥血小板由来細胞外小胞（LPEVs）は外傷性脳損傷（TBI）後の頭蓋内出血（ICH）を抑制し止血を促進する。\n\n出血は予防可能な死亡原因の主要因であり、TBIは1～44歳の死亡・罹患の主因で、ICHが急性期死亡に大きく寄与する。本研究では、凍結乾燥血小板由来細胞外小胞（LPEVs）がTBI後のICHを低減し、血液脳関門（BBB）の完全性を維持するという仮説を検証した。先行研究に基づき、LPEVsの止血効果とBBB保護効果を評価した結果、LPEVsはICHを抑制し、BBBの損傷を軽減することが示された。これにより、LPEVsがTBI後の急性期治療における有効な止血剤としての可能性を持つことが示唆された。"
+      },
+      {
+        "title": "AQP1 knockdown inhibits hepatocellular carcinoma growth and invasion and weakens the oncogenic activity of exosomal GPC1 in a mouse model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42472715/",
+        "abstract": "The development of hepatocellular carcinoma may be regulated by exosome-mediated cell-cell communication. GPC1-enriched exosomes have been associated with malignant phenotypes, while AQP1 has been related to tumor development and metastasis. The functional association of AQP1 and exosomal GPC1 in vivo remains to be clarified. Co-immunoprecipitation was applied to test the interaction of AQP1 with exosomal GPC1 in HCC cells. We generated a mouse xenograft model using control cells and AQP1 knockdown cells, with or without treatment with GPC1-high exosomes. Tumor growth was monitored by longitudinal caliper measurements and endpoint tumor weight. Histology and molecular characteristics were profiled using H&E staining, immunofluorescence, and immunohistochemistry. The proteins associated with ERK and MEK signaling pathways were detected through western blotting. Co-immunoprecipitation of AQP1 and GPC1 demonstrated a recovery of AQP1 and exosomal GPC1 in the same protein complex. AQP1 knockdown was accompanied by reduced xenograft tumor growth, and diminished tumor-promoting effect of GPC1-high exosomes. Tissue examinations revealed coordinated alterations in marker expression and proliferative state in all treatment groups. Total ERK and total MEK were largely similar across groups; phospho-ERK and phospho-MEK display condition-specific differences. Tumor AQP1 staining was markedly greater than that of peritumoral tissue. These data suggest that the AQP1 status may influence tumor sensitivity to GPC1 enriched exosomal stimulation in vivo, and suggest that further analysis of AQP1 as an effector in exosome related oncogenic activity in HCC is warranted.",
+        "source": "PubMed",
+        "doi": "10.1038/s41598-026-59201-7",
+        "keyword": "Exosomes",
+        "title_ja": "AQP1ノックダウンは肝細胞癌の増殖と浸潤を抑制し、マウスモデルにおいてエクソソームGPC1の発癌活性を減弱させる。",
+        "summary_ja": "肝細胞癌（HCC）の発育はエクソソームを介した細胞間通信により調節される可能性がある。GPC1豊富なエクソソームは悪性表現型と関連し、AQP1は腫瘍発育・転移に関与するが、生体内での両者の機能的関連は未解明である。本研究では、HCC細胞におけるAQP1とエクソソームGPC1の相互作用を共免疫沈降法で検証した。コントロール細胞およびAQP1ノックダウン細胞を用いてマウス異種移植モデルを作製し、GPC1高発現エクソソームの有無で処理した。腫瘍増殖を経時的測定と終末腫瘍重量で評価し、組織学的・分子的特徴をH&E染色、免疫蛍光、免疫組織化学で解析した。ERK/MEKシグナル経路関連タンパク質はウェスタンブロットで検出した。共免疫沈降によりAQP1とGPC1が同一複合体に存在することが示された。AQP1ノックダウンは腫瘍増殖を抑制し、GPC1高発現エクソソームの腫瘍促進効果を減弱させた。組織解析では"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Small Extracellular Vesicles From Cardiomyocytes Activate Microglia Aggravating HFpEF.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42473795/",
+        "abstract": "Heart failure with preserved ejection fraction (HFpEF) is increasingly acknowledged as a major public health concern due to its complex pathophysiology, which involves neuroinflammation and sympathetic activation. The crosstalk between the heart and hypothalamic microglia in HFpEF, particularly the role of small extracellular vesicles (sEVs), remains insufficiently explored.",
+        "source": "PubMed",
+        "doi": "10.1161/CIRCRESAHA.125.327765",
+        "keyword": "sEVs",
+        "title_ja": "心筋細胞由来の小型細胞外小胞がミクログリアを活性化しHFpEFを悪化させる",
+        "summary_ja": "タイトル：心筋細胞由来の小型細胞外小胞がミクログリアを活性化しHFpEFを悪化させる\n\n要約：駆出率保持型心不全（HFpEF）は、神経炎症と交感神経活性化を伴う複雑な病態生理から、公衆衛生上の重大な課題と認識されている。HFpEFにおける心臓と視床下部ミクログリアのクロストーク、特に小型細胞外小胞（sEVs）の役割は未だ十分に解明されていない。本論文では、心筋細胞由来のsEVsが視床下部ミクログリアを活性化し、HFpEFの病態進行を促進する可能性を示唆する。この心臓-脳間のsEVsを介したシグナル伝達が、神経炎症と交感神経系の過剰活性化を引き起こす新たなメカニズムとして注目される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **Klothoと腎臓老化・CKD**  \n   α-Klothoは老化抑制タンパク質として知られ、可溶性Klotho（sKlotho）が血中・尿中で検出され、FGF23の共受容体としてミネラル代謝を調節する。腎臓の不均一性が老化やCKD病態に影響する新たな視点を提供。今後、sKlothoをバイオマーカーや治療標的とした腎疾患・抗老化治療の開発が期待される。\n\n2. **NK/T細胞リンパ腫への自家幹細胞移植**  \n   進行期節外性NK/T細胞リンパ腫（NKTCL）に対し、初回完全寛解後の自家幹細胞移植（ASCT）が予後改善に寄与する可能性を示した多施設研究。希少疾患ながら治療抵抗性が高く、ASCTの早期導入が標準治療確立につながる。\n\n3. **CD47標的三重特異性NK細胞エンゲージャー**  \n   多発性骨髄腫（MM）で高発現するCD47を標的とし、NK細胞活性を増強する新規免疫療法。従来の抗CD47抗体の課題を克服し、MMの治療抵抗性打破に貢献。今後の臨床応用が注目される。\n\n4. **ポドサイト由来エクソソームによる膜性腎症治療**  \n   アバタセプト搭載エクソソーム（Abt@Exos）がAhR/NF-κB/Nrf2経路を介して酸化ストレス・炎症を抑制。膜性腎症（MN）に対する新たなナノDDSとして、標的治療の実現可能性を示す。\n\n5. **エクソソームのがん薬剤耐性における二面的役割**  \n   腫瘍由来エクソソームはP-gpやmiR-21などを介して耐性を促進する一方、精密医療への応用も進む。耐性克服とバイオマーカー開発の両面で、エクソソーム研究はがん治療のパラダイムシフトを牽引する。"
+}

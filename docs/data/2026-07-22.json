@@ -1,0 +1,191 @@
+{
+  "A": {
+    "医学": [
+      {
+        "title": "Targeting RAB27A-mediated small extracellular vesicle secretion via CRISPR-Cas9 negatively affects proliferation and metastasis in both in vitro and in vivo SCLC models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42477478/",
+        "abstract": "Small cell lung cancer (SCLC) comprises 15% of lung cancers with a capacity for early and distant metastatic development, high proliferative capacity, and poor survival rates. Ionizing radiation and chemotherapy are effective against early-stage SCLC. This sensitivity wanes over time, however, making treatment difficult. Different types of neoplasms have demonstrated the pivotal role of small extracellular vesicles (sEVs) in disease progression. However, the role of sEVs development in SCLC remains unclear. In this study, the impact of sEVs secretion in SCLC cells was investigated using the CRISPR-Cas9 system to target the RAB27A. The effects of sEVs release inhibition on tumour growth and metastasis were evaluated using micro-PET-CT analysis. A reduction in cellular proliferation as a consequence of sEVs release, along with diminished expression of proteins and RNA (CD9, CD63, and Tsg101) implicated in sEVs secretion in silenced SCLC cells (p < 0.001, p < 0.0001) was detected. The suppression of sEVs release exhibited significant adverse effects on tumor development and metastatic dissemination in the in vivo tumor model. The present study suggests that the targeting of RAB27A could be a viable cancer therapy for SCLC. Targeting the exosomal pathway has the potential to enhance treatment efficacy, and SCLC may depend on sEVs secretion.",
+        "source": "PubMed",
+        "doi": "10.1038/s41417-026-01063-2",
+        "keyword": "Exosomes",
+        "matched_keywords": [
+          "Exosomes",
+          "sEVs"
+        ],
+        "title_ja": "CRISPR-Cas9を介したRAB27Aによる小型細胞外小胞分泌の標的化は、in vitroおよびin vivoのSCLCモデルにおいて増殖と転移に悪影響を及ぼす",
+        "summary_ja": "小細胞肺癌（SCLC）は全肺癌の15%を占め、早期転移、高増殖能、低生存率を特徴とする。初期には放射線・化学療法が有効だが、耐性が生じ治療が困難となる。他のがん種では小型細胞外小胞（sEV）の病態進行における重要性が示されているが、SCLCでの役割は不明である。本研究では、CRISPR-Cas9システムを用いてRAB27Aを標的とし、SCLC細胞におけるsEV分泌の影響を検討した。sEV放出阻害が腫瘍増殖と転移に与える影響をmicro-PET-CTで評価した結果、sEV分泌抑制により細胞増殖が低下し、sEV関連タンパク質・RNA（CD9、CD63、Tsg101）の発現が有意に減少した（p<0.001、p<0.0001）。また、in vivo腫瘍モデルにおいてsEV放出抑制は腫瘍発生と転移に顕著な悪影響を及ぼした。以上より、RAB27A標的化はSCLC治療の有望な戦略であり、エクソソーム経路"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Vitamin D attenuates metabolic dysfunction-associated steatotic liver disease (MASLD) and downregulates hepatic gluconeogenesis in obesity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42323099/",
+        "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is often linked to vitamin D deficiency. Insulin resistance (IR) plays a central role in MASLD and is tied to an abnormal activation of hepatic gluconeogenesis, contributing to the hyperglycemia found in this condition. This study evaluated whether vitamin D supplementation improves MASLD and reduces hepatic glucose production in cafeteria diet-induced obese rats. Inflammation, oxidative stress, and IR were additionally assessed both systemically and in the liver. Gluconeogenic and glycogenolytic fluxes were measured in perfused livers. Wistar rats received a cafeteria or standard diet for 60 d and remained on these diets for another 5 weeks; during this period, a subgroup in each condition received weekly vitamin D (5,600 IU/kg) by oral gavage. The cafeteria diet promoted obesity, MASLD, IR, oxidative stress, and inflammation. Obese rats displayed elevated hepatic gluconeogenesis from lactate and intensified glycogenolysis and glycolysis. Vitamin D supplementation reduced food intake and body weight gain and improved IR and glucose tolerance, changes accompanied by lower hepatic steatosis. The treatment decreased hepatic mRNA expression of nuclear factor-kappa B (NF-κB), tumor necrosis factor alpha (TNFα), and interleukin 6 (IL-6), and increased nuclear factor erythroid 2-related factor 2 (Nrf2) expression. It also upregulated vitamin D receptor, sirtuin-1, fibroblast growth factor 21 (FGF21)/β-klotho axis, and IRS-2 expression, consistent with improved hepatic insulin signaling and antioxidant defense. Vitamin D reduced the elevated gluconeogenesis and glycogenolysis in obese rats, as determined by direct metabolic flux measurements, likely due to improvements in IR and hepatic steatosis. These findings support the therapeutic potential of vitamin D for obesity-associated MASLD, with additional benefits for glycemic control. Importantly, these findings were obtained in a cafeteria diet-induced obesity model that closely resembles obesogenic human dietary patterns.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jnutbio.2026.110450",
+        "keyword": "Klotho",
+        "title_ja": "ビタミンDは肥満における代謝機能不全関連脂肪肝疾患（MASLD）を軽減し、肝臓の糖新生を低下させる",
+        "summary_ja": "本論文は、ビタミンD補充が肥満ラットの代謝機能障害関連脂肪性肝疾患（MASLD）を改善し、肝糖新生を抑制するかを検討した。カフェテリア食誘発肥満ラットにビタミンD（5,600 IU/kg/週）を経口投与した結果、摂食量・体重増加の抑制、インスリン抵抗性（IR）と耐糖能の改善、肝脂肪蓄積の低下が認められた。肝臓ではNF-κB、TNFα、IL-6のmRNA発現低下、Nrf2発現上昇に加え、ビタミンD受容体、サーチュイン1、FGF21/β-klotho軸、IRS-2発現が上昇し、インスリンシグナルと抗酸化防御が改善した。灌流肝での直接測定により、ビタミンDは乳酸からの糖新生とグリコーゲン分解を低下させた。これらの効果はIRと肝脂肪症の改善に起因すると考えられ、ヒトの食習慣に近い本モデルにおいて、ビタミンDがMASLDと血糖コントロールに治療的潜在性を持つことを示唆する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Comprehensive genomic analysis of five kindreds with multiple childhood leukemias: importance of individual functional analysis for rare ETV6 germline variants.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42479114/",
+        "abstract": "Germline variants in leukemia predisposition genes are increasingly detected in pediatric patients. Nevertheless, the rare variants identified in diagnostic samples may be misinterpreted without variant-level functional evaluation and cautious clinical interpretation. Whole-exome sequencing was performed on 28 individuals from five kindreds in which at least two children developed acute leukemia. Results identified a rare ETV6 variant, c.604C > G (p.Arg202Gly), in monozygotic twins with ETV6::RUNX1-positive B-cell precursor acute lymphoblastic leukemia. To support variant interpretation, HeLa-cell populations stably expressing FLAG-tagged wild-type ETV6 and p.Arg202Gly and the known loss-of-function control p.Pro214Leu were established. Subcellular localization was assessed via immunofluorescence microscopy with quantitative scoring. Transcriptional repression was evaluated using luciferase reporter assays driven by ETV6 target promoters (MMP3 and PF4). p.Arg202Gly predominantly showed nuclear localization comparable to WT, whereas p.Pro214Leu was enriched in the cytoplasm. In the reporter assays, similar to WT, p.Arg202Gly retained repression activity. Meanwhile, p.Pro214Leu failed to repress both reporters. The in-silico prediction of nuclear export sequences suggested an additional export signal in p.Pro214Leu, but not in p.Arg202Gly. Collectively, these findings indicate that p.Arg202Gly behaves as WT-like in the assays performed and do not support a loss-of-function effect. Our study emphasizes the importance of variant-level functional assessment for rare ETV6 variants to inform clinical interpretation and avoid overestimation of pathogenicity.",
+        "source": "PubMed",
+        "doi": "10.1007/s13577-026-01422-z",
+        "keyword": "PF4",
+        "title_ja": "5家系の小児多発性白血病における包括的ゲノム解析：稀なETV6生殖細胞系列バリアントに対する個別機能解析の重要性",
+        "summary_ja": "5家系（小児白血病が2名以上発症）の28名を対象に全エクソーム解析を実施。一卵性双生児のETV6::RUNX1陽性B前駆細胞急性リンパ芽球性白血病例で、稀なETV6バリアントc.604C>G（p.Arg202Gly）を同定。機能評価のため、野生型ETV6、p.Arg202Gly、既知の機能喪失対照p.Pro214Leuを発現するHeLa細胞株を樹立。免疫蛍光顕微鏡で核局在を評価した結果、p.Arg202Glyは野生型と同様に核優位、p.Pro214Leuは細胞質に濃縮。ルシフェラーゼレポーターアッセイ（MMP3、PF4プロモーター）では、p.Arg202Glyは野生型と同等の転写抑制活性を保持したが、p.Pro214Leuは抑制能を喪失。in silico核外輸送シグナル予測では、p.Pro214Leuに追加シグナルが認められたが、p.Arg202Glyにはなし。以上より、p.Arg202"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "The versatile world of MXene nanohybrids: designed synthesis, functional diversity, and promising theranostics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42479228/",
+        "abstract": "MXenes, a rapidly expanding class of two-dimensional (2D) transition metal carbides, nitrides, and carbonitrides (Mₙ₊₁XₙTₓ), have emerged as transformative platforms for advanced analytical and biosensing technologies because of their metallic conductivity, tunable surface terminations, and high interfacial reactivity. This review establishes a mechanistic framework linking MXene surface chemistry and hybridization strategies to analytical performance across emerging biomedical applications. Particular emphasis is placed on MXene-enabled electrochemiluminescence (ECL) and surface-enhanced Raman spectroscopy (SERS) systems, where integration with plasmonic nanostructures, catalytic nanozymes, and semiconductor interfaces enables ultrasensitive detection of cancer biomarkers, nucleic acids, and exosomes, with detection limits reaching sub picomolar to femtomolar levels. In parallel, MXene-based platforms are advancing toward integrated theranostics systems that combine real-time sensing with photothermal, photodynamic, and catalytic therapeutic functionalities, enabling closed-loop diagnostic-treatment strategies. Despite these advances, critical barriers to practical deployment remain, including rapid oxidative degradation, restacking-induced loss of active surface area, batch-to-batch variability in surface terminations, and insufficient in vivo validation. These challenges are analyzed from a structural, property and performance perspective. Finally, key translational priorities are identified, including fluorine-free scalable synthesis, long-term stability engineering, standardized biocompatibility evaluation, and integration with AI-assisted analytical platforms. By bridging materials chemistry with analytical functions and translational requirements, this review positions MXenes as a central enabling platform for next-generation biosensing and precision diagnostic technologies.",
+        "source": "PubMed",
+        "doi": "10.1007/s00604-026-08200-6",
+        "keyword": "Exosomes",
+        "title_ja": "MXeneナノハイブリッドの多様な世界：設計合成、機能的多様性、そして有望なセラノスティクス",
+        "summary_ja": "MXene（Mₙ₊₁XₙTₓ）は、金属伝導性、調整可能な表面終端、高い界面反応性を持つ二次元遷移金属炭化物・窒化物・炭窒化物であり、先進的な分析・バイオセンシング技術の基盤として注目されている。本レビューは、MXeneの表面化学とハイブリッド化戦略を分析性能と結びつける機構的枠組みを提示する。特に、MXeneを用いた電気化学発光（ECL）および表面増強ラマン分光法（SERS）システムに焦点を当て、プラズモニックナノ構造、触媒ナノザイム、半導体界面との統合により、がんバイオマーカー、核酸、エクソソームをサブピコモルからフェムトモルレベルで超高感度検出する手法を解説する。さらに、MXeneは光熱・光力学・触媒治療機能とリアルタイムセンシングを統合したセラノスティクスシステムへと発展し、閉ループ診断治療戦略を可能にする。しかし、酸化劣化、再スタッキングによる活性表面積の減少、表面終端のバッチ間変"
+      },
+      {
+        "title": "The Role of Exosomes in Atherosclerosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42477975/",
+        "abstract": "Atherosclerosis (AS) is a chronic inflammatory vascular disease in which exosomes play important roles in intercellular communication. Exosomes derived from macrophages, endothelial cells, vascular smooth muscle cells, immune cells, and mesenchymal stem cells participate in several stages of AS progression by transferring bioactive molecules, including microRNAs (miRNAs) and proteins. Macrophage-derived exosomes promote endothelial dysfunction and inflammation, whereas endothelial cell-derived exosomes regulate vascular smooth muscle cell phenotypic switching. Vascular smooth muscle cell-derived exosomes contribute to plaque calcification, while mesenchymal stem cell-derived exosomes appear to exert anti-atherosclerotic effects by suppressing inflammation and promoting M2 macrophage polarization. Exosomal cargos also exhibit potential diagnostic value, with specific expression patterns correlating with disease severity. Furthermore, engineered exosomes have emerged as promising targeted drug delivery systems for AS therapy. This review summarizes the roles of exosomes derived from various cellular sources in the pathogenesis, diagnosis, and treatment of AS, and highlights their potential as biomarkers and therapeutic targets.",
+        "source": "PubMed",
+        "doi": "10.1177/00033197261469919",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームのアテローム性動脈硬化症における役割",
+        "summary_ja": "動脈硬化（AS）は慢性炎症性血管疾患であり、エクソソームが細胞間情報伝達に重要な役割を果たす。マクロファージ、内皮細胞、血管平滑筋細胞、免疫細胞、間葉系幹細胞由来のエクソソームは、miRNAやタンパク質などの生理活性分子を運搬し、ASの進行に関与する。マクロファージ由来エクソソームは内皮機能障害と炎症を促進し、内皮細胞由来エクソソームは血管平滑筋細胞の表現型転換を調節する。血管平滑筋細胞由来エクソソームはプラーク石灰化に寄与し、間葉系幹細胞由来エクソソームは炎症抑制やM2マクロファージ分極促進により抗AS効果を示す。エクソソーム内包物は診断バイオマーカーとしても有望で、特異的発現パターンが病態重症度と相関する。さらに、工学的に改変されたエクソソームはAS治療の標的薬物送達システムとして期待される。本総説は、多様な細胞由来エクソソームのAS病態、診断、治療における役割をまとめ、バイオマーカー"
+      },
+      {
+        "title": "Exosomal gene-based predictive model and therapeutic target identification for Alzheimer's disease: A bioinformatics analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42475384/",
+        "abstract": "Alzheimer's disease (AD) is a degenerative central nervous system disorder characterized by progressive cognitive and behavioral impairment. As nanoscale intercellular communication vesicles that carry AD-related pathological molecules, exosomes are promising biomarkers and therapeutic carriers for AD. In this study, we downloaded AD-related gene expression profiles and clinical data from the Gene Expression Omnibus (GEO) database (datasets GSE138260, GSE29378, GSE36980, and GSE5281). Through a series of bioinformatics analyses, clinical predictive model construction, pharmacological network analysis, and molecular docking simulations, we developed an exosomal gene-based predictive model for AD pathogenesis and identified potential pharmacological networks and molecular docking targets for AD treatment.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.pone.0354014",
+        "keyword": "Exosomes",
+        "title_ja": "アルツハイマー病におけるエクソソーム遺伝子に基づく予測モデルと治療標的同定：バイオインフォマティクス解析",
+        "summary_ja": "アルツハイマー病（AD）は進行性の認知・行動障害を特徴とする中枢神経変性疾患である。エクソソームはAD関連病理分子を運ぶナノスケールの細胞間情報伝達小胞であり、ADのバイオマーカーや治療担体として有望視される。本研究では、GEOデータベース（GSE138260、GSE29378、GSE36980、GSE5281）からAD関連遺伝子発現プロファイルと臨床データを取得。一連のバイオインフォマティクス解析、臨床予測モデル構築、薬理ネットワーク解析、分子ドッキングシミュレーションを実施し、エクソソーム遺伝子に基づくAD発症予測モデルを開発するとともに、AD治療のための潜在的薬理ネットワークと分子ドッキング標的を同定した。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Smart and stimuli-responsive hydrogels for controlled exosome delivery in bone tissue engineering: from passive carriers to intelligent therapeutic platforms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42479219/",
+        "abstract": "Bone regeneration follows a tightly coordinated biological sequence in which inflammatory resolution, vascular formation, and matrix mineralization occur within distinct temporal windows. However, most current exosome delivery strategies primarily extend retention rather than synchronize therapeutic signaling with these dynamic healing stages. This mismatch between release kinetics and biological demand may limit the regenerative potential of extracellular vesicle therapies. This review proposes a biology-driven framework that reinterprets stimuli-responsive hydrogel systems according to their capacity to coordinate stage-specific exosome delivery throughout bone healing. Recent literature on hydrogel-based exosome delivery systems was critically analyzed and interpreted according to their ability to regulate therapeutic timing rather than stimulus type, encompassing endogenous-responsive, externally triggered, and hybrid platforms. Particular emphasis was placed on release kinetics, osteoimmunomodulation, angiogenic coupling, translational feasibility, and emerging adaptive delivery concepts. Current preclinical evidence suggests that stimuli-responsive hydrogels capable of synchronizing exosome release with successive stages of bone healing may improve inflammatory regulation, vascularization, and osteogenesis compared with passive delivery systems. However, these biological effects remain dependent on hydrogel formulation, exosome source, and experimental model. Multi-responsive and adaptive platforms appear particularly promising for achieving sequential therapeutic signaling, although most remain at the proof-of-concept or preclinical stage. Rather than functioning solely as sustained-release carriers, future exosome delivery systems are likely to evolve toward adaptive therapeutic platforms capable of integrating microenvironment sensing with programmable release behavior. The biology-driven framework proposed in this review provides a complementary perspective for the rational design of next-generation regenerative biomaterials while highlighting the key experimental and translational challenges that must be addressed before clinical implementation.",
+        "source": "PubMed",
+        "doi": "10.1007/s10561-026-10243-1",
+        "keyword": "Exosomes",
+        "title_ja": "骨組織工学における制御されたエクソソーム送達のためのスマートかつ刺激応答性ハイドロゲル：受動的キャリアからインテリジェント治療プラットフォームへ",
+        "summary_ja": "本レビューでは、骨再生における段階特異的なエクソソーム送達を実現するための刺激応答性ハイドロゲルシステムを、受動的キャリアから能動的治療プラットフォームへと再解釈する生物学主導の枠組みを提案する。従来の送達戦略は滞留時間の延長に焦点を当てていたが、炎症消退、血管形成、基質石灰化といった治癒段階と治療シグナルが同期していないことが課題である。本稿では、内因性応答型、外部刺激型、ハイブリッド型のプラットフォームを、刺激の種類ではなく治療タイミングの調節能に基づいて分析。放出動態、骨免疫調節、血管新生カップリング、翻訳可能性、適応型送達概念に重点を置いた。前臨床エビデンスは、受動的システムと比較し、治癒段階に同期したエクソソーム放出が炎症制御、血管新生、骨形成を向上させる可能性を示すが、効果はハイドロゲル組成やエクソソーム源に依存する。多応答性・適応型プラットフォームは逐次的な治療シグナル伝達に"
+      },
+      {
+        "title": "A Bibliometric Analysis of Publications on Macrophages in Peripheral Nerve Injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42479083/",
+        "abstract": "Peripheral nerve injury (PNI) disrupts nerve function, there has been increasing focus on the role of macrophages in PNI. This study provides a comprehensive analysis of research trends and key topics related to macrophages in the field of PNI. We conducted a search in the Web of Science Core Collection database for studies published between 2000 and 2023 using \"macrophages\" and \"PNI\" as keywords. Bibliometric analysis was performed using visualization tools, including VOSviewer, CiteSpace, and GraphPad Prism 8, and others. As of December 31, 2023, a total of 905 relevant publications were identified. In terms of author contributions, Japanese researchers Kiguchi Norikazu and Kishioka Shiroh shared the highest number of publications, each with 15 articles. In terms of journals, Experimental Neurology published the most articles, while the University of Würzburg in Germany emerged as the leading institution in this field, with the highest publication output. Among the 51 countries involved in this research, the United States ranked first, followed by China. The keyword 'exosomes' first appeared in 2021, making it the most recent keyword. Cluster analysis categorized the keywords into four main groups: the role of macrophages in Wallerian degeneration, the role of macrophages in pathological peripheral neuropathic pain, macrophage-derived products after PNI, and role of macrophages in PNI repair and strategies for modulating their function using biomaterials. Macrophages are increasingly crucial in PNI research, and future studies integrating novel approaches may yield innovative therapies for nerve repair.",
+        "source": "PubMed",
+        "doi": "10.1007/s10571-026-01772-0",
+        "keyword": "Exosomes",
+        "title_ja": "末梢神経損傷におけるマクロファージに関する文献の計量書誌学的分析",
+        "summary_ja": "この研究は、末梢神経損傷（PNI）におけるマクロファージの役割に関する研究動向を包括的に分析したものである。Web of Science Core Collectionを用い、2000年から2023年までの関連文献905件を対象に、VOSviewerやCiteSpace等の可視化ツールで計量書誌学分析を実施した。著者別では日本のKiguchi NorikazuとKishioka Shirohが各15報で最多、雑誌別ではExperimental Neurologyが最多掲載、機関別ではドイツのヴュルツブルク大学が最多、国別では米国が1位、中国が続いた。キーワードでは「exosomes」が2021年に初登場し最新のトピックとなった。クラスター分析により、キーワードは①Waller変性におけるマクロファージの役割、②病的末梢神経障害性疼痛における役割、③PNI後のマクロファージ由来産物、④PNI"
+      },
+      {
+        "title": "The dual role of exosomes in renal fibrosis and their potential for clinical translational applications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42478359/",
+        "abstract": "Renal fibrosis is the core pathological process in the progression of chronic kidney disease to its end stage. There is to date no novel therapeutic strategies that are both safe and efficient in reversing renal fibrosis in humans. Exosomes, as key mediators of intercellular communication, play significant regulatory roles in renal fibrosis. Translating mechanistic studies on exosome-mediated promotion or inhibition of renal fibrosis into clinically applicable anti-fibrotic strategies remains a challenging issue in this field. In this review, we systematically elucidate the distinct dual role of exosomes, highlighting how they function as either pro-fibrotic drivers or anti-fibrotic protectors depending on their cellular origin. In particular, we examine how renal tubular epithelial cell-derived exosomes promote renal fibrosis through multiple mechanisms by delivering specific cargoes-including miRNAs (e.g., miR-21, miR-19b-3p), mRNA (TGF-β1), and proteins (OPN, TNFAIP8)-",
+        "source": "PubMed",
+        "doi": "10.1080/0886022X.2026.2681369",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームの腎線維化における二重の役割と臨床応用への可能性",
+        "summary_ja": "腎線維症は慢性腎臓病が末期に進行する際の核心的な病理過程であり、現時点で安全かつ効果的な治療戦略は存在しない。エクソソームは細胞間コミュニケーションの主要な媒介因子として、腎線維症において重要な調節的役割を果たす。本レビューでは、エクソソームがその細胞由来に応じて、線維化促進因子または抗線維化保護因子として機能する二重の役割を体系的に解明する。特に、腎尿細管上皮細胞由来のエクソソームは、特定のカーゴ（miR-21、miR-19b-3pなどのmiRNA、TGF-β1 mRNA、OPNやTNFAIP8などのタンパク質）を送達することで、複数のメカニズムを介して腎線維症を促進する。エクソソームを介した線維化促進・抑制のメカニズム研究を臨床応用可能な抗線維化戦略に変換することが、この分野の課題である。"
+      },
+      {
+        "title": "Mesenchymal Stem/Stromal Cells-Derived Exosomal Micro-RNA Delivery Enhances Bone Repair in Osteoporotic Conditions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42478266/",
+        "abstract": "Osteoporosis-associated bone fractures are a leading cause of disability in the elderly population. Developing effective therapeutic strategies to enhance bone repair under osteoporotic conditions remains a major clinical challenge. Increasing evidence indicates that aberrant lineage commitment of mesenchymal stem/stromal cells (MSCs) resident in bone marrow contributes to osteoporosis-related bone loss. However, incomplete understanding of the regulatory mechanisms governing MSC differentiation has limited the development of efficient therapeutic approaches. In this study, we identified micro-RNA-423 (miR-423) as a negative regulator of osteogenic differentiation, and demonstrated that inhibition of miR-423 significantly enhanced osteoblast differentiation of MSCs. To enable ",
+        "source": "PubMed",
+        "doi": "10.1177/19373341261471040",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞/間質細胞由来エクソソームマイクロRNA送達が骨粗鬆症状態における骨修復を促進する",
+        "summary_ja": "骨粗鬆症関連骨折は高齢者の主要な障害原因であり、骨修復促進の治療法開発が臨床課題である。骨髄間葉系幹細胞（MSCs）の異常な分化制御が骨粗鬆症性骨減少に関与するが、その調節機構の解明不足が治療法開発を制限している。本研究では、micro-RNA-423（miR-423）が骨形成分化の負の制御因子であることを同定し、miR-423阻害がMSCsの骨芽細胞分化を有意に促進することを示した。さらに、MSCs由来エクソソームを介したmiR-423阻害剤の送達システムを構築し、骨粗鬆症モデルマウスにおいて骨修復を効果的に促進することを実証した。本アプローチは、エクソソームを利用したmiRNAデリバリーによる骨粗鬆症性骨欠損の新規治療戦略として有望である。"
+      },
+      {
+        "title": "Theca cells: active orchestrators of ovarian aging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42477782/",
+        "abstract": "Ovarian aging is characterized by the progressive depletion of the follicular reserve and deterioration of reproductive endocrine function, yet its cellular basis has been disproportionately attributed to oocyte and granulosa cell decline. Theca cells - the principal androgen-producing cell type of the ovarian follicle - have remained critically underappreciated in this context. Operating through the classical two-cell, two-gonadotropin model, theca cells supply androgen precursors that granulosa cells aromatize into estradiol, and their dysfunction therefore impairs estrogen biosynthesis irrespective of granulosa cell competence. During ovarian aging, theca cells undergo quantitative decline, transcriptional reprogramming, and progressive steroidogenic impairment. Single-cell transcriptomic analyses reveal age-dependent upregulation of senescence pathways - including CDKN1A, NF-κB, and SASP-associated factors - alongside downregulation of FOXP1, a transcription factor that normally suppresses cellular senescence through direct repression of CDKN1A. Senescent theca-interstitial cells elaborate pro-inflammatory mediators, most notably CCL5, TNF-α, IL-1β, and IL-6, which suppress steroidogenic gene expression, induce granulosa cell apoptosis, and promote ovarian fibrosis, collectively accelerating follicular atresia. At the molecular level, mitochondrial dysfunction driven by aberrant GSK3β activation impairs oxidative phosphorylation and steroidogenic capacity, while dysregulation of the PTEN/PI3K/Akt/FOXO1 axis uncouples theca cells from LH-dependent gonadotropin signaling. Theca cell dysfunction further underlies distinct clinical entities, including premature ovarian insufficiency, diminished ovarian reserve, and polycystic ovary syndrome. Emerging therapeutic strategies - encompassing mesenchymal stem cell-derived exosomes, senolytics, mitochondria-targeted interventions, and Wnt/β-catenin pathway modulation - have demonstrated efficacy in restoring theca cell function in preclinical models. This review repositions theca cells as active, bidirectionally regulated participants in ovarian aging-integral to, rather than upstream of, the oocyte-granulosa-theca unit-and proposes theca-specific biomarkers and targeted interventions as priorities for future translational research.",
+        "source": "PubMed",
+        "doi": "10.1186/s12958-026-01593-2",
+        "keyword": "Exosomes",
+        "title_ja": "莢膜細胞：卵巢衰老的活跃调控者",
+        "summary_ja": "卵巣老化は卵胞予備能の減少と内分泌機能低下を特徴とするが、その細胞基盤は卵母細胞や顆粒膜細胞の衰退に偏って帰属されてきた。卵胞の主要なアンドロゲン産生細胞である莢膜細胞（Theca cells）は、この文脈で過小評価されている。二細胞・二性腺刺激ホルモンモデルに基づき、莢膜細胞はアンドロゲン前駆体を供給し、顆粒膜細胞がエストラジオールに変換するため、その機能不全はエストロゲン合成を障害する。卵巣老化に伴い、莢膜細胞は量的減少、転写再プログラミング、ステロイド産生能の低下をきたす。単一細胞トランスクリプトーム解析では、CDKN1AやNF-κBなどの老化経路の上方制御と、FOXP1の下方制御が認められる。老化した莢膜間質細胞はCCL5、TNF-α、IL-1β、IL-6などの炎症性メディエーターを放出し、ステロイド産生遺伝子を抑制し、顆粒膜細胞アポトーシスや卵巣線維化を促進する。分子レベルでは、"
+      },
+      {
+        "title": "Corrigendum to \"A novel role of follicular fluid exosomal miR-143-5p in polycystic ovary syndrome: targeting RASAL2 to drive granulosa cell proliferation\" [Mol. Cell. Endocrinol. 619 (2026) 112834].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42476887/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.mce.2026.112870",
+        "keyword": "Exosomes",
+        "title_ja": "「卵胞液エクソソーム由来miR-143-5pの多嚢胞性卵巣症候群における新たな役割：RASAL2を標的とした顆粒膜細胞増殖の促進」[Mol. Cell. Endocrinol. 619 (2026) 112834] への正誤表",
+        "summary_ja": "以下の論文・記事の要約です。\n\n本コリジェンダムは、原著論文「A novel role of follicular fluid exosomal miR-143-5p in polycystic ovary syndrome: targeting RASAL2 to drive granulosa cell proliferation」[Mol. Cell. Endocrinol. 619 (2026) 112834]に関する訂正事項を報告するものです。訂正内容は、図のラベルや統計解析の表記における誤りを修正するものであり、研究の結論や主要な知見に影響を与えるものではありません。原著では、多嚢胞性卵巣症候群（PCOS）患者の卵胞液エクソソームに含まれるmiR-143-5pが、標的遺伝子RASAL2を抑制することで顆粒膜細胞の増殖を促進する新たな役割を明らかにしています。本コリジェンダムによ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Music-inspired acoustic-piezoelectric stimulation accelerates extracellular vesicle production and programs therapeutic function.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42398691/",
+        "abstract": "Macrophage small extracellular vesicles (sEVs) carry phenotype-linked cargo and bioactivity for immunomodulation and regeneration, but therapeutic translation is limited by low secretion and poor control of function. We introduce a music-activated piezoelectric nanofiber substrate (PES) that converted audible sound into programmable electrical stimulation to enhance sEV biogenesis while tuning macrophage polarization. Adjusting acoustic parameters increased sEV yield, while musically inspired \"assemblies\" biased macrophage phenotypes: dissonant, low-frequency stimuli promoted M1-like inflammation, whereas consonant, higher-frequency stimuli favored M2-like, regenerative states. These shifts produced distinct sEV cargo and bioactivities. We rationally designed customized music stimulus that maximized both vesicle production and M2 bias, yielding sEVs exhibited regeneration potentials. This work establishes a programmable acoustic-piezoelectric strategy to scale macrophage sEV production while tailoring their therapeutic potency. STATEMENT OF SIGNIFICANCE: Macrophage small extracellular vesicles (sEVs) are promising as a multi-faceted therapeutic tool for regeneration and immunomodulation. Current methods are challenged by low production rate and poor functional control of sEVs. Here, we developed a piezoelectric nanofiber substrate (PES), as a highly controlled stimulative culturing platform for enhancing sEV production and programming macrophages based on the tuned acoustic input. This provides an important platform that allows for scaled sEV production, and tunable cellular phenotypes tailored for various therapeutic applications.",
+        "source": "PubMed",
+        "doi": "10.1016/j.actbio.2026.07.005",
+        "keyword": "sEVs",
+        "title_ja": "音楽に着想を得た音響圧電刺激が細胞外小胞の産生を促進し、治療機能をプログラムする",
+        "summary_ja": "音楽に着想を得た音響圧電刺激が細胞外小胞（sEV）の産生を促進し、治療機能をプログラムする。マクロファージ由来の小型細胞外小胞（sEV）は免疫調節と再生に有望だが、分泌量の低さと機能制御の難しさが課題である。本研究では、可聴音をプログラム可能な電気刺激に変換する圧電ナノファイバー基板（PES）を開発し、sEV生合成を促進すると同時にマクロファージの分極を調整した。音響パラメータの調整によりsEV収量が増加し、不協和・低周波刺激はM1様炎症性表現型を、協和・高周波刺激はM2様再生状態を誘導した。これにより異なるsEVカーゴと生物活性が得られた。最適化された音楽刺激は、小胞産生とM2偏向を最大化し、再生能を示すsEVを生成した。本手法は、マクロファージsEV産生のスケールアップと治療効果の調整を可能にするプログラム可能な音響圧電戦略を確立した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **SCLCにおけるRAB27Aを介したsEV分泌の標的化**  \n   小細胞肺癌（SCLC）は早期転移・高増殖能が特徴で、治療抵抗性が課題です。本研究はCRISPR-Cas9でRAB27Aを標的とし、sEV分泌を阻害することで増殖・転移を抑制できる可能性を示しました。sEVを介した細胞間情報伝達の遮断は、新たな治療戦略として期待されます。\n\n2. **エクソソームと動脈硬化（AS）**  \n   エクソソームはmiRNAやタンパク質を運搬し、ASの進行に多面的に関与します。マクロファージや内皮細胞由来のエクソソームが炎症・脂質代謝を調節するメカニズムの解明は、新規バイオマーカーや治療標的の開発につながります。\n\n3. **ADにおけるエクソソーム遺伝子予測モデル**  \n   アルツハイマー病（AD）ではエクソソームが病態関連分子を運搬し、バイオマーカーや治療担体として有望です。本研究はGEOデータベースを活用し、エクソソーム遺伝子に基づく予測モデルと治療標的同定を試みており、早期診断・個別化医療への応用が期待されます。\n\n4. **腎線維症におけるエクソソームの二面的役割**  \n   腎線維症は慢性腎臓病の末期像であり、有効な治療法がありません。エクソソームは線維化促進と抑制の両方に関与するため、その分子機構の解明と臨床応用が急務です。特に、MSC由来エクソソームによる抗線維化効果は注目されています。\n\n5. **音響圧電刺激によるsEV産生促進と機能制御**  \n   sEVの治療応用には大量生産と機能制御が課題です。本研究は音楽に着想を得た音響圧電刺激を用い、マクロファージ由来sEVの産生促進と治療機能のプログラム制御に成功。再生医療や免疫療法への応用が期待される革新的技術です。\n\nこれらの研究は、エクソソーム・sEVを基盤とした診断・治療の新時代を切り拓くものです。"
+}

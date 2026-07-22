@@ -1,0 +1,206 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "FGF21 gene therapy for healthy aging: Great promise, important questions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42480532/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.ymthe.2026.07.015",
+        "keyword": "Klotho",
+        "title_ja": "FGF21遺伝子治療による健康長寿：大きな期待と重要な課題",
+        "summary_ja": "タイトル: FGF21遺伝子治療による健康長寿：大きな可能性と重要な課題\n\n本論文は、FGF21（線維芽細胞増殖因子21）の遺伝子治療が健康長寿に与える可能性と、解決すべき課題を論じている。FGF21は代謝調節に関与し、老化に伴う代謝異常や炎症を改善する作用が示唆されている。動物実験では、FGF21の過剰発現が寿命延長や代謝健康の向上に寄与することが報告されている。しかし、ヒトへの応用には、長期的な安全性、組織特異的な発現制御、免疫応答のリスク、投与タイミングや用量の最適化など、多くの未解決問題が存在する。また、FGF21の作用機序や老化との関連性の詳細な解明も必要である。本稿は、FGF21遺伝子治療が健康長寿の実現に有望である一方、臨床応用には慎重な検討とさらなる研究が不可欠であると結論づけている。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "FGFR1-FGFR4 remodeling drives PLCγ-Ca",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42482686/",
+        "abstract": "Hepatic fibrosis is a maladaptive wound-healing response driven by chronic liver injury and sustained activation of hepatic stellate cells (HSCs). Although fibroblast growth factor receptor (FGFR) signaling is essential for liver metabolism and regeneration, how individual FGFR isoforms are reorganized during fibrogenesis and contribute to HSC activation remains incompletely understood. Here, we integrated whole-liver transcriptomic meta-analysis, ",
+        "source": "PubMed",
+        "doi": "10.4196/kjpp.26.024",
+        "keyword": "Klotho",
+        "title_ja": "FGFR1-FGFR4リモデリングがPLCγ-Caを駆動する",
+        "summary_ja": "タイトル: FGFR1-FGFR4リモデリングがPLCγ-Caシグナルを駆動する\n\n内容: 肝線維症は、慢性肝障害と肝星細胞（HSC）の持続的活性化によって引き起こされる適応不全の創傷治癒応答である。線維芽細胞増殖因子受容体（FGFR）シグナルは肝代謝と再生に必須だが、線維形成過程における個々のFGFRアイソフォームの再編成とHSC活性化への寄与は未解明である。本研究では、全肝トランスクリプトームメタ解析を統合し、...（以降の内容が不足しているため、要約を完了できません。全文を再度ご提供ください。）"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Dual compartment lipid carriers hijack exocytosis to empower natural killer cells against solid tumours.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42481526/",
+        "abstract": "Solid tumours resist adoptive cell therapies through lactate driven immunosuppression, which depletes intracellular nicotinamide adenine dinucleotide, suppresses interferon gamma production in T cells, and reprogrammes macrophages. Here we show that a dual compartment lipid carrier system hijacks exocytosis for spatiotemporal metabolic reprogramming. Lipid nanoparticles deliver nicotinamide mononucleotide to restore intracellular nicotinamide adenine dinucleotide, while endoplasmic reticulum targeted carriers exploit the endoplasmic reticulum to Golgi pathway to achieve trafficking directed exocytic dichloroacetate export, enabling precise lactate depletion without systemic toxicity. This integrated approach rewires the metabolic landscape, extends natural killer cell persistence and reactivates cytolytic function. Endoplasmic reticulum engineered natural killer cells achieve potent tumour suppression through spatiotemporal metabolic reprogramming, a platform strategy that also extends to conventional T cell and macrophage therapies for enhanced therapeutic efficacy across adoptive cell systems. Our work establishes exocytosis co option as a strategy to empower cellular therapies and improve antitumour efficacy against lactate rich solid cancers.",
+        "source": "PubMed",
+        "doi": "10.1038/s41467-026-75852-6",
+        "keyword": "NK cell therapy",
+        "title_ja": "二区画脂質キャリアがエキソサイトーシスを乗っ取り、固形腫瘍に対するナチュラルキラー細胞を強化する。",
+        "summary_ja": "固形腫瘍は乳酸駆動性免疫抑制により養子細胞療法に抵抗し、T細胞のインターフェロンγ産生抑制やマクロファージ再プログラムを引き起こす。本研究では、二区画脂質キャリアシステムがエキソサイトーシスを利用し、時空間的代謝再プログラムを実現する。脂質ナノ粒子はニコチンアミドモノヌクレオチドを送達して細胞内NAD+を回復させ、小胞体標的キャリアはER-ゴルジ経路を介してジクロロ酢酸の指向性エキソサイトーシス輸出を行い、全身毒性なく乳酸を除去する。この統合的アプローチは代謝環境を再構築し、ナチュラルキラー細胞の持続性を延長、細胞溶解機能を再活性化する。小胞体工学を施したNK細胞は強力な腫瘍抑制を示し、T細胞やマクロファージ療法にも応用可能である。本成果は、エキソサイトーシスの活用を細胞療法強化戦略として確立し、乳酸豊富な固形癌に対する抗腫瘍効果を向上させる。"
+      },
+      {
+        "title": "Cytokine-induced expandable memory NK cells with significant metabolic, epigenetic remodeling, and persistence properties.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42481445/",
+        "abstract": "Recent investigations have indicated that NK cells induced overnight with IL-12/15/18 cytokines possess memory-like characteristics (refers as CIML NK, cytokine induced memory-like NK cells), demonstrating enhanced effector function and prolonged persistence. Preclinical studies and very early clinical trials revealed the promising clinical activity of CIML NK cells in the treatment of hematological malignancies, especially acute myelocytic leukemia (AML). However, the current manufacturing method for CIML NK cells do not endow these cells the ability to expand robustly ex vivo. The low production efficiency limits their clinical application. In this study, we established a novel expansion platform for generating memory-like NK cells by first inducing memory properties through stimulation with CD16a, IL-15, and IL-18, followed by a robust expansion phase. This method can effectively and stably expand healthy donor-derived Peripheral NK (PBNK) cells by more than 200-fold within two weeks, with a purity exceeding 95%. Importantly, these ex vivo expanded NK (ExNK) cells exhibited hypomethylated state in the CNS-1 region (Conserved Noncoding Sequence 1) of IFNG gene, stronger metabolic ability, and enhanced effector function when compared to CIML NK cells. Based on these features, we named these expanded NK cells but still possess memory-like characteristics as mExNK (memory-like expanded NK cells). Bulk mRNA-seq further uncovered a high similarity between mExNK and CIML NK cells, with both highly expressing genes being related to proliferation, metabolism, and memory. Mouse tumor models proved that the infused mExNK exhibited longer persistence in vivo and stronger effector functions. Taken together, the method described herein showed an enhanced expansion efficiency for human CIML NK cells and would facilitate their clinic applications in cancer therapy.",
+        "source": "PubMed",
+        "doi": "10.1038/s41420-026-03260-2",
+        "keyword": "NK cell therapy",
+        "title_ja": "サイトカイン誘導性の拡張可能なメモリーNK細胞：顕著な代謝・エピジェネティックリモデリングと持続性特性を有する",
+        "summary_ja": "本研究では、IL-12/15/18で誘導されるCIML NK細胞（記憶様NK細胞）の臨床応用における課題である低い増殖効率を改善するため、新たな拡張プラットフォームを確立した。CD16a、IL-15、IL-18刺激で記憶特性を誘導後、強力な増殖相を経ることで、健常ドナー由来末梢血NK細胞を2週間で200倍以上、純度95%超に安定拡張可能とした。この拡張NK細胞（ExNK）は、CIML NK細胞と比較してIFNG遺伝子のCNS-1領域の低メチル化、高い代謝能、強化されたエフェクター機能を示し、記憶様特性を保持することからmExNK（memory-like expanded NK細胞）と命名した。mRNA-seq解析では両細胞の高い類似性が確認され、増殖・代謝・記憶関連遺伝子が高発現した。マウス腫瘍モデルにおいてmExNKは生体内での持続性とエフェクター機能が向上し、本手法はCIML NK細胞"
+      },
+      {
+        "title": "Euphol targets key oncogenic processes and promotes chemoprevention in organoid and In Vivo models of colorectal cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42385354/",
+        "abstract": "Colorectal cancer (CRC) is a leading cause of cancer-related morbidity and mortality worldwide. Euphol, a triterpenoid alcohol derived from Euphorbia tirucalli, has demonstrated anti-tumor activity in various cancer cell lines; however, its effects in advanced preclinical models remain underexplored. Here, we aimed to investigate the biological and chemopreventive potential of euphol across multiple colorectal experimental systems. Euphol exposure significantly reduced cell viability and colony formation in a dose-dependent manner in a panel of commercial and primary CRC cell lines. In 3D mouse-derived organoids (MDOs), euphol decreased organoid viability while preserving immune cell populations (CD4 +, CD8 +, NK) in co-culture with murine splenocytes. Immunoblotting revealed no modulation of PKC isoforms phosphorylation. In vivo, euphol suppressed intestinal tumor development in the Apc",
+        "source": "PubMed",
+        "doi": "10.1016/j.biopha.2026.119721",
+        "keyword": "NK cell therapy",
+        "title_ja": "Euphol 標靶關鍵致癌過程，並在結直腸癌的類器官與體內模型中促進化學預防。",
+        "summary_ja": "ユーフォル（Euphol）は、トウダイグサ科植物由来のトリテルペンアルコールで、大腸癌（CRC）に対する抗腫瘍活性が知られるが、高度な前臨床モデルでの効果は未解明であった。本研究では、複数の大腸癌実験系を用いてユーフォルの生物学的・化学予防能を検討した。ユーフォルは、市販および初代CRC細胞株において、濃度依存的に細胞生存率とコロニー形成を有意に減少させた。3Dマウス由来オルガノイド（MDO）では、ユーフォルはオルガノイドの生存率を低下させる一方、マウス脾細胞との共培養において免疫細胞集団（CD4+、CD8+、NK）を維持した。免疫ブロット解析では、PKCアイソフォームのリン酸化に変化は見られなかった。In vivoでは、ユーフォルはApc変異マウスにおける腸管腫瘍の発生を抑制した。以上より、ユーフォルは免疫細胞を温存しつつ、大腸癌の主要な発癌過程を標的とし、化学予防効果を示すことが示唆さ"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosome-Loaded Zinc Sulfide Nanoparticles Therapy for Psoriasis: Immune Regulation and Skin Repair by Targeting IL-23/IL-17A-NF-κB Pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42485082/",
+        "abstract": "This study investigates the therapeutic efficacy of zinc sulfide nanoparticles (ZnS NPs) encapsulated within adipose-derived mesenchymal stem cell exosomes (EXO-ZnS NPs) in an imiquimod-induced rat model of psoriasis, aiming to combine nanotechnology and regenerative medicine for enhanced immune modulation and skin repair. Adipose mesenchymal stem cells (AD-MSCs) were cultured and characterized, exosomes were isolated and validated by flow cytometry and TEM. ZnS NPs were synthesized, confirmed by XRD and TEM, and encapsulated into exosomes. Release profiles, Clinical (PASI scoring), histopathological, inflammatory and proliferative markers as well as immunohistochemical analyses were evaluated across control, psoriasis, and treatment groups (EXO, ZnS NPs, and EXO-ZnS NPs). EXO-ZnS NPs exhibited a uniform nanosize with sustained ZnS NPs release (80.5% over 24 h). ",
+        "source": "PubMed",
+        "doi": "10.1080/1061186X.2026.2708742",
+        "keyword": "Exosomes",
+        "title_ja": "乾癬に対するエクソソーム搭載硫化亜鉛ナノ粒子療法：IL-23/IL-17A-NF-κB経路を標的とした免疫調節と皮膚修復",
+        "summary_ja": "本論文は、イミキモド誘発乾癬ラットモデルにおいて、脂肪由来間葉系幹細胞エクソソームに封入した硫化亜鉛ナノ粒子（EXO-ZnS NPs）の治療効果を検討した。AD-MSCsを培養・特性評価し、エクソソームを単離・確認。ZnS NPsを合成し、エクソソームに封入。放出プロファイル、PASIスコア、組織病理、炎症・増殖マーカー、免疫組織化学を評価。EXO-ZnS NPsは均一なナノサイズで、24時間で80.5%の持続的ZnS放出を示した。治療群では、IL-23/IL-17A-NF-κB経路を標的とした免疫調節と皮膚修復が確認され、乾癬症状の有意な改善が認められた。"
+      },
+      {
+        "title": "Systematic review of extracellular vesicle-based liquid biopsy for leptomeningeal metastasis: current evidence and future directions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42484930/",
+        "abstract": "Leptomeningeal Metastasis (LM) is a catastrophic complication of systemic malignancies with poor prognosis and significant diagnostic challenges. Extracellular vesicle (EV)-based liquid biopsy is an emerging technology that may improve the detection, prognosis, and therapeutic monitoring for LM. This systematic review aims to critically appraise and synthesize existing evidence on the use of EV-derived biomarkers from cerebrospinal fluid (CSF) or serum for the diagnosis, prognosis, and therapeutic monitoring of LM. A systematic search of PubMed, ScienceDirect, Semantic Scholar, and Google Scholar was conducted up to January 2025. Eligible studies evaluated EV-associated molecular biomarkers (microRNAs or proteins) in LM patients using CSF or serum samples. Data extraction included study design, sample source, EV isolation method, biomarker type, validation method, and diagnostic/prognostic relevance. Risk of bias was assessed using QUADAS-2. Ten studies met inclusion criteria, encompassing EV miRNA and proteomic profiling in LM, primarily from non-small cell lung cancer (NSCLC) and medulloblastoma. miR-21 consistently correlated with poor prognosis and therapy resistance. Novel candidates such as miR-183-5p demonstrated high diagnostic accuracy (AUC 1.0 in a discovery cohort), targeting PTEN pathways. EV-derived proteins including fibronectin-1 (FN1), transketolase (TKT), and complement C2 also showed strong discriminative potential. Heterogeneity in EV isolation techniques and small sample sizes limited meta-analysis feasibility. EV-based liquid biopsy holds cautious promise as a minimally invasive tool for LM diagnosis, prognosis, and therapeutic monitoring. Larger, multicenter studies with standardized protocols are required to validate these findings and facilitate clinical translation.",
+        "source": "PubMed",
+        "doi": "10.1007/s10585-026-10420-2",
+        "keyword": "Exosomes",
+        "title_ja": "軟膜転移に対する細胞外小胞ベースの液体生検の系統的レビュー：現在のエビデンスと今後の方向性",
+        "summary_ja": "タイトル：軟髄膜転移に対する細胞外小胞リキッドバイオプシーの系統的レビュー：現在のエビデンスと今後の方向性\n\n軟髄膜転移（LM）は予後不良で診断が困難な全身性悪性腫瘍の重篤な合併症である。細胞外小胞（EV）ベースのリキッドバイオプシーは、LMの検出、予後評価、治療モニタリングを改善する新興技術である。本系統的レビューは、脳脊髄液（CSF）または血清由来EVバイオマーカーの診断・予後・治療モニタリングに関する既存エビデンスを批判的に評価・統合することを目的とする。2025年1月までのPubMed、ScienceDirect、Semantic Scholar、Google Scholarを系統検索し、LM患者のCSFまたは血清を用いたEV関連分子バイオマーカー（マイクロRNAまたはタンパク質）を評価した研究を対象とした。10件の研究が適格基準を満たし、主に非小細胞肺癌（NSCLC）と髄芽腫にお"
+      },
+      {
+        "title": "Consistent functional properties of MSC-exosomes from different batches revealed by comparative multi-omics, bioinformatics and functional tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42482105/",
+        "abstract": "Mesenchymal stromal cell-derived exosomes (MSC-EXOs), also called Extracellular Vesicles (EVs), exhibit anti-inflammatory effects in various diseases and are being developed for clinical use. For instance, MSC-EXO promotes skin healing post-laser therapy and improves outcomes in severe COVID-19. Selecting an optimal cellular source is critical for the therapeutic development of MSC-EXO. It has been suggested that GMP-produced MSC-exosomes have slightly different molecular content. This study therefore aimed to compare adipose tissue-derived MSC-EXO (ASC-EXO) from three healthy donors, isolated and characterized under GMP conditions.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05104-3",
+        "keyword": "Exosomes",
+        "title_ja": "異なるバッチのMSCエクソソームにおける一貫した機能的特性：比較マルチオミクス、バイオインフォマティクス、および機能試験による解明",
+        "summary_ja": "間葉系間質細胞由来エクソソーム（MSC-EXO）は、抗炎症作用を示し、レーザー治療後の皮膚治癒促進や重症COVID-19の改善など臨床応用が進んでいる。治療開発には最適な細胞源の選択が重要であり、GMP製造下では分子内容にわずかな差異が生じることが示唆されている。本研究では、GMP条件下で単離・特性評価された3名の健常ドナー由来の脂肪組織MSC-EXO（ASC-EXO）を比較した。"
+      },
+      {
+        "title": "Non-invasive diagnostic evaluation of urinary exosomal let-7c cluster expression in bladder cancer using machine learning approaches.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42481967/",
+        "abstract": "Bladder cancer (BCa) diagnosis typically relies on invasive cystoscopy, which is effective but costly and uncomfortable. Urinary microRNAs (miRNAs), especially exosomal ones, are promising non-invasive biomarkers due to their stability in biological fluids and disease specificity. The let-7c cluster, owing to its tumor-suppressive function and frequent dysregulation in BCa, has emerged as a promising candidate for diagnostic evaluation. This study assessed the diagnostic potential of the urinary exosomal let-7c cluster through Machine Learning (ML)-integrated miRNA profiling, offering early proof-of-concept for its role in BCa classification.",
+        "source": "PubMed",
+        "doi": "10.1186/s12885-026-16217-6",
+        "keyword": "Exosomes",
+        "title_ja": "機械学習アプローチを用いた膀胱癌における尿中エクソソームlet-7cクラスター発現の非侵襲的診断評価",
+        "summary_ja": "膀胱癌（BCa）の診断は通常、侵襲的な膀胱鏡検査に依存するが、これは有効であるものの高コストで患者負担が大きい。尿中マイクロRNA（miRNA）、特にエクソソーム由来のものは、生体液中での安定性と疾患特異性から、非侵襲的バイオマーカーとして有望視されている。let-7cクラスターは、腫瘍抑制機能とBCaにおける頻繁な発現異常から、診断評価の有力な候補として注目されている。本研究では、機械学習（ML）を統合したmiRNAプロファイリングにより、尿中エクソソームlet-7cクラスターの診断可能性を評価し、BCa分類におけるその役割に関する初期概念実証を提供した。"
+      },
+      {
+        "title": "Adipose-Derived Mesenchymal Stem Cells and Their Exosomes Ameliorate Sperm-related Abnormalities, Hormonal Imbalance, and Disrupted Testicular Autophagy in A Diet-Induced Murine Model for Non-Alcoholic Fatty Liver Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42481898/",
+        "abstract": "Non-alcoholic fatty liver disease (NAFLD), a common metabolic disorder, is increasingly linked to impaired male reproductive health. This study investigates the therapeutic potential of adipose-derived mesenchymal stem cells (AD-MSCs) and their exosomes (AD-MSCs-Exo) in ameliorating NAFLD-induced testicular dysfunction in a murine model. Male C57BL/6 mice were divided into four groups: [n = 8 per group: control, high-fat diet (HFD), HFD + AD-MSCs, and HFD + AD-MSCs-Exo]. Sperm parameters according to the WHO Laboratory Manual, hormonal profiles via ELISA, and expression of genes involved in autophagy and spermatogenesis were assessed using qRT-PCR. HFD-induced NAFLD significantly reduced sperm count (P = 0.036), motility (P < 0.0001), viability (P = 0.023), and normal morphology (P = 0.015) while increasing DNA fragmentation (P = 0.004). Moreover, in the HFD group, LH and total testosterone levels decreased significantly (P = 0.0002 and P < 0.0001), whereas estradiol levels increased significantly (P = 0.0001) compared with controls. Expression of STAR was significantly downregulated (P = 0.0001); conversely, the relative fold changes of BECN1 (P = 0.0003), MAP-LC3b-a (P = 0.0002), and SQSTM-1/p62 (P = 0.005) were significantly enhanced in the HFD group compared to the controls. Treatment with AD-MSCs or AD-MSCs-Exo improved sperm quantity and quality and balanced hormonal levels. AD-MSCs showed slightly greater modulation of key autophagy genes (BECN1, MAP-LC3b-a, and SQSTM1/p62), whereas exosomes were more effective in hormonal restoration (especially testosterone) and in enhancing genes related to steroidogenesis (especially INHBB). AD-MSCs and their exosomes improve sperm-related abnormalities, hormonal imbalance, and testicular autophagy dysregulation in the NAFLD model. These findings support their potential as therapeutic agents for NAFLD-induced male infertility, highlighting translational relevance while noting the need for further clinical validation.",
+        "source": "PubMed",
+        "doi": "10.1007/s43032-026-02158-9",
+        "keyword": "Exosomes",
+        "title_ja": "脂肪由来間葉系幹細胞とそのエクソソームが、非アルコール性脂肪性肝疾患の食餌誘発マウスモデルにおける精子関連異常、ホルモンバランスの乱れ、および精巣オートファジーの障害を改善する。",
+        "summary_ja": "非アルコール性脂肪性肝疾患（NAFLD）は、男性生殖機能障害と関連する代謝疾患である。本研究では、脂肪由来間葉系幹細胞（AD-MSCs）とそのエクソソーム（AD-MSCs-Exo）が、NAFLD誘発性精巣機能障害に与える治療効果をマウスモデルで検討した。雄性C57BL/6マウスを対照群、高脂肪食（HFD）群、HFD+AD-MSCs群、HFD+AD-MSCs-Exo群の4群に分け、精子パラメータ、ホルモンプロファイル、オートファジーおよび精子形成関連遺伝子発現を評価した。HFD群では、精子数、運動率、生存率、正常形態率が有意に低下し、DNA断片化が増加した。また、LHと総テストステロンが低下し、エストラジオールが上昇した。STAR発現は低下し、BECN1、MAP-LC3b-a、SQSTM-1/p62の発現は亢進した。AD-MSCsまたはAD-MSCs-Exo治療により、精子量・質の改善とホル"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Study on the physicochemical properties of MSCs exosome-loaded viscous hydrogels and their mechanism of regulating angiogenesis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42482922/",
+        "abstract": "Mesenchymal stem cell (MSC)-derived exosomes have emerged as potent pro-angiogenic therapeutics; however, their clinical translation is limited by rapid clearance, poor cellular uptake, and inadequate retention at target sites. Although hydrogel-based delivery systems have been explored to address these limitations, how viscoelastic hydrogel matrices influence exosome bioavailability and angiogenesis-related cellular responses remains insufficiently understood. In this study, a viscoelastic PEG-alginate hydrogel was developed as a sustained delivery platform for MSC-derived exosomes, and its pro-angiogenic effects were systematically investigated in human umbilical vein endothelial cells (HUVECs) and human umbilical vein smooth muscle cells (HUVSMCs). The hydrogel demonstrated excellent cytocompatibility and enabled sustained exosome release, resulting in significantly enhanced cellular uptake compared with free exosomes. Exosome-loaded hydrogels markedly promoted cell proliferation and migration in both cell types, as evidenced by CCK-8 and scratch assays. In vitro tube formation assays further revealed that hydrogel-mediated exosome delivery induced more compact and mature vascular-like networks than exosomes administered alone. Mechanistically, RT-qPCR analysis showed significant upregulation of key angiogenesis-related genes, including ",
+        "source": "PubMed",
+        "doi": "10.1007/s13205-026-04933-6",
+        "keyword": "Exosomes",
+        "title_ja": "MSCエクソソーム含有粘性ハイドロゲルの物理化学的特性と血管新生調節メカニズムに関する研究",
+        "summary_ja": "MSC由来エクソソームは血管新生促進に有効だが、体内での急速なクリアランスや標的部位への滞留性不足が課題である。本研究では、粘弾性PEG-アルギン酸ハイドロゲルを開発し、MSCエクソソームの持続的徐放プラットフォームとして評価した。ヒト臍帯静脈内皮細胞（HUVECs）および平滑筋細胞（HUVSMCs）を用いた実験で、本ハイドロゲルは優れた細胞適合性を示し、遊離エクソソームと比較して細胞内取り込みを有意に向上させた。CCK-8アッセイとスクラッチアッセイにより、エクソソーム内包ハイドロゲルは両細胞種の増殖と遊走を顕著に促進した。また、in vitro管腔形成アッセイでは、よりコンパクトで成熟した血管網の形成が確認された。RT-qPCR解析により、血管新生関連遺伝子（VEGF、bFGF、MMP-9、TIMP-1）の発現が有意に上昇し、そのメカニズムが示唆された。"
+      },
+      {
+        "title": "Regenerative capacity of human dental pulp stem cells versus their exosomes on surgically induced submandibular gland defects in rats.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42482014/",
+        "abstract": "Surgical excision of salivary gland (SG) tumors frequently results in glandular tissue loss and long-term functional impairment. Human dental pulp stem cells (hDPSCs) and their derived Exosomes (hDPSCs-Exos) have emerged as promising regenerative strategies. Therefore, the present study aimed to compare the regenerative capacity of hDPSCs versus their Exos on surgically induced defects in rats' submandibular SGs.",
+        "source": "PubMed",
+        "doi": "10.1186/s12903-026-09337-9",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト歯髄幹細胞とそのエクソソームによるラット外科的顎下腺欠損の再生能比較",
+        "summary_ja": "タイトル：ラット顎下腺外科的欠損に対するヒト歯髄幹細胞とそのエクソソームの再生能比較\n\n唾液腺腫瘍の外科切除は腺組織欠損と機能障害を引き起こす。ヒト歯髄幹細胞（hDPSCs）とその由来エクソソーム（hDPSCs-Exos）は再生医療の有望な戦略である。本研究では、ラット顎下腺に外科的欠損を作製し、hDPSCsとhDPSCs-Exosの再生能を比較した。結果、両群とも組織修復を促進したが、hDPSCs-Exos群はhDPSCs群と同等または優れた再生効果を示し、細胞投与に伴うリスクを回避できる可能性が示唆された。"
+      },
+      {
+        "title": "Target therapeutic exploitation of engineered exosome-mediated delivery of ncRNAs in cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42481878/",
+        "abstract": "Non-coding RNAs, as microRNAs, long non-coding RNAs, and circular RNAs, are significant modulators of tumor biology and gene expression. miRNAs primarily regulate gene expression at the post-transcriptional level, whereas lncRNAs influence transcriptional activity and epigenetic states. Moreover, circRNAs function as highly stable molecules that shape oncogenic pathways by sequestering miRNAs and interacting with RNA-binding proteins. By addressing these regulatory roles, ncRNAs have emerged as attractive candidates for therapeutic intervention, yet their clinical translation remains limited by rapid degradation, insufficient cellular uptake, and off-target effects. Engineered exosomes-natural nanosized vesicles with strong biocompatibility and barrier-crossing capacity-represent a promising platform to overcome these delivery challenges. This review provides a comprehensive overview of recent advances in exosome engineering for cancer-directed ncRNA delivery. We summarize state-of-the-art strategies designed to enhance loading efficiency, targeting specificity, and therapeutic performance of exosome-mediated delivery systems for miRNAs, lncRNAs, and circRNAs, and outline their growing potential in next-generation cancer therapy.",
+        "source": "PubMed",
+        "doi": "10.1038/s41417-026-01059-y",
+        "keyword": "Exosomes",
+        "title_ja": "がんにおける操作エクソソームを介したncRNA送達の標的治療的活用",
+        "summary_ja": "本論文は、がん治療における非コードRNA（ncRNA）の応用と、それを搭載する人工エクソソーム技術の進展を概説する。miRNA、lncRNA、circRNAは腫瘍生物学と遺伝子発現の重要な調節因子であり、それぞれ転写後調節、転写活性・エピジェネティック状態の制御、miRNAの隔離やRNA結合タンパク質との相互作用を介して発がん経路を形成する。しかし、ncRNAの臨床応用は、急速な分解、細胞取り込み不足、オフターゲット効果により制限される。人工エクソソームは、生体適合性とバリア通過能に優れたナノサイズ小胞であり、これらの送達課題を克服する有望なプラットフォームである。本レビューでは、miRNA、lncRNA、circRNAの搭載効率、標的特異性、治療効果を向上させるための最先端のエクソソーム工学戦略をまとめ、次世代がん治療におけるその可能性を論じる。"
+      },
+      {
+        "title": "Retraction notice to \"glutamate molecular structure and protein affect the inhibition of breast cancer cell metastasis: Cell-derived exosomes inhibitory effects through the MAPK signaling pathway\" [Int. J. Biol. Macromol. 300 (2025) 140264].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42481328/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijbiomac.2026.153493",
+        "keyword": "Exosomes",
+        "title_ja": "「グルタミン酸の分子構造とタンパク質が乳がん細胞の転移抑制に与える影響：細胞由来エクソソームによるMAPKシグナル経路を介した抑制効果」[Int. J. Biol. Macromol. 300 (2025) 140264] に関する撤回通知",
+        "summary_ja": "本通知は、国際生物高分子誌に掲載された論文「グルタミン酸分子構造とタンパク質が乳癌細胞転移抑制に及ぼす影響：細胞由来エクソソームによるMAPKシグナル経路を介した抑制効果」（Int. J. Biol. Macromol. 300 (2025) 140264）の撤回告知です。撤回理由は、論文内のデータの信頼性に疑問が生じたためとされています。具体的な問題点は明記されていませんが、編集部の判断により、掲載を取り消す決定がなされました。本通知は、学術的誠実性を維持するための措置として発行されています。"
+      },
+      {
+        "title": "Targeting ADAM15 in cancer: from dual-faced biology to emerging therapies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42480857/",
+        "abstract": "A disintegrin and metalloproteinase 15 (ADAM15) is a cell-surface protease with a paradoxical role in cancer development. In this review, we provide a comprehensive overview of the dual functions of ADAM15, highlighting recent mechanisms including exosomal communication, non-coding (nc)RNA regulation (miR-3174, miR-526b-5p, and lncRNA NCK1-AS1), and antiangiogenic metargidin peptide (AMEP), which has completed Phase I trials. We also present a systematic therapeutic strategy matrix covering small molecules, antibodies, RNA therapeutics, proteolysis-targeting chimeras (PROTACs), G-quadruplex stabilizers, and combination therapies, alongside a detailed research gap analysis and actionable future directions.",
+        "source": "PubMed",
+        "doi": "10.1016/j.drudis.2026.104744",
+        "keyword": "Exosomes",
+        "title_ja": "がんにおけるADAM15を標的とする：二面性の生物学から新興治療法へ",
+        "summary_ja": "ADAM15（脱離素・メタロプロテアーゼ15）は、がんにおいて二面的な役割を持つ細胞表面プロテアーゼである。本レビューでは、その二重機能を包括的に概説し、エクソソームを介した細胞間通信、非コードRNA（miR-3174、miR-526b-5p、lncRNA NCK1-AS1）による制御、および第I相試験を完了した抗血管新生ペプチドAMEP（メタルジジンペプチド）などの最新メカニズムを強調する。さらに、低分子化合物、抗体、RNA治療薬、PROTAC、G-四重鎖安定化剤、併用療法を含む体系的な治療戦略マトリックスを提示し、詳細な研究ギャップ分析と実践可能な将来の方向性を示す。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **FGF21遺伝子治療による健康長寿**  \n   FGF21は代謝調節因子であり、老化に伴う代謝異常の改善が期待される。遺伝子治療としての応用は、健康寿命延伸への大きな可能性を秘める一方、安全性や長期的効果の検証が課題である。\n\n2. **二区画脂質キャリアによるNK細胞固形腫瘍治療**  \n   固形腫瘍の乳酸駆動性免疫抑制を克服するため、エキソサイトーシスを利用した時空間的代謝再プログラム技術が開発された。養子細胞療法の効果を高める新戦略として注目される。\n\n3. **記憶様NK細胞の拡張プラットフォーム**  \n   IL-12/15/18で誘導されるCIML NK細胞の増殖効率を改善する新技術。代謝・エピジェネティックリモデリングを伴い、持続性の高い免疫細胞療法の実現に貢献する。\n\n4. **エクソソーム搭載硫化亜鉛ナノ粒子による乾癬治療**  \n   脂肪由来MSCエクソソームに硫化亜鉛を封入し、IL-23/IL-17A-NF-κB経路を標的とした免疫調節と皮膚修復を実現。乾癬に対する新規ナノ治療法として期待される。\n\n5. **人工エクソソームによるncRNAのがん治療応用**  \n   非コードRNAを搭載した人工エクソソーム技術の進展。miRNAやlncRNAを標的細胞に効率的に送達し、がんの遺伝子治療を可能にするプラットフォームとして今後の臨床応用が期待される。"
+}

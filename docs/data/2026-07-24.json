@@ -1,0 +1,175 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "A Blood-Derived Factor Rescues ALS: Platelet Factor 4 Activates OPTN-Dependent Autophagy to Clear SOD1 Aggregates Independently of PINK1.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42489267/",
+        "abstract": "Peripheral factors that systemically regulate amyotrophic lateral sclerosis (ALS) have remained elusive-until now. Here, by integrating population-scale epidemiology with mechanistic dissection, we identify platelet factor 4 (PF4) as the central driver of a circulating neuroprotective axis that restores proteostasis and rescues ALS. In a prospective cohort of >500 000 UK Biobank participants, platelet indices were strongly associated with ALS risk, and serum PF4 levels were significantly reduced in ALS patients. Systemic administration of recombinant PF4 in hSOD1",
+        "source": "PubMed",
+        "doi": "10.1002/advs.76778",
+        "keyword": "PF4",
+        "title_ja": "血液由来因子がALSを救う：血小板第4因子はPINK1非依存的にOPTN依存性オートファジーを活性化しSOD1凝集体を除去する",
+        "summary_ja": "本論文は、ALS（筋萎縮性側索硬化症）の全身性調節因子として血小板第4因子（PF4）を同定した研究である。UKバイオバンクの50万人以上の前向きコホート解析により、血小板指標とALSリスクの強い関連、およびALS患者における血清PF4レベルの有意な低下が示された。hSOD1変異ALSモデルマウスへの組換えPF4全身投与は、OPTN依存性オートファジーを活性化し、SOD1凝集体を除去することで神経保護効果を発揮した。この作用はPINK1非依存的であり、PF4が循環性の神経保護軸の中心的因子としてプロテオスタシスを回復させ、ALSを改善することを明らかにした。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Multi-omics and genetic prioritization identify candidate molecular links between micro- and nanoplastics-associated signatures and chronic kidney disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42489834/",
+        "abstract": "Micro- and nanoplastics (MNPs) have been detected in human renal and urinary tissues and are increasingly recognized as potential environmental contributors to kidney injury and chronic kidney disease (CKD), but the molecular signatures connecting MNP-associated toxicogenomic signals with CKD remain poorly understood. In this study, we employed an integrative analytical framework combining toxicity prediction, toxicogenomic target analysis, transcriptomic analysis, machine learning, transcriptome-wide Mendelian randomization, single-nucleus RNA sequencing, and targeted in vitro expression validation to investigate candidate molecular links between MNP-associated toxicogenomic signatures and CKD. Among MNP monomers with available SMILES notations, PVC, PMMA, PP, and PS showed moderate predicted nephrotoxicity, whereas PE showed a borderline score and PET showed a lower predicted score. We identified 58 shared candidate genes between MNP-associated targets and CKD-related genes, which were mainly enriched in inflammatory and oxidative stress-related pathways. A machine learning model based on these features showed discriminative performance in training and external validation CKD datasets. Transcriptome-wide MR analyses prioritized several genes, including TGFB1, CTNNB1, PF4, and NR3C2, whose genetically predicted expression was associated with CKD risk, although colocalization evidence was limited. Single-nucleus analysis highlighted proximal tubular, endothelial, podocyte, and monocyte-lineage cells as CKD-relevant renal compartments. Exploratory molecular docking provided computational binding hypotheses between selected MNP monomeric units and candidate proteins. Targeted qRT-PCR validation further showed that PS-MP exposure increased the expression of profibrotic markers and altered the expression of selected candidate genes in proximal tubular epithelial cells. Overall, this study provides an integrative, systems-level characterization of candidate molecular links between MNP-associated toxicogenomic signatures and CKD. These findings highlight candidate genes, pathways, and CKD-relevant renal cell types, offering hypothesis-generating insights into environmentally related kidney injury and providing preliminary expression-level experimental support for selected prioritized genes.",
+        "source": "PubMed",
+        "doi": "10.1007/s11030-026-11671-7",
+        "keyword": "PF4",
+        "title_ja": "マルチオミクスと遺伝子優先順位付けにより、マイクロ・ナノプラスチック関連シグネチャーと慢性腎臓病の間の候補分子リンクが特定される。",
+        "summary_ja": "本論文は、マイクロ・ナノプラスチック（MNPs）と慢性腎臓病（CKD）の分子関連を解明するため、毒性予測、トキシコゲノミクス、トランスクリプトーム解析、機械学習、トランスクリプトームワイドメンデルランダム化（MR）、シングルヌクレオミクスRNA-seq、in vitro発現検証を統合した解析を実施した。PVC、PMMA、PP、PSは中等度の腎毒性を示し、PEは境界値、PETは低値を示した。MNP関連標的とCKD関連遺伝子の共有58遺伝子は炎症・酸化ストレス経路に濃縮され、機械学習モデルはCKDデータセットで識別能を示した。MR解析ではTGFB1、CTNNB1、PF4、NR3C2がCKDリスクと関連したが、共局在の証拠は限定的だった。シングルヌクレオミクス解析は近位尿細管、内皮、ポドサイト、単球系細胞をCKD関連腎コンパートメントとして特定。分子ドッキングでMNP単量体と候補タンパク質の結合"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Multiplexed Detection of Breast Cancer-Specific miRNA and Protein Biomarkers on Exosomes Using a Microfluidic Platform.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42489259/",
+        "abstract": "Exosomes, rich in diverse bioactive molecules, have emerged as a promising \"liquid biopsy\" approach for early cancer screening. However, relying solely on a single biomarker type can easily lead to missed diagnoses or misjudgments. Therefore, there is an urgent need to develop multiple biomarkers detection strategies to facilitate precise diagnosis. Herein, a microfluidic chip integrating two signals (ALP-driven chemiluminescence and nanobeacons-based fluorescence) into a single device was developed using breast cancer exosomes as a model. A simple sample injection enabled capture and quantitative detection of exosomal surface proteins (CD63, EpCAM, HER2) and internal miRNAs (miRNA-21, miRNA-375). After capture, protein levels were determined by driving magnetic beads and capturing images with a smartphone. Prefabricated nanobeacons were then directly introduced into the chip, enabling miRNA signal detection without RNA extraction. This five-marker biomarker panel achieved a diagnostic accuracy of 99.6% in breast cancer identification, representing an improvement of at least 4.6% over single-marker approaches and an 8.6% increase over any individual biomarker. This multitarget exosome analysis platform may provide a highly sensitive, low-cost, and easily scalable novel tool for breast cancer early diagnosis and treatment efficacy assessment.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.6c02416",
+        "keyword": "Exosomes",
+        "title_ja": "マイクロ流体プラットフォームを用いたエクソソーム上の乳がん特異的miRNAおよびタンパク質バイオマーカーの多重検出",
+        "summary_ja": "本論文では、乳がんエクソソームをモデルに、単一バイオマーカーによる診断の限界を克服するため、マイクロ流体チップ上でALP駆動化学発光とナノビーコン蛍光の2信号を統合したマルチプレックス検出プラットフォームを開発した。サンプル注入のみで、エクソソーム表面タンパク質（CD63、EpCAM、HER2）と内部miRNA（miRNA-21、miRNA-375）の捕捉・定量を実現。タンパク質は磁気ビーズ駆動後、スマートフォンで画像取得し定量。miRNAはRNA抽出不要でナノビーコンを直接導入し検出した。5種バイオマーカーパネルは乳がん識別において99.6%の診断精度を達成し、単一マーカーより少なくとも4.6%、個別バイオマーカーより8.6%向上した。本マルチターゲットエクソソーム解析プラットフォームは、高感度・低コストで拡張可能な乳がん早期診断・治療効果評価の新規ツールとなり得る。"
+      },
+      {
+        "title": "Limited Efficacy of Autologous Mesenchymal Stromal Cell Injections in Immunomodulatory-Dependent Dogs With Aqueous Deficient Dry Eye Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42487272/",
+        "abstract": "Aqueous deficient dry eye disease (ADDE) results from a quantitative reduction in aqueous tears. We sought to determine the clinical effect of autologous mesenchymal stromal cell (MSC) injections into the region of the lacrimal gland and the gland of the third eyelid in immunomodulatory-dependent ADDE-affected dogs.",
+        "source": "PubMed",
+        "doi": "10.1111/vop.70233",
+        "keyword": "Exosomes",
+        "title_ja": "自己由来間葉系間質細胞注射による免疫調節依存性犬の水様性乾性角結膜炎に対する限定的な有効性",
+        "summary_ja": "タイトル：免疫調節依存性の水性涙液不足型ドライアイ疾患（ADDE）を有する犬における自家間葉系間質細胞（MSC）注射の限定的有効性\n\n内容：ADDEは水性涙液の量的減少により生じる。本研究では、免疫調節依存性のADDE罹患犬を対象に、涙腺および第三眼瞼腺領域への自家MSC注射の臨床効果を評価した。結果、MSC注射は限定的な有効性を示すにとどまり、免疫調節依存性ADDEに対する根本的な治療効果は確認されなかった。"
+      },
+      {
+        "title": "Fucoidan-based microneedle patch for delivery of IGF1-loaded exosomes in diabetic wound therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42487093/",
+        "abstract": "Diabetic wounds often lead to significant therapeutic challenges due to impaired vascularization, chronic inflammation, and poor drug penetration. This study presents a polyallylamine hydrochloride-fucoidan (PAH.Fc) hydrogel-based microneedle patch for site specific delivery of IGF1-incorporated exosomal vesicles obtained from adipose-derived stem cells (ADSC-Exos) to diabetic wounds. The average size of IGF1-loaded ADSC-Exos was measured as 261.81 nm. The fabricated microneedles exhibited swelling ratios between 228.0% and 247.1%, with a degradation rate of 47.56% after 7 days of immersion in PBS. IGF1 release was sustained and time-dependent, reaching 89.25 ± 4.60% over 168 h. MTT assay confirmed cytocompatibility, with HaCaT cell viability exceeding 80% across all groups. Nile Red labeling demonstrated efficient cellular uptake of both ADSC-Exos and IGF1-loaded ADSC-Exos by HaCaT cells, and CAM assay results revealed that the PAH.Fc/IGF1 Exos induced the highest angiogenic response among tested groups. In vivo studies using a hyperglycemic rat model showed near-complete wound closure within 14 days in the PAH.Fc/IGF1 Exo-treated group, accompanied by elevated expression of VEGF and TGF-β and reduced levels of pro-inflammatory markers TNF-α and IL-1β. Collectively, these findings demonstrate that the PAH.Fc/IGF1 Exo microneedle patch offers optimized local delivery of bioactive cargo and holds strong therapeutic potential for chronic wound management, particularly in diabetic wound healing.",
+        "source": "PubMed",
+        "doi": "10.1007/s13346-026-02188-5",
+        "keyword": "Exosomes",
+        "title_ja": "フコイダンベースのマイクロニードルパッチを用いた、IGF1搭載エクソソームの糖尿病性創傷治療への応用",
+        "summary_ja": "本論文は、糖尿病性創傷治療のための新規マイクロニードルパッチを報告する。ポリアリルアミン塩酸塩-フコイダン（PAH.Fc）ハイドロゲルを用い、IGF1を内包した脂肪由来幹細胞エクソソーム（ADSC-Exos）を局所送達する。IGF1搭載ADSC-Exosの平均粒径は261.81 nm。マイクロニードルは228.0–247.1%の膨潤率を示し、7日間で47.56%分解。IGF1放出は持続的で168時間で89.25%に達した。MTTアッセイでHaCaT細胞生存率80%以上を確認。CAMアッセイではPAH.Fc/IGF1 Exos群が最高の血管新生応答を示した。高血糖ラットモデルでは、同群が14日以内に創傷をほぼ完全閉鎖し、VEGF・TGF-β発現上昇、TNF-α・IL-1β低下を認めた。本パッチは慢性創傷、特に糖尿病性創傷治療に有望である。"
+      },
+      {
+        "title": "Nanoparticle-driven macrophage polarization as a therapeutic strategy for chronic diabetic wounds.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42485759/",
+        "abstract": "Chronic diabetic wounds, including diabetic foot ulcers, present significant clinical challenges due to persistent inflammation, oxidative stress, impaired angiogenesis, infection, and defective tissue regeneration. Central to these pathological features is macrophage dysfunction, wherein immune cells become locked in a pro-inflammatory state that impedes the transition to reparative phenotypes necessary for resolution of inflammation and tissue repair. Nanomedicine-based strategies have emerged as promising approaches to restore macrophage plasticity and promote regenerative healing. Multifunctional nanotherapeutic platforms including antioxidant nanozymes, extracellular vesicle- and exosome-based delivery systems, oxygen-generating and gasotransmitter-releasing materials, infection-controlling nanoparticles, plant-derived bioactive nanomedicines, and advanced hydrogel or scaffold-based carriers have demonstrated the ability to modulate oxidative stress, mitochondrial function, inflammasome activation, immunometabolism, efferocytosis, and intercellular communication. By reprogramming macrophages toward pro-regenerative states, these interventions facilitate angiogenesis, extracellular matrix remodeling, and epithelial restoration, effectively converting a hostile wound microenvironment into a tissue-repair permissive niche. This review highlights recent advances in nanoparticle-driven macrophage polarization for diabetic wound healing, detailing the molecular mechanisms, therapeutic platforms, and regenerative outcomes, while also discussing translational challenges including biological complexity, biosafety, manufacturing, and preclinical model limitations. Future perspectives emphasize precision immunomodulation, biomarker-guided patient stratification, and clinically translatable nanomedicine strategies to optimize chronic wound repair.",
+        "source": "PubMed",
+        "doi": "10.1016/j.intimp.2026.117161",
+        "keyword": "Exosomes",
+        "title_ja": "ナノ粒子によるマクロファージ極性制御を活用した慢性糖尿病性創傷の治療戦略",
+        "summary_ja": "慢性糖尿病創傷（糖尿病足潰瘍など）は、持続的な炎症、酸化ストレス、血管新生障害、感染、組織再生不全により臨床的に課題が多い。その中心にマクロファージ機能不全があり、免疫細胞が炎症促進状態に固定され、修復表現型への移行が阻害される。ナノ医療戦略はマクロファージの可塑性を回復し、再生治癒を促進する有望なアプローチとして注目される。抗酸化ナノザイム、細胞外小胞・エクソソーム送達系、酸素発生・ガス伝達物質放出材料、感染制御ナノ粒子、植物由来バイオ活性ナノ医薬、先進ハイドロゲル・足場担体など多機能ナノ治療プラットフォームは、酸化ストレス、ミトコンドリア機能、インフラマソーム活性化、免疫代謝、エフェロサイトーシス、細胞間コミュニケーションを調節する。これらはマクロファージを再生促進状態に再プログラムし、血管新生、細胞外マトリックス再構築、上皮修復を促進し、創傷微小環境を組織修復許容環境に変換する。本総"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Engineering Magnetic Beads for Affinity Enrichment of Exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42487739/",
+        "abstract": "Exosomes play a crucial role in intercellular communication and disease diagnostics, yet their affinity enrichment remains challenging due to the heterogeneous expression of surface markers. To address this, we engineered a recombinant fusion protein, ExoBp, designed to bind multiple exosome surface biomarkers through integrated peptide motifs and protein domains with sterically unhindered conformation revealed by structure prediction. The constructed protein was expressed but required denaturing conditions for purification. Despite refolding challenges, ExoBp was successfully immobilized onto streptavidin-coated magnetic beads in its denatured state, followed by on-bead refolding to restore functionality. The resulting ExoBp magnetic beads demonstrated efficient exosome binding, as confirmed by the detection of exosomal markers after coincubation with exosome derived from different types of cells. Both dialysis- and dilution-based refolding methods yielded stable ExoBp-bead complexes with retained binding capacity. This study presents a novel, affinity-based exosome enrichment tool leveraging multitarget binding, offering a promising platform for exosome isolation and downstream biomedical applications.",
+        "source": "PubMed",
+        "doi": "10.34133/csbj.0170",
+        "keyword": "Exosomes",
+        "title_ja": "アフィニティーエンリッチメントによるエクソソーム精製のための磁気ビーズ工学",
+        "summary_ja": "本論文は、エクソソームの親和性濃縮の課題に対し、新規組換え融合タンパク質ExoBpを設計・評価した研究である。ExoBpは、構造予測に基づき立体障害のない立体配座を持ち、複数のペプチドモチーフとタンパク質ドメインを介してエクソソーム表面の複数バイオマーカーに結合する。発現後は変性条件下での精製が必要であり、リフォールディングに課題があったが、ストレプトアビジン被覆磁気ビーズに変性状態で固定化後、ビーズ上でリフォールディングすることで機能を回復させた。得られたExoBp磁気ビーズは、異なる細胞由来のエクソソームとの共培養後、エクソソームマーカー検出により効率的な結合能を示した。透析法および希釈法の両リフォールディング法で安定した複合体が得られ、結合能は保持された。本研究は、マルチターゲット結合を活用した新規親和性エクソソーム濃縮ツールを提示し、エクソソーム単離と下流の生物医学応用に有望な基盤"
+      },
+      {
+        "title": "BMSC-derived exosomal METTL3 synergizes with Sevoflurane to inhibit ferroptosis in pulmonary ischemia/reperfusion injury by enhancing USP7 N6-methyladenosine modification.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42487045/",
+        "abstract": "Inhibition of ferroptosis was shown to alleviate pulmonary ischemia/reperfusion (I/R) injury. This study aimed to investigate the synergistic effects of bone marrow mesenchymal stem cells (BMSC)-derived exosomal METTL3 and Sevoflurane (Sev) in alleviating pulmonary I/R injury through ferroptosis regulation. In our study, pulmonary I/R injury models were established in mice and lung microvascular endothelial cells (LMECs). Commercial kits were used to measure myeloperoxidase (MPO), glutathione (GSH), malondialdehyde (MDA), and iron content. Lipid peroxidation was determined using the BODIPY 581/591 C11 probe by flow cytometry. Total m6A modification was measured by the commercial kit and m6A dot blot, while m6A modification of USP7 mRNA was analyzed by MeRIP and polysome profiling. The interaction between proteins or RNAs was analyzed by Co-IP, FISH combined with immunofluorescence, RNA pull-down, RIP, or dual-luciferase reporter assay. We proved Sev preconditioning mitigated ferroptosis in pulmonary I/R injury by activating the Nrf2 pathway. Co-treatment with BMSC-derived exosomes potentiated the protective effects of Sev by promoting USP7-mediated Nrf2 deubiquitination modification. Mechanistically, BMSC-derived exosomal METTL3 promoted USP7 mRNA translation through YTHDC2-dependent m6A modification. Also, METTL3 knockdown in exosomes suppressed the Nrf2 pathway and exacerbated ferroptosis, while METTL3 overexpression showed opposite effects. YTHDC2 knockdown abolished these protective effects caused by METTL3-overexpressed exosomes. In conclusion, BMSC-derived exosomal METTL3 reinforced the protective effects of Sev by promoting USP7 mRNA translation via YTHDC2-dependent m6A modification. Upregulated USP7 subsequently facilitated Nrf2 deubiquitination, thereby inhibiting ferroptosis and protecting against pulmonary I/R injury.",
+        "source": "PubMed",
+        "doi": "10.1007/s10495-026-02399-8",
+        "keyword": "Exosomes",
+        "title_ja": "BMSC由来エクソソーム中のMETTL3は、USP7のN6-メチルアデノシン修飾を促進することで、セボフルランと協調して肺虚血再灌流障害におけるフェロトーシスを抑制する",
+        "summary_ja": "本論文は、BMSC由来エキソソーム中のMETTL3がセボフルラン（Sev）と協調し、肺虚血再灌流（I/R）障害におけるフェロトーシスを抑制する機序を解明した。マウスおよび肺微小血管内皮細胞を用いたI/Rモデルで、Sev前処理はNrf2経路を活性化しフェロトーシスを軽減した。BMSC由来エキソソームの併用は、USP7を介したNrf2脱ユビキチン化修飾を促進し、Sevの保護効果を増強した。機構的には、エキソソーム内METTL3がYTHDC2依存的m6A修飾を介してUSP7 mRNAの翻訳を促進した。METTL3ノックダウンはNrf2経路を抑制しフェロトーシスを悪化させたが、過剰発現は逆効果を示し、YTHDC2ノックダウンはその保護効果を消失させた。結論として、BMSC由来エキソソームMETTL3はYTHDC2依存的なm6A修飾によりUSP7翻訳を促進し、Nrf2脱ユビキチン化を介してフェロトー"
+      },
+      {
+        "title": "Exercise as an epigenetic modifier of cancer-associated inflammation: Unraveling the DNA methylation, histone modification, and non-coding RNA circuitry.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42486398/",
+        "abstract": "Chronic inflammation is a hallmark of cancer, driving initiation, progression, and metastasis through sustained pro-inflammatory signaling and immune microenvironment remodeling. Physical exercise reduces systemic low-grade inflammation and improves cancer outcomes, yet the molecular conduits linking transient exercise stress to durable anti-inflammatory effects remain poorly defined. Epigenetic mechanisms-DNA methylation, histone modifications, and non-coding RNAs-translate environmental stimuli into stable gene expression changes. In this review, we dissect the tripartite interplay between physical exercise, epigenetic regulation, and cancer-associated inflammation. We first outline how chronic inflammatory signaling aberrantly reprograms the cancer epigenome, silencing tumor-suppressor and pro-resolution genes via promoter hypermethylation and repressive histone marks, while activating oncogenic and pro-inflammatory mediators through permissive chromatin states. We then synthesize evidence that structured exercise counteracts this corruption by modulating DNA methyltransferases, TET dioxygenases, and histone deacetylases, thereby reversing pathological methylation and acetylation patterns at inflammatory loci. We further examine how exercise-induced circulating microRNAs and exosomal cargo propagate these epigenetic signals systemically to distant tumor niches. A mechanistic model is proposed wherein exercise-dependent epigenetic reprogramming attenuates NF-κB-driven inflammatory circuits and restores immune surveillance. Finally, we identify critical knowledge gaps-tissue-specificity, dose-response relationships, and durability of exercise-induced epigenetic modifications-that must be addressed to translate the exercise-epigenetics-inflammation axis into personalized cancer prevention and therapy.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbagrm.2026.195167",
+        "keyword": "Exosomes",
+        "title_ja": "運動によるがん関連炎症のエピジェネティック修飾：DNAメチル化、ヒストン修飾、および非コードRNA回路の解明",
+        "summary_ja": "慢性炎症は癌の特徴であり、持続的な炎症シグナルと免疫微小環境の再編により癌の発生・進行・転移を促進する。運動は全身性の低度炎症を軽減し癌予後を改善するが、その分子機構は不明である。本レビューでは、運動、エピジェネティック制御、癌関連炎症の三者間相互作用を解析する。慢性炎症は癌エピゲノムを異常に再プログラムし、プロモーターの高メチル化や抑制性ヒストン修飾で腫瘍抑制遺伝子を不活化し、許容的クロマチン状態で発癌・炎症性メディエーターを活性化する。一方、運動はDNAメチルトランスフェラーゼ、TETジオキシゲナーゼ、ヒストン脱アセチル化酵素を調節し、炎症関連遺伝子座の病的メチル化・アセチル化パターンを是正する。さらに、運動誘導性の循環マイクロRNAやエクソソームがこれらのエピジェネティックシグナルを全身に伝播する。運動依存的なエピジェネティック再プログラムはNF-κB駆動性炎症回路を減弱し、免疫監視"
+      },
+      {
+        "title": "Biallelic pathogenic variants in EXOSC3 mediate renal thrombotic microangiopathy of the kidney.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42486191/",
+        "abstract": "Thrombotic microangiopathy (TMA) is characterized by the classical triad of microangiopathic hemolytic anemia, thrombocytopenia and acute kidney injury. Complement inhibition with eculizumab is highly efficacious in TMA secondary to complement dysregulation. However, there are a growing number of eculizumab nonresponsive TMAs reported. Recently a syndromic form of TMA due to recessive variants in RNA exosome components (EXOSC3, EXOSC5) has been identified. The underlying pathogenesis remains unclear.",
+        "source": "PubMed",
+        "doi": "10.1016/j.kint.2026.06.028",
+        "keyword": "Exosomes",
+        "title_ja": "EXOSC3遺伝子の両アレル性病原性バリアントが腎臓の血栓性微小血管症を媒介する",
+        "summary_ja": "本論文は、EXOSC3遺伝子の両アレル性病原性変異が腎臓の血栓性微小血管症（TMA）を引き起こすことを報告している。TMAは、微小血管症性溶血性貧血、血小板減少症、急性腎障害の三徴を特徴とする。補体調節異常に起因するTMAには、エクリズマブによる補体阻害が有効だが、近年、同薬剤に反応しないTMA症例が増加している。最近、RNAエクソソーム構成因子（EXOSC3、EXOSC5）の劣性変異による症候性TMAが同定されたが、その病態機序は未解明である。本知見は、新たなTMA原因遺伝子としてEXOSC3を特定し、治療抵抗性症例の理解に寄与する。"
+      },
+      {
+        "title": "Exosome-mediated macrophage polarization: advances in immunotherapeutic paradigms and mechanisms in skeletal system diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42486000/",
+        "abstract": "Skeletal system diseases, including osteoarthritis (OA), osteoporosis (OP), and spinal cord injury (SCI), represent a growing global health burden, with chronic low-grade inflammation and macrophage polarization imbalance as shared pathological features. Exosomes have emerged as pivotal mediators of intercellular communication in the bone microenvironment. By delivering diverse bioactive cargoes-including microRNAs, long non-coding RNAs, and functional proteins-they can regulate macrophage phenotypes and modulate the balance between pro-inflammatory and anti-inflammatory states. This review systematically integrates current knowledge on exosome-mediated macrophage polarization in skeletal disorders from a cross-disease perspective. We propose that exosome-based modulation of macrophage phenotypes offers a novel immunotherapeutic paradigm for these conditions. We first outline the biogenesis and cargo-sorting mechanisms of exosomes and highlight the distinct immunoregulatory properties of exosomes derived from different cell sources, including mesenchymal stem cell-derived exosomes (MSC-Exos) that preferentially drive M2 polarization, and M1/M2 macrophage-derived exosomes that respectively sustain pro-or anti-inflammatory feedback loops. We then dissect the key signaling pathways-NF-κB, JAK/STAT, PI3K/AKT/mTOR, and MAPK-through which exosomal components orchestrate macrophage M1/M2 transition at transcriptional, post-transcriptional, and metabolic levels. Importantly, we emphasize recent advances in engineering strategies, such as donor cell preconditioning (hypoxia, cytokines, lipopolysaccharide) and cargo loading (electroporation, 3D culture), which overcome the inherent limitations of natural exosomes and enable precise control of macrophage polarization. By synthesizing evidence from OA, OP, SCI, and other bone-related diseases, we reveal that exosome-based restoration of M1/M2 balance may represent a promising strategy for disease modification. This review not only provides a comprehensive theoretical reference but also highlights forward-looking avenues for precision immunotherapy in musculoskeletal diseases, thereby bridging the gap between basic research and clinical translation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.intimp.2026.117181",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを介したマクロファージの分極：骨格系疾患における免疫治療パラダイムとメカニズムの進展",
+        "summary_ja": "本レビューは、骨格系疾患（変形性関節症、骨粗鬆症、脊髄損傷）における慢性炎症とマクロファージ極性化の不均衡に着目し、エクソソームを介した免疫治療パラダイムを統合的に解説する。エクソソームは、miRNA、長鎖非コードRNA、機能タンパク質を運搬し、M1/M2マクロファージ表現型を調節する。特に、間葉系幹細胞由来エクソソームはM2極性化を促進し、M1/M2マクロファージ由来エクソソームはそれぞれ炎症性・抗炎症性フィードバックを維持する。主要シグナル経路（NF-κB、JAK/STAT、PI3K/AKT/mTOR、MAPK）を介した転写・代謝レベルの制御機構を解明。さらに、低酸素・サイトカイン前処理やエレクトロポレーションによるカーゴ搭載など、工学的戦略の進展を紹介。OA、OP、SCI等のエビデンスを統合し、エクソソームによるM1/M2バランス回復が疾患修飾に有望であると結論づけ、基礎研究と臨床応"
+      },
+      {
+        "title": "Hybrid Nonviral Nanocarriers Enable Functional Neural Modulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42485583/",
+        "abstract": "Extracellular vesicles released from the neuronal cells mediate the transfer of proteins, nucleic acids, and neurotransmitter-related cargoes, shaping gene expression and intercellular communication across neural circuits. Leveraging this endogenous pathway, we fused astrocyte-derived exosomes with RNA-loaded synthetic liposomes to create sub-100 nm hybrid nanoparticles for central nervous system delivery. This design addresses key limitations of existing systems: conventional liposomes lack cell-type specificity and can be toxic, whereas native vesicles are difficult to load efficiently. By tuning a mildly cationic surface, the hybrids support efficient gene transfer to neurons without disrupting membrane integrity or inducing measurable cytotoxicity. We validated this platform in vivo by delivering Cre recombinase mRNA in transgenic mice and inducing channel rhodopsin-2 expression in the motor cortex and ventral tegmental area, yielding behavioral changes during optogenetic stimulation.",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.6c07588",
+        "keyword": "Exosomes",
+        "title_ja": "ハイブリッド非ウイルス性ナノキャリアが機能的神経調節を可能にする",
+        "summary_ja": "本論文では、神経細胞由来の細胞外小胞がタンパク質や核酸、神経伝達物質関連カーゴを伝達し、神経回路内の遺伝子発現と細胞間コミュニケーションを調節する機構に着目した。この内因性経路を活用し、アストロサイト由来エクソソームとRNA搭載合成リポソームを融合させた100 nm未満のハイブリッドナノ粒子を開発し、中枢神経系への送達を実現した。従来のリポソームは細胞特異性に欠け毒性を示す一方、天然小胞は効率的なカーゴ搭載が困難であったが、本設計では弱カチオン性表面を調整することで、膜完全性を損なわず細胞毒性も誘発せずに、神経細胞への効率的な遺伝子導入を可能にした。in vivo検証として、トランスジェニックマウスにCreリコンビナーゼmRNAを送達し、運動皮質と腹側被蓋野でチャネルロドプシン2を発現誘導し、光遺伝学的刺激下で行動変化を確認した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、それぞれの重要性・背景・今後の展望を合計500文字以内でまとめます。\n\n1. **PF4によるALS治療の可能性**：血小板第4因子（PF4）がALSモデルでSOD1凝集体を分解する新規メカニズムを発見。UKバイオバンクの大規模データも裏付け、血液由来因子による神経変性疾患治療の扉を開く。\n\n2. **エクソソーム多重検出プラットフォーム**：乳がん診断において、単一バイオマーカーの限界を打破するマイクロ流体チップ技術。miRNAとタンパク質を同時検出し、高感度・簡便な早期診断を実現する。\n\n3. **糖尿病創傷治療のためのフコイダンマイクロニードル**：IGF1搭載エクソソームを局所送達する新規パッチ。創傷治癒の難題に対し、生体材料とエクソソームの融合が有効な戦略を示す。\n\n4. **エクソソームによるマクロファージ極性制御**：骨格系疾患における慢性炎症を標的とし、エクソソームがmiRNAなどを介して免疫環境を再編する機構を解明。免疫治療パラダイムとして期待される。\n\n5. **ハイブリッドナノキャリアによる神経調節**：アストロサイト由来エクソソームと合成リポソームを融合し、神経回路内の遺伝子発現を制御。非ウイルスベクターによる神経疾患治療の新基盤となる。\n\nこれらの研究は、血液因子、エクソソーム、ナノテクノロジーを融合し、難治性疾患に対する新たな治療・診断戦略を提示している。"
+}

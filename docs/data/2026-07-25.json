@@ -1,0 +1,267 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Biomarker-guided pharmacotherapy in cardiovascular-kidney-metabolic syndrome: A three-dimensional framework for precision drug selection and monitoring.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42492739/",
+        "abstract": "Cardiovascular-kidney-metabolic (CKM) syndrome, formally defined by the American Heart Association in 2023, affects approximately 90% of US adults, who meet criteria for stage 1 or higher. The rapid convergence of multiple drug classes on CKM pathways-SGLT2 inhibitors, finerenone, GLP-1 receptor agonists, ARNI, and interleukin-directed therapies-has created an urgent need for pharmacologically grounded frameworks that guide drug selection, interpret biomarker responses, and monitor target engagement across interconnected organ systems. This review proposes a three-dimensional biomarker-guided approach to precision pharmacotherapy in CKM syndrome. In the organ-specific dimension, we map key biomarkers to their corresponding drug targets and elucidate the molecular mechanisms underlying drug-biomarker interactions: SGLT2 inhibitors attenuate myocardial injury through metabolic substrate shifting toward ketone body utilization and, based on preclinical evidence, NHE1 inhibition; neprilysin selectivity of sacubitril/valsartan explains the differential natriuretic peptide response; and tubuloglomerular feedback mediates the renoprotective hemodynamic effects of SGLT2 inhibitors. In the pathway-specific dimension, we identify cross-system biomarkers-hs-CRP, IL-6, galectin-3, GDF-15, and FGF21-that reveal shared druggable targets spanning the IL-1β/NLRP3 inflammasome axis (canakinumab, colchicine), IL-6 trans-signaling (ziltivekimab), and FGF21/β-klotho metabolic signaling. In the temporal dimension, we demonstrate how serial biomarker trajectories serve as pharmacodynamic readouts that distinguish therapeutic drug effects from disease progression, including the initial eGFR dip with SGLT2 inhibitors and natriuretic peptide changes during combination therapy. Central to this framework is the concept of \"pharmacological phenotyping\"-using multi-biomarker panels to define drug-responsive pathophysiological states that directly inform therapeutic selection, analogous to companion diagnostics in oncology. We further present a comprehensive drug-biomarker interaction matrix with pharmacological rationale and analyze the emerging drug development pipeline, including RNA-based Lp(a) therapeutics, FGF21 analogues, galectin-3 inhibitors, and in vivo CAR-T anti-fibrotic approaches. This framework provides a practical roadmap for biomarker-guided precision pharmacotherapy in CKM syndrome.",
+        "source": "PubMed",
+        "doi": "10.1016/j.pharmthera.2026.109089",
+        "keyword": "Klotho",
+        "title_ja": "Biomarker-guided pharmacotherapy in cardiovascular-kidney-metabolic syndrome: A three-dimensional framework for precision drug selection and monitoring.",
+        "summary_ja": "Cardiovascular-kidney-metabolic (CKM) syndrome, formally defined by the American Heart Association in 2023, affects approximately 90% of US adults, who meet criteria for stage 1 or higher. The rapid convergence of multiple drug classes on CKM pathways-SGLT2 inhibitors, finerenone, GLP-1 receptor agonists, ARNI, and interleukin-directed therapies-has created an urgent need for pharmacologically gro"
+      },
+      {
+        "title": "Association of central α-klotho with dopaminergic and melanocortin receptors on feed intake regulation in chicken.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42184745/",
+        "abstract": "This study aimed to detemine association of central α-klotho with dopaminergic and melanocortin receptors on feed intake regulation in chicken. 264 meat-type chicken were included 6 experiments, each containing 4 groups. In experiment 1, the group (A) received injections of saline, group (B) SCH23390 (D",
+        "source": "PubMed",
+        "doi": "10.1016/j.psj.2026.107042",
+        "keyword": "Klotho",
+        "title_ja": "Association of central α-klotho with dopaminergic and melanocortin receptors on feed intake regulation in chicken.",
+        "summary_ja": "This study aimed to detemine association of central α-klotho with dopaminergic and melanocortin receptors on feed intake regulation in chicken. 264 meat-type chicken were included 6 experiments, each containing 4 groups. In experiment 1, the group (A) received injections of saline, group (B) SCH23390 (D"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "CNS immune remodelling in SLE associated with anti-CD19 CAR-T therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42493310/",
+        "abstract": "Autologous anti-CD19 chimeric antigen receptor T-cell (CAR-T) therapy shows promise for refractory systemic lupus erythematosus (SLE), but its impact on central nervous system (CNS) immune remodelling and the cellular features associated with CAR-T-associated neurotoxicity remains unclear.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ard.2026.06.030",
+        "keyword": "NK cell therapy",
+        "title_ja": "CNS immune remodelling in SLE associated with anti-CD19 CAR-T therapy.",
+        "summary_ja": "Autologous anti-CD19 chimeric antigen receptor T-cell (CAR-T) therapy shows promise for refractory systemic lupus erythematosus (SLE), but its impact on central nervous system (CNS) immune remodelling and the cellular features associated with CAR-T-associated neurotoxicity remains unclear."
+      },
+      {
+        "title": "Targeting tumor cell-intrinsic POU4F1 enhances antitumor immunity and sensitizes tumors to immunotherapy in basal-like breast cancer by modulating macrophage recruitment and polarization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42492831/",
+        "abstract": "Immunosuppressive tumor microenvironment is a major driver of tumor progression and therapeutic resistance. Basal-like breast cancer (BLBC), which largely overlaps with triple-negative breast cancer, generally displays an immunosuppressive tumor microenvironment enriched with tumor-associated macrophages and other immunosuppressive cell populations. However, the driving mechanisms that establish and maintain these tumor microenvironment features remain not fully understood. This study identifies tumor cell-intrinsic POU4F1 as a key regulator of the immunosuppressive tumor microenvironment in BLBC. Tumors with high POU4F1 expression exhibited lower IFNγ-related signature and poor responses to immunotherapy. In immunocompetent 4T1 tumor-bearing mice, POU4F1 knockout led to decreased infiltration of M2-like macrophages and increased infiltration of proliferative and functional CD8",
+        "source": "PubMed",
+        "doi": "10.1016/j.canlet.2026.218763",
+        "keyword": "NK cell therapy",
+        "title_ja": "Targeting tumor cell-intrinsic POU4F1 enhances antitumor immunity and sensitizes tumors to immunotherapy in basal-like breast cancer by modulating macrophage recruitment and polarization.",
+        "summary_ja": "Immunosuppressive tumor microenvironment is a major driver of tumor progression and therapeutic resistance. Basal-like breast cancer (BLBC), which largely overlaps with triple-negative breast cancer, generally displays an immunosuppressive tumor microenvironment enriched with tumor-associated macrophages and other immunosuppressive cell populations. However, the driving mechanisms that establish a"
+      },
+      {
+        "title": "TLR-Mediated Calcium Signaling Regulates Killing Capacity of Expanded NK Cells: Challenges for Potential AML Immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42490592/",
+        "abstract": "Natural killer (NK) cells are central to cancer immunosurveillance and immunotherapy. Their ability to engage in killing is critical for efficient target elimination and depends on tightly regulated Ca2+ signaling controlling granzyme degranulation. TLR engagement has been linked to Ca2+ signaling in other immune cell types, while specific role in NK cells remains unresolved. Given that NK cells express a broad range of TLRs, and that presence of TLR ligands-including damage- and pathogen-associated molecular patterns-can influence clinical scenarios including adoptive NK cell therapy, investigating TLR-driven Ca2+ signaling in NK cells is particularly relevant. Here, we examined how stimulation with selected TLR ligands influences Ca2+ signaling and NK cell activity. Immediate stimulation induced a rapid elevation of cytosolic Ca2+ in expanded NK cells. Functionally, TLR stimulation increased degranulation and enhanced cytotoxicity at high effector-to-target ratios. Under conditions of target excess, however, TLR-treated NK cells displayed impaired killing, likely due to unbalanced Ca2+ levels. These findings demonstrate that TLR signaling directly modulates Ca2+ flux in NK cells and can either potentiate or impair cytotoxic activity depending on context. While clinical implications remain hypothetical, such TLR-driven dysregulation affect NK cell killing activity in the inflammatory or pathogen-rich environments frequently encountered after chemotherapy. Our findings suggest that TLR-Ca2+ impact on cytotoxicity should be considered in adoptive transfer therapies where previous treatment affects systemic levels of TLR ligands, such as in patients with AML, where NK cell immunotherapy is frequently tested in trials.",
+        "source": "PubMed",
+        "doi": "10.1093/jleuko/qiag092",
+        "keyword": "NK cell therapy",
+        "title_ja": "TLR-Mediated Calcium Signaling Regulates Killing Capacity of Expanded NK Cells: Challenges for Potential AML Immunotherapy.",
+        "summary_ja": "Natural killer (NK) cells are central to cancer immunosurveillance and immunotherapy. Their ability to engage in killing is critical for efficient target elimination and depends on tightly regulated Ca2+ signaling controlling granzyme degranulation. TLR engagement has been linked to Ca2+ signaling in other immune cell types, while specific role in NK cells remains unresolved. Given that NK cells e"
+      },
+      {
+        "title": "KRAS",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42490421/",
+        "abstract": "KRAS",
+        "source": "PubMed",
+        "doi": "10.1126/sciadv.aec9236",
+        "keyword": "NK cell therapy",
+        "title_ja": "KRAS",
+        "summary_ja": "KRAS"
+      },
+      {
+        "title": "Simultaneous measurement of target and effector cell death, apoptosis, and proliferation in cell therapy development using flow cytometry.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42490225/",
+        "abstract": "The development of cellular immunotherapies against cancer requires an efficient assessment of malignant target cell killing. However, the fate of effector cells is equally important, particularly in the context of immunomodulatory tumors. Here, we present a high-throughput protocol for simultaneously measuring viability, apoptosis, and proliferation of cytotoxic effector cells and their targets. We describe steps for co-culturing target and effector cells, staining procedures for viability and apoptosis, adding fluorescent counting beads for cell quantification, and procedures for flow-cytometric analysis.",
+        "source": "PubMed",
+        "doi": "10.1016/j.xpro.2026.104703",
+        "keyword": "NK cell therapy",
+        "title_ja": "Simultaneous measurement of target and effector cell death, apoptosis, and proliferation in cell therapy development using flow cytometry.",
+        "summary_ja": "The development of cellular immunotherapies against cancer requires an efficient assessment of malignant target cell killing. However, the fate of effector cells is equally important, particularly in the context of immunomodulatory tumors. Here, we present a high-throughput protocol for simultaneously measuring viability, apoptosis, and proliferation of cytotoxic effector cells and their targets. "
+      },
+      {
+        "title": "Efficacy and safety of allogeneic CD19 CAR NK-cell therapy in systemic lupus erythematosus: a case series in China.",
+        "url": "https://www.semanticscholar.org/paper/4b9eae49d17509af7b1acdaf92172099e7201024",
+        "abstract": "BACKGROUND\nLately, autologous CD19-targeting chimeric antigen receptor (CAR) T cells have shown excellent efficacy in treatment of autoimmune diseases, but with great safety concerns, such as infections. In this study, we aimed to evaluate the safety, tolerability, and efficacy of allogeneic CD19 CAR natural killer (NK)-cell therapy in patients with relapsed or refractory systemic lupus erythematosus (SLE).\n\n\nMETHODS\nIn this open-label, single-arm, prospective, first-in-human case series, we evaluated allogeneic CD19 CAR NK-cell therapy in adult patients (aged 18-65 years) with relapsed or refractory SLE at one site in China. Patients who had received at least two previous standard systemic therapies and continued to exhibit moderate-to-severe disease activity were eligible for inclusion. This study consisted of schedule escalation and dose escalation, with schedule escalation from 7 days and dose escalation commencing at 0·75 × 109 CAR NK cells on day 0. All patients received a lymphodepleting conditioning regimen with fludarabine (25 mg/m2 per day) and cyclophosphamide (300 mg/m2 per day) administered daily from days -5 to -3, followed by three CAR NK-cell infusions within a single treatment cycle at identical dose levels and inter-infusion intervals. Dose-limiting adverse events were monitored in patients for 28 days. The primary endpoints of this study were safety and tolerability, including the incidence of dose-limiting toxicities and adverse events according to National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0. This study was registered with ClinicalTrials.gov (NCT06010472) and follow-up is ongoing.\n\n\nFINDINGS\n18 patients with relapsed or refractory SLE with moderate-to-severe disease activity were enrolled between Aug 21, 2023, and June 16, 2024. Of the 18 patients, 17 (94%) were female; the median age was 37·5 years (IQR 32·0-39·8), and the median disease duration was 10·5 years (IQR 4·5-14·8). Patients had received at least two standard systemic therapies, including biological agents (belimumab and telitacicept) in 14 (78%) of 18 patients, and plasmapheresis in one patient. Cytokine release syndrome was reported in one (6%) of 18 patients (grade 1). Neurotoxicity and other CAR NK-cell therapy-related severe adverse events were not observed, and there were no dose-limiting toxicities. Of the nine patients with more than 12 months' follow-up, six (67%) attained DORIS remission and lupus low disease activity state.\n\n\nINTERPRETATION\nThis study suggests that allogeneic CAR NK-cell therapy is a potent option for treatment of autoimmune diseases and indicates that such a therapy might address limitations of current autologous CAR T-cell therapy, including manufacturing scale and time, access, safety, and cost.\n\n\nFUNDING\nShanghai Municipal Health Commission, Changhai Hospital Affiliated to Naval Medical University, and National Natural Science Foundation of China.\n\n\nTRANSLATION\nFor the Chinese translation of the abstract see Supplementary Materials section.",
+        "source": "SemanticScholar",
+        "doi": "10.1016/s0140-6736(25)01671-x",
+        "keyword": "NK cell therapy",
+        "title_ja": "Efficacy and safety of allogeneic CD19 CAR NK-cell therapy in systemic lupus erythematosus: a case series in China.",
+        "summary_ja": "BACKGROUND\nLately, autologous CD19-targeting chimeric antigen receptor (CAR) T cells have shown excellent efficacy in treatment of autoimmune diseases, but with great safety concerns, such as infections. In this study, we aimed to evaluate the safety, tolerability, and efficacy of allogeneic CD19 CAR natural killer (NK)-cell therapy in patients with relapsed or refractory systemic lupus erythemato"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "A Bibliometric Analysis of Extranodal NK/T-Cell Lymphoma Research: Trends, Hot Topics, and Future Directions (1999-2026).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42496223/",
+        "abstract": "Extranodal NK/T-cell lymphoma (ENKTL) is a highly heterogeneous subtype of non-Hodgkin lymphoma with an aggressive clinical course. This study provides a comprehensive overview of the current status, research hotspots, and future trends in ENKTL through bibliometric and knowledge-mapping analyses.",
+        "source": "PubMed",
+        "doi": "10.1097/SCS.0000000000013167",
+        "keyword": "NK cell therapy",
+        "title_ja": "A Bibliometric Analysis of Extranodal NK/T-Cell Lymphoma Research: Trends, Hot Topics, and Future Directions (1999-2026).",
+        "summary_ja": "Extranodal NK/T-cell lymphoma (ENKTL) is a highly heterogeneous subtype of non-Hodgkin lymphoma with an aggressive clinical course. This study provides a comprehensive overview of the current status, research hotspots, and future trends in ENKTL through bibliometric and knowledge-mapping analyses."
+      },
+      {
+        "title": "Mass-Spectrometry-Identified Quality Markers of Jingtong Granules Are Predicted to Engage Upregulated Neutrophil Granule Enzymes in Cervical Spondylotic Radiculopathy: An Integrative Machine-Learning and Molecular-Dynamics Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42490267/",
+        "abstract": "Jingtong Granules is a clinically approved seven-herb formula for CSR, a condition in which radicular pain is sustained partly by inflammatory and immune processes, yet the immune-cellular state of CSR and the immune-level mechanism of the formula remain poorly defined.",
+        "source": "PubMed",
+        "doi": "10.1002/rcm.70145",
+        "keyword": "NK cell therapy",
+        "title_ja": "Mass-Spectrometry-Identified Quality Markers of Jingtong Granules Are Predicted to Engage Upregulated Neutrophil Granule Enzymes in Cervical Spondylotic Radiculopathy: An Integrative Machine-Learning and Molecular-Dynamics Study.",
+        "summary_ja": "Jingtong Granules is a clinically approved seven-herb formula for CSR, a condition in which radicular pain is sustained partly by inflammatory and immune processes, yet the immune-cellular state of CSR and the immune-level mechanism of the formula remain poorly defined."
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Treg-derived exosomal miR-146a orchestrates bidirectional Treg-CAF crosstalk to sustain immunosuppressive tumor microenvironments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42496815/",
+        "abstract": "Resistance to immunotherapy is often reinforced by the resilient immunosuppressive architecture of the tumor microenvironment (TME). Although the crosstalk between regulatory T cells (Tregs) and cancer-associated fibroblasts (CAFs) is increasingly recognized as an important contributor to this resistance, the specific molecular links that sustain this interaction remain incompletely understood. This review proposes a bidirectional Treg-derived exosomal miR-146a-CAF signaling model to explain how immunosuppressive remodeling may be maintained. Current evidence suggests that activated Tregs can release exosomes enriched in miR-146a and may thereby influence the response state of recipient CAFs through signaling nodes such as TRAF6/IRAK1, NF-κB, and JAK2-STAT3. Meanwhile, CAF-derived signals may support Treg recruitment and functional maintenance. Through the secretion of chemokines and cytokines such as CCL2, CXCL12, TGF-β, and IL-6, CAFs contribute to Treg recruitment, local persistence, and suppressive function. Because these processes are currently supported largely by indirect evidence derived from different experimental models, this review integrates them into a bidirectional Treg-CAF communication framework that requires further validation, rather than presenting them as a fully established causal feedback loop. To therapeutically interrogate and potentially disrupt this putative circuit, we discuss strategies focused on blocking exosome biogenesis, neutralizing extracellular miR-146a, or disrupting downstream metabolic and signaling dependencies. These strategies are better viewed as candidate approaches for validating and intervening in this model, rather than as clinically mature targeted therapies. By distinguishing validated mechanisms from indirect evidence and testable inferences, this review aims to provide a clearer experimental framework and potential translational directions for future studies.",
+        "source": "PubMed",
+        "doi": "10.1007/s12032-026-03346-y",
+        "keyword": "Exosomes",
+        "title_ja": "Treg-derived exosomal miR-146a orchestrates bidirectional Treg-CAF crosstalk to sustain immunosuppressive tumor microenvironments.",
+        "summary_ja": "Resistance to immunotherapy is often reinforced by the resilient immunosuppressive architecture of the tumor microenvironment (TME). Although the crosstalk between regulatory T cells (Tregs) and cancer-associated fibroblasts (CAFs) is increasingly recognized as an important contributor to this resistance, the specific molecular links that sustain this interaction remain incompletely understood. Th"
+      },
+      {
+        "title": "M2‑TAM‑derived exosomal miR‑491‑3p modulates UBE2D3 and promotes the proliferation, migration and invasion of lung cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42495775/",
+        "abstract": "M2 tumor‑associated macrophages (M2‑TAMs) have been reported to promote tumor growth through exosome‑dependent mechanisms. However, the exact role of exosomes derived from M2‑TAMs (M2‑TAM‑Exos) in lung cancer progression remains unclear. In The present study, M2‑like macrophages (IL‑4/IL‑13‑polarized THP‑1‑derived macrophages) were shown to release exosomes that lung cancer cells effectively internalized. These exosomes markedly enhanced the proliferation, migration, and invasion of lung cancer cells, thereby promoting malignancy. Further analyses revealed that M2‑like macrophage‑derived exosomes contain high levels of microRNA (miR)‑491‑3p. ",
+        "source": "PubMed",
+        "doi": "10.3892/or.2026.9164",
+        "keyword": "Exosomes",
+        "title_ja": "M2‑TAM‑derived exosomal miR‑491‑3p modulates UBE2D3 and promotes the proliferation, migration and invasion of lung cancer cells.",
+        "summary_ja": "M2 tumor‑associated macrophages (M2‑TAMs) have been reported to promote tumor growth through exosome‑dependent mechanisms. However, the exact role of exosomes derived from M2‑TAMs (M2‑TAM‑Exos) in lung cancer progression remains unclear. In The present study, M2‑like macrophages (IL‑4/IL‑13‑polarized THP‑1‑derived macrophages) were shown to release exosomes that lung cancer cells effectively inter"
+      },
+      {
+        "title": "MicroRNAs and SGLT2 inhibitors in cardiovascular disease: Shared pathways and emerging roles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42495428/",
+        "abstract": "MicroRNAs are non-coding RNA sequences capable of transport outside the cell to regulate essential cellular processes. They are able to induce structural changes implicated in prevalent cardiovascular conditions such as heart failure, atherosclerosis and myocardial ischemia. SGLT2 inhibitors are newer anti-diabetic drugs used in the prevention and treatment of cardiovascular disease, which modulate metabolic pathways shared with microRNAs. Direct evidence linking a mechanistic relationship between microRNAs and SGLT2 inhibitors is limited. However, they share multiple pathways affecting key cellular processes implicated in cardiovascular disease progression, such as fibrosis and inflammation. This mini-review explores the effects of microRNAs on cardiac disease, with potential implications in cardiovascular disease management. Shared mechanisms between microRNAs and SGLT2 inhibitors and subsequent impact on heart failure development will be emphasized throughout. Certain microRNAs implicated in cardiovascular disease could potentially serve as diagnostic and therapeutic targets. Future use of microRNA-based technologies may include biomarker panels of circulating microRNAs and exosomal delivery of therapeutic microRNAs. However, these technologies are not fully developed, as the majority of relevant studies are preclinical. Possible future applications of biomarker panels in precision medicine include diagnosis and risk stratification of patients for cardiac disease progression, monitoring response to heart failure therapies, and identification of microRNA targets for modulation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jmccpl.2026.100856",
+        "keyword": "Exosomes",
+        "title_ja": "MicroRNAs and SGLT2 inhibitors in cardiovascular disease: Shared pathways and emerging roles.",
+        "summary_ja": "MicroRNAs are non-coding RNA sequences capable of transport outside the cell to regulate essential cellular processes. They are able to induce structural changes implicated in prevalent cardiovascular conditions such as heart failure, atherosclerosis and myocardial ischemia. SGLT2 inhibitors are newer anti-diabetic drugs used in the prevention and treatment of cardiovascular disease, which modulat"
+      },
+      {
+        "title": "Exosome-like nanoparticles derived from ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42495154/",
+        "abstract": "The low oral bioavailability of bioactive components from the ",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijpx.2026.100611",
+        "keyword": "Exosomes",
+        "title_ja": "Exosome-like nanoparticles derived from ",
+        "summary_ja": "The low oral bioavailability of bioactive components from the "
+      },
+      {
+        "title": "Plant-Derived Exosomes in Aesthetic Medicine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42495007/",
+        "abstract": "The global cosmetic surgery industry is actively seeking alternatives that can overcome the limitations of traditional animal-derived exosomes, which face clinical translation bottlenecks including high costs, immunological risks, and zoonotic disease hazards. Plant-derived exosomes (PLDEs) offer a promising attractive \"green\" nanotechnology platform owing to their inherent safety, minimal immunogenicity, and suitability for scalable manufacturing. Their core advantage lies in delivering plant-specific bioactive compounds (such as small RNAs and secondary metabolites) that target multiple key signaling pathways, including skin aging, pigmentation, inflammation, and regeneration, through cross-species regulatory mechanisms. This review critically synthesizes PLDE biological basis, isolation methods, and evidence for antiaging, skin brightening, and regenerative efficacy. It delineates how surface functionalization, targeted drug delivery, and biomaterial integration (hydrogels and microneedles) optimize PLDE targeting. Finally, it addresses current challenges in clinical translation and standardization, offering a forward-looking perspective on the development of next-generation PLDE-based therapies for minimally invasive aesthetic applications.",
+        "source": "PubMed",
+        "doi": "10.34133/bmr.0397",
+        "keyword": "Exosomes",
+        "title_ja": "Plant-Derived Exosomes in Aesthetic Medicine.",
+        "summary_ja": "The global cosmetic surgery industry is actively seeking alternatives that can overcome the limitations of traditional animal-derived exosomes, which face clinical translation bottlenecks including high costs, immunological risks, and zoonotic disease hazards. Plant-derived exosomes (PLDEs) offer a promising attractive \"green\" nanotechnology platform owing to their inherent safety, minimal immunog"
+      },
+      {
+        "title": "Exploratory profiling of serum small extracellular vesicle-associated miRNAs as candidate biomarkers for Moyamoya disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42494421/",
+        "abstract": "Moyamoya disease (MMD) is a chronic progressive cerebrovascular disease with elevated rates of mortality and disability in children and adults. Therefore, early and accurate identification of MMD is crucial for good prognosis, effective therapeutics, and increased clinical survival rates. Serum small extracellular vesicles (EVs) have attracted significant attention as innovative liquid biopsy biomarkers for screening and diagnosing MMD.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbrep.2026.102686",
+        "keyword": "Exosomes",
+        "title_ja": "Exploratory profiling of serum small extracellular vesicle-associated miRNAs as candidate biomarkers for Moyamoya disease.",
+        "summary_ja": "Moyamoya disease (MMD) is a chronic progressive cerebrovascular disease with elevated rates of mortality and disability in children and adults. Therefore, early and accurate identification of MMD is crucial for good prognosis, effective therapeutics, and increased clinical survival rates. Serum small extracellular vesicles (EVs) have attracted significant attention as innovative liquid biopsy biom"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Pharmaceutical therapies for pyroptosis in lung injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42496824/",
+        "abstract": "Pyroptosis, a form of programmed cell death characterized by inflammation, plays a significant role in the pathogenesis of lung injury. This review explores the intricate relationship between pyroptosis and lung injury, emphasizing the critical role of pyroptosis in exacerbating inflammatory responses and tissue damage. Furthermore, the study delves into the complex interactions between pyroptosis and other cell death pathways. A comprehensive review of current pharmaceutical interventions targeting pyroptosis provides insights into potential therapeutic strategies. Multiple natural compounds confer lung protection by targeting specific molecular pathways. Compounds such as baicalin, baicalein, scutellarin, arteannuin B, resveratrol, silymarin, quercetin, and sinensetin inhibit pyroptosis through the modulation of NLRP3, caspase-1, or GSDMD pathways. Additionally, several synthetic small molecule drugs, including MCC950, disulfiram, VX765, and dimethyl fumarate, effectively intervene by binding to essential pyroptosis effector proteins. The use of NLCs enhances the in vivo bioavailability of these poorly soluble compounds and improves their targeted enrichment within damaged lung tissue. Furthermore, mesenchymal stem cells and their derived exosomes suppress pyroptosis via microRNA-mediated regulation of NLRP3, caspase-1, and GSDMD. Although existing preclinical data substantiate the anti-injury efficacy of these agents, many candidate drugs encounter significant translational challenges, including low oral bioavailability, unstable metabolic profiles, and inadequate in vivo targeting specificity. This review aims to enhance our understanding of lung injury and pyroptosis while summarizing new therapeutic approaches and drugs, which hold significant implications for addressing the occurrence and progression of lung injury.",
+        "source": "PubMed",
+        "doi": "10.1007/s10787-026-02343-x",
+        "keyword": "Exosomes",
+        "title_ja": "Pharmaceutical therapies for pyroptosis in lung injury.",
+        "summary_ja": "Pyroptosis, a form of programmed cell death characterized by inflammation, plays a significant role in the pathogenesis of lung injury. This review explores the intricate relationship between pyroptosis and lung injury, emphasizing the critical role of pyroptosis in exacerbating inflammatory responses and tissue damage. Furthermore, the study delves into the complex interactions between pyroptosis"
+      },
+      {
+        "title": "EXPRESS: Circular RNAs as Next Generation Biomarkers for Minimal Residual Disease: Mechanistic Insights and Clinical Translation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42495761/",
+        "abstract": "Minimal residual disease (MRD) denotes the persistence of malignant cells below the detection limits of conventional diagnostics and is a principal determinant of relapse and therapeutic failure. Enhancing MRD detection is therefore essential for precision oncology. Tumor‑derived circular RNAs (circRNAs)-covalently closed transcripts defined by back‑splice junctions-have emerged as compelling biomarkers for MRD owing to their exceptional stability, resistance to exonucleases, and enrichment in extracellular vesicles, which together enable reliable detection in biofluids. Beyond these analytical advantages, circRNAs actively participate in tumor biology through miRNA sponging, protein scaffolding, and transcriptional regulation, processes that contribute to epithelial-mesenchymal transition, therapy resistance, and metastatic competence. This review integrates current knowledge of circRNA biogenesis and molecular function, surveys cancer-type-specific circRNA expression signatures, and evaluates evidence for their utility in MRD monitoring across hematologic and solid malignancies. We propose multilayered diagnostic frameworks combining circRNA profiling with circulating tumor DNA (ctDNA), exosomal cargo analysis, and AI‑driven bioinformatics to improve sensitivity, specificity, and longitudinal risk stratification. Finally, we critically examine translational hurdles-preanalytical standardization, assay harmonization, cross‑platform reproducibility, clinical thresholding, and prospective validation-and outline strategic priorities to accelerate clinical implementation of circRNA‑based MRD surveillance for personalized patient management.",
+        "source": "PubMed",
+        "doi": "10.1177/10815589261473276",
+        "keyword": "Exosomes",
+        "title_ja": "EXPRESS: Circular RNAs as Next Generation Biomarkers for Minimal Residual Disease: Mechanistic Insights and Clinical Translation.",
+        "summary_ja": "Minimal residual disease (MRD) denotes the persistence of malignant cells below the detection limits of conventional diagnostics and is a principal determinant of relapse and therapeutic failure. Enhancing MRD detection is therefore essential for precision oncology. Tumor‑derived circular RNAs (circRNAs)-covalently closed transcripts defined by back‑splice junctions-have emerged as compelling biom"
+      },
+      {
+        "title": "Exosome-based therapies for corneal disorders: current status and future perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42493709/",
+        "abstract": "Exosomes, extracellular vesicles packed with diverse bioactive molecules, show significant promise as therapeutic agents for corneal disorders. This review provides an overview of the current landscape and future outlook of exosome-based therapies in ophthalmology, with a focus on corneal disease. We summarize the fundamental biology and characteristics of corneal exosomes and discuss their roles in maintaining corneal homeostasis and driving disease processes. The therapeutic potential of exosomes in corneal ulcers, dry eye disease (DED), scarring, and dystrophies is evaluated, highlighting preclinical evidence that exosomes can promote epithelial wound healing, modulate inflammation and fibrosis, and support tissue regeneration, as well as emerging clinical studies that begin to assess their safety and feasibility. We also address critical aspects of exosome isolation, characterization, engineering, and delivery strategies that are relevant for clinical translation. Despite encouraging preclinical findings, significant challenges remain, particularly in standardizing manufacturing and quality control, ensuring safety, and achieving consistent therapeutic efficacy. Future research should focus on optimizing exosome production and delivery, rationally engineering them to enhance therapeutic performance, and exploring their potential as biomarkers. Overall, exosome-based therapies hold substantial promise for transforming the management of corneal diseases, but further rigorous translational and clinical studies are required to realize their full potential.",
+        "source": "PubMed",
+        "doi": "10.1007/s11684-026-1225-z",
+        "keyword": "Exosomes",
+        "title_ja": "Exosome-based therapies for corneal disorders: current status and future perspectives.",
+        "summary_ja": "Exosomes, extracellular vesicles packed with diverse bioactive molecules, show significant promise as therapeutic agents for corneal disorders. This review provides an overview of the current landscape and future outlook of exosome-based therapies in ophthalmology, with a focus on corneal disease. We summarize the fundamental biology and characteristics of corneal exosomes and discuss their roles "
+      },
+      {
+        "title": "Exosomes from bone marrow mesenchymal stem cells inhibit osteoclast differentiation and alleviate osteoporosis via RBM15B/YAP1 to induce autophagy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42492605/",
+        "abstract": "Osteoporosis develops primarily as a result of an imbalance between osteoclastic bone resorption and osteoblastic bone formation. Bone marrow mesenchymal stem cells-derived-exosomes (BMSCs-Exos) regulate osteoclast differentiation and osteoporosis in recent studies. But the mechanisms are still unclear. This research aimed to explore the mechanisms of BMSCs-Exos in osteoclast differentiation and osteoporosis.",
+        "source": "PubMed",
+        "doi": "10.1016/j.yexcr.2026.115128",
+        "keyword": "Exosomes",
+        "title_ja": "Exosomes from bone marrow mesenchymal stem cells inhibit osteoclast differentiation and alleviate osteoporosis via RBM15B/YAP1 to induce autophagy.",
+        "summary_ja": "Osteoporosis develops primarily as a result of an imbalance between osteoclastic bone resorption and osteoblastic bone formation. Bone marrow mesenchymal stem cells-derived-exosomes (BMSCs-Exos) regulate osteoclast differentiation and osteoporosis in recent studies. But the mechanisms are still unclear. This research aimed to explore the mechanisms of BMSCs-Exos in osteoclast differentiation and o"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Neonatal propofol exposure induces region-specific neurotoxic proteomic signatures in mouse cortex and hippocampus.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42492603/",
+        "abstract": "Neonatal propofol exposure has been implicated in long-term neurodevelopmental impairments; however, region-specific molecular mechanisms remain unclear. This study examined region-specific proteomic alterations in exosome-enriched small extracellular vesicles (exosome-enriched sEVs) from the cortex and hippocampus induced by neonatal propofol exposure. Using a clinically relevant repeated-dose regimen, C57BL/6 mice received propofol (50  mg/kg, P5-P7). At P21, exosome-enriched sEVs were isolated and analyzed by data-independent acquisition mass spectrometry. Candidate differentially expressed proteins (candidate DEPs) were defined by fold change (FC) ≥ 1.5 or ≤ 0.667 and nominal p < 0.05, followed by Gene Ontology (GO), KEGG pathways, Cluster of Orthologous Groups (COG), and domain enrichment analyses. After Benjamini-Hochberg correction, no protein reached q < 0.05, indicating that the exploratory findings were not significant. We identified 63 candidate DEPs in the hippocampus and 55 in the cortex. Hippocampal downregulated proteins enriched in synaptic vesicle cycling, oxidative phosphorylation, and apoptosis, suggesting synaptic-mitochondrial disruption; upregulated proteins associated with ER stress and chaperone-mediated autophagy, suggesting proteostatic adaptation. Cortical candidate DEPs reflected suppressed mitochondrial function alongside enhanced translation and cytoskeletal remodeling. These region- and direction-specific changes were consistently observed across all bioinformatic platforms. The hippocampus showed pronounced synaptic and mitochondrial alterations, while the cortex exhibited cytoskeletal changes and metabolic shifts. In conclusion, Propofol induces distinct neurotoxic proteomic signatures in the neonatal hippocampus and cortex, suggesting compartment-specific vulnerability and compensatory remodeling. Thus, exosome-enriched sEV proteomics offers a sensitive approach to detecting early anesthetic-induced neurodevelopmental disturbances.",
+        "source": "PubMed",
+        "doi": "10.1016/j.brainres.2026.150477",
+        "keyword": "sEVs",
+        "title_ja": "Neonatal propofol exposure induces region-specific neurotoxic proteomic signatures in mouse cortex and hippocampus.",
+        "summary_ja": "Neonatal propofol exposure has been implicated in long-term neurodevelopmental impairments; however, region-specific molecular mechanisms remain unclear. This study examined region-specific proteomic alterations in exosome-enriched small extracellular vesicles (exosome-enriched sEVs) from the cortex and hippocampus induced by neonatal propofol exposure. Using a clinically relevant repeated-dose re"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": ""
+}

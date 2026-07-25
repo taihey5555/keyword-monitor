@@ -1,0 +1,155 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Nuclear mitochondrial interaction test reveals sex-dependent mitochondrial SNP-Klotho interactions on diabetes risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42499337/",
+        "abstract": "Environmental or other genetic factors might influence the effect of ",
+        "source": "PubMed",
+        "doi": "10.1210/jendso/bvag143",
+        "keyword": "Klotho",
+        "title_ja": "Nuclear mitochondrial interaction test reveals sex-dependent mitochondrial SNP-Klotho interactions on diabetes risk.",
+        "summary_ja": "Environmental or other genetic factors might influence the effect of "
+      },
+      {
+        "title": "Relationship between klotho and psoriasis: A cross-sectional analysis of NHANES 2009-2010 and Mendelian randomization study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42499095/",
+        "abstract": "Psoriasis commonly presents with systemic comorbidities as a chronic, immune-mediated condition. The antiaging protein klotho, recognized for its dual anti-inflammatory and antioxidant properties, may modulate psoriasis pathogenesis, although human data are currently scarce. This cross-sectional analysis enrolled 1407 participants, including 50 with psoriasis. Serum klotho was log10-transformed, and multivariable logistic regression was used to assess its association with psoriasis. Restricted cubic spline analysis was performed to evaluate potential nonlinearity. Kaplan-Meier curves were used as unadjusted descriptive survival analyses, and Cox proportional hazards models were fitted among participants with psoriasis. Causal relationships were further assessed using Mendelian randomization. Lower serum klotho levels were independently associated with a higher prevalence of psoriasis after full adjustment (odds ratio = 0.11, 95% confidence interval: 0.02-0.80, P = .029). Restricted cubic spline analysis suggested a borderline overall association (P for overall = .055) without significant evidence of nonlinearity (P for nonlinearity = .344). Among participants with psoriasis, low klotho defined using the optimal cutoff of 2.92 was associated with poorer survival in unadjusted Kaplan-Meier analysis (P = .031), and higher log10-transformed klotho was associated with a lower risk of all-cause mortality in the fully adjusted Cox model. Mendelian randomization found no evidence of a causal association between genetically predicted klotho and psoriasis but suggested a potential protective effect against arthritis. Reduced serum klotho levels are associated with psoriasis prevalence, metabolic comorbidities, and mortality among participants with psoriasis. Klotho may represent a candidate biomarker related to inflammatory and cardiometabolic risk in psoriasis; however, causal and prognostic implications require validation in prospective cohorts and mechanistic studies.",
+        "source": "PubMed",
+        "doi": "10.1097/MD.0000000000049927",
+        "keyword": "Klotho",
+        "title_ja": "Relationship between klotho and psoriasis: A cross-sectional analysis of NHANES 2009-2010 and Mendelian randomization study.",
+        "summary_ja": "Psoriasis commonly presents with systemic comorbidities as a chronic, immune-mediated condition. The antiaging protein klotho, recognized for its dual anti-inflammatory and antioxidant properties, may modulate psoriasis pathogenesis, although human data are currently scarce. This cross-sectional analysis enrolled 1407 participants, including 50 with psoriasis. Serum klotho was log10-transformed, a"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "High-intensity interval training attenuates post-myocardial infarction remodeling and ITGAM-mediated M4 macrophage polarization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42498176/",
+        "abstract": "While the pro-inflammatory M4 macrophage phenotype contributes to cardiovascular pathogenesis, its specific involvement in chronic post myocardial infarction (MI) remodeling and responsiveness to different exercise modalities remain unexplored. We hypothesized that high-intensity interval training (HIIT) confers enhanced cardioprotection compared to moderate-intensity continuous training (MICT) by mitigating M4 macrophage polarization.",
+        "source": "PubMed",
+        "doi": "10.1016/j.lfs.2026.124598",
+        "keyword": "PF4",
+        "title_ja": "High-intensity interval training attenuates post-myocardial infarction remodeling and ITGAM-mediated M4 macrophage polarization.",
+        "summary_ja": "While the pro-inflammatory M4 macrophage phenotype contributes to cardiovascular pathogenesis, its specific involvement in chronic post myocardial infarction (MI) remodeling and responsiveness to different exercise modalities remain unexplored. We hypothesized that high-intensity interval training (HIIT) confers enhanced cardioprotection compared to moderate-intensity continuous training (MICT) by"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "High IL-10 levels during CRS are negatively associated with NK-cell recovery after CAR-T cell therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42499540/",
+        "abstract": "Immune reconstitution following chimeric antigen receptor (CAR)-T cell therapy remains a critical clinical challenge, and the determinants of natural killer (NK)-cell recovery are not fully understood.",
+        "source": "PubMed",
+        "doi": "10.1002/cti2.70116",
+        "keyword": "NK cell therapy",
+        "title_ja": "High IL-10 levels during CRS are negatively associated with NK-cell recovery after CAR-T cell therapy.",
+        "summary_ja": "Immune reconstitution following chimeric antigen receptor (CAR)-T cell therapy remains a critical clinical challenge, and the determinants of natural killer (NK)-cell recovery are not fully understood."
+      },
+      {
+        "title": "Durable responses to triplet immunotherapy targeting TGF-β, PD-L1, and tumor antigen, with an IL-15 receptor superagonist in mismatch repair proficient castration-resistant prostate cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42498485/",
+        "abstract": "Immune checkpoint blockade is minimally active in unselected castration-resistant prostate cancer (CRPC) and does not reproducibly yield durable decreases in prostate-specific antigen (PSA) levels.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2026-015336",
+        "keyword": "NK cell therapy",
+        "title_ja": "Durable responses to triplet immunotherapy targeting TGF-β, PD-L1, and tumor antigen, with an IL-15 receptor superagonist in mismatch repair proficient castration-resistant prostate cancer.",
+        "summary_ja": "Immune checkpoint blockade is minimally active in unselected castration-resistant prostate cancer (CRPC) and does not reproducibly yield durable decreases in prostate-specific antigen (PSA) levels."
+      },
+      {
+        "title": "Advances in Cancer Immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42498103/",
+        "abstract": "Individual cancer specificity, high level of effectiveness for hematopoietic malignancies and modest side-effects have elevated immune approaches to first-line treatment of many cancers. Monoclonal anti-tumor cytotoxic antibodies, chemotherapeutic agents bound to anti-tumor antibodies, antibodies to immune checkpoint inhibitors and chimeric antigen receptor (CAR)-T cells are established useful elements of cancer immunotherapy. It has recently been shown that patients receiving healthy donor encapsulated fecal microbiota before immune checkpoint inhibitor therapy have better responses and fewer severe side-effects. Newly designed constructs of CAR-T or -NK cells with a different second CAR, capacity to produce antibodies to immune checkpoint inhibitors or inducers of IL-12 or IL-15 generation are recent major advances especially for immunotherapy of solid tumors. Gene-edited B cell/plasma cell clones that produce tumor cell cytotoxic antibodies in vivo and vaccination with tumor-specific neoantigens or mRNAs encoding tumor-specific neoantigens in combination with antibodies to immune checkpoint inhibitors are also meaningful recent advances.",
+        "source": "PubMed",
+        "doi": "10.1016/j.amjmed.2026.07.012",
+        "keyword": "NK cell therapy",
+        "title_ja": "Advances in Cancer Immunotherapy.",
+        "summary_ja": "Individual cancer specificity, high level of effectiveness for hematopoietic malignancies and modest side-effects have elevated immune approaches to first-line treatment of many cancers. Monoclonal anti-tumor cytotoxic antibodies, chemotherapeutic agents bound to anti-tumor antibodies, antibodies to immune checkpoint inhibitors and chimeric antigen receptor (CAR)-T cells are established useful ele"
+      },
+      {
+        "title": "Extracellular vesicle secretome from mesenchymal stromal cells prevents post-ischemic heart failure by targeting cardiac fibrosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42497858/",
+        "abstract": "Myocardial ischemia-reperfusion (MIR) injury drives adverse remodeling and heart failure after ST-elevation myocardial infarction (STEMI), yet no therapy directly targets the fibrotic response. Here, we developed a good manufacturing practice-compatible extracellular vesicle (EV)-enriched secretome from bone marrow mesenchymal stromal cells and identified a laminin-521-based production strategy suitable for clinical translation. The EV-enriched secretome exhibited in vitro immunomodulatory activity, and in murine MIR-injury models, treatment preserved left ventricular ejection fraction, reduced platelet-derived growth factor receptor beta (PDGFRβ)-associated myofibroblast activation quantified by positron emission tomography (PET) imaging, attenuated fibrosis, and promoted reparative macrophage polarization. In a clinically relevant porcine ischemia-reperfusion model, intracoronary administration was cardioprotective. We further developed a clinically approved PDGFRβ-targeted PET-imaging platform for longitudinal assessment of fibrotic activity in STEMI patients, where preliminary observations suggest that myofibroblast activation persists for up to 2 months after STEMI in selected patients. Together, these findings establish a translational therapeutic-diagnostic framework for individualized management of MIR injury.",
+        "source": "PubMed",
+        "doi": "10.1016/j.stem.2026.07.003",
+        "keyword": "NK cell therapy",
+        "title_ja": "Extracellular vesicle secretome from mesenchymal stromal cells prevents post-ischemic heart failure by targeting cardiac fibrosis.",
+        "summary_ja": "Myocardial ischemia-reperfusion (MIR) injury drives adverse remodeling and heart failure after ST-elevation myocardial infarction (STEMI), yet no therapy directly targets the fibrotic response. Here, we developed a good manufacturing practice-compatible extracellular vesicle (EV)-enriched secretome from bone marrow mesenchymal stromal cells and identified a laminin-521-based production strategy su"
+      },
+      {
+        "title": "Antimalarial cytoskeletal targeting with broad apicomplexan activity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42497201/",
+        "abstract": "Malaria is a devastating disease that resulted in an estimated 610,000 deaths in 2024, the majority being children under the age of five. Here, we use KNX-115 to illustrate multistage antiparasitic activity upon targeting the cytoskeletal enzyme ",
+        "source": "PubMed",
+        "doi": "10.1073/pnas.2608709123",
+        "keyword": "NK cell therapy",
+        "title_ja": "Antimalarial cytoskeletal targeting with broad apicomplexan activity.",
+        "summary_ja": "Malaria is a devastating disease that resulted in an estimated 610,000 deaths in 2024, the majority being children under the age of five. Here, we use KNX-115 to illustrate multistage antiparasitic activity upon targeting the cytoskeletal enzyme "
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "The intellectual structure and emerging trends on nanotechnology in inflammatory bowel disease: A bibliometric analysis from 2005 to 2024.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42499024/",
+        "abstract": "As a chronic inflammatory disease of the intestine, inflammatory bowel disease (IBD) is challenged by existing treatment methods, such as poor drug targeting, low bioavailability, and systemic toxicity. In recent years, nanotechnology has provided a new strategy for the treatment and diagnosis of IBD due to its advantages of precise delivery, controllable release and multifunctional integration.",
+        "source": "PubMed",
+        "doi": "10.1097/MD.0000000000049947",
+        "keyword": "Exosomes",
+        "title_ja": "The intellectual structure and emerging trends on nanotechnology in inflammatory bowel disease: A bibliometric analysis from 2005 to 2024.",
+        "summary_ja": "As a chronic inflammatory disease of the intestine, inflammatory bowel disease (IBD) is challenged by existing treatment methods, such as poor drug targeting, low bioavailability, and systemic toxicity. In recent years, nanotechnology has provided a new strategy for the treatment and diagnosis of IBD due to its advantages of precise delivery, controllable release and multifunctional integration."
+      },
+      {
+        "title": "Hypoxia-Induced Exosomal miR-1225-5p Accelerates Colorectal Cancer Progression by Targeting Carboxypeptidase M.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42490827/",
+        "abstract": "Colorectal cancer (CRC) remains a considerable public health burden worldwide, with hypoxia emerging as a key driver of tumor aggressiveness. Within the hypoxic tumor microenvironment (TME), exosomes function as vital vehicles for intercellular communication, especially through their cargo of microRNAs (miRNAs). Despite the growing recognition of this phenomenon, the specific functions of hypoxia-induced exosomal miRNAs in CRC remain inadequately defined.",
+        "source": "PubMed",
+        "doi": "10.14740/wjon2766",
+        "keyword": "Exosomes",
+        "title_ja": "Hypoxia-Induced Exosomal miR-1225-5p Accelerates Colorectal Cancer Progression by Targeting Carboxypeptidase M.",
+        "summary_ja": "Colorectal cancer (CRC) remains a considerable public health burden worldwide, with hypoxia emerging as a key driver of tumor aggressiveness. Within the hypoxic tumor microenvironment (TME), exosomes function as vital vehicles for intercellular communication, especially through their cargo of microRNAs (miRNAs). Despite the growing recognition of this phenomenon, the specific functions of hypoxia-"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": ""
+}

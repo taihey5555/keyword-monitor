@@ -1,0 +1,103 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "MZT2A drives epithelial-mesenchymal transition in lung adenocarcinoma via the LGALS3BP/ITGB1/TGF-β/smad2 axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42502396/",
+        "abstract": "The high mortality of lung adenocarcinoma (LUAD) is largely attributed to its metastatic propensity; therefore, elucidating novel mechanisms driving metastasis is crucial for developing diagnostic and therapeutic strategies. This study aimed to elucidate the function and mechanism of MZT2A in the metastasis of LUAD. Analysis of clinical samples and public databases revealed that MZT2A is highly expressed in LUAD tissues and significantly associated with lymph node metastasis, advanced stage, and poor prognosis. ",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.116856",
+        "keyword": "Exosomes",
+        "title_ja": "MZT2AはLGALS3BP/ITGB1/TGF-β/smad2経路を介して肺腺癌における上皮間葉転換を促進する",
+        "summary_ja": "タイトル：MZT2AはLGALS3BP/ITGB1/TGF-β/smad2経路を介して肺腺癌の上皮間葉転換を促進する\n\n内容：肺腺癌（LUAD）の高い死亡率は主に転移能に起因するため、新たな転移機構の解明が診断・治療戦略の開発に重要である。本研究はLUAD転移におけるMZT2Aの機能と機構を解明することを目的とした。臨床検体および公開データベースの解析により、MZT2AはLUAD組織で高発現し、リンパ節転移、進行期、予後不良と有意に関連することが示された。"
+      },
+      {
+        "title": "Exosomes delivering a high-throughput-screened RNA polymerase inhibitor for highly effective therapy of multidrug-resistant bacterial infected pneumonia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42502321/",
+        "abstract": "Bacterial pneumonia remains a primary global health threat, necessitating the development of novel therapeutic strategies to overcome escalating antibiotic resistance. In this study, we identified a highly active bacterial RNAP inhibitor, the repurposed semi-synthetic anthracycline hydrochloride Epirubicin (EPI), via the in silico high-throughput screening of a commercial library containing 16,563 small molecules. We identified EPI as a potent multi-target antibacterial agent. Alongside its intrinsic DNA intercalation properties, EPI heavily interferes with RNAP by targeting conserved catalytic residues (LYS838 and ASP1003), destabilizing the RNAP structure through a mechanism distinct from rifampicin. ",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.07.023",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームによるハイスループットスクリーニングRNAポリメラーゼ阻害剤の送達が多剤耐性菌感染肺炎の高効果治療を実現",
+        "summary_ja": "本論文は、多剤耐性菌による肺炎に対する新規治療戦略として、エキソソームを利用したRNAポリメラーゼ阻害剤の送達システムを報告する。研究では、16,563種の低分子化合物ライブラリからin silicoハイスループットスクリーニングにより、半合成アントラサイクリン塩酸塩エピルビシン（EPI）を高活性な細菌RNAP阻害剤として同定した。EPIはDNAインターカレーション能に加え、RNAPの保存された触媒残基（LYS838、ASP1003）を標的とし、リファンピシンとは異なる機構でRNAP構造を不安定化する多標的抗菌薬として機能する。エキソソームに搭載されたEPIは、多剤耐性菌感染肺炎に対し高い治療効果を示した。"
+      },
+      {
+        "title": "Marine-Derived Nanocarriers for Immunomodulatory Drug Delivery: a Review On Convergence of Marine Pharmacology and Nanotechnology.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42501280/",
+        "abstract": "Marine-derived nanocarriers represent an emerging interface between marine pharmacology and nanotechnology for immunomodulatory drug delivery. The marine ecosystem provides diverse bioactive compounds, such as polysaccharides, peptides, lipids, proteins, and alkaloids, many of which possess inherent immunoregulatory activity. When incorporated into nanoscale delivery systems such as polymeric nanoparticles, liposomes, micelles, hydrogels, and exosome-like vesicles, these bioactive compounds may exhibit improved stability, bioavailability, controlled release, and targeting efficiency. This review summarizes major classes of marine-derived nanocarriers and discusses their immunomodulatory mechanisms, including pattern recognition receptor activation, oxidative stress modulation, macrophage polarization, dendritic cell maturation, cytokine regulation, and intracellular signaling pathways. Their applications in autoimmune disorders, infectious diseases, vaccine delivery, and cancer immunotherapy are also reviewed. Despite promising preclinical evidence, clinical translation remains limited by challenges related to scalable production, batch-to-batch reproducibility, long-term stability, tissue-specific targeting, safety evaluation, and regulatory approval. Overall, marine-derived nanocarriers offer promising platforms for immunomodulatory drug delivery, but further mechanistic, comparative, and translational studies are required to establish their clinical relevance.",
+        "source": "PubMed",
+        "doi": "10.1007/s12010-026-05830-7",
+        "keyword": "Exosomes",
+        "title_ja": "海洋由来ナノキャリアを用いた免疫調節薬物送達：海洋薬理学とナノテクノロジーの融合に関するレビュー",
+        "summary_ja": "本レビューは、海洋由来ナノキャリアと免疫調節薬物送達における海洋薬理学とナノテクノロジーの融合を概説する。海洋生態系由来の多糖類、ペプチド、脂質、タンパク質、アルカロイドなどの生理活性化合物は、本来免疫調節活性を有し、高分子ナノ粒子、リポソーム、ミセル、ハイドロゲル、エクソソーム様小胞などのナノスケール送達システムに組み込まれることで、安定性、バイオアベイラビリティ、制御放出、標的指向性が向上する。主な免疫調節機構として、パターン認識受容体活性化、酸化ストレス調節、マクロファージ分極、樹状細胞成熟、サイトカイン制御、細胞内シグナル伝達経路が議論される。自己免疫疾患、感染症、ワクチン送達、がん免疫療法への応用も紹介される。前臨床エビデンスは有望だが、臨床応用はスケーラブル生産、バッチ間再現性、長期安定性、組織特異的標的化、安全性評価、規制承認の課題により制限される。さらなるメカニズム、比較、"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Protective effects of 17β-Estradiol (E",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42501833/",
+        "abstract": "Ferroptosis represents a regulated form of cell death. Currently, the impact of ferroptosis on sepsis-induced acute kidney injury (SAKI) remains unexplored. We examined the effect of 17β-estradiol (E",
+        "source": "PubMed",
+        "doi": "10.1016/j.abb.2026.110950",
+        "keyword": "Exosomes",
+        "title_ja": "17β-エストラジオール（E2）の保護効果",
+        "summary_ja": "この論文は、フェロトーシス（鉄依存性の調節された細胞死）が敗血症性急性腎障害（SAKI）に与える影響と、17β-エストラジオール（E2）の保護効果を検討したものである。SAKIにおけるフェロトーシスの関与はこれまで未解明であった。研究では、E2がフェロトーシスを抑制することで腎保護作用を発揮する可能性が示唆された。具体的には、E2投与により脂質過酸化や鉄蓄積が抑制され、腎機能障害が軽減された。これらの結果は、E2がSAKI治療における新たな標的となる可能性を提示している。"
+      },
+      {
+        "title": "Pathology-Responsive Self-Assembling Hydrogel Enabling Spatiotemporally Controlled Exosome Release and Redox Regulation for Intervertebral Disc Regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42501410/",
+        "abstract": "Intervertebral disc degeneration (IVDD) arises from disrupted metabolism and redox imbalance, severely impairing nucleus pulposus (NP) cells' ability to repair the extracellular matrix (ECM). The early stage of IVDD is marked by excessive oxidative stress, lipid peroxidation, iron dysregulation and sustained catabolic enzyme activity, while late-stage cellular aging ultimately renders NP cells highly susceptible to iron-dependent cell death. To address these stage-specific challenges, we developed a pathology-adaptive self-assembling hydrogel that exploits dynamically varying catabolic enzyme activity to trigger on-demand delivery of antioxidant molecules and bioactive extracellular vesicles. Upon recognition of pathologically elevated MMP13, the hydrogel undergoes site-specific structural disruption, thereby enabling spatiotemporally controlled exosome release. The hydrogel complex stabilizes redox balance by boosting intracellular glutathione, mitigating lipid peroxidation and restoring iron homeostasis. Furthermore, it activates PI3K-Akt signaling and reinstates key anti-ferroptosis proteins. Simultaneously, it promotes the synthesis of proteoglycans and type II collagen, collectively rebuilding the ECM niche. The combined effect of restored redox balance and regenerative signaling leads to significant structural and functional recovery of the damaged disc, as strongly evidenced in vivo animal studies. Overall, this spatiotemporal-adaptive platform establishes a multifaceted strategy for regenerative engineering, offering a promising option for complex degenerative diseases.",
+        "source": "PubMed",
+        "doi": "10.1002/adma.74189",
+        "keyword": "Exosomes",
+        "title_ja": "病理応答性自己組織化ハイドロゲルによる時空間制御エクソソーム放出と酸化還元調節を介した椎間板再生",
+        "summary_ja": "椎間板変性症（IVDD）は代謝異常と酸化還元不均衡に起因し、髄核細胞の細胞外マトリックス（ECM）修復能を著しく低下させる。初期段階では過剰な酸化ストレス、脂質過酸化、鉄代謝異常、持続的な異化酵素活性が特徴であり、後期では細胞老化により鉄依存性細胞死が誘発される。本研究では、病理応答性自己組織化ハイドロゲルを開発し、異化酵素活性の動的変化を利用して抗酸化分子と細胞外小胞をオンデマンド放出する。病理学的に上昇したMMP13を認識すると、ゲルは部位特異的に構造崩壊し、時空間制御されたエクソソーム放出を実現する。この複合体は細胞内グルタチオンを増加させ、脂質過酸化を抑制し、鉄恒常性を回復することで酸化還元バランスを安定化する。さらにPI3K-Aktシグナルを活性化し、抗フェロトーシスタンパク質を再構築すると同時に、プロテオグリカンとII型コラーゲン合成を促進しECM環境を再生する。in vivo"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **MZT2Aと肺腺癌転移機構**：肺腺癌の高死亡率の原因である転移において、MZT2AがLGALS3BP/ITGB1/TGF-β/smad2経路を介して上皮間葉転移を促進する新規メカニズムが解明された。これは転移抑制を標的とした治療開発の基盤となる。\n\n2. **エキソソームによる多剤耐性菌肺炎治療**：16,563種の化合物からスクリーニングしたRNAポリメラーゼ阻害剤をエキソソームに搭載し、多剤耐性菌感染症に効果的に送達する戦略。従来の抗生物質が効かない感染症への新たなアプローチとして期待される。\n\n3. **海洋由来ナノキャリアと免疫調節**：海洋由来の多糖類やペプチドを利用したナノキャリアが、免疫調節薬物送達に応用可能であることを示すレビュー。海洋資源とナノテクノロジーの融合は、新規免疫療法の開発に寄与する。\n\n4. **17β-エストラジオールと敗血症性急性腎障害**：フェロトーシス（鉄依存性細胞死）が敗血症性急性腎障害に関与し、17β-エストラジオールが保護効果を示すことを初めて報告。性ホルモンと細胞死制御の観点から、新たな治療標的が示された。\n\n5. **病理応答性ハイドロゲルと椎間板再生**：椎間板変性症の病態に応答してエキソソームを放出し、酸化還元バランスを調整する自己組織化ハイドロゲル。初期の酸化ストレスから後期の細胞老化まで段階的に治療可能な次世代再生医療材料である。\n\nこれらの研究は、癌転移、感染症、免疫調節、臓器障害、再生医療の各分野で、エキソソームやナノキャリアを活用した精密医療の実現に貢献する。"
+}

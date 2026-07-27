@@ -1,0 +1,104 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Aptamer-mediated targeting of CXCR3-B in acute lymphoblastic leukemia nalm-6 cells: an in silico and in vitro study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42507227/",
+        "abstract": "The CXCR3-B receptor plays a crucial role in inducing apoptosis upon binding with its ligands. Here, we aimed to rationally design an ultra-short (5-base) DNA aptamer targeting the N-terminal domain of CXCR3-B and evaluate its therapeutic potential in Acute Lymphoblastic Leukemia (ALL).",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12461-y",
+        "keyword": "PF4",
+        "title_ja": "急性リンパ芽球性白血病NALM-6細胞におけるCXCR3-Bのアプタマー媒介標的化：インシリコおよびin vitro研究",
+        "summary_ja": "本論文では、急性リンパ芽球性白血病（ALL）Nalm-6細胞におけるCXCR3-B受容体を標的とした超短鎖（5塩基）DNAアプタマーの合理的設計と治療可能性を、in silicoおよびin vitroで評価した。CXCR3-Bはリガンド結合時にアポトーシスを誘導する重要な受容体であり、そのN末端ドメインを標的とするアプタマーを設計。実験の結果、設計したアプタマーはCXCR3-Bに特異的に結合し、ALL細胞においてアポトーシスを誘導することが確認された。本研究は、CXCR3-Bを標的とした新規核酸医薬の開発基盤を提供する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Photothermal and colorimetric dual mode assay based on nanozymes for gastric cancer exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42507175/",
+        "abstract": "Exosome analysis in gastric cancer (GC) serum requires sensitive readout with reduced matrix interference. Circulating GC-related CD63-positive exosomes can indicate vesicle burden and stress-induced secretion. Herein, we developed a dual-mode photothermal/colorimetric aptasensor using CD63 aptamer-functionalized core-shell AuPt nanozymes for detecting GC-related CD63-positive exosomes in serum samples. The innovation of this platform lies in integrating aptamer recognition, Pt-shell peroxidase-like catalysis, and Au-core near-infrared (NIR) photothermal conversion within one nanoprobe. The porous Pt shell showed high TMB affinity (K",
+        "source": "PubMed",
+        "doi": "10.1007/s00604-026-08281-3",
+        "keyword": "Exosomes",
+        "title_ja": "ナノザイムに基づく胃癌エクソソームの光熱・比色デュアルモードアッセイ",
+        "summary_ja": "本論文は、胃がん（GC）血清中のエクソソーム検出におけるマトリックス干渉低減と高感度測定を目的とし、CD63アプタマーで機能化したコアシェル型AuPtナノザイムを用いた光熱・比色デュアルモードアプタセンサーを開発した。本プラットフォームは、アプタマー認識、Ptシェルのペルオキシダーゼ様触媒作用、Auコアの近赤外光熱変換を一つのナノプローブに統合した点が革新的である。多孔質Ptシェルは高いTMB親和性（K値）を示し、比色シグナルを増幅する。また、光熱効果により検出の多様性と感度向上を実現した。本手法は、GC関連CD63陽性エクソソームの血清中検出において、簡便かつ高感度な分析を可能にし、がん診断への応用が期待される。"
+      },
+      {
+        "title": "Extracellular Vesicle-Mediated Immunity-Coagulation Interaction in Cancer-Associated Thrombosis During the Immunotherapy Era.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42503385/",
+        "abstract": "Cancer-associated thrombosis represents one of the major causes of mortality in patients with malignancies. In the era of immunotherapy, particularly with the widespread use of immune checkpoint inhibitors, thromboembolic events have emerged as an increasingly recognized complication. Extracellular vesicles (EVs), as small extracellular vesicles that facilitate intercellular communication, are now understood to play a pivotal role at the intersection of immune activation and coagulation. They transport diverse bioactive cargos, including tissue factor (TF), PD-L1, and proinflammatory noncoding RNAs, which together reprogram endothelial cells, platelets, and neutrophils toward a prothrombotic phenotype. During immune checkpoint inhibitor therapy, cytokine-driven EV release is amplified, increasing the systemic burden of procoagulant vesicles while simultaneously modulating the therapeutic efficacy of immune checkpoint blockade. This EV-mediated immune-coagulative interaction defines a proposed \"inflammation-EV-coagulation axis,\" offering a mechanistic rationale for the rising incidence of cancer-associated thrombosis in immunotherapy-treated patients. Beyond their pathogenic role, EVs also present translational opportunities. Circulating TF⁺/PD-L1⁺ EVs link immune efficacy with thrombotic risk and can be dynamically monitored through advanced assays. Combined exosomal signatures improve prediction of immune checkpoint inhibitor response and toxicity, while targeting EV secretion offers a novel \"antithrombotic without immune suppression\" therapeutic strategy. Future directions include AI-driven models integrating exosomal, coagulation, and imaging data to enable early identification of high-risk patients and accurate cancer-associated thrombosis prediction. These advances highlight EVs' role in linking immunity and coagulation during immunotherapy, which can lead to new diagnostic and therapeutic strategies for mitigating cancer-associated thrombosis in the immunotherapy era.",
+        "source": "PubMed",
+        "doi": "10.1016/j.critrevonc.2026.105502",
+        "keyword": "Exosomes",
+        "title_ja": "免疫療法時代における癌関連血栓症での細胞外小胞を介した免疫-凝固相互作用",
+        "summary_ja": "がん関連血栓症は悪性腫瘍患者の主要な死因の一つであり、免疫チェックポイント阻害薬（ICI）の普及に伴い、血栓塞栓症の合併が増加している。細胞外小胞（EV）は、組織因子（TF）、PD-L1、炎症性非コードRNAなどの多様な生物活性因子を運搬し、内皮細胞、血小板、好中球を血栓形成促進性に再プログラムする。ICI療法下ではサイトカイン駆動のEV放出が増強され、凝固促進性EVの全身負荷が上昇すると同時に、免疫療法の効果にも影響を与える。このEVを介した免疫-凝固相互作用は「炎症-EV-凝固軸」として提唱され、ICI治療患者における血栓症増加の機序を説明する。循環中のTF⁺/PD-L1⁺ EVは免疫効果と血栓リスクを結びつけ、高感度アッセイで動的モニタリング可能である。エクソソームシグネチャーの統合はICI応答性や毒性予測を改善し、EV分泌阻害は免疫抑制を伴わない新たな抗血栓戦略となる。将来的にはA"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Engineered exosomes improve myocardial cell membrane integrity and heart function in dystrophic cardiomyopathy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42505044/",
+        "abstract": "Duchenne muscular dystrophy (DMD)-associated cardiomyopathy is a leading causes of premature death, yet treatment options remain limited. In this study, we developed the easily accessible engineered exosomes for treatment of DMD-associated cardiomyopathy and explored the underlying mechanisms in DmdΔ4 mice, a model harboring hot spot mutation in the dystrophin gene.",
+        "source": "PubMed",
+        "doi": "10.1002/ctm2.70751",
+        "keyword": "Exosomes",
+        "title_ja": "工学設計されたエクソソームがジストロフィー性心筋症における心筋細胞膜の完全性と心機能を改善する",
+        "summary_ja": "本研究では、Duchenne型筋ジストロフィー（DMD）関連心筋症の治療に向け、操作されたエクソソームを開発し、ジストロフィン遺伝子のホットスポット変異を持つDmdΔ4マウスモデルでその効果とメカニズムを検討した。DMD関連心筋症は早死の主因であるが、治療法は限られている。作製したエクソソームは容易に入手可能であり、心筋細胞の膜完全性を改善し、心機能を向上させた。本アプローチは、DMD心筋症に対する新たな治療戦略の基盤を提供する。"
+      },
+      {
+        "title": "Protocol for quantifying miRNA trafficking across the endosomal membrane.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42504016/",
+        "abstract": "The import of miRNA across the endosomal membrane is an essential prerequisite for the loading of miRNAs into the endosomal lumen. These miRNAs are then incorporated into mature multivesicular bodies (MVBs), which then fuse with the plasma membrane, leading to the release of exosomes or extracellular vesicles carrying miRNAs into the intercellular space. Here, we present a reproducible in vitro assay for the quantification of miRNA import across the endosomal membrane. We detail the isolation of intact endosomes from mammalian cells, followed by the loading of synthetic, chemically modified microRNAs (miRNAs) into the vesicles in an RNase-resistant form. Integrating differential centrifugation and iodixanol density-gradient fractionation, we isolate endosomes free of endoplasmic reticulum contamination. Then, we use optimized in vitro cargo-loading techniques to facilitate subsequent assessment of miRNA uptake, stability, and delivery efficiency in the presence of altered external factors, such as ATP or substrate concentration. Ultimately, this protocol presents a standardized method for quantifying miRNA trafficking across the endosomal membrane.",
+        "source": "PubMed",
+        "doi": "10.1002/2211-5463.70315",
+        "keyword": "Exosomes",
+        "title_ja": "エンドソーム膜を介したmiRNA輸送の定量化プロトコル",
+        "summary_ja": "本プロトコルは、エンドソーム膜を介したmiRNA輸送の定量化手法を提示する。miRNAのエンドソーム内腔への取り込みは、成熟多胞体（MVB）への組み込み、続く細胞膜との融合、そしてエクソソームや細胞外小胞を介した細胞間放出に必須である。本手法では、哺乳類細胞から無傷のエンドソームを単離し、RNase耐性型の合成化学修飾miRNAを小胞内にロードする。遠心分離とイオジキサノール密度勾配分画を組み合わせ、小胞体混入のないエンドソームを精製する。最適化されたin vitroカーゴローディング技術を用い、ATPや基質濃度などの外的因子変化下でのmiRNA取り込み、安定性、送達効率を評価する。本プロトコルは、エンドソーム膜を介したmiRNA輸送を定量する標準化手法を提供する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めてまとめます。\n\n1. **CXCR3-B標的アプタマーによる白血病治療**  \n   ALL治療において、CXCR3-B受容体を標的とした超短鎖DNAアプタマーを設計。in silicoとin vitroで有効性を確認し、低分子化による低免疫原性・高安定性が期待される。今後のin vivo検証が進めば、新たな分子標的治療の基盤となる。\n\n2. **胃がんエクソソーム検出の高感度化**  \n   AuPtナノザイムとCD63アプタマーを組み合わせた光熱・比色デュアルモードアプタセンサーを開発。血清中のマトリックス干渉を低減し、高感度かつ簡便なエクソソーム検出を実現。早期診断や治療モニタリングへの応用が期待される。\n\n3. **細胞外小胞とがん関連血栓症**  \n   免疫チェックポイント阻害薬の普及に伴い増加する血栓症に着目。EVが運搬するTFやPD-L1が免疫・凝固連関を調節するメカニズムを解明。血栓症リスク層別化や新規治療標的としてのEVの可能性を示唆。\n\n4. **操作エクソソームによるDMD心筋症治療**  \n   DMDモデルマウスにおいて、ジストロフィン変異を標的とした操作エクソソームが心筋細胞膜の完全性を改善し、心機能を向上。エクソソームによる遺伝子治療の実現可能性を高める重要な前臨床成果。\n\n5. **エンドソーム膜を介したmiRNA輸送定量法**  \n   miRNAがエクソソームに内包される過程を定量するプロトコルを確立。細胞間情報伝達の理解や、EV搭載miRNAの治療応用に向けた基盤技術として重要。"
+}

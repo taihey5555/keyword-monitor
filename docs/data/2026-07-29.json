@@ -1,0 +1,206 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Dilution-Endpoint Comparison of a Flow Cytometric Platelet Activation Assay With PF4/Heparin ELISA and a Lateral Flow Immunoassay in Suspected HIT.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42509001/",
+        "abstract": "Heparin-induced thrombocytopenia (HIT) is a rare but potentially life-threatening, immune-mediated adverse reaction to heparin. PF4-dependent immunoassays are sensitive screening tests, but they detect both platelet-activating and nonactivating antibodies; therefore, positive results require interpretation in clinical context and, when available, confirmation with a functional platelet activation assay.",
+        "source": "PubMed",
+        "doi": "10.1111/ijlh.70210",
+        "keyword": "PF4",
+        "title_ja": "フローサイトメトリー血小板活性化アッセイとPF4/ヘパリンELISAおよびラテラルフローイムノアッセイにおけるHIT疑い例での希釈エンドポイント比較",
+        "summary_ja": "タイトル：HIT疑い例におけるフローサイトメトリー血小板活性化アッセイの希釈エンドポイント比較：PF4/ヘパリンELISAおよびラテラルフロー免疫測定法との比較\n\n内容：ヘパリン起因性血小板減少症（HIT）は、ヘパリンに対する免疫介在性の稀だが生命を脅かす有害反応である。PF4依存性免疫測定法は高感度なスクリーニング検査だが、血小板活性化抗体と非活性化抗体の両方を検出するため、陽性結果は臨床的文脈で解釈し、可能であれば機能的血小板活性化アッセイで確認する必要がある。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "The evolution of cellular therapies in sarcoma: Breakthroughs, challenges, and future directions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42517272/",
+        "abstract": "Cellular therapies representa promising area of immunotherapy for advanced cancers,therapies including T cell receptor (TCR) therapies, chimeric antigen receptor (CAR) T cell therapies, tumor-infiltrating lymphocyte (TIL) therapies, and natural killer (NK) cell therapies.Sarcomas pose unique challenges due to their molecular complexity and immunosuppressive tumor microenvironment (TME). TCRtherapiesargeting antigens likeNY-ESO-1, MAGE-A4, and PRAME have shown efficacy, highlighted by the FDA's accelerated approval of afamitresgene autoleucel targeting MAGE-A4 for synovial sarcoma.CAR-T cell therapies targeting HER2, GD2, and B7-H3, along with TIL, and NK cell therapies are also under investigation.However, many are in early stages of clinical development, and their effectiveness may vary by sarcoma subtype. Overcoming challenges such as immunosuppressive TME, antigen escape, lack of T-cell persistence, and off-target toxicities is crucial to improving outcomes for sarcoma patients. This review summarizes the evolution of cellular therapies,ongoing research, challenges, and future directions in this field.",
+        "source": "PubMed",
+        "doi": "10.1080/21645515.2026.2708435",
+        "keyword": "NK cell therapy",
+        "title_ja": "肉腫における細胞療法の進化：進展、課題、そして将来の方向性",
+        "summary_ja": "本レビューは、肉腫に対する細胞療法の進化、課題、将来展望をまとめた。細胞療法は進行癌に対する免疫療法の有望な分野であり、T細胞受容体（TCR）療法、キメラ抗原受容体（CAR）T細胞療法、腫瘍浸潤リンパ球（TIL）療法、ナチュラルキラー（NK）細胞療法を含む。肉腫は分子の複雑性と免疫抑制性腫瘍微小環境（TME）により特有の課題を呈する。NY-ESO-1、MAGE-A4、PRAME等を標的とするTCR療法は有効性を示し、滑膜肉腫に対しMAGE-A4標的のafamitresgene autoleucelがFDAの迅速承認を得た。HER2、GD2、B7-H3を標的とするCAR-T細胞療法、TIL、NK細胞療法も研究段階にあるが、多くは初期臨床開発であり、効果は肉腫サブタイプにより異なる。免疫抑制性TME、抗原逃避、T細胞持続性欠如、オフターゲット毒性などの克服が患者転帰改善に不可欠である。"
+      },
+      {
+        "title": "BCG-Related Immune Reconstitution Inflammatory Syndrome and Delayed Donor Chimerism After Allogeneic HSCT in T",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42516309/",
+        "abstract": "Severe combined immunodeficiency (SCID) is a life-threatening disorder that requires early hematopoietic stem cell transplantation (HSCT). In regions where Bacillus Calmette-Guérin (BCG) vaccination is routinely administered at birth, disseminated BCG disease significantly complicates the clinical course in infants. Post-HSCT, immune reconstitution inflammatory syndrome (IRIS) poses an additional challenge, particularly in patients with active mycobacterial infections and mixed chimerism.",
+        "source": "PubMed",
+        "doi": "10.1155/crii/3971651",
+        "keyword": "NK cell therapy",
+        "title_ja": "同種造血幹細胞移植後のBCG関連免疫再構築炎症症候群と遅発性ドナーキメリズム",
+        "summary_ja": "重症複合免疫不全症（SCID）は致死的疾患であり、早期の同種造血幹細胞移植（HSCT）が必要である。出生時にBCGワクチンが定期接種される地域では、播種性BCG感染症が乳児の経過を著しく複雑化する。HSCT後、免疫再構築炎症症候群（IRIS）が新たな課題となり、特に活動性抗酸菌感染症と混合キメリズムを有する患者で顕著である。本論文は、BCG関連IRISと遅延性ドナーキメリズムの関連を報告する。"
+      },
+      {
+        "title": "The Dendritic Cell-based Vaccine PROTEXI leverages Antiviral CD4 T cell Memory to boost anti-tumor immune responses in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42509244/",
+        "abstract": "The efficacy of dendritic cell (DC) cancer vaccines is linked to poor immunogenicity of tumor-associated antigens and failure to elicit robust MHC class II-restricted CD4⁺ T-cell responses. Here, we introduce PROTEXI, a DC vaccine platform that optimizes tumor immunity by co-presenting tumor-specific CD8⁺ T-cell epitopes alongside CD4⁺ T helper epitopes from the SARS-CoV-2 Spike protein, leveraging widespread anti-viral immunity. In preclinical mouse models of melanoma and breast cancer, PROTEXI significantly reduces tumor growth and improves survival by promoting robust T cell infiltration into immune-cold tumors, increasing cytotoxic T cell responses via epitope spreading, and activating genes linked to optimal DC, NK cell, and T cell function. Furthermore, PROTEXI elicits superior responses when combined with other immunotherapy agents in models of therapy-resistant tumors. Finally, in a humanized mouse model of melanoma, PROTEXI vaccine co-presenting CD4⁺ T-specific Spike epitopes with CD8⁺ T cell-restricted PRAME and MAGE-A3 antigens, significantly reduces tumor burden. Thus, these data underscore the potential of harnessing pre-existing viral-specific immunity to enhance the efficacy of DC vaccines in immune-cold tumors.",
+        "source": "PubMed",
+        "doi": "10.1038/s41467-026-74891-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "樹状細胞ワクチンPROTEXIは、抗ウイルスCD4 T細胞メモリーを活用してマウスにおける抗腫瘍免疫応答を増強する。",
+        "summary_ja": "本論文では、樹状細胞（DC）ワクチンの課題である腫瘍関連抗原の免疫原性の低さとMHCクラスII拘束性CD4⁺T細胞応答の誘導不全に対し、新たなDCワクチンプラットフォームPROTEXIを提案する。PROTEXIは、腫瘍特異的CD8⁺T細胞エピトープとSARS-CoV-2スパイクタンパク質由来のCD4⁺Tヘルパーエピトープを同時提示し、既存の抗ウイルス免疫を活用する。マウス黒色腫および乳癌モデルにおいて、PROTEXIは免疫コールド腫瘍へのT細胞浸潤を促進し、エピトープ拡散による細胞傷害性T細胞応答を増強し、DC、NK細胞、T細胞機能に関連する遺伝子を活性化することで、腫瘍増殖を抑制し生存率を向上させた。また、治療抵抗性腫瘍モデルでは他の免疫療法薬との併用で優れた効果を示した。さらに、ヒト化マウス黒色腫モデルにおいて、PRAMEおよびMAGE-A3抗原とスパイクエピトープを共提示するPROT"
+      },
+      {
+        "title": "HDAC6 orchestrates NK cell maturation and antitumor immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42508828/",
+        "abstract": "Natural killer (NK) cells act as the host's first line of immunosurveillance, and their maturation and effector functions are finely regulated by multiple factors. Although histone deacetylase (HDAC) inhibition has been reported to impair NK cell viability and/or antitumor effects, the specific HDAC member involved and the underlying mechanisms remain unclear.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2026-015167",
+        "keyword": "NK cell therapy",
+        "title_ja": "HDAC6がNK細胞の成熟と抗腫瘍免疫を制御する",
+        "summary_ja": "タイトル: HDAC6 orchestrates NK cell maturation and antitumor immunity.\n\n要約: Natural killer (NK)細胞は宿主の免疫監視における最前線として機能し、その成熟とエフェクター機能は複数の因子により精密に制御される。ヒストン脱アセチル化酵素（HDAC）阻害がNK細胞の生存能や抗腫瘍効果を損なうことが報告されているが、関与する特定のHDAC分子とそのメカニズムは不明である。本論文では、HDAC6がNK細胞の成熟と抗腫瘍免疫を制御する鍵因子であることを明らかにした。HDAC6の欠損または阻害は、NK細胞の成熟段階を阻害し、細胞傷害活性やサイトカイン産生を低下させる。さらに、HDAC6は脱アセチル化を介して転写因子やシグナル伝達経路を調節し、NK細胞の分化と機能発現に寄与する。これらの知見は、HDAC6を標的とした新た"
+      },
+      {
+        "title": "GBP6 maintains mitochondrial bioenergetics to promote immune evasion from NK cells in cervical cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42507554/",
+        "abstract": "Metabolic reprogramming and immune evasion are central hallmarks of cancer progression; yet, how mitochondrial metabolism shapes immune escape remains unclear. Here, we identify GBP6 as a tumor-intrinsic mitochondrial factor associated with aggressive cervical cancer. GBP6 is enriched in high-risk tumors and correlates with poor clinical outcomes. GBP6 knockdown suppresses tumor cell proliferation and promotes cell death. Mechanistically, GBP6 localizes to mitochondria, interacts with TACO1, and supports respiratory complex IV integrity and activity. GBP6 depletion disrupts mitochondrial bioenergetics, reduces membrane potential and NADPH availability, increases ROS production, and compromises the GSH-GPX4 antioxidant axis, thereby promoting lipid peroxidation and ferroptosis-associated cell death. This mitochondrial redox stress induces ICAM-1 expression through ROS-NF-κB signaling, enhancing NK-cell adhesion, immune synapse formation, and tumor-cell killing. In xenograft models, GBP6 depletion sensitizes tumors to adoptively transferred NK cells. These findings identify GBP6 as a mitochondrial regulator linking metabolic fitness to innate immune evasion in cervical cancer.",
+        "source": "PubMed",
+        "doi": "10.1016/j.celrep.2026.117704",
+        "keyword": "NK cell therapy",
+        "title_ja": "GBP6 維持ミトコンドリア生体エネルギーを介し、子宮頸がんにおけるNK細胞からの免疫回避を促進する",
+        "summary_ja": "タイトル：GBP6は子宮頸癌においてミトコンドリアのバイオエナジェティクスを維持し、NK細胞からの免疫逃避を促進する。\n\n内容：代謝リプログラミングと免疫逃避は癌進行の主要な特徴であるが、ミトコンドリア代謝が免疫逃避に与える影響は不明である。本研究では、GBP6を攻撃的な子宮頸癌に関連する腫瘍内在性ミトコンドリア因子として同定した。GBP6は高リスク腫瘍で濃縮され、予後不良と相関する。GBP6ノックダウンは腫瘍細胞増殖を抑制し、細胞死を促進する。メカニズムとして、GBP6はミトコンドリアに局在し、TACO1と相互作用して呼吸鎖複合体IVの完全性と活性を維持する。GBP6欠損はミトコンドリアのバイオエナジェティクスを破綻させ、膜電位とNADPH利用能を低下させ、ROS産生を増加させ、GSH-GPX4抗酸化軸を損なうことで脂質過酸化とフェロトーシス関連細胞死を促進する。このミトコンドリア酸化ス"
+      },
+      {
+        "title": "A Phase I/II Study of Ibrutinib Plus Trastuzumab in HER2-Positive Metastatic Breast Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42504645/",
+        "abstract": "Ibrutinib has demonstrated inhibition of ErbB/HER tyrosine kinases in preclinical models. This Phase I/II study investigated the safety, efficacy, and immunomodulatory effects of ibrutinib in combination with trastuzumab in patients with HER2-positive metastatic breast cancer (MBC) whose disease had progressed on ado-trastuzumab emtansine therapy. In Phase I, cohorts of three patients received ibrutinib 560 mg or 420 mg by mouth once daily combined with standard dosing of trastuzumab. Phase II enrolled additional patients to assess the primary endpoint of clinical benefit rate (CBR) at 420 mg ibrutinib plus trastuzumab. Flow cytometry and NanoString analyses were performed on peripheral blood mononuclear cells. Overall, 26 patients were enrolled. Patients received a median of three prior regimens containing a HER2-targeted therapy in any setting. The most common treatment-related adverse events were bruising, rash, fatigue, and thrombocytopenia. Four patients (15%) experienced cardiac adverse events, including decreased left ventricular ejection fraction in two patients. The CBR of ibrutinib plus trastuzumab was 19.2% (95% confidence interval: 6.6-39.4). Flow cytometry of T- and natural killer (NK)-cell and myeloid-cell panels showed that treatment statistically significantly decreased T helper 17 (T",
+        "source": "PubMed",
+        "doi": "10.1002/cam4.72085",
+        "keyword": "NK cell therapy",
+        "title_ja": "イブルチニブとトラスツズマブの併用療法によるHER2陽性転移性乳癌に対する第I/II相試験",
+        "summary_ja": "この論文は、HER2陽性転移性乳がん（MBC）患者を対象に、イブルチニブとトラスツズマブの併用療法の安全性、有効性、免疫調節効果を評価した第I/II相試験です。対象はアドトラスツズマブ エムタンシン療法後に進行した患者で、第I相ではイブルチニブ560mgまたは420mgを1日1回経口投与し、第II相では420mg投与群で臨床的有用率（CBR）を主要評価項目としました。全26名が登録され、中央値で3レジメンのHER2標的療法の前治療歴がありました。主な治療関連有害事象は挫傷、発疹、疲労、血小板減少症で、15%に心臓有害事象が認められました。CBRは19.2%（95%信頼区間: 6.6-39.4）でした。フローサイトメトリー解析では、治療によりTヘルパー17細胞が統計学的に有意に減少しました。"
+      },
+      {
+        "title": "Characterization of persistent HPV-specific activated T cells in head and neck squamous cell carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42503644/",
+        "abstract": "Human papillomavirus-positive oropharyngeal squamous cell carcinoma (HPV + OPSCC) generally has favorable outcomes yet remains prone to late recurrence. Durable control likely depends on persistent tumor-specific CD8+ T cells, but their persistence and function in metastasis are poorly understood.",
+        "source": "PubMed",
+        "doi": "10.1080/2162402X.2026.2707808",
+        "keyword": "NK cell therapy",
+        "title_ja": "頭頸部扁平上皮癌における持続的なHPV特異的活性化T細胞の特性評価",
+        "summary_ja": "タイトル：頭頸部扁平上皮癌における持続的なHPV特異的活性化T細胞の特性評価\n\nヒトパピローマウイルス陽性中咽頭扁平上皮癌（HPV+OPSCC）は予後良好だが、晩期再発を起こしやすい。持続的な腫瘍制御には腫瘍特異的CD8+T細胞の持続性が重要と考えられるが、転移巣におけるその持続性と機能は未解明である。本論文では、HPV+OPSCC患者の原発巣および転移リンパ節におけるHPV特異的T細胞を解析。活性化マーカー（PD-1, CD39, CD103）を発現する持続的なHPV特異的CD8+T細胞が転移巣でも検出され、それらはエフェクターメモリー表現型を示し、ex vivoでHPV抗原に応答してIFN-γを産生した。一方、一部のT細胞はPD-1高発現により機能低下を示した。これらの結果は、転移環境でもHPV特異的T細胞が持続し活性化状態を維持するが、免疫抑制シグナルにより機能が制限される可能性を示"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Engineering the blood: Lipid nanoparticle platforms for ex vivo immune and hematopoietic cell therapies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42508766/",
+        "abstract": "Ex vivo gene delivery is a fundamental technology driving cellular therapeutics, required for CAR-T cells, engineered NK cells, reprogrammed macrophages, and genetically corrected HSPCs. Beyond nucleated immune effectors, this frontier is rapidly expanding to anucleate lineages like red blood cells and platelets. Traditionally, viral vectors have been widely utilized; however, their clinical translation is hindered by insertional mutagenesis, payload constraints, and complex manufacturing. As an alternative, electroporation has become the clinical standard for non-viral delivery, yet it intrinsically induces severe cytotoxicity and triggers a p53-dependent DNA damage response in HSPCs that compromises stem cell fitness. To address these critical bottlenecks, this review highlights LNP as a platform to overcome the limitations of conventional delivery methods. By facilitating physiological endocytosis and ultra-transient expression of nucleic acid payloads, LNP platforms abrogate p53 pathway activation and minimize cellular stress. Rationally designed LNPs achieve high delivery efficiencies across diverse blood lineages while preserving cell viability, innate functionality, and long-term in vivo repopulating capacity. By comprehensively discussing recent advancements in LNP formulation and next-generation RNA payload engineering, this review aims to provide actionable guidance to bench-side cell engineering to broad clinical applications.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jconrel.2026.115211",
+        "keyword": "NK cell therapy",
+        "title_ja": "血液を工学する：ex vivo免疫細胞療法および造血細胞療法のための脂質ナノ粒子プラットフォーム",
+        "summary_ja": "このレビュー論文は、CAR-T細胞、NK細胞、マクロファージ、HSPC（造血幹前駆細胞）などの血液系細胞を用いたex vivo遺伝子治療における、脂質ナノ粒子（LNP）プラットフォームの可能性を解説する。従来のウイルスベクターは挿入変異誘発や製造の複雑さが課題であり、非ウイルス法の電気穿孔法は細胞毒性やp53依存性DNA損傷応答を引き起こす。LNPは生理的なエンドサイトーシスを介し、核酸の超一過的発現を実現することでp53経路の活性化を回避し、細胞ストレスを最小化する。合理的に設計されたLNPは、多様な血液系細胞において高い送達効率と細胞生存率、生体内長期生着能を維持する。本稿はLNP製剤と次世代RNAペイロード工学の最新進展を包括的に議論し、基礎研究から臨床応用への実践的指針を提供する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Mitigating Cancer Therapy-Related Cognitive Impairment by Targeted Activation of Undruggable Phosphatase.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42517645/",
+        "abstract": "Cancer therapy-related cognitive impairment (CTRCI) is a debilitating neurotoxic condition adversely impacting cancer patients during and post-cancer treatments. The cancer treatments linked to CTRCI include chemotherapy, hormone therapy, targeted therapy, and immunotherapy. Despite CTRCI severely affecting the psychological and social, cognitive functions, and the overall quality of life of cancer survivors, no effective medications are available currently. Our prior studies have indicated hippocampal tyrosine phosphatase protein tyrosine phosphatase receptor type O (PTPRO) as a putative target for CTRCI. However, phosphatase is historically considered undruggable, and delivering drugs across the blood-brain barrier (BBB) is challenging. Here, we developed a novel delivery system using neuron-targeted extracellular vesicles (EVs) engineered with a neuron-specific peptide rabies virus glycoprotein (RVG) to transport a small activating RNA (saRNA) targeting Ptpro (RVG-EVs-saPtpro). We evaluated the stability, dynamic distribution, cytotoxicity, and brain specificity of RVG-EVs-saPtpro in cellular and animal models. A single intravenous injection of RVG-EVs-saPtpro resulted in sustained elevation of PTPRO in the brain for at least 28 days in CTRCI mice. More importantly, RVG-EVs-saPtpro significantly alleviated CTRCI symptoms by enhancing neuronal survival, neurogenesis, and synaptic plasticity. These findings highlight the potential of RVG-EVs-saPtpro system for targeted treatment of CTRCI.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.202520135",
+        "keyword": "Exosomes",
+        "title_ja": "標的型活性化による治療困難なホスファターゼの活性化を通じたがん治療関連認知障害の軽減",
+        "summary_ja": "がん治療関連認知障害（CTRCI）は、化学療法や免疫療法などに起因する神経毒性症状で、患者の認知機能や生活の質を著しく低下させるが、有効な薬剤は存在しない。本研究では、海馬のチロシンホスファターゼPTPROを標的とし、従来は創薬困難とされたホスファターゼを活性化するため、神経細胞特異的ペプチドRVGを搭載した細胞外小胞（EVs）を用い、Ptproを標的とする低分子活性化RNA（saRNA）を送達するシステム（RVG-EVs-saPtpro）を開発した。細胞・動物モデルにおいて、その安定性、脳特異性、毒性を評価し、CTRCIマウスへの単回静脈注射で少なくとも28日間PTPROの発現上昇を確認。さらに、神経細胞生存、神経新生、シナプス可塑性を促進し、CTRCI症状を有意に改善した。本システムはCTRCIの標的治療に有望である。"
+      },
+      {
+        "title": "Endometrial Repair and Regenerative Medicine: From Broad-Spectrum Regeneration to Precision Intervention.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42509440/",
+        "abstract": "Endometrial injury-related disorders, including intrauterine adhesions, thin endometrium, and chronic endometritis, are a major cause of female infertility. Conventional therapeutic approaches, primarily hormone therapy and surgical interventions, show limited effectiveness in patients with moderate to severe endometrial damage. In this context, regenerative medicine has emerged as a promising direction to overcome current therapeutic limitations and promote functional reconstruction of the endometrium. A comprehensive literature search was conducted across PubMed, Web of Science, Embase, and Scopus to identify relevant studies on endometrial repair and regenerative medicine. The search covered publications from January 2000 to August 2025. The following keyword combinations and MeSH terms were used: (\"endometrial repair\" OR \"endometrial regeneration\" OR \"intrauterine adhesion\" OR \"Asherman syndrome\" OR \"thin endometrium\" OR \"chronic endometritis\") AND (\"mesenchymal stem cells\" OR \"platelet-rich plasma\" OR \"exosomes\" OR \"extracellular vesicles\" OR \"biomaterials\" OR \"hydrogel\" OR \"scaffold\" OR \"regenerative medicine\"). Both basic science investigations and clinical studies were included to provide a comprehensive overview of current developments in the field. To minimize the risk of omission, the reference lists of included articles and relevant reviews were manually screened, and potentially pertinent studies were further evaluated. Inclusion criteria: (1) Original research articles or meta-analyses; (2) Focus on therapeutic interventions for endometrial regeneration; (3) Human clinical studies or mammalian animal models. Exclusion criteria: (1) Non-English articles, letters, conference proceedings, etc.; (2) Purely descriptive studies of endometrial physiology without therapeutic intervention, articles lacking quantitative data or sufficient methodological details. The screening process followed the PRISMA 2020 guidelines (Fig. 1). After removing duplicates, 1936 records were screened by title and abstract, and 605 full-text articles were assessed for eligibility. Finally, 102 studies were included in this qualitative synthesis. This review provides a systematic synthesis of recent advances in cell-based therapies, cell-free approaches, and bioengineering strategies for endometrial repair. Evidence derived from different sources of mesenchymal stem cells, including bone marrow, umbilical cord, and endometrium, is comparatively evaluated alongside platelet-rich plasma and extracellular vesicles, with an emphasis on hierarchical assessment of evidence levels. Several critical issues are further examined. Current stem cell-based interventions are largely characterized by a broad reparative profile, yet precise targeting of key molecular mechanisms remains insufficient. To date, no studies have demonstrated the capacity to directly reverse suppression of signaling pathways such as the GZMA-PARD3 axis or to restore depleted regenerative stromal subpopulations, including IGFBP3⁺ cells. Clinical investigations of platelet-rich plasma exhibit substantial heterogeneity, which appears to stem mainly from the absence of standardized preparation protocols and the frequent reliance on surrogate endpoints, particularly endometrial thickness. However, the predictive value of endometrial thickness for live birth is limited, and its use as a primary endpoint may overestimate clinical benefit. Therefore, emphasis should shift toward patient-centered outcomes such as live birth rate. Concerns also arise regarding the degradation kinetics of biomaterials, as mismatches between material resorption and the cyclical regenerative dynamics of the endometrium may increase the risk of secondary adhesions. In addition, the actual delivery efficiency of microneedle-based systems within the enclosed and humid uterine environment has not yet been fully clarified. Based on this critical appraisal, we propose a translational framework that links mechanistic discovery with precision intervention. The importance of long-term follow-up is emphasized, with live birth rate regarded as a more clinically meaningful primary endpoint for evaluating therapeutic efficacy in endometrial regenerative medicine. Endometrial regenerative medicine is transitioning from empirical repair toward mechanism-informed reconstruction. Current evidence is dominated by short-term (< 12 months), small-sample (n < 50) exploratory studies with high interventional heterogeneity. Clinical translation will require unified preparation standards, individualized treatment strategies, and well-designed multicenter randomized controlled trials with live birth rate as the primary endpoint and minimum 2-year follow-up.",
+        "source": "PubMed",
+        "doi": "10.1007/s43032-026-02150-3",
+        "keyword": "Exosomes",
+        "title_ja": "子宮内膜修復と再生医療：広域再生から精密介入へ",
+        "summary_ja": "この論文は、子宮内膜損傷関連疾患（子宮内癒着、菲薄内膜、慢性子宮内膜炎）に対する再生医療の可能性を検討したレビューである。2000年1月から2025年8月までの文献をPubMed等で検索し、102件の研究を質的に統合した。細胞治療（間葉系幹細胞）、無細胞アプローチ（血小板豊富血漿、細胞外小胞）、生体材料（ハイドロゲル、足場材）の進展を比較評価。現状の幹細胞治療は広範な修復効果を示すが、GZMA-PARD3経路の抑制解除やIGFBP3⁺細胞の回復といった精密な分子標的には不十分である。血小板豊富血漿の臨床研究は調製法の標準化欠如と代理エンドポイント（子宮内膜厚）への依存が問題で、生児出生率を主要評価項目とすべきと指摘。生体材料の分解速度と子宮内膜周期の不整合による二次癒着リスク、子宮内環境でのマイクロニードル送達効率の未解明も課題。結論として、再生医療は経験的修復から機構に基づく再構築へ移行"
+      },
+      {
+        "title": "From multi-target to network synergy: a systematic review of how traditional Chinese medicine acts against myocardial ischemia-reperfusion injury via miRNA-mediated systemic communication.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42508513/",
+        "abstract": "Myocardial ischemia-reperfusion injury (MIRI) refers to further damage to myocardial cells caused by multiple factors after blood flow is restored to the ischemic myocardium. Currently, there is a lack of effective treatment strategies in clinical practice. While microRNA (miRNA) is recognized as pivotal regulators, current therapeutic strategies rarely harness its network properties or systemic communicative roles.",
+        "source": "PubMed",
+        "doi": "10.1016/j.phrs.2026.108362",
+        "keyword": "Exosomes",
+        "title_ja": "多靶点到网络协同：中药通过miRNA介导的系统性通信抗心肌缺血再灌注损伤的系统综述",
+        "summary_ja": "タイトル：多標的からネットワーク相乗効果へ：伝統中国医学がmiRNAを介した全身的コミュニケーションにより心筋虚血再灌流障害に作用するメカニズムの系統的レビュー\n\n内容：心筋虚血再灌流障害（MIRI）は、虚血心筋への血流再開後に多因子により生じる心筋細胞のさらなる損傷である。現状、有効な治療戦略は臨床的に不足している。microRNA（miRNA）は重要な調節因子として認識されているが、現在の治療戦略はそのネットワーク特性や全身的コミュニケーション機能をほとんど活用していない。本レビューは、伝統中国医学（TCM）がmiRNAを介した全身的シグナル伝達を利用し、MIRIに対して多標的からネットワーク相乗効果へと作用する可能性を系統的に検討する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "MicroRNAs in Spinal Cord Injury: Molecular and Translational Insights.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42518142/",
+        "abstract": "Spinal cord injury (SCI) is characterized by complex molecular and cellular disturbances that contribute to progressive tissue damage and neurological dysfunction. Among the regulatory mechanisms implicated, microRNAs (miRNAs), which are small noncoding RNAs that regulate gene expression posttranscriptionally, have emerged as central components of several injury-related pathways. This review synthesizes current knowledge regarding the regulatory functions of miRNAs and evaluates their potential as therapeutic targets.",
+        "source": "PubMed",
+        "doi": "10.1002/brb3.71617",
+        "keyword": "Exosomes",
+        "title_ja": "脊髄損傷におけるマイクロRNA：分子メカニズムとトランスレーショナルな知見",
+        "summary_ja": "脊髄損傷（SCI）は、複雑な分子・細胞レベルの障害を特徴とし、進行性の組織損傷と神経機能不全を引き起こす。その調節機構のうち、遺伝子発現を転写後レベルで制御する低分子ノンコーディングRNAであるマイクロRNA（miRNA）が、損傷関連経路の中核的要素として注目されている。本総説は、SCIにおけるmiRNAの調節機能に関する現在の知見を統合し、治療標的としての可能性を評価する。"
+      },
+      {
+        "title": "Role of adiponectin in gestational diabetes mellitus: advances in mechanistic insights and early predictive potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42516090/",
+        "abstract": "Gestational diabetes mellitus (GDM) is a common metabolic complication of pregnancy and is associated with an increased risk of short-term adverse maternal and neonatal outcomes, as well as long-term metabolic disorders in both mothers and offspring. Exacerbated insulin resistance and inadequate compensatory pancreatic β-cell function constitute the core pathophysiological basis of GDM. Adiponectin is an insulin-sensitizing adipokine that plays important roles in glucose and lipid metabolism, inflammatory regulation, and energy homoeostasis. Changes in maternal circulating adiponectin levels during pregnancy are closely associated with reduced insulin sensitivity and increased risk of GDM. This review systematically summarizes the roles of adiponectin and its distinct isoforms, particularly high-molecular-weight adiponectin, in GDM development, metabolic regulation, and early risk assessment. We also integrate potential interactions between adiponectin and placental hormones, nutrient transport, local inflammation, oxidative stress, and exosome-related mechanisms. In addition, this review discusses the key issues related to adiponectin measurement standardization, gestational timing of blood sampling, population heterogeneity, combined prediction models, and their integration into the oral glucose tolerance test (OGTT). The current findings support adiponectin as a candidate biomarker for early GDM risk stratification and combined prediction models; however, adiponectin cannot replace OGTT as a diagnostic criterion.",
+        "source": "PubMed",
+        "doi": "10.1080/21623945.2026.2705620",
+        "keyword": "Exosomes",
+        "title_ja": "アディポネクチンの妊娠糖尿病における役割：メカニズム解明の進展と早期予測の可能性",
+        "summary_ja": "本論文は、妊娠糖尿病（GDM）におけるアディポネクチンの役割を、メカニズムと早期予測可能性に焦点を当てて概説する。GDMは妊娠中の代謝合併症であり、インスリン抵抗性の亢進と膵β細胞機能不全が病態基盤である。アディポネクチンはインスリン感受性を高めるアディポカインで、糖・脂質代謝、炎症調節、エネルギー恒常性に関与する。妊娠中のアディポネクチン低下はインスリン感受性低下とGDMリスク上昇と関連する。本レビューは、特に高分子量アディポネクチンに注目し、GDM発症、代謝調節、早期リスク評価における役割を整理する。さらに、胎盤ホルモン、栄養輸送、局所炎症、酸化ストレス、エクソソームとの相互作用を統合する。測定標準化、採血時期、集団 heterogeneity、複合予測モデル、OGTTとの統合に関する課題も議論する。現在の知見は、アディポネクチンが早期リスク層別化と複合予測モデルのバイオマーカー候補で"
+      },
+      {
+        "title": "Mesenchymal stem cell-derived exosome NR4A2 inhibits fracture healing in aged rat by blocking NELL2-mediated osteogenic differentiation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42508332/",
+        "abstract": "As a transcription factor, nuclear receptor subfamily 4 group A member 2 (NR4A2) regulates target gene transcription by directly binding to response elements within gene promoters. However, the exact role and molecular mechanism of NR4A2 in fracture healing have not been fully elucidated. Here, we identified NR4A2 as a key functional molecular cargo enriched in exosomes secreted by aged bone marrow stromal cells (BMSCs). Upon uptake by recipient cells, exosomal NR4A2 functioned as a transcriptional repressor that specifically bound to the promoter region of the Neural EGFL-like 2 (NELL2) gene, thereby suppressing its transcription. We further demonstrated that NELL2 acted as a critical adaptor protein that enhanced the binding affinity between fibronectin 1 (Fn1) and integrin β1, thereby licensing FAK/AKT cascade activation essential for osteogenic differentiation. Mechanistically, NR4A2-mediated suppression of NELL2 impaired the assembly of the NELL2/Fn1/integrin β1 complex and attenuated FAK/AKT phosphorylation, thereby inhibiting osteogenesis and culminating in delayed fracture healing. Collectively, our findings delineate a novel exosome-dependent regulatory axis, through which aged BMSCs deteriorated the bone repair microenvironment via the NR4A2/NELL2/FAK-AKT signaling cascade. This study reveals a previously unrecognized molecular mechanism underlying age-associated fracture healing impairment.",
+        "source": "PubMed",
+        "doi": "10.1016/j.molimm.2026.07.010",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来エクソソームのNR4A2は、NELL2を介した骨形成分化を阻害することで老齢ラットの骨折治癒を抑制する",
+        "summary_ja": "本論文は、老化ラットの骨折治癒遅延における間葉系幹細胞由来エクソソーム内の転写因子NR4A2の役割を解明した。老化骨髄間質細胞（BMSCs）から分泌されるエクソソームにはNR4A2が豊富に含まれ、受容細胞に取り込まれると、NELL2遺伝子のプロモーター領域に結合し転写を抑制する。NELL2はフィブロネクチン1（Fn1）とインテグリンβ1の結合親和性を高めるアダプタータンパク質であり、FAK/AKTカスケードを活性化して骨形成を促進する。NR4A2によるNELL2抑制は、NELL2/Fn1/インテグリンβ1複合体の形成を阻害し、FAK/AKTリン酸化を減弱させることで骨形成を抑制し、骨折治癒を遅延させる。本研究は、老化BMSCsがNR4A2/NELL2/FAK-AKTシグナル伝達を介して骨修復微小環境を悪化させる新たな分子機構を明らかにした。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **NK細胞の成熟と抗腫瘍免疫におけるHDAC6の役割**  \n   HDAC6がNK細胞の成熟を制御し、抗腫瘍免疫応答を促進するメカニズムが明らかになりました。NK細胞療法の有効性向上に直結する発見であり、HDAC6阻害剤との併用戦略が期待されます。\n\n2. **子宮頸癌におけるGBP6とNK細胞免疫逃避**  \n   GBP6がミトコンドリア代謝を維持することでNK細胞からの免疫逃避を促進する機構が解明されました。代謝リプログラミングを標的とした新たな免疫療法の開発につながる可能性があります。\n\n3. **PROTEXI：抗ウイルスCD4 T細胞記憶を活用したDCワクチン**  \n   既存の抗ウイルス免疫記憶を利用して腫瘍免疫を誘導する新規DCワクチンプラットフォームです。免疫原性の低い腫瘍抗原に対する強力なCD4⁺T細胞応答を誘導できる点が画期的です。\n\n4. **脂質ナノ粒子によるex vivo免疫細胞遺伝子治療**  \n   ウイルスベクターに代わる安全な遺伝子導入法として、LNPを用いたCAR-T、NK細胞、マクロファージへの遺伝子改変技術がレビューされました。挿入変異リスク低減と製造効率向上が期待されます。\n\n5. **老化MSC由来エクソソームと骨折治癒遅延**  \n   老化BMSCs由来エクソソーム中のNR4A2がNELL2を阻害し骨折治癒を遅延させる機構が解明されました。エクソソームを介した老化関連疾患の新規治療標的として注目されます。"
+}

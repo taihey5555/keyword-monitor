@@ -1,0 +1,216 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "In situ generation of proinflammatory CAR macrophages via mRNA-TLR agonist co-delivery for triple-negative breast cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42521411/",
+        "abstract": "Chimeric antigen receptor (CAR) macrophage therapy shows significant potential for solid tumors owing to the intrinsic tumor infiltration and phagocytic capacity of macrophages. However, its clinical translation is limited by macrophage phenotypic plasticity within the immunosuppressive tumor microenvironment and the complexity of ex vivo cell manufacturing. It is essential to develop techniques that enable macrophages to be activated specifically by antigens while sustaining their proinflammatory activity in vivo.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2026-015323",
+        "keyword": "NK cell therapy",
+        "title_ja": "mRNA-TLRアゴニスト共送達による炎症性CARマクロファージのin situ生成：トリプルネガティブ乳がん免疫療法に向けて",
+        "summary_ja": "タイトル: In situ generation of proinflammatory CAR macrophages via mRNA-TLR agonist co-delivery for triple-negative breast cancer immunotherapy.\n\n要約: キメラ抗原受容体（CAR）マクロファージ療法は、固形腫瘍に対する内在的な浸潤能と貪食能から有望視されるが、免疫抑制性腫瘍微小環境における表現型可塑性とex vivo製造の複雑さが臨床応用を制限する。本研究では、mRNAとTLRアゴニストの同時送達により、in situでCARマクロファージを生成する技術を開発。これにより、抗原特異的活性化と持続的な炎症促進活性を両立し、トリプルネガティブ乳がん免疫療法における有効性を示した。"
+      },
+      {
+        "title": "Depletion of IL-10 in CAR-NK cells augments reprogramming of the tumor microenvironment and ameliorates therapeutic efficacy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42519392/",
+        "abstract": "The ErbB2 (HER2)-specific CAR-engineered natural killer (NK) cell line NK-92/5.28.z is under investigation in a phase I clinical trial in glioblastoma patients. In preclinical studies, these cells demonstrated potent CAR-mediated cytotoxicity and stimulated endogenous antitumor immunity in immunocompetent animals. Pro-inflammatory cytokines can contribute to the CAR-NK cells' immunomodulatory activity, but this may be attenuated by immunosuppressive IL-10 that is also produced in substantial amounts by activated NK-92/5.28.z cells. To prevent IL-10 secretion, we modified the CAR-NK cells to express an intracellular anti-IL-10 antibody, which trapped IL-10 within the endoplasmic reticulum. This did not affect proliferation, phenotype, or cytotoxicity of the resulting NK-92/5.28.z/anti-IL10ER cells but strengthened their ability to mediate maturation of co-cultured dendritic cells and prevented M2-polarization of co-cultured macrophages induced by unmodified CAR-NK cells. In a syngeneic murine glioblastoma model, NK-92/5.28.z/anti-IL10ER cells exhibited enhanced antitumor activity and favored a pro-inflammatory tumor microenvironment characterized by reduced infiltration of IL-10-responsive immunosuppressive cell types. Our findings demonstrate that inhibiting IL-10 secretion improves the therapeutic potential of CAR-engineered NK-92 cells, suggesting this approach as a promising avenue for clinical translation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.omton.2026.201285",
+        "keyword": "NK cell therapy",
+        "title_ja": "CAR-NK細胞におけるIL-10の欠損は腫瘍微小環境のリプログラミングを促進し、治療効果を向上させる",
+        "summary_ja": "HER2特異的CAR-NK細胞株NK-92/5.28.zは膠芽腫患者を対象とした第I相臨床試験中である。前臨床研究では、強力なCAR介在性細胞傷害と内因性抗腫瘍免疫の活性化を示したが、活性化時に産生される免疫抑制性IL-10がその効果を減弱させる。そこで、細胞内抗IL-10抗体を発現させ、小胞体内でIL-10を捕捉するよう改変したNK-92/5.28.z/anti-IL10ER細胞を作製。この改変は増殖、表現型、細胞傷害性に影響せず、共培養樹状細胞の成熟を促進し、未改変CAR-NK細胞が誘導するマクロファージのM2分極を抑制した。同系マウス膠芽腫モデルでは、抗腫瘍活性が増強され、IL-10応答性免疫抑制細胞の浸潤減少を伴う炎症性腫瘍微小環境が形成された。IL-10分泌阻害はCAR-NK細胞の治療可能性を向上させ、臨床応用への有望なアプローチである。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Single-cell RNA sequencing reveals immunological heterogeneity of the tumor microenvironment in acute myeloid leukemia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42524819/",
+        "abstract": "Acute myeloid leukemia (AML) is a malignancy characterized by abnormal myeloid proliferation. Despite therapeutic advances, relapse is frequent. Understanding the tumor microenvironment (TME), particularly the dysfunction and interactions of natural killer (NK) cells, is essential for improving immunotherapeutic strategies such as chimeric antigen receptor T-cell (CAR-T) and chimeric antigen receptor natural killer cell (CAR-NK) therapies.",
+        "source": "PubMed",
+        "doi": "10.17219/acem/212574",
+        "keyword": "NK cell therapy",
+        "title_ja": "シングルセルRNAシークエンシングが明らかにする急性骨髄性白血病の腫瘍微小環境における免疫学的異質性",
+        "summary_ja": "急性骨髄性白血病（AML）は異常な骨髄増殖を特徴とする悪性腫瘍であり、治療の進歩にもかかわらず再発が多い。腫瘍微小環境（TME）、特にナチュラルキラー（NK）細胞の機能不全と相互作用の理解は、キメラ抗原受容体T細胞（CAR-T）やキメラ抗原受容体NK細胞（CAR-NK）療法などの免疫療法戦略の改善に不可欠である。本論文では、単一細胞RNAシーケンシングを用いてAMLのTMEにおける免疫学的 heterogeneity（不均一性）を解析し、NK細胞の機能低下や他の免疫細胞との相互作用を明らかにした。これにより、免疫療法の標的同定や治療効果向上への示唆が得られた。"
+      },
+      {
+        "title": "Mechanosensitive ion channels in immunity from biophysics to mechanomedicine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42522197/",
+        "abstract": "Immune cells operate within a dynamic mechanical environment. Shear stress, matrix stiffness, membrane tension, and cellular traction continuously shape their fate and function. Mechanosensitive ion channels (MSICs) are the convergent molecular transducers of these forces. Five families dominate immune mechanotransduction: Piezo, TRPV4, K",
+        "source": "PubMed",
+        "doi": "10.1016/j.bpj.2026.07.024",
+        "keyword": "NK cell therapy",
+        "title_ja": "免疫におけるメカノ感受性イオンチャネル：生物物理学からメカノメディシンへ",
+        "summary_ja": "以下の通り要約します。\n\n免疫細胞は、せん断応力、マトリックス剛性、膜張力、細胞牽引力などの動的な力学環境下で機能する。メカノセンシティブイオンチャネル（MSICs）は、これらの力を分子レベルで変換する主要なトランスデューサーである。免疫メカノトランスダクションにおいて中心的な役割を担うのは、Piezo、TRPV4、Kの5つのファミリーである。本論文は、これらのチャネルの生物物理学から、免疫疾患におけるメカノメディシンへの応用までを概観する。"
+      },
+      {
+        "title": "The Innate Regenerome: Harnessing Mesenchymal Niches and Engineered Cytotoxic Killers for Solid Tumor Immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42521112/",
+        "abstract": "Solid tumors evade adaptive immunity through MHC class I downregulation, stromal barricades, and T-cell exhaustion, rendering conventional immunotherapies ineffective in \"cold\" lesions. This review introduces the Innate Regenerome, a unified framework harnessing mesenchymal stromal cells (MSCs), CAR-engineered natural killer (CAR-NK) cells, and CAR-macrophages (CAR-M) to simultaneously eliminate malignancy and restore tissue architecture. MSCs serve as switchable niche engineers, delivering logic-gated anti-fibrotic and chemotactic cues. CAR-NK cells provide rapid, non-exhaustible cytotoxicity with favorable safety and metabolic flexibility for hypoxic tumors. CAR-M function as phagocytic engines and antigen-presenting factories, converting engulfed debris into adaptive immunity. We propose a tripartite circuit where MSCs scaffold the niche, CAR-NK cells generate immunogenic stress, and CAR-M complete clearance and cross-presentation. Emerging strategies include EV-mediated coordination, synNotch spatial gating, and in vivo mRNA-LNP programming. Translational priorities comprise humanized MISTRG6 models, organoid-on-chip platforms, and response endpoints beyond RECIST. The Innate Regenerome repositions innate immunity from auxiliary force to central architect of antitumor and regenerative therapy.",
+        "source": "PubMed",
+        "doi": "10.1016/j.yexcr.2026.115142",
+        "keyword": "NK cell therapy",
+        "title_ja": "自然な日本語訳：\n「先天的再生因子群：固形腫瘍免疫療法のための間葉系ニッチの活用と工学的細胞傷害性キラーの利用」",
+        "summary_ja": "本レビューは、固形腫瘍がMHCクラスIダウンレギュレーション、間質バリア、T細胞疲弊により適応免疫を回避し、「コールド」腫瘍で従来の免疫療法が無効となる問題に対し、Innate Regeneromeという統合的枠組みを提案する。これは間葉系間質細胞（MSC）、CAR-NK細胞、CAR-マクロファージ（CAR-M）を活用し、悪性腫瘍の排除と組織修復を同時に達成する。MSCは論理ゲート制御による抗線維化・走化性シグナルを提供するスイッチ可能なニッチエンジニアとして機能。CAR-NK細胞は迅速で非枯渇性の細胞毒性を持ち、低酸素腫瘍に代謝適応可能。CAR-Mは貪食エンジン兼抗原提示工場として、貪食したデブリを適応免疫に変換する。三者回路ではMSCがニッチを形成、CAR-NKが免疫原性ストレスを誘発、CAR-Mがクリアランスとクロスプレゼンテーションを完了する。新興戦略としてエクソソーム媒介協調、s"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Immune cell-derived circulating extracellular vesicles mediate metabolic dysfunction in preclinical and clinical type 1 diabetes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42525132/",
+        "abstract": "Type 1 diabetes (T1D) is an autoimmune disease that destroys insulin-producing β-cells. Extracellular vesicles (EVs), including exosomes, are now recognized as important mediators of intercellular communication in immune regulation and metabolic homeostasis. Yet how immune cell-derived circulating EVs contribute to metabolic dysfunction across the disease spectrum-from preclinical to clinical T1D-has not been systematically examined.",
+        "source": "PubMed",
+        "doi": "10.1007/s00592-026-02769-3",
+        "keyword": "Exosomes",
+        "title_ja": "免疫細胞由来の循環細胞外小胞が前臨床および臨床の1型糖尿病における代謝機能障害を媒介する",
+        "summary_ja": "タイトル：免疫細胞由来の循環細胞外小胞が前臨床および臨床1型糖尿病における代謝機能障害を媒介する\n\n1型糖尿病（T1D）はインスリン産生β細胞を破壊する自己免疫疾患である。細胞外小胞（EVs）は、エクソソームを含み、免疫調節や代謝恒常性における細胞間コミュニケーションの重要な媒介因子として認識されている。しかし、免疫細胞由来の循環EVsが、前臨床から臨床T1Dに至る疾患スペクトル全体で代謝機能障害にどのように寄与するかは、体系的に検討されていなかった。"
+      },
+      {
+        "title": "Exosomes in ocular graft-versus-host disease: an overview.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42523518/",
+        "abstract": "Ocular graft-versus-host disease (oGVHD) is an immune disease that occurs in the eye after allogeneic hematopoietic stem cell transplantation and seriously affects the vision and quality of life of patients. Current treatment modalities are inadequate, and new treatment options and targets are required to improve the therapeutic efficacy of oGVHD. In recent years, a large number of studies have shown that exosomes, as important mediators of cell-to-cell communication, have important research value in the pathogenesis, diagnosis, and treatment of oGVHD. This article reviews the research progress on exosomes from different sources of oGVHD.",
+        "source": "PubMed",
+        "doi": "10.18240/ijo.2026.08.22",
+        "keyword": "Exosomes",
+        "title_ja": "眼移植片対宿主病におけるエクソソーム：概要",
+        "summary_ja": "眼移植片対宿主病（oGVHD）は、同種造血幹細胞移植後に眼に生じる免疫疾患であり、患者の視力と生活の質を著しく低下させる。現在の治療法は不十分であり、新たな治療選択肢と標的の開発が求められている。近年、細胞間コミュニケーションの重要なメディエーターであるエクソソームが、oGVHDの病態、診断、治療において重要な研究価値を持つことが多数の研究で示されている。本稿では、異なる由来のエクソソームに関するoGVHDの研究進展を概説する。"
+      },
+      {
+        "title": "Novel blood lncRNA biomarkers associated with clinical severity and specific cognitive dimensions in Alzheimer's disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42523149/",
+        "abstract": "BackgroundDifferential expression of long non-coding RNAs (lncRNAs) in brain, serum, and blood show strong potential to distinguish Alzheimer's disease (AD) from healthy controls.ObjectiveTo explore whether lncRNA signatures delineate AD pathology and map to distinct, multidimensional cognitive domains, enhancing specificity in assessing AD severity and progression.MethodsWe profiled 29,603 lncRNAs transcripts in blood samples from 15 AD patients and 15 healthy controls, alongside comprehensive neuropsychological assessments. Generalized Linear Models and Predictive Power Score analyses, with statistical prioritization, identified lncRNAs associated to AD neuropsychological architecture.ResultsSeveral lncRNAs share strongly associated with cognitive performance and AD severity, mapping to genes involved in key AD-related molecular processes, including synaptic and neurotransmitter regulation (e.g., ",
+        "source": "PubMed",
+        "doi": "10.1177/13872877261470430",
+        "keyword": "Exosomes",
+        "title_ja": "アルツハイマー病における臨床的重症度および特定の認知機能領域と関連する新規血液中長鎖ノンコーディングRNAバイオマーカー",
+        "summary_ja": "タイトル：アルツハイマー病の臨床重症度と特定認知次元に関連する新規血液lncRNAバイオマーカー\n\n背景：脳、血清、血液中のlong non-coding RNAs（lncRNAs）の示差的発現は、アルツハイマー病（AD）と健常対照を識別する強い可能性を示す。\n\n目的：lncRNAシグネチャーがAD病理を描出し、多次元的認知領域にマッピングされるかを探索し、AD重症度と進行の評価特異性を向上させる。\n\n方法：AD患者15名と健常対照15名の血液サンプルから29,603のlncRNA転写産物をプロファイリングし、包括的神経心理学的評価を実施。一般化線形モデルと予測力スコア分析を用い、統計的優先順位付けによりAD神経心理学的構造に関連するlncRNAsを同定。\n\n結果：複数のlncRNAsが認知パフォーマンスおよびAD重症度と強く関連し、シナプス・神経伝達物質調節（例：）などAD関連分子プロセ"
+      },
+      {
+        "title": "Functional Engineered Exosomes Loaded with Nanoenzymes Targeting the Proteasome and Inflammation for the Treatment of Rheumatoid Arthritis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42522687/",
+        "abstract": "Mesenchymal stem cell -derived exosomes (MSCs-EXO) have been increasingly studied due to their high biosafety and excellent drug delivery properties. The use of MSCs-EXO as drug carriers for the treatment of rheumatoid arthritis (RA) has been reported. However, conventional exosomes cannot target the damaged area, significantly reducing their therapeutic efficacy. Therefore, this study proposes a strategy for the rational design of exosomes derived from genetically engineered mesenchymal stem cells, enabling them to target the inflammatory storm in the affected limb, regulate the immune microenvironment, and release similar to superoxide dismutase (SOD-like) and similar to catalase (CAT-like) nanoparticles to eliminate Reactive Oxygen and Nitrogen Species (RONS). RA provides a therapeutic platform for disease repair. MSC transduced with a lentivirus and carrying the anchoring peptide IL-4Rα secrete exosomes containing this peptide (IL-4.EXO), which demonstrates excellent targeting ability. These exosomes encapsulate Prussian blue nanoparticles (PB@IL-4.EXO), forming a synergistic composite exosome delivery system targeting inflammation sites, antioxidant stress, and promoting cartilage joint repair. Micro-CT shows a reduction in cartilage damage. Proteomics confirmed that it inhibits inflammation by affecting the proteasomal pathway through suppression of the PSMD4 protein. This exosome combines regulation of inflammation and antioxidant stress, offering a new therapeutic strategy for RA.",
+        "source": "PubMed",
+        "doi": "10.1002/smll.74907",
+        "keyword": "Exosomes",
+        "title_ja": "プロテアソームと炎症を標的としたナノ酵素搭載機能性エクソソームによる関節リウマチ治療",
+        "summary_ja": "間葉系幹細胞由来エクソソーム（MSCs-EXO）は高い生体安全性と薬物送達能を持つが、従来は病変部への標的化が不十分であった。本研究では、遺伝子工学によりIL-4Rαアンカリングペプチドを発現するMSCsを作製し、そのエクソソーム（IL-4.EXO）にプルシアンブルーナノ粒子（PB）を内包させた複合エクソソーム（PB@IL-4.EXO）を開発した。このシステムは、関節リウマチ（RA）の炎症部位を標的化し、SOD様・カタラーゼ様活性で活性酸素・窒素種（RONS）を除去するとともに、免疫微小環境を調節する。Micro-CTにより軟骨損傷の軽減が確認され、プロテオミクス解析ではPSMD4タンパク質抑制を介したプロテアソーム経路の阻害が炎症抑制に寄与することが示された。本エクソソームは抗炎症と抗酸化ストレスを統合し、RAに対する新たな治療戦略を提供する。"
+      },
+      {
+        "title": "A portable smartphone-based fluorescence biosensing strategy for exosome detection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42520835/",
+        "abstract": "Exosomes play a crucial role in intercellular communication and have emerged as promising biomarkers for disease diagnosis and prognosis, however, their nanoscale size and low abundance in biological fluids pose substantial challenges for rapid and quantitative detection. Conventional detection techniques rely on bulky instrumentation and complex workflows that hinder point-of-care implementation. Here, we report a portable smartphone-based fluorescence sensing platform specifically designed to address the limitations of existing exosome assays in portability, quantitative robustness, and operational simplicity. Exosome capture was achieved through a CD63-specific aptamer, followed by molecular recognition using a FAM-labeled, tumor-specific aptamer. A miniaturized optical readout device integrating an excitation unit, optical filters, and an imaging module enables fluorescence acquisition and quantitative analysis without large laboratory equipment. The system completes exosome detection within 40 min and achieves a limit of detection of 7.124 × 106 particles/mL. Clinical sample analysis further demonstrates excellent reproducibility and accuracy in serum exosome detection, underscoring the potential of this portable platform for rapid, on-site biomedical diagnostics.",
+        "source": "PubMed",
+        "doi": "10.1088/1361-6528/ae9169",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム検出のための携帯型スマートフォンベース蛍光バイオセンシング戦略",
+        "summary_ja": "本論文では、エクソソーム検出のためのスマートフォン搭載型蛍光バイオセンシングプラットフォームを報告する。エクソソームは細胞間情報伝達に重要な役割を担い、疾患診断のバイオマーカーとして有望だが、ナノサイズで生体液中の濃度が低く、迅速な定量検出が困難である。従来法は大型装置と複雑な工程を要し、ポイントオブケア実装が課題であった。本プラットフォームは、CD63特異的アプタマーによるエクソソーム捕捉後、FAM標識腫瘍特異的アプタマーで分子認識を行い、小型光学読み取り装置（励起ユニット、光学フィルター、撮像モジュール）で蛍光取得・定量解析を実現する。検出時間は40分以内、検出限界は7.124×10⁶粒子/mLであり、血清サンプルでも高い再現性と精度を示した。本手法は迅速なオンサイト診断への応用が期待される。"
+      },
+      {
+        "title": "An International Expert Consensus Statement Defining the Best Practices and Areas of Uncertainty Concerning the Use of Orthobiologics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42520131/",
+        "abstract": "The use of orthobiologics has received increasing interest given the potential positive treatment effects on symptoms and tissue regeneration. However, there remains substantial variability surrounding the uses of orthobiologics in clinical practice. The purpose of this study was to create an international Delphi expert consensus statement on the use of orthobiologics in musculoskeletal medicine.",
+        "source": "PubMed",
+        "doi": "10.2106/JBJS.26.00723",
+        "keyword": "Exosomes",
+        "title_ja": "整形生物学的製剤の使用に関するベストプラクティスと不確実性領域を定義する国際専門家コンセンサス声明",
+        "summary_ja": "タイトル：整形生物学的製剤の使用に関するベストプラクティスと不確実性を定義する国際専門家コンセンサス声明\n\n内容：整形生物学的製剤（Orthobiologics）は、症状改善と組織再生への効果が期待され注目を集めているが、臨床現場での使用には大きなばらつきがある。本研究は、筋骨格系医学における整形生物学的製剤の使用に関し、国際的なDelphi法による専門家コンセンサス声明を作成することを目的とした。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Understanding extracellular vesicle biology, isolation, and characterization: The theory of EV-erything.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42522993/",
+        "abstract": "Extracellular vesicles (EVs), especially exosomes, are nanoparticles increasingly recognized as key regulators of intercellular communication in both physiological and pathological aspects. Despite rapid progress, inconsistencies in nomenclature, isolation, and characterization continue to restrict translational advancement. This review aims to offer a comprehensive synthesis of EV biology, with a focus on biogenesis, molecular composition, heterogeneity, and methodological considerations for isolation and characterization.",
+        "source": "PubMed",
+        "doi": "10.1111/prd.70068",
+        "keyword": "Exosomes",
+        "title_ja": "細胞外小胞の生物学、単離、および特性評価の理解：EV-エブリシングの理論",
+        "summary_ja": "本レビューは、細胞外小胞（EV）、特にエクソソームの生物学、単離、特性評価に関する包括的な統合を提供する。EVは生理的・病理的双方における細胞間コミュニケーションの鍵となるナノ粒子であるが、命名法、単離法、特性評価の不統一が臨床応用への障壁となっている。本稿では、EVの生合成、分子構成、不均一性に焦点を当て、単離法（超遠心、サイズ排除クロマトグラフィー、免疫親和性法等）と特性評価法（NTA、電子顕微鏡、フローサイトメトリー等）の方法論的課題を整理する。EV研究の標準化と再現性向上の重要性を強調し、今後のトランスレーショナル研究の基盤を提示する。"
+      },
+      {
+        "title": "Understanding Exosomes in Hair Regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42521333/",
+        "abstract": "Alopecia is a prevalent condition correlated with significant psychosocial challenges, while contemporary treatments exhibit variable efficacy, require extended use, and may cause adverse effects. This review aimed to comprehensively assess exosome-mediated interventions as a novel cell-free regenerative approach for hair regeneration across multiple alopecia subtypes.",
+        "source": "PubMed",
+        "doi": "10.1111/prd.70057",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームによる毛髪再生の理解",
+        "summary_ja": "タイトル: 脱毛症におけるエクソソームを介した毛髪再生の理解\n\n脱毛症は広く見られる症状であり、心理社会的課題と関連する一方、現行治療は効果にばらつきがあり、長期使用が必要で、副作用のリスクも伴う。本レビューは、複数の脱毛症サブタイプに対する新たな無細胞再生医療アプローチとして、エクソソームを介した介入を包括的に評価することを目的とした。エクソソームは細胞間情報伝達を担う小胞であり、毛包幹細胞の活性化や血管新生促進を通じて毛髪再生を誘導する可能性が示されている。現時点では前臨床研究が中心だが、有望な結果が報告されている。"
+      },
+      {
+        "title": "SCAP-derived exosomes restore excitatory-inhibitory balance and attenuate glutamate-induced excitotoxicity via modulation of GABAergic signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42520916/",
+        "abstract": "Glutamate-induced excitotoxicity is a major pathological mechanism underlying epilepsy and other neurological disorders and is characterized by disruption of the balance between excitatory glutamatergic and inhibitory GABAergic neurotransmission. Although mesenchymal stem cell-derived exosomes have shown neuroprotective potential, the therapeutic effects and mechanisms of stem cell of the apical papilla-derived exosomes (SCAP-exo) remain largely unexplored. Here, SCAP-derived exosomes were isolated and characterized by the expression of the canonical exosomal markers CD63, CD81, Hsp70, and TSG101, and their neuroprotective effects were evaluated in a glutamate-induced PC12 excitotoxicity model. SCAP-exo significantly improved cell viability (48%-80%), reduced lactate dehydrogenase release, intracellular Ca",
+        "source": "PubMed",
+        "doi": "10.1016/j.neuroscience.2026.07.056",
+        "keyword": "Exosomes",
+        "title_ja": "SCAP由来エクソソームはGABA作動性シグナルの調節を介して興奮-抑制バランスを回復し、グルタミン酸誘発性興奮毒性を減弱する。",
+        "summary_ja": "SCAP由来エクソソーム（SCAP-exo）は、グルタミン酸誘発性興奮毒性モデル（PC12細胞）において、神経保護効果を示した。SCAP-exoはCD63、CD81、Hsp70、TSG101といったエクソソームマーカーを発現し、細胞生存率を48%から80%へ有意に改善し、乳酸脱水素酵素放出および細胞内カルシウム濃度を低下させた。この効果は、GABA作動性シグナル伝達の調節を介して興奮性・抑制性バランスを回復させることに起因する。本研究は、てんかんなどの神経疾患におけるSCAP-exoの治療可能性を示唆する。"
+      },
+      {
+        "title": "Neutrophil-promoted macrophage state transition coordinates endothelial migration and barrier resealing in zebrafish microvascular repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42519831/",
+        "abstract": "Microvessels are frequently damaged, yet the in vivo temporal logic that couples endothelial gap closure to barrier resealing, and the immune-cell interactions that coordinate these steps, remains poorly defined. Using live imaging of laser-injured zebrafish intersegmental vessels, we define a staged repair program: endothelial cells migrate to bridge the gap, trapped erythrocytes are cleared, and vascular permeability rises transiently before resealing. Neutrophils arrive first, whereas macrophages persist and undergo a neutrophil-dependent functional transition. Early tnfa-associated macrophages promote endothelial migration and erythrocyte debris removal, while later ccl34a.4",
+        "source": "PubMed",
+        "doi": "10.1016/j.celrep.2026.117762",
+        "keyword": "Exosomes",
+        "title_ja": "好中球が促進するマクロファージの状態遷移が、ゼブラフィッシュの微小血管修復における内皮細胞の遊走とバリア再形成を協調させる",
+        "summary_ja": "タイトル: ゼブラフィッシュ微小血管修復における好中球誘導性マクロファージ状態転換が内皮細胞遊走とバリア再封を協調する\n\n内容: 微小血管損傷後の修復過程において、内皮ギャップ閉鎖とバリア再封を連携する時間的ロジックや免疫細胞の相互作用は未解明である。レーザー損傷ゼブラフィッシュ節間血管の生体イメージングにより、段階的修復プログラムを解明：内皮細胞が遊走してギャップを架橋し、捕捉赤血球が除去され、血管透過性が一過性に上昇した後に再封される。好中球が最初に集積し、マクロファージは持続して好中球依存的な機能転換を起こす。初期のtnfa関連マクロファージは内皮遊走と赤血球 debris 除去を促進し、後期のccl34a.4関連マクロファージはバリア再封を促進する。好中球除去によりマクロファージ転換が阻害され、内皮遊走とバリア再封が遅延する。この免疫細胞連携が微小血管修復の時間的秩序を制御する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Machine learning-guided discovery of a bioactive hydrogel for spatiotemporally orchestrated tendon-to-bone healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42518656/",
+        "abstract": "The rational design of biomaterials for complex tissue regeneration, such as the tendon-to-bone interface (TBI), is hindered by an immense combinatorial space that makes empirical optimization impractical. To address this challenge, a machine learning (ML) framework was developed to navigate this landscape. Leveraging a high-fidelity Tabular Pre-trained Transformer (TabPFN) model, a high-throughput virtual screen of over 137 million candidates identifies an optimal injectable microgranule-assembled macroporous hydrogel (MMH). The hydrogel is engineered to spatiotemporally deliver macrophage (M",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.06.052",
+        "keyword": "sEVs",
+        "title_ja": "機械学習を活用した、時空間的に制御された腱-骨治癒のための生理活性ハイドロゲルの発見",
+        "summary_ja": "この論文は、腱-骨接合部（TBI）のような複雑な組織再生のための生体材料設計において、膨大な組み合わせ空間が経験的な最適化を困難にしている課題に取り組んでいる。この問題を解決するため、機械学習（ML）フレームワークが開発された。高精度なTabular Pre-trained Transformer（TabPFN）モデルを活用し、1億3700万以上の候補からハイスループット仮想スクリーニングを実施。その結果、最適な注入可能な微粒子集合マクロポーラスハイドロゲル（MMH）が特定された。このハイドロゲルは、マクロファージ（M）を時空間的に送達するように設計されている。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事一覧から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **CAR-NK細胞におけるIL-10除去の意義**  \n   HER2特異的CAR-NK細胞は膠芽腫治療で有望だが、活性化時に産生されるIL-10が免疫抑制的に働く。IL-10を除去することで腫瘍微小環境の再プログラミングと治療効果向上が期待され、次世代CAR-NK療法の設計に重要な知見を提供する。\n\n2. **mRNA-TLRアゴニスト共送達によるCARマクロファージのin situ生成**  \n   トリプルネガティブ乳がんに対し、mRNAとTLRアゴニストを同時送達して炎症性CARマクロファージを腫瘍内で生成する手法。従来のex vivo操作を不要とし、固形腫瘍へのCAR細胞療法の適用拡大に貢献する可能性がある。\n\n3. **免疫細胞由来細胞外小胞（EV）と1型糖尿病の代謝機能障害**  \n   1型糖尿病において、免疫細胞由来の循環EVが代謝異常を媒介することを前臨床・臨床で実証。EVが自己免疫疾患の病態理解と新規バイオマーカー開発に結びつく点で重要。\n\n4. **エクソソーム検出のためのスマートフォン型蛍光バイオセンシング**  \n   エクソソームを迅速・簡便に定量検出できるポータブルプラットフォーム。低コストで診断応用が可能となり、特に遠隔地やリソース制限環境での疾患モニタリングに革新をもたらす。\n\n5. **機械学習による腱-骨接合部再生ハイドロゲルの発見**  \n   複雑な組織再生に必要な生体材料の最適化を機械学習で効率化。膨大な組み合わせから最適なハイドロゲルを予測・発見し、再生医療の材料設計にAIを活用する新たな道を開く。"
+}

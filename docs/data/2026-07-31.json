@@ -1,0 +1,185 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Therapeutic Lithium Enhances Klotho Expression and Mitochondrial Size and Branching in Human Cardiac Fibroblasts Involving Nuclear Factor-kappa B Inhibition.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42528353/",
+        "abstract": "Emerging studies suggest that lithium might be cardioprotective. Although studies have suggested that lithium improves mitochondrial dysfunction, promotes antiaging processes, and reduces cardiac fibrosis, whether lithium modulates Klotho, an antiaging protein, and mitochondrial morphology in human cardiac fibroblasts remains unclear. This study investigated the effects of therapeutic lithium on Klotho expression and mitochondrial morphology in human cardiac fibroblasts and underlying mechanisms.",
+        "source": "PubMed",
+        "doi": "10.9758/cpn.25.1392",
+        "keyword": "Klotho",
+        "title_ja": "治療用リチウムは、核因子カッパB阻害を介してヒト心臓線維芽細胞におけるKlotho発現とミトコンドリアのサイズおよび分岐を促進する。",
+        "summary_ja": "タイトル：治療用リチウムはヒト心臓線維芽細胞においてKlotho発現とミトコンドリアのサイズ及び分岐を促進し、核因子κB阻害を介する。\n\n新たな研究はリチウムが心保護作用を持つ可能性を示唆している。リチウムはミトコンドリア機能障害の改善、抗老化プロセスの促進、心臓線維化の軽減に寄与することが示唆されているが、ヒト心臓線維芽細胞における抗老化タンパク質Klothoとミトコンドリア形態への影響は不明である。本研究では、治療濃度のリチウムがヒト心臓線維芽細胞のKlotho発現とミトコンドリア形態に及ぼす効果とそのメカニズムを検討した。"
+      },
+      {
+        "title": "Gestational cadmium exposure triggers POI-Like ovarian dysfunction and accelerated ovarian aging through epigenetic repression of Kl in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42503275/",
+        "abstract": "Cadmium (Cd), a bioaccumulative toxic heavy metal, poses a growing concern for offspring reproductive health following gestational exposure. Premature ovarian insufficiency (POI), a major cause of female infertility, remained poorly understood in terms of environmental etiology. This study investigated whether gestational Cd exposure induced ovarian functional decline via epigenetic mechanisms in mice. Using a mouse model of maternal Cd exposure via drinking water, we found that gestational Cd exposure led to POI-like ovarian dysfunction in adult offspring, characterized by diminished ovarian reserve, disrupted estrous cycles, altered serum hormone profiles, and accelerated ovarian aging with fibrosis and DNA damage. Mechanistically, Cd exposure upregulated DNMT1 and DNMT3A expression in offspring ovaries, promoting hypermethylation of the Klotho (Kl) promoter and suppressing its expression. Kl downregulation subsequently attenuated its inhibition of the p53/p21 pathway, triggering granulosa cell senescence and premature follicular depletion. Importantly, administration of the DNA methylation inhibitor 5-aza-2'-deoxycytidine (5-Aza) during gestation partially reversed these Cd-induced epigenetic modifications and ameliorated the ovarian phenotypes in offspring. Our findings revealed a complete pathway through which gestational Cd exposure promoted ovarian aging via DNMT-mediated Kl silencing and p53/p21 activation. This work provided novel mechanistic insights into environmental reproductive toxicity and identified potential targets for intervention. ENVIRONMENTAL IMPLICATION: Cd is a pervasive environmental toxicant threatening female reproductive health, yet its long-term developmental impacts on offspring ovarian aging remain unclear. This study reveals that gestational Cd exposure epigenetically silences the anti-aging gene Kl via promoter hypermethylation, activating the p53/p21/p16-Rb senescence pathway and triggering POI-like ovarian dysfunction in offspring. Importantly, this epigenetic damage is partially reversible with 5-Aza, offering a potential intervention strategy. These findings provide mechanistic insights into how Cd pollution contributes to rising POI incidence, informing developmental origins of reproductive dysfunction and guiding preventive policies for hazardous material regulation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.envint.2026.110431",
+        "keyword": "Klotho",
+        "title_ja": "マウスにおける妊娠中のカドミウム曝露は、Klのエピジェネティックな抑制を介してPOI様卵巣機能不全と卵巣老化の促進を引き起こす",
+        "summary_ja": "この研究は、妊娠中のカドミウム（Cd）曝露がマウスの子孫に premature ovarian insufficiency (POI) 様の卵巣機能不全を引き起こすメカニズムを解明した。母体の飲水を介したCd曝露により、成体の子孫で卵巣予備能低下、発情周期異常、血清ホルモン変化、線維化やDNA損傷を伴う卵巣老化が促進された。機構的には、Cdが卵巣内のDNMT1およびDNMT3A発現を上昇させ、Klotho (Kl) プロモーターの過剰メチル化を誘導し、その発現を抑制した。Kl低下はp53/p21経路の抑制を解除し、顆粒膜細胞老化と卵胞枯渇を引き起こした。DNAメチル化阻害剤5-aza-2'-deoxycytidine (5-Aza) の妊娠中投与は、これらのエピジェネティック変化を部分的に回復し、卵巣表現型を改善した。本知見は、環境毒性物質CdがDNMTを介したKlサイレンシングとp53/"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Platelet-specific TGFβ Deficiency Aggravates Atherosclerosis, Vascular Inflammation, and Hypercholesterolemia in Mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40902631/",
+        "abstract": "Atherosclerosis involves inflammatory and thrombotic mechanisms, to which platelets, CD4",
+        "source": "PubMed",
+        "doi": "10.1055/a-2694-1383",
+        "keyword": "PF4",
+        "title_ja": "血小板特異的TGFβ欠損がマウスのアテローム性動脈硬化、血管炎症、および高コレステロール血症を悪化させる。",
+        "summary_ja": "以下の通り要約します。\n\n本論文は、血小板特異的TGFβ欠損がマウスのアテローム性動脈硬化、血管炎症、高コレステロール血症を悪化させることを報告している。アテローム性動脈硬化には炎症性および血栓性メカニズムが関与し、血小板とCD4陽性T細胞が重要な役割を果たす。TGFβは抗炎症性サイトカインであり、血小板に豊富に含まれるが、その動脈硬化への影響は不明であった。本研究では、血小板特異的にTGFβを欠損させたマウスを用い、動脈硬化モデルで解析した結果、病変の増大、血管炎症の亢進、血中コレステロール値の上昇が認められた。これらの結果は、血小板由来TGFβが動脈硬化の進行を抑制する保護的役割を持つことを示唆する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Injectable Thermoresponsive Hybrid Hydrogel for Localized Chemo-Immunotherapy via Co-Delivery of Doxorubicin-Loaded Tumor-Derived Exosomes and Immunoadjuvants.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42529819/",
+        "abstract": "The therapeutic efficacy of melanoma immunochemotherapy is severely limited by insufficient intratumoral drug retention, systemic toxicity, and immunosuppressive tumor microenvironment (TME). Thus, we developed a single-dose injectable localized chemo-immunotherapy platform that enables sustained tumor-restricted delivery and synergistic immune remodeling. This hybrid system integrates doxorubicin-loaded tumor-derived exosome-coated hollow mesoporous silica nanoparticles (DeH) with a mannose-modified β-cyclodextrin-polyethyleneimine carrier co-delivering dual Toll-like receptor agonists (RC-MCP) within a thermoresponsive polypeptide hydrogel (mPEG-b-PELG). The biomimetic exosome coating provides an exosome-sheathed nanostructure and amplifies doxorubicin-induced immunogenic cell death. Mannose-mediated targeting facilitates preferential uptake by antigen-presenting cells and enhances endosomal Toll-like receptor signaling, leading to robust dendritic cell maturation. Following intratumoral injection, the hydrogel undergoes in situ sol-gel transition to form a stable drug depot, enabling sustained and coordinated release while minimizing systemic exposure. As a result, a single intratumoral administration elicits potent antitumor immune responses, significantly suppresses tumor growth, alleviates TME immunosuppression, and exhibits favorable biocompatibility in murine melanoma model. Collectively, this work presents a rationally designed single-dose localized chemo-immunotherapy strategy for melanoma treatment.",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.71506",
+        "keyword": "Exosomes",
+        "title_ja": "注射可能な温度応答性ハイブリッドハイドロゲルによる、ドキソルビシン内包腫瘍由来エクソソームと免疫アジュバントの共送達を介した局所化学免疫療法",
+        "summary_ja": "本論文では、メラノーマの化学免疫療法における課題（腫瘍内薬剤滞留不足、全身毒性、免疫抑制性腫瘍微小環境）を解決するため、単回投与型局所化学免疫療法プラットフォームを開発した。本ハイブリッドシステムは、ドキソルビシン内包腫瘍由来エクソソーム被覆中空メソポーラスシリカナノ粒子（DeH）と、マンノース修飾β-シクロデキストリン-ポリエチレンイミン担体にデュアルToll様受容体作動薬を搭載したRC-MCPを、温度応答性ポリペプチドハイドロゲル（mPEG-b-PELG）に統合した。エクソソーム被覆は免疫原性細胞死を増強し、マンノース標的化は抗原提示細胞への取り込みと樹状細胞成熟を促進する。腫瘍内注射後、ハイドロゲルはin situでゾル-ゲル転移し、持続的かつ協調的な薬剤放出と全身曝露低減を実現。マウスメラノーマモデルにおいて、単回投与で強力な抗腫瘍免疫応答を誘導し、腫瘍増殖抑制と免疫抑制緩和、良好"
+      },
+      {
+        "title": "Harnessing Endogenous Plasticity Rather than Reprogramming of Mature Cells Will Advance Regenerative Medicine, Cancer Treatment and Rejuvenation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42527762/",
+        "abstract": "The successful culture of human embryonic stem (hES) cells from inner cell mass cells of blastocyst stage 'spare' embryos in 1998, followed by induced pluripotent stem (iPS) cells in 2006, which allowed somatic cells to be reprogrammed to pluripotency using the Yamanaka factors, transformed regenerative biology and inspired extensive global efforts towards developing pluripotent stem cell-based applications. However, hES and iPS cells, as well as organoids generated from them, largely retain fetal-like characteristics, which limits their relevance for clinical translation. Concurrently, the prevailing assumption published in leading journals that adult tissues lack endogenous stem cells has led to the belief that mature cells dedifferentiate and reprogram during in vivo regeneration upon chronic injury, and that the appearance of embryonic/fetal markers in diabetes, heart failure, cancer, and many other chronic disease states reflects dedifferentiation of mature cells. We suggest that the prevailing concepts of dedifferentiation and reprogramming, both in vitro and in vivo, require careful re-evaluation. Adult somatic cells possibly do not truly dedifferentiate, neither in vitro nor in vivo. Instead, tissue-resident, pluripotent, very small embryonic-like stem cells (VSELs) in multiple organs account for the observed biology. In vitro \"reprogramming\" responses to Yamanaka factors likely reflect selective activation and expansion of VSELs/early progenitors rather than the dedifferentiation/ reprogramming of mature adult somatic cells. Likewise, the embryonic/fetal-like signatures reported in multiple disease states including cancer reflect expansion of immature tissue-specific progenitors that arise from VSELs but fail to differentiate normally due to a damaged microenvironment in vivo. Therapeutic strategies involving transplantation of MSCs, MUSE cells, or their secreted exosomes improve disease outcomes, possibly by restoring the damaged niche that supports functional tissue repair by VSELs. Although direct evidence to support this is lacking at present, recognising the central role of VSELs/progenitors and their niche in maintaining tissue homeostasis in vivo could resolve existing roadblocks and guide more effective endogenous regenerative therapies for diseased tissues and age-related dysfunctions.",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11197-3",
+        "keyword": "Exosomes",
+        "title_ja": "成熟細胞の再プログラミングではなく内在性可塑性の活用が、再生医療、がん治療、若返りを前進させる。",
+        "summary_ja": "1998年のヒト胚性幹細胞（hES細胞）培養成功と2006年のiPS細胞樹立により、再生医療は大きく進展した。しかし、hES細胞やiPS細胞、それら由来のオルガノイドは胎児様特性を保持し、臨床応用に限界がある。また、成体組織に内在性幹細胞が存在しないとの前提から、慢性疾患における胚性/胎児マーカーの出現は成熟細胞の脱分化・再プログラム化によるとされてきた。本論文は、この脱分化・再プログラム化の概念を再評価すべきと提唱する。実際には、多臓器に存在する組織常在性の多能性極小胚様幹細胞（VSELs）が観察される現象を説明する。Yamanaka因子によるin vitro再プログラム化は、VSELs/初期前駆細胞の選択的活性化・増殖であり、成熟細胞の脱分化ではない。疾患での胎児様シグネチャーも、VSELs由来の未熟前駆細胞が損傷微小環境により正常分化できない結果である。MSCsやMUSE細胞の移植は"
+      },
+      {
+        "title": "Human milk exosomal-miR-144-5p alleviates neonatal necrotizing enterocolitis by regulating the TLR4/NF-κB pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42527534/",
+        "abstract": "Human breast milk-derived exosomes have been shown to prevent necrotizing enterocolitis (NEC). However, the mechanism remains unclear. This study aims to examine the role of miR-144-5p in repairing the damage of the tight junction barrier caused by NEC and its underlying mechanism.",
+        "source": "PubMed",
+        "doi": "10.1038/s41390-026-05305-9",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト母乳エクソソーム由来miR-144-5pはTLR4/NF-κB経路を調節することで新生児壊死性腸炎を軽減する",
+        "summary_ja": "タイトル：ヒト母乳エクソソーム由来miR-144-5pはTLR4/NF-κB経路を調節し新生児壊死性腸炎を軽減する\n\n内容：ヒト母乳由来エクソソームは壊死性腸炎（NEC）予防に有効だが、その機序は不明である。本研究では、miR-144-5pがNECによるタイトジャンクション障壁損傷を修復する役割とその分子機構を検討した。その結果、miR-144-5pはTLR4/NF-κB経路を調節することで、腸上皮バリア機能を保護しNECを軽減することが示された。"
+      },
+      {
+        "title": "Pyra-Metho-Carnil Suppresses CD73-associated Macrophage Infiltration in KRAS-mutant Colorectal Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42527098/",
+        "abstract": "We previously reported that Pyra-Metho-Carnil (PMC) suppresses macrophage differentiation in co-culture with mutant (mt) Kirsten rat sarcoma (KRAS) tumors. In this study, we used integrative proteomics and identified a KRAS-regulated membrane and exosomal protein, 5'-nucleotidase ecto (NT5E)/CD73, as a key candidate linking KRAS signaling to macrophage-associated tumor immune microenvironment (TIME) remodeling. We investigated whether PMC modulates CD73-associated pathways during macrophage differentiation.",
+        "source": "PubMed",
+        "doi": "10.21873/anticanres.18322",
+        "keyword": "Exosomes",
+        "title_ja": "ピラメトカルニルはKRAS変異大腸癌におけるCD73関連マクロファージ浸潤を抑制する",
+        "summary_ja": "タイトル：Pyra-Metho-CarnilはKRAS変異大腸癌におけるCD73関連マクロファージ浸潤を抑制する\n\n内容：著者らは以前、Pyra-Metho-Carnil（PMC）が変異KRAS腫瘍との共培養においてマクロファージ分化を抑制することを報告した。本研究では、統合的プロテオミクスを用いて、KRASシグナルとマクロファージ関連腫瘍免疫微小環境（TIME）リモデリングを結びつける鍵候補として、KRAS制御下の膜・エクソソームタンパク質である5'-ヌクレオチダーゼエクト（NT5E）/CD73を同定した。さらに、PMCがマクロファージ分化中にCD73関連経路を調節するかどうかを検討した。"
+      },
+      {
+        "title": "Plasma-derived exosomes in chronic spontaneous urticaria induce the release of inflammatory mediators from mast cell through miRNA-619-5p/SOCS4 pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42526374/",
+        "abstract": "The excessive release of inflammatory mediators in mast cells is considered a core link in the progression of Chronic spontaneous Urticaria (CSU). Exosomes are nanosized membrane-bound fluid vesicles in the body that can induce immune dysfunction and impact disease progression. This study aims to explore the critical role of exosomes derived from plasma of patients in the progression of CSU.",
+        "source": "PubMed",
+        "doi": "10.1016/j.intimp.2026.117178",
+        "keyword": "Exosomes",
+        "title_ja": "慢性自発性蕁麻疹における血漿由来エクソソームは、miRNA-619-5p/SOCS4経路を介して肥満細胞からの炎症性メディエーター放出を誘導する。",
+        "summary_ja": "慢性自然蕁麻疹（CSU）患者の血漿由来エクソソームは、miRNA-619-5p/SOCS4経路を介して肥満細胞からの炎症性メディエーター放出を誘導する。肥満細胞における炎症性メディエーターの過剰放出はCSU進行の中核的機序とされる。エクソソームは体内のナノサイズの膜結合性小胞であり、免疫機能障害を誘発し疾患進行に影響を与える。本研究は、CSU患者血漿由来エクソソームがCSU進行において果たす重要な役割を解明することを目的とする。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "DMBT1 in Adipose-Derived Stem Cell-Derived Exosomes Participates in Alleviating Ferroptosis to Promote Diabetic Wound Healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42530836/",
+        "abstract": "Diabetic wounds represent one of the most severe complications of diabetes, and their clinical management remains challenging. This study investigated the therapeutic potential of adipose-derived stem cell-derived exosomes (ADSCs-Exo) for diabetic wounds. We isolated ADSCs and their exosomes, and by using Transwell and CCK-8 assays, we found that ADSCs-Exo were associated with proliferation and migration of keratinocytes and fibroblasts, and that they also enhanced the angiogenic activity of endothelial cells in vitro. In contrast, these promotive effects were significantly attenuated when exosomes derived from ADSCs with DMBT1 knockdown via siRNA (ADSCs",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11201-w",
+        "keyword": "Exosomes",
+        "title_ja": "脂肪由来幹細胞由来エクソソーム中のDMBT1はフェロトーシスを軽減し糖尿病性創傷治癒を促進する",
+        "summary_ja": "本論文では、糖尿病性創傷に対する脂肪由来幹細胞由来エクソソーム（ADSCs-Exo）の治療可能性を検討した。ADSCsとそのエクソソームを単離し、TranswellアッセイおよびCCK-8アッセイにより、ADSCs-Exoがケラチノサイトおよび線維芽細胞の増殖・遊走を促進し、さらにin vitroで内皮細胞の血管新生能を亢進させることを確認した。一方、siRNAを用いてDMBT1をノックダウンしたADSCsから得られたエクソソームでは、これらの促進効果が有意に減弱した。以上の結果から、ADSCs-Exoに含まれるDMBT1がフェロトーシスを抑制し、糖尿病性創傷治癒を促進する可能性が示唆された。"
+      },
+      {
+        "title": "Colorectal cancer-derived exosomal ETS2 promotes macrophage M2 polarization by transcriptionally activating PRPF4.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42530712/",
+        "abstract": "Colorectal cancer (CRC) is a leading cause of cancer-related mortality worldwide, with tumor-associated macrophages (TAMs), predominantly M2-polarized, shaping a tumor-promoting microenvironment. ETS proto-oncogene 2 (ETS2) is aberrantly upregulated in CRC, but its role in exosome-mediated intercellular communication and TAM polarization remains unclear. Here, public datasets and single-cell RNA sequencing were analyzed to characterize ETS2 expression and cellular distribution in CRC. Co-culture of THP-1-derived M0 macrophages with CRC cells (LoVo and HCT-116), combined with isolation of tumor-derived exosomes, was used to assess exosome-mediated ETS2 transfer and macrophage M2 polarization. CRC cell proliferation, migration, apoptosis, CD8⁺ T cell apoptosis, and macrophage M2 polarization were evaluated by CCK-8, EdU incorporation, flow cytometry, RT-qPCR, and Transwell assays. Chromatin immunoprecipitation and dual-luciferase reporter assays confirmed transcriptional activation of pre-mRNA processing factor 4 (PRPF4) by ETS2, and a xenograft mouse model was used to assess in vivo effects. ETS2 expression was elevated in CRC tissues and TAMs and correlated positively with M2 polarization. Silencing ETS2 inhibited CRC cell proliferation and migration, promoted apoptosis, reduced macrophage M2 polarization, and decreased CD8⁺ T cell apoptosis. Mechanistically, ETS2 activated PRPF4 transcription, and PRPF4 overexpression reversed the inhibitory effects of ETS2 knockdown. CRC-derived exosomes mediated ETS2 transfer to macrophages, promoting M2 polarization, and in vivo PRPF4 overexpression significantly rescued tumor growth suppressed by ETS2 knockdown. These findings indicate that exosomal ETS2 promotes CRC progression and M2 macrophage polarization via PRPF4, highlighting the ETS2/PRPF4 axis as a potential therapeutic target.",
+        "source": "PubMed",
+        "doi": "10.1007/s13577-026-01431-y",
+        "keyword": "Exosomes",
+        "title_ja": "大腸癌由来のエクソソームETS2は、転写活性化を介してPRPF4を誘導し、マクロファージのM2分極を促進する",
+        "summary_ja": "大腸癌（CRC）では、腫瘍関連マクロファージ（TAM）のM2分極が腫瘍促進微小環境を形成する。ETS2はCRCで異常に上昇するが、エクソソームを介した細胞間通信とTAM分極における役割は不明であった。本研究では、公開データセットと単一細胞RNAシークエンスを用いてETS2の発現と分布を解析。CRC細胞とTHP-1由来M0マクロファージの共培養、腫瘍由来エクソソームの単離により、エクソソームを介したETS2の移行とM2分極を評価した。ETS2のノックダウンはCRC細胞の増殖・遊走を抑制し、アポトーシスを促進、M2分極とCD8⁺T細胞アポトーシスを減少させた。メカニズムとして、ETS2はPRPF4の転写を活性化し、PRPF4過剰発現はETS2ノックダウンの効果を打ち消した。CRC由来エクソソームはマクロファージへのETS2移行を介してM2分極を促進し、in vivoでもPRPF4過剰発現はET"
+      },
+      {
+        "title": "Exosome-Mediated Delivery of PROTACs for Targeted Protein Degradation in Cancer, Neurodegenerative, Infectious, and Inflammatory Diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42528048/",
+        "abstract": "Proteolysis-targeting chimeras (PROTACs) are heterobifunctional molecules that hijack the ubiquitin-proteasome system to drive catalytic, sub-stoichiometric degradation of disease-associated proteins, offering a mechanistic advantage over occupancy-driven inhibitors and access to 'undruggable' targets. However, their clinical translation is constrained by high molecular weight, poor solubility, low oral bioavailability, inefficient membrane permeability, nonspecific biodistribution, off-target degradation, and the concentration-dependent 'hook effect.' Exosomes, nanoscale extracellular vesicles with innate biocompatibility, low immunogenicity, prolonged circulation, and the ability to cross barriers such as the blood-brain barrier, offer a biologically integrated platform to overcome these limitations. This review traces the evolution of PROTAC technology, delineates the challenges of conventional delivery, and evaluates the rationale for exosomal encapsulation, including cargo protection, intracellular trafficking, endosomal escape, and release kinetics. We examine natural and engineered exosomes spanning source selection, active loading strategies, and surface functionalization for tissue-specific homing and synthesize therapeutic applications across viral infections, cancer, neurodegenerative disorders, and inflammatory diseases. Proof-of-concept studies, such as camel milk-derived exosomes delivering the BRD4-targeting PROTAC ARV-825, demonstrate enhanced permeability, lower IC",
+        "source": "PubMed",
+        "doi": "10.1111/jcmm.71297",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを介したPROTACの送達による癌、神経変性疾患、感染症、炎症性疾患における標的タンパク質分解",
+        "summary_ja": "PROTACs（タンパク質分解誘導キメラ分子）は、ユビキチン-プロテアソーム系を利用して疾患関連タンパク質を触媒的に分解する二機能性分子であり、従来の阻害剤では困難な「創薬不可能」な標的にも作用する。しかし、高分子量、低溶解性、経口吸収不良、膜透過性の低さ、非特異的な生体内分布、オフターゲット分解、濃度依存的な「フック効果」などの課題がある。エクソソームは、生体適合性、低免疫原性、長期血中滞留、血液脳関門通過能を持つナノサイズの細胞外小胞であり、これらの課題を克服するプラットフォームとして注目される。本総説では、PROTAC技術の進化、従来の送達法の限界、エクソソーム封入の利点（カーゴ保護、細胞内輸送、エンドソーム脱出、放出動態）を整理。天然および改変エクソソームの選択、能動的搭載法、表面修飾による組織特異的ホーミング、さらにウイルス感染症、がん、神経変性疾患、炎症性疾患への治療応用を検討"
+      },
+      {
+        "title": "Corrigendum to \"Natural exosome-like nanovesicles from Smilax China rhizome induce mitophagy-dependent ferroptosis in hepatocellular carcinoma via GPX4/ACSL4 axis\" [Biochem. Biophys. Res. Commun. 800 (2026) 153270].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42527274/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbrc.2026.154340",
+        "keyword": "Exosomes",
+        "title_ja": "「Smilax China根茎由来の天然エクソソーム様ナノ小胞がGPX4/ACSL4軸を介して肝細胞癌におけるマイトファジー依存性フェロトーシスを誘導する」[Biochem. Biophys. Res. Commun. 800 (2026) 153270] への正誤表",
+        "summary_ja": "以下の論文・記事の要約です。\n\n本稿は、著者らが以前発表した論文「Natural exosome-like nanovesicles from Smilax China rhizome induce mitophagy-dependent ferroptosis in hepatocellular carcinoma via GPX4/ACSL4 axis」（Biochem. Biophys. Res. Commun. 800 (2026) 153270）に対する正誤表（Corrigendum）である。訂正内容は、論文内の図およびその説明文における誤りに関するもの。具体的には、図の配置やラベル、対応する凡例の記述に不整合があったため、これらを正しく修正した。本正誤表は、研究の結論や主要な知見（Smilax China rhizome由来の天然エクソソーム様ナノ小胞が、GPX4/ACSL4軸"
+      },
+      {
+        "title": "Endothelial Cell-Pericyte Interactions in Ischemic Stroke: From Microvascular Pathology to Repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42526671/",
+        "abstract": "Ischemic stroke (IS) is a major neurological disease that causes death and long-term disability worldwide. After ischemic injury, the brain undergoes complex pathological changes. As core components of the blood-brain barrier (BBB), endothelial cells and pericytes are crucial for maintaining barrier integrity, regulating cerebral blood flow, and mediating angiogenesis. Recent studies have demonstrated that, following IS, endothelial cells and pericytes can engage in mitochondrial transfer and exosome release through multiple pathways. This review constructs a signaling interaction network between endothelial cells and pericytes during IS, summarizing the cellular and molecular mechanisms underlying mitochondrial transfer networks and exosome-mediated communication. Furthermore, the physiological relevance of endothelial cell-pericyte interactions is discussed from the perspectives of vascular risk factors, non-coding RNAs, and cellular heterogeneity, as well as their potential therapeutic applications in the treatment of IS.",
+        "source": "PubMed",
+        "doi": "10.1016/j.phrs.2026.108351",
+        "keyword": "Exosomes",
+        "title_ja": "虚血性脳卒中における内皮細胞とペリサイトの相互作用：微小血管病理から修復へ",
+        "summary_ja": "虚血性脳卒中（IS）は、世界的に死亡や長期障害を引き起こす主要な神経疾患である。虚血損傷後、脳は複雑な病理変化を経る。血液脳関門（BBB）の中核構成要素である内皮細胞とペリサイトは、関門の完全性維持、脳血流調節、血管新生の媒介に不可欠である。近年の研究では、IS後、内皮細胞とペリサイトが複数の経路を介してミトコンドリア移行やエクソソーム放出を行うことが示されている。本総説は、IS時における内皮細胞とペリサイト間のシグナル伝達相互作用ネットワークを構築し、ミトコンドリア移行ネットワークとエクソソーム介在性コミュニケーションの細胞・分子メカニズムを要約する。さらに、血管リスク因子、非コードRNA、細胞不均一性の観点から内皮細胞-ペリサイト相互作用の生理学的意義と、IS治療における潜在的応用について考察する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックを選び、重要性・背景・今後の展望をまとめます。\n\n1. **治療用リチウムによるKlotho発現促進と心保護作用**  \n   リチウムが心臓線維芽細胞のKlotho発現を亢進し、ミトコンドリアの形態改善を介して心保護効果を示す可能性が示された。Klothoは抗老化因子として知られ、心不全や線維化への応用が期待される。\n\n2. **妊娠中カドミウム曝露による卵巣老化とKlothoエピジェネティック抑制**  \n   環境汚染物質が次世代の卵巣機能をKlotho遺伝子のエピジェネティック制御を介して障害するメカニズムが解明された。早期卵巣不全の予防や環境リスク評価に重要。\n\n3. **血小板特異的TGFβ欠損とアテローム性動脈硬化悪化**  \n   血小板由来TGFβが血管炎症や高コレステロール血症を抑制する新たな役割が明らかに。血小板機能を標的とした心血管疾患治療戦略の再考を促す。\n\n4. **腫瘍由来エクソソームを用いた局所化学免疫療法ハイドロゲル**  \n   ドキソルビシン内包エクソソームと免疫アジュバントを温感応答性ハイドロゲルで局所送達し、メラノーマ治療効果を向上。全身毒性低減と免疫微小環境改善の両立が期待される。\n\n5. **PROTACsのエクソソーム送達による標的タンパク質分解**  \n   難治性疾患標的への有効性が高いPROTACsの薬物動態課題を、エクソソーム搭載により克服。がん、神経変性疾患など幅広い応用が展望される。\n\nこれらの研究は、Klothoを軸とした老化・環境要因の制御、血小板・エクソソームを活用した新規治療プラットフォームの開発という、基礎から臨床応用までを結ぶ重要な知見を提供している。"
+}

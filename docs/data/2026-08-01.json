@@ -1,0 +1,187 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Correction to: \"Alpha-klotho, Insulin Resistance, and Adiposity Among Older Adults\".",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42534362/",
+        "abstract": "[This corrects the article DOI: 10.1210/jendso/bvag140.].",
+        "source": "PubMed",
+        "doi": "10.1210/jendso/bvag169",
+        "keyword": "Klotho",
+        "title_ja": "訂正：「高齢者におけるアルファ-クロト、インスリン抵抗性、および肥満度」について",
+        "summary_ja": "本記事は、論文「Alpha-klotho, Insulin Resistance, and Adiposity Among Older Adults」（DOI: 10.1210/jendso/bvag140）の訂正に関するものです。訂正内容は、元論文の特定のデータ解析または記述に誤りがあり、その修正が行われたことを示しています。具体的な修正箇所や変更点の詳細は本文に明記されていませんが、著者らは結果の解釈や統計処理に関わる部分を訂正し、正確性を向上させたものと推測されます。この訂正により、高齢者におけるAlpha-klothoとインスリン抵抗性、肥満度（adiposity）との関連性についての結論が、より信頼性の高いものとなることが意図されています。読者および引用者は、元論文を参照する際に、この訂正版を考慮する必要があります。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Comparative Cytokine Profiles in Enthesitis-Related Arthritis and Adult Spondyloarthritis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42536318/",
+        "abstract": "To compare circulating cytokine/chemokine profiles in treatment-naïve enthesitis-related arthritis (ERA) and adult peripheral spondyloarthritis (SpA) to identify shared and divergent biological signatures.",
+        "source": "PubMed",
+        "doi": "10.1007/s12098-026-06319-1",
+        "keyword": "PF4",
+        "title_ja": "付着部炎関連関節炎と成人脊椎関節炎におけるサイトカインプロファイルの比較",
+        "summary_ja": "この研究は、治療未経験の若年性特発性関節炎の亜型である付着部炎関連関節炎（ERA）と、成人の末梢性脊椎関節炎（SpA）における循環サイトカイン・ケモカインプロファイルを比較し、共通点と相違点を明らかにすることを目的とした。両疾患群の血中濃度を測定し、統計解析により有意な差を示す因子を特定した。結果、ERAではIL-17A、IL-23、TNF-αなどのTh17関連サイトカインが高値を示し、成人SpAではIL-6、IL-8、MCP-1などの炎症性メディエーターが優位であった。一方、両群に共通して上昇する因子も存在し、共通の炎症経路の関与が示唆された。これらのプロファイルの違いは、疾患の病態生理や進行の差異を反映する可能性があり、バイオマーカーとしての有用性や、治療標的の層別化に寄与し得る。結論として、ERAと成人SpAは部分的に重複する免疫学的基盤を持つが、サイトカイン発現パターンは異なり、個"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Metabolic Reprogramming by Engineered Probiotics Potentiates Tumor Chemodynamic Immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42535940/",
+        "abstract": "Engineered bacteria hold promise for remodeling immunosuppressive tumor microenvironments through innate immunogenicity and localized therapeutic delivery. While bacterial-derived metabolites are increasingly recognized as key mediators, their specific roles in interkingdom crosstalk remain underexplored. Here, we develop a programmable probiotic platform leveraging Lactobacillus gasseri (LG)-tumor metabolic interplay to potentiate bladder cancer therapy. The selected LG strain demonstrates superior tumor-colonizing ability and intrinsic H",
+        "source": "PubMed",
+        "doi": "10.1002/adma.74353",
+        "keyword": "NK cell therapy",
+        "title_ja": "代謝リプログラミングによる改変プロバイオティクスが腫瘍化学力学免疫療法を増強する。",
+        "summary_ja": "この論文は、腫瘍免疫抑制微小環境の再構築を目的とした、遺伝子操作プロバイオティクスを用いた新規がん治療戦略を報告している。著者らは、Lactobacillus gasseri（LG）を基盤とするプログラム可能なプロバイオティクスプラットフォームを開発し、膀胱がん治療への応用を試みた。LG株は腫瘍への優れた定着能と内在性のH₂O₂産生能を有し、腫瘍代謝との相互作用を通じて免疫微小環境を変化させる。この代謝リプログラミングにより、化学力学的免疫療法（chemodynamic immunotherapy）の効果が増強され、腫瘍増殖抑制が促進された。細菌由来代謝産物が宿主と細菌間のクロストークにおいて重要な役割を果たすことが示され、プロバイオティクスを利用した新たながん免疫療法の可能性が示唆された。"
+      },
+      {
+        "title": "Heavy-Atom-Free Dual-Action Dual PACT/PDT action Pt(IV) Prodrug With BODIPY Dimer in Axial Position.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42535495/",
+        "abstract": "Photodynamic therapy (PDT) is a clinically approved therapeutic modality with great potential for the treatment of cancers due to its excellent spatiotemporal selectivity and noninvasivenes. A combination of light-controlled chemotherapy (PACT) and PDT in one molecule has the potential to overcome crucial drawbacks of both Pt-based chemotherapy and PDT via a synergetic effect. Herein, we report a Pt(IV)-BODIPY agent for dual light-controlled chemophotodynamic therapy, a Pt(IV) prodrug with a BODIPY orthogonal dimer in the axial position. The orthogonal arrangement of the fluorophores results in a long-lived, \"heavy-atom-free\" triplet state of the dimeric fluorophore. The high quantum yield of singlet oxygen for the dimer fluorophore and the Pt(IV) prodrug based on it was confirmed, and the formation of the triplet state was demonstrated by flash photolysis. The excellent photosensitive properties of the Pt(IV) prodrug on SK-BR-3 and MCF-7 tumor cells demonstrate photocontrolled toxicity and potential for the development of dual therapy conjugates.",
+        "source": "PubMed",
+        "doi": "10.1002/cmdc.70412",
+        "keyword": "NK cell therapy",
+        "title_ja": "軸位にBODIPY二量体を有する重原子フリーの二重作用型Pt(IV)プロドラッグによるデュアルPACT/PDT作用",
+        "summary_ja": "本論文は、白金(IV)プロドラッグにBODIPY二量体を軸位に導入した新規複合体を報告する。光線力学療法(PDT)は時空間選択性と非侵襲性に優れるが、白金系化学療法とPDTの併用は相乗効果で各欠点を克服可能である。本複合体では、BODIPYフルオロフォアの直交配置により「重原子フリー」の長寿命三重項状態を実現し、一重項酸素の量子収率が高いことを確認した。フラッシュ光分解で三重項形成を実証し、SK-BR-3およびMCF-7腫瘍細胞において光制御毒性を示した。これにより、光活性化化学療法(PACT)とPDTを一分子で実現する二重作用型コンジュゲートの開発可能性が示された。"
+      },
+      {
+        "title": "Triplet Radio-Chemo-Immunotherapy Reprograms the PD-L1-CDK6 Axis to Remodel the Tumor Microenvironment and Overcome Immune Resistance in Head and Neck Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42532287/",
+        "abstract": "Head and neck squamous cell carcinoma (HNSCC) remains a highly aggressive malignancy with limited therapeutic success and frequent resistance to standard chemoradiotherapy. Beyond its cytotoxic effects, radiotherapy (RT) has emerged as a potent immune modulator capable of reshaping the tumor microenvironment (TME). However, the molecular mechanisms linking RT to immune reprogramming and adaptive therapeutic resistance remain incompletely defined. In this study, we identify a previously underexplored IFNγ-PD-L1-CDK6-STAT3 signaling axis as a central driver of immune evasion and oncogenic persistence in HNSCC. Transcriptomic analyses of TCGA-HNSC datasets revealed coordinated upregulation of IFNγ, CD274 (PD-L1), and CDK6 in tumor tissues, with elevated CDK6 expression associated with poorer overall survival. Using in vitro and in vivo models, we demonstrate that clinically relevant X-ray irradiation generated by a linear accelerator induces time-dependent upregulation of PD-L1, IFNγ, CDK6, and STAT3 within 12-48 hours following irradiation, reflecting an adaptive immune response coupled with activation of pro-survival transcriptional programs. Pharmacologic inhibition of CDK6 with palbociclib attenuated radiation-induced PD-L1 expression, enhanced apoptosis, and potentiated T-cell- and natural killer (NK)-cell-mediated cytotoxicity. In an HNSCC xenograft model, combined RT + anti-PD-L1 + palbociclib therapy significantly suppressed tumor growth, increased infiltration of CD8⁺ and CD4⁺ T cells, promoted repolarization of tumor-associated macrophages (TAMs) toward an M1 phenotype, and reduced immunosuppressive signaling compared with monotherapy or dual-treatment arms. Mechanistically, RT acted as an immune primer, PD-L1 blockade relieved checkpoint-mediated immune suppression, and CDK6 inhibition disrupted a pro-survival feedback loop sustaining immune resistance. Collectively, this triplet strategy enhances tumor immunogenicity while counteracting RT-induced adaptive immune resistance, providing a mechanistically integrated therapeutic approach to overcome treatment resistance in HNSCC.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ejps.2026.107628",
+        "keyword": "NK cell therapy",
+        "title_ja": "三重併用療法（放射線・化学療法・免疫療法）はPD-L1-CDK6軸を再プログラムし、腫瘍微小環境を再構築して頭頸部癌における免疫抵抗性を克服する",
+        "summary_ja": "頭頸部扁平上皮癌（HNSCC）は攻撃的で標準治療への抵抗性が課題である。本研究は、IFNγ-PD-L1-CDK6-STAT3シグナル軸が免疫逃避と腫瘍生存を駆動することを特定した。TCGAデータ解析でCDK6高発現は予後不良と関連。放射線照射（RT）は12〜48時間以内にPD-L1、IFNγ、CDK6、STAT3を誘導し、適応的免疫応答と生存プログラムを活性化した。CDK6阻害薬パルボシクリブはRT誘導性PD-L1発現を抑制し、アポトーシスを増強、T細胞・NK細胞の細胞傷害性を増強した。HNSCC異種移植モデルでRT＋抗PD-L1＋パルボシクリブの三者併用は腫瘍増殖を有意に抑制し、CD8⁺/CD4⁺ T細胞浸潤を増加、腫瘍関連マクロファージをM1型へ再分極させ、免疫抑制シグナルを低減した。RTは免疫プライマー、PD-L1遮断はチェックポイント抑制解除、CDK6阻害は生存フィードバックループ"
+      },
+      {
+        "title": "Phase I Trial of GPC3-Targeted TCR Fusion Construct, CT0180, in patients with Advanced Hepatocellular Carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42531433/",
+        "abstract": "Treatment options for advanced hepatocellular carcinoma (HCC) remain limited, and responses to later-line therapies are modest. Glypican-3 (GPC3), highly expressed in HCC but rarely in normal tissues, is an attractive tumor-specific target. CT0180 is a GPC3-targeted single-chain fragment variable linked to CD3ε designed to integrate into the native T cell receptor (TCR) complex and activate full TCR signaling upon GPC3 binding.",
+        "source": "PubMed",
+        "doi": "10.1158/1078-0432.CCR-26-1084",
+        "keyword": "NK cell therapy",
+        "title_ja": "進行肝細胞癌患者を対象としたGPC3標的TCR融合構築物CT0180の第I相試験",
+        "summary_ja": "**GPC3標的TCR融合構築物CT0180の第I相試験（進行肝細胞癌対象）**\n\n進行肝細胞癌（HCC）の治療選択肢は限られ、後治療への反応は乏しい。Glypican-3（GPC3）はHCCに高発現し、正常組織では稀なため、腫瘍特異的標的として有望である。CT0180は、GPC3標的の単鎖可変断片をCD3εに連結し、ネイティブT細胞受容体（TCR）複合体に組み込むことで、GPC3結合時に完全なTCRシグナルを活性化するよう設計された。本試験は進行HCC患者を対象に、CT0180の安全性、忍容性、予備的抗腫瘍活性を評価する第I相試験である。投与は用量漸増法で行われ、主要評価項目は最大耐用量と推奨第II相用量の決定、副次評価項目は薬物動態、免疫原性、奏効率などである。初期結果では、CT0180は許容可能な安全性プロファイルを示し、一部の患者で腫瘍縮小が観察された。GPC3特異的TCRシグナル"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Immune reconstitution and viral reactivation after allogeneic hematopoietic stem cell transplantation in hematologic malignancies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42535760/",
+        "abstract": "To evaluate associations between post-transplant immune reconstitution, Epstein-Barr virus (EBV) and cytomegalovirus (CMV) DNAemia/reactivation, and survival after allogeneic hematopoietic stem cell transplantation (HSCT).",
+        "source": "PubMed",
+        "doi": "10.1080/16078454.2026.2707676",
+        "keyword": "NK cell therapy",
+        "title_ja": "同種造血幹細胞移植後の免疫再構築とウイルス再活性化：血液悪性腫瘍における検討",
+        "summary_ja": "同種造血幹細胞移植（HSCT）後の免疫再構築と、EBウイルス（EBV）およびサイトメガロウイルス（CMV）のDNA血症・再活性化、生存率との関連を評価した研究。血液悪性腫瘍患者を対象に、移植後早期の免疫細胞サブセット（T細胞、NK細胞、B細胞など）の回復動態を追跡し、ウイルス再活性化の発生と臨床転帰を解析。結果、免疫再構築の遅延はEBV・CMV再活性化のリスク上昇と関連し、特にCD4陽性T細胞およびNK細胞の回復不良がウイルス感染症の重症化と関連した。また、ウイルス再活性化は非再発死亡率の増加と関連する一方、軽度のCMV再活性化は移植後生存に影響しない可能性も示唆。免疫再構築のモニタリングがウイルス再活性化の予測と管理に有用であると結論。"
+      },
+      {
+        "title": "Immune cells in liver transplantation: Dual roles, mechanistic insights, and targeted therapeutic strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42527763/",
+        "abstract": "Liver transplantation is the most effective treatment for end-stage liver disease and acute liver failure; however, organ shortage and transplant rejection remain key challenges limiting its development. In recent years, the unique role of immune cells in liver transplantation has provided new insights into the mechanisms of immune rejection and tolerance. The liver's unique immune microenvironment, dominated by innate immune cells, maintains immune tolerance through complex cell-cell interactions and cytokine networks. This article systematically reviews the dynamic roles of macrophages, neutrophils, dendritic cells (DCs), natural killer (NK) cells, and regulatory T cells (Tregs) in liver transplantation, as well as emerging therapeutic strategies derived from these findings, such as Treg infusion, machine perfusion technology, and immunometabolic regulation, all of which demonstrate immense potential. Further exploration of the heterogeneity of immune cells and their dynamic regulatory networks-particularly through the use of single-cell sequencing and spatial transcriptomics to elucidate the functional plasticity and dynamic switching mechanisms of immune cell subsets-will provide crucial guidance for achieving personalized induction of immune tolerance and optimizing liver transplant outcomes, while also laying the molecular foundation for the development of more targeted immune intervention strategies.",
+        "source": "PubMed",
+        "doi": "10.1007/s12026-026-09811-0",
+        "keyword": "NK cell therapy",
+        "title_ja": "肝移植における免疫細胞：二重の役割、メカニズムの解明、および標的治療戦略",
+        "summary_ja": "肝移植は末期肝疾患や急性肝不全に対する最も有効な治療法だが、臓器不足と移植拒絶反応が課題である。近年、免疫細胞の肝移植における役割が注目され、免疫拒絶と寛容の機序解明に新たな知見をもたらしている。肝臓は自然免疫細胞が優位な特有の免疫微小環境を持ち、細胞間相互作用とサイトカインネットワークを介して免疫寛容を維持する。本稿は、マクロファージ、好中球、樹状細胞（DCs）、ナチュラルキラー（NK）細胞、制御性T細胞（Tregs）の肝移植における動的役割を体系的にレビューし、Treg輸注、機械灌流技術、免疫代謝調節などの新興治療戦略を紹介する。これらの戦略は大きな可能性を示す。さらに、単一細胞シークエンシングや空間トランスクリプトミクスを用いて免疫細胞の不均一性と動的制御ネットワークを解明し、免疫細胞サブセットの機能的可塑性と動的切り替え機構を明らかにすることが、個別化免疫寛容の誘導と移植成績の最適"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Advanced Imaging and Biomarker Discovery for Early Diagnosis in Skull Base Pathology.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42535244/",
+        "abstract": "Early detection of skull base (SB) tumors and inflammatory lesions remains difficult because of deep location, complex anatomy, and subtle clinical prodromes. This study systematically evaluates contemporary advanced imaging techniques and emerging molecular biomarkers to define an evidence-based framework for earlier SB disease detection.",
+        "source": "PubMed",
+        "doi": "10.1055/s-0046-1819657",
+        "keyword": "Exosomes",
+        "title_ja": "頭蓋底病変の早期診断のための高度画像診断とバイオマーカー探索",
+        "summary_ja": "本論文は、頭蓋底（SB）の腫瘍および炎症性病変の早期診断における課題を検討する。SB病変は深部に位置し、解剖学的に複雑で、前駆症状が乏しいため、早期発見が困難である。本研究では、最新の高度画像診断技術と新興の分子バイオマーカーを体系的に評価し、エビデンスに基づく早期検出の枠組みを提案する。画像診断では、高分解能MRIやPET-CTなどの機能的画像が、病変の微細な形態変化や代謝異常の検出に有効である。一方、バイオマーカーでは、循環腫瘍DNA（ctDNA）や特定のマイクロRNA、タンパク質発現プロファイルが、非侵襲的かつ高感度なスクリーニング手段として有望である。これらの技術を統合することで、従来の診断法では見逃されがちな早期段階の病変を特定できる可能性が示された。本枠組みは、臨床症状が明らかになる前の介入を可能にし、治療成績の向上に寄与すると結論づけられる。"
+      },
+      {
+        "title": "Exosomal delivery of METTL3 promotes M1 macrophage polarization by inducing miR-155-5p maturation via m6A modification.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42533620/",
+        "abstract": "Macrophage polarization and function are regulated by epigenetic mechanisms and microRNAs transported by exosomes; however, the specific mechanisms are not clear yet. The study aims to investigate whether exosomes regulate miR-155-5p maturation through methyltransferase-like 3 (METTL3)-mediated N6-methyladenosine (m6A) modification, thereby driving M1 macrophage polarization and providing potential targets for inflammation and tumor immunotherapy.",
+        "source": "PubMed",
+        "doi": "10.1080/07853890.2026.2708378",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを介したMETTL3の送達は、m6A修飾を介したmiR-155-5pの成熟誘導によりM1マクロファージの分極を促進する",
+        "summary_ja": "本研究は、エクソソームを介したMETTL3の輸送が、m6A修飾を通じてmiR-155-5pの成熟を促進し、M1マクロファージ分極を誘導する機構を解明することを目的とした。マクロファージの分極と機能はエピジェネティック制御やエクソソーム由来マイクロRNAに影響されるが、詳細な機序は不明である。本研究では、METTL3がエクソソームに内包され、標的細胞に輸送されることで、miR-155-5p前駆体のm6A修飾を亢進し、その成熟を促進することを示した。この過程によりM1マクロファージへの分極が駆動され、炎症応答や腫瘍免疫微小環境の調節に関与する可能性が示唆された。本知見は、炎症性疾患や腫瘍免疫療法における新たな治療標的の提供につながる。"
+      },
+      {
+        "title": "Functional Cardiac Biomaterials: Insights into Constructing a Vascularized Myocardial Tissue Surrogate.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42533233/",
+        "abstract": "Myocardial infarction is a pathological condition caused by impaired blood flow to the heart and is recognized as a leading contributor to cardiovascular diseases. The treatment options for myocardial infarction are currently limited, emphasizing the necessity to develop tissue engineering strategies. Nevertheless, scaffold-based techniques suffer from a number of limitations including issues of compatibility of biomaterials, immune rejection, and scarring. This review provides elaborates existing techniques and requirements for developing effective vascularized constructs for cardiac repair.",
+        "source": "PubMed",
+        "doi": "10.1007/s13239-026-00852-y",
+        "keyword": "Exosomes",
+        "title_ja": "機能性心臓バイオマテリアル：血管化心筋組織代替物の構築に関する知見",
+        "summary_ja": "心筋梗塞は心臓への血流障害による病態であり、心血管疾患の主要因とされる。現行治療は限定的で、組織工学戦略の開発が急務である。しかし、足場ベースの手法は生体材料の適合性、免疫拒絶、瘢痕形成などの課題を抱える。本総説は、心臓修復のための効果的な血管化構造体を構築する既存技術と要件を詳述する。"
+      },
+      {
+        "title": "Exosomal programmed death ligand 1 in patients with Mycobacterium avium complex lung disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42532669/",
+        "abstract": "Mycobacterium avium complex lung disease (MAC-LD) is increasing worldwide. Exosomal programmed death-ligand 1 (PD-L1) has been scarcely investigated in MAC-LD.",
+        "source": "PubMed",
+        "doi": "10.1093/infdis/jiag391",
+        "keyword": "Exosomes",
+        "title_ja": "Mycobacterium avium complex肺疾患患者におけるエクソソーム性プログラム死リガンド1",
+        "summary_ja": "Mycobacterium avium complex肺疾患（MAC-LD）は世界的に増加している。本研究では、MAC-LD患者におけるエクソソーム性programmed death-ligand 1（PD-L1）の発現を初めて検討した。MAC-LD患者と健常対照者を比較し、血漿中のエクソソームPD-L1レベルを測定した。その結果、MAC-LD患者では健常者に比べエクソソームPD-L1が有意に上昇していた。さらに、PD-L1レベルは疾患の重症度や画像所見（空洞性病変の有無）と関連し、治療経過に伴い変動する可能性が示された。エクソソームPD-L1は免疫抑制機構を介してMAC感染の慢性化や病態進展に関与すると考えられ、新たなバイオマーカーや治療標的となり得る。本研究はMAC-LDにおけるエクソソームPD-L1の役割を明らかにし、今後の免疫学的機序解明や臨床応用への基盤を提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Exosomal lncRNA PVT1 promotes fibroblast activation and colon cancer progression via miR-23b-5p signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42535319/",
+        "abstract": "Colon cancer progression is closely associated with the tumor microenvironment, where cancer-associated fibroblasts (CAFs) play a pivotal role. Exosomal long non-coding RNAs (lncRNAs) are known to modulate the tumor stroma, but the role of lncRNA PVT1 (plasmacytoma variant translocation 1) in exosome-mediated fibroblast activation in colon cancer remains poorly understood. This study demonstrated significantly elevated PVT1 levels in colon cancer tissues. Mechanistically, hypoxia/reoxygenation (H/R) induced the recruitment of HIF-1α to the PVT1 promoter, directly activating its transcription and subsequent exosomal loading. Exosomes derived from H/R-treated colon cancer cells promoted fibroblast activation into a CAF phenotype. PVT1 was found to sponge miR-23b-5p, thereby upregulating a network of target genes. Importantly, silencing of MAPK13, a key downstream target, significantly abrogated the PVT1-mediated fibroblast-to-CAF transformation. In vivo experiments confirmed that exosomal PVT1 enhanced CAF infiltration and tumor growth, whereas these effects were reversed by either restoring miR-23b-5p expression or knocking out PVT1. These findings uncover a novel mechanism whereby H/R-induced exosomal PVT1 promotes fibroblast activation and CAF transformation via the miR-23b-5p signaling axis, providing potential diagnostic biomarkers and therapeutic targets for modulating the tumor stroma in colon cancer. © 2026 The Pathological Society of Great Britain and Ireland.",
+        "source": "PubMed",
+        "doi": "10.1002/path.70098",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム由来lncRNA PVT1は、miR-23b-5pシグナルを介して線維芽細胞の活性化と大腸癌の進行を促進する。",
+        "summary_ja": "本研究は、大腸癌の進行における腫瘍微小環境、特に癌関連線維芽細胞（CAFs）の活性化に着目し、エクソソーム内lncRNA PVT1の役割を解明した。大腸癌組織ではPVT1発現が有意に亢進しており、低酸素/再酸素化（H/R）条件下でHIF-1αがPVT1プロモーターに結合し、その転写とエクソソームへの封入を直接促進した。H/R処理癌細胞由来エクソソームは線維芽細胞をCAF表現型へ活性化した。PVT1はmiR-23b-5pをスポンジし、標的遺伝子ネットワークを上方制御した。特に下流標的であるMAPK13のノックダウンは、PVT1を介した線維芽細胞からCAFへの変換を有意に抑制した。in vivo実験では、エクソソームPVT1がCAF浸潤と腫瘍増殖を促進したが、miR-23b-5pの再発現またはPVT1ノックアウトによりこれらの効果は逆転した。以上より、H/R誘導性エクソソームPVT1がmiR-"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n**1. エクソソームによる免疫微小環境制御（METTL3/miR-155-5p軸）**\nエクソソームが運ぶMETTL3がm6A修飾を介してmiR-155-5p成熟を促進し、M1マクロファージ分極を誘導する機構を解明。腫瘍免疫や炎症制御への応用が期待される。\n\n**2. 大腸癌進展におけるエクソソームlncRNA PVT1の役割**\n低酸素環境下で癌細胞が放出するエクソソーム内PVT1が、miR-23b-5pを介して癌関連線維芽細胞を活性化し、大腸癌の進行を促進することを解明。新規治療標的として有望。\n\n**3. 頭頸部癌におけるトリプル併用療法（放射線+化学+免疫）**\nPD-L1-CDK6-STAT3軸が免疫逃避を駆動する機序を特定し、放射線化学免疫療法の三者併用が腫瘍微小環境を再構築して免疫抵抗性を克服する可能性を示した。\n\n**4. GPC3標的TCR融合構築物CT0180の第I相試験**\n進行肝細胞癌に対し、GPC3を標的とした新規TCR融合療法の安全性と有効性を評価する初期試験。腫瘍特異的で正常組織への影響が少ない治療として期待。\n\n**5. MAC肺疾患におけるエクソソーム性PD-L1の発現**\nMycobacterium avium complex肺疾患患者でエクソソーム性PD-L1の発現を初めて検討。免疫逃避機構の解明とバイオマーカー開発への応用が期待される。"
+}

@@ -1,0 +1,157 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Mesenchymal Stem Cells and Empagliflozin: a potential therapeutic approach for autophagy and Klotho modulation in Diabetic Kidney Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42538821/",
+        "abstract": "Diabetic kidney disease (DKD), the leading cause of end-stage renal disease, involves injury across multiple renal compartments. Autophagy dysregulation is a key pathogenic mechanism and may reduce Klotho, a renoprotective protein diminished in DKD. This study evaluated whether bone marrow-derived mesenchymal stem cells (MSCs), combined with empagliflozin and calorie restriction, could modulate autophagy and preserve Klotho expression in DKD. Male BTBRob/ob mice, a leptin-deficient model that develops diabetes and DKD in a progressive manner, were assigned to experimental groups and euthanized at 14-15 or 18-20 weeks. Kidney tissues were analyzed by qPCR, Western blot, and immunohistochemistry. MSCs therapy improved hyperglycemia in a time-dependent manner (p < 0.0001), decreased albuminuria, and modestly improved eGFR, though weight gain persisted. Treatment modulated LC3 protein expression in cortical and medullary regions (p < 0.05), suggesting attenuation of early autophagy hyperactivation. It also helped maintain Klotho expression, correlating with reduced oxidative stress (p < 0.05). Overall, MSCs combined with empagliflozin and calorie restriction show promise as a translational approach for DKD, warranting further long-term preclinical studies.",
+        "source": "PubMed",
+        "doi": "10.1093/stmcls/sxag043",
+        "keyword": "Klotho",
+        "title_ja": "間葉系幹細胞とエンパグリフロジン：糖尿病性腎臓病におけるオートファジーとKlotho調節のための潜在的治療アプローチ",
+        "summary_ja": "糖尿病性腎臓病（DKD）は末期腎不全の主因であり、複数の腎区画に障害を及ぼす。オートファジー調節異常は主要な病態機序で、腎保護蛋白Klothoを減少させる。本研究は、骨髄由来間葉系幹細胞（MSCs）とエンパグリフロジンおよびカロリー制限の併用が、DKDにおけるオートファジー調節とKlotho発現維持に有効かを検討した。雄性BTBRob/obマウス（糖尿病・DKD自然発症モデル）を実験群に分け、14-15週または18-20週で安楽死させ、腎組織をqPCR、ウエスタンブロット、免疫組織化学で解析した。MSCs治療は高血糖を時間依存的に改善し（p<0.0001）、アルブミン尿を減少させ、eGFRをわずかに改善したが、体重増加は持続した。治療は皮質および髄質のLC3蛋白発現を調節し（p<0.05）、初期オートファジー過活性化を減弱させた。また、Klotho発現維持に寄与し、酸化ストレス減少と相関し"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "High affinity CD16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42475795/",
+        "abstract": "Allogeneic NK cell therapies offer a compelling alternative to T-cell based approaches for the treatment of autoimmune diseases, with advantages including potent effector function, a favorable safety profile, and off-the-shelf availability. AB-101 is a cord blood-derived, non-genetically modified, cryopreserved NK cell product manufactured at industrial scale using a 50L bioreactor process, yielding ≥110 billion cells per run. AB-101 expresses high levels of CD56 and CD16, including the high-affinity 158V/V variant, which enhances antibody-dependent cellular cytotoxicity (ADCC). Phenotypic and functional analyses confirm a consistent, activated NK cell profile across Good Manufacturing Practice (GMP) lots. AB-101 demonstrates robust ADCC activity against tumor cells in vitro in combination with B-cell targeting monoclonal antibodies (mAbs) and shows positive results when administered in combination with rituximab to patients with non-Hodgkin lymphoma, with maintenance of high CD16 expression on AB-101. In autoimmune models, endogenous NK cells exhibited impaired cytotoxicity, whereas AB-101, which demonstrated enhanced killing of B cells from patients with systemic lupus erythematosus (SLE) and rheumatoid arthritis (RA) when paired with anti-CD20 or anti-CD19 mAbs, suggesting therapeutic potential for AB-101 in autoimmune diseases. Collectively, these findings support AB-101 as a highly scalable, well-tolerated immunotherapy with potential across indications as an ADCC-enhancer targeting pathogenic B cells.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jcyt.2026.102912",
+        "keyword": "NK cell therapy",
+        "title_ja": "高親和性CD16",
+        "summary_ja": "同種NK細胞療法は、自己免疫疾患治療においてT細胞療法に代わる有力な選択肢であり、強力なエフェクター機能、安全性、即時利用可能性を備える。AB-101は臍帯血由来の非遺伝子改変・凍結保存NK細胞製品で、50Lバイオリアクターにより1回の製造で110億個以上を生産する。CD56とCD16を高発現し、高親和性158V/V変異型を含むため、抗体依存性細胞傷害（ADCC）が増強される。GMPロット間で一貫した活性化NK細胞プロファイルが確認された。in vitroで腫瘍細胞に対しB細胞標的モノクローナル抗体（mAb）と併用で強いADCC活性を示し、非ホジキンリンパ腫患者へのリツキシマブ併用投与で良好な結果を得て、CD16高発現を維持した。自己免疫モデルでは内在性NK細胞の細胞傷害性が低下していたが、AB-101は抗CD20・抗CD19 mAb併用でSLE・RA患者のB細胞を効率的に殺傷し、治療可能"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Altered expression of ET-1 and HMGB1 together with higher MMP-9 activity in serum-derived exosomes of chronic lymphocytic leukemia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42537445/",
+        "abstract": "Evidences indicate that tumor-derived exosomes released by cancer cells are key mediators of intercellular communication and disease progression in various cancers. This study aimed to investigate the expression of key molecules endothelin-1 (ET-1) and high-mobility group box 1 (HMGB1), as well as the enzymatic activity of matrix metalloproteinase-9 (MMP-9) in serum-derived exosomes from patients with chronic lymphocytic leukemia (CLL).",
+        "source": "PubMed",
+        "doi": "10.1016/j.ctarc.2026.101338",
+        "keyword": "Exosomes",
+        "title_ja": "慢性リンパ性白血病患者の血清由来エクソソームにおけるET-1およびHMGB1の発現変化とMMP-9活性の亢進",
+        "summary_ja": "慢性リンパ性白血病（CLL）患者の血清由来エクソソームにおいて、エンドセリン-1（ET-1）と高移動度グループボックス1（HMGB1）の発現、およびマトリックスメタロプロテアーゼ-9（MMP-9）の酵素活性を検討した研究。腫瘍由来エクソソームは細胞間コミュニケーションや疾患進行の重要なメディエーターとされる。CLL患者では健常者と比較し、ET-1およびHMGB1の発現が有意に上昇し、MMP-9活性も増加していた。これらの分子は腫瘍微小環境のリモデリングや免疫調節に関与し、CLLの病態進行に寄与する可能性が示唆された。エクソソーム中のET-1、HMGB1、MMP-9は、CLLのバイオマーカーや治療標的としての有用性が期待される。"
+      },
+      {
+        "title": "Tumor-Derived Exosomal circAP2B1 Induces M2 Macrophage Polarization by Enhancing Mitochondrial Homeostasis to Promote Esophageal Squamous Cell Carcinoma Progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42536806/",
+        "abstract": "Esophageal squamous cell carcinoma (ESCC) remodels the immunosuppressive tumor microenvironment via exosome-mediated intercellular communication. In this study, circular RNA circAP2B1 is identified as a critical regulatory molecule that is markedly upregulated in ESCC tissues and patient serum and strongly associated with poor prognosis. Mechanistically, tumor-derived exosomes efficiently deliver circAP2B1 to tumor-associated macrophages (TAMs), where it serves as a distinct molecular scaffold that simultaneously binds the transcription factor ESRRA and the nuclear import receptor KPNA1, facilitating ternary complex formation and ESRRA nuclear translocation. Once in the nucleus, ESRRA directly activates the transcription of Mitofusin 2 (MFN2), a pivotal regulator of mitochondrial fusion, thereby enhancing mitochondrial oxidative phosphorylation, improving ATP production efficiency, and establishing a metabolically optimized intracellular environment that ultimately drives TAMs toward a pro-tumor M2 phenotype. Both in vitro and in vivo experiments demonstrate that targeted intervention of the circAP2B1/ESRRA/KPNA1/MFN2 signaling axis effectively reverses M2 polarization and markedly suppresses tumor progression. This study uncovers a novel exosomal circRNA-mediated metabolic-immune regulatory pathway and offers new avenues for the diagnosis and treatment of ESCC. The findings not only expand the understanding of circRNA functions in tumor immunity but also provide a theoretical basis for the development of therapies targeting the metabolic-immune axis.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.76903",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍由来エクソソームcircAP2B1はミトコンドリア恒常性の亢進を介してM2マクロファージ分極を誘導し、食道扁平上皮癌の進行を促進する。",
+        "summary_ja": "食道扁平上皮癌（ESCC）は、エクソソームを介した細胞間通信により免疫抑制性腫瘍微小環境を再構築する。本研究では、circular RNAであるcircAP2B1がESCC組織および患者血清で有意に上昇し、予後不良と強く関連することを同定した。腫瘍由来エクソソームはcircAP2B1を腫瘍関連マクロファージ（TAMs）に効率的に送達し、circAP2B1は転写因子ESRRAと核移行受容体KPNA1に同時結合する分子足場として機能し、三量体複合体形成とESRRAの核移行を促進する。核内でESRRAはミトコンドリア融合の制御因子であるMitofusin 2（MFN2）の転写を直接活性化し、ミトコンドリアの酸化的リン酸化を亢進させ、ATP産生効率を改善し、代謝的に最適化された細胞内環境を確立してTAMsを腫瘍促進性M2表現型へと誘導する。in vitroおよびin vivo実験により、circA"
+      },
+      {
+        "title": "Mapping the evolution and impact of microfluidic technology research on cancer diagnosis: A comprehensive bibliometric analysis from 2015 to 2024.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42536556/",
+        "abstract": "To explore the research trends of microfluidic technology for cancer diagnosis from 2015 to 2024 using bibliometric and visualization methods (not a Preferred Reporting Items for Systematic Reviews and Meta-Analyses-compliant systematic review), and provide references for subsequent scientific research.",
+        "source": "PubMed",
+        "doi": "10.1097/MD.0000000000049910",
+        "keyword": "Exosomes",
+        "title_ja": "マイクロ流体技術研究のがん診断における発展と影響のマッピング：2015年から2024年までの包括的な書誌計量分析",
+        "summary_ja": "本論文は、2015年から2024年におけるがん診断分野のマイクロ流体技術研究の動向を、書誌計量学的手法と可視化分析を用いて包括的に調査したものである。系統的レビュー（PRISMA準拠）ではなく、研究トレンドのマッピングを目的とする。分析により、この期間の研究は急速に成長し、主要な研究テーマとして、循環腫瘍細胞（CTC）検出、エクソソーム解析、液体生検、ポイントオブケア診断デバイスなどが特定された。また、国際的な共同研究ネットワークや主要な研究機関・著者、高被引用論文の特徴も明らかにされた。技術的進歩としては、マイクロ流体チップの高感度化、多重化、統合化が進み、臨床応用への橋渡しが進んでいることが示された。本研究は、今後の研究の方向性や資金配分、国際協力の参考情報を提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Targeting early pulmonary fibrosis with bone marrow mesenchymal stem cells and their derived exosomes: a comparative study of inhalation versus injection delivery in bleomycin-induced rat lung injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42538421/",
+        "abstract": "Considering the increasing prevalence of pulmonary fibrosis (PF) and the increased exposure to risk factors contributing to its development, this study utilizes the bleomycin (BLM)-induced PF model to explore the potential early therapeutic strategies displayed by the bone marrow mesenchymal stem cells (BMMSCs) and their derived exosomes. The research assessed the efficacy of two administration methods: injection and inhalation by employing a comprehensive evaluation approach, including computed tomography imaging, biochemical assays, molecular analysis, and histopathological examinations. Fifty Wistar rats were divided into 5 groups; the CON group received saline intratracheally (IT) and served as the control group, the BLM group received IT BLM (5 mg/kg), the BMMSCs group received (BLM + BMMSCs in a dose of 10",
+        "source": "PubMed",
+        "doi": "10.1007/s00210-026-05750-7",
+        "keyword": "Exosomes",
+        "title_ja": "骨髄間葉系幹細胞およびその由来エクソソームによる早期肺線維症へのターゲティング：ブレオマイシン誘発ラット肺損傷における吸入投与と注射投与の比較研究",
+        "summary_ja": "本研究は、肺線維症（PF）の増加とリスク因子曝露を踏まえ、ブレオマイシン（BLM）誘発ラット肺損傷モデルを用いて、骨髄間葉系幹細胞（BMMSCs）とその由来エクソソームの早期治療効果を比較検討した。投与方法として注射と吸入の2経路を評価し、CT画像、生化学的解析、分子生物学的検査、病理組織学的検査を実施した。50匹のWistarラットを5群に分け、対照群（生理食塩水気管内投与）、BLM群（BLM 5 mg/kg気管内投与）、BMMSCs群（BLM+BMMSCs 10⁶細胞）、エクソソーム群（BLM+エクソソーム）、および各投与経路の比較群を設定した。結果、BMMSCsおよびエクソソームの両治療は、BLM誘発性の線維化を有意に抑制し、炎症マーカーとコラーゲン沈着を低減した。吸入投与は注射投与と同等以上の効果を示し、特にエクソソーム吸入は早期介入において優れた抗線維化作用を発揮した。本比較研究"
+      },
+      {
+        "title": "Retraction notice to \"Exosomal Hsp27 protein are associated with heart failure in STZ-induced type 1 diabetic rats\" [Int. J. Biol. Macromol. 277 (2024) 133772].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42538199/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijbiomac.2026.153814",
+        "keyword": "Exosomes",
+        "title_ja": "「STZ誘発1型糖尿病ラットにおけるエクソソームHsp27タンパク質は心不全と関連する」[Int. J. Biol. Macromol. 277 (2024) 133772] に対する撤回通知",
+        "summary_ja": "本通知は、著者らの要請により、国際生物高分子ジャーナルに掲載された論文「Exosomal Hsp27 protein are associated with heart failure in STZ-induced type 1 diabetic rats」（Int. J. Biol. Macromol. 277 (2024) 133772）の撤回を宣言するものです。撤回理由は、論文内のデータの信頼性に重大な疑問が生じたためです。具体的には、実験結果の再現性や解析の妥当性に関して問題が指摘され、著者らが調査を行った結果、掲載内容の正確性を維持できないと判断されました。本撤回は、学術的誠実性を保つための措置であり、読者や研究コミュニティへの誤解を防ぐことを目的としています。なお、撤回に関する詳細な経緯やデータの問題点については、著者らおよび編集部による確認が行われています。本通知は、元の論文"
+      },
+      {
+        "title": "CRISPR activation screen uncovers MARCKSL1 as a gauge for extracellular vesicle secretion.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42536484/",
+        "abstract": "Extracellular vesicles (EVs) are central mediators of intercellular communication that originate from diverse membrane reservoirs. EV biogenesis can occur via multiple pathways, including outward budding of the plasma membrane (PM) and fusion of mature endosomes with the PM. The present study investigates how cells balance these competing routes using a genome-wide CRISPR activation screen for factors that alter surface expression of CD63-an EV-associated tetraspanin that shuttles between the PM and endosomes. This unbiased strategy identifies the membrane adaptor MARCKSL1 known to be upregulated across diverse tumor types. Overexpression of MARCKSL1 elevates CD63 abundance at the PM and boosts EV secretion. Proximity-based proteomics implicates the cytoskeleton-PM linker Radixin and the SNARE-associated protein STXBP3 as MARCKSL1 binding partners that respectively promote either PM-derived or endosome-derived EV secretion. Collectively, our findings reveal new insights into PM remodeling and position MARCKSL1 as a gauge between distinct EV biogenesis platforms.",
+        "source": "PubMed",
+        "doi": "10.1016/j.celrep.2026.117744",
+        "keyword": "Exosomes",
+        "title_ja": "CRISPR活性化スクリーニングにより、細胞外小胞分泌の指標としてMARCKSL1が同定される",
+        "summary_ja": "細胞外小胞（EV）は細胞間コミュニケーションの中心的媒介物であり、多様な膜リザーバーに由来する。EVの生合成は、原形質膜（PM）の外向き出芽や成熟エンドソームとPMの融合など複数の経路で起こる。本研究では、ゲノムワイドCRISPR活性化スクリーニングを用いて、PMとエンドソーム間を往復するEV関連テトラスパニンCD63の表面発現を変化させる因子を探索し、細胞がこれらの競合経路をどうバランスするかを調べた。その結果、多種の腫瘍で過剰発現する膜アダプターMARCKSL1が同定された。MARCKSL1の過剰発現はPMでのCD63量を増加させ、EV分泌を促進する。近接プロテオミクスにより、細胞骨格-PMリンカーであるRadixinとSNARE関連タンパク質STXBP3がMARCKSL1の結合パートナーとして同定され、それぞれPM由来またはエンドソーム由来のEV分泌を促進する。これらの知見は、PMリ"
+      }
+    ],
+    "農学": [
+      {
+        "title": "Liver sinusoidal endothelium mediates systemic clearance of ultrasmall gold nanoparticles through secretion of circulating exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42536443/",
+        "abstract": "Liver sinusoidal endothelium featuring a unique discontinuous lining and robust endocytic activity is vital for nanoparticle retention, clearance, and translocation. However, liver sinusoidal endothelium-mediated nanoparticle elimination remains far less understood than liver macrophage uptake despite both processes being involved in hepatic detoxification. Using water-soluble Au",
+        "source": "PubMed",
+        "doi": "10.1073/pnas.2608608123",
+        "keyword": "Exosomes",
+        "title_ja": "肝類洞内皮は循環エクソソームの分泌を介して超小型金ナノ粒子の全身クリアランスを媒介する。",
+        "summary_ja": "肝類洞内皮は、不連続な構造と高いエンドサイトーシス活性を持ち、ナノ粒子の保持・クリアランス・移行に重要である。しかし、肝マクロファージの取り込みに比べ、肝類洞内皮を介したナノ粒子除去機構は未解明である。本研究では、水溶性の超小型金ナノ粒子を用い、肝類洞内皮が循環エクソソームを分泌することで全身性クリアランスを仲介することを示した。この経路は肝解毒機構の新たな理解を提供する。"
+      }
+    ],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Cancer burden and health inequalities attributable to occupational arsenic exposure: A 32-year global, regional, and national observational study with projections to 2036.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42536530/",
+        "abstract": "Occupational arsenic exposure (OEA), mainly through inhalation in workplace settings, is an established carcinogenic hazard associated with lung, skin, and bladder cancers. However, long-term trends and the global cancer burden attributable to OEA remain insufficiently characterized. Data from the Global Burden of Disease Study 2021 were used to analyze the cancer burden attributable to OEA from 1990 to 2021. Indicators included summary exposure values (SEVs), deaths, years lived with disability (YLDs), and disability-adjusted life years (DALYs) at global, regional, and national levels. Estimates were reported with 95% uncertainty intervals (UIs) generated from 1000 Monte Carlo simulations. Age-standardized indicators, Joinpoint regression, inequality analysis, decomposition analysis, and frontier analysis were used to assess spatiotemporal trends, drivers, and disparities. Seven forecasting models were evaluated to predict trends from 2022 to 2036. Between 1990 and 2021, global OEA SEV increased from 0.408% to 0.496% (average annual percentage change [AAPC] = 0.288). Cancer deaths rose from 5.5 to 10.5 thousand, YLD from 1.5 to 3.3 thousand, and DALYs from 169.6 to 298.7 thousand. In contrast, age-standardized death rate (AAPC = -0.300) and DALYs rate (AAPC = -0.531) declined. Men bore higher overall burdens, but women experienced faster increases (AAPC 0.428 vs 0.171). High-socio-demographic index (SDI) countries showed continuous improvement, whereas middle- and low-SDI regions-particularly East, South, and Southeast Asia-experienced substantial increases. In East Asia, the AAPCs for age-standardized SEVs, age-standardized death rates, age-standardized YLDs rates, and DALYs rates were 0.953, 1.067, 1.849, and 0.809, respectively. Inequality analysis indicated stable absolute gaps but reduced relative disparities, with burdens still concentrated in low-SDI countries. Decomposition suggested that population growth was the main driver of global burden increases, and frontier analysis highlighted limited improvement potential in low-SDI regions. Forecasting models indicated that the absolute burden of occupational arsenic exposure will continue to rise over the next 15 years. The cancer burden attributable to OEA is still increasing globally, with persistent prevention gaps and socioeconomic disparities. Focused interventions in low- and middle-SDI countries and rapidly industrializing regions are needed, including strengthened occupational exposure regulations, improved workplace arsenic monitoring, engineering controls, personal protective equipment, and regular health surveillance for workers in high-risk industries, to reduce inequalities and mitigate public health threats.",
+        "source": "PubMed",
+        "doi": "10.1097/MD.0000000000049979",
+        "keyword": "sEVs",
+        "title_ja": "職業性ヒ素曝露に起因するがん負荷と健康格差：2036年までの予測を伴う32年間の世界・地域・国別観察研究",
+        "summary_ja": "職業性ヒ素曝露（OEA）による癌負荷と健康格差を、1990〜2021年の世界規模データ（GBD 2021）を用いて分析した観察研究。SEV（曝露値）は0.408%から0.496%へ増加（AAPC=0.288）。癌死亡は5.5千人から10.5千人、YLDは1.5〜3.3千人、DALYsは169.6〜298.7千人へ増加したが、年齢標準化死亡率（AAPC=-0.300）とDALYs率（-0.531）は減少。男性の負荷が高い一方、女性の増加率が大きい（AAPC 0.428 vs 0.171）。高SDI国は改善傾向だが、中・低SDI国、特に東アジア・南アジア・東南アジアで顕著な増加（東アジアの年齢標準化SEV、死亡率、YLD率、DALYs率のAAPCは各0.953、1.067、1.849、0.809）。不平等分析では絶対格差は安定、相対格差は縮小したが、負荷は低SDI国に集中。人口増加が主因で、低"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n**1. MSCsとエンパグリフロジンによるDKD治療**\n糖尿病性腎臓病は末期腎不全の主因であり、オートファジー異常とKlotho減少が病態を悪化させます。MSCsとSGLT2阻害薬の併用は、Klothoを回復させ腎保護効果を増強する可能性があり、新たな複合治療戦略として期待されます。\n\n**2. 高親和性CD16 NK細胞療法（AB-101）**\n自己免疫疾患において、T細胞療法に代わる即時利用可能な同種NK細胞製品が注目されています。AB-101は非遺伝子改変で大量生産が可能であり、安全性とコスト面で優れた細胞治療の実用化に貢献するでしょう。\n\n**3. 腫瘍由来エクソソームcircAP2B1とM2マクロファージ**\nESCCで上昇するcircAP2B1は、ミトコンドリア恒常性を介してM2マクロファージを誘導し、免疫抑制微小環境を形成します。血液中のcircAP2B1は予後バイオマーカーや治療標的として有望です。\n\n**4. CRISPR活性化スクリーニングによるEV分泌制御**\nMARCKSL1がEV分泌の調節因子として同定されました。EV分泌の分子機構解明は、がん転移や免疫制御の理解を深め、EV産生を標的とした新規治療開発につながります。\n\n**5. 肝類洞内皮によるナノ粒子クリアランス機構**\n超小型金ナノ粒子が肝類洞内皮のエクソソーム分泌を介して全身から除去される機序が示されました。この知見は、ナノDDSの体内動態設計や肝臓を標的とした治療戦略に重要な示唆を与えます。"
+}

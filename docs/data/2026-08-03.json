@@ -1,0 +1,94 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Transcatheter Edge-to-Edge Repair Under Argatroban in IABP-Supported Acute Mitral Regurgitation With Suspected Heparin-Induced Thrombocytopenia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42542981/",
+        "abstract": "Heparin-induced thrombocytopenia (HIT) is a prothrombotic immune-mediated complication that complicates cardiac surgery because cardiopulmonary bypass requires systemic heparinization. We report a case of acute severe mitral regurgitation (MR) complicated by clinically suspected HIT, in which conventional surgical repair was not feasible.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jaccas.2026.109579",
+        "keyword": "PF4",
+        "title_ja": "IABP補助下の急性僧帽弁閉鎖不全症に対するヘパリン起因性血小板減少症疑い例でのアルガトロバン使用下経カテーテル縁間修復術",
+        "summary_ja": "ヘパリン起因性血小板減少症（HIT）は、免疫介在性の血栓性合併症であり、人工心肺使用時の全身ヘパリン化により心臓手術を複雑化させる。本症例は、急性重症僧帽弁逆流（MR）に臨床的にHITが疑われ、従来の外科的修復が不可能であった症例を報告する。経カテーテル縁間修復術（TEER）を、大動脈内バルーンパンピング（IABP）補助下で、抗凝固薬としてアルガトロバンを用いて実施した。アルガトロバンは直接トロンビン阻害薬であり、HIT患者での代替抗凝固療法として有効である。TEERは低侵襲であり、外科的リスクが高い患者に適応となる。本症例では、IABP併用下でもTEERが安全に施行でき、MRの重症度が改善し、合併症なく経過した。HIT疑い例での急性MRに対するTEERとアルガトロバン併用は、外科的治療が困難な症例における有効な選択肢となり得る。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Research advances on tumor-associated macrophages in pancreatic cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42519576/",
+        "abstract": "Pancreatic cancer, as a highly malignant tumor, is often regarded as one of the cancers with the poorest prognosis due to its insidious early symptoms, aggressive nature, and extremely poor clinical outcomes. Within the immune microenvironment of pancreatic cancer, tumor-associated macrophages (TAMs) constitute the predominant and central type of immune cell. They play a crucial regulatory role in key processes such as tumor initiation, progression, angiogenesis, and immune evasion. Furthermore, TAMs are deeply involved in regulating the onset and progression of the disease through multiple mechanisms, including the secretion of pro-inflammatory cytokines, promotion of tumor cell proliferation, and suppression of anti-tumor immune responses. At the same time, interventions targeting TAMs have demonstrated significant potential therapeutic value in preclinical and clinical studies. Therefore, this article aims to provide a comprehensive and systematic review of the origin and bidirectional interactions of TAMs in the progression of pancreatic cancer. Additionally, it will summarize and critically discuss the current status, challenges, and future prospects of research into related targeted therapeutic strategies, offering valuable insights for the development of novel immunotherapeutic approaches against this devastating disease.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbrep.2026.102712",
+        "keyword": "Exosomes",
+        "title_ja": "膵癌における腫瘍関連マクロファージの研究進展",
+        "summary_ja": "膵臓がんは、初期症状が乏しく浸潤性が高いため、予後が最も不良ながんの一つとされる。その免疫微小環境において、腫瘍関連マクロファージ（TAMs）は主要かつ中心的な免疫細胞であり、腫瘍の発生、進展、血管新生、免疫逃避に重要な調節的役割を果たす。TAMsは、炎症性サイトカインの分泌、腫瘍細胞増殖の促進、抗腫瘍免疫応答の抑制など、多様な機序を介して病態の進行を制御する。また、TAMsを標的とした介入は、前臨床および臨床研究で有意な治療可能性を示している。本稿では、膵臓がん進展におけるTAMsの起源と双方向性相互作用を包括的に概説し、関連する標的治療戦略の現状、課題、将来の展望を批判的に考察することで、新規免疫療法の開発に有用な知見を提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Retraction Notice to: Exosomal Delivery of AntagomiRs Targeting Viral and Cellular MicroRNAs Synergistically Inhibits Cancer Angiogenesis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42542619/",
+        "abstract": "[This retracts the article DOI: 10.1016/j.omtn.2020.08.017.].",
+        "source": "PubMed",
+        "doi": "10.1016/j.omtn.2026.103033",
+        "keyword": "Exosomes",
+        "title_ja": "撤回通知：靶向病毒和细胞微RNA的外泌体递送AntagomiRs协同抑制癌症血管生成",
+        "summary_ja": "本通知は、論文「Exosomal Delivery of AntagomiRs Targeting Viral and Cellular MicroRNAs Synergistically Inhibits Cancer Angiogenesis」の撤回に関するものです。撤回対象は、DOI: 10.1016/j.omtn.2020.08.017 で公開された原著論文です。撤回理由は明記されていませんが、掲載誌の編集方針に基づき、当該論文の内容全体が撤回されます。本通知は、読者および研究者に対し、この論文の結果や結論を引用・参照しないよう注意を促すためのものです。"
+      },
+      {
+        "title": "A cell-free browning strategy: Exosomal miR-21a-5p from ADSCs targets PDCD4 to reshape adipose metabolism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42519062/",
+        "abstract": "Adipose-derived stem cell exosomes (ADSC-EXOs) serve as cell-free therapy, transporting signaling molecules that modulate adipose plasticity. However, the precise molecular mechanisms involved remain unclear. We used a high-fat diet-induced mouse obesity model and an MDI-induced 3T3-L1 cell differentiation model. We found that ADSC-EXOs improved systemic glucose and lipid metabolism, decreased PDCD4 and white adipocyte marker expression, and increased brown adipocyte marker expression along with the activation of the LXR-α/Akt pathway in inguinal adipose tissue. miR-21a-5p mimic or siPDCD4 transfection in 3T3-L1 cells recapitulated these effects, reducing lipid accumulation and promoting adipocyte browning, whereas PDCD4 overexpression produced the opposite effects. Mechanistically, miR-21a-5p directly targeted the 3' UTR of PDCD4. These findings indicate that ADSC-EXOs facilitate white fat browning through the miR-21a-5p/PDCD4 axis and thus activate the LXR-α/Akt signaling pathway, offering a potential therapeutic strategy for obesity-related metabolic dysfunction.",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.116765",
+        "keyword": "Exosomes",
+        "title_ja": "無細胞褐変戦略：ADSCs由来エクソソームmiR-21a-5pがPDCD4を標的とし脂肪代謝を再構築する",
+        "summary_ja": "脂肪由来幹細胞エクソソーム（ADSC-EXOs）は、細胞を使わない治療法として脂肪組織の可塑性を調節するが、その分子機構は不明である。本研究では、高脂肪食誘導マウス肥満モデルとMDI誘導3T3-L1細胞分化モデルを用いて検討した。ADSC-EXOsは全身の糖・脂質代謝を改善し、鼠径部脂肪組織においてPDCD4および白色脂肪細胞マーカー発現を減少させ、褐色脂肪細胞マーカー発現とLXR-α/Akt経路の活性化を増加させた。3T3-L1細胞へのmiR-21a-5p mimicまたはsiPDCD4導入はこれらの効果を再現し、脂質蓄積を減少させ脂肪細胞の褐変を促進したが、PDCD4過剰発現は逆効果を示した。機構的には、miR-21a-5pがPDCD4の3'UTRに直接結合した。以上より、ADSC-EXOsはmiR-21a-5p/PDCD4軸を介してLXR-α/Aktシグナル経路を活性化し、白色脂肪の"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックをまとめます。\n\n**1. エクソソームmiR-21a-5pによる脂肪代謝リプログラミング**\nADSC由来エクソソームがmiR-21a-5pを介してPDCD4を抑制し、白色脂肪のベージュ化（browning）を誘導する画期的なメカニズムを解明。細胞を使わない肥満治療の新戦略として極めて有望です。\n\n**2. 膵臓がんにおける腫瘍関連マクロファージ（TAMs）研究の進展**\n予後最悪のがんである膵臓がんの免疫微小環境で、TAMsが腫瘍進展・免疫逃避に果たす中心的役割が明確に。TAMsを標的とした新規免疫療法の開発基盤となる重要な知見です。\n\n**3. ヘパリン起因性血小板減少症（HIT）合併例へのアルガトロバン使用**\nIABP補助下の急性僧帽弁逆流症例で、HIT疑いに対しアルガトロバンを用いた経カテーテル縁間修復術を成功。抗凝固療法の個別化と低侵襲治療の併用という臨床的価値が高い報告です。\n\n**4. エクソソーム研究の再現性問題（撤回通知）**\nがん血管新生を標的としたアンタゴmiR搭載エクソソーム研究が撤回。細胞外小胞（sEVs）研究における厳格な検証の必要性を再認識させる警鐘であり、今後の研究品質向上に寄与します。\n\n**5. エクソソームによる細胞を使わない治療戦略の統合**\n上記1と関連し、ADSC-EXOsが脂肪組織の可塑性を調節するという「無細胞治療」の概念は、再生医療や代謝疾患治療のパラダイムシフトを促進。安全性とスケーラビリティの面でも将来性が高いです。"
+}

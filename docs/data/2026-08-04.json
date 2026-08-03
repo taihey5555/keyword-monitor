@@ -1,0 +1,177 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Targeted affinity fishing of components from the n-butanol extract of Gualou-Xiebai-Banxia decoction for the FGF21/FGFR1/βKlotho-FRS2α pathway and verification of their activities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42275862/",
+        "abstract": "To systematically deconvolute bioactive components of the n-butanol fraction of Gualou-Xiebai-Banxia decoction (GXB-N) mitigating myocardial ischemia, an integrated drug discovery strategy combining affinity ultrafiltration with liquid chromatography-tandem mass spectrometry (LC-MS/MS) was employed. This approach was designed to screen specific ligands from the complex matrix that bind to key proteins of the fibroblast growth factor 21 (FGF21) signaling complex, including fibroblast growth factor receptor 1 (FGFR1), βKlotho, and fibroblast growth factor receptor substrate 2α (FRS2α). The thermodynamic stability of identified ligands was evaluated using molecular docking and molecular dynamics simulations, while pharmacological efficacy was validated in an isoproterenol-induced zebrafish model. The screening strategy successfully identified Timosaponin BII as a lead compound with notable binding for the FGFR1/βKlotho-FRS2α complex. In silico simulations demonstrated that Timosaponin BII stably occupies the active pockets of these targets. In vivo assays revealed that Timosaponin BII treatment significantly reversed myocardial ischemia phenotypes, characterized by improved cardiac function and reduced pathological lesions, through the activation of the FGF21 signaling pathway. This study demonstrates the efficacy of the affinity ultrafiltration LC-MS/MS method for clarifying the molecular mechanisms of complex herbal matrices and supports the potential of Timosaponin BII as a therapeutic agent for coronary artery disease.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jchromb.2026.125170",
+        "keyword": "Klotho",
+        "title_ja": "瓜蒌薤白半夏汤正丁醇提取物中靶向亲和垂钓FGF21/FGFR1/βKlotho-FRS2α通路成分及其活性验证",
+        "summary_ja": "本研究旨在系统解析瓜蒌薤白半夏汤正丁醇部位（GXB-N）抗心肌缺血的活性成分。采用亲和超滤结合液相色谱-串联质谱（LC-MS/MS）的综合药物发现策略，从复杂基质中筛选与成纤维细胞生长因子21（FGF21）信号复合物关键蛋白（FGFR1、βKlotho、FRS2α）特异性结合的配体。通过分子对接和分子动力学模拟评估配体热力学稳定性，并在异丙肾上腺素诱导的斑马鱼模型中验证药理活性。结果成功筛选出知母皂苷BII为先导化合物，其对FGFR1/βKlotho-FRS2α复合物具有显著结合力。模拟显示其稳定占据靶点活性口袋；体内实验表明，知母皂苷BII通过激活FGF21信号通路显著逆转心肌缺血表型，改善心功能并减轻病理损伤。本研究证实亲和超滤LC-MS/MS方法可有效阐明中药复方复杂分子机制，并支持知母皂苷BII作为冠状动脉疾病治疗药物的潜力。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Accelerating Translation of NK Cell Therapies to the Clinic: A European Perspective.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42544553/",
+        "abstract": "Adoptive immunotherapies have emerged as a promising strategy in the treatment of hematological malignancies. To date, seven chimeric antigen receptor (CAR)-T cell products have obtained market authorization in Europe for B-cell malignancies, where they have revolutionized treatment for eligible patients. In addition, natural killer (NK) cells and γδ T cells are of particular interest for cell-based therapies due to their strong intrinsic cytotoxicity and favorable safety profile. Addressing challenges facing the clinical translation of NK cell therapies was one of the issues discussed in the NK & ILC Symposium that took place in Freiburg, Germany from March 11 to 13, 2026, as the annual meeting of the NK & ILC study group of the German Society for Immunology (DGfI). Topics ranging from basic immunological research to technological innovations and clinical trial results were discussed during the 3-day conference, spanning over 40 presentations and 100 posters. A highlight of the conference was a workshop featuring short presentations and a panel discussion that focused specifically on the current challenges and future prospects of the clinical implementation of NK cell therapies; the findings of this workshop are summarized in this opinion paper.",
+        "source": "PubMed",
+        "doi": "10.1177/10430342261468974",
+        "keyword": "NK cell therapy",
+        "title_ja": "NK細胞療法の臨床応用を加速する：欧州の視点",
+        "summary_ja": "養子免疫療法は血液悪性腫瘍治療の有望な戦略として登場し、欧州では現在7つのCAR-T細胞製品がB細胞性悪性腫瘍に対して承認されている。NK細胞とγδ T細胞は、強い自然細胞傷害性と良好な安全性プロファイルから細胞治療において特に注目されている。本稿は、2026年3月11日から13日にドイツ・フライブルクで開催されたNK & ILCシンポジウム（ドイツ免疫学会NK & ILC研究会の年次集会）における議論を要約する。この会議では、基礎免疫学研究から技術革新、臨床試験結果まで40以上の発表と100以上のポスターが示された。特に注目されたのは、NK細胞治療の臨床実装における現在の課題と将来展望に焦点を当てたワークショップであり、短いプレゼンテーションとパネル討論が行われた。本意見論文は、そのワークショップの知見をまとめたものである。NK細胞治療の臨床応用を加速するためには、製造プロセスの標準化、"
+      },
+      {
+        "title": "Hydrophilic Porphyrin Copolymers Combined with Autophagy Inhibitors Enhance Tumor Photothermal/Photodynamic Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42543111/",
+        "abstract": "Synergistic photodynamic and photothermal therapy (PDT/PTT) holds immense promise for cancer treatment, yet its efficacy is often compromised by limited photosensitizer performance, glutathione (GSH)-mediated ROS quenching, and tumor-protective autophagy. Herein, we developed a GSH-responsive hydrophilic porphyrin copolymer (PPS) that covalently integrates porphyrin into the polymer backbone, ensuring high loading capacity and minimal carrier-related toxicity. PPS exhibits robust absorption around 800 nm, enabling simultaneous PDT and PTT under a single NIR laser. By incorporating the autophagy inhibitor chloroquine (CQ), the resulting CQ@DPPS nanosystem achieves multi-modal synergy: intracellularly, CQ not only inhibits phototherapy-induced autophagic flux to suppress cell survival but also facilitates the lysosomal escape of photosensitizers, heightening programmed cell death via Bcl-2 inhibition and Caspase-3 activation. Crucially, CQ@DPPS significantly activates NK cell-mediated innate immune surveillance and enhances the secretion of granzyme B (GZMB) in NK cells by downregulating MHC-I expression on the surface of tumor cells. In vivo, CQ@DPPS combined with 808 nm irradiation achieved complete tumor regression in HCT116-bearing mice and significantly attenuated hepatic metastasis. This work provides a potent strategy to overcome phototherapy resistance through the integration of autophagy inhibition, dual-mode phototherapy, and innate immune activation. STATEMENT OF SIGNIFICANCE: Clinical translation of PDT/PTT therapy is hindered by inefficient photosensitizer delivery, GSH-mediated ROS depletion, and cytoprotective autophagy in tumors. Here, we report a GSH-responsive hydrophilic porphyrin copolymer with porphyrin covalently integrated into the polymer backbone, enabling high loading, reduced carrier burden, and effective 808 nm-triggered PDT/PTT. Co-delivery of CQ in the CQ@DPPS nanosystem not only suppresses protective autophagic flux, but also promotes lysosomal escape, mitochondrial apoptosis, and NK cell-mediated antitumor immunity through reduced MHC-I expression and increased GZMB secretion. This multi-mechanistic platform achieved complete tumor regression and reduced hepatic metastasis in vivo, offering a promising biomaterial strategy to overcome major barriers in phototherapy and facilitate clinical translation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.actbio.2026.08.001",
+        "keyword": "NK cell therapy",
+        "title_ja": "親水性ポルフィリン共重合体とオートファジー阻害剤の併用による腫瘍光熱/光線力学療法の増強",
+        "summary_ja": "**要約**\n\n光線力学療法（PDT）と光熱療法（PTT）の併用は癌治療に有望だが、光増感剤の性能不足、グルタチオン（GSH）によるROS消去、腫瘍保護的オートファジーが効果を制限する。本研究では、ポルフィリンを共有結合でポリマー主鎖に組み込んだGSH応答性親水性共重合体（PPS）を開発した。PPSは約800nmで強い吸収を示し、単一NIRレーザーでPDT/PTTを同時誘導する。オートファジー阻害剤クロロキン（CQ）を内包したCQ@DPPSナノシステムは、CQが光線療法誘発オートファジーフラックスを阻害し、リソソーム脱出を促進、Bcl-2阻害とCaspase-3活性化を介してプログラム細胞死を増強する。さらに、腫瘍細胞表面のMHC-I発現を低下させ、NK細胞の顆粒酵素B（GZMB）分泌を促進し、自然免疫監視を活性化する。in vivoでは、CQ@DPPSと808nm照射の併用がHCT116"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "CD36-mediated lipid rewiring in the metabolic adaptation of tumour ecosystems.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42543461/",
+        "abstract": "Tumour progression is increasingly recognised as a dynamic, complex ecosystem-driven metabolic plasticity and resource utilisation within the tumour microenvironment. Among metabolic regulators, CD36, an important mediator of lipid uptake, has an emerging role in the lipid-driven metabolic adaptation of cancer. CD36 facilitates the acquisition and use of exogenous fatty acids, enabling tumour cells to maintain bioenergetic homeostasis and growth. This metabolic rewiring supports tumour progression by establishing a complex metabolic symbiosis among heterogeneous cellular populations. CD36 has a significant role in determining the fate of various cancer-associated cells including fibroblasts, adipocytes and immune cells. These tissue-driven, cell type- and environment-dependent lipid metabolic shifts allow the developing tumour to bypass metabolic stress and nutrient deprivation. While CD36-mediated alterations act as a crucial survival promoter for the 'winners' (tumour cells and immunosuppressive myeloid-derived suppressor cells or regulatory T cells), they simultaneously trigger exhaustion, lipid peroxidation and ferroptosis in the 'losers' (cytotoxic T cells and natural killer cells). Consequently, CD36 functions as an essential metabolic 'emergency exit', allowing the tumour to escape starvation and survive despite recent therapies. This review synthesises current knowledge on CD36 as a metabolic bridge linking lipid uptake, metabolic symbiosis and tumour immune ecosystem remodelling. We discuss how CD36-driven lipid metabolism integrates cellular crosstalk, nutrient competition to sustain progression in different cancers. Understanding the role of CD36 in tumour and immunometabolism in the tissue microenvironment highlights the importance of CD36 as a potential target through metabolic adaptations in shaping tumour evolution and clinical outcomes.",
+        "source": "PubMed",
+        "doi": "10.1111/febs.70673",
+        "keyword": "NK cell therapy",
+        "title_ja": "CD36を介した脂質リプログラミングによる腫瘍生態系の代謝適応",
+        "summary_ja": "腫瘍の進行は、微小環境内での代謝可塑性と資源利用を伴う動的で複雑な生態系として認識されている。CD36は脂質取り込みの重要なメディエーターであり、脂質駆動型の代謝適応において新たな役割が注目されている。CD36は外因性脂肪酸の獲得と利用を促進し、腫瘍細胞のバイオエナジェティクス恒常性と増殖を支える。この代謝リワイアリングは、不均一な細胞集団間の複雑な代謝共生を確立し、腫瘍進行を促進する。CD36は線維芽細胞、脂肪細胞、免疫細胞など様々な癌関連細胞の運命決定に重要な役割を果たす。組織特異的かつ細胞型・環境依存的に脂質代謝を変化させることで、腫瘍は代謝ストレスや栄養欠乏を回避する。CD36を介した変化は「勝者」（腫瘍細胞や免疫抑制性骨髄由来抑制細胞、制御性T細胞）の生存を促進する一方、「敗者」（細胞傷害性T細胞やナチュラルキラー細胞）では疲弊、脂質過酸化、フェロトーシスを誘発する。このようにC"
+      },
+      {
+        "title": "JMB2403, a potential best-in-class PD-1-dependent IL2Rβγ-activating tri-specific antibody for safe and potent immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42543223/",
+        "abstract": "PD-1-based immunocytokines, such as interleukin (IL)-2 fused with anti-PD-1, have been designed to increase efficacy, but their use is hampered by dose-limiting toxicity. To overcome this, substantial efforts have focused on engineering attenuated IL-2 variants, albeit with limited success to date. Taking an alternative approach, we screened a naïve alpaca library for weak agonistic nanobodies of IL-2/15Rβ and the common γ chain and attached a potent anti-PD-1 IgG to generate a tri-specific antibody JMB2403. JMB2403 did not bind IL2Rα (CD25), but activated STAT5 phosphorylation in an engineered Jurkat cell reporter assay albeit far less potently compared to wildtype IL-2. This translated to a JMB2403-induced pSTAT5 increase in natural killer (NK) cells, but minimal STAT5 phosphorylation in Treg cells. Notably, JMB2403 retained PD-1 blocking activity and concentration-dependently induced phospho-STAT5 only in activated (PD-1",
+        "source": "PubMed",
+        "doi": "10.1080/19420862.2026.2709956",
+        "keyword": "NK cell therapy",
+        "title_ja": "JMB2403：安全かつ強力な免疫療法を実現する、PD-1依存性IL2Rβγ活性化トリスペシック抗体としてのベスト・イン・クラス候補",
+        "summary_ja": "JMB2403は、PD-1依存性のIL2Rβγ活性化三特異性抗体であり、安全かつ強力な免疫療法の可能性を秘めた最良級候補です。従来のPD-1ベースの免疫サイトカイン（IL-2と抗PD-1の融合）は効果向上を目指すものの、用量制限毒性が課題でした。そこで、弱いアゴニスト活性を持つナノボディをアルパカライブラリからスクリーニングし、強力な抗PD-1 IgGと結合させてJMB2403を設計しました。本抗体はIL2Rα（CD25）に結合せず、野生型IL-2より弱いながらもSTAT5リン酸化を活性化します。ナチュラルキラー細胞ではpSTAT5を誘導する一方、Treg細胞では最小限の活性化に留まります。さらに、PD-1ブロッキング活性を保持し、PD-1発現活性化T細胞でのみ濃度依存的にリン酸化STAT5を誘導します。これにより、Treg関連毒性を回避しつつ抗腫瘍効果を発揮する可能性が示唆され、安全で効"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosome-mediated siRNA delivery in cancer: Loading strategies, targeting approaches, and therapeutic outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42545436/",
+        "abstract": "Exosome-mediated delivery of small interfering RNA (siRNA) has emerged as a promising therapeutic strategy for cancer treatment, offering precise gene silencing with minimal off-target effects. Exosomes, naturally secreted extracellular vesicles, provide biocompatible carriers that protect siRNA from enzymatic degradation and facilitate efficient uptake by tumor cells. Their natural tropism, driven by surface proteins such as integrins and tetraspanins, promotes cellular adhesion and interactions within the tumor microenvironment, facilitating the delivery of therapeutic cargo. Preclinical studies have demonstrated that exosome-delivered siRNAs can suppress oncogenes, inhibit tumor growth, reverse chemoresistance, and modulate immune responses by targeting stromal and immune components. Engineering approaches, including surface functionalization and hybrid exosome-nanoparticle systems, further enhance stability, payload capacity, and tumor-homing efficiency. Combination strategies with chemotherapy, immunotherapy, or phototherapy have shown synergistic effects, allowing simultaneous inhibition of survival pathways, promotion of apoptosis, and remodeling of the immunosuppressive microenvironment. Early-phase clinical studies indicate safety, effective biodistribution, and functional gene silencing, highlighting the translational potential of exosome-mediated siRNA therapeutics. Challenges such as scalable production, cargo heterogeneity, and regulatory considerations remain, but ongoing advances in exosome engineering and patient-derived vesicles are poised to overcome these barriers. This review aims to comprehensively summarize the current state, therapeutic applications, and translational prospects of exosome-mediated siRNA delivery in cancer.",
+        "source": "PubMed",
+        "doi": "10.1007/s40199-026-00631-z",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを介したsiRNAのがん治療へのデリバリー：封入戦略、標的化アプローチ、および治療効果",
+        "summary_ja": "エクソソームを介したsiRNA送達は、がん治療における有望な戦略として注目されている。エクソソームは天然の細胞外小胞であり、生体適合性が高く、siRNAを酵素分解から保護し、腫瘍細胞への効率的な取り込みを促進する。表面タンパク質（インテグリンやテトラスパニン）による自然な腫瘍指向性が、腫瘍微小環境での細胞接着と相互作用を強化する。前臨床研究では、エクソソーム送達siRNAががん遺伝子抑制、腫瘍増殖阻害、化学療法耐性の逆転、免疫応答調節に有効であることが示されている。表面修飾やハイブリッドエクソソーム-ナノ粒子システムなどの工学的アプローチにより、安定性、積載量、腫瘍ホーミング効率が向上する。化学療法、免疫療法、光線療法との併用は相乗効果を示し、生存経路の阻害、アポトーシス促進、免疫抑制微小環境のリモデリングを可能にする。初期臨床試験では安全性、効果的な生体内分布、機能的な遺伝子サイレンシン"
+      },
+      {
+        "title": "Present status of prostate cancer diagnosis, limitations, challenges, and future endeavors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42544420/",
+        "abstract": null,
+        "source": "PubMed",
+        "doi": "10.1080/07853890.2026.2659984",
+        "keyword": "Exosomes",
+        "title_ja": "前立腺癌診断の現状、限界、課題、そして今後の取り組み",
+        "summary_ja": "前立腺がん診断の現状、限界、課題、今後の取り組みについて概説する。診断はPSA検査、直腸診、生検が中心だが、PSAの特異性低さによる過剰診断・過剰治療が課題である。MRIや生検の精度向上が進む一方、限界として腫瘍の不均一性や低悪性度がんの臨床的意義の判断が挙げられる。今後はバイオマーカー、遺伝子プロファイリング、AI支援診断の統合が期待され、個別化医療への移行が重要視される。早期発見と不必要な治療回避のバランスが鍵となる。"
+      },
+      {
+        "title": "Advances in Exosome-Based Therapy for Cardiovascular Disease: Traditional Chinese Medicine Offering New Avenues for Exosome Functionalization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42543148/",
+        "abstract": "Cardiovascular diseases (CVDs) remain a leading cause of global mortality and impose a substantial health and economic burden worldwide. Exosomes, as promising endogenous nanocarriers, have emerged as a powerful tool for the prevention and treatment of CVDs. In particular, advanced functionalization strategies have largely enhanced exosomal therapeutic efficacy in vivo. Notably, Traditional Chinese Medicine (TCM) and its bioactive components exert profound regulatory effects on exosomes.",
+        "source": "PubMed",
+        "doi": "10.1002/pca.70085",
+        "keyword": "Exosomes",
+        "title_ja": "心血管疾患におけるエクソソーム療法の進歩：伝統中国医学が提供するエクソソーム機能化への新たな道筋",
+        "summary_ja": "心血管疾患（CVD）は世界の主要死因であり、大きな健康・経済的負担を伴う。エクソソームは有望な内因性ナノキャリアとして、CVDの予防・治療に強力なツールとなる。特に、先進的な機能化戦略により、生体内でのエクソソーム治療効果が大幅に向上した。注目すべきは、漢方薬（TCM）とその生理活性成分がエクソソームに深い調節効果を及ぼすことである。本総説では、エクソソームの機能化におけるTCMの役割を概説し、CVD治療への新たな道筋を提示する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "YBX1-mediated m5C modification of exosomal LGALS3 derived from M2 tumor-associated macrophages drives colorectal cancer cell malignant behaviors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42545562/",
+        "abstract": "Colorectal cancer (CRC) is still a deadly malignancy all over the world. Previous studies have indicated that exosomes could remodel the microenvironment and promote tumor development. Furthermore, Galectin 3 (also known as LGALS3) was found to be present within the lumen of exosomes and participate in tumor progression. However, the effects of exosomal LGALS3 on CRC progression are still unclear. The advanced CRC cellular heterogeneity was identified in GSM7349819 database using scRNA-Seq analysis. Through the analysis of GSM7349819 database, transcriptome GSE159112 database, and GeneCards database, potential targets of lipid metabolism-related differential expression genes (DEGs) in macrophages and stem cells during CRC progression were identified. LGALS3 and Y-box binding protein 1 (YBX1) expression was determined using real-time quantitative polymerase chain reaction (RT-qPCR) and western blot. M2 polarization of macrophages was determined by measuring the M2-specific cell surface markers and cytokines. Binding between LGALS3 and YBX1 was analyzed using m5C RIP, RIP, and dual-luciferase reporter assays. PMA-treated THP1 cells were exposed to IL-4 and IL-13, generating M2-TAMs (THP1-M2). Effects of M2-TAM-derived exosomal YBX1 and LGALS3 on CRC development were assessed. Cell proliferation, invasion, sphere formation ability, and apoptosis were determined using EdU, Transwell, sphere formation, and flow cytometry. Oil Red O staining was applied for lipid accumulation. Role of M2-TAM-derived exosomal YBX1 on CRC tumor growth was determined in vivo experiments. Public database analysis exhibited that lipid metabolism-related gene LGALS3 was upregulated in CRC stem cells and M2 macrophages. Compared with THP1-M0, LGALS3 was increased in THP1-M2. LGALS3 was transferred from M2 TAMs to CRC cells via exosomes. M2 TAM-derived exosomal LGALS3 knockdown repressed CRC cell proliferation, invasion, stemness, lipid metabolism, promoted apoptosis, and inhibited tumor growth in vivo. Mechanistically, YBX1 recognized m5C modifications in LGALS3 mRNA and maintained mRNA stability in M2 TAM. YBX1-mediated m5C modification of exosomal LGALS3 derived from M2 TAM could promote CRC cell growth and lipid metabolism, providing a highly potential target for CRC.",
+        "source": "PubMed",
+        "doi": "10.1007/s11010-026-05667-y",
+        "keyword": "Exosomes",
+        "title_ja": "M2腫瘍関連マクロファージ由来エクソソームのLGALS3におけるYBX1を介したm5C修飾が、大腸癌細胞の悪性形質を促進する。",
+        "summary_ja": "大腸がん（CRC）は依然として致死率の高い悪性腫瘍である。本研究では、M2型腫瘍関連マクロファージ（TAM）由来のエクソソームに含まれるLGALS3がCRCの悪性化を促進する機序を解明した。公開データベース解析により、脂質代謝関連遺伝子LGALS3がCRC幹細胞とM2マクロファージで高発現していることを確認。THP1-M2細胞ではLGALS3発現が亢進し、エクソソームを介してCRC細胞へ転移した。LGALS3ノックダウンにより、CRC細胞の増殖・浸潤・幹細胞性・脂質代謝が抑制され、アポトーシスが促進され、in vivoでの腫瘍増殖も抑制された。機構として、YBX1がLGALS3 mRNAのm5C修飾を認識し、mRNA安定性を維持することで発現を制御していた。以上より、M2 TAM由来エクソソームのYBX1を介したm5C修飾がLGALS3の発現を調節し、CRCの増殖と脂質代謝を促進することが"
+      },
+      {
+        "title": "Circular RNAs orchestrate molecular networks in osteoarthritis: From miRNA sponging to epigenetic and exosome-mediated regulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42545381/",
+        "abstract": "Osteoarthritis (OA) is a progressive degenerative joint disorder characterized by cartilage breakdown, chronic inflammation, and impaired tissue homeostasis, representing a major global health burden with limited disease-modifying therapies. In recent years, circular RNAs (circRNAs), a class of covalently closed non-coding RNAs, have emerged as critical regulators of gene expression in OA pathogenesis. Due to their high stability, tissue specificity, and evolutionary conservation, circRNAs have attracted increasing attention as key molecular modulators of cartilage homeostasis and potential therapeutic targets. This review comprehensively summarizes current advances in the molecular mechanisms of circRNAs in OA, with a particular focus on their roles as competing endogenous RNAs (ceRNAs), epigenetic regulators, and mediators of intercellular communication via exosomes. Current evidence indicates that circRNAs participate in multiple pathological processes associated with OA, including extracellular matrix (ECM) degradation, chondrocyte apoptosis, autophagy dysfunction, inflammatory signaling, and mitochondrial stress, primarily through modulation of signaling pathways such as NF-κB, PI3K/AKT, PTEN, and SIRT. Emerging evidence further highlights their involvement in epigenetic regulation via DNA methylation machinery and their participation in exosome-mediated intercellular communication within the joint microenvironment. Importantly, circRNAs exhibit dual functional roles, acting either as pathogenic amplifiers of cartilage degeneration or as protective regulators that promote chondrocyte survival and tissue repair. This functional versatility underscores their potential as both diagnostic biomarkers and therapeutic targets in OA. Moreover, advances in extracellular vesicle-based delivery systems and synthetic RNA engineering provide promising strategies for translating circRNA biology into clinical applications. Despite these advances, challenges remain regarding mechanistic complexity, tissue-specific functions, and efficient in vivo delivery systems. A deeper understanding of circRNA regulatory networks may facilitate the development of next-generation RNA-based precision therapies for osteoarthritis.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12505-3",
+        "keyword": "Exosomes",
+        "title_ja": "環状RNAが変形性関節症における分子ネットワークを制御する：miRNAスポンジ作用からエピジェネティック制御およびエクソソーム介在性調節まで",
+        "summary_ja": "変形性関節症（OA）は、軟骨破壊、慢性炎症、組織恒常性の障害を特徴とする進行性変性疾患であり、疾患修飾療法が限られている。近年、環状RNA（circRNA）がOA病態における遺伝子発現の重要調節因子として注目されている。circRNAは共有結合で閉環した非コードRNAであり、高い安定性、組織特異性、進化的保存性を持つ。本総説は、OAにおけるcircRNAの分子機構を包括的に概説し、特に競合的内因性RNA（ceRNA）としての機能、エピジェネティック調節、エクソソームを介した細胞間コミュニケーションに焦点を当てる。circRNAは、細胞外マトリックス分解、軟骨細胞アポトーシス、オートファジー不全、炎症シグナル、ミトコンドリアストレスなど多様な病態プロセスに関与し、NF-κB、PI3K/AKT、PTEN、SIRTなどのシグナル経路を調節する。また、DNAメチル化機構を介したエピジェネティック制"
+      },
+      {
+        "title": "Encapsulation and Controlled Release of Human Spinal Cord Organoid-Derived Extracellular Vesicles for Tissue Patterning in Viscoelastic Hyaluronic Acid Hydrogels.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42543528/",
+        "abstract": "Human induced pluripotent stem cells (hiPSCs) can differentiate into various types of central nervous system organoids which are valuable for applications in tissue engineering and injury repair. The secreted extracellular vesicles (EVs) of organoids, in particular the small-sized EV subset referred as exosomes (30-200 nm), have emerged as novel therapeutics in regenerative medicine. This study investigated the encapsulation and controlled release of human spinal cord organoid (hSCO)-derived EVs in viscoelastic hyaluronic acid (HA) hydrogels and assessed their impact on organoid patterning. A series of pH-responsive hydrogels were fabricated, leading to sustained EV release regulated by viscoelastic properties. The pH of these hydrogels decreased from 9 to 7 during incubation, which altered hydrogel viscoelasticity, thereby modulating EV release kinetics. In addition, EV-loaded hydrogels regulated key hSCO patterning markers such as DBX1 and ISL1. Furthermore, these EVs in hydrogels can cross a modeled blood-spinal cord barrier and provide cross-barrier capability for delivery. Taken together, the organoid-secreted EVs in viscoelastic HA hydrogels can be released at a controlled rate and have potential to regulate spinal cord organoid patterning. This study advances our knowledge of regulating intercellular communication and developing EV-based therapies for treating neurological disorders such as spinal cord injury.",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.71472",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト脊髄オルガノイド由来細胞外小胞のカプセル化と制御放出による粘弾性ヒアルロン酸ハイドロゲル内の組織パターニング",
+        "summary_ja": "本研究では、ヒト人工多能性幹細胞（hiPSCs）由来の脊髄オルガノイド（hSCO）が分泌する細胞外小胞（EVs）、特にエクソソーム（30-200 nm）に着目し、粘弾性ヒアルロン酸（HA）ハイドロゲルへの封入と制御放出を検討した。pH応答性ハイドロゲルを作製し、インキュベーション中にpHが9から7へ低下することで粘弾性が変化し、EV放出速度が調節された。EV含有ハイドロゲルは、脊髄オルガノイドのパターニングマーカーであるDBX1やISL1の発現を制御した。さらに、これらのEVはモデル血液脊髄関門を通過可能であり、バリア越え送達能を示した。結論として、粘弾性HAハイドロゲル中のオルガノイド由来EVは制御された速度で放出され、脊髄オルガノイドのパターニング調節に有望であり、脊髄損傷などの神経疾患に対するEVベース治療の基盤を提供する。"
+      }
+    ],
+    "農学": [],
+    "工学": [
+      {
+        "title": "Interfacial Self-Assembly Ag-Ag",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42544891/",
+        "abstract": "The random stacking and intrinsic high symmetry of substrate materials seriously affect the photoelectrochemical (PEC) detection performance. Herein, taking silver nanowires as templates, the silver-silver sulfide (Ag-Ag",
+        "source": "PubMed",
+        "doi": "10.1002/smll.74483",
+        "keyword": "Exosomes",
+        "title_ja": "界面自己組織化Ag-Ag",
+        "summary_ja": "本論文は、光電気化学（PEC）検出性能を低下させる基板材料のランダムな積層と固有の高対称性という問題に対し、銀ナノワイヤを鋳型として銀-硫化銀（Ag-Ag₂S）界面自己組織化構造を構築した研究を報告する。この構造により、基板の対称性に起因する電荷再結合やキャリア輸送の不均一性を抑制し、PEC応答の安定性と感度を向上させた。Ag-Ag₂S界面は局所的な電場増強とバンド整合の最適化をもたらし、光生成電子-正孔対の分離効率を高める。本手法は、高対称性基板上での高精度PECセンシング実現への新たな道を開く。"
+      }
+    ],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックをまとめます。\n\n**1. JMB2403：PD-1依存性IL2Rβγ活性化三特異性抗体**\n従来のIL-2融合タンパク質は用量制限毒性が課題でしたが、JMB2403はPD-1依存的にIL2Rβγを活性化することで、腫瘍局所でのみ免疫応答を増強し、全身毒性を軽減します。Best-in-class候補として、安全かつ強力ながん免疫療法の新機軸となる可能性を秘めています。\n\n**2. エクソソームsiRNA送達のがん治療応用**\nエクソソームは生体適合性が高く、siRNAを酵素分解から保護し腫瘍細胞への取り込みを促進します。表面タンパク質修飾による標的化や積載効率の改善が進めば、核酸医薬の実用化における最大の障壁である送達効率と特異性の問題を克服できると期待されます。\n\n**3. CD36を介した脂質リモデリングと腫瘍生態系**\nCD36は腫瘍微小環境における脂質取り込みの中心的メディエーターであり、がん細胞の代謝適応と進行を促進します。CD36を標的とした代謝介入は、既存の免疫療法や抗がん剤との併用で新たな治療戦略となり得ます。\n\n**4. エクソソーム機能化による心血管疾患治療**\nエクソソームは内因性ナノキャリアとしてCVD治療に有望ですが、本研究では機能化戦略により生体内での治療効果を大幅に向上させました。特に漢方薬成分を活用した新規機能化アプローチは、従来の合成ナノ粒子にない安全性と多機能性を両立する可能性があります。\n\n**5. 脊髄オルガノイド由来EVのハイドロゲル制御放出**\nヒトiPSC由来脊髄オルガノイドが分泌するEVを粘弾性HAハイドロゲルに封入し、組織パターニングを誘導する試みです。pH応答性放出により、脊髄損傷や神経変性疾患に対する時空間制御された再生医療の基盤技術として発展が期待されます。"
+}

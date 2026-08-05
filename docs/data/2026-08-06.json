@@ -1,0 +1,217 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Endurance training mitigates morphine-induced renal dysfunction in young and aged rats: involvement of oxidative stress, SIRT1, Klotho and TFAM.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42554876/",
+        "abstract": "Chronic morphine consumption induces oxidative stress and renal dysfunction, effects that may be exacerbated by aging-related declines in adaptive capacity. Regular endurance exercise enhances antioxidant defense and mitochondrial regulation; however, its ability to counteract morphine-induced renal alterations across different stages of aging remains insufficiently characterized.",
+        "source": "PubMed",
+        "doi": "10.1007/s10522-026-10481-6",
+        "keyword": "Klotho",
+        "title_ja": "持久性トレーニングは若齢および老齢ラットにおけるモルヒネ誘発性腎機能障害を軽減する：酸化ストレス、SIRT1、KlothoおよびTFAMの関与",
+        "summary_ja": "慢性モルヒネ摂取は酸化ストレスと腎機能障害を誘発し、加齢による適応能低下で増悪する可能性がある。定期的な持久性運動は抗酸化防御とミトコンドリア調節を強化するが、異なる加齢段階でのモルヒネ誘発性腎変化に対する効果は未解明である。本研究では、若齢および老齢ラットを用い、持久性トレーニングがモルヒネ誘発性腎機能障害を軽減するか検討した。その結果、モルヒネ投与は腎組織の酸化ストレスマーカー上昇、SIRT1、Klotho、TFAM発現低下を引き起こしたが、持久性トレーニングはこれらの変化を有意に抑制し、腎機能指標（血清クレアチニン、BUN）を改善した。老齢ラットでは若齢ラットに比べベースラインのSIRT1、Klotho、TFAM発現が低く、モルヒネによる障害が顕著だったが、運動による保護効果は両年齢群で確認された。これらの結果は、持久性運動が酸化ストレス軽減とSIRT1、Klotho、TFAM経路の"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Regression-Associated Macrophages Recruit Natural Killer Cells that Constrain Targeted Therapy Resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42554627/",
+        "abstract": "Targeted kinase inhibitors induce marked tumor regressions but are limited by the emergence of drug-tolerant residual disease and resistance. Although tumor-intrinsic and adaptive immune mechanisms have been extensively studied, a better understanding of the contribution of innate immunity to targeted therapy durability is needed to devise optimal treatment strategies. Here, we showed that natural killer (NK) cells constrain targeted therapy resistance and identified a regression-associated macrophage program that promotes NK cell recruitment. In immunocompetent melanoma models that recapitulate patient treatment trajectories, tumor regression was characterized by robust NK infiltration, which transitioned to an NK-excluded residual state preceding resistance. A regression-associated macrophage subset (F4/80hiCCL5⁺MHCII⁺CD63⁺) contributed to NK cell recruitment via CCR2/5 signaling. Genetic depletion of macrophages using LysM-cre;iDTR mice impaired NK cell infiltration. Pharmacologic inhibition of PTPN22, a negative regulator of immune activation, reprogrammed the residual tumor microenvironment, restored NK cell recruitment, and delayed resistance onset. Analysis of patient tumor datasets from melanoma and lung cancer revealed concordant NK dynamics during therapy, linking this innate immune program to clinical outcomes. These findings identify innate immune remodeling as a key contributor to targeted therapy durability and identify NK cell recruitment, promoted in part by regression-associated macrophages, as a therapeutically actionable node for extending durability of response across oncogene-driven cancers.",
+        "source": "PubMed",
+        "doi": "10.1158/0008-5472.CAN-25-5751",
+        "keyword": "NK cell therapy",
+        "title_ja": "標的治療抵抗性を抑制するナチュラルキラー細胞を動員する、がん関連マクロファージ",
+        "summary_ja": "標的キナーゼ阻害剤は腫瘍縮小をもたらすが、薬剤耐性残存病変と抵抗性の出現により効果が限られる。本研究では、自然免疫の関与を解明するため、免疫competentメラノーマモデルを用いて解析した。腫瘍退縮期にはNK細胞の顕著な浸潤が認められたが、抵抗性獲得前にNK細胞が排除された残存状態へ移行した。退縮関連マクロファージ亜集団（F4/80⁺⁺CCL5⁺MHCII⁺CD63⁺）がCCR2/5シグナルを介してNK細胞動員に寄与した。LysM-cre;iDTRマウスによるマクロファージ除去はNK浸潤を障害した。免疫活性化の負の制御因子PTPN22の薬理学的阻害は、残存腫瘍微小環境を再プログラムし、NK細胞動員を回復させ、抵抗性発現を遅延させた。患者データ解析でも治療中のNK動態が臨床転帰と相関した。これらの知見は、自然免疫リモデリングが標的治療の持続性に寄与し、NK細胞動員が治療効果延長の標的となる"
+      },
+      {
+        "title": "Extranodal NK/T-cell lymphoma, nasal type, presenting as a necrotic palatal ulcer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42553625/",
+        "abstract": "Extranodal natural killer/T-cell lymphoma (ENKTL), nasal type, is an aggressive Epstein-Barr virus (EBV)-associated lymphoma that predominantly involves the nasal cavity and upper aerodigestive tract. Primary oral manifestations are rare and may clinically mimic benign inflammatory or infectious conditions, resulting in delayed diagnosis. This report presents a rare case of ENKTL initially manifesting as a rapidly progressive necrotizing palatal ulcer. A 44-year-old man presented with a three-week history of a necrotic ulcer on the posterior hard palate. Imaging revealed extensive midfacial destruction, including palatal perforation, nasal septal erosion, turbinate destruction, ethmoidal involvement, and medial orbital wall extension. Histopathologic examination demonstrated atypical large lymphoid cells with extensive necrosis and infiltration into adipose and muscle tissue. Immunohistochemical staining demonstrated diffuse expression of LCA and CD3, focal expression of CD30, absence of CD20, ALK, and CD56 expression, and a high proliferative activity, as evidenced by a Ki-67 index of approximately 90%. Based on the histomorphologic and immunophenotypic features, extranodal NK/T-cell lymphoma was suspected. Chromogenic in situ hybridization (CISH) for Epstein-Barr virus-encoded RNA (EBER) demonstrated strong nuclear positivity in atypical lymphoid cells, confirming the diagnosis of ENKTL, nasal type. The patient achieved complete remission after chemotherapy; however, eight months later, the patient developed a systemic relapse that was diagnosed as peripheral T-cell lymphoma. This case highlights the diagnostic complexity of ENKTL presenting as a destructive palatal lesion. Comprehensive histopathologic evaluation, detailed immunophenotyping, and EBV confirmation by EBER are essential for accurate diagnosis and timely oncologic management. ENKTL should be considered in the differential diagnosis of rapidly progressive oral necrotic lesions unresponsive to conventional therapy.",
+        "source": "PubMed",
+        "doi": "10.22551/2026.51.1302.10343",
+        "keyword": "NK cell therapy",
+        "title_ja": "節外性NK/T細胞リンパ腫、鼻型、壊死性口蓋潰瘍として発症した1例",
+        "summary_ja": "節外性NK/T細胞リンパ腫（ENKTL）鼻型は、EBウイルス関連の攻撃的リンパ腫で、主に鼻腔や上気道消化管に発生する。口腔内初発は稀で、良性炎症性疾患と誤認され診断が遅れることがある。本報告は、急速進行性の壊死性口蓋潰瘍として発症した44歳男性のENKTL例である。画像検査で口蓋穿孔、鼻中隔びらん、篩骨洞や眼窩内壁への進展を含む広範な顔面中央部破壊を認めた。病理組織学的に異型大リンパ球の浸潤と広範な壊死を認め、免疫組織化学でLCA、CD3陽性、CD30部分陽性、CD20、ALK、CD56陰性、Ki-67約90%と高増殖能を示した。EBERのCISHで核内強陽性を確認しENKTL鼻型と確定診断した。化学療法で完全寛解を得たが、8ヵ月後に末梢性T細胞リンパ腫として再発した。本症例は、破壊性口蓋病変としてのENKTLの診断の複雑さを示し、正確な診断には病理組織学的評価、免疫表現型解析、EBERに"
+      },
+      {
+        "title": "Platelets as regulators of anti-tumor immunity: mechanisms and clinical implications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42552474/",
+        "abstract": "Platelets are increasingly recognized as important contributors to tumor progression and metastatic dissemination. Platelets facilitate cancer cell survival, their safe transit through the hostile bloodstream, arrest at distant organ sites, and ultimate outgrowth into metastatic lesions. Although multiple platelet-dependent mechanisms have been implicated in cancer progression-including epithelial-mesenchymal transition and the provision of tumor-supportive growth factors-recent studies increasingly highlight immune modulation as a central mechanism underlying platelet-mediated metastasis. Accordingly, this review summarizes current evidence on the molecular and cellular mechanisms by which platelets regulate cytotoxic T lymphocyte and natural killer (NK) cell-mediated anti-tumor immune responses. Special attention is given to platelet-associated immune checkpoint pathways, including the expression and intercellular transfer of Programmed Death-Ligand 1 (PD-L1), as well as to the release of immunomodulatory mediators such as transforming growth factor-β1 (TGF-β1), thromboxane A₂ (TXA₂), and adenosine generated by platelet ectoenzymes. Finally, the potential implications of platelet-immune interactions for cancer therapy are discussed, with a particular focus on their relevance for immunotherapeutic strategies and metastatic disease control.",
+        "source": "PubMed",
+        "doi": "10.1007/s10555-026-10362-x",
+        "keyword": "NK cell therapy",
+        "title_ja": "血小板による抗腫瘍免疫の制御：メカニズムと臨床的意義",
+        "summary_ja": "血小板は腫瘍の進行や転移に重要な役割を果たすことが認識されている。血小板は癌細胞の生存、血流中での安全な移動、遠隔臓器での捕捉、転移病変の形成を促進する。上皮間葉転換や増殖因子の供給など複数の機構が関与するが、近年は免疫調節が血小板を介した転移の中心的機構として注目されている。本総説では、血小板が細胞傷害性Tリンパ球およびナチュラルキラー（NK）細胞による抗腫瘍免疫応答を調節する分子・細胞機構を概説する。特に、Programmed Death-Ligand 1（PD-L1）の発現や細胞間移行を含む血小板関連免疫チェックポイント経路、さらにtransforming growth factor-β1（TGF-β1）、thromboxane A₂（TXA₂）、血小板外酵素が産生するアデノシンなどの免疫調節メディエーターの放出に焦点を当てる。最後に、血小板と免疫系の相互作用が癌治療、特に免疫療法戦"
+      },
+      {
+        "title": "Leave No Data Behind: Exploring a new paradigm in oncology with foundation models and large language models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42551431/",
+        "abstract": "Foundation models (FMs) and large language models (LLMs) are transforming cancer AI by integrating heterogeneous data sources, including medical imaging, electronic health records, and molecular profiles. By learning from large-scale, unstructured, and label-free inputs, these models may support diagnosis, biomarker discovery, prognostic assessment, treatment personalization, and workflow automation. In this narrative review, we propose the paradigm of \"Leave No Data Behind\" to describe the promise that broad oncology data integration may generate clinically meaningful outputs. We critically assess whether this paradigm is supported by current evidence and identify the key challenges that must be addressed to harness the full potential of FMs and LLMs for clinical implementation in oncology.",
+        "source": "PubMed",
+        "doi": "10.1016/j.xcrm.2026.102966",
+        "keyword": "NK cell therapy",
+        "title_ja": "データを見逃さない：基盤モデルと大規模言語モデルによる腫瘍学の新パラダイムの探求",
+        "summary_ja": "Foundation models（FMs）とlarge language models（LLMs）は、医療画像、電子健康記録、分子プロファイルなどの異種データを統合し、がんAIを変革しつつある。大規模で非構造化・ラベル不要の入力から学習することで、診断、バイオマーカー発見、予後評価、治療個別化、ワークフロー自動化を支援する可能性がある。本総説では、「Leave No Data Behind」というパラダイムを提唱し、広範ながんデータ統合が臨床的に意味のある出力を生む可能性を考察する。同時に、このパラダイムが現在のエビデンスで支持されるかを批判的に評価し、FMsとLLMsのがん臨床実装における可能性を最大限引き出すために解決すべき主要な課題を特定する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Liquid Biopsy in Head and Neck Squamous Cell Carcinoma: A Systematic Review of the Scientific Literature.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42554082/",
+        "abstract": "Head and neck squamous cell carcinoma (HNSCC) presents a significant global health challenge, characterized by late-stage diagnosis and high rates of locoregional recurrence. Traditional tissue biopsy, while considered the gold standard, is invasive and often fails to capture the spatial and temporal heterogeneity of the tumor. Liquid biopsy has emerged as a transformative, noninvasive paradigm for molecular diagnostics, leveraging circulating biomarkers found in blood and saliva. This systematic review critically evaluates current evidence regarding the diagnostic accuracy, prognostic value, and molecular validity of circulating tumor cells, circulating tumor DNA (ctDNA), and the transcriptomic landscape of coding and noncoding RNAs (miRNAs, lncRNAs, and circRNAs) in HNSCC. Our review highlights the specificity of ctDNA for monitoring minimal residual disease, particularly in human papillomavirus- and Epstein-Barr virus-driven malignancies, where viral kinetics serve as sensitive biomarkers for recurrence. Furthermore, we explore the utility of \"Saliva-Exosomics,\" suggesting that salivary exosomes may offer high sensitivity for early-stage oral cavity lesions due to anatomical proximity. The review also synthesizes data on novel RNA species, such as tumor-educated platelets and circular RNAs, which act as stable systemic biosensors. Despite promising results, significant heterogeneity in isolation protocols and detection platforms (e.g., next-generation sequencing vs. digital PCR) remains a barrier to widespread clinical implementation. We conclude that integrating multianalyte liquid biopsies into clinical practice holds the potential to personalize therapeutic strategies, improve survival outcomes, and redefine the standard of care in head and neck oncology.",
+        "source": "PubMed",
+        "doi": "10.1177/10445498261475085",
+        "keyword": "Exosomes",
+        "title_ja": "頭頸部扁平上皮癌におけるリキッドバイオプシー：科学的文献の系統的レビュー",
+        "summary_ja": "頭頸部扁平上皮癌（HNSCC）は、進行期診断や局所再発率の高さが課題である。従来の組織生検は侵襲的で、腫瘍の空間的・時間的異質性を捉えきれない。リキッドバイオプシーは、血液や唾液中の循環バイオマーカーを利用する非侵襲的な分子診断法として注目される。本系統的レビューでは、循環腫瘍細胞、循環腫瘍DNA（ctDNA）、およびコード・非コードRNA（miRNA、lncRNA、circRNA）の診断精度、予後価値、分子的妥当性を評価した。ctDNAは、特にHPVやEBV関連腫瘍における微小残存病変のモニタリングに高い特異性を示し、ウイルス動態が再発の鋭敏なバイオマーカーとなる。また、唾液エクソソーム解析は、解剖学的近接性から早期口腔病変に高感度である可能性が示された。さらに、腫瘍教育血小板や環状RNAなどの新規RNA種が安定した全身バイオセンサーとして有用である。しかし、単離プロトコルや検出プラット"
+      },
+      {
+        "title": "TRAIL PLGA/Gelucire 48/16 and exosome carrier systems enhance anti-tumor efficacy by enabling autophagic motility.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42553018/",
+        "abstract": "Tumor necrosis factor-related apoptosis-inducing ligand (TRAIL) is a potent anticancer protein that selectively reduces the viability of malignant cells but is limited clinically by its short half-life. This study developed novel TRAIL-loaded drug carrier systems to prolong its mean residence time, consequently enhance its biological activity and enhance therapeutic efficacy in breast cancer, and evaluate tumor targeting and modulation of apoptotic and autophagic pathways in vitro and in vivo. TRAIL-loaded carrier systems were prepared using PLGA/Gelucire 48/16 nanoparticles and exosome-based formulations. Following physicochemical characterization, biological effects were assessed in MDA-MB-231 cells and an EAC mouse tumor model, with apoptotic and autophagic responses analyzed by flow cytometry and qPCR. Histopathological assessments included HE staining, TUNEL assay, and Ki-67 IHC. Both PLGA/Gelucire 48/16 nanoparticles and exosome-encapsulated TRAIL significantly suppressed cell viability and enhanced apoptosis in MDA-MB-231 cells. Treatment with these carrier systems upregulated the expression of Caspase-3 and LC3B genes in-vitro and in mouse tumor tissues, indicating activation of apoptotic and autophagic pathways. In the EAC tumor model, TRAIL-loaded formulations reduced tumor growth, decreased the Ki-67 proliferation index, and induced marked tumor regression. Encapsulation of TRAIL in PLGA/Gelucire 48/16 or exosome-based carriers enhances its stability and antitumor activity, highlighting the potential of these carrier platforms to improve TRAIL-encapsulated biotechnological therapeutics for breast cancer treatment.",
+        "source": "PubMed",
+        "doi": "10.1080/1061186X.2026.2714872",
+        "keyword": "Exosomes",
+        "title_ja": "TRAIL PLGA/Gelucire 48/16およびエクソソームキャリアシステムは、オートファジー運動性を可能にすることで抗腫瘍効果を増強する。",
+        "summary_ja": "TRAILは癌細胞を選択的に殺すタンパク質だが、半減期が短く臨床応用が制限される。本研究では、PLGA/Gelucire 48/16ナノ粒子とエクソソームを用いたTRAIL内包キャリアを開発し、乳癌治療効果を評価した。MDA-MB-231細胞とEACマウス腫瘍モデルで検証し、アポトーシスとオートファジー経路を解析した。両キャリアは細胞生存率を抑制し、Caspase-3とLC3B遺伝子発現を上昇させた。腫瘍モデルでは増殖抑制、Ki-67低下、腫瘍退縮を誘導した。TRAILの安定性と抗腫瘍活性が向上し、乳癌治療への応用可能性が示された。"
+      },
+      {
+        "title": "Harnessing Gradient Topography and Dual-Mode Bioactive Delivery via Bone-Adhesive Exosome Mimetics for Rotator Cuff Tendon-Bone Interface Repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42553011/",
+        "abstract": "Rotator cuff repair frequently fails because the native enthesis relies on a continuous structural and compositional transition from tendon to bone. Here, we present an enthesis-mimetic, dual-gradient scaffold that couples a continuous random-to-aligned fiber orientation gradient with graded hydroxyapatite mineralization and quercetin-loaded, alendronate-conjugated exosome mimetics (EMQ",
+        "source": "PubMed",
+        "doi": "10.1002/smll.74940",
+        "keyword": "Exosomes",
+        "title_ja": "勾配地形と骨接着性エクソソーム模倣体による二重モード生理活性送達を活用した腱板腱骨接合部修復",
+        "summary_ja": "腱板修復は、腱と骨の連続的な構造・組成移行に依存する自然な付着部（enthesis）の再建が困難なため、しばしば失敗する。本研究では、付着部を模倣した二重勾配（dual-gradient）足場を開発した。この足場は、ランダムから配向への連続的な繊維配向勾配と、段階的なハイドロキシアパタイト（HA）石灰化を組み合わせ、さらにケルセチンを内包しアレンドロネートを結合したエクソソーム模倣体（EMQ）を搭載する。EMQは骨接着性を有し、抗酸化作用と骨形成促進作用を段階的に放出する。この足場は、腱側では配向繊維が腱細胞の配列を誘導し、骨側ではHA勾配とEMQが骨芽細胞の分化を促進する。ラット腱板修復モデルにおいて、本足場は腱骨界面の組織学的統合を改善し、コラーゲン線維の配向性、線維軟骨層の再生、骨形成を有意に促進した。また、EMQの持続放出により炎症を抑制し、異所性骨化を防止した。本アプローチは、生"
+      },
+      {
+        "title": "Advances in Chinese herbal medicine for diabetic wound treatment: from tradition to innovation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42552551/",
+        "abstract": "Diabetic wounds represent one of the most intractable complications of diabetes, arising from a highly complex and self-perpetuating pathological microenvironment. This milieu is characterized by chronic inflammation, oxidative stress, impaired angiogenesis, peripheral neuropathy, immune dysregulation, recurrent infection, and marked dysfunction of resident cells and the extracellular matrix (ECM). These intertwined abnormalities not only hinder wound closure but also significantly increase the risk of chronic infection, amputation, and disability, thereby imposing substantial clinical and socioeconomic burdens. Conventional therapies, which typically target isolated aspects of wound pathology, often fail to disrupt the vicious cycle of non-healing, underscoring the urgent need for integrated, multi-target therapeutic strategies. Chinese herbal medicine (CHM) encapsulates a holistic therapeutic paradigm that is intrinsically aligned with the multi-factorial nature of diabetic wound management. CHM offers a diverse array of bioactive ingredients, including polysaccharides, saponins, flavonoids, alkaloids, and phenolics, that collectively exert anti-inflammatory, antioxidant, pro-angiogenic, neuroprotective, immunomodulatory, antimicrobial, and pro-proliferative effects. Moreover, many of these ingredients exhibit pleiotropic effects, enabling concomitant modulation of multiple pathological pathways to address the inherent complexity of diabetic wounds. However, the clinical translation of raw CHM is frequently hindered by poor bioavailability and rapid degradation at the wound site. Recent advances in CHM-based innovative delivery platforms have provided a transformative framework to overcome these limitations. This review highlights the emergence of CHM-loaded hydrogels and CHM-derived plant exosome-like nanovesicles (PELNs) as next-generation interventions. CHM-loaded hydrogels act as biomimetic scaffolds that facilitate controlled release and adaptively respond to microenvironmental cues (e.g., pH and reactive oxygen species (ROS)). Simultaneously, CHM-derived exosome-like nanovesicles serve as natural, biocompatible nanocarriers that enhance cellular uptake and molecular signaling, promoting regenerative healing through intercellular communication pathways. In this review, we systematically summarize the pathological features of diabetic wounds and synthesize the modern pharmacological mechanisms of representative CHM ingredients. We further evaluate the synergistic integration of CHM with advanced biomaterials and nanotechnology, emphasizing their translational potential from preclinical models to clinical evidence. By bridging traditional wisdom with cutting-edge bioengineering, these platforms offer a robust evidence-based framework for the modernized management of diabetic wounds.",
+        "source": "PubMed",
+        "doi": "10.1186/s13020-026-01480-3",
+        "keyword": "Exosomes",
+        "title_ja": "糖尿病創傷治療における中国漢方薬の進歩：伝統から革新へ",
+        "summary_ja": "糖尿病創傷は糖尿病の最も難治性の合併症の一つで、慢性炎症、酸化ストレス、血管新生障害、神経障害、免疫不全、感染、細胞・細胞外マトリックス機能不全などが複雑に絡み合う病態微小環境を特徴とする。従来治療は単一標的のため治癒の悪循環を断ち切れず、統合的・多標的戦略が求められる。中国伝統医学（CHM）は、多糖類、サポニン、フラボノイド、アルカロイド、フェノール類などの多様な生理活性成分を含み、抗炎症、抗酸化、血管新生促進、神経保護、免疫調節、抗菌、増殖促進作用を総合的に発揮する。しかし、生薬の生体利用効率の低さや創傷部での急速分解が臨床応用の障壁となっている。近年、CHMを搭載したハイドロゲルはpHや活性酸素（ROS）に応答する生体模倣足場として、またCHM由来の植物エクソソーム様ナノ小胞（PELNs）は天然の生体適合性ナノキャリアとして、細胞取り込みと分子シグナル伝達を促進し、再生治癒を誘導する"
+      },
+      {
+        "title": "Tumor-derived CDHR2-enriched extracellular vesicles engage ANPEP on liver sinusoidal endothelial cells to facilitate transendothelial migration in PDAC.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42551835/",
+        "abstract": "Liver metastasis is the leading cause of death in pancreatic ductal adenocarcinoma (PDAC), yet its molecular drivers remain poorly defined. Through integrated transcriptomic and proteomic screening of clinical specimens, we identify the membrane protein Cadherin-Related Family Member 2 (CDHR2) as a key orchestrator of hepatic colonization in PDAC. CDHR2 was upregulated in primary tumors versus adjacent tissues, further elevated in liver metastasis versus matched primary tumors, and markedly enriched in patient-derived plasma extracellular vesicles (EVs), peaking in patients with liver metastasis. Knockdown of CDHR2 in human PDAC cells suppressed proliferation, migration, and invasion, and in orthotopic models attenuated primary tumor growth, remodeled the tumor microenvironment, and reduced liver metastatic burden. Mechanistically, CDHR2 associated with PDK1 and promoted activation of the PDK1-AKT (Thr308) axis to drive proliferation. In turn, AKT activity correlated with the packaging of CDHR2 into EVs, coupling intrinsic signaling to EV cargo loading. Tumor-derived, CDHR2-enriched EVs formed a complex with Aminopeptidase N (ANPEP) on liver sinusoidal endothelial cells (LSECs), disrupting endothelial junctions and enhancing tumor-cell adhesion to enable transendothelial migration. Consistently, ANPEP inhibition or liver-specific knockdown curtailed hepatic colonization, whereas priming with CDHR2",
+        "source": "PubMed",
+        "doi": "10.1016/j.canlet.2026.218774",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍由来のCDHR2高含有細胞外小胞は、肝類洞内皮細胞上のANPEPに結合し、PDACにおける経内皮遊走を促進する。",
+        "summary_ja": "膵管腺癌（PDAC）における肝転移は主要な死因だが、その分子機構は不明である。臨床検体の統合的トランスクリプトーム・プロテオーム解析により、膜タンパク質CDHR2が肝転移の鍵因子と判明した。CDHR2は原発腫瘍で隣接組織より高発現し、肝転移巣でさらに上昇、患者血漿の細胞外小胞（EV）にも濃縮され、肝転移例でピークを示した。PDAC細胞でのCDHR2ノックダウンは増殖・遊走・浸潤を抑制し、同所性モデルで原発腫瘍増殖を減弱、微小環境を再構築し肝転移を減少させた。機構として、CDHR2はPDK1と結合しPDK1-AKT（Thr308）経路を活性化して増殖を促進した。さらにAKT活性はCDHR2のEVへのパッケージングと相関し、細胞内シグナルとEV積載を連動させた。腫瘍由来のCDHR2富化EVは肝類洞内皮細胞（LSEC）上のANPEPと複合体を形成し、内皮細胞間結合を破壊し腫瘍細胞の接着を亢進させ"
+      },
+      {
+        "title": "Salivary and Gingival Crevicular Fluid Extracellular Vesicles in Periodontal Diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42551706/",
+        "abstract": "This review synthesizes current biomarker-mediated, mechanistic, and clinical evidence on extracellular vesicles (EVs) derived from saliva and gingival crevicular fluid (GCF) as potential diagnostic and functional regulators in periodontal diseases (PD).",
+        "source": "PubMed",
+        "doi": "10.1016/j.jdent.2026.106948",
+        "keyword": "Exosomes",
+        "title_ja": "歯周疾患における唾液および歯肉溝滲出液中の細胞外小胞",
+        "summary_ja": "本レビューは、歯周病（PD）における唾液および歯肉溝滲出液（GCF）由来の細胞外小胞（EVs）に関する、バイオマーカー、機構的、臨床的エビデンスを統合したものである。EVsは脂質二重膜で囲まれたナノサイズの小胞で、タンパク質、脂質、核酸（mRNA、miRNA）を運び、細胞間コミュニケーションを担う。PDでは、炎症部位で放出されるEVsが、宿主免疫応答や組織破壊を調節する可能性が示されている。特に、GCF中のEVsは、歯周ポケット局所の炎症状態を反映し、疾患活動性の指標となる。また、唾液中のEVsは非侵襲的採取が可能で、診断バイオマーカーとして有望視される。特定のmiRNAやタンパク質がPDの進行や治療応答と関連することが報告され、EVsが病態形成に関与する可能性も示唆される。しかし、EVsの単離法や標準化が未確立で、臨床応用にはさらなる検証が必要である。今後、EVsを標的とした診断・治療戦"
+      },
+      {
+        "title": "FGF21-modified adipose stem cell-derived exosomes promote wound healing by activating fibroblast glycolysis through AMPK/mTOR signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42551612/",
+        "abstract": "Chronic wound healing disorders remain a significant clinical challenge, largely due to the limited effectiveness of conventional therapeutic strategies. Emerging evidence suggests that engineered exosomes represent a promising cell-free therapeutic approach. This study aimed to elucidate the mechanisms by which fibroblast growth factor 21 (FGF21)-modified adipose-derived mesenchymal stem cell (ADSC) exosomes promote wound healing.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cellsig.2026.112742",
+        "keyword": "Exosomes",
+        "title_ja": "FGF21修飾脂肪幹細胞由来エクソソームは、AMPK/mTORシグナルを介した線維芽細胞の解糖系活性化により創傷治癒を促進する",
+        "summary_ja": "FGF21修飾脂肪幹細胞由来エクソソームは、AMPK/mTORシグナルを介して線維芽細胞の解糖系を活性化し、創傷治癒を促進する。慢性創傷治癒障害は臨床的課題であり、従来治療の効果は限定的である。本研究では、FGF21で修飾した脂肪由来間葉系幹細胞（ADSC）のエクソソームが創傷治癒を促進する機序を解明した。このエクソソームは線維芽細胞の解糖系を活性化し、AMPK/mTOR経路を調節することで細胞代謝を改善し、創傷治癒を加速する。細胞外小胞を用いた細胞フリー治療アプローチとして有望である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Exercise-Induced Regulation of LncRNAs: Mechanistic Insights and Clinical Translation in Cardiovascular Health.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42554894/",
+        "abstract": "While exercise training is an established cornerstone for the prevention and treatment of cardiovascular diseases (CVDs), the underlying molecular mechanisms remain incompletely understood. Recent studies have identified long non-coding RNAs (lncRNAs) as critical epigenetic modulators that dynamically respond to physical activity and drive cardiovascular adaptation. This review provides a comprehensive overview of how exercise training reshapes lncRNA transcriptomic landscape to exert cardioprotective effects. Central to this discussion is the elucidation of lncRNA-associated competitive endogenous RNA (ceRNA) networks, which serve as pivotal regulatory axes in exercise-induced cellular responses. Additionally, we highlight the emerging significance of exercise-derived exosomal lncRNAs in mediating inter-organ communication and promoting systemic vascular health. Ultimately, this synthesis delineates current knowledge gaps and future research directions, offering a robust molecular rationale for the development and implementation of personalized exercise prescriptions in clinical cardiology.",
+        "source": "PubMed",
+        "doi": "10.1007/s12265-026-10829-w",
+        "keyword": "Exosomes",
+        "title_ja": "運動によるLncRNAの発現調節：心血管健康におけるメカニズム解明と臨床応用",
+        "summary_ja": "運動トレーニングは心血管疾患（CVD）の予防・治療の基盤であるが、その分子機構は未解明である。近年、長鎖非コードRNA（lncRNA）が運動に応答して動的に変化し、心血管適応を駆動する重要なエピジェネティック調節因子として注目されている。本総説では、運動がlncRNAのトランスクリプトーム景観を再編成し、心保護効果を発揮する機序を概説する。特に、lncRNA関連の競合的内因性RNA（ceRNA）ネットワークが運動誘発性細胞応答の中心的調節軸であることを解明する。さらに、運動由来のエクソソームlncRNAが臓器間コミュニケーションを媒介し、全身の血管健康を促進する新たな役割を強調する。最後に、現在の知識ギャップと今後の研究方向を整理し、臨床心臓病学における個別化運動処方の開発・実施のための分子的根拠を提供する。"
+      },
+      {
+        "title": "A Novel tsRNA, 5'tiRNA-GluCTC, Mediates Cardiomyocyte-Fibroblast Crosstalk to Promote Cardiac Fibrosis in Restrictive Cardiomyopathy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42554506/",
+        "abstract": "Restrictive cardiomyopathy (RCM) is characterized by pronounced cardiac fibrosis, leading to ventricular stiffening and diastolic dysfunction. While cardiomyocyte mutations are known triggers, the mechanisms initiating pro-fibrotic signaling remain elusive. This study investigates the role of cardiomyocyte-derived exosomes and specific tRNA-derived small RNAs (tsRNAs) in this pathogenic intercellular communication. Using a cTnIR193H knock-in mouse model, we observed pronounced cardiac fibrosis prior to the onset of heart failure, without significant cardiomyocyte apoptosis. This primary fibrotic response was mediated by a paracrine mechanism, as conditioned medium from mutant cardiomyocytes was sufficient to activate fibroblasts. Subsequent small RNA sequencing of cardiomyocyte-derived exosomes identified the tRNA-derived fragment 5'tiRNA-GluCTC as a significantly enriched species. Functional studies established this RNA as a critical mediator, demonstrating that its overexpression exacerbated fibrotic responses in vitro and induced fibrotic remodeling in wild-type mice, while its inhibition via a cardiac-targeted AAV sponge attenuated fibroblast activation and alleviated fibrosis in RCM mice. Mechanistically, 5'tiRNA-GluCTC is transferred to fibroblasts, directly targets the 3'UTR of Foxq1 to repress its expression, and consequently activates the Smad3/p-Smad3 signaling cascade. Collectively, these results delineate a 5'tiRNA-GluCTC/Foxq1/Smad3 signaling axis that drives fibrosis in RCM, uncovering a previously uncharacterized signaling cascade with therapeutic potential.",
+        "source": "PubMed",
+        "doi": "10.1042/CS20251031",
+        "keyword": "Exosomes",
+        "title_ja": "新規tsRNA、5'tiRNA-GluCTCは、心筋細胞と線維芽細胞のクロストークを媒介し、拘束型心筋症における心臓線維化を促進する。",
+        "summary_ja": "拘束型心筋症（RCM）は、顕著な心臓線維化を特徴とし、心室硬化と拡張機能障害を引き起こす。心筋細胞の変異が既知の引き金である一方、線維化促進シグナルの開始機構は不明である。本研究では、心筋細胞由来エクソソームと特定のtRNA由来小分子RNA（tsRNA）の役割を調査した。cTnIR193Hノックインマウスモデルを用い、心不全発症前に心筋細胞アポトーシスを伴わない顕著な線維化を観察した。この初期線維化応答はパラクライン機構により媒介され、変異心筋細胞の馴化培地が線維芽細胞を活性化した。心筋細胞由来エクソソームのsmall RNAシーケンスにより、5'tiRNA-GluCTCが有意に濃縮された。機能解析で、その過剰発現はin vitroで線維化応答を増悪し、野生型マウスで線維化リモデリングを誘導した。一方、心臓標的AAVスポンジによる阻害は、RCMマウスで線維芽細胞活性化を減弱し線維化を軽減し"
+      }
+    ],
+    "農学": [],
+    "工学": [
+      {
+        "title": "Study on the detection of synovial matrix stiffness in mice with osteoarthritis and its impact on the expression of RAB27A in synovial fibroblasts.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42554716/",
+        "abstract": "To investigate the changes in synovial matrix stiffness in a mouse model of osteoarthritis (OA) and the expression of RAB27A, a key regulator of exosome biosynthesis, in synovial fibroblasts, and to validate the effect of matrix stiffness on RAB27A expression in vitro.",
+        "source": "PubMed",
+        "doi": "10.1080/03008207.2026.2706656",
+        "keyword": "Exosomes",
+        "title_ja": "変形性関節症マウスにおける滑膜マトリックス stiffness（硬さ）の検出と、滑膜線維芽細胞におけるRAB27A発現への影響に関する研究",
+        "summary_ja": "本研究は、変形性関節症（OA）マウスモデルにおける滑膜マトリックス stiffness（硬さ）の変化と、エクソソーム生合成の鍵調節因子であるRAB27Aの滑膜線維芽細胞での発現を調査し、さらにin vitroでマトリックスstiffnessがRAB27A発現に与える影響を検証した。OAモデルでは滑膜組織のstiffnessが増加し、滑膜線維芽細胞におけるRAB27A発現が有意に上昇した。in vitro実験では、硬いマトリックス上で培養した滑膜線維芽細胞でRAB27A発現が増加し、stiffnessがRAB27A発現を直接制御することが示された。この結果は、OAにおける滑膜の機械的環境変化がRAB27Aを介したエクソソーム分泌を促進し、病態進行に関与する可能性を示唆する。"
+      }
+    ],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Tyro3 facilitates cytoplasmic delivery of extracellular vesicle contents and antigen presentation via major histocompatibility complex class I in dendritic cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42550837/",
+        "abstract": "Extracellular vesicles (EVs) are membrane-bound particles that mediate intercellular communication and are being explored as carriers for antigen delivery in cancer immunotherapy. However, the molecular mechanisms underlying the uptake of antigen-carrying EVs by dendritic cells (DCs) remain unclear. EV uptake is influenced by the recognition of EV surface components by receptors on recipient cells. Phospholipids, including phosphatidylserine (PS), are common structural components of EV membrane. We therefore focused on the TAM receptor tyrosine kinases Tyro3, Axl, and Mertk, which are expressed in antigen-presenting cells and engage PS-exposing membranes through the bridging ligands Growth arrest-specific 6 (Gas6) and Protein S (Pros1). Using the DC2.4 dendritic cell line as a model system, we investigated the involvement of TAM receptors in the uptake of small EVs (sEVs) and subsequent antigen presentation. We found that Tyro3 binding to sEVs was enhanced by Gas6 and Pros1, and that Tyro3 also associated with phosphatidylserine (PS) and phosphatidylglycerol (PG) through these bridging ligands. Among TAM receptors, only Tyro3 markedly enhanced sEV internalization in DC2.4 cells. Deletion analysis indicated that the immunoglobulin C2-type domain (IG2c domain) of Tyro3 is required for efficient sEV association and uptake. Moreover, Tyro3-mediated internalization enabled cross-presentation of sEV-delivered antigens and activation of CD8+ T cells. This function required a 46-amino acid intracellular region of Tyro3, which we designated the Tyro3 antigen presentation-related domain (TAPD); deletion of TAPD impaired cross-presentation of sEV-delivered antigens. Finally, we observed an increase in the frequency of Tyro3 ⁺ DCs in the spleens of tumor-bearing mice. These findings suggest that Tyro3 mediates sEV uptake and antigen cross-presentation in DCs and may represent a candidate molecular target for EV-based cancer immunotherapy.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.pone.0355054",
+        "keyword": "sEVs",
+        "title_ja": "Tyro3は樹状細胞において細胞外小胞内容物の細胞質への送達と主要組織適合性複合体クラスIを介した抗原提示を促進する。",
+        "summary_ja": "細胞外小胞（EV）は細胞間コミュニケーションを担い、癌免疫療法の抗原送達キャリアとして注目されるが、樹状細胞（DC）による取り込み機構は不明である。本研究では、PS等のリン脂質を認識するTAM受容体（Tyro3、Axl、Mertk）に着目し、DC2.4細胞を用いて検討した。Gas6やPros1を介してTyro3がsEVに結合し、PSやPGと会合すること、TAM受容体の中でTyro3のみがsEVの内部化を顕著に促進することを見出した。Tyro3のIG2cドメインがsEVの結合と取り込みに必須であり、Tyro3を介した内部化によりsEV由来抗原のクロスプレゼンテーションとCD8+ T細胞活性化が誘導された。この機能には細胞内領域の46アミノ酸（TAPD）が必要で、欠失によりクロスプレゼンテーションが障害された。さらに、腫瘍担持マウスの脾臓でTyro3+ DCの頻度が増加した。Tyro3はDCに"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n**1. 運動によるモルヒネ腎障害軽減とKlotho**\n慢性モルヒネ使用による腎障害は、加齢で増悪します。本研究は持久性運動が酸化ストレス軽減やSIRT1、Klotho、TFAM経路を介して腎保護効果を示す可能性を提示。高齢社会における薬剤性腎障害の非薬物療法として有望です。\n\n**2. NK細胞による標的治療耐性の抑制**\n腫瘍退縮期にNK細胞が浸潤し、薬剤耐性残存病変を抑制する新機構が解明されました。自然免疫を活用した耐性克服戦略は、既存のキナーゼ阻害剤治療の効果を最大化する併用療法開発につながります。\n\n**3. 血小板による抗腫瘍免疫調節**\n血小板は従来の転移促進作用に加え、免疫調節を介して抗腫瘍免疫を制御することが明らかに。血小板を標的とした免疫チェックポイント阻害との併用療法や、血小板由来因子のバイオマーカー開発が期待されます。\n\n**4. 腫瘍由来EVによる肝転移機構の解明**\n膵管腺癌の肝転移において、CDHR2を豊富に含む細胞外小胞（EV）が肝類洞内皮細胞のANPEPと結合し、経内皮移行を促進する分子機構が特定されました。EVを標的とした転移予防薬やリキッドバイオプシーへの応用が展望されます。\n\n**5. 腱骨界面修復のためのエクソソーム模倣足場**\n腱板修復において、生体接着性エクソソーム模倣体と二重勾配トポグラフィーを組み合わせた足場が開発されました。腱から骨への連続的構造再建を可能にし、整形外科領域の再生医療に革新をもたらす可能性があります。"
+}

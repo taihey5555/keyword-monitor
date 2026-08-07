@@ -1,0 +1,73 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosomal PKM2 from AML cells reprograms endothelial metabolism to promote angiogenesis and chemoresistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42560582/",
+        "abstract": "In acute myeloid leukemia (AML), therapeutic resistance is intimately linked to vascular microenvironment remodeling; however, the initiating molecular determinants remain elusive. Here, we identified exosomal pyruvate kinase M2 (PKM2) as a pivotal mediator of this pathogenic process. PKM2 was abundantly present in AML-derived exosomes and transferred to human umbilical vein endothelial cells (HUVECs), eliciting metabolic reprogramming characterized by enhanced glycolysis and angiogenic activation. Mechanistically, PKM2 knockdown in AML cells substantially attenuated exosome-induced endothelial migration and tube formation, whereas ectopic PKM2 overexpression in endothelial cells potentiated pro-angiogenic phenotypes. In NOD/SCID mouse xenograft, AML-derived exosomes promoted microvascular remodeling and accelerated disease progression, effects that were abrogated by the angiogenesis inhibitor endostatin. This vascular remodeling coincided with diminished cytarabine (Ara-C) sensitivity, indicative of a chemoprotective microenvironment. Consistently, in a systemic AML model, pharmacological PKM2 inhibition disrupted the vascular niche, suppressed angiogenesis, and restored Ara-C chemosensitivity. Clinically, PKM2 expression correlated positively with VEGFA and HIF-1α levels, and exosomes derived from AML patients with elevated PKM2 conferred enhanced tube-forming capacity upon endothelial cells. Collectively, these findings establish exosomal PKM2 as a critical regulator of the chemoprotective vascular niche in AML and underscore its translational potential as a therapeutic target.",
+        "source": "PubMed",
+        "doi": "10.1007/s10142-026-02003-x",
+        "keyword": "Exosomes",
+        "title_ja": "AML細胞由来のエクソソームPKM2は、内皮細胞の代謝をリプログラミングし、血管新生と化学療法耐性を促進する。",
+        "summary_ja": "急性骨髄性白血病（AML）において、治療抵抗性は血管微小環境のリモデリングと密接に関連するが、その起始分子は不明であった。本研究では、AML由来エクソソーム中のピルビン酸キナーゼM2（PKM2）が重要なメディエーターであることを同定した。PKM2はAML由来エクソソームに豊富に含まれ、ヒト臍帯静脈内皮細胞（HUVECs）に移行し、解糖系亢進と血管新生活性化を特徴とする代謝リプログラミングを誘導した。機構的には、AML細胞でのPKM2ノックダウンはエクソソーム誘導性の内皮細胞遊走と管形成を減弱させ、内皮細胞でのPKM2過剰発現は血管新生表現型を増強した。NOD/SCIDマウス異種移植モデルでは、AML由来エクソソームは微小血管リモデリングを促進し病態進行を加速したが、血管新生阻害剤エンドスタチンにより抑制された。この血管リモデリングはシタラビン（Ara-C）感受性低下と一致し、化学防御的微小"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "SALIVARY Micro-RNA SHOWS PROMISE FOR EARLY DETECTION OF ORAL, HEAD AND NECK CANCER, BUT EVIDENCE REMAINS HETEROGENEOUS.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42556891/",
+        "abstract": "Hashmi AS, Gupta ND, Khan S, Ali SA, Kulsum O, Vellone V. Diagnostic and prognostic potential of salivary microRNA in oral and head and neck squamous cell carcinomas: a systematic review. Int J Oral Maxillofac Surg 2026:S0901-5027(26)00006-8. doi:10.1016/j.ijom.2026.01.004.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jebdp.2026.102311",
+        "keyword": "Exosomes",
+        "title_ja": "唾液マイクロRNA、口腔・頭頸部がんの早期発見に有望も、エビデンスの不均一性が課題",
+        "summary_ja": "本系統的レビューは、口腔・頭頸部扁平上皮癌（OSCC/HNSCC）における唾液マイクロRNA（miRNA）の診断・予後バイオマーカーとしての可能性を評価した。複数データベースから関連研究を抽出し、miRNA発現プロファイルの感度・特異度、予後との関連を解析した。結果、特定のmiRNA（例：miR-21、miR-31、miR-184）が癌患者で有意に変動し、早期診断における有望性を示した。しかし、研究間でサンプリング方法、内因性コントロール、正規化手法、カットオフ値が異なり、結果の異質性が顕著であった。また、腫瘍部位や病期による発現差も報告され、普遍的なバイオマーカー確立には至っていない。予後予測に関しても、一部のmiRNAが生存率や再発と関連するが、縦断的検証が不足している。結論として、唾液miRNAは非侵襲的スクリーニングの潜在力を有するが、臨床応用には標準化プロトコルと大規模前向きコホ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n1. **AML由来エクソソームPKM2の血管リモデリング機構**：治療抵抗性の起始分子としてPKM2を特定し、エクソソームを介した内皮代謝リプログラミングが血管新生と化学療法抵抗性を誘導する新規経路を解明。血管微小環境を標的とした治療戦略の基盤となる。\n\n2. **唾液miRNAによる頭頸部癌早期診断**：非侵襲的バイオマーカーとして有望だが、研究間のheterogeneityが課題。標準化プロトコル確立により、臨床応用への道が開ける。\n\n3. **Klothoの老化・疾患修飾因子としての再評価**：抗老化因子としての機能に加え、臓器保護作用や線維化抑制における新たな役割が注目され、老化関連疾患の治療標的として期待。\n\n4. **PF4（血小板第4因子）の神経保護作用**：血小板由来因子が神経炎症を抑制し、認知機能改善に寄与する可能性が示唆。加齢性神経変性疾患への応用が展望される。\n\n5. **sEVs（小型細胞外小胞）の治療キャリア最適化**：薬物送達システムとしての安定性・標的指向性向上が進み、細胞治療や再生医療における次世代プラットフォームとして発展が見込まれる。"
+}

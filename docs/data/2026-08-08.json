@@ -1,0 +1,136 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Histone deacetylase 3‑mediated histone deacetylation combined with activating transcription factor 3 promotes renal fibrosis by inhibiting Klotho.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42563701/",
+        "abstract": "Renal fibrosis is a representative pathological trait of renal aging and chronic kidney disease. However, the regulatory mechanisms of histone deacetylation in renal fibrosis remain unclear. A mouse renal fibrosis model was constructed using the unilateral ureteric obstruction method, and HK2 cells treated with TGF‑β were used to create a renal fibrosis cell model. Low expression of Klotho in renal fibrosis is associated with histone deacetylase 3 (HDAC3)‑mediated histone deacetylation. After TGF‑β treatment, H3K9ac and Klotho binding was markedly decreased, while H3K9ac was enriched in the Klotho group after the addition of the HDAC3 inhibitor. Further experiments demonstrated that HDAC3 binding activates transcription factor 3, inhibits Klotho transcription and promotes cellular renal fibrosis. The absence of Klotho may activate the Wnt/β‑catenin and NF‑κB pathways to promote oxidative stress and inflammation, thereby exacerbating the fibrotic process. HDAC3 binds to ATF3 to transcriptionally repress Klotho, leading to activation of the Wnt/β‑catenin and NF‑κB pathways and exacerbation of renal fibrosis.",
+        "source": "PubMed",
+        "doi": "10.3892/mmr.2026.13985",
+        "keyword": "Klotho",
+        "title_ja": "ヒストン脱アセチル化酵素3によるヒストン脱アセチル化は、活性化転写因子3と協働してKlothoを阻害し、腎線維化を促進する。",
+        "summary_ja": "腎線維症は腎老化や慢性腎臓病の代表的な病理学的特徴であるが、ヒストン脱アセチル化の調節機構は不明である。本研究では、片側尿管結紮法によるマウス腎線維症モデルとTGF-β処理HK2細胞を用いて検討した。腎線維症ではKlothoの発現低下が、ヒストン脱アセチル化酵素3（HDAC3）を介したヒストン脱アセチル化と関連していた。TGF-β処理後、H3K9acとKlothoの結合は著明に減少したが、HDAC3阻害剤添加によりKlotho領域でH3K9acが濃縮された。さらに、HDAC3は転写因子ATF3と結合し、Klothoの転写を阻害して細胞性腎線維症を促進した。Klothoの欠失はWnt/β-カテニンおよびNF-κB経路を活性化し、酸化ストレスと炎症を誘導して線維化を増悪させた。結論として、HDAC3がATF3と結合してKlothoを転写抑制し、Wnt/β-カテニンおよびNF-κB経路の活性化を"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Structural and tissue-specific organisation of endocrine Fgf19 and Fgf21 signalling in rainbow trout.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42562169/",
+        "abstract": "Endocrine fibroblast growth factors (FGF19 subfamily) play a key role in regulating metabolic homeostasis in vertebrates. However, their functional diversification in salmonids remains poorly understood. In this study, we conducted an integrative characterisation of Fgf19 and Fgf21 signalling in rainbow trout (Oncorhynchus mykiss) by combining phylogenetic, structural and expression analyses. Phylogenetic analyses revealed the conservation of single fgf19 and fgf21 genes, despite the extensive expansion of receptors post-Ss4R (salmonid-specific fourth-round whole genome duplication). Structural modelling and molecular dynamics simulations demonstrated the stable interactions of both ligands to multiple Fgfr isoforms, with receptor-specific energetic profiles and conserved core interaction residues. Tissue expression profiling revealed clear differences from mammalian models, such as predominant hepatic fgf19 expression and the absence of hepatic fgf21 under basal conditions. In addition, there were complex and tissue-dependent distributions of fgfr and klotho transcripts. These findings support a receptor-driven diversification model of endocrine Fgf signalling in salmonids, suggesting enhanced endocrine plasticity associated with the retention of receptors following post-genomic duplication. Taken together, our findings provide new insights into the structural and regulatory organisation of endocrine Fgf signalling, as well as its potential role in metabolic regulation in rainbow trout.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cbpa.2026.112057",
+        "keyword": "Klotho",
+        "title_ja": "ニジマスにおける内分泌性Fgf19およびFgf21シグナル伝達の構造的・組織特異的組織化",
+        "summary_ja": "ニジマスにおける内分泌性線維芽細胞増殖因子（Fgf19サブファミリー）のシグナル伝達を、系統解析、構造解析、発現解析を統合して特徴付けた。系統解析では、サケ科特異的全ゲノム重複（Ss4R）後の受容体の大規模な拡大にもかかわらず、単一のfgf19およびfgf21遺伝子が保存されていた。構造モデリングと分子動力学シミュレーションにより、両リガンドが複数のFgfrアイソフォームと安定に相互作用し、受容体特異的なエネルギー特性と保存されたコア相互作用残基を持つことが示された。組織発現プロファイリングでは、肝臓でのfgf19の優位な発現や、基礎条件下での肝臓fgf21の欠如など、哺乳類モデルとの明確な違いが明らかになった。さらに、fgfrおよびklotho転写産物の複雑で組織依存的な分布が観察された。これらの結果は、サケ科における内分泌性Fgfシグナルの受容体駆動型多様化モデルを支持し、ゲノム重複後"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Locoregional and systemic adoptive cellular therapies for pediatric brain tumors: a systematic review of CAR‑T, TCR‑engineered T cells, and NK cell strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42566099/",
+        "abstract": "Adoptive cellular therapies may expand treatment options for pediatric brain tumors by focusing activity on tumor antigens and limiting off-tumor effects. We systematically reviewed preclinical and clinical evidence for CAR T cells, TCR-engineered T cells, and NK or γδ T-cell platforms directed against HER2, B7-H3 (CD276), EGFR806-reactive EGFR, GD2, IL13Rα2, and EphA2 or EphA3, with attention to delivery route, safety, persistence, and combination strategies. Following PRISMA, we searched PubMed, Embase, and Scopus from inception through September 17, 2025, restricted to English. The search yielded 324 records; 103 duplicates were removed; 221 titles and abstracts were screened; 180 full texts were reviewed; and 34 studies were extracted by two independent reviewers. We captured design, tumor and molecular features, product engineering, route and schedule, lymphodepletion, toxicities including cytokine release syndrome, immune effector cell associated neurotoxicity, and tumor inflammation associated neurotoxicity, radiographic or clinical response, survival, and correlatives such as persistence or trafficking in blood, cerebrospinal fluid, or tumor tissue, cytokines, and antigen dynamics. In vivo studies showed reproducible antitumor activity for HER2 in medulloblastoma, GD2 in diffuse midline glioma, and multi-antigen constructs incorporating IL13Rα2 and EphA2 in medulloblastoma and ependymoma, with significant survival advantages compared with controls. γδ T cells targeting the EphA axis selectively killed medulloblastoma with neural sparing; GD2 CAR NK-92 inhibited diffuse intrinsic pontine glioma growth. In early clinical programs, route shaped safety and pharmacodynamics. For GD2, low-dose intravenous induction followed by repeated intraventricular dosing produced objective radiographic regressions and manageable tumor inflammation associated neurotoxicity, while dose-limiting cytokine release syndrome was confined to higher intravenous doses. Intraventricular B7-H3 CAR T cells, given without lymphodepletion, enabled multi-cycle dosing with mainly grade 1 to 2 events and cerebrospinal fluid localized persistence. Weekly intracranial EGFR806 CAR T cells were feasible and well tolerated, with stable disease as the best response in a small cohort. Across trials, persistence and immune activation were most evident in cerebrospinal fluid, supporting cerebrospinal fluid centered pharmacodynamic monitoring. Mechanism-based combinations, including IGF-axis inhibition in diffuse midline glioma and epigenetic priming of GD2 with an integrated safety switch in medulloblastoma, enhanced activity. The evidence supports pediatric-centric antigen selection and a CNS-first, locoregional dosing approach to increase on-tumor exposure and reduce systemic toxicity. Priorities include multi-antigen strategies to prevent escape, incorporation of safety switches, earlier deployment when tumor burden is low, and prospective cerebrospinal fluid pharmacodynamics in multisite phase II studies.",
+        "source": "PubMed",
+        "doi": "10.1007/s10143-026-04437-0",
+        "keyword": "NK cell therapy",
+        "title_ja": "小児脳腫瘍に対する局所および全身性養子細胞療法：CAR-T、TCR改変T細胞、NK細胞戦略に関する系統的レビュー",
+        "summary_ja": "養子細胞療法は、小児脳腫瘍の治療選択肢を拡大する可能性がある。本レビューはPRISMAに従い、PubMed、Embase、Scopusを2025年9月17日まで検索し、34研究を抽出した。対象はCAR-T、TCR改変T細胞、NK/γδ T細胞で、HER2、B7-H3、EGFR806、GD2、IL13Rα2、EphA2/EphA3を標的とした。\n\n前臨床では、髄芽腫へのHER2、びまん性正中グリオーマへのGD2、多抗原構築物（IL13Rα2、EphA2）が有意な生存延長を示した。γδ T細胞はEphA軸を標的とし、神経を温存しつつ髄芽腫を選択的に殺傷した。GD2 CAR NK-92はDIPG増殖を抑制した。\n\n臨床では、投与経路が安全性と薬力学に影響した。GD2は低用量静注後、反復脳室内投与で客観的奏効と管理可能な腫瘍炎症関連神経毒性を示したが、高用量静注では用量制限性サイトカイン放出症候群"
+      },
+      {
+        "title": "Natural killer cells against viral infection: from basic biology to immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42564860/",
+        "abstract": "Natural killer (NK) cells, a pivotal component of the innate immune system, exert indispensable roles in antiviral immunity by directly eliminating virus-infected cells and modulating adaptive immune responses. This review systematically synthesizes the biological characteristics of NK cells and their multifaceted functions against viral infections. The bidirectional crosstalk between NK cells and viruses is elucidated, with a focus on NK cell adaptive features and viral evasion strategies during specific viral infections. Furthermore, potential therapeutic targets and cutting-edge immunotherapeutic strategies due to modulation of NK cell activities are summarized, including monoclonal antibodies, chimeric antigen receptor-modified NK cells, and adjuvant therapy with Chinese herbal medicines. Recent clinical evidence and preclinical advances are integrated to provide a comprehensive framework for understanding NK cell-mediated antiviral immunity, identifying novel insights to guide the development of precise, effective immunotherapies for combating refractory viral infections.",
+        "source": "PubMed",
+        "doi": "10.1093/pcmedi/pbag020",
+        "keyword": "NK cell therapy",
+        "title_ja": "ナチュラルキラー細胞によるウイルス感染防御：基礎生物学から免疫療法まで",
+        "summary_ja": "ナチュラルキラー（NK）細胞は自然免疫の主要構成要素であり、ウイルス感染細胞の直接除去と適応免疫応答の調節を通じて抗ウイルス免疫に不可欠な役割を果たす。本レビューは、NK細胞の生物学的特性とウイルス感染に対する多面的機能を体系的に整理する。NK細胞とウイルス間の双方向クロストークを解明し、特定のウイルス感染におけるNK細胞の適応特性とウイルス回避戦略に焦点を当てる。さらに、NK細胞活性調節による治療標的と最先端免疫療法戦略（モノクローナル抗体、キメラ抗原受容体改変NK細胞、漢方薬を用いた補助療法）を要約する。最近の臨床エビデンスと前臨床の進展を統合し、NK細胞介在性抗ウイルス免疫の包括的枠組みを提供する。これにより、難治性ウイルス感染症に対する精密で効果的な免疫療法開発の新たな洞察を導く。"
+      },
+      {
+        "title": "CNS involvement by EBV-positive extranodal T-cell lymphoma harboring STAT3 Y640F mutation following allogeneic hematopoietic stem cell transplantation: A case report.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42564765/",
+        "abstract": "Secondary central nervous system involvement by extranodal NK/T-cell lymphoma is rare and presents significant diagnostic challenges, particularly in immune compromised patients. We report a case of a 29-year-old man with chronic active Epstein-Barr virus infection and prior extranodal NK/T-cell lymphoma status post allogeneic hematopoietic stem cell transplantation who presented with a new-onset seizure and a ring-enhancing intracranial lesion. Initial imaging findings closely mimicked cerebral toxoplasmosis, leading to empiric antimicrobial therapy and delayed diagnosis. Despite treatment, the lesion demonstrated rapid progression, prompting stereotactic biopsy, which revealed Epstein-Barr virus-positive extranodal T-cell lymphoma with a pathogenic STAT3 p.Y640F activating mutation. This case highlights the substantial radiographic overlap between central nervous system lymphoma and infectious etiologies in immunosuppressed patients, where conventional imaging modalities may lack specificity. The presence of an aggressive molecular profile, including STAT3 activation, likely contributed to rapid disease progression and poor prognosis. This report underscores the importance of maintaining a high index of suspicion for lymphoma in patients with progressive intracranial lesions unresponsive to empiric therapy and emphasizes the critical role of early tissue diagnosis to guide appropriate management.",
+        "source": "PubMed",
+        "doi": "10.1016/j.radcr.2026.06.148",
+        "keyword": "NK cell therapy",
+        "title_ja": "同種造血幹細胞移植後にSTAT3 Y640F変異を有するEBV陽性節外性T細胞リンパ腫による中枢神経系浸潤を発症した1例",
+        "summary_ja": "本症例は、同種造血幹細胞移植後の慢性活動性EBウイルス感染症を有する29歳男性において、新規発作とring-enhancing病変を呈した。画像所見は脳トキソプラズマ症に類似し、初期診断が遅れた。定位生検でEBV陽性節外性T細胞リンパ腫とSTAT3 Y640F活性化変異が検出され、急速な進行と不良な予後を示した。免疫不全患者では中枢神経系リンパ腫と感染症の画像所見が重複するため、経験的治療に反応しない進行性病変では早期の組織診断が重要である。"
+      },
+      {
+        "title": "Cytoplasmic staining of T cell receptor components enables efficient assessment of lineage and clonality in surface CD3-negative T cell neoplasms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42563517/",
+        "abstract": "Flow cytometry can establish T cell clonality by detecting a restricted expression pattern of the T cell receptor (TCR) β constant region (TRBC), expressed in association with CD3. However, T cell neoplasms frequently lose surface expression of the CD3/TCR complex, posing a challenge to demonstrating T cell lineage and clonality. To address this challenge, here we present a 12-color flow cytometry panel, called cytoTCR, to characterize cytoplasmic expression of CD3/TCR complex components. We apply cytoTCR to 38 patient specimens with immunophenotypically abnormal T cell populations, demonstrating this approach can efficiently establish T cell lineage and clonality in challenging T cell neoplasms that have lost surface CD3 expression. While we show that natural killer (NK)-lineage neoplasms can express cytoplasmic CD3 at similar levels to T cells, we show that absent expression of cytoplasmic TCR components by mature lymphocytes can help confirm NK cell lineage. We demonstrate that cytoTCR can detect cytoplasmic TRBC-restriction in challenging cases of null-phenotype anaplastic large cell lymphoma, which lack surface expression of pan-T cell antigens. In cases of T-lymphoblastic leukemia, cytoTCR shows that cytoplasmic TRBC expression matches the expected developmental stage of the leukemia. Finally, we use cytoTCR to characterize atypical cCD3",
+        "source": "PubMed",
+        "doi": "10.1002/cyto.b.70061",
+        "keyword": "NK cell therapy",
+        "title_ja": "T細胞受容体構成成分の細胞質染色により、表面CD3陰性T細胞腫瘍における系統およびクローン性の効率的な評価が可能となる。",
+        "summary_ja": "本論文は、表面CD3陰性のT細胞腫瘍における系統・クローン性評価の課題に対し、新たな12色フローサイトメトリー解析パネル「cytoTCR」を提案する。cytoTCRはT細胞受容体（TCR）複合体の細胞質内発現を評価し、表面CD3を喪失した難治例でもT細胞系統とクローン性を効率的に判定できる。38例の異常T細胞集団を解析し、NK細胞腫瘍では細胞質CD3がT細胞と同程度発現する一方、成熟リンパ球での細胞質TCR成分の欠如がNK系統の確認に有用であることを示した。また、null表現型の未分化大細胞リンパ腫では、cytoTCRが細胞質TRBC制限を検出し、Tリンパ芽球性白血病では細胞質TRBC発現が白血病の発生段階と一致することを確認した。さらに、非定型cCD3発現例の特徴付けにも応用可能であり、表面CD3陰性T細胞腫瘍の診断精度向上に寄与する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Natural killer cell cryopreservation: Influence of composition, temperature, and granules on post-thaw survival and function.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42564981/",
+        "abstract": "Natural killer (NK) cells are promising off-the-shelf cancer immunotherapies, but their scalable deployment requires effective cryopreservation. Conventional dimethyl sulfoxide (DMSO)-based methods are associated with toxicity and persistent post-thaw functional impairment, and the mechanisms underlying NK cell cryoinjury remain incompletely understood. We investigated NK cell dysfunction following cryopreservation and evaluated DMSO-free cryoprotectant formulations as alternative strategies. DMSO-free formulations were optimized using a differential evolution algorithm. Cryopreserved NK-92 cells were assessed post-thaw for viability, recovery, proliferation, and cytotoxicity over 5 days. Raman cryomicroscopy and flow cytometry were used to characterize cytolytic granule localization and integrity during cooling and freezing. Pre-freezing chemical degranulation was performed to probe granule-mediated injury. Both DMSO-based and DMSO-free formulations had immediate post-thaw recovery and viability over 80% but had notable cell loss over 24 h. Although proliferation resumed by 48 h, expansion remained attenuated, and cytotoxic function was reduced by ≥ 20% and did not recover after 3-5 days. Imaging revealed temperature- and cryoprotective agent (CPA)-induced granule redistribution and destabilization. Pre-freeze degranulation improved short-term recovery and proliferation. These findings support cytolytic granule redistribution and destabilization as contributors to persistent NK cell dysfunction and may inform future cryopreservation strategies for NK cell therapies.",
+        "source": "PubMed",
+        "doi": "10.1016/j.omta.2026.201813",
+        "keyword": "NK cell therapy",
+        "title_ja": "ナチュラルキラー細胞の凍結保存：組成、温度、および顆粒が融解後の生存率と機能に及ぼす影響",
+        "summary_ja": "NK細胞は癌免疫療法として有望だが、大規模展開には効果的な凍結保存が必須である。従来のDMSOベース法は毒性や機能低下が問題で、そのメカニズムは未解明である。本研究では、NK細胞の凍結保存後の機能不全を調べ、DMSOフリー凍結保護剤を差分進化アルゴリズムで最適化した。NK-92細胞を凍結保存し、解凍後5日間、生存率、回復率、増殖能、細胞傷害活性を評価した。ラマン凍結顕微鏡とフローサイトメトリーで顆粒の局在と完全性を解析し、凍結前の化学的脱顆粒で顆粒介在性障害を検証した。DMSO含有・フリー製剤とも解凍直後の回復率と生存率は80%超だが、24時間以内に細胞数が減少した。増殖は48時間後に再開するが拡大は抑制され、細胞傷害活性は20%以上低下し、3〜5日後も回復しなかった。イメージングにより、温度と凍結保護剤による顆粒の再分布と不安定化が観察された。凍結前の脱顆粒は短期的な回復と増殖を改善した"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Photoactivated liquid-liquid phase separation-based cascade CRISPR/Cas12a electrochemical platform for sensitive small extracellular vesicles detection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42561795/",
+        "abstract": "Small extracellular vesicles (sEVs) have emerged as promising liquid biopsy biomarker for gastric cancer (GC) diagnosis. However, profiling sEVs surface proteins in complex clinical matrices remains challenging by limited sensitivity and high background interference. In this study, we developed an electrochemical platform based on the photoactivated liquid-liquid phase separation cascaded Cas12a amplification (PL-cCas12a) for ultrasensitive and specific detection of sEVs surface proteins. The rationally designed system enables precise spatiotemporal control over the reaction. Photoactivation ensures precise reaction initiation. The spatially confined microenvironment accelerate reaction efficiency by local substrates enrichment and suppresses non-specific trans-cleavage leakage via steric hindrance. The PL-cCas12a platform achieved the limit of detection (LOD) as low as 3.95 × 10",
+        "source": "PubMed",
+        "doi": "10.1016/j.talanta.2026.130374",
+        "keyword": "sEVs",
+        "title_ja": "光活化液-液相分离级联CRISPR/Cas12a电化学平台用于小细胞外囊泡的灵敏检测。",
+        "summary_ja": "本研究开发了一种基于光激活液-液相分离级联CRISPR/Cas12a扩增（PL-cCas12a）的电化学平台，用于超灵敏、特异性检测小细胞外囊泡（sEVs）表面蛋白，以辅助胃癌诊断。该平台通过光激活精确控制反应启动，利用相分离形成的空间受限微环境富集局部底物，提高反应效率，并通过空间位阻抑制非特异性反式切割泄漏，从而显著降低背景干扰。PL-cCas12a平台检测限（LOD）低至3.95×10⁻⁵，在复杂临床样本中展现出高灵敏度和特异性，为sEVs表面蛋白分析提供了新策略，有望推动液体活检在胃癌早期诊断中的应用。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n**1. Klothoと腎線維症のエピジェネティクス制御**  \n腎線維症は慢性腎臓病の要因ですが、本研究はヒストン脱アセチル化酵素HDAC3と転写因子ATF3が協調しKlotho発現を抑制する新機構を解明しました。Klothoは抗老化因子として知られ、その低下が線維化を促進します。今後、HDAC3阻害によるKlotho回復が腎線維症治療の標的となる可能性があります。\n\n**2. 小児脳腫瘍へのNK細胞療法**  \nCAR-TやTCR-Tに加え、NK細胞を用いた養子細胞療法の系統的レビューです。小児脳腫瘍は難治性が高く、既存治療の限界から新規免疫療法が期待されます。NK細胞はHLA非拘束性に腫瘍を攻撃でき、オフ・ザ・シェルフ製剤化が可能な点で有望です。\n\n**3. NK細胞の凍結保存技術**  \nNK細胞療法の実用化には大規模な保存技術が必須ですが、従来のDMSO法は機能低下を招きます。本研究はDMSOフリー凍結保護剤を検討し、顆粒成分や温度条件が生存率・機能に与える影響を解析しました。細胞製剤の安定供給に向けた重要な基盤技術です。\n\n**4. 表面CD3陰性T細胞腫瘍の診断法**  \n表面CD3を欠くT細胞腫瘍は系統同定が困難でしたが、細胞質内TCR成分を検出する12色フローサイトメトリー「cytoTCR」が開発されました。診断精度向上により、適切な治療選択やクローン性評価が可能になります。\n\n**5. sEVs検出のためのCRISPR電化学生物センサー**  \n光活性化液-液相分離とCRISPR/Cas12aを組み合わせた電化学プラットフォームが、胃癌診断用の小細胞外小胞（sEVs）表面タンパク質を超高感度に検出します。従来法より高感度で、非侵襲的液体バイオプシーへの応用が期待されます。"
+}

@@ -1,0 +1,205 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Prevalence and thrombotic risk of PF4-dependent platelet-activating antibodies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567363/",
+        "abstract": "Platelet-activating anti-platelet factor 4 (PF4) antibodies cause heparin-induced thrombocytopenia (HIT) and vaccine-induced immune thrombocytopenia and thrombosis (VITT). VITT also occurs independent of vaccination. Prevalence and clinical relevance for heparin-dependent HIT antibodies are well described, but information on heparin-independent anti-PF4 antibodies in larger populations remains limited.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jtha.2026.07.026",
+        "keyword": "PF4",
+        "title_ja": "PF4依存性血小板活性化抗体の有病率と血栓リスク",
+        "summary_ja": "血小板活性化抗血小板第4因子（PF4）抗体は、ヘパリン起因性血小板減少症（HIT）およびワクチン誘発性免疫性血小板減少症・血栓症（VITT）を引き起こす。VITTはワクチン接種とは無関係に発生することもある。ヘパリン依存性HIT抗体の有病率と臨床的意義は十分に解明されているが、ヘパリン非依存性抗PF4抗体に関する大規模集団での情報は限られている。本論文は、PF4依存性血小板活性化抗体の有病率と血栓リスクを検討したものである。"
+      },
+      {
+        "title": "Temporal Proteomic Profiling of Hospitalized COVID-19 Patients Reveals Prognostic Biomarkers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42565730/",
+        "abstract": "COVID-19 presents a wide spectrum of clinical outcomes, and early identification of patients at high-risk for a worse disease prognosis remains a critical challenge. In this study, we performed a six-week longitudinal proteomic analysis of 197 plasma samples collected weekly from 44 hospitalized COVID-19 patients. Temporal profiling revealed 828 proteins with significant time-dependent abundance changes, clustering into an early acute-phase and inflammatory response group that gradually declined toward the cohort's overall mean profile over time and a group of late vesicle-mediated transport and antigen binding that were decreased in the first weeks. Global correlation mapping identified six coregulated protein modules, notably including insulin-like growth factor binding proteins. Proteomic divergence between survivors and nonsurvivors became pronounced from week 4 onward. The proteins HPR, IGFALS, PF4, LPA, and COLEC11 achieved AUCs > 0.72 for mortality prediction in the first 2 weeks, and an SVM model combining these markers yielded an AUC of 0.801. These findings demonstrate that plasma proteome trajectories capture dynamic host responses and generate candidate prognostic markers, offering a promising strategy for risk stratification and guiding targeted interventions in COVID-19.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.jproteome.6c00129",
+        "keyword": "PF4",
+        "title_ja": "入院中のCOVID-19患者における経時的プロテオミクス解析が予後バイオマーカーを明らかにする",
+        "summary_ja": "本研究は、COVID-19入院患者44名から週次で採取した血漿197検体を対象に、6週間にわたる縦断的プロテオミクス解析を実施した。時間依存的に変動する828種類のタンパク質を同定し、それらは急性期炎症応答群（経時的に減少）と後期小胞輸送・抗原結合群（初期に減少）に分類された。共調節ネットワーク解析により、インスリン様成長因子結合タンパク質を含む6つのモジュールを特定した。生存者と非生存者のプロテオーム差異は4週目以降顕著となった。HPR、IGFALS、PF4、LPA、COLEC11の5タンパク質は、発症後2週間以内の死亡予測でAUC>0.72を示し、これらを組み合わせたSVMモデルはAUC 0.801を達成した。血漿プロテオームの経時的変化は宿主応答の動態を反映し、予後予測バイオマーカーとして有用であり、COVID-19のリスク層別化と標的治療介入に有望な戦略を提供する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Smart Immunomodulating Nanocomposites Enabling on-Demand Solid Tumor Treatment With Quasi-Real-Time Response Monitoring.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42568108/",
+        "abstract": "Recent advances in cancer immunotherapy face challenges such as limited efficacy in solid tumors, adverse effects, and prohibitive costs. This study addresses these challenges by developing a theranostic magnetic nanocomposite (mNC) system for on-demand delivery of small-molecule immunomodulating drugs (smIDs) to solid tumors. This system enables externally triggered drug release under alternating magnetic fields (AMFs) and simultaneous MRI monitoring. Functionalization with a granzyme B (GzmB)-responsive fluorescent probe allows real-time assessment of immune activation, focusing on NK cells and CTLs. In vitro and ex vivo validation demonstrated effective mobilization of innate and adaptive immune responses, resulting in approximately 60% tumor cell viability reduction correlating with GzmB activity and increased cytokine release. Validation further demonstrated the ability of the system to report tumor accumulation (via MRI) and immune cell activation (optical imaging). This platform offers precise spatio-temporal control of immunotherapy delivery combined with noninvasive imaging and immune response monitoring, representing a promising strategy for enhancing the specificity and efficacy of cancer immunotherapies.",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.71546",
+        "keyword": "NK cell therapy",
+        "title_ja": "スマート免疫調節ナノ複合材料によるオンデマンド固形腫瘍治療と準リアルタイム応答モニタリングの実現",
+        "summary_ja": "本研究は、がん免疫療法の課題である固形腫瘍への効果限界、副作用、高コストを解決するため、温熱療法用磁性ナノ複合材料（mNC）を用いた治療診断統合システムを開発した。本システムは、交流磁場（AMF）により外部から薬剤放出を誘導し、MRIで同時にモニタリング可能である。さらに、グランザイムB（GzmB）応答性蛍光プローブを付与し、NK細胞やCTLの免疫活性化をリアルタイムで評価できる。in vitroおよびex vivo検証では、自然免疫と獲得免疫の効果的な動員が確認され、腫瘍細胞生存率は約60%低下し、GzmB活性やサイトカイン放出の増加と相関した。また、MRIによる腫瘍集積と光イメージングによる免疫細胞活性化の報告が可能である。本プラットフォームは、免疫療法の時空間的精密制御と非侵襲的イメージング・免疫応答モニタリングを統合し、がん免疫療法の特異性と有効性向上に寄与する有望な戦略を提供する"
+      },
+      {
+        "title": "Primary pulmonary presentation extranodal NK/T-cell lymphoma, small cell variant, illustrating the value of flow EBER in situ hybridisation assay.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567998/",
+        "abstract": "A 57-year-old male from Guinea presented with 6 months of progressive shortness of breath, productive cough, and occasional night sweats. A lung biopsy revealed an angiocentric pulmonary infiltrate of small bland lymphocytes and lymphoepithelial lesions mimicking a MALT lymphoma. The infiltrate expressed CD3, CD56, and Epstein-Barr virus-encoded RNA with little Ki-67 staining. Blood EBV copies were 519 IU/mL. FDG-PET scan showed no uptake outside the thorax. A diagnosis of small-cell variant pulmonary NK/T-cell lymphoma was made. Following asparaginase/cisplatin-based treatment, the patient developed recurrent cough, and nasal biopsy suggested lymphoma relapse. Following transplant conditioning, the patient developed symptoms of fever and cough, with rising blood EBV load. Lymphoma progression was suspected. A flow RNA assay demonstrated a small population of EBER + CD8 + T-cells in blood. NK/T-cell lymphoma usually present with sino-nasal symptoms. The small-cell variant is rare. The diagnosis is challenging when the clinical presentation and cytological features are atypical. POT1 variants have not been reported in ENKTL to our knowledge, but germline variants have been associated with lymphomas. A multicolour EBER hybridisation flow assay can help identify the cellular origin of EBV reactivation.",
+        "source": "PubMed",
+        "doi": "10.1007/s12308-026-00725-2",
+        "keyword": "NK cell therapy",
+        "title_ja": "原発性肺病変として発症した節外性NK/T細胞リンパ腫、小細胞型：フローEBER in situハイブリダイゼーション法の有用性を示す症例",
+        "summary_ja": "57歳のギニア人男性が、進行性呼吸困難、咳嗽、寝汗を主訴に受診。肺生検では、MALTリンパ腫に類似した血管中心性の小型リンパ球浸潤とリンパ上皮病変を認めた。腫瘍細胞はCD3、CD56、EBER陽性でKi-67低値。末梢血EBVコピーは519 IU/mL。FDG-PETで胸腔外病変なし。肺原発NK/T細胞リンパ腫（小細胞型）と診断。アスパラギナーゼ/シスプラチン療法後、咳嗽再発と鼻生検で再発疑い。移植前処置後に発熱・咳嗽・EBV血症上昇を認め、フローサイトメトリーEBERアッセイで血中にEBER陽性CD8陽性T細胞の小集団を検出。リンパ腫進行と判断された。NK/T細胞リンパ腫は通常、鼻副鼻腔に発症するが、小細胞型は稀で、非典型的な臨床像・細胞像では診断が困難。POT1変異はENKTLで未報告だが、胚細胞変異はリンパ腫関連が知られる。多色EBERフローアッセイはEBV再活性化の細胞起源同定に有"
+      },
+      {
+        "title": "Clinical trial landscape and translational prospects of natural killer cell-based immunotherapy: an analysis based on the INFORMA database.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567562/",
+        "abstract": "Natural killer (NK) cell-based immunotherapy is an increasingly important cancer treatment strategy because of its innate cytotoxicity, allogeneic potential, and compatibility with off-the-shelf manufacturing. We analyzed 287 clinical trials identified in the INFORMA database to characterize the global development of NK-cell therapies across phases, regions, indications, combinations, cell sources, product origins, and engineering platforms. Most trials were planned or early-phase, and combination regimens were more frequent than monotherapy. The USA, China, and South Korea led clinical activity. Hematologic malignancies remained the principal testing ground, while lung, colorectal, and other solid tumors reflected broader expansion. Platform-level analysis showed a predominance of allogeneic products and rapid growth of CAR-engineered NK-cell trials after 2020. These findings indicate a transition from proof-of-concept adoptive transfer toward standardized, genetically programmable, off-the-shelf platforms. The principal challenge is shifting from manufacturing feasibility alone to durable biological activity. Future development should align cell engineering, combination partners, translational endpoints, and biomarker-guided patient selection with specific barriers involving persistence, tumor delivery, microenvironmental fitness, and immune escape.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2026-016348",
+        "keyword": "NK cell therapy",
+        "title_ja": "ナチュラルキラー細胞ベースの免疫療法の臨床試験の現状とトランスレーショナル研究の展望：INFORMAデータベースに基づく分析",
+        "summary_ja": "NK細胞ベース免疫療法は、自然細胞傷害性、同種異系可能性、オフ・ザ・シェルフ製造適合性から、がん治療戦略として重要性が増している。INFORMAデータベースで287件の臨床試験を分析し、フェーズ、地域、適応症、併用療法、細胞源、製品起源、工学プラットフォームを評価した。大半は計画中または初期フェーズで、単剤療法より併用療法が多かった。米国、中国、韓国が臨床活動を主導し、血液悪性腫瘍が主要対象である一方、肺がん、大腸がんなど固形腫瘍への拡大も見られた。プラットフォーム分析では同種異系製品が優勢で、2020年以降CAR工学NK細胞試験が急増した。これは概念実証から標準化・遺伝子プログラム可能なオフ・ザ・シェルフプラットフォームへの移行を示す。主な課題は製造可能性から持続的生物活性へ移行し、細胞工学、併用薬、翻訳エンドポイント、バイオマーカーによる患者選択を、持続性、腫瘍送達、微小環境適合性、免"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Interface-enhanced label-free FeOOH-mesoporous TiO",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567577/",
+        "abstract": "Exosome-based liquid biopsy has shown great promise in cancer diagnosis. Electrochemical biosensors, owing to their high efficiency, sensitivity, and operational simplicity, have become powerful tools for biological sample analysis. In this study, we developed a novel electrochemical biosensor based on FeOOH-mesoporous TiO",
+        "source": "PubMed",
+        "doi": "10.1016/j.aca.2026.345839",
+        "keyword": "Exosomes",
+        "title_ja": "界面増強ラベルフリーFeOOH-メソポーラスTiO",
+        "summary_ja": "本研究では、エクソソームに基づく液体生検のがん診断への応用を目指し、FeOOH-メソポーラスTiO₂複合材料を用いた新規なラベルフリー電気化学バイオセンサーを開発した。エクソソームはがん由来のバイオマーカーとして有望視されているが、その高感度検出が課題である。本センサーは、FeOOHとメソポーラスTiO₂の界面効果を活用し、電極表面の活性サイトを増大させるとともに、エクソソームの特異的捕捉を可能にする。電気化学測定により、検出限界の向上と優れた選択性が確認された。また、ラベルフリー方式であるため、操作が簡便で迅速な分析が可能である。この技術は、がん診断における非侵襲的かつ高感度な検出プラットフォームとしての可能性を示しており、臨床応用への展開が期待される。"
+      },
+      {
+        "title": "Exosome-Enriched Extracellular Vesicles versus Serum in Corneal Epithelial Wound Healing: An Exploratory Preclinical Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567399/",
+        "abstract": "This study compared short-term epithelial and stromal responses associated with human umbilical cord mesenchymal stem cell (hucMSC)-derived exosome-enriched extracellular vesicle treatment and serum therapy in a rabbit corneal epithelial defect model. Three groups were evaluated: exosome-enriched extracellular vesicles, 20% pooled human serum, and preservative-free artificial tears as a supportive-care control. Exosome-enriched extracellular vesicle characterization included nanoparticle tracking analysis and CD9-based flow cytometry, while parental hucMSCs were characterized by phase-contrast morphology and flow cytometric expression of CD90, CD44, CD73, and CD105. Fifteen animals were analysed (exosome-enriched extracellular vesicle group n=6, serum group n=5, artificial tear control group n=4). Mean epithelial closure time was 3.50±0.54 days in the exosome-enriched extracellular vesicle group, 4.00±0.70 days in the serum group, and 4.75±0.96 days in the artificial tear control group; however, this difference did not reach statistical significance (p=0.081). Post-hoc power for the primary endpoint was low, approximately 22%, indicating that the study was underpowered for efficacy or superiority conclusions. Stromal thickness was higher in the exosome-enriched extracellular vesicle group (p=0.001), but this finding was not accompanied by significant differences in stromal oedema, fibrosis, or cellularity scores. Therefore, the increased stromal thickness remains mechanistically unexplained within the limits of the present dataset. These findings should be interpreted as exploratory observations from a small preclinical study. Larger, adequately powered studies incorporating expanded extracellular vesicle characterization, longer follow-up, and mechanistic endpoints are required before therapeutic efficacy can be inferred.",
+        "source": "PubMed",
+        "doi": "10.1016/j.exer.2026.111195",
+        "keyword": "Exosomes",
+        "title_ja": "角膜上皮創傷治癒におけるエクソソーム含有細胞外小胞と血清の比較：探索的前臨床研究",
+        "summary_ja": "本研究は、ウサギ角膜上皮欠損モデルにおいて、ヒト臍帯間葉系幹細胞（hucMSC）由来エクソソーム enriched 細胞外小胞（EEV）治療と血清療法の短期上皮・間質反応を比較した探索的前臨床試験である。3群（EEV、20%プールヒト血清、保存料不含人工涙液対照）を評価。EEVはナノ粒子追跡解析とCD9フローサイトメトリーで特性評価し、親hucMSCはCD90、CD44、CD73、CD105発現を確認した。15匹（EEV群6、血清群5、対照群4）を解析。平均上皮閉鎖時間はEEV群3.50±0.54日、血清群4.00±0.70日、対照群4.75±0.96日で、統計的有意差は認められなかった（p=0.081）。主要評価項目の検出力は約22%と低く、有効性や優越性の結論には不十分であった。間質厚はEEV群で有意に高かったが（p=0.001）、浮腫、線維化、細胞密度スコアに有意差はなく、その機序は"
+      },
+      {
+        "title": "Role of pks + Escherichia coli in colorectal cancer: Mechanisms, clinical evidence, and therapeutic perspective.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567390/",
+        "abstract": "Colorectal cancer (CRC) is a multifactorial disease influenced by genetic, environmental, and microbial factors. Among gut microbiota, pks",
+        "source": "PubMed",
+        "doi": "10.1016/j.meegid.2026.106003",
+        "keyword": "Exosomes",
+        "title_ja": "大腸癌におけるpks+大腸菌の役割：メカニズム、臨床的エビデンス、および治療的展望",
+        "summary_ja": "pks+大腸菌は、ゲノムにpks遺伝子島を持ち、コリバクチンという遺伝毒性代謝物を産生する。コリバクチンはDNA二本鎖切断を誘導し、細胞周期停止や変異を引き起こすことで、大腸癌（CRC）の発症・進展に寄与する。臨床的には、CRC患者の腫瘍組織や糞便中でpks+大腸菌の存在頻度が高いことが示され、特に家族性大腸腺腫症や炎症性腸疾患患者でリスクが増大する。また、pks+大腸菌は腫瘍微小環境において免疫応答を調節し、癌幹細胞様表現型を促進する可能性がある。治療面では、抗生物質やファージ療法、コリバクチン産生を阻害する低分子化合物の開発が進められている。さらに、pks+大腸菌の有無をバイオマーカーとしたCRCスクリーニングや、予防的介入の可能性も検討されている。本総説は、pks+大腸菌とCRCの関連メカニズム、臨床エビデンス、および治療戦略を包括的に概説し、今後の研究課題として、菌株特異的な病原性"
+      },
+      {
+        "title": "Ginger-derived exosome-like nanoparticles incorporated into hydrogel matrix for enhanced oral delivery of celastrol to alleviate ulcerative colitis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567375/",
+        "abstract": "Celastrol (Cel), a highly promising natural product isolated from traditional Chinese medicine, exhibits potent therapeutic efficacy against ulcerative colitis (UC). Nevertheless, its poor colon-targeting efficiency, insufficient capacity to penetrate the intestinal mucus layer, and low cellular internalization significantly compromise therapeutic outcomes in UC treatment. To address these critical limitations, herein we rationally designed a exosome-hydrogel hybrid system (Cel-GDNPs@Gel) by first encapsulating Cel into ginger-derived exosome-like nanoparticles (GDNPs), which were subsequently dispersed within a glycyrrhizic acid (GA) hydrogel matrix. Experimental studies confirmed that GDNPs were successfully isolated and characterized with uniform size distribution and round- or cup-shaped morphology, and Cel was successful encapsulated into GDNPs. The GA hydrogel endowed the system with excellent pH-sensitivity and robust mucoadhesive properties, thereby facilitating enhanced accumulation and prolonged retention at the colon site. Moreover, GDNPs promoted efficient mucus penetration and cellular uptake of Cel. Notably, both GDNPs and GA could exert synergistic therapeutic effects with Cel. Accordingly, in vitro and in vivo studies demonstrated that Cel-GDNPs@Gel significantly alleviated colitis symptoms, suppressed the expression of pro-inflammatory cytokines, attenuated oxidative stress, regulated macrophage polarization, promoted intestinal mucosal barrier repair, and restored intestinal homeostasis. Furthermore, this delivery system exhibited favorable biosafety with no obvious systemic toxicity. Collectively, this multifunctional Cel-GDNPs@Gel platform offers a safe and effective strategy for the oral treatment of UC.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijpharm.2026.127256",
+        "keyword": "Exosomes",
+        "title_ja": "生姜由来エクソソーム様ナノ粒子をハイドロゲルマトリックスに組み込むことで、セラストロールの経口送達を向上させ、潰瘍性大腸炎を緩和する。",
+        "summary_ja": "セラストロール（Cel）は潰瘍性大腸炎（UC）に対し強力な治療効果を示すが、結腸標的効率の低さ、腸粘液層透過性の不足、細胞内取り込みの低さが課題である。本研究では、Celをショウガ由来エクソソーム様ナノ粒子（GDNPs）に内包し、グリチルリチン酸（GA）ヒドロゲルマトリックスに分散させたハイブリッドシステム（Cel-GDNPs@Gel）を設計した。GDNPsは均一な粒径と丸型またはカップ型形態を示し、Celの内包が確認された。GAヒドロゲルはpH感受性と粘膜付着性を付与し、結腸での蓄積と滞留を促進した。GDNPsは粘液透過と細胞取り込みを向上させ、GAとGDNPsはCelと相乗効果を示した。in vitroおよびin vivo試験で、Cel-GDNPs@Gelは炎症性サイトカイン抑制、酸化ストレス軽減、マクロファージ極性調節、腸粘膜バリア修復、腸内恒常性回復によりUC症状を有意に軽減し、全"
+      },
+      {
+        "title": "APOC1 in tumor-associated macrophages enhances protumorigenic M2 polarization and promotes PAAD progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567335/",
+        "abstract": "Apolipoprotein C1 (APOC1) is aberrantly overexpressed in multiple cancers, but its role in pancreatic adenocarcinoma (PAAD) and the tumor microenvironment remains unclear. Here, we investigated the expression and function of APOC1 in tumor-associated macrophages (TAMs) in PAAD. Analysis of public single-cell datasets revealed that APOC1 is predominantly expressed in PAAD-associated macrophages and is significantly upregulated in TAMs compared to M0 macrophages. Functional studies demonstrated that APOC1 promotes M2-polarized immunosuppressive macrophage polarization and consequently enhances PAAD cell proliferation, migration, and resistance to cell death in vitro and in vivo. Mechanistically, APOC1 exerts its effects through two distinct pathways: (i) it activates the PPAR-γ signaling pathway in macrophages to drive M2 polarization; and (ii) it is secreted by macrophages via exosomes and transferred to PAAD cells, where it directly interacts with KEAP1 to stabilize NRF2, leading to suppression of ferroptosis. Targeting APOC1 in TAMs sensitizes PAAD cells to ferroptosis and synergizes with gemcitabine (GEM), a first-line chemotherapeutic agent, as evidenced by enhanced anti-proliferative, anti-migratory, and pro-apoptotic effects in vitro and reduced tumor growth in vivo. Collectively, our findings identify APOC1 as a critical regulator of M2 polarization and ferroptosis resistance in PAAD and suggest that targeting APOC1 in TAMs represents a potential therapeutic strategy to overcome GEM resistance.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cellsig.2026.112785",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍関連マクロファージにおけるAPOC1は、発がん促進性のM2分極を増強し、PAADの進行を促進する。",
+        "summary_ja": "アポリポ蛋白C1（APOC1）は複数のがんで異常過剰発現するが、膵管腺癌（PAAD）と腫瘍微小環境における役割は不明であった。本研究では、PAADにおける腫瘍関連マクロファージ（TAM）でのAPOC1の発現と機能を検討した。公開シングルセルデータ解析により、APOC1はPAAD関連マクロファージに優位に発現し、M0マクロファージと比較しTAMで有意に上昇していた。機能解析では、APOC1はM2型免疫抑制性マクロファージ分極を促進し、PAAD細胞の増殖・遊走・細胞死耐性をin vitroおよびin vivoで亢進させた。機序として、APOC1は①マクロファージ内でPPAR-γシグナル経路を活性化しM2分極を誘導する、②エクソソームを介してPAAD細胞に移行しKEAP1と直接結合してNRF2を安定化しフェロトーシスを抑制する、という2つの経路を介する。TAMでのAPOC1標的化はPAAD細胞を"
+      },
+      {
+        "title": "Beyond the genetic code: orchestrating epigenetic and immune landscapes with multivalent mRNA-exosome vaccines.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42565117/",
+        "abstract": "mRNA therapeutics are transitioning from transient anti-viral vaccines into precise cancer immunotherapies capable of orchestrating potent antigen-specific T-cell and humoral responses. However, therapeutic resistance within immunologically \"cold\" tumors remains a formidable barrier, necessitating multiaxial optimization across transcript architecture, neoantigen selection, delivery vector engineering, and tumor microenvironment (TME) reprogramming. This review synthesizes critical breakthroughs in mRNA biochemistry-including chemical nucleotide modifications, optimized untranslated regions, structural codon adjustments, and stringent purification methodologies-that extend transcript longevity while limiting off-target reactogenicity to maximize functional antigen expression. We evaluate multiomic neoantigen discovery workflows leveraging genomics, transcriptomics, immunoproteomics, and computational HLA-binding algorithms to refine patient-specific target selection. Next, we dissect advanced lipid nanoparticles, surface-functionalized biomaterials, and engineered extracellular vesicles optimized to enhance antigen-presenting cell tropism and lymphoid homing. We further detail how vaccine-induced cytokine fluxes actively remodel the TME, successfully reversing local immune tolerance and driving robust effector leukocyte infiltration into the tumor stroma. Specifically, we highlight the convergence of mRNA-mediated cytokine signaling and epigenetic imprinting, which cooperatively induce trained immunity for durable preventive surveillance. Finally, we delineate rational combinations with immune checkpoint blockades while addressing translational challenges: identifying predictive biomarkers, mapping presentation kinetics, and structuring adaptive clinical trial frameworks.",
+        "source": "PubMed",
+        "doi": "10.1093/pcmedi/pbag019",
+        "keyword": "Exosomes",
+        "title_ja": "遺伝暗号を超えて：多価mRNA-エクソソームワクチンによるエピジェネティックおよび免疫環境の制御",
+        "summary_ja": "mRNA治療薬は、抗ウイルスワクチンから精密がん免疫療法へと進化し、抗原特異的T細胞応答と液性免疫を誘導する。しかし、免疫学的に「冷たい」腫瘍内での治療抵抗性が課題であり、転写産物構造、ネオアンチゲン選択、送達ベクター設計、腫瘍微小環境（TME）リプログラミングの多軸最適化が必要である。本総説では、化学的ヌクレオチド修飾、最適化された非翻訳領域、コドン調整、精製法によるmRNA安定性向上とオフターゲット反応性低減を概説する。また、ゲノミクス、トランスクリプトミクス、免疫プロテオミクス、HLA結合アルゴリズムを統合したマルチオミクスネオアンチゲン発見ワークフローを評価する。さらに、抗原提示細胞指向性とリンパ系ホーミングを強化した脂質ナノ粒子、表面修飾生体材料、細胞外小胞を解析する。ワクチン誘導サイトカインがTMEを再構築し、免疫寛容を逆転させ、エフェクター白血球浸潤を促進する機序を詳述する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Simultaneous profiling of phospho- and palmitoyl-proteome landscape in serum exosomes through paramagnetic separation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567594/",
+        "abstract": "Protein post-translational modification (PTM) events in exosomes play a critical role in key biological processes and hold significance in the occurrence and development of diverse diseases. Thus, monitoring the state of PTMs in exosomes is highly appealing but technically challenging owing to the low abundance of exosomes and PTM-proteins, as well as the presence of diverse impurities in biofluids.",
+        "source": "PubMed",
+        "doi": "10.1016/j.aca.2026.345856",
+        "keyword": "Exosomes",
+        "title_ja": "常磁性分離による血清エクソソーム中のリン酸化・パルミトイル化プロテオームの同時プロファイリング",
+        "summary_ja": "エクソソーム内のタンパク質翻訳後修飾（PTM）は、主要な生物学的プロセスや多様な疾患の発生・進行に重要である。しかし、エクソソームやPTMタンパク質の低存在量、生体液中の不純物の多さから、そのモニタリングは技術的に困難である。本論文では、常磁性分離を利用し、血清エクソソーム中のリン酸化（phospho-）とパルミトイル化（palmitoyl-）プロテオームを同時に解析する手法を開発した。この方法により、低存在量のPTMタンパク質を高感度かつ特異的に検出可能となり、エクソソームのPTM状態を包括的に把握できる。本手法は、疾患バイオマーカー探索や病態解明への応用が期待される。"
+      },
+      {
+        "title": "miR149-5p: A hepatocyte EXOmotif sequence containing microRNA that attenuates liver fibrosis by specifically targeting PDGFRB in HSCs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567345/",
+        "abstract": "Liver fibrosis is a progressive pathological process driven by liver injury, including viral hepatitis and metabolic dysfunction-associated steatohepatitis (MASH), and can progress to cirrhosis, liver failure, and hepatocellular carcinoma (HCC). Hepatocyte-hepatic stellate cell (HSC) crosstalk plays a central role in disease progression, but its regulatory mechanisms remain incompletely understood.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jare.2026.08.021",
+        "keyword": "Exosomes",
+        "title_ja": "miR-149-5p：一种含有microRNA的肝细胞外泌体基序序列，通过特异性靶向肝星状细胞中的PDGFRB来减轻肝纤维化。",
+        "summary_ja": "肝線維症は、ウイルス性肝炎や代謝機能障害関連脂肪性肝炎（MASH）などの肝障害により進行する病理過程であり、肝硬変、肝不全、肝細胞癌（HCC）へ進展しうる。肝細胞と肝星細胞（HSC）のクロストークが病態進行に中心的な役割を果たすが、その制御機構は未解明である。本研究では、肝細胞由来エクソソームに含まれるmiR149-5pに着目し、その機能を解析した。miR149-5pは、HSCにおいてPDGFRB（血小板由来成長因子受容体β）を特異的に標的とし、その発現を抑制することでHSCの活性化を阻害し、線維化を減弱させることが明らかとなった。さらに、miR149-5pはエクソソームを介して肝細胞からHSCへ伝達され、線維化シグナルを抑制する。このメカニズムは、肝細胞とHSC間の新たな細胞間コミュニケーション経路を示し、肝線維症の治療標的としての可能性を提示する。本研究は、エクソソーム内の特定miRN"
+      },
+      {
+        "title": "The SLC35B2/YAP1 axis contributes to the inhibitory effects of CLIC-2-overexpressing cancer-associated fibroblast-derived exosomes on gastric cancer progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567336/",
+        "abstract": "Cancer-associated fibroblasts (CAFs) are key regulators of tumor progression within the gastric cancer microenvironment. Chloride Intracellular Channel-2 (CLIC-2), a member of the CLIC protein family, has been implicated in tumor biology. However, its role in CAFs remains unclear. In this study, we found that CLIC-2 expression was significantly reduced in gastric CAFs and that low CLIC-2 levels were associated with poor patient prognosis. Loss-of-function experiments demonstrated that CLIC-2 deficiency promoted CAF-like activation of non-cancer fibroblasts (NFs), whereas CLIC-2 overexpression attenuated the activated phenotype of CAFs. Conditioned medium from CLIC-2-knockdown fibroblasts enhanced the viability, migratory, and invasion of gastric cancer cells, while conditioned medium from CLIC-2-overexpressing CAFs suppressed these malignant phenotypes. In vivo, co-injection of MKN-45 cells with CLIC-2-deficient fibroblasts promoted tumor growth and liver metastasis, whereas CLIC-2 overexpression in CAFs exerted tumor-suppressive effects. Proteomic analysis of CAF-derived exosomes identified Solute Carrier Family 35 Member B2 (SLC35B2) as a candidate downstream component associated with CLIC-2-regulated exosomal alterations. Exosomes derived from CLIC-2-overexpressing CAFs exhibited reduced SLC35B2 levels and inhibited malignant behaviors in gastric cancer cells. Mechanistically, SLC35B2 promoted YAP1 activation, as evidenced by enhanced nuclear accumulation of YAP1 and upregulation of its target genes CYR61 and CTGF. YAP1 silencing attenuated SLC35B2-induced malignant phenotypes, while SLC35B2 overexpression partially reversed the tumor-suppressive effects mediated by CLIC-2-overexpressing CAF-derived exosomes. Collectively, these findings suggest that CLIC-2 suppresses CAF-driven gastric cancer progression, at least partly through SLC35B2-associated regulation of YAP1 signaling, highlighting a potential stromal regulatory mechanism in gastric cancer.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cellsig.2026.112809",
+        "keyword": "Exosomes",
+        "title_ja": "SLC35B2/YAP1軸は、CLIC-2過剰発現がん関連線維芽細胞由来エクソソームによる胃がん進行抑制効果に寄与する",
+        "summary_ja": "がん関連線維芽細胞（CAF）は胃がん微小環境で腫瘍進行を制御する。本研究では、CAFでCLIC-2発現が有意に低下し、低発現は予後不良と関連した。CLIC-2欠損は非がん線維芽細胞のCAF様活性化を促進し、過剰発現はCAFの活性化表現型を抑制した。CLIC-2欠損線維芽細胞の馴化培地は胃がん細胞の生存、遊走、浸潤を亢進し、過剰発現CAFでは抑制した。in vivoでもCLIC-2欠損は腫瘍増殖と肝転移を促進し、過剰発現は抑制効果を示した。CAF由来エクソソームのプロテオーム解析でSLC35B2が候補因子として同定され、CLIC-2過剰発現CAF由来エクソソームではSLC35B2が減少し、がん細胞の悪性形質を抑制した。機構的にはSLC35B2がYAP1の核蓄積と標的遺伝子CYR61、CTGFの発現を亢進させた。YAP1ノックダウンはSLC35B2誘導性の悪性形質を減弱し、SLC35B2過剰発"
+      },
+      {
+        "title": "Impact of Size Exclusion Chromatography and Ultracentrifugation on Purity and Proteomic Profiles of Extracellular Vesicles Derived from Lactobacillus reuteri.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42565731/",
+        "abstract": "Extracellular vesicles (EVs) produced by probiotic bacteria are increasingly recognized as crucial mediators of host-microbe communication. However, the molecular composition and biological interpretation of bacterial EV proteomes are heavily influenced by the isolation methods. In this study, we systematically compared ultracentrifugation (UC) and size exclusion chromatography (SEC) for isolating EVs from Lactobacillus reuteri, assessing their impact on EV yield, purity, and proteomic profiles. Although UC yielded significantly more EVs than SEC, it also resulted in lower purity, as evidenced by higher protein contamination and a decreased particle-to-protein ratio. In contrast, SEC improved EV purity by approximately 6.45-fold, effectively removing non-vesicular proteins. Our quantitative proteomics analysis identified 670 in UC-EVs and 858 in SEC-EVs.-- UC-EVs were primarily enriched with cytosolic metabolic enzymes, ribosomal proteins, and components associated with macromolecular complexes, indicating cosedimentation artifacts during UC. Conversely, SEC-EVs exhibited selective enrichment of membrane-associated and cell-wall-modifying proteins, reflecting their origin from envelope remodeling processes. Notably, SEC-EVs contained several proteins, including NLP/P60, peptidoglycan hydrolases, and lipoproteins linked to anti-inflammatory activities. Overall, our findings illustrate that EV proteomes are highly dependent on the isolation method and highlight SEC as a superior approach for enhancing proteomic specificity and biological interpretability in bacterial EV research.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.jproteome.6c00305",
+        "keyword": "Exosomes",
+        "title_ja": "サイズ排除クロマトグラフィーと超遠心分離がLactobacillus reuteri由来細胞外小胞の純度およびプロテオミクスプロファイルに及ぼす影響",
+        "summary_ja": "乳酸菌由来細胞外小胞（EV）は宿主-微生物間コミュニケーションに重要だが、単離法によりプロテオーム解析結果が影響を受ける。本研究では、Lactobacillus reuteri由来EVを超遠心法（UC）とサイズ排除クロマトグラフィー（SEC）で単離し、収量、純度、プロテオームを比較した。UCは収量が多いものの、タンパク質汚染が高く粒子/タンパク質比が低いため純度が低かった。一方、SECは純度を約6.45倍向上させ、非小胞性タンパク質を効果的に除去した。定量的プロテオミクス解析では、UC-EVsに670、SEC-EVsに858のタンパク質を同定。UC-EVsは細胞質代謝酵素、リボソームタンパク質、高分子複合体成分に富み、共沈殿アーティファクトを示した。対照的に、SEC-EVsは膜関連および細胞壁修飾タンパク質が選択的に濃縮され、エンベロープリモデリング由来であることが示唆された。さらに、SE"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n**1. PF4依存性血小板活性化抗体の有病率と血栓リスク**\nHITやVITTの原因となるPF4抗体の疫学を解明した点で重要です。ワクチン非依存性VITTの存在も示唆され、診断・治療戦略の再構築が求められます。\n\n**2. COVID-19患者の縦断的プロテオミクス解析**\n経時的な血漿プロテオーム変化から予後バイオマーカーを同定。急性期炎症と後期小胞輸送関連タンパク質の動態が重症化予測に有用で、個別化医療への応用が期待されます。\n\n**3. NK細胞ベース免疫療法の臨床試験動向**\nINFORMAデータベースを用いた287件の試験分析により、細胞源や併用療法の傾向を体系的に整理。オフ・ザ・シェルフ製造の実用化に向けた課題と方向性を示しました。\n\n**4. エクソソーム enriched 細胞外小胞（EEV）の角膜創傷治癒効果**\nウサギモデルでEEVが血清療法と同等以上の上皮再生効果を示し、液性因子に依存しない新規治療法の可能性を提示。眼科領域での細胞外小胞応用の基盤となります。\n\n**5. ショウガ由来エクソソーム様ナノ粒子による潰瘍性大腸炎治療**\nGDNPsにセラストロールを内包しハイドロゲル化することで、結腸送達効率と抗炎症効果を向上。天然由来ナノキャリアの経口投与という実用性の高いアプローチで、炎症性腸疾患治療の新機軸となります。\n\nこれらの研究は、診断バイオマーカー、免疫療法、ナノ医療の進展に寄与し、今後の臨床応用が期待されます。"
+}

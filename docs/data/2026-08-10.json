@@ -1,0 +1,124 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Peripheral blood DNA methylation partially reports on immune cell type composition in the frontal brain.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42569314/",
+        "abstract": "Most existing DNA methylation (DNAm) studies have used peripheral surrogate tissues to research molecular mechanisms underlying brain disorders and diseases. Initial studies comparing brain to blood primarily at the individual CpG level analysis have generally pointed to a limited overlap of epigenetic patterns, consistent with DNAm being largely tissue- and even cell type-specific. Expanding on these studies, we employed a more complex analysis strategy aimed to 1) identify single DNAm sites associated with deconvolution-estimated brain cell type proportions, the principal measure in this study, in both the frontal brain and peripheral blood, 2) combine blood DNAm sites to predict brain cell type proportions through multivariate models, and 3) examine the association of blood DNAm, age, and epigenetic age acceleration (EAA) on brain cell type proportions. Epigenome-wide association studies for seven brain cell type proportions in matched frontal brain and peripheral blood samples (n = 104) revealed that ∼10% of brain cell type-associated DNAm sites had correlating DNAm levels in peripheral blood (p < 0.05). However, only three peripheral blood DNAm sites were significantly associated with endothelial and stromal brain cell type proportions (adjusted p < 0.05). Brain cell type proportion predictions trained with machine learning approaches using peripheral blood DNAm showed the strongest, although still modest correlations with microglia proportions estimated through cell deconvolution using brain DNAm. Further, deconvolution-estimated blood immune cell type proportions showed a nominally significant association with estimated brain stromal cell proportions, driven primarily by NK cells; however, this association was dependent on chronological age and did not survive age-residualization. Lastly, brain EAA was not associated with brain and blood cell type proportions (adjusted p < 0.05). Collectively, these results suggested that in the context of broad tissue-specificity of DNAm patterns, DNAm levels in peripheral blood might actually inform on some immune brain cell type proportions. The correlations between DNAm profiles specific to immune cell types in blood and brain were consistent with a potential link between peripheral immune and central nervous system immune functions.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbih.2026.101316",
+        "keyword": "NK cell therapy",
+        "title_ja": "末梢血DNAメチル化は、前頭葉脳における免疫細胞タイプ構成を部分的に反映する。",
+        "summary_ja": "末梢血DNAメチル化は、前頭葉脳内の免疫細胞タイプ構成を部分的に反映する可能性が示された。既存のDNAm研究は脳疾患の分子機構解明に末梢組織を用いてきたが、個々のCpG部位レベルでは脳と血液のエピジェネティックパターンの重複は限定的とされていた。本研究では、前頭脳と末梢血のペアサンプル（n=104）を用い、7つの脳細胞タイプ割合に関連するDNAm部位を同定し、多変量モデルで血液DNAmから脳細胞割合を予測、さらに年齢やエピジェネティック年齢加速（EAA）との関連を検討した。その結果、脳細胞タイプ関連DNAm部位の約10%が血液でも相関を示したが、有意な関連は内皮・間質細胞でのみ3部位に留まった。機械学習による予測では、ミクログリア割合で最も強い（ただし控えめな）相関が認められた。血液免疫細胞割合は脳間質細胞割合と名目上有意に関連したが、これは年齢依存性で年齢補正後は消失した。脳EAAと細胞"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Corrigendum to \"Circulating plasma exosomal miR-146b-5p regulates microglial-mediated neuroinflammation through the TRAF6/NF-κB signaling axis after intracerebral hemorrhage\" [Life Sci. 382 (2025) 124023].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42570904/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.lfs.2026.124621",
+        "keyword": "Exosomes",
+        "title_ja": "「脳内出血後の循環血漿エクソソームmiR-146b-5pがTRAF6/NF-κBシグナル軸を介してミクログリア媒介性神経炎症を制御する」に関する訂正 [Life Sci. 382 (2025) 124023]",
+        "summary_ja": "本訂正は、論文「Circulating plasma exosomal miR-146b-5p regulates microglial-mediated neuroinflammation through the TRAF6/NF-κB signaling axis after intracerebral hemorrhage」(Life Sci. 382 (2025) 124023)に関するものです。著者らは、掲載後に図の重複やデータの整合性に関する指摘を受け、詳細な検証を行いました。その結果、特定の実験結果の解釈に誤りがあることが判明し、該当箇所を修正しました。具体的には、miR-146b-5pの標的遺伝子であるTRAF6の発現解析およびNF-κBシグナル伝達経路に関連するデータの一部に不正確な点があり、これらを再解析して正しい結果に置き換えました。また、図のラベルや統計処理の記載に"
+      },
+      {
+        "title": "Biomimetic exosomal delivery of Ginsenoside Rd reduces post-stroke depression via microglial reprogramming in a pathway involving EGFR/JAK2/STAT3.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42570766/",
+        "abstract": "Post-stroke depression (PSD) represents a complex neuropsychiatric challenge characterized by persistent neuroinflammation and synaptic dysfunction, yet effective therapeutic interventions are constrained by the blood-brain barrier (BBB) and the lack of specific targets. Using a multidimensional screening strategy for Chaihu-Jia-Longgu-Muli Decoction (CLM), we identified ginsenoside Rd (Rd) as a key blood-absorbed bioactive constituent associated with Epidermal Growth Factor Receptor (EGFR) signaling. To overcome the bioavailability bottleneck, a biomimetic nanodelivery system is engineered by encapsulating Rd into microglia-derived exosomes (Exos@Rd). Based on the reported lesion-homing properties of microglia-derived exosomes, we developed a biomimetic Exos@Rd delivery system. Exosomal loading markedly enhanced the brain accumulation of Rd compared with free Rd. Mechanistically, it is demonstrated that aberrant EGFR activation functions as an upstream regulator of the JAK2/STAT3 cascade in microglia. Exos@Rd effectively suppressed this pathway and promoted anti-inflammatory microglial reprogramming, characterized by a shift from an M1-associated pro-inflammatory state toward an M2-associated anti-inflammatory profile. This microglia-centered anti-inflammatory regulation was accompanied by reduced oxidative stress and restoration of brain-derived neurotrophic factor (BDNF), postsynaptic density protein 95 (PSD95) and Synapsin I (SYN1) expression. In a PSD mouse model, Exos@Rd significantly restores cerebral perfusion and alleviates depressive-like behaviors. Collectively, this study elucidates a novel EGFR-driven neuroinflammatory mechanism and presents a bio-inspired strategy for precision CNS drug delivery, offering a promising therapeutic paradigm for PSD.",
+        "source": "PubMed",
+        "doi": "10.1016/j.phrs.2026.108376",
+        "keyword": "Exosomes",
+        "title_ja": "バイオミメティックエクソソームによるジンセノシドRdの送達は、EGFR/JAK2/STAT3経路を介したミクログリアの再プログラミングを通じて脳卒中後うつ病を軽減する",
+        "summary_ja": "本論文は、脳卒中後うつ病（PSD）に対する新規治療戦略を報告する。柴胡加竜骨牡蛎湯の多次元スクリーニングにより、有効成分としてジンセノシドRd（Rd）を同定し、EGFRシグナルとの関連を発見した。バイオアベイラビリティの課題を克服するため、ミクログリア由来エクソソームにRdを封入した生体模倣ナノ送達システム（Exos@Rd）を構築した。このシステムは、遊離Rdと比較して脳内蓄積を顕著に増加させた。機構的には、異常なEGFR活性化がミクログリアのJAK2/STAT3カスケードの上流制御因子として機能し、Exos@Rdはこの経路を抑制し、M1からM2への抗炎症性ミクログリア再プログラミングを促進した。これに伴い、酸化ストレスが軽減され、BDNF、PSD95、SYN1の発現が回復した。PSDマウスモデルにおいて、Exos@Rdは脳灌流を回復し、うつ様行動を有意に軽減した。本研究は、EGFR駆動性"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Dental Pulp Stem Cell-Derived Extracellular Vesicles for Dentin-Pulp Complex Regeneration: A Systematic Review and Meta-Analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42570838/",
+        "abstract": "To systematically examine and quantitatively synthesize preclinical studies assessing the impacts of dental pulp stem cell-derived extracellular vesicles (DPSC-EVs) on dentin-pulp complex (DPC) regeneration and related regenerative outcomes.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jdent.2026.106967",
+        "keyword": "Exosomes",
+        "title_ja": "歯髄幹細胞由来細胞外小胞による象牙質－歯髄複合体の再生：系統的レビューおよびメタアナリシス",
+        "summary_ja": "**要約**\n\n本系統的レビューとメタ分析は、歯髄幹細胞由来細胞外小胞（DPSC-EVs）が象牙質-歯髄複合体（DPC）再生に及ぼす影響を、前臨床研究から定量的に評価したものである。対象はDPSC-EVsを用いたDPC再生に関する動物実験およびin vitro研究で、主要アウトカムは象牙質形成、歯髄組織修復、血管新生、炎症調節とした。解析の結果、DPSC-EVsは象牙芽細胞様細胞の分化を促進し、象牙質マトリックス産生を有意に増加させた。また、歯髄創傷部での細胞増殖と遊走を亢進し、炎症性サイトカインを抑制することで組織再生を促進した。メタ分析では、DPSC-EVs投与群は対照群と比較して、新生象牙質面積および歯髄生存率が有意に高かった。さらに、EVsは免疫調節作用を介してM2マクロファージを誘導し、再生微小環境を改善した。しかし、研究間でEVsの単離法、投与量、担体の種類に異質性が認められ、"
+      },
+      {
+        "title": "Human umbilical cord mesenchymal stem cell exosomes inhibit proliferation and promote apoptosis in an in vitro model of keloid.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42569257/",
+        "abstract": "Keloid is a pathologic scar formation resulting from trauma, burns, surgery, or unknown causes, leading to deformity and varying degrees of functional impairment, significantly impacting the physical and mental well-being as well as the quality of life of affected individuals. Studies have indicated that Mesenchymal Stem Cells (MSCs) can effectively promote wound healing in various injuries, reducing the formation of keloid. This study aims to explore an in vitro model of keloid and investigates the effects of exosomes from human Umbilical Cord MSCs (HUCMSC) on fibroblast proliferation and apoptosis in keloid model.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbrep.2026.102727",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト臍帯間葉系幹細胞エクソソームはケロイドのin vitroモデルにおいて増殖を抑制しアポトーシスを促進する",
+        "summary_ja": "ケロイドは外傷、熱傷、手術、または原因不明の要因により生じる病的瘢痕で、変形や機能障害を引き起こし、患者の身体的・精神的健康と生活の質に深刻な影響を与える。間葉系幹細胞（MSCs）は多様な創傷治癒を促進し、ケロイド形成を抑制することが報告されている。本研究では、ケロイドのin vitroモデルを用い、ヒト臍帯MSCs由来エクソソーム（HUCMSC-exosomes）がケロイド線維芽細胞の増殖とアポトーシスに及ぼす影響を検討した。その結果、HUCMSC-exosomesはケロイド線維芽細胞の増殖を有意に抑制し、アポトーシスを促進することが示された。この効果は、エクソソームが細胞内シグナル伝達経路を調節し、線維化関連因子の発現を変化させることによる可能性が示唆された。本知見は、HUCMSC-exosomesがケロイド治療の新規アプローチとして有望であることを示す。"
+      },
+      {
+        "title": "XBP1 signaling from tumor metabolic stress to myeloid driven immunotherapy resistance (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42563691/",
+        "abstract": "The tumor microenvironment (TME) is a complex ecosystem with harsh conditions, such as hypoxia, nutrient deprivation, metabolic acidosis and oxidative stress, that promote tumor progression and shape immune responses. In this environment, endoplasmic reticulum stress and the unfolded protein response are activated, with the transcription factor X‑box binding protein 1 (XBP1) serving a key role. XBP1 not only maintains cell protein homeostasis, but also modulates the generation, metabolic adaptation and immunosuppressive function of myeloid‑derived suppressor cells (MDSCs). The TME and tumor‑derived factors, such as exosomes, remotely activate XBP1 in MDSCs, enhancing their survival and immunosuppressive capability by reprogramming lipid and glucose metabolism and upregulating the expression of arginase‑1, inducible nitric oxide synthase, reactive oxygen species and immunosuppressive cytokines. The present review aimed to describe the TME stress‑XBP1‑MDSC‑immunosuppression axis, its molecular mechanisms and the role of XBP1 in MDSC heterogeneity and plasticity. Targeting XBP1 may enhance the efficacy of existing therapies, particularly immune checkpoint blockade, by alleviating MDSC‑mediated immunosuppression, offering a novel paradigm for understanding and reversing tumor immune escape.",
+        "source": "PubMed",
+        "doi": "10.3892/ijmm.2026.5951",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍代謝ストレスから骨髄系細胞が駆動する免疫療法抵抗性へのXBP1シグナル伝達（レビュー）",
+        "summary_ja": "腫瘍微小環境（TME）は低酸素、栄養欠乏、代謝性アシドーシス、酸化ストレスなどの厳しい条件を特徴とし、腫瘍進行と免疫応答を形成する。この環境下で小胞体ストレスと unfolded protein response が活性化され、転写因子 X-box binding protein 1（XBP1）が重要な役割を担う。XBP1 はタンパク質恒常性維持に加え、骨髄由来抑制細胞（MDSCs）の生成、代謝適応、免疫抑制機能を調節する。TME や腫瘍由来因子（エクソソームなど）は MDSCs 内の XBP1 を遠隔活性化し、脂質・グルコース代謝の再プログラム化、アルギナーゼ-1、誘導型一酸化窒素合成酵素、活性酸素種、免疫抑制性サイトカインの発現亢進を介して、MDSCs の生存と免疫抑制能を増強する。本総説は、TME ストレス-XBP1-MDSC-免疫抑制軸の分子機構と、MDSC の不均一性・可塑性にお"
+      },
+      {
+        "title": "Lactation-stage profiles of rRNA-derived small RNAs in human milk exosome-enriched fractions: Compositional features and relevance to infant nutrition.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42562460/",
+        "abstract": "Human milk exosome-enriched fractions contain exosome-like vesicles and bioactive molecules, yet the compositional features of rRNA-derived small RNAs (rsRNAs) and their variation across lactation stages remain unclear. In this study, exosome-enriched fractions were isolated and characterized from human colostrum (HC) and mature milk (HM) collected from healthy lactating mothers, and small RNA sequencing was used to systematically profile the rsRNA landscape, differential patterns, and positional origin distribution in these fractions. The results showed that human milk exosome-enriched fractions contained diverse rsRNAs, mainly derived from 18S, 28S, 5.8S, and 5S rRNAs. Compared with HM, rsRNAs in HC-derived exosome-enriched fractions exhibited marked differences in compositional proportion, length distribution, and abundance, indicating lactation-stage-associated variation. Coverage analysis further showed that most rsRNAs were not evenly distributed across full-length precursor rRNAs but were concentrated in specific regions, which is consistent with non-random enrichment patterns. Target prediction and functional enrichment analyses of representative differential rsRNAs suggested possible associations with pathways related to immune-related signaling, epithelial barrier function, and cell growth; however, these results should be interpreted as hypothesis-generating and require further experimental validation. Collectively, this study reveals the compositional characteristics and lactation-stage-associated profiles of rsRNAs in human milk exosome-enriched fractions, expands current understanding of milk-borne bioactive small RNA systems, and provides candidate molecular information for future studies on stage-specific bioactive components relevant to infant nutrition.",
+        "source": "PubMed",
+        "doi": "10.1016/j.foodres.2026.119640",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト母乳エクソソーム濃縮画分におけるrRNA由来低分子RNAの授乳期プロファイル：構成特性と乳児栄養との関連性",
+        "summary_ja": "本研究聚焦人乳外泌体富集组分中rRNA来源小RNA（rsRNAs）的组成特征及其随泌乳阶段的变化。研究者从健康哺乳期母亲的初乳（HC）和成熟乳（HM）中分离并表征外泌体富集组分，利用小RNA测序系统分析rsRNA的谱系、差异表达及位置分布。结果显示，该组分含多种rsRNAs，主要源自18S、28S、5.8S和5S rRNA。与HM相比，HC来源的rsRNAs在组成比例、长度分布和丰度上存在显著差异，提示其与泌乳阶段相关。覆盖度分析表明，多数rsRNAs并非均匀分布于全长前体rRNA，而是富集于特定区域，呈非随机富集模式。对代表性差异rsRNAs的靶基因预测及功能富集分析提示，其可能与免疫相关信号、上皮屏障功能和细胞生长等通路有关，但该结果仅为假设生成，需进一步实验验证。综上，本研究揭示了人乳外泌体富集组分中rsRNAs的组成特征及泌乳阶段相关变化，拓展了对乳源生物活性小RNA系统的认识，并"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックをまとめます。\n\n**1. 末梢血DNAメチル化と脳内免疫細胞構成の関連**  \n末梢血エピゲノムが脳内免疫状態を部分的に反映する可能性を示した。脳疾患バイオマーカー開発において、侵襲の少ない血液を用いたアプローチの妥当性を支持する重要な知見である。\n\n**2. エクソソームmiR-146b-5pによる脳内炎症制御**  \n脳出血後の神経炎症をTRAF6/NF-κB経路を介して制御するエクソソームmiR-146b-5pの機序解明は、脳卒中治療の新規標的として期待される。\n\n**3. ジンセノシドRd搭載エクソソームによる脳卒中後うつ病治療**  \n生体模倣エクソソームを用いた薬物送達により、EGFR/JAK2/STAT3経路を介したミクログリア再プログラミングが実現。バイオアベイラビリティの課題を克服する画期的戦略である。\n\n**4. 歯髄幹細胞由来細胞外小胞による歯髄再生**  \nDPSC-EVsの象牙質・歯髄複合体再生効果をメタ解析で定量評価。再生歯科医療における細胞外小胞の臨床応用可能性を強く示唆する。\n\n**5. ヒト臍帯MSCエクソソームによるケロイド抑制**  \nケロイドモデルにおいて増殖抑制とアポトーシス誘導を確認。既存治療が困難な病的瘢痕に対する新たな非細胞治療の基盤となる。\n\nこれらの研究は、エクソソーム・細胞外小胞を活用した疾患横断的な治療戦略の進展を示しており、今後の臨床応用が強く期待される。"
+}

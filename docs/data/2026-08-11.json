@@ -1,0 +1,157 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Monoclonal Gammopathy of Thrombotic Significance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42571962/",
+        "abstract": "Monoclonal gammopathy of undetermined significance (MGUS) is an asymptomatic premalignant precursor to multiple myeloma (MM). While development of end-organ damage in MM largely reflects increasing clonal burden, emerging evidence indicates that qualitative properties of the monoclonal immunoglobulins in MGUS can be directly pathogenic, leading to serious organ injury independent of disease burden. This has led to the recognition of a broader spectrum of disorders collectively termed monoclonal gammopathy of clinical significance (MGCS). MGCS can be further subclassified based on the organ system involved; for example, monoclonal gammopathy of renal significance specifically refers to monoclonal immunoglobulin-driven renal injury. Along these lines, we propose monoclonal gammopathy of thrombotic significance (MGTS) as encompassing thrombotic disorders in which there is definitive, mechanistically supported evidence that a monoclonal (M)-protein associated with a clonal plasma or B-cell disorder directly contributes to thrombosis. Based on current evidence, monoclonal protein-induced immune thrombocytopenia and thrombosis is the only disorder that meets our criteria for MGTS. Other thrombotic disorders, such as thrombotic microangiopathy and antiphospholipid syndrome, may occur in the setting of a monoclonal protein and have biologically plausible M-protein-mediated mechanisms; however, direct evidence implicating the M-protein in thrombosis is currently lacking. Accordingly, we provisionally classify these disorders as thrombotic syndromes associated with M-proteins, pending causal validation. We also highlight thrombotic disease associations with multifactorial pathogenesis that should not be classified as MGTS. Broader recognition of MGTS is essential to advance consensus definitions, establish diagnostic criteria, and develop evidence-based management strategies for this clinically important group of disorders.",
+        "source": "PubMed",
+        "doi": "10.1002/ajh.70467",
+        "keyword": "PF4",
+        "title_ja": "血栓症的意義を持つモノクローナルガンモパチー",
+        "summary_ja": "本論文は、血栓症を引き起こすモノクローナルガンモパチー（MGTS）という新たな疾患概念を提唱する。MGUS（原因不明のモノクローナルガンモパチー）は多発性骨髄腫の前駆状態で無症候性だが、モノクローナル免疫グロブリン自体が直接病原性を持ち、腫瘍量とは無関係に臓器障害を引き起こす場合がある。これを臨床的意義のあるモノクローナルガンモパチー（MGCS）と総称し、腎障害は腎症的意義、血栓症は血栓症的意義（MGTS）と分類する。MGTSの診断基準は、クローン性形質細胞またはB細胞障害に伴うM蛋白が血栓症に直接関与する明確な機序的証拠があることである。現在、M蛋白誘発性免疫性血小板減少症と血栓症のみがこの基準を満たす。血栓性微小血管症や抗リン脂質抗体症候群はM蛋白との関連が示唆されるが、直接的な因果証拠が不十分なため、暫定的に「M蛋白関連血栓症候群」と分類する。多因子性の血栓症はMGTSから除外すべき"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Pathway dysregulation and therapeutic resistance in glioblastoma: molecular mechanisms and emerging therapeutic targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42573440/",
+        "abstract": "The review further examines mechanisms underlying treatment resistance and the limitations of current targeted therapies. Although many pathway-directed treatments have demonstrated promising preclinical activity, clinical translation remains challenging because of compensatory signaling, blood-brain barrier limitations, and molecular heterogeneity.",
+        "source": "PubMed",
+        "doi": "10.1080/20565623.2026.2715646",
+        "keyword": "NK cell therapy",
+        "title_ja": "神経膠芽腫における経路調節異常と治療抵抗性：分子メカニズムと新たな治療標的",
+        "summary_ja": "本レビューは、膠芽腫（GBM）における経路調節異常と治療抵抗性の分子メカニズムを概説し、新たな治療標的を考察する。GBMは代表的な悪性脳腫瘍であり、標準治療（手術、放射線、テモゾロミド）後も再発が高頻度で、その要因としてPI3K/AKT/mTOR、RAS/MAPK、p53、Rb経路などの異常活性化が関与する。特に、受容体型チロシンキナーゼ（EGFR、PDGFR、MET）の増幅や変異が経路の恒常的活性化を引き起こす。治療抵抗性の主因として、腫瘍内の分子不均一性、がん幹細胞の存在、代謝リプログラミング、DNA修復機構の亢進が挙げられる。さらに、血液脳関門（BBB）が薬物送達を制限し、臨床試験での有効性を減弱させる。標的治療薬は前臨床で有望視されるが、代償性シグナル経路の活性化や耐性変異の出現により、単剤での効果は限定的である。近年、免疫チェックポイント阻害薬やCAR-T細胞療法、がん幹細胞標的"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "The molecular landscape of chordoma: Current frontiers from multi-omics to artificial intelligence.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42571860/",
+        "abstract": "Chordoma is a rare and aggressive malignant bone tumor of the axial skeleton that has historically challenged clinicians due to its complex anatomical locations and a high recurrence rate of up to 85%. This review synthesizes the most recent advances in chordoma research and offers an overview of how multi-omics, advanced immunology, and artificial intelligence are reshaping the treatment paradigm. Central to its pathogenesis is the T-box transcription factor Brachyury, which this review highlights as both the pathognomonic diagnostic marker and the primary therapeutic vulnerability. Cutting-edge innovations targeting this driver include covalent small-molecule binders, targeted protein degradation, and peptide-centric CAR-T cells designed to attack the intracellular oncoprotein. The tumor immune microenvironment is functionally dynamic, and new dimensions in cellular therapy, such as dual-specific CAR constructs and NK-cell platforms, are being engineered to neutralize immunosuppressive factors. Beyond biological insights, the review emphasizes the role of computational biology, specifically how deep-learning and machine-learning models achieve expert-level precision in tumor segmentation and personalized survival forecasting. By integrating genomic, transcriptomic, epigenomic, and proteomic data, multiomics approaches can fully elucidate chordoma subtypes and underlying resistance mechanisms, ultimately paving the way for more precise and personalized therapeutic strategies.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbcan.2026.189678",
+        "keyword": "NK cell therapy",
+        "title_ja": "脊索腫の分子ランドスケープ：マルチオミクスから人工知能への現在の最前線",
+        "summary_ja": "脊索腫は軸骨格に発生する稀で侵攻性の悪性骨腫瘍であり、複雑な解剖学的位置と最大85%の高い再発率により臨床的に難治である。本総説は、マルチオミクス、先進免疫学、人工知能が治療パラダイムを変革しつつある最新の知見を統合する。病態の中核をなすTボックス転写因子Brachyuryは、特徴的な診断マーカーであると同時に主要な治療標的であり、共有結合性低分子結合剤、標的タンパク質分解、ペプチド中心CAR-T細胞などの革新的アプローチが開発されている。腫瘍免疫微小環境は機能的に動的であり、二重特異性CAR構築物やNK細胞プラットフォームによる免疫抑制因子の中和が進む。さらに、深層学習や機械学習モデルによる腫瘍セグメンテーションや個別生存予測の高精度化が注目される。ゲノム、トランスクリプトーム、エピゲノム、プロテオームデータを統合するマルチオミクス解析は、脊索腫のサブタイプと耐性機構を解明し、より精密で"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosomes in kidney disease: From Pathophysiology to Diagnostic and Therapeutic Tools.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42573516/",
+        "abstract": "Kidney disease is a significant global public health and economic burden, with unmet clinical requirements for early diagnostic biomarkers and targeted therapies. Exosomes, nanoscale lipid bilayer vesicles that facilitate intercellular communication through bioactive cargo, have emerged as a promising translational tool for addressing these gaps.",
+        "source": "PubMed",
+        "doi": "10.1093/ndt/gfag182",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームと腎疾患：病態生理から診断・治療ツールまで",
+        "summary_ja": "腎疾患は世界的な公衆衛生・経済的負担であり、早期診断バイオマーカーと標的治療への臨床的ニーズが満たされていない。エクソソームは、生理活性カーゴを介して細胞間コミュニケーションを促進するナノスケールの脂質二重層小胞であり、このギャップを埋める有望なトランスレーショナルツールとして注目されている。本論文では、腎疾患におけるエクソソームの病態生理学的役割から診断・治療応用までを概説する。病態では、腎臓由来エクソソームが腎障害の進行や修復に関与し、細胞間シグナル伝達を担う。診断面では、尿中エクソソームが非侵襲的バイオマーカーとして急性腎障害や慢性腎臓病の早期検出に有用である。治療面では、エクソソームを薬物送達キャリアや再生医療ツールとして利用する可能性が示されている。しかし、標準化された単離法や大規模臨床試験の不足など課題も残る。エクソソームは腎疾患の病態解明と新規診断・治療法開発に大きな可能性を"
+      },
+      {
+        "title": "PIWI-piRNA Axis in Epilepsy: Bridging Epigenetic Regulation, Neuroinflammation, and Neuronal Excitability.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42572073/",
+        "abstract": "Epilepsy is a chronic neurological disorder characterized by recurrent seizures, neuroinflammation, and epigenetic instability, with around one-third of patients experiencing drug-resistant epilepsy. While ion channels and neurotransmitter imbalances have been thoroughly examined in relation to epilepsy, the significance of piRNAs and their interaction with PIWI proteins in gene regulation, transposon silencing, and inflammatory signaling inside the epileptic brain is gaining recognition. This summary encapsulates the existing understanding of piRNA synthesis, the epigenetic control through PIWI-piRNA interactions, and their novel roles in epileptogenesis. PIWI-piRNA complexes target highly expressed genomic areas, such as LINE-1 retrotransposons, and mute them by recruiting chromatin modifiers such DNMT3A and H3K9 methyltransferase complexes, therefore influencing genome stability and neuronal excitability. Additionally, piRNAs initiate pathways associated with neuroinflammation, including the activation of the Toll-like receptor-4/NF-kB signaling pathway and the NLRP3 inflammasome, and indirectly influence GABAergic homeostasis through interactions with the extensive noncoding RNA regulatory network. Targeted modulation of kainic acid, pilocarpine, and hereditary epilepsy models has been documented to provide decreases in seizure load; however, the extent of this effect varies among the models and modulation techniques employed. The review critically evaluates emerging therapeutic strategies, including AAV9 vectors, lipid nanoparticles, exosome-based delivery systems, and antisense oligonucleotides, along with their associated challenges such as blood-brain barrier penetration, off-target effects, immune activation, and long-term safety. In conclusion, the PIWI-piRNA axis represents a potential yet nascent domain for biomarker creation and disease modulation in epilepsy.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-06103-4",
+        "keyword": "Exosomes",
+        "title_ja": "てんかんにおけるPIWI-piRNA軸：エピジェネティック制御、神経炎症、神経興奮性を橋渡しする",
+        "summary_ja": "て要約します。\n\nて要約：本レビューは、てんかんにおけるPIWI-piRNA軸の役割を概説する。てんかんは再発性発作、神経炎症、エピジェネティック不安定性を特徴とし、約3分の1が薬剤耐性を示す。piRNAはPIWIタンパク質と複合体を形成し、LINE-1レトロトランスポゾンなどの高発現ゲノム領域を標的とし、DNMT3AやH3K9メチルトランスフェラーゼ複合体を動員して転写抑制を行い、ゲノム安定性と神経興奮性に影響を与える。さらに、piRNAはToll様受容体4/NF-κB経路やNLRP3インフラマソームを活性化し神経炎症を誘導し、非コードRNAネットワークを介してGABA作動性恒常性にも間接的に関与する。カイニン酸、ピロカルピン、遺伝性てんかんモデルでの標的調節により発作負荷の減少が報告されるが、効果はモデルや手法により異なる。治療戦略としてAAV9ベクター、脂質ナノ粒子、エクソソーム送達"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Optimized polyethylene glycol precipitation yields high-purity, biologically active mouse liver tissue exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42573845/",
+        "abstract": "Exosomes are nanosized extracellular vesicles that play critical roles in intercellular communication and have emerged as promising tools for biomarker discovery, disease diagnostics, and therapeutic delivery. However, the widespread application of exosome-based technologies is often limited by the high cost and technical complexity of conventional isolation methods. Therefore, developing simple, scalable, and cost-effective isolation strategies remains a significant challenge in extracellular vesicle research.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12569-1",
+        "keyword": "Exosomes",
+        "title_ja": "最適化されたポリエチレングリコール沈殿法により、高純度かつ生物学的に活性なマウス肝組織エクソソームが得られる。",
+        "summary_ja": "マウス肝組織由来エクソソームの単離において、ポリエチレングリコール（PEG）沈殿法を最適化し、高純度かつ生物学的活性を保持したエクソソームを得る手法を報告する。エクソソームは細胞間コミュニケーションに重要なナノサイズの細胞外小胞であり、バイオマーカー探索や診断、治療応用への期待が高い。しかし、従来の単離法は高コストで技術的に複雑なため、簡便でスケーラブルかつ経済的な手法の開発が課題となっている。本研究では、PEG濃度、沈殿時間、遠心条件を系統的に最適化し、超遠心法と比較して同等以上の純度と回収率を達成した。得られたエクソソームは形態、サイズ分布、マーカー発現（CD63、CD81）を確認し、細胞取り込み能や機能アッセイにおいても生物学的活性を維持していた。本法は特殊な装置を必要とせず、肝組織由来エクソソームの研究や臨床応用への実用的な単離手段として有用である。"
+      },
+      {
+        "title": "Unveiling the miR‑26a‑5p/MSMO1/7‑DHC Axis: A Novel Therapeutic Target in Myocardial Ischemia-Reperfusion Injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42573664/",
+        "abstract": "Ferroptosis plays a critical role in myocardial ischemia-reperfusion injury (MIRI). Here, we discovered that MSMO1, a key enzyme in the cholesterol biosynthesis pathway, regulates ferroptosis in MIRI, and identified miR-26a-5p as an upstream regulator of MSMO1. During MIRI, downregulation of miR-26a-5p led to suppression of MSMO1, reduction of 7-DHC accumulation, and promotion of lipid peroxidation and ferroptosis. To translate this mechanism, we developed engineered exosomes delivering miR-26a-5p. In cellular and mouse MIRI models, this intervention significantly attenuated serum levels of cardiac injury biomarkers (cTnI and CK-MB), restored systemic antioxidant capacity, and attenuated early myocardial fibrosis. This work provides a novel therapeutic strategy for MIRI and provides preclinical evidence supporting the potential of engineered exosomes as a cell-free therapeutic platform.",
+        "source": "PubMed",
+        "doi": "10.1007/s10557-026-07922-2",
+        "keyword": "Exosomes",
+        "title_ja": "miR-26a-5p/MSMO1/7-DHC軸の解明：心筋虚血再灌流障害における新規治療標的",
+        "summary_ja": "心筋虚血再灌流障害（MIRI）において、フェロトーシスが重要な役割を果たす。本研究では、コレステロール生合成経路の鍵酵素MSMO1がMIRIのフェロトーシスを制御し、miR-26a-5pがその上流制御因子であることを発見した。MIRI時、miR-26a-5pの低下がMSMO1を抑制し、7-DHC蓄積を減少させ、脂質過酸化とフェロトーシスを促進した。この機序を応用し、miR-26a-5pを搭載した工学的エクソソームを開発。細胞およびマウスMIRIモデルにおいて、この介入は心筋障害バイオマーカー（cTnI、CK-MB）の血清レベルを有意に低下させ、全身の抗酸化能を回復し、初期心筋線維化を減弱させた。本研究はMIRIに対する新規治療戦略を提供し、工学的エクソソームが細胞フリー治療プラットフォームとして有望である前臨床的エビデンスを示す。"
+      },
+      {
+        "title": "Brain Tissue-Derived Exosomal Proteomics Identifies Chemotaxis-Associated Protein Changes After Traumatic Brain Injury: An Exploratory Hippocampal Transcriptomic Comparison.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42572060/",
+        "abstract": "Traumatic brain injury (TBI) involves both primary and secondary pathological processes, including hemorrhage, ischemia, edema, and neuroinflammation. Although tissue-derived exosomes have emerged as important mediators of intercellular communication within local tissue microenvironments, their role in TBI-associated inflammatory responses remains incompletely understood. This study integrated brain tissue-derived exosomal proteomics with publicly available hippocampal transcriptomic data to investigate the potential association between tissue-derived exosomes and chemotaxis-related inflammatory responses after TBI. Brain tissue-derived exosomes were isolated, characterized, and subjected to label-free proteomic analysis. Public hippocampal transcriptomic data from GSE173975 were analyzed, and differentially expressed proteins (DEPs) and genes (DEGs) were identified from the exosomal proteomic and transcriptomic datasets, respectively. Functional enrichment, co-enrichment, and protein-protein interaction network analyses were performed, followed by quantitative real-time PCR, exosomal western blotting, and Transwell migration assays for validation and functional assessment. In total, 190 DEPs and 465 DEGs were identified. Co-enrichment analyses highlighted immune- and inflammation-related processes, particularly chemotaxis-related processes and chemokine signaling. LGALS3 and ITGB2 were increased at the exosomal protein level in brain tissue-derived exosomes from TBI rats and also showed increased hippocampal mRNA expression, whereas CCL2, CCL3, and CCR5 were upregulated at the hippocampal mRNA level. Functionally, TBI-derived exosomes enhanced BV2 microglial migration in vitro. Overall, these findings suggest that injury-associated brain tissue-derived exosomes may be associated with chemotaxis-related inflammatory and pro-migratory responses after TBI.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-06123-0",
+        "keyword": "Exosomes",
+        "title_ja": "脳組織由来エクソソームのプロテオミクス解析により、外傷性脳損傷後の走化性関連タンパク質の変化が同定される：探索的海馬トランスクリプトーム比較。",
+        "summary_ja": "外傷性脳損傷（TBI）は、出血、虚血、浮腫、神経炎症を含む一次・二次的病態を伴う。組織由来エクソソームは局所微小環境での細胞間通信に重要だが、TBI関連炎症応答における役割は未解明である。本研究は、脳組織由来エクソソームのプロテオミクスと公開海馬トランスクリプトームデータ（GSE173975）を統合し、ケモタキシス関連炎症応答との関連を探索した。エクソソームを単離・特性評価し、ラベルフリープロテオミクス解析を実施。差次的発現タンパク質（DEPs）190個と遺伝子（DEGs）465個を同定し、機能濃縮解析、共濃縮解析、タンパク質間相互作用ネットワーク解析を行った。免疫・炎症関連プロセス、特にケモタキシスとケモカインシグナリングが濃縮された。LGALS3とITGB2はTBIラット脳組織由来エクソソームで増加し、海馬mRNA発現も上昇。CCL2、CCL3、CCR5は海馬mRNAレベルで上昇した。"
+      },
+      {
+        "title": "Exosomes mediate intercellular transmission of Tembusu virus via the NS4A-Rab27a axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42572027/",
+        "abstract": "Accumulating data support the role of exosomes from virus-infected cells (especially RNA viruses) in the selective encapsulation of viral proteins, genomic material, and even whole virions, thereby mediating intercellular communication events and contributing to viral transmission. Tembusu virus (TMUV), a single-stranded RNA virus, has posed a threat to global public health since its emergence in 2010. However, whether exosomes can mediate TMUV intercellular transmission remains obscure. Here, we show that exosomes derived from TMUV-infected cells (TMUV-exosomes) contained viral genomic RNA and partial viral proteins (C, prM, E, NS1, NS2B, NS4B, and NS5). TMUV-exosomes enter HEK293 cells primarily via a dynamin-dependent, cholesterol-sensitive caveolae-mediated (CavME) endocytosis pathway, thereby suppressing the subsequent expression of key antiviral immune genes to create a proviral microenvironment that supports productive TMUV infection. Remarkably, central to this exosomal hijacking mechanism, the viral NS4A protein and host Rab27a protein form a critical regulatory axis. Specifically, NS4A upregulates Rab27a expression to potentiate the release of exosomes encapsulating viral nucleic acids and proteomic components. Overall, our study provides a mechanistic model for understanding the role of exosomes in TMUV intercellular transmission and identifies the NS4A-Rab27a axis as a critical regulatory node. Disrupting this interaction may represent a potential therapeutic strategy for TMUV infection, warranting further investigation.",
+        "source": "PubMed",
+        "doi": "10.1186/s13567-026-01772-4",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームはNS4A-Rab27a軸を介してテンブスウイルスの細胞間伝播を媒介する。",
+        "summary_ja": "本研究探讨了外泌体在坦布苏病毒（TMUV）细胞间传播中的作用。TMUV是一种单链RNA病毒，自2010年出现以来威胁全球公共卫生。研究发现，TMUV感染细胞释放的外泌体（TMUV-exosomes）含有病毒基因组RNA及部分病毒蛋白（C、prM、E、NS1、NS2B、NS4B、NS5）。这些外泌体主要通过 dynamin依赖性、胆固醇敏感的细胞膜穴样内陷（CavME）内吞途径进入HEK293细胞，抑制关键抗病毒免疫基因表达，营造促病毒微环境，支持TMUV有效感染。核心机制在于病毒NS4A蛋白与宿主Rab27a蛋白形成调控轴：NS4A上调Rab27a表达，增强携带病毒核酸和蛋白组分的外泌体释放。该研究揭示了外泌体介导TMUV细胞间传播的机制模型，并确定NS4A-Rab27a轴为关键调控节点，破坏该相互作用可能成为TMUV感染的潜在治疗策略，值得进一步研究。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Cord-blood black carbon particle burden is associated with a C19MC small extracellular vesicle miRNA signature enriched for neurodevelopmental pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42392435/",
+        "abstract": "Ambient air pollution, particularly black carbon (BC), is associated with adverse pregnancy outcomes, but the molecular pathways linking in utero particle exposure to fetal programming remain incompletely understood. We examined whether cord-blood BC particle burden relates to small extracellular vesicle (sEV)-associated microRNA (miRNA) profiles and enriched developmental pathways.",
+        "source": "PubMed",
+        "doi": "10.1016/j.envres.2026.125159",
+        "keyword": "sEVs",
+        "title_ja": "臍帯血中のブラックカーボン粒子負荷は、神経発達経路に富むC19MC小型細胞外小胞miRNAシグネチャーと関連する。",
+        "summary_ja": "本研究は、臍帯血中のブラックカーボン（BC）粒子負荷と、小型細胞外小胞（sEV）関連マイクロRNA（miRNA）プロファイルとの関連を調査した。大気汚染、特にBCは妊娠不良転帰と関連するが、胎児プログラミングへの分子経路は未解明である。臍帯血サンプルを用い、BC粒子負荷を測定し、sEV由来miRNA発現を解析した結果、特定のmiRNAシグネチャーがBC負荷と有意に相関した。このシグネチャーは、神経発達関連経路に富んでおり、特にC19MCクラスター由来miRNAが関与していた。C19MCは胎盤特異的発現を示し、神経発達やシナプス形成に関わる遺伝子を標的とする可能性が示唆された。BC曝露がsEVを介してmiRNA発現を変化させ、胎児の神経発達プログラミングに影響を与える可能性が示された。本研究は、大気汚染の胎児期曝露が分子レベルで神経発達リスクを媒介する新たなメカニズムを提案し、今後の予防・介"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、注目すべき5つのトピックをまとめます。\n\n**1. エクソソームによる腎疾患の診断・治療革新**  \n腎疾患は早期診断と標的治療が喫緊の課題です。エクソソームは生理活性カーゴを介した細胞間コミュニケーションの鍵であり、非侵襲的バイオマーカーや薬物送達キャリアとして臨床応用が期待されます。\n\n**2. 膠芽腫の治療抵抗性メカニズム解明**  \nGBMは標準治療後も高率に再発する難治性腫瘍です。PI3K/AKT/mTOR経路などの異常が治療抵抗性に直結するため、新規標的の同定は予後改善への突破口となります。\n\n**3. 心筋虚血再灌流障害における新規治療軸**  \nmiR-26a-5p/MSMO1/7-DHC軸がフェロトーシスを制御する発見は、MIRIに対する新たな治療戦略を示唆します。酸化ストレス制御を介した心筋保護は臨床応用が強く望まれます。\n\n**4. 外傷性脳損傷後の神経炎症バイオマーカー**  \n脳組織由来エクソソームのプロテオミクス解析は、TBI後の局所炎症応答を反映する新規バイオマーカーを提供します。海馬トランスクリプトームとの統合解析が病態理解を深めます。\n\n**5. 大気汚染の胎児神経発達への影響**  \n臍帯血中のブラックカーボン粒子がC19MC由来sEV-miRNAプロファイルと関連する発見は、環境曝露が胎児プログラミングに与えるエピジェネティックな影響を解明する手がかりとなります。\n\nこれらの研究は、細胞外小胞を基盤とした診断・治療の新時代を切り拓くものです。"
+}

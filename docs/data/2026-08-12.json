@@ -1,0 +1,196 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "The hepatic FGFR-ERK-HRG axis regulates heparin-induced thrombocytopenia with thrombosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42574324/",
+        "abstract": "Heparin-induced thrombocytopenia (HIT) is a life-threatening prothrombotic disorder with substantial clinical mortality, characterized by pathologic antibody formation against platelet factor 4 (PF4)-heparin complexes. This study identified early pathologic mechanisms that initiate HIT immune complex formation and regulate thrombosis development. We found that repeated heparin administration over five days markedly enhanced platelet activation which implies an additional activating mechanism. Through plasma proteomic analysis, we observed that histidine-rich glycoprotein (HRG) levels were significantly reduced following successive heparin administration, and inversely related to platelet activation. Mechanistically, heparin and PF4 suppressed HRG expression via inhibiting the FGFR-ERK-Elk1 pathway whereby Elk1 directly binds to the HRG promoter region to regulate its liver expression. Physiological levels of HRG potently inhibited platelet activation, procoagulant activity, spreading, and aggregation, and significantly reduced thrombus formation under flow conditions. HRG bound to activated αIIbβ3 integrin in a zinc-dependent manner, thereby blocking its ligand-binding capacity. HRG also inhibited the formation of ultralarge PF4-heparin complexes (ULCs), disrupted the immune complexes (ULICs) comprising the HIT-like antibody KKO and ULCs, and blocked the binding of KKO to PF4/heparin on platelets. Furthermore, HRG attenuated ULCs-triggered autoantibody generation, inhibited the ULICs-induced neutrophil extracellular traps and microvascular thrombosis formation both in vitro and in a mouse model of HIT. In conclusion, our work establishes HRG as a pivotal regulator of pathologic immune responses and thrombosis in HIT, providing mechanistic insights into disease pathogenesis.",
+        "source": "PubMed",
+        "doi": "10.1182/blood.2026033378",
+        "keyword": "PF4",
+        "title_ja": "肝臓FGFR-ERK-HRG経路は、ヘパリン起因性血小板減少症および血栓症を制御する。",
+        "summary_ja": "本論文は、ヘパリン起因性血小板減少症（HIT）における新規病態メカニズムを解明した。HITは血小板第4因子（PF4）とヘパリン複合体に対する抗体が原因の致死的血栓症である。5日間の反復ヘパリン投与で血小板活性化が増強し、血漿プロテオミクス解析によりヒスチジンリッチ糖タンパク質（HRG）の低下が認められた。ヘパリンとPF4はFGFR-ERK-Elk1経路を阻害し、Elk1がHRGプロモーターに結合して肝臓での発現を抑制した。生理的濃度のHRGは血小板活性化、凝固促進活性、拡張、凝集を阻害し、血流下での血栓形成を減少させた。HRGは亜鉛依存的に活性化αIIbβ3インテグリンに結合し、そのリガンド結合能を遮断した。また、HRGは超大型PF4-ヘパリン複合体（ULCs）形成を阻害し、HIT様抗体KKOを含む免疫複合体（ULICs）を破壊し、血小板上のKKO結合を阻害した。さらにHRGはULCs誘導"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Emerging trends and future outlook towards magnetic nanoparticles as frontiers in cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42576701/",
+        "abstract": "Magnetic nanoparticles (MNPs) are becoming significant assets in cancer immunotherapy. Their unique magnetic and surface-functional properties allow them to serve as multifunctional platforms capable of modulating immune responses at multiple levels. MNPs have the potential to enhance immune cell activation and targeting inside the tumor microenvironment. MNPs assist in transporting immune-stimulating agents and tumor antigens directly to antigen-presenting cells. This increases T cell activity and improves anti-tumor reactions. MNPs are additionally utilized to enhance checkpoint blockade and to overcome the immunosuppressive milieu that often hinders the therapeutic efficacy of immunotherapies. In certain preclinical models, MNPs facilitate local hyperthermia to stimulate local immune activation at tumor sites. The magnetic guidance of these nanoparticles also facilitates the delivery of cytotoxic lymphocytes such as CD8 T cells and natural killer (NK) cells to solid tumors, addressing the challenge of poor infiltration of immune effector cells into the tumor. Numerous designs currently integrate therapy with imaging for accurate monitoring of biodistribution. Although MNPs hold potential, challenges remain in terms of biodegradability, long-term biosafety, immune compatibility and clinical applications. This review covers recent advances in MNP-based cancer immunotherapy, including their mechanisms of immune modulation, innovative design strategies, and integration with existing therapies. It also discusses the current limitations and future perspectives that will guide the next generation of magnetically assisted immunotherapeutic platforms toward clinical success.",
+        "source": "PubMed",
+        "doi": "10.1039/d6nr01113f",
+        "keyword": "NK cell therapy",
+        "title_ja": "磁性ナノ粒子のがん免疫療法における最前線としての新興トレンドと将来展望",
+        "summary_ja": "磁性ナノ粒子（MNPs）はがん免疫療法において重要な資産となりつつある。その独自の磁気特性と表面機能性により、免疫応答を多層的に調節できる多機能プラットフォームとして機能する。MNPsは腫瘍微小環境内での免疫細胞の活性化と標的化を強化し、免疫刺激剤や腫瘍抗原を抗原提示細胞へ直接輸送することでT細胞活性を高め、抗腫瘍反応を改善する。また、チェックポイント阻害を増強し、免疫療法の効果を妨げる免疫抑制環境を克服する。前臨床モデルでは、MNPsによる局所温熱療法が腫瘍部位での免疫活性化を刺激する。磁気誘導によりCD8 T細胞やNK細胞などの細胞傷害性リンパ球を固形腫瘍へ送達し、免疫細胞の浸潤不良という課題に対処する。多くの設計は治療とイメージングを統合し、生体内分布を正確に監視する。しかし、生分解性、長期的生体安全性、免疫適合性、臨床応用には課題が残る。本レビューはMNPベースのがん免疫療法の最近"
+      },
+      {
+        "title": "Oral nano-delivery of a gut microbial metabolite enhances T cell stemness for cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42575976/",
+        "abstract": "Gut microbial metabolites play crucial roles in regulating systemic immunity, but their mechanisms and limited drug-like properties remain unresolved. Here we report an oral nano-formulation that leverages gut microbial metabolites to modulate T cell metabolism and amplify antitumour immunity. Through an in vitro screening of gut microbial metabolites, we identified 3,4-dihydroxybenzoic acid that improved adoptive T cell therapy and enhanced CD8",
+        "source": "PubMed",
+        "doi": "10.1038/s41565-026-02235-9",
+        "keyword": "NK cell therapy",
+        "title_ja": "腸内微生物代謝物の経口ナノ送達によるT細胞幹細胞性の増強ががん免疫療法を向上させる",
+        "summary_ja": "本論文では、腸内微生物代謝物が全身免疫を調節する機構と薬物特性の限界に着目し、経口ナノ製剤を用いてT細胞代謝を調節し抗腫瘍免疫を増強する新戦略を報告する。腸内微生物代謝物のin vitroスクリーニングにより、3,4-ジヒドロキシ安息香酸（3,4-DHBA）を同定した。この代謝物は養子T細胞療法の効果を改善し、CD8陽性T細胞の幹細胞性（stemness）を強化した。経口ナノ製剤により3,4-DHBAを効率的に送達し、T細胞の代謝リプログラミングを誘導することで、持続的な抗腫瘍免疫応答を実現した。本アプローチは、腸内微生物代謝物の薬理応用における課題を克服し、がん免疫療法の新たな経口治療戦略を提示する。"
+      },
+      {
+        "title": "CAR T cell therapy beyond cancer: current status, challenges and future prospects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42575882/",
+        "abstract": "Chimeric antigen receptor (CAR) T-cell therapy has revolutionized oncology, and its foundational logic-precise antigen recognition coupled with durable effector activity-extends naturally to chronic non-malignant diseases sustained by long-lived pathological cells. These include viral reservoirs, autoreactive B and plasma cells, activated fibroblasts, alloimmune clones, and senescent cells that remodel tissue niches and evade clearance by conventional therapies. This review highlights how CAR-based strategies can be adapted across diverse disease settings by redirecting engineered immune responses toward disease-sustaining cellular compartments. Co-stimulatory domains such as CD28, 4-1BB, and OX40 enhance persistence and effector function; programmed cell death protein 1 (PD-1)-CD28 switch receptors reverse inhibitory signaling; and cytokine-resistant CARs incorporating dominant-negative transforming growth factor-β (TGF-β) receptors maintain activity within suppressive microenvironments. We discuss these approaches across infections, including human immunodeficiency virus (HIV) and Epstein-Barr virus (EBV); autoimmunity involving CD19- and B-cell maturation antigen (BCMA)-directed depletion strategies and CAR-engineered regulatory T cells (CAR-Tregs); fibrosis targeting fibroblast activation protein (FAP); hemophilia using B-cell antibody receptor (BAR)-CARs against factor VIII and factor IX inhibitors; transplantation employing human leukocyte antigen (HLA)-specific CAR-Tregs; and senescence-associated pathologies targeting urokinase plasminogen activator receptor (uPAR) and natural killer group 2D ligands (NKG2DLs). Early clinical experiences in systemic lupus erythematosus, systemic sclerosis, myositis, and multiple sclerosis, together with preclinical successes in chronic infections and fibrotic disease, demonstrate both feasibility and durable disease modification. By extending CAR-T therapy beyond oncology, these applications position programmable cellular immunotherapy as a broadly adaptable platform for eliminating persistent pathological cells, remodeling diseased tissue environments, and restoring long-term immune homeostasis.",
+        "source": "PubMed",
+        "doi": "10.1038/s41392-026-02873-4",
+        "keyword": "NK cell therapy",
+        "title_ja": "がんを超えたCAR T細胞療法：現状、課題、そして将来の展望",
+        "summary_ja": "CAR T細胞療法は腫瘍学を変革し、その基本原理である精密な抗原認識と持続的なエフェクター活性は、慢性非悪性疾患にも応用可能である。対象となるのは、ウイルスリザーバー、自己反応性B細胞・形質細胞、活性化線維芽細胞、同種免疫クローン、老化細胞など、従来療法で排除困難な病的細胞群である。CAR設計では、CD28、4-1BB、OX40などの共刺激ドメインが持続性と機能を増強し、PD-1-CD28スイッチ受容体が抑制シグナルを逆転、ドミナントネガティブTGF-β受容体を組み込んだサイトカイン耐性CARが抑制性微小環境で活性を維持する。応用範囲は、HIVやEBVなどの感染症、CD19・BCMA標的除去やCAR-Tregsを用いた自己免疫疾患、FAP標的の線維症、第VIII・IX因子阻害抗体を標的とするBAR-CARsによる血友病、HLA特異的CAR-Tregsによる移植、uPARやNKG2DLs標的"
+      },
+      {
+        "title": "Latent effector T cells mediate immunotherapy responses in the bone marrow microenvironment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42575099/",
+        "abstract": "T cell-mediated immune surveillance is critical for cancer control, yet its role in bone marrow malignancies remains poorly understood. Here, we integrate TCR profiling, HLA immunopeptidomics, and functional screening to characterize tumor-reactive T cells in the bone marrow of patients with multiple myeloma (MM) and acute myeloid leukemia (AML). These cells are transcriptionally defined by a conserved effector program distinct from the exhausted phenotype of tumor-reactive T cells in solid cancers. Immunopeptidomic profiling reveals a partially shared antigen landscape enriched for noncanonical peptides driving convergent TCR responses. We develop TFiT (tumor-reactive features in T cells), a transcriptional classifier that identifies these cells and stratifies immunotherapy, but not chemotherapy, response across independent MM and AML cohorts, supporting its specificity for T cell-mediated tumor control. These findings reveal a latent but activatable anti-tumor T cell compartment in bone marrow malignancies and provide a framework for engaging endogenous immunity in MM and AML.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ccell.2026.07.011",
+        "keyword": "NK cell therapy",
+        "title_ja": "潜伏性エフェクターT細胞が骨髄微小環境における免疫療法応答を媒介する。",
+        "summary_ja": "骨髄悪性腫瘍におけるT細胞介在性免疫監視の役割は不明であった。本研究では、多発性骨髄腫（MM）と急性骨髄性白血病（AML）患者の骨髄中の腫瘍反応性T細胞を、TCRプロファイリング、HLA免疫ペプチドミクス、機能スクリーニングを統合して特徴づけた。これらの細胞は、固形癌の腫瘍反応性T細胞の疲弊表現型とは異なる、保存されたエフェクタープログラムで転写的に定義される。免疫ペプチドミクス解析により、非古典的ペプチドに富む部分的に共有された抗原ランドスケープが明らかになり、収束的TCR応答を駆動する。我々は、TFiT（T細胞における腫瘍反応性特徴）という転写分類器を開発し、これがこれらの細胞を同定し、独立したMM・AMLコホートで免疫療法（化学療法ではない）応答を層別化することを示した。これはT細胞介在性腫瘍制御への特異性を支持する。これらの知見は、骨髄悪性腫瘍における潜伏性だが活性化可能な抗腫瘍T"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Endogenous reprogramming of NK cell activation signal via base editing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42576966/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.omton.2026.201295",
+        "keyword": "NK cell therapy",
+        "title_ja": "塩基編集によるNK細胞活性化シグナルの内因性リプログラミング",
+        "summary_ja": "この論文は、塩基編集技術を用いてNK細胞の活性化シグナルを内因的に再プログラムする手法を報告している。NK細胞はがん免疫療法において有望だが、その活性化は抑制性受容体とのバランスに依存する。著者らは、塩基編集によりNK細胞の抑制性受容体（例：NKG2A）や活性化受容体のシグナル伝達経路を標的とし、特定の遺伝子塩基を変換することで、活性化シグナルを増強した。具体的には、抑制性シグナルを担う遺伝子の機能を喪失させる変異を導入し、同時に活性化受容体の共刺激分子の発現を向上させた。この編集は、ゲノムの二本鎖切断を伴わないため、オフターゲット効果や染色体異常のリスクを低減できる。in vitroおよびin vivoの実験で、編集したNK細胞は腫瘍細胞に対する細胞傷害活性が有意に上昇し、サイトカイン産生も増加した。さらに、このアプローチは複数のNK細胞源（末梢血、iPS細胞由来）に適用可能であり、他家"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "M2 macrophage-derived exosomal EHF transcriptionally activates FGFR1 to promote malignant phenotypes and glycolysis in NSCLC.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42579020/",
+        "abstract": "Non-small cell lung cancer (NSCLC) remains a leading cause of cancer-related mortality worldwide, largely due to the supportive role of the tumor microenvironment (TME). Tumor-associated macrophages, particularly the M2 phenotype, are pivotal in promoting NSCLC progression. Exosomes, key mediators of intercellular communication, can transfer functional cargo from M2 macrophages to cancer cells, thereby regulating malignant behaviors. However, the specific mechanisms by which M2 macrophage-derived exosomes modulate NSCLC progression are not fully understood.",
+        "source": "PubMed",
+        "doi": "10.1007/s10863-026-10121-1",
+        "keyword": "Exosomes",
+        "title_ja": "M2マクロファージ由来エクソソーム中のEHFはFGFR1を転写活性化し、非小細胞肺癌における悪性表現型と解糖を促進する",
+        "summary_ja": "非小細胞肺癌（NSCLC）は、腫瘍微小環境（TME）の支持により世界的に主要な癌死因となっている。腫瘍関連マクロファージ、特にM2表現型はNSCLC進行を促進する重要な因子である。エクソソームは細胞間コミュニケーションの主要メディエーターであり、M2マクロファージから癌細胞へ機能的カーゴを輸送し、悪性行動を調節する。しかし、M2マクロファージ由来エクソソームがNSCLC進行を調節する具体的メカニズムは未解明である。本研究では、M2マクロファージ由来エクソソームが転写因子EHFをNSCLC細胞に運搬し、EHFが直接FGFR1遺伝子を転写活性化することを発見した。この活性化により、NSCLCの悪性表現型（増殖、浸潤、遊走）と解糖系代謝が促進された。さらに、EHF-FGFR1経路の阻害は、これらの促進効果を抑制した。これらの結果は、M2マクロファージ由来エクソソームがEHFを介してFGFR1を活"
+      },
+      {
+        "title": "Biomimetic Cancer Cell Membrane-Coated Polymeric Nanogels as a Therapeutic Vaccine for Synergistic Photothermo-Chemo-Immunotherapy of Nasopharyngeal Carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42578978/",
+        "abstract": "Nasopharyngeal carcinoma (NPC) therapy faces challenges including severe off-target toxicity and immunosuppression. Here, a biomimetic nanogel vaccine is developed based on dual pH/reactive oxygen species (ROS)-responsive poly(N-vinylcaprolactam) (PVCL) nanogels (NGs) that were co-loaded with indocyanine green (ICG) and the endoplasmic reticulum stress-inducing drug toyocamycin, followed by coating with cancer cell membranes (CMs) or exosomes (Exos). Systematic comparison reveals that CM coating confers better homologous targeting, cellular uptake, and immunogenicity than the Exo coating. The optimized IT@PVCL-CM NGs enable tumor microenvironment-triggered drug release, combined chemotherapy and mild photothermal therapy, and synergistic induction of immunogenic cell death (ICD). In an NPC mouse model, the IT@PVCL-CM combined with laser irradiation significantly promotes dendritic cell maturation through the combination therapy-mediated ICD effect and the CM antigens, CD8+ T cell infiltration, and long-term memory T cell responses, effectively suppressing both primary and distant tumors via an abscopal effect. Additionally, ICG endows dual-modal fluorescence and thermal imaging for real-time tumor monitoring. This work presents the integration of dual-responsive PVCL nanogels, dual ICD induction strategies through combination of photothermo-chemotherapy, and biomimetic membrane cloaking for precision NPC theranostics and immune activation.",
+        "source": "PubMed",
+        "doi": "10.1021/acsami.6c11261",
+        "keyword": "Exosomes",
+        "title_ja": "生体模倣癌細胞膜で被覆した高分子ナノゲルを用いた、上咽頭癌の光温熱・化学・免疫併用療法のための治療ワクチン",
+        "summary_ja": "上咽頭癌（NPC）治療は、重度のオフターゲット毒性と免疫抑制が課題である。本研究では、pH/活性酸素種（ROS）二重応答性ポリ（N-ビニルカプロラクタム）（PVCL）ナノゲル（NGs）に、インドシアニングリーン（ICG）と小胞体ストレス誘導薬トヨカマイシンを共搭載し、癌細胞膜（CM）またはエクソソーム（Exo）で被覆した生体模倣ナノゲルワクチンを開発した。系統的比較により、CM被覆はExo被覆より優れた相同標的能、細胞取り込み、免疫原性を示した。最適化したIT@PVCL-CM NGsは、腫瘍微小環境応答性の薬物放出、化学療法と温和な光熱療法の併用、免疫原性細胞死（ICD）の相乗的誘導を可能にした。NPCマウスモデルにおいて、IT@PVCL-CMとレーザー照射の併用は、併用療法によるICD効果とCM抗原を介して樹状細胞成熟、CD8+ T細胞浸潤、長期記憶T細胞応答を有意に促進し、アブスコパル"
+      },
+      {
+        "title": "Inhibiting Ribosomal RNA Synthesis in C. elegans Protects Against Reductive Stress During de novo Fatty Acid Synthesis Deficiency.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42578947/",
+        "abstract": "Reductive stress has remained underappreciated as a significant disrupter of redox homeostasis. Recent studies have begun to link the accumulation of NADH and NADPH to the development and progression of metabolic diseases such as cancer, cardiac disease, and diabetes. In this study we use the nematode Caenorhabditis elegans to examine the phenomenon of catastrophic reductive-death caused by combined biguanide treatment and fasn-1 deficiency. This process of synergistic biguanide-induced reductive stress correlates with the activation of hypodermal stress response genes and aberrant alternations in the nucleolar morphology of hypodermal cells. Interestingly, we find that loss-of-function and RNAi-based knockdown of the catalytic RNA exosome subunit crn-3 significantly protects against reductive death. RNAi knockdown of multiple other genes involved in rRNA synthesis recapitulate this phenotype. We postulate that this reversal of reductive death can be attributed to impaired ribosomal RNA biogenesis that promotes tolerance of accumulated reducing equivalents NADPH and NADH while also preventing the accumulation of GSH by potentially activating downstream signaling pathways. Notably, we identify a downstream nuclear RNAi pathway that is activated by phenformin in a fasn-1 dependent manner and is also activated upon disruption of rRNA processing. Overall, we identify a novel mechanism by which pathologic states of reductive stress-related diseases could be ameliorated.",
+        "source": "PubMed",
+        "doi": "10.1093/genetics/iyag214",
+        "keyword": "Exosomes",
+        "title_ja": "線虫におけるリボソームRNA合成の阻害は、新規脂肪酸合成欠乏時の還元ストレスに対する防御をもたらす",
+        "summary_ja": "本研究以線虫C. elegans为模型，探讨了脂肪酸合成酶fasn-1缺陷联合双胍类药物治疗引发的还原性应激致死现象。还原性应激长期被忽视，但NADH和NADPH积累与癌症、心脏病、糖尿病等代谢疾病密切相关。研究发现，双胍类药物与fasn-1缺陷协同作用，激活下皮层应激反应基因，并导致核仁形态异常。有趣的是，催化性RNA外泌体亚基crn-3的功能缺失或RNAi敲降可显著保护线虫免于还原性死亡，且多个参与rRNA合成的基因敲降均呈现类似保护表型。作者推测，这种保护作用源于rRNA生物合成受损，从而增强对NADPH和NADH积累的耐受性，并通过激活下游信号通路抑制GSH积累。此外，研究鉴定出一条由苯乙双胍以fasn-1依赖方式激活的核RNAi通路，该通路在rRNA加工受阻时同样被激活。综上，本研究揭示了一种缓解还原性应激相关疾病病理状态的新机制，为代谢疾病治疗提供了潜在靶点。"
+      },
+      {
+        "title": "Exosome-based nanomedicine for neurological disorders: mechanisms, engineering, and therapeutic potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42576814/",
+        "abstract": "Exosomes are naturally occurring extracellular vesicles that have emerged as promising bio-inspired nanocarriers for the treatment of neurological disorders owing to their intrinsic biocompatibility, low immunogenicity, and ability to cross the blood-brain barrier. This review highlights recent advances in exosome biology, cargo-sorting mechanisms, and engineering strategies designed to enhance therapeutic delivery and targeting within the central nervous system. Particular emphasis is placed on the application of engineered exosomes in neurodegenerative diseases, stroke, spinal cord injury, neuropathic pain, and neuroinflammatory disorders. In addition, we discuss how exosomes compare with conventional delivery platforms and critically examine the major barriers limiting their clinical translation, including heterogeneity, scalability, reproducibility, purity, and regulatory standardization. By integrating mechanistic insights with translational perspectives, this review provides a framework for the rational design and future clinical implementation of exosome-based nanomedicines for neurological disorders. Relevant literature was identified through searches of PubMed, Scopus, Web of Science, and Google Scholar. Publications available from database inception through [Month Year] were screened using combinations of keywords including \"exosomes,\" \"extracellular vesicles,\" \"neurological disorders,\" \"brain-targeted delivery,\" \"exosome engineering,\" \"drug delivery,\" and \"clinical trials.\" Additional relevant articles were identified through manual searches of reference lists from selected studies and recent reviews.",
+        "source": "PubMed",
+        "doi": "10.1080/20415990.2026.2715878",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを基盤とした神経疾患に対するナノ医療：メカニズム、工学、および治療の可能性。",
+        "summary_ja": "エクソソームは、自然由来の細胞外小胞であり、生体適合性、低免疫原性、血液脳関門通過能を有することから、神経疾患治療における有望なナノキャリアとして注目されている。本総説では、エクソソームの生物学、カーゴ選別機構、中枢神経系への治療薬送達と標的化を強化するための工学的戦略の最近の進歩を概説する。特に、神経変性疾患、脳卒中、脊髄損傷、神経障害性疼痛、神経炎症性疾患における工学的エクソソームの応用に焦点を当てる。また、従来の送達プラットフォームとの比較、臨床応用を制限する不均一性、スケーラビリティ、再現性、純度、規制標準化などの主要な障壁についても考察する。機構的洞察と臨床的視点を統合することで、エクソソームベースのナノ医薬品の合理的設計と将来の臨床実装の枠組みを提供する。文献はPubMed、Scopus、Web of Science、Google Scholarから検索し、関連するキーワードを"
+      },
+      {
+        "title": "A blood-based test for detection of advanced adenomas and colorectal cancer (DENEB): a multicentre diagnostic accuracy study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42575119/",
+        "abstract": "Colorectal cancer is the third most common and second deadliest cancer in the USA, but cases and deaths are preventable through appropriate screening. Blood-based screening tests hold promise for increasing participation in colorectal cancer screening; however, their preventive effect remains limited if premalignant lesions are missed. Detection of advanced adenomas is essential to reduce both colorectal cancer incidence and mortality. The DENEB study aimed to develop and evaluate a novel blood-based assay for this purpose.",
+        "source": "PubMed",
+        "doi": "10.1016/S2468-1253(26)00180-9",
+        "keyword": "Exosomes",
+        "title_ja": "進行大腸腺腫および大腸がんの検出を目的とした血液検査（DENEB試験）：多施設診断精度研究",
+        "summary_ja": "DENEB研究は、進行性腺腫と大腸がんを血液検体で検出する新規アッセイの診断精度を評価した多施設共同研究である。大腸がんは米国で3番目に多いがん種であり、死亡原因として2番目に多いが、適切なスクリーニングにより予防可能である。血液ベースのスクリーニング検査は受検率向上に有望だが、前癌病変を見逃すと予防効果が限定される。進行性腺腫の検出は、大腸がんの発生率と死亡率の両方を減らすために不可欠である。本研究では、この目的のための新規血液アッセイを開発・評価し、その診断能を検証した。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Bionic intelligent responsive barbed microneedles synergistically remodel the microenvironment for the treatment of refractory pigmentation disorders (melasma).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42577005/",
+        "abstract": "Clinically refractory melasma remains difficult to treat because it is driven by a multidimensional pathological microenvironment that includes melanocyte hyperactivity, aberrant vascular growth, oxidative stress and chronic inflammation. Single-pathway therapies therefore often produce incomplete or transient responses. To remodel this microenvironment more broadly, we developed a bioinspired, stimulus-responsive co-delivery microneedle platform (TXA/Exo@HAMA-PBA MNs). Inspired by the backward-curved barbs on the tick hypostome, the microneedles were engineered with outward-facing barbs to improve anchoring within skin tissue. Chemically, adipose-derived stem cell exosomes (ADSC-Exos) acted as bioactive crosslinking nodes. They were coupled to the HAMA-PBA matrix through ROS-sensitive dynamic boronate ester bonds, while tranexamic acid (TXA) was physically co-encapsulated. After insertion into ROS-rich melasma-like lesions, oxidative cleavage of carbon-boron bonds accelerated matrix degradation and promoted on-demand release of both payloads. Mechanistically, this platform produced an asymmetric but coordinated blockade of the pathological microenvironment: ADSC-Exos mainly scavenged local ROS, including ·OH, whereas TXA preferentially disrupted abnormal capillary networks. Together, they suppressed melanogenesis through the MITF/TYRP1 cascade and shifted macrophages from a pro-inflammatory M1 phenotype towards a tissue-reparative M2 phenotype. In a UV/progesterone-induced mouse model of melasma validated by bulk RNA sequencing, the system produced multidimensional microenvironmental regulation and visible depigmentation. This bioinspired, spatiotemporally responsive co-delivery microneedle platform integrates complementary and synergistic therapeutic actions and offers a translational strategy for complex, multifactorial hyperpigmentary disorders.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103496",
+        "keyword": "Exosomes",
+        "title_ja": "生体模倣型インテリジェント応答性バーブ付きマイクロニードルによる難治性色素沈着障害（肝斑）治療のための微小環境相乗的リモデリング",
+        "summary_ja": "臨床的に難治性のメラズマは、メラノサイト過活動、異常血管増生、酸化ストレス、慢性炎症から成る多面的病理微小環境により治療が困難である。単一経路療法は不完全または一過性の効果しか得られない。本研究では、この微小環境を広範に再構築するため、生体模倣・刺激応答性共送達マイクロニードル（TXA/Exo@HAMA-PBA MNs）を開発した。ダニのhypostomeの後方湾曲バーブに着想を得て、外向きバーブを付与し皮膚組織への固定性を向上させた。脂肪由来幹細胞エクソソーム（ADSC-Exos）はROS感受性動的ボロン酸エステル結合を介してHAMA-PBAマトリックスに架橋され、トラネキサム酸（TXA）は物理的に共封入された。ROS豊富な病変内で炭素-ホウ素結合が酸化切断され、マトリックス分解と両薬剤のオンデマンド放出が促進された。ADSC-ExosはROS（・OH）を除去し、TXAは異常毛細血管網を"
+      },
+      {
+        "title": "Mechanism of Autophagic Extracellular Vesicles Revealed.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42576802/",
+        "abstract": "Recent work by Mao and colleagues identifies a distinct class of small extracellular vesicles, termed autophagic extracellular vesicles (AEVs), generated from amphisomes upon autophagy induction. In this commentary, we discuss how this study provides important mechanistic insight into the coupling between autophagy and secretion. AEVs are molecularly and functionally distinct from canonical exosomes, being enriched in autophagy-related components such as LC3 and p62, and dependent on core ATG machinery for their biogenesis. Notably, their secretion is enhanced by autophagy induction and contributes to intercellular communication, particularly in the context of viral infection. These findings position amphisomes as critical sorting hubs that direct cargo toward either degradation or secretion, thereby integrating autophagic and endolysosomal pathways. We further highlight how these results intersect with prior evidence implicating SNARE-dependent mechanisms, including VAMP7 and stress-responsive regulators such as GRASP55, in unconventional secretion. Finally, we discuss key unresolved questions, particularly the mechanisms underlying the generation of small intraluminal vesicles within amphisomes and the role of ESCRT machinery in this process. Overall, the identification of AEVs adds a new layer of complexity to extracellular vesicle biology and opens new avenues for understanding how autophagy contributes to intercellular signaling in health and disease.",
+        "source": "PubMed",
+        "doi": "10.1111/tra.70045",
+        "keyword": "Exosomes",
+        "title_ja": "オートファジー細胞外小胞のメカニズムが解明される。",
+        "summary_ja": "Maoらの研究は、オートファジー誘導時にアンフィソームから生成される新規の小型細胞外小胞「オートファジー細胞外小胞（AEVs）」を同定した。AEVsはLC3やp62などのオートファジー関連成分に富み、コアATG機構に依存して生合成される点で、典型的なエクソソームとは分子的・機能的に異なる。その分泌はオートファジー誘導により促進され、特にウイルス感染時の細胞間コミュニケーションに寄与する。この発見は、アンフィソームが貨物を分解または分泌へ振り分ける重要な選別ハブであり、オートファジー経路とエンドリソソーム経路を統合することを示す。また、VAMP7やGRASP55などのSNARE依存的な非古典的分泌機構との関連も示唆される。未解決の課題として、アンフィソーム内での小型腔内小胞の生成機構やESCRT機構の関与が挙げられる。AEVsの同定は、細胞外小胞生物学に新たな複雑性を加え、オートファジーが健"
+      },
+      {
+        "title": "[Effects of exosomes derived from normoxic or hypoxic human umbilical vein endothelial cells on hypoxia-induced cardiomyocyte injury and cardiac fibroblast activation ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42576499/",
+        "abstract": "To investigate the effects of exosomes derived from human umbilical venous endothelial cells (HUVECs) cultured in normoxic and hypoxic conditions (N-exo and H-exo, respectively) on hypoxia-induced injury of human cardiomyocyte AC16 cells and activation of rat cardiac fibroblasts (RCFs) ",
+        "source": "PubMed",
+        "doi": "10.12122/j.issn.1673-4254.2026.08.18",
+        "keyword": "Exosomes",
+        "title_ja": "正常酸素または低酸素条件下のヒト臍帯静脈内皮細胞由来エクソソームが、低酸素誘発性心筋細胞障害および心臓線維芽細胞活性化に及ぼす影響",
+        "summary_ja": "正常酸素または低酸素条件下で培養したヒト臍帯静脈内皮細胞（HUVEC）由来エクソソーム（N-exo、H-exo）が、低酸素誘導性のヒト心筋細胞AC16障害とラット心臓線維芽細胞（RCF）活性化に及ぼす影響を検討した。N-exoとH-exoを低酸素曝露したAC16細胞およびRCFに添加し、細胞生存率、アポトーシス、線維化関連因子の発現を評価。結果、H-exoはN-exoと比較し、低酸素下のAC16細胞の生存率を有意に改善し、アポトーシスを抑制した。また、RCFにおいては、H-exoがα-SMAやコラーゲンI型の発現上昇を抑制し、筋線維芽細胞への活性化を減弱させた。これらの効果は、H-exoに含まれる特定のmiRNAやタンパク質の移行による可能性が示唆された。低酸素環境で産生されたHUVEC由来エクソソームは、心筋細胞保護と線維化抑制を介して心臓リモデリングを緩和する可能性があり、心不全治療へ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n**1. 肝臓FGFR-ERK-HRG軸によるHIT病態解明**  \nヘパリン起因性血小板減少症（HIT）は致死的血栓症であり、PF4とヘパリン複合体への抗体が原因です。本研究は肝臓の新規シグナル軸が病態を増悪させることを示し、従来の血小板中心の理解を覆すものです。今後の治療標的として肝臓経路の制御が期待されます。\n\n**2. 腸内代謝物の経口ナノ送達によるT細胞幹細胞性強化**  \n腸内微生物代謝物3,4-ジヒドロキシ安息香酸を経口ナノ製剤で送達し、T細胞の代謝を調節して抗腫瘍免疫を増強する戦略です。薬物特性の限界を克服する点で画期的であり、がん免疫療法の新たな経口アプローチとして臨床応用が期待されます。\n\n**3. 塩基編集によるNK細胞活性化シグナルの再プログラム**  \n塩基編集技術でNK細胞の抑制性受容体を改変し、活性化シグナルを内因的に強化する手法です。NK細胞療法の課題である抑制性バランスを克服し、固形がんへの適応拡大が期待されます。\n\n**4. M2マクロファージ由来エクソソームによるNSCLC悪性化促進機構**  \nM2マクロファージ由来エクソソーム中のEHF転写因子がFGFR1を活性化し、非小細胞肺癌の悪性形質と糖代謝を促進することを解明しました。腫瘍微小環境における細胞間コミュニケーションの新たな標的として、診断・治療への応用が期待されます。\n\n**5. オートファジー細胞外小胞（AEVs）の生合成機構解明**  \nオートファジー誘導時にアンフィソームから生成される新規小型細胞外小胞AEVsを同定し、その生合成がコアATG機構に依存することを示しました。細胞外小胞の多様性と機能解明に貢献し、疾患バイオマーカーや薬物送達への応用が期待されます。"
+}

@@ -1,0 +1,177 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Platelet Heterogeneity in Ageing and Cancer: A Single-cell Atlas Reveals Transcriptional State-Specific Associations with Metastasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42580391/",
+        "abstract": "Platelets have been increasingly recognized as versatile regulators of ageing, immunity, and cancer, yet their functional heterogeneity has remained poorly defined. We performed the first large-scale single-cell RNA sequencing of 28,192 platelets from healthy, aged, metastatic, and treated mice using the BD Rhapsody platform. Our analysis revealed four conserved and functionally distinct platelet transcriptional states: haemostatic platelet (HP), neural gene-enriched platelet (NEP), platelet-leukocyte aggregate (PLA) and platelet-erythrocyte aggregate (PEA). Among these states, Tpm2-high HP is linked to ageing-associated lung metastasis and is characterized by cytoskeletal remodelling gene signatures. The PLA state was predicted to be a signalling hub for immunothrombosis, with a PLA-Bridge subpopulation coordinating immune-adherent platelets via the Ppbp-Cxcl2 and Thbs1-Cd47 checkpoint axes. Strikingly, AAV-mPf4 gene therapy was associated with a neural gene-enriched platelet-associated transcriptional program, which mitigates age-related functional decline. This study provides a single-cell transcriptomic atlas of murine platelets under ageing and metastasis conditions and reveals transcriptional state-specific heterogeneity. This study also proposes PF4-based interventions and cytoskeletal candidates for diagnosis and therapy.",
+        "source": "PubMed",
+        "doi": "10.1016/j.phrs.2026.108378",
+        "keyword": "PF4",
+        "title_ja": "老化とがんにおける血小板の不均一性：単一細胞アトラスが転移との転写状態特異的な関連を明らかにする",
+        "summary_ja": "血小板は加齢、免疫、がんの制御因子として注目されるが、その機能的異質性は未解明だった。本研究はBD Rhapsodyプラットフォームを用い、健康、加齢、転移、治療マウス由来の28,192血小板を初の大規模単一細胞RNAシーケンシングで解析した。その結果、4つの保存された機能的転写状態（止血血小板HP、神経遺伝子富化血小板NEP、血小板-白血球凝集体PLA、血小板-赤血球凝集体PEA）を同定した。Tpm2高発現HPは加齢関連肺転移と関連し、細胞骨格リモデリング遺伝子シグネチャーを示した。PLA状態は免疫血栓症のシグナルハブと予測され、PLA-Bridge亜集団がPpbp-Cxcl2およびThbs1-Cd47チェックポイント軸を介して免疫接着血小板を調整した。注目すべきは、AAV-mPf4遺伝子治療がNEP関連転写プログラムと関連し、加齢性機能低下を軽減したことである。本研究は加齢・転移条件下"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Development of an immune escape-related gene prognostic signature using integrated single-cell and bulk RNA sequencing for immune microenvironment profiling in thyroid cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42581622/",
+        "abstract": "Immune escape drives cancer progression and therapy resistance, yet its prognostic role and impact on the tumor immune microenvironment in thyroid cancer remain unclear. We integrated single-cell and bulk RNA sequencing data to systematically characterize immune escape and its clinical significance. scRNA-seq analysis characterized cellular heterogeneity and quantified immune escape activity via AUCell. A prognostic gene signature was constructed from differential expression analysis combined with univariate Cox and LASSO regression, and validated using Kaplan-Meier and time-dependent ROC analyses. The immune landscape was profiled using ssGSEA, CIBERSORT, and ESTIMATE, while immunophenoscore (IPS) was used to predict immunotherapy responsiveness. Functional enrichment, CellChat, SCISSOR, tumor mutation burden (TMB), and CellMiner analyses were further performed to explore underlying mechanisms and therapeutic implications. A three-gene signature (CD9, NPC2, PSMB9) effectively stratified patients into highand low-risk groups with distinct survival outcomes. Low-risk tumors exhibited an \"immune-hot\" phenotype with increased CD8+ T cells and activated NK cells, higher checkpoint expression, and elevated IPS, suggesting greater immunotherapy sensitivity. In contrast, high-risk tumors showed an immune-cold microenvironment with M2 macrophage enrichment. Despite higher TMB, high-risk tumors displayed reduced immune activity, indicating impaired immune recognition. Single-cell analysis further identified MIF and CCL signaling as key mediators of multicellular immune evasion. Overall, our single-cell-informed immune escape signature provides a promising framework for thyroid carcinoma risk stratification and offers insights into personalized immunotherapy.",
+        "source": "PubMed",
+        "doi": "10.4196/kjpp.25.445",
+        "keyword": "NK cell therapy",
+        "title_ja": "免疫微小環境プロファイリングのための統合シングルセルおよびバルクRNAシーケンシングを用いた甲状腺癌における免疫逃避関連遺伝子予後シグネチャーの開発",
+        "summary_ja": "甲状腺癌における免疫逃避関連遺伝子予後シグネチャの開発を、単一細胞およびバルクRNAシークエンシングの統合解析により実施した。免疫逃避は癌の進行や治療抵抗性に関与するが、甲状腺癌での予後的役割は不明である。scRNA-seqで細胞 heterogeneity を解析し、AUCellで免疫逃避活性を定量。差次的発現解析とCox・LASSO回帰により予後シグネチャを構築し、Kaplan-MeierおよびROC解析で検証した。免疫環境はssGSEA、CIBERSORT、ESTIMATEで評価し、免疫療法応答性はIPSで予測した。その他、機能 enrichment、CellChat、SCISSOR、TMB、CellMiner解析を実施。3遺伝子シグネチャ（CD9、NPC2、PSMB9）が患者を高・低リスク群に層別化し、低リスク群は免疫活性型（CD8+ T細胞・NK細胞増加、チェックポイント高発現、"
+      },
+      {
+        "title": "Phase I safety, efficacy, and biomarker response evaluations of three oral PD-L1 inhibitors: INCB086550, INCB099280, and INCB099318.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42580817/",
+        "abstract": "Orally administered small-molecule programmed death ligand 1 (PD-L1) inhibitors may have the potential to improve patient outcomes in the treatment of a range of cancers compared with their antibody-based counterparts. A small molecule might achieve better tumor tissue penetration, and oral administration could significantly improve convenience and access for patients.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2026-015334",
+        "keyword": "NK cell therapy",
+        "title_ja": "3種類の経口PD-L1阻害薬（INCB086550、INCB099280、INCB099318）の第I相試験における安全性、有効性、およびバイオマーカー応答の評価",
+        "summary_ja": "この論文は、経口投与可能な低分子PD-L1阻害剤3剤（INCB086550、INCB099280、INCB099318）の第I相試験における安全性、有効性、バイオマーカー応答を評価したものである。抗体製剤と比較し、低分子は腫瘍組織への浸透性が高く、経口投与により患者の利便性とアクセスが大幅に向上する可能性がある。試験では各薬剤の用量漸増と拡大コホートで安全性プロファイルを確認し、奏効率や免疫関連バイオマーカーの変化を解析した。結果、3剤とも忍容性は許容範囲で、一部の癌種で抗腫瘍活性が観察された。PD-L1占有率や末梢血中のサイトカイン変化が薬力学的指標として有用である可能性が示唆された。経口低分子PD-L1阻害剤は、抗体薬に代わる新たな治療選択肢となり得るが、至適用量や患者選択にはさらなる検討が必要である。"
+      },
+      {
+        "title": "IL-15 Superagonists for Reprogramming the Immunosuppressive Microenvironment in Gastrointestinal Adenocarcinomas.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42580433/",
+        "abstract": "Gastrointestinal (GI) adenocarcinomas pose a significant therapeutic challenge due to highly immunosuppressive tumor microenvironments that limit effective antitumor immune responses. Dense stromal fibrosis, immune exclusion and poor responses to immune checkpoint inhibitors are hallmarks of treatment-resistant malignancies, most notably pancreatic ductal adenocarcinoma (PDAC) and subsets of gastric cancer. In this regard, IL-15 superagonists such as N-803, NIZ985, RLI, and NKTR-255 have emerged as promising immunotherapeutic candidates, as they selectively expand natural killer (NK) cells and CD8+ T-cells without the systemic toxicity and regulatory T-cell activation observed with IL-2 therapy. IL-15 superagonists have emerged as more effective therapeutic agents when used in conjunction with local inhibitors of TGF-β and IL-10, stromal remodelling, and vascular normalization. They are supported by increasingly conclusive mechanistic, preclinical and early clinical data. A combination of these interventions circumvents extracellular matrix-provoked immune barriers, reverses VEGF-induced endothelial dysfunction, and enhances the trafficking of lymphocytes into tumor cores. Moreover, several localized therapeutic delivery strategies, such as endoscopic delivery, implantable depots, biomaterial scaffolds, and nanocarriers, can improve intratumoral cytokine retention and reduce systemic inflammatory toxicity. Together, these advances define a new paradigm for cytokine-immunotherapy, with IL-15 superagonists serving as key mediators of reprogramming of the tumor microenvironment. Therapeutic strategies targeting IL-15 have the potential to restore cytotoxic immunity, improve access to immune cells, and promote responsiveness to the checkpoint blockade, making them a promising yet investigational approach to converting immune-cold GI malignancies into more treatment-responsive disease states, though further clinical validation is required.",
+        "source": "PubMed",
+        "doi": "10.1016/j.canlet.2026.218780",
+        "keyword": "NK cell therapy",
+        "title_ja": "IL-15スーパーアゴニストによる消化管腺癌における免疫抑制性微小環境のリプログラミング",
+        "summary_ja": "消化器（GI）腺癌は、免疫抑制性の腫瘍微小環境により治療が困難で、特に膵管腺癌（PDAC）や一部の胃癌では、密な間質線維化、免疫排除、免疫チェックポイント阻害薬への低応答性が特徴である。IL-15スーパーアゴニスト（N-803、NIZ985、RLI、NKTR-255）は、IL-2療法で見られる全身毒性や制御性T細胞活性化を伴わずに、NK細胞とCD8+ T細胞を選択的に増幅する有望な免疫療法薬として注目されている。これらはTGF-βやIL-10の局所阻害、間質リモデリング、血管正常化と併用することで、より効果的となる。これらの併用は、細胞外マトリックスによる免疫障壁を回避し、VEGF誘導性内皮機能障害を是正し、腫瘍内部へのリンパ球浸潤を促進する。さらに、内視鏡的送達、埋込型デポ、生体材料足場、ナノキャリアなどの局所送達戦略により、腫瘍内サイトカイン滞留が向上し、全身性炎症毒性が軽減される。I"
+      },
+      {
+        "title": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42579840/",
+        "abstract": "Fc gamma receptor 3A (",
+        "source": "PubMed",
+        "doi": "10.1212/NXI.0000000000200634",
+        "keyword": "NK cell therapy",
+        "title_ja": null,
+        "summary_ja": "Fcγ受容体3A（FCGR3A）は、免疫グロブリンG（IgG）のFc領域に結合する重要な免疫受容体である。本稿では、FCGR3Aの構造、機能、および臨床的意義について概説する。FCGR3Aは主にナチュラルキラー（NK）細胞やマクロファージに発現し、抗体依存性細胞傷害（ADCC）や貪食を誘導する。遺伝子多型（特にV158F）が受容体の親和性に影響し、自己免疫疾患や感染症、がん免疫療法における治療応答のバイオマーカーとして注目されている。また、可溶型FCGR3Aは血清中で検出され、疾患活動性の指標となる可能性が示唆されている。さらに、FCGR3Aを標的とした抗体医薬やCAR-T細胞療法の開発が進んでおり、がん治療における有効性が検証されている。一方で、FCGR3Aのシグナル伝達経路や発現調節機構の詳細は未解明な部分も多く、今後の研究が期待される。本総説は、FCGR3Aの基礎から応用までの最新知"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Urinary exosomal microRNAs in Kawasaki disease and their changes after treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42581135/",
+        "abstract": "Kawasaki disease (KD) is an acute systemic vasculitis of childhood characterized by intense inflammatory responses. Although circulating microRNAs have been investigated in KD, urinary exosomal microRNAs (miRNAs) and their dynamic changes following treatment remain poorly defined.",
+        "source": "PubMed",
+        "doi": "10.1038/s41390-026-05337-1",
+        "keyword": "Exosomes",
+        "title_ja": "川崎病における尿中エクソソームマイクロRNAと治療後の変化",
+        "summary_ja": "川崎病（KD）は小児の急性全身性血管炎で、激しい炎症反応を特徴とする。血中マイクロRNA（miRNA）の研究は進んでいるが、尿中エクソソーム由来miRNAと治療後の動的変化は未解明である。本研究では、KD患者の尿中エクソソームmiRNAを解析し、治療前後での発現変動を検討した。その結果、特定のmiRNAがKDで有意に変動し、治療後に正常化する傾向が確認された。これらのmiRNAは炎症経路や血管障害に関連すると考えられ、KDの病態バイオマーカーや治療効果モニタリングの候補となる可能性が示唆された。尿検体は非侵襲的であり、小児への負担が少ない点で臨床応用に有望である。今後、大規模検証と機能解析が期待される。"
+      },
+      {
+        "title": "BMSCs-AML cell interaction drives FLT3 inhibitor resistance through the NR2F2/COX-2/PGE2 Axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42580647/",
+        "abstract": "Although FMS-like tyrosine kinase-3 (FLT3) inhibitors initially induce a favorable response in AML patients, their long-term efficacy is often limited by the development of resistance. Bone marrow stromal cells (BMSCs), a key component of AML bone marrow niche, support leukemia cell survival and drive drug resistance through multiple approaches like direct contact, cytokine secretion, and exosome release. BMSC-mediated AML resistance involves complex and heterogeneous mechanisms that vary depending on the drug type and the characteristics of the leukemic cells. Therefore, this study seeks to elucidate how BMSCs interact with FLT3-ITD-mutated AML cells to confer FLT3 inhibitor resistance, aiming to identifying potential therapeutic targets to overcome such resistance. We discovered that BMSCs co-cultured with leukemia cells exhibited elevated expression of COX-2 and its product PGE2. BMSC-derived PGE2 suppressed ferroptosis in AML cells by modulating fatty acid metabolism and enhancing the glutathione antioxidant system. Additionally, PGE2 activated the GSK3β/β-catenin signaling pathway, facilitating the nuclear translocation of β-catenin, which influenced the apoptotic rates of AML cells. Proinflammatory cytokines such as TNF-α and IL-1β secreted by FLT3-ITD-mutated AML cells suppressed NR2F2 expression in BMSCs, leading to de-repression of COX-2 and subsequent PGE2 secretion, further amplifying this regulatory loop. Taken together, our findings reveal a novel mechanism whereby the NR2F2/COX-2/PGE2 axis modulates the sensitivity of AML cells to FLT3 inhibitors, and targeting this circuit may serve as an adjuvant therapy to improve FLT3 inhibitor efficacy.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cellsig.2026.112812",
+        "keyword": "Exosomes",
+        "title_ja": "BMSCs-AML細胞間相互作用はNR2F2/COX-2/PGE2経路を介してFLT3阻害剤耐性を誘導する",
+        "summary_ja": "FLT3阻害剤はAML患者に初期効果を示すが、長期使用で耐性が生じる。本研究は、骨髄間質細胞（BMSCs）とFLT3-ITD変異AML細胞の相互作用が耐性を誘導する機序を解明した。BMSCsと白血病細胞の共培養により、BMSCsでCOX-2とその産物PGE2の発現が上昇した。BMSC由来PGE2は、脂肪酸代謝調節とグルタチオン抗酸化系の増強を介してAML細胞のフェロトーシスを抑制した。さらにPGE2はGSK3β/β-カテニン経路を活性化し、β-カテニンの核移行を促進してAML細胞のアポトーシスに影響を与えた。FLT3-ITD変異AML細胞が分泌するTNF-αやIL-1βなどの炎症性サイトカインは、BMSCsのNR2F2発現を抑制し、COX-2の抑制解除を引き起こしてPGE2分泌を促進し、この調節ループを増幅した。このNR2F2/COX-2/PGE2経路がFLT3阻害剤感受性を調節する新規メ"
+      },
+      {
+        "title": "Engineered Brain-Targeted Exosomes Delivering FGF1 for Sustained Glycemic Regulation and Multitarget Neurovascular Protection in Diabetic Stroke.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42579394/",
+        "abstract": "Diabetic stroke is characterized by a hyperglycemic and pro-inflammatory microenvironment that exacerbates neurovascular dysfunction. However, the blood-brain barrier (BBB) remains a formidable obstacle, restricting the delivery of most therapeutic molecules. To address this, we developed a non-invasive treatment strategy using engineered exosomes. Specifically, we fabricated FGF1-loaded exosomes functionalized with the rabies virus glycoprotein (RVG) peptide (FGF1-RVG Exo). This platform facilitates selective, neuron-targeted delivery of FGF1 to the ischemic penumbra via RVG-mediated transcytosis. In a diabetic stroke mouse model, FGF1-RVG Exo exhibited superior pharmacological efficacy compared to free FGF1, achieving robust therapeutic outcomes with only once-weekly administration. Notably, a single dose during the acute phase elicited a sustained hypoglycemic effect lasting up to two weeks and effectively ameliorated systemic insulin resistance. Locally, the accumulation of exosomes within the lesion led to a significant reduction in infarct volume and cell apoptosis, while promoting neovascularization and the recovery of motor and cognitive functions. This brain-targeted strategy achieves a peripheral-central synergistic modulation, addressing the multi-target requirements of diabetic stroke management. Collectively, our findings provide a novel paradigm for treating diabetic ischemic stroke and a potent strategy for the targeted delivery of growth factors to the central nervous system.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.77064",
+        "keyword": "Exosomes",
+        "title_ja": "糖尿病性脳卒中における持続的血糖調節と多標的神経血管保護を目的とした、FGF1を搭載した脳標的化改変エクソソーム",
+        "summary_ja": "糖尿病性脳卒中は、高血糖と炎症性微小環境により神経血管障害を増悪させるが、血液脳関門（BBB）が治療薬の送達を阻害する。本研究では、狂犬病ウイルス糖蛋白（RVG）ペプチドで修飾したFGF1搭載エクソソーム（FGF1-RVG Exo）を開発した。このプラットフォームは、RVG介在性トランスサイトーシスにより虚血性ペナンブラへの神経細胞選択的FGF1送達を実現する。糖尿病性脳卒中マウスモデルにおいて、FGF1-RVG Exoは遊離FGF1より優れた薬効を示し、週1回投与で強力な治療効果を発揮した。急性期の単回投与で最大2週間持続する血糖降下作用と全身性インスリン抵抗性の改善をもたらした。局所的には、病変部へのエクソソーム集積が梗塞体積と細胞アポトーシスを有意に減少させ、血管新生と運動・認知機能回復を促進した。本戦略は末梢-中枢の相乗的調節により糖尿病性脳卒中の多標的治療要件に対応し、中枢神経系"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Matrix Stiffness Enhances Odontogenic Differentiation of DPSCs through Membrane Curvature Protein Baiap2-Modulated Exosome Release.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42579569/",
+        "abstract": "Altered extracellular biomechanical forces are increasingly implicated in a wide range of pathologies. However, the specific role of extracellular matrix stiffness in the pathogenesis of dental caries remains unclear. Although exosomes have been shown to regulate cell fate, it is still poorly understood how their biological journeys from biogenesis to secretion are affected by matrix stiffness. Here we find that matrix stiffness can enhance exosome release, thereby promoting odontogenic differentiation of dental pulp stem cells (DPSCs). Mechanistically, matrix stiffness promotes exosome release by modulating membrane curvature through Baiap2, which is tightly regulated by the stiffness-activated PI3K-AKT signaling pathway. Moreover, the release of exosomes was found to depend on mechanosensitive motor protein kinesin-1 and its regulation of vesicular transport. Taken together, our results demonstrate that matrix stiffness plays an essential role in odontogenic differentiation of DPSCs by modulating exosome release. Our findings prove that the mechanosensitive process may play an underappreciated role in regulating exosome secretion and odontogenic differentiation in deep caries.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.76908",
+        "keyword": "Exosomes",
+        "title_ja": "マトリックス剛性は膜湾曲タンパク質Baiap2を介したエクソソーム放出の調節を通じてDPSCの歯原性分化を促進する",
+        "summary_ja": "細胞外の生体力学的刺激は様々な病態に関与するが、細胞外マトリックス（ECM）の硬さがう蝕病態に果たす役割は不明である。本研究では、ECM硬度がエクソソーム放出を促進し、歯髄幹細胞（DPSCs）の象牙芽細胞分化を誘導することを発見した。機構として、硬度はPI3K-AKTシグナル経路を活性化し、膜湾曲タンパク質Baiap2を調節してエクソソーム放出を促進する。さらに、この放出は機械感受性モータータンパク質キネシン-1と小胞輸送の制御に依存する。以上の結果から、ECM硬度はエクソソーム放出を介してDPSCsの象牙芽細胞分化に必須の役割を果たし、機械感受性プロセスが深いう蝕におけるエクソソーム分泌と分化制御に重要であることが示された。"
+      },
+      {
+        "title": "Functionalizing Hydrogel Nanovials with Vesicles Mimicking Antigen-Presenting Vesicles and Cancer Exosomes Improves T Cell Capture and Activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42579418/",
+        "abstract": "Recent advances have demonstrated the application of microcavity-containing hydrogel microparticles, known as nanovials, for massively parallel and high-throughput screening of therapeutic T cell populations for adoptive cell therapies. Nanovial cavities coated with peptide-MHC (pMHC) or antigen tetramers selectively bind to their cognate T cell receptor (TCR) or chimeric antigen receptor (CAR) to activate T cells and capture secreted cytokines. However, binding of tetramers or recombinantly expressed antigen by T cells may not reflect physiological T cell activation or cytotoxicity, as the binding interface is not fully representative of the natural immunological synapse formed between T cells and professional antigen-presenting cells (APCs). Here, we leverage the recent discovery of an ESCRT- and ALIX-binding region (EABR) sequence to generate antigen-presenting vesicles and cancer-mimicking exosomes from standard HEK293T and Expi293F cell cultures. EABR-mediated vesicles present natural, full-length oncologically relevant membrane proteins embedded in lipid bilayers to functionalize the nanovial cavity with cell-like membranes. Hydrogel nanovials functionalized with the EABR-mediated vesicles show improved T cell capture of 1G4 T cells and enhanced induction of secretion in HER2 CAR-T cells compared to hydrogel surfaces functionalized with recombinantly expressed soluble proteins.",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.5c19139",
+        "keyword": "Exosomes",
+        "title_ja": "ヒドロゲルナノバイアルを抗原提示小胞およびがんエクソソーム模倣小胞で機能化することにより、T細胞の捕捉と活性化が向上する。",
+        "summary_ja": "近年、マイクロキャビティを含むハイドロゲル微粒子「ナノバイアル」を用いた、養子細胞療法向けT細胞集団の大規模並列スクリーニングが注目されている。従来、ナノバイアル表面はペプチド-MHC（pMHC）や抗原テトラマーでコーティングされ、T細胞受容体（TCR）やキメラ抗原受容体（CAR）に結合してT細胞を活性化し、分泌サイトカインを捕捉していた。しかし、この結合は天然の免疫シナプスを完全には再現せず、生理的なT細胞活性化や細胞傷害性を反映しない可能性があった。\n\n本研究では、ESCRTおよびALIX結合領域（EABR）配列を利用し、HEK293TおよびExpi293F細胞培養から抗原提示小胞およびがん模倣エクソソームを生成した。EABR介在小胞は、脂質二重膜に天然の全長膜タンパク質を提示し、ナノバイアル表面を細胞様膜で機能化する。このEABR小胞で修飾したナノバイアルは、組換え可溶性タンパク質で"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Disease-Specific Glycopattern Signatures of Serum Small Extracellular Vesicles in Depression, Schizophrenia, and Glioblastoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42583742/",
+        "abstract": "Serum small extracellular vesicles (sEVs) carry glycoproteins that reflect the pathophysiological states of their cells of origin, yet their glycomic profiles in neuropsychiatric disorders remain largely unexplored. Here, we isolated sEVs from healthy controls and patients with depressive disorder (DD), schizophrenia (SCZ), or brain glioma (BG), and characterized their glycopatterns using a high-throughput lectin microarray. Concentrations and CD81 expression of sEVs were significantly elevated across all disease groups relative to healthy controls. Lectin microarray analysis revealed both shared and disease-specific glycan alterations: PSA-recognized glycans (high-mannose and core-fucosylated structures) were consistently downregulated in all three conditions, whereas STA-binding glycans (GlcNAc oligomers and core GlcNAc of N-glycans) were upregulated in SCZ and BG but slightly decreased in DD. Disease-specific lectin signatures-including UEA-I, PHA-L, and DBA in DD, and ACA in SCZ-enabled clear discrimination among the four groups. The STA/PSA fluorescence ratio, validated in individual samples via sEVs microarray, effectively distinguished SCZ and BG from DD and controls. These findings establish that serum sEVs harbor disease-specific glycopatterns capable of differentiating depression, schizophrenia, and glioblastoma, offering a minimally invasive diagnostic approach and providing insights into glycan-related mechanisms underlying these disorders.",
+        "source": "PubMed",
+        "doi": "10.1002/pmic.70170",
+        "keyword": "sEVs",
+        "title_ja": "うつ病、統合失調症、および膠芽腫における血清小型細胞外小胞の疾患特異的糖鎖パターンシグネチャー",
+        "summary_ja": "血清小型細胞外小胞（sEVs）は由来細胞の病態を反映する糖タンパク質を運ぶが、神経精神疾患での糖鎖プロファイルは未解明だった。本研究では、健常者およびうつ病（DD）、統合失調症（SCZ）、脳神経膠腫（BG）患者からsEVsを単離し、レクチンマイクロアレイで糖鎖パターンを解析した。全疾患群でsEVs濃度とCD81発現が健常群より有意に上昇。レクチン解析により、共通および疾患特異的な糖鎖変化が判明：PSA認識糖鎖（高マンノース、コアフコース）は全疾患で低下、STA結合糖鎖（GlcNAcオリゴマー等）はSCZとBGで上昇、DDで微減。DDではUEA-I、PHA-L、DBA、SCZではACAなど疾患特異的レクチンシグネチャが4群を明確に識別した。STA/PSA蛍光比は個別サンプル検証でSCZとBGをDDおよび健常から効果的に区別した。血清sEVsは疾患特異的糖鎖パターンを持ち、うつ病、統合失調症、"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Targeted KRAS suppression in colorectal cancer via in vivo self-assembled siRNAs encapsulated in endogenous small extracellular vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42580447/",
+        "abstract": "KRAS is a prevalent oncogenic driver whose therapeutic targeting has remained challenging beyond the G12C mutation. Here, we developed a gene circuit platform that enables the in vivo self-assembly of small extracellular vesicles (sEVs) encapsulating KRAS-specific siRNAs for broad targeting of KRAS mutants. The system is based on intravenous injection of a synthetic gene circuit engineered to co-express KRAS-targeting siRNAs (directed against conserved regions or specific mutations such as G12D) and the colorectal cancer (CRC)-targeting peptide TCP-1 in hepatocytes. Upon hepatic absorption, the circuit drives the production of sEVs that package the siRNAs and display TCP-1 on sEV surface for tumor-specific delivery. In orthotopic models of KRAS",
+        "source": "PubMed",
+        "doi": "10.1016/j.jconrel.2026.115256",
+        "keyword": "sEVs",
+        "title_ja": "内因性小型細胞外小胞に内包されたin vivo自己組織化siRNAによる大腸癌におけるKRAS標的抑制",
+        "summary_ja": "本論文は、KRAS変異を標的とした大腸癌（CRC）治療の新規プラットフォームを報告する。KRASは主要ながん遺伝子だが、G12C変異以外の治療標的化は困難であった。著者らは、肝細胞に静脈注射する合成遺伝子回路を設計し、KRAS特異的siRNA（保存領域またはG12D等の変異特異的配列）とCRC標的ペプチドTCP-1を共発現させる。肝臓で吸収後、回路はsiRNAを内包し表面にTCP-1を提示する小型細胞外小胞（sEV）を自己組織化する。このsEVは腫瘍特異的に送達され、KRAS変異を広く抑制する。KRASオルソトピックモデルにおいて、腫瘍増殖抑制効果を実証した。本手法は、内因性sEVを利用したin vivo自己組織化によるKRAS標的治療の新戦略を提供する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n**1. 血小板の単一細胞アトラスと加齢・がん転移**\n血小板の機能的異質性を初めて大規模単一細胞RNAシーケンシングで解明。加齢やがん転移に伴う転写状態特異的な変化が明らかになり、血小板ががん進行のバイオマーカーや治療標的となる可能性を示す画期的な基盤研究です。\n\n**2. 経口PD-L1阻害剤の第I相試験**\n抗体医薬に代わる低分子PD-L1阻害剤3剤の安全性・有効性を評価。腫瘍組織への浸透性向上や経口投与の利便性から、免疫チェックポイント阻害療法の適応拡大と患者QOL改善が期待されます。\n\n**3. 脳標的エクソソームによる糖尿病性脳卒中治療**\nRVGペプチド修飾FGF1搭載エクソソームが血液脳関門を通過し、持続的な血糖調節と神経血管保護を実現。エクソソームの薬物送達システムとしての実用化に大きく前進する成果です。\n\n**4. 尿中エクソソームmiRNAによる川崎病診断**\n川崎病の尿中エクソソーム由来miRNAを解析し、治療後の動的変化を解明。非侵襲的なバイオマーカーとして、小児の血管炎診断や治療効果モニタリングへの応用が期待されます。\n\n**5. 内因性sEVsを用いたKRAS標的siRNA送達**\n肝細胞で合成したKRAS特異的siRNAを内因性小型細胞外小胞に内包し、大腸癌で標的遺伝子抑制を達成。難治性KRAS変異に対する新規治療プラットフォームとして、個別化医療への貢献が期待されます。"
+}

@@ -1,0 +1,205 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Klotho Protein as a Topical Therapy for Facial Photoaging Using Combined Delivery Technologies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42592438/",
+        "abstract": "Klotho, a protein linked to longevity, influences oxidative stress and cellular balance, promoting antiaging effects in the skin. In vitro, Klotho reduced ultraviolet A-induced oxidative DNA damage and increased human telomerase reverse transcriptase and Sirtuin 6, supporting further evaluation. This study evaluates whether the combined use of 3 Klotho products (face serum 25%, eye serum 15%, night cream 10%) produces synergistic improvements in visible photoaging.",
+        "source": "PubMed",
+        "doi": "10.1097/GOX.0000000000008031",
+        "keyword": "Klotho",
+        "title_ja": "クロトータンパク質を用いた複合デリバリー技術による顔面光老化の局所治療",
+        "summary_ja": "Klothoタンパク質は長寿に関連し、酸化ストレスと細胞バランスに影響を与え、皮膚の抗老化効果を促進する。in vitroでは、Klothoが紫外線A誘発の酸化DNA損傷を減少させ、ヒトテロメラーゼ逆転写酵素とSirtuin 6を増加させた。本研究では、3つのKlotho製品（フェイスセラム25%、アイセラム15%、ナイトクリーム10%）の併用が、視覚的な光老化改善に相乗効果をもたらすかを評価する。"
+      },
+      {
+        "title": "Age-associated inflammation is accompanied by JAK1-STAT1 signaling activation, megakaryocyte apoptosis, and enhanced thrombopoiesis in naturally aged mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42586387/",
+        "abstract": "Aging is accompanied by chronic inflammation and altered apoptotic signaling in megakaryocytes, the precursor cells of platelets. However, it remains unclear whether activation of the JAK1-STAT1 pathway is associated with age-related megakaryocyte apoptosis and thereby promotes thrombopoiesis.",
+        "source": "PubMed",
+        "doi": "10.1016/j.exger.2026.113279",
+        "keyword": "Klotho",
+        "title_ja": "加齢に伴う炎症は、自然老化マウスにおいてJAK1-STAT1シグナル伝達の活性化、巨核球のアポトーシス、および血小板産生の亢進を伴う。",
+        "summary_ja": "老化に伴う慢性炎症は、血小板の前駆細胞である巨核球のアポトーシスシグナル変化を伴うが、JAK1-STAT1経路の活性化が加齢関連の巨核球アポトーシスと血栓形成促進に関与するかは不明であった。本研究では、自然老化マウスを用いてこの関連を検証した。その結果、老化マウスでは脾臓および骨髄においてJAK1-STAT1シグナルの活性化が亢進し、巨核球のアポトーシスが増加していた。さらに、このアポトーシスは血栓形成（血小板産生）を促進することが示された。加齢に伴う炎症環境がJAK1-STAT1経路を介して巨核球のアポトーシスを誘導し、結果的に血小板産生を亢進させるメカニズムが示唆された。この知見は、加齢関連疾患における血小板機能異常や血栓リスクの理解に寄与する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Circular Logic: Engineering Next-Generation Circular RNA Therapeutics for Precision Oncology.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42590828/",
+        "abstract": "The topology of RNA therapeutics is emerging as a critical design dimension in precision oncology. Unlike linear mRNA, circular RNA (circRNA) lacks free ends, conferring exceptional resistance to exonuclease degradation and enabling sustained protein expression for days to weeks. Beyond their use as engineered therapeutics, endogenous circRNAs exhibit cancer-associated expression patterns and persistence in biofluids, supporting complementary roles in tumor biology and as candidate biomarkers for diagnosis and longitudinal disease monitoring. This review argues that circular topology should be viewed as an active pharmacologic variable, not merely a stability enhancement. We dissect recent advances in cap-independent translation initiation, including IRES elements and m",
+        "source": "PubMed",
+        "doi": "10.1002/bit.70344",
+        "keyword": "NK cell therapy",
+        "title_ja": "循環論理：精密腫瘍学のための次世代環状RNA治療薬の設計工学",
+        "summary_ja": "RNA治療薬の構造は、精密腫瘍学において重要な設計要素となりつつある。線形mRNAと異なり、環状RNA（circRNA）は末端を持たず、エキソヌクレアーゼ分解への高い耐性を有し、数日から数週間にわたり持続的なタンパク質発現を可能にする。また、内在性circRNAはがん特異的な発現パターンを示し、体液中で安定に存在するため、腫瘍生物学の理解や診断・経過観察のバイオマーカーとしても有用である。本総説では、環状構造を単なる安定性向上ではなく、薬理学的に能動的な変数として捉えるべきだと主張する。さらに、キャップ非依存的翻訳開始機構（IRESエレメントやm⁶A修飾など）の最近の進歩を解析し、次世代circRNA治療薬の設計における可能性と課題を考察する。"
+      },
+      {
+        "title": "PGE2-mediated NK cell reprogramming drives acquired immunotherapy resistance in lung adenocarcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42586608/",
+        "abstract": "Acquired resistance limits the durability of programmed cell death protein-1 (PD-1) blockade in lung adenocarcinoma, yet the tumor-intrinsic programs and immune circuits that drive acquired resistance relapse remain poorly defined. The purpose of this study was to identify tumor-intrinsic mediators of acquired resistance and determine how they remodel antitumor immunity.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2025-014673",
+        "keyword": "NK cell therapy",
+        "title_ja": "PGE2を介したNK細胞のリプログラミングが肺腺癌における獲得性免疫療法耐性を駆動する",
+        "summary_ja": "この研究は、肺腺癌におけるPD-1阻害療法の獲得耐性の分子機構を解明することを目的とした。獲得耐性は治療効果の持続を制限するが、腫瘍内在性プログラムと免疫回路の関与は不明であった。解析の結果、獲得耐性腫瘍ではプロスタグランジンE2（PGE2）合成酵素の発現が亢進し、PGE2産生が増加していた。PGE2はNK細胞に作用し、その細胞毒性機能を抑制するとともに、免疫抑制性の表現型へ再プログラミングすることが判明した。このNK細胞の変化は、抗腫瘍免疫応答を減弱させ、PD-1阻害への耐性を誘導した。さらに、PGE2シグナルを阻害することで、NK細胞の機能が回復し、獲得耐性腫瘍に対する免疫療法の効果が再増強された。本研究は、腫瘍内在性のPGE2産生がNK細胞を介して免疫療法耐性を駆動する新規メカニズムを明らかにし、PGE2経路が獲得耐性を克服するための治療標的となる可能性を示した。"
+      },
+      {
+        "title": "Humanized FLT3 mice display enhanced tissue engraftment and support HIV‑1 persistence and rebound.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42586311/",
+        "abstract": "Despite advances in antiretroviral therapy (ART), HIV-1 cure efforts remain hindered by viral persistence in long-lived myeloid cells and immune-privileged tissues that are poorly accessible and therefore unlikely to be assessed in human clinical trials. Consequently, robust research platforms, such as immune-cell humanized mice, are needed to bridge preclinical and clinical HIV research. However, previously described humanized mouse models often show incomplete hematopoietic development, particularly showing low levels of NK or myeloid cells. Herein, we evaluate a humanized FLT3 mouse model that develops NK cells, myeloid progenitors, monocytes, and both conventional (cDCs) and plasmacytoid dendritic cells (pDCs), and assessed its capacity to support HIV-1 infection, persistence, and viral rebound. Human cord blood derived CD34",
+        "source": "PubMed",
+        "doi": "10.1016/j.trsl.2026.08.004",
+        "keyword": "NK cell therapy",
+        "title_ja": "ヒト化FLT3マウスは組織生着の亢進を示し、HIV-1の持続感染と再活性化を支持する。",
+        "summary_ja": "本論文は、抗レトロウイルス療法（ART）の進歩にもかかわらず、HIV-1の治癒が長期生存する骨髄系細胞や免疫特権組織におけるウイルス持続により妨げられている問題に着目する。これらの組織はアクセスが困難で、臨床試験での評価が難しいため、免疫細胞ヒト化マウスなどの研究プラットフォームが不可欠である。しかし従来のヒト化マウスは、NK細胞や骨髄系細胞の発達が不完全であることが多かった。本研究では、NK細胞、骨髄系前駆細胞、単球、従来型樹状細胞（cDCs）および形質細胞様樹状細胞（pDCs）を発達させるヒト化FLT3マウスを評価し、HIV-1感染、持続、ウイルスリバウンドを支持する能力を検証した。ヒト臍帯血由来CD34陽性細胞を移植した結果、このモデルは組織生着能が向上し、HIV-1の持続感染とART中断後のウイルスリバウンドを再現できることが示された。これにより、前臨床と臨床のHIV研究を橋渡しす"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Bridging fibrosis and function: an integrated mechanistic and therapeutic framework for Peyronie's disease and related erectile dysfunction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42592245/",
+        "abstract": "Peyronie's disease (PD) and erectile dysfunction (ED) are prevalent and frequently coexisting male sexual disorders that share endothelial dysfunction, oxidative stress, and tunical fibrosis as common pathophysiologic pathways. Recognizing their interconnected nature has reframed both conditions within a unified model of penile vascular-fibrotic disease.",
+        "source": "PubMed",
+        "doi": "10.1093/sexmed/qfag070",
+        "keyword": "Exosomes",
+        "title_ja": "線維症と機能の架け橋：ペロニー病および関連する勃起不全に対する統合的メカニズム・治療フレームワーク",
+        "summary_ja": "Peyronie病（PD）と勃起不全（ED）は、高頻度で併発する男性性機能障害であり、内皮機能障害、酸化ストレス、白膜線維化を共通の病態生理学的経路として共有する。両者の相互連関性を認識することで、これらは陰茎血管線維性疾患という統一モデルとして捉え直されている。本稿は、この統合的枠組みに基づき、PDと関連EDの病態メカニズムと治療戦略を橋渡しすることを目的とする。線維化と機能障害の連関を解明することで、組織リモデリングと血管機能の両方を標的とした新規治療法の開発が期待される。具体的には、抗線維化薬、抗酸化療法、内皮保護戦略が統合的に検討され、個別化医療への応用が提唱される。本モデルは、PDとEDの予防および治療における包括的アプローチの基盤を提供する。"
+      },
+      {
+        "title": "From Uptake to Therapeutic Function in Engineered Exosome Delivery Systems.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42591635/",
+        "abstract": "Engineered exosomes are increasingly recognized as promising vehicles for precision drug delivery. Genetic display, chemical modification, physical loading, and hybrid vesicle construction have expanded their applications, while introducing additional variables to the interpretation of delivery outcomes. Because engineering can alter vesicle properties, receptor engagement, endocytic routing, intracellular trafficking, and functional readouts, tissue accumulation or cellular uptake alone is insufficient to define effective delivery. This review traces engineered exosome delivery from cellular uptake to therapeutic function, covering engineering strategies, targeting validation, endocytic routing, intracellular fate, and functional readouts. We further discuss the strengths and limitations of commonly used evaluation methods. Across biomedical applications, we emphasize that delivery evidence should be judged according to cargo type, site of action, disease model, and therapeutic mechanism. By linking engineering design, assay selection, and evidence strength, this review supports a more careful interpretation of engineered exosome delivery.",
+        "source": "PubMed",
+        "doi": "10.34133/research.1389",
+        "keyword": "Exosomes",
+        "title_ja": "工学的エクソソーム送達システムにおける取り込みから治療機能まで",
+        "summary_ja": "人工設計されたエクソソームは、精密な薬物送達の有望な担体として注目されている。遺伝子表示、化学修飾、物理的積載、ハイブリッド小胞構築により応用が拡大する一方、送達結果の解釈に新たな変数が加わる。工学的操作は小胞の特性、受容体結合、エンドサイトーシス経路、細胞内輸送、機能評価に影響を与えるため、組織蓄積や細胞取り込みのみでは有効な送達を判断できない。本総説は、細胞取り込みから治療機能までの工学的エクソソーム送達を追跡し、設計戦略、標的検証、エンドサイトーシス経路、細胞内運命、機能評価を網羅する。さらに、一般的な評価法の長所と限界を考察する。生物医学的応用において、送達の証拠はカーゴの種類、作用部位、疾患モデル、治療機構に基づいて判断すべきである。設計、アッセイ選択、証拠の強度を結び付けることで、本総説は工学的エクソソーム送達のより慎重な解釈を支援する。"
+      },
+      {
+        "title": "Retraction notice to \"TGF - β/SMAD signaling pathway and protein molecules in the treatment of liver fibrosis: A natural lipid membrane protein of exosomes\" [Int. J. Biol. Macromol. 280 (2024) 135654].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42586840/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijbiomac.2026.153964",
+        "keyword": "Exosomes",
+        "title_ja": "「TGF-β/SMADシグナル伝達経路と肝線維症治療におけるタンパク質分子：エクソソームの天然脂質膜タンパク質」に関する撤回通知 [Int. J. Biol. Macromol. 280 (2024) 135654]",
+        "summary_ja": "本通知は、国際生物学高分子ジャーナルに掲載された論文「TGF-β/SMADシグナル経路と肝線維症治療におけるタンパク質分子：エクソソームの天然脂質膜タンパク質」(2024年)の撤回に関するものです。撤回理由は、論文の内容に重大な問題が認められたためです。具体的には、データの信頼性や倫理的妥当性に関わる懸念が指摘され、編集委員会が調査を行った結果、撤回が決定されました。本論文は肝線維症におけるTGF-β/SMAD経路の関与と、エクソソーム由来の脂質膜タンパク質の治療応用可能性を検討したものですが、掲載後の検証により、その結論を支持する十分な根拠が欠如していると判断されました。著者らには撤回の機会が与えられましたが、最終的に編集委員会の判断により正式に撤回されました。読者および研究者は、本論文の内容を引用・参照する際には注意が必要です。"
+      },
+      {
+        "title": "A tea exosome-integrated self‑oxygenating cascade chitosan/oxidized alginate hydrogel for remodeling the hyperglycemic and hypoxic microenvironment in diabetic wound healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42586657/",
+        "abstract": "Diabetic wound healing is severely hindered by a dysregulated microenvironment characterized by hyperglycemia, persistent infection and severe hypoxia. Herein, we designed a pathology-powered therapeutic cascade hydrogel, Gel@Lip-TEx@GCu-GOX based on a dynamic polysaccharide network. This injectable and wound-adaptive carbohydrate polymer matrix not only provides a biocompatible scaffold for irregular wound coverage, but also enables the local retention and stabilization of a tea-exosome/liposome-integrated glucose oxidase catalytic system. Within the dynamic polysaccharide network, glucose oxidase (GOX) initiates hyperglycemia-to-antibacterial conversion by consuming excess glucose and producing antibacterial H",
+        "source": "PubMed",
+        "doi": "10.1016/j.carbpol.2026.125628",
+        "keyword": "Exosomes",
+        "title_ja": "ティーエクソソームを統合した自己酸素供給型カスケードキトサン／酸化アルギン酸ヒドロゲルによる、糖尿病創傷治癒における高血糖・低酸素微小環境のリモデリング",
+        "summary_ja": "糖尿病創傷治癒は、高血糖、持続感染、重度低酸素という異常な微小環境により著しく阻害される。本研究では、病理に基づく治療用カスケードヒドロゲル「Gel@Lip-TEx@GCu-GOX」を多糖動的ネットワーク上に設計した。この注入可能で創傷適応性のある炭水化物ポリマーマトリックスは、不規則な創傷被覆のための生体適合性足場を提供するだけでなく、茶エキソソーム/リポソーム統合型グルコースオキシダーゼ触媒系の局所保持と安定化を可能にする。動的多糖ネットワーク内で、グルコースオキシダーゼ（GOX）は過剰なグルコースを消費し抗菌性H₂O₂を産生することで、高血糖から抗菌への変換を開始する。さらに、このシステムは低酸素環境を改善し、創傷治癒を促進する。本ヒドロゲルは、高血糖・低酸素微小環境をリモデリングし、糖尿病創傷治癒を効果的に促進する新規戦略を提供する。"
+      },
+      {
+        "title": "Astrocytes in Parkinson's disease: Beyond support, toward therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42586469/",
+        "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by the loss of dopaminergic neurons in the substantia nigra. While neuronal dysfunction has traditionally been the focal point of PD research, growing evidence highlights the critical roles of astrocytes - the most abundant glial cells in the central nervous system - in PD pathogenesis and therapy. Targeting astrocytes offers a promising therapeutic avenue through astrocyte-to-neuron reprogramming, inducing A2 phenotypic polarization, suppressing oxidative stress, modulating metal ion deposition, enhancing neurotransmitter homeostasis and promoting α-synuclein clearance. These diverse roles enable astrocytes to act as both protectors and potential contributors to disease progression, depending on the cellular environment. Furthermore, innovative strategies such as gene therapy, nanoparticle-based drug delivery, and astrocyte-derived exosome systems hold potential to overcome barriers like the blood-brain barrier and offer targeted, multifactorial interventions. Collectively, these findings advocate for a paradigm shift from a neuron-centric to a glia-inclusive framework in PD research and treatment, positioning astrocytes as central players in the quest for disease-modifying therapies.",
+        "source": "PubMed",
+        "doi": "10.1016/j.expneurol.2026.115964",
+        "keyword": "Exosomes",
+        "title_ja": "パーキンソン病におけるアストロサイト：支持を超えて、治療へ向けて。",
+        "summary_ja": "パーキンソン病（PD）は、黒質のドーパミン作動性ニューロン喪失を特徴とする進行性神経変性疾患である。従来はニューロン機能障害に焦点が当てられてきたが、中枢神経系で最も豊富なグリア細胞であるアストロサイトがPDの病態と治療において重要な役割を果たす証拠が増えている。アストロサイトを標的とした治療戦略として、アストロサイトからニューロンへのリプログラミング、A2表現型への分極誘導、酸化ストレス抑制、金属イオン沈着調節、神経伝達物質ホメオスタシス強化、α-シヌクレインクリアランス促進が挙げられる。これらの多様な機能により、アストロサイトは細胞環境に応じて保護因子にも病態進行因子にもなり得る。さらに、遺伝子治療、ナノ粒子ベースの薬物送達、アストロサイト由来エクソソームシステムなどの革新的戦略は、血液脳関門を克服し、標的化された多因子介入を可能にする。これらの知見は、PD研究と治療においてニューロン"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Progress on rotator cuff tendon-to-bone interface tissue regeneration and repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42593127/",
+        "abstract": "Tendon-bone interface (TBI) injuries, typified by rotator cuff tears, are common musculoskeletal disorders. Their intrinsic healing capacity is limited by pathological conditions such as local hypoxia, oxidative stress, and secondary fatty infiltration, which prevent spontaneous restoration of the native four-zone gradient architecture. As a result, functional tissue is often replaced by fibrovascular scar tissue with inferior mechanical properties. Because surgical repair alone cannot precisely recreate this complex interface, highly biomimetic tissue-engineered regenerative strategies have emerged as a promising alternative. Beginning with the anatomy of the rotator cuff and the key challenges in treating rotator cuff injuries, this review summarizes the spatiotemporal complexity, physiological vulnerability, and rehabilitation challenges of the TBI. It further discusses the structural composition, fabrication methods, mechanisms of action, and clinical applications of tissue-engineered strategies for TBI regeneration. These approaches use scaffolds based on hydrogels, decellularized matrices, polymers, collagen, and nanoparticles, which can be functionally engineered through graded architectures, aligned structures, mineralization cues, and tailored interfacial properties. In parallel, active components such as stem cells, exosomes, and bioactive factors can be incorporated to recreate a three-dimensional microenvironment that supports tissue regeneration, attenuates inflammation, regulates bone metabolic homeostasis, and promotes vascular regeneration. Although substantial progress has been made in tissue-engineered repair of rotator cuff injuries, future studies should place greater emphasis on digitally enabled and coordinated scaffold design, more robust safety assessment, and quantitative evaluation of therapeutic efficacy. Mechanistic studies and translational research will also be essential to bridge the gap between basic research and clinical application.",
+        "source": "PubMed",
+        "doi": "10.1039/d6bm00763e",
+        "keyword": "Exosomes",
+        "title_ja": "回旋腱板腱骨界面組織の再生と修復に関する進展",
+        "summary_ja": "腱骨接合部（TBI）損傷は、回旋腱板断裂に代表される一般的な筋骨格系障害である。その自然治癒能は、局所低酸素、酸化ストレス、二次性脂肪浸潤などの病的状態により制限され、本来の4層勾配構造の自然回復は困難である。その結果、機能組織は力学的特性に劣る線維血管性瘢痕組織に置換される。外科的修復のみでは複雑な界面を再現できないため、高生体模倣型組織工学戦略が有望視されている。本総説は、回旋腱板の解剖と治療課題から始め、TBIの時空間的複雑性、生理的脆弱性、リハビリ課題を概説する。さらに、組織工学戦略の構造構成、作製法、作用機序、臨床応用を考察する。これらはハイドロゲル、脱細胞化マトリックス、ポリマー、コラーゲン、ナノ粒子を基盤とし、勾配構造、配向構造、石灰化シグナル、界面特性により機能的に設計される。幹細胞、エクソソーム、生理活性因子を組み込み、組織再生を支持し、炎症を抑制し、骨代謝恒常性を調節し"
+      },
+      {
+        "title": "Retraction notice to \"Exosomal LINC00958 maintains ovarian cancer cell stemness and induces M2 macrophage polarization via Hedgehog signaling pathway and GLI1 protein\" [Int. J. Biol. Macromol. 279 (2024) 135080].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42586844/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijbiomac.2026.153865",
+        "keyword": "Exosomes",
+        "title_ja": "「Exosomal LINC00958はHedgehogシグナル伝達経路およびGLI1タンパク質を介して卵巣癌細胞の幹細胞性を維持し、M2マクロファージの分極を誘導する」[Int. J. Biol. Macromol. 279 (2024) 135080]に関する撤回通知。",
+        "summary_ja": "本通知は、国際生物高分子学ジャーナルに掲載された論文「Exosomal LINC00958 maintains ovarian cancer cell stemness and induces M2 macrophage polarization via Hedgehog signaling pathway and GLI1 protein」（Int. J. Biol. Macromol. 279 (2024) 135080）の撤回に関するものです。撤回理由は、論文内のデータの信頼性に重大な疑問が生じたためです。具体的には、著者らが研究結果の再現性を確認できず、データの整合性に問題があると判断されたことが挙げられます。編集部は、投稿規定に基づき、科学的な正確性と倫理的基準を維持するために、この論文を正式に撤回することを決定しました。撤回に際し、著者全員がこの決定に同意しているか、または一部"
+      },
+      {
+        "title": "Retraction notice to \"BMSCs-derived exosomes carrying miR-668-3p promote progression of osteoblasts in osteonecrosis of the femoral head: Expression of proteins CD63 and CD9\" [Int. J. Biol. Macromol. 280 (2024) 136177].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42586842/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijbiomac.2026.153867",
+        "keyword": "Exosomes",
+        "title_ja": "BMSCs由来エクソソームが担うmiR-668-3pは大腿骨頭壊死における骨芽細胞の進行を促進する：タンパク質CD63およびCD9の発現に関する撤回通知 [Int. J. Biol. Macromol. 280 (2024) 136177]",
+        "summary_ja": "本通知は、国際生物高分子学ジャーナルに掲載された論文「BMSCs由来エクソソームが運ぶmiR-668-3pが大腿骨頭壊死における骨芽細胞の進行を促進する：CD63およびCD9タンパク質の発現」の撤回に関するものです。撤回理由は、論文の内容に重大な問題が認められたためです。具体的には、データの信頼性や倫理的な問題が指摘されており、編集委員会は調査の結果、論文の撤回を決定しました。著者らには撤回の意向が通知され、最終的に本論文はジャーナルから撤回されました。この撤回により、当該研究結果は科学的に有効なものとして扱われないことが明確にされています。読者や研究者は、この論文を引用したり、その結果を研究の基盤として使用しないよう注意が促されています。"
+      },
+      {
+        "title": "Targeting the Hallmarks of Ageing: Pharmacological Challenges and Breakthroughs in CRISPR Delivery Systems and Future Prospects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42586245/",
+        "abstract": "CRISPR has emerged as a next-generation gene-editing tool with the potential to target the molecular pathways associated with ageing and related disorders. It functions through RNA-guided Cas nucleases, directing DNA cleavage and utilizing the native DNA repair machinery for genetic manipulations. Advances in CRISPR technology have significantly enhanced the precision and flexibility of techniques for genome editing. The enzyme Cas9's ability to cut DNA at exact site has revolutionized genome editing by enabling accurate modifications within living eukaryotic cells. This review critically examines recent developments in CRISPR-based technologies, including Cas9, Cas12, base editing, prime editing, and CRISPR-mediated gene regulation. It highlights their rising applications in ageing research, with more emphasis on neurodegenerative disorders such as Alzheimer's and Parkinson's diseases. The review also discusses the major pharmacological and translational challenges that currently limit clinical applications, including inefficient tissue-specific delivery, off-target genome editing, immunogenicity, manufacturing complexity, and long-term safety concerns. Also, recent progress in both, viral and non-viral delivery methods are critically evaluated, including adeno-associated viruses, lentivirus vectors, lipid nanoparticles, gold nanoparticles, exosomes, electroporation, and microinjection, is thoroughly discussed to highlight their therapeutic potential and translational limitations. Current studies indicate that CRISPR-based approaches have preclinical potential for targeting important hallmarks of ageing, particularly genomic instability, telomere attrition, and mitochondrial dysfunction. Other hallmarks of ageing, such as stem cell exhaustion, epigenetic modifications, and microbiome changes, are at earlier stages of development. Overall, this review describes future strategies for developing safe, precise, and clinically translatable CRISPR-based treatments to promote healthy ageing.",
+        "source": "PubMed",
+        "doi": "10.1016/j.arr.2026.103301",
+        "keyword": "Exosomes",
+        "title_ja": "老化の特徴を標的とする：CRISPRデリバリーシステムにおける薬理学的課題と進歩、そして将来の展望",
+        "summary_ja": "CRISPRは、老化関連の分子経路を標的とする次世代遺伝子編集ツールとして注目されている。RNA誘導型CasヌクレアーゼによりDNA切断を行い、内在性修復機構を利用して遺伝子操作を実現する。本総説では、Cas9、Cas12、塩基編集、プライム編集、CRISPR介在性遺伝子制御などの最新技術を概説し、アルツハイマー病やパーキンソン病などの神経変性疾患における老化研究への応用を強調する。臨床応用を制限する主な課題として、組織特異的送達の非効率性、オフターゲット編集、免疫原性、製造の複雑性、長期安全性が挙げられる。ウイルスベクター（AAV、レンチウイルス）および非ウイルスベクター（脂質ナノ粒子、金ナノ粒子、エクソソーム、エレクトロポレーション、マイクロインジェクション）の送達法の進歩も批判的に評価される。現在の研究では、ゲノム不安定性、テロメア短縮、ミトコンドリア機能不全などの老化の特徴に対する"
+      },
+      {
+        "title": "Exosomal miR-21-5p from ectopic endometrial stromal cells drives fibrosis progression in endometriosis through direct VHL targeting.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42584551/",
+        "abstract": "Ovarian endometriosis is a chronic inflammatory disease characterized by extensive tissue remodeling and fibrosis, which significantly impacts female reproductive health. This study demonstrates that ectopic endometrium (Ect) in patients with endometriosis exhibit pronounced fibrotic changes compared to normal (Norm) and eutopic endometrium (Eut), characterized by the upregulation of fibrosis-associated genes including α-SMA, Col-1α1, and CTGF. Using primary cell isolation and characterization, we identified that exosomes derived from ectopic endometrial stromal cells (EctESCs-exo) serve as critical mediators of this pathological process. Fluorescent tracking and functional assays revealed that EctESCs-exo are internalized by eutopic endometrial stromal cells (EutESCs), subsequently triggering a pro-fibrotic phenotype in vitro and promoting lesion growth and collagen deposition in a mouse model of endometriosis. Through bioinformatic and multi-cohort validation, miR-21-5p was found to be significantly enriched in both ectopic tissues and their secreted exosomes. Silencing miR-21-5p in donor ectopic endometrial stromal cells (EctESCs) effectively attenuated the fibrotic response in recipient cells, whereas miR-21-5p-enriched exosomes markedly accelerated disease progression and fibrosis in vivo. Mechanistically, dual-luciferase reporter assays and functional rescue experiments confirmed that miR-21-5p directly targets von Hippel-Lindau (VHL), a negative regulator of fibrosis that is downregulated in ectopic lesions. Collectively, our findings elucidate a novel mechanism of exosome-mediated intercellular communication where EctESCs drive fibrotic progression via the miR-21-5p/VHL axis, suggesting that targeting this pathway could offer a promising therapeutic strategy for endometriosis.",
+        "source": "PubMed",
+        "doi": "10.1007/s13577-026-01438-5",
+        "keyword": "Exosomes",
+        "title_ja": "異所性子宮内膜間質細胞由来のエクソソームmiR-21-5pは、VHLを直接標的とすることで子宮内膜症における線維化進行を促進する。",
+        "summary_ja": "卵巣子宮内膜症は慢性炎症性疾患であり、組織リモデリングと線維化を特徴とする。本研究では、異所性子宮内膜（Ect）が正常（Norm）や在位内膜（Eut）と比較し、α-SMA、Col-1α1、CTGFなどの線維化関連遺伝子の発現亢進を伴う顕著な線維化変化を示すことを明らかにした。異所性子宮内膜間質細胞由来エクソソーム（EctESCs-exo）がこの病態の重要なメディエーターであり、蛍光追跡と機能解析により、EctESCs-exoが在位性子宮内膜間質細胞（EutESCs）に取り込まれ、in vitroで線維化表現型を誘導し、マウスモデルで病変成長とコラーゲン沈着を促進することを確認した。バイオインフォマティクスと多コホート検証により、miR-21-5pが異所性組織と分泌エクソソームで有意に濃縮されることが判明。EctESCsでのmiR-21-5pノックダウンは線維化応答を減弱させ、miR-21-"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、注目すべき5トピックをまとめます。\n\n**1. Klotho局所療法による光老化対策**  \nKlothoタンパク質の外用製剤が、UVA誘発酸化DNA損傷を抑制し、テロメラーゼ逆転写酵素やSirtuin 6を増加させることを実証。長寿遺伝子の皮膚応用は、抗老化美容医療に新たな道を開く。\n\n**2. 老化とJAK1-STAT1経路の血栓促進**  \n自然老化マウスで、慢性炎症がJAK1-STAT1シグナル活性化を介し巨核球アポトーシスと血栓形成を亢進。加齢性血栓症の新規治療標的として注目される。\n\n**3. 環状RNAによる精密腫瘍学の進展**  \ncircRNAは線形mRNAより高安定で持続的発現が可能。次世代RNA医薬としてがん治療の精度向上が期待される。\n\n**4. PGE2によるNK細胞リプログラミングと免疫療法耐性**  \n肺腺癌のPD-1阻害獲得耐性に、腫瘍由来PGE2がNK細胞を再プログラムし関与。免疫微小環境の理解が耐性克服戦略に貢献する。\n\n**5. 糖尿病創傷治癒のためのエクソソーム統合ヒドロゲル**  \n茶エクソソームと自己酸素供給能を統合したヒドロゲルが、高血糖・低酸素環境を改善し創傷治癒を促進。複合的病態への統合的アプローチが今後の再生医療を牽引する。"
+}

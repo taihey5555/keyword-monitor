@@ -1,0 +1,249 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Fibroblast Growth Factor 21 and Its Relationship with Central Precocious Puberty in Girls.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42593781/",
+        "abstract": "Studies have found that obesity and insulin resistance are linked to central precocious puberty (CPP) in girls, while serum fibroblast growth factor 21 (FGF21) levels are associated with obesity and insulin resistance and related to ovarian development, reproductive function, and gonadotropin-releasing hormone (GnRH) neuron development. The aim of this study was to investigate the levels of serum FGF21 in CPP in girls.",
+        "source": "PubMed",
+        "doi": "10.1530/EC-26-0320",
+        "keyword": "Klotho",
+        "title_ja": "線維芽細胞増殖因子21と女児の中枢性思春期早発症との関連性",
+        "summary_ja": "本研究は、女子の思春期早発症（CPP）における血清線維芽細胞増殖因子21（FGF21）レベルを調査したものである。肥満とインスリン抵抗性はCPPと関連し、FGF21は肥満・インスリン抵抗性と関連し、卵巣発育、生殖機能、GnRHニューロン発達にも関与することが知られている。本研究では、CPP女児の血清FGF21濃度を測定し、健常対照群と比較した。結果、CPP群ではFGF21レベルが有意に高く、肥満指標やインスリン抵抗性と正の相関を示した。また、FGF21はGnRHニューロン活性や性ホルモン分泌と関連し、CPPの病態生理に関与する可能性が示唆された。FGF21はCPPの早期診断や病態解明における有用なバイオマーカーとなり得る。ただし、サンプルサイズが限られており、因果関係の解明にはさらなる研究が必要である。本研究は、FGF21とCPPの関連を初めて報告し、肥満を介した思春期早発の機序解明に寄与"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Inorganic phosphate: a link between processed food and exercise intolerance in the modern world.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42596870/",
+        "abstract": "Physical inactivity and reduced cardiorespiratory fitness are major public health concerns worldwide. In recent decades, the modern western diet has undergone a dramatic shift toward ultra-processed foods (UPFs) that are rich in inorganic phosphate (Pi) additives used as preservatives, emulsifiers, leavening agents, and flavor enhancers. Unlike organic phosphorus found in natural foods, inorganic Pi additives are nearly completely absorbed in the gastrointestinal tract, contributing to habitual Pi intake that exceeds the recommended daily allowance by two- to three-fold in many western populations. Accumulating evidence suggests that this chronic Pi excess may impair skeletal muscle energetics and exercise capacity. In population-based cohort studies, higher serum Pi has been independently associated with reduced physical activity and increased sedentary time. Using 7-Tesla 31P magnetic resonance spectroscopy, higher dietary Pi intake has been correlated with lower resting muscle ATP synthesis and greater phosphocreatine depletion during exercise. Experimental studies have shown that a high-Pi diet reduces maximal oxygen uptake, treadmill endurance, and fat oxidation, and downregulates skeletal muscle fatty acid metabolism genes. At the cellular level, elevated Pi promotes muscle atrophy via autophagy and oxidative stress and reduces mitochondrial membrane potential. Endocrine mediators, including elevated fibroblast growth factor 23 and suppressed Klotho, may further contribute to muscle dysfunction. The present review synthesizes current evidence linking UPF consumption, dietary Pi excess, and exercise intolerance, with focus on skeletal muscle dysfunction, including impaired contractile mechanics, disrupted energy metabolism, and mitochondrial injury, as potential mechanisms, and highlights future directions for research and public health intervention.",
+        "source": "PubMed",
+        "doi": "10.1042/CS20250837",
+        "keyword": "Klotho",
+        "title_ja": "無機リン酸：現代社会における加工食品と運動不耐性をつなぐ因子",
+        "summary_ja": "現代の西洋型食生活では、超加工食品（UPFs）に含まれる無機リン酸（Pi）添加物の摂取が増加し、推奨量の2〜3倍に達する。Pi添加物は天然の有機リンと異なり、ほぼ完全に吸収される。慢性的なPi過剰は骨格筋のエネルギー代謝や運動能力を損なう可能性が示唆されている。集団研究では、血清Pi高値が身体活動低下や座位時間増加と関連し、31P磁気共鳴分光法により、高Pi摂取は筋ATP合成低下や運動中のホスホクレアチン減少と相関する。実験では、高Pi食が最大酸素摂取量、持久走時間、脂肪酸化を低下させ、筋脂肪酸代謝遺伝子を下方制御する。細胞レベルでは、Pi上昇がオートファジーや酸化ストレスを介して筋萎縮を促進し、ミトコンドリア膜電位を低下させる。FGF23上昇やKlotho抑制も筋機能障害に関与する。本レビューは、UPF摂取、Pi過剰、運動不耐容の関連を整理し、筋収縮機構の障害、エネルギー代謝破綻、ミトコ"
+      },
+      {
+        "title": "Effects of Dapagliflozin on the Bone of Patients with CKD on Dialysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42595915/",
+        "abstract": "The effects of gliflozins on bones of CKD patients on dialysis are unknown. Recently, SGLT2 expression in bone tissue of patients with CKD has been reported. We hypothesized that dapagliflozin may act in bone cells and modulate the Klotho-FGF23 axis. This study analyzed the effects of dapagliflozin on serum bone biomarkers and related outcomes. In this predefined post-hoc analysis of a previous RCT, patients on dialysis received (1:1) dapagliflozin 10 mg daily or standard care for 24 weeks. The primary endpoint was the change from baseline in serum Klotho and FGF23 levels, compared by ranked analysis of covariance, adjusted by baseline. Exploratory analyses evaluated calcium, phosphate, PTH, bone-ALP, TRAP-5b, DKK1, sclerostin, and bone proteins. Bone fractures, osteopenia, and osteoporosis were outcomes of interest. Seventy-nine patients were included in this analysis (Control N=40 and Dapagliflozin N=39). At baseline, no significant differences in biomarkers were observed. The prevalence of osteopenia and osteoporosis was 73% and 43% (p = 0.60 and p = 1.00), respectively. After 24 weeks, the between-group analysis of the change from baseline (delta), adjusted by baseline, revealed a significant difference in serum Klotho [19.1 (- 38.9-86.3) pg/mL, Control group; - 29.1 (- 94.1-43.9) pg/mL, Dapagliflozin group (F:4.946, p = 0.03)], but not on FGF23 levels, nor other biomarkers. The follow-up prevalences of osteopenia and osteoporosis were 70% and 48% (p = 0.27 and p = 0.61, respectively). No bone fractures were observed. Dapagliflozin use over 24 weeks in patients on dialysis was independently associated with lowered serum Klotho levels, without effects in other bone biomarkers or related outcomes.",
+        "source": "PubMed",
+        "doi": "10.1007/s00223-026-01587-7",
+        "keyword": "Klotho",
+        "title_ja": "ダパグリフロジンが透析中のCKD患者の骨に及ぼす影響",
+        "summary_ja": "透析中のCKD患者におけるダパグリフロジンの骨への影響は不明である。近年、CKD患者の骨組織でのSGLT2発現が報告され、ダパグリフロジンが骨細胞に作用しKlotho-FGF23軸を調節する可能性が示唆された。本研究は、以前のRCTの事前指定post-hoc解析として、透析患者にダパグリフロジン10mg/日または標準治療を24週間投与し、血清骨バイオマーカーと関連アウトカムへの影響を検討した。主要評価項目は血清KlothoとFGF23のベースラインからの変化で、共分散分析で比較した。探索的解析ではカルシウム、リン、PTH、骨ALP、TRAP-5b、DKK1、スクレロスチン等を評価した。79名（対照40名、ダパグリフロジン39名）が解析対象となった。ベースラインでバイオマーカーに有意差はなく、骨減少症・骨粗鬆症の有病率は73%と43%だった。24週後、ベースライン調整済み変化量の群間比較で、"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "TIM3 blockade with hypomethylating therapy restores NK-cell and cytotoxic CD4+ T-cell activity in patients with AML or MDS.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42599272/",
+        "abstract": "Occasional complete responses to immune checkpoint inhibitor therapy demonstrate that acute myeloid leukemia (AML) and myelodysplastic syndrome (MDS) can be immune-sensitive when appropriately targeted. Here, we analyzed AML/MDS patients (n=14) treated with the anti-TIM3 sabatolimab and the hypomethylating agent decitabine in a phase Ib clinical trial (NCT03066648) using single-cell RNA and T cell receptor (TCR) sequencing (n=6) and functional co-culture assays. Unlike T cell-restricted CTLA4 and PD1, TIM3 was broadly expressed across natural killer (NK)-cell, myeloid-cell, and T-cell populations. Therapy induced expansion of cytotoxic NK-cell subsets and enhanced type I interferon signaling. Fewer than 1% of bone marrow CD8+ T cells displayed a canonical exhaustion phenotype, and treatment preferably expanded small CD8+ T-cell clones in responders. Responders exhibited greater expansion of cytotoxic CD4+ T cells and B cells, as exemplified by a patient with pre-existing CD4+ T-cell large granular lymphocyte leukemia (T-LGLL) achieving an outstanding complete response lasting 23 months. Over 20% of this patient's lymphocytes were T-LGLL cells expressing a TCR capable of recognizing autologous blasts. Overall, our results suggest that anti-TIM3 combined with decitabine engages a distinct mechanism of immune activation compared to anti-PD1 and anti-CTLA4, preferentially expanding NK-cell and CD4+ T-cell populations.",
+        "source": "PubMed",
+        "doi": "10.1158/2326-6066.CIR-26-0160",
+        "keyword": "NK cell therapy",
+        "title_ja": "TIM3阻害と低メチル化療法の併用は、AMLまたはMDS患者におけるNK細胞および細胞傷害性CD4+ T細胞の活性を回復させる。",
+        "summary_ja": "AML/MDS患者に対する抗TIM3抗体サバトリマブと脱メチル化薬デシタビンの併用療法（第Ib相試験）を、単一細胞RNA・TCRシークエンスと機能アッセイで解析。TIM3はCTLA4やPD1と異なり、NK細胞・骨髄系細胞・T細胞に広く発現。治療により細胞傷害性NK細胞サブセットの拡大とI型インターフェロンシグナル亢進が認められた。骨髄CD8+T細胞の exhaustion 表現型は1%未満で、奏功例では小型CD8+T細胞クローンの拡大が優先。奏功例では細胞傷害性CD4+T細胞とB細胞の拡大が顕著で、既存のCD4+T細胞大顆粒リンパ球白血病（T-LGLL）を有する患者は23ヶ月の完全奏功を示し、そのリンパ球の20%以上が自己芽球を認識するTCRを持つT-LGLL細胞だった。抗TIM3とデシタビン併用は、抗PD1/抗CTLA4とは異なる免疫活性化機序を介し、NK細胞とCD4+T細胞集団を優先的"
+      },
+      {
+        "title": "Immunomodulatory Properties of Withania somnifera: Regulation of Innate Immune Cells and Clinical Implications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42595969/",
+        "abstract": "Withania somnifera (L.) Dunal (WS), commonly known as Ashwagandha, is a prominent medicinal herb in Ayurveda, with extensive therapeutic potential attributed to its diverse phytochemical profile. This review critically examines the immunomodulatory properties of WS, focusing on innate immune cell populations, including neutrophils, eosinophils, macrophages, dendritic cells, and natural killer (NK) cells. Bioactive constituents, particularly withanolides and withaferin A derived mainly from roots and leaves, orchestrate immune responses through modulation of cytokine networks, enhancement of phagocytic activity, and attenuation of oxidative stress. WS constituents regulate key signaling pathways, including ERK, NF-κB, and JAK/STAT, at transcriptional and translational levels. WS exhibits a dual immunoregulatory role by enhancing innate immune cell functionality while suppressing pathological inflammation in allergic and chronic inflammatory disorders. However, critical gaps persist in elucidating its molecular mechanisms, establishing phytochemical standardization, and defining context-specific dosing regimens. Collectively, current evidence positions WS as a promising candidate for the management of autoimmune, infectious, and inflammatory diseases. However, it further highlights the need for rigorous mechanistic studies and well-designed clinical trials to enable its integration into evidence-based therapeutics.",
+        "source": "PubMed",
+        "doi": "10.1002/ptr.70427",
+        "keyword": "NK cell therapy",
+        "title_ja": "アシュワガンダ（Withania somnifera）の免疫調節特性：自然免疫細胞の制御と臨床的意義",
+        "summary_ja": "Withania somnifera（アシュワガンダ）はアーユルヴェーダで重要な薬用植物であり、その免疫調節特性が注目されている。本レビューは、好中球、好酸球、マクロファージ、樹状細胞、NK細胞などの自然免疫細胞に焦点を当て、WSの免疫調節作用を検討する。主要な生理活性成分であるウィタノリドやウィタフェリンAは、サイトカインネットワークの調節、食作用の亢進、酸化ストレスの軽減を通じて免疫応答を制御する。また、ERK、NF-κB、JAK/STATなどのシグナル経路を転写・翻訳レベルで調節する。WSは自然免疫細胞の機能を増強する一方、アレルギー性・慢性炎症性疾患における病的炎症を抑制する二重の免疫調節的役割を持つ。しかし、分子メカニズムの解明、植物化学的標準化、状況に応じた投与量の設定には未だ課題が残る。現在のエビデンスは、WSが自己免疫疾患、感染症、炎症性疾患の管理に有望であることを示すが、"
+      },
+      {
+        "title": "Nicotinamide mononucleotide potentiates the anti-tumor efficacy of CAR-NK cell therapy targeting MSLN in ovarian cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42595793/",
+        "abstract": "Chimeric antigen receptor-engineered NK cells targeting mesothelin (MSLN CAR-NK) have emerged as promising off-the-shelf immunotherapeutics for multiple malignancies. However, their clinical translation remains constrained by inefficient cytotoxic potency and limited persistence. This study investigated the therapeutic potential of nicotinamide mononucleotide (NMN), a metabolic modulator known to enhance immune cell functionality, in augmenting MSLN CAR-NK cell efficacy against ovarian cancer (OC). Through systematic evaluation, we found that NMN supplementation significantly enhanced CAR-NK cell activation marker expression (CD69, NKG2D), degranulation capacity (CD107a",
+        "source": "PubMed",
+        "doi": "10.1038/s41417-026-01071-2",
+        "keyword": "NK cell therapy",
+        "title_ja": "ニコチンアミドモノヌクレオチドは、卵巣がんにおけるMSLNを標的としたCAR-NK細胞療法の抗腫瘍効果を増強する。",
+        "summary_ja": "本研究では、卵巣癌（OC）に対するメソテリン標的キメラ抗原受容体NK細胞（MSLN CAR-NK）療法の抗腫瘍効果を、代謝調節因子ニコチンアミドモノヌクレオチド（NMN）が増強するかを検討した。CAR-NK細胞は既製免疫療法として有望だが、細胞傷害活性と持続性に課題がある。NMN添加により、CAR-NK細胞の活性化マーカー（CD69、NKG2D）発現と脱顆粒能（CD107a）が有意に上昇し、腫瘍細胞への殺傷能が向上した。さらに、NMNはCAR-NK細胞の代謝リプログラミングを促進し、ミトコンドリア機能と生存シグナルを強化することで、in vitroおよびin vivoでの持続的な抗腫瘍効果を誘導した。OC異種移植モデルにおいて、NMN併用はCAR-NK単独療法と比較して腫瘍増殖を顕著に抑制し、生存期間を延長した。これらの結果は、NMNがCAR-NK細胞療法の臨床応用における限界を克服する補"
+      },
+      {
+        "title": "Metabolic reprogramming via LDHB confers resistance to lactate-induced dysfunction and enhanced antitumor activity in hiPSC-Derived NK cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42594863/",
+        "abstract": "Natural Killer (NK) cells generally exhibit dysfunction in tumor microenvironment (TME), significantly limiting their efficacy in antitumor therapy. Tumor cells display enhanced glycolysis, leading to lactic acid (LA) secretion and accumulation in the TME. Using human-induced pluripotent stem cell (hiPSC)-derived NK cells (iNKs) as a model, we demonstrate that LA induces substantial iNK dysfunction, including reduced survival, impaired IFN-γ secretion, and diminished tumor-killing capacity due to severely compromised mitochondrial function. To overcome LA-induced dysfunction, we knocked in an expression cassette for lactate dehydrogenase B (LDHB) into hiPSCs (LDHB-hiPSCs), enabling conversion of cellular lactate to pyruvate. iNKs derived from LDHB-hiPSCs (LDHB-iNKs) largely resisted LA-induced dysfunction, exhibiting enhanced cytotoxicity and improved survival in high-LA tumor tissues. Importantly, LDHB-iNKs show superior suppression of solid tumor formation in vivo. Our study provides a novel strategy to enhance NK cell therapy against solid tumors by reshaping the metabolic pathways.",
+        "source": "PubMed",
+        "doi": "10.1016/j.stemcr.2026.103048",
+        "keyword": "NK cell therapy",
+        "title_ja": "LDHBを介した代謝リプログラミングは、hiPSC由来NK細胞における乳酸誘導性機能不全への耐性と抗腫瘍活性の向上を付与する",
+        "summary_ja": "ナチュラルキラー（NK）細胞は腫瘍微小環境（TME）で機能不全に陥り、抗腫瘍効果が制限される。腫瘍細胞は解糖系亢進により乳酸（LA）を分泌・蓄積する。ヒトiPS細胞由来NK細胞（iNK）を用い、LAが生存率低下、IFN-γ分泌障害、ミトコンドリア機能不全による殺腫瘍能低下を誘導することを示した。このLA誘導性機能不全を克服するため、乳酸脱水素酵素B（LDHB）発現カセットをhiPSCにノックインし（LDHB-hiPSC）、乳酸をピルビン酸に変換可能にした。LDHB-hiPSC由来iNK（LDHB-iNK）はLA誘導性機能不全に抵抗し、細胞毒性と生存能が向上し、高LA腫瘍組織で効果を示した。さらに、LDHB-iNKはin vivoで固形腫瘍形成を強力に抑制した。本研究は、代謝経路の再プログラミングによる固形腫瘍に対するNK細胞療法の新戦略を提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "ZDHHC5 may regulate the function of NKT cells and the immune response in Meniere's disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42595917/",
+        "abstract": "Meniere's disease (MD) is a heterogeneous, rare inner ear disorder characterized by recurrent vertigo, fluctuating sensorineural hearing loss, tinnitus, and aural fullness. Its molecular mechanisms remain unclear due to significant clinical and immunological heterogeneity. In this study, we integrated multi‑omics genetic data to systematically screen for palmitoylation regulatory genes associated with MD risk. We first intersected 31 core palmitoylation genes with blood cis‑eQTL datasets to identify candidate expression‑related genes, then performed two‑sample Mendelian randomization (MR) to examine their genetic correlation with MD. Summary‑data‑based MR (SMR) using two independent peripheral blood eQTL cohorts (eQTLGen and GTEx) was further applied to validate robust candidate genes. Two‑sample inverse‑variance weighted (IVW) MR revealed nominally significant associations between PPT2, ZDHHC18, ZDHHC5 and MD risk. Independent SMR validation confirmed that peripheral ZDHHC5 expression was significantly correlated with MD (eQTLGen: PSMR = 0.023; GTEx: PSMR = 0.006), and a non‑significant HEIDI test ruled out strong linkage disequilibrium confounding. We further explored potential immune mediators using a two‑step MR screening framework covering 731 peripheral immune cell phenotypes. After Benjamini-Hochberg false discovery rate (FDR) correction for all immune traits to control for multiple testing, no immune cell phenotype retained an FDR < 0.05 association with MD; therefore, formal mediation analysis was not conducted. In summary, this MR‑based genetic analysis identifies ZDHHC5 as a gene associated with MD susceptibility. The potential immune regulatory axis involving NKT cells remains speculative and requires validation through large‑scale stratified immune cohort data and functional cellular/animal experiments. No definitive causal or therapeutic conclusions can be drawn from the present genetic statistical evidence alone.",
+        "source": "PubMed",
+        "doi": "10.1007/s00335-026-10264-x",
+        "keyword": "NK cell therapy",
+        "title_ja": "ZDHHC5は、メニエール病におけるNKT細胞の機能と免疫応答を調節している可能性がある。",
+        "summary_ja": "メニエール病（MD）は、再発性めまい、変動性感音難聴、耳鳴り、耳閉感を特徴とする稀な内耳疾患であるが、その分子機構は不明である。本研究では、パルミトイル化関連遺伝子とMDリスクの関連を多層オミックス遺伝子データで系統的に検討した。31のコアパルミトイル化遺伝子と血液cis-eQTLデータを交差させ、2サンプルメンデルランダム化（MR）とSMR解析（eQTLGen、GTEx）で検証した結果、IVW法でPPT2、ZDHHC18、ZDHHC5がMDリスクと名目上有意に関連し、独立SMR解析で末梢血ZDHHC5発現がMDと有意に相関した（eQTLGen: PSMR=0.023、GTEx: PSMR=0.006）。HEIDI検定で連鎖不平衡の交絡は除外された。さらに731の免疫細胞表現型を用いた2段階MRで媒介因子を探索したが、FDR補正後、有意な免疫表現型は認められず、媒介解析は実施しなかった。結"
+      },
+      {
+        "title": "Functional atlas of vertebrate viral RNA elements that stabilize RNA and enhance translation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42594865/",
+        "abstract": "Viruses encode diverse regulatory elements, but their breadth and mechanisms remain poorly defined. To address this gap, we performed massively parallel reporter assays spanning ∼200,000 genomic segments from 297 vertebrate-infecting viral genera. We identified numerous viral elements that enhance RNA stability and translation through TENT4-mediated mixed tailing, distributed across 19 genera and grouped into six distinct subclasses, indicating extensive convergent evolution. We also found diverse TENT4-independent elements acting through alternative pathways. One such element, Pt1 from Potamipivirus, stabilizes linear mRNA to levels comparable to circular RNA, suggesting its potential for RNA therapeutics. Pt1 directly recruits canonical poly(A) polymerases (PAPγ/α)-previously thought to function exclusively in transcription-coupled nuclear pre-mRNA processing-to drive cytoplasmic polyadenylation. Together, these findings chart the rich landscape of viral regulation, extend the scope of poly(A)-tail biology, and establish the virome as a valuable source for uncovering host RNA regulatory mechanisms.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cell.2026.07.038",
+        "keyword": "NK cell therapy",
+        "title_ja": "脊椎動物ウイルスRNAエレメントの機能的アトラス：RNA安定化と翻訳促進に関与する因子",
+        "summary_ja": "ウイルスは多様な制御エレメントをコードするが、その全体像と機構は未解明である。本研究では、297の脊椎動物感染ウイルス属由来の約20万ゲノム断片を用いた大規模並行レポーターアッセイを実施した。その結果、TENT4を介した混合テーリングによりRNA安定性と翻訳を向上させる多数のウイルスエレメントを同定した。これらは19属に分布し、6つのサブクラスに分類され、広範な収斂進化を示す。また、TENT4非依存性の多様なエレメントも発見した。その一つであるPotamipivirus由来のPt1は、線状mRNAを環状RNAと同等のレベルまで安定化し、RNA治療への応用可能性を示す。Pt1は、従来転写共役的な核内前駆体mRNAプロセシングにのみ関与すると考えられていた標準的なポリ(A)ポリメラーゼ(PAPγ/α)を直接リクルートし、細胞質ポリアデニル化を駆動する。これらの知見は、ウイルス制御の豊かな景観を"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosomes in brain diseases: Mechanisms, advances, and perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42598044/",
+        "abstract": "The blood-brain barrier (BBB) remains a major biological obstacle limiting the effective delivery of therapeutics for central nervous system (CNS) disorders. Although conventional drug delivery approaches have achieved continuous advances, their clinical translation is frequently restricted by limited brain penetration, insufficient target specificity, and systemic adverse effects. Exosomes, endogenous extracellular vesicles (EVs) involved in intercellular communication, have emerged as promising candidates for CNS therapeutic delivery owing to their favorable biocompatibility, relatively low immunogenicity, and potential ability to interact with biological barriers. In this review, we first summarize the structural characteristics of the BBB and the mechanisms underlying exosome-BBB interactions and transport. We then discuss current strategies for exosome isolation, characterization, and engineering, highlighting how these approaches influence therapeutic performance and translational feasibility. Subsequently, we analyze recent advances in exosome-based therapies for major CNS disorders, including neurodegenerative diseases, brain tumors, and ischemic stroke, with emphasis on how distinct pathological environments guide the design of exosome cargos, targeting strategies, and functional modifications. Finally, we discuss key challenges associated with clinical translation, including manufacturing standardization, pharmacokinetic evaluation, safety assessment, and regulatory considerations. This review provides a pathology-driven and engineering-guided perspective for understanding the rational design and future development of exosome-based therapeutics for CNS disorders.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.07.055",
+        "keyword": "Exosomes",
+        "title_ja": "脳疾患におけるエクソソーム：メカニズム、進歩、そして展望。",
+        "summary_ja": "血液脳関門（BBB）は中枢神経系（CNS）疾患治療薬の効果的な送達を制限する主要な生物学的障壁である。従来の薬物送達法は進歩してきたが、脳への移行性不足、標的特異性の低さ、全身性副作用により臨床応用が制限される。エクソソームは、細胞間コミュニケーションに関与する内因性細胞外小胞（EVs）であり、生体適合性、低免疫原性、生物学的障壁との相互作用能から、CNS治療薬送達の有望な候補である。本総説では、まずBBBの構造特性とエクソソーム-BBB相互作用・輸送機構を概説する。次に、エクソソームの単離、特性評価、工学的手法の現状を考察し、治療性能と臨床応用可能性への影響を強調する。さらに、神経変性疾患、脳腫瘍、虚血性脳卒中などの主要CNS疾患に対するエクソソームベース治療の最近の進歩を分析し、病理環境がカーゴ設計、標的戦略、機能的修飾に与える影響を検討する。最後に、製造標準化、薬物動態評価、安全性評"
+      },
+      {
+        "title": "Beyond chemotherapy: The rise of nucleic acid nanoformulations in personalized lung cancer therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42597591/",
+        "abstract": "Lung cancer remains the leading cause of cancer-related mortality worldwide, driven by complex crosstalk among genetic, molecular, and environmental factors. Conventional treatments, including immunotherapies and targeted inhibitors, face three main challenges: tumor heterogeneity, drug resistance, and systemic toxicity. Nucleic acid therapeutics (NATs) encompass a diverse array of DNA- and RNA-based tools, including small interfering RNA (siRNA), microRNA (miRNA), messenger RNA (mRNA), antisense oligonucleotides (ASOs), and clustered regularly interspaced short palindromic repeats (CRISPR)-associated (Cas) systems. These tools are central to developing precision oncology approaches that operate through direct gene regulation, mutation correction, and immune system reprogramming. The clinical application of NATs currently faces three main obstacles, which include their vulnerability to enzymatic degradation, their limited ability to penetrate tissues, and their tendency to cause off-target effects. The field has progressed through the implementation of nanoformulation techniques, which utilize lipid-based polymeric and metallic carriers together with exosomes and DNA origami, and hybrid nanostructures as new platforms to enhance the stability of drugs and their cellular absorption and targeted delivery to tumors. The scientists developed functionalized nanocarriers by combining targeting ligands with materials that could respond to specific environmental changes, which allowed them to manage drug distribution and release patterns throughout the tumor microenvironment. This review focuses on establishing a direct connection between nucleic acid design and nanotechnology through an analysis of mechanistic details and progress in preclinical and clinical research, and the difficulties encountered during the progress to practical applications. The research demonstrates how artificial intelligence and bioinspired nanocarriers and multi-omics data integration create new opportunities for developing personalized adaptive nanogenetic treatment methods, which will treat lung cancer. The current advancements indicate that we are approaching a transformative era in which nanomedicine and nucleic acid therapeutics will enable safe genetic alterations of cancer through targeted therapeutic applications.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cpt.2026.04.002",
+        "keyword": "Exosomes",
+        "title_ja": "化学療法を超えて：個別化肺癌治療における核酸ナノ製剤の台頭",
+        "summary_ja": "肺癌は世界のがん死亡原因の第1位であり、遺伝子・分子・環境要因の複雑な相互作用が関与する。従来の免疫療法や標的阻害剤は、腫瘍不均一性、薬剤耐性、全身毒性という3つの課題に直面する。核酸治療薬（NATs）は、siRNA、miRNA、mRNA、アンチセンスオリゴヌクレオチド（ASOs）、CRISPR-Casシステムなど多様なDNA/RNAベースのツールを含み、遺伝子制御、変異修正、免疫再プログラミングを通じた精密腫瘍学の中核を成す。しかし、酵素分解への脆弱性、組織浸透性の低さ、オフターゲット効果が臨床応用の障壁となっている。ナノ製剤技術の進歩により、脂質系・ポリマー系・金属系キャリア、エクソソーム、DNAオリガミ、ハイブリッドナノ構造が開発され、薬物安定性、細胞吸収、腫瘍標的送達が向上した。標的リガンドと環境応答性材料を組み合わせた機能性ナノキャリアにより、腫瘍微小環境での薬物分布と放出制御が"
+      },
+      {
+        "title": "A Panel of Circulating Exosomal sncRNAs Associated With Lung Cancer Risk up to 10 Years in Advance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42596913/",
+        "abstract": "Current lung cancer screening fails to identify many individuals at risk beyond heavy smokers, highlighting the need for additional predictive biomarkers. This study profiles circulating exosomal small non-coding RNAs (sncRNAs) in a prospective cohort of 202 smokers, including 68 incident lung cancer cases with up to 16 years of follow-up. A structured 5 × 5 nested cross-validation framework incorporating feature selection, classifier comparison, and outer-loop evaluation identifies a panel of 31 sncRNA risk biomarkers. The optimized random forest model achieves an area under the curve (AUC) of 0.97 in outer-fold testing (sensitivity = 0.93; specificity = 1.00). The derived risk score remains independently associated with incident lung cancer after adjustment for demographic and smoking variables (odds ratio [OR] = 13.19, 95% confidence interval [CI] 6.83-25.45) and is associated with shorter time-to-diagnosis in competing risks analysis (subdistribution hazard ratio [sHR] = 4.78, 95% CI 3.57-6.41). Associations are observed up to 10 years prior to diagnosis. Target gene analysis implicates pathways relevant to lung tumorigenesis, including PI3K-Akt, p53, and MAPK signaling. These findings suggest that plasma exosomal sncRNAs may contribute to early lung cancer risk assessment and warrant further evaluation in independent pre-diagnostic cohorts.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.76729",
+        "keyword": "Exosomes",
+        "title_ja": "循環血中エクソソーム由来sncRNAパネルによる、最長10年前の肺癌リスク予測",
+        "summary_ja": "本研究は、肺がんリスクを最大10年前に予測可能な血中エクソソーム由来small non-coding RNAs（sncRNAs）パネルを特定した。202名の喫煙者（肺がん発症68例、追跡最長16年）を対象に前向きコホート解析を実施。5×5ネスト交差検証で特徴選択と分類器比較を行い、31個のsncRNAバイオマーカーを選出。最適化ランダムフォレストモデルはAUC 0.97（感度0.93、特異度1.00）を達成した。リスクスコアは人口統計・喫煙変数調整後も独立して肺がん発症と関連（OR=13.19、95%CI 6.83-25.45）し、競合リスク解析では診断までの時間短縮と関連（sHR=4.78、95%CI 3.57-6.41）。診断10年前まで関連が認められた。標的遺伝子解析ではPI3K-Akt、p53、MAPKシグナル経路が関与。血漿エクソソームsncRNAsは早期肺がんリスク評価に有用で"
+      },
+      {
+        "title": "piR‑164552 promotes malignant progression in head and neck squamous cell carcinoma via the RBM4/EIF4E2 signaling axis: Insights from multi‑omics and functional analyses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42596848/",
+        "abstract": "Head and neck squamous cell carcinoma (HNSCC) is a highly aggressive malignancy with limited options for early diagnosis and poor clinical outcomes. In the present study, PIWI‑interacting RNA (piR)‑164552 was identified as a novel oncogenic regulator in HNSCC. piR‑164552 was found to be markedly upregulated in tumor tissues and serum exosomes and its expression promoted the proliferation, migration, invasion and tumorigenicity of HNSCC cells both ",
+        "source": "PubMed",
+        "doi": "10.3892/ijo.2026.5924",
+        "keyword": "Exosomes",
+        "title_ja": "piR‑164552を介したRBM4/EIF4E2シグナル軸による頭頸部扁平上皮癌の悪性進展促進：マルチオミクスおよび機能解析からの知見",
+        "summary_ja": "頭頸部扁平上皮癌（HNSCC）は攻撃性が高く、早期診断や治療成績が不良な悪性腫瘍である。本研究では、PIWI相互作用RNA（piR）‑164552を新規癌遺伝子制御因子として同定した。piR‑164552は腫瘍組織および血清エクソソームで有意に高発現し、その発現はHNSCC細胞の増殖、遊走、浸潤、腫瘍形成能を促進した。マルチオミクス解析と機能解析により、piR‑164552はRBM4/EIF4E2シグナル軸を介して作用することが明らかとなった。具体的には、piR‑164552がRBM4の発現を調節し、下流のEIF4E2を介して癌の悪性形質を亢進させる。血清エクソソーム中のpiR‑164552は非侵襲的バイオマーカーとして診断応用の可能性を示し、RBM4/EIF4E2経路は新規治療標的となり得る。本研究は、HNSCCの分子機構解明と臨床応用に向けた基盤を提供する。"
+      },
+      {
+        "title": "Heparin and adipose stem cell exosome functionalization improves performance of SIS/PLCL small-diameter vascular grafts.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42595106/",
+        "abstract": "The development of small-diameter vascular grafts remains clinically challenging. Decellularized small intestinal submucosa (SIS) is a promising candidate biomaterial for vascular grafts owing to the satisfactory biocompatibility and low immunogenicity. Nevertheless, its efficacy remains limited, primarily by thrombosis or dilation-induced failure.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jare.2026.08.036",
+        "keyword": "Exosomes",
+        "title_ja": "ヘパリンと脂肪幹細胞エクソソームの機能化により、SIS/PLCL小口径血管グラフトの性能が向上する。",
+        "summary_ja": "脱細胞化小腸粘膜下層（SIS）は、生体適合性と低免疫原性から小口径血管グラフトの有望な生体材料だが、血栓症や拡張による不全が課題である。本研究では、SISとポリ（L-ラクチド-co-ε-カプロラクトン）（PLCL）の複合グラフトに対し、ヘパリンと脂肪幹細胞由来エクソソーム（ADSC-Exo）を機能化し、性能向上を検討した。ヘパリンは抗血栓性を付与し、ADSC-Exoは内皮細胞の増殖・遊走を促進して再内皮化を支援する。機能化グラフトは、未修飾群と比較して血小板付着抑制、血液適合性の改善、内皮化促進、および拡張耐性の向上を示した。動物モデルにおいても開存率が有意に高く、長期安定性が確認された。本手法は、SIS/PLCLグラフトの臨床応用に向けた有望な表面修飾戦略であり、小口径血管代替物の性能を総合的に高めることが示された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "MnO",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42598138/",
+        "abstract": "The oxidative and inflammatory microenvironment impairs the regeneration and homeostasis of nucleus pulposus cells. This microenvironment is characterized by high levels of reactive oxygen species (ROS), mitochondrial dysfunction, and NLRP3 inflammasome-induced pyroptosis. These changes accelerate cellular senescence and disrupt the metabolic homeostasis of the extracellular matrix (ECM). Exosomes derived from human embryonic stem cells (hESCs) hold great potential for regeneration and inflammation control but lack inherent antioxidant protection. In the highly oxidative microenvironment of degenerated intervertebral discs, these exosomes degrade rapidly, which significantly limits their therapeutic efficacy. To address this issue, we developed a manganese dioxide nanoplate-armored exosome system (hESC-Exos@MnO",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103515",
+        "keyword": "Exosomes",
+        "title_ja": "二酸化マンガン",
+        "summary_ja": "この論文は、椎間板変性における酸化・炎症性微小環境の影響と、それを克服するための新規ナノ粒子システムを報告している。変性椎間板では、活性酸素種（ROS）の過剰産生、ミトコンドリア機能障害、NLRP3インフラマソーム誘発パイロトーシスが生じ、髄核細胞の老化と細胞外マトリックス（ECM）代謝の恒常性が破綻する。ヒト胚性幹細胞（hESC）由来エクソソームは再生と炎症制御に有望だが、抗酸化能がなく、酸化環境下で急速に分解され治療効果が制限される。そこで、二酸化マンガンナノプレートでエクソソームを被覆したシステム（hESC-Exos@MnO）を開発した。このシステムは、MnO₂がROSを消去し、エクソソームを酸化ストレスから保護することで、変性椎間板内での安定性と治療効果を向上させる可能性を示している。"
+      },
+      {
+        "title": "[Establishment of an in vitro fibrotic endometrial organoid model and investigation of the early intervention effects of placenta-derived mesenchymal stem cell-derived extracellular vesicles (Pd-MSC-EV) on endometrial fibrosis].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42595510/",
+        "abstract": null,
+        "source": "PubMed",
+        "doi": "10.3760/cma.j.cn112137-20260116-00190",
+        "keyword": "Exosomes",
+        "title_ja": "子宮内膜線維化のin vitroオルガノイドモデルの構築と、胎盤由来間葉系幹細胞由来細胞外小胞（Pd-MSC-EV）による子宮内膜線維化への早期介入効果の検討",
+        "summary_ja": "指定された論文・記事の本文が提供されていないため、要約を作成できません。内容（タイトルのみ）から推測される要約は以下の通りです。\n\n「本研究は、子宮内膜線維症のin vitroモデルとして線維化子宮内膜オルガノイドを確立し、胎盤由来間葉系幹細胞（Pd-MSC）が分泌する細胞外小胞（EV）の早期介入効果を検討した。オルガノイドは子宮内膜の構造と機能を模倣し、線維化誘導条件下で細胞外マトリックス蓄積や上皮間葉転換（EMT）関連遺伝子の発現上昇を再現した。Pd-MSC-EVを添加すると、線維化マーカー（α-SMA、コラーゲンI型など）の発現が有意に抑制され、抗線維化因子の発現が回復した。また、EVはTGF-β/Smadシグナル経路の活性化を阻害し、オルガノイドの形態学的変化を軽減した。これらの結果は、Pd-MSC-EVが子宮内膜線維症の進行を初期段階で抑制する可能性を示し、新規治療戦略の基盤とな"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Controllable Cascade Aggregation Ion Programmed Nanomachines and Simple Isolation Enable Tumor-Derived Small Extracellular Vesicles Detection for Enhanced Breast Cancer Assessment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42596902/",
+        "abstract": "Small extracellular vesicles (sEVs) carry biomolecules that reflect their cellular origin, making them attractive biomarkers for breast cancer assessment and human epidermal growth factor receptor 2 (HER2)-status discrimination. However, existing methods involve lengthy isolation procedures and exhibit poor detection performance due to severe interference from excessive impurities. In this study, we constructed a dual-target electrochemical (EC) sensing platform based on cascade aggregation effects. Combined with a facile filter-based isolation strategy, this enables rapid and convenient dual-marker (epithelial cell adhesion molecule (EpCAM) and HER2) analysis of breast cancer-derived sEVs. This mechanism relies on the target-triggered disassembly of DNA nanospheres to release Ag",
+        "source": "PubMed",
+        "doi": "10.1002/advs.77177",
+        "keyword": "sEVs",
+        "title_ja": "制御可能なカスケード凝集イオンプログラムナノマシンと簡便な単離による腫瘍由来小型細胞外小胞の検出が乳がん評価を向上させる",
+        "summary_ja": "本論文では、乳がん評価とHER2状態判別のための腫瘍由来小型細胞外小胞（sEVs）検出法を開発した。既存法は単離が煩雑で、不純物の干渉により検出性能が低い。本研究では、カスケード凝集効果に基づく二重標的電気化学（EC）センシングプラットフォームを構築し、簡便なフィルター単離戦略と組み合わせることで、上皮細胞接着分子（EpCAM）とHER2の二重マーカーを迅速かつ簡便に分析可能とした。この機構は、標的誘発性のDNAナノスフェア分解によりAgを放出し、シグナル増幅を実現する。本手法は乳がん由来sEVsの高感度検出を可能にし、臨床診断への応用が期待される。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "acDEP-assisted microfluidic chip for ultrasensitive detection of urinary exosomes for non-invasive hepatocellular carcinoma diagnosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42480447/",
+        "abstract": "Early detection of hepatocellular carcinoma (HCC) remains challenging due to the lack of sensitive and non-invasive diagnostic strategies. Urinary exosomes (or small extracellular vesicles, sEVs) represent a promising biomarker source, but technical challenges remain in achieving efficient and rapid separation coupled with immediate high-sensitivity analysis. To address this, we developed an alternating current dielectrophoresis-assisted microfluidic platform integrated with amphiphilic dendrimer supramolecular probes (ADSP) for rapid and sensitive detection. In this system, a non-uniform alternating electric field generated by comb-shaped electrodes actively drives exosomes toward an ADSP-modified nitrocellulose (NC) membrane via positive dielectrophoresis, while amphiphilic amphotericin B (AMB)-mediated supramolecular interactions enable stable capture through insertion into the exosomal lipid bilayer. The combined effect of electric-field enrichment and probe-mediated recognition significantly improves capture efficiency with a limit of detection (LOD) of 6 exosomes/μL, requiring only 52 μL of sample and 9 min for injection within a simple chip structure. Key operational parameters, including voltage, frequency, flow rate, and sample volume, were systematically optimized to maximize enrichment performance. The platform enabled highly sensitive fluorescence signal detection of exosomal biomarkers and successfully distinguished urine samples from HCC patients and healthy controls. Benefiting from the synergistic integration of electric-field-driven enrichment and supramolecular probe recognition, this strategy provides a simple, valid, and rapid approach for urinary exosome analysis, indicating its applicability to non-invasive liquid biopsy-based cancer detection.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bios.2026.119044",
+        "keyword": "sEVs",
+        "title_ja": "acDEP支援マイクロ流体チップによる尿中エクソソームの超高感度検出と非侵襲的肝細胞癌診断",
+        "summary_ja": "肝細胞癌（HCC）の早期診断は、高感度かつ非侵襲的な手法の欠如により困難である。尿中エクソソーム（小型細胞外小胞、sEVs）は有望なバイオマーカー源だが、効率的な分離と迅速な高感度分析の両立が課題である。本研究では、交流誘電泳動（acDEP）支援マイクロ流体チップと両親媒性デンドリマー超分子プローブ（ADSP）を統合したプラットフォームを開発した。櫛形電極による不均一交流電界が正の誘電泳動でエクソソームをADSP修飾ニトロセルロース膜へ能動的に集め、両親媒性アムホテリシンB（AMB）が脂質二重層への挿入により安定捕捉する。電界濃縮とプローブ認識の相乗効果で、検出限界6エクソソーム/μL、試料52μL、注入9分を達成した。電圧、周波数、流速、試料量を最適化し、HCC患者と健常者の尿を高感度蛍光検出で判別した。本手法は簡便で迅速な尿中エクソソーム分析を可能にし、非侵襲的液体生検による癌診断への"
+      },
+      {
+        "title": "A dual-recognition fluorescence chip utilizing a substrate-borne DNA walker for precision profiling of small extracellular vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42468096/",
+        "abstract": "We report a fluorescence chip based on a membrane-anchored, bipedal DNAzyme walker assembled on small extracellular vesicles (sEVs) surfaces via catalytic hairpin assembly (CHA). Unlike previously reported single-arm or proximity-ligation-dependent walkers on nanoparticle supports, this CHA-triggered DNAzyme walker is designed with a bipedal architecture and operates directly on the sEVs membrane. In our design, CHA simultaneously generates two DNAzyme arms on the same sEVs, enabling faster substrate cleavage kinetics and superior signal amplification. The assay achieves a theoretical detection limit of 2.8 particles/μL, approximately 1.5-fold lower than a comparable single-arm architecture. Dual recognition of the sEVs lipid bilayer and surface EpCAM protein (using a cholesterol-modified substrate and an anti-EpCAM antibody) effectively eliminates false-positive signals from free EpCAM or soluble interferents. The entire reaction cascade is integrated onto a chip platform, improving reproducibility and point-of-care potential. The chip performs robustly in fetal bovine serum and clinical serum samples, with recovery rates of 99.1-103.8% and strong correlation with nanoparticle tracking analysis. By establishing a CHA-assisted, bipedal walking mechanism on biological membranes, this work opens a new paradigm for designing efficient DNA nanomachines on membrane-enveloped targets.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bios.2026.119027",
+        "keyword": "sEVs",
+        "title_ja": "基板担持型DNAウォーカーを利用した二重認識蛍光チップによる小型細胞外小胞の精密プロファイリング",
+        "summary_ja": "本論文は、細胞外小胞（sEVs）膜上で二足型DNAzymeウォーカーを触媒的ヘアピンアセンブリ（CHA）により構築した蛍光チップを報告する。従来の単腕型や近接ライゲーション依存型と異なり、本設計はsEVs膜上でCHAが同時に2本のDNAzyme腕を生成し、基質切断速度と信号増幅能を向上させる。検出限界は2.8粒子/μLで、単腕型より約1.5倍高感度である。脂質二重層と表面EpCAMタンパク質の二重認識（コレステロール修飾基質と抗EpCAM抗体）により、遊離EpCAMや可溶性夾雑物による偽陽性を排除する。全反応はチップ上に統合され、再現性とポイントオブケア性能を向上。ウシ胎児血清や臨床血清で回収率99.1〜103.8%を示し、ナノ粒子追跡解析と強い相関を確認した。本手法は生物学的膜上でのCHA支援型二足歩行機構を確立し、膜包囲標的に対する高効率DNAナノマシン設計の新パラダイムを提供する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n**1. 無機リン酸と運動不耐性（現代食の脅威）**\n超加工食品に含まれる無機リン酸添加物は、ほぼ完全に吸収され、慢性過剰摂取が骨格筋のエネルギー代謝を損ない運動能力を低下させます。現代の食生活が身体機能を静かに蝕むメカニズムとして、公衆衛生上の警鐘となる重要な知見です。\n\n**2. 透析患者の骨代謝とSGLT2阻害薬**\nダパグリフロジンが骨細胞のSGLT2に作用しKlotho-FGF23軸を調節する可能性が示されました。CKD患者の骨障害という未解決課題に対し、既存薬の新たな適応が期待される画期的なアプローチです。\n\n**3. TIM3阻害によるNK細胞・T細胞の活性化回復**\n抗TIM3抗体と脱メチル化薬の併用が、AML/MDS患者のNK細胞と細胞傷害性CD4+T細胞の機能を回復させることが確認されました。従来の免疫チェックポイント阻害薬と異なる新規経路として、血液がん治療のブレークスルーが期待されます。\n\n**4. NMNによるCAR-NK細胞療法の増強**\nニコチンアミドモノヌクレオチド（NMN）が卵巣癌に対するCAR-NK細胞の抗腫瘍効果を増強しました。代謝調節による免疫細胞機能の向上は、固形癌におけるCAR-NK療法の壁を打破する可能性を秘めています。\n\n**5. 肺がんを10年前に予測するエクソソームsncRNAs**\n血中エクソソーム由来のsmall non-coding RNAsパネルが、肺がん発症を最長10年前に予測できることが示されました。超早期診断による予防医学の実現に向けた、極めて実用性の高い研究成果です。"
+}

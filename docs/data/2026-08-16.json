@@ -1,0 +1,136 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Hippocampal Klotho Expression Is Associated with the Neuroprotective Effects of Metformin Against ICV-STZ-Induced Cognitive Deficits.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42601004/",
+        "abstract": "Alzheimer's disease (AD) is characterized by progressive cognitive decline, amyloid-β (Aβ) accumulation, oxidative stress, and neuroinflammation. Increasing evidence links metabolic dysfunction to AD, suggesting that antidiabetic drugs such as metformin may exert neuroprotective effects. This study investigated the effects of long-term metformin pretreatment on cognitive function, hippocampal pathology, and neuroprotective gene expression in an intracerebroventricular streptozotocin (ICV-STZ) rat model of AD. Adult male Sprague-Dawley rats were assigned to Sham, STZ, Metformin, and STZ+Metformin groups. Metformin (2 g/L in drinking water) was administered for 12 weeks before ICV-STZ injection. Spatial learning and memory were assessed using the Morris water maze. Hippocampal pathology was evaluated by H&E, Nissl, and Congo red staining, and gene expression was analyzed by quantitative PCR. ICV-STZ induced cognitive impairment, hippocampal Aβ deposition, neuronal loss, and increased expression of pro-inflammatory and oxidative stress markers. Metformin pretreatment significantly improved spatial learning and memory, reduced amyloid burden, and preserved neuronal integrity in the CA1 and CA3 regions. Metformin increased hippocampal Klotho mRNA expression, enhanced antioxidant defenses (Nrf2 and HO-1), suppressed TNF-α, IL-1β, and iNOS expression, and increased IL-10 levels. Although BDNF mRNA expression showed an upward trend, the change was not statistically significant. No significant changes in blood glucose levels were observed. In conclusion, long-term metformin pretreatment attenuated STZ-induced AD-like pathology and cognitive deficits. Its neuroprotective effects were associated with increased hippocampal Klotho expression and reduced oxidative stress and neuroinflammation, supporting further investigation of metformin and the Klotho pathway as potential preventive strategies for AD.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ejphar.2026.179245",
+        "keyword": "Klotho",
+        "title_ja": "海馬Klotho発現は、メトホルミンのICV-STZ誘発認知障害に対する神経保護効果と関連する",
+        "summary_ja": "アルツハイマー病（AD）は、認知機能低下、アミロイドβ（Aβ）蓄積、酸化ストレス、神経炎症を特徴とする。本研究では、抗糖尿病薬メトホルミンがADモデル（ICV-STZラット）において神経保護効果を示すか検討した。成体雄性SDラットをSham、STZ、Metformin、STZ+Metformin群に分け、メトホルミン（飲水中2g/L）を12週間前投与した。モリス水迷路で空間学習・記憶を評価し、海馬病理をH&E、Nissl、Congo red染色で、遺伝子発現をqPCRで解析した。ICV-STZは認知障害、海馬Aβ沈着、神経細胞死、炎症・酸化ストレスマーカー増加を誘発したが、メトホルミン前投与はこれらを有意に改善し、CA1・CA3領域の神経完全性を保持した。また、海馬Klotho mRNA発現を増加させ、抗酸化防御（Nrf2、HO-1）を強化し、TNF-α、IL-1β、iNOS発現を抑制し、"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Preclinical and Clinical Translation of Immunomodulatory Role of Mesenchymal Stem Cells in Cancer Therapy Era.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42601582/",
+        "abstract": "Mesenchymal stem cells (MSCs) are multipotent stromal cells with dual regenerative and immunomodulatory properties that have attracted growing attention in cancer therapy. Their inherent tumor-homing ability enables localized delivery of therapeutic agents, while their capacity to regulate both innate and adaptive immunity positions MSCs at the interface of stromal biology and cancer immunotherapy. However, MSC functions are highly context-dependent and vary across tumor types.",
+        "source": "PubMed",
+        "doi": "10.1007/s13770-026-00830-4",
+        "keyword": "NK cell therapy",
+        "title_ja": "がん治療時代における間葉系幹細胞の免疫調節的役割の前臨床および臨床応用",
+        "summary_ja": "間葉系幹細胞（MSCs）は、再生能と免疫調節能を併せ持つ多能性間質細胞であり、がん治療において注目を集めている。MSCsは腫瘍指向性を有し、治療薬の局所送達を可能にする一方、自然免疫と獲得免疫の両方を調節する能力から、間質生物学とがん免疫療法の接点に位置づけられる。しかし、MSCの機能は腫瘍の種類や微小環境に強く依存し、その作用は文脈依存的である。前臨床試験では、MSCsが腫瘍増殖を促進する場合と抑制する場合の双方が報告されており、その二面性が課題となっている。臨床応用に向けては、MSCsの免疫調節機構の詳細な解明と、腫瘍特異的な機能制御が不可欠である。本総説は、MSCsのがん治療における免疫調節的役割の前臨床・臨床試験の現状を整理し、今後の治療戦略への応用可能性を考察する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Gone but not forgotten: CAR-NK cells leave a lasting mark on autoimmunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42600571/",
+        "abstract": "In this phase 1 open-label trial, Zeng et al.",
+        "source": "PubMed",
+        "doi": "10.1016/j.medj.2026.101265",
+        "keyword": "NK cell therapy",
+        "title_ja": "去りゆけども忘れられず：CAR-NK細胞が自己免疫に残す永続的な足跡",
+        "summary_ja": "この第1相非盲検試験で、Zengらは再発・難治性の自己免疫疾患患者を対象に、CD19を標的としたCAR-NK細胞療法の安全性と有効性を評価した。CAR-NK細胞は、患者自身のNK細胞にキメラ抗原受容体（CAR）を導入して作製され、単回投与された。主要評価項目は安全性で、用量制限毒性は認められず、サイトカイン放出症候群や神経毒性も軽度かつ一過性であった。有効性では、全身性エリテマトーデス、全身性硬化症、特発性炎症性筋炎などの患者で、B細胞の深い枯渇が確認され、疾患活動性の指標（SLEDAI、mRSS、筋炎スコアなど）が有意に改善した。特に、CAR-NK細胞は体内で長期間持続し、B細胞枯渇が数ヶ月間維持された。また、CAR-NK細胞はT細胞とは異なり、サイトカイン放出症候群や免疫エフェクター細胞関連神経毒性症候群のリスクが低く、同種異系でも拒絶されにくいという利点が示された。この結果は、CAR"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Beyond the needle: psychosocial and quality-of-life outcomes following facial aesthetic injectable treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602642/",
+        "abstract": "Facial aesthetic injectables are commonly discussed through an anatomic and cosmetic lens. However, patients often seek treatment for reasons that exceed physical correction or enhancement, including confidence, social functioning, self-perception, and appearance-related distress.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jpra.2026.07.031",
+        "keyword": "Exosomes",
+        "title_ja": "針を超えて：顔面美容注射治療後の心理社会的および生活の質に関する転帰",
+        "summary_ja": "本論文は、顔面美容注射治療における心理社会的およびQOL（生活の質）アウトカムに焦点を当てる。従来、解剖学的・審美的観点から論じられることが多いが、患者は外見の修正や向上だけでなく、自信、社会的機能、自己認識、外見関連の苦痛といった心理的要因から治療を求めることが多い。治療は単なる物理的変化を超え、心理的ウェルビーイングに有意な影響を与える可能性がある。本レビューは、これらの治療が患者の精神的健康や社会的相互作用に与える効果を評価し、臨床実践における心理社会的側面の重要性を強調する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Polygonum cuspidatum Exosome-Like Nanovesicles Alleviate Hypoxic Pulmonary Hypertension by Stabilizing PON1 to Inhibit MAPK-Mediated PASMC Phenotypic Switching.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42603092/",
+        "abstract": "Hypoxic pulmonary hypertension (HPH) is characterized by excessive proliferation of pulmonary vascular cells, ultimately resulting in right heart failure and death. Although resveratrol, an active component of Polygonum cuspidatum (PC), has shown efficacy against HPH, the mechanism of PC exosome-like nanovesicles (PCELNs) in HPH remains unclear. PC exosome-like nanovesicles (PCELNs) were characterized using transmission electron microscopy, dynamic light scattering, and immunofluorescence (IF). A mouse HPH model was established by chronic hypoxic exposure. Hemodynamic parameters were measured, and pulmonary vascular pathology was assessed via H&E and Masson staining. Protein expression of PCNA, α-SMA, and OPN was analyzed by immunohistochemistry (IHC) and IF. Mouse primary PASMCs were isolated and cultured. Cell proliferation, apoptosis, and migration were evaluated using EdU assay, flow cytometry, and Transwell assay, respectively. Proteins related to phenotypic switching, autophagy, and the MAPK pathway were detected via Western blot. JC-1 staining, Mito-Tracker staining, IF, ATP/SOD assay kits, and flow cytometry were used to assess mitochondrial membrane potential, morphology, mitophagy, energy metabolism, and reactive oxygen species levels, respectively. Network pharmacology screened common targets of resveratrol and pulmonary hypertension, with molecular docking validating binding affinity. PC exosome-like nanovesicles (PCELNs) alleviated HPH, significantly improving pulmonary artery remodeling and hemodynamic indices in mice, inhibiting abnormal PASMC proliferation and migration, promoting apoptosis, and ameliorating mitochondrial function. The mechanism involves stabilizing paraoxonase 1 (PON1) expression, thereby suppressing MAPK pathway activation. PC exosome-like nanovesicles (PCELNs) alleviate HPH by enhancing PASMC phenotypic switching and mitigating mitochondrial dysfunction through the PON1/MAPK axis, providing a novel therapeutic strategy.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202600973R",
+        "keyword": "Exosomes",
+        "title_ja": "イタドリ由来エクソソーム様ナノ小胞は、PON1を安定化させMAPKを介したPASMCの表現型転換を阻害することにより、低酸素性肺高血圧症を軽減する",
+        "summary_ja": "虎杖外泌体样纳米囊泡（PCELNs）通过稳定PON1抑制MAPK介导的肺动脉平滑肌细胞（PASMC）表型转换，从而缓解低氧性肺动脉高压（HPH）。HPH以肺血管细胞过度增殖为特征，可致右心衰竭和死亡。虽虎杖活性成分白藜芦醇对HPH有效，但PCELNs的作用机制不明。本研究通过透射电镜、动态光散射和免疫荧光表征PCELNs，建立慢性低氧小鼠HPH模型，测定血流动力学、肺血管病理（H&E和Masson染色），并用免疫组化/免疫荧光检测PCNA、α-SMA和OPN表达。分离培养小鼠原代PASMC，用EdU、流式细胞术和Transwell评估增殖、凋亡和迁移；Western blot检测表型转换、自噬及MAPK通路蛋白；JC-1、Mito-Tracker、ATP/SOD试剂盒和流式细胞术评估线粒体功能。网络药理学筛选白藜芦醇与肺动脉高压共同靶点，分子对接验证结合亲和力。结果显示，PCELNs显著改"
+      },
+      {
+        "title": "Pathophysiological and translational implications of the dysregulation of molecular machineries controlling RNA metabolism in thyrotropinomas.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602702/",
+        "abstract": "The contribution of post-transcriptional regulation remains largely unexplored in thyrotropin-secreting pituitary tumors (TSHomas), a rare endocrine pathology responsible for inappropriate TSH secretion and central hyperthyroidism. We investigated the TSHoma post-transcriptional regulatory landscape by analyzing components of molecular machineries controlling RNA metabolism [spliceosome/RNA-exosome/nonsense-mediated decay (NMD)], their associations with clinical parameters, and the impact of their pharmacological inhibition in TSHoma cells. A drastic dysregulation of multiple components of spliceosome [spliceosome (",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.117055",
+        "keyword": "Exosomes",
+        "title_ja": "甲状腺刺激ホルモン産生下垂体腺腫におけるRNA代謝を制御する分子機構の調節異常の病態生理学的およびトランスレーショナルな意義",
+        "summary_ja": "甲状腺刺激ホルモン分泌性下垂体腫瘍（TSHoma）は、不適切なTSH分泌と中枢性甲状腺機能亢進症を引き起こす稀な内分泌疾患である。本研究では、TSHomaにおける転写後調節の関与を解明するため、RNA代謝を制御する分子機構（スプライセオソーム、RNAエクソソーム、ナンセンス変異依存分解（NMD））の構成要素を解析し、臨床パラメータとの関連性、および薬理学的阻害の影響を評価した。その結果、TSHomaではスプライセオソーム、RNAエクソソーム、NMDの複数の構成要素が著しく調節異常を示した。これらの異常は腫瘍の臨床的特徴と関連し、特にスプライセオソーム関連因子の発現変化が顕著であった。さらに、TSHoma細胞においてこれらの機構を薬理学的に阻害すると、細胞増殖やホルモン分泌に影響が及ぶことが示された。本研究は、TSHomaの病態生理における転写後調節の重要性を明らかにし、新たな治療標的の可能"
+      },
+      {
+        "title": "The Redox Code of Diabetic Retinopathy: Decoding Metabolic Memory, Predicting Fate, and Targeting Heterogeneity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42601009/",
+        "abstract": "Diabetic retinopathy (DR) has traditionally been viewed as a consequence of cumulative oxidative damage. However, the clinical phenomenon of metabolic memory, whereby prior hyperglycemia continues to exert adverse effects despite subsequent glucose normalization, indicates a more complex redox biology. This review advances a paradigm shift from considering reactive species merely as markers of injury to interpreting oxidative signatures as a dynamic, compartment-specific code that records glycemic history, predicts disease trajectory, and enables therapeutic subtyping. We synthesize evidence across multiple redox layers, including protein oxidative post-translational modifications such as S-glutathionylation and tyrosine nitration, lipid peroxidation products, mitochondrial DNA damage, and epigenetic rewriting mediated by SET domain-containing lysine methyltransferase 7 (SETD7, also known as SET7/9)-dependent monomethylation of histone H3 lysine 4 (H3K4me1). Persistent failure of mitochondrial quality control and maladaptive chromatin remodeling may stabilize hyperglycemia-induced redox programs after glucose normalization, whereas exosomal signaling may contribute to their intercellular propagation. In this context, metabolic memory refers to the durable yet potentially modifiable maintenance of these molecular programs rather than absolute biological irreversibility. Moving beyond the failure of generic antioxidant approaches, we introduce a clinical taxonomy of redox subphenotypes, glutathione-deficient, lipid-peroxidation-dominant, mitochondrial reactive oxygen species (ROS)-driven, and epigenetic redox-lock, each linked to candidate, predominantly preclinical, mechanism-matched interventions, including thiol-repleting agents, ferroptosis inhibitors, mitophagy-enhancing or mitochondrial-protective agents, and epigenetic modulators. Finally, we outline an integrated roadmap combining single-cell redox profiling, liquid-biopsy multi-omics, and biomarker-enriched clinical trial designs to translate redox signatures into precision management. Decoding the redox code may extend the traditional oxidative stress paradigm by revealing biologically heterogeneous molecular states with distinct therapeutic implications.",
+        "source": "PubMed",
+        "doi": "10.1016/j.exer.2026.111200",
+        "keyword": "Exosomes",
+        "title_ja": "糖尿病網膜症のレドックスコード：代謝記憶の解読、運命の予測、そして不均一性への標的化",
+        "summary_ja": "糖尿病網膜症（DR）は従来、累積的酸化損傷の結果と見なされてきた。しかし、血糖正常化後も高血糖の影響が持続する「代謝記憶」現象は、より複雑なレドックス生物学を示唆する。本総説は、活性種を損傷マーカーではなく、血糖履歴を記録し病態進行を予測し治療サブタイピングを可能にする「区画特異的コード」として解釈するパラダイムシフトを提唱する。複数のレドックス層（S-グルタチオン化やチロシン硝化などのタンパク質酸化修飾、脂質過酸化産物、ミトコンドリアDNA損傷、SETD7依存性H3K4me1によるエピジェネティック再プログラム）の証拠を統合する。ミトコンドリア品質管理の持続的障害と適応不全クロマチンリモデリングが高血糖誘発レドックスプログラムを安定化し、エクソソームシグナルが細胞間伝播に寄与する。代謝記憶は可変的で修正可能な分子プログラムの維持を指す。汎用抗酸化アプローチの失敗を踏まえ、グルタチオン欠乏"
+      },
+      {
+        "title": "Viral miR-004-5p Hijacks Host Exosomes to Suppress TBK1-Mediated Antiviral Immunity During Koi Herpes Virus Infection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42600797/",
+        "abstract": "Virus-infected cells release exosomes that transport viral and host molecules to recipient cells and modulate viral replication. However, the biological roles of exosomes derived from Koi Herpes Virus (KHV)-infected carp remain poorly characterized. In this work, we isolated serum exosomes from KHV-infected koi carp via differential centrifugation and validated their identity using transmission electron microscopy (TEM), nanoparticle flow analysis and Western blot. High-throughput sequencing was further applied to profile the molecular composition of these exosomes. We identified that KHV-encoded miR-004-5p is packaged into host serum exosomes. Functional assays revealed that exosomal miR-004-5p directly targets and downregulates host TANK-binding kinase 1 (TBK1). Reduced TBK1 expression subsequently suppresses the type I interferon (IFN-I) signaling pathway and promotes cellular autophagy, ultimately facilitating viral immune evasion. Moreover, miR-004-5p markedly impairs the host antiviral defense by modulating TBK1-mediated immune responses. Collectively, this study uncovers a novel immune regulatory mechanism mediated by exosome-carried viral miR-004-5p during KHV infection. Our results demonstrate that exosomes act as critical carriers for viral miRNAs and participate in host-virus interactions. These findings not only deepen the understanding of fish antiviral immunity, but also provide theoretical references and potential targets for the prevention and control of aquatic viral diseases.",
+        "source": "PubMed",
+        "doi": "10.1016/j.fsi.2026.111651",
+        "keyword": "Exosomes",
+        "title_ja": "ウイルス性miR-004-5pは宿主エクソソームを乗っ取り、コイヘルペスウイルス感染時のTBK1を介した抗ウイルス免疫を抑制する",
+        "summary_ja": "KHV（コイヘルペスウイルス）感染コイの血清から超遠心分離でエクソソームを単離し、透過型電子顕微鏡、ナノ粒子フロー解析、ウエスタンブロットで同定した。高深度シーケンスにより、KHVがコードするmiR-004-5pが宿主血清エクソソームに内包されることを発見した。機能解析の結果、エクソソーム由来miR-004-5pは宿主のTANK結合キナーゼ1（TBK1）を直接標的として発現を低下させ、I型インターフェロン（IFN-I）シグナル伝達を抑制し、細胞のオートファジーを促進することでウイルスの免疫逃避を助長することが示された。さらに、miR-004-5pはTBK1を介した免疫応答を調節し、宿主の抗ウイルス防御を著しく損なう。本研究は、KHV感染時にエクソソームが運ぶウイルスmiRNAが宿主免疫を制御する新規メカニズムを解明し、エクソソームがウイルスmiRNAの重要な運搬体として宿主-ウイルス相互作"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックをまとめます。\n\n**1. メトホルミンとKlothoによるAD治療**\n海馬Klotho発現がメトホルミンの神経保護効果に関与することを示した。Klothoは抗老化因子として知られ、ADの新規バイオマーカー・治療標的となる可能性を秘める。\n\n**2. CAR-NK細胞による自己免疫疾患治療**\n再発・難治性自己免疫疾患へのCD19 CAR-NK細胞療法が第1相試験で有望な結果を示した。CAR-Tに比べサイトカイン放出症候群のリスクが低く、オフ・ザ・シェルフ製剤化が可能な点で今後の拡大が期待される。\n\n**3. 植物由来エクソソーム様ナノ小胞（PCELNs）**\n虎杖のエクソソーム様ナノ小胞がPON1安定化を介して肺高血圧症を改善。植物由来ナノベシクルは低コスト・大量生産が可能で、新たな細胞外小胞治療のプラットフォームとなる。\n\n**4. ウイルスmiRNAによるエクソソーム乗っ取り**\nKHV由来miR-004-5pが宿主エクソソームに内包され、TBK1を介した抗ウイルス免疫を抑制することを解明。病原体が細胞外小胞を免疫逃避に利用する新機構を示し、抗ウイルス療法開発への応用が期待される。\n\n**5. 糖尿病網膜症のレドックスコード**\n酸化ストレスを単なる損傷ではなく「代謝記憶」を記録する情報媒体と捉え、病態予測と個別化治療への転換を提唱。レドックス状態の解読が新規治療戦略につながる可能性がある。"
+}

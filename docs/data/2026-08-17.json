@@ -1,0 +1,114 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Mesenchymal stromal/stem cells in inflammatory bowel disease: Crosstalk with innate and adaptive immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42546832/",
+        "abstract": "Inflammatory bowel disease (IBD) is characterized by chronic, relapsing, inflammatory, and immune-mediated responses in the intestinal tract. IBD includes the two well-defined subsets Crohn's disease (CD) and ulcerative colitis (UC). Mesenchymal stromal/stem cells (MSCs) are non-hematopoietic progenitor cells known for their regenerative and immunomodulatory capabilities. They have gained prominence as therapeutic agents for immune-mediated disorders, such as IBD. This review summarizes and categorizes the therapeutic significance of MSCs for IBD in the context of their interactions with various innate and adaptive immune cells, including neutrophils, monocytes/macrophages, dendritic cells (DC), natural killer (NK) cells, B lymphocytes, and T lymphocytes.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ejphar.2026.179209",
+        "keyword": "NK cell therapy",
+        "title_ja": "炎症性腸疾患における間葉系間質/幹細胞：自然免疫および獲得免疫とのクロストーク",
+        "summary_ja": "炎症性腸疾患（IBD）は、腸管における慢性・再発性の炎症性・免疫介在性反応を特徴とし、クローン病（CD）と潰瘍性大腸炎（UC）の2つの主要な病型を含む。間葉系間質/幹細胞（MSCs）は、非造血系前駆細胞であり、再生能と免疫調節能を有する。MSCsはIBDなどの免疫介在性疾患に対する治療薬として注目されている。本総説では、MSCsのIBDに対する治療的意義を、好中球、単球/マクロファージ、樹状細胞（DC）、ナチュラルキラー（NK）細胞、Bリンパ球、Tリンパ球といった自然免疫および獲得免疫細胞との相互作用の観点から整理・分類して要約する。MSCsはこれらの免疫細胞とクロストークし、炎症性応答を抑制し、組織修復を促進する可能性が示されている。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Engineered Exosome-Mediated FIH-1 Delivery for Targeted Therapy of Hyperuricemic Nephropathy by Inhibiting NF-κB/NLRP3 Inflammasome Signaling and Restoring Autophagic Homeostasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42604445/",
+        "abstract": "Renal tubular epithelial fibrosis is a key pathological process in the progression of hyperuricemia (HUA), and hyperuricemic nephropathy (HN). Targeted inhibition of renal tubular epithelial cell (RTEC) fibrosis represents a promising therapeutic strategy for HN. Extracellular vesicles derived from induced pluripotent stem cell-derived mesenchymal stem cells (iPSC-MSCs) were engineered as nanostructured delivery vehicles incorporating two functional modules: a kidney-targeting module and a functional protein module. The targeting module was constructed by anchoring cholesterol-modified RTEC-specific peptides onto the extracellular vesicle membrane to enhance selective accumulation in RTECs. The functional protein module consisted of extracellular vesicles enriched with factor inhibiting hypoxia-inducible factor 1 (FIH-1). Functional analyses demonstrated that FIH-1 delivery effectively suppressed uric acid (UA)-induced fibrotic responses by inhibiting activation of the NF-κB/NLRP3 inflammasome signaling pathway and restoring dysregulated autophagy. These coordinated regulatory effects resulted in significant downregulation of renal tubular epithelial injury. The targeting capability and therapeutic efficacy of the engineered extracellular vesicle system were further validated in both in vitro and in vivo models of HUA-associated renal injury. Collectively, these findings establish a targeted exosome-based nanotherapeutic strategy for the precision treatment of HN and provide a conceptual framework for the development of next-generation engineered extracellular vesicle platforms in regenerative medicine.",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.71602",
+        "keyword": "Exosomes",
+        "title_ja": "人工設計エクソソームを介したFIH-1送達による、NF-κB/NLRP3インフラマソームシグナル伝達の阻害およびオートファジー恒常性の回復を介した高尿酸血症性腎症の標的治療",
+        "summary_ja": "本論文は、高尿酸血症関連腎症（HN）に対する新規ナノ治療戦略を報告する。HN進行の鍵となる尿細管上皮細胞（RTEC）線維化を標的とし、iPSC由来間葉系幹細胞の細胞外小胞を改変した送達システムを構築した。このシステムは、コレステロール修飾RTEC特異的ペプチドによる腎標的モジュールと、低酸素誘導因子1阻害因子（FIH-1）を富化した機能タンパク質モジュールを統合する。FIH-1送達は、NF-κB/NLRP3インフラマソーム経路の活性化を抑制し、異常なオートファジーを回復させることで、尿酸誘発性の線維化応答を効果的に抑制した。その結果、尿細管上皮障害が有意に軽減された。標的能力と治療効果は、in vitroおよびin vivoのHUA関連腎障害モデルで検証された。本成果は、HNの精密治療に向けたエクソソームベースの標的ナノ治療戦略を確立し、再生医療における次世代改変細胞外小胞プラットフォーム"
+      },
+      {
+        "title": "Circulating miRNAs for glioblastoma monitoring: from biofluid to clinical decision.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42604142/",
+        "abstract": "Gliomas, particularly glioblastoma (GBM), remain highly lethal brain tumors with limited treatments. MRI-based monitoring lacks specificity in distinguishing progression from treatment effects. Circulating microRNAs (miRNAs), small non-coding RNAs involved in tumor biology, show promise as liquid biopsy biomarkers. We searched PubMed, Embase, Scopus, and Web of Science for clinical studies investigating circulating miRNAs as diagnostic, prognostic, or predictive biomarkers in glioma, across plasma, serum, and cerebrospinal fluid (CSF). Oncogenic miRNAs (oncomiRs) such as miR-21, miR-10b, miR-182, and miR-210 were consistently upregulated in glioma patients, whereas tumor suppressors including miR-124, miR-128, miR-137, and miR-181 family members were downregulated. Prognostically, elevated miR-21, miR-222, and miR-196b correlated with poor survival, while reduced miR-181d, miR-100, and miR-145 predicted worse outcomes. Composite signatures, particularly exosomal or CSF-derived panels, outperformed single markers. Dynamic changes in miR-21, miR-222, and miR-210 reflected treatment response or progression, with exosomal miR-1238 emerging as a marker of temozolomide resistance. Longitudinal serum levels of miR-223 and miR-320e correlated with MRI tumor volume and distinguished true progression from pseudo-progression. Circulating miRNAs show strong potential as minimally invasive biomarkers for glioma management, but clinical translation remains limited by technical and biological variability and lack of validation. Advances in biosensors, multi-omics, and standardization are key to clinical integration.",
+        "source": "PubMed",
+        "doi": "10.1016/j.omton.2026.201308",
+        "keyword": "Exosomes",
+        "title_ja": "膠芽腫モニタリングのための循環miRNA：生体液から臨床判断へ",
+        "summary_ja": "グリオブラストーマ（GBM）は致死性の高い脳腫瘍で、MRIによる監視は治療効果と進行の鑑別に限界がある。循環マイクロRNA（miRNA）は液体生検バイオマーカーとして有望である。PubMed等で臨床研究を検索し、血漿・血清・脳脊髄液（CSF）中のmiRNAを評価した。オンコgenic miRNA（miR-21、miR-10b、miR-182、miR-210）はグリオーマ患者で一貫して上昇し、腫瘍抑制因子（miR-124、miR-128、miR-137、miR-181ファミリー）は低下した。予後では、miR-21、miR-222、miR-196bの高発現が不良生存と関連し、miR-181d、miR-100、miR-145の低下も不良予後を示した。エクソソームやCSF由来の複合シグネチャーは単一マーカーより優れた。治療反応や進行の反映にはmiR-21、miR-222、miR-210の動的変化が"
+      },
+      {
+        "title": "Exosomes as next-generation drug carriers: Transforming cancer therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42603664/",
+        "abstract": "Cancer remains a major global health challenge, with its growing incidence highlighting the critical need for effective and accessible treatments. Current therapeutic approaches, including surgery, chemotherapy, radiation therapy, hormone therapy, and immuno-therapy, are often limited by toxicity, poor targeting, and suboptimal efficacy. These challenges have driven the development of nanotechnology-based strategies aimed at improving tumor selectivity and therapeutic outcomes. Among the most promising are extracellular vesicles, particularly exosomes (30-150 nm), which have garnered significant attention as natural nanocarriers due to their inherent role in intercellular communication and their capacity to encapsulate proteins, nucleic acids, and lipids. Exosomes can be obtained from a wide range of sources, including biological fluids, cell cultures, and unconventional origins such as plants and microorganisms. Of particular interest are milk- and colostrum-derived exosomes, particularly those of bovine origin, have emerged as a promising delivery platform owing to their scalability, biocompatibility, cost-effectiveness and suitability for oral administration. These vesicles possess immunomodulatory properties, demonstrate stability under gastrointestinal conditions, and are readily internalized by intestinal epithelial cells. Furthermore, surface engineering with targeting ligands such as folic acid can enhance tumor specific delivery by exploiting receptor overexpression while minimizing systemic toxicity. This review critically examines exosome sources, isolation and characterization methodologies, cargo-loading strategies, biodistribution, pharmacokinetics, and engineering approaches together with their applications in delivering small-molecule drugs and nucleic acid-based therapeutics to overcome multidrug resistance in cancer. In addition, current challenges related to exosome heterogeneity, manufacturing, quality control, clinical translation, and regulatory considerations are discussed, together with future perspectives for the development of exosome-based therapeutics.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jconrel.2026.115265",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを次世代の薬物キャリアとして活用：がん治療を変革する",
+        "summary_ja": "エクソソームは、細胞間コミュニケーションを担う30〜150nmの天然ナノキャリアであり、タンパク質や核酸、脂質を内包できることから、次世代のがん治療薬運搬体として注目されている。従来の治療法（手術、化学療法、放射線、ホルモン療法、免疫療法）は毒性や標的性の低さが課題であり、ナノテクノロジーを活用した腫瘍選択性の向上が求められている。エクソソームは体液や細胞培養、植物や微生物など多様な供給源から得られ、特にウシ乳や初乳由来のものは、拡張性、生体適合性、コスト効率、経口投与の可能性に優れる。これらは免疫調節作用を持ち、胃腸環境で安定し、腸上皮細胞に取り込まれやすい。葉酸などの標的リガンドによる表面修飾は、受容体過剰発現を利用して腫瘍特異的送達を強化し、全身毒性を低減する。本レビューは、エクソソームの供給源、単離・特性評価法、カーゴ搭載戦略、体内分布、薬物動態、工学的アプローチを検討し、小分子薬"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Endothelial progenitor cells-derived exosomes reduce ferroptosis and promote neovascularization after intracranial atherosclerosis in association with the NCOA4/FTH1 cascade modulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42603839/",
+        "abstract": "Intracranial atherosclerosis (ICAS) is a leading cause of ischemic stroke. This study explored the mechanism of endothelial progenitor cells-derived exosomes (EPCs-exos) in ICAS. Rat EPCs were isolated, EPCs-exos were extracted and identified. A rat model of ICAS was established, and EPCs and EPCs-exos or lentiviral si-NCOA4 were injected into rats to observe the histopathological changes in cerebral microvessels, ferroptosis, angiogenesis, inflammatory indexes, and the NCOA4/FTH1 pathway. Hematoxylin and eosin staining was performed to observe the histopathology of cerebral microvascular tissue. EPCs were successfully isolated from rats and EPCs-exos were identified. EPC treatment inhibited the NCOA4/FTH1 pathway, hindered inflammatory responses and ferroptosis in ICAS rats, promoted neovascularization, and improved histopathology. EPCs-exos similarly reduced inflammatory responses and ferroptosis and promoted neovascularization in ICAS rats. In conclusion, EPCs‑exos reduce ferroptosis, attenuate inflammatory responses, and enhance cerebral neovascularization in ICAS rats in association with the NCOA4/FTH1 pathway modulation.",
+        "source": "PubMed",
+        "doi": "10.1007/s13346-026-02198-3",
+        "keyword": "Exosomes",
+        "title_ja": "内皮前駆細胞由来エクソソームは、NCOA4/FTH1カスケードの調節を介して頭蓋内動脈硬化後のフェロトーシスを抑制し、新生血管形成を促進する。",
+        "summary_ja": "頭蓋内アテローム性動脈硬化症（ICAS）は虚血性脳卒中の主要因である。本研究は、内皮前駆細胞由来エクソソーム（EPCs-exos）のICASにおける作用機序を検討した。ラットEPCsを単離し、EPCs-exosを抽出・同定した。ICASラットモデルを作製し、EPCs、EPCs-exos、またはレンチウイルスsi-NCOA4を投与し、脳微小血管の組織病理学的変化、フェロトーシス、血管新生、炎症指標、NCOA4/FTH1経路を観察した。ヘマトキシリン・エオジン染色で脳微小血管組織の病理を評価した。EPCsはラットから正常に単離され、EPCs-exosも同定された。EPC処置はNCOA4/FTH1経路を抑制し、ICASラットの炎症反応とフェロトーシスを阻害し、血管新生を促進し、組織病理を改善した。EPCs-exosも同様に炎症反応とフェロトーシスを軽減し、血管新生を促進した。結論として、EPCs"
+      },
+      {
+        "title": "Restoration of Neuronal Metabolism and Memory in Alzheimer's Disease by Reprogramming the Exosomal microRNA Network.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42603243/",
+        "abstract": "Historically the development of amyloid-β plaques and tau neurofibrillary tangles have been used as the hallmarks of Alzheimer's disease (AD). However, there is increasing evidence suggests that these pathological hallmarks are secondary to deeper metabolic defect in the brain. AD is progressively being recognized as a metabolic synaptic disorder characterized by insulin resistance, impaired cellular energy homeostasis, mitochondrial dysfunction, and synaptic degeneration. Synaptic plasticity is closely linked to the insulin-sensitive system of glucose utilization, mitochondrial activity, and local protein synthesis that render the synapses highly sensitive to the malfunction of the metabolic system. Recent discoveries highlight the important role of exosomes in mediating communication between neural cells by transferring regulatory miRNAs across neuronal networks. Exosomal miRNAs regulate insulin signaling, synaptic gene expression, mitochondrial function, and neuroinflammation. In AD, exosomal miRNA profiles are significantly altered, with enrichment of miR-29, miR-34a, miR-146a, and miR-21, alongside depletion of synapse-supporting miR-132. These changes contribute to insulin resistance, impaired glucose transporter trafficking, dendritic spine destabilization, and reduced expression of synaptic proteins such as PSD-95 and synaptophysin, ultimately leading to cognitive decline. Importantly, neuron-derived exosomes can cross the blood-brain barrier, making their miRNA cargo promising biomarkers and therapeutic targets for early AD diagnosis and precision treatment.",
+        "source": "PubMed",
+        "doi": "10.1007/s12031-026-02587-w",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム内マイクロRNAネットワークのリプログラミングによるアルツハイマー病における神経代謝と記憶の回復",
+        "summary_ja": "アルツハイマー病（AD）は従来、アミロイドβ斑やタウ神経原線維変化が特徴とされてきたが、近年これらは脳の代謝異常に続発するものと捉えられている。ADはインスリン抵抗性、エネルギー恒常性の破綻、ミトコンドリア機能障害、シナプス変性を伴う代謝性シナプス障害として認識されつつある。シナプス可塑性はインスリン感受性のグルコース利用、ミトコンドリア活性、局所タンパク質合成に依存しており、代謝系の異常に鋭敏である。最近の研究では、エクソソームが神経細胞間で調節性miRNAを輸送し、コミュニケーションを媒介する重要な役割が示されている。エクソソームmiRNAはインスリンシグナル伝達、シナプス遺伝子発現、ミトコンドリア機能、神経炎症を制御する。ADではエクソソームmiRNAプロファイルが有意に変化し、miR-29、miR-34a、miR-146a、miR-21が増加し、シナプス支持性のmiR-132が減少"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n1. **MSCsとIBDのクロストーク**: 間葉系幹細胞（MSCs）の免疫調節能に着目し、炎症性腸疾患（IBD）における自然免疫・獲得免疫との相互作用を解明。既存治療が効かない症例への新たな細胞治療の基盤となる。\n\n2. **FIH-1搭載エクソソームによる腎症治療**: 高尿酸血症関連腎症に対し、iPSC由来MSCの細胞外小胞を改変し、FIH-1を標的送達。NF-κB/NLRP3経路阻害とオートファジー回復により、線維化を抑制する新規ナノ治療戦略。\n\n3. **循環miRNAによるGBMモニタリング**: グリオブラストーマの液体生検として循環miRNAが有望。MRIの限界を補い、治療効果判定や再発早期検出を可能にする臨床応用への橋渡し研究。\n\n4. **エクソソームのがん薬物送達**: 天然ナノキャリアとしてのエクソソームは、低免疫原性・高生体適合性を活かし、次世代のがん治療薬運搬体として注目。従来治療の副作用軽減と効果増強が期待される。\n\n5. **EPCs由来エクソソームとフェロトーシス制御**: 頭蓋内アテローム性動脈硬化症に対し、内皮前駆細胞由来エクソソームがNCOA4/FTH1カスケードを介してフェロトーシスを抑制し、血管新生を促進。虚血性脳卒中治療への新たな道を開く。\n\nこれらの研究は、細胞外小胞を活用した精密医療の進展を示し、難治性疾患への応用が期待されます。"
+}

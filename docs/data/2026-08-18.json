@@ -1,0 +1,62 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Application of Exosome Derived from Mesenchymal Stem Cells after Cerebral Stroke: The Role of Exosomes on Mitochondrial Dysfunction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42605123/",
+        "abstract": "Stroke is a major cerebrovascular event leading to high rates of disability and mortality around the world. Fundamental research has elucidated the pathological processes of stroke to inform effective therapeutic strategies. Mitochondria, as the primary energy source for neurons, play a pivotal role in maintaining nervous tissue homeostasis, and disruptions in their function contribute to mitochondrial dysfunction, neuronal injury, and apoptosis. Exosomes, particularly those derived from mesenchymal stem cells (MSCs), exhibit remarkable potential as an ideal therapeutic modality. Owing to their nanoscale dimensions and bioactive cargo, exosomes can traverse the blood-brain barrier and modulate injury outcomes in the central nervous system (CNS). This review synthesizes prior studies to delineate the current status and therapeutic promise of MSC-derived exosomes as a cell-free approach for stroke management.",
+        "source": "PubMed",
+        "doi": "10.1177/15473287261466353",
+        "keyword": "Exosomes",
+        "title_ja": "脳卒中後の間葉系幹細胞由来エクソソームの応用：ミトコンドリア機能障害に対するエクソソームの役割",
+        "summary_ja": "脳卒中は世界的に高い障害率・死亡率を伴う主要な脳血管疾患である。基礎研究によりその病態過程が解明され、治療戦略の開発が進んでいる。神経細胞の主要なエネルギー源であるミトコンドリアは神経組織の恒常性維持に重要であり、その機能障害は神経損傷やアポトーシスを引き起こす。間葉系幹細胞（MSCs）由来エクソソームは、ナノサイズと生物活性物質により血液脳関門を通過し、中枢神経系の損傷を調節できるため、理想的な治療手段として注目されている。本総説は、MSC由来エクソソームの細胞を用いない脳卒中治療法としての現状と治療可能性を、これまでの研究を統合して概説する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、注目すべき5トピックをまとめます。\n\n**1. 脳卒中後のMSC由来エクソソームとミトコンドリア機能**\n間葉系幹細胞（MSC）由来エクソソームが、障害された神経細胞のミトコンドリア機能を改善し、脳卒中後の神経保護に寄与する可能性が示された。ミトコンドリアは神経恒常性の要であり、その機能回復は新規治療標的として有望である。\n\n**2. Klothoと老化・神経変性**\nKlothoは抗老化因子として知られ、認知機能や腎保護に関与。今後の老化関連疾患治療への応用が期待される。\n\n**3. PF4（血小板第4因子）と神経可塑性**\nPF4は血小板由来因子で、神経幹細胞の活性化やシナプス可塑性への関与が注目されている。\n\n**4. NK細胞療法の進展**\nがん免疫療法におけるNK細胞の遺伝子改変や併用療法が進み、固形がんへの適応拡大が期待される。\n\n**5. エクソソーム/小型細胞外小胞（sEVs）の診断応用**\nsEVsはバイオマーカーとしての有用性が高まり、非侵襲的診断や治療モニタリングへの応用が加速している。\n\n**今後の展望**：これらの研究は、細胞外小胞や液性因子を活用した次世代の再生医療・精密医療の基盤となり、臨床応用に向けた安全性・有効性の検証が鍵となる。"
+}

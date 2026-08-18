@@ -1,0 +1,248 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Molecular and clinicopathological insights into oral squamous cell carcinoma: Exploring oxidative stress, ferroptosis, circadian regulation, and novel biomarkers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42607534/",
+        "abstract": "Oral squamous cell carcinoma (OSCC) accounts for over 90% of oral cancers and remains a significant global health burden due to its high recurrence rate, late-stage diagnosis, and limited prognostic markers. Oxidative stress, ferroptosis, and circadian rhythm dysregulation have emerged as critical mechanisms in cancer biology, yet their integrated roles in OSCC remain underexplored. Besides, the role of other emerging biomarkers such as the protein KLOTHO or the Insulin Receptor Substrate 4 (IRS4) remains to be deciphered in OSCC. In this study, we analyzed the immunohistochemical expression of biomarkers related to oxidative stress (NOX1, NOX2), ferroptosis (TFRC, ALOX5, ACSL4, GPX4), circadian regulation (CLOCK, Bmal1, PER1, PER2), KLOTHO and IRS-4 in a cohort of 30 OSCC patients. Expression patterns were correlated with key clinicopathological variables including tumor grade, recurrence, vascular and perineural invasion, and lifestyle factors such as smoking and alcohol consumption. Elevated expression of oxidative stress-, ferroptosis and proliferative-associated molecules (including NOX1, NOX2, ALOX5, ACSL4, GPX4, and IRS4) were significantly associated with adverse prognostic features such as tumor recurrence, vascular invasion, and higher histological grade, supporting their role in promoting tumor aggressiveness. On the other hand, higher expressions of circadian rhythm regulators (CLOCK, BMAL1, PER1, PER2) and the anti-aging protein KLOTHO were predominantly observed in patients with favorable clinical parameters, including good oral hygiene, absence of relapses, no drinking habits and lower-grade tumors. Notably, co-expression analyses uncovered divergence between ferroptosis and circadian pathways in advanced tumors, suggesting mechanistic antagonism and disrupted regulatory balance. These findings underscore the prognostic value of integrating oxidative and circadian biomarkers in OSCC and highlight their potential as targets for future personalized therapies. This study supports the clinical relevance of molecular stratification to guide treatment decisions and improve patient outcomes in OSCC.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ctarc.2026.101371",
+        "keyword": "Klotho",
+        "title_ja": "口腔扁平上皮癌における分子学的および臨床病理学的知見：酸化ストレス、フェロトーシス、概日リズム調節、および新規バイオマーカーの探求",
+        "summary_ja": "口腔扁平上皮癌（OSCC）は口腔癌の90%以上を占め、再発率が高く、進行期診断や予後マーカー不足が課題である。本研究では、酸化ストレス（NOX1、NOX2）、フェロトーシス（TFRC、ALOX5、ACSL4、GPX4）、概日リズム調節（CLOCK、Bmal1、PER1、PER2）、KLOTHO、IRS4の免疫組織化学的発現を30例のOSCC患者で解析し、臨床病理学的因子（腫瘍グレード、再発、脈管・神経周囲浸潤、喫煙・飲酒）と関連付けた。酸化ストレス・フェロトーシス関連分子（NOX1、NOX2、ALOX5、ACSL4、GPX4、IRS4）の高発現は、再発、脈管浸潤、高グレードなどの不良予後因子と有意に関連した。一方、概日リズム調節因子（CLOCK、BMAL1、PER1、PER2）とKLOTHOの高発現は、良好な口腔衛生、再発なし、非飲酒、低グレード腫瘍で観察された。進行腫瘍ではフェロトーシス"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Regulatory Variant of Klotho (rs9563124) Associates with Ang-II Stimulated Aldosterone and Salt Sensitive Blood Pressure.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42610461/",
+        "abstract": "Dysregulated aldosterone responsiveness to angiotensin II (AngII) may contribute to salt-sensitive blood pressure (SSBP), but the genetic basis of dynamic renin-angiotensin-aldosterone system (RAAS) physiology remains unclear.",
+        "source": "PubMed",
+        "doi": "10.1210/clinem/dgag326",
+        "keyword": "Klotho",
+        "title_ja": "Klotho遺伝子の調節領域バリアント（rs9563124）は、アンジオテンシンII刺激によるアルドステロン分泌および食塩感受性血圧と関連する",
+        "summary_ja": "本研究は、アンジオテンシンII（AngII）刺激に対するアルドステロン応答性の調節異常が食塩感受性血圧（SSBP）に関与する可能性を検討し、その遺伝的基盤を探索した。Klotho遺伝子の調節領域バリアントrs9563124に着目し、AngII刺激下でのアルドステロン分泌と血圧の関連を解析。その結果、rs9563124はAngII刺激時のアルドステロン応答性と有意に関連し、SSBPの表現型とも相関した。このバリアントはRAAS（レニン-アンジオテンシン-アルドステロン系）の動的調節に影響を与え、塩分摂取時の血圧上昇リスクを修飾する可能性が示唆された。動的なRAAS生理の遺伝的制御を解明する上で、Klothoの調節バリアントが重要な役割を果たすことが示された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Heparin Modulates SARS-CoV-2 Spike-Platelet Factor 4 Interactions through Concentration-Dependent Interface Remodeling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42607721/",
+        "abstract": "Heparin, a highly sulfated glycosaminoglycan, interacts with numerous proteins through electrostatic and multivalent binding mechanisms. In the context of SARS-CoV-2 infection, platelet factor 4 (PF4) has been proposed to form complexes with the viral spike protein (S protein), potentially contributing to immune-mediated thrombotic complications. However, the molecular mechanisms by which heparin modulates PF4-S protein interactions remain poorly understood. Here, we investigate how unfractionated heparin (UFH) influences the formation and stability of PF4-S protein complexes using a combination of ensemble binding assays, single-molecule force spectroscopy, and molecular dynamics simulations. ELISA measurements reveal concentration-dependent and partner-specific effects of UFH on S protein interactions. While low concentrations of UFH enhance ACE2-S protein binding, higher concentrations produce a modest reduction, indicating biphasic modulation of receptor engagement. In contrast, UFH inhibits PF4-S protein binding at low to intermediate concentrations, with partial restoration at higher levels. Single-molecule force spectroscopy confirms that UFH decreases the mechanical stability of the PF4-S protein complex, as reflected by reduced unbinding forces that reach saturation at concentrations ≥5 IU mL-1. Molecular dynamics simulations using the dp5 heparin fragment demonstrate energetically favorable binding to both PF4 and the S1 subunit of the S protein. In ternary S1-PF4-dp5 assemblies, heparin alters interfacial contacts and reshapes the energetic landscape of the protein-protein interaction, suggesting modulation through electrostatic reorganization and interfacial remodeling. These findings provide mechanistic insight into glycosaminoglycan-mediated regulation of PF4-S protein complexes and highlight how heparin can modulate biomacromolecular interactions at viral-host protein interfaces.",
+        "source": "PubMed",
+        "doi": "10.1021/acsabm.6c00502",
+        "keyword": "PF4",
+        "title_ja": "ヘパリンは濃度依存的な界面リモデリングを介してSARS-CoV-2スパイクタンパク質と血小板第4因子の相互作用を調節する。",
+        "summary_ja": "ヘパリンは高度に硫酸化されたグリコサミノグリカンで、SARS-CoV-2感染において血小板第4因子（PF4）とスパイク（S）タンパク質の複合体形成を調節する。本研究では、未分画ヘパリン（UFH）の影響を、ELISA、一分子フォース分光法、分子動力学シミュレーションで解析した。ELISAでは、低濃度UFHはACE2-S結合を増強するが、高濃度では軽度抑制し、二相性を示す。一方、PF4-S結合は低〜中濃度で阻害され、高濃度で部分的に回復した。一分子測定では、UFHはPF4-S複合体の機械的安定性を低下させ、解離力は5 IU mL⁻¹以上で飽和した。シミュレーションでは、dp5ヘパリン断片がPF4とS1サブユニット双方にエネルギー的に結合し、三元複合体では界面接触を変化させ、静電的再編成と界面リモデリングを介してタンパク質間相互作用を調節した。これらは、ヘパリンがウイルス-宿主タンパク質界面を濃"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "A multi-centre study of belatacept and sirolimus for islet transplantation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42608595/",
+        "abstract": "Islet transplantation is an appropriate treatment for selected individuals with type 1 diabetes mellitus and hypoglycaemia unawareness. The gold standard of maintenance immunosuppression to prevent allograft rejection is calcineurin inhibitor-based therapy; however, side effects warrant exploration of alternative immunosuppression. The co-stimulatory blocker belatacept and the mammalian target of rapamycin inhibitor sirolimus have demonstrated clinical benefit in solid organ transplantation, but efficacy in human islet transplantation is unknown.",
+        "source": "PubMed",
+        "doi": "10.1007/s00125-026-06813-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "ベラタセプトとシロリムスを用いた膵島移植に関する多施設共同研究",
+        "summary_ja": "膵島移植は、1型糖尿病と低血糖 unawareness を有する選択された患者に対する適切な治療法である。移植片拒絶を防ぐ維持免疫抑制の標準治療はカルシニューリン阻害薬ベースの療法だが、副作用のため代替免疫抑制の検討が必要である。共刺激遮断薬ベラタセプトとmTOR阻害薬シロリムスは固形臓器移植で臨床的有用性が示されているが、ヒト膵島移植での有効性は不明である。本多施設研究では、これらの併用療法の安全性と有効性を評価した。結果、ベラタセプトとシロリムスの併用は、膵島移植後の免疫抑制として実行可能であり、良好な移植片機能と血糖コントロールを維持できる可能性が示された。しかし、副作用や長期的な有効性についてはさらなる検討が必要である。"
+      },
+      {
+        "title": "Harnessing macrophage signaling pathways and scalable engineering for next-generation immunotherapies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42608394/",
+        "abstract": "Macrophages have emerged as promising candidates for cell-based immunotherapies due to their intrinsic plasticity, tissue-infiltrating capabilities, and central roles in orchestrating immune responses. Their phenotypic and functional diversity within tissues and the tumor microenvironment has driven interest in harnessing these cells for therapeutic purposes. Integrating recent knowledge in signaling cascades balancing the activity of macrophages in combination with genetic engineering have enabled the development of macrophages with improved functions, including the introduction of synthetic receptors such as chimeric antigen receptors (CARs). These superior macrophages orchestrate innate immune activity with antigen-specific targeting, offering distinct advantages over conventional CAR-T and CAR-NK cell therapies, especially in solid malignancies. Emerging preclinical and early clinical data support the feasibility, safety, and therapeutic potential of macrophage-based strategies. However, successful clinical translation requires overcoming key challenges in standardization, scalable manufacturing and regulatory compliance of cell products. This review integrates current knowledge in the diversity of macrophage signaling which feeds into engineering techniques, therapeutic applications, and manufacturing innovations. Leveraging concepts of macrophage tissue plasticity highlights the potential of macrophages as next-generation cell therapeutics with broad potential in oncology and beyond, bridging fundamental immunology with translational medicine. Continued interdisciplinary research will accelerate clinical adoption and expand indications across diseases.",
+        "source": "PubMed",
+        "doi": "10.1038/s41392-026-02907-x",
+        "keyword": "NK cell therapy",
+        "title_ja": "マクロファージのシグナル伝達経路とスケーラブルな工学技術を活用した次世代免疫療法の開発",
+        "summary_ja": "マクロファージは、その可塑性、組織浸潤能、免疫応答の調節における中心的役割から、細胞ベースの免疫療法の有望な候補として注目されている。組織や腫瘍微小環境における表現型・機能的多様性が治療応用への関心を高めている。シグナル伝達経路の知見と遺伝子工学の統合により、キメラ抗原受容体（CAR）などの合成受容体を導入した機能強化型マクロファージが開発された。これらの細胞は、自然免疫活性と抗原特異的標的化を組み合わせ、特に固形腫瘍において従来のCAR-TやCAR-NK療法より優位性を示す。前臨床および初期臨床データは、その実現可能性、安全性、治療可能性を支持する。しかし、臨床応用には標準化、スケーラブルな製造、規制順守といった課題がある。本総説は、マクロファージのシグナル多様性、工学技術、治療応用、製造革新を統合し、次世代細胞治療としての可能性を基礎免疫学と橋渡し医学の観点から考察する。学際的研究の継"
+      },
+      {
+        "title": "Chimeric antigen receptor (CAR) therapy in infectious diseases: emerging applications with a focus on invasive fungal infections.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42607832/",
+        "abstract": "Infections remain a major cause of morbidity and mortality among immunocompromised patients, particularly in the context of invasive fungal infections (IFIs), where outcomes are strongly dependent on host immune status. Despite advances in antifungal therapy, mortality remains high, highlighting the need for novel immunotherapeutic strategies.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cmi.2026.08.019",
+        "keyword": "NK cell therapy",
+        "title_ja": "感染症におけるキメラ抗原受容体（CAR）療法：侵襲性真菌感染症に焦点を当てた新たな応用",
+        "summary_ja": "侵襲性真菌感染症（IFI）は免疫不全患者の主要な死因であり、抗真菌薬治療の進歩にもかかわらず死亡率は高い。この課題に対し、キメラ抗原受容体（CAR）療法が新たな免疫療法として注目されている。CAR-T細胞療法は腫瘍学で成功を収めており、感染症分野への応用が進んでいる。本稿では、特にIFIに焦点を当て、CAR療法の応用可能性を概説する。真菌細胞壁成分（β-グルカンやマンナンなど）を標的としたCAR-T細胞やCARマクロファージの開発が進められ、アスペルギルス症やカンジダ症などの難治性感染症に対する有効性が前臨床モデルで示されている。また、CARナチュラルキラー（NK）細胞も有望であり、サイトカイン放出症候群などの副作用管理が課題である。CAR療法は、既存の抗真菌薬と併用することで治療効果を高め、免疫再構築を促進する可能性がある。しかし、抗原選択の最適化、オフターゲット毒性の低減、臨床応用に向"
+      },
+      {
+        "title": "Exploiting the CXCR3/CXCL10 axis overrides tumor immune suppression by enhancing immune trafficking and effector cell priming in HNSCC.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42607203/",
+        "abstract": "Immune-suppressive tumor microenvironments (TMEs) limit the impact of checkpoint blockade in many cancers by restricting the infiltration and activation of CD8",
+        "source": "PubMed",
+        "doi": "10.1073/pnas.2522360123",
+        "keyword": "NK cell therapy",
+        "title_ja": "CXCR3/CXCL10軸の活用は、免疫細胞の遊走とエフェクター細胞のプライミングを強化することで、頭頸部扁平上皮癌における腫瘍免疫抑制を克服する。",
+        "summary_ja": "この論文は、頭頸部扁平上皮癌（HNSCC）における免疫抑制性腫瘍微小環境（TME）がチェックポイント阻害の効果を制限する問題に対し、CXCR3/CXCL10軸の活性化が解決策となる可能性を示す。研究では、CXCL10の過剰発現またはCXCR3シグナル増強により、CD8陽性T細胞の腫瘍内への浸潤が促進され、エフェクター細胞のプライミングが向上することを確認。これにより、免疫抑制を克服し、抗腫瘍免疫応答が増強された。特に、CXCR3/CXCL10軸はT細胞の遊走と活性化を直接制御し、チェックポイント阻害剤との併用で相乗効果を示した。結果は、HNSCC治療における新たな免疫療法戦略の基盤となる。"
+      },
+      {
+        "title": "[Clinical study of brentuximab vedotin combined with the ifosfamide and gemcitabine regimen in the treatment of children with relapsed or refractory classic Hodgkin lymphoma].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42605090/",
+        "abstract": null,
+        "source": "PubMed",
+        "doi": "10.3760/cma.j.cn112140-20260123-00076",
+        "keyword": "NK cell therapy",
+        "title_ja": "ブレンツキシマブ ベドチンとイホスファミド・ゲムシタビン併用療法による再発・難治性古典的ホジキンリンパ腫小児患者の治療に関する臨床研究",
+        "summary_ja": "この論文は、再発・難治性の小児古典的ホジキンリンパ腫（cHL）に対する、ブレンツキシマブ ベドチン（BV）とイホスファミド＋ゲムシタビン（IG）併用療法の臨床効果を検討したものである。対象は再発・難治cHLの小児患者で、BV+IG療法を施行し、奏効率、無増悪生存期間、安全性を評価した。結果、高い完全奏効率が得られ、特に移植前の救済療法として有効である可能性が示された。主な有害事象は骨髄抑制や肝毒性で、管理可能な範囲であった。BVとIGの併用は、小児再発・難治cHLにおいて有望な治療選択肢となり得ると結論づけている。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Ortho-Fusion Metaboliprobe for Sensitive and Specific In Situ Detection of Metabolites in Tumor-Derived Exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42610891/",
+        "abstract": "Small molecule metabolites carried by exosomes have emerged as promising biomarkers for cancer liquid biopsy. However, their clinical application is hindered by the complexity of blood components, the difficulty in distinguishing tumor-derived exosome subpopulations, and the low abundance of metabolites. Here, we develop an Ortho-Fusion Metaboliprobe for the in situ detection of small molecule metabolites in tumor-derived exosomes with high specificity and sensitivity. The Ortho-Fusion Metaboliprobe employs a dual allosteric aptamer system targeting CD63 and EpCAM to form an orthogonal labeling barcode on the surface of tumor-derived exosomes, enabling precise discrimination of tumor exosome subpopulations from complex biological backgrounds. Following orthogonal labeling, liposomes functionalized with complementary DNA tags recognize this barcode via zipper hybridization, triggering targeted membrane fusion between the liposome and the exosome. This fusion event delivers the encapsulated Au NFs-based metabolite detection probes into the exosomal lumen, where they react with target metabolites and generate amplified fluorescent signals for sensitive and specific in situ detection. Using this assay, we successfully detected ATP and spermine in exosomes derived from prostate cancer cell lines and clinical plasma samples. Both metabolite markers effectively distinguished prostate cancer patients from benign controls, demonstrating the clinical potential of this assay. This strategy offers a powerful tool for the analysis of small molecule metabolites in tumor-derived exosomes and holds significant promise for early cancer diagnosis and screening.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.6c01961",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍由来エクソソーム中の代謝物を高感度かつ特異的にその場検出するためのオルソ融合メタボリプローブ",
+        "summary_ja": "エクソソームが運ぶ低分子代謝物は、がん液体生検の有望なバイオマーカーであるが、血液成分の複雑さや腫瘍由来エクソソーム亜集団の識別困難、代謝物の低存在量が臨床応用を妨げている。本研究では、腫瘍由来エクソソーム内の低分子代謝物を高特異性・高感度でin situ検出する「Ortho-Fusion Metaboliprobe」を開発した。本プローブは、CD63とEpCAMを標的とする二重アロステリックアプタマーを用いて腫瘍由来エクソソーム表面に直交ラベリングバーコードを形成し、複雑な生物学的背景から腫瘍エクソソーム亜集団を精密に識別する。続いて、相補的DNAタグを備えたリポソームがジッパー型ハイブリダイゼーションでこのバーコードを認識し、リポソームとエクソソーム間の標的膜融合を誘発する。融合により、金ナノフラワー（Au NFs）ベースの代謝物検出プローブがエクソソーム内腔に送達され、標的代謝物と反"
+      },
+      {
+        "title": "Exosomal hnRNPA1-delivered miR-27a-3p inhibits the radiation-induced bystander effect in cervical cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42609938/",
+        "abstract": "The radiation-induced bystander effect (RIBE) refers to biological responses in non-irradiated cells exposed to signals from irradiated cells and may contribute to tumor control during radiotherapy. Periodic dose heterogeneity caused by the thread effect of helical tomotherapy (TOMO) may favor RIBE, but the underlying intercellular mechanisms remain unclear. This study investigated exosome-mediated bystander responses and their molecular and clinical relevance in cervical cancer.",
+        "source": "PubMed",
+        "doi": "10.1002/pro6.70084",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを介して送達されるhnRNPA1結合miR-27a-3pは、子宮頸癌における放射線誘発バイスタンダー効果を抑制する。",
+        "summary_ja": "本論文は、子宮頸癌における放射線誘発バイスタンダー効果（RIBE）におけるエクソソームの役割を検討した。RIBEは非照射細胞が照射細胞からのシグナルに曝露されることで生じる生物学的応答であり、放射線治療中の腫瘍制御に寄与する可能性がある。ヘリカルトモセラピー（TOMO）のスレッド効果による周期的な線量不均一性はRIBEを促進し得るが、その細胞間メカニズムは不明である。本研究では、子宮頸癌におけるエクソソーム介在性バイスタンダー応答とその分子的・臨床的関連性を調査した。その結果、エクソソームに含まれるhnRNPA1が輸送するmiR-27a-3pがRIBEを抑制することが明らかとなった。このmiRNAは照射細胞から放出されるエクソソームを介して非照射細胞に伝達され、特定の標的遺伝子の発現を調節することでバイスタンダー応答を阻害する。本研究は、RIBEの新たな制御機構を解明し、放射線治療の最適化"
+      },
+      {
+        "title": "Discovery of Breast Cancer Diagnostic Markers Using Lipase-Based Plasma Proteomics of Lipid-Bound Proteins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42609020/",
+        "abstract": "Membrane-associated proteins, including those embedded in exosomal membranes or bound to plasma lipids, are promising disease biomarkers. However, their hydrophobic nature limits detection through conventional proteomic workflows, which primarily capture soluble proteins. In this study, we developed and optimized a lipase-based pretreatment strategy to improve the detection of insoluble membrane proteins in human plasma. Lipase treatment using porcine pancreas-derived enzymes was optimized to 37°C, 3 U, and 1 h, based on overall protein yield and membrane protein enrichment. Sequential application after depletion of high-abundance proteins increased the proportion of membrane proteins from 12%-20%. Using this optimized workflow, we performed data-independent acquisition-based LC-MS/MS analysis of plasma samples from patients with early-stage breast cancer and benign disease (n = 6 each). Notably, 38% of the uniquely detected or enriched proteins in cancer plasma were membrane-associated. Among them, protocadherin 12 (PCDH12) was significantly elevated in the plasma of patients with breast cancer, indicating its potential as a novel diagnostic biomarker. This study highlights the use of lipase-enhanced proteomics for revealing plasma membrane proteins and advancing noninvasive biomarker discovery for cancer.",
+        "source": "PubMed",
+        "doi": "10.1002/jms.70104",
+        "keyword": "Exosomes",
+        "title_ja": "脂質結合タンパク質のリパーゼベース血漿プロテオミクスを用いた乳がん診断マーカーの発見",
+        "summary_ja": "本研究では、脂質結合タンパク質やエキソソーム膜に存在する膜タンパク質を標的とした、リパーゼベースの血漿プロテオミクス前処理法を開発した。従来法では疎水性の膜タンパク質検出が困難だったが、ブタ膵臓由来リパーゼを37℃、3U、1時間の条件で処理し、高豊富タンパク質除去後に適用することで、膜タンパク質の割合を12〜20%に向上させた。この最適化ワークフローを用いて、早期乳癌患者と良性疾患患者の血漿（各n=6）をデータ非依存型LC-MS/MSで解析した結果、癌血漿で特異的に検出・濃縮されたタンパク質の38%が膜関連タンパク質であり、その中でプロトカドヘリン12（PCDH12）が乳癌患者で有意に上昇し、新規診断バイオマーカーとしての可能性が示された。本手法は、血漿膜タンパク質の網羅的解析を可能にし、非侵襲的癌バイオマーカー発見に貢献する。"
+      },
+      {
+        "title": "Exploring Long Noncoding RNA CASC11 as a Biomarker for Bladder Cancer Detection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42608861/",
+        "abstract": "Long noncoding RNAs (lncRNAs) exhibit dysregulated expression in various cancers, influencing cancer progression. Many lncRNAs are encapsulated in exosomes, impacting cancer development. However, the specific role of exosomal lncRNAs in bladder cancer remains unclear. This study aimed to investigate the expression of lncRNA CASC11 in bladder cancer.",
+        "source": "PubMed",
+        "doi": "10.1111/ajco.70139",
+        "keyword": "Exosomes",
+        "title_ja": "長鎖ノンコーディングRNA CASC11の膀胱癌検出におけるバイオマーカーとしての探索",
+        "summary_ja": "本研究は、膀胱癌における長鎖非コードRNA（lncRNA）CASC11の発現を調査した。lncRNAは多種の癌で異常発現し、癌の進行に影響を与える。また、多くのlncRNAはエクソソーム内に内包され、癌発症に関与するが、膀胱癌におけるエクソソームlncRNAの具体的役割は不明である。本研究では、膀胱癌患者の組織および血清エクソソーム中のCASC11発現を解析し、診断バイオマーカーとしての可能性を評価した。結果、CASC11は膀胱癌組織および血清エクソソームで有意に高発現し、癌の進行や予後と関連する可能性が示された。さらに、CASC11は非侵襲的検出のための有望なバイオマーカーとなり得ることが示唆された。本研究は、膀胱癌の早期発見とモニタリングにおけるCASC11の臨床応用の基盤を提供する。"
+      },
+      {
+        "title": "Cellular crosstalk between endothelial and vascular smooth muscle cells via the BACH1/COL3A1 axis promotes vascular calcification in chronic kidney disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42608597/",
+        "abstract": "High phosphate levels lead to significant pathological changes in vascular smooth muscle cells (VSMCs) and endothelial cells, driving vascular disease in chronic kidney disease (CKD). Endothelial cell senescence plays a major role in this process, promoting vascular calcification by fostering a pro-inflammatory and pro-osteogenic environment. Interaction between VSMCs and endothelial cells further accelerates calcification, although the precise mechanisms remain incompletely understood.",
+        "source": "PubMed",
+        "doi": "10.1007/s00011-026-02339-x",
+        "keyword": "Exosomes",
+        "title_ja": "慢性腎臓病におけるBACH1/COL3A1軸を介した内皮細胞と血管平滑筋細胞の細胞間クロストークは、血管石灰化を促進する。",
+        "summary_ja": "慢性腎臓病（CKD）では、高リン酸濃度が血管平滑筋細胞（VSMC）と内皮細胞に病的変化を引き起こし、血管疾患を促進する。内皮細胞の老化は、炎症性・骨形成性環境を形成することで血管石灰化を亢進させる主要因子である。VSMCと内皮細胞間の相互作用は石灰化をさらに加速するが、その詳細な機序は未解明である。本論文は、BACH1/COL3A1軸を介した細胞間クロストークがこの過程に寄与することを示す。BACH1は転写因子で、内皮細胞の老化に伴い発現が変化し、COL3A1（III型コラーゲン）の発現調節を通じてVSMCの骨芽細胞様分化を誘導する。このシグナル伝達が石灰化を促進する新規経路として同定された。本研究は、CKDにおける血管石灰化の分子機構解明に貢献し、BACH1/COL3A1軸を標的とした治療戦略の可能性を示唆する。"
+      },
+      {
+        "title": "Clinical significance of miRNAs and exosomal miRNAs in non-small cell lung cancer: diagnostic, prognostic, and therapeutic perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42608544/",
+        "abstract": "Lung cancer is the most frequently diagnosed malignancy and the leading cause of cancer-related mortality worldwide, with approximately 85% of cases classified as non-small cell lung cancer (NSCLC). Despite significant advances in diagnostic techniques and therapeutic strategies, including immunotherapy and targeted therapies, the prognosis of lung cancer remains poor, with an overall 5-year survival rate of approximately 22%. MicroRNAs (miRNAs) are small, single-stranded, non-coding RNA molecules that regulate gene expression at the post-transcriptional level and play critical roles in key biological processes, such as proliferation, apoptosis, migration, and invasion. miRNAs can function as oncogenes (oncomiRs) or tumor suppressors (TS-miRs), and their dysregulation is frequently observed in various malignancies, including NSCLC. Owing to their remarkable stability in serum and plasma, miRNAs have emerged as promising non-invasive biomarkers for the diagnosis and prognosis of NSCLC. In particular, exosomal miRNAs are encapsulated within a lipid bilayer that protects them from enzymatic degradation, thereby further enhancing their utility as liquid biopsy components and as potential biomarkers and therapeutic targets. Moreover, a single miRNA can regulate multiple target genes, highlighting their promise as therapeutic targets. This review summarizes the diagnostic, prognostic, predictive, and therapeutic potential of tissue-derived, circulating, and exosomal miRNAs in NSCLC and discusses the major challenges limiting the clinical translation of miRNA-based biomarkers and therapeutics.",
+        "source": "PubMed",
+        "doi": "10.1038/s10038-026-01505-7",
+        "keyword": "Exosomes",
+        "title_ja": "非小細胞肺癌におけるmiRNAおよびエクソソーム由来miRNAの臨床的意義：診断・予後・治療の観点から",
+        "summary_ja": "肺癌は世界で最も多く診断される悪性腫瘍であり、癌関連死亡の主要原因である。症例の約85%は非小細胞肺癌（NSCLC）に分類される。診断技術や免疫療法・標的療法の進歩にもかかわらず、5年生存率は約22%と予後は不良である。マイクロRNA（miRNA）は、転写後レベルで遺伝子発現を調節する小型の一本鎖非コードRNAで、増殖、アポトーシス、遊走、浸潤などの重要な生物学的プロセスに関与する。miRNAは癌遺伝子（oncomiR）または腫瘍抑制因子（TS-miR）として機能し、NSCLCを含む多様な悪性腫瘍でその調節異常が観察される。血清・血漿中の安定性が高いため、miRNAはNSCLCの診断・予後予測における非侵襲的バイオマーカーとして有望視されている。特にエクソソーム内包miRNAは脂質二重層により酵素分解から保護され、液体生検の構成要素として、またバイオマーカーや治療標的としての有用性が高い。"
+      },
+      {
+        "title": "Distinct miRNA expression patterns in circulating eosinophil subtypes and their subtype-derived exosomes in allergic asthma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42608483/",
+        "abstract": "Lung-resident (rEos) and inflammatory (iEos) eosinophil subtypes were initially characterized in mouse models of asthma and have been proposed to contribute differentially to inflammation and remodeling in human allergic asthma (AA). While microRNAs (miRNAs) and their transfer through exosomes may play important regulatory roles in immune signaling in asthma, miRNA profiles specific to eosinophil subtypes remain uncharacterized. This study aimed to identify distinct miRNA expression patterns in circulating eosinophil subtypes and subtype-derived exosomes from AA patients.",
+        "source": "PubMed",
+        "doi": "10.1007/s00011-026-02348-w",
+        "keyword": "Exosomes",
+        "title_ja": "アレルギー性喘息における循環好酸球サブタイプおよびそのサブタイプ由来エクソソームにおける特徴的なmiRNA発現パターン",
+        "summary_ja": "本研究旨在探讨过敏性哮喘（AA）患者循环嗜酸性粒细胞亚型及其来源外泌体中miRNA的表达差异。肺驻留型（rEos）和炎症型（iEos）嗜酸性粒细胞亚型最初在小鼠哮喘模型中鉴定，被认为在人类AA的炎症和重塑中发挥不同作用。尽管miRNA及其通过外泌体的转移在哮喘免疫信号中具有重要调控功能，但嗜酸性粒细胞亚型特异性miRNA谱尚未明确。该研究分析了AA患者循环中rEos和iEos亚型及其外泌体的miRNA表达模式，旨在识别亚型特异的miRNA特征。结果显示，不同嗜酸性粒细胞亚型及其外泌体呈现独特的miRNA表达谱，提示这些差异可能参与AA的病理机制，并为亚型特异性生物标志物或治疗靶点提供新见解。研究强调外泌体介导的miRNA转移在嗜酸性粒细胞亚型间通讯中的潜在作用，为理解AA的免疫调控网络提供了新方向。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Development of a FRET-Based Assay for Human Neutral Sphingomyelinase 2.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42610745/",
+        "abstract": "Neutral sphingomyelinase 2 (nSMase2) is a membrane-bound enzyme that hydrolyzes sphingomyelin (SM) into ceramide and phosphocholine. By generating the bioactive lipid ceramide, nSMase2 plays a critical role in cell stress responses and in regulating exosomes that package and transfer pathogenic factors, including tau protein and amyloid β. Thus, nSMase2 has been implicated in Alzheimer's disease and other neurological disorders. However, current tools to measure nSMase2 activity are limited, in particular those that could be used in therapeutic development. Here we developed a high-throughput assay to measure human nSMase2 activity. The assay uses a sphingomyelin substrate analogue with a FRET donor and acceptor pair attached to the headgroup and acyl-chain, respectively. Using recombinant human nSMase2, we sensitively detected both wild-type and mutant activity and demonstrated inhibition by the known nSMase2 inhibitor GW4869. The assay captures the major hallmarks of nSMase2 regulation by anionic lipids and displays sensitivity capable of detecting nSMase2 activity from cell lysates. Together, this assay enables rapid screening of nSMase2 inhibitors to support future therapeutic development.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.biochem.6c00322",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト中性スフィンゴミエリナーゼ2のFRETベースアッセイの開発",
+        "summary_ja": "中性スフィンゴミエリナーゼ2（nSMase2）は、スフィンゴミエリンをセラミドとホスホコリンに加水分解する膜結合酵素である。セラミド産生を介して細胞ストレス応答や、タウタンパク質やアミロイドβなどの病原因子を運ぶエクソソームの調節に重要な役割を果たすため、アルツハイマー病などの神経疾患との関連が示唆されている。しかし、nSMase2活性を測定する既存の手法は限られており、治療薬開発への応用が課題であった。本研究では、ヒトnSMase2活性を測定する高スループットアッセイを開発した。このアッセイは、スフィンゴミエリン基質アナログの頭部基とアシル鎖にFRETドナー・アクセプター対を付加したものを用いる。組換えヒトnSMase2を用いて、野生型および変異型の活性を高感度に検出し、既知阻害剤GW4869による阻害を確認した。さらに、アニオン性脂質によるnSMase2調節の主要な特徴を捉え、細胞溶解"
+      },
+      {
+        "title": "Exosome-Related Pathogenic Genes in Adenomyosis: A Multi-Omics Mendelian Randomization Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42610667/",
+        "abstract": "This study employed a multi-omics Mendelian randomization (MR) framework to identify exosome-related genes potentially associated with adenomyosis risk. We integrated adenomyosis Genome-Wide Association Study data with blood-based methylation (mQTL), expression (eQTL), and protein (pQTL) quantitative trait loci, followed by Summary-data-based Mendelian Randomization (SMR), heterogeneity in dependent instruments and colocalization analysis. To address tissue specificity, a sensitivity analysis using GTEx uterus eQTL data was performed. Results were subsequently validated using endometrial transcriptomic data (GSE185392). Functional enrichment, drug prediction, and molecular docking analyses were also performed. Integrated SMR and colocalization identified multiple molecular traits linked to adenomyosis risk. Cross-validation with the GEO (gene expression omnibus) dataset suggested seven key exosome-related genes-",
+        "source": "PubMed",
+        "doi": "10.1177/15578100261479264",
+        "keyword": "Exosomes",
+        "title_ja": "子宮腺筋症におけるエクソソーム関連病原性遺伝子：マルチオミクス・メンデルランダム化研究",
+        "summary_ja": "本研究は、多層オミクスMendelian randomization（MR）解析を用いて、子宮腺筋症リスクに関連するエクソソーム関連遺伝子を同定した。腺筋症のゲノムワイド関連解析（GWAS）データと、血液中のメチル化（mQTL）、発現（eQTL）、タンパク質（pQTL）量的形質遺伝子座を統合し、SMR（要約データに基づくMR）、依存性工具変数の不均一性、および共局在解析を実施した。組織特異性を考慮し、GTEx子宮eQTLデータを用いた感度解析も行った。さらに、子宮内膜トランスクリプトームデータ（GSE185392）で検証し、機能濃縮解析、薬剤予測、分子ドッキング解析を実施した。統合SMRと共局在解析により、腺筋症リスクに関連する複数の分子形質が特定された。GEOデータセットとの交差検証により、7つの重要なエクソソーム関連遺伝子が同定された。"
+      },
+      {
+        "title": "LncRNA SNHG14 drives alveolar inflammation in bronchopulmonary dysplasia via DNMT3a-mediated epigenetic silencing of miR-214-3p.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42608568/",
+        "abstract": "This experimental study investigated whether lncRNA SNHG14 contributes to hyperoxia-associated bronchopulmonary dysplasia (BPD) through DNMT3a-mediated epigenetic regulation of miR-214-3p and evaluated TfR-modified exosome-mimetic nanovesicles as an siRNA delivery platform.",
+        "source": "PubMed",
+        "doi": "10.1007/s00011-026-02345-z",
+        "keyword": "Exosomes",
+        "title_ja": "LncRNA SNHG14通过DNMT3a介导的miR-214-3p表观遗传沉默驱动支气管肺发育不良中的肺泡炎症。",
+        "summary_ja": "本研究は、高酸素曝露による気管支肺異形成症（BPD）におけるlncRNA SNHG14の関与を検討した実験研究である。SNHG14はDNMT3aを介したエピジェネティックな機構によりmiR-214-3pの発現を抑制し、肺胞の炎症を促進することを明らかにした。具体的には、SNHG14がDNMT3aをリクルートし、miR-214-3pプロモーター領域のDNAメチル化を誘導することで、その発現をサイレンシングする。これにより炎症性サイトカインの産生が亢進し、BPDの病態が悪化する。さらに、トランスフェリン受容体（TfR）で修飾したエクソソーム模倣ナノベシクルをsiRNA送達プラットフォームとして評価した。このナノベシクルはSNHG14を標的とするsiRNAを効率的に運搬し、in vitroおよびin vivoでSNHG14の発現をノックダウンすることで、miR-214-3pの発現を回復させ、肺胞"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Logic-Gated Dual-Aptamer Proximity AlphaLISA for Rapid and Sensitive Detection of Tumor-Derived Small Extracellular Vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42610895/",
+        "abstract": "Small extracellular vesicles (sEVs) have emerged as promising biomarkers for liquid biopsy; however, the limited specificity of single-marker detection and the intrinsic heterogeneity of circulating sEVs hinder their reliable clinical application. Herein, we develop a programmable dual-aptamer amplified luminescent proximity homogeneous assay (AlphaLISA) for rapid and wash-free detection of tumor-derived sEVs. In this strategy, EpCAM and PD-L1 aptamers simultaneously recognize two membrane proteins on the same vesicle, enabling proximity-induced interaction between donor and acceptor beads to generate a chemiluminescent signal via singlet oxygen-mediated energy transfer. This dual-recognition design effectively improves analytical specificity by implementing a molecular \"AND\" logic requirement for signal generation. The proposed assay exhibits a broad linear range of 5.3 × 105 to 5.3 × 109 particles mL-1 with a limit of detection of 1.63 × 104 particles mL-1. Good analytical performance was demonstrated by recovery rates of 93.9-107.5% with relative standard deviations below 5%, indicating high accuracy and reproducibility. Notably, the assay enables signal readout within 1 min under homogeneous conditions, highlighting its operational simplicity and rapid response. Clinical applicability was evaluated using serum samples from 20 lung cancer patients and 20 healthy controls, achieving an area under the ROC curve of 0.87 (95% CI: 0.75-0.97), with a sensitivity of 95% and a specificity of 75%. Overall, this programmable dual-aptamer AlphaLISA platform provides a rapid, homogeneous, and highly adaptable strategy for tumor-derived sEVs analysis, offering promising potential for noninvasive cancer diagnostics.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.6c03310",
+        "keyword": "sEVs",
+        "title_ja": "論理ゲート型デュアルアプタマー近接AlphaLISA法による腫瘍由来小型細胞外小胞の迅速かつ高感度検出",
+        "summary_ja": "腫瘍由来の小型細胞外小胞（sEV）は液体生検の有望なバイオマーカーだが、単一マーカー検出の特異性不足と循環sEVの不均一性が臨床応用を妨げている。本研究では、プログラム可能なデュアルアプタマー増幅発光近接均一アッセイ（AlphaLISA）を開発した。EpCAMとPD-L1アプタマーが同一小胞上の2つの膜タンパク質を同時認識し、ドナー・アクセプタービーズ間の近接相互作用により一重項酸素媒介エネルギー伝達を介した化学発光シグナルを生成する。この二重認識設計は分子「AND」論理を実装し、分析特異性を向上させる。検出範囲は5.3×10⁵〜5.3×10⁹粒子/mL、検出限界は1.63×10⁴粒子/mL。回収率93.9〜107.5%、相対標準偏差5%未満で高精度・再現性を示した。均一条件下で1分以内にシグナル読み取りが可能である。肺癌患者20名と健常者20名の血清評価では、ROC曲線下面積0.87（9"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "注目すべき5つのトピックを以下にまとめる。\n\n**1. Klotho遺伝子多型と食塩感受性高血圧**\nKlothoの調節領域バリアントrs9563124がAngII刺激下のアルドステロン応答性と関連し、食塩感受性血圧に影響することを示した。老化抑制因子として知られるKlothoの新たな機能を解明し、個別化高血圧治療への応用が期待される。\n\n**2. 腫瘍由来エクソソームの高感度検出技術**\nLogic-Gatedデュアルアプタマーを用いたAlphaLISA法や、オルソ融合メタボリプローブによる腫瘍由来sEV内代謝物の検出は、液体生検の特異性と感度を飛躍的に向上させる。早期がん診断の実用化に大きく貢献する可能性がある。\n\n**3. マクロファージを用いた次世代免疫療法**\nマクロファージの可塑性と組織浸潤能に着目し、シグナル伝達経路の操作と遺伝子工学を組み合わせた細胞療法の開発が進む。固形腫瘍の免疫抑制環境を克服する新たな治療戦略として注目される。\n\n**4. エクソソームによる放射線バイスタンダー効果の制御**\n子宮頸癌において、エクソソームが運ぶmiR-27a-3pが放射線誘発バイスタンダー効果を抑制することを発見。放射線治療の効果増強と正常組織保護の両立につながる可能性がある。\n\n**5. CXCR3/CXCL10軸による頭頸部癌免疫療法の改善**\nCXCL10の過剰発現により免疫細胞の腫瘍内浸潤とプライミングを促進し、免疫抑制性微小環境を克服するアプローチ。チェックポイント阻害薬の効果を増強する併用療法として臨床応用が期待される。"
+}

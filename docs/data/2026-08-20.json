@@ -1,0 +1,149 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Surface Functionalization of Small Extracellular Vesicles Derived from Caco-2 and HEK293T Cells in the Neutralization of Shiga Toxin 1 Subunit B.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42615512/",
+        "abstract": "Shiga toxins (Stx) are key virulence factors of Shiga toxin-producing Escherichia coli (STEC), which are responsible for severe foodborne infections that can progress to hemolytic-uremic syndrome (HUS). Currently, no specific antitoxin therapies are available. In this study, we devised a glycoengineering strategy utilizing Functional-Spacer-Lipid (FSL) conjugates to create small extracellular vesicles (sEVs)-based decoy receptors for Shiga toxin type 1 (Stx1). sEVs isolated from human Caco-2 and HEK293T cells were functionalized with Gb3 trisaccharide (Galα1→4Galβ1→4Glc)-containing FSL conjugates, yielding Gb3-decorated vesicles displaying the Galα1→4Gal epitope. Characterization of FSL-modified sEVs confirmed that FSL incorporation did not adversely affect sEV morphology, size distribution, or surface charge. Western blotting and bead-assisted flow cytometry verified the presence of exosomal markers (CD9 and CD63) and the Gb3 epitope on modified vesicles. Gb3-tagged sEVs from both cell types exhibited high specificity in binding Stx1B, while control vesicles carrying Galili epitope (Galα1→3Galβ1→4GlcNAc), lacking Stx1B binding, demonstrated negligible binding. Gb3-expressing Caco-2 cell-based assays revealed that Gb3-decorated sEVs markedly reduced Stx1B binding to Caco-2 cells, indicating effective competition with cellular receptors. Furthermore, glycoengineered sEVs did not impair Caco-2 cell viability at concentrations sufficient for Stx1B sequestration. These findings establish FSL-mediated glycoengineering as a rapid and versatile approach for generating sEV-based decoy receptors that effectively bind Stx1B. Gb3-containing human sEVs may serve as an agent for neutralizing Stx1B and potentially other glycan-binding toxins, supporting the development of promising next-generation antitoxin therapeutics.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.bioconjchem.6c00243",
+        "keyword": "Exosomes",
+        "matched_keywords": [
+          "Exosomes",
+          "sEVs"
+        ],
+        "title_ja": "Caco-2およびHEK293T細胞由来の小型細胞外小胞の表面官能基化による志賀毒素1サブユニットBの中和",
+        "summary_ja": "Shiga毒素（Stx）は志賀毒素産生性大腸菌（STEC）の主要な病原性因子であり、溶血性尿毒症症候群（HUS）を引き起こすが、特異的な抗毒素療法は存在しない。本研究では、Functional-Spacer-Lipid（FSL）コンジュゲートを用いた糖鎖工学戦略により、Shiga毒素1型（Stx1）に対するデコイ受容体として小型細胞外小胞（sEVs）を作製した。ヒトCaco-2およびHEK293T細胞由来のsEVsにGb3三糖（Galα1→4Galβ1→4Glc）含有FSLを結合させ、Gb3修飾小胞を得た。FSL修飾はsEVの形態、サイズ分布、表面電荷に影響を与えず、エクソソームマーカー（CD9、CD63）とGb3エピトープの存在を確認した。Gb3修飾sEVsはStx1Bに高い特異的結合を示し、対照のGaliliエピトープ（Galα1→3Galβ1→4GlcNAc）修飾小胞は結合しなかった"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "A lactate-α-ketoglutarate metabolic circuit in tumor-infiltrating regulatory T cells accelerates tumor progression by inducing NK cell senescence.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42613377/",
+        "abstract": "Regulatory T (T",
+        "source": "PubMed",
+        "doi": "10.1038/s43018-026-01210-6",
+        "keyword": "NK cell therapy",
+        "title_ja": "腫瘍浸潤制御性T細胞における乳酸-α-ケトグルタル酸代謝回路は、NK細胞の老化を誘導して腫瘍の進行を促進する。",
+        "summary_ja": "この論文は、腫瘍浸潤制御性T細胞（Treg）における乳酸-α-ケトグルタル酸代謝回路が、NK細胞の老化を誘導し腫瘍進行を促進する機構を解明した研究である。Tregは腫瘍微小環境で乳酸を高濃度に取り込み、代謝リプログラミングによりα-ケトグルタル酸産生を亢進させる。この代謝回路はTregの抑制機能を増強し、細胞外への乳酸放出を介してNK細胞の老化（細胞周期停止と機能低下）を引き起こす。老化したNK細胞は腫瘍細胞傷害活性が減弱し、免疫監視が逃避される。さらに、この回路を阻害する薬理学的介入（例：α-ケトグルタル酸デヒドロゲナーゼ阻害）は、マウス腫瘍モデルにおいてNK細胞の老化を解除し、腫瘍増殖を抑制した。本研究は、Tregの代謝特性が免疫抑制とNK細胞老化を結びつける新たな治療標的を示唆し、がん免疫療法の改善に貢献する可能性がある。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Models of depression for preclinical drug discovery and development: an update of the literature.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42615812/",
+        "abstract": "Depression is a heterogeneous and multifactorial condition with substantial unmet therapeutic need. Despite significant research, current pharmacotherapies remain limited in efficacy and onset, reflecting an incomplete understanding of underlying pathophysiology. Animal models have therefore been central to dissecting biological mechanisms and enabling antidepressant drug discovery.",
+        "source": "PubMed",
+        "doi": "10.1080/17460441.2026.2716135",
+        "keyword": "Exosomes",
+        "title_ja": "前臨床薬物発見と開発のためのうつ病モデル：文献の最新情報",
+        "summary_ja": "うつ病は異質かつ多因子性の病態であり、治療ニーズが高い。現行の薬物療法は効果と発現速度に限界があり、病態生理の理解不足が背景にある。動物モデルは生物学的機序の解明と抗うつ薬開発に不可欠である。本総説は前臨床薬物探索・開発におけるうつ病モデルの最新文献を概説する。遺伝子操作、ストレス曝露、薬理学的介入など多様なモデルが存在し、各モデルは異なる症状側面を再現する。近年は病態の不均一性を反映した新規モデルや、治療抵抗性うつ病を模倣するモデルが注目される。また、行動評価法の標準化やトランスレーショナル妥当性の向上が課題である。本レビューは既存モデルの長所と限界を整理し、今後の抗うつ薬開発におけるモデル選択の指針を提供する。"
+      },
+      {
+        "title": "Engineering CAR-Macrophages With Advanced Delivery Systems for Tissue Repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42615336/",
+        "abstract": "Tissue injury and organ dysfunction remain major clinical challenges, as conventional therapies often fail to achieve functional regeneration. Chimeric antigen receptor (CAR) technology endows macrophages with the ability to specifically recognize and clear pathological targets, making CAR-macrophages (CAR-M) a promising tool in tissue engineering and regenerative medicine. However, the efficient, safe, and controllable engineering of CAR-M still depends on advanced chemical delivery systems. This review systematically summarizes five major platforms for CAR-M engineering, including viral vectors, lipid nanoparticles (LNPs), exosomes/extracellular vesicles, polymeric nanocarriers, and biomaterial scaffolds. Particular emphasis is placed on LNPs optimization strategies, including ionizable lipid design, surface modification, and regulation of physicochemical properties. The influence of delivery systems on macrophage uptake, intracellular trafficking, and polarization is also discussed. This review further highlights recent preclinical applications of CAR-M therapy in liver fibrosis, cardiac fibrosis, and atherosclerosis. Furthermore, a comparative analysis of CAR-M with CAR‑T and CAR‑NK therapies is provided, and key challenges, including phenotypic instability, off‑target effects, and limited in vivo persistence, are discussed. Finally, future directions are outlined, including advanced delivery strategies, multi‑target CAR designs, and metabolic modulation, highlighting new opportunities for precision regenerative immunotherapy.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.77234",
+        "keyword": "Exosomes",
+        "title_ja": "組織修復のための先進的送達システムを用いたCAR-マクロファージの工学設計",
+        "summary_ja": "本レビューは、組織修復におけるCARマクロファージ（CAR-M）工学のための先進的送達システムを概説する。従来治療では機能再生が困難な組織損傷に対し、CAR技術はマクロファージに病理標的の特異的認識・除去能を付与し、再生医療での有望性を示す。CAR-M作製には5つの主要プラットフォーム（ウイルスベクター、脂質ナノ粒子（LNPs）、エクソソーム/細胞外小胞、高分子ナノキャリア、生体材料足場）が用いられる。特にLNPs最適化（イオン化脂質設計、表面修飾、物理化学的特性制御）に焦点を当て、送達システムがマクロファージの取り込み、細胞内輸送、極性化に及ぼす影響を考察する。前臨床応用として肝線維症、心臓線維症、アテローム性動脈硬化症でのCAR-M治療を紹介し、CAR-T・CAR-NK療法との比較分析を行う。課題として表現型不安定性、オフターゲット効果、生体内持続性の限界を挙げ、将来展望として高度な送"
+      },
+      {
+        "title": "Exosome therapy for knee osteoarthritis: a network meta-analysis based on rat models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42613148/",
+        "abstract": "To compare the therapeutic effects of exosomes from different cell sources and doses in rat knee osteoarthritis models using network meta-analysis, and to identify potential optimal strategies for preclinical optimization and clinical hypothesis generation.",
+        "source": "PubMed",
+        "doi": "10.1093/stcltm/szag069",
+        "keyword": "Exosomes",
+        "title_ja": "ラットモデルに基づく変形性膝関節症に対するエクソソーム療法：ネットワークメタアナリシス",
+        "summary_ja": "このネットワークメタ分析は、ラット膝変形性関節症（OA）モデルにおける異なる細胞由来エクソソームの治療効果と用量を比較し、最適な前臨床戦略と臨床仮説を探索することを目的とした。複数の研究を統合解析し、エクソソームの由来細胞（間葉系幹細胞、滑膜細胞、軟骨細胞など）と投与量がOAの組織学的スコア、軟骨分解酵素（MMP-13）、炎症性サイトカイン（TNF-α、IL-1β）に及ぼす影響を評価した。結果、間葉系幹細胞由来エクソソームが最も高い軟骨保護効果を示し、高用量群で有意な改善が認められた。また、低用量でも炎症抑制効果は確認されたが、軟骨再生には高用量が有効であった。異なる細胞源間で効果の差が明らかとなり、特に骨髄由来エクソソームが優位であった。本解析は、エクソソーム療法の用量反応関係と細胞源選択の重要性を示し、今後の臨床試験デザインにおける最適な投与戦略の基盤を提供する。ただし、ラットモデルに"
+      },
+      {
+        "title": "\"Hair Vaccine: Myth or Future Therapeutic Reality? Immunopharmacological Perspectives on Immune-Regenerative Strategies for Hair Loss\".",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42612767/",
+        "abstract": "Androgenetic alopecia (AGA) and alopecia areata (AA) are among the most prevalent hair loss disorders and continue to present significant therapeutic challenges, as currently available treatments primarily delay disease progression rather than achieve sustained hair follicle regeneration. Recent advances in immunopharmacology, regenerative medicine, and targeted drug-delivery technologies have renewed interest in the concept of a \"hair vaccine.\" Unlike conventional prophylactic vaccines that elicit antigen-specific immune memory against infectious agents, hair follicles are immune-privileged self-tissues, making classical vaccination biologically unsuitable. This article evaluates the scientific rationale, pharmacological mechanisms, current evidence, and translational potential of vaccine-inspired immune-regenerative strategies for hair restoration. Relevant clinical, preclinical, and translational studies were identified through a comprehensive literature search focusing on hair follicle immune privilege, immune dysregulation, regenerative immunology, Janus kinase (JAK)-signal transducer and activator of transcription (STAT) pathway inhibitors, biomimetic peptides, messenger RNA (mRNA)-based therapeutics, gene therapy, nanomedicine, exosomes, and biomaterial-assisted delivery systems. Available evidence indicates that targeted immune modulation can promote hair regrowth, particularly in AA, by suppressing pathogenic inflammation, restoring follicular immune homeostasis, and enhancing regenerative signaling. However, these approaches do not establish durable antigen-specific immune memory and therefore cannot be considered true vaccines. Major translational challenges include the absence of a defined follicular target antigen, disease heterogeneity, safety concerns related to immune modulation, and stringent regulatory requirements. Although no clinically validated hair vaccine currently exists, emerging immune-regenerative pharmacological strategies integrating localized immunomodulation, advanced biomaterials, gene-based therapies, and precision drug-delivery platforms offer promising avenues for achieving durable and targeted hair restoration.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ejphar.2026.179264",
+        "keyword": "Exosomes",
+        "title_ja": "毛髪ワクチン：神話か、それとも未来の治療的現実か？脱毛に対する免疫再生戦略の免疫薬理学的展望",
+        "summary_ja": "「Hair Vaccine: Myth or Future Therapeutic Reality?」は、脱毛症治療における「毛髪ワクチン」の可能性を免疫薬理学的視点から検討した総説である。男性型脱毛症（AGA）や円形脱毛症（AA）は一般的な脱毛疾患だが、既存治療は進行遅延に留まり、毛包再生は困難である。近年の免疫薬理学や再生医療の進歩により「毛髪ワクチン」概念が再注目されたが、毛包は免疫特権を持つ自己組織であり、従来の感染症ワクチンのような抗原特異的免疫記憶の誘導は生物学的に不適切である。本論文は、免疫調節、JAK-STAT経路阻害薬、mRNA治療、遺伝子治療、ナノ医療、エクソソーム、生体材料を用いた送達システム等の文献を総覧し、特にAAにおいて標的免疫調節が炎症抑制や毛包免疫恒常性の回復により発毛を促進することを示した。しかし、これらは持続的な免疫記憶を形成せず、真のワクチンとは言えな"
+      },
+      {
+        "title": "Boosting Cellular Glutathione Accelerates Elimination of Engineered Ultrasmall Nanoparticles from Kidneys and Liver by Promoting Exosome Release.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42611259/",
+        "abstract": "Being two major detoxifying organs for in vivo clearance of nanoparticles, the kidneys and liver are susceptible to prolonged accumulation of engineered nanoparticles and associated side effects, particularly for the nondegradable ones. Thus, strategies that expedite the elimination of accumulated nanoparticles from these organs are in high demand. Herein, using two engineered ultrasmall gold nanoparticles that respectively accumulate in the kidneys and liver as models, we showed that orally supplementing N-acetylcysteine (NAC), a clinical drug and precursor of glutathione (GSH), significantly accelerated the elimination of accumulated ultrasmall gold nanoparticles in the kidneys and liver while promoting their renal and hepatobiliary excretion in mice. This enhanced elimination effect stemmed from NAC-induced elevation of intracellular GSH levels, which facilitates endocytosed ultrasmall nanoparticles to be exocytosed via exosomes instead of prolonged trapping in the lysosomes, a mechanism distinct from the conventional transporter-mediated export of small-molecule xenobiotics through GSH conjugation. Moreover, this promotion of exosome release was found to be independent of nanoparticle treatment but a natural cellular response to boosted GSH levels by NAC. Our findings thus demonstrate NAC supplementation as a potential strategy for accelerating the excretion of ultrasmall nanoparticles from the kidneys and liver, offering insights into the role of GSH in facilitating cellular elimination of substances.",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.6c03801",
+        "keyword": "Exosomes",
+        "title_ja": "細胞内グルタチオンの増強は、エキソソーム放出の促進を介して、設計された超小型ナノ粒子の腎臓および肝臓からの排出を加速する。",
+        "summary_ja": "腎臓と肝臓はナノ粒子の生体内クリアランスにおける主要な解毒器官だが、非分解性の人工ナノ粒子が長期蓄積し、副作用を引き起こす問題がある。本研究では、腎臓と肝臓にそれぞれ蓄積する超小型金ナノ粒子をモデルとし、臨床薬でありグルタチオン（GSH）前駆体であるN-アセチルシステイン（NAC）の経口投与が、これらの臓器からのナノ粒子排出を有意に促進し、腎排泄および肝胆道排泄を亢進することをマウスで示した。この効果は、NACによる細胞内GSHレベルの上昇が、エンドサイトーシスされたナノ粒子をリソソーム内に長期滞留させるのではなく、エクソソームを介した細胞外放出を促進することに起因する。これは従来のGSH抱合によるトランスポーター介在性の小分子異物排出機構とは異なる。さらに、このエクソソーム放出促進はナノ粒子処理に依存せず、NACによるGSH上昇に対する自然な細胞応答であることが判明した。以上の結果は、N"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Placenta-derived Exosomes Mitigate Hypoxia-Induced Trophoblast Apoptosis and Inflammatory Progression via SASH1.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42615468/",
+        "abstract": "SASH1 is a signal adaptor protein involved in cell growth, apoptosis, and immune regulation, and has been increasingly studied in tumor and immune cells. Emerging evidence suggests that SASH1 plays an important role in inflammatory responses and cellular homeostasis, processes that are closely associated with the development of PE. This study aimed to determine whether SASH1 contributes to trophoblast apoptosis and inflammatory responses in PE and whether P-EXOS exerts protective effects through SASH1 regulation. In this study, three PE-related transcriptomic datasets (GSE75010, GSE10588, and GSE60438) were analyzed to identify shared differentially expressed genes (DEGs), followed by Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses. Machine learning algorithms were further applied to screen key candidate genes, and single-cell RNA sequencing data were used to characterize cellular heterogeneity in placental tissue and to determine cell type-specific expression patterns. SASH1 was identified as a consensus candidate gene and was significantly upregulated in trophoblast cells from PE samples. In vitro, a hypoxia-treated HTR-8/SVneo trophoblast cell model was established, combined with SASH1 knockdown, SASH1 overexpression, and co-culture with P-EXOS. Functional experiments showed that knockdown of SASH1 significantly suppressed hypoxia-induced trophoblast apoptosis and reduced the secretion of pro-inflammatory cytokines, including IL-6, IL-1β, and TNF-α, whereas SASH1 overexpression promoted apoptosis and inflammatory responses. In addition, P-EXOS treatment markedly reduced SASH1 expression at both mRNA and protein levels and attenuated hypoxia-induced trophoblast injury, while SASH1 overexpression largely abolished these protective effects. Taken together, these findings indicate that SASH1 plays a critical role in trophoblast apoptosis and inflammatory responses in PE. P-EXOS may alleviate hypoxia-induced trophoblastic injury by suppressing SASH1 expression, providing new insights into the molecular mechanisms and potential therapeutic targets for PE.",
+        "source": "PubMed",
+        "doi": "10.3791/71083",
+        "keyword": "Exosomes",
+        "title_ja": "胎盤由来エクソソームはSASH1を介して低酸素誘発性トロホブラストのアポトーシスと炎症進行を軽減する",
+        "summary_ja": "本研究探讨SASH1在子痫前期（PE）中的作用及胎盘来源外泌体（P-EXOS）的保护机制。SASH1为信号适配蛋白，参与细胞生长、凋亡及免疫调节。通过分析三个PE相关转录组数据集（GSE75010、GSE10588、GSE60438），筛选共享差异表达基因，并进行GO和KEGG富集分析及机器学习筛选，结合单细胞RNA测序，鉴定SASH1为关键候选基因，且在PE滋养细胞中显著上调。体外实验中，建立低氧处理的HTR-8/SVneo滋养细胞模型，结合SASH1敲低、过表达及P-EXOS共培养。结果显示，SASH1敲低显著抑制低氧诱导的滋养细胞凋亡，并减少IL-6、IL-1β、TNF-α等促炎因子分泌；SASH1过表达则促进凋亡和炎症反应。P-EXOS处理可显著降低SASH1 mRNA和蛋白水平，减轻低氧诱导的细胞损伤，而SASH1过表达几乎抵消了这些保护效应。综上，SASH1在PE滋养细胞凋亡和"
+      },
+      {
+        "title": "NETosis in the Kidney, Liver, and Lung of Mice With Cecal Ligation and Puncture-Induced Sepsis and the Ameliorating Effects of Adipose-Derived Stem Cell Exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42615096/",
+        "abstract": "Sepsis-induced organ failure involves dysregulated neutrophil responses, including neutrophil extracellular trap (NET) formation, via NETosis. Exosomes generated from adipose-derived stem cells (ADSCs) have shown potential in sepsis treatment. This study characterized organ-specific NETosis in the kidney, liver, and lungs using a murine cecal ligation and puncture (CLP) model and assessed the modulatory effects of ADSC exosomes. Male C57BL/6 mice were grouped as follows: control, CLP, and CLP with ADSC exosome therapy (n = 6 per group). Plasma cell-free DNA (cfDNA) and tissue citrullinated histone H3 (CitH3) levels were measured at 16 h postoperatively. Confocal immunofluorescence was performed by co-staining for CitH3 and Ly6G. Organ-derived Ly6G-enriched neutrophils were subjected to quantitative reverse transcription polymerase chain reaction for seven NETosis-related genes: CYBB, Padi4, H2ac20, H2bc21, Nlrc4, Nlrp3, and Ripk3. CLP significantly elevated plasma cfDNA and lung CitH3 levels, whereas ADSC exosome treatment reduced both. Kidney and liver CitH3 levels remained unchanged across the groups. Confocal imaging confirmed active NETosis predominantly in the lung, with minimal signals in the kidneys and liver. In kidney and liver neutrophils, only Nlrp3 and Ripk3 were significantly upregulated by CLP. In the lungs, all seven genes were significantly elevated; ADSC exosomes significantly reduced Padi4, H2ac20, Nlrp3, and Ripk3. CLP-induced NETosis was more pronounced in the lungs at the protein and transcriptional levels, where ADSC exosomes broadly suppressed NETotic pathways. NETosis reduction by ADSC exosomes was not observed in renal and hepatic neutrophils, indicating their possible protective role in sepsis within the pulmonary system.",
+        "source": "PubMed",
+        "doi": "10.1002/kjm2.70273",
+        "keyword": "Exosomes",
+        "title_ja": "盲腸結紮穿刺による敗血症マウスの腎臓、肝臓、肺におけるNETosisと、脂肪由来幹細胞エクソソームの改善効果",
+        "summary_ja": "マウスの盲腸結紮穿刺（CLP）による敗血症モデルを用い、腎臓・肝臓・肺におけるNETosis（好中球細胞外トラップ形成）の臓器特異的発現と、脂肪由来幹細胞（ADSC）エクソソームの調節効果を検討した。CLP群では血漿細胞遊離DNA（cfDNA）と肺のシトルリン化ヒストンH3（CitH3）が有意に上昇し、ADSCエクソソーム投与で低下した。腎臓と肝臓のCitH3は変化せず、共焦点免疫蛍光でも肺でNETosisが優勢で、腎・肝では微弱だった。NETosis関連7遺伝子（CYBB、Padi4、H2ac20、H2bc21、Nlrc4、Nlrp3、Ripk3）の発現は、腎・肝ではNlrp3とRipk3のみ上昇したが、肺では全遺伝子が有意に上昇し、ADSCエクソソームはPadi4、H2ac20、Nlrp3、Ripk3を有意に抑制した。CLP誘発NETosisは肺で最も顕著であり、ADSCエクソソームは"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n**1. 腫瘍内Tregの代謝回路によるNK細胞老化誘導**\n腫瘍浸潤Tregが乳酸を取り込みα-ケトグルタル酸を産生する回路が、NK細胞の老化を誘導して腫瘍進行を促進する機構を解明。がん免疫療法の新たな標的として極めて重要です。\n\n**2. エクソソームによる膝OA治療のネットワークメタ解析**\nラットモデルを用いた網羅的解析で、細胞由来別のエクソソーム治療効果と至適用量を比較。間葉系幹細胞由来が有望で、臨床応用への橋渡し研究として価値が高い。\n\n**3. グルタチオン増強によるナノ粒子クリアランス促進**\n細胞内GSHを増やすとエクソソーム放出が促進され、腎臓・肝臓に蓄積した超小型ナノ粒子の排泄が加速。ナノ医薬品の安全性向上に直結する画期的な知見です。\n\n**4. 胎盤由来エクソソームによる子癇前症保護機構**\nSASH1を介して低酸素誘導性の栄養膜細胞アポトーシスと炎症を抑制。妊娠高血圧腎症の病態解明と新規治療法開発への貢献が期待されます。\n\n**5. CARマクロファージと先進的送達システム**\n組織修復を目的としたCAR-M工学のレビュー。病理細胞の特異的認識能を付与し、再生医療と細胞療法を融合する次世代アプローチとして注目されます。\n\n以上、代謝免疫、細胞外小胞治療、ナノ安全学、再生医療の最前線を示す5題を選出しました。"
+}

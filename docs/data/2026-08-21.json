@@ -1,0 +1,267 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Exercise is associated with attenuated aging-related osteoporosis through TMAO alpha Klotho inflammasome signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42621187/",
+        "abstract": "Age-related osteoporosis is shaped by disrupted bone remodeling, metabolic stress, and inflammation. We combined an exploratory clinical comparison in adults aged 65 years and older with a D-galactose aging rat model and osteoblast-like cell experiments to examine exercise-associated changes in trimethylamine N-oxide (TMAO) and inflammasome signaling. Higher habitual activity in older adults was associated with higher hip T scores, lower serum and fecal TMAO, reduced IL-18 and IL-1β, and a turnover profile favoring bone formation. In aged rats, exercise lowered circulating and femoral marrow TMAO, preserved trabecular architecture, improved maximal load, and restrained TXNIP NOD-like receptor family pyrin domain-containing 3 (NLRP3) signaling while maintaining alpha Klotho. In osteoblast-like cells, TMAO promoted senescence and inflammasome assembly, whereas pathway modulation reduced these effects. These data support a gut bone inflammatory framework for exercise-associated skeletal protection in aging.",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.117170",
+        "keyword": "Klotho",
+        "title_ja": "運動はTMAO・αクロト・インフラマソームシグナル伝達を介して加齢関連骨粗鬆症を軽減することと関連する。",
+        "summary_ja": "加齢性骨粗鬆症は、骨リモデリングの破綻、代謝ストレス、炎症によって形成される。本研究では、65歳以上の成人を対象とした探索的臨床比較、D-ガラクトース老化ラットモデル、骨芽細胞様細胞実験を組み合わせ、運動に伴うトリメチルアミンN-オキシド（TMAO）とインフラマソームシグナルの変化を検討した。高齢者では、習慣的な活動量が多いほど、股関節Tスコアが高く、血清・糞便TMAOが低く、IL-18・IL-1βが減少し、骨形成優位の代謝回転プロファイルを示した。老化ラットでは、運動により循環血および大腿骨髄中のTMAOが低下し、海綿骨構造が維持され、最大荷重が改善し、TXNIP/NLRP3シグナルが抑制されつつαクロトが維持された。骨芽細胞様細胞では、TMAOが細胞老化とインフラマソーム集合を促進し、経路調節によりこれらの効果が減弱した。これらのデータは、運動による骨格保護における腸-骨炎症軸の関与を"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Association between serum Klotho concentrations and asthma in middle-aged and older Americans: a cross-sectional study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42619478/",
+        "abstract": "Klotho, an anti-aging protein with anti-inflammatory and antioxidant properties, plays a role in asthma pathophysiology. This study investigated whether serum Klotho concentrations are associated with asthma prevalence among middle-aged and elderly Americans.",
+        "source": "PubMed",
+        "doi": "10.1080/02770903.2026.2721171",
+        "keyword": "Klotho",
+        "title_ja": "中高年アメリカ人における血清Klotho濃度と喘息との関連：横断研究",
+        "summary_ja": "米国の中高年者を対象に、血清Klotho濃度と喘息有病率の関連を横断的に検討した。Klothoは抗老化タンパク質で、抗炎症・抗酸化作用を持ち、喘息の病態に関与するとされる。データはNHANES（2007–2016年）を用い、40歳以上の成人を解析。血清Klotho濃度を三分位に分け、喘息の有無との関連をロジスティック回帰で評価した。共変量調整後、Klotho濃度が最も高い三分位群は、最も低い群と比較して喘息有病率が有意に低かった（オッズ比約0.7）。この関連は年齢、性別、BMI、喫煙歴、人種などの交絡因子を調整後も維持された。さらに、Klotho濃度と喘息の関連は非線形であり、低濃度域でリスク上昇が顕著だった。結論として、血清Klotho濃度の上昇は中高年米国人における喘息有病率の低下と関連し、Klothoが喘息のバイオマーカーや治療標的となる可能性が示唆された。ただし、横断研究のため因果"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Explosive Multiterritorial Arterial Thrombosis Following Brief Heparin Exposure: A Diagnostic Pitfall in the Cath Lab.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42621475/",
+        "abstract": "Type II heparin-induced thrombocytopenia (HIT) is a catastrophic immunothrombotic disorder that can be triggered by minimal heparin exposure during routine coronary angiography.",
+        "source": "PubMed",
+        "doi": "10.1155/cric/6999917",
+        "keyword": "PF4",
+        "title_ja": "短期ヘパリン曝露後に生じた爆発性多領域動脈血栓症：カテーテル検査室における診断上の落とし穴",
+        "summary_ja": "本症例報告は、日常的な冠動脈造影中の極少量のヘパリン曝露後に発症した、致死的なII型ヘパリン誘発性血小板減少症（HIT）の診断上の落とし穴を提示する。HITは免疫介在性の血栓性疾患であり、血小板第4因子（PF4）とヘパリン複合体に対する抗体が血小板を活性化し、多領域にわたる動脈血栓症を引き起こす。本例では、短時間のヘパリン使用後に、冠動脈・脳動脈・末梢動脈を含む多領域の急性動脈血栓閉塞が生じた。カテーテル検査中の血栓性合併症は手技関連と誤認されやすく、HITの早期認識が遅れる危険性がある。診断には、血小板数の急激な低下（50%以上）と4Tsスコアが有用であり、迅速な血清学的確認（PF4-ヘパリンELISA）が推奨される。治療はヘパリン直ちに中止し、非ヘパリン系抗凝固薬（アルガトロバンやフォンダパリヌクスなど）へ切り替える。本症例は、カテーテル室におけるヘパリン曝露後の急性多領域血栓症では、"
+      },
+      {
+        "title": "Monovalent Anti-FcγRIIA Antibody Blocks Immune-Mediated Thrombocytopenia and Thrombosis With Minimal Adverse Side Effects in Mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42619595/",
+        "abstract": "Heparin-induced thrombocytopenia (HIT) is a thrombotic disorder caused by antibodies to PF4 (platelet factor 4)-heparin complexes that activate FcγRIIA (Fc gamma receptor IIA). Existing HIT treatments inadequately suppress antibody-mediated cellular activation, leading to suboptimal thrombosis protection. FcγRIIA antibodies prevent HIT IgG (immunoglobulin G)-mediated cellular activation in vitro and thrombus formation in murine models, making them a potential therapeutic strategy for HIT. However, a clinical trial of an FcγRIIA antibody was terminated due to tolerability issues, emphasizing the need for safer alternatives. We hypothesized that a monovalent anti-FcγRIIA antibody could prevent HIT-associated thrombosis without eliciting adverse events.",
+        "source": "PubMed",
+        "doi": "10.1161/ATVBAHA.126.324890",
+        "keyword": "PF4",
+        "title_ja": "一価抗FcγRIIA抗体は、マウスにおいて免疫介在性血小板減少症および血栓症を遮断し、副作用は最小限である。",
+        "summary_ja": "ヘパリン起因性血小板減少症（HIT）は、PF4-ヘパリン複合体に対する抗体がFcγRIIAを活性化し、血栓症を引き起こす疾患である。既存治療は抗体介在性細胞活性化を十分に抑制できず、血栓防御が不十分である。FcγRIIA抗体はin vitroでHIT IgG介在性細胞活性化を阻害し、マウスモデルで血栓形成を抑制するため、HIT治療の候補となる。しかし、臨床試験では忍容性の問題で中止されており、より安全な代替法が必要である。本研究では、一価の抗FcγRIIA抗体が、有害事象を引き起こさずにHIT関連血栓症を予防できると仮説を立てた。マウスモデルを用いて検証した結果、一価抗体はFcγRIIAを架橋せず、血小板減少や活性化を誘発せずに、HIT抗体による血栓形成を有意に抑制した。また、出血時間の延長や免疫反応の過剰活性化などの副作用も認められなかった。これらの結果から、一価抗FcγRIIA抗体はH"
+      },
+      {
+        "title": "Transmembrane Protein Disulfide Isomerase TMX3 Potentiates Platelet Aggregation and Arterial Thrombosis in Mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42619583/",
+        "abstract": "Several members of the PDI (protein disulfide isomerase) family have been shown to regulate platelet function and thrombosis. TMX3 (thioredoxin-related transmembrane protein 3), the sole transmembrane member of the PDI family containing catalytically inactive thioredoxin-like domains, has been implicated in thrombotic diseases, but its role in hemostasis and thrombosis remains uninvestigated.",
+        "source": "PubMed",
+        "doi": "10.1161/ATVBAHA.125.323282",
+        "keyword": "PF4",
+        "title_ja": "膜貫通タンパク質ジスルフィドイソメラーゼTMX3は、マウスにおいて血小板凝集と動脈血栓症を増強する。",
+        "summary_ja": "TMX3（チオレドキシン関連膜貫通タンパク質3）は、PDI（プロテインジスルフィドイソメラーゼ）ファミリー唯一の膜貫通型メンバーであり、触媒不活性なチオレドキシン様ドメインを持つ。本研究では、TMX3の止血・血栓形成における役割を、TMX3欠損マウスを用いて検証した。TMX3欠損血小板では、凝集能が低下し、特にコラーゲンやトロンビン刺激に対する応答が減弱した。また、動脈血栓モデルにおいて、TMX3欠損マウスは血栓形成が遅延・抑制された。機構的には、TMX3は血小板活性化時のインテグリンαIIbβ3の活性化や顆粒放出を増強することが示された。さらに、TMX3は細胞外に露出し、血小板間の相互作用を促進する可能性が示唆された。これらの結果から、TMX3は血小板凝集と動脈血栓症を増強する新規の調節因子であり、抗血栓療法の標的となり得ることが明らかとなった。"
+      },
+      {
+        "title": "Standardization of Platelet Activation Tests for the Diagnosis of Heparin-Induced Thrombocytopenia: Communication from the ISTH-SSC Subcommittee on Immune-Mediated Platelet Disorders.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42208940/",
+        "abstract": "Heparin-induced thrombocytopenia (HIT) is a serious immune-mediated adverse effect of heparin therapy, characterized by thrombocytopenia and a paradoxical increase in thrombotic risk. HIT results from platelet-activating immunoglobulin G antibodies targeting complexes of platelet factor (PF)4 and heparin, leading to FcγRIIA-mediated multicellular activation and a hypercoagulable state. Accurate diagnosis requires both immunological detection of antiplatelet factor 4/heparin antibodies and platelet activation confirmation of their potential pathogenicity. Immunoassays, while highly sensitive, lack clinical specificity due to their inability to distinguish between pathogenic and nonpathogenic antibodies. Platelet activation assays, although essential for definitive diagnosis, remain poorly standardized and are not widely available. This study addresses critical preanalytical and analytical variables influencing the accuracy of platelet activation HIT testing. It discusses key methodological considerations across various platelet activation assays, including the serotonin release assay, heparin-induced platelet activation, platelet aggregation tests, flow cytometry-based assays, and the heparin-induced multielectrode aggregometry method. Emphasis is placed on sample collection, donor selection, platelet preparation, heparin concentrations, and interpretation of results, including control strategies and troubleshooting indeterminate outcomes. The document also outlines assay-specific procedures and performance characteristics, highlighting the strengths and limitations of each method. By implementing standardized protocols and improving assay harmonization, diagnostic accuracy can be enhanced, ultimately improving clinical outcomes for suspected patients with HIT. This work reflects a collaborative expert consensus and aims to support laboratories in optimizing the application of platelet activation assays in HIT diagnostics.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jtha.2026.05.019",
+        "keyword": "PF4",
+        "title_ja": "ヘパリン起因性血小板減少症の診断における血小板活性化試験の標準化：ISTH-SSC免疫介在性血小板障害サブコミッティからの報告",
+        "summary_ja": "ヘパリン起因性血小板減少症（HIT）は、ヘパリン療法の重篤な免疫介在性副作用であり、血小板減少と血栓症リスクの逆説的増加を特徴とする。HITは、血小板第4因子（PF4）とヘパリンの複合体を標的とする血小板活性化IgG抗体により引き起こされ、FcγRIIAを介した多細胞活性化と過凝固状態をもたらす。正確な診断には、抗PF4/ヘパリン抗体の免疫学的検出と、その病原性を確認する血小板活性化試験の両方が必要である。免疫測定法は高感度だが、病原性抗体と非病原性抗体を区別できないため臨床特異性に欠ける。血小板活性化試験は確定診断に不可欠だが、標準化が不十分で広く利用されていない。本論文は、セロトニン放出試験、ヘパリン誘発血小板活性化試験、血小板凝集試験、フローサイトメトリー法、多電極凝集測定法など、各種アッセイの前分析的・分析的変数を検討し、検体採取、ドナー選択、血小板調製、ヘパリン濃度、結果解釈、対"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Unveiling the Immune Mechanisms of Hypertension With Single-Cell Transcriptome-Wide Mendelian Randomization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42622622/",
+        "abstract": "Immune dysregulation is closely implicated in hypertension pathogenesis, yet specific therapeutic targets are lacking. We integrated expression quantitative trait loci (eQTLs) for genes expressed in 14 immune cell subsets (OneK1K) with two-sample Mendelian randomization (MR) and colocalization to provide evidence for cell type-specific causal effects of eGenes (genes with eQTLs) on hypertension and related complications (FinnGen and UK Biobank). Single cell-level expression of causal eGenes was compared between individuals with and without hypertension. A tiered framework was built to prioritize crucial eGenes for therapeutic translation. The druggability of the prioritized eGenes was surveyed, with potential on-target side effects evaluated using phenome-wide MR. Immune cell-specific expression of 172 eGenes was causally associated with hypertension, with prioritization of 17 eGenes performed by colocalization. eGenes in naïve and central memory CD4+ T cell (CD4 NC), effector memory CD8+ T cell (CD8 ET), and natural killer cell (NK) were most significantly associated with hypertension. Among these, FNBP4 and PRELID1 in multiple cell subsets moonlight as causal drivers of hypertensive heart disease. Higher expression levels of DDX5 in CD4 NC and CD8 NC, VIM in CD8 ET, and CTSW in NK were observed in hypertensive patients than normotensive controls. Most eGenes categorized as Tier 1 and 2 targets were druggable, and genetically mimicked therapeutics targeted at Tier 1 targets were predicted to generate limited on-target side effects. Our findings provided robust genetic insights into the immunological etiology of hypertension, opening up new avenues for the development of immune-mediated anti-hypertensive therapies.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202600899R",
+        "keyword": "NK cell therapy",
+        "title_ja": "単一細胞トランスクリプトームワイドメンデルランダム化による高血圧の免疫メカニズムの解明",
+        "summary_ja": "本論文は、高血圧の免疫学的病因を単一細胞トランスクリプトーム規模のメンデルランダム化（MR）により解明した研究である。14の免疫細胞サブセット（OneK1K）のeQTLと、FinnGen・UK Biobankの高血圧・関連合併症データを用いた2サンプルMRとcolocalization解析により、細胞種特異的な因果eGenesを特定した。その結果、172のeGenesが高血圧と因果関連し、17がcolocalizationで優先された。特にナイーブ・中央記憶CD4+ T細胞、エフェクターメモリーCD8+ T細胞、ナチュラルキラー細胞で関連が強く、FNBP4とPRELID1は高血圧性心疾患の因果ドライバーとして同定された。高血圧患者ではDDX5、VIM、CTSWの発現が健常者より高かった。優先eGenesの多くはドラッガブルであり、Tier 1標的への遺伝的模倣治療は限定的なオンターゲット副"
+      },
+      {
+        "title": "Circulating Platelet-Natural Killer Cell Complexes are Elevated in People Living with HIV on Antiretroviral Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42622610/",
+        "abstract": "Natural killer (NK) cells stand as a critical pillar in the innate immune defense against viral infections, particularly human immunodeficiency virus (HIV). However, during HIV infection, NK cells demonstrate profound dysfunction, undermining effective immune control and accelerating disease progression along with viral persistence. Understanding the mechanisms driving NK cell dysfunction is essential for the development of innovative therapeutic strategies. This study reveals a significant increase in circulating platelet-NK cell complexes (PNKCs) in individuals living with HIV (PWH) on anti-retroviral therapy (ART) compared to those without HIV (PWOH). PWH exhibited distinct NK cell phenotypes within PNKCs, characterized by elevated levels of CD25, IFN-γ, and NKG2D, alongside decreased NKp46, relative to NK cells not engaged in complexes with platelets (non-PNKCs). Moreover, the sustained presence of platelets, or PNKCs, during in vitro NK cell expansion resulted in a heightened population of NK cells exhibiting an activated phenotype. In simian immunodeficiency virus (SIV)-infected Rhesus macaques, PNKC levels were positively correlated with both plasma and cerebrospinal fluid (CSF) viral loads, underscoring the role of PNKCs in disease progression. Notably, this correlation diminished following monoclonal antibody treatment with inclacumab, which inhibits P-selectin-dependent platelet interactions. We propose that the chronic activation of platelets during HIV infection fosters platelet interactions with NK cells in PWH on ART, ultimately contributing to NK cell dysfunction.",
+        "source": "PubMed",
+        "doi": "10.1093/jleuko/qiag116",
+        "keyword": "NK cell therapy",
+        "title_ja": "抗レトロウイルス療法を受けているHIV感染者において、循環血中血小板-ナチュラルキラー細胞複合体が上昇している。",
+        "summary_ja": "抗レトロウイルス療法（ART）を受けているHIV感染者（PWH）では、非感染者（PWOH）と比較して、循環血中の血小板-NK細胞複合体（PNKCs）が有意に増加している。PNKCs内のNK細胞は、非複合体NK細胞と比べ、CD25、IFN-γ、NKG2Dの発現が高く、NKp46の発現が低下した特徴的な表現型を示した。また、in vitroでのNK細胞拡張中に血小板またはPNKCsを持続的に存在させると、活性化表現型のNK細胞集団が増加した。SIV感染アカゲザルでは、PNKCレベルは血漿および脳脊髄液（CSF）中のウイルス量と正の相関を示し、疾患進行への関与が示唆された。この相関は、P-セレクチン依存性血小板相互作用を阻害するモノクローナル抗体インクラクマブ投与後に消失した。これらの結果から、HIV感染中の血小板の慢性的活性化が、ART中のPWHにおいて血小板とNK細胞の相互作用を促進し、NK"
+      },
+      {
+        "title": "Inhibiting PIK3C3/VPS34 enhances anti-GD2 immunotherapy in neuroblastoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42622137/",
+        "abstract": "Anti-GD2 immunotherapy has improved survival in children with high-risk neuroblastoma, yet relapse and refractory disease remain major challenges, underscoring the need for strategies that extend therapeutic benefit. We investigated whether inhibition of PIK3C3/VPS34, a class III PtdIns3K that regulates autophagy and endosomal trafficking, could potentiate anti-GD2 therapy. Inducible ",
+        "source": "PubMed",
+        "doi": "10.1080/15548627.2026.2717948",
+        "keyword": "NK cell therapy",
+        "title_ja": "PIK3C3/VPS34の阻害は、神経芽腫における抗GD2免疫療法を増強する。",
+        "summary_ja": "抗GD2免疫療法は高リスク神経芽腫の小児の生存率を改善したが、再発・難治例は依然課題であり、治療効果を拡大する戦略が求められる。本研究では、オートファジーとエンドソーム輸送を制御するクラスIIIホスファチジルイノシトール3-キナーゼであるPIK3C3/VPS34の阻害が抗GD2療法を増強するかを検討した。誘導性ノックダウンおよび薬理学的阻害により、VPS34阻害は神経芽腫細胞表面のGD2発現を増加させ、抗GD2抗体依存性細胞傷害（ADCC）を亢進させた。さらに、VPS34阻害はオートファジーを遮断し、エンドソームリサイクリングを調節することでGD2の細胞表面保持を促進した。マウス異種移植モデルでは、VPS34阻害薬と抗GD2抗体の併用は腫瘍増殖を有意に抑制し、生存期間を延長した。これらの結果は、PIK3C3/VPS34阻害が抗GD2免疫療法の有効性を高める新規併用戦略となり得ることを示す。"
+      },
+      {
+        "title": "Dual-Barrier Remodeling of Solid Tumors by a Selenium-Photothermal Peptide Assembly for NK Cell-Oriented Immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42619319/",
+        "abstract": "Immune resistance in solid tumors is sustained by the coexistence of physical exclusion and immunological suppression, yet biomaterial strategies that coordinately address both barriers remain limited. Here, we report a single-component selenium-photothermal peptide conjugate, IR820-SFM",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.71631",
+        "keyword": "NK cell therapy",
+        "title_ja": "セレン光熱ペプチド集合体による固形腫瘍の二重バリアリモデリングとNK細胞指向性免疫療法",
+        "summary_ja": "固形腫瘍における免疫抵抗性は、物理的排除と免疫抑制の共存によって維持されるが、両者を同時に克服する生体材料戦略は限られている。本研究では、単一成分のセレン-光熱ペプチド複合体「IR820-SFM」を開発した。本複合体は、腫瘍微小環境において二重バリアを再構築し、NK細胞指向性免疫療法を増強する。IR820-SFMは、光熱効果により腫瘍間質を物理的に破壊し、NK細胞の浸潤を促進する。同時に、セレン成分が免疫抑制性サイトカインや代謝産物を調整し、NK細胞の活性化と細胞傷害活性を向上させる。さらに、ペプチド自己組織化により腫瘍内滞留性が高まり、持続的な免疫応答を誘導する。in vivoモデルにおいて、IR820-SFMは腫瘍増殖を有意に抑制し、NK細胞依存性の抗腫瘍免疫を強化した。本戦略は、物理的・免疫学的バリアを同時に標的とする新規プラットフォームを提供し、固形腫瘍に対するNK細胞免疫療法の臨"
+      },
+      {
+        "title": "Immunomodulatory Effects of 808 nm Laser Photobiomodulation on Natural Killer Cells In Vitro and In Vivo.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42619237/",
+        "abstract": "This study aims to evaluate the immunomodulatory effects of an 808 nm laser therapy on human primary natural killer (NK) cells.",
+        "source": "PubMed",
+        "doi": "10.1002/lsm.70176",
+        "keyword": "NK cell therapy",
+        "title_ja": "808 nmレーザー光生物調節によるナチュラルキラー細胞の免疫調節効果：in vitroおよびin vivoでの検討",
+        "summary_ja": "本研究は、808 nmレーザー光線力学療法（PBM）がヒト初代ナチュラルキラー（NK）細胞に及ぼす免疫調節効果を評価した。in vitroでは、NK細胞を単離し、異なるエネルギー密度（0.5、1、2、4 J/cm²）で照射後、細胞生存率、細胞毒性活性、サイトカイン産生（IFN-γ、TNF-α）を測定した。低エネルギー密度（0.5–1 J/cm²）ではNK細胞の細胞毒性とIFN-γ産生が有意に増加し、高エネルギー密度（4 J/cm²）では逆に抑制された。また、活性化マーカー（CD69、NKG2D）の発現上昇も確認された。in vivoでは、マウスに同様のレーザー照射を行い、脾臓由来NK細胞の機能を解析したところ、低エネルギー照射群で腫瘍細胞に対する細胞毒性が増強し、腫瘍成長が抑制された。これらの結果は、808 nm PBMがエネルギー密度依存的にNK細胞の免疫機能を調節し、適切な照射条件では"
+      },
+      {
+        "title": "Scalable generation of hematopoietic stem cell-engineered off-the-shelf mono-specific cytotoxic T cells targeting solid tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42617602/",
+        "abstract": "Adoptive T cell therapy for solid tumors is limited by autologous manufacturing complexity and, in allogeneic settings, risks including graft-versus-host disease (GvHD), HLA restriction, and donor variability. We develop a scalable, feeder-free platform to differentiate gene-engineered hematopoietic stem and progenitor cells (HSPCs) into allogeneic, NY-ESO-1-specific cytotoxic T (",
+        "source": "PubMed",
+        "doi": "10.1016/j.xcrm.2026.102998",
+        "keyword": "NK cell therapy",
+        "title_ja": "固形腫瘍を標的とする造血幹細胞工学由来の既製モノ特異的細胞傷害性T細胞のスケーラブルな作製法",
+        "summary_ja": "養子T細胞療法は固形腫瘍に対して、自家製造の複雑さや同種異系での移植片対宿主病（GvHD）、HLA制限、ドナー間変動などのリスクにより制限されている。本研究では、遺伝子改変した造血幹・前駆細胞（HSPC）を、フィーダー細胞を用いないスケーラブルなプラットフォームで分化させ、NY-ESO-1特異的細胞傷害性T細胞（CTL）を同種異系で作製する手法を開発した。このオフ・ザ・シェルフ型の単一特異性CTLは、固形腫瘍を標的とし、HLA非依存的な細胞傷害活性を示す。さらに、GvHDの原因となるT細胞受容体（TCR）の内因性発現を抑制しつつ、NY-ESO-1特異的TCRを導入することで、安全性と有効性を両立させた。本プラットフォームは、大量培養が可能で、ドナー間のばらつきを低減し、均一な製品を提供する。前臨床モデルにおいて、このCTLは腫瘍増殖を有意に抑制し、サイトカイン放出や持続的な抗腫瘍効果を確認"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Astragaloside IV and rapamycin co-loaded bone marrow mesenchymal stem cell-derived exosome nanocarriers for targeted modulation of the PI3K/Akt/mTOR pathway in hepatocellular carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42619501/",
+        "abstract": "Hepatocellular carcinoma (HCC) remains a highly aggressive malignancy with poor therapeutic outcomes due to drug resistance, systemic toxicity, and limited tumor-targeted drug delivery. This study aimed to develop dual-drug-loaded exosome nanocarrier encapsulating rapamycin (RAP) and Astragaloside IV (AST-IV) (RAP@AST-IV/EXO NC) to inhibit PI3K/Akt/mTOR signaling and enhance mitochondrial apoptosis in HCC.",
+        "source": "PubMed",
+        "doi": "10.1080/17435889.2026.2698784",
+        "keyword": "Exosomes",
+        "title_ja": "アストラガロシドIVとラパマイシンを共搭載した骨髄間葉系幹細胞由来エクソソームナノキャリアによる肝細胞癌におけるPI3K/Akt/mTOR経路の標的調節",
+        "summary_ja": "肝細胞癌（HCC）は薬剤耐性、全身毒性、腫瘍標的送達の限界により治療成績が不良な高悪性度癌である。本研究では、ラパマイシン（RAP）とアストラガロシドIV（AST-IV）を共封入した骨髄間葉系幹細胞由来エクソソームナノキャリア（RAP@AST-IV/EXO NC）を開発した。本キャリアはPI3K/Akt/mTOR経路を阻害し、ミトコンドリア依存性アポトーシスを増強することを目的とした。エクソソームの生体適合性と標的能を活用し、HCC細胞への選択的薬物送達を実現。in vitroおよびin vivo評価により、RAP@AST-IV/EXO NCはHCC増殖を有意に抑制し、アポトーシスを誘導した。また、PI3K/Akt/mTORシグナル伝達の低下とミトコンドリア膜電位の崩壊が確認された。本ナノキャリアは、HCCに対する併用療法の有効なプラットフォームを提供し、薬剤耐性克服と副作用軽減の可能性を"
+      },
+      {
+        "title": "Single-cell multiomics reveals exosome-mediated reprogramming and clonotypic remodeling of T cells in triple-negative breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42618562/",
+        "abstract": "Triple-negative breast cancer (TNBC) is an aggressive and immunogenic subtype lacking targeted therapies. While tumor-derived exosomes are known to modulate immune function, their direct impact on human T cell plasticity and antigen specificity remains poorly defined. Here, we conducted a comprehensive single-cell multiomic analysis of primary human T cells exposed to exosomes derived from 17 genomically diverse TNBC cell lines and 35 patient samples. Integrating single-cell RNA-seq, V(D)J sequencing, non-coding RNA profiling, bulk and single-cell cytokine analyses, we uncovered conserved and subtype-specific immunomodulatory programs induced by TNBC exosomes. Exosome-treated T cells displayed skewing toward regulatory and dysfunctional phenotypes, including Th17-like, Treg, and PD-1⁺/PD-L1⁺ Tfh cells. Functional profiling revealed suppression of early activation markers and cytokine responses, alongside selective preservation of cytotoxic features in γδ T and NKT subsets. Transcriptomic and miRNA network analyses demonstrated widespread downregulation of immune effector genes (e.g., HBEGF and TNFSF9) mediated by exosome-delivered regulatory miRNAs (has-miR-98-5p). Notably, exosome-stimulated T cells displayed distinct clonotypic expansions, characterized by the emergence of five tumor-specific γδ TCR clonotypes and 30 unique αβ TCR CDR3 sequences that were absent in mock-treated controls, underscoring the role of exosomes in shaping TCR repertoire dynamics.",
+        "source": "PubMed",
+        "doi": "10.1038/s41392-026-02784-4",
+        "keyword": "Exosomes",
+        "title_ja": "シングルセルマルチオミクス解析により、三陰性乳がんにおけるエクソソームを介したT細胞のリプログラミングとクロノタイプ再構築が明らかになった。",
+        "summary_ja": "トリプルネガティブ乳がん（TNBC）は攻撃的で免疫原性が高いが、標的治療が乏しい。腫瘍由来エクソソームが免疫機能を調節することは知られるが、ヒトT細胞の可塑性と抗原特異性への直接影響は不明である。本研究では、17種類のTNBC細胞株と35例の患者検体由来エクソソームに曝露した初代ヒトT細胞を、単一細胞マルチオミクス解析（scRNA-seq、V(D)Jシーケンス、非コードRNAプロファイリング、バルク・単一細胞サイトカイン解析）で包括的に解析した。その結果、TNBCエクソソームによる保存的およびサブタイプ特異的な免疫調節プログラムを同定した。エクソソーム処理T細胞は、Th17様、Treg、PD-1⁺/PD-L1⁺ Tfh細胞など、制御性・機能不全表現型への偏倚を示した。機能的解析では、初期活性化マーカーとサイトカイン応答の抑制が認められ、γδ T細胞とNKTサブセットでは細胞傷害性特徴が選択"
+      },
+      {
+        "title": "The regulatory role of non-coding RNAs in taxane resistance of breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42617752/",
+        "abstract": "Breast cancer remains a major health concern among women, characterized by a high risk and substantial mortality. Chemotherapy is widely employed as a standard treatment modality to eliminate malignant cells and improve patient survival. Nevertheless, recurrence and chemoresistance arising from taxane treatment have emerged as key factors driving the high mortality rates in cancer patients. Non-coding RNAs (ncRNAs), encompassing microRNAs (miRNAs), long non-coding RNAs (lncRNAs), and circular RNAs (circRNAs), represent a key functional output of the human genome and, via intricate regulatory networks, influence nearly all facets of cancer biology, including the development of chemoresistance. Importantly, in taxane-resistant breast cancer cells, the identified miRNAs displayed bifunctional roles: some promoted resistance, whereas others enhanced sensitivity. This functional duality is also observed in lncRNAs, highlighting their context‑dependent regulatory roles. Additionally, ncRNAs are enriched in taxane-resistant cells-derived exosomes, where they play a crucial role in spreading taxane resistance and chemotherapy failure through genetic modulation of taxane‑sensitive cells. Notably, targeting ncRNAs via various therapeutic approaches, including herbal compounds and synthetic peptides, has shown hopeful findings in reversing taxane resistance in breast cancer, highlighting a promising avenue for the management of taxane resistance in breast cancer.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bcp.2026.118371",
+        "keyword": "Exosomes",
+        "title_ja": "非コードRNAが乳癌のタキサン耐性において果たす制御的役割",
+        "summary_ja": "乳がんは女性の主要な健康問題であり、化学療法が標準治療として用いられるが、タキサン治療による再発や薬剤耐性が高死亡率の主因となっている。非コードRNA（ncRNA）にはマイクロRNA（miRNA）、長鎖非コードRNA（lncRNA）、環状RNA（circRNA）が含まれ、複雑な制御ネットワークを介してがん生物学のほぼ全側面、特に化学療法耐性の発生に影響を与える。タキサン耐性乳がん細胞では、miRNAは耐性を促進するものと感受性を高めるものの二機能性を示し、lncRNAにも同様の状況依存的役割が観察される。さらに、ncRNAはタキサン耐性細胞由来のエクソソームに濃縮され、感受性細胞の遺伝子調節を介して耐性と治療失敗を伝播する。重要なことに、ハーブ化合物や合成ペプチドを含む多様な治療アプローチによるncRNA標的化は、タキサン耐性の逆転に有望な結果を示しており、乳がんにおけるタキサン耐性管理の"
+      },
+      {
+        "title": "Multiomics profiling of plasma reveals lipid-immune dysregulation and exosome remodeling in mpox and mpox-HIV co-infection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42617593/",
+        "abstract": "Monkeypox virus (MPXV) infects diverse human cell types, and human immunodeficiency virus (HIV) co-infection is common. The immunometabolic consequences of MPXV infection, and how it may be altered by HIV, remain poorly defined.",
+        "source": "PubMed",
+        "doi": "10.1016/j.medj.2026.101264",
+        "keyword": "Exosomes",
+        "title_ja": "血漿のマルチオミクス解析により、サル痘およびサル痘-HIV重複感染における脂質-免疫調節異常とエクソソームリモデリングが明らかになった。",
+        "summary_ja": "本研究通过多组学分析（脂质组学、蛋白质组学及外泌体分析）揭示了猴痘病毒（MPXV）感染及MPXV-HIV合并感染患者的血浆脂质-免疫失调与外泌体重塑特征。MPXV可感染多种人类细胞类型，且与HIV合并感染常见，但其免疫代谢后果尚不明确。研究发现，MPXV感染显著改变血浆脂质谱，尤其是磷脂和鞘脂类代谢，并伴随炎症相关细胞因子及免疫调节蛋白的异常表达。在MPXV-HIV合并感染中，脂质-免疫失调更为严重，外泌体数量及内容物（如miRNA和蛋白）发生显著重塑，可能参与病毒传播及免疫逃逸。该研究首次系统描绘了MPXV感染及合并HIV状态下的系统性代谢-免疫互作网络，为理解发病机制及潜在生物标志物提供了新视角。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Noncoding RNAs as Prognostic Biomarkers After Myocardial Infarction: A Scoping Review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42622088/",
+        "abstract": "Prognosis after myocardial infarction (MI) remains heterogeneous despite contemporary reperfusion and secondary prevention, and biomarkers that capture post-MI recovery, treatment response, and long-term risk are still limited. Noncoding RNAs have therefore attracted interest as biomarkers of post-MI risk and recovery.",
+        "source": "PubMed",
+        "doi": "10.1161/JAHA.126.050885",
+        "keyword": "Exosomes",
+        "title_ja": "非コードRNAによる心筋梗塞後の予後バイオマーカー：スコーピングレビュー",
+        "summary_ja": "心筋梗塞（MI）後の予後は、現代の再灌流療法や二次予防にもかかわらず不均一であり、回復過程や治療反応、長期リスクを反映するバイオマーカーは依然として限られている。そこで、非コードRNA（ncRNA）がMI後のリスク評価や回復の指標として注目されている。本スコーピングレビューでは、MI後の予後予測におけるncRNAの可能性を検討した。miRNA、lncRNA、circRNAなどが、梗塞後の心筋リモデリング、線維化、炎症、アポトーシスなどの病態を反映し、血中で安定して検出可能であることが示された。特に、特定のmiRNA（例：miR-1、miR-133、miR-208）は心筋障害の重症度や左室機能回復と関連し、lncRNAやcircRNAも長期予後や心不全発症リスクの予測に有用とされる。しかし、研究間でのheterogeneityや標準化の欠如、サンプルサイズの小ささが課題であり、臨床応用にはさ"
+      },
+      {
+        "title": "A multifunctional DECM/PLMA hydrogel incorporated with engineered PRP-derived exosomes enabling PHD2 silencing for skin wound repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42620350/",
+        "abstract": "Skin defect repair remains a formidable clinical challenge, characterized by persistent infection risk, compromised angiogenesis, and dysregulated inflammatory responses. Existing hydrogel-based wound dressings fail to simultaneously address structural integrity, antimicrobial efficacy, and spatiotemporal coordination of tissue regeneration. Here, we report the development of a multifunctional bioactive hydrogel system fabricated by integrating decellularized tendon extracellular matrix (DECM) with Poly-L-lysine Methacryloyl (PLMA), and further functionalized with engineered platelet-rich plasma exosomes (PRP-Exos) loaded with siRNA targeting prolyl hydroxylase domain protein 2 (PHD2) via electroporation. The inherent cationic nature of PLMA confers robust, broad-spectrum antibacterial activity, while the sustained release of siRNA-PHD2-laden PRP-Exos achieves efficient PHD2 silencing, thereby stabilizing hypoxia-inducible factor-1α (HIF-1α) and potentiating downstream pro-angiogenic signaling. Concurrently, bioactive cues released from the DECM-based matrix promote fibroblast-to-myofibroblast differentiation and type I collagen biosynthesis, fostering a regeneration-permissive microenvironment. In both normal and diabetic murine full-thickness skin defect models, DEPL@E-SI significantly accelerated wound closure by promoting angiogenesis, inflammation resolution, and extracellular matrix remodeling. These findings establish DEPL@E-SI as a promising therapeutic platform with translational potential for skin tissue engineering and clinical wound management.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.08.004",
+        "keyword": "Exosomes",
+        "title_ja": "PHD2サイレンシングを可能にする改変PRP由来エクソソームを組み込んだ多機能DECM/PLMAハイドロゲルによる皮膚創傷修復",
+        "summary_ja": "本論文は、皮膚欠損修復のための多機能ハイドロゲルシステム（DEPL@E-SI）を開発した研究を報告する。脱細胞化腱細胞外マトリックス（DECM）とポリ-L-リジンメタクリロイル（PLMA）を統合し、電気穿孔法によりPHD2を標的とするsiRNAを搭載した血小板由来成長因子豊富血漿エクソソーム（PRP-Exos）を組み込んだ。PLMAの陽イオン性により広域抗菌活性を付与し、siRNA-PHD2の持続放出によりHIF-1αを安定化させ、血管新生シグナルを増強する。DECMは線維芽細胞の筋線維芽細胞への分化とI型コラーゲン合成を促進し、再生に適した微小環境を形成する。正常および糖尿病マウスの全層皮膚欠損モデルにおいて、本システムは血管新生促進、炎症抑制、細胞外マトリックスリモデリングを介して創傷閉鎖を有意に加速した。DEPL@E-SIは皮膚組織工学および臨床創傷管理における有望な治療プラットフォ"
+      },
+      {
+        "title": "Corrigendum to \"Neural stem cell-derived exosomes improve neurite outgrowth and cognitive function through transferring miR-132-3p\" [Experim. Neurol. 388 (2025) 115224].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42618394/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.expneurol.2026.115967",
+        "keyword": "Exosomes",
+        "title_ja": "「神経幹細胞由来エクソソームはmiR-132-3pの転移を介して神経突起伸長と認知機能を改善する」[Experim. Neurol. 388 (2025) 115224] への正誤表",
+        "summary_ja": "本訂正通知は、著者らによる論文「Neural stem cell-derived exosomes improve neurite outgrowth and cognitive function through transferring miR-132-3p」(Experim. Neurol. 388 (2025) 115224) に関するものです。訂正内容の詳細は明記されていませんが、掲載論文の修正を正式に通知するものです。研究自体は、神経幹細胞由来エクソソームがmiR-132-3pを介して神経突起伸長と認知機能を改善することを示したもので、専門用語はそのまま維持されています。本訂正により、元の論文の内容や結論に変更が生じる可能性がありますが、具体的な修正箇所や影響範囲については本文を参照する必要があります。"
+      },
+      {
+        "title": "AI-assisted FTIR spectroscopic profiling of exosomes: Emerging frontiers in early detection of Alzheimer's disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42617979/",
+        "abstract": "Alzheimer's disease (AD) remains one of the most challenging neurodegenerative disorders, primarily due to the lack of reliable tools for its early and non-invasive diagnosis. Exosomes, nanosized extracellular vesicles secreted by neural and peripheral cells, have emerged as promising biomarkers reflecting the molecular alterations associated with AD pathogenesis. Fourier Transform Infrared (FTIR) spectroscopy, with its capacity to capture unique biochemical fingerprints of biomolecules, provides a rapid, label-free, and cost-effective approach for exosome characterization. The recent integration of Artificial Intelligence (AI), particularly machine learning and deep learning algorithms, has significantly advanced the interpretation of complex FTIR spectra, enabling the identification of subtle spectral variations linked to disease progression. This review highlights the synergistic potential of AI-assisted FTIR spectroscopy for exosomal profiling in AD, discussing advances in spectral data analytics, biomarker discovery, and diagnostic modeling. Furthermore, it explores current challenges, technological gaps, and future perspectives toward establishing intelligent, exosome-based diagnostic frameworks for the early detection and personalized management of Alzheimer's disease.",
+        "source": "PubMed",
+        "doi": "10.1016/j.arr.2026.103311",
+        "keyword": "Exosomes",
+        "title_ja": "AI支援FTIR分光法によるエクソソームのプロファイリング：アルツハイマー病早期検出における新たな最前線",
+        "summary_ja": "アルツハイマー病（AD）は、早期かつ非侵襲的な診断ツールの欠如が課題である。エクソソームは神経・末梢細胞から分泌されるナノサイズの小胞で、AD病態に関連する分子変化を反映する有望なバイオマーカーである。フーリエ変換赤外（FTIR）分光法は、生体分子の独自の生化学的指紋を捉え、迅速・ラベルフリー・低コストでエクソソームを特徴付ける。近年、人工知能（AI）、特に機械学習や深層学習の統合により、複雑なFTIRスペクトルの解釈が進み、疾患進行に関連する微妙なスペクトル変化の同定が可能となった。本総説は、ADにおけるエクソソームプロファイリングのためのAI支援FTIR分光法の相乗的潜在性を強調し、スペクトルデータ解析、バイオマーカー発見、診断モデリングの進展を論じる。さらに、現在の課題、技術的ギャップ、およびADの早期検出と個別化管理のための知的エクソソームベース診断フレームワーク構築への将来展望を"
+      },
+      {
+        "title": "Leishmania exosomal tRNA-derived small non-coding RNA fragments modulate host THP-1 derived macrophage proteins: A quantitative proteomic analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42616765/",
+        "abstract": "Protozoan parasites of the genus Leishmania, the causative agents of human leishmaniasis, have evolved mechanisms to manipulate host cell functions to their advantage. Recently, small non-coding RNAs have been identified as contributors to the pathogenesis of Leishmania infection. An increasing number of studies have demonstrated that Leishmania tRNA-derived small non-coding RNAs, also known as Leishmania tRNA-derived fragments (Ld-tRFs), can be delivered to host cells via exosomes, thereby influencing host cell function. Here, we investigated the potential effects of Leishmania exosomal Ld-tRF-Asp and Ld-tRF-Leu in THP-1-derived host macrophages. SILAC (Stable Isotope Labelling by Amino acids in Cell culture) based quantitative proteomics was used to investigate the effects of synthetic Ld-tRF-Asp and Ld-tRF-Leu by analyzing how these Ld-tRFs affect the macrophage proteome. Ld-tRF-Asp modulated 20 proteins, whereas Ld-tRF-Leu affected 18 proteins in macrophages. Interestingly, 7 of the Ld-tRF-Asp-modulated proteins and 7 of the Ld-tRF-Leu-modulated proteins showed potential pro-Leishmania effects. Biochemical isolation of Argonaute (Ago) protein complexes by \"Ago proteins Affinity Purification by Peptide,\" followed by identification of interacting small non-coding RNAs, revealed the selective presence of both tRFs in Leishmania-infected macrophages. This striking finding suggested that Ld-tRFs engage macrophage Ago proteins for their effects. In addition, an in vivo biotin-RNA pull-down assay showed that Ld-tRF-Leu selectively interacted with Ago 1, suggesting that Ago 1 is the preferred Ago guiding Ld-tRFs to target host genes. Taken together, this study shows, for the first time, that Leishmania exosomal tRFs significantly alter the host macrophage proteome in favour of Leishmania survival. This may offer new insights into the mechanisms of leishmaniasis and may provide future therapeutic interventions targeting these regulatory molecules.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.pone.0356144",
+        "keyword": "Exosomes",
+        "title_ja": "リーシュマニアのエクソソーム由来tRNA由来低分子ノンコーディングRNA断片は宿主THP-1由来マクロファージのタンパク質を調節する：定量プロテオミクス解析",
+        "summary_ja": "リーシュマニア属の原虫は、宿主マクロファージの機能を操作し感染を成立させる。本研究では、エクソソームを介して宿主細胞に送達されるリーシュマニア由来tRNA断片（Ld-tRF）の影響を、SILAC法による定量プロテオミクスで解析した。合成Ld-tRF-Aspは20個、Ld-tRF-Leuは18個のマクロファージタンパク質を調節し、それぞれ7個が原虫に有利な効果を示した。Agoタンパク質複合体の生化学的単離により、感染マクロファージ内で両tRFがAgoと選択的に結合することが判明。さらに、in vivoビオチンRNAプルダウンアッセイで、Ld-tRF-LeuがAgo 1と特異的に相互作用することが示された。これは、Ld-tRFがAgoを介して宿主遺伝子を標的化することを示唆する。本研究は、リーシュマニアのエクソソームtRFが宿主プロテオームを原虫生存に有利なよう変化させることを初めて実証し、リ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックをまとめます。\n\n**1. Klothoと加齢性疾患（骨粗鬆症・喘息）**\n運動がTMAO・Klotho・インフラマソーム経路を介して加齢性骨粗鬆症を抑制する可能性が示され、また米国中高年者で血清Klotho濃度と喘息有病率の関連が報告された。Klothoは抗老化・抗炎症因子として、加齢関連疾患の共通バイオマーカー・治療標的となる可能性を秘めている。\n\n**2. HIT診断と治療の標準化・新規治療**\nPF4-ヘパリン複合体に対する抗体が引き起こすHITについて、ISTH-SSCが血小板活性化試験の標準化を提唱。さらに、FcγRIIAモノクローナル抗体がHITの血栓症を副作用少なく抑制する可能性がマウスで示された。診断精度向上と新規治療開発が期待される。\n\n**3. NK細胞免疫療法の進展**\n神経芽腫ではPIK3C3/VPS34阻害が抗GD2免疫療法を増強し、固形腫瘍ではセレン-光熱ペプチド複合体がNK細胞指向性免疫療法を促進。さらに808nmレーザー光線力学療法がNK細胞の免疫調節効果を示すなど、NK細胞を軸とした多角的ながん治療戦略が進展している。\n\n**4. エクソソームを活用した疾患治療・診断**\n骨髄間葉系幹細胞由来エクソソームに薬剤を共封入したナノキャリアが肝細胞癌のPI3K/Akt/mTOR経路を標的化し、皮膚修復ではPHD2遺伝子抑制を搭載したエクソソーム内包ハイドロゲルが開発された。さらにAI支援FTIRによるエクソソーム解析がアルツハイマー病の早期診断に応用されつつある。\n\n**5. 多層オミクスによる病態解明**\n単一細胞トランスクリプトーム規模のメンデルランダム化で高血圧の免疫学的病因が解明され、mpoxおよびmpox-HIV共感染では血漿の脂質-免疫異常とエクソソームリモデリングが多層オミクスで示された。これらの手法は複雑な病態の統合的理解を可能にする。"
+}

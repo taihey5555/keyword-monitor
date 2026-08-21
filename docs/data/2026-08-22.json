@@ -1,0 +1,227 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Authors' response to \"Reconsidering segment-specific Klotho regulation in renal mineral homeostasis\".",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42624546/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.kint.2026.03.033",
+        "keyword": "Klotho",
+        "title_ja": "「腎臓におけるミネラル恒常性におけるセグメント特異的Klotho調節の再考」に対する著者らの回答",
+        "summary_ja": "本論文は、著者らによる「腎ミネラル恒常性におけるセグメント特異的Klotho調節の再考」への応答である。著者らは、批判的見解に対し、自らの実験データと解釈の妥当性を主張する。具体的には、腎臓におけるKlotho発現が近位尿細管と遠位尿細管で異なる調節を受けるという知見を支持し、従来の単一セグメントモデルでは説明できない新たな調節機構の存在を強調する。また、ミネラル代謝におけるKlothoの役割は、単にリン排泄だけでなく、カルシウムやビタミンD代謝との統合的制御に関与すると述べる。さらに、彼らは批判点として挙げられた実験手法や解釈の限界を認めつつも、追加の遺伝子改変モデルや薬理学的介入による検証結果を示し、自説の頑健性を補強する。最終的に、セグメント特異的Klotho調節が腎臓の生理機能に重要であり、病態理解や治療標的開発に寄与すると結論づけている。応答は、科学的議論を促進し、今後の研究課題"
+      },
+      {
+        "title": "Soluble alpha-klotho as an adjunct biomarker of disease activity in acromegaly: Added value beyond GH and IGF-1.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42622967/",
+        "abstract": "Assessment of disease activity in acromegaly is mainly based on growth hormone and insulin-like growth factor 1. However, discordance between these markers is common and may make follow-up difficult. This study evaluated soluble alpha-Klotho as an adjunct biomarker of biochemical disease activity in acromegaly.",
+        "source": "PubMed",
+        "doi": "10.1007/s11102-026-01748-9",
+        "keyword": "Klotho",
+        "title_ja": "可溶性α-クロトーは先端巨大症における疾患活動性の補助バイオマーカーとして：GHおよびIGF-1を超えた付加的価値",
+        "summary_ja": "先端巨大症の疾患活動性評価は主に成長ホルモン（GH）とインスリン様成長因子1（IGF-1）に基づくが、両者の乖離が頻繁に生じ、経過観察を困難にすることがある。本研究では、可溶性α-Klothoを生化学的活動性の補助バイオマーカーとして評価した。その結果、α-KlothoはGHやIGF-1と相関しつつも、両者が乖離した症例において追加情報を提供し、疾患活動性の判定精度を向上させる可能性が示された。特に、GH正常だがIGF-1高値の症例やその逆の症例で、α-Klotho値が活動性の指標として有用であった。α-Klothoは既存マーカーと併用することで、より正確な病勢評価と治療効果判定に寄与し得る。ただし、単独での使用には限界があり、補助的役割に留まる。今後、大規模な前向き研究による検証が望まれる。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Brain barriers at the crossroads of glioma immune surveillance and immunotherapy response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42624896/",
+        "abstract": "Immunotherapies have substantially advanced cancer treatment; however, their efficacy in gliomas remains limited. This observation cannot be fully explained by tumour-intrinsic factors and may rather be linked to the distinct relationship between the central nervous system (CNS) and the immune system, commonly described as CNS immune privilege. CNS immune privilege is maintained by specialized brain barriers that divide the CNS into compartments with distinct accessibility to immune mediators and immune cells. Although maintaining homeostasis of the CNS parenchyma, these brain barriers direct CNS immune surveillance to the subarachnoid and the perivascular spaces at the CNS borders. Consequently, tumours arising in the CNS parenchyma are shielded from effective immune detection, limiting the efficacy of immunotherapies such as immune checkpoint inhibitors, cancer vaccines and adoptive T cell therapies such as chimeric antigen receptor (CAR) T cells and T cell receptor (TCR) transgenic T cells by restricting their access. Importantly, emerging evidence also indicates that gliomas actively remodel brain barrier functions to reinforce immune evasion. Failure to adequately consider brain barrier function in the context of immunotherapy strategies and clinical trial design therefore represents a major gap in the field. Understanding the orchestrated function of the brain barriers as neuroimmunological interfaces is essential for enhancing immune surveillance and improving immunotherapy responses in patients with brain tumours.",
+        "source": "PubMed",
+        "doi": "10.1038/s41568-026-00960-w",
+        "keyword": "NK cell therapy",
+        "title_ja": "脳関門とグリオーマ免疫監視・免疫療法応答の交差点",
+        "summary_ja": "免疫療法はがん治療を大きく進歩させたが、神経膠腫では効果が限定的である。これは腫瘍自体の要因だけでは説明できず、中枢神経系（CNS）と免疫系の特殊な関係、いわゆるCNS免疫特権に関連する。この特権は、脳関門によって維持され、CNSを免疫メディエーターや免疫細胞へのアクセスが異なる区画に分割する。脳関門はCNS実質の恒常性を保つ一方、免疫監視をくも膜下腔や血管周囲腔などのCNS境界部に誘導する。その結果、CNS実質に発生する腫瘍は効果的な免疫検出から遮断され、免疫チェックポイント阻害薬、がんワクチン、CAR-T細胞やTCRトランスジェニックT細胞などの養子T細胞療法の効果を制限する。さらに、神経膠腫は脳関門機能を積極的に再構築し、免疫逃避を強化するという証拠も増えている。免疫療法戦略や臨床試験設計において脳関門機能を適切に考慮しないことは、大きなギャップである。脳関門の神経免疫学的インターフ"
+      },
+      {
+        "title": "Immune-cytokine signature predicts survival in patients with advanced melanoma treated with oncolytic adenovirus TILT-123 and chemotherapy and IL-2-free adoptive TIL therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42624531/",
+        "abstract": "Metastatic melanoma resistant to immune checkpoint inhibitors remains difficult to treat, and while adoptive tumor-infiltrating lymphocyte (TIL) therapy has shown durable responses, its reliance on lymphodepleting chemotherapy and high-dose interleukin (IL)-2 causes toxicity that may limit patient eligibility. The dual-cytokine-armed oncolytic adenovirus igrelimogene litadenorepvec (TILT-123) was administered with TILs in the TUNINTIL trial (trial registration: NCT04217473) in patients with metastatic melanoma resistant to immune checkpoint inhibitors, without lymphodepleting chemotherapy or IL-2 post-conditioning. This study presents a correlative immunological analysis of the phase I TUNINTIL trial evaluating TILT-123 in combination with TIL therapy.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2026-016003",
+        "keyword": "NK cell therapy",
+        "title_ja": "免疫サイトカインシグネチャーは、オンコリティックアデノウイルスTILT-123と化学療法、およびIL-2非含有養子TIL療法を受けた進行黒色腫患者の生存を予測する。",
+        "summary_ja": "転移性黒色腫は免疫チェックポイント阻害薬抵抗性の場合、治療が困難である。養子腫瘍浸潤リンパ球（TIL）療法は持続的な奏効を示すが、リンパ球除去化学療法と高用量インターロイキン（IL）-2依存による毒性が患者適格性を制限する。二重サイトカイン搭載オンコリティックアデノウイルスigrelimogene litadenorepvec（TILT-123）を、TUNINTIL試験（NCT04217473）において、免疫チェックポイント阻害薬抵抗性の転移性黒色腫患者に、リンパ球除去化学療法やIL-2後処置なしでTILと併用投与した。本研究は、TILT-123とTIL療法併用の第I相TUNINTIL試験の相関免疫学的解析を提示する。免疫-サイトカインシグネチャーが生存予後を予測する可能性が示唆される。"
+      },
+      {
+        "title": "The role of platelets in the hepatocellular carcinoma immune microenvironment and their clinical prospects: a comprehensive review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42622777/",
+        "abstract": "Hepatocellular carcinoma (HCC) remains a leading cause of cancer-related mortality worldwide. Platelets, traditionally recognized for hemostatic functions, have emerged as critical modulators of the HCC tumor microenvironment, yet their complex roles remain incompletely understood. This review synthesizes current mechanistic and clinical evidence on platelet functions in HCC pathophysiology and translational applications. Platelets exert dual, context-dependent effects in HCC. Their pro-tumorigenic mechanisms include circulating tumor cell shielding, epithelial-mesenchymal transition induction via TGF-β1/AMPK/mTOR signaling, and immunosuppression through GARP-TGF-β and GITRL pathways. Conversely, P2Y12-mediated CD40L secretion confers anti-tumor immunity in metabolic dysfunction-associated steatohepatitis-driven HCC (MASLD-HCC). Platelet functions vary by etiology, differs significantly between viral hepatitis and metabolic liver disease, and shift dynamically from early to advanced disease stages. Platelets remodel the immune microenvironment through interactions with T cells, NK cells, and macrophages, with platelet-derived extracellular vesicles and non-coding RNAs serving as key mediators. This offers potential translational applications including platelet-based biomarkers, etiology-stratified antiplatelet strategies, platelet membrane-coated nanoparticles for targeted drug delivery, and management of platelet-drug interactions in systemic therapy. Bridging mechanistic insights and clinical observations offers a potential framework for developing platelet-targeted precision approaches to improve HCC management.",
+        "source": "PubMed",
+        "doi": "10.1007/s12032-026-03362-y",
+        "keyword": "NK cell therapy",
+        "title_ja": "血小板在肝細胞癌免疫微小環境中的作用及其臨床前景：綜述",
+        "summary_ja": "血小板は従来止血機能で知られるが、肝細胞癌(HCC)微小環境の重要な調節因子として注目される。本総説は、血小板のHCC病態における二面的役割と臨床応用を統合する。腫瘍促進機序として、循環腫瘍細胞の保護、TGF-β1/AMPK/mTOR経路を介した上皮間葉転換誘導、GARP-TGF-βやGITRL経路による免疫抑制がある。一方、P2Y12を介したCD40L分泌は、代謝機能障害関連脂肪肝炎由来HCC(MASLD-HCC)で抗腫瘍免疫を付与する。血小板機能は病因(ウイルス性肝炎vs代謝性肝疾患)や病期により異なり、T細胞・NK細胞・マクロファージとの相互作用を介して免疫微小環境を再構築する。血小板由来細胞外小胞や非コードRNAが主要メディエーターとなる。臨床応用として、血小板ベースのバイオマーカー、病因別抗血小板戦略、血小板膜被覆ナノ粒子による標的薬物送達、全身療法中の血小板-薬物相互作用管理が"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Fc-engineered broadly neutralizing antibodies overcome cytokine-induced CD16 cleavage to drive potent ADCC against diverse HIV-1 strains.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42627179/",
+        "abstract": "The persistence of latent HIV-1 reservoirs remains the primary barrier to a cure. Shock and kill strategies aim to reactivate these reservoirs and eliminate them via effector cells, such as natural killer (NK) cells. However, chronic infection leaves NK cells exhausted. In this study, we investigated the interplay between cytokine-mediated NK cell activation and antibody-dependent cellular cytotoxicity (ADCC) across diverse HIV-1 subtypes. We demonstrated that while cytokine stimulation enhanced natural cytotoxicity, it simultaneously induces shedding of the Fc receptor CD16 via the metalloproteinase enzyme ADAM17. However, restoring CD16 expression through ADAM17 inhibition (TAPI-1) did not improve ADCC, suggesting that CD16 surface levels in NK cells are not the only limiting factor. On the other hand, Fc-engineered broadly neutralizing antibodies (bNAbs) with increased CD16 affinity, in particular LPLIL and GASDALIE, significantly enhance ADCC across different HIV-1 subtypes, regardless of NK cell activation or CD16 downregulation. These findings suggest that enhancing receptor affinity of bNAbs can bypass viral immune evasion and NK cell exhaustion, supporting their potential incorporation into HIV cure strategies.IMPORTANCEEradicating latent HIV reservoirs remains a global health priority as it would liberate millions of people living with HIV (PLWH) from the economic and physiological burdens of lifelong antiretroviral therapy (ART). By utilizing a primary human cell model that resembles ",
+        "source": "PubMed",
+        "doi": "10.1128/mbio.01724-26",
+        "keyword": "NK cell therapy",
+        "title_ja": "Fc改変広域中和抗体はサイトカイン誘導性CD16切断を克服し、多様なHIV-1株に対する強力なADCCを誘導する。",
+        "summary_ja": "この研究は、HIV-1潜伏リザーバーの排除を目指す「shock and kill」戦略における、サイトカイン刺激と抗体依存性細胞傷害（ADCC）の相互作用を検討した。慢性感染で疲弊したNK細胞に対し、サイトカイン刺激は自然細胞傷害を増強する一方、メタロプロテアーゼADAM17を介してFc受容体CD16の切断を誘導することを示した。ADAM17阻害剤（TAPI-1）でCD16発現を回復してもADCCは改善せず、CD16表面量だけが制限因子ではないと判明。一方、CD16親和性を高めたFc改変広域中和抗体（bNAb）、特にLPLILとGASDALIE変異体は、NK細胞の活性化状態やCD16低下に関わらず、多様なHIV-1サブタイプに対してADCCを有意に増強した。これは、bNAbの受容体親和性強化がウイルスの免疫回避やNK細胞疲弊を克服できることを示唆し、HIV治癒戦略への組み込み可能性を支持す"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Potential diagnostic role of urinary exosomal microRNAs in immunoglobulin A nephropathy: A case-control study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42625985/",
+        "abstract": "The most common type of primary glomerulonephritis is immunoglobulin A nephropathy (IgAN), which can eventually cause end-stage kidney disease among individuals. A kidney biopsy, which is invasive and has risks of mortality or morbidity, is currently the \"gold standard\" for diagnosis. Urinary exosomes contain abundant, well-preserved microRNAs (miRNAs), which are small, non-coding endogenous RNAs that may be used as non-invasive biomarkers. Studies on urinary exosomal miRNA profiles for the diagnosis of IgAN are rare.",
+        "source": "PubMed",
+        "doi": "10.5527/wjn.119882",
+        "keyword": "Exosomes",
+        "title_ja": "尿中エクソソーム由来マイクロRNAのIgA腎症における診断的役割の可能性：症例対照研究",
+        "summary_ja": "免疫グロブリンA腎症（IgAN）は原発性糸球体腎炎の最も一般的な型で、進行すると末期腎不全に至る可能性がある。現在の診断の「ゴールドスタンダード」は腎生検だが、侵襲的で死亡や合併症のリスクを伴う。尿中エクソソームには豊富で安定したマイクロRNA（miRNA）が含まれており、これらは小さな非コード内生RNAで、非侵襲的バイオマーカーとして有望視されている。しかし、IgAN診断における尿中エクソソームmiRNAプロファイルの研究は稀である。本症例対照研究は、IgAN診断における尿中エクソソームmiRNAの潜在的役割を検討したもので、非侵襲的診断法の開発に寄与する可能性がある。"
+      },
+      {
+        "title": "A Review of the Therapeutic Potential of Stem Cell-Derived Nanocarriers to Treat Neurological Disorders.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42625393/",
+        "abstract": "Neurological disorders (NDs) are characterized by substantial loss of specific neurons, with Alzheimer's and Parkinson's diseases being the most frequent NDs and nearly 99% of all \"foreign substances\" are prohibited from entering the brain by the blood-brain barrier (BBB) and the blood-cerebrospinal fluid barrier (CFB). These barriers, while crucial for brain protection, pose significant challenges for drug delivery, as they restrict the entry of many therapeutic agents into the brain, and this represents the primary manifestation of the absence of pathogenesis-targeting therapeutics. With significant success across multiple cell transplantation research efforts, stem cell therapy has been utilized for decades to treat neurological disorders. They work by replacing injured or lost cells directly, releasing proliferation and neurotrophic factors through autocrine and paracrine actions, suppressing neurological inflammation, and activation of endogenous brain progenitor cells. Nanocarriers derived from stem cells represent an innovative and promising therapeutic strategy for combating neurological diseases, combining faculties of regeneration of stem cells with the precision of nanotechnology. These nanocarriers possess natural biocompatibility and can efficiently cross the BBB to transport the therapeutic agents directly to affected neural tissues, thereby promoting enhanced treatment efficacy while reducing off-target effects. However, key challenges remain in large-scale production, standardization, and long-term safety. Thus, this review has examined the potential applications of stem cell extracellular vesicle (EV)-nanocarriers, mainly exosomes and recent development in the treatment of neurological diseases.",
+        "source": "PubMed",
+        "doi": "10.1002/open.202500425",
+        "keyword": "Exosomes",
+        "title_ja": "神経疾患治療における幹細胞由来ナノキャリアの治療可能性に関するレビュー",
+        "summary_ja": "神経疾患（NDs）は特定ニューロンの顕著な喪失を特徴とし、アルツハイマー病やパーキンソン病が代表的である。血液脳関門（BBB）と血液脳脊髄液関門（CFB）は脳を保護する一方、ほぼ99%の外来物質の侵入を阻み、薬物送達の大きな障壁となっている。幹細胞治療は数十年にわたり神経疾患に用いられ、損傷細胞の直接置換、オートクライン・パラクライン作用による増殖・神経栄養因子の放出、神経炎症の抑制、内在性脳前駆細胞の活性化により機能する。幹細胞由来ナノキャリアは、幹細胞の再生能とナノテクノロジーの精密性を組み合わせた革新的戦略である。これらのナノキャリアは天然の生体適合性を持ち、BBBを効率的に通過して治療薬を標的神経組織へ直接輸送し、治療効果を高めつつオフターゲット効果を低減する。しかし、大規模生産、標準化、長期安全性に課題が残る。本レビューは、幹細胞由来細胞外小胞（EV）ナノキャリア、特にエクソソー"
+      },
+      {
+        "title": "Mesenchymal stem cells in veterinary clinical practice: Evidence from naturally occurring diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42624276/",
+        "abstract": "Over the past two decades, the use of mesenchymal stem cells (MSCs) in veterinary medicine has expanded rapidly, although the clinical evidence remains in its early stages. This review discusses clinical studies involving client-owned animals with naturally occurring diseases in which MSCs or MSC-derived extracellular vesicles (EVs) were used as treatments. It covers musculoskeletal disorders, including osteoarthritis, tendon and ligament injuries, and bone diseases; soft-tissue and oral mucosal conditions; neurological disorders; ophthalmic diseases; and internal medicine disorders, such as inflammatory bowel disease, chronic kidney disease, and respiratory diseases. The most robust data are available for equine superficial digital flexor tendon injuries and osteoarthritis in dogs and horses, with several controlled or prospective studies. For other conditions, evidence is mostly from pilot studies, case series, or single trials. The application of MSC-derived EVs in veterinary medicine is still very new, with preclinical results far exceeding clinical validation. Variations in cell source, preparation, dosing, routes of administration, and outcome measures across studies hinder direct comparisons and meta-analyses. This review offers a critical assessment of current evidence, highlights ongoing gaps, and suggests future directions to improve the translational potential of MSC therapies in veterinary care.",
+        "source": "PubMed",
+        "doi": "10.1016/j.tvjl.2026.106837",
+        "keyword": "Exosomes",
+        "title_ja": "獣医臨床診療における間葉系幹細胞：自然発症疾患からのエビデンス",
+        "summary_ja": "このレビューは、獣医療における間葉系幹細胞（MSCs）の臨床応用について、自然発症疾患を持つ動物を対象とした研究を批判的に評価したものである。過去20年でMSCsの使用は急速に拡大したが、臨床エビデンスは未だ初期段階にある。対象疾患は、筋骨格系（変形性関節症、腱・靭帯損傷、骨疾患）、軟部組織・口腔粘膜、神経、眼科、内科（炎症性腸疾患、慢性腎臓病、呼吸器疾患）に及ぶ。最も強固なデータは、馬の浅趾屈腱損傷と犬・馬の変形性関節症で得られており、対照試験や前向き研究が存在する。他の疾患では、パイロット研究や症例報告が中心である。MSCs由来細胞外小胞（EVs）の応用は前臨床段階であり、臨床検証は未熟である。細胞源、調製法、投与量、投与経路、評価指標の不均一性が比較やメタ解析を妨げている。本レビューは現状のギャップを指摘し、獣医療におけるMSCs治療の橋渡し研究の向上に向けた今後の方向性を示す。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Emerging Biomaterials Revolutionizing Pre-Eclampsia Treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42626960/",
+        "abstract": "Pre-eclampsia (PE) is a complex pregnancy-specific disorder characterized by hypertension and proteinuria, posing significant risks to both maternal and fetal health. Despite ongoing efforts, drug development remains hindered by poor placental targeting, potential fetal toxicity, and limited biocompatibility. This review highlights the recent advances in biomaterials-based therapeutic strategies and diagnostic platforms for PE. We focus on the applications of targeted drug delivery nanosystems that aim to improve placental targeting specificity, enhance therapeutic efficacy, and minimize off-target effects. Emerging biomaterials-related drug delivery systems, including lipid nanoparticles, polymer nanoparticles, and hydrogels, along with biologically derived carriers or therapeutics such as adenoviral vectors and exosomes derived from mesenchymal stem cells, offer innovative solutions to overcome the existing pharmacological constraints such as poor target specificity, rapid clearance, and off-target toxicity. Additionally, cutting-edge technologies like organoids and organ-on-a-chip platforms provide powerful tools for advanced disease modeling and drug screening. For each drug delivery system and diagnostic platform, we summarize the most representative research achievements, emphasizing the design principles, application advantages, and practical limitations. By systematically introducing the various significant advances in recent years, this review offers insights into how biomaterial-based approaches address PE treatment challenges and may inspire the development of precise platforms for safe and effective therapy.",
+        "source": "PubMed",
+        "doi": "10.1002/smll.75183",
+        "keyword": "Exosomes",
+        "title_ja": "子癇前症治療を変革する新興バイオマテリアル",
+        "summary_ja": "子癇前症（PE）は高血圧とタンパク尿を特徴とする妊娠特異的疾患で、母体と胎児に重大なリスクをもたらす。薬剤開発は胎盤標的性の低さ、胎児毒性、生体適合性の限界により困難を極めてきた。本総説は、PE治療・診断のための生体材料ベースの戦略の最近の進歩を概説する。標的薬物送達ナノシステムは、胎盤特異性の向上、治療効果の増強、オフターゲット効果の低減を目指す。脂質ナノ粒子、ポリマーナノ粒子、ハイドロゲル、さらにアデノウイルスベクターや間葉系幹細胞由来エクソソームなどの生物由来キャリアは、標的特異性の低さ、急速なクリアランス、オフターゲット毒性といった既存の薬理学的制約を克服する革新的解決策を提供する。また、オルガノイドやオンチップ臓器プラットフォームは、疾患モデリングと薬剤スクリーニングの強力なツールとなる。各送達システムと診断プラットフォームについて、代表的な研究成果を設計原理、利点、限界とともに"
+      },
+      {
+        "title": "Pancreatic-liver crosstalk, novel molecular mediators, and 2025 therapeutic breakthroughs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42626202/",
+        "abstract": "Obesity, a global public health crisis driven by dysregulated systemic energy homeostasis, is increasingly recognized as a disorder of interorgan communication, with the pancreas and liver serving as central interconnected metabolic hubs. Their bidirectional crosstalk, mediated through neural and humoral pathways, is a key driver of disease progression. Recent breakthroughs have uncovered novel molecular mechanisms amplifying this pathogenic axis: Adipocyte-derived exosomes carrying miR-138-5p directly target pancreatic β-cell SOX4, suppressing insulin secretion and promoting apoptosis, while hepatic RNA demethylase ALKBH5 stabilizes glucagon receptor mRNA and activates lipogenic pathways, exacerbating hyperglycemia and steatosis. Further, colonic inflammation activates hepatic ERK signaling, which is converted into neural signals by the liver and precisely delivered to the pancreas through the liver-pancreas vagus nerve circuit, driving adaptive β-cell proliferation in early obesity by releasing neurotransmitters such as acetylcholine. Traditional pathogenic loops persist: Pancreatic exocrine insufficiency disrupts gut-liver homeostasis, inducing systemic inflammation, and hepatic free fatty acid flux exerts direct and immune-mediated lipotoxicity on pancreatic β-cells, forming a self-perpetuating vicious cycle. Emerging interventions target this axis: GLP-1/GIP dual agonists (",
+        "source": "PubMed",
+        "doi": "10.5662/wjm.v16.i3.118728",
+        "keyword": "Exosomes",
+        "title_ja": "膵臓と肝臓のクロストーク、新規分子メディエーター、そして2025年の治療的ブレークスルー",
+        "summary_ja": "肥満は、全身のエネルギー恒常性の乱れに起因する国際的な公衆衛生危機であり、膵臓と肝臓を中心とした臓器間ネットワークの異常として捉えられる。両者の双方向クロストークは神経・液性経路を介し、病態進行の鍵となる。最近の知見として、脂肪細胞由来エクソソーム中のmiR-138-5pが膵β細胞のSOX4を抑制しインスリン分泌を阻害、アポトーシスを促進する。肝臓のRNA脱メチル化酵素ALKBH5はグルカゴン受容体mRNAを安定化し、脂肪生成経路を活性化して高血糖と脂肪肝を悪化させる。また、結腸炎症が肝臓のERKシグナルを活性化し、肝臓-膵臓迷走神経回路を介して神経信号に変換され、アセチルコリン放出により初期肥満でのβ細胞増殖を駆動する。従来の悪循環として、膵外分泌不全が腸肝恒常性を破綻させ全身炎症を誘導し、肝臓からの遊離脂肪酸がβ細胞に直接・免疫介在性のリポ毒性を及ぼす。新興治療としてGLP-1/GIP"
+      },
+      {
+        "title": "Letter to the Editor: Low-energy fractional carbon dioxide laser priming of mesenchymal stem cell-derived exosomes: A photothermal boost for diabetic wound angiogenesis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42626025/",
+        "abstract": "The study by Chen ",
+        "source": "PubMed",
+        "doi": "10.5662/wjm.116914",
+        "keyword": "Exosomes",
+        "title_ja": "編集者への手紙：間葉系幹細胞由来エクソソームに対する低エネルギー炭酸ガスフラクショナルレーザープライミング：糖尿病創傷血管新生における光熱的促進効果",
+        "summary_ja": "本研究は、糖尿病創傷治癒における新規併用療法を提案する。低エネルギー分割炭酸ガスレーザー（FrCO2）による前処理が、間葉系幹細胞由来エクソソーム（MSC-Exos）の創傷血管新生促進効果を増強するメカニズムを検討した。FrCO2レーザーは創傷部に軽度の光熱ストレスを誘導し、局所の低酸素環境を形成。これがMSC-Exosの取り込みを亢進させ、エクソソーム内のmiRNAや成長因子の放出を促進する。結果として、血管内皮細胞の増殖・遊走が活性化され、糖尿病状態で障害された血管新生が有意に改善した。本アプローチは、レーザーの物理的刺激とエクソソームの生物学的効果を相乗的に組み合わせ、低侵襲かつ効果的な糖尿病創傷治療の可能性を示す。今後は臨床応用に向けた至適レーザー条件やエクソソーム投与量の最適化が課題である。"
+      },
+      {
+        "title": "Roles of Ceramide Glucosyltransferase in Controlling Cerebral Microvascular Endothelial Integrity and Angiogenesis Post-Ischemia/Reperfusion.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42625084/",
+        "abstract": "Sphingolipids critically regulate microvascular integrity and function, but the role of glycosphingolipids in endothelial survival and angiogenesis remains poorly defined. Herein, we experimentally deactivated or activated UDP-glucose ceramide glucosyltransferase (UGCG), which converts ceramide to glucosylceramide, by the pharmacological inhibitor D-threo-1-phenyl-2-decanoylamino-3-morpholino-1-propanol (D-PDMP), siRNA-mediated knockdown or the pharmacological activator L-PDMP. Sphingolipid and glycosphingolipid profiles were examined by liquid chromatography-tandem-mass spectrometry. Effects on endothelial survival, proliferation, transwell migration, extracellular vesicle (EV) release and tube formation were assessed in human cerebral microvascular endothelial cells (hCMEC/D3). In vitro, pharmacological UGCG deactivation near-completely suppressed hexosylceramide levels and at high dose increased ceramide and sphingosine-1-phosphate (S1P), a known pro-angiogenic sphingolipid, while UGCG knockdown moderately decreased mostly short (C16, C18) hexosylceramides. UGCG activation increased hexosylceramide without significantly altering ceramide and S1P. Pharmacological UGCG deactivation increased endothelial tube formation, a marker of angiogenesis, but at high dose decreased endothelial survival, whereas UGCG knockdown and UGCG activation reduced endothelial tube formation and migration or proliferation, respectively. Pharmacological UGCG deactivation and activation, but not UGCG knockdown increased endothelial release of EVs with anti-angiogenic activity. In mice exposed to transient middle cerebral artery occlusion, pharmacological UGCG deactivation and activation reduced the length and branch density of small-sized (< 4 µm) and intermediate (4-5.4 µm) cerebral microvessels in the reperfused striatum as revealed by 3D light-sheet microscopy, indicative of microvascular endothelial degeneration. Our results suggest that pharmacological UGCG deactivation promotes angiogenesis in vitro probably via S1P elevation. In vivo, UGCG deactivation failed to stabilize microvascular network integrity post-ischemia/reperfusion, presumably due to ceramide-associated cell stress.",
+        "source": "PubMed",
+        "doi": "10.1007/s12975-026-01488-9",
+        "keyword": "Exosomes",
+        "title_ja": "セラミドグルコシルトランスフェラーゼの脳微小血管内皮の完全性と虚血/再灌流後血管新生の制御における役割",
+        "summary_ja": "スフィンゴ脂質は微小血管の完全性と機能を制御するが、グリコスフィンゴ脂質の内皮生存・血管新生における役割は不明である。本研究では、UDP-グルコースセラミドグルコシルトランスフェラーゼ（UGCG）を薬理学的阻害剤D-PDMP、siRNAノックダウン、活性化剤L-PDMPで操作し、ヒト脳微小血管内皮細胞（hCMEC/D3）で効果を検証した。UGCG不活化はヘキソシルセラミドをほぼ完全に抑制し、高用量ではセラミドとS1Pを増加させた。ノックダウンは短鎖ヘキソシルセラミドを減少させた。薬理学的UGCG不活化は管形成を促進したが、高用量で生存率を低下させた。ノックダウンと活性化は管形成・遊走・増殖を抑制した。薬理学的操作は抗血管新生性の細胞外小胞放出を増加させた。マウス一過性中大脳動脈閉塞モデルでは、UGCG不活化・活性化とも再灌流線条体の小径・中径微小血管の長さと分岐密度を減少させ、内皮変性を示"
+      },
+      {
+        "title": "Digital droplet PCR and liquid biopsy in acute myeloid Leukemia: bridging translational research and clinical practice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42624191/",
+        "abstract": "Acute myeloid leukemia (AML) is a genetically heterogeneous and dynamically evolving malignancy in which morphologic remission does not necessarily indicate eradication of disease. Bone marrow examination remains central to diagnosis and response assessment, yet repeated aspiration is invasive, may be affected by hemodilution and spatial sampling, and provides only intermittent snapshots of an evolving clonal process. Liquid biopsy offers a complementary strategy by interrogating circulating cell-free DNA (cfDNA), the leukemia-derived fraction termed circulating tumor DNA (ctDNA), extracellular vesicles, exosomal nucleic acids, and circulating leukemic cells. Among the analytical platforms applicable to these materials, droplet digital polymerase chain reaction (ddPCR) is attractive because it partitions a specimen into thousands of reactions and enables highly precise absolute quantification without a calibration curve. This narrative review critically examines the biological rationale, analytical performance, and clinical evidence supporting ddPCR-based liquid biopsy in AML. The strongest current evidence concerns molecular measurable residual disease (MRD), particularly for NPM1 mutations and selected patient-specific variants, with additional applications in IDH1/2, FLT3-TKD, KIT, CEBPA, DNMT3A, and fusion-transcript monitoring. We discuss the roles of peripheral blood and plasma cfDNA at diagnosis, during induction and consolidation, before and after allogeneic hematopoietic stem-cell transplantation, and at suspected molecular relapse. We also compare ddPCR with multiparameter flow cytometry, reverse-transcription quantitative PCR, and error-corrected next-generation sequencing, emphasizing that analytical sensitivity alone does not establish clinical validity. Major barriers include pre-analytical variation, low and fluctuating ctDNA abundance, assay-specific false-positive droplets, incomplete target coverage, clonal hematopoiesis, and the absence of harmonized thresholds. Emerging multi-analyte strategies that combine mutation tracking, methylation, exosomal RNA, chimerism, and computational modeling may improve robustness. At present, ddPCR is best positioned as a rapid, targeted, and complementary tool embedded in a multimodal MRD framework rather than as a universal replacement for bone marrow or broad genomic profiling.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cca.2026.121290",
+        "keyword": "Exosomes",
+        "title_ja": "急性骨髄性白血病におけるデジタルドロップレットPCRとリキッドバイオプシー：トランスレーショナルリサーチと臨床実践の橋渡し",
+        "summary_ja": "急性骨髄性白血病（AML）は遺伝子学的に不均一で動的に進化する悪性腫瘍であり、形態学的寛解は病態の根絶を必ずしも意味しない。骨髄検査は診断と効果判定の中心だが、侵襲的で、血液希釈や空間的サンプリングの影響を受け、進化するクローン過程の断片的な情報しか得られない。液体生検は、循環セルフリーDNA（cfDNA）、白血病由来の循環腫瘍DNA（ctDNA）、細胞外小胞、エクソソーム核酸、循環白血病細胞を解析する補完的戦略である。デジタルドロップレットPCR（ddPCR）は、検体を数千の反応に分割し、検量線なしで高精度な絶対定量を可能にする。本レビューでは、AMLにおけるddPCRベースの液体生検の生物学的根拠、分析性能、臨床的エビデンスを批判的に検討する。最も強力なエビデンスは、NPM1変異や患者特異的変異を対象とした分子学的微小残存病変（MRD）であり、IDH1/2、FLT3-TKD、KIT、C"
+      },
+      {
+        "title": "An inflammatory bowel disease-linked lncRNA suppresses transcription factor T-BET expression in T cells to limit intestinal inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42624111/",
+        "abstract": "Among the tens of thousands of annotated long noncoding RNAs (lncRNAs) in the human genome, only a small fraction have been functionally characterized. Here, we show that a well-established inflammatory bowel disease (IBD) risk locus encoded a conserved lncRNA, lnc15 (2310015A10Rik/ENSMUSG00000097729), whose structure was destabilized by risk-associated variants, leading to its degradation. Deletion of lnc15 in mice resulted in molecular features of inflammation under steady-state conditions and conferred heightened susceptibility to experimental colitis. Lnc15 was abundantly expressed in T cells, with highest expression in regulatory T (Treg) cells. Mechanistically, lnc15 suppressed the transcription factor T-BET by recruiting the CCR4-NOT RNA degradation complex to Tbx21 mRNA. Our study identifies that lnc15 simultaneously enhances Treg cell suppressive function and impairs conventional T cell pathogenicity in the context of intestinal inflammation. Collectively, these findings identify lnc15 as a functional lncRNA that links noncoding genetic variation to immune regulation and prevention of mucosal inflammation. VIDEO ABSTRACT.",
+        "source": "PubMed",
+        "doi": "10.1016/j.immuni.2026.07.019",
+        "keyword": "Exosomes",
+        "title_ja": "炎症性腸疾患関連lncRNAはT細胞における転写因子T-BETの発現を抑制し、腸管炎症を制限する。",
+        "summary_ja": "ヒトゲノムに存在する数万の長鎖非コードRNA（lncRNA）のうち、機能が解明されているものはごく一部である。本研究では、炎症性腸疾患（IBD）リスク遺伝子座にコードされる保存されたlncRNA「lnc15」を同定した。リスク関連変異はlnc15の構造を不安定化し、分解を誘導する。マウスでlnc15を欠失させると、定常状態で炎症の分子的特徴が現れ、実験的大腸炎への感受性が亢進した。lnc15はT細胞、特に制御性T（Treg）細胞で高発現し、CCR4-NOT RNA分解複合体をTbx21 mRNAにリクルートすることで転写因子T-BETの発現を抑制する。これにより、lnc15は腸管炎症においてTreg細胞の抑制機能を増強し、従来型T細胞の病原性を低下させる。本研究は、lnc15が非コード遺伝子多型と免疫制御・粘膜炎症予防を結びつける機能性lncRNAであることを示す。"
+      },
+      {
+        "title": "Biochemical stress markers in neurodegeneration: Insights from 3D cellular models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42623921/",
+        "abstract": "Understanding the multifaceted nature of neurodegenerative disease (NDDs) remains a significant challenge due to the complex intracellular /intercellular phenomena. This review explores the latest findings about the biochemical stress markers within the complex landscape of NDDs, with a specific focus on novel 3D cell cultures. Recent research highlights the importance of structural complexity and cellular crosstalk which lead to responses resembling those observed in the brain. However, issues such as vascularization and shear stress (which affect experimental reproducibility) remain. Here we emphasize the role of biochemical stressors in cellular interactions and communication relevant to NDDs, highlighting the emerging opportunities coming from exosomes/extracellular vesicles and noncoding RNAs as biomarkers, alongside the usefulness of brain organoids in terms of translational relevance. By bridging the gap between molecular mechanisms and organ dysfunction, 3D models emerge as essential tools for the discovery of novel theragnostic biomarkers and for the development of targeted therapeutic strategies.",
+        "source": "PubMed",
+        "doi": "10.1016/j.sbi.2026.103360",
+        "keyword": "Exosomes",
+        "title_ja": "神経変性における生化学的ストレスマーカー：3D細胞モデルからの知見",
+        "summary_ja": "神経変性疾患（NDDs）は、複雑な細胞内・細胞間現象によりその理解が困難である。本総説では、新規3D細胞培養に焦点を当て、NDDsにおける生化学的ストレスマーカーの最新知見を探る。近年の研究は、構造的複雑性と細胞間クロストークが脳内で観察される応答に類似した反応を引き起こす重要性を強調する。しかし、血管新生やせん断応力といった実験再現性に影響する課題が残る。本稿では、NDDsに関連する細胞相互作用とコミュニケーションにおける生化学的ストレッサーの役割を重視し、エクソソーム/細胞外小胞や非コードRNAがバイオマーカーとして有望であること、脳オルガノイドの臨床応用への有用性を指摘する。分子機構と臓器機能不全のギャップを埋めることで、3Dモデルは新規セラノスティクスバイオマーカー発見や標的治療戦略開発に不可欠なツールとなる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "hTERT Immortalization Stabilizes Human Umbilical Cord MSCs and Maintains Their Small Extracellular Vesicles With Preserved Immunomodulatory Activity and Primordial Follicle-Activating Capacity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42627104/",
+        "abstract": "Cellular senescence is a fundamental hallmark of aging and represents a major barrier to the scalable and reproducible application of mesenchymal stromal cell (MSC)-derived small extracellular vesicles (sEVs). Senescent human umbilical cord mesenchymal stromal cells (hUCMSCs) exhibit impaired proliferative capacity, disrupted mitochondrial homeostasis, and altered secretory phenotypes, which may compromise the biological activity and therapeutic reliability of sEVs. Here, we investigated whether overexpression of human telomerase reverse transcriptase (hTERT) attenuates senescence-associated deterioration and stabilizes sEV functional properties. Late-passage hUCMSCs displayed canonical senescence features and mitochondrial dysfunction, all of which were markedly alleviated by hTERT expression. Functionally, sEVs derived from senescent cells exhibited impaired immunomodulatory activity, whereas sEVs from hTERT-expressing cells largely restored this function. Mechanistically, senescence was associated with altered sEV cargo, including enrichment of miR-217-5p, which contributed to diminished immunomodulatory potency, at least in part through modulation of SIRT1-associated inflammatory signaling in recipient macrophages. Proteomic profiling further showed that H11-sEVs retained a young-like protein cargo profile, particularly for proteins associated with immune and inflammatory regulation. In parallel, sEVs from all three groups retained primordial follicle-activating capacity, consistent with the broad retention of PI3K-Akt pathway-related proteins in their proteomic profiles and PI3K-Akt pathway activation in ovarian tissues. In aged female mice, H11-sEVs exhibited young-like ovarian protective activity. Collectively, these findings demonstrate that hTERT uncouples cellular senescence from sEV functional decline, supporting the development of potency-stabilized sEV sources for aging-related and regenerative applications and providing insight into the biological roles of senescent cell-derived sEVs.",
+        "source": "PubMed",
+        "doi": "10.1111/acel.70681",
+        "keyword": "sEVs",
+        "title_ja": "hTERT不死化はヒト臍帯MSCを安定化し、免疫調節活性と原始卵胞活性化能を保持した小型細胞外小胞を維持する",
+        "summary_ja": "細胞老化は間葉系幹細胞（MSC）由来の小型細胞外小胞（sEV）の大規模応用を妨げる主要因である。本研究では、ヒト臍帯MSC（hUCMSCs）にヒトテロメラーゼ逆転写酵素（hTERT）を過剰発現させ、老化関連の機能低下を抑制できるか検討した。後期継代の老化細胞では、増殖能低下、ミトコンドリア機能障害、分泌表現型の変化が認められたが、hTERT発現によりこれらは顕著に改善された。老化細胞由来sEVは免疫調節活性が低下したが、hTERT発現細胞由来sEV（H11-sEVs）はこの機能を回復した。機構的には、老化に伴いsEV内のmiR-217-5pが増加し、受容体マクロファージのSIRT1関連炎症シグナルを調節することで免疫調節能を減弱させた。プロテオーム解析では、H11-sEVsは若年様のタンパク質プロファイルを保持し、特に免疫・炎症関連タンパク質が豊富だった。一方、全群のsEVはPI3K-Ak"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックをまとめる。\n\n**1. 可溶性α-Klothoの先端巨大症バイオマーカー価値**  \nGHとIGF-1の乖離が課題となる先端巨大症で、可溶性α-Klothoが疾患活動性の補助指標となる可能性を示した。非侵襲的な経過観察や治療判断の精度向上が期待される。\n\n**2. 血小板の肝細胞癌微小環境における二面的役割**  \n血小板が腫瘍促進と抑制の両面を持つことを統合的に整理。TGF-β1/AMPK/mTOR経路など分子機構の解明は、血小板標的療法や予後予測バイオマーカー開発への応用が期待される。\n\n**3. 尿中エクソソームmiRNAによるIgA腎症診断**  \n侵襲的な腎生検に代わる非侵襲的診断法として、尿中エクソソームのmiRNAが有望。安定した検体採取が可能で、早期発見や病勢モニタリングへの貢献が期待される。\n\n**4. hTERT不死化MSC由来sEVの免疫調節能維持**  \n細胞老化によるsEV機能低下をhTERT導入で克服。免疫調節活性と卵胞活性化能を保持したまま安定供給が可能となり、再生医療や生殖補助医療への大規模応用の道を開く。\n\n**5. 脳関門と神経膠腫免疫療法**  \nCNS免疫特権と脳関門が免疫療法抵抗性に寄与する機序を整理。脳関門透過性の制御や免疫監視機構の理解が、神経膠腫に対する効果的な免疫療法開発の鍵となる。"
+}

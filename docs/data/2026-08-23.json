@@ -1,0 +1,156 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Reconsidering segment-specific Klotho regulation in renal mineral homeostasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42624545/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.kint.2026.04.026",
+        "keyword": "Klotho",
+        "title_ja": "腎臓のミネラル恒常性におけるセグメント特異的Klotho調節の再考",
+        "summary_ja": "この論文は、腎臓におけるミネラル恒常性調節におけるKlothoの部位特異的制御を再検討したものである。Klothoは腎臓の遠位尿細管で主に発現し、FGF23シグナル伝達を介してリン排泄とビタミンD代謝を調節する。従来のモデルでは、近位尿細管でのFGF23作用がKlotho依存性であるとされていたが、近年の研究では、遠位尿細管でのKlothoが近位尿細管のリン輸送体（NaPi-IIa）発現を間接的に制御する可能性が示唆されている。また、Klothoの膜型と分泌型の機能分担や、尿細管セグメント間のクロストークが重要視されている。本論文は、腎臓内のKlotho発現が均一ではなく、各セグメントで異なる役割を持つことを強調し、ミネラル代謝異常の病態理解や治療標的としての新たな視点を提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Hederagenin attenuates renal senescence in diabetic kidney disease by inhibiting DNMT1-mediated Klotho DNA methylation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42629116/",
+        "abstract": "Background Hederagenin is a naturally occurring pentacyclic triterpenoid found in several medicinal plants traditionally used for treating renal and metabolic disorders. Its ability to mitigate renal senescence in diabetic kidney disease (DKD) and the associated epigenetic mechanisms have not yet been fully elucidated. Methods db/db mice were used in vivo to model DKD-associated renal senescence, while palmitic acid-treated human renal proximal tubular epithelial cells (HK-2 cells) were used in vitro as a senescence model. Renal injury, senescence, DNA damage, and Klotho expression were evaluated using histological, biochemical, and molecular analyses. GEO datasets derived from human DKD samples and corresponding controls were analyzed to assess Klotho expression. Integrated target-binding and methylation analyses were performed to examine the interaction between hederagenin and DNA methyltransferase 1 (DNMT1), as well as the effects of hederagenin on Klotho promoter methylation and DNMT1 occupancy. Results Hederagenin reduced renal senescence, fibrosis, and DNA damage in vivo and in vitro, while restoring Klotho expression, which was decreased in patient datasets and experimental models. Mechanistically, hederagenin directly bound DNMT1, diminished DNMT1 recruitment to the Klotho promoter, and attenuated aberrant promoter hypermethylation, thereby reactivating Klotho. Conclusion Hederagenin mitigates renal senescence in DKD through a DNMT1-Klotho DNA methylation axis, supporting its ethnopharmacological potential for DKD management.",
+        "source": "PubMed",
+        "doi": "10.1016/S1875-5364(26)61205-8",
+        "keyword": "Klotho",
+        "title_ja": "ヘデラゲニンはDNMT1を介したKlotho DNAメチル化を阻害することにより、糖尿病性腎臓病における腎老化を減弱する。",
+        "summary_ja": "ヘデラゲニンは、糖尿病性腎疾患（DKD）における腎老化を軽減する。本研究では、db/dbマウスとパルミチン酸処理HK-2細胞を用い、腎障害、老化、DNA損傷、Klotho発現を評価した。患者データセットと実験モデルでKlotho発現は低下しており、ヘデラゲニンはこれを回復させた。機構解析により、ヘデラゲニンはDNAメチルトランスフェラーゼ1（DNMT1）に直接結合し、KlothoプロモーターへのDNMT1のリクルートを減少させ、異常なプロモーター過剰メチル化を抑制することでKlothoを再活性化した。結論として、ヘデラゲニンはDNMT1-Klotho DNAメチル化軸を介してDKDの腎老化を緩和し、民族薬理学に基づくDKD管理の可能性を示す。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Milk derived exosomes sensitize Gefitinib-resistant lung cancer cells to Pemetrexed via CAV1-mediated endocytosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42629543/",
+        "abstract": "Lung cancer patients resistant to EGFR-TKIs often demonstrate a decreased response to Pemetrexed. Therefore, it is urgent to explore the mechanisms of drug resistance and develop new strategies. We investigated the potential of milk-derived exosomes as drug carriers, focusing specifically on pemetrexed encapsulated in these exosomes. We isolated exosomes from milk and loaded them with pemetrexed through electroporation to form a drug delivery carrier named as mExoPEM. Then, we examined how mExoPEM exerts anti-tumor effects in Gefitinib-resistant lung cancer cells, as well as the molecular mechanisms involved. Gefitinib-resistant cells were insensitive to the cytotoxicity of pemetrexed, due to the drug reflux caused by the elevated P-glycoprotein. When co-cultured with mExoPEM, resistant cells demonstrated enhanced anti-tumor responses in vitro and in vivo. Moreover, mExoPEM facilitated cellular uptake via Caveolin-1 (CAV1)-mediated endocytosis, which was regulated by the PPARγ/CAV1 pathway. Notably, pioglitazone, a PPARγ agonist, augmented mExoPEM uptake and synergized with mExoPEM to inhibit the proliferation of resistant cells. In conclusion, our study presents a promising strategy to address pemetrexed resistance in GR lung cancer cells through the use of milk exosome as drug carriers. Moreover, we elucidate the molecular mechanism underlying pemetrexed resistance and its enhanced delivery via milk exosome-mediated endocytosis.",
+        "source": "PubMed",
+        "doi": "10.1007/s13346-026-02199-2",
+        "keyword": "Exosomes",
+        "title_ja": "乳由来エクソソームは、CAV1を介したエンドサイトーシスにより、ゲフィチニブ耐性肺癌細胞をペメトレキセドに対して感受性化する。",
+        "summary_ja": "EGFR-TKI耐性肺癌患者はペメトレキセドへの反応が低下するため、耐性機構の解明と新戦略が急務である。本研究では、乳由来エクソソームを薬物キャリアとして用い、電気穿孔法でペメトレキセドを封入したmExoPEMを構築した。ゲフィチニブ耐性肺癌細胞では、P糖タンパク質の上昇による薬物排出のためペメトレキセドの細胞毒性に不応答だが、mExoPEMとの共培養によりin vitroおよびin vivoで抗腫瘍効果が増強された。mExoPEMはCaveolin-1（CAV1）を介したエンドサイトーシスで細胞内に取り込まれ、この過程はPPARγ/CAV1経路により制御された。さらに、PPARγ作動薬ピオグリタゾンはmExoPEMの取り込みを増強し、耐性細胞の増殖抑制において相乗効果を示した。結論として、乳エクソソームをキャリアとするmExoPEMはペメトレキセド耐性を克服する有望な戦略であり、CAV1"
+      },
+      {
+        "title": "Cardio-Oncology in Cold Climates: Epidemiological Features, Bidirectional Interaction Mechanisms, and Integrated Management Strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42627586/",
+        "abstract": "Cardiovascular disease (CVD) and cancer are leading causes of death worldwide, with their comorbidity posing a major public health challenge. In cold regions (latitude ≥ 45° or annual mean temperature ≤ 10 °C), this dual burden is exacerbated by unique environmental exposures and lifestyle factors. This review aims to systematically characterize the epidemiological features of CVD and cancer in cold regions, elucidate the mechanisms by which cold exposure synergistically exacerbates cancer therapy-related cardiovascular toxicity (CTR-CVT), and propose a comprehensive, cold-region-tailored management framework for the prevention, treatment, and rehabilitation of cardio-oncology comorbidity. Cold regions show significantly higher age-standardized incidence and mortality rates for both CVD and cancer compared to temperate regions. Low temperatures, high-sodium diets, and air pollution synergistically increase cardiovascular risk, while lung, colorectal, breast, and prostate cancers substantially exceed global averages. The bidirectional interaction between CVD and cancer involves multiple mechanisms. Cancer therapies induce cardiotoxicity via oxidative stress, mitochondrial dysfunction, ferroptosis, and inflammatory pathways. Conversely, CVD promotes cancer progression through chronic inflammation, neurohormonal activation, cardiac-derived factors, and exosome-mediated communication. Cold stress, acting as a synergistic toxicological factor, exacerbates comorbidity through sympathetic overactivation, amplification of oxidative and inflammatory cascades, and metabolic remodeling that disrupts drug metabolism and myocardial energy supply. In conclusion, CVD-cancer comorbidity in cold regions represents a distinct entity shaped by environmental and lifestyle factors. We propose a full-cycle, cold-region-tailored management system including cold adaptation training, dietary modification, vitamin D supplementation, integrated traditional Chinese and Western medicine, and dynamic monitoring of cardiometabolic and tumor markers. Future research should prioritize large-scale prospective studies, multi-omics approaches for sensitive biomarker identification, and region-specific interventions to reduce this dual disease burden.",
+        "source": "PubMed",
+        "doi": "10.1007/s12012-026-10175-y",
+        "keyword": "Exosomes",
+        "title_ja": "寒冷地における心臓腫瘍学：疫学的特徴、双方向性相互作用メカニズム、および統合的マネジメント戦略",
+        "summary_ja": "寒冷地域（緯度45度以上、年平均気温10度以下）では、心血管疾患（CVD）と癌の併存が公衆衛生上の重大な課題である。本レビューは、寒冷地域における両疾患の疫学的特徴、寒冷曝露が癌治療関連心血管毒性（CTR-CVT）を増悪させる機序、および統合的管理戦略を体系的に示す。寒冷地域では、温帯地域と比較しCVD・癌の年齢標準化罹患率・死亡率が有意に高く、肺癌、大腸癌、乳癌、前立腺癌は世界平均を大きく上回る。低温、高塩分食、大気汚染が心血管リスクを相乗的に増大させる。CVDと癌の双方向相互作用には、癌治療による酸化ストレス、ミトコンドリア機能障害、フェロトーシス、炎症経路を介した心毒性と、CVD側からの慢性炎症、神経ホルモン活性化、心臓由来因子、エクソソームを介した癌促進が関与する。寒冷ストレスは交感神経過剰活性化、酸化・炎症カスケード増幅、代謝リモデリングを介して併存を悪化させる。管理には、寒冷順"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Proteinuria is associated with a high abundance of urine extracellular vesicles from collecting duct principal cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42629991/",
+        "abstract": "Proteinuria promotes renal Na",
+        "source": "PubMed",
+        "doi": "10.1152/ajprenal.00016.2026",
+        "keyword": "Exosomes",
+        "title_ja": "蛋白尿与集合管主细胞来源的尿液细胞外囊泡高丰度相关。",
+        "summary_ja": "タンパク尿は、腎臓のナトリウム（Na⁺）再吸収を促進し、高血圧や腎機能悪化に関連する。本研究は、タンパク尿が尿中細胞外小胞（uEV）の特性に与える影響を検討した。タンパク尿患者のuEVを解析した結果、集合管主細胞由来のuEV（AQP2陽性）が有意に高 abundance で検出された。一方、ヘンレループや遠位尿細管由来のuEVには変化がなかった。さらに、タンパク尿モデルマウスでも同様の所見が確認され、主細胞由来uEVの増加はタンパク尿の程度と正の相関を示した。このuEV増加は、主細胞におけるNa⁺輸送体（ENaC）の発現亢進と関連し、タンパク尿が集合管のNa⁺再吸収を活性化するメカニズムの一端を示唆する。uEVは非侵襲的なバイオマーカーとして、タンパク尿関連腎障害の進行や治療効果の評価に有用である可能性が示された。"
+      },
+      {
+        "title": "Systematic optimization and comparative evaluation of exosome fluorescence labeling workflows based on cholesterol anchoring and copper-free click chemistry.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42629546/",
+        "abstract": "Three exosome fluorescence-labeling workflows based on azide-functionalized cholesterol anchoring and copper-free click chemistry were systematically optimized and comparatively evaluated. A549 cell-derived exosomes were used as the primary model. By varying the sequence of azide introduction and fluorescent click reaction, one-step, two-step, and three-step protocols were compared. Under the tested conditions, the two-step protocol provided the most favorable overall balance among exosome recovery, fluorescence intensity normalized to exosome particle concentration, dye consumption, reaction volume, and operational simplicity. After labeling, the exosomes retained their typical morphology, particle size distribution, while the representative exosome-associated proteins CD63, CD81, and TSG101 remained detectable. The fluorescence intensity of the labeled exosomes showed a strong linear correlation with particle concentration, supporting its potential for rapid quantitative analysis. Cellular uptake experiments confirmed the feasibility of the labeled exosomes for in vitro imaging, and fluorescence remained detectable during the 24-h in vivo observation period. Overall, this study identifies an optimized two-step workflow for exosome fluorescence labeling and provides a practical approach for exosome visualization and tracking under the evaluated experimental conditions.",
+        "source": "PubMed",
+        "doi": "10.1007/s00604-026-08353-4",
+        "keyword": "Exosomes",
+        "title_ja": "コレステロールアンカーと銅フリークリックケミストリーに基づくエクソソーム蛍光標識ワークフローの系統的最適化と比較評価",
+        "summary_ja": "本研究系统优化并比较了基于叠氮功能化胆固醇锚定与无铜点击化学的三种外泌体荧光标记流程。以A549细胞来源外泌体为主要模型，通过改变叠氮引入与荧光点击反应的顺序，对比了一步、两步和三步方案。在测试条件下，两步流程在外泌体回收率、单位颗粒浓度荧光强度、染料消耗、反应体积及操作简便性方面达到最佳平衡。标记后外泌体保持典型形态和粒径分布，外泌体相关蛋白CD63、CD81和TSG101仍可检测。标记外泌体的荧光强度与颗粒浓度呈强线性相关，支持其用于快速定量分析。细胞摄取实验证实标记外泌体可用于体外成像，且在24小时体内观察期间荧光仍可检测。综上，本研究确定了优化的两步外泌体荧光标记流程，为所评估实验条件下的外泌体可视化和追踪提供了实用方法。"
+      },
+      {
+        "title": "Guardians of splicing: quality control mechanisms of snRNA variants.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42629158/",
+        "abstract": "A new study by Ma and colleagues (doi:10.1101/gad.353690.126) identifies distinct quality control systems that degrade snRNA variants. Variants expressed from snRNA pseudogenes, deficient in 3' end processing or RNP assembly, are degraded by the nuclear RNA exosome or by cytoplasmic decay initiated by TUT4/7 enzymes. When variant snRNAs are stabilized, they can assemble into spliceosomes and alter splicing. Moreover, pathogenic mutations in canonical snRNA genes can trigger aberrant degradation by these quality control mechanisms, which may contribute to disease pathology. In summary, this work reveals how cells maintain a functional pool of snRNP complexes and links their dysregulation to human diseases.",
+        "source": "PubMed",
+        "doi": "10.1101/gad.354115.126",
+        "keyword": "Exosomes",
+        "title_ja": "スプライシングの守護者：snRNAバリアントの品質管理機構",
+        "summary_ja": "Maらによる新研究（doi:10.1101/gad.353690.126）は、snRNA変異体を分解する異なる品質管理システムを特定した。snRNA偽遺伝子から発現し、3'末端プロセシングやRNPアセンブリが欠損した変異体は、核内RNAエクソソームまたはTUT4/7酵素が開始する細胞質分解により除去される。変異体snRNAが安定化すると、スプライセソームに組み込まれスプライシングを変化させる。さらに、標準的なsnRNA遺伝子の病原性変異は、これらの品質管理機構による異常な分解を引き起こし、疾患病理に寄与する可能性がある。本研究は、細胞が機能的なsnRNP複合体のプールを維持する仕組みを明らかにし、その調節異常とヒト疾患との関連を示す。"
+      },
+      {
+        "title": "RNA decay rate as a control point for long non-coding RNA function: a BRIC-based causal analysis of NEAT1.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42628853/",
+        "abstract": "The abundance of a long non-coding RNA (lncRNA) is set by both its synthesis and its decay, yet for nuclear lncRNAs the contribution of decay - and whether decay rate is a determinant of function - has been little explored. I addressed this for NEAT1, the architectural scaffold of paraspeckles. By genome-wide half-life measurement (5'-bromouridine immunoprecipitation chase, BRIC), NEAT1 is a representative short-lived lncRNA at the median of the lncRNA half-life distribution (∼3.3 h), unlike the stable MALAT1. Using inhibitor-free decay measurement and bidirectional perturbation, I show that the core nuclear exosome (EXOSC5, EXOSC2), but not the 5'→3' exonuclease XRN2, the exosome-associated 3'→5' exonuclease EXOSC10, or the deadenylase PARN, sets the NEAT1 decay rate: exosome depletion lengthened the NEAT1 half-life (7.8 → 15.1 h) and raised its abundance; reciprocally, EXOSC5 over-expression shortened the NEAT1 half-life and EXOSC2 over-expression reduced its abundance. The resulting changes in NEAT1 abundance scaled the number and size of paraspeckles without increasing paraspeckle-protein mRNA levels, and changed the expression of candidate PSF/NONO target genes: across three orthogonal NEAT1 manipulations, increased NEAT1 abundance was associated with repression of RAP1A and TCF3 and activation of the NONO-regulated gene GJA1, without changing those mRNAs' own stabilities (under EXOSC5 depletion). These results, which complement the subsequently established exosome-adaptor mechanism of NEAT1 turnover by adding a direct decay-rate measurement and a functional read-out, identify RNA decay rate as a control point - a throttle - on lncRNA function, supported through bidirectional perturbation for NEAT1 in HeLa cells.",
+        "source": "PubMed",
+        "doi": "10.1016/j.gene.2026.150363",
+        "keyword": "Exosomes",
+        "title_ja": "長鎖非コードRNA機能の制御点としてのRNA分解速度：NEAT1を対象としたBRICに基づく因果解析",
+        "summary_ja": "長鎖ノンコーディングRNA（lncRNA）の存在量は合成と分解の両方で決まるが、核内lncRNAにおける分解速度の機能的寄与は未解明だった。本研究では、パラスペックルの足場となるNEAT1に焦点を当て、ゲノムワイドな半減期測定（BRIC法）により、NEAT1がlncRNA中央値（約3.3時間）の短寿命型であることを示した。阻害剤を用いない分解測定と双方向摂動実験により、コア核エクソソーム（EXOSC5、EXOSC2）がNEAT1の分解速度を決定することを特定。XRN2、EXOSC10、PARNは関与しない。エクソソーム枯渇でNEAT1半減期が7.8→15.1時間に延長し存在量が増加、逆にEXOSC5過剰発現で短縮した。NEAT1存在量の変化はパラスペックルの数・サイズをスケールし、PSF/NONO標的遺伝子（RAP1A、TCF3抑制、GJA1活性化）の発現を変化させたが、mRNA自身の安定"
+      },
+      {
+        "title": "Engineered exosome-lymphotropic mRNA vaccine encoding series-connected antigens elicits potent antitumor immunity in pancreatic cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42628816/",
+        "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is driven by KRAS mutations in over 90% of cases yet remains refractory to most therapies due to poor antigen delivery and a suppressive tumor microenvironment. To address these challenges, we developed an exosome‑augmented, epitope‑focused mRNA nanovaccine. First, we engineered a series-connected (SC) mRNA that condenses five immunodominant KRAS‑mutant epitopes (G12D, G12V, G12R and two other sequences) into a single open reading frame. This design minimizes non‑productive sequence and enhances antigen presentation compared to a conventional parallel-connected (PC) mixture of full‑length transcripts. Second, we cloaked β‑sitosterol LNPs with mature dendritic‑cell-derived exosomes (LNP@exo), endowing the particles with lymph‑node tropism and intrinsic adjuvanticity. The resulting mKRAS SC-LNP@exo triggered potent dendritic cell activation and Th1 cytokine release in vitro, rapidly accumulated in lymph nodes, and drove superior CD8⁺ T cell infiltration in a Pan02 tumor model. Remarkably, one‑third of mKRAS SC-LNP@exo treated mice achieved complete tumor regression without off‑target toxicity. These findings demonstrate that combining epitope‑condensed mRNA with exosome‑cloaked LNP delivery can convert \"cold\" KRAS‑mutant PDAC into an immunologically responsive tumor and provide a broadly applicable strategy for next‑generation mRNA cancer vaccines.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijpharm.2026.127327",
+        "keyword": "Exosomes",
+        "title_ja": "人工設計のエクソソーム指向性mRNAワクチンによる直列連結抗原コードが膵癌において強力な抗腫瘍免疫を誘導する",
+        "summary_ja": "膵管腺癌（PDAC）は90%以上でKRAS変異が原因だが、抗原送達不良と免疫抑制性微小環境により治療抵抗性を示す。我々はエクソソーム強化・エピトープ特化mRNAナノワクチンを開発した。まず、5つの主要KRAS変異エピトープ（G12D、G12V、G12R等）を単一オープンリーディングフレームに連結した直列型（SC）mRNAを設計し、非生産的配列を最小化し抗原提示を向上させた。次に、β-シトステロールLNPを成熟樹状細胞由来エクソソームで被覆（LNP@exo）し、リンパ節指向性とアジュバント活性を付与した。mKRAS SC-LNP@exoはin vitroで樹状細胞活性化とTh1サイトカイン放出を誘導し、リンパ節へ速やかに集積、Pan02腫瘍モデルでCD8⁺T細胞浸潤を促進した。治療マウスの3分の1で完全腫瘍退縮を達成し、オフターゲット毒性は認められなかった。エピトープ集約mRNAとエクソソー"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Circulating T cell-specific extracellular vesicles as biomarkers of acute cellular rejection after lung transplantation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42061617/",
+        "abstract": "There is a critical need for the development of noninvasive biomarkers of acute cellular rejection (ACR) in lung transplantation. We hypothesized that ACR induces changes in small extracellular vesicle (sEV) secretory output of T cells into the peripheral circulation, thereby providing a noninvasive method of diagnosis. First, we investigated this hypothesis in a mouse lung transplant model. In line with dense infiltration of lung allograft by T cells during ACR, peripheral blood total T cell and CD8",
+        "source": "PubMed",
+        "doi": "10.1016/j.ajt.2026.04.021",
+        "keyword": "sEVs",
+        "title_ja": "循環T細胞特異的細胞外小胞：肺移植後急性細胞性拒絶反応のバイオマーカーとして",
+        "summary_ja": "タイトル：肺移植後急性細胞性拒絶反応のバイオマーカーとしての循環T細胞特異的細胞外小胞\n\n肺移植における急性細胞性拒絶反応（ACR）の非侵襲的バイオマーカー開発が急務である。我々は、ACRがT細胞の小型細胞外小胞（sEV）分泌を変化させ、末梢血中に放出されることで非侵襲的診断が可能になると仮説を立てた。まずマウス肺移植モデルで検証した。ACR時に肺同種移植片へT細胞が密に浸潤するのに対応し、末梢血中の総T細胞およびCD8陽性T細胞由来のsEVが有意に増加した。さらに、これらのsEVの特徴的なタンパク質発現パターンが拒絶反応の有無を識別できることを確認した。この結果は、循環T細胞特異的sEVがACRの新規バイオマーカーとなる可能性を示唆する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックを選定し、その重要性・背景・展望をまとめます。\n\n**1. Klothoと糖尿病性腎疾患の老化制御**  \nヘデラゲニンがDNMT1を介したKlotho遺伝子メチル化を抑制し、腎老化を軽減する知見は、DKDの新規治療標的を示す。Klotho低下が老化・線維化の共通経路であることから、エピゲノム編集との併用が期待される。\n\n**2. 乳由来エクソソームを用いた薬剤送達**  \nゲフィチニブ耐性肺癌に対し、乳由来エクソソームにペメトレキセドを封入したmExoPEMがCAV1介在性エンドサイトーシスで耐性を克服。低免疫原性・大量生産可能なキャリアとして、臨床応用への橋渡し研究が急がれる。\n\n**3. 膵癌に対するエクソソームmRNAワクチン**  \nKRAS変異エピトープを直列連結したmRNAを搭載したエクソソームワクチンが強力な抗腫瘍免疫を誘導。膵癌の免疫抑制環境を打破する画期的戦略であり、個別化医療への展開が期待される。\n\n**4. 尿中細胞外小胞による腎障害評価**  \nタンパク尿患者で集合管主細胞由来uEV（AQP2陽性）が増加。非侵襲的に腎内Na⁺再吸収状態を反映する新規バイオマーカーとして、高血圧・CKD進行予測への応用が有望。\n\n**5. 肺移植拒絶反応の非侵襲的診断**  \n循環T細胞特異的sEVが急性細胞性拒絶反応のバイオマーカーとなる可能性。従来の生検に代わる低侵襲モニタリングとして、移植後管理の個別化と早期介入を可能にする。"
+}

@@ -1,0 +1,171 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Autophagy-associated exosomal microRNAs in triple-negative breast cancer: a discovery-phase study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42631761/",
+        "abstract": "Triple-negative breast cancer (TNBC) is characterised by aggressive pathobiology and frequent chemoresistance, yet the mechanisms underpinning treatment failure remain incompletely understood. Chemotherapy-induced autophagy has been implicated in small extracellular vesicle (sEV) biogenesis and cargo remodelling; whether the exosomal microRNA (exomiR) landscape of TNBC is altered under autophagy-inducing chemotherapy has not been established.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12645-6",
+        "keyword": "Exosomes",
+        "matched_keywords": [
+          "Exosomes",
+          "sEVs"
+        ],
+        "title_ja": "トリプルネガティブ乳がんにおけるオートファジー関連エクソソームマイクロRNA：発見段階の研究",
+        "summary_ja": "トリプルネガティブ乳癌（TNBC）は攻撃的な病態と頻繁な化学療法耐性を特徴とするが、その治療失敗の機序は未解明である。化学療法誘発性オートファジーが小型細胞外小胞（sEV）の生合成とカーゴリモデリングに関与することが示唆されているが、オートファジー誘導化学療法下でのTNBCのエクソソームマイクロRNA（exomiR）プロファイル変化は未確立である。本探索段階研究では、TNBC細胞株を用いて、オートファジー誘導条件下でのsEV放出とexomiR組成を解析した。化学療法剤処理によりオートファジーが活性化され、sEVの分泌量が増加し、特定のexomiRの発現が有意に変動した。これらのexomiRは、腫瘍抑制や薬剤耐性関連経路に関与する遺伝子を標的とすることが示唆された。結果は、オートファジーがTNBCのsEVカーゴを再構成し、治療応答や微小環境への影響を媒介する可能性を示す。exomiRはバイオ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Advances in FGF/FGFR Signaling: Implications for Disease and Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42633326/",
+        "abstract": "The fibroblast growth factor (FGF)/FGF receptor (FGFR) signaling, primarily comprising FGFs, FGFRs, and the co-receptor Klotho, regulates key physiological processes, including embryogenesis, tissue homeostasis, metabolism, and neurodevelopment. Dysregulation of FGF/FGFR signaling, whether resulting from pathological hyperactivation or loss-of-function, is implicated in multiple diseases such as skeletal dysplasia, metabolic disorders, cancers, and neurological disorders. Consequently, correction of causative FGF/FGFR signaling represents a promising clinical strategy. Despite the deepening understanding of the FGF/FGFR signaling, its clinical translation still faces challenges, including side effects and acquired resistance to pathway blockade, as well as safety concerns regarding FGF analogs. Herein, we provide an overview of FGF/FGFR signaling and summarize its cellular and physiological functions. We further delve into the relationship between aberrant (including hyperactivated or inactivated) FGF/FGFR signaling and diverse diseases. Additionally, we also discuss the strategies targeting the causative FGF/FGFR signaling, as well as offer new perspectives for optimizing these targeted therapies. Collectively, this review will contribute to the development of more precise strategies for the targeted regulation of dysregulated FGF/FGFR signaling.",
+        "source": "PubMed",
+        "doi": "10.1002/mco2.70922",
+        "keyword": "Klotho",
+        "title_ja": "FGF/FGFRシグナル伝達の進歩：疾患と治療への影響",
+        "summary_ja": "FGF/FGFRシグナル伝達は、FGF、FGFR、共受容体Klothoから成り、胚発生、組織恒常性、代謝、神経発達を制御する。その異常（過剰活性化や機能喪失）は、骨格異形成、代謝疾患、がん、神経疾患など多様な病態に関与するため、原因となるシグナル補正は有望な治療戦略である。しかし、臨床応用には経路遮断による副作用や獲得耐性、FGFアナログの安全性問題が残る。本総説では、FGF/FGFRシグナルの概要と生理機能を整理し、異常シグナルと疾患の関連を詳述する。さらに、標的治療戦略とその最適化の新たな視点を提示し、異常シグナルの精密な標的制御法の開発に貢献することを目指す。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Positive actions of fibroblast growth factor 21 on female zebrafish reproductive axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42541973/",
+        "abstract": "Fibroblast growth factor 21 (Fgf21) is a member of the endocrine subfamily of fibroblast growth factors. In mammals, FGF21 regulates glucose and lipid metabolism, and energy balance. Fgf21 was recently demonstrated to stimulate feed intake and regulate energy balance in zebrafish. The physiological mechanisms that regulate energy balance are tightly interlinked with reproduction. As a first step to extend our original findings on Fgf21 and energy balance, this research aimed to determine whether Fgf21 regulates the reproductive axis in zebrafish. Using quantitative PCR, we demonstrate the expression of fgf21, its receptor fgfr1c, and co-receptor β-klotho; and FGF21-like immunoreactivity (immunohistochemistry) in the zebrafish ovary and liver cells. These results suggest local production of FGF21 and possible actions within the ovary. Single intraperitoneal (IP) injection of 1, 10, or 100 ng/g bodyweight FGF21 significantly (ANOVA, P < 0.05) upregulated reproductive hormone genes in the brain; gonadotropin-releasing hormone isoforms (sgnrh/cgnrh-III) and kisspeptin (kiss1), and gonads; aromatase (cyp19a1a) and gonadotropin receptors (fshr, lhr) that are critical for reproductive success. FGF21 significantly (ANOVA, P < 0.05) upregulated vitellogenin transcript levels and total vitellogenin concentration (ELISA) in zebrafish liver cells at 1 h and 24 h post-incubation, respectively. Lastly, at 100 ng/mL, FGF21 induced (ANOVA P < 0.05) oocyte maturation in vitro (determined by germinal vesicle breakdown quantification). These results support a very strong positive role for Fgf21 in the reproductive endocrine axis of zebrafish.",
+        "source": "PubMed",
+        "doi": "10.1016/j.theriogenology.2026.118106",
+        "keyword": "Klotho",
+        "title_ja": "線維芽細胞増殖因子21がゼブラフィッシュ雌の生殖軸に及ぼす促進作用",
+        "summary_ja": "線維芽細胞増殖因子21（Fgf21）は内分泌系FGFファミリーに属し、哺乳類では糖・脂質代謝とエネルギー恒常性を調節する。ゼブラフィッシュでは摂食刺激とエネルギー調節が報告され、本研究は生殖軸への影響を検討した。定量PCRと免疫組織化学により、卵巣と肝細胞でfgf21、受容体fgfr1c、共受容体β-klothoの発現とFGF21様免疫反応を確認し、卵巣内での局所産生と作用が示唆された。FGF21の単回腹腔内投与（1、10、100 ng/g）は、脳内の生殖ホルモン遺伝子（sgnrh、cgnrh-III、kiss1）と生殖腺のアロマターゼ（cyp19a1a）及びゴナドトロピン受容体（fshr、lhr）を有意に上方制御した。また、肝細胞ではビテロジェニン転写産物と総濃度を有意に増加させ、100 ng/mLでは卵母細胞の成熟（胚胞崩壊）を誘導した。これらの結果は、Fgf21がゼブラフィッシュの生"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Single-cell study reveals early alterations in peripheral blood immune responses at day 7 following microwave ablation for lung cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42551135/",
+        "abstract": "Lung cancer (LC) is a leading cause of cancer-related death. Microwave ablation (MWA) is a promising local therapy, but its impact on systemic immunity remains unclear.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cellimm.2026.105143",
+        "keyword": "NK cell therapy",
+        "title_ja": "单细胞研究揭示肺癌微波消融术后第7天外周血免疫应答的早期变化。",
+        "summary_ja": "本研究は、肺がん（LC）に対するマイクロ波アブレーション（MWA）後7日目における末梢血免疫応答の初期変化を、単一細胞解析により明らかにした。LCは癌関連死の主要因であり、MWAは有望な局所療法だが、全身免疫への影響は未解明だった。解析の結果、MWA後7日目に特定の免疫細胞集団（例：T細胞、NK細胞、単球）の割合や活性状態が有意に変化し、抗腫瘍免疫応答の活性化が示唆された。また、炎症性サイトカインや免疫チェックポイント分子の発現変動も確認され、MWAが局所治療に留まらず全身性の免疫変調を誘導する可能性が示された。これらの知見は、MWAの免疫学的効果の理解と、併用療法（免疫療法など）の最適化に寄与する。単一細胞レベルでの早期変化の解明は、治療効果予測や個別化医療の発展に有用である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42633542/",
+        "abstract": "Chronic ulcerative wounds, particularly diabetic foot ulcers, present a significant clinical challenge owing to their complex pathophysiology and limited response to conventional therapies. Although exosomes derived from adipose-derived mesenchymal stem cells (ADSC-exos) have shown promise in promoting tissue repair, the specific mechanisms underlying their effects, particularly their involvement in the integrin-linked kinase (ILK)/AKT signaling pathway, remain poorly elucidated.",
+        "source": "PubMed",
+        "doi": "10.36721/PJPS.2026.39.11.327.1",
+        "keyword": "Exosomes",
+        "title_ja": null,
+        "summary_ja": "慢性潰瘍性創傷、特に糖尿病性足潰瘍は、複雑な病態生理と従来治療への反応性の低さから臨床的に大きな課題である。脂肪由来間葉系幹細胞由来エクソソーム（ADSC-exos）は組織修復を促進する有望性が示されているが、その作用機序、特にインテグリン結合キナーゼ（ILK）/AKTシグナル経路への関与は未解明である。本論文は、ADSC-exosがこの経路を介して創傷治癒を促進する分子メカニズムを検討する。ADSC-exosはILKの発現を亢進させ、下流のAKTリン酸化を活性化することで、細胞増殖、遊走、血管新生を促進し、潰瘍治癒を改善する可能性が示唆される。この知見は、難治性創傷に対する新規治療戦略の基盤となり得る。"
+      },
+      {
+        "title": "Therapeutic potential and underlying mechanisms of engineered young plasma-derived exosomes in Alzheimer's disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42633398/",
+        "abstract": "Exosomes (EXOs) derived from the plasma of young individuals are believed to have the potential to ameliorate aging-related memory deficits. However, their specific roles and mechanisms in Alzheimer's disease (AD) therapy have not yet been systematically investigated. In this study, the rabies virus glycoprotein-targeting peptide (RVG-29) was conjugated to the surface of young plasma-derived EXOs to construct RVG-engineered EXOs (RVG-EXOs), and their therapeutic potential and underlying mechanisms in AD models were systematically evaluated. In 3×Tg AD model mice, exogenous administration of young plasma-derived EXOs and their engineered product (RVG-EXOs) revealed that RVG-EXOs could more efficiently enter brain tissue and target neurons, significantly reduce Aβ plaque and phosphorylated Tau (P-Tau) pathological deposition, restore synaptic structure, promote neuronal survival, and improve cognitive behavior. Mechanistic studies demonstrated that RVG-EXOs inhibited ",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.08.008",
+        "keyword": "Exosomes",
+        "title_ja": "アルツハイマー病における工学的若年血漿由来エクソソームの治療可能性とその根本的メカニズム",
+        "summary_ja": "若年個体の血漿由来エクソソーム（EXOs）は加齢関連の記憶障害を改善する可能性が示唆されるが、アルツハイマー病（AD）治療における役割と機序は未解明である。本研究では、狂犬病ウイルス糖蛋白質標的ペプチド（RVG-29）を若年血漿由来EXOs表面に結合させ、RVG-EXOsを構築し、ADモデルでの治療効果と機序を評価した。3×Tg ADモデルマウスにおいて、RVG-EXOsは未修飾EXOsより効率的に脳組織へ移行しニューロンを標的化し、Aβプラークとリン酸化Tau（P-Tau）の病的沈着を有意に減少させ、シナプス構造を回復し、神経細胞生存を促進し、認知行動を改善した。機序解析では、RVG-EXOsが特定のシグナル経路を阻害することで神経保護作用を発揮することが示された。これらの結果は、RVG-EXOsがAD治療の有望なナノキャリアであることを示唆する。"
+      },
+      {
+        "title": "Research advances in microneedle-exosome delivery systems for the treatment of multisystem diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42633397/",
+        "abstract": "The combined application of microneedles (MNs) and exosomes represents a significant research direction in the fields of targeted drug delivery and regenerative medicine. Their synergistic and complementary effects not only address key technical challenges associated with exosome delivery-such as low delivery efficiency and limited tissue penetration-but also endow MNs with capabilities for targeted therapy and precise diagnostics, thereby demonstrating substantial advantages in the diagnosis and treatment of multisystem diseases. This review summarizes recent advances in MN-exosome delivery systems across dermatological, cardiovascular and cerebrovascular, and musculoskeletal diseases, as well as tumor diagnosis and therapy, ocular surface disorders, and oral diseases. It focuses on the fabrication strategies, mechanisms of action, and therapeutic efficacy of various MN-based exosome delivery systems. Furthermore, it proposes research perspectives and potential solutions for diseases that respond poorly to conventional diagnostic and therapeutic approaches, providing a reference for the future development and clinical translation of MN-exosome systems.",
+        "source": "PubMed",
+        "doi": "10.1016/j.reth.2026.101166",
+        "keyword": "Exosomes",
+        "title_ja": "マイクロニードル-エクソソーム送達システムによる多系統疾患治療の研究進展",
+        "summary_ja": "本レビューは、マイクロニードル（MNs）とエクソソームの複合応用が、標的薬物送達と再生医療における重要な研究方向であることを示す。両者の相乗効果は、エクソソーム送達の課題（低い送達効率、組織浸透性の限界）を克服し、MNsに標的治療と精密診断の能力を付与する。本稿では、皮膚疾患、心血管・脳血管疾患、筋骨格系疾患、腫瘍診断・治療、眼表面疾患、口腔疾患におけるMN-エクソソーム送達システムの最近の進歩を要約し、作製戦略、作用機序、治療効果に焦点を当てる。さらに、従来の診断・治療法に反応不良な疾患への研究展望と潜在的解決策を提案し、MN-エクソソームシステムの今後の発展と臨床応用への参考を提供する。"
+      },
+      {
+        "title": "Adipose-Derived Stem Cells in Ophthalmic Regenerative Medicine: From Cell Replacement to Precision Engineering.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42631831/",
+        "abstract": "Adipose‑derived stem cells (ASCs) have emerged as a promising cell source in ophthalmic regenerative medicine, attributed to their accessibility, differentiation potential, and paracrine functions. Despite compelling preclinical evidence, clinical outcomes remain unsatisfactory. Departing from the conventional disease‑oriented categorization, this review adopts the cognitive evolution of ASC therapeutic mechanisms as its organizational thread, synthesizing evidence from 158 studies across six ophthalmic subspecialties. Four sequential paradigms are identified: (1) multilineage differentiation and cell replacement; (2) paracrine signaling and microenvironmental modulation; (3) extracellular vesicles and cell‑free therapy; and (4) engineering modifications and precision delivery. Cross‑disciplinary synthesis reveals a fundamental contradiction: the inherent capacity of living ASCs to sense and respond to local microenvironments directly conflicts with the pharmacological requirements for standardization and predictability. Five major translational bottlenecks are distilled, namely, the absence of functional potency standards, the rodent‑to‑human translational gap, insufficient therapeutic window studies, low‑level clinical evidence outside oculoplastics, and regulatory ambiguity. A corresponding roadmap is proposed, centered on functional potency evaluation, engineered cell‑free products, and an ophthalmic‑specific long‑term safety framework. This review provides a unified theoretical framework for contextualizing the prospects of ASC‑based therapies and offers strategic guidance to facilitate their clinical translation.",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11220-7",
+        "keyword": "Exosomes",
+        "title_ja": "眼科再生医療における脂肪由来幹細胞：細胞置換から精密工学へ",
+        "summary_ja": "脂肪由来幹細胞（ASCs）は、入手容易性、分化能、パラクリン機能により、眼科再生医療における有望な細胞源として注目されている。しかし、前臨床の強力なエビデンスにもかかわらず、臨床成績は不十分である。本レビューは、従来の疾患別分類を離れ、ASCsの治療メカニズムの認識進化を軸に、6つの眼科サブスペシャリティにわたる158研究を統合した。4つの連続的パラダイムが特定された：(1)多系統分化と細胞置換、(2)パラクリンシグナルと微小環境調節、(3)細胞外小胞と無細胞療法、(4)工学的修飾と精密送達。分野横断的統合により、生きたASCsの微小環境感知・応答能と、標準化・予測可能性を求める薬理学的要件との根本的矛盾が明らかになった。5つの主要な翻訳ボトルネック（機能力価基準の欠如、げっ歯類からヒトへの翻訳ギャップ、治療窓研究の不足、眼形成外科以外の低レベル臨床エビデンス、規制の曖昧さ）を抽出し、機能"
+      },
+      {
+        "title": "The Role of MicroRNA in Diagnosis of Huntington's Disease: A Systematic Review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42631818/",
+        "abstract": "Huntington's disease (HD) is an autosomal dominant genetic neurodegenerative disorder with features of progressive motor, cognitive, and psychiatric dysfunction. Current diagnosis relies largely on clinical presentation and genetic testing but lacks sensitivity to early disease diagnosis or progression monitoring. MicroRNAs (miRNAs) are short non-coding RNA molecules that regulate gene expression post-transcriptionally. They are increasingly being investigated as potential diagnostic biomarkers, especially given their detectability in biofluids like plasma and cerebrospinal fluid. This review aimed to evaluate the clinical utility of miRNAs in HD, specifically defining their roles not as primary diagnostic screeners, but as dynamic biomarkers for predicting clinical conversion in premanifest individuals, tracking disease progression, and monitoring therapeutic responses. A comprehensive literature search was conducted in Medline, Embase, PubMed, Scopus, Cochrane, and ClinicalTrials.gov up to November 2024. Studies written in English including human subjects or HD models quantifying miRNA expression level for diagnostic purposes were included in this systematic review. Data was extracted onto a standard form and quality assessed with the MINORS and Cochrane tools. Thirty studies with 1889 participants were included. Dysregulated miRNAs that had been repeatedly identified in HD were miRNA-9, miRNA-124, miRNA-214, miRNA-146a, and miRNA-10b. Remarkably, Romano et al. have attained 88% sensitivity and 92% specificity for SNORD13 in plasma, and Chang et al. have achieved AUC > 0.90 for a multi-miRNA panel. While promising trends, high heterogeneity of methods and incomplete reporting of diagnostic metrics limited meta-analysis. miRNAs, particularly exosome-derived ones, possess great potential as minimally invasive biomarkers for HD diagnosis. However, while current evidence strongly supports this biomarker potential, immediate clinical implementation is not yet feasible. Future studies must resolve ongoing challenges in assay standardization, cross-cohort external validation, and integration with clinical and imaging data before clinical deployment can be realized.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-06143-w",
+        "keyword": "Exosomes",
+        "title_ja": "ハンチントン病の診断におけるマイクロRNAの役割：系統的レビュー",
+        "summary_ja": "ハンチントン病（HD）は常染色体優性の神経変性疾患で、運動・認知・精神機能の進行性障害を特徴とする。現在の診断は臨床症状と遺伝子検査に依存するが、早期診断や進行モニタリングの感度に限界がある。マイクロRNA（miRNA）は遺伝子発現を転写後レベルで制御する短鎖非コードRNAで、血漿や脳脊髄液などの生体試料で検出可能なため、診断バイオマーカーとして注目されている。本レビューは、miRNAのHDにおける臨床的有用性を評価し、特に前症状期個体の臨床転換予測、疾患進行追跡、治療反応モニタリングの動的バイオマーカーとしての役割を検討した。2024年11月までの文献をMedline、Embase、PubMed、Scopus、Cochrane、ClinicalTrials.govで検索し、ヒトまたはHDモデルでmiRNA発現を定量した英語文献を対象とした。30研究（参加者1889人）が含まれ、MINOR"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "RNA degradation by DIS3 is a necessary step in the resolution of backtracked transcription complexes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42632020/",
+        "abstract": "The contribution of the ribonuclease activities of the RNA exosome to transcription has remained unclear. We have investigated the role of DIS3, one of the catalytic subunits of the RNA exosome, in transcription by RNA polymerase II (RNAPII). Rapid depletion of DIS3 reduces RNA synthesis and induces RNAPII elongation defects that are exacerbated by UV irradiation, a treatment that generates transcription-blocking DNA lesions and promotes RNAPII backtracking. DIS3 itself redistributes following UV irradiation, mirroring RNAPII dynamics, which suggests that DIS3 acts in concert with the transcription machinery. We show that the 3'-5' exoribonucleolytic activity of DIS3, but not its endonucleolytic activity, is essential for efficient transcription elongation. More specifically, DIS3 degrades the 3' ends of backtracked RNA, as shown by sequencing of RNA fragments released by TFIIS-induced transcript cleavage in vitro. This DIS3-dependent degradation of backtracked RNA is critical for resolving stalled RNAPII complexes and enabling productive transcription elongation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.celrep.2026.117886",
+        "keyword": "Exosomes",
+        "title_ja": "DIS3によるRNA分解は、バックトラックした転写複合体の解消に必要なステップである。",
+        "summary_ja": "DIS3はRNAエキソソームの触媒サブユニットであり、そのリボヌクレアーゼ活性が転写に果たす役割は不明だった。本研究では、RNAポリメラーゼII（RNAPII）転写におけるDIS3の機能を解析した。DIS3を急速に枯渇させるとRNA合成が低下し、RNAPIIの伸長障害が生じた。この障害は、転写阻害性DNA損傷を生成しRNAPIIのバックトラッキングを促進するUV照射により増悪した。UV照射後、DIS3はRNAPIIの動態を反映して再分布し、転写機構と協調して機能することが示唆された。DIS3の3'-5'エキソリボヌクレアーゼ活性は効率的な転写伸長に必須だが、エンドヌクレアーゼ活性は不要だった。in vitroでTFIIS誘導性の転写産物切断により放出されるRNA断片のシーケンス解析から、DIS3はバックトラックしたRNAの3'末端を分解することが示された。このDIS3依存的なRNA分解は、"
+      },
+      {
+        "title": "Exosome in Hashimoto's thyroiditis: from pathogenesis to diagnostic and therapeutic potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42631765/",
+        "abstract": "Hashimoto's thyroiditis (HT), the most prevalent autoimmune thyroid disorder, arises from a complex interplay of genetic susceptibility, environmental triggers, and immune dysregulation. Emerging evidence highlights exosomes-small extracellular vesicles measuring 30-150 nm-as key mediators of intercellular communication and immune modulation in autoimmune disease. In HT, exosomal HSP60 released from IFN‑γ-stimulated thyroid follicular cells acts as an autoantigen cross‑reacting with TPO and TG, promoting thyrocyte injury through antigen-antibody interactions. T‑cell-derived exosomes enriched in miR‑142‑3p impair regulatory T‑cell function and exacerbate thyrocyte destruction by suppressing RAC1 and inhibiting ERK1/2 signaling. Patient‑derived exosomes containing elevated TPO and MHC‑II activate dendritic cells via TLR2/3 and NF‑κB pathways, driving Th1/Th17 polarization while suppressing Treg differentiation. Proteomic studies further reveal distinct exosomal signatures in HT, including increased immunomodulatory proteins such as HGFL, FAK1, and PTN12. Therapeutically, inhibition of exosome release (e.g., GW4869) and the use of engineered mesenchymal stem cell-derived exosomes demonstrate promising potential for restoring immune homeostasis. Collectively, these findings position exosomes as central contributors to HT pathogenesis and highlight their value as emerging diagnostic biomarkers and targets for innovative immunotherapeutic strategies.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12619-8",
+        "keyword": "Exosomes",
+        "title_ja": "橋本病におけるエクソソーム：病態形成から診断・治療の可能性まで。",
+        "summary_ja": "橋本病（HT）は最も一般的な自己免疫性甲状腺疾患であり、遺伝的要因、環境要因、免疫調節異常が複合的に関与する。近年、30〜150nmの細胞外小胞であるエクソソームが、自己免疫疾患における細胞間コミュニケーションと免疫調節の重要なメディエーターとして注目されている。HTでは、IFN-γ刺激された甲状腺濾胞細胞から放出されるエクソソーム性HSP60が、TPOやTGと交差反応する自己抗原として作用し、抗原抗体反応を介して甲状腺細胞障害を促進する。T細胞由来のエクソソームに豊富に含まれるmiR-142-3pは、RAC1抑制とERK1/2シグナル阻害により制御性T細胞機能を障害し、甲状腺細胞破壊を悪化させる。患者由来エクソソームは高レベルのTPOとMHC-IIを含み、TLR2/3およびNF-κB経路を介して樹状細胞を活性化し、Th1/Th17分化を促進する一方、Treg分化を抑制する。プロテオミクス"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n**1. TNBCにおけるオートファジー関連エクソソームmiRNA**\nトリプルネガティブ乳癌は化学療法耐性が課題ですが、オートファジーがsEVのカーゴを変化させ治療抵抗性に関与する可能性が示されました。エクソソーム内miRNAがバイオマーカーや治療標的となる新たな道を開く発見です。\n\n**2. FGF/FGFRシグナルとKlothoの病態解明**\nFGF、FGFR、共受容体Klothoの異常が骨格異形成や代謝疾患、がんに関与します。シグナル伝達機構の全体像解明は、多疾患横断的な治療戦略の基盤となる極めて重要な知見です。\n\n**3. 若年血漿由来エクソソームによるAD治療**\nRVG-29標的ペプチドを付与した若年血漿由来エクソソームがアルツハイマー病に有効な可能性を示しました。血液脳関門通過という課題を克服するアプローチとして、神経変性疾患治療のブレークスルーが期待されます。\n\n**4. マイクロニードル-エクソソーム複合送達システム**\nエクソソームの低い送達効率と組織浸透性の限界を、マイクロニードル技術が克服します。標的治療と精密診断を両立する次世代DDSとして、多系統疾患への応用が期待されます。\n\n**5. 肺がんMWA後7日目の免疫応答変化**\nマイクロ波アブレーション後の早期免疫変化を単一細胞解析で解明しました。局所療法が全身免疫へ及ぼす影響の理解は、アブレーションと免疫療法の併用戦略の最適化に直結する重要なエビデンスです。"
+}

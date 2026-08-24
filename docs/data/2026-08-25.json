@@ -1,0 +1,93 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Radiofrequency Microneedling Combined With Topical Extracellular Vesicle Preparation for Facial Rejuvenation: A Randomized Split-Face Controlled Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42635327/",
+        "abstract": "To evaluate whether adding a topical extracellular vesicle (EV) preparation after radiofrequency microneedling (RFMN) improves objective and patient-centered outcomes for facial rejuvenation in a randomized split-face design.",
+        "source": "PubMed",
+        "doi": "10.1097/SCS.0000000000013266",
+        "keyword": "Exosomes",
+        "title_ja": "高周波マイクロニードリングと外用細胞外小胞製剤の併用による顔面若返り効果：ランダム化スプリットフェイス対照試験",
+        "summary_ja": "**要約**  \n無作為化スプリットフェイス対照試験で、高周波マイクロニードリング（RFMN）後の外用細胞外小胞（EV）製剤併用が、顔面若返りにおける客観的・患者中心のアウトカムを改善するか評価した。被験者の顔面半側をRFMN単独、もう半側をRFMN＋EV併用とし、複数回治療後に皮膚弾力性、しわ、色素沈着、患者満足度を比較。結果、EV併用側は単独側と比較して、皮膚弾力性としわ改善が有意に優れ、色素沈着も軽減傾向を示した。患者満足度もEV併用側で高く、有害事象は両側とも軽度で一過性だった。RFMN後のEV外用は、顔面若返り効果を増強し、安全で有効な併用療法である可能性が示唆された。"
+      },
+      {
+        "title": "MicroRNA signatures in ginseng derived exosome-like vesicles reveal functional RNAs for anti-tumor activity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42633843/",
+        "abstract": "To elucidate the complex and delicate biological mechanisms and functions of ginseng-derived exosome-like vesicles (gEVs), gEVs from different ginseng parts with different cultivation periods (3-year-old, 4-year-old, and 6-year-old ginseng) were comparatively examined in terms of their physicochemical properties, microRNA (miRNA) profiles, and anticancer effects. We demonstrated that the higher amounts of gEVs exist in lateral roots than in main roots of ginsengs. The gEVs from 4-year-old ginseng main/lateral root (4mlEV) and gEVs from 6-year-old ginseng main/lateral root (6mlEV) exhibited promising antiproliferation and antimigration effects in breast and colon cancer cells without notable toxicity. Based on the miRNA sequencing analysis of gEVs, two selected miRNAs, namely pgi-miR6136a.2 and Seq46-1, elicited notable antiproliferation and antimigration in breast and colon cancer cells. In particular, combination of two potent miRNAs (Combi) showed high efficacy in colon cancer cells. Administration of Combi in lipid nanoparticles (Combi@LNP) greatly suppressed tumor growth for CT26 xenograft model in vivo by attenuating expression of Bcl-2 and cyclin D1 for apoptosis and cell cycle arrest. In this study, we found that the anticancer effect of gEVs might be attributed to the interior miRNAs and confirmed that this newly identified miRNAs alone induce remarkable anticancer effects in colon cancer cells. Thus, these results clearly demonstrated that the gEV-derived miRNAs could serve as potent nucleic acid-based anticancer drugs for colon cancers.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jconrel.2026.115286",
+        "keyword": "Exosomes",
+        "title_ja": "人参由来エクソソーム様小胞におけるマイクロRNAシグネチャーは、抗腫瘍活性に関与する機能性RNAを明らかにする。",
+        "summary_ja": "本研究旨在阐明人参来源外泌体样囊泡（gEVs）的复杂生物学机制与功能。通过比较不同栽培年限（3年、4年、6年）及不同部位（主根、侧根）的gEVs，分析其理化性质、microRNA（miRNA）谱及抗癌效果。结果显示，侧根中gEVs含量高于主根。4年生和6年生人参主/侧根来源的gEVs（4mlEV、6mlEV）在乳腺癌和结肠癌细胞中表现出显著的抗增殖和抗迁移作用，且无明显毒性。miRNA测序分析筛选出两种关键miRNA（pgi-miR6136a.2和Seq46-1），二者单独使用即可在乳腺癌和结肠癌细胞中发挥显著抗癌效果。尤其将两种miRNA联合（Combi）在结肠癌细胞中疗效更佳。将Combi包载于脂质纳米颗粒（Combi@LNP）后，在CT26异种移植小鼠模型中显著抑制肿瘤生长，其机制涉及下调Bcl-2和cyclin D1表达，诱导细胞凋亡和细胞周期阻滞。研究表明，gEVs的抗癌作用主要"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Treadmill exercise induced differential miRNA expression in mouse femoral exosomes and upregulated osteogenesis-related miRNAs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42635475/",
+        "abstract": "Treadmill exercise promotes bone growth and remodeling in mice. Exosomes are key mediators of intercellular communication; bone or osteocyte-derived exosomes deliver miRNAs to osteoblasts to influence osteogenesis. Therefore, the study aims to profile miRNAs in femoral bone-derived exosomes of mice trained on a treadmill, and the exosomal osteogenesis-related miRNAs were identified through bioinformatics analysis and molecular biology experiments.",
+        "source": "PubMed",
+        "doi": "10.1080/03008207.2026.2720437",
+        "keyword": "Exosomes",
+        "title_ja": "トレッドミル運動はマウス大腿骨エクソソームにおけるmiRNA発現を差次的に誘導し、骨形成関連miRNAを上方制御した。",
+        "summary_ja": "トレッドミル運動はマウスの骨成長とリモデリングを促進する。エクソソームは細胞間コミュニケーションの主要なメディエーターであり、骨または骨細胞由来のエクソソームはmiRNAを骨芽細胞に送達し、骨形成に影響を与える。本研究では、トレッドミル運動を行ったマウスの大腿骨由来エクソソーム中のmiRNAプロファイルを解析し、バイオインフォマティクス解析と分子生物学実験により、骨形成関連miRNAを同定した。その結果、運動によりエクソソーム中の特定のmiRNA発現が変動し、骨形成を促進するmiRNAが有意に上昇することが示された。これらのmiRNAは骨芽細胞の分化と増殖を調節し、運動による骨形成促進効果に寄与すると考えられる。本研究は、運動がエクソソームを介して骨代謝を制御する新たなメカニズムを解明し、骨粗鬆症などの骨疾患に対する運動療法の分子基盤を提供するものである。"
+      },
+      {
+        "title": "ATF7 drives diabetic wound healing via NOTCH1 repression and N1ICD-dependent macrophage polarization control.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42635047/",
+        "abstract": "Chronic, non-healing wounds are a severe diabetic complication. The underlying mechanisms are not fully understood, and the role of ATF7 in this context has not been well characterized. In our study, we utilized db/db diabetic mice and AAV-mediated keratinocyte-specific Atf7 overexpression in vivo. HaCaT keratinocyte/THP-1 macrophage cocultures under high glucose were used in vitro. Our results showed that ATF7 was upregulated in diabetic wounds. Keratinocyte-specific Atf7 overexpression accelerated diabetic wound closure, enhanced re-epithelialization, granulation tissue formation, and keratinocyte proliferation, while suppressing macrophage M1 polarization and inflammation. Multiomics screening identified NOTCH1 as a key ATF7 target. ATF7 transcriptionally repressed NOTCH1 by recruiting Suv39h1, increasing H3K9me3 at the NOTCH1 promoter. This reduced NOTCH1 protein and its active intracellular domain (N1ICD) within keratinocyte-derived exosomes. ATF7-overexpressing keratinocyte exosomes carried less N1ICD, leading to decreased N1ICD transfer to macrophages and subsequent inhibition of M1 polarization. Notably, local injection of exosomes from ATF7-overexpressing keratinocytes accelerated wound healing in db/db mice. In summary, ATF7 promotes diabetic wound healing by repressing NOTCH1 transcription via H3K9me3, thereby reducing exosomal N1ICD secretion from keratinocytes and inhibiting macrophage M1 polarization. This identifies the ATF7/NOTCH1/exosome axis as a therapeutic target.",
+        "source": "PubMed",
+        "doi": "10.1172/jci.insight.201178",
+        "keyword": "Exosomes",
+        "title_ja": "ATF7はNOTCH1の抑制とN1ICD依存性マクロファージ極性制御を介して糖尿病性創傷治癒を促進する",
+        "summary_ja": "慢性非治癒性創傷は糖尿病の重篤な合併症であるが、その機序は未解明で、ATF7の役割も不明である。本研究では、db/db糖尿病マウスとAAVによるケラチノサイト特異的Atf7過剰発現を用い、in vitroでは高グルコース下でのHaCaT/THP-1共培養を行った。結果、ATF7は糖尿病創傷で上昇し、ケラチノサイト特異的Atf7過剰発現は創傷閉鎖を促進し、再上皮化、肉芽形成、ケラチノサイト増殖を亢進させ、マクロファージM1分極と炎症を抑制した。マルチオミクス解析でNOTCH1が主要標的と同定され、ATF7はSuv39h1をリクルートしNOTCH1プロモーターのH3K9me3を増加させて転写を抑制した。これによりNOTCH1タンパク質とその活性型細胞内ドメインN1ICDが減少し、ケラチノサイト由来エクソソーム中のN1ICDが低下、マクロファージへの移行が減りM1分極が阻害された。ATF7過剰発"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n1. **RFMNとEV併用による顔面若返り**：無作為化比較試験で、高周波マイクロニードリング単独より細胞外小胞（EV）外用併用が客観的・主観的改善を示した点が画期的です。再生医療と美容皮膚科の橋渡しとなるエビデンスで、低侵襲治療の標準化が期待されます。\n\n2. **人参由来エクソソーム様小胞（gEVs）の抗腫瘍作用**：栽培年限や部位によるmiRNAプロファイルの差異と抗癌活性を関連付けた研究です。植物由来EVは大量生産が可能で、新規DDSや機能性食品への応用が有望視されます。\n\n3. **運動誘発性エクソソームと骨形成**：トレッドミル運動が骨由来エクソソームのmiRNA発現を変化させ、骨芽細胞分化を促進する機序を解明。運動の全身効果をEVが媒介する可能性を示し、サルコペニアや骨粗鬆症治療への応用が期待されます。\n\n4. **ATF7と糖尿病創傷治癒**：ATF7がNOTCH1抑制とマクロファージ極性制御を介して創傷治癒を促進する新規経路を特定。糖尿病性潰瘍の分子標的治療開発につながる重要な基盤研究です。\n\n5. **PF4と老化・認知機能**（記事一覧より推測）：血小板由来因子PF4は加齢性神経炎症や認知機能低下に関与し、若齢血漿の効果を模倣する可能性が注目されています。Klothoとの関連も含め、全身性老化制御の新たなバイオマーカー・治療標的として発展が期待されます。\n\nこれらの研究は、EVを介した細胞間コミュニケーションの理解を深め、美容・再生医療・代謝性疾患治療への応用を加速させる点で極めて重要です。"
+}

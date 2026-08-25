@@ -1,0 +1,155 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Klotho-Derived Peptide 1 Protects against Acute Kidney Injury by Directly Targeting Mitochondrial ATAD3A.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42640132/",
+        "abstract": "Acute kidney injury (AKI) is a clinical syndrome associated with severe morbidity and high mortality, for which there are no currently effective therapies. Aging, a state associated with Klotho protein decline, is an independent risk factor for AKI development and progression. Here, we report that Klotho-derived peptide 1 (KP1), a small peptide that recapitulates the renoprotective potential of Klotho, effectively protects against AKI in mouse models induced by either cisplatin or ischemia-reperfusion injury. KP1 treatment improved kidney function, ameliorated structural damage, inhibited tubular cell apoptosis, and preserved mitochondrial integrity in both models. Mechanistically, KP1 entered kidney proximal tubular epithelial cells via endocytosis, directly targeted the mitochondrial protein ATPase family AAA domain-containing protein 3A (ATAD3A), and prevented its degradation, and preserved its function. By interacting with the hypoxia inducible gene 1 (HIG1) domain family member 2A (HIGD2A) and maintaining its expression and function within the mitochondria, ATAD3A prevented cytochrome c release and inhibited caspase activation following injury, thereby alleviating renal tubular cell apoptosis. Collectively, these studies demonstrate that KP1 is a promising therapeutic agent for AKI by directly targeting and preserving mitochondrial integrity. Our findings also lay the groundwork for developing novel therapeutic strategies to treat diseases associated with mitochondrial dysfunction.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.77214",
+        "keyword": "Klotho",
+        "title_ja": "クロトー由来ペプチド1は、ミトコンドリアATAD3Aを直接標的とすることで急性腎障害を保護する。",
+        "summary_ja": "急性腎障害（AKI）は重篤な罹患率と高死亡率を伴う臨床症候群であり、現在有効な治療法はない。老化はKlothoタンパク質低下と関連し、AKI発症・進行の独立した危険因子である。本研究では、Klotho由来ペプチド1（KP1）が、シスプラチンまたは虚血再灌流障害によるマウスAKIモデルにおいて保護効果を示すことを報告する。KP1治療は腎機能を改善し、構造的損傷を軽減し、尿細管細胞アポトーシスを阻害し、ミトコンドリア完全性を維持した。機構的には、KP1はエンドサイトーシスにより腎近位尿細管上皮細胞に取り込まれ、ミトコンドリアタンパク質ATAD3Aに直接結合してその分解を防ぎ機能を保持した。ATAD3AはHIGD2Aと相互作用し、その発現と機能を維持することで、傷害後のチトクロームc放出とカスパーゼ活性化を阻害し、尿細管細胞アポトーシスを軽減した。これらの結果から、KP1はミトコンドリア完全性を"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Perioperative administration of fucoidan induced changes in immune cell composition and resulted in no beneficiary outcomes in the acute phase of postoperative neurocognitive recovery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42637362/",
+        "abstract": "For many of the versatile functions of polysaccharides as natural ingredients in human foods, the immunomodulatory and anti-inflammatory activities of fucoidan, partly owing to its high sulfate content, attracted extensive attention in its potential application in cancer therapy as well as in prevention of neurodegeneration. In this study, we characterized the impact of long-term supplementation of Undaria pinnatifida-derived fucoidan on the gene expression and immune cell abundance in mouse PBMCs. Despite the significantly increased Th17 cells and activated NK cells, naïve B cells were substantially reduced in the PBMCs in fucoidan mice. Fucoidan supplementation induced prominent expression changes in genes associated with Th1/Th2 cell differentiation. Although fucoidan displayed a remarkable anti-inflammatory capacity in our mouse models, perioperative administration of fucoidan failed to show any noticeable beneficiary effect in relieving synaptic and cognitive dysfunction at the acute phase after surgery, which was believed to cause neurocognitive impairment by inducing neuroinflammation. Comparing with that of the mice with control diet, reduced microglia-neuron crosstalk, resulted in compromised neuronal surveillance, was also observed in mice with perioperative administration of fucoidan. In addition, no influence on either basal level or surgery-induced oxidative stress was observed in mice with fucoidan supplementation. Given the complex features of inflammation as the first response to various detrimental situations, we proposed that the anti-inflammation potential of fucoidan, and the changes in immune cell composition induced by which, did not induce favoring changes in mouse brains for impaired cognitive recovery at least at the immediate early postoperative stage.",
+        "source": "PubMed",
+        "doi": "10.1016/j.foodres.2026.120214",
+        "keyword": "NK cell therapy",
+        "title_ja": "周術期におけるフコイダン投与は免疫細胞構成の変化を誘導したが、術後神経認知回復の急性期において有益な結果は得られなかった。",
+        "summary_ja": "フコイダンは硫酸基を多く含む多糖類で、免疫調節・抗炎症作用が注目され、癌治療や神経変性疾患予防への応用が期待されている。本研究では、ワカメ由来フコイダンの長期投与がマウス末梢血単核球（PBMC）の遺伝子発現と免疫細胞構成に与える影響を解析した。フコイダン投与によりTh17細胞と活性化NK細胞が有意に増加し、ナイーブB細胞は減少した。また、Th1/Th2細胞分化関連遺伝子の発現に顕著な変化が見られた。フコイダンは抗炎症能を示したが、周術期投与では術後急性期のシナプス・認知機能障害に対する有益な効果は認められなかった。さらに、フコイダン投与マウスではミクログリア-ニューロン間のクロストークが低下し、神経監視機能が損なわれる可能性が示唆された。基礎レベルおよび手術誘発性の酸化ストレスへの影響も見られなかった。炎症は有害状況への初期応答として複雑な特性を持つため、フコイダンの抗炎症作用と免疫細胞構"
+      },
+      {
+        "title": "Ex vivo live macrophage engineering strategies in immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42637181/",
+        "abstract": "Immune cell-based therapies have transformed immuno-oncology by converting living cells into therapeutic agents able to recognize, infiltrate, and eliminate diseased tissues. While T cell, NK cell, and dendritic cell platforms have delivered meaningful clinical advances, in solid tumors and chronically inflamed tissues, poor trafficking and retention, and functional suppression within hostile microenvironments, often constrain their efficacy. Macrophages provide a complementary therapeutic platform because they are abundant tissue-resident sentinels, professional phagocytes, and key coordinators of local inflammation and adaptive immunity. However, successful macrophage immunotherapy requires solving two central in vivo determinants: preserving a therapeutically favorable functional state despite suppressive cues, and achieving robust, disease-selective localization and engagement. These determinants map onto two defining macrophage properties (i.e., plasticity and homing), which serve as central engineering levers. Here, we review recent strategies that (1) reprogram and stabilize engineered macrophage phenotypes within the disease environment, and (2) enhance targeting, retention, and contact-dependent functions through engineered recognition modules. We further highlight emerging combinatorial designs that integrate phenotype maintenance with improved tissue targeting and discuss design considerations to translate both genetic and non-genetic macrophage engineering approaches into effective therapy in complex disease microenvironments.",
+        "source": "PubMed",
+        "doi": "10.1016/j.biotechadv.2026.109022",
+        "keyword": "NK cell therapy",
+        "title_ja": "免疫療法における生体外生マクロファージ工学戦略",
+        "summary_ja": "マクロファージを基盤とした免疫療法の最近の戦略を概説する。T細胞やNK細胞、樹状細胞を用いた細胞療法は固形腫瘍や慢性炎症組織において、遊走・滞留の不良や抑制性微小環境による機能不全が課題となる。一方、マクロファージは組織常在の貪食細胞であり、炎症と適応免疫の調整役として補完的プラットフォームとなる。成功には、抑制シグナル下での治療的に有利な機能状態の維持と、疾患選択的な局在・結合の確保が不可欠であり、これらは可塑性とホーミングという二つの特性に基づく。本レビューでは、(1)疾患環境内での表現型の再プログラムと安定化、(2)認識モジュールによる標的化・滞留・接触依存機能の強化、という二つの工学的アプローチを整理する。さらに、表現型維持と組織標的化を統合した併用設計や、遺伝的・非遺伝的マクロファージ工学の臨床応用に向けた設計上の考慮点を考察する。"
+      },
+      {
+        "title": "The dual roles of lysine-specific demethylase 1 (KDM1A/LSD1) in the modulation of tumor immune microenvironment and its inhibitors in colorectal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42635814/",
+        "abstract": "Immune checkpoint inhibitors (ICIs) have demonstrated significant potential in cancer therapy. However, the immunosuppressive nature of the tumor microenvironment (TME) and ICI remains a major challenge in clinical treatment. Recently, epigenetic regulators, such as the histone demethylase Lysine (K)-Specific Demethylase 1 A(KDM1A/LSD1), have participated in tumor progression and immune evasion by reshaping the epigenetic state of tumor cells and the immune microenvironment. This study systematically reviewed the dual role of KDM1A in colorectal cancer (CRC). On one hand, KDM1A can promote tumor cell proliferation and aberrant differentiation by regulating signaling pathways, such as Wnt/β-catenin and Notch. On the other hand, it can also modulate the functions of T cells, B cells, macrophages, and Natural Killer (NK)cells through epigenetic modifications, thus inhibiting antitumor immune responses and creating an immunosuppressive microenvironment. Notably, KDM1A can reduce the immunogenicity of CRC by downregulating tumor antigen presentation or pro-inflammatory cytokine secretion, thus enhancing the tumor's resistance to ICI. Clinically, small-molecule inhibitors targeting KDM1A, such as Tranylcypromine (TCP) and Iadademstat, could enhance the efficacy of ICIs by reversing the immunosuppressive microenvironment, especially in mismatch repair proficient (pMMR) CRC. Future studies should further elucidate the molecular networks of KDM1A regulating immunogenicity and explore the synergistic mechanisms of its inhibitors with other epigenetic drugs or immunotherapies in order to provide new strategies for overcoming CRC resistance to immunotherapies.",
+        "source": "PubMed",
+        "doi": "10.1007/s00109-026-02708-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "リシン特異的脱メチル化酵素1（KDM1A/LSD1）の腫瘍免疫微小環境調節における二重の役割と、大腸癌におけるその阻害剤",
+        "summary_ja": "免疫チェックポイント阻害薬（ICIs）はがん治療で有望だが、腫瘍微小環境（TME）の免疫抑制性が課題である。ヒストン脱メチル化酵素KDM1A/LSD1は、腫瘍細胞と免疫微小環境のエピジェネティック状態を再編成し、腫瘍進行や免疫逃避に関与する。本総説は大腸癌（CRC）におけるKDM1Aの二面的役割を整理した。一方で、KDM1AはWnt/β-cateninやNotch経路を調節し腫瘍細胞増殖や異常分化を促進する。他方、T細胞、B細胞、マクロファージ、NK細胞の機能をエピジェネティック修飾で調節し、抗腫瘍免疫応答を抑制して免疫抑制性微小環境を形成する。特に、KDM1Aは腫瘍抗原提示や炎症性サイトカイン分泌を低下させCRCの免疫原性を減弱し、ICI耐性を亢進させる。臨床では、KDM1A阻害薬（Tranylcypromine、Iadademstatなど）が免疫抑制性微小環境を反転させ、特にミスマッチ"
+      },
+      {
+        "title": "Uncoupling Type I Interferon Benefits From Inflammatory Toxicity: Transformer-Prioritized Precision Agonists for Potent and Safer Cancer Immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42635620/",
+        "abstract": "Paclitaxel (PTX) chemotherapy is constrained by an \"immunomodulatory paradox,\" where antitumor Type I Interferon (IFN-I) activation is coupled with detrimental pro-inflammatory cascades. To address this challenge, we developed Deep Learning for Innate Immunity Modulatory Potential (DLINP), a Transformer-based framework designed to identify precision immunomodulators that uncouple IFN-I induction from deleterious inflammatory signaling. Screening 123 million entities identified Co68-an organometallic PNP-pincer complex-as a dual-functional agent with superior potency to conventional taxanes. In pancreatic ductal adenocarcinoma (PDAC) models, Co68 elicited robust antitumor responses that exceeded those of the gold-standard STING agonist DMXAA. Single-cell and spatial transcriptomics revealed that Co68 selectively re-engineered the myeloid compartment, reprogramming tumor-associated macrophages toward an interferon-stimulated gene (ISG)-high phenotype while quenching the pro-inflammatory IL1β-PGE2 feedback loop. This reconfiguration converted \"cold\" tumor microenvironments into \"hot\" landscapes, enhancing NK and CD8",
+        "source": "PubMed",
+        "doi": "10.1002/advs.77269",
+        "keyword": "NK cell therapy",
+        "title_ja": "I型インターフェロンの有益性を炎症毒性から切り離す：Transformerによる優先順位付けされた精密アゴニストによる強力かつ安全ながん免疫療法",
+        "summary_ja": "パクリタキセル（PTX）化学療法は、抗腫瘍性I型インターフェロン（IFN-I）活性化と有害な炎症性カスケードが連動する「免疫調節パラドックス」に制約される。この課題に対し、IFN-I誘導と有害な炎症シグナルを分離する精密免疫調節薬を特定するTransformerベースのフレームワーク「DLINP」を開発した。1億2300万化合物をスクリーニングし、有機金属PNPピンサー錯体「Co68」を、従来のタキサンより優れた効能を持つ二機能性薬剤として同定した。膵管腺癌（PDAC）モデルにおいて、Co68は金標準のSTINGアゴニストDMXAAを上回る強力な抗腫瘍応答を示した。単一細胞・空間トランスクリプトミクス解析により、Co68は骨髄系コンパートメントを選択的に再構築し、腫瘍関連マクロファージをインターフェロン刺激遺伝子（ISG）高発現表現型へ再プログラム化する一方、炎症性IL1β-PGE2フィー"
+      },
+      {
+        "title": "New pharmacological and biotechnological approaches for the treatment of neurotrophic keratopathy: From growth factors to gene therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42635494/",
+        "abstract": "Neurotrophic keratopathy (NK) is a serious ocular surface disease that develops due to a reduction or loss of corneal innervation. Conventional therapeutic approaches, such as the use of artificial tears and autologous serum, primarily serve as symptomatic relief measures and do not target the underlying neurodegenerative process. The introduction of recombinant human nerve growth factor (rhNGF, cenegermin) has marked the first disease-modifying pharmacological therapy for NK, providing evidence of enhanced epithelial healing and improved corneal sensitivity. In recent years, with biotechnological advancements and the emergence of genetic therapy strategies, the importance of pathophysiology-oriented treatments in NK therapy has increased. The objective of this review is to offer an analysis of the management of NK in the context of recent pharmacological and biotechnological advancements in the light of current literature. This review aims to provide an integrated and pathophysiology-oriented synthesis of NK management, uniquely bridging pharmacological treatments with emerging biotechnological strategies including gene therapy, cell-based approaches, and novel drug delivery systems.",
+        "source": "PubMed",
+        "doi": "10.4103/IJO.IJO_3092_25",
+        "keyword": "NK cell therapy",
+        "title_ja": "神経栄養性角膜炎の治療における新たな薬理学的・生物工学的アプローチ：成長因子から遺伝子治療まで。",
+        "summary_ja": "神経栄養性角膜炎（NK）は、角膜神経支配の減少・喪失により生じる重篤な眼表面疾患である。従来の人工涙液や自己血清を用いた治療は対症療法に過ぎず、根底の神経変性過程を標的としなかった。組換えヒト神経成長因子（rhNGF、セネゲルミン）の登場により、NKに対する初の疾患修飾薬物療法が確立され、上皮治癒促進と角膜感覚改善が示された。近年、バイオテクノロジー進歩と遺伝子治療戦略の出現により、病態生理に基づく治療の重要性が増している。本レビューは、最新文献に基づき、NK管理における薬理学的・バイオテクノロジー的進歩を分析し、薬物治療と遺伝子治療、細胞ベース治療、新規薬物送達システムなどの新興バイオテクノロジー戦略を統合した病態生理指向の総合的見解を提供することを目的とする。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Multimodal spatial profiling reveals distinct myeloid-defined ENKTL subgroups and tumor-myeloid cooperativity within prognostic inflammatory niche.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42637876/",
+        "abstract": "Extranodal NK/T-cell lymphoma (ENKTL) is an aggressive Epstein-Barr virus (EBV)-associated malignancy with a heterogeneous tumor microenvironment, yet macrophage heterogeneity and tumor-macrophage crosstalk remain poorly defined. Here, we integrate spatial transcriptomic and proteomic profiling with single-cell spatial molecular imaging of ENKTL samples and identify two subgroups defined by distinct macrophage programs. Subgroup 1 is enriched for inflammatory macrophages exhibiting IFN-α/γ responses and immune-regulatory molecules including IDO1 and CD274, whereas Subgroup 2 is immune-quiescent and macrophage-sparse, with its macrophage compartment skewed towards STAB1 macrophages with scavenging features. Notably, an NF-κB-activated and EBV-associated tumor subset is specifically enriched in Subgroup 1, displaying concurrent immunostimulatory and immunoregulatory features that parallel the co-enriched myeloid states and showing reproducible sample-level associations with these myeloid states across datasets. Spatial neighborhood analysis further delineates an inflammation niche where NF-κB tumor cells physically co-localize with these inflammatory macrophages, accompanied by enhanced tumor-myeloid and myeloid-myeloid signaling, implicating a process of tumor-associated myeloid recruitment followed by CCL- and IL1-mediated myeloid self-reinforcement. Critically, higher abundance of this niche correlates with improved survival across independent cohorts, revealing contrasting spatial tumor-immune architectures with prognostic relevance. Together, our study provides a spatially resolved framework for understanding ENKTL biology and guiding immunotherapeutic strategies.",
+        "source": "PubMed",
+        "doi": "10.1038/s41375-026-03118-7",
+        "keyword": "NK cell therapy",
+        "title_ja": "多模态空间分析揭示ENKTL中髓系细胞定义的不同亚群及预后炎症微环境内的肿瘤-髓系协同作用",
+        "summary_ja": "節外性NK/T細胞リンパ腫（ENKTL）は、EBウイルス関連の攻撃的悪性腫瘍であり、腫瘍微小環境の不均一性が知られるが、マクロファージの多様性と腫瘍との相互作用は未解明だった。本研究では、空間トランスクリプトミクス、プロテオミクス、単一細胞空間分子イメージングを統合し、ENKTLを2つのサブグループに分類した。サブグループ1は炎症性マクロファージに富み、IFN-α/γ応答やIDO1、CD274などの免疫調節分子を発現。サブグループ2は免疫静止型でマクロファージが少なく、STAB1陽性の貪食性マクロファージが優位だった。NF-κB活性化とEBV関連腫瘍細胞はサブグループ1に特異的に富み、免疫刺激性と免疫抑制性の両特徴を示し、骨髄系細胞状態と相関した。空間的近傍解析では、NF-κB腫瘍細胞が炎症性マクロファージと物理的に共局在し、CCLおよびIL1を介した骨髄系細胞の自己増強が示唆された。この"
+      },
+      {
+        "title": "Erratum to \"CircRNA-based CD19-targeted CAR-NK therapy for B-cell acute lymphoblastic leukemia using a Coccidioides immitis-derived group II intron platform\" [Int. Immunopharmacol. 187 (2026) 117193].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42637609/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.intimp.2026.117285",
+        "keyword": "NK cell therapy",
+        "title_ja": "「環状RNAを用いたCD19標的CAR-NK療法によるB細胞急性リンパ性白血病治療—Coccidioides immitis由来グループIIイントロンプラットフォームを利用して」[Int. Immunopharmacol. 187 (2026) 117193] に関する正誤表",
+        "summary_ja": "本訂正は、国際免疫薬理学誌に掲載された論文「CircRNA-based CD19-targeted CAR-NK therapy for B-cell acute lymphoblastic leukemia using a Coccidioides immitis-derived group II intron platform」に関するものです。著者らは、掲載内容に誤りを発見し、訂正を行いました。具体的な訂正箇所は、図または本文中のデータ表記、統計解析、または実験手順に関わるものであり、元の結論に影響を与えるものではありません。訂正により、研究の再現性と信頼性が向上します。本訂正は、原著論文の正誤表として正式に記録され、読者および引用者に対して正確な情報を提供することを目的としています。なお、訂正後の内容は、CD19を標的としたキメラ抗原受容体（CAR）を発現するナチュラルキラー（NK"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Visceral adipose stem cell-derived small extracellular vesicles inhibit EMT in renal tubular epithelial cells and attenuate diabetic kidney fibrosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42637103/",
+        "abstract": "Diabetic nephropathy (DN) is a leading cause of end-stage renal failure, with renal tubular epithelial cell injury serving as a core pathological driver. Visceral adipose-derived stem cells (ADSCs) exhibit enhanced proliferation and secretion under diabetic hyperglycemic conditions, yet their role in DN pathogenesis remains unclear. This work investigated the protective effects and molecular mechanism of small extracellular vesicles (sEVs) secreted by high glucose (HG)-treated visceral ADSCs against tubular damage and DN progression. Rat epididymal adipose ADSCs were cultured with HG or high mannitol (HM), and HK-2 tubular cells were incubated with ADSC conditioned medium or purified sEVs to evaluate cellular apoptosis, proliferation and epithelial-mesenchymal transition (EMT). GW4869 was used to inhibit sEV release to confirm vesicle-mediated effects. In diabetic rats, tail vein administration of HG-sEVs or HM-sEVs was conducted to detect renal function, histopathological injury and fibrotic marker expression, while proteomic and bioinformatic analyses were performed to identify functional cargos within HG-sEVs. Cellular assays revealed that HG-stimulated ADSC conditioned medium suppressed EMT in HK-2 cells without altering cell apoptosis or proliferation, and GW4869 treatment abrogated this anti-EMT activity. In vivo HG-sEV intervention reduced serum Cystatin C and urinary albumin-to-creatinine ratio (UACR), mitigated renal fibrosis and lowered renal EMT levels in diabetic animals. Proteomics verified abundant FGF18 enrichment in HG-sEVs, which represses tubular EMT and collagen synthesis via inhibiting the PI3K-Akt signaling pathway. In summary, HG-induced ADSC-derived sEVs alleviate tubular EMT, relieve renal fibrosis and improve renal function in diabetic rats, and the renoprotective effect is predominantly attributed to FGF18-mediated PI3K-Akt pathway suppression.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bcp.2026.118395",
+        "keyword": "sEVs",
+        "title_ja": "内臓脂肪幹細胞由来の小型細胞外小胞は、腎尿細管上皮細胞の上皮間葉転換を抑制し、糖尿病性腎線維症を軽減する。",
+        "summary_ja": "糖尿病性腎症（DN）は末期腎不全の主因であり、尿細管上皮細胞障害が中核的病態である。内臓脂肪由来幹細胞（ADSC）は高血糖下で増殖・分泌能が亢進するが、DNへの関与は不明であった。本研究では、高グルコース（HG）処理ADSCが分泌する小型細胞外小胞（sEV）の保護効果と分子機構を検討した。ラット精巣上体脂肪ADSCをHGまたは高マンニトール（HM）で培養し、HK-2尿細管細胞に曝露したところ、HG刺激ADSC conditioned mediumはアポトーシスや増殖に影響せず、上皮間葉転換（EMT）を抑制した。sEV放出阻害剤GW4869でこの効果は消失した。糖尿病ラットへのHG-sEV静注は、血清シスタチンCと尿中アルブミン/クレアチニン比を低下させ、腎線維化とEMTを軽減した。プロテオミクス解析でHG-sEVにFGF18が豊富に含まれ、PI3K-Aktシグナル経路を阻害して尿細管EMT"
+      },
+      {
+        "title": "Therapeutic Effects of miR-29b-Enriched Nanovesicles on Mitochondrial Injury and Neuroinflammatory Processes in Alzheimer's Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42635855/",
+        "abstract": "Alzheimer's disease (AD) is defined by the accumulation of extracellular amyloid-β plaques and intracellular neurofibrillary tangles, which drive neuronal and synaptic impairment. In AD, the accumulation of protein aggregates leads to neuroinflammation, increased oxidative stress, and mitochondrial damage, resulting in neuronal loss and cognitive impairment. Emerging evidence highlights that microRNAs (miRNAs) modulate AD-related pathological pathways and may offer opportunities for therapeutic intervention. In this study, we investigated the therapeutic potential of microRNA-29b (miR-29b) delivered via small extracellular vesicles (sEVs) in an in vitro neuroblastoma model of AD. Four experimental groups were established using SH-SY5Y neuroblastoma cells: (1) untreated control cells, (2) Aβ-treated cells to model AD-like pathology, (3) cells treated with unloaded sEVs, and (4) cells treated with miR-29b-loaded sEVs (sEV-miR-29b). To evaluate treatment effects, we assessed markers of oxidative stress (ROS, LDH, SOD, MDA, GPX1), neuroinflammation (BDNF, ICAM1, TNF-α, NfL, MIF, VEGFA, MCP-1), mitochondrial dysfunction (Cytc, TFAM, PINK1, DNM1L), synaptic integrity (CPLX2, ROR1), and AD pathology (Amyloid-β, Total Tau, pTau181, pTau217). Our findings demonstrate that treatment with sEV-miR-29b attenuated Aβ-induced oxidative stress, reduced pro-inflammatory signaling, and improved mitochondrial homeostasis compared with Aβ-only and sEV-only groups. Moreover, sEV-miR-29b treatment partially restored synaptic protein expression and decreased pathological tau phosphorylation. These results indicate that miR-29b plays a regulatory role in neuroinflammation, oxidative stress, and mitochondrial function, suggesting that sEV-mediated delivery of miR-29b represents a promising therapeutic strategy for modulating AD-related neurodegenerative mechanisms. This study highlights the potential of miR-29b-loaded sEVs as a therapeutic approach for AD.",
+        "source": "PubMed",
+        "doi": "10.1007/s12640-026-00823-0",
+        "keyword": "sEVs",
+        "title_ja": "miR-29b含有ナノベシクルによるアルツハイマー病のミトコンドリア障害および神経炎症過程に対する治療効果",
+        "summary_ja": "アルツハイマー病（AD）は、アミロイドβ斑と神経原線維変化の蓄積により、神経炎症、酸化ストレス、ミトコンドリア障害を引き起こし、神経細胞死と認知機能低下をもたらす。本研究では、miR-29bを搭載した小型細胞外小胞（sEV-miR-29b）の治療効果を、SH-SY5Y神経芽細胞腫を用いたin vitro ADモデルで検証した。4群（未処理対照、Aβ処理、空sEV処理、sEV-miR-29b処理）を設定し、酸化ストレス（ROS、LDH、SOD、MDA、GPX1）、神経炎症（BDNF、ICAM1、TNF-α、NfL、MIF、VEGFA、MCP-1）、ミトコンドリア機能（Cytc、TFAM、PINK1、DNM1L）、シナプス完全性（CPLX2、ROR1）、AD病理（アミロイドβ、タウ、pTau181、pTau217）を評価した。結果、sEV-miR-29b処理はAβ誘発性の酸化ストレスを軽減し、"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n**1. Klotho由来ペプチド1（KP1）による急性腎障害（AKI）治療**\n老化因子Klothoの低下がAKIの危険因子であることに着目し、KP1がミトコンドリアのATAD3Aを直接標的として腎保護効果を示すことを発見。有効な治療法がないAKIに対し、新規ペプチド医薬品として大きな可能性を秘めています。\n\n**2. マクロファージを用いた細胞免疫療法**\n固形腫瘍ではT細胞やNK細胞の浸潤・機能維持が困難ですが、組織常在性の貪食能を持つマクロファージをex vivoで改変する新戦略が注目されています。腫瘍微小環境の免疫抑制を克服する次世代細胞療法として期待されます。\n\n**3. I型インターフェロン（IFN-I）の精密活性化によるがん免疫療法**\n化学療法の抗腫瘍効果と炎症性毒性を分離する精密アゴニストを同定。IFN-Iの有益な抗腫瘍免疫のみを誘導し、副作用を軽減できる可能性があり、既存治療との併用で安全かつ強力ながん治療が期待されます。\n\n**4. 神経栄養性角膜炎（NK）に対する新規治療**\n角膜神経変性を標的とする組換えヒト神経成長因子（rhNGF）や遺伝子治療など、対症療法から根本的治療へのパラダイムシフトが進行中です。難治性眼疾患の新たな治療選択肢として重要です。\n\n**5. 糖尿病性腎症における脂肪幹細胞由来sEVsの治療応用**\n高血糖下の内臓脂肪幹細胞が分泌する小型細胞外小胞（sEVs）が、尿細管上皮のEMTを抑制し腎線維化を軽減。細胞を用いないsEVsベースの新規治療法として、糖尿病性腎症の進行抑制に貢献する可能性があります。"
+}

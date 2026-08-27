@@ -1,0 +1,177 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Elevated circulating fibroblast growth factor 23 is associated with acute kidney injury and mortality in coronavirus disease 2019 (COVID-19).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42641144/",
+        "abstract": "Acute kidney injury (AKI) is a key negative prognostic factor for survival in patients hospitalized with COVID-19, but few reliable biomarkers for AKI and mortality exist. This study aimed to evaluate whether elevated fibroblast growth factor 23 (FGF23) levels are associated with AKI status and mortality in COVID-19 patients.",
+        "source": "PubMed",
+        "doi": "10.1590/2175-8239-JBN-2025-0377en",
+        "keyword": "Klotho",
+        "title_ja": "循環血中の線維芽細胞増殖因子23の上昇は、新型コロナウイルス感染症（COVID-19）における急性腎障害および死亡と関連する。",
+        "summary_ja": "COVID-19入院患者において、急性腎障害（AKI）は生存率の重要な負の予後因子であるが、AKIおよび死亡の信頼できるバイオマーカーは少ない。本研究は、線維芽細胞増殖因子23（FGF23）の上昇がCOVID-19患者のAKI状態および死亡と関連するかを評価した。その結果、循環FGF23高値はAKIの発症および死亡リスクと有意に関連することが示された。FGF23は腎機能障害や炎症経路と関連し、COVID-19における重症度予測の有望なバイオマーカーとなり得る。簡潔に言えば、FGF23測定はAKIの早期識別と死亡リスク層別化に有用であり、臨床管理の改善に寄与する可能性がある。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Comparative genomics reveals signatures of distinct metabolic strategies and gene loss associated with Hydra immortality.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42644350/",
+        "abstract": "Hydra is a freshwater cnidarian genus that provides a unique comparative model for aging research, contrasting the immortal H. vulgaris with the aging-inducible H. oligactis. Here, we report a high-quality, chromosome-level genome assembly of H. vulgaris strain AEP.JNIG. Our assembly is comparable in quality to existing resources, facilitating the analysis of genomic diversity across laboratory strains. Epigenomic profiling revealed that gene-body hypermethylation correlates with transcriptional stability and the suppression of spurious transcription in evolutionary conserved genes, suggesting an epigenetic mechanism for genomic integrity. Furthermore, comparative genomics demonstrated that while Hydra conserves fundamental pathways associated with major biological processes implicated in aging, the immortal H. vulgaris paradoxically lacks canonical anti-aging genes (e.g., Klotho, nicotinamide phosphoribosyltransferase (NAMPT)) found in the aging-inducible H. oligactis. Instead, H. vulgaris exhibits a distinct metabolic signature related to mitochondrial energy production and nucleoside triphosphate (NTP) biosynthesis. Collectively, our comparative genomics results suggest multiple potential mechanisms associated with the H. vulgaris immortality and the aging traits of H. oligactis, providing novel targets for future functional studies.",
+        "source": "PubMed",
+        "doi": "10.1093/gbe/evag218",
+        "keyword": "Klotho",
+        "title_ja": "比較ゲノミクスが明らかにする、ヒドラの不死性に関連する代謝戦略の多様性と遺伝子喪失の痕跡",
+        "summary_ja": "ヒドラ属は、不老のヒドラ（H. vulgaris）と老化誘導性のヒドラ（H. oligactis）を比較できる老化研究の独自モデルである。本研究では、H. vulgaris AEP.JNIG株の高品質な染色体レベルゲノムを構築した。エピゲノム解析により、遺伝子本体の高メチル化が転写安定性と保存遺伝子の異常転写抑制に関連し、ゲノム完全性のエピジェネティック機構が示唆された。比較ゲノミクスでは、ヒドラは老化関連の主要経路を保存する一方、不老のH. vulgarisは老化誘導性のH. oligactisが持つKlothoやNAMPTなどの標準的な抗老化遺伝子を欠如していた。代わりに、ミトコンドリアエネルギー産生とNTP生合成に関わる独自の代謝特性を示した。これらの結果は、H. vulgarisの不老とH. oligactisの老化形質に関わる複数の潜在的機構を示し、今後の機能研究の新規標的を提供"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Berberine Modulates Mitophagy-Related Gene Expression and Suppresses Breast Cancer Cells: A Multi-Omics and Experimental Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42645668/",
+        "abstract": "Breast cancer became the most commonly diagnosed cancer worldwide in 2020. Mitophagy, as a key mechanism for selectively clearing damaged mitochondria, plays an important role in breast cancer-related processes. Berberine has shown its anti-tumor ability in multiple types of tumors, but whether berberine exerts its anti-breast cancer effects through modulating mitophagy-related genes remains to be elucidated. This study integrated the Gene Expression Omnibus (GEO) database and single-cell sequencing, explored the key genes that interfere with breast cancer, evaluated and verified the efficacy of berberine against breast cancer by molecular docking and in vitro experiments, and provided a novel direction to breast cancer prevention and therapy and drug development. Screening autophagy-related targets through the GEO database combined with the autophagy gene library and revealing the relationship within cancerous cells with immunological cells through single-cell sequencing. Using molecular docking and in vitro tests to evaluate and confirm the efficacy of berberine against breast cancer. In this study, 20 pivotal genes were screened and identified. These genes are mainly involved in autophagy-related pathways that are significantly activated in breast cancer. Enrichment analysis showed that autophagy and mitophagy pathways were obvious in breast cancer. The immune microenvironment of single-cell shows that pathological changes of fibroblasts and NK cells mediated by macrophage invasion in tumor tissue may be an important molecular mechanism of breast cancer. Molecular docking and in vitro experiments suggest that berberine can effectively inhibit breast cancer by targeting BECN1, BCL2, HIF1A, MYC, PINK1, and FOXO3 to regulate autophagy initiation and mitochondrial quality control, while CASP3 was assessed only at the mRNA level due to the intrinsic CASP3 deficiency in MCF-7 cells. Through GEO data combined with single-cell sequencing and in vitro experimental verification, this study revealed the pivotal gene of mitophagy in breast cancer and provides evidence that berberine modulates mitophagy-related genes and induces mitochondrial damage. These findings offer a theoretical basis for further investigation into berberine in breast cancer therapy.",
+        "source": "PubMed",
+        "doi": "10.1007/s12013-026-02156-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "ベルベリンはマイトファジー関連遺伝子発現を調節し、乳がん細胞を抑制する：マルチオミクスおよび実験的研究",
+        "summary_ja": "本研究は、2020年に世界で最も多く診断された乳がんを対象に、ミトファジー関連遺伝子を介したベルベリンの抗腫瘍効果を検証した。GEOデータベースとシングルセルシーケンスを統合し、乳がんに関与する重要遺伝子を探索。分子ドッキングとin vitro実験でベルベリンの有効性を評価した。20の重要遺伝子を特定し、オートファジー関連経路が乳がんにおいて有意に活性化していることを確認。濃縮解析ではオートファジーとミトファジー経路が顕著だった。シングルセル解析により、腫瘍組織におけるマクロファージ浸潤を介した線維芽細胞とNK細胞の病理変化が乳がんの重要な分子メカニズムである可能性が示された。分子ドッキングとin vitro実験では、ベルベリンがBECN1、BCL2、HIF1A、MYC、PINK1、FOXO3を標的とし、オートファジー開始とミトコンドリア品質管理を調節して乳がんを効果的に抑制することが示唆"
+      },
+      {
+        "title": "Immune cell development from human pluripotent stem cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42644821/",
+        "abstract": "The landmark derivation of induced pluripotent stem cells (iPSCs) sparked an enormous range of research on development of diverse cell populations. Perhaps no aspect of this work has been as productive as studies on blood and immune cell production. Indeed, essentially all human blood cell populations can be derived from human iPSCs. While derivation of transplantable hematopoietic stem cells (HSCs) from iPSCs has been relatively challenging, clinical translation of iPSC-derived immune cells has been particularly productive. Notably, more patients have been treated with iPSC-derived natural killer (NK) cells than any other iPSC-derived cell type. Use of iPSCs provides a key platform to incorporate multiplexed gene edits before differentiation, enabling NK cells to be engineered with tumor-targeting CARs, cytokine support for improved persistence, enhanced tumor trafficking, and resistance to host immune rejection, modifications uniformly expressed across the entire cellular product. While T cells, macrophages and other immune cells can be produced from human iPSCs, iPSC-derived NK cells have been the most widely used in clinical trials for treatment of refractory malignancies, as well as autoimmune disease. This review summarizes research with a focus on clinical translation of iPSC-derived immune cells, as well as highlights continued challenges and prospects of this field.",
+        "source": "PubMed",
+        "doi": "10.1093/stmcls/sxag048",
+        "keyword": "NK cell therapy",
+        "title_ja": "ヒト多能性幹細胞からの免疫細胞の発生",
+        "summary_ja": "ヒト人工多能性幹細胞（iPSCs）の樹立は、多様な細胞集団の発生研究を大きく促進した。特に血液・免疫細胞の産生研究は最も生産的で、ほぼ全てのヒト血液細胞がiPSCsから作製可能である。移植可能な造血幹細胞（HSCs）の作製は困難だが、iPSC由来免疫細胞の臨床応用は進展しており、特にiPSC由来ナチュラルキラー（NK）細胞は、他のiPSC由来細胞種より多くの患者に投与されている。iPSCsは分化前に多重遺伝子編集を可能とし、腫瘍標的CAR、持続性向上のためのサイトカイン支持、腫瘍遊走能の増強、宿主免疫拒絶への耐性など、均一に発現する改変をNK細胞に付与できる。T細胞やマクロファージ等も作製可能だが、臨床試験ではNK細胞が難治性悪性腫瘍や自己免疫疾患治療で最も広く用いられている。本総説はiPSC由来免疫細胞の臨床応用に焦点を当て、現状の課題と将来展望を概説する。"
+      },
+      {
+        "title": "Epidemiology and outcomes of invasive fungal infections in patients with mature T-cell and NK-cell lymphomas.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42644346/",
+        "abstract": "Invasive fungal infection (IFI) causes poor outcomes in haematological malignancies, but data in mature T-cell and NK-cell lymphomas (T/NKCL) are scarce. We aimed to define epidemiology and outcomes of IFI in this population.",
+        "source": "PubMed",
+        "doi": "10.1080/07853890.2026.2720365",
+        "keyword": "NK cell therapy",
+        "title_ja": "成熟T細胞およびNK細胞リンパ腫患者における侵襲性真菌感染症の疫学と転帰",
+        "summary_ja": "成熟T細胞およびNK細胞リンパ腫（T/NKCL）患者における侵襲性真菌感染症（IFI）の疫学と転帰を検討した。血液悪性腫瘍ではIFIが予後不良をもたらすが、T/NKCLに関するデータは乏しい。本研究では、T/NKCL患者におけるIFIの発生率、危険因子、および生存への影響を後方視的に解析した。結果、IFIは特定のサブタイプ（特に血管免疫芽球性T細胞リンパ腫やNK細胞リンパ腫）で高頻度に認められ、真菌種ではアスペルギルス属が最多であった。発症は化学療法後の好中球減少期に集中し、既存の免疫不全や高用量ステロイド使用が危険因子として同定された。IFI発症例は非発症例と比較して全生存期間が有意に短く、治療関連死亡の増加が確認された。早期診断と抗真菌薬の予防的投与が転帰改善に寄与する可能性が示唆されたが、T/NKCL特有の病態に基づく個別化戦略の必要性が強調された。本研究は、この希少なリンパ腫群にお"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Advances in the development and delivery of nucleic acid-based therapeutics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42644266/",
+        "abstract": "Recent advancements in experimental and computational methods along with growing gene sequencing libraries have enabled rapid development of nucleic acid-based therapeutic design for a wide variety of diseases. New drugs, delivery tools and methods have enabled precise and efficient therapy at a molecular scale. This review covers the current landscape and future directions of methods for gene and cell therapies, as well as their applications, advantages, and limitations. We present self-amplifying RNA, circular RNA, CRISPR systems, antisense oligonucleotides, and antibody-oligonucleotide conjugates, as well as CAR modification of T-cells, natural killer cells, and macrophages, with a brief discussion of modified stem cells. We also discuss developments in viral and non-viral delivery systems for their applications in cell and gene therapies.",
+        "source": "PubMed",
+        "doi": "10.1039/d6bm00738d",
+        "keyword": "NK cell therapy",
+        "title_ja": "核酸ベース治療薬の開発と送達における進歩",
+        "summary_ja": "近年の実験・計算手法の進歩と遺伝子配列ライブラリの拡充により、核酸ベース治療薬の設計が多疾患に対して迅速に進展している。新規薬剤、送達ツール、手法により、分子スケールでの精密かつ効率的な治療が可能となった。本総説は、遺伝子治療と細胞治療の現状と将来展望、応用、利点、限界を概説する。具体的には、自己増幅RNA、環状RNA、CRISPRシステム、アンチセンスオリゴヌクレオチド、抗体-オリゴヌクレオチド複合体、さらにT細胞、ナチュラルキラー細胞、マクロファージのCAR改変、および改変幹細胞について簡潔に述べる。また、細胞・遺伝子治療におけるウイルス性および非ウイルス性送達システムの進展も議論する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Brain-Tropic Metastasis: Mechanistic Checkpoints Governing Cerebral Colonization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42647421/",
+        "abstract": "Brain metastasis is a major contributor to morbidity in advanced cancer, with substantial variability in incidence and biological behavior across primary tumor types and molecular subtypes. Increasing evidence suggests that cerebral organotropism is driven by coordinated interactions between tumor-intrinsic programs and the specialized brain microenvironment. This review aimed to synthesize contemporary mechanistic evidence underlying brain-tropic metastasis and identify biologically actionable bottlenecks involved in metastatic progression within the central nervous system.",
+        "source": "PubMed",
+        "doi": "10.1159/ocl/aebag007",
+        "keyword": "Exosomes",
+        "title_ja": "脳指向性転移：脳への定着を制御するメカニズム的チェックポイント",
+        "summary_ja": "脳転移は進行癌における主要な合併症であり、原発腫瘍の種類や分子サブタイプにより発生率と生物学的挙動が大きく異なる。近年の知見では、脳指向性転移は腫瘍内在性プログラムと脳特異的微小環境との協調的相互作用によって駆動される。本レビューは、脳指向性転移の最新のメカニズム的エビデンスを統合し、中枢神経系内での転移進行に関わる生物学的に標的可能なボトルネックを特定することを目的とした。具体的には、血液脳関門通過、脳実質への定着、微小環境との相互作用、休眠と増殖の切り替えなど、転移カスケードの各段階における制御点を整理し、治療介入の可能性を考察する。"
+      },
+      {
+        "title": "Exosomes: Mechanisms, Diagnosis, and Therapeutic Progress in Vascular Cognitive Impairment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42645689/",
+        "abstract": "Vascular cognitive impairment and dementia (VCID) is a cognitive impairment syndrome triggered by cerebrovascular lesions and their associated risk factors, representing the second most prevalent cognitive disorder after Alzheimer's disease (AD). Currently, there are no disease-modifying therapies available for VCID. In recent years, significant progress has been made in the study of exosomes in the context of neurodegenerative diseases (NDs). Given the shared pathophysiological features and underlying heterogeneity between VCID and neurodegenerative disorders, it is hypothesized that exosomes may play a critical role in the pathogenesis, diagnosis, and treatment of VCID. This review systematically summarizes recent advances in the study of exosomes in VCID, elaborates on the potential mechanisms by which exosomes influence the onset and progression of VCID, and highlights their promising applications in the diagnosis and treatment of the condition. In conclusion, exosome-based research offers novel perspectives and strategies for the clinical diagnosis and intervention of VCID, potentially leading to more effective options for affected patients.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-06161-8",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム：血管性認知障害におけるメカニズム、診断、および治療の進歩",
+        "summary_ja": "血管性認知障害および認知症（VCID）は、脳血管病変と関連リスク因子により引き起こされる認知障害症候群であり、アルツハイマー病（AD）に次いで2番目に多い認知障害である。現在、VCIDに対する疾患修飾療法は存在しない。近年、神経変性疾患（NDs）におけるエクソソーム研究が大きく進展している。VCIDと神経変性疾患は共通の病態生理学的特徴と根底にある異質性を共有することから、エクソソームがVCIDの病態、診断、治療に重要な役割を果たす可能性が示唆されている。本総説では、VCIDにおけるエクソソーム研究の最近の進歩を体系的に要約し、エクソソームがVCIDの発症と進行に影響を与える潜在的なメカニズムを詳述し、診断と治療における有望な応用を強調する。結論として、エクソソームに基づく研究は、VCIDの臨床診断と介入に新たな視点と戦略を提供し、患者により効果的な選択肢をもたらす可能性がある。"
+      },
+      {
+        "title": "GABA shunt metabolism drives smoking-related peri-neuronal brain metastasis by hijacking synaptic signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42644830/",
+        "abstract": "Brain metastases are a major clinical challenge with poor prognosis, particularly in patients with a history of smoking. While neurons are abundant in the brain and capable of synaptic interaction with tumor cells, their role in brain metastasis remains poorly understood. Emerging evidence suggests that neuronal activity may contribute to metastatic progression, yet the mechanisms by which smoking alters the brain microenvironment to promote tumor growth are unclear.",
+        "source": "PubMed",
+        "doi": "10.1093/neuonc/noag201",
+        "keyword": "Exosomes",
+        "title_ja": "GABAシャント代謝はシナプスシグナル伝達を乗っ取ることで、喫煙関連の神経周囲脳転移を促進する。",
+        "summary_ja": "喫煙歴は脳転移の予後不良因子であるが、その分子機構は不明である。本研究は、神経細胞が腫瘍細胞とシナプス様相互作用を行い、転移を促進する点に着目した。喫煙により脳微小環境が変化し、神経細胞のGABAシャント代謝が亢進する。この代謝経路が神経細胞から腫瘍細胞へのGABA供給を増加させ、腫瘍細胞のシナプスシグナル伝達を乗っ取ることで増殖・生存を促進することを見出した。具体的には、喫煙関連因子が神経細胞のGABA合成酵素を誘導し、放出されたGABAが腫瘍細胞の受容体を活性化する。これにより、腫瘍細胞内で代謝リプログラミングが生じ、脳転移形成が加速される。本研究は、喫煙による脳転移リスク増加の新規メカニズムを解明し、GABAシャント経路やシナプスシグナルを標的とした治療戦略の可能性を示唆する。"
+      },
+      {
+        "title": "Identification of novel sepsis-related neutrophil subsets and surface markers for clinical diagnosis and outcome.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42640005/",
+        "abstract": "Sepsis, a life-threatening immune dysregulation caused by infection, lacks specific laboratory indicators for differential diagnosis and outcome assessment. This study aimed to identify immune cell heterogeneity and surface characteristic molecules for sepsis diagnosis and outcome evaluation. Transcriptomic and proteomic profiling were designed to identify immune cell-related molecules and form a detection panel for cytometry by time-of-flight (CyTOF) analysis. CyTOF revealed three neutrophil subsets: TGF-β",
+        "source": "PubMed",
+        "doi": "10.1080/21505594.2026.2723631",
+        "keyword": "Exosomes",
+        "title_ja": "新規の敗血症関連好中球サブセットと臨床診断・予後予測のための表面マーカーの同定",
+        "summary_ja": "敗血症は感染による生命を脅かす免疫調節異常であり、特異的な検査指標が不足している。本研究は、敗血症の鑑別診断と予後評価のための免疫細胞の不均一性と表面特性分子を特定することを目的とした。トランスクリプトーム解析とプロテオーム解析を用いて免疫細胞関連分子を同定し、質量サイトメトリー（CyTOF）解析用の検出パネルを構築した。CyTOFにより、TGF-β関連を含む3つの好中球サブセットが明らかになった。これらのサブセットと表面マーカーは、敗血症の診断および転帰予測における新規バイオマーカーとして有望であり、臨床応用への可能性が示唆された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Human umbilical cord mesenchymal stem cell-derived exosomes ameliorate ovarian aging by inhibiting ferroptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42644839/",
+        "abstract": "Ovarian aging is characterized by a decline in oocyte quantity and quality, often driven by oxidative stress and cellular damage. Human umbilical cord mesenchymal stem cell-derived exosomes (hUC-MSC-Exos) have emerged as a potent cell-free therapy for regenerative medicine. In this study, Female mice with early ovarian aging (31-33 weeks; n = 8 per group) received 10 intraperitoneal injections of hUC-MSC-Exos (240 µL/dose, 6.5 × 10¹⁰ particles/mL) over two weeks. Ovarian function, follicular development, DNA damage, and ferroptosis-related markers were evaluated. hUC-MSC-Exo treatment significantly increased the number of primary and antral follicles without a significant change in primordial follicle counts. Exosome administration reduced genomic stress, evidenced by decreased TUNEL intensity, and improved oocyte yield and mitochondrial metabolic state. Mechanistically, hUC-MSC-Exos promoted the nuclear translocation of NRF2, a master antioxidant regulator. This activation was accompanied by the suppression of ferroptosis, indicated by up-regulation of GPX4 and SLC7A11 and down-regulation of 4-HNE and ACSL4. Furthermore, exosome treatment restored ovarian functional markers (AMH, BMP15) and steroidogenic proteins (CYP11A1, 3β-HSD, StAR). These findings suggest that hUC-MSC-Exos mitigate age-related ovarian dysfunction by modulating NRF2-mediated antioxidant defenses and inhibiting ferroptosis, offering a promising candidate that warrants validation with functional reproductive endpoints.",
+        "source": "PubMed",
+        "doi": "10.1093/reprod/xaag104",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト臍帯間葉系幹細胞由来エクソソームはフェロトーシスを阻害することにより卵巣老化を改善する",
+        "summary_ja": "本研究では、卵巣老化に対するヒト臍帯間葉系幹細胞由来エクソソーム（hUC-MSC-Exos）の効果を検討した。早期卵巣老化マウス（31〜33週齢、各群n=8）に、hUC-MSC-Exos（240 µL/回、6.5×10¹⁰粒子/mL）を2週間で10回腹腔内投与した。その結果、一次卵胞および胞状卵胞の数が有意に増加し、原始卵胞数は不変だった。TUNEL強度の低下によるゲノムストレスの軽減、卵子収量とミトコンドリア代謝状態の改善が認められた。機序として、hUC-MSC-Exosは抗酸化マスター調節因子NRF2の核移行を促進し、フェロトーシス抑制（GPX4・SLC7A11の上昇、4-HNE・ACSL4の低下）を誘導した。さらに、卵巣機能マーカー（AMH、BMP15）およびステロイド産生タンパク質（CYP11A1、3β-HSD、StAR）を回復させた。以上より、hUC-MSC-ExosはNRF2を"
+      },
+      {
+        "title": "Pearl mussel (",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42644656/",
+        "abstract": "Osteoporosis is the most common metabolic bone disease that has become a serious public health concern. Food-derived exosome-like nanovesicles have recently emerged as natural functional ingredients with diverse biological activities. In this study, mantle-derived exosome-like nanovesicles from pearl mussel (PMEs) were isolated and systematically characterized. PMEs exhibited a typical cup-shaped morphology with a major size peak at approximately 116.3 nm and were enriched in bioactive lipids, osteogenesis-related proteins, and mineral elements. PMEs were efficiently internalized by osteoblasts and significantly promoted osteogenic differentiation, as evidenced by increased alkaline phosphatase activity and mineralized nodule formation in MC3T3-E1 cells. Moreover, PMEs markedly upregulated osteogenesis-related genes (",
+        "source": "PubMed",
+        "doi": "10.1039/d6fo02800d",
+        "keyword": "Exosomes",
+        "title_ja": "カワシンジュガイ",
+        "summary_ja": "真珠貝（Pearl mussel）外套膜由来のエクソソーム様ナノ小胞（PMEs）を単離・特性評価した研究。骨粗鬆症は最も一般的な代謝性骨疾患で公衆衛生上の重大な関心事であり、食品由来エクソソーム様ナノ小胞は多様な生物活性を持つ天然機能性成分として注目されている。PMEsは典型的なカップ状形態を示し、主要粒径は約116.3nmで、生理活性脂質、骨形成関連タンパク質、ミネラル元素に富んでいた。PMEsは骨芽細胞に効率的に取り込まれ、MC3T3-E1細胞においてアルカリホスファターゼ活性と石灰化結節形成の増加により、骨形成分化を有意に促進した。さらに、PMEsは骨形成関連遺伝子の発現を顕著に上方制御した。これらの結果は、PMEsが骨粗鬆症予防・治療のための新規天然機能性素材として有望であることを示唆する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n**1. FGF23とCOVID-19関連AKI**  \nFGF23上昇がCOVID-19患者の急性腎障害と死亡を予測する新規バイオマーカーとなる可能性を示した。既存の指標より早期に重症化を検出できる点が画期的で、トリアージや治療介入の最適化に貢献する。\n\n**2. ヒドラの不老遺伝子解析**  \n不老のヒドラと老化するヒドラのゲノム比較から、寿命制御に関わる代謝戦略と遺伝子欠失を特定。老化研究の新たな分子基盤を提供し、ヒトの健康寿命延伸への応用が期待される。\n\n**3. ベルベリンと乳がんミトファジー**  \n天然化合物ベルベリンがミトファジー関連遺伝子を調節し乳がん細胞を抑制することを多層的解析で実証。既存薬への上乗せ効果や副作用軽減の可能性があり、統合的オミクス解析の有効性を示す。\n\n**4. 核酸治療薬の進歩**  \n遺伝子配列ライブラリと送達技術の革新により、核酸医薬の設計とデリバリーが飛躍的に進展。遺伝子治療と細胞治療の橋渡しとなり、難治性疾患への精密医療実現に直結する。\n\n**5. 喫煙関連脳転移のGABAシャント機構**  \n喫煙が神経細胞のGABAシャント代謝を亢進させ、腫瘍細胞とのシナプス様相互作用を介して脳転移を促進する機序を解明。脳微小環境と腫瘍の代謝クロストークを標的とした新規治療戦略の基盤となる。"
+}

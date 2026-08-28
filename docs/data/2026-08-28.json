@@ -1,0 +1,205 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Unsupervised Adaptation of 3D CT Foundation Models for 3D CBCT Segmentation",
+        "url": "http://arxiv.org/abs/2608.27190v1",
+        "abstract": "Accurate 3D segmentation of cone-beam CT (CBCT) is critical for interventional and radiation therapy applications, yet it remains limited by two compounding challenges: the scarcity of annotated CBCT data and the large domain shift from diagnostic CT. Interventional CBCT exhibits fundamental modality differences from conventional CT, driven by acquisition and physics effects as well as contrast-specific vascular content, thereby limiting effective cross-modality model transfer. We propose a novel unsupervised domain adaptation (UDA) framework based on redundancy-reducing feature alignment, enabling 3D CBCT segmentation with no target-domain annotations or inference-time adaptation. Our framework is architecture-agnostic, seamlessly adapting both CNN-based and ViT-based foundation models. We evaluate our method on two challenging CT-CBCT liver segmentation benchmarks: one for interventional vascular procedures and one for radiation therapy, demonstrating that even large-scale pretrained segmentation networks require explicit feature-space bridging to generalize across acquisition modalities, and that our approach consistently outperforms existing pretrained foundation model and UDA strategies. To support reproducibility and benchmarking, we release the liver segmentations for a public CBCT dataset, along with the code, trained models, and weights.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "3D CT基盤モデルの3D CBCTセグメンテーションへの教師なし適応",
+        "summary_ja": "コーンビームCT（CBCT）の3次元セグメンテーションは、IVRや放射線治療で重要だが、注釈付きデータの不足と診断用CTとのドメインギャップが課題である。本研究では、冗長性低減に基づく特徴量アライメントを用いた教師なしドメイン適応（UDA）フレームワークを提案する。本手法はアーキテクチャ非依存で、CNN・ViTベースの基盤モデル双方に適用可能であり、ターゲット領域の注釈や推論時の適応を不要とする。肝臓セグメンテーションの2つのベンチマーク（血管内手技と放射線治療）で評価し、大規模事前学習モデルでも明示的な特徴空間の橋渡しが必要であり、既存の基盤モデルやUDA戦略を上回る性能を示した。再現性のため、公開CBCTデータセットの肝臓セグメンテーション結果、コード、学習済みモデル、重みを公開する。"
+      },
+      {
+        "title": "Parameter-Efficient pretrained-CT-to-MRI Transfer for Rectal Cancer Segmentation: Performance-Calibration Trade-offs",
+        "url": "http://arxiv.org/abs/2608.27178v1",
+        "abstract": "Accurate rectal cancer segmentation from magnetic resonance imaging (MRI) is essential for adaptive radiotherapy and tumor response assessment, but deployment also requires computational efficiency and informative, calibrated uncertainty estimates. We therefore introduce SWIFT, a SWin pretrained model wIth parameter-eFficient and Tumor-aware fine-tuning for rectal cancer segmentation. A Swin V2 encoder pretrained on 10,444 public 3D CT volumes using a DINOv2-style objective was adapted to T2-weighted MRI through four cumulative configurations: full fine-tuning (SWIFT), decoder compression (SWIFTe), low-rank adaptation (SWIFTe-LoRA), and a four-member LoRA-decoder ensemble (SWIFTe-LDE4). Geometric accuracy, tumor detection, radiomic agreement, and probability calibration were evaluated on a held-out 247-case test set from a single-institution cohort acquired using 1.5 or 3 Tesla GE scanners. Compared with SWIFT, SWIFTe reduced total parameters by 70.1% (from 72.8M to 21.8M) and increased tumor detection rate from 89.9% to 93.9%, while achieving a slightly lower median surface DSC (0.61 versus 0.62) and improved radiomic agreement. In a separate SWIFTe ablation, removing tumor-aware augmentation reduced detection from 93.9% to 89.9% but increased surface DSC from 0.61 to 0.64, demonstrating a detection-boundary-agreement trade-off. SWIFTe-LoRA used 14.6% of SWIFTe's trainable parameters while retaining similar segmentation performance. SWIFTe-LDE4 achieved the lowest calibration errors among the four configurations after temperature scaling (expected calibration error, 0.217; Brier score, 0.222), although the absolute expected calibration error indicates residual miscalibration. Similar efficiency-calibration patterns were observed using the public VoCo checkpoint, supporting robustness across pretrained initializations rather than external clinical generalizability.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "直腸癌セグメンテーションのためのパラメータ効率的な事前学習CT-to-MRI転移：性能と較正のトレードオフ",
+        "summary_ja": "直腸癌のMRIセグメンテーションには高精度と計算効率、較正された不確実性推定が求められる。本研究では、CTで事前学習したSwin V2エンコーダをT2強調MRIに適応させるSWIFTを提案した。4構成（完全微調整SWIFT、デコーダ圧縮SWIFTe、低ランク適応SWIFTe-LoRA、4メンバーLoRAデコーダアンサンブルSWIFTe-LDE4）を247例で評価。SWIFTeはパラメータを70.1%削減し、腫瘍検出率を89.9%から93.9%に向上、表面DSCは0.62から0.61と僅かに低下、radiomic一致は改善。腫瘍認識オーグメンテーション除去で検出率低下とDSC向上が見られ、トレードオフを確認。SWIFTe-LoRAはSWIFTeの14.6%の訓練可能パラメータで同等性能。SWIFTe-LDE4は温度スケーリング後、最低の較正誤差（ECE 0.217、Brier 0.222）を"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "High-order stabilized matrix-free simulation of rotating mixing devices using the Mortar Element Method",
+        "url": "http://arxiv.org/abs/2608.27423v1",
+        "abstract": "We present a finite element framework to simulate rotating mixing devices using the Mortar Element Method as a domain decomposition strategy. The model is implemented within a matrix-free Navier-Stokes framework which uses a high-order Continuous Galerkin method. The discretized domain is subdivided into rotor and stator parts. An Arbitrary Lagrangian-Eulerian approach accounts for the relative rotor-stator motion, and stabilization is ensured through the Streamline-Upwind/Petrov-Galerkin and Pressure-Stabilizing Petrov-Galerkin methods. The rotor-stator domains are connected by an interface composed of mortar cells, and continuity is weakly enforced in a Discontinuous Galerkin fashion by accounting for boundary integrals at the rotor-stator interface. Verifications of the convergence order in two-dimensional steady and transient examples report optimal rates. The geometric non-conformity created at the mortar interface due to rotor rotation does not introduce significant error in the solution. A three-dimensional example is used to investigate the model's scalability, which yields ideal strong scaling for large problems. A two-dimensional Rushton impeller example uses a torque analysis to showcase the mesh convergence, and the corresponding velocity profile is in agreement with existing numerical results. In a three-dimensional pitched blade turbine case, the power number curve (Np vs Re) shows good agreement with experimental data for Reynolds number values from 1 to 2000. An energy balance analysis reports a numerical dissipation of 1% for Re=200 and of 10% for Re=2000. By exploiting modern hardware capabilities through matrix-free methods, the proposed model is a robust, accurate, and efficient framework suitable for simulating flows with rotating geometries.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "モルタル要素法を用いた回転混合装置の高次安定化マトリックスフリーシミュレーション",
+        "summary_ja": "本論文は、回転混合装置のシミュレーションのための有限要素フレームワークを提示する。Mortar Element Methodを領域分割戦略として用い、行列フリーのNavier-Stokesフレームワーク内に高次Continuous Galerkin法で実装される。計算領域はローターとステーターに分割され、相対運動はArbitrary Lagrangian-Eulerian法で扱う。安定化はStreamline-Upwind/Petrov-Galerkin法とPressure-Stabilizing Petrov-Galerkin法で確保する。ローター・ステーター間はモルタルセルからなる界面で接続され、不連続Galerkin方式で弱連続性を課す。2次元の定常・非定常例で最適な収束次数を確認し、回転による非適合界面の誤差は無視できる。3次元例では理想的な強スケーリングを示す。2次元Rushto"
+      },
+      {
+        "title": "Coupled anisotropic weak topological states and Floquet mixed-parity altermagnetism in two-dimensional Su-Schrieffer-Heeger models",
+        "url": "http://arxiv.org/abs/2608.27329v1",
+        "abstract": "Su-Schrieffer-Heeger (SSH) topological systems and altermagnetic (AM) states are two important research areas in condensed matter physics. Realizing the coupled states between the SSH lattices and AM phanse in a single syetem remains challenging. However, the Floquet engineering change it. Our work constructs five two-dimensional-(2D-) SSH models to describe the coupled phases of SSH weak topological state and AM order by tight-binding (TB) method. The evolution of band structures, spin-splitting, and topological phase transitions under the circularly polarized light (CPL) and relative atomic displacement (RAD) in 2D SSH lattices were systematically investigated. The results reveal that the inequality of hopping parameters (t1 and t2) serves as the fundamental origin of SSH topological states and AM order. For the 2D nonmagnetic state, anisotropic weak topological states with Zak phase governed edge states are realized by unit cell selection, similar to the conventional 1D SSH model. The collinear antiferromagnetic state preserves the spin-degenerate band structure and intrinsic weak topological properties. Furthermore, the Floquet engineering introduces the AM phase of odd-parity p-wave while the RAD introduces the AM phase of even-parity d-wave. By combining the two effects, the mixed-parity (non-odd/non-even parity) AM phase could be realized, achieving the simultaneous control of the light field of spin-splitting and topological edge states. The physical mechanisms of Floquet engineering and RAD for the 2D rectangular SSH lattice are also from the inequality of t1 and t2, which can be not only fully understand by the TB methods, but also in good agreement with the first-principle calculations of 2D carbon-based materials. This work establishes an effective theoretical platform for coupling anisotropic SSH weak topological states and AM orders with multi-parities in 2D systems.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "二次元Su-Schrieffer-Heeger模型における異方的弱トポロジカル状態の結合とFloquet混合パリティ交替磁性",
+        "summary_ja": "本研究通过紧束缚方法构建了五种二维Su-Schrieffer-Heeger（SSH）模型，系统探讨了SSH弱拓扑态与交错磁（AM）序的耦合现象。研究发现，跳跃参数（t1和t2）的不等性是SSH拓扑态和AM序的根本起源。在二维非磁态中，通过晶胞选择可实现由Zak相位调控的各向异性弱拓扑边缘态。共线反铁磁态保持自旋简并能带和固有弱拓扑性质。利用Floquet工程可引入奇宇称p波AM相，而相对原子位移（RAD）则引入偶宇称d波AM相。两者结合可实现混合宇称AM相，同时调控自旋劈裂和拓扑边缘态。该机制同样源于t1和t2的不等性，与二维碳基材料的第一性原理计算结果高度吻合。本研究为二维系统中耦合各向异性SSH弱拓扑态与多宇称AM序提供了有效理论平台。"
+      },
+      {
+        "title": "Noncommutative Cluster Varieties and Moduli Spaces of Local Systems",
+        "url": "http://arxiv.org/abs/2608.27284v1",
+        "abstract": "In this article, we construct noncommutative cluster varieties, $\\mathcal{A}_{R,S}$, for each reduced root system $R$ and marked surface $S$ simultaneously generalizing the cluster varieties of Fock-Goncharov, Li, Goncharov-Shen, Berenstein-Retakh, Goncharov-Kontsevich, and our previously introduced polygonal cluster algebras. Additionally, we define a large class of algebraic groups, we call Jordan split groups. Given a reduced root system $R$ and a family of Jordan algebras, the Lie algebra for $G$ is constructed by unifying the Tits-Kantor-Koecher construction for a single Jordan algebra with the construction of a split Lie algebra.\n  The notion of Jordan split groups is closely related to a grading of its Lie algebra by the root system $R$. We show that these gradings are usually induced by a choice of standard parabolic subalgebra $\\mathfrak{p}_Θ$ and we classify $R$-graded pairs $(G,Θ)$ via a condition depending only on the subset $Θ\\subset Δ$ of the set of simple roots. Next, we define Jordan algebra points of $\\mathcal{A}_{R,S}$ which parameterize $G$-local systems on $S$ with boundary decoration related to cosets $G/U_Θ$ when $G$ is Jordan split of type $R$. When $S$ is a disk, points of $\\mathcal{A}_{R,S}$ parameterize configurations of decorated flags. We use this to give noncommutative cluster structures on the double $R$-Bruhat cells of $G$, generalizing the cluster algebras of Berenstein-Fomin-Zelevinsky. When each Jordan algebra is formally real, we say that $G$ has a positive structure with respect to $Θ$. This defines a positive semigroup in $G$. For real algebraic groups, the pairs $(G,Θ)$ which have positive structures are exactly those which admit a positive structure as defined by Guichard-Wienhard and we give algebraic proofs of many of the properties of positive configurations of flags and of positive representations.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "非可換クラスター多様体と局所系のモジュライ空間",
+        "summary_ja": "本論文では、簡約ルート系Rとマーク付き曲面Sの各組に対して、非可換クラスター多様体A_{R,S}を構成する。これはFock-Goncharov、Li、Goncharov-Shen、Berenstein-Retakh、Goncharov-Kontsevich、および著者らが以前導入した多角形クラスター代数を同時に一般化する。さらに、Jordan分解群と呼ばれる代数群の大きなクラスを定義する。そのリー代数は、単一のJordan代数に対するTits-Kantor-Koecher構成と分解リー代数の構成を統合して構築される。Jordan分解群の概念は、ルート系Rによるリー代数の次数付けと密接に関連する。これらの次数付けは通常、標準放物部分代数p_Θの選択によって誘導され、R次数付き対(G,Θ)を単純ルートの部分集合Θ⊂Δのみに依存する条件で分類する。次に、A_{R,S}のJordan代数点を定義し"
+      },
+      {
+        "title": "SCIT: Testing Causal Cache Carriers in Latent Chain-of-Thought Models",
+        "url": "http://arxiv.org/abs/2608.27265v1",
+        "abstract": "Latent chain-of-thought models move intermediate reasoning from emitted text into continuous states, improving compactness but hiding the causal object. We introduce SCIT, the Suffix Cache Interchange Test, a causal protocol that constructs exact source-recipient counterfactuals, patches declared cache segments, and identifies which transformer object carries the counterfactual computation. SCIT combines sufficiency tests with K/V component splits, hidden-state controls, semantic source controls, decoded validation, and matched corruption. On CODI-GPT2 and a Sim-CoT-style GPT-2 reproduction, counterfactual arithmetic transfers primarily through value-cache suffix trajectories rather than hidden states, keys, reusable answer slots, or single-token triggers. Complete sufficiency-and-necessity evidence for the late-value-suffix mechanism holds for the main CODI-GPT2 checkpoint; the Sim-CoT-style checkpoint shows the same sufficiency and decoded-control pattern but insufficient matched-corruption evidence for a necessity call. Beyond these local arithmetic cells, SCIT reveals carrier-regime shifts: arithmetic-like GPT-2/1B cells preserve latent-tail value/KV transfer, whereas competent 8B and repaired non-arithmetic cells route through prompt-prefix or full-cache K/V; boundary cells receive no mechanism call. SCIT therefore contributes a cache-level diagnostic, a checkpoint-specific GPT-2 arithmetic mechanism, and a competence-gated carrier map rather than a universal latent-tail claim.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "SCIT：潜在チェーン・オブ・ソートモデルにおける因果的キャッシュキャリアのテスト",
+        "summary_ja": "SCITは、潜在連鎖思考モデルにおける因果的キャッシュキャリアを検証するプロトコルである。この手法は、連続状態に埋め込まれた中間推論の因果対象を特定するため、ソースとレシピエントの反事実を構築し、宣言されたキャッシュセグメントをパッチして、どのトランスフォーマーオブジェクトが反事実計算を担うかを識別する。SCITは、十分性テスト、K/Vコンポーネント分割、隠れ状態制御、意味的ソース制御、デコード検証、マッチドコラプションを組み合わせる。\n\nCODI-GPT2とSim-CoTスタイルのGPT-2再現では、反事実算術は主にバリューキャッシュのサフィックス軌跡を通じて転送され、隠れ状態やキー、再利用可能な回答スロット、単一トークントリガーではない。主要なCODI-GPT2チェックポイントでは、後期バリューサフィックス機構の完全な十分性・必要性証拠が得られた。Sim-CoTスタイルでは十分性とデコ"
+      },
+      {
+        "title": "TwinKV: A Composable Repair Pass for KV Cache Eviction via Pairwise Key Redundancy",
+        "url": "http://arxiv.org/abs/2608.27128v1",
+        "abstract": "Long-context inference is bottlenecked by the memory footprint of the key-value (KV) cache, especially for small models under tight resource budgets. Existing KV cache eviction methods score tokens using the model's attention distribution or, in attention-free variants, each key's distance from a global reference point. Using a controlled leave-one-out probe, we find that attention magnitude is unrelated to a token's causal contribution to the answer (Spearman $ρ=-0.004$), challenging the premise behind dominant eviction methods. We introduce TwinKV, a training-free, attention-free redundancy signal that detects whether a token's key has a near-duplicate elsewhere in context. Rather than replacing existing policies, TwinKV acts as a composable repair pass: given a policy's fixed retained set, it identifies evicted tokens with no surviving duplicate (\\emph{orphans}) and retained tokens whose information is duplicated elsewhere (\\emph{redundant donors}), then swaps them while preserving the original budget and scoring rule. We compose TwinKV with four recent eviction policies across LongBench, LooGLE, RULER, and a short-context MMLU-Pro no-harm control at compression ratios ${0.3,0.5,0.7}$. On Qwen3-4B, TwinKV improves a majority of configurations for two policies, is near-even for a third, and helps only a minority for a fourth adaptive baseline already near a performance ceiling; gains across the three non-ceiling policies are smallest at the loosest ratio. On RULER with Llama-3.2-1B, however, that fourth policy improves in every evaluated cell because its Alone score leaves substantial room to improve. More broadly, Llama-3.2-1B shows a smaller average LongBench gain but a higher fraction of improved cells on LongBench and LooGLE than Qwen3-4B, plus a clean RULER win. We also identify few-shot classification exemplars as a task structure where TwinKV does not help on either model.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "TwinKV: ペア鍵冗長性によるKVキャッシュ退避のための合成可能な修復パス",
+        "summary_ja": "TwinKVは、KVキャッシュ削減のための訓練不要な修復パスを提案する。既存の削減手法は注意分布やキーの距離に基づくが、leave-one-outプローブにより注意の大きさは因果的寄与と無関係（Spearman ρ=-0.004）であることを発見した。TwinKVは、キーの重複を検出し、削除されたトークンで重複がない「孤児」と、情報が他に重複する「冗長ドナー」を交換する。予算とスコアリング規則を維持しつつ、既存ポリシーに組み合わせ可能である。LongBench、LooGLE、RULER、MMLU-Proで圧縮比0.3〜0.7で評価した。Qwen3-4Bでは、4つのポリシーのうち2つで大半の設定が改善、1つはほぼ同等、1つは性能上限に近く改善は少数だった。Llama-3.2-1Bでは、RULERで全設定が改善し、LongBenchでは平均改善は小さいが改善セル比率が高かった。数ショット分類の"
+      },
+      {
+        "title": "Quadratic Complexity of Voronoi Diagrams in $\\mathbb{R}^3$ for Lines in a Single Ruling of a Regulus",
+        "url": "http://arxiv.org/abs/2608.27114v1",
+        "abstract": "We study nearest and farthest Voronoi diagrams of lines in $\\mathbb{R}^3$ under the Euclidean metric when all $n$ lines belong to one ruling of a smooth doubly ruled real quadric. For arbitrary line sites, the combinatorial complexity of the nearest Voronoi diagram is known only to lie between $Ω(n^2)$ and $O(n^{3+\\varepsilon})$. Under general-position assumptions, we prove that both diagrams in the ruling class have at most $4n(n-3)$ vertices and $O(n^2)$ total combinatorial complexity. Conversely, for every $n \\ge 4$, one ruling of a fixed non-rotational one-sheeted hyperboloid contains a general-position set of $n$ lines with at least $(n-2)(n-3)/2$ distinct regular nearest vertices, where regular means that exactly four lines support the vertex and their three defining bisectors meet transversely. Thus the worst-case complexity of the nearest Voronoi diagram in this class is $Θ(n^2)$, while the farthest diagram has $Θ(n^2)$ complexity for every general-position input, since it has exactly $n(n-1)$ three-dimensional cells. Under the Plücker embedding, the ruling is a conic, and the condition for a line to be tangent to a Euclidean sphere restricts to a binary quartic. At a regular vertex, the four supporting parameters exhaust its roots, and sign alternation forces two arcs of the parameter circle to be site-free. This leaves only $n(n-3)/2$ possible cyclic support types, while Bézout's theorem bounds the number of centers for each type by eight. The same reduction yields an exact $O(n^2)$-time algorithm that, after cyclically sorting the site parameters, enumerates all finite nearest and farthest vertices as constant-degree real univariate representations.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "$\\mathbb{R}^3$ において、レギュラスの単一母線上の直線に対するボロノイ図の二次複雑度",
+        "summary_ja": "本論文は、ユークリッド計量下で、滑らかな二重直線実二次曲面の一つの母線族に属する直線群に対する、$\\mathbb{R}^3$ 内の最近傍および最遠ボロノイ図を研究する。任意の直線サイトでは、最近傍ボロノイ図の組合せ複雑度は $\\Omega(n^2)$ と $O(n^{3+\\varepsilon})$ の間にあることしか知られていない。一般位置仮定の下で、母線族内の両図は高々 $4n(n-3)$ 個の頂点と $O(n^2)$ の総複雑度を持つことを証明する。逆に、各 $n \\ge 4$ に対し、固定された非回転一葉双曲面の一母線族は、少なくとも $(n-2)(n-3)/2$ 個の異なる正則最近傍頂点を持つ一般位置の $n$ 直線集合を含む。ここで正則とは、ちょうど4本の直線が頂点を支え、それらの3つの定義二等分面が横断的に交わることを意味する。したがって、このクラスでの最近傍図の最悪複雑度は"
+      },
+      {
+        "title": "Interface Conditions for Wave Propagation Through a Time-varying Metasurface",
+        "url": "http://arxiv.org/abs/2608.27061v1",
+        "abstract": "We study wave propagation through a time-modulated thin heterogeneous layer. The layer is assumed to have a thickness of order $\\es\\ll 1$ and its material properties exhibit rapid oscillations on multiple spatial and temporal scales. We aim to rigorously derive the effective model and the corresponding interface conditions for wave propagation through the limiting interface.\n  To perform the homogenization together with dimension reduction, we generalize the notion of two-scale convergence for thin layer introduced by Neuss-Radu and Jäger (2007) to a multiple space-time scale framework. One of the main analytical difficulties arising in the homogenization analysis is that, in general, a uniform energy estimate cannot be obtained for a wave equation with time-varying coefficients. Therefore, we identify two physically relevant classes of coefficients for which we can derive a uniform energy bound. These include coefficients with traveling wave-type modulations of their properties.\n  Using the energy estimates and the multiscale convergence for thin layer concept, we derive the effective model, which consists of linear wave equations in the bulk domains coupled through a nonstandard jump condition at the interface. This jump condition is governed by a wave-type dynamical equation with effective macroscopic coefficients determined by suitable cell problems of elliptic and hyperbolic type. Finally, we discuss the uniqueness of the effective model.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "時間変動メタサーフェスを透過する波の伝搬に対する界面条件",
+        "summary_ja": "時間変調された薄い不均質層を通る波動伝播を研究した。層の厚さはオーダーε≪1で、材料特性は複数の空間・時間スケールで急速に振動する。厳密な有効モデルと界面条件を導出するため、Neuss-RaduとJäger（2007）による薄層の二重スケール収束を多重空間・時間スケール枠組みに一般化した。主な解析的困難は、時間変動係数を持つ波動方程式では一様なエネルギー評価が一般に得られないことである。そこで、進行波型変調を含む物理的に妥当な2つの係数クラスを特定し、一様エネルギー有界性を導出した。エネルギー評価と多重スケール収束を用いて、バルク領域の線形波動方程式と、非標準的なジャンプ条件で結合された有効モデルを導出した。このジャンプ条件は、楕円型・双曲型のセル問題から決まる有効巨視係数を持つ波動型動的方程式で支配される。最後に有効モデルの一意性を議論した。"
+      },
+      {
+        "title": "High-resolution in situ analysis of biomass pyrolysis by combining quantitative synchrotron $μ$CT and 3D particle-resolved simulations",
+        "url": "http://arxiv.org/abs/2608.27042v1",
+        "abstract": "Understanding the coupling between transport, chemical kinetics, and structural response within solid fuel combustion requires in situ measurements at high spatial resolution. To examine the dynamics of biomass pyrolysis, we optimize synchrotron X-ray micro-computed tomography ($μ$CT), and conduct 3D particle-resolved simulations. A micro-focused heating cell with controlled heating and flow rate is employed, achieving temperatures of up to 1240 K and 3D imaging at 3.24 $μ$m spatial and sub-minute temporal resolutions. The pyrolysis of three biomass materials at sample heating rates of 10-14 K/min are examined. The $μ$CT measurements capture pore deformation, cracking, anisotropic shrinkage, and provide simultaneous thermogravimetric and thermovolumetric analyses to examine specific secondary pyrolysis pathways. Complementary 3D simulations considering detailed kinetics and structural response reproduce the key trends observed, and identify deficiencies in capturing simultaneous mass and volume losses during pyrolysis.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "バイオマス熱分解の高分解能その場分析：定量シンクロトロンμCTと3次元粒子分解シミュレーションの組み合わせ",
+        "summary_ja": "本論文は、固体燃料燃焼における輸送・化学反応速度・構造応答の連成を理解するため、高分解能その場計測を実施した。シンクロトロンX線マイクロCT（μCT）を最適化し、3次元粒子分解シミュレーションと組み合わせた。加熱セルにより最高1240 K、空間分解能3.24 μm、時間分解能1分未満で3Dイメージングを実現し、3種類のバイオマスを10～14 K/minで熱分解した。μCTは細孔変形、亀裂、異方性収縮を捉え、熱重量・熱体積分析により二次熱分解経路を評価した。一方、詳細反応速度と構造応答を考慮した3Dシミュレーションは主要傾向を再現したが、熱分解中の質量・体積同時損失の捕捉に課題があることを示した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Comparative Proteomics Analysis of Serum Exosomes Reveals Distinct Infection Profiles and Potential Biomarkers for Pediatric Tuberculosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42658453/",
+        "abstract": "The primary objective of the study was to investigate the proteomic content of serum exosomes from pediatric patients with and without tuberculosis (TB), with the aim of exploring the compositional variability and identifying potential biomarkers for the early diagnosis of TB in children.",
+        "source": "PubMed",
+        "doi": "10.1007/s13312-026-00415-3",
+        "keyword": "Exosomes",
+        "title_ja": "小児結核における血清エクソソームの比較プロテオミクス解析：異なる感染プロファイルと潜在性バイオマーカーの解明",
+        "summary_ja": "本研究は、小児結核（TB）患者と非結核児童の血清エクソソームのプロテオームを比較解析し、構成変動を探索し、早期診断のためのバイオマーカーを同定することを目的とした。血清エクソソームを単離し、質量分析によりタンパク質発現プロファイルを解析した結果、TB群と対照群で有意に異なる発現を示す複数のタンパク質が検出された。特に、免疫応答や炎症関連経路に関与するタンパク質（例：補体成分、急性期タンパク質）がTB群で変動し、感染特異的なシグネチャーが確認された。さらに、候補バイオマーカーとして複数のタンパク質（例：S100A8、S100A9、LRG1）が同定され、これらの組み合わせにより小児TBの鑑別診断能が向上する可能性が示された。本研究は、血清エクソソームのプロテオーム解析が小児TBの非侵襲的診断ツールとして有望であり、感染病態の理解にも寄与することを示唆している。"
+      },
+      {
+        "title": "A cascaded CHA-CRISPR/Cas12a photoelectrochemical platform enabled by S-scheme Bi",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42657609/",
+        "abstract": "Exosomal piR-823 is a promising specific biomarker for colorectal cancer, yet its ultrasensitive detection remains challenging due to its extremely low abundance and high sequence complexity. Herein, we developed a cascaded CHA-CRISPR/Cas12a photoelectrochemical (PEC) sensing platform enabled by an S-scheme Bi",
+        "source": "PubMed",
+        "doi": "10.1039/d6an00974c",
+        "keyword": "Exosomes",
+        "title_ja": "SスキームBiによって実現されたカスケードCHA-CRISPR/Cas12a光電気化学プラットフォーム",
+        "summary_ja": "本論文は、大腸がんの特異的バイオマーカーであるエクソソーム由来piR-823の超高感度検出を目的とした、カスケードCHA-CRISPR/Cas12a光電気化学（PEC）センシングプラットフォームの開発を報告する。piR-823は極低存在量かつ高配列複雑性のため、従来法での検出は困難であった。本プラットフォームは、SスキームBiを利用し、カスケード触発ハイブリダイゼーション連鎖反応（CHA）とCRISPR/Cas12aの切断活性を組み合わせることで、シグナル増幅を実現する。CHAにより標的piR-823を効率的に増幅し、Cas12aの非特異的切断活性を活性化してPECシグナルを増強する。SスキームBiは電荷分離を促進し、光電変換効率を向上させる。本手法は、高感度・高特異性を両立し、大腸がんの早期診断への応用が期待される。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Pre-Regenerative Endothelial Cells Empowered by Antler Blood Exosomes Orchestrate Peripheral Nerve Repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42658558/",
+        "abstract": "The pre-regenerative vascular niche (PVN) is indispensable for peripheral-nerve repair, yet the endothelial cell (EC) blueprint underlying PVN formation remains to be fully defined. Herein, we mapped the sciatic-nerve endothelium and identified angiogenic ECs (AECs) as the dominant pre-regenerative subset triggered by injury. However, the molecular circuitry governing AEC-mediated regeneration awaits elucidation. Unexpectedly, we found that antler blood, routinely discarded during velvet antler harvesting, contains potent regenerative cues that strongly boost endothelial-driven repair. By integrating a single-cell atlas of antler with the proteomics of antler blood-derived exosomes (AB-EXO), we traced the vesicles to their cellular origins and demonstrated that AB-EXO encapsulate the antler's potent regenerative signature. Further mechanistic interrogation showed that AB-EXO induced pro-angiogenic phenotypes in ECs via the upregulation of IMP U3 small nucleolar ribonucleoprotein 3 (IMP3). Overlaying IMP3 expression onto our EC atlas pinpointed IMP3-high AECs (IMP3+AECs) as the pivotal vascular drivers of nerve repair. Ultimately, our findings establish IMP3+AECs as the critical component of the pre-regenerative EC atlas within the peripheral nerve and position AB-EXO as an effective therapy for nerve repair.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.202522170",
+        "keyword": "Exosomes",
+        "title_ja": "鹿血エクソソームによって賦活化された前再生内皮細胞が末梢神経修復を統御する",
+        "summary_ja": "末梢神経修復には前再生血管ニッチ（PVN）が必須だが、その形成を担う内皮細胞（EC）の詳細は不明だった。本研究では、坐骨神経内皮をマッピングし、損傷により誘導される血管新生EC（AEC）が主要な前再生サブセットであることを特定した。さらに、鹿茸採取時に廃棄される鹿茸血が強力な再生シグナルを含むことを発見。鹿茸のシングルセルアトラスと鹿茸血由来エクソソーム（AB-EXO）のプロテオミクスを統合し、AB-EXOが鹿茸の再生特性を内包し、ECにおいてIMP3（U3小核小体リボ核タンパク質3）のアップレギュレーションを介して血管新生促進表現型を誘導することを示した。ECアトラス上でIMP3発現を重ね合わせ、IMP3高発現AEC（IMP3+AEC）が神経修復の中心的血管ドライバーであることを同定。結論として、IMP3+AECは末梢神経内の前再生ECアトラスの重要構成要素であり、AB-EXOは神経修復"
+      },
+      {
+        "title": "Ovarian ageing: from biological constraint to emerging therapeutic frontier.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42658450/",
+        "abstract": "Ovarian ageing is a central determinant of female reproductive potential, defined by a progressive and largely irreversible decline in both the quantity and the quality of oocytes. Although the process is universal, its onset and pace vary widely, and early ovarian ageing (EOA) affects a substantial minority of women, contributing to subfertility, miscarriage and earlier menopause. This narrative review synthesises current understanding of the biology, diagnosis and management of ovarian ageing. Two interrelated but partly independent processes drive the decline: exhaustion of the primordial follicle pool and deterioration of oocyte developmental competence. Beneath them lies an interconnected molecular network encompassing mitochondrial and metabolic dysfunction, genomic and meiotic instability, cellular senescence and inflammation and progressive ageing of the ovarian microenvironment. In clinical practice, assessment still depends on surrogate markers-anti-Müllerian hormone (AMH), antral follicle count (AFC) and follicle-stimulating hormone (FSH)-that quantify reserve but cannot measure oocyte quality; importantly, these markers predict ovarian response rather than natural fertility, and improvements in AMH, AFC, oocyte yield or menstrual function do not necessarily translate into better oocyte competence, euploid embryo formation or live birth. Management remains centred on fertility preservation and optimisation of assisted reproductive technology, with pharmacological adjuvants offering, at best, modest and inconsistent benefit and none currently endorsed by guidelines for improving live birth. A new generation of experimental strategies-in vitro activation, platelet-rich plasma, stem-cell and exosome therapies, mitochondrial replacement and in vitro gametogenesis-signals a conceptual shift from managing decline towards restoring ovarian function, but the supporting evidence remains preliminary. Despite remarkable progress, no intervention currently reverses ovarian ageing or reliably improves age-related oocyte competence, and bridging this gap will require rigorous translational research and careful, evidence-based clinical integration.",
+        "source": "PubMed",
+        "doi": "10.1007/s10815-026-04011-z",
+        "keyword": "Exosomes",
+        "title_ja": "卵巣の老化：生物学的制約から新たな治療の最前線へ",
+        "summary_ja": "卵巣老化は女性の生殖能力を左右する主要因であり、卵母細胞の量と質の進行性かつほぼ不可逆的な低下を特徴とする。早期卵巣老化（EOA）は一部の女性に影響し、不妊や流産、早期閉経の一因となる。本総説は、卵巣老化の生物学、診断、管理に関する現状の知見をまとめたものである。卵巣老化は、原始卵胞プールの枯渇と卵母細胞の発生能低下という相互に関連するが独立した二つの過程によって進行し、その背景にはミトコンドリア・代謝機能障害、ゲノム・減数分裂不安定性、細胞老化、炎症、卵巣微小環境の老化などが関与する。臨床評価では、AMH、AFC、FSHなどの代理マーカーが用いられるが、これらは卵巣予備能を反映するものの卵母細胞の質を直接測定できず、自然妊娠能や出生率を予測するものではない。管理は妊孕性温存と生殖補助医療の最適化が中心であり、薬理学的補助療法の効果は限定的である。新たな実験的戦略（in vitro活性化、"
+      },
+      {
+        "title": "Surface protein profiling reveals depot-specific features of subcutaneous and visceral adipose progenitor cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42657043/",
+        "abstract": "White adipose tissue is organized into anatomically and functionally distinct depots, yet the mechanisms by which intrinsic differences between subcutaneous and visceral adipose progenitor cells (APCs) contribute to depot-specific inflammatory and remodeling properties remain unresolved. Here, by directly comparing APCs isolated from subcutaneous and visceral fat, we identify distinct surface protein programs underlying their divergent functional properties. Subcutaneous APCs exhibited elevated expression of galectin-9, CD44, and CD63, defining functional programs governing immune modulation, adipogenesis, and exosome-mediated stress adaptation. Functional assays revealed that galectin-9 promotes an anti-inflammatory phenotype, CD44 quantitatively modulates adipogenic differentiation, and CD63 enhances exosome release and confers resistance to iron-induced cellular stress. Notably, several depot-specific features were not evident at the transcriptomic level, underscoring the importance of surface protein-level regulation. Together, our findings demonstrate that APC surface protein signatures distinguish subcutaneous from visceral fat, establishing a mechanistic link between depot identity, tissue remodeling, and metabolic disease susceptibility.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbrep.2026.102750",
+        "keyword": "Exosomes",
+        "title_ja": "表面タンパク質プロファイリングにより、皮下および内臓脂肪前駆細胞の部位特異的特徴が明らかになる。",
+        "summary_ja": "白色脂肪組織は解剖学的・機能的に異なるデポに分かれるが、皮下と内臓の脂肪前駆細胞（APC）の内在的差異がデポ特異的な炎症・リモデリング特性にどう寄与するかは未解明だった。本研究では、皮下と内臓由来APCを直接比較し、その機能的差異を支える表面タンパク質プログラムを同定した。皮下APCはガレクチン-9、CD44、CD63を高発現し、それぞれ免疫調節、脂肪生成、エクソソーム介在性ストレス適応に関与した。機能解析により、ガレクチン-9は抗炎症表現型を促進し、CD44は脂肪生成分化を量的に調節し、CD63はエクソソーム放出を増強して鉄誘導性細胞ストレスへの耐性を付与することが示された。注目すべきは、これらのデポ特異的特性の一部はトランスクリプトームレベルでは検出されず、表面タンパク質レベルの調節の重要性が示された。以上より、APC表面タンパク質シグネチャは皮下と内臓脂肪を区別し、デポ同一性、組織リ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n**1. 血清エクソソームによる小児結核のバイオマーカー探索**\n小児結核は診断が難しく、非侵襲的なバイオマーカーが求められています。血清エクソソームのプロテオーム解析により、感染プロファイルの差異を特定し、早期診断への道を開く点で極めて重要です。今後の臨床応用が期待されます。\n\n**2. エクソソーム由来piR-823の超高感度検出プラットフォーム**\n大腸がんのバイオマーカーであるpiR-823を、カスケードCHA-CRISPR/Cas12aと光電気化学法を組み合わせて超高感度に検出する技術です。極低存在量の検体でも高感度な検出が可能となり、液体 biopsyによるがん早期診断の実用化に貢献する可能性があります。\n\n**3. 抗芽エクソソームによる末梢神経修復**\n末梢神経損傷後の修復には前再生血管ニッチが必須ですが、その形成機構は不明でした。本研究は、抗芽血液由来エクソソームが内皮細胞を活性化し、神経修復を促進することを示しました。再生医療への応用が期待される画期的な知見です。\n\n**4. 卵巣老化の生物学的制約と治療フロンティア**\n卵巣老化は女性の生殖寿命を決定する要因であり、早期卵巣老化のメカニズム解明と治療法開発は喫緊の課題です。本総説は、生物学から診断・管理までの現状を整理し、今後の治療戦略の基盤を提供します。\n\n**5. 脂肪前駆細胞のデポ特異的表面プロファイル**\n皮下と内臓脂肪の機能的差異は代謝疾患に直結します。本研究は、脂肪前駆細胞の表面タンパク質プロファイリングにより、デポ特異的な炎症・リモデリング特性の分子基盤を解明しました。肥満関連疾患の新規治療標的の同定につながる重要な成果です。"
+}

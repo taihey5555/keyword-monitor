@@ -1,0 +1,176 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "SPARC Drives Podocyte Mitochondrial Damage and Ferroptosis in Diabetic Kidney Disease Following Klotho Deficiency.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42666118/",
+        "abstract": "Diabetic kidney disease (DKD) is a leading cause of end-stage renal disease, with podocyte injury driving disease progression. Mitochondrial dysfunction and ferroptosis contribute to podocyte loss, yet the underlying molecular mechanisms remain incompletely understood. The anti-aging protein Klotho protects podocytes, but how Klotho deficiency links to mitochondrial dysfunction and ferroptosis is unclear. Here, we identify SPARC, a matricellular protein upregulated in podocytes, as a key mediator linking Klotho deficiency to mitochondrial injury and ferroptosis. In human DKD biopsies and genetically modified mice, including Klotho-deficient, Klotho-overexpressing, and SPARC knockout mice, reduced Klotho expression correlated with ferroptosis markers (GPX4, SLC7A11, P53, 4-HNE, and ACSL4) and mitochondrial abnormalities. Mechanistically, Klotho deficiency activated PKCα, leading to ubiquitination-mediated degradation of the transcription factor CUX1. Loss of CUX1 derepressed SPARC, which activated TGFβ-RII/Smad signaling, leading to mitochondrial dysfunction and ferroptosis. In vitro, SPARC knockdown or CUX1 overexpression preserved mitochondrial structure and ferroptosis defenses under high glucose, whereas SPARC overexpression alone induced ferroptosis even in normoglycemic conditions. These findings establish a Klotho/PKCα/CUX1/SPARC/TGFβ-RII axis as a critical regulator of podocyte mitochondrial dysfunction and ferroptosis. Beyond DKD, SPARC knockout also protected podocytes in ischemia-reperfusion injury and unilateral ureteral obstruction models, suggesting that SPARC may have broader implications in kidney injury and the progression toward chronic kidney disease.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.77202",
+        "keyword": "Klotho",
+        "title_ja": "SPARCはKlotho欠乏下の糖尿病性腎臓病においてポドサイトのミトコンドリア障害とフェロトーシスを促進する",
+        "summary_ja": "糖尿病腎臓病（DKD）は末期腎不全の主要因であり、ポドサイト障害が病態進行を促進する。ミトコンドリア機能障害とフェロトーシスがポドサイト喪失に関与するが、分子機構は未解明である。抗老化タンパク質Klothoはポドサイトを保護するが、その欠乏とミトコンドリア障害・フェロトーシスの関連は不明だった。本研究では、ポドサイトで発現上昇するマトリセルラータンパク質SPARCが、Klotho欠乏をミトコンドリア障害とフェロトーシスに結びつける鍵因子であることを同定した。ヒトDKD生検と遺伝子改変マウス（Klotho欠損、過剰発現、SPARCノックアウト）で、Klotho低下はフェロトーシスマーカー（GPX4、SLC7A11、P53、4-HNE、ACSL4）とミトコンドリア異常と相関した。機構として、Klotho欠乏はPKCαを活性化し、転写因子CUX1のユビキチン化分解を誘導。CUX1喪失はSPARC"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "A Microfluidic Platform for Studying Roles of Mechanical Compression in Tumor-Immune Cell Interactions in a 3D Extracellular Matrix.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42667217/",
+        "abstract": "Mechanical forces significantly influence the ability of immune cells to kill tumor cells in the context of cell-based immunotherapy. To kill tumor cells, immune cells must exert forces on the target cell and form an immune synapse, through which cytotoxic molecules -including granzyme B-are delivered. Despite their importance, how mechanical cues can be leveraged to enhance immune-mediated killing remains poorly understood. This knowledge gap is partly due to the lack of tools capable of providing well-controlled mechanical stress to cell cultures in a physiologically realistic environment. Here, we describe a microfluidic compression device that can apply static or dynamic compression to tumor spheroids embedded in extracellular matrix (ECM) while enabling real-time imaging of tumor-immune interactions via optical microscopy. The microfluidic platform consists of 12 compartments (6 control and 6 functional). Each compartment contains a cell chamber positioned directly beneath the pressure control unit. Spheroids embedded in ECM are placed within the cell chamber. Using this platform, we investigated the killing efficiency of Natural Killer (NK) cells against breast tumor spheroids (MCF-7) under defined mechanical compression. The results showed that NK cells remained the primary drivers of tumor spheriods death regrardless of mechanical compression in 1.5 mg/mL collagen. Therefore, suggesting that NK cells can maintain their anti-tumor activity under compressive stress. These findings demonstrate the utility of this platform for investigating the role of mechanical forces in tumor-immune interactions. Ongoing studies are identifying the molecular mechanisms that allow immune cells to adapt to compressive stress. Insights gained from these studies may reveal a promising therapeutic avenue.",
+        "source": "PubMed",
+        "doi": "10.3791/72929",
+        "keyword": "NK cell therapy",
+        "title_ja": "3D細胞外マトリックスにおける腫瘍－免疫細胞相互作用に対する力学的圧縮の役割を研究するためのマイクロ流体プラットフォーム",
+        "summary_ja": "本論文は、細胞ベースの免疫療法における機械的圧縮が免疫細胞の腫瘍殺傷能に与える影響を研究するためのマイクロ流体プラットフォームを紹介する。免疫細胞は標的細胞に力を加え、免疫シナプスを形成してグランザイムBなどの細胞毒性分子を送達するが、機械的刺激の活用方法は未解明である。既存ツールの限界を踏まえ、筆者らは細胞外マトリックス（ECM）内の腫瘍スフェロイドに静的・動的圧縮を適用し、光学顕微鏡でリアルタイム観察可能なデバイスを開発した。本プラットフォームは12区画（対照6、機能6）から成り、各区画の細胞チャンバー直下に圧力制御ユニットを配置する。ECMに包埋したスフェロイドをチャンバー内に設置し、1.5 mg/mLコラーゲン条件下で乳癌スフェロイド（MCF-7）に対するナチュラルキラー（NK）細胞の殺傷効率を評価した。結果、機械的圧縮の有無にかかわらずNK細胞が腫瘍死の主要因子であり、圧縮ストレ"
+      },
+      {
+        "title": "Bioengineered cell therapies for pediatric solid tumors: unmet needs and a measurement-integrated approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42665002/",
+        "abstract": "Pediatric solid tumors continue to pose a major therapeutic challenge, with survival gains lagging behind those achieved in pediatric hematologic malignancies. While traditional approaches have focused on dose escalation and intensification of systemic therapies to improve survival, this strategy is often limited by significant short- and long-term morbidity from intensive multimodal treatment. Because children have developing organs and decades of life ahead, therapeutic strategies must balance durable tumor control with preservation of neurodevelopment, organ function, and quality of life. Immunotherapy has generated significant interest as an alternative to dose escalation; however, clinical translation in pediatric solid tumors has been limited by antigen heterogeneity, tumor plasticity, immune-cold or immune-excluded phenotypes, and a profoundly immunosuppressive tumor microenvironment. Bioengineered cellular therapies, particularly chimeric antigen receptor (CAR) T cells and CAR-modified natural killer (CAR NK) cells, provide a modular platform to address these barriers through synthetic receptor design, multi-antigen targeting, controlled activation, and improved trafficking to anatomically restricted sites such as the brain. However, engineering advances alone are unlikely to achieve durable benefit without parallel integration of quantitative in vivo monitoring capable of reporting biodistribution, persistence, and functional engagement. Non-invasive imaging and measurement-enabled approaches can provide mechanistic insight into therapeutic performance, discriminate between delivery failure and functional dysfunction, and support rational iteration of construct design, dosing, and route of administration. In this perspective, we review the current status of CAR T and CAR NK therapies in pediatric solid malignancies, outline key biological and engineering challenges, and propose a pediatric-centered development framework that integrates controllable cell engineering with quantitative, non-invasive assessment of in vivo behavior. By embedding measurement into the therapeutic design loop and prioritizing long-term safety and developmental outcomes alongside efficacy, next-generation engineered cell therapies may evolve toward adaptable, precision-guided systems capable of improving both survival and quality of life for children.",
+        "source": "PubMed",
+        "doi": "10.1088/2516-1091/aea045",
+        "keyword": "NK cell therapy",
+        "title_ja": "小児固形腫瘍に対するバイオエンジニアリング細胞療法：満たされざるニーズと測定統合的アプローチ",
+        "summary_ja": "小児固形腫瘍は依然として治療上の大きな課題であり、血液腫瘍に比べ生存率の改善が遅れている。従来の治療強化は短期・長期の合併症を伴うため、免疫療法が注目されているが、抗原不均一性や免疫抑制性の微小環境により効果が限定的である。そこで、キメラ抗原受容体（CAR）T細胞やCARナチュラルキラー（NK）細胞などのバイオエンジニアリング細胞療法が、合成受容体設計や多抗原標的化、脳などの解剖学的制限部位への移行改善を通じて、これらの障壁に対処するモジュール型プラットフォームとして期待される。しかし、工学的進歩だけでは不十分であり、生体内分布や持続性、機能的関与を報告する定量的な非侵襲的イメージングの統合が不可欠である。本稿では、小児固形悪性腫瘍におけるCAR T/NK療法の現状を概説し、生物学的・工学的課題を整理する。さらに、制御可能な細胞工学と定量的評価を組み合わせた小児中心の開発フレームワークを提"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "The MEG3/miR-133b regulatory axis in exosomes influences macrophage responses to drug-resistant mycobacterium tuberculosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42667409/",
+        "abstract": "Drug-resistant tuberculosis remains a major global health challenge, with spinal involvement causing substantial morbidity. Exosomes and non-coding RNAs (lncRNAs and miRNAs) are increasingly recognized as mediators of intercellular communication and immune modulation during mycobacterial infection, yet their specific roles in drug-resistant contexts are incompletely understood. To investigate the potential interaction between exosomal lncRNA MEG3 and miR-133b and its influence on macrophage proliferation and apoptosis in an in vitro model of drug-resistant Mycobacterium tuberculosis (MTB) infection. High-throughput miRNA sequencing was performed on serum from 15 patients with spinal tuberculosis (8 drug-resistant, 7 drug-sensitive). Differential expression analysis used DESeq2 with Benjamini-Hochberg FDR correction; GO and KEGG enrichment were assessed via clusterProfiler. Exosomes were isolated from RAW264.7 macrophages infected with drug-sensitive or drug-resistant MTB (MOI = 5) by differential ultracentrifugation and characterized by transmission electron microscopy and Western blotting for CD9/CD63. MEG3 levels in exosomes were quantified by RT-qPCR. Exosome uptake was evaluated with PKH67 labeling and fluorescence microscopy. Stable miR-133b overexpression or silencing lines were infected with MTB strains and analyzed by MTT assay (proliferation), TUNEL/flow cytometry (apoptosis), Western blot/RT-qPCR (Bcl-2/Bax), and dual-luciferase reporter assay (MEG3-miR-133b binding). miR-133b was significantly downregulated in drug-resistant versus drug-sensitive serum (adjusted P = 0.0008, log₂ fold change =  - 2.13) and enriched in pathways involving enzyme activity, binding, metabolism, signal transduction, and immunity. Exosomes from drug-resistant MTB-infected macrophages contained higher MEG3 levels and were internalized by recipient macrophages. In infected cells, miR-133b overexpression inhibited proliferation, increased apoptosis, decreased Bcl-2, and increased Bax; silencing produced opposite effects. Luciferase assays confirmed direct binding of miR-133b to MEG3, while qPCR indicated a complex, drug-resistance-context-dependent regulatory relationship. These exploratory findings support a potential regulatory interaction between exosomal MEG3 and miR-133b that influences macrophage proliferation and apoptosis during drug-resistant MTB infection in vitro. Although the results provide preliminary mechanistic evidence, additional biochemical, cellular, and in vivo validation will be required before definitive mechanistic conclusions or therapeutic implications can be established. These exploratory findings support a potential regulatory interaction between exosomal MEG3 and miR-133b that modulates macrophage fate in drug-resistant MTB infection in vitro. The axis appears context-specific. Validation in primary human macrophages, animal models, and larger clinical cohorts is required before any biomarker or therapeutic implications can be considered.",
+        "source": "PubMed",
+        "doi": "10.1007/s00203-026-05143-7",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームにおけるMEG3/miR-133b制御軸は、薬剤耐性結核菌に対するマクロファージの応答に影響を与える。",
+        "summary_ja": "薬剤耐性結核は世界的な健康課題であり、特に脊椎病変は重篤な合併症を伴う。本研究は、薬剤耐性結核菌感染におけるエクソソーム内のlncRNA MEG3とmiR-133bの相互作用がマクロファージの増殖・アポトーシスに与える影響を検討した。脊椎結核患者15名（薬剤耐性8名、感受性7名）の血清を用いたmiRNAシーケンス解析で、miR-133bは耐性群で有意に低下（調整P=0.0008、log₂FC=-2.13）し、酵素活性や免疫関連経路に関与した。RAW264.7細胞に薬剤耐性・感受性菌を感染させてエクソソームを単離したところ、耐性菌由来エクソソームでMEG3発現が上昇し、受容マクロファージに取り込まれた。miR-133b過剰発現は増殖抑制・アポトーシス促進・Bcl-2低下・Bax上昇を引き起こし、ノックダウンでは逆の効果を示した。デュアルルシフェラーゼアッセイでMEG3とmiR-133bの直接"
+      },
+      {
+        "title": "Cancer-Associated Fibroblasts Promote Glucose Metabolic Reprogramming and Progression of Triple-Negative Breast Cancer via Exosomal circFAD104-Mediated Intercellular Communication.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42667179/",
+        "abstract": "Triple-negative breast cancer (TNBC) is characterized by high metastatic tendency and poor prognosis, largely driven by dynamic crosstalk between cancer cells and the tumor microenvironment (TME). Cancer-associated fibroblasts (CAFs) are a major component of the TME, yet their functional contributions to TNBC progression remain incompletely understood. In this study, we isolated exosomes from patient-derived CAFs and normal fibroblasts (NFs), and profiled their circRNA content using RNA sequencing. circFAD104 was significantly enriched in CAFs and their derived exosomes, with elevated stromal expression confirmed by qRT-PCR and in situ hybridization (ISH). PKH26 labeling demonstrated that CAF-derived exosomes efficiently deliver circFAD104 to TNBC cells, where it enhances cancer stemness, metastasis, and glycolysis. Mechanistically, circFAD104 acts as a molecular scaffold to promote the interaction between the E3 ubiquitin ligase MARCHF8 and its substrate PGM1, facilitating MARCHF8-mediated K48-linked ubiquitination and subsequent proteasomal degradation of PGM1. Loss of PGM1 redirects glucose flux from glycogen synthesis toward glycolysis, thereby fueling tumor progression. Clinically, high circFAD104 levels were correlated with poorer overall survival in breast cancer patients. These findings uncover a CAF-exosomal circFAD104 axis that reprograms glucose metabolism to drive TNBC progression via the circFAD104/MARCHF8/PGM1 pathway, highlighting its potential as a stroma-targeted biomarker and prognostic predictor.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.77504",
+        "keyword": "Exosomes",
+        "title_ja": "がん関連線維芽細胞は、エクソソーム由来circFAD104を介した細胞間コミュニケーションにより、トリプルネガティブ乳がんのグルコース代謝リプログラミングと進行を促進する。",
+        "summary_ja": "トリプルネガティブ乳癌（TNBC）は転移傾向が高く予後不良で、腫瘍微小環境（TME）との相互作用が進行に寄与する。本研究では、患者由来のがん関連線維芽細胞（CAFs）と正常線維芽細胞（NFs）からエクソソームを単離し、circRNAを解析した。circFAD104はCAFsおよびそのエクソソームに有意に富化し、qRT-PCRとISHで間質での高発現を確認した。PKH26標識により、CAF由来エクソソームがcircFAD104をTNBC細胞へ効率的に輸送し、がん幹細胞性、転移、解糖を亢進させることが示された。機構的には、circFAD104は足場分子としてE3ユビキチンリガーゼMARCHF8と基質PGM1の相互作用を促進し、K48結合型ユビキチン化を介してPGM1をプロテアソーム分解に導く。PGM1喪失はグルコース代謝をグリコーゲン合成から解糖へ転換し、腫瘍進行を促進する。臨床的には、cir"
+      },
+      {
+        "title": "Engineered exosomes with RNA-motif short hairpin RNA loading and Rab4-boosted production enable controlled ferroptosis in endometrial carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42666679/",
+        "abstract": "Therapeutic challenges in endometrial carcinoma (EC) arise from the limited efficacy and toxicity of current treatments. Although exosome-based RNA interference shows promise, its clinical translation is hindered by inefficient cargo loading, low yields, and poor tumor targeting. We have engineered an exosome platform (cRGD-ExoM) that integrates the following innovations: Firstly, RNA motifs enable the enrichment of shRNA loading by over 80-fold for targeting of ferroptosis regulators (glutathione peroxidase 4/ferroptosis suppressor protein 1/ferritin heavy chain [GPX4/FSP1/FTH]). Secondly, Rab4 silencing amplifies exosome biogenesis via dysregulated endosomal recycling, enhancing tumor cell uptake by impairing endosome maturation-a dual-action mechanism that boosts both production and delivery. Thirdly, cRGD peptides confer αvβ3-integrin-specific targeting. cRGD-ExoM induces potent ferroptosis by increasing lipid peroxidation and downregulating GPX4/FSP1/FTH, significantly suppressing EC tumor growth in vivo without causing systemic toxicity. The platform's modular design allows for spatiotemporal control of loading, production, and targeting, demonstrating its scalability. This study provides new insights into the precision treatment of endometrial cancer by developing engineered, multifunctional, exosome-based therapeutic drugs that combine mechanism precision and translational feasibility in tumor treatment.",
+        "source": "PubMed",
+        "doi": "10.1002/btm2.70163",
+        "keyword": "Exosomes",
+        "title_ja": "RNAモチーフ短ヘアピンRNAを搭載し、Rab4により産生を亢進させた改変エクソソームによる子宮内膜癌の制御性フェロトーシス誘導",
+        "summary_ja": "子宮内膜癌（EC）治療は、既存療法の効果限界と毒性が課題である。エクソソームベースのRNA干渉は有望だが、カーゴ搭載効率、産生量、腫瘍標的性に問題があった。本研究では、cRGD-ExoMという工学エクソソームプラットフォームを開発した。第一に、RNAモチーフによりフェロトーシス制御因子（GPX4/FSP1/FTH）を標的とするshRNAの搭載を80倍以上に濃縮。第二に、Rab4サイレンシングがエンドソームリサイクリングを乱し、エクソソーム生合成を増幅し、エンドソーム成熟障害を介して腫瘍細胞取り込みを向上させる二重作用を発揮。第三に、cRGDペプチドがαvβ3インテグリン特異的標的化を付与。cRGD-ExoMは脂質過酸化を増加させGPX4/FSP1/FTHを低下させて強力なフェロトーシスを誘導し、in vivoでEC腫瘍増殖を有意に抑制し、全身毒性を示さなかった。本プラットフォームはモジュー"
+      },
+      {
+        "title": "Targeted Lactic Acid Regulation via Engineered Exosomes for Synergistic Metabolic and Photodynamic Tumor Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42665938/",
+        "abstract": "Tumor cells exhibit a hyper-glycolytic phenotype, resulting in massive lactic acid (LA) production that acidifies the tumor microenvironment (TME) and fosters immunosuppression. Current lactate-targeted therapies often lack synergistic dual-directional regulation. Herein, we engineer an exosomal nanoplatform, PpIX/siRNA@EXO-LOD, to simultaneously disrupt intra- and extracellular LA homeostasis, thereby enabling synergistic metabolic and photodynamic therapy (PDT). The system integrates three key components: protoporphyrin IX (PpIX) for PDT, siRNA targeting monocarboxylate transporter 4 (MCT4) for intracellular metabolic interference, and surface-displayed lactate oxidase (LOD) for extracellular catalytic starvation. Upon epithelial cell adhesion molecule (EpCAM)-mediated targeting, the nanovesicle triggers a cascade of synergistic effects. Crucially, siRNA-mediated silencing of MCT4 induces lethal intracellular acidosis, leading to significant intracellular H",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.71659",
+        "keyword": "Exosomes",
+        "title_ja": "遺伝子工学的エクソソームによる標的乳酸調節を介した、代謝・光線力学併用腫瘍治療",
+        "summary_ja": "腫瘍細胞は高度な解糖系表現型を示し、大量の乳酸（LA）を産生して腫瘍微小環境（TME）を酸性化し、免疫抑制を促進する。既存の乳酸標的療法は、相乗的な双方向調節に欠けることが多い。本研究では、エクソソームナノプラットフォームPpIX/siRNA@EXO-LODを設計し、細胞内外のLA恒常性を同時に破壊することで、代謝療法と光線力学療法（PDT）の相乗効果を実現した。本システムは、PDT用のプロトポルフィリンIX（PpIX）、モノカルボン酸トランスポーター4（MCT4）を標的とするsiRNA（細胞内代謝干渉）、および表面提示型乳酸オキシダーゼ（LOD）（細胞外触媒的飢餓）の3要素を統合する。上皮細胞接着分子（EpCAM）を介した標的化により、ナノ小胞は一連の相乗効果を誘発する。特に、siRNAによるMCT4のサイレンシングは致死的な細胞内アシドーシスを引き起こし、細胞内H⁺濃度を有意に上昇させ"
+      },
+      {
+        "title": "Engineered exosomes for CRISPR/Cas delivery to overcome oncogene-driven drug resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42665203/",
+        "abstract": "Engineered exosomes are emerging as biocompatible nanocarriers for delivering CRISPR/Cas components to resistant tumor cells, enabling targeted disruption of oncogenic drivers and resistance-associated pathways. Engineered exosomes offer several delivery-platform advantages, including biocompatibility, membrane-mediated cargo protection, programmable tumor targeting, and potential tissue penetration. Selection of the CRISPR modality, Cas9 ribonucleoprotein, mRNA, base editor, or prime editor, depends on payload size, stability, editing duration, endosomal escape, and nuclear delivery requirements. Therapeutically, these systems may disrupt oncogenic drivers, inhibit resistance pathways, restore tumor-suppressor activity, and re-sensitize tumors to targeted therapy, chemotherapy, or immunotherapy. Clinical translation will require scalable manufacturing, reproducible cargo loading, standardized characterization, validated potency assays, off-target control, and clearly defined regulatory pathways. The goal of this review is to outline a realistic pathway featuring proof-of-concept research, through discoveries to the creation of manufacturable, safe, and effective exosome/CRISPR therapeutics that can trigger durable therapeutic responses in resistant malignancies.",
+        "source": "PubMed",
+        "doi": "10.1016/j.yexcr.2026.115159",
+        "keyword": "Exosomes",
+        "title_ja": "遺伝子工学によるエクソソームを用いたCRISPR/Cas送達による、がん遺伝子駆動型薬剤耐性の克服",
+        "summary_ja": "人工設計されたエクソソームは、耐性腫瘍細胞へのCRISPR/Cas送達における生体適合性ナノキャリアとして注目されている。これにより、発癌ドライバーや耐性関連経路の標的破壊が可能となる。エクソソームは、生体適合性、膜によるカーゴ保護、プログラム可能な腫瘍標的化、組織浸透性などの利点を持つ。CRISPRモダリティ（Cas9リボ核タンパク質、mRNA、塩基エディター、プライムエディター）の選択は、ペイロードサイズ、安定性、編集持続時間、エンドソーム脱出、核送達要件に依存する。治療的には、発癌ドライバーの破壊、耐性経路の阻害、腫瘍抑制因子の回復、標的療法・化学療法・免疫療法への再感作が期待される。臨床応用には、スケーラブルな製造、再現可能なカーゴローディング、標準化された特性評価、検証済みの効力アッセイ、オフターゲット制御、明確な規制経路が必要である。本総説は、概念実証研究から製造可能で安全かつ"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "GW4869 Depletes Macrophages and Increases Number of Extracellular Vesicles in Murine Peritoneal Cavity Fluid.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42666482/",
+        "abstract": "Pharmacological strategies to modulate extracellular vesicle (EV) release in vivo are gaining traction, yet their broader effects on local immune microenvironments remain unclear. In this study, we assessed how repeated intraperitoneal (i.p.) dosing of the neutral sphingomyelinase inhibitor GW4869 reshapes the peritoneal cavity. GW4869 administration triggered a strong local inflammatory reaction, was accompanied by a selective depletion of resident peritoneal macrophages and was associated with higher EV counts 24 h after the final injection. Targeted macrophage depletion in the absence of GW4869 produced a comparable increase in EV levels, implicating shifts in cellular composition and inflammatory state as key drivers of EV accumulation. By applying single-particle flow cytometry, we differentiated small EV subsets from ApoB+ lipoproteins and uncovered substantial heterogeneity within CD9+ particles, ruling out lipoprotein co-detection as the main explanation for the elevated EV signal. Overall, our results highlight that GW4869 treatment can reshape the local immune landscape and that such context-dependent changes must be considered when using this compound to infer EV biogenesis in vivo.",
+        "source": "PubMed",
+        "doi": "10.1002/jex2.70169",
+        "keyword": "Exosomes",
+        "title_ja": "GW4869はマウス腹腔液中のマクロファージを減少させ、細胞外小胞の数を増加させる。",
+        "summary_ja": "GW4869は細胞外小胞（EV）放出を調節する薬理学的ツールとして注目されるが、局所免疫環境への影響は不明である。本研究では、マウス腹腔内へのGW4869反復投与が腹膜腔をどのように変化させるかを評価した。投与により強い局所炎症反応が誘発され、常在腹腔マクロファージが選択的に減少し、最終投与24時間後にEV数が増加した。GW4869非存在下でのマクロファージ標的除去でも同様のEV増加が認められ、細胞構成の変化と炎症状態がEV蓄積の主要因であることが示唆された。単一粒子フローサイトメトリーを用いて、小型EVサブセットをApoB+リポ蛋白から区別し、CD9+粒子内に大きな不均一性を発見した。これにより、リポ蛋白の同時検出がEVシグナル増加の主因ではないことが確認された。結論として、GW4869治療は局所免疫環境を再構成し、in vivoでのEV生合成を推測する際には、このような状況依存的な変化"
+      },
+      {
+        "title": "BAP31 Drives Cartilage Calcification through Disruption of Autophagosome-Lysosome Fusion in Osteoarthritis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42666098/",
+        "abstract": "Pathological cartilage calcification represents a pivotal pathological alteration in osteoarthritis (OA), yet its underlying mechanisms remain poorly understood. Exosomes are involved in facilitating calcification, and their biogenesis may be linked to autophagy disruption. However, whether autophagy disruption regulates exosome-mediated calcification in OA remains to be elucidated. Here, B-cell receptor-associated protein 31 (BAP31) was identified as a key mechanosensitive regulator bridging this gap. Mechanical stimulation activated BAP31 in chondrocytes. Protein docking, coimmunoprecipitation assays, and competitive pull-down assays demonstrated that activated BAP31 competes with autophagy-related 14 (ATG14) for binding to syntaxin 17 (STX17), thereby disrupting the STX17-ATG14 complex, which is essential for autophagosome‒lysosome fusion. This disruption led to the accumulation of autophagosomes, which in turn drove the release of exosomes that facilitated pathological cartilage calcification. Critically, intra-articular delivery of adeno-associated virus-mediated BAP31 shRNA restored autophagosome‒lysosome fusion, suppressed exosome release, and attenuated cartilage calcification and degeneration in a rat OA model. Collectively, these findings identify BAP31 as a mechanical stress-responsive switch that couples impaired autophagy to exosome-mediated calcification, highlighting its potential as a therapeutic target for OA.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.202520140",
+        "keyword": "Exosomes",
+        "title_ja": "BAP31を介したオートファゴソーム-リソソーム融合の破綻が変形性関節症における軟骨石灰化を促進する",
+        "summary_ja": "本論文は、変形性関節症（OA）における軟骨の病理学的石灰化の新規メカニズムを解明した。B細胞受容体関連タンパク質31（BAP31）が機械的刺激に応答する鍵因子として同定された。機械的刺激により軟骨細胞でBAP31が活性化されると、タンパク質ドッキングや共免疫沈降、競合的プルダウン解析により、BAP31がオートファジー関連タンパク質14（ATG14）と競合してシンタキシン17（STX17）に結合し、STX17-ATG14複合体の形成を阻害することが示された。この複合体はオートファゴソームとリソソームの融合に必須であり、その破綻によりオートファゴソームが蓄積し、エクソソーム放出が促進されて病的軟骨石灰化が誘導された。さらに、ラットOAモデルにおいて、関節内投与したアデノ随伴ウイルス媒介BAP31 shRNAがオートファゴソーム-リソソーム融合を回復させ、エクソソーム放出を抑制し、軟骨石灰化と変"
+      },
+      {
+        "title": "Therapeutic Efficacy of Co-administered WJ-MSCs and Exosomes in a Rat Pulmonary Fibrosis Model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42665424/",
+        "abstract": "Pulmonary fibrosis lacks therapies capable of reversing established fibrosis. Wharton's jelly-derived mesenchymal stem cells (WJ-MSCs) show anti-fibrotic promise but are limited by poor engraftment in the fibrotic microenvironment. Evidence from tissue repair models suggests co-delivery of MSC-derived exosomes improves MSC engraftment. Whether WJ-MSCs and their own exosomes produce complementary anti-fibrotic effects in pulmonary fibrosis remains unknown. This study preliminarily evaluated this hypothesis ",
+        "source": "PubMed",
+        "doi": "10.21873/invivo.14424",
+        "keyword": "Exosomes",
+        "title_ja": "WJ-MSCsとエクソソームの併用投与によるラット肺線維症モデルにおける治療効果",
+        "summary_ja": "本論文は、肺線維症モデルラットにおけるWJ-MSCs（Whartonゼリー由来間葉系幹細胞）とそのエクソソームの併用投与の治療効果を検討した予備的研究である。肺線維症は既存の線維化を逆転させる治療法がなく、WJ-MSCsは抗線維化作用を示すが、線維化微小環境での生着率が低いという課題がある。組織修復モデルでは、MSC由来エクソソームの同時投与がMSCの生着を改善することが示されている。本研究では、WJ-MSCsとそのエクソソームの併用が相補的な抗線維化効果を持つかどうかを評価した。結果は、併用投与が単独投与と比較して線維化抑制効果を高める可能性を示唆し、今後の治療戦略として有望であることを示した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Placental Extracellular Vesicles in Preeclampsia: Molecular Cargo, Pathophysiological Roles, and Emerging Diagnostic and Therapeutic Frontiers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42667637/",
+        "abstract": "Preeclampsia (PE) affects 2%-8% of pregnancies globally and remains a leading cause of maternal and perinatal mortality. A central clinical gap is the absence of analytically and clinically validated non-invasive biomarkers capable of predicting PE before symptom onset. Current clinical tools, including angiogenic markers (sFlt-1/PlGF ratio) and first-trimester risk algorithms, have limitations that underscore the need for complementary approaches. Placental extracellular vesicles (EVs)-small particles released predominantly by syncytiotrophoblast cells-are implicated across PE pathophysiology. Circulating total small EV (sEV) concentrations, typically 30-150 nm and isolated by differential centrifugation or size-exclusion chromatography, are measurably elevated in maternal circulation from the first trimester in women who develop PE; this operational, size- and isolation-based definition does not by itself establish placental origin, which requires placental-attribution markers (e.g., PLAP, syncytins) discussed in Section 2. Their molecular cargo, encompassing microRNAs (miR-210, miR-15a-5p, miR-520a-5p, miR-146a-5p, miR-93-5p), anti-angiogenic proteins (sFlt-1, sEng), and hypoxia markers (HIF-1α), reflects placental pathophysiology. Recent evidence has expanded the known pathophysiological reach of placental EVs: beyond endothelial dysfunction and angiogenic imbalance, they are now implicated in blood-brain barrier disruption via claudin-5 (CLDN5) downregulation, supporting a plausible mechanistic link to neurological complications of PE. Proteomic profiling of EV fractions identifies molecularly distinct PE subtypes, enabling investigational subtype discrimination beyond current clinical criteria. Recent in vivo proof-of-concept evidence in a rat model demonstrates that amniotic fluid-derived EV-associated miR-146a-5p ameliorates PE phenotypes, opening a preclinical therapeutic avenue. This narrative review synthesises evidence from a structured PubMed/MEDLINE and Scopus search covering 2017-March 2025 on placental EV biogenesis, cargo heterogeneity, immune modulation, organ-specific pathological consequences, and translational potential as first-trimester liquid biopsy candidates. Methodological standardization challenges and future research priorities are discussed.",
+        "source": "PubMed",
+        "doi": "10.1111/aji.70315",
+        "keyword": "sEVs",
+        "title_ja": "子癇前症における胎盤細胞外小胞：分子カーゴ、病態生理学的役割、および新たな診断・治療フロンティア",
+        "summary_ja": "子癇前症（PE）は全世界の妊娠の2〜8%に影響し、母体・周産期死亡の主要因である。症状発症前の予測を可能にする非侵襲的バイオマーカーが欠如しており、既存のsFlt-1/PlGF比や初学期リスクアルゴリズムには限界がある。胎盤由来細胞外小胞（EV）は、合胞体栄養膜細胞から放出される小型粒子で、PE病態に関与する。総小型EV（sEV、30〜150nm）濃度は、PE発症女性の初学期から母体血中で上昇するが、胎盤由来の確認にはPLAPやシンシチンなどのマーカーが必要である。分子カーゴにはmiR-210、miR-15a-5p、miR-520a-5p、miR-146a-5p、miR-93-5p、抗血管新生因子（sFlt-1、sEng）、低酸素マーカー（HIF-1α）が含まれる。近年、胎盤EVは内皮障害に加え、claudin-5（CLDN5）低下を介した血液脳関門破綻にも関与し、PEの神経学的合併症との"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、本日の論文・記事から特に注目すべき5つのトピックをまとめます。\n\n**1. Klotho欠乏と糖尿病腎症の新規メカニズム**\nSPARCがKlotho欠乏下でポドサイトのミトコンドリア障害とフェロトーシスを誘導する機序を解明。糖尿病腎症の進行抑制に向けた新規治療標的として極めて重要です。\n\n**2. 工学エクソソームによる子宮内膜癌のフェロトーシス制御**\nRNAモチーフ搭載shRNAとRab4過剰発現により、カーゴ搭載効率と産生量を改善したcRGD-ExoMプラットフォームを開発。腫瘍標的性と治療効果を両立する画期的アプローチです。\n\n**3. 乳酸制御と光線力学療法の相乗効果**\nPpIX/siRNA搭載エクソソームによる乳酸代謝リプログラミングと光線力学療法の併用が、腫瘍微小環境の免疫抑制を解除し、治療効果を増強する可能性を示しました。\n\n**4. がん関連線維芽細胞由来エクソソームとTNBC進行**\ncircFAD104を介したCAFsとTNBC細胞間のグルコース代謝リプログラミングが、腫瘍進行に寄与することを解明。間質細胞とのクロストークを標的とした新規治療戦略の基盤となります。\n\n**5. 胎盤由来細胞外小胞による子癇前症の診断・治療**\n非侵襲的バイオマーカーとしての胎盤EVの分子カーゴ解析が、発症前予測と新規治療法開発のフロンティアとして期待されます。\n\nこれらの研究は、細胞外小胞の多様な病態への関与と治療応用可能性を強く示唆しています。"
+}

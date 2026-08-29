@@ -1,0 +1,178 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "FGF23　- A hormone produced by bone and has many faces.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42663891/",
+        "abstract": "Fibroblast growth factor 23 (FGF23) was identified as an etiological factor for hypophosphatemic rickets/osteomalacia approximately a quarter-century ago. Since then, FGF23 has been shown to be a bone-derived hormone that regulates phosphate and vitamin D metabolism by binding to the α-KLOTHO-FGF receptor complex. Dysregulation of FGF23 activity results in hypophosphatemic and hyperphosphatemic disorders. Medical therapy targeting FGF23 is now available for hypophosphatemic diseases caused by FGF23 excess. Furthermore, elevated FGF23 levels have been associated with various adverse clinical outcomes, including left ventricular hypertrophy, cardiovascular events, vascular calcification, and increased mortality. Beyond its role in mineral metabolism, FGF23 has been reported to exert direct effects on other organs, contributing to conditions such as left ventricular hypertrophy, anemia, and cardiac and renal fibrosis. However, the exact mechanisms underlying these pleiotropic actions have not yet been fully elucidated. This review summarizes recent findings regarding FGF23, focusing on its classical role as a hormone and its broader effects as a humoral factor on other organs.",
+        "source": "PubMed",
+        "doi": "10.1007/s11154-026-10079-w",
+        "keyword": "Klotho",
+        "title_ja": "FGF23 ― 骨が産生し、多面的な作用を持つホルモン",
+        "summary_ja": "FGF23（線維芽細胞増殖因子23）は、約25年前に低リン血症性くる病・骨軟化症の病因因子として同定された。その後、骨由来ホルモンとしてα-KLOTHO-FGF受容体複合体に結合し、リンおよびビタミンD代謝を調節することが示された。FGF23活性の調節異常は、低リン血症性および高リン血症性疾患を引き起こす。FGF23過剰による低リン血症性疾患に対しては、FGF23を標的とした治療が利用可能となっている。さらに、FGF23高値は、左心室肥大、心血管イベント、血管石灰化、死亡率増加など、様々な有害な臨床転帰と関連することが報告されている。ミネラル代謝における役割に加え、FGF23は他の臓器に直接作用し、左心室肥大、貧血、心臓および腎臓の線維化に寄与することが報告されている。しかし、これらの多面的作用の正確なメカニズムは完全には解明されていない。本総説では、ホルモンとしての古典的役割と、液性因子"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Adipose FGF21 signalling mediates the anti-senescence effects of protein restriction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42664385/",
+        "abstract": "Dietary protein restriction (PR) is a well-recognized nutritional intervention that enhances metabolic health and extends lifespan. However, the mechanisms behind this phenomenon are not well understood. Here, using genetic loss-of-function models for fibroblast growth factor 21 (Fgf21) and its obligate co-receptor β-Klotho (Klb), we demonstrate that FGF21-KLB signalling in adipocytes is indispensable for the anti-senescence effects of PR. Specifically, adipocyte FGF21 signalling preserves mitochondrial integrity, maintains an anti-inflammatory milieu and sustains nicotinamide adenine dinucleotide (NAD",
+        "source": "PubMed",
+        "doi": "10.1113/JP291341",
+        "keyword": "Klotho",
+        "title_ja": "脂肪組織のFGF21シグナル伝達は、タンパク質制限による抗老化効果を媒介する。",
+        "summary_ja": "食事性タンパク質制限（PR）は代謝健康を改善し寿命を延ばすことが知られるが、その機構は不明であった。本研究では、線維芽細胞成長因子21（FGF21）とその必須共受容体β-Klotho（KLB）の遺伝的機能喪失モデルを用い、脂肪細胞におけるFGF21-KLBシグナル伝達がPRの抗老化（抗セネッセンス）効果に不可欠であることを示した。具体的には、脂肪細胞のFGF21シグナルがミトコンドリアの完全性を維持し、抗炎症環境を保ち、ニコチンアミドアデニンジヌクレオチド（NAD"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "IL-15 boosts mesothelin- and CD70-CAR NK cell potency in PDAC without added benefit from dual targeting.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42662865/",
+        "abstract": "Chimeric antigen receptor (CAR) therapies have shown great success in hematological malignancies but remain largely ineffective against solid tumors such as pancreatic ductal adenocarcinoma (PDAC). A key obstacle among various aspects, is the dense stromal barrier formed by cancer-associated fibroblasts (CAFs), providing a rationale for simultaneously targeting stroma and tumor cells. Using immunohistochemistry of primary PDAC tumors and liver metastases, we confirmed high mesothelin (MSLN) expression on tumor cells, and CD70 expression on tumor cells and predominantly CAFs. Based on these results and the favorable safety profile of CAR natural killer (NK) cells over CAR T cells, we generated MSLN- and CD70-targeting IL-15-armored CAR NK cells. Both constructs mediated cytotoxicity against different pancreatic cancer and CAF cell lines with varying antigen expression ",
+        "source": "PubMed",
+        "doi": "10.1016/j.omton.2026.201316",
+        "keyword": "NK cell therapy",
+        "title_ja": "IL-15はPDACにおけるメソテリンおよびCD70標的CAR NK細胞の効力を増強するが、二重標的化による追加の利益は認められない。",
+        "summary_ja": "キメラ抗原受容体（CAR）療法は血液腫瘍では成功しているが、膵管腺癌（PDAC）などの固形腫瘍では効果が限定的である。主な障壁は、癌関連線維芽細胞（CAFs）が形成する密な間質バリアであり、腫瘍細胞と間質の同時標的化が有効とされる。本研究では、原発性PDAC腫瘍と肝転移の免疫組織化学により、腫瘍細胞にメソテリン（MSLN）が高発現し、CD70が腫瘍細胞と主にCAFsに発現することを確認した。CAR T細胞より安全性の高いCARナチュラルキラー（NK）細胞を用い、IL-15を付与したMSLN標的およびCD70標的CAR NK細胞を作製した。両構築物は、抗原発現が異なる複数の膵癌およびCAF細胞株に対して細胞傷害活性を示した。しかし、二重標的化（MSLNとCD70の同時標的）は、単一標的と比較して追加の効果をもたらさなかった。IL-15の付与はCAR NK細胞の増殖と持続性を向上させ、細胞傷害"
+      },
+      {
+        "title": "Distinct Multiomic Signatures of Environmental Exposure Drive Immune Dysregulation and Disease Activity in Early Multiple Sclerosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42647758/",
+        "abstract": "Environmental factors are pivotal in determining multiple sclerosis (MS) susceptibility, yet their specific influence on the immune system at the time of diagnosis remains incompletely understood. The aim of this study was to map the systemic effects of modifiable risk factors, specifically smoking, body mass index (BMI), serum vitamin D, UV exposure, and latent viral immunity, on immune function in patients with treatment-naive MS.",
+        "source": "PubMed",
+        "doi": "10.1212/NXI.0000000000200636",
+        "keyword": "NK cell therapy",
+        "title_ja": "多発性硬化症早期における環境曝露の多層オミクス特異的シグネチャーが免疫調節異常と疾患活動性を駆動する",
+        "summary_ja": "本研究は、未治療の早期多発性硬化症（MS）患者における、修正可能な環境因子（喫煙、BMI、血清ビタミンD、UV曝露、潜伏ウイルス免疫）の免疫系への影響を、マルチオミクス解析で包括的に評価した。診断時の免疫機能に対する各因子の特異的影響を解明することを目的とした。その結果、各環境因子は免疫細胞のサブセット構成、遺伝子発現、DNAメチル化、サイトカイン産生にそれぞれ異なるシグネチャーを誘導し、疾患活動性と関連することが示された。特に、喫煙と高BMIは炎症性経路を亢進させ、ビタミンDとUV曝露は免疫調節的経路を促進した。潜伏ウイルス（EBVなど）に対する免疫応答も、特定の免疫細胞集団の変化と関連した。これらの環境因子による免疫調節異常は、MSの病態進行に寄与する可能性があり、個別化された治療戦略や生活習慣介入の重要性が示唆された。本研究は、環境因子がMSの免疫病態に及ぼす多面的な影響を統合的に理"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "CAR design equips diverse immune cells with unique antigen-specific activation identities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42662538/",
+        "abstract": "Hematopoietic stem and progenitor cells (HSPCs) are multipotent cells capable of generating all hematopoietic lineages, representing a powerful platform for regenerative immunotherapy. In parallel, chimeric antigen receptor (CAR) engineering has extended beyond T cells, which have achieved success in treating B cell malignancies, to broader immune cell types alongside cell type-specific CAR design. However, how CAR architecture modulates activation phenotypes across immune lineages remains poorly understood. Here, we systematically compared previously validated, immune cell-optimized CARs across immune cell types using a human HSPC-derived multilineage CAR-immune cell platform. HSPC-derived T, natural killer (NK), and myeloid cells demonstrated immune activation across different CAR designs, whereas B cells showed CAR design dependency for activation. Hallmark pathway analysis revealed that immune lineage was the dominant determinant of activation-induced transcriptional states, while CAR design modulated signaling programs within lineage-constrained circuits, notably proliferation, inflammation, and cytokine responses. Single-cell InTraSeq highlighted differential activation of signaling pathways depending on CAR design and lineage identity with links to downstream transcriptional programs across T, B, and myeloid cells. Although exploratory and performed with limited sample sizes, this demonstrates the activated phenotypes and pathways mediated by CAR design and lineage identity that may inform the development of next-generation CAR-immune cells with tailored activation-induced characteristics.",
+        "source": "PubMed",
+        "doi": "10.1016/j.omton.2026.201312",
+        "keyword": "NK cell therapy",
+        "title_ja": "CARデザインは、多様な免疫細胞に独自の抗原特異的活性化特性を付与する。",
+        "summary_ja": "造血幹前駆細胞（HSPC）は多能性を持ち、全造血系譜を生成可能で、再生免疫療法の強力な基盤となる。キメラ抗原受容体（CAR）工学はT細胞を超え、多様な免疫細胞種へ拡大しているが、CAR構造が各系譜の活性化表現型に与える影響は未解明である。本研究では、ヒトHSPC由来の多系譜CAR免疫細胞プラットフォームを用い、既検証の細胞種最適化CARを系統比較した。T、NK、骨髄系細胞は全CAR設計で免疫活性化を示したが、B細胞はCAR設計依存性を示した。特徴的経路解析により、活性化誘導転写状態の主要決定因子は免疫系譜であり、CAR設計は系譜内回路（増殖、炎症、サイトカイン応答）のシグナルを調節した。単一細胞InTraSeq解析では、CAR設計と系譜に応じたシグナル経路の差異が、T、B、骨髄系の下流転写プログラムと関連した。探索的でサンプル数は限られるが、CAR設計と系譜が媒介する活性化表現型と経路を示"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Targeted blood-brain barrier penetration for traumatic brain injury therapy via RXR/PPAR-driven microglial M2 polarization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42662602/",
+        "abstract": "As a leading global cause of death and disability, traumatic brain injury (TBI) triggers a complex secondary injury process leading to long-term neurological impairment. Current therapeutic efficacy is limited by the blood-brain barrier (BBB) and the absence of integrated approaches to address neuroinflammation and neuroregeneration. We designed a biomimetic nanomedicine (Ali-NPs@Mexo) by encapsulating alitretinoin(Ali)-loaded albumin nanospheres within mesenchymal stromal cell (MSC)-derived exosomal membranes. This platform exploits the natural BBB-crossing and inflammation-targeting capabilities of exosomes to enhance localized drug delivery. Mechanistic studies revealed that Ali-NPs@Mexo triggers RXR/PPAR signaling to promote M1-to-M2 microglial polarization, thereby mitigating acute inflammation. Moreover, it protects neurons by inhibiting reactive astrogliosis and supporting the growth of neural stem cells and oligodendrocytes. ",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103552",
+        "keyword": "Exosomes",
+        "title_ja": "RXR/PPAR駆動によるミクログリアM2分極を介した外傷性脳損傷治療のための標的血液脳関門透過",
+        "summary_ja": "外傷性脳損傷（TBI）は、世界の主要な死因・障害原因であり、二次損傷による長期的な神経機能障害を引き起こす。現行治療は血液脳関門（BBB）の制約と、神経炎症・神経再生への統合的アプローチ欠如により限界がある。本研究では、間葉系幹細胞（MSC）由来エクソソーム膜でアリトレチノイン（Ali）内包アルブミン・ナノスフェアを被覆した生体模倣ナノ医薬（Ali-NPs@Mexo）を設計した。本プラットフォームは、エクソソームのBBB通過能と炎症標的能を活用し、局所薬物送達を増強する。機構解析により、Ali-NPs@MexoはRXR/PPARシグナルを活性化し、ミクログリアのM1→M2分極を促進して急性炎症を緩和することを示した。さらに、反応性アストログリオーシスを抑制し、神経幹細胞とオリゴデンドロサイトの成長を支持することで、神経保護を発揮する。"
+      },
+      {
+        "title": "Shengqingjiangzhuo Capsules Alleviates Renal Fibrosis by Targeting Glomerular Endothelial Cells Exosome miR-31-5p/HO-1 to Suppress Tubular Epithelial Cells Ferroptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42661282/",
+        "abstract": "Chronic renal failure (CRF) represents the advanced stage of chronic kidney disease, for which no specific pharmacological treatments are currently available. Traditional Chinese medicine has demonstrated notable efficacy in managing CRF. Shengqingjiangzhuo capsules (SQJZ capsules), a traditional Chinese medicinal formulation, are employed clinically in the treatment of CRF. However, the precise mechanisms underlying its therapeutic effects remain insufficiently understood.",
+        "source": "PubMed",
+        "doi": "10.1111/1440-1681.70151",
+        "keyword": "Exosomes",
+        "title_ja": "参精降浊胶囊通过靶向肾小球内皮细胞外泌体miR-31-5p/HO-1抑制肾小管上皮细胞铁死亡，从而减轻肾纤维化。",
+        "summary_ja": "本研究探讨了圣清降浊胶囊（SQJZ）对肾纤维化的缓解作用及其机制。慢性肾衰竭（CRF）是慢性肾病的晚期阶段，目前缺乏特异性药物疗法，而中药显示出显著疗效。SQJZ胶囊作为中药复方，临床用于治疗CRF，但其作用机制尚不明确。研究发现，SQJZ胶囊通过靶向肾小球内皮细胞外泌体中的miR-31-5p/HO-1通路，抑制肾小管上皮细胞的铁死亡（ferroptosis），从而减轻肾纤维化。具体而言，SQJZ调节外泌体miR-31-5p表达，影响HO-1水平，进而抑制铁死亡相关过程，保护肾小管功能。该研究揭示了SQJZ胶囊抗纤维化的新机制，为CRF治疗提供了分子层面的理论依据，并强调了外泌体介导的细胞间通讯在肾病进展中的关键作用。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Umbilical Cord Mesenchymal Stem Cell-Derived Exosomes Alleviate Age-Related Insomnia in Rats by Suppressing Neuronal Ferroptosis in the Hippocampal Dentate Gyrus.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42663757/",
+        "abstract": "Age-related insomnia (ARI) is becoming increasingly prevalent among the elderly and remains inadequately addressed by conventional pharmacotherapy, prompting growing interest in stem cell-based alternatives. The present study investigated whether exosomes derived from umbilical cord mesenchymal stem cells (UCMSC-Exos) ameliorate ARI by suppressing hippocampal neuronal ferroptosis. UCMSCs were isolated from Sprague-Dawley rats on gestational day 21, and UCMSC-Exos were purified from passage 3 supernatants by ultracentrifugation. Transmission electron microscopy, nanoparticle tracking analysis, and western blotting confirmed characteristic exosomal morphology with a mean diameter of 118.4 nm, positive expression of TSG101, CD9, and CD81, and absence of Calnexin. Following tail vein injection of DiD-labeled UCMSC-Exos in rats, DiD signals were traceable for 21 days. An ARI model was established in adult male rats using D-galactose combined with para-chlorophenylalanine, and animals were randomized into Sham, ARI, ARI-UCMSC-Exos, and ARI-Fer-1 groups. Morris water maze, elevated plus maze, open field tests, and electroencephalography demonstrated that UCMSC-Exos reversed behavioral deficits and prolonged total and slow-wave sleep. Hematoxylin-eosin, Nissl, and Golgi staining revealed restored dentate gyrus neurons with increased dendritic number and length, while transmission electron microscopy showed improved synaptic and mitochondrial ultrastructure. Prussian blue staining, ELISA, and western blotting further indicated that UCMSC-Exos reduced Fe",
+        "source": "PubMed",
+        "doi": "10.1007/s11064-026-04872-x",
+        "keyword": "Exosomes",
+        "title_ja": "臍帯間葉系幹細胞由来エクソソームは、海馬歯状回における神経細胞のフェロトーシスを抑制することにより、ラットの加齢関連不眠を軽減する。",
+        "summary_ja": "本研究探讨脐带间充质干细胞来源外泌体（UCMSC-Exos）对年龄相关性失眠（ARI）的改善作用及其机制。从孕21天SD大鼠分离UCMSC，超速离心提取外泌体，经电镜、纳米颗粒分析和Western blot验证其形态及标志物（TSG101、CD9、CD81阳性，Calnexin阴性），平均直径118.4 nm。尾静脉注射DiD标记外泌体后，信号可追踪21天。采用D-半乳糖联合对氯苯丙氨酸建立ARI大鼠模型，分为Sham、ARI、ARI-UCMSC-Exos和ARI-Fer-1组。行为学测试（Morris水迷宫、高架十字迷宫、旷场）及脑电图显示，UCMSC-Exos逆转行为缺陷，延长总睡眠和慢波睡眠。组织学染色（HE、尼氏、高尔基）显示齿状回神经元恢复，树突数量和长度增加；电镜观察突触及线粒体超微结构改善。普鲁士蓝染色、ELISA和Western blot证实UCMSC-Exos降低铁含量，"
+      },
+      {
+        "title": "Breaking the cycle of fibrosis: Ferroptosis as a therapeutic target (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42663285/",
+        "abstract": "Fibrosis, characterized by abnormal deposition of extracellular matrix, is a chronic disease that progressively remodels tissues, leading to organ failure, earning it the moniker the 'silent killer' of organ function. Recently, ferroptosis, a novel form of regulated cell death, has garnered attention in research; its molecular mechanisms, including the lipid peroxidation cascade, dysregulation of glutathione metabolism and imbalance in iron ion homeostasis, have been closely linked to the progression of fibrosis. The present review systematically elaborates on the process of fibrosis, the main mechanisms of ferroptosis and the role of ferroptosis in fibrosis. The review also discusses intervention strategies targeting the key signaling nodes of ferroptosis during the inflammatory initiation and cell proliferation stages. In addition, it also elaborates on innovative therapeutic strategies based on regulating the ferroptosis pathway, including engineered exosome‑mediated gene delivery systems and iron chelators encapsulated by multifunctional nanoparticles. Through a summary of current evidence, the present review provides a mechanistic rationale and new perspectives for the development of precision anti‑fibrotic therapies targeting ferroptosis.",
+        "source": "PubMed",
+        "doi": "10.3892/ijmm.2026.5969",
+        "keyword": "Exosomes",
+        "title_ja": "線維化のサイクルを断ち切る：フェロトーシスを治療標的として（レビュー）",
+        "summary_ja": "線維症は、細胞外マトリックスの異常沈着を特徴とし、組織を徐々に再構築して臓器不全に至る慢性疾患であり、「臓器機能のサイレントキラー」と呼ばれる。近年、新規の調節性細胞死であるフェロトーシスが注目され、その分子機構（脂質過酸化カスケード、グルタチオン代謝異常、鉄イオン恒常性の不均衡）が線維症の進行と密接に関連することが示されている。本総説は、線維症の過程、フェロトーシスの主要機構、および線維症におけるフェロトーシスの役割を体系的に解説する。また、炎症開始期と細胞増殖期におけるフェロトーシスの主要シグナル伝達ノードを標的とした介入戦略を考察する。さらに、フェロトーシス経路の調節に基づく革新的治療戦略として、工学的エクソソームを用いた遺伝子送達システムや、多機能ナノ粒子に内包された鉄キレート剤についても詳述する。現在のエビデンスを要約することで、本総説はフェロトーシスを標的とした精密抗線維症療法"
+      },
+      {
+        "title": "Host determinants of exo-rAAV production revealed by extended gene expression analysis in HEK293 cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42662304/",
+        "abstract": "Recombinant adeno-associated viruses (rAAVs) are leading vectors for gene therapy, yet their large-scale manufacturing remains constrained by low scalability and high costs. Here, we present an integrated systems biology and process engineering strategy to intensify rAAV production through the extended gene expression (EGE) methodology. EGE has been reported to significantly increase rAAV yields, enhanced viral egress, and promote the secretion of exosome-associated AAVs (exo-AAVs), resulting in higher extracellular titers and improved vector potency. Quantitative multiplexed proteomics revealed coordinated remodeling of host-cell pathways involved in vesicle trafficking, lipid biosynthesis, protein homeostasis, and nuclear transport. Functional validation identified key host regulators of exo-rAAV biogenesis and secretion, including CD63, VPS37B, SMPD3, and SNAP47. Targeted modulation of these pathways enabled rational enhancement of extracellular rAAV recovery in standard batch processes. Using a DoE-based mixture design, we achieved 50% viral egress into the supernatant, with >21% being exo-AAVs, demonstrating efficient translation of the EGE phenotype into scalable batch manufacturing. Collectively, this work provides a scalable and cost-effective alternative production platform with the advantages of the EGE methodology. These findings can help advance next-generation rAAV manufacturing and support the development of gene therapy vectors.",
+        "source": "PubMed",
+        "doi": "10.1016/j.omta.2026.201815",
+        "keyword": "Exosomes",
+        "title_ja": "HEK293細胞における拡張遺伝子発現解析により明らかになったexo-rAAV産生の宿主決定因子",
+        "summary_ja": "組換えアデノ随伴ウイルス（rAAV）は遺伝子治療の主要ベクターだが、大規模製造は低スケーラビリティと高コストに制約される。本研究では、拡張遺伝子発現（EGE）法を用いた統合的システム生物学・プロセス工学戦略を提示する。EGEはrAAV収量を有意に増加させ、ウイルス放出を促進し、エクソソーム関連AAV（exo-AAV）の分泌を亢進し、細胞外力価とベクター効力を向上させる。定量マルチプレックスプロテオミクスにより、小胞輸送、脂質生合成、タンパク質恒常性、核輸送に関わる宿主経路の協調的再構築が明らかになった。機能検証により、exo-rAAVの生合成と分泌の主要制御因子としてCD63、VPS37B、SMPD3、SNAP47が同定された。これらの経路の標的調節により、標準バッチプロセスでの細胞外rAAV回収を合理的に増強できた。DoEベースの混合設計を用い、ウイルス放出率50%（うち21%以上がex"
+      },
+      {
+        "title": "Functional roles of extracellular vesicles in Trichomonas vaginalis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42660824/",
+        "abstract": "Extracellular vesicles (EVs) secreted by Trichomonas vaginalis are now recognized as important mediators of host-parasite communication and play crucial roles in the development of trichomoniasis. These membrane-enclosed vesicles, which include exosomes and microvesicles, carry a diverse array of cargo, including proteins, lipids, and nucleic acids, as well as virulence-associated components such as adhesion molecules, proteases, and tRNA-derived small RNAs. Functionally, EVs enhance parasite attachment to vaginal epithelial cells, facilitate colonization, and contribute to host tissue damage. They also influence host immune responses, exhibiting both pro-inflammatory and immunosuppressive activities. Furthermore, the composition of EVs can be modulated by endosymbionts such as Trichomonasvirus, thereby influencing host-pathogen interactions. In addition, EVs mediate parasite-parasite communication, thereby promoting parasite adaptation and survival. This review summarizes current knowledge on the composition and functional roles of T. vaginalis EVs, highlighting their involvement in adhesion, immune modulation, and infection, as well as their potential utility as diagnostic biomarkers and therapeutic targets.",
+        "source": "PubMed",
+        "doi": "10.3347/PHD.26039",
+        "keyword": "Exosomes",
+        "title_ja": "細胞外小胞のトリコモナス・バギナリスにおける機能的役割",
+        "summary_ja": "トリコモナス原虫（*Trichomonas vaginalis*）が分泌する細胞外小胞（EVs）は、宿主-寄生虫間のコミュニケーションを仲介し、トリコモナス症の発症に重要な役割を果たす。EVsにはエクソソームやマイクロベシクルが含まれ、タンパク質、脂質、核酸に加え、接着分子、プロテアーゼ、tRNA由来小RNAなどの病原性関連因子を運ぶ。機能的には、EVsは膣上皮細胞への寄生虫の接着を促進し、定着や組織損傷に寄与する。また、宿主免疫応答を調節し、炎症促進性と免疫抑制性の両方の活性を示す。さらに、EVsの組成はトリコモナスウイルスなどの内部共生体によって変化し、宿主-病原体相互作用に影響を与える。加えて、EVsは寄生虫間のコミュニケーションも媒介し、適応と生存を促進する。本レビューは、T. vaginalis EVsの組成と機能を概説し、接着、免疫調節、感染への関与に加え、診断バイオマーカーや"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "A lyophilized CHA-lateral flow platform for point-of-care detection of miR-106b-5p from L1CAM-Immunocaptured small extracellular vesicles in Alzheimer's disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42648816/",
+        "abstract": "The early, non-invasive diagnosis of Alzheimer's disease (AD) remains a significant clinical challenge. MicroRNAs carried by L1CAM-immunocaptured small extracellular vesicles (sEVs) in blood, particularly miR-106b-5p, have emerged as promising candidate biomarkers for AD. However, their detection requires methods that are sensitive, specific, stable, and suitable for point-of-care (POC) applications. Catalytic hairpin assembly (CHA) combined with lateral flow immunoassay (LFIA) offers a potential POC solution, but its practical application is limited by high background leakage caused by \"DNA breathing\" and poor probe stability. Herein, we propose an integrated POC platform that combines immunomagnetic enrichment of L1CAM-positive sEVs with a novel \"Fold-Adsorb-Block-Immobilize-Lyophilize\" (FABIL) process for CHA probe stabilization. The FABIL process utilizes magnetic graphene oxide (MGO) to adsorb and physically separate hairpin probes (H1 and H2), thereby suppressing nonspecific hybridization and generating lyophilized CHA microspheres with room-temperature stability. When integrated into a lateral flow test strip, the FABIL-NE-miR platform achieves a visual detection limit of 10 fM and a liquid-phase limit of detection of 1.14 fM, overcoming the traditional trade-off between low background and high sensitivity. Clinical validation using 100 serum samples, including 32 AD cases and 68 non-AD controls, demonstrated that FABIL-NE-miR outperformed traditional low-background CHA systems, with an area under the ROC curve (AUC) of 0.9563, a sensitivity of 90.63%, and a specificity of 94.12%. Overall, the FABIL-NE-miR platform enables rapid visual detection of low-abundance AD-associated miRNAs from L1CAM-immunocaptured sEV fractions. By addressing key challenges such as background leakage and probe instability, this study provides a practical tool for AD screening and supports the feasibility of the FABIL strategy as a universal platform for next-generation nucleic acid diagnostics.",
+        "source": "PubMed",
+        "doi": "10.1016/j.aca.2026.345938",
+        "keyword": "sEVs",
+        "title_ja": "アルツハイマー病におけるL1CAM免疫捕捉小型細胞外小胞由来miR-106b-5pのポイントオブケア検出のための凍結乾燥CHA-ラテラルフロー基盤",
+        "summary_ja": "アルツハイマー病（AD）の早期非侵襲診断は臨床課題である。血液中のL1CAM免疫捕捉小型細胞外小胞（sEV）に含まれるmiR-106b-5pはADの有望なバイオマーカーだが、検出には高感度・高特異性・安定性・ポイントオブケア（POC）適性が求められる。触媒ヘアピンアセンブリ（CHA）とラテラルフロー免疫測定（LFIA）の併用はPOC解決策となり得るが、「DNA呼吸」による高バックグラウンドとプローブ不安定性が課題である。本研究では、L1CAM陽性sEVの免疫磁気濃縮と、新規「Fold-Adsorb-Block-Immobilize-Lyophilize」（FABIL）プロセスによるCHAプローブ安定化を統合したPOCプラットフォームを提案する。FABILは磁性酸化グラフェン（MGO）を用いてヘアピンプローブ（H1、H2）を吸着・物理分離し、非特異的ハイブリダイゼーションを抑制し、室温安定な"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックをまとめます。\n\n**1. FGF23とα-KLOTHOの多面的機能**\n骨由来ホルモンFGF23がα-KLOTHO-FGFR複合体を介してリン・ビタミンD代謝を調節する発見は、ミネラル代謝研究の基盤です。今後は慢性腎臓病における心血管イベント予測因子としての臨床応用が期待されます。\n\n**2. タンパク質制限とFGF21/β-Klothoシグナル**\n食事性タンパク質制限による抗老化効果に、脂肪細胞のFGF21-β-Klotho経路が関与することが示されました。寿命延長メカニズムの解明は、老化制御薬の開発につながる可能性があります。\n\n**3. CAR-NK細胞療法の固形腫瘍への挑戦**\n膵管腺癌においてIL-15がCAR-NK細胞の抗腫瘍活性を増強する一方、二重標的化の上乗せ効果は限定的でした。間質バリア克服にはCAR設計の最適化が今後の課題です。\n\n**4. 間葉系幹細胞由来エクソソームとフェロトーシス制御**\n加齢性不眠や腎線維症に対し、MSC由来エクソソームがフェロトーシス抑制を介して保護効果を示しました。細胞死制御を介した新規治療戦略として、再生医療への応用が期待されます。\n\n**5. sEVバイオマーカー検出のポイントオブケア化**\nアルツハイマー病診断のため、L1CAM免疫捕捉sEV中のmiR-106b-5pを凍結乾燥CHA-ラテラルフローで高感度検出する技術が開発されました。非侵襲的早期診断の実用化に大きく前進です。"
+}

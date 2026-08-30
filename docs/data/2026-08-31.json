@@ -1,0 +1,94 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "SRT1720-loaded exosome-mimetic nanovesicles promote mitophagy via SIRT1/PARKIN activation to ameliorate diabetic cerebral infarction in a preclinical rat model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42668536/",
+        "abstract": "Mitochondrial dysfunction and impaired mitophagy-a key event in diabetic hyperglycemia-aggravated ischemic injury - lead to accumulation of dysfunctional mitochondria and neuronal apoptosis, which are vital processes involved in diabetic cerebral infarction (DCI). Herein, we developed SRT1720-loaded exosome-mimetic nanovesicles (SRT1720@M) to leverage the potential of SIRT1/PARKIN pathway activation to inhibit these processes and counteract DCI. The lipid fusion approach was used to fabricate exosome-loaded SRT1720@M. The properties of SRT1720@M were established by employing UV-Vis, transmission electron microscopy (TEM), dynamic light scattering, and Fourier-transform infrared (FTIR) spectroscopy. Oxygen-glucose deprivation/reperfusion (OGD/R) and high-glucose (HG)-treated primary hippocampal neurons were used as an in vitro DCI model treated with SRT1720@M. qPCR, Western blotting and immunofluorescence were used for expression analyses, whereas cell viability, phagocytosis, inflammation, and ATP/L-LA levels were assessed by CCK-8, ELISA and TEM. A rat model of DCI was obtained by establishing middle cerebral artery occlusion (MCAO), from which infarct volume, neurological deficits, histopathology, behavioral indexes, and molecular markers were detected. SRT1720@M average size was ∼68 nm, with an encapsulation efficiency of 78.19%, loading capacity of 8.52%, and zeta potential of -54 mV. In vitro, SRT1720@M markedly improved cell viability (",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijpx.2026.100639",
+        "keyword": "Exosomes",
+        "title_ja": "SRT1720内包エクソソーム模倣ナノ小胞は、SIRT1/PARKIN活性化を介してマイトファジーを促進し、前臨床ラットモデルにおける糖尿病性脳梗塞を改善する。",
+        "summary_ja": "本論文は、糖尿病性脳梗塞（DCI）におけるミトコンドリア機能障害とマイトファジー低下を標的とし、SRT1720を搭載したエクソソーム模倣ナノ小胞（SRT1720@M）の治療効果を検証した前臨床研究である。SRT1720@Mは脂質融合法で作製され、平均粒径約68 nm、封入効率78.19%、薬物搭載量8.52%、ゼータ電位-54 mVを示した。in vitroでは、酸素グルコース欠乏/再灌流（OGD/R）および高グルコース（HG）処理した初代海馬ニューロンを用い、SRT1720@Mが細胞生存率を有意に改善し、SIRT1/PARKIN経路を活性化してマイトファジーを促進した。これにより、機能不全ミトコンドリアの蓄積と神経細胞アポトーシスが抑制された。in vivoでは、中大脳動脈閉塞（MCAO）によるDCIラットモデルにおいて、SRT1720@M投与が梗塞体積を減少させ、神経学的欠損、組織病理"
+      },
+      {
+        "title": "Biomimetic hybrid nanoparticles from grape-derived exosome-like particles and liposomes potentiate JQ1-mediated anti-fibrotic effects in hepatic stellate cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42667952/",
+        "abstract": "Activated hepatic stellate cells (HSCs) play a central role in liver fibrosis by promoting extracellular matrix deposition, oxidative stress, and pro-fibrotic signaling. Here, we engineered a membrane-fused hybrid nanoparticle by combining grape-derived exosome-like particles (GELPs) with liposomes to encapsulate JQ1, termed Hybrid@JQ1, and evaluated its anti-fibrotic effects in TGF-β1-activated LX-2 cells. GELPs were successfully isolated and characterized, while the formation of GELP-liposome hybrid nanoparticles were verified by nanoparticle characterization and colocalization analysis. Hybrid@JQ1 exhibited good physicochemical stability and enhanced cellular uptake. In vitro, Hybrid@JQ1 inhibited LX-2 cell proliferation and migration, decreased collagen accumulation, and suppressed α-SMA expression. qPCR gene expression profile further showed that Hybrid@JQ1 downregulated multiple fibrosis-related genes, including α-SMA, COL1A1, COL3A1, and TGF-β, as well as inflammation- and oxidative stress-associated genes such as NOX4, IL6, and TNF-α. These findings indicate that GELP-liposome hybridization is an effective strategy for JQ1 delivery and that Hybrid@JQ1 alleviates fibrotic phenotypes in activated HSCs in vitro. Our study provides a promising plant-derived biomimetic nanoplatform for anti-fibrotic drug delivery.",
+        "source": "PubMed",
+        "doi": "10.1016/j.xphs.2026.104484",
+        "keyword": "Exosomes",
+        "title_ja": "ブドウ由来エクソソーム様粒子とリポソームからなる生体模倣ハイブリッドナノ粒子は、肝星細胞におけるJQ1を介した抗線維化効果を増強する。",
+        "summary_ja": "活性化肝星細胞（HSCs）は肝線維化において細胞外マトリックス沈着や酸化ストレス、線維化促進シグナルを促進する中心的な役割を担う。本研究では、ブドウ由来エクソソーム様粒子（GELPs）とリポソームを膜融合させたハイブリッドナノ粒子にJQ1を封入したHybrid@JQ1を構築し、TGF-β1活性化LX-2細胞における抗線維化効果を評価した。GELPsの単離・特性解析に成功し、ハイブリッド形成はナノ粒子特性解析と共局在解析で確認した。Hybrid@JQ1は優れた物理化学的安定性と細胞取り込みの増加を示した。in vitroでは、LX-2細胞の増殖・遊走を抑制し、コラーゲン蓄積を減少させ、α-SMA発現を抑制した。qPCR解析により、α-SMA、COL1A1、COL3A1、TGF-βなどの線維化関連遺伝子に加え、NOX4、IL6、TNF-αなどの炎症・酸化ストレス関連遺伝子も下方制御した。以上よ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Optimizing plasma-derived small extracellular vesicle purification to enhance downstream applications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42668577/",
+        "abstract": "Small extracellular vesicles (sEVs) are functional carriers of biomolecules from host cells, making them highly suitable for early disease diagnosis and monitoring disease progression. However, the purification of sEVs from plasma is complicated by the presence of high levels of proteins, particularly lipoproteins. We have developed an original pretreatment method that effectively removes lipoproteins and fibrinogen, thereby facilitating subsequent sEV purification. Sequential application of ultracentrifugation and optical density gradient on pretreated plasma significantly enhances the purity of sEVs, achieving the removal of over 99% of contaminants and increasing mass spectrometry protein detections by 13.3 and 6.3 times compared to traditional ultracentrifugation and size exclusion chromatography methods, respectively. Furthermore, proteomic analysis verified the validity of sEVs isolated using our approach. Overall, our optimized method substantially improves the purity of plasma sEVs without compromising yield, thereby greatly enhancing their potential for clinical testing and basic biochemical research.",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.117286",
+        "keyword": "sEVs",
+        "title_ja": "血漿由来の小型細胞外小胞の精製を最適化し、下流アプリケーションを向上させる。",
+        "summary_ja": "血漿由来の小型細胞外小胞（sEV）は、宿主細胞由来の生体分子を運ぶ機能性キャリアであり、早期疾患診断や病態進行のモニタリングに適している。しかし、血漿からのsEV精製は、高濃度のタンパク質、特にリポタンパク質の存在により困難である。本研究では、リポタンパク質とフィブリノーゲンを効果的に除去する前処理法を開発し、その後のsEV精製を促進した。前処理した血漿に超遠心分離と光学密度勾配を順次適用することで、sEVの純度が大幅に向上し、夾雑物の99%以上を除去し、質量分析によるタンパク質検出数は従来の超遠心分離法とサイズ排除クロマトグラフィー法と比較してそれぞれ13.3倍および6.3倍増加した。さらに、プロテオーム解析により、本法で単離したsEVの妥当性が確認された。本最適化法は、収量を損なうことなく血漿sEVの純度を大幅に改善し、臨床検査や基礎生化学研究への応用可能性を大きく高めるものである。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Engineering Piezo1-Mediated Calcium Signalling for Enhanced Extracellular Vesicle Biogenesis and Cargo Loading.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42669009/",
+        "abstract": "Cell-derived extracellular vesicles (EVs) are promising nanocarriers for therapeutic delivery platforms owing to their biocompatibility and capacity to protect and efficiently transport bioactive molecules. However, EV-based therapeutics remain constrained by inefficient cargo loading and low production yields, which limit scalable biomanufacturing. To overcome these limitations, we exploited the use of the mechanosensitive ion channel Piezo1 as a robust regulator of EV biogenesis using HEK293FT cells co-transfected with Piezo1 and the bioluminescent EV reporter PalmReNL. Activation of Piezo1 with Yoda1 (30 µM) increased PalmReNL-EV release by 3-fold, while GsMTx4 inhibited EV release by 80.7%. This effect was unaffected by removal of extracellular Ca",
+        "source": "PubMed",
+        "doi": "10.1002/jex2.70182",
+        "keyword": "sEVs",
+        "title_ja": "Piezo1を介したカルシウムシグナル伝達の工学的制御による細胞外小胞の生合成とカーゴ搭載の強化",
+        "summary_ja": "本論文は、細胞由来の細胞外小胞（EV）を治療用ナノキャリアとして活用する際の課題である、積載効率の低さと生産量の不足を克服するため、機械感受性イオンチャネルPiezo1を介したカルシウムシグナルを利用した新規手法を報告している。HEK293FT細胞にPiezo1と発光EVレポーターPalmReNLを共発現させ、Piezo1作動薬Yoda1（30 µM）処理によりPalmReNL-EV放出が3倍増加した。一方、阻害薬GsMTx4処理ではEV放出が80.7%抑制された。この効果は細胞外カルシウム除去の影響を受けず、Piezo1活性化が細胞内カルシウム動態を介してEV生合成を促進することを示唆する。本手法は、EVの生産効率とカーゴ積載能を向上させる有望な戦略であり、スケーラブルなバイオ医薬品製造への応用が期待される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックをまとめます。\n\n**1. SRT1720搭載エクソソーム模倣ナノ小胞（糖尿病性脳梗塞治療）**\nミトコンドリア機能障害とマイトファジー低下を標的とし、SIRT1/PARKIN経路を活性化する新規治療法。糖尿病合併症の中でも致死的な脳梗塞に対し、前臨床モデルで有効性を示した点が画期的です。\n\n**2. ブドウ由来エクソソーム様粒子とリポソームのハイブリッドナノ粒子（肝線維化治療）**\n植物由来EVと合成脂質の融合により、薬物送達効率と生体適合性を両立。活性化肝星細胞への選択的デリバリーで抗線維化効果を増強し、食品由来材料を用いた安全なDDSの可能性を拓きます。\n\n**3. 血漿由来sEV精製法の最適化**\nリポタンパク質混入という長年の課題に対し、精製プロセスを改良。早期診断バイオマーカー探索の信頼性向上に直結し、液体バイオプシーの実用化を大きく前進させる基盤技術です。\n\n**4. Piezo1を介したカルシウムシグナルによるEV産生・積載効率の向上**\n機械感受性チャネルを活性化し、EVの生産量と治療用カーゴ搭載量を同時に改善。EV製造のスケールアップ障壁を打破する革新的アプローチで、細胞治療の産業化に貢献します。\n\n**5. エクソソーム模倣ナノベシクルの設計戦略（総合視点）**\n上記研究に共通する「生体膜模倣技術」の進展は、天然EVの免疫原性リスクを低減しつつ、標的指向性と薬物搭載能を最大化。個別化医療への応用が期待されます。\n\n今後の展望として、これらの技術統合による多機能性ナノキャリアの開発や、臨床応用に向けた大規模製造法の確立が鍵となります。"
+}

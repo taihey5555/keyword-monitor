@@ -1,0 +1,116 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Adynamic Bone Disease in Chronic Kidney Disease: From PTH Suppression-Driven Remodeling Phenotype to Osteoanabolic Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42671953/",
+        "abstract": "Adynamic bone disease (ABD) is an increasingly prevalent form of low-turnover renal osteodystrophy in advanced chronic kidney disease (CKD). ABD was not recognized as a clinical entity prior to the widespread adoption of PTH-targeted therapeutic strategies, and sustained iatrogenic suppression of parathyroid hormone (PTH) activity is now understood as the primary and defining causal mechanism underlying the adynamic phenotype. Uremic toxins, FGF-23-Klotho dysregulation, impaired vitamin D signaling, chronic inflammation, calcium-phosphate imbalance, and osteocyte-mediated abnormalities function as modulatory contributors that amplify skeletal susceptibility within the context of sustained PTH suppression, rather than independent drivers of ABD. Clinically, ABD is associated with impaired bone quality, increased fracture risk, vascular calcification, and musculoskeletal frailty, abnormalities that are often not adequately reflected by areal bone mineral density measurements alone.",
+        "source": "PubMed",
+        "doi": "10.1159/ajn/ablag003",
+        "keyword": "Klotho",
+        "title_ja": "慢性腎臓病における無形成骨症：PTH抑制によるリモデリング表現型から骨形成促進療法へ",
+        "summary_ja": "慢性腎臓病（CKD）における無形成骨病（ABD）は、低回転型腎性骨異栄養症として増加している。ABDはPTH標的治療の普及以前には認識されず、医原性の副甲状腺ホルモン（PTH）活性持続抑制が主要な原因機序である。尿毒症毒素、FGF-23-クロトー異常、ビタミンDシグナル障害、慢性炎症、カルシウム・リン不均衡、骨細胞異常は、PTH抑制下での骨感受性を増幅する修飾因子であり、独立した原因ではない。臨床的には、骨質低下、骨折リスク増加、血管石灰化、筋骨格系脆弱性を伴い、これらは骨密度測定だけでは十分に反映されない。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Cancer cell-selective ectopic expression of CD20 as an antigen enables rituximab repurposing for solid tumour immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42671316/",
+        "abstract": "Despite the clinical success of cancer immunotherapies, their efficacy is often compromised by antigen-related problems, including downregulation, loss, and off-tumour toxicity.",
+        "source": "PubMed",
+        "doi": "10.1002/ctm2.70804",
+        "keyword": "NK cell therapy",
+        "title_ja": "がん細胞選択的なCD20の異所性発現を抗原とすることで、リツキシマブの固形腫瘍免疫療法への転用が可能になる。",
+        "summary_ja": "この論文は、固形腫瘍に対する免疫療法の新戦略を提案している。従来の癌免疫療法は、抗原の低下・消失やオフターゲット毒性などの問題に直面する。著者らは、癌細胞特異的にCD20を異所性発現させることで、既存の抗CD20抗体リツキシマブを固形腫瘍治療に転用可能にする手法を開発した。このアプローチにより、腫瘍細胞表面にCD20が選択的に提示され、リツキシマブが抗体依存性細胞傷害や補体依存性細胞傷害を誘導して腫瘍を攻撃する。正常組織への影響を抑えつつ、強力な抗腫瘍効果が得られる点が特徴である。また、CD20発現の制御により、抗原関連の耐性問題を回避できる可能性が示された。本研究は、既存薬の再利用による固形腫瘍免疫療法の新たな道を開くものであり、臨床応用への期待が持たれる。"
+      },
+      {
+        "title": "From Immune Dysfunction to Clinical Risk: Infections in Myelofibrosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42670288/",
+        "abstract": "Infectious complications are increasingly recognized as a crucial aspect of the clinical management of patients with Myelofibrosis. Infection susceptibility is multifactorial and reflects the interplay between disease-related immune dysregulation, treatment-associated immunomodulation, and patient-specific factors such as age, comorbidities, and prior therapies. Myelofibrosis is characterized by a chronic inflammatory state and impaired innate and adaptive immunity, including dysfunction of natural killer cells, dendritic cells, and T lymphocytes. The introduction of JAKis has significantly improved disease outcomes, while these agents may further modulate immune responses through inhibition of the JAK-STAT pathway. Evidence from clinical trials and real-world studies indicates that bacterial infections are common, while viral reactivations, particularly herpes zoster, represent a consistent complication of JAKi therapy. Opportunistic infections are less frequent but clinically relevant. In our view, infection risk in myelofibrosis should be considered an intrinsic component of disease biology and treatment. A risk-adapted approach integrating baseline assessment, vaccination, and close clinical monitoring is warranted. Future efforts should focus on biomarker-driven risk stratification and tailored preventive strategies to optimize outcomes in patients receiving JAKis.",
+        "source": "PubMed",
+        "doi": "10.1111/ejh.70302",
+        "keyword": "NK cell therapy",
+        "title_ja": "免疫機能不全から臨床リスクへ：骨髄線維症における感染症",
+        "summary_ja": "骨髄線維症（Myelofibrosis）患者における感染症合併症は、臨床管理の重要な側面として認識されている。感染症への感受性は多因子性であり、疾患関連の免疫不全、治療関連の免疫調節、年齢や併存疾患などの患者固有因子が関与する。骨髄線維症は慢性炎症状態と自然免疫・獲得免疫の障害を特徴とし、NK細胞、樹状細胞、Tリンパ球の機能不全が見られる。JAK阻害薬（JAKis）の導入は疾患予後を改善したが、JAK-STAT経路の阻害により免疫応答をさらに調節する可能性がある。臨床試験や実臨床のデータから、細菌感染が一般的であり、特に帯状疱疹などのウイルス再活性化がJAKis療法の一貫した合併症であることが示されている。日和見感染は頻度は低いが臨床的に重要である。骨髄線維症における感染リスクは、疾患生物学と治療の本質的構成要素と考えるべきである。ベースライン評価、ワクチン接種、密接な臨床モニタリングを統"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Immunomodulation of mixed postbiotics produced from Lactiplantibacillus plantarum KLDS1.0318 and KLDS1.0386 in vitro and in vivo.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42671468/",
+        "abstract": "Postbiotics can modulate immune responses by regulating immune cell functions and promoting the secretion of immune-related cytokines. However, most studies have focused on postbiotics from single strains, while the effects of mixed postbiotics remain underexplored. This study used RAW 264.7 cells and cyclophosphamide-induced immunosuppressed mice to investigate the immunomodulatory effects of postbiotics derived from mixed Lactiplantibacillus plantarum (L. plantarum) (KLDS1.0318 + KLDS1.0386). In vitro, heat-inactivated mixed L. plantarum (HK-Mix) and its cell-free supernatant (CFS-Mix) exhibited no cytotoxic effects and significantly enhanced the phagocytic activity of RAW 264.7 cells, as well as the secretion levels of NO and cytokines (IL-6, IL-1β, and TNF-α) (P < 0.05). In vivo, HK-Mix and Post-Mix (HK-Mix + CFS-Mix) significantly alleviated cyclophosphamide-induced weight loss, increased immune organ indices, and promoted splenic lymphocyte proliferation and NK cell activity (P < 0.05). Principal component analysis revealed that HK-Mix and Post-Mix showed higher comprehensive scores in vitro and in vivo, respectively, and correlation analysis demonstrated positive correlations among indicators within each experimental setting. Therefore, mixed L. plantarum postbiotics exhibit promising immunomodulatory potential by enhancing macrophage phagocytosis, promoting the secretion of TNF-α, IL-1β, and IL-6, and improving splenic lymphocyte proliferation and NK cell activity.",
+        "source": "PubMed",
+        "doi": "10.1007/s00203-026-05153-5",
+        "keyword": "NK cell therapy",
+        "title_ja": "Lactiplantibacillus plantarum KLDS1.0318およびKLDS1.0386由来混合ポストバイオティクスのin vitroおよびin vivoにおける免疫調節作用",
+        "summary_ja": "本論文は、Lactiplantibacillus plantarum KLDS1.0318とKLDS1.0386由来の混合ポストバイオティクスの免疫調節効果を、in vitro（RAW 264.7細胞）とin vivo（シクロホスファミド誘発免疫抑制マウス）で検討した。in vitroでは、加熱不活化混合菌（HK-Mix）とその無細胞上清（CFS-Mix）は細胞毒性を示さず、RAW 264.7細胞の貪食能、NO、IL-6、IL-1β、TNF-αの分泌を有意に促進した。in vivoでは、HK-MixとPost-Mix（HK-Mix+CFS-Mix）が体重減少を緩和し、免疫器官指数を増加させ、脾細胞増殖とNK細胞活性を有意に向上させた。主成分分析により、HK-Mixはin vitro、Post-Mixはin vivoで高い総合スコアを示し、各指標間の正の相関が確認された。以上より、混合L. "
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Beyond injury severity: monocyte-associated small extracellular vesicles distinguish respiratory-support trajectories following thoracic trauma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42669654/",
+        "abstract": "Thoracic trauma is a major contributor to morbidity in severely injured patients and is frequently associated with prolonged mechanical ventilation, tracheostomy, and extended intensive care unit (ICU) treatment. Early identification of patients at risk for unfavorable respiratory-support trajectories remains challenging. Small extracellular vesicles (sEVs) are rapidly released in response to cellular activation and injury and may provide biological information complementary to established clinical parameters. In our study we analyzed CD9⁺CD14⁺ and CD9⁺CD61⁺ sEV subpopulations in 45 patients with thoracic trauma. sEV levels were quantified within 24 h after admission and evaluated in relation to clinically relevant respiratory-support trajectories, including the predefined primary respiratory-support endpoints of tracheostomy and prolonged mechanical ventilation (> 5 days). Prolonged ICU stay (> 5 days) was analyzed as a supportive endpoint reflecting overall intensive-care burden. Predictive performance was assessed using repeated cross-validated receiver operating characteristic (ROC) analysis and compared with predefined clinical injury, laboratory, and oxygenation-based models. Residual analyses were performed to determine whether EV-associated information extended beyond established thoracic injury severity scores. CD9⁺CD14⁺ sEVs represented the dominant EV signal and were significantly elevated in patients requiring tracheostomy (3.84-fold, p = 0.009), prolonged mechanical ventilation > 5 days (4.88-fold, p = 0.003), and prolonged ICU treatment > 5 days (5.62-fold, p = 0.003). Within this exploratory cohort, CD9⁺CD14⁺ sEVs demonstrated performance comparable to the clinical injury model and consistently performed significantly better than laboratory- and oxygenation-based approaches across multiple respiratory-support trajectory endpoints. Sensitivity analyses using stricter thresholds (> 10 days) yielded similar findings. Residual analyses further demonstrated that patients with higher-than-expected CD9⁺CD14⁺ levels relative to AIS Chest and TTSS exhibited increased rates of tracheostomy and prolonged mechanical ventilation, suggesting that EV-associated information is not fully explained by anatomical injury severity alone. We concluded that early CD9⁺CD14⁺ sEV levels are associated with unfavorable respiratory-support trajectories following thoracic trauma. While established injury scores primarily describe the extent of anatomical damage, EV-associated biomarkers may provide complementary information regarding the biological response to injury. These findings support further investigation of EV-based biomarkers as tools for early risk stratification in thoracic trauma and warrant validation in larger independent cohorts.",
+        "source": "PubMed",
+        "doi": "10.1186/s12890-026-04653-w",
+        "keyword": "Exosomes",
+        "title_ja": "傷害重症度を超えて：単球由来の小型細胞外小胞が胸部外傷後の呼吸補助経過を識別する",
+        "summary_ja": "胸部外傷は重症患者の morbidity の主因であり、長期的人工呼吸や気管切開、ICU滞在延長と関連する。早期のリスク層別化は困難である。本研究では、胸部外傷患者45例を対象に、CD9⁺CD14⁺およびCD9⁺CD61⁺小細胞外小胞（sEV）を入院24時間以内に定量し、呼吸サポート経路（気管切開、人工呼吸>5日、ICU滞在>5日）との関連を評価した。CD9⁺CD14⁺ sEVは主要シグナルであり、気管切開（3.84倍）、人工呼吸>5日（4.88倍）、ICU滞在>5日（5.62倍）で有意に上昇した。予測性能は臨床損傷モデルと同等で、検査値や酸素化モデルより優れていた。残差分析では、AIS胸部やTTSSから予測される値を超えるCD9⁺CD14⁺ sEV高値患者で気管切開や長期人工呼吸の頻度が高く、解剖学的重症度を超えた生物学的情報の付加が示唆された。早期のCD9⁺CD14⁺ sEVは胸部外傷"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Understanding extracellular vesicles in antiaging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42670765/",
+        "abstract": "Aging is a multifactorial process marked by gradual cellular dysregulation, regulated by hallmarks, including genomic instability, mitochondrial dysregulation, and chronic inflammation. Extracellular vesicles (EVs), especially exosomes, have emerged as pivotal mediators of cell-to-cell communication with potential roles in both enhancing and alleviating aging. This review aimed to synthesize existing literature on the mechanistic and therapeutic role of EVs in aging and age-associated disorders.",
+        "source": "PubMed",
+        "doi": "10.1111/prd.70070",
+        "keyword": "Exosomes",
+        "title_ja": "細胞外小胞による抗老化の理解",
+        "summary_ja": "細胞外小胞（EVs）、特にエクソソームは、細胞間コミュニケーションの重要なメディエーターとして、老化の促進と緩和の両方に関与する。老化は、ゲノム不安定性、ミトコンドリア機能不全、慢性炎症などの特徴によって制御される多因子プロセスである。本レビューは、老化および加齢関連疾患におけるEVsのメカニズムと治療的役割に関する既存文献を統合することを目的とする。EVsは、老化細胞から分泌される老化関連分泌表現型（SASP）因子の運搬体として作用し、炎症性微小環境を増幅する一方、若い細胞由来のEVsは、老化表現型を改善し、組織再生を促進する可能性が示されている。特に、エクソソームに含まれるマイクロRNAやタンパク質は、老化関連シグナル経路を調節し、ミトコンドリア機能や細胞老化を標的とする。治療応用として、間葉系幹細胞由来EVsは、加齢性疾患モデルで抗老化効果を示し、臨床応用への期待が高まる。しかし、E"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、注目すべき5つのトピックをまとめます。\n\n**1. 慢性腎臓病における無形成骨病（ABD）と骨同化療法**\nPTH過剰抑制がABDの主因とされ、従来のPTH抑制戦略の見直しが迫られています。骨形成促進薬への転換は、CKD患者の骨質改善と生命予後向上に寄与する可能性があり、腎性骨異栄養症治療のパラダイムシフトとして重要です。\n\n**2. 固形腫瘍へのCD20異所性発現によるリツキシマブ転用**\n癌細胞特異的にCD20を発現させることで、既存抗体薬の適応拡大が可能になります。抗原喪失やオフターゲット毒性を回避しつつ、確立された安全性を活用できる点で、迅速な臨床応用が期待される革新的アプローチです。\n\n**3. 骨髄線維症における感染症リスク管理**\n疾患自体の免疫不全に加え、治療による免疫調節が感染症リスクを増大させます。多因子性のリスク評価と予防的介入の最適化は、患者QOLと生存率向上に直結する臨床的課題です。\n\n**4. 胸部外傷後の単球関連sEVsによる呼吸管理予測**\nCD9⁺CD14⁺sEVsが人工呼吸期間や気管切開の必要性を早期に識別できる可能性を示しました。重症度スコアに依存しない新規バイオマーカーとして、ICUにおける個別化治療戦略の確立に貢献するでしょう。\n\n**5. 細胞外小胞（EVs）の抗老化作用**\nEVsは老化促進と抑制の両面で機能し、老化細胞由来の炎症性因子の除去や若齢細胞由来EVsによる組織修復が注目されています。老化の多因子プロセスを標的とした新規抗老化療法の基盤となる研究です。"
+}

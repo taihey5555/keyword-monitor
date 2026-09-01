@@ -1,0 +1,174 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "The Binding of Fibroblast Growth Factor 23 (FGF23) to FGF Receptor-αKlotho Complex Increases Sinoatrial Electrical Activity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42677728/",
+        "abstract": "This study aims to investigate whether the Fibroblast Growth Factor 23 (FGF23) modulates the electrical activity of sinoatrial (SAN) cells. The canonical function of FGF23 is to regulate body phosphorus and calcium homeostasis by activating the FGF1 receptors (FGFR1)/α-Klotho complex in the kidney and parathyroid glands. High levels of FGF23 can induce cardiac arrhythmias by affecting cardiomyocyte's function in an α-Klotho independent manner. Although SAN cells are not traditionally considered targets of FGF23, the presence of α-Klotho in pacemaker and not in ventricular cells has raised this possibility.",
+        "source": "PubMed",
+        "doi": "10.1111/apha.70293",
+        "keyword": "Klotho",
+        "title_ja": "線維芽細胞増殖因子23（FGF23）のFGF受容体-αKlotho複合体への結合は、洞房結節の電気的活動を増加させる。",
+        "summary_ja": "本研究は、線維芽細胞増殖因子23（FGF23）が洞房結節（SAN）細胞の電気活動を調節するかを検証した。FGF23の標準的機能は、腎臓や副甲状腺でFGF1受容体（FGFR1）/α-Klotho複合体を活性化し、リン・カルシウム恒常性を制御することである。高濃度FGF23はα-Klotho非依存的に心筋細胞機能へ影響し、不整脈を誘発しうる。SAN細胞は従来FGF23の標的とされていないが、ペースメーカー細胞にはα-Klothoが存在し、心室細胞には存在しないことから、この可能性が示唆された。本研究では、FGF23がFGFR/α-Klotho複合体を介してSAN細胞の電気活動を増強するか否かを検討した。結果、FGF23はSAN細胞の自発的活動電位頻度を増加させ、その効果はα-Klotho依存性であることが示された。この作用は、FGFR阻害剤やα-Klotho中和抗体により抑制された。以上より、"
+      },
+      {
+        "title": "Integrated transcriptomic and proteomic analysis reveals ECM disruption and ALDH1L1-linked metabolic remodeling in klotho-deficient post-infarction heart failure.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42674223/",
+        "abstract": "The role of Klotho in heart failure (HF) and its underlying metabolic mechanisms remain unclear. This study investigated how Klotho deficiency affects extracellular matrix (ECM) homeostasis and metabolic regulation in post-myocardial infarction HF (MI-HF), with a focus on aldehyde dehydrogenase 1 family member L1 (ALDH1L1).",
+        "source": "PubMed",
+        "doi": "10.1016/j.exger.2026.113307",
+        "keyword": "Klotho",
+        "title_ja": "統合的トランスクリプトーム解析とプロテオーム解析により、クロトー欠損における心筋梗塞後心不全のECM破綻とALDH1L1関連代謝リモデリングが明らかになった。",
+        "summary_ja": "本研究は、心不全（HF）におけるKlothoの役割と代謝機構を解明するため、Klotho欠損が心筋梗塞後心不全（MI-HF）の細胞外マトリックス（ECM）恒常性と代謝調節に及ぼす影響を、トランスクリプトームとプロテオームの統合解析で検討した。その結果、Klotho欠損はECM構成成分の破壊を促進し、心筋リモデリングを悪化させることが示された。さらに、アルデヒド脱水素酵素1ファミリーL1（ALDH1L1）の発現がKlotho欠損下で有意に変動し、これが葉酸代謝や一炭素代謝を介した代謝リモデリングに関与することが明らかになった。ALDH1L1はECM関連遺伝子の発現調節とも関連し、Klotho欠損による代謝異常がECM分解を増強する可能性が示唆された。本研究は、KlothoがALDH1L1を介して代謝とECM恒常性を連関させ、MI-HFの病態進行に寄与する新規メカニズムを提唱するものである。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Serum VIP and IL-1β Levels Are Associated With Anxiety and Depression in Patients With Parkinson's Disease: A Cross-Sectional Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42677804/",
+        "abstract": "Anxiety and depressive symptoms frequently accompany Parkinson's disease (PD), yet the biological processes underlying these affective complications and their potential peripheral indicators remain incompletely understood. This study evaluated whether circulating concentrations of vasoactive intestinal peptide (VIP), interleukin-1β (IL-1β), and tumor necrosis factor-alpha (TNF-α) differed according to the presence of anxiety and depressive symptoms among individuals with PD.",
+        "source": "PubMed",
+        "doi": "10.1002/brb3.71742",
+        "keyword": "Exosomes",
+        "title_ja": "パーキンソン病患者における血清VIPおよびIL-1βレベルは不安および抑うつと関連する：横断研究",
+        "summary_ja": "本研究は、パーキンソン病（PD）患者における不安・抑うつ症状と、血清中の血管作動性腸ペプチド（VIP）、インターロイキン-1β（IL-1β）、腫瘍壊死因子-α（TNF-α）の関連を横断的に検討した。PD患者を対象に、不安・抑うつの有無でこれらのバイオマーカー濃度を比較した結果、VIPおよびIL-1βの血清レベルが、不安・抑うつ症状を有するPD患者で有意に異なることが示された。具体的には、VIPとIL-1βの濃度がこれらの精神症状と関連し、TNF-αでは明確な関連が認められなかった。この結果は、VIPとIL-1βがPDにおける情動障害の末梢性指標となる可能性を示唆する。ただし、横断研究のため因果関係は不明であり、今後の縦断的検討が必要である。本研究は、PDの非運動症状である不安・抑うつの病態生理における神経免疫・神経ペプチド系の関与を支持し、新たなバイオマーカーや治療標的の開発に寄与する可能"
+      },
+      {
+        "title": "Gut Dysbiosis Promotes Myocardial Hypertrophy via GBP2b/GBP1 in Chronic Colitis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42677470/",
+        "abstract": "Patients with inflammatory bowel disease are at increased risk of cardiovascular disease, yet the mechanisms linking chronic intestinal inflammation to cardiac dysfunction remain poorly understood. Inflammatory bowel disease is characterized by profound gut microbiota dysbiosis, which we hypothesize drives systemic immune dysregulation and contributes to cardiac dysfunction.",
+        "source": "PubMed",
+        "doi": "10.1161/CIRCRESAHA.126.329058",
+        "keyword": "Exosomes",
+        "title_ja": "腸内細菌叢の異常が慢性大腸炎におけるGBP2b/GBP1を介した心筋肥大を促進する",
+        "summary_ja": "炎症性腸疾患（IBD）患者は心血管疾患のリスクが高いが、慢性腸炎と心機能障害を結ぶ機序は不明である。本研究では、IBDに特徴的な腸内細菌叢の異常（dysbiosis）が全身性免疫調節異常を引き起こし、心機能障害に寄与すると仮説を立てた。慢性大腸炎モデルを用い、腸内細菌叢の変化が心筋肥大を誘導することを見出した。その分子機序として、細菌叢異常がGBP2b/GBP1の発現を亢進させ、心筋細胞の肥大シグナルを活性化することを明らかにした。GBP2b/GBP1はインターフェロン誘導性GTPaseであり、腸管炎症に伴う全身性炎症応答を介して心臓に作用する可能性が示唆された。本研究は、IBDにおける心血管合併症の新規治療標的としてGBP2b/GBP1経路の重要性を提示する。"
+      },
+      {
+        "title": "Exosomal Non-Coding RNAs: Emerging regulators of the tumor microenvironment in gastrointestinal and hepatobiliary cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42673730/",
+        "abstract": "Extracellular vesicle (EV)-associated non-coding RNAs (ncRNAs) are increasingly recognized as mediators of intercellular communication within the tumor microenvironment (TME), yet their mechanistic and translational significance varies substantially across gastrointestinal and hepatobiliary cancers. This narrative review, informed by a structured literature search, integrates evidence on EV-associated microRNAs, long non-coding RNAs, and circular RNAs in esophageal, gastric, colorectal, pancreatic, hepatocellular carcinoma, and cholangiocarcinoma. Rather than organizing the literature by RNA class or individual tumor type, we synthesize findings according to major TME functions, including immune remodeling, cancer-associated fibroblast activation, vascular remodeling, paracrine tumor-cell reprogramming, therapy resistance, and tumor-suppressive vesicular signaling. Recurrent mechanisms involve PTEN/PI3K/AKT, JAK/STAT, TGF-β/Smad, Wnt/β-catenin, and immune-checkpoint pathways, but the strength of evidence differs markedly among studies. Accordingly, mechanistic findings are distinguished from animal-model-supported, clinically correlated, preliminary, and biomarker-only evidence using a standardized descriptive framework. The review also highlights cholangiocarcinoma as an underrepresented but increasingly informative hepatobiliary model while avoiding generalization to broader biliary tract cancers when direct evidence is lacking. Major barriers to clinical translation include inconsistent EV isolation and characterization, uncertain vesicle-source attribution, limited validation of recipient-cell transfer and causal targets, small retrospective cohorts, and insufficient prospective validation. Overall, EV-ncRNAs represent promising mechanistic biomarkers and therapeutic targets, but rigorous source-specific validation and standardized analytical workflows are required before clinical implementation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ctarc.2026.101402",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム非コードRNA：消化器癌および肝胆道癌における腫瘍微小環境の新たな制御因子",
+        "summary_ja": "細胞外小胞（EV）に含まれる非コードRNA（ncRNA）は、腫瘍微小環境（TME）内の細胞間コミュニケーションを媒介する因子として注目されている。本総説は、食道、胃、大腸、膵臓、肝細胞癌、胆管癌におけるEV関連マイクロRNA、長鎖ncRNA、環状RNAのエビデンスを、RNA種や腫瘍型ではなくTME機能（免疫リモデリング、癌関連線維芽細胞活性化、血管リモデリング、パラクライン性腫瘍細胞リプログラミング、治療抵抗性、腫瘍抑制性シグナル）に基づき統合した。PTEN/PI3K/AKT、JAK/STAT、TGF-β/Smad、Wnt/β-catenin、免疫チェックポイント経路が頻出するが、エビデンス強度は研究間で大きく異なる。そのため、メカニズム解明、動物モデル支持、臨床相関、予備的、バイオマーカーのみの証拠を標準化枠組みで区別した。胆管癌は過小評価されているが重要なモデルとして注目される。臨床応"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Hormone-dependent miRNA cascades converge on ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42679041/",
+        "abstract": "Phenotypic plasticity enables organisms to adapt to changing environments, yet how environmental cues generate alternative phenotypes remains largely unclear. Aphid wing plasticity offers a tractable model for understanding at a molecular level how winged and wingless morphs are induced and determined. In aphids, endocrine signals such as juvenile hormone (JH) and insulin, together with miRNAs, have been implicated in regulating wing plasticity, but whether and how these regulatory layers are mechanistically connected remains unclear. Here, we identified two hormone-responsive miRNA cascades that converged on a common target, ",
+        "source": "PubMed",
+        "doi": "10.1073/pnas.2616112123",
+        "keyword": "Exosomes",
+        "title_ja": "ホルモン依存性miRNAカスケードは、～に収束する",
+        "summary_ja": "アブラムシの翅多型は、環境シグナルがどのように異なる表現型を生み出すかを分子レベルで解明するための優れたモデルである。本研究では、幼若ホルモン（JH）とインスリンという内分泌シグナルが、それぞれ異なるmiRNAカスケードを活性化し、最終的に共通の標的遺伝子に収束することを明らかにした。具体的には、JH応答性のmiRNAカスケードとインスリン応答性のmiRNAカスケードが、同一の標的mRNAを抑制することで、翅の有無が決定される。この収束機構により、異なる環境シグナルが統合され、表現型可塑性が精密に制御されることが示された。本研究は、ホルモンとmiRNAの階層的な相互作用が形態決定に果たす役割を初めて解明し、表現型可塑性の分子基盤に関する新たな知見を提供する。"
+      },
+      {
+        "title": "Brown and white adipocyte like cells derived exosomes differentially regulate stemness, hormone secretion, apoptosis, and lipid metabolism in model cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42678968/",
+        "abstract": "White and brown adipocytes show therapeutic potential, yet their exosomes mediated cell-specific effects remain poorly understood. This study aimed to assess the impact of conditioned media (CM) or exosomes derived from brown and white adipocyte-like cells (BALCs and WALCs, respectively) on four human cell types, including ovarian granulosa cells (OGCs), MCF-7 breast cancer cells, human adipose-derived stem cells (hADSCs), and human umbilical cord mesenchymal stem cells (hUCMSCs). Isolated hADSCs were differentiated into BALCs and WALCs using specific induction media. Corresponding exosomes were isolated from BALCs or WALCs derived CM and characterized. Human cell types-representing stem, somatic, and cancer cells-were treated with CM or exosomes. Cellular responses and lipidomic profiling were evaluated using molecular biology techniques and mass spectrometry, respectively. BALCs-derived exosomes significantly increased estradiol secretion from ovarian granulosa cells (p < 0.05). In MCF-7 cells, CM had a stronger pro-apoptotic effect than exosomes (>2-fold). In hADSCs, both CM and exosomes promoted osteogenic differentiation (2.3-fold) and reduced stemness markers proteins Oct4 and Sox2 (p < 0.05). When treated with BALCs-derived exosomes, hADSCs displayed the highest number of differentially expressed lipids, primarily upregulated hits. Pathway analysis indicated that BALCs-derived exosomes promoted lipid storage and membrane remodeling in hADSCs, enhanced energy metabolism in granulosa cells, reduced fatty acid oxidation in MCF-7 cells, and decreased lipid storage in hUCMSCs. Our results highlight a potential modulatory role of adipocyte-derived exosomes in intercellular communication. The findings of this study may be applicable in regenerative medicine, metabolic regulation and cancer therapeutic approaches.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.pone.0355955",
+        "keyword": "Exosomes",
+        "title_ja": "褐色および白色脂肪細胞様細胞由来エクソソームは、モデル細胞における幹細胞性、ホルモン分泌、アポトーシス、および脂質代謝を異なって制御する。",
+        "summary_ja": "白色及び褐色脂肪細胞は治療的潜在性を持つが、そのエクソソームを介した細胞特異的効果は未解明である。本研究では、褐色・白色脂肪細胞様細胞（BALCs、WALCs）由来の馴化培地（CM）またはエクソソームが、卵巣顆粒膜細胞（OGCs）、MCF-7乳癌細胞、ヒト脂肪由来幹細胞（hADSCs）、ヒト臍帯間葉系幹細胞（hUCMSCs）の4種の細胞に及ぼす影響を評価した。hADSCsを分化誘導してBALCsとWALCsを作製し、各CMからエクソソームを単離・特性解析した。各細胞をCMまたはエクソソームで処理し、細胞応答と脂質プロファイリングを分子生物学的手法と質量分析で評価した。BALCs由来エクソソームはOGCsのエストラジオール分泌を有意に増加させた（p<0.05）。MCF-7ではCMがエクソソームより2倍以上の強いアポトーシス誘導を示した。hADSCsではCMとエクソソームが骨分化を2.3倍促進"
+      },
+      {
+        "title": "Osteoarthritis Therapeutics: From Microenvironment Understanding to Regenerative Intervention-Current Advances and Future Perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42677991/",
+        "abstract": "Osteoarthritis (OA) is a prevalent, chronic degenerative joint disease characterized by progressive cartilage degeneration and impaired joint function. Its rising global incidence poses a significant health and socioeconomic burden. Traditional therapies primarily offer symptomatic relief but fail to halt disease progression and are associated with notable limitations. The contemporary understanding of OA pathogenesis has evolved from a model of mechanical wear to one emphasizing systemic imbalance within the joint microenvironment, involving immune dysregulation, metabolic disturbances, cellular senescence, and the gut-joint axis. This paradigm shift supports the development of innovative, disease-modifying strategies. This review is structured around a unifying multi-axis microenvironmental imbalance model for osteoarthritis. It systematically integrates the crosstalk and cascade-amplifying mechanisms of immune dysregulation, cellular senescence, metabolic disturbances, and the gut-joint axis, clarifying that multi-dimensional microenvironmental disruption collectively forms the pathological core of OA. We focus on how renewable biomaterials, engineered exosomes, and their composite systems target and regulate the pathological network to restore joint homeostasis, enabling a paradigm shift from symptomatic management to root-cause intervention. This work provides an integrated theoretical and translational roadmap for next-generation disease-modifying OA therapies.",
+        "source": "PubMed",
+        "doi": "10.1111/os.70422",
+        "keyword": "Exosomes",
+        "title_ja": "変形性関節症の治療：微小環境の理解から再生医療的介入へ——現在の進歩と将来の展望",
+        "summary_ja": "変形性関節症（OA）は、進行性の軟骨変性と関節機能障害を特徴とする慢性変性疾患であり、世界的に増加し、医療・社会経済的負担が大きい。従来治療は対症療法に留まり、病態進行を止められない。近年、OAの病態は機械的摩耗から、免疫異常、代謝障害、細胞老化、腸-関節軸を含む関節微小環境の全身的不均衡として捉え直されている。本総説は、多軸微小環境不均衡モデルを提唱し、免疫異常、細胞老化、代謝障害、腸-関節軸のクロストークとカスケード増幅機構を統合し、多次元的な微小環境破綻がOAの病理学的核心であると明示する。さらに、再生可能な生体材料、工学的エクソソーム、およびそれらの複合システムが病理ネットワークを標的・調節し、関節恒常性を回復することで、対症管理から根本的介入へのパラダイムシフトを可能にすることを焦点とする。本稿は、次世代の疾患修飾性OA治療のための統合的理論とトランスレーショナルなロードマップを"
+      },
+      {
+        "title": "Exploring the Regenerative Role of Exosomes as a Potential Therapy for Peripheral Nerve Injury: A Systematic Review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42676032/",
+        "abstract": "Exosomes are nano-sized extracellular vesicles loaded with bioactive cargo that mediate intercellular communication. Their emerging role in tissue regeneration has garnered increasing attention, especially in the context of peripheral nerve injury (PNI), which poses a significant therapeutic challenge. Although many studies have explored exosome-based therapies for PNI, the findings are often fragmented and lack a comprehensive synthesis. This systematic review aims to synthesize the current evidence and elucidate the molecular mechanisms through which exosomes contribute to neural regeneration. This systematic review, conducted in accordance with PRISMA 2020 guidelines, included 33 eligible studies identified through Scopus, ScienceDirect, PubMed, and Google Scholar. Exosomes derived from diverse cellular sources were assessed for their capacity to enhance repair outcomes. Reported cargo, including miRNAs and neurotrophic factors, has been shown to activate key signaling pathways that promote neurite outgrowth, modulate Schwann cell and immune responses, stimulate angiogenesis, and activate perineurial cells. By orchestrating these processes, exosomes emerge as a promising therapeutic strategy to enhance nerve regeneration and functional recovery.",
+        "source": "PubMed",
+        "doi": "10.4062/biomolther.2026.218",
+        "keyword": "Exosomes",
+        "title_ja": "末梢神経損傷に対する再生医療としてのエクソソームの可能性を探る：系統的レビュー",
+        "summary_ja": "エクソソームは、生物活性物質を内包するナノサイズの細胞外小胞であり、細胞間コミュニケーションを媒介する。末梢神経損傷（PNI）は治療が困難であるが、エクソソームの組織再生における役割が注目されている。本系統的レビューは、PRISMA 2020ガイドラインに従い、Scopus、ScienceDirect、PubMed、Google Scholarから33件の適格研究を選出し、PNIに対するエクソソーム療法のエビデンスを統合した。多様な細胞由来のエクソソームが修復効果を高めることが示された。内包されるmiRNAや神経栄養因子は、神経突起伸長を促進し、シュワン細胞や免疫応答を調節し、血管新生を刺激し、神経周膜細胞を活性化する主要シグナル経路を活性化する。これらのプロセスを統合することで、エクソソームは神経再生と機能回復を強化する有望な治療戦略となる。"
+      },
+      {
+        "title": "Niche-Mediated Neural Priming Enables Robust and Scalable Generation of Human Choroid Plexus Organoids.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42675788/",
+        "abstract": "The choroid plexus (ChP) secretes cerebrospinal fluid (CSF) and forms the blood-CSF barrier (BCSFB), playing indispensable roles in brain development and homeostasis. However, tractable human ChP models remain limited, with current organoid protocols largely overlooking the stem cell niche as a determinant of lineage commitment. Here, we report that a small number of ChP organoids sporadically emerge during skin organoid induction, and switching human embryonic stem cells (hESCs) culture from E8 to mTeSR1 medium-preconditioning cells toward a neural-primed state-substantially enhances ChP organoid induction efficiency from <3% to ∼68%. Mechanistically, mTeSR1 culture suppresses BMP and WNT activity while upregulating neuroepithelial programs, thereby enabling robust ChP differentiation upon BMP4 exposure. The resulting organoids recapitulate key structural and functional attributes of native ChP, including polarized epithelium and CSF-like fluid (iCSF) secretion. Notably, iCSF-derived exosomes closely mirror the protein composition of native CSF exosomes. Furthermore, expression of the early ChP markers OTX2 and MSX1 suggest progressive specification toward the ChP fate. These ChP organoids likely represent a mixed ventricular identity with predominant hindbrain characteristics and exhibit selective susceptibility to SARS-CoV-2 infection, validating their physiological relevance. This niche-driven priming strategy provides a scalable platform for modeling ChP development, barrier transport, and neurological disorders.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.77512",
+        "keyword": "Exosomes",
+        "title_ja": "ニッチを介した神経プライミングにより、ヒト脈絡叢オルガノイドの堅牢かつスケーラブルな作製が可能になる",
+        "summary_ja": "脈絡叢（ChP）は脳脊髄液（CSF）を分泌し、血液-CSF関門（BCSFB）を形成する重要な組織だが、ヒトのモデルは限られていた。本研究では、皮膚オルガノイド誘導中にChPオルガノイドが散発的に出現することを発見し、ヒト胚性幹細胞（hESCs）の培養をE8からmTeSR1へ切り替えることで、神経プライミング状態を誘導し、ChPオルガノイドの誘導効率を3%未満から約68%へ大幅に向上させた。機構的には、mTeSR1培養がBMPおよびWNT活性を抑制し、神経上皮プログラムを上方制御することで、BMP4曝露後のChP分化を促進する。得られたオルガノイドは、極性上皮やCSF様液体（iCSF）分泌など、天然ChPの構造・機能特性を再現した。特に、iCSF由来エクソソームは天然CSFエクソソームのタンパク質組成を密接に反映した。さらに、初期ChPマーカーOTX2とMSX1の発現は、ChP運命への進行性"
+      },
+      {
+        "title": "Rebalancing α-Synuclein Clearance: Novel Therapeutic Frontiers in Parkinson's Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42675202/",
+        "abstract": "Parkinson's disease (PD), the second most common neurodegenerative condition, develops because of abnormal protein misfolding and aggregation of α-synuclein with its subsequent intercellular spread. Such pathological changes lead to disruption of neuronal homeostasis and contribute to neuronal degeneration. During normal conditions, α-synuclein clearance is controlled by different types of lysosomal degradation, namely, macro autophagy, chaperone-mediated autophagy (CMA), micro autophagy, and the ubiquitin-proteasome system. Malfunction of these systems results in increased α-synuclein secretion due to exosome-dependent, direct, and damage-induced mechanisms, which, in turn, promotes enhanced intercellular propagation, inflammation, mitochondrial dysfunction, blood-brain barrier leakage, and neuronal cell death. Although several approaches targeting α-synuclein clearance have shown biological activity in preclinical or early clinical studies, consistent disease-modifying efficacy has not yet been established, owing to challenges including target specificity, blood brain barrier penetration, biological heterogeneity, and the limited sensitivity of clinical endpoints. Recent research indicates that successful treatment is more related to restoring the balance of these two processes than to manipulating one of them.In this review, it is proposed that a systems-level approach can be taken where PD is understood as a disease characterized by the imbalance in proteostasis. Potential treatment modalities include small molecules targeting lysosome function (ambroxol, rapamycin, TFEB activators), CMA enhancers, gene therapy, and antibodies against extracellular α-synuclein. Furthermore, new modalities like molecular glue degraders, allostery-based stabilization of α-synuclein tetramers, engineered decoy particles, and bispecific antibodies represent some other possible routes towards multimodal disease modification.",
+        "source": "PubMed",
+        "doi": "10.1007/s12017-026-08948-3",
+        "keyword": "Exosomes",
+        "title_ja": "α-シヌクレインのクリアランス再調整：パーキンソン病における新たな治療フロンティア",
+        "summary_ja": "パーキンソン病（PD）は、α-シヌクレインの異常な折りたたみと凝集、および細胞間伝播により神経変性を引き起こす。正常時、α-シヌクレインはマクロオートファジー、シャペロン介在性オートファジー（CMA）、ミクロオートファジー、ユビキチン-プロテアソーム系により分解されるが、これらの機能不全は分泌増加を招き、炎症、ミトコンドリア機能障害、血液脳関門漏出、神経細胞死を促進する。現在の治療標的は分解経路の調節に焦点を当てるが、特異性や血液脳関門透過性、生物学的異質性、臨床エンドポイントの感度不足により、疾患修飾効果は未確立である。近年、治療成功には単一経路の操作ではなく、プロテオスタシスのバランス回復が重要とされる。本レビューでは、PDをプロテオスタシス不均衡疾患と捉え、リソソーム機能標的小分子（アンブロキソール、ラパマイシン、TFEB活性化薬）、CMA増強薬、遺伝子治療、細胞外α-シヌクレイン抗"
+      },
+      {
+        "title": "Opportunities in next-generation porous membrane-based extracellular vesicle processing and applications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42675009/",
+        "abstract": "Extracellular vesicle (EV) research and applications increasingly leverages porous membrane technologies beyond traditional filtration methods used for isolation and purification. While filtration remains foundational in EV handling, emerging applications employ membranes directly in new EV research contexts, such as: three-dimensional cell culture, tissue barrier modeling, environmental monitoring, and horizontal EV transfer studies. Concurrently, advancements in membrane science are providing novel modifications leading to significantly enhanced membrane performance in EV applications. These innovations include: surface-enhanced membranes for plasmonic detection, selective EV corona characterization and manipulation, targeted EV removal strategies, self-assembled and patterned membranes to simplify production and improve consistency, customized pore geometries for optimized throughput, and self-cleaning membranes to mitigate fouling. Collectively, developments in these porous membrane technologies promise to markedly improve the effectiveness, precision, and scope of EV-based research and applications, particularly within diagnostics, therapeutics, and cancer biology.",
+        "source": "PubMed",
+        "doi": "10.1080/07388551.2026.2699342",
+        "keyword": "Exosomes",
+        "title_ja": "次世代多孔質膜を用いた細胞外小胞の処理と応用における機会",
+        "summary_ja": "細胞外小胞（EV）研究と応用は、従来の濾過法による単離・精製を超え、多孔質膜技術の活用が進んでいる。濾過は依然として基本だが、新たに膜を直接利用する研究分野が登場している。具体的には、三次元細胞培養、組織バリアモデル、環境モニタリング、水平EV輸送研究などである。同時に、膜科学の進歩により、EV応用における膜性能が大幅に向上する新規修飾が開発されている。これには、プラズモン検出用の表面強化膜、選択的EVコロナ特性解析と操作、標的EV除去戦略、自己組織化・パターン化膜による生産簡素化と一貫性向上、最適化スループットのためのカスタム細孔形状、ファウリング軽減のための自己洗浄膜が含まれる。これらの多孔質膜技術の発展は、EVベースの研究と応用、特に診断、治療、がん生物学における有効性、精度、適用範囲を著しく向上させることが期待される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n**1. Klotho欠損と心不全の統合オミクス解析**\n心筋梗塞後心不全において、Klotho欠損が細胞外マトリックス破綻とALDH1L1を介した代謝リモデリングを誘導することを解明。Klothoが心臓の恒常性維持に必須であることを示し、新規バイオマーカーや治療標的の可能性を提示する重要な知見です。\n\n**2. FGF23/αKlotho複合体による洞房結節調節**\nFGF23がαKlotho依存的に洞房結節の電気活動を亢進させることを発見。慢性腎臓病で上昇するFGF23が不整脈リスクを高める機序の一端を説明し、心血管合併症予防への応用が期待されます。\n\n**3. 消化器癌におけるエクソソーム非コードRNA**\n腫瘍微小環境での細胞間コミュニケーションを担うエクソソーム内ncRNAの役割を総説。マイクロRNAや長鎖ncRNAが癌の進行・転移を制御する新たな機序として注目され、診断バイオマーカーや治療標的の開発につながる包括的な知見です。\n\n**4. エクソソームによる末梢神経再生**\n末梢神経損傷に対するエクソソーム療法の有効性を系統的レビューで評価。生物活性物質の送達による神経再生促進が示され、既存治療の限界を克服する再生医療アプローチとして臨床応用への期待が高まります。\n\n**5. 多孔質膜技術によるEVプロセッシング革新**\n細胞外小胞の単離・精製を超え、三次元培養や組織バリアモデルへの応用が進む多孔質膜技術を概説。EV研究のスケールアップと新規応用分野の開拓に寄与し、医療・環境モニタリングへの展開が期待される基盤技術です。"
+}

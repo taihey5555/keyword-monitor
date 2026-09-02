@@ -1,0 +1,191 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "miRNAs as cell-intrinsic epigenetic regulators in muscle in type 2 diabetes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42680724/",
+        "abstract": "miRNAs are important metabolic regulators and are altered at both the cellular and secreted levels in diseases, including type 2 diabetes (T2D). However, to what extent these alterations are in response to factors in the in vivo milieu or are cell-intrinsic remains unclear. Here we used a disease-in-a-dish model in which iPSCs from T2D patients and controls were differentiated into myoblasts (iMyos), and their cellular and secreted miRNAs were profiled. We found that iMyos from T2D donors exhibit cell-intrinsic alterations in miRNA expression and secretion in small extracellular vesicles (sEVs)/exosomes. Integrating miRNA-predicted targets with transcriptomic and proteomic data revealed that miRNAs altered in T2D iMyos were associated with coordinated changes in their predicted targets, but with a much greater impact on protein than on mRNA levels. This effect was validated by miRNA overexpression in control iMyos. The upregulated miRNAs targeted pathways related to aerobic respiration, membrane trafficking, and RNA metabolism. Even more marked changes were observed in sEV-associated miRNAs secreted by T2D iMyos, indicative of T2D-associated effects on miRNA sorting and release. Target genes of secreted miRNAs altered in T2D iMyos were enriched in metabolic pathways including insulin signaling and mitochondrial metabolism. Consistent with this, sEVs derived from control iMyos increased glucose uptake and mitochondrial function in recipient human white adipocytes, whereas sEVs from T2D iMyos did not. Thus, in T2D, muscle exhibits cell-intrinsic alterations in expression and secretion of miRNAs, which function as epigenetic regulators of protein expression locally, as well as potentially in distal tissues.",
+        "source": "PubMed",
+        "doi": "10.1038/s41392-026-02846-7",
+        "keyword": "Exosomes",
+        "matched_keywords": [
+          "Exosomes",
+          "sEVs"
+        ],
+        "title_ja": "2型糖尿病における筋肉の細胞内在性エピジェネティック制御因子としてのmiRNA",
+        "summary_ja": "2型糖尿病（T2D）では、miRNAが細胞内および分泌レベルで変化するが、その変化が生体内環境への応答か細胞内在性かは不明である。本研究では、T2D患者と健常者由来のiPSCを筋芽細胞（iMyos）に分化させる疾患モデルを用い、細胞内および小型細胞外小胞（sEVs）/エクソソーム中のmiRNAを解析した。T2D由来iMyosでは、miRNA発現と分泌に細胞内在性の変化が認められた。miRNAの予測標的とトランスクリプトーム・プロテオームデータの統合解析により、変化したmiRNAは標的タンパク質の発現に協調的影響を与え、mRNAレベルよりタンパク質レベルで顕著であった。miRNA過剰発現で検証され、上昇したmiRNAは好気呼吸、膜輸送、RNA代謝経路を標的とした。分泌されたsEV関連miRNAではさらに顕著な変化が見られ、T2D特異的なmiRNA選別・放出への影響が示唆された。分泌miRNA"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Anti-BCMA CAR-NK Cells Reveal Enhanced Cytolytic and Secretory Responses Against Myeloma Cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42682210/",
+        "abstract": "Multiple myeloma (MM) is a hematologic malignancy characterized by uncontrolled malignant plasma cell proliferation. B-cell maturation antigen (BCMA) is an attractive therapeutic target due to its high expression on malignant plasma cells. In this study, BCMA-directed CAR-NK-92 cells were generated via lentiviral transduction of a second-generation CAR construct. CAR expression was confirmed by flow cytometry (81% efficiency). Engineered cells were functionally evaluated against BCMA-positive (U266, RPMI-8226) myeloma cell lines, as well as BCMA-negative control cells (K562, Jurkat). CAR-NK-92 cells demonstrated significantly enhanced cytotoxic activity against BCMA-positive targets compared with parental NK-92 cells (e.g., 87% vs. 54% cytotoxicity at 1:1, p < 0.001). Enhanced antitumor activity was accompanied by increased CD107α surface expression and elevated secretion of perforin, granzyme B, TNF-α, and IFN-γ (p < 0.05). No significant differences in cytotoxicity or cytokine secretion were observed against BCMA-negative control cells (p > 0.05), supporting antigen-specific activity. Importantly, CAR-NK-92 cells also exhibited potent cytotoxicity and significantly elevated cytokine secretion against primary CD138+ myeloma cells isolated from patient bone marrow aspirates. These findings demonstrate that anti-BCMA CAR-NK-92 cells exhibit potent and selective antimyeloma activity in vitro, supporting CAR-NK-92 cells as an off-the-shelf immunotherapeutic platform for multiple myeloma.",
+        "source": "PubMed",
+        "doi": "10.1111/apm.70256",
+        "keyword": "NK cell therapy",
+        "title_ja": "抗BCMA CAR-NK細胞は、骨髄腫細胞に対する細胞溶解能と分泌応答の増強を示す。",
+        "summary_ja": "多発性骨髄腫（MM）は悪性形質細胞の異常増殖を特徴とする血液がんである。B細胞成熟抗原（BCMA）は悪性形質細胞に高発現し、有望な治療標的である。本研究では、第2世代CAR構築物をレンチウイルスで導入し、BCMA標的CAR-NK-92細胞を作製した。CAR発現はフローサイトメトリーで確認され（効率81%）、BCMA陽性骨髄腫細胞株（U266、RPMI-8226）および陰性対照細胞（K562、Jurkat）を用いて機能評価を行った。CAR-NK-92細胞は、親NK-92細胞と比較し、BCMA陽性標的に対する細胞傷害活性が有意に亢進した（1:1で87%対54%、p<0.001）。また、CD107α発現上昇と、パーフォリン、グランザイムB、TNF-α、IFN-γの分泌増加を伴った（p<0.05）。BCMA陰性細胞では差は認められず（p>0.05）、抗原特異的活性が示された。さらに、患者骨髄由来の"
+      },
+      {
+        "title": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42682184/",
+        "abstract": "Colorectal cancer (CRC) is a widespread health issue that attains high mortality. The adaptor protein SH3BP2 amplification results in metabolic changes, oxidative stress, NK cell activity, and inflammation. The NK cells are capable of destroying tumor cells without prior activation, help prevent metastasis, and have prognostic value. Targeting SH3BP2 to regulate NK cell activity in the TME could enhance CRC-based immunotherapy.",
+        "source": "PubMed",
+        "doi": "10.1080/17410541.2026.2723766",
+        "keyword": "NK cell therapy",
+        "title_ja": null,
+        "summary_ja": "大腸がん（CRC）は死亡率の高い広範な健康問題である。アダプタータンパク質SH3BP2の増幅は、代謝変化、酸化ストレス、NK細胞活性、炎症を引き起こす。NK細胞は事前活性化なしに腫瘍細胞を破壊でき、転移予防や予後評価に有用である。腫瘍微小環境（TME）におけるNK細胞活性を調節するためSH3BP2を標的とすることで、CRCベースの免疫療法を強化できる可能性がある。"
+      },
+      {
+        "title": "Innate immune imprints shape HIV-1 reservoir cell persistence during long-term antiretroviral therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42680897/",
+        "abstract": "Host immune responses that can target and eliminate HIV-1 reservoir cells during suppressive antiretroviral therapy are poorly understood. Here, analyzing over 6,000 proviral DNA amplicons from 104 individuals on long-term antiretroviral therapy, we found that carriers of HLA-C2 allotypes, which promote NK cell education via interactions with KIR2DL1, exhibited lower frequencies of intact proviruses. No protective effects of HLA-C2 alleles were observed during untreated infection, suggesting a selective vulnerability of reservoir cells to NK-cell-mediated immune activity under antiretroviral therapy. Supporting this, frequencies of KIR2DL1",
+        "source": "PubMed",
+        "doi": "10.1038/s41590-026-02637-w",
+        "keyword": "NK cell therapy",
+        "title_ja": "自然免疫の刻印が長期抗レトロウイルス療法中のHIV-1リザーバー細胞の持続性を形成する",
+        "summary_ja": "この論文は、長期抗レトロウイルス療法（ART）中のHIV-1リザーバー細胞の持続性に自然免疫が関与することを示した研究である。104人の長期ART患者から6,000以上のプロウイルスDNAアンプリコンを解析した結果、NK細胞の教育をKIR2DL1との相互作用を介して促進するHLA-C2アロタイプ保有者では、無傷プロウイルスの頻度が低いことが判明した。一方、未治療感染時にはHLA-C2アレルの保護効果は観察されず、ART下でのみリザーバー細胞がNK細胞介在性免疫活性に対して選択的に脆弱であることが示唆された。さらに、KIR2DL1の頻度もこの関連性を支持した。これらの知見は、ART中のHIVリザーバー細胞の排除におけるNK細胞の役割を明らかにし、自然免疫の刷り込みがリザーバー細胞の持続性に影響を与えることを示す。将来的には、NK細胞を標的とした免疫療法の開発に寄与する可能性がある。"
+      },
+      {
+        "title": "Enhanced CD33 CAR-NK cells secreting anti-CD73scFv overcome adenosine-mediated immunosuppression and improve anti-AML efficacy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42680202/",
+        "abstract": "Acute myeloid leukemia (AML) is an aggressive hematologic malignancy with dismal outcomes, especially in relapsed/refractory settings. Chimeric antigen receptor natural killer (CAR-NK) cell therapy holds promise but is constrained by the immunosuppressive tumor microenvironment (TME), where adenosine-mediated suppression is a key barrier.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2026-014825",
+        "keyword": "NK cell therapy",
+        "title_ja": "抗CD73scFvを分泌する増強型CD33 CAR-NK細胞は、アデノシンによる免疫抑制を克服し、抗AML効果を向上させる。",
+        "summary_ja": "急性骨髄性白血病（AML）は予後不良の血液悪性腫瘍であり、再発・難治例では特に治療が困難です。CAR-NK細胞療法は有望ですが、腫瘍微小環境（TME）におけるアデノシンを介した免疫抑制が主要な障壁となっています。本研究では、抗CD73scFvを分泌するCD33標的CAR-NK細胞を開発し、アデノシン産生を阻害することで免疫抑制を克服し、抗AML効果を増強することを目的としました。CD73はアデノシン産生の鍵酵素であり、TMEでの過剰発現がNK細胞機能を抑制します。作製したCAR-NK細胞は、CD33陽性AML細胞に対する細胞傷害活性を維持しつつ、分泌型抗CD73scFvが局所でCD73を中和し、アデノシン濃度を低下させました。これにより、NK細胞の活性化とサイトカイン放出が促進され、免疫抑制環境下でも抗腫瘍効果が持続しました。in vitroおよびin vivoモデルにおいて、本CAR-N"
+      },
+      {
+        "title": "The Trispecific Antibody IBI3019 Integrates CDH17-Enhanced EGFR Antagonism with Optimized CD16A Engagement to Elicit Potent Antitumor Activity with Minimal Toxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42678245/",
+        "abstract": "Potent and sustained inhibition of epidermal growth factor receptor (EGFR) signaling is critical for suppressing colorectal cancer (CRC) growth, yet current EGFR therapies are often limited by incomplete EGFR blockade and on-target/off-tumor toxicities, particularly skin rash. Here, we co-targeted EGFR and cadherin-17 (CDH17) with a bispecific antibody (bsAb), overcoming these limitations by reducing skin-related toxicities and achieving superior tumor growth inhibition compared to EGFR- or c-MET/EGFR-targeting antibodies. Mechanistically, the high-affinity CDH17-binding arm anchored the EGFR/CDH17 bsAb to the tumor cell surface, facilitating rapid engagement of unbound or newly synthesized EGFR. This \"anchor and capture\" mechanism allowed the EGFR/CDH17 bsAb to achieve superior and more sustained suppression of the EGFR pathway than cetuximab and amivantamab. Further incorporation of an anti-CD16A nanobody transformed the EGFR/CDH17 bsAb into a trispecific natural killer (NK)-cell engager. Extensive format screening revealed that NK cell activation is heavily influenced by the spatial distance between the tumor antigen-binding Fab and the anti-CD16A nanobody, with longer distances impairing the bulky CD45 phosphatase exclusion from the immunological synapse and leading to significantly reduced cytotoxicity. Consequently, the widely adopted Morrison-type antibody consistently underperformed compared to architectures with shorter CD16A-TAA-Fab spacing. The final optimized molecule was IBI3019, a CDH17/EGFR/CD16A trispecific antibody that integrates potent CDH17-enhanced EGFR blockade with optimal architecture for efficient NK cell engagement. It demonstrated superior in vivo efficacy and a good safety profile in cynomolgus monkeys, with no observable skin toxicity. These promising pre-clinical findings warrant the clinical development of IBI3019. .",
+        "source": "PubMed",
+        "doi": "10.1158/0008-5472.CAN-25-5580",
+        "keyword": "NK cell therapy",
+        "title_ja": "三特異性抗体IBI3019整合CDH17增强型EGFR拮抗作用与优化CD16A结合，以激发强效抗肿瘤活性并实现最小毒性。",
+        "summary_ja": "IBI3019は、大腸癌（CRC）治療におけるEGFR阻害の限界（不完全な遮断や皮膚毒性）を克服するため、EGFRとCDH17を標的とする二重特異性抗体（bsAb）から開発された三特異性抗体である。高親和性CDH17結合アームが腫瘍細胞表面に抗体を固定し、未結合や新規合成EGFRを迅速に捕捉する「アンカー＆キャプチャー」機構により、セツキシマブやアミバンタマブより持続的なEGFR経路抑制を達成した。さらに抗CD16Aナノボディを組み込みNK細胞を動員する三特異性構造へ進化させた。フォーマット検討の結果、腫瘍抗原結合Fabと抗CD16Aナノボディ間の空間距離がNK活性に強く影響し、距離が長いとCD45ホスファターゼの免疫シナプス排除が妨げられ細胞傷害性が低下した。モリソン型抗体はこの点で劣り、短い間隔の設計が最適だった。最終最適化したIBI3019は、強力なCDH17増強EGFR遮断と効率的"
+      },
+      {
+        "title": "Mitochondrial Complex I at the Crossroads of NK cell Dysfunction in Glioblastoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42676102/",
+        "abstract": "Zhou and colleagues identify mitochondrial complex I activity, mediated through NDUFA9, as a critical determinant of natural killer (NK) cell metabolic fitness and antitumor function in glioblastoma. Their study links impaired oxidative phosphorylation to glutamine dependence, epigenetic repression of effector programs, and loss of NK cell activity, highlighting mitochondrial fitness as an actionable axis for improving cellular immunotherapy in solid tumors. See related article by Zhou et al., p. 1924.",
+        "source": "PubMed",
+        "doi": "10.1158/2159-8290.CD-26-1267",
+        "keyword": "NK cell therapy",
+        "title_ja": "ミトコンドリア複合体I：膠芽腫におけるNK細胞機能不全の岐路",
+        "summary_ja": "Zhouらは、膠芽腫におけるナチュラルキラー（NK）細胞の代謝適応性と抗腫瘍機能を決定する重要な因子として、NDUFA9を介したミトコンドリア複合体I活性を特定した。本研究は、酸化リン酸化の障害がグルタミン依存、エフェクター機構のエピジェネティック抑制、NK細胞活性の喪失と関連することを示し、固形腫瘍における細胞免疫療法改善のための作用可能な軸としてミトコンドリア適応性を強調する。関連論文はZhouら、p.1924参照。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Single-Cell Immune Profiling Suggests Non-Classical Monocyte Is Associated Immunodepression in Tuberculosis Treatment Non-Responders.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42675628/",
+        "abstract": "Sputum culture conversion (SCC) at 2 months is an early indicator of tuberculosis (TB) treatment response, yet the associated immune alterations remain incompletely defined. We performed single-cell RNA sequencing on peripheral blood mononuclear cells from eight TB patients, stratified by 2-month SCC status. Non-responders showed a relative enrichment of non-classical monocytes and higher TB progression risk scores. CellChat analysis inferred altered IL16 and TRAIL communication involving these cells. CD4+ Tregs in non-responders showed higher LGALS9 expression and inferred GALECTIN signalling towards cytotoxic lymphocyte subsets; cell-level LGALS9 co-expression correlated with HAVCR2 and TIGIT in non-responders. Mature NK subclusters showed distinct enrichment profiles. These results describe an observational, transcriptomic and computationally inferred immune network associated with early treatment non-response. They generate candidate biomarkers and hypotheses for prospective protein-level and functional validation.",
+        "source": "PubMed",
+        "doi": "10.1111/jcmm.71345",
+        "keyword": "NK cell therapy",
+        "title_ja": "単一細胞免疫プロファイリングにより、非古典的単球が結核治療無効例における免疫抑制と関連することが示唆される。",
+        "summary_ja": "結核（TB）治療反応性の早期指標である2ヶ月時点の喀痰培養陰転化（SCC）に着目し、末梢血単核細胞の単一細胞RNAシークエンスを8名のTB患者で実施した。SCC非達成群では非古典的単球が相対的に増加し、TB進行リスクスコアが高かった。CellChat解析により、これらの細胞を介したIL16およびTRAILシグナル伝達の変化が示唆された。非達成群のCD4+ TregはLGALS9発現が高く、細胞傷害性リンパ球サブセットへのGALECTINシグナルが推測され、LGALS9共発現はHAVCR2およびTIGITと相関した。成熟NKサブクラスターでも異なる濃縮プロファイルが認められた。本研究は、早期治療非応答に関連する免疫ネットワークをトランスクリプトームおよび計算推論により観察的に記述し、今後のタンパク質レベル・機能検証のための候補バイオマーカーと仮説を提供する。"
+      },
+      {
+        "title": "Efficient brain delivery and sustained retention of antibodies via dual targeting of blood-brain barrier and intra-brain proteins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42665535/",
+        "abstract": "Efficient delivery of therapeutic antibodies to the brain has been increasingly achieved using receptor-mediated transcytosis (RMT) approaches such as transferrin receptor (TfR)-mediated shuttle systems. Moreover, a strategy for enhancing brain retention has recently emerged as a focus of attention to overcome the rapid clearance of TfR shuttles from the brain. Here, we propose a novel approach that combines binding to intra-brain proteins, such as myelin oligodendrocyte glycoprotein (MOG), cell adhesion molecule 3, and chondroitin sulfate proteoglycan 5, for sustained retention in the brain with binding to blood-brain barrier (BBB) proteins, such as TfR and insulin-like growth factor 1 receptor, for enhanced BBB permeability. A mouse pharmacokinetic study demonstrated that the anti-MOG/TfR antibody reached a higher maximum concentration and maintained higher concentrations in the brain for 4 months than anti-MOG and anti-TfR antibodies. In immunohistochemistry and brain 3D-imaging study, the anti-MOG/TfR antibody distributed throughout the whole brain, suggesting it penetrates the BBB across the whole brain parenchyma and is retained there. Finally, this antibody technology was applied to brain delivery of neprilysin, an enzyme that degrades amyloid beta, demonstrating that it can enhance both the brain exposure and the pharmacodynamic effect of the potential therapeutic molecule. In conclusion, the concept of achieving sustained high brain exposure by combining BBB transport with enhanced brain retention was shown to be broadly applicable. This novel antibody technology platform is expected to deliver and retain various therapeutic molecules efficiently within the brain, addressing critical challenges in drug development for the central nervous system.",
+        "source": "PubMed",
+        "doi": "10.1080/19420862.2026.2724587",
+        "keyword": "NK cell therapy",
+        "title_ja": "血液脳関門と脳内タンパク質の二重標的化による抗体の効率的な脳内送達と持続的保持",
+        "summary_ja": "本論文は、血液脳関門（BBB）透過と脳内保持を同時に実現する新規抗体技術を提案する。従来のトランスフェリン受容体（TfR）を介した受容体介在性トランスサイトーシス（RMT）は脳への送達効率を向上させるが、脳からの速やかなクリアランスが課題であった。本研究では、TfRやインスリン様成長因子1受容体などのBBBタンパク質への結合に加え、ミエリンオリゴデンドロサイト糖タンパク質（MOG）、細胞接着分子3、コンドロイチン硫酸プロテオグリカン5などの脳内タンパク質への結合を組み合わせた二重標的抗体を開発した。マウス薬物動態試験では、抗MOG/TfR抗体は抗MOG抗体や抗TfR抗体単独よりも高い最大濃度を示し、4ヶ月間脳内濃度を維持した。免疫組織化学と3Dイメージングにより、全脳に分布し、脳実質全体でBBBを透過して保持されることが確認された。さらに、アミロイドβ分解酵素ネプリライシンの脳送達に応用し"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosome-based strategies for periodontal regeneration: Current insights and future prospects (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42682920/",
+        "abstract": "The tooth-supporting structures gradually deteriorate due to periodontal disease and standard regenerative therapies are currently being modified using adjunctive strategies to optimise the treatment outcomes. Nanosized extracellular vesicles called exosomes, which contain bioactive molecules, function as mediators of immunomodulation, regeneration, and tissue repair. Recent research indicates that exosomes may enhance periodontal regeneration through immunomodulation, osteogenesis and angiogenesis from various stem cells. It is suggested that exosomes promote fibroblast proliferation, reduce inflammation and accelerate bone/cementum regeneration. Scaffold-loaded exosomes provide sustained release. The purpose of the present review was to discuss the functions of exosomes and their potential to be used as therapeutic agents in periodontal regeneration. For this purpose, the terms 'Exosomes', 'Extracellular Vesicles' and 'Periodontal Regeneration' were searched in Google Scholar, Web of Science and PubMed databases to identify articles in the English language published up to June, 2025. Grey literature was searched through an internet-based free tool created by the Canadian Agency for Drugs and Technologies in Health. Two independent reviewers evaluated the titles and abstracts of the retrieved studies, followed by a detailed review of the full texts to extract information relevant to the research objective. While further clinical research is required to validate their regenerative potential, the evidence generally points to exosomes as promising therapeutic agents. Although the available data are encouraging, standardized procedures and clinical trials are required before they can be routinely used in clinical settings, to address challenges with delivery and isolation.",
+        "source": "PubMed",
+        "doi": "10.3892/mi.2026.334",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを基盤とした歯周組織再生戦略：現在の知見と将来の展望（レビュー）",
+        "summary_ja": "歯周病により歯周組織は徐々に劣化し、標準的な再生療法は補助的戦略で改良されている。エクソソームは生理活性分子を含むナノサイズの細胞外小胞で、免疫調節、再生、組織修復のメディエーターとして機能する。近年の研究では、エクソソームが免疫調節、骨形成、血管新生を介して歯周再生を促進し、線維芽細胞増殖を促し、炎症を軽減し、骨・セメント質再生を加速することが示唆されている。足場材料に搭載したエクソソームは持続放出を提供する。本レビューは、エクソソームの機能と歯周再生における治療薬としての可能性を考察することを目的とした。Google Scholar、Web of Science、PubMedで2025年6月までの英語文献を検索し、灰色文献も含めて2名の査読者が抽出した。エクソソームは有望な治療薬であるが、標準化された手順と臨床試験が臨床応用前に必要であり、送達と単離の課題に対処する必要がある。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Adipose-derived microRNA-518a drives hepatic cholesterol dysregulation and hypertension-related vascular remodeling in metabolic dysfunction-associated steatohepatitis via the MST1-AMPK-SREBP2 axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42683512/",
+        "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH) is characterized by disrupted hepatic lipid homeostasis and progressive liver injury, and frequently coexists with hypertension and systemic vascular remodeling, suggesting shared pathophysiological mechanisms. Although adipose tissue-derived microRNAs have emerged as important mediators of inter-organ communication, their roles in regulating hepatic cholesterol metabolism and vascular dysfunction during MASH remain incompletely understood.",
+        "source": "PubMed",
+        "doi": "10.1080/10641963.2026.2716134",
+        "keyword": "Exosomes",
+        "title_ja": "脂肪組織由来マイクロRNA-518aは、MST1-AMPK-SREBP2経路を介して代謝機能障害関連脂肪性肝炎における肝臓のコレステロール調節異常と高血圧関連血管リモデリングを促進する。",
+        "summary_ja": "代謝機能障害関連脂肪性肝炎（MASH）は、肝脂質恒常性の破綻と進行性肝障害を特徴とし、高血圧や全身性血管リモデリングを併発しやすい。脂肪組織由来マイクロRNAは臓器間コミュニケーションの重要なメディエーターとして注目されるが、MASHにおける肝コレステロール代謝と血管機能障害への関与は未解明である。本論文は、脂肪由来miR-518aがMASH病態を媒介する可能性を検討した。その結果、miR-518aは肝臓に移行し、MST1-AMPK-SREBP2経路を標的として、肝コレステロール調節を破綻させることが示された。具体的には、miR-518aはMST1の発現を抑制し、AMPKシグナルを減弱させることでSREBP2を活性化し、コレステロール合成関連遺伝子の発現を亢進させた。さらに、この経路の異常は高血圧関連の血管リモデリングを促進し、MASHと心血管病変の連関に寄与することが示唆された。本研究は"
+      },
+      {
+        "title": "Multimodal Repair of Osteoporotic Fractures With an Exosome-ECM Integrated Hydrogel.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42681876/",
+        "abstract": "Osteoporotic fractures pose a significant clinical challenge in aging societies due to the limited efficacy and high re-fracture risk associated with conventional treatments. To address this, we developed EXOs@ECM-SCS, a multifunctional bioactive hydrogel that encapsulates exosomes derived from induced pluripotent stem cell-induced mesenchymal stem cells within a hybrid matrix of decellularized extracellular matrix and methacrylated sulfated chitosan. This composite system promotes bone regeneration through a synergistic strategy that concurrently targets angiogenesis, immunomodulation, neurogenesis, and osteogenesis (AINO). Experimental results demonstrated that EXOs@ECM-SCS significantly enhanced osteogenic differentiation, angiogenic activity, and neural regeneration, while also driving macrophage polarization toward the M2 phenotype. These multifaceted effects collectively improved bone mass accumulation, mineralization, and fracture healing in an osteoporotic mouse model. Mechanistic insights from exosomal sequencing highlighted the involvement of key miRNAs such as miR-100-5p and miR-320a-3p, along with PI3K-Akt and MAPK signaling pathways. These findings underscore EXOs@ECM-SCS as an innovative therapeutic platform that leverages coordinated multimodal regulation to accelerate osteoporotic fracture repair.",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.71580",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム-ECM複合ヒドロゲルによる骨粗鬆性骨折の多角的修復",
+        "summary_ja": "骨粗鬆性骨折は高齢化社会における重要な臨床課題であり、従来治療は効果が限定的で再骨折リスクが高い。本研究では、iPS細胞由来間葉系幹細胞のエクソソームを、脱細胞化細胞外マトリックスとメタクリル化硫酸化キトサンのハイブリッドマトリックスに封入した多機能性ハイドロゲル「EXOs@ECM-SCS」を開発した。本システムは血管新生、免疫調節、神経新生、骨形成（AINO）を同時に標的とする相乗戦略により骨再生を促進する。実験の結果、EXOs@ECM-SCSは骨芽細胞分化、血管新生活性、神経再生を有意に向上させ、マクロファージをM2表現型へ分極させた。これらの多面的効果により、骨粗鬆症マウスモデルにおいて骨量蓄積、石灰化、骨折治癒が改善した。エクソソームシーケンス解析により、miR-100-5pやmiR-320a-3pなどの主要miRNAと、PI3K-AktおよびMAPKシグナル経路の関与が示された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "A room-temperature ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42680014/",
+        "abstract": "Both for diagnostic purposes and regenerative medicine, it is essential to develop advanced imaging platforms capable of tracking the biodistribution of small extracellular vesicles (sEVs), as current methods are limited by inadequate resolution and sensitivity. In this study, we introduce a novel labeling strategy utilizing the radioisotope zirconium-89 (",
+        "source": "PubMed",
+        "doi": "10.1016/j.jconrel.2026.115324",
+        "keyword": "sEVs",
+        "title_ja": "室温の部屋",
+        "summary_ja": "診断と再生医療の両方において、小型細胞外小胞（sEVs）の生体内分布を追跡できる高度なイメージングプラットフォームの開発は不可欠である。既存の手法は解像度と感度が不十分である。本研究では、放射性同位体ジルコニウム-89（⁸⁹Zr）を用いた新規標識戦略を紹介する。この戦略は室温で実施可能であり、sEVsの膜構造を損なわずに安定した標識を実現する。⁸⁹Zr標識sEVsは、陽電子放出断層撮影（PET）により高感度かつ高解像度で追跡可能であり、従来法の限界を克服する。実験では、標識効率と安定性を検証し、in vivoでの分布を評価した。その結果、⁸⁹Zr標識sEVsは肝臓や脾臓への集積が明確に観察され、腫瘍モデルでは腫瘍部位への特異的集積も確認された。本手法は、sEVsの動態解析や治療効果のモニタリングに有用であり、再生医療や診断分野での応用が期待される。室温での簡便な操作により、臨床応用への障壁"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、注目すべき5つのトピックをまとめます。\n\n**1. 抗CD73scFv分泌型CD33 CAR-NK細胞（AML治療）**\nAMLの免疫抑制性微小環境におけるアデノシン経路を、CAR-NK細胞自身が分泌する抗CD73scFvで中和する二重攻撃戦略です。腫瘍免疫逃避の克服と殺腫瘍効果の増強を両立する点で画期的であり、固形腫瘍を含む他癌種への応用が期待されます。\n\n**2. 膠芽腫におけるNK細胞のミトコンドリア代謝制御**\nNDUFA9を介したミトコンドリア複合体I活性が、NK細胞の抗腫瘍機能を決定することを解明しました。代謝リプログラミングによるNK細胞疲弊の可逆的制御は、免疫療法抵抗性の膠芽腫に対する新規代謝標的治療の基盤となります。\n\n**3. 長期ART下のHIVリザーバー持続とNK細胞教育**\nKIR2DとHLAの相互作用がHIVリザーバー細胞の持続性に影響することを、大規模プロウイルス解析で実証しました。自然免疫の個体差がウイルス潜伏期を規定するという新知見は、HIV根治戦略におけるNK細胞調整の重要性を示します。\n\n**4. エクソソーム-ECM統合ハイドロゲルによる骨粗鬆性骨折修復**\niPS細胞由来MSCのエクソソームを脱細胞化ECMとキトサンハイブリッドに封入し、多角的な骨再生を実現しました。高齢者の脆弱な骨環境において、免疫調節と骨形成を同時に促進する次世代型再生医療材料として有望です。\n\n**5. 室温安定な⁸⁹Zr標識sEVsイメージングプラットフォーム**\nsEVsの生体内動態を高感度に追跡できる室温安定なPETイメージング技術を開発しました。診断と治療効果のモニタリングを両立するトレーサブルなsEVs製剤の実現により、再生医療やDDSの臨床応用が加速すると期待されます。"
+}

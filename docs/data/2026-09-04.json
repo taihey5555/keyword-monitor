@@ -1,0 +1,238 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "A novel cystic fibrosis-mimetic Pseudomonas auxotrophic vaccine is protective in vivo and is associated with IL-17/IgA mucosal Immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42310961/",
+        "abstract": "Pseudomonas aeruginosa (P.a) is a Gram-negative opportunistic pathogen that poses a major global health threat, particularly in immunocompromised individuals, patients with cystic fibrosis, and those with burn injuries or ventilator-associated pneumonia. Despite intense efforts, no vaccine is available for human use. In this context, live attenuated vaccines represent a promising but underexplored approach, offering the potential to elicit robust, long-lasting, and multifaceted immune responses including inducing trained immunity. Here, we sub-cultured ΔLasB-PAO1 (a P.a strain we have previously shown to have reduced virulence) in artificial sputum medium, a culture medium mimicking cystic fibrosis (CF) sputum in which bacteria often show auxotrophy. We showed that such strain (\"V\" for vaccine) was auxotrophic, less virulent, and had characteristics of \"CF-like strains.\" Crucially, \"V\" induced both local (IgA) and systemic humoral responses as well as memory Th17 immune responses, and could, when administered in the lung, but not intra-muscularly, protect mice against a lethal PAO1-WT infection. Overall, the present study demonstrates that our vaccine formulation, in addition to providing an advantageous auxotrophic phenotype adapted to the CF setting, was efficient, when given mucosally and was associated with a pathway involving Th17 responses and secretory IgA, a critical barrier that neutralizes pathogens before tissue invasion.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ymthe.2026.06.029",
+        "keyword": "PF4",
+        "title_ja": "新規の嚢胞性線維症模倣緑膿菌栄養要求性ワクチンは、in vivoで防御効果を示し、IL-17/IgA粘膜免疫と関連する。",
+        "summary_ja": "緑膿菌（P.a）は、免疫不全患者や嚢胞性線維症（CF）患者などに重篤な感染を引き起こす日和見病原体であり、現在も有効なワクチンは存在しない。本研究では、弱毒化株ΔLasB-PAO1を人工喀痰培地で継代し、CF環境に適応した栄養要求性（auxotrophic）を示す新規ワクチン株「V」を作出した。この株は毒性が低く、CF様の特性を有する。マウスに経肺投与すると、局所のIgAおよび全身性の液性免疫に加え、記憶Th17免疫応答を誘導し、致死性のPAO1野生株感染から防御効果を示した。一方、筋肉内投与では防御効果は認められなかった。本結果は、粘膜経路での投与が重要であり、Th17応答と分泌型IgAが組織侵入前の病原体中和に寄与することを示す。本ワクチン製剤は、CF環境に適応した栄養要求性表現型を有し、粘膜免疫を介した有効な防御を提供する新規アプローチとして期待される。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Anti-PF4 antibodies trigger a faster and stronger platelet procoagulant response than anti-heparin/PF4 antibodies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42685671/",
+        "abstract": "Vaccine-induced immune thrombocytopenia and thrombosis (VITT) and \"VITT-like\" cases are an emerging cause of severe thrombocytopenia and thrombosis associated with IgG antibodies targeting platelet factor 4 (anti-PF4). These syndromes are characterized by more frequent and severe thrombosis than heparin-induced thrombocytopenia (HIT), which is typically caused by antibodies targeting heparin-modified PF4 (anti-PF4/H). In this study, we compared the intrinsic prothrombotic properties of anti-PF4 and anti-PF4/H IgG antibodies to identify mechanisms that may contribute to the severity of VITT/VITT-like syndromes. Using the monoclonal IgG1 antibodies 1E12 (anti-PF4) and 5B9 (anti-PF4/H), we showed that anti-PF4 IgG exhibited an increased propensity to induce the formation of fibrin-rich platelet/leukocytes aggregates in a microfluidic model of whole blood (WB) thrombosis. This phenomenon was related to a strong potentiation of thrombin generation in plasma by 1E12, but not by 5B9, and only in the presence of platelets and coagulation factors V and XI. We also demonstrated a substantially faster and stronger ability of 1E12 compared to 5B9 to activate platelets using the serotonin release assay, confirmed with human VITT and HIT samples. Furthermore, 1E12 was more likely than 5B9 to induce procoagulant platelets (CD62P+/phosphatidylserine+) in platelet-rich plasma (PRP) and to produce procoagulant microvesicles in WB and PRP. In conclusion, platelets are activated faster and exhibit more procoagulant activity in response to anti-PF4 antibodies than to anti-PF4/H antibodies, which may contribute to the severity of VITT and VITT-like syndromes.",
+        "source": "PubMed",
+        "doi": "10.1182/bloodadvances.2026020237",
+        "keyword": "PF4",
+        "title_ja": "抗PF4抗体は、抗ヘパリン/PF4抗体よりも速く、より強い血小板凝固促進反応を引き起こす。",
+        "summary_ja": "抗PF4抗体は、抗ヘパリン/PF4抗体よりも速く強力な血小板凝固促進応答を誘導する。VITTおよびVITT様症候群は、血小板第4因子（PF4）を標的とするIgG抗体（抗PF4）に関連し、ヘパリン誘発性血小板減少症（HIT）よりも頻繁で重篤な血栓症を特徴とする。本研究では、モノクローナルIgG1抗体1E12（抗PF4）と5B9（抗PF4/H）を用いて、その凝固促進特性を比較した。マイクロ流体全血モデルでは、1E12がフィブリン豊富な血小板・白血球凝集体形成を促進し、トロンビン生成を増強したが、5B9では認められなかった。この効果は血小板と凝固因子V・XIの存在に依存した。セロトニン放出試験では、1E12は5B9より速く強力に血小板を活性化し、ヒトVITT・HIT検体でも確認された。さらに、1E12は多血小板血漿中で凝固促進性血小板（CD62P+/ホスファチジルセリン+）と凝固促進性マイクロベ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Physical Exercise in Immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42690573/",
+        "abstract": "Accumulating evidence suggests that physical exercise can favorably modulate the tumor microenvironment (TME) and enhance the efficacy of cancer immunotherapies. MAIN: Exercise has been shown to modulate the immune environment to promote infiltration and function of cell types that confer anti-tumor effects. These effects counteract several mechanisms of immune evasion within the TME that limit the effectiveness of immune checkpoint blockade, particularly therapies targeting PD-1 and PD-L1. Preclinical models demonstrate that exercise not only enhances anti-tumor immune responses, but also sensitizes tumors to checkpoint inhibitors, resulting in improved tumor control. Mechanistically, these benefits appear to be mediated through enhanced cytokine signaling, metabolic reprogramming of immune cells, and alterations in chemokine gradients that facilitate immune cell trafficking.",
+        "source": "PubMed",
+        "doi": "10.1186/s40798-026-01101-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "免疫療法における運動療法",
+        "summary_ja": "運動は腫瘍微小環境（TME）を好意的に調節し、がん免疫療法の効果を高める可能性が示唆されている。運動は免疫環境を調整し、抗腫瘍効果を持つ細胞種の浸潤と機能を促進する。これにより、TME内の免疫逃避機構、特にPD-1やPD-L1を標的とする免疫チェックポイント阻害薬の効果を制限する複数のメカニズムに対抗する。前臨床モデルでは、運動が抗腫瘍免疫応答を増強するだけでなく、腫瘍をチェックポイント阻害薬に感受性化させ、腫瘍制御を改善することが実証されている。機序的には、これらの効果はサイトカインシグナルの増強、免疫細胞の代謝リプログラミング、免疫細胞の移動を促進するケモカイン勾配の変化を介して媒介されると考えられる。"
+      },
+      {
+        "title": "Umbilical cord blood-derived CAR-NK cells: an emerging off-the-shelf platform for cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42690517/",
+        "abstract": "Autologous CAR-T therapy has achieved notable success in B-cell malignancies, yet its broader application is constrained by high costs, protracted manufacturing timelines, and severe toxicities, including cytokine release syndrome (CRS) and graft-versus-host disease (GVHD). Natural killer (NK) cells offer a compelling off-the-shelf alternative, owing to their major histocompatibility complex-independent cytotoxicity and negligible GVHD risk. Among allogeneic NK sources, umbilical cord blood (UCB)-derived CAR-NK cells are distinguished by a CD56brightCD16-/dim phenotype, extended telomeres, and a transcriptional profile that facilitates >1,000-fold ex vivo expansion. These properties have supported extensive preclinical evaluation and early clinical translation. Preclinical studies have documented antitumor activity against CD19, CD123, PD-L1, ErbB3, and mesothelin, without evidence of CRS. In a landmark phase I/II trial (NCT03056339), 7 of 11 patients (64%) with relapsed or refractory CD19+ B-cell malignancies achieved complete remission, with no observed GVHD or neurotoxicity. However, relapses occurring within 2 to 3 months correlated with loss of detectable CAR-NK cells, highlighting limited in vivo persistence as a principal barrier to durable response.",
+        "source": "PubMed",
+        "doi": "10.1007/s12185-026-04270-7",
+        "keyword": "NK cell therapy",
+        "title_ja": "臍帯血由来CAR-NK細胞：がん免疫療法における新たなレディメイド型プラットフォーム",
+        "summary_ja": "臍帯血由来CAR-NK細胞は、自家CAR-T療法の課題（高コスト、製造時間、CRSやGVHD等の毒性）を克服するoff-the-shelf型免疫療法として注目される。NK細胞はMHC非依存性の細胞傷害能とGVHDリスクが低く、特に臍帯血由来細胞はCD56brightCD16-/dim表現型、長いテロメア、1000倍以上のex vivo増幅能を持つ。前臨床ではCD19、CD123、PD-L1、ErbB3、メソテリン標的で抗腫瘍効果を示し、CRSは認められなかった。第I/II相試験（NCT03056339）では、再発・難治性CD19陽性B細胞悪性腫瘍患者11例中7例（64%）が完全寛解に達し、GVHDや神経毒性は観察されなかった。一方、2〜3ヶ月以内の再発はCAR-NK細胞の消失と相関し、in vivoでの持続性の低さが長期奏功の主要な障壁である。この限界を克服するため、サイトカイン産生能の強"
+      },
+      {
+        "title": "Inhaled nanosilica orchestrates a pulmonary macrophage-NK cell axis for memory-like NK programming toward synergistic cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42687379/",
+        "abstract": "Despite the clinical promise of cytokine-induced memory-like (CIML) NK cells, widespread translation is hindered by the high cost and complexity of ex vivo manufacturing. Here, we show that the lung functions as an in vivo programming niche that generates functional CIML NK cells for systemic cancer immunotherapy and immunoprevention. By decoupling immunostimulation from silicosis, we identify an obligate alveolar macrophage (AM)-NK cell axis. Upon engulfing biodegradable amorphous nanosilica (nSiO",
+        "source": "PubMed",
+        "doi": "10.1016/j.ymthe.2026.08.046",
+        "keyword": "NK cell therapy",
+        "title_ja": "吸入型ナノシリカは、肺マクロファージ-NK細胞軸を制御し、記憶様NK細胞のプログラミングを介して相乗的ながん免疫療法を促進する。",
+        "summary_ja": "本論文は、サイトカイン誘導メモリー様（CIML）NK細胞の臨床応用における課題（高コスト・複雑なex vivo製造）を克服するため、肺をin vivoプログラミングの場として利用する新規アプローチを報告する。生分解性アモルファスナノシリカ（nSiO₂）の吸入により、珪肺症などの毒性を切り離しつつ免疫刺激を誘導し、肺胞マクロファージ（AM）とNK細胞の必須の連関軸を同定した。AMがnSiO₂を貪食することで、NK細胞がメモリー様にプログラミングされ、全身性の癌免疫療法および免疫予防効果を発揮する。このAM-NK細胞軸は、自然免疫における組織局所の教育機構を活用した、簡便かつ低コストなCIML NK細胞の生成法を提供し、癌免疫療法の新たな戦略として有望である。"
+      },
+      {
+        "title": "Adoptive MAIT cell therapy for liver cancer enhanced by multimodal modulation of immune receptors and checkpoints.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42685688/",
+        "abstract": "Mucosal-associated invariant T (MAIT) cells are innate-like T lymphocytes that recognize riboflavin-derived metabolites presented by the monomorphic major histocompatibility complex (MHC)-class I-related molecule MR1. MAIT cells are highly enriched in the human liver and are increasingly implicated in liver cancer immunity, yet their antitumor potential and therapeutic applicability remain incompletely defined.",
+        "source": "PubMed",
+        "doi": "10.1016/j.medj.2026.101272",
+        "keyword": "NK cell therapy",
+        "title_ja": "免疫受容体とチェックポイントの多角的調節により増強された、肝がんに対する養子MAIT細胞療法",
+        "summary_ja": "肝臓がんに対する養子MAIT細胞療法は、免疫受容体とチェックポイントの多面的調節により増強される。MAIT細胞はリボフラビン由来代謝物を単型MHCクラスI関連分子MR1を介して認識する自然免疫様T細胞で、ヒト肝臓に高濃度に存在し、肝臓がん免疫への関与が示唆されるが、その抗腫瘍能と治療応用は未解明である。本論文では、MAIT細胞の抗腫瘍活性を最大限に引き出すため、T細胞受容体シグナルや共刺激分子、免疫チェックポイント（PD-1等）の調節を組み合わせたアプローチを検討。具体的には、MR1提示腫瘍抗原への応答性増強、阻害性受容体の遮断、活性化受容体の刺激を併用し、腫瘍微小環境でのMAIT細胞の持続的活性化と細胞傷害能を向上させる。これにより、肝臓がんに対する新規養子細胞療法の可能性が示され、既存の治療抵抗性症例への応用が期待される。"
+      },
+      {
+        "title": "Critical role for the TGF-β1/mTORC1 signaling axis in defining the transcriptional identity of CTHRC1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42685210/",
+        "abstract": "Fibrosis, marked by excess extracellular matrix (ECM) deposition, is the end stage of many diseases. Single-cell studies have highlighted the emergence of disease-specific fibroblast populations, including a high collagen-synthesizing ",
+        "source": "PubMed",
+        "doi": "10.1126/sciadv.adx9868",
+        "keyword": "NK cell therapy",
+        "title_ja": "CTHRC1の転写アイデンティティを規定するTGF-β1/mTORC1シグナル軸の重要な役割",
+        "summary_ja": "TGF-β1/mTORC1シグナル軸は、線維症におけるCTHRC1陽性線維芽細胞の転写同一性を決定する上で重要な役割を果たす。線維症は過剰な細胞外マトリックス（ECM）沈着を特徴とし、多くの疾患の終末像である。単一細胞解析により、高コラーゲン合成能を持つ疾患特異的線維芽細胞集団の出現が明らかとなっている。本研究では、CTHRC1を発現する線維芽細胞がTGF-β1刺激によりmTORC1経路を活性化し、このシグナル軸が細胞の転写プログラムを制御することを示す。TGF-β1はmTORC1を介してCTHRC1陽性細胞の代謝およびECM関連遺伝子発現を調節し、線維化促進性の表現型を維持する。mTORC1阻害はCTHRC1陽性細胞の転写特性を変化させ、線維化関連遺伝子の発現を抑制する。この結果は、TGF-β1/mTORC1軸が線維芽細胞の機能的同一性を規定する中心的な制御機構であり、線維症治療の新たな"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Chimeric IL-15 as a next-generation immunotherapeutic: preclinical assessment of efficacy and safety.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42685629/",
+        "abstract": "Interleukin-15 (IL-15) is a potent immunostimulatory cytokine but is limited by rapid clearance and systemic toxicity. To overcome these limitations, our laboratory generated a chimeric IL-15 by fusing human IL-15 to the murine IgG2a Fc domain and evaluated its activity, efficacy, pharmacokinetics, and safety. The purified protein showed accurate molecular integrity determined through SDS-PAGE and Western blot. In-vitro, chimeric IL-15 induced dose-dependent activation of CD4",
+        "source": "PubMed",
+        "doi": "10.1016/j.intimp.2026.117317",
+        "keyword": "NK cell therapy",
+        "title_ja": "キメラIL-15による次世代免疫療法：有効性と安全性の前臨床評価",
+        "summary_ja": "本論文は、次世代免疫療法薬としてのキメラIL-15の前臨床評価を報告する。IL-15は強力な免疫刺激サイトカインだが、血中半減期が短く全身毒性が課題である。著者らはヒトIL-15をマウスIgG2aのFc領域に融合したキメラIL-15を設計し、その活性、有効性、薬物動態、安全性を検証した。精製タンパク質はSDS-PAGEとウエスタンブロットで分子構造の正確性が確認された。in vitroでは、キメラIL-15はCD4陽性T細胞の活性化を用量依存的に誘導した。これにより、Fc融合がIL-15の安定性と機能を保持しつつ、半減期延長と毒性軽減の可能性が示唆された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Guanine promotes acute lung injury by repressing H3K27me3 in sepsis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42691230/",
+        "abstract": "Sepsis is systemic inflammation with high mortality, accompanied by multi-organ failure including acute respiratory distress syndrome. Extracellular vesicles (EVs) encapsulating bioactive cargoes, mediate cell-cell communication to exert systemic regulation. However, whether and how host lung tissue responds quickly to plasma bacterial infection through EVs in sepsis is poorly understood. Here, we identify that peripheral blood macrophages secrete more exosomal G6PD protein to induce lung injury by rewiring purine metabolism during sepsis. Guanine accumulation reduces H3K27 trimethylation and subsequently induces Nos2, Ccl6 and Il6 expression by suppressing de novo EZH2 synthesis. Macrophage-specific Rab27a or G6pd knockout mice had low exosomal G6PD protein in serum, and failed to exert lung injury upon bacterial infection. Beyond, targeting macrophage-derived G6PD by G6PD inhibitors or engineered EVs delivering si-G6pd relieves lung injury in septic mice. In summary, our findings reveal that circulating G6PD promotes lung injury by rewiring purine metabolism and remodeling the epigenetic profile in sepsis, shedding light on the critical role of EVs as a pro-inflammatory signal and targeting G6PD for future sepsis diagnosis and treatment.",
+        "source": "PubMed",
+        "doi": "10.1093/procel/pwag065",
+        "keyword": "Exosomes",
+        "title_ja": "グアニンは敗血症においてH3K27me3を抑制することで急性肺損傷を促進する",
+        "summary_ja": "敗血症は高死亡率の全身性炎症であり、多臓器不全や急性呼吸窮迫症候群を伴う。細胞外小胞（EVs）は生物活性物質を内包し、細胞間コミュニケーションを介して全身調節を行う。本研究では、敗血症時、末梢血マクロファージがエクソソーム性G6PDタンパク質を過剰分泌し、プリン代謝を再配線して肺損傷を誘発することを同定した。グアニンの蓄積は、de novo EZH2合成を抑制することでH3K27トリメチル化を低下させ、Nos2、Ccl6、Il6の発現を誘導する。マクロファージ特異的Rab27aまたはG6pdノックアウトマウスでは、血清中のエクソソーム性G6PDタンパク質が低く、細菌感染時の肺損傷が生じなかった。さらに、G6PD阻害剤やsi-G6pdを搭載した改変EVsによるマクロファージ由来G6PDの標的化は、敗血症マウスの肺損傷を軽減した。結論として、循環G6PDはプリン代謝の再配線とエピジェネティック"
+      },
+      {
+        "title": "Nanotherapeutics in osteosarcoma: Advances in miRNA nanocarriers and targeted drug delivery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42690516/",
+        "abstract": "Osteosarcoma remains one of the most aggressive primary malignant bone tumor, despite all the treatment options available, there has been little progress in osteosarcoma treatment in children and young adults with metastatic or recurrent osteosarcoma. The link between dysregulated microRNAs (miRNAs) in osteosarcoma pathogenesis, metastasis, chemoresistance and immune system regulation increasingly shows that they are important drug targets for novel therapies. The clinical application of naked miRNAs is dramatically limited by the fact that they are rapidly degraded by nucleases, have a poor uptake by the cells, are poorly specific for tumors and may lead to off-target effects. Solution to these challenges is one of the innovative delivery systems based on nanocarriers that provides increased stability of miRNA, improvement of pharmacokinetics, improvement of cellular entry and a controlled release. The present review critically analyzes the ongoing developments of miRNA therapeutics for osteosarcoma focusing on the various nanocarriers such as polymeric, lipid-based, inorganic, hybrid and exosome-based nanocarriers. Rather than providing a description of every type, the review compares them based on loading capacity, biodistribution, tumor infiltration capabilities, biodegradability, their safety profiles, and potential for real-world applications. It highlights some of the main challenges of targeted drug delivery in the mineralized bone microenvironment and presents some new ideas in order to enhance the targeting of skeletal tumors with ligand-mediated and stimuli-responsive nanocarriers. The review also highlights the state-of-the-art progress in the clinical development of miRNA therapeutics, the lessons learned from those in clinical trial phases, and the major challenges to clinical application of miRNA therapeutics such as toxicity in the immune system, manufacturing scalability, batch-to-batch variability, formulation instability, regulatory issues, and cost considerations. Finally, emerging research areas are discussed, with a focus on those trends that involve advances in personalized nanomedicine (evidence-based) and strategic nanocarrier design. While there are hopeful signs of miRNA nano therapy's potential in the treatment of osteosarcoma, significant biological, technological, and regulatory hurdles remain that need to be overcome for this innovative therapy to be translated to the clinic.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12672-3",
+        "keyword": "Exosomes",
+        "title_ja": "骨肉腫におけるナノ治療：miRNAナノキャリアと標的薬物送達の進歩",
+        "summary_ja": "骨肉腫は小児・若年成人の転移性・再発例で治療成績が伸び悩む原発性悪性骨腫瘍である。近年、miRNAの異常発現が病態・転移・薬剤耐性・免疫制御に関与し、新規治療標的として注目される。しかし裸のmiRNAはヌクレアーゼ分解、細胞取り込み不良、腫瘍特異性の低さ、オフターゲット効果等で臨床応用が制限される。本総説は、ナノキャリアを用いたmiRNA送達システムの進展を批判的に検討する。ポリマー系、脂質系、無機系、ハイブリッド、エクソソーム系等のキャリアを、積載量、体内分布、腫瘍浸潤能、生分解性、安全性、実用性で比較する。石灰化骨微小環境での標的送達の課題を挙げ、リガンド修飾や刺激応答型キャリアによる骨腫瘍指向性向上の新戦略を提示する。また、miRNA治療薬の臨床開発状況、治験で得られた知見、免疫毒性、製造スケール、バッチ間差、製剤安定性、規制・コスト等の実用化障壁を整理する。最後に、個別化ナノ医療と"
+      },
+      {
+        "title": "Synergistic epigenetic modulation and ferroptosis induction via codelivery of Decitabine and Sorafenib for potent anti-tumor therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42690017/",
+        "abstract": "Despite considerable advances in cancer therapy, the intrinsic heterogeneity of malignant cells continues to compromise therapeutic efficacy with conventional monotherapies, driving the need for combination treatments to achieve more durable and complete responses. The limited efficacy of conventional chemotherapy is largely attributable to the immunosuppressive tumor microenvironment, which is frequently perpetuated by epigenetic mechanisms, including aberrant DNA methylation. To overcome these limitations, we hypothesized that Decitabine (Dac)-mediated sensitization could dramatically enhance Sorafenib (Sor)-induced ferroptosis, and to test this synergy, we developed an innovative biomimetic codelivery platform comprising polymer micelles loaded with Sor surface-coated with exosomes encapsulating Dac (Exo&PM/D + S). This platform facilitates codelivery, enabling Dac-mediated DNA hypomethylation to remodel the tumor microenvironment and promote Sor-triggered ferroptosis. ",
+        "source": "PubMed",
+        "doi": "10.1080/10717544.2026.2726824",
+        "keyword": "Exosomes",
+        "title_ja": "デシタビンとソラフェニブの同時送達による相乗的なエピジェネティック調節とフェロトーシス誘導を介した強力な抗腫瘍療法",
+        "summary_ja": "がん治療は進歩しているが、悪性細胞の不均一性により単剤療法の効果は限定的で、併用療法が求められる。従来の化学療法の効果を妨げる免疫抑制性腫瘍微小環境は、異常なDNAメチル化などのエピジェネティック機構に起因する。本研究では、Decitabine(Dac)による感作がSorafenib(Sor)誘導性フェロトーシスを大幅に増強する仮説を立て、Dac封入エクソソームで表面被覆したSor含有ポリマーミセル(Exo&PM/D+S)からなる生体模倣共送達プラットフォームを開発した。このプラットフォームは共送達を可能にし、DacによるDNA低メチル化が腫瘍微小環境を再構築し、Sorによるフェロトーシスを促進する。これにより、エピジェネティック調節とフェロトーシス誘導の相乗効果で強力な抗腫瘍活性を示すことが示された。"
+      },
+      {
+        "title": "An Exosomal Signature for Preoperative Detection of Occult Liver Metastasis in Pancreatic Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42684725/",
+        "abstract": "Early liver metastasis (early-LiM) after pancreatectomy represents an aggressive biological phenotype of pancreatic ductal adenocarcinoma (PDAC) and is associated with markedly poor survival. Reliable preoperative biomarkers to identify occult hepatic micrometastasis remain lacking.",
+        "source": "PubMed",
+        "doi": "10.1001/jamasurg.2026.3840",
+        "keyword": "Exosomes",
+        "title_ja": "膵癌における潜在性肝転移の術前検出のためのエクソソームシグネチャー",
+        "summary_ja": "膵管腺癌（PDAC）において、膵切除後の早期肝転移（early-LiM）は攻撃的な生物学的表現型を示し、予後は極めて不良である。しかし、術前に潜在性肝微小転移を検出する信頼性の高いバイオマーカーは未だ存在しない。本論文では、エクソソーム由来のシグネチャーを用いた術前検出法を提案する。特定のエクソソーム分子パターンが、早期肝転移のリスクを予測し得ることを示し、術前の液体生検としての有用性を検証している。これにより、手術適応や周術期治療戦略の個別化が可能となり、予後改善への貢献が期待される。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Recent advancements in exosomal content analysis: the future of liquid biopsy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42690454/",
+        "abstract": "Exosomes are widely acknowledged as an essential agent that carries biomarkers for specific diseases, representing the molecular status of their parent cells and providing extremely useful diagnostic insights. They can be isolated from different body fluids and contain a range of cargo molecules, including proteins, lipids, metabolites, and nucleic acids. Recent advancements in technology have greatly accelerated exosome research. Proteomics provides protein signatures linked to many pathological conditions, enabling quick and clinically scalable diagnostic tools, whereas high-throughput RNA-sequencing can be used to perform detailed transcriptome profiling. Exosomal biomarkers are showing promising clinical results in early detection of neurological diseases, infectious and cardiovascular disorders, oncology, and other medical conditions, hence accelerating therapeutic monitoring. Despite these advances, several challenges continue to hinder clinical translation including the lack of standardized isolation protocol, variability in exosome yield and purity, biological heterogeneity, and limited large-scale clinical validation. Addressing these limitations will be critical for the successful integration of exosome-based liquid biopsy into routine clinical practice. Overall, exosomes having significant potential as diagnostic tool, represent a transformative horizon in biomedical liquid biopsy research to redefine the landscape of less-invasive diagnostics and tailored clinical applications.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12661-6",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム内容物解析における最近の進歩：リキッドバイオプシーの未来",
+        "summary_ja": "エクソソームは、親細胞の分子状態を反映し、特定疾患のバイオマーカーを運ぶため、診断上有用である。体液から単離可能で、タンパク質、脂質、代謝物、核酸を含む。近年の技術進歩により、プロテオミクスは病理状態に関連するタンパク質シグネチャを提供し、迅速な臨床診断ツールを可能にし、ハイスループットRNAシーケンシングは詳細なトランスクリプトーム解析を実現する。エクソソームバイオマーカーは、神経疾患、感染症、心血管疾患、腫瘍学などの早期検出で有望な結果を示し、治療モニタリングを加速する。しかし、標準化された単離プロトコルの欠如、収量と純度のばらつき、生物学的異質性、大規模臨床検証の不足が臨床応用を妨げる。これらの課題を克服することが、エクソソームベースの液体生検の日常診療への統合に不可欠である。エクソソームは診断ツールとして大きな可能性を秘め、低侵襲診断と個別化医療の展望を変革し得る。"
+      },
+      {
+        "title": "Human Variation-Informed Prioritization of MPHOSPH6 in Lung Adenocarcinoma: A Source-Aware Multiomics Evidence Framework.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42689192/",
+        "abstract": "Moving from an association signal to a clinically credible biomarker requires several links that are often conflated: verified variant identity, aligned allelic effects, reproducible gene-level association, relevant cellular expression, and a plausible functional consequence. We developed a source-aware multiomics framework to assess MPHOSPH6 in lung adenocarcinoma (LUAD) while keeping those evidence classes separate. Six prespecified rsIDs were recovered from the harmonized TRICL LUAD dataset, of which five reached ",
+        "source": "PubMed",
+        "doi": "10.1155/humu/1879922",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト多様性に基づく肺腺癌におけるMPHOSPH6の優先順位付け：情報源を考慮したマルチオミクスエビデンスフレームワーク",
+        "summary_ja": "本論文は、肺腺癌（LUAD）における関連シグナルから臨床的に信頼できるバイオマーカーへの移行には、変異の同一性、対立遺伝子効果の整合性、遺伝子レベルの再現可能な関連、細胞発現、機能的影響という複数の証拠が混同されがちであると指摘する。著者らは、これらの証拠クラスを分離した「情報源認識型マルチオミクス枠組み」を開発し、MPHOSPH6遺伝子を評価した。調和化されたTRICL LUADデータセットから、事前指定した6つのrsIDを回収し、うち5つが関連性の基準を満たした。本枠組みは、各証拠を独立に検証することで、偽陽性を低減し、遺伝子の因果的役割を明確化する。結果は、MPHOSPH6がLUADの潜在的バイオマーカーであることを支持するが、さらなる機能検証が必要である。本手法は、多層オミクスデータを統合する際の解釈の曖昧さを解消し、精密医療への応用可能性を示す。"
+      },
+      {
+        "title": "PEBP1 Regulates Ferroptosis in Acute Glaucoma: Targeted Therapy Using Engineered Exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42687852/",
+        "abstract": "Glaucoma is the leading cause of irreversible blindness worldwide, primarily driven by the progressive loss of retinal ganglion cells (RGCs) under pathological high intraocular pressure (ph-IOP). Despite the established role of ferroptosis in RGC degeneration, specific molecular targets that can be used for clinical intervention still need to be optimized, and the slow onset of conventional gene therapy vectors is incompatible with the acute clinical course of glaucoma. Here, we integrate single-cell RNA sequencing and spatial transcriptomics to profile the dynamic transcriptomic landscape of the rat retina across acute, subacute, and chronic stages of ph-IOP injury. Through ferroptosis-focused screening of an early-activated RGC gene cluster, we identify the lipid metabolism regulator phosphatidylethanolamine-binding protein 1 (PEBP1) as a candidate mediator of RGC ferroptosis. We demonstrate that Pebp1 is specifically upregulated in injured RGCs with a trajectory mirroring ferroptosis pathway activation, and that AAV-mediated Pebp1 knockdown suppresses ferroptosis through the GPX4/ACSL4 signaling axis, thereby preserving RGC survival, retinal structure, and visual function. To overcome the critical time-window bottleneck-the several weeks delay required for AAV-mediated silencing versus the rapid, irreversible RGC loss in acute glaucoma-we engineer Exosomes-siPebp1, a mesenchymal stem cell-derived exosome system loaded with siPebp1, which enables immediate single-dose intervention post-injury. This system exhibits efficient RGC uptake, prolonged intraocular retention, and robust target gene silencing, and, in a head-to-head comparison, significantly outperforms unloaded exosomes, liposomal formulations, and AAV vectors in RGC protection, without detectable acute systemic or local toxicity. Collectively, this study implicates Pebp1 in ph-IOP-associated RGC ferroptosis and supports exosome-mediated siRNA delivery as a rapid, cell-free intervention strategy for acute glaucomatous injury.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202602807R",
+        "keyword": "Exosomes",
+        "title_ja": "PEBP1調節急性緑内障におけるフェロトーシス：工学的エクソソームを用いた標的治療",
+        "summary_ja": "緑内障は不可逆的な失明の主因であり、網膜神経節細胞（RGC）の喪失を伴う。本研究では、単一細胞RNAシークエンスと空間トランスクリプトミクスを用い、急性・亜急性・慢性の高眼圧（ph-IOP）損傷ラット網膜の経時的変化を解析した。初期活性化RGC遺伝子クラスターのフェロトーシス関連スクリーニングにより、脂質代謝調節因子PEBP1を候補因子として同定した。Pebp1は損傷RGCで特異的に上昇し、フェロトーシス経路活性化と一致した。AAVによるPebp1ノックダウンはGPX4/ACSL4シグナル軸を介してフェロトーシスを抑制し、RGC生存・網膜構造・視機能を保護した。しかし、AAVは発現まで数週間を要し急性緑内障には不適切なため、間葉系幹細胞由来エクソソームにsiPebp1を搭載した「Exosomes-siPebp1」を設計した。本システムは単回投与で即時介入が可能で、RGC取り込み効率・眼内滞"
+      },
+      {
+        "title": "Chitosan hydrogel loaded with mesenchymal stem cell-derived exosomes significantly accelerated wound closure and enhanced tissue regeneration in a full thickness porcine skin defect model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42686187/",
+        "abstract": "There is an urgent need for more effective wound healing therapies, particularly wound dressings that not only promote wound closure and reduce scar formation but also retain antibacterial properties. Chitosan, a natural copolymer with inherent hemostatic and antibacterial properties, and mesenchymal stem cell derived exosomes, which promote rapid re-epithelialization, collagen maturation, and scar reduction, were integrated into a single biofunctional dressing. This study evaluated the therapeutic efficacy and underlying mechanisms of this combined approach using a porcine full thickness skin excision model. ",
+        "source": "PubMed",
+        "doi": "10.1177/08853282261483994",
+        "keyword": "Exosomes",
+        "title_ja": "キトサンハイドロゲルに間葉系幹細胞由来エクソソームを担持させたところ、全層性ブタ皮膚欠損モデルにおいて創傷閉鎖を有意に促進し、組織再生を向上させた。",
+        "summary_ja": "キトサンと間葉系幹細胞由来エクソソームを統合したハイドロゲル創傷被覆材の有効性を、ブタ全層皮膚欠損モデルで評価した。キトサンは天然共重合体で止血・抗菌性を持ち、エクソソームは再上皮化促進、コラーゲン成熟、瘢痕軽減に寄与する。両者を組み合わせたバイオ機能性ドレッシングは、創傷閉鎖を有意に加速し、組織再生を増強した。本アプローチは、創傷治癒促進と瘢痕形成抑制を同時に実現する新規治療法として有望である。"
+      },
+      {
+        "title": "Anti-inflammatory mechanisms of breast milk exosomes in neonatal immune development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42686003/",
+        "abstract": "Breast milk exosomes (ΒΜΕs) are extracellular vesicles of 30-150 nm that have currently attracted research attention due to their protective role in neonatal immune development. Their bioactive cargos, including miRNAs, proteins and lipids, have been shown to facilitate cellular communication and regulate various physiological processes. In the present article, we explore known molecular mechanisms through which ΒΜΕs affect innate and adaptive immunity as well as the integrity of the intestinal epithelial barrier. BMEs can reduce symptoms of inflammatory intestinal diseases, such as necrotizing enterocolitis (NEC) by regulating key signaling pathways, including TLR4/MyD88/NF-κB, MAPK and PI3K/AKT. Their unique characteristics highlight the potential to serve as drug nanocarriers for therapeutic interventions especially in high-risk neonatal inflammatory diseases. Although the clinical application of ΒΜΕs needs to overcome several challenges such as heterogeneity, large-scale isolation and processing of ΒΜΕs, their anti-inflammatory effects are consistent and significant. Future multi-omics analyses for the comprehensive understanding of the molecular mechanisms through which exosomes exert immunomodulation are expected to reveal new opportunities to improve the health of vulnerable neonates.",
+        "source": "PubMed",
+        "doi": "10.1016/j.lfs.2026.124668",
+        "keyword": "Exosomes",
+        "title_ja": "母乳エクソソームの新生児免疫発達における抗炎症メカニズム",
+        "summary_ja": "母乳エクソソーム（BMEs）は30〜150 nmの細胞外小胞で、新生児の免疫発達における保護的役割から注目されている。その生物活性カーゴ（miRNA、タンパク質、脂質）は細胞間コミュニケーションを促進し、生理過程を調節する。本稿では、BMEsが自然免疫・獲得免疫および腸上皮バリアの完全性に影響を与える分子メカニズムを概説する。BMEsは壊死性腸炎（NEC）などの炎症性腸疾患の症状を軽減し、TLR4/MyD88/NF-κB、MAPK、PI3K/AKTなどの主要シグナル経路を調節する。その特性から、高リスク新生児の炎症性疾患に対する薬物ナノキャリアとしての応用可能性が示唆される。臨床応用には、不均一性や大規模単離・処理などの課題があるが、抗炎症効果は一貫して有意である。今後、マルチオミクス解析によりエクソソームの免疫調節機構を包括的に解明することで、脆弱な新生児の健康改善への新たな機会が期待さ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Proximity Proteomics Maps Candidate Cellular Uptake Pathways for Cell-Derived Nanovesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42687504/",
+        "abstract": "Although extracellular vesicles (EVs) facilitate selective molecular exchange between cells, their low yields and inherent heterogeneity limit translational applications. Cell-derived nanovesicles (CDNs), produced by mechanical extrusion of donor cells, offer a scalable alternative while retaining key membrane features of EVs. Yet how fabrication reshapes vesicle-cell communication remains poorly understood. Here, vesicle-side proteomics is integrated with TurboID proximity labeling of recipient-cell proteins to construct quantitative, dual-sided maps of CDN and small extracellular vesicle (sEV) interactions. Despite similar size and surface charge, CDNs displayed a substantially more diverse proteome and a broader repertoire of predicted uptake-associated signatures. Recipient-cell proximity proteomics further resolved distinct molecular cohorts. The CDN-associated cohort contained recipient-derived CALR and NCL, which are literature-linked to LRP1/CD91-associated efferocytic recognition and NCL-associated macropinocytic processes, respectively, whereas the sEV-associated cohort contained signatures consistent with HSPG-assisted docking and clathrin-mediated or CLIC/GEEC-related uptake. Together, these complementary datasets reveal molecular interfaces for extrusion-generated CDNs that are distinct from those of naturally secreted sEVs. Receptor dependence and the contributions of surface association and internalization require direct testing; however, the identified associations define specific mechanistic targets for further investigation. This dual-sided proteomic strategy establishes a quantitative framework for dissecting vesicle-cell communication and engineering membrane-based nanocarriers.",
+        "source": "PubMed",
+        "doi": "10.1002/smtd.71014",
+        "keyword": "sEVs",
+        "title_ja": "近接プロテオミクスが細胞由来ナノ小胞の候補細胞取り込み経路をマッピングする",
+        "summary_ja": "細胞由来ナノ小胞（CDNs）は、ドナー細胞の機械的押し出しにより作製され、細胞外小胞（EVs）の膜特性を保持しつつ、スケーラブルな代替手段を提供する。しかし、その作製プロセスが小胞と細胞の相互作用をどう変えるかは未解明だった。本研究では、小胞側プロテオミクスと、受容細胞側のTurboID近接標識を統合し、CDNsと小型細胞外小胞（sEVs）の定量的な両面マップを構築した。サイズと表面電荷は類似するものの、CDNsはより多様なプロテオームと、予測される取り込み関連シグネチャの広範なレパートリーを示した。受容細胞側の解析では、CDN関連群にCALRとNCLが含まれ、それぞれLRP1/CD91関連のエフェロサイトーシス認識とNCL関連のマクロピノサイトーシス経路に関連した。一方、sEV関連群はHSPG支援ドッキングやクラスリン媒介、CLIC/GEEC関連取り込みの特徴を示した。これらのデータは、"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n**1. 緑膿菌ワクチン開発（嚢胞性線維症モデル）**\nCF環境に適応した栄養要求性弱毒株を用いた新規ワクチンが、IL-17/IgA粘膜免疫を誘導し生体内で防御効果を示した。抗生物質耐性が進む中、感染症予防への貢献が期待される。\n\n**2. 抗PF4抗体による血小板凝固促進機構**\nVITT様症候群では、抗PF4抗体がHITよりも強力に血小板の凝固促進応答を惹起することを解明。診断・治療標的の精密化につながる。\n\n**3. 運動によるがん免疫療法の増強**\n運動が腫瘍微小環境を免疫促進型にリモデリングし、PD-1/PD-L1阻害効果を高める可能性を示す。非薬物的アジュバントとして臨床応用が期待される。\n\n**4. 吸入ナノシリカによる肺内NK細胞メモリー化**\n生分解性ナノシリカの吸入で、肺マクロファージ–NK細胞軸を介してメモリー様NK細胞をin vivoで誘導。ex vivo製造のコスト・複雑性を回避する画期的ながん免疫療法プラットフォーム。\n\n**5. 膵臓がん潜在性肝転移のエクソソーム診断**\n術前の血液中エクソソームシグネチャーにより、膵切除後の早期肝転移を高精度に予測。根治切除の適応判断や術後管理戦略を個別化できる可能性を秘める。\n\nこれらの研究は、感染症・免疫療法・診断バイオマーカーの各領域で、基礎研究から臨床応用への橋渡しを加速する重要な知見を提供しています。"
+}

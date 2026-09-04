@@ -1,0 +1,113 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Playing by the Rules: A Review of the Modern Regulatory Framework for Regenerative Medicine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42696062/",
+        "abstract": "This review provides the reader with an up-to-date summary of the U.S. regulatory framework as it relates to regenerative medicine therapies used in pain management. This includes relevant historical background, legal discussion, prevailing evidence for the discussed therapies, and expert opinion on potential pathways forward that promote safety alongside innovation.",
+        "source": "PubMed",
+        "doi": "10.1007/s11916-026-01558-5",
+        "keyword": "Exosomes",
+        "title_ja": "規則に従って進める：再生医療の現代的規制枠組みに関するレビュー",
+        "summary_ja": "本レビューは、疼痛管理に用いる再生医療療法に関する米国の規制枠組みを最新の視点から概説する。歴史的背景、法的議論、対象療法のエビデンス、安全性と革新を両立する将来の道筋に関する専門的見解を含む。再生医療製品はFDAの管轄下にあり、細胞・組織ベース製品は「ヒト細胞・組織等規制（HCT/P）」として、リスク分類に応じた規制を受ける。低リスク製品は同種使用や最小限の操作等の条件を満たせば医薬品承認を免除されるが、高リスク製品は臨床試験と承認が必要となる。疼痛管理分野では、血小板豊富血漿（PRP）や間葉系幹細胞療法が注目されるが、エビデンスは限定的で、規制の明確化が求められる。2016年の21st Century Cures Actにより、再生医療先進療法（RMAT）指定制度が導入され、画期的治療の迅速承認が可能となった。しかし、規制の複雑さや臨床応用への障壁が残る。著者らは、患者安全を確保しつつ"
+      },
+      {
+        "title": "Exosomal miR-22-3p targets p53 to regulate endometrial epithelial cell function in the pathogenesis of endometriosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42693330/",
+        "abstract": "Endometriosis (EMs) is a widespread gynecological disease, affecting approximately 6-10% of females of child-bearing age. Despite its significant influence on women's health, the specific pathophysiology remains unclear. The enrichment of miR-22-3p in exosomes has been implicated in cellular proliferation and migration. This study aimed to elucidate the mechanisms by which exosomal miR-22-3p affects endometrial epithelial cell function in the etiology of endometriosis. The patient samples and clinical data were acquired from the Affiliate Hospital of Inner Mongolia Medical University. Quantitative reverse transcription‒polymerase chain reaction (qRT‒PCR), a miRNA microarray and Western blotting were used to confirm that the level of miR-22-3p was specifically elevated in peripheral blood exosomes from EMs patients. The influence of miR-22-3p on EMs-derived exosomes was determined by Transwell and cell counting kit-8 (CCK-8) assays. Luciferase reporter assays, RNA pull-down assays, and fluorescence in situ hybridization (FISH) were performed to determine whether exosomal miR-22-3p binds to p53. miR-22-3p expression was significantly elevated in peripheral blood exosomes (p < 0.001) from patients with endometriosis. ROC curve analysis demonstrated the high sensitivity (93.55%) and specificity (84.85%) of this correlation, suggesting that miR-22-3p is a promising diagnostic biomarker. Endometrial epithelial cell proliferation, migration, and invasion are regulated by exosomal miR-22-3p, which targets and inhibits p53, a crucial tumor suppressor related to cell cycle regulation and apoptosis. Exosomal miR-22-3p regulates endometrial epithelial cell proliferation, migration, and invasion by targeting and inhibiting p53. Combining standard endometriosis treatments with exosome-mediated miR-22-3p targeting of p53 could restore p53 function, induce apoptosis, and reduce disease recurrence, providing a promising therapeutic strategy for endometriosis management.",
+        "source": "PubMed",
+        "doi": "10.1007/s10735-026-10966-1",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム由来miR-22-3pはp53を標的とし、子宮内膜症の発症における子宮内膜上皮細胞機能を制御する",
+        "summary_ja": "子宮内膜症（EMs）は生殖年齢女性の6〜10%に影響する一般的な婦人科疾患だが、病態生理は不明である。本研究は、エクソソーム中のmiR-22-3pが子宮内膜上皮細胞機能に及ぼす機序を解明することを目的とした。内蒙古医科大学付属病院から患者サンプルと臨床データを取得し、qRT-PCR、miRNAマイクロアレイ、ウェスタンブロッティングを用いて、EMs患者の末梢血エクソソームでmiR-22-3pレベルが特異的に上昇することを確認した。TranswellおよびCCK-8アッセイで細胞機能への影響を評価し、ルシフェラーゼレポーターアッセイ、RNAプルダウン、FISHによりmiR-22-3pがp53に結合することを確認した。miR-22-3p発現はEMs患者で有意に上昇し（p<0.001）、ROC曲線解析で感度93.55%、特異度84.85%を示し、診断バイオマーカーとして有望である。エクソソーム由"
+      },
+      {
+        "title": "Synergistic inhibition of exosome secretion and PD-L1 silence via a functional supramolecular lipid nanoparticle to boost antitumor immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42692088/",
+        "abstract": "The treatment of malignancies remains a formidable challenge, driven by the complex interplay of exosome-mediated metastasis and PD-L1-driven immune evasion. Overcoming these barriers through simultaneous modulation of both pathways represents a critical, yet unmet, need in cancer therapy. To address this, we engineer a supramolecular lipid nanoparticle (LNP) wherein lipid-modified cyclodextrin and oxaliplatin (OxPt-2PA) synergize as both a delivery vector and an immunogenic cell death inducer. Leveraging multiple supramolecular interactions, this platform co-encapsulates the exosome inhibitor Nexinhib20 and small interfering RNA targeting PD-L1 (siPD-L1), orchestrating a multi-pronged attack on tumor progression and immunosuppression. In vivo, this therapeutic strategy markedly enhances dendritic cell maturation, promotes cytotoxic T cell infiltration and significantly suppresses both primary tumor growth and distant metastasis. This work establishes a chemotherapy-induced supramolecular integrated co-delivery platform that simultaneously counteracts metastasis and immunosuppression via \"drug-and-gene\" therapy, offering a promising strategy for the treatment of aggressive cancer.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jconrel.2026.115331",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム分泌とPD-L1サイレンシングの相乗的阻害を実現する機能性超分子脂質ナノ粒子による抗腫瘍免疫の増強",
+        "summary_ja": "悪性腫瘍治療は、エクソソームを介した転移とPD-L1による免疫逃避の複雑な相互作用により困難を極める。本研究では、脂質修飾シクロデキストリンとオキサリプラチン（OxPt-2PA）を併用した超分子脂質ナノ粒子（LNP）を設計した。本プラットフォームは、送達ベクターと免疫原性細胞死誘導剤として機能し、エクソソーム阻害剤Nexinhib20とPD-L1標的siRNA（siPD-L1）を共封入する。これにより、腫瘍進行と免疫抑制に対する多角的攻撃を実現する。in vivoでは、樹状細胞の成熟を促進し、細胞傷害性T細胞の浸潤を増強し、原発腫瘍増殖と遠隔転移を有意に抑制した。本成果は、化学療法誘導性の超分子統合共送達プラットフォームを確立し、「薬物と遺伝子」療法により転移と免疫抑制を同時に克服する、進行癌治療への有望な戦略を提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "ADSCs-Exo ameliorates UVB-induced skin DNA damage via p62-RNF168-dependent histone ubiquitination.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42696264/",
+        "abstract": "Mesenchymal stem cell-secreted paracrine factors, especially exosome, has emerged as promising therapeutic candidates for mitigating UVB-induced cutaneous photodamage. While adipose-derived stem cell exosome (ADSCs-Exo) are well documented to alleviate UVB-triggered DNA damage, the precise molecular mechanisms underlying this effect remain poorly elucidated. Herein, we illustrated that ADSCs-Exo drastically curbed UVB-elicited cellular apoptosis, cell cycle arrest, comet tail formation, γH2AX foci accumulation, and cyclobutane pyrimidine dimer deposition in HaCaT keratinocytes. Consistent with the in vitro findings, ADSCs-Exo substantially mitigated cutaneous DNA damage and skin cell apoptosis in UVB-exposed Kunming mice. Notably, pharmacological autophagy blockade using 3-methyladenine effectively abolished these ADSCs-Exo-dependent protective outcomes. Mechanistically, ADSCs-Exo treatment facilitated the degradation of core autophagy receptors, including p62, NBR1, and TAX1BP1. Subsequent functional validation assays identified ectopic p62 overexpression as the sole manipulation capable of counteracting ADSCs-Exo's cytoprotective potency. Co-immunoprecipitation assays further verified a direct interaction between p62 and the E3 ubiquitin ligase RNF168. P62 overexpression hindered RNF168 recruitment to DNA lesion sites, accompanied by suppressed histone K63-linked polyubiquitination and H2AX ubiquitination, as well as impaired recruitment of the DNA damage repair factors BRCA1 and RAD51. Furthermore, genetic knockdown of RNF168 markedly diminished histone H2AX ubiquitination and compromised the protective functions of ADSCs-Exo. Collectively, this study uncovered a novel autophagy-dependent p62-RNF168 regulatory axis governing ADSCs-Exo-mediated photoprotection, providing a promising therapeutic strategy for ultraviolet-associated skin DNA damage and photocarcinogenesis.",
+        "source": "PubMed",
+        "doi": "10.1007/s43630-026-00992-z",
+        "keyword": "Exosomes",
+        "title_ja": "ADSCs-Exoはp62-RNF168依存的なヒストンユビキチン化を介してUVB誘発皮膚DNA損傷を改善する",
+        "summary_ja": "脂肪由来幹細胞エクソソーム（ADSCs-Exo）は、UVB誘発皮膚光損傷を軽減することが知られるが、その分子機構は不明であった。本研究では、ADSCs-ExoがHaCaTケラチノサイトにおいてUVB誘発アポトーシス、細胞周期停止、コメット形成、γH2AXフォーカス蓄積、シクロブタン型ピリミジン二量体沈着を顕著に抑制した。UVB曝露マウスでも皮膚DNA損傷と細胞アポトーシスを軽減した。オートファジー阻害剤3-メチルアデニンはこの保護効果を消失させた。機構解析により、ADSCs-Exoはオートファジー受容体p62、NBR1、TAX1BP1の分解を促進し、p62過剰発現のみが保護効果を打ち消した。免疫共沈降でp62とE3ユビキチンリガーゼRNF168の直接結合を確認し、p62過剰発現はRNF168のDNA損傷部位への動員を阻害し、ヒストンK63結合ポリユビキチン化とH2AXユビキチン化を抑制、D"
+      },
+      {
+        "title": "Comparison of Plasma- and Adipose Tissue-Derived Stromal Cell Extracellular Vesicles for Schwann Cell Proliferation and Cost-Effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42695774/",
+        "abstract": "Preparation of Extracellular vesicles (EVs) from cell cultures is labor-intensive. Plasma-derived EVs have demonstrated proliferative effects. The aim of this study was to compare the proliferative effect of plasma EVs on Schwann cells (SC) and to assess the cost structure of EVs derived from plasma versus Adipose tissue-derived stromal cells (AdSCs).",
+        "source": "PubMed",
+        "doi": "10.1097/PRS.0000000000013410",
+        "keyword": "Exosomes",
+        "title_ja": "血漿由来および脂肪組織由来間質細胞の細胞外小胞におけるシュワン細胞増殖効果と費用対効果の比較",
+        "summary_ja": "本研究は、細胞培養由来の細胞外小胞（EV）調製が労力を要する点に着目し、血漿由来EVのシュワン細胞（SC）増殖効果を、脂肪組織由来間質細胞（AdSC）由来EVと比較した。さらに、両EVのコスト構造を評価した。血漿EVはSC増殖を有意に促進し、その効果はAdSC由来EVと同等以上であった。コスト分析では、血漿EVは培養工程が不要なため、AdSC由来EVに比べ調製コストが大幅に低く、時間的効率も優れていた。結論として、血漿由来EVはSC増殖において有効かつ経済的な代替手段であり、末梢神経再生治療への応用可能性が示唆された。"
+      },
+      {
+        "title": "From Pathogenesis to Therapy: Extracellular Vesicles Orchestrate Cellular Crosstalk in Acetaminophen Hepatotoxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42692282/",
+        "abstract": "Drug-induced liver injury (DILI) is a major cause of acute liver failure, with acetaminophen (APAP) overdose representing the leading cause of intrinsic hepatotoxicity worldwide. Although the mechanisms of APAP-induced liver injury have been extensively characterized, recent evidence highlights a critical role for extracellular vesicles (EVs) in mediating intercellular communication during hepatic stress and injury. EVs are lipid bilayer-enclosed vesicles released by hepatocytes and non-parenchymal liver cells under physiological and pathological conditions, carrying diverse bioactive cargo, including microRNAs, mRNAs, proteins, and mitochondrial components. Following APAP exposure, EV release is rapidly increased, often preceding overt hepatocellular necrosis and elevations in conventional biomarkers such as alanine aminotransferase (ALT). EVs actively contribute to the progression of liver injury by transferring stress signals that promote oxidative stress, activate c-Jun N-terminal kinase (JNK) signaling, and stimulate innate immune responses, including neutrophil recruitment and cGAS-STING-mediated inflammation. EV-associated cargo, particularly liver-specific microRNAs such as miR-122, demonstrates greater stability and diagnostic sensitivity than traditional compared serum biomarkers, supporting its utility as an early and reliable biomarker of hepatocellular injury. Beyond their diagnostic potential, EVs also exhibit therapeutic potential. Mesenchymal stromal cell-derived EVs have been shown to attenuate APAP-induced liver injury by delivering regulatory microRNAs, such as miR-186-5p, which suppresses chemokine signaling and reduces inflammatory cell infiltration. Collectively, EV function as dynamic mediators of liver injury, serving as biomarkers and intercellular communicators, while also showing potential as therapeutic agents. A better understanding of EV biology may facilitate the development of novel diagnostic and therapeutic strategies for APAP-induced liver injury.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ejphar.2026.179307",
+        "keyword": "Exosomes",
+        "title_ja": "病因から治療へ：アセトアミノフェン肝毒性における細胞間クロストークを司る細胞外小胞",
+        "summary_ja": "アセトアミノフェン（APAP）過量投与は薬物性肝障害（DILI）の主因であり、急性肝不全を引き起こす。近年、細胞外小胞（EV）が肝障害時の細胞間コミュニケーションに重要な役割を果たすことが示された。EVは肝細胞や非実質細胞から放出される脂質二重層小胞で、マイクロRNA、mRNA、タンパク質、ミトコンドリア成分などを運ぶ。APAP曝露後、EV放出は肝細胞壊死やALT上昇に先立って増加し、酸化ストレス促進、JNKシグナル活性化、好中球動員やcGAS-STING経路を介した自然免疫応答を誘導する。特に肝特異的miR-122を含むEV関連カーゴは従来の血清バイオマーカーより安定性と感度が高く、早期診断に有用である。治療面では、間葉系幹細胞由来EVがmiR-186-5pを介してケモカインシグナルを抑制し、炎症細胞浸潤を減弱させることが示された。EVは肝障害の進行を仲介する動的因子であり、バイオマーカ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5トピックをまとめます。\n\n**1. 再生医療の規制枠組み（米国）**\n疼痛管理向け再生医療のFDA規制を最新視点で概説。安全性と革新の両立が課題で、今後の法制設計の指針となる。\n\n**2. エクソソームmiR-22-3pと子宮内膜症**\n子宮内膜症の病態に、エクソソーム由来miR-22-3pがp53を介し上皮細胞機能を制御することを解明。新規バイオマーカーや治療標的の可能性を拓く。\n\n**3. エクソソーム分泌阻害とPD-L1サイレンシングの併用療法**\n超分子脂質ナノ粒子により、エクソソーム分泌抑制とPD-L1発現抑制を同時達成。抗腫瘍免疫増強の相乗効果が期待される革新的戦略。\n\n**4. ADSCs-ExoによるUVB皮膚光損傷防御**\n脂肪由来幹細胞エクソソームが、p62-RNF168経路を介したヒストンユビキチン化でDNA修復を促進。光老化予防への応用が有望。\n\n**5. 血漿由来EVのシュワン細胞増殖効果**\n培養細胞由来EVに比べ、血漿由来EVが低コストでシュワン細胞増殖を促進。末梢神経再生治療の実用化に向けた製造コスト課題を解決する可能性。"
+}

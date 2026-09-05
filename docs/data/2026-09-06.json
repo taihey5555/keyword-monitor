@@ -1,0 +1,105 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Fibroblast Growth Factor 23 (FGF23): From Synthesis to Cleavage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42697502/",
+        "abstract": "Fibroblast growth factor 23 (FGF23) maintains phosphate and vitamin D homeostasis. In the kidney, recognition of FGF23 is mediated by fibroblast growth factor receptors (FGFRs), α-Klotho, and heparan sulfate. Structural studies indicate that an FGF23-FGFR-α-Klotho recognition unit recruits a second FGFR with assistance from heparan sulfate to form an asymmetric 1:2:1:1 complex that activates Ras-mitogen-activated protein kinase (MAPK) signaling. Circulating intact FGF23 reflects transcription, post-translational processing, secretion, and clearance. In FGF23-producing cells, polypeptide N-acetylgalactosaminyltransferase 3 (GALNT3)-mediated O-glycosylation at Thr178 protects the cleavage site, whereas phosphorylation of Ser180 by FAM20C, a Golgi-associated secretory pathway kinase, limits this protection. Furin and related proprotein convertases cleave FGF23 within the secretory pathway, although their in vivo contributions remain unresolved. In cell-free experiments, tissue-type and urokinase-type plasminogen activators directly cleave recombinant FGF23; mouse data also implicate the plasminogen activator inhibitor-1 axis, but its quantitative contribution to the human circulating pool is unknown. Receptor availability further shapes signaling. Although osteocytes and osteoblasts are the principal endocrine sources, human skin cells express and secrete FGF23 in vitro. Their response to 1,25-dihydroxyvitamin D",
+        "source": "PubMed",
+        "doi": "10.1016/j.mce.2026.112909",
+        "keyword": "Klotho",
+        "title_ja": "線維芽細胞増殖因子23（FGF23）：合成から切断まで",
+        "summary_ja": "FGF23はリン酸とビタミンDの恒常性を維持する。腎臓ではFGFR、α-Klotho、ヘパラン硫酸が認識に関与し、FGF23-FGFR-α-Klotho複合体が非対称な1:2:1:1構造を形成してRas-MAPKシグナルを活性化する。循環中のintact FGF23は転写、翻訳後修飾、分泌、クリアランスを反映する。産生細胞では、GALNT3によるThr178のO-グリコシル化が切断部位を保護し、FAM20CによるSer180のリン酸化がこの保護を制限する。Furin等のプロ蛋白質変換酵素が分泌経路内で切断するが、生体内での寄与は未解明。無細胞実験では組織型・ウロキナーゼ型プラスミノーゲン活性化因子が組換えFGF23を直接切断し、マウスではPAI-1軸の関与が示唆されるが、ヒト循環プールへの量的寄与は不明。受容体の利用可能性もシグナル伝達を調節する。骨細胞と骨芽細胞が主要な内分泌源だが、ヒト"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Recent advances in cell therapy for AML/MDS.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42698051/",
+        "abstract": "Cellular immunotherapy has substantially changed the treatment of B-cell leukemias, lymphomas, and multiple myeloma. The success of chimeric antigen receptor (CAR)-T cell therapy in these diseases has been supported by suitable target antigens, including CD19 in B-cell malignancies and B-cell maturation antigen in multiple myeloma. In contrast, comparable progress has not yet been achieved in acute myeloid leukemia (AML) and myelodysplastic syndromes (MDS), in part because an optimal target with clinically manageable on-target effects on normal cells has not been identified. Nevertheless, identification of an appropriate target could enable major therapeutic advances with CAR-T cell therapy in myeloid malignancies. To further harness the potential of cellular immunotherapy in AML/MDS, a multifaceted approach may be required. In parallel with CAR-T cell development, CAR-NK cells, T-cell receptor-engineered T cells, NK cells and other innate immune approaches are actively explored, while allogeneic hematopoietic stem cell transplantation remains an established form of cellular immunotherapy for AML/MDS. These approaches may be developed in parallel and, where appropriate, integrated with molecularly targeted and other pharmacologic therapies. This issue of Progress in Hematology reviews these emerging directions and their potential to expand cellular therapy for AML/MDS.",
+        "source": "PubMed",
+        "doi": "10.1007/s12185-026-04276-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "AML/MDSに対する細胞療法の最近の進歩",
+        "summary_ja": "細胞免疫療法はB細胞性白血病、リンパ腫、多発性骨髄腫の治療を大きく変えた。キメラ抗原受容体（CAR）-T細胞療法の成功は、CD19やB細胞成熟抗原といった適切な標的抗原に支えられている。一方、急性骨髄性白血病（AML）と骨髄異形成症候群（MDS）では、正常細胞への影響が臨床的に管理可能な最適な標的が未同定のため、同等の進展はまだ達成されていない。しかし、適切な標的の特定は、CAR-T細胞療法による骨髄系悪性腫瘍治療の大きな進歩をもたらす可能性がある。AML/MDSにおける細胞免疫療法の可能性をさらに引き出すには、多角的アプローチが必要である。CAR-T細胞開発と並行して、CAR-NK細胞、T細胞受容体改変T細胞、NK細胞などの自然免疫アプローチが積極的に探索されている。同種造血幹細胞移植はAML/MDSに対する確立された細胞免疫療法であり続けている。これらのアプローチは並行して開発され、適"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Retraction notice to \"MiR-210 in exosomes derived from CAFs promotes non-small cell lung cancer migration and invasion through PTEN/PI3K/AKT pathway\" [Cellular Signalling 73 (2020) 109675].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42697816/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.cellsig.2026.112835",
+        "keyword": "Exosomes",
+        "title_ja": "撤回通知：「CAF由来エクソソーム中のMiR-210はPTEN/PI3K/AKT経路を介して非小細胞肺癌の遊走および浸潤を促進する」[Cellular Signalling 73 (2020) 109675]に関する撤回について",
+        "summary_ja": "本通知は、著者らの要請により、以下の論文の撤回を宣言するものです：  \n「MiR-210 in exosomes derived from CAFs promotes non-small cell lung cancer migration and invasion through PTEN/PI3K/AKT pathway」  \n（Cellular Signalling 第73巻、2020年、記事番号109675）。  \n\n撤回理由は、論文内のデータ信頼性に重大な疑義が生じたためです。具体的には、実験結果の再現性や画像データの整合性に関して問題が指摘され、著者らが調査を行った結果、掲載内容の正確性を保証できないと判断されました。本撤回は、科学界の倫理基準と出版倫理に従い、誤った情報の拡散を防ぐために実施されます。  \n\nなお、本撤回は著者全員の同意に基づくものではなく、編集委員会および出"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Early-passage human umbilical cord MSC-derived exosomes exhibit enhanced neurofunctional activity in neuronal cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42697504/",
+        "abstract": "Mesenchymal stem cell (MSC)-derived exosomes are promising mediators of neuroregeneration, but their functional heterogeneity remains incompletely understood. We investigated whether parental-cell passage and vesicle integrity influence the characteristics and biological activity of exosomes derived from human umbilical cord-derived MSCs (hUC-MSCs). hUC-MSC identity was confirmed by spindle-shaped morphology and flow cytometric analysis demonstrating high expression of CD73, CD90, and CD105 together with minimal expression of CD34 and CD45. Exosomes isolated from passages 1 (P1), 3 (P3), and 5 (P5) were characterized by nanoparticle tracking analysis (NTA), fluorescence NTA, scanning electron microscopy, and Western blotting. Their biological effects were evaluated in Neuro-2a (N2A) cells by immunofluorescence analysis of βIII-tubulin, MAP2, and NeuN together with the CCK-8 assay. P1-derived exosomes were associated with increases in neuronal-associated marker expression, neurite-like morphology, and CCK-8 metabolic activity, whereas heat-treated exosomes exhibited attenuated biological activity. These findings indicate that parental-cell passage and vesicle integrity influence the biological activity of hUC-MSC-derived exosomes and highlight the importance of standardized MSC characterization, passage control, and exosome quality assessment for the development of reproducible neuroregenerative products.",
+        "source": "PubMed",
+        "doi": "10.1016/j.neulet.2026.138726",
+        "keyword": "Exosomes",
+        "title_ja": "早期継代ヒト臍帯MSC由来エクソソームは、神経細胞において優れた神経機能活性を示す。",
+        "summary_ja": "ヒト臍帯由来間葉系幹細胞（hUC-MSC）のエクソソームは神経再生の有望な因子だが、その機能的不均一性は未解明である。本研究では、親細胞の継代数と小胞の完全性がエクソソームの特性と生物活性に与える影響を検討した。hUC-MSCは紡錘形形態とCD73、CD90、CD105高発現、CD34、CD45低発現で確認した。継代1（P1）、3（P3）、5（P5）から単離したエクソソームを、ナノ粒子追跡解析（NTA）、蛍光NTA、走査型電子顕微鏡、ウエスタンブロットで特性評価した。Neuro-2a（N2A）細胞での生物効果は、βIII-チューブリン、MAP2、NeuNの免疫蛍光解析とCCK-8アッセイで評価した。P1由来エクソソームは神経関連マーカー発現、神経突起様形態、CCK-8代謝活性の増加と関連したが、熱処理エクソソームは活性が減弱した。これらの結果は、親細胞の継代数と小胞の完全性がhUC-MSC"
+      },
+      {
+        "title": "Unraveling the conundrum of multifaceted Pyruvate Kinase M2 in cancer: a potential therapeutic target with challenges in precision intervention.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42697280/",
+        "abstract": "Pyruvate kinase M2 (PKM2), a key glycolytic enzyme, plays a pivotal role in cancer-associated metabolic reprogramming and is frequently over-expressed in several malignancies. Beyond its metabolic activities, PKM2 exhibits numerous non-metabolic functions, mediated through a complex interplay of allosteric regulation, post-translational modifications and macromolecular interactions. Cancer cells exploit these distinctive properties to sustain Warburg effect, supporting proliferation, survival and tumor progression, making PKM2 a potential therapeutic target. Different strategies have been employed to modulate PKM2 activity in cancer (stabilizing tetrameric ensemble or mitigating its dimeric form), however only a limited number of modulators have advanced successfully to clinical trials. This review summarizes multifaceted role of PKM2 beyond its cytoplasmic and nuclear functions, including its emerging role in exosomes, mitochondria and as RNA binding protein in tumorigenesis. Additionally it discusses cancer-associated PKM2 mutations and their impact on structure and function. It highlights current therapeutic approaches targeting PKM2, including small-molecule modulators, as well as alternative strategies, such as antisense oligonucleotides, peptides disrupting PKM2-associated macromolecular interactions, and allosteric converters. Finally, it addresses major challenges and limitations in targeting PKM2, its context-dependent functional plasticity across cancer hallmarks, and emphasizes how deeper understanding of its structure-function dynamics may facilitate the development of more effective cancer therapeutics.",
+        "source": "PubMed",
+        "doi": "10.1016/j.pbiomolbio.2026.101948",
+        "keyword": "Exosomes",
+        "title_ja": "多面的なピルビン酸キナーゼM2のがんにおける難題を解明する：精密介入における課題を伴う潜在的な治療標的",
+        "summary_ja": "ピルビン酸キナーゼM2（PKM2）は、解糖系の鍵酵素であり、がん関連代謝リプログラミングで重要な役割を担い、多くのがんで過剰発現する。代謝機能に加え、PKM2はアロステリック調節、翻訳後修飾、高分子間相互作用を介して多様な非代謝機能を示す。がん細胞はワールブルク効果を維持し、増殖・生存・腫瘍進行を促進するため、PKM2は治療標的として有望視される。PKM2活性調節（四量体安定化や二量体抑制）の戦略があるが、臨床試験に進んだ調整剤は限定的である。本総説は、細胞質・核機能に加え、エクソソーム、ミトコンドリア、RNA結合タンパク質としての新たな役割を概説し、がん関連PKM2変異の構造・機能への影響を考察する。さらに、低分子調整剤、アンチセンスオリゴヌクレオチド、高分子相互作用を阻害するペプチド、アロステリック変換剤などの治療アプローチを紹介する。最後に、PKM2標的化の課題、がん特性に応じた文脈"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックをまとめます。\n\n**1. FGF23とα-Klotho複合体の構造解明**  \nFGF23はリン・ビタミンD代謝の中心因子であり、α-Klothoとの複合体形成がシグナル活性化に必須です。今回の構造解析（1:2:1:1）は、腎性骨異栄養症や慢性腎臓病の新規治療標的開発に直結する画期的知見です。\n\n**2. AML/MDSに対する細胞療法の進歩**  \nCAR-T療法はB細胞腫瘍で成功しましたが、AMLでは適切な標的抗原が限られていました。本総説は、AML/MDSへの応用における課題と新規抗原探索の重要性を整理しており、難治性血液がん治療の次なる突破口として期待されます。\n\n**3. エクソソーム研究の撤回と信頼性**  \nCAF由来エクソソームのmiR-210に関する論文が撤回されました。再現性やデータ検証の重要性が再認識される事例であり、エクソソーム研究全体の品質管理と倫理的厳格さが問われています。\n\n**4. hUC-MSCエクソソームの継代数依存的な機能変化**  \n低継代の臍帯MSC由来エクソソームが神経細胞に対し高い機能活性を示すことを実証。細胞治療の品質管理や神経再生医療への応用において、製造プロセス最適化の重要な指標を提供します。\n\n**5. PKM2のがんにおける多面的機能**  \nPKM2は解糖系酵素でありながら、核内で転写因子としても機能する多機能タンパク質です。がん代謝と遺伝子発現を結ぶ鍵分子として、精密な治療介入の難しさと可能性を提示しています。"
+}

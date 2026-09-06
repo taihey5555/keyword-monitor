@@ -1,0 +1,197 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Effects of Heidihuang Pill on renal fibrosis and senescence-associated changes in rats with unilateral ureteral obstruction: A fecal metabolomics and Klotho-knockdown study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42700848/",
+        "abstract": "Heidihuang Pill (HDHW) is a traditional Chinese medicine formula. It is based on the principle of \"simultaneously nourishing the spleen and kidney.\" In contemporary Chinese medicine practice, HDHW is used in patients with chronic renal failure who present with a spleen-kidney deficiency pattern. Previous studies suggest that HDHW can protect the kidney and reduce renal fibrosis. However, its underlying pharmacological mechanisms remain unclear.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jep.2026.122363",
+        "keyword": "Klotho",
+        "title_ja": "ヘイディファン丸が片側尿管閉塞ラットの腎線維化および老化関連変化に及ぼす影響：糞便メタボロミクスとKlothoノックダウン研究",
+        "summary_ja": "本研究旨在探讨黑地黄丸（HDHW）对单侧输尿管梗阻（UUO）大鼠肾纤维化及衰老相关变化的影响，并利用粪便代谢组学和Klotho敲低技术揭示其机制。HDHW是一种基于“脾肾同补”原则的中药复方，临床用于脾肾亏虚型慢性肾衰竭患者。既往研究表明HDHW具有肾脏保护和抗纤维化作用，但具体药理机制尚不明确。本研究通过UUO模型诱导肾纤维化，结合Klotho基因敲低，分析HDHW干预后的肾脏病理变化、衰老标志物及粪便代谢谱。结果显示，HDHW显著减轻肾纤维化程度，改善衰老相关表型，并调节粪便代谢物谱。Klotho敲低部分抵消了HDHW的保护效应，提示Klotho通路参与其作用机制。代谢组学分析鉴定出多种差异代谢物，涉及氨基酸、脂质及能量代谢通路。综上，HDHW通过调节代谢网络和Klotho信号发挥抗纤维化及抗衰老作用，为临床应用提供科学依据。"
+      },
+      {
+        "title": "Bile salt hydrolase-active bifidobacterium animalis improves sarcopenia via the gut microbiota-bile acid-FXR-FGF15 axis and its functional fermented milk preparation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42531634/",
+        "abstract": "Sarcopenia is a major global health challenge associated with aging, and effective pharmacological treatments are lacking. This study investigated how bile salt hydrolase (BSH)-active probiotics alleviate sarcopenia through bile acid deconjugation and remodeling, activating the intestinal FXR-FGF15/19 signaling pathway, and explored their application in functional dairy products. Three high-BSH strains-Lactiplantibacillus plantarum H-87, Bifidobacterium animalis F1-7, and F1-3-2-were identified, among which F1-7 and F1-3-2 showed superior efficacy in a dexamethasone-induced sarcopenia model. These strains improved muscle mass, morphology (including increased muscle fiber cross-sectional area and improved histological integrity), and performance by modulating gut microbiota, optimizing bile acid composition, and enhancing ileal FXR-FGF15 signaling to activate the muscle FGFR4/KLB pathway and inhibit protein degradation. Furthermore, fermented milk produced with F1-7 and F1-3-2 met quality standards and exhibited improved sensory properties. This study provides a mechanistic basis for developing probiotic dairy products and sustainable nutritional strategies for sarcopenia.",
+        "source": "PubMed",
+        "doi": "10.1016/j.foodchem.2026.150594",
+        "keyword": "Klotho",
+        "title_ja": "胆汁酸塩加水分解酵素活性を有するビフィドバクテリウム・アニマリスは、腸内細菌叢–胆汁酸–FXR–FGF15経路を介してサルコペニアを改善し、その機能性発酵乳製剤の調製。",
+        "summary_ja": "サルコペニアは加齢に伴う世界的な健康課題であり、有効な薬物療法が不足している。本研究では、胆汁酸塩加水分解酵素（BSH）活性を持つプロバイオティクスが、胆汁酸の脱抱合とリモデリングを介して腸管FXR-FGF15/19シグナル経路を活性化し、サルコペニアを改善する機構を検討し、機能性乳製品への応用を探った。高BSH株3種（Lactiplantibacillus plantarum H-87、Bifidobacterium animalis F1-7、F1-3-2）を特定し、デキサメタゾン誘発サルコペニアモデルでF1-7とF1-3-2が優れた効果を示した。これらの株は、筋量・筋形態（筋線維断面積増加、組織学的完全性改善）・運動機能を改善し、腸内細菌叢の調節、胆汁酸組成の最適化、回腸FXR-FGF15シグナル増強により、筋肉のFGFR4/KLB経路を活性化し、タンパク質分解を抑制した。さらに、F"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Moderated mediation of cerebrospinal fluid fibroblast growth factor 21 and KLB rs17618244 genotype in the association between educational attainment and cognitive function.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42700933/",
+        "abstract": "Although educational attainment influences both cognitive function and metabolic regulation, the biological mechanisms underlying this relationship remain unclear. This study investigated whether cerebrospinal fluid fibroblast growth factor 21 (CSF FGF21) mediates the association between educational attainment and cognitive function, and whether this pathway is moderated by the KLB rs17618244 genotype.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbr.2026.116458",
+        "keyword": "Klotho",
+        "title_ja": "教育達成度と認知機能の関連における脳脊髄液中の線維芽細胞増殖因子21とKLB rs17618244遺伝子型の調整媒介効果",
+        "summary_ja": "本研究は、教育歴が認知機能と代謝調節に与える影響の生物学的機序を解明するため、脳脊髄液中の線維芽細胞増殖因子21（CSF FGF21）が媒介し、KLB rs17618244遺伝子型が調整するモデルを検証した。教育歴と認知機能の関連は知られているが、その媒介・調整経路は不明であった。解析の結果、CSF FGF21は教育歴と認知機能の関連を部分的に媒介し、この媒介効果はKLB rs17618244遺伝子型によって調整されることが示された。具体的には、特定の遺伝子型保有者では媒介効果が強く、非保有者では弱かった。この結果は、教育歴が認知機能に及ぼす影響にFGF21シグナル伝達が関与し、その経路が遺伝的背景により修飾されることを示唆する。本研究は、認知機能の個人差における代謝因子と遺伝子多型の相互作用を明らかにし、教育介入や認知症予防の個別化戦略に寄与する可能性がある。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Safety and feasibility of 4-1BB co-stimulated CD19-specific CAR-NK cell therapy in refractory/relapsed large B cell lymphoma: a phase 1 trial",
+        "url": "https://www.semanticscholar.org/paper/7c669a886f9a6d4a233a024eb9596c8218f1d01a",
+        "abstract": "Chimeric antigen receptor (CAR)-modified NK (CAR-NK) cells are candidates for next-generation cancer immunotherapies. Here we generated CD19-specific CAR-NK cells with 4-1BB and CD3ζ signaling endo-domains (CD19-BBz CAR-NK) by transduction of cord blood-derived NK cells using baboon envelope pseudotyped lentiviral vectors and demonstrated their antitumor activity in preclinical B cell lymphoma models in female mice. We next conducted a phase 1 dose-escalation trial involving repetitive administration of CAR-NK cells in 8 patients with relapsed/refractory large B cell lymphoma (NCT05472558). Primary end points were safety, maximum tolerated dose, and overall response rate. Secondary end points included duration of response, overall survival, and progression-free survival. No dose-limiting toxicities occurred, and the maximum tolerated dose was not reached. No cases of cytokine release syndrome, neurotoxicity, or graft-versus-host disease were observed. Results showed an overall response rate of 62.5% at day 30, with 4 patients (50%) achieving complete response. The median progression-free survival was 9.5 months, and the median overall survival was not reached. A post hoc exploratory single-cell RNA sequencing analysis revealed molecular features of CAR-NK cells associated with therapeutic efficacy and efficacy-related immune cell interaction networks. This study met the pre-specified end points. In conclusion, CD19-BBz CAR-NK cells were feasible and therapeutically safe, capable of inducing durable response in patients with B cell lymphoma. Lei et al. develop a 4-1BB co-stimulated anti-CD19 CAR-NK cell product, show efficacy in pre-clinical models, and test safety and feasibility in a phase 1 trial in patients with refractory/relapsed large B cell lymphoma.",
+        "source": "SemanticScholar",
+        "doi": "10.1038/s43018-025-00940-3",
+        "keyword": "NK cell therapy",
+        "title_ja": "難治性・再発性大細胞型B細胞リンパ腫に対する4-1BB共刺激CD19特異的CAR-NK細胞療法の安全性と実現可能性：第1相試験",
+        "summary_ja": "CD19特異的CAR-NK細胞療法（CD19-BBz CAR-NK）の安全性と有効性を検証した第1相試験。臍帯血由来NK細胞にバブーンエンベロープ偽型レンチウイルスベクターを用いて4-1BBとCD3ζシグナルドメインを導入し、前臨床モデルで抗腫瘍活性を確認後、再発・難治性大細胞型B細胞リンパ腫患者8例に反復投与した（NCT05472558）。主要評価項目は安全性、最大耐用量、全奏効率。用量制限毒性、サイトカイン放出症候群、神経毒性、移植片対宿主病は認められず、最大耐用量には到達しなかった。30日時点の全奏効率は62.5%、完全奏効は4例（50%）で、無増悪生存期間の中央値は9.5か月、全生存期間の中央値は未到達だった。探索的な一細胞RNAシーケンス解析により、治療効果に関連するCAR-NK細胞の分子的特徴と免疫細胞相互作用ネットワークが示された。本試験は事前設定エンドポイントを達成し、CD"
+      },
+      {
+        "title": "CAR-NK cell therapy combined with checkpoint inhibition induces an NKT cell response in glioblastoma",
+        "url": "https://www.semanticscholar.org/paper/ad49a564161d1a2bf3225841d44f7e342d6177d2",
+        "abstract": "Glioblastoma is the most aggressive primary brain tumor with limited efficacy of established therapies, and a pronounced immunosuppressive tumor microenvironment. Targeting HER2 with local immunotherapy allows for high tumor specificity in the brain with physiologically very low expression. Monotherapy with CAR-NK cells targeted against HER2 has previously shown efficacy in medium-sized GL261/HER2 tumors. Advanced GL261/HER2 tumors were treated by local CAR-NK cell injection combined with systemic anti-PD-1 checkpoint blockade. Tumor growth and survival were monitored. In-depth characterization of the microenvironment was performed by multiplex immune fluorescence, spectral flow cytometry and RNAseq. Untreated GL261/HER2 tumors were characterized by local immunosuppression and high PD-L1 expression. Combined treatment with NK-92/5.28.z and systemic anti-PD-1 induced robust anti-tumor response and long-term survival. Multiplex immunofluorescence and spectral flow cytometry showed increased CD4+ T cell infiltration in mice treated with CAR-NK cell and anti-PD-1 combination therapy. A cluster of T cells specifically emerging in the combination therapy group expressed markers of NKT cells, which was further verified by immunofluorescence staining. The combination therapy reverted the immunosuppressive tumor microenvironment with increased T and NKT cell infiltration. This resulted in successful treatment of advanced orthotopic tumors refractory to CAR-NK cell monotherapy.",
+        "source": "SemanticScholar",
+        "doi": "10.1038/s41416-025-02977-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "CAR-NK細胞療法とチェックポイント阻害の併用は、膠芽腫においてNKT細胞応答を誘導する",
+        "summary_ja": "膠芽腫は最も攻撃的な原発性脳腫瘍であり、既存治療の効果は限定的で、免疫抑制性の腫瘍微小環境を特徴とする。脳内で生理的発現が極めて低いHER2を標的とした局所免疫療法は高い腫瘍特異性を示す。HER2標的CAR-NK細胞単独療法は中程度のGL261/HER2腫瘍で有効性が示されていたが、進行したGL261/HER2腫瘍に対し、局所CAR-NK細胞注入と全身性抗PD-1チェックポイント阻害剤の併用療法を実施した。腫瘍増殖と生存を監視し、微小環境を多重免疫蛍光、スペクトルフローサイトメトリー、RNAseqで詳細に解析した。未治療のGL261/HER2腫瘍は局所免疫抑制と高PD-L1発現を示した。NK-92/5.28.zと抗PD-1の併用は強力な抗腫瘍応答と長期生存を誘導した。併用群ではCD4+ T細胞浸潤が増加し、特にNKT細胞マーカーを発現するT細胞クラスターが出現し、免疫蛍光染色で確認された。"
+      },
+      {
+        "title": "Dark NKnight rising: a current perspective on NK cell and CAR-NK cell therapy.",
+        "url": "https://www.semanticscholar.org/paper/f78f1da755abb8d42f870fb00d43694240935887",
+        "abstract": "Natural killer (NK) cell therapy began decades ago with administration of small doses of minimally-characterized cells known as cytokine-induced or lymphokine-activated killer cells (CIK or LAK, respectively). Methods and conditions that enabled the broad adoption of T cell therapies have often been less effective for NK cells, but in the last 15 years, new NK-specific advances in selection, differentiation, and ex vivo expansion hav e made possible the infusion of large doses of pure and potent NK cell products. Also, NK cells have been more resistant to the genetic modification approaches utilized for engineering T cells, but in the last 5 years several robust approaches for NK cell modification have advanced to the clinic. Thus, a tremendous surge in NK cell clinical trials has been seen recently. Here, we present a focused perspective on the key developments in NK cell therapy that differentiate it from T cell therapies and discuss areas that are key to their clinical and commercial success- both current advancements and hurdles that remain to be addressed.",
+        "source": "SemanticScholar",
+        "doi": "10.1016/j.jcyt.2025.04.064",
+        "keyword": "NK cell therapy",
+        "title_ja": "ダークナイト・ライジング：NK細胞およびCAR-NK細胞療法に関する現在の展望",
+        "summary_ja": "NK細胞療法は数十年前、サイトカイン誘導キラー細胞（CIK）やリンフォカイン活性化キラー細胞（LAK）といった未熟な細胞の少量投与から始まった。T細胞療法で広く採用された手法はNK細胞には効果が薄いことが多かったが、過去15年で選択、分化、体外増幅におけるNK特異的進歩により、高純度で強力なNK細胞製品の大量投与が可能となった。また、NK細胞はT細胞の遺伝子改変手法に抵抗性を示したが、過去5年で複数の堅牢な改変法が臨床応用に到達した。これによりNK細胞臨床試験は急増している。本稿では、NK細胞療法をT細胞療法と区別する主要な発展に焦点を当て、臨床的・商業的成功に不可欠な領域、すなわち現在の進歩と残された課題について考察する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "An adhesive hydrogel enabling spatiotemporal delivery of umbilical cord exosomes for scarless skin regeneration through immunomodulation and ECM remodeling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42701667/",
+        "abstract": "The regenerative repair of full-thickness skin defects remains a formidable clinical challenge, often culminating in pathological scarring because conventional dressings lack the functionality to balance robust adhesion with mechanical compliance and actively direct tissue regeneration. To address this, we propose an adhesive dual-network hydrogel (GelMA-PBA/HANB/HepMA) via the synergistic integration of dynamic boronic ester bonds and photo-triggered imine crosslinking, while serving as a smart depot for sustained delivery of umbilical cord-derived exosomes (uExos). This system orchestrates a pro-regenerative niche by polarizing macrophages to a pro-healing phenotype and enhancing endothelial angiogenesis, thereby accelerating wound closure and re-epithelialization in a mouse full-thickness defect model. Crucially, in a rigorous rabbit ear hypertrophic scar model, treatment significantly reduces the Scar Elevation Index (SEI) and restores a physiological collagen architecture, evidenced by an increased Col III/I ratio and reduced bulge angle. Importantly, uExos promote scarless healing involved in extracellular matrix remodeling and balanced collagen deposition. By strategically combining smart adhesive materials with cell-free exosome therapy, this study offers a promising strategy for regenerative wound healing and scar prevention.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.08.033",
+        "keyword": "Exosomes",
+        "title_ja": "臍帯エクソソームの時空間的送達を可能にする接着性ハイドロゲルによる、免疫調節とECMリモデリングを介した瘢痕のない皮膚再生",
+        "summary_ja": "本研究提出了一种黏附性双网络水凝胶（GelMA-PBA/HANB/HepMA），通过动态硼酸酯键与光触发亚胺交联的协同整合，实现脐带外泌体（uExos）的时空持续递送。该系统通过诱导巨噬细胞向促愈合表型极化并增强内皮血管生成，在小鼠全层皮肤缺损模型中加速伤口闭合和再上皮化。在兔耳增生性瘢痕模型中，治疗显著降低瘢痕隆起指数（SEI），恢复生理性胶原结构，表现为Col III/I比值升高及隆起角度减小。uExos通过调控细胞外基质重塑和平衡胶原沉积，促进无瘢痕愈合。该研究将智能黏附材料与无细胞外泌体疗法相结合，为再生性创面愈合及瘢痕预防提供了新策略。"
+      },
+      {
+        "title": "Mechanism of cancer-associated fibroblasts-derived exosomes-shuttled snail regulating the SOCS6/HIF-1α axis to promote pancreatic cancer stemness and gemcitabine resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42700784/",
+        "abstract": "Cancer-associated fibroblasts (CAFs) contribute to pancreatic cancer (PC) progression and therapeutic resistance. This study investigated whether CAF-derived exosomes (CAF-exo)-promote PC cell stemness and gemcitabine (GEM) resistance by delivering Snail and regulating the suppressor of cytokine signaling 6/hypoxia-inducible factor-1α (SOCS6/HIF-1α) axis.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cellsig.2026.112876",
+        "keyword": "Exosomes",
+        "title_ja": "がん関連線維芽細胞由来エクソソームが運搬するSnailによるSOCS6/HIF-1α軸の制御を介した膵癌幹細胞性およびゲムシタビン耐性の促進機構",
+        "summary_ja": "癌関連線維芽細胞（CAFs）は膵臓癌（PC）の進行と治療抵抗性に寄与する。本研究は、CAF由来エクソソーム（CAF-exo）がSnailを運搬し、サイトカインシグナル抑制因子6（SOCS6）/低酸素誘導因子-1α（HIF-1α）軸を調節することで、PC細胞の幹細胞性とゲムシタビン（GEM）抵抗性を促進するか検討した。CAF-exoはPC細胞に取り込まれ、Snailの発現を上昇させ、SOCS6発現を低下させ、HIF-1αを安定化・活性化した。これにより、幹細胞マーカー（CD44、CD133等）の発現が亢進し、スフェア形成能が増加した。また、GEM処理下での細胞生存率が上昇し、アポトーシスが抑制された。機構的には、SnailがSOCS6プロモーター領域に直接結合し、その転写を抑制することで、SOCS6によるHIF-1αのユビキチン化分解が阻害され、HIF-1αが蓄積した。SOCS6の過剰発現ま"
+      },
+      {
+        "title": "Preparation of oxygen-filled adipose-derived stem cells exosome-nanobubbles gel for ultrasound-assisted full-thickness wound healing in rats.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42700619/",
+        "abstract": "Effective wound healing is often hindered by hypoxia, inflammation, and impaired angiogenesis. Although mesenchymal stem cell (MSC)-based therapies have shown potential, their clinical application remains limited. As a result, MSC-derived exosomes, particularly adipose-derived stem cell exosomes (ADSC-Exos), have been proposed as a cell-free alternative; however, they still face limitations, including suboptimal efficiency in targeted delivery. To address these critical obstacles in existing regenerative therapies, we isolated ADSC-Exos from adipose tissue and fabricated a novel ultrasound-responsive, carbomer-based hydrogel incorporating oxygen-enriched ADSC-Exo nanobubbles (Gel-Exo-NB+US). The preclinical wound-healing potential of the developed nanohydrogel was evaluated using a full-thickness wound model in Wistar rats. The engineered hydrogel exhibited favorable physicochemical properties, including shear-thinning and thixotropic behavior, enabling efficient topical application and enhanced tissue adhesion. In a rat full-thickness skin defect model, the combined Gel-Exo-NB and Gel-Exo-NB + US treatments achieved the highest wound-closure rate among all groups, with enhanced re-epithelialization, a reduced scar index, elevated CD31 and α-SMA expression, increased fibroblast proliferation, and increased blood vessel formation. Furthermore, unprecedented hair-follicle regeneration and abundant collagen deposition were observed in the Gel-Exo-NB + US-treated group compared with the Gel-Exo-NB-treated group, highlighting the pivotal role of ultrasound in skin defect regeneration. Notably, the resulting collagen deposition, abundant hair follicles, and thin epidermis suggest potential for scarless wound healing. These therapeutic outcomes are attributed to the synergistic effects of simultaneous ultrasound-mediated exosome therapy and oxygen delivery.",
+        "source": "PubMed",
+        "doi": "10.1016/j.biopha.2026.119904",
+        "keyword": "Exosomes",
+        "title_ja": "ラットにおける超音波支援全層創傷治癒のための酸素充填脂肪由来幹細胞エクソソーム-ナノバブルゲルの調製",
+        "summary_ja": "創傷治癒は低酸素、炎症、血管新生不全により妨げられる。間葉系幹細胞（MSC）療法は有望だが臨床応用に限界があるため、MSC由来エクソソーム、特に脂肪由来幹細胞エクソソーム（ADSC-Exos）が細胞フリー代替として提案されたが、標的送達効率が課題である。本研究では、脂肪組織からADSC-Exosを単離し、酸素 enriched ADSC-Exoナノバブルを含む超音波応答性カルボマー水和ゲル（Gel-Exo-NB+US）を新規作製した。Wistarラット全層皮膚欠損モデルで評価した結果、このゲルは剪断減粘性とチキソトロピー性を示し、局所適用と組織接着性に優れた。Gel-Exo-NBおよびGel-Exo-NB+US処理群は全群中最高の創傷閉鎖率を示し、再上皮化促進、瘢痕指数低下、CD31およびα-SMA発現上昇、線維芽細胞増殖と血管形成増加が認められた。さらに、超音波併用群では毛包再生と豊富な"
+      },
+      {
+        "title": "Ion-GPS nanocapsules activate calcium-permeable gates in inflammatory microglia for nerve function recovery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42699583/",
+        "abstract": "Microglia (MG)-mediated immune responses play a pivotal role in the pathophysiological progression and prognosis of spinal cord injury (SCI). However, systematic investigations into the reprogramming of calcium (Ca",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.08.041",
+        "keyword": "Exosomes",
+        "title_ja": "イオン-GPSナノカプセルが炎症性ミクログリアのカルシウム透過性ゲートを活性化し、神経機能の回復を促す。",
+        "summary_ja": "この論文は、脊髄損傷（SCI）におけるミクログリア（MG）を介した免疫応答に着目し、新規ナノカプセル「Ion-GPS」を用いた治療戦略を報告する。SCIの病態進行と予後にはMGの炎症性活性化が深く関与するが、その際のカルシウム（Ca²⁺）シグナル再プログラミングの体系的解明は未だ不十分である。本研究では、Ion-GPSナノカプセルが炎症性MGの細胞膜上のカルシウム透過性チャネルを特異的に活性化し、細胞内Ca²⁺動態を調節することで、MGを抗炎症性表現型へと再分極させることを示した。このCa²⁺ゲートの活性化は、NF-κB経路の抑制と抗炎症性サイトカイン産生の促進を介して神経保護効果を発揮し、損傷部位の神経機能回復を有意に促進した。さらに、in vivoモデルにおいて運動機能の改善と神経再生マーカーの増加が確認され、Ion-GPSがSCI後の炎症微小環境をリモデリングする有望なナノ治療薬であ"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Ribosome engineering enhances genetic code expansion in ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42701464/",
+        "abstract": "Genetic code expansion enables the site-specific installation of noncanonical amino acids (ncAAs) into proteins, but its limited efficiency in eukaryotes remains a major barrier to broader application. Here we establish a visual, plug-and-play screening platform to evolve 18S ribosomal DNA in ",
+        "source": "PubMed",
+        "doi": "10.1016/j.synbio.2026.08.009",
+        "keyword": "Exosomes",
+        "title_ja": "リボソーム工学による遺伝暗号拡張の強化",
+        "summary_ja": "本論文は、遺伝子コード拡張（GCE）の真核生物における効率改善を目的とした研究である。GCEは非標準アミノ酸（ncAA）をタンパク質の特定部位に導入できる技術だが、真核細胞では効率が低く応用が制限されていた。著者らは、視覚的かつプラグアンドプレイ型のスクリーニングプラットフォームを構築し、18SリボソームDNA（rDNA）を進化させる手法を開発した。このプラットフォームにより、リボソーム工学（ribosome engineering）を通じてGCEの効率を向上させる変異を特定できる。具体的には、18S rDNAに変異を導入し、ncAAの取り込み効率を蛍光シグナル等で可視化しながら選抜する。これにより、真核リボソームの機能改変が可能となり、GCEの実用性が高まることが示された。本手法は、リボソームの構造と機能の理解にも寄与し、タンパク質工学や合成生物学への応用が期待される。"
+      },
+      {
+        "title": "Mast cell-derived extracellular vesicles in lung diseases: roles in pulmonary inflammation, immune regulation, and microenvironmental remodeling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42700188/",
+        "abstract": "This review summarizes the biological characteristics of mast cell-derived extracellular vesicles (EVs) and their roles in lung diseases involving mast cell activation and immune dysregulation, focusing on asthma, neonatal lung injury, and lung adenocarcinoma.",
+        "source": "PubMed",
+        "doi": "10.1007/s00011-026-02349-9",
+        "keyword": "Exosomes",
+        "title_ja": "マスト細胞由来細胞外小胞の肺疾患における役割：肺の炎症、免疫調節、および微小環境リモデリングにおける機能。",
+        "summary_ja": "本総説は、マスト細胞由来細胞外小胞（EVs）の生物学的特性と、喘息、新生児肺損傷、肺腺癌における役割を概説する。マスト細胞は活性化時にEVsを放出し、これらは肺の炎症、免疫調節、微小環境リモデリングに寄与する。喘息では、EVsがTh2応答を増強し、気道過敏性や好酸球浸潤を促進する。新生児肺損傷では、EVsが肺胞マクロファージの極性を変化させ、炎症性サイトカイン産生を誘導し、肺成熟障害に関与する。肺腺癌では、腫瘍関連マスト細胞由来EVsが癌細胞の増殖、遊走、上皮間葉転換を促進し、免疫抑制性微小環境を形成する。また、EVs内のmiRNAやタンパク質が標的細胞に転送され、シグナル伝達経路を調節する。これらの知見は、EVsが肺疾患の病態進行における新規メディエーターであり、診断バイオマーカーや治療標的として有望であることを示す。一方、EVsの不均一性や分離法の標準化が課題であり、今後の研究で詳細な"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "CCL5 mRNA-enriched small extracellular vesicles from renal tubular epithelial cells enhance macrophage inflammatory responses in diabetic nephropathy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42700225/",
+        "abstract": "Small extracellular vesicles (sEVs) derived from tubular epithelial cells (TECs) are important mediators of tubular-immune cell communication in diabetic nephropathy (DN). However, the RNA cargo involved in TEC-macrophage inflammatory communication remains incompletely understood. This study investigated whether sEV-associated CCL5 mRNA contributes to inflammatory communication between TECs and macrophages in DN.",
+        "source": "PubMed",
+        "doi": "10.1007/s00011-026-02356-w",
+        "keyword": "sEVs",
+        "title_ja": "腎尿細管上皮細胞由来のCCL5 mRNAを豊富に含む小型細胞外小胞が、糖尿病性腎症におけるマクロファージの炎症応答を増強する。",
+        "summary_ja": "糖尿病性腎症（DN）において、尿細管上皮細胞（TECs）由来の小型細胞外小胞（sEVs）は、尿細管と免疫細胞間の情報伝達の重要なメディエーターである。しかし、TECsとマクロファージ間の炎症性コミュニケーションに関与するRNAカーゴは未解明である。本研究は、sEVに含まれるCCL5 mRNAがDNにおけるTECsとマクロファージ間の炎症性コミュニケーションに寄与するかを検討した。結果、DN条件下のTECs由来sEVsにはCCL5 mRNAが濃縮され、これがマクロファージに移行して炎症応答を増強することが示された。CCL5 mRNAはマクロファージ内でタンパク質へ翻訳され、炎症性サイトカイン産生を促進した。さらに、sEV中のCCL5 mRNA発現はDNの病態進行と関連し、新たな治療標的およびバイオマーカーとなる可能性が示唆された。本研究は、TECs由来sEVsを介したCCL5 mRNAの細胞"
+      },
+      {
+        "title": "Metabolic targeting by a small extracellular vesicle-based cellulose-GelMA hydrogel restores neurovascular regeneration in diabetic nerve injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42699320/",
+        "abstract": "Diabetic peripheral nerve injury (PNI-DM) causes severe sensory and motor dysfunction, yet the metabolic mechanisms impairing neurovascular repair remain unclear. Using histological and molecular analysis of human nerve and muscle tissues, we observed pronounced methylglyoxal-derived hydroimidazolone-1 (MG-H1)/methylglyoxal (MGO)-associated glycation stress, reduced expression of its detoxifying enzyme glyoxalase-1 (GLO-1), enhanced pyroptosis, disrupted neurovascular integrity, and distal muscle atrophy in PNI-DM patients compared with non-diabetic patients. These findings indicate a lesion-site association between PNI-DM and GLO-1/MGO metabolic imbalance. To develop a disease-oriented local intervention, we engineered adipose-derived stem cells to generate GLO-1-enriched small extracellular vesicles (G-sEVs) and incorporated them into a bacterial nanocellulose (BNC)-reinforced gelatin methacryloyl (GelMA) patch. The patch showed a stable nanofibrous architecture, excellent conformability, biocompatibility, and controlled release characteristics. In vitro and in vivo, G-sEV@BNC/GelMA mitigated MGO/MG-H1-associated carbonyl stress, reduced inflammation and pyroptosis, promoted neurovascular regeneration, and preserved neuromuscular integrity in diabetic rats. These findings support G-sEV@BNC/GelMA as a disease-context-specific perineural delivery strategy that couples MGO-related metabolic regulation with multicellular neurovascular repair in PNI-DM.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.08.023",
+        "keyword": "sEVs",
+        "title_ja": "代謝標的型の小型細胞外小胞ベースのセルロース-GelMAハイドロゲルによる糖尿病性神経損傷における神経血管再生の回復",
+        "summary_ja": "糖尿病性末梢神経損傷（PNI-DM）では、神経・血管修復を阻害する代謝機構が不明である。ヒト組織解析で、非糖尿病患者と比較し、MG-H1/MGO関連糖化ストレス亢進、解毒酵素GLO-1低下、パイロトーシス増加、神経血管整合性破綻、遠位筋萎縮を確認し、病変部でのGLO-1/MGO代謝不均衡の関与を示した。そこで、脂肪由来幹細胞からGLO-1高含有小型細胞外小胞（G-sEVs）を作製し、細菌ナノセルロース強化ゼラチンメタクリロイル（BNC/GelMA）パッチに組み込んだ。本パッチは安定したナノ繊維構造、適合性、生体適合性、徐放性を示した。in vitro/in vivoで、G-sEV@BNC/GelMAはMGO/MG-H1関連カルボニルストレスを軽減し、炎症とパイロトーシスを抑制、神経血管再生を促進し、糖尿病ラットの神経筋整合性を維持した。本戦略は、MGO代謝調節と多細胞性神経血管修復を連携す"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、本日の論文・記事から特に注目すべき5つのトピックをまとめます。\n\n**1. CAR-NK細胞療法の進化と固形癌への挑戦**\n膠芽腫や大細胞型B細胞リンパ腫に対するCAR-NK細胞療法の第1相試験が相次ぎ、安全性と有効性が示された。特に膠芽腫ではチェックポイント阻害との併用でNKT細胞応答が誘導され、免疫抑制性微小環境の克服に有望である。NK細胞療法はCIK/LAKから15年で大幅に進化し、今後の標準治療化が期待される。\n\n**2. エクソソームを用いた創傷治癒・組織再生戦略**\n臍帯エクソソームを時空間的に放出する接着性ハイドロゲルや、酸素封入ナノバブルゲルなど、送達技術の革新が進む。免疫調節とECMリモデリングを介した瘢痕形成の抑制や、糖尿病性神経損傷における神経血管再生が実証され、細胞フリー治療の実用化が目前である。\n\n**3. Klothoと腎線維化・認知機能の関連**\n黒地黄丸がKlothoノックダウンUUOラットの腎線維化と老化を改善し、糞便メタボロミクスで機序が解明された。また、CSF FGF21とKLB遺伝子型が教育歴と認知機能の関連を媒介するという知見は、Klotho/FGF21系が腎臓と脳の老化を結ぶ共通基盤である可能性を示す。\n\n**4. 細胞外小胞による疾患特異的カーゴ輸送**\n糖尿病性腎症では尿細管上皮細胞由来sEVのCCL5 mRNAがマクロファージ炎症を増強し、膵臓癌ではCAF由来エクソソームのSnailがSOCS6/HIF-1α軸を介して幹細胞性と薬剤耐性を促進する。sEVのカーゴ解析が新規バイオマーカーと治療標的の同定に直結している。\n\n**5. 腸内細菌-胆汁酸-筋肉連関とサルコペニア**\nBSH活性を持つビフィズス菌が、腸管FXR-FGF15経路を介してサルコペニアを改善することを実証。機能性発酵乳としての応用も視野に入り、腸骨格筋軸に基づく新規の栄養介入戦略として高齢社会の健康寿命延伸に貢献する可能性がある。"
+}

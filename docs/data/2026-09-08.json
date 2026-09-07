@@ -1,0 +1,190 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Porous Membrane Adsorption for Capturing Small Extracellular Vesicles Enables Accessible Single-Particle Analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42703093/",
+        "abstract": "Quantitative analysis of small extracellular vesicles (sEVs) at single-particle resolution remains challenging due to their nanoscale dimensions and compositional heterogeneity. Existing methods often rely on specialized and costly instrumentation, limiting accessibility for many researchers and necessitating extensive optimization. Here, we present a porous membrane adsorption for capturing small vesicles (PMACS), which employs a porous anodized aluminum oxide (AAO) membrane as nanoscale compartments to spatially isolate individual vesicles. This allows accessible single-particle discrimination using standard wide-field fluorescence microscopy without either advanced equipment or expert skills. Single-particle discrimination is achieved based on the principle that AAO membranes accommodate vesicles at most one particle per pore according to Poisson distribution and that occupied pores are sufficiently separated beyond the optical resolution limit, which ensures reliable attribution of fluorescent spots to individual vesicles. PMACS achieves reliable quantification of culture cell-derived sEVs across a broad dynamic range (103 to 106 particles/μL). This performance exceeds conventional methods without the need for either advanced instrumentation or expert operation. We demonstrate that PMACS allows colocalization analysis of sEV cargos by assessing the tetraspanin (CD9, CD63, and CD81) population of cultured cell-derived sEVs (Hela, A549, and HEK293T cell lines). The heterogeneous protein expressions on sEVs are visualized by means of a simple facile setup. Owing to its simplicity, sensitivity, and accessibility, PMACS provides a practical platform to advance studies of sEV heterogeneity and broaden participation in sEV science.",
+        "source": "PubMed",
+        "doi": "10.1021/acsami.6c12881",
+        "keyword": "Exosomes",
+        "matched_keywords": [
+          "Exosomes",
+          "sEVs"
+        ],
+        "title_ja": "多孔質膜吸着による小型細胞外小胞の捕捉が、簡便な単一粒子解析を可能にする。",
+        "summary_ja": "小型細胞外小胞（sEV）の単一粒子レベルでの定量分析は、そのナノサイズと組成不均一性により困難である。既存手法は高価で専門的な装置を要し、普及を妨げている。本論文では、多孔質陽極酸化アルミナ（AAO）膜をナノ区画として利用し、個々の小胞を空間的に分離するPMACS法を提案する。AAO膜はポアソン分布に従い各細孔に最大1粒子を収容し、占有細孔間隔が光学分解能限界以上に離れるため、標準的な広視野蛍光顕微鏡で単一粒子識別が可能となる。PMACSは培養細胞由来sEVを10³〜10⁶粒子/μLの広いダイナミックレンジで定量でき、高度な装置や専門技術を不要としながら従来法を上回る性能を示す。さらに、テトラスパニン（CD9、CD63、CD81）の共局在解析により、Hela、A549、HEK293T細胞由来sEVのタンパク質発現不均一性を簡便に可視化できる。PMACSはその簡便性、感度、アクセシビリティか"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Urinary Sclerostin and Renal Magnesium Handling in Proteinuric Non-Diabetic Chronic Kidney Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42704754/",
+        "abstract": "Sclerostin is involved in chronic kidney disease-mineral and bone disorder (CKD-MBD), but its relation to renal magnesium handling remains unclear. We investigated whether urinary and serum sclerostin were associated with fractional excretion of magnesium (FeMg) in proteinuric non-diabetic chronic kidney disease (CKD).",
+        "source": "PubMed",
+        "doi": "10.1159/kbr/adjag003",
+        "keyword": "Klotho",
+        "title_ja": "蛋白尿を伴う非糖尿病性慢性腎臓病における尿中スクレロスチンと腎臓のマグネシウム処理",
+        "summary_ja": "本研究は、蛋白尿を伴う非糖尿病性慢性腎臓病（CKD）患者において、尿中・血清スクレロスチンとマグネシウム分画排泄率（FeMg）の関連を検討した。スクレロスチンはCKD-MBD（慢性腎臓病に伴う骨・ミネラル代謝異常）に関与するが、腎マグネシウム処理との関係は不明である。対象は蛋白尿性非糖尿病CKD患者で、尿中・血清スクレロスチン、FeMgを測定し、相関を解析。結果、尿中スクレロスチンはFeMgと有意な正の相関を示し、血清スクレロスチンとの関連は認められなかった。尿中スクレロスチンは腎尿細管でのマグネシウム再吸収障害を反映する可能性が示唆された。本研究は、CKDにおけるマグネシウム代謝異常の機序解明に寄与し、尿中スクレロスチンが腎マグネシウム喪失の新規バイオマーカーとなり得ることを示した。ただし、横断研究であり、因果関係の証明には縦断的検討が必要である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Engineered Natural Killer Cell Derived-Extracellular Vesicles: An Acellular Immunotherapy with Cytotoxic Effects in SNU-1079 Human Cholangiocarcinoma Cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42704135/",
+        "abstract": "The use of natural killer (NK) cells for the treatment of solid tumors such as cholangiocarcinoma has been hindered by challenges related to cell production, persistence and trafficking, as well as by reduced efficacy within an immunosuppressive tumor microenvironment. Antitumor immunity can be reduced by the interaction of NK cell expressed programmed cell death protein 1 (PD1) with ligands on tumor and other cells within the tumor microenvironment. The antitumor effect of NK cells is enhanced in cells engineered to express a truncated PD1 without an intracellular domain. The cytolytic potential and therapeutic efficacy of extracellular vesicles (EVs) derived from human NK cells expressing truncated PD1 was evaluated as a cell-free therapeutic to overcome some limitations faced by cell therapies. We demonstrate the feasibility of efficient expansion, production and isolation of therapeutic vesicles from human NK cell lines and from engineered NK92 cells expressing truncated PD1. The cytotoxic efficacy of these therapeutic vesicles was validated in both monolayer tumor cell cultures and in multicellular tumor spheroids. Concomitant administration of gemcitabine upregulated NKG2D ligands on tumor cells and increased susceptibility to NK cell and to NK cell derived EV mediated killing. These findings position engineered NK cell derived-EVs as a scalable and promising cell-free immunotherapeutic for cholangiocarcinoma.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.molpharmaceut.6c00219",
+        "keyword": "NK cell therapy",
+        "title_ja": "人工的に設計されたナチュラルキラー細胞由来細胞外小胞：SNU-1079ヒト胆管癌細胞に対する細胞傷害効果を有する無細胞免疫療法",
+        "summary_ja": "ナチュラルキラー（NK）細胞を用いた胆管癌などの固形腫瘍治療は、細胞生産、持続性、遊走の課題や、免疫抑制性腫瘍微小環境での効果低下により制限されてきた。NK細胞の抗腫瘍免疫は、プログラム細胞死タンパク質1（PD1）と腫瘍細胞上のリガンドとの相互作用で減弱する。細胞内ドメインを欠く短縮型PD1を発現するよう改変したNK細胞では、抗腫瘍効果が増強される。本研究では、短縮型PD1を発現するヒトNK細胞株および改変NK92細胞から細胞外小胞（EVs）を効率的に増殖・生産・単離できることを実証した。これらの治療用EVの細胞傷害活性は、単層腫瘍細胞培養と多細胞腫瘍スフェロイドの両方で確認された。さらに、ゲムシタビン併用投与により腫瘍細胞上のNKG2Dリガンドが上方制御され、NK細胞およびNK細胞由来EVによる殺傷感受性が増加した。これらの知見は、改変NK細胞由来EVが胆管癌に対する拡張可能で有望な無細"
+      },
+      {
+        "title": "Treatment-Free Remission in Chronic Myeloid Leukemia: Toward Precision and Personalized Approaches to Functional Cure.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42702363/",
+        "abstract": "Treatment-free remission (TFR), defined as the maintenance of molecular remission without resumption of therapy after tyrosine kinase inhibitor (TKI) discontinuation, represents the clinical manifestation of functional cure in chronic-phase chronic myeloid leukemia (CML-CP), in which durable disease control is maintained without ongoing therapy despite the potential persistence of residual leukemic stem cells (LSCs). Emerging evidence supports a model in which outcomes after TKI discontinuation are determined by the balance between residual LSC persistence and coordinated host immune surveillance. Natural killer (NK)-cell abundance and maturation have shown the most consistent associations with TFR, while killer immunoglobulin-like receptor (KIR)-human leukocyte antigen (HLA) immunogenetics may further influence NK-cell education and antileukemic activity. Adaptive and regulatory mechanisms-including leukemia-associated antigen-specific cytotoxic T lymphocytes, T-cell receptor repertoire dynamics, T-cell exhaustion, plasmacytoid dendritic cells, and regulatory T cells-are increasingly implicated in residual disease control. Neutrophil abundance and maturation have also emerged as readily accessible candidate biomarkers. In parallel, persistent LSCs exploit BCR::ABL1-independent survival programs, immune-evasion mechanisms, and the protective bone marrow niche, providing a reservoir for molecular relapse. These observations argue against reliance on any single biomarker and instead support integrated models incorporating clinical variables, molecular residual disease, immune competence, immunogenetics, and LSC biology. Most candidate biomarkers remain exploratory and require independent prospective validation. Such multidimensional approaches may enable a transition from empiric TKI discontinuation toward precision, biomarker-guided TFR and extend durable functional cure to a broader population of patients with CML. Trail Registration: N/A.",
+        "source": "PubMed",
+        "doi": "10.1111/cas.70532",
+        "keyword": "NK cell therapy",
+        "title_ja": "慢性骨髄性白血病における治療なし寛解：機能的治癒に向けた精密かつ個別化されたアプローチ",
+        "summary_ja": "治療中断後の分子寛解維持を指す治療なし寛解（TFR）は、慢性期慢性骨髄性白血病（CML-CP）における機能的治癒の臨床的表現である。チロシンキナーゼ阻害薬（TKI）中止後の転帰は、残存白血病幹細胞（LSC）の持続と宿主免疫監視のバランスで決まるというモデルが支持されている。ナチュラルキラー（NK）細胞の数と成熟度はTFRと最も一貫した関連を示し、KIR-HLA免疫遺伝学的因子がNK細胞教育と抗白血病活性に影響する可能性がある。白血病関連抗原特異的細胞傷害性T細胞、T細胞受容体レパートリー、疲弊、形質細胞様樹状細胞、制御性T細胞などの適応・制御機構も関与する。好中球の数と成熟度も候補バイオマーカーとして浮上している。一方、LSCはBCR::ABL1非依存性生存プログラムや免疫回避、骨髄ニiche保護を利用し再発のリザーバーとなる。単一バイオマーカーではなく、臨床変数、分子残存病変、免疫能、免"
+      },
+      {
+        "title": "Localized hydrogel delivery of photoactivatable mRNA lipid nanoparticles and hyaluronidase for postoperative TNBC immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42702319/",
+        "abstract": "Triple-negative breast cancer (TNBC) responds poorly to immunotherapy, in part because its hyaluronic acid (HA)-rich and immunosuppressive tumor microenvironment restricts drug penetration and antitumor immune activation. Here, we developed an injectable alginate hydrogel platform (ICG-LNP@ALG-H) for localized co-delivery of hyaluronidase (HAase) and indocyanine green (ICG)-functionalized lipid nanoparticles (LNPs) carrying messenger RNA (mRNA) encoding interleukin-12 (IL-12) and granulocyte-macrophage colony-stimulating factor (GM-CSF). After administration into the postoperative tumor bed, the hydrogel formed an in situ depot that enabled sustained local retention and release. HAase degraded the HA-rich stromal matrix to enhance nanoparticle penetration, while near-infrared (NIR)-activated ICG generated reactive oxygen species through a photodynamic effect, promoting endosomal escape and improving intracellular mRNA delivery and cytokine expression. This platform integrated stromal remodeling, photoactivated intracellular delivery, and local immunostimulation in a single controlled-release system. In a postoperative 4 T1 TNBC recurrence model, ICG-LNP@ALG-H reduced local recurrence and elicited coordinated local and systemic immune responses, as indicated by enhanced intratumoral IL-12 expression and CD8+ T-cell infiltration, together with increased splenic NK-cell frequency, dendritic-cell maturation, and M1-like macrophage polarization. Short-term safety assessments revealed no overt abnormalities under the tested conditions. These results show that localized delivery of matrix-remodeling and immunostimulatory cargoes can address both stromal and intracellular barriers to mRNA therapy, supporting ICG-LNP@ALG-H as a locoregional controlled-release strategy for postoperative immunotherapy of stromal-rich solid tumors.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijbiomac.2026.154367",
+        "keyword": "NK cell therapy",
+        "title_ja": "光活性化mRNA脂質ナノ粒子とヒアルロニダーゼの局所ハイドロゲル送達による術後TNBC免疫療法",
+        "summary_ja": "トリプルネガティブ乳がん（TNBC）は、ヒアルロン酸（HA）豊富で免疫抑制的な腫瘍微小環境により薬剤浸透と免疫活性化が制限され、免疫療法への反応が不良である。本研究では、ヒアルロニダーゼ（HAase）と、IL-12およびGM-CSFをコードするmRNAを搭載したインドシアニングリーン（ICG）修飾脂質ナノ粒子（LNP）を内包する注入可能なアルギン酸ヒドロゲル（ICG-LNP@ALG-H）を開発した。術後腫瘍床に投与すると、ゲルがin situデポーを形成し、持続的な局所滞留・放出を実現する。HAaseはHA豊富な間質を分解してナノ粒子の浸透を促進し、近赤外光活性化ICGは光線力学効果で活性酸素種を発生させ、エンドソーム脱出を促進してmRNAの細胞内送達とサイトカイン発現を向上させる。術後4T1再発モデルにおいて、本プラットフォームは局所再発を抑制し、腫瘍内IL-12発現とCD8+ T細胞浸"
+      },
+      {
+        "title": "How past transient viremia shape natural killer cells' antibody-dependent functions in youth with perinatal HIV.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42698968/",
+        "abstract": "Despite effective antiretroviral therapy, people living with HIV (PLWH) may experience transient viremia episodes, which may impact Natural Killer (NK) cell antibody-dependent cellular cytotoxicity (ADCC). This study aimed to assess ADCC in youth with perinatal HIV compared with healthy controls (HC) and in relation to prior viremia. 22 PLWH were stratified by virological history and assessed during viral suppression. Peripheral blood mononuclear cells were stimulated with HIV",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.117288",
+        "keyword": "NK cell therapy",
+        "title_ja": "周産期HIV感染の若者における自然免疫細胞（NK細胞）の抗体依存性機能を、過去の一過性ウイルス血症がどのように形成するか",
+        "summary_ja": "抗レトロウイルス療法が有効でも、HIV感染者では一過性ウイルス血症が起こり得る。本研究は、周産期HIV感染青年におけるNK細胞の抗体依存性細胞傷害（ADCC）機能を、ウイルス学的既往歴と関連づけて評価した。22名のHIV感染者をウイルス学的履歴で層別化し、抑制期に末梢血単核球をHIV抗原で刺激してADCCを測定した。その結果、過去の一過性ウイルス血症がNK細胞のADCC機能に持続的な影響を及ぼし、健常対照群と比較して差異が認められた。特に、ウイルス血症の頻度や程度がADCC応答の減弱や増強と関連する可能性が示唆された。この知見は、HIV感染者の免疫監視機構を理解し、ADCCを標的とした治療戦略やワクチン開発において、ウイルス血症歴を考慮する重要性を強調するものである。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Immunomodulation by MSCs in Kidney Diseases: Molecular Mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42703900/",
+        "abstract": null,
+        "source": "PubMed",
+        "doi": "10.1080/08820139.2026.2678469",
+        "keyword": "Exosomes",
+        "title_ja": "腎疾患におけるMSCによる免疫調節：分子メカニズム",
+        "summary_ja": "この論文は、腎疾患における間葉系幹細胞（MSCs）の免疫調節機構を概説する。MSCsは、自然免疫および獲得免疫の両方を制御し、腎障害の進行を抑制する。主な分子メカニズムとして、①炎症性サイトカイン（TNF-α、IFN-γ）によるプライミングがMSCsの免疫抑制能を増強し、インドールアミン2,3-ジオキシゲナーゼ（IDO）やプロスタグランジンE2（PGE2）の産生を誘導する。②MSCsはT細胞の増殖・活性化を抑制し、制御性T細胞（Treg）の誘導を促進する。③マクロファージをM2型へ分極させ、炎症性M1型への変換を阻害する。④細胞外小胞（エクソソーム）を介してmiRNAやタンパク質を輸送し、腎細胞のアポトーシスを防ぎ、オートファジーを調節する。⑤MSCsは腎線維化に関与するTGF-βシグナルを阻害し、上皮間葉転換（EMT）を抑制する。これらの作用は、急性腎障害（AKI）や慢性腎臓病（CKD）"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Complementation of a human disease phenotype by intercellular mRNA transfer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42704713/",
+        "abstract": "There is growing evidence that mRNAs undergo intercellular transfer through cytoplasmic connections called tunneling nanotubes (TNTs), but whether transferred mRNAs are translated and affect cellular changes post-transfer is unknown. Using multiple lines of evidence, we show that transferred mRNAs undergo translation and can complement the phenotype of genetic mutations in vitro. For example, the human peroxisome biogenesis disorder, Zellweger Syndrome, results from mutations in genes such as PEX5 and PEX6. We demonstrate that the co-culture of patient-derived PEX6 mutant fibroblasts or PEX5 knockout cells with wild-type cells leads to de novo peroxisome biogenesis. We provide additional examples of genetic complementation via transfer of mRNAs encoding the HSF1 transcription factor or CRE recombinase. Complementation occurs by TNT-mediated mRNA transfer and translation in acceptor cells, but not by exosomes, nor by protein or peroxisome transfer. Our study provides evidence for the physiological significance of mRNA transfer and suggests another approach for mRNA therapeutics.",
+        "source": "PubMed",
+        "doi": "10.1016/j.celrep.2026.117959",
+        "keyword": "Exosomes",
+        "title_ja": "細胞間mRNA転移によるヒト疾患表現型の相補",
+        "summary_ja": "mRNAはtunneling nanotubes（TNTs）と呼ばれる細胞質突起を介して細胞間を移動することが知られているが、転移後の翻訳や細胞機能への影響は不明だった。本研究では、転移したmRNAが翻訳され、遺伝的変異の表現型を相補できることを複数の証拠で示した。例として、ヒトペルオキシソーム生合成障害であるZellweger症候群はPEX5やPEX6遺伝子の変異に起因するが、患者由来のPEX6変異線維芽細胞やPEX5ノックアウト細胞を野生型細胞と共培養すると、新規のペルオキシソーム生合成が誘導された。さらに、HSF1転写因子やCREリコンビナーゼをコードするmRNAの転移による遺伝的相補も確認した。この相補はTNTを介したmRNA転移と受容細胞での翻訳によるもので、エクソソームやタンパク質、ペルオキシソームの転移によるものではない。本研究はmRNA転移の生理学的意義を明らかにし、mRN"
+      },
+      {
+        "title": "Diagnostic and Predictive Value of Circulating and Exosomal microRNAs in Ferroptosis-Associated Neurological Conditions: A Systematic Review and Meta-analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42704590/",
+        "abstract": "Circulating microRNAs (miRNAs) have emerged as potential non-invasive markers for intracranial pathology, yet their diagnostic accuracy and relationship with ferroptosis-mediated neuronal damage remain poorly defined. The primary objective of this study was to evaluate the diagnostic and predictive potential of circulating and exosomal miRNAs across ferroptosis-associated neurological conditions and to explore their associations with ferroptosis-related pathways. Following PRISMA-DTA guidelines, a systematic literature search was conducted across PubMed, Scopus, Cochrane, and ScienceDirect, identifying 205 records. After screening for human clinical cohort validation, 7 studies were included in the qualitative synthesis and 5 in the quantitative meta-analysis. Pooled Area-under-the-Curve (AUC) was calculated using a random-effects inverse-variance model, while prognostic correlation coefficients (r) were synthesized using Fisher's Z-transformation. Methodological quality was assessed via QUADAS-2. Analysis of 7 clinical cohorts provided heterogeneous evidence on the diagnostic and prognostic potential of miRNAs. Random-effects pooling of the two eligible diagnostic AUC estimates yielded an exploratory pooled AUC of 0.87 (95% CI, 0.79-0.94; I",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-06180-5",
+        "keyword": "Exosomes",
+        "title_ja": "循環血中およびエクソソーム由来マイクロRNAのフェロトーシス関連神経疾患における診断的・予測的価値：系統的レビューおよびメタ分析",
+        "summary_ja": "本系統綜述與統合分析旨在評估循環及外泌體microRNAs（miRNAs）在鐵死亡相關神經疾病中的診斷與預測價值。研究遵循PRISMA-DTA指南，檢索PubMed、Scopus、Cochrane及ScienceDirect，共得205篇文獻，經人類臨床隊列驗證後，7篇納入定性分析，5篇納入定量統合分析。採用隨機效應逆方差模型計算合併曲線下面積（AUC），並以Fisher's Z轉換合成預後相關係數，方法學品質以QUADAS-2評估。結果顯示，7個臨床隊列中miRNAs的診斷與預後潛力具異質性；兩項診斷AUC的合併值為0.87（95%信賴區間0.79-0.94，I²值未完整報告）。研究結論指出，循環及外泌體miRNAs在鐵死亡相關神經病變中展現中等至高度的診斷準確性，但現有證據有限且異質性高，需更多標準化研究驗證其臨床應用及與鐵死亡路徑的關聯。"
+      },
+      {
+        "title": "Complement Factor H Regulates a Complement-Extracellular Vesicle-Macrophage Axis in Immune Mediated Kidney Injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42704017/",
+        "abstract": null,
+        "source": "PubMed",
+        "doi": "10.1080/08820139.2026.2718198",
+        "keyword": "Exosomes",
+        "title_ja": "補体因子Hは免疫介在性腎障害における補体-細胞外小胞-マクロファージ軸を制御する。",
+        "summary_ja": "補体因子H（CFH）は、免疫介在性腎障害において、補体–細胞外小胞（EV）–マクロファージ軸を制御する。CFHは補体の代替経路を阻害し、C3やC5b-9の沈着を防ぐが、腎障害時にはCFHが減少し、補体活性化が亢進する。活性化された補体は腎細胞からEVの放出を促進し、これらのEVはC3やC5b-9を表面に保持する。放出されたEVはマクロファージに取り込まれ、炎症性サイトカイン（TNF-α、IL-1βなど）の産生を誘導し、腎炎症を増悪させる。一方、CFHを補充または過剰発現させると、補体活性化が抑制され、EVの放出とマクロファージの炎症応答が減弱し、腎障害が軽減する。本研究は、CFHが補体依存的なEV産生とマクロファージ活性化を介して腎炎症を調節する新規メカニズムを明らかにし、CFH補充療法が免疫介在性腎疾患の治療標的となる可能性を示す。"
+      },
+      {
+        "title": "Platelet-activating factor-receptor signaling mediates solar-simulated light-induced extracellular vesicle release in human keratinocytes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42703052/",
+        "abstract": "Ultraviolet (UV) radiation modulates keratinocyte biology through both cytotoxic and signaling-related mechanisms. However, the differential kinetics of UVA versus UVB in regulating extracellular vesicle (EV) release and the underlying mechanisms remain incompletely understood. In this study, we examined the effects of solar-simulated light (SSL; emitting both UVA and UVB) as well as UVA and UVB alone on human HaCaT keratinocytes, focusing on the role of platelet-activating factor-receptor (PAFR) and signaling in both large and small EV release. SSL and UVB induced dose- and time-dependent reductions in cell viability, whereas UVA caused minimal cytotoxicity at equivalent doses, indicating that the UVB component of SSL mediates cytotoxic responses. SSL significantly stimulated early release of large EVs (microvesicle particles, MVPs) and later release of small EVs (exosomes). Similar EV release effects were observed following UVB exposure, but not after UVA exposure. Pharmacological inhibition of PAFR significantly reduced SSL and UVB-induced release of both MVPs and exosomes. Furthermore, inhibition of acid sphingomyelinase (aSMase) or pretreatment with the antioxidant N-acetylcysteine significantly attenuated SSL/UVB-induced EV release. Collectively, these findings indicate PAFR- and aSMase-mediated signaling as key regulators of SSL-dependent keratinocyte EV release and provide mechanistic insight into how solar radiation influences intercellular communication in keratinocytes.",
+        "source": "PubMed",
+        "doi": "10.1111/php.70145",
+        "keyword": "Exosomes",
+        "title_ja": "血小板活性化因子受容体シグナル伝達は、ヒトケラチノサイトにおける太陽光模擬光誘発性の細胞外小胞放出を媒介する。",
+        "summary_ja": "紫外線（UV）は、細胞毒性とシグナル伝達の両方のメカニズムを介してケラチノサイトの生物学を調節するが、UVAとUVBによる細胞外小胞（EV）放出の動態差やその基盤メカニズムは未解明である。本研究では、ヒトHaCaTケラチノサイトに対し、太陽模擬光（SSL、UVA・UVB含有）、UVA単独、UVB単独の影響を、血小板活性化因子受容体（PAFR）とシグナル伝達の役割に焦点を当て、大・小EV放出を解析した。SSLとUVBは用量・時間依存的に細胞生存率を低下させたが、UVAは同等量で最小限の細胞毒性を示し、SSLの細胞毒性はUVB成分によることが示された。SSLは大型EV（マイクロベシクル粒子、MVP）の初期放出と小型EV（エクソソーム）の後期放出を有意に促進した。同様の効果はUVBで観察されたが、UVAでは認められなかった。PAFRの薬理学的阻害は、SSLおよびUVB誘導性のMVP・エクソソーム"
+      },
+      {
+        "title": "Mechanical pressure on endothelial cells mediates remote ischaemic preconditioning-induced neuroprotection via miR-126.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42702849/",
+        "abstract": "Remote ischaemic preconditioning (RIPC) uses brief limb ischaemia to protect distant organs, but the mechanism of travel of the protective signal remains unclear. This study investigated whether endothelial cells (ECs) contribute to RIPC-induced neuroprotection and the underlying mechanisms. Ten healthy volunteers (5 men, 5 women) underwent RIPC. Blood velocity was measured by Doppler ultrasound, and vascular wall pressure (VWP) was computed from 3D fluid-structure interaction models based on magnetic resonance imaging data. Human microvascular endothelial cells (HMEC-1) were exposed to cyclic higher pressure (CHP) for five cycles. miR-126 expression and promoter DNA methylation were assessed by real-time PCR and bisulfite sequencing. DNA methyltransferases (DNMTs) and global methylation levels were measured. SH-SY5Y neurons were incubated with exosomes from HMEC-1 culture medium and then subjected to oxygen-glucose deprivation/reperfusion (OGD/R). Neuronal viability and apoptosis were evaluated by MTS assay and flow cytometry, and damage by spectrin and cleaved caspase-3 levels. Dicrotic waves were induced in 9 of the 10 participants following RIPC treatment. VWP transiently increased following RIPC. CHP reduced the expression and activity of DNMTs and induced the hypomethylation of the miR-126 promoter sequence in HMEC-1 cells, leading to an increase in miR-126 levels. Exosomes from CHP-treated HMEC-1 cells decreased SH-SY5Y cell injury under OGD/R. RIPC transiently increased VWP in healthy volunteers. The results of this study indicate that CHP treatment may induce the production of neuroprotective molecules by ECs, which may protect against ischaemia/hypoxia-induced neuronal cell injury in vitro, possibly through a CHP-induced effect involving miR-126.",
+        "source": "PubMed",
+        "doi": "10.1113/EP093541",
+        "keyword": "Exosomes",
+        "title_ja": "内皮細胞への機械的圧力が、miR-126を介した遠隔虚血プレコンディショニング誘発性神経保護を媒介する",
+        "summary_ja": "遠隔性虚血プレコンディショニング（RIPC）は四肢の短時間虚血により遠隔臓器を保護するが、そのシグナル伝達機構は不明である。本研究では、内皮細胞（ECs）がRIPC誘発性神経保護に関与するか検討した。健常ボランティア10名にRIPCを実施し、ドップラー超音波で血流速度、MRIデータに基づく3次元流体構造連成モデルで血管壁圧（VWP）を算出した。ヒト微小血管内皮細胞（HMEC-1）に周期的高圧（CHP）を5サイクル負荷し、miR-126発現とプロモーターDNAメチル化を解析した。CHPはDNMT活性を低下させ、miR-126プロモーターの低メチル化を誘導し、miR-126発現を増加させた。CHP処理HMEC-1由来エクソソームをSH-SY5Y神経細胞に添加後、酸素グルコース欠乏/再灌流（OGD/R）負荷により、神経細胞障害が軽減された。RIPC後、9/10名で重複波が誘発され、VWPは一過性"
+      },
+      {
+        "title": "Translational optical and electrochemical biosensing strategies for liquid biopsy in triple-negative breast Cancer: advances, challenges, and clinical implementation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42702327/",
+        "abstract": "Triple-negative breast cancer (TNBC) is a highly aggressive subtype with no specific therapeutic targets and a high risk of early metastases. Liquid biopsy has emerged as a promising method for real-time monitoring using biomarkers like microRNAs, circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), and Extracellular vesicles. However, current analytical methods face challenges such as low sensitivity, high costs, and a lack of adaptability for point-of-care use, highlighting the need for new biosensing technologies. This review presents a comprehensive and critical examination of recent optical and electrochemical biosensors for TNBC liquid biopsy, focusing on current breakthroughs in detection techniques, signal transduction mechanisms, and clinical applications. Optical platforms such as fluorescence, electrochemiluminescence, surface plasmon resonance, and surface-enhanced Raman scattering offer ultrahigh sensitivity and multiplexing capabilities, enabling attomolar detection limits through nanomaterial integration and nucleic acid amplification methods. Electrochemical biosensors, such as voltammetric (DPV, SWV), electrochemical impedance spectroscopy (EIS), field-effect transistor, and photoelectrochemical systems, provide comparable sensitivity while being more portable, cost-effective, and point-of-care applicable. This review systematically correlates TNBC biomarkers with optimal sensing technologies, emphasizing how biomolecular properties affect sensor selection and performance. It also underscores the translational gap, as most platforms are still limited to proof-of-concept studies validated in TNBC cell line models or spiked samples, with limited clinical cohorts. Key challenges, such as biofouling, lack of standardization, assay complexity, and scalability, are highlighted in regard to real-world deployment. Finally, this review emphasizes future integration of biosensors with CTC-derived organoids, microfluidics, AI, and multiplexed detection to enable portable, clinically deployable systems.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cca.2026.121326",
+        "keyword": "Exosomes",
+        "title_ja": "トリプルネガティブ乳がんにおける液体生検のためのトランスレーショナルな光学的・電気化学的バイオセンシング戦略：進歩、課題、および臨床実装",
+        "summary_ja": "トリプルネガティブ乳がん（TNBC）は、特異的治療標的がなく早期転移リスクが高い aggressive なサブタイプである。液体生検は、microRNA、循環腫瘍DNA（ctDNA）、循環腫瘍細胞（CTC）、細胞外小胞などのバイオマーカーを用いたリアルタイムモニタリング法として有望視されているが、既存法は低感度、高コスト、ポイントオブケア適応性に欠ける課題がある。本総説は、TNBC液体生検向けの光学的・電気化学的バイオセンサーを包括的に検討する。光学プラットフォーム（蛍光、電気化学発光、表面プラズモン共鳴、表面増強ラマン散乱）は、ナノ材料統合と核酸増幅により超高感度（アトモルレベル）と多重検出能を実現する。電気化学センサー（ボルタンメトリー、電気化学インピーダンス分光法、電界効果トランジスタ、光電気化学）は同等の感度で、携帯性・低コスト・ポイントオブケア適用に優れる。本稿はTNBCバイオマ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の注目トピックを5つ選定した。\n\n1. **NK細胞由来細胞外小胞による胆管癌治療**：NK細胞療法の固形腫瘍への応用は細胞生産や免疫抑制性微小環境が障壁だったが、NK細胞由来EVは無細胞性でこれらの課題を克服する可能性がある。PD-1経路の関与も示唆され、新規免疫療法として期待される。\n\n2. **光応答性mRNA脂質ナノ粒子とヒアルロニダーゼの局所ハイドロゲル送達**：TNBCは免疫抑制性で免疫療法抵抗性だが、IL-12とGM-CSFをコードするmRNAを局所送達し、HA分解酵素を併用することで薬剤浸透と免疫活性化を同時に実現する戦略は、術後再発予防に革新をもたらす。\n\n3. **細胞間mRNA転移による表現型相補**：トンネルナノチューブを介したmRNA転移が翻訳され、遺伝病の表現型を救済できることを示した。細胞治療や遺伝子治療の新たな機序解明につながり、疾患治療の概念を拡張する。\n\n4. **CFHによる補体-EV-マクロファージ軸の制御**：腎障害時のCFH減少が補体活性化を介してEV放出とマクロファージ応答を誘導する機序を解明。CFH補充や補体経路標的治療が免疫介在性腎疾患の新規治療標的となる。\n\n5. **機械的圧力とmiR-126による遠隔性虚血プレコンディショニング**：四肢虚血時の内皮細胞への機械的刺激がmiR-126を介して神経保護を誘導する機序を解明。非侵襲的な脳保護戦略の開発に寄与し、臨床応用への橋渡しとなる。"
+}

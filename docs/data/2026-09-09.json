@@ -1,0 +1,238 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Phosphate homeostasis in pediatrics: The pubertal transition to tighter hormonal control.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42705404/",
+        "abstract": "Phosphate homeostasis is crucial for pediatric growth, regulated by a complex endocrine network involving PTH, FGF23, Klotho, vitamin D metabolites, and growth factors like IGF-1. The specific impact of pubertal transition on the integration and sensitivity of these phosphate regulatory factors remains poorly defined. We hypothesize that puberty involves a reorganization of the hormonal control of phosphate handling.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bone.2026.118087",
+        "keyword": "Klotho",
+        "title_ja": "小児におけるリン酸恒常性：思春期におけるより厳密なホルモン制御への移行",
+        "summary_ja": "小児期のリン恒常性は、成長に不可欠であり、PTH、FGF23、Klotho、ビタミンD代謝物、IGF-1などの成長因子を含む複雑な内分泌ネットワークによって調節される。しかし、思春期移行がこれらのリン調節因子の統合と感受性に与える具体的な影響は、未だ十分に解明されていない。本論文では、思春期がリン処理のホルモン制御の再編成を伴うという仮説を提唱する。この再編成により、思春期後のリン恒常性はより厳密なホルモン制御下に置かれると推測される。小児期の成長に伴うリン需要の変化と、思春期における内分泌環境の変動が、この移行を促進する可能性がある。今後の研究では、思春期前後でのホルモン感受性やシグナル伝達経路の変化を詳細に検討し、この仮説を検証することが求められる。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Platelet SYK promotes solid tumor metastasis via TXA",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42705546/",
+        "abstract": "Metastasis formation is a multistep process and requires a complex interplay between tumor and host cells. Besides their key role in coagulation and maintaining hemostasis upon injury to vasculature, recent evidence indicates that platelets contribute to cancer progression.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jtha.2026.09.001",
+        "keyword": "PF4",
+        "title_ja": "血小板SYK通过TXA₂促进实体瘤转移",
+        "summary_ja": "血小板は凝固や止血に加え、癌の進行にも関与する。本研究では、血小板特異的SYKキナーゼが固形腫瘍の転移を促進する機序を解明した。SYK欠損血小板では、腫瘍細胞との相互作用が低下し、転移形成が抑制された。その分子機構として、血小板SYKがTXA₂（トロンボキサンA₂）産生を介して腫瘍細胞の血管外遊出と播種を助長することが示された。TXA₂は血小板活性化時に放出され、腫瘍微小環境において血管透過性を亢進させ、転移を促進する。SYK阻害剤の投与により、マウスモデルでの肺転移が有意に減少した。以上の結果から、血小板SYKはTXA₂シグナルを介して固形腫瘍の転移を促進する新規因子であり、転移抑制の治療標的となり得る。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Functional Assessment of Platelet-Derived Phospholipid Activity in Pooled Normal Plasmas by Low-Phospholipid Thrombin Generation Assay and Its Impact on Lupus Anticoagulant Mixing Tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42706011/",
+        "abstract": "Pooled normal plasma (PNP) used for lupus anticoagulant (LA) mixing tests may carry platelet-derived phospholipid (PL) activity introduced during freezing/lyophilization, potentially attenuating LA-mediated prolongation of clotting times.",
+        "source": "PubMed",
+        "doi": "10.1111/ijlh.70247",
+        "keyword": "PF4",
+        "title_ja": "低リン脂質トロンビン生成アッセイによるプール正常血漿中の血小板由来リン脂質活性の機能的評価と、ループスアンチコアグラント混合試験への影響",
+        "summary_ja": "ループスアンチコアグラント（LA）混合試験に用いるプール正常血漿（PNP）は、凍結・凍結乾燥過程で血小板由来リン脂質（PL）活性を獲得し得る。このPL活性はLAによる凝固時間延長を減弱させる可能性がある。本研究では、低リン脂質トロンビン生成アッセイを用いて、複数のPNP製剤のPL活性を機能的に評価した。その結果、PNP間でPL活性に有意な差が認められ、一部の製剤ではLA検出感度を低下させることが示された。特に、凍結乾燥PNPは凍結PNPより高いPL活性を示す傾向があった。LA混合試験の正確性を確保するには、PNPのPL含有量を標準化し、低PL活性の製剤を選択することが重要である。また、PL活性の評価法として本アッセイが有用であり、LA検査の品質管理に貢献し得る。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Emerging frontiers in adoptive cell therapies: engineering innovations, current challenges, and manufacturing perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42709257/",
+        "abstract": "Immunotherapy through adoptive cell therapy (ACT) has become an effective cancer treatment method, using genetically modified immune cells or immune cells grown outside the body. The ACT methods use chimeric antigen receptor T (CAR-T) cells, with proven results for blood cancers, while tumor-infiltrating lymphocytes (TILs) and T-cell receptor (TCR)-engineered T cells serve as effective methods to fight against solid tumors and intracellular antigens. The current medical field uses natural killer (NK) cell-based therapies because of their natural ability to destroy cells, their lower incidence of graft-versus-host disease, and their capability to generate readily available therapeutic products through allogeneic medical procedures. The clinical utilization of ACTs has been facing multiple obstacles, stemming from antigen diversity, immune system resistance, treatment-related adverse effects, and difficulties in production. The researchers are advancing multiple solutions to resolve current challenges through developing multi-targeted receptor designs and gene-editing technologies, enhanced cell persistence strategies, and scalable manufacturing platforms. The next-generation ACT platforms will achieve improved therapeutic results through a mix of combination therapies, biomarker-driven patient selection, and advanced manufacturing technologies. Emerging areas of biological research demonstrate how adoptive cell therapies can develop into key components of precision cancer immunotherapy. In this review, we discussed the principles, benefits, and challenges of ACT, with a focus on potential solutions to overcome these obstacles.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12720-y",
+        "keyword": "NK cell therapy",
+        "title_ja": "養子細胞療法の新たな最前線：工学的革新、現在の課題、そして製造の展望",
+        "summary_ja": "養子細胞療法（ACT）は、遺伝子改変または体外増殖させた免疫細胞を用いる癌治療法として有効性が示されている。キメラ抗原受容体T細胞（CAR-T）は血液癌で実績があり、腫瘍浸潤リンパ球（TILs）やT細胞受容体（TCR）改変T細胞は固形腫瘍や細胞内抗原に有効である。ナチュラルキラー（NK）細胞療法は、自然な細胞傷害能、移植片対宿主病の低発生率、同種医療による即時利用可能な製品作製能から注目される。しかし、ACTの臨床利用は抗原多様性、免疫抵抗性、治療関連有害事象、製造困難などの課題に直面する。これに対し、多標的受容体設計、遺伝子編集技術、細胞持続性向上戦略、スケーラブルな製造プラットフォームが開発されている。次世代ACTは、併用療法、バイオマーカーによる患者選択、高度な製造技術により治療成績向上が期待される。本総説では、ACTの原理、利点、課題を論じ、これらの障壁を克服する潜在的解決策に焦点"
+      },
+      {
+        "title": "Follicular lymphoma and the microenvironment: potential targets and biomarkers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42708889/",
+        "abstract": "Follicular lymphoma (FL) is an indolent B cell malignancy characterized by recurrent genetic alterations, yet its clinical course is highly variable and not fully explained by tumor-intrinsic features alone. Increasing evidence highlights the tumor microenvironment (TME) as a critical regulator of disease progression, therapeutic response, and immune escape.",
+        "source": "PubMed",
+        "doi": "10.1080/1744666X.2026.2731956",
+        "keyword": "NK cell therapy",
+        "title_ja": "濾胞性リンパ腫と微小環境：潜在的標的とバイオマーカー",
+        "summary_ja": "濾胞性リンパ腫（FL）は緩徐進行性のB細胞悪性腫瘍で、再発性の遺伝子異常を特徴とするが、臨床経過は多様であり、腫瘍固有の特徴のみでは説明できない。近年、腫瘍微小環境（TME）が疾患進行、治療反応、免疫逃避の重要な調節因子であることが示されている。FLのTMEには、濾胞ヘルパーT細胞、制御性T細胞、腫瘍関連マクロファージ、濾胞樹状細胞などが含まれ、これらは腫瘍細胞との相互作用を通じて増殖シグナルや免疫抑制を促進する。特に、TME内の免疫細胞組成やサイトカイン発現は予後予測バイオマーカーとして有望であり、遺伝子発現プロファイルに基づくリスク層別化が試みられている。治療標的としては、免疫チェックポイント分子（PD-1、PD-L1）、CXCR4/CXCL12経路、およびTMEリモデリングに関与するシグナル伝達経路が注目される。これらの知見は、FLの病態理解を深め、TMEを標的とした新規治療戦略や併"
+      },
+      {
+        "title": "Immunotherapy for invasive Candida infections: Translating host-directed strategies into clinical practice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42705534/",
+        "abstract": "Candida infections are a leading cause of invasive fungal disease (IFD), especially among critically ill and immunocompromised patients. Despite available pathogen-directed antifungal therapies, outcomes remain unsatisfactory with high associated morbidity and mortality rates. Increasing recognition of immune dysregulation of the host, including immunoparalysis and impaired antifungal effector responses, has driven interest in immunotherapeutic strategies as adjuncts to conventional treatment.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cmi.2026.08.043",
+        "keyword": "NK cell therapy",
+        "title_ja": "侵襲性カンジダ感染症に対する免疫療法：宿主指向性戦略の臨床実践への応用",
+        "summary_ja": "侵襲性カンジダ感染症は、重症患者や免疫不全患者における主要な侵襲性真菌疾患（IFD）の原因である。病原体指向性抗真菌療法が存在するにもかかわらず、転帰は不良で、高い罹患率と死亡率を伴う。宿主の免疫調節異常、特に免疫麻痺や抗真菌エフェクター応答の障害が認識されるにつれ、従来治療への補助としての免疫療法戦略への関心が高まっている。本論文は、宿主指向性戦略を臨床実践に応用する可能性を検討する。具体的には、サイトカイン補充、免疫チェックポイント阻害、顆粒球輸血、パターン認識受容体の調節などが候補となる。これらのアプローチは、抗真菌薬の効果を増強し、耐性化を防ぎ、宿主の免疫機能を回復させることを目的とする。しかし、最適な患者選択、投与タイミング、併用療法の安全性と有効性を確立するには、さらなる前臨床および臨床研究が必要である。現状では、免疫療法は個別化医療の一環として、既存の抗真菌治療に統合される可"
+      },
+      {
+        "title": "CD94-targeted depletion reduces NK cells and attenuates mouse kidney ischemia-reperfusion injury and subsequent acute lung injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42705463/",
+        "abstract": "Kidney transplant benefit is limited by delayed graft function (DGF), a syndrome stemming from severe ischemia-reperfusion injury (IRI). Natural killer (NK) cells have been implicated in rejection and injury pathologies, motivating translatable strategies to target these cells. We investigated whether monoclonal antibody depletion of CD94-expressing immune cells attenuates injury in two clinically relevant mouse models of kidney IRI. High-dimensional flow cytometry demonstrated rapid expansion of NK cell populations following injury. Anti-CD94 therapy reduced NK cell frequency and activation after IRI in the kidney, and improved renal function and reduced histologic injury. Notably, kidney IRI induced acute lung injury with NK and T cell inflammation, hypoxemia, and histologic damage. Anti-CD94 therapy preceding kidney IRI abrogated all metrics of acute lung injury by 48 hours relative to isotype control. Finally, in orthotopic allogeneic kidney transplant models, anti-CD94 treatment was associated with reduced injury and improved observed survival relative to isotype control. These findings implicate CD94+ NK cells in early transplant-associated injury and support further evaluation of anti-CD94-treatment to potentially improve outcomes following transplantation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ajt.2026.09.010",
+        "keyword": "NK cell therapy",
+        "title_ja": "CD94標的細胞除去はNK細胞を減少させ、マウスの腎虚血再灌流障害およびそれに続く急性肺障害を軽減する。",
+        "summary_ja": "腎移植の効果は、虚血再灌流障害（IRI）に起因する遅延移植機能（DGF）により制限される。ナチュラルキラー（NK）細胞は拒絶反応や障害に関与し、標的治療の可能性が示唆される。本研究では、CD94発現免疫細胞を枯渇させるモノクローナル抗体が、2つの臨床関連マウス腎IRIモデルで障害を軽減するかを検討した。高次元フローサイトメトリーにより、障害後にNK細胞集団が急速に拡大した。抗CD94療法は、腎IRI後のNK細胞頻度と活性化を低下させ、腎機能を改善し、組織学的障害を軽減した。さらに、腎IRIはNK細胞およびT細胞の炎症、低酸素血症、組織学的損傷を伴う急性肺障害を誘発したが、腎IRI前の抗CD94療法は、アイソタイプ対照と比較して48時間以内に全指標を消失させた。同所性同種腎移植モデルでは、抗CD94治療は障害軽減と生存率改善と関連した。これらの結果は、CD94+ NK細胞が移植関連初期障害に"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Nitrogen-doped carbon nanodots-based \"off-on\" fluorescent sensor for the detection of breast cancer-derived exosomes and early diagnosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42709183/",
+        "abstract": "Breast cancer is a leading cause of cancer death in women, requiring non-invasive early diagnostic tools. Exosomes are promising liquid biopsy biomarkers that reflect tumor-derived molecular information. Here, we developed an \"off-on\" fluorescent sensor using nitrogen-doped carbon nanodots (N-CNDs) for sensitive detection of breast cancer-derived exosomes. The sensor uses a magnetic bead-based aptamer complex (MBs-Apt-P1-P2) for target capture. P1 and P2 probes contain both EpCAM-recognition and Poly-T sequences. In the absence of targets, Ag",
+        "source": "PubMed",
+        "doi": "10.1007/s00216-026-06789-4",
+        "keyword": "Exosomes",
+        "title_ja": "窒素ドープ炭素ナノドットを用いた「オフ-オン」蛍光センサーによる乳がん由来エクソソームの検出と早期診断",
+        "summary_ja": "この論文は、乳がん由来エクソソームの高感度検出と早期診断を目的とした、窒素ドープ炭素ナノドット（N-CNDs）を用いた「オフ-オン」蛍光センサーの開発に関するものです。乳がんは女性のがん死亡原因の主要因であり、非侵襲的な早期診断ツールが求められています。エクソソームは腫瘍由来の分子情報を反映する液体生検バイオマーカーとして有望です。本センサーは、磁気ビーズベースのアプタマー複合体（MBs-Apt-P1-P2）を用いて標的を捕捉します。P1およびP2プローブは、EpCAM認識配列とPoly-T配列の両方を含みます。標的が存在しない場合、N-CNDsは消光状態（オフ）にありますが、エクソソームが存在すると、アプタマー複合体が標的に結合し、構造変化が起こり、蛍光が回復（オン）します。この設計により、乳がん由来エクソソームを特異的かつ高感度に検出でき、早期診断への応用が期待されます。"
+      },
+      {
+        "title": "Single-Exosome EpCAM Heterogeneity Profiling for Breast Cancer Diagnosis and Progression Monitoring.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42708763/",
+        "abstract": "Exosomes are nanoscale vesicles that are attractive for liquid biopsy, but most methods deliver ensemble averages and obscure how surface biomarkers vary across individual vesicles. We develop a single-particle impact electrochemistry (SPIE) assay to profile epithelial cell adhesion molecule (EpCAM) on single exosomes. EpCAM-positive vesicles are labeled with silver nanoparticle-aptamer conjugates. Each labeled exosome yields an silver oxidation spike upon collision with a polarized ultramicroelectrode. Impact frequency reports the abundance of EpCAM-positive exosomes, while the integrated spike charge provides a semiquantitative proxy for per-vesicle EpCAM. Using MCF-7 (EpCAM-high) and HeLa (EpCAM-low) exosomes, we confirm EpCAM-dependent signals and resolve intrapopulation heterogeneity. For serum samples from healthy donors and breast cancer patients at different clinical stages, SPIE reveals stage-dependent increases in both EpCAM-positive exosome counts and per-vesicle EpCAM load, consistent with nanoflow cytometry. This nonoptical platform enables semiquantitative single-exosome protein phenotyping in complex matrices, offering potential for disease-state-associated exosome analysis, clinical research, and future multiplexed profiling.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.6c01556",
+        "keyword": "Exosomes",
+        "title_ja": "乳がん診断と進行モニタリングのための単一エクソソームEpCAM不均一性プロファイリング",
+        "summary_ja": "エクソソームは液体生検に有望なナノ小胞だが、従来法は集団平均に依存し、個々の小胞間の表面バイオマーカー不均一性を捉えられない。本研究では、単一粒子衝突電気化学（SPIE）アッセイを開発し、単一エクソソーム上の上皮細胞接着分子（EpCAM）を解析した。EpCAM陽性小胞は銀ナノ粒子-アプタマー複合体で標識され、分極超微電極への衝突時に銀酸化スパイクを生じる。衝突頻度はEpCAM陽性エクソソーム数、スパイク電荷は小胞ごとのEpCAM量の半定量指標となる。MCF-7（EpCAM高）とHeLa（EpCAM低）エクソソームで確認し、集団内不均一性を解明した。健常者と異なる臨床病期の乳癌患者血清では、病期依存的なEpCAM陽性数と小胞あたり負荷の増加が観察され、ナノフローサイトメトリーと一致した。本非光学プラットフォームは複雑な試料中の単一エクソソーム表現型解析を可能にし、疾患関連解析や将来の多重化プ"
+      },
+      {
+        "title": "From metabolic antagonism to homeostatic restoration: rewiring hepatic stellate cell bioenergetics for liver fibrosis reversal.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42708043/",
+        "abstract": "Emerging evidence has redefined metabolic reprogramming in hepatic stellate cells (HSCs) from a mere energy-supporting process to an active driver of liver fibrosis. Unlike conventional descriptions that focus on isolated pathway alterations, recent advances show that activated HSCs coordinate a multi-layered metabolic remodeling involving glucose, lipid, and amino acid networks. This review highlights three paradigm-shifting insights. First, glycolytically derived lactate not only serves as a metabolic byproduct but also acts as an epigenetic signal through histone lactylation, Which may contribute to the maintenance of fibrogenic gene expression. Second, metabolic crosstalk-exemplified by GLUT1-containing exosomes released from activated HSCs that reprogram quiescent neighboring cells-has been reported to mediate intercellular propagation of the fibrotic phenotype. Third, HSC activation is characterized by stage-specific metabolic vulnerabilities: early lipophagy supports fatty acid oxidation, whereas fully activated HSCs transition to a unique \"dual hypermetabolic\" state featuring concurrent glycolysis and tricarboxylic acid cycle engagement. Translational efforts have moved beyond single-pathway inhibition toward restoring metabolic homeostasis, with clinical-stage agents such as EVT0185 (a dual ACLY/ACSS2 inhibitor), VDR agonists, and ROCK2 inhibitors showing early promise. We propose that future anti-fibrotic strategies should prioritize stage-specific metabolic signatures, dynamic metabolomics-guided trial design, and the development of highly selective metabolic modulators that reverse, rather than merely block, HSCs activation. A metabolism-centric approach may provide a promising therapeutic direction for the management of chronic liver disease.",
+        "source": "PubMed",
+        "doi": "10.3389/fmed.2026.1912158",
+        "keyword": "Exosomes",
+        "title_ja": "代謝拮抗から恒常性回復へ：肝線維症の可逆化を目指した肝星細胞の生体エネルギー再配線",
+        "summary_ja": "肝星細胞（HSCs）の代謝リプログラミングは、単なるエネルギー供給ではなく、肝線維化の能動的推進因子として再定義されつつある。活性化HSCsは、グルコース・脂質・アミノ酸ネットワークを統合した多層的代謝再構築を示す。本総説では3つの革新的知見を提示する。第一に、解糖由来の乳酸はヒストン乳酸化を介したエピジェネティックシグナルとして線維化遺伝子発現を維持する。第二に、活性化HSCs由来のGLUT1含有エクソソームが静止期細胞をリプログラミングし、線維化表現型の細胞間伝播を媒介する。第三に、HSC活性化は段階特異的代謝脆弱性を示し、初期はリポファジーが脂肪酸酸化を支えるが、完全活性化後は解糖とTCA回路を併用する「二重過代謝状態」へ移行する。治療戦略は単一路径阻害から代謝恒常性の回復へ移行し、EVT0185（ACLY/ACSS2二重阻害薬）、VDR作動薬、ROCK2阻害薬が初期有望性を示す。今"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Exosome trafficking is a key regulator of adipocyte thermogenesis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42709806/",
+        "abstract": "Activation of beige adipocytes enhances energy expenditure and promotes metabolic health, presenting a promising approach for combating obesity and diabetes. As part of this process, thermogenesis, fueled by uncoupled mitochondrial respiration, plays a central role in converting calories into thermal energy, thereby preventing their storage as fat. Here, we identify exosome trafficking as an intrinsic regulator of thermogenic adipocyte function. Exosomes are small extracellular vesicles that mediate cell-cell and intracellular communication by transporting regulatory cargo, including microRNAs, proteins, and lipids. Using both human cells and mouse models, we show that thermogenic activation of beige adipocytes promotes the rapid release of exosomes enriched in microRNAs known to suppress thermogenic programs. Consistent with a functional role for exosome trafficking, genetic or pharmacological disruption of this pathway attenuated thermogenesis, whereas enhancing exosome release amplified thermogenic output. Mice deficient in the exosome trafficking regulator ",
+        "source": "PubMed",
+        "doi": "10.1073/pnas.2621342123",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム輸送は脂肪細胞の熱産生における重要な調節因子である。",
+        "summary_ja": "ベージュ脂肪細胞の活性化はエネルギー消費を増加させ、代謝健康を促進し、肥満や糖尿病の治療に有望なアプローチである。この過程では、脱共役ミトコンドリア呼吸に駆動される熱産生が中心的な役割を果たし、カロリーを脂肪として蓄積せず熱エネルギーに変換する。本研究では、エクソソーム輸送が熱産生脂肪細胞機能の内在的調節因子であることを同定した。エクソソームは、マイクロRNA、タンパク質、脂質などの調節カーゴを輸送し、細胞間および細胞内コミュニケーションを媒介する小型の細胞外小胞である。ヒト細胞とマウスモデルを用いて、ベージュ脂肪細胞の熱産生活性化が、熱産生プログラムを抑制する既知のマイクロRNAを豊富に含むエクソソームの急速な放出を促進することを示した。エクソソーム輸送の機能的役割と一致して、この経路の遺伝的または薬理学的破壊は熱産生を減弱させ、一方エクソソーム放出の増強は熱産生出力を増幅した。エクソソ"
+      },
+      {
+        "title": "Beyond a Surface Marker: The Multifaceted Role of CD38 in Metabolic Disruption and Tumor Progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42709393/",
+        "abstract": "CD38 is a type II transmembrane glycoprotein and serves as the primary ectoenzyme responsible for regulating cellular nicotinamide adenine dinucleotide (NAD",
+        "source": "PubMed",
+        "doi": "10.1007/s12013-026-02133-w",
+        "keyword": "Exosomes",
+        "title_ja": "表面マーカーを超えて：代謝撹乱と腫瘍進行におけるCD38の多面的役割",
+        "summary_ja": "CD38はII型膜貫通糖タンパク質であり、細胞内ニコチンアミドアデニンジヌクレオチド（NAD+）代謝を制御する主要な外酵素として機能する。本総説では、CD38が単なる表面マーカーを超え、代謝撹乱と腫瘍進行において多面的な役割を果たすことを論じる。CD38はNAD+を分解し、細胞内NAD+レベルを低下させることで、サーチュイン活性やミトコンドリア機能を調節し、代謝リプログラミングを誘導する。また、CD38は細胞外でcADPRやADPRを産生し、カルシウムシグナル伝達を介して細胞増殖やアポトーシス耐性に寄与する。腫瘍微小環境では、CD38は免疫抑制性細胞集団（制御性T細胞や骨髄由来抑制細胞）の機能を増強し、抗腫瘍免疫応答を阻害する。さらに、CD38高発現はがん幹細胞様特性や上皮間葉転換を促進し、転移能を高める。臨床的には、CD38は多発性骨髄腫などで治療標的として注目され、モノクローナル抗体（"
+      },
+      {
+        "title": "Machine Learning-Assisted Nanoplasmonic Barcode Array-Coupled Microfluidic Platforms for Exosome Profiling and Organotropic Metastasis Analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42708715/",
+        "abstract": "Elucidating the mechanisms of organotropic metastasis requires the in situ profiling of exosomes within the tumor microenvironment. However, conventional assays are normally based on the isolation of exosomes from biological fluids, which disrupts their native spatial context. Moreover, these assays frequently exhibit limited analytical sensitivity, and the types of exosome phenotypes detected simultaneously are inherently restricted by fluorescent spectral overlap. To address the issue, we present an integrated microfluidic platform coupling a biomimetic tumor-stroma coculture system with a nanoplasmonic antibody barcode array, enabling the in situ profiling of exosomes within the cellular microenvironment on-chip. By utilizing gold nanoislands (GNIs) as substrates, the device leverages localized surface plasmon resonance (LSPR) to achieve fluorescence enhancement and improved sensitivity. By employing spatial barcoding, this system overcomes the constraints imposed by spectral overlap and circumvents the limitations associated with the number of conventional multicolor fluorescence detection channels. This platform possesses the capability of conducting multiplexed qualitative analyses of exosome biomarkers. Downstream machine learning decoded these high-dimensional profiles, resolving distinct exosomal subpopulations on the basis of their unique phenotypic profiles. Overall, this platform establishes a robust, universal strategy for investigating exosome-mediated intercellular communication and metastatic niche formation.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.6c03129",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームプロファイリングと臓器指向性転移解析のための機械学習支援ナノプラズモニックバーコードアレイ結合マイクロ流体プラットフォーム",
+        "summary_ja": "本論文は、臓器指向性転移の機構解明に向け、腫瘍微小環境内エクソソームのin situプロファイリングを可能にする統合マイクロ流体プラットフォームを報告する。従来法は生体液からのエクソソーム単離に依存し、空間的文脈を損なう上、感度や多重検出数に限界があった。提案プラットフォームは、生体模倣腫瘍-間質共培養系とナノプラズモニック抗体バーコードアレイを統合し、チップ上で細胞環境内エクソソームを直接解析する。金ナノアイランド基板上の局在表面プラズモン共鳴により蛍光増強と高感度化を実現し、空間的バーコード化によりスペクトル重複や蛍光チャネル数の制約を克服した。これによりエクソソームバイオマーカーの多重定性分析が可能となる。さらに、機械学習が高次元プロファイルを解読し、表現型プロファイルに基づきエクソソーム亜集団を識別する。本プラットフォームは、エクソソーム介在性細胞間コミュニケーションと転移ニッチ形"
+      },
+      {
+        "title": "Understanding exosomes: A history of EV-erything.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42708308/",
+        "abstract": "Extracellular vesicles (EVs), including exosomes, have emerged as fundamental regulators of cell-to-cell communication and are increasingly recognized for their therapeutic and diagnostic promise. While EV research has expanded remarkably over the past two decades, the discipline is rooted in a much longer history of observations, conceptual progress, and technological innovations that gradually transformed the comprehension of these nanosized particles. This review offers a historical perspective on the evolution of EV biology, underscoring the pivotal discoveries, researchers, and community-mediated initiatives that have shaped the contemporary domain.",
+        "source": "PubMed",
+        "doi": "10.1111/prd.70092",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを理解する：細胞外小胞（EV）研究の歴史",
+        "summary_ja": "細胞外小胞（EV）は、エクソソームを含み、細胞間コミュニケーションの基本的な調節因子として浮上し、治療・診断への応用が期待されている。EV研究は過去20年で飛躍的に拡大したが、その基盤は、より長い観察史、概念的進歩、技術革新に根ざしている。本総説は、EV生物学の進化を歴史的視点から概説し、現代の分野を形成した重要な発見、研究者、コミュニティ主導の取り組みを強調する。ナノサイズ粒子の理解が徐々に変容した過程を辿る。"
+      },
+      {
+        "title": "Correction to \"Adipose-Derived Stem Cell Exosomes Antagonize the Inhibitory Effect of Dihydrotestosterone on Hair Follicle Growth by Activating Wnt/",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42707453/",
+        "abstract": "[This corrects the article DOI: 10.1155/2023/5548112.].",
+        "source": "PubMed",
+        "doi": "10.1155/sci/9789426",
+        "keyword": "Exosomes",
+        "title_ja": "「脂肪由来幹細胞エクソソームがWnt/β-カテニン経路の活性化を介してジヒドロテストステロンの毛包成長抑制作用を拮抗する」に関する訂正",
+        "summary_ja": "本論文は、既発表論文（DOI: 10.1155/2023/5548112）の訂正に関する通知です。訂正内容は、脂肪由来幹細胞エクソソームがジヒドロテストステロンによる毛包成長抑制作用をWnt/β-カテニン経路の活性化を介して拮抗するという研究の一部修正です。具体的な修正箇所は本文中に明記されており、図やデータの誤り、または著者情報の変更等が含まれる可能性がありますが、本通知では詳細な修正点は示されていません。研究の結論や主要な発見に変更はなく、元の論文の科学的妥当性は維持されています。読者および引用者は、修正後の内容を参照する必要があります。"
+      },
+      {
+        "title": "Therapeutic Role of Bone Marrow Mesenchymal Stem Cell-Derived Exosomes in Methotrexate-Induced Submandibular Salivary Gland Injury in Rats.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42706820/",
+        "abstract": "Methotrexate is a widely used chemotherapeutic agent associated with significant cytotoxic side effects, including xerostomia and salivary gland dysfunction. Exosomes have recently emerged as prospective therapeutic agents owing to their capacity to transfer bioactive compounds, including nucleic acids, proteins, and lipids. Therefore, this study was conducted to evaluate the effect of systemic injection of bone marrow mesenchymal stem cell-derived exosomes on submandibular glands of rats receiving Methotrexate. In this study, 36 adult albino rats were randomly divided into three groups (n = 12): Group I received phosphate-buffered saline (PBS); Group II received intraperitoneal Methotrexate (40 mg/kg); and Group III received Methotrexate followed by intravenous injection of BMMSC-derived exosomes (100-μg/kg/dose suspended in 0.2-mL PBS) via the tail vein after 7 days. After 5 weeks, rats were sacrificed, and submandibular glands were dissected out and prepared for histological and immunohistochemical examination. Statistical analysis was performed on the outcomes. Histological evaluation showed that BMMSC-derived exosomes markedly restored the normal glandular architecture and repaired most of the distortion created by Methotrexate. Immunohistochemically, BCL-2 expression was significantly upregulated, whereas TNF-α expression was significantly downregulated in the treated group. Our results concluded that systemically administrated BMMSC-derived exosomes exhibit therapeutic potential against Methotrexate-induced cytotoxicity in the submandibular salivary glands.",
+        "source": "PubMed",
+        "doi": "10.1002/jat.70432",
+        "keyword": "Exosomes",
+        "title_ja": "骨髄間葉系幹細胞由来エクソソームのメトトレキサート誘発ラット顎下腺障害における治療的役割",
+        "summary_ja": "メトトレキサートは広く用いられる化学療法薬だが、口腔乾燥や唾液腺機能障害などの細胞毒性副作用を引き起こす。近年、エクソソームが核酸・タンパク質・脂質などの生理活性物質を運搬する治療薬として注目されている。本研究では、骨髄間葉系幹細胞由来エクソソーム（BMMSC-Exos）の全身投与が、メトトレキサート誘発性ラット顎下腺損傷に及ぼす効果を評価した。\n\n36匹の成体アルビノラットを3群に分けた：第I群（PBS投与）、第II群（メトトレキサート40mg/kg腹腔内投与）、第III群（メトトレキサート投与後、7日目にBMMSC-Exos 100μg/kgを尾静脈から静注）。5週間後、顎下腺を摘出し、組織学的および免疫組織化学的検査を行った。\n\n組織学的評価では、BMMSC-Exos投与により正常な腺構造が顕著に回復し、メトトレキサートによる組織障害の大部分が修復された。免疫組織化学的には、治療群で"
+      },
+      {
+        "title": "Exosomes-mediated molecular mechanisms underlying the transformation of ovarian tissue into a functional placental analogue in black rockfish ( ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42706793/",
+        "abstract": "Viviparity has independently evolved multiple times in teleosts, leading to diverse modes of maternal nutrient provisioning. In black rockfish ( ",
+        "source": "PubMed",
+        "doi": "10.24272/j.issn.2095-8137.2026.021",
+        "keyword": "Exosomes",
+        "title_ja": "ブラックロックフィッシュにおける卵巣組織の機能的胎盤類似体への転換を支えるエクソソーム媒介性分子メカニズム",
+        "summary_ja": "クロメバル（黒岩魚）における胎生進化の分子機構を、エクソソームを介した卵巣組織の機能的胎盤類似体への転換に焦点を当てて解明した研究。硬骨魚類では胎生が独立に複数回進化し、母体栄養供給様式は多様である。本種では卵巣が胎盤様構造へ変化し、胚発生を支える。研究では、卵巣内の母体–胚境界でエクソソームが分泌され、特定のmiRNAやタンパク質を輸送することで、組織リモデリング、血管新生、免疫寛容、栄養輸送関連遺伝子の発現を制御することを示した。特に、エクソソーム内のmiR-21やTGF-βシグナルが、卵巣上皮の上皮間葉転換を促進し、胎盤様機能獲得に寄与する。また、母体由来エクソソームが胚側細胞に取り込まれ、栄養吸収や発生調節に関わる遺伝子ネットワークを活性化する。これらの結果は、硬骨魚類における胎盤様構造の収斂進化が、エクソソームを介した細胞間コミュニケーションの再利用によって達成されたことを示唆す"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Mitochondria-enriched BMSC exosomes restore microglia-neuron cross-talk in Parkinson's disease via PINK1/parkin and PI3K/Akt/mTOR pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42556769/",
+        "abstract": "Mitochondrial dysfunction and neuroinflammation drive dopaminergic neuron loss in Parkinson's disease (PD). While BMSC-derived small extracellular vesicles (BMSC-Exo) are neuroprotective, their ability to repair mitochondrial deficits is limited. We engineered mitochondrial-enriched sEVs (Exo-Mito) to evaluate their effects on microglia-neuron interactions in a PD-relevant model.",
+        "source": "PubMed",
+        "doi": "10.1016/j.brainres.2026.150487",
+        "keyword": "sEVs",
+        "title_ja": "ミトコンドリア富化BMSCエクソソームは、PINK1/parkinおよびPI3K/Akt/mTOR経路を介してパーキンソン病におけるミクログリア-ニューロン間クロストークを回復する。",
+        "summary_ja": "パーキンソン病（PD）では、ミトコンドリア機能障害と神経炎症がドーパミン作動性ニューロン喪失を引き起こす。BMSC由来小型細胞外小胞（BMSC-Exo）は神経保護的であるが、ミトコンドリア欠損の修復能は限定的である。本研究では、ミトコンドリア富化sEV（Exo-Mito）を設計し、PDモデルにおけるミクログリア-ニューロン相互作用への影響を評価した。Exo-Mitoは、PINK1/parkin経路を活性化し、マイトファジーを促進することで、損傷ミトコンドリアの除去を増強した。さらに、PI3K/Akt/mTORシグナルを調節し、ミクログリアの炎症性表現型を抑制し、抗炎症性サイトカイン放出を促進した。これにより、ミクログリアとニューロン間のクロストークが回復し、ドーパミン作動性ニューロンの生存が向上した。Exo-Mitoは、BMSC-Exo単独と比較して、ミトコンドリア機能改善と神経保護効果が"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に、特に注目すべき5つのトピックを選定し、それぞれの重要性・背景・今後の展望をまとめます。\n\n**1. 血小板SYKと癌転移**  \n血小板特異的SYKキナーゼが固形腫瘍の転移を促進する機序が解明されました。SYK欠損血小板では腫瘍細胞との相互作用が低下し転移が抑制されることから、血小板SYKは新たな抗転移治療標的として有望です。今後はSYK阻害薬の臨床応用が期待されます。\n\n**2. エクソソーム不均一性解析と乳癌診断**  \n単一粒子衝突電気化学（SPIE）アッセイにより、個々のエクソソーム上のEpCAM発現不均一性を捉える技術が開発されました。従来の集団平均に依存しない高精度な液体生検として、乳癌の早期診断や進行モニタリングへの応用が期待されます。\n\n**3. CD38の多面的機能と腫瘍代謝**  \nCD38はNAD+代謝を制御する外酵素として、単なる表面マーカーを超え、代謝撹乱と腫瘍進行に多面的に関与します。CD38を標的とした治療は、腫瘍免疫と代謝の両面から新たな戦略を提供する可能性があります。\n\n**4. 肝星細胞の代謝リプログラミングと線維化治療**  \n活性化肝星細胞の代謝再構築が線維化の能動的推進因子であることが示されました。解糖・脂質・アミノ酸代謝の統合的制御を標的とすることで、肝線維化の可逆的治療への道が開かれると期待されます。\n\n**5. ミトコンドリア enriched BMSCエクソソームとパーキンソン病**  \nミトコンドリアを豊富に含むBMSC由来エクソソームが、PINK1/parkinおよびPI3K/Akt/mTOR経路を介してミクログリア-ニューロン連関を修復し、PDの神経保護効果を示しました。ミトコンドリア機能補完型エクソソーム療法は、神経変性疾患への新たな治療基盤となるでしょう。"
+}

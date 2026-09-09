@@ -1,0 +1,185 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [
+      {
+        "title": "Management of Heparin-Induced Thrombocytopenia With Plasmapheresis and IVIG Prior to Heart Transplantation: A Case Report.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42715353/",
+        "abstract": null,
+        "source": "PubMed",
+        "doi": "10.1177/08971900261481574",
+        "keyword": "PF4",
+        "title_ja": "ヘパリン起因性血小板減少症に対する血漿交換とIVIGを用いた心移植前管理：症例報告",
+        "summary_ja": "本症例報告は、ヘパリン起因性血小板減少症（HIT）を有する患者に対し、心臓移植前にプラスマフェレーシスと静注免疫グロブリン（IVIG）を用いた管理を行った内容を述べている。患者はHIT診断後、抗凝固療法の代替としてアルガトロバンを使用したが、移植手術に際し体外循環が必要となるため、HIT関連抗体の除去と血小板活性化抑制が必須であった。術前にプラスマフェレーシスを複数回施行し、続けてIVIGを投与することで、抗PF4/ヘパリン抗体価を低下させ、血小板数の安定化を図った。その結果、心臓移植手術を安全に実施でき、術中・術後を通じて血栓性合併症や出血性合併症を認めなかった。本戦略は、HIT患者における心臓移植の周術期管理として有効であり、特に緊急手術が避けられない場合に考慮すべき選択肢であると結論している。専門用語（HIT、プラスマフェレーシス、IVIG、抗PF4/ヘパリン抗体）を踏まえ、抗体除去"
+      }
+    ],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "LINC01871-Mediated Sensitivity to Cyclin-Dependent Kinase 4/6 Inhibitors in Human Breast Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42714000/",
+        "abstract": "Breast cancer remains the most frequently diagnosed malignancy in women, and resistance to cyclin-dependent kinase 4 and 6 (CDK4/6) inhibitors limits long-term treatment efficacy. This study aimed to identify long non-coding RNAs (lncRNAs) associated with predicted sensitivity to CDK4/6 inhibitors and to investigate their biological functions in breast cancer. Transcriptomic data from The Cancer Genome Atlas (TCGA) and drug sensitivity data from the Genomics of Drug Sensitivity in Cancer 2 (GDSC2) database were integrated, and drug sensitivity was predicted using the oncoPredict algorithm. Candidate lncRNAs were identified through differential expression analysis, weighted gene co-expression network analysis, prognostic analysis, and machine learning. The biological functions of LINC01871 were subsequently evaluated using in vitro and in vivo experiments. Sixty-two lncRNAs associated with predicted sensitivity to ribociclib and palbociclib were identified, and six core lncRNAs were selected. LINC01871 showed the highest discriminatory performance for predicted drug sensitivity. Overexpression of LINC01871 was associated with increased sensitivity of breast cancer cells to ribociclib and palbociclib, inhibition of cell proliferation, promotion of apoptosis, and suppression of nuclear factor kappa B (NF-κB) signaling. Single-cell transcriptomic analysis demonstrated high LINC01871 expression in T cells and natural killer (NK) cells, while transcriptome-based immune infiltration analyses showed that high LINC01871 expression was associated with increased immune infiltration. These findings identify LINC01871 as a candidate biomarker of sensitivity to CDK4/6 inhibitors and demonstrate its tumor-suppressive effects in breast cancer. Further clinical and mechanistic studies are required to validate its predictive value and therapeutic relevance.",
+        "source": "PubMed",
+        "doi": "10.3791/72156",
+        "keyword": "NK cell therapy",
+        "title_ja": "LINC01871を介したヒト乳がんにおけるサイクリン依存性キナーゼ4/6阻害剤への感受性",
+        "summary_ja": "乳がんは女性で最も多い悪性腫瘍であり、CDK4/6阻害薬への耐性が治療効果を制限する。本研究は、CDK4/6阻害薬感受性予測に関連する長鎖非コードRNA（lncRNA）を同定し、その生物学的機能を解明することを目的とした。TCGAのトランスクリプトームデータとGDSC2の薬剤感受性データを統合し、oncoPredictアルゴリズムで薬剤感受性を予測した。差次的発現解析、重み付き遺伝子共発現ネットワーク解析、予後解析、機械学習により候補lncRNAを選出した。リボシクリブとパルボシクリブ感受性に関連する62のlncRNAを同定し、6つのコアlncRNAを選択した。LINC01871は薬剤感受性予測において最も高い判別能を示した。LINC01871の過剰発現は、乳がん細胞のリボシクリブおよびパルボシクリブ感受性を増加させ、細胞増殖を抑制し、アポトーシスを促進し、NF-κBシグナルを抑制した。単"
+      },
+      {
+        "title": "The lifelong transcriptomic landscape of human blood cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42712142/",
+        "abstract": "Single-cell technologies have transformed our view of normal and malignant hematopoiesis, yet a framework linking lifelong homeostatic hematopoiesis to hematological diseases in blood ecosystem remains incomplete. Here, we constructed a high-resolution landscape of the entire hematopoietic system by integrating transcriptomes of ∼1 million cells from 207 healthy samples spanning five developmental stages (fetal, neonatal, childhood, adult, elderly), and identified 96 blood cell clusters, including a VNN2-marked monocyte subset in the fetus and TSHZ2-marked T cell subsets exhibiting distinct age-dependent dynamics. We uncovered a reversal in hematopoietic stem cell/multipotent progenitor (HSC/MPP) stemness around childhood and a postnatal lymphoid bias shift from reduced early B/T lineage potential to enhanced natural killer (NK) cytotoxicity, coordinately orchestrated by intracellular transcription factor activity and intercellular interactions. Projecting 116 pan-malignancy samples (9 hematological malignancies) to our refined blood cell reference, we identified the upregulation of MYC and MHC II signaling as relatively conserved features correlating with poor prognosis, while hematopoiesis-related modules exhibited subtype-specific distributions with divergent clinical implications. Importantly, we developed a prognostic framework incorporating two core signatures shared across hematological malignancies and subtype-specific features. We further revealed an antagonism between inflammatory and cytotoxic programs across malignancies. Together, we established a panoramic landscape of the human hematopoietic system and elaborated its lifelong behaviors, in which a steady-state reference enabled the delineation of pathological hallmarks across hematological malignancies.",
+        "source": "PubMed",
+        "doi": "10.1093/procel/pwag064",
+        "keyword": "NK cell therapy",
+        "title_ja": "ヒト血液細胞の生涯にわたるトランスクリプトーム景観。",
+        "summary_ja": "シングルセル技術は造血の理解を進めたが、生涯にわたる恒常性造血と血液疾患を結ぶ枠組みは未完成だった。本研究では、胎児から高齢者までの5発達段階、207検体、約100万細胞のトランスクリプトームを統合し、高解像度の造血システム全体像を構築した。96の血球クラスターを同定し、胎児特異的VNN2陽性単球や、加齢に伴い変動するTSHZ2陽性T細胞サブセットを発見した。小児期を境にHSC/MPPの幹細胞性が逆転し、出生後は初期B/T系能の低下とNK細胞傷害性の亢進というリンパ系バイアス変化が、転写因子活性と細胞間相互作用により協調制御されることを示した。9種の血液悪性腫瘍を含む116検体を参照に投影し、MYCとMHC IIシグナルの亢進が予後不良に相関する共通特徴である一方、造血関連モジュールはサブタイプ特異的分布を示した。さらに、共通シグネチャーとサブタイプ特異的特徴を組み込んだ予後予測枠組みを開"
+      },
+      {
+        "title": "Allogeneic CD19 CAR-NK cell therapy for a patient with relapsed and refractory lupus nephritis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42711699/",
+        "abstract": "To monitor changes in the clinical course and adverse events following allogeneic CD19 CAR-NK cell therapy in a patient with relapsed/refractory lupus nephritis (LN).",
+        "source": "PubMed",
+        "doi": "10.1186/s13075-026-03892-w",
+        "keyword": "NK cell therapy",
+        "title_ja": "再発・難治性ループス腎炎患者に対する同種異系CD19 CAR-NK細胞療法",
+        "summary_ja": "再発・難治性ループス腎炎（LN）患者に対し、同種異系CD19 CAR-NK細胞療法を実施し、臨床経過と有害事象を観察した。本症例は標準治療抵抗性であり、CAR-NK細胞を単回投与した。投与後、蛋白尿の減少、血清補体値の正常化、抗dsDNA抗体価の低下が認められ、腎機能の改善が示唆された。また、全身性エリテマトーデス（SLE）の活動性指標であるSLEDAIスコアも顕著に低下した。有害事象としては、サイトカイン放出症候群（CRS）や神経毒性は認められず、重篤な感染症や移植片対宿主病（GVHD）も発生しなかった。CAR-NK細胞は体内で一定期間持続し、B細胞の減少を伴わずに自己抗体産生を抑制した。本報告は、再発・難治性LNに対する同種異系CD19 CAR-NK細胞療法の有効性と安全性を示す初期のエビデンスであり、既存のCAR-T細胞療法と比較して、より安全な治療選択肢となる可能性が示唆された。た"
+      },
+      {
+        "title": "Polyaspartamide-Mediated Messenger RNA Delivery Enables Efficient Ex Vivo Engineering of Chimeric Antigen Receptor Natural Killer Cells via Enhanced Cellular Internalization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42684144/",
+        "abstract": "Engineered natural killer (NK) cells expressing chimeric antigen receptor (CAR) represent a promising alternative to CAR T-cell therapy due to their allogeneic potential. However, current CAR NK cell production relies on lentiviral or retroviral transduction to achieve stable CAR expression, requiring complex, multistep, and time-consuming manufacturing processes that limit scalability and timely clinical application. Here, we report a nonviral strategy for rapid ex vivo generation of CAR NK cells using amphiphilic polyaspartamide-based polyplexes for CAR messenger RNA (mRNA) delivery. Polyaspartamide derivatives incorporating diethylenetriamine (DET) and cyclohexylethylamine (CHE) (PAsp[DET/CHE]) enabled efficient mRNA complexation, enhanced cellular uptake, and robust CAR expression in NK cell lines. Mechanistically, increasing the N/P ratio of polyplexes, defined as the molar ratio of DET amino groups to mRNA phosphate group, enhanced cellular internalization, leading to improved transfection efficiency. NK cells engineered with CAR-NKG2D mRNA exhibited potent and selective cytotoxicity against various cancer cell lines, accompanied by elevated expression of cytotoxic mediators and cytokines, while sparing normal fibroblasts. Importantly, systemic administration of engineered NK cells significantly suppressed tumor growth in a subcutaneous colon cancer model. Collectively, this study established a simple, scalable, and safe platform for CAR NK cell manufacturing and provides mechanistic insights into polymer-mediated mRNA delivery in NK cells, offering a promising alternative to conventional viral approaches for cancer immunotherapy.",
+        "source": "PubMed",
+        "doi": "10.1021/acsami.6c07623",
+        "keyword": "NK cell therapy",
+        "title_ja": "ポリアスパルタミドを介したメッセンジャーRNA送達は、細胞内取り込みの向上によりキメラ抗原受容体ナチュラルキラー細胞の効率的なex vivo改変を可能にする。",
+        "summary_ja": "ポリアスパルタミドを基盤とした非ウイルス性mRNA送達により、CAR NK細胞の迅速なex vivo作製が可能となった。従来のレンチウイルス・レトロウイルス形質導入は複雑で時間を要し、スケール化が課題であった。本研究では、ジエチレントリアミン(DET)とシクロヘキシルエチルアミン(CHE)を導入した両親媒性ポリアスパルタミド誘導体(PAsp[DET/CHE])を用い、CAR mRNAを内包するポリプレックスを形成。N/P比(アミノ基/リン酸基比)の増加が細胞内取り込みを促進し、NK細胞株でのトランスフェクション効率とCAR発現を向上させた。CAR-NKG2D mRNAを導入したNK細胞は、多種のがん細胞株に対し選択的かつ強力な細胞傷害活性を示し、サイトカインや細胞傷害性因子の発現上昇を伴ったが、正常線維芽細胞には影響しなかった。さらに、皮下結腸がんモデルへの全身投与で腫瘍増殖を有意に抑制し"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Angiogenic and Osteogenic Strategies for Skeletal Regeneration in Aging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42714684/",
+        "abstract": "Aging disrupts skeletal homeostasis, resulting in impaired fracture healing, increased risk of nonunion, and reduced regenerative capacity. These deficits are associated with dysregulated inflammation, impaired angiogenesis, and reduced osteogenesis, while current treatments remain limited in aged populations. This review examines emerging regenerative approaches that target both vascular and osteogenic dysfunction during skeletal repair.",
+        "source": "PubMed",
+        "doi": "10.1007/s11914-026-00983-0",
+        "keyword": "Exosomes",
+        "title_ja": "老化における骨格再生のための血管新生および骨形成戦略",
+        "summary_ja": "加齢は骨格の恒常性を破綻させ、骨折治癒遅延、偽関節リスク増大、再生能低下を引き起こす。これらの障害は、炎症調節異常、血管新生障害、骨形成能低下と関連するが、現行治療は高齢者での効果が限定的である。本総説は、骨修復過程における血管系と骨形成系の両機能不全を標的とした新興再生医療戦略を検討する。具体的には、血管新生促進因子と骨形成誘導因子の併用、細胞療法、バイオマテリアルによる局所送達系などが挙げられ、加齢に伴う微小環境変化への適応が重要となる。"
+      },
+      {
+        "title": "Extracellular vesicles for next-gen therapeutics and drug delivery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42711596/",
+        "abstract": "Extracellular vesicles (EVs) are membrane-bound, nano-sized particles released by diverse cell types. They serve as key mediators of intercellular communication by transporting a broad repertoire of proteins, lipids, nucleic acids, and metabolites to recipient cells within a protective lipid bilayer. Owing to their natural origin, intrinsic stability, low immunogenicity, and ability to cross biological barriers, EVs are highly attractive candidates for next-generation therapeutics and drug delivery platforms. In this review, we summarize the biology of EVs and highlight the features critical for their application in therapeutic delivery. We trace their multiple origins, ranging from mammalian and plant cells to bacteria, underscoring their ubiquity across biological systems. We then analyze the advantages of EVs as next-generation delivery vehicles. From a practical standpoint, we examine current strategies for EV isolation, purification, characterization, and engineering. Importantly, we showcase several therapeutic applications of EVs for intractable diseases that are refractory to conventional approaches, such as cancer and immune disorders. We also discuss the major challenges on the path to clinical translation, particularly scalable and standardized production, as well as safety and immunogenicity. To fully realize the clinical potential of EV-based therapies, future research should prioritize the development of robust manufacturing protocols and comprehensive safety evaluations.",
+        "source": "PubMed",
+        "doi": "10.1186/s43556-026-00571-9",
+        "keyword": "Exosomes",
+        "title_ja": "細胞外小胞による次世代治療薬と薬物送達",
+        "summary_ja": "細胞外小胞（EV）は、多様な細胞から放出される膜結合性のナノサイズ粒子であり、タンパク質、脂質、核酸、代謝物を脂質二重層内に包み、細胞間コミュニケーションの主要な媒介体として機能する。天然由来、安定性、低免疫原性、生体バリア透過能から、次世代治療・薬物送達プラットフォームとして有望視されている。本総説では、EVの生物学を概説し、治療応用に重要な特性を整理する。EVは哺乳類、植物、細菌など多様な起源を持ち、生物学的に普遍的な存在である。次世代送達担体としての利点を分析し、単離、精製、特性評価、改変の現行戦略を検討する。さらに、癌や免疫疾患など従来治療が困難な疾患への応用例を示す。臨床応用への課題として、スケーラブルで標準化された生産、安全性、免疫原性が挙げられる。EVベース治療の臨床的可能性を最大限引き出すには、堅牢な製造プロトコルと包括的な安全性評価の開発が優先されるべきである。"
+      },
+      {
+        "title": "Exosome-Based Drug Delivery Systems in Colorectal Cancer: Current Evidence and Future Perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42711497/",
+        "abstract": "Colorectal cancer (CRC) is one of the most common malignant neoplasms worldwide, being the third most frequently diagnosed cancer and the second leading cause of death. Due to the high incidence of CRC cases, its biological complexity, and high morbidity and mortality, the development of more effective and less aggressive therapeutic approaches is an urgent need. Extracellular vesicles (EVs), especially EXs, are a very viable alternative as a nanocarrier for anticancer molecules for the treatment of CRC, as EXs are biologically relevant EVs with considerable therapeutic potential. EXs are nanoscale vesicles approximately 30-200 nm in diameter, identical in composition to the membrane of their parent cells, and carry a bioactive cargo of proteins, lipids, nucleic acids, and glycoconjugates. Beyond their physiological functions, EXs are gaining prominence as next-generation drug delivery platforms. Their ability to improve the efficacy of antitumor therapies, potentially reducing adverse effects associated with conventional chemotherapy and radiotherapy, makes them very promising. Furthermore, functionalizing the surface with targeting ligands, such as MUC1 aptamers, AS1411, or iRGD peptides, can further increase its specificity for CRC cells. Advances in drug delivery techniques, including passive incubation, electroporation, and chemical modification, have enabled the incorporation of conventional chemotherapeutic agents such as doxorubicin, 5-fluorouracil, and SN-38, as well as nucleic acid-based therapies, including microRNA and siRNA. Due to the limitations and invasive nature of current treatments for CRC, new studies to obtain innovative and targeted therapeutic strategies are essential to reduce harmful effects. Therefore, exosome-based drug delivery systems represent a promising and clinically relevant avenue for future cancer therapy.",
+        "source": "PubMed",
+        "doi": "10.1208/s12248-026-01301-3",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを基盤とした大腸癌における薬物送達システム：現在のエビデンスと将来の展望",
+        "summary_ja": "大腸癌（CRC）は世界で3番目に多く診断され、死亡原因第2位の悪性腫瘍である。その高い発生率、生物学的複雑性、高い罹患率・死亡率から、より効果的で侵襲性の低い治療法の開発が急務である。細胞外小胞（EV）、特にエクソソーム（EX）は、抗癌分子のナノキャリアとして有望な選択肢である。EXは直径約30〜200nmの小胞で、親細胞の膜と同一の組成を持ち、タンパク質、脂質、核酸、糖複合体を含む生理活性カーゴを運ぶ。次世代薬物送達プラットフォームとして、抗腫瘍療法の効果を高め、従来の化学療法や放射線療法の副作用を軽減できる可能性がある。さらに、MUC1アプタマー、AS1411、iRGDペプチドなどの標的リガンドで表面を機能化することで、CRC細胞への特異性が向上する。受動的インキュベーション、エレクトロポレーション、化学修飾などの技術により、ドキソルビシン、5-フルオロウラシル、SN-38などの従来の"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "From bacterial to microbiome-derived vesicles: genome-informed identity, source qualification, and translational quality for skin-directed cosmetics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42714753/",
+        "abstract": "Bacterial extracellular vesicles (BEVs) are increasingly proposed as materials for skin-directed cosmetics, yet rapid adoption of \"exosome\" terminology has outpaced clarity on their origin, composition, and manufacturing quality. This review argues that the value of BEVs depends on scientific discipline rather than marketing appeal, and that they are promising because they are biologically potent, not because they are intrinsically benign. We retain BEVs as the scientific umbrella term for vesicles released by bacteria and we propose the term microbiome-derived vesicles (MDVs) as the consumer-facing designation for qualified commensal BEVs - a surface term that avoids the difficulty of \"bacterial\" while its definition preserves bacterial provenance. We develop a three-axis framework for BEV identity that integrates compositional analysis, producer-strain genomics, and functional or safety profiling, and we position whole-genome sequencing (WGS) as decisive for source qualification and mechanistic interpretation but insufficient to prove the efficacy of a purified preparation. Building on this framework, we summarize isolation, purification, and analytical characterization requirements; interpret current skin-efficacy evidence in light of its methodological limits; and discuss formulation, cosmetic application, regulatory positioning, and manufacturable quality. We conclude that transparent bacterial provenance, reproducible preparation, and evidence proportionate to the claims made are prerequisites for evaluating commensal BEVs, described for skin applications as MDVs, as a scientifically defined cosmetic platform.",
+        "source": "PubMed",
+        "doi": "10.1007/s13258-026-01803-6",
+        "keyword": "Exosomes",
+        "title_ja": "細菌由来からマイクロバイオーム由来小胞へ：ゲノム情報に基づく同定、供給源の品質評価、および皮膚向け化粧品へのトランスレーショナル品質",
+        "summary_ja": "細菌由来細胞外小胞（BEVs）は皮膚向け化粧品素材として注目されるが、「エクソソーム」という用語の急速な普及が、その起源や組成、製造品質の明確化を追い越している。本総説は、BEVsの価値は科学的規律に依存し、生物学的に強力であるから有望なのであって、本質的に無害だからではないと主張する。BEVsを細菌が放出する小胞の総称として保持しつつ、消費者向けには「マイクロバイオーム由来小胞（MDVs）」という用語を提案する。これは共生細菌由来BEVsを指し、「細菌」という語の難しさを避けつつ、細菌由来性を定義に保持する。BEVの特性評価には、組成分析、産生菌株ゲノミクス、機能・安全性プロファイリングを統合した3軸フレームワークを提唱し、全ゲノムシーケンシング（WGS）が起源特定と機構解釈に決定的だが、精製製剤の有効性証明には不十分とする。さらに、単離・精製・分析要件を整理し、皮膚有効性エビデンスを方"
+      },
+      {
+        "title": "A coarse-grained molecular dynamics study of nanoscale phospholipid-cholesterol vesicles: curvature effects on cholesterol distribution and vesicle structure.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42713771/",
+        "abstract": "Nanoscale lipid bilayer vesicles are widely used as model systems for exosomes and synaptic vesicles, released by cells for intercellular communication, in which strong membrane curvature couples molecular packing to asymmetry between the two lipid-bilayer monolayers. Here, we investigate DPPC, POPC or DLiPC phospholipid (PC)/cholesterol bilayer vesicles using coarse-grained molecular dynamics simulations, systematically varying phospholipid chain unsaturation, cholesterol content (0-50 mol%), and vesicle diameter (10-30 nm for the DPPC system). Cholesterol undergoes rapid redistribution on submicrosecond timescales, and is preferentially enriched in the inner leaflet of all vesicles studied, with the degree of asymmetry depending on the vesicle curvature, cholesterol content and PC chain saturation. Increasing cholesterol content induces bilayer thickening, reduced area per lipid and enhanced chain ordering. Highly curved vesicles are thinner than planar bilayers. These effects depend strongly on PC unsaturation and vesicle size, highlighting the synergistic role of these variables in controlling membrane structure and cholesterol partitioning in nanoscale vesicles.",
+        "source": "PubMed",
+        "doi": "10.1039/d6sm00361c",
+        "keyword": "Exosomes",
+        "title_ja": "ナノスケールのリン脂質-コレステロール小胞に関する粗視化分子動力学研究：コレステロール分布と小胞構造に及ぼす曲率効果",
+        "summary_ja": "ナノスケールの脂質二重層ベシクルは、エクソソームやシナプス小胞のモデル系として広く用いられ、強い膜曲率が分子パッキングと二重層モノレイヤー間の非対称性を結びつける。本研究では、粗視化分子動力学シミュレーションを用いて、DPPC、POPC、DLiPCホスファチジルコリン(PC)/コレステロールベシクルを系統的に調査し、鎖不飽和度、コレステロール含有量(0〜50mol%)、ベシクル径(DPPC系で10〜30nm)を変化させた。コレステロールはサブマイクロ秒で急速に再分布し、全てのベシクルで内葉に優先的に濃縮され、その非対称性は曲率、コレステロール量、PC鎖飽和度に依存する。コレステロール増加は二重層の肥厚、脂質あたりの面積減少、鎖秩序化を誘導する。高曲率ベシクルは平面二重層より薄い。これらの効果はPC不飽和度とベシクルサイズに強く依存し、ナノスケールベシクルの膜構造とコレステロール分配を制御す"
+      },
+      {
+        "title": "Exosomes in Toxicology: Emerging Biomarkers and Mechanistic Mediators of Toxicant-Induced Injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42712133/",
+        "abstract": "This focused critical review evaluates exosomes and exosome-enriched extracellular vesicle fractions as mechanistically informative biomarkers and potential mediators of toxicant-induced injury in experimental and regulatory toxicology. Rather than treating exosomes only as diagnostic carriers, this review distinguishes vesicle-associated biomarker signals from vesicle-mediated mechanisms of toxicity and evaluates how reported findings support association, temporal biomarker value, functional transfer, or stronger claims of causality. Evidence from hepatotoxicity, nephrotoxicity, neurotoxicity, and environmental toxicology indicates that vesicle-associated miRNAs, proteins, lipids, and metabolites may reflect key toxicological processes, including oxidative stress, inflammation, mitochondrial dysfunction, immune activation, tissue remodeling, and metabolic disruption. Among the toxicological applications reviewed, hepatotoxicity and nephrotoxicity currently provide the strongest evidence for translational evaluation because vesicle cargo can be linked to organ-enriched injury markers and accessible biofluids. Environmental exposure studies further support the feasibility of extracellular vesicle-associated miRNAs as exposure-responsive biomarkers, although much of this evidence remains associative and requires stronger dose-response and longitudinal validation. This review also emphasizes that altered vesicle cargo does not automatically establish that exosomes actively drive toxicity. Mediator claims require evidence of functional cargo transfer, recipient-cell response, vesicle inhibition or depletion, rescue experiments, or in vivo validation. Methodologically, toxicological interpretation is limited by uncertainty in distinguishing bona fide exosomes from small extracellular vesicles or exosome-enriched fractions, as well as by isolation-dependent co-isolates, inconsistent normalization, and limited cross-study comparability. From a translational perspective, the most realistic near-term applications are early biomarker discovery and longitudinal monitoring. However, broader regulatory implementation will require standardized vesicle definitions, reproducible analytical workflows, dose-response validation, and direct comparison with established toxicological endpoints.",
+        "source": "PubMed",
+        "doi": "10.1002/jat.70431",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームと毒性学：毒物曝露による障害の新興バイオマーカーおよび機構的メディエーター",
+        "summary_ja": "本レビューは、エクソソームおよびエクソソーム濃縮細胞外小胞画分を、実験・規制毒性学における機構的解釈が可能なバイオマーカーおよび毒性誘発障害の潜在的メディエーターとして評価する。小胞関連バイオマーカーシグナルと小胞媒介毒性機構を区別し、関連性、経時的バイオマーカー価値、機能的移行、因果性の主張を批判的に検討する。肝毒性、腎毒性、神経毒性、環境毒性学の証拠から、小胞関連miRNA、タンパク質、脂質、代謝物が酸化ストレス、炎症、ミトコンドリア機能障害、免疫活性化、組織リモデリング、代謝撹乱を反映し得る。現状、肝毒性と腎毒性が翻訳評価に最も強力な証拠を提供する。環境曝露研究は曝露応答性バイオマーカーとしての可能性を示すが、多くは関連性に留まり、用量反応・縦断的検証が不足する。小胞カーゴの変化は直ちに能動的毒性駆動を意味せず、メディエーター主張には機能的移行、受容細胞応答、小胞阻害・除去、レスキュ"
+      },
+      {
+        "title": "CAFs-mediated histone lactylation reprograms cholesterol metabolism in colorectal cancer to drive CD8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42711289/",
+        "abstract": "The progression of colorectal cancer (CRC) is critically regulated by cancer-associated fibroblasts (CAFs) within the tumor microenvironment (TME), yet the specific molecular mechanisms by which CAFs influence CRC remain unclear. This study reveals the mechanism by which CAFs promote CRC malignant progression and immune suppression through metabolic reprogramming. Findings indicate that lactate secreted by CAFs induces lactylation modifications of histone H3K9La and H3K18La, thereby upregulating the expression of key cholesterol synthesis enzymes DHCR7 and CYP51A1, which in turn enhances the malignant properties of CRC cells. In vivo and in vitro experiments confirm that inhibiting DHCR7 significantly reverses CAF-mediated tumor promotion. More importantly, this study revealed that CAF-induced CRC cells with elevated cholesterol metabolism deliver DHCR7 to CD8",
+        "source": "PubMed",
+        "doi": "10.1002/path.70119",
+        "keyword": "Exosomes",
+        "title_ja": "CAFを介したヒストン乳酸化修飾は大腸癌におけるコレステロール代謝を再プログラムし、CD8を駆動する",
+        "summary_ja": "本研究揭示了肿瘤微环境中癌症相关成纤维细胞（CAFs）通过代谢重编程促进结直肠癌（CRC）恶性进展及免疫抑制的机制。CAFs分泌的乳酸诱导组蛋白H3K9La和H3K18La发生乳酸化修饰，进而上调胆固醇合成关键酶DHCR7和CYP51A1的表达，增强CRC细胞的恶性特性。体内外实验证实，抑制DHCR7可显著逆转CAFs介导的肿瘤促进作用。更重要的是，CAFs诱导的高胆固醇代谢CRC细胞通过细胞外囊泡将DHCR7递送至CD8⁺ T细胞，导致其功能抑制，从而削弱抗肿瘤免疫应答。该研究首次阐明CAFs通过乳酸化修饰重编程胆固醇代谢，并介导免疫逃逸的新机制，为CRC治疗提供了靶向DHCR7及胆固醇代谢通路的潜在策略。"
+      },
+      {
+        "title": "Exosomes Derived from Stem Cells from Human Exfoliated Deciduous Teeth Attenuate Glycation-Induced Oxidative Stress and Cytotoxicity in Neuronal Cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42710545/",
+        "abstract": "Advanced glycation end products (AGEs) induce oxidative stress and cellular injury through excessive reactive oxygen species (ROS), contributing to aging- and diabetes-related degenerative conditions. Exosomes derived from stem cells from human exfoliated deciduous teeth (SHED) exhibit regenerative and cytoprotective properties. This study aimed to investigate the effects of SHED-derived exosomes on AGE-induced oxidative stress and cytotoxicity in neuronal cells.",
+        "source": "PubMed",
+        "doi": "10.1055/s-0046-1827769",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト脱落乳歯由来幹細胞から得られたエクソソームは、神経細胞における糖化誘発性の酸化ストレスと細胞毒性を軽減する。",
+        "summary_ja": "本研究では、ヒト脱落乳歯由来幹細胞（SHED）から分泌されるエクソソームが、終末糖化産物（AGEs）による神経細胞の酸化ストレスと細胞毒性に与える影響を検討した。AGEsは過剰な活性酸素種（ROS）を誘導し、老化や糖尿病関連の変性疾患に関与する。SHED由来エクソソームは再生能と細胞保護能を持つことが知られている。実験では、神経細胞にAGEsを曝露し、SHEDエクソソームを併用処理した。その結果、SHEDエクソソームはAGEs誘導性のROS産生を有意に抑制し、細胞生存率の低下を防いだ。また、酸化ストレスマーカーの上昇を軽減し、アポトーシス関連経路の活性化を抑制した。これらの結果から、SHED由来エクソソームはAGEsによる神経細胞の酸化ストレスと細胞毒性を減弱させる可能性が示唆され、糖尿病性神経変性疾患への治療応用が期待される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "注目すべき5トピックを以下にまとめる。\n\n**1. 生涯造血の全体像解明**：胎児から高齢者まで約100万細胞を統合した研究は、加齢に伴う血液疾患の理解を根本から変える。今後の個別化医療や再生医療の基盤となる。\n\n**2. CAR-NK細胞療法の進展**：再発・難治性ループス腎炎への同種異系CD19 CAR-NK療法は、自己免疫疾患への新たな治療扉を開く。また、ポリアスパルタミドによる非ウイルス性mRNA送達は、作製時間とコストを大幅に削減し、CAR-NK療法の普及を加速させる。\n\n**3. エクソソームの毒性バイオマーカー応用**：化学物質曝露の影響を鋭敏に反映するエクソソームは、従来の毒性評価を革新する。メカニズム解明とバイオマーカー開発を区別したアプローチが、規制毒性学の新標準となる可能性を秘める。\n\n**4. 大腸癌におけるエクソソームDDS**：抗癌分子を内包したエクソソームは、高い生体適合性と標的指向性を持ち、大腸癌の低侵襲治療を実現する。現状の課題である大量生産と品質管理の克服が実用化の鍵である。\n\n**5. CAFsによる代謝リプログラミング**：癌関連線維芽細胞が乳酸化修飾を介してコレステロール代謝を変容させ、免疫抑制を誘導する機構は、癌微小環境研究に新たな視点を提供する。今後は、この経路を標的とした革新的な免疫療法の開発が期待される。"
+}

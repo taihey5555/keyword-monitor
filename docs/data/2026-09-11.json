@@ -1,0 +1,207 @@
+{
+  "A": {
+    "医学": [
+      {
+        "title": "Considerations for Mesenchymal Stem Cell-Derived Small Extracellular Vesicle-Based Clinical Treatment of Spinal Cord Injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42717637/",
+        "abstract": "A large body of animal studies across multiple laboratories has found that a subset of small extracellular vesicles (sEVs) derived from mesenchymal stromal cells (MSC-sEVs) referred to as exosomes can improve functional recovery after spinal cord injury (SCI). Sufficient pre-clinical data have been accumulated to consider how MSC-sEVs might be used clinically for the treatment of SCI. This review discusses: (1) the SCI patient population which may benefit from MSC-sEVs treatments, (2) potential sources of MSCs for production of clinically useful MSC-sEVs, (3) dosaging of MSC-sEVs required for therapeutic efficacy, (4) timing and method of delivery of the sEVs, (5) cell targets of MSC-sEVs and their mechanism of action, (6) possible protocols for producing clinically useful quantities of MSC-sEVs, and (7) the criteria for evaluating an MSC-sEVs treatment product. We conclude with some thoughts about potential protocols for clinical trials of MSC-sEVs treatment for SCI.",
+        "source": "PubMed",
+        "doi": "10.1177/08977151261483981",
+        "keyword": "Exosomes",
+        "matched_keywords": [
+          "Exosomes",
+          "sEVs"
+        ],
+        "title_ja": "間葉系幹細胞由来の小型細胞外小胞を用いた脊髄損傷の臨床治療に関する考察",
+        "summary_ja": "複数の動物研究により、間葉系間質細胞由来のsmall extracellular vesicles（MSC-sEVs、exosomes）が脊髄損傷（SCI）後の機能回復を改善することが示されている。十分な前臨床データが蓄積され、臨床応用の検討段階にある。本レビューでは、(1)MSC-sEVs治療が有効なSCI患者層、(2)臨床用MSC-sEVs製造のためのMSC供給源、(3)治療有効性に必要な投与量、(4)投与時期と方法、(5)標的細胞と作用機序、(6)臨床用量の製造プロトコル、(7)治療製品の評価基準を論じ、SCIに対するMSC-sEVs治療の臨床試験プロトコル案を提示する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Dendritic Cells in the Immunoregulation of Myocardial Infarction: Mechanisms and Therapeutic Strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42720723/",
+        "abstract": "Myocardial infarction (MI) remains a leading cause of mortality and long-term disability worldwide. Its pathological process involves multiple interconnected stages, including atherosclerosis, ischemia-reperfusion injury, ventricular remodeling, and fibrosis. Dendritic cells (DCs), as key antigen-presenting cells bridging innate and adaptive immunity, exert bidirectional immunoregulatory functions in the pathogenesis of MI. During atherogenesis, DCs actively participate in lipid deposition, foam cell formation, and inflammatory regulation. Following MI, DCs influence myocardial injury and repair through diverse mechanisms, including cytokine secretion, T cell differentiation modulation, and exosome-mediated intercellular communication. Clinical studies have revealed a marked reduction in circulating DCs in MI patients, accompanied by functional hyperactivation of the residual DC population, which correlates closely with adverse clinical outcomes. On the therapeutic front, several DC-targeted strategies have demonstrated efficacy in preclinical models, including the C-X-C motif chemokine receptor 4 antagonists POL5551 and POL6326, mannosylated cytotoxic T-lymphocyte-associated protein 4-presenting small extracellular vesicles (CM@sEVs), tolerogenic dendritic cells (tDCs), and DC-derived exosomes (Dex), all of which have shown potential to improve cardiac function, attenuate fibrosis, and promote angiogenesis. Additionally, conventional medications such as statins and angiotensin-converting enzyme inhibitors can also modulate DC functions to confer cardioprotection. This review provides a comprehensive overview of the immunoregulatory mechanisms of DCs across the pathological spectrum of MI and highlights recent progress in DC-based therapeutic strategies, aiming to provide a theoretical foundation for the immunotargeted treatment of MI.",
+        "source": "PubMed",
+        "doi": "10.1007/s10557-026-07955-7",
+        "keyword": "Exosomes",
+        "matched_keywords": [
+          "Exosomes",
+          "sEVs"
+        ],
+        "title_ja": "心筋梗塞の免疫調節における樹状細胞：メカニズムと治療戦略",
+        "summary_ja": "心筋梗塞（MI）は世界的に主要な死亡・障害原因である。その病態は動脈硬化、虚血再灌流障害、心室リモデリング、線維化など多段階からなる。樹状細胞（DCs）は自然免疫と獲得免疫を橋渡しする抗原提示細胞として、MI発症に双方向的に免疫調節する。動脈硬化形成期には脂質沈着や泡沫細胞形成、炎症調節に関与し、MI後はサイトカイン分泌、T細胞分化調節、エクソソームを介した細胞間通信などで心筋障害と修復に影響する。臨床研究ではMI患者で循環DCsが著減し、残存DCsが機能亢進して不良な転帰と相関する。治療面ではCXCR4拮抗薬POL5551・POL6326、マンノシル化CTLA-4提示小細胞外小胞、寛容性DCs、DC由来エクソソームなどが前臨床モデルで心機能改善、線維化抑制、血管新生促進を示した。スタチンやACE阻害薬もDC機能を調節し心保護に寄与する。本総説はMI病態におけるDCsの免疫調節機構とDC標"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "MicroRNA-322 Promotes Granulosa Cell Senescence and Premature Ovarian Failure by Suppressing Klotho expression and Cell Cycle Progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42716314/",
+        "abstract": "Premature ovarian failure (POF) is closely linked to ovarian granulosa cell (OGC) senescence and cell cycle arrest. This study explored the role of the miR-322/Klotho axis in OGC aging. Using a cyclophosphamide-induced mouse model and cultured OGCs, we found Klotho significantly downregulated in POF, inversely correlating with elevated miR-322 and senescence markers p16, p21, and p53. Luciferase assays confirmed Klotho as a direct miR-322 target. miR-322 overexpression induced G0/G1 and G2/M phase arrest and OGC senescence by silencing Klotho, while miR-322 inhibition partially rescued the POF phenotype. miR-322 knock-in mice exhibited reduced ovarian weight, increased follicular atresia, and altered E2/FSH levels, mimicking clinical POF. Mechanistically, the miR-322/Klotho axis modulated cell cycle regulators, upregulating CHK1 and downregulating CDC25A, CDK2, and Cyclin A/E. Thus, miR-322 promotes OGC senescence and POF by targeting Klotho to activate cell cycle inhibition pathways, identifying this axis as a critical epigenetic regulator of ovarian aging and a potential therapeutic target.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mad.2026.112250",
+        "keyword": "Klotho",
+        "title_ja": "MicroRNA-322はKlotho発現と細胞周期進行を抑制することで顆粒膜細胞の老化と早発性卵巣不全を促進する。",
+        "summary_ja": "早期卵巣不全（POF）は卵巣顆粒膜細胞（OGC）の老化と細胞周期停止に密接に関連する。本研究はmiR-322/Klotho軸のOGC老化における役割を検討した。シクロホスファミド誘発マウスモデルと培養OGCを用い、POFではKlothoが有意に低下し、上昇したmiR-322や老化マーカーp16、p21、p53と逆相関することを見出した。ルシフェラーゼアッセイでKlothoがmiR-322の直接標的と確認された。miR-322過剰発現はKlotho抑制を介しG0/G1期およびG2/M期停止とOGC老化を誘導し、miR-322阻害はPOF表現型を部分的に回復した。miR-322ノックインマウスは卵巣重量減少、卵胞閉鎖増加、E2/FSH変動を示し臨床POFを模倣した。機序としてmiR-322/Klotho軸はCHK1を上昇、CDC25A、CDK2、Cyclin A/Eを低下させ細胞周期制御因子を"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Circulating NK-cell counts improve prognostic stratification of the PINKE model in extranodal NK/T-cell lymphoma: a retrospective cohort study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42641465/",
+        "abstract": "The prognostic index of natural killer lymphoma-Epstein-Barr virus (PINKE) is a standard model for extranodal NK/T-cell lymphoma (ENKTL) but relies solely on clinical and virological parameters. This study aimed to integrate peripheral blood immune biomarkers into PINKE to enhance prognostic accuracy.",
+        "source": "PubMed",
+        "doi": "10.1016/j.leukres.2026.108300",
+        "keyword": "NK cell therapy",
+        "title_ja": "循環NK細胞数は節外性NK/T細胞リンパ腫におけるPINKEモデルの予後層別化を改善する：後ろ向きコホート研究",
+        "summary_ja": "末梢血NK細胞数は予後予測を改善する可能性がある。PINKEはENKTLの標準予後モデルだが、臨床・ウイルス学的指標のみに依存している。本研究は末梢血免疫バイオマーカーをPINKEに統合し、予後精度を高めることを目的とした後ろ向きコホート研究である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Effector-cell-engaging bispecific antibodies for cancer therapeutics: engineering precision immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42716205/",
+        "abstract": "The bispecific antibody (bsAb) is a novel immune therapeutic platform that consists of a single molecule that simultaneously binds two distinct antigens, tumor-associated antigens and immune effector cells, to enhance the targeted killing of tumor cells. bsAbs can target T cells and natural killer (NK) cells or macrophages through receptors such as CD3, CD16 or CD47 and generate strong, MHC-independent antitumor activity. This review outlines the evolution of effector-cell-engaging bsAb formats, such as BiTEs, DARTs, TandAbs and IgG-like constructs, along with engineering strategies to enhance Fc function, valency, half-life, safety and efficacy. It describes clinically validated T-cell engagers, new NK-cell- and macrophage-targeting bsAbs, trispecific NK engagers, tumor-activated and mRNA-encoded bsAbs, and combination strategies with checkpoint inhibitors and cellular therapies, highlighting their role in precision oncology.",
+        "source": "PubMed",
+        "doi": "10.1016/j.drudis.2026.104800",
+        "keyword": "NK cell therapy",
+        "title_ja": "がん治療のためのエフェクター細胞動員二重特異性抗体：精密免疫の設計",
+        "summary_ja": "二重特異性抗体（bsAb）は、腫瘍関連抗原と免疫エフェクター細胞の2つの抗原に同時結合し、腫瘍細胞の標的殺傷を強化する新規免疫治療プラットフォームである。bsAbはCD3、CD16、CD47等を介してT細胞、NK細胞、マクロファージを標的とし、MHC非依存性の強力な抗腫瘍活性を生み出す。本レビューでは、BiTEs、DARTs、TandAbs、IgG様構築物等のエフェクター細胞動員bsAbフォーマットの進化と、Fc機能、価数、半減期、安全性、有効性を高める工学戦略を概説する。臨床検証済みT細胞エンゲージャー、新規NK細胞・マクロファージ標的bsAb、三特異性NKエンゲージャー、腫瘍活性化型・mRNAコードbsAb、チェックポイント阻害剤や細胞療法との併用戦略を記述し、精密腫瘍学における役割を強調する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Circular RNAs: key regulators and mechanistic insights in breast cancer drug resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42721417/",
+        "abstract": "Breast cancer is the most common malignancy in women, and pharmacotherapy is the cornerstone of multidisciplinary care. However, drug resistance severely impairs therapeutic efficacy and patient prognosis. Circular RNAs (circRNAs) have become a key focus in breast cancer chemoresistance due to their high stability and specific expression profiles. This review classifies circRNA functions according to breast cancer molecular subtypes, elucidating their regulatory mechanisms underlying drug resistance ",
+        "source": "PubMed",
+        "doi": "10.1080/1120009X.2026.2729966",
+        "keyword": "Exosomes",
+        "title_ja": "環状RNA：乳がん薬剤耐性における主要な制御因子と機構的洞察",
+        "summary_ja": "乳がんは女性で最も多い悪性腫瘍であり、薬物療法が集学的治療の中心だが、薬剤耐性が治療効果と予後を損なう。高い安定性と特異的発現プロファイルを持つcircular RNA（circRNA）は、乳がんの化学療法耐性における重要因子として注目されている。本レビューは、乳がんの分子サブタイプ別にcircRNAの機能を分類し、薬剤耐性を制御するメカニズムを解明する。"
+      },
+      {
+        "title": "Tumor microenvironment-mediated resistance to immune checkpoint inhibitors in non-small cell lung cancer: Mechanisms, combination strategies and clinical perspectives (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42719683/",
+        "abstract": "Non-small cell lung cancer (NSCLC) is one of the leading causes of cancer-associated mortality worldwide. Immune checkpoint inhibitors targeting programmed cell death protein 1, programmed death-ligand 1 (PD-L1) and cytotoxic T lymphocyte-associated protein 4 have transformed the treatment landscape of NSCLC. However, primary and acquired resistance limit durable clinical benefit. The current review article aimed to summarize tumor microenvironment-mediated resistance as an interconnected biological process rather than a collection of isolated factors. Immunosuppressive myeloid populations, regulatory lymphocytes, cancer-associated fibroblasts, extracellular matrix remodeling, vascular endothelial growth factor-driven vascular dysfunction, hypoxia, transforming growth factor-β signaling and metabolic reprogramming cooperate with defects in antigen presentation, dysregulation of serine/threonine kinase 11/Kelch-like ECH-associated protein 1/nuclear factor erythroid 2-related factor 2/stimulator of interferon genes and oncogenic driver signaling to generate immune-desert (minimal immune cell infiltration), immune-excluded (immune cells retained outside tumors) or exhausted immune-inflamed (immune-cell infiltration with functional exhaustion) phenotypes. The present review also critically evaluated combination therapeutic strategies, distinguishing phase III-supported standards from early-phase clinical or preclinical approaches, while highlighting considerations associated with patient selection, toxicity and the evolving regulatory context. Finally, an operational biomarker framework integrating PD-L1 expression, tumor mutational burden, interferon γ-associated signatures, spatial profiling, circulating tumor DNA, exosomal biomarkers and microbiome features was proposed to guide precision immunotherapy in NSCLC.",
+        "source": "PubMed",
+        "doi": "10.3892/mco.2026.2971",
+        "keyword": "Exosomes",
+        "title_ja": "非小细胞肺癌中肿瘤微环境介导的免疫检查点抑制剂耐药：机制、联合策略及临床展望（综述）。",
+        "summary_ja": "非小細胞肺がん（NSCLC）は世界的にがん関連死の主要因である。PD-1、PD-L1、CTLA-4を標的とする免疫チェックポイント阻害薬は治療を変革したが、原発性・獲得性耐性が持続的効果を制限する。本レビューは、腫瘍微小環境を介した耐性を孤立した因子の集合ではなく相互接続した生物学的過程として要約した。免疫抑制性骨髄系集団、制御性リンパ球、がん関連線維芽細胞、細胞外基質リモデリング、VEGF駆動性血管機能不全、低酸素、TGF-βシグナル、代謝リプログラミングが、抗原提示の欠陥、STK11/KEAP1/NRF2/STINGの調節異常、がん遺伝子ドライバーシグナルと協働し、immune-desert、immune-excluded、exhausted immune-inflamed表現型を生じる。併用戦略を第III相 vs 早期段階で評価し、患者選択・毒性・規制動向を論じた。PD-L1、TMB"
+      },
+      {
+        "title": "The PROM1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42718887/",
+        "abstract": null,
+        "source": "PubMed",
+        "doi": "10.34133/cancomm.0046",
+        "keyword": "Exosomes",
+        "title_ja": "PROM1",
+        "summary_ja": "提供された情報にはタイトル「The PROM1」のみで、本文・内容が含まれていません（Content: None）。要約の対象となる論文・記事の本文がないため、正確な要約を作成することができません。本文テキストを提供していただければ、400文字以内で日本語に要約いたします。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Mesenchymal Stem Cell-Derived Exosomes for Alzheimer's Disease: Mechanisms, Preclinical Evidence, and Translational Challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42720824/",
+        "abstract": "Alzheimer's disease (AD) is the leading cause of dementia and is driven by interacting pathological processes, including amyloid-β (Aβ) accumulation, tau hyperphosphorylation, neuroinflammation, and synaptic failure. Despite recent advances in anti-amyloid immunotherapy, disease-modifying benefits remain modest, highlighting the need for multitarget therapeutic strategies. Mesenchymal stem cell-derived exosomes (MSC-Exos) are nanoscale extracellular vesicles enriched with bioactive proteins, RNAs, and lipids that have been shown in experimental systems to cross the blood-brain barrier and modulate multiple AD-relevant pathways. This review synthesizes current evidence on MSC-Exo biology, cargo composition, and mechanisms of action in AD, critically evaluating their effects on Aβ clearance, tau pathology, neuroinflammation, and synaptic integrity across amyloid, tauopathy, and mixed pathology models. We further examine emerging clinical data on intranasal and intravenous MSC-Exo delivery, highlighting safety, feasibility, and early translational signals, while identifying key challenges that currently limit clinical advancement. These include incomplete understanding of biodistribution in the aging AD brain, the lack of mechanism-based potency assays, and uncertainty regarding direct anti-tau activity independent of amyloid modulation. By integrating preclinical, clinical, and translational perspectives, this review clarifies the current position of MSC-Exos in the AD therapeutic landscape and outlines priorities for future trials and biomarker-guided development. Importantly, this review explicitly distinguishes established evidence from mechanistic inference, particularly regarding tau-related effects, and frames MSC-Exos within a translational roadmap linking preclinical findings to key barriers in clinical development.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-06193-0",
+        "keyword": "Exosomes",
+        "title_ja": "アルツハイマー病に対する間葉系幹細胞由来エクソソーム：メカニズム、前臨床エビデンス、および実用化への課題",
+        "summary_ja": "アルツハイマー病（AD）はAβ蓄積、tau過剰リン酸化、神経炎症、シナプス障害が関与する。抗アミロイド免疫療法の効果は限定的で、多標的戦略が求められる。間葉系幹細胞由来エクソソーム（MSC-Exos）は血液脳関門を通過し、Aβ除去、tau病理、神経炎症、シナプス保護に作用する。本レビューはMSC-Exoの生物学的特性、カーゴ、作用機序を統合し、前臨床・臨床データを評価。経鼻・静脈内投与の安全性と実現可能性を示す一方、加齢AD脳での体内動態、機序に基づく効力評価法、アミロイド非依存的な抗tau活性の不明確さを課題として挙げる。確立されたエビデンスと機序的推論を区別し、臨床開発の障壁と今後の優先事項を示す。"
+      },
+      {
+        "title": "Mechanisms of Mesenchymal Stem Cell-Derived Exosomes in Dry Eye Disease: From Inflammation Pathways to Therapeutic Prospects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42719581/",
+        "abstract": "Dry eye disease (DED) is a chronic ocular surface disorder triggered by tear film imbalance, in which inflammatory disruption of immune homeostasis constitutes the core pathological mechanism. Mesenchymal stem cell-derived exosomes (MSC-Exos) offer promising anti-inflammatory therapeutic potential through immune modulation, tissue repair, and their inherently low immunogenicity. This review elucidates MSC-Exos' molecular regulation of DED inflammation, demonstrating their suppression of the TLR4/NF-κB signaling axis, the IRAK1/TRAF6/NF-κB cascade reaction, the STAT3 transcriptional regulatory network, and the NLRP3 inflammasome activation pathway, while revealing a synergistic mechanism through which MSC-Exos ameliorate the ocular surface inflammatory microenvironment by modulating the Th17/Treg immune balance via the gut-eye axis and facilitating FBXW7-mediated ubiquitination degradation pathways. Despite this therapeutic potential, clinical translation is hampered by exosomal heterogeneity, difficulties in standardization, and suboptimal delivery efficiency and long-term efficacy. Future progress will require the integration of nanotechnology and gene editing to enhance therapeutic functionality, ultimately positioning MSC-Exos as precision biologics for DED.",
+        "source": "PubMed",
+        "doi": "10.1155/sci/2026673",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来エクソソームのドライアイ疾患におけるメカニズム：炎症経路から治療の展望まで",
+        "summary_ja": "ドライアイ（DED）は涙液層の破綻を契機とする慢性眼表面疾患で、炎症による免疫恒常性の破綻が中核病態である。間葉系幹細胞由来エクソソーム（MSC-Exos）は免疫調節・組織修復・低免疫原性により抗炎症治療の可能性を持つ。本レビューは、MSC-ExosがTLR4/NF-κB軸、IRAK1/TRAF6/NF-κBカスケード、STAT3転写調節ネットワーク、NLRP3インフラマソーム活性化を抑制し、腸-眼軸を介したTh17/Tregバランス調節やFBXW7依存性ユビキチン化分解を促す相乗機構を明らかにする。一方、エクソソームの不均一性、標準化の困難、送達効率や長期有効性の不足が臨床応用を妨げる。今後はナノテクノロジーとゲノム編集の統合によりDED向け精密バイオ医薬品化が期待される。"
+      },
+      {
+        "title": "Hemifusomes and proteolipid nanodroplets: a critical synthesis of an emerging model for endosomal membrane remodeling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42717350/",
+        "abstract": "Vesicular membrane trafficking is central to eukaryotic homeostasis, governing receptor downregulation, lysosomal degradation, and intercellular communication via exosomes. These processes are classically explained by SNARE-mediated fusion and ESCRT-dependent membrane remodeling, which together define current models of vesicle biogenesis and multivesicular body (MVB) formation. Recent high-resolution cryo-electron tomography of intact mammalian cells has identified a structurally distinct membrane-associated assembly termed the hemifusome. Hemifusomes consist of two heterotypic vesicles connected by a persistent hemifusion diaphragm (~ 160 nm in diameter) and feature a ~ 42 nm proteolipid nanodroplet (PND) localized at the diaphragm rim. This architecture expands current views of hemifusion intermediates and raises the possibility of an alternative mode of endosomal membrane organization distinct from canonical ESCRT-mediated processes. However, the molecular composition, biogenesis, and regulatory mechanisms of this system remain undefined. Here, we provide the first integrated synthesis of hemifusome and PND biology, consolidating structural, biophysical, and mechanistic observations within the context of endosomal trafficking. We compare this emerging framework with ESCRT-mediated intraluminal vesicle formation, highlighting both shared features and key mechanistic gaps. We further examine preliminary and largely correlative links to neurodegenerative and lysosomal storage disorders, while emphasizing the absence of direct causal evidence. Given that this field currently rests on a single primary research report, we deliberately separate this evidence-based structural synthesis from more speculative functional, disease-related, and translational extensions, which are presented as explicit future perspectives rather than established conclusions. Finally, we outline unresolved questions, including PND molecular identity, determinants of hemifusion diaphragm organization and stability, and the temporal sequence of hemifusome assembly and remodeling. Together, these findings position hemifusomes as a potentially distinct structural state within the endosomal network, warranting systematic molecular and functional investigation.",
+        "source": "PubMed",
+        "doi": "10.1186/s12964-026-03182-7",
+        "keyword": "Exosomes",
+        "title_ja": "ヘミフソソームとプロテオリピッドナノ液滴：エンドソーム膜リモデリングの新興モデルに関する批判的統合",
+        "summary_ja": "小胞膜輸送は真核生物の恒常性、受容体ダウンレギュレーション、リソソーム分解、エクソソームを介した細胞間通信を担う。従来SNARE媒介融合とESCRT依存性膜リモデリングで説明されてきた。近年のクライオ電子線トモグラフィーにより、ヘミフソソームと呼ばれる構造が同定された。これは約160 nmのヘミフュージョンダイアフラムで連結された2つの異種小胞と、その縁に局在する約42 nmのプロテオリピッドナノドロップレット（PND）からなる。本総説はヘミフソソームとPNDの生物学を初めて統合し、ESCRT媒介性内腔小胞形成と比較して共通点と機構的ギャップを示す。神経変性疾患・リソソーム蓄積症との相関も検討するが因果証拠はない。単一の一次報告に基づくため、構造的統合と推測的拡張を区別し、PND分子実体、ダイアフラム安定性、形成順序などの未解決課題を提示する。"
+      },
+      {
+        "title": "Publisher Correction: Human umbilical cord-derived mesenchymal stem cell exosomes ameliorate hepatocyte ferroptosis and sepsis-associated liver injury by restoring iron homeostasis in hepatocytes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42717349/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-04977-z",
+        "keyword": "Exosomes",
+        "title_ja": "出版社更正：人脐带间充质干细胞外泌体通过恢复肝细胞铁稳态改善肝细胞铁死亡和脓毒症相关肝损伤",
+        "summary_ja": "ご提示いただいた情報には、論文のタイトル以外の本文・抄録・内容が含まれていません。要約のための中身がないため、正確な要約を作成することができません。\n\nタイトルから読み取れる範囲は以下です：\n「ヒト臍帯由来間葉系幹細胞エクソソームは、肝細胞の鉄恒常性を回復させることで、肝細胞フェロトーシスおよび敗血症関連肝障害を改善する」という研究に関するPublisher Correction（出版社訂正）。\n\n要約を作成するには、抄録や本文などの内容をご提供ください。"
+      },
+      {
+        "title": "The redox architecture of gestational diabetes mellitus: from cellular stress engine to epigenetic and mitochondrial rewiring.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42716407/",
+        "abstract": "Gestational diabetes mellitus (GDM) is a common pregnancy complication with a rising global prevalence, posing serious short-term and long-term health threats to both mothers and offspring. This review repositions GDM as a systemic disorder in which oxidative stress acts as a proposed mechanistic hub, linking upstream risk factors to downstream pathophysiology. We first examine how \"upstream\" factors-including genetic susceptibility, pre-conception status, and environmental exposures-converge to promote a state of pathological redox imbalance. We then examine key mechanistic pathways through which oxidative stress is thought to contribute to systemic insulin resistance and pancreatic β-cell failure, highlighting novel pathways involving intercellular communication via tunneling nanotubes and exosomes. Furthermore, we explore the downstream cascade, where oxidative stress may program maternal accelerated biological aging and multi-organ offspring disease trajectories through nuclear epigenetic programming and mitochondrial dysfunction programming, leaving what has been termed a persistent \"metabolic memory\". Consequently, this review evaluates emerging strategies that target oxidative stress for early prediction and precision intervention. Early prediction models based on direct redox biomarkers and multi-omics signatures hold potential to shift diagnosis from late-gestation oral glucose tolerance test (OGTT) to first-trimester risk stratification. Current supporting evidence draws from human epidemiological associations, ex vivo placental analyses, and experimental models. However, direct causal and interventional validation in pregnant women remains limited. Integrating targeted redox risk stratification and precision interventions into a life-course clinical framework may help interrupt the intergenerational transmission of metabolic disease initiated by GDM.",
+        "source": "PubMed",
+        "doi": "10.1016/j.freeradbiomed.2026.09.006",
+        "keyword": "Exosomes",
+        "title_ja": "妊娠糖尿病のレドックス構造：細胞ストレスエンジンからエピジェネティックおよびミトコンドリアの再配線まで",
+        "summary_ja": "妊娠糖尿病（GDM）を、酸化ストレスを機序的中心とする全身性疾患として再定位するレビュー。上流の遺伝的素因・妊娠前状態・環境曝露が病的レドックス不均衡を招き、tunneling nanotubesやexosomeを介した細胞間通信を含む新規経路でインスリン抵抗性と膵β細胞不全を引き起こす。下流では核内エピジェネティックプログラミングとミトコンドリア機能不全プログラミングを介し、母体の生物学的老化促進と子孫の多臓器疾患軌道をプログラムし「代謝記憶」を残す。レドックスバイオマーカーやマルチオミクスによる早期予測・精密介入の可能性を評価するが、妊婦での因果・介入検証は限定的。ライフコース枠組みへの統合がGDM由来の世代間代謝疾患伝播の遮断に寄与しうる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Impact of Repositioning the Latest Self-Expanding Valves During Transcatheter Aortic Valve Implantation Procedures.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42720679/",
+        "abstract": "Advances in transcatheter aortic valve implantation (TAVI) devices and techniques have been remarkable. Self-expanding valves (SEVs) possess the technical advantage of reposition (REP); however, research on their clinical impact remains limited.",
+        "source": "PubMed",
+        "doi": "10.1002/ccd.70857",
+        "keyword": "sEVs",
+        "title_ja": "経カテーテル大動脈弁植込み術中の最新の自己拡張型弁の再位置決めの影響",
+        "summary_ja": "TAVIデバイスと手技の進歩は目覚ましい。自己拡張型弁（SEV）は再配置（REP）という技術的利点を持つが、その臨床的影響に関する研究は限られている。本論文は、最新のSEVを用いたTAVI手技中における再配置の影響を検討したものである。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の論文から注目すべき5トピックを選定します。\n\n**1. MSC-sEVsによる脊髄損傷治療**：十分な前臨床データが蓄積され、臨床応用が検討される段階に到達。治療法が限られる脊髄損傷に対し、新たな再生医療の道を開く可能性がある。\n\n**2. miR-322/Klotho軸と早期卵巣不全**：miR-322がKlotho発現を抑制し顆粒膜細胞老化を促進。KlothoがPOFの治療標的となり得ることを示した点で重要。\n\n**3. NK細胞数によるENKTL予後予測の改善**：末梢血NK細胞数をPINKEモデルに統合し予後精度を向上。免疫バイオマーカーの臨床応用を促進する成果。\n\n**4. MSC-Exosによるアルツハイマー病治療**：血液脳関門通過、Aβ除去、神経炎症抑制など多標的効果が期待されるが、臨床応用には課題も残る。\n\n**5. エフェクター細胞動員二重特異性抗体**：T細胞・NK細胞・マクロファージを標的とする精密免疫療法の新プラットフォーム。がん治療の新展開として注目される。\n\n以上5領域は、再生医療・免疫療法・バイオマーカーの進展を示す重要な知見です。"
+}

@@ -1,0 +1,113 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Road to treatment-free remission in chronic myeloid leukemia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42726469/",
+        "abstract": "The development of BCR::ABL1 tyrosine kinase inhibitors (TKIs) has transformed chronic myeloid leukemia into a chronic disease with near-normal life expectancy. More recently, treatment-free remission (TFR), defined as sustained molecular remission even after TKI discontinuation, has emerged as a realistic therapeutic goal and a type of functional cure. Landmark studies, including STIM1, A-STIM, EURO-SKI, ENESTfreedom, DADI, and J-SKI, have established the feasibility and safety of TFR. Their results showed that approximately half of eligible patients can successfully discontinue therapy. However, the reliable prediction of TFR success remains a major challenge. Accumulating evidence indicates that durable TFR reflects a dynamic equilibrium between residual leukemic stem cells (LSCs) and host immune surveillance. Natural killer cells and T-cell immunity contribute to maintaining remission after TKI discontinuation. Conversely, immune exhaustion and the persistence of LSCs are associated with molecular relapse. Emerging biomarkers, including immune profiling, immunogenetic markers, and minimal residual disease kinetics, may improve relapse-risk stratification. To increase the proportion of patients who achieve durable TFR, future efforts should focus on the development of risk-adapted consolidation strategies incorporating optimized TKI therapy, immune modulation, and LSC-targeted approaches.",
+        "source": "PubMed",
+        "doi": "10.1007/s12185-026-04278-z",
+        "keyword": "NK cell therapy",
+        "title_ja": "慢性骨髄性白血病における無治療寛解への道",
+        "summary_ja": "BCR::ABL1チロシンキナーゼ阻害薬（TKI）により慢性骨髄性白血病は慢性疾患化し、TKI中止後も分子寛解が持続するtreatment-free remission（TFR）が機能的治癒として現実的な目標となった。STIM1やEURO-SKI等の主要試験でTFRの実現性と安全性が示され、適格患者の約半数が中止に成功する。しかし成功予測は依然困難である。TFR維持は残存白血病幹細胞（LSC）と宿主免疫監視の動的均衡を反映し、NK細胞やT細胞免疫が寄与する一方、免疫疲弊やLSC残存は分子再発と関連する。免疫プロファイリングや免疫遺伝学的マーカー、微小残存病変動態などのバイオマーカーが再発リスク層別化を改善しうる。今後の課題は、最適化TKI療法、免疫調節、LSC標的戦略を組み合わせたリスク適応型地固め療法の開発である。"
+      },
+      {
+        "title": "Integrated molecular and immune profiling identifies FOXA1 as a complementary co-target to MUC1 for bispecific immunotherapy in breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42726297/",
+        "abstract": "In breast cancer immunotherapy, Mucin 1 (MUC1) is a well-established target with promising preclinical results; however, single targeting of MUC1 has demonstrated limited efficacy in clinical trials, largely due to tumor heterogeneity, diverse glycosylation patterns, and an immunosuppressive TME. Identification of complementary co-targets enables bi-specific or dual-target immunotherapy, limiting antigen escape, improving specificity, and reducing relapse. Here, we employed a comprehensive multi-layered analytical approach to evaluate MUC1 expression, clinical relevance, and methylation status, followed by systematic screening of MUC1-correlated genes. Antigenicity prediction and protein-protein interaction analyses identified Forkhead Box A1 (FOXA1) as a potential functional partner. Expression analysis revealed concordant patterns of MUC1 and FOXA1 across breast cancer samples, while network mapping demonstrated shared interactions with adhesion-associated proteins, including CTNNB1, CTNND1, and CDH1, suggesting roles in epithelial organization and tumor progression. Further validation using gene expression datasets from Indian breast cancer cohorts confirmed consistent expression and correlation patterns, supporting reproducibility across populations. Immune profiling revealed an inverse association between MUC1-FOXA1 co-expression and immune-related gene signatures, with high co-expression linked to reduced infiltration of dendritic cells, CD4⁺ and CD8⁺ T cells, macrophages, and natural killer cells, indicative of an immunosuppressive microenvironment. Negative correlations with MHC Class I genes further suggested impaired antigen presentation. Epitope prediction identified high-affinity peptides from both targets with strong MHC Class I binding potential. Collectively, these findings support the associated role of MUC1 and FOXA1 as dual immunotherapeutic targets in breast cancer.",
+        "source": "PubMed",
+        "doi": "10.1007/s10142-026-02030-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "統合的な分子および免疫プロファイリングにより、乳がんにおける二重特異性免疫療法のMUC1に対する補完的な共標的としてFOXA1が同定された。",
+        "summary_ja": "乳癌免疫療法においてMUC1は有望な標的だが、単独標的化は腫瘍不均一性、多様な糖鎖修飾、免疫抑制的TMEにより臨床試験で限定的な効果しか示していない。本研究ではMUC1の発現・臨床的関連性・メチル化状態を多層的に解析し、MUC1相関遺伝子をスクリーニングした。抗原性予測とタンパク質間相互作用解析によりFOXA1が機能的パートナーとして同定された。両者は乳癌検体で一致した発現パターンを示し、CTNNB1、CTNND1、CDH1などの接着関連タンパク質と共通の相互作用を持ち、上皮組織化と腫瘍進展への関与が示唆された。インド人コホートのデータセットでも再現性が確認された。免疫プロファイリングではMUC1-FOXA1共発現と免疫関連遺伝子シグネチャーの逆相関が認められ、高共発現は樹状細胞、CD4⁺・CD8⁺T細胞、マクロファージ、NK細胞の浸潤低下と関連し、免疫抑制的微小環境を示した。MHCクラス"
+      },
+      {
+        "title": "NK and CIK Cells in Hematologic Malignancies: Comparative Mechanisms, Clinical Evidence, and Translational Perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42723209/",
+        "abstract": "Hematologic malignancies remain a major cause of morbidity and mortality despite advances in chemotherapy, targeted therapies, and hematopoietic stem cell transplantation. Adaptative cell therapy has emerged as a promising approach, in which natural killer (NK) and cytokine-induced killer (CIK) cells appear as potentially complementary effective platforms.",
+        "source": "PubMed",
+        "doi": "10.1080/08820139.2026.2713766",
+        "keyword": "NK cell therapy",
+        "title_ja": "血液恶性肿瘤中的NK细胞与CIK细胞：机制比较、临床证据及转化前景",
+        "summary_ja": "血液悪性腫瘍は化学療法や造血幹細胞移植の進歩にもかかわらず、依然として罹患率・死亡率の主要因である。適応細胞療法が有望なアプローチとして台頭し、その中でNK細胞とCIK細胞は相補的に機能しうる有効なプラットフォームとして注目されている。本論文は両者の作用機序、臨床エビデンス、トランスレーショナルな展望を比較検討する。"
+      },
+      {
+        "title": "Clinical translation of senescence-related pan-cancer multi-omics: tools for assessment and immunotherapy prediction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42722723/",
+        "abstract": "Cellular senescence (CS) exerts dual roles in tumorigenesis, yet its pan-cancer molecular characteristics and clinical value remain unclear, hindering its translation to oncology and personalized therapy. To address the lack of specific and universal tools for senescence assessment and immunotherapy response prediction, this study systematically analyzed 1259 CS-related genes from the CellAge database across 31 cancer types by integrating multi-omics data, including bulk RNA-seq, single-cell/spatial transcriptomics, and CRISPR screening. We developed a rank-based algorithm SenScoreR (publicly available at https://gxhub.shinyapps.io/SenScoreR/ ) for senescence quantification, validated with 10 independent datasets, and constructed a machine learning-based predictive model CS.Sig for immunotherapy response. Results showed that tumors had significantly lower Rank-based Senescence Score (RSS) than normal tissues across 31 cancers (average diagnostic AUC = 0.895), with low RSS linked to poor survival; high RSS correlated with reduced genomic instability, enriched CD8⁺ T/NK cell/macrophage infiltration, upregulated PD-L1 expression, and elevated immune cytolytic activity. CS.Sig demonstrated robust performance in predicting ICI response (AUC = 0.716 across 10 cohorts), outperforming 13 existing signatures, while CRISPR screening identified 17 senescence-related targets (e.g., CEP55, PPP1CC) whose knockout enhanced anti-tumor immunity. Our findings clarify CS's role in maintaining tumor genomic stability and shaping immune microenvironments, and the developed SenScoreR, CS.Sig, and identified targets bridge basic CS research with clinical oncology, providing a translational resource and hypothesis basis for future experimental and clinical validation.",
+        "source": "PubMed",
+        "doi": "10.1038/s41417-026-01080-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "衰老相关泛癌多组学的临床转化：评估与免疫治疗预测工具",
+        "summary_ja": "細胞老化（CS）は腫瘍形成に二面的役割を果たすが、汎がん分子特性と臨床的価値は不明である。本研究はCellAgeデータベースの1259 CS関連遺伝子を31がん種でマルチオミクス解析し、老化定量アルゴリズムSenScoreRと免疫療法応答予測モデルCS.Sigを開発した。腫瘍は正常組織よりRSSが低く（AUC=0.895）、低RSSは予後不良、高RSSはゲノム不安定性低下、CD8⁺T/NK細胞・マクロファージ浸潤、PD-L1発現、免疫細胞傷害活性と相関した。CS.SigはICI応答予測でAUC=0.716と既存13署名を上回り、CRISPRスクリーニングでCEP55等17標的を同定した。SenScoreR、CS.Sig、標的はCS研究と臨床腫瘍学を橋渡しする。"
+      },
+      {
+        "title": "Peripheral CD8⁺ T-cell clonality and NK-cell expansion mark early response to mosunetuzumab in indolent B-cell lymphoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42721466/",
+        "abstract": "Mosunetuzumab is highly effective against many B-cell lymphomas, but longitudinal immune changes induced by intermittently dosed CD20×CD3 bispecific antibodies remain incompletely characterized. We performed immune profiling of peripheral blood samples from patients receiving fixed-duration (6 months) subcutaneous mosunetuzumab for previously untreated follicular or marginal zone lymphoma on a phase 2 clinical trial (NCT04792502). Analyses included flow cytometry, cytokine profiling, and RNA-seq of isolated CD8+ T-cells with TCR repertoire inference. Early (at 3 weeks) on-treatment samples showed broad cytokine induction, CD8+ T-cell redistribution with decreased TEMRA cells and increased CD27+CD62L+ transitional effector memory-like cells, increased PD-1 and LAG-3 expression, and induction of CD8+ transcriptional programs consistent with activation, proliferation, exhaustion priming, and SREBF2-regulated cholesterol metabolism. By mid-treatment (at 3 months), activation-associated features contracted toward baseline, with no evidence of phenotypic exhaustion, though with persistent overexpression of LAG3, HAVCR2, and LAYN on RNA-seq, as well as sustained SREBF2 activation. CD8+ T-cell clonality increased at mid-treatment compared with baseline and higher clonality was associated with early clinical complete response. Mosunetuzumab also induced indirect NK-cell activation and expansion, including skewing toward CD56dimCD16bright effector state. HLA-DR upregulation on NK cells correlated with early increases in NK-activating plasma cytokines, and higher NK-cell count at mid-treatment was associated with complete response. Together, these findings define a CD8+ effector-remodeling state on mosunetuzumab therapy, characterized by clonal expansion, selective inhibitory receptor expression, sustained activation of cholesterol biosynthesis, and cytokine-linked engagement of innate immune mechanisms, providing a framework for potential strategies to support T-cell function and enhance bispecific antibody efficacy.",
+        "source": "PubMed",
+        "doi": "10.1182/bloodadvances.2026021450",
+        "keyword": "NK cell therapy",
+        "title_ja": "末梢血CD8⁺ T細胞のクローン性とNK細胞の増殖は、惰性B細胞リンパ腫におけるモスネツズマブへの早期反応を示す。",
+        "summary_ja": "未治療の濾胞性・辺縁帯リンパ腫に対する皮下注mosunetuzumab（6ヵ月固定）第2相試験（NCT04792502）で末梢血免疫プロファイリングを実施。3週時点でサイトカイン誘導、TEMRA減少とCD27⁺CD62L⁺移行型メモリー様細胞増加、PD-1/LAG-3発現上昇、活性化・増殖・疲弊プライミング・SREBF2制御コレステロール代謝のCD8⁺転写プログラム誘導を認めた。3ヵ月時点で活性化関連特徴は基線方向へ収束し表現型疲弊はなかったが、LAG3・HAVCR2・LAYN高発現とSREBF2活性は持続。CD8⁺クローナリティは増加し、高いクローナリティは早期完全奏効と関連。NK細胞の間接的活性化・増殖とCD56dimCD16brightへの偏倚も認め、HLA-DR上昇はNK活性化サイトカイン増加と相関、3ヵ月時NK数高値は完全奏効と関連。CD8⁺エフェクター再構築状態を定義し、二重特"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Chimeric Antigen Receptor T Cell Targeting of Natural Killer Cells in Peripheral Blood and Tissues of Rhesus Macaques.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42725700/",
+        "abstract": "Natural killer (NK) cells lead a rapid and potent innate immune response following exposure to infectious agents, but their activity may also contribute to chronic inflammation and augmented disease pathogenesis. Previous reports have shown that Janus kinase 3 inhibitors or anti-IL-15 monoclonal antibodies potently deplete NK cells in nonhuman primates (NHPs). However, they also disrupt T cell homeostasis, making it difficult to use these reagents to delineate the nonredundant role of NK cells in NHPs. To induce the specific depletion of NK cells ",
+        "source": "PubMed",
+        "doi": "10.1177/10430342261486115",
+        "keyword": "NK cell therapy",
+        "title_ja": "キメラ抗原受容体T細胞によるアカゲザルの末梢血および組織中のナチュラルキラー細胞の標的化",
+        "summary_ja": "アカデミック要約をご希望とのこと、承知しました。以下が要約です。\n\nNK細胞は感染因子曝露後に迅速かつ強力な自然免疫応答を引き起こすが、慢性炎症や疾患増悪にも寄与しうる。従来、JAK3阻害薬や抗IL-15モノクローナル抗体が非ヒト霊長類（NHP）でNK細胞を強力に除去できることが示されているが、T細胞恒常性も破壊するため、NHPにおけるNK細胞の非冗長な役割の解明には不適切であった。そこでNK細胞の特異的除去を誘導するため、アカゲザルの末梢血および組織のNK細胞を標的とするキメラ抗原受容体（CAR）T細胞が検討された。\n\n（約250文字）"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **CMLのTFR**：TKI中止後も分子寛解が持続するtreatment-free remissionが機能的治癒として現実的目標に。STIM1等の予測因子解明が中止基準の標準化を促す。\n\n2. **乳癌MUC1×FOXA1二重特異性免疫療法**：MUC1単独標的の限界を克服するため、FOXA1を補完的共標的として同定。腫瘍不均一性への対処戦略として有望。\n\n3. **NK細胞とCIK細胞の比較**：血液悪性腫瘍に対し相補的に機能する適応細胞療法プラットフォーム。臨床エビデンスと翻訳的展望を整理し、併用設計の基盤を提供。\n\n4. **老化関連汎がんマルチオミクス**：SenScoreRによる老化定量と免疫療法応答予測ツールを開発。老化の二面性を臨床応用へ橋渡しする点が重要。\n\n5. **Mosunetuzumab早期応答マーカー**：CD8⁺T細胞クローン性とNK細胞拡張が奏効を予測。末梢血免疫プロファイリングによる個別化治療モニタリングの可能性を示す。\n\n（約290文字）"
+}

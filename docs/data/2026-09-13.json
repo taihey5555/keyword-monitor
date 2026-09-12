@@ -1,0 +1,160 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Abortive transcripts in exosomes - A potential biomarker for Alzheimer's disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42726720/",
+        "abstract": "Diagnosis of Alzheimer's disease (AD) relies on invasive cerebrospinal fluid analysis or costly neuroimaging, underscoring the need for minimally invasive blood-based biomarkers for early detection. Exosomes, promising biomarker carriers, are unexplored for ultra-short RNA species like abortive transcripts (ATs). We investigated whether 8-nucleotide ATs are selectively packaged into exosomes to reflect brain transcriptional dysregulation in AD. Using a transgenic AD mouse model and Aβ-stimulated BV2 microglia coupled with Base-Stacking Hybridization Assisted Ligation (BSHAL), we detected significant dysregulation of ATs from AD-relevant genes (Nefl, Bace1, Tyrobp, Ccl2, Pf4) in brain tissue; specifically, Bace1, Tyrobp, and Pf4 ATs showed robust increases (2.21-fold to 17.50-fold). These dysregulated AT signatures were mirrored in peripheral blood exosomes: Bace1, Tyrobp, and Pf4 ATs increased 10.58-, 38.72-, and 11.63-fold, respectively. Aβ-activated microglia demonstrated exosome-specific enrichment of ATs, particularly Pf4 ATs (~3510-fold increase), confirming active exosomal packaging. Exosomal ATs confer cell-type specificity for central nervous system pathology, lipid bilayer-enhanced stability, and sensitivity to transcriptional changes preceding pathological aggregation. Our findings, obtained in a transgenic mouse model and an in vitro microglial system, establish exosomal ATs as a novel class of blood-based biomarkers with potential for early AD diagnosis, pending validation in human cohorts.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.pone.0357752",
+        "keyword": "PF4",
+        "matched_keywords": [
+          "PF4",
+          "Exosomes"
+        ],
+        "title_ja": "エクソソーム中の不完全転写産物 - アルツハイマー病の潜在的バイオマーカー",
+        "summary_ja": "アルツハイマー病（AD）の診断は侵襲的な髄液検査や高価な神経画像に依存しており、血液ベースのバイオマーカーが求められている。本研究では、エクソソームに選択的に取り込まれる8ヌクレオチドのabortive transcripts（ATs）に着目した。ADモデルマウスとAβ刺激BV2ミクログリアを用い、BSHAL法で解析した結果、AD関連遺伝子（Nefl、Bace1、Tyrobp、Ccl2、Pf4）のATsが脳組織で有意に変動し、Bace1、Tyrobp、Pf4のATsは2.21～17.50倍に増加した。この変動は末梢血エクソソームにも反映され、各々10.58倍、38.72倍、11.63倍に増加した。Aβ活性化ミクログリアではPf4 ATsが約3510倍に濃縮され、エクソソームへの能動的取り込みが確認された。エクソソームATsは細胞種特異性、脂質二重層による安定性、病理的凝集に先行する転写変化"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "A cryptic symmetry switch allosterically controls how the PF4 self-protein turns into a pathogenic antigen.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42728255/",
+        "abstract": "The asymmetry of dimers-of-dimers formed by Platelet Factor 4 (PF4) renders this endogenous protein immunogenic, triggering autoimmune responses such as heparin-induced thrombocytopenia (HIT). Yet, the molecular basis of PF4 asymmetry has remained elusive. Here, we show that cryptic conformational switches control PF4 tetramer asymmetry and explain how a benign self-protein morphs into an immunogenic antigen, triggering a pathogenic autoimmune response. Mutations that target symmetry-switching sites stabilize a symmetric PF4 tetramer with markedly reduced affinity for HIT antibodies. These findings overturn the long-standing hypothesis that electrostatics alone drive PF4 asymmetry. Furthermore, stabilization of symmetric tetramers provides a conceptual framework for the robust conformational stratification of HIT antibodies, a persistent diagnostic challenge. Overall, our integrative model addresses key questions about the determinants of PF4 tetramer asymmetry and epitope exposure, suggesting a generalizable strategy for attenuating autoimmune responses by selectively stabilizing non‑immunogenic conformational states of self‑proteins rather than globally suppressing immunity.",
+        "source": "PubMed",
+        "doi": "10.1038/s41467-026-76387-6",
+        "keyword": "PF4",
+        "title_ja": "謎めいた対称性スイッチが、PF4自己タンパク質が病原性抗原へと変わる仕組みをアロステリックに制御する。",
+        "summary_ja": "血小板第4因子（PF4）が形成する二量体の二量体（dimer-of-dimers）の非対称性が、この内因性タンパク質を免疫原性にし、ヘパリン誘発性血小板減少症（HIT）などの自己免疫応答を引き起こす。本研究は、隠れたコンホメーションスイッチがPF4四量体の非対称性を制御し、良性の自己タンパク質が免疫原性抗原へと変化する仕組みを解明した。対称性スイッチ部位を標的とする変異は、HIT抗体への親和性が著しく低下した対称性PF4四量体を安定化させる。この知見は、静電相互作用のみがPF4非対称性を駆動するという長年の仮説を覆す。さらに、対称性四量体の安定化は、診断上の課題であるHIT抗体の堅牢なコンホメーション層別化の概念的枠組みを提供する。全体として、本統合モデルはPF4四量体非対称性とエピトープ露出の決定因子に関する重要課題に答えるものであり、免疫を全体的に抑制するのではなく、自己タンパク質の非"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Magnetically actuated nanoantennas for wireless glioblastoma therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42715333/",
+        "abstract": "Glioblastoma (GBM) remains a formidable clinical challenge, characterized by invasive growth, therapeutic resistance, and dismal patient survival. We report the development of HITMAN (highly localized electric field-induced tumor therapy using magnetically actuated nanoantennas), a wireless bioelectric therapy that selectively eradicates GBM cells with cellular precision. Magnetically actuated nanoantennas convert low-frequency (≤200 kHz), deep-brain-penetrant magnetic fields into localized electric fields, thereby triggering protein unfolding, membrane disruption, and ER stress. In vitro, HITMAN demonstrated superior efficacy compared to temozolomide (TMZ), significantly decreasing viability in drug-resistant, patient-derived GBM cells by 52.2%, versus 10% with TMZ while sparing neurons and astrocytes. Mechanistically, HITMAN activated the unfolded protein response and autophagy pathways, suppressed cell cycle and adhesion genes, reduced Ki-67 expression, disrupted cytoskeletal architecture, and elevated p53 levels, underscoring a multifaceted antitumor mechanism. In orthotopic mouse models, HITMAN significantly inhibited tumor growth, extended median survival by more than 50%, and exhibited no systemic toxicity. Thus, HITMAN offers a minimally invasive, spatially precise, and clinically translatable therapy for GBM.",
+        "source": "PubMed",
+        "doi": "10.1126/sciadv.aeb1237",
+        "keyword": "NK cell therapy",
+        "title_ja": "膠芽腫の無線治療のための磁気駆動ナノアンテナ",
+        "summary_ja": "膠芽腫（GBM）は浸潤性増殖と治療抵抗性から予後不良である。本研究では磁気駆動ナノアンテナを用いた局所電場誘導腫瘍療法「HITMAN」を開発した。低周波（≤200 kHz）の深部到達性磁場を局所電場に変換し、タンパク質のアンフォールディング、膜破壊、ERストレスを誘導する。in vitroでは薬剤抵抗性患者由来GBM細胞の生存率を52.2%減少させ、テモゾロミド（TMZ）の10%を上回り、神経細胞やアストロサイトは温存した。機構としてunfolded protein responseとautophagyを活性化し、細胞周期・接着遺伝子抑制、Ki-67減少、細胞骨格破壊、p53上昇を認めた。同所性マウスモデルで腫瘍増殖を抑制し、中央生存期間を50%以上延長、全身毒性はなかった。HITMANは低侵襲かつ空間精度の高い臨床応用可能なGBM治療である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "miR-138-5p suppresses M2 macrophage polarization in esophageal squamous cell carcinoma via exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42727836/",
+        "abstract": "Over 90% of esophageal cancer are defined as esophageal squamous cell carcinoma (ESCC) in China, while no specific and efficient strategies for ESCC therapy. In recent years, the regulatory role and effect of macrophages in cancer have received wide attention. In this study, high expression of RHOC and low expression of miR-138-5p was found in cancer tissues of ESCC, which was identified to enhance malignant phenotypes of ESCC cells. Notably, miR-138-5p was turned out to inhibit RHOC expression, and the decreased level of miR-138-5p in ESCC cells was figured out to promote M2 macrophage polarization mediated by exosomes via activating STAT3. Finally, exosomes derived from ESCC cells with low expression of miR-138-5p enhance malignant phenotypes of ESCC cells and tumor growth. Therefore, M2 macrophage polarization mediated by miR-138-5p-RHOC-STAT3 signal axis via exosomes promote ESCC progression. This study provides insights into pathogenesis of ESCC from the perspectives of cell-cell communications and M2 macrophage polarization, which may provide new targets for diagnosis and treatment of ESCC.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cellsig.2026.112861",
+        "keyword": "Exosomes",
+        "title_ja": "miR-138-5pはエクソソームを介して食道扁平上皮癌におけるM2マクロファージの分極を抑制する。",
+        "summary_ja": "中国の食道癌の90%以上は食道扁平上皮癌（ESCC）であり、有効な治療戦略は乏しい。本研究ではESCC癌組織でRHOC高発現とmiR-138-5p低発現を認め、これらが悪性形質を増強することが判明した。miR-138-5pはRHOC発現を抑制し、ESCC細胞でのmiR-138-5p低下はSTAT3活性化を介してエクソソームによるM2マクロファージ極性化を促進した。miR-138-5p低発現ESCC細胞由来エクソソームはESCC細胞の悪性形質と腫瘍増殖を亢進させた。すなわちmiR-138-5p-RHOC-STAT3シグナル軸によるエクソソーム媒介性M2マクロファージ極性化がESCC進展を促進する。本研究は細胞間コミュニケーションとM2マクロファージ極性化の観点からESCC病態に新知見を提供し、診断・治療の新規標的となり得る。"
+      },
+      {
+        "title": "AT1R-mediated NIR-II/PA imaging-guided iCM exosome therapy for myocardial ischemia revascularization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42726851/",
+        "abstract": "Ischemic heart disease remains a leading cause of global mortality, primarily driven by myocardial infarction and subsequent ischemia-reperfusion injury (MI/RI) following coronary artery occlusion. This highlights a critical unmet clinical need for integrated strategies that enable both timely intervention during the acute phase and precise postinjury assessment of myocardial damage. Here, we report a theranostic platform based on a dual-modality near-infrared II fluorescence and photoacoustic imaging probe targeting the angiotensin II type 1 receptor (AT1R). The system is coloaded with losartan and exosomes derived from induced pluripotent stem cell-derived cardiomyocytes (iCMs), enabling noninvasive, high-resolution visualization and evaluation of myocardial injury. Under imaging guidance, this platform allows spatially precise delivery of therapeutics, thereby integrating the antifibrotic and anti-inflammatory effects of AT1R blockade with the regenerative paracrine signaling mediated by iCM-derived exosomes. The synergistic therapeutic efficacy of this system was systematically validated in established mouse and rat models of MI/RI, demonstrating enhanced angiogenesis, attenuation of fibrosis, and improved cardiac functional recovery. Collectively, this study establishes a multifunctional platform that integrates diagnosis and therapy, providing a promising strategy for the precise management of MI/RI.",
+        "source": "PubMed",
+        "doi": "10.1126/sciadv.aef1504",
+        "keyword": "Exosomes",
+        "title_ja": "AT1Rを介したNIR-II/PAイメージングガイド下のiCMエクソソーム療法による心筋虚血の血行再建",
+        "summary_ja": "虚血性心疾患は世界的な死亡原因の上位を占め、心筋梗塞とそれに続く虚血再灌流障害（MI/RI）が主因である。本研究では、アンジオテンシンII 1型受容体（AT1R）を標的とした近赤外II蛍光/光音響（NIR-II/PA）デュアルモダリティイメージングプローブを基盤とするセラノスティックプラットフォームを報告する。ロサルタンとiPS細胞由来心筋細胞（iCM）エクソソームを共搭載し、心筋障害の非侵襲的・高解像度可視化を可能にする。イメージングガイド下でAT1R遮断の抗線維化・抗炎症作用とiCMエクソソームの再生性パラクラインシグナルを統合し、空間的に精密な治療薬送達を実現する。マウス・ラットMI/RIモデルで血管新生促進、線維化抑制、心機能回復改善が実証された。本研究は診断と治療を統合した多機能プラットフォームを確立し、MI/RIの精密管理への有望な戦略を提供する。"
+      },
+      {
+        "title": "Exosomal miR-484 impairs CD8 ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42726604/",
+        "abstract": "Sepsis induces profound CD8 ",
+        "source": "PubMed",
+        "doi": "10.3724/abbs.2026107",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームmiR-484はCD8を障害する",
+        "summary_ja": "敗血症はCD8⁺T細胞の機能障害を引き起こすが、その機序は不明な点が多い。本研究では、敗血症患者およびマウスモデルにおいて、エクソソーム由来miR-484がCD8⁺T細胞の機能を障害することが示された。敗血症ではエクソソーム中のmiR-484が増加し、これがCD8⁺T細胞に取り込まれると、標的遺伝子を抑制して増殖・サイトカイン産生・細胞傷害活性を低下させた。miR-484の阻害によりCD8⁺T細胞機能は回復し、敗血症マウスの生存率も改善した。以上より、エクソソームmiR-484は敗血症におけるCD8⁺T細胞疲弊の新たな制御因子であり、治療標的となり得る。"
+      },
+      {
+        "title": "HDCA suppresses exosomal lncRNA MSTRG171708 release to inhibit Treg-mediated immunometabolism in hepatocellular carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42726156/",
+        "abstract": "Hepatocellular carcinoma (HCC) exhibits poor patient outcomes due to its propensity for metastasis, yet the mechanisms linking metabolic dysregulation and immune evasion remain unclear. This study reveals that reduced hyodeoxycholic acid (HDCA) levels, coupled with elevated tumor-derived extracellular vesicles (EVs) carrying the long non-coding RNA MSTRG171708, correlate with aggressive HCC progression and enhanced lung metastasis. Mechanistically, MSTRG171708-enriched EVs are internalized by regulatory T (Treg) cells, stabilizing the HIF-1α/PKM2/PHD3 axis and triggering a metabolic shift toward glycolysis, thereby augmenting Treg migratory capacity and fostering an immunosuppressive microenvironment conducive to metastasis. Furthermore, HDCA suppresses EVs release by transcriptionally downregulating RAB27 and SNAP23, key mediators of exosome biogenesis, and effectively curtails metastatic burden in vivo. Clinically, high MSTRG171708 levels in HCC patients are associated with decreased HDCA levels and increased Treg infiltration. These findings establish HDCA-mediated regulation of EVs trafficking as a critical link between epigenetic modulation and immunometabolic reprogramming, proposing HDCA restoration as a novel therapeutic strategy to impede HCC metastasis.",
+        "source": "PubMed",
+        "doi": "10.1186/s43556-026-00550-0",
+        "keyword": "Exosomes",
+        "title_ja": "HDCAはエクソソームlncRNA MSTRG171708の放出を抑制し、肝細胞癌におけるTreg媒介性の免疫代謝を阻害する。",
+        "summary_ja": "肝細胞癌（HCC）は転移傾向により予後不良だが、代謝異常と免疫回避を結ぶ機序は不明であった。本研究は、ヒオデオキシコール酸（HDCA）の減少と、長鎖非コードRNA MSTRG171708を運ぶ腫瘍由来細胞外小胞（EVs）の増加が、HCCの進行と肺転移を促進することを示す。MSTRG171708含有EVsは制御性T（Treg）細胞に取り込まれ、HIF-1α/PKM2/PHD3軸を安定化し、解糖系への代謝シフトを誘導することでTregの遊走能を高め、免疫抑制性微小環境を形成する。さらにHDCAは、エクソソーム生合成の鍵因子RAB27とSNAP23を転写抑制しEVs放出を阻害、in vivoで転移を抑制する。臨床的にもMSTRG171708高値はHDCA低値・Treg浸潤増加と相関する。HDCAによるEVs輸送制御がエピジェネティクスと免疫代謝リプログラミングを結ぶ鍵であり、HDCA補充が新規治"
+      },
+      {
+        "title": "Resveratrol-loaded human dental pulp stem cell-derived exosomes enhance the efficacy of blue LED-mediated antimicrobial photodynamic therapy against mature cariogenic biofilms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42726144/",
+        "abstract": "Antimicrobial photodynamic therapy (aPDT) is a promising adjunctive approach for biofilm-associated oral diseases, though the poor stability and bioavailability of natural photosensitizers remain limiting factors. This study evaluated the anti-biofilm efficacy of resveratrol-loaded human dental pulp stem cell-derived exosomes (Res@hDPSC-Exos) activated by blue LED irradiation against mature cariogenic biofilms. hDPSC-Exos were isolated, characterized, and loaded with resveratrol; physicochemical properties, encapsulation efficiency, and exosomal integrity were assessed by TEM, DLS, and CD63 expression. Mature Streptococcus mutans and Lactobacillus acidophilus biofilms were established on human enamel specimens. The minimum biofilm reduction concentration (MBRC) of Res@hDPSC-Exos and minimum biofilm reduction dose (MBRD) of blue LED were determined, and biofilms were treated according to six groups: untreated control, free resveratrol, empty hDPSC-Exos, blue LED alone, and Res@hDPSC-Exos-mediated aPDT at 1/2× and 1/4×MBRC. Biofilm biomass, metabolic activity, and gtfB/slpA virulence gene expression were assessed by crystal violet staining, XTT assay, and qRT-PCR, respectively. Resveratrol was successfully encapsulated into hDPSC-Exos (encapsulation efficiency ≈ 63%) without compromising vesicle morphology or membrane integrity. The MBRC of Res@hDPSC-Exos was 250 µg/mL for S. mutans and 125 µg/mL for L. acidophilus, and the MBRD of blue LED was 300 s for both species. Free resveratrol, empty hDPSC-Exos, and blue LED alone produced only modest, non-significant effects (≈ 5-15%, P > 0.05). In contrast, Res@hDPSC-Exos-mediated aPDT at 1/2×MBRC with sub-MBRD irradiation (240 s) significantly reduced biofilm biomass (84.7% and 75.2%) and metabolic activity (88.9% and 85.0%) in S. mutans and L. acidophilus, respectively (P < 0.001), and downregulated gtfB and slpA expression to 0.15-fold and 0.19-fold of controls (P < 0.001). Res@hDPSC-Exos-mediated aPDT effectively suppressed biofilm growth, metabolic activity, and virulence gene expression in mature cariogenic biofilms under conservative irradiation conditions. Given the minimal activity of the individual components relative to the combined treatment, exosome-assisted delivery may contribute to enhancing the photodynamic performance of resveratrol; however, as this study did not directly compare free resveratrol- and exosome-mediated aPDT under identical conditions, this interpretation should be regarded as preliminary. Further in vivo, clinical, and comparative studies are warranted to confirm its translational potential.",
+        "source": "PubMed",
+        "doi": "10.1007/s10103-026-05024-x",
+        "keyword": "Exosomes",
+        "title_ja": "レスベラトロールを搭載したヒト歯髄幹細胞由来エクソソームは、成熟したう蝕原性バイオフィルムに対する青色LED媒介抗菌光線力学療法の有効性を高める。",
+        "summary_ja": "Resveratrolを封入したヒト歯髄幹細胞由来exosome（Res@hDPSC-Exos）とblue LEDによる抗菌光線力学療法（aPDT）の成熟齲蝕原性バイオフィルムへの効果を検討した。Resveratrolは封入効率約63%でexosomeに封入され、形態・膜整合性も維持された。S. mutansおよびL. acidophilusバイオフィルムに対し、1/2×MBRC・240秒照射のaPDTはバイオマスを84.7%・75.2%、代謝活性を88.9%・85.0%有意に抑制し、gtfB・slpA発現も0.15倍・0.19倍に低下させた（P<0.001）。単独成分の効果は軽微であり、exosome支援送達がresveratrolの光力学性能を高める可能性があるが、直接比較未実施のため予備的解釈であり、in vivo・臨床研究が望まれる。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Vectors Trgeting Hepatocyte: Reconstructive Umbilical Cord Mesenchymal Stem Cell-Derived Exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42726456/",
+        "abstract": "Specific binding of the hepatitis B virus (HBV) pre-S1 protein to Na",
+        "source": "PubMed",
+        "doi": "10.1007/s13770-026-00826-0",
+        "keyword": "Exosomes",
+        "title_ja": "肝細胞を標的とするベクター：再構築型臍帯間葉系幹細胞由来エクソソーム",
+        "summary_ja": "HBV pre-S1タンパク質とNa⁺-タウロコール酸共輸送体（NTCP）の特異的結合を利用し、肝細胞標的型の再構築臍帯間葉系幹細胞由来エクソソームを作製した研究。NTCPはHBVの肝細胞侵入受容体であり、pre-S1との結合が感染の鍵となる。この機序を応用し、肝細胞へ選択的に送達するベクターとしてエクソソームを改変した。肝疾患治療への応用が期待される。"
+      },
+      {
+        "title": "Obesity Increases Atherosclerosis Susceptibility via an Intertissue miR-30e-SLC7A11 Axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42723603/",
+        "abstract": "With obesity as a risk factor for atherosclerotic disease, recent research suggests that adipose tissue in obese animal models and humans can generate endocrine-like molecules that affect arterial health. Previous studies showed that microRNA-30e (miR-30e) levels are elevated in atherosclerosis and solute carrier family 7 member 11 (SLC7A11), a cystine/glutamate transporter, is involved in atherogenesis. However, whether an endocrine-like link between the adipose-derived miR-30e-5p and SLC7A11 in the vascular endothelium can lead to obesity-caused atherosclerosis is unknown.",
+        "source": "PubMed",
+        "doi": "10.1161/CIRCRESAHA.126.328493",
+        "keyword": "Exosomes",
+        "title_ja": "肥満は組織間miR-30e-SLC7A11軸を介してアテローム性動脈硬化感受性を高める。",
+        "summary_ja": "肥満は動脈硬化性疾患のリスク因子であり、肥満モデルやヒトの脂肪組織が動脈の健康に影響する内分泌様分子を産生することが示唆されている。先行研究で、microRNA-30e（miR-30e）は動脈硬化で上昇し、シスチン/グルタミン酸トランスポーターであるSLC7A11はアテローム形成に関与することが報告されている。しかし、脂肪由来miR-30e-5pと血管内皮のSLC7A11の間の内分泌様連関が、肥満による動脈硬化を引き起こすかは不明であった。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **エクソソームATsによるAD血液診断**：8ヌクレオチドのabortive transcriptsがエクソソームに選択的に取り込まれる点を利用。侵襲的検査に代わる低侵襲バイオマーカーとして有望で、早期診断・治療介入への展開が期待される。\n\n2. **PF4の対称性スイッチとHIT**：PF4二量体の非対称構造が免疫原性を生む機構を解明。HIT発症予測や自己免疫制御、治療標的設計に重要な知見。\n\n3. **磁気駆動ナノアンテナによるGBM治療**：低周波磁場を局所電場に変換し腫瘍を攻撃。深部到達性と非侵襲性を両立し、難治性脳腫瘍の新治療として注目。\n\n4. **エクソソームmiR-138-5pとESCC**：M2マクロファージ极化を抑制し腫瘍悪性化を制御。miRNA搭載エクソソーム治療の可能性を示す。\n\n5. **AT1R標的iCMエクソソーム心筋治療**：NIR-II/PA画像誘導で虚血再灌流障害へ精密送達。画像ガイド型エクソソーム療法の実用化に道を開く。\n\n全体として、エクソソーム診断・治療と分子機構解明が急速に進展しています。"
+}

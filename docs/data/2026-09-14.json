@@ -1,0 +1,104 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Adrenergic stimulation of bone marrow immunity differentially affects myeloma growth and immunotherapy responses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42641866/",
+        "abstract": "Adrenergic signaling regulates immune homeostasis through neuroendocrine pathways, but its role in hematologic malignancies remains poorly understood. Multiple myeloma (MM) originates in the bone marrow (BM), a highly innervated niche where neural, immune, and stromal signals are integrated. Whether adrenergic stimulation shapes BM immunity and influences myeloma progression is unclear. Using the 5T33MM mouse model, we investigated how adrenergic activation affects tumor growth and the BM immune landscape. Sustained adrenergic signaling was induced in vivo, while pharmacological β-adrenergic stimulation was used to assess effects on tumor-immune interactions. Immune composition and tumor burden were analyzed in BM and spleen, β",
+        "source": "PubMed",
+        "doi": "10.1016/j.canlet.2026.218802",
+        "keyword": "NK cell therapy",
+        "title_ja": "アドレナリン作動性の骨髄免疫刺激は骨髄腫の増殖と免疫療法への反応に異なる影響を及ぼす。",
+        "summary_ja": "アドレナリン作動性シグナルは神経内分泌経路を介して免疫恒常性を制御するが、血液悪性腫瘍における役割は不明である。多発性骨髄腫（MM）は神経支配の豊富な骨髄（BM）ニッチに由来し、神経・免疫・間質シグナルが統合される。アドレナリン作動性刺激がBM免疫を形成し骨髄腫進行に影響するかは不明であった。5T33MMマウスモデルを用い、アドレナリン作動性活性化が腫瘍増殖とBM免疫景観に及ぼす影響を検討した。in vivoで持続的アドレナリン作動性シグナルを誘導し、薬理学的βアドレナリン作動性刺激で腫瘍免疫相互作用への効果を評価した。BMと脾臓で免疫組成と腫瘍量を解析した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Metabolic regulation of tumor angiogenesis in colorectal cancer: mechanisms and therapeutic opportunities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42731766/",
+        "abstract": "Colorectal cancer (CRC) progression is closely linked to abnormal vascular remodeling. Tumor vessels are structurally disorganized and poorly perfused, creating spatially heterogeneous regions of hypoxia and nutrient deprivation. These conditions reshape tumor metabolism by increasing glycolysis, glutamine utilization, and lipid metabolic plasticity. Metabolic changes, in turn, alter endothelial function and the surrounding tumor microenvironment through lactate accumulation, lipid-derived mediators, amino acid metabolism, and extracellular vesicle-mediated signaling. This reciprocal interaction contributes to vascular instability, impaired drug delivery, immune suppression, and treatment resistance. The VEGF pathway remains the principal therapeutic target in CRC angiogenesis. However, the benefits of anti-VEGF agents are often temporary because tumors activate alternative vascular programs and adapt metabolically to reduced blood supply. Hypoxia-induced HIF signaling is central to this response, but resistance also involves enhanced glycolysis, redox adaptation, lipid remodeling, amino acid metabolism, and communication among tumor, endothelial, stromal, and immune cells.In this review, we examine how metabolic reprogramming regulates angiogenesis in CRC and how vascular dysfunction, in turn, shapes tumor metabolism. We focus on endothelial metabolism, the glycolysis-lactate axis, amino acid and lipid metabolism, vitamin- and cofactor-dependent pathways, and exosomal non-coding RNAs. We also discuss how these mechanisms contribute to resistance to anti-angiogenic therapy and assess the rationale for combining vascular and metabolic interventions. A better understanding of this metabolic-vascular interaction may help identify more durable therapeutic strategies for CRC.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbcan.2026.189713",
+        "keyword": "Exosomes",
+        "title_ja": "大腸がんにおける腫瘍血管新生の代謝調節：メカニズムと治療の可能性",
+        "summary_ja": "大腸癌（CRC）では血管リモデリング異常が進行と密接に関連する。腫瘍血管は構造が乱れ灌流不良のため、低酸素・栄養欠乏域が不均一に生じ、解糖系・グルタミン利用・脂質代謝可塑性が亢進する。代謝変化は乳酸蓄積、脂質由来メディエーター、アミノ酸代謝、細胞外小胞シグナルを介し内皮機能と腫瘍微小環境を修飾する。この相互作用は血管不安定性、薬剤送達障害、免疫抑制、治療抵抗性をもたらす。VEGF経路はCRC血管新生の主要標的だが、抗VEGF療法の効果は一時的で、腫瘍は代替血管プログラムや代謝適応により抵抗性を示す。低酸素誘導性HIFシグナルが中心的だが、解糖系亢進、酸化還元適応、脂質リモデリング、アミノ酸代謝、腫瘍・内皮・間質・免疫細胞間通信も関与する。本レビューは代謝リプログラミングと血管新生の相互制御、内皮代謝、解糖系-乳酸軸、アミノ酸・脂質代謝、ビタミン・補因子依存経路、エクソソーム非コードRNAを"
+      },
+      {
+        "title": "Reprogramming PD-L1 endosomal recycling and lysosomal degradation via engineered exosome-based nanocomposites overcomes immune resistance in lung cancer brain metastasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42729718/",
+        "abstract": "While ",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103628",
+        "keyword": "Exosomes",
+        "title_ja": "工学設計されたエクソソームベースのナノ複合体によるPD-L1のエンドソームリサイクルおよびリソソーム分解の再プログラミングは、肺癌脳転移における免疫抵抗性を克服する。",
+        "summary_ja": "提供された内容が「While」で途切れているため、論文の全文を要約することができません。タイトルから推測できる範囲では、以下のような要約になります。\n\n**要約：**\n本論文は、工学設計したエクソソームベースのナノ複合体を用いて、PD-L1のエンドソームリサイクルを再プログラムし、リソソーム分解を促進することで、肺癌脳転移における免疫抵抗性を克服する手法を報告している。PD-L1の細胞内輸送経路を人為的に制御し、腫瘍細胞表面のPD-L1量を減少させることで、免疫チェックポイント阻害への抵抗性を改善する可能性を示した研究である。\n\n正確な要約には、本文の続きをご提供ください。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Balancing stability and cellular interaction in surface-engineered small extracellular vesicles for pulmonary delivery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42729759/",
+        "abstract": "Small extracellular vesicles (sEVs) are emerging as promising nanocarriers for non-invasive pulmonary drug delivery, yet their effectiveness is limited by sequential barriers imposed by airway mucus and the pulmonary epithelium-endothelium interface. Here, we investigated how post-secretory surface engineering with exogenous phospholipids modulates sEVs transport across lung-relevant barriers. eGFP-CD81 engineered sEVs were post-secretory modified at their surface composition using different lipid-to-vesicle ratios of either the zwitterionic lipid 1,2- Dilauroyl-sn-glycero-3-phosphocholine (DLPC) or the PEGylated lipid 1,2-Distearoyl-sn-glycero-3-phosphoethanolamine (DSPE) -PEG(5000) - Azide (DPA). Both modifications enabled controlled tuning of surface charge and colloidal stability without altering vesicle size at optimized lipid-to-vesicle ratios, although excessive DPA induced aggregation. The physicochemical properties and transport behaviour of engineered sEVs were evaluated in a reconstituted mucin gel and a 3D pulmonary epithelial-endothelial co-culture model. In mucin-containing medium, lipid-engineered sEVs showed enhanced diffusion compared with unmodified vesicles, with DLPC at a 30,000:1 ratio providing the highest cumulative permeability, sustained apparent permeability coefficients, and more diffusive motion profiles, as confirmed by multiple particle tracking. In the 3D co-culture, the same modification achieved the greatest cumulative permeability and basolateral accumulation, indicating efficient transcellular passage, while DPA-functionalized vesicles displayed moderate permeability and predominant retention at the apical epithelial layer. Through fluorescently-labelling EVs, we confirmed that all formulations were internalized by apical cells, but only DLPC-engineered sEVs reached detectable levels in basolateral cells. Neither DLPC nor DPA affected cell viability or barrier morphology. Overall, our results identify DLPC at 30,000:1 as a lead formulation that balances mucus penetration and efficient crossing of the pulmonary barrier, while DPA is better suited for applications requiring strong epithelial engagement. Our findings highlight rational phospholipid engineering as a powerful approach to tailor sEVs-based nanomedicines for pulmonary delivery.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103637",
+        "keyword": "sEVs",
+        "title_ja": "肺送達のための表面工学修飾小型細胞外小胞における安定性と細胞相互作用のバランス",
+        "summary_ja": "細胞外小胞（sEVs）は肺への非侵襲的薬物送達の有望なナノキャリアだが、気道粘液と肺上皮-内皮界面の連続的バリアが有効性を制限する。本研究では、外因性リン脂質による分泌後表面工学が肺関連バリア輸送をどう調節するか検討した。eGFP-CD81改変sEVsを、両性イオン脂質DLPCまたはPEG化脂質DPAで表面修飾した。最適比率でサイズを変えず表面電荷とコロイド安定性を調整できたが、過剰DPAは凝集を誘発した。ムチンゲル中で脂質改変sEVsは未修飾より拡散が亢進し、DLPC 30,000:1が最高の累積透過性と拡散運動を示した。3D共培養では同修飾が最高の累積透過性と基底側蓄積を示し、DPAは中等度で頂端側に保持された。DLPC改変sEVsのみ基底側細胞で検出された。両脂質とも細胞生存率やバリア形態に影響しなかった。DLPC 30,000:1が粘液透過と肺バリア通過を両立する最適製剤であり、D"
+      },
+      {
+        "title": "Bacillus subtilis extracellular vesicles surface-displaying superoxide dismutase attenuate alcoholic liver injury by activating the Nrf2/HO-1 axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42728494/",
+        "abstract": "Alcoholic liver disease (ALD) represents a globally prevalent progressive hepatic disorder with continuously rising incidence. Its pathological mechanisms mainly stem from the direct toxic effects of alcohol metabolites, accompanied by aggravated oxidative stress, lipid overaccumulation and inflammatory infiltration.. While current therapies that act on these pathogenic mechanisms alleviate symptoms, they are often limited by gastrointestinal adverse effects and long-term hepatic metabolic burden. Bacterial extracellular vesicles (BEVs), emerging as natural carriers of bioactive molecules and mediators of intercellular communication, offer a novel hepatoprotective strategy against alcoholic liver injury. Superoxide dismutase (SOD), as a crucial antioxidant, has been extensively verified for its capacity to eliminate free radicals. Here, we leverage the advantages of BEVs and the multiple effects of SOD, utilizing surface display technology to locate SOD in Bacillus subtilis 168-derived EVs (termed SEVs). In vitro simulated digestive fluids experiment confirms the stability and digestive resistance of SEVs, while in vivo biodistribution assays demonstrate the liver-targeting capability. In ethanol-exposed hepatocytes, SEVs significantly attenuate reactive oxygen species (ROS) overproduction and lipid deposition. In a murine ALD model, SEVs administration reduces hepatic steatosis, serum transaminase levels, and inflammatory infiltration. Mechanistically, SEVs activate the Nrf2/HO-1 antioxidant pathway, a key regulator of cellular redox balance and inflammation, thereby counteracting oxidative damage and inflammatory reaction caused by alcohol stimulation. Notably, SEVs exhibit superior biocompatibility without inducing secondary hepatic burden. Our findings emphasize the dual advantages of SEVs as liver-targeted delivery vehicles and multifunctional liver-protective agents, highlighting their translational potential for ALD management.",
+        "source": "PubMed",
+        "doi": "10.1186/s40643-026-01112-6",
+        "keyword": "sEVs",
+        "title_ja": "枯草菌細胞外小胞の表面にスーパーオキシドジスムターゼを提示することで、Nrf2/HO-1軸を活性化しアルコール性肝障害を軽減する",
+        "summary_ja": "アルコール性肝疾患（ALD）は世界的に増加する進行性肝障害で、その病態はアルコール代謝物の直接毒性、酸化ストレス、脂質蓄積、炎症浸潤による。既存治療は消化器系副作用や肝代謝負担が課題である。本研究では、Bacillus subtilis 168由来細胞外小胞（BEVs）に表面提示技術でSuperoxide dismutase（SOD）を搭載したSEVsを開発した。SEVsは消化耐性と肝標的能を示し、エタノール曝露肝細胞でROS産生と脂質沈着を抑制した。マウスALDモデルで肝脂肪化、血清トランスアミナーゼ、炎症浸潤を軽減し、Nrf2/HO-1軸を活性化して酸化傷害と炎症に拮抗した。生体適合性も高く、ALD治療への応用が期待される。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **アドレナリン作動性シグナルと骨髄腫免疫療法**：骨髄ニッチでの神経-免疫-間質連関がMM増殖と治療応答を左右する可能性。ストレス制御が新規併用戦略に。\n\n2. **大腸癌の代謝-血管新生制御**：低酸素・代謝可塑性が異常血管を形成。代謝阻害と抗血管新生の併用に治療機会。\n\n3. **工学エクソソームによるPD-L1分解**：PD-L1のエンドソーム再循環を遮断し、肺癌脳転移の免疫抵抗を克服する新規ナノ治療。\n\n4. **肺送達用sEV表面工学**：粘液・上皮バリアを越える安定性と相互作用の最適化。吸入型sEV医薬の実現に重要。\n\n5. **Bacillus subtilis EVによるALD治療**：SOD表層提示でNrf2/HO-1活性化、酸化ストレス抑制。安全な経口EV治療の可能性。\n\n以上、神経免疫・代謝・EV工学・肺送達・微生物EVが交差する点が今後の焦点です。"
+}

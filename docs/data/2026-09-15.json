@@ -1,0 +1,134 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Clearance of p16-positive cardiac cells improves age-related cardiac remodeling in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42734482/",
+        "abstract": "Senescent cells are characterized by expression of markers like p16 and secretion of profibrotic and proinflammatory factors. The role of cellular senescence in age-related cardiac remodeling and dysfunction is incompletely understood. This study aimed to: (i) evaluate the effect of p16- positive cell clearance on cardiac function and structure in aging mice, and (ii) assess the role of different cardiac cell-types in the response. Hypertrophy markers, ion channels and calcium handling protein gene expression. Statistical analysis for all panels: one-way ANOVA followed by Tukey's test, significance level P<0.05 (N=6 for each group). Each point represents results from one mouse; bars and horizontal lines are means and SD. NK-ATTAC mice, permitting targeted clearance of p16-positive cells upon exposure to the dimerizing agent AP20187 (AP), were treated with AP or vehicle from 12 to 18 months of age. Cardiac function and structure were assessed with echocardiography, hemodynamics with a Millar catheter. p16-positive cells in various cardiac cell populations were analyzed with Fluorescence-Activated Cell Sorting (FACS) and immunofluorescence imaging. Echocardiography revealed significant attenuation of aging-associated increases in left ventricular mass to diameter at end-diastole (LVDd) and anterior wall thickness at end diastole (LVAWTd) in Aged-AP mice versus Aged-Vehicle. Diastolic dysfunction in vehicle mice normalized with AP treatment. FACS results indicated clearance of p16-positive fibroblasts with AP. Immunofluorescence imaging indicated reduced p16-positive fibroblasts and cardiomyocytes with AP, implicating them in the effects of p16-positive cell clearance on age-related cardiac remodeling. Exposure of cardiomyocytes to senescent fibroblast products led to upregulation of hypertrophy markers, pointing to paracrine effects on cardiomyocytes. This study highlights the potential contribution of senescent fibroblasts and cardiomyocytes to age-related cardiac remodeling. Modulating senescence might provide a new approach to age-related cardiac diseases like heart failure.",
+        "source": "PubMed",
+        "doi": "10.1113/EP093551",
+        "keyword": "NK cell therapy",
+        "title_ja": "p16陽性心臓細胞の除去はマウスの加齢関連心臓リモデリングを改善する。",
+        "summary_ja": "加齢マウスでp16陽性細胞を除去すると、心臓リモデリングが改善した。NK-ATTACマウスに12～18か月齢でAP20187を投与しp16陽性細胞を除去したところ、心エコーで左室質量/LVDd比やLVAWTdの加齢性増大が抑制され、拡張機能障害も正常化した。FACSと免疫蛍光でp16陽性線維芽細胞と心筋細胞の減少を確認。老化線維芽細胞の産物は心筋細胞の肥大マーカーを上昇させ、paracrine作用が示唆された。老化細胞、特に線維芽細胞と心筋細胞が加齢性心リモデリングに関与し、senescence制御が心不全治療の新戦略となり得る。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Advances in drug delivery systems for Osteoarthritis therapy: exosomes, microparticles, nanoparticles, and hydrogels.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42734879/",
+        "abstract": "Osteoarthritis is a debilitating chronic joint disorder characterized by cartilage degradation, inflammation, and pain. It significantly impacts the quality of life, particularly in elderly populations. Traditional treatment methods, such as local and systemic drug administration, are limited by poor drug retention, low therapeutic efficacy, and systemic side effects. Recent advancements in drug delivery systems have emerged as promising strategies to overcome these limitations, offering targeted and sustained therapeutic effects, including promoting chondrocyte proliferation and migration, reducing extracellular matrix degradation, and so on. This review highlights the progress in various innovative drug delivery systems, including exosomes, microparticles, nanoparticles, and hydrogels, which have shown promising results in preclinical studies. Exosomes, particularly those derived from mesenchymal stem cells, demonstrate significant potential in promoting cartilage repair, modulating inflammation, and facilitating cell communication. Microparticles composed of natural or synthetic polymers prolong intra-articular drug retention and provide controlled release. Stimuli-responsive nanoparticles, which react to pathological cues like reactive oxygen species, pH, and enzymes, allow precise drug release within the OA microenvironment. Hydrogels offer versatile platforms for sustained delivery and tissue scaffolding, with responsive systems adapting to joint conditions. Despite their promising preclinical results, challenges remain in standardization, manufacturing scalability, and long-term safety. The continued development and clinical translation of these advanced systems hold great potential to revolutionize osteoarthritis therapy by improving efficacy, reducing side effects, and promoting joint tissue regeneration.",
+        "source": "PubMed",
+        "doi": "10.1186/s11671-026-04925-8",
+        "keyword": "Exosomes",
+        "title_ja": "変形性関節症治療のための薬物送達システムの進歩：エクソソーム、マイクロ粒子、ナノ粒子、ヒドロゲル",
+        "summary_ja": "変形性関節症は軟骨破壊、炎症、疼痛を特徴とする慢性関節疾患である。従来の局所・全身投与は薬物保持性や有効性が低く、全身性副作用が問題となる。本レビューは、エクソソーム、マイクロ粒子、ナノ粒子、ヒドロゲルの薬物送達システム（DDS）の進歩を概説する。間葉系幹細胞由来エクソソームは軟骨修復や炎症調節に有望である。天然・合成ポリマー製マイクロ粒子は関節内滞留性と徐放性を高める。活性酸素種、pH、酵素に応答する刺激応答性ナノ粒子はOA微小環境で精密な薬物放出を可能にする。ヒドロゲルは持続的送達と組織足場を提供する。前臨床成績は有望だが、標準化、製造スケーラビリティ、長期安全性に課題が残る。"
+      },
+      {
+        "title": "Mesenchymal Stem Cell Therapy for Systemic Sclerosis: Current Evidence and Clinical Applications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42734780/",
+        "abstract": "Systemic sclerosis is a multisystem autoimmune disease characterized by immune dysfunction, vasculopathy, and progressive fibrosis, yet current therapies rarely address these pathogenic axes simultaneously. Mesenchymal stem cell therapy has gained increasing interest as a disease-modifying strategy because its therapeutic activity appears to depend largely on paracrine signaling rather than durable engraftment. Through these mechanisms, mesenchymal stem cells may suppress profibrotic fibroblast activation, recalibrate innate and adaptive immune responses, and enhance vascular repair. Cell-free approaches, particularly extracellular vesicles and exosome-based therapeutics, are further expanding the translational potential of this field by offering scalable alternatives to live cell administration. Early clinical studies of systemic infusion and local delivery for complications such as hand dysfunction (reduced grip strength, joint contracture, and impaired fine motor function) and digital vasculopathy have demonstrated feasibility, acceptable short-term safety, and encouraging signals in skin and vascular outcomes. Nevertheless, long term clinical benefit remains uncertain because published studies are few and heterogeneous in cell source, manufacturing and expansion protocols, dose, route, concomitant therapy, and endpoint selection. Progress in this area will require standardized potency frameworks, improved control of senescence and functional drift, phenotype-specific trial stratification, and harmonized outcome hierarchies across vascular and cutaneous domains. Integration of immune and vascular biomarkers as pharmacodynamic readouts, together with multicenter randomized controlled trials and long-term follow-up, will be essential for defining efficacy and advancing targeted cell-free therapeutic platforms in systemic sclerosis.",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11236-z",
+        "keyword": "Exosomes",
+        "title_ja": "全身性強皮症に対する間葉系幹細胞治療：現在のエビデンスと臨床応用",
+        "summary_ja": "全身性強皮症は免疫異常、血管障害、進行性線維化を特徴とする多臓器自己免疫疾患だが、既存治療はこれらの病態を同時に標的としにくい。間葉系幹細胞治療は、生着よりもパラクラインシグナルに依存して抗線維化、免疫再調整、血管修復を促す疾患修飾戦略として注目される。無細胞アプローチ、特に細胞外小胞やエクソソーム製剤は、生細胞投与に代わる拡張性の高い選択肢として可能性を広げている。全身投与や局所投与の初期臨床研究では、実行可能性、短期安全性、皮膚・血管転帰の有望な兆候が示された。しかし、研究数が少なく、細胞源、製造・培養、用量、投与経路、併用療法、評価項目が不均一なため、長期臨床効果は未確定である。今後は標準化されたポテンシー評価、老化・機能変動の制御、表現型別層別化、血管・皮膚領域の統合アウトカム、免疫・血管バイオマーカー、多施設無作為化比較試験と長期追跡が不可欠である。"
+      },
+      {
+        "title": "Circulating Exosomes Drive Persistent Neuronal Dysfunction in Post-Herpetic Neuralgia Patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42734212/",
+        "abstract": "Post-herpetic neuralgia (PHN) is a debilitating chronic pain condition persisting beyond 3 months after herpes zoster (HZ), yet the mechanisms driving the transition from acute viral injury to chronic neuropathic pain remain poorly characterized. We tested whether circulating exosomes are sufficient to drive sensory neuron dysfunction independent of direct varicella zoster virus infection.",
+        "source": "PubMed",
+        "doi": "10.1002/ana.78352",
+        "keyword": "Exosomes",
+        "title_ja": "循環エクソソームが帯状疱疹後神経痛患者における持続的な神経機能障害を引き起こす。",
+        "summary_ja": "帯状疱疹後神経痛（PHN）は、帯状疱疹（HZ）後3ヶ月以上持続する難治性慢性疼痛であるが、急性ウイルス損傷から慢性神経障害性疼痛への移行機序は不明である。本研究では、血中エクソソームが水痘帯状疱疹ウイルスの直接感染とは独立して感覚ニューロン機能障害を引き起こすのに十分かどうかを検証した。"
+      },
+      {
+        "title": "Biohybrid nanovesicle-mediated targeted delivery of HSP90 inhibitor for enhanced sorafenib therapy of hepatocellular carcinoma after radiofrequency ablation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42733862/",
+        "abstract": "Hepatocellular carcinoma (HCC) presents significant therapeutic challenges due to enhanced liver cancer stem cell (LCSC) stemness and sorafenib resistance after radiofrequency ablation (RFA). To address these limitations, biohybrid nanovesicles (hNVs) are prepared by fusing milk-derived exosomes with sorafenib-resistant LM3 cell membranes as nanovectors for targeted delivery of the HSP90 inhibitor alvespimycin (17-DMAG). The hNVs exhibit enhanced tumor-homing capability through homologous targeting, achieving 3.2-fold higher tumor accumulation compared to unmodified exosomes. RFA of HCC significantly upregulates the expression of HSP90, leading to enhanced LCSC stemness and sorafenib resistance. In vitro and in vivo studies demonstrate that 17-DMAG loaded hNVs (17-DMAG@hNVs) effectively suppress LCSC stemness by downregulating HSP90 and its downstream signal pathways (TGF-β/Smad3 and JAK/STAT3), thereby restoring sorafenib sensitivity. Therefore, 17-DMAG@hNVs remarkably enhance the therapeutic efficacy of sorafenib after RFA of HCC. The reversal of LCSC stemness by inhibiting HSP90 expression using 17-DMAG@hNVs provides a promising approach to overcome sorafenib resistance for enhanced therapy of HCC after RFA.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103641",
+        "keyword": "Exosomes",
+        "title_ja": "生物杂化纳米囊泡介导的HSP90抑制剂靶向递送用于增强射频消融后肝细胞癌的索拉非尼治疗",
+        "summary_ja": "肝細胞癌（HCC）では、ラジオ波焼灼術（RFA）後に肝がん幹細胞（LCSC）の幹細胞性亢進とソラフェニブ耐性が生じることが治療上の課題である。本研究では、乳由来エクソソームとソラフェニブ耐性LM3細胞膜を融合したバイオハイブリッドナノ小胞（hNVs）を作製し、HSP90阻害剤alvespimycin（17-DMAG）を標的送達した。hNVsは相同標的化により腫瘍集積性が3.2倍向上した。RFA後はHSP90発現が亢進し、LCSC幹細胞性とソラフェニブ耐性が増強する。17-DMAG@hNVsはHSP90および下流のTGF-β/Smad3、JAK/STAT3経路を抑制し、LCSC幹細胞性を低下させてソラフェニブ感受性を回復させた。これによりRFA後のHCCに対するソラフェニブ治療効果が著明に向上し、耐性克服の有望な戦略となる。"
+      },
+      {
+        "title": "Raman Spectroscopy of Extracellular Vesicles: Toward Clinical Photodiagnosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42732867/",
+        "abstract": "Raman spectroscopy provides specific chemical information about the proteins, lipids, nucleic acids, and metabolites associated with extracellular vesicles (EVs), making it a promising approach for non-invasive disease diagnosis. This review evaluates the applications of conventional Raman spectroscopy (RS), Raman Tweezers Spectroscopy (RTS), and Surface-Enhanced Raman Spectroscopy (SERS) in EV profiling. Diagnostic applications across major malignancies, including breast, lung, ovarian, osteosarcoma, oral, gastric, liver, pancreatic, and prostate cancers, are examined alongside emerging roles in neurodegenerative, cardiovascular, and haematological disorders. Direct SERS configurations measuring inherent vibrational signatures of EVs are distinguished from indirect setups utilizing functionalized nanotags, extrinsic Raman reporters, and biorecognition elements for targeted detection. Furthermore, the review considers microfluidic platforms for automated EV isolation and the application of artificial intelligence (AI) and machine learning (ML) architectures for automated spectral classification. Key translational bottlenecks are critically evaluated. The co-isolation of non-vesicular proteins and lipoproteins during ultracentrifugation compromises spectral reproducibility, while variations in acquisition parameters, preprocessing workflows, and isolation protocols limit inter-study comparisons. Overcoming these challenges will require standardized microfluidic purification, adherence to Minimal Information for Studies of Extracellular Vesicles (MISEV) reporting frameworks, and large prospective multicentre trials to validate clinical efficacy. Overall, this review provides a practical roadmap for developing Raman-based extracellular vesicle liquid biopsies for clinical translation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.pdpdt.2026.105647",
+        "keyword": "Exosomes",
+        "title_ja": "細胞外小胞のラマン分光法：臨床光診断に向けて",
+        "summary_ja": "Raman分光法は、細胞外小胞（EVs）のタンパク質・脂質・核酸・代謝物の化学情報を提供し、非侵襲的診断への応用が期待される。本レビューは、従来のRS、Raman Tweezers Spectroscopy（RTS）、Surface-Enhanced Raman Spectroscopy（SERS）によるEVプロファイリングを評価し、乳・肺・卵巣・骨肉腫・口腔・胃・肝・膵・前立腺がん等の悪性腫瘍、神経変性・心血管・血液疾患への応用を検討する。直接SERSと、機能化ナノタグ・外因性Ramanレポーター・生体認識素子を用いる間接SERSを区別し、マイクロ流体によるEV自動単離やAI・機械学習によるスペクトル分類も扱う。課題として、超遠心分離時の非小胞タンパク質・リポタンパク質の共単離による再現性低下、取得条件・前処理・単離法の差異による研究間比較の制限を指摘し、標準化マイクロ流体精製、MISE"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Skin organoid-derived exosomes in a hydrogel system potentiate skin wound healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42733753/",
+        "abstract": "Skin wounds, whether acute or chronic, remain a major clinical challenge due to their complex healing processes involving inflammation, angiogenesis, and tissue remodeling. While stem cell-derived exosomes offer a promising cell-free therapeutic approach, their clinical translation is limited by rapid clearance and insufficient tissue-specificity. In this study, we developed a novel strategy by integrating exosomes derived from skin organoids (SKO-Exo)-which mimic native skin heterogeneity-into a hydrogel-based sustained-release system (Exo-Gel) to enhance wound healing. Skin organoids were generated from human embryonic stem cells, and exosomes were isolated and characterized, revealing typical cup-shaped morphology and exosomal markers. The hydrogel, composed of polyvinyl alcohol/gelatin/boric acid, exhibited excellent self-healing, adhesion, and sustained exosome release with an initial burst. In vitro, SKO-Exo-loaded hydrogel (SKOexo-Gel) significantly promoted endothelial cell proliferation, migration, and tube formation, as well as fibroblast collagen III secretion, outperforming exosomes from 3D keratinocytes (KC-Exo). In a rat full-thickness wound model, SKOexo-Gel accelerated wound closure, enhanced angiogenesis, and increased collagen III deposition. miRNA sequencing identified Hsa-miR-125b-5p as a prominent SKO-Exo-enriched miRNA that activates the Wnt/β-catenin pathway to drive angiogenesis, validated by functional assays. These findings demonstrate that skin organoid-derived exosomes in a hydrogel system synergistically promote wound healing through tissue-specific cues, offering a next-generation therapy for refractory wounds.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103632",
+        "keyword": "Exosomes",
+        "title_ja": "スキンオルガノイド由来エクソソームはハイドロゲルシステムにおいて皮膚創傷治癒を促進する。",
+        "summary_ja": "皮膚創傷は急性・慢性を問わず臨床課題であり、炎症・血管新生・組織リモデリングを伴う複雑な治癒過程を示す。幹細胞由来exosomeは無細胞治療として有望だが、速やかなクリアランスと組織特異性の不足が臨床応用を制限する。本研究では、皮膚オルガノイド由来exosome（SKO-Exo）をハイドロゲル徐放系（Exo-Gel）に統合する新戦略を開発した。SKO-Exoは典型的なカップ状形態とexosomeマーカーを示した。ポリビニルアルコール／ゼラチン／ホウ酸からなるハイドロゲルは自己修復性・接着性・徐放性を有した。SKOexo-Gelは内皮細胞の増殖・遊走・管腔形成および線維芽細胞のコラーゲンIII分泌を促進し、3Dケラチノサイト由来exosomeを上回った。ラット全層創傷モデルで創閉鎖・血管新生・コラーゲンIII沈着を促進した。miRNA解析でHsa-miR-125b-5pがWnt/β-cate"
+      },
+      {
+        "title": "Dental stem cell-derived exosomes and immunomodulation: a scoping review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42732706/",
+        "abstract": "Dental mesenchymal stem-cell-derived small extracellular vesicles or exosomes have emerged as cell-free mediators of immune regulation; however, the evidence remains heterogeneous across stem cell sources, immune targets, disease models, and preparation methods.",
+        "source": "PubMed",
+        "doi": "10.1016/j.job.2026.100815",
+        "keyword": "Exosomes",
+        "title_ja": "歯科幹細胞由来エクソソームと免疫調節：スコーピングレビュー",
+        "summary_ja": "歯髄・歯小囊・歯根膜など歯由来間葉系幹細胞（DMSC）由来のsmall extracellular vesicles／エクソソームは、無細胞性の免疫調節メディエーターとして注目されている。本scoping reviewは、幹細胞源、免疫標的、疾患モデル、調製法が多様でエビデンスが不均一である現状を整理した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の注目5トピック：\n\n1. **p16陽性細胞除去による心臓老化改善**：NK-ATTACマウスで加齢性心リモデリング抑制を実証。老化細胞除去（senolysis）の心疾患応用可能性を示す。\n\n2. **PHNにおける血中エクソソームの病態関与**：帯状疱疹後神経痛でエクソソームがウイルス非依存的に感覚ニューロン機能障害を持続させる機序を解明。慢性疼痛治療の新標的として重要。\n\n3. **バイオハイブリッドナノ小胞によるHCC治療**：乳由来エクソソームと耐性癌細胞膜融合でHSP90阻害薬を標的送達。RFA後ソラフェニブ耐性克服の新戦略。\n\n4. **皮膚オルガノイド由来エクソソーム+ハイドロゲル**：速やかなクリアランスと組織特異性不足を克服し創傷治癒を促進。無細胞治療の実用化に前進。\n\n5. **歯由来幹細胞エクソソームの免疫調節**：DMSC由来sEVsの免疫調節能を体系的に整理。再生医療・炎症性疾患への応用基盤を提示。\n\nこれらは老化細胞除去、EV診断・治療、DDS革新の融合的進展を示す。"
+}

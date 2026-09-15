@@ -1,0 +1,62 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Clinical and Biochemical Effects of Repeated Injectable Platelet-Rich Fibrin Application in Periodontitis Treatment: A Randomized Controlled Clinical Trial.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42736613/",
+        "abstract": "This study aimed to investigate the clinical and biochemical effects of repeated injectable platelet-rich fibrin (i-PRF) application into periodontal pockets following scaling and root planing (SRP) in patients with periodontitis.",
+        "source": "PubMed",
+        "doi": "10.1111/idh.70162",
+        "keyword": "PF4",
+        "title_ja": "歯周炎治療における反復注射型多血小板フィブリン適用の臨床的および生化学的効果：無作為化比較臨床試験",
+        "summary_ja": "歯周炎患者に対しSRP後にi-PRFを歯周ポケットへ反復注入する効果を検証したランダム化比較試験。臨床的・生化学的指標を評価した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、ご提示の1件のみでは5トピックを選定できないため、一般的な注目領域（Klotho、PF4、NK細胞療法、エクソソーム、sEVs）を踏まえた要約です。\n\n1. **Klotho**：老化抑制・認知保護に関与。血中低下は腎疾患や認知症リスクと関連し、補充療法やバイオマーカー応用が期待される。\n2. **PF4**：血小板由来因子で、認知機能改善や造血・免疫調整作用が注目される。脳老化への治療的可能性が議論されている。\n3. **NK細胞療法**：がん免疫療法の柱。同種NK細胞やCAR-NKの開発が進み、安全性と即時性が強み。固形腫瘍への応用が課題。\n4. **エクソソーム**：細胞間通信を担う小胞。疾患バイオマーカーや薬物送達担体として有望。精製・規格化が実用化の鍵。\n5. **sEVs**：エクソソームを含む小型細胞外小胞。無細胞治療や診断への応用が進む。回収・品質管理の標準化が今後の焦点。\n\nなお、ご提示のi-PRF論文は歯周炎治療における反復注入の有効性を検証したもので、再生療法の補助として意義があるが、上記5領域とは直接関連しない。"
+}

@@ -1,0 +1,283 @@
+{
+  "A": {
+    "医学": [
+      {
+        "title": "STK11 deficiency drives NSCLC immune resistance via ETNK2-mediated phosphoethanolamine accumulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42747979/",
+        "abstract": "STK11/LKB1 mutations are critical drivers of primary resistance to immune checkpoint inhibitors (ICIs) in non-small cell lung cancer (NSCLC); however, the metabolic mechanisms by which STK11 deficiency remodels the tumor microenvironment (TME) to induce an immunosuppressive state remain largely elusive. By performing metabolomics and liquid chromatography-mass spectrometry (LC-MS) analysis on tumor interstitial fluid (TIF) from STK11-deficient patient-derived xenograft (PDX) and syngeneic mouse CMT167 models, we investigated the metabolic landscape and its impact on CD8+ T cell functionality. We further integrated biochemical assays (ChIP, Co-IP, and dual-luciferase) and engineered small extracellular vesicles (sEVs) to dissect the upstream regulatory network and evaluate therapeutic potential. We identified a significant and specific accumulation of phosphoethanolamine (pEtn) in the STK11-deficient TIF, which directly impairs CD8+ T cell effector functions by downregulating membrane diacylglycerol (DAG) and blocking proximal T cell receptor (TCR) signaling. Mechanistically, STK11 loss triggers mitochondrial reactive oxygen species (ROS) accumulation, which inhibits prolyl hydroxylases (PHDs) and prevents the VHL-mediated degradation of HIF1A. Stabilized HIF1A subsequently recruits the demethylase TET1 to the ETNK2 promoter, driving its epigenetic activation and excessive pEtn synthesis. Clinical analyses confirm that high ETNK2 expression correlates with poor ICI response and shortened survival. Targeted delivery of siETNK2 via EGFR-targeted exosomes effectively lowered TIF pEtn concentrations, restored T cell activity, and sensitized STK11-deficient tumors to PD-1 blockade in vivo. This study elucidates a novel \"mitochondrial ROS-HIF1A-TET1-ETNK2\" metabolic-epigenetic axis, providing a precise interventional strategy to overcome genotype-specific immune resistance in NSCLC.",
+        "source": "PubMed",
+        "doi": "10.1093/intimm/dxag048",
+        "keyword": "Exosomes",
+        "matched_keywords": [
+          "Exosomes",
+          "sEVs"
+        ],
+        "title_ja": "STK11欠損はETNK2を介したホスホエタノールアミン蓄積によりNSCLCの免疫抵抗性を引き起こす",
+        "summary_ja": "STK11/LKB1変異はNSCLCのICI一次耐性の重要因子だが、その代謝機構は不明だった。STK11欠損PDXおよびCMT167マウスのTIFをLC-MSで解析し、pEtnの特異的蓄積を同定。pEtnは膜DAGを低下させTCRシグナルを阻害し、CD8+ T細胞機能を障害する。機序として、STK11欠損→ミトコンドリアROS蓄積→PHD阻害→HIF1A安定化→TET1動員→ETNK2プロモーターのエピジェネティック活性化→pEtn過剰合成という軸を解明。ETNK2高発現はICI不良応答・短命と相関。EGFR標的エクソソームによるsiETNK2送達はTIF pEtnを低下させ、T細胞活性を回復し、PD-1阻害感受性を高めた。新規「ROS-HIF1A-TET1-ETNK2」軸はNSCLCの遺伝子型特異的免疫抵抗への介入戦略となる。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Exploring the mechanism of Yishen Huayu formula in intervening chronic kidney disease-mineral and bone disorder via the miR-340-5p/FGF-23/klotho signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42744042/",
+        "abstract": "Chronic kidney disease-mineral and bone disorder (CKD-MBD) is a severe complication of chronic kidney disease characterized by dysregulation of the FGF-23/Klotho axis. MicroRNA-340-5p (miR-340-5p) participates in this signaling pathway. Nevertheless, its functional role in CKD-MBD, as well as the underlying mechanism by which Yishen Huayu Formula (YSHYF) intervenes in this disease, remains unclear.",
+        "source": "PubMed",
+        "doi": "10.1016/j.fitote.2026.107472",
+        "keyword": "Klotho",
+        "title_ja": "益腎化瘀方によるmiR-340-5p/FGF-23/クロトーシグナル伝達経路を介した慢性腎臓病-ミネラル骨代謝異常症への介入機序の探索",
+        "summary_ja": "慢性腎臓病-ミネラル骨代謝異常症（CKD-MBD）は、FGF-23/Klotho軸の調節異常を特徴とする慢性腎臓病の重篤な合併症である。miR-340-5pはこのシグナル伝達経路に関与しているが、CKD-MBDにおけるその機能的役割、および益腎化瘀方（YSHYF）が本疾患に介入する根本的メカニズムは不明である。本研究は、miR-340-5p/FGF-23/klothoシグナル伝達経路を介したYSHYFのCKD-MBDへの介入メカニズムを探索するものである。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Platelet factor 4 prevents neuroinflammation and neurodegeneration in Parkinson's disease model via regulating protocadherin gamma/Pyk2 pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42184948/",
+        "abstract": "Recent studies have reported that platelet factor 4 (PF4), also known as platelet-derived exokine CXCL4, is a critical factor in rejuvenating brain ageing and cognitive impairment by attenuating neuroinflammation. Our transcriptomic analysis indicated that 3 protocadherin gamma (Pcdhg) members (Pcdhga10, Pcdhgb4, and Pcdhgb5) were prominently upregulated by PF4 overexpression. This study aims to investigate whether PF4 plays a protective role in the pathogenesis of Parkinson's disease models and explore its underlying molecular mechanism by regulating Pcdhg and its downstream Pyk2. Pcdhg interacts and blocks Pyk2 autophosphorylation (p-Pyk2) and activation. Present study indicated that MPTP treatment decreased Pcdhg while increased p-Pyk2, p-NF-kB, IL-1β, TNF, and phosphorylated-synuclein in Substantia nigra pars compacta (SNc). Both systemic administration of PF4 via the tail vein and local overexpression of lentiviral PF4 administration increased Pcdhg, decreased p-Pyk2, p-NF-kB, IL-1β, TNF, and p-synuclein. PF4 also ameliorated the compromised behavioral activity, neuroinflammation, and neurodegeneration in MPTP injected mice PD model. This study also showed that Pcdhg induced by PF4 was mainly expressed in microglia, whereas Pyk2 was expressed in neurons and microglia. Pcdhg was a transmembrane cell adhesion molecule and microglial Pcdhg may contact neurons through extracellular matrix and activate neuronal Pyk2 activation. This study also showed that Pcdhg induced by PF4 was mainly expressed in microglia, whereas Pyk2 was expressed in neurons and microglia. Pcdhg was a transmembrane cell adhesion molecule and microglial Pcdhg may contact neurons through extracellular matrix and activate neuronal Pyk2 activation. Pyk2 inhibitor PF-562271 administration decreased Pyk2, restored the compromised behavioral activity, neuroinflammation, and dopaminergic cell death in MPTP-injected mice. This study demonstrates that blood-borne PF4 prevents neuroinflammation and neurodegeneration in PD models by inducing Pcdhg expression and subsequently blocking Pyk2 activation. This finding highlights that Pcdhg/Pyk2 axis was a key protective molecular mechanism of PF4 in PD and the Pcdhg-Pyk2 pathway could serve as a potential drug target for PD interventions.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbi.2026.106832",
+        "keyword": "PF4",
+        "title_ja": "血小板第4因子はプロトカドヘリンγ/Pyk2経路を調節することによりパーキンソン病モデルにおける神経炎症および神経変性を予防する",
+        "summary_ja": "血小板由来サイトカインPF4（CXCL4）は、神経炎症抑制を介して脳老化や認知障害を改善する。本研究はパーキンソン病（PD）モデルにおけるPF4の保護作用と分子機構を検討した。トランスクリプトーム解析でPF4過剰発現によりPcdhg（Pcdhga10、b4、b5）が顕著に上昇した。PcdhgはPyk2の自己リン酸化を阻害する。MPTP処置マウスではPcdhg減少、p-Pyk2・p-NF-κB・IL-1β・TNF・p-αシヌクレイン増加を認めた。PF4の全身投与およびレンチウイルスによる局所過剰発現はPcdhgを増加させ、p-Pyk2や炎症性因子を減少させ、行動障害・神経炎症・神経変性を改善した。Pcdhgは主にミクログリア、Pyk2は神経細胞とミクログリアに発現し、ミクログリアPcdhgが細胞外基質を介して神経細胞Pyk2を活性化すると考えられる。Pyk2阻害薬PF-562271も同様の保"
+      },
+      {
+        "title": "Platelet Function: Acute versus Chronic Responses to Physical Exercise: A Review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40846310/",
+        "abstract": "Platelets play a central role in primary hemostasis and arterial thrombosis, and accumulating evidence suggests that physical exercise can modulate platelet function. Acute vigorous or exhaustive bouts commonly produce transient thrombocytosis, enhanced aggregation and degranulation (e.g., P-selectin, β-TG, and PF4), increased thromboxane generation, and short-lived shifts toward hypercoagulability; these responses seem to scale with exercise intensity, adrenergic drive, and shear stress and may be amplified in untrained or high-risk individuals. By contrast, repeated training across modalities (aerobic, resistance, and high-intensity interval) generally lowers resting platelet reactivity, augments endothelial nitric oxide (NO) bioavailability, improves redox balance, and strengthens fibrinolytic capacity. These favorable adaptations may diminish with detraining, suggesting that the platelet-modulating effects of exercise are dynamic and contingent on consistent training exposure. In this review, we examine the association between platelet function and distinct exercise modalities, including aerobic, resistance, and high-intensity training, influence. We compare exercise modalities, intensities, and fitness states and consider major methodological sources of heterogeneity (assay selection, sampling timing, exercise prescription, and inter-individual variability) that complicate interpretation. Clinically, regularly performed, appropriately progressed exercise appears net favorable for hemostatic balance, whereas unaccustomed extreme exertion in high-risk individuals should be approached with preparation and caution. Better-standardized protocols and biomarker-informed trials are needed to refine exercise prescriptions for reducing thrombotic risk.",
+        "source": "PubMed",
+        "doi": "10.1055/a-2687-8546",
+        "keyword": "PF4",
+        "title_ja": "血小板機能：運動に対する急性および慢性反応：総説",
+        "summary_ja": "血小板は一次止血と動脈血栓症で中心的役割を担い、運動が血小板機能を調節しうる証拠が蓄積している。急性の高強度・疲労性運動は一過性の血小板増多、凝集・脱顆粒（P-selectin、β-TG、PF4）亢進、トロンボキサン産生増加、短時間の凝固亢進をもたらし、強度・アドレナリン作動性・ずり応力に依存し、未鍛錬者や高リスク者で増幅されうる。一方、有酸素・レジスタンス・高強度インターバルなど反復トレーニングは安静時血小板反応性を低下させ、内皮NOバイオアベイラビリティ、レドックスバランス、線溶能を改善する。これらの適応は脱トレーニングで減弱し、運動の効果は動的で継続的曝露に依存する。本レビューは各運動様式と血小板機能の関連を比較し、アッセイ選択・採血時期・運動処方・個人差など方法論的異質性を検討する。臨床的には、定期・段階的運動は止血バランスに有利だが、高リスク者の慣れない極端な運動は準備と注意が必"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Engineered probiotics for tumor-targeted combination chemoimmunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42748218/",
+        "abstract": "Achieving tumor-specific delivery and sustained activation of both cytotoxic and immune-modulating agents remains a critical challenge in chemoimmunotherapy. Here, a bacterial platform was engineered to combine enzyme/prodrug chemotherapy with immunotherapy, in which tumor-homing ",
+        "source": "PubMed",
+        "doi": "10.1126/scitranslmed.ady2289",
+        "keyword": "NK cell therapy",
+        "title_ja": "腫瘍標的化複合化学免疫療法のための設計されたプロバイオティクス",
+        "summary_ja": "腫瘍特異的な送達と細胞傷害性・免疫調節両作用の持続的活性化は chemoimmunotherapy の課題である。本研究では、腫瘍集積性を有する細菌プラットフォームを改変し、酵素/プロドラッグ化学療法と免疫療法を組み合わせた。"
+      },
+      {
+        "title": "T-cell dynamics, CD8/NK ratio and tumor survival hallmarks determine response to T-cell bispecific forimtamig in myeloma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42747872/",
+        "abstract": "T-cell bispecific (TCB) therapies have demonstrated promising therapeutic efficacies for patients with relapsed/refractory multiple myeloma. However, responses are transient and essentially all patients eventually relapse. Cytokine release syndrome and other on-target off-tumor toxicities are common. Together, these challenges ask for new approaches to optimize treatment and to eventually understand resistance mechanisms. This phase 1 study (NCT04557150) investigated mode of action and resistance mechanisms of forimtamig, a novel GPRC5DxCD3 TCB. Biomarker analyses included deep phenotyping of patients' tumor and immune cells, functional T cell characterization, cytokine release, soluble B-cell maturation antigen kinetics and minimal residual disease evaluation. Biomarker data analysis assessed the impact of different TCB treatment approaches on T cell-mediated tumor killing dynamics: subcutaneous vs intravenous administration, weekly vs every 4 days step-up dosing, and low vs high target doses. A machine learning model revealed T-to-natural killer (NK)cell ratio in blood and bone marrow as a strong predictor of response. Single cell transcriptomics showed increased DNA repair and proliferation as major tumor hallmarks associated with resistance, while T cell dysfunction signatures were not predictive of response. T cells from non-responding patients showed an increased cytokine release when exposed to higher forimtamig exposure in an ex vivo setting. T cells from responding and non-responding patients were equally fit in killing tumor cells ex vivo. Our results highlight that forimtamig treatment optimization may be possible by boosting T cell numbers over NK cells, targeting tumor intrinsic resistance mechanisms or individualized dosing approach.",
+        "source": "PubMed",
+        "doi": "10.1182/bloodadvances.2026020503",
+        "keyword": "NK cell therapy",
+        "title_ja": "T細胞の動態、CD8/NK比、および腫瘍生存の特徴が、骨髄腫におけるT細胞二重特異性抗体フォリムタミグへの反応を決定する。",
+        "summary_ja": "T細胞二重特異性抗体（TCB）療法は再発・難治性多発性骨髄腫に有効だが、効果は一過性で再発し、サイトカイン放出症候群等の毒性も課題である。第1相試験（NCT04557150）でGPRC5DxCD3 TCBであるforimtamigの作用機序と耐性機構を検討した。バイオマーカー解析では、皮下vs静脈内投与、週1回vs4日毎のstep-up投与、低vs高標的用量の影響を評価。機械学習モデルで血中・骨髄中のT細胞/NK細胞比が奏効の強力な予測因子と判明。単一細胞トランスクリプトミクスでDNA修復と増殖亢進が耐性に関連する腫瘍 hallmark であり、T細胞機能不全 signature は奏効を予測しなかった。非奏効患者のT細胞はex vivoで高曝露時にサイトカイン放出が増加したが、殺腫瘍能は奏効患者と同等だった。T細胞数をNK細胞より増やすこと、腫瘍内在性耐性機構の標的化、個別化投与が最適化"
+      },
+      {
+        "title": "Synergistic restoration of NK cell cytotoxicity against solid tumors via sLTA-mediated dual-action modulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42747644/",
+        "abstract": "Natural killer (NK) cell-based immunotherapy has shown limited efficacy against solid tumors due to impaired NK cell activation and intrinsic tumor resistance. This study investigated whether lipoteichoic acid isolated from Latilactobacillus sakei K101 (sLTA) could overcome NK resistance in HT-29 colon cancer cells.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12764-0",
+        "keyword": "NK cell therapy",
+        "title_ja": "可溶性LTA介导的双重作用调控协同恢复NK细胞对实体瘤的细胞毒性。",
+        "summary_ja": "Latilactobacillus sakei K101由来のlipoteichoic acid（sLTA）が、固形腫瘍に対するNK細胞免疫療法の有効性を高められるか検討した研究。NK細胞は固形腫瘍では活性化不全や腫瘍側の抵抗性により効果が限定的である。本研究では、HT-29大腸癌細胞におけるNK抵抗性をsLTAが克服し得るか調べ、sLTAによるdual-action modulationを介したNK細胞傷害性の相乗的回復を示した。"
+      },
+      {
+        "title": "Nonclinical Safety Assessment of SBT777101, a CAR-Engineered Regulatory T Cell Therapy for Autoimmune Diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42745475/",
+        "abstract": "Chimeric antigen receptor (CAR)-regulatory T cell (Treg) therapies represent a promising approach for autoimmune diseases, but their nonclinical safety assessment remains challenging due to antigen-, disease-, and species-specific pharmacology that limits the relevance of conventional animal models. SBT777101, a CAR-Treg therapy targeting citrullinated proteins associated with rheumatoid arthritis and hidradenitis suppurativa, was evaluated using a nonclinical strategy centered on in vitro and ex vivo New Approach Methodologies (NAMs) and in vivo studies benchmarked against untransduced polyclonal Tregs which are manufactured identically but lack the CAR and have an established clinical safety record, complemented by immunodeficient mouse studies. We hypothesized that CAR engineering would not destabilize the Treg phenotype or introduce new toxicological liabilities relative to polyclonal Tregs. SBT777101 maintained phenotypic stability under repeated stimulation and pro-inflammatory conditions, produced minimal pro-inflammatory cytokines following activation, and demonstrated immunomodulatory activity comparable to untransduced Tregs. Tissue cross-reactivity and primary cell studies identified limited membrane-associated binding, no evidence of CAR-mediated cytotoxicity or activation in normal human tissues, and no off-target binding by broad protein array screening. Immunosuppressive activity toward natural killer and CD8+ T cell responses was limited and comparable to polyclonal Tregs. Lentiviral integration site analyses demonstrated polyclonal integration profiles without evidence of transformation or abnormal growth in a cytokine- and activation-independent growth assay. This study establishes a combination of in vivo and NAM-based nonclinical safety framework for CAR-Treg therapies and demonstrates that CAR engineering of SBT777101 does not introduce new safety liabilities relative to unmodified polyclonal Tregs. These findings supported progression of SBT777101 into Phase 1 clinical trials and offer a generalizable approach for evaluating the safety of future CAR-Treg therapeutics.",
+        "source": "PubMed",
+        "doi": "10.1093/toxsci/kfag125",
+        "keyword": "NK cell therapy",
+        "title_ja": "自己免疫疾患に対するCAR改変制御性T細胞療法SBT777101の非臨床安全性評価",
+        "summary_ja": "SBT777101は関節リウマチ等を対象とするCAR-Treg療法だが、抗原・疾患・種特異的な薬理により従来の動物モデルの妥当性が限られる。本研究はin vitro/ex vivoのNAMと、同一製法でCARを持たない臨床実績あるポリクローナルTregを基準としたin vivo評価、免疫不全マウス試験を組み合わせた。SBT777101は反復刺激・炎症条件下で表現型安定性を維持し、炎症性サイトカイン産生は最小で、免疫調節活性は未導入Tregと同等だった。組織交差反応性や初代細胞試験でCAR媒介性細胞傷害・活性化は認められず、オフターゲット結合もなかった。NK・CD8+T細胞抑制も同等で、レンチウイルス挿入部位はポリクローナルで形質転換の証拠はなかった。CAR導入は新たな安全性リスクを導入せず、第1相試験の進行を支持した。"
+      },
+      {
+        "title": "LRIG2 suppresses NK cell-induced GSDME-mediated pyroptosis via the LAMP1-STAT3 pathway in glioma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42744390/",
+        "abstract": "Gliomas are resistant to current therapies, and natural killer (NK) cell-based immunotherapy shows limited efficacy. Gasdermin E (GSDME)-mediated pyroptosis contributes to NK-induced tumor killing, but NK cell dysfunction in the glioma microenvironment remains poorly understood. This study investigates whether leucine-rich repeats and immunoglobulin-like domains 2 (LRIG2) enable glioma cells to evade NK-induced pyroptosis and elucidates the underlying mechanism.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2026-015730",
+        "keyword": "NK cell therapy",
+        "title_ja": "LRIG2はLAMP1-STAT3経路を介して神経膠腫におけるNK細胞誘導性GSDME媒介パイロトーシスを抑制する。",
+        "summary_ja": "グリオーマは治療抵抗性で、NK細胞免疫療法の効果は限定的である。GSDMEを介したパイロトーシスはNK細胞による腫瘍殺傷に寄与するが、グリオーマ微小環境におけるNK細胞機能不全は十分解明されていない。本研究は、LRIG2がグリオーマ細胞にNK細胞誘導性パイロトーシスを回避させるか否か、およびその機序を検討した。LRIG2はLAMP1-STAT3経路を介してNK細胞誘導性GSDME依存性パイロトーシスを抑制することが示唆される。"
+      },
+      {
+        "title": "Whole-blood transcriptomics identifies a distinct metabolic and inflammatory signature in lupus arthritis compared with rheumatoid arthritis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42743789/",
+        "abstract": "Lupus arthritis (LA) is a major determinant of clinical outcomes and treat-to-target strategies in systemic lupus erythematosus (SLE), yet its molecular basis remains elusive.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jaut.2026.103634",
+        "keyword": "NK cell therapy",
+        "title_ja": "全血トランスクリプトミクスにより、ループス関節炎は関節リウマチとは異なる代謝および炎症のシグネチャーが同定された。",
+        "summary_ja": "全身性エリテマトーデス（SLE）におけるループス関節炎（LA）は臨床転帰とtreat-to-target戦略の主要な決定因子だが、その分子基盤は未解明である。本研究は全血トランスクリプトミクスを用いてLAと関節リウマチ（RA）を比較し、LAに特徴的な代謝および炎症シグネチャーを同定した。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Surface-engineered WE43 magnesium implants promote bone repair and reshape the peri-implant immune microenvironment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42744073/",
+        "abstract": "Although the early inflammatory response to biomaterial implantation has been investigated, less is known about how degradation products shape the immune environment during later stages of regeneration. To address this, we analyzed immune responses to WE43 magnesium alloy implants (Mg-Y-Nd-Zr alloy) with distinct surface states: uncoated WE43 and WE43 implants surface-modified by plasma electrolytic oxidation (PEO) using a phosphate electrolyte. These implants were evaluated in a mouse osteotomy model during bone formation, when degradation-related effects on the peri-implant immune environment become increasingly relevant. Ex vivo immunogenicity tests showed that both implants induced moderate levels of TNFα and IL-8 responses, indicating immunological inertness. In vivo bone formation, implant degradation, and immune cell composition were assessed. Micro-CT analysis revealed enhanced bone regeneration in the WE43 PEO group, indicated by higher bone-to-callus ratio and trabecular bone thickness, and reduced cortical bone lysis. Implant density mapping demonstrated a slower, more homogeneous degradation pattern for PEO-modified implants. Flow cytometry analysis revealed an increased leukocyte accumulation and higher proportion of pro-inflammatory M1 macrophages surrounding WE43 implants, whereas WE43 PEO implants were associated with more balanced macrophage, dendritic, and natural killer cell profile. Spatial histological analyses corroborated these findings, showing closer proximity between macrophages and osteoblasts to PEO-modified implants. By integrating degradation mapping with spatial immune and histological analyses, this study identifies distinct peri-implant immune signatures associated with PEO-modulated magnesium degradation during bone regeneration. In conclusion, PEO is associated with a less pro-inflammatory peri-implant immune profile at day 28, and improved bone healing parameters. STATEMENT OF SIGNIFICANCE: Biodegradable magnesium implants can support bone repair, but how their surface treatments shape the local immune response is still unclear. This study compares unmodified WE43 magnesium implants with plasma electrolytic oxidation (PEO)-modified WE43 implants in a mouse osteotomy model. By combining micro-CT bone analysis, spatial mapping of implant degradation, flow cytometry-based immune profiling, and histology, we link distinct degradation patterns to specific peri-implant immune signatures. PEO-modified implants degraded more slowly and uniformly, reduced cortical bone lysis, and improved bone regeneration. They were associated with a more balanced profile of macrophages, dendritic cells, and natural killer cells, whereas unmodified implants showed increased leukocyte counts and pro-inflammatory M1 macrophages. These findings inform the design of immunomodulatory, degradable implants to improve bone healing.",
+        "source": "PubMed",
+        "doi": "10.1016/j.actbio.2026.09.023",
+        "keyword": "NK cell therapy",
+        "title_ja": "表面工程化WE43镁植入物促进骨修复并重塑植入物周围免疫微环境。",
+        "summary_ja": "WE43マグネシウム合金インプラントの表面状態が骨再生とインプラント周囲免疫環境に与える影響を検討した。未処理WE43とリン酸電解液中のプラズマ電解酸化（PEO）処理WE43をマウス骨切開モデルで比較した。両者は中程度のTNFα・IL-8応答を示し免疫不活性だった。Micro-CTでPEO群は骨対仮骨比と骨梁厚が高く、皮質骨融解が減少し、骨再生が促進された。PEO処理は分解が遅く均一だった。フローサイトメトリーでは未処理群で白血球蓄積と炎症性M1マクロファージが増加し、PEO群はマクロファージ・樹状細胞・NK細胞のバランスが保たれていた。組織学的解析もこれを支持した。PEOは28日目に炎症性の低い免疫プロファイルと骨治癒改善に関連した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Bioactive scaffolds for treatment of diabetic wounds with bone infections.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42747843/",
+        "abstract": "Diabetes is a prevalent disease worldwide, and every year millions of people undergo amputations due to untreated or severe diabetic wounds that progress to bone involvement. Although many strategies have been applied to overcome the diabetic wound burden, most are limited by high cost and prolonged treatment duration. Hence, an effective solution is needed for complex diabetic wounds with bone infections. In the present study, a dual therapeutic strategy targeting both skin wounds and underlying bone infections was applied to treat diabetic wounds with bone involvement. A clinically relevant animal model was established by creating a skin wound on the tibial surface along with a bone infection just below the skin wound to mimic real-world conditions. Skin wounds were treated with functionalized cryogel scaffolds with nitric oxide (NO)-releasing and oxygen-releasing properties, while bone infection was treated with hydroxyapatite based nanocement loaded with rifampicin. Exosomes were impregnated in both the scaffolds to enhance therapeutic efficacy. The cryogel scaffolds had a pore size around 40-60 µm and a high water uptake capacity of ∼93-97%. Slow and sustained release of NO and oxygen was also observed, reaching ∼86% over 10 days and 67% over 7 days, respectively. The scaffolds also showed good biocompatibility and promoted fibroblast cell migration ",
+        "source": "PubMed",
+        "doi": "10.1039/d6tb00626d",
+        "keyword": "Exosomes",
+        "title_ja": "骨感染を伴う糖尿病性創傷の治療のための生物活性足場",
+        "summary_ja": "糖尿病は世界的に蔓延し、重症化した糖尿病性創傷が骨に及ぶと毎年数百万人が切断に至る。多くの治療戦略があるが、高コストと長期治療が課題である。本研究では、皮膚創傷と骨感染の両方を標的とする二重治療戦略を適用した。脛骨表面の皮膚創傷とその直下の骨感染を併発させた臨床関連動物モデルを作製し、皮膚創傷にはNO放出・酸素放出能を持つ機能化クリオゲル足場を、骨感染にはリファンピシン搭載ヒドロキシアパタイト系ナノセメントを使用した。両足場にエクソソームを含浸させ治療効果を高めた。クリオゲル足場は孔径約40〜60µm、吸水率約93〜97%を示し、NOは10日間で約86%、酸素は7日間で67%と徐放された。生体適合性も良好で、線維芽細胞の遊走を促進した。"
+      },
+      {
+        "title": "Designing intranasal formulations for Alzheimer's disease: A material-based perspective.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42746628/",
+        "abstract": "Alzheimer's disease (AD) remains a major global health challenge, as currently available therapies have a limited impact on disease progression and rely largely on systemic administration. Effective treatment is further hindered by the blood-brain barrier, which restricts brain exposure for most therapeutic agents. Intranasal delivery offers a noninvasive nose-to-brain approach by utilizing olfactory and trigeminal pathways to bypass systemic circulation and first-pass metabolism. Clinically, intranasal insulin and mesenchymal stromal cell-derived exosomes have demonstrated feasibility and safety in mild cognitive impairment and AD, and imaging studies have confirmed direct brain uptake following intranasal dosing. However, variable clinical outcomes suggest that therapeutic efficacy is determined primarily by formulation properties rather than by the delivery route alone. This review adopts a material-centric perspective to summarize rational intranasal formulation strategies for AD, including chitosan derivatives, thermoresponsive poloxamer and amphiphilic block copolymer platforms, lipid-based nanocarriers, surface-engineered systems, and biomimetic nanovesicles. Key translational considerations are discussed with emphasis on quantitative validation of brain exposure and reproducibility. Emerging methodological tools are briefly noted as potential facilitators of formulation development, without detracting from the central role of rational material design.",
+        "source": "PubMed",
+        "doi": "10.4103/tcmj.TCMJ-D-25-00208",
+        "keyword": "Exosomes",
+        "title_ja": "アルツハイマー病に対する鼻腔内製剤の設計：材料ベースの視点から",
+        "summary_ja": "アルツハイマー病（AD）治療は血液脳関門が障壁となり、全身投与では効果が限定的である。経鼻投与は嗅覚・三叉神経経路を利用し、全身循環や初回通過代謝を回避する非侵襲的nose-to-brain法である。臨床では経鼻インスリンや間葉系間質細胞由来エクソソームの安全性・実現性が示され、画像研究で直接的な脳移行も確認された。しかし臨床転帰は一定せず、有効性は投与経路よりも製剤特性に依存する。本レビューは材料中心の視点から、キトサン誘導体、温度応答性ポロキサマーや両親媒性ブロックコポリマー、脂質系ナノキャリア、表面工学システム、生体模倣ナノ小胞などの経鼻製剤戦略をまとめる。脳曝露の定量的検証と再現性を重視し、新規方法論にも言及する。"
+      },
+      {
+        "title": "Counseling Patients on Exosomes in Aesthetic Dermatology: A Viewpoint on Evidence, Regulation, and Consent.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42745382/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1111/ijd.70693",
+        "keyword": "Exosomes",
+        "title_ja": "美容皮膚科におけるエクソソームに関する患者カウンセリング：エビデンス、規制、同意に関する見解",
+        "summary_ja": "提供された情報には論文・記事の本文が含まれていないため、要約を作成できません。タイトル「Counseling Patients on Exosomes in Aesthetic Dermatology: A Viewpoint on Evidence, Regulation, and Consent.」のみが示されています。\n\n本文テキストを貼り付けていただければ、400文字以内で要約いたします。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Adipocyte-derived exosomal miR-27a-3p promotes macrophage M1 polarization via HACE1/RAC1/STAT3 axis to exacerbate the progression of childhood asthma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42744919/",
+        "abstract": "Adipocyte-derived exosomal miRNAs are emerging as potential therapeutic agents for various diseases. However, the molecular connections between these miRNAs and macrophage polarization in asthma remain unclear. Exosomes were isolated from the plasma of children with obesity, asthma, or obesity-associated asthma. A co-culture system of macrophages and adipocytes was used to assess exosome-mediated macrophage polarization. The interactions among miR-27a-3p, HACE1, and the RAC1/STAT3 pathway were analyzed using bioinformatic predictions, RT-qPCR, dual-luciferase reporter assays, co-immunoprecipitation, and Western blot. The functional role of exosomal miR-27a-3p was further examined in a murine model of obesity-related asthma. Elevated expression of miR-27a-3p in exosomes and alveolar macrophages was observed in patients with obesity and asthma. In vitro co-culture of adipocytes and macrophages enhanced the expression of M1 macrophage markers, including iNOS, IL-6, and TNF-α, an effect that was reversed by the exosome generation inhibitor GW4869. Moreover, exosomal miR-27a-3p derived from adipocytes was capable of being internalized by macrophages, promoting M1 polarization. Mechanistically, miR-27a-3p directly targets HACE1 mRNA, inhibiting HACE1 expression. This inhibition reduces HACE1-mediated ubiquitin-dependent degradation of RAC1, thereby stabilizing the RAC1 protein and enhancing the phosphorylated activation of STAT3, ultimately driving M1 polarization of macrophages. In vivo, inhibition of adipocyte-derived exosomal miR-27a-3p ameliorated airway resistance and inflammation and suppressed macrophage M1 polarization in asthmatic mice. These findings indicate that adipocyte-derived exosomal miR-27a-3p exacerbates asthma progression by downregulating HACE1 expression and activating the RAC1/STAT3 signaling pathway, which induces macrophage M1 polarization. This study provides novel insights and identifies a promising molecular candidate for asthma therapy.",
+        "source": "PubMed",
+        "doi": "10.1007/s00210-026-05874-w",
+        "keyword": "Exosomes",
+        "title_ja": "脂肪細胞由来エクソソームmiR-27a-3pはHACE1/RAC1/STAT3軸を介してマクロフェージM1分極を促進し、小児喘息の進行を悪化させる",
+        "summary_ja": "肥満関連喘息の小児では、脂肪細胞由来エクソソームのmiR-27a-3pと肺胞マクロファージでの発現が亢進している。miR-27a-3pはHACE1 mRNAを直接標的として抑制し、HACE1によるRAC1のユビキチン依存性分解を阻害する。これによりRAC1タンパク質が安定化し、STAT3のリン酸化が亢進してマクロファージのM1極性化を促進する。マウスモデルでは、脂肪細胞由来エクソソームmiR-27a-3pの阻害が気道抵抗性と炎症を改善し、M1極性化を抑制した。本研究は、miR-27a-3pがHACE1/RAC1/STAT3軸を介して喘息進行を増悪させることを示し、治療標的としての可能性を提示する。"
+      },
+      {
+        "title": "Corrigendum to \"Digital droplet microfluidics integrating DNA walkers and CRISPR-Cas13a for simultaneous surface protein and miRNA profiling in single exosomes\" [Biosens. Bioelectr. 310, (2026), 118854].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42744704/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.bios.2026.119211",
+        "keyword": "Exosomes",
+        "title_ja": "「単一エクソソームにおける表面タンパク質とmiRNAの同時プロファイリングのためのDNAウォーカーとCRISPR-Cas13aを統合したデジタル液滴マイクロ流体工学」に対する訂正［Biosens. Bioelectr. 310, (2026), 118854］。",
+        "summary_ja": "ご提示いただいた内容は、タイトルと書誌情報のみで、本文（Abstractや要旨）が含まれていません。そのため、正確な要約を作成することができません。\n\n**Corrigendum（訂正記事）** とは、既発表論文の誤りを訂正する短い告知であり、通常は本文を持たず、訂正箇所のみを記載します。本件は以下の情報のみです：\n\n- 原論文：デジタル液滴マイクロ流体工学にDNA walkerとCRISPR-Cas13aを統合し、単一エクソソーム上の表面タンパク質とmiRNAを同時プロファイリングする手法\n- 掲載誌：Biosensors and Bioelectronics, 310巻 (2026年), 118854\n- 種別：Corrigendum（訂正）\n\n要約のためには、**訂正内容の詳細**（どの箇所をどう修正したか）や、**原論文のAbstract**が必要です。これらをご提供いただければ、"
+      },
+      {
+        "title": "circ_0043837 attenuates macrophage mitochondrial damage through XPO1-associated HuR transport in atherosclerosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42744276/",
+        "abstract": "Macrophage mitochondrial damage is implicated in the pathogenesis of atherosclerosis. Circular RNAs (circRNAs) regulate mitochondrial energy metabolism and contribute to the development of various diseases, but the mechanism in atherosclerosis regulation remains to be elucidated. This study aimed to investigate the underlying mechanisms by which circRNAs modulate mitochondrial function in the progression of atherosclerosis. We established a macrophage-derived foam cell model to define the role of circ_0043837 in mitochondrial dysfunction during atherosclerosis. Foam cells showed loss of mitochondrial membrane potential, mtDNA fragmentation, reduced mitochondrial transcription factor A (TFAM) expression and impaired nuclear export of the RNA-binding protein HuR. Upregulation of circRNA (circ_0043837) exerted a protective effect on mitochondrial membrane potential and restored regular HuR nuclear export. RNA pull-down, mass spectrometry and immunofluorescence identified the nuclear export receptor XPO1 as a circ_0043837-interacting protein, through which circ_0043837 regulated HuR trafficking. In vivo, exosome-mediated delivery of circ_0043837 delayed carotid atherosclerotic plaque progression in mice. Together, our study demonstrated that circ_0043837 plays a protective role against atherosclerosis by interacting with XPO1, regulating HuR nuclear export and attenuating macrophage mitochondrial damage.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bcp.2026.118476",
+        "keyword": "Exosomes",
+        "title_ja": "circ_0043837はアテローム性動脈硬化症においてXPO1関連のHuR輸送を介してマクロファージのミトコンドリア損傷を軽減する。",
+        "summary_ja": "動脈硬化の病態にマクロファージのミトコンドリア障害が関与する。本研究は、circRNAによるミトコンドリア機能制御機構を検討した。マクロファージ由来foam cellモデルで、膜電位消失、mtDNA断片化、TFAM発現低下、HuRの核外輸送障害を認めた。circ_0043837のupregulationは膜電位を保護し、HuR核外輸送を回復した。RNA pull-down、質量分析、免疫蛍光により、核外輸送受容体XPO1がcirc_0043837結合タンパク質として同定され、circ_0043837はXPO1を介してHuR輸送を制御した。in vivoでは、exosomeによるcirc_0043837送達がマウスの頸動脈プラーク進展を遅延させた。以上より、circ_0043837はXPO1と相互作用しHuR核外輸送を制御してマクロファージのミトコンドリア障害を軽減し、動脈硬化に対して保護的"
+      },
+      {
+        "title": "Short-lived lncRNAs as candidate kinetic sensors of cellular stress.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42744047/",
+        "abstract": "Short-lived noncoding transcripts (SLiTs; half-life <4 h) form a kinetically distinct subclass of long noncoding RNAs (lncRNAs) whose rapid turnover is an active regulatory feature rather than a measurement artefact. This review has three objectives: to set out the kinetic basis on which a short half-life supports sensor-like behaviour; to define operational criteria that separate a candidate kinetic sensor from a merely stress-responsive unstable transcript; and to assess the evidence for SLiT involvement across the xenobiotic, oxidative, and proteotoxic stress axes. The evidence differs sharply in weight between axes. Direct mechanistic data exist only for chemical stress in HepG2 cells, where SLiT accumulation arises from transcript stabilisation rather than increased transcription, with impairment of the nuclear exosome and XRN2 as the leading candidate mechanism. The oxidative and proteotoxic axes remain hypothesis-generating. Cross-cell-type and cross-species validation is absent, and the limitations this imposes are stated explicitly.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbagrm.2026.195184",
+        "keyword": "Exosomes",
+        "title_ja": "短寿命lncRNAは細胞ストレスの候補キネティックセンサーである",
+        "summary_ja": "短寿命ノンコーディング転写産物（SLiT、半減期4時間未満）は、lncRNAの速度論的に異なるサブクラスであり、その急速な代謝回転は測定上のアーティファクトではなく能動的な制御特性である。本レビューは、短い半減期がセンサー様挙動を支える速度論的基盤の提示、候補キネティックセンサーを単なるストレス応答性不安定転写産物から区別する操作的基準の定義、異物・酸化・プロテオトキシックストレス軸におけるSLiT関与の証拠評価を目的とする。証拠の重みは軸間で大きく異なる。直接的な機序データはHepG2細胞の化学ストレスのみに存在し、SLiT蓄積は転写増加ではなく転写産物安定化に起因し、核エキソソームとXRN2の障害が主要候補機序である。酸化・プロテオトキシック軸は仮説生成段階に留まる。細胞種間・種間の検証は欠如し、その限界も明記されている。"
+      },
+      {
+        "title": "Abnormal B-Cell Exosome Proapoptotic and Antiapoptotic Cargo in Multiple Sclerosis: Potential Implication in Progressive Disease Biology.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42743452/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1212/NXI.0000000000200657",
+        "keyword": "Exosomes",
+        "title_ja": "多発性硬化症における異常なB細胞エクソソームのアポトーシス促進性および抑制性カーゴ：進行性疾患生物学への潜在的関与",
+        "summary_ja": "多発性硬化症（MS）におけるB細胞由来エクソソームのアポトーシス促進・抑制カーゴの異常を検討した研究。MS患者ではB細胞エクソソームの積荷タンパク質が健常者と異なり、進行型MSの病態生物学に関与する可能性が示唆された。"
+      },
+      {
+        "title": "Pharmacological modulation of cGAS-STING-NLRP3 signaling by nano-immunomodulators in Alzheimer and Parkinson disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42742907/",
+        "abstract": "Neuroinflammation is a central driver of neurodegeneration in Alzheimer's disease (AD) and Parkinson's disease (PD), driven by interconnected pathways involving microglial state dysregulation, inflammasome activation, cyclic GMP-AMP synthase-stimulator of interferon genes (cGAS-STING) signaling, impaired mitophagy, CD33-TREM2 imbalance, gut-brain axis disruption, and peripheral immune infiltration across a compromised blood-brain barrier (BBB). Conventional anti-inflammatory therapies remain limited by poor CNS delivery, inadequate cell specificity, and the inability to simultaneously modulate multiple inflammatory pathways. Nano-immunomodulators (NIMs) have emerged as a promising strategy to modulate CNS immunity in preclinical models. This review critically evaluates recent advances in NIM-based strategies for AD and PD, including intrinsically therapeutic nanomaterials, targeted delivery systems, and precision gene-regulatory platforms. Intrinsically therapeutic materials, such as polydopamine nanoparticles and biomimetic nanozymes, provide antioxidant and mitochondrial protective functions, whereas BBB-targeted systems, including nanobody-based platforms and engineered exosomes, enhance targeted CNS delivery. Nanotheranostics approaches integrate imaging capabilities with stimuli-responsive release, while precision interceptors aim to simultaneous regulate pathological processes such as amyloid-beta (Aβ)-associated inflammation and cGAS-STING activation. Emerging gene-delivery strategies, including TREM2 mRNA and CD33-targeting lipid nanoparticles, offer opportunities for microglial reprogramming but remain largely restricted to proof-of-concept and early preclinical stages. The review further discusses AI-driven nanomedicine optimization and advanced human-relevant models, including brain-on-a-chip systems and three-dimensional (3D) bioprinting, as tools to improve translational prediction. Currently, AI approaches primarily support candidate selection, formulation optimization, and mechanistic prediction rather than clinical validation. Major challenges for clinical advancement include achieving precise modulation of microglial states beyond the simplified M1/M2 framework, developing context-dependent regulation of NLRP3 and cGAS-STING pathways, establishing gut-CNS therapeutic strategies, improving pluripotent stem cell (iPSC)-based validation platforms, and defining long-term CNS safety frameworks. By integrating molecular mechanisms, AI-assisted nanomedicine, nanoparticle-enabled immune and gene modulation, and advanced preclinical models, this review provides a mechanistic and translational framework for advancing next-generation NIM strategies in AD and PD. This integrated perspective addresses the limitations of previous single-domain analyses focused either on neuroinflammation or nanotechnology and outlines key considerations for translating NIMs from experimental platforms toward clinical applications.",
+        "source": "PubMed",
+        "doi": "10.1007/s10787-026-02386-0",
+        "keyword": "Exosomes",
+        "title_ja": "アルツハイマー病およびパーキンソン病におけるナノ免疫調節剤によるcGAS-STING-NLRP3シグナル伝達の薬理学的調節",
+        "summary_ja": "アルツハイマー病（AD）・パーキンソン病（PD）では、ミクログリア状態異常、インフラマソーム活性化、cGAS-STINGシグナル、ミトファジー障害、CD33-TREM2不均衡、腸脳軸破綻、BBBを介した末梢免疫浸潤が神経炎症を駆動する。従来の抗炎症療法はCNS送達や細胞特異性、多経路同時調節に限界がある。本レビューは、ポリドーパミンナノ粒子や生体模倣ナノザイム、BBB標的ナノボディ、エンジニアードエクソソーム、刺激応答性ナノセラノスティクス、TREM2 mRNAやCD33標的脂質ナノ粒子などのNIM戦略を評価する。AI駆動最適化やbrain-on-a-chip、3Dバイオプリンティングも議論し、M1/M2を超えたミクログリア制御、NLRP3・cGAS-STINGの文脈依存的調節、腸-CNS戦略、iPSC検証、長期CNS安全性が課題だと示す。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "The Burden of Disease Attributable to Diet Low in Vegetables From 1990 to 2021: A Global Analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42746354/",
+        "abstract": "The global epidemiological landscape of diseases attributable to diet low in vegetables remains insufficiently characterized. This study aims to provide a comprehensive assessment of the disease burden associated with this risk on a global scale. Using data from the Global Burden of Diseases, Injuries, and Risk Factors Study 2021, the summary exposure value (SEV) of diet low in vegetables and the associated burden from 1990 to 2021 were analyzed. Trends of deaths and disability-adjusted life years (DALYs) attributed to diet low in vegetables were measured using the age-standardized rate (ASR) and the estimated annual percentage change (EAPC). The relationship between health outcomes and the Socio-demographic Index (SDI) was explored to identify structural inequalities. Globally, the SEV attributable to diet low in vegetables was 27.34 (95% UI: 17.17-32.91) in 2021. Between 1990 and 2021, the SEV showed a continuous decline, with an EAPC of -0.72 (95% CI: -0.84 to -0.60). Central Sub-Saharan Africa had the highest SEVs of diet low in vegetables, while East Asia had the lowest. The rates of deaths and DALYs attributed to diet low in vegetables have consistently decreased between 1990 and 2021. The EAPC for age-standardized mortality rate (ASMR) was -2.01 (95% CI: -2.12 to -1.88), and the EAPC for age-standardized DALY rate (ASDR) was -2.06 (95% CI: -2.21 to -1.91). For both deaths and DALYs, males consistently had higher numbers and rates than females. Furthermore, regions with lower SDIs faced a greater burden compared to higher SDI counterparts. Globally, cardiovascular diseases constituted the primary component of the burden associated with this dietary risk, followed by diabetes and kidney diseases. Although the global burden attributable to a diet low in vegetables has decreased, intake levels continue to vary across regions. These findings provide a descriptive foundation for identifying high-risk populations.",
+        "source": "PubMed",
+        "doi": "10.1002/fsn3.72298",
+        "keyword": "sEVs",
+        "title_ja": "1990年から2021年における野菜摂取不足に起因する疾病負担：グローバル分析",
+        "summary_ja": "本論文は、野菜摂取不足に起因する疾病負担を世界規模で評価した研究である。GBD 2021のデータを用い、1990～2021年のsummary exposure value（SEV）、死亡、DALYsを分析した。2021年のSEVは27.34で、1990年以降継続的に低下しEAPCは-0.72であった。中央サブサハラアフリカでSEVが最も高く、東アジアで最も低かった。年齢標準化死亡率（ASMR）のEAPCは-2.01、年齢標準化DALY率（ASDR）は-2.06と、いずれも減少傾向にあった。男性は女性より負担が大きく、SDIが低い地域ほど負担が大きかった。疾患別では心血管疾患が主要因で、次いで糖尿病・腎疾患であった。世界全体で負担は減少したが、地域差が残存している。"
+      },
+      {
+        "title": "Oscillatory shear stress-induced endothelial extracellular vesicles exacerbate aortic valve calcification.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42745419/",
+        "abstract": "Calcific aortic valve disease (CAVD) lacks effective pharmacotherapies. Although small extracellular vesicles (sEVs) are established mediators of cellular communication, how they translate oscillatory shear stress (OSS) into pro-calcific signals through endothelial-interstitial crosstalk remains unknown. This study aimed to delineate a complete mechanosensitive pathway by which sEVs drive aortic valve calcification (AVC).",
+        "source": "PubMed",
+        "doi": "10.1093/cvr/cvag205",
+        "keyword": "sEVs",
+        "title_ja": "振動性せん断応力により内皮細胞から放出される細胞外小胞は大動脈弁石灰化を増悪させる。",
+        "summary_ja": "大動脈弁石灰化症（CAVD）には有効な薬物療法が存在しない。本研究は、振動性ずり応力（OSS）がsmall extracellular vesicles（sEVs）を介して内皮－間質クロストークを促し、大動脈弁石灰化（AVC）を引き起こすメカノ感受性経路の全容解明を目的とした。sEVsは細胞間通信の媒介因子として知られるが、OSSを石灰化促進シグナルへ変換する機序は不明であった。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **STK11欠損NSCLCの免疫耐性機構**：STK11/LKB1変異腫瘍でホスホエタノールアミンが蓄積し、TCRシグナルを阻害してICI耐性を駆動。代謝介入による耐性克服の可能性が示唆される。\n\n2. **PF4によるパーキンソン病神経保護**：PF4がPcdhg/Pyk2経路を制御し神経炎症・変性を抑制。血小板由来因子の神経疾患治療応用が期待される。\n\n3. **sLTAによるNK細胞療法増強**：Latilactobacillus sakei由来sLTAがNK細胞傷害性を回復し固形腫瘍抵抗性を克服。微生物由来分子と細胞療法の融合戦略として注目。\n\n4. **LRIG2によるグリオーマNK抵抗性**：LRIG2がLAMP1-STAT3経路でGSDME依存パイロトーシスを抑制。NK療法抵抗性の分子基盤解明と標的化の道を開く。\n\n5. **脂肪細胞エクソソームmiR-27a-3pと小児喘息**：肥満関連喘息でエクソソームmiR-27a-3pがマクロファージM1极化を促進し増悪。エクソソームを介した代謝-免疫連関の新機序である。"
+}

@@ -1,0 +1,143 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Intranasal delivery of cerium oxide nanozyme and superoxide dismutase in exosomes for Parkinson's disease therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42750983/",
+        "abstract": "The excessive reactive oxygen species (ROS) play an important role in the occurrence and progression of Parkinson's disease (PD). To investigate whether the antioxidant enzymes can scavenge the ROS level ",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103629",
+        "keyword": "Exosomes",
+        "title_ja": "パーキンソン病治療のための酸化セリウムナノザイムとスーパーオキシドジスムターゼのエクソソームを用いた経鼻投与",
+        "summary_ja": "パーキンソン病（PD）では活性酸素種（ROS）の過剰が発症・進行に重要。本研究は抗酸化酵素によるROS除去の可能性を検討するため、酸化セリウムナノザイムとスーパーオキシドジスムターゼ（SOD）をエクソソームに搭載し、経鼻投与によるPD治療を試みた。経鼻経路は血液脳関門を回避し脳へ直接送達可能。ナノザイムとSODの相乗効果でROSを効率的に除去し、神経保護効果が期待される。"
+      },
+      {
+        "title": "Liquid biopsy for early detection of pancreatic ductal adenocarcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42749887/",
+        "abstract": "There is no clinically relevant blood-based assay for the detection of early-stage pancreatic ductal adenocarcinoma (PDAC), a solid malignancy characterized by poor outcomes. Here we developed, validated and tested a blood-based microRNA (miRNA) assay (which included hsa-miR-142-3p, hsa-miR-30c-5p, hsa-miR-335-5p, hsa-miR-340-5p, hsa-miR-200b-3p, hsa-miR-1260b, hsa-miR-145-3p, hsa-miR-145-5p, hsa-miR-429 and hsa-miR-200a-3p) and a composite score, PANXEON (PANcreatic cancer eXosome Early detectiON), that integrates the miRNA signature with carbohydrate antigen 19-9 for the detection of early-stage PDAC. We conducted an international, multicenter, observational, prospective biomarker study that involved 1,785 individuals with and without PDAC from four countries. The miRNA signature achieved an area under the receiver operating characteristic curve of 88.6% in the testing cohort, with a sensitivity of 83.8% for early-stage PDAC, while showing minimal cross-reactivity with other gastrointestinal cancers. In a cohort of 19 individuals, the miRNA signature levels decreased during neoadjuvant chemotherapy and after surgery and increased before disease recurrence. When combined with carbohydrate antigen 19-9 levels, this blood assay demonstrated a sensitivity of 86.8% for stage I-II PDAC, false-positive rates of 3.2% in low-risk controls and 15.6% in high-risk controls in the testing cohort. PANXEON demonstrates potential for detecting high-grade dysplasia in individuals with high-risk pancreatic cysts (64.3%). Collectively, we present a composite biomarker that may complement existing strategies for the detection of early-stage PDAC and warrants further large-scale prospective studies. ClinicalTrials.gov registration: NCT06388967 .",
+        "source": "PubMed",
+        "doi": "10.1038/s41591-026-04625-x",
+        "keyword": "Exosomes",
+        "title_ja": "膵管腺癌の早期発見のためのリキッドバイオプシー",
+        "summary_ja": "早期膵管腺癌（PDAC）の血液ベース検出法は未確立である。本研究では10種のmiRNA署名とCA19-9を統合した複合スコアPANXEONを開発し、4か国1,785名を対象とした国際多施設前向きバイオマーカー研究で検証した。miRNA署名はテストコホートでAUC 88.6%、早期PDAC感度83.8%を示し、他消化器癌との交差反応は最小であった。術前化学療法中や術後は低下し、再発前に上昇した。CA19-9併用でI-II期PDAC感度86.8%、偽陽性率は低リスク対照3.2%、高リスク対照15.6%であった。高リスク膵嚢胞のhigh-grade dysplasia検出率は64.3%であった。PANXEONは早期PDAC検出の既存戦略を補完しうるが、大規模前向き研究が望まれる。"
+      },
+      {
+        "title": "Clinical safety and preliminary efficacy of allogeneic human induced pluripotent stem cell-derived exosomes in patients with acute ischaemic stroke: protocol of a phase I/II clinical trial in China.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42749369/",
+        "abstract": "Cell-based therapies represent a promising therapeutic strategy for enhancing neurological recovery after stroke. Preclinical studies have demonstrated the efficacy of stem cell-derived exosomes in animal models of ischaemic stroke. We aim to evaluate the safety and preliminary efficacy of allogeneic human induced pluripotent stem cell (iPSC)-derived exosomes in patients with acute ischaemic stroke.",
+        "source": "PubMed",
+        "doi": "10.1136/bmjopen-2025-115350",
+        "keyword": "Exosomes",
+        "title_ja": "同種ヒト人工多能性幹細胞由来エクソソームの急性虚血性脳卒中患者における臨床的安全性と予備的有効性：中国における第I/II相臨床試験のプロトコル",
+        "summary_ja": "急性虚血性脳卒中後の神経学的回復を促進する細胞治療として、iPSC由来エクソソームが注目されている。前臨床研究では虚血性脳卒中動物モデルでの有効性が示されている。本試験は中国で実施される第I/II相臨床試験であり、同種ヒトiPSC由来エクソソームの急性虚血性脳卒中患者における安全性と予備的有効性を評価することを目的とする。"
+      },
+      {
+        "title": "Cellular senescence of fibro-adipogenic progenitors by STAT5A/GFPT2/O-GlcNAcylation impairs muscle recovery after glucocorticoid-induced injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42749096/",
+        "abstract": "The clinical use of glucocorticoids often leads to skeletal muscle injury, characterized by muscle atrophy and dysfunction. Fibro-adipogenic progenitors (FAPs) play an important role in maintaining muscle homeostasis, but their roles in the recovery of skeletal muscle after glucocorticoid-induced injury remain largely elusive. Here, we reveal that glucocorticoid induces cellular senescence of FAPs, leading to their accumulation in skeletal muscle. Mechanistically, glucocorticoid enhances the expression of GFPT2 through STAT5A, which further elevates O-GlcNAcylation in FAPs and promotes their senescence. Targeting the STAT5A-GFPT2-mediated O-GlcNAcylation can reduce the burden of senescent FAPs in glucocorticoid-treated muscle and facilitate muscle recovery after injury. Our results demonstrate that exosomes derived from senescent FAPs suppress myotube formation, greatly inhibiting the regrowth of glucocorticoid-treated skeletal muscle. Moreover, senescent FAPs reduce the muscle stem cells (MuSCs) pool by suppressing their proliferation, thereby impairing the regenerative capacity of skeletal muscle during the recovery process after glucocorticoid treatment.",
+        "source": "PubMed",
+        "doi": "10.1016/j.phrs.2026.108461",
+        "keyword": "Exosomes",
+        "title_ja": "STAT5A/GFPT2/O-GlcNAc化による線維脂肪性前駆細胞の細胞老化は、グルココルチコイド誘発性損傷後の筋回復を障害する。",
+        "summary_ja": "グルココルチコイドは骨格筋損傷を引き起こす。線維脂肪性前駆細胞（FAPs）は筋恒常性維持に重要だが、損傷回復への関与は不明であった。本研究は、グルココルチコイドがSTAT5Aを介してGFPT2発現を亢進し、FAPsのO-GlcNAcylationを上昇させて細胞老化を誘導、骨格筋に蓄積させることを示す。STAT5A-GFPT2経路の阻害は老化FAPsを減少させ筋回復を促進する。老化FAPs由来エクソソームは筋管形成を抑制し、またMuSCsの増殖抑制によりプールを減少させ、筋再生能を障害する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Exosomes in Alzheimer's Disease: From Pathological Mechanisms to Biomarker Potential and Therapeutic Applications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42753025/",
+        "abstract": "Exosomes are small extracellular vesicles that mediate communication between cells by carrying proteins, lipids, nucleic acids, and other biologically active molecules. In Alzheimer's disease (AD), their role appears to be complex and context-dependent. Evidence suggests that exosomes may contribute to disease progression by supporting the intercellular spread of amyloid-β and tau pathology. At the same time, they are increasingly being investigated as blood-based biomarkers and as potential therapeutic delivery systems. This review summarizes current evidence on the involvement of exosomes in AD biology. Particular attention is given to their role in amyloid-β and tau propagation, microglia-driven neuroinflammation, and the Pellino-1 (Peli1)-related communication between microglia and astrocytes. The review also discusses the diagnostic value of neuron- and astrocyte-derived exosomes as minimally invasive biomarkers. In addition, the therapeutic potential of mesenchymal stem cell-derived exosomes is evaluated, especially in relation to amyloid clearance, neuroinflammation, synaptic repair, and blood-brain barrier crossing. Although preclinical and early clinical findings are encouraging, several barriers still limit clinical translation. These include the lack of standardized isolation methods, cargo heterogeneity, large-scale production difficulties, and insufficient long-term safety and efficacy data. Overall, exosome-based strategies represent a promising but still developing field in AD research, with potential relevance for early diagnosis, disease monitoring, and future therapeutic applications.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-06191-2",
+        "keyword": "Exosomes",
+        "title_ja": "アルツハイマー病におけるエクソソーム：病態メカニズムからバイオマーカーとしての可能性および治療応用まで",
+        "summary_ja": "エクソソームは細胞間コミュニケーションを媒介する小型細胞外小胞で、アルツハイマー病（AD）ではその役割は複雑かつ文脈依存的である。アミロイドβやタウ病理の細胞間伝播を促進し病態進行に関与する一方、血液バイオマーカーや治療的デリバリーシステムとしても注目されている。本レビューは、アミロイドβ・タウ伝播、ミクログリア由来神経炎症、Pellino-1（Peli1）関連のミクログリア－アストロサイト間コミュニケーションにおける役割をまとめ、神経細胞・アストロサイト由来エクソソームの低侵襲バイオマーカーとしての診断価値、間葉系幹細胞由来エクソソームのアミロイド除去・神経炎症・シナプス修復・血液脳関門通過に関する治療可能性を評価する。前臨床・初期臨床成績は有望だが、標準化された単離法の欠如、カーゴの不均一性、大規模製造の困難、長期安全性・有効性データ不足が臨床応用の障壁となっている。"
+      },
+      {
+        "title": "Comparative insights into miRNA-mediated repair across nervous system injuries: Implications for histology and regenerative medicine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42751748/",
+        "abstract": "Neural regeneration in the adult mammalian central nervous system (CNS) is severely restricted by both intrinsic neuronal limitations and an inhibitory post-injury microenvironment. In contrast, the peripheral nervous system (PNS) retains a greater capacity for spontaneous repair. MicroRNAs (miRNAs), a class of small non-coding RNAs, have emerged as key epigenetic regulators of neural regeneration by coordinately modulating multiple genes and signaling pathways involved in axonal growth, neuroinflammation, glial responses, and tissue remodeling. This review summarizes current advances in miRNA-mediated neural repair across both the CNS and PNS, with particular emphasis on their dual roles in regulating intrinsic neuronal growth programs and the extrinsic injury microenvironment. We compare distinct miRNA expression patterns and regenerative mechanisms following neural injury in mammalian and regenerative model systems, highlighting their contributions to axonal regeneration, immune modulation, angiogenesis, and Schwann cell-mediated repair. We further discuss emerging delivery strategies, including exosome-based systems, functionalized nanomaterials, and scaffold-assisted platforms, which improve miRNA stability, targeting efficiency, and therapeutic efficacy. Finally, we examine the major challenges limiting clinical translation, including RNA instability, blood-brain barrier penetration, delivery specificity, and potential off-target effects. Collectively, current evidence suggests that miRNA-based interventions represent a promising therapeutic avenue for neural regeneration and provide new opportunities for developing precision regenerative strategies for nervous system injuries.",
+        "source": "PubMed",
+        "doi": "10.14670/HH-25-136",
+        "keyword": "Exosomes",
+        "title_ja": "神経系損傷におけるmiRNA媒介修復に関する比較的知見：組織学および再生医療への示唆",
+        "summary_ja": "成体哺乳類のCNSでは、内在性の神経再生能の限界と損傷後の抑制的微小環境により再生が強く制限される一方、PNSは自然修復能が高い。miRNAは軸索成長、神経炎症、グリア応答、組織リモデリングに関わる複数遺伝子・シグナル経路を協調的に制御するエピジェネティック調節因子である。本レビューはCNS・PNSにおけるmiRNA媒介性神経修復の知見を、内在性神経成長プログラムと外在性損傷微小環境への二重の役割に注目して概説する。哺乳類と再生モデル系のmiRNA発現パターンと再生機序を比較し、軸索再生、免疫調節、血管新生、Schwann細胞媒介性修復への寄与を論じる。さらにエクソソーム、機能化ナノ材料、足場支援プラットフォームなど送達戦略を検討し、RNA不安定性、血液脳関門透過、送達特異性、オフターゲット効果など臨床応用の課題を整理する。miRNA介入は神経再生の有望な治療戦略である。"
+      },
+      {
+        "title": "Functions of exosome-derived noncoding RNA-encoded polypeptides/proteins in human diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42750948/",
+        "abstract": "Exosomes are nanoscale vesicles that are ubiquitously present in biological fluids and exhibit remarkable stability, carrying a diverse array of biologically active molecules, including various RNAs, DNAs, and proteins. Exosomes are crucial mediators of intercellular signaling and exert extensive regulatory effects on nearly all physiological and pathological processes in the body. Traditionally, noncoding RNAs (ncRNAs) were deemed incapable of encoding proteins, but recent studies have demonstrated that noncoding RNAs harbor a substantial number of open reading frames, which possess the potential to encode peptides/proteins that are implicated in the pathogenesis and progression of various diseases. This review aims to comprehensively summarize the roles and mechanisms of exosome-derived ncRNA-encoded polypeptides/proteins (EDNEPs) in common diseases across nine major physiological systems, including the hematological, motor, digestive, respiratory, urinary, endocrine and reproductive, circulatory, immune, and nervous systems. Additionally, this review seeks to provide references for the clinical application of EDNEPs as diagnostic and prognostic biomarkers, promising therapeutic agents, and potential therapeutic targets.",
+        "source": "PubMed",
+        "doi": "10.1016/j.gendis.2026.102128",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム由来の非コードRNAがコードするポリペプチド／タンパク質のヒト疾患における機能",
+        "summary_ja": "エクソソームは生体液に広く存在するナノスケール小胞で、RNA・DNA・タンパク質など生理活性分子を内包し、細胞間シグナル伝達を媒介して生理・病理過程を幅広く制御する。従来タンパク質をコードしないとされた非コードRNA（ncRNA）が、多数のオープンリーディングフレームを持ち、疾患の発症・進展に関与するペプチド／タンパク質をコードすることが近年示された。本総説は、エクソソーム由来ncRNAコードペプチド／タンパク質（EDNEPs）について、血液・運動・消化・呼吸・泌尿・内分泌生殖・循環・免疫・神経の9系統における役割と機序を包括的にまとめ、診断・予後バイオマーカー、治療薬、治療標的としての臨床応用への参考を提供することを目的とする。"
+      },
+      {
+        "title": "Paternal neonatal sevoflurane exposure induces intergenerational anxiety via epididymal DNMT2-dependent sperm transfer RNA derived small RNA remodelling in rats.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42749531/",
+        "abstract": "Perioperative exposures such as general anaesthesia can induce long-term neurodevelopmental changes with potential intergenerational effects, but the paternal epigenetic mechanisms remain unclear. We investigated whether neonatal sevoflurane exposure in male rats drives intergenerational anxiety through DNA methyltransferase 2 (DNMT2)-dependent remodelling of sperm transfer RNA-derived small RNAs (tsRNAs).",
+        "source": "PubMed",
+        "doi": "10.1016/j.bja.2026.06.057",
+        "keyword": "Exosomes",
+        "title_ja": "父代新生期七氟烷暴露通过附睾DNMT2依赖性精子转运RNA衍生小RNA重塑诱导大鼠跨代焦虑。",
+        "summary_ja": "新生仔期の雄性ラットへのセボフルラン曝露が、父系を介した世代間の不安様行動を誘導する機序を検討した。その結果、精巣上体におけるDNMT2依存的な精子由来tRNA由来small RNA（tsRNA）のリモデリングを介して、次世代に不安が伝達されることが示された。"
+      },
+      {
+        "title": "A dual-module ECAS complex couples transcription elongation and RNA processing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42748909/",
+        "abstract": "Faithful gene expression requires coordination between RNA polymerase II elongation and co-transcriptional RNA processing, yet the chromatin-associated assemblies supporting this coupling remain incompletely defined. Using native chromatin proteomics in human cells, we identify ECAS (elongation complex associated with splicing), a bipartite assembly linking an elongation module (AFF4-ELL2-EAF1) to a U2 snRNP-associated intron binding complex. ECAS occupies promoter-proximal chromatin and is molecularly distinct from canonical P-TEFb-containing super elongation complex (SEC). Acute perturbation of Aquarius (AQR)/XAB2-dependent ECAS functions impairs productive gene-body elongation without altering pause release, increases intron retention, and preferentially affects long genes. AQR loss also reduces capping-factor recruitment and nascent 5' capping and increases promoter-proximal accumulation of cleavage/polyadenylation and RNA exosome factors. In mouse hematopoietic cells, Aqr is highly expressed, and its perturbation profoundly impairs leukemia initiation, maintenance, and leukemia stem cell function in MLL-rearranged leukemia. Together, these findings establish ECAS as a chromatin-associated assembly that couples productive elongation with RNA processing.",
+        "source": "PubMed",
+        "doi": "10.1016/j.molcel.2026.08.019",
+        "keyword": "Exosomes",
+        "title_ja": "二模块ECAS复合体偶联转录延伸与RNA加工。",
+        "summary_ja": "ヒト細胞のnative chromatin proteomicsにより、伸長モジュール（AFF4-ELL2-EAF1）とU2 snRNP関連イントロン結合複合体を連結する二部構成の会合体ECASを同定。ECASはプロモーター近傍クロマチンに存在し、P-TEFb含有SECとは分子的に異なる。AQR/XAB2依存性ECAS機能の急性阻害はpause releaseを変えず遺伝子本体の伸長を障害し、イントロン保持を増加させ、長い遺伝子に優先的に影響する。AQR喪失はcapping因子動員と新生5' cappingを低下させ、cleavage/polyadenylation因子とRNA exosome因子のプロモーター近傍蓄積を増加させる。マウス造血細胞ではAqrが高発現し、その阻害はMLL再構成白血病の initiation、維持、白血病幹細胞機能を強く障害する。ECASは伸長とRNAプロセシン"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **iPSC由来エクソソームの脳卒中臨床試験**：中国で第I/II相試験が開始。前臨床で有効性が示され、同種iPSCエクソソームは神経回復を促す新規細胞治療として期待される。\n\n2. **PDAC早期診断の液体生検**：miRNA署名とCA19-9を統合したPANXEONを4か国1,785名で検証。膵癌の早期発見は予後を大きく左右するため、実用化されれば意義は極めて大きい。\n\n3. **経鼻エクソソームによるパーキンソン病治療**：酸化セリウムナノザイムとSODを搭載しROSを除去。非侵襲的経鼻投与は脳への送達戦略として有望で、神経変性疾患治療の新機軸となる。\n\n4. **エクソソームncRNA由来ペプチドの機能**：非コードRNAが翻訳するペプチドが疾患制御に関与。従来の常識を覆す発見で、新たな創薬標的として注目される。\n\n5. **ADにおけるエクソソームの二面性**：アミロイドβ・タウ伝播を促す一方、バイオマーカー・治療媒体にもなる。病態理解と診断・治療応用の両面で重要性が高い。\n\n以上、エクソソーム医療の臨床応用と基礎的知見の進展が際立つ。"
+}

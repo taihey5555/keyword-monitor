@@ -1,0 +1,192 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Exosomal circular RNAs in the tumor immune microenvironment: From regulatory mechanisms to therapeutic opportunities and translational hurdles (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42757479/",
+        "abstract": "Immune checkpoint inhibitors have changed cancer treatment, although durable benefit remains limited because malignant, immune and stromal cells sustain suppression within the tumor immune microenvironment. Extracellular vesicles (EVs), including small EVs, can transfer circular RNAs (circRNAs) between defined donor and recipient cells. The relevant steps extend from circRNA biogenesis and entry into EV populations to delivery, intracellular activity, immune phenotype and clinical use. Incomplete transfer experiments, tumor‑intrinsic circRNA activity and engineered RNA platforms differ from direct EV‑mediated transfer. Direct transfer has been linked to tumor‑associated macrophages, myeloid‑derived suppressor cells, natural killer cells, CD8+ T cells and regulatory T cells. Within recipient cells, circRNAs can regulate microRNA availability, assemble RNA‑binding protein complexes, alter protein or RNA stability and produce functional peptides. Donor state, recipient identity, tissue site, EV subpopulation and delivered dose can change the resulting phenotype. Cancer‑associated fibroblasts further connect EV‑associated circRNAs with matrix remodeling, immune‑cell access and treatment tolerance. Biological support is classified from E0 to E3, while EV methods are considered separately through source definition, separation, characterization, RNA protection, uptake controls and quantitative dose. Translation will require full‑length circRNA identification, absolute measurement in EVs and recipient cells, spatial localization, prospective treatment cohorts and repeated‑dose safety testing. These requirements distinguish circulating associations from transferred molecules and identify the experiments needed for biomarker or therapeutic development.",
+        "source": "PubMed",
+        "doi": "10.3892/ijmm.2026.5989",
+        "keyword": "NK cell therapy",
+        "matched_keywords": [
+          "NK cell therapy",
+          "Exosomes"
+        ],
+        "title_ja": "腫瘍免疫微小環境におけるエクソソーム環状RNA：制御機構から治療の可能性および臨床応用への障壁まで（総説）",
+        "summary_ja": "免疫チェックポイント阻害薬はがん治療を変えたが、腫瘍免疫微小環境内の抑制により持続的効果は限定的である。細胞外小胞（EV）はcircRNAをドナー細胞からレシピエント細胞へ直接転送し、腫瘍関連マクロファージ、骨髄由来抑制細胞、NK細胞、CD8+ T細胞、制御性T細胞と関連する。受容細胞内でcircRNAはmicroRNA利用能、RNA結合タンパク質複合体、タンパク質・RNA安定性、機能性ペプチドを調節する。表現型はドナー状態、受容細胞、組織部位、EV亜集団、投与量で変化する。癌関連線維芽細胞は基質リモデリングや治療耐性を結びつける。生物学的支持はE0〜E3に分類され、EV法は供給源定義、分離、特性評価、RNA保護、取り込み制御、定量的投与量で評価される。実用化には全長circRNA同定、EV・受容細胞での絶対定量、空間局在、前向きコホート、反復投与安全性試験が必要である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Protective NK Cell Reservoir Based on DNA Supramolecular Hydrogel for Enhanced Triple-Negative Breast Cancer Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42756298/",
+        "abstract": "Adoptive natural killer (NK) cell therapy represents a promising strategy for triple-negative breast cancer, but its therapeutic efficacy is often limited by poor intratumoral persistence and functional exhaustion within the immunosuppressive tumor microenvironment. Here, we developed an injectable DNA supramolecular hydrogel-based NK cell delivery platform (NK@DSH) that functions as a protective reservoir for transferred NK cells. The DNA supramolecular hydrogel enabled efficient NK cell encapsulation under mild conditions while preserving both cell viability and functionality. In vivo fluorescence tracking demonstrated prolonged intratumoral persistence of NK cells for up to 7 d and increased NK cell accumulation within tumor tissues. In a 4T1 tumor-bearing mouse model, NK@DSH produced stronger tumor growth inhibition than free NK cell administration while showing negligible systemic toxicity. This DSH-based strategy provides a generalizable platform for adoptive cell therapy, offering new insights into overcoming cell-persistence barriers in the treatment of solid tumors.",
+        "source": "PubMed",
+        "doi": "10.34133/research.1436",
+        "keyword": "NK cell therapy",
+        "title_ja": "DNA超分子ヒドロゲルに基づく保護的NK細胞リザーバーによるトリプルネガティブ乳がん治療の強化",
+        "summary_ja": "養子NK細胞療法は三陰性乳癌に有望だが、腫瘍内持続性の低さと免疫抑制性腫瘍微小環境での機能疲弊が課題である。本研究では、注射可能なDNA超分子ヒドロゲルを用いたNK細胞送達プラットフォーム（NK@DSH）を開発した。DNA超分子ヒドロゲルは温和な条件下でNK細胞を効率的に封入し、生存性と機能を保持した。in vivo蛍光追跡により、NK細胞の腫瘍内持続が最長7日間延長し、腫瘍組織への集積増加が示された。4T1腫瘍担持マウスモデルで、NK@DSHは遊離NK細胞投与より強い腫瘍増殖抑制を示し、全身毒性は無視できる程度であった。本DSH戦略は養子細胞療法の汎用プラットフォームを提供し、固形腫瘍治療における細胞持続性障壁克服への新たな知見を与える。"
+      },
+      {
+        "title": "Natural killer cells in ovarian cancer therapy: mechanisms, evasion, and therapeutic innovations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42753071/",
+        "abstract": "Ovarian cancer, one of the most prevalent and formidable malignant tumours within the female reproductive system, poses a grave threat to women's health and lives. Although the current standard-of-care treatments-including cytoreductive surgery and platinum-based chemotherapy, supplemented by maintenance therapy with anti-angiogenic agents and poly (ADP-ribose) polymerase (PARP) inhibitors, can alleviate the disease to a certain extent, they face significant limitations, such as resistance to chemotherapeutic drugs, toxicity to normal tissues, and recurrence of the tumour. In contrast, natural killer (NK) cells, as an important part of the body's immune system, have anti-tumour activities, and their interaction with ovarian cancer cells to kill ovarian cancer cells brings new hope for cell therapy. The aim of this paper is to summarize the mechanisms involved in NK cells in ovarian cancer treatment, the current status of clinical applications, and new research strategies in the future, with the aim of providing a reference for the development of research and clinical practice in this field.",
+        "source": "PubMed",
+        "doi": "10.1007/s10787-026-02397-x",
+        "keyword": "NK cell therapy",
+        "title_ja": "卵巣癌治療におけるナチュラルキラー細胞：機序、回避、および治療革新",
+        "summary_ja": "卵巣癌は婦人科領域で最多かつ難治性の悪性腫瘍である。標準治療の細胞減滅術とプラチナ併用化学療法、抗血管新生薬やPARP阻害薬による維持療法は一定の効果を示すが、薬剤耐性、正常組織毒性、再発などの限界がある。一方、natural killer（NK）細胞は免疫系の重要因子で抗腫瘍活性を有し、卵巣癌細胞との相互作用による殺傷能が細胞療法の新たな可能性となる。本論文は、卵巣癌治療におけるNK細胞の機序、臨床応用の現状、今後の新規研究戦略を総括し、研究・臨床の発展に資することを目的とする。"
+      },
+      {
+        "title": "Adoptive NK cell therapy in AML: progress and challenges",
+        "url": "https://www.semanticscholar.org/paper/fe0da3d9ea73226c53ca5ed3a7125fcba75d6c21",
+        "abstract": "Adoptive cell therapy (ACT) using natural killer (NK) cells has emerged as a promising therapeutic strategy for acute myeloid leukemia (AML), addressing challenges such as chemotherapy resistance and high relapse rates. Over the years, clinical trials and studies have explored various sources of NK cells, including ex vivo expanded NK cell lines, CAR-NK cells, peripheral blood-derived NK cells, and umbilical cord blood-derived NK cells. These therapies have demonstrated varying degrees of therapeutic efficacy, ranging from transient anti-leukemia activity to sustained remission in select patient groups. Toxicity profiles have generally shown favorable safety outcomes, with minimal incidence of severe adverse effects such as cytokine release syndrome (CRS) or graft-versus-host disease (GVHD). However, persistent challenges remain, including limited NK cell persistence, relapse, and heterogeneity in patient responses. This review provides a comprehensive analysis of clinical outcomes and toxicity profiles provided from clinical trials, clinical studies and case reports conducted in the last 15 years to judge on the efficacy, safety and applicability of using NK cells for ACT of AML. Our review highlights the significant potential of NK cell-based therapies for AML, while addressing the technical and biological challenges that must be overcome to enhance their efficacy and safety.",
+        "source": "SemanticScholar",
+        "doi": "10.1007/s10238-025-01559-5",
+        "keyword": "NK cell therapy",
+        "title_ja": "AMLにおける養子NK細胞療法：進歩と課題",
+        "summary_ja": "AMLに対する養子NK細胞療法は、化学療法抵抗性や高い再発率といった課題に対処する有望な治療戦略である。ex vivo拡大NK細胞株、CAR-NK細胞、末梢血由来NK細胞、臍帯血由来NK細胞などが検討され、一過性の抗白血病活性から持続的寛解まで様々な有効性を示した。毒性は概ね良好で、CRSやGVHDなどの重篤な有害事象は少ない。しかしNK細胞の持続性限界、再発、患者間の反応不均一性などの課題が残る。本レビューは過去15年の臨床試験・研究・症例報告を分析し、有効性・安全性・適用可能性を評価した。NK細胞療法の大きな可能性を示す一方、 efficacyと安全性向上に克服すべき技術的・生物学的課題を指摘している。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Eomesodermin in renal cell carcinoma: Epigenetic and immune crosstalk driving tumor progression (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42757465/",
+        "abstract": "Renal cell carcinoma (RCC) is the main pathological type of kidney cancer, which accounts for approximately 85‑95% of all cases of kidney cancer. Despite the emergence of targeted therapies and immunotherapies, however, the development of resistance remains common. Eomesodermin (Eomes) is a member of the T‑box transcription factor family that links both developmental biology and immune regulation with tumor‑associated programs. In RCC, its function appears to be context‑dependent. In tumor‑infiltrating leukocytes, Eomes has been shown to support mature natural killer cell and memory CD8",
+        "source": "PubMed",
+        "doi": "10.3892/ijo.2026.5941",
+        "keyword": "NK cell therapy",
+        "title_ja": "腎細胞癌におけるEomesodermin：腫瘍進展を駆動するエピジェネティックおよび免疫のクロストーク（総説）",
+        "summary_ja": "腎細胞癌（RCC）は腎癌の主な病理型で、全症例の約85～95%を占める。標的療法や免疫療法が登場したものの、耐性獲得は依然として一般的である。Eomesodermin（Eomes）はT-box転写因子ファミリーの一員で、発生生物学と免疫調節を腫瘍関連プログラムに結びつける。RCCにおけるその機能は文脈依存的である。腫瘍浸潤白血球では、Eomesは成熟ナチュラルキラー細胞や記憶CD8の支持に関与することが示されている。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Therapeutic effects of exosome‑based hyperin delivery in a cyclophosphamide‑induced mouse model of diminished ovarian reserve.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42757484/",
+        "abstract": "The development of more effective and affordable strategies for the treatment of diminished ovarian reserve (DOR) is of notable importance due to its increasing prevalence in young patients and the limited efficacy of current clinical interventions in restoring fertility. The present study investigated the efficacy of umbilical cord‑derived mesenchymal stem cell (UCMSC)‑derived exosome‑based hyperin delivery in ameliorating cyclophosphamide (CP)‑induced DOR in mice, and elucidated the potential underlying mechanisms of resulting therapeutic benefits. Exosomes were isolated from UCMSCs and encapsulated with hyperin using ultrasonication. The DOR mouse model itself was established via treatment with CP; these model mice were then treated with hyperin, UCMSC‑exosome controls or hyperin‑encapsulated UCMSC‑exosomes. After treatment, body weight, estrous cycles and general health were monitored. Ovarian tissues were evaluated histologically, and serum levels of anti‑Müllerian hormone, follicle‑stimulating hormone and estradiol were measured via enzyme‑linked immunosorbent assay. Ovarian expression of the autophagy markers LC3 II, Beclin‑1 and P62 was analyzed via western blotting. CP treatment led to a notable deterioration in general health, body weight and ovarian function, as evidenced by altered estrous cycles and reduced follicle counts. Treatment with hyperin‑loaded UCMSC‑exosomes resulted in improvements in body weight, the restoration of estrous cycles. Notably, compared with the model group, mice treated with hyperin‑loaded UCMSC‑exosomes demonstrated increased primordial follicle counts and decreased atretic follicle counts. Treatment with hyperin‑loaded UCMSC‑exosomes modulated autophagic activity within the ovaries, with reduced LC3‑Ⅱ and beclin‑1 levels and increased P62 levels following treatment with hyperin‑loaded UCMSC‑derived exosomes. UCMSC‑derived exosomes loaded with hyperin effectively mitigated the adverse effects of CP on ovarian function, potentially via the modulation of autophagic processes. These findings supported the therapeutic potential of engineered exosomes for treating DOR, highlighting a novel approach for fertility preservation and reproductive medicine.",
+        "source": "PubMed",
+        "doi": "10.3892/mmr.2026.14021",
+        "keyword": "Exosomes",
+        "title_ja": "シクロホスファミド誘発性卵巣予備能低下マウスモデルにおけるエクソソームベースのヒペリン送達の治療効果",
+        "summary_ja": "シクロホスファミド（CP）誘発性の卵巣予備能低下（DOR）マウスモデルに対し、臍帯由来間葉系幹細胞（UCMSC）由来エクソソームにhyperinを封入した治療効果を検討した。超音波処理で作製したhyperin封入UCMSCエクソソームを投与したところ、体重・性周期が改善し、原始卵胞数が増加、閉鎖卵胞数が減少した。また卵巣のオートファジーマーカーLC3-IIおよびBeclin-1が低下し、P62が増加した。UCMSCエクソソームによるhyperin送達は、オートファジー調節を介してCPの卵巣機能障害を軽減し、DOR治療や生殖医療における新規アプローチとして有望である。"
+      },
+      {
+        "title": "tRNA‑derived RNAs in hepatic diseases: From biological functions to clinical translation (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42757477/",
+        "abstract": "In recent years, with the deepening understanding of the significant role of small non‑coding RNAs in human health and diseases, transfer RNA‑derived RNAs (tsRNAs) have gradually become a research focus. Existing evidence shows that tsRNAs not only participate in the regulation of liver gene expression, translation and stress response, but may also act as signaling molecules to mediate inter‑organ communication. However, the specific pathological mechanism and clinical value in the occurrence and development of liver diseases remain unclear. Although tsRNAs show promising prospects as non‑invasive biomarkers and are expected to be used in the diagnosis of liver diseases, screening of therapeutic targets, drug delivery and regulation of enzyme activity, the methodological limitations at present and the differences in performance among different disease types and populations have significantly restricted their clinical translation. The present article systematically reviews the pathological roles of tsRNAs in various liver diseases, with a focus on elaborating their roles in tumor evolution, metabolic disorders and immune regulation. Their clinical application potential was also evaluated, methodological challenges were discussed, and future directions were proposed to advance tsRNA‑based clinical translation in hepatology.",
+        "source": "PubMed",
+        "doi": "10.3892/ijmm.2026.5987",
+        "keyword": "Exosomes",
+        "title_ja": "肝疾患におけるtRNA由来RNA：生物学的機能から臨床応用まで（総説）",
+        "summary_ja": "近年、small non-coding RNAの役割の理解が深まり、transfer RNA-derived RNAs（tsRNAs）が注目されている。tsRNAsは肝遺伝子発現、翻訳、ストレス応答の制御に関与し、シグナル分子として臓器間通信を媒介する可能性がある。しかし肝疾患の発症・進展における病理機構や臨床的価値は未解明である。tsRNAsは非侵襲的バイオマーカーとして有望で、肝疾患診断、治療標的スクリーニング、drug delivery、酵素活性制御への応用が期待されるが、方法論的限界や疾患・集団間の性能差が臨床応用を制限している。本総説は各種肝疾患におけるtsRNAsの病理的役割、特に腫瘍進展、代謝障害、免疫調節への関与を概説し、臨床応用可能性、方法論的課題、今後の方向性を論じる。"
+      },
+      {
+        "title": "Synthesis of RARα-PROTAC and its delivery via ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42757084/",
+        "abstract": "Retinoic acid receptor α (RARα) is a promising yet challenging target in treating colorectal cancer (CRC). Traditional RARα-binding modulators often fail to fully inhibit downstream oncogenic pathways and cannot eliminate the pre-existing RARα protein, frequently resulting in drug resistance and treatment failure. To overcome these limitations, we designed a series of proteolysis-targeting chimeras (PROTACs) based on the ligand CA77.1, which are bifunctional molecules that recruit the ubiquitin-proteasome system for RARα degradation.​Among these candidates, compound Z1 proved the most potent degrader, demonstrating a DC",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103651",
+        "keyword": "Exosomes",
+        "title_ja": "RARα-PROTACの合成とその送達",
+        "summary_ja": "レチノイン酸受容体α（RARα）は大腸癌（CRC）治療の有望な標的だが、従来のRARα結合調節薬は下流の癌化経路を完全に阻害できず、既存のRARαタンパク質を分解できないため、薬剤耐性や治療失敗が頻発する。この限界を克服するため、リガンドCA77.1を基にしたPROTAC（標的タンパク質分解誘導キメラ）を設計した。PROTACはユビキチン-プロテアソーム系を動員してRARαを分解する二機能性分子である。候補化合物のうちZ1が最も強力な分解剤であり、DC（分解濃度）を示した。"
+      },
+      {
+        "title": "Transcriptional activation of GSTP1 by ANXA3 is associated with cisplatin sensitivity in colorectal cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42756919/",
+        "abstract": "Although platinum-based chemotherapeutic agents demonstrate efficacy against colorectal cancer (CRC), the development of resistance to these agents remains a notable clinical challenge, with the underlying mechanisms still incompletely understood. In the present study, public tumor databases revealed that annexin A3 (ANXA3) was significantly upregulated in CRC primary tumors. This upregulation was then validated at the protein level using a tissue microarray, which confirmed elevated ANXA3 expression in CRC tumor tissues. The Kaplan-Meier curve analysis further demonstrated that patients with CRC with high ANXA3 expression exhibited shorter overall survival compared with those with low expression. Notably, CRC cell lines with high ANXA3 expression showed reduced sensitivity to cisplatin. Moreover, overexpression of ANXA3 significantly diminished cisplatin sensitivity in CRC cells, whereas silencing ANXA3 enhanced this sensitivity. These results collectively indicated that ANXA3 modulated cisplatin sensitivity in CRC cells. Subsequent investigations revealed that ANXA3 upregulated glutathione S-transferase P1 (GSTP1) expression in CRC cells in an NF-κB-dependent manner, a pathway mechanistically implicated in clinically observed chemotherapy resistance. In addition, ANXA3-overexpressing exosomes were found to upregulate GSTP1 transcriptional expression and decrease cisplatin sensitivity in CRC cells. Finally, ",
+        "source": "PubMed",
+        "doi": "10.3892/ol.2026.15846",
+        "keyword": "Exosomes",
+        "title_ja": "ANXA3によるGSTP1の転写活性化は大腸がん細胞のシスプラチン感受性と関連している",
+        "summary_ja": "大腸癌（CRC）ではプラチナ系薬剤への耐性獲得が臨床的課題であり、その機序は未解明な部分が多い。本研究では公共腫瘍データベースよりCRC原発腫瘍でANXA3が有意に高発現していることを見出し、組織マイクロアレイでタンパク質レベルでも検証した。Kaplan-Meier解析ではANXA3高発現患者は全生存期間が短かった。ANXA3高発現CRC細胞株はシスプラチン感受性が低下し、ANXA3過剰発現は感受性を低下させ、ノックダウンは感受性を亢進させた。ANXA3はNF-κB依存的にGSTP1発現を上昇させ、これは臨床的な化学療法耐性に関与する経路である。さらにANXA3過剰発現エクソソームはGSTP1転写を上昇させシスプラチン感受性を低下させた。"
+      },
+      {
+        "title": "Dose-Response Overstatement and Vesicle-Attribution Uncertainty in Hypoxia-Conditioned MSC Exosome Therapy for Androgenetic Alopecia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42756413/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.4274/MMJ.galenos.2026.39960",
+        "keyword": "Exosomes",
+        "title_ja": "男性型脱毛症に対する低酸素処理MSCエクソソーム療法における用量反応の過大評価と小胞帰属の不確実性",
+        "summary_ja": "ご提示いただいたタイトルと内容のみでは、本文が存在しないため要約できません。本文（Abstract等）をご提供ください。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Exosomal miR-223-3p, associated with NLRP3-related neuroinflammation, as a potential biomarker for mild cognitive impairment in patients with type 2 diabetes mellitus.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42754564/",
+        "abstract": "BackgroundNeuroinflammation has been implicated in diabetic cognitive dysfunction, with the NLRP3 playing an important role.ObjectiveThis study aimed to elucidate the regulatory role of miR-223-3p in NLRP3 associated neuroinflammation and its potential as a biomarker for mild cognitive impairment (MCI) in type 2 diabetes mellitus (T2DM).MethodsDiabetic mouse models were generated by 24 weeks of high-fat diet feeding, with cognitive impairment verified by behavioral assessments. Hippocampal tissues were analyzed by microRNA sequencing and validated for miR-223-3p expression. NLRP3-mediated neuroinflammation was examined in vivo, while in vitro assays using BV2 cells assessed mechanistic pathways. BV2 cells with miR-223-3p knockdown and overexpression to evaluate its effects on NLRP3. Clinically, plasma exosomal miR-223-3p was quantified in T2DM patients with and without MCI and correlated with neuropsychological test scores.ResultsDiabetic mice exhibited cognitive decline, reduced hippocampal miR-223-3p, microglial activation, and elevated NLRP3 and pro-inflammatory cytokines. miR-223-3p knockdown and overexpression induced and attenuated neuroinflammation, respectively. Luciferase reporter gene assays confirmed the direct regulatory of miR-223-3p on NLRP3. Clinically, exosomal miR-223-3p levels were significantly lower in T2DM patients with MCI (n = 98) compared with cognitive normal patients (n = 147), correlating with global cognition, and immediate memory performance. ROC analysis demonstrated that, when using the threshold of 0.7565, miR-223-3p achieved a diagnostic specificity of 71.4% and a sensitivity of 68.7% for identifying MCI.ConclusionsmiR-223-3p exerts neuroprotective effects by suppressing NLRP3-mediated neuroinflammation. Its downregulation contributes to cognitive impairment in diabetes, and circulating exosomal miR-223-3p represents a potential biomarker for identifying MCI in T2DM.",
+        "source": "PubMed",
+        "doi": "10.1177/13872877261487620",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームmiR-223-3pは、NLRP3関連神経炎症と関連し、2型糖尿病患者における軽度認知障害の潜在的なバイオマーカーとなる。",
+        "summary_ja": "糖尿病性認知機能障害にはNLRP3を介した神経炎症が関与する。本研究はmiR-223-3pのNLRP3関連神経炎症における調節作用と、2型糖尿病（T2DM）における軽度認知障害（MCI）のバイオマーカーとしての可能性を検討した。高脂肪食飼育マウスで認知機能低下、海馬miR-223-3p減少、ミクログリア活性化、NLRP3および炎症性サイトカイン上昇を認めた。miR-223-3pノックダウンは神経炎症を誘導し、過剰発現は抑制した。ルシフェラーゼアッセイでNLRP3への直接制御を確認した。臨床ではMCI合併T2DM患者（n=98）で血漿エクソソームmiR-223-3pが認知正常者（n=147）より有意に低く、認知機能と相関した。ROC解析で閾値0.7565において特異度71.4%、感度68.7%を示した。miR-223-3pはNLRP3抑制を介し神経保護的に作用し、T2DMのMCIを識別するバ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Small extracellular vesicles in osteoarthritis: A double‑edged sword regulating inflammation and cartilage homeostasis (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42757457/",
+        "abstract": "Osteoarthritis (OA) is a progressive degenerative joint disease and a leading cause of pain, disability and loss of joint function in older adults worldwide. Small extracellular vesicles (sEVs) are small vesicles secreted by cells and found in various body fluids. They carry a range of bioactive molecules, including nucleic acids, proteins and lipids, and participate in numerous cellular physiological activities, such as cell death, inflammation, immunity, proliferation, migration and differentiation. Depending on their cellular origin, sEVs can exert opposing effects on OA: They may either aggravate inflammation and cartilage damage or suppress inflammation and promote cartilage repair. Therefore, this review focuses on the preclinical research evidence regarding the dual mechanism of 'promoting or treating' by sEVs in the disease of OA, aiming to construct a theoretical framework to provide a theoretical basis for the development and translational application of OA treatment strategies based on sEVs.",
+        "source": "PubMed",
+        "doi": "10.3892/ijmm.2026.5990",
+        "keyword": "sEVs",
+        "title_ja": "変形性関節症における小型細胞外小胞：炎症と軟骨恒常性を制御する諸刃の剣（総説）",
+        "summary_ja": "変形性関節症（OA）は進行性の変性関節疾患であり、高齢者の疼痛・障害・関節機能喪失の主因である。small extracellular vesicles（sEVs）は細胞が分泌し体液中に存在する小胞で、核酸・タンパク質・脂質などの生理活性分子を運び、細胞死・炎症・免疫・増殖・遊走・分化など多くの細胞生理活動に関与する。sEVsはその細胞起源によりOAに対して相反する効果を及ぼし、炎症や軟骨損傷を悪化させる場合もあれば、炎症を抑制し軟骨修復を促進する場合もある。本レビューは、OAにおけるsEVsの「促進または治療」という二重機構に関する前臨床研究のエビデンスに焦点を当て、sEVsに基づくOA治療戦略の開発と臨床応用のための理論的枠組みを構築することを目的とする。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Single-Vesicle Functional Nanophenotyping Reveals Heterogeneous PD-L1 Accessibility in Triple-Negative Breast Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42750561/",
+        "abstract": "The functional accessibility of membrane proteins is a fundamental determinant of biological activity but cannot be accurately inferred from protein abundance alone. Current extracellular vesicle (EV) analyses primarily quantify expression levels, providing limited information on whether surface ligands are physically accessible for molecular interactions. Here, we establish high-speed atomic force microscopy (HS-AFM) as a label-free, real-time approach for directly visualizing and quantifying ligand accessibility on individual small extracellular vesicles (sEVs) under near-physiological conditions. Using programmed death-ligand 1 (PD-L1) as a model immune checkpoint, we characterize antibody binding dynamics on sEVs derived from luminal breast cancer cells, triple-negative breast cancer (TNBC) cells, and patient-derived TNBC cells. PD-L1-high TNBC sEVs exhibit frequent, stable antibody docking with prolonged dwell times, whereas PD-L1-low luminal sEVs display predominantly transient interactions despite detectable PD-L1 expression. Patient-derived sEVs show intermediate binding dynamics, revealing functional heterogeneity that is not captured by bulk protein measurements. By integrating binding frequency and interaction dwell time, we establish a quantitative framework for nanoscale functional phenotyping of individual vesicles. These findings identify ligand accessibility as a distinct biophysical property complementary to protein abundance and establish HS-AFM as a platform for investigating membrane protein function at single-vesicle resolution.",
+        "source": "PubMed",
+        "doi": "10.1002/smtd.71041",
+        "keyword": "sEVs",
+        "title_ja": "単一小胞機能ナノフェノタイピングがトリプルネガティブ乳がんにおける不均一なPD-L1アクセシビリティを明らかにする",
+        "summary_ja": "高速原子間力顕微鏡（HS-AFM）を用い、小細胞外小胞（sEV）上のPD-L1のリガンドアクセシビリティを近生理的条件下で直接可視化・定量した。管腔型乳がん、トリプルネガティブ乳がん（TNBC）、患者由来TNBC由来sEVを比較すると、PD-L1高発現TNBC sEVは安定で長時間の抗体結合を示す一方、PD-L1低発現管腔型sEVは発現が検出可能でも一過性結合が主体であった。患者由来sEVは中間的動態を示し、バルク測定では捉えられない機能的不均一性が明らかとなった。結合頻度と滞在時間を統合し、単一小胞のナノスケール機能表現型解析の定量的枠組みを確立した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **NK細胞送達基盤NK@DSH**：DNA超分子ヒドロゲルでNK細胞を腫瘍内に保持し、三陰性乳癌の養子NK療法の持続性・疲弊課題を克服する試み。局所送達の実用化が期待される。\n\n2. **AML・卵巣癌へのNK細胞療法**：CAR-NKや臍帯血由来NKなど多様な戦略が進行中。難治性血液癌・固形癌での有効性確立と持続性向上が今後の焦点。\n\n3. **sEV上のPD-L1機能ナノフェノタイピング**：HS-AFMでPD-L1のリガンドアクセシビリティを可視化し、TNBCで不均一性を証明。免疫チェックポイント阻害薬のバイオマーカー開発に貢献しうる。\n\n4. **エクソソームcircRNAと腫瘍免疫微小環境**：EVがcircRNAを細胞間転送し、マクロファージ・NK細胞等を制御。治療応用と臨床実装の障壁整理が進む。\n\n5. **エクソソームによるRARα-PROTAC送達**：大腸癌で分解困難なRARαをPROTAC化しEVで送達する新規戦略。薬剤耐性克服への展開が期待される。"
+}

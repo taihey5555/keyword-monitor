@@ -1,0 +1,175 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Influence of Klotho Protein Levels in Obesity and Sarcopenia: A Systematic Review",
+        "url": "https://www.semanticscholar.org/paper/487aee98319ca4b05d9260549fb66113dfd35d90",
+        "abstract": "The Klotho gene is recognized for its anti-aging properties. Its downregulation leads to aging-like phenotypes, whereas overexpression can extend lifespan. Klotho protein exists in three forms: α-klotho, β-klotho and γ-klotho. The α-klotho has two isoforms: a membrane-bound form, primarily in the kidney and brain, and a secreted klotho protein present in blood, urine, and cerebrospinal fluid. Klotho functions as a co-receptor for fibroblast growth factor-23 (FGF23), regulating phosphate metabolism. The membrane-bound form controls various ion channels and receptors, while the secreted form regulates endocrine FGFs, including FGF19 and FGF21. The interaction between β-klotho and FGF21 in muscle is critical in the development of sarcopenic obesity. This systematic review, registered in PROSPERO and conducted following PRISMA guidelines, evaluates klotho levels in individuals with obesity or sarcopenic obesity. The study includes overweight, obese, and sarcopenic obese adults compared to those with a normal body mass index. After reviewing 713 articles, 20 studies were selected, including observational, cross-sectional, cohort studies, and clinical trials. Significant associations between klotho levels and obesity, metabolic syndrome (MS), and cardiovascular risk were observed. Exercise and dietary interventions positively influenced klotho levels, which were linked to improved muscle strength and slower decline. Klotho is a potential biomarker for obesity, MS, and sarcopenic obesity. Further research is needed to explore its mechanisms and therapeutic potential.",
+        "source": "SemanticScholar",
+        "doi": "10.3390/ijms26051915",
+        "keyword": "Klotho",
+        "title_ja": "肥満とサルコペニアにおけるクロトータンパク質レベルの影響：系統的レビュー",
+        "summary_ja": "Klotho遺伝子は抗老化作用で知られ、その発現低下は老化様表現型を招き、過剰発現は寿命を延長する。Klothoタンパク質にはα、β、γの3形態があり、α-klothoは膜結合型と分泌型の2つのアイソフォームを持つ。KlothoはFGF23の共受容体としてリン代謝を調節し、膜結合型はイオンチャネルや受容体を、分泌型はFGF19やFGF21などの内分泌FGFを制御する。β-klothoとFGF21の筋肉での相互作用はサルコペニア肥満の発症に重要である。本系統的レビューはPROSPEROに登録されPRISMAに準拠し、肥満やサルコペニア肥満者のKlothoレベルを評価した。713件の文献から20研究を選定し、Klothoレベルと肥満、メタボリックシンドローム（MS）、心血管リスクとの有意な関連を認めた。運動・食事介入はKlothoレベルを改善し、筋力向上や低下抑制と関連した。Klothoは肥満"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Mechanically adaptive dual-crosslinked hydrogel integrated with metal-phenolic cell backpacks for active keloid therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42762840/",
+        "abstract": "Keloids are invasive, highly recurrent fibroproliferative disorders. Clinical samples reveal a pathological pattern characterized by dysregulated extracellular matrix (ECM) remodeling, reduced NK-cell infiltration, and elevated TGF-β1. Current monotherapies have limited efficacy, and local delivery systems fail to achieve deep penetration and sustained effects due to the dense ECM barrier. To address these, we propose an active strategy of mechanically adaptive carrier delivering functionalized immune cells and develop a pH-responsive dual-crosslinked hydrogel (OR-Mg@NK@Gel) with oxyresveratrol‑magnesium (OR-Mg) metal-phenolic cell backpacks. The hydrogel is fabricated from methacrylated oxidized hyaluronic acid and 8-arm polyethylene glycol amine via sequential crosslinking of dynamic Schiff base and blue light-induced covalent networks, tuning the storage modulus to ~400 Pa to provide a soft, cell-compatible matrix with appropriate injectability and structural stability. It has interconnected macropores and pH-responsive degradation, supporting cells and enabling spatiotemporally controlled co-release of cells and therapeutics, overcoming compliance mismatch and drug burst release of conventional hydrogels. OR-Mg@NK cell backpacks are constructed by electrostatically associating surface-charge-reversed OR-Mg nanoparticles predominantly with NK cell membranes. This non-covalent modification preserves cell viability while enhancing NK cell chemotaxis via PI3K/AKT activation, enabling active penetration through dense collagen barriers. By combining hydrogel-mediated local retention with NK-cell-mediated active migration, OR-Mg@NK@Gel enables enhanced penetration through the dense ECM barrier and broader intralesional distribution. In a nude mouse keloid model, it achieved 90.62% volume inhibition and 94.26% weight inhibition, both significantly outperforming 5-fluorouracil. It also improved disordered collagen arrangement and remodeled immune microenvironment toward an anti-fibrotic state. This work provides a novel paradigm for designing efficient cell delivery systems targeting dense fibrotic tissues and holds promising translational potential.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jconrel.2026.115373",
+        "keyword": "NK cell therapy",
+        "title_ja": "機械的に適応する二重架橋ヒドロゲルと金属-フェノール細胞バックパックの統合によるケロイドの能動的治療",
+        "summary_ja": "ケロイドは侵襲性・再発性の高い線維増殖性疾患で、ECMリモデリング異常、NK細胞浸潤低下、TGF-β1上昇を特徴とする。既存の単剤療法や局所送達は緻密なECMバリアのため深部到達と持続効果が困難である。本研究では、力学適応型担体で機能化免疫細胞を送達する戦略を提案し、pH応答性二重架橋ヒドロゲル（OR-Mg@NK@Gel）とオキシレスベラトロール-マグネシウム（OR-Mg）金属フェノール細胞バックパックを開発した。ヒドロゲルはメタクリル化酸化ヒアルロン酸と8-arm PEGアミンからシッフ塩基と光架橋で作製され、貯蔵弾性率約400 Pa、連通マクロ細孔とpH応答分解により細胞と治療薬の時空間的共放出を実現する。OR-Mg@NKバックパックは電荷反転OR-Mgナノ粒子をNK細胞膜に静電結合し、PI3K/AKT活性化を介して走化性を高め、緻密なコラーゲンバリアを能動的に透過する。ヌードマウスケ"
+      },
+      {
+        "title": "Oncolytic virotherapy at the tumor microenvironment-CAR Therapy interface: Mechanisms, clinical translation, and future directions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42762609/",
+        "abstract": "Oncolytic virotherapy has evolved from a tumor-selective cytolytic strategy into a programmable immunotherapeutic platform that reshapes the tumor microenvironment (TME). Oncolytic viruses (OVs) selectively infect malignant cells, induce immunogenic cell death, release tumor antigens, and activate innate and adaptive immunity, potentially converting cold tumors into inflamed states. However, clinical translation remains limited by antiviral clearance, heterogeneous delivery, stromal barriers, immunosuppressive cells, and incomplete integration with cellular immunotherapy. This review synthesizes these mechanisms, platforms, and translational challenges. This review emphasizes platform-specific interactions between oncolytic viruses (OVs) and CAR-T, CAR-NK, and tumor-infiltrating lymphocyte (TIL) therapies. OVs may enhance CAR-T trafficking, antigen availability, local immune activation, and resistance to suppressive tumor microenvironmental signals. In CAR-NK therapy, OV-mediated cytokine support and TME remodeling may improve recruitment and activity, although antiviral NK responses can limit viral persistence. TIL therapy is considered separately because it relies on endogenous tumor-antigen recognition rather than engineered CAR targeting. Overall, direct OV-CAR evidence remains largely preclinical and platform-specific, while early clinical experience is more established for OV combinations with TILs and other immunotherapies in human studies. However, these mechanisms are supported predominantly by preclinical and early translational evidence, and direct clinical validation of OV-CAR combinations remains limited. Antiviral clearance, heterogeneous intratumoral infection, neutralizing immunity, delivery constraints, and potentially overlapping inflammatory toxicities may also restrict therapeutic synergy. Finally, we propose biomarker-driven trial designs that incorporate viral pharmacology, TME conversion, antigen-presentation competence, cellular-product persistence, and response assessment in injected and non-injected lesions.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ctarc.2026.101449",
+        "keyword": "NK cell therapy",
+        "title_ja": "腫瘍微小環境とCAR療法の界面における腫瘍溶解性ウイルス療法：機序、臨床応用、および今後の方向性",
+        "summary_ja": "腫瘍溶解性ウイルス療法（OV）は、腫瘍選択的細胞傷害戦略から腫瘍微小環境（TME）を再構築するプログラム可能な免疫療法へ進化した。OVは腫瘍細胞に選択的に感染し、免疫原性細胞死、腫瘍抗原放出、自然・適応免疫活性化を誘導し、cold tumorをinflamed状態へ転換しうる。しかし抗ウイルス清除、不均一な送達、間質バリア、免疫抑制細胞、細胞免疫療法との統合不全が臨床応用を制限する。本レビューはOVとCAR-T、CAR-NK、TIL療法の相互作用を強調する。OVはCAR-Tの遊走、抗原提示、局所免疫活性化、抑制性TME抵抗性を高めうる。CAR-NKではサイトカイン支援とTME再構築が活性を改善しうるが、抗ウイルスNK応答がウイルス持続を制限する。TIL療法は内因性抗原認識に依存するため別途扱う。OV-CARの直接的証拠は主に前臨床段階で、臨床経験はTIL等他免疫療法との併用が先行する。抗ウ"
+      },
+      {
+        "title": "T cell-dependent modulation of pain behaviors in a rat model of recurring paclitaxel-induced peripheral neuropathy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42761819/",
+        "abstract": "Advances in preventing or treating chemotherapy-induced peripheral neuropathy (CIPN) have been limited because most preclinical models do not capture the repeated cycles of chemotherapy exposure common in clinical practice. Consequently, the mechanisms driving CIPN across successive chemotherapy cycles remain incompletely understood. Here, we investigated the contribution of T cells to recurrent paclitaxel (PTX)-induced peripheral neuropathy (PIPN) using homozygous RNU rats (T cell-deficient) and heterozygous littermates (T cell-competent). PTX (8 mg/kg total) was administered intraperitoneally over two treatment cycles to model repeated chemotherapy exposure and its effects on neuropathic pain. Pain sensitivity testing with von Frey filaments, dry-ice, and acetone assays revealed distinct pain phenotypes across cycles. Mechanical allodynia was transient, resolving between cycles, with a smaller reduction in mechanical withdrawal threshold during the observed period following the second cycle, independent of T cell status. In contrast, cold hyperalgesia persisted in T cell-competent rats but did not reach significance in T cell-deficient rats, whereas cold allodynia was transient, resolving between cycles, and developed exclusively in T cell-competent rats. T cell frequencies in peripheral neural tissues were higher after the second PTX cycle than after the first, while natural killer cell populations showed T cell- and tissue-specific differences across cycles. CD163",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbih.2026.101349",
+        "keyword": "NK cell therapy",
+        "title_ja": "再発性パクリタキセル誘発末梢神経障害ラットモデルにおける疼痛行動のT細胞依存性調節",
+        "summary_ja": "パクリタキセル反復投与による末梢神経障害（PIPN）モデルでT細胞の関与を検討した。T細胞欠損RNUラットとT細胞保有同腹仔にPTXを2サイクル腹腔内投与し、疼痛感受性を評価した。機械的アロディニアは一過性でサイクル間で消退し、T細胞非依存性だった。一方、冷痛覚過敏はT細胞保有ラットで持続したが欠損ラットでは有意でなく、冷アロディニアはT細胞保有ラットのみで一過性に発現した。末梢神経組織のT細胞頻度は第2サイクル後に増加し、NK細胞集団はT細胞・組織特異的差異を示した。"
+      },
+      {
+        "title": "Inhibition of the Wnt/β-Catenin pathway via an LGK974-cyclodextrin inclusion complex alleviates cardiac injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42731510/",
+        "abstract": "Cardiac hypertrophy and fibrosis arise from molecular, physiological, and immune alterations triggered by disorders such as myocardial infarction, myocarditis, and Chagas cardiomyopathy. The Wnt/β-catenin pathway is central to this remodeling. Here,we evaluated the therapeutic potential of a supramolecular complex of the Wnt/β-catenin inhibitor LGK974 and modified cyclodextrin (CD:LGK974) to attenuate cardiac injury in experimental model of Trypanosoma cruzi (T. cruzi)-induced cardiac damage. In vivo, Balb/c mice were intraperitoneally infected with 10 ³ T. cruzi trypomastigotes and treated with CD:LGK974 via oral gavage for 21 days under different dose regimes to assess its immunomodulatory, antifibrotic, and antihypertrophic activities. The treatment significantly reduced parasitemia, cardiac hypertrophy and fibrosis in the T. cruzi infection model compared to control groups. Immunofluorescence revealed downregulation of β-catenin in treated animals. Additionally, flow cytometry demonstrated proliferation of CD4",
+        "source": "PubMed",
+        "doi": "10.1016/j.biopha.2026.119859",
+        "keyword": "NK cell therapy",
+        "title_ja": "LGK974-シクロデキストリン包接複合体によるWnt/β-カテニン経路の阻害は心臓障害を軽減する。",
+        "summary_ja": "Wnt/β-catenin経路は心肥大・線維化の中心的役割を担う。本研究では、Wnt/β-catenin阻害薬LGK974と修飾シクロデキストリン（CD）の超分子複合体（CD:LGK974）の治療可能性を、Trypanosoma cruzi誘発心障害モデルで評価した。Balb/cマウスに10³トリポマスティゴートを腹腔感染させ、CD:LGK974を21日間経口投与した。治療群では対照群と比べ寄生虫血症、心肥大、線維化が有意に減少した。免疫蛍光法でβ-cateninの発現低下が確認され、フローサイトメトリーではCD4陽性細胞の増殖が示された。"
+      },
+      {
+        "title": "Licochalcone B inhibits Neuritin 1-driven perineural invasion and osteosarcoma progression via the Hedgehog signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42727455/",
+        "abstract": "Osteosarcoma (OS), the most common primary malignant bone tumor, remains an aggressive malignancy with limited targeted therapeutic options. Neuritin 1 (NRN1) has been implicated in neuronal development and tumor progression. Licochalcone B (LCB), a bioactive chalcone derived from Glycyrrhiza uralensis Fisch, exhibits antitumor effects in various cancers. However, the precise role of NRN1 and the therapeutic efficacy of LCB via regulating NRN1 in OS remain unclear.",
+        "source": "PubMed",
+        "doi": "10.1016/j.phymed.2026.158785",
+        "keyword": "NK cell therapy",
+        "title_ja": "リコカルコンBはHedgehogシグナル伝達経路を介してニューロフィリン1が駆動する神経周囲浸潤および骨肉腫の進行を阻害する。",
+        "summary_ja": "骨肉腫（OS）は最も一般的な原発性悪性骨腫瘍で、治療選択肢が限られている。NRN1は神経発達や腫瘍進行に関与し、LCBはウラルカンゾウ由来のカルコンで抗腫瘍効果を示す。しかしOSにおけるNRN1の役割と、NRN1を介したLCBの治療効果は不明である。本研究は、LCBがHedgehogシグナル経路を介してNRN1駆動の神経周囲浸潤とOS進行を阻害することを示した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosome-mediated modulation of osteogenesis under inflammatory conditions: a systematic review of in vitro studies on human periodontal ligament stem cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42763369/",
+        "abstract": "Exosomes have emerged as promising cell-free therapeutic agents for tissue regeneration. However, chronic inflammation, a hallmark of periodontal disease, may impair their osteogenic potential. This systematic review evaluated how inflammatory conditions influence the ability of exosomes to modulate osteogenesis in human periodontal ligament stem cells (hPDLSC) in vitro. Electronic databases and grey literature were searched up to February 2026, and study selection followed a two-phase screening process. Risk of bias was assessed using the Risk of Bias in Dental Preclinical Research Tool (RobDMAT), while certainty of evidence was evaluated using adapted GRADE criteria. Primary outcomes included alkaline phosphatase (ALP) activity and extracellular matrix mineralization. Due to substantial heterogeneity across studies, a meta-analysis was not performed, and findings were synthesized qualitatively using fold-change comparisons. Six studies were included. Exosome-based interventions consistently enhanced osteogenic outcomes under inflammatory conditions, although with variable magnitude. Extracellular matrix mineralization showed robust increases (> 4-fold) in two studies (10.67- and 4.38-fold), moderate enhancement in one study (3.06-fold), and weak increases (< 2-fold) in three studies (1.95-, 1.60-, and 1.41-fold). ALP activity demonstrated predominantly moderate (3.04-, 3.30-, and 3.83-fold) to robust enhancement (5.50- and 6.75-fold). Limited evidence also suggested a reduction in pro-inflammatory mediators, although this outcome remains insufficiently explored. Exosomes appear to partially overcome the inhibitory effects of inflammation on osteogenesis in hPDLSC, supporting their potential as modulators of regenerative responses in inflammatory microenvironments. Nevertheless, the limited number of studies and methodological heterogeneity restrict the strength of current evidence.",
+        "source": "PubMed",
+        "doi": "10.1007/s10266-026-01560-8",
+        "keyword": "Exosomes",
+        "title_ja": "炎症条件下におけるエクソソームを介した骨形成の調節：ヒト歯根膜幹細胞に関するin vitro研究の系統的レビュー",
+        "summary_ja": "エクソソームは無細胞治療薬として注目されるが、歯周病の慢性炎症が骨形成能を損なう可能性がある。本系統的レビューは、炎症条件下でエクソソームがヒト歯根膜幹細胞（hPDLSC）の骨形成をどう調節するか、in vitro研究を評価した。2026年2月まで検索し、RobDMATでバイアスリスク、GRADEでエビデンス確実性を評価。異質性が高くメタ解析は行わず、fold-changeで質的に統合した。6研究が該当し、エクソソームは炎症下でも骨形成を一貫して促進したが程度は様々だった。細胞外基質石灰化は2研究で4倍超、1研究で3.06倍、3研究で2倍未満の増加を示した。ALP活性は中等度から顕著な増強を認めた。炎症性メディエーター減少の示唆もあるが検討不十分である。エクソソームは炎症による骨形成抑制を部分的に克服し、再生応答の調節因子として有望だが、研究数と方法論的異質性がエビデンスを制限する。"
+      },
+      {
+        "title": "Dual-aptamer-activated RCA-MOF synergistic platform for visual detection of leukemia-derived exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42763154/",
+        "abstract": "The sensitive, point-of-care detection of acute myeloid leukemia (AML)-derived exosomes is essential for non-invasive diagnosis and therapy monitoring, but remains technically challenging. Here we report a colorimetric biosensor based on a dual -aptamer-initiated catalytic cascade, where simultaneous recognition of exosomal markers CD63 and PTK7 by engineered aptamers triggers an in situ rolling circle amplification (RCA) reaction. The resulting RCA product templates the assembly of a metal-organic framework (MOF) nanozyme, which acts as an efficient peroxidase mimic to generate a colorimetric readout. This integrated \"recognition -amplification-transduction\" nanoarchitecture achieves a detection limit of 0.1 ng/mL for PTK7-positive exosomes and successfully discriminates patient serum samples from healthy controls as well as AML-bearing mouse models from healthy mice, with consistent results obtained via UV-vis spectroscopy, visual colorimetry, and smartphone-based grayscale analysis. By synergizing nucleic acid nanotechnology with nanozyme catalysis, this work provides a rapid, equipment-free visual platform for exosome-based liquid biopsy in AML management.",
+        "source": "PubMed",
+        "doi": "10.1016/j.aca.2026.346094",
+        "keyword": "Exosomes",
+        "title_ja": "デュアルアプタマー活性化RCA-MOF相乗プラットフォームによる白血病由来エクソソームの可視化検出",
+        "summary_ja": "AML由来エクソソームの高感度なポイントオブケア検出は非侵襲的診断に重要だが技術的課題がある。本研究では、二重アプタマー開始カスケードに基づく比色バイオセンサーを報告する。CD63とPTK7の同時認識がin situ RCA反応を誘起し、RCA産物がMOFナノザイムの集合を鋳型化、ペルオキシダーゼ模倣により比色読取を生成する。検出限界はPTK7陽性エクソソームで0.1 ng/mL。患者血清と健常者、AMLマウスモデルと健常マウスを識別し、UV-vis分光、目視比色、スマートフォン解析で一致した結果を得た。核酸ナノテクとナノザイム触媒の相乗により、AML管理におけるエクソソームリキッドバイオプシーの迅速・装置不要な可視化プラットフォームを提供する。"
+      },
+      {
+        "title": "FNDC5-overexpressed BMSCs attenuated brachial plexus root avulsion by enhancing BMSCs survival and inhibiting motoneurons apoptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42761559/",
+        "abstract": "Brachial plexus root avulsion (BPRA) causes severe motor function impairment. Inhibition of spinal motoneuron (MN) apoptosis is crucial for BPRA treatment. This study explores the mechanisms by which Fibronectin Type III Domain Containing 5 (FNDC5)-modified bone marrow mesenchymal stem cells (FNDC5/BMSCs) attenuate BPRA.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ibneur.2025.11.010",
+        "keyword": "Exosomes",
+        "title_ja": "FNDC5を過剰発現させたBMSCは、BMSCの生存を高め、運動ニューロンのアポトーシスを抑制することで、腕神経叢神経根引き抜き損傷を軽減した。",
+        "summary_ja": "FNDC5過剰発現BMSCsは、BPRA（腕神経叢根撕脱）による運動機能障害に対し、BMSCsの生存を高め、脊髄運動ニューロン（MN）のアポトーシスを抑制することで軽減効果を示す。本研究は、FNDC5改変BMSC（FNDC5/BMSCs）がBPRAをattenuateする機序を検討した。"
+      },
+      {
+        "title": "Exosomes From Cancer-Associated Fibroblasts Suppress Ferroptosis and CD8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42760918/",
+        "abstract": "Cancer-associated fibroblasts (CAFs) are pivotal stromal component in tumor microenvironment (TME) and participate in regulating tumor development and progression via exosomes (exos) mediated intercommunication. However, the intricate mechanism underlying the exosomal miRNAs from CAFs in gastric cancer (GC) tumorigenesis remains ambiguous. Herein, we found that miR-4435 was highly expressed in both CAFs- derived exos and GC tissues and was associated with TNM stage as well as tumor size in GC patients. Additionally, inhibition of miR-4435 remarkably restricted GC proliferation, migration, and invasion in vitro and in vivo; whereas facilitating ferroptosis in GC cells. Moreover, miR-4435 could bind with the downstream target NDUFA10 mRNA and was shown to silence NDUFA10 expression. Importantly, exosomal miR-4435 derived from CAFs could suppress CD8",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202602170R",
+        "keyword": "Exosomes",
+        "title_ja": "がん関連線維芽細胞由来のエクソソームはフェロトーシスとCD8を抑制する",
+        "summary_ja": "Cancer-associated fibroblasts（CAFs）由来exosomes中のmiR-4435は胃癌（GC）組織で高発現し、TNM stageや腫瘍径と関連していた。miR-4435阻害はGCの増殖・遊走・浸潤を抑制し、ferroptosisを促進した。miR-4435はNDUFA10 mRNAに結合しその発現を抑制した。CAFs由来exosomal miR-4435はCD8（T細胞）を抑制し、ferroptosis回避と免疫回避に関与することが示された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Defective ATP13A2-ITCH-ALIX signaling impairs intraluminal vesicle biogenesis and increases neuronal vulnerability.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42762936/",
+        "abstract": "ATP13A2 is a lysosomal P5B-type ATPase whose loss-of-function mutations are associated with a spectrum of neurodegenerative disorders, including early-onset Parkinson's disease, Kufor-Rakeb syndrome, neuronal ceroid lipofuscinosis, hereditary spastic paraplegia, and amyotrophic lateral sclerosis. Although ATP13A2 is known to contribute to lysosomal homeostasis and, thereby, to neuronal degeneration, emerging evidence suggests that it may also influence exosome biology. However, the mechanisms by which endogenous ATP13A2 regulates exosome biogenesis and the relevance of this process to neuronal vulnerability remain unclear. In the present study, using multiple ATP13A2-deficient human cell models, we demonstrated that ATP13A2 deficiency impairs intraluminal vesicle (ILV) biogenesis and reduces exosome secretion across diverse cellular contexts. Loss of ATP13A2 did not markedly affect endocytosis, early endosome abundance, or multivesicular body formation, but it consistently reduced ILV density within multivesicular bodies. Mechanistically, ATP13A2 deficiency promoted lysosome-associated accumulation of the E3 ubiquitin ligase ITCH, which enhanced ubiquitin-proteasome-dependent degradation of ALG-2-interacting protein X (ALIX), a critical adaptor of the endosomal sorting complex required for transport machinery that mediates ILV membrane remodeling. Restoration of ALIX expression or reduction of Itchy E3 ubiquitin-protein ligase (ITCH) activity rescued the ILV biogenesis defects in ATP13A2-deficient neuronal cells. Furthermore, dysregulation of the ATP13A2-ITCH-ALIX pathway increased neuronal susceptibility to mitochondrial stress, whereas restoration of ALIX or reduction of ITCH activity markedly improved neuronal survival. Together, these results identify an ATP13A2-ITCH-ALIX signaling axis linking lysosomal dysfunction to impaired ILV biogenesis and exosome regulation. Our study suggests that defective ILV biogenesis contributes to neuronal vulnerability and that modulation of the ATP13A2-ITCH-ALIX pathway may represent a therapeutic strategy for ATP13A2-associated neurodegeneration.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cellsig.2026.112897",
+        "keyword": "Exosomes",
+        "title_ja": "欠損したATP13A2-ITCH-ALIXシグナル伝達は、管腔内小胞の生合成を障害し、神経細胞の脆弱性を増大させる。",
+        "summary_ja": "ATP13A2はリソソーム型P5B-ATPaseであり、その機能喪失変異は早期発症パーキンソン病やKufor-Rakeb症候群などの神経変性疾患に関連する。本研究ではATP13A2欠損ヒト細胞モデルを用い、ATP13A2欠損が多胞体形成やエンドサイトーシスに影響せず、ILV生合成を障害しエクソソーム分泌を低下させることを示した。機構として、ATP13A2欠損はE3ユビキチンリガーゼITCHのリソソーム蓄積を促し、ALIXのユビキチン-プロテアソーム依存性分解を亢進させる。ALIX発現回復やITCH活性低下はILV生合成障害を rescue し、神経細胞のミトコンドリアストレス感受性を改善した。以上よりATP13A2-ITCH-ALIX軸がILV生合成と神経脆弱性を制御し、治療標的となり得る。"
+      },
+      {
+        "title": "Metabolic Reprogramming Of Macrophages In Breast Cancer: Mechanisms And Therapeutic Implications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42762607/",
+        "abstract": "As key immune cells in the tumor microenvironment (TME), macrophages polarize into pro-inflammatory M1 or anti-inflammatory M2 phenotypes, with their functional states tightly linked to metabolic pathway dynamics. This review comprehensively examines macrophage metabolic reprogramming in glycolysis, lipid metabolism, glutamine metabolism, the pentose phosphate pathway (PPP), mitochondrial function, the tricarboxylic acid (TCA) cycle, and amino acid metabolism, while exploring their implications for breast cancer's immune microenvironment and therapeutic approaches. In M1 macrophages, glycolysis is significantly enhanced, promoting the inflammatory response through lactate accumulation and reactive oxygen species (ROS) production. Simultaneously, the TCA cycle is disrupted at the citrate and succinate nodes, leading to the accumulation of metabolic intermediates and further strengthening the pro-inflammatory phenotype. On the other hand, M2 macrophages depend on oxidative phosphorylation (OXPHOS) and fatty acid oxidation (FAO). They regulate epigenetic modifications through metabolites such as alpha-ketoglutarate (α-KG) to maintain anti-inflammatory and tissue repair functions. Breast cancer cells reprogram macrophages via glutamine competition and exosome secretion, driving M2 polarization to support tumor progression. Different molecular subtypes exhibit distinct metabolic features: triple-negative breast cancer (TNBC) shows high glycolytic activity and glutamine addiction, whereas hormone receptor-positive breast cancer relies more on exogenous amino acid uptake. Targeting glycolysis or glutamine metabolism can revert tumor-associated macrophages (TAMs) to an anti-tumor M1-like state, boosting immunity. Although metabolic intervention strategies (such as inhibiting key enzymes hexokinase 2 (HK2), glutaminase (GLS), or fatty Acid Binding Protein 4 (FABP4)) show therapeutic potential, existing studies still have limitations: the compensatory effects between metabolic pathways, tumor heterogeneity, and insufficient clinical translation. Emerging strategies, including metabolic checkpoint targeting, CAR-macrophages (CAR-M), and biomimetic nanocarrier-based delivery systems, hold promise for overcoming these challenges. In summary, in-depth elucidation of the molecular mechanisms underlying macrophage metabolic reprogramming and their metabolic crosstalk with breast cancer cells will provide new insights and novel therapeutic targets for the precise immunometabolic therapy of breast cancer.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ctarc.2026.101376",
+        "keyword": "Exosomes",
+        "title_ja": "乳がんにおけるマクロファージの代謝リプログラミング：機序と治療的意義",
+        "summary_ja": "腫瘍微小環境（TME）のマクロファージはM1/M2に分極し、機能は代謝動態と密接に関連する。本レビューは、解糖系、脂質・グルタミン代謝、ペントースリン酸経路（PPP）、ミトコンドリア機能、TCA回路、アミノ酸代謝における代謝リプログラミングを概説する。M1では解糖系が亢進し、乳酸やROSを介して炎症を促進、TCA回路はクエン酸・コハク酸で破綻する。M2は酸化的リン酸化（OXPHOS）と脂肪酸酸化（FAO）に依存し、α-KG等でエピジェネティクスを制御する。乳癌細胞はグルタミン競合やエクソソームでM2分極を誘導する。TNBCは高解糖・グルタミン依存、ホルモン受容体陽性は外因性アミノ酸依存を示す。解糖系やグルタミン代謝の標的化はTAMをM1様に戻し抗腫瘍免疫を高める。HK2、GLS、FABP4阻害等は有望だが、代謝経路間の補償、腫瘍不均一性、臨床応用不足が課題である。代謝チェックポイント、CA"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の論文から注目すべき5トピックを選定します。\n\n**1. Klothoと肥満・サルコペニア**：Klothoは抗老化作用を持ち、肥満やサルコペニアとの関連が系統的にレビューされた。加齢性疾患への治療的介入の可能性を示す。\n\n**2. ケロイド治療とNK細胞**：力学適応型ハイドロゲルと金属フェノール細胞バックパックを統合し、NK細胞浸潤を高める新規療法。難治性ケロイドへの免疫療法の新展開。\n\n**3. 腫瘍溶解性ウイルスとCAR-T連携**：OVがTMEを再構築しcold tumorをhot化、CAR-T療法との相乗効果が期待される。臨床応用への道筋が示された。\n\n**4. がん関連線維芽細胞由来エクソソーム**：CAF由来exosomeのmiR-4435が胃癌でフェロトーシスとCD8+T細胞を抑制。新規治療標的として重要。\n\n**5. ATP13A2と神経変性**：ATP13A2-ITCH-ALIXシグナル不全がIVB形成を障害し、パーキンソン病発症に関与。リソソーム機能と神経保護の新機序。\n\nこれらは老化、免疫療法、エクソソーム診断・治療、神経変性の各分野で臨床応用への展望を開く重要な知見です。"
+}

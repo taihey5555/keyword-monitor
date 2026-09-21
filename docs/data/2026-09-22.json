@@ -1,0 +1,103 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Childhood Trauma Clusters, Klotho, Matrix Metalloproteinase-9, and Cognitive Function in Adolescents with Major Affective Disorders.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42766483/",
+        "abstract": "Childhood trauma is common among adolescents with major affective disorders (MADs), including bipolar disorder and major depressive disorder. The relationships between childhood trauma subtypes, cognitive function, and the anti-aging protein Klotho and matrix metalloproteinase-9 (MMP-9) in adolescents with MADs remain unknown.",
+        "source": "PubMed",
+        "doi": "10.1159/000553593",
+        "keyword": "Klotho",
+        "title_ja": "小児期トラウマクラスター、クロトー、マトリックスメタロプロテイナーゼ-9、および主要感情障害を有する青年における認知機能。",
+        "summary_ja": "思春期の主要感情障害（MADs：双極性障害・大うつ病性障害）患者では小児期トラウマが一般的だが、そのサブタイプと認知機能、抗老化タンパク質Klotho、matrix metalloproteinase-9（MMP-9）の関係は未解明である。本研究はこれらの関連を検討するものである。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "A Phase I/II Trial of Anti-CD22/CD19 CAR-T Cell Therapy, CART2219.1, in Adult and Pediatric Relapsed/Refractory B-ALL.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42765973/",
+        "abstract": "Durable remissions after anti-CD19 chimeric antigen receptor T cell (CAR-T) therapy in relapsed/refractory B-lineage acute lymphoblastic leukaemia are limited by antigen escape and T-cell dysfunction. The tandem CAR22-19/LTG2737 construct links human-derived anti-CD22 and anti-CD19 scFvs to CD8 hinge/transmembrane, 4-1BB, and CD3ζ domains. In a multicentre phase I/II trial, all patients (n=11; 7 children, 4 adults) achieved complete remission by Day 28 (91% minimal residual disease-negative). At a 34-month median follow-up, median overall survival (OS) and leukaemia-free survival (LFS) were not reached. The 12-month OS was 82% (95%CI: 45%-95%) and LFS was 64% (95%CI: 30%-85%) without consolidative transplantation. Immune-effector cell-associated toxicities included cytokine release syndrome, haematotoxicity, and haemophagocytic lymphohistiocytosis-like syndrome. De novo CD19 escape caused one relapse. Exploratory multi-omic profiling linked durable response to higher CD22 antigen density on blasts; pre-infusion CD4 CAR-T cells expressing IL7Rα, LEF1, BACH2, and TCF7 but lower FOXP3; post-infusion NK-like effector CAR-T expansion; and central-memory CAR-T pool maintenance.",
+        "source": "PubMed",
+        "doi": "10.1158/2643-3230.BCD-26-0115",
+        "keyword": "NK cell therapy",
+        "title_ja": "再発・難治性B細胞性急性リンパ性白血病の成人および小児患者を対象とした抗CD22/CD19 CAR-T細胞療法CART2219.1の第I/II相試験",
+        "summary_ja": "再発/難治性B-ALLに対する抗CD19 CAR-T療法は抗原逃避とT細胞機能不全により持続寛解が限られる。抗CD22/CD19二重CAR（CART2219.1）の第I/II相試験では、全11例（小児7、成人4）がDay 28までに完全寛解（91%がMRD陰性）に到達。中央値34カ月追跡でOS・LFS中央値は未到達、12カ月OS 82%、LFS 64%（地固め移植なし）。毒性はCRS、血液毒性、HLH様症候群。CD19抗原逃避による再発が1例。多オミクス解析で、持続奏効はCD22抗原密度高値、IL7Rα・LEF1・BACH2・TCF7発現CD4 CAR-T、NK様エフェクターCAR-T増殖、セントラルメモリーCAR-T維持と関連した。"
+      },
+      {
+        "title": "Linoleic Acid Enhances Murine Natural Killer Cell Function In Vitro but Compromises Mitochondrial Bioenergetic Function During Retroviral Infection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42764400/",
+        "abstract": "Natural killer (NK) cells are innate immune cells that eliminate virus-infected and tumour cells by a plethora of signalling pathways, involving the production of cytokines and cytotoxic molecules. NK cell activation and functions demand substantial energy and fatty acids are energy-rich molecules reported to be important for NK cell functions upon viral infections. However, it remains unclear whether NK cells preferentially take up a specific fatty acid. Here, we show in the acute Friend retrovirus infection of mice that linoleic acid (LA) exerts a dual role in modulating NK cells. Interestingly, NK cells increased the uptake of LA upon virus infection in vitro and in vivo, with higher LA uptake correlating with increased activation of NK cells. While ex vivo stimulation with LA increased the expression of cytolytic molecules and subsequently elicited increased target cell killing, it paradoxically decreased the NK cell proliferative capacity, mitochondrial metabolism and increased the cellular stress. To further elucidate the role of LA in vivo, we treated mice with exogenous LA during retrovirus infection. While we observed a significant increase of LA levels in the spleen, splenic NK cell activation, cytotoxicity and viral loads were not altered by LA therapy. In addition, we found a decrease in mitochondrial mass and energy levels in NK cells after LA treatment, reflecting its strong effect on mitochondrial metabolism. Our results demonstrate the importance and direct impact of LA for NK cell functions and their metabolic profile. The dual role of LA in enhancing NK cell responses while compromising mitochondrial integrity highlights its potential as a therapeutic adjuvant, alongside other fatty acids, to modulate NK cell functions.",
+        "source": "PubMed",
+        "doi": "10.1111/imm.70205",
+        "keyword": "NK cell therapy",
+        "title_ja": "リノール酸はin vitroでマウスナチュラルキラー細胞機能を亢進させるが、レトロウイルス感染時にはミトコンドリア生体エネルギー機能を損なう",
+        "summary_ja": "リノール酸（LA）はNK細胞機能を調節する。マウス急性Friendレトロウイルス感染で、NK細胞はウイルス感染時にLA取り込みを増加させ、活性化と相関した。LA刺激は細胞傷害性分子の発現と標的細胞殺傷を増強したが、増殖能、ミトコンドリア代謝を低下させ細胞ストレスを増大させた。感染マウスへの外因性LA投与では脾臓LA量は増加したが、NK細胞活性化、細胞傷害性、ウイルス量は変化せず、ミトコンドリア量とエネルギー量は減少した。LAはNK細胞応答を高める一方でミトコンドリア機能を損なう二面性を持ち、NK細胞調節の治療アジュバントとしての可能性が示唆される。"
+      },
+      {
+        "title": "Cord Blood-Derived Fibroblast Activation Protein-Targeted Chimeric Antigen Receptor Natural Killer Cells Persist in Vivo.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42764195/",
+        "abstract": "Cancer-associated fibroblasts (CAFs) have been recognized as key contributors to tumor progression. Chimeric antigen receptor (CAR) T-cell therapy targeting fibroblast activation protein (FAP), a marker of CAFs, has gained attention and is being evaluated in both preclinical and clinical studies. Cord blood (CB)-derived CAR natural killer (NK) cell therapy has shown efficacy in hematologic malignancies. In this study, we generated FAP-targeting CAR NK cells (FAP-CAR NK cells). CD3-depleted CB mononuclear cells were stimulated with irradiated K562 cells expressing 4-1BB ligand (tumor necrosis factor ligand superfamily member 9) and membrane-bound interleukin-15 and interleukin-21 to expand NK cells, into which FAP-CAR was introduced. FAP-CAR NK cells produced cytokines and exerted cytotoxic activity when co-cultured with FAP-transduced HT1080 cells and CAFs isolated from human lung cancer tissue. In a xenograft model established by intrathoracic co-injection of A549 lung cancer cells and luciferase-expressing CAFs, injection of FAP-CAR NK cells, but not control CD19-CAR NK cells, resulted in their robust expansion and persistence in vivo for 5 weeks. However, CAFs were not eliminated by FAP-CAR NK cells, although CAR NK cells were clearly detected in the tumors. The levels of cytotoxicity-associated molecules (such as granzymes) were higher in FAP-CAR NK cells persisting in the spleens of mice compared with those in pre-infusion FAP-CAR NK cells. These results indicate that FAP-CAR NK cells have the potential to respond specifically to the target antigen and expand robustly in vivo, although further optimization is required to maintain cytotoxic function for a prolonged duration in vivo.",
+        "source": "PubMed",
+        "doi": "10.1111/cas.70539",
+        "keyword": "NK cell therapy",
+        "title_ja": "臍帯血由来線維芽細胞活性化タンパク質標的キメラ抗原受容体ナチュラルキラー細胞は生体内で持続する。",
+        "summary_ja": "CAFは腫瘍進展の鍵となる。CAFマーカーFAPを標的とするCAR T細胞療法が注目され、CB由来CAR NK細胞療法は血液悪性腫瘍で有効性を示す。本研究ではFAP-CAR NK細胞を作製した。CD3除去CB単核球を4-1BBLおよび膜結合型IL-15、IL-21発現K562細胞で刺激しNK細胞を増幅後、FAP-CARを導入した。FAP-CAR NK細胞はFAP導入HT1080細胞や肺癌組織由来CAFとの共培養でサイトカイン産生と細胞傷害活性を示した。A549肺癌細胞とルシフェラーゼ発現CAFの胸腔内共移植モデルで、FAP-CAR NK細胞は対照CD19-CAR NK細胞と異なり5週間生体内で増殖・持続した。しかしCAFは排除されなかった。脾臓中の持続FAP-CAR NK細胞では細胞傷害関連分子レベルが注入前より高かった。FAP-CAR NK細胞は標的抗原に特異的に応答し生体内で強く増殖す"
+      },
+      {
+        "title": "Leukemic Stem Cell-Targeted Liposomal Nanoimmunotherapy Reverses Immune Evasion and Inhibits Fusion Oncoprotein-Driven Acute Myeloid Leukemia by Silencing B-Cell Lymphoma 2.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42764087/",
+        "abstract": "Acute Myeloid Leukemia (AML) is a prevalent and aggressive hematologic cancer driven by leukemic stem cells and immune evasion. Among its subtypes, Mixed Lineage Leukemia-AF9 (MLL-AF9)- rearranged AML is exceptionally lethal, with B-cell lymphoma 2 (Bcl2), a key anti-apoptotic protein, supporting leukemic survival and immune dysfunction. Targeting Bcl2 in this context is crucial for dismantling oncogenic circuits and restoring immune activity. Here, we have synthesized, de novo, IL-3 receptor alpha chain (IL-3Rα, commonly known as cluster of differentiation 123 or CD123) targeted aptamer-tethered liposomal nanocarriers (CD123-si-Bcl2@LNPs) encapsulating Bcl2 siRNA (CD123-si-Bcl2@LNPs) for selective AML targeting, survival disruption, and immune restoration. Mechanistic studies established a previously uncharacterized signaling axis wherein the MLL-AF9 fusion oncoprotein induces the overexpression of the transcription factor c-Myb. This induced c-Myb binds directly to the Bcl2 promoter, upregulating Bcl2 expression and enhancing both STAT3 expression and its Ser727 autophosphorylation. Consequently, this pathway amplifies IL-6-driven immunosuppression and dampens NK and CD8⁺ T cell responses. Nanocomposite-mediated disruption of this specific axis successfully reversed these oncogenic and immunosuppressive signals. Therapeutic efficacy was evaluated using a patient-derived xenograft (PDX) model, generated by retroviral MLL-AF9 overexpression in CD34⁺/CD38⁻ sorted leukemic stem cells from AML patients and engraftment into NOD/SCID mice. CD123-si-Bcl2@LNPs significantly reduced leukemic burden in vivo. Bcl2 siRNA encapsulated liposomal nanoparticles demonstrated robust Bcl2 knockdown, apoptosis induction, and impaired leukemic self-renewal across in vitro and in vivo models. Post-treatment immune profiling revealed enhanced NK cell (CD56⁺) expression and reversal of T cell exhaustion, with CD8⁺ T cell activation marked by downregulation of CTLA-4. Differentiation marker analysis revealed decreased CD45+ and c-KIT+ expression, accompanied by an upregulation of the myeloid monocyte differentiation marker CD11b, indicating myeloid maturation and a reduction in leukemic stemness. This dual-action therapeutic strategy simultaneously targets survival and immune evasion pathways in MLL-AF9-positive AML cells by the treatment of CD123-si-Bcl2@LNPs, offering a promising, precision-guided nano-immunotherapeutic strategy for future translational potential for MLL-AF9-positive acute myeloid leukemia. STATEMENT OF SIGNIFICANCE: •The CD123 aptamer-targeted liposomal nanocarrier facilitates precise siRNA delivery in acute myeloid leukemia (AML), significantly enhancing the transfection efficiency and stability of Bcl2 siRNA. •siRNA nanotherapy reveals a novel immune-evasion axis involving c-Myb, Bcl2, and STAT3 axis which is critical for the progression of AML. •Targeted silencing of Bcl2 disrupts the survival networks of leukemic stem cells. •Nano-immunotherapy revitalizes the antitumor activity of natural killer (NK) cells and CD8⁺ T-cells. •Liposomal siRNA therapy effectively suppresses MLL-AF9 leukemia in NOD/SCID patient-derived xenograft (PDX) mouse models.",
+        "source": "PubMed",
+        "doi": "10.1016/j.actbio.2026.09.035",
+        "keyword": "NK cell therapy",
+        "title_ja": "白血病幹細胞を標的としたリポソームナノ免疫療法は、B細胞リンパ腫2をサイレンシングすることにより、免疫回避を逆転させ、融合オンコプロテイン駆動型急性骨髄性白血病を阻害する。",
+        "summary_ja": "MLL-AF9再構成AMLは白血病幹細胞と免疫回避を特徴とする難治性疾患である。本研究はCD123標的アプタマー結合リポソームナノキャリア（CD123-si-Bcl2@LNPs）を新規合成し、Bcl2 siRNAを封入してAML選択的治療を試みた。機序としてMLL-AF9融合癌タンパク質が転写因子c-Mybを過剰発現させ、Bcl2プロモーターに直接結合してBcl2とSTAT3発現・Ser727自己リン酸化を亢進し、IL-6依存性免疫抑制とNK・CD8⁺T細胞応答低下を引き起こす新規シグナル軸を同定した。CD123-si-Bcl2@LNPsはこの軸を遮断し、PDXモデルで白血病負荷を有意に減少させた。Bcl2ノックダウン、アポトーシス誘導、自己複製阻害、NK細胞増強、T細胞疲弊解除、CD8⁺T細胞活性化（CTLA-4低下）、CD11b上昇による骨髄分化促進を認めた。生存と免疫回避を同時標的と"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、特に注目すべき5トピックです。\n\n1. **小児期トラウマとKlotho/MMP-9**：思春期感情障害の認知機能低下にトラウマ亜型とKlothoが関与する可能性。抗老化・神経保護の新規バイオマーカーとして期待。\n\n2. **CART2219.1（CD22/CD19二重CAR-T）**：難治性B-ALLで11例全例完全寛解。抗原逃避克服の有望戦略で、長期寛解持続性の検証が焦点。\n\n3. **リノール酸とNK細胞**：LAはNK細胞の殺傷能を高める一方、レトロウイルス感染下でミトコンドリア代謝を損なう。代謝制御によるNK療法最適化の示唆。\n\n4. **FAP標的CAR-NK細胞**：臍帯血由来でin vivo持続性を確認。CAF標的・同種移植可能な次世代細胞療法として注目。\n\n5. **CD123標的リポソーム纳米免疫療法**：Bcl2沉默でAMLの免疫回避を解除し幹細胞を標的。難治性AMLへの精密ナノ治療の可能性。\n\n全体として、老化・代謝・免疫回避を軸に、CAR-T/NK、ナノ医薬、バイオマーカーが融合する潮流が鮮明です。"
+}

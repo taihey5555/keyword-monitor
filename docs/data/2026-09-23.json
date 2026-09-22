@@ -1,0 +1,206 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Tibial bone compression promotes recovery after brain injury through osteocyte PIEZO1.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42768215/",
+        "abstract": "Traumatic brain injury (TBI) accelerates bone healing and induces heterotopic ossification, raising the question of whether an injured brain benefits from bone. Here we reveal that dynamic compressive tibial axial loading (DCTAL), a model of tibial bone compression, increased survival and promoted motor and cognitive recovery after stroke and TBI in mice, as well as in pig TBI models. DCTAL reduced neuron loss, attenuated chronic inflammation and astrogliosis and stimulated neuronal regeneration after TBI. Deletion of the mechanosensory channel Piezo1 in osteocytes reversed these benefits, while serum from DCTAL mice recapitulated them. Osteocytes transduced mechanical signals to directly secrete factors such as IL-1R2, APOL11a and HSP70, while indirectly increasing serum levels of BDNF, PF4 and dopamine. These factors synergistically protected against TBI. Altogether, we establish a bone-brain axis in which bone endocrine function can be modulated by mechanical forces to enhance brain repair after injury.",
+        "source": "PubMed",
+        "doi": "10.1038/s41593-026-02422-w",
+        "keyword": "PF4",
+        "title_ja": "脛骨の圧迫は骨細胞PIEZO1を介して脳損傷後の回復を促進する。",
+        "summary_ja": "脛骨圧縮が脳損傷後の回復を骨細胞PIEZO1を介して促進する。外傷性脳損傷（TBI）は骨治癒を加速し異所性骨化を誘導する。動的圧縮脛骨軸荷重（DCTAL）はマウスの脳卒中・TBI後およびブタTBIモデルで生存率を高め、運動・認知機能回復を促進した。DCTALは神経細胞喪失を減らし、慢性炎症とアストログリオーシスを抑制し、神経再生を刺激した。骨細胞の機械感受性チャネルPiezo1欠失はこれらの効果を消失させ、DCTALマウス血清は効果を再現した。骨細胞は機械的シグナルを伝達しIL-1R2、APOL11a、HSP70等を直接分泌し、間接的にBDNF、PF4、ドーパミン血清レベルを増加させた。これらは相乗的にTBIを保護した。骨内分泌機能を機械力で調節し脳修復を促進する骨-脳軸を確立した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Spatial Constraints Limit Natural Killer Cell Access to Germinal Centre HIV Reservoirs in Lymph Nodes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42770862/",
+        "abstract": "Antiretroviral therapy effectively suppresses HIV-1 replication in blood but fails to eradicate viral reservoirs in lymphoid tissues, particularly in germinal centres (GCs) of lymph nodes (LNs). While CD8+ T cells are largely excluded from GCs, the role of natural killer (NK) cells, potential alternative effectors, remains poorly defined in human LNs during HIV infection. We investigated NK cell phenotype, function, and localization in paired LN and peripheral blood samples from South African women living with HIV (WLWH) and HIV-negative controls.",
+        "source": "PubMed",
+        "doi": "10.1093/infdis/jiag446",
+        "keyword": "NK cell therapy",
+        "title_ja": "空間的制約がリンパ節の胚中心HIVリザーバーへのナチュラルキラー細胞のアクセスを制限する",
+        "summary_ja": "抗レトロウイルス療法は血中のHIV-1複製を抑制するが、リンパ節胚中心（GC）のウイルス貯蔵庫は排除できない。CD8+ T細胞はGCから排除されるが、代替エフェクターとなりうるNK細胞の役割は不明である。本研究では、南アフリカのHIV感染女性とHIV陰性対照のリンパ節および末梢血を用い、NK細胞の表現型・機能・局在を検討した。"
+      },
+      {
+        "title": "Harnessing Natural Killer Cells: From Neuroimmunology to Novel Therapies for Central Nervous System Diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42769371/",
+        "abstract": "Natural killer (NK) cells are innate lymphocytes that defend the host by directly killing virus-infected, stressed, and tumor cells. Their direct cytotoxic mechanisms include the release of cytotoxic granules, engagement of death receptor pathways, and mediation of antibody-dependent cellular cytotoxicity (ADCC). They can also eliminate targets indirectly via the secretion of proinflammatory cytokines. Importantly, recent studies show NK cells help limit autoimmunity by targeting autoreactive immune cells, highlighting their broader role in maintaining tissue homeostasis, including within the immune-privileged central nervous system (CNS). Both preclinical and clinical studies support the therapeutic potential of NK cell-based immunotherapies for neuroinflammatory, neurodegenerative, and neuro-oncologic diseases. A key challenge remains achieving sufficient specificity and efficacy within the CNS, which necessitates a more profound understanding of NK cell biology in the unique brain microenvironment. This review summarizes the fundamental biology of NK cells and their roles in CNS pathologies, with a focus on their interactions with the CNS niche. We also discuss recent advances, such as immune-engager strategies and adoptive NK cell therapies, aiming to provide insights to guide future therapeutic development for CNS disorders.",
+        "source": "PubMed",
+        "doi": "10.1002/mco2.70983",
+        "keyword": "NK cell therapy",
+        "title_ja": "ナチュラルキラー細胞の活用：神経免疫学から中枢神経系疾患の新規治療法へ",
+        "summary_ja": "NK細胞はウイルス感染細胞や腫瘍細胞を直接殺傷する自然免疫リンパ球で、細胞傷害性顆粒放出、死受容体経路、ADCCなどの機構を用いる。炎症性サイトカイン分泌による間接的排除や、自己反応性免疫細胞を標的とした自己免疫抑制も報告され、免疫特権部位である中枢神経系（CNS）を含む組織恒常性維持に関与する。前臨床・臨床研究は神経炎症性・神経変性・神経腫瘍性疾患に対するNK細胞免疫療法の治療可能性を支持するが、CNS内での十分な特異性と有効性の達成が課題であり、脳微小環境におけるNK細胞生物学の深い理解が必要である。本レビューはNK細胞の基礎生物学とCNS病態における役割、CNSニッチとの相互作用をまとめ、免疫エンゲージャー戦略や養子NK細胞療法などの最近の進歩を論じ、CNS疾患の治療開発への洞察を提供する。"
+      },
+      {
+        "title": "Macrophage-directed therapeutic strategies in cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42767905/",
+        "abstract": "Tumor-associated macrophages (TAMs) are a major component of the tumor microenvironment and exhibit remarkable functional plasticity, acting as either immunosuppressive cells that promote tumor progression or immunostimulatory cells that can support antitumor immunity, depending on the prevailing microenvironmental cues. These cells promote angiogenesis, metastasis, immune suppression, and therapy resistance. However, when appropriately reprogrammed, TAMs can directly kill or phagocytose cancer cells and/or activate antitumor T cell and natural killer cell responses. In this article, we review current therapeutic strategies targeting TAMs, including approaches directed against macrophage-associated receptors, signaling pathways, and epigenetic and metabolic regulators. We also discuss emerging TAM-targeted therapeutic modalities, including cytokine-based therapies, cell-based therapies, bispecific antibodies, macrophage-targeted nanoplatforms, and anti-TAM chimeric antigen receptor T-cell approaches, highlighting their potential to enhance antitumor immunity and improve clinical outcomes.",
+        "source": "PubMed",
+        "doi": "10.1016/j.trecan.2026.08.006",
+        "keyword": "NK cell therapy",
+        "title_ja": "マクロファージを標的としたがん治療戦略",
+        "summary_ja": "腫瘍関連マクロファージ（TAM）は腫瘍微小環境の主要構成要素で、環境シグナルに応じ免疫抑制性・免疫刺激性の両方に可塑的に機能する。TAMは血管新生、転移、免疫抑制、治療抵抗性を促進するが、適切に再プログラム化すると癌細胞を直接殺傷・貪食し、抗腫瘍T細胞やNK細胞応答を活性化できる。本稿では、マクロファージ関連受容体、シグナル経路、エピジェネティック・代謝制御因子を標的とする治療戦略を概説する。さらに、サイトカイン療法、細胞療法、二重特異性抗体、マクロファージ標的ナノプラットフォーム、抗TAMキメラ抗原受容体T細胞療法などの新規モダリティを論じ、抗腫瘍免疫増強と臨床転帰改善の可能性を示す。"
+      },
+      {
+        "title": "NKG2A-HLA-E axis contributes to an immunosuppressive checkpoint network in hepatocellular carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42767769/",
+        "abstract": "The immunosuppressive tumor microenvironment in hepatocellular carcinoma (HCC) limits the efficacy of current immunotherapies. The interplay between the emerging inhibitory receptor NKG2A and its activating counterpart NKG2C, both binding HLA-E, and its interaction with the PD-1-PD-L1 pathway in cancer remains unclear. This study aims to delineate the functional network formed by these pathways in shaping the immunosuppressive landscape of HCC.",
+        "source": "PubMed",
+        "doi": "10.1136/jitc-2026-015639",
+        "keyword": "NK cell therapy",
+        "title_ja": "NKG2A-HLA-E軸は肝細胞癌における免疫抑制チェックポイントネットワークに寄与する。",
+        "summary_ja": "肝細胞癌（HCC）の免疫抑制性腫瘍微小環境は免疫療法の効果を制限している。抑制性受容体NKG2Aと活性化受容体NKG2Cは共にHLA-Eに結合するが、癌におけるPD-1-PD-L1経路との相互作用は不明である。本研究は、HCCの免疫抑制景観を形成するこれらの経路の機能的ネットワークを解明することを目的とする。"
+      },
+      {
+        "title": "Gut microbiota regulation of the IL-6/STAT3 pathway: Linking hematopoiesis to colorectal cancer progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42767102/",
+        "abstract": "Chronic gut microbiota-driven inflammation fuels colorectal cancer (CRC) progression, but how microbial signals influence systemic immunity and tumor growth remains poorly defined. This review synthesizes evidence on gut microbiota regulation of the interleukin-6 (IL-6)/signal transducer and activator of transcription 3 (STAT3) pathway as the central mechanistic link connecting intestinal dysbiosis, altered hematopoiesis, and CRC progression. Other inflammatory pathways and therapies are discussed only as they intersect with this core axis.",
+        "source": "PubMed",
+        "doi": "10.1016/j.intimp.2026.117452",
+        "keyword": "NK cell therapy",
+        "title_ja": "腸内細菌叢によるIL-6/STAT3経路の制御：造血と大腸がん進展を結びつける。",
+        "summary_ja": "腸内細菌叢の恒常性破綻（dysbiosis）が引き起こす慢性炎症は大腸癌（CRC）の進展を促進するが、微生物シグナルが全身免疫や腫瘍増殖に与える影響は不明な点が多い。本レビューは、腸内細菌叢によるIL-6/STAT3経路の制御を、腸内dysbiosis、造血の変化、CRC進展を結ぶ中心的機序として捉え、そのエビデンスを統合する。他の炎症経路や治療法は、この核心軸と交差する範囲でのみ論じられる。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Unmasking the Influence of Viral Micro-RNAs on Host Immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42770266/",
+        "abstract": "Micro-RNAs (miRNAs) are key regulators of human immunity, controlling critical cellular programmes including proliferation, differentiation, apoptosis, and immune activation to shape the host response to infection. Multiple human-infecting viruses encode their own miRNA (v-miRNA), enabling them to co-opt host gene regulatory machinery to subvert immunity, establish persistence and evade immune-mediated killing. This review synthesizes the current evidence on viral miRNAs and their roles in host-virus interactions, with an explicit focus on immune regulation. We examine how different viruses use v-miRNAs to modulate core immune functions, including antigen presentation, cytokine signaling, NK and CD8 T-cell activation, and apoptosis. We also examine how v-miRNAs manipulate viral gene expression to aid immune evasion and promote persistence. Particular emphasis is placed on experimentally validated immune targets and their clinical consequences. Collectively, these examples illustrate the convergent evolution of v-miRNA-mediated immune evasion across diverse viral families. Understanding this class of molecules will provide insight into critical immune evasion strategies employed by clinically important viruses and may identify novel targets for diagnostic and antiviral therapeutics, including antagomir-based and RNA silencing approaches.",
+        "source": "PubMed",
+        "doi": "10.1111/imcb.70164",
+        "keyword": "NK cell therapy",
+        "title_ja": "ウイルス性マイクロRNAが宿主免疫に及ぼす影響を解き明かす",
+        "summary_ja": "マイクロRNA（miRNA）は増殖・分化・アポトーシス・免疫活性化などヒト免疫の重要制御因子である。多くの感染ウイルスは独自のv-miRNAをコードし、宿主の遺伝子制御機構を利用して免疫を回避し、持続感染や免疫殺傷からの逃避を図る。本レビューはv-miRNAと宿主–ウイルス相互作用、特に免疫制御に焦点を当てた知見を統合する。抗原提示、サイトカインシグナル、NK・CD8 T細胞活性化、アポトーシスなど中核的免疫機能の調節や、ウイルス遺伝子発現操作による免疫回避・持続化の仕組みを検討する。特に実験的に検証された免疫標的と臨床的帰結を重視する。多様なウイルス科にわたるv-miRNA媒介免疫回避の収斂進化を示し、診断・抗ウイルス治療、antagomirやRNAサイレンシングの新規標的となり得る。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Urine-Derived Neuronal Extracellular Vesicle α-Synuclein Seed Amplification Assay for Synucleinopathies: A Non-Invasive Biomarker Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42768739/",
+        "abstract": "α-Synuclein aggregation is a pathological hallmark of synucleinopathies, including Parkinson's disease (PD) and multiple system atrophy (MSA). Although pathogenic α-synuclein seeds can be detected by real-time quaking-induced conversion (RT-QuIC), current assays primarily rely on cerebrospinal fluid, whose invasiveness limits repeated and large-scale applications. We therefore evaluated the feasibility of detecting pathogenic α-synuclein using urine-derived neuronal extracellular vesicles (NEVs).",
+        "source": "PubMed",
+        "doi": "10.1002/mds.70533",
+        "keyword": "Exosomes",
+        "title_ja": "尿由来神経細胞外小胞α-シヌクレインシード増幅アッセイによるシヌクレイノパチー診断：非侵襲的バイオマーカー研究",
+        "summary_ja": "尿中由来の神経細胞外小胞（NEV）を用い、シヌクレイノパチーの非侵襲的バイオマーカーとしての有用性を検討した。α-シヌクレイン凝集はパーキンソン病（PD）や多系統萎縮症（MSA）の病理的特徴であり、病原性シードはRT-QuICで検出可能だが、従来は脳脊髄液に依存し侵襲性が高く、反復・大規模適用が困難であった。本研究は尿由来NEV中の病原性α-シヌクレイン検出の実現可能性を評価した。"
+      },
+      {
+        "title": "Multi-omics and molecular biomarkers in breast cancer: a comprehensive review of diagnostic, prognostic, and predictive applications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42767119/",
+        "abstract": "Breast cancer continues to be the most commonly diagnosed cancer among women globally and is a primary contributor to cancer-related deaths. While early detection significantly enhances survival rates, currently available serum biomarkers, including CEA and CA15-3, lack sufficient sensitivity and specificity for reliable early-stage breast cancer diagnosis. Multi-omics methodologies, encompassing genomics, epigenomics, transcriptomics, proteomics, and metabolomics, are revolutionizing cancer diagnostics by facilitating the identification of new biomarkers and pathways pertinent to early detection and personalized treatment. Among the newly emerging classes of biomarkers, microRNAs (miRNAs), long non-coding RNAs (lncRNAs), and exosome-derived materials exhibit notable potential, as they reflect the molecular intricacies and dynamic changes of breast tumors in a minimally invasive fashion. In this review, we provide an overview of recent progress in multi-omics approaches and emphasize significant miRNA-, lncRNA-, and exosome-related biomarkers associated with the initiation, progression, and therapeutic response of breast cancer. Additionally, we explore how the amalgamation of these molecular signatures with artificial intelligence and machine learning can improve diagnostic precision, enhance risk stratification in asymptomatic or high-risk populations, and aid in personalized treatment decision-making. Lastly, we identify existing limitations, technical and translational hurdles, and future pathways necessary for the integration of multi-omics and liquid biopsy-based precision diagnostics into standard clinical practice, aiming ultimately to decrease breast cancer-related morbidity and mortality.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ctarc.2026.101454",
+        "keyword": "Exosomes",
+        "title_ja": "乳がんにおけるマルチオミクスと分子バイオマーカー：診断、予後、予測への応用に関する包括的レビュー",
+        "summary_ja": "乳がんは女性で最も多く診断されるがんで、死亡の主因でもある。早期発見は生存率を高めるが、CEAやCA15-3などの血清バイオマーカーは早期診断に十分な感度・特異度を持たない。ゲノミクス、エピゲノミクス、トランスクリプトミクス、プロテオミクス、メタボロミクスを含むマルチオミクス手法が、新規バイオマーカーや経路の同定を通じて診断を革新している。特にmiRNA、lncRNA、エクソソーム由来物質は、低侵襲的に腫瘍の分子変化を反映する有望なバイオマーカーである。本レビューでは、乳がんの発生・進行・治療反応に関連するこれらのバイオマーカーを概説し、AI・機械学習との統合による診断精度向上、リスク層別化、個別化治療への応用を論じる。また、マルチオミクスとリキッドバイオプシーの臨床導入に向けた限界や課題、今後の方向性を示す。"
+      },
+      {
+        "title": "Yam-Derived Vesicles Alleviate Osteoarthritis via miRNA-Mediated Suppression of the TLR4-TRAF6 Signaling Axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42766346/",
+        "abstract": "Osteoarthritis (OA) is a degenerative joint disease, for which effective disease-modifying therapies remain lacking. Here, we report yam-derived nanovesicles (YDNVs) as a plant-derived exosome-like nanoplatform with intrinsic therapeutic activity for OA treatment. YDNVs exhibited typical nanoscale vesicular characteristics and were efficiently internalized by chondrocytes via clathrin-mediated endocytosis. Through enzymatic pretreatment and multi-omics analyses, RNA-particularly microRNAs (miRNAs)-was identified as the primary bioactive component mediating their anti-inflammatory effects. Mechanistic studies further confirmed that aof-miR168a directly binds to the 3' untranslated regions of TLR4 and TRAF6, thereby suppressing downstream inflammatory signaling. To enhance targeting and therapeutic efficacy, a cartilage-targeting peptide-modified system (YDNVs-CAP) was engineered via membrane insertion of a cholesterol-anchored conjugate. This modification significantly improved cellular uptake, cartilage targeting, and intra-articular retention. Functionally, YDNVs-CAP effectively alleviated inflammation, oxidative stress, and extracellular matrix degradation in vitro, and markedly attenuated OA progression in a destabilization of the medial meniscus (DMM) mouse model. Collectively, this study establishes an RNA-mediated therapeutic mechanism for plant-derived nanovesicles and highlights YDNVs-CAP as a promising biomimetic nanoplatform for disease-modifying OA therapy.",
+        "source": "PubMed",
+        "doi": "10.1002/smll.75914",
+        "keyword": "Exosomes",
+        "title_ja": "ヤムイモ由来小胞はmiRNAを介したTLR4-TRAF6シグナル軸の抑制により変形性関節症を軽減する",
+        "summary_ja": "ヤム由来ナノ小胞（YDNVs）は、OA治療に内在的な治療活性を持つ植物由来exosome様ナノプラットフォームである。YDNVsはクラスリン介在性エンドサイトーシスで軟骨細胞に取り込まれ、その抗炎症作用は主にmiRNAが担う。aof-miR168aがTLR4およびTRAF6の3'UTRに直接結合し、下流の炎症シグナルを抑制する。軟骨標的ペプチド修飾YDNVs-CAPは細胞取り込み、軟骨標的性、関節内滞留性を向上させ、in vitroで炎症・酸化ストレス・細胞外基質分解を軽減し、DMMマウスモデルでOA進行を著明に抑制した。本研究は植物由来ナノ小胞のRNA媒介治療機構を確立し、YDNVs-CAPをOAのdisease-modifying therapyの有望なバイオミメティックナノプラットフォームとして提示する。"
+      },
+      {
+        "title": "Rosa damascena-derived exosome-like nanovesicles inhibit Salmonella enterica via membrane disruption, oxidative stress, and virulence suppression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42766215/",
+        "abstract": "Plant-derived exosome-like nanoparticles (P-DENs) have emerged as promising bio-nanocarriers with antimicrobial potential. In this study, we isolated and characterized exosome-like nanovesicles from Rosa damascena and evaluated their antibacterial efficacy against Salmonella enterica, a significant foodborne pathogen. Rosa damascena-derived exosomes-like nanovesicles (R-DENs) exhibited 8.9 × 10",
+        "source": "PubMed",
+        "doi": "10.1007/s11274-026-05274-5",
+        "keyword": "Exosomes",
+        "title_ja": "ダマスクローズ由来のエクソソーム様ナノ小胞は、膜破壊、酸化ストレス、および病原性抑制を介してサルモネラ・エンテリカを阻害する。",
+        "summary_ja": "ダマスクバラ由来のexosome様ナノ小胞（R-DENs）を単離し、食品媒介病原体Salmonella entericaに対する抗菌効果を評価した。R-DENsは膜破壊、酸化ストレス誘導、病原性抑制を介してSalmonellaを阻害することが示された。植物由来exosome様ナノ粒子（P-DENs）は抗菌能を持つ新規バイオナノキャリアとして注目される。"
+      },
+      {
+        "title": "Therapy resistance-related ncRNAs in cervical cancer: biomarkers and therapeutic targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42766055/",
+        "abstract": "Cervical cancer remains a major cause of cancer-related morbidity and mortality, and resistance to chemoradiotherapy, systemic chemotherapy, and emerging targeted or immune-based therapies continues to limit durable disease control. Non-coding RNAs (ncRNAs), including microRNAs (miRNAs), long non-coding RNAs (lncRNAs), circular RNAs (circRNAs), and extracellular-vesicle-associated transcripts, are increasingly recognized as regulators of DNA-damage repair, apoptosis, epithelial-mesenchymal plasticity, stemness, metabolic adaptation, ferroptosis, and tumor-microenvironmental communication in treated cervical tumors.",
+        "source": "PubMed",
+        "doi": "10.1007/s40199-026-00660-8",
+        "keyword": "Exosomes",
+        "title_ja": "子宮頸がんにおける治療抵抗性関連ncRNA：バイオマーカーと治療標的",
+        "summary_ja": "子宮頸がんは依然としてがん関連の罹患率・死亡率の主要因であり、化学放射線療法、全身化学療法、新興の標的療法や免疫療法への抵抗性が持続的な疾患制御を妨げている。microRNA（miRNA）、long non-coding RNA（lncRNA）、circular RNA（circRNA）、細胞外小胞関連転写産物などの非コードRNA（ncRNA）は、治療後の子宮頸がんにおいてDNA損傷修復、アポトーシス、上皮間葉可塑性、幹細胞性、代謝適応、フェロトーシス、腫瘍微小環境コミュニケーションを制御する因子として認識が高まっている。"
+      },
+      {
+        "title": "Phytogenic Nanoparticles for Parkinson's Disease Therapy: Mechanistic Insights, Brain-Targeted Delivery and Neuroprotective Potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42766050/",
+        "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder, which causes the loss of dopaminergic neurons in the substantia nigra, resulting in both motor and non-motor impairments. Although crucial advancements in therapeutic strategies, the existing treatments primarily focus on symptom management and fail to address the underlying cause of the disease. Recent advancements in nanotechnology, particularly those that utilize phytogenic approaches, give promising strategies for managing and treating PD. In this review, the term phytogenic nanoparticles (NPs) refer broadly to nanoformulations in which plant-derived materials contribute either to nanoparticle synthesis or therapeutic functionality including plant extract-mediated green-synthesized nanoparticles, nanoparticles loaded or coated with purified phytochemicals and plant-derived exosome-like vesicles. Because these categories differ in composition, mechanism of action, reproducibility, safety and translational maturity, they are critically evaluated as distinct platforms throughout the review. These nanocarriers have shown the ability to improve drug stability, enhance bioavailability and increase brain exposure in experimental models, although the extent and mechanisms of blood-brain barrier (BBB) transport vary among formulations. Phytochemical-loaded nanoparticles demonstrated neuroprotective effects in preclinical models via modulation of oxidative stress and inflammation, inhibiting α-synuclein aggregation, and promoting autophagy, thereby offering a promising therapeutic avenue for neurodegenerative disorders. Phytogenic nanotechnology offers a promising approach for PD therapy through the improvement of drug stability, bioavailability and blood-brain barrier permeation. These NPs exhibit antioxidative, anti-inflammatory and neuroprotective effects, targeting important PD pathologies. Non-invasive delivery strategies, including intranasal drugs and microneedle patches, enhance therapeutic efficacy. This narrative review discusses the efficient management approach for PD via nanotechnological advancements.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-06218-8",
+        "keyword": "Exosomes",
+        "title_ja": "パーキンソン病治療のための植物由来ナノ粒子：作用機序の洞察、脳標的デリバリー、神経保護の可能性",
+        "summary_ja": "植物由来ナノ粒子（NPs）によるパーキンソン病（PD）治療のレビュー。PDは黒質ドパミン作動性ニューロンが失われる進行性神経変性疾患で、既存治療は対症療法に留まる。植物抽出物による緑色合成NPs、植物化学物質を担持・被覆したNPs、植物由来エクソソーム様小胞を含むphytogenic NPsは、薬物安定性・バイオアベイラビリティ・脳移行性を改善し、血液脳関門透過機構は製剤間で異なる。前臨床モデルで酸化ストレス・炎症調節、α-シヌクレイン凝集抑制、オートファジー促進による神経保護効果を示す。経鼻投与やマイクロニードルパッチなどの非侵襲的送達が有効性を高める。"
+      },
+      {
+        "title": "Neuroinflammation and peripheral targeting: formulation-based strategies for modulating the neuroimmune axis in diabetic peripheral neuropathy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42765277/",
+        "abstract": "Diabetic peripheral neuropathy (DPN) is a common and disabling complication of diabetes that is largely treated symptomatically. Chronic neuroinflammation in the peripheral nerve, dorsal root ganglion, and blood-nerve barrier (BNB) may contribute to disease progression, making the peripheral neuroimmune interface a potential therapeutic target.",
+        "source": "PubMed",
+        "doi": "10.1080/17435889.2026.2734072",
+        "keyword": "Exosomes",
+        "title_ja": "神経炎症と末梢標的化：糖尿病性末梢神経障害における神経免疫軸を調節するための製剤ベースの戦略",
+        "summary_ja": "糖尿病性末梢神経障害（DPN）は糖尿病の一般的かつ機能障害を伴う合併症で、主に対症療法が行われる。末梢神経、後根神経節、血液神経関門（BNB）における慢性神経炎症が病勢進行に関与する可能性があり、末梢神経免疫インターフェースは治療標的となり得る。本論文は、製剤学的戦略により神経免疫軸を調節する新たなアプローチを検討している。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "ADSC-Exosomes Preserve Mitochondrial Function and Ameliorate Uranyl Acetate-Induced Nephrotoxicity Through Inhibition of ATF4 and Activation of PGC-1α/NRF/Tfam Pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42764546/",
+        "abstract": "Uranyl acetate (UA)-induced renal injury disrupts mitochondrial ultrastructure and homeostasis through oxidative stress-mediated pathways, with activating transcription factor 4 (ATF4) identified as a critical molecular switch. This study demonstrates ATF4 directly suppresses peroxisome proliferator-activated receptor gamma coactivator 1-alpha (PGC-1α) transcription via promoter binding, as validated by chromatin immunoprecipitation and luciferase reporter assays. Integrated bioinformatics of renal injury datasets (GSE34351, GSE87024) revealed co-expression networks converging on mitochondrial regulators. In UA-exposed mice, ATF4 silencing rescued mitochondrial biogenesis by activating PGC-1α, restoring cristae architecture observed by transmission electron microscopy and upregulating biogenesis markers (NRF1, Tfam, CPS1). Adipose-derived stem cell exosomes (ADSC-exo) were isolated as biological mediators that attenuated renal uranium accumulation, serum oxidative stress, and histopathological damage. Mechanistically, ADSC-exo inhibited ATF4 to unleash PGC-1α-driven mitochondrial biogenesis, thereby reestablishing redox homeostasis. These findings support the ATF4/PGC-1α axis as an important regulatory pathway involved in mitochondrial impairment during uranium nephrotoxicity.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202503068R",
+        "keyword": "Exosomes",
+        "title_ja": "ADSCエクソソームはATF4の阻害とPGC-1α/NRF/Tfam経路の活性化を通じてミトコンドリア機能を保持し、酢酸ウラニル誘発性腎毒性を改善する",
+        "summary_ja": "酢酸ウラニル（UA）誘発腎障害は酸化ストレスを介しミトコンドリア微細構造と恒常性を破綻させ、ATF4が鍵となる分子スイッチである。本研究は、ATF4がプロモーター結合によりPGC-1α転写を直接抑制することをChIPおよびルシフェラーゼアッセイで示した。腎障害データセットの統合バイオインフォマティクス解析はミトコンドリア制御因子に収束する共発現ネットワークを明らかにした。UA曝露マウスでATF4をノックダウンするとPGC-1α活性化を介しミトコンドリア生合成が回復し、クリステ構造やNRF1、Tfam、CPS1が改善した。脂肪由来幹細胞エクソソーム（ADSC-exo）はウラン蓄積、酸化ストレス、組織障害を軽減し、ATF4抑制とPGC-1α依存性ミトコンドリア生合成によりレドックス恒常性を再構築した。ATF4/PGC-1α軸はウラン腎毒性におけるミトコンドリア障害の重要制御経路である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の注目トピック5選：\n\n1. **NK細胞のHIVリザーバーへのアクセス制限**：リンパ節胚中心のHIV貯蔵庫にNK細胞が到達しにくい空間的制約が明らかに。治癒戦略にはNK細胞の浸潤促進が鍵となる。\n\n2. **NKG2A-HLA-E免疫チェックポイント**：肝細胞癌でNKG2A-HLA-E軸がPD-1/PD-L1と連携し免疫抑制ネットワークを形成。新規併用免疫療法の標的として有望。\n\n3. **植物由来ナノ小胞による治療**：ヤム由来小胞がmiRNAを介しOAを改善、バラ由来小胞がサルモネラを阻害。植物exosome様小胞は安全・低コストな次世代治療プラットフォームとして注目。\n\n4. **尿中神経EVによるシヌクレイノパチー診断**：尿由来神経細胞外小胞のα-シヌクレインシード検出が非侵襲的バイオマーカーとして有用。パーキンソン病・MSAの早期診断に道。\n\n5. **骨-脳軸とPIEZO1**：脛骨圧縮が骨細胞PIEZO1を介し脳損傷後の回復を促進。骨への機械的刺激という簡便な神経リハビリ法の可能性を示す。\n\nこれらは免疫療法、非侵襲診断、植物ナノ医療、神経再生の新機軸を提示する。"
+}

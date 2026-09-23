@@ -1,0 +1,197 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Adult-onset deficiency of β-klotho in the liver reveals a novel role in lipid homeostasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42772455/",
+        "abstract": "β-klotho (KLB), the obligate co-receptor for fibroblast growth factor (FGF) 19 and 21 signalling, has emerged as a therapeutic target for metabolic disease. Current understanding of KLB function is based largely on germline knockout mouse models, where developmental abnormalities obscure its function in adult physiology. Here, we used somatic hepatocyte-specific gene editing in adult mice to define hepatic KLB function.",
+        "source": "PubMed",
+        "doi": "10.1016/j.molmet.2026.102443",
+        "keyword": "Klotho",
+        "title_ja": "成人発症の肝臓におけるβ-クロトー欠損は脂質恒常性における新たな役割を明らかにする。",
+        "summary_ja": "成体マウスの肝細胞特異的遺伝子編集により、肝臓のβ-klotho（KLB）の機能を解析した。KLBはFGF19およびFGF21シグナルの必須共受容体で、代謝疾患の治療標的として注目されるが、従来の生殖細胞系列ノックアウトマウスでは発生異常が成体生理における機能解明を妨げていた。本研究は成体における肝KLBの新たな脂質恒常性制御の役割を示した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "A metabolic-oxidative axis contributes to NK cell cryo-vulnerability.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42774670/",
+        "abstract": "While immunotherapy has revolutionized cancer and other disease treatment, its clinical application requires effective cryopreservation for scalable manufacturing and global distribution. However, many immune cells exhibit substantial freeze-thaw sensitivity, limiting their scalable production and distribution. Using metabolic flux analysis, ROS quantification, lipidomics, and xenograft models, we identified metabolic state as a determinant of immune cell cryo-sensitivity. Natural killer (NK) cell activation induced a metabolic shift with elevated glucose utilization and excessive ROS, causing profound post-thaw viability and functional loss (∼25% survival). Targeted pretreatments-glucose metabolism inhibitors, antioxidants, and lipid peroxidation inhibitors-restored post-thaw recovery to ∼90% while preserving effector activity and antitumor efficacy in immunodeficient mice. Similar protection in αβ T cells, γδ T cells, and macrophages indicates that metabolic and oxidative features broadly emerge as key determinants of immune cell cryopreservation sensitivity. These findings support a metabolic-oxidative axis as an important feature associated with NK cell cryo-vulnerability.",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.117508",
+        "keyword": "NK cell therapy",
+        "title_ja": "代謝-酸化軸はNK細胞の凍結脆弱性に寄与する。",
+        "summary_ja": "免疫療法の臨床応用には免疫細胞の有効な凍結保存が不可欠だが、多くの免疫細胞は凍結融解感受性が高い。代謝フラックス解析、ROS定量、脂質オミクス、異種移植モデルを用いて、代謝状態が免疫細胞の凍結感受性を決定づけることを同定した。NK細胞の活性化はグルコース利用増大とROS過剰を伴う代謝シフトを誘導し、融解後の生存率と機能を著しく低下させた（生存率約25%）。グルコース代謝阻害剤、抗酸化剤、脂質過酸化阻害剤による前処理は、エフェクター活性と抗腫瘍効果を保ちつつ融解後の回復を約90%に改善した。αβ T細胞、γδ T細胞、マクロファージでも同様の保護がみられ、代謝・酸化特性が免疫細胞の凍結保存感受性の鍵となる決定因子であることが示された。これらの知見は、代謝-酸化軸がNK細胞の凍結脆弱性に関連する重要因子であることを支持する。"
+      },
+      {
+        "title": "Correction: Next-generation CAR-NK cell therapy: engineering strategies, translational challenges, and future perspectives in cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42773448/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12935-026-04470-5",
+        "keyword": "NK cell therapy",
+        "title_ja": "訂正：次世代CAR-NK細胞療法：がん免疫療法における工学戦略、臨床応用への課題、および将来展望",
+        "summary_ja": "提供された情報には論文・記事の本文が含まれていないため、要約できません。タイトルのみでは、具体的な内容（工学戦略、 translational challenges、将来展望など）を正確に要約することが不可能です。本文のテキストを提供していただければ、400文字以内で日本語に要約いたします。"
+      },
+      {
+        "title": "Differential peripheral immune dynamics underlie therapeutic response to chemotherapy and chemoimmunotherapy in triple-negative breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42772938/",
+        "abstract": "Triple-negative breast cancer (TNBC) is an aggressive breast cancer subtype with limited treatment options and response to immune checkpoint inhibitors. Tumor-infiltrating lymphocytes have been extensively studied; however, the integration of peripheral immune dynamics with mechanistic regulation underlying therapeutic response remain poorly defined. Here, we integrate immune-state modeling with pathway-level mechanistic inference to analyze single-cell RNA sequencing of PBMCs from patients with advanced TNBC treated with paclitaxel alone or in combination with the anti-PD-L1 Ab atezolizumab. This framework leverages treatment arm, longitudinal sampling, and clinical response to resolve coordinated immune programs across lymphoid and myeloid compartments. We identified distinct treatment- and response-specific states before and after treatment. Chemotherapy responders displayed pretreatment adaptive immune priming, whereas combination-therapy responders exhibited preexisting effector T-cell activity coupled with tumor PD-L1 expression. In contrast, chemotherapy nonresponders developed persistent post-treatment immune dysregulation in regulatory and terminal effector programs, whereas combination-therapy nonresponders demonstrated maladaptive remodeling of adaptive and innate compartments, including dysfunctional NK and metabolically reprogrammed myeloid populations. Across regimens, pathways involving protein translation, metabolic adaptation, and stress signaling emerged as shared modulators of response. These findings suggest that coordinated adaptive-innate immune dynamics underlie therapeutic efficacy, whereas systemic immune exhaustion and myeloid immunoregulation lead to resistance. Projection of these peripheral immune programs onto independent I-SPY2 showed concordant associations with tumor immune phenotypes and pathological complete response, supporting generalizability of the findings. Our study demonstrates the utility of an integrative approach for linking peripheral immune state organization with mechanistic insights, informing response in TNBC.",
+        "source": "PubMed",
+        "doi": "10.1093/immhor/vlag049",
+        "keyword": "NK cell therapy",
+        "title_ja": "三陰性乳癌における化学療法および化学免疫療法への治療反応の基盤となる末梢免疫動態の差異",
+        "summary_ja": "トリプルネガティブ乳癌（TNBC）は治療選択肢が限られ、免疫チェックポイント阻害薬への応答も限定的である。本研究では、パクリタキセル単独または抗PD-L1抗体アテゾリズマブ併用療法を受けた進行TNBC患者のPBMC単一細胞RNAシーケンスを、免疫状態モデリングと経路レベルの機序推論により解析した。治療群・縦断的サンプリング・臨床応答を活用し、リンパ系・骨髄系 compartment にわたる協調的免疫プログラムを解明した。化学療法応答者は治療前の適応免疫プライミングを示し、併用療法応答者は既存のエフェクターT細胞活性と腫瘍PD-L1発現を呈した。非応答者は制御性・終末エフェクタープログラムの持続的免疫調節障害、またはNK機能不全や代謝再 programming された骨髄系を含む不適応リモデリングを示した。タンパク質翻訳・代謝適応・ストレスシグナル経路が共通の応答調節因子として同定された。"
+      },
+      {
+        "title": "IL-15 trans-presentation at the innate-adaptive interface: mechanisms and translation in cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42771543/",
+        "abstract": "Durable antitumor immunity requires innate activation, antigen presentation, lymphocyte priming, trafficking, and effector function. In immunologically cold tumors, deficient dendritic-cell and natural killer (NK)-cell activation limits the transition from tumor-antigen recognition to CD8 T-cell immunity. Interleukin-15 (IL-15) is a member of the common gamma-chain cytokine family with a distinctive receptor-delivery system at this innate-adaptive interface. In native trans-presentation, IL-15 is stabilized by IL-15 receptor alpha (IL-15Rα) on an antigen-presenting cell and presented to CD122/CD132 on an apposed NK or memory CD8 T cell. This contact-dependent arrangement supports NK-cell homeostasis, memory CD8 T-cell maintenance, and spatially restricted signaling while avoiding the CD25-dependent regulatory T-cell preference of IL-2. IL-12, IL-15, and IL-18 can generate cytokine-induced memory-like NK cells with enhanced recall. These programs are constrained by intrinsic CISH feedback and by tumor-associated TGF-",
+        "source": "PubMed",
+        "doi": "10.1080/2162402X.2026.2736333",
+        "keyword": "NK cell therapy",
+        "title_ja": "自然免疫と適応免疫のインターフェースにおけるIL-15トランスプレゼンテーション：がん免疫療法における機序と翻訳",
+        "summary_ja": "IL-15は共通γ鎖サイトカインで、抗原提示細胞上のIL-15Rαにより安定化され、NK細胞や記憶CD8 T細胞のCD122/CD132へtrans-presentationされる。この接触依存性機構はNK細胞恒常性や記憶CD8 T細胞維持、局所的なシグナル伝達を支え、IL-2のようなCD25依存性Treg優位性を避ける。IL-12、IL-15、IL-18は cytokine-induced memory-like NK細胞を誘導し再応答性を高めるが、CISHによる内在性フィードバックや腫瘍関連TGF-βにより制約される。免疫的にcoldな腫瘍では樹状細胞やNK細胞の活性化不全がCD8 T細胞免疫への移行を妨げるため、IL-15 trans-presentationはがん免疫療法の標的として有望である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Digital cytometry of leukocyte landscapes reveals shared correlates of rejection across organ transplants.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42771484/",
+        "abstract": "Improved understanding of the cellular mechanisms of organ transplant rejection is needed for developing targeted therapies to improve outcomes. We used digital cytometry to estimate the digital leukocyte entities (DLE) shared by rejection in biopsies of kidney, heart, lung, and liver organ transplants.",
+        "source": "PubMed",
+        "doi": "10.1172/JCI208686",
+        "keyword": "NK cell therapy",
+        "title_ja": "白血球の landscape のデジタルサイトメトリーにより、臓器移植間で拒絶反応の共通する相関因子が明らかになる",
+        "summary_ja": "臓器移植拒絶の細胞機構解明のため、腎・心・肺・肝移植の生検検体に対しデジタルサイトメトリーを適用し、拒絶反応に共通するデジタル白血球エンティティ（DLE）を推定した。その結果、複数の臓器移植にまたがる拒絶反応の共通相関因子が明らかになった。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Modification Technology for Exosome Membranes using Membrane-Curvature-Sensing Peptides and Its Application to Boron Neutron Capture Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42777136/",
+        "abstract": "Extracellular vesicles such as exosomes are expected to be used as drug delivery vehicles, particularly in personalized medicine, due to their pharmacological advantages. However, the development of functionalization techniques for isolated extracellular vesicles-including improving their intracellular uptake efficacy from the perspective of a drug delivery system and targeting disease-associated cells to reduce side effects-has become an urgent priority. The aim of this study was to develop a technology for modifying the surface of exosome membranes with functional molecules using membrane-curvature-sensing peptides. By using a cassette-based approach to modify the surface of exosomes with functional peptides that induce macropinocytosis, this technology achieved highly efficient intracellular delivery of exosomes. Furthermore, we applied this technology to boron neutron capture therapy (BNCT). By encapsulating therapeutic boron agents within exosomes, effective induction of cancer cell death through thermal neutron irradiation in BNCT was achieved.",
+        "source": "PubMed",
+        "doi": "10.1021/acsabm.6c00698",
+        "keyword": "Exosomes",
+        "title_ja": "膜曲率感知ペプチドを用いたエクソソーム膜の修飾技術とホウ素中性子捕捉療法への応用",
+        "summary_ja": "エクソソームなどの細胞外小胞は、薬理学的利点から個別化医療における薬物送達担体として期待されるが、DDSの観点からの細胞内取り込み効率改善や副作用低減のための標的化など、機能化技術の開発が急務である。本研究は、膜曲率感知ペプチドを用いてエクソソーム膜表面を機能分子で修飾する技術を開発した。カセット方式でマクロピノサイトーシス誘導ペプチドを修飾し、高効率な細胞内送達を実現した。さらにホウ素中性子捕捉療法（BNCT）へ応用し、治療用ホウ素薬剤を内包したエクソソームにより、熱中性子照射で効果的ながん細胞死を誘導した。"
+      },
+      {
+        "title": "Ultrasound-enhanced exosome secretion and antibody-free SERS profiling for Alzheimer's disease via iPSC-derived cortical organoids.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42777042/",
+        "abstract": "Exosomes offer a promising vehicle for noninvasive diagnosis of neurodegenerative diseases by carrying multiple biomarkers across the blood-brain barrier. However, traditional exosome analysis often misses subtle genotype-specific variations because of weak signals from a few exosomes, reliance on markers, and limited understanding of disease signatures. Here, we present a sound way to understand Alzheimer's disease through label-free surface-enhanced Raman scattering (SERS) profiling of cortical organoid-derived exosomes. Initially, we enhanced exosomal SERS signal levels by optimizing ultrasound parameters to increase exosome secretion from cortical organoids. Using this strategy, we distinguished apolipoprotein E genotype-dependent differences in intact exosomal fingerprints. Transcriptome analysis confirmed that ultrasound stimulation increased exosome secretion and up-regulated exosome-related genes functionally linked to Alzheimer's pathology. Ultrasound-based stimulation and label-free exosome profiling reveal genotype-specific pathologies, providing a precision-diagnostic framework for Alzheimer's disease.",
+        "source": "PubMed",
+        "doi": "10.1126/sciadv.aed3930",
+        "keyword": "Exosomes",
+        "title_ja": "アルツハイマー病に対する、iPSC由来皮質オルガノイドを用いた超音波促進エクソソーム分泌と抗体不要SERSプロファイリング",
+        "summary_ja": "iPSC由来皮質オルガノイドを用い、超音波刺激でエクソソーム分泌を促進し、抗体不要のSERSプロファイリングでアルツハイマー病（AD）を解析した研究。超音波パラメータ最適化によりエクソソーム分泌とSERS信号を増強し、無標識でアポリポ蛋白E遺伝子型依存的なエクソソーム指紋の差異を識別した。トランスクリプトーム解析は、超音波刺激がエクソソーム分泌を増やし、AD病理に関連するエクソソーム関連遺伝子を上方制御することを確認した。本手法は遺伝子型特異的病理を捉え、ADの精密診断フレームワークを提供する。"
+      },
+      {
+        "title": "Exosomes Derived from Non-small Cell Lung Cancer Cells Transfer LINC00467 to Induce the Proliferation of Cancer-associated Fibroblasts.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42776375/",
+        "abstract": "Cancer-associated fibroblasts (CAFs) significantly contribute to non-small cell lung cancer (NSCLC) progression by remodeling the extracellular matrix and mediating paracrine signaling. Although exosomal lncRNAs are key regulators of tumor-stroma interactions, the specific functions of individual lncRNAs remain poorly understood. LINC00467 and miR-133b were selected for further investigation in this study based on previous reports, prior evidence of lncRNA-miRNA interaction, and preliminary experimental observations in NSCLC-derived exosomes and fibroblast activation models. Exosomes from A549 and primary NSCLC cells were isolated using a polymer-based precipitation method and validated by Western blotting. LINC00467 was silenced via siRNA, and isolated exosomes were co-cultured with MRC5 fibroblasts and CAFs. Fibroblast activation and proliferation markers were assessed by Western blotting and cell counting kit assays. miR-133b involvement was examined using quantitative real-time PCR and inhibitor-based rescue experiments. Exosome-pretreated MRC5 fibroblasts were also co-cultured with A549 cells. Exosomal LINC00467 was enriched in NSCLC-derived exosomes. Knockdown of LINC00467 in NSCLC cells reduced its exosomal levels, leading to decreased expression of activation markers (α-SMA, COL-I, COL-III) and cell cycle regulators (Cyclin B1, Cyclin D1) in recipient fibroblasts. In addition, exosomes with LINC00467 knockdown inhibited the cell proliferation of fibroblasts. It was also revealed that LINC00467-deficient exosomes upregulated miR-133b expression. Importantly, inhibition of miR-133b reversed the suppressive effects of LINC00467 knockdown. Exosome-pretreated fibroblasts enhanced A549 cell proliferation, colony formation, and migration in vitro. This study identifies a novel exosomal LINC00467/miR-133b axis that promotes fibroblast activation and proliferation in NSCLC.",
+        "source": "PubMed",
+        "doi": "10.1007/s12013-026-02170-5",
+        "keyword": "Exosomes",
+        "title_ja": "非小细胞肺癌细胞来源的外泌体通过传递LINC00467诱导癌相关成纤维细胞增殖",
+        "summary_ja": "NSCLC由来エクソソームはLINC00467をCAFへ伝達し、線維芽細胞の活性化と増殖を促す。A549等のエクソソームでLINC00467が濃縮され、siRNAによるノックダウンでα-SMA、COL-I、COL-IIIやCyclin B1、D1発現と増殖が低下した。LINC00467欠損エクソソームはmiR-133bを上方制御し、その阻害が抑制効果を逆転させた。エクソソーム前処理線維芽細胞はA549の増殖、コロニー形成、遊走を促進した。本研究はNSCLCにおける新規エクソソーム性LINC00467/miR-133b軸を同定した。"
+      },
+      {
+        "title": "Combined photobiomodulation and exosome therapy for muscle and tendon regeneration: an experimental rabbit study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42776298/",
+        "abstract": "Achilles tendon injuries are common, especially among athletes, and their treatment remains challenging. Reduced muscle strength and immobility can exacerbate tendon stiffness, leading to disability. This study investigated the effects of adipose tissue-derived mesenchymal stem cell exosomes and low-level laser therapy (LLLT) on muscle and Achilles tendon elasticity in a rabbit model. Twelve New Zealand white rabbits underwent ultrasound imaging of Achilles tendons and gastrocnemius muscles with a 40 MHz probe during flexion and dorsiflexion. Foot stress during movement was measured. To create a partial tendon injury, a 5 mm longitudinal incision, 3 mm deep, was made in the Achilles tendon. Male rabbits were randomly divided into four groups: control, LLLT (830 nm, 15 mW, 3 J/cm²), exosome injection (200 µg/mL), and combined LLLT with exosomes. Treatments were applied on days 1, 8, and 15. Ultrasound evaluations were performed before injury, immediately after, and on days 8 and 21. Tendon and muscle samples were analyzed histologically with hematoxylin-eosin staining. On day 21, the force applied to induce flexion and dorsiflexion of the Achilles tendon and gastrocnemius muscle significantly increased in the combined treatment group compared to the others (P < 0.05). The thickness strain of both muscle and tendon improved significantly with combination therapy (P < 0.05). Histology showed compact, parallel collagen fibers and a well-organized extracellular matrix in tendons treated with LLLT and exosomes. No inflammation was observed, and muscle atrophy was reduced. Combining low-level laser therapy with exosomes derived from ADSCs enhanced the histological, ultrasound-derived, and mechanical aspects related to Achilles tendon repair. This included improvements in tendon and gastrocnemius strain, as well as flexion and dorsiflexion force.",
+        "source": "PubMed",
+        "doi": "10.1007/s10103-026-05040-x",
+        "keyword": "Exosomes",
+        "title_ja": "筋肉および腱の再生のための光生体調節療法とエクソソーム療法の併用：ウサギを用いた実験的研究",
+        "summary_ja": "アキレス腱損傷は治療が難しく、筋力低下や不動化が腱の硬化を悪化させる。本研究は、ウサギモデルで脂肪組織由来間葉系幹細胞エクソソームと低出力レーザー療法（LLLT）の併用効果を検討した。アキレス腱に部分損傷を作成し、対照、LLLT（830 nm、15 mW、3 J/cm²）、エクソソーム注射（200 µg/mL）、併用群に分け、1、8、15日目に治療した。21日目に併用群では屈曲・背屈に要する力が他群より有意に増加し（P<0.05）、筋・腱の厚みひずみも有意に改善した（P<0.05）。組織学的に並行なコラーゲン線維と良好な細胞外基質が認められ、炎症はなく筋萎縮も軽減した。LLLTとADSC由来エクソソームの併用はアキレス腱修復を促進した。"
+      },
+      {
+        "title": "Smart drug delivery systems for immunotherapeutic agents: focus on biological/biogenic platform-based intelligent delivery in cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42771161/",
+        "abstract": "Cancer immunotherapy marks a major advance in oncology, yet its effectiveness is constrained by challenges such as inefficient tumor targeting, immune-related toxicities, low response rates, and an immunosuppressive tumor microenvironment (TME). To overcome these obstacles, smart drug delivery systems (SDDSs) have been developed to deliver immunotherapeutic agents in a targeted, controlled manner in response to specific stimuli. This review summarizes recent advances in SDDSs for cancer immunotherapy, focusing on biological and biogenic platforms. These systems respond to endogenous and exogenous stimuli to improve treatment precision and enhance antitumor immune responses. The main types of SDDS, including synthetic, biological, and hybrid, are reviewed in the context of applications such as immune checkpoint inhibition, cancer vaccines, cytokine therapy, and adoptive cell therapy. The review also considers engineered exosomes, including isolation and engineering strategies, microRNA (miRNA) loading strategies, and surface modifications to improve targeting and impact on the TME. Existing evidence suggests that biological and hybrid platforms offer advantages in biocompatibility, biological recognition, and functional versatility; however, challenges remain in cargo-loading efficiency, biological heterogeneity, scalability, safety, and reproducibility. Emerging approaches, including clustered regularly interspaced short palindromic repeats (CRISPR)-based engineering, hybrid nanocarriers, and artificial intelligence, can accelerate the development of advanced immunotherapy delivery systems. Overall, biointegrated SDDSs show potential for greater precision, efficacy, and safety in cancer immunotherapy, although significant barriers to their clinical application remain.",
+        "source": "PubMed",
+        "doi": "10.1007/s13346-026-02222-6",
+        "keyword": "Exosomes",
+        "title_ja": "免疫治療薬のためのスマートドラッグデリバリーシステム：がん免疫療法における生物学的／生物由来プラットフォームベースのインテリジェントデリバリーに焦点を当てて",
+        "summary_ja": "癌免疫療法は腫瘍学の大きな進歩だが、腫瘍標的化の非効率性、免疫関連毒性、低い奏効率、免疫抑制性腫瘍微小環境（TME）などの課題がある。これを克服するため、特定の刺激に応答して免疫治療薬を標的・制御的に送達するスマートドラッグデリバリーシステム（SDDS）が開発されている。本レビューは生物学的・生物由来プラットフォームに焦点を当て、免疫チェックポイント阻害、癌ワクチン、サイトカイン療法、養子細胞療法への応用を概説する。エクソソームの単離・工学戦略、microRNA（miRNA）搭載、表面修飾も論じる。生物学的・ハイブリッドプラットフォームは生体適合性や生体認識、機能多様性で優れるが、積載効率、生物学的異質性、スケーラビリティ、安全性、再現性に課題が残る。CRISPR工学、ハイブリッドナノキャリア、人工知能が開発を加速し得る。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "CRISPR/Cas9 Delivery Using Extracellular Vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42771314/",
+        "abstract": "Extracellular vesicles (EVs), particles released from cells, have the potential to become an important in vivo delivery vehicle for CRISPR machinery. Unlike viral vectors such as Adeno-associated virus (AAV), EVs reduce risks associated with immunogenicity, long-term expression, and potential off-target effects. EVs can efficiently deliver CRISPR/Cas9 ribonucleoprotein (RNP) complexes, which provide transient, ready-to-function editing machinery with reduced off-target risk compared with plasmid DNA or mRNA delivery. RNP loading into EVs can occur without specific targeting signals, although strategies such as membrane anchoring, inducible dimerization systems, or fusion with EV-associated proteins can enhance cargo enrichment. EVs are typically produced by transfecting producer cells with plasmids encoding Cas9 and sgRNA, followed by vesicle release into culture media. Purification requires removal of cellular debris and enrichment of vesicles using methods such as ultracentrifugation, ultrafiltration, chromatography, or precipitation. As no single gold-standard purification approach exists, method selection should balance yield and purity, and characterization using vesicle markers and size distribution profiling is recommended.",
+        "source": "PubMed",
+        "doi": "10.1007/978-1-0716-5547-4_11",
+        "keyword": "Exosomes",
+        "title_ja": "細胞外小胞を用いたCRISPR/Cas9デリバリー",
+        "summary_ja": "細胞由来のExtracellular vesicles（EVs）は、CRISPR機構のin vivo送達媒体として有望である。AAV等のウイルスベクターと異なり、免疫原性や長期発現、off-targetのリスクを低減できる。EVsはCRISPR/Cas9 ribonucleoprotein（RNP）複合体を効率的に送達し、plasmid DNAやmRNAより一過性でoff-targetリスクが低い。RNPのEVへの積載は特定のターゲティングシグナルなしでも可能だが、膜アンカリングや誘導性二量体化、EV関連タンパク質との融合で効率を高められる。EVsは通常、Cas9とsgRNAをコードするplasmidを産生細胞にトランスフェクションして作製し、培養液中に放出させる。精製には超遠心、限外濾過、クロマトグラフィー、沈殿法等が必要で、単一のゴールドスタンダードはなく、収量と純度のバランスが重要で"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Isolation and Purification-Free Digital Single-Small Extracellular Vesicle Biosensing with Scalable Plasmonic Arrays.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42776860/",
+        "abstract": "Recent advances in plasmonic biosensing and imaging have enabled label-free analysis of single biological nanoparticles. We previously developed PlAsmonic NanOapeRture lAbel-free iMAging (PANORAMA) for isolation and purification-free, digital counting and precise localization of antibody captured, tetraspanin-positive small extracellular vesicles (sEVs), with complementary fluorescence interrogation of surface and intravesicular biomarkers for quantitative molecular profiling. The fact that no isolation and purification is needed represents a crucial advantage because various specificity, efficiency, and time-consumption issues hinder quantitatively reproducible extraction of sEVs from biological fluids. PANORAMA achieves ultrahigh refractive-index sensitivity through arrayed gold nanodisks on invisible substrates (AGNIS) fabricated by nanosphere lithography (NSL). However, despite its simplicity and low cost, NSL is frequently constrained by poor large-area uniformity, which hinders scalable fabrication. Here, we introduce nanosphere settling lithography (NSSL) as an alternative to the gold-standard Langmuir-Blodgett trough (LBT) process, enabling highly uniform, large-area monolayers with reduced process stringency. AGNIS fabricated via NSSL exhibits high refractive-index sensitivity with low spatial variability across 60 mm × 24 mm substrates, sufficient for 60-well in standard 384-well plate format. The platform demonstrates exquisite sensitivity through PANORAMA digital counting and sizing of 25, 50, and 100 nm polystyrene beads, as well as single-vesicle characterization of antibody captured, tetraspanin-positive sEVs derived from H460 lung cancer cells. Combined PANORAMA and fluorescence imaging enables quantitative analysis of microRNA-21 (miR-21)-associated fluorescence among antibody captured sEV-like particles from liver cancer patient plasma, allowing label-free digital counting after selective affinity capture and simultaneous molecular profiling of the captured vesicle subset. Collectively, NSSL enables uniform, high-performance plasmonic biosensing over large areas, providing a scalable and economical pathway for high-throughput, digital analysis of antibody captured single sEVs and translational liquid biopsy applications.",
+        "source": "PubMed",
+        "doi": "10.1021/acssensors.6c01933",
+        "keyword": "sEVs",
+        "title_ja": "スケーラブルなプラズモニックアレイを用いた、単一小型細胞外小胞の分離・精製不要なデジタルバイオセンシング",
+        "summary_ja": "プラズモンバイオセンシングによる単一生物学的ナノ粒子のラベルフリー解析が進展している。著者らは以前、抗体捕捉したテトラスパニン陽性small extracellular vesicles（sEVs）を分離・精製不要でデジタル計数・局在化するPANORAMAを開発した。これは金ナノディスクアレイ（AGNIS）をナノスフェアリソグラフィー（NSL）で作製するが、大面積均一性に難があった。本研究ではLangmuir-Blodgett法に代わるナノスフェア沈降リソグラフィー（NSSL）を導入し、60mm×24mm基板上で高均一・高屈折率感度のAGNISを実現した。25・50・100nmポリスチレンビーズの計数・サイズ測定やH460肺癌由来sEVsの単一小胞解析、肝癌患者血漿中のmiR-21関連蛍光解析を可能にし、大面積・高スループットなリキッドバイオプシーへの応用を示した。"
+      },
+      {
+        "title": "Extracellular vesicles shape tumourigenesis: from signalling networks to systemic progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42776258/",
+        "abstract": "Extracellular vesicles (EVs) are established mediators of long-range intercellular communication in cancer, transferring oncogenic and regulatory cargo that reshapes recipient cells across tissues. Recent integrative multi-omics analyses of small EVs (sEVs) from healthy human donors consistently identify TSAP6/STEAP3 among the most abundant and reproducible sEV components, providing a physiological context for its role in sEV biology. Rather than acting solely as a downstream effector of p53, TSAP6 functions within a broader regulatory network by associating with TPT1/TCTP, which engages DDX3 and promotes the incorporation of RNAs, including microRNAs, into sEVs. The resulting p53-TSAP6-TCTP-DDX3 axis constitutes a wide-reaching regulatory system with non-cell-autonomous impact on cellular communication. Notably, TCTP sustains sEV-mediated signalling even in p53-mutant contexts. We suggest that these findings are consistent with other advances in cancer linking oncogenic transformation with EV biology. Together, these observations support regulated EV-mediated information transfer as a mechanism contributing to cancer progression and systemic cellular reprogramming. Conversely, reduction in EV abundance, altered cargo content, or signalling capacity may contribute to the activation of the tumour reversion programme in TCTP-dependent experimental models.",
+        "source": "PubMed",
+        "doi": "10.1007/s10555-026-10377-4",
+        "keyword": "sEVs",
+        "title_ja": "細胞外小胞が腫瘍形成を形作る：シグナル伝達ネットワークから全身性進展まで",
+        "summary_ja": "細胞外小胞（EVs）は癌における長距離細胞間通信の媒介者であり、腫瘍形成性・制御性カーゴを輸送して受容細胞を再構築する。健常ドナー由来small EVs（sEVs）のマルチオミクス解析により、TSAP6/STEAP3が最も豊富で再現性の高い成分として同定された。TSAP6はp53の下流効果因子ではなく、TPT1/TCTPと結合し、DDX3を介してmicroRNAを含むRNAのsEVへの取り込みを促進する。このp53-TSAP6-TCTP-DDX3軸は非細胞自律的に細胞通信へ影響する。TCTPはp53変異状況でもsEV媒介シグナルを維持する。これらの知見は、EVを介した情報伝達が癌進行と全身的細胞再プログラミングに寄与することを支持する。一方、EV量やカーゴ、シグナル能の低下はTCTP依存モデルで腫瘍退縮プログラムの活性化に寄与しうる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **肝β-klothoの新機能**：成体肝特異的KLB欠損により、FGF19/21共受容体が脂質恒常性を制御すると判明。発生異常を回避した標的検証は代謝疾患治療の新戦略となる。\n\n2. **NK細胞凍結感受性の代謝制御**：代謝-酸化軸が凍結脆弱性を決定。NK細胞療法の安定供給・保存最適化に直結し、臨床応用の障壁克服が期待される。\n\n3. **IL-15 trans-presentation**：IL-15/IL-15Rα複合体によるNK・記憶CD8T細胞維持機構を整理。癌免疫療法におけるサイトカイン設計の翻訳指針となる。\n\n4. **EVによるCRISPR送達**：EVは低免疫原性・低off-targetでCRISPR機構をin vivo送達可能。遺伝子治療の安全なプラットフォームとして注目される。\n\n5. **単一sEVデジタルバイオセンシング**：分離・精製不要でテトラスパニン陽性sEVを計数・局在化。EV診断の実用化・標準化を加速する基盤技術である。"
+}

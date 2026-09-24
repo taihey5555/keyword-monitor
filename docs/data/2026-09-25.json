@@ -1,0 +1,125 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Ganoderma lucidum polysaccharides and their immunomodulatory effects via the Dectin-1/NF-κB signaling axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42777993/",
+        "abstract": "Ganoderma lucidum polysaccharides (GLPs), the core bioactive macromolecules of Ganoderma lucidum, have garnered massive research attention for their robust immunomodulatory effects. Cumulative data verify that GLP β-glucans specifically bind pattern recognition receptor Dectin-1, alongside auxiliary co-receptors for synergistic regulation. Dectin-1 engagement triggers the Syk-CARD9 cascade, promoting NF-κB nuclear translocation to upregulate immune genes and directly regulate macrophage polarization and dendritic cell maturation via Dectin-1, which in turn indirectly activates NK cells and T cells through cytokine release (IL-12, IL-18) and antigen presentation by matured dendritic cells. This review details GLP structural characteristics and corresponding structure-immunomodulation relationships, highlighting the pivotal Dectin-1/NF-κB signaling axis. It summarizes state-of-the-art GLP research in anti-tumor, anti-inflammatory therapy and immune homeostasis, clarifies molecular mechanisms, sorts preclinical outcomes, and addresses obstacles limiting clinical translation. GLPs are classified by raw sources, extraction protocols, molecular weight, monosaccharide components, glycosidic linkages and spatial conformations; each structural trait is paired with dedicated characterization and cell/animal verification assays to eliminate superficial structure-activity generalizations. This work lays theoretical groundwork for fungal polysaccharide immunomodulator preclinical development, yet human clinical trials remain indispensable.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijbiomac.2026.154584",
+        "keyword": "NK cell therapy",
+        "title_ja": "ガノデルマ・ルシズム多糖類とDectin-1/NF-κBシグナル伝達軸を介した免疫調節効果",
+        "summary_ja": "灵芝多糖（GLPs）は灵芝の主要な生理活性高分子で、強力な免疫調節作用が注目されている。GLPのβ-グルカンはパターン認識受容体Dectin-1に特異的に結合し、補助共受容体と協調してSyk-CARD9経路を活性化、NF-κBの核内移行を促進する。これにより免疫遺伝子発現、マクロファージ極性化、樹状細胞成熟が直接制御され、IL-12やIL-18放出と抗原提示を介してNK細胞・T細胞が間接的に活性化される。本レビューはGLPの構造特性と構造-免疫調節相関を整理し、Dectin-1/NF-κB軸の重要性を強調する。抗腫瘍・抗炎症・免疫恒常性研究の最新動向、分子機構、前臨床成果、臨床応用の障壁をまとめ、原料・抽出法・分子量・単糖組成・結合様式・立体構造ごとに特性評価と検証法を対応させ、表層的な構造活性相関の一般化を排除する。真菌多糖免疫調節薬の前臨床開発の理論基盤を築くが、ヒト臨床試験は不可欠で"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosomes in Viral Infections: Insights into Their Emerging Role in Dengue Pathogenesis and Therapeutics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42777848/",
+        "abstract": "Dengue virus (DENV) is a major global health concern, with millions of cases reported each year, particularly in tropical and subtropical regions. Aedes aegypti and Aedes albopictus, are the primary vectors of the virus responsible for the transmission of infection. Clinical consequences of Dengue infection range from moderate fever to severe symptoms like hemorrhagic fever and shock. The severe forms of dengue consist of a complex interaction between viral factors, host immunological responses, and endothelium damage. Currently, there is no specific antiviral medication available, and management is mostly supportive. Exosomes, tiny extracellular vesicles that play an important role in cellular communication, have sparked interest due to their potential role in viral infections such as dengue. These vesicles transfer proteins, lipids, and nucleic acids between cells, potentially influencing immunological responses and viral development. Investigating their role in DENV infection could provide important insights into the underlying disease mechanisms and potential therapeutic options. This review looks at exosome biogenesis, their involvement in viral infections, their therapeutic promise in dengue, and the challenges and future prospects of exosome-based research. This study highlights the potential of exosomes as valuable biomarker and therapeutic target in the future to combat dengue by combining existing mechanistic knowledge with translational approaches.",
+        "source": "PubMed",
+        "doi": "10.1016/j.micpath.2026.108848",
+        "keyword": "Exosomes",
+        "title_ja": "ウイルス感染におけるエクソソーム：デング熱の病態形成と治療における新たな役割に関する知見",
+        "summary_ja": "デングウイルス（DENV）は世界的な健康問題であり、特に熱帯・亜熱帯地域で年間数百万人が感染する。主な媒介者はAedes aegyptiとAedes albopictusで、症状は軽度の発熱から出血熱やショックに至る。重症化にはウイルス因子、宿主免疫応答、内皮障害の複雑な相互作用が関与する。特異的抗ウイルス薬はなく、治療は対症療法が中心である。近年、細胞間コミュニケーションを担う細胞外小胞であるエクソソームが、DENV感染における役割から注目されている。エクソソームはタンパク質・脂質・核酸を細胞間で輸送し、免疫応答やウイルス増殖に影響を与えうる。本レビューでは、エクソソームの生合成、ウイルス感染への関与、デング熱における治療的可能性、課題と将来展望を論じ、バイオマーカーおよび治療標的としての可能性を強調している。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Targeting exosome conjugated with cardiac homing peptide alleviates myocardial infarction by delivering miRNAs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42779449/",
+        "abstract": "Conventional therapies for myocardial infarction (MI) have limited efficacy in restoring cardiac function. This study aimed to construct a novel engineered exosome platform for promoting post-MI cardiac regeneration and evaluate its therapeutic efficacy.",
+        "source": "PubMed",
+        "doi": "10.1080/1061186X.2026.2687010",
+        "keyword": "Exosomes",
+        "title_ja": "心臓ホーミングペプチドを結合したエクソソームを標的化することで、miRNAを送達し心筋梗塞を軽減する。",
+        "summary_ja": "心筋梗塞（MI）に対する従来治療は心機能回復効果が限定的である。本研究では、心筋再生を促進する新規エンジニアリングexosomeプラットフォームを構築し、治療効果を評価した。心臓ホーミングペプチドを結合したexosomeにmiRNAを搭載し、MIモデルに投与したところ、心筋梗塞が軽減された。この結果は、標的化exosomeによるmiRNA送達がMI治療の新たな戦略となり得ることを示唆する。"
+      },
+      {
+        "title": "Neural-tumor interactions: bidirectional regulatory mechanisms and nervous system-targeted tumor therapeutic strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42778965/",
+        "abstract": "Neural-tumor crosstalk has emerged as a critical frontier in tumor microenvironment research. Central to this field is the dynamic, bidirectional regulatory network between the nervous system and tumor cells that orchestrates malignant progression. This review focuses on tumors arising outside the central nervous system and their bidirectional interactions with peripheral nerves, summarizing the current evidence on the molecular mechanisms underlying these reciprocal interactions. We first examine how neural components modulate tumorigenesis through the release of neuroactive molecules and proteins that activate oncogenic signaling pathways. In particular, neurons and Schwann cells can transmit protumorigenic signals via paracrine signaling, exosome-mediated communication, and the formation of functional neuroneoplastic synapses. Conversely, tumors can actively \"hijack\" and remodel their neural architecture to promote axonogenesis and neural infiltration while contributing to complications such as cancer pain and paraneoplastic neurological syndromes. We further highlight the pivotal role of neural signaling in reshaping the tumor microenvironment across three interconnected dimensions: the spatial dimension (neural niches), the signaling dimension (bidirectional communication mediated by neuroactive molecules), and the functional dimension (immunometabolic reprogramming). Together, these processes contribute to tumor progression and immune evasion. Building on these insights, therapeutic strategies targeting the neural-tumor interface have shown promising clinical potential. Further characterization of these regulatory networks may identify context-specific drivers of tumorigenesis and progression and inform the development of novel therapeutics targeting neural pathways.",
+        "source": "PubMed",
+        "doi": "10.1186/s40364-026-00998-w",
+        "keyword": "Exosomes",
+        "title_ja": "神经-肿瘤相互作用：双向调控机制及靶向神经系统的肿瘤治疗策略",
+        "summary_ja": "神経系と腫瘍の相互作用は腫瘍微小環境研究の重要領域である。本レビューは中枢神経系外の腫瘍と末梢神経の双方向的制御ネットワークを扱う。神経構成要素は神経活性分子やタンパク質の放出、パラクラインシグナル、エクソソーム、機能的神経腫瘍シナプス形成を介し腫瘍形成を促進する。逆に腫瘍は神経構造をハイジャック・再構築し、軸索形成や神経浸潤を促し、癌性疼痛や傍腫瘍性神経症候群を引き起こす。神経シグナルは空間的（神経ニッチ）、シグナル的（神経活性分子を介した双方向通信）、機能的（免疫代謝リプログラミング）の三次元で腫瘍微小環境を再形成し、腫瘍進行と免疫回避に寄与する。神経腫瘍界面を標的とする治療戦略は臨床的可能性を示す。制御ネットワークの解明は新規治療開発に寄与しうる。"
+      },
+      {
+        "title": "Ubiquitination-mediated degradation of NLRX1 drives metabolic vulnerability and accelerates intervertebral disc degeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42778683/",
+        "abstract": "Intervertebral disc degeneration (IVDD) is driven in part by senescence of nucleus pulposus (NP) cells, yet the metabolic defects underlying this process remain incompletely defined. Although NLRX1 has been implicated in mitochondrial quality control, the mechanisms governing its stability and its role in OXPHOS regulation during IVDD remain unclear. Here, we show that oxidative phosphorylation (OXPHOS) progressively declines with increasing IVDD severity and that loss of NLRX1 contributes to this defect by disrupting mitochondrial respiration and redox homeostasis in NP cells. Nlrx1",
+        "source": "PubMed",
+        "doi": "10.1038/s41418-026-01864-w",
+        "keyword": "Exosomes",
+        "title_ja": "ユビキチン化を介したNLRX1の分解が代謝脆弱性を引き起こし、椎間板変性を加速させる。",
+        "summary_ja": "NLRX1のユビキチン化を介した分解が、代謝脆弱性を引き起こし椎間板変性（IVDD）を加速させる。IVDDは髄核（NP）細胞の老化により進行するが、その代謝異常は未解明であった。本研究では、IVDD重症度の上昇に伴い酸化的リン酸化（OXPHOS）が進行性に低下し、NLRX1の喪失がNP細胞のミトコンドリア呼吸とレドックス恒常性を破綻させることが示された。NLRX1の安定性制御機構とOXPHOS調節における役割が明らかになり、IVDDの新たな治療標的としての可能性が示唆された。"
+      },
+      {
+        "title": "Corrigendum to: Integrative analysis of follicular fluid metabolites, exosomal miRNAs and granulosa cell mRNAs shows their interplay in women of advanced maternal age.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42778168/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1071/RD25173_CO",
+        "keyword": "Exosomes",
+        "title_ja": "卵胞液中の代謝物、エクソソームmiRNAおよび顆粒膜細胞mRNAの統合解析が高齢出産女性におけるそれらの相互作用を示す：訂正",
+        "summary_ja": "提供された情報はタイトルのみで、本文が含まれていないため要約できません。本文をご提示ください。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Comparative characterization of mitochondrial components across size-defined extracellular vesicle populations derived from HaCaT keratinocytes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42777897/",
+        "abstract": "The transfer of mitochondrial cargo through extracellular vesicles (EVs) has been reported in several model systems and cell types, yet a detailed characterization of mitochondrial components across different EV populations remains limited. Here, we characterized the mitochondrial cargo of small EVs (sEVs) and large EVs (lEVs) released by human HaCaT keratinocytes and examined the impact of oxidative stress on their content composition. EVs were isolated from keratinocyte-conditioned medium and characterized using complementary analytical approaches. Their mitochondrial cargo was assessed using super-resolution microscopy, RT-qPCR, nano-flow cytometry, and mass spectrometry. We found that mitochondrial proteins and transcripts were predominantly associated with lEVs, whereas sEVs contained low levels of selected mitochondrial proteins and RNA. Comparative proteomic analysis revealed distinct mitochondrial-associated signatures between EV populations. lEVs were enriched in proteins with predominantly mitochondrial localization and proteins associated with antioxidant-related functions, whereas sEVs were enriched in proteins associated with RNA- and tRNA-related processes. The preferential association of mitochondrial cargo with lEVs was increased upon oxidative stress. Together, these findings highlight EV heterogeneity as an important determinant of mitochondrial cargo transfer and reveal that mitochondrial cargo is preferentially associated with larger EV populations.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijpharm.2026.127462",
+        "keyword": "sEVs",
+        "title_ja": "HaCaTケラチノサイト由来のサイズ別細胞外小胞集団におけるミトコンドリア成分の比較特性評価",
+        "summary_ja": "ヒトHaCaTケラチノサイト由来の細胞外小胞（EV）について、サイズ別集団間でのミトコンドリア成分を比較解析した。sEVとlEVを単離し、超解像顕微鏡、RT-qPCR、ナノフローサイトメトリー、質量分析で評価した。ミトコンドリアタンパク質・転写産物は主にlEVに存在し、sEVには一部のミトコンドリアタンパク質とRNAが低レベルで含まれた。プロテオミクス解析により、lEVはミトコンドリア局在タンパク質や抗酸化関連タンパク質に富み、sEVはRNA・tRNA関連プロセスに関連するタンパク質に富むことが判明した。このlEVへの優先的会合は酸化ストレスで増加した。EVの不均一性がミトコンドリアカーゴ輸送の重要因子であり、ミトコンドリアカーゴはより大きなEV集団に優先的に会合することが示された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **GLPによるDectin-1/NF-κB免疫調節**：灵芝多糖がDectin-1を介し自然免疫を活性化する機序を解明。がん免疫補助療法への応用が期待される。\n\n2. **デング熱におけるExosomeの役割**：DENV感染重症化にexosomeが関与する可能性を示し、新規バイオマーカー・治療標的として注目される。\n\n3. **心臓ホーミングペプチド結合Exosomeによる心筋梗塞治療**：miRNA搭載exosomeを心筋へ選択的に送達し、心機能回復を促進する新規プラットフォーム。再生医療への展開が期待される。\n\n4. **神経-腫瘍相互作用**：末梢神経と腫瘍の双方向的制御機構を整理し、exosomeや神経腫瘍シナプスを標的とした治療戦略を提示。腫瘍微小環境研究の新軸となる。\n\n5. **NLRX1分解と椎間板変性**：ユビキチン化によるNLRX1分解が代謝脆弱性を招きIVDDを加速。代謝標的治療の可能性を示す。\n\n以上は免疫調節、感染症、再生医療、腫瘍神経科学、変性疾患をつなぐ重要な知見です。"
+}

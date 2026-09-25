@@ -1,0 +1,201 @@
+{
+  "A": {
+    "医学": [
+      {
+        "title": "Natural Killer Cell-Derived Extracellular Vesicle Preparations Demonstrate Potent Antitumor Activity Against Human Glioblastoma In Vitro and In Vivo.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42788040/",
+        "abstract": "Extracellular vesicles (EVs) derived from activated natural killer (NK) cells represent a promising cell-free immunotherapy for cancer. However, the use of primary expanded human NK cell-derived EVs (NK-EVs) for intractable brain tumours is underexplored. Here, we evaluated common EV isolation methods including precipitation for bulk EVs and size exclusion chromatography (SEC) to obtain both NK-EVs and proteins. Precipitated NK-EVs demonstrated potent dose-dependent cytotoxicity against multiple glioblastoma (GBM) cell lines, including those resistant to conventional NK cell therapy. They suppressed tumour growth in subcutaneous GBM xenograft models and, following intravenous administration, significantly inhibited orthotopic brain tumour progression and prolonged survival. SEC-NK-EVs expressed high levels of activating receptors (NKG2D, DNAM-1, NKp30) and effector proteins (perforin, granzyme B) with lower inhibitory receptors (TIGIT, TIM-3, CD96 and LAG3) compared to parental cells. Importantly, both SEC-NK-EVs and proteins exhibited antitumor activity, revealing complementary therapeutic mechanisms within the NK cell secretome. Collectively, these findings establish NK-EVs as an effective cell-free immunotherapy strategy for GBM that has the potential to evade key limitations of adoptive NK cell therapy, including the immunosuppressive tumour microenvironment.",
+        "source": "PubMed",
+        "doi": "10.1002/jex2.70181",
+        "keyword": "NK cell therapy",
+        "matched_keywords": [
+          "NK cell therapy",
+          "Exosomes"
+        ],
+        "title_ja": "ナチュラルキラー細胞由来細胞外小胞製剤は、ヒト膠芽腫に対してin vitroおよびin vivoで強力な抗腫瘍活性を示す。",
+        "summary_ja": "活性化NK細胞由来細胞外小胞（NK-EVs）は、無細胞免疫療法として有望だが、難治性脳腫瘍への応用は未解明である。本研究では、沈殿法とサイズ排除クロマトグラフィー（SEC）でEVを単離し評価した。沈殿NK-EVsは、従来のNK細胞療法に抵抗性のものを含む複数の膠芽腫（GBM）細胞株に対し用量依存的細胞傷害性を示した。皮下GBM異種移植モデルで腫瘍増殖を抑制し、静脈内投与で同所性脳腫瘍の進行を有意に抑制し生存を延長した。SEC-NK-EVsは活性化受容体（NKG2D、DNAM-1、NKp30）とエフェクター蛋白（パーフォリン、グランザイムB）を高発現し、抑制性受容体（TIGIT、TIM-3、CD96、LAG3）は低発現だった。SEC-NK-EVsと蛋白の双方が抗腫瘍活性を示し、相補的機序が示唆された。NK-EVsはGBMに対する有効な無細胞免疫療法であり、免疫抑制的腫瘍微小環境など養子NK細"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "SOX2 and NTF3 expression are associated with taste-bud alterations in aging klotho-deficient mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42785525/",
+        "abstract": "Taste dysfunction is commonly associated with aging and accompanied by morphological and molecular alterations in the tongue epithelium. To investigate the mechanisms underlying this phenomenon, we utilized Klotho-deficient (Kl -/-) mice, a model of accelerated aging. The tongue epithelium of Kl -/- mice showed altered muscle organization and increased clear spaces within the muscle compartment. The minor salivary glands displayed acinar cell atrophy. Notably, compared with WT, Kl -/- mice presented a reduced taste bud diameter and decreased expression of key taste receptors, as well as type II taste cells. Importantly, immunohistochemical and western blot analyses revealed decreased expression of SOX2 in taste buds and tongue epithelium. Overexpression of SOX2 significantly upregulated PLCB2, which plays roles in taste bud cell differentiation and function. Conversely, siRNA-mediated knockdown of SOX2 resulted in reduced expression of taste-related genes (Keratin 8, PLCB2, Taste receptors) and decreased expression of NTF3 and BDNF, neurotrophic factors involved in sensory-neural maintenance. Furthermore, SOX2 directly regulated the promoter activity of NTF3, suggesting that SOX2 contributes to taste bud maintenance through transcriptional regulation of NTF3. Together, these findings suggest that altered SOX2 expression is associated with changes in taste-associated proteins and neurotrophic-factors expression in the aging Kl -/- tongue.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mad.2026.112259",
+        "keyword": "Klotho",
+        "title_ja": "SOX2とNTF3の発現は、加齢したクロトー欠損マウスにおける味蕾の変化と関連している。",
+        "summary_ja": "加齢に伴う味覚障害は舌上皮の形態・分子的変化を伴う。加速老化モデルであるKlotho欠損（Kl-/-）マウスの舌上皮では筋組織の配列変化と筋区画内の空隙増加、小唾液腺の腺房細胞萎縮がみられた。Kl-/-マウスは野生型と比べ味蕾径が縮小し、主要味覚受容体およびII型味細胞の発現が低下した。免疫組織化学的・ウェスタンブロット解析により、味蕾および舌上皮でSOX2発現低下が判明した。SOX2過剰発現は味蕾細胞の分化・機能に関与するPLCB2を有意に上方制御した。逆にSOX2のsiRNAノックダウンは味覚関連遺伝子（Keratin 8、PLCB2、味覚受容体）や感覚神経維持に関わる神経栄養因子NTF3、BDNFの発現を低下させた。さらにSOX2はNTF3プロモーター活性を直接制御し、NTF3の転写調節を介して味蕾維持に寄与することが示唆された。以上より、老化Kl-/-舌ではSOX2発現変化が味覚関"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Correlation Analysis Between Serum Lp-PLA2 and Platelet Activation Markers in Patients With Different Degrees of Coronary Artery Stenosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42788303/",
+        "abstract": "Coronary artery disease (CAD) is characterized by complex interactions between vascular inflammation and platelet activation. This study aimed to investigate the association between serum lipoprotein-associated phospholipase A2 (Lp-PLA2) and platelet activation markers in CAD patients with different degrees of coronary stenosis. A cross-sectional observational study was conducted among 209 patients with CAD confirmed by coronary angiography. Patients were stratified into mild, moderate, and severe stenosis groups according to Gensini score tertiles. Serum levels of Lp-PLA2, P-selectin, platelet factor 4 (PF4), and β-thromboglobulin (β-TG) were measured, and their associations were evaluated using correlation analysis and multivariable linear regression. Lp-PLA2 and platelet activation markers showed progressively higher levels in patients with more severe coronary stenosis. Significant positive correlations between Lp-PLA2 and PF4 (",
+        "source": "PubMed",
+        "doi": "10.1177/00033197261490730",
+        "keyword": "PF4",
+        "title_ja": "異なる程度の冠動脈狭窄患者における血清Lp-PLA2と血小板活性化マーカーの相関分析",
+        "summary_ja": "冠動脈疾患（CAD）は血管炎症と血小板活性化の複雑な相互作用を特徴とする。本研究は、冠動脈狭窄度の異なるCAD患者における血清リポ蛋白関連ホスホリパーゼA2（Lp-PLA2）と血小板活性化マーカーの関連を検討した。冠動脈造影でCADと確認された209例を対象とした横断的観察研究で、Gensiniスコアの三分位により軽度・中等度・重度狭窄群に層別化した。血清Lp-PLA2、P-セレクチン、血小板第4因子（PF4）、β-トロンボグロブリン（β-TG）を測定し、相関分析と多変量線形回帰で関連を評価した。狭窄が重度なほどLp-PLA2と血小板活性化マーカーは段階的に高値を示し、Lp-PLA2とPF4間に有意な正相関を認めた。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Pharmacological targeting of ferroptosis in cancer: mechanisms, tumor immunity, and translational challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42789241/",
+        "abstract": "Ferroptosis is an iron-dependent form of regulated cell death driven by phospholipid peroxidation and the failure of cellular antioxidant defenses. Its close integration with iron metabolism, lipid remodeling, and redox homeostasis has identified ferroptosis as a potentially exploitable vulnerability in cancer. This review critically examines the molecular and pharmacological determinants of ferroptotic sensitivity, including iron handling, acyl-CoA synthetase long-chain family member 4 (ACSL4)/lysophosphatidylcholine acyltransferase 3 (LPCAT3)-dependent lipid remodeling, and the glutathione peroxidase 4 (GPX4)-glutathione, ferroptosis suppressor protein 1 (FSP1)-coenzyme Q10, mitochondrial dihydroorotate dehydrogenase (DHODH), and GTP cyclohydrolase 1 (GCH1)-tetrahydrobiopterin defense systems. We discuss experimental ferroptosis inducers and clinically used drugs with reported ferroptosis-modulating activity, emphasizing differences in their mechanisms, strength of evidence, and translational relevance. Particular attention is given to the bidirectional interactions between ferroptosis and the tumor immune microenvironment. Although cytotoxic lymphocytes and interferon-gamma (IFN-γ) signaling may sensitize malignant cells to ferroptosis, excessive lipid peroxidation in cluster of differentiation 8-positive (CD8⁺) T cells, natural killer cells, dendritic cells, and other immune populations may impair antitumor immunity. These context- and cell-type-dependent effects support combination strategies involving immunotherapy, radiotherapy, and conventional or targeted anticancer treatments, but also define potential toxicities. We further discuss candidate biomarkers related to iron metabolism, lipid composition, antioxidant capacity, and immune context, as well as the need for patient stratification and targeted drug delivery. Successful clinical implementation will require selective induction of ferroptosis in malignant cells while preserving normal tissues and antitumor immune function. Ferroptosis should therefore be regarded as a conditional therapeutic vulnerability rather than a universally beneficial anticancer mechanism.",
+        "source": "PubMed",
+        "doi": "10.1007/s43440-026-00910-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "癌におけるフェロトーシスの薬理学的標的化：機序、腫瘍免疫、およびトランスレーショナルな課題",
+        "summary_ja": "フェロトーシスは鉄依存性の制御された細胞死で、リン脂質過酸化と抗酸化防御の破綻により誘導される。本レビューは、鉄代謝、ACSL4/LPCAT3依存性脂質リモデリング、GPX4-グルタチオン、FSP1-コエンザイムQ10、DHODH、GCH1-テトラヒドロビオプテリン防御系など、フェロトーシス感受性の分子・薬理学的決定因子を検討する。臨床薬を含む誘導剤の機序やエビデンス、翻訳的意義の差異を論じ、腫瘍免疫微小環境との双方向性相互作用に注目する。CD8⁺T細胞やNK細胞、樹状細胞の過剰な脂質過酸化は抗腫瘍免疫を損なうため、免疫療法・放射線療法・抗癌治療との併用戦略が支持される一方、毒性も規定される。鉄代謝、脂質組成、抗酸化能、免疫文脈に関わるバイオマーカーや患者層別化、標的薬物送達の必要性を議論し、悪性細胞選択的誘導と正常組織・抗腫瘍免疫の保持が臨床実装に必要と結論する。フェロトーシスは普遍的有"
+      },
+      {
+        "title": "Natural killer cell-based therapy for hepatocellular carcinoma (HCC): A literature review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42782420/",
+        "abstract": "Hepatocellular carcinoma (HCC) remains a significant global health threat characterized by aggressive progression and high mortality rates. Despite therapeutic advancements, survival for advanced stages is unacceptably low, necessitating innovative approaches like Natural Killer (NK) cell-based immunotherapy. NK cells are crucial innate immune components providing rapid tumor cytotoxicity without prior sensitization. However, the HCC tumor microenvironment (TME) presents a formidable barrier, inducing NK cell dysfunction through immunosuppressive cytokines like TGF-[Formula: see text], chronic hypoxia, and metabolic exhaustion driven by lipid accumulation. This literature review consolidates and integrates findings regarding current NK cell-based strategies in HCC, with particular emphasis on mechanisms of NK cell dysfunction within the TME and therapeutic approaches designed to restore their antitumor activity. Emerging therapeutic strategies involve cytokine-supported approaches, including the adoptive transfer of autologous or allogeneic NK cells expanded ex vivo using stimuli such as IL-15 and IL-21. In parallel, advances in genetic engineering have enabled the development of modified NK cells, including chimeric antigen receptor (CAR)-NK platforms targeting HCC-associated antigens such as glypican-3 (GPC3) and CD147 and bispecific and trispecific killer cell engagers (BiKEs and TriKEs). This review underscores the translational potential of NK cell-based therapies by highlighting unresolved knowledge gaps in the complex interplay between NK cells and the TME. These developments provide a foundation for optimizing NK cell immunotherapy and improving prognostic outcomes for patients with HCC.",
+        "source": "PubMed",
+        "doi": "10.1007/s12032-026-03393-5",
+        "keyword": "NK cell therapy",
+        "title_ja": "肝細胞癌（HCC）に対するナチュラルキラー細胞を用いた治療：文献レビュー",
+        "summary_ja": "肝細胞癌（HCC）は進行が速く死亡率が高い。進行例の生存率は低く、NK細胞免疫療法などの新規アプローチが必要である。NK細胞は自然免疫の要で、感作なしに迅速な腫瘍細胞傷害性を示すが、HCCの腫瘍微小環境（TME）はTGF-β、慢性低酸素、脂質蓄積による代謝疲弊などを介してNK細胞機能不全を誘導する。本レビューは、HCCにおけるNK細胞療法の現状、TMEでの機能不全機構、抗腫瘍活性回復を目指す治療戦略を統合する。IL-15やIL-21でex vivo拡大した自己・同種NK細胞の養子移入、GPC3やCD147を標的とするCAR-NK、BiKEs/TriKEsなどの遺伝子工学的手法が台頭している。NK細胞とTMEの相互作用には未解明点が残るが、NK細胞免疫療法の最適化と予後改善の基盤を提供する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "An ionic liquid-functionalized styrene-maleic anhydride copolymer brush stationary phase coupled with offline two-dimensional LC-MS/MS for comprehensive exosomal phospholipid profiling in breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42789059/",
+        "abstract": "Comprehensive characterization of exosomal phospholipids is essential for understanding cancer-associated metabolic alterations and discovering potential biomarkers, but remains challenging due to their extensive structural diversity and the limited selectivity and coverage of conventional liquid chromatography-tandem mass spectrometry (LC-MS/MS) approaches. In this study, an ionic liquid-functionalized styrene-maleic anhydride copolymer brush stationary phase (Sil-BHHICl) was developed and integrated into an offline two-dimensional (2D) LC-MS/MS platform for comprehensive exosomal phospholipid profiling. The Sil-BHHICl stationary phase exhibited a hydrophilic interaction/reversed-phase mixed-mode retention mechanism and provided enhanced selectivity toward phospholipids, enabling efficient separation at both the phospholipid-class and molecular-species levels. The developed analytical platform enabled comprehensive profiling of plasma-derived exosomal phospholipids, resulting in the identification of 274 molecular species belonging to 10 phospholipid classes. Lipidomic analysis of plasma exosomes from breast cancer patients and healthy controls revealed distinct phospholipid alterations associated with breast cancer and identified five candidate biomarkers, among which LysoPC-O (16:0) exhibited the strongest discriminatory ability. Pathway enrichment analysis further indicated that the altered phospholipids were predominantly associated with glycerophospholipid metabolism, suggesting extensive lipid metabolic remodeling in breast cancer. Overall, this study establishes a mixed-mode chromatographic platform for high-coverage exosomal phospholipid profiling and demonstrates its potential for lipidomics-based biomarker discovery and investigation of disease-associated metabolic alterations.",
+        "source": "PubMed",
+        "doi": "10.1007/s00216-026-06832-4",
+        "keyword": "Exosomes",
+        "title_ja": "イオン液体官能化スチレン-無水マレイン酸共重合体ブラシ固定相とオフライン二次元LC-MS/MSを組み合わせた乳がんにおけるエクソソームリン脂質の網羅的プロファイリング",
+        "summary_ja": "イオン液体修飾スチレン-無水マレイン酸共重合体ブラシ固定相（Sil-BHHICl）を開発し、オフライン2次元LC-MS/MSに統合して乳癌におけるエクソソームリン脂質を全面プロファイリングした。Sil-BHHIClはHILIC/逆相混合モード保持を示し、リン脂質クラス・分子種レベルで高分離を実現した。血漿由来エクソソームから10クラス274分子種を同定し、乳癌患者と健常者で異なるリン脂質変化を検出、5つの候補バイオマーカー（中でもLysoPC-O(16:0)が最も識別能高）を同定した。経路解析ではグリセロリン脂質代謝との関連が示唆された。"
+      },
+      {
+        "title": "Elevated miR-103b in exosomes derived from brain-metastatic triple-negative breast cancer cells remodels the brain pre-metastatic niche (PMN).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42788345/",
+        "abstract": "Triple-negative breast cancer (TNBC) is a highly aggressive breast cancer with high brain metastatic (BM) potential. Tumor-derived exosomes are implicated as key modulators during the formation of the pre-metastatic niche (PMN). However, the regulation of TNBC-BM-derived exosomes on brain PMN remains enigmatic.",
+        "source": "PubMed",
+        "doi": "10.1080/15384047.2026.2725357",
+        "keyword": "Exosomes",
+        "title_ja": "脳転移性トリプルネガティブ乳がん細胞由来エクソソーム中のmiR-103b上昇は脳転移前ニッチ（PMN）をリモデリングする",
+        "summary_ja": "TNBCは脳転移（BM）能が高い侵襲性乳癌である。腫瘍由来エクソソームは転移前ニッチ（PMN）形成の鍵となる調節因子だが、TNBC-BM由来エクソソームの脳PMN制御機構は未解明である。本研究は、脳転移性TNBC細胞由来エクソソーム中のmiR-103b上昇が脳PMNをリモデリングすることを示した。"
+      },
+      {
+        "title": "Sustained Delivery of Exosome-Encapsulated Ellagic Acid via Injectable Self-Healing Hydrogel for Spinal Cord Injury Repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42786751/",
+        "abstract": "Following primary mechanical trauma, spinal cord injury evolves through a complex secondary cascade involving blood-spinal cord barrier disruption, ischemia-reperfusion injury, oxidative stress, and neuroinflammation, which collectively propagate neuronal death, demyelination, and glial scarring to preclude functional recovery. Current treatments mitigate single processes but not all at once, limiting their efficacy. To develop an effective multivalent treatment, the small molecule ellagic acid, which inhibits inflammation and oxidative damage while protecting the barrier between blood and spinal cord, was encapsulated within exosomes derived from bone marrow mesenchymal stem cells. These exosomes, by themselves, have been shown to promote neural repair, and loading ellagic acid into them stabilized the drug and increased its bioavailability. The ellagic acid-loaded exosomes (Exos-EA) were formulated into a self-healing chitosan/hyaluronic acid hydrogel (Exos-EA@CS/HA-Gel) to prolong their retention and release at the injection site. The resulting Exos-EA@CS/HA-Gel inhibited lipopolysaccharide-induced inflammatory responses in murine microglial cultures and protected human neuroblastoma cell lines from death due to oxidative stress. In a rat model of spinal cord injury, Exos-EA@CS/HA-Gel restored the function of the barrier between blood and spinal cord, promoting tissue repair. These results suggest that Exos-EA@CS/HA-Gel may be effective against spinal cord injury.",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.71750",
+        "keyword": "Exosomes",
+        "title_ja": "注射可能な自己修復性ヒドロゲルによるエキソソーム封入エラグ酸の持続的送達による脊髄損傷修復",
+        "summary_ja": "脊髄損傷は一次損傷後の二次カスケード（血液脊髄関門破綻、虚血再灌流障害、酸化ストレス、神経炎症）により神経死や脱髄、グリア瘢痕が進行し機能回復が妨げられる。既存治療は単一過程のみ標的とするため限界がある。本研究では抗炎症・抗酸化作用と血液脊髄関門保護作用を持つエラグ酸を、骨髄間葉系幹細胞由来エクソソームに封入し、薬物安定性とバイオアベイラビリティを向上させた。これを自己修復性キトサン/ヒアルロン酸ハイドロゲルに配合し（Exos-EA@CS/HA-Gel）、注入部位での滞留と放出を延長した。本製剤はLPS誘導性ミクログリア炎症を抑制し、酸化ストレスによる神経芽細胞死を保護した。ラット脊髄損傷モデルで血液脊髄関門機能を回復し組織修復を促進した。以上より有効な治療法となり得る。"
+      },
+      {
+        "title": "Hypoxic bone marrow mesenchymal stem cell-derived exosomes promote neurovascular repair in ischemic stroke with CXCR4-Associated enhancement.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42785582/",
+        "abstract": "Ischemic stroke is a leading cause of disability and mortality worldwide, with limited therapeutic options for long-term recovery. Bone marrow-derived mesenchymal stem cell (BMSC)-derived exosomes have emerged as a promising cell-free therapy, but their efficacy is often constrained by poor homing efficiency.",
+        "source": "PubMed",
+        "doi": "10.1016/j.brainres.2026.150562",
+        "keyword": "Exosomes",
+        "title_ja": "低酸素骨髄間葉系幹細胞由来エクソソームはCXCR4関連の増強を伴って虚血性脳卒中の神経血管修復を促進する。",
+        "summary_ja": "虚血性脳卒中は世界的に主要な障害・死亡原因だが、長期回復の治療選択肢は限られる。骨髄由来間葉系幹細胞（BMSC）由来エクソソームは有望な無細胞療法だが、ホーミング効率の低さが課題である。本研究では、低酸素処理したBMSC由来エクソソームが、CXCR4関連の増強を伴って虚血性脳卒中の神経血管修復を促進することが示された。"
+      },
+      {
+        "title": "Machine Learning-Assisted Multiplex Profiling of Plasma-Derived Exosomal miRNAs for Alzheimer's Disease Classification.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42784246/",
+        "abstract": "Accurate diagnosis of Alzheimer's disease (AD) remains challenging due to its multifactorial nature and the limitations of current diagnostic methods. Exosome-derived microRNAs (miRNAs) have emerged as promising minimally invasive biomarkers, owing to their stability in peripheral biofluids and their ability to reflect molecular alterations associated with neurodegeneration. In this work, we report an ORCA-Cas assay that integrates a one-pot ligation/rolling circle amplification step with a subsequent CRISPR/Cas12a detection step for the sensitive and specific detection of AD-associated exosomal miRNAs in plasma samples. Four candidate miRNAs (miR-16-5p, miR-23a-5p, miR-574-5p, and miR-361-5p) were evaluated in plasma-derived exosomes from AD patients and healthy controls using both RT-qPCR and ORCA-Cas platforms. In an independent cohort (n = 27 per group), individual miRNAs exhibited modest discriminative performance, highlighting the need for multivariate integration. A random forest model was subsequently employed to integrate signals from the four-miRNA panel, achieving an area under the curve (AUC) of 0.877 with RT-qPCR data and an AUC of 0.923 with ORCA-Cas-derived data. These results demonstrate that combining amplification-assisted CRISPR-based miRNA detection with multivariate modeling improves the diagnostic utility of plasma-derived exosomal miRNA profiles. The ORCA-Cas assay provides a simple, multiplex-capable, and sensitive platform that supports a multi-marker profiling strategy for plasma-based AD molecular profiling and classification.",
+        "source": "PubMed",
+        "doi": "10.1021/acssensors.6c02424",
+        "keyword": "Exosomes",
+        "title_ja": "機械学習支援による血漿由来エクソソームmiRNAのマルチプレックスプロファイリングを用いたアルツハイマー病分類",
+        "summary_ja": "アルツハイマー病（AD）の診断は多因子性と既存法の限界から困難である。血漿由来エクソソームmiRNAは低侵襲バイオマーカーとして注目される。本研究では、one-pot ligation/rolling circle amplificationとCRISPR/Cas12a検出を統合したORCA-Cas法を報告し、AD関連エクソソームmiRNAを高感度・特異的に検出した。4種のmiRNA（miR-16-5p、miR-23a-5p、miR-574-5p、miR-361-5p）をRT-qPCRとORCA-Casで評価した。独立コホート（各群n=27）では単一miRNAの識別能は限定的で、多変量統合が必要であった。ランダムフォレストで4-miRNAパネルを統合し、AUCはRT-qPCRで0.877、ORCA-Casで0.923を達成した。CRISPR検出と多変量モデリングの組合せが血漿エクソソームm"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Performance of large-volume plasma PCR for the diagnosis of invasive aspergillosis: a multicenter retrospective cohort study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42788753/",
+        "abstract": "Timely diagnosis of invasive aspergillosis (IA) is hindered by moderate sensitivity of conventional diagnostic methods. Increasing plasma input volumes has been shown to improve sensitivity of plasma polymerase chain reaction (PCR), and using plasma-derived fungal exosomes (nanosized extracellular vesicles) may do the same. This study aimed to determine whether using large plasma input volumes and exosome-derived DNA enhances the diagnostic performance of ",
+        "source": "PubMed",
+        "doi": "10.1128/jcm.00703-26",
+        "keyword": "Exosomes",
+        "title_ja": "侵襲性アスペルギルス症の診断における大量血漿PCRの性能：多施設後ろ向きコホート研究",
+        "summary_ja": "侵襲性アスペルギルス症（IA）の早期診断は、従来の診断法の感度が中等度であるため困難である。血漿検体量を増やすことで血漿PCRの感度が向上することが示されており、血漿由来真菌エクソソーム（ナノサイズの細胞外小胞）の利用も同様の効果が期待される。本研究は、大量の血漿検体量とエクソソーム由来DNAの使用が診断性能を高めるかを検討する多施設後ろ向きコホート研究である。"
+      },
+      {
+        "title": "The Role of Extracellular Vesicles in Epstein-Barr Virus Immunology and Pathogenesis for Possible Diagnostic and Therapeutic Direction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42787520/",
+        "abstract": "Epstein-Barr virus (EBV), a member of the herpesvirus family, is extremely prevalent worldwide. EBV is a double-stranded DNA virus associated with various malignancies, autoimmune diseases, and lymphomas. Transmission occurs through different means, including saliva and organ transplantation. EBV can produce and secrete vesicles that are critical in intracellular communication and valuable biomarkers in body fluids to diagnose potential diseases. They can also be utilized in targeted therapy. Exosomes are extracellular vesicles (EVs) that play a significant role in several biological processes. Some important components in EBV-related EVs can be valuable biomarkers, including proteins such as latent membrane protein 1 (LMP1) and LMP2A, microRNAs (miRNAs), and long noncoding RNAs (lncRNAs). This review explores the diagnostic and therapeutic potential of EBV-derived exosomes. It also highlights their challenges due to the lack of standardization and difficulties in exosome isolation and improving exosome-based therapy efficiencies.",
+        "source": "PubMed",
+        "doi": "10.1155/cjid/4451657",
+        "keyword": "Exosomes",
+        "title_ja": "細胞外小胞のエプスタイン・バーウイルス免疫学および病因における役割と、診断・治療への応用の可能性",
+        "summary_ja": "Epstein-Barr virus（EBV）はヘルペスウイルス科に属し、世界中で極めて蔓延している二本鎖DNAウイルスで、悪性腫瘍・自己免疫疾患・リンパ腫と関連する。唾液や臓器移植などで伝播する。EBVは細胞間通信に重要で、疾患診断のバイオマーカーや標的治療に有用な小胞を産生・分泌する。特にextracellular vesicles（EVs）の一つであるexosomeは種々の生物学的過程で重要な役割を担う。EBV関連EV中のlatent membrane protein 1（LMP1）やLMP2A、microRNAs（miRNAs）、long noncoding RNAs（lncRNAs）などが有用なバイオマーカーとなり得る。本レビューはEBV由来exosomeの診断・治療の可能性を探り、標準化の欠如や単離の困難、exosome療法の効率改善などの課題も指摘する。"
+      },
+      {
+        "title": "In-cell structures visualize human pre-ribosome assembly in the nucleolus.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42784657/",
+        "abstract": "In eukaryotes, ribosome biogenesis initiates within the nucleolus, a hallmark multilayered compartment of the nucleus. Structures of pre-ribosomes have been characterized ex situ, but their assembly pathways within human nucleoli have not been described. Here, we used cryogenic correlative light and electron tomography to visualize molecular landscapes within HeLa cell nucleoli and obtained in-cell structural snapshots of both ribosomal subunit precursors, the SSU processome and the pre-60S. These recapitulate major states resolved previously ex situ and reveal additional critical interaction partners, including the RNA exosome, rixosome, and nuclear export receptor CRM1-RanGTP. We further show how pre-ribosome assembly landscapes are altered upon RNA polymerase I inhibition. Our study combines molecular structures with cellular context to elucidate the spatiotemporal assembly pathway of the human ribosome.",
+        "source": "PubMed",
+        "doi": "10.1126/science.aej0483",
+        "keyword": "Exosomes",
+        "title_ja": "细胞内構造が核小体におけるヒト前リボソームの組み立てを可視化する。",
+        "summary_ja": "真核生物のリボソーム生合成は核小体で始まるが、ヒト核小体内での組み立て経路は未解明だった。本研究では、低温相関光・電子断層撮影法を用いてHeLa細胞の核小体内の分子景観を可視化し、SSUプロセソームとpre-60Sという両リボソームサブユニット前駆体のin-cell構造スナップショットを得た。これらは従来のex situ解析で得られた主要状態を再現し、さらにRNAエキソソーム、リキソソーム、核外輸送受容体CRM1-RanGTPといった新たな相互作用因子を明らかにした。また、RNAポリメラーゼI阻害時のpre-リボソーム組み立て景観の変化も示した。本研究は分子構造と細胞的文脈を統合し、ヒトribosomeの時空間的組み立て経路を解明した。"
+      },
+      {
+        "title": "M2-Exo-derived miR-1227-5p protects against periodontitis through inhibiting USP2-dependent deubiquitination of Drp1.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42782565/",
+        "abstract": "Periodontitis is a common chronic inflammatory disease with an exaggerated host immune response. M2 type macrophages exert protective properties in periodontitis. This study aimed to investigate the role of M2-Exo-derived miR-1227-5p in periodontitis. M2-Exo were verified using TEM and NTR assay. miRNA and mRNA levels were determined using RT-qPCR. periodontal ligament stem cells (PDLCs) were exposed to LPS in establish in vitro periodontitis model. Gene expression was determined using Western blot and immunofluorescence. The binding sites of miR-1227-5p on USP2 were predicted by TargetScan and verified by luciferase, RNA pull-down, and RIP assays. Deubiquitination of Drp1 was determined using in vitro ubiquitination assay. Cellular behaviors of PDLCs were analyzed by CCK-8, alizarin red staining, and ALP staining. LPS exposure induced mitochondrial dysfunction and suppressed the osteogenesis of PDLCs. M2-Exo-derived miR-1227-5p improved mitochondrial function and promoted the proliferation and osteogenesis of PDLCs. miR-1227-5p directly targeted USP2. USP2 overexpression reversed the effects of miR-1227-5p and improved mitochondrial function and the osteogenesis of PDLCs. Moreover, miR-1227-5p targeted USP2 to inhibit the deubiquitination of Drp1, improving mitochondrial function. Furthermore, M2-Exo-derived miR-1227-5p alleviates periodontitis via regulating USP2/Drp1. Therefore, M2-Exo hold great potential for future clinical applications.",
+        "source": "PubMed",
+        "doi": "10.1007/s10863-026-10137-7",
+        "keyword": "Exosomes",
+        "title_ja": "M2エクソソーム由来のmiR-1227-5pは、USP2依存性のDrp1脱ユビキチン化を阻害することで歯周炎を防御する。",
+        "summary_ja": "M2型マクロファージ由来エクソソーム（M2-Exo）のmiR-1227-5pは、歯周炎保護に寄与する。LPS曝露はPDLCsのミトコンドリア機能障害と骨形成抑制を誘導したが、M2-Exo由来miR-1227-5pはミトコンドリア機能と増殖・骨形成を改善した。miR-1227-5pはUSP2を直接標的とし、USP2過剰発現はその効果を逆転した。またmiR-1227-5pはUSP2を標的としてDrp1の脱ユビキチン化を阻害し、ミトコンドリア機能を改善した。M2-Exo由来miR-1227-5pはUSP2/Drp1を介して歯周炎を軽減し、臨床応用の可能性が期待される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **NK細胞由来EVによる脳腫瘍治療**：活性化NK細胞由来細胞外小胞が膠芽腫に対し強力な抗腫瘍活性を示した。無細胞免疫療法として難治性脳腫瘍への新たな道を開く可能性がある。\n\n2. **エクソソームmiR-103bと脳転移前ニッチ**：脳転移性TNBC由来エクソソームのmiR-103bが脳転移前ニッチをリモデリング。転移予測・治療標的として重要。\n\n3. **M2マクロファージ由来エクソソームと歯周炎**：miR-1227-5pがUSP2依存性Drp1脱ユビキチン化を阻害しミトコンドリア機能を保護。新規治療戦略。\n\n4. **エクソソーム包括的リン脂質プロファイリング**：イオン液体修飾固定相と2次元LC-MS/MSで乳癌エクソソーム脂質を網羅解析。バイオマーカー探索に貢献。\n\n5. **Klotho欠損と味覚障害**：Klotho欠損マウスで味蕾縮小と舌上皮変化を確認。加齢性味覚障害の分子基盤解明に寄与。\n\n以上、EV研究が診断・治療の両面で急速に進展している。"
+}

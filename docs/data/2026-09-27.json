@@ -1,0 +1,134 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Mapping the global landscape of artificial intelligence in pancreatic cancer research: A bibliometric and visualization analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42798094/",
+        "abstract": "Artificial intelligence (AI) applications in pancreatic cancer are expanding rapidly, but the field's global structure and emerging priorities remain incompletely characterized.",
+        "source": "PubMed",
+        "doi": "10.1097/MD.0000000000050681",
+        "keyword": "Exosomes",
+        "title_ja": "膵臓がん研究における人工知能のグローバルな状況のマッピング：文献計量学的および可視化分析",
+        "summary_ja": "膵癌研究におけるAI応用の世界的動向を、文献計量学と可視化分析で調査した論文。AI活用は急速に拡大しているが、分野の全体構造や新興の優先課題は未解明な点が多い。"
+      },
+      {
+        "title": "BMSC-derived EVs alleviate doxorubicin-induced cardiotoxicity via miR-210-3p involving the ACVR1B-SMAD3-PGC-1α signaling axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42791551/",
+        "abstract": "Doxorubicin-induced cardiotoxicity (DIC) limits the clinical use of doxorubicin, yet no specific therapeutic interventions are available. Although the cardioprotective role of miR-210 and the therapeutic potential of stem cell-derived extracellular vesicles have been reported, the specific downstream effectors and pathways mediating the cardioprotective effects of BMSC-EVs against DIC remain poorly understood.",
+        "source": "PubMed",
+        "doi": "10.1186/s13287-026-05261-5",
+        "keyword": "Exosomes",
+        "title_ja": "BMSC由来EVはmiR-210-3pを介してACVR1B-SMAD3-PGC-1αシグナル伝達軸に関与し、ドキソルビシン誘発性心毒性を軽減する",
+        "summary_ja": "骨髄間葉系幹細胞（BMSC）由来細胞外小胞（EVs）が、ドキソルビシン誘発心毒性（DIC）を軽減することが報告されている。本研究では、BMSC-EVs中のmiR-210-3pがACVR1B-SMAD3-PGC-1αシグナル軸を介してDICに対する心保護作用を発揮することを示した。DICはドキソルビシンの臨床使用を制限するが、特異的治療法は未確立であり、BMSC-EVsの下流エフェクターや経路の詳細は不明であった。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Time-of-Day Effects of Platelet-Derived Exosomes on Cognitive-Emotional Functions in an Animal Model of Methamphetamine Addiction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42790664/",
+        "abstract": "Methamphetamine addiction leads to profound cognitive and emotional impairments through persistent neuroinflammatory and neurodegenerative processes. Recent advances suggest that platelet-derived exosomes possess the potential to promote neurorepair and functional recovery. However, the therapeutic efficacy of exosomes may be influenced by time-of-day administration, given that neural plasticity, blood-brain barrier function, and exosomal dynamics are strongly modulated by diurnal rhythms. Understanding how treatment timing across the daily cycle modulates the neuroprotective and behavioral effects of platelet-derived exosomes is critical to optimizing their therapeutic potential in addiction-related neuropsychiatric disorders. Accordingly, the present study was designed and implemented to evaluate the impact of time-of-day administration in improving the effects of platelet-derived exosomes (pExo) on methamphetamine-induced neurotoxicity. In this study, sixty adult male Wistar rats were divided into five groups and subjected to chronic methamphetamine exposure and subsequent pExo treatment during either the active or the rest phase. Spatial learning and memory were assessed using the Morris water maze, whereas anxiety-like behavior was evaluated through the elevated plus maze and grooming behavior tests. Furthermore, hippocampal indices of cell death, apoptosis, neurogenesis, and neuroinflammation were analyzed. The results demonstrated time-of-day-dependent efficacy of pExo, with administration during the Rest-phase-onset significantly enhancing spatial memory performance (p<0.05), whereas treatment during the active-phase-onset more effectively attenuated anxiety-like behaviors. Moreover, pExo delivery in the Rest-phase-onset led to a greater reduction in apoptosis and a more pronounced induction of neurogenesis relative to the active-phase-onset. However, no significant difference was observed in the expression of Iba1, a marker of neuroinflammation, between the two groups (p=0.35). These findings reveal a time-of-day-dependent modulation of pExo therapy efficacy, suggesting that aligning treatment administration with the rest-activity cycle could optimize neurorestorative outcomes. This time-tailored therapeutic approach may open new avenues for enhancing neural recovery and reducing relapse risk in individuals with substance use disorders.",
+        "source": "PubMed",
+        "doi": "10.1016/j.physbeh.2026.115513",
+        "keyword": "Exosomes",
+        "title_ja": "メタンフェタミン依存動物モデルにおける認知・情動機能に対する血小板由来エクソソームの時間帯依存性効果",
+        "summary_ja": "メタンフェタミン依存は神経炎症と神経変性を介し認知・情動機能を障害する。血小板由来エクソソーム（pExo）は神経修復能を持つが、日内リズムが神経可塑性や血液脳関門、エクソソーム動態を調節するため、投与時刻が効果に影響しうる。本研究はメタンフェタミン神経毒性に対するpExoの効果を、活動期または休息期開始時に投与して比較した。雄性Wistarラット60匹を用い、空間記憶はMorris水迷路、不安様行動は高架式十字迷路と毛づくろい試験で評価し、海馬の細胞死、アポトーシス、神経新生、神経炎症を解析した。結果、休息期投与は空間記憶を有意に改善し（p<0.05）、アポトーシス減少と神経新生誘導がより顕著だった。一方、活動期投与は不安様行動をより効果的に軽減した。Iba1発現に群間差はなかった（p=0.35）。pExo療法は投与時刻依存性を示し、休息・活動周期に合わせた投与が神経回復を最適化し、再発リ"
+      },
+      {
+        "title": "Context-Dependent Roles of Mouse Corneal Epithelial Cell-Derived Exosomes in Diabetic Corneal Wound Healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42790637/",
+        "abstract": "Delayed corneal wound healing and sensory neuropathy are hallmarks of diabetic keratopathy, yet the role of corneal epithelial cell (CEC)-derived exosomes in these processes remains unclear. This study characterized exosomes secreted by the mouse corneal epithelial progenitor cell line TKE2 at either quiescent state or scratch-wounded. The isolated extrasellar vesicles wer characterized by nanoparticle tracking analysis, transmission electron microscopy, and Western blotting. Exosomal cargo was analyzed by LC-MS/MS proteomics. The roles of exosome and selected proteins were assessed for effects on wounded healing of normoglycemic and streptozotocin-induced diabetic C57BL/6J mice. The isolated vesicles exhibited canonical exosomal features and were readily taken up by CEC at 1 dpw and trigeminal sensory neurons at 3 dpw. Exosomes derived from healing, but not quiescent, cultures accelerated delayed epithelial wound closure in diabetic corneas, while having little effect on normoglycemic corneas. HTRA1, enriched in healing exosomes, contributed to epithelial wound healing in normal corneas, as its inhibition attenuated wound closure in normoglycemic but not diabetic mice. In contrast, treating healing exosomes with a STAT3 inhibitor, which permanently blocks its activity without altering protein content, partially reduced exosome-mediated wound healing in diabetic corneas. Collectively, these findings support context-dependent effects of CEC-derived exosomes in corneal wound repair and suggest that exosomal components may contribute to the regulation of diabetic corneal wound healing.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ajpath.2026.08.009",
+        "keyword": "Exosomes",
+        "title_ja": "マウス角膜上皮細胞由来エクソソームの糖尿病性角膜創傷治癒における文脈依存的な役割",
+        "summary_ja": "マウス角膜上皮前駆細胞株TKE2由来エクソソームを、静止状態と創傷治癒時で比較した。分離小胞はエクソソームの特徴を示し、創傷後1日に角膜上皮細胞、3日に三叉神経感覚ニューロンに取り込まれた。治癒時由来エクソソームは糖尿病角膜の創傷閉鎖を促進したが、正常血糖角膜にはほとんど影響しなかった。治癒時エクソソームに濃縮されるHTRA1は正常角膜の治癒に寄与し、その阻害は正常血糖マウスのみ創傷閉鎖を減弱させた。一方、STAT3阻害剤処理は糖尿病角膜でのエクソソーム媒介治癒を部分的に抑制した。以上より、CEC由来エクソソームは文脈依存的に角膜創傷修復へ作用し、糖尿病角膜治癒制御に関与する可能性が示唆された。"
+      },
+      {
+        "title": "Targeting neuronal injury with intranasal Arc-engineered exosomes rescues cognitive deficits in Alzheimer's disease via the mTOR-autophagy pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42790614/",
+        "abstract": "The pathological complexity of Alzheimer's disease (AD) necessitates multifaceted therapeutic strategies. By integrating single-nucleus RNA sequencing analysis of 143,214 nuclei, this study identified excitatory neurons as the pivotal locus of cellular damage, manifesting significant dysregulation of pathways associated with proteostasis and autophagy. To counteract these cellular deficits, we developed a neuron-centric targeting strategy utilizing neural stem cell-derived exosomes engineered to overexpress the scaffolding protein Arc (Arc-exo). Following intranasal administration, Arc-exo demonstrated efficient central nervous system accumulation and achieved precision delivery by leveraging the intrinsic neurorestorative properties of the Arc protein and its specific affinity for neurons. Experimental results demonstrated that Arc-exo significantly alleviated AD pathological symptoms by reducing β-amyloid deposition, suppressing neuroinflammation, and repairing neuronal damage. Further mechanistic investigation revealed that Arc-exo restored cellular homeostasis by inhibiting the mTOR signaling pathway and reactivating autophagy. This study highlights engineered exosomes as efficient nanoplatforms for precision therapy in neurodegenerative diseases.",
+        "source": "PubMed",
+        "doi": "10.1016/j.nano.2026.103028",
+        "keyword": "Exosomes",
+        "title_ja": "経鼻Arc設計エクソソームによる神経損傷の標的化はmTOR-オートファジー経路を介してアルツハイマー病の認知障害を改善する",
+        "summary_ja": "アルツハイマー病（AD）の病理的複雑性に対処するため、143,214個の核のsingle-nucleus RNA sequencing解析により、興奮性神経細胞が細胞障害の中心であり、proteostasisとautophagyに関連する経路が著しく調節不全であることを特定した。この障害に対抗するため、神経幹細胞由来exosomeに足場タンパク質Arcを過剰発現させたArc-exoを開発した。経鼻投与後、Arc-exoは効率的に中枢神経系に蓄積し、Arcの神経修復作用と神経細胞への親和性により精密送達を実現した。Arc-exoはβ-amyloid沈着減少、神経炎症抑制、神経細胞障害修復によりAD病理症状を有意に軽減した。機序として、Arc-exoはmTORシグナル経路を阻害しautophagyを再活性化することで細胞恒常性を回復させた。本研究は、engineered exosomeが神経変"
+      },
+      {
+        "title": "Corrigendum to: \"Letter to Editor \"Innate immune suppression by SARS-CoV-2 mRNA vaccinations: The role of G-quadruplexes, exosomes, and MicroRNAs\": Important concerns on the validity of this article\" [Food Chem. Toxicol. (2023), 178, 113897. https://doi.org/10.1016/j.fct.2023.113897].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42790259/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.fct.2026.116393",
+        "keyword": "Exosomes",
+        "title_ja": "訂正： 「編集者への手紙『SARS-CoV-2 mRNAワクチン接種による自然免疫抑制：G四重鎖、エクソソーム、マイクロRNAの役割』：本論文の妥当性に関する重要な懸念」への訂正 [Food Chem. Toxicol. (2023), 178, 113897. https://doi.org/10.1016/j.fct.2023.113897]。",
+        "summary_ja": "提供された情報はタイトルのみで本文内容が含まれていないため、要約を作成できません。本文の内容をご提供ください。"
+      }
+    ],
+    "農学": [
+      {
+        "title": "M1 macrophage-derived exosomes aggravate diabetic nephropathy by regulating the WTAP/S1PR2 axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42798279/",
+        "abstract": "Diabetic nephropathy (DN) is a severe microvascular complication of diabetes mellitus. The specific role of M1 macrophage-derived exosomes in DN progression remains largely unexplored.",
+        "source": "PubMed",
+        "doi": "10.1111/jdi.70446",
+        "keyword": "Exosomes",
+        "title_ja": "M1マクロファージ由来エクソソームはWTAP/S1PR2軸を調節することで糖尿病性腎症を悪化させる",
+        "summary_ja": "M1マクロファージ由来エクソソームはWTAP/S1PR2軸を制御し糖尿病性腎症（DN）を増悪させる。DNは糖尿病の重篤な微小血管合併症であるが、M1マクロファージ由来エクソソームのDN進展における役割は未解明であった。"
+      },
+      {
+        "title": "Corrigendum to \"Bovine colostrum exosomes mediate anti-inflammatory responses in macrophages via the miR-30a-5p/SOX4 axis\" (J. Dairy Sci. 109:4716-4731).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42790988/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.3168/jds.2026-109-10-11154",
+        "keyword": "Exosomes",
+        "title_ja": "「Bovine colostrum exosomes mediate anti-inflammatory responses in macrophages via the miR-30a-5p/SOX4 axis」の訂正（J. Dairy Sci. 109:4716-4731）",
+        "summary_ja": "本稿は、掲載論文「Bovine colostrum exosomes mediate anti-inflammatory responses in macrophages via the miR-30a-5p/SOX4 axis」に対する訂正（Corrigendum）である。対象論文は、牛初乳由来exosomesがmacrophagesにおいてmiR-30a-5p/SOX4軸を介して抗炎症応答を媒介することを示したもの。訂正内容の詳細は本文に記載がなく、著者・図表・数値等の修正情報は不明。したがって、研究知見自体の要約は元論文の範囲に限られ、訂正が結果や結論に与える影響は本記述からは判断できない。"
+      }
+    ],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の注目5トピック：（1）BMSC由来EVsのmiR-210-3pがACVR1B-SMAD3-PGC-1α軸を介しドキソルビシン心毒性を軽減。抗癌治療の心保護戦略として有望。（2）血小板由来エクソソームの認知・情動改善効果が投与時刻に依存。メタンフェタミン依存モデルで日内リズムの重要性を示す。（3）角膜上皮由来エクソソームが糖尿病角膜創傷治癒を促進。状態依存的機能の解明は難治性創傷治療に寄与。（4）Arc設計エクソソームの経鼻投与がmTOR-オートファジー経路を介しAD認知障害を改善。標的化ナノ治療の新機軸。（5）M1マクロファージ由来エクソソームがWTAP/S1PR2軸を介し糖尿病性腎症を増悪。新規治療標的として注目。全体としてEVs/エクソソームの疾患横断的応用と精密医療への展開が加速している。"
+}

@@ -1,0 +1,145 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Selinexor potentiates NK cell activation against multiple myeloma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42798230/",
+        "abstract": "Selinexor is a first in class selective inhibitor of nuclear export (SINE) targeting Exportin-1 (XPO1) and approved for the treatment of multiple myeloma (MM). Selinexor has previously been shown to enhance natural killer (NK) cell activation against lymphoma cells via disruption of the NKG2A: HLA-E immune checkpoint axis.",
+        "source": "PubMed",
+        "doi": "10.1093/cei/uxag059",
+        "keyword": "NK cell therapy",
+        "title_ja": "セリネキソールは多発性骨髄腫に対するNK細胞の活性化を増強する。",
+        "summary_ja": "セリネキソールは、Exportin-1（XPO1）を標的とする初の選択的核外輸送阻害薬（SINE）で、多発性骨髄腫（MM）治療薬として承認されている。これまでに、NKG2A:HLA-E免疫チェックポイント軸の破綻を介して、リンパ腫細胞に対するナチュラルキラー（NK）細胞の活性化を増強することが示されている。本論文は、セリネキソールがMMに対するNK細胞活性化を増強することを示したものである。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Engineered Allosteric Biosensor for In Situ DNA Glycosylase Detection in Neuroblastoma Risk Stratification and Drug Resistance Monitoring.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42801702/",
+        "abstract": "Accurate and in situ detection of uracil-DNA glycosylase (UDG) is crucial for clinical diagnosis and prognosis assessment. However, conventional methods show low accuracy, limited sensitivity, and off-target signal leakage due to flawed signal input/output and amplification mechanisms. Therefore, an engineered allosteric biosensor (UUU-DZ-tFNA) was developed, in which UDG specifically recognizes and activates a DNAzyme to achieve signal cycle amplification in a sequentially activatable mode. Experimental results demonstrated that UUU-DZ-tFNA enables rapid, highly sensitive (LOD = 0.025 mU/mL), and specific detection of UDG. In addition, UUU-DZ-tFNA enables in situ molecular imaging of UDG at both the neuroblastoma (NB) cellular and animal levels, as well as precise in situ detection of UDG in plasma exosomes from NB patients. In particular, the non-invasive risk stratification model for NB developed using machine learning based on exosomal UDG and clinical multidimensional indicators, including MYCN amplification status, International NB Risk Factors (IDRFs), neuron-specific enolase (NSE), and lactate dehydrogenase (LDH), showed excellent discriminatory ability, with 85.7% sensitivity, 100.0% specificity, and 92.8% accuracy. UUU-DZ-tFNA also enables image-guided surgical excision in vivo and effective monitoring of drug resistance in NB. In summary, UUU-DZ-tFNA enables in situ detection of UDG, facilitating risk stratification and drug resistance monitoring of NB.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.77924",
+        "keyword": "Exosomes",
+        "title_ja": "神経芽腫のリスク層別化および薬剤耐性モニタリングにおけるその場DNAグリコシラーゼ検出のための工学設計されたアロステリックバイオセンサー",
+        "summary_ja": "ウラシルDNAグリコシラーゼ（UDG）の正確なin situ検出は臨床診断・予後評価に重要だが、従来法は精度・感度が低く、シグナル漏出も課題だった。そこで、UDGがDNAzymeを特異的に認識・活性化し、段階的活性化モードでシグナル増幅を実現する人工アロステリックバイオセンサー（UUU-DZ-tFNA）を開発した。本センサーはUDGを迅速・高感度（LOD=0.025 mU/mL）・特異的に検出し、神経芽腫（NB）の細胞・動物レベルでのin situイメージングや、NB患者血漿エクソソーム中のUDG検出を可能にした。さらに、エクソソームUDGとMYCN増幅、IDRFs、NSE、LDHなどの臨床指標に基づく機械学習モデルは、感度85.7%、特異度100.0%、精度92.8%でNBリスク層別化を実現した。UUU-DZ-tFNAは画像誘導手術や薬剤耐性モニタリングにも有用である。"
+      },
+      {
+        "title": "Quercetin-loaded exosomes prevent endometrial fibrosis by downregulating EGFR.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42800387/",
+        "abstract": "Intrauterine adhesions (IUA) are a common gynecological disorder characterized by endometrial fibrosis, driven by inflammation and stromal cell-to-myofibroblast transdifferentiation. IUA present significant clinical challenges due to high recurrence rates and drug resistance. While surgical adhesiolysis combined with estrogen therapy is the first-line treatment, its efficacy is limited in severe cases and relapse is common. Traditional Chinese medicine (TCM) offers a promising alternative, though the specific active components and mechanisms remain undefined. Here, we identified quercetin as a potent anti-fibrotic agent using network pharmacology; however, its clinical application is hindered by poor water solubility and low bioavailability. To overcome these limitations, we developed a quercetin-loaded exosome delivery system (Que-Exo). Compared to free quercetin, Que-Exo exhibited significantly superior anti-fibrotic efficacy at equivalent concentrations. Mechanistic investigations revealed that this therapeutic effect is mediated by the downregulation of the epidermal growth factor receptor (EGFR), thereby inhibiting fibrosis progression. These findings delineate the molecular mechanism of quercetin in IUA treatment and present an effective strategy to overcome its pharmacokinetic barriers, underscoring the therapeutic potential of Que-Exo for preventing endometrial fibrosis.",
+        "source": "PubMed",
+        "doi": "10.1016/j.intimp.2026.117483",
+        "keyword": "Exosomes",
+        "title_ja": "ケルセチン搭載エクソソームはEGFRを下方制御することで子宮内膜線維症を予防する",
+        "summary_ja": "子宮内癒着（IUA）は子宮内膜線維化を特徴とする婦人科疾患で、再発率が高く治療抵抗性が問題となる。手術的癒着剥離とエストロゲン療法が第一選択だが重症例では効果が限定的である。本研究ではネットワーク薬理学によりケルセチンを抗線維化作用を持つ成分として同定したが、水溶性とバイオアベイラビリティの低さが課題であった。そこでケルセチン搭載エクソソーム送達システム（Que-Exo）を開発した。Que-Exoは同等濃度で遊離ケルセチンより優れた抗線維化効果を示し、その機序はEGFRのダウンレギュレーションを介した線維化抑制であった。Que-Exoは子宮内膜線維化予防の有望な治療戦略となる。"
+      },
+      {
+        "title": "Understanding the Potential of Antibody-Drug Conjugates Functionalized Engineered Exosomes in Hepatocellular Carcinoma Therapy: A Comprehensive Narrative Review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42799406/",
+        "abstract": "Exosomes are naturally secreted nanovesicles with high biocompatibility, low immunogenicity, and the ability to traverse biological barriers, making them attractive theragnostic carriers. When engineered to present tumor-specific antibodies and to deliver antibody-drug conjugates (ADCs), they may enhance selective targeting of hepatocellular carcinoma (HCC).",
+        "source": "PubMed",
+        "doi": "10.1002/hsr2.73289",
+        "keyword": "Exosomes",
+        "title_ja": "抗体薬物複合体で機能化した工学操作エクソソームの肝細胞癌治療における可能性の理解：包括的ナラティブレビュー",
+        "summary_ja": "エクソソームは生体適合性・低免疫原性が高く、生物学的障壁を通過できる天然のナノ小胞で、診断治療用キャリアとして有望である。腫瘍特異的抗体を提示し抗体薬物複合体（ADC）を送達するよう工学設計することで、肝細胞癌（HCC）への選択的標的化を高められる可能性がある。本レビューは、ADCを機能化した工学エクソソームのHCC治療における可能性を包括的に論じる。"
+      },
+      {
+        "title": "CRISPR-Cas9 in Cancer Therapy: Overcoming Delivery Barriers and Off-Target Effects for Clinical Translation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42798792/",
+        "abstract": "CRISPR-Cas9 gene editing has transformed molecular biology and has great potential as a therapeutic tool for cancer and many other human diseases. This perspective review elaborates on the recent advances in CRISPR-Cas9 technology and its application as an innovative cancer treatment. Additionally, this perspective outlines the current barriers to clinical translation, including ",
+        "source": "PubMed",
+        "doi": "10.1002/hsr2.73308",
+        "keyword": "Exosomes",
+        "title_ja": "がん治療におけるCRISPR-Cas9：臨床応用に向けた送達障壁とオフターゲット効果の克服",
+        "summary_ja": "CRISPR-Cas9は分子生物学を変革し、癌治療への応用が期待される。本レビューは最新の技術進歩と癌治療応用を概説し、臨床応用への障壁としてデリバリー効率の低さやオフターゲット効果を指摘。これらを克服するための課題を論じている。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Bone-Targeted Engineered Exosomes Delivering Betaine Alleviate Osteoporosis via Autophagy-Driven Osteogenesis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42800918/",
+        "abstract": "Dysregulated bone remodeling, attenuated endogenous osteogenic capacity, and the lack of bone-targeting capability in therapeutics constitute the core challenges in current clinical interventions for osteoporosis. In this study, a hybrid nanodelivery system integrating betaine-loaded metal-organic frameworks with engineered exosomes (BZ@Exos) is constructed to restore bone metabolic homeostasis and improve bone microstructure. The engineered exosomes co-overexpressing CXCR4 and CD47 proteins on the surface exhibit high bone tissue targeting efficiency and evade clearance by the mononuclear phagocyte system, while ZIF-8 enables stable encapsulation of betaine. Internalized betaine promotes nuclear translocation of TFEB via targeted binding to the 14-3-3 protein, enhances autophagic flux in senescent bone marrow mesenchymal stem cells (BMSCs), and thereby facilitates their osteogenic differentiation. In parallel, BZ@Exos significantly inhibits osteoclast-mediated bone resorption and restores bone metabolic homeostasis. In vivo assays demonstrate that intravenously administered BZ@Exos successfully reverses bone loss and alleviates senescence-related phenotypes in ovariectomized rat models of osteoporosis. This novel therapeutic system with integrated functions of bone homeostasis remodeling, regenerative potential restoration, and precise targeting provides a new perspective for osteoporosis treatment.",
+        "source": "PubMed",
+        "doi": "10.1002/adma.75185",
+        "keyword": "Exosomes",
+        "title_ja": "骨標的化改変エクソソームによるベタイン送達はオートファジー駆動型骨形成を介して骨粗鬆症を軽減する",
+        "summary_ja": "骨粗鬆症治療の課題は、骨リモデリング異常、内因性骨形成能の低下、骨標的性の欠如である。本研究では、ベタインを封入した金属有機骨格（ZIF-8）と工学加工エクソソームを統合したハイブリッドナノ送達系（BZ@Exos）を構築した。ExosはCXCR4とCD47を共発現し、骨組織標的性と単核食細胞系回避能を示す。取り込まれたベタインは14-3-3タンパク質への結合を介してTFEBの核内移行を促進し、老化BMSCsのオートファジーフラックスを亢進させ、骨芽細胞分化を促す。同時に破骨細胞性骨吸収を抑制し、骨代謝恒常性を回復する。卵巣摘出ラットモデルで静脈内投与により骨量減少と老化表現型を改善した。本システムは骨恒常性再構築、再生能回復、精密標的化を統合し、新たな治療戦略を提示する。"
+      },
+      {
+        "title": "[Blood biomarkers of mild traumatic brain injury in 2026].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42800508/",
+        "abstract": "Mild traumatic brain injury is a common reason for presentation to emergency departments, where management relies heavily on cerebral computed tomography (CT-scan), a radiological examination that is both radiation-emitting and overused. The measurement of blood biomarkers of cerebral origin provides a complementary tool to reduce this reliance. This systematic review provides a comprehensive analysis of the literature on protein S100B and the combination of glial fibrillary acidic protein and carboxy-terminal ubiquitin hydrolase L1, covering everything from their biochemistry to their pre-analytical, analytical and diagnostic performance. S100B, a long-established biomarker, has been described in recent reviews as offering excellent negative predictive value but requiring early sampling (< 3 hours) and lacking specificity, particularly in older patients. The combination of glial fibrillary acidic protein and carboxy-terminal ubiquitin hydrolase L1, with a wider diagnostic window (< 12 hours), was the subject of recent meta-analyses attributing performance similar to that of S100B. In children, specific reference values for the three biomarkers have recently been established; however, their diagnostic use has not yet been validated. New biomarkers (neurofilamant light, interleukin 6 and exosomes)and a personalized medicine approach offer promising prospects for refining their role in decision-making algorithms.",
+        "source": "PubMed",
+        "doi": "10.1016/j.pharma.2026.09.005",
+        "keyword": "Exosomes",
+        "title_ja": "[2026年における軽度外傷性脳損傷の血液バイオマーカー]",
+        "summary_ja": "軽度外傷性脳損傷は救急外来受診の常見原因で、管理は放射線被曝と過剰使用が問題な脳CTに依存している。血液バイオマーカー測定はその依存を減らす補完的手段となる。本系統的レビューはS100Bと、glial fibrillary acidic proteinおよびcarboxy-terminal ubiquitin hydrolase L1の組み合わせについて、生化学から分析・診断性能まで包括的に解析した。S100Bは優れた陰性的中率を示すが、3時間以内の早期採取が必要で、高齢者では特異性が低い。GFAPとUCH-L1の組み合わせは12時間以内と診断窓が広く、S100Bと同様の性能が報告されている。小児では基準値が確立されたが診断使用は未検証である。neurofilament light、interleukin 6、exosomesなど新規バイオマーカーと個別化医療が今後の意思決定アルゴリズム精"
+      },
+      {
+        "title": "Chikungunya virus uses the tetraspanins CD63, CD9, and CD151 to replicate in human synovial fibroblasts.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42800031/",
+        "abstract": "The arthritogenic alphavirus chikungunya virus (CHIKV) causes debilitating long-lasting joint pain. Host factors used by CHIKV to infect joint cells are largely unknown. Here, we evaluated the role of the 19 tetraspanins expressed in primary human synovial fibroblasts in virus infection. The exosome-associated tetraspanins CD63, CD9, and CD151 supported CHIKV infection of joint fibroblasts. Silencing of CD63 and CD151 reduced subgenomic replicon activity. CD9 localized in close proximity to replication sites and its silencing reduced intracellular CHIKV genome accumulation. Silencing of all three tetraspanins reduced progeny virus production. While these tetraspanins were dispensable for CHIKV entry into joint fibroblasts, the receptor MXRA8 promoted cell entry. Our findings demonstrate that CHIKV exploits tetraspanins as host factors in synovial fibroblasts, shedding light on molecular mechanisms underlying CHIKV pathogenesis in joint tissues.",
+        "source": "PubMed",
+        "doi": "10.1016/j.celrep.2026.118058",
+        "keyword": "Exosomes",
+        "title_ja": "チクングニアウイルスは、ヒト滑膜線維芽細胞での複製にテトラスパニンCD63、CD9、およびCD151を利用する。",
+        "summary_ja": "関節炎性アルファウイルスであるチクングニアウイルス（CHIKV）は、長期的な関節痛を引き起こす。関節細胞への感染に用いられる宿主因子はほとんど不明である。本研究では、初代ヒト滑膜線維芽細胞に発現する19種のテトラスパニンについて感染における役割を評価した。エクソソーム関連テトラスパニンであるCD63、CD9、CD151がCHIKV感染を支持した。CD63およびCD151のノックダウンはサブゲノムレプリコン活性を低下させた。CD9は複製部位の近傍に局在し、そのノックダウンは細胞内CHIKVゲノム蓄積を減少させた。3種すべてのノックダウンは子孫ウイルス産生を低下させた。これらテトラスパニンは関節線維芽細胞へのCHIKV侵入には不要であったが、受容体MXRA8が細胞侵入を促進した。CHIKVが滑膜線維芽細胞において宿主因子としてテトラスパニンを利用することが示され、関節組織におけるCHIKV病原"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Small extracellular vesicles from the plasma of head and neck cancer patients induce dysfunctional T cell phenotypes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42800812/",
+        "abstract": "Head and neck cancer (HNC) is highly immunosuppressive. Despite advances with immune checkpoint (IC) inhibitors, many HNC patients fail to respond. Tumour-derived small extracellular vesicles (sEVs) may contribute to immune evasion and therapy resistance, possibly by altering T-cell phenotypes.",
+        "source": "PubMed",
+        "doi": "10.1038/s41416-026-03606-8",
+        "keyword": "sEVs",
+        "title_ja": "頭頸部がん患者の血漿由来の小型細胞外小胞は、機能不全のT細胞表現型を誘導する。",
+        "summary_ja": "頭頸部癌（HNC）は免疫抑制性が高く、免疫チェックポイント（IC）阻害薬に奏効しない例が多い。腫瘍由来のsmall extracellular vesicles（sEVs）がT細胞表現型を変化させ、免疫回避や治療抵抗性に関与する可能性がある。本研究はHNC患者血漿由来sEVsが機能不全T細胞表現型を誘導することを示した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **セリネキソールによるNK細胞活性化**：XPO1阻害薬がNKG2A:HLA-E軸を破綻させ、多発性骨髄腫に対するNK細胞療法の併用効果を高める可能性。既存薬の免疫療法への転用として注目。\n\n2. **クエルセチン搭載エクソソーム**：子宮内膜線維化に対しEGFR下方制御を介して抗線維化作用。天然化合物とエクソソーム送達の融合で、難治性IUAの新治療戦略となり得る。\n\n3. **ADC機能化エンジニアードエクソソーム**：肝細胞癌への選択的送達を高める次世代ナノキャリア。生体適合性と標的性を両立し、ADC療法の課題克服が期待される。\n\n4. **骨標的エクソソームによる骨粗鬆症治療**：ベタイン封入ZIF-8と工学エクソソームのハイブリッドが、オートファジー誘導性骨形成を促進。骨標的性と内因性骨形成能を同時改善する新機軸。\n\n5. **頭頸部癌sEVによるT細胞機能不全**：腫瘍由来sEVが免疫抑制性T細胞表現型を誘導し、免疫チェックポイント阻害薬抵抗性に関与。バイオマーカーや治療標的としての意義が大きい。\n\n以上、エクソソーム/EV工学と免疫療法の融合が本日の中心テーマです。"
+}

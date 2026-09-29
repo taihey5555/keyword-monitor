@@ -1,0 +1,167 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "FGFR1/KLB-MFG-E8 Maintains Microvascular Integrity and Adaptive Cardiac Remodeling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42808145/",
+        "abstract": "Endothelial defects in the heart are a contributor to cardiac pathological remodeling and dysfunction, which can be influenced by cardiomyocytes. Here, we explore cardioprotective crosstalk between cardiomyocytes and endothelial cells under diabetic conditions.",
+        "source": "PubMed",
+        "doi": "10.1161/CIRCRESAHA.125.327950",
+        "keyword": "Klotho",
+        "title_ja": "FGFR1/KLB-MFG-E8は微小血管の完全性と適応的心臓リモデリングを維持する。",
+        "summary_ja": "糖尿病条件下での心筋細胞と内皮細胞の保護的クロストークを検討。心臓の内皮障害は病的リモデリングと機能不全に関与し、心筋細胞の影響を受ける。FGFR1/KLB-MFG-E8経路が微小血管の完全性を維持し、適応的心臓リモデリングに寄与することが示された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Autologous cytokine-induced NK cells as candidate cellular senolytics: evidence, obstacles, and the experiments still needed.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42809069/",
+        "abstract": "Cellular senescence and chronic low-grade inflammation occupy a central, mechanistically coupled position among the hallmarks of aging. Natural killer (NK) cells decline in per-cell cytotoxicity with age, and lower NK cell cytotoxicity has been associated with higher cancer incidence and infection-related mortality in older adults. NK cells are also endogenous effectors of senescent-cell clearance, engaging stress-induced NKG2D and DNAM-1 ligands and depending on perforin-mediated cytolysis. These literatures meet at a hypothesis: that autologous cytokine-induced NK cells, manufactured from a patient's own peripheral blood mononuclear cells (PBMCs), might be developed as candidate cellular senolytics. Cytokine-induced killer (CIK) and cytokine-induced memory-like (CIML) manufacturing platforms are mature, with registry safety data across more than 2700 predominantly oncology patients and a first autologous NK cell trial in a non-cancer, aging-related indication (Alzheimer's disease). Yet no trial has tested such a product against a senescent-cell-burden or biological-age endpoint. This review maps the evidence across NK cell aging, NK cell-mediated senolysis, and autologous NK cell clinical experience; separates what is established in humans from what remains preclinical or hypothetical; and confronts three obstacles: the HLA-E/NKG2A evasion axis, the heterogeneity of senescent-cell surface phenotypes across tissue and inducing stimulus, and the physiological roles of senescent cells in wound healing, tissue remodeling, development, and tumor suppression that make indiscriminate clearance non-trivial. We conclude that the rationale is defensible but not yet trial-ready, and specify the precursor experiments (autologous NK cell cytotoxicity against autologous senescent cells from older donors, and a preclinical infusion model) that should gate any first-in-human program.",
+        "source": "PubMed",
+        "doi": "10.1007/s11357-026-02554-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "自己サイトカイン誘導NK細胞は細胞老化治療薬（セノリティクス）の候補として有望か：エビデンス、障壁、そして依然として必要な実験",
+        "summary_ja": "細胞老化と慢性炎症は老化の中心的特徴である。NK細胞は加齢で細胞傷害性が低下し、高齢者の癌罹患や感染死と関連する。NK細胞はNKG2DやDNAM-1を介し、パーフォリン依存性に老化細胞を除去する内因性エフェクターでもある。これらから、自己末梢血単核球由来のサイトカイン誘導NK細胞を細胞性セノリティクス候補とする仮説が成立する。CIKやCIMLの製造基盤は成熟し、2700例超の安全性データやアルツハイマー病での自己NK細胞試験もあるが、老化細胞負荷や生物学的年齢を評価した試験はない。本レビューはNK細胞老化、NK細胞性セノリシス、自己NK細胞臨床経験の証拠を整理し、HLA-E/NKG2A回避軸、老化細胞表面表現型の不均一性、創傷治癒等での生理的役割という三つの障害を指摘する。結論として、根拠は妥当だが試験実施可能な段階ではなく、自己老化細胞への傷害性評価と前臨床 infusion モデルを実"
+      },
+      {
+        "title": "Opioids and immunosuppression in patients with cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42809045/",
+        "abstract": "Opioids remain the cornerstone of cancer pain management, yet a substantial preclinical literature suggests that opioids, particularly morphine, are immunosuppressive, raising concern about tumour surveillance, infection risk, and interference with immune checkpoint inhibitors (ICIs). This critical narrative review evaluates whether this preclinical signal is supported by clinical evidence sufficient to justify a change in practice. We show that the mechanistic case, mu-opioid receptor-mediated suppression of NK cell and CD8 + T-cell function, cytokine dysregulation, and central sympathoadrenal effects, is coherent and reproducible in vitro and in animal models. Clinical evidence, however, is limited to retrospective cohorts affected by confounding by indication: patients requiring opioids have more advanced disease, worse performance status, and greater systemic inflammation, all of which independently predict worse outcomes. We further highlight a largely neglected counter-argument: uncontrolled cancer pain is itself a potent immunosuppressant via HPA-axis and sympathoadrenal activation, and independently predicts shorter survival, so that inferior outcomes in opioid users may reflect the disease burden that necessitated opioid therapy rather than a pharmacological effect of the drug itself. We conclude that current evidence does not justify withholding or limiting opioid analgesia in cancer patients, including those receiving ICIs, and that prospective studies with pain-matched comparators are needed before any change in clinical practice can be recommended.",
+        "source": "PubMed",
+        "doi": "10.1007/s00520-026-11279-5",
+        "keyword": "NK cell therapy",
+        "title_ja": "がん患者におけるオピオイドと免疫抑制",
+        "summary_ja": "オピオイドは癌疼痛管理の基盤だが、前臨床研究ではモルヒネ等が免疫抑制的に働き、腫瘍監視や感染リスク、免疫チェックポイント阻害薬（ICI）への干渉が懸念されている。本レビューはこの前臨床的知見が臨床実践変更を正当化するか検討した。μオピオイド受容体を介したNK細胞・CD8+T細胞機能抑制、サイトカイン異常、中枢交感神経副腎作用という機序はin vitro・動物モデルで再現性がある。しかし臨床エビデンスは適応による交絡を受けた後ろ向きコホートに限られ、オピオイド必要患者は進行癌・不良なperformance status・全身炎症を有し、これらが独立して予後不良を予測する。さらに未制御の癌疼痛自体がHPA軸・交感神経副腎活性化を介して強力な免疫抑制と短命を予測するという反論がある。結論として、ICI投与患者を含め癌患者のオピオイド鎮痛を制限・中止する根拠はなく、疼痛マッチ対照による前向き研究が"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Targeting the Epigenetic-Immune Axis in Acute Myeloid Leukemia: Current Advances and Future Directions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42809184/",
+        "abstract": "Acute myeloid leukemia (AML) exemplifies how malignant transformation can be driven by both epigenetic deregulation and genetic mutation. Aberrant DNA methylation, histone modifications, and chromatin remodelling cooperate to block myeloid differentiation, sustain leukemic self-renewal, and promote immune evasion. This review examines the molecular mechanisms underlying epigenetic dysregulation in AML and highlights recent advances in epigenetic and immune-based therapeutic strategies.",
+        "source": "PubMed",
+        "doi": "10.1007/s11912-026-01831-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "急性骨髄性白血病におけるエピジェネティック-免疫軸の標的化：現在の進歩と今後の方向性",
+        "summary_ja": "急性骨髄性白血病（AML）は、エピジェネティックな調節異常と遺伝子変異の両方によって悪性化が駆動される典型例である。異常なDNAメチル化、ヒストン修飾、クロマチンリモデリングが協調して、骨髄系分化の阻害、白血病性自己複製の維持、免疫回避の促進を引き起こす。本レビューでは、AMLにおけるエピジェネティック調節異常の分子機構を検討し、エピジェネティックおよび免疫ベースの治療戦略における最近の進歩を概説する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Current Status of Animal Models for Premature Ovarian Insufficiency: Similarities to Clinical Manifestations and Therapeutic Applications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42809064/",
+        "abstract": "Premature ovarian insufficiency (POI) is a reproductive disorder characterized by the early loss of ovarian function before the age of 40, resulting in infertility and increasing the long-term risk of health issues such as osteoporosis, cardiovascular disease, and neuropsychological disorders. Although many studies have been conducted to understand POI pathophysiology and to develop regenerative therapies, the effectiveness of these therapies in restoring ovarian function remains limited. This review provides a comprehensive evaluation of the establishment of animal models of POI and assesses their similarity to clinical manifestations and therapeutic outcomes observed in human patients.",
+        "source": "PubMed",
+        "doi": "10.1007/s13770-026-00834-0",
+        "keyword": "Exosomes",
+        "title_ja": "早発卵巣不全に対する動物モデルの現状：臨床症状との類似性と治療応用",
+        "summary_ja": "早発卵巣不全（POI）は40歳未満で卵巣機能が早期に喪失する生殖障害で、不妊や骨粗鬆症、心血管疾患、神経心理障害の長期リスク増加を招く。POIの病態解明や再生医療の研究が進むが、卵巣機能回復の治療効果は限定的である。本レビューはPOI動物モデルの作製を包括的に評価し、ヒト患者の臨床症状や治療成績との類似性を検討する。"
+      },
+      {
+        "title": "Immunomodulatory Properties of Mesenchymal Stem Cells and Their Extracellular Vesicles: Potential Clinical Applications in Autoimmune Diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42808120/",
+        "abstract": "Mesenchymal stem cells (MSCs)/mesenchymal stromal cells and their extracellular vesicles (EVs), particularly exosomes, have emerged as therapeutic candidates in regenerative medicine due to their multipotency, low immunogenicity, and extensive immunomodulatory properties. This narrative review provides a narrative synthesis of MSC- and MSC-EV-mediated immunomodulation and its translational potential across four major autoimmune diseases: multiple sclerosis (MS), type 1 diabetes mellitus (T1D), systemic lupus erythematosus (SLE), and rheumatoid arthritis (RA). Mechanistically, MSCs regulate both innate and adaptive immune cell populations, modulate pro- and anti-inflammatory cytokine secretion, downregulate pro-inflammatory Th1/Th17 responses, and promote regulatory phenotypes, including regulatory T cells, regulatory B cells, and M2-polarized macrophages. Preclinical and clinical investigations suggest therapeutic potential across these diseases; however, much of the clinical evidence derives from small, early-phase, and frequently uncontrolled studies with limited follow-up, and safety outcomes vary according to MSC source, manufacturing process, dose, route of administration, and clinical indication. In these studies, the absence of serious adverse events does not constitute definitive evidence of long-term safety. Clinical studies have reported reductions in disease activity scores and inflammatory biomarkers, as well as improvements in disease-specific functional outcomes; however, these findings should be regarded as preliminary evidence of therapeutic potential rather than established efficacy across autoimmune diseases. Nonetheless, clinical translation remains hindered by manufacturing heterogeneity, variability in dosing, routes of administration, and treatment protocols, as well as challenges related to allogeneic immunogenicity and MSC-EV standardization. Overcoming these barriers will require standardized manufacturing and characterization protocols, alongside further investigation into the integration of MSC- and MSC-EV-based therapies within multimodal, personalized, and patient-tailored treatment frameworks.",
+        "source": "PubMed",
+        "doi": "10.7759/cureus.117095",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞およびその細胞外小胞の免疫調節特性：自己免疫疾患における臨床応用の可能性",
+        "summary_ja": "間葉系幹細胞（MSCs）とその細胞外小胞（EVs）、特にエクソソームは、多分化能・低免疫原性・免疫調節作用から再生医療の治療候補として注目される。本レビューは、多発性硬化症、1型糖尿病、全身性エリテマトーデス、関節リウマチの4疾患におけるMSC/MSC-EVの免疫調節と臨床応用可能性を概説する。MSCは自然免疫・獲得免疫を制御し、炎症性サイトカインを調節、Th1/Th17応答を抑制し、制御性T細胞・B細胞やM2マクロファージを誘導する。前臨床・臨床研究は治療可能性を示すが、多くは小規模・早期・非対照で追跡期間も短く、安全性はMSCの由来、製造法、用量、投与経路、適応により異なる。有効性は確立されておらず予備的証拠に留まる。実用化には製造標準化、投与法・プロトコル統一、同種免疫原性やMSC-EV標準化の課題解決と、個別化医療への統合が求められる。"
+      },
+      {
+        "title": "Extracellular vesicles as biomarkers and therapeutic nanocarriers in cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42806515/",
+        "abstract": "Extracellular vesicles (EVs), including exosomes, microvesicles, and apoptotic bodies, are lipid bilayer-bound nanoparticles secreted by various cell types. EVs mediate intercellular communication by selectively transporting bioactive molecules including proteins, lipids, and nucleic acids. This review comprehensively analyzes EVs biogenesis, classification, and cargo diversity, emphasizing their multifaceted roles in physiological processes and cancer. EVs exhibit intrinsic dual regulatory roles in tumor biology. On the one hand, they promote malignant tumor progression by delivering pro-tumorigenic cargoes and mediating immunosuppressive responses; on the other hand, they can induce anti-tumor immune responses through antigen presentation and immune activation. Beyond these endogenous functions, EVs serve as reliable liquid biopsy biomarkers and versatile therapeutic nanocarriers. Furthermore, engineered EVs enable precise drug delivery in immunotherapy and targeted therapy approaches. Despite their promising clinical potential, major challenges, including the lack of standardized isolation methods and concerns regarding the safety of engineered modifications, remain to be addressed. Future studies should focus on elucidating subtype-specific mechanisms, optimizing therapeutic strategies, and validating clinical efficacy in large-scale trials. EVs represent a promising platform bridging basic research and clinical applications, ushering in a new paradigm of precision medicine for cancer diagnosis and treatment.",
+        "source": "PubMed",
+        "doi": "10.1097/CM9.0000000000004357",
+        "keyword": "Exosomes",
+        "title_ja": "細胞外小胞のがんにおけるバイオマーカーおよび治療用ナノキャリアとしての可能性",
+        "summary_ja": "細胞外小胞（EVs）はエクソソーム、マイクロベシクル、アポトーシス小体を含む脂質二重膜ナノ粒子で、タンパク質・脂質・核酸を選択的に輸送し細胞間通信を媒介する。本レビューはEVsの生合成、分類、カーゴ多様性を解析し、癌における二面的役割を示す。EVsは腫瘍促進カーゴの送達や免疫抑制を介し悪性進行を促進する一方、抗原提示と免疫活性化により抗腫瘍免疫を誘導する。さらにリキッドバイオプシーバイオマーカーや治療用ナノキャリアとして機能し、工学修飾EVsは免疫療法・標的治療で精密薬物送達を可能にする。課題として標準化された単離法の欠如や工学修飾の安全性懸念が残る。今後の研究はサブタイプ特異的機序の解明、治療戦略の最適化、大規模試験での臨床的有効性検証に焦点を当てるべきである。EVsは基礎研究と臨床応用を橋渡しする精密医療の新たなパラダイムを切り開く。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "The Inhibitory Effect of Manumycin A on Extracellular Vesicles: What Do We Know So Far?",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42808181/",
+        "abstract": "Manumycin A (MA) is a natural antibiotic produced by Streptomyces parvulus, originally reported as a selective Ras farnesyltransferase inhibitor. Over the years, it has been established as a valuable agent in the studies of the molecular biology of cancer. Recent interest in the use of MA as an inhibitor of extracellular vesicles (EV) shows new perspectives for this small molecule in view of the urgent need for effective molecular tools for this application. This review summarizes the current knowledge on Manumycin A, with a particular focus on its potential utility in EV-related biomedical studies. The inhibitory mechanism and possible application limitations are discussed, and current results of studies involving MA have been presented. Conclusions include remarks that the actual cellular response can vary depending on cell type and dose, and due to the risk of cytotoxic effects, MA requires a cautious approach. Although available data indicate that Manumycin A may be considered to be used as an inhibitor of extracellular vesicles, the exact mechanism of action still requires further comprehensive investigation. Therefore, it would be desirable for any study that uses Manumycin A as an inhibitor to also include a thorough characterization of the effect of the dose on cells and extracellular vesicles using various research techniques.",
+        "source": "PubMed",
+        "doi": "10.1111/boc.70081",
+        "keyword": "Exosomes",
+        "title_ja": "マヌマイシンAによる細胞外小胞の阻害効果：これまでに何がわかっているのか？",
+        "summary_ja": "Manumycin A（MA）はStreptomyces parvulus産生の天然抗生物質で、当初は選択的Ras farnesyltransferase阻害剤として報告された。近年、細胞外小胞（EV）阻害剤としての新たな可能性が注目されている。本レビューはMAの現状の知見をまとめ、EV研究への応用可能性、阻害機構、限界を論じる。細胞応答は細胞種や用量で異なり、細胞毒性のリスクがあるため慎重な使用が必要である。MAはEV阻害剤として有望視されるが、正確な作用機構は未解明であり、今後の包括的な検討が望まれる。"
+      },
+      {
+        "title": "Corrigendum to 'Aptamer engineering exosomes loaded on biomimetic periosteum to promote angiogenesis and bone regeneration by targeting injured nerves via JNK3 MAPK pathway' [Mater. Today Bio 16 (2022) 100434].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42807142/",
+        "abstract": "[This corrects the article DOI: 10.1016/j.mtbio.2022.100434.].",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103586",
+        "keyword": "Exosomes",
+        "title_ja": "「アプタマー工学によるエクソソームを生体模倣骨膜に搭載し、JNK3 MAPK経路を介して損傷神経を標的とすることで血管新生と骨再生を促進する」に対する訂正 [Mater. Today Bio 16 (2022) 100434]。",
+        "summary_ja": "本稿は、論文「Aptamer engineering exosomes loaded on biomimetic periosteum to promote angiogenesis and bone regeneration by targeting injured nerves via JNK3 MAPK pathway」に対する訂正記事である。元論文のDOIは10.1016/j.mtbio.2022.100434であり、本訂正はその内容を修正するものである。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Conserved and Tissue-Specific RNA and Protein Cargos of Small Extracellular Vesicles From 120 Tissue Sites Across 34 Organs in a Single Pig.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42809082/",
+        "abstract": "Small extracellular vesicles (sEVs) carry diverse cargo essential for intercellular communication, but their organism-wide characterization across all tissues is still limited. Here, we present a multi-omics sEV atlas covering the whole-body of 120 tissue sites, four body fluids and nine gastrointestinal contents from the same pig. We identified 7995 proteins, 337 miRNAs as well as 105,409 transcripts (93,409 full-length) in sEVs by mass spectrometry, next- and third-generation RNA sequencing. Among these, a conserved cargo set of 252 proteins, 18 miRNAs and 1227 transcripts was defined, including RNA-binding proteins (ANXA2, ALIX and MVP), mitochondrial proteins (ATP5F1A, COX6C and VDACs), the let-7 miRNA family and ferritin genes (FTH1/FTL). Notably, sEV biogenesis-associated ACTG1, CFL1 and ANXA2 were detected in all samples, suggesting their potential as novel sEV protein markers. In contrast, 2638 proteins, 152 miRNAs and 1000 transcripts showed organ-specific expression patterns, which are likely to underpin organ-specific biological processes. Moreover, by using this multi-omic dataset and additional RIP assays, we found that HNRNPU participates in the sorting of hypoxia-responsive EPAS1 into sEVs. This comprehensive sEV atlas establishes a foundation for future studies in sEV cell biology.",
+        "source": "PubMed",
+        "doi": "10.1002/jev2.70374",
+        "keyword": "sEVs",
+        "title_ja": "単一のブタにおける34臓器・120組織部位由来の小型細胞外小胞に含まれる保存されたおよび組織特異的なRNAおよびタンパク質カーゴ",
+        "summary_ja": "単一のブタの120組織部位・4体液・9胃腸内容物からsEVを回収し、マススペクトロメトリーと次世代・第三世代RNAシーケンスで解析した。7995タンパク質、337 miRNA、105,409転写産物（うち93,409全長）を同定。252タンパク質、18 miRNA、1227転写産物からなる保存的カーゴ（ANXA2、ALIX、MVP、ATP5F1A、COX6C、VDACs、let-7ファミリー、FTH1/FTLなど）を定義した。ACTG1、CFL1、ANXA2は全サンプルで検出され、新規sEVマーカー候補となる。一方、2638タンパク質、152 miRNA、1000転写産物は臓器特異的発現を示した。RIPアッセイによりHNRNPUが低酸素応答性EPAS1のsEV選別に関与することも判明。本アトラスはsEV細胞生物学の基盤を提供する。"
+      },
+      {
+        "title": "Molecular and Proteomic Profiling of Human Cerebral Organoid‑Derived Small Extracellular Vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42806650/",
+        "abstract": "Organoids are self-organized, in vitro 3D structures derived from progenitor or pluripotent stem cells. During culture, these tissues secrete small extracellular vesicles (sEVs)-functional bioactive molecules-into their microenvironment. Here, we differentiated iPSC-derived cerebral organoids (COs) under three culture conditions (static, orbital shaker, and a novel dynamic Organoid-on-a-Chip platform) over 30 days of maturation to determine how culture dynamics shape organoid development and EV profiles. Transcriptomic analysis revealed strong, culture condition-specific modulation of gene expression, while EV proteomics showed similar profiles across conditions at early maturation stages but marked divergence at later stages, reflecting differences in cellular maintenance, stress response, and tissue-specific maturation pathways. Additionally, sEVs from all conditions reduced U87 glioblastoma cell viability and migration, with the strongest effect observed for sEVs derived from the orbital shaker condition. These findings demonstrate that organoid culture microenvironment substantially influences both developmental trajectory and the bioactivity of secreted EVs.",
+        "source": "PubMed",
+        "doi": "10.1002/dneu.70062",
+        "keyword": "sEVs",
+        "title_ja": "ヒト大脳オルガノイド由来小型細胞外小胞の分子およびプロテオミクスプロファイリング",
+        "summary_ja": "本論文は、iPSC由来の大脳オルガノイド（CO）を静的・軌道シェーカー・新規Organoid-on-a-Chipの3条件下で30日間成熟させ、培養動態がオルガノイド発達とsmall extracellular vesicles（sEVs）のプロファイルに与える影響を解析した。Transcriptomic解析では培養条件特異的な遺伝子発現調節が示され、EVプロテオミクスでは成熟初期は類似するが後期に顕著な差異が生じ、細胞維持・ストレス応答・組織成熟経路の違いを反映した。全条件のsEVsはU87 glioblastoma細胞の生存率と遊走を低下させ、軌道シェーカー由来sEVsで最も強い効果が観察された。以上より、オルガノイド培養微小環境が発達軌跡と分泌EVの生物活性を大きく左右することが示された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **自己NK細胞による老化細胞除去（senolytics）**：NK細胞はNKG2D/DNAM-1を介し老化細胞を除去するが、加齢で機能低下。自己サイトカイン誘導NK細胞は新たな老化治療候補だが、実証実験が今後の課題。\n\n2. **MSC由来エクソソームの自己免疫疾患応用**：MSCとそのEVは低免疫原性・免疫調節作用を持ち、多発性硬化症や1型糖尿病等で治療候補。細胞療法を超える新規治療基盤として期待。\n\n3. **癌におけるEVの二面性**：EVはバイオマーカーと治療ナノキャリアの両面を持つ。Manumycin A等のEV阻害剤の可能性も示され、癌診断・治療の新展開が期待される。\n\n4. **ブタ120組織のsEV大規模プロテオーム/RNA解析**：7995タンパク質・337 miRNAを同定し、組織特異的カーゴを解明。sEVバイオマーカー開発の基盤となる貴重な資源。\n\n5. **FGFR1/KLB-MFG-E8経路による心保護**：糖尿病下で微小血管完全性を維持し適応的心リモデリングに寄与。心不全治療の新標的として注目される。"
+}

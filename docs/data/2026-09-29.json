@@ -1,0 +1,133 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Combination of kale-derived exosomes and dactolisib promotes apoptosis and modulates iron homeostasis in Hep3B hepatocellular carcinoma cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42803984/",
+        "abstract": "Hepatocellular carcinoma (HCC) is a leading cause of cancer-related mortality worldwide, and available treatments remain limited. Plant-derived exosome-like nanoparticles (PELNs) are promising natural nanocarriers due to their low toxicity and ability to cross biological barriers. Brassica oleracea (kale) contains bioactive compounds, including glucosinolates and sulforaphane, with known antiproliferative, pro-apoptotic, and antioxidant properties.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12828-1",
+        "keyword": "Exosomes",
+        "title_ja": "ケール由来エクソソームとダクトリシブの併用はHep3B肝細胞癌細胞においてアポトーシスを促進し、鉄恒常性を調節する",
+        "summary_ja": "ケール由来エクソソーム様ナノ粒子（PELNs）とダクトリシブの併用が、Hep3B肝細胞癌細胞においてアポトーシスを促進し、鉄恒常性を調節することが示された。肝細胞癌（HCC）は世界的に癌死の主要因だが治療法は限られる。植物由来PELNsは低毒性で生体障壁を通過できる有望な天然ナノキャリアである。ケール（Brassica oleracea）はグルコシノレートやスルフォラファンなどの生理活性化合物を含み、抗増殖・アポトーシス誘導・抗酸化作用が知られている。"
+      },
+      {
+        "title": "Targeting LDHA Palmitoylation Sensitizes GBM to Chemoradiotherapy via Suppressing Palmitic Acid Induced Glycolytic Reprogramming.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42803511/",
+        "abstract": "Glioblastoma (GBM) is a lethal malignancy characterized by therapeutic resistance and recurrence, which are driven by dynamic cellular metabolic adaptation within the tumor microenvironment. However, the precise molecular metabolic mechanisms remain poorly understood. Here, we found that palmitic acid (PA) accumulates in hypoxic pseudopalisading regions of GBM and drives the formation of mesenchymal (MES) GBM and the hypoxia myeloid-derived macrophages (MDM) subpopulation, establishing an interactive tumor-promoting niche that fuels GBM recurrence. Maechanistically, PA induces ZDHHC12-mediated palmitoylation of lactate dehydrogenase A (LDHA) at cysteine 163. This enhances LDHA enzymatic activity, promoting glycolytic reprogramming that reinforces the MES phenotype and confers resistance to chemoradiotherapy. Concurrently, palmitoylation facilitates the exosomal sorting of LDHA, which is internalized by MDMs, inducing their polarization into an immunosuppressive, glycolytic hypoxia-MDM subset, which cooperatively shapes an immunosuppressive pseudopalisading niche with MES glioma stem cells to promote GBM recurrence. Critically, we identified the small molecule Rutin as a potent inhibitor of LDHA-Cys163 palmitoylation, thereby re-sensitizing GBM to chemoradiotherapy. This study defines a metabolic circuit in recurrent GBM driven by crosstalk between PA-activated MES-GBM cells and hypoxia-MDMs. The small molecule Rutin disrupts this circuit, re-sensitizing GBM to chemoradiotherapy and offering a promising strategy to overcome post-treatment recurrence.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.77536",
+        "keyword": "Exosomes",
+        "title_ja": "LDHAのパルミトイル化を標的とすることで、パルミチン酸誘導性の解糖系リプログラミングを抑制し、GBMを化学放射線療法に感受性化する",
+        "summary_ja": "膠芽腫（GBM）は治療抵抗性と再発を特徴とする致死性悪性腫瘍である。本研究では、パルミチン酸（PA）がGBMの低酸素性偽柵状領域に蓄積し、間葉系（MES）GBMと低酸素骨髄由来マクロファージ（MDM）サブポピュレーションの形成を促進し、再発を促す相互作用ニッチを形成することを見出した。機構的には、PAがZDHHC12を介したLDHAのシステイン163パルミトイル化を誘導し、LDHA酵素活性を亢進させ、解糖系リプログラミングを促進してMES表現型と化学放射線療法抵抗性をもたらす。同時にパルミトイル化はLDHAのエクソソーム選別を促進し、MDMに取り込まれて免疫抑制性低酸素MDMへの分極を誘導する。小分子RutinがLDHA-Cys163パルミトイル化を阻害し、GBMを化学放射線療法に再感受性化することが同定された。"
+      },
+      {
+        "title": "Injectable Hydrogel Loaded With Umbilical Cord Blood-Derived Exosomes Promotes Periodontal Bone Regeneration via the TLR4/NF-κB Signalling Pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42802149/",
+        "abstract": "Periodontitis is an immune-mediated inflammatory disease characterised by progressive alveolar bone loss, which can lead to tooth loss in severe cases. Existing therapeutic agents have limited efficacy in reversing the associated inflammatory bone defects. Exosomes (Exos), enriched with bioactive molecules, exhibit significant potential in anti-inflammation and osteogenic regeneration. In this study, an injectable and photocurable composite hydrogel sustained-release system (GA-Exos) loaded with human umbilical cord blood-derived exosomes (UCB-Exos) was constructed. In vitro and in vivo experiments demonstrated that GA-Exos possesses excellent performance, enabling sustained release of exosomes for approximately 21 days. It significantly promotes the proliferation and differentiation of osteoblasts, upregulates the expression of osteogenic markers (e.g., RUNX2, ALP, and OPN), reduces the levels of pro-inflammatory cytokines (e.g., TNF-α and IL-1β), and inhibits inflammatory cell infiltration and osteoclast differentiation. mRNA sequencing and validation experiments confirmed that UCB-Exos inhibits the activation of the TLR4/NF-κB pathway by downregulating the expression of TLR4, LBP, and CD14, as well as the phosphorylation of P65. In conclusion, GA-Exos enhances periodontal bone regeneration through the regulation of the TLR4/NF-κB pathway, providing a novel and effective strategy for periodontitis treatment. This system is expected to break through the limitations of existing therapies and bring new insights for clinical applications.",
+        "source": "PubMed",
+        "doi": "10.1111/jcmm.71347",
+        "keyword": "Exosomes",
+        "title_ja": "脐带血来源外泌体负载的可注射水凝胶通过TLR4/NF-κB信号通路促进牙周骨再生",
+        "summary_ja": "歯周炎は免疫介在性炎症疾患で、進行性の歯槽骨喪失を特徴とする。既存治療は炎症性骨欠損の改善に限界がある。本研究では、ヒト臍帯血由来エクソソーム（UCB-Exos）を搭載した注射可能な光硬化性複合ハイドロゲル徐放システム（GA-Exos）を構築した。GA-Exosは約21日間エクソソームを徐放し、骨芽細胞の増殖・分化促進、骨形成マーカー（RUNX2、ALP、OPN）の発現亢進、炎症性サイトカイン（TNF-α、IL-1β）の低下、炎症細胞浸潤・破骨細胞分化の抑制を示した。mRNAシーケンスにより、UCB-ExosはTLR4、LBP、CD14の発現およびP65のリン酸化を低下させ、TLR4/NF-κB経路の活性化を阻害することが確認された。GA-ExosはTLR4/NF-κB経路を介して歯周骨再生を促進し、歯周炎治療の新規戦略を提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Targeted Delivery of NGF-Pretreated Schwann Cell-Derived Exosomes for Osteoporosis Therapy: Overcoming Pain while Enhancing Bone Formation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42804351/",
+        "abstract": "Osteoporosis (OP) is a prevalent skeletal disorder characterized by decreased bone mass and increased fragility, leading to fractures and chronic pain. Nerve growth factor (NGF) plays a pivotal role in bone homeostasis and neuro-regeneration but paradoxically exacerbates pain. This study investigated the therapeutic potential of engineered, bone-targeting exosomes derived from NGF-pretreated Schwann cells (NGF-Exo-Pep) for the treatment of OP. We demonstrated that NGF-Exo-Pep effectively promoted osteogenic differentiation and mineralization of bone marrow mesenchymal stem cells (BMSCs) in vitro, while also enhancing Schwann cell proliferation, migration, and neurotrophic factor secretion. Mechanistically, miRNA sequencing revealed that NGF-Exo-Pep was enriched in osteogenic miRNAs. In vivo, NGF-Exo-Pep treatment in ovariectomized mice significantly improved bone microarchitecture, increased osteoblast activity, reduced osteoclast activity, and neurotization of bone tissue. Notably, NGF-Exo-Pep alleviated pain-related behaviors by downregulating pain mediators and reducing c-Fos expression in the spinal cord. This study presented a novel and promising strategy for OP treatment, harnessing the pro-regenerative properties of NGF while mitigating its pain-inducing side effects.",
+        "source": "PubMed",
+        "doi": "10.1021/acsbiomaterials.6c00906",
+        "keyword": "Exosomes",
+        "title_ja": "NGF前処理シュワン細胞由来エクソソームの骨粗鬆症治療に向けた標的送達：骨形成を促進しながら疼痛を克服する",
+        "summary_ja": "NGF前処理シュワン細胞由来エクソソームに骨標的ペプチドを付加したNGF-Exo-Pepの骨粗鬆症（OP）治療効果を検討した研究。NGF-Exo-Pepはin vitroでBMSCの骨芽細胞分化・石灰化を促進し、シュワン細胞の増殖・遊走・神経栄養因子分泌も亢進した。miRNA解析で骨形成関連miRNAの濃縮を確認。卵巣摘除マウスでは骨微細構造改善、骨芽細胞活性増加、破骨細胞活性低下、骨組織の神経化を認めた。さらに疼痛メディエーター低下と脊髄c-Fos発現抑制により疼痛関連行動を軽減した。NGFの再生促進作用を活かしつつ疼痛副作用を回避する新規OP治療戦略を提示した。"
+      },
+      {
+        "title": "Extracellular vesicle signaling in regulatory T cell biology: From immune suppression to microenvironmental crosstalk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42804251/",
+        "abstract": "Regulatory T cells (Tregs) are essential for maintaining immune homeostasis, yet classical suppressive mechanisms alone do not fully explain how tolerance is propagated across tissues and sustained over time. Extracellular vesicles (EVs), particularly exosome-enriched small EVs, have emerged as an important additional layer of Treg-associated communication by enabling the selective transfer of proteins, lipids and regulatory RNAs between cells. In this review, we examine the reciprocal EV-Treg axis, highlighting how Treg-derived EVs extend suppressive function beyond direct cell contact by modulating dendritic cells, restraining effector T-cell responses, promoting regulatory macrophage polarization and supporting tissue repair. We further discuss how EVs released by immune, epithelial, stromal, microbial and tumor-associated cells shape Treg differentiation, stability and functional specialization in diverse physiological and pathological settings. Across autoimmunity, transplantation, barrier inflammation, infection and cancer, this bidirectional crosstalk emerges as a context-dependent regulator of immune tolerance that may either preserve tissue homeostasis or promote pathological immune suppression. We finally consider the therapeutic potential of targeting or engineering EV-Treg interactions as a cell-free strategy for precision immunomodulation.",
+        "source": "PubMed",
+        "doi": "10.1080/08830185.2026.2736246",
+        "keyword": "Exosomes",
+        "title_ja": "制御性T細胞生物学における細胞外小胞シグナル伝達：免疫抑制から微小環境クロストークまで",
+        "summary_ja": "制御性T細胞（Treg）は免疫恒常性維持に不可欠だが、古典的抑制機構だけでは組織を超えた寛容の伝播・持続を説明できない。細胞外小胞（EV）、特にエクソソーム豊富なsmall EVは、タンパク質・脂質・制御性RNAを選択的に細胞間伝達し、Treg関連コミュニケーションの新たな層として注目される。本レビューでは、EV-Treg軸の双方向性を検討し、Treg由来EVが樹状細胞調節、エフェクターT細胞応答抑制、制御性マクロファージ極性化、組織修復促進を通じ、直接接触を超えて抑制機能を拡張する仕組みを論じる。さらに免疫系・上皮・間質・微生物・腫瘍関連細胞由来EVが、自己免疫、移植、バリア炎症、感染、癌などでTregの分化・安定性・機能特化を形成することを議論する。この双方向クロストークは組織恒常性維持または病的免疫抑制を促す文脈依存的寛容制御因子であり、EV-Treg相互作用の標的化・工学化は精密免"
+      },
+      {
+        "title": "Serum exosomal miRNA signature in hypertension: an exploratory study integrating with comparative analysis of the GEO database.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42803867/",
+        "abstract": "Essential hypertension (EH) remains a leading cause of mortality worldwide. Exosome-carried microRNAs (miRNAs) play a pivotal role in the pathogenesis of EH. In this exploratory study, we aimed to characterize the serum exosomal miRNA expression profile in patients with EH and to investigate the potential functional relevance of differentially expressed (DE) miRNAs, aiming to provide preliminary evidence for future mechanistic investigations. Serum exosomes were isolated from patients with EH and healthy controls, followed by small RNA sequencing. Differentially expressed (DE) miRNAs were identified and further subjected to bioinformatic target gene prediction. To elucidate the potential biological functions of these target genes, Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analyses were performed. Additionally, a comparative analysis of the DE miRNAs was conducted using an independent dataset from the Gene Expression Omnibus (GEO) database. Six significantly downregulated miRNAs (hsa-miR-16-5p, hsa-miR-652-3p, hsa-miR-93-5p, hsa-miR-17-5p, hsa-miR-20a-5p, hsa-miR-193a-5p) were identified in 20 hypertensive patients compared with 10 healthy controls. GO and KEGG analyses revealed that the predicted target genes of these miRNAs were significantly enriched in biological processes related to neuronal function, protein homeostasis, and cell cycle regulation, and were primarily involved in MAPK, Hippo, p53, and TGF-β signaling pathways. Notably, comparative analysis of the GEO dataset demonstrated a distinct expression profile between exosomal and total plasma miRNAs, underscoring the unique value of exosome-specific analysis. This exploratory study identified six serum exosomal miRNAs as candidate biomarkers for hypertension, with predicted targets enriched in MAPK and TGF‑β pathways. The exosomal signature was distinct from total plasma miRNA profiles, suggesting that exosomal miRNAs may carry disease‑specific signals. However, given the limited sample size and exploratory nature of this study, these findings are preliminary and require validation in larger cohorts.",
+        "source": "PubMed",
+        "doi": "10.1007/s11010-026-05744-2",
+        "keyword": "Exosomes",
+        "title_ja": "高血圧における血清エクソソームmiRNAシグネチャー：GEOデータベースの比較解析を統合した探索的研究",
+        "summary_ja": "本態性高血圧（EH）患者の血清エクソソームmiRNA発現プロファイルを探索的に解析した研究。EH患者20例と健常対照10例のsmall RNA sequencingにより、6つの有意に低下したmiRNA（hsa-miR-16-5p、hsa-miR-652-3p、hsa-miR-93-5p、hsa-miR-17-5p、hsa-miR-20a-5p、hsa-miR-193a-5p）を同定した。標的遺伝子予測とGO・KEGG解析では、神経機能、タンパク質恒常性、細胞周期制御に関連し、MAPK、Hippo、p53、TGF-βシグナル経路に関与することが示された。GEOデータベースとの比較解析により、エクソソームmiRNAと血漿総miRNAは異なる発現プロファイルを示し、エクソソーム特異的解析の有用性が示唆された。これら6つのmiRNAは高血圧の候補バイオマーカーとなり得るが、サンプルサイズが限られ"
+      },
+      {
+        "title": "Functional redundancy, complementation, and cross-talk between CH25h and IFITM3 in infection and in IFITM3 trafficking and secretion.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42803587/",
+        "abstract": "Type I interferon induces multiple protein effectors to inhibit viral replication. Among these, the interferon-induced transmembrane protein (IFITM3) and the cholesterol-25-hydroxylase (CH25h) converge on the inhibition of viral entry by altering the behavior of membranes. Here, we dissect the functional and mechanistic relationship between these two membrane-acting effectors using different viruses. When using HIV-1 and vesicular stomatitis virus (VSV), IFITM3 and CH25h restrict viral entry with similar efficiency but act in a largely redundant manner, a finding that is consistent across infection systems, cell types, and entry assays. However, this is not the case for several orthoflaviviruses against which IFITM3, but not CH25h, provides a strong block to infection. We further uncover that the CH25h-25HC axis remodels IFITM3 trafficking by driving partial relocalization of IFITM3 from endolysosomal compartments to the plasma membrane. This occurs by impairing IFITM3 internalization into early endosomes and leads to an increase in its secretion in exosomal vesicles, overall indicating that CH25h contributes to regulate IFITM3 cellular dynamics. Together, these findings reveal that the apparent redundancy of maintaining two distinct effectors targeting the same step of the viral life cycle is not superfluous but instead allows the cell to compensate and, nonetheless, target viruses that may have developed resistance to one of these effectors. Furthermore, the ability of CH25h to remodel IFITM3 trafficking indicates that these two pathways are connected, adding an additional layer of complexity in the biology of IFITM3.IMPORTANCEIFITM3 and CH25h are two potent, broad-acting inhibitors of viral membrane fusion, but their functional connections have not been explored. Here, we show that although their antiviral activities are largely redundant against HIV-1 and vesicular stomatitis virus (VSV), IFITM3 functionally compensates for a relative resistance of orthoflaviviruses toward CH25h. Furthermore, CH25h redistributes IFITM3 from endosomal compartments to the plasma membrane, enhancing its release in exosomal vesicles. Overall, these findings reveal that despite the fact that IFITM3 and CH25h can act redundantly against certain classes of viruses, IFITM3 can functionally compensate for CH25h resistance against other viruses, highlighting why it is important for the cell to maintain two distinct pathways to block virus-to-cell membrane fusion. In addition, these results also reveal how interferon-driven lipid remodeling can reshape the trafficking behavior of IFITM3, leading it to be more present in exosomes, where it could exert paracrine functions that remain to be explored.",
+        "source": "PubMed",
+        "doi": "10.1128/jvi.01378-26",
+        "keyword": "Exosomes",
+        "title_ja": "感染およびIFITM3の輸送と分泌におけるCH25hとIFITM3間の機能的冗長性、相補性、およびクロストーク",
+        "summary_ja": "I型インターフェロンはIFITM3やCH25hを含むエフェクターを誘導し、膜の挙動を変えてウイルス侵入を阻害する。HIV-1とVSVに対し両者は同効率で制限するが、主に冗長に働く。一方、オルソフラビウイルスにはIFITM3のみが強く阻害する。またCH25h-25HC軸はIFITM3の初期エンドソームへの取り込みを阻害し、エンドリソソームから細胞膜へ再局在させ、エクソソーム分泌を増加させる。以上から、両エフェクターの冗長性は補償的に機能し、CH25hによるIFITM3輸送の再構築は両経路の連関を示す。"
+      },
+      {
+        "title": "Sequestosome 1 (SQSTM1/p62) at the nexus of genome integrity maintenance, proteostasis regulation and organellar homeostasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42802668/",
+        "abstract": "Sequestosome 1 (SQSTM1 or p62) is a multi-domain protein that functions as a scaffold for aggregating proteins into cytoplasmic inclusions and mediating their turnover via selective autophagy. However, p62 is more than an autophagy scaffold or adaptor protein; it's linked with endo/exosomal protein trafficking and the ubiquitin proteasome system and, through its interactions with many different proteins, plays important roles in regulating cell signaling events (e.g., oxidative stress response). While its core functions are linked to proteostasis maintenance, p62 is also involved in proteostasis-independent mechanisms. In this review, we highlight the well-established role of p62 in selective autophagy in mammalian cells and harmonize known and emerging p62 functions under three main themes: proteostasis regulation, genomic integrity maintenance, and organellar homeostasis. We highlight some open questions on the potentially pivotal role of p62 in bridging these themes, which we believe would herald the next decade of research involving this versatile protein.",
+        "source": "PubMed",
+        "doi": "10.1515/hsz-2026-0146",
+        "keyword": "Exosomes",
+        "title_ja": "セクエストソーム1（SQSTM1/p62）——ゲノム完全性維持、プロテオスタシス調節、オルガネラ恒常性の結節点において",
+        "summary_ja": "Sequestosome 1（SQSTM1/p62）は、タンパク質を細胞質内封入体へ凝集させ、選択的オートファジーにより分解へ導く足場タンパク質である。しかしp62はオートファジーのアダプターにとどまらず、エンドソーム／エキソソーム輸送やユビキチン・プロテアソーム系とも関連し、酸化ストレス応答など細胞シグナル制御にも関与する。本レビューでは、哺乳類細胞における選択的オートファジーでの確立した役割を概説し、p62の既知および新興機能を「プロテオスタシス制御」「ゲノム完全性維持」「オルガネラ恒常性」の3テーマで整理する。さらに、これらを橋渡しするp62の中心的役割に関する未解決の問いを提示し、今後10年の研究展望を示す。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の注目トピック5選：\n\n1. **ケール由来EVと肝癌治療**：植物由来ナノ粒子とダクトリシブ併用がHep3B細胞のアポトーシスと鉄恒常性を調節。低コストで安全な植物EVの癌治療応用が期待される。\n\n2. **エクソソーム×ハイドロゲルで歯周骨再生**：臍帯血由来エクソソーム搭載注射ハイドロゲルがTLR4/NF-κB経路を介し歯槽骨再生を促進。炎症性骨欠損への新規治療戦略。\n\n3. **骨標的化シュワン細胞EVで骨粗鬆症治療**：NGF前処理EVに骨標的ペプチド付加。骨形成促進と疼痛緩和の同時達成という二重効果が画期的。\n\n4. **Treg-EVによる免疫寛容伝播**：Treg由来small EVがタンパク質・RNAを選択輸送し組織横断的に寛容を持続。自己免疫疾患・移植医療への応用可能性。\n\n5. **高血圧の血清エクソソームmiRNAシグネチャー**：EH患者で6種のmiRNA低下を同定。非侵襲的バイオマーカーとしての実用化に前進。\n\n共通テーマとして、EV/エクソソームが診断・治療両面で急速に実用化段階へ移行しつつある点が重要である。"
+}

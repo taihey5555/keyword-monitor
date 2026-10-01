@@ -1,0 +1,144 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Dual-Targeted M1 Macrophage Extracellular Vesicles Reprogram the Tumor Microenvironment and Enhance Natural Killer Cell Immunotherapy in Breast Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42814771/",
+        "abstract": "Breast cancer is the most commonly diagnosed cancer worldwide and a leading cause of cancer-related mortality in women. Despite therapeutic advances, treating advanced or recurrent cases is substantially hampered by drug resistance and the immunosuppressive tumor microenvironment (TME). Here, we report a breakthrough immunotherapeutic strategy using dual-targeted extracellular vesicles from pro-inflammatory M1 macrophages, hyaluronic acid (HA), and cyclic RGD (M1EV_HA/cRGD), which function as molecular bridges to physically link natural killer (NK) cells with cancer cells. Our platform simultaneously reprograms the hostile TME while activating potent antitumor immunity. HA is incorporated to engage CD44 receptors on NK cells and cRGD peptides to bind tumor-overexpressing integrins, establishing precision dual-targeting. M1EV_HA/cRGD could physically tether NK cells directly to tumors, and deliver inflammatory cytokines and miRNAs that transform the immunosuppressive TME into a pro-inflammatory battlefield, substantially amplifying immune activation. In vitro and in vivo studies demonstrate that M1EV_HA/cRGD significantly enhances NK cell clustering at tumor sites, activation status, and cytotoxic killing of breast cancer cells. Unlike single-targeted approaches, this dual-targeting mechanism achieves simultaneous TME reprogramming and enhanced immune-tumor engagement. M1EV_HA/cRGD is a paradigm shift in solid tumor immunotherapy that directly addresses breast cancer treatment failure, can overcome therapeutic resistance, and substantially improve patient survival outcomes.",
+        "source": "PubMed",
+        "doi": "10.1002/jev2.70379",
+        "keyword": "NK cell therapy",
+        "title_ja": "デュアルターゲティングM1マクロファージ細胞外小胞は乳がんにおいて腫瘍微小環境を再プログラミングしナチュラルキラー細胞免疫療法を増強する",
+        "summary_ja": "乳がんは世界的に最多の診断がなされるがんで、進行・再発例では薬剤耐性と免疫抑制性腫瘍微小環境（TME）が治療を妨げる。本研究では、炎症性M1マクロファージ由来細胞外小胞にヒアルロン酸（HA）と環状RGD（cRGD）を付与した二重標的化M1EV_HA/cRGDを報告する。HAはNK細胞のCD44に、cRGDは腫瘍のインテグリンに結合し、NK細胞と腫瘍を物理的に連結する。炎症性サイトカインやmiRNAを送達して免疫抑制性TMEを炎症性に再プログラムし、NK細胞の集積・活性化・細胞傷害性を増強する。in vitro/in vivoで有効性が示され、単一標的化と異なりTME再プログラムと免疫・腫瘍間相互作用強化を同時に実現する。乳がん治療抵抗性克服と生存改善に寄与する新戦略である。"
+      },
+      {
+        "title": "Natural Killer Cells in Kidney Transplantation: Dual Role in Allograft Injury and Immune Adaptation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42814514/",
+        "abstract": "Kidney transplantation is the optimal treatment for end-stage renal disease, yet long-term graft survival remains limited by allograft rejection. While T and B cells and donor-specific antibodies (DSA) have been the main focus, accumulating evidence indicates that natural killer (NK) cells play a significant dual role in both graft injury and immune adaptation, including in DSA-negative rejection. This narrative review summarizes current knowledge on the dual role of NK cells in kidney transplantation, with emphasis on antibody-independent mechanisms, adaptive NK-cell subsets, and their potential as biomarkers of graft outcome. NK cells are highly heterogeneous, consisting of CD56",
+        "source": "PubMed",
+        "doi": "10.2478/aite-2026-0026",
+        "keyword": "NK cell therapy",
+        "title_ja": "腎移植におけるナチュラルキラー細胞：同種移植片障害と免疫適応における二重の役割",
+        "summary_ja": "腎移植は末期腎不全の最適治療だが、長期生着は拒絶反応に制限される。従来T・B細胞やDSAが注目されてきたが、NK細胞が移植片傷害と免疫適応の二重の役割を担い、DSA陰性拒絶にも関与することが示されている。本レビューは、抗体非依存性機序、適応性NK細胞サブセット、移植成績のバイオマーカーとしての可能性に焦点を当て、腎移植におけるNK細胞の二重の役割に関する知見をまとめる。NK細胞はCD56をはじめ高度に多様である。"
+      },
+      {
+        "title": "Immunophenotypic Assessment of Natural Killer Cell Degranulation and Monocyte Function from Cryopreserved Peripheral Blood Mononuclear Cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42814324/",
+        "abstract": "Natural killer (NK) cells and monocytes are central components of the innate immune system, playing critical roles in host defense, immune surveillance, and inflammation. Functional alterations in these cell populations are implicated in cancer, infectious diseases, cardiovascular disease, and responses to environmental and psychosocial stressors. Accurate measurement of NK cell and monocyte distribution and function is therefore essential for both basic and translational immunology. In large-scale or longitudinal studies, cryopreserved peripheral blood mononuclear cells (PBMCs) are commonly used to enable standardized analyses across time and sites; however, cryopreservation and thawing can adversely affect cell viability and function. This chapter presents a reproducible protocol for the cryopreservation, thawing, and functional assessment of NK cells and monocytes from human PBMCs. PBMCs are cryopreserved using a 9:1 ratio of fetal bovine serum (FBS) and dimethyl sulfoxide (DMSO), allowing long-term storage at ultra-low temperatures while preserving cellular integrity. The thawing process utilizes a nuclease to minimize cell clumping, enhancing cell recovery and viability. Following thawing, PBMCs are prepared for downstream functional assays. NK cell function is assessed using a standard degranulation assay following coculture with K562 target cells, providing a robust measure of cytotoxic capacity. Together, this protocol offers a practical guide for the reliable measurement of NK cell and monocyte distribution and function from cryopreserved PBMCs, supporting high-quality immunological analyses in clinical and population-based research.",
+        "source": "PubMed",
+        "doi": "10.1007/978-1-0716-5607-5_8",
+        "keyword": "NK cell therapy",
+        "title_ja": "凍結保存末梢血単核細胞を用いたナチュラルキラー細胞の脱顆粒および単球機能の免疫表現型評価",
+        "summary_ja": "NK細胞と単球は自然免疫の中核を担い、その機能変化は癌や感染症、心血管疾患などに関与する。大規模研究では凍結保存PBMCが用いられるが、凍結・解凍は細胞の生存率や機能に悪影響を及ぼし得る。本章では、ヒトPBMCからのNK細胞と単球の凍結保存・解凍・機能評価の再現可能なプロトコルを提示する。PBMCはFBSとDMSOを9:1で混合し凍結保存され、超低温で細胞完全性を保つ。解凍時にはヌクレアーゼを用いて凝集を抑え、回収率と生存率を高める。NK細胞機能はK562標的細胞との共培養後の標準的脱顆粒アッセイで評価し、細胞傷害能を測定する。本プロトコルは凍結PBMCからの信頼性の高い免疫学的解析を支援する。"
+      },
+      {
+        "title": "Recent advancements and persisting challenges in the evolution of next generation car t cell therapy for solid malignancies: a comprehensive review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42814277/",
+        "abstract": "Chimeric antigen receptor (CAR) T-cell therapy is one of the most promising types of immunotherapies for the treatment of cancer. Unlike conventional T cells, which recognize antigens only when presented by the major histocompatibility complex (MHC), CARs use an antibody-derived binding domain to recognize native tumor-associated surface antigens directly, enabling MHC-independent target recognition. The two main cytotoxic mechanisms used by CAR T cells are the quick release of lytic granules containing granzymes and perforin to cause target cell apoptosis and the activation of death-receptor pathways (FasL/Fas or TRAIL) to cause caspase-dependent cell death. Four generations of CAR designs have been created to improve therapeutic efficacy and an advanced fifth generation is under development. Although CAR-T therapies have been very successful in treating hematological malignancies, their efficacy in solid tumors is limited because of immunosuppressive tumor microenvironments, tissue architecture, and antigen expression patterns that prevent CAR-T cell infiltration, activation, and persistence. With encouraging but early results, CAR T-cell therapy is moving forward into many clinical studies aimed at different solid tumors. Antigens including epidermal growth factor receptor (EGFR), mesothelin (MSLN), Disialoganglioside 2 (GD2), and B7-H3 were the subject of important clinical research conducted between 2021 and 2025. Emerging cellular treatments such as Chimeric Antigen Receptor Natural Killer cells (CAR-NK), CAR-macrophages and T-cell receptor (TCR)-engineered T cells offer alternate options to circumvent the limitations of CAR T-cells in solid tumors. This review aims to examine the evolution of next-generation CAR-T cell therapy for solid tumors by highlighting recent innovations, key clinical advancements, and persisting therapeutic challenges. It further seeks to analyze the biological and translational barriers limiting efficacy in solid malignancies and to explore emerging strategies and future directions that may enhance clinical outcomes.",
+        "source": "PubMed",
+        "doi": "10.1007/s12026-026-09850-7",
+        "keyword": "NK cell therapy",
+        "title_ja": "固形悪性腫瘍に対する次世代CAR-T細胞療法の進化における最近の進歩と残存する課題：包括的レビュー",
+        "summary_ja": "CAR-T療法はMHC非依存に腫瘍表面抗原を直接認識し、顆粒放出と死受容体経路で細胞死を誘導する。CARは第4世代まで開発され、第5世代も進行中。血液腫瘍では成功したが、固形腫瘍では免疫抑制的微小環境、組織構造、抗原発現様式が浸潤・活性化・持続性を妨げ有効性が限定的。2021～2025年にEGFR、MSLN、GD2、B7-H3等を標的とする臨床研究が進展。CAR-NK、CARマクロファージ、TCR-T細胞が代替戦略として注目される。本レビューは固形腫瘍向け次世代CAR-Tの進化、臨床進歩、課題、生物学的・翻訳的障壁、将来方向を検討する。"
+      },
+      {
+        "title": "Interleukin-12: Central Roles in Immune Regulation and Disease Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42813654/",
+        "abstract": "Interleukin-12 (IL-12) is a key immunoregulatory cytokine produced primarily by antigen-presenting cells. During infection, IL-12 orchestrates innate immune responses and shapes the nature of subsequent adaptive immunity. Specifically, by promoting interferon-γ (IFN-γ) production in helper and cytolytic T cells and natural killer (NK) cells, it promotes the activation of these cells and drives the differentiation of CD4",
+        "source": "PubMed",
+        "doi": "10.1111/imcb.70167",
+        "keyword": "NK cell therapy",
+        "title_ja": "インターロイキン-12：免疫調節と疾患治療における中心的役割",
+        "summary_ja": "IL-12は主に抗原提示細胞が産生する免疫調節サイトカインである。感染時には自然免疫応答を統御し、獲得免疫の性質を形成する。ヘルパーT細胞、細胞傷害性T細胞、NK細胞におけるIFN-γ産生を促進することで、これらの細胞の活性化とCD4陽性T細胞の分化を誘導する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Immunomagnetic-MXene Bifunctional Probes for Ultrasensitive and Specific Terahertz Metasensing of Tumor-Derived Exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42814503/",
+        "abstract": "Tumor-derived exosomes (tExos) are promising biomarkers for early pancreatic cancer (PC) diagnosis, yet current detection methods are limited by cumbersome implementation, high sample consumption, and complex matrix interference. Herein, we developed immunomagnetic-MXene bifunctional probes coupled with terahertz (THz) metamaterials to synergistically increase the sensitivity and specificity of PC-derived tExos detection. Antibodies against ZIP4 and glypican-1 (GPC-1) were separately conjugated to magnetic beads (MBs) and MXene nanosheets, which yielded two probes that simultaneously targeted PC-derived tExos, enabling highly specific sandwich-type capture of target exosomes. Moreover, MXene increased the tExo-induced THz metamaterial resonance and outperformed AuNPs in signal amplification, endowing the method with a limit of detection (LOD) of 647 particles mL",
+        "source": "PubMed",
+        "doi": "10.1002/advs.78093",
+        "keyword": "Exosomes",
+        "title_ja": "免疫磁性MXene双功能探针用于肿瘤来源外泌体的超灵敏特异性太赫兹超表面传感",
+        "summary_ja": "腫瘍由来エクソソーム（tExos）は膵臓癌（PC）の早期診断バイオマーカーとして有望だが、従来の検出法は実装の煩雑さ、試料消費量の多さ、複雑なマトリックス干渉に制限されている。本研究では、免疫磁性-MXene二機能性プローブとテラヘルツ（THz）メタマテリアルを組み合わせ、PC由来tExos検出の感度と特異性を相乗的に向上させた。ZIP4およびグリピカン-1（GPC-1）に対する抗体をそれぞれ磁気ビーズ（MBs）とMXeneナノシートに結合し、PC由来tExosを同時標的とする2種のプローブを作製、高特異的なサンドイッチ型捕捉を可能にした。さらにMXeneはtExo誘起のTHzメタマテリアル共鳴を増強し、AuNPsを上回る信号増幅を示し、検出限界（LOD）647粒子mL⁻¹を達成した。"
+      },
+      {
+        "title": "Clinical Translation of Mesenchymal Stem Cells to Medicinal Signaling Cells: Origins, Clinical Applications, and the Future of Regenerative Medicine-2026 Arnold I. Caplan Award for Distinguished Research in Orthobiologics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42813811/",
+        "abstract": "Orthobiologics are used widely in modern orthopaedic and sports medicine practice, yet the biologic rationale for cell-based therapies is often oversimplified. Mesenchymal stem cells (MSCs) were initially understood as multipotent progenitors capable of regenerating mesenchymal tissues through engraftment and differentiation. However, continued translational research, including the isolation and characterization of muscle-derived stem cells, has refined this model. MSC-like tissues are closely associated with the perivascular microenvironment, and their clinical effect seems to be mediated largely by paracrine signaling, angiogenesis, immunomodulation, and recruitment of host reparative cells rather than simply tissue replacement by donor cells. This mechanistic shift supports Arnold I. Caplan's term \"medicinal signaling cells\" and has important implications for orthopaedic surgeons when counseling patients, selecting biologic adjuncts, interpreting outcome data, and designing future clinical trials. Aging, osteoarthritis, cellular senescence, culture expansion, and disruption of the native stem cell microenvironment are all mechanisms that can impair biologic potency of MSCs. As a result, senolytic and antifibrotic approaches, minimally manipulated bone marrow and adipose preparations, exosome-based therapies, and engineered feedback-regulated cells are active areas of investigation in optimizing patient outcomes with orthobiologics. This review translates these benchtop methodical concepts into practical considerations for surgeons integrating orthobiologics into everyday clinical practice.",
+        "source": "PubMed",
+        "doi": "10.5435/JAAOS-D-26-00882",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞から医療シグナル細胞への臨床応用：起源、臨床応用、そして再生医療の未来—2026年アーノルド・I・キャプラン賞（整形外科生物製剤部門における卓越した研究に対して）",
+        "summary_ja": "MSCは当初、生着・分化により組織を再生する多能性前駆細胞と理解されたが、研究の進展により血管周囲微小環境と密接に関連し、その効果は主にパラクラインシグナル、血管新生、免疫調節、宿主修復細胞の動員を介することが示された。この機序の転換はCaplanの「medicinal signaling cells」という概念を支持する。加齢、変形性関節症、細胞老化、培養拡張、微小環境の破綻はMSCの生物学的効力を損なう。そのため、senolytic・抗線維化アプローチ、最小操作の骨髄・脂肪製剤、エクソソーム療法、フィードバック制御型細胞などが検討されている。本総説はこれらの概念を整形外科医の実臨床に結びつける。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Amplification-free colorimetric detection of exosomal miRNA using a CRISPR/Cas13a-activated HRP/Au/MoS",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42814153/",
+        "abstract": "CRISPR-based, amplification-free colorimetric sensing has emerged as a powerful approach for exosomal miRNA (Exo-miR) analysis, offering high specificity, simple operation, and direct visual readout suitable for point-of-care diagnostics. However, the sensitivity of existing systems is limited because conventional colorimetric probes generate inherently weak signals, making the reliable detection of ultralow-abundance Exo-miRs difficult without amplification. Here, we firstly report an amplification-free colorimetric biosensor based on a horseradish peroxidase (HRP)/gold nanoparticle (Au)/molybdenum disulfide (MoS",
+        "source": "PubMed",
+        "doi": "10.1186/s40580-026-00580-y",
+        "keyword": "Exosomes",
+        "title_ja": "CRISPR/Cas13aで活性化されるHRP/Au/MoSを用いたエクソソームmiRNAの無増幅比色検出",
+        "summary_ja": "CRISPR/Cas13aを利用した増幅不要の比色バイオセンサーを報告。従来の比色プローブは信号が弱く、超低存在量のExo-miR検出が困難であった。本研究ではHRP/Au/MoS₂を組み合わせ、高感度・高特異性で簡便なExo-miR検出を実現し、ポイントオブケア診断への応用可能性を示した。"
+      },
+      {
+        "title": "Beyond motor recovery: Stem cell-derived exosomes for sensory restoration and neuropathic pain relief after spinal cord injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42802738/",
+        "abstract": "Spinal cord injury (SCI) causes persistent neurological deficits that extend beyond motor impairment, with sensory dysfunction and neuropathic pain substantially compromising quality of life. Stem cell-derived exosomes have emerged as promising cell-free therapeutic agents because they deliver diverse bioactive molecules, including proteins, microRNAs, and long non-coding RNAs, while retaining many of the paracrine benefits of stem cells. This review summarizes recent advances in the application of stem cell-derived exosomes for sensory restoration and neuropathic pain relief after SCI, with particular emphasis on their underlying mechanisms and emerging delivery strategies. We first discuss exosome biogenesis, molecular composition, intercellular communication, and engineering approaches. We then summarize their established roles in motor recovery through neuroprotection, immunomodulation, axonal regeneration and myelin repair. Importantly, we highlight emerging evidence that stem cell-derived exosomes may restore sensory function by promoting axonal regeneration, synaptic remodeling, neural differentiation, and glial metabolic reprogramming. In parallel, exosomes alleviate neuropathic pain by suppressing microglial and astrocytic activation, modulating TLR/MyD88/NF-κB signaling, reducing neuroinflammation and pathological nociceptive signaling, and promoting remyelination and tissue repair. Exosomes also preserve blood-spinal cord barrier integrity through regulation of endothelial cells, pericytes, matrix metalloproteinases, and vascular signaling, for both motor and sensory recovery. Finally, we discuss challenges related to exosome heterogeneity, manufacturing standardization, delivery, safety, and limited sensory-specific evidence, and highlight engineering and biomaterial-based strategies for future clinical translation. Overall, stem cell-derived exosomes represent a multifunctional therapeutic platform with potential to move SCI treatment beyond motor recovery toward comprehensive sensory restoration and pain management.",
+        "source": "PubMed",
+        "doi": "10.1002/ibra.70031",
+        "keyword": "Exosomes",
+        "title_ja": "運動機能の回復を超えて：脊髄損傷後の感覚回復と神経障害性疼痛緩和のための幹細胞由来エクソソーム",
+        "summary_ja": "脊髄損傷（SCI）は運動障害に加え感覚障害や神経障害性疼痛を引き起こす。幹細胞由来エクソソームは、タンパク質・microRNA・長鎖非コードRNA等を運び、幹細胞のパラクライン効果を保持する無細胞治療薬として注目される。本レビューは、SCI後の感覚回復と神経障害性疼痛緩和への応用、機序、送達戦略をまとめる。エクソソームは神経保護・免疫調節・軸索再生・髄鞘修復を介し運動回復に寄与する。さらに軸索再生、シナプス再構築、神経分化、グリア代謝再プログラミングにより感覚回復を促す可能性が示された。疼痛はミクログリア・アストロサイト活性化抑制、TLR/MyD88/NF-κB調節、神経炎症軽減等で緩和される。血液脊髄関門保護も関与する。課題として不均一性、製造標準化、送達、安全性、感覚特異的エビデンス不足が挙げられる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **二重標的M1マクロファージEV×NK細胞療法**：乳がんの免疫抑制TMEをHA/cRGD修飾EVで再programmingしNK療法を増強。固形腫瘍へのNK細胞療法の実現性を高める有望な戦略。\n\n2. **腎移植におけるNK細胞の二重役割**：NK細胞が移植片傷害と免疫適応の両方に関与し、DSA陰性拒絶にも寄与。拒絶診断・治療標的としての重要性が増す。\n\n3. **IL-12の免疫制御と治療応用**：IL-12はNK細胞やT細胞のIFN-γ産生を促し、自然免疫と獲得免疫を橋渡し。がん・感染症治療への応用が期待される。\n\n4. **腫瘍由来エクソソームの超高感度検出**：免疫磁性-MXeneプローブとテラヘルツメタセンシングにより、膵臓がん早期診断バイオマーカーとしてのtExos検出が前進。\n\n5. **幹細胞由来エクソソームによるSCI治療**：運動機能だけでなく感覚障害・神経障害性疼痛の改善を目指す無細胞治療。脊髄損傷治療の新展開として注目。"
+}

@@ -1,0 +1,136 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "The Interplay Between Klotho, Aldosterone, and Vascular Damage in Chronic Kidney Disease: Insights from a Cross-Sectional Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42816442/",
+        "abstract": "Patients with chronic kidney disease (CKD) are at increased risk of vascular calcification and cardiovascular mortality. Reduced Klotho levels have been associated with vascular damage in CKD through both direct and indirect mechanisms. Klotho deficiency, a hallmark of CKD, has been suggested to contribute to the hyperaldosteronism observed in CKD. This study aimed to evaluate the relationship between serum Klotho (s-Klotho), aldosterone, and vascular damage in CKD.",
+        "source": "PubMed",
+        "doi": "10.1093/joneph/aajag249",
+        "keyword": "Klotho",
+        "title_ja": "慢性腎臓病におけるクロトー、アルドステロン、血管障害の相互作用：横断研究からの知見",
+        "summary_ja": "CKD患者は血管石灰化と心血管死のリスクが高い。Klotho低下はCKDの特徴であり、直接的・間接的機序を介して血管障害や高アルドステロン症に関与するとされる。本研究は横断研究により、血清Klotho（s-Klotho）、アルドステロン、血管障害の関係を評価することを目的とした。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Platelet Factor 4 (PF4) Regulates Hematopoietic Stem Cell Aging",
+        "url": "https://www.semanticscholar.org/paper/8f880ee2dea4785863ec3e9c5a1c7c1bb6febc6c",
+        "abstract": "Hematopoietic stem cells (HSCs) responsible for blood cell production and their bone marrow regulatory niches undergo age-related changes, impacting immune responses and predisposing individuals to hematologic malignancies. Here, we show that the age-related alterations of the megakaryocytic niche and associated downregulation of Platelet Factor 4 (PF4) are pivotal mechanisms driving HSC aging. PF4-deficient mice display several phenotypes reminiscent of accelerated HSC aging, including lymphopenia, increased myeloid output, and DNA damage, mimicking physiologically aged HSCs. Remarkably, recombinant PF4 administration restored old HSCs to youthful functional phenotypes characterized by improved cell polarity, reduced DNA damage, enhanced in vivo reconstitution capacity, and balanced lineage output. Mechanistically, we identified LDLR and CXCR3 as the HSC receptors transmitting the PF4 signal, with double-knockout mice exhibiting exacerbated HSC aging phenotypes similar to PF4-deficient mice. Furthermore, human HSCs across various age groups also respond to the youthful PF4 signaling, highlighting its potential for rejuvenating aged hematopoietic systems. These findings pave the way for targeted therapies aimed at reversing age-related HSC decline with potential implications in the prevention or improvement of the course of age-related hematopoietic diseases.",
+        "source": "SemanticScholar",
+        "doi": "10.1182/blood.2024027432",
+        "keyword": "PF4",
+        "title_ja": "血小板因子4（PF4）は造血幹細胞の老化を制御する",
+        "summary_ja": "造血幹細胞（HSC）の加齢には、骨髄の巨核球ニッチの変化とPlatelet Factor 4（PF4）の低下が関与する。PF4欠損マウスはリンパ球減少、骨髄球増加、DNA損傷などHSC老化様表現型を示す。組換えPF4投与により、老化HSCは細胞極性改善、DNA損傷減少、生体内再構築能向上、系統出力のバランス回復など若返りを示した。受容体はLDLRとCXCR3で、二重欠損マウスはPF4欠損様の老化亢進を示す。ヒトHSCもPF4シグナルに応答し、加齢性造血疾患の治療標的として期待される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Biosome Therapy for Androgenetic Alopecia in a Patient With Incomplete Response to Minoxidil and Finasteride: A Case Report.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42818892/",
+        "abstract": "A 25-year-old man with androgenetic alopecia showed limited response to long-term minoxidil and finasteride. Three monthly Biosome treatment sessions were associated with progressive clinical improvement in apparent hair coverage on serial follow-up photographs, without treatment-related adverse events during the 3-month observation period. This case provides a hypothesis-generating clinical observation supporting further investigation of Biosome-based therapy using standardized and objective outcome measures.",
+        "source": "PubMed",
+        "doi": "10.1002/ccr3.73656",
+        "keyword": "Exosomes",
+        "title_ja": "ミノキシジルとフィナステリドに不完全な反応を示した男性型脱毛症患者に対するバイオソーム療法：症例報告",
+        "summary_ja": "25歳男性の男性型脱毛症患者で、長期のミノキシジルおよびフィナステリド投与に限定的な反応しか示さなかった。月1回、計3回のBiosome治療を行ったところ、経時的な追跡写真で毛髪被覆の進行性改善が認められ、3ヵ月の観察期間中に治療関連有害事象はなかった。本症例は、標準化された客観的評価指標を用いたBiosome療法のさらなる検討を支持する仮説生成的な臨床観察を提供する。"
+      },
+      {
+        "title": "HUCMSCs-Derived Exosomes Attenuate Keloid Fibroblast Pathological Phenotypes with Associated Metabolic-Redox-Matrix Network Remodeling: A Proteomic and ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42818600/",
+        "abstract": "Keloids are fibroproliferative disorders characterized by excessive extracellular matrix deposition, and current treatments remain unsatisfactory because of high recurrence rates. Human umbilical cord mesenchymal stem cell-derived exosomes (HUCMSCs-Exo) have emerged as investigational cell-free candidates for the treatment of fibrotic diseases.",
+        "source": "PubMed",
+        "doi": "10.4274/balkanmedj.galenos.2026.2026-5-27",
+        "keyword": "Exosomes",
+        "title_ja": "HUCMSC由来エクソソームは、関連する代謝-レドックス-マトリックスネットワークのリモデリングを伴ってケロイド線維芽細胞の病的表現型を減弱させる：プロテオミクスおよび",
+        "summary_ja": "ケロイドは細胞外マトリックス過剰沈着を特徴とする線維増殖性疾患で、再発率が高く治療は不十分である。ヒト臍帯間葉系幹細胞由来エクソソーム（HUCMSCs-Exo）は、線維性疾患に対する無細胞治療候補として注目されている。本研究はプロテオミクス解析等を通じ、HUCMSCs-Exoがケロイド線維芽細胞の病的表現型を減弱させ、代謝・レドックス・マトリックスネットワークのリモデリングを伴うことを示した。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Exosomal miR-143-3p released from cancer cells suppresses cervical cancer progression and promotes ferroptosis through directly targeting KLF5.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42817809/",
+        "abstract": "Cervical cancer is the most prevalent gynecological malignancy. Tumor-derived exosomal microRNAs (miRNAs) have been increasingly considered important players in cervical cancer; however, the specific function and molecular mechanism of exosomal miR-143-3p in cervical cancer are unclear. MiR-143-3p and Kruppel-like factor 5 (KLF5) expression were detected using CancerMIRNome, UALCAN, RT-qPCR, and immunoblotting. The cargo information of miR-143-3p was obtained in ExoCarta, and cervical cancer cell-derived exosomes were identified and characterized by transmission electron microscopy (TEM), nanoparticle tracking analysis (NTA), and immunoblotting. CCK-8 and EDU assays were used to detect cell proliferation, while wound healing and Transwell assays were used to detect cell migration and invasion, respectively. TargetScan and luciferase reporter assays were used to predict and test the interaction between miR-143-3p and KLF5. Assay kits were used to measure glutathione (GSH), malondialdehyde (MDA), and reactive oxygen species (ROS) levels. Tumor growth, metastasis, and cervical damage were detected in cervical cancer-bearing mice. Here, miR-143-3p was lowly expressed in cervical cancer tissues and cells and was highly enriched in cervical cancer-derived exosomes. MiR-143-3p mimic inhibited proliferation, migration, and invasion, and induced cell-cycle arrest of cervical cancer cells. MiR-143-3p targeted and downregulated KLF5. KLF5 was overexpressed in cervical cancer, and its silencing suppressed the proliferation, migration, and invasion of cervical cancer cells. Moreover, KLF5 deficiency drove ferroptosis; KLF5 overexpression reversed the impacts of miR-143-3p on tumor growth and metastasis in cervical cancer both ",
+        "source": "PubMed",
+        "doi": "10.14670/HH-25-146",
+        "keyword": "Exosomes",
+        "title_ja": "がん細胞から放出されるエクソソームmiR-143-3pは、KLF5を直接標的とすることで子宮頸がんの進行を抑制し、フェロトーシスを促進する。",
+        "summary_ja": "子宮頸がんは最も一般的な婦人科悪性腫瘍である。腫瘍由来エクソソームmiRNAが注目されているが、エクソソームmiR-143-3pの機能と分子機構は不明であった。本研究でmiR-143-3pは子宮頸がん組織・細胞で低発現し、がん由来エクソソームに高濃縮されることを確認。miR-143-3p mimicは細胞増殖・遊走・浸潤を抑制し細胞周期停止を誘導した。miR-143-3pはKLF5を標的として下方制御し、KLF5は子宮頸がんで過剰発現していた。KLF5サイレンシングは増殖・遊走・浸潤を抑制し、フェロトーシスを誘導した。KLF5過剰発現はmiR-143-3pの腫瘍増殖・転移への影響を逆転させた。以上より、エクソソームmiR-143-3pはKLF5を直接標的として子宮頸がん進行を抑制しフェロトーシスを促進することが示された。"
+      },
+      {
+        "title": "Intrauterine adhesions: Adjunctive strategies beyond hysteroscopic lysis and reconstruction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42817773/",
+        "abstract": "Restoration of the uterine cavity after hysteroscopic adhesiolysis should be evaluated as a combined anatomical and functional endpoint. Anatomical normalization is a necessary prerequisite for implantation, but functional recovery of the endometrium (re-epithelialization, glandular regeneration, vascularization, and hormone responsiveness) is equally critical for reproductive success. Contemporary data show that pregnancy and live birth rates correlate closely with the degree of postoperative cavity restoration, underscoring the prognostic relevance of anatomical repair, while established adjuncts and emerging regenerative therapies are designed to target the biological processes that govern functional endometrial recovery rather than cavity patency alone. In this narrative review, we appraise the current standard of care and the adjuncts proposed to improve it, including postoperative estrogen, mechanical barriers, anti-adhesion gels, platelet-rich plasma, mesenchymal stem cells, exosomes, and bioactive scaffolds. We argue that these interventions should be judged by their ability to achieve durable anatomical restoration coupled with functional endometrial recovery, particularly in moderate-to-severe disease, with reproductive outcomes serving as the ultimate validation. Although biologically plausible and supported by encouraging surrogate and preclinical data, these adjuncts have not yet demonstrated a reproducible improvement in live birth across adequately powered, independently validated trials. We provide a clinically meaningful framework for interpreting current evidence and for guiding future trial design in women with intrauterine adhesions.",
+        "source": "PubMed",
+        "doi": "10.1002/ijgo.71372",
+        "keyword": "Exosomes",
+        "title_ja": "子宮内癒着：子宮鏡下癒着剥離術および再建術を超えた補助的戦略",
+        "summary_ja": "子宮内癒着に対する子宮鏡下癒着剥離術後の子宮腔修復は、解剖学的・機能的両面の複合評価が必要である。解剖学的正常化は着床の前提だが、子宮内膜の機能的回復（再上皮化、腺再生、血管新生、ホルモン反応性）も生殖成功に不可欠である。術後の妊娠率・生児獲得率は腔修復度と相関し、解剖学的修復の予後指標としての重要性が示される。本レビューでは、術後エストロゲン、機械的バリア、抗癒着ゲル、多血小板血漿、間葉系幹細胞、エクソソーム、生体活性スキャフォールドなどの補助療法を評価する。これらは生物学的妥当性や前臨床データに支持されるが、十分な検出力と独立検証を経た試験で生児獲得率の再現性ある改善は未証明である。中等度〜重度症例では、持続的解剖学的修復と機能的回復を両立し、生殖アウトカムで最終検証する枠組みが必要である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Small and Large Seminal Extracellular Vesicles Differentially Modulate Capacitation-Related Parameters in Frozen-Thawed Porcine Epididymal Spermatozoa.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42816956/",
+        "abstract": "Seminal extracellular vesicles (sEVs) have been proposed as modulators of sperm function, but their exact role remains unclear. Most studies use ejaculated sperm for clarification. This approach has limitations; nevertheless, as ejaculated sperm have already been exposed to their own native sEVs, which hinders the assessment of their specific roles. This study aimed to evaluate the potential impact of small (S-) and large (L-) sEVs on capacitation-related parameters of epididymal porcine spermatozoa. Frozen-thawed epididymal sperm were incubated in a non-capacitating medium with or without S- or L-sEVs at 37°C under 5% CO",
+        "source": "PubMed",
+        "doi": "10.1111/rda.70222",
+        "keyword": "sEVs",
+        "title_ja": "小型および大型の精漿由来細胞外小胞は、凍結融解したブタ精巣上体精子の受精能獲得関連パラメータを異なる様式で調節する。",
+        "summary_ja": "精液由来細胞外小胞（sEVs）は精子機能の調節因子として提案されているが、その役割は不明な点が多い。射出精子は既に自身のsEVsに曝露されているため、その特異的役割の評価が困難である。本研究では、凍結融解したブタ精巣上体精子を用い、非受精能獲得培地中で小（S-）および大（L-）sEVsが受精能獲得関連パラメータに与える影響を検討した。37℃、5% CO₂条件下でS-またはL-sEVsと共にインキュベートし、両者が異なる形でパラメータを調節する可能性を評価した。"
+      },
+      {
+        "title": "Seminal Extracellular Vesicles as Molecular Modulators of Male Reproductive Function.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42816910/",
+        "abstract": "Extracellular vesicles (sEVs) contained in seminal plasma (SP) maintain, in concert with free SP-components (proteins, hormones, cytokines, metabolites and antioxidants) under an endocrine umbrella the functional in vivo homeostasis of ejaculated spermatozoa. The sEVs define a generic mixture of nanovesicles delivered by male epithelial cells, from the testis to the accessory glands, where their lipid membrane encloses and protects a load of proteins, nucleic acids, enzymes, and lipids. This cargo can, following molecular uploading to target cells, dynamically interplay with spermatozoa allowing membrane remodelling pre-fertilization. It can also interact with the lining epithelia of the female internal reproductive tract to induce gene expression changes, modifying ovulation timing and the female immune system leading to tolerate paternal epitopes. This review critically summarizes experimental evidence of the function of the sEVs on fertility, for their primary relevance as diagnostic and fertility biomarkers envisioning possible use of molecular components to select breeding sires, as well as for eventual additives to improve sperm cryosurvival or refine reproductive strategies, including in vitro ARTs. Since methodological stringency is a priority, particular attention is given to sEVs isolation, characterization and experimentation, bound with eventual risks of nanoplastic contamination, keeping view of the delicate balance between SP- and sEVs-molecules and their concerted effects on male fertility.",
+        "source": "PubMed",
+        "doi": "10.1111/rda.70217",
+        "keyword": "sEVs",
+        "title_ja": "精漿細胞外小胞：男性生殖機能の分子調節因子として",
+        "summary_ja": "精漿中の細胞外小胞（sEVs）は、遊離の精漿成分（タンパク質、ホルモン、サイトカイン、代謝物、抗酸化物質）と協調し、射精精子の生体内恒常性を維持する。sEVsは精巣から付属腺までの雄性上皮細胞由来のナノ小胞の総体で、脂質膜がタンパク質、核酸、酵素、脂質を内包・保護する。標的細胞への分子受け渡し後、受精前の膜リモデリングを可能にし、雌性生殖管上皮と相互作用して遺伝子発現を変化させ、排卵時期や雌性免疫系を調節し父方エピトープへの寛容を誘導する。本レビューは、sEVsの受精能への関与、診断・受精能バイオマーカーとしての意義、種雄選抜や精子凍結生存性改善、ARTsへの応用可能性を批判的に総括する。方法論的厳密性を重視し、sEVs単離・特性評価・実験とナノプラスチック汚染リスク、精漿分子とsEVs分子の微妙なバランスと雄性受精能への相乗効果に留意する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の注目トピック5選：\n\n1. **KlothoとCKD血管障害**：血清Klotho低下がアルドステロン増加を介し血管石灰化を促進する機序が横断研究で示された。Klotho補充療法はCKD心血管死抑制の新戦略となり得る。\n\n2. **PF4による造血幹細胞老化制御**：PF4欠損がHSC老化様表現型を誘導し、組換えPF4投与で若返りが確認された。加齢性血液疾患への治療応用が期待される。\n\n3. **HUCMSCsエクソソームのケロイド治療**：幹細胞由来エクソソームが線維芽細胞の病的表現型を代謝・酸化還元・マトリクス再構築を介して改善。難治性ケロイドへの無細胞療法として有望。\n\n4. **エクソソームmiR-143-3pと子宮頸がん**：腫瘍由来エクソソームmiR-143-3pがKLF5標的制御を介しフェロトーシスを誘導しがん進展を抑制。新規バイオマーカー・治療標的候補。\n\n5. **精液sEVsの雄性生殖機能調節**：大小のsEVsが精子受精能獲得を異質に制御。男性不妊診断・生殖補助医療への応用可能性を示す。"
+}

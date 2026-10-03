@@ -1,0 +1,156 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "βKlotho filters ligand-independent FGFR1/4-PLCγ signaling to prevent aberrant constitutive Ca",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42825310/",
+        "abstract": "Fibroblast growth factor receptors 1 and 4 (FGFR1/4) regulate diverse cellular processes, including proliferation, differentiation, and metabolic homeostasis. Although ligand-dependent FGFR signaling has been extensively characterized, the signaling properties of these receptors in their ligand-independent state remain poorly understood. Here, we investigated the intrinsic signaling outputs of FGFR1 and FGFR4 in the absence of ligands using quantitative immunoblotting and electrophysiological analyses. Overexpression of FGFR1 or FGFR4 alone robustly increased the phosphorylation of phospholipase Cγ (PLCγ) and extracellular signal-regulated kinase 1/2 (ERK1/2), whereas activation of the PI3K-Akt pathway was minimal. Strikingly, co-expression of the co-receptor βKlotho acted as a molecular switch, selectively suppressing FGFR-driven PLCγ phosphorylation while preserving ERK1/2 signaling. Functionally, this βKlotho-dependent attenuation of PLCγ signaling markedly reduced the sustained TRPC6-mediated currents observed in βKlotho-deficient cells, linking constitutive FGFR-PLCγ coupling to aberrant Ca",
+        "source": "PubMed",
+        "doi": "10.4196/kjpp.26.060",
+        "keyword": "Klotho",
+        "title_ja": "βKlothoはリガンド非依存性のFGFR1/4-PLCγシグナル伝達をフィルタリングし、異常な恒常性Caを防ぐ",
+        "summary_ja": "FGFR1/4はリガンド非依存的にもPLCγとERK1/2のリン酸化を亢進させるが、PI3K-Akt経路の活性化は最小限である。共受容体βKlothoの共発現は分子スイッチとして働き、FGFR依存性PLCγリン酸化を選択的に抑制しつつERK1/2シグナルは保持する。このPLCγ抑制はβKlotho欠損細胞で見られるTRPC6媒介持続電流を著明に減少させ、構成的FGFR-PLCγ連関と異常Ca²⁺流入の関連を示す。"
+      },
+      {
+        "title": "Statement of Retraction: Recombinant human klotho protects against hydrogen peroxide-mediated injury in human retinal pigment epithelial cells via the PI3K/Akt-Nrf2/HO-1 signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42821452/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1080/21655979.2026.2730757",
+        "keyword": "Klotho",
+        "title_ja": "撤回声明：重组人klotho通过PI3K/Akt-Nrf2/HO-1信号通路保护人视网膜色素上皮细胞免受过氧化氢介导的损伤",
+        "summary_ja": "本論文は撤回されました。内容は、組換えヒトクロトーが過酸化水素によるヒト網膜色素上皮細胞の障害をPI3K/Akt-Nrf2/HO-1シグナル伝達経路を介して保護するというものでした。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "A novel combination therapy for effective treatment of cancer by designed anti-immunosuppressive nanoregulator and radiofrequency ablation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42648263/",
+        "abstract": "Radiofrequency ablation (RFA) remains one of the effective therapeutic modalities for treatment of hepatocellular carcinoma (HCC). However, incomplete RFA (iRFA) frequently creates an immunosuppressive microenvironment (ISME) in tumors, which markedly jeopardizes therapeutic benefits. To overcome this therapeutic hurdle, we designed a completely new ZIF-8-NH",
+        "source": "PubMed",
+        "doi": "10.1016/j.biomaterials.2026.124561",
+        "keyword": "NK cell therapy",
+        "title_ja": "設計された抗免疫抑制ナノ制御剤と高周波焼灼術によるがんの効果的な治療のための新規併用療法",
+        "summary_ja": "RFAは肝細胞癌（HCC）治療の有効な手段だが、不完全RFA（iRFA）は腫瘍内に免疫抑制微小環境（ISME）を形成し治療効果を損なう。この課題を克服するため、新規ZIF-8-NH…（以下略）"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "PAK4 exacerbates melanoma immunosuppression by promoting exosome release.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42826135/",
+        "abstract": "Melanoma remains a lethal malignancy with frequent resistance to immune checkpoint blockade therapy. Clinical evidence associates elevated PAK4 expression with poor response to anti-PD-1 treatment in melanoma patients. While tumor-derived exosomes are recognized as key immunosuppressive mediators, the role of PAK4 in regulating exosome secretion to induce immunosuppression remains incompletely understood. Here, we demonstrate that PAK4-mediated phosphorylation of Annexin-A2 (ANXA2) at Ser26 promotes its nuclear-to-cytoplasmic translocation, facilitating the formation of S100A10-ANXA2 heterotetramers that drive multivesicular body docking to the plasma membrane. Furthermore, PAK4 stabilizes synaptotagmin-1 by suppressing Trim21-mediated ubiquitin degradation, enabling SNARE complex assembly for membrane fusion. PAK4-driven exosomes exhibit potent immunosuppressive activity, substantially reducing CD8",
+        "source": "PubMed",
+        "doi": "10.1073/pnas.2536086123",
+        "keyword": "Exosomes",
+        "title_ja": "PAK4はエクソソーム放出を促進することでメラノーマの免疫抑制を悪化させる。",
+        "summary_ja": "メラノーマは免疫チェックポイント阻害療法に抵抗性を示す致死性悪性腫瘍である。PAK4高発現は抗PD-1治療の不良な反応と関連する。腫瘍由来エクソソームは免疫抑制の鍵を担うが、PAK4によるエクソソーム分泌制御機構は未解明であった。本研究では、PAK4がANXA2のSer26をリン酸化し、核から細胞質への移行を促進、S100A10-ANXA2ヘテロ四量体形成を介して多胞体の細胞膜ドッキングを駆動することを示す。さらにPAK4はTrim21依存性ユビキチン分解を抑制しsynaptotagmin-1を安定化、SNARE複合体形成による膜融合を可能にする。PAK4駆動エクソソームは強力な免疫抑制活性を示し、CD8陽性T細胞を大幅に減少させる。"
+      },
+      {
+        "title": "Statement of retraction: Tumor-associated fibroblasts derived exosomes induce the proliferation and cisplatin resistance in esophageal squamous cell carcinoma cells through RIG-I/IFN-β signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42822021/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1080/21655979.2026.2731275",
+        "keyword": "Exosomes",
+        "title_ja": "撤回声明：肿瘤相关成纤维细胞来源的外泌体通过RIG-I/IFN-β信号通路诱导食管鳞状细胞癌细胞的增殖和顺铂耐药。",
+        "summary_ja": "申し訳ありませんが、要約対象の論文本文（Abstractや全文）が提供されていないため、内容を正確に要約することができません。タイトルから推測できる範囲は以下です。\n\n本論文は、食道扁平上皮癌（ESCC）において、腫瘍関連線維芽細胞（TAF）由来エクソソームがRIG-I/IFN-βシグナル伝達を介して癌細胞の増殖とシスプラチン耐性を誘導するという研究でしたが、撤回（retraction）されました。\n\n正確な要約のため、論文本文をご提供ください。"
+      },
+      {
+        "title": "SAP-Derived Exosomes Promote Intestinal Barrier Injury Through FKBP5-Mediated Suppression of RIPK3/MLKL Signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42820250/",
+        "abstract": "To investigate the role of circulating exosomes in intestinal barrier dysfunction during severe acute pancreatitis (SAP) and to elucidate the underlying molecular mechanisms, with a particular focus on Fkbp5-mediated suppression of RIPK3/MLKL necroptotic signaling. Serum exosomes were isolated from early-stage SAP patients and healthy controls and characterized by transmission electron microscopy (TEM) and nanoparticle tracking analysis (NTA). A mouse model of SAP was induced by repeated intraperitoneal injections of caerulein followed by lipopolysaccharide (LPS) administration, and interventions with the exosome release inhibitor GW4869, the Fkbp5 inhibitor SAFit2, and the RIPK3 inhibitor GSK872 were performed. Histological staining, immunohistochemistry, serum biomarker assays, intestinal permeability tests, and transcriptomic sequencing were used to evaluate the effects of exosomes and Fkbp5 on intestinal injury associated with SAP. An exosome readministration experiment was performed after GW4869 treatment, and membrane-associated p-MLKL was assessed by dual immunofluorescence staining with E-cadherin. Serum exosome levels were significantly elevated in SAP patients. Circulating exosomes from SAP mice promoted intestinal epithelial barrier disruption and inflammatory responses. GW4869 treatment significantly improved pancreatic and intestinal histopathological injury, reduced serum inflammatory markers and intestinal permeability, and downregulated Fkbp5 expression in intestinal tissues. Transcriptomic analysis and qRT-PCR validation revealed that Fkbp5 was markedly upregulated in the intestines of SAP mice. Inhibition of Fkbp5 restored the phosphorylation of RIPK3 and MLKL, attenuating intestinal injury in SAP mice, while FKBP12 inhibition conferred no protective effect. In vitro, SAP-derived exosomes suppressed necroptosis signaling in intestinal epithelial cells, whereas GW4869 reversed this suppression. Readministration of SAP-derived, but not control-derived, exosomes partially restored pancreatic and intestinal injury after GW4869 treatment, accompanied by increased intestinal FKBP5 expression, reduced Occludin and Claudin-1 expression, and decreased membrane-associated p-MLKL. Furthermore, inhibition of RIPK3 by GSK872 aggravated pancreatic and intestinal injury in SAP mice. These findings suggest that circulating exosomes in severe acute pancreatitis may upregulate Fkbp5, thereby suppressing the necroptotic pathway and consequently disrupting intestinal homeostasis. Circulating exosomes in SAP exacerbate intestinal barrier dysfunction by upregulating Fkbp5, which suppresses the RIPK3/MLKL necroptotic signaling pathway. Targeting the exosome-Fkbp5 axis may offer a therapeutic strategy for SAP-related intestinal injury.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202600180RR",
+        "keyword": "Exosomes",
+        "title_ja": "SAP由来エクソソームはFKBP5を介したRIPK3/MLKLシグナルの抑制を通じて腸管バリア障害を促進する",
+        "summary_ja": "重症急性膵炎（SAP）における腸管バリア障害への循環エクソソームの関与と、Fkbp5を介したRIPK3/MLKLネクロプトーシスシグナル抑制の分子機構を検討した。SAP患者血清エクソソームは有意に増加し、SAPマウス由来エクソソームは腸管上皮バリア破綻と炎症を促進した。GW4869投与は膵・腸の病理学的障害を改善し、Fkbp5発現を低下させた。Fkbp5はSAPマウス腸管で顕著に上昇し、その阻害はRIPK3/MLKLのリン酸化を回復し腸管障害を軽減した。SAP由来エクソソーム再投与はGW4869の保護効果を部分的に消失させ、FKBP5上昇、Occludin/Claudin-1低下、膜結合型p-MLKL減少を伴った。RIPK3阻害は障害を悪化させた。以上より、SAP循環エクソソームはFkbp5を上昇させRIPK3/MLKLネクロプトーシスを抑制し腸管恒常性を破綻させる。エクソソーム-Fkbp"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Decoding Long Noncoding RNAs in Cardiac Development and Congenital Heart Disease: Recent Advances and Clinical Perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42825329/",
+        "abstract": "Long noncoding RNAs (lncRNAs) have emerged as crucial regulators in cardiac development and congenital heart disease. With advances in high-throughput sequencing, single-cell omics, and epigenetic profiling, accumulating evidence suggests that lncRNAs participate in transcriptional, posttranscriptional, and structural remodeling processes underlying cardiac morphogenesis. This in-depth review summarizes recent progress in elucidating the roles of lncRNAs in heart development and congenital heart disease pathogenesis. Specifically, we discuss how lncRNAs modulate key developmental signaling pathways, including Notch, Wnt/β-catenin, BMP, and TGF-β, through interactions with chromatin modifiers, transcription factors, and microRNAs. Representative cardiac-enriched lncRNAs, such as ",
+        "source": "PubMed",
+        "doi": "10.1161/CIRCGEN.125.005691",
+        "keyword": "Exosomes",
+        "title_ja": "心臓発生と先天性心疾患における長鎖非コードRNAの解読：最近の進歩と臨床的展望",
+        "summary_ja": "本レビューは、心臓発生と先天性心疾患におけるlong noncoding RNA（lncRNA）の役割に関する最近の進展をまとめている。ハイスループットシーケンス、single-cell omics、エピジェネティックプロファイリングの進歩により、lncRNAが心臓形態形成の転写・転写後・構造リモデリング過程に関与することが示唆されている。特に、lncRNAがクロマチン修飾因子、転写因子、microRNAとの相互作用を通じて、Notch、Wnt/β-catenin、BMP、TGF-βなどの主要な発生シグナル経路を調節する仕組みを論じ、心臓 enriched lncRNAの代表例も取り上げている。"
+      },
+      {
+        "title": "Metabolic reprogramming in diabetic panvascular disease: Molecular mechanism and therapeutic strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42823960/",
+        "abstract": "Diabetes mellitus substantially increases the risk of cardiovascular, cerebrovascular, renal, retinal and peripheral vascular complications. These are collectively referred to as diabetic panvascular disease. A traditional approach that treats each complication separately is no longer sufficient. An emerging framework places metabolic reprogramming at its center. This review examines how the diabetic environment, including hyperglycemia, insulin resistance, and dyslipidemia, rewires core metabolic pathways in vascular cells. Major changes include the diversion of glucose through the polyol, hexosamine and AGE-PKC axes, lipotoxicity resulting from excessive fatty acids, disruption of amino acid networks such as BCAA and one-carbon metabolism, mitochondrial dysfunction with increased mtROS production, and epigenetic modifications that drive metabolic memory. These interconnected abnormalities promote oxidative stress and chronic inflammation, which in turn lead to endothelial dysfunction, atherosclerosis, microvascular rarefaction, and end-organ damage in the heart, brain, kidney, retina, and peripheral nerves. We also describe the current therapeutic landscape, ranging from established agents such as metformin, SGLT2 inhibitors, GLP-1 receptor agonists, RAAS blockers, and anti-VEGF therapies to emerging mechanism-based strategies including aldose reductase inhibitors, glucokinase activators, PKC, RAGE, NOX, and NLRP3 inhibitors, miRNA modulators, and exosome therapy. Finally, we highlight unmet needs and future directions. These may include multi-omics guided precision phenotyping, cross-organ causal inference, single-cell metabolic flux technologies, and adaptive clinical trial designs. By shifting from a glucose-centric to a metabolic reprogramming-centric paradigm, this review aims to provide a roadmap for developing more targeted therapies for diabetic panvascular disease.",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.117578",
+        "keyword": "Exosomes",
+        "title_ja": "糖尿病性汎血管疾患における代謝リプログラミング：分子機構と治療戦略",
+        "summary_ja": "糖尿病は心血管・脳血管・腎・網膜・末梢血管合併症のリスクを高め、これらは糖尿病性汎血管疾患と呼ばれる。従来の個別治療では不十分であり、代謝リプログラミングを中心とする枠組みが注目されている。本レビューでは、高血糖・インスリン抵抗性・脂質異常症が血管細胞の代謝経路を再配線する機序を検討する。ポリオール・ヘキソサミン・AGE-PKC経路へのグルコース流入、脂肪酸過剰によるリポトキシシティ、BCAAや一炭素代謝などのアミノ酸ネットワーク障害、mtROS増加を伴うミトコンドリア機能不全、代謝記憶を駆動するエピジェネティック修飾が主要変化である。これらは酸化ストレスと慢性炎症を促進し、内皮機能障害、動脈硬化、微小血管減少、心・脳・腎・網膜・末梢神経の臓器障害を招く。治療はメトホルミン、SGLT2阻害薬、GLP-1受容体作動薬、RAAS阻害薬、抗VEGF療法から、アルドース還元酵素阻害薬、グルコキナー"
+      },
+      {
+        "title": "Statement of Retraction: Bone mesenchymal stem cells (BMSCs)-derived exosomal microRNA-21-5p regulates Kruppel-like factor 3 (KLF3) to promote osteoblast proliferation ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42821769/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1080/21655979.2026.2729856",
+        "keyword": "Exosomes",
+        "title_ja": "撤回声明：骨间充质干细胞（BMSCs）来源的外泌体microRNA-21-5p通过调控Kruppel样因子3（KLF3）促进成骨细胞增殖",
+        "summary_ja": "申し訳ありませんが、要約対象の論文本文（Abstractや本文テキスト）が提供されていないため、内容を正確に要約することができません。タイトルと「撤回表明（Statement of Retraction）」という情報のみでは、研究の詳細や撤回理由を確認できないためです。\n\n本文をご提供いただければ、400文字以内で日本語に要約いたします。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Myogenic differentiation-derived small extracellular vesicles as a therapeutic strategy for miR-193b-3p-mediated muscle regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42823972/",
+        "abstract": "The regeneration of skeletal muscle involves precisely regulated intercellular communication, including extracellular vesicle (EV)-mediated processes. In this study, we show that during ",
+        "source": "PubMed",
+        "doi": "10.1016/j.omtn.2026.103087",
+        "keyword": "sEVs",
+        "title_ja": "筋分化由来の小型細胞外小胞は、miR-193b-3pを介した筋再生の治療戦略となり得る",
+        "summary_ja": "筋再生は細胞間コミュニケーションにより制御され、細胞外小胞（EV）が関与する。本研究では、筋分化過程で分泌されるsmall EV（sEV）に注目し、miR-193b-3pを介した筋再生治療戦略を検討した。筋分化由来sEVが筋再生を促進し、miR-193b-3pがその鍵分子として機能することを示した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の注目トピック5選：\n\n1. **βKlothoのFGFRシグナル制御**：βKlothoがFGFR1/4のリガンド非依存性PLCγシグナルを選択的に抑制する分子スイッチとして機能することが判明。受容体シグナルの精密制御機構の理解が進み、がん・代謝疾患への応用が期待される。\n\n2. **PAK4によるエクソソーム分泌と免疫抑制**：PAK4高発現がメラノーマの抗PD-1抵抗性と関連し、エクソソーム分泌を促進して免疫抑制を増悪させる機構が解明された。免疫チェックポイント阻害療法の効果予測・改善に重要な知見。\n\n3. **SAP由来エクソソームと腸管バリア障害**：重症急性膵炎患者の血清エクソソームがFKBP5を介してRIPK3/MLKLネクロプトーシスを抑制し腸管障害を引き起こす機構を解明。新規治療標的として有望。\n\n4. **心臓発生におけるlncRNA**：single-cell omicsやエピジェネティック解析の進歩により、先天性心疾患におけるlncRNAの役割が明らかに。診断・治療への臨床応用が期待される。\n\n5. **筋分化由来sEVによる筋再生**：筋分化過程で分泌されるsEVがmiR-193b-3pを介して筋再生を促進。細胞を用いない新規再生治療戦略として注目される。\n\n※複数の撤回論文が含まれており、研究の再現性・诚信性管理の重要性も示唆される。"
+}

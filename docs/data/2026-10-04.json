@@ -1,0 +1,73 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Platelet GPVI drives fibrotic lung remodeling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42826704/",
+        "abstract": "Platelets are a major reservoir of bioactive mediators, including growth factors such as transforming growth factor β1 (TGF-β1), that regulate vascular repair and tissue remodeling. Beyond these classical functions, platelets also participate in inflammatory hemostasis through activation pathways that differ from those engaged during hemostatic thrombus formation. However, the platelet mechanisms linking inflammatory vascular activation to chronic fibrotic remodeling remain poorly defined. Here, we identify the immunoreceptor tyrosine-based activation motif (ITAM)-coupled platelet receptor glycoprotein VI (GPVI) as a critical driver of fibrotic lung remodeling. We observed that platelets accumulated within fibrotic regions of lungs from patients with idiopathic pulmonary fibrosis and from mice with bleomycin-induced lung injury and displayed a preactivated phenotype characterized by P-selectin exposure and integrin αIIbβ3 activation. Using genetic mouse models, we demonstrate that platelet aggregation mediated by integrin β3 is dispensable for the development of lung fibrosis. Similarly, signaling through the ADP receptor P2Y12 was also dispensable. In contrast both genetic deletion and pharmacological inhibition of GPVI protected mice from bleomycin-induced mortality and markedly reduced lung fibrosis. Mechanistically, both GPVI deficiency and pharmacological GPVI inhibition reduced the early release of the platelet chemokine PF4 into bronchoalveolar lavage fluid, whereas TGF-β1 levels were unaffected. Consistently, PF4-deficient mice were protected from bleomycin-induced fibrosis, and PF4 directly promoted fibroblast differentiation and collagen gene expression in vitro. Together, these findings identify GPVI as a critical upstream regulator of platelet-driven fibrotic lung remodeling and support a model in which GPVI-dependent PF4 release contributes to pulmonary fibrosis independently of platelet aggregation.",
+        "source": "PubMed",
+        "doi": "10.1182/bloodadvances.2026020665",
+        "keyword": "PF4",
+        "title_ja": "血小板GPVIが線維性肺リモデリングを促進する。",
+        "summary_ja": "血小板はTGF-β1等の生理活性メディエーターを豊富に含み、炎症性止血に関与する。本論文は、ITAM結合型血小板受容体GPVIが線維性肺リモデリングの重要ドライバーであることを示した。特発性肺線維症患者およびブレオマイシン誘発肺障害マウスの線維化領域に血小板が集積し、P-セレクチン露出とαIIbβ3活性化を特徴とする前活性化状態を呈した。遺伝子マウスモデルにより、インテグリンβ3依存性血小板凝集およびADP受容体P2Y12シグナルは肺線維症に不要である一方、GPVIの遺伝的欠失と薬理学的阻害は死亡率と肺線維症を著明に抑制した。機序として、GPVI欠損・阻害はBALF中の血小板ケモカインPF4の早期放出を減少させたがTGF-β1は不変であった。PF4欠損マウスも保護され、PF4はin vitroで線維芽細胞分化とコラーゲン遺伝子発現を直接促進した。以上より、GPVI依存性PF4放出が血小板凝"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Self-Assembling Peptide-Adjuvant Conjugate (SaPAC) Platform for Precision Cancer Immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42827008/",
+        "abstract": "Peptide cancer vaccines often suffer from poor lymphatic drainage, limited antigen-presenting cell uptake, and weak innate immune activation. To overcome these barriers, we engineered the Self-Assembling Peptide-Adjuvant Conjugate (SaPAC) platform, which covalently links neoantigen epitopes to the TLR7 agonist 1V209 through site-selective lysine conjugation. Synthesized by Fmoc solid-phase peptide synthesis, SaPAC conjugates self-assemble into cationic nanoparticles with hydrodynamic diameters of approximately 100-200 nm. Compared with unconjugated self-assembling peptide nanoparticles mixed with soluble adjuvant, SaPAC nanoparticles enhanced lymphatic drainage and antigen persistence in draining lymph nodes. Mechanistically, SaPAC activated the TLR7-MyD88 axis, promoted plasmacytoid dendritic cell and macrophage recruitment, drove APC maturation (CD80",
+        "source": "PubMed",
+        "doi": "10.1002/advs.77632",
+        "keyword": "NK cell therapy",
+        "title_ja": "精密がん免疫療法のための自己集合ペプチド・アジュバント複合体（SaPAC）プラットフォーム",
+        "summary_ja": "ペプチドがんワクチンはリンパ流動、抗原提示細胞への取り込み、自然免疫活性化に課題がある。これを克服するため、新抗原エピトープをTLR7アゴニスト1V209にリジン部位選択的結合で共有結合させた自己集合型ペプチドアジュバント複合体（SaPAC）プラットフォームを開発した。Fmoc固相ペプチド合成で作製したSaPACは、約100～200nmのカチオン性ナノ粒子を自己集合形成する。可溶性アジュバント混合の非複合体ナノ粒子と比較し、SaPACはリンパ流動と所属リンパ節での抗原持続性を高めた。機序としてTLR7-MyD88軸を活性化し、形質細胞様樹状細胞やマクロファージの動員、APC成熟（CD80…）を促進する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **血小板GPVIと肺線維化**：GPVIが線維性肺リモデリングの重要ドライバーと判明。IPF治療標的として有望で、抗GPVI薬の臨床応用が期待される。\n\n2. **SaPACがんワクチン**：新抗原ペプチドとTLR7アゴニストを自己集合化。リンパ流動・抗原提示・自然免疫活性化の課題を克服し、精密がん免疫療法の新基盤となる。\n\n3. **Klotho**：加齢抑制因子として腎保護・認知機能維持に寄与。補充療法や可溶型Klothoのバイオマーカー応用が今後の焦点。\n\n4. **PF4**：血小板由来ケモカインで免疫調節・造血制御に関与。血栓症や感染防御における役割解明が進み、治療応用が模索される。\n\n5. **Exosomes/sEVs**：細胞間通信を担う小胞で、疾患バイオマーカー・Drug Delivery Systemとして注目。標準化と臨床実装が今後の課題。\n\nこれらは線維化・免疫・加齢・再生医療を横断し、次世代治療の融合的展開を示す。"
+}

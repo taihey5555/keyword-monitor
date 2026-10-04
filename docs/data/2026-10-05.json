@@ -1,0 +1,125 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Corrigendum to \"SOX2 and NTF3 expression are associated with taste-bud alterations in aging klotho-deficient mice\" [Mech. Ageing Develop. (2026) 112259].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42829273/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.mad.2026.112262",
+        "keyword": "Klotho",
+        "title_ja": "「加齢klotho欠損マウスにおける味蕾の変化にSOX2およびNTF3の発現が関連する」に対する訂正［Mech. Ageing Develop. (2026) 112259］。",
+        "summary_ja": "ご提示いただいた情報には、タイトルと「Corrigendum（訂正記事）」であるという情報のみが含まれており、本文の内容が含まれていません。そのため、要約を作成することができません。\n\n本文のテキストを貼り付けていただければ、400文字以内で要約いたします。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Engineering \"off-the-shelf\" TCR-T cells: A transient mRNA platform for balanced alloreactivity and functionality.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42828101/",
+        "abstract": "Adoptive T cell therapy using T cell receptor (TCR)-engineered T (TCR-T) cells shows promise for the treatment of cancer. Our lab employs mRNA electroporation to redirect T cell specificity toward HBV antigens expressed on HBV-related HCC, while exploiting mRNA's transient nature to limit toxicity. Here, we first demonstrated that peripheral blood mononuclear cells (PBMCs) from solid cancer patients are inferior manufacturing sources compared with healthy donors, showing reduced manufacturability and lower naive T cell frequencies. Since these limitations necessitate shifting to allogeneic \"off-the-shelf\" TCR-T products from healthy donors, we developed a non-gene-editing platform to produce such TCR-T cells. We addressed host-versus-graft rejection by combining transient tacrolimus-induced immunosuppression with immunosuppressive drug-resistant armored (IDRA) TCR-T cells. To reduce the risk of graft-versus-host disease, we optimized manufacturing using an IL-2/4/7 cytokine cocktail. The resulting TCR-T cells exhibited reduced alloreactivity, a less NK-like phenotype, and elevated IL-4/IL-10 secretion, while maintaining robust antigen-specific cytotoxicity and migratory capacity. This study provides an ",
+        "source": "PubMed",
+        "doi": "10.1016/j.omton.2026.201335",
+        "keyword": "NK cell therapy",
+        "title_ja": "既製のTCR-T細胞の設計：同種反応性と機能性のバランスを実現する一過性mRNAプラットフォーム",
+        "summary_ja": "本論文は、mRNA電気穿孔法によりHBV関連肝細胞癌のHBV抗原を標的とするTCR-T細胞療法の開発を報告する。固形癌患者由来PBMCは健常者と比べ製造適性やナイーブT細胞頻度が低く、同種「既製」TCR-T製品への移行が必要とされた。そこで遺伝子編集を要さないプラットフォームを開発し、宿主対移植片拒絶にはタクロリムスによる一過性免疫抑制とIDRA TCR-T細胞を組み合わせ、移植片対宿主病リスクにはIL-2/4/7カクテルによる製造最適化で対処した。得られたTCR-T細胞は同種反応性とNK様表現型が低下し、IL-4/IL-10分泌が増加しつつ、抗原特異的細胞傷害性と遊走能を維持した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Liquid biopsy for early detection and biomarker applications in gynecological cancers: current status and future directions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42829044/",
+        "abstract": "Liquid biopsy is a minimally invasive approach to early detection and biomarker assessment in gynecological cancers. This structured review synthesizes evidence on circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), exosomal non-coding RNAs, epigenetic markers (methylation and fragmentation), and multi-omics signatures across ovarian, endometrial, cervical, vulvar, and vaginal malignancies. A structured search of PubMed/MEDLINE, Embase, Scopus, Web of Science, and the Cochrane Library identified studies evaluating early detection, predictive and prognostic performance, therapy monitoring, minimal residual disease (MRD) detection, resistance mechanisms, and clinical implementation; each quantitative estimate was assigned an evidence tier reflecting study design and validation status. Multi-omics integration outperforms single-analyte approaches, with a prospective gynecological cohort reporting approximately 82% sensitivity at 97-99% specificity. ctDNA methylation and fragmentomics exceed CA125 in ovarian and endometrial cancers, and cfHPV-DNA shows high specificity in cervical disease. ctDNA dynamics are associated with PARP inhibitor response, MRD status and BRCA reversion-mediated resistance, and detect recurrence before imaging. Reported hazard ratios vary widely but differ in cohort, assay platform and sampling timepoint, and are not directly comparable. Almost all detection estimates derive from retrospective or case-control designs that overestimate performance, and none has been externally and prospectively validated; circulating HPV DNA in cervical cancer is the only marker with prospective trial-level prognostic support. No liquid biopsy assay holds an FDA or EMA indication for any gynecological cancer; pan-tumor clearances exist, but no gynecology-specific companion diagnostic, and no major oncology society recommends use outside clinical trials. Liquid biopsy complements but cannot replace tissue biopsy for diagnosis, subtyping and grading. Randomized trials controlling for lead-time bias are required to establish clinical utility.",
+        "source": "PubMed",
+        "doi": "10.1016/j.cca.2026.122873",
+        "keyword": "Exosomes",
+        "title_ja": "婦人科がんにおける早期発見およびバイオマーカー応用のためのリキッドバイオプシー：現状と今後の方向性",
+        "summary_ja": "婦人科癌におけるリキッドバイオプシーは、ctDNA、CTC、エクソソーム非コードRNA、メチル化・断片化などのエピジェネティックマーカー、マルチオミクス署名を用いる低侵襲的アプローチである。マルチオミクス統合は単一解析より優れ、前向きコホートで感度約82%、特異度97-99%と報告される。ctDNAメチル化・フラグメントミクスは卵巣・子宮体癌でCA125を上回り、cfHPV-DNAは子宮頸部病変で高特異度を示す。ctDNA動態はPARP阻害薬反応、MRD、BRCA復帰変異による耐性と関連し、画像より早期に再発を検出する。しかし大半は後ろ向き・症例対照研究で性能を過大評価し、外部前向き検証はない。子宮頸癌のcirculating HPV DNAのみ前向き試験レベルの予後支持がある。FDA/EMAの婦人科癌適応はなく、主要学会も臨床試験外使用を推奨しない。リキッドバイオプシーは組織生検を補完す"
+      },
+      {
+        "title": "Corrigendum to \"Surface-enhanced Raman spectroscopy of serum exosomes coupled with support vector machine for diagnosis of Parkinson's disease\" [Spectrochim. Acta Part A: Molecul. Biomolecul. Spectrosc. 353 (2026) 127573].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42828938/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.saa.2026.128860",
+        "keyword": "Exosomes",
+        "title_ja": "「血清エクソソームの表面増強ラマン分光法とサポートベクターマシンを組み合わせたパーキンソン病診断」に対する訂正記事 [Spectrochim. Acta Part A: Molecul. Biomolecul. Spectrosc. 353 (2026) 127573]。",
+        "summary_ja": "ご提示いただいた内容は訂正記事（Corrigendum）の書誌情報のみで、本文が含まれていないため要約できません。本文をお送りください。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Adipocyte-derived exosomal ANGPTL2 promotes beta cell dysfunction via the EIF2α/ATF4/CHOP stress pathway in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42829353/",
+        "abstract": "Obesity-associated lipotoxicity drives beta cell failure in type 2 diabetes, but the adipose-to-islet signals that promote beta cell dysfunction remain incompletely defined. We hypothesised that angiopoietin-like protein 2 (ANGPTL2) carried by lipotoxic adipocyte-derived exosomes contributes to adipose-to-islet signalling that impairs beta cell function.",
+        "source": "PubMed",
+        "doi": "10.1007/s00125-026-06885-1",
+        "keyword": "Exosomes",
+        "title_ja": "脂肪細胞由来エクソソームANGPTL2はマウスにおいてEIF2α/ATF4/CHOPストレス経路を介してβ細胞機能障害を促進する",
+        "summary_ja": "肥満関連リポトキシシティは2型糖尿病におけるβ細胞不全を引き起こすが、脂肪組織から膵島へのシグナルは未解明である。本研究では、リポトキシックな脂肪細胞由来エクソソームに含まれるANGPTL2が、脂肪組織から膵島へのシグナル伝達を介してβ細胞機能を障害するという仮説を立てた。"
+      },
+      {
+        "title": "Ophiopogonin D Suppresses Non-Small Cell Lung Cancer Progression by Targeting Exosomal MALAT1 to Enhance Dendritic Cell Maturation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42829139/",
+        "abstract": "Tumor-immune cell crosstalk critically shapes the progression of non-small cell lung cancer (NSCLC), yet the mechanisms underlying exosome-mediated immune suppression remain incompletely understood. Here, we identify a previously unrecognized exosomal lncRNA-mediated immunoregulatory axis targeted by the natural compound Ophiopogonin D (OP-D). Transcriptomic profiling and mechanistic rescue experiments revealed that Lewis lung carcinoma (LLC)-derived exosomal MALAT1 suppresses dendritic cell (DC) maturation by increasing SIRT1 expression and attenuating p65 phosphorylation. Computational modeling combined with molecular dynamics simulation predicted a stable interaction between OP-D and MALAT1, which was further validated by biolayer interferometry (BLI) and microscale thermophoresis (MST) assays, supporting MALAT1 as a direct molecular target of OP-D. In vivo, OP-D markedly inhibited tumor growth and enhanced intratumoral DC activation. Mechanistically, OP-D reduced MALAT1 abundance in LLC-derived exosomes and decreased the accumulation of exosomal MALAT1 in recipient DCs, thereby suppressing SIRT1 signaling, restoring p65 phosphorylation, and promoting DC maturation and antitumor immune responses. Furthermore, MALAT1 overexpression attenuated the immunostimulatory effects of OP-D, confirming the functional importance of the exosomal MALAT1-SIRT1/p-p65 axis. Collectively, these findings identify exosomal MALAT1 as a critical mediator of tumor-induced DC dysfunction and establish OP-D as a promising immunomodulatory natural compound capable of reprogramming tumor-immune communication in NSCLC.",
+        "source": "PubMed",
+        "doi": "10.1016/j.phrs.2026.109660",
+        "keyword": "Exosomes",
+        "title_ja": "オフィオポゴニンDは、エクソソームMALAT1を標的として樹状細胞の成熟を促進することにより、非小細胞肺がんの進行を抑制する。",
+        "summary_ja": "非小細胞肺がん（NSCLC）の進行における腫瘍-免疫細胞間クロストークに対し、天然化合物Ophiopogonin D（OP-D）が及ぼす影響を検討した。LLC由来エクソソームのMALAT1は、SIRT1発現増加とp65リン酸化抑制を介して樹状細胞（DC）成熟を阻害した。OP-DはMALAT1に直接結合し、エクソソーム中のMALAT1量とDC内蓄積を減少させ、SIRT1シグナルを抑制、p65リン酸化を回復してDC成熟と抗腫瘍免疫応答を促進した。MALAT1過剰発現はOP-Dの免疫刺激効果を減弱させた。以上より、エクソソームMALAT1は腫瘍誘導性DC機能不全の重要因子であり、OP-DはNSCLCの腫瘍-免疫通信を再プログラムする免疫調節化合物として有望である。"
+      },
+      {
+        "title": "Exosomal miR-145-5p inhibits papillary thyroid cancer by targeting ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42828149/",
+        "abstract": "Within the present study, the objective was to investigate the effects of exosomal miR-145-5p on the proliferation, migration and invasion of papillary thyroid cancer (PTC) cells, and explore the molecular mechanism involved. Bioinformatics analyses based on numerous public databases were conducted to profile the expression of microRNA (miR)-145-5p and tropomyosin 3 (",
+        "source": "PubMed",
+        "doi": "10.3892/ol.2026.15870",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム由来miR-145-5pは標的を介して乳頭状甲状腺癌を抑制する",
+        "summary_ja": "本論文は、exosomal miR-145-5pが乳頭状甲状腺癌（PTC）に及ぼす影響と分子機構を検討した。公共データベースを用いたバイオインフォマティクス解析により、miR-145-5pとtropomyosin 3（TPM3）の発現プロファイルを作成した。その結果、exosomal miR-145-5pはTPM3を標的とすることでPTC細胞の増殖・遊走・浸潤を抑制することが示唆された。すなわちmiR-145-5pはTPM3の発現を負に制御し、PTCの進展を阻害する腫瘍抑制因子として機能する可能性が示された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "ご提示いただいた情報のうち、本文が含まれる4件（TCR-T、婦人科癌リキッドバイオプシー、ANGPTL2エクソソーム、OP-D/MALAT1）から注目トピックを選び、500文字以内でまとめます。\n\n**注目トピック5選**\n\n1. **既製TCR-T細胞療法**：mRNA電気穿孔法により、HBV関連肝細胞癌を標的とする同種TCR-T製品の開発。患者由来PBMCの製造適性低下を克服する点で重要性が高く、固形癌への汎用化が期待される。\n\n2. **婦人科癌リキッドバイオプシー**：ctDNA・CTC・エクソソームRNA・エピジェネティックマーカーを統合するマルチオミクス解析。単一解析より優れ、早期発見とバイオマーカー応用の展望を示す。\n\n3. **脂肪細胞由来エクソソームANGPTL2**：肥満関連リポトキシシティがEIF2α/ATF4/CHOPストレス経路を介してβ細胞不全を誘導。脂肪組織-膵島間シグナルの新規機序として2型糖尿病治療標的になり得る。\n\n4. **OP-DによるNSCLC抑制**：エクソソームMALAT1を標的とし、SIRT1/p65経路を介して樹状細胞成熟を促進。天然化合物による腫瘍-免疫クロストーク制御の可能性を示す。\n\n5. **エクソソームmiR-145-5pとTPM3**：乳頭状甲状腺癌の抑制機構を解明。診断・治療標的としての有用性が期待される。\n\n（訂正記事2件は本文不在のため要約対象外としました。）"
+}

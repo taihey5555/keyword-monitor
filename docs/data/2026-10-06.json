@@ -1,0 +1,136 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Emerging therapeutic strategies to target APOE4 in Alzheimer's disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42831701/",
+        "abstract": "The apolipoprotein E ε4 (APOE4) allele is the strongest common genetic risk factor for late-onset Alzheimer's disease. However, its incomplete penetrance supports the view that it acts as a modifiable systems-level perturbation of brain homeostasis rather than a deterministic driver. Increasing evidence further positions APOE4 protein within interconnected lipid metabolic pathways, with converging genetic, epidemiological, and translational studies implicating disrupted cholesterol transport, lipoprotein metabolism, and lipid oxidation as upstream mechanisms that promote neurodegeneration. Here, we synthesize currently developing therapeutic strategies targeting APOE4 across domains: small molecules, endogenous protectors, emerging biologics, and systemic lipid modulators. Small molecules include structural correctors and natural compounds, while endogenous protection arises from APOE2, the APOE3-Christchurch variant, and modifiers such as CASP7, KLOTHO, the VHL-HIF axis, fibronectin, and NHE6-mediated endosomal regulation. Biologic platforms enable allele-selective and pathway-specific interventions via siRNA, antisense oligonucleotides, and antibodies targeting pathological APOE conformers. In parallel, cholesteryl ester transfer protein (CETP) inhibition has emerged as a systems-level strategy that restores lipid and redox homeostasis, with early clinical evidence showing reductions in neurodegenerative biomarkers, particularly in APOE4 carriers. These advances support an integrative therapeutic framework to restore brain lipid homeostasis, stress resilience and neural-vascular coupling, positioning APOE4 as a modifiable node within a preventable lipid-vascular-neurodegenerative axis.",
+        "source": "PubMed",
+        "doi": "10.1111/febs.70759",
+        "keyword": "Klotho",
+        "title_ja": "アルツハイマー病におけるAPOE4を標的とした新たな治療戦略",
+        "summary_ja": "APOE4は晩発性アルツハイマー病の最強の遺伝的リスク因子だが、浸透率は不完全で、脳恒常性への修飾可能な撹乱と見なされる。脂質代謝経路の障害、コレステロール輸送やリポ蛋白代謝、脂質酸化が上流機構として神経変性を促す。治療戦略として、構造補正薬や天然化合物などの小分子、APOE2やAPOE3-Christchurch変異体、CASP7、KLOTHO、VHL-HIF軸、フィブロネクチン、NHE6などの内因性保護因子、siRNA・アンチセンスオリゴヌクレオチド・抗体による生物学的製剤、CETP阻害による全身的脂質・レドックス恒常性回復が進む。特にAPOE4保因者で神経変性バイオマーカー低下の初期臨床証拠がある。これらは脳脂質恒常性と神経血管連関を回復する統合的枠組みを支持し、APOE4を予防可能な脂質-血管-神経変性軸の修飾可能な結節点と位置づける。"
+      },
+      {
+        "title": "Klotho Deficiency Impairs Distal Potassium Homeostasis Through mTORC1-Dependent Suppression of ROMK.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42830439/",
+        "abstract": "Hyperkalemia is prevalent in the elderly, and underlying molecular mechanisms remain incompletely understood. We hypothesized that Klotho deficiency, a feature of aging, impairs renal potassium homeostasis and contributes to hyperkalemia.",
+        "source": "PubMed",
+        "doi": "10.1111/apha.70325",
+        "keyword": "Klotho",
+        "title_ja": "クロトー欠損はmTORC1依存性のROMK抑制を介して遠位カリウム恒常性を障害する。",
+        "summary_ja": "Klotho欠乏は老化の特徴であり、腎臓のカリウム恒常性を障害し高カリウム血症に関与すると仮説を立てた。Klotho欠乏はmTORC1依存性にROMKを抑制し、遠位ネフロンのカリウム分泌を障害することで高カリウム血症を引き起こす可能性が示された。"
+      },
+      {
+        "title": "Epigenetic insights of Olympic champions: nuclear and mitochondrial DNA methylation and regulators of aging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41547678/",
+        "abstract": "The interaction between nuclear (nDNA) and mitochondrial DNA (mtDNA) methylation is not well known in the healthy population. The D-loop methylation level of the Olympic champions (N = 58) was significantly lower than that of non-champions (N = 32) (~ 36% unadjusted mean difference p = 0.016, sex and age adjusted p = 0.017). Interestingly, the robust linear analysis revealed that biological sex is a significant factor in mtDNA D-loop methylation (estimate = 1.521, p = 0.033). On the other hand, we cannot find relationships between the methylation levels of mtDNA and nuclear DNA, suggesting distinct regulation of the methylation/demethylation process of mtDNA and nuclear DNA. DNA methylation-based aging clocks showed a significant relationship with the levels of Klotho, irisin, and its receptor (irisin receptor integrin alpha-V), as well as with epigenetic regulators such as ten-eleven translocation enzyme 2, which were measured using enzyme-linked immunosorbent assay. Therefore, the data suggest a complex regulatory process of epigenetic aging and raise the possibility that D-loop methylation may have functional relevance in health, which remains to be explored.",
+        "source": "PubMed",
+        "doi": "10.1007/s11357-025-02092-9",
+        "keyword": "Klotho",
+        "title_ja": "オリンピックチャンピオンのエピジェネティックな知見：核およびミトコンドリアDNAメチル化と老化の制御因子",
+        "summary_ja": "オリンピック選手（N=58）のmtDNA D-loopメチル化レベルは非選手（N=32）より有意に低かった（未調整平均差約36%、p=0.016、性・年齢調整p=0.017）。生物学的性別もmtDNA D-loopメチル化の有意な因子であった。一方、mtDNAと核DNAのメチル化レベル間に関連は見られず、両者のメチル化/脱メチル化プロセスは別々に制御される可能性が示唆された。DNAメチル化ベースの老化時計はKlotho、irisinおよびその受容体、TET2などの調節因子と有意に関連した。以上より、エピジェネティック老化は複雑な制御過程を経て、D-loopメチル化が健康に機能的関連を持つ可能性が示唆された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Tumor-on-a-chip with single-cell microfluidics reveals distinct NK cell immunosuppression by hypoxia ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42831532/",
+        "abstract": "Immunosuppression induced by metabolic stress within the solid tumor microenvironment (TME) critically limits the efficacy of cancer immunotherapies. Here, we develop a tumor microenvironment-on-a-chip (TMoC) platform integrated with single-cell microfluidic analysis to precisely model both hypoxic and lipid-enriched conditions commonly found in solid tumors. Utilizing this system, we elucidate the distinct effects of these two metabolic stressors on natural killer (NK) cell function. Hypoxia broadly suppresses NK cell cytotoxicity and downregulates multiple functional molecules. In contrast, lipid accumulation exerts a selective inhibitory effect, reducing granzyme B and IL-10 expression while relatively preserving IFN-γ mRNA expression. Single-cell analysis reveals stress-induced functional heterogeneity and secretory synergy among NK cells. Notably, we identified a relatively high-IFN-γ-secreting subpopulation retained under lipid-rich conditions despite an overall reduction in IFN-γ secretion at the single-cell level. Furthermore, single-cell pairing assays dissociate global killing efficacy from killing kinetics, revealing that hypoxia and lipid accumulation impair NK cells through distinct kinetic modes. Using the TMoC platform to evaluate combination therapies targeting both hypoxia and lipid metabolism, we show that dual intervention synergistically restores NK cell cytolytic function. The platform demonstrates superior screening sensitivity compared to conventional ",
+        "source": "PubMed",
+        "doi": "10.1039/d6lc00668j",
+        "keyword": "NK cell therapy",
+        "title_ja": "単一細胞マイクロ流体工学を用いた腫瘍オンチップにより、低酸素による異なるNK細胞の免疫抑制が明らかになる",
+        "summary_ja": "固形腫瘍微小環境（TME）の代謝ストレスによる免疫抑制は、がん免疫療法の効果を著しく制限する。本研究では、単一細胞マイクロ流体解析を統合した腫瘍微小環境オンチップ（TMoC）を開発し、低酸素および脂質蓄積条件を精密にモデル化した。低酸素はNK細胞の細胞傷害性を広範に抑制し、複数の機能分子を下方制御した。一方、脂質蓄積は選択的阻害を示し、granzyme BとIL-10を減少させるがIFN-γ mRNAは比較的保持された。単一細胞解析により、ストレス誘導性の機能不均一性と分泌相乗効果が明らかになった。脂質豊富条件下では、単一細胞レベルでIFN-γ分泌が全体として減少するものの、高IFN-γ分泌サブ集団が保持された。さらに単一細胞ペアリングアッセイにより、全体的殺傷効率と殺傷動態が分離され、低酸素と脂質蓄積が異なる動態様式でNK細胞を障害することが示された。TMoCを用いた併用療法評価では、低"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Emerging nanostructured platforms for improved oral delivery of antidiabetic agents: overcoming physiological barriers and enhancing therapeutic efficacy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42832092/",
+        "abstract": "Diabetes mellitus, a chronic metabolic disorder affecting over 537 million individuals worldwide, represents one of the most burdensome global health challenges of the 21st century. Despite the availability of numerous oral antidiabetic agents, their therapeutic effectiveness is significantly compromised by poor aqueous solubility, chemical instability in the gastrointestinal (GI) environment, extensive hepatic first-pass metabolism, low membrane permeability, and inadequate systemic bioavailability. Nanotechnology-based drug delivery systems have emerged as transformative platforms capable of circumventing these multifaceted physiological and biopharmaceutical limitations.",
+        "source": "PubMed",
+        "doi": "10.1007/s40199-026-00671-5",
+        "keyword": "Exosomes",
+        "title_ja": "経口投与される抗糖尿病薬の送達改善に向けた新興ナノ構造プラットフォーム：生理学的障壁の克服と治療効果の向上",
+        "summary_ja": "糖尿病は世界で5億3700万人以上が罹患する慢性代謝疾患である。経口抗糖尿病薬は多数存在するが、水溶性の低さ、消化管環境での化学的不安定性、肝初回通過代謝、膜透過性の低さ、全身バイオアベイラビリティ不足により治療効果が大きく損なわれる。ナノテクノロジー基盤のドラッグデリバリーシステムは、これらの生理学的・生物薬剤学的制約を回避し得る革新的プラットフォームとして注目されている。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Exosome-mediated organotropism in breast cancer metastasis: bridging the gap between molecular mechanisms and clinical application.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42832062/",
+        "abstract": "Breast cancer (BC) is characterised by multiple metastasis to various organs and remains a leading contributor to the approximately 10 million annual cancer-related deaths worldwide. The choice of organ for a metastatic site is not random and follows the principle of organotropism. This review develops the concept that exosomes-small extracellular vesicles 30-150 nm in diameter-play a substantial role in forming the pre-metastatic niche by selectively reprogramming target cells and tissues, thereby preparing the organ for the arrival of tumour cells. We examine in detail the molecular mechanisms whereby exosome-contained microRNAs, annexins, tetraspanins and other components drive osteolysis of bone tissue, increase the permeability of the blood-brain barrier (brain metastases arise in roughly 25-27% of triple-negative and 11-20% of HER2-positive BC), and induce fibro-inflammatory changes in the lungs and liver. Particular attention is given to the translational potential of exosomes as diagnostic markers-recent exosome-based classifiers reach a diagnostic accuracy of about 90%-and as agents of targeted therapy. Through a structured comparison of more than twenty primary studies, we provide a critical analysis of the methodological heterogeneity of exosome research and of the status of current clinical trials (8 of 13 catalogued BC trials are purely observational). On this basis, the review outlines concrete, source-supported ways to overcome the existing barriers on the path \"from the bench to the bedside\".",
+        "source": "PubMed",
+        "doi": "10.1007/s10585-026-10432-y",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを介した乳がん転移の臓器指向性：分子メカニズムと臨床応用のギャップを埋める",
+        "summary_ja": "乳がん（BC）は多臓器転移を特徴とし、年間約1000万人の癌関連死の主要因である。転移臓器の選択はランダムではなく、organotropismの原理に従う。本レビューは、直径30-150nmのsmall extracellular vesiclesであるexosomeが、標的細胞・組織を選択的に再プログラムしpre-metastatic nicheを形成することで、腫瘍細胞の到達に備えるという概念を展開する。exosome内のmicroRNA、annexins、tetraspanins等が、骨組織のosteolysis、血液脳関門の透過性亢進（脳転移はtriple-negative BCの約25-27%、HER2-positive BCの11-20%）、肺・肝のfibro-inflammatory変化を誘導する分子機構を詳述する。診断マーカーとしての可能性（exosome-based cl"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Matrix nanoalignment programs macrophage vesicular immunity through TRPV2 mechanogating.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42831165/",
+        "abstract": "The extracellular matrix (ECM) undergoes extensive architectural remodeling during tumor progression, generating nanoscale alignment cues that profoundly influence behaviors of immune cells. However, whether ECM nanoarchitecture directly programs their immune secretory functions remains poorly defined. Here, we develop a magnetically switchable hydrogel that enables reversible, on-demand modulation of nanoscale ligand alignment without altering bulk stiffness or composition. Using this platform, we uncover a mechanotransduction pathway in tumor-associated macrophages (TAMs) whereby matrix nanoalignment enhances integrin β1-dependent mechanosensing and transient receptor potential cation channel subfamily V member 2 (TRPV2)-dependent Ca",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.09.011",
+        "keyword": "sEVs",
+        "title_ja": "マトリクスのナノアライメントはTRPV2のメカノゲーティングを介してマクロファージの小胞免疫をプログラムする",
+        "summary_ja": "腫瘍進展に伴う細胞外マトリックス（ECM）のリモデリングは、免疫細胞に影響を与えるナノスケールの配向性を生じるが、これが免疫分泌機能を直接制御するかは不明だった。本研究では、バルクの剛性や組成を変えずにナノスケールのリガンド配向を可逆的・オンデマンドに制御できる磁気切替型ハイドロゲルを開発した。これを用いて、腫瘍関連マクロファージ（TAM）において、マトリックスのナノ配向がインテグリンβ1依存性のメカノセンシングとTRPV2依存性のCa²⁺シグナル伝達を介して免疫機能を制御するメカノトランスダクション経路を明らかにした。"
+      },
+      {
+        "title": "Hypoxia-programmed apoptotic-mimetic M2 macrophage-derived small extracellular vesicles for hydrogel-mediated immunoregenerative bone repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42830913/",
+        "abstract": "Effective regeneration of critical-sized bone defects requires the coordinated reconstruction of immune homeostasis, vascular networks, and osteogenic matrix formation. However, conventional bone-regenerative materials frequently provide structural support or single-pathway osteoinduction, while failing to actively orchestrate the multicellular repair microenvironment. Here, we develop a hydrogel-assisted immunoregenerative strategy based on hypoxia-programmed apoptotic-mimetic small extracellular vesicles derived from M2-like macrophages. Interleukin-4-polarized macrophages were subjected to hypoxic preconditioning to generate M2-HP-Apo-sEVs with increased phosphatidylserine exposure, enhanced cellular internalization, and amplified immunomodulatory potency. Compared with normoxic M2-sEVs, M2-HP-Apo-sEVs more effectively reprogrammed inflammatory macrophages toward a pro-resolving phenotype, suppressed inflammatory cytokine production, and enhanced reparative cytokine secretion. The vesicles further promoted osteogenic differentiation of bone marrow mesenchymal stem cells and stimulated endothelial migration and capillary-like network formation, demonstrating coordinated osteo-immuno-angiogenic activity. To enable sustained local delivery, M2-HP-Apo-sEVs were incorporated into photocrosslinkable GelMA hydrogels and implanted into critical-sized calvarial defects. The GelMA-M2-HP-Apo-sEV system substantially enhanced bone regeneration, vascularization, and osteogenic matrix deposition while attenuating local inflammation. This work establishes a cell-free vesicle-hydrogel platform that integrates donor-cell hypoxic programming, apoptotic-mimetic membrane signaling, and local biomaterial delivery for immunoregenerative bone repair.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103696",
+        "keyword": "sEVs",
+        "title_ja": "低酸素プログラムによるアポトーシス模倣M2マクロファージ由来小型細胞外小胞を用いたハイドロゲル媒介免疫再生型骨修復",
+        "summary_ja": "低酸素プログラム処理したアポトーシス模倣M2マクロファージ由来small extracellular vesicles（M2-HP-Apo-sEVs）を用いたハイドロゲル媒介免疫再生型骨修復戦略。IL-4极化マクロファージを低酸素前処理し、ホスファチジルセリン露出増加、細胞内取り込み亢進、免疫調節能増強を実現。M2-HP-Apo-sEVsは炎症性マクロファージをpro-resolving表現型へ再プログラムし、炎症性サイトカインを抑制、修復性サイトカイン分泌を促進。骨髄間葉系幹細胞の骨分化、内皮遊走・毛細血管様ネットワーク形成も促進し、骨-免疫-血管連関活性を示す。光架橋性GelMAハイドロゲルに搭載し頭蓋骨欠損へ移植した結果、骨再生、血管新生、骨基質沈着を大幅に促進し炎症を軽減。低酸素プログラミング、アポトーシス模倣膜シグナル、局所送達を統合した無細胞型ベシクル-ハイドロゲル基盤を確立。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下が特に注目すべき5トピックです。\n\n1. **APOE4標的治療**：アルツハイマー病最強の遺伝的リスク因子APOE4に対し、脂質代謝障害を上流機構として捉え、構造補正や脂質経路修飾で介入する新戦略。発症予防への展望が開ける。\n\n2. **Klotho欠乏と高カリウム血症**：KlothoがmTORC1依存性にROMKを抑制し、遠位ネフロンのK分泌を障害する機序を解明。老化に伴う電解質異常の新たな治療標的となる。\n\n3. **腫瘍オンチップとNK細胞**：単一細胞マイクロ流体で低酸素・脂質蓄積下のNK細胞免疫抑制を再現。固形腫瘍免疫療法抵抗性の克服に重要な評価基盤を提供。\n\n4. **乳がんExosome organotropism**：30-150nmのsEVが転移臓器選択を規定する機序を整理。診断バイオマーカーや転移阻止療法への臨床応用が期待される。\n\n5. **M2-HP-Apo-sEVsによる骨修復**：低酸素処理アポトーシス模倣M2マクロファージ由来sEVをハイドロゲルで送達し免疫再生を誘導。無細胞型骨再生医療の新機軸として注目。\n\n以上、老化・免疫・腫瘍微小環境・細胞外小胞・再生医療の融合が本日の潮流です。"
+}

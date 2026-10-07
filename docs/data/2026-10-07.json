@@ -1,0 +1,103 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "A Systematic Review of Stem Cell Secretome-Derived Exosomes for Neuropathic Pain: Therapeutic Mechanisms and Translational Potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42837065/",
+        "abstract": "Neuropathic pain (NP) is a chronic disabling disorder with limited effective therapies. Exosomes isolated from the stem cell secretome have emerged as promising candidates because of their anti-inflammatory and neuroregenerative properties. This systematic review evaluated the mechanisms and translational potential of stem cell secretome-derived exosomes for NP. Following PRISMA 2020 guidelines, biomedical databases were searched from inception to Aug 2026. Eligible studies included preclinical and clinical investigations evaluating stem cell secretome-derived exosomes in NP models. Risk of bias was assessed using SYRCLE and RoB 2 or ROBINS-I. Because of substantial heterogeneity, a narrative synthesis was performed. Seventeen studies met the inclusion criteria, including 16 preclinical studies and one pilot clinical study. Most studies investigated mesenchymal stem cell secretome-derived exosomes and demonstrated reductions in pain-related behaviors across chronic constriction injury, diabetic peripheral neuropathy, and chemotherapy-induced peripheral neuropathy models. Therapeutic effects were associated with suppression of neuroinflammatory cytokines, inhibition of microglial activation, enhancement of neurotrophic signaling, and modulation of nuclear factor kappa B (NF-κB) and NOD-like receptor pyrin domain-containing 3 (NLRP3) pathways. The pilot clinical study suggested a favorable safety profile and potential benefit, although human evidence remains insufficient to establish clinical efficacy. Overall methodological quality was moderate, with heterogeneity in stem cell sources, exosome isolation methods, dosing strategies, administration routes, and outcome measures, precluding meta-analysis. Current evidence supports the biological plausibility of stem cell secretome-derived exosomes as emerging candidates for NP; however, randomized clinical trials and standardized vesicle characterization are required to establish efficacy and translational applicability.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-06225-9",
+        "keyword": "Exosomes",
+        "title_ja": "幹細胞セクレトーム由来エクソソームによる神経障害性疼痛の系統的レビュー：治療メカニズムと臨床応用の可能性",
+        "summary_ja": "神経障害性疼痛（NP）は有効な治療が限られる慢性疾患である。幹細胞セクレトーム由来エクソソームは抗炎症・神経再生作用から有望視される。本系統的レビューはPRISMA 2020に従い、NPモデルにおける同エクソソームの機序と臨床応用可能性を評価した。17研究（前臨床16、パイロット臨床1）が該当し、多くは間葉系幹細胞由来で、慢性絞扼損傷・糖尿病性末梢神経障害・化学療法誘発性末梢神経障害モデルで疼痛行動を軽減した。効果は神経炎症性サイトカイン抑制、ミクログリア活性化抑制、神経栄養シグナル増強、NF-κBおよびNLRP3経路の調節と関連した。臨床研究は安全性と有益性の可能性を示したが、有効性確立には不十分である。方法論的質は中等度で、幹細胞源・単離法・投与法等の異質性が高くメタ解析は困難であった。生物学的妥当性は支持されるが、ランダム化臨床試験と標準化された小胞特性評価が必要である。"
+      },
+      {
+        "title": "Mechanically Regulated Secretion: How Physical Forces Instruct the Secretory Pathway and Remodel the Secretome.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42836336/",
+        "abstract": "Cells do not secrete in a vacuum: they continuously interpret mechanical and chemical stimuli. This \"cell sociology\" drives collective behaviors and communication networks, allowing cells to process information from their surroundings. Over the past decade, growing evidence shows that all major secretory organelles are responsive to mechanical cues, overturning the view of secretion as a purely biochemical process. Cues like extracellular matrix (ECM) stiffness, cell shape, membrane tension, and tissue deformation dynamically tune trafficking at every step, remodeling endoplasmic reticulum (ER) exit sites, reshaping Golgi architecture, redirecting sorting at the trans-Golgi network (TGN), repositioning endolysosomes, and controlling exosome release. This mechanical control operates through complementary transcriptional and post-translational mechanisms, including GTPase activation, kinase cascades, cytoskeletal tension, and lipid remodeling, enabling rapid organelle reconfiguration. A mechano-secretory feedback loop exists: the physical microenvironment reorganizes the secretory pathway, and the resulting secretome changes reshape ECM composition and tissue mechanics. While supporting physiological homeostasis, this loop dysregulation drives fibrosis, cancer progression, and immune dysfunction. In this review, we integrate recent major findings to provide a coherent framework for understanding how mechanical forces reshape the secretory pathway and influence tissue function and disease.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.78102",
+        "keyword": "Exosomes",
+        "title_ja": "機械的に制御された分泌：物理的な力が分泌経路をどのように指示し、セクレトームを再構築するか。",
+        "summary_ja": "細胞は機械的・化学的刺激を絶えず解釈し、分泌は純粋に生化学的過程とする見方を覆す。ECM剛性、細胞形状、膜張力、組織変形などの手がかりが、ER出口部位、ゴルジ構造、TGNでの選別、エンドリソソーム配置、エクソソーム放出を動的に調整する。これはGTPase活性化、キナーゼカスケード、細胞骨格張力、脂質リモデリングを介した転写・翻訳後制御による。機械-分泌フィードバックループが存在し、微小環境が分泌経路を再編し、変化したセクレトームがECM組成と組織力学を再形成する。このループは恒常性を支える一方、線維症、癌進行、免疫機能不全を駆動する。本レビューは機械的力が分泌経路と組織機能・疾患をどう変えるかの枠組みを統合する。"
+      },
+      {
+        "title": "Functional heterogeneity of exosomes in hepatocellular carcinoma (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42835409/",
+        "abstract": "Hepatocellular carcinoma (HCC) is the third leading cause of cancer-associated mortality worldwide. Heterogeneity presents a notable challenge to the diagnosis and treatment of HCC and contributes to poor clinical outcomes. Exosomes serve key roles in intercellular communication among tumor cells and between malignant cells and components of the tumor microenvironment (TME). Accumulating evidence has indicated that exosomal cargo influences hepatocarcinogenesis, tumor progression, metastasis and remodeling of the TME. Accordingly, exosomal components present potential as biomarkers for early HCC detection and as therapeutic targets or delivery vehicles. The present review summarizes exosome biogenesis, isolation, characterization and functional heterogeneity, with particular emphasis on vesicle subpopulations, cellular origin, cargo composition, recipient-cell tropism, disease stage and microenvironmental stress. In addition, the evidence supporting exosome-based biomarkers and therapeutic applications in HCC are critically evaluated. Despite a number of candidates having shown promising results in preclinical or retrospective studies, to the best of our knowledge, no exosome-derived biomarker has yet been incorporated into routine clinical practice for HCC, highlighting the need for methodological standardization and prospective multicenter validation.",
+        "source": "PubMed",
+        "doi": "10.3892/etm.2026.13311",
+        "keyword": "Exosomes",
+        "title_ja": "肝細胞癌におけるエクソソームの機能的異質性（総説）",
+        "summary_ja": "肝細胞癌（HCC）は癌関連死の主要因であり、そのheterogeneityが診断・治療を困難にしている。Exosomesは腫瘍細胞間や腫瘍微小環境（TME）構成要素との細胞間通信を担い、そのcargoが発癌、進展、転移、TMEリモデリングに影響する。本レビューはexosomeの生合成、単離、特性評価、機能的heterogeneityを、vesicle subpopulations、細胞起源、cargo組成、受容細胞指向性、疾患段階、微小環境ストレスの観点からまとめる。またHCCにおけるexosome由来バイオマーカーと治療応用のエビデンスを評価する。前臨床・後ろ向き研究では有望な候補があるが、日常臨床に導入されたexosome由来バイオマーカーはなく、方法論の標準化と前向き多施設検証が必要である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Additive Enhancement of Neurovascular Regeneration and Functional Recovery by Combined MSC-Exosomes and Low-Intensity Pulsed Ultrasound in Ischemic Stroke Rats.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42836922/",
+        "abstract": "Cerebral ischemic stroke (CIS) leads to high mortality and disability due to cerebrovascular obstruction. Current therapeutic approaches such as thrombolysis have limitations, and many patients suffer from long-term functional impairments, so new treatment strategies are urgently needed. Both low-intensity pulsed ultrasound (LIPUS) and mesenchymal stem cell-derived exosomes (MSC-EXOs) have demonstrated some therapeutic potential for CIS, but their efficacy is less pronounced when used alone. Therefore, this study aims to evaluate whether the combination of MSC-EXOs and LIPUS exerts an additive effect in the treatment of cerebral ischemic stroke. Adult rats subjected to middle cerebral artery occlusion (MCAO) were randomly assigned to sham, MCAO, MSC-EXO, LIPUS, or combination groups. Outcomes were assessed using the modified Neurological Severity Score (mNSS), corner and Y-maze tests, histological staining (HE and immunofluorescence), transmission electron microscopy (TEM), and quantitative real-time polymerase chain reaction (q-PCR). The combination group showed notable improvements in neurological function, with the highest proportion of cluster of differentiation 31 (CD31)/alpha-smooth muscle actin (α-SMA)/doublecortin (DCX)-positive immunofluorescence area, up-regulation of circular RNA SCMH-1(circSCMH-1), and the best restoration of synaptic ultrastructure. Compared with MSC-EXOs or LIPUS alone, the combined treatment appeared to have an additive effect, supporting neurovascular regeneration and functional recovery after cerebral ischemic stroke.",
+        "source": "PubMed",
+        "doi": "10.1007/s12031-026-02591-0",
+        "keyword": "Exosomes",
+        "title_ja": "虚血性脳卒中ラットにおけるMSCエクソソームと低強度パルス超音波の併用による神経血管再生および機能回復の相加的促進。",
+        "summary_ja": "MSC由来エクソソーム（MSC-EXOs）と低強度パルス超音波（LIPUS）の併用が、脳虚血性脳卒中（CIS）治療で相加効果を示すか検討した。MCAOモデルラットをsham、MCAO、MSC-EXO、LIPUS、併用群に分け、mNSS、corner・Y-maze試験、組織染色、TEM、q-PCRで評価した。併用群は神経機能が最も改善し、CD31/α-SMA/DCX陽性面積の割合が最高で、circSCMH-1が上调し、シナプス微細構造の回復も最良であった。MSC-EXOsやLIPUS単独と比較し、併用は相加効果を示し、CIS後のneurovascular regenerationと機能回復を促進することが示唆された。"
+      },
+      {
+        "title": "Analysis of exosomal mRNA profile in cancer tissue from patients with colorectal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42835784/",
+        "abstract": "Colorectal cancer (CRC) is one of the most common malignant tumors. Exosomes are key modulators of intercellular communication and important participants in CRC tumorigenesis. However, the influence and underlying mechanism of cancer-secreted exosomes in CRC are not fully understood. In the present study, exosome-enriched extracellular vesicles (EVs) were isolated from paired CRC and adjacent normal control tissue (NC) from patients with CRC using ultracentrifugation, size exclusion chromatography and ultrafiltration. Bowtie software was used to identify mRNA expression patterns. Further analyses included functional enrichment analysis using Gene Ontology and Kyoto Encyclopedia of Genes and Genomes for differentially expressed genes (DEGs) and Gene Set Enrichment Analysis for functional enrichment of the entire transcriptome. Gene Set Variation Analysis was used to identify differentially enriched functions and pathways for each sample. Weighted gene correlation network analysis was used to select candidate key genes. The diagnostic performance of the candidate key genes was validated using the models of multiple logistic regression and a support vector machine with the external CRC exosomal RNA database exoRBase. A total of 814 DEGs were identified in the exosome-enriched EVs from patients with CRC compared with those from NC group. The enriched functions were potentially associated with key steps and pathways involved in CRC tumorigenesis, including cell cycle, DNA replication, RNA activity, protein metabolism and the PI3K/Akt', Wnt, MAPK and KRAS pathways, as well as the regulation of mitochondria, the pentose phosphate pathway and intestinal immunity. A total 14 candidate key genes, namely, p53 effector related to PMP-22, MYC, dyskerin pseudouridine synthase 1), VDAC1 (voltage dependent anion channel 1), adenosylhomocysteinase), TMEM123 (transmembrane protein 123), RPL36A (ribosomal protein L36a), CCT5 (chaperonin containing TCP1 subunit 5), CHCHD2 (coiled-coil-helix-coiled-coil-helix domain containing 2), RPS21 (ribosomal protein S21), KRT18 (keratin 18), TGFBI (transforming growth factor beta induced), ETS2 (ETS proto-oncogene 2) and AXIN2 (axin 2), were identified. The present exploratory study revealed pronounced transcriptomic changes in exosome-enriched EV derived from CRC compared with those derived from paracancerous tissue, and may provide a novel platform for understanding tumor microenvironment interactions.",
+        "source": "PubMed",
+        "doi": "10.3892/br.2026.2205",
+        "keyword": "Exosomes",
+        "title_ja": "大腸がん患者のがん組織におけるエクソソームmRNAプロファイルの解析",
+        "summary_ja": "大腸癌（CRC）患者の癌組織と隣接正常組織から超遠心法、サイズ排除クロマトグラフィー、限外濾過でエクソソーム富含EVを単離し、mRNA発現を比較した。CRC群では814のDEGsを同定。濃縮された機能は細胞周期、DNA複製、RNA活性、タンパク質代謝、PI3K/Akt、Wnt、MAPK、KRAS経路、ミトコンドリア制御、ペントースリン酸経路、腸管免疫に関連した。WGCNAで14の候補キー遺伝子（PERP、MYC、DKC1、VDAC1、AHCY、TMEM123、RPL36A、CCT5、CHCHD2、RPS21、KRT18、TGFBI、ETS2、AXIN2）を同定し、exoRBaseを用いたロジスティック回帰とSVMで診断性能を検証した。CRC由来エクソソームEVに顕著な転写変化があり、腫瘍微小環境理解の新基盤となり得る。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の注目5トピック：(1)幹細胞セクレトーム由来エクソソームの神経障害性疼痛治療：難治性NPに対し抗炎症・神経再生作用が期待され、臨床応用への橋渡しが進む。(2)機械的力による分泌制御：ECM剛性や膜張力がエクソソーム放出を調整する新概念で、分泌生物学の枠組みを刷新。(3)肝細胞癌エクソソームの機能不均一性：cargo多様性が発癌・転移・TME再構築に関与し、診断・治療標的として有望。(4)MSC-エクソソームとLIPUS併用：脳卒中ラットで相加的な神経血管再生と機能回復を実証、組合せ療法の可能性。(5)大腸癌組織エクソソームmRNAプロファイル：814のDEGsを同定し、細胞周期・DNA複製関連が濃縮、バイオマーカー開発に寄与。全体としてエクソソーム/sEVs研究は治療・診断両面で急速に展開している。"
+}

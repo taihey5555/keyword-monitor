@@ -1,0 +1,156 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "AA-Induced Lipid Peroxidation at the Center of Tumor Cell Apoptosis and Ferroptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42834219/",
+        "abstract": "Polyunsaturated fatty acids (PUFAs), especially gamma-linolenic acid (GLA), arachidonic acid (AA), eicosapentaenoic acid (EPA), and docosahexaenoic acid (DHA), can block HMG-CoA reductase activity and thus decrease cholesterol synthesis/formation. Cholesterol has antioxidant actions and thus reduces the formation of ROS (reactive oxygen species). In contrast, PUFAs augment the generation of ROS. PUFAs undergo peroxidation to form lipid peroxides that are toxic to tumor cells but not normal cells. GPX4 (glutathione peroxidase) reduces the formation of lipid peroxides and thus enhances tumor cell resistance to the tumoricidal actions of radiation, anticancer drugs, and immune checkpoint inhibitors (ICIs). Tumor cells have relatively high amounts of GPX4 and hence are resistant to lipid peroxide-induced ferroptosis/apoptosis. In contrast, normal cells can upregulate their GPX4 activity/content upon exposure to toxic lipid peroxides and hence are resistant to ferroptosis or apoptosis when supplemented with various PUFAs or exposed to radiation, anticancer drugs, and ICIs. Thus, PUFAs (especially GLA, AA, and DHA) are selectively toxic to tumors but not normal cells. Interferon-γ (IFN-γ) is secreted by CD8",
+        "source": "PubMed",
+        "doi": "10.1007/978-981-92-5964-9_12",
+        "keyword": "NK cell therapy",
+        "title_ja": "AA誘導性脂質過酸化は腫瘍細胞のアポトーシスとフェロトーシスの中心にある。",
+        "summary_ja": "多価不飽和脂肪酸（PUFA）、特にGLA、AA、EPA、DHAはHMG-CoA還元酵素活性を阻害しコレステロール合成を低下させる。コレステロールは抗酸化作用を持ちROS生成を抑えるが、PUFAはROS生成を増加させる。PUFAは過酸化され脂質過酸化物を形成し、腫瘍細胞に毒性を示すが正常細胞には影響しない。GPX4は脂質過酸化物生成を抑制し、放射線・抗癌剤・免疫チェックポイント阻害剤（ICI）への抵抗性を高める。腫瘍細胞はGPX4が多くフェロトーシス/アポトーシスに抵抗性を示す。一方正常細胞は毒性脂質過酸化物曝露時にGPX4を上方制御し抵抗性を示す。よってPUFA（特にGLA、AA、DHA）は腫瘍選択的毒性を持つ。IFN-γはCD8陽性T細胞から分泌される。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "A multiomic atlas reveals distinct immune landscapes in preterm and term chronic placental inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42842718/",
+        "abstract": "Chronic placental inflammation (CPI), an umbrella term encompassing chronic chorioamnionitis, chronic villitis, and chronic deciduitis, is associated with preterm birth (PTB), yet its cellular and molecular determinants across gestation remain poorly defined. Here, we constructed an integrated multiomic atlas of CPI by profiling placental and extraplacental tissues from preterm and term pregnancies using imaging mass cytometry, single-cell RNA sequencing, spatial transcriptomics, and T cell receptor (TCR) repertoire mining. CPI emerged as a gestational age-dependent immune continuum rather than a uniform inflammatory state. Preterm CPI was characterized by infiltration of cytotoxic CD8",
+        "source": "PubMed",
+        "doi": "10.1126/scitranslmed.aee9049",
+        "keyword": "NK cell therapy",
+        "title_ja": "多オミクスアトラスが早産および正期産の慢性胎盤炎症における異なる免疫景観を明らかにする",
+        "summary_ja": "慢性胎盤炎症（CPI）は早産（PTB）と関連するが、妊娠期間を通じた細胞・分子基盤は不明である。本研究では、早産および正期妊娠の胎盤・胎盤外組織をイメージングマスサイトメトリー、単一細胞RNAシーケンス、空間トランスクリプトミクス、T細胞受容体（TCR）レパトア解析で統合マルチオミクスアトラスを構築した。CPIは均一な炎症状態ではなく、妊娠週数依存的な免疫連続体として出現した。早産CPIは細胞傷害性CD8陽性T細胞の浸潤を特徴とした。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Ferroptosis and tumor microenvironment: orchestrating therapy resistance, immune evasion, and metastatic events.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42842069/",
+        "abstract": "Ferroptosis, an iron-dependent form of regulated cell death characterized by accumulation of lethal lipid peroxides, has emerged as a critical mechanism in cancer biology with significant implications for therapy and metastasis. This distinct mode of cell death is orchestrated through multiple molecular pathways, including the system Xc⁻/glutathione (GSH) /glutathione peroxidase 4 (GPX4) axis, iron metabolism dysregulation via transferrin receptor 1 (TFR1) and ferritin, and lipid remodeling through acyl-CoA synthetase long-chain family member 4 (ACSL4)-mediated incorporation of polyunsaturated fatty acids into membrane phospholipids. Unlike apoptosis, ferroptosis represents a unique vulnerability in cancer cells due to their elevated iron dependency, making it an attractive therapeutic target. However, the complex interplay between ferroptosis and the tumor microenvironment (TME) creates a double-edged sword that can either suppress or promote tumor progression. Recent evidence demonstrates that distinct cell populations within the TME exhibit differential sensitivities to ferroptosis, with profound consequences for tumor evolution. Mechanistically, cancer-associated fibroblasts activate the TGF-β/SMAD3/ATF4 signaling axis to upregulate sulfur transfer pathways, secreting cysteine that supports tumor cell GSH synthesis and GPX4 activity, thereby conferring ferroptosis resistance. This metabolic cross-feeding exemplifies how stromal cells create a protective niche that sustains tumor survival under oxidative stress. Additionally, exosome-mediated communication within the TME plays a pivotal role in regulating ferroptosis to facilitate metastasis, immune escape, and drug resistance. Studies have also examined how ferroptosis influences epithelial-mesenchymal transition and metastatic dissemination, while addressing the paradoxical role of ferroptosis in both promoting anti-tumor immunity and potentially suppressing immune responses depending on TME context. This review explores the multifaceted crosstalk between ferroptosis and various TME components, including cancer-associated fibroblasts, immune cells, stromal cells, and extracellular matrix elements. Moreover, ferroptosis-driven mechanisms underlying resistance to chemotherapy, radiotherapy, targeted therapies, and immunotherapy are discussed along the emerging therapeutic strategies that leverage ferroptosis induction to effectively target therapy-resistant and metastatic tumors.",
+        "source": "PubMed",
+        "doi": "10.1007/s12032-026-03432-1",
+        "keyword": "Exosomes",
+        "title_ja": "フェロトーシスと腫瘍微小環境：治療抵抗性、免疫回避、転移事象を統御する",
+        "summary_ja": "フェロトーシスは鉄依存性の制御された細胞死で、致死性脂質過酸化物の蓄積を特徴とする。system Xc⁻/GSH/GPX4軸、TFR1やフェリチンを介した鉄代謝異常、ACSL4による多価不飽和脂肪酸の膜リン脂質への取り込みなど複数の経路で制御される。癌細胞の高い鉄依存性から治療標的として注目されるが、腫瘍微小環境（TME）との相互作用は両刃の剣となる。癌関連線維芽細胞はTGF-β/SMAD3/ATF4軸を活性化し、システイン分泌によりGSH合成とGPX4活性を支え、フェロトーシス抵抗性を与える。エクソソームを介した通信も転移、免疫逃避、薬剤耐性を促進する。本レビューはTME構成要素との多面的クロストーク、化学・放射線・標的・免疫療法への抵抗性機構、フェロトーシス誘導を活用した治療戦略を論じる。"
+      },
+      {
+        "title": "Mesenchymal stem cell-derived extracellular vesicles modulate Th1- and STAT1-Associated inflammatory responses in peripheral blood mononuclear cells from patients with osteoarthritis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42842068/",
+        "abstract": "Osteoarthritis (OA) is increasingly recognized as a chronic inflammatory disease, with dysregulated immune responses contributing to cartilage degeneration and disease progression. Immune dysregulation, including alterations in Th1-associated responses, may contribute to the chronic inflammatory environment observed in osteoarthritis. MSC-derived exosomes have been highlighted as potential cell-free therapeutic agents due to their potent immunomodulatory properties; however, their effects on Th1-associated immune responses in OA remain poorly understood.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12850-3",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来細胞外小胞は、変形性関節症患者の末梢血単核細胞におけるTh1およびSTAT1関連炎症反応を調節する。",
+        "summary_ja": "変形性関節症（OA）は慢性炎症性疾患として認識され、免疫応答の異常が軟骨変性と病勢進行に関与する。Th1関連応答の変化を含む免疫調節異常が、OAの慢性炎症環境に寄与する可能性がある。MSC由来エクソソームは強力な免疫調節作用により無細胞治療薬として注目されるが、OAにおけるTh1関連免疫応答への影響は十分に解明されていない。"
+      },
+      {
+        "title": "Decoding Ginsenosides: The Structural and Therapeutic Core of Ginseng.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42841877/",
+        "abstract": "Ginseng (",
+        "source": "PubMed",
+        "doi": "10.1142/S0192415X26500746",
+        "keyword": "Exosomes",
+        "title_ja": "ジンセノサイドを解読する：朝鮮人参の構造的・治療的中核",
+        "summary_ja": "申し訳ありませんが、要約対象の論文・記事の本文が「Ginseng (」で途切れており、全文が提示されていません。タイトル「Decoding Ginsenosides: The Structural and Therapeutic Core of Ginseng」のみでは、ジンセノサイドの構造や治療効果に関する具体的な内容（研究手法、主要な知見、結論など）が不明なため、正確な要約を作成できません。\n\n本文の全文をご提供いただければ、400文字以内で専門用語を保ちつつ簡潔に要約いたします。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "An integrated resource for systems-level analysis of aging hallmarks and associated genes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42842105/",
+        "abstract": "AgingHallmarksDB is an interactive web platform designed to facilitate systems-level aging research centered on 11 aging hallmarks. It comprises 3111 aging hallmark-associated genes integrated from seven established databases, including a high-confidence consensus set comprising 1089 genes. It further incorporates tissue, cell-type class, exosomes, protein-protein and regulatory interactions to facilitate deeper biological insights. AgingHallmarksDB enables over representation analysis (ORA) and gene set enrichment analysis (GSEA) to elucidate varying molecular mechanisms underlying aging. Gene overlaps and Jaccard similarity revealed interconnectedness among the hallmarks. Network analyses further showed these pairs are connected within the protein-protein interaction (PPI) network. The utility of this resource was demonstrated through multiple hallmark-associated analyses. PPI network topology analysis of common hallmark genes revealed several key age-associated genes that act as central hubs across multiple aging hallmarks. Hallmark enrichment analyses revealed extensive coverage across aging-related diseases compared to limited enrichment seen in non-aging-related diseases like developmental and congenital diseases. Further these analyses showed biologically meaningful disease-associated processes, like \"Loss of proteostasis\" in Alzheimer's disease and \"Chronic inflammation\" in atherosclerosis as highly significant hallmarks. These disease-hallmark associations were further supported by network proximity analyses. In addition, GSEA of the PM2.5 exposure-associated skin transcriptome identified significant enrichment of aging hallmarks, particularly \"Epigenetic alterations\", demonstrating the resource's utility in interpreting transcriptomic datasets within the context of aging biology. Overall, AgingHallmarksDB provides a robust framework for investigating hallmark-associated functionality, and potential therapeutic discovery in aging and longevity. AgingHallmarksDB is accessible at https://cb.imsc.res.in/aginghallmarksdb/ .",
+        "source": "PubMed",
+        "doi": "10.1007/s10522-026-10520-2",
+        "keyword": "Exosomes",
+        "title_ja": "老化の特徴と関連遺伝子のシステムレベル解析のための統合リソース",
+        "summary_ja": "AgingHallmarksDBは、11の老化ハロマークを中心としたシステムレベル老化研究を支援する対話型Webプラットフォームである。7つのデータベースから統合した3111の老化ハロマーク関連遺伝子（高信頼コンセンサスセット1089遺伝子を含む）を収録し、組織、細胞種クラス、エクソソーム、タンパク質間相互作用（PPI）、制御相互作用を統合する。ORAやGSEAにより老化の分子機構を解明でき、遺伝子重複やJaccard類似度からハロマーク間の相互接続性を、ネットワーク解析からPPI内の接続を明らかにした。共通ハロマーク遺伝子のPPIトポロジー解析では複数の老化ハロマークにわたる中心的ハブ遺伝子を同定した。ハロマーク濃縮解析は老化関連疾患で広範な関連を示し、アルツハイマー病の「プロテオスタシス喪失」、アテローム性動脈硬化症の「慢性炎症」などを高有意に検出、ネットワーク近接解析もこれを支持した"
+      },
+      {
+        "title": "A fraction of diet-derived microRNAs present in plant extracellular vesicles remain detectable after gastrointestinal digestion and shows epithelial uptake in a CaCo-2 cell model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42841058/",
+        "abstract": "Diet constitutes a source of exogenous miRNAs that are detectable in humans. Source, stability to digestion, and cellular uptake of diet-derived miRNAs are debated topics. Here, we studied the stability of cauliflower miRNAs to cooking (100 °C, 20 min) and gastrointestinal digestion (static INFOGEST 2.0), their possible cellular uptake/secretion by CaCo-2 cells, and the role of plant extracellular vesicles (PEVs). miRNAs were assessed by qPCR. The role of PEVs was evaluated via dynamic light scattering, electron microscopy, and immunoblotting. Most RNA was degraded after digestion (99.1%). However, a fraction of miRNAs in PEVs (bol-miR172a, bol-miR156a, bol-miR164b, bol-miR1030i) remained detectable (0.05-0.24%). PEVs were also detected after digestion, which caused aggregation and decreased particle numbers. Finally, nano-encapsulation, concentration and exposure time appeared associated with miRNA uptake (40-fold compared with control). Data for secretion was inconclusive. Overall, we showed that a small fraction of miRNAs associated with PEVs remained detectable following digestion.",
+        "source": "PubMed",
+        "doi": "10.1016/j.fochms.2026.100450",
+        "keyword": "Exosomes",
+        "title_ja": "植物細胞外小胞に含まれる食事由来マイクロRNAの一部は、消化管消化後も検出可能であり、CaCo-2細胞モデルにおいて上皮への取り込みを示す。",
+        "summary_ja": "食事由来miRNAはヒトで検出される外因性miRNAの供給源だが、その由来・消化安定性・細胞取り込みは議論中である。本研究ではカリフラワーmiRNAの加熱（100℃、20分）およびINFOGEST 2.0による消化安定性、CaCo-2細胞での取り込み・分泌、植物細胞外小胞（PEV）の役割を検討した。miRNAはqPCRで、PEVは動的光散乱・電顕・免疫ブロットで評価した。消化後、RNAの99.1%が分解されたが、PEV中の一部miRNA（bol-miR172a、bol-miR156a、bol-miR164b、bol-miR1030i）は0.05～0.24%検出可能であった。消化後もPEVは検出されたが、凝集と粒子数減少を認めた。miRNA取り込みはナノカプセル化・濃度・曝露時間と関連し、対照比40倍であった。分泌は結論に至らなかった。以上より、PEV関連miRNAの一部は消化後も検出可能で"
+      },
+      {
+        "title": "Extracellular Vesicles and Exosomes as Biomarkers in Huntington's Disease: Uncovering Pathogenic Insights and Pioneering Therapies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42839139/",
+        "abstract": "Huntington's disease (HD) is a neurodegenerative disorder caused by the expression of the mutant huntingtin protein (mHTT), characterized by a progressive decline in motor function, cognitive abilities, and psychiatric symptoms. Exosomes, a distinct class of small extracellular vesicles, have emerged as promising diagnostic biomarkers and potential therapeutic tools for early disease detection and intervention. This is largely attributed to their molecular stability, cell type-specific cargo, and potential to cross the blood-brain barrier under optimized structural or delivery conditions. Extracellular vesicles (EVs) exhibit disease-associated molecular modifications and can either exacerbate or alleviate proteotoxic stress in Huntington's disease. This review provides a comprehensive overview of the role of exosomes in HD, covering their biogenesis, functional characteristics, diagnostic potential, and therapeutic applications in neural degeneration associated with HD.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-06205-z",
+        "keyword": "Exosomes",
+        "title_ja": "ハンチントン病におけるバイオマーカーとしての細胞外小胞とエクソソーム：病原性の洞察の解明と革新的治療への挑戦",
+        "summary_ja": "ハンチントン病（HD）は変異型ハンチンチン蛋白（mHTT）の発現により引き起こされる神経変性疾患で、運動・認知・精神機能の進行性低下を特徴とする。エクソソームは小型細胞外小胞の一種で、分子安定性、細胞種特異的カーゴ、血液脳関門通過能から、早期診断バイオマーカーや治療ツールとして注目される。細胞外小胞（EVs）は疾患関連分子修飾を示し、HDのプロテオ毒性ストレスを増悪または軽減しうる。本レビューは、エクソソームの生合成、機能的特徴、診断能、HD神経変性における治療応用を包括的に概説する。"
+      },
+      {
+        "title": "Highly sensitive detection of exosomal miR-122 with CRISPR-Dx for precise HCC diagnosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42838687/",
+        "abstract": "Hepatocellular carcinoma (HCC), one of the most common malignancies worldwide, poses a major threat to the global health. Its prognosis depends heavily on early detection. Currently, alpha-fetoprotein (AFP) is the widely used biomarker for HCC diagnosis. Nevertheless, approximately 40% of the HCC cases do not produce AFP. It has been reported that the downregulation of miR-122 is strongly associated with the development and progression of HCC. Here, employing miR-122 as a biomarker, we developed a cascade amplification-based CRISPR-Dx platform for HCC diagnosis. Owing to the strong trans-cleavage activities of Cas13a and Cas12a, the proposed assay enabled sensitive miR-122 detection down to 1 aM. Clinical sample analysis (n = 48) demonstrated a sensitivity of 91.3%, a specificity of 84.0%, and an overall accuracy of 87.5%, which is significantly better than that of the conventional AFP-based diagnosis (sensitivity, 43.5%; specificity, 80%; accuracy, 62.5%). In addition, because CRISPR-Dx eliminates the RNA extraction and reverse transcription steps that may cause target loss, it also showed better performance than miR-122-targeted qPCR. Given its high diagnostic accuracy and simplified workflow, the proposed miR-122-based CRISPR-Dx assay holds great promise for the clinical diagnosis of HCC.",
+        "source": "PubMed",
+        "doi": "10.1016/j.aca.2026.346190",
+        "keyword": "Exosomes",
+        "title_ja": "CRISPR-Dxを用いた高感度なエクソソームmiR-122検出による精密な肝細胞癌診断",
+        "summary_ja": "肝細胞癌（HCC）の早期診断は予後を左右するが、既存のバイオマーカーAFPは約40%の症例で産生されない。miR-122の低下はHCC進展と強く関連する。本研究ではmiR-122をバイオマーカーとし、Cas13aとCas12aのトランス切断活性を利用したカスケード増幅型CRISPR-Dxプラットフォームを開発した。本アッセイは1 aMまでの高感度検出を可能にし、臨床検体48例で感度91.3%、特異度84.0%、精度87.5%を示し、AFP診断（感度43.5%、特異度80%、精度62.5%）を大幅に上回った。またRNA抽出・逆転写工程を省略でき、qPCRより優れた性能を示した。高い診断精度と簡便なワークフローから、HCC臨床診断への応用が期待される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Advances in Extracellular Vesicle-Based Innovative Drugs Targeting Alzheimer's Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42842141/",
+        "abstract": "The scarcity of effective therapies for Alzheimer's disease (AD) underscores the urgent need for innovative strategies. This review focuses on the targeted delivery of engineered small extracellular vesicles (sEVs, 30-150 nm). By capitalizing on their intrinsic properties as natural nanocarriers-including low immunogenicity and excellent biocompatibility-these EVs can be engineered to co-deliver therapeutic cargoes such as specific miRNAs, neurotrophic factors (e.g., BDNF), and nucleic acid modalities (e.g., siRNA/ASO targeting BACE1). While a single construct simultaneously delivering all these agents with proven in vivo synergy remains a conceptual framework rather than a validated reality, independent studies have demonstrated that EV-mediated delivery of each cargo type exerts beneficial effects on AD pathology, including Aβ clearance, Tau pathology alleviation, and neuroinflammation suppression. The intranasal administration offers a significant brain-targeting advantage by enabling direct nose-to-brain delivery, bypassing the blood-brain barrier and minimizing peripheral biodistribution. Recently, a phase I/II trial (Ruijin Hospital) demonstrated that intranasal MSC-EVs are safe and produce durable cognitive improvements (ADAS-Cog ↓ 2.33 points at week 12, sustained to - 3.98 points at week 36) in the medium-dose cohort, exceeding the minimal clinically important difference (MCID) of ≥ 2 points for AD. Based on these demonstrated clinical and preclinical evidence, we propose that rationally engineered EVs, following rigorous systematic pharmacology and safety assessments, hold transformative potential to pioneer a safe, efficacious, and non-invasive breakthrough therapy for AD, while acknowledging that critical challenges in GMP manufacturing, biodistribution, and regulatory approval remain to be resolved.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-06223-x",
+        "keyword": "sEVs",
+        "title_ja": "アルツハイマー病を標的とする細胞外小胞ベースの革新的医薬品の進歩",
+        "summary_ja": "アルツハイマー病（AD）の有効な治療法不足に対し、本レビューは工学的sEV（30-150nm）による標的送達に焦点を当てる。低免疫原性・生体適合性を活かし、miRNA、BDNF、BACE1標的siRNA/ASOなどを搭載可能である。単一構築物での同時送達は概念的枠組みだが、各カーゴのEV送達はAβ除去、Tau病態軽減、神経炎症抑制に有効と示される。経鼻投与は血液脳関門を回避し脳標的性に優れる。瑞金病院の第I/II相試験では、経鼻MSC-EVが安全で、中用量群で12週にADAS-Cogが2.33点改善、36週まで3.98点持続しMCIDを超えた。GMP製造や規制承認の課題は残るが、合理的設計EVはADの非侵襲的突破治療となり得る。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の注目トピック5選：\n\n1. **フェロトーシスと腫瘍微小環境**：鉄依存性脂質過酸化による細胞死が治療抵抗性・免疫回避・転移に関与。GPX4/ACSL4経路の制御が新規治療標的に。\n\n2. **AA誘導性脂質過酸化**：PUFAがコレステロール合成を阻害しROSを増加、腫瘍細胞のアポトーシスとフェロトーシスを誘導。代謝制御による癌治療の可能性。\n\n3. **MSC由来EVとOA炎症**：間葉系幹細胞エクソソームがTh1/STAT1炎症応答を調節。無細胞治療として変形性関節症への応用が期待。\n\n4. **CRISPR-Dxによるexosomal miR-122検出**：AFP陰性HCC症例にも対応可能な高感度診断法。早期肝細胞癌診断の精度向上に貢献。\n\n5. **老化ハロマーク統合DB**：11の老化指標と3111遺伝子を統合したAgingHallmarksDB。システムレベル老化研究と創薬標的探索を加速。\n\nこれらは癌代謝・免疫調節・EV診断・老化研究の融合領域を示し、精密医療への展開が展望される。"
+}

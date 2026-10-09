@@ -1,0 +1,114 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Fibroblastic Reticular Cell-Derived and CD5L-Enriched Exosomes Remodel Renal Lipid Metabolism in Porcine Sepsis-Associated Acute Kidney Injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42848450/",
+        "abstract": "Sepsis-associated AKI is a life-threatening condition associated with profound metabolic dysfunction, including impaired mitochondrial fatty acid handling. Therapies capable of reversing this metabolic dysfunction remain lacking. Using a clinically relevant porcine model, we investigated whether kidney-targeted fibroblastic reticular cell-derived and CD5L-enriched exosomes could ameliorate sepsis-associated AKI.",
+        "source": "PubMed",
+        "doi": "10.1681/ASN.0000001266",
+        "keyword": "Exosomes",
+        "title_ja": "線維芽細胞性細網細胞由来およびCD5Lに富むエクソソームは、ブタ敗血症関連急性腎障害において腎脂質代謝を再構築する。",
+        "summary_ja": "敗血症関連AKIは重篤な代謝障害、特にミトコンドリアの脂肪酸処理障害を伴う。これを是正する治療法は未だ存在しない。本研究では臨床的に妥当なブタモデルを用い、腎標的化した線維芽細網細胞由来かつCD5Lを豊富に含むエクソソームが敗血症関連AKIを改善し得るか検討した。"
+      },
+      {
+        "title": "Exosomal circ55033 promotes cigarette smoke-induced bladder cancer by modulating EMT and stem cell properties.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42848177/",
+        "abstract": "Bladder cancer has high morbidity and mortality, and cigarette smoke is a major risk factor for this disease. Exosomal circRNAs are widely involved in tumor progression, while their roles in smoke-related bladder cancer remain unclear. In the present study, we identified and validated circ55033, a highly expressed circRNA in clinical samples from smoking patients. Functional experiments demonstrated that cigarette smoke induced EMT and cancer stemness in bladder cancer cells via exosome-transported circ55033. Mechanistically, circ55033 acts as a molecular sponge for miR-1286 to exert its oncogenic effects. Notably, exosomal circ55033 exhibits preliminary diagnostic capacity in patient serum and represents a promising translational candidate for non-invasive liquid biopsy biomarkers and targeted therapeutic interventions against smoking-related bladder cancer. These findings provide novel insights into the mechanisms underlying cigarette smoke-induced bladder cancer and highlight the potential of exosomal circ55033 as a preliminary candidate diagnostic and therapy biomarker.",
+        "source": "PubMed",
+        "doi": "10.1007/s12032-026-03444-x",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームのcirc55033はEMTと幹細胞特性を調節することで喫煙誘発性膀胱がんを促進する",
+        "summary_ja": "膀胱癌は罹患率・死亡率が高く、喫煙は主要なリスク因子である。Exosomal circRNAは腫瘍進行に関与するが、喫煙関連膀胱癌での役割は不明であった。本研究では喫煙患者の臨床検体で高発現するcirc55033を同定・検証した。機能実験により、cigarette smokeがexosome輸送性circ55033を介して膀胱癌細胞のEMTとcancer stemnessを誘導することが示された。機序として、circ55033はmiR-1286のmolecular spongeとしてoncogenic効果を発揮する。exosomal circ55033は患者血清で予備的な診断能を示し、非侵襲的liquid biopsyバイオマーカーおよび標的治療介入の有望な候補となる。これらの知見は喫煙誘発膀胱癌の機序に新たな洞察を与える。"
+      },
+      {
+        "title": "RVG29-functionalized nanocarriers for brain-targeted therapy of neurodegenerative diseases: mechanisms, therapeutic advances, and translational perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42844308/",
+        "abstract": "Neurodegenerative diseases (NDs) affect more than 55 million people worldwide, with this number projected to exceed 139 million by 2050 due to population aging. Alzheimer's disease (AD) accounts for 60-70% of dementia cases, while Parkinson's disease (PD) affects over 10 million individuals globally, highlighting the growing clinical and socioeconomic burden of these progressive neurological disorders. Effective treatment of AD, PD, amyotrophic lateral sclerosis (ALS), and related central nervous system disorders remains hindered by the blood-brain barrier (BBB), poor brain accumulation, rapid systemic clearance, and off-target toxicity. RVG29, a 29-amino-acid peptide derived from rabies virus glycoprotein, has emerged as a promising brain-targeting ligand because of its high affinity for nicotinic acetylcholine receptors expressed on neuronal and brain endothelial cells. This review critically examines the mechanisms underlying RVG29-mediated receptor-dependent BBB transcytosis, intracellular trafficking, and neuronal uptake. Furthermore, it comprehensively evaluates RVG29-functionalized lipid nanoparticles, polymeric nanoparticles, exosomes, biomimetic nanocarriers, micelles, inorganic nanostructures, and hybrid systems with respect to their physicochemical characteristics, targeting efficiency, therapeutic efficacy, and safety. Collectively, these nanocarriers demonstrate enhanced BBB penetration, increased drug accumulation in diseased brain regions, and efficient delivery of small molecules, genes, mRNA, and siRNA. By modulating oxidative stress, neuroinflammation, protein aggregation, ferroptosis, and mitochondrial dysfunction, RVG29-engineered nanocarriers provide significant neuroprotection with favorable biocompatibility and minimal immunogenicity. Despite these advances, challenges related to large-scale manufacturing, peptide stability, regulatory approval, and long-term biosafety must be addressed to facilitate their clinical translation as precision neurotherapeutics.",
+        "source": "PubMed",
+        "doi": "10.1007/s00210-026-05958-7",
+        "keyword": "Exosomes",
+        "title_ja": "神経変性疾患の脳標的治療のためのRVG29修飾ナノキャリア：機序、治療の進歩、およびトランスレーショナルな展望",
+        "summary_ja": "神経変性疾患（NDs）は世界で5500万人以上に影響し、2050年には1億3900万人超に増加すると予測される。ADは認知症の60～70%を占め、PDは世界で1000万人以上が罹患する。治療はBBB、脳内蓄積の低さ、全身クリアランス、標的外毒性に阻まれている。RVG29は狂犬病ウイルス糖タンパク質由来の29アミノ酸ペプチドで、神経細胞や脳内皮細胞のニコチン性アセチルコリン受容体への高親和性から脳標的リガンドとして注目される。本レビューはRVG29による受容体依存性BBB transcytosis、細胞内輸送、神経細胞取り込みの機序を検討し、RVG29修飾リポソーム、ポリマー、エクソソーム、生体模倣、ミセル、無機、ハイブリッドナノキャリアの特性、標的効率、有効性、安全性を評価する。これらはBBB透過性、病変部蓄積、small molecules、genes、mRNA、siRNA送達を向上させ"
+      },
+      {
+        "title": "Bioengineering strategies for improving the immunogenicity of mRNA vaccines.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42844249/",
+        "abstract": "Messenger RNA (mRNA) vaccines have reshaped modern vaccinology by enabling rapid antigen design, scalable manufacturing, and coordinated induction of humoral and cellular immunity. Their clinical success has established mRNA as a versatile platform for infectious diseases, cancer immunotherapy, and emerging therapeutic applications. However, expansion into cardiovascular, neurodegenerative, autoimmune, and metabolic disorders imposes indication-specific requirements that cannot be addressed by uniform design strategies. Vaccine performance depends not only on antigen output, but also on how RNA architecture and delivery systems regulate innate sensing, intracellular trafficking, tissue distribution, and adaptive immune programming. In this review, we summarize bioengineering strategies for improving mRNA vaccine immunogenicity by coordinating antigen-expression efficiency with innate immune regulation. We compare non-replicating mRNA, self-amplifying RNA, and circular RNA in terms of expression kinetics, translational logic, safety considerations, and innate immune activation. We then discuss molecular engineering approaches that enhance stability, translation, and immune control, including optimization of cap structures, untranslated regions, poly(A) tails, nucleotide modifications, codon usage, and platform-specific designs for saRNA and circRNA. We further examine delivery systems, including lipid nanoparticles, exosomes, polymer-based carriers, virus-like particles, and hybrid platforms, emphasizing their dual roles in cargo transport and immune modulation. Finally, we discuss indication-specific design principles, manufacturing constraints, and translational challenges. We propose that next-generation mRNA vaccines will require disease-matched co-design of RNA molecules and delivery platforms to enhance antigen expression, tune immune activation, and strengthen clinical translation.",
+        "source": "PubMed",
+        "doi": "10.1038/s41392-026-02991-z",
+        "keyword": "Exosomes",
+        "title_ja": "mRNAワクチンの免疫原性を高めるためのバイオエンジニアリング戦略",
+        "summary_ja": "mRNAワクチンは迅速な抗原設計やスケーラブル製造、液性・細胞性免疫の誘導を可能にし、感染症・がん免疫療法などで成功を収めた。しかし心血管・神経変性・自己免疫・代謝疾患への拡張には適応特異的な設計が必要で、性能は抗原発現量だけでなく、RNA構造や送達系が自然免疫センシング、細胞内輸送、組織分布、適応免疫プログラミングをどう制御するかに依存する。本レビューでは、非複製mRNA、自己増幅RNA（saRNA）、環状RNA（circRNA）を発現動態・翻訳論理・安全性・自然免疫活性化の観点で比較し、キャップ構造、UTR、poly(A)鎖、ヌクレオチド修飾、コドン使用などの分子工学的手法を論じる。さらに脂質ナノ粒子、エクソソーム、ポリマー、ウイルス様粒子などの送達系の二重機能を検討し、疾患適合型のRNA・送達系共設計の必要性を提唱する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Transplantation of endothelial progenitor cells attenuates pulmonary fibrosis via IFITM3-containing exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42847995/",
+        "abstract": "Endothelial progenitor cells (EPCs) are critical for vascular regeneration after injury. However, their role in pulmonary fibrosis (PF) remains unclear. Here, we identified a previously unrecognized population of lung capillary EPCs coexpressing c-KIT and FOXF1 (capEPCs) in adult human and mouse lungs. capEPCs were significantly reduced in lungs from patients with PF and in bleomycin-injured mice, implicating loss of this regenerative endothelial population in disease pathogenesis. Transplantation of donor capEPCs attenuated experimental PF, improved survival, reduced collagen deposition, and restored lung function. Donor capEPCs engrafted into the lung microcirculation of bleomycin-injured mice. Single-cell RNA sequencing identified interferon-induced transmembrane protein 3 as a highly enriched transcript in capEPCs. Conditioned media from IFITM3-overexpressing EPCs or recombinant IFITM3 enhanced endothelial proliferation and angiogenesis while suppressing TGF-β1-induced fibroblast activation in vitro. IFITM3 was found in capEPC-derived exosomes. Treatment with IFITM3-containing exosomes recapitulated the therapeutic effects of capEPC transplantation by improving endothelial function, inhibiting fibroblast activation, increasing animal survival, reducing lung fibrosis, and restoring lung function. Together these findings identified capEPC deficiency as a feature of PF and demonstrated that IFITM3-containing exosomes promoted vascular repair. Restoration of capEPC regenerative function or delivery of IFITM3-enriched exosomes may represent a promising therapeutic strategy for human PF.",
+        "source": "PubMed",
+        "doi": "10.1172/jci.insight.199743",
+        "keyword": "Exosomes",
+        "title_ja": "内皮祖细胞移植通过含IFITM3的外泌体减轻肺纤维化。",
+        "summary_ja": "内皮前駆細胞（EPC）は傷害後の血管再生に重要だが、肺線維症（PF）における役割は不明だった。本研究では、成人ヒトおよびマウス肺にc-KITとFOXF1を共発現する肺毛細血管EPC（capEPC）を同定した。capEPCはPF患者およびブレオマイシン傷害マウスの肺で有意に減少し、病態への関与が示唆された。capEPC移植は実験的PFを軽減し、生存率改善、コラーゲン沈着減少、肺機能回復をもたらした。単細胞RNAシーケンスでIFITM3がcapEPCに高発現し、IFITM3含有エクソソームが内皮増殖・血管新生を促進し、TGF-β1誘導線維芽細胞活性化を抑制した。IFITM3含有エクソソーム投与はcapEPC移植の治療効果を再現した。capEPC欠乏はPFの特徴であり、IFITM3含有エクソソームは血管修復を促進し、PF治療戦略として有望である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Engineered mesenchymal stem cell-derived small extracellular vesicles delivering miR-124 suppress colorectal cancer progression through EZH2 downregulation and attenuation of STAT3 signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42848258/",
+        "abstract": "Colorectal cancer (CRC) progression is driven by dysregulated molecular pathways and epigenetic alterations, including enhancer of zeste homolog 2 (EZH2)-mediated histone methylation and STAT3 hyperactivation. While microRNA-124 (miR-124) acts as a tumor suppressor by targeting EZH2, its clinical translation is hindered by delivery challenges. Here, we engineered mesenchymal stem cell-derived small extracellular vesicles (MSC-sEVs) to deliver miR-124, exploiting their tumor-homing capacity and biocompatibility to suppress CRC progression. Bioinformatic analysis of clinical datasets revealed miR-124 downregulation in CRC tissues, correlating with advanced stages and poor prognosis. Lentiviral transduction enabled efficient miR-124 packaging into MSC-sEVs, which were internalized by CRC cells, restoring functional miR-124 levels. Mechanistically, miR-124 directly silenced EZH2, thereby suppressing its oncogenic activity. This led to attenuated STAT3 phosphorylation-a dual effect that inhibited proliferation, migration, and epithelial-mesenchymal transition (EMT) in CRC cells. In vitro, MSC-sEV-miR-124 induced apoptosis, sensitized cells to 5-fluorouracil, and reversed chemoresistance via EZH2 downregulation. In vivo, MSC-sEV-miR-124 significantly reduced tumor growth in BALB/c mice, downregulated EZH2/STAT3 signaling, and suppressed Ki-67 and EMT markers in xenografts. This study provides proof-of-concept that engineered MSC-sEVs can serve as a delivery platform for miR-124 in murine CRC models, offering a dual-targeting strategy against EZH2 and STAT3 to disrupt CRC progression. Our findings suggest that EV-based miRNA delivery warrants further investigation as a strategy to modulate the tumor microenvironment, providing a foundation for development aimed at overcoming epigenetic and oncogenic signaling barriers in CRC therapy.",
+        "source": "PubMed",
+        "doi": "10.1007/s12032-026-03418-z",
+        "keyword": "sEVs",
+        "title_ja": "EZH2のダウンレギュレーションとSTAT3シグナル伝達の減弱を介して大腸がんの進行を抑制する、miR-124を送達する工学操作された間葉系幹細胞由来の小型細胞外小胞",
+        "summary_ja": "大腸癌（CRC）の進行はEZH2によるヒストンメチル化やSTAT3の過剰活性化などに駆動される。miR-124はEZH2を標的とする腫瘍抑制因子だが、送達が課題である。本研究では間葉系幹細胞由来small extracellular vesicles（MSC-sEVs）にmiR-124を搭載し、CRC細胞に取り込ませた。miR-124はEZH2を直接抑制し、STAT3リン酸化を減弱させ、増殖・遊走・EMTを阻害した。in vitroでアポトーシス誘導や5-FU感受性亢進、in vivoで腫瘍増殖抑制とEZH2/STAT3シグナル低下、Ki-67・EMTマーカー抑制を示した。MSC-sEVsはmiR-124送達基盤としてEZH2とSTAT3の二重標的戦略を提供し、CRC治療におけるエピジェネティック・腫瘍シグナル障壁克服の可能性を示す。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **CD5L含有エクソソームによる敗血症性AKI治療**：ブタモデルで腎標的化エクソソームが脂肪酸代謝障害を是正。実臨床に近い大動物検証であり、AKI治療の新機軸として期待される。\n\n2. **喫煙関連膀胱癌におけるexosomal circ55033**：喫煙患者検体で高発現し、EMT・幹細胞性を促進。バイオマーカーおよび治療標的として有望。\n\n3. **RVG29ナノキャリアによる脳標的治療**：BBB通過と標的送達を改善し、神経変性疾患治療の翻訳的展望を示す。\n\n4. **mRNAワクチンの免疫原性工学**：抗原設計に加え送達・アジュバント最適化が重要。疾患特異的応用拡大の鍵となる。\n\n5. **EPC由来IFITM3エクソソームによる肺線維症抑制**：capEPC同定と抗線維化機序を提示。細胞治療から無細胞治療への展開が期待される。\n\n以上は、代謝・腫瘍・脳送達・ワクチン・線維症という異分野にわたり、エクソソーム/sEVs基盤治療の臨床応用可能性を広く示している点で重要である。"
+}

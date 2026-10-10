@@ -1,0 +1,126 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "JAK-inhibitor treatment induces rapid yet incomplete immune reconstitution in STAT1 gain-of-function.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42853149/",
+        "abstract": "Autosomal dominant STAT1 gain-of-function (GOF) is an inborn error of immunity characterized by chronic mucocutaneous candidiasis and variable immune dysregulation. JAK inhibitors are a promising therapy, but their efficacy in STAT1 GOF remains variable. We longitudinally evaluated the clinical and molecular impact of JAK inhibitors in two STAT1 GOF patients, harboring p.R321S and p.T385M mutations, using Cellular Indexing of Transcriptomes and Epitopes by sequencing, flow cytometry, cytokine measurement, and allele-specific expression analysis in peripheral blood mononuclear cells and serum. Rapid yet incomplete immune reconstitution was observed as early as 1 week after treatment initiation. T cells rebalanced to a more homeostatic status and TCR repertoire diversity increased rapidly. However, some immune defects remained, including natural killer deficiency in one patient. The pronounced transcriptional dysregulation in monocytes was not explained by an unbalanced mutant STAT1 expression but improved with JAK-inhibitor treatment. JAK inhibitors provided significant clinical and immunological benefits to STAT1 GOF patients but did not fully restore immune homeostasis. These findings highlight the therapeutic potential and limitations of JAK inhibitors in STAT1 GOF.",
+        "source": "PubMed",
+        "doi": "10.70962/jhi.20260009",
+        "keyword": "NK cell therapy",
+        "title_ja": "JAK阻害薬治療はSTAT1機能獲得型において急速だが不完全な免疫再構築を誘導する。",
+        "summary_ja": "常染色体優性STAT1 gain-of-function（GOF）は慢性皮膚粘膜カンジダ症と免疫調節異常を特徴とする先天性免疫異常症である。JAK阻害薬は有望だが効果は一定しない。p.R321Sおよびp.T385M変異を持つSTAT1 GOF患者2例で、CITE-seq、フローサイトメトリー、サイトカイン測定、アレル特異的発現解析を用いてJAK阻害薬の影響を経時的に評価した。治療開始1週間で速やかだが不完全な免疫再構築が観察され、T細胞は恒常性状態へ再均衡しTCRレパートリー多様性は急速に増加した。しかしNK細胞欠損など一部の免疫異常は残存した。単球の顕著な転写異常は変異STAT1発現の不均衡では説明できず、JAK阻害薬で改善した。JAK阻害薬は臨床的・免疫学的利益をもたらすが、免疫恒常性を完全には回復しない。"
+      },
+      {
+        "title": "INSR Armoring Protects CAR-NK and CAR-T Cells Against Tumor Stroma-Induced CAR Shedding by Maintaining Cholesterol Homeostasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42853033/",
+        "abstract": "While chimeric antigen receptor (CAR)-engineered T and NK cell therapies have revolutionized hematological malignancy treatment, translating this success to solid tumors remains a persistent challenge. Here, we demonstrated a stromal-associated metabolic mechanism in which cancer-associated fibroblasts (CAFs) and macrophage-associated populations in gastrointestinal cancers contribute to CAR loss through CYP27A1-derived 27-hydroxycholesterol (27HC). 27HC triggered membrane cholesterol depletion, destabilizing lipid rafts and promoting the release of full-length CAR in ARF6+CD81+ microvesicle-enriched fractions. NK92 cells chronically exposed to sublethal 27HC adapted to this stress via an AKT-FOXO1-insulin receptor (INSR) signaling cascade that restores cholesterol biosynthesis. Capitalizing on this mechanism, \"metabolically armored\" INSR-overexpressing CAR-NK92 and primary CAR-T cells were engineered, which stabilized lipid rafts, preserved CAR expression, and improved antitumor activity in patient-derived organoids, precision-cut tumor slices, and xenografts. Collectively, these findings identify a stromal-mediated metabolic immune evasion pathway in gastrointestinal tumors, uncovering a potential strategy to potentiate CAR-engineered therapies.",
+        "source": "PubMed",
+        "doi": "10.1158/0008-5472.CAN-26-1047",
+        "keyword": "NK cell therapy",
+        "title_ja": "INSR装甲化はコレステロール恒常性を維持することでCAR-NK細胞およびCAR-T細胞を腫瘍間質誘導性CAR切断から保護する",
+        "summary_ja": "消化器癌のCAFやマクロファージ由来CYP27A1産生27-hydroxycholesterol（27HC）が、膜コレステロール枯渇と脂質ラフト不安定化を引き起こし、ARF6+CD81+マイクロベシクル画分への完全長CAR放出を促進する間質性代謝機構を報告。NK92細胞は亜致死量27HCへの慢性曝露でAKT-FOXO1-INSRシグナルを介しコレステロール生合成を回復し適応。この機構を利用しINSR過剰発現による「代謝装甲」CAR-NK92および初代CAR-Tを作製。脂質ラフト安定化、CAR発現維持、患者由来オルガノイド、精密切断腫瘍スライス、異種移植で抗腫瘍活性改善。消化器腫瘍の間質性代謝免疫回避経路を同定し、CAR療法強化戦略を提示。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "cGAS‑STING pathway in digestive tract cancer: From molecular mechanisms to therapeutic applications (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42852635/",
+        "abstract": "As a classic cytosolic DNA sensor, the cyclic GMP‑AMP synthase (cGAS)‑stimulator of interferon genes (STING) pathway contributes to the secretion of multiple inflammatory molecules and functions as a suppressor or promoter in tumor development. Currently, the effect of this pathway on digestive tract cancer types remains unclear, which may be due to its paradoxical roles in different cell types. Tumor cells in digestive cancer often employ multiple mechanisms to inhibit this pathway activation, which then restricts the infiltration of antitumor immune cells and facilitates the formation of an immunosuppressive microenvironment. However, cGAS‑STING pathway activation also influences the function of multiple immune cells. For example, while it mainly potentiates the function of dendritic cells and natural killer cells in the tumor microenvironment, it can also promote macrophage polarization into the immunosuppressive M2 subset. To improve the understanding of the cGAS‑STING pathway in digestive cancer types, the present article systematically reviews the regulatory mechanism and effects of this pathway across different malignancies of the digestive system, including oral cavity, esophageal, gastric, hepatobiliary, pancreatic and colorectal cancer. Furthermore, the present review examines potential stimulatory strategies and future directions to utilize this pathway against tumors, such as inducing DNA damage, removing cell‑intrinsic inhibitory signals and direct activation by agonists. Overall, the present review aims to provide new perspectives and ideas for leveraging the cGAS‑STING pathway to exert antitumor effects by highlighting the changes and roles of this pathway in digestive tract cancer types.",
+        "source": "PubMed",
+        "doi": "10.3892/ijo.2026.5944",
+        "keyword": "NK cell therapy",
+        "title_ja": "消化管癌におけるcGAS-STING経路：分子メカニズムから治療応用まで（総説）",
+        "summary_ja": "本レビューは、細胞質DNAセンサーであるcGAS-STING経路に焦点を当てている。本経路は炎症性分子の分泌を促し、腫瘍発展において抑制的または促進的に作用する。消化器癌では、腫瘍細胞が本経路の活性化を阻害し、抗腫瘍免疫細胞の浸潤を制限して免疫抑制性微小環境を形成する。一方、活性化は樹状細胞やNK細胞を強化するが、マクロファージをM2サブセットへ分極させる。本稿は口腔、食道、胃、肝胆、膵、大腸癌における制御機構と効果を概説し、DNA損傷誘導、細胞内在性抑制シグナル除去、アゴニストによる直接活性化などの治療戦略と今後の方向性を検討する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Biomaterial-Based Controlled Release Systems for Spinal Cord Remyelination.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42856040/",
+        "abstract": "Spinal cord injury (SCI) triggers a complex secondary injury cascade characterized by oligodendrocyte (OL) death and axonal demyelination, leading to permanent neurological deficits. Despite the presence of endogenous oligodendrocyte progenitor cells (OPCs), the inhibitory microenvironment-marked by inflammation, glial scarring, and biochemical barriers-prevents effective remyelination. Traditional pharmacological treatments are further hindered by the blood-spinal cord barrier and rapid clearance of intrathecal injections. This review examines the evolution of controlled release systems engineered to modulate the oligodendroglial lineage. We analyze macro- and micro-scale platforms, including scaffolds, which provide mechanical and topographical cues to direct the fate of OLs and OPCs. Furthermore, we discuss advanced nanoscale vectors, such as nanoparticles and exosomes, designed to deliver high-value payloads-including small molecules and therapeutic oligonucleotides-directly to the lesion site while minimizing systemic toxicity. Finally, we address critical translational gaps to bridge the divide between preclinical innovation and clinical application in restoring neural connectivity.",
+        "source": "PubMed",
+        "doi": "10.1002/adma.75202",
+        "keyword": "Exosomes",
+        "title_ja": "脊髄再髄鞘化のための生体材料ベースの制御放出システム",
+        "summary_ja": "脊髄損傷（SCI）は二次損傷カスケードを引き起こし、オリゴデンドロサイト（OL）死と軸索脱髄により永続的な神経障害を生じる。内因性オリゴデンドロサイト前駆細胞（OPC）が存在しても、炎症・グリア瘢痕・生化学的障壁からなる抑制的微小環境が再髄鞘化を妨げる。従来の薬理治療は血液脊髄関門や髄腔内注射の速やかなクリアランスに阻まれる。本レビューは、オリゴデンドログリア系譜を調節する制御放出システムの進展を検討する。足場を含むマクロ・ミクロスケールプラットフォームがOL・OPCの運命を導く機械的・トポグラフィカルな手がかりを提供する。さらに、低分子や治療用オリゴヌクレオチドを病変部へ直接送達し全身毒性を最小化するナノ粒子やエクソソームなどのナノスケールベクターを論じる。最後に、神経接続回復における前臨床革新と臨床応用の隔たりを埋めるための翻訳上の課題を扱う。"
+      },
+      {
+        "title": "An update on miRNAs as non-invasive diagnostic markers for endometriosis: Why have we not reached consensus?",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42854833/",
+        "abstract": "The objective of this narrative review is to provide an update on microRNAs (miRNAs) as non-invasive biomarkers for endometriosis diagnosis focusing on publications from 2016 to 2026. In addition to updating miRNAs reported during this time frame, we also discuss why consensus has not been reached on identification of miRNAs with suitable sensitivity and specificity as diagnostic markers. A literature search was performed on PubMed from January 1, 2016 to September 1, 2026 using the keywords endometriosis, miRNA, and biomarker. A total of 238 articles were retrieved of which 101 were reviews, meta-analysis, or database searches, 46 articles focused on tissue or cell assessment of miRNA expression limiting the non-invasive approach, 24 were not focused on endometriosis but diseases comorbid with endometriosis, 17 focused on exosomes, 15 focused on other body fluid assessment of miRNAs, 4 focused on AI/machine learning, and 2 focused on animal model assessment of miRNA expression leaving 29 publications for further evaluation. The search for non-invasive biomarkers for endometriosis remains ongoing. From the studies presented in this review, while several miRNAs have emerged as candidate biomarkers, there is still considerable variability with respect to differentially expressed miRNAs between women with and without endometriosis. Focused assessment on methodologies employed for isolating serum/plasma, extraction of RNA/miRNAs, amplification and data normalization from these samples and if and how sample hemolysis was assessed and revealed differences among the studies all which impact miRNA profiles. As such, it is imperative to develop a standardized protocol when assessing miRNAs from blood if we hope to identify miRNAs which may prove useful in non-invasive diagnosis of endometriosis.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jmig.2026.10.004",
+        "keyword": "Exosomes",
+        "title_ja": "子宮内膜症の非侵襲的診断マーカーとしてのmiRNAに関する最新知見：なぜコンセンサスに至らないのか？",
+        "summary_ja": "本レビューは、2016～2026年の文献を基に、子宮内膜症の非侵襲的診断マーカーとしてのmiRNAの現状をまとめた。PubMed検索で238件を抽出し、最終的に29件を精査した。複数のmiRNAが候補として挙がるが、子宮内膜症群と非罹患群間の差異発現には大きなばらつきがある。原因として、血清/血漿の分離、RNA/miRNA抽出、増幅、データ正規化、溶血評価などの方法論の相違がmiRNAプロファイルに影響することが挙げられる。血液由来miRNAの標準化プロトコル確立が、非侵襲的诊断に有用なmiRNA同定に不可欠である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Artificial Regulatory T Cells Orchestrate Phase-Spanning Regeneration in Refractory Tissue Injuries.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42856030/",
+        "abstract": "Regulatory T cells (Tregs) possess potent multiphasic reparative capacity; however, their application is limited by ethical and regulatory challenges associated with live cell therapies. Treg-derived exosomes (TExo) exhibit low immunogenicity while enriching regenerative signaling relative to parental Tregs. Current exosome carriers place greater emphasis on sustained release than on factors affecting vesicle stability, such as nonspecific interactions and confinement effects. Inspired by the multivesicular body (MVB), we engineered artificial Tregs (ATregs) with an MVB-like architecture that integrates vesicle protection with sustained release through a reconstructed storage microenvironment. This design enables phase-aligned TExo release and extends functional activity by more than an order of magnitude compared with free TExo. ATregs sequentially coordinate the suppression of inflammation, enhancement of angiogenesis, and stimulation of skin appendage regeneration. In diabetic wounds and deep second-degree burn models, which represent intrinsic repair dysfunction and severe structural tissue loss, ATregs markedly accelerate healing and outperform conventional strategies across murine and porcine models. These findings overcome the key limitations of exosome therapies and open a new avenue for next-generation regenerative therapeutics.",
+        "source": "PubMed",
+        "doi": "10.1002/adma.75362",
+        "keyword": "Exosomes",
+        "title_ja": "人工制御性T細胞が難治性組織損傷における段階をまたぐ再生を統御する",
+        "summary_ja": "制御性T細胞（Tregs）は多相的な修復能を持つが、生細胞療法の倫理的・規制的課題が応用を制限する。Treg由来エクソソーム（TExo）は低免疫原性で、親Tregより再生シグナルを豊富に含む。既存の担体は持続放出を重視し、非特異的相互作用や閉じ込め効果など小胞安定性への影響を軽視してきた。多胞体（MVB）に着想を得て、MVB様構造を持つ人工Treg（ATregs）を設計し、小胞保護と持続放出を統合した。これによりTExoの相整列放出が可能となり、機能的活性が遊離TExoの10倍以上に延長。ATregsは炎症抑制、血管新生促進、皮膚付属器再生を順次制御する。糖尿病性創傷および深達性II度熱傷モデルで、マウス・ブタ双方において治癒を著しく加速し従来戦略を上回った。本研究はエクソソーム療法の限界を克服し、次世代再生医療への新たな道を開く。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Proteomics analysis of small extracellular vesicles derived from human retinal Müller glial cells under high glucose condition.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42854891/",
+        "abstract": "Diabetic retinopathy (DR) is a leading cause of vision loss and is characterized by early dysfunction of the retinal neurovascular unit (NVU), preceding neurodegenerative and vascular pathology. Müller glial cells are central regulators of retinal homeostasis, but the contribution of Müller glia-derived small extracellular vesicles (sEVs) to intercellular communication during hyperglycemic stress remains incompletely understood. Here, we examined the effects of high-glucose (HG) challenge on sEV release and protein cargo in the immortalized human Müller glial cell line MIO-M1. Cells were exposed to 35 mM D-glucose or an osmotic control. sEVs were isolated from cell culture media and characterized by nanoparticle tracking analysis, transmission electron microscopy, and immunoblotting. Quantitative proteomic profiling was performed using data-independent acquisition mass spectrometry. HG exposure did not significantly change sEV size distribution or particle yield but changed the proteomic profiles of both Müller glia cells and their secreted sEVs. Differentially abundant proteins were enriched in pathways and functional classes related to RNA binding and processing, protein translation, cytoskeletal organization, carbon metabolism, lysosomal function, and immune/inflammatory signaling. These findings provide a new proteomic resource and identify candidate pathways through which HG stress may modify Müller glia cellular and sEV protein profiles. Because the study used an immortalized cell line, a short-term in vitro exposure, and did not directly test the effects of HG-modified sEVs on recipient retinal cells, the functional and in-vivo relevance of these proteomic changes requires further investigation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.exer.2026.111279",
+        "keyword": "sEVs",
+        "title_ja": "高グルコース条件下でヒト網膜ミュラーグリア細胞から派生した小細胞外小胞のプロテオミクス解析",
+        "summary_ja": "糖尿病網膜症（DR）は失明の主要原因であり、早期の網膜神経血管ユニット（NVU）機能不全を特徴とする。Müllerグリア細胞は網膜恒常性の中心的制御因子だが、高血糖ストレス下でのMüllerグリア由来small extracellular vesicles（sEVs）の細胞間通信への寄与は不明な点が多い。本研究では、不死化ヒトMüllerグリア細胞株MIO-M1を35 mM D-グルコースまたは浸透圧対照に曝露し、sEVを単離・特性評価した。高グルコース（HG）はsEVのサイズ分布や粒子収量を有意に変化させなかったが、Müllerグリア細胞とsEV双方のプロテオームプロファイルを変化させた。変動タンパク質はRNA結合・プロセシング、タンパク質翻訳、細胞骨格、炭素代謝、リソソーム機能、免疫・炎症シグナルに関連する経路に濃縮された。本研究は新たなプロテオミクスリソースを提供し、HGストレスがM"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **STAT1 GOFへのJAK阻害薬**：迅速だが不完全な免疫再構築。難治性先天性免疫異常症の治療戦略に個別化の必要性を示す。\n\n2. **INSR装甲CAR-NK/CAR-T**：腫瘍間質の27HCによるCAR sheddingをコレステロール恒常性維持で防ぐ。固形癌CAR療法の耐久性向上に有望。\n\n3. **cGAS-STING経路と消化器癌**：両面的作用の理解が新規免疫療法標的の鍵。阻害解除による抗腫瘍免疫増強が期待される。\n\n4. **Treg由来エクソソーム（TExo）**：人工制御性T細胞として難治性組織損傷の多相再生を統御。低免疫原性の細胞フリー療法として実用化に前進。\n\n5. **Müllerグリア由来sEVのプロテオミクス**：高血糖下の糖尿病網膜症早期NVU機能不全の分子基盤を解明。非侵襲診断・治療標的として注目。\n\n以上、免疫調節・細胞療法・再生医療・診断マーカーが横断的に進展しています。"
+}

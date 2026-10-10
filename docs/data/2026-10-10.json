@@ -1,0 +1,99 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "ALIX-dependent small extracellular vesicles from tissue-resident mesenchymal cells regulate pancreatic β cell proliferation in obesity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42853930/",
+        "abstract": "Cells throughout the body release small extracellular vesicles (sEVs), including exosomes, that function as modulators of both local and systemic metabolism. Using mice in which ALIX, a key regulator of sEV biogenesis, was selectively deleted in PDGFRα",
+        "source": "PubMed",
+        "doi": "10.1126/sciadv.aei1333",
+        "keyword": "Exosomes",
+        "matched_keywords": [
+          "Exosomes",
+          "sEVs"
+        ],
+        "title_ja": "肥満における組織常在性間葉系細胞由来のALIX依存性小型細胞外小胞は膵β細胞の増殖を制御する",
+        "summary_ja": "肥満において組織常在性間葉系細胞から放出されるALIX依存性small extracellular vesicles（sEVs）が膵β細胞増殖を制御するという研究。ALIXはsEV生合成の主要制御因子であり、PDGFRα発現細胞特異的にALIXを欠失させたマウスを用いて解析した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Clinical Significance of Klotho, Fibroblast Growth Factor 23, and their Ratio for Acute Kidney Injury in Sepsis Patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42853715/",
+        "abstract": "The sepsis-associated acute kidney injury (SA-AKI) is common in patients with sepsis and associated with poor outcomes, yet serum creatinine and urine output have limited value for early assessment. We examined whether admission Klotho, fibroblast growth factor 23 (FGF23), and the Klotho/FGF23 ratio were associated with SA-AKI and short-term outcomes and compared their discriminative performance.",
+        "source": "PubMed",
+        "doi": "10.1159/mpp/adpag028",
+        "keyword": "Klotho",
+        "title_ja": "敗血症患者における急性腎障害に対するKlotho、線維芽細胞増殖因子23、およびその比の臨床的意義",
+        "summary_ja": "敗血症患者におけるSA-AKIは一般的で予後不良だが、血清クレアチニンと尿量は早期評価に限界がある。本研究では、入院時のKlotho、FGF23、およびKlotho/FGF23比がSA-AKIおよび短期転帰と関連するか、またそれらの識別能を比較検討した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "A bibliometric review of hotspots and trends in exosome research over the past decade.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42854062/",
+        "abstract": "This study aims to investigate the recent research hotspots and frontiers in the field of exosomes, offering a comprehensive review of advancements in exosome research and elucidating their implications and future directions.",
+        "source": "PubMed",
+        "doi": "10.1097/MD.0000000000051007",
+        "keyword": "Exosomes",
+        "title_ja": "過去10年間のエクソソーム研究におけるホットスポットとトレンドの計量書誌学的レビュー",
+        "summary_ja": "本論文は、過去10年間のエクソソーム研究におけるホットスポットと動向をbibliometric解析により調査した。研究の進展を包括的にレビューし、その意義と将来展望を明らかにすることを目的としている。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Strategies for endoplasmic reticulum-targeted delivery systems: current design principles and trends.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42852921/",
+        "abstract": "The endoplasmic reticulum (ER) governs proteostasis, lipid biosynthesis, calcium signaling, stress responses, and antigen presentation, making it an attractive yet challenging intracellular target for therapeutic delivery.",
+        "source": "PubMed",
+        "doi": "10.1080/17425247.2026.2748107",
+        "keyword": "Exosomes",
+        "title_ja": "小胞体標的デリバリーシステムの戦略：現在の設計原則と動向",
+        "summary_ja": "本論文は、タンパク質恒常性、脂質生合成、カルシウムシグナル伝達、ストレス応答、抗原提示を制御する小胞体（ER）を標的とした送達システムの設計原理と動向を論じる。ERは治療送達にとって魅力的だが困難な細胞内標的である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **ALIX依存性sEVと膵β細胞増殖**：肥満時に組織常在性間葉系細胞が放出するsEVがβ細胞増殖を制御。ALIXはsEV生合成の鍵で、糖尿病治療への応用が期待される。\n\n2. **Klotho/FGF23比と敗血症性AKI**：入院時のKlotho、FGF23およびその比がSA-AKIと短期転帰を予測しうる。早期診断バイオマーカーとして重要。\n\n3. **エクソソーム研究の計量書誌学的解析**：過去10年のホットスポットと動向を可視化。研究戦略や臨床応用の方向性を示す。\n\n4. **ER標的送達システム**：小胞体を標的とする設計原理を整理。タンパク質恒常性や抗原提示制御への治療応用が期待される。\n\n5. **PF4・NK細胞療法・sEVsの融合的展開**：免疫療法とsEV基盤技術の組み合わせは、次世代がん・炎症治療の有望な方向性。\n\n以上、基礎から臨床応用まで幅広い示唆を含みます。"
+}

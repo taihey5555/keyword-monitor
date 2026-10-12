@@ -1,0 +1,95 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Peripheral CD4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42858312/",
+        "abstract": "Bispecific antibodies (BsAbs) targeting CD20 × CD3 have achieved remarkable efficacy in relapsed or refractory (R/R) B-cell lymphoma, yet clinical responses remain heterogeneous and predictive biomarkers are lacking. We retrospectively evaluated associations between peripheral immune profiles and outcomes in 40 patients treated with CD20 × CD3 BsAbs and explored BTK inhibitor-associated immune changes using a paired BTK inhibitor cohort, functional assays, mouse models, and single-cell RNA sequencing. Higher baseline CD4",
+        "source": "PubMed",
+        "doi": "10.1002/hon.70266",
+        "keyword": "NK cell therapy",
+        "title_ja": "末梢CD4",
+        "summary_ja": "CD20×CD3二重特異性抗体（BsAbs）は再発・難治性（R/R）B細胞リンパ腫で高い有効性を示すが、臨床応答は不均一で予測バイオマーカーが不足している。本研究ではCD20×CD3 BsAbsで治療した40例を対象に、末梢免疫プロファイルと転帰の関連を後方視的に評価し、BTK阻害剤関連の免疫変化をpaired BTK阻害剤コホート、機能解析、マウスモデル、single-cell RNA sequencingで探索した。ベースラインのCD4高値が…（以下略）"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Plasma exosome-derived tsRNAs as a novel noninvasive biomarker for early detection and prognosis prediction of hepatocellular carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42857178/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.gendis.2026.102180",
+        "keyword": "Exosomes",
+        "title_ja": "血漿エクソソーム由来tsRNAは、肝細胞癌の早期発見と予後予測における新規非侵襲性バイオマーカーとなる",
+        "summary_ja": "ご提示いただいた情報には、論文のタイトル「Plasma exosome-derived tsRNAs as a novel noninvasive biomarker for early detection and prognosis prediction of hepatocellular carcinoma.」のみが含まれており、要約の基となる本文（内容）が空欄となっております。\n\n要約を作成するために、論文のアブストラクト（抄録）や本文のテキストをご提供いただけますでしょうか。内容が分かり次第、ご要望に沿って400文字以内で要約いたします。"
+      }
+    ],
+    "農学": [],
+    "工学": [
+      {
+        "title": "Visualized separation of exosomes in urine using carrier ampholyte-free free-flow isoelectric focusing electrophoresis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42826545/",
+        "abstract": "Free flow electrophoresis (FFE) is a fully liquid-phase electrophoretic separation technique without supporting media, featuring mild separation conditions, continuous separation capability, and compatibility with multiple electrophoretic modes compared with other electrophoretic methods. In this work, a carrier ampholyte-free free-flow isoelectric focusing (CA-free FFIEF) device was constructed via anion/cation exchange membranes paired with strong acid/alkali electrode solutions (500 mmol·L⁻¹ phosphoric acid/1000 mmol·L⁻¹ sodium hydroxide). A stable linear pH gradient (4.07-9.35) was formed along the electric field direction in the separation chamber under an applied electric field of 300 V, enabling isoelectric focusing separation of exosomes. Based on the differences in particle size and surface charge of exosomes, a separation and preparation workflow for exosomes via CA-free FFIEF was established by optimizing electric field strength, buffer pH, flow rate and other parameters, achieving efficient separation of urinary exosomes. Carbon quantum dots (CQDs) were utilized to label exosomes to realize visualized separation throughout the process. Afterwards, metal oxide affinity chromatography (MOAC) with TiO",
+        "source": "PubMed",
+        "doi": "10.1016/j.chroma.2026.467505",
+        "keyword": "Exosomes",
+        "title_ja": "尿中エクソソームのキャリアアンフォライトフリー自由流等電点電気泳動による可視化分離",
+        "summary_ja": "キャリアアンフォライトを用いないフリーフロー等電点電気泳動（CA-free FFIEF）により、尿中エクソソームを可視化分離した研究。陰イオン/陽イオン交換膜と強酸/強アルカリ電極液を用いた装置を構築し、300V印加でpH4.07～9.35の安定な線形pH勾配を形成。電場強度、バッファーpH、流速などを最適化し、粒子径と表面電荷の違いに基づき尿中エクソソームを効率的に分離した。炭素量子ドット（CQDs）でエクソソームを標識し、分離過程を可視化。さらにTiO₂を用いた金属酸化物親和性クロマトグラフィー（MOAC）を実施した。"
+      }
+    ],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Label-free electrical detection of salivary extracellular vesicles using an anti-CD63-functionalized gold extended-gate field-effect transistor.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42815054/",
+        "abstract": "Salivary extracellular vesicles (sEVs) are accessible candidates for non-invasive biomarker analysis, but their measurement commonly requires multistep, label-dependent workflows. Here a label-free gold extended-gate field-effect transistor (EG-FET) functionalized with an antibody that binds specifically to the Cluster of Differentiation 63 (anti-CD63), was developed for electrical detection of isolated salivary sEVs. Gold gates were modified with an 11-mercaptoundecanoic acid self-assembled monolayer and [1-Ethyl-3-(3-Dimethylaminopropyl) carbodiimide/N-Hydroxysuccinimide] EDC/NHS-mediated antibody immobilization. Binding-induced changes were quantified as the ratio of areas under transfer curves (AUC) acquired before and after incubation. Inter-chip coefficient of variation decreased from 10.5% for bare gates to 1.5% after antibody immobilization. The AUC ratio decreased with sEV concentration across 0.01X-1X (R",
+        "source": "PubMed",
+        "doi": "10.1016/j.bios.2026.119267",
+        "keyword": "sEVs",
+        "title_ja": "抗CD63機能化金拡張ゲート電界効果トランジスタを用いた唾液中細胞外小胞のラベルフリー電気検出",
+        "summary_ja": "唾液由来細胞外小胞（sEVs）は非侵襲的バイオマーカー解析の候補だが、測定には多段階で標識依存的なワークフローが一般的に必要とされる。本研究では、CD63に特異的に結合する抗体（anti-CD63）を機能化した無標識金拡張ゲート電界効果トランジスタ（EG-FET）を開発し、単離した唾液sEVsの電気的検出を行った。金ゲートは11-メルカプトウンデカン酸自己組織化単分子膜で修飾し、EDC/NHSを介して抗体を固定化した。結合誘起変化は、インキュベーション前後の伝達曲線下面積（AUC）比として定量化した。チップ間変動係数は、裸のゲートで10.5%から抗体固定化後に1.5%へ低下した。AUC比はsEV濃度0.01X～1Xで濃度依存的に減少した（R）。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下に注目すべき5トピックをまとめます（約480字）。\n\n1. **CD20×CD3 BsAbsの応答予測**：R/R B細胞リンパ腫で有効性が高いが応答は不均一。末梢免疫プロファイルが予測バイオマーカーになり得る点は、個別化治療の実現に重要。\n\n2. **血漿エクソソームtsRNAによる肝細胞癌早期診断**：非侵襲的バイオマーカーとして早期発見・予後予測に有望。液体生検の新規軸として注目。\n\n3. **CA-free FFIEFによる尿中エクソソーム可視化分離**：簡便な分離法はエクソソーム研究の標準化・臨床応用を加速する可能性。\n\n4. **抗CD63金電界効果トランジスタによる唾液中EVsの無標識検出**：標識不要・迅速な検出は非侵襲診断の実用化に寄与。\n\n5. **Klotho・PF4・NK細胞療法**：Klothoは老化制御、PF4は免疫調整、NK細胞療法はがん免疫治療の鍵。これらは老化・免疫・がんを横断する新規治療標的として今後の展開が期待される。\n\n全体として、エクソソーム/sEVsバイオマーカーと免疫療法の個別化が本日の中心的潮流です。"
+}

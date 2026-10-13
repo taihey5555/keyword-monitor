@@ -1,0 +1,115 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Erratum: Rial C, Gendron N, Le Beller C, et al. Evaluation of an IgG anti-PF4/H chemiluminescent immunoassay in the diagnosis of heparin-induced thrombocytopenia. ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42861046/",
+        "abstract": "[This corrects the article DOI: 10.1016/j.bvth.2025.100084.].",
+        "source": "PubMed",
+        "doi": "10.1016/j.bvth.2026.100213",
+        "keyword": "PF4",
+        "title_ja": "正誤表：Rial C, Gendron N, Le Beller C, et al. ヘパリン起因性血小板減少症の診断におけるIgG抗PF4/H化学発光免疫測定法の評価。",
+        "summary_ja": "本稿は、Rialらによる論文「Evaluation of an IgG anti-PF4/H chemiluminescent immunoassay in the diagnosis of heparin-induced thrombocytopenia」の訂正記事である。訂正対象はDOI: 10.1016/j.bvth.2025.100084の論文であり、本記事自体は新たな研究内容を含まず、当該論文の誤りを修正することを目的としている。ヘパリン誘発性血小板減少症（HIT）の診断におけるIgG anti-PF4/H化学発光免疫測定法の評価に関する原著の内容そのものに変更はなく、Erratumとして掲載されたものである。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Trogocytosis: Emerging insights into cellular communication, immunity, and pathogenesis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42862429/",
+        "abstract": "Trogocytosis is a unique intercellular process that can occur when two cells become in contact to each other and one cell \"nibbles\" portions of another cell's membrane and surface molecules. This phenomenon is widely observed among immune cells such as B cells, T cells, NK cells, and antigen-presenting cells (APCs). Through trogocytosis, molecules including major histocompatibility complexes (MHC), costimulatory receptors, and antigens are transferred, influencing cellular communication and immune regulation. While trogocytosis supports processes like antigen presentation, immune activation, and neural remodeling, it also contributes to pathological conditions, including tumor immune evasion, therapeutic resistance, and pathogen dissemination. This duality raises critical questions about its overall impact: is trogocytosis a friend or foe to the immune system? By comparing trogocytosis to phagocytosis, exploring molecular mechanisms, and examining its roles in health and disease, this review synthesizes current findings and highlights areas for future investigation. Understanding the precise mechanisms governing trogocytosis could pave the way for innovative therapies targeting infections, cancers, and autoimmune disorders.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12897-2",
+        "keyword": "NK cell therapy",
+        "title_ja": "トロゴサイトーシス：細胞間コミュニケーション、免疫、および病態形成に関する新たな知見",
+        "summary_ja": "トロゴサイトーシスは、接触した細胞が相手の膜や表面分子を「かじり取る」独自の細胞間プロセスで、B細胞、T細胞、NK細胞、抗原提示細胞（APC）など免疫細胞で広く観察される。MHC、共刺激受容体、抗原などが移動し、細胞間通信や免疫制御に影響する。抗原提示、免疫活性化、神経リモデリングを支える一方、腫瘍免疫回避、治療抵抗性、病原体拡散にも寄与する。この二面性は「免疫系にとって味方か敵か」という問いを生む。本レビューは食作用との比較、分子機構、健康と疾患での役割を通じて知見を統合し、今後の研究課題を示す。機構解明は感染症、がん、自己免疫疾患の新規治療につながる可能性がある。"
+      },
+      {
+        "title": "Immunotherapy for oral cavity tumors: recent advances, key challenges, and future perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42862405/",
+        "abstract": "Oral cavity tumors remain a major global health challenge, with poor outcomes in patients with locally advanced, recurrent, or metastatic disease despite advances in surgery, radiotherapy, chemotherapy, and targeted therapies. Immunotherapy has emerged as a potential strategy to restore antitumor immunity and overcome tumor-induced immune suppression. This narrative review synthesizes recent advances in immunotherapy for oral cavity tumors, focusing on immune checkpoint inhibitors (ICIs), tyrosine kinase inhibitor (TKI) antibodies, near-infrared photoimmunotherapy (NIR-PIT), bispecific antibodies (BsAbs), oncolytic viruses (OVs), cytokine therapies, and adoptive cell therapies such as tumor-infiltrating lymphocyte (TIL) therapy, chimeric antigen receptor (CAR)-T/natural killer (NK), and T cell receptor (TCR)-T therapy. The review also examines the pivotal role of the immunosuppressive tumor microenvironment (TME) in shaping treatment response and therapeutic resistance, highlighting the contributions of regulatory immune cells, cancer-associated fibroblasts (CAFs), hypoxia, extracellular matrix (ECM) remodeling, and immune exclusion. Current clinical evidence demonstrates meaningful survival benefits with programmed cell death protein 1 (PD-1) inhibitors in recurrent/metastatic disease and expanding opportunities for perioperative immunotherapy, while numerous emerging modalities remain under active clinical investigation. However, durable responses remain limited by tumor heterogeneity, inadequate immune cell trafficking, antigen escape, manufacturing challenges, and the lack of reliable predictive biomarkers. Future progress will likely depend on biomarker-guided patient selection, rational combination strategies, and engineered cellular therapies that can overcome microenvironment-mediated resistance. Collectively, these findings support continued investigation of personalized, multimodal immunotherapy as a viable avenue for improving outcomes in patients with oral squamous cell carcinoma (OSCC).",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12906-4",
+        "keyword": "NK cell therapy",
+        "title_ja": "口腔肿瘤的免疫治疗：最新进展、关键挑战与未来展望。",
+        "summary_ja": "口腔腔腫瘍は依然として世界的な健康課題であり、進行・再発・転移例の予後は不良である。免疫療法は抗腫瘍免疫の回復と腫瘍誘導性免疫抑制の克服を目指す戦略として注目されている。本レビューは、免疫チェックポイント阻害薬（ICI）、TKI抗体、近赤外光免疫療法（NIR-PIT）、二特異性抗体（BsAb）、腫瘍溶解性ウイルス（OV）、サイトカイン療法、TIL療法、CAR-T/NK、TCR-Tなどの養子細胞療法の進展を概説する。また、制御性免疫細胞、CAF、低酸素、ECMリモデリング、免疫排除など免疫抑制的TMEの役割を検討する。PD-1阻害薬は再発・転移例で生存利益を示し、周術期免疫療法の可能性も広がるが、腫瘍不均一性、免疫細胞遊走不全、抗原逃避、製造上の課題、予測バイオマーカー欠如により持続的奏効は限られる。今後の進展はバイオマーカー誘導型選択、合理的併用戦略、TME抵抗性を克服する細胞療法にかかる"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Mechanisms of XCR1 Membrane Trafficking and Constitutive Endocytosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42860620/",
+        "abstract": "Chemokines orchestrate immune cell trafficking through receptor-mediated signalling and are implicated in inflammatory, autoimmune and neuropathic disorders. The XCL1-XCR1 axis is of particular interest because XCR1 is selectively expressed on mature conventional type 1 dendritic cells (cDC1s), where it supports communication with activated CD8",
+        "source": "PubMed",
+        "doi": "10.1111/bcpt.70318",
+        "keyword": "NK cell therapy",
+        "title_ja": "XCR1の膜輸送と恒常的エンドサイトーシスの機構",
+        "summary_ja": "XCL1-XCR1軸は、成熟cDC1に選択的に発現し、活性化CD8との通信を担う。本論文はXCR1の膜輸送と恒常的エンドサイトーシスの機構を解析した。ケモカインは受容体シグナルを介し免疫細胞動態を制御し、炎症・自己免疫・神経障害性疾患に関与する。XCR1の輸送機構の解明は、cDC1を標的とした免疫療法や疾患治療への応用が期待される。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Translational Readiness of Dental Pulp Stem Cell and Extracellular-Vesicle Products: Manufacturing, Delivery, Safety, and Clinical Development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42861854/",
+        "abstract": "Dental pulp stem cells (DPSCs), stem cells from human exfoliated deciduous teeth (SHED), and extracellular vesicles (EVs) show regenerative potential, but clinical translation depends on a reproducible product-process-procedure system. This systematic scoping review mapped how DPSC- and EV-containing dental products are defined, manufactured, formulated, dosed, delivered, monitored, and regulated. Following Joanna Briggs Institute guidance (JBI) and Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews (PRISMA-ScR), an umbrella-assisted strategy combined two recent high-coverage reviews with a targeted update through July 15, 2026. Data were charted for source, characterization, carrier, dose, delivery, visualization, safety, outcomes, and manufacturing readiness; a nine-domain review-level framework (Translational Readiness Appraisal for Dental cell and EV products) summarized relative maturity without serving as a validated clinical score. The map comprised 52 unique primary reports and nine methodological or secondary sources. Scaffold-based DPSC/SHED studies generally favored cell-containing constructs, but most were heterogeneous short-term animal experiments. Small human studies of autologous DPSC or SHED products reported encouraging feasibility and few serious safety signals, yet were underpowered for effectiveness or uncommon harms. Dental EV evidence remained predominantly preclinical; isolation, particle-normalized dosing, potency, storage, biodistribution, and batch comparability were frequently incomplete. Magnification was not consistently standardized as a delivery variable. Relative readiness was highest for autologous DPSC pulp products, intermediate for DPSC-scaffold bone or periodontal products, and low for dental EV products. Translation now requires indication-specific potency assays, carrier-product codevelopment, dose-response and biodistribution studies, documented delivery fidelity, standardized outcomes, long-term safety follow-up, and explicit good manufacturing practice (GMP) and regulatory strategies before confirmatory trials.",
+        "source": "PubMed",
+        "doi": "10.1177/15473287261496095",
+        "keyword": "Exosomes",
+        "title_ja": "歯髄幹細胞および細胞外小胞製品の実用化への準備状況：製造、送達、安全性、臨床開発",
+        "summary_ja": "歯髄幹細胞（DPSC）、脱落乳歯幹細胞（SHED）、細胞外小胞（EV）は再生能を示すが、臨床応用には再現性ある製品・プロセス・手技体系が必要である。本系統的スコーピングレビューは、JBIとPRISMA-ScRに準拠し、52件の一次報告等を基に、定義、製造、製剤化、投与、送達、モニタリング、規制を整理した。足場併用DPSC/SHED研究は細胞含有構築物を支持するが、多くは短期動物実験で不均一だった。自家DPSC/SHEDの小規模ヒト研究は実行可能性と安全性で有望だが、有効性評価には不十分であった。EVは前臨床段階が中心で、単離、粒子基準投与、力価、保存、体内動態、ロット間比較が不備であった。準備度は自家DPSC歯髄製品が最も高く、DPSC足場骨・歯周製品が中間、EV製品が低かった。確認試験前に、適応別力価試験、担体共開発、用量反応・体内動態、送達精度、標準化評価、長期安全性、GMP・規制戦略"
+      },
+      {
+        "title": "An engineered exosome-based platform for targeted delivery to endogenous neural stem cells and fate modulation after spinal cord injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42861377/",
+        "abstract": "Spinal cord injury (SCI) disrupts neural circuits, leading to persistent sensory and motor deficits. However, effective strategies to promote repair through endogenous neural stem cells (eNSCs) are still limited. In this work, we engineered exosomes with a newly identified peptide (TGP1) to achieve targeted delivery to eNSCs. These exosomes were further loaded with Apelin to stimulate eNSC activation and neuronal differentiation. Following tail-vein administration, TGP1-modified exosomes showed greater accumulation in the injured spinal cord and a 4.6-fold increase in co-localization with Nestin",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103718",
+        "keyword": "Exosomes",
+        "title_ja": "脊髄損傷後の内在性神経幹細胞への標的送達と運命制御のための工学設計されたエクソソームベースプラットフォーム",
+        "summary_ja": "脊髄損傷（SCI）は神経回路を破壊し、持続的な感覚・運動障害を引き起こす。内因性神経幹細胞（eNSC）を介した修復戦略は依然として限定的である。本研究では、新規ペプチドTGP1を付与したエクソソームを工学設計し、eNSCへの標的送達を実現した。さらにApelinを搭載し、eNSCの活性化と神経分化を促進した。尾静脈投与後、TGP1修飾エクソソームは損傷脊髄により多く集積し、Nestinとの共局在が4.6倍増加した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の注目トピック5選：\n\n1. **トロゴサイトーシスとNK細胞**：免疫細胞が接触相手の膜分子を奪う現象が、NK細胞を含む広範な免疫制御に関与。細胞間通信の新機軸として創薬標的化が期待される。\n\n2. **口腔腫瘍免疫療法**：ICIや近赤外光免疫療法など新規戦略が進行・再発例の予後改善に寄与する可能性。課題はバイオマーカー同定と耐性克服。\n\n3. **XCR1膜輸送機構**：cDC1選択的ケモカイン受容体の恒常的エンドサイトーシス解明は、抗原提示制御や炎症性疾患治療への応用が期待される。\n\n4. **エクソソーム工学によるSCI治療**：TGP1ペプチド修飾エクソソームが内因性神経幹細胞へ標的送達し、運命制御を実現。再生医療の新たな送達基盤として重要。\n\n5. **DPSC/EV製品の臨床準備**：歯髄幹細胞・細胞外小胞の製造・安全性・規制面を体系化。再現性ある製品化への道筋を示し、実用化促進に寄与。\n\n以上はPF4/H抗体検査、sEVs、Klotho関連を除く免疫・再生・送達技術の最前線である。"
+}

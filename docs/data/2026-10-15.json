@@ -1,0 +1,93 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "hnRNPU regulates the sorting of exo-miR-125a-5p in colon epithelial cells and its role in realgar-induced central nervous system toxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42869395/",
+        "abstract": "Elucidating the mechanisms underlying realgar-induced toxicity is essential for the early prevention and treatment of arsenic-related adverse effects and for reducing the associated healthcare burden.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jep.2026.122504",
+        "keyword": "Exosomes",
+        "title_ja": "hnRNPUは大腸上皮細胞におけるexo-miR-125a-5pの選別を制御し、そのリアルガー誘発性中枢神経系毒性における役割",
+        "summary_ja": "本論文は、雄黄誘発性の中枢神経系毒性におけるexo-miR-125a-5pの選別機構とその役割を検討した。hnRNPUが結腸上皮細胞においてexo-miR-125a-5pのソーティングを制御することを明らかにし、雄黄による毒性発現への関与を示唆した。雄黄誘発毒性の機序解明は、ヒ素関連有害作用の早期予防・治療および医療負担軽減に重要である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Fibroblast-derived exosomes in wound healing and regenerative medicine: mechanisms, therapeutic potential, and clinical perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42872526/",
+        "abstract": "Skin wound healing is a complex biological process involving coordinated interactions among fibroblasts, immune cells, keratinocytes, endothelial cells, and extracellular matrix (ECM) components. Chronic and diabetic wounds remain significant clinical challenges due to persistent inflammation, oxidative stress, impaired angiogenesis, and defective tissue remodeling. Fibroblast-derived exosomes have recently emerged as promising cell-free therapeutic nanovesicles capable of regulating intercellular communication during tissue repair. These nanosized extracellular vesicles (EVs) carry diverse bioactive cargos, including microRNAs, proteins, lipids, and growth factors, which modulate inflammation, angiogenesis, cell proliferation, migration, and ECM remodeling. Recent studies have demonstrated that fibroblast-derived exosomes can accelerate wound closure, enhance granulation tissue formation, improve epidermal barrier restoration, and reduce oxidative stress in both normal and diabetic wound models. Beyond the intrinsic regenerative properties of these exosomes, increasing attention has focused on their integration with biomaterials, hydrogels, and scaffold-based delivery systems to achieve sustained and localized therapeutic effects. However, challenges such as cargo heterogeneity, isolation standardization, scalability, reproducibility, and biosafety evaluation continue to limit their clinical translation. This review summarizes the biological functions, regenerative mechanisms, and therapeutic applications of fibroblast-derived exosomes in wound healing while emphasizing translational challenges, biomaterial-assisted delivery strategies, and future perspectives for precision regenerative medicine.",
+        "source": "PubMed",
+        "doi": "10.1039/d6nr01426g",
+        "keyword": "Exosomes",
+        "title_ja": "創傷治癒および再生医療における線維芽細胞由来エクソソーム：メカニズム、治療の可能性、臨床的展望",
+        "summary_ja": "皮膚創傷治癒は線維芽細胞、免疫細胞、ケラチノサイト、内皮細胞、ECMの協調的相互作用からなる複雑な過程である。慢性・糖尿病性創傷は持続的炎症、酸化ストレス、血管新生障害、組織リモデリング不全により臨床的課題となっている。近年、線維芽細胞由来エクソソームが細胞間コミュニケーションを制御する無細胞治療用ナノ小胞として注目されている。これらはmicroRNA、タンパク質、脂質、成長因子などを運び、炎症、血管新生、細胞増殖、遊走、ECMリモデリングを調節する。正常および糖尿病創傷モデルで創閉鎖促進、肉芽組織形成、表皮バリア回復、酸化ストレス軽減が示された。生体材料やハイドロゲルとの統合による持続的局所治療も検討されているが、カーゴの不均一性、単離標準化、スケーラビリティ、再現性、安全性評価が臨床応用の課題である。本総説は線維芽細胞由来エクソソームの創傷治癒における機能、再生機構、治療応用をまとめ、"
+      },
+      {
+        "title": "MSCs-derived Exosomal miRNA-335-5p Alleviates Apoptosis and Inflammation in Myocardial Infarction by Inhibiting BCL2L11.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42870143/",
+        "abstract": "Myocardial infarction (MI) leads to heart cell death and inflammation, resulting in permanent heart damage. Exosomes derived from mesenchymal stem cells (MSCs), which can deliver miRNAs to cells, have shown potential as therapeutic agents for MI, this study sought to elucidate the role of MSC-derived exosomal miRNA-335-5p in MI.",
+        "source": "PubMed",
+        "doi": "10.1007/s10557-026-07969-1",
+        "keyword": "Exosomes",
+        "title_ja": "MSCs由来エクソソームmiRNA-335-5pはBCL2L11を阻害することで心筋梗塞におけるアポトーシスと炎症を軽減する",
+        "summary_ja": "MSC由来エクソソーム中のmiRNA-335-5pは、BCL2L11を阻害することで心筋梗塞（MI）におけるアポトーシスと炎症を軽減する。MIは心細胞死と炎症を引き起こし、永続的な心障害をもたらす。MSC由来エクソソームはmiRNAを細胞に送達でき、MI治療薬としての可能性が示されている。本研究は、MSC由来エクソソームのmiRNA-335-5pのMIにおける役割解明を目的とした。"
+      },
+      {
+        "title": "The ferroptosis-lipid metabolism-neuroinflammation axis in Alzheimer's disease: A review of mechanistic interplay and therapeutic implications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42868017/",
+        "abstract": "Alzheimer's disease (AD) involves multiple pathological pathways, with ferroptosis and lipid metabolic dysregulation forming a coupled mechanism across the disease course, and neuroinflammation acting as a key mediator. While existing reviews often focus on isolated processes, they frequently lack an integrative analysis of the \"ferroptosis-lipid-neuroinflammation axis\" as a systemic pathological core. This review specifically addresses this gap by proposing a unified mechanistic framework for neuronal injury, synaptic dysfunction, and immunometabolic remodeling in AD, centered on this tripartite axis. We comprehensively summarize how key pathways involving glutathione peroxidase 4 (GPX4), ferroptosis suppressor protein 1 (FSP1), coenzyme Q10 (CoQ10), the cystine/glutamate antiporter system Xc",
+        "source": "PubMed",
+        "doi": "10.1177/13872877261495962",
+        "keyword": "Exosomes",
+        "title_ja": "アルツハイマー病におけるフェロトーシス-脂質代謝-神経炎症軸：機序的相互作用と治療的意義に関するレビュー",
+        "summary_ja": "本レビューは、アルツハイマー病（AD）においてフェロトーシスと脂質代謝異常が疾患経過を通じて連関し、神経炎症がその主要な媒介因子となるという「フェロトーシス－脂質－神経炎症軸」を提唱する。既存レビューが個別過程に焦点を当てがちで、この三者を全身的病態核心として統合的に解析したものが乏しい点を埋めるため、神経細胞障害・シナプス機能不全・免疫代謝リモデリングの統一的な機序的枠組みを提示する。GPX4、FSP1、CoQ10、シスチン/グルタミン酸アンチポーターsystem Xc⁻などの主要経路を包括的に要約し、治療的含意を論じる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **hnRNPUによるexo-miR選別と雄黄毒性**：hnRNPUが結腸上皮細胞でexo-miR-125a-5pの選別を制御し、雄黄の中枢神経毒性に関与。エクソソームを介した臓器間連関の新例で、漢方薬安全性評価への応用が期待される。\n\n2. **線維芽細胞由来エクソソームと創傷治癒**：慢性・糖尿病性創傷に対し、線維芽細胞エクソソームが炎症抑制・血管新生・リモデリングを促進。無細胞療法として臨床応用の可能性が高い。\n\n3. **MSCエクソソームmiR-335-5pと心筋梗塞**：BCL2L11阻害を介しアポトーシスと炎症を軽減。心筋保護を狙う新規核酸医薬・エクソソーム治療の候補となる。\n\n4. **ADにおけるフェロトーシス－脂質－神経炎症軸**：三者連関を統合的に捉える新概念を提示。多標的治療やバイオマーカー開発に示唆を与える。\n\n5. **PF4・NK細胞療法・sEVsの動向**：免疫微小環境制御と次世代細胞療法の鍵として、PF4やsEVsを活用したNK細胞療法の設計が注目される。\n\n全体として、エクソソーム/sEVsを介した分子輸送と代謝・免疫軸の理解が、治療応用の共通基盤となりつつある。"
+}

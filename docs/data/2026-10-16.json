@@ -1,0 +1,167 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Cerasus humilis proanthocyanidins alleviate osteoporosis by regulating renal calcium metabolism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42875697/",
+        "abstract": "Postmenopausal osteoporosis is associated with disturbed calcium homeostasis and renal calcium handling. Although Cerasus humilis proanthocyanidins (PA) show anti-osteoporotic activity, their effects on renal calcium metabolism remain unclear. We hypothesized that C. humilis PA could alleviate ovariectomy (OVX)-induced bone loss by improving renal calcium reabsorption.",
+        "source": "PubMed",
+        "doi": "10.1002/jsfa.71168",
+        "keyword": "Klotho",
+        "title_ja": "Cerasus humilisプロアントシアニジンは腎臓のカルシウム代謝を調節することで骨粗鬆症を軽減する。",
+        "summary_ja": "閉経後骨粗鬆症はカルシウム恒常性と腎臓のカルシウム処理の障害と関連する。Cerasus humilisプロアントシアニジン（PA）は抗骨粗鬆症活性を示すが、腎カルシウム代謝への影響は不明であった。本研究では、C. humilis PAが腎カルシウム再吸収を改善することで卵巣摘出（OVX）誘発骨損失を軽減しうると仮説を立てた。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Heart-brain co-ageing: phenotypic heterogeneity, molecular mechanisms and translational interventions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42874807/",
+        "abstract": "Population ageing has increased the burden of cardiovascular disease, cognitive decline and frailty in older adults. These conditions are often studied separately, yet increasing evidence suggests that the ageing heart, vasculature and brain are biologically interconnected. Using a hybrid design that combines a systematic literature search with narrative synthesis, this review summarizes current knowledge on heart-brain co-ageing, with emphasis on phenotypic heterogeneity, molecular mechanisms and translational interventions. Heart-brain co-ageing is characterized by partially coupled but non-synchronous ageing trajectories of cardiac, vascular and brain function. Major clinical phenotypes include vascular-dominant ageing, cardiac-output-related brain vulnerability, arrhythmia-associated thromboinflammatory injury, frailty-cognitive decline and metabolic-inflammatory co-ageing. These phenotypes differ in risk profiles, dominant mechanisms and potential biomarkers. Candidate shared mechanisms include cellular senescence, chronic low-grade inflammation, mitochondrial dysfunction, oxidative stress, endothelial impairment, blood-brain barrier disruption, epigenetic remodelling, telomere attrition, non-coding ribonucleic acid regulation, Klotho signalling, nicotinamide adenine dinucleotide metabolism and microbiome-derived metabolic signalling. Advances in multimodal imaging, circulating biomarkers, biological ageing clocks and multi-omics profiling provide new opportunities for risk stratification, although clinical standardization remains limited. Heart-brain co-ageing should not be regarded as the simple coexistence of cardiovascular and neurological diseases, but as a dynamic multi-organ ageing process shaped by shared biological drivers, interorgan interactions and organ-specific vulnerability, and we propose it as a testable conceptual framework with explicit operational criteria that distinguish coupled from parallel organ ageing. Future research should integrate longitudinal phenotyping, mechanism-based biomarkers and stratified clinical trials to develop precision interventions that preserve both cardiovascular and brain health in older adults.",
+        "source": "PubMed",
+        "doi": "10.1016/j.arr.2026.103419",
+        "keyword": "Klotho",
+        "title_ja": "心脳の共老化：表現型の異質性、分子メカニズム、およびトランスレーショナル介入",
+        "summary_ja": "加齢に伴い心血管疾患・認知機能低下・フレイルの負担が増大する。本レビューは系統的文献検索と叙述的統合を組み合わせ、心脳共加齢について表現型の異質性、分子機序、翻訳的介入をまとめた。心脳共加齢は心臓・血管・脳機能の部分的に連関するが非同期な加齢軌跡を特徴とする。主要表現型には血管優位型、心拍出量関連脳脆弱性、不整脈関連血栓炎症性障害、フレイル・認知機能低下、代謝炎症性共加齢が含まれる。共有機序候補として細胞老化、慢性炎症、ミトコンドリア機能障害、酸化ストレス、内皮障害、血液脳関門破綻、エピジェネティック再構築、テロメア短縮、非コードRNA制御、Klothoシグナル、NAD代謝、微生物叢由来代謝シグナルが挙げられる。マルチモーダル画像、循環バイオマーカー、生物学的加齢時計、マルチオミクスがリスク層別化に寄与するが標準化は限定的である。心脳共加齢は心血管・神経疾患の単純な併存ではなく、共有生物学"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Cell-Sorted EBV PCR Identifies Lineage Shift and Guides Management After Hematopoietic Cell Transplantation for Pediatric EBV-Positive T/NK-Cell Lymphoid Neoplasia: A Case Series.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42877968/",
+        "abstract": "Epstein-Barr virus (EBV)-positive T/natural killer (NK)-cell lymphoid neoplasms, including chronic active EBV disease and EBV-positive T/NK-cell leukemias and lymphomas, are rare, aggressive disorders for which allogeneic hematopoietic cell transplantation (alloHCT) is the only established curative therapy. After alloHCT, plasma or whole-blood EBV polymerase chain reaction (PCR) cannot distinguish relapse from EBV-driven donor B-cell proliferation. Cell-sorted EBV PCR resolves this ambiguity by quantifying EBV DNA across lymphocyte subsets to identify the cell lineage with the highest viral burden. We report four children in whom cell-sorted EBV PCR demonstrated a post-transplant shift in predominant EBV burden from T/NK cells to B cells, enabling de-escalation from cytotoxic therapy to immunosuppression reduction and B-cell-directed treatment.",
+        "source": "PubMed",
+        "doi": "10.1002/1545-5017.70770",
+        "keyword": "NK cell therapy",
+        "title_ja": "細胞選別EBV PCRは小児EBV陽性T/NK細胞リンパ系腫瘍に対する造血細胞移植後の系統変化を同定し管理を導く：症例集積研究",
+        "summary_ja": "EBV陽性T/NK細胞リンパ増殖性疾患は稀で侵襲的だが、同種造血細胞移植（alloHCT）が唯一の根治的治療である。移植後、血漿や全血のEBV PCRでは再発とドナーB細胞増殖を区別できない。細胞分画EBV PCRはリンパ球サブセット別にEBV DNAを定量し、ウイルス量が最多の細胞系列を同定することでこの曖昧さを解消する。小児4例において、移植後のEBV主要負荷がT/NK細胞からB細胞へ移行したことが示され、細胞傷害性治療の減量と免疫抑制軽減およびB細胞標的治療への移行が可能となった。"
+      },
+      {
+        "title": "Cord blood-derived natural killer cells engineered with a novel, highaffinity chimeric antigen receptor can eliminate acute myeloid leukemia cells with minimal C-type lectin-like molecule-1 expression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42876290/",
+        "abstract": "CAR NK cell therapy is expected to be developed to treat acute myeloid leukemia (AML). C-type lectin-like molecule 1 (CLL-1) is a candidate target. However, AML cells with minimal CLL-1 expression (CLL-1dim) may not be eliminated by CAR NK cells. Here we demonstrate that cord blood (CB)-derived NK cells transduced with a novel high-affinity CAR that recognizes CLL-1 can eliminate CLL-1dim AML cells. A newly established anti- CLL-1 monoclonal antibody (mAb) designated as 2-23 exhibits a higher affinity for CLL- 1 than the widely used anti-CLL-1 mAb M26. CB-derived NK cells transduced with a CAR derived from 2-23, but not M26, killed CLL-1dim AML cells in vitro. Additionally, treatment with 2-23 CAR NK cells, but not M26 CAR NK cells, significantly enhanced the survival of the mice transplanted with CLL-1dim AML cells in vivo. Furthermore, in AML patient-derived xenograft models, the 2-23 CAR NK cells expanded robustly, persisted, and eradicated AML cells.",
+        "source": "PubMed",
+        "doi": "10.3324/haematol.2026.301327",
+        "keyword": "NK cell therapy",
+        "title_ja": "臍帯血由来ナチュラルキラー細胞を新規の高親和性キメラ抗原受容体で改変することで、C型レクチン様分子-1の発現が極めて低い急性骨髄性白血病細胞を排除できる",
+        "summary_ja": "CAR NK細胞療法は急性骨髄性白血病（AML）治療への応用が期待され、C型レクチン様分子1（CLL-1）が標的候補である。しかしCLL-1発現が低い（CLL-1dim）AML細胞はCAR NK細胞で排除できない可能性がある。本研究では、CLL-1を認識する新規高親和性CARを導入した臍帯血（CB）由来NK細胞がCLL-1dim AML細胞を排除できることを示した。新規抗CLL-1モノクローナル抗体（mAb）2-23は、汎用されるM26よりCLL-1への親和性が高い。2-23由来CARを導入したCB由来NK細胞はin vitroでCLL-1dim AML細胞を殺傷したが、M26 CAR NK細胞は殺傷しなかった。in vivoでも2-23 CAR NK細胞はCLL-1dim AML移植マウスの生存を有意に延長した。さらにAML患者由来異種移植モデルで2-23 CAR NK細胞は強力に増殖・"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Extracellular vesicle-associated LMP1 from EBV-positive nasopharyngeal carcinoma induces LIF-mediated immunosuppressive macrophage polarization and impairs anti-tumor immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42874988/",
+        "abstract": "Epstein-Barr virus (EBV)-associated nasopharyngeal carcinoma (NPC) is characterized by a highly infiltrated yet immunosuppressive tumor microenvironment (TME), in which tumor-associated macrophages (TAMs) contribute to disease progression. Here, we identify an extracellular vesicle (EV)-mediated LMP1-NF-κB-LIF signaling axis that promotes macrophage reprogramming and immune suppression in NPC. Single-cell transcriptomic analysis revealed that EV exposure induces transcriptional remodeling across tumor and immune-cell populations, accompanied by an increased proportion of TAMs within the myeloid compartment. NPC-derived EVs were taken up by macrophages, where EV-associated LMP1 induced NF-κB activation, LIF expression, and polarization toward an immunosuppressive phenotype. Loss- and gain-of-function studies, together with structure-function analyses of the LMP1 CTAR1/CTAR2 domains, further supported the requirement of these CTAR domains for efficient NF-κB activation and LIF induction. Functionally, EV-educated macrophages exhibited impaired phagocytic activity and promoted inhibitory T-cell responses. In zebrafish, 3D spheroid, and mouse xenograft models, EV-educated macrophages promoted NPC growth and vascular dissemination, whereas blockade of LIF signaling with soluble LIFR attenuated these effects. Tumor LIF expression positively correlated with CTLA4 expression. In NPC tissues, LIF expression was preferentially associated with stromal macrophages, and elevated stromal LIF expression was associated with metastasis, advanced nodal disease, and advanced clinical stage. Stromal immune-cell LMP1 expression also correlated with LIF expression and was higher in patients who developed metastasis. Collectively, these findings support an EV-associated LMP1-NF-κB-LIF axis that links EBV-positive NPC cells to macrophage-mediated immune suppression and tumor progression and provide a basis for further investigating this pathway as a potential therapeutic target.",
+        "source": "PubMed",
+        "doi": "10.1016/j.canlet.2026.218892",
+        "keyword": "Exosomes",
+        "title_ja": "EBV陽性上咽頭癌由来の細胞外小胞関連LMP1は、LIFを介した免疫抑制性マクロファージの極性化を誘導し、抗腫瘍免疫を障害する。",
+        "summary_ja": "EBV陽性上咽頭癌（NPC）の腫瘍微小環境（TME）では、腫瘍関連マクロファージ（TAM）が免疫抑制に寄与する。本研究は、細胞外小胞（EV）を介したLMP1-NF-κB-LIFシグナル軸がマクロファージの再プログラミングと免疫抑制を促進することを示した。単一細胞解析でEV曝露による転写リモデリングとTAM増加を確認。NPC由来EVはマクロファージに取り込まれ、EV関連LMP1がNF-κB活性化、LIF発現、免疫抑制表現型への極性化を誘導した。LMP1のCTAR1/CTAR2ドメインが必須であった。EV教育マクロファージは貪食能低下と抑制性T細胞応答を促進し、ゼブラフィッシュ・3Dスフェロイド・マウス異種移植モデルでNPC増殖と血管播種を促進、可溶性LIFRによるLIF遮断がこれを減弱した。LIF発現はCTLA4と正相関し、間質マクロファージに優先的に発現、転移・進行期と関連した。LMP1-"
+      },
+      {
+        "title": "Agriophyllum squarrosum oligosaccharides ameliorate inflammation and lipid accumulation in T2DM-induced MASLD via miR-155-regulated PPARγ signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42874694/",
+        "abstract": "Agriophyllum squarrosum (L.) Moq., is a traditional medicinal herb first recorded in the \"Four Medical Tantras\" during the 8th century AD. It is commonly employed in Mongolian medicine for various therapeutic diseases, including the dispelling epidemics, heat clearance, detoxification, and diuresis. This herb is known to inhibit \"He Yi,\" regulate \"Ba Da Gan,\" and is utilized in the treatment of \"Xi He Ri Xi Jing Bing\" which corresponds to modern diabetes and xiaoke in traditional Chinese medicine. Agriophyllum squarrosum oligosaccharides (AOS) are recognized as major bioactive constituents, however, the molecular mechanisms underlying their therapeutic effects on type 2 diabetes mellitus (T2DM)-related metabolic dysfunction-associated steatotic liver disease (MASLD) remain unclear.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jep.2026.122462",
+        "keyword": "Exosomes",
+        "title_ja": "Agriophyllum squarrosumオリゴ糖は、miR-155制御性PPARγシグナル伝達経路を介して、T2DM誘発MASLDにおける炎症および脂質蓄積を改善する。",
+        "summary_ja": "本論文は、モンゴル薬用植物Agriophyllum squarrosum由来のオリゴ糖（AOS）が、T2DM誘発MASLDに対し抗炎症・脂質蓄積改善効果を示す機構を検討した。AOSはmiR-155を介してPPARγシグナル経路を制御し、炎症と脂質蓄積を改善すると示唆された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Advances in 3D bioprinting of immunoregulatory biomaterials for bone regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42876579/",
+        "abstract": "Bone defects caused by trauma, infection, tumour resection, and degenerative diseases remain major clinical challenges because successful regeneration requires coordinated regulation of inflammation, vascularisation, osteogenesis, and bone remodeling. Advances in osteoimmunology have demonstrated that immune responses are integral to each stage of bone healing, shifting biomaterial design from passive biocompatibility towards active and temporally coordinated immunomodulation. Three dimensional bioprinting provides a versatile platform for integrating material, structural, cellular, and biochemical cues within spatially defined constructs, thereby offering new opportunities to regulate the osteoimmune microenvironment. In this review, we first summarise the immune processes and key immune cell populations involved in the inflammatory, proliferative, and remodeling stages of bone repair, and discuss the major bioprinting technologies and bioink design principles relevant to immunoregulatory bone regeneration. We then examine how material composition, structural and surface cues, and biologically active components, including stem cells, cytokines, exosomes, and decellularised extracellular matrix, regulate immune cell states and their interactions with vascular and osteogenic processes. Particular emphasis is placed on moving beyond static macrophage polarisation towards multicellular, stage specific, and spatiotemporally controlled immunoregulation. Finally, current challenges and future directions are discussed, including responsive and multifunctional bioinks, controlled degradation and delivery, mechanistic evaluation, manufacturing standardisation, and clinical translation. Collectively, immunoregulatory bioprinting provides a promising framework for developing bone regenerative constructs that more closely coordinate with the dynamic biology of tissue repair.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103714",
+        "keyword": "Exosomes",
+        "title_ja": "骨再生のための免疫調節バイオマテリアルの3Dバイオプリンティングにおける進歩",
+        "summary_ja": "骨欠損の再生には炎症、血管新生、骨形成、骨リモデリングの協調的制御が必要であり、骨免疫学の進展により、生体材料設計は受動的生体適合性から能動的・時間的免疫調節へと移行している。3Dバイオプリンティングは材料・構造・細胞・生化学的手がかりを空間的に統合し、骨免疫微小環境を制御する新たな基盤を提供する。本レビューでは、骨修復の炎症期・増殖期・リモデリング期に関与する免疫過程と主要免疫細胞集団を概説し、免疫調節的骨再生に関連するバイオプリンティング技術とバイオインク設計原理を論じる。さらに、材料組成、構造・表面手がかり、幹細胞・サイトカイン・エクソソーム・脱細胞化細胞外マトリックスなどの生物活性成分が、免疫細胞状態と血管・骨形成過程との相互作用をどう制御するかを検討する。特に、静的なマクロファージ極性化を超え、多細胞・段階特異的・時空間制御された免疫調節への移行を強調する。最後に、応答性・多機能"
+      },
+      {
+        "title": "Chrysanthemum Morifolium-Derived Nanovesicles Reduce Lactate-Associated Histone Lactylation and Modulate Microglia-Mediated Neuroinflammation in Sepsis-Associated Encephalopathy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42875879/",
+        "abstract": "Sepsis-associated encephalopathy (SAE)-a complication of the central nervous system in patients with sepsis-markedly diminishes cognitive functions and is linked to hippocampal neuritis-induced injury. Plant exosome-like nanovesicles can transport proteins, lipids, and molecular compounds between neural cells and the periphery, thereby modulating target cells. This study examined the therapeutic potential of Chrysanthemum morifolium-derived exosome-like nanovesicles (CRELNVs) in an animal model of lipopolysaccharide-induced SAE, revealing their ability to effectively cross the blood-brain barrier, be internalized by microglia, and alleviate nerve injury and memory impairment by reducing lactate levels in microglia at the hippocampus. CRELNVs decreased lactylation levels in microglia, thus promoting the conversion of microglial cells from the detrimental M1 metabolic phenotype to the protective M2 one. Mechanistically, our finding suggest CRELNVs reduced proinflammatory cytokine release is associated with the inhibition of NF-κB activation. Thus, CRELNVs were concluded to exert their protective effects by modulating the H3K18la/NF-κB axis and regulate microglia-mediated neuroinflammation by responding to the hippocampal neuritis-induced injury in SAE.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.78330",
+        "keyword": "Exosomes",
+        "title_ja": "菊由来ナノ小胞は乳酸関連ヒストンラクチル化を抑制し、敗血症関連脳症におけるミクログリア媒介性神経炎症を調節する",
+        "summary_ja": "敗血症関連脳症（SAE）は認知機能を低下させ、海馬の神経炎による障害と関連する。植物由来exosome様ナノ小胞は神経細胞と末梢間で物質を輸送し標的細胞を調節する。本研究は、LPS誘導SAE動物モデルでChrysanthemum morifolium由来exosome様ナノ小胞（CRELNVs）の治療可能性を検討した。CRELNVsは血液脳関門を通過し、ミクログリアに取り込まれ、海馬ミクログリアの乳酸レベルを低下させ、神経障害と記憶障害を軽減した。CRELNVsはミクログリアのラクチル化を減少させ、M1表現型からM2表現型への転換を促進した。機序として、CRELNVsによる炎症性サイトカイン放出抑制はNF-κB活性化阻害と関連する。CRELNVsはH3K18la/NF-κB軸を調節し、SAEの海馬神経炎誘導障害に対応してミクログリア媒介神経炎症を制御すると結論づけられた。"
+      },
+      {
+        "title": "Correction to: MiR‑17‑5p Mediates the Effects of ACE2‑Enriched Endothelial Progenitor Cell‑Derived Exosomes on Ameliorating Cerebral Ischemic Injury in Aged Mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42875606/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-06261-5",
+        "keyword": "Exosomes",
+        "title_ja": "訂正：MiR-17-5pは、ACE2を豊富に含む内皮前駆細胞由来エクソソームが高齢マウスの脳虚血障害を改善する効果を媒介する。",
+        "summary_ja": "ご提示いただいた情報には、論文の本文や要約が含まれていません。タイトルのみでは、研究の具体的な内容（方法、結果、結論）を把握できないため、正確な要約を作成することができません。\n\n本文のテキストを貼り付けていただければ、ご要望に沿って400文字以内で要約いたします。"
+      },
+      {
+        "title": "Osteogenic priming of canine perivascular mesenchymal stromal cells enhances extracellular vesicle yield and in vitro activity for bone regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42874848/",
+        "abstract": "The therapeutic efficacy of mesenchymal stromal cells (MSCs) is intrinsically linked to their response to the host microenvironment by the interplay with resident cells. While MSC-derived extracellular vesicles (EVs) offer a promising cell-free alternative, optimizing their production and cargo for specific clinical applications remains a challenge. We investigated the impact of in vitro osteogenic priming on the yield, molecular profile, and functional activity of EVs derived from canine umbilical cord perivascular MSCs (cPMSCs). The EVs secreted by osteogenic primed and naïve cPMSC were isolated by ultracentrifugation and characterized by nanoparticle tracking analysis, western blotting, and electronic transmission microscopy. In vitro functional assays of cellular uptake, proliferation, migration, and mineralization were performed. MicroRNAs known to participate in osteogenesis (cfa-miR-21, cfa-miR26a, cfa-miR-27a and cfa-miR-29a) were evaluated in EV samples of both groups through RT-qPCR. Notably, osteogenic priming led to a 1.5-fold increase in vesicle yield (5.6 ± 0.5 ×10",
+        "source": "PubMed",
+        "doi": "10.1016/j.tvjl.2026.106932",
+        "keyword": "Exosomes",
+        "title_ja": "イヌ血管周囲間葉系ストローマ細胞の骨形成プライミングは、骨再生のための細胞外小胞の収量とin vitro活性を高める。",
+        "summary_ja": "犬の臍帯血管周囲間葉系間質細胞（cPMSC）由来の細胞外小胞（EV）について、in vitroでの骨形成プライミングが収量・分子プロファイル・機能活性に与える影響を検討した。骨形成プライミング群と未処理群のEVを超遠心法で単離し、粒子追跡解析、ウェスタンブロット、電子顕微鏡で特性評価した。取り込み・増殖・遊走・石灰化のin vitro機能解析と、骨形成関連microRNA（cfa-miR-21、26a、27a、29a）のRT-qPCR解析を実施した。骨形成プライミングにより小胞収量が1.5倍（5.6 ± 0.5 ×10…）に増加した。"
+      }
+    ],
+    "農学": [],
+    "工学": [
+      {
+        "title": "The ferroptosis-neuroinflammation feedback loop in traumatic brain injury: mechanisms and therapeutic implications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42874955/",
+        "abstract": "Traumatic brain injury (TBI) is a major cause of death and disability worldwide, with secondary injury processes such as ferroptosis and neuroinflammation adding to its detrimental effects. Recent studies reveal a profound bidirectional interaction. On one hand, inflammation drives ferroptosis by disrupting iron homeostasis through the IL-6/Janus kinase 2 (JAK2)/signal transducer and activator of transcription 3 (STAT3)-hepcidin axis, impairing the system Xc",
+        "source": "PubMed",
+        "doi": "10.1016/j.neuroscience.2026.10.015",
+        "keyword": "Exosomes",
+        "title_ja": "外傷性脳損傷におけるフェロトーシスと神経炎症のフィードバックループ：メカニズムと治療的意義",
+        "summary_ja": "外傷性脳損傷（TBI）は世界的に死亡・障害の主因であり、 ferroptosis や neuroinflammation といった二次損傷が悪影響を増大させる。近年の研究は双方向性相互作用を明らかにした。炎症は IL-6/JAK2/STAT3-hepcidin 軸を介して鉄恒常性を破綻させ、system Xc- を障害することで ferroptosis を促進する。一方、ferroptosis は脂質過酸化や DAMPs 放出を通じて neuroinflammation を増幅し、悪循環を形成する。本稿はこのフィードバックループの機序を整理し、治療標的としての可能性を論じる。"
+      }
+    ],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "ご提示いただいた論文・記事一覧から、特に注目すべき5つのトピックを選び、重要性・背景・今後の展望を含めて500文字以内でまとめます。\n\n**1. CAR NK細胞によるCLL-1低発現AMLの克服**\nCLL-1を標的とする高親和性CARを臍帯血由来NK細胞に導入し、CLL-1低発現AML細胞も排除可能にした。難治性AMLへの新たな細胞療法として期待される。\n\n**2. EBV陽性NPCのEV-LMP1による免疫抑制機構**\nEVを介したLMP1-NF-κB-LIF軸がマクロファージを免疫抑制型に再プログラミングし、抗腫瘍免疫を阻害することを解明。EV標的治療の可能性を示す。\n\n**3. 心脳共加齢の分子機序と介入**\n心血管疾患と認知機能低下が非同期に連関する「心脳共加齢」の表現型・機序・介入を体系化。健康長寿に向けた統合的アプローチの基盤となる。\n\n**4. 植物由来ナノ小胞による敗血症関連脳症の改善**\n菊花由来ナノ小胞がヒストン乳酸化を抑制し、ミクログリア媒介性神経炎症を調節。植物exosome様小胞の新たな治療応用を示す。\n\n**5. 骨形成プライミングによるEV収量・活性向上**\n犬血管周囲間葉系幹細胞の骨形成プライミングがEV収量と機能を高め、骨再生治療の実用化に寄与する。"
+}

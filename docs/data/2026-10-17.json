@@ -1,0 +1,207 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Aldosterone and Residual Cardiorenal Risk: Pathophysiology and Emerging Therapeutic Strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42886065/",
+        "abstract": "Aldosterone, the terminal effector of the renin-angiotensin-aldosterone system, regulates sodium retention, potassium excretion, and blood pressure. Beyond these classical effects, aldosterone-associated and mineralocorticoid receptor (MR)-mediated signaling is implicated in inflammation, oxidative stress, fibrosis, albuminuria, and progressive cardiorenal injury, while its synthesis is regulated by factors beyond angiotensin II. This is particularly relevant in chronic kidney disease (CKD), where persistent renin-angiotensin system (RAS) activation, impaired potassium handling, reduced Klotho, altered aldosterone clearance, and incomplete suppression may sustain aldosterone exposure and MR activation despite conventional RAS blockade. These mechanisms may contribute to residual cardiorenal risk despite standard-of-care therapy. Mineralocorticoid receptor antagonist (MRA) outcome trials establish MR signaling as a therapeutic target in defined CKD populations, but therapeutic benefit from MR blockade should not be interpreted as evidence of biochemical aldosterone excess in all treated patients. This review distinguishes aldosterone excess from MR activation and proposes a nephrology-focused clinical framework separating established MRA indications, evaluation for primary aldosteronism, and the unestablished cardiorenal outcome role of aldosterone synthase inhibitors (ASIs). We discuss aldosterone-associated and MR-mediated kidney injury, the cardiorenal axis, albuminuria as a downstream marker of injury and treatment response, and current and emerging therapeutic strategies, including steroidal and non-steroidal MRAs, ASIs, and combinations with SGLT2 inhibitors. Whereas MRA therapy has established outcome benefits in defined CKD populations, cardiorenal outcome benefit from ASIs remains unestablished; EASi-KIDNEY was discontinued early after independent Data Monitoring Committee review, with detailed results pending.",
+        "source": "PubMed",
+        "doi": "10.1093/ndt/gfag243",
+        "keyword": "Klotho",
+        "title_ja": "アルドステロンと残存心血管腎リスク：病態生理と新たな治療戦略",
+        "summary_ja": "アルドステロンはRASの最終エフェクターで、Na貯留・K排泄・血圧を調節する。さらにMRを介し炎症、酸化ストレス、線維化、アルブミン尿、心腎障害に関与し、その合成はAngII以外にも制御される。CKDではRAS活性化、K処理障害、Klotho減少、クリアランス低下、不完全抑制により、RAS遮断下でもアルドステロン曝露とMR活性化が持続し、残余心腎リスクに寄与しうる。MRA試験はMRシグナルが治療標的であることを示すが、MR遮断の利益は全例で生化学的アルドステロン過剰を意味しない。本総説はアルドステロン過剰とMR活性化を区別し、MRA適応、原発性アルドステロン症評価、ASIsの未確立な心腎アウトカム役割を分ける腎臓病学の枠組みを提案する。MRAは一定のCKD集団で利益が確立する一方、ASIsの心腎利益は未確立で、EASi-KIDNEYは早期中止となった。"
+      },
+      {
+        "title": "Beyond Hemodynamics: Uremic Toxins, Post-Translational Modifications, and Inflammatory-Metabolic Remodeling in Uremic Cardiomyopathy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42879827/",
+        "abstract": "Uremic cardiomyopathy has traditionally been attributed to pressure overload, volume overload, hypertension, and neurohormonal activation in chronic kidney disease. However, growing experimental and clinical evidence indicates that nonhemodynamic mechanisms also contribute to myocardial remodeling in uremia. These mechanisms include retention of uremic toxins and protein-bound solutes, mediators of mineral metabolism, gut-derived metabolites, inflammatory signaling, mitochondrial dysfunction, and post-translational protein modifications. In this review, we discuss uremic cardiomyopathy as a systemic inflammatory-metabolic disorder in which kidney failure reshapes myocardial structure and function through interacting biochemical and interorgan pathways. We first define the major classes of uremic toxins, including small water-soluble solutes, middle molecules, protein-bound uremic toxins, and reactive chemical intermediates. We then focus on post-translational modifications, particularly urea-derived cyanate-mediated carbamylation, a well-characterized uremia-associated mechanism that can alter collagen, extracellular matrix turnover, plasma proteins, lipoproteins, and potentially long-lived cardiac proteins. Additional injury pathways, including oxidative modifications, ferroptosis, fibroblast growth factor 23/Klotho imbalance, aryl hydrocarbon receptor activation by indoxyl sulfate, gut-derived adrenergic metabolites, endotoxemia, and inflammasome signaling, are discussed as complementary and partially overlapping mechanisms. Because much of the current mechanistic evidence comes from preclinical models, circulating biomarkers, or associative human studies, we distinguish established evidence from plausible mechanistic hypotheses throughout the review. Finally, we discuss therapeutic implications, including enhanced toxin removal, sodium-glucose cotransporter 2 inhibitors, mineralocorticoid receptor antagonists, glucagon-like peptide 1 receptor agonists, and future strategies targeting uremic toxins, proteostasis, ferroptosis, inflammasome activation, and toxin-induced post-translational modifications.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jacbts.2026.101677",
+        "keyword": "Klotho",
+        "title_ja": "血行動態を超えて：尿毒症性心筋症における尿毒症性毒素、翻訳後修飾、および炎症性代謝リモデリング",
+        "summary_ja": "尿毒症性心筋症は従来、慢性腎臓病における圧・容量負荷、高血圧、神経体液性活性化に起因するとされてきた。しかし近年、非血行動態的機序の関与も示されている。本レビューでは、尿毒症性毒素や蛋白結合性溶質の蓄積、ミネラル代謝異常、腸内代謝物、炎症シグナル、ミトコンドリア機能障害、翻訳後修飾などが心筋リモデリングに関与すると論じる。特に尿素由来シアン酸によるカルバミル化に注目し、コラーゲンや細胞外基質、血漿蛋白、リポ蛋白、心筋蛋白への影響を概説する。さらに酸化修飾、フェロトーシス、FGF23/Klotho不均衡、インドキシル硫酸によるAhR活性化、腸由来アドレナリン代謝物、エンドトキセミア、インフラマソームを補完的機序として扱う。多くは前臨床モデルやバイオマーカー、関連研究に基づくため、確立された証拠と仮説を区別する。治療面では毒素除去強化、SGLT2阻害薬、MRA、GLP-1受容体作動薬、毒素・プ"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Altered tissue-to-fibril strain transfer in cortical bone from juvenile female Klotho-deficient mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42880534/",
+        "abstract": "Juvenile female Klotho-deficient mice have severe cortical abnormalities, but how the remaining bone matrix partitions deformation across length scales is unclear. We combined in situ tensile testing with synchrotron small-angle X-ray diffraction to quantify tissue and mineralized-collagen-fibril deformation in femoral cortical bone from 5-week-old female wild-type, heterozygous, and homozygous Klotho-deficient mice (n = 5 per group). Quantitative backscattered electron imaging (qBEI) assessed tibial cortical thickness, mineralization and the dark-area fraction of the same sections; phase-contrast microtomography of femur provided qualitative structural context. Effective fibril modulus was higher in heterozygous (14.6 ± 3.5 GPa, p = 0.012) and homozygous mice (13.4 ± 5.5 GPa, p = 0.010) than in wild-type mice (4.3 ± 0.8 GPa). The fibril-to-tissue strain ratio was lower in both Klotho-deficient groups (p = 0.018 and p = 0.028), whereas fibril-orientation dispersion did not differ (p = 0.823). Tissue modulus, failure strain, and failure stress showed no statistically significant genotype differences. Tibial cortices were thinner in both Klotho-deficient groups; the dark-area fraction was higher in homozygous mice (p < 0.001), and mean calcium content was lower in homozygous than wild-type mice (p = 0.011). Mineralization heterogeneity did not differ (p = 0.811). These exploratory findings are consistent with altered tissue-to-fibril strain partitioning associated with Klotho deficiency, together with marked cortical structural deficits, but do not establish the molecular origin of the response. The local X-ray dose was estimated at approximately 0.6 kGy per measurement location, well below the absorbed dose at which X-ray irradiation alters the deformation behaviour of cortical bone. Only female mice at a single juvenile age were studied, so the findings cannot be extrapolated to males or to older animals.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bone.2026.118133",
+        "keyword": "Klotho",
+        "title_ja": "若年雌性Klotho欠損マウスの皮質骨における組織から線維へのひずみ伝達の変化",
+        "summary_ja": "若齢雌Klotho欠損マウスでは皮質骨異常が重度だが、残存骨基質の階層的ひずみ分配は不明である。野生型・ヘテロ接合体・ホモ接合体（各n=5）の大腿骨皮質骨を用い、in situ引張試験と放射光小角X線回折を組み合わせ、組織および石灰化コラーゲン線維の変形を定量した。qBEIで脛骨皮質厚、石灰化度、暗領域率を評価した。有効線維弾性率はヘテロ接合体（14.6±3.5 GPa）とホモ接合体（13.4±5.5 GPa）で野生型（4.3±0.8 GPa）より高かった。線維/組織ひずみ比はKlotho欠損群で低く、線維配向分散に差はなかった。組織弾性率、破断ひずみ・応力に有意差はなかった。皮質は両欠損群で薄く、ホモ接合体で暗領域率が高く、平均カルシウム含量が低かった。石灰化不均一性に差はなかった。これらの探索的知見はKlotho欠損に伴う組織-線維ひずみ分配の変化と皮質構造欠損を示すが、分子機序は未解"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "WIN-MTB-2024002 - WIN International Molecular Tumor Board: A 52-year-old female with unmeasurable Stage IIIc colon cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42885719/",
+        "abstract": "Copyright: &copy; 2026 El-Deiry et al. This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. Colorectal cancer (CRC) is a leading cause of cancer-related mortality, with a complex molecular profile that impacts tumor behavior and treatment response. This case report discusses a 52-year-old female diagnosed with Stage IIIc colon cancer, exhibiting KRAS, TP53, IDH1, and APC mutations, as well as a tumor microenvironment with high PD-L1 expression and elevated VEGFR1 and VEGFR3. Despite surgical resection and adjuvant treatment which included FOLFOX, FOLFIRI with bevacizumab and local radiation, the patient&#x2019;s disease was difficult to track due to small, non-FDG-avid lymph nodes in the aortocaval region and persistent circulating tumor DNA (ctDNA). Following a review by an international Molecular Tumor Board (MTB), maintenance therapy options were discussed, including the personalized combinations of regorafenib, sulindac, and metformin, or fruquintinib, sulindac, and metformin, based on the patient&#x2019;s molecular alterations. Alternatively, 5-FU with or without bevacizumab was suggested. In the event of relapse, the MTB recommended the combination of regorafenib, sulindac, and metformin, with the addition of trametinib and ivosidenib. The combination of regorafenib, ipilimumab, and nivolumab (RIN) was also considered due to the patient&#x2019;s high PD-L1 expression. Further clinical trial options, such as pan-RAF inhibitors, NK cell agonists, and TAS-102 with bevacizumab, were also discussed. Additionally, the potential combination of PD-1 and TGF&#x03B2; inhibitors was explored. This case underscores the critical role of molecular profiling in tailoring personalized treatment strategies for advanced CRC, providing novel avenues for managing recurrent disease, even in the absence of measurable disease.",
+        "source": "PubMed",
+        "doi": "10.18632/oncotarget.28921",
+        "keyword": "NK cell therapy",
+        "title_ja": "WIN-MTB-2024002 - WIN国際分子腫瘍ボード：測定不能なIIIc期結腸癌の52歳女性。",
+        "summary_ja": "52歳女性のStage IIIc結腸癌の症例。KRAS、TP53、IDH1、APC変異、PD-L1高発現、VEGFR1/3上昇を認める。FOLFOX、FOLFIRI＋ベバシズマブ、放射線治療後も、大動脈傍リンパ節は小さくFDG集積乏しく、ctDNAが持続し病勢評価が困難だった。国際Molecular Tumor Board（MTB）が維持療法としてregorafenib、sulindac、metforminの併用、またはfruquintinib併用、5-FU±ベバシズマブを提案。再発時はregorafenib、sulindac、metforminにtrametinib、ivosidenib追加、PD-L1高発現よりregorafenib、ipilimumab、nivolumab（RIN）も検討。pan-RAF阻害薬、NK細胞作動薬、TAS-102＋ベバシズマブ、PD-1/TGFβ阻害薬併用"
+      },
+      {
+        "title": "Next-generation natural killer cell therapy: bench to bedside and beyond.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42881185/",
+        "abstract": "Natural killer (NK) cells have emerged as central players in cancer immunotherapy, progressing from basic discovery to clinically validated platforms over five decades. This review synthesizes the evolving understanding of NK cell biology, including subset heterogeneity, epigenetic regulation, and metabolic control, and, as innovative focal points, intratumoral NK heterogeneity, epigenetic modulation, and intracellular immune checkpoints, forming the foundation for rational therapeutic engineering. We examine the clinical trajectory from unmodified adoptive transfer to cytokine-induced memory-like NK cells and, most transformatively, to chimeric antigen receptor (CAR)-NK cells. Landmark trials have established the remarkable efficacy and superior safety of CAR-NK cells in B-cell malignancies, with recent studies extending these benefits to autoimmune diseases such as systemic lupus erythematosus and systemic sclerosis, demonstrating durable immune reset with a favorable safety profile. Despite these advances, solid tumors remain formidable challenges, hindered by antigen heterogeneity, physical barriers, and a metabolically hostile microenvironment. We therefore analyze next-generation engineering strategies that move beyond single modifications toward systems-level reprogramming, encompassing intrinsic enhancements (cytokine signaling, metabolic fitness, checkpoint disruption), extrinsic tumor microenvironment remodeling, and advanced delivery platforms. We further synthesize the practical dimensions of clinical translation by systematically examining key optimization parameters that will guide the path toward precision NK cell therapy. These include rational dosing and scheduling regimens, strategies to reduce lymphodepletion intensity, context-dependent persistence requirements across different disease indications and the emerging biomarker landscape.",
+        "source": "PubMed",
+        "doi": "10.1038/s41392-026-02911-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "次世代型ナチュラルキラー細胞療法：ベンチからベッドサイドへ、そしてその先へ",
+        "summary_ja": "NK細胞は50年で基礎研究から臨床応用へ進み、癌免疫療法の中心的存在となった。本レビューは、サブセット多様性、エピジェネティック制御、代謝制御に加え、腫瘍内NK不均一性、エピジェネティック調節、細胞内免疫チェックポイントを治療設計の基盤として概説する。臨床では未修飾養子移入からサイトカイン誘導記憶様NK細胞、CAR-NK細胞へと発展し、B細胞悪性腫瘍での有効性と安全性が示され、全身性エリテマトーデス等の自己免疫疾患にも拡大している。一方、固形腫瘍は抗原不均一性、物理的障壁、代謝的に敵対的な微小環境により依然困難である。次世代戦略として、サイトカインシグナル、代謝適応、チェックポイント破壊などの内在的強化、腫瘍微小環境リモデリング、先進的送達基盤を含むシステムレベル再プログラミングを論じる。さらに用量・スケジュール、リンパ球除去軽減、疾患別持続性、バイオマーカーなど臨床翻訳の最適化を整理する"
+      },
+      {
+        "title": "Anti-CD38 monoclonal antibodies in kidney disease: mechanistic rationale and emerging clinical evidence.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42878696/",
+        "abstract": "Over the past decades, the therapeutic landscape of nephrology has been transformed by the expanding use of immunosuppressive therapies, reflecting major advances in our understanding of the roles of the innate and adaptive immune systems in the pathogenesis of kidney diseases. While B-cell depletion via rituximab or obinutuzumab has improved immune-mediated kidney disease management, these agents remain insufficient. They spare long-lived plasma cells, memory B cells, and innate effectors, permitting persistent antibody production and ongoing tissue injury. Consequently, increasing attention has focused on anti-CD38 monoclonal antibodies, including daratumumab, isatuximab, and felzartamab, which target several of these pathogenic immune cell populations. Early clinical experience and emerging trial data in diseases such as IgA nephropathy, primary membranous nephropathy, and, most notably, kidney transplantation have suggested potential benefits in selected settings, further supporting their potential role in nephrology. In this narrative review, we summarize the current understanding of the pathophysiological role of CD38-expressing immune cells in kidney diseases and critically evaluate the available clinical evidence on the use of anti-CD38 monoclonal antibody therapies across a spectrum of renal disorders. The review also compares the roles of anti-CD38 monoclonal therapies in native kidney disease and antibody-mediated rejection, since they differ in mechanism, clinical evidence, and treatment options.",
+        "source": "PubMed",
+        "doi": "10.1093/ndt/gfag238",
+        "keyword": "NK cell therapy",
+        "title_ja": "腎疾患における抗CD38モノクローナル抗体：機序的根拠と新たな臨床エビデンス",
+        "summary_ja": "腎臓病治療ではリツキシマブ等のB細胞除去が用いられるが、長寿命形質細胞や記憶B細胞、自然免疫エフェクターは温存され、抗体産生と組織障害が持続する。そこでダラツムマブ、イサツキシマブ、フェルザルタマブ等の抗CD38モノクローナル抗体が注目される。これらは複数の病原性免疫細胞集団を標的とし、IgA腎症、原発性膜性腎症、特に腎移植で有望なデータが示されている。本レビューは、腎疾患におけるCD38発現免疫細胞の病態生理学的役割と、各種腎障害に対する抗CD38抗体療法の臨床エビデンスを評価し、native kidney diseaseと抗体関連拒絶における役割の違いも比較する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Multiple strategies to improve the therapeutic efficacy of mesenchymal stem cell‑derived exosome transplantation in ischemic stroke (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42885286/",
+        "abstract": "Ischemic stroke (IS) is a common cause of physical disability and death worldwide. Although it has been indicated that mesenchymal stem cells (MSCs) can treat IS through mechanisms such as immunomodulation, angiogenesis and neuroprotection, their clinical application is limited by inherent drawbacks, such as immune rejection risk and tumorigenic potential. Notably, MSC‑derived exosomes (MSC‑Exos) possess advantages, such as a smaller volume, low immunogenicity and low tumorigenicity, enabling therapeutic effects similar to those of the parent cells. Furthermore, MSC‑Exos can carry various bioactive substances and cross the blood‑brain barrier (BBB), thus indicating their potential in the diagnosis, treatment and prognostic assessment of IS. The present review comprehensively elaborates on the principles by which MSC‑Exos may treat IS through mechanisms such as inhibiting inflammatory responses, suppressing apoptosis, promoting angiogenesis, regulating ferroptosis and maintaining BBB integrity. However, the therapeutic efficacy of MSC‑Exo monotherapy is restricted by its low brain bioavailability, short lesion retention time, insufficient ",
+        "source": "PubMed",
+        "doi": "10.3892/ijmm.2026.6016",
+        "keyword": "Exosomes",
+        "title_ja": "改善间充质干细胞来源外泌体移植治疗缺血性脑卒中疗效的多种策略（综述）",
+        "summary_ja": "虚血性脳卒中（IS）は世界的に身体障害と死亡の主要原因である。間葉系幹細胞（MSC）は免疫調節、血管新生、神経保護等の機序でISを治療し得るが、免疫拒絶や腫瘍形成能等の欠点により臨床応用が制限される。MSC由来エクソソーム（MSC-Exos）は体積が小さく、低免疫原性・低腫瘍形成性を持ち、親細胞と同様の治療効果を発揮する。更に各種生理活性物質を運搬し血液脳関門（BBB）を通過できるため、ISの診断・治療・予後評価への可能性が示される。本総説は、MSC-Exosが炎症反応抑制、アポトーシス抑制、血管新生促進、フェロトーシス調節、BBB完全性維持等の機序でISを治療する原理を包括的に論じる。しかしMSC-Exo単独療法は、脳内バイオアベイラビリティの低さ、病変保持時間の短さ、不十分な（以下略）により治療効果が制限される。"
+      },
+      {
+        "title": "Ultrasensitive Trace Sample Proteomics for Pancreatic Ductal Adenocarcinoma Diagnosis Empowered by Dual-Affinity Spherical Ln-MOFs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42885237/",
+        "abstract": "Low-abundance exosomal proteins from trace plasma volumes remain challenging to profile by mass spectrometry. Here, we report a lanthanide metal-organic framework (Ln-MOF) functionalized with boronic acid and carboxylate dual ligands, which captures exosomal proteins via synergistic phosphate coordination, boronate-diol complexation, and cation-π interactions. Compared with traditional ultracentrifugation, which identifies 1003 proteins from 200 µL of plasma, the Ln-MOF method identifies 1523 proteins from only 50 µL of plasma. Notably, the method enriches glycoproteins and phosphoproteins by 2.1-fold and 1.8-fold, respectively. Applying this platform to pancreatic ductal adenocarcinoma (PDAC) patients and healthy controls, we delineate tumor tissue hypermetabolism vs. systemic immune suppression.",
+        "source": "PubMed",
+        "doi": "10.1002/smll.76296",
+        "keyword": "Exosomes",
+        "title_ja": "膵管腺癌診断のための二重親和性球状Ln-MOFsによる超高感度微量サンプルプロテオミクス",
+        "summary_ja": "ボロン酸とカルボキシラートの二重配位子で機能化したランタニド金属有機骨格（Ln-MOF）を用い、リン酸配位・ボロン酸-ジオール錯形成・カチオン-π相互作用の相乗効果で微量血漿中のエクソソームタンパク質を捕捉する超高感度プロテオミクス法を報告する。従来の超遠心法が200µL血漿から1003種のタンパク質を同定するのに対し、本Ln-MOF法は50µLから1523種を同定し、糖タンパク質を2.1倍、リン酸化タンパク質を1.8倍濃縮した。膵管腺癌（PDAC）患者と健常者に適用し、腫瘍組織の代謝亢進と全身性免疫抑制を描出した。"
+      },
+      {
+        "title": "Sequential Dual Nanoparticle Approach for Extracellular Matrix Remodeling and Targeted Chemotherapy through Liposome-Exosome Hybridization in Pancreatic Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42880885/",
+        "abstract": "Pancreatic cancer remains one of the most aggressive and treatment-resistant malignancies, with a poor prognosis and limited response to conventional therapies. Although liposomal doxorubicin (DOX) formulations reduce systemic toxicity, their clinical use is constrained by insufficient tumor targeting and poor intratumoral penetration. Here, we report a sequential dual-nanoparticle approach that integrates extracellular matrix (ECM) remodeling with tumor-targeted chemotherapy to overcome these barriers. Hyaluronidase-loaded liposomes (LH) were first employed to degrade hyaluronic acid-rich ECM, followed by the administration of DOX-loaded liposome-exosome hybrid nanoparticles (HLD) engineered using pancreatic cancer cell-derived exosomes to confer intrinsic tumor-homing capability. The DOX-loaded hybrid nanoparticles demonstrated enhanced cellular uptake, potent cytotoxicity, and strong immunogenic cell death (ICD) responses in pancreatic cancer cells. ECM degradation by LH significantly improved intratumoral accumulation and penetration of subsequently administered HLD in vivo. In a pancreatic cancer xenograft model, sequential LH and HLD treatment resulted in superior tumor growth suppression compared with monotherapies, without inducing systemic toxicity. Collectively, this work demonstrates a modular, sequential nanotherapeutic platform that synergistically combines ECM remodeling and exosome-mediated targeting, offering a promising strategy to improve drug delivery and therapeutic efficacy in stromal-dense solid tumors, such as pancreatic cancer.",
+        "source": "PubMed",
+        "doi": "10.1021/acsami.6c14250",
+        "keyword": "Exosomes",
+        "title_ja": "膵臓がんにおけるリポソーム-エクソソームハイブリダイゼーションを介した細胞外マトリックスリモデリングと標的化学療法のための逐次デュアルナノ粒子アプローチ",
+        "summary_ja": "膵癌は治療抵抗性が高く予後不良である。リポソーム化ドキソルビシン（DOX）は全身毒性を軽減するが、腫瘍標的性と浸透性が不十分である。本研究では、細胞外マトリックス（ECM）リモデリングと腫瘍標的化学療法を統合した逐次型デュアルナノ粒子法を報告する。まずヒアルロニダーゼ搭載リポソーム（LH）でヒアルロン酸リッチECMを分解し、続いて膵癌細胞由来エクソソームを用いたDOX搭載リポソーム-エクソソームハイブリッドナノ粒子（HLD）を投与した。HLDは細胞取り込み、細胞毒性、免疫原性細胞死（ICD）を亢進させた。LHによるECM分解はHLDの腫瘍内集積と浸透を有意に改善した。膵癌異種移植モデルで逐次LH・HLD治療は単剤療法より優れた腫瘍増殖抑制を示し、全身毒性は認めなかった。本成果はECMリモデリングとエクソソーム標的化を相乗的に組み合わせた逐次ナノ治療基盤を提示する。"
+      },
+      {
+        "title": "Emerging stem cell strategies for neurodegenerative diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42880373/",
+        "abstract": "Degenerative diseases continue to impose a substantial global health burden with limited curative options. Neurodegenerative diseases, the principal focus of this review, are among the largest contributors to this burden. Stem cell therapies have emerged as a promising approach, offering the potential to replace lost cells, modulate pathological microenvironments, and restore tissue function through both direct cell replacement and paracrine mechanisms. However, conventional stem cell strategies encounter persistent obstacles including immune rejection, tumorigenicity, poor engraftment, and limited long-term efficacy in chronic disease settings. This narrative review synthesizes recent and emerging innovations in stem cell therapy for neurodegenerative diseases across four major domains: (i) emerging mechanisms of stem cell action, including activation of dormant neural stem cells (NSCs), exosome-based cell-free therapies, and rejuvenation of aged stem cells; (ii) emerging cell types such as pre-morula stem cells (PMSCs), perinatal stem cells, SSEA-4+ human umbilical cord mesenchymal stem cells (hUC-MSCs), and iPSC-derived mesenchymal progenitor cells (MiMPCs); (iii) advanced delivery platforms including three-dimensional (3D) biomaterial scaffolds, injectable hydrogels, and stem cell membrane-coated nanoparticles (CMNPs); and (iv) gene-editing strategies, particularly CRISPR/Cas9-mediated generation of hypoimmunogenic induced pluripotent stem cell (iPSC) lines for allogeneic, off-the-shelf cell therapies. Key translational gaps, including standardization of exosome isolation and scaffold fabrication protocols, long-term safety and immunogenicity assessment, and ethical and regulatory frameworks, are critically evaluated, and future research directions are proposed. In addition, the review states the level of evidence (in vitro, animal, or human) supporting each approach and summarizes their clinical status in a single table. Addressing these challenges through interdisciplinary collaboration will be essential to realizing the full potential of stem cell-based regenerative medicine for degenerative diseases.",
+        "source": "PubMed",
+        "doi": "10.1016/j.trim.2026.102465",
+        "keyword": "Exosomes",
+        "title_ja": "神経変性疾患に対する新たな幹細胞戦略",
+        "summary_ja": "神経変性疾患は世界的な健康負担が大きく、根治的治療は限られる。幹細胞治療は細胞補充や病態微小環境の調節、パラクライン作用による組織機能回復の可能性から有望視されるが、免疫拒絶、腫瘍形成、生着不良、長期有効性の限界などの課題がある。本レビューは4領域の革新を統合する：(i)休眠NSC活性化、エクソソームによる無細胞治療、老化幹細胞の若返りなどの作用機序、(ii)PMSC、周産期幹細胞、SSEA-4+ hUC-MSC、iPSC由来MiMPCなどの新規細胞種、(iii)3Dバイオマテリアル足場、注射可能ハイドロゲル、CMNPなどの送達基盤、(iv)CRISPR/Cas9による低免疫原性iPSC作製などの遺伝子編集戦略。エクソソーム単離や足場作製の標準化、長期安全性・免疫原性評価、倫理・規制の課題を評価し、今後の研究方向を提示する。各手法のエビデンスレベルと臨床状況も一表にまとめる。"
+      },
+      {
+        "title": "Leukotriene inhibitors in multiple sclerosis: a systematic review of animal studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42879060/",
+        "abstract": "Current disease-modifying therapies for multiple sclerosis (MS) primarily target adaptive immunity but often fail to halt neurodegeneration or promote myelin repair. Leukotriene pathway inhibitors, established in the management of asthma, possess anti-inflammatory and potentially neuroprotective properties. Following the PRISMA 2020 recommendations, a systematic search was conducted in PubMed, Web of Science, and Scopus. Eligible studies included preclinical investigations of leukotriene inhibitors in MS animal models and risk of bias was assessed using SYRCLE's risk of bias tool for animal studies. Five studies met the inclusion criteria, reported that inhibition of leukotriene B4 (LTB4) or cysteinyl leukotriene receptor 1 (CysLT1) attenuated clinical severity in experimental autoimmune encephalomyelitis (EAE) and cuprizone-induced demyelination models. Mechanistically, the included preclinical studies suggest that leukotriene inhibitors may influence several pathways potentially relevant to MS pathophysiology, including T helper 17 (Th17) cell differentiation, M1-like microglial polarization, and oligodendrocyte precursor cell (OPC) differentiation. In addition, targeted central nervous system (CNS) delivery using engineered exosomes appeared to enhance the observed remyelination effects. Leukotriene inhibition may exert pleiotropic effects across both peripheral immune responses and the CNS microenvironment. Although these mechanistic observations provide biological plausibility for further investigation of these agents as potential repurposed therapies for MS, particularly in the context of remyelination and neuroinflammation, they remain based on preclinical evidence and should therefore be considered hypothesis-generating. Well-designed clinical studies are required to determine whether these experimental effects translate into clinically meaningful therapeutic benefits in patients with MS.",
+        "source": "PubMed",
+        "doi": "10.1007/s10787-026-02429-6",
+        "keyword": "Exosomes",
+        "title_ja": "多発性硬化症におけるロイコトリエン阻害薬：動物研究の系統的レビュー",
+        "summary_ja": "多発性硬化症（MS）の既存の疾患修飾療法は適応免疫を主標的とし、神経変性抑制や髄鞘修復に限界がある。ロイコトリエン経路阻害薬は喘息治療薬として確立され、抗炎症・神経保護作用の可能性を持つ。PRISMA 2020に準拠しPubMed等で系統的検索を行い、MS動物モデルでの前臨床研究5件が基準を満たした。LTB4またはCysLT1阻害はEAEやクプリゾン誘発脱髄モデルで臨床重症度を軽減した。機序としてTh17分化、M1様ミクログリア極性化、OPC分化への関与が示唆され、エクソソームによるCNS標的送達は再髄鞘化効果を増強した。ロイコトリエン阻害は末梢免疫とCNS微小環境に多面的効果を及ぼす可能性があるが、あくまで前臨床エビデンスに基づく仮説生成であり、臨床的有用性の検証には良質な臨床研究が必要である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Proteomic and β-hydroxybutyrylation Landscapes Reveal AMPKα2-Associated Modulation in HUCMSC-Derived Exosome-Mediated Amelioration of Cardiac Aging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42880543/",
+        "abstract": "Cardiac aging is characterized by progressive functional decline and metabolic remodeling. We previously found that lysine β-hydroxybutyrylation (Kbhb) is altered in wild-type (WT) aged and AMP-activated protein kinase alpha 2 (AMPKα2)-knockout (AK) young hearts, but whether this landscape can be reversed therapeutically remains unknown. We evaluated the therapeutic potential of human umbilical cord mesenchymal stromal cell-derived exosomes (hUCMSC-exos) in WT and AK aged mice, using young and aged untreated cohorts as controls. Quantitative proteomics across six experimental groups identified 1,755 Kbhb sites on 652 proteins, mapping the dynamic cardiac Kbhb landscape under aging, AMPKα2 deficiency, and exosome intervention. In wild-type aged (WTA) mice, hUCMSC-exos improved systolic and diastolic function, enhanced grip strength, reduced fibrosis, and restored ATP levels, accompanied by predominant downregulation of Kbhb on enzymes of glycolysis/gluconeogenesis, fatty acid oxidation, the tricarboxylic acid cycle, and oxidative phosphorylation. In AMPKα2-knockout aged (AKA) mice, exosomes partially improved mitochondrial ultrastructure and diastolic indices but did not rescue systolic function or fibrosis. Site-level analysis revealed that exosomes selectively normalized Kbhb sites elevated during aging, whereas AMPKα2 deficiency caused nonselective global depletion. The candidate AMPKα2-SIRT3 pathway, supported by SIRT5, may underlie this Kbhb reprogramming. We validated carnitine acetyltransferase (CRAT) K141bhb as an age-accumulated modification reversed by exosomes in an AMPKα2- associated manner. Molecular modeling indicated that K141bhb neutralizes the positive charge of K141, disrupting the local salt bridge between K141 and E144 and destabilizing the α-helical structure, suggesting that K141bhb may serve as a metabolic brake on CRAT activity. These findings map the cardiac Kbhb landscape and show that hUCMSC-exos ameliorate cardiac aging through AMPKα2- associated Kbhb modulation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mcpro.2026.101680",
+        "keyword": "Exosomes",
+        "title_ja": "プロテオミクスおよびβ-ヒドロキシ酪酸化の全体像が明らかにする、HUCMSC由来エクソソームを介した心臓老化改善におけるAMPKα2関連調節",
+        "summary_ja": "心臓老化は機能的・代謝的劣化を特徴とする。本研究は、ヒト臍帯間葉系幹細胞由来エクソソーム（hUCMSC-exos）の治療効果をWTおよびAMPKα2欠損（AK）老齢マウスで検討した。6群の定量プロテオミクスにより652タンパク質上の1,755 Kbhb部位を同定。WT老齢マウスでは収縮・拡張機能改善、握力増強、線維化軽減、ATP回復がみられ、解糖/糖新生、脂肪酸酸化、TCA回路、酸化的リン酸化酵素のKbhbが低下した。AK老齢マウスではミトコンドリア微細構造と拡張指標は部分的に改善したが、収縮機能と線維化は改善しなかった。エクソソームは老化で上昇したKbhb部位を選択的に正常化し、AMPKα2欠損では非選択的枯渇が生じた。AMPKα2-SIRT3経路（SIRT5が支持）が関与する可能性がある。CRAT K141bhbは老化蓄積性でエクソソームによりAMPKα2依存的に逆転し、K141bhb"
+      },
+      {
+        "title": "Exploring the potential of resveratrol-enriched cord mesenchymal stem cell derived exosomes in an in vitro Parkinson's model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42878928/",
+        "abstract": "Parkinson's disease (PD) is characterized by the progressive loss of dopaminergic neurons in the substantia nigra and the pathological aggregation of α-synuclein (α-syn) into Lewy bodies and it is known as the second most prevalent neurodegenerative disorder. The pathogenesis of PD involves mitochondrial dysfunction, oxidative stress, impaired protein degradation, and neuroinflammation. Current therapeutic strategies are largely symptomatic and remain limited in their ability to halt disease progression. Resveratrol (Res) has been shown to mitigate oxidative stress, preserve mitochondrial integrity, and reduce α-syn aggregation in PD models due to its antioxidant and neuroprotective properties. Despite its promising therapeutic potential, its poor bioavailability and rapid metabolism hinder the achievement of the desired therapeutic effects, which calls for advanced drug delivery systems. Human umbilical cord-derived mesenchymal stem cell (hUC-MSC) exosomes (Exos) are nanoscale extracellular vesicles with intrinsic neuroprotective, anti-inflammatory, and regenerative properties. They represent a promising carrier system owing to biocompatibility and the ability to cross the blood-brain barrier. Since the isolation technique is a critical parameter affecting both Exos yield and therapeutic efficacy, the study initially focused on optimizing the isolation process through a comparative investigation of ultracentrifugation and commercial isolation kits. Exos obtained with the highest yield and optimal characteristics, were subsequently subjected to Res loading through the probe sonication method. After the physicochemical characterization of Res-loaded exosomes (Exo-Res), their therapeutic potential was evaluated in an in vitro PD model established by rotenone-induced neurotoxicity in SH-SY5Y cells. Cell viability, oxidative stress, mitochondrial function, and whole protein aggregation were comprehensively assessed. Exo-Res isolated with Kit-1 showed a smaller particle size (94.0 nm) with high homogeneity (PDI < 0.3), high yield (3.9 × 10",
+        "source": "PubMed",
+        "doi": "10.1007/s11011-026-02003-7",
+        "keyword": "Exosomes",
+        "title_ja": "in vitroパーキンソンモデルにおけるレスベラトロール強化臍帯間葉系幹細胞由来エクソソームの可能性の探索",
+        "summary_ja": "パーキンソン病（PD）はドーパミン作動性ニューロンの進行性喪失とα-synuclein（α-syn）のLewy小体への凝集を特徴とする神経変性疾患である。レスベラトロール（Res）は抗酸化・神経保護作用を示すが、バイオアベイラビリティが低く代謝が速いため、高度なドラッグデリバリーシステムが必要である。ヒト臍帯由来間葉系幹細胞（hUC-MSC）エクソソーム（Exos）は神経保護・抗炎症・再生特性を持ち、血液脳関門を通過できる有望なキャリアである。本研究ではまず超遠心法と市販キットを比較し単離法を最適化した。最高収量のExosにプローブ超音波法でResを搭載し（Exo-Res）、ロテノン誘発SH-SY5Y細胞PDモデルで治療効果を評価した。Kit-1で単離したExo-Resは粒子径94.0nm、高い均一性（PDI<0.3）、高収量を示した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Late-Stage Large Extracellular Vesicles Reprogram CHO Cell Metabolism in a Glutamine-Dependent Mode and Promote Antibody-Productivity to Cell-Growth Tradeoff.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42880689/",
+        "abstract": "Extracellular vesicles (EVs) are mediators of intercellular communication, yet their impact on Chinese Hamster Ovary (CHO) cell physiology and bioprocess performance remains poorly understood. Here, we investigated whether small EVs (sEVs) and large EVs (LgEVs) that accumulate during fed-batch and perfusion cultures modulate CHO cell growth, metabolism, apoptosis, and monoclonal antibody (mAb) production. EVs isolated from early- and late-stage cultures were added to fresh CHO cultures grown with or without glutamine supplementation. Only LgEVs had a significant impact. Late-stage LgEVs markedly altered CHO-cell behavior, reducing cell proliferation, increasing apoptosis under glutamine-limited conditions, and substantially enhancing mAb productivity in a dose-dependent manner. Glutamine supplementation largely alleviated the growth-inhibitory and pro-apoptotic effects of LgEVs while preserving their positive impact on productivity, suggesting that glutamine mitigated the EV-mediated stress without affecting the productivity enhancement. Metabolic analyses revealed increased glucose consumption, a glutamine-dependent shift between glycine and alanine overflow metabolism, and remodeling of amino-acid utilization. Metabolic flux analysis further demonstrated enhanced glycolytic overflow and increased reliance on amino acid-supported anaplerosis. Conversely, selective removal of LgEVs from perfusion medium significantly improved cell expansion without reducing antibody production, supporting an inhibitory role for late-stage LgEVs. These LgEVs were enriched in let-7 family miRNAs and miR-21, consistent with RNAseq analyses demonstrating stress-associated enrichment of these miRNAs in CHO EVs and with functional studies showing that let-7a and miR-21reduce CHO-cell growth. Together, these observations suggest that selective miRNA loading contributes to the growth, metabolic, and productivity phenotypes elicited by late-stage LgEVs. Our findings identify LgEVs in CHO-K1 can act as endogenous regulators of CHO-cell physiology thus deserving attention for optimizing high-density fed-batch and perfusion biomanufacturing processes.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ymben.2026.102567",
+        "keyword": "sEVs",
+        "title_ja": "後期の大型細胞外小胞はグルタミン依存的な様式でCHO細胞の代謝を再プログラムし、抗体生産性と細胞増殖のトレードオフを促進する。",
+        "summary_ja": "CHO細胞培養で蓄積する細胞外小胞（EVs）の影響を検討した。培養後期のlarge EVs（LgEVs）のみが細胞挙動を顕著に変化させ、増殖抑制、グルタミン制限下でのアポトーシス増加、mAb生産性の用量依存的向上を引き起こした。グルタミン補給は増殖抑制とアポトーシスを緩和しつつ、生産性向上は保持した。代謝解析ではグルコース消費増加、グリシン・アラニン溢出代謝のグルタミン依存的变化、アミノ酸利用再構築、解糖系溢出とアナプレロシス亢進が示された。灌流培地からLgEVsを除去すると細胞増殖が改善し、抗体生産は維持された。LgEVsはlet-7ファミリーmiRNAとmiR-21に富み、これらが増殖抑制に関与することが示唆された。LgEVsはCHO細胞生理の内因性調節因子として高密度培養プロセス最適化に重要である。"
+      },
+      {
+        "title": "MSC-Derived Small Extracellular Vesicles Alleviate Renal Fibrosis in Hyperuricemic Nephropathy via Suppression of Epithelial Mesenchymal Transition.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42878785/",
+        "abstract": "Hyperuricemic nephropathy (HN) arises from excessive accumulation of uric acid, leading to subsequent renal injury. Mesenchymal stem cells-derived small extracellular vesicles (MSC-sEVs) have demonstrated beneficial effects in promoting tissue repair across various injury models. However, their potential therapeutic role in HN remains unknown.",
+        "source": "PubMed",
+        "doi": "10.1007/s13770-026-00849-7",
+        "keyword": "sEVs",
+        "title_ja": "MSC由来の小型細胞外小胞は上皮間葉転換の抑制を介して高尿酸血症性腎症における腎線維症を軽減する",
+        "summary_ja": "高尿酸血症性腎症（HN）は尿酸蓄積による腎障害で、腎線維化が進行する。MSC由来small extracellular vesicles（MSC-sEVs）は各種傷害モデルで組織修復促進効果を示すが、HNにおける治療可能性は未解明であった。本研究は、MSC-sEVsが上皮間葉転換（EMT）の抑制を介してHNの腎線維化を軽減することを示した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の注目5トピック：(1)**Klothoと心腎連関**——アルドステロン・尿毒症性毒素を介する非血行動態的機序が心腎障害の新標的として浮上。Klotho欠損骨の階層的ひずみ異常も報告され、Klotho補充療法の展望。(2)**NK細胞療法の次世代化**——サブセット多様性・エピジェネティック制御・代謝制御を基盤に、腫瘍内不均一性や免疫チェックポイントを標的とした設計が臨床応用を加速。(3)**MSC由来エクソソーム/sEVs**——心臓老化（AMPKα2・β-ヒドロキシ酪酸化）、腎線維化、虚血性卒中、パーキンソン病など多疾患で治療効果。レスベラトロール搭載など工学的改良が進む。(4)**膵癌診断・治療へのEV応用**——Ln-MOFによる超微量血漿エクソソームプロテオミクス診断と、リポソーム-エクソソーム融合によるECMリモデリング＋標的化学療法の逐次ナノ粒子戦略。(5)**抗CD38抗体の腎疾患応用**——形質細胞・自然免疫エフェクターを標的とし、既存B細胞除去の限界を補完する新機軸。各領域でEV/細胞治療の精密化と標的拡大が今後の鍵となる。"
+}

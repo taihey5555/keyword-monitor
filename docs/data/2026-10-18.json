@@ -1,0 +1,165 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "IL-12-producing iPSC-derived antigen-presenting cells enhance antitumor immunity and enable off-the-shelf immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42888850/",
+        "abstract": "Effective activation of cancer-reactive T cells by antigen-presenting cells (APCs) is essential for tumor elimination. However, dendritic cell (DC)-based cancer vaccines often yield inconsistent clinical outcomes due to patient-dependent variability. We established IL-12-producing proliferative myeloid cells (IL12-pMCs) from mouse induced pluripotent stem cells (iPSCs) as a standardized APC platform. These cells stably secrete IL-12, express costimulatory molecules, and enhance the priming and expansion of antigen-specific CD8",
+        "source": "PubMed",
+        "doi": "10.1016/j.ymthe.2026.10.017",
+        "keyword": "NK cell therapy",
+        "title_ja": "IL-12産生iPSC由来抗原提示細胞は抗腫瘍免疫を増強し、既製の免疫療法を可能にする。",
+        "summary_ja": "iPSC由来の抗原提示細胞（APC）によるがん反応性T細胞の効果的な活性化は腫瘍排除に不可欠だが、DCワクチンは患者依存的な変動により臨床成績が不安定である。本研究では、マウスiPSCからIL-12産生増殖性骨髄細胞（IL12-pMC）を樹立し、標準化されたAPCプラットフォームとした。これらの細胞はIL-12を安定的に分泌し、共刺激分子を発現し、抗原特異的CD8 T細胞のプライミングと増殖を促進する。"
+      },
+      {
+        "title": "The advances and challenges of mRNA-LNP application in fields of hematology and oncology therapeutics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42888436/",
+        "abstract": "The rapidly global deployment of COVID-19 mRNA-LNP vaccines established the clinical feasibility of combining RNA medicine with LNP delivery systems, transforming a long-standing experimental concept into a scalable therapeutic modality, previously considered impossible. Currently, the value of mRNA-LNPs has been expanding from infectious disease vaccines to cancer immunotherapy, personalized neoantigen vaccination, in vivo immune-cell engineering, protein replacement therapy, mRNA-encoded biologics and genome editing, with particular relevance to hematology and oncology. However, in hematologic and oncologic settings, therapeutic success is constrained by biological barriers that less prominent in prophylactic vaccination. Systemically administered LNPs are strongly influenced by hepatic sequestration, protein corona formation and mononuclear-phagocyte clearance; solid tumors additionally present heterogeneous vasculature, variable enhanced permeability and retention, dense extracellular matrix, elevated interstitial pressure and limited intratumoral diffusion. Hematologic applications face a different set of constraints, including access to spleen and bone marrow, selective delivery to T cells, NK cells and hematopoietic stem and progenitor cells (HSPCs), and preservation of the normal marrow niche. In this Review, we therefore discuss the molecular and principles of formulation that underpin mRNA-LNP performance in hematology and oncology, including mRNA engineering, lipid nanoparticle architecture, intracellular trafficking and selective organ targeting(SORT) delivery strategies, oncology applications spanning neoantigen vaccines, tumor-microenvironment reprogramming, mRNA-encoded biologics, gene editing and combination therapy; and hematology applications including in vivo CAR-T, CAR-NK and HSPC engineering. We further consider how inefficient extrahepatic delivery, limited endosomal escape, context-dependent reactogenicity, repeat-dosing constraints and the manufacturing complexity of individualized products continue to limit broader clinical translation. Emerging strategies, including artificial-intelligence-guided RNA and lipid design, self-amplifying RNA, circular RNA and next-generation thermostable formulations, may help address these application limitations in the fields of hematology and oncology.",
+        "source": "PubMed",
+        "doi": "10.1186/s13045-026-01857-9",
+        "keyword": "NK cell therapy",
+        "title_ja": "mRNA-LNP在血液学及肿瘤治疗领域应用的进展与挑战",
+        "summary_ja": "COVID-19 mRNA-LNPワクチンの普及により、RNA医薬とLNP送達系の併用が実現可能となった。現在mRNA-LNPは感染症ワクチンからがん免疫療法、個別化ネオアンチゲンワクチン、in vivo免疫細胞工学、タンパク質補充療法、mRNAコード生物製剤、ゲノム編集へと応用が拡大し、血液・腫瘍領域で特に重要である。しかし全身投与LNPは肝臓隔離、プロテインコロナ形成、単核食細胞クリアランスの影響を受け、固形腫瘍では不均一な血管系、EPR効果のばらつき、細胞外マトリックス、間質圧亢進、限られた腫瘍内拡散が障壁となる。血液領域では脾臓・骨髄へのアクセス、T細胞・NK細胞・HSPCへの選択的送達、正常骨髄ニッチの保持が課題である。本レビューではmRNA工学、LNP構造、細胞内輸送、SORT送達戦略、腫瘍・血液領域の応用を論じ、肝外送達効率、エンドソーム脱出、反応原性、反復投与制約、個別化製"
+      },
+      {
+        "title": "NKG2D overexpression potentiates CAR-T cells through costimulation by tumor NKG2D ligands.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42887502/",
+        "abstract": "Chimeric antigen receptor (CAR)-T cell therapy has achieved remarkable success in hematologic malignancies, but durable efficacy remains limited by insufficient CAR-T cell persistence. Here, we show that activated CAR-T cells upregulate multiple NKG2D ligands (NKG2DLs), increasing their susceptibility to natural killer (NK) cell-mediated CAR-T cell cytotoxicity. To address this vulnerability, we engineer CAR-T cells to overexpress full-length NKG2D (CAR-NG). NKG2D overexpression reduces the surface accessibility of endogenous NKG2DLs without decreasing their total protein abundance. In parallel, engagement of tumor-expressed NKG2DLs in trans provides additional costimulatory signals, enhancing CAR-T cell activation and proliferation while attenuating exhaustion-associated phenotypes. In hematologic and solid tumor models, CAR-NG cells exhibit reduced susceptibility to NK-cell-mediated cytotoxicity, improved tumor control, increased in vivo expansion, deeper tumor infiltration, and no evident additional toxicity compared with conventional CAR-T cells. These findings identify NKG2D overexpression as an engineering strategy that enhances CAR-T antitumor activity primarily through tumor NKG2DL-dependent trans costimulation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.xcrm.2026.103116",
+        "keyword": "NK cell therapy",
+        "title_ja": "NKG2Dの過剰発現は、腫瘍のNKG2Dリガンドによる共刺激を通じてCAR-T細胞を強化する。",
+        "summary_ja": "CAR-T細胞療法は血液腫瘍で成果を上げたが、持続性不足が課題である。活性化CAR-T細胞は複数のNKG2Dリガンド（NKG2DL）を発現し、NK細胞による細胞傷害を受けやすくなる。そこでCAR-T細胞に完全長NKG2Dを過剰発現させたCAR-NGを開発した。NKG2D過剰発現は内在性NKG2DLの表面露出を低下させつつ総タンパク質量は維持し、腫瘍由来NKG2DLとのtrans結合が追加の共刺激シグナルを供与してCAR-T細胞の活性化・増殖を高め、疲弊関連表現型を減弱させた。血液・固形腫瘍モデルでCAR-NGはNK細胞傷害への感受性低下、腫瘍制御改善、生体内増殖増大、深い腫瘍浸潤を示し、追加毒性は認められなかった。NKG2D過剰発現は腫瘍NKG2DL依存性trans共刺激を主機序とするCAR-T強化戦略である。"
+      },
+      {
+        "title": "Therapeutic-scale CAR-NK microrobots with programmable swarm navigation for targeted solid tumor therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42886800/",
+        "abstract": "An urgent requirement in chimeric antigen receptor (CAR) immune cell therapy [e.g., CAR-natural killer (NK) cells] for solid tumors is to engineer the cells for precise tumor targeting. Meanwhile, medical microrobots can be navigated toward specific target sites using external magnetic fields. Here, by bridging these approaches, we turn CAR-NK cells into magnetic biohybrid microrobots (CAR-NK microrobots) that achieve controllable long-distance targeted navigation at therapeutic doses (∼10",
+        "source": "PubMed",
+        "doi": "10.1126/sciadv.aef9412",
+        "keyword": "NK cell therapy",
+        "title_ja": "治療規模のCAR-NKマイクロロボットによるプログラム可能な群知能ナビゲーションを用いた固形腫瘍標的治療",
+        "summary_ja": "CAR-NK細胞療法における固形腫瘍への精密な標的化が急務である。本研究では、CAR-NK細胞を磁気駆動のバイオハイブリッドマイクロロボット（CAR-NK microrobots）へと変換し、外部磁場により治療用量（約10^7細胞規模）で長距離の標的ナビゲーションを実現した。医療用マイクロロボットとCAR免疫細胞療法を融合させた新手法であり、programmable swarm navigationにより固形腫瘍への集積・治療効果が示された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "The allogeneic eDN70(-) CAR-T Cells Without TCR or MHC Editing Exhibit Enhanced Persistence and Function.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42888846/",
+        "abstract": "Allogeneic CAR-T therapy offers an \"off-the-shelf\" alternative to autologous CAR-T, but faces graft-versus-host rejection (GVH) and host-versus-graft rejection (HVG). Conventional TCR/MHC elimination compromises persistence and increase NK susceptibility. Here, we developed a next-generation UCAR-T strategy that avoids TCR/MHC disruption while addressing donor-cell alloreactivity and host-mediated rejection. First, we eliminated CD4/CD8 to reduce alloreactivity while preserving TCR integrity and potentially TCR/CD3-mediated fitness, although in vivo xGvHD protection remains to be determined. In parallel, we identified CD70 as a marker selectively upregulated on alloreactive immune cells, enabling targeted removal of HVG-driving subsets. Because CD70 is also induced during T-cell activation and further enhanced following CD4/CD8 knockout, we additionally deleted CD70 to prevent fratricide, generating a CD4/CD8/CD70 triple-negative UCAR-T backbone (eDN70(-) UCAR-T). As proof-of-concept, we incorporated both CD19- and CD70-targeting CARs to generate eDN70(-)19/70CAR-T cells, which showed superior expansion, reduced exhaustion, and greater resistance to HVG pressure. Furthermore, these cells demonstrated durable tumor control and robust recall responses in vivo, with preliminary tissue-level safety from the high-dose study. Collectively, our findings establish eDN70(-) UCAR-T cells as a versatile platform capable of overcoming the persistence limitations of current allogeneic CAR-T therapies, with the CD19/CD70 dual-target configuration serving as a representative implementation of this strategy.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ymthe.2026.10.016",
+        "keyword": "NK cell therapy",
+        "title_ja": "TCRやMHCの編集を行わない同種eDN70(-)CAR-T細胞は、持続性と機能が向上している。",
+        "summary_ja": "同種CAR-T療法は「既製」の代替手段だが、GVH反応とHVG反応が課題である。従来のTCR/MHC除去は持続性を損ないNK感受性を高める。本研究ではTCR/MHC破壊を回避しつつ同種反応性と宿主拒絶に対処する次世代UCAR-T戦略を開発した。まずCD4/CD8を除去し同種反応性を低減、TCR健全性とTCR/CD3依存的適応性を保持した。並行して同種反応性免疫細胞に選択的に発現するCD70を同定し、HVG誘導サブセットの標的除去を可能にした。CD70はT細胞活性化時にも誘導されCD4/CD8ノックアウト後に増強するため、フラトリンサイド防止のためCD70も欠失させ、CD4/CD8/CD70三重陰性UCAR-T基盤(eDN70(-)UCAR-T)を作出した。概念実証としてCD19/CD70標的CARを組み込みeDN70(-)19/70CAR-Tを作製、優れた増殖、疲弊低減、HVG圧力への抵抗"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "TGF-β Inhibition Attenuates Tau Accumulation and Neurodegeneration in Progressive Supranuclear Palsy Patient-Derived Organoids.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42888872/",
+        "abstract": "Progressive supranuclear palsy (PSP) is a devastating 4-repeat tauopathy with no approved disease-modifying treatments. Recent evidence showed increased transforming growth factor-β (TGF-β) levels in PSP patient-derived ventral midbrain organoids (vMOs) and serum neuronally derived exosomes.",
+        "source": "PubMed",
+        "doi": "10.1002/mds.70574",
+        "keyword": "Exosomes",
+        "title_ja": "TGF-β阻害は進行性核上性麻痺患者由来オルガノイドにおけるタウ蓄積と神経変性を軽減する。",
+        "summary_ja": "進行性核上性麻痺（PSP）は4リピートタウオパチーで、疾患修飾治療は未承認である。PSP患者由来腹側中脳オルガノイド（vMO）および血清神経由来エクソソームでTGF-β上昇が報告されている。本研究はTGF-β阻害がタウ蓄積と神経変性を軽減するかを検討したものと推測される。"
+      },
+      {
+        "title": "Harnessing BMSCs for Ischemic Stroke: Decoding Multimodal Repair and Navigating the Path to Clinical Translation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42887788/",
+        "abstract": "Ischemic stroke (IS) is characterized by a high incidence rate, high disability rate and high recurrence rate. The existing treatment methods have limitations such as a narrow time window and limited recovery of neurological function. Bone marrow mesenchymal stem cells (BMSCs) have become a research hotspot in the regenerative treatment of IS due to their multi-directional differentiation potential, paracrine regulation and immune regulation characteristics. This review explores the mechanism of action, strategies for enhancing therapeutic efficacy and the progress of clinical transformation of BMSCs in the treatment of IS. Basic research indicates that BMSCs improve neurological function through multiple mechanisms such as migrating to ischemic foci, secreting neurotrophic factors, promoting angiogenesis, and inhibiting apoptosis of nerve cells. Gene modification technology and the application of exosomes can further potentiate therapeutic efficacy. The optimization of injection routes, cell types, transplantation time Windows and cell doses is crucial to the therapeutic effect. Clinical studies have initially confirmed the safety of BMSCs treatment and some functional improvement effects, but there are still problems such as small sample size and unclear long-term efficacy. In the future, it is necessary to further clarify the treatment mechanism, optimize the treatment plan, and promote the transformation of basic research into clinical practice (Graphical Abstract).",
+        "source": "PubMed",
+        "doi": "10.1016/j.brainresbull.2026.112170",
+        "keyword": "Exosomes",
+        "title_ja": "骨髄間葉系幹細胞を虚血性脳卒中に活用する：多面的修復機構の解明と臨床応用への道筋",
+        "summary_ja": "虚血性脳卒中（IS）は発症率・障害率・再発率が高い。既存治療は時間窓が狭く神経機能回復が限定的である。骨髄間葉系幹細胞（BMSCs）は多方向分化能、パラクライン調節、免疫調節特性によりIS再生治療の研究焦点となっている。本レビューはBMSCsの作用機序、治療効果増強戦略、臨床応用の進展を探る。基礎研究では、BMSCsが虚血巣への遊走、神経栄養因子分泌、血管新生促進、神経細胞アポトーシス抑制等の多機序で神経機能を改善することが示された。遺伝子改変技術やエクソソーム応用が効果を増強し得る。注射経路、細胞種、移植時間窓、細胞用量の最適化が治療効果に重要である。臨床研究は安全性と一部の機能改善を初步的に確認したが、小規模サンプルや長期効果不明等の問題が残る。今後、治療機序の解明、治療計画の最適化、基礎研究の臨床実装推進が必要である。"
+      },
+      {
+        "title": "Rewiring autophagy to target cutaneous wound healing: investigation of molecular mechanisms to therapeutic interventions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42886282/",
+        "abstract": "Rewiring of pathways regulating inflammation, metabolism, and regeneration must occur in a coordinated fashion during wound healing; however, this orchestration gets disrupted in chronic and diabetic wounds. Autophagy is a conserved lysosome-dependent pathway that controls the integration of nutrient homeostasis, adaptation to stresses, immune regulation, and cell remodelling during wound repair. Here we summarize the pivotal role of autophagy in the different crucial steps of wound healing. An open wound often attracts pathogens, leading to infection and inflammation. During this inflammation stage, autophagy mediates signalling from the pattern recognition receptors, generates cytokines, manoeuvres the defence against infection, and polarizes macrophage. During proliferation stage, autophagy promotes keratinocyte migration, fibroblast function, endothelial cell survival, angiogenesis, while minimizing oxidative injury and apoptosis. During the remodelling stage, autophagy participates in the remodelling of the extracellular matrix, collagen maturation, and scar formation. However, these processes are context-dependent; while insufficient autophagy prevents adaptation and regeneration, we see excessive autophagy may contribute to pathological conditions associated with chronic wounds. The analysis also considers new therapeutic approaches including mTOR and AMPK inhibitors, phytochemicals, exosomes from mesenchymal stem cells, and the use of biomaterials for the delivery of drugs. Although they improve re-epithelization, vascularization, and matrix organization in preclinical models, the clinical application of these approaches is hampered by the lack of specificity of the pathway, poor stability and penetrability of drugs, off-target effects, and a lack of clinical trials in humans.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12938-w",
+        "keyword": "Exosomes",
+        "title_ja": "皮膚創傷治癒を標的とするオートファジーの再配線：治療介入に向けた分子メカニズムの解明",
+        "summary_ja": "創傷治癒では炎症・代謝・再生の協調的制御が必須だが、慢性・糖尿病性創傷では破綻する。オートファジーはリソソーム依存性の保存経路で、栄養恒常性、ストレス適応、免疫制御、細胞リモデリングを統合する。本稿は各治癒段階における役割を概説する。炎症期には病原体認識受容体からのシグナル伝達、サイトカイン産生、感染防御、マクロファージ極性化を媒介する。増殖期にはケラチノサイト遊走、線維芽細胞機能、内皮細胞生存、血管新生を促進し、酸化障害やアポトーシスを抑制する。リモデリング期には細胞外マトリックス再構築、コラーゲン成熟、瘢痕形成に関与する。ただし文脈依存性で、不足は適応・再生を妨げ、過剰は慢性創傷の病態に寄与しうる。治療標的としてmTOR/AMPK阻害薬、植物化学物質、間葉系幹細胞由来エクソソーム、生体材料による薬物送達が検討され、前臨床モデルで再上皮化・血管新生・マトリックス構築を改善するが、経路特異"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Research hotspots and evolution trends of human amniotic fluid stem cells: A cite space bibliometric analysis based on WoSCC and PubMed.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42888595/",
+        "abstract": "To systematically review the research hotspots, knowledge structure, and evolution trends in the field of human amniotic fluid stem cells (hAFSCs).",
+        "source": "PubMed",
+        "doi": "10.1097/MD.0000000000051013",
+        "keyword": "Exosomes",
+        "title_ja": "人羊水干细胞的研究热点与演化趋势：基于WoSCC和PubMed的CiteSpace文献计量分析",
+        "summary_ja": "本論文は、WoSCCとPubMedの文献をCiteSpaceで計量分析し、ヒト羊水幹細胞（hAFSCs）研究のホットスポット、知識構造、進化傾向を系統的にレビューした。hAFSCsは多分化能と低免疫原性を持ち、再生医療の有望な細胞源として注目される。分析により、研究は基礎生物学から応用・臨床応用へ移行し、組織再生、細胞治療、パラクライン効果、エクソソーム、神経・心臓・骨軟骨再生などが主要ホットスポットであることが示された。CiteSpaceの共引用・キーワード分析により、知識基盤の形成と新興テーマの出現が可視化され、今後の研究方向と臨床応用の可能性が示唆された。"
+      },
+      {
+        "title": "Long non-coding RNA LINC00885 contributes to liver steatosis through modulation of DHRS2-associated lipid metabolic programs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42887782/",
+        "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is a prevalent and rising liver disease. Its inflammatory subtype, metabolic dysfunction-associated steatohepatitis (MASH), can progress to fibrosis, cirrhosis, and hepatocellular carcinoma. The role of long intergenic non-protein coding RNA 885 (LINC00885) in MASLD remains unknown. This study aims to clarify its function in steatotic liver disease.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbalip.2026.159777",
+        "keyword": "Exosomes",
+        "title_ja": "長鎖非コードRNA LINC00885はDHRS2関連脂質代謝プログラムの調節を通じて肝脂肪症に寄与する。",
+        "summary_ja": "長鎖非コードRNA LINC00885は、DHRS2関連脂質代謝プログラムの調節を通じて肝脂肪化に寄与する。MASLDは増加傾向にある肝疾患であり、その炎症性サブタイプであるMASHは線維化、肝硬変、肝細胞癌へ進行しうる。LINC00885のMASLDにおける役割は未解明であったため、本研究は脂肪性肝疾患における機能の解明を目的とした。"
+      },
+      {
+        "title": "Why does siRNA delivery still fail in neurodegenerative diseases? Biological barriers, nanocarrier engineering, and future translational directions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42886392/",
+        "abstract": "Neurodegenerative diseases remain largely untreatable at the disease-modifying level, with currently approved therapies providing primarily symptomatic benefits. Small interfering RNA (siRNA) has emerged as a promising therapeutic modality because of its ability to selectively silence disease-associated genes. However, a major obstacle to clinical translation is not the gene-silencing mechanism itself, but the efficient delivery of therapeutic siRNAs to target cells within the central nervous system.This review examines the barriers that limit siRNA-based therapies for neurodegenerative diseases. We adopt a barrier-oriented framework that follows the sequential challenges encountered during siRNA delivery, including extracellular instability, unfavorable pharmacokinetics, immune recognition, limited transport across the blood-brain barrier, inefficient cellular internalization, and endosomal entrapment. Rather than cataloguing available delivery systems, we evaluate how nanocarrier engineering strategies have been developed to address these barriers and assess their impact on delivery. Evidence from Alzheimer's disease, Parkinson's disease, and Huntington's disease is synthesized to distinguish shared limitations from disease-specific challenges and to evaluate the translational performance of lipid-based nanoparticles, polymeric nanocarriers, engineered exosomes, and hybrid platforms.Available evidence indicates that delivery platforms can improve specific aspects of siRNA transport but have not consistently overcome the sequential biological barriers required for therapy. Although nanocarrier engineering has enhanced siRNA stability, brain targeting, intracellular trafficking, and gene-silencing efficiency in preclinical models, manufacturing scalability, biological heterogeneity, long-term safety, reproducibility, and regulatory feasibility remain important barriers to clinical translation. Future progress will likely depend on delivery systems that integrate effective brain transport, endosomal escape, controlled intracellular release, and scalable manufacturing within clinical platforms.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12937-x",
+        "keyword": "Exosomes",
+        "title_ja": "なぜsiRNAデリバリーは神経変性疾患において依然として失敗するのか？生物学的障壁、ナノキャリア工学、そして今後のトランスレーショナル研究方向性。",
+        "summary_ja": "神経変性疾患は疾患修飾療法が乏しく、承認薬は主に対症療法である。siRNAは疾患関連遺伝子を選択的にサイレンシングできる有望な治療 modality だが、臨床応用の障壁は遺伝子サイレンシング機構ではなく、中枢神経系の標的細胞への効率的送達にある。本レビューは、細胞外不安定性、不利な薬物動態、免疫認識、血液脳関門通過制限、細胞内取り込み不良、エンドソーム捕捉という連続的障壁に沿ったbarrier-oriented frameworkを採用する。既存送達系の列挙ではなく、ナノキャリア工学が各障壁にどう対処し送達へ与えた影響を評価する。アルツハイマー病、パーキンソン病、ハンチントン病の知見を統合し、共通の限界と疾患特異的課題を区別し、脂質ナノ粒子、高分子ナノキャリア、工学化エクソソーム、ハイブリッドプラットフォームの翻訳性能を評価する。証拠は、送達基盤が特定の輸送側面を改善しても連続的障壁を一"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の論文から注目すべき5トピックを選定します。\n\n1. **IL-12産生iPSC由来APCによる既製がん免疫療法**：患者依存的なDCワクチンの不安定さを克服し、均一な抗腫瘍T細胞活性化を実現する可能性があり、同種移植型免疫療法の基盤として重要。\n\n2. **mRNA-LNPの血液・腫瘍領域への応用**：COVID-19で実証された送達技術をがん免疫療法やin vivo免疫細胞工学へ展開する動きであり、個別化ネオアンチゲンワクチン実現への道を開く。\n\n3. **NKG2D過剰発現CAR-T**：CAR-Tの持続性不足という課題に対し、腫瘍NKG2Dリガンドを介した共刺激で克服する戦略。固形腫瘍への応用も期待される。\n\n4. **CAR-NKマイクロロボット**：磁場制御で固形腫瘍へ治療用量のCAR-NKを精密送達する新機軸。細胞療法の標的化という根本課題に挑む点で注目。\n\n5. **PSPオルガノイドにおけるTGF-β阻害**：進行性核上性麻痺に疾患修飾治療の可能性を示す知見。エクソソームバイオマーカーと組み合わせた神経変性疾患研究の展開が期待される。\n\n以上は細胞療法の実用化・送達技術・神経変性疾患治療という横断的潮流を反映している。"
+}

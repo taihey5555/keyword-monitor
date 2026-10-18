@@ -1,0 +1,127 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Phase 2 study of fazpilodemab, a FGFR1/Klothoβ agonist, in metabolic dysfunction-associated steatohepatitis (MASH).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42892346/",
+        "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH) is a progressive liver disease with limited treatment options. Fazpilodemab, a bispecific antibody targeting fibroblast growth factor receptor 1 (FGFR1) and Klotho β (KLB), showed promising trends in liver health markers in type 2 diabetes mellitus and metabolic dysfunction-associated steatotic liver disease.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jhepr.2026.102068",
+        "keyword": "Klotho",
+        "title_ja": "FGFR1/Klothoβ作動薬であるファズピロデマブの代謝機能障害関連脂肪性肝炎（MASH）における第2相試験",
+        "summary_ja": "MASHは進行性肝疾患で治療選択肢が限られる。FazpilodemabはFGFR1/Klothoβを標的とする二特異性抗体で、2型糖尿病およびMASLD患者において肝健康マーカーの改善傾向を示した。本第2相試験ではMASHに対する有効性を検討した。（116文字）"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "The gastrointestinal K",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42892170/",
+        "abstract": "ATP-sensitive potassium channels are metabolic sensors that couple intracellular nucleotide availability to membrane excitability, calcium signaling, mitochondrial function, and cell survival. Growing evidence identifies K",
+        "source": "PubMed",
+        "doi": "10.1016/j.biopha.2026.119986",
+        "keyword": "Klotho",
+        "title_ja": "胃腸のK",
+        "summary_ja": "ATP感受性カリウム（KATP）チャネルは、細胞内ヌクレオチドの利用可能性を膜興奮性、カルシウムシグナル伝達、ミトコンドリア機能、細胞生存と結びつける代謝センサーである。近年、消化管におけるKATPチャネルの役割を示す証拠が増えつつある。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Bispecific NK-Cell Engager Targeting TP53 Mutation Through Integration of a TCR-mimic Antibody.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42889630/",
+        "abstract": "Natural killer (NK) cells are valuable for cancer immunotherapy because they kill tumor cells without prior sensitization or human leukocyte antigen (HLA) restriction. However, their efficacy is often limited by immune-evasion, especially major histocompatibility complex I (MHC-I)-mediated NK cell inhibition. NK cell engagers (NKCEs) can redirect NK cells to tumor for more effective immunotherapy, but most current NKCEs target tumor-associated antigens (TAAs), risking on-target, off-tumor toxicity in clinical applications. Neoantigens, as tumor-specific antigens (TSAs) arising from somatic mutations and presented by MHC-I on tumor cell surfaces, represent ideal tumor-specific target. Here, we engineered NKCEs built on neoantigen-targeting TCR-mimic antibodies (TCRm-Abs) to enhance tumor-specific NK cell-mediated cytotoxicity. Using a high-throughput hydrogel-based microwell single-cell chip (HMSC-chip) coupled with T2 cell-based de-selection, we identified C33-Ab, a functional TCRm-Ab specific for p53",
+        "source": "PubMed",
+        "doi": "10.1002/mco2.71058",
+        "keyword": "NK cell therapy",
+        "title_ja": "TCR模倣抗体の統合によるTP53変異を標的とした二重特異性NK細胞エンゲージャー",
+        "summary_ja": "NK細胞はHLA制約なく腫瘍を殺傷できるが、MHC-Iを介した免疫回避により効果が制限される。NK細胞エンゲージャー（NKCE）はNK細胞を腫瘍へ誘導するが、多くは腫瘍関連抗原（TAA）を標的とし、on-target, off-tumor毒性のリスクがある。本研究では、体細胞変異由来のネオアンチゲン（腫瘍特異抗原、TSA）を標的とするTCR-mimic抗体（TCRm-Ab）に基づくNKCEを設計した。ハイドロゲルマイクロウェル単一細胞チップ（HMSC-chip）とT2細胞によるデセレクションを組み合わせ、p53変異に特異的な機能性TCRm-Ab「C33-Ab」を同定した。"
+      },
+      {
+        "title": "Biomimetic platelet membrane-camouflaged nanomicelles for synergistic hypoxia alleviation and immune activation to potentiate immunotherapy in TNBC.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42763079/",
+        "abstract": "Triple-negative breast cancer (TNBC) remains poor response to immunotherapy, largely attributable to the hypoxic tumor microenvironment that drives functional exhaustion of effector T cells and natural killer (NK) cells. To counter this, we engineered platelet-membrane-biomimetic nanomicelles (PM@(M/B)NM) for the co-delivery of metformin and BMS-1 with acid-responsive release profiles. The biomimetic nanocarriers retained characteristic platelet membrane proteins, effectively evading macrophage phagocytosis, prolonging systemic circulation, and enhancing active tumor accumulation. In vitro, exposure to acidic tumor-mimetic medium triggered accelerated drug release from PM@(M/B)NM, which substantially downregulated HIF-1α, VEGF, and GLUT1 expression while curbing reactive oxygen species (ROS) overproduction in hypoxic cancer cells. In an orthotopic TNBC murine model, the nanoplatform markedly suppressed primary tumor progression and distant lung/liver metastasis, accompanied by a significant extension of overall survival. Integrative transcriptomic-metabolomic profiling, coupled with multiplex immunofluorescence and flow cytometry, elucidated that PM@(M/B)NM orchestrated metabolic reprogramming via the HIF-1α/GLUT1/LDHA axis to alleviate hypoxia, while simultaneously diminishing immunosuppressive infiltrates and related cytokine secretion. This dual modulation synergistically revitalized the intratumoral infiltration and cytotoxic potency of CD8⁺ T cells and NK cells, thereby unleashing robust anti-tumor immunity. Collectively, our findings position PM@(M/B)NM as a safe and promising biomimetic platform to improve immunotherapy responsiveness in TNBC.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijpharm.2026.127403",
+        "keyword": "NK cell therapy",
+        "title_ja": "生体模倣血小板膜偽装ナノミセルによる相乗的な低酸素改善と免疫活性化でTNBCの免疫療法を増強する",
+        "summary_ja": "トリプルネガティブ乳がん（TNBC）は免疫療法への反応が不良であり、これは低酸素腫瘍微小環境によるエフェクターT細胞やNK細胞の機能的疲弊が主因である。本研究では、メトホルミンとBMS-1を酸応答性放出で共送達する血小板膜バイオミメティックナノミセル（PM@(M/B)NM）を設計した。本ナノキャリアは血小板膜タンパク質を保持し、マクロファージ貪食を回避して血中循環を延長し、腫瘍集積性を高めた。酸性腫瘍模倣環境下で薬剤放出が促進され、HIF-1α、VEGF、GLUT1発現を低下させ、ROS過剰産生を抑制した。TNBCマウスモデルで原発腫瘍進行と肺・肝転移を抑制し生存期間を延長した。トランスクリプトーム・メタボローム解析により、HIF-1α/GLUT1/LDHA軸を介した代謝リプログラミングによる低酸素緩和と免疫抑制性浸潤の減少が示され、CD8⁺T細胞とNK細胞の浸潤・細胞傷害能が相乗的に活性"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Targeting host ferroptosis in cancer cachexia: Tumor-immune triggers, tissue wasting, and the therapeutic paradox.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42890113/",
+        "abstract": "Cancer cachexia is a systemic wasting syndrome driven by tumor burden, chronic inflammation, disrupted nutrient handling, and neuroendocrine stress. Supportive nutrition, exercise, and symptom management rarely restore lean mass, function, or treatment tolerance once wasting is established. Ferroptosis, iron-dependent cell death caused by phospholipid peroxidation, may connect inflammatory iron redistribution, lipid remodeling, mitochondrial stress, and impaired antioxidant defenses. This review critically evaluates ferroptosis in cachexia from a tumor-host pharmacology perspective, distinguishing causal evidence from associated oxidative signatures. We highlight two experimentally supported mechanisms: neutrophil-derived lipocalin-2 in lung cancer cachexia and tumor exosomal miR-203a-3p in pancreatic cancer-associated muscle wasting. We also examine the paradox that tumor ferroptosis induction may weaken host-tissue resistance and worsen muscle and adipose loss. We propose a \"split-ferroptosis\" strategy combining tumor sensitization with host-protective iron modulation, lipid peroxide scavenging, endogenous defense reinforcement, and biomarker-guided patient selection to expand the tumor-host therapeutic index.",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.117764",
+        "keyword": "Exosomes",
+        "title_ja": "がん悪液質における宿主フェロトーシスの標的化：腫瘍免疫の引き金、組織消耗、そして治療のパラドックス",
+        "summary_ja": "がん悪液質は腫瘍負荷、慢性炎症、栄養処理障害、神経内分泌ストレスによる全身性消耗症候群である。一旦消耗が確立すると栄養支援や運動では除脂肪体重や機能は回復しにくい。フェロトーシスはリン脂質過酸化による鉄依存性細胞死で、炎症性鉄再分布、脂質リモデリング、ミトコンドリアストレス、抗酸化防御障害を結びつける可能性がある。本レビューは腫瘍-宿主薬理学の観点から因果証拠と関連する酸化シグネチャを区別し、肺癌悪液質における好中球由来リポカリン-2と膵癌関連筋消耗における腫瘍エクソソームmiR-203a-3pという2つの機序を提示する。腫瘍フェロトーシス誘導が宿主組織抵抗性を弱め筋・脂肪喪失を悪化させるパラドックスを検討し、腫瘍感作と宿主保護的鉄調節・脂質過酸化物除去・内因性防御強化・バイオマーカー選択を組み合わせた「スプリットフェロトーシス」戦略を提案する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "NMDAR subunit GluN1 dynamics in urinary astrocyte-derived extracellular vesicles in anti-NMDAR encephalitis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42893233/",
+        "abstract": "Longitudinal measurement ",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbih.2026.101381",
+        "keyword": "Exosomes",
+        "title_ja": "抗NMDAR脳炎における尿中アストロサイト由来細胞外小胞のNMDARサブユニットGluN1動態",
+        "summary_ja": "本論文は、抗NMDAR脳炎における尿中アストロサイト由来細胞外小胞（ADEV）中のNMDARサブユニットGluN1の動態を縦断的に測定した研究である。尿中ADEV中のGluN1は、疾患活動性や治療反応性を反映する非侵襲的バイオマーカーとなり得る可能性が示唆された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Hypoxic microglia induce oligodendrocyte injury through lactate associated extracellular vesicles and toll like receptor four signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42890965/",
+        "abstract": "Ischemic white-matter injury involves microglia-oligodendrocyte crosstalk, but the contributions of microglial metabolism and extracellular vesicles remain unclear. Primary rat microglia were exposed to 1% O₂, and conditioned-medium and Transwell models were used to assess their effects on oligodendrocyte-lineage cells. Hypoxia increased microglial ionized calcium-binding adaptor molecule 1 (IBA1) intensity 2.82-fold and extracellular lactate from 27.4 ± 2.3 to 48.5 ± 5.2 µmol/mL. Recipient-cell apoptosis increased from 9.1 ± 0.8% to 39.0 ± 1.3%, whereas myelin basic protein (MBP) fluorescence decreased from 1.00 ± 0.08 to 0.35 ± 0.05. Hypoxia-conditioned small extracellular vesicles (sEVs) were associated with a similar injury phenotype, while donor-cell oxamate treatment partially restored MBP fluorescence from 0.34 ± 0.05 to 0.82 ± 0.07. Hypoxia also increased recipient-cell Toll-like receptor 4 (TLR4) mRNA 5.6-fold and histone H3 lysine 18 lactylation (H3K18la) enrichment at the TLR4 promoter from 0.9 ± 0.1 to 7.1 ± 0.9; both were attenuated by oxamate. TAK-242 reduced apoptosis from 13.9 ± 0.9% to 7.3 ± 0.7% and increased MBP fluorescence to 1.82 ± 0.14. Human transcriptomic datasets showed directionally concordant metabolic, inflammatory, and myelination changes. These findings support a testable framework in which lactate-related microglial metabolism and hypoxia-conditioned sEVs are associated with TLR4-related inflammatory regulation, without establishing a single linear causal pathway.",
+        "source": "PubMed",
+        "doi": "10.1007/s13205-026-05095-1",
+        "keyword": "sEVs",
+        "title_ja": "低酸素状態のミクログリアは、乳酸関連細胞外小胞およびToll様受容体4シグナル伝達を介してオリゴデンドロサイト障害を誘導する。",
+        "summary_ja": "低酸素状態のミクログリアが乳酸関連細胞外小胞とTLR4シグナルを介してオリゴデンドロサイト障害を誘導するという研究。ラット初代ミクログリアを1% O₂に曝露し、培養上清およびTranswellモデルでオリゴデンドロサイト系細胞への影響を評価した。低酸素によりミクログリアのIBA1強度は2.82倍、細胞外乳酸は27.4±2.3から48.5±5.2 µmol/mLへ増加した。受容細胞のアポトーシスは9.1±0.8%から39.0±1.3%へ増加し、MBP蛍光は1.00±0.08から0.35±0.05へ減少した。低酸素条件下のsEVは同様の障害表現型と関連し、ドナー細胞のオキサメート処理はMBP蛍光を0.34±0.05から0.82±0.07へ部分的に回復させた。低酸素は受容細胞のTLR4 mRNAを5.6倍に増加させ、TLR4プロモーターのH3K18la濃縮を0.9±0.1から7.1±0.9へ上昇"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "1. **Fazpilodemab（FGFR1/Klothoβ作動薬）のMASH第2相試験**：進行性肝疾患MASHは治療選択肢が乏しく、Klotho経路を標的とする二特異性抗体が肝健康マーカー改善傾向を示した意義は大きい。今後、線維化改善や長期アウトカムでの検証が期待される。\n\n2. **NK細胞エンゲージャー（NKCE）によるTP53変異標的**：TCR模倣抗体を統合し、HLA制約を回避しつつMHC-I免疫回避を克服する試み。変異p53は多くの癌で共通する標的であり、on-target/off-tumor毒性の管理と臨床応用が今後の焦点となる。\n\n3. **TNBC向け血小板膜偽装ナノミセル**：低酸素によるT細胞・NK細胞疲弊が免疫療法抵抗性の主因。メトホルミンとBMS-1の酸応答性共送達で低酸素緩和と免疫活性化を両立させる戦略は、TNBC治療の新機軸として注目される。\n\n4. **がん悪液質における宿主フェロトーシス標的**：腫瘍免疫トリガーと組織消耗の連関を整理し、治療のパラドックスを提示。悪液質は既存支持療法で回復困難であり、フェロトーシス制御による新規介入の可能性を示す点が重要。\n\n5. **尿中アストロサイト由来EV（ADEV）中のGluN1**：抗NMDAR脳炎の疾患活動性・治療反応性を反映する非侵襲的バイオマーカーとしての有用性。腎臓由来EV研究の知見を神経疾患へ応用する展望が開ける。"
+}

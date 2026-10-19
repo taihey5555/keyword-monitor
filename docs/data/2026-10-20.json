@@ -1,0 +1,136 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "A review of the monitoring of argatroban by anti-IIa methods, ecarin assays, point-of-care testing methods and specialized drug quantification methods for patients with heparin-induced thrombocytopenia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42895319/",
+        "abstract": "Heparin-induced thrombocytopenia (HIT) is caused by anti-PF4/heparin IgG antibodies stimulating platelet activation, causing thrombocytopenia and thrombosis. Classical HIT occurs due to exposure to heparin, whereas autoimmune HIT occurs via heparin-independent platelet activation (caused by anti-PF4/polyanion IgG) and relates to a platelet count fall that begins or persists without heparin. Treatment for HIT requires transitioning patients onto alternative anticoagulation. The direct thrombin inhibitor argatroban has been licensed for use in patients with HIT and was recommended to be monitored by the activated partial thromboplastin time (aPTT). Recent European guidelines have suggested that monitoring drug concentrations is more suitable and will reduce the risk of under or over anticoagulating patients. This review will discuss anti-IIa and ecarin-based laboratory methods for determining plasma argatroban concentrations, the use of viscoelastography methods and other point-of-care testing (POCT) methods in whole blood. The use of more specialised tests based on high-performance liquid chromatography will also be discussed, comparing these methods with aPTT.",
+        "source": "PubMed",
+        "doi": "10.1097/MBC.0000000000001470",
+        "keyword": "PF4",
+        "title_ja": "ヘパリン起因性血小板減少症患者におけるアルガトロバンの抗IIa法、エカリン法、ポイントオブケア検査法および特殊な薬物定量法によるモニタリングに関するレビュー",
+        "summary_ja": "ヘパリン誘発性血小板減少症（HIT）は抗PF4/ヘパリンIgG抗体による血小板活性化で生じ、血小板減少と血栓症を来す。古典的HITはヘパリン曝露によるが、自己免疫性HITはヘパリン非依存性に起こる。治療には代替抗凝固薬への移行が必要で、直接トロンビン阻害薬アルガトロバンはHITに適応があり、従来aPTTでモニタリングされてきた。近年の欧州ガイドラインは薬物濃度モニタリングが過少・過剰抗凝固のリスクを低減すると提唱する。本レビューは血漿中アルガトロバン濃度測定のための抗IIa法・エカリン法、全血での粘弾性検査やPOCT、HPLCを用いた特殊検査をaPTTと比較し論じる。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "NK cell immune fitness stratifies small cell lung cancer into four functional states associated with clinical response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42894882/",
+        "abstract": "The reasons why some patients with small-cell lung cancer (SCLC) benefit from chemotherapy and immunotherapy, while others rapidly develop resistance, are still undefined. Despite improved outcomes with platinum-based chemotherapy combined with immune checkpoint inhibitors have been correlated to activation of the innate immunity, the role of immune cells as potential markers of response is incompletely understood. Here, we characterized the transcriptional and functional landscape of circulating natural killer (NK) cells in patients with SCLC at baseline and after cisplatin treatment, stratified by clinical response. By integrating transcriptomics, cytokine profiling, and high-dimensional flow cytometry, we identified distinct NK cell subsets and developed an NK immune-fitness signature validated in independent intratumoral cohorts. At baseline, responders exhibited strong interferon signaling, enrichment of CD16",
+        "source": "PubMed",
+        "doi": "10.1016/j.jlb.2026.100506",
+        "keyword": "NK cell therapy",
+        "title_ja": "NK細胞の免疫適応度は小細胞肺がんを臨床反応と関連する4つの機能状態に層別化する。",
+        "summary_ja": "SCLC患者で化学療法・免疫療法の効果が分かれる理由は未解明である。白金製剤と免疫チェックポイント阻害薬の併用による予後改善は自然免疫の活性化と相関するが、免疫細胞の反応マーカーとしての役割は十分に理解されていない。本研究では、SCLC患者の末梢血NK細胞について、ベースライン時およびシスプラチン治療後の転写・機能 landscape を臨床反応別に解析した。トランスクリプトミクス、サイトカインプロファイリング、高次元フローサイトメトリーを統合し、異なるNK細胞サブセットを同定するとともに、独立した腫瘍内コホートで検証したNK immune-fitness signatureを開発した。ベースライン時、responderは強いinterferon signalingとCD16陽性NK細胞の enrichment を示した。（399文字）"
+      },
+      {
+        "title": "Glioblastoma immune landscape remodeling following treatment with CD70-targeted CAR-T cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42894313/",
+        "abstract": "Chimeric antigen receptor (CAR)-T cell therapy has shown limited efficacy in glioblastoma (GB), largely because of the immunosuppressive tumor microenvironment (TME). We have previously demonstrated that the ligand-based mCD70-directed construct mCAR27 specifically eliminates CD70⁺ GB cells ",
+        "source": "PubMed",
+        "doi": "10.1080/2162402X.2026.2745295",
+        "keyword": "NK cell therapy",
+        "title_ja": "CD70標的CAR-T細胞治療後の膠芽腫免疫環境のリモデリング",
+        "summary_ja": "CD70標的CAR-T細胞療法後の膠芽腫（GB）免疫環境リモデリングに関する研究。CAR-T細胞療法はGBで限定的な有効性しか示さず、主因は免疫抑制性腫瘍微小環境（TME）である。著者らは以前、リガンドベースのmCD70指向性構築物mCAR27がCD70陽性GB細胞を特異的に排除することを示した。本研究はその治療後の免疫環境変化を解析したものと推測される。"
+      },
+      {
+        "title": "Tumor endothelial cells as vascular immune gatekeepers: reprogramming the vascular-immune interface for cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42893717/",
+        "abstract": "Despite durable clinical responses to immunotherapy in a subset of patients, most solid tumors remain refractory owing to an immune-excluded phenotype characterized by limited trafficking, infiltration, and function of effector immune cells within the tumor microenvironment (TME). Tumor endothelial cells (TECs) function as vascular immune gatekeepers that orchestrate this process. Driven by persistent pro-angiogenic signaling and metabolic stress, TECs establish a multilayered immune barrier through structurally abnormal, poorly perfused vasculature, endothelial anergy, and active immunosuppressive programs. TECs directly suppress effector T-cell and natural killer (NK)-cell function through checkpoint-like ligands, death-ligand pathways, and immunometabolic mechanisms involving adenosine production and tryptophan catabolism. Simultaneously, they recruit, retain, and reprogram immunosuppressive leukocytes, thereby reinforcing immune exclusion and therapeutic resistance. Here, we propose a TEC-centric vascular immune gatekeeping framework and review strategies to reprogram tumor vessels from immune barriers into conduits for effective immune-cell trafficking and activation. We discuss endothelial-directed monotherapies that transiently normalize or reset TEC states, together with combination strategies integrating vascular modulation with immune checkpoint blockade, adoptive and innate immune-cell therapies, cancer vaccines, oncolytic viruses, STING agonists, and multifunctional antibodies. We also highlight key translational considerations, including biomarker-guided patient stratification, pharmacodynamic monitoring using mechanism-based endpoints, and optimization of treatment dose and scheduling within the vascular normalization window. Overall, this review establishes endothelial reprogramming as a central strategy for overcoming vascular immune gatekeeping and provides a mechanistic framework for biomarker-guided vascular-immune combination therapies in solid tumors.",
+        "source": "PubMed",
+        "doi": "10.1016/j.canlet.2026.218908",
+        "keyword": "NK cell therapy",
+        "title_ja": "腫瘍内皮細胞の血管免疫ゲートキーパーとしての役割：がん免疫療法のための血管-免疫インターフェースの再プログラミング",
+        "summary_ja": "本論文は、固形腫瘍の免疫療法抵抗性の主因である免疫排除表現型において、腫瘍内皮細胞（TEC）が血管免疫ゲートキーパーとして機能することを論じる。持続的な血管新生シグナルと代謝ストレスにより、TECは構造異常で灌流不良な血管、内皮アナジー、免疫抑制プログラムを介して多層的免疫障壁を形成する。TECはチェックポイント様リガンド、死リガンド経路、アデノシン産生やトリプトファン異化を含む免疫代謝機構を通じてエフェクターT細胞やNK細胞を直接抑制し、免疫抑制性白血球を動員・保持・再プログラムすることで免疫排除と治療抵抗性を強化する。著者らはTEC中心の血管免疫ゲートキーピング枠組みを提唱し、腫瘍血管を免疫障壁から免疫細胞の輸送・活性化の導管へ再プログラムする戦略をレビューする。TEC状態を一過性に正常化・リセットする内皮標的単剤療法や、血管調節と免疫チェックポイント阻害、養子免疫・自然免疫細胞療法、"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Syntaxin11 deficiency inhibits CRAC channel priming to suppress cytotoxicity and gene expression in T lymphocytes independent of membrane trafficking.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42895167/",
+        "abstract": "Mutations in Syntaxin11 (STX11), a Q-SNARE, result in a fatal immune disorder known as familial hemophagocytic lymphohistiocytosis 4 (FHLH4) in human patients. A key diagnostic feature of FHLH4 is defective T and natural killer cell cytotoxicity. Here, we show that STX11 directly binds and regulates Orai1, the pore-forming subunit of calcium release-activated calcium (CRAC) channels. CRAC channels enable store-operated calcium entry (SOCE) from the extracellular space and are crucial for granule exocytosis and nuclear factor of activated T cells (NFAT)-dependent gene expression in activated lymphocytes. STX11 depletion strongly inhibited SOCE, CRAC currents, NFAT activation, interleukin-2 gene expression, and degranulation in FHLH4 patient T lymphocytes and cell lines without affecting membrane trafficking. Remarkably, defects of cytolytic granule exocytosis, as well as interleukin-2 expression, could be reversed by ionomycin in patient T lymphocytes, and a constitutively active, H134S, mutant of Orai1 rescued calcium entry in STX11-depleted cells. Further analyses showed that STX11 'primes' Orai1 for optimal on-site multimeric assembly, which was Stim independent but required for gating. Priming of ion channel pore subunits is, therefore, a primary function of specific SNAREs which may have preceded their role in membrane trafficking and vesicle fusion.",
+        "source": "PubMed",
+        "doi": "10.7554/eLife.111335",
+        "keyword": "NK cell therapy",
+        "title_ja": "Syntaxin11欠損は膜輸送に依存せずにCRACチャネルのプライミングを阻害し、Tリンパ球における細胞傷害性と遺伝子発現を抑制する。",
+        "summary_ja": "Syntaxin11（STX11）の変異は致死性免疫疾患FHLH4を引き起こす。本論文は、STX11がCRACチャネルの細孔形成サブユニットOrai1に直接結合し制御することを示す。CRACチャネルはSOCEを媒介し、顆粒エキソサイトーシスやNFAT依存性遺伝子発現に重要である。STX11欠損は膜輸送に影響せず、SOCE、CRAC電流、NFAT活性化、IL-2遺伝子発現、脱顆粒を強く抑制した。これらの障害はイオノマイシンや恒常活性型Orai1変異体（H134S）で回復した。STX11はOrai1の最適な多量体集合をプライミングし、これはStim非依存性だがゲーティングに必要である。イオンチャネル細孔サブユニットのプライミングは特定SNAREの主要機能であり、膜輸送・小胞融合における役割に先行した可能性がある。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "HPV16 E7-Containing Exosomes May Contribute to PD-L1 Expression in Tumor-Infiltrating Lymphocytes of Cervical Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42894986/",
+        "abstract": "Human papillomavirus 16 (HPV16) plays a major role in the development of cervical cancer (CC). Programmed cell death ligand 1 (PD-L1) expression in tumor-infiltrating lymphocytes (TILs) is an important feature of the tumor immune microenvironment and may affect responses to immune checkpoint blockade. However, the relationship between the HPV16 E7 oncoprotein and PD-L1 expression in TILs remains unclear.",
+        "source": "PubMed",
+        "doi": "10.4274/balkanmedj.galenos.2026.2026-6-20",
+        "keyword": "Exosomes",
+        "title_ja": "HPV16 E7を含むエクソソームは子宮頸がんの腫瘍浸潤リンパ球におけるPD-L1発現に関与する可能性がある。",
+        "summary_ja": "HPV16は子宮頸癌（CC）の発症に主要な役割を果たす。腫瘍浸潤リンパ球（TILs）におけるPD-L1発現は腫瘍免疫微小環境の重要特徴であり、免疫チェックポイント阻害薬への応答に影響しうる。しかしHPV16 E7オンコプロテインとTILsのPD-L1発現の関係は不明である。本研究はHPV16 E7含有エキソソームがCCのTILsにおけるPD-L1発現に寄与する可能性を示す。"
+      },
+      {
+        "title": "Endothelial exosomes remodel chromatin accessibility and superenhancer in cancer cells to promote liver metastatic colonization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42894010/",
+        "abstract": "Liver-organotropic metastasis occurs in cancers such as uveal melanoma (UM) and pancreatic ductal adenocarcinoma (PDAC) and is a leading cause of mortality at the terminal stage. Colonization is a rate-limiting and converging step in the metastatic cascade. The drivers underlying liver colonization have largely remained elusive. In this report, we hypothesized that pioneer transcription factors (TFs) increase chromatin accessibility and superenhancer (SE) remodeling, which subsequently promote colonization-associated cellular features [e.g., proliferation, survival, cancer stem cells (CSCs), motility] by driving the transcription of the respective SE-associated genes. We tested this hypothesis and discovered that the pioneer TF KLF4 promoted chromatin accessibility and SE remodeling by ATAC-seq and ChIP-seq. Chromatin accessibility and SE remodeling significantly increased the transcription of the SE-associated genes MCL1 and RASGRP3, which consequently promoted proliferation, motility, and metastasis. Furthermore, the upregulation of KLF4 expression in UM cells was promoted by RN7SL2-containing exosomes from surrounding endothelial cells. Analysis of clinical datasets revealed that the overexpression of RIG-I, STAT1, KLF4, and RASGRP3 was individually correlated with shorter metastasis-free survival or overall survival in patients with UM and PDAC. In conclusion, the identification of the exoRN7SL2-STAT1-KLF4-SEs-RASGRP3 signaling axis may help elucidate metastatic colonization through interactions between tumor cells and the endothelial niche and may yield novel and viable therapeutic targets.",
+        "source": "PubMed",
+        "doi": "10.1038/s41392-026-02876-1",
+        "keyword": "Exosomes",
+        "title_ja": "内皮细胞外泌体重塑癌细胞的染色质可及性和超级增强子以促进肝转移定植。",
+        "summary_ja": "内皮由来エクソソームが癌細胞のクロマチンアクセシビリティとスーパーエンハンサー（SE）を再構築し、肝転移コロニー形成を促進するという研究。肝指向性転移はぶどう膜黒色腫（UM）や膵管腺癌（PDAC）で発生し、予後不良の主因である。著者らはパイオニア転写因子（TF）がクロマチンアクセシビリティとSE再構築を増大させ、SE関連遺伝子の転写を駆動することで増殖・生存・癌幹細胞性・運動性を促進すると仮説を立てた。ATAC-seqとChIP-seqにより、パイオニアTF KLF4がクロマチンアクセシビリティとSE再構築を促進することを発見。SE関連遺伝子MCL1とRASGRP3の転写が増加し、増殖・運動性・転移が促進された。さらにUM細胞におけるKLF4発現上昇は、周囲の内皮細胞由来のRN7SL2含有エクソソームにより促進された。臨床データ解析ではRIG-I、STAT1、KLF4、RASGRP3の過剰"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "An Easy Oligonucleotide Platform for Rapid, Post-Isolation EV Modification: Dual-Function Uptake Control and Enhanced Targeting.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42895173/",
+        "abstract": "Extracellular vesicles (EVs) hold immense therapeutic potential, yet their clinical translation is hindered by nonspecific cellular uptake and the complexity and cost of surface engineering. Here, we present the EZON (Easy OligoNucleotide) EV modification platform, a cost-effective, post-isolation modification system that addresses both limitations simultaneously. The EZON platform employs unmodified DNA aptamers that bind directly to tetraspanin proteins on EV surfaces, eliminating the need for cholesterol conjugation, covalent chemistry, or genetic engineering of producer cells. EVs are thus easily and rapidly functionalized in a single incubation step at substantially reduced oligonucleotide cost. The EZON platform enables dual functionality: (1) the oligonucleotide anchor (ONA) sequence inhibits nonspecific cellular uptake, while (2) the display strand enables targeted delivery through ligand-mediated internalization. We demonstrate that our optimized ONA construct efficiently functionalizes EVs from multiple mammalian cell types. Cancer cells selectively internalized EZON-modified EVs functionalized with AS1411, an aptamer that targets nucleolin, whereas off-target internalization was suppressed. The platform's versatility extends to protein display via histidine-tag aptamers and therapeutic cargo delivery, as demonstrated by targeted doxorubicin delivery to head and neck squamous cell carcinoma cells. This rapid, modular approach transforms unmodified EVs into precision delivery vehicles within hours, offering a scalable solution for targeted therapeutics.",
+        "source": "PubMed",
+        "doi": "10.1021/acsabm.6c01051",
+        "keyword": "Exosomes",
+        "title_ja": "迅速な分離後EV修飾のための簡便なオリゴヌクレオチドプラットフォーム：二機能性取り込み制御と標的化強化",
+        "summary_ja": "細胞外小胞（EVs）は治療応用が期待されるが、非特異的な細胞取り込みと表面改変の複雑さ・コストが臨床応用の障壁となっている。本研究では、分離後のEVを低コストで修飾するEZON（Easy OligoNucleotide）プラットフォームを開発した。EZONは未修飾DNAアプタマーを用いてEV表面のテトラスパニンタンパク質に直接結合し、コレステロール結合や共有結合化学、産生細胞の遺伝子工学を不要とする。単一のインキュベーション工程で迅速に機能化でき、オリゴヌクレオチドコストも大幅に削減される。本プラットフォームは二重機能を実現する：（1）オリゴヌクレオチドアンカー（ONA）配列が非特異的細胞取り込みを抑制し、（2）ディスプレイ鎖がリガンド媒介性内在化による標的送達を可能にする。最適化ONA構築物は複数の哺乳類細胞由来EVを効率的に機能化した。ヌクレオリン標的アプタマーAS1411で機能化した"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の論文から注目すべき5トピックを選定します。①腫瘍内皮細胞（TEC）の血管免疫ゲートキーパー機能：免疫排除表現型の主因として血管-免疫界面の再 programming が治療標的となる重要性を示す。②CD70標的CAR-T後の膠芽腫免疫環境リモデリング：免疫抑制性TME克服への道筋を示す。③NK細胞の免疫適性によるSCLC層別化：化学免疫療法の反応予測バイオマーカーとして臨床応用が期待される。④内皮エクソソームによるクロマチン再構築と肝転移促進：転移ニッチ形成機序の解明と新規治療標的の可能性。⑤EV修飾EZONプラットフォーム：低コストで取り込み制御と標的化を両立し、EV治療の臨床実装を加速する。全体として、免疫微小環境・細胞外小胞・血管界面を軸に、がん免疫療法の抵抗性克服と次世代治療基盤の構築が進む展望が示唆される。"
+}

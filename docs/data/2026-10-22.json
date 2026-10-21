@@ -1,0 +1,186 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Development of an effective direct qPCR method for cell therapy product quantification in non-clinical biodistribution studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42898878/",
+        "abstract": "Evaluating the non-clinical biodistribution (BD) of cell therapy products (CTPs) is essential to predicting their efficacy and safety in clinical trials. Although BD is typically quantified by qPCR following DNA extraction, this process is labor-intensive and time-consuming, and subject to variability in extraction yield, which complicates normalization to organ weight or blood volume. In contrast, direct qPCR enables the quantification of lysed samples without DNA extraction. Here, we systematically developed an effective direct qPCR method applicable to BD studies of CTPs.",
+        "source": "PubMed",
+        "doi": "10.1016/j.reth.2026.101189",
+        "keyword": "NK cell therapy",
+        "title_ja": "非臨床体内分布試験における細胞治療製品の定量化のための効果的な直接qPCR法の開発",
+        "summary_ja": "本論文は、細胞治療製品（CTP）の非臨床生体内分布（BD）評価における直接qPCR法の開発を報告している。CTPのBD評価は臨床試験での有効性・安全性予測に不可欠だが、従来のDNA抽出後のqPCRは労力と時間を要し、抽出収率の変動が臓器重量や血液量への標準化を困難にしていた。これに対し直接qPCRはDNA抽出なしで溶菌サンプルを定量可能である。著者らはCTPのBD研究に適用可能な効果的な直接qPCR法を体系的に開発した。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Microvascular inflammation in kidney transplants: finally an effective treatment?",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42901687/",
+        "abstract": "Microvascular inflammation-glomerulitis and peritubular capillaritis-is the hallmark histologic lesion of antibody-mediated allograft rejection and may also occur in the absence of donor-specific antibodies. In either case, microvascular inflammation leads to graft loss, and it has proven difficult to treat. As demonstrated in a study in this issue of Kidney International, targeting CD38, a glycoprotein expressed on both plasma cells and natural killer cells, shows great promise in treating microvascular inflammation in kidney transplants.",
+        "source": "PubMed",
+        "doi": "10.1016/j.kint.2026.07.022",
+        "keyword": "NK cell therapy",
+        "title_ja": "腎移植における微小血管炎症：ついに有効な治療法が登場か？",
+        "summary_ja": "腎移植における微小血管炎症（糸球体炎と尿細管周囲毛細血管炎）は抗体関連型拒絶反応の特徴的組織像であり、ドナー特異的抗体を欠く場合にも生じうる。いずれの場合も移植腎喪失につながり、治療が困難であった。本号のKidney Internationalに掲載された研究では、形質細胞とNK細胞の両方に発現する糖タンパクCD38を標的とすることが、腎移植における微小血管炎症の治療に大きな有望性を示した。"
+      },
+      {
+        "title": "PLCB3 as a causal regulator linking ferroptosis and immune remodeling in heart failure with preserved ejection fraction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42901390/",
+        "abstract": "Heart failure with preserved ejection fraction (HFpEF) is a complex syndrome lacking effective targeted therapies, but its causal genes and mechanisms remain poorly defined.",
+        "source": "PubMed",
+        "doi": "10.1016/j.abb.2026.111027",
+        "keyword": "NK cell therapy",
+        "title_ja": "PLCB3は、駆出率が保持された心不全においてフェロトーシスと免疫リモデリングを結びつける原因制御因子である。",
+        "summary_ja": "本論文は、有効な標的治療が乏しい複雑症候群であるHFpEF（保持型駆出率心不全）について、その原因遺伝子とメカニズムの解明を目的とした研究である。PLCB3がフェロトーシスと免疫リモデリングを結びつける因果的制御因子として同定され、HFpEFの発症機序における新たな分子基盤を示唆している。"
+      },
+      {
+        "title": "MicroRNAs and polymorphisms influencing MICA immune modulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42900444/",
+        "abstract": "MicroRNAs (miRNAs) are small non-coding RNAs that play a central role in post-transcriptional gene regulation. They act mainly by interacting with sequences located in the 3' untranslated regions (3'UTRs) of messenger RNAs (mRNAs), thereby influencing mRNA stability and translation. Through these mechanisms, miRNAs contribute to the fine-tuning of multiple biological pathways, including immune activation, inflammatory signaling, and cellular stress responses. Among the genes involved in immune surveillance, the major histocompatibility complex class I polypeptide-related sequence A (MICA) has emerged as an important target for post-transcriptional regulation due to its role as a ligand for the activating receptor NKG2D (natural killer cell group 2-D), which is expressed in natural killer (NK) cells and cytotoxic T lymphocytes. MICA is highly polymorphic, and several allelic variants differ in sequence composition, structural organization, and expression patterns, potentially influencing miRNA-mRNA interactions. Growing evidence suggests that miRNA-mediated regulation of MICA contributes to immune modulation in cancer, viral infections, and autoimmune disorders, particularly through mechanisms associated with immune evasion and altered NKG2D signaling. In addition, genetic polymorphisms and structural variations within regulatory regions, especially within the 3'UTR, can alter miRNA binding affinity by creating, disrupting, or modifying target sites. This mini review discusses the current understanding of miRNA-mediated regulation of MICA, emphasizing the impact of allelic diversity and regulatory polymorphisms on post-transcriptional control. Furthermore, it highlights current knowledge gaps and future perspectives regarding allele-specific regulation.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12959-5",
+        "keyword": "NK cell therapy",
+        "title_ja": "MICAの免疫調節に影響を与えるマイクロRNAと多型",
+        "summary_ja": "miRNAはmRNAの3'UTRに結合し安定性や翻訳を制御する低分子非コードRNAで、免疫活性化や炎症シグナル、細胞ストレス応答など多様な経路を微調整する。免疫監視に関わるMICAはNKG2Dのリガンドとして重要で、転写後制御の標的となっている。MICAは高度に多型であり、対立遺伝子変異が配列・構造・発現パターンを変え、miRNA-mRNA相互作用に影響しうる。miRNAによるMICA制御はがん、ウイルス感染、自己免疫疾患における免疫調節、特に免疫回避やNKG2Dシグナル変化に関与するという証拠が増えている。さらに3'UTR内の遺伝子多型や構造変異は標的部位の創出・破壊・修飾によりmiRNA結合親和性を変化させる。本ミニレビューはMICAのmiRNA制御、対立遺伝子多様性と制御多型の影響、対立遺伝子特異的制御の知見の空白と今後の展望を論じる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosomes derived from itaconate-treated macrophages promote epithelial-mesenchymal transition, migration, and invasion in MCF-7 breast cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42900452/",
+        "abstract": "Itaconic acid is an immunometabolite that regulates macrophage polarization within the tumor microenvironment and influences tumor progression and invasion. Although its anti-cancer and tumor-promoting effects remain controversial, its role in modulating macrophage-derived exosomes and their impact on breast cancer cells is not well understood. This study investigated the effects of exosomes derived from dimethyl itaconate (DMI)-treated macrophages on epithelial-mesenchymal transition (EMT), apoptosis, migration, and EMT-related miRNAs in MCF7 breast cancer cells. U937 macrophages were treated with 250 µM DMI for 48 h. Exosomes (DMI-EXO) were subsequently isolated, characterized, and used to treat MCF7 cells. The expression of EMT-related proteins (E-cadherin, N-cadherin, ZEB1/2, Slug, and Vimentin) and EMT-associated miRNAs (miR200C-5p, miR30C-5p, miR-638, and miR-137) was evaluated by Western blotting and quantitative real-time PCR, respectively. Apoptosis, cell migration, and invasion were assessed using Annexin V/PI staining, the scratch wound-healing assay, and the Transwell invasion assay, respectively. DMI-EXO treatment significantly increased the expression of the mesenchymal markers N-cadherin, ZEB1/2, Slug, and Vimentin while reducing the epithelial marker E-cadherin. In addition, the expression of EMT-suppressive miRNAs, including miR200C-5p and miR30C-5p, was significantly decreased, whereas no significant change was observed in miR-137 expression following DMI-EXO treatment. DMI-EXO treatment did not significantly alter apoptosis in MCF-7 cells but enhanced cell migration and invasion, as demonstrated by accelerated wound closure in the scratch assay and increased invaded area in the Transwell invasion assay. These findings indicate that DMI-induced macrophage-derived exosomes promote EMT and migration in breast cancer cells by modulating EMT-related proteins and miRNAs. This study provides new evidence that itaconic acid may facilitate breast tumor progression through exosome-mediated communication between macrophages and cancer cells.",
+        "source": "PubMed",
+        "doi": "10.1007/s12032-026-03468-3",
+        "keyword": "Exosomes",
+        "title_ja": "イタコン酸処理マクロファージ由来のエクソソームは、MCF-7乳がん細胞における上皮間葉転換、遊走、および浸潤を促進する。",
+        "summary_ja": "イタコン酸は腫瘍微小環境でマクロファージの極性化を制御する免疫代謝物だが、マクロファージ由来エクソソームへの影響は不明である。本研究ではジメチルイタコン酸（DMI）処理マクロファージ由来エクソソーム（DMI-EXO）がMCF-7乳がん細胞の上皮間葉転換（EMT）、アポトーシス、遊走に与える影響を検討した。U937マクロファージを250 µM DMIで48時間処理しエクソソームを単離、MCF-7に添加した。DMI-EXOは間葉マーカー（N-cadherin、ZEB1/2、Slug、Vimentin）を増加させ、上皮マーカーE-cadherinを減少させた。EMT抑制性miRNA（miR200C-5p、miR30C-5p）発現は有意に低下した。アポトーシスへの影響はなかったが、遊走・浸潤は亢進した。DMI誘導マクロファージ由来エクソソームはEMT関連タンパク質とmiRNAを調節し乳がん細胞のE"
+      },
+      {
+        "title": "Emerging Role of the Tumor Microenvironment in the Development of Metastasis, Drug Resistance, and Molecular Targeted Strategies A Commentary.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42900422/",
+        "abstract": "It is gradually becoming clear that cancer development represents a systems-level process that is controlled by dynamic and reciprocal interactions between the tumor microenvironment (TME) and malignant cells. The TME does not act as a passive scaffold but active regulation of tumor initiation, growth, metastatic dissemination, immune evasion and therapeutic resistance in terms of coordinated metabolic, signaling and immunological networks. Adaptive metabolic reprogramming and phenotypic plasticity in both cancer and stromal compartments were found in microenvironmental stressors like hypoxia, nutrient deprivation, and extracellular acidosis. The adaptations maintain invasive, cancer stem cell persistence, immune suppression and survival upon therapeutic pressure. Crosstalk between cells metabolism, exosome-based communication, and extracellular matrix reorganization all determine ecosystem-level resilience disrupting traditional cancer therapies. Within the framework of this commentary, we generalize emerging evidence that places the TME at a hub of metastasis and drug resistance, and we focus on metabolic plasticity, stromal re-programming and immune-metabolic competition. Based on the integrative multi-omics framework by Mir et al., we expand on the way genomics, transcriptomics, proteomics, metabolomics, and spatial profiling are redefining precision oncology by solving intratumoral heterogeneity and determining ecosystem-wide vulnerabilities. Lastly, we emphasize the possibilities of translational multi-omics-informed targeting of metabolic and stromal dependencies to break tumor ecosystem resilience and resulting clinical responses to be more durable. Importantly, such therapeutic concepts should be interpreted within the context of the intrinsic biological complexity of the tumor ecosystem, in which metabolic interventions may have divergent and cell-type-specific effects on malignant, stromal, and immune compartments, necessitating careful translational consideration.",
+        "source": "PubMed",
+        "doi": "10.1007/s12032-026-03465-6",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍微小環境が転移、薬剤耐性、分子標的戦略の開発において果たす新たな役割：論評",
+        "summary_ja": "腫瘍微小環境（TME）は受動的足場ではなく、代謝・シグナル・免疫ネットワークを介し腫瘍の発生、増殖、転移、免疫回避、治療抵抗性を能動的に制御する。低酸素や栄養枯渇、細胞外アシドーシスなどのストレス下で、癌細胞と間質細胞は代謝リプログラミングと表現型可塑性を示し、浸潤性や癌幹細胞性、免疫抑制、治療抵抗性を維持する。代謝クロストーク、エクソソーム通信、細胞外マトリックス再編がエコシステムの柔軟性を規定する。本コメンタリーはTMEを転移と薬剤耐性のハブと位置づけ、代謝可塑性、間質再プログラミング、免疫代謝競合に焦点を当てる。Mirらの統合マルチオミクス枠組みに基づき、ゲノム・トランスクリプトーム・プロテオーム・メタボローム・空間プロファイリングが腫瘍内不均一性を解明し精密腫瘍学を再定義する可能性を論じる。最後に代謝・間質依存性を標的とする翻訳的マルチオミクス戦略の可能性と、細胞種特異的効果への慎"
+      },
+      {
+        "title": "Targeting hepatic CREBZF protects against atherosclerosis via exosomal miR-210-3p mediated inhibition of endothelial inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42898388/",
+        "abstract": "Cardiovascular diseases (CVDs) continue to be the primary cause of mortality globally. Abnormal liver function has been widely recognized as an independent risk factor for atherosclerotic CVDs. However, how alterations in liver function affect distal vascular function remains largely unknown. CREBZF, a bZIP transcription factor of the CREB/ATF family, has been identified as a driver of hepatic steatosis and fibrosis. Here, we provide the first demonstration that hepatic CREBZF acts as a critical regulator driving atherosclerotic progression. ",
+        "source": "PubMed",
+        "doi": "10.1016/j.gendis.2026.102212",
+        "keyword": "Exosomes",
+        "title_ja": "肝臓のCREBZFを標的とすることで、エクソソームmiR-210-3pを介した内皮炎症の抑制によりアテローム性動脈硬化を防御する",
+        "summary_ja": "肝臓のCREBZFは肝脂肪症や線維化の促進因子として知られるbZIP転写因子だが、本研究はこれがアテローム性動脈硬化の進展を駆動する重要制御因子であることを初めて示した。肝機能異常は動脈硬化性心血管疾患の独立した危険因子とされるが、肝機能変化が遠隔の血管機能に及ぼす影響は不明であった。肝CREBZFを標的とすることで、エクソソーム由来miR-210-3pを介した内皮炎症の抑制を通じ、アテローム性動脈硬化から保護されることが示された。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "From Mesenchymal Roots to Pluripotent Reprogramming: Exosomal Crossroads in Regenerative Medicine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42901383/",
+        "abstract": "Despite growing interest in exosome-based regenerative therapies, conventional mesenchymal stem cell (MSC) and somatic cell derived exosomes face persistent translational barriers, including donor heterogeneity, ethical constraints, limited scalability, and batch-to-batch variability. It remains unclear how far induced pluripotent stem cell (iPSC) derived exosomes can address these limitations, and how their advantages and remaining translational barriers compare with those of established MSC exosome platforms. This review synthesizes current evidence on the biology, therapeutic applications, and bioengineering of exosomes across cellular sources, with a focus on critically comparing MSC- and iPSC-derived exosomes rather than cataloguing individual sources in isolation. iPSC-derived exosomes are, on the evidence reviewed here, the more promising long-term platform; their unlimited, genetically homogeneous, and engineerable source material addresses the donor heterogeneity, ethical, and scalability limits that constrain MSC exosomes at their root, rather than merely working around them. This advantage remains largely theoretical in practice, however, since iPSC exosome production, GMP manufacturing, and clinical validation currently lag behind the more established MSC exosome pipeline. Closing that gap, rather than the underlying biological case for iPSCs, is therefore the critical bottleneck this review identifies. The first registered human trials of iPSC derived exosomes have now appeared, in stable vitiligo, atopic dermatitis, and Moyamoya disease, but these small, early phase, and dermatology or topical delivery led, underscoring that closing translational gaps, GMP compliant and AI assisted manufacturing, standardized potency and safety assays, exosome specific rather than cell inherited genomic risk assessment, and clearr regulatory pathways will determine whether either platform, or a combination of both, moves from this narrow clinical foothold to routine use.",
+        "source": "PubMed",
+        "doi": "10.1016/j.slast.2026.100474",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系のルーツから多能性リプログラミングへ：再生医療におけるエクソソームの交差点",
+        "summary_ja": "本レビューは、MSC由来エクソソームの翻訳上の障壁（ドナー不均一性、倫理的制約、スケーラビリティ、ロット間変動）に対し、iPSC由来エクソソームがどこまで解決し得るかをMSC由来と比較検討した。iPSCは無制限・遺伝的に均一・工学可能な供給源として、これらの限界を根本から克服する長期的有望プラットフォームだが、その優位性は現時点では理論的であり、製造・GMP・臨床検証はMSCパイプラインに遅れている。既に尋常性白斑、アトピー性皮膚炎、もやもや病でiPSC由来エクソソームの初期ヒト試験が始まったが小規模かつ皮膚科・局所投与中心である。GMP準拠・AI支援製造、標準化された力価・安全性アッセイ、エクソソーム特異的ゲノムリスク評価、明確な規制経路の整備が実用化の鍵となる。"
+      },
+      {
+        "title": "Dual-channel digital surface-enhanced Raman spectroscopy resolves GPC1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42900490/",
+        "abstract": "Extracellular-vesicle populations average molecular signals across particles and can conceal rare, co-expressing phenotypes. We developed a dual-channel digital surface-enhanced Raman spectroscopy platform that partitions individual CD63-captured vesicles and identifies glypican-1 (GPC1) and mucin 4 (MUC4) with 4-mercaptobenzoic acid and 5,5'-dithiobis(2-nitrobenzoic acid) nanotags. The method was evaluated with eight independent batches from each of PANC-1, BxPC-3, HPDE and hTERT-HPNE cell models, seven blinded PANC-1/BxPC-3 mixtures, artificial-serum spikes and defined interferents. Across 49 256 single-vesicle events, beta-binomial modelling estimated GPC1",
+        "source": "PubMed",
+        "doi": "10.1039/d6ay01831a",
+        "keyword": "Exosomes",
+        "title_ja": "デュアルチャネルデジタル表面増強ラマン分光法がGPC1を識別する",
+        "summary_ja": "細胞外小胞集団は粒子間の分子シグナルを平均化し、稀な共発現表現型を隠蔽しうる。本研究では、個々のCD63捕捉小胞を分画し、4-メルカプト安息香酸および5,5'-ジチオビス(2-ニトロ安息香酸)ナノタグを用いてグリピカン-1(GPC1)とムチン4(MUC4)を同定する二チャネルデジタル表面増強ラマン分光プラットフォームを開発した。PANC-1、BxPC-3、HPDE、hTERT-HPNE各細胞モデルの8独立バッチ、7つの盲検PANC-1/BxPC-3混合試料、人工血清スパイク、規定干渉物質で評価した。49,256の単一小胞イベントにわたり、ベータ二項モデリングによりGPC1を推定した。(399文字)"
+      },
+      {
+        "title": "A Diabetic Wound Microenvironment-Responsive HAMA-PBA/PVA Hydrogel for Localized Delivery of Netrin-1-Enriched Adipose-Derived Stem Cell-Derived Exosomes Promotes Diabetic Wound Healing through Immunomodulation and Angiogenesis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42900220/",
+        "abstract": "Diabetic wounds are characterized by persistent inflammation, endothelial dysfunction, impaired angiogenesis, and poor local retention of therapeutic agents, all of which hinder effective repair. Here, we combined Netrin-1-enriched exosomes (NTN-Exos) from genetically modified adipose-derived stem cells with a photo-crosslinkable phenylboronic acid-modified hyaluronic acid methacryloyl/polyvinyl alcohol (HAMA-PBA/PVA) hydrogel to create a diabetic wound-responsive exosome-hydrogel system. NTN-Exos@Gel enabled prolonged local exosome retention owing to its favorable injectability, biocompatibility, and pH- and reactive oxygen species-responsive degradation and release behavior. In vitro, NTN-Exos reduced high-glucose-induced endothelial apoptosis and restored endothelial migration, proliferation, and tube-forming capacity. Additionally, NTN-Exos reduced inflammatory reactions and promoted macrophage polarization toward a reparative phenotype. NTN-Exos@Gel dramatically accelerated wound closure, improved blood perfusion, boosted neovascularization, improved re-epithelialization and collagen deposition, and decreased local inflammatory cytokine production in a diabetic full-thickness wound model. Mechanistically, transcriptome and protein analysis showed that the pro-angiogenic action of NTN-Exos was associated with altered Hippo signaling, which is typified by higher YAP/TAZ expression, decreased phosphorylation of LATS1 and YAP, and increased expression of CD146. These results suggest that NTN-Exos@Gel is a viable cell-free approach for the healing of diabetic wounds.",
+        "source": "PubMed",
+        "doi": "10.1021/acsami.6c16731",
+        "keyword": "Exosomes",
+        "title_ja": "糖尿病創傷微小環境応答性HAMA-PBA/PVAハイドロゲルによるNetrin-1濃縮脂肪由来幹細胞由来エクソソームの局所送達は、免疫調節と血管新生を通じて糖尿病性創傷治癒を促進する",
+        "summary_ja": "糖尿病性創傷は持続性炎症、内皮機能障害、血管新生障害、治療薬の局所滞留性低下により治癒が妨げられる。本研究では、遺伝子改変脂肪由来幹細胞から得たNetrin-1富含エクソソーム（NTN-Exos）と、光架橋性フェニルボロン酸修飾ヒアルロン酸メタクリロイル/ポリビニルアルコール（HAMA-PBA/PVA）ヒドロゲルを組み合わせ、糖尿病創傷応答性エクソソーム-ヒドロゲルシステムを構築した。NTN-Exos@Gelは優れた注入性、生体適合性、pHおよび活性酸素種応答性の分解・放出挙動により局所滞留を延長した。In vitroでNTN-Exosは高グルコース誘導性内皮アポトーシスを抑制し、内皮の遊走・増殖・管腔形成能を回復させ、炎症反応を軽減しマクロファージの修復性極性化を促進した。糖尿病全層創傷モデルでNTN-Exos@Gelは創閉鎖、血流灌流、新生血管形成、再上皮化、コラーゲン沈着を改善し炎症"
+      },
+      {
+        "title": "Therapeutic potential analysis of Sertoli cell-derived exosomes in cerebral ischemia-reperfusion injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42899835/",
+        "abstract": "Cerebral ischemia-reperfusion injury is a core pathological process underlying further neurological deterioration after reperfusion therapy for acute ischemic stroke. Developing more effective neuroprotective agents is therefore a current priority in neuroscience research. Sertoli cells possess unique immunoprivileged and nutritional support functions within the testes and secrete exosomes that serve as important mediators of intercellular communication, with substantial potential for neuroprotection. This review addresses the protective mechanisms of Sertoli cell-derived exosomes in cerebral ischemia-reperfusion injury. Through a comprehensive literature review, we systematically summarize their neuroprotective effects, including the modulation of immune and inflammatory responses, inhibition of cellular apoptosis, promotion of neurovascular repair, regulation of autophagy, and influence on epigenetic modifications and related signaling pathways. By synthesizing the latest findings in this field, we aim to provide insights into the development and translation of novel neuroprotective strategies based on Sertoli cell-derived exosomes.",
+        "source": "PubMed",
+        "doi": "10.4103/NRR.NRRONLINE-D-26-00773",
+        "keyword": "Exosomes",
+        "title_ja": "セルトリ細胞由来エクソソームの脳虚血再灌流障害における治療可能性の解析",
+        "summary_ja": "セルトリ細胞由来エクソソームの脳虚血再灌流障害における治療可能性を論じたレビュー。脳虚血再灌流障害は急性虚血性脳卒中の再灌流療法後の神経悪化の核心的病理過程であり、有効な神経保護薬の開発が課題である。精巣内で免疫特権と栄養支持機能を持つセルトリ細胞は、細胞間通信の媒介となるエクソソームを分泌し、神経保護能が期待される。本レビューは文献を網羅的に検討し、免疫・炎症応答の調節、細胞アポトーシス抑制、神経血管修復促進、オートファジー制御、エピジェネティック修飾および関連シグナル経路への影響など、その神経保護効果を体系的にまとめた。最新知見を統合し、セルトリ細胞由来エクソソームに基づく新規神経保護戦略の開発・臨床応用への示唆を提供する。"
+      },
+      {
+        "title": "AICAR-induced energy supply and paracrine activity of endothelial cells accelerate chronic diabetic wound healing by promoting angiogenesis and modulating macrophage reprogramming.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42899161/",
+        "abstract": "Chronic diabetic wound healing is severely hampered by endothelial cell (EC) dysfunction, defective angiogenesis, and a persistent inflammatory microenvironment, yet the crosstalk between EC energy metabolism and macrophage polarization in this process remains poorly understood. Here, we identified an AMPK-dependent metabolic pathway in ECs that orchestrated both angiogenic restoration and macrophage immune reprogramming for diabetic wound repair, and translated this mechanism into a functional three-dimensional (3D) scaffold (MEWs + GelMA@AI) fabricated by melt electrospinning writing technology. Acadesine (AICAR) efficiently induced a high-energy state in ECs by activating AMPK, preserving mitochondrial ultrastructure, enhancing respiratory-chain complex activity, and increasing VEGF expression and angiogenic potential. Notably, we discovered that AI-EXO, secreted by these metabolically activated ECs, delivered GAS6 to macrophages as a key paracrine factor, thereby triggering activation of the MER/AKT pathway and driving M1-to-M2 polarization. To our knowledge, this is the first report identifying exosomal GAS6 as a mediator of EC-macrophage crosstalk in diabetic wound healing. The MEWs + GelMA@AI scaffold, characterized by a porous structure and sustained AICAR release, exhibited excellent cytocompatibility and proangiogenic activity ",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103743",
+        "keyword": "Exosomes",
+        "title_ja": "AICARが誘導する内皮細胞のエネルギー供給とパラクリン活性は、血管新生を促進しマクロファージのリプログラミングを調節することで、慢性糖尿病性創傷の治癒を加速する。",
+        "summary_ja": "慢性糖尿病創傷治癒は内皮細胞（EC）機能不全、血管新生不全、持続的炎症環境により著しく妨げられるが、ECエネルギー代謝とマクロファージ極性化のクロストークは不明である。本研究ではECにおけるAMPK依存性代謝経路を同定し、血管新生回復とマクロファージ免疫再 programmingを統御することを見出し、メルトエレクトロスピニングライティング技術で作製した3Dスキャフォールド（MEWs+GelMA@AI）へ応用した。アカデシン（AICAR）はAMPK活性化によりECに高エネルギー状態を誘導し、ミトコンドリア超微細構造を保持、呼吸鎖複合体活性を亢進、VEGF発現と血管新生能を増強した。さらに代謝活性化ECが分泌するAI-EXOがGAS6をマクロファージへ送達し、MER/AKT経路を活性化してM1からM2への極性化を駆動することを発見した。糖尿病創傷治癒におけるEC-マクロファージクロストークの"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Apatinib attenuates CRKII-Mediated angiogenesis: Possible implications for metastasis prevention from small extracellular vesicle proteomics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42901393/",
+        "abstract": "High postoperative recurrence severely compromises treatment for triple-negative breast cancer (TNBC) surgical outcomes. We investigated Apatinib's potential as an adjuvant therapy targeting sEV (Small Extracellular Vesicle)-mediated angiogenesis within the tumor microenvironment to identify novel prognostic biomarkers. We employed quantitative label-free proteomics to screen for key therapeutic targets in TNBC-derived sEVs. The anti-angiogenic efficacy and potential anti-metastatic activityof Apatinib was evaluated using in vitro functional assays (proliferation, migration, adhesion, invasion, and tube formation) and an in vivo TNBC syngeneic mouse model. To validate its translational potential, we analyzed the regulation of the CRKII-PXN/VEGFA axis and its correlation with tumor angiogenesis and growth inhibition. Proteomic analysis identified the adaptor protein CRKII as a central hub significantly downregulated by Apatinib in sEVs. Mechanistically, Apatinib disrupted the transmission of pro-angiogenic signals to endothelial cells by reducing sEV-CRKII (small extracelluar vesicle-CRKII), which subsequently inhibited the downstream CRKII-PXN/VEGFA signaling axis. Functional validation confirmed that CRKII knockdown mimicked, while overexpression reversed, the anti-angiogenic effects of Apatinib. In the preclinical model, Apatinib significantly suppressed tumor growth and reduced microvessel density, suggesting its efficacy in controlling tumor burden and potential micrometastases. Apatinib effectively inhibits TNBC angiogenesis and exhibits potential anti-metastatic activity by downregulating sEV-CRKII and blocking the CRKII-PXN/VEGFA axis. These findings suggest that Apatinib may have potential as a postoperative adjuvant therapy for metastasis prevention. Furthermore, sEV-CRKII emerges as a promising non-invasive biomarker for surgeons to monitor therapeutic response and recurrence risk in TNBC patients.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bcp.2026.118555",
+        "keyword": "sEVs",
+        "title_ja": "アパチニブはCRKIIを介した血管新生を減弱させる：小細胞外小胞プロテオミクスからの転移予防への可能性",
+        "summary_ja": "アパチニブは、トリプルネガティブ乳癌（TNBC）術後の再発抑制を目指す補助療法として検討された。TNBC由来sEV（small extracellular vesicle）のプロテオミクス解析により、アパチニブがアダプタータンパク質CRKIIを有意に低下させることが判明した。機序として、アパチニブはsEV-CRKIIを減少させ、下流のCRKII-PXN/VEGFAシグナル軸を阻害することで、内皮細胞への血管新生促進シグナル伝達を遮断する。機能解析ではCRKIIノックダウンがアパチニブの抗血管新生作用を模倣し、過剰発現がこれを逆転した。前臨床モデルでは腫瘍増殖と微小血管密度が抑制された。以上より、アパチニブはsEV-CRKIIを介してTNBCの血管新生と転移を抑制する可能性があり、術後補助療法やsEV-CRKIIの非侵襲的バイオマーカーとしての有用性が示唆された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです（約480字）。\n\n1. **直接qPCRによる細胞治療製品の生体内分布評価**：DNA抽出不要で労力・時間・収率変動の問題を克服。CTPの非臨床BD評価の標準化に寄与し、開発加速が期待される。\n\n2. **HFpEFにおけるPLCB3の同定**：フェロトーシスと免疫リモデリングを結ぶ因果因子として注目。有効薬の乏しいHFpEFの新規標的として今後の検証が待たれる。\n\n3. **肝CREBZF－エクソソームmiR-210-3p軸による動脈硬化抑制**：肝機能と血管炎症を結ぶ新機序を提示。肝標的治療が動脈硬化予防へ展開する可能性を示す。\n\n4. **iPSC由来エクソソームの再生医療応用**：MSC由来のドナー不均一性・スケーラビリティ・ロット間変動といった実用障壁を克服し得る供給源として比較検討。標準化への展望が示された。\n\n5. **糖尿病性創傷に対するNTN-Exos搭載HAMA-PBA/PVAヒドロゲル**：微小環境応答性の局所送達で免疫調節と血管新生を促進。難治性創傷治療の実用化に近い成果である。"
+}

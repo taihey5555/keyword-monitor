@@ -1,0 +1,73 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Biomembrane-Camouflaged Stents: Promising Strategies for Advanced Coronary Interventions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42904437/",
+        "abstract": "Coronary stent implantation remains a cornerstone therapy for coronary artery disease, yet current stent technologies continue to face limitations including acute and late thrombosis, delayed re-endothelialization, chronic inflammation, and in-stent restenosis. These complications largely arise from the nonphysiological interface between the implanted device and the injured vascular microenvironment. Biomembrane-camouflaged stents have recently emerged as a promising strategy to engineer biologically instructive blood-contacting surfaces by integrating natural or artificial membrane systems onto stent platforms. In this review, we summarize recent advances in three major biomembrane-based strategies for coronary stent functionalization: cell membrane-camouflaged stents, liposome-camouflaged stents, and exosome-camouflaged stents. Biomimetic cell membrane coatings retain native bioactive signals that collectively facilitate immune evasion, thromboresistance, and vascular healing. Liposome-based coatings are tunable artificial biomembrane reservoirs for the localized delivery of anticoagulants, anti-inflammatories, nitric oxide releasers, antiproliferatives, and gene therapies. Exosome-functionalized stents further enable bioactive intercellular communication by transferring endogenous regulatory cargos that modulate endothelial regeneration, macrophage polarization, smooth muscle cell phenotype, oxidative stress, and neointimal remodeling. We further discuss fabrication approaches, biological mechanisms, preclinical evidence, translational barriers, and future design principles for these platforms. Although challenges remain in coating durability, sterilization, long-term storage, manufacturing reproducibility, and clinical validation, biomembrane-camouflaged stents represent a compelling direction for next-generation coronary intervention by transforming conventional stents from passive mechanical scaffolds into active regulators of vascular repair.",
+        "source": "PubMed",
+        "doi": "10.1021/acsami.6c11806",
+        "keyword": "Exosomes",
+        "title_ja": "生体膜で覆われたステント：高度な冠動脈インターベンションへの有望な戦略",
+        "summary_ja": "冠動脈ステント留置術は冠動脈疾患の基盤治療だが、急性・遅発性血栓症、再内皮化遅延、慢性炎症、ステント内再狭窄などの限界が残る。これらはデバイスと損傷血管微小環境間の非生理的界面に起因する。生体膜偽装ステントは、天然または人工膜系をステント上に統合し、生物学的に機能する血液接触面を構築する新戦略である。本レビューでは、細胞膜、リポソーム、エクソソームによる偽装ステントの3戦略を概説する。細胞膜コーティングは免疫回避、抗血栓性、血管治癒を促進し、リポソームは抗凝固薬、抗炎症薬、NO放出薬、抗増殖薬、遺伝子治療の局所送達に適する。エクソソームは内皮再生、マクロファージ極性化、平滑筋細胞表現型、酸化ストレス、新生内膜リモデリングを調節する。作製法、生物学的機序、前臨床エビデンス、実用化障壁、設計原則も論じる。コーティング耐久性、滅菌、長期保存、製造再現性、臨床検証の課題は残るが、本戦略は受動的足場"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Graphene oxide-induced multiple iPSC spheroid formation for enhanced production of angiogenic exosomes accelerating tissue regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42903656/",
+        "abstract": "Exosome-based therapeutics have emerged as a promising cell-free strategy for tissue regeneration by coordinating angiogenesis and tissue repair. Induced pluripotent stem cell (iPSC)-derived exosomes are particularly attractive because of their regenerative potential and scalability; however, the reproducible and scalable production of functionally potent exosomes remains a major barrier to clinical translation. Here, we developed a graphene oxide (GO)-mediated nanoengineering strategy to establish a multi-spheroid platform that simultaneously regulates spheroid architecture, enhances exosome production, and improves angiogenic functionality in both iPSC spheroids and iPSC-derived vascular endothelial cell (vEC) spheroids. GO reproducibly reorganized cellular aggregation from a single dominant spheroid into multiple uniformly sized spheroids per well and increased exosome production while preserving characteristic vesicle properties. GO-engineered iPSC spheroid-derived exosomes exhibited distinct angiogenesis-related miRNA profiles and significantly enhanced endothelial cell migration and capillary-like network formation in vitro. Extending this strategy to iPSC-vEC spheroids further enhanced endothelial differentiation and generated lineage-specific exosomes with greater pro-angiogenic activity. In a rat full-thickness skin wound model, GO-engineered spheroid-derived exosomes accelerated wound closure and promoted vascularized skin regeneration. Collectively, these findings establish GO-mediated spheroid nanoengineering as a reproducible and potentially scalable strategy for producing therapeutically potent exosomes. By integrating controlled spheroid formation, enhanced exosome productivity, preserved vesicle characteristics, and improved angiogenic efficacy, this platform provides a practical framework for standardized exosome manufacturing and supports its future clinical translation toward vascular regenerative therapies.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103723",
+        "keyword": "Exosomes",
+        "title_ja": "酸化グラフェン誘導による多能性幹細胞スフェロイドの形成促進と、組織再生を加速する血管新生エクソソームの産生向上",
+        "summary_ja": "酸化グラフェン（GO）を用いたナノエンジニアリング戦略により、iPSCスフェロイドから複数の均一なスフェロイドを形成し、エクソソーム産生を高めるプラットフォームを開発した。GO処理したiPSCスフェロイド由来エクソソームは血管新生関連miRNAプロファイルを示し、内皮細胞の遊走や毛細血管様ネットワーク形成を促進した。iPSC由来血管内皮細胞（vEC）スフェロイドへの応用では内皮分化が促進され、血管新生活性の高い系統特異的エクソソームが得られた。ラット全層皮膚創傷モデルで創傷閉鎖と血管化皮膚再生を加速した。本戦略は再現性・拡張性の高い治療用エクソソーム製造を可能にし、血管再生療法の臨床応用に寄与する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の注目5トピック：\n\n1. **生体膜被覆ステント**：冠動脈ステントの血栓症・再狭窄など非生理的界面に起因する課題を、天然/人工膜で被覆し血管微小環境に適合させる新戦略。次世代DDS応用が期待される。\n\n2. **GO誘導iPSCスフェロイドによる血管新生エクソソーム増産**：酸化グラフェンで均一スフェロイドを形成しエクソソーム産生を効率化。血管新生miRNAを介した組織再生促進が有望。\n\n3. **Klotho**：抗老化・臓器保護因子として注目され、心血管・腎保護や老化関連疾患への治療応用が期待される。\n\n4. **PF4**：血小板由来ケモカインで、造血・免疫調節や血管保護作用が報告され、新規治療標的として関心が高い。\n\n5. **NK細胞療法・sEVs**：NK細胞療法はがん免疫治療の新柱として進展。sEVsは無細胞治療の運搬体として、診断・治療両面での実用化が期待される。\n\n全体として、生体模倣材料・細胞外小胞・免疫細胞療法が融合し、再生医療と心血管治療の新展開を示している。"
+}

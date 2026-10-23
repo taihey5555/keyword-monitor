@@ -1,0 +1,135 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Reframing APS thrombogenesis: a new PF4-driven mechanism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42911648/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1182/blood.2026035161",
+        "keyword": "PF4",
+        "title_ja": "APS血栓形成の再構築：新たなPF4駆動型メカニズム",
+        "summary_ja": "ご提示いただいたタイトル「Reframing APS thrombogenesis: a new PF4-driven mechanism.」のみでは本文が含まれていないため、正確な要約ができません。論文本文（アブストラクト等）をご提供いただければ、400文字以内で専門用語を保ちつつ要約いたします。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "NAD",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42913002/",
+        "abstract": "Chronic lung graft-versus-host disease (GVHD) after allogeneic hematopoietic stem cell transplantation (allo-HSCT) remains difficult to treat, and broad immunosuppression increases infection risk. Single-cell profiling of bronchoalveolar lavage from bronchiolitis obliterans lesions revealed collapse of an epithelial nicotinamide adenine dinucleotide (NAD",
+        "source": "PubMed",
+        "doi": "10.1126/sciadv.aef3338",
+        "keyword": "NK cell therapy",
+        "title_ja": "NAD",
+        "summary_ja": "同種造血幹細胞移植後の慢性肺GVHDは治療困難で、広範な免疫抑制は感染リスクを高める。閉塞性細気管支炎病変の気管支肺胞洗浄液の単一細胞解析により、上皮のニコチンアミドアデニンジヌクレオチド（NAD）関連機構の崩壊が明らかになった。"
+      },
+      {
+        "title": "Interferon-λ signaling to maternal dendritic cells protects against congenital Zika virus infection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42912987/",
+        "abstract": "Interferon-λ (IFN-λ, type III IFN) mediates antiviral immunity at anatomic barriers, including the maternal-fetal interface. To investigate the effects of IFN-λ during congenital Zika virus (ZIKV) infection, we infected mice lacking the IFN-αβ receptor (",
+        "source": "PubMed",
+        "doi": "10.1126/sciadv.aeh1073",
+        "keyword": "NK cell therapy",
+        "title_ja": "インターフェロンλによる母体樹状細胞へのシグナル伝達は先天性ジカウイルス感染を防御する。",
+        "summary_ja": "IFN-λ（III型IFN）は母胎界面などの解剖学的バリアで抗ウイルス免疫を担う。先天性ジカウイルス（ZIKV）感染におけるIFN-λの役割を調べるため、IFN-αβ受容体欠損マウスを用いて感染実験を行った。その結果、IFN-λシグナルが母体樹状細胞に作用し、先天性ZIKV感染に対する防御に寄与することが示された。"
+      },
+      {
+        "title": "Natural polysaccharides in pancreatic cancer therapy: From immunomodulation and gut microbiota regulation to metabolic intervention.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42907040/",
+        "abstract": "Natural polysaccharides derived from plants, fungi, macroalgae, cyanobacteria, and other marine microorganisms have attracted increasing interest as adjuvant candidates for pancreatic cancer management due to their biocompatibility, structural diversity, and multi-target activities. This review consolidates current knowledge on their anti-pancreatic cancer activities, integrating findings from in vitro, in vivo, and mechanistic studies. We delineate the multi-level regulatory networks through which polysaccharides exert anti-tumor effects via four interconnected mechanisms: direct actions on cancer cells including proliferation inhibition, apoptosis and ferroptosis induction, cell cycle arrest, metastasis suppression, and autophagy modulation; immunomodulation via M1 macrophage polarization, natural killer cell activation, and cytotoxic T lymphocyte mediated killing; restoration of gut microbial homeostasis through beneficial taxa enrichment, intestinal barrier integrity enhancement, short-chain fatty acid elevation, and lipopolysaccharide driven inflammation reduction; and indirect tumor suppression by ameliorating obesity and type 2 diabetes mellitus. The polysaccharide gut microbiota axis emerges as a critical hub integrating these pathways. Structure-activity relationship analysis indicates that low molecular weight, high galacturonic acid content, arabinose and galactose richness, and sulfation may influence activity, although robust attribution requires structurally defined polysaccharides. More than twenty well characterized polysaccharides are documented, with several showing synergistic effects with chemotherapeutics. Despite encouraging preclinical evidence, challenges remain in structural characterization, bioavailability, and clinical validation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.carbpol.2026.125917",
+        "keyword": "NK cell therapy",
+        "title_ja": "膵がん治療における天然多糖類：免疫調節と腸内細菌叢制御から代謝介入まで",
+        "summary_ja": "植物・真菌・大型藻類・藍藻・海洋微生物由来の天然多糖類は、生体適合性・構造多様性・多標的活性から膵癌補助療法候補として注目されている。本レビューはin vitro・in vivo・機序研究を統合し、多糖類が4つの相互関連機序で抗腫瘍効果を発揮する多層制御ネットワークを整理した。すなわち癌細胞への直接作用（増殖抑制、アポトーシス・フェロトーシス誘導、細胞周期停止、転移抑制、オートファジー調節）、免疫調節（M1マクロファージ極性化、NK細胞活性化、細胞傷害性T細胞殺傷）、腸内細菌叢恒常性回復（有益菌増加、腸管バリア強化、短鎖脂肪酸増加、LPS炎症軽減）、肥満・2型糖尿病改善による間接的腫瘍抑制である。多糖類—腸内細菌叢軸が統合ハブとなる。構造活性相関では低分子量、高ガラクツロン酸含量、アラビノース・ガラクトース富含、硫酸化が活性に影響しうる。20種以上の多糖類が記載され、一部は化学療法と相乗効"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosomal C3a initiates the NF-κB-dependent inflammatory axis in IgA nephropathy: a three-phase pilot study integrating clinical, in vivo, and in vitro evidence.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42909805/",
+        "abstract": "IgA nephropathy (IgAN) is the most common glomerulonephritis in children. Although exosomes contribute to renal injury, their role in IgAN remains unclear. This pilot study tested whether urinary exosomal C3a normalized to creatinine (uE-C3a/Cr) reflects glomerular injury and activates NF-κB signaling.",
+        "source": "PubMed",
+        "doi": "10.1007/s10157-026-02969-9",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームC3aはIgA腎症においてNF-κB依存性の炎症軸を開始する：臨床・in vivo・in vitroのエビデンスを統合した3段階パイロット研究",
+        "summary_ja": "本パイロット研究は、小児で最多の糸球体腎炎であるIgA腎症（IgAN）において、尿中エクソソームC3aのクレアチニン補正値（uE-C3a/Cr）が糸球体障害を反映し、NF-κBシグナルを活性化するかを検証した。エクソソームは腎障害に関与するがIgANでの役割は不明であった。臨床・in vivo・in vitroの3相構成で、uE-C3a/CrがバイオマーカーとなりNF-κB依存性炎症軸を開始する可能性を示した。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "β-Blockade reprograms trauma-induced changes in bone marrow exosomal microRNAs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42913416/",
+        "abstract": "Severe trauma produces sustained sympathetic activation that contributes to bone marrow dysfunction, impaired hematopoiesis, and persistent injury-associated anemia. Although β-adrenergic blockade improves bone marrow recovery after injury, the downstream mechanisms remain incompletely defined. We hypothesized that propranolol reprograms trauma-induced bone marrow extracellular vesicle (EV) microRNA (miRNA) expression toward restoration of hematopoietic homeostasis.",
+        "source": "PubMed",
+        "doi": "10.1097/TA.0000000000005221",
+        "keyword": "Exosomes",
+        "title_ja": "β遮断薬は外傷誘発性の骨髄エクソソームmiRNA変化を再プログラムする。",
+        "summary_ja": "重症外傷は持続的交感神経活性化を介して骨髄機能障害、造血障害、遷延性貧血を引き起こす。β遮断薬は外傷後の骨髄回復を改善するが、下流機構は未解明である。本研究ではプロプラノロールが外傷誘発性の骨髄細胞外小胞（EV）miRNA発現を再プログラムし、造血恒常性の回復へ導くという仮説を立てた。"
+      },
+      {
+        "title": "TIA1 is required for microglial activation in tauopathy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42911815/",
+        "abstract": "The RNA-binding protein T cell intracellular antigen-1 (TIA1) regulates cellular stress responses and tau pathology, key contributors to the pathophysiology of tauopathies, including Alzheimer's disease (AD). TIA1 acts in peripheral monocytes to inhibit inflammation, but its function in central microglia, critical to neuroinflammation and disease progression, remains unknown. Here, we crossed TIA1 microglial conditional knockout (cKO) mice (using a Cx3cr1-driven Cre element) with the PS19 P301S MAPT mouse model of tauopathy and demonstrated that TIA1 promotes microglial activation, with a corresponding suppression of microglia activation upon TIA1cKO. We observe striking reductions in cytokine (Tnf-α and Il-1β) and sensome markers (Clec7a, Trem2, and Itgax); importantly, these reductions were accompanied by decreases in tau pathology. Proteomic analyses show TIA1 interaction with the microglial proteins C1Q, previously implicated in microglial activation. These results position TIA1 as a regulator of neuroinflammation and tauopathy in CX3CR1-expressing myeloid cells, including microglia, with potentially divergent functions in central versus peripheral immune compartments.",
+        "source": "PubMed",
+        "doi": "10.1016/j.celrep.2026.118199",
+        "keyword": "Exosomes",
+        "title_ja": "TIA1はタウオパチーにおけるミクログリアの活性化に必要である。",
+        "summary_ja": "RNA結合タンパク質TIA1は細胞ストレス応答とタウ病理を制御し、アルツハイマー病（AD）を含むタウオパチーの病態に関与する。末梢単球では炎症を抑制するが、中枢ミクログリアでの機能は不明であった。本研究では、Cx3cr1駆動Creを用いたミクログリア特異的TIA1コンディショナルノックアウト（cKO）マウスをPS19 P301S MAPTタウオパチーモデルと交配し、TIA1がミクログリア活性化を促進することを示した。TIA1 cKOではサイトカイン（Tnf-α、Il-1β）やセンソームマーカー（Clec7a、Trem2、Itgax）が著減し、タウ病理も減少した。プロテオミクス解析によりTIA1とC1Qの相互作用が示された。TIA1はCX3CR1発現骨髄系細胞において神経炎症とタウオパチーを制御し、中枢と末梢で異なる機能を持つ可能性がある。"
+      },
+      {
+        "title": "Exosomes in Cancer: The Biology, Function, Diagnosis, and Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42910351/",
+        "abstract": "Exosomes are central mediators of intercellular communication in the tumor microenvironment, transferring proteins, lipids, metabolites, and nucleic acids that regulate cancer progression. Recent advances in multi-omics and extracellular vesicle profiling have revealed substantial molecular and functional heterogeneity, extending beyond classical membrane-bound exosomes to nonmembranous extracellular nanoparticles such as exomeres and supermeres. Here, we provide a pan-cancer synthesis of exosome biology, integrating mechanisms of biogenesis, cargo sorting, and secretion with emerging concepts of extracellular nanoparticle diversity. We examine how tumor-derived exosomes remodel local and distant microenvironments by promoting angiogenesis, metabolic reprogramming, immune suppression, premetastatic niche formation, and cancer-associated cachexia. We also discuss the relative contributions of active organotropic targeting and passive spatiotemporal accumulation to metastatic dissemination, together with tissue-specific mechanisms governing endothelial barrier crossing, myeloid-cell reprogramming, and intercellular network integration. Clinically, we evaluate exosome-based liquid biopsy, molecular subtyping, engineered delivery systems, and strategies that inhibit endogenous vesicle production or circulation. Finally, we outline key translational challenges, including single-vesicle heterogeneity, limited intravital tracking, and the absence of standardized cGMP manufacturing and analytical frameworks across diverse tumor types and clinically relevant biological contexts worldwide. This review defines a roadmap for exosome-guided precision oncology.",
+        "source": "PubMed",
+        "doi": "10.1002/mco2.71074",
+        "keyword": "Exosomes",
+        "title_ja": "がんにおけるエクソソーム：生物学、機能、診断、治療",
+        "summary_ja": "エクソソームは腫瘍微小環境における細胞間コミュニケーションの中心的媒介者であり、タンパク質・脂質・代謝物・核酸を転送してがん進展を制御する。マルチオミクスと細胞外小胞プロファイリングの進歩により、古典的な膜結合型エクソソームを超え、exomereやsupermereなどの非膜性細胞外ナノ粒子を含む分子・機能的多様性が明らかになった。本レビューは汎がん的視点でエクソソーム生物学を統合し、生合成・カーゴ選別・分泌機構を細胞外ナノ粒子多様性の新概念と結びつける。腫瘍由来エクソソームが血管新生・代謝リプログラミング・免疫抑制・前転移ニッチ形成・がん悪液質を促進し、局所・遠隔微小環境を再構築する仕組みを検討する。また、臓器指向性ターゲティングと受動的時空間集積の転移への寄与、内皮バリア通過・骨髄系細胞リプログラミング・細胞間ネットワーク統合の組織特異的機構を論じる。臨床的には、エクソソーム液性生検・"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです（500字以内）。\n\n1. **PF4駆動型APS血栓形成**：抗リン脂質症候群の血栓機序をPF4中心に再構築する新視点。難治性血栓症の治療標的として期待されるが、本文未提供のため詳細評価は保留。\n\n2. **NADと慢性肺GVHD**：同種移植後の閉塞性細気管支炎で上皮NAD機構の崩壊を単一細胞解析で解明。免疫抑制に頼らない新規治療戦略につながる可能性。\n\n3. **IFN-λによる先天性ZIKV防御**：母胎界面でIFN-λが母体樹状細胞を介し先天性感染を防ぐ機構を解明。妊娠期感染症の予防法開発に重要な示唆。\n\n4. **IgA腎症におけるエクソソームC3a**：尿中エクソソームC3aがNF-κB炎症軸を起動することを臨床・in vivo・in vitroで示した。非侵襲バイオマーカーと治療標的の両面で有望。\n\n5. **外傷後骨髄EV miRNAとβ遮断薬**：プロプラノロールが外傷誘発性骨髄EV miRNAを再プログラムし造血回復を改善。外傷後貧血への薬理学的介入の分子基盤を提示。\n\n全体として、PF4・NAD・IFN-λ・エクソソームが共通して「炎症・免疫制御の新機序」を照らし、診断・治療応用への展開が期待されます。"
+}

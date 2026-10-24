@@ -1,0 +1,113 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "TIM-3 Functions as an Activator of NK Cells in GBM and Can Be Upregulated by Torin-1: Implications for Exogenous NK Cell Transplantation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42920263/",
+        "abstract": "Functional dysregulation in the microenvironment of glioblastoma (GBM) fuels tumour cell proliferation at the expense of negatively reprogramming natural killer (NK) immunosurveillance. Building on our previous findings that tumour-infiltrating NK cells from GBM patients downregulate TIM-3 and that TIM-3 loss correlates with reduced cytotoxic potential, we sought to further investigate TIM-3 as a marker of functional NK cell activity. Here, we demonstrate that Torin-1, a pharmacological inhibitor of mTOR, upregulates TIM-3 expression on NK cells, sparing and enriching this functionally competent population while simultaneously suppressing GBM metabolism. Using patient data, genetic knockout models, and patient-derived orthotopic xenografts, we characterize TIM-3 as a receptor that contributes to NK cell activation and enables retention of effector function under conditions of torin1 therapy. These findings have direct implications for exogenous NK cell transplantation strategies, suggesting that TIM-3 expression status should be considered in the selection and engineering of NK cell products for adoptive transfer into GBM, and that Torin-1 preconditioning may enhance the functional competence of transplanted NK cells within the tumour microenvironment.",
+        "source": "PubMed",
+        "doi": "10.1111/imm.70211",
+        "keyword": "NK cell therapy",
+        "title_ja": "TIM-3はGBMにおいてNK細胞の活性化因子として機能し、Torin-1により発現が上调されうる：外来性NK細胞移植への示唆",
+        "summary_ja": "グリオブラストーマ（GBM）の微小環境ではNK細胞の免疫監視機能が低下する。GBM患者の腫瘍浸潤NK細胞ではTIM-3が低下し、細胞傷害能の低下と相関する。本研究では、mTOR阻害薬Torin-1がNK細胞のTIM-3発現を亢進し、機能的なNK細胞集団を保持・濃縮しつつGBMの代謝を抑制することを示した。患者データ、遺伝子ノックアウトモデル、患者由来正所性異種移植を用い、TIM-3がNK細胞活性化に寄与し、Torin-1治療下でエフェクター機能を維持させる受容体であることを明らかにした。これらの知見は外因性NK細胞移植戦略に直結し、GBMへの養子移入におけるNK細胞製品の選択・工学にTIM-3発現状態を考慮すべきこと、Torin-1前処置が腫瘍微小環境内での移植NK細胞の機能を高めうることを示唆する。"
+      },
+      {
+        "title": "Stromal B7-H3 Expression Characterizes an Immune-Hot Microenvironment and Predicts Response to PD-1 Blockade in Gastric Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42918619/",
+        "abstract": "We evaluated whether B7-H3, particularly stromal B7-H3, is associated with clinical benefit from programmed cell death protein 1 (PD-1) blockade in gastric cancer (GC) and characterized the immune context underlying this association.",
+        "source": "PubMed",
+        "doi": "10.1016/j.labinv.2026.106174",
+        "keyword": "NK cell therapy",
+        "title_ja": "間質B7-H3発現は免疫ホットな微小環境を特徴づけ、胃癌におけるPD-1阻害への反応を予測する。",
+        "summary_ja": "胃癌（GC）において、間質B7-H3発現がPD-1阻害の臨床的 benefit と関連するか、またその関連背景の免疫微小環境を評価した研究。間質B7-H3発現がimmune-hotな微小環境を特徴づけ、PD-1阻害への反応を予測することを示した。"
+      },
+      {
+        "title": "Circulating immune cells phenotypes discriminate bipolar disorder from major depressive disorder during a depressive episode: A machine learning elastic-net approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42918350/",
+        "abstract": "MDD and BD are characterized by differences in peripheral immune markers, in frequencies of T helper, T cytotoxic, Natural Killer (NK) and T regulatory cells that may contribute to the development of mood disorders. However, few studies have used immune cells populations to discriminate MDD from BD with inconsistent findings. We applied an elastic-net machine learning pipeline predictive model using 5-fold nested cross-validation based on a wide panel of immune cell populations to discriminate between MDD and BD. The sample included 124 MDD and 89 BD hospitalised for depressive episode, and 40 healthy controls (HC). The predictive model achieved an accuracy of 78%, with 76% sensitivity, 80% specificity. The model performed significantly better than chance (p < 0.001). BD diagnosis was associated with higher frequencies of cells populations producing proinflammatory cytokines (i.e. CD4",
+        "source": "PubMed",
+        "doi": "10.1016/j.jad.2026.122658",
+        "keyword": "NK cell therapy",
+        "title_ja": "循環免疫細胞の表現型は抑うつエピソード中の双極性障害と大うつ病性障害を識別する：機械学習エラスティックネットアプローチ",
+        "summary_ja": "MDDとBDは末梢免疫マーカーやTヘルパー、T細胞傷害性、NK細胞、T制御性細胞の頻度の違いで特徴づけられ、気分障害の発症に関与する可能性がある。しかし免疫細胞集団を用いてMDDとBDを識別した研究は少なく、知見も一貫しない。本研究では免疫細胞集団の広範なパネルに基づき、5分割ネスト交差検証を用いたelastic-net機械学習パイプラインの予測モデルを適用し、MDDとBDを識別した。対象は抑うつエピソードで入院したMDD 124例、BD 89例、健常対照（HC）40例。予測モデルは精度78%、感度76%、特異度80%を達成し、偶然より有意に優れていた（p<0.001）。BD診断は炎症性サイトカイン産生細胞集団（例：CD4）の高頻度と関連した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42920755/",
+        "abstract": "Gastric cancer-related long non-coding RNA1 (",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.117935",
+        "keyword": "Exosomes",
+        "title_ja": null,
+        "summary_ja": "提供された情報が「Gastric cancer-related long non-coding RNA1 (」というタイトル途中で切れた断片のみであり、論文本文が含まれていないため、要約を作成することができません。全文をご提供いただければ、400文字以内で専門用語を保ちつつ簡潔に要約いたします。"
+      },
+      {
+        "title": "Genetically Reprogrammed Exosomes for Targeted Prostate Cancer Immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42918474/",
+        "abstract": "As one of top leading cancer deaths in men worldwide, prostate cancer (PCa) remains difficult to cure, underscoring unmet medical needs for innovative treatment options. Exosomes are cell-derived membranous vesicles. They play key roles in cell-to-cell communication and have attracted remarkable interest in drug delivery and development. In this study, we exploited a genetic approach to display both anti-human prostate-specific membrane antigen (PSMA) and anti-human CD3 antibodies on exosomal surface. Through simultaneously targeting T cells and PCa tumors, the resulting prostate cancer immunotherapeutic exosomes (PRO Exos) were designed to induce robust anti-cancer cellular immunity. In vitro and in vivo studies demonstrate potent T-cell mediated cytotoxicity specifically against PSMA-expressing PCa cells. Our findings highlight the potential of genetically reprogrammed exosomes for targeted PCa immunotherapy, representing a promising approach for battling PCa. STATEMENT OF SIGNIFICANCE: This work reports the development of genetically reprogrammed exosomes as an immunotherapeutic approach to prostate cancer. Through genetic display of two distinct types of monoclonal antibodies on exosomal surfaces, exosomes were created to simultaneously engage with human T cells and prostate cancer cells to elicit potent anti-tumor immunity. As a potentially general platform, the immunotherapeutic exosomes provide a strategy with promising efficacy and safety profiles for fighting prostate cancer by inducing host immune responses.",
+        "source": "PubMed",
+        "doi": "10.1016/j.actbio.2026.10.042",
+        "keyword": "Exosomes",
+        "title_ja": "前立腺がんの標的免疫療法のための遺伝子再プログラミングエクソソーム",
+        "summary_ja": "前立腺癌（PCa）は男性の癌死亡原因の上位であり、新規治療法が求められている。エクソソームは細胞由来の膜小胞で、細胞間通信やdrug deliveryで注目されている。本研究では遺伝子工学的手法により、抗ヒトPSMA抗体と抗ヒトCD3抗体をエクソソーム表面に提示した。T細胞とPCa腫瘍を同時に標的とすることで、前立腺癌免疫治療エクソソーム（PRO Exos）は強力な抗腫瘍細胞性免疫を誘導するよう設計された。in vitroおよびin vivo研究で、PSMA発現PCa細胞に対するT細胞媒介性細胞傷害活性が示された。遺伝子再プログラム化エクソソームは標的PCa免疫治療の有望なアプローチである。本研究は、2種類のモノクローナル抗体をエクソソーム表面に遺伝子提示し、T細胞とPCa細胞を同時に動員して抗腫瘍免疫を誘導する免疫治療法を開発した。このエクソソームは安全性と有効性を備えた汎用的プラットフ"
+      },
+      {
+        "title": "Engineered hUC-MSC exosomes loaded with pterostilbene induce Nrf2/SKN-1-dependent microglial M2 polarization and neuroprotection in Alzheimer's disease in vitro and in Caenorhabditis elegans.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42914825/",
+        "abstract": "Alzheimer's disease (AD) is aggravated by overactivated pro-inflammatory M1 microglia. Although pterostilbene (PTE) possesses anti-oxidative and anti-neuroinflammatory activity, its therapeutic application in AD is limited by poor aqueous solubility and weak blood-brain barrier (BBB) penetration. Here, we fabricated pterostilbene-loaded human umbilical cord mesenchymal stem cell exosomes (PTE-Exos) with enhanced BBB permeability via freeze-thaw loading. In vitro BBB and microglia-neuron co-culture models were used to evaluate targeting, immunomodulation, and neuroprotection, while Nrf2 loss-of-function assays and transgenic Caenorhabditis elegans AD strains enabled cross-species mechanistic verification. PTE-Exos efficiently cross the BBB in vitro and selectively accumulate in activated microglia, shifting CD86",
+        "source": "PubMed",
+        "doi": "10.1016/j.intimp.2026.117575",
+        "keyword": "Exosomes",
+        "title_ja": "紫檀芪负载的工程化人脐带间充质干细胞外泌体在体外及秀丽隐杆线虫阿尔茨海默病模型中诱导Nrf2/SKN-1依赖的小胶质细胞M2极化和神经保护作用",
+        "summary_ja": "アルツハイマー病（AD）は過活性化した炎症性M1ミクログリアにより悪化する。プテロスチルベン（PTE）は抗酸化・抗神経炎症作用を持つが、水溶性の低さと血液脳関門（BBB）透過性の弱さが治療応用を制限している。本研究では、凍結融解ローディングによりBBB透過性を高めたPTE封入ヒト臍帯間葉系幹細胞エクソソーム（PTE-Exos）を作製した。in vitro BBBモデルとミクログリア-ニューロン共培養モデルで標的化・免疫調節・神経保護を評価し、Nrf2機能喪失アッセイとトランスジェニック線虫AD株で種横断的機構検証を行った。PTE-Exosはin vitroでBBBを効率的に通過し、活性化ミクログリアに選択的に集積してCD86をシフトさせた。（399文字）"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の注目5トピック：①GBMでTIM-3がNK細胞活性化因子として機能し、Torin-1がその発現を亢進—NK細胞移植療法の強化に有望。②胃癌の間質B7-H3発現がimmune-hot微小環境を特徴づけ、PD-1阻害反応を予測—バイオマーカーとして重要。③免疫細胞表現型と機械学習で双極性障害とMDDを鑑別—精神疾患の免疫学的診断への展望。④遺伝子改変エクソソームによる前立腺癌標的免疫療法—新規デリバリー基盤として注目。⑤hUC-MSCエクソソームにプテロスチルベンを搭載しミクログリアM2極化と神経保護を誘導—AD治療のBBB透過性課題を克服する戦略。全体としてNK細胞・エクソソーム工学・免疫微小環境バイオマーカーの融合が治療応用の鍵となる。"
+}

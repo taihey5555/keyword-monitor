@@ -1,0 +1,232 @@
+{
+  "A": {
+    "医学": [
+      {
+        "title": "Imaging and Analysis of Melanoma-Secreted Extracellular Vesicles in Tumor-Draining Lymph Nodes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42926273/",
+        "abstract": "Small extracellular vesicles (sEVs) are key mediators of intercellular communication and play important roles in both physiological and pathological processes. In cancer, sEVs mediate communication between the tumor and its microenvironment but also contribute to metastatic organotropism and the formation of pre-metastatic niches in regional and distant organs. Lymph nodes (LNs) are central regulators of immune responses and primary sites of early metastasis, and, as such, they are critical targets for understanding cancer progression and improving immunotherapy. sEVs contribute to the conditioning of lymph nodes during pre-metastatic niche formation by altering lymphatic endothelial cell function and modulating immune cell populations, thereby promoting tumor progression. Because these interactions are complex and dynamic, their study requires in vivo models and specifically tailored sEVs-based techniques. In this chapter, we describe several approaches for studying sEVs in the LN context, including biodistribution analysis in the lymphatic system, imaging by immunofluorescence, and uptake measurement by flow cytometry.",
+        "source": "PubMed",
+        "doi": "10.1007/978-1-0716-5619-8_14",
+        "keyword": "Exosomes",
+        "matched_keywords": [
+          "Exosomes",
+          "sEVs"
+        ],
+        "title_ja": "メラノーマが分泌する細胞外小胞の腫瘍所属リンパ節におけるイメージングと解析",
+        "summary_ja": "本論文は、small extracellular vesicles（sEVs）が癌の進展や転移において果たす役割と、リンパ節（LN）におけるsEVs研究手法を述べている。sEVsは腫瘍と微小環境間の通信を媒介し、転移臓器指向性やpre-metastatic niche形成に寄与する。LNは免疫応答の中心的制御器官かつ早期転移の主要部位であり、sEVsはlymphatic endothelial cell機能の変化や免疫細胞集団の調節を通じてpre-metastatic niche形成期のLN conditioningに関与する。これらの複雑かつ動的な相互作用の研究にはin vivoモデルとsEVs特異的手法が必要である。本章では、リンパ系におけるbiodistribution解析、immunofluorescenceによるイメージング、flow cytometryによるuptake測定など"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Platelet-macrophage crosstalk in cardiac inflammation and remodeling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42925935/",
+        "abstract": "Cardiac injury and chronic heart disease are increasingly recognized as multicellular processes driven by dynamic interactions between immune and thrombotic signaling networks. Although platelets and macrophages have been extensively studied individually, the molecular mechanisms through which their reciprocal interactions regulate cardiac inflammation and remodeling remain incompletely defined. A comprehensive understanding of this cellular crosstalk is needed to define the signaling pathways that couple acute injury responses to chronic maladaptive remodeling. Among these interactions, platelet-macrophage crosstalk has emerged as an important regulator of inflammatory responses and tissue remodeling within the injured myocardium. Beyond their traditional roles in hemostasis and innate immunity, platelets communicate with macrophages through adhesion molecules, soluble mediators, and extracellular vesicles, thereby modulating macrophage activation and functional reprogramming. Platelet-derived mediators, including P-selectin, CD40L, PF4 (CXCL4), CCL5, and platelet-derived extracellular vesicles, modulate macrophage inflammatory signaling, cytokine production, redox balance, metabolic reprogramming, and pro-fibrotic responses relevant to cardiac remodeling. During acute myocardial injury, these interactions facilitate immune-cell recruitment, efferocytosis, and tissue repair, whereas persistent platelet-macrophage communication promotes chronic inflammation, extracellular matrix remodeling, and progression to heart failure. This review summarizes current molecular insights into platelet-macrophage interactions, focusing on receptor-mediated signaling, extracellular vesicle cargo transfer, immunometabolic regulation, and redox-dependent pathways. We also discuss emerging evidence linking this axis to trained immunity and inflammatory memory and highlight potential molecular targets for modulating maladaptive immune remodeling in cardiovascular disease.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbamcr.2026.120240",
+        "keyword": "PF4",
+        "title_ja": "心臓の炎症とリモデリングにおける血小板とマクロファージのクロストーク",
+        "summary_ja": "心損傷と慢性心疾患は、免疫系と血栓シグナルネットワークの動的相互作用による多細胞プロセスとして認識されつつある。血小板とマクロファージは個別に研究されてきたが、両者の相互作用的クロストークが心炎症とリモデリングを制御する分子機構は未解明である。血小板-マクロファージ間クロストークは、損傷心筋における炎症応答と組織リモデリングの重要制御因子として注目されている。血小板は止血・自然免疫の伝統的役割を超え、接着分子、可溶性メディエーター、細胞外小胞を介してマクロファージと通信し、その活性化と機能的リプログラミングを調節する。P-selectin、CD40L、PF4（CXCL4）、CCL5、血小板由来細胞外小胞などがマクロファージの炎症シグナル、サイトカイン産生、レドックスバランス、代謝リプログラミング、線維化応答を調節する。急性心筋損傷時には免疫細胞動員、efferocytosis、組織修復を促"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Transient clinical improvement and immune modulation following recombinant Zoster vaccination in a patient with ME/CFS.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42927120/",
+        "abstract": "Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a debilitating multisystem disorder associated with immune dysregulation yet lacks definitive biomarkers or effective therapies. Acute immune perturbations may transiently modulate disease manifestations.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbih.2026.101388",
+        "keyword": "NK cell therapy",
+        "title_ja": "ME/CFS患者における組換え帯状疱疹ワクチン接種後の一過性臨床改善と免疫調節",
+        "summary_ja": "組換え帯状疱疹ワクチン接種後に一過性の臨床的改善と免疫調節がみられたME/CFS患者の症例報告。ME/CFSは免疫調節異常を伴う多系統疾患だが、確定的なバイオマーカーや有効な治療法が存在しない。急性の免疫撹乱が疾患症状を一過性に調節する可能性がある。"
+      },
+      {
+        "title": "Non-viral delivery and genome editing for CAR-NK engineering in solid tumors: from ex vivo manufacturing to in vivo reprogramming.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42925903/",
+        "abstract": "Chimeric antigen receptor (CAR)-engineered natural killer (NK) cell therapy has emerged as a promising immunotherapeutic strategy for cancer treatment, offering advantages over CAR-T cells such as a lower risk of cytokine release syndrome and graft-versus-host disease and the potential for off-the-shelf manufacturing. Viral vectors have long served as effective tools for CAR-NK engineering, but their dependence on complex manufacturing procedures, considerable production costs, and the potential risks associated with genomic integration has encouraged increasing interest in non-viral alternatives. Recent advances in genetic engineering technologies have facilitated the development of CAR-NK platforms, particularly through non-viral delivery approaches including electroporation, transposon systems and lipid nanoparticles, while CRISPR-based tools enable targeted genome editing. Meanwhile, an increasing number of clinical trials have begun to evaluate the safety and therapeutic potential of CAR-NK cells in both hematological malignancies and solid tumors. However, challenges such as limited NK-cell persistence, antigen heterogeneity, and the immunosuppressive tumor microenvironment remain. In this review, we summarize recent progress in non-viral CAR-NK engineering strategies, analyze the current landscape of preclinical and clinical trials, and discuss key challenges and future directions for advancing CAR-NK therapy. Collectively, these advances suggest that non-viral engineering technologies may serve as an important technological foundation for next-generation CAR-NK therapies, enabling more flexible ex vivo manufacturing and potentially supporting the future development of in vivo CAR-NK generation strategies for solid tumors.",
+        "source": "PubMed",
+        "doi": "10.1016/j.ijpharm.2026.127580",
+        "keyword": "NK cell therapy",
+        "title_ja": "固形腫瘍におけるCAR-NK工学のための非ウイルス送達とゲノム編集：ex vivo製造からin vivoリプログラミングまで",
+        "summary_ja": "CAR-NK細胞療法は、サイトカイン放出症候群やGVHDのリスクが低く、off-the-shelf製造が可能な点でCAR-T細胞より優れる。従来はウイルスベクターが用いられたが、製造の複雑さ・コスト・ゲノム挿入リスクから、エレクトロポレーション、トランスポゾン系、脂質ナノ粒子などの非ウイルス送達法やCRISPRによるゲノム編集への関心が高まっている。CAR-NKの臨床試験も血液悪性腫瘍・固形腫瘍で進むが、NK細胞の持続性、抗原不均一性、免疫抑制性腫瘍微小環境が課題である。本レビューは非ウイルスCAR-NK工学の進展、前臨床・臨床試験の現状、課題と将来展望を論じ、非ウイルス技術が次世代CAR-NK療法の基盤となり、ex vivo製造の柔軟化や固形腫瘍向けin vivo CAR-NK作製戦略の開発を支え得ると結論する。"
+      },
+      {
+        "title": "From dual targeting to dynamic targeting: Rethinking CAR-NK cell therapy for pancreatic cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42921225/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.omton.2026.201358",
+        "keyword": "NK cell therapy",
+        "title_ja": "从双靶向到动态靶向：重新思考胰腺癌的CAR-NK细胞疗法。",
+        "summary_ja": "ご提示いただいた論文タイトル「From dual targeting to dynamic targeting: Rethinking CAR-NK cell therapy for pancreatic cancer.」のみでは本文が含まれていないため、正確な要約ができません。本文（アブストラクト等）をご提供いただけますか。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Generation of hypoimmunogenic cardiomyocytes from human induced pluripotent stem cells with TAPBP knockout.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42927351/",
+        "abstract": "Immunological rejection is a challenge for the transplantation of cardiomyocytes (CMs) derived from human induced pluripotent stem cells (hiPSCs). TAP-binding protein knockout (TAPBP-KO) hiPSC-derived CMs (hiPSC-CMs) were used to reduce human leukocyte antigen class I expression and their hypoimmunogenic potential was determined. TAPBP-KO hiPSC-CMs exhibited CM differentiation efficiency and functional properties comparable to those of controls. The immunological responses against cytotoxic T lymphocytes (CTLs) or natural killer cells (NK cells) were measured using the production of inflammatory cytokines, the expression of degranulation markers, and cell viability upon co-cultivation with hiPSC-CMs. The CTL-mediated cytotoxicity was lower in TAPBP-KO hiPSC-CMs than in controls. TAPBP-KO hiPSC-CMs did not induce cytotoxicity from NK cells. This approach can preclude immunological rejection from CTLs without initiating the innate immune response from NK cells, thereby expanding the access to cell therapy for patients with heart failure.",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.117933",
+        "keyword": "NK cell therapy",
+        "title_ja": "TAPBPノックアウトによるヒト人工多能性幹細胞からの低免疫原性心筋細胞の作製",
+        "summary_ja": "hiPSC由来心筋細胞（hiPSC-CM）移植における免疫拒絶が課題である。TAPBPノックアウト（TAPBP-KO）hiPSC-CMを作製し、HLAクラスI発現を低下させ、その低免疫原性を評価した。TAPBP-KO hiPSC-CMは分化効率・機能特性とも対照と同等であった。細胞傷害性Tリンパ球（CTL）やナチュラルキラー（NK）細胞との共培養で、炎症性サイトカイン産生、脱顆粒マーカー発現、細胞生存率を測定した。CTL媒介性細胞傷害は対照より低く、NK細胞による細胞傷害も誘導されなかった。本手法はCTLによる免疫拒絶を回避しつつNK細胞の自然免疫応答を惹起せず、心不全患者の細胞治療の適用拡大に寄与しうる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Correction: Prospect of exosomal circular RNAs in breast Cancer: presents and future.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42927584/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-13019-8",
+        "keyword": "Exosomes",
+        "title_ja": "訂正：乳がんにおけるエクソソーム環状RNAの展望：現状と未来",
+        "summary_ja": "ご提示いただいた情報にはタイトル「Correction: Prospect of exosomal circular RNAs in breast Cancer: presents and future.」のみで、本文内容が含まれていません。そのため、正確な要約を作成することができません。\n\n本文（アブストラクトや訂正内容の詳細）をご提供いただければ、400文字以内で専門用語を保ちつつ要約いたします。"
+      },
+      {
+        "title": "miR-138-5p: From Multidimensional Tumor-Suppressive Regulatory Networks to Nanocarrier-Based Delivery for Solid Tumor Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42927549/",
+        "abstract": "MicroRNA-138-5p (miR-138-5p) has been reported to exert tumor-suppressive effects in several solid tumors, and its downregulation has been associated with malignant progression, therapeutic resistance, and poor prognosis.",
+        "source": "PubMed",
+        "doi": "10.1007/s40199-026-00683-1",
+        "keyword": "Exosomes",
+        "title_ja": "miR-138-5p：多次元の腫瘍抑制制御ネットワークから固形腫瘍治療のためのナノキャリアベースデリバリーまで",
+        "summary_ja": "miR-138-5pは複数の固形腫瘍で腫瘍抑制効果を示し、その発現低下は悪性進行、治療抵抗性、予後不良と関連する。本論文は、miR-138-5pが多次元的な腫瘍抑制制御ネットワークを形成する点と、固形腫瘍治療に向けたナノキャリアベースのデリバリーへの応用可能性を論じている。（約120文字）"
+      },
+      {
+        "title": "Post-Lymphadenectomy Analysis of Small Extracellular Vesicles from Lymphatic Drainage/Exudative Seroma of Melanoma Patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42926272/",
+        "abstract": "Circulating extracellular vesicles (EVs) have emerged as a promising source of disease biomarkers in biofluids. Although multiple isolation methods are available, differential ultracentrifugation remains a gold standard for small EV purification. Small EVs purified using this approach retain functional activity both in vitro and in vivo and are suitable for downstream applications, including proteomics, electron microscopy, mass spectrometry, and nucleic acid analysis. An additional purification step, either by density gradient centrifugation or size-exclusion chromatography, allows for the isolation of highly pure EV fractions for subsequent biomarker analysis. Here, we describe a protocol based on differential ultracentrifugation followed by a density gradient centrifugation or size exclusion chromatography step for the recovery of highly pure small extracellular vesicles (EVs) from lymphatic exudate (seroma) collected following lymphadenectomy, with the aim of supporting biomarker discovery and liquid biopsy applications.",
+        "source": "PubMed",
+        "doi": "10.1007/978-1-0716-5619-8_13",
+        "keyword": "Exosomes",
+        "title_ja": "メラノーマ患者のリンパ節郭清後におけるリンパ排液/滲出性漿液腫由来の小型細胞外小胞の解析",
+        "summary_ja": "リンパ節郭清後のメラノーマ患者から採取したリンパ液（漿液腫）中のsmall extracellular vesicles（EVs）の解析プロトコル。血中EVsはバイオマーカー源として有望だが、small EV精製のゴールドスタンダードは示差超遠心法である。この方法で精製したsmall EVsはin vitro・in vivoで機能活性を保持し、プロテオミクス、電子顕微鏡、質量分析、核酸解析などに適する。さらに密度勾配遠心法またはサイズ排除クロマトグラフィーによる追加精製で、高純度EV画分を回収できる。本稿では、リンパ節郭清後に採取したリンパ液（漿液腫）から高純度small EVsを回収するため、示差超遠心法に密度勾配遠心法またはサイズ排除クロマトグラフィーを組み合わせたプロトコルを記述する。目的はバイオマーカー探索とリキッドバイオプシー応用の支援である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "miR-21a-5p targets DDX58 to suppress TLR2/NF-κB signaling and protect the blood-brain barrier after injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42927575/",
+        "abstract": "Damage to the blood-brain barrier (BBB) plays a pivotal role in the pathogenesis of various neurological disorders. miR-21a-5p has been implicated in the modulation of BBB injury. Understanding the molecular targets of miR-21a-5p is crucial for developing targeted interventions in BBB repair.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-13010-3",
+        "keyword": "Exosomes",
+        "title_ja": "miR-21a-5pはDDX58を標的としてTLR2/NF-κBシグナル伝達を抑制し、損傷後の血液脳関門を保護する。",
+        "summary_ja": "本論文は、血液脳関門（BBB）損傷におけるmiR-21a-5pの役割と分子標的を検討したものである。BBB障害は種々の神経疾患の病態に重要であり、miR-21a-5pはBBB損傷の調節に関与することが示唆されている。研究ではmiR-21a-5pがDDX58を標的とし、TLR2/NF-κBシグナル伝達を抑制することで損傷後のBBBを保護する機序が明らかにされた。miR-21a-5pの分子標的の理解は、BBB修復に向けた標的介入の開発に不可欠である。"
+      },
+      {
+        "title": "Engineering exosomes-mediated RNA delivery regulates bone homeostasis and alleviates osteoporosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42927301/",
+        "abstract": "Osteoporosis is characterized by dysregulated bone remodeling driven by excessive osteoclast-mediated bone resorption and insufficient osteoblast-mediated bone formation, often exacerbated by chronic inflammation and oxidative stress. Current pharmacological therapies remain limited by suboptimal efficacy and adverse effects, highlighting the need for alternative strategies that restore bone homeostasis. Here, we developed a bone-targeted, multifunctional exosome-based therapeutic platform by engineering M2 macrophage-derived exosomes co-loaded with platinum nanoparticles (Pt NPs) and a miR-196b inhibitor (BT-Exo-Pt-miR-196 inhibitor). The engineered exosomes exhibited preserved structural integrity, favorable biocompatibility, efficient bone-targeting capability, and excellent in vivo biosafety. Pt NPs endowed the system with robust reactive oxygen species (ROS)-scavenging activity, while M2-derived exosomes and miR-196b inhibition synergistically attenuated inflammatory cytokine expression. In vitro, BT-Exo-Pt-miR-196 inhibitor markedly enhanced osteogenic differentiation, extracellular matrix maturation, and mineralization through coordinated upregulation of osteogenic transcription factors and matrix proteins. Concurrently, osteoclastogenesis was significantly suppressed, as evidenced by reduced TRAP-positive multinucleated cells, impaired actin ring formation, and downregulation of NFATc1 and downstream osteoclast-associated markers. In an ovariectomy-induced osteoporosis mouse model, bone-targeted delivery of BT-Exo-Pt-miR-196 inhibitor effectively preserved trabecular bone microarchitecture, enhanced osteogenic activity, reduced osteoclast function, and alleviated bone loss without inducing systemic toxicity. Collectively, this study demonstrates that bone-targeted M2 macrophage-derived exosomes delivering a miR-196b inhibitor represent a promising immunomodulatory and gene-regulatory nanotherapeutic strategy for restoring bone homeostasis and treating osteoporosis.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103758",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームを利用したRNA送達の工学的手法は骨恒常性を制御し、骨粗鬆症を軽減する。",
+        "summary_ja": "骨粗鬆症は、破骨細胞による過剰な骨吸収と骨芽細胞による不十分な骨形成、慢性炎症や酸化ストレスにより骨リモデリングが破綻する疾患である。既存薬は効果不足や副作用が課題である。本研究では、M2マクロファージ由来エクソソームに白金ナノ粒子（Pt NPs）とmiR-196b阻害剤を共搭載した骨標的型治療プラットフォーム（BT-Exo-Pt-miR-196阻害剤）を開発した。本エクソソームは構造維持、生体適合性、骨標的能、生体内安全性に優れ、Pt NPsがROS消去能を、M2エクソソームとmiR-196b阻害が相乗的に炎症性サイトカイン発現を抑制した。in vitroでは骨芽細胞分化・石灰化を促進し、TRAP陽性多核細胞やNFATc1発現を抑制し破骨細胞形成を阻害した。卵巣摘出マウスモデルで骨梁微細構造を保持し骨損失を軽減した。本戦略は骨恒常性回復と骨粗鬆症治療に有望である。"
+      },
+      {
+        "title": "EMSCs-derived exosomes rescue p75NTR",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42927286/",
+        "abstract": "The repair of the critical-sized bone defects remains a major challenge for orthopedic surgeons, particularly when osteogenesis is impaired by p75 neurotrophin receptor (p75NTR) deficiency. However, the underlying molecular mechanisms are not fully understood. This study aimed to clarify the role of p75NTR in bone regeneration and to develop a cell-free approach to rescue p75NTR",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103755",
+        "keyword": "Exosomes",
+        "title_ja": "EMSC由来エクソソームはp75NTRをレスキューする",
+        "summary_ja": "p75NTR欠損により骨形成が障害された場合の骨再生機構は未解明である。本研究はp75NTRの骨再生における役割を明らかにし、p75NTRをレスキューする無細胞療法の開発を目的とした。EMSCs由来エクソソームがp75NTR欠損をレスキューし、難治性骨欠損修復に寄与する可能性を示した。"
+      },
+      {
+        "title": "Targeting the lactate/P300/H3K18la epigenetic pathway with a mechanoadaptive biomimetic hydrogel to suppress traumatic tendon heterotopic ossification.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42927122/",
+        "abstract": "Traumatic heterotopic ossification (HO) is a debilitating complication of tendon injury, yet its pathogenic mechanisms remain elusive and effective preventive strategies are lacking. Here, we identify a glycometabolic-epigenetic axis that drives HO progression. Single-cell profiling and functional analyses reveal that hypoxic chondrocytes undergo glycolytic reprogramming, leading to lactate accumulation and transfer into tendon-derived mesenchymal stem cells (TD-MSCs) through MCT1. This metabolic coupling promotes P300-dependent histone H3 lysine 18 lactylation (H3K18la), activating osteogenic programs characterized by ",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.10.006",
+        "keyword": "Exosomes",
+        "title_ja": "靶向乳酸/P300/H3K18la表观遗传通路联合力学适应性仿生水凝胶抑制创伤性肌腱异位骨化",
+        "summary_ja": "外傷性異所性骨化（HO）は腱損傷の重篤な合併症だが、病態機序は不明で有効な予防法もない。本研究はHO進行を駆動する糖代謝-エピジェネティック軸を同定した。単一細胞解析と機能解析により、低酸素軟骨細胞が解糖系リプログラミングを起こし、乳酸が蓄積してMCT1を介し腱由来間葉系幹細胞（TD-MSC）へ移行することが判明。この代謝カップリングがP300依存性のヒストンH3リジン18ラクチル化（H3K18la）を促進し、骨形成プログラムを活性化する。研究では乳酸/P300/H3K18laエピジェネティック経路を標的とし、力学的適応型バイオミメティックヒドロゲルを用いてHOを抑制する戦略を提示している。"
+      },
+      {
+        "title": "Bone-targeting engineered exosomes delivering teriparatide mRNA for the treatment of osteoporosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42926909/",
+        "abstract": "Teriparatide (TPTD) is an established osteoanabolic agent for the treatment of osteoporosis; however, its short circulating half-life necessitates repeated administration, while limited skeletal selectivity may reduce delivery efficiency. To address these limitations, we developed an Asp6-functionalized, bone-targeting exosome system carrying TPTD mRNA (Asp6-Exo@TPTD). An Exo-Motif sequence was incorporated into the TPTD mRNA construct to facilitate hnRNPA2B1-associated enrichment of the transcript in exosomes, while surface modification with the hydroxyapatite-binding peptide Asp6 was used to enhance skeletal affinity. BMSC-derived exosomes may additionally provide intrinsic regenerative signals that complement the osteoanabolic activity of TPTD.",
+        "source": "PubMed",
+        "doi": "10.1016/j.reth.2026.101185",
+        "keyword": "Exosomes",
+        "title_ja": "骨標的化工学エクソソームによるテリパラチドmRNA送達を用いた骨粗鬆症治療",
+        "summary_ja": "テリパラチド（TPTD）は骨粗鬆症治療の骨形成促進薬だが、血中半減期が短く頻回投与が必要で、骨選択性の低さが送達効率を低下させる。そこでAsp6修飾による骨標的化エクソソームにTPTD mRNAを搭載したAsp6-Exo@TPTDを開発した。TPTD mRNA構築体にExo-Motif配列を組み込み、hnRNPA2B1を介したエクソソーム内への濃縮を促進し、表面をヒドロキシアパタイト結合ペプチドAsp6で修飾して骨親和性を高めた。BMSC由来エクソソームは内在性の再生シグナルを提供し、TPTDの骨形成促進作用を補完する可能性がある。"
+      },
+      {
+        "title": "A Rapid Exosome Isolation Using Ultrafiltration and Size Exclusion Chromatography (REIUS) Method for Exosome Isolation from Melanoma Cell Lines.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42926271/",
+        "abstract": "Cells release extracellular vesicles (EVs) that can be detected both in vivo and in cell culture medium. Among EVs, exosomes are 50-150 nm vesicles that are systematically packaged into multivesicular bodies for release into the external environment. In cancer, these intentionally packaged exosomes carry a payload of molecules such as protein, RNA, and surface receptors that facilitate the reprogramming of proximal cells to assemble a pro-tumor microenvironment. Exosomes have been implicated as an important intermediary extracellular communication pathway between cells, including in melanoma. Human melanoma-derived exosomes (HMEX) have been demonstrated to modulate the extracellular environment and inhibit immune cell activation. There are many methods to isolate and enrich for exosomes, and the method applied can impact yield and purity of the isolates. In this chapter, we describe the REIUS (Rapid Exosome Isolation Using Size exclusion chromatography) method to isolate HMEX from melanoma cell cultures and then demonstrate their enrichment using molecular and microscopic approaches.",
+        "source": "PubMed",
+        "doi": "10.1007/978-1-0716-5619-8_12",
+        "keyword": "Exosomes",
+        "title_ja": "メラノーマ細胞株からのエクソソーム単離のための限外濾過とサイズ排除クロマトグラフィーを用いた迅速なエクソソーム単離（REIUS）法",
+        "summary_ja": "細胞は細胞外小胞（EVs）を放出し、生体内および培養液中で検出可能である。EVsのうちエクソソームは50-150nmの小胞で、多胞体に取り込まれ外部環境へ放出される。がんでは、タンパク質・RNA・表面受容体などを含むエクソソームが近接細胞を再プログラムし、腫瘍促進性微小環境を形成する。エクソソームはメラノーマを含む細胞間の重要な細胞外コミュニケーション経路であり、ヒトメラノーマ由来エクソソーム（HMEX）は細胞外環境を調節し免疫細胞活性化を抑制する。エクソソームの単離・濃縮法は多数あり、方法により収量と純度が異なる。本章では、メラノーマ培養からHMEXを単離するREIUS（限外濾過とサイズ排除クロマトグラフィーを用いた迅速エクソソーム単離）法を述べ、分子的・顕微鏡的手法による濃縮の実証を示す。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Tachy-paced cardiomyocyte-derived small extracellular vesicles impair SERCA2a-dependent Ca",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42927336/",
+        "abstract": "Sustained tachyarrhythmia is a major cause of cardiac dysfunction and can lead to tachycardia-induced cardiomyopathy (TIC). However, the role of small extracellular vesicle (sEV)-mediated intercellular communication in the pathogenesis of TIC remains poorly understood. We aimed to investigate whether sEVs derived from tachy-paced cardiomyocytes affect intracellular Ca",
+        "source": "PubMed",
+        "doi": "10.1016/j.jmccpl.2026.100874",
+        "keyword": "sEVs",
+        "title_ja": "速いペースの心筋細胞由来の小型細胞外小胞はSERCA2a依存性Caを障害する",
+        "summary_ja": "持続性頻脈は心機能障害の主要原因で、頻脈誘発性心筋症（TIC）を引き起こす。本研究は、頻拍ペーシング心筋細胞由来のsmall extracellular vesicle（sEV）が細胞間コミュニケーションを介してTIC発症に関与するか、特に細胞内Ca動態への影響を検討した。タイトルが示す通り、頻拍ペーシング心筋細胞由来sEVがSERCA2a依存性Ca制御を障害することが示唆される。sEVを介した細胞間情報伝達がTIC病態に関与する可能性を示す知見である。"
+      },
+      {
+        "title": "ATG9 and ATG2 as lipid managers at the crossroads of autophagy and extracellular vesicle secretion.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42926331/",
+        "abstract": "Macroautophagy/autophagy maintains cellular homeostasis by delivering cytoplasmic cargo to lysosomes for degradation. Autophagosome formation requires a substantial supply of phospholipids, mainly supported by the lipid scramblase ATG9A and lipid-transfer proteins ATG2A and ATG2B. Our recent study shows that loss of these proteins also alters small extracellular vesicle (sEV) secretion and composition. Cells lacking ATG9A or ATG2A/B release more sEVs during lysosomal inhibition, yet these vesicles contain less microtubule-associated protein 1A/1B-light chain 3 (LC3) and canonical autophagy cargo receptors. These changes are accompanied by impaired amphisome formation and extensive remodeling of the cellular lipidome. Our findings suggest that ATG9A and ATG2A/B coordinate membrane and cargo distribution between autophagy and endosomal secretion, raising the possibility that disrupted lipid supply to autophagosomes redirects lipids toward extracellular vesicle (EV) biogenesis.",
+        "source": "PubMed",
+        "doi": "10.1080/15548627.2026.2752748",
+        "keyword": "sEVs",
+        "title_ja": "ATG9とATG2：オートファジーと細胞外小胞分泌の交差点における脂質マネージャー",
+        "summary_ja": "マクロオートファジー/オートファジーは細胞質カーゴをリソソームへ送り分解することで細胞恒常性を維持する。オートファゴソーム形成にはリン脂質の大量供給が必要で、主に脂質スクランブラーゼATG9Aと脂質転移タンパク質ATG2A/ATG2Bが担う。最近の研究で、これらの喪失がsmall extracellular vesicle（sEV）の分泌と組成を変化させることが示された。ATG9AまたはATG2A/B欠損細胞はリソソーム阻害時にsEVを多く放出するが、それらはLC3や正規のオートファジーカーゴ受容体をより少なく含む。これらの変化にはアンフィソーム形成障害と細胞脂質ームの広範な再構築が伴う。ATG9AとATG2A/Bがオートファジーとエンドソーム分泌間の膜・カーゴ分配を調整し、オートファゴソームへの脂質供給障害が脂質をEV生合成へ振り向ける可能性を示唆する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の論文から注目すべき5トピックを選定します。\n\n1. **CAR-NK細胞療法の非ウイルスゲノム編集**：CAR-NKは低毒性・off-the-shelf製造可能でCAR-Tの課題を克服しうる。エレクトロポレーション等の非ウイルス手法により、コスト・挿入リスクを低減し固形腫瘍への応用が期待される。\n\n2. **メラノーマsEVのリンパ節解析**：sEVsは腫瘍微小環境との通信を媒介し転移指向性に関与する。リンパ節・漿液腫中のsEV解析はバイオマーカー開発と転移機序解明に重要で、標準化された精製プロトコルの確立が今後の鍵となる。\n\n3. **エクソソームによる骨粗鬆症治療**：M2マクロファージ由来エクソソームや骨標的化エクソソームによるTPTD mRNA送達は、既存薬の副作用・半減期問題を克服する無細胞療法として有望である。\n\n4. **miR-138-5pの腫瘍抑制とナノキャリア送達**：多面的な腫瘍抑制ネットワークを形成するmiR-138-5pの発現低下は予後不良と関連し、ナノキャリアによる補充療法は固形腫瘍治療の新戦略となる。\n\n5. **心筋sEVと頻脈誘発性心筋症**：頻拍ペーシング心筋細胞由来sEVがSERCA2a依存性Ca制御を障害しTIC発症に関与するという知見は、細胞間コミュニケーションを標的とした心不全治療の可能性を示す。\n\n以上、EV/エクソソームを介した診断・治療応用と、NK細胞療法の工学的進展が本日の主要潮流である。"
+}

@@ -1,0 +1,94 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Integrative Genetic, Transcriptomic, and Single-Cell Analyses Prioritize Druggable Candidate Genes in Knee Osteoarthritis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42929463/",
+        "abstract": "Knee osteoarthritis (KOA) is a common degenerative joint disease with a complex pathogenesis and a lack of effective molecular targets. This study aimed to prioritize druggable genes associated with KOA and investigate their expression patterns and cellular localization by integrating genetic, transcriptomic, and single-cell analyses. We first screened for potential druggable genes genetically associated with KOA using MR analysis. Subsequently, batch-corrected synovial transcriptomic data were analyzed using weighted gene co-expression network analysis (WGCNA), and the genes of the most relevant module were integrated with the MR candidates. A total of 127 machine-learning pipelines were evaluated using repeated nested cross-validation, followed by external validation and SHapley Additive exPlanations (SHAP) interpretation. The expression levels of key genes were further validated by experiments. Single-cell RNA sequencing, immune-cell deconvolution, and peripheral immune-cell-specific eQTL-MR were used to investigate the cellular contexts potentially associated with the candidate genes. Finally, potential drug-gene interactions were retrieved from DGIdb, and selected target-compound pairs were evaluated using molecular docking and molecular dynamics simulations. A total of 315 druggable genes showed nominal MR associations with KOA. After integrating KOA-associated WGCNA module, we identified 15 candidate genes. Next, the random forest was selected as the optimal machine-learning model, achieving a mean outer-cross-validation AUC of 0.929 (95% CI, 0.913-0.945). SHAP and differential-expression analyses prioritized four genes. JUN, ADAMTS1, and CRISPLD2 were downregulated in KOA synovium, whereas CX3CR1 was upregulated, and these expression patterns were supported by experimental validation. Single-cell analysis revealed that JUN, ADAMTS1, and CRISPLD2 were predominantly expressed in fibroblast-related populations and CX3CR1 was mainly expressed in myeloid cells, with their expression varying across fibroblast and macrophage states. Peripheral immune-cell-specific eQTL-MR identified nominal associations for JUN in plasma cells, ADAMTS1 in NK_R cells, and CX3CR1 in NK cells. However, none remained significant after correction for multiple testing. Molecular docking and molecular dynamics simulations showed that the ADAMTS1-pravastatin and CX3CR1-Rugocrixan complexes maintained stable protein-ligand contacts during their respective simulations. Integrative multi-omics analyses identified JUN, ADAMTS1, CRISPLD2, and CX3CR1 as prioritized candidate genes associated with KOA. These genes were associated with distinct states of synovial fibroblasts and myeloid cells. These findings provide a foundation for further mechanistic validation and experimental evaluation of candidate drug-target interactions.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202601371R",
+        "keyword": "NK cell therapy",
+        "title_ja": "統合的遺伝子・トランスクリプトーム・単一細胞解析により膝変形性関節症における創薬標的候補遺伝子を優先特定",
+        "summary_ja": "膝変形性関節症（KOA）の治療標的候補遺伝子を同定するため、遺伝・トランスクリプトーム・単一細胞解析を統合した研究。MR解析でKOAと関連する315の創薬可能遺伝子を抽出し、WGCNAの関連モジュールと統合して15候補に絞り込んだ。127の機械学習パイプラインを評価し、ランダムフォレストが最良（AUC 0.929）であった。SHAP解析と発現解析によりJUN、ADAMTS1、CRISPLD2（KOA滑膜で低下）、CX3CR1（上昇）の4遺伝子を優先した。単一細胞解析ではJUN、ADAMTS1、CRISPLD2は線維芽細胞系、CX3CR1は骨髄系細胞に主に発現し、細胞状態により発現が変動した。免疫細胞特異的eQTL-MRでは名目上の関連のみで多重検定補正後は有意でなかった。分子ドッキングと動力学シミュレーションでADAMTS1-プラバスタチン、CX3CR1-リバーロキサバン複合体の安定性を確"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Inhalable PD-1 Exosomes Co-Delivering EP2/EP4 Antagonists Remodel the Pulmonary Tumor Microenvironment in Breast Cancer Lung Colonization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42929240/",
+        "abstract": "Developing effective nanomedicines for pulmonary metastasis remains challenging because of systemic clearance and local stromal barriers. Guided by single-cell transcriptomic profiling, we characterized a compartmentalized immunosuppressive network involving PGE2 and provide a biological rationale for coordinated EP2/EP4 antagonism. We therefore engineered an inhalable biomimetic platform (PD-1@E2/4 Exo) comprising PD-1-displaying exosomes co-loaded with EP2 and EP4 antagonists. Compared with intravenous administration, nebulized delivery increased pulmonary exposure of the engineered vesicles. Within the pulmonary tumor setting, surface PD-1 is intended to interfere with PD-1/PD-L1 signaling, while the co-delivered antagonists target the EP2/EP4 immunosuppressive axis. Treatment was associated with macrophage reprogramming, increased oxidative stress, and enhanced ICD-related responses in tumor cells. In the experimental breast-cancer lung-colonization model, the inhaled formulation reduced established pulmonary tumor burden and was accompanied by systemic immune-memory responses. These findings provide a preclinical study for integrating local pulmonary delivery with coordinated metabolic and immune modulation in breast cancer lung disease.",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.71896",
+        "keyword": "Exosomes",
+        "title_ja": "吸入型PD-1外泌体共递送EP2/EP4拮抗剂重塑乳腺癌肺部定植中的肺部肿瘤微环境。",
+        "summary_ja": "単細胞トランスクリプトーム解析により、PGE2を介した区画化された免疫抑制ネットワークを同定し、EP2/EP4拮抗薬の協調的阻害の生物学的根拠を示した。そこでPD-1提示エクソソームにEP2/EP4拮抗薬を共封入した吸入型生体模倣プラットフォーム（PD-1@E2/4 Exo）を開発した。ネブライズ投与は静脈内投与より肺曝露を増大させた。肺腫瘍環境で表面PD-1はPD-1/PD-L1シグナルを阻害し、共送達された拮抗薬はEP2/EP4免疫抑制軸を標的とする。治療はマクロファージのリプログラミング、酸化ストレス増大、腫瘍細胞のICD関連応答増強と関連した。乳がん肺コロニー形成モデルで吸入製剤は肺腫瘍負荷を減少させ、全身性免疫記憶応答を伴った。これらの知見は肺局所送達と代謝・免疫調節の統合の前臨床的根拠を提供する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Beyond a Single Mechanism: The iron-ROS-lipid Peroxidation Axis as a Central Driver of Prodromal Parkinson's Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42931994/",
+        "abstract": "Neurodegeneration in Parkinson's disease (PD) begins subtly many years before motor symptoms appear. The primary pathological processes involve abnormal aggregation and spread of α-synuclein (α-syn), ongoing glial-mediated neuroinflammation, and disrupted brain iron balance. We suggest that a positive feedback loop involving iron-ROS-lipid peroxidation plays a crucial role in connecting these events and propelling the early stages of PD. Iron overload induces lipid peroxidation through the Fenton reaction, generating products like 4-HNE. These byproducts not only modify α-syn structure but also act as signals that trigger the microglial NLRP3 inflammasome. Additionally, pathological α-syn prompts glial cells to release exosomes containing harmful proteins and oxidized lipids, facilitating the spread of ferroptosis stress between cells and brain regions. This mechanism amplifies damage from single neurons to the entire neural network. This comprehensive framework clarifies the intricate interplay among α-syn pathology, neuroinflammation, and iron imbalance in early PD stages, highlighting ferroptosis as a key driver of disease progression.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-06220-0",
+        "keyword": "Exosomes",
+        "title_ja": "単一のメカニズムを超えて：前駆期パーキンソン病の中核的駆動因子としての鉄-ROS-脂質過酸化軸",
+        "summary_ja": "パーキンソン病（PD）の神経変性は運動症状出現の数年前から始まる。主な病理過程はα-synuclein（α-syn）の異常凝集・伝播、グリア細胞を介した神経炎症、脳内鉄バランスの破綻である。本論文は、鉄-ROS-脂質過酸化の正のフィードバックループがこれらの事象を結びつけ、PD初期段階を促進する中心的な役割を果たすと提唱する。鉄過剰はFenton反応により脂質過酸化を誘導し、4-HNEなどの産物を生成する。これらはα-syn構造を修飾するだけでなく、ミクログリアのNLRP3インフラマソームを活性化するシグナルとして作用する。さらに病的α-synはグリア細胞に有害タンパク質や酸化脂質を含むエクソソームを放出させ、フェロトーシスストレスの細胞間・脳領域間伝播を促進する。この機構は単一ニューロンから神経ネットワーク全体へ損傷を増幅する。本包括的枠組みは早期PDにおけるα-syn病理、神経炎症、鉄"
+      },
+      {
+        "title": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42924988/",
+        "abstract": "Exosomes derived from bone marrow mesenchymal stem cells (BMSCs) can deliver microRNAs to recipient cells and modulate their functions; however, investigations into their molecular effects have frequently relied on surrogate cancer cell lines, whose relevance to benign CAG pathology remains uncertain and must be explicitly acknowledged.",
+        "source": "PubMed",
+        "doi": "10.36721/PJPS/2026.40.15999.1",
+        "keyword": "Exosomes",
+        "title_ja": null,
+        "summary_ja": "骨髄間葉系幹細胞（BMSC）由来エクソソームはmicroRNAを recipient細胞へ送達し機能を調節するが、その分子効果の研究はしばしば代替の癌細胞株に依存しており、良性のCAG病態への関連性は不明確で明示的に言及する必要がある。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **KOAの創薬標的遺伝子同定**：遺伝・トランスクリプトーム・単一細胞解析を統合し、315の創薬可能遺伝子から15候補に絞り込み。変形性膝関節症の分子標的探索に道を開く。\n\n2. **吸入型PD-1エクソソーム製剤**：PGE2を介する免疫抑制ネットワークを標的とし、EP2/EP4拮抗薬を共封入。乳がん肺転移の微小環境を再構築する新規生体模倣プラットフォームとして有望。\n\n3. **鉄-ROS-脂質過酸化軸**：パーキンソン病前駆期の中心駆動因として提唱。α-syn凝集・神経炎症・鉄代謝破綻を統合する視点で、早期介入標的の理解を深める。\n\n4. **Klothoと老化制御**：抗老化因子Klothoの多面的作用（リン代謝、酸化ストレス、認知機能）が注目され、神経変性・代謝疾患への応用が期待される。\n\n5. **sEVs/エクソソーム治療の進展**：天然の運搬体として薬剤送達・免疫調節への応用が加速。標準化と臨床実装が今後の課題。\n\n（合計約480文字）"
+}

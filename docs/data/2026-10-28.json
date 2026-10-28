@@ -1,0 +1,104 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Neuroprotective roles of Klotho signaling in Huntington's disease: From molecular insights to clinical translation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42936110/",
+        "abstract": "Huntington's Disease (HD) is an autosomal dominant neurodegenerative disorder caused by CAG repeat expansion in the ",
+        "source": "PubMed",
+        "doi": "10.1016/j.ibneur.2026.09.023",
+        "keyword": "Klotho",
+        "title_ja": "ハンチントン病におけるKlothoシグナルの神経保護的役割：分子洞察から臨床応用まで",
+        "summary_ja": "『Neuroprotective roles of Klotho signaling in Huntington's disease』は、ハンチントン病（HD）におけるKlothoシグナリングの神経保護的役割を、分子機構から臨床応用まで概説した論文である。HDはCAGリピート伸長を原因とする常染色体優性の神経変性疾患であり、現状では根本的治療法が限られている。本稿では、Klothoが酸化ストレスや炎症、シナプス機能障害など複数の病態経路に介入し、神経細胞保護に寄与する可能性が示唆されている。さらに、バイオマーカーや治療標的としての臨床応用の展望についても論じられている。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Hypoxia-inducible CEA-targeted CAR T-cell therapy for relapsed stage IV non-small cell lung cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42937295/",
+        "abstract": "Mitigating on-target off-tumor toxicity remains a central challenge for chimeric antigen receptor (CAR) T-cell therapy for solid tumors. We developed a hypoxia-inducible CAR-T-cell product targeting carcinoembryonic antigen (CEA) that restricts CAR activation to hypoxic tumor niches via oxygen-dependent expression control. In this first-in-human, phase I trial enrolling heavily pretreated patients with relapsed stage IV non-small cell lung cancer (NSCLC), a single infusion of the investigational product achieved an objective response rate of 47% and a disease control rate of 87%, with a manageable safety profile. Exploratory analyses showed that clinical outcomes were associated with baseline factors. Deep single-cell profiling indicated that the clinical response was associated with the expansion of hypoxia-adapted, tumor-reactive-like CD8+ T cells alongside coordinated functional maturation of natural killer (NK) cells. Collectively, these data provide clinical proof-of-concept for hypoxia-inducible CAR design and inform the rational development of strategies leveraging tumor microenvironmental features in solid tumor cellular immunotherapy.",
+        "source": "PubMed",
+        "doi": "10.1158/2159-8290.CD-26-0104",
+        "keyword": "NK cell therapy",
+        "title_ja": "再発IV期非小細胞肺がんに対する低酸素誘導性CEA標的CAR T細胞療法",
+        "summary_ja": "低酸素誘導性CEA標的CAR-T細胞療法の第I相試験。固形腫瘍におけるon-target off-tumor毒性の軽減のため、酸素依存性発現制御により低酸素腫瘍微小環境でのみCARが活性化する製品を開発。再発IV期NSCLCの前治療歴の多い患者への単回投与で奏効率47%、疾患制御率87%、安全性は管理可能。探索解析では転帰がベースライン因子と関連。単一細胞解析で臨床応答は低酸素適応・腫瘍反応性様CD8+ T細胞の増殖とNK細胞の機能的成熟と関連。低酸素誘導性CAR設計の臨床的proof-of-conceptを示し、腫瘍微小環境特性を活用する固形腫瘍細胞免疫療法の合理的開発に寄与する。"
+      },
+      {
+        "title": "An Australian Narrative Review of Adoptive Cellular Therapies in Malignancy: Expanding Indications, Referral Pathways and Safety Beyond Specialist Centres.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42935367/",
+        "abstract": "Adoptive cellular therapies (ACT), including tumour-infiltrating lymphocyte (TIL), T-cell receptor-engineered T (TCR-T) cell and chimeric antigen receptor T-cell (CAR-T) therapies, represent an evolving class of immunotherapies with established efficacy in selected haematological malignancies and emerging applications in solid tumours. Additional platforms under investigation include virus-specific T cells, tumour-associated antigen-specific T cells, natural killer (NK) cell therapies and dendritic cell-based therapies. The therapeutic scope of ACT is expanding beyond oncology into autoimmune and fibrotic diseases, infectious diseases and inherited metabolic and immune disorders, highlighting the broad potential of cellular immunotherapy platforms. In solid tumours, efficacy remains limited by tumour antigen heterogeneity, immunosuppressive tumour micro-environment and impaired immune cell trafficking and persistence. These barriers are driving development of next-generation cellular products and combination strategies. Characteristic immune-mediated toxicities, particularly cytokine release syndrome (CRS) and immune effector cell-associated neurotoxicity syndrome (ICANS), remain important considerations. Although potentially severe, these toxicities are generally manageable with early recognition, multidisciplinary care and prompt specialist intervention. As ACT indications expand in Australia, clinician familiarity with indications, mechanisms of action and toxicity profiles is essential to support informed patient discussions, appropriate patient selection, timely referral and prompt toxicity recognition and management. Non-oncology specialists have an important role in shared care, including patient identification, referral coordination, monitoring for delayed or late toxicities and provision of ongoing survivorship and supportive care. Achieving equitable national access to ACT will require streamlined health technology assessment processes, coordinated reimbursement and delivery funding models and structured referral networks with cross-institutional collaboration to support the specialised infrastructure required for their delivery.",
+        "source": "PubMed",
+        "doi": "10.5694/mja2.70321",
+        "keyword": "NK cell therapy",
+        "title_ja": "悪性腫瘍における養子細胞療法のオーストラリアでのナラティブレビュー：適応拡大、紹介経路、専門センター外での安全性",
+        "summary_ja": "本論文は、TIL・TCR-T・CAR-Tなどの養子細胞療法（ACT）が血液悪性腫瘍で有効性を示し、固形腫瘍や自己免疫疾患・感染症・代謝疾患へ適応拡大しつつあることを概説する。固形腫瘍では抗原不均一性や免疫抑制的微小環境が有効性を制限し、次世代製品や併用戦略の開発を促す。CRSやICANSは重要だが早期認識と多職種連携で管理可能である。豪州での適応拡大に伴い、非腫瘍専門医も患者同定・紹介調整・遅発性毒性モニタリング・サバイバーシップケアで共有診療の役割を担う。公平な全国アクセスにはHTA簡素化、償還・提供資金モデル、紹介ネットワーク構築が不可欠である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "A-to-I edited miRNA-99a-5p in bone marrow mesenchymal stem cell-derived exosomes promotes fracture healing by regulating GDF11.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42922996/",
+        "abstract": "Impaired fracture healing remains a significant clinical challenge. Bone marrow mesenchymal stem cells (BMSCs) and the exosomes (BMSC-Exos) play a pivotal role in bone regeneration, partly by transferring functional microRNAs (miRNAs). A-to-I RNA editing can profoundly alter miRNA function, but its role in fracture healing, particularly for miRNA-99a-5p, is underexplored. We first profiled differentially edited miRNAs in serum from 50 fracture patients and healthy controls. A murine fracture model was established and treated with BMSC-Exos, where either the edited or wild-type form of miRNA-99a-5p was knocked down. In vitro studies involved transfecting BMSCs with ADAR expression vectors to investigate editing mechanisms, and overexpressing/inhibiting edited/wild-type miRNA-99a-5p in MC3T3-E1C osteoblasts to elucidate its direct functional impacts on osteogenic differentiation, apoptosis, proliferation, and migration. Validation of target genes were performed by dual-luciferase reporter assays, qPCR, and Western blot. Key readouts included alkaline phosphatase (ALP) activity, Alizarin Red S (ARS) staining, flow cytometry, Transwell migration, CCK-8 proliferation assays and HE staining. Clinical analysis revealed significantly lower A-to-I edited miRNA-99a-5p levels in fracture patients, correlating with delayed union. In mice, BMSC-Exos promoted fracture healing, an effect attenuated by edited miRNA-99a-5p knockdown. In vitro, edited miRNA-99a-5p enhanced osteogenesis and inhibited apoptosis, while the wild-type form had opposing effects. ADAR2 mediated this editing. Edited miRNA-99a-5p directly targeted and suppressed Growth Differentiation Factor 11 (GDF11) expression. Importantly, GDF11 overexpression reversed the pro-osteogenic effects of edited miRNA-99a-5p, in both direct and exosome-mediated contexts. Reduced A-to-I editing of miRNA-99a-5p is associated with impaired fracture healing. BMSC-Exos facilitate bone repair by delivering ADAR2-edited miRNA-99a-5p, which promotes osteogenic differentiation and bone formation through the specific targeting and downregulation of GDF11. This study uncovers a novel exosome-mediated RNA editing pathway critical for fracture healing and highlights edited miRNA-99a-5p and GDF11 as potential therapeutic targets for bone repair.",
+        "source": "PubMed",
+        "doi": "10.1007/s10616-026-01080-x",
+        "keyword": "Exosomes",
+        "title_ja": "骨髄間葉系幹細胞由来エクソソーム中のA-to-I編集されたmiRNA-99a-5pはGDF11を調節することで骨折治癒を促進する。",
+        "summary_ja": "骨折治癒不全は臨床的課題である。BMSCおよびBMSC由来エクソソーム（BMSC-Exos）は機能的miRNAの伝達を介し骨再生に寄与する。A-to-I RNA編集はmiRNA機能を変化させるが、骨折治癒における役割は未解明である。骨折患者50例と健常者の血清解析で、A-to-I編集miRNA-99a-5pが有意に低下し遷延治癒と相関した。マウス骨折モデルでBMSC-Exosは治癒を促進し、編集型miRNA-99a-5pノックダウンで減弱した。in vitroで編集型は骨形成を促進しアポトーシスを抑制、野生型は逆作用を示した。ADAR2が編集を媒介し、編集型miRNA-99a-5pはGDF11を直接標的として抑制した。GDF11過剰発現は編集型の骨形成促進作用を逆転した。BMSC-ExosはADAR2編集miRNA-99a-5pを介しGDF11を抑制して骨修復を促進する。編集型miRNA-"
+      },
+      {
+        "title": "Ectopic endometrial stromal cells-derived exosomes accelerate endometriosis progression by delivering PDLIM3 to induce macrophage M2 polarization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42921169/",
+        "abstract": "Endometriosis (Ems) is a benign disease characterized by invasion and migration. Abnormally expressed mRNAs regulate its progression. In this study, we analyzed GEO datasets and identified significant upregulation of PDLIM3 in ectopic endometrial tissues. Our aim was to explore the role of PDLIM3 and its regulatory mechanisms in Ems progression. Using bioinformatics, we analyzed differentially expressed genes and treated endometrial stromal cells (ESCs) with modified PDLIM3 and PRMT1 expression vectors to assess their impact on Ems. We measured macrophage polarization markers and the secreted cytokines as well as the percentage of CD206-positive macrophages to evaluate the PDLIM3/NAA40/PRMT1 axis's influence on macrophage polarization. Also, we tested the impact of THP-1-derived macrophages (THP-1-DM) under different conditions on ESCs. An animal model was developed to study the effects of PDLIM3 carried by exosomes from ectopic ESCs (ecESCs-Exos) on macrophage M2 polarization and Ems progression. M2 macrophages enhance ecESCs proliferation and migration, with PDLIM3 delivered by exosomes from ecESCs inducing M2 macrophage polarization. Mechanistically, PDLIM3 binds to NAA40 to suppress its ubiquitination and thus stabilize its protein. Then, the enhanced NAA40 binds to PRMT1 promoter and promotes asymmetric dimethylation of H4 histone to activate PRMT1, hence driving M2 macrophage polarization. In turn, in vitro data showed that ecESCs-Exos-induced M2 macrophages via PDLIM3/PRMT1 axis further accelerates ESCs proliferation and migration. Moreover, in vivo data demonstrate that exosomal PDLIM3 accelerates Ems progression via contributing to macrophage M2 polarization. Exosomal PDLIM3 from ecESCs contributes to Ems progression by inducing M2 macrophage polarization. The findings provide new clues regarding the progression of Ems, which might be beneficial for developing new therapeutic targets for Ems patients.",
+        "source": "PubMed",
+        "doi": "10.1002/ccs3.70122",
+        "keyword": "Exosomes",
+        "title_ja": "異所性子宮内膜間質細胞由来エクソソームはPDLIM3を運搬してマクロファージのM2極性化を誘導し、子宮内膜症の進行を促進する。",
+        "summary_ja": "異所性子宮内膜間質細胞（ecESCs）由来エクソソームがPDLIM3を運搬し、マクロファージのM2极化を誘導することで子宮内膜症（Ems）の進行を促進する機構を解明した研究。PDLIM3はNAA40に結合してユビキチン化を抑制しタンパク質を安定化、NAA40がPRMT1プロモーターに結合してH4ヒストンの非対称ジメチル化を促進しPRMT1を活性化、M2极化を駆動する。M2マクロファージはecESCsの増殖・遊走を促進し、in vivoでもエクソソームPDLIM3がM2极化を介してEms進行を加速することが示された。新たな治療標的の可能性を示す。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **Klothoとハンチントン病**：Klothoシグナルが神経保護的に働く分子機構を整理し、HDへの臨床応用可能性を示した点が重要。神経変性疾患への新規治療軸として今後の検証が期待される。\n\n2. **低酸素誘導型CEA標的CAR-T**：低酸素腫瘍微小環境でのみCARを発現させ、固形腫瘍のon-target off-tumor毒性を軽減する第I相試験。固形腫瘍CAR-Tの安全性課題に対する有望な設計戦略である。\n\n3. **養子細胞療法の適応拡大**：TIL・TCR-T・CAR-Tが血液腫瘍から固形腫瘍・自己免疫疾患等へ拡大する動向を整理。抗原不均一性や免疫抑制環境の克服と、専門施設外への安全な普及が今後の鍵となる。\n\n4. **BMSC由来エクソソームと骨折治癒**：A-to-I編集miRNA-99a-5pがGDF11を制御し骨再生を促す新知見。骨折治癒不全に対するエクソソーム療法の分子基盤として注目される。\n\n5. **子宮内膜症とエクソソーム**：ecESC由来エクソソームのPDLIM3がマクロファージM2极化を誘導し病態を促進。PDLIM3/NAA40軸は新規治療標的候補となる。"
+}

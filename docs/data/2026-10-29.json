@@ -1,0 +1,113 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Vitamin E Nanoemulsion Loaded Exosomes Attenuates Bleomycin-Induced Pulmonary Fibrosis by Inhibiting NLRP3-Mediated Pyroptosis and Fibrotic Signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42949670/",
+        "abstract": "This study aimed to investigate the protective effects of nano-formulated vitamin E combined with mesenchymal stem cell (MSC)-derived exosomes in bleomycin-induced lung fibrosis. AD-MSCs were isolated, expanded, and characterized by spindle morphology with high CD105/CD73 and low CD34/CD45 expression. Exosomes isolated from these cells displayed typical spherical morphology (131 nm), high CD81/CD63/CD9 expression, and low CD14. Skin fibrosis was induced in rats by subcutaneous administration of bleomycin. Animals subsequently received free vitamin E, nano-formulated vitamin E, or exosomes loaded with nano-formulated vitamin E. The antifibrotic efficacy of these treatments was assessed using biochemical, molecular, histopathological, and immunohistochemical analyses. Vitamin E nanoemulsion (mean of 48 nm, PDI 0.221, zeta -27.6 mV) was successfully loaded into the exosomes (EE 86.3%, LE 19.8%), yielding stable vesicles (137 nm) with excellent cytocompatibility. The formulation markedly attenuated bleomycin-induced fibrotic injury by restoring redox balance, reduction of TNF-α and TGF-β1 and attenuated extracellular matrix remodeling by decreasing collagen I, α-SMA, MMP-2, and TIMP-1. Moreover, inhibition of the NLRP3/caspase-1/GSDMD pathway and IL-1β indicated suppression of pyroptosis. VEGFR2 expression was also reduced, accompanied by marked improvement in histopathological alterations. The combination therapy exerted pronounced anti-fibrotic effects through coordinated antioxidant, anti-inflammatory, anti-pyroptotic, anti-ECM-remodeling, and anti-angiogenic mechanisms.",
+        "source": "PubMed",
+        "doi": "10.1080/1061186X.2026.2757169",
+        "keyword": "Exosomes",
+        "title_ja": "ビタミンEナノエマルション搭載エクソソームはNLRP3媒介パイロトーシスおよび線維化シグナルを阻害することでブレオマイシン誘発性肺線維症を軽減する",
+        "summary_ja": "ビタミンEナノエマルジョンを搭載したMSC由来エクソソームのブレオマイシン誘発肺線維症に対する保護効果を検討した研究。AD-MSCから単離したエクソソーム（131nm、CD81/CD63/CD9高発現）にビタミンEナノエマルジョン（48nm）を搭載し（EE 86.3%、LE 19.8%）、安定な小胞（137nm）を得た。本製剤はレドックスバランス回復、TNF-α・TGF-β1減少、コラーゲンI・α-SMA・MMP-2・TIMP-1低下によるECMリモデリング抑制を示した。さらにNLRP3/caspase-1/GSDMD経路とIL-1β阻害によるパイロトーシス抑制、VEGFR2発現低下を伴い、組織病理学的改善を認めた。抗酸化・抗炎症・抗パイロトーシス・抗ECMリモデリング・抗血管新生の協調作用により抗線維化効果を発揮した。"
+      },
+      {
+        "title": "Engineered extracellular vesicles as next-generation platforms for mRNA therapeutics delivery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42949665/",
+        "abstract": "mRNA has emerged as a star molecule in pharmaceutical development, demonstrating immense potential for the diagnosis and treatment of cancer, neurological disorders, genetic diseases, and infectious diseases. It has played a particularly pivotal role in COVID-19 prevention. However, the clinical translation of mRNA therapeutics is significantly hampered by its inherent instability, low cellular permeability, and poor targeting specificity. Consequently, the development of efficient mRNA delivery systems represents a paramount challenge for its biomedical application. Conventional delivery platforms, as exemplified by lipid nanoparticles (LNPs), offer advantages including mature manufacturing processes and broad clinical adoption. Nevertheless, they still face limitations such as suboptimal delivery efficiency and biosafety concerns requiring further improvement. Extracellular vesicles (EVs), including exosomes, microvesicles, and apoptotic bodies, have emerged as highly promising mRNA delivery vectors. This is attributed to their low immunogenicity, favorable biosafety profile, intrinsic homing effect-based targeting capability, and amenability to engineering modifications. This review comprehensively summarizes recent advances in EV-mediated mRNA delivery, detailing strategies for mRNA loading into EVs, approaches for achieving targeted mRNA delivery using EVs, and the therapeutic applications of EV-encapsulated mRNA. The synthesis of this knowledge aims to provide insights to advance the clinical implementation of mRNA-based therapeutics.",
+        "source": "PubMed",
+        "doi": "10.1039/d6bm00986g",
+        "keyword": "Exosomes",
+        "title_ja": "次世代mRNA治療薬送達プラットフォームとしての工学設計された細胞外小胞",
+        "summary_ja": "mRNAは癌・神経疾患・遺伝病・感染症の診断治療に有望で、特にCOVID-19予防で重要な役割を果たした。しかし不安定性、低い細胞透過性、標的特異性の低さが臨床応用の障壁となっている。従来のLNPなどの送達系は製造工程や臨床採用の点で利点があるが、送達効率やバイオセーフティに課題が残る。細胞外小胞（EV）はエクソソーム、マイクロベシクル、アポトーシス小体を含み、低免疫原性、良好なバイオセーフティ、ホーミング効果による標的能、工学修飾可能性から有望なmRNA送達ベクターである。本レビューはEV媒介mRNA送達の最近の進歩を包括的にまとめ、EVへのmRNA搭載戦略、標的送達手法、EV封入mRNAの治療応用を詳述し、mRNA治療の臨床実装推進への知見を提供する。"
+      },
+      {
+        "title": "Synergistic Promotion of Ferroptosis in Cardiomyocytes by Tumor Cell Secretory Factors and PD-1 Blockade.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42949492/",
+        "abstract": "Immune checkpoint inhibitors (ICIs) targeting PD-1 frequently cause severe cardiotoxicity, yet the mechanisms involving tumor-host crosstalk remain poorly defined. Emerging evidence implicates ferroptosis, an iron-dependent regulated cell death, in cardiac injury during cancer immunotherapy. Primary neonatal murine ventricular cardiomyocytes (NMVCs) were exposed to lung cancer-derived tumor-conditioned media (TCM; tumor-conditioned media) enriched with exosomes, anti-PD-1 antibody, or both. Ferroptotic markers, mitochondrial bioenergetics, inflammatory signaling, and exosomal microRNA cargo were systematically evaluated using standardized biochemical assays, quantitative PCR, and targeted pharmacological rescue experiments. TCM primed cardiomyocytes for ferroptosis by downregulating the GPX4/SLC7A11/Nrf2 antioxidant axis, depleting glutathione, and elevating labile iron and lipid peroxidation. Anti-PD-1 treatment alone induced minimal oxidative stress but synergized with TCM to amplify ferroptosis > 4.7-fold, triggering profound mitochondrial depolarization and upregulating pro-ferroptotic enzymes ACSL4/LPCAT3. Tumor-derived exosomal miR-214-3p and miR-23a-3p directly suppressed GPX4 and Nrf2, mediating cellular vulnerability. The combined insult hyperactivated NF-κB and STING pathways in a mitochondria-dependent manner, markedly increasing pro-inflammatory cytokine secretion. Co-treatment with ferrostatin-1, deferoxamine, or Nrf2 activators effectively reversed ferroptotic markers and restored mitochondrial function. Tumor-derived exosomal factors and PD-1 blockade synergistically drive ferroptotic cardiomyocyte death by crippling antioxidant defenses and amplifying inflammatory signaling. Targeting ferroptosis or its upstream regulators presents a promising cardioprotective strategy for patients receiving cancer immunotherapy.",
+        "source": "PubMed",
+        "doi": "10.1002/jbt.71064",
+        "keyword": "Exosomes",
+        "title_ja": "腫瘍細胞分泌因子とPD-1阻害による心筋細胞のフェロトーシスの相乗的促進",
+        "summary_ja": "腫瘍細胞分泌因子とPD-1阻害薬による心筋細胞フェロトーシス促進の相乗作用を検討した研究。肺癌由来腫瘍条件培地（TCM）と抗PD-1抗体を新生仔マウス心室心筋細胞に曝露した。TCMはGPX4/SLC7A11/Nrf2抗酸化軸を低下させ、グルタチオン枯渇と脂質過酸化を亢進しフェロトーシスを誘導した。抗PD-1単独では酸化ストレスは軽微だが、TCMと相乗的にフェロトーシスを4.7倍以上増幅し、ミトコンドリア脱分極とACSL4/LPCAT3を亢進した。腫瘍由来エクソソームmiR-214-3pとmiR-23a-3pがGPX4とNrf2を抑制し脆弱性を媒介した。複合刺激はNF-κBとSTING経路を活性化し炎症性サイトカイン分泌を増加させた。フェロスタチン-1、デフェロキサミン、Nrf2活性化剤はフェロトーシス指標を改善しミトコンドリア機能を回復した。フェロトーシス標的は免疫療法患者の心保護戦略とし"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "DUSP26 Regulated by YY1 Lactylation Couples Osteogenesis and Angiogenesis by Dephosphorylating PMPCB at Y141 and Activating Mitophagy in BMSCs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42949792/",
+        "abstract": "Bone marrow mesenchymal stem cells (BMSCs) support bone formation through osteogenic differentiation and pro-angiogenic paracrine activity, but the mechanisms coordinating these functions remain incompletely understood. Here, we identified dual-specificity phosphatase 26 (DUSP26) as a regulator of BMSC osteogenesis and mitochondrial homeostasis. DUSP26 expression increased during osteogenic differentiation and was reduced in osteoporotic femoral tissues. p300 gain- and loss-of-function experiments, together with analysis of the Yin Yang1(YY1) K183R mutant, supported the conclusion that p300-regulated YY1 lactylation contributes to DUSP26 transcriptional activation. DUSP26 interacted with the mitochondrial processing peptidase subunit beta(PMPCB) and reduced its tyrosine phosphorylation, with mass spectrometry and mutational analyses implicating Y141 as involved in this regulation. Functional assays supported a model in which DUSP26 limits mitochondrial processing peptidase (MPP)-mediated PTEN-induced kinase 1 (PINK1) processing and promotes PINK1-dependent mitophagy, thereby supporting mitochondrial homeostasis. DUSP26 enhanced osteogenic differentiation and the pro-angiogenic activity of BMSC-conditioned medium(CM), whereas its knockdown impaired bone formation and reduced type H vessels in vivo. Furthermore, BMSC-derived exosomes carrying a runt-related transcription factor 2 (RUNX2) promoter-driven DUSP26 plasmid produced preferential transgene expression in osteogenic-lineage cells and attenuated ovariectomy-induced bone loss in mice. These findings link lactylation-associated transcriptional regulation to mitochondrial protein processing and support further preclinical evaluation of DUSP26-directed approaches for osteoporosis.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.78514",
+        "keyword": "Exosomes",
+        "title_ja": "YY1ラクチル化により制御されるDUSP26は、PMPCBのY141部位を脱リン酸化し、BMSCにおけるマイトファジーを活性化することで骨形成と血管新生を共役させる。",
+        "summary_ja": "YY1のラクチル化により制御されるDUSP26が、PMPCBのY141脱リン酸化とBMSCのマイトファジー活性化を介して骨形成と血管新生を連関させることを示した研究。骨芽細胞分化時にDUSP26発現が増加し、骨粗鬆症組織では減少していた。p300制御のYY1ラクチル化がDUSP26転写活性化に寄与する。DUSP26はPMPCBと相互作用しそのチロシンリン酸化を低下させ、MPPによるPINK1プロセシングを抑制してPINK1依存性マイトファジーを促進し、ミトコンドリア恒常性を支える。DUSP26は骨芽細胞分化とBMSC-CMの血管新生促進活性を増強し、ノックダウンは骨形成とH型血管を障害した。RUNX2プロモーター駆動DUSP26プラスミド搭載BMSC由来エクソソームは骨系細胞で選択的に発現し、卵巣摘出誘発骨量減少を軽減した。"
+      },
+      {
+        "title": "A TGF-β1-Binding and Stem Cell-Homing Peptide Hydrogel Loaded with BMSC-Exosomes Enhances the Endogenous Repair of Surgically Induced Osteochondral Defects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42949304/",
+        "abstract": "To address the poor self-repair capacity of experimental osteochondral defects and the inefficacy of conventional hydrogels, this study developed a biodegradable peptide hydrogel, Exos@TRM. This study used an acute surgically created osteochondral defect model in rats, which does not fully reproduce experimental cartilage defects or chronic human cartilage degeneration. Based on the RADA16 framework, this hydrogel incorporates a TGF-β1-binding peptide and a stem cell-recruiting motif, and is loaded with exosomes derived from bone marrow mesenchymal stem cells (BMSCs). In vitro experiments demonstrated that Exos@TRM effectively binds TGF-β1, promotes BMSC migration, and enables sustained exosome release for up to one week, thereby facilitating BMSC proliferation and chondrogenic differentiation. In a rat cartilage defect model, Exos@TRM reduced pro-inflammatory M1 macrophages, recruited endogenous TGF-β1 and BMSCs to the injury site, promoted chondrogenic differentiation at week 3, and achieved tissue regeneration resembling natural cartilage with functional mechanical properties by week 8. Mechanistic studies confirmed that the regenerative effects are TGF-β1-dependent, and comprehensive biosafety evaluation revealed no systemic toxicity. This study demonstrates that Exos@TRM achieves significant cartilage repair without exogenous cells or high-dose growth factors through synergistic immunomodulation, localized TGF-β1 recruitment, and stem cell homing, offering a clinically promising strategy for experimental cartilage defects.",
+        "source": "PubMed",
+        "doi": "10.1021/acsbiomaterials.6c00928",
+        "keyword": "Exosomes",
+        "title_ja": "TGF-β1結合性および幹細胞ホーミングペプチドヒドロゲルにBMSCエクソソームを搭載したものは、手術により誘発された骨軟骨欠損の内因性修復を促進する。",
+        "summary_ja": "本研究では、実験的骨軟骨欠損の自己修復能の低さと従来のハイドロゲルの非効率性に対処するため、生分解性ペプチドハイドロゲルExos@TRMを開発した。RADA16を基盤にTGF-β1結合ペプチドと幹細胞動員モチーフを組み込み、BMSC由来エクソソームを搭載した。In vitroでTGF-β1結合、BMSC遊走促進、1週間までの持続的エクソソーム放出、BMSC増殖・軟骨分化促進を確認した。ラット軟骨欠損モデルでは、M1マクロファージ減少、内因性TGF-β1とBMSCの損傷部位への動員、3週での軟骨分化促進、8週で天然軟骨に類似した力学的特性を有する組織再生を達成した。機序研究でTGF-β1依存性が確認され、安全性評価で全身毒性は認められなかった。Exos@TRMは外来細胞や高用量成長因子なしに免疫調節・TGF-β1局所動員・幹細胞ホーミングの相乗作用で軟骨修復を実現し、臨床的に有望な戦略である"
+      },
+      {
+        "title": "EXPRESS: The function of microRNAs transported by cell extracellular vesicles in post-stroke recovery: a systematic review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42947578/",
+        "abstract": "Stroke is associated with persistently elevated rates of mortality and disability. Effective cerebroprotection strategies and interventions for promoting functional recovery after stroke remain an unmet need. Cell transplantation represents a potential therapeutic strategy for facilitating brain recovery and regeneration. Its therapeutic benefits are thought to be partly mediated by extracellular vesicles and the various miRNAs they carry, which from different cell sources may exert distinct therapeutic effects.",
+        "source": "PubMed",
+        "doi": "10.1177/0271678X261504570",
+        "keyword": "Exosomes",
+        "title_ja": "特集：脳卒中後の回復における細胞外小胞輸送マイクロRNAの機能：系統的レビュー",
+        "summary_ja": "脳卒中後の死亡率と障害率は高く、脳保護と機能回復を促す有効な介入は未だ確立されていない。細胞移植は脳の回復・再生を促す治療戦略として期待され、その効果は細胞外小胞とそれが運搬するmiRNAを介する可能性がある。異なる細胞由来の小胞・miRNAは異なる治療効果を発揮しうる。本総説は、脳卒中後の回復における細胞外小胞輸送miRNAの機能を体系的に検討する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の論文から注目すべき5トピックを選定します。\n\n**1. ビタミンE搭載エクソソームによる肺線維症治療**\nMSC由来エクソソームにビタミンEナノエマルジョンを搭載し、NLRP3インフラマソーム抑制を介して肺線維症を軽減。天然由来の送達系として安全性と有効性を両立する可能性があり、難治性線維症への新規治療戦略として期待される。\n\n**2. 次世代mRNA送達プラットフォームとしての工学改変EV**\nLNPの課題を克服する送達系としてEVが注目。生体親和性と標的特異性の向上が期待され、癌・遺伝病治療への応用が現実味を帯びる。\n\n**3. PD-1阻害薬と腫瘍分泌因子による心筋フェロトーシス**\n免疫チェックポイント阻害薬の心血管毒性機序を解明。GPX4/SLC7A11軸低下を介する心筋障害の理解は、癌治療中の心保護戦略に重要。\n\n**4. YY1ラクチル化-DUSP26軸による骨形成・血管新生連関**\n骨粗鬆症で低下するDUSP26がマイトファジーを介して骨代謝と血管新生を連関。代謝エピジェネティクス視点からの骨疾患治療標的として有望。\n\n**5. ペプチドハイドロゲル+BMSCエクソソームによる骨軟骨修復**\nTGF-β1結合・幹細胞動員ペプチドを組み込んだハイドロゲルが内因性修復を促進。細胞移植不要の低侵襲再生医療として展開が期待される。\n\n（約480文字）"
+}

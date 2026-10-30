@@ -1,0 +1,115 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Assessment of natural killer cell activity in HPV-infected women - a cross-sectional study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42954334/",
+        "abstract": "Human papillomavirus (HPV) infections, particularly high-risk oncogenic types, are linked to cervical and other anogenital cancers. Natural killer (NK) cells play a vital role in the innate immune response, identifying and eliminating virus-infected cells without prior sensitization.",
+        "source": "PubMed",
+        "doi": "10.5603/gpl.110663",
+        "keyword": "NK cell therapy",
+        "title_ja": "HPV感染女性におけるナチュラルキラー細胞活性の評価 - 横断研究",
+        "summary_ja": "HPV感染、特に高リスク発がん性型は子宮頸がんや肛門生殖器がんと関連する。NK細胞は自然免疫応答において、事前感作なしにウイルス感染細胞を認識・排除する重要な役割を担う。本研究はHPV感染女性におけるNK細胞活性を評価する横断研究である。"
+      },
+      {
+        "title": "A Randomized, Double-Blind, Placebo-Controlled Study of the PD-1 Inhibitor Cetrelimab in Chronic Hepatitis B.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42934895/",
+        "abstract": "Hepatitis B virus (HBV)-induced T-cell exhaustion may be reversed using a programmed death receptor 1 (PD-1) inhibitor such as cetrelimab, an investigational fully human monoclonal antibody targeting PD-1. To evaluate the safety, activity and pharmacokinetics of low-dose (i.e., a dose lower than that used in oncology) cetrelimab in participants with chronic hepatitis B (CHB) virologically suppressed (VS) on a stable nucleos(t)ide analog (NA). Randomized, double-blind, placebo-controlled, multi-cohort, single-dose escalation study of cetrelimab administered subcutaneously or intravenously. Due to a strategic decision, and not to any safety concern, only one cohort (45 mg subcutaneous) was executed. Participants maintained their NA treatment to avoid HBV reactivation. Serum cetrelimab concentrations, HBV biomarkers, PD-1 receptor occupancy (RO) and safety were collected over 24 weeks. Eleven participants were enrolled and randomized, eight to cetrelimab and three to placebo and all 11 completed the study. Mean cetrelimab half-life was 16.3 days with median time to maximum cetrelimab concentration 10.4 days post-dose. Near-maximal RO was achieved 6 h post-dose which waned over time. There were no clinically relevant changes in HBV biomarkers or laboratory values including liver function tests and thyroid-stimulating hormone. No clinically relevant adverse events were reported. A single 45 mg dose of cetrelimab administered subcutaneously in VS participants with CHB was safe and well tolerated. There was no change in HBV biomarkers and further development of cetrelimab for HBV was abandoned. Clinical Trial Registration: ClinicalTrials.gov: NCT05242445; EudraCT Number: 2021-004857-21.",
+        "source": "PubMed",
+        "doi": "10.1111/jvh.70246",
+        "keyword": "NK cell therapy",
+        "title_ja": "PD-1阻害薬セトレリマブの慢性B型肝炎に対する無作為化二重盲検プラセボ対照試験",
+        "summary_ja": "本論文は、慢性B型肝炎（CHB）患者におけるPD-1阻害薬セトレリマブの安全性・活性・薬物動態を評価した無作為化二重盲検プラセボ対照試験である。ウイルス学的抑制下でヌクレオシ(t)ドアナログ（NA）を継続する患者に、低用量セトレリマブを皮下または静脈投与した。戦略的判断により45mg皮下投与コホートのみ実施され、11例（セトレリマブ8例、プラセボ3例）が完了した。平均半減期16.3日、最高血中濃度到達時間中央値10.4日、投与6時間後にほぼ最大のPD-1受容体占有（RO）が得られ、その後減衰した。HBVバイオマーカーや肝機能検査、TSHを含む臨床的に意義のある変化はなく、有害事象も認めなかった。単回45mg皮下投与は安全で忍容性良好であったが、HBVバイオマーカーの変化はなく、HBVに対するセトレリマブの開発は中止された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosomes, a potential approach to enhance the therapeutic effects of traditional Chinese medicine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42951497/",
+        "abstract": "Traditional Chinese medicine (TCM) exerts unique therapeutic effects, while some unfavorable physicochemical properties limit its therapeutic potential. Exosomes are involved in cellular communication and may enhance the efficacy of TCM. The relationship between TCM and exosomes is supported by the connection between exosomes and the theory of \"Qi, Xue and Ye\" (one of the basic theories of TCM). Also, the functional resemblance between exosomes and Qi, which is less researched. We fill this gap by systematically summarizing exosomes from different sources with therapeutic effects and exploring the mechanisms and implications of exosomes in TCM treatment. TCM and exosomes undergo two-way communication, with TCM affecting exosomes and exosomes loading TCM monomers. The dual roles of exosomes as destructive agents in disease development are also emphasized; current obstacles and future scope of TCM-exosome therapeutic strategies are fully discussed. The objective of this review is to stimulate further investigation and create a new application of TCM.",
+        "source": "PubMed",
+        "doi": "10.1016/S1875-5364(26)61220-4",
+        "keyword": "Exosomes",
+        "title_ja": "外泌体——增强中药治疗效果的潜在途径",
+        "summary_ja": "伝統中薬（TCM）は独自の治療効果を持つが、物理化学的特性が治療可能性を制限している。エクソソームは細胞間通信に関与し、TCMの efficacy を高める可能性がある。TCMとエクソソームの関係は、エクソソームとTCM基礎理論の一つである「気・血・液」理論との関連で支持される。また、エクソソームと気の機能的類似性は研究が少ない。本レビューはこのギャップを埋めるため、治療効果を持つ様々な由来のエクソソームを体系的に要約し、TCM治療におけるエクソソームの機序と意義を探る。TCMとエクソソームは双方向に通信し、TCMはエクソソームに影響を与え、エクソソームはTCMモノマーを搭載する。疾患発展における破壊的因子としてのエクソソームの二重役割も強調し、TCM-エクソソーム治療戦略の現代的障害と将来展望を議論する。本レビューは更なる研究を促進し、TCMの新たな応用を創出することを目的とする。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Plant-derived exosome-like nanoparticles as candidate nano-prebiotics: from structure-enabled delivery to host-microbiota interface remodeling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42954296/",
+        "abstract": "Gut ecosystem homeostasis depends on coordinated interactions among commensal microorganisms, the mucosal barrier, and the immune system. Conventional prebiotics rely on selective utilization by host microorganisms, but their efficacy is shaped by baseline microbiota and disease-associated ecological constraints. Plant-derived exosome-like nanoparticles (PELNs) are naturally occurring membrane-bound nanoparticles characterized by source-dependent lipid interfaces and associated molecular components, including small RNAs, proteins, polysaccharides, and plant-derived metabolites. We evaluate selected PELNs within a provisional \"candidate nano-prebiotic\" framework that allows particle- or component-mediated mechanisms to coexist with microbial utilization of fermentable components without implying equivalence to consensus-defined prebiotics. We critically assess evidence for microbe-directed and host-mediated effects on microbial functions, microbiota-derived metabolites, epithelial barrier integrity, and mucosal immunity, particularly in inflammatory bowel disease (IBD). Current evidence remains heterogeneous and predominantly preclinical, with major uncertainties regarding particle identity, component-specific causality, ",
+        "source": "PubMed",
+        "doi": "10.1080/10408398.2026.2753614",
+        "keyword": "Exosomes",
+        "title_ja": "植物由来のエキソソーム様ナノ粒子：候補ナノプレバイオティクスとしての可能性—構造に基づく送達から宿主-微生物叢インターフェースの再構築まで",
+        "summary_ja": "腸内エコシステムの恒常性は常在微生物・粘膜バリア・免疫系の協調的相互作用に依存する。従来のプレバイオティクスは宿主微生物による選択的利用に依拠するが、その効果はベースラインのマイクロビオータや疾患関連の生態学的制約に左右される。植物由来エクソソーム様ナノ粒子（PELNs）は、由来依存的脂質界面とsmall RNA・タンパク質・多糖・植物代謝物等の分子成分を特徴とする天然の膜結合ナノ粒子である。本論文は選択したPELNsを暫定的な「候補ナノプレバイオティクス」枠組みで評価し、粒子・成分媒介機構と発酵性成分の微生物利用の共存を許容しつつ、合意定義のプレバイオティクスとの同等性は示唆しない。微生物機能、マイクロビオータ由来代謝物、上皮バリア完整性、粘膜免疫への微生物指向・宿主媒介効果、特にIBDにおけるエビデンスを批判的に評価する。現状のエビデンスは不均一かつ前臨床段階が中心で、粒子同一性や成分"
+      },
+      {
+        "title": "Detection method for carrying Hepatitis B surface antigen exosomes by a chemiluminescence immunoassay (CLIA).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42953976/",
+        "abstract": "Conventional detection of Hepatitis B surface antigen (HBsAg) cannot differentiate exosome-associated antigen from its free form, which may hold distinct biological significance. Here, we developed a specific chemiluminescence immunoassay (CLIA) to detect HBsAg-positive, CD63-positive particles (putative HBsAg-carrying exosomes).",
+        "source": "PubMed",
+        "doi": "10.1080/17576180.2026.2752783",
+        "keyword": "Exosomes",
+        "title_ja": "化学発光免疫測定法（CLIA）によるB型肝炎表面抗原エクソソームの検出方法",
+        "summary_ja": "従来のHBsAg検出法では、エクソソーム結合型抗原と遊離型抗原を区別できず、生物学的意義の違いを見逃す可能性があった。本研究では、HBsAg陽性かつCD63陽性の粒子（HBsAg搭載エクソソームと推定される）を特異的に検出する化学発光免疫測定法（CLIA）を開発した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Characterization of von Willebrand factor-enriched extracellular vesicles and their association with platelet adhesion in COVID-19.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42932940/",
+        "abstract": "Microvascular thrombosis is a hallmark of severe COVID-19 and a major contributor to adverse clinical outcomes. Extracellular vesicles have emerged as key mediators of thromboinflammation, yet their functional and molecular characteristics remain incompletely understood. Here, we investigated the prothrombotic activity, cellular origin, and von Willebrand factor (VWF) composition of plasma-derived small extracellular vesicles (SEVs) from hospitalized patients with COVID-19. We demonstrate that SEVs from critically ill patients with COVID-19 markedly enhance platelet adhesion and thrombus formation under arterial shear conditions and promote endothelial activation, as evidenced by increased release of ICAM-1 and VCAM-1. These SEVs were highly enriched in ultra-large VWF multimers, with significantly elevated high-to-low molecular weight ratios compared with controls. Flow cytometric analysis showed increased circulating SEVs derived from leukocytes, platelets, and endothelial cells in severe disease, with VWF-positive SEVs predominantly originating from endothelial cells. The enrichment of VWF-SEVs was independent of gender and diabetes status, suggesting a primary association with disease severity. Collectively, these findings indicate that SEVs, particularly those rich in endothelial-derived VWF, are associated with platelet activation and may contribute to the prothrombotic milieu in COVID-19. These findings underscore the importance of VWF-positive SEVs as biomarkers of disease severity and warrant further investigation into their role in COVID-19-related vascular pathology.",
+        "source": "PubMed",
+        "doi": "10.1152/ajpcell.00374.2026",
+        "keyword": "sEVs",
+        "title_ja": "COVID-19におけるフォン・ヴィレブランド因子に富む細胞外小胞の特性評価と血小板接着との関連",
+        "summary_ja": "COVID-19重症例では微小血管血栓症が特徴的である。本研究は入院患者の血漿由来small extracellular vesicles（SEVs）の血栓促進活性・細胞起源・VWF組成を検討した。重症患者のSEVsは動脈せん断条件下で血小板接着と血栓形成を著明に促進し、ICAM-1やVCAM-1放出増加により内皮活性化を誘導した。これらのSEVsは超高分子量VWF多量体に富み、高分子量/低分子量比が対照より有意に高かった。フローサイトメトリーでは重症例で白血球・血小板・内皮由来SEVsが増加し、VWF陽性SEVsは主に内皮細胞由来であった。VWF-SEVsの増加は性別や糖尿病と独立し、重症度と関連した。以上より、内皮由来VWF-rich SEVsは血小板活性化と関連し、COVID-19の血栓促進環境に寄与する可能性があり、重症度バイオマーカーとして重要である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の論文から注目すべき5トピックを選定します。\n\n1. **HPV感染とNK細胞活性**：HPV感染女性のNK細胞活性を評価する横断研究。NK細胞はウイルス感染細胞の排除に重要で、HPV持続感染の免疫回避機構解明や新規免疫療法開発への示唆が期待される。\n\n2. **慢性B型肝炎へのPD-1阻害薬**：セトレリマブの無作為化二重盲検試験。NA継続下での低用量投与の安全性・有効性を検証。機能的治癒を目指す免疫療法の可能性を示す重要な知見である。\n\n3. **エクソソームによる中薬効果増強**：TCMの物性制限をエクソソームが補完し、送達・有効性を高める可能性。伝統医学とナノテクノロジーの融合として今後の発展が期待される。\n\n4. **植物由来エクソソーム様ナノ粒子**：新規ナノプレバイオティクスとして腸内細菌叢・粘膜バリア・免疫の相互作用を再構築する可能性。従来プレバイオティクスの限界を超える新戦略である。\n\n5. **HBsAg搭載エクソソームの高感度検出**：CLIA法によりエクソソーム結合型と遊離型HBsAgを区別。B型肝炎の病態解明とバイオマーカー開発に貢献する。\n\n以上、免疫療法・ナノ医療・感染症診断の融合的進展が注目される。"
+}

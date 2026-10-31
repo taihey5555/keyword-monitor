@@ -1,0 +1,126 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Affinity screening and cardioprotective evaluation of FRS2α-targeted components from the ethyl-acetate fraction of Gualou-Xiebai-Banxia decoction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42815118/",
+        "abstract": "The renowned traditional Chinese medicine (TCM) classical prescription Gualou-Xiebai-Banxia decoction (GXBD) exhibits remarkable therapeutic effects on coronary artery disease (CAD). However, its material basis and molecular targets remain unclear. Our previous studies found that its ethyl acetate fraction (GXB-E) exhibited the most pronounced cardioprotective effect among its series extracts and could potentially activate the Fibroblast Growth Factor Receptor Substrate 2α (FRS2α), the crucial gatekeeper within FGF21/FGFR1/β-Klotho-FRS2α pathway. This study aimed to rapidly screen for FRS2α-targeted components from GXB-E and to verify their cardioprotective effects. An integrated strategy combining affinity ultrafiltration with UHPLC-Orbitrap-Exploris MS (AUF-LC-MS) was established to screen for affinity components, binding sites of which to FRS2α were inferred via molecular docking. Forty-nine compounds were identified in GXB-E, among which 10 showed specific binding affinity to FRS2α. These compounds interacted with the active site of FRS2α mainly through hydrogen bonds and other intermolecular forces. Among them, vanillic acid (VA) and cynaroside (Cyn) exhibited stronger binding energies. Both components significantly improved the growth state of myocardial cells (MCs) injured by ischemia-hypoxia, inhibited apoptosis and necrosis, and markedly increased cell viability. In zebrafish hearts injured by doxorubicin (DOX), they notably alleviated myocardial hypertrophy and pathological damage, reduced the SV-BA distance, pericardial edema area, and myocardial enzyme activity. Meanwhile, the decreased p-FRS2α level was dramatically upregulated by these two components in both the MCs and zebrafish models. This work validated the feasibility of using AUF-LC-MS for lead compound screening. Our findings help clarify the multi-component synergistic mechanism underlying the therapeutic effect of GXBD on CAD, lay a foundation for exploring novel CAD therapeutics derived from this TCM classic prescription.",
+        "source": "PubMed",
+        "doi": "10.1016/j.jpba.2026.117746",
+        "keyword": "Klotho",
+        "title_ja": "瓜蒌薤白半夏汤乙酸乙酯部位中靶向FRS2α成分的亲和作用筛选及心脏保护作用评价",
+        "summary_ja": "伝統中薬処方Gualou-Xiebai-Banxia decoction（GXBD）は冠動脈疾患（CAD）に有効だが、その物質基盤と分子標的は不明である。本研究は、GXBDの酢酸エチル画分（GXB-E）からFRS2α標的成分を迅速にスクリーニングし、心保護効果を検証した。アフィニティ限外濾過とUHPLC-Orbitrap-Exploris MSを組み合わせたAUF-LC-MS戦略を確立し、分子ドッキングで結合部位を推定した。GXB-E中に49化合物を同定し、10化合物がFRS2αに特異的結合親和性を示した。これらは主に水素結合等でFRS2α活性部位と相互作用し、vanillic acid（VA）とcynaroside（Cyn）が強い結合エネルギーを示した。両成分は虚血低酸素傷害心筋細胞（MCs）の増殖状態を改善し、アポトーシス・壊死を抑制し細胞生存率を有意に増加させた。ドキソルビシン傷害ゼ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Clinical translation of perinatal stem cell therapies: a decade-long analysis of umbilical cord blood and umbilical cord tissue-derived mesenchymal stromal cell research, 2015-2025.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42961672/",
+        "abstract": "Umbilical cord blood (UCB) stem cells and mesenchymal stromal cells from cord tissue (UC-MSCs) have served as the foundation for regenerative and cellular therapy research for over 30 years and are also the scientific basis for the global private cord blood banking industry; however, it is uncertain whether clinical evidence has kept pace with the therapeutic claims made. This structured narrative review characterizes how clinical translation for both UCB and UC-MSC evolved between 2015 and 2025, using clinical trial registers, regulatory decisions and systematic reviews/meta-analyses, and asks whether this pathway is consistent with value propositions used in private cord blood banking marketing. Although plateauing following the results of the Blood and Marrow Transplant Clinical Trials Network (BMT CTN) 1101 trial, UCB transplantation remains clinically relevant through ex-vivo expansion (Omidubicel/Omisirge, approved by the U.S. Food and Drug Administration [FDA] in 2023 and 2025) and other cord-blood-derived products such as chimeric antigen receptor natural killer (CAR-NK) cells. Infusion of autologous UCB for neurological indications shows an acceptable safety profile but variable efficacy; a phase II autism study found no benefit on its primary endpoint. UC-MSC research has expanded significantly, with meta-analytic support now available for knee osteoarthritis and, from mixed-source MSC studies, autoimmune disease, and early-phase evidence for liver failure and diabetic nephropathy. The center of gravity of perinatal stem cell innovation has shifted from autologous transplantation toward manufactured, largely allogeneic therapeutics, which may alter the underlying assumptions regarding informed consent that guide private CBB practice, a claim this review does not itself test empirically.",
+        "source": "PubMed",
+        "doi": "10.1007/s10561-026-10260-0",
+        "keyword": "NK cell therapy",
+        "title_ja": "周産期幹細胞療法の臨床応用：臍帯血および臍帯組織由来間葉系間質細胞研究の10年間の分析、2015-2025年。",
+        "summary_ja": "臍帯血（UCB）幹細胞と臍帯組織由来間葉系間質細胞（UC-MSC）は30年以上にわたり再生医療研究の基盤であり、民間臍帯血バンク産業の科学的根拠でもあるが、臨床エビデンスが治療的主張に追いついているかは不明である。本レビューは2015～2025年の両者の臨床応用の変遷を試験登録・規制決定・メタ解析から分析した。UCB移植はBMT CTN 1101試験後に頭打ちとなったが、ex vivo増幅製品（Omidubicel/Omisirge、FDA承認2023・2025年）やCAR-NK細胞等で臨床的意義を維持する。神経疾患への自家UCB投与は安全性は許容されるが有効性は変動し、自閉症第II相試験では主要評価項目で効果を認めなかった。UC-MSC研究は著しく拡大し、変形性膝関節症や自己免疫疾患でメタ解析的裏付け、肝不全・糖尿病性腎症で初期段階のエビデンスがある。周産期幹細胞イノベーションの重心は自"
+      },
+      {
+        "title": "Pyroptosis in cancer nanotherapy: Molecular mechanisms and advanced nanosystems (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42960436/",
+        "abstract": "Pyroptosis is a form of programmed cell death characterized by activation of inflammasome complexes and caspase signaling cascades, ultimately leading to the cleavage and activation of pore‑forming executioners such as gasdermin D (GSDMD), ‑E and ‑B. Accumulating evidence indicates that pyroptosis induction in cancer cells exerts potent antitumor effects. As a result, recent therapeutic strategies such as cancer nanotherapy have increasingly focused on harnessing pyroptotic cell death to improve cancer treatment outcomes. This review aimed to explore recent advances in nanotechnology‑based approaches designed to induce pyroptosis in cancer cells, with an emphasis on their potential to enhance antitumor immunity and overcome treatment resistance. It explored four distinct nanoplatforms: i) Chemo‑photodynamic systems that trigger GSDME‑mediated death by generating reactive oxygen species; ii) magneto‑plasmonic nanoparticles that use GSDME activation to modulate the tumor microenvironment, turning 'cold' tumors 'hot'; iii) bioorthogonal chemical delivery tools leveraging click chemistry for site‑specific gasdermin release; and iv) nano‑CRISPR activation scaffolds designed to boost GSDME expression and work alongside cisplatin. Beyond these platforms, the present review highlights how immune cell‑derived granzymes and interferon‑γ drive vital downstream pyroptotic pathways via GSDME and GSDMB activation. Lastly, the review weighs clinical risks, such as chronic systemic inflammation and tumor‑promoting environments, providing a realistic perspective on how to safely progress these preclinical nanotherapies into selective, effective clinical immunotherapies.",
+        "source": "PubMed",
+        "doi": "10.3892/ijo.2026.5952",
+        "keyword": "NK cell therapy",
+        "title_ja": "がんナノ療法におけるパイロトーシス：分子メカニズムと先進ナノシステム（総説）",
+        "summary_ja": "本レビューは、インフラマソーム活性化とカスパーゼシグナル伝達を特徴とし、GSDMD・GSDME・GSDMB等のガスダーミン切断を経て細胞死を誘導するパイロトーシスに着目し、癌ナノ治療への応用を論じている。癌細胞でのパイロトーシス誘導は強力な抗腫瘍効果を持ち、抗腫瘍免疫増強や治療抵抗性克服が期待される。4つのナノプラットフォームとして、①活性酸素産生によりGSDME媒介死を誘導する化学光力学系、②GSDME活性化で腫瘍微小環境を調節し「冷たい」腫瘍を「熱い」腫瘍へ変える磁気プラズモニックナノ粒子、③クリックケミストリーを用いた生体直交型部位特異的ガスダーミン送達、④GSDME発現増強とシスプラチン併用を狙うnano-CRISPR活性化足場を挙げる。さらに免疫細胞由来グランザイムやIFN-γがGSDME・GSDMBを介し下流パイロトーシス経路を駆動する点、慢性全身性炎症や腫瘍促進環境等の臨床リ"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Macrophage-regulatory T cell immune circuits shape the pre-metastatic niche.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42959422/",
+        "abstract": "The pre-metastatic niche (PMN) is a tumor-conditioned immunosuppressive microenvironment that forms in distant organs prior to metastatic colonization. Macrophages and regulatory T cells (Tregs) play central roles in its formation and function. Tumor-derived exosomes and soluble factors reprogram macrophages into M2-like states, leading to extracellular matrix (ECM) remodeling, increased angiogenesis, vascular leakiness, and fibrotic niche formation. Simultaneously, Tregs are recruited and expanded through pathways involving myeloid-derived suppressor cells (MDSCs), S100 calcium-binding protein A8/A9 (S100A8/A9), receptor for advanced glycation end products (RAGE), Toll-like receptor 4 (TLR4), as well as fibroblast-derived exosomal C-C motif chemokine ligand 1 (CCL1)-C-C chemokine receptor type 8 (CCR8) signaling. Cytokines from macrophages suppress natural killer (NK) and cluster of differentiation 8-positive (CD8",
+        "source": "PubMed",
+        "doi": "10.1016/j.cpt.2026.04.003",
+        "keyword": "Exosomes",
+        "title_ja": "巨噬细胞-调节性T细胞免疫回路塑造转移前微环境。",
+        "summary_ja": "本論文は、転移前ニッチ（PMN）におけるマクロファージと制御性T細胞（Treg）の免疫回路を論じている。PMNは転移に先立ち遠隔臓器に形成される腫瘍由来の免疫抑制性微小環境である。腫瘍由来エクソソームや可溶性因子がマクロファージをM2様に再プログラムし、細胞外マトリックス（ECM）リモデリング、血管新生増加、血管漏出性、線維性ニッチ形成を促す。同時にTregは骨髄由来抑制細胞（MDSC）、S100A8/A9、RAGE、TLR4、線維芽細胞由来エクソソームのCCL1-CCR8シグナルを介して動員・増殖する。マクロファージ由来サイトカインはNK細胞やCD8陽性T細胞を抑制する。（399文字）"
+      },
+      {
+        "title": "Cargo Stability of Extracellular Vesicles Derived From Non-Diseased Sources: Effects of Storage and Handling Conditions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42957610/",
+        "abstract": "Extracellular vesicles (EVs) are nanoscale, membrane-enclosed particles that transfer proteins, nucleic acids, lipids, and other bioactive molecules between cells. Their cargo-bearing capacity supports applications in drug delivery, regenerative medicine, and biomarker development, but ex vivo handling can alter vesicle recovery and cargo readouts. Storage temperature, pH, freeze-thaw exposure, storage duration, and buffer composition differentially affect EV-associated proteins and nucleic acids. This review evaluates preservation studies using EVs from non-diseased cells, tissues, and biological fluids, with emphasis on the distinction between EV recovery, cargo abundance, molecular integrity, and functional preservation. Across the available literature, optimal conditions depend on EV source, biological matrix, isolation method, storage duration, cargo class, and analytical endpoint. Standardized protocols that separately measure vesicle recovery, cargo abundance, molecular integrity, and biological activity are required to define source- and application-specific preservation strategies and resolve the mechanisms of storage-associated cargo alteration.",
+        "source": "PubMed",
+        "doi": "10.1111/jcmm.71411",
+        "keyword": "Exosomes",
+        "title_ja": "非疾患由来の細胞外小胞の積荷安定性：保存および取扱条件の影響",
+        "summary_ja": "細胞外小胞（EVs）はタンパク質・核酸・脂質等を細胞間で輸送するナノスケールの膜小胞で、ドラッグデリバリーや再生医療、バイオマーカー開発への応用が期待されるが、ex vivoでの取扱いが回収率やカーゴ測定値に影響しうる。保存温度、pH、凍結融解、保存期間、バッファー組成はEV関連タンパク質・核酸に異なる影響を与える。本レビューは非疾患由来の細胞・組織・体液由来EVの保存研究を評価し、EV回収、カーゴ存在量、分子完全性、機能保持の区別を重視する。最適条件はEV源、生物学的マトリックス、単離法、保存期間、カーゴ種、分析エンドポイントに依存する。回収・存在量・完全性・生物活性を別々に測定する標準化プロトコルが必要である。"
+      }
+    ],
+    "農学": [
+      {
+        "title": "Macrophage-derived Exosomes Regulate Neuronal ACSL6 in Experimental Temporomandibular Disorder Pain.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42957225/",
+        "abstract": "Temporomandibular disorders (TMD) are frequently accompanied by persistent pain, but the underlying mechanisms remain incompletely understood. Macrophage-neuron communication in the trigeminal ganglion (TG) may contribute to TMD pain. This study investigated whether macrophage-derived exosomes (EXOs) promote neuronal inflammation and pain by regulating acyl-CoA synthetase long-chain family member 6 (ACSL6).",
+        "source": "PubMed",
+        "doi": "10.21873/invivo.14497",
+        "keyword": "Exosomes",
+        "title_ja": "マクロファージ由来エクソソームは実験的顎関節症疼痛において神経ACSL6を制御する",
+        "summary_ja": "TMD（顎関節症）は持続痛を伴うが、その機序は未解明な部分が多い。三叉神経節（TG）におけるマクロファージと神経の相互作用がTMD痛に関与する可能性がある。本研究では、マクロファージ由来エクソソーム（EXOs）がacyl-CoA synthetase long-chain family member 6（ACSL6）を調節することで神経炎症と痛みを促進するかを検討した。"
+      }
+    ],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Lipidomes of placenta-derived extracellular vesicles reveal disrupted metabolic adaptation in type 1 diabetes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42961822/",
+        "abstract": "Placental metabolic adaptation is dynamically orchestrated across gestation to support fetal development, yet how this process is disrupted in type 1 diabetes (T1D) and contributes to altered fetal metabolic outcomes remains unclear. Small extracellular vesicles (sEVs) may provide a minimally invasive window into placental metabolic state during pregnancy.",
+        "source": "PubMed",
+        "doi": "10.1210/clinem/dgag411",
+        "keyword": "sEVs",
+        "title_ja": "胎盤由来細胞外小胞のリピドーム解析により、1型糖尿病における代謝適応の破綻が明らかになった。",
+        "summary_ja": "胎盤の代謝適応は妊娠期間を通じて胎児発育を支えるが、1型糖尿病（T1D）での破綻と胎児代謝への影響は不明である。小型細胞外小胞（sEVs）は妊娠中の胎盤代謝状態を低侵襲的に反映する可能性がある。本研究は胎盤由来sEVsのリピドーム解析を通じ、T1Dにおける代謝適応の異常を明らかにすることを示唆している。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **GXBDのFRS2α標的成分**：冠動脈疾患に有効な伝統処方の物質基盤を解明。心保護薬開発への応用が期待される。\n\n2. **周産期幹細胞治療の臨床的検証**：臍帯血・UC-MSC研究10年を総括。民間バンクの主張と臨床エビデンスの乖離を検証する重要性が高い。\n\n3. **癌ナノ治療におけるパイロトーシス**：ガスダーミン依存性細胞死を誘導するナノシステム。新規癌治療戦略として注目。\n\n4. **マクロファージ-Treg回路と転移前ニッチ**：エクソソームを介した免疫抑制機構の解明。転移予防標的として有望。\n\n5. **EV/sEVのカーゴ安定性と疾患リピドーム**：保存・取扱い条件が品質に影響。T1D胎盤sEVリピドームは妊娠合併症の低侵襲バイオマーカーとして展望される。"
+}

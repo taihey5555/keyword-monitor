@@ -1,0 +1,146 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Correction: Attenuation of osteoarthritis progression via locoregional delivery of Klotho-expressing plasmid DNA and Tanshinon IIA through a stem cell-homing hydrogel.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42963806/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1186/s12951-026-05166-8",
+        "keyword": "Klotho",
+        "title_ja": "訂正：幹細胞ホーミングヒドロゲルを介したKlotho発現プラスミドDNAおよびタンシノンIIAの局所送達による変形性関節症進行の減弱。",
+        "summary_ja": "『Correction: Attenuation of osteoarthritis progression via locoregional delivery of Klotho-expressing plasmid DNA and Tanshinon IIA through a stem cell-homing hydrogel』の要約：\n\n本訂正記事は、変形性関節症（OA）進行抑制を目指す研究の訂正版である。Klotho発現プラスミドDNAとTanshinon IIAを、幹細胞ホーミング能を持つハイドロゲルを介して局所投与する手法を提示する。この戦略により、KlothoとTanshinon IIAの相乗効果でOA進行を減弱させる可能性を示す。訂正内容の詳細は本文に記載されるが、要旨としては、幹細胞ホーミングハイドロゲルを用いた局所デリバリーによるOA治療アプローチの有効性を補正・確認"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Laboratory Monitoring of UFH in Different Settings (DEXHEP Study): Association between Anti-Xa Levels, Platelet Factor 4 (PF4) Plasma Levels and Dextran Sulfate.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41253287/",
+        "abstract": "Chromogenic anti-Xa assay is currently used in the management of patients on unfractionated heparin (UFH). It has been shown that inter-assay variability in anti-Xa levels can be explained in part by the presence or absence of dextran sulfate (DXS) in the reagents. DXS has the ability to dissociate UFH from neutralizing proteins, including platelet factor 4 (PF4).",
+        "source": "PubMed",
+        "doi": "10.1055/a-2749-6046",
+        "keyword": "PF4",
+        "title_ja": "異なる設定におけるUFHの臨床検査モニタリング（DEXHEP研究）：抗Xa値、血小板第4因子（PF4）血漿値とデキストラン硫酸との関連",
+        "summary_ja": "未分画ヘパリン（UFH）管理には発色性抗Xa測定が用いられるが、抗Xa値の測定間変動は試薬中のデキストラン硫酸（DXS）の有無で一部説明される。DXSはUFHを血小板第4因子（PF4）を含む中和蛋白から解離させる。本研究（DEXHEP）は異なる設定下でのUFH検査モニタリングにおいて、抗Xa値、血漿PF4値、DXSの関連を検討したものである。"
+      },
+      {
+        "title": "Free Nucleic Acids in the ChAdOx1 nCov-19-S Adenovirus Vector Vaccine Contribute to an Anti-platelet Factor 4 Antibody Response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41183547/",
+        "abstract": "Vaccination against SARS-CoV-2 was instrumental in controlling the COVID-19 pandemic. Rare cases of vaccine-induced immune thrombocytopenia and thrombosis (VITT) emerged following vaccination with the adenovirus vector-based vaccines ChAdOx1 nCov-19-S and Ad26.COV2.S. VITT is mediated by high-titer IgG anti-platelet factor 4 (PF4) antibodies that activate platelets, leading to thrombosis and thrombocytopenia. Similar antibodies have been detected following natural adenovirus infections, suggesting a common immunological trigger. This indicates that a constituent of adenovirus is relevant. Adenovirus is a DNA virus. Virion-unbound viral DNA is present in natural adenovirus infections.",
+        "source": "PubMed",
+        "doi": "10.1055/a-2736-5418",
+        "keyword": "PF4",
+        "title_ja": "ChAdOx1 nCov-19-Sアデノウイルスベクターワクチン中の遊離核酸が抗血小板第4因子抗体反応に寄与する。",
+        "summary_ja": "ChAdOx1 nCov-19-Sなどのアデノウイルスベクターワクチン接種後に、稀にワクチン誘発性免疫性血小板減少症および血栓症（VITT）が発生する。VITTは高力価の抗血小板第4因子（PF4）IgG抗体が血小板を活性化し、血栓症と血小板減少を引き起こす。自然アデノウイルス感染後にも同様の抗体が検出され、共通の免疫学的トリガーの存在が示唆される。アデノウイルスはDNAウイルスであり、自然感染ではビリオン非結合の遊離ウイルスDNAが存在する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Repurposing the orphan drug nitisinone synergizes with sorafenib to sensitize immunotherapy-refractory MSS-CRC via metabolic stress-driven STING activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42963013/",
+        "abstract": "Microsatellite-stable colorectal cancer (MSS-CRC) remains broadly refractory to immune checkpoint blockade, underscoring the need for strategies that convert immunologically \"cold\" tumors into therapy-responsive states. Here, we identify 4-hydroxyphenylpyruvate dioxygenase (HPD), the rate-limiting enzyme in tyrosine catabolism, as a modulator of sorafenib sensitivity in MSS-CRC. Pharmacological inhibition of HPD by the FDA-approved orphan drug nitisinone synergized with sorafenib across patient-derived organoids, human PBMC-tumor co-cultures, and immunocompetent orthotopic models. Mechanistically, nitisinone imposes strict glutaminolysis dependency, whereas sorafenib disrupts cRaf-MEK-ERK signaling to trigger proteasomal cMYC degradation and transcriptional repression of GLS1, thereby ablating compensatory glutamine anaplerosis. This dual metabolic blockade creates a synthetic lethal trap, provoking irreversible mitochondrial collapse and mtDNA release, which activates the cGAS-STING pathway and drives intratumoral infiltration of cytotoxic NK and CD8",
+        "source": "PubMed",
+        "doi": "10.1016/j.phrs.2026.109724",
+        "keyword": "NK cell therapy",
+        "title_ja": "孤儿药尼替西农再利用与索拉非尼协同，通过代谢应激驱动的STING激活使免疫治疗难治性MSS-CRC增敏。",
+        "summary_ja": "FDA承認の孤児薬ニチシノンによるHPD（チロシン分解の律速酵素）阻害は、ソラフェニブと相乗的に作用し、MSS-CRC（マイクロサテライト安定型大腸癌）を感作する。ニチシノンはグルタミン分解依存を強制し、ソラフェニブはcRaf-MEK-ERKシグナルを阻害してcMYCのプロテアソーム分解とGLS1転写抑制を引き起こし、代償性グルタミン補充を遮断する。この二重代謝阻害は合成致死トラップを形成し、不可逆的なミトコンドリア崩壊とmtDNA放出を誘発、cGAS-STING経路を活性化して細胞傷害性NKおよびCD8陽性T細胞の腫瘍内浸潤を促進する。患者由来オルガノイド、PBMC-腫瘍共培養、免疫正常同所性モデルで有効性が示された。"
+      },
+      {
+        "title": "CLDN18.2-targeted CAR-NK cells suppress gastric cancer growth in preclinical models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42962829/",
+        "abstract": "Targeted immunotherapy for gastric cancer (GC) remains challenging due to safety concerns and limited efficacy against solid tumors. Claudin-18.2 (CLDN18.2) is a highly specific tumor-associated antigen, yet existing CLDN18.2-targeted CAR-T therapies are frequently complicated by cytokine release syndrome (CRS) and on-target/off-tumor toxicity. Natural killer (NK) cells represent a safer \"off-the-shelf\" alternative, but require optimized CAR architectures for effective solid tumor targeting. Here, we designed five CAR constructs targeting CLDN18.2 through combinatorial optimization of single-chain variable fragments and intracellular co-stimulatory domains (including CD28H, 2B4, 4-1BB, and CD3ζ), and delivered them into NK-92 cells via a baboon envelope glycoprotein-pseudotyped lentiviral vector. The lead candidate CAR4-NK, which harbors a CD28H-2B4-CD3ζ signaling domain, exerted superior in vitro cytotoxicity against CLDN18.2-positive GC cells, accompanied by robust secretion of IFN-γ and granzyme B. In NCG mouse xenograft models, intravenously administered CAR4-NK cells specifically trafficked to tumor sites, significantly suppressed tumor growth, and improved overall survival (100% survival at the study endpoint). The CD28H-2B4 combination was shown to be critical for sustained NK cell activation. Notably, irradiated CAR4-NK cells, despite abrogated proliferative capacity, retained tumoricidal efficacy comparable to unmodified parental NK-92 cells and induced minimal production of the inflammatory cytokines TNF-α and MIP-1α, suggesting a reduced risk of CRS-associated cytokine release within the tested panel. These results provide preclinical proof-of-concept for a rationally designed CAR4-NK therapy against CLDN18.2-positive gastric cancer, in which CD28H-2B4 co-stimulatory domains enhance the effector function of CAR4-NK cells, and show the potential of irradiated CAR4-NK cells as a safer, controllable \"off-the-shelf\" product candidate.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bcp.2026.118584",
+        "keyword": "NK cell therapy",
+        "title_ja": "CLDN18.2標的CAR-NK細胞は前臨床モデルにおいて胃がんの増殖を抑制する。",
+        "summary_ja": "CLDN18.2は胃癌の特異的腫瘍関連抗原だが、既存のCAR-T療法はCRSやon-target/off-tumor毒性が問題となる。本研究ではNK細胞を用い、scFvと共刺激ドメイン（CD28H、2B4、4-1BB、CD3ζ）を組合せた5種のCARコンストラクトを設計し、バブンエンベロープ糖タンパク質偽型レンチウイルスベクターでNK-92細胞に導入した。CD28H-2B4-CD3ζを有するCAR4-NKがin vitroで優れた細胞傷害性とIFN-γ・グランザイムB分泌を示した。NCGマウス異種移植モデルでCAR4-NKは腫瘍へ特異的に集積し、腫瘍増殖を抑制、全生存率を改善（終了時100%生存）した。CD28H-2B4の組合せがNK細胞の持続的活性化に重要であった。放射線照射CAR4-NKは増殖能を失うものの殺腫瘍効果を保持し、TNF-αやMIP-1α産生が最小でCRSリスク低減が示唆さ"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Genetic Variation Underlying CSF Natural Killer T-Cell Frequency in Inflammatory CNS Diseases: A Genome-Wide Association Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42956320/",
+        "abstract": "Natural killer T (NKT) cells bridge innate and adaptive immunity and are implicated in immune regulation in autoimmune diseases. In multiple sclerosis (MS), reduced CSF frequencies of NKT cells have been reported, but their role in disease pathogenesis remains unclear. Here, we investigated the genetic architecture underlying CSF NKT cell frequency variability in individuals with MS and other CNS diseases.",
+        "source": "PubMed",
+        "doi": "10.1212/NXI.0000000000200676",
+        "keyword": "NK cell therapy",
+        "title_ja": "炎症性中枢神経系疾患における脳脊髄液中のナチュラルキラーT細胞頻度の遺伝的変異：ゲノムワイド関連研究",
+        "summary_ja": "多発性硬化症（MS）などの炎症性中枢神経系疾患では、脳脊髄液（CSF）中のナチュラルキラーT（NKT）細胞頻度の低下が報告されているが、その病態生理学的役割は不明である。本研究では、MSおよび他の中枢神経系疾患患者におけるCSF中NKT細胞頻度の変動を規定する遺伝的構造を、ゲノムワイド関連解析（GWAS）により検討した。NKT細胞は自然免疫と適応免疫を橋渡しし、自己免疫疾患の免疫調節に関与している。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Pantethine Restores Epidermal Homeostasis and Modulates Vesicle-Associated Proteins in Psoriasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42963826/",
+        "abstract": "Psoriasis is a chronic inflammatory skin disease characterized by disrupted epidermal homeostasis driven by interconnected immuno-inflammatory, metabolic, and redox signalling networks. Vesicle-associated intercellular communication has emerged as an important contributor to inflammatory amplification and tissue remodelling within the epidermal microenvironment. Pantethine, a stable vitamin B5 derivative with lipid-modulatory and anti-inflammatory properties, has been implicated in regulation of cellular stress responses and membrane-associated signalling pathways, suggesting potential therapeutic relevance in psoriasis. Here, we investigated the effects of pantethine using a full-thickness 3D human psoriatic skin model following keratinocyte safety assessment. Integrated histopathological, immunohistochemical, quantitative RT-PCR, and proteomic analyses were employed to interrogate inflammatory, oxidative, proliferative, apoptotic, differentiation-associated and vesicle-related responses. Pantethine significantly reduced epidermal thickening and normalized multiple psoriasis-associated molecular signatures. Proteomic profiling revealed coordinated modulation of vesicle-associated, cytoskeletal and extracellular matrix-related proteins, accompanied by reduced expression of exosome-associated markers CD63 and CD9. Pantethine suppressed pro-inflammatory signalling involving IL-1β, TNF-α, IL-17, S100 family members, and hyperproliferative keratin-associated pathways while reducing caspase-3-associated apoptotic activity. Concurrently, pantethine enhanced antioxidative and immunoregulatory responses through activation of Nrf-2 and TGF-β, restored differentiation and barrier-related markers including filaggrin, caspase-14, and involucrin, and reduced hypoxia- and tissue-remodelling-associated mediators including HIF-1α, VEGF, COL6A3, and COL1A2. Network-based proteomic analyses further identified computationally inferred associations with SLIT/ROBO-related pathways, although these associations require further functional validation. Collectively, these findings support pantethine as a promising candidate that modulates vesicle-associated proteins together with inflammatory and tissue-remodelling responses involved in epidermal homeostasis.",
+        "source": "PubMed",
+        "doi": "10.1111/exd.70381",
+        "keyword": "Exosomes",
+        "title_ja": "パンテチンは乾癬において表皮の恒常性を回復し、小胞関連タンパク質を調節する。",
+        "summary_ja": "乾癬は慢性炎症性皮膚疾患で、免疫炎症・代謝・レドックスシグナルネットワークの相互作用により表皮恒常性が破綻する。小胞関連の細胞間コミュニケーションは炎症増幅と組織リモデリングに寄与する。パンテチンは安定なビタミンB5誘導体で、脂質調節・抗炎症作用を持ち、細胞ストレス応答や膜関連シグナル経路の制御に関与する。本研究では三次元ヒト乾癬皮膚モデルを用い、組織病理・免疫組織化学・qRT-PCR・プロテオミクスで解析した。パンテチンは表皮肥厚を有意に抑制し、乾癬関連分子シグネチャーを正常化した。プロテオミクスでは小胞関連・細胞骨格・細胞外マトリックス関連タンパク質の協調的調節と、エクソソームマーカーCD63・CD9の発現低下を認めた。IL-1β、TNF-α、IL-17、S100ファミリー、過剰増殖性ケラチン関連経路を抑制し、caspase-3関連アポトーシス活性を低下させた。一方、Nrf-2およびT"
+      },
+      {
+        "title": "Bone marrow mesenchymal stem cells-derived exosomes ameliorate doxorubicin-induced nephrotoxicity via the modulation of pyroptosis-associated signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42963580/",
+        "abstract": "Doxorubicin (DOX) remains a cornerstone chemotherapeutic agent whose clinical application is constrained by nephrotoxicity, with no therapeutic interventions currently available. This study aimed to delineate the ameliorative potential of bone marrow mesenchymal stem cells (BM-MSCs) derived exosomes (EXO) in an experimental model of DOX-induced acute kidney injury (AKI). Twenty-four rats were divided into 4 groups: Control, DOX intoxicated, DOX + EXO, and EXO only groups. Nephrotoxicity was induced in the DOX and DOX + EXO groups using a single dose of DOX (15 mg/ kg i.p.). After 24 h, DOX + EXO and EXO only groups were given BM-MSCs-derived exosomes (100 μg i.v.). DOX was associated with a decline in renal function, activation of oxidative stress, inflammation, and modulation of pyroptosis-associated inflammasome-related signaling. BM-MSCs-derived exosomes significantly improved renal function, as evidenced by histopathological examination, reduction in KIM-1, blood urea nitrogen (BUN), serum creatinine, and renal somatic index (RSI). Exosomes mitigated oxidative stress by enhancing endogenous antioxidant catalase activity and reducing the lipid peroxidation marker MDA, while also suppressing inflammatory mediators, as shown by a reduction in IL-18 and IL-1β. Furthermore, exosomal treatment attenuated the expression of NLRP3, caspase-1 (CASP-1), and gasdermin-D (GSDMD), reduced ELAVL1, IRAK1 and NF-κB levels, while upregulating miR-146a-5p. In Silico analysis identified multiple putative molecular targets for miR-146a-5p, revealing strong interconnection among key targets, including ELAVL1, NF-κB, and IRAK1. These findings provide evidence to support the ameliorative role of BM-MSC-derived exosomes in mitigating DOX-induced AKI, associated with upregulation of miR-146a-5p and concurrent modulation of ELAVL1, IRAK1, and NF-κB, as well as NLRP3-associated inflammatory signaling, supporting the biological plausibility of a candidate miR-146a-5p/ELAVL1/IRAK1/NF-κB/NLRP3 regulatory network in AKI pathogenesis. Harnessing the reno-protective properties of exosomal therapy, as well as targeting the inflammasome-related signaling pathways, represents a compelling therapeutic paradigm warranting further mechanistic validation.",
+        "source": "PubMed",
+        "doi": "10.1186/s10020-026-01655-6",
+        "keyword": "Exosomes",
+        "title_ja": "骨髄間葉系幹細胞由来エクソソームは、パイロトーシス関連シグナル伝達の調節を介してドキソルビシン誘発性腎毒性を改善する。",
+        "summary_ja": "ドキソルビシン（DOX）は腎毒性により臨床応用が制限されている。本研究は骨髄間葉系幹細胞（BM-MSC）由来エクソソーム（EXO）のDOX誘発性急性腎障害（AKI）への改善効果を検討した。ラットをControl、DOX、DOX+EXO、EXO単独の4群に分け、DOX投与24時間後にEXOを静注した。DOXは腎機能低下、酸化ストレス、炎症、pyroptosis関連インフラマソームシグナルの活性化を引き起こした。EXOは腎機能を改善し、KIM-1、BUN、血清クレアチニン、RSIを低下させた。酸化ストレスではカタラーゼ活性を亢進しMDAを減少、炎症ではIL-18、IL-1βを抑制した。さらにNLRP3、CASP-1、GSDMD、ELAVL1、IRAK1、NF-κBの発現を抑制し、miR-146a-5pを上调した。In Silico解析によりmiR-146a-5pの標的としてELAVL1、NF-"
+      },
+      {
+        "title": "Analysis of 515 human proteomes defines plasma extracellular vesicle core composition, corona and coisolated networks.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42963372/",
+        "abstract": "Plasma extracellular vesicles (EVs) are promising liquid biopsy biomarkers, yet their proteomic profiling remains confounded by massive co-isolation. Here, we resolve this heterogeneity through a meta-analysis of 515 human plasma EV proteomes. We demonstrate that the reproducible core proteome is overwhelmingly governed by predictable, surface-charge-driven mass-action that dynamically mirrors synthetic nanoparticle corona formation. By quantitatively decomposing the core isolate against pan-synthetic coronas and agonist-induced platelet EVs, we trace the core isolate to three main mechanistic origins: an electrostatic plasma corona, ex vivo platelet vesiculation and biological macromolecular co-isolates. Crucially, the residual vesicular cargo strongly correlates with thrombin-induced platelet degranulation, indicating that phlebotomy-induced trauma contribute to the bulk signal. We provide a modular atlas that mathematically distinguishes biophysical coronas from these cellular co-isolates, establishing a new framework for interpreting biological origin in plasma EV proteomics.",
+        "source": "PubMed",
+        "doi": "10.1038/s42003-026-11038-6",
+        "keyword": "Exosomes",
+        "title_ja": "515人のヒトプロテオームの解析により、血漿細胞外小胞のコア構成、コロナ、および共単離ネットワークが明らかになった。",
+        "summary_ja": "血漿細胞外小胞（EV）はリキッドバイオプシーのバイオマーカーとして有望だが、プロテオーム解析は大量の共単離に悩まされている。本研究では515例のヒト血漿EVプロテオームのメタ解析によりこの不均一性を解明した。再現性のあるコアプロテオームは、予測可能な表面電荷駆動型の質量作用に支配され、合成ナノ粒子のコロナ形成を動的に反映していた。コア単離物を合成コロナやアゴニスト誘導血小板EVと定量的に分解し、静電的血漿コロナ、ex vivo血小板小胞化、生物学的巨大分子共単離物の3起源を同定した。残存する小胞カーゴはトロンビン誘導血小板脱顆粒と強く相関し、採血誘導性の損傷が主要シグナルに寄与することが示された。生体物理学的コロナと細胞性共単離物を数学的に区別するモジュール式アトラスを提供し、血漿EVプロテオミクスにおける生物学的起源解釈の新枠組みを確立する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の注目5トピック：\n\n1. **Klotho×変形性関節症治療**：Klotho発現プラスミドDNAとタンシノンIIAを幹細胞ホーミングハイドロゲルで局所送達する新戦略。老化関連蛋白Klothoの軟骨保護作用を活用し、低侵襲治療への応用が期待される。\n\n2. **PF4とVITT機序**：アデノウイルスベクターワクチン中の遊離核酸が抗PF4抗体産生を誘導しVITT発症に関与。ワクチン安全性設計や血栓症リスク評価に重要な知見。\n\n3. **CLDN18.2 CAR-NK細胞**：胃癌特異抗原CLDN18.2を標的とするCAR-NK療法が前臨床で腫瘍増殖を抑制。CAR-TのCRS・on-target毒性を回避できる代替として有望。\n\n4. **血漿EVプロテオーム基盤**：515例のメタ解析でEVコア組成・コロナ・共単離ネットワークを定義。リキッドバイオプシーのバイオマーカー標準化に貢献。\n\n5. **MSC由来エクソソームと腎保護**：BM-MSCエクソソームがピロトーシス制御を介しDOX腎毒性を改善。無細胞治療としての実用化が期待される。"
+}

@@ -1,0 +1,114 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Prognostic scores and biomarkers in hematologic malignancies: current evidence and future perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42966861/",
+        "abstract": "The advent of immunotherapy has profoundly transformed the therapeutic landscape of hematologic malignancies. A broad range of immune-based strategies, including immune checkpoint inhibitors and adoptive cell therapies based on both T cells and natural killer (NK) cells, have achieved unprecedented clinical outcomes in several lymphoid and myeloid neoplasms. Emerging approaches such as genetically engineered immune cells, including chimeric antigen receptor (CAR)-modified T and NK cells, are further expanding therapeutic opportunities. However, substantial heterogeneity in treatment response remains a major challenge, with a significant proportion of patients experiencing primary resistance, relapse, or severe immune-related toxicities. Accurate identification of predictive and prognostic biomarkers is therefore essential to optimize patient selection, improve therapeutic efficacy, and minimize treatment-related toxicity. Numerous biological parameters have been investigated, including clinical prognostic scores, systemic inflammatory indices, tumor burden markers, immune-cell subsets, cytokine profiles, genetic and molecular alterations, and features of the tumor microenvironment. Emerging evidence indicates that both host-related factors and tumor-intrinsic characteristics shape therapeutic responses to immunotherapy across hematologic cancers. Among the most promising biomarkers are inflammatory indices derived from peripheral blood counts, such as the neutrophil-to-lymphocyte ratio, platelet-to-lymphocyte ratio, monocyte-to-lymphocyte ratio, systemic immune-inflammation index, prognostic nutritional index, and Glasgow Prognostic Score. In parallel, immune-monitoring approaches assessing the functional competence, phenotype, and activation status of both T and NK cells, together with cytokine signatures, immune checkpoint expression, and other markers of immune competence, are increasingly recognized as valuable tools for predicting therapeutic response, resistance, and immune-related toxicity. This review summarizes the current evidence on prognostic scores and biomarkers associated with immunotherapy outcomes in hematologic malignancies. We discuss their biological rationale, clinical relevance, current limitations, and potential integration into contemporary treatment strategies. Finally, we highlight emerging perspectives, including multi-omics profiling, artificial intelligence-driven predictive models, and dynamic biomarker-guided approaches, which are expected to advance precision immuno-oncology and enable increasingly personalized immune-based treatment algorithms.",
+        "source": "PubMed",
+        "doi": "10.1186/s40364-026-01033-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "血液恶性肿瘤中的预后评分和生物标志物：当前证据与未来展望。",
+        "summary_ja": "免疫療法は血液悪性腫瘍の治療を大きく変革し、免疫チェックポイント阻害薬やT細胞・NK細胞を用いた養子細胞療法、CAR修飾T/NK細胞などが成果を上げている。しかし治療反応のheterogeneityは大きく、primary resistance、relapse、免疫関連毒性が課題である。予測・予後バイオマーカーの同定が患者選択と効果最適化に不可欠であり、臨床的予後スコア、全身炎症指標、腫瘍量マーカー、免疫細胞サブセット、サイトカインプロファイル、遺伝子・分子異常、腫瘍微小環境などが検討されている。特に末梢血由来のneutrophil-to-lymphocyte ratio、platelet-to-lymphocyte ratio、monocyte-to-lymphocyte ratio、systemic immune-inflammation index、prognostic nutrit"
+      },
+      {
+        "title": "Mitochondrial transfer enhances the metabolic fitness and antitumor activity of primary NK cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42966058/",
+        "abstract": "Natural killer (NK) cell therapy has emerged as a promising approach for cancer treatment. However, its efficacy is often limited by metabolic dysfunction, poor persistence, and reduced activity within the tumor microenvironment. Here, we investigated whether mitochondrial transfer could improve the metabolic fitness and antitumor activity of peripheral blood-derived primary NK cells. Using a simple centrifugation-based approach, mitochondria isolated from NK cells or umbilical cord-derived mesenchymal stem cells (UC-MSCs) were transferred into primary NK cells. Mitochondrial transfer significantly enhanced oxidative phosphorylation, glycolysis, and ATP production, leading to improved cytokine secretion and cytotoxicity against both hematologic and solid tumor targets. In xenograft models, mitochondrial transfer significantly suppressed tumor growth, with UC-MSCs-derived mitochondria producing the greatest therapeutic benefit. Proteomic analysis further revealed enrichment of pathways associated with immune activation, cellular migration, and cytoskeletal remodeling. Collectively, these findings demonstrate that mitochondrial transfer enhances NK-cell metabolic fitness and antitumor activity, highlighting its potential as a practical non-genetic strategy for improving NK cell-based cancer immunotherapy.",
+        "source": "PubMed",
+        "doi": "10.1016/j.yexmp.2026.105093",
+        "keyword": "NK cell therapy",
+        "title_ja": "ミトコンドリア移植は初代NK細胞の代謝適応性と抗腫瘍活性を高める。",
+        "summary_ja": "NK細胞療法は癌治療の有望な手法だが、腫瘍微小環境での代謝機能不全や持続性・活性の低下が課題である。本研究では、遠心分離法によりNK細胞または臍帯由来間葉系幹細胞（UC-MSC）から単離したミトコンドリアを末梢血由来初代NK細胞へ移入し、その効果を検討した。ミトコンドリア移入は酸化リン酸化、解糖系、ATP産生を有意に亢進し、サイトカイン分泌と血液腫瘍・固形腫瘍に対する細胞傷害性を改善した。異種移植モデルでは腫瘍増殖を有意に抑制し、UC-MSC由来ミトコンドリアが最大の治療効果を示した。プロテオミクス解析では免疫活性化、細胞遊走、細胞骨格リモデリング関連経路の濃縮が認められた。以上より、ミトコンドリア移入はNK細胞の代謝適応性と抗腫瘍活性を高める実用的な非遺伝子戦略として有望である。"
+      },
+      {
+        "title": "Interleukin-21 expressing oncolytic vaccinia virus elicits systemic anti-tumor immune response and synergizes with immunotherapies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42964611/",
+        "abstract": "A successful oncolytic virus is critical to therapeutic success, requiring the identification of an effective viral platform and immunomodulatory molecules that potently promote host immune responses and reprogram the tumor microenvironment (TME). In the present study, we developed V01, an oncolytic virus derived from the Western Reserve (WR) strain of vaccinia virus, featuring double deletions of the vaccinia growth factor (VGF) and thymidine kinase (TK) genes, along with the expression of interleukin-21 (IL-21). Locally administered intratumoral (i.t.) V01 elicited systemic anti-tumor effects against both the primary injected tumor and distant non-injected tumors in immunocompetent tumor-bearing mice. Abscopal effects of V01 were observed in homologous tumors but not in heterologous tumors. Combination treatment of V01 with immunotherapeutic agents-PD-1 antibody or natural killer (NK) cell therapy-exhibited synergistic tumor regression. Together, these results suggest that V01 holds significant promise as a novel immunotherapeutic or immunoadjuvant for solid tumor treatment, warranting further clinical investigation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.omton.2026.201348",
+        "keyword": "NK cell therapy",
+        "title_ja": "インターロイキン-21を発現する腫瘍溶解性ワクシニアウイルスは全身性の抗腫瘍免疫応答を誘導し、免疫療法と相乗効果を示す。",
+        "summary_ja": "V01はワクシニアウイルスWR株由来の腫瘍溶解性ウイルスで、VGFとTK遺伝子の二重欠失に加えIL-21を発現する。免疫正常マウスへの腫瘍内投与で、注射腫瘍および非注射遠隔腫瘍に対し全身性抗腫瘍効果を示した。abscopal効果は同種腫瘍でのみ観察され、異種腫瘍では認められなかった。PD-1抗体やNK細胞療法との併用で相乗的な腫瘍縮小効果を示した。V01は固形腫瘍治療における新規免疫療法または免疫アジュバントとして有望であり、臨床検討が期待される。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "FGFR4 Enhances Extracellular Vesicle-Associated Output and Promotes STAT1-Dependent LGALS3BP Enrichment in Colorectal Cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42966629/",
+        "abstract": "Fibroblast growth factor receptor 4 (FGFR4) contributes to colorectal cancer (CRC) progression, but its effects on extracellular vesicle (EV)-associated proteins remain unclear. In the present study, we examined FGFR4-associated changes in EV-enriched extracellular fractions and the role of STAT1 in LGALS3BP regulation.",
+        "source": "PubMed",
+        "doi": "10.21873/cgp.20622",
+        "keyword": "Exosomes",
+        "title_ja": "FGFR4は細胞外小胞関連の放出を促進し、大腸がんにおいてSTAT1依存性のLGALS3BP濃縮を促す。",
+        "summary_ja": "FGFR4は大腸癌（CRC）の進展に関与するが、細胞外小胞（EV）関連タンパク質への影響は不明である。本研究では、EV濃縮細胞外画分におけるFGFR4関連変化と、LGALS3BP制御におけるSTAT1の役割を検討した。FGFR4がEV関連の出力を増強し、STAT1依存的にLGALS3BPの濃縮を促進することが示された。"
+      },
+      {
+        "title": "Intranuclear localisation of KLF3-AS1 under the balance of histone acetylation and methylation in BMSCs ameliorates cerebral ischaemia‒reperfusion injury by preserving microglial mitochondrial function and inhibiting inflammatory polarisation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42965486/",
+        "abstract": "Ischaemic stroke occurs when blood flow to the brain is obstructed. Rapid restoration of blood supply frequently induces cerebral ischaemia‒reperfusion injury (CIRI). Bone marrow mesenchymal stem cell (BMSC)-derived exosomes exhibit promising therapeutic potential for CIRI. In-depth exploration of their therapeutic mechanisms holds crucial significance for CIRI management.",
+        "source": "PubMed",
+        "doi": "10.1002/ctm2.70870",
+        "keyword": "Exosomes",
+        "title_ja": "BMSCにおけるヒストンアセチル化とメチル化のバランス下でのKLF3-AS1の核内局在は、ミクログリアのミトコンドリア機能を保持し炎症性極性化を抑制することで脳虚血再灌流障害を改善する。",
+        "summary_ja": "骨髄間葉系幹細胞（BMSC）由来エクソソームは脳虚血再灌流障害（CIRI）に治療効果を示すが、その機序は未解明な部分が多い。本研究は、BMSCにおけるKLF3-AS1の核内局在がヒストンアセチル化とメチル化のバランスに依存して制御され、これがミクログリアのミトコンドリア機能保持と炎症性極性化抑制を通じてCIRIを改善することを示した。すなわち、KLF3-AS1の核内移行が治療効果の鍵となる分子機構であり、エクソソーム療法の作用機序解明に重要な知見を提供する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Novel modifications of small extracellular vesicles to enhance cardiac-specific delivery of siPKA RNA and edaravone against ischemia-reperfusion cardiac injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42964572/",
+        "abstract": "Relative tight endothelium in the heart may be a barrier for drugs in the large molecule and nanoparticle formats to act on cardiomyocytes. We hypothesize that enhanced binding of large molecules or nanoparticles to the cardiac capillary endothelial cells can increase the transendothelial transport of these drugs to exert their effects on the cardiomyocytes beneath the endothelium. CD36 is densely localized on the membrane of myocardial endothelial cells and thus we engineered small extracellular vesicles (sEVs) to be coated with an analog of CD36 ligand fatty acids, KOdiA-PC. Further to trap more therapeutic sEVs in the myocardium, we conjugated the sEVs with ischemic myocardium- targeting peptide (IMT). These dual-modifications of sEVs resulted in markedly enhanced fluorescent retention in the MIRI heart, indicating the potential of this system as a promising drug delivery platform for ischemic myocardium. Thus we loaded the dually-modified sEVs with edaravone (EDV) and siPKA RNA to dampen the ROS and inhibit overactivated PKA in myocardium subjected to ischemia/reperfusion injury, making a multistage-targeting and multifunctional sEVs delivery system (KI-sEVs/siPKA/EDV). The results showed that KOdiA-PC modification significantly enhanced sEVs transendothelial transport efficiency, and dual-targeting modification dramatically increased the accumulation of sEVs in the heart. Intravenous injection of KI-sEVs/siPKA/EDV significantly decreased myocardial infarction size, improved cardiac function and reduced cardiac fibrosis in animals subjected to MIRI or MI. KI-sEVs/siPKA/EDV also showed good biocompatibility and low toxicity. Our study provides an innovative cardiac-targeting delivery strategy and offers a promising method for MIRI and Persistent coronary occlusion MI treatment.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103760",
+        "keyword": "sEVs",
+        "title_ja": "小細胞外小胞の新規修飾によるsiPKA RNAおよびエダラボンの心臓特異的送達強化と虚血再灌流心障害に対する効果",
+        "summary_ja": "心筋の内皮は高分子やナノ粒子の障壁となる。CD36リガンド類似体KOdiA-PCと虚血心筋標的ペプチドIMTで二重修飾したsmall extracellular vesicles（sEVs）を作製し、心筋への集積を高めた。これにedaravoneとsiPKA RNAを搭載したKI-sEVs/siPKA/EDVを開発。KOdiA-PC修飾はsEVsの経内皮輸送効率を有意に高め、二重標的化は心臓集積を大幅に増加させた。静脈内投与により心筋虚血再灌流障害（MIRI）や心筋梗塞モデルで梗塞サイズ縮小、心機能改善、線維化抑制を示し、生体適合性も良好であった。心筋標的デリバリーの新戦略を提供する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**注目すべき5トピック**\n\n1. **NK細胞へのミトコンドリア移入**：腫瘍微小環境での代謝不全がNK細胞療法の課題。遠心分離法で単離したミトコンドリアを初代NK細胞へ移入し、代謝適応性と抗腫瘍活性を高める新手法。持続性改善への応用が期待される。\n\n2. **IL-21発現腫瘍溶解性ウイルスV01**：二重遺伝子欠失ワクシニアにIL-21を搭載。腫瘍内投与で遠隔腫瘍にも全身性効果（abscopal効果）を示し、免疫療法との相乗効果も確認。併用療法の有望な基盤となる。\n\n3. **FGFR4とEVタンパク質制御**：大腸癌でFGFR4がEV関連タンパク質の出力を促進し、STAT1依存性にLGALS3BPを濃縮。EVを介した腫瘍進展機序の解明とバイオマーカー開発につながる。\n\n4. **BMSC由来エクソソームとKLF3-AS1**：ヒストン修飾バランスに依存するKLF3-AS1の核内局在が、ミクログリアのミトコンドリア機能保持と炎症極性化抑制を介し脳虚血再灌流障害を改善。機序解明が進む。\n\n5. **心筋標的sEVsの二重修飾**：CD36リガンド類似体とIMTペプチドでsEVsを修飾し心筋集積を向上。siPKA RNAとedaravoneの心筋特異的デリバリーを実現し、虚血再灌流障害治療の新戦略を提示。\n\n**総括**：免疫細胞代謝強化、腫瘍溶解ウイルス、EV工学の3軸が進展。特にEV/sEVsの標的化・積荷制御が治療応用の鍵を握り、NK細胞療法との融合が今後の展望として重要である。"
+}

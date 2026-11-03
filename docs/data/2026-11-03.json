@@ -1,0 +1,156 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Natural Killer Cell-Based Immunotherapy in Retinoblastoma: Biological Basis, Preclinical Evidence, and Translational Challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42969752/",
+        "abstract": "Retinoblastoma (RB) is the most common primary intraocular malignancy of childhood. Although current multimodal treatment has considerably improved survival, advanced and recurrent disease still requires enucleation in a substantial proportion of cases and carries long-term psychosocial consequences. RB is driven primarily by biallelic inactivation of the RB1 tumor suppressor gene, together with secondary molecular and epigenetic alterations. A growing body of evidence indicates that RB tumors, particularly poorly differentiated and invasive forms, downregulate HLA Class I expression and antigen-processing machinery, a phenotype that favors escape from cytotoxic T-cell surveillance while creating a biological context that may favor natural killer (NK) cell-mediated recognition through missing-self mechanisms. Preclinical studies consistently show that NK and NK-like effector cells can lyse RB cell lines and enhance antibody-dependent cellular cytotoxicity when combined with anti-GD2 antibodies or chemotherapy, but clinical evidence remains extremely limited, with only a single heterogeneous pilot trial reported to date and no dedicated prospective studies in RB. This review critically synthesizes the biological rationale, preclinical evidence, and clinical/immunogenetic data for NK cell-based immunotherapy in RB and addresses the translational barriers unique to the intraocular environment, including uncertainties in immune cell trafficking across the blood-retinal barrier, delivery-route selection, and cell-manufacturing constraints. We conclude by proposing which RB subgroups, therapeutic platforms, and delivery strategies are most realistic for early clinical development, positioning NK cell-based therapy as a biologically rational adjunct rather than a replacement for current treatment.",
+        "source": "PubMed",
+        "doi": "10.1002/1545-5017.70805",
+        "keyword": "NK cell therapy",
+        "title_ja": "網膜芽細胞腫におけるナチュラルキラー細胞を用いた免疫療法：生物学的基盤、前臨床エビデンス、および臨床応用への課題",
+        "summary_ja": "網膜芽細胞腫（RB）は小児で最多の眼内悪性腫瘍である。RB1遺伝子の両アレル不活化と二次的変化で生じ、進行・再発例では眼球摘出を要し心理社会的影響が長期化する。低分化・浸潤型RBではHLAクラスIや抗原処理機構が低下し、細胞傷害性T細胞からの逃避が起こる一方、missing-self機構を介したNK細胞認識が有利となる可能性がある。前臨床研究ではNK/NK様細胞がRB細胞株を溶解し、抗GD2抗体や化学療法併用でADCCを増強する。しかし臨床エビデンスは極めて限られ、異種混合のパイロット試験が1件のみで前向き研究はない。本総説はNK細胞免疫療法の生物学的根拠、前臨床・臨床/免疫遺伝学的データを統合し、血液網膜関門通過、投与経路、細胞製造上の課題など眼内環境特有の障壁を論じる。NK細胞療法を現行治療の代替ではなく生物学的に合理的な補助療法と位置づけ、早期臨床開発に現実的なRBサブグループ、治療"
+      },
+      {
+        "title": "TARBP2 facilitates renal cell carcinoma immune escape by suppressing 53BP1 phase separation to upregulate B7-H3.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42969235/",
+        "abstract": "Renal cell carcinoma (RCC) harbors an immunosuppressive tumor microenvironment that facilitates immune evasion and resistance to immune checkpoint blockade (ICB). However, the factors driving immune escape in RCC remain incompletely understood. In this study, transactivation response RNA-binding protein 2 (TARBP2) was identified as a critical regulator of the immune checkpoint molecule B7-H3. Elevated TARBP2 expression was associated with poor prognosis and ICB resistance in patients with RCC. Functionally, TARBP2 in RCC cells suppressed the intratumoral accumulation and cytotoxicity of T cells, particularly NK cells, thereby promoting immune escape. Mechanistically, nuclear TARBP2 interacted with p53-binding protein 1 (53BP1), inhibiting 53BP1 phase separation and subsequent p53 activation, thereby augmenting B7-H3 transcription. Furthermore, TARBP2 inhibition significantly enhanced ICB efficacy when combined with adoptive NK cell therapy. Collectively, these findings establish TARBP2 as a key mediator of immune evasion in RCC and a promising therapeutic target for overcoming ICB resistance.",
+        "source": "PubMed",
+        "doi": "10.1172/JCI199525",
+        "keyword": "NK cell therapy",
+        "title_ja": "TARBP2は53BP1の相分離を抑制してB7-H3を上方制御することで、腎細胞癌の免疫逃避を促進する。",
+        "summary_ja": "腎細胞癌（RCC）の免疫抑制性腫瘍微小環境における免疫逃避機構は未解明な点が多い。本研究ではTARBP2が免疫チェックポイント分子B7-H3の重要制御因子であることを同定した。TARBP2高発現はRCC患者の予後不良・ICB抵抗性と関連し、RCC細胞においてT細胞やNK細胞の腫瘍内集積・細胞傷害性を抑制し免疫逃避を促進した。機序として核内TARBP2が53BP1と相互作用し、53BP1の相分離とそれに続くp53活性化を阻害することでB7-H3転写を亢進させた。TARBP2阻害は養子NK細胞療法との併用でICB効果を有意に増強した。TARBP2はRCCの免疫逃避の鍵となる媒介因子であり、ICB抵抗性克服の有望な治療標的である。"
+      },
+      {
+        "title": "Knockdown of the long isoform of the prolactin receptor selectively targets pathogenic immune cells in systemic lupus erythematosus and averts glomerular pathology.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42967941/",
+        "abstract": "Systemic lupus erythematosus (SLE) is an autoimmune disease characterized by chronic inflammation in multiple organ systems. Although elevated circulating levels of the hormone/cytokine prolactin (PRL) have long been associated with increased SLE activity, the extent to which different isoforms of the prolactin receptor (PRLR) contribute to disease pathogenesis has not been explored. Here, we show that immune cells in SLE have aberrant splicing of the PRLR such that the ratio of the long (LF) to short (SF) splice isoforms is increased. To determine whether change in PRLR isoform expression was causal in this disease, we used a splice-modulating oligomer that knocks down expression of the LFPRLR while increasing expression of the SFPRLRs. Using patient samples ex vivo, SLE-prone mice in vivo, high-dimensional flow cytometry, and single-cell RNA sequencing, we demonstrated that the aberrant PRLR isoform expression in SLE both directly and indirectly contributes to the generation of autoreactive immune cell phenotypes. Accordingly, LFPRLR knockdown (KD) reduced STAT1 phosphorylation, decreased expression of type I interferon signaling/response genes known to be biomarkers and hub genes for SLE, reduced immunoglobulins with autoreactivity-associated sequence features, and averted glomerular pathology in SLE-prone mice. Importantly, LFPRLR KD reduced pathogenic B cell and other immune subsets that drive B cell activation, without negative impact on healthy donor counterparts. Current treatments for SLE adversely affect healthy cells and do not concurrently eradicate multiple pathogenic immune subsets. As LFPRLR splice-modulating oligomer does not share these disadvantages, KD of the LFPRLR represents a potential treatment strategy for SLE that merits further investigation. The long prolactin receptor (LFPRLR) represents an attractive therapeutic target in systemic lupus erythematosus (SLE). Upper left: individuals with SLE exhibit aberrant increases in their relative transcript expression of the counteractive long (LF) to short (SF) PRLR isoforms. The aberrant increase in the ratio of LF:SF in SLE contributes to increased phosphorylation of STATs, predominantly STAT1. Upper right: aberrant increase in relative expression of LF:SF contributes to autoreactive immunophenotypes and glomerular pathology. Bottom: an SMO, which specifically prevents synthesis of only the LFPRLR and can increase expression of the counteractive SFs, tilts the balance of PRLR splice isoforms in favor of the SFs and reduces pathogenic signaling, immunophenotypes, and glomerular damage in SLE. Exons and introns are not drawn to scale. GC, germinal center; IFN-I, type I interferons; NK, natural killer; TLR, Toll-like receptor.",
+        "source": "PubMed",
+        "doi": "10.1038/s12276-026-01881-2",
+        "keyword": "NK cell therapy",
+        "title_ja": "プロラクチン受容体の長鎖アイソフォームのノックダウンは、全身性エリテマトーデスにおいて病原性免疫細胞を選択的に標的とし、糸球体病変を回避する。",
+        "summary_ja": "SLE患者の免疫細胞ではPRLRの異常スプライシングにより長鎖（LF）／短鎖（SF）アイソフォーム比が増加している。スプライス調節オリゴマー（SMO）を用いてLFPRLRをノックダウン（KD）し、患者検体、SLEモデルマウス、高次元フローサイトメトリー、single-cell RNA sequencingで検証した。LFPRLR KDはSTAT1リン酸化、I型インターフェロン応答遺伝子発現、自己反応性配列特徴を持つ免疫グロブリンを減少させ、糸球体病変を回避した。病原性B細胞やB細胞活性化を促す免疫サブセットも減少し、健常者細胞への悪影響は認めなかった。LFPRLRはSLEの有望な治療標的である。"
+      },
+      {
+        "title": "Autoimmune-shared immune states converge in a CXCL12-CXCR4 fibroblast-immune niche in chronic antibody-mediated rejection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42967934/",
+        "abstract": "Chronic antibody-mediated rejection (CAMR) is a leading cause of late kidney allograft failure and shares features of chronic immune activation with systemic autoimmune diseases, but how circulating immune states connect to spatially organized graft injury and whether related immune features recur in autoimmune inflammation remain unclear. Here, we integrated single-cell profiles from peripheral blood and kidney graft samples from patients with CAMR or stable allograft function and healthy controls with independent transplant cohorts, bulk transcriptomic datasets, spectral flow cytometry, multiplex immunofluorescence, high-resolution spatial transcriptomics, and a large blood immune reference spanning autoimmune and inflammatory diseases. CAMR was associated with reproducible myeloid expansion and enrichment of SLC8A1",
+        "source": "PubMed",
+        "doi": "10.1038/s41392-026-03017-4",
+        "keyword": "NK cell therapy",
+        "title_ja": "自己免疫共有免疫状態は、慢性抗体関連型拒絶反応におけるCXCL12-CXCR4線維芽細胞-免疫ニッチに収束する。",
+        "summary_ja": "CAMRは晩期腎移植片不全の主因で、全身性自己免疫疾患と慢性免疫活性化の特徴を共有するが、循環免疫状態と移植片損傷の空間的組織化の関連、自己免疫炎症での再現性は不明だった。本研究はCAMR患者・安定移植機能患者・健常者の末梢血と腎移植片のsingle-cell解析を、独立移植コホート、bulk transcriptomics、spectral flow cytometry、multiplex immunofluorescence、高解像度空間transcriptomics、自己免疫・炎症性疾患を含む大規模血中免疫リファレンスと統合した。CAMRは再現性のあるmyeloid expansionとSLC8A1の enrichment と関連した。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Spatial transcriptomic profiling of indeterminate antibody-mediated rejection in liver allografts: A pilot study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42925675/",
+        "abstract": "Antibody-mediated rejection (AMR) of liver allografts remains incompletely defined, particularly in biopsies classified as indeterminate for AMR under the current Banff criteria. Whether this category reflects the biological heterogeneity of antibody-mediated injury or is a distinct alloimmune phenotype remains unclear.",
+        "source": "PubMed",
+        "doi": "10.1016/j.prp.2026.156721",
+        "keyword": "NK cell therapy",
+        "title_ja": "肝移植片における判定不能な抗体関連拒絶反応の空間トランスクリプトームプロファイリング：パイロット研究",
+        "summary_ja": "肝移植における抗体関連拒絶（AMR）は未解明な点が多く、特にBanff基準でindeterminate AMRと分類される生検の意義が不明である。本研究は、このカテゴリーが抗体関連傷害の生物学的異質性を反映するのか、独自の同種免疫表現型なのかを明らかにするため、空間トランスクリプトーム解析を行ったパイロット研究である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Hepatic Stellate Cells: Fibrogenic Effectors to Central Regulators of Metabolism, Liver Disease Signaling, and Systemic Crosstalk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42969024/",
+        "abstract": "Hepatic stellate cells (HSCs) have long been regarded as the core effector cells in liver fibrosis. The advent of single-cell omics and metabolomics has led to a paradigm shift in our understanding of these cells. Notably, they are not only implicated in local fibrosis but are being increasingly recognized as a hub integrating metabolic and immune signaling. Located at the interface between hepatic vasculature and parenchyma, HSCs have the capacity to modulate intestinal barrier function, neurotransmitter circulation, myocardial energy metabolism, and bone remodeling through metabolic reprogramming (enhanced glycolysis, vitamin A consumption, glutamine metabolism remodeling) and receptor signaling (TLR4, TGF-β, CXCR4, etc.), as well as by secreting metabolites, exosomal miRNAs, and cytokines. Concurrently, HSCs perceive feedback signals from these organs, forming a dynamic cross-organ feedback network. This review systematically integrates the metabolic characteristics of HSCs in diseases such as metabolic dysfunction-associated steatotic liver disease, alcohol-related liver disease, chronic viral hepatitis, and hepatocellular carcinoma, along with their cross-organ interactive effects. We further discuss intervention strategies targeting metabolic pathways, exosomal cargo, and the microbiota-metabolism axis, and propose a three-tier translational framework stratifying HSC-targeted therapeutic approaches by developmental stage, offering novel insights for shifting liver disease treatment from single antifibrotic approaches toward systemic, multi-organ precision interventions.",
+        "source": "PubMed",
+        "doi": "10.5009/gnl260010",
+        "keyword": "Exosomes",
+        "title_ja": "肝星細胞：線維化エフェクターから代謝、肝疾患シグナル伝達、全身性クロストークの中心的制御因子へ",
+        "summary_ja": "肝星細胞（HSC）は長らく肝線維化の中心的エフェクター細胞と見なされてきたが、単一細胞オミクスとメタボロミクスの登場により理解が大きく転換した。HSCは局所線維化に関与するだけでなく、代謝・免疫シグナルを統合するハブとして認識されつつある。肝血管と実質の界面に位置し、代謝リプログラミング（解糖系亢進、ビタミンA消費、グルタミン代謝再構築）や受容体シグナル（TLR4、TGF-β、CXCR4等）、代謝物・エクソソームmiRNA・サイトカイン分泌を介して、腸管バリア機能、神経伝達物質循環、心筋エネルギー代謝、骨リモデリングを調節する。同時に他臓器からのフィードバック信号を受容し、動的な臓器間フィードバックネットワークを形成する。本レビューはMASLD、アルコール関連肝疾患、慢性ウイルス性肝炎、肝細胞癌におけるHSCの代謝特性と臓器間相互作用を体系的に統合し、代謝経路・エクソソーム積荷・微生物叢-"
+      },
+      {
+        "title": "A Review of Osteosarcoma-Derived Exosomes in Tumor Progression, Chemoresistance, and Bone Regeneration, and Their Potential in Drug Delivery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42968468/",
+        "abstract": "Exosomes, as critical mediators of intercellular communication, transport nucleic acids, proteins, and lipids that drive osteosarcoma (OS) progression and dynamically remodel the tumor microenvironment. Their distinctive biological properties-including low immunogenicity, high stability, and inherent targeting capability-position them as versatile tools across the entire OS management continuum, from early non-invasive diagnosis via liquid biopsy to targeted biotherapy and postoperative bone regeneration through coordinated osteogenesis-angiogenesis coupling. This review first outlines the epidemiological features and principal clinical bottlenecks of OS, then systematically summarizes exosome biogenesis, cellular uptake mechanisms, and the key molecular pathways through which exosomal cargoes regulate OS malignancy. We highlight emerging evidence that exosomal biomarkers enable real-time disease monitoring and that engineered exosomes serve as precision nanocarriers for therapeutic delivery. Notably, we emphasize recent insights into exosome-mediated crosstalk with immune cells within the osteoimmune microenvironment, their role in orchestrating vascularized bone formation, and advances in exosome-functionalized biomaterial scaffolds that effectively bridge tissue engineering with oncology. The clinical relevance of these findings lies in their potential integration into a unified diagnostic-therapeutic-regenerative paradigm, which may help overcome current limitations in surgical outcomes and chemoresistance. Nevertheless, clinical translation remains hindered by persistent challenges, including the lack of standardized isolation and characterization protocols, suboptimal in vivo delivery efficiency, batch-to-batch variability, and insufficient long-term safety data. Addressing these obstacles will require further mechanistic studies and multicenter clinical trials to establish robust regulatory frameworks. This article aims to review the roles of osteosarcoma-derived exosomes in tumor progression, chemoresistance, and bone regeneration, as well as their potential for drug delivery.",
+        "source": "PubMed",
+        "doi": "10.12659/MSM.953961",
+        "keyword": "Exosomes",
+        "title_ja": "骨肉腫由来エクソソームの腫瘍進展、化学療法抵抗性、骨再生における役割とドラッグデリバリーへの可能性に関するレビュー",
+        "summary_ja": "骨肉腫（OS）由来エクソソームは核酸・タンパク質・脂質を輸送し、腫瘍進行と微小環境リモデリングを促進する。低免疫原性・高安定性・標的指向性を活かし、リキッドバイオプシーによる早期診断から標的治療、術後骨再生までOS管理全体に応用可能である。本レビューはOSの疫学と臨床的課題を概説し、エクソソームの生合成・取り込み機構・悪性化制御の分子経路を整理する。バイオマーカーによるリアルタイムモニタリング、工学化エクソソームの精密ナノキャリアとしての治療応用、骨免疫微小環境での免疫細胞とのクロストーク、血管化骨形成の制御、エクソソーム機能化足場による腫瘍学と組織工学の橋渡しを強調する。診断・治療・再生の統合パラダイムにより手術成績や化学療法抵抗性の限界克服が期待されるが、標準化された単離・評価プロトコル、in vivo送達効率、ロット間変動、長期安全性データの不足が臨床応用の障壁であり、機序研究と多施"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Reln mRNA Delivery Drives Neurogenic Bone Regeneration by Orchestrating Schwann Cell-Mediated Exosomal Trafficking.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42969166/",
+        "abstract": "Neurogenic bone regeneration is essential for the effective restoration of bone tissue functionality, while the mechanisms and new strategies underlying neurogenic bone regeneration remain to be further explored. Here, single-cell transcriptomic analysis revealed enhanced mesenchymal-Schwann cell crosstalk during bone regeneration. Functionally, we verify that Schwann cells are indispensable for bone regeneration via paracrine exosome-mediated crosstalk with MSCs, a process promoted by Reelin. Mechanistically, Reelin enhances Schwann cell-derived exosome internalization by MSCs via regulating exosomal proteins, especially UBE2K, which promotes MSC osteogenic differentiation through the ERK pathway, associated with Lys63-linked polyubiquitination. For effective neurogenic bone regeneration, we engineered mesoporous silica nanoparticles (MSNs) as a CRISPRa delivery system for local Reln gene activation at the defect area. This mRNA delivery system could promote bone regeneration in both calvarial defect and tibial fracture models by constructing a pro-osteogenic neurogenic microenvironment. Collectively, our findings uncover a Reelin-Schwann cell exosomes-ERK regulatory axis in bone regeneration with translational potential, highlighting the therapeutic value of targeting neural-osteogenic crosstalk in bone regeneration.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.78530",
+        "keyword": "Exosomes",
+        "title_ja": "Reln mRNAの送達はシュワン細胞を介したエクソソーム輸送を統御することで神経性骨再生を促進する。",
+        "summary_ja": "骨再生時の単一細胞トランスクリプトーム解析により、間葉系幹細胞（MSC）とSchwann細胞のクロストーク亢進が判明した。Schwann細胞はパラクリン性エクソソームを介しMSCと相互作用して骨再生に不可欠であり、Reelinがこの過程を促進する。Reelinはエクソソームタンパク質、特にUBE2Kを制御してMSCによるエクソソーム取り込みを高め、Lys63結合型ポリユビキチン化を介したERK経路でMSCの骨芽細胞分化を促す。治療応用として、メソポーラスシリカナノ粒子（MSN）を用いたCRISPRaによるReln遺伝子局所活性化システムを構築し、頭蓋骨欠損および脛骨骨折モデルで骨再生を促進した。以上より、Reelin-Schwann細胞エクソソーム-ERK制御軸が骨再生における神経-骨クロストーク標的の治療的価値を示す。"
+      },
+      {
+        "title": "An extraction-free one-pot immunomagnetic-RPA-CRISPR/Cas13a platform for ultrasensitive detection of exosomal PD-L1.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42967779/",
+        "abstract": "Programmed death-ligand 1 (PD-L1) expressed on the surface of exosomes (exo) is a promising liquid biopsy biomarker for monitoring response to immunotherapy in hepatocellular carcinoma (HCC). However, existing detection methods are limited by insufficient sensitivity and complicated operation. To address this, we developed an extraction-free immunomagnetic recombinase polymerase amplification (RPA)-based one-pot high-sensitivity CRISPR/Cas13a platform (iMRO-HCRISPR) employing DNA-conjugated antibodies. Exosomes in blood were enriched with anti-CD63/CD81/CD9 antibody-conjugated magnetic beads and recognized by PD-L1-specific DNA-antibody probes; the probe DNA then underwent RPA amplification, in vitro transcription (IVT), and Cas13a trans-cleavage, achieving multi-level signal amplification with fluorescent readout. Toehold-mediated DNA affinity pull-down effectively reduced the detection background. The platform achieved a limit of detection (LOD) as low as 10",
+        "source": "PubMed",
+        "doi": "10.1016/j.aca.2026.346335",
+        "keyword": "Exosomes",
+        "title_ja": "抽出不要のワンポット免疫磁気-RPA-CRISPR/Cas13aプラットフォームによるエクソソームPD-L1の超高感度検出",
+        "summary_ja": "肝細胞癌（HCC）の免疫療法効果モニタリングに有用な液性生検バイオマーカーであるexosome表面のPD-L1（exo PD-L1）検出は、既存法では感度不足と操作の複雑さが課題である。本研究では、DNA結合抗体を用いた抽出不要の免疫磁気RPA－ワンポット高感度CRISPR/Cas13aプラットフォーム（iMRO-HCRISPR）を開発した。血中exosomeを抗CD63/CD81/CD9抗体結合磁気ビーズで濃縮し、PD-L1特異的DNA抗体プローブで認識後、RPA増幅、in vitro転写（IVT）、Cas13a trans-cleavageにより多段階シグナル増幅を蛍光検出で実現した。Toehold媒介DNAアフィニティプルダウンでバックグラウンドを低減し、LODは10（以下不明）を達成した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Temperature-responsive PDDNFs@QDs integrating simplified isolation for efficient tumor-derived small extracellular vesicles analysis enables breast cancer diagnosis and subtyping.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42854434/",
+        "abstract": "Multiplexed small extracellular vesicles (sEVs) biomarker detection holds great promise for breast cancer diagnosis and subtyping; however, its clinical application is often hampered by the complex isolation and detection processes. Herein, we propose a temperature-responsive sensing platform (PDDNFs@QDs) utilizing poly(N-isopropylacrylamide) (PNIPAM)-linked, dumbbell-shaped DNA nanoflowers (DNFs) loading quantum dots (QDs). The sensing mechanism is based on the disassembly of DNFs triggered by aptamer-target recognition, which releases the loaded QDs. This process enables simultaneous quantitative analysis of human epidermal growth factor receptor 2 (HER2) and epithelial cell adhesion molecule (EpCAM) on the surfaces of breast cancer-derived sEVs. Importantly, the PNIPAM-mediated thermo-responsive strategy promotes the aggregation of unreacted probes, thereby reducing matrix-associated background signals. This approach addresses matrix interference in crude membrane filtrates, allowing for the direct detection of sEVs isolated through simple filtration. Additionally, the platform was successfully applied to 45 clinical samples, achieving an area under the curve (AUC) of 0.97 for breast cancer diagnosis and an AUC of 0.85 for HER2-status discrimination, with results closely aligned with clinical imaging findings and pathological assessments. Overall, this strategy provides a simple and sensitive approach with significant potential for breast cancer diagnosis and subtyping.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bios.2026.119312",
+        "keyword": "sEVs",
+        "title_ja": "温度応答性PDDNFs@QDsと簡略化した単離法の統合により、腫瘍由来小型細胞外小胞の効率的な解析が可能となり、乳がんの診断とサブタイピングが実現する。",
+        "summary_ja": "温度応答性PDDNFs@QDsは、PNIPAM結合ダンベル型DNAナノフラワー（DNFs）に量子ドット（QDs）を搭載したセンシングプラットフォームである。アプタマー標的認識によるDNFsの分解でQDsが放出され、乳癌由来sEVs表面上のHER2とEpCAMを同時定量できる。PNIPAMによる温度応答戦略は未反応プローブを凝集させ、マトリックス由来バックグラウンドを低減する。これにより粗膜濾液のマトリックス干渉を克服し、簡易濾過で単離したsEVsの直接検出を可能にした。45例の臨床検体で乳癌診断のAUC 0.97、HER2状態識別のAUC 0.85を達成し、臨床画像・病理評価とよく一致した。本戦略は簡便かつ高感度で、乳癌診断・サブタイピングへの有用性が期待される。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです（約480字）。\n\n1. **NK細胞療法（網膜芽細胞腫）**：小児最多の眼内悪性腫瘍RBは、低分化・浸潤型でHLAクラスI発現が低下しT細胞免疫を回避する。NK細胞療法はこの免疫逃避を補完する新規治療として期待され、進行・再発例での眼球温存に寄与しうる。\n\n2. **TARBP2によるRCC免疫逃避**：TARBP2がB7-H3を制御し免疫チェックポイント阻害薬抵抗性に関与。予後予測バイオマーカーや新規標的として重要性が高い。\n\n3. **エクソソームによる骨肉腫管理**：OS由来エクソソームは腫瘍進行・薬剤耐性・骨再生に関与。低免疫原性・標的指向性を活かし、リキッドバイオプシーから治療・術後再生まで応用可能。\n\n4. **Reelin mRNAによる神経性骨再生**：Schwann細胞由来エクソソームを介したMSCとのクロストークが骨再生に必須。新規再生療法の設計指針となる。\n\n5. **exo PD-L1超高感度検出**：抽出不要の免疫磁気-RPA-CRISPR/Cas13a法によりHCC免疫療法モニタリングの液性生検が実用化に前進。"
+}

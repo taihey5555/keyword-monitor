@@ -1,0 +1,160 @@
+{
+  "A": {
+    "医学": [
+      {
+        "title": "Hepatocyte-derived exosomal miR-122 mediates liver-to-brain crosstalk and neuroinflammation in alcohol-exposed Alzheimer's disease mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42975926/",
+        "abstract": "Neuroinflammation and microglial activation are common features in Alzheimer's disease (AD) and excessive alcohol consumption. Alcohol induces liver damage and inflammation, and altered serum aminotransferases have been reported in patients with AD. Small extracellular vesicles (sEVs) and their cargo are emerging as mediators of intercellular communication in AD and alcohol-induced liver injury. However, the effects of alcohol use on AD progression remain to be elucidated. In this study, we evaluated the effects of repeated binge drinking on the liver and brain in the APP/PS1 mouse model of AD. Alcohol-exposed APP/PS1 mice showed elevated serum alanine aminotransferase levels, indicating liver injury absent in controls, along with increased pro-inflammatory cytokine expression in both liver and brain. Alcohol increased the biogenesis and release of sEVs in AD mice and in mouse hepatocytes. These sEVs were enriched in mature miR-122-5p that is predominant in hepatocytes. In vivo, miR-122-5p was detected in the brain of alcohol-exposed AD mice suggesting EV-mediated miR-122-5p transfer to the brain. Microglial uptake of hepatocyte-derived sEVs was confirmed in vitro. sEVs from alcohol-treated hepatocytes sensitized BV-2 microglia to LPS stimulation, significantly enhancing CCL2, CXCL2, CCL3, and TNF-α production. Transfection of microglia with a miR-122-5p mimic partially recapitulated the pro-inflammatory sensitization by sEVs from alcohol-exposed hepatocytes, which was reversed by miR-122-5p inhibitor delivery. ADAM10, a miR-122-5p target, was reduced in both wild-type and AD brains after alcohol exposure, with cell-specific effects. These results suggest that alcohol-induced hepatocyte-derived sEVs may modulate liver-to-brain signaling via miR-122-5p and contribute to neuroinflammation in AD.",
+        "source": "PubMed",
+        "doi": "10.1073/pnas.2535191123",
+        "keyword": "Exosomes",
+        "matched_keywords": [
+          "Exosomes",
+          "sEVs"
+        ],
+        "title_ja": "肝細胞由来エクソソームmiR-122は、アルコール曝露アルツハイマー病マウスにおいて肝臓から脳へのクロストークと神経炎症を媒介する。",
+        "summary_ja": "アルコール曝露APP/PS1マウスでは血清ALT上昇と肝・脳の炎症性サイトカイン増加がみられた。アルコールは肝細胞由来sEVの産生・放出を増やし、miR-122-5pを豊富に含んでいた。脳内でもmiR-122-5pが検出され、sEVを介した肝から脳への移行が示唆された。in vitroでミクログリアによる肝細胞由来sEV取り込みが確認され、アルコール処理肝細胞由来sEVはBV-2ミクログリアのLPS応答を増強しCCL2、CXCL2、CCL3、TNF-α産生を亢進した。miR-122-5p mimicはこの効果を部分的に再現し、inhibitorで逆転した。miR-122-5p標的ADAM10はアルコール曝露後に低下した。以上より、アルコール誘導性肝細胞由来sEVがmiR-122-5pを介し肝-脳連関とADの神経炎症に関与する可能性が示された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "In vitro antioxidant, anti-inflammatory, antifungal, and anti-HCoV-229E activities of Jatropha integerrima leaf and stem bark extract and in vivo evaluation of its intravenous SNEDDS in a mouse model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42975773/",
+        "abstract": "Coronavirus disease 2019 (COVID-19) has highlighted the need for novel antiviral agents with additional therapeutic activities against inflammatory and opportunistic fungal infections, including mucormycosis.",
+        "source": "PubMed",
+        "doi": "10.1007/s40199-026-00691-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "Jatropha integerrimaの葉および茎皮抽出物のin vitro抗酸化、抗炎症、抗真菌、抗HCoV-229E活性、ならびにマウスモデルにおけるその静脈内SNEDDSのin vivo評価",
+        "summary_ja": "本論文は、Jatropha integerrimaの葉および茎皮抽出物のin vitro抗酸化、抗炎症、抗真菌、抗HCoV-229E活性を評価し、マウスモデルで静脈内SNEDDSのin vivo評価を行った。COVID-19が炎症性および日和見真菌感染（ムコール症含む）に対する新規抗ウイルス薬の必要性を浮き彫りにしたことを背景とする。"
+      },
+      {
+        "title": "CAR T and NK cell therapy for acute myeloid leukemia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42973101/",
+        "abstract": "Adoptive cell therapy has emerged as a powerful approach for treating hematologic malignancies. Among these strategies, chimeric antigen receptor (CAR) T cell therapy has demonstrated remarkable clinical efficacy, especially for treating B cell malignancies. Several CAR T cell products have been approved for clinical use. Additionally, CAR-engineered natural killer (CAR NK) cells have recently been developed and have shown promising results in clinical trials for treating B-cell malignancies. However, developing CAR T- or NK-cell therapies for acute myeloid leukemia (AML) has been challenging due to the lack of AML-specific antigens that are not expressed by normal hematopoietic cells. Recently, we developed CAR T- and CAR NK-cell therapies targeting mismatched human leukocyte antigen (HLA)-DRB1 molecules in patients who have undergone allogeneic hematopoietic cell transplantation (allo-HCT). This review summarizes the current status of AML therapy, discusses the challenges of identifying suitable CAR targets, and introduces CAR T- and CAR NK-cell strategies targeting mismatched HLA-DRB1 molecules for treating relapsed AML after allo-HCT.",
+        "source": "PubMed",
+        "doi": "10.1093/intimm/dxag056",
+        "keyword": "NK cell therapy",
+        "title_ja": "急性骨髄性白血病に対するCAR T細胞療法とNK細胞療法",
+        "summary_ja": "養子細胞療法は血液悪性腫瘍治療の強力な手段となっている。CAR T細胞療法はB細胞悪性腫瘍で顕著な臨床効果を示し、複数の製品が承認済みである。CAR NK細胞もB細胞悪性腫瘍の臨床試験で有望な結果を示している。しかしAMLでは、正常造血細胞に発現しないAML特異的抗原が乏しいため、CAR T/NK細胞療法の開発は困難である。近年、同種造血細胞移植（allo-HCT）後の患者における不一致HLA-DRB1分子を標的とするCAR T/NK細胞療法が開発された。本レビューはAML治療の現状、適切なCAR標的同定の課題、allo-HCT後再発AMLに対する不一致HLA-DRB1標的CAR T/NK細胞戦略を概説する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Low-dose IL-2 therapy in autoimmune diseases: mechanisms, clinical evidence, and future strategies for precision immune regulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42975756/",
+        "abstract": "Low-dose interleukin-2 (LD-IL-2) is being developed as an immune-regulatory therapy across rheumatic and autoimmune diseases, but its biology cannot be reduced to regulatory T-cell (Treg) expansion. IL-2 responses are determined by dose and exposure, receptor abundance and binding kinetics, activation state, tissue distribution, and the balance among JAK-STAT5, PI3K-AKT-mTOR, and RAS-MAPK signaling. CD25-high Tregs have a competitive advantage at low concentrations, yet activated conventional T cells, CD8 + T cells, natural killer cells, follicular T-cell subsets, B-cell compartments, and tissue-resident populations may also be modulated directly or indirectly. We therefore synthesize the field through a cross-disease framework linking receptor pharmacology, signaling thresholds, Treg heterogeneity, epigenetic and metabolic fitness, receptor trafficking, and tissue microenvironments to pharmacodynamic, clinical, and durable responses. Disease-specific evidence is critically compared rather than interpreted as a uniform IL-2-deficiency syndrome: systemic lupus erythematosus combines T-cell IL-2 deficiency with Tfh-B-cell and age-associated B-cell pathology; inflammatory arthritis is constrained by synovial cytokine consumption and tissue access; systemic sclerosis by vascular-fibrotic remodeling; inflammatory myopathy by muscle, skin, lung, and microbiome contexts; and neurological autoimmunity by blood-brain-barrier penetration and compartmentalized inflammation. Randomized evidence supports biological activity and preliminary efficacy in selected settings, whereas many indications remain supported by small, uncontrolled studies. Native LD-IL-2 and engineered agonists also require separate evaluation because altered affinity and half-life can change cellular selectivity, immunogenicity, biodistribution, and the risk of chronic receptor overstimulation. We conclude that development should prioritize disease-specific dose-exposure relationships, functional and tissue-resolved biomarkers, rigorous clinical endpoints, and long-term surveillance. This framework positions IL-2 therapy as context-dependent network modulation rather than universal restoration of immune tolerance.",
+        "source": "PubMed",
+        "doi": "10.1007/s12016-026-09214-x",
+        "keyword": "NK cell therapy",
+        "title_ja": "自己免疫疾患における低用量IL-2療法：精密免疫調節のための機序、臨床的エビデンス、および今後の戦略",
+        "summary_ja": "低用量IL-2（LD-IL-2）はリウマチ性・自己免疫疾患の免疫調節療法として開発中だが、その作用はTreg増殖のみに還元できない。IL-2応答は用量・曝露、受容体発現量と結合動態、活性化状態、組織分布、JAK-STAT5・PI3K-AKT-mTOR・RAS-MAPKシグナル間のバランスで規定される。低濃度ではCD25高発現Tregが競合優位だが、活性化通常T細胞、CD8+T細胞、NK細胞、濾胞性T細胞サブセット、B細胞区画、組織常在集団も直接的・間接的に調節されうる。本稿は受容体薬理学、シグナル閾値、Treg不均一性、エピジェネティック・代謝適応、受容体トラフィッキング、組織微小環境を薬力学・臨床・持続応答に結びつける疾患横断的枠組みを提示する。疾患別エビデンスは一律のIL-2欠乏症候群としてではなく批判的に比較される。SLEはT細胞IL-2欠乏にTfh-B細胞・加齢関連B細胞病態が併存"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosome based nanocarriers enabling effective treatment of antimicrobial resistant infections through improved delivery and clinical potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42975758/",
+        "abstract": "Exosome-mediated drug delivery recently emerged as a viable approach for enhancing the therapeutic effectiveness of antimicrobial medicines in combating multidrug-resistant (MDR) pathogenic bacteria. Due to their inherent biocompatibility, biomimetic membrane structure, and effective cargo transport abilities, exosomes confront numerous drawbacks linked to traditional antimicrobial delivery systems, such as suboptimal drug stability, restricted biofilm infiltration, insufficient intracellular delivery, and unintended toxicity. This analysis offers an extensive summary of the latest developments in exosome-facilitated antimicrobial delivery, emphasising the conveyance of antibiotics, antimicrobial peptides, nucleic acids, and hybrid nanotherapeutics. Processes through which exosomes increase antimicrobial effectiveness, such as improved biofilm infiltration, intracellular localisation, immune system modulation, and precise cargo delivery, are comprehensively discussed. Recent advancements in exosome manipulation, cargo-loading methodologies, hybrid exosome-centric systems, and pathogen-specific delivery techniques are critically reviewed. Furthermore, this review discusses critical translational obstacles including scalable production, cargo-loading efficacy, quality assurance, storage durability, regulatory harmonisation, and clinical application. The evidence gathered highlights the potential of exosome-based delivery systems as novel biomimetic nanocarriers in the battle against antimicrobial resistance. It also highlights the technological and regulatory developments required for their successful clinical application.",
+        "source": "PubMed",
+        "doi": "10.1186/s11671-026-05011-9",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームベースのナノキャリアによる、送達改善と臨床的可能性を通じた抗菌薬耐性感染症の効果的な治療",
+        "summary_ja": "エクソソーム媒介薬物送達は、多剤耐性（MDR）病原菌に対する抗菌薬の治療効果を高める有望な手法として注目されている。エクソソームは生体適合性、生体模倣膜構造、効率的なカーゴ輸送能により、従来の抗菌薬送達システムの課題（薬物安定性不足、バイオフィルム浸透制限、細胞内送達不足、意図しない毒性）を克服する。本レビューは、抗生物質、抗菌ペプチド、核酸、ハイブリッドナノ治療薬の輸送を中心に、エクソソームによる抗菌薬送達の最新動向を概説する。バイオフィルム浸透性、細胞内局在、免疫調節、精密カーゴ送達など抗菌効果を高める機序を包括的に論じ、エクソソーム操作、カーゴ搭載法、ハイブリッドシステム、病原体特異的送達技術の進展を批判的に検討する。さらに、スケーラブル生産、カーゴ搭載効率、品質保証、保存安定性、規制調和、臨床応用などの翻訳上の障壁を論じる。エクソソーム基盤送達システムは抗菌薬耐性対策における新規生"
+      },
+      {
+        "title": "Exosomes in regenerative medicine from biological messengers to engineered nanocarriers for precision therapeutics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42975757/",
+        "abstract": "Exosomes have emerged as a promising class of next-generation nanocarriers at the intersection of regenerative medicine and drug delivery. Compared with conventional synthetic nanocarriers and stem cell-based therapies, exosomes offer unique advantages, including intrinsic biocompatibility, low immunogenicity, blood-barrier penetration, and natural intercellular cargo transfer. This review critically examines exosome biology, beginning with their biogenesis, structural composition, and roles in cellular homeostasis, immune regulation, autophagy, and tissue repair. Particular emphasis is placed on their therapeutic relevance in wound healing, neuroregeneration, cardiovascular repair, musculoskeletal regeneration, and cancer. The review further discusses major strategies for exosomal cargo engineering, including passive loading, electroporation, sonication, transfection-based approaches, extrusion, freeze-thaw treatment, and chemical functionalization. In addition, scaffold-assisted delivery systems and hybrid exosome-synthetic nanocarrier platforms are highlighted as important advances for improving local retention, targeting precision, and controlled release. Despite strong preclinical promise, translation remains limited by challenges in scalable manufacturing, purification, batch consistency, loading efficiency, potency assessment, and regulatory standardization. Future progress in this field will depend on the development of scalable and GMP-compatible exosome manufacturing, standardized purification and characterization methods, validated potency assays, regulatory-aligned quality control, and artificial intelligence (AI) engineering strategies to translate exosome-based platforms into safe, reproducible, and clinically effective regenerative therapeutics.",
+        "source": "PubMed",
+        "doi": "10.1186/s11671-026-05089-1",
+        "keyword": "Exosomes",
+        "title_ja": "再生医療におけるエクソソーム：生物学的メッセンジャーから精密治療のための工学ナノキャリアまで",
+        "summary_ja": "エクソソームは再生医療とドラッグデリバリーの交差点に位置する次世代ナノキャリアとして注目されている。合成ナノキャリアや幹細胞療法と比較し、生体適合性、低免疫原性、血液関門透過性、天然の細胞間カーゴ輸送などの利点を持つ。本レビューは、生合成・構造組成・細胞恒常性・免疫調節・オートファジー・組織修復における役割からエクソソーム生物学を検討し、創傷治癒、神経再生、心血管修復、筋骨格再生、がんにおける治療的意義を強調する。カーゴ工学戦略として受動的ローディング、エレクトロポレーション、超音波処理、トランスフェクション、押出法、凍結融解、化学的機能化を論じ、スキャフォールド支援デリバリーやハイブリッド型プラットフォームも概説する。前臨床の有望性にもかかわらず、スケーラブル製造、精製、バッチ一貫性、ローディング効率、力価評価、規制標準化が翻訳の障壁である。今後はGMP対応製造、標準化された精製・特性評"
+      },
+      {
+        "title": "Hydrogel-extracellular vesicle platforms: orchestrating the osteogenic microenvironment for cell-free bone regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42975659/",
+        "abstract": "Bone defects remain difficult to treat because impaired vascularization, inflammation, infection and metabolic dysfunction limit endogenous repair. Unencapsulated extracellular vesicles (EVs) may also be rapidly cleared from defect sites. Hydrogel-EV systems combine vesicle bioactivity with local retention, controlled release and structural support, offering a cell-free strategy for bone regeneration. This review summarizes EV sources, separation, characterization and cargo, and outlines the endosomal biogenesis of exosomes. We examine EV-mediated regulation of osteogenesis, angiogenesis, immunity and osteoclast-mediated resorption. Hydrogel materials, EV-loading approaches, passive and stimuli-responsive release, and methods for evaluating EVs within hydrogels are discussed. Applications in uncomplicated, infected and diabetes-associated bone defects are compared according to their pathological microenvironments. Translational barriers include heterogeneous EV preparations, inconsistent separation and dosing standards, inadequate mechanical performance, and mismatched hydrogel degradation and bone-healing kinetics. Insufficient biodistribution and long-term safety data further limit clinical translation. This review provides a framework for developing hydrogel-EV platforms for bone regeneration.",
+        "source": "PubMed",
+        "doi": "10.1039/d6tb02293f",
+        "keyword": "Exosomes",
+        "title_ja": "水凝胶-细胞外囊泡平台：调控成骨微环境以实现无细胞骨再生。",
+        "summary_ja": "骨欠損の治療は、血管新生障害・炎症・感染・代謝異常により内因性修復が制限され困難である。未封入の細胞外小胞（EVs）は欠損部位から速やかに除去される可能性がある。ハイドロゲル-EVシステムは、小胞の生物活性と局所滞留性・制御放出・構造的支援を組み合わせ、細胞を用いない骨再生戦略を提供する。本レビューはEVの供給源・分離・特性評価・積荷を要約し、エクソソームのエンドソーム生合成を概説する。EVによる骨形成・血管新生・免疫・破骨細胞性吸収の制御を検討する。ハイドロゲル材料、EV搭載法、受動的・刺激応答性放出、ハイドロゲル内EV評価法を論じる。単純性・感染性・糖尿病関連骨欠損への応用を病理的微小環境に応じて比較する。臨床応用の障壁としてEV調製の不均一性、分離・投与基準の不一致、不十分な機械的性能、ハイドロゲル分解と骨治癒動態の不一致が挙げられる。生体内分布と長期安全性データの不足も臨床応用を制"
+      },
+      {
+        "title": "Post-ARDS Pulmonary Fibrosis: From Molecular Mechanisms to Clinical Management.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42972920/",
+        "abstract": "Acute respiratory distress syndrome (ARDS) is a severe inflammatory lung injury caused by various factors, including infection, trauma and shock. The predominant pathological alteration in its late stages is pulmonary fibrosis (PF), characterised by progressive extracellular matrix deposition, architectural destruction and functional impairment. Particularly in COVID-19-induced ARDS, PF incidence has markedly increased, making it a major sequela impacting patients' long-term quality of life.",
+        "source": "PubMed",
+        "doi": "10.1017/erm.2026.10077",
+        "keyword": "Exosomes",
+        "title_ja": "ARDS後の肺線維症：分子メカニズムから臨床管理まで",
+        "summary_ja": "ARDSは感染・外傷・ショックなどで生じる重篤な炎症性肺損傷であり、その後期の主要な病理変化は肺線維症（PF）である。PFは細胞外マトリックスの進行性沈着、構造破壊、機能障害を特徴とする。特にCOVID-19誘発ARDSではPF発症率が著明に増加し、患者の長期的QOLを損なう主要な後遺症となっている。本論文は、ARDS後PFについて分子メカニズムから臨床管理までを概説する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Homotypic targeting and fibrosis modulation by human pancreatic stellate cell-derived exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42975849/",
+        "abstract": "Extensive desmoplastic remodeling in pancreatic ductal adenocarcinoma (PDAC) limits the intratumoral access of therapeutic agents and contributes to treatment resistance. Here, we investigated the stromal uptake preference, fibrosis-modulating activity, and siRNA-loading capacity of human pancreatic stellate cell-derived exosomes (HPSC-Exos). HPSC-Exos were recovered through sequential centrifugation steps ending with ultracentrifugation. Nanoparticle tracking analysis (NTA) placed most detected particles within the 100-150 nm range, whereas immunoblotting identified CD9, CD81, and TSG101, but not Calnexin. Flow cytometry and confocal microscopy showed greater HPSC-Exo-associated fluorescence in cancer-associated fibroblasts (CAFs) than in PANC-1 and HEK-293T cells. Integrin αv and integrin β1 were detected in HPSC-Exo preparations, and RGD peptide competition reduced CAF uptake, supporting RGD-sensitive, integrin-associated interactions. Unloaded HPSC-Exos reduced fibrosis-associated protein expression and produced concentration-associated decreases in FAP, α-SMA, fibronectin, COL1A1, and COL3A1 mRNA levels by approximately 30-51% at 40 μg/mL. CAF wound closure at 24 h was reduced by approximately 68.6% and 81.7% following treatment with 20 and 40 μg/mL HPSC-Exos, respectively, relative to untreated controls. No significant reduction in the metabolic viability of HPSCs, HEK-293 T cells, or CAFs was observed at concentrations up to 80 μg/mL. Additionally, chemically modified siRNA directed against GLI2 (siGLI2) was incorporated into HPSC-Exos by electroporation, and the loaded preparations retained a predominantly nanoscale size distribution and CAF uptake comparable to unloaded HPSC-Exos. Collectively, HPSC-Exos exhibit preferential CAF-associated uptake and intrinsic modulation of fibrosis-associated phenotypes in vitro, while also supporting siRNA loading, providing a biological platform for further investigation in the PDAC stromal microenvironment.",
+        "source": "PubMed",
+        "doi": "10.1007/s13577-026-01466-1",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト膵星細胞由来エクソソームによる同種標的化と線維化調節",
+        "summary_ja": "ヒト膵星細胞由来エクソソーム（HPSC-Exos）の特性を検討した研究。超遠心法で回収したHPSC-Exosは主に100-150nmで、CD9・CD81・TSG101陽性、Calnexin陰性だった。フローサイトメトリーと共焦点顕微鏡で、癌関連線維芽細胞（CAF）への取り込みがPANC-1やHEK-293Tより高いことを確認。インテグリンαv・β1が検出され、RGDペプチド競合でCAF取り込みが低下し、RGD感受性・インテグリン関連相互作用が示唆された。未搭載HPSC-Exosは線維化関連タンパク質発現を低下させ、40μg/mLでFAP、α-SMA、フィブロネクチン、COL1A1、COL3A1のmRNAを約30-51%減少。CAF創傷治癒は20・40μg/mLで約68.6%・81.7%抑制。80μg/mLまで代謝活性への有意な影響なし。GLI2標的siRNAをエレクトロポレーションで搭載可"
+      },
+      {
+        "title": "Divide and Conquer Strategy Using Piezoelectric Nanofiber Scaffolds for Stage-Specific Delivery of Bone-Targeted Exosome Mimetics with Ago/AntagomiR-126.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42975284/",
+        "abstract": "Bone regeneration is a temporally regulated process requiring stage-specific biochemical cues and biomechanical stimulation; however, current scaffold-based delivery systems largely rely on passive release and fail to adapt to the dynamic healing phases. While previous PVDF-based scaffolds have focused on enhancing piezoelectric output or osteoconductive properties, they primarily function as passive materials without the dynamic regulation of therapeutic activity. Here, we present a multifunctional piezoelectric scaffold that enables mechanically triggered, temporally controlled delivery of bone-targeted exosome mimetics (EMs) loaded with AgomiR or AntagomiR-126. The scaffold features a three-dimensional piezoelectric architecture that generates electromechanical activation under physiological loading, allowing for coupling between mechanical stimulation and therapeutic release. In addition, these components are functionally integrated to coordinate phase-specific miRNA activity during the repair. Alendronate-functionalized EMs enable bone-selective localization, while AgomiR-126 promotes early angiogenesis and progenitor recruitment and AntagomiR-126 enhances late-stage osteogenic differentiation. In vivo studies demonstrated that this system significantly improved bone repair. Rather than introducing a new component, this work establishes a mechanically gated, temporally programmed miRNA delivery strategy for phase-specific bone regeneration.",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.6c10518",
+        "keyword": "Exosomes",
+        "title_ja": "圧電性ナノファイバー足場を用いた分割統治戦略によるAgo/AntagomiR-126搭載骨標的エクソソーム模倣体の段階特異的送達",
+        "summary_ja": "本論文は、骨再生が段階的に制御される過程であるにもかかわらず、既存の足場型送達系が受動的放出に依存し動的な治癒相に対応できない課題に対し、圧電性ナノファイバー足場を用いた分割統治戦略を提案する。PVDF基盤の三次元圧電構造が生理的荷重下で電気機械的活性化を生じ、機械的刺激と治療的放出を連動させる。アレンドロナート修飾した骨標的エキソソーム模倣体（EMs）にAgomiR-126またはAntagomiR-126を搭載し、AgomiR-126で初期の血管新生と前駆細胞動員を、AntagomiR-126で後期の骨芽細胞分化を促進する。in vivoで骨修復の有意な改善を示し、機械的ゲート制御による時系列プログラミングmiRNA送達戦略を確立した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "**注目すべき5トピック**\n\n1. **肝-脳クロストークとアルツハイマー病**：アルコール曝露APP/PS1マウスで肝細胞由来sEV中のmiR-122-5pが脳内神経炎症を媒介。肝疾患が神経変性を増悪する機序解明として重要で、臓器間コミュニケーション研究の新展開が期待される。\n\n2. **AMLへのCAR-T/NK細胞療法**：B細胞悪性腫瘍での成功を踏まえ、AMLへの応用が課題。正常造血細胞への傷害回避が鍵で、NK細胞の同種移植適性が今後の展望。\n\n3. **低用量IL-2による精密免疫調節**：Treg増殖だけでなく用量・受容体動態・組織分布が応答を規定。自己免疫疾患への個別化戦略として注目。\n\n4. **エクソソームによるMDR感染症治療**：生体適合性と効率的カーゴ輸送で抗菌薬送達を改善。耐性菌対策の新機軸として臨床応用が期待される。\n\n5. **ハイドロゲル-EV骨再生プラットフォーム**：EVの局所滞留性・制御放出を実現し、無細胞骨再生の実用化に道。段階的治癒相への対応が今後の課題。"
+}

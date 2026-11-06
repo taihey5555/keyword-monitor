@@ -1,0 +1,134 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Cell-type-specific FGF23 signalling in chronic kidney disease-associated cardiovascular injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42984380/",
+        "abstract": "Chronic kidney disease (CKD) produces a distinctive cardiovascular phenotype that traditional risk factors cannot fully explain. Fibroblast growth factor 23 (FGF23) rises early in CKD, whereas renal and circulating α-Klotho decline; this imbalance weakens canonical FGFR1c-α-Klotho signalling and permits maladaptive receptor engagement in cardiovascular tissues. The present review synthesises current evidence on cell-type-specific FGF23 signalling in CKD, focusing on receptor topology, intracellular signalling cascades, and therapeutic implications. In vascular endothelial cells, excess FGF23 promotes oxidative stress, depletes nitric oxide, and impairs endothelial function, partly through FGFR1-PLCγ2-NOX2-dependent generation of reactive oxygen species. In vascular smooth muscle cells, FGF23 intersects with MEK-ERK signalling and phosphate sensing, although medial calcification is driven predominantly by phosphate retention and α-Klotho deficiency rather than by FGF23 alone. In cardiomyocytes, α-Klotho-independent FGFR4 signalling activates the PLCγ-calcineurin-NFAT axis, promoting left ventricular hypertrophy, calcium-handling abnormalities, and arrhythmogenic vulnerability. FGF23 also contributes to cardiac fibroblast activation and extracellular-matrix remodelling. A parallel, largely FGF23-independent calcium-sensing receptor-calcium-organelle stress pathway may additionally amplify mitochondrial injury, cGAS-STING signalling, and inflammasome-mediated cell death within the CKD-mineral bone disorder (CKD-MBD) milieu. Emerging experimental evidence that skeletal muscle can generate FGF23 during phosphate stress broadens the traditional bone-centred model of CKD-MBD. Calciprotein particles are additionally implicated as an extracellular signal coupling mineral loading to FGF23 secretion, and prognostic data from naturally occurring feline CKD support a conserved clinical relevance across species. Current therapies lower FGF23 only indirectly, through phosphate, parathyroid hormone, iron, and kidney-protective pathways, and dedicated cardiovascular outcome trials targeting the FGF23-α-Klotho axis are still lacking.",
+        "source": "PubMed",
+        "doi": "10.1042/CS20261824",
+        "keyword": "Klotho",
+        "title_ja": "慢性腎臓病関連心血管障害における細胞種特異的FGF23シグナル伝達",
+        "summary_ja": "慢性腎臓病（CKD）は従来の危険因子では説明できない心血管表現型を生じる。CKD早期にFGF23が上昇しα-Klothoが低下すると、FGFR1c-α-Klothoシグナルが弱まり、心血管組織で不適応な受容体活性化が起こる。本レビューはCKDにおける細胞種特異的FGF23シグナルを、受容体構成、細胞内カスケード、治療的示唆の観点から統合する。血管内皮細胞ではFGF23過剰がFGFR1-PLCγ2-NOX2依存性ROS産生を介し酸化ストレス、NO枯渇、内皮機能障害を招く。血管平滑筋細胞ではMEK-ERKシグナルやリン感知と交差するが、中膜石灰化は主にリン貯留とα-Klotho欠乏に駆動される。心筋細胞ではα-Klotho非依存性FGFR4がPLCγ-カルシニューリン-NFAT軸を活性化し、左室肥大、カルシウム動態異常、不整脈脆弱性を促進する。FGF23は心線維芽細胞活性化と細胞外基質リモデリ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Behavioral, biochemical, histological, and electrophysiological changes following intracerebral injection of bone marrow stem cell-derived exosomes in male rat models of Alzheimer's disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42986457/",
+        "abstract": "Recently, researchers have been exploring how exosomes can help treat neurodegenerative diseases, such as Alzheimer's disease (AD), has attracted considerable attention. This study aimed to investigate behavioral, biochemical, histological, and electrophysiological changes following the administration of bone marrow stem cell-derived exosomes (Exo-BMSCs) in AD model rats. Animals were divided into control, Lesion (Lesion, Lesion + saline), and treatment (Lesion + BMSCs, Lesion + Exo-BMSCs) groups. BMSCs were extracted from the bone marrow of newborn rats. Exosomes were extracted from the BMSCs culture medium using a chemical kit. Saline, BMSCs, and Exo-BMSCs were injected bilaterally into the nucleus of Meynert (NBM) one week after electrical lesion. 28 days after injection, behavioral, electrophysiological, and histological changes, as well as ACh and BDNF expression levels in the hippocampus, were evaluated. Electrical lesion of the NBM caused a significant decrease in passive avoidance memory retrieval, a significant decrease in ACh and BDNF levels, changes in EEG wave frequencies in the hippocampus, and histological changes in the NBM, similar to those observed in AD. On the other hand, injection of BMSCs and Exo-BMSCs into the NBM significantly improved passive avoidance memory, an increase in BDNF levels, an increase in power of gamma waves, and improved histological changes compared to the Lesion groups. The increase in power of gamma waves was significant only in the Exo-BMSC-treated group. Injection of BMSCs and Exo-BMSCs into the NBM can significantly improve disease symptoms. This improvement was more pronounced in the Exo-BMSCs-treated group. The concurrent increase in BDNF suggests that this neurotrophin contributes to the observed effects.",
+        "source": "PubMed",
+        "doi": "10.1007/s00221-026-07426-3",
+        "keyword": "Exosomes",
+        "title_ja": "アルツハイマー病雄ラットモデルにおける骨髄幹細胞由来エクソソームの脳内注射後の行動学的、生化学的、組織学的、および電気生理学的変化",
+        "summary_ja": "アルツハイマー病（AD）モデルラットのマイネルト基底核（NBM）への電気的損傷後、骨髄幹細胞由来エクソソーム（Exo-BMSCs）またはBMSCsを注入し、行動・生化学・組織・電気生理学的変化を検討した。損傷により受動回避記憶の低下、海馬ACh・BDNF減少、EEG波周波数変化、NBMの組織学的変化が生じた。BMSCsおよびExo-BMSCs注入は記憶、BDNF、組織像を改善し、Exo-BMSCs群ではガンマ波パワーの有意な増加も認められた。Exo-BMSCs群で改善がより顕著であり、BDNF増加が関与すると示唆された。"
+      },
+      {
+        "title": "The Novel Viral Non-Coding RNA LMP2A-IT1 Promotes the Lytic Replication of EBV.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42985781/",
+        "abstract": "The Epstein-Barr virus (EBV) is recognized as the first human tumor virus and etiologically linked to a spectrum of malignancies and autoimmune diseases. EBV lytic replication contributes substantially to pathogenesis, but the viral components that enable efficient replication within host cells remain incompletely understood. Here, we identified a previously unknown EBV non-coding RNA (ncRNA) from glycoRNA samples and designated it LMP2A-IT1. This viral ncRNA was consistently detected across multiple EBV-infected cell lines, in exosomes, and in EBV-positive nasopharyngeal carcinoma tissues, exhibiting a predominantly cytoplasmic distribution. Functional analyses reveal that the induction of LMP2A-IT1 during EBV lytic replication actively drives the lytic cycle, resulting in a self-amplifying positive feedback loop. Mechanistically, LMP2A-IT1 appears to activate an inflammatory response, which subsequently upregulates BZLF1, a master regulator of the EBV lytic cascade, to facilitate lytic progression. Together, our findings suggest that LMP2A-IT1 represents a previously unrecognized viral factor that EBV deploys to achieve robust replication. To our best knowledge, this is the first report of a viral RNA harboring glycosylation modifications, thereby expanding the glycoRNA landscape. Moreover, this study offers new mechanistic insights into EBV replication as well as a potential biomarker and therapeutic target for EBV-associated diseases.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.78488",
+        "keyword": "Exosomes",
+        "title_ja": "新規ウイルス非コードRNA LMP2A-IT1はEBVの溶解性複製を促進する。",
+        "summary_ja": "Epstein-Barrウイルス（EBV）は最初のヒト腫瘍ウイルスであり、多种の悪性腫瘍や自己免疫疾患と病因的に関連する。EBVの溶解性複製は病態形成に大きく寄与するが、宿主細胞内での効率的な複製を可能にするウイルス因子は十分に解明されていない。本研究では、glycoRNAサンプルからこれまで未知のEBV非コードRNA（ncRNA）を同定し、LMP2A-IT1と命名した。このウイルスncRNAは複数のEBV感染細胞株、エクソソーム、およびEBV陽性上咽頭癌組織で一貫して検出され、主に細胞質に分布した。機能解析により、EBV溶解性複製時のLMP2A-IT1誘導が溶解サイクルを積極的に駆動し、自己増幅的な正のフィードバックループを形成することが明らかになった。機序として、LMP2A-IT1は炎症反応を活性化し、続いてEBV溶解カスケードの主要制御因子であるBZLF1を上方制御して溶解進行を促進"
+      },
+      {
+        "title": "Cytochalasin D-induced cytoskeletal remodeling with MYH9 enhances release of extracellular vesicles for therapeutic application.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42927683/",
+        "abstract": "Extracellular vesicles (EVs) hold great potential as therapeutic vehicles, but their clinical application is limited by low production yields. Here, we explored whether the pharmacological disruption of the actin cytoskeleton using cytochalasin D (CytoD) could enhance EV release while maintaining properties essential for therapeutic use. We examined monocytic U937 cells and colorectal cancer SW480 cells, discovering that CytoD increased EV production by approximately 8.27-fold in U937 cells and 10.06-fold in SW480 cells, while largely preserving the size distribution and surface charge of the EVs. Density gradient ultracentrifugation and label-free quantitative proteomics revealed that CytoD not only increased overall EV release but also selectively remodeled EV proteins. Notably, CytoD-EVs retained lineage-associated membrane proteins such as LFA-1 and showed an enrichment of cytoskeleton-related regulators, particularly MYH9, as well as proteins involved in adhesion and membrane trafficking. We observed the recruitment of MYH9 to membrane blebs,and both pharmacological inhibition with blebbistatin and MYH9 knockdown suppressed EV release, indicating that actomyosin-dependent contractility stimulates EV shedding. Importantly, CytoD-EVs proved to be highly effective drug carriers that doxorubicin-loaded EVs efficiently delivered cargo to recipient cells and induced greater cytotoxicity than free doxorubicin at equivalent doses. Overall, these findings demonstrate that CytoD-induced cytoskeletal remodeling enhances EV production through MYH9-associated membrane dynamics while preserving their capacity for therapeutic delivery. Thus, our findings establish CytoD-induced EV biogenesis as a robust, scalable, and translationally applicable platform for advanced EV-based drug delivery systems.",
+        "source": "PubMed",
+        "doi": "10.1016/j.biomaterials.2026.124716",
+        "keyword": "Exosomes",
+        "title_ja": "サイトカラシンD誘導性のMYH9を伴う細胞骨格リモデリングは治療応用のための細胞外小胞の放出を促進する。",
+        "summary_ja": "Cytochalasin D（CytoD）によるアクチン細胞骨格の薬理学的破壊がEV放出を増強するか検討した。単球系U937細胞と大腸癌SW480細胞で、CytoDはEV産生をそれぞれ約8.27倍、10.06倍に増加させ、EVのサイズ分布と表面電荷はほぼ維持された。密度勾配超遠心とラベルフリー定量プロテオミクスにより、CytoDはEV放出を増やすだけでなくEVタンパク質を選択的にリモデリングすることが判明した。CytoD-EVsはLFA-1などの系統関連膜タンパク質を保持し、細胞骨格関連制御因子、特にMYH9や接着・膜輸送関連タンパク質が濃縮された。MYH9の膜ブレブへの動員が観察され、blebbistatinによる阻害とMYH9ノックダウンはいずれもEV放出を抑制し、アクトミオシン依存性収縮がEV sheddingを促進することが示された。CytoD-EVsはドキソルビシンを搭載して効率"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Statement of Retraction: A novel circRNA-miRNA-mRNA network revealed exosomal circ-ATP10A as a biomarker for multiple myeloma angiogenesis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42987278/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1080/21655979.2026.2745477",
+        "keyword": "Exosomes",
+        "title_ja": "撤回声明：新型circRNA-miRNA-mRNA网络揭示外泌体circ-ATP10A可作为多发性骨髓瘤血管生成的生物标志物。",
+        "summary_ja": "ご提示いただいた論文は「Retraction（撤回）」の声明であり、本文が含まれていないため、内容の要約はできません。タイトルから読み取れる範囲は以下です。\n\n本撤回声明は、原著論文「A novel circRNA-miRNA-mRNA network revealed exosomal circ-ATP10A as a biomarker for multiple myeloma angiogenesis」に対する撤回を表明するものです。当該論文は、circRNA-miRNA-mRNAネットワークを構築し、エクソソーム由来circ-ATP10Aを多発性骨髄腫の血管新生バイオマーカーとして提示した研究です。ただし撤回理由・経緯は本文に記載がないため不明です。要約には本文の提供が必要です。"
+      },
+      {
+        "title": "Beyond blood: a narrative review of advancements in saliva-based diagnostics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42986663/",
+        "abstract": "Human whole saliva is an accessible, noninvasive biofluid reflecting systemic and oral physiology, offering a viable alternative to invasive venipuncture and its associated pre-analytical vulnerabilities (e.g. ex vivo glycolysis).",
+        "source": "PubMed",
+        "doi": "10.1080/14737159.2026.2760897",
+        "keyword": "Exosomes",
+        "title_ja": "血液を超えて：唾液ベース診断の進歩に関するナラティブレビュー",
+        "summary_ja": "本論文は、唾液を用いた診断法の進歩に関するナラティブレビューである。ヒト全唾液は非侵襲的に採取可能な生体液であり、全身および口腔の生理状態を反映する。侵襲的な静脈穿刺や、採取後の赤血球による解糖（ex vivo glycolysis）など前分析段階の脆弱性を伴う血液検査に代わる選択肢として有望視されている。唾液診断の有用性と今後の可能性を概説している。"
+      },
+      {
+        "title": "Human Umbilical Cord Mesenchymal Stem Cell-Derived Exosomes Preserve Cartilage Homeostasis and Restore Joint Function in Experimental Osteoarthritis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42985799/",
+        "abstract": "Mesenchymal stem cells (MSCs) have shown therapeutic potential for osteoarthritis (OA), but their clinical application is limited by the need for extensive ex vivo expansion. Human umbilical cord MSC-derived exosomes (hUCMSC-Exos) have emerged as a promising cell-free alternative because of their cartilage-protective and immunomodulatory properties. hUCMSC-Exos were characterized by nanoparticle tracking analysis and evaluated in an interleukin-1β (IL-1β)-stimulated human chondrocyte model and an anterior cruciate ligament transection (ACLT)-induced rat OA model. In vitro, hUCMSC-Exos suppressed inflammatory and catabolic responses while enhancing extracellular matrix synthesis, as evidenced by reduced IL-1β, MMP13, and Type X collagen expression and increased TIMP1, aggrecan, and Type II collagen expression. In vivo, repeated intra-articular administration of hUCMSC-Exos attenuated cartilage degeneration, resulting in improved gross joint morphology, reduced histopathological damage, increased glycosaminoglycan deposition and Type II collagen expression, and decreased MMP13 expression. These structural improvements were accompanied by enhanced functional recovery, as demonstrated by improved hind limb weight-bearing and treadmill running endurance. These findings suggest that hUCMSC-Exos alleviate cartilage degeneration and improve joint function, supporting their potential as a promising cell-free therapeutic approach for OA.",
+        "source": "PubMed",
+        "doi": "10.1002/kjm2.70312",
+        "keyword": "Exosomes",
+        "title_ja": "ヒト臍帯間葉系幹細胞由来エクソソームは実験的変形性関節症において軟骨恒常性を維持し関節機能を回復する",
+        "summary_ja": "間葉系幹細胞（MSC）は変形性関節症（OA）への治療可能性を示すが、体外培養の必要性が臨床応用を制限している。ヒト臍帯由来MSCエクソソーム（hUCMSC-Exos）は軟骨保護・免疫調節作用を持つ無細胞代替療法として注目される。本研究ではhUCMSC-Exosをナノ粒子追跡解析で特性評価し、IL-1β刺激ヒト軟骨細胞モデルと前十字靱帯切断（ACLT）誘発ラットOAモデルで検討した。in vitroでは炎症・異化反応を抑制し、IL-1β、MMP13、X型コラーゲン発現を低下させ、TIMP1、アグリカン、II型コラーゲン発現を増加させた。in vivoでは反復関節内投与により軟骨変性が軽減し、組織学的損傷の減少、グリコサミノグリカン沈着とII型コラーゲン発現の増加、MMP13発現の低下を認めた。さらに後肢荷重やトレッドミル走行耐久性の改善を伴う機能回復も示された。hUCMSC-Exosは軟骨変"
+      },
+      {
+        "title": "A ROS-Responsive Injectable Hydrogel Platform Reprograms the Diabetic Wound Microenvironment to Enable Exosome Therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42985724/",
+        "abstract": "Diabetic wounds persist because excessive reactive oxygen species (ROS) sustain chronic inflammation and disrupt the regenerative microenvironment, impairing the stability and function of bioactive therapeutic components, including stem cells and extracellular vesicles (EVs). Here, an injectable hyaluronic acid (HA) hydrogel integrates microenvironment modulation with regenerative cue delivery by co-encapsulating ROS-responsive cerium oxide nanozymes (CeO",
+        "source": "PubMed",
+        "doi": "10.1002/adhm.71946",
+        "keyword": "Exosomes",
+        "title_ja": "ROS响应性注射用水凝胶平台重编程糖尿病创面微环境以实现外泌体治疗",
+        "summary_ja": "糖尿病創傷では過剰なROSが慢性炎症を持続させ、幹細胞や細胞外小胞（EV）を含む治療成分の安定性と機能を損なう。本研究では、ROS応答性酸化セリウムナノザイム（CeO）とエクソソームを共封入した注射可能なヒアルロン酸（HA）ヒドロゲルを開発し、微小環境調節と再生シグナル送達を統合した。このプラットフォームは糖尿病創傷の微小環境を再プログラムし、エクソソーム療法を可能にする。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の論文から注目すべき5トピックを選定します。\n\n1. **CKDにおけるFGF23シグナル**：CKD早期のFGF23上昇とα-Klotho低下が心血管障害を招く機序のレビュー。臓器特異的シグナル理解は新規治療標的の礎となる。\n\n2. **骨髄幹細胞由来エクソソームのAD治療**：ADモデルラットでExo-BMSC投与による行動・生化学・電気生理学的改善を検証。無細胞療法としての可能性を示す。\n\n3. **CytoDによるEV放出増強**：細胞骨格破壊でEV産生が約8〜10倍増加。治療用EVの大量調製法として実用性が高い。\n\n4. **hUCMSCエクソソームの軟骨保護**：OAモデルで軟骨恒常性維持と関節機能回復を実証。培養不要の無細胞代替療法として有望。\n\n5. **ROS応答性ヒドロゲルとエクソソーム**：糖尿病創傷の過剰ROSを制御しつつエクソソームを徐放する新規プラットフォーム。微小環境 reprogrammingとEV治療の融合例。\n\n全体として、エクソソーム/sEVを用いた無細胞治療の多様な疾患応用と、その安定性・産生効率を高める工学的工夫が際立つ。今後は臨床応用に向けた標準化と大規模検証が課題となる。"
+}

@@ -1,0 +1,210 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Effects of small extracellular vesicles derived from 1a,25-dihydroxyvitamin D3 and hypoxia preconditioned hPDLSCs on osteogenic differentiation of hBMSCs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42991986/",
+        "abstract": "Human periodontal stem cells (hPDLSCs) were preconditioned with 1α,25-dihydroxyvitamin D3 (1,25D3) to screen and extract osteogenically optimized hPDLSC-derived small extracellular vesicles (sEVs), which were subsequently used on human bone marrow mesenchymal stem cells (hBMSCs). This study aimed to obtain an optimized type of sEVs to enhance the osteogenic functionality of hBMSCs.",
+        "source": "PubMed",
+        "doi": "10.1016/j.reth.2026.101194",
+        "keyword": "Exosomes",
+        "matched_keywords": [
+          "Exosomes",
+          "sEVs"
+        ],
+        "title_ja": "1a,25-ジヒドロキシビタミンD3および低酸素前処置ヒト歯根膜幹細胞由来の小型細胞外小胞がhBMSCsの骨芽細胞分化に及ぼす影響",
+        "summary_ja": "本論文は、ヒト歯根膜幹細胞（hPDLSCs）を1α,25-ジヒドロキシビタミンD3（1,25D3）で前処理し、骨形成に最適化されたhPDLSC由来のsmall extracellular vesicles（sEVs）を選別・抽出して、ヒト骨髄間葉系幹細胞（hBMSCs）に適用した研究である。目的は、hBMSCsの骨形成機能を高める最適なsEVsを得ることにある。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Innate immune mechanisms of HIV control and reservoir regulation in elite and posttreatment controllers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42993673/",
+        "abstract": "Elite controllers (ECs) and posttreatment controllers (PTCs) provide complementary models of HIV remission, demonstrating that sustained viral control can occur in the absence of continuous antiretroviral therapy. Increasing evidence suggests that innate immune mechanisms may contribute to both viral suppression and reservoir regulation.",
+        "source": "PubMed",
+        "doi": "10.1097/COH.0000000000001084",
+        "keyword": "NK cell therapy",
+        "title_ja": "エリートコントローラーおよび治療後コントローラーにおけるHIV制御とリザーバー制御の自然免疫機構",
+        "summary_ja": "エリートコントローラー（EC）と治療後コントローラー（PTC）は、持続的抗レトロウイルス療法なしでHIVの持続的ウイルス制御が可能であることを示す補完的モデルである。両者はHIV寛解の異なる枠組みを提供する。近年の知見は、自然免疫機構がウイルス抑制とリザーバー制御の双方に寄与する可能性を示唆している。すなわち、自然免疫応答がHIV制御とリザーバー動態の調節において重要な役割を担うと考えられる。"
+      },
+      {
+        "title": "Beyond neutralization: Fc-mediated antibody functions in HIV reservoir control.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42993670/",
+        "abstract": "Despite advances in antiretroviral therapy, HIV reservoirs remain a major barrier to cure. This review highlights recent advances in understanding how antibody Fc-mediated effector functions contribute to the clearance of HIV-infected cells and to immune modulation that may support durable viral control.",
+        "source": "PubMed",
+        "doi": "10.1097/COH.0000000000001086",
+        "keyword": "NK cell therapy",
+        "title_ja": "中和を超えて：HIVリザーバー制御におけるFc媒介性抗体機能",
+        "summary_ja": "抗レトロウイルス療法の進歩にもかかわらず、HIVリザーバーは治癒への主要な障壁である。本レビューは、抗体のFc媒介エフェクター機能がHIV感染細胞の排除や、持続的なウイルス制御を支えうる免疫調節にどう寄与するかについての最近の知見を概説する。中和能を超えたFc機能の役割に焦点を当て、リザーバー制御への可能性を論じている。"
+      },
+      {
+        "title": "Current status and future prospects of CAR-T therapy for autoimmune diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42993465/",
+        "abstract": "Chimeric antigen receptor T-cell (CAR-T) therapy, originally developed for B-cell malignancies, is rapidly being repurposed for severe systemic autoimmune rheumatic diseases. The rationale extends beyond suppression of autoantibody production, as B cells also function as antigen-presenting cells, cytokine producers, and organizers of pathogenic immune interactions. CD19-directed CAR-T cells can achieve broader and deeper B-cell depletion than conventional antibody-based approaches and may disrupt self-sustaining autoimmune networks. Early clinical experience across systemic autoimmune diseases has shown striking responses, including drug-free remission in selected patients. Importantly, disease control may persist despite CAR-T contraction and subsequent B-cell reconstitution, supporting the concept of an \"immune reset,\" although this should not be equated with cure. In autoimmune diseases, long-term CAR persistence may not be required, and toxicity profiles and therapeutic goals differ from those in hematologic malignancies. Meanwhile, clinical development is expanding beyond autologous CD19-directed CAR-T cells to BCMA-directed, dual-target, allogeneic, natural killer cell, induced pluripotent stem cell-derived, and in vivo CAR platforms. This review discusses the biological rationale, emerging clinical evidence, safety and management considerations, and future development of CAR-based cellular therapy for systemic autoimmune rheumatic diseases.",
+        "source": "PubMed",
+        "doi": "10.1007/s12185-026-04306-y",
+        "keyword": "NK cell therapy",
+        "title_ja": "CAR-T細胞療法による自己免疫疾患治療の現状と今後の展望",
+        "summary_ja": "キメラ抗原受容体T細胞（CAR-T）療法は、B細胞悪性腫瘍向けに開発されたが、重症全身性自己免疫リウマチ性疾患へ急速に転用されつつある。B細胞は自己抗体産生だけでなく抗原提示細胞やサイトカイン産生、病原性免疫相互作用の調整役としても機能するため、その根拠は自己抗体抑制にとどまらない。CD19標的CAR-Tは従来の抗体療法より広範かつ深いB細胞除去を達成し、自己維持的な自己免疫ネットワークを破綻させうる。早期臨床経験では顕著な反応が示され、一部患者で無薬寛解が得られた。CAR-T収縮やB細胞再構築後も疾患制御が持続する場合があり、「免疫リセット」の概念を支持するが、治癒とは同一視すべきでない。自己免疫疾患では長期のCAR持続は不要な可能性があり、毒性や治療目標は血液悪性腫瘍と異なる。現在、自家CD19標的CAR-Tに加え、BCMA標的、二重標的、同種、NK細胞、iPS細胞由来、in vivo"
+      },
+      {
+        "title": "Nanobodies as next-generation antigen recognition domains for CAR-based cellular immunotherapies in cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42992557/",
+        "abstract": "Nanobody-based chimeric antigen receptors (CARs) represent a promising strategy for improving the specificity, modularity, and clinical adaptability of cellular immunotherapies. Replacing conventional single-chain variable fragments with camelid-derived variable heavy-chain domains (VHHs) may enhance receptor stability, antigen accessibility, and construct design. This review summarizes nanobody-based CAR applications across T cells, natural killer (NK) cells, γδ T cells, and macrophages, drawing on literature published between 2011 and 2026 and identified through PubMed/MEDLINE, Scopus, Web of Science, and Google Scholar. Nanobody-based CAR-T cells support recognition of hematologic and solid tumors and facilitate dual targeting, tandem receptors, affinity tuning, and immune-modulating designs. CAR-NK cells combine antigen-directed activity with innate cytotoxicity and potential advantages for allogeneic, off-the-shelf treatment. CAR-γδ T cells integrate innate-like surveillance with engineered specificity and may offer reduced graft-versus-host disease risk. CAR-macrophages exploit phagocytosis and tumor microenvironment remodeling to promote antitumor responses. Emerging universal, switchable, -generated, and synthetic antigen-based CAR platforms further highlight the versatility of nanobodies for controllable and scalable therapies. Collectively, these approaches offer opportunities to address tumor heterogeneity, antigen escape, and treatment safety, although further preclinical optimization and rigorous clinical evaluation are needed to establish their efficacy, persistence, and long-term safety in diverse patient populations and clinical settings.",
+        "source": "PubMed",
+        "doi": "10.1080/1750743X.2026.2755254",
+        "keyword": "NK cell therapy",
+        "title_ja": "がんに対するCARベースの細胞免疫療法のための次世代抗原認識ドメインとしてのナノボディ",
+        "summary_ja": "ナノボディ（VHH）を抗原認識領域に用いたCARは、従来のscFvに代わる次世代の細胞免疫療法として、受容体安定性・抗原アクセス性・構築設計の向上が期待される。本レビューは2011～2026年の文献を基に、T細胞、NK細胞、γδT細胞、マクロファージへのナノボディCAR応用を概説する。CAR-Tでは血液腫瘍・固形腫瘍の認識や二重標的化、タンデム受容体、親和性調整、免疫調節設計が可能である。CAR-NKは抗原特異性と自然免疫性細胞傷害を併せ、同種他家・既製製剤の利点を持つ。CAR-γδTはGVHDリスク低減の可能性があり、CAR-マクロファージは貪食と腫瘍微小環境リモデリングを活用する。ユニバーサル、スイッチ可能、合成抗原基盤などのプラットフォームも汎用性を示す。腫瘍不均一性・抗原エスケープ・安全性への対応が期待されるが、前臨床最適化と厳密な臨床評価が課題である。"
+      },
+      {
+        "title": "Emerging cell therapies for gastrointestinal cancers: Advances and future perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42992139/",
+        "abstract": "Gastrointestinal (GI) cancers, including colorectal and pancreatic cancers, remain among the most lethal cancers worldwide. These tumors often exhibit resistance to immune checkpoint inhibitors, largely due to microsatellite stability and a profoundly immunosuppressive tumor microenvironment (TME). While chimeric antigen receptor (CAR) T cell therapy has demonstrated curative potential in hematological cancers, its translation to solid tumors has been limited by challenges such as antigen heterogeneity, physical barriers to infiltration, and TME-mediated immunosuppression. Gene-editing technologies, including CRISPR-Cas9, have catalyzed the development of next-generation cellular immunotherapies. By precisely modifying T cells, natural killer (NK) cells, and mesenchymal stem/stromal cells (MSCs), it is possible to enhance their functionality, persistence, and safety. This review highlights the clinical progress of gene-edited cell therapies and specifically explores the synergistic \"one-two punch\" potential of engineered MSCs as TME remodeling platforms. By acting as localized delivery vehicles for cytokines or prodrug-activating enzymes, MSCs can modulate TME, thereby facilitating the infiltration and sustained cytotoxic activity of CAR T or CAR NK cells. Finally, we address critical translational challenges and propose future directions that integrate multi-omics to identify novel therapeutic agents for cellular immunotherapy in GI oncology.",
+        "source": "PubMed",
+        "doi": "10.1016/j.omton.2026.201359",
+        "keyword": "NK cell therapy",
+        "title_ja": "消化器がんに対する新興細胞療法：進歩と今後の展望",
+        "summary_ja": "消化管（GI）がんは世界的に致死率が高く、免疫チェックポイント阻害薬に抵抗性を示す。これは主にマイクロサテライト安定性と高度に免疫抑制的な腫瘍微小環境（TME）による。CAR-T細胞療法は血液がんでは治癒可能性を示すが、固形腫瘍では抗原不均一性、浸潤の物理的障壁、TME媒介性免疫抑制により限界がある。CRISPR-Cas9等の遺伝子編集技術が次世代細胞免疫療法の開発を促進し、T細胞、NK細胞、間葉系幹細胞（MSC）の精密改変により機能・持続性・安全性の向上が可能となった。本レビューは遺伝子編集細胞療法の臨床進捗を概説し、TME再構築プラットフォームとしての改変MSCの相乗的「ワンツーパンチ」の可能性を探る。MSCはサイトカインやプロドラッグ活性化酵素の局所送達媒体としてTMEを調節し、CAR-TやCAR-NK細胞の浸潤と持続的細胞傷害活性を促進する。最後に臨床応用上の課題と、マルチオミクス"
+      },
+      {
+        "title": "Microbes and TNF drive colitis in the absence of innate lymphoid cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42985174/",
+        "abstract": "Innate lymphoid cells (ILCs) are critical sources of cytokines necessary for intestinal homeostasis in immunocompetent conditions, yet their necessity in innate colitis remains unclear. Using a model of inflammatory bowel disease (IBD) in mice lacking adaptive immunity, we investigated whether ILCs are required for innate colitis. Interleukin-15 receptor alpha-deficient mice lacked intestinal ILC1 and natural killer (NK) cells, but innate colitis in these mice was not diminished. Deletion of IL-2 receptor gamma chain, which ablates all ILCs and NK cells, also did not prevent innate colitis. Antibiotic treatment of mice lacking all ILCs prevented colitis. Similarly, TNF deficiency prevented colitis in the absence of all ILCs, demonstrating that TNF is essential for microbe-driven innate colitis in the absence of ILCs. These findings reveal that ILCs are redundant for innate colitis. Studies of innate colitis in the absence of ILCs may help understand mechanisms underlying IBD and the effectiveness of anti-TNF therapies.",
+        "source": "PubMed",
+        "doi": "10.1016/j.isci.2026.118000",
+        "keyword": "NK cell therapy",
+        "title_ja": "自然免疫リンパ球細胞の不在下では、微生物とTNFが大腸炎を引き起こす。",
+        "summary_ja": "ILCは免疫正常下の腸管恒常性に必要なサイトカインの主要供給源だが、自然免疫性大腸炎での必要性は不明だった。適応免疫を欠くマウスIBDモデルで検討したところ、IL-15受容体α欠損マウスは腸管ILC1とNK細胞を欠くが大腸炎は軽減せず、IL-2受容体γ鎖欠損で全ILCとNK細胞を除去しても大腸炎は予防されなかった。一方、全ILC欠損マウスへの抗生物質投与やTNF欠損は大腸炎を予防し、微生物駆動性の自然免疫性大腸炎にはTNFが必須と判明した。ILCは自然免疫性大腸炎に冗長であり、ILC非存在下の解析はIBD機序や抗TNF療法の理解に寄与しうる。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Natural killer cell engineering strategies for HIV cure and reservoir elimination.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42989937/",
+        "abstract": "Natural killer (NK) cells are attractive effectors for HIV cure-directed strategies, combining target recognition, antibody-dependent cellular cytotoxicity, and expansion compatibility with scalable allogeneic manufacture. This review evaluates NK cell gene-engineering and NK-boosting approaches as coordinated anti-HIV strategies rather than isolated enhancements.",
+        "source": "PubMed",
+        "doi": "10.1097/COH.0000000000001085",
+        "keyword": "NK cell therapy",
+        "title_ja": "HIV治癒とリザーバー排除のためのナチュラルキラー細胞エンジニアリング戦略",
+        "summary_ja": "本レビューは、HIV治癒およびリザーバー排除に向けたNK細胞戦略を評価したものである。NK細胞は標的認識、抗体依存性細胞傷害（ADCC）、およびスケーラブルな同種製造との拡張適合性を兼ね備えた魅力的なエフェクターである。論文では、NK細胞の遺伝子工学的手法とNK増強アプローチを、孤立した強化ではなく協調的抗HIV戦略として位置づけ評価している。"
+      },
+      {
+        "title": "Sex-at-birth, innate immunity, and HIV reservoir selection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42989925/",
+        "abstract": "Sex-at-birth influences innate antiviral immunity, but its contribution to the long-term HIV reservoir composition remains incompletely defined. We review recent evidence linking sex chromosome-associated and hormonal influences on innate immunity, particularly natural killer (NK) cells, with HIV persistence and reservoir selection.",
+        "source": "PubMed",
+        "doi": "10.1097/COH.0000000000001082",
+        "keyword": "NK cell therapy",
+        "title_ja": "出生時の性別、自然免疫、およびHIVリザーバーの選択。",
+        "summary_ja": "出生時性別は自然免疫の抗ウイルス応答に影響するが、長期のHIVリザーバー構成への寄与は十分に解明されていない。本レビューでは、性染色体関連およびホルモンによる自然免疫、特にNK細胞への影響と、HIV持続・リザーバー選択を結びつける最近の知見を概説する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Evaluating current and emerging pharmacological treatment options for men with androgenetic alopecia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42993878/",
+        "abstract": "Androgenetic alopecia (AGA), also known as male pattern hair loss (MPHL), is the most common cause of hair loss in men. Treatment response to approved therapies varies, adherence remains challenging, and discontinuation results in progressive hair loss. Recent advances have identified new pathways, accelerating a new generation of mechanism-based therapies.",
+        "source": "PubMed",
+        "doi": "10.1080/17512433.2026.2761210",
+        "keyword": "Exosomes",
+        "title_ja": "男性の男性型脱毛症に対する現在および新興の薬物治療選択肢の評価。",
+        "summary_ja": "男性型脱毛症（AGA/MPHL）は男性脱毛の最多原因だが、承認薬への反応は個人差が大きく、服薬アドヒアランスの維持が課題で、中止すれば脱毛は進行する。近年、新たなパスウェイが同定され、機序に基づく新世代治療の開発が加速している。本論文はAGA男性に対する既存および新興の薬物治療選択肢を評価する。"
+      },
+      {
+        "title": "Extracellular Vesicles, Exosomes, and Cancer: Detection and Therapeutic Monitoring.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42992875/",
+        "abstract": "Extracellular vesicles (EVs) are membrane-bound vesicles released by cells into the extracellular space. Exosomes are a nanoscale subtype of extracellular vesicles (typically 30-200 nm) secreted by almost all types of cells. They carry a diverse molecular cargo, including proteins, metabolites, lipids, RNAs, and glycoproteins, which closely reflect the physiological and pathological state of their cells of origin. Through this cargo, exosomes play critical roles in intercellular communication, immune regulation, and cellular signaling. In recent years, exosomes and extracellular vesicles have gained considerable attention as noninvasive biomarkers for disease monitoring, particularly in cancer, where tumor-derived exosomes exhibit distinct molecular signatures that enable early detection, diagnosis, and assessment of disease progression. Emerging applications include the use of exosomes and EVs to monitor responses to immunotherapy and chemotherapy, as well as their potential exploitation as therapeutic targets. Additionally, exosomes and EVs have been explored as vehicles for drug delivery and other therapeutic interventions. This review highlights the role of exosomes and EVs as cancer biomarkers, with an emphasis on their application in therapy monitoring. It further discusses recent advances involving exosomal glycoproteins, the relationship between exosomes and cancer stem cells, and the emerging significance of exosomal glycoRNAs in cancer detection and tumor development.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.jproteome.6c00516",
+        "keyword": "Exosomes",
+        "title_ja": "細胞外小胞、エクソソーム、およびがん：検出と治療モニタリング",
+        "summary_ja": "細胞外小胞（EVs）は細胞から放出される膜結合小胞で、エクソソームはほぼ全ての細胞が分泌する30-200nmのナノスケールのEVサブタイプである。タンパク質、代謝物、脂質、RNA、糖タンパク質など多様な分子カーゴを運び、起源細胞の生理的・病理的状態を反映する。エクソソームは細胞間通信、免疫調節、細胞シグナル伝達で重要な役割を担う。近年、非侵襲的バイオマーカーとして注目され、特にがんでは腫瘍由来エクソソームが特有の分子シグネチャを示し、早期発見・診断・病勢評価を可能にする。免疫療法や化学療法への応答モニタリング、治療標的としての可能性、薬物送達媒体としての応用も探索されている。本レビューはがんバイオマーカーとしてのエクソソーム・EVs、特に治療モニタリングへの応用に焦点を当て、エクソソーム糖タンパク質、がん幹細胞との関係、エクソソームglycoRNAのがん検出・腫瘍発展における意義について論"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Chemoproteomics Discovery of a Central Nervous System-Penetrant Covalent Inhibitor of PIKfyve.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42993808/",
+        "abstract": "PIKfyve is a lipid kinase involved in regulating protein clearance mechanisms and is a promising target for the treatment of neurodegenerative diseases. We present the discovery and optimization of a central nervous system (CNS)-penetrant covalent PIKfyve inhibitor, DUN'058, which achieves sustained target occupancy in vivo. Covalent screening hits, identified from chemoproteomics experiments performed in live cells, were rapidly optimized to deliver a brain-penetrant covalent inhibitor of PIKfyve. This covalency centred approach employed a suite of mass spectrometry, biochemical and in vivo assays to optimize compound potency, selectivity, and CNS permeability. The target nucleophile, cysteine 1970, is on a flexible loop that appears distal from the kinase active site, highlighting the power of chemoproteomics screening to identify novel nucleophilic amino acids for covalent modification. DUN'058 achieves efficient covalency at the target cysteine, as well as highly selective covalent and reversible selectivity profiles. Covalent PIKfyve inhibition results in modulation of downstream pathway activity, including activation of the transcription factor TFEB, upregulation of protein clearance pathways, and increased GPNMB transcription and secretion of exosome markers. When dosed in vivo, DUN'058 achieves sustained target occupancy in the brains of mice long after systemic compound clearance. The development of DUN'058 is a demonstration of chemoproteomics-based discovery for a high value CNS target, providing an orally bioavailable and covalent PIKfyve inhibitor.",
+        "source": "PubMed",
+        "doi": "10.1021/acschembio.6c00795",
+        "keyword": "Exosomes",
+        "title_ja": "PIKfyveの中央神経系透過性共有結合阻害剤の発見：ケモプロテオミクスによるアプローチ",
+        "summary_ja": "PIKfyveはタンパク質分解機構の制御に関わる脂質キナーゼで、神経変性疾患の有望な標的である。本研究ではCNS透過性共有結合型PIKfyve阻害剤DUN'058の発見と最適化を報告する。生細胞ケモプロテオミクスで同定した共有結合ヒットを最適化し、脳移行性阻害剤を創出した。質量分析・生化学・in vivo評価により効力・選択性・CNS透過性を最適化した。標的求核種はキナーゼ活性部位から離れた柔軟ループ上のシステイン1970であり、ケモプロテオミクスの有用性を示す。DUN'058は高い共有結合・可逆的選択性を示し、TFEB活性化や分解経路亢進、GPNMB転写・エクソソームマーカー分泌増加を引き起こす。in vivoで全身クリアランス後も脳内標的占有を持続し、経口投与可能なCNS標的共有結合阻害剤の創出例である。"
+      },
+      {
+        "title": "Evaluation of the effect of p38γ gene delivery using exosomes derived from mesenchymal stem cells on Alzheimer's rat model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42993331/",
+        "abstract": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterized by dementia, memory loss, and cognitive decline. This study investigated the therapeutic potential of delivering the p38γ gene via exosomes derived from adipose-derived stem cells (ADSC-Exos) in a rat model of streptozotocin (STZ)-induced AD.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-13005-0",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来エクソソームを用いたp38γ遺伝子デリバリーがアルツハイマー病ラットモデルに及ぼす効果の評価",
+        "summary_ja": "アルツハイマー病（AD）は認知症・記憶喪失・認知機能低下を特徴とする進行性神経変性疾患である。本研究では、脂肪由来幹細胞由来エクソソーム（ADSC-Exos）を用いてp38γ遺伝子を送達する治療可能性を、ストレプトゾトシン（STZ）誘発ADラットモデルで検討した。"
+      },
+      {
+        "title": "Exosomes derived from N2 neutrophils reprogram the immune microenvironment to promote spinal cord injury repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42991993/",
+        "abstract": "Spinal cord injury induces irreversible neurological impairments via secondary pathological cascades dominated by excessive inflammation, oxidative stress, and neuronal apoptosis. As the first-responder immune cells following spinal cord trauma, neutrophils can acquire an N2-like reparative phenotype, yet direct neutrophil transplantation is hampered by poor cellular survival. Exosomes, nanoscale cell-secreted vesicles with low immunogenicity and favourable biostability, constitute promising cell-free candidates for regenerative therapy. Nevertheless, the therapeutic potential of exosomes derived from N2-polarized neutrophils remains poorly defined for spinal cord injury repair.",
+        "source": "PubMed",
+        "doi": "10.1016/j.reth.2026.101196",
+        "keyword": "Exosomes",
+        "title_ja": "N2中性粒细胞来源的外泌体通过重编程免疫微环境促进脊髓损伤修复。",
+        "summary_ja": "N2型好中球由来エクソソームが免疫微小環境を再プログラム化し、脊髄損傷修復を促進する。脊髄損傷は過剰な炎症、酸化ストレス、神経細胞アポトーシスを主体とする二次的病態カスケードにより不可逆的な神経障害を引き起こす。損傷後の初動免疫細胞である好中球はN2様の修復性表現型を獲得し得るが、直接移植は細胞生存率の低さが問題となる。エクソソームは低免疫原性と良好な生体安定性を有するナノスケールの細胞分泌小胞であり、再生医療における有望な無細胞候補である。しかしN2極性好中球由来エクソソームの脊髄損傷修復における治療可能性は十分に解明されていない。"
+      },
+      {
+        "title": "Statement of Retraction: Exosomal microRNA-93-3p secreted by bone marrow mesenchymal stem cells downregulates apoptotic peptidase activating factor 1 to promote wound healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42987362/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1080/21655979.2026.2745755",
+        "keyword": "Exosomes",
+        "title_ja": "撤回声明：骨髓间充质干细胞分泌的外泌体microRNA-93-3p下调凋亡肽酶激活因子1以促进伤口愈合。",
+        "summary_ja": "本論文は撤回された。骨髄間葉系幹細胞（BMSC）由来エクソソーム中のmicroRNA-93-3pが、アポトーシス関連因子APAF1（apoptotic peptidase activating factor 1）を下方制御し、創傷治癒を促進するという内容であった。exosomal miR-93-3pがAPAF1発現を抑制することでアポトーシスを抑制し、創傷治癒を促す機序を提示していたが、撤回によりその知見は無効となった。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の論文から注目すべき5トピックを選定します。\n\n1. **NK細胞工学によるHIV治癒戦略**：NK細胞はADCCや標的認識、同種製造への適性を備え、HIVリザーバー排除の有望なエフェクター。自然免疫機構の解明（エリートコントローラー等）と相まって、治癒研究の新軸を形成する。\n\n2. **ナノボディCARの次世代化**：VHHを抗原認識域に用いるCARはscFv比で安定性・抗原アクセス性に優れ、T細胞・NK細胞・γδT細胞へ展開可能。固形腫瘍や自己免疫疾患への応用が期待される。\n\n3. **sEVsによる骨再生最適化**：ビタミンD3・低酸素前処理hPDLSC由来sEVsが骨分化を促進。EV工学による標的機能強化の実証例として再生医療に示唆を与える。\n\n4. **N2好中球由来エクソソームの脊髄損傷修復**：免疫微小環境の再プログラム化により二次損傷カスケードを抑制。炎症制御型EV治療の可能性を示す。\n\n5. **CNS透過性PIKfyve共有結合阻害剤**：ケモプロテオミクスで同定されたDUN'058は神経変性疾患標的として有望。創薬化学とEV送達技術の融合が今後の展望となる。\n\n（約480文字）"
+}

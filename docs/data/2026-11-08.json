@@ -1,0 +1,73 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "The preCDD Network as a Model for Academic Preclinical Cancer Drug Development in Germany.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42947451/",
+        "abstract": "Over the past two decades, oncology has achieved remarkable progress, mainly due to the broad implementation of novel generation immunotherapies. Despite the majority of cancer cases nowadays being curable, a significant portion of cancers remains incurable, highlighting the ongoing gap between biological discoveries and clinically applicable therapies. Marked unmet needs for novel drugs are remaining; at the same time, drug development is nearly exclusively performed by the pharmaceutical industry. For academic drug discovery, a major hurdle in the drug development process is the \"valley of death\"-the transition from preclinical to clinical stages, where promising academic findings often fail to benefit patients due to a lack of infrastructure, expertise, and funding. The preclinical Cancer Drug Development network (preCDD), which is funded through the Deutsche Krebshilfe (German Cancer Aid), is an ambitious and structurally innovative academic response to this challenge. By bringing together three distinct academic research consortia-TACTIC, THUNDER, and CAR FACTORY-under one comprehensive network, preCDD creates an integrated, nationally distributed platform that encompasses small molecule development, next-generation protein engineering, and advanced cellular immunotherapy. This commentary explores the scientific rationale, organizational structure, and translational potential of the preCDD initiative as a compelling model for how publicly funded academic drug discovery can be systematically organized to bridge the gap between discovery science and clinical application. The initiative also makes expertise, technology, and platforms available to other academic groups to more broadly advance the development of new therapies in an academic setting.",
+        "source": "PubMed",
+        "doi": "10.1177/10430342261502532",
+        "keyword": "NK cell therapy",
+        "title_ja": "preCDDネットワーク：ドイツにおける学術的な前臨床がん薬開発のモデルとして",
+        "summary_ja": "過去20年で腫瘍学は次世代免疫療法の普及により大きく進歩したが、依然として治癒困難な癌は多く、生物学的発見と臨床応用の間のギャップが残る。新薬開発はほぼ製薬産業が担う一方、学術的創薬の最大の障壁は前臨床から臨床への移行期「死の谷」であり、インフラ・専門知識・資金不足が問題となる。独仏癌援助基金が支援する前臨床癌創薬ネットワーク（preCDD）は、TACTIC、THUNDER、CAR FACTORYの3コンソーシアムを統合し、低分子開発、次世代タンパク質工学、先端細胞免疫療法を包含する全国分散型プラットフォームを構築する。本論考は、preCDDの科学的根拠、組織構造、翻訳的可能性を検討し、公的資金による学術的創薬が発見科学と臨床応用のギャップを橋渡しするモデルとしての意義を示す。また本取り組みは専門知識・技術・プラットフォームを他学術機関にも提供し、学術環境での新規治療開発を広く推進する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Linarin ameliorates bisphenol A-induced prostatic primary ciliogenesis and epithelial-mesenchymal transition via reducing stromal exosome circ_0027470.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42927869/",
+        "abstract": "Changes in epithelial features are the crucial pathological phenomena in many prostatic diseases. Previous studies elucidated the negative effects of bisphenol A (BPA) on regulating exosome-mediated epithelium-mesenchyme communication. This study investigated the effects of linarin, a natural flavonoid, on BPA-induced epithelium changes in mouse prostate, as well as in a co-culture system of human epithelial-stromal cells. The visualized evaluation for mouse prostatic collagen deposition was performed via Masson and Sirius red staining. The characteristics of prostate epithelium including primary ciliogenesis, epithelial-mesenchymal transition (EMT) and circ_0027470/miR-1236-3p/Sonic Hedgehog (SHH) axis were evaluated through immunohistochemistry, immunofluorescence, qPCR and western blotting. The results showed that linarin attenuated epithelial primary ciliogenesis and EMT which were triggered by BPA-exposed stromal exosomes. Additionally, linarin reduced the circ_0027470 level, increased the miR-1236-3p level, and inhibited the activity of the Sonic Hedgehog signaling pathway. This study added new evidence for the application of linarin in improving prostatic injuries caused by BPA.",
+        "source": "PubMed",
+        "doi": "10.1016/j.taap.2026.118090",
+        "keyword": "Exosomes",
+        "title_ja": "木犀草苷通过减少基质外泌体circ_0027470改善双酚A诱导的前列腺初级纤毛发生和上皮-间质转化。",
+        "summary_ja": "リナリンは、ビスフェノールA（BPA）による前立腺の一次線毛形成と上皮間葉転換（EMT）を、間質由来エクソソームのcirc_0027470を減少させることで改善する。マウス前立腺およびヒト上皮-間質細胞共培養系で検討し、リナリンがBPA曝露間質エクソソーム誘発の一次線毛形成とEMTを減弱させることを示した。またリナリンはcirc_0027470を減少させ、miR-1236-3pを増加させ、Sonic Hedgehogシグナル伝達経路の活性を阻害した。BPAによる前立腺障害改善へのリナリンの応用に新たな証拠を加える。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **学術的創薬の「死の谷」克服モデル（preCDD Network）**：独国で前臨床から臨床への移行を支援する学術ネットワーク。製薬依存の創薬体制を補完し、免疫療法時代の未充足ニーズに応える重要性が高い。\n\n2. **LinarinによるBPA誘発前立腺障害の改善**：間質エクソソームcirc_0027470を介した一次線毛形成・EMT抑制機構を解明。環境化学物質の発癌リスク低減や前立腺疾患予防への応用が期待される。\n\n3. **Klothoと加齢・癌抑制の関連**：抗老化因子Klothoのシグナル制御が腫瘍微小環境や免疫応答に及ぼす影響は、老化関連癌の新規治療標的として注目される。\n\n4. **PF4（血小板第4因子）の免疫調節作用**：PF4がNK細胞や腫瘍免疫に与える影響の解明は、血小板由来因子を介した免疫療法最適化の可能性を示す。\n\n5. **sEVs/エクソソームを用いたNK細胞療法の強化**：small extracellular vesiclesがNK細胞の活性・腫瘍認識を高める基盤として、無細胞療法やバイオマーカー応用への展望が開ける。\n\n以上、基礎研究から臨床橋渡しまで一貫した流れが本日の特徴です。"
+}

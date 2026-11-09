@@ -1,0 +1,84 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Sequential KIM-1 targeting and SMOX-responsive release enhance renal delivery of dihydroartemisinin to restore endogenous Klotho and attenuate renal fibrosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42822315/",
+        "abstract": "Restoration of endogenous Klotho represents a promising strategy for suppressing renal fibrosis, but efficient delivery of Klotho-restoring therapeutics to injured renal tubules remains challenging. Here, we developed dihydroartemisinin (DHA)-loaded phosphatidylserine liposomes coated with spermine-modified chitosan (DHA-PSLPs@SC) to achieve sequential kidney injury molecule-1 (KIM-1) targeting and spermine oxidase (SMOX)-responsive release, thereby enhancing renal delivery of DHA to restore endogenous Klotho and attenuate renal fibrosis. Dioleoylphosphatidylserine (DOPS) was incorporated to facilitate uptake by KIM-1-expressing injured tubular epithelial cells, whereas the spermine-modified chitosan (SC) coating was designed to promote cargo release in the SMOX-enriched fibrotic cellular environment. The optimized DHA-PSLPs@SC exhibited a diameter of 102.3 nm, a zeta potential of 33.8 mV, and an encapsulation efficiency of 69.4%. In H₂O₂-injured HK-2 cells, DOPS-containing liposomes displayed enhanced uptake and colocalization with KIM-1, while KIM-1 antibody blockade markedly reduced their internalization. In TGF-β1-stimulated NRK-52E cells, the SC coating preserved cellular uptake and increased cumulative DHA release to 74.2% at 12 h, while DHA-PSLPs@SC more effectively restored Klotho and suppressed fibrotic markers than free DHA or non-targeted liposomes. In unilateral ureteral obstruction (UUO) mice, PSLPs@SC preferentially accumulated in obstructed kidneys, with approximately 2.7-fold higher renal accumulation than non-targeted liposomes at 2 h. DHA-PSLPs@SC improved renal function, reduced tubular injury and collagen deposition, restored renal Klotho, and suppressed fibrosis. These findings support sequential KIM-1 targeting and SMOX-responsive release as a strategy to enhance renal delivery and antifibrotic efficacy of DHA, restore endogenous Klotho, and attenuate renal fibrosis.",
+        "source": "PubMed",
+        "doi": "10.1016/j.colsurfb.2026.116217",
+        "keyword": "Klotho",
+        "title_ja": "連続的なKIM-1標的化とSMOX応答性放出により、ジヒドロアルテミシニンの腎送達が促進され、内因性Klothoが回復し腎線維化が軽減される。",
+        "summary_ja": "腎線維化抑制には内因性Klotho回復が有望だが、傷害尿細管への効率的送達が課題である。本研究ではDHA封入ホスファチジルセリンリポソームをスペルミン修飾キトサン（SC）で被覆したDHA-PSLPs@SCを開発し、KIM-1標的化とSMOX応答性放出を逐次的に実現した。DOPSはKIM-1発現傷害尿細管上皮細胞への取り込みを促進し、SC被覆はSMOX-richな線維化環境での薬物放出を促進する設計である。最適化製剤は径102.3nm、ゼータ電位33.8mV、封入率69.4%を示した。H₂O₂傷害HK-2細胞ではDOPS含有リポソームの取り込みとKIM-1共局在が亢進し、KIM-1抗体遮断で内部化が著減した。TGF-β1刺激NRK-52E細胞ではSC被覆が取り込みを維持し12時間でDHA累積放出74.2%に達し、DHA-PSLPs@SCは遊離DHAや非標的リポソームよりKlotho回復と線維"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Injectable self-healing hydrogel delivering trispecific engineered exosomes for osteoporotic bone regeneration via activating mitophagy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42999764/",
+        "abstract": "Osteoporotic bone defects are characterized by impaired matrix remodeling, diminished osteogenic potential, and insufficient vascularization, posing major challenges for tissue regeneration. Mesenchymal stem cell-derived exosomes (MSCs-Exos) have shown promise in promoting osteogenesis and angiogenesis, but their clinical translation is limited by rapid clearance and lack of targeted delivery. Here, we report the development of an injectable, self-healing SK/HA@A hydrogel for sustained delivery of trispecific RNA-engineered exosomes (Tri-Exos) targeting IL31, CELA1, and PCOLCE2. Tri-Exos were engineered via electroporation and rigorously characterized for morphology, size, marker expression, cellular uptake, and functional regulation of target genes in BMSCs. The hydrogel exhibited rapid gelation, robust mechanical properties, dynamic self-healing, and sustained release of Tri-Exos over 30 days. In vitro, SK/HA@A@EVs significantly enhanced BMSC osteogenic differentiation, matrix mineralization, and HUVEC angiogenic responses, while simultaneously activating mitophagy-mediated mitochondrial regulation and autophagy-associated survival pathways, which are critical for maintaining cellular homeostasis under osteoporotic conditions. In a rat femoral defect model, hydrogel treatment improved bone volume, mineral density, and vascularization, as confirmed by micro-CT, histological analyses, and gene expression profiling. Collectively, these results demonstrate that the SK/HA@A@EVs platform orchestrates osteoporotic bone regeneration through synergistic modulation of osteogenesis, angiogenesis, and mitophagy-driven cellular survival pathways. This study provides a translational strategy integrating engineered exosomes with functional hydrogels for targeted, localized therapy of osteoporotic bone defects.",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103780",
+        "keyword": "Exosomes",
+        "title_ja": "骨粗鬆症性骨再生のためのマイトファジー活性化を介した三特異的工学エクソソーム送達注射用自己修復ヒドロゲル",
+        "summary_ja": "骨粗鬆症性骨欠損は基質リモデリング障害、骨形成能低下、血管新生不足を特徴とし、組織再生の大きな課題である。MSC由来エクソソーム（MSCs-Exos）は骨形成・血管新生促進に有望だが、速やかなクリアランスと標的送達の欠如が臨床応用を制限する。本研究では、IL31、CELA1、PCOLCE2を標的とする三特異的RNA工学エクソソーム（Tri-Exos）を持続送達する注射可能な自己修復型SK/HA@Aハイドロゲルを開発した。Tri-Exosはエレクトロポレーションで作製し、形態・サイズ・マーカー発現・細胞取り込み・BMSCにおける標的遺伝子制御を評価した。ハイドロゲルは速やかなゲル化、良好な力学特性、動的自己修復、30日間の持続放出を示した。In vitroでSK/HA@A@EVsはBMSCの骨芽細胞分化、基質石灰化、HUVEC血管新生応答を有意に促進し、マイトファジーを介したミトコンドリア制"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Sustained delivery of 3D-bioprinted stem cell-derived small extracellular vesicles promotes neural regeneration following traumatic brain injury via the CREB1/PGC-1α/FNDC5 axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42999541/",
+        "abstract": "Clinical translation of stem cell-derived small extracellular vesicles (sEVs) for traumatic brain injury (TBI) is restricted by low yield in 2D culture and rapid ",
+        "source": "PubMed",
+        "doi": "10.1016/j.bioactmat.2026.10.030",
+        "keyword": "sEVs",
+        "title_ja": "3Dバイオプリントした幹細胞由来小型細胞外小胞の持続的送達は、CREB1/PGC-1α/FNDC5軸を介して外傷性脳損傷後の神経再生を促進する。",
+        "summary_ja": "3Dバイオプリントした幹細胞由来small extracellular vesicles（sEVs）の持続的デリバリーが、CREB1/PGC-1α/FNDC5軸を介して外傷性脳損傷（TBI）後の神経再生を促進することを示した研究。TBIに対するsEVsの臨床応用は、2D培養での低収量と急速なクリアランスにより制限されている。本研究では3DバイオプリンティングによりsEVsの産生効率を高め、持続放出を可能にすることで、CREB1/PGC-1α/FNDC5シグナル経路を活性化し神経再生を促進することを明らかにした。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **KIM-1標的DHAリポソームによるKlotho回復**：腎線維化に対し、KIM-1標的化とSMOX応答性放出を組み合わせたDHA封入リポソームが内因性Klothoを回復。傷害尿細管への精密送達を実現する点で重要性が高い。\n\n2. **三特異的エクソソーム搭載自己治癒ハイドロジェル**：骨粗鬆症性骨欠損に対し、MSC由来エクソソームの短寿命・標的送達欠如を克服。マイトファジー活性化による骨再生促進が期待される。\n\n3. **3DバイオプリントsEVsの持続送達**：TBI後の神経再生をCREB1/PGC-1α/FNDC5軸を介して促進。sEVsの局所持続供給という新規デリバリー戦略を示す。\n\n4. **Klothoと腎保護の連関**：Klotho回復が線維化抑制の鍵となり、腎疾患治療の標的として再注目。送達技術の進歩が臨床応用を後押しする。\n\n5. **エクソソーム/sEVs治療の実用化課題**：速やかなクリアランスや標的性不足が共通課題で、ハイドロジェルやバイオプリントによる徐放化が解決策として台頭。今後は製造規格化と安全性評価が展望となる。\n\n以上、送達技術の革新がKlotho・エクソソーム治療の実現を加速する点が共通の重要性です。"
+}

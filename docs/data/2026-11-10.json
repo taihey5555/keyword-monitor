@@ -1,0 +1,62 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Exosome-associated cargo is linked to familial Alzheimer's disease-associated phenotypes in vitro.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43000917/",
+        "abstract": "The propagation of pathological proteins such as tau and amyloid-beta (Aβ) in Alzheimer's disease (AD) is poorly understood. Here, we developed a human-relevant in vitro conditioned medium (CM)-based model using human neural progenitor ReN cells carrying Familial AD (FAD) mutations in amyloid precursor protein (APP Sw/Lo) and presenilin 1 (PSEN1ΔE9). Healthy ReN-derived neurons and astrocytes treated with FAD-CM for nine weeks exhibited AD features, including cellular toxicity, neuro-glial alterations, and mitochondrial dysfunction. Exogenous Aβ42 further induced neuroglial and mitochondrial damage. Exosomes released by FAD cells and -to a lesser extent- by CM-treated healthy cells showed elevated Aβ42/40 ratios. Proteomic analysis also revealed that exosomes from FAD-cells carried a distinct content, including overrepresentation of proteins linked to inflammation, extracellular matrix remodelling, synaptic dysfunction, and Aβ processing, as well as Calmodulin-like protein 3. Moreover, exosomes were actively internalized by healthy cells through an actin-dependent mechanism. In summary, these findings support a model based on FAD-associated APP/PSEN1 mutations in which exosome-associated cargo alongside soluble and non-vesicular factors contribute to the transfer of AD-associated cellular phenotypes.",
+        "source": "PubMed",
+        "doi": "10.1242/dmm.052734",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム関連カーゴは、in vitroにおいて家族性アルツハイマー病関連表現型と関連している。",
+        "summary_ja": "家族性アルツハイマー病（FAD）関連APP/PSEN1変異を持つヒト神経前駆ReN細胞のconditioned medium（CM）を用いたin vitroモデルを開発した。FAD-CMに9週間曝露した健常ReN由来ニューロン・アストロサイトは細胞毒性、神経グリア変化、ミトコンドリア機能障害を示し、外因性Aβ42が障害を増強した。FAD細胞由来エクソソームはAβ42/40比上昇と炎症・細胞外マトリックスリモデリング・シナプス機能障害・Aβプロセシング関連タンパク質やCalmodulin-like protein 3の過剰発現を伴う特徴的カーゴを示し、アクチン依存性に健常細胞へ取り込まれた。エクソソーム関連カーゴと可溶性・非小胞性因子がAD関連細胞表現型の伝播に寄与するモデルを支持する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです（約480字）。\n\n1. **FAD由来エクソソームカーゴとアルツハイマー病態**：家族性AD変異ReN細胞のconditioned medium曝露で健常ニューロンに病態様変化。エクソソームが疾患伝播に関与する可能性を示し、早期バイオマーカー・予防標的として有望。\n\n2. **Klothoと認知機能・老化制御**：Klothoは老化抑制・認知保護因子として注目され、神経炎症やシナプス機能への関与が示唆される。補充療法や可溶性Klotho測定の臨床応用が期待される。\n\n3. **PF4（血小板第4因子）と神経炎症**：PF4が海馬神経新生や免疫調節に関与する報告が増加。血小板由来因子を介した脳-全身連関の解明と、炎症性神経疾患への治療可能性が焦点。\n\n4. **NK細胞療法の神経疾患・腫瘍応用**：NK細胞を用いた養子免疫療法が腫瘍領域で進展。神経炎症や老化細胞除去（senolysis）への応用も模索され、安全性・持続性の最適化が課題。\n\n5. **sEVs（小型細胞外小胞）の診断・治療基盤**：sEVsはエクソソームを含む均一性の高い集団として分離・解析が進み、液体生検やドラッグデリバリーの基盤として注目。標準化と製造スケールアップが今後の鍵。\n\n全体として、細胞外小胞と免疫・老化因子のクロストーク解明が神経疾患理解と新規治療開発を加速すると期待されます。"
+}

@@ -1,0 +1,185 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Engineered stem cell-derived CD16-enhanced universal NKT cells improve monoclonal antibody-based cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43008138/",
+        "abstract": "Monoclonal antibody (mAb)-based therapies have revolutionized cancer treatment; however, their clinical efficacy is often limited by insufficient antibody-dependent cellular cytotoxicity (ADCC), tumor antigen escape, and an immunosuppressive tumor microenvironment (TME). To overcome these limitations, we developed an allogeneic stem cell-derived invariant natural killer T (NKT) cell platform engineered to express a high-affinity non-cleavable CD16 receptor (CD16HSC-NKT) for broad enhancement of mAb-based immunotherapy. Using a clinically guided differentiation platform, we generated highly pure and scalable CD16HSC-NKT cells exhibiting robust expression of NK receptors, potent cytotoxic machinery, and a Th1-biased cytokine profile. CD16HSC-NKT cells demonstrated potent intrinsic antitumor activity and potently enhanced the efficacy of multiple therapeutic antibodies, including Trastuzumab, Tafasitamab, Rituximab, Daratumumab, and Cusatuzumab, across diverse hematologic and solid tumor models. In vivo, combination therapy induced durable tumor eradication and prolonged survival in xenograft models, outperforming the clinically approved antibody-drug conjugate trastuzumab deruxtecan. Mechanistically, therapeutic antibodies promoted the expansion, persistence, and activation of CD16HSC-NKT cells within tumors. CD16HSC-NKT uniquely remodeled the TME by selectively depleting CD1d-expressing tumor-associated macrophages and myeloid-derived suppressor cells. CD16HSC-NKT cells also exhibited minimal alloreactivity, no graft-versus-host disease, and no detectable systemic toxicity. Collectively, these findings establish CD16HSC-NKT cells as a safe, off-the-shelf cellular platform capable of broadly enhancing monoclonal antibody therapy through sustained ADCC, multimodal tumor targeting, and TME remodeling.",
+        "source": "PubMed",
+        "doi": "10.1158/2326-6066.CIR-26-0767",
+        "keyword": "NK cell therapy",
+        "title_ja": "工学設計された幹細胞由来CD16強化ユニバーサルNKT細胞はモノクローナル抗体ベースのがん免疫療法を改善する。",
+        "summary_ja": "単クローン抗体（mAb）療法は癌治療に革新をもたらしたが、ADCC不足、腫瘍抗原エスケープ、免疫抑制性TMEにより効果が制限される。本研究では、高親和性非切断型CD16受容体を発現する同種幹細胞由来invariant NKT細胞（CD16HSC-NKT）プラットフォームを開発した。臨床応用可能な分化誘導法により、NK受容体や細胞傷害機構、Th1偏性サイトカインを高発現する高純度・スケール可能なCD16HSC-NKTを作製。本細胞は固形・血液腫瘍モデルでTrastuzumab、Rituximab等複数の抗体薬の効果を増強し、in vivoで腫瘍根絶と生存延長を示し、trastuzumab deruxtecanを上回った。機序として腫瘍内での増殖・活性化促進、CD1d陽性TAMやMDSCの選択的除去によるTMEリモデリングが示された。同種反応性・GVHD・全身毒性は最小であった。CD16HSC"
+      },
+      {
+        "title": "Timing Is Everything: Reservoir Dynamics and Immune Correlates in Perinatally Acquired HIV-1 Across the Lifespan.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43007589/",
+        "abstract": "This review synthesizes the past 5 years of research on individuals with perinatally acquired HIV-1 (PHIV) with a focus on evaluating the proviral reservoir landscape and associated immunological correlates.",
+        "source": "PubMed",
+        "doi": "10.1007/s11904-026-00803-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "タイミングがすべて：生涯にわたる周産期獲得HIV-1におけるリザーバー動態と免疫相関",
+        "summary_ja": "本レビューは、周産期獲得HIV-1（PHIV）感染者における過去5年間の研究を統合し、プロウイルスリザーバーの動態と関連する免疫相関に焦点を当てている。PHIVでは感染が免疫系発達期に生じるため、リザーバーの成立・維持機構が成人感染と異なる可能性があり、生涯にわたるリザーバー動態の理解が重要である。論文は、リザーバーサイズや構成の経時的変化、免疫学的相関（免疫活性化、炎症、T細胞分化など）との関連を評価し、タイミング依存的なリザーバー動態と免疫相関の特徴を整理している。これにより、PHIV特有のリザーバー制御や治癒戦略への示唆が議論されている。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "A Chronologically Programmed Core-Shell Microneedle Patch for Staged Therapy of Spinal Cord Injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43007743/",
+        "abstract": "Secondary injury following spinal cord injury (SCI) is not a unidimensional pathological process; rather, it involves a spatiotemporally organized cascade that rapidly evolves from an acute inflammatory storm and tissue breakdown to stalled repair and impaired regeneration in the subacute phase. However, most current therapeutic strategies depend on single-dose administration or isolated targets and thus fail to keep pace with the dynamic progression of SCI. Here, we developed a core-shell microneedle platform that aligns drug delivery with SCI progression by temporally decoupling the release kinetics of distinct therapeutics. The shell enabled rapid methylprednisolone (MP) release to suppress inflammatory cascades and restrict the expansion of secondary injury during the acute phase, while the core achieved sustained release of miR124-enriched M2 macrophage-derived exosomes (M2-miR124-Exo), promoting neuroprotection and microenvironmental remodeling during the subacute phase. This \"suppression-then-repair\" strategy synchronized treatment timing with stage-specific pathological demands, overcoming the limitations of conventional single-window delivery systems. Mechanistically, the platform promoted neuronal survival and axonal regeneration partly through modulation of key signaling pathways, including MAPK. In vivo, the platform markedly improved locomotor recovery in SCI rats, reduced lesion size, and exhibited no detectable systemic toxicity. These findings establish a programmable, pathology-guided delivery paradigm that addresses the spatiotemporal mismatch in SCI therapy and offers a promising strategy for precision intervention in complex CNS injuries.",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.6c14287",
+        "keyword": "Exosomes",
+        "title_ja": "脊髓损伤分期治疗的时序编程核壳微针贴片",
+        "summary_ja": "脊髄損傷（SCI）後の二次損傷は時空間的に組織化されたカスケードであり、急性期の炎症嵐から亜急性期の修復停滞へと進展する。既存治療の多くは単回投与や単一標的に依存し、病態の動的進行に対応できない。本研究では、異なる治療薬の放出動態を時間的に分離することでSCI進行に適合させたコアシェル型マイクロニードルパッチを開発した。シェルはメチルプレドニゾロン（MP）を急速放出し急性期の炎症カスケード抑制と二次損傷拡大を制限し、コアはmiR124含有M2マクロファージ由来エクソソーム（M2-miR124-Exo）を徐放し亜急性期の神経保護と微小環境リモデリングを促進した。この「抑制後修復」戦略は治療時期を病期特異的ニーズに同期させ、従来の単一ウィンドウ送達系の限界を克服した。機序としてMAPKを含む主要シグナル経路の調節を介し神経生存と軸索再生を促進した。in vivoでSCIラットの運動回復を著明に"
+      },
+      {
+        "title": "Exosomal microRNAs in apoptosis and chemoresistance of ovarian cancer: mechanisms and therapeutic implications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43007520/",
+        "abstract": "Ovarian cancer remains the most lethal gynecologic malignancy, largely because of late diagnosis, frequent recurrence, and acquired chemoresistance. Impaired apoptotic regulation is a central mechanism underlying tumor persistence and reduced sensitivity to platinum- and taxane-based chemotherapy. Exosomes are important mediators of intercellular communication within the ovarian cancer microenvironment and can transfer microRNAs (miRNAs) that reprogram gene expression and signaling pathways in recipient cells. Accumulating evidence indicates that exosomal miRNAs regulate apoptosis-related pathways, including Bcl-2 family signaling, caspase activation, p53 signaling, and PI3K/Akt signaling, thereby influencing tumor cell survival, immune escape, tumor microenvironment remodeling, and therapeutic response. Exosome-mediated miRNA transfer also contributes to chemoresistance by suppressing apoptosis, enhancing survival signaling, and disseminating resistant phenotypes among tumor and stromal cells. In addition, preclinical studies suggest that selected natural bioactive compounds may influence miRNA- and exosome-related signaling as well as apoptosis-associated pathways; however, direct evidence for modulation of ovarian-cancer exosomal miRNAs remains limited. This review summarizes current evidence on the roles of exosomal miRNAs in apoptosis regulation and chemoresistance in ovarian cancer, with emphasis on molecular mechanisms, biomarker potential, and therapeutic implications. Targeting the exosome-miRNA-apoptosis axis may provide a promising framework for improving treatment response in ovarian cancer.",
+        "source": "PubMed",
+        "doi": "10.1007/s12032-026-03489-y",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム由来マイクロRNAによる卵巣がんのアポトーシスと化学療法耐性：機序と治療への示唆",
+        "summary_ja": "卵巣癌は最も致死性の高い婦人科悪性腫瘍であり、診断の遅れ、再発、獲得性化学療法抵抗性が主因である。アポトーシス制御の障害は、腫瘍の持続と白金製剤・タキサン系化学療法への感受性低下の中心的機序である。エクソソームは卵巣癌微小環境における細胞間通信の重要な媒介者であり、受容細胞の遺伝子発現やシグナル伝達経路を再プログラムするmicroRNA（miRNA）を転送する。蓄積されたエビデンスは、エクソソーム性miRNAがBcl-2ファミリーシグナル伝達、カスパーゼ活性化、p53シグナル伝達、PI3K/Aktシグナル伝達を含むアポトーシス関連経路を制御し、腫瘍細胞の生存、免疫逃避、腫瘍微小環境リモデリング、治療反応に影響することを示す。エクソソーム媒介性miRNA転送はまた、アポトーシス抑制、生存シグナル伝達亢進、腫瘍・間質細胞間の抵抗性表現型の伝播により化学療法抵抗性に寄与する。さらに前臨床研究は、"
+      },
+      {
+        "title": "A green approach to treating neurological conditions: the promise of plant-derived exosome-like nanovesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43007474/",
+        "abstract": "Plant-derived exosome-like nanovesicles (PELNs) are being investigated as bioactive preparations and drug carriers for neurological disorders. However, preparations recovered from disrupted plant tissues are heterogeneous and should not automatically be equated with naturally secreted extracellular vesicles or endosome-derived exosomes. This narrative review critically examines vesicle identity, isolation and purification, cellular uptake, brain delivery, disease-specific evidence, and translational requirements. Ultracentrifugation, size exclusion chromatography, polymer precipitation, and microfluidic approaches offer different trade-offs between recovery, contaminant removal, throughput, and scalability. Preclinical studies report effects in ischemic injury, glioma, amyloid-related models, Parkinsonian models, and gut-brain signaling, but these findings depend on the plant source, formulation, administration route, and experimental model. Endothelial uptake, transport across an intact blood-brain barrier, entry through a damaged barrier, and intranasal delivery represent distinct processes. Fluorescent tissue accumulation alone does not establish delivery of intact vesicles or functional cargo. Recent negative and cell-selective findings further challenge the assumption that all PELNs are effective neuronal carriers. Clinical development requires quantitative pharmacokinetics, route-specific biodistribution, repeated-dose safety assessment, causal cargo validation, and reproducible manufacturing with potency-linked release specifications. PELNs therefore provide a promising research platform rather than an established class of safe, intrinsically brain-targeting therapeutics. Their proposed environmental and commercial advantages also require direct process, cost, and life-cycle evaluation.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-13143-5",
+        "keyword": "Exosomes",
+        "title_ja": "神経疾患治療へのグリーンアプローチ：植物由来エクソソーム様ナノ小胞の可能性",
+        "summary_ja": "植物由来エキソソーム様ナノ小胞（PELNs）は、神経疾患に対する生理活性製剤や薬物担体として研究されている。しかし、破砕した植物組織から回収される調製物は不均一であり、天然に分泌される細胞外小胞やエンドソーム由来エキソソームと自動的に同一視すべきではない。本レビューは、小胞の同一性、単離・精製、細胞取り込み、脳送達、疾患特異的エビデンス、実用化要件を批判的に検討する。超遠心、サイズ排除クロマトグラフィー、ポリマー沈殿、マイクロ流体法は、回収率・夾雑物除去・スループット・スケーラビリティの間で異なるトレードオフを示す。前臨床研究は虚血損傷、グリオーマ、アミロイド関連モデル、パーキンソン病モデル、腸脳シグナリングで効果を報告するが、これらは植物源、製剤、投与経路、実験モデルに依存する。内皮取り込み、 intactな血液脳関門通過、損傷関門経由の侵入、経鼻送達は別個のプロセスである。蛍光組織蓄積"
+      },
+      {
+        "title": "HuR Inhibition Attenuates Hypertension and Fibrosis in Chronic Kidney Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43007060/",
+        "abstract": "Upregulation of the RNA-binding protein HuR (human antigen R) has been reported in patients with chronic kidney disease (CKD), but its pathogenic role remains incompletely understood. We hypothesized that HuR promotes renal and vascular injury in hypertensive CKD and that pharmacological inhibition of HuR attenuates disease progression. We therefore investigated the role of HuR in deoxycorticosterone acetate (DOCA) plus Ang II (angiotensin II)-induced CKD and evaluated the therapeutic efficacy of the HuR inhibitor, KH3 .",
+        "source": "PubMed",
+        "doi": "10.1161/HYPERTENSIONAHA.126.26933",
+        "keyword": "Exosomes",
+        "title_ja": "HuR阻害は慢性腎臓病における高血圧と線維化を軽減する。",
+        "summary_ja": "RNA結合タンパク質HuRは慢性腎臓病（CKD）患者で発現亢進が報告されているが、その病原的役割は十分に解明されていない。本研究では、HuRが高血圧性CKDにおける腎・血管障害を促進し、HuRの薬理学的阻害が病態進行を軽減するという仮説を立てた。DOCA（デオキシコルチコステロン酢酸エステル）＋Ang II（アンジオテンシンII）誘導性CKDにおいてHuRの役割を検討し、HuR阻害薬KH3の治療効果を評価した。"
+      },
+      {
+        "title": "Integrating exosomal transcriptomics and soluble proteomics from urinary supernatant for early detection of diabetic nephropathy: a review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43006662/",
+        "abstract": "The present review assesses prior studies on glomerular-centric perspectives and conventional biomarkers, including microalbuminuria and estimated glomerular filtration rate. These diagnostic markers have limitations in the early detection of diabetic nephropathy in clinical practice. To overcome this diagnostic gap, recent evidence indicates that the nephron functions as an integrated paracrine network in which tubuloglomerular crosstalk is mediated by urinary extracellular vesicles, known as exosomes. These nanovesicles carry pathogenic signals throughout the nephron, thereby promoting spatiotemporal injury between the glomerular and tubular regions. To improve the study of orthograde and retrograde crosstalk mechanisms, it is recommended to replace rapidly degrading apoptotic cell sediment with cell-free urine supernatant to maintain transcriptomic stability. Additionally, a novel screening panel is proposed to detect intracellular scaffolding collapse by measuring exosomal podocin mRNA. The panel also monitors slit diaphragm shedding and dedifferentiation in proximal convoluted tubules by measuring soluble nephrin and kidney injury molecule-1 ectodomain, respectively. This precision technique has the potential to detect the clinically silent window of disease by integrating exosomal transcriptomic and soluble proteomic signatures from distinct cellular compartments. In conclusion, such approaches can redefine prognostic stratification and help avoid terminal glomerulosclerosis before functional decline becomes irreversible.",
+        "source": "PubMed",
+        "doi": "10.1080/15321819.2026.2761991",
+        "keyword": "Exosomes",
+        "title_ja": "尿上清中のエクソソームトランスクリプトミクスと可溶性プロテオミクスを統合した糖尿病性腎症の早期検出：レビュー",
+        "summary_ja": "本レビューは、糖尿病性腎症の早期検出における従来の糸球体中心の視点と、微量アルブミン尿や推算糸球体濾過量などのバイオマーカーの限界を評価している。近年の知見では、ネフロンが傍分泌ネットワークとして機能し、尿中エクソソームを介した尿細管-糸球体クロストークが時空間的傷害を促進する。逆行性・順行性クロストーク研究のため、アポトーシス細胞沈渣ではなく無細胞尿上清を用いることが推奨される。新規スクリーニングパネルとして、エクソソーム由来ポドシンmRNAによる足細胞骨格崩壊の検出、可溶性ネフリンによるスリット膜脱落、KIM-1エクトドメインによる近位尿細管脱分化の監視が提案されている。エクソソームトランスクリプトームと可溶性プロテオームの統合により、臨床的に無症状の窓を検出し、予後層別化の再定義と不可逆的な機能低下前の糸球体硬化回避に寄与しうる。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "From stroma to signal: ncRNA networks governing CAF-driven cancer progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43007465/",
+        "abstract": "Cancer progression is not solely dictated by malignant cells but is profoundly influenced by the tumor microenvironment (TME), where cancer-associated fibroblasts (CAFs) serve as key regulators of tumor behavior. Emerging evidence has identified non-coding RNAs (ncRNAs), including long non-coding RNAs (lncRNAs) and circular RNAs (circRNAs), as critical mediators of CAF-driven tumor progression. These ncRNAs orchestrate complex regulatory networks that modulate gene expression at transcriptional, post-transcriptional, and epitranscriptomic levels, thereby shaping tumor-stroma interactions. In this review, we provide a comprehensive and mechanistic overview of CAF-associated ncRNA networks and their multifaceted roles in cancer biology. We highlight how ncRNAs regulate the formation of inflammatory CAF niches, mediate exosome-dependent intercellular communication, and drive key oncogenic processes, including metabolic reprogramming, tumor stemness, immune evasion, and therapeutic resistance. Particular emphasis is placed on the role of exosomal ncRNAs as dynamic signaling molecules that facilitate bidirectional communication between CAFs and tumor cells. Furthermore, we discuss emerging regulatory layers, such as hypoxia-induced signaling and epitranscriptomic modifications, which add complexity to CAF-ncRNA interactions. Importantly, CAF-derived ncRNAs are shown to influence multiple forms of therapy resistance by modulating apoptosis, ferroptosis, autophagy, and DNA damage repair pathways. These findings position ncRNA-mediated CAF networks as central orchestrators of tumor adaptability and progression. Finally, we explore the clinical implications of targeting ncRNAs and CAF-tumor crosstalk, including their potential as therapeutic targets and minimally invasive biomarkers. Collectively, this review provides an integrated framework for understanding CAF-ncRNA interactions and highlights novel opportunities for the development of more effective cancer therapies.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-12963-9",
+        "keyword": "Exosomes",
+        "title_ja": "从基质到信号：调控CAF驱动的癌症进展的ncRNA网络",
+        "summary_ja": "腫瘍微小環境（TME）において癌関連線維芽細胞（CAF）は腫瘍進展の鍵となる制御因子である。近年、長鎖非コードRNA（lncRNA）や環状RNA（circRNA）などの非コードRNA（ncRNA）がCAF駆動性の腫瘍進展を媒介する重要因子として注目されている。本レビューでは、CAF関連ncRNAネットワークの機構的概観を提供し、炎症性CAFニッチ形成、エクソソーム依存性細胞間通信、代謝リプログラミング、腫瘍幹細胞性、免疫回避、治療抵抗性などの腫瘍形成過程における多面的役割を論じる。特にエクソソームncRNAがCAFと腫瘍細胞間の双方向通信を促進する動的シグナル分子として機能する点、低酸素誘導性シグナルやエピトランスクリプトーム修飾といった新たな制御層がCAF-ncRNA相互作用を複雑化する点を強調する。CAF由来ncRNAはアポトーシス、フェロトーシス、オートファジー、DNA損傷修復経路を"
+      },
+      {
+        "title": "Conserved and taxon-restricted orthogroup expansions of pan-eukaryotic protein complexes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43006768/",
+        "abstract": "Protein complexes are central to cell biology and typically verified via a combination of interaction data, complete genome sequencing and comprehensive protein-coding gene predictions for reference eukaryotes. However, this information is lacking for non-reference eukaryotes. Protein complexes can be predicted in species for which no interaction data is available by mapping orthology of verified protein complex components from reference eukaryotes to predicted proteomes. Studies that map conservation of protein complex components by orthology are often limited to a small number of protein queries, an under-representation of non-reference, microbial eukaryotes and are scattered across the literature. Here, I integrate orthology and protein interaction data by mapping proteins of experimentally verified complexes to orthogroups of proteins spanning 31 diverse eukaryotes. Proteins within complex-harbouring orthogroups are retained and distributed more evenly across taxa than non-complex orthogroups. I identified 184 universal orthogroups that included orthologs of known protein complex components from all 31 eukaryotes, consistent with a conserved core repertoire, likely present in the last eukaryotic common ancestor (LECA). I generated the protein complex orthology cartographer (PCOC) suite to find significant duplications and reductions of proteins in universal orthogroups across and between eukaryotes. This revealed both multi-copy and notably single-copy proteins, in all queried species, from the exosome, spliceosome, proteasome, small-ribosomal processome, tRNA synthetases, MCM complexes and RNA polymerase III. Case analyses of Naegleria gruberi and Guillardia theta highlight taxon-specific expansions and show how broader protist inclusion improves domain-wide inference of eukaryotic protein-complex evolution.",
+        "source": "PubMed",
+        "doi": "10.1093/gbe/evag275",
+        "keyword": "Exosomes",
+        "title_ja": "汎真核生物タンパク質複合体における保存されたオルソグループ拡張と分類群特異的オルソグループ拡張",
+        "summary_ja": "本論文は、31種の多様な真核生物を用い、実験的に検証されたタンパク質複合体の構成因子をオルソグループにマッピングし、複合体の保存性と進化を解析した。複合体を含むオルソグループのタンパク質は、非複合体オルソグループより均等に保持・分布していた。全31種で既知複合体構成因子のオルソログを含む184の普遍的オルソグループを同定し、LECAに存在した保存的コアレパートリーと整合した。解析ツールPCOCを開発し、エクソソーム、スプライセオソーム、プロテアソーム、小リボソームプロセソーム、tRNA合成酵素、MCM複合体、RNAポリメラーゼIIIにおいて、多コピーおよび単コピーの顕著な重複・減少を検出した。Naegleria gruberiとGuillardia thetaの事例解析は分類群特異的拡張を示し、原生生物の包含が真核生物タンパク質複合体進化の推論を改善することを示した。"
+      },
+      {
+        "title": "Exosomes from induced and adipose-derived MSCs regulate NRK-52E cells under hyperglycemic conditions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43005991/",
+        "abstract": "Diabetic nephropathy (DN) is a major complication of diabetes mellitus (DM), primarily driven by chronic hyperglycemia and characterized by progressive renal damage. The regenerative potential of mesenchymal stem cell (MSC)-derived exosomes (Exos) has been highlighted. However, the therapeutic effects of Exos derived from induced MSCs (iMSC-Exos) and adipose-derived MSC (ADMSC-Exos) on DN-associated cellular processes remain largely unexplored.",
+        "source": "PubMed",
+        "doi": "10.4103/RPS.RPS_53_26",
+        "keyword": "Exosomes",
+        "title_ja": "誘導性および脂肪由来MSCのエクソソームは高血糖条件下でNRK-52E細胞を制御する。",
+        "summary_ja": "糖尿病性腎症（DN）は糖尿病（DM）の主要合併症であり、慢性高血糖を主因とし進行性の腎障害を特徴とする。間葉系幹細胞（MSC）由来エクソソーム（Exos）の再生能が注目されているが、誘導MSC由来Exos（iMSC-Exos）および脂肪由来MSC由来Exos（ADMSC-Exos）のDN関連細胞プロセスへの治療効果はほとんど未解明である。本研究は高血糖条件下のNRK-52E細胞における両Exosの調節作用を検討する。"
+      },
+      {
+        "title": "Adhesive hydrogel-mediated spatiotemporal delivery of garlic-derived nanovesicles reprograms immunometabolism to rescue periodontal bone regeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43005309/",
+        "abstract": "The core challenge in regenerating inflammatory bone defects, such as periodontitis-related bone resorption, lies in the dysregulation of the immune-metabolic microenvironment, which required implanted materials to simultaneously possess tissue sealing properties, sustained immune modulation capacity and metabolic intervention functions. Herein, garlic-derived exosome-like nanovesicles (GaELNs), exhibiting anti-inflammatory and immunomodulatory activities, are embedded in an injectable, tissue-adhesive polyethylene glycol hydrogel (GaE-PEG) to meet the challenges. The hydrogel exhibited favorable tissue adhesion and sustained release of GaELN-associated protein ",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103797",
+        "keyword": "Exosomes",
+        "title_ja": "接着性ハイドロゲルを介したニンニク由来ナノ小胞の時空間的送達は、免疫代謝を再プログラム化し、歯周骨再生を救済する。",
+        "summary_ja": "歯周炎関連骨吸収などの炎症性骨欠損の再生では、免疫代謝微小環境の調節不全が核心的課題であり、移植材料には組織封止性、持続的免疫調節能、代謝介入機能が同時に求められる。本研究では、抗炎症・免疫調節活性を持つニンニク由来エキソソーム様ナノベシクル（GaELNs）を、注入可能で組織接着性のポリエチレングリコールヒドロゲル（GaE-PEG）に内包した。このハイドロゲルは良好な組織接着性を示し、GaELN関連タンパク質を持続放出した。"
+      },
+      {
+        "title": "Concentric-type immunoblotting coupled with LC-MS/MS for high-sensitivity analysis of exosomes secreted by sorafenib-stimulated hepatocellular carcinoma cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43003569/",
+        "abstract": "Exosomes exhibit excellent biocompatibility and low immunogenicity, making them attractive natural drug delivery carriers. Separation and quantitative detection of exosomal proteins and cellular signaling proteins are essential to decipher exosome biological functions. Traditional Western blotting (WB) is hampered by low sensitivity and limited detection range for low-abundance proteins. Concentric-type immunoblotting (CIB) integrates circular non-uniform gradient electric field with the molecular sieving effect of polyacrylamide gels to realize efficient separation and enrichment of proteins, effectively overcoming commonly false-negative issues in WB.",
+        "source": "PubMed",
+        "doi": "10.1016/j.aca.2026.346414",
+        "keyword": "Exosomes",
+        "title_ja": "同心型免疫印迹结合LC-MS/MS用于高灵敏度分析索拉非尼刺激的肝细胞癌细胞分泌的外泌体",
+        "summary_ja": "ソラフェニブ刺激肝細胞癌由来エクソソームの高感度解析のため、同心円型イムノブロッティング（CIB）とLC-MS/MSを組み合わせた手法が提案された。エクソソームは生体適合性・低免疫原性から薬物送達担体として有望だが、タンパク質の分離・定量には従来のWestern blotting（WB）が低感度で低存在量タンパク質の検出に限界があった。CIBは円形非一様勾配電場とポリアクリルアミドゲルの分子ふるい効果を統合し、タンパク質の効率的な分離・濃縮を実現、WBの偽陰性問題を克服する。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Stage-Adaptive Bilayer Hydrogel Coordinates Photodynamic Antibacterial Therapy with Engineered Extracellular Vesicle-Mediated Immunomodulation in Infected Diabetic Wounds.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43004969/",
+        "abstract": "During the early phase of treatment, infected diabetic wounds require rapid bacterial control, whereas subsequent healing benefits from relief of persistent oxidative stress and inflammation, resulting in distinct and partly opposing redox demands over time. We therefore developed a stage-adaptive bilayer hydrogel that separates photodynamic antibacterial therapy from engineered small extracellular vesicle (sEV) delivery. The wound-contacting layer contains chlorin e6 (Ce6), while the ROS-responsive upper layer scavenges ROS and retains miR-146a-enriched sEVs carrying a human CD64-recognition module. The bilayer architecture limited premature release of sEV-associated particles during photodynamic treatment but allowed substantial release thereafter, with key vesicle-associated features preserved after irradiation. In human macrophages, engineered sEVs increased intracellular miR-146a, reduced IRAK1 abundance and NF-κB p65 phosphorylation, decreased CD86, and increased CD206. These effects were partly weakened by CD64 blockade. In infected diabetic wounds, Bil-Gel@miR-sEVs reduced bacterial burden and oxidative stress, suppressed IRAK1/NF-κB-associated inflammatory signaling, shifted macrophage-associated markers toward a repair-associated pattern, and improved epithelial, vascular, and matrix reconstruction. This bilayer design therefore links early infection control with later immunoregulation and tissue repair within one biomaterial.",
+        "source": "PubMed",
+        "doi": "10.1002/advs.78491",
+        "keyword": "sEVs",
+        "title_ja": "阶段自适应双层水凝胶协调光动力抗菌疗法与工程化细胞外囊泡介导的免疫调节用于感染性糖尿病创面。",
+        "summary_ja": "感染性糖尿病創傷は初期の細菌制御と後期の酸化ストレス・炎症緩和という相反するレドックス要求を持つ。そこで光線力学抗菌療法と工学的小細胞外小胞（sEV）送達を分離した段階適応型二層ヒドロゲルを開発した。創面接触層にクロリンe6（Ce6）を含有し、ROS応答性上層がROSを除去しつつCD64認識モジュール搭載miR-146a富含sEVを保持する。二層構造は光線力学療法中のsEV早期放出を抑制し、その後大量放出を可能にした。マクロファージでsEVはmiR-146aを増加しIRAK1・NF-κB p65リン酸化・CD86を減少、CD206を増加させた。感染創でBil-Gel@miR-sEVsは細菌負荷・酸化ストレスを低減し、IRAK1/NF-κB炎症シグナルを抑制、マクロファージマーカーを修復型へ移行させ、上皮・血管・基質再構築を改善した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の注目5トピック：\n\n①CD16強化ユニバーサルNKT細胞：mAb療法のADCC不足とTME免疫抑制を克服する幹細胞由来同種NKT細胞。既製細胞製剤として癌免疫療法の新基軸が期待される。\n\n②時空間制御マイクロニードルパッチ：脊髄損傷の急性炎症から亜急性期修復停滞へと続く病態カスケードに合わせ、薬剤放出を時間プログラム化。動的病態に対応する段階的治療の概念を提示。\n\n③卵巣癌エクソソームmiRNA：アポトーシス制御と白金・タキサン抵抗性の機序解明。診断バイオマーカー兼治療標的として、致死性婦人科癌の克服に寄与する可能性。\n\n④植物由来エキソソーム様ナノ小胞（PELNs）：神経疾患治療の低コスト・高生体親和性ナノキャリア。調製物の不均一性という課題を明確化し、標準化研究の必要性を示す。\n\n⑤段階適応型二層ヒドロゲル＋工学sEV：感染性糖尿病創傷で相反するレドックス要求に応答。光線力学抗菌とsEV免疫調節を時相分離し、慢性創傷治療の新設計を提示。\n\n共通潮流：エクソソーム/sEVを介した細胞間通信の理解深化と、それを用いた時空間制御型治療の台頭。"
+}

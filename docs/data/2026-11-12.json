@@ -1,0 +1,84 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Platelet VEGFR3 suppresses activation and thrombosis through p190A-mediated inhibition of RhoA signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43013393/",
+        "abstract": "Vascular endothelial growth factor receptor 3 (VEGFR3) is a key regulator of lymphangiogenesis, but its role in platelets remains undefined. Here, we identify VEGFR3 as an intrinsic inhibitory regulator of platelet function. Using PF4-Cre-mediated conditional deletion, pharmacological inhibition, and biochemical analyses, we show that VEGFR3 deficiency enhances platelet activation, aggregation, secretion, cytoskeletal remodeling, thrombosis, and myocardial injury. Mechanistically, VEGFR3 interacts with the Rho GTPase regulator p190A to limit RhoA activation and Ezrin/Radixin/Moesin phosphorylation, thereby restraining platelet activation. In patients with myocardial infarction, reduced platelet VEGFR3 expression is associated with increased platelet reactivity and greater coronary lesion severity. These findings uncover a previously unrecognized VEGFR3/p190A/RhoA signaling axis that restrains platelet activation and thrombosis and highlight its potential therapeutic relevance in thrombotic disorders.",
+        "source": "PubMed",
+        "doi": "10.1016/j.celrep.2026.118284",
+        "keyword": "PF4",
+        "title_ja": "血小板VEGFR3通过p190A介导的RhoA信号抑制来抑制活化和血栓形成。",
+        "summary_ja": "VEGFR3はリンパ管新生の主要制御因子だが、血小板での役割は未解明であった。本研究はVEGFR3が血小板機能の内在性抑制因子であることを同定した。PF4-Creによる条件欠損、薬理学的阻害、生化学的解析により、VEGFR3欠損が血小板活性化、凝集、分泌、細胞骨格リモデリング、血栓形成、心筋障害を亢進させることを示した。機序としてVEGFR3はRho GTPase制御因子p190Aと相互作用し、RhoA活性化とEzrin/Radixin/Moesinリン酸化を抑制することで血小板活性化を制御する。心筋梗塞患者では血小板VEGFR3発現低下が血小板反応性亢進および冠動脈病変重症度と関連する。これらの知見は血小板活性化と血栓を抑制する新規VEGFR3/p190A/RhoAシグナル軸を明らかにし、血栓性疾患における治療的意義を示す。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Assessment of cytotoxicity of human CAR-NK cells against various canine tumor cell lines.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42971080/",
+        "abstract": "The need for safer, more effective, and off-the-shelf immunotherapies has led to the development of induced pluripotent stem cells (iPSC)-derived natural killer (NK) cells. Previously, we successfully developed human universal potent chimeric antigen receptor-iPSC-derived NK cells (upCAR-NK cells). This study aimed to demonstrate that human upCAR-NK cells exhibit strong cytotoxicity against canine tumor cell lines, including those derived from hematopoietic and solid tumors. Human leukocyte antigen class I and II, programmed cell death protein 1, cytotoxic T lymphocyte-associated protein 4, and T-cell receptor genes were knocked out in iPSCs. Simultaneously, a human cluster of differentiation 19 (CD19)-targeting CAR and CD24 were overexpressed before differentiation into NK cells. To assess the feasibility of xenogeneic application, upCAR-NK and wild-type iPSC-derived NK (WT-NK) cells were co-cultured with canine tumor cell lines, including a canine B-cell leukemia cell line (GL-1), canine osteosarcoma cell line (D17), canine primary mammary tumor cell line (CIPp), and canine metastatic mammary tumor cell line (CIPm), at different effector-to-target ratios, and cytotoxicity was assessed using a lactate dehydrogenase assay. The results showed that upCAR-NK cells exhibited enhanced cytotoxicity against both hematopoietic and solid tumors compared with WT-NK cells. Moreover, upCAR-NK cells exhibited higher cytotoxicity against GL-1 cells than against the other tumor cell lines, whereas WT-NK cells showed no significant difference in cytotoxicity among the tumor cell lines. These findings suggest that a CAR targeting human CD19 may also recognize canine CD19. In conclusion, the future application of upCAR-NK cells for the treatment of canine hematopoietic and solid tumors appears feasible.",
+        "source": "PubMed",
+        "doi": "10.1016/j.rvsc.2026.106448",
+        "keyword": "NK cell therapy",
+        "title_ja": "ヒトCAR-NK細胞の各種イヌ腫瘍細胞株に対する細胞傷害性の評価",
+        "summary_ja": "iPSC由来NK細胞を用いた新規免疫療法の開発過程で、研究チームは既にヒト汎用型CAR-iPSC由来NK細胞（upCAR-NK細胞）を樹立している。本研究は、ヒトupCAR-NK細胞が造血器腫瘍および固形腫瘍由来を含むイヌ腫瘍細胞株に対して強い細胞傷害性を示すことを実証することを目的とした。iPSCにおいてHLA class I/II、PD-1、CTLA-4、TCR遺伝子をノックアウトし、ヒトCD19標的CARとCD24を過剰発現させた後、NK細胞へ分化させた。異種間応用の実現可能性を評価するため、upCAR-NK細胞および野生型iPSC由来NK（WT-NK）細胞をイヌ腫瘍細胞株（B細胞白血病GL-1、骨肉腫D17、原発性乳腺腫瘍CIPp、転移性乳腺腫瘍CIPm）と異なるE:T比で共培養し、LDHアッセイで細胞傷害性を評価した。upCAR-NK細胞はWT-NK細胞と比較して造血器腫瘍・固形"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Tumor-associated neutrophils in gastric cancer: dual roles with promising prognostic and therapeutic potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43013356/",
+        "abstract": "Despite the traditional view of neutrophils as primarily antibacterial cells, emerging evidence has highlighted their significant involvement in cancer progression and the modulation of the tumor microenvironment (TME). Tumor-associated neutrophils (TANs) have been recognized as key players in various malignancies, exerting both pro-tumorigenic and anti-tumorigenic effects that can ultimately influence disease outcomes. In gastric cancer (GC.), one of the most prevalent and lethal digestive system malignancies worldwide, TANs facilitate tumor progression through chronic inflammation, genomic instability, immunosuppression, angiogenesis, and metastasis. Their functional states exist along a continuum shaped by cytokines, microbial signals, exosomal transfer, and stromal interactions, resulting in context-dependent functions across disease stages and molecular subtypes. Elevated peripheral neutrophil-to-lymphocyte ratio (NLR) and specific TAN subsets are associated with adverse clinical outcomes in many cohorts, although protective associations have been observed in defined settings. This review synthesizes current knowledge on TAN origin, recruitment, phenotypic heterogeneity, and bidirectional crosstalk within the multicellular GC TME. It further evaluates their prognostic potential and examines emerging opportunities for therapeutic modulation. A deeper mechanistic understanding of TAN biology may support the development of neutrophil-directed strategies to overcome therapeutic resistance and improve outcomes in this heterogeneous malignancy.",
+        "source": "PubMed",
+        "doi": "10.1080/1750743X.2026.2759514",
+        "keyword": "Exosomes",
+        "title_ja": "胃癌中的肿瘤相关中性粒细胞：具有预后和治疗潜力的双重作用",
+        "summary_ja": "好中球は従来抗菌細胞と見なされてきたが、近年がん進行や腫瘍微小環境（TME）調節への関与が注目されている。腫瘍関連好中球（TAN）は様々な悪性腫瘍で腫瘍促進・抑制の両作用を示し、転帰に影響する。胃癌（GC）ではTANが慢性炎症、ゲノム不安定性、免疫抑制、血管新生、転移を通じ腫瘍進行を促進する。その機能状態はサイトカイン、微生物シグナル、エクソソーム輸送、間質相互作用により形成される連続体上にあり、病期や分子サブタイプで文脈依存的に変化する。末梢血好中球リンパ球比（NLR）高値や特定TANサブセットは不良な臨床転帰と関連するが、保護的関連も報告される。本レビューはTANの起源、動員、表現型不均一性、GCのTME内双方向クロストークに関する知見を統合し、予後予測能と治療的調節の可能性を評価する。TAN生物学の深い理解は治療抵抗性克服に資する可能性がある。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **血小板VEGFR3による血栓抑制機構**：VEGFR3が血小板機能の内在性抑制因子であることを同定。p190Aを介したRhoA阻害という新規機序を示し、血栓症治療標的としての可能性が期待される。\n\n2. **ヒトCAR-NK細胞のイヌ腫瘍への細胞傷害性評価**：汎用型CAR-iPSC由来NK細胞がイヌ造血器・固形腫瘍細胞株に対し傷害活性を示した。獣医療への応用とヒト・イヌ両面での前臨床モデル構築につながる。\n\n3. **胃癌における腫瘍関連好中球（TAN）の二面性**：TANは腫瘍促進・抑制の両作用を持ち、慢性炎症やゲノム不安定化に関与。予後予測バイオマーカーおよび治療標的としての可能性が示唆される。\n\n4. **PF4と血小板機能制御の接点**：VEGFR3研究でPF4-Cre系が用いられ、血小板特異的遺伝子欠損の基盤としてPF4の重要性が再確認された。血小板-腫瘍-炎症連関の理解に寄与する。\n\n5. **NK細胞療法とエクソソーム/sEVsの融合展望**：CAR-NK研究の進展は、sEVsを介した細胞間コミュニケーション解析や無細胞療法への展開と相まって、次世代免疫療法の設計に新たな視座を与える。\n\n以上、血小板制御、CAR-NKの越種応用、TANの二面性、PF4基盤技術、sEVs融合の5点が特に注目されます。"
+}

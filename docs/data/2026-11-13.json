@@ -1,0 +1,104 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Effects of 24-h sleep deprivation on circulating irisin, BDNF, and soluble klotho responses during exercise in the heat in young and older males.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42932907/",
+        "abstract": "Sleep deprivation and heat stress commonly coexist in occupational, athletic, and environmental settings and may disproportionately increase physiological strain in older adults. We examined whether 24-h sleep deprivation alters circulating biomarkers linked to proposed roles in metabolic adaptation (irisin), neurophysiological regulation (BDNF), and cellular stress protection (soluble klotho) during exercise in the heat in young and older males. Ten young (23 ± 3 yr) and 10 older (61 ± 4 yr) males completed randomized crossover trials involving normal sleep and 24-h total sleep deprivation before three 30-min bouts of semirecumbent cycling in hot, dry conditions (40°C, ∼13% relative humidity). Blood samples were obtained before and at the end of exercise for measurement of irisin, BDNF, and soluble klotho (s-klotho). Older males exhibited lower circulating concentrations of all three biomarkers across conditions and time points than young males. Exercise in the heat increased irisin (mean change 522.7 pg/mL, 95% CI 310.6 to 734.8, ",
+        "source": "PubMed",
+        "doi": "10.1152/ajpregu.00240.2026",
+        "keyword": "Klotho",
+        "title_ja": "若年男性および高齢男性における暑熱環境下運動時の血中アイリシン、BDNF、可溶性クロトー反応に対する24時間睡眠剥奪の影響",
+        "summary_ja": "24時間睡眠遮断が若年男性と高齢男性の暑熱下運動時における血中イリシン、BDNF、可溶性クロトーに及ぼす影響を検討した。若年男性10名（23±3歳）と高齢男性10名（61±4歳）が、通常睡眠と24時間完全睡眠遮断のクロスオーバー試験を実施し、高温乾燥条件（40℃、相対湿度約13%）で30分間の半リカンベント自転車運動を3回行った。運動前後に血中バイオマーカーを測定した。高齢男性は全条件・全時点で若年男性より3指標すべて低値を示した。暑熱下運動によりイリシンは増加した（平均変化522.7 pg/mL、95% CI 310.6〜734.8）。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "MicroRNA core machinery maintains mitochondrial integrity to empower cancer escape from natural killer cell cytotoxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43018642/",
+        "abstract": "Natural killer (NK) cells offer a promising off-the-shelf platform for cancer immunotherapy, yet their clinical efficacy is often limited by tumor-intrinsic resistance. Here, we show that loss of core microRNA (miRNA) machinery components, Argonaute‑2 (AGO2) or Ankyrin Repeat Domain 52 (ANKRD52), renders tumor cells hypersensitive to NK cell-mediated killing in both co-culture and xenograft models. Mechanistically, genetic ablation of Ago2 or Ankrd52 impairs miRNA-mediated silencing of critical mitochondrial apoptotic regulators and NK-cell-associated ligands in tumor cells, exemplified by the disrupted repression of pro-apoptotic Bim transcripts by miR-24 and miR-29b, thereby unleashing rapid TNF-α-driven apoptosis. Additionally, metabolic and ultrastructural analyses demonstrate collapsed membrane potential, diminished ATP levels, and fragmented mitochondria in Ago2- or Ankrd52-mutant tumor cells, accompanied by a lower apoptotic threshold upon TNF-α or NK cell challenge. Genome‑wide CRISPR library screen further revealed a selective fitness dependency on mitochondrial electron‑transport and ATP‑synthase genes in mutant tumor cells. Collectively, these findings define defective miRNA machinery as a tumor‑intrinsic vulnerability that couples mitochondrial fragility with increased NK-mediated cytotoxicity, nominate miRNA‑pathway status as a predictive biomarker, and propose that co‑targeting mitochondrial metabolism or apoptosis may potentiate NK‑cell therapies.",
+        "source": "PubMed",
+        "doi": "10.1158/2326-6066.CIR-26-0559",
+        "keyword": "NK cell therapy",
+        "title_ja": "MicroRNAコアマシナリーはミトコンドリアの完全性を維持し、がん細胞がナチュラルキラー細胞の細胞傷害性から逃れることを可能にする。",
+        "summary_ja": "中核miRNA機構の構成因子AGO2またはANKRD52を欠損した腫瘍細胞は、NK細胞傷害性に高感受性となる。機構的には、miRNAによるミトコンドリアアポトーシス制御因子やNK細胞関連リガンドの抑制が破綻し、miR-24およびmiR-29bによるBim転写産物抑制の解除を介してTNF-α駆動性アポトーシスが亢進する。代謝・超微細構造解析では膜電位崩壊、ATP低下、ミトコンドリア断片化とアポトーシス閾値低下を認め、ゲノムワイドCRISPRスクリーニングは電子伝達系・ATP合成酵素遺伝子への選択的依存性を示した。miRNA機構の欠陥はミトコンドリア脆弱性とNK細胞傷害性を結びつける腫瘍内在性の脆弱性であり、予測バイオマーカーとしての可能性とミトコンドリア代謝・アポトーシス併用標的化によるNK細胞療法増強が提唱される。"
+      },
+      {
+        "title": "Twenty years of watching regenerative medicine grow up.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43018114/",
+        "abstract": "Since 2006, I have contributed 179 Industry Updates to ",
+        "source": "PubMed",
+        "doi": "10.1080/17460751.2026.2764077",
+        "keyword": "NK cell therapy",
+        "title_ja": "再生医療の成長を見守った20年",
+        "summary_ja": "2006年以降、筆者は再生医療分野のIndustry Updateを179本執筆してきた。20年間で同分野は基礎研究から臨床応用・産業化へと成長し、iPS細胞やCAR-T療法などの技術が実用化段階に入った。一方で、規制整備、製造スケールアップ、費用対効果、事業化の課題も顕在化している。筆者は自身の執筆活動を通じ、再生医療が「成長期」を経て成熟産業へ移行する過程を観察してきたと総括している。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Serum Exosomes from Subacute Phase Post-cardiopulmonary Resuscitation Promote Microglial Pro-inflammatory Phenotype Polarization and Exacerbate Blood-Brain Barrier Disruption in Mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43018801/",
+        "abstract": "Cardiopulmonary resuscitation (CPR) restores circulation but induces cerebral ischemia-reperfusion injury characterized by blood-brain barrier (BBB) disruption and microglial-mediated neuroinflammation. Exosomes circulate systemically following CPR, yet their temporal profiles and specific roles remain poorly understood. C57BL/6 mice (n = 5/group) underwent asphyxial cardiac arrest and CPR. BBB permeability was assessed longitudinally (3 h to 14 d) using Evans blue extravasation. Serum exosomes were isolated at 1 d and 3 d post-CPR and characterized. To determine immunomodulatory effects, exosomes were administered via intracerebroventricular injection into recipient mice, and BBB integrity and microglial polarization (CD86, CD206) were evaluated by immunofluorescence and flow cytometry. Additionally, primary cultures of microglia cells isolated from CPR mice were exposed to exosomes in vitro (n = 3/group), and pro-inflammatory phenotype/anti-inflammatory phenotype markers and inflammatory cytokines (IL-1β, TNF-α, iNOS, TGF-β, Arg1, IL-10) were quantified. CPR induced transient BBB disruption peaking at 3 d post-resuscitation. Serum exosomes isolated at both 1 d and 3 d exhibited characteristic cup-shaped morphology. Intracerebroventricular administration of post-CPR exosomes significantly exacerbated BBB leakage and skewed microglial polarization toward a pro-inflammatory phenotype (elevated CD86⁺; reduced CD206⁺), with 3-day exosomes eliciting more potent detrimental effects than 1-day exosomes. In vitro, exposure to 3-day exosomes similarly produced stronger pro-inflammatory transcriptional responses and increased nitric oxide (NO) production compared with 1-day exosomes. Serum exosomes derived from post-CPR mice exhibit pro-inflammatory activity, aggravating BBB disruption and promoting microglial pro-inflammatory phenotype polarization upon central delivery. These findings suggest that circulating exosomes may contribute to post-resuscitation neuroinflammatory injury, and highlight exosome-related pathways as candidate targets worthy of further investigation.",
+        "source": "PubMed",
+        "doi": "10.1007/s11064-026-04951-z",
+        "keyword": "Exosomes",
+        "title_ja": "心肺蘇生後亜急性期の血清エクソソームはマウスにおいてミクログリアの炎症性表現型への分極を促進し、血液脳関門の破綻を悪化させる",
+        "summary_ja": "心肺蘇停後（CPR後）の脳虚血再灌流障害における血清エクソソームの役割を検討した。C57BL/6マウスに窒息性心停止とCPRを施行し、BBB透過性をEvans blue漏出で経時評価した。CPR後1日・3日の血清エクソソームを単離し、脳室内投与によりBBB完全性とミクログリア極性（CD86、CD206）を免疫蛍光法・フローサイトメトリーで評価した。また初代ミクログリア培養にエクソソームを曝露し、炎症性サイトカインを定量した。CPRは3日目にピークとなる一過性BBB障害を誘導した。CPR後エクソソーム投与はBBB漏出を増悪し、ミクログリアを炎症性表現型（CD86⁺増加、CD206⁺減少）へ偏倚させ、3日目エクソソームが1日目より強い障害作用を示した。In vitroでも3日目エクソソームは炎症性転写応答とNO産生をより強く誘導した。CPR後血清エクソソームは炎症性活性を有し、BBB障害増悪と"
+      },
+      {
+        "title": "Plasma exosomal microRNA profiling in diabetic foot ulcers: inflammatory and proliferative stages-an observational study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43018657/",
+        "abstract": "Diabetic foot ulcers (DFU) are chronic, hard-to-heal wounds that drive diabetic lower-limb complications and can ultimately lead to amputation. Exosomal microRNAs (miRNAs) are promising regulators of ulcer repair by modulating inflammation, promoting angiogenesis, enhancing collagen deposition, and facilitating epithelial regeneration. This study profiled plasma exosomal miRNAs across DFU stages to clarify healing mechanisms and identify potential therapeutic targets.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-13073-2",
+        "keyword": "Exosomes",
+        "title_ja": "糖尿病性足潰瘍における血漿エクソソームマイクロRNAプロファイリング：炎症期および増殖期－観察研究",
+        "summary_ja": "糖尿病性足潰瘍（DFU）は治癒困難な慢性創傷で、下肢合併症や切断に至る。エクソソーム由来microRNA（miRNA）は炎症調節、血管新生促進、コラーゲン沈着増強、上皮再生促進を通じて潰瘍修復の有望な制御因子である。本研究はDFU各ステージにおける血漿エクソソームmiRNAのプロファイリングを行い、治癒機序の解明と治療標的の同定を目指した観察研究である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "1. **睡眠遮断と可溶性Klotho**：24時間睡眠遮断が暑熱下運動時の可溶性クロトー応答に及ぼす影響を若年・高齢男性で比較。加齢に伴うKlotho低下と睡眠不足の複合リスクを明示し、抗老化・運動生理研究の新指標として注目。\n\n2. **NK細胞抵抗性とmiRNA機構**：AGO2/ANKRD52欠損腫瘍がNK細胞傷害性に高感受性化。miRNAによるミトコンドリア制御の破綻が免疫逃避の鍵であり、NK細胞療法の効果予測バイオマーカーや併用標的として有望。\n\n3. **再生医療20年の軌跡**：iPS細胞・CAR-Tの実用化など産業化の進展を総括。規制・製造スケールアップの課題を整理し、今後の社会実装に向けた政策的示唆を提供。\n\n4. **CPR後血清エクソソームと脳障害**：心停止後血清エクソソームがミクログリア炎症性极化とBBB破綻を増悪。蘇生後脳保護におけるエクソソーム標的の新規治療戦略を示す。\n\n5. **糖尿病性足潰瘍のエクソソームmiRNA**：炎症期・増殖期の血漿エクソソームmiRNAプロファイルを同定。創傷治癒促進の分子制御と新規バイオマーカー開発への展望を提示。"
+}

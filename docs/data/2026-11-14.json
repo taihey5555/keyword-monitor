@@ -1,0 +1,144 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Cell-based immunotherapies for infectious diseases: current evidence and translational perspectives on cytokine induced killer (CIK) cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43024081/",
+        "abstract": "The persistent global burden of infectious diseases, compounded by environmental challenges, emerging pathogens, and antimicrobial resistance, underscores the urgent need for novel therapeutic strategies beyond conventional antimicrobial agents. Cell based immunotherapies, which harness the body's immune system to combat pathogens, have gained increasing attention for their potential to provide targeted, durable, and adaptive responses. Recently, we demonstrated that clinically licensed cytokine-induced killer (CIK) cells, used in cancer treatment, significantly reduced Plasmodium-infected erythrocytes in vitro. This review focuses on the emerging role of CIK cells in infectious disease therapy, positioning them alongside other prominent immune effector cells such as CTLs, γδT cells, and NK cells. We explore the biology, recognition mechanisms, their potential feature, and cytotoxic functions of these cell populations, distinguishing direct findings in infection-specific CIK studies from mechanisms characterized in oncology or other cytotoxic lymphocytes. While CTLs, γδT cells, and NK cells have been extensively studied for their roles in early and adaptive immune responses, CIK cells traditionally investigated in oncology, are now being recognized for their potential in antiviral and antimicrobial immunity. Alongside with CTLs, γδT cells, and NK cells, we detail CIK cell phenotypes, activation strategies, effector functions, and the limited but growing body of evidence supporting their application in some viral infections. The available findings support further investigation of CIK cells as a candidate approach in selected infectious settings, while their broader antimicrobial applicability, comparative efficacy, target specificity, safety, and clinical benefit require further evaluation in these settings.",
+        "source": "PubMed",
+        "doi": "10.1007/s00281-026-01092-x",
+        "keyword": "NK cell therapy",
+        "title_ja": "感染症に対する細胞ベースの免疫療法：サイトカイン誘導キラー（CIK）細胞に関する現在のエビデンスとトランスレーショナルな展望",
+        "summary_ja": "感染症の世界的負担は、環境問題、新興病原体、薬剤耐性により深刻化し、従来の抗菌薬を超える新戦略が求められている。細胞免疫療法は標的性・持続性・適応性を持つ可能性から注目されている。最近、がん治療で臨床承認済みのCIK細胞がin vitroでマラリア感染赤血球を有意に減少させることが示された。本レビューは感染症治療におけるCIK細胞の役割を、CTL、γδT細胞、NK細胞と並べて位置づける。これらの生物学、認識機構、細胞傷害機能を探り、感染症特異的CIK研究の直接知見と腫瘍学等で特徴づけられた機構を区別する。CTL、γδT細胞、NK細胞は早期・適応免疫で広く研究される一方、腫瘍学で研究されてきたCIK細胞は抗ウイルス・抗菌免疫への可能性が認識されつつある。CIK細胞の表現型、活性化戦略、エフェクター機能、一部ウイルス感染症への適用を支持する限定的だが増加中のエビデンスを詳述する。知見は選択的感"
+      },
+      {
+        "title": "Development of new CAR-T cell therapies for hematological cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43024040/",
+        "abstract": "Chimeric antigen receptor (CAR) T-cell therapy has achieved remarkable success in treating B-cell malignancies and multiple myeloma. However, CAR-T therapy for acute myeloid leukemia (AML) remains challenging. Key issues include the lack of a tumor-specific target antigen, antigen expression heterogeneity, on-target off-tumor toxicity, and limitations of individualized manufacturing of autologous cell therapies. Recent strategies include optimized antigen recognition, multi-antigen targeting, and use of donor-recipient HLA mismatch following allogeneic hematopoietic cell transplantation. Additionally, off-the-shelf cell therapies including CAR NK cells are being developed. Furthermore, in vivo CAR T-cell generation has emerged as a distinct approach that may eliminate the need for ex vivo manufacturing. This review discusses these strategies and explores how optimizing target selection, the effector cell platform, and manufacturing processes could expand CAR-based cellular therapy.",
+        "source": "PubMed",
+        "doi": "10.1007/s12185-026-04318-8",
+        "keyword": "NK cell therapy",
+        "title_ja": "血液がんに対する新規CAR-T細胞療法の開発。",
+        "summary_ja": "CAR-T細胞療法はB細胞悪性腫瘍や多発性骨髄腫で顕著な成功を収めたが、急性骨髄性白血病（AML）では腫瘍特異的抗原の欠如、抗原発現の不均一性、on-target off-tumor毒性、自家細胞療法の個別製造の限界が課題である。近年の戦略として、抗原認識の最適化、多抗原標的化、同種造血細胞移植後のドナー・レシピエントHLA不一致の利用がある。さらにCAR NK細胞を含むoff-the-shelf細胞療法や、ex vivo製造を不要にし得るin vivo CAR-T細胞作製も登場している。本レビューはこれらの戦略を論じ、標的選択・エフェクター細胞プラットフォーム・製造プロセスの最適化によるCAR細胞療法の拡大可能性を探る。"
+      },
+      {
+        "title": "B7-H3-targeted natural killer cells are effective against atypical teratoid / rhabdoid tumors and extend survival in orthotopic xenografts.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43023427/",
+        "abstract": "Atypical teratoid/rhabdoid tumors (ATRTs) are the most common malignant CNS tumor in infants, and patients suffer from low survival rates and treatment-related morbidities. These tumors frequently overexpress the pan-cancer antigen B7-H3 (CD276), which can be targeted with immunotherapy. We hypothesized that adding a B7-H3-targeting cytotoxic chimeric antigen receptor (CAR) to NK cells can enhance killing against ATRTs.",
+        "source": "PubMed",
+        "doi": "10.1093/neuonc/noag285",
+        "keyword": "NK cell therapy",
+        "title_ja": "B7-H3標的ナチュラルキラー細胞は非定型奇形腫様/ラブドイド腫瘍に対して有効であり、同所性異種移植片において生存期間を延長する。",
+        "summary_ja": "ATRTは乳児に多い悪性CNS腫瘍で、生存率が低く治療関連の罹病率も高い。ATRTは汎がん抗原B7-H3（CD276）を高発現することが多く、免疫療法の標的となり得る。本研究では、B7-H3を標的とする細胞傷害性CARをNK細胞に付加することでATRTに対する殺傷能が増強されると仮説を立てた。B7-H3標的NK細胞はATRTに対して有効であり、同所性異種移植モデルで生存期間を延長した。"
+      },
+      {
+        "title": "ICAM-1 as a biomarker of efficacy for oncolytic coxsackievirus A21 in patient-derived Ewing sarcoma models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43022387/",
+        "abstract": "Ewing sarcoma (EWS) is a rare pediatric malignancy of the bone and soft tissue and requires better-tolerated and improved therapies. Oncolytic viruses (OVs) preferentially replicate in cancer cells, causing oncolysis, and activate both innate and adaptive anti-tumor immunity. Thus, OVs have the potential to generate long-lasting, systemic anti-cancer activity. Using a unique panel of patient-derived EWS cultures (PDES), recently derived from patient tumors at diagnosis and relapse, we have identified oncolytic coxsackievirus A21 (CVA21) as a candidate therapeutic OV in EWS, due to its high oncolytic activity and immune stimulation. PDES, unlike established EWS cell lines, expressed intercellular adhesion molecule-1 (ICAM-1), the CVA21 viral entry receptor, and were sensitive to CVA21-mediated oncolysis. Treatment with known ICAM-1 inducers, including tumor necrosis factor (TNF) and the clinically deliverable agent all-",
+        "source": "PubMed",
+        "doi": "10.1016/j.omton.2026.201367",
+        "keyword": "NK cell therapy",
+        "title_ja": "ICAM-1は患者由来ユーイング肉腫モデルにおける腫瘍溶解性コクサッキーウイルスA21の有効性バイオマーカーとなる",
+        "summary_ja": "ユーイング肉腫（EWS）は希少な小児骨軟部悪性腫瘍で、新規治療法が求められている。腫瘍溶解性ウイルス（OV）は癌細胞で優先的に複製し腫瘍溶解と抗腫瘍免疫を活性化する。診断時・再発時に患者腫瘍から樹立した独自のPDESパネルを用い、腫瘍溶解性コクサッキーウイルスA21（CVA21）が高い腫瘍溶解活性と免疫刺激を示す候補OVと同定された。PDESは既存EWS細胞株と異なりCVA21受容体であるICAM-1を発現し、CVA21による腫瘍溶解に感受性を示した。TNFや臨床応用可能なICAM-1誘導剤による処理が検討された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Exosomes in infectious diseases: From pathogenic exploitation to next-generation diagnostics and therapeutics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43023074/",
+        "abstract": "Exosomes (30-150 nm extracellular vesicles of endosomal origin) have redefined our understanding of intercellular communication during infection. This review provides a comprehensive, updated analysis of how exosomes function as double-edged swords in infectious diseases, mediating both host protective immunity and pathogen dissemination. We focus on recently discovered mechanisms (2020-2026) in bacterial, viral, parasitic, and fungal infections, including ",
+        "source": "PubMed",
+        "doi": "10.1016/j.imj.2026.100291",
+        "keyword": "Exosomes",
+        "title_ja": "感染症におけるエクソソーム：病原体による利用から次世代の診断・治療へ",
+        "summary_ja": "エクソソーム（30-150nmのエンドソーム由来細胞外小胞）は感染時の細胞間通信の理解を塗り替えた。本レビューは感染症におけるエクソソームの両刃の剣としての機能—宿主防御免疫と病原体播種の媒介—を包括的かつ最新に分析する。細菌・ウイルス・寄生虫・真菌感染における2020-2026年の新発見機構に焦点を当てる。（160字）"
+      },
+      {
+        "title": "Retraction notice to \"Edelweiss callus culture extracted exosome for chronic wound healing\" [JPRAS Open 50 (2026) 55-67].",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43022457/",
+        "abstract": "[This retracts the article DOI: 10.1016/j.jpra.2026.03.033.].",
+        "source": "PubMed",
+        "doi": "10.1016/j.jpra.2026.10.019",
+        "keyword": "Exosomes",
+        "title_ja": "「Edelweiss callus culture extracted exosome for chronic wound healing」[JPRAS Open 50 (2026) 55-67]の撤回通知",
+        "summary_ja": "本論文「Edelweiss callus culture extracted exosome for chronic wound healing」は撤回された。撤回通知のみが示されており、具体的な撤回理由は明記されていない。該当論文（DOI: 10.1016/j.jpra.2026.03.033）は、エーデルワイスカルス培養由来exosomeを用いた慢性創傷治癒に関する研究であったが、撤回によりその知見の信頼性は失われた。"
+      },
+      {
+        "title": "Hydrogels as drug carriers for cartilage repair in osteoarthritis: Applications and challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43022043/",
+        "abstract": "Osteoarthritis (OA) is a prevalent chronic degenerative joint disease characterized by progressive cartilage degradation, subchondral bone remodelling, synovial inflammation, osteophyte formation, and loss of joint function, resulting in significant pain, disability, and socioeconomic burden worldwide. Despite advances in clinical management, current therapeutic strategies, including nonsteroidal anti-inflammatory drugs, corticosteroids, hyaluronic acid injections, and surgical interventions, primarily provide symptomatic relief and have limited ability to prevent disease progression or regenerate damaged cartilage. In recent years, hydrogel-based drug delivery systems have emerged as promising therapeutic platforms owing to their excellent biocompatibility, biodegradability, injectability, high water content, and structural similarity to the native extracellular matrix. These properties enable hydrogels to serve as effective carriers for a wide range of therapeutic agents, including anti-inflammatory drugs, growth factors, nucleic acids, nanoparticles, exosomes, and stem cells, while providing sustained and localized drug release within the osteoarthritic joint. This review comprehensively discusses the pathophysiology of OA and highlights the major molecular signaling pathways involved in disease progression, including NF-κB, MAPK, Wnt/β-catenin, PI3K/Akt, TGF-β, and JAK/STAT pathways. Furthermore, recent advances in natural, synthetic, hybrid, and stimuli-responsive hydrogels are critically examined, with particular emphasis on their applications in cartilage repair and targeted drug delivery. Emerging approaches involving nanotechnology-enabled hydrogels, gene delivery systems, stem cell-loaded constructs, and immunomodulatory biomaterials are also evaluated for their therapeutic potential and translational prospects. This review provides an integrated and up-to-date perspective on hydrogel-based strategies for cartilage regeneration and disease modification, highlighting their potential as next-generation therapeutic platforms for the long-term management of osteoarthritis.",
+        "source": "PubMed",
+        "doi": "10.1016/j.reth.2026.101195",
+        "keyword": "Exosomes",
+        "title_ja": "軟骨修復のための変形性関節症における薬物担体としてのハイドロゲル：応用と課題",
+        "summary_ja": "変形性関節症（OA）は軟骨変性・軟骨下骨リモデリング・滑膜炎・骨棘形成を特徴とする慢性疾患である。既存治療は対症療法に限られ、軟骨再生能は乏しい。近年、生体適合性・生分解性・注入性・高い含水率・細胞外マトリックス類似性を有するハイドロゲルが薬物送達担体として注目されている。抗炎症薬・成長因子・核酸・ナノ粒子・エクソソーム・幹細胞などを封入し、関節内で持続的局所放出が可能である。本レビューはOAの病態生理とNF-κB、MAPK、Wnt/β-catenin、PI3K/Akt、TGF-β、JAK/STATなどのシグナル経路を概説し、天然・合成・ハイブリッド・刺激応答性ハイドロゲルの軟骨修復・標的薬物送達への応用を評価する。さらにナノテクノロジー活用ハイドロゲル、遺伝子送達、幹細胞搭載構築物、免疫調節性生体材料の治療可能性と実用化展望を論じ、OA長期管理における次世代治療プラットフォームとしての可"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Cellular and Molecular Mechanisms of Wound Healing and Therapeutics Innovations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43023502/",
+        "abstract": "Chronic wounds are a significant and growing global clinical problem owing to increasing rates of diabetes, vascular diseases, ageing, and metabolic disorders. In contrast to acute wounds, which follow a coordinated sequence of haemostasis, inflammation, proliferation and remodelling, chronic wounds fail to progress through the healing process, leading to delayed or unfinished recovery. There is mounting evidence that this malfunction lies primarily in dysregulated intracellular signalling and is not necessarily in a lack of growth factors or cellular components. There is prolonged stimulation of pro-inflammatory pathways, disrupted angiogenic and regenerative signalling, excessive extracellular matrix degradation, cellular senescence and impaired immune resolution in chronic wound environments. The most important signalling networks, such as TGF-b/Smad, PI3K/Akt/mTOR, MAPK, NF-kB, Wnt/b-catenin, JAK/STAT, Hippo-YAP/TAZ, Notch, and hypoxia-inducible factor-1a, are crucial in the coordination of wound repair, but are functionally impaired in chronic pathological diseases. The pathways demonstrate a widespread crosstalk, forming a self-maintaining feedback loop that drives inflammation, oxidative stress, endothelial dysfunction, and a lack of cellular responsiveness. This review provides a detailed description of the physiology of normal wound healing, compares acute and chronic wound pathology, and critically discusses the molecular signalling defects that promote the persistence of chronic wounds. Additionally, it identifies emerging therapeutic approaches aimed at regulating dysregulated signalling networks, such as small-molecule modulators, biologics, biomaterials, gene- and cell-based therapies and exosome-mediated therapies.",
+        "source": "PubMed",
+        "doi": "10.33594/000000899",
+        "keyword": "Exosomes",
+        "title_ja": "創傷治癒の細胞・分子メカニズムと治療革新",
+        "summary_ja": "慢性創傷は糖尿病・血管疾患・老化・代謝障害の増加に伴い世界的に拡大する臨床課題である。急性創傷が止血・炎症・増殖・リモデリングの協調的段階を経るのに対し、慢性創傷は治癒過程が停止し遅延・未完了となる。その主因は成長因子や細胞成分の不足ではなく、細胞内シグナル伝達の調節不全にあるとの証拠が増加している。慢性創傷環境では炎症性経路の持続的刺激、血管新生・再生シグナルの破綻、細胞外マトリックスの過剰分解、細胞老化、免疫消退の障害が生じる。TGF-β/Smad、PI3K/Akt/mTOR、MAPK、NF-κB、Wnt/β-catenin、JAK/STAT、Hippo-YAP/TAZ、Notch、HIF-1αといった主要シグナルネットワークは創傷修復の調整に重要だが慢性病態では機能不全に陥る。これらの経路は広範なクロストークにより自己維持的フィードバックループを形成し、炎症・酸化ストレス・内皮機能障"
+      },
+      {
+        "title": "Combined genomic and plasma exosomal miRNA signatures associated with neoadjuvant therapy response in breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42998579/",
+        "abstract": "Response to neoadjuvant therapy (NAT) in breast cancer is highly heterogeneous, and reliable molecular predictors are limited.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbrc.2026.154853",
+        "keyword": "Exosomes",
+        "title_ja": "乳がんにおける術前補助療法の奏効に関連するゲノムおよび血漿エクソソームmiRNAの複合シグネチャー",
+        "summary_ja": "乳癌の術前補助療法（NAT）への反応は不均一で、信頼できる分子予測因子は限られている。本研究は、ゲノムと血漿エクソソームmiRNAの統合シグネチャを解析し、NAT反応との関連を検討したものである。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の論文から注目すべき5トピックをまとめます。\n\n1. **CIK細胞による感染症治療**：薬剤耐性病原体の増加を受け、がん治療で実績のあるCIK細胞を感染症へ応用する translational 研究が進む。標的性と持続性が魅力で、今後の臨床応用が期待される。\n\n2. **AML向けCAR-T開発**：B細胞腫瘍での成功に対しAMLは抗原不均一性やoff-tumor毒性が課題。新戦略による克服が急務である。\n\n3. **B7-H3標的NK細胞とATRT**：難治性小児脳腫瘍ATRTに対し、B7-H3を標的とするCAR-NKが異種移植で生存延長を示した。汎がん抗原標的として有望である。\n\n4. **エクソソームの感染症応用**：宿主防御と病原体播種の両面性を整理し、次世代診断・治療への可能性を示す。両刃の剣としての理解が重要である。\n\n5. **血漿エクソソームmiRNAによる乳癌NAT反応予測**：ゲノムとmiRNAの統合シグネチャで術前補助療法の反応予測が可能になり得る。個別化医療への貢献が期待される。\n\n以上、細胞免疫療法の適応拡大とエクソソームの診断・治療応用が本日の中心的潮流である。"
+}

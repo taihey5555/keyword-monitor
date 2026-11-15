@@ -1,0 +1,95 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Immunotherapy in multiple myeloma: Molecular mechanisms, current clinical strategies, resistance, and future perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42956534/",
+        "abstract": "Immunotherapy has revolutionized the treatment of multiple myeloma (MM), providing durable clinical responses through targeted activation of the immune system. However, disease relapses remain common owing to immune escape, antigen loss, T-cell exhaustion, and the immunosuppressive bone marrow microenvironment, underscoring the need for continued therapeutic innovation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.seminoncol.2026.152568",
+        "keyword": "NK cell therapy",
+        "title_ja": "多発性骨髄腫における免疫療法：分子メカニズム、現在の臨床戦略、耐性、および将来の展望。",
+        "summary_ja": "多発性骨髄腫（MM）の治療は免疫療法により革新され、免疫系の標的活性化を通じて持続的な臨床反応が得られている。しかし免疫逃避、抗原喪失、T細胞疲弊、免疫抑制性骨髄微小環境により再発は依然多く、治療革新の継続が必要である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Mutation-associated cGAS-STING signaling and the co-evolution of the tumor immune microenvironment in DNA damage repair-deficient tumors: from spatial architecture to bedside translation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42998370/",
+        "abstract": "DNA damage repair (DDR) deficiency is common in solid tumors, and its biological consequences extend beyond genome maintenance. Defects in homologous recombination, mismatch repair, replication stress responses, or checkpoint signaling can drive mutational accumulation, chromosomal instability, micronuclei formation, and cytosolic DNA exposure. These alterations shape antitumor immunity through two interconnected routes: neoantigen generation that enhances T-cell recognition and cytosolic DNA sensing that activates the cyclic GMP-AMP synthase-stimulator of interferon genes (cGAS-STING) pathway. This review synthesizes how mutation-associated cGAS-STING signaling links DDR deficiency to remodeling of the tumor immune microenvironment (TIME). Cytosolic DNA activates the cGAS-STING-TBK1-IRF3/NF-κB axis, inducing type I interferons, inflammatory mediators, and chemokines such as CXCL9 and CXCL10. In favorable contexts, this response promotes dendritic cell maturation, antigen presentation, CD8+ T-cell recruitment, natural killer cell activation, and an inflamed TIME. Conversely, persistent, excessive, or spatially dysregulated activation may drive PD-L1 upregulation, suppressive myeloid recruitment, immune exclusion, and therapeutic resistance. We further frame DDR deficiency and TIME remodeling as a reciprocal co-evolutionary process. Genomic instability can increase tumor immune visibility, whereas immune pressure may select clones with defective antigen presentation, attenuated interferon or STING signaling, or increased checkpoint expression. The spatial organization of DDR-deficient clones, STING-active niches, stromal barriers, and immune cells may ultimately determine whether antitumor immunity is executed or restrained. This spatially informed framework may support integrated biomarker development and rational combinations of DDR-targeted therapies, STING agonists, and immune checkpoint blockade.",
+        "source": "PubMed",
+        "doi": "10.1016/j.seminoncol.2026.152569",
+        "keyword": "NK cell therapy",
+        "title_ja": "DNA損傷修復欠損腫瘍における変異関連cGAS-STINGシグナル伝達と腫瘍免疫微小環境の共進化：空間構造からベッドサイド翻訳まで",
+        "summary_ja": "DDR欠損は固形腫瘍で頻発し、相同組換え・ミスマッチ修復・複製ストレス応答・チェックポイント異常が変異蓄積、染色体不安定性、微小核形成、細胞質DNA露出を招く。これらはネオアンチゲン生成とcGAS-STING経路活性化の二経路で抗腫瘍免疫を形成する。細胞質DNAはcGAS-STING-TBK1-IRF3/NF-κB軸を活性化し、I型インターフェロンやCXCL9/10等を誘導、樹状細胞成熟、抗原提示、CD8+T細胞動員、NK細胞活性化を促す一方、持続的・過剰・空間的失调な活性化はPD-L1上昇、抑制性骨髄細胞動員、免疫排除、治療抵抗性を招く。DDR欠損とTIME再構築は相互共進化過程であり、ゲノム不安定性は免疫可視性を高めるが、免疫圧は抗原提示欠損やSTING減弱、チェックポイント発現亢進クローンを選択する。DDR欠損クローン、STING活性ニッチ、間質障壁、免疫細胞の空間的組織化が抗腫瘍免"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Molecular mechanisms and biomarkers in glioma: recent advances and future perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43026396/",
+        "abstract": "Gliomas are the most common primary tumors of the central nervous system, with high heterogeneity and aggressiveness. Recent advances have elucidated key molecular mechanisms in glioma pathogenesis, including dysregulation of the RTK/RAS/PI3K, p53, and RB pathways, alongside significant epigenetic alterations like IDH mutations and MGMT promoter methylation in tumorigenesis. In addition, biomarkers including 1p/19q codeletion and TERT promoter mutations have been incorporated into clinical trials to guide prognostic assessment and treatment decisions. IDH mutation status has additionally emerged as a predictive biomarker with direct therapeutic consequences, exemplified by the regulatory approval of vorasidenib for IDH-mutant grade 2 glioma. Furthermore, non-invasive liquid biopsy techniques, such as analysis of cerebrospinal fluid (CSF)-derived circulating tumor DNA and exosomes, have emerged as promising tools for dynamic surveillance and early tumor detection. This review summarizes the progress of research into the molecular mechanisms of glioma, discusses potential diagnostic and therapeutic biomarkers, and looks ahead to future research directions.",
+        "source": "PubMed",
+        "doi": "10.1007/s10143-026-04569-3",
+        "keyword": "Exosomes",
+        "title_ja": "神経膠腫における分子メカニズムとバイオマーカー：最近の進歩と今後の展望",
+        "summary_ja": "グリオーマは中枢神経系で最も一般的な原発性腫瘍で、高い異質性と攻撃性を示す。近年、RTK/RAS/PI3K、p53、RB経路の調節異常や、IDH変異、MGMTプロモーターのメチル化といったエピジェネティック変化など、発症の鍵となる分子メカニズムが解明された。1p/19q共欠失やTERTプロモーター変異などのバイオマーカーは臨床試験に組み込まれ、予後評価や治療方針の決定に活用されている。IDH変異は治療に直結する予測バイオマーカーとなり、IDH変異型グレード2グリオーマに対するvorasidenibの承認がその例である。さらに、脳脊髄液由来の循環腫瘍DNAやエクソソーム解析などの非侵襲的リキッドバイオプシーが、動的モニタリングや早期発見の有望な手段として注目されている。本レビューはグリオーマの分子メカニズム研究の進展を要約し、診断・治療バイオマーカーの可能性と今後の研究方向性を論じる。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Seminal extracellular vesicles improve cryosurvival and fertility potential of kundhi buffalo sperm.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42914668/",
+        "abstract": "Buffaloes are important contributors to agricultural production in many developing countries, yet poor semen cryosurvival remains a major challenge for efficient artificial insemination and genetic improvement. In recent years, small extracellular vesicles (sEVs) have emerged as important mediators of intercellular communication and reproductive function; however, their potential as supplements for improving buffalo semen cryosurvival remains poorly understood. Therefore, this study evaluated the influence of adding a seminal plasma-derived small extracellular vesicle-enriched preparation to a Tris extender using post-thaw sperm traits, oxidative status, DNA integrity, HSP70 and PRM1 transcript abundance, and fertility of Kundhi buffalo bull semen. Seminal plasma-derived particles were isolated and characterized by nanoparticle tracking analysis, showing a mean diameter of 117.8 ± 2.47 nm, modal diameter of 89.4 ± 1.41 nm, and concentration of (3.21 ± 0.05) × 10",
+        "source": "PubMed",
+        "doi": "10.1016/j.theriogenology.2026.118278",
+        "keyword": "sEVs",
+        "title_ja": "精漿由来の細胞外小胞はクンディ水牛精子の凍結生存性と受精能を改善する。",
+        "summary_ja": "クンダイ水牛の精液凍結保存性向上を目的に、精漿由来small extracellular vesicles（sEVs）添加の影響を検討した。精漿粒子は平均径117.8±2.47nm、最頻径89.4±1.41nm、濃度(3.21±0.05)×10⁹/mLであった。Tris希釈液にsEVs濃縮画分を添加し、凍結融解後の精子性状、酸化状態、DNA完全性、HSP70・PRM1転写産物量、受精能を評価した。sEVs添加により凍結融解後の精子生存性と受精能が改善され、水牛人工授精効率化への有用性が示唆された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **多発性骨髄腫の免疫療法**：免疫標的活性化で持続的反応が得られる一方、免疫逃避・抗原喪失・T細胞疲弊・骨髄微小環境による再発が課題。耐性克服の併用戦略が今後の鍵。\n\n2. **DDR欠損腫瘍のcGAS-STINGシグナル**：DNA損傷修復異常が微小核形成・細胞質DNA露出を招き、ネオアンチゲンとcGAS-STINGの二経路で抗腫瘍免疫を活性化。空間解析から臨床応用への展開が期待される。\n\n3. **グリオーマの分子機構とバイオマーカー**：RTK/RAS/PI3K、p53、RB経路の異常やIDH変異、MGMTメチル化が鍵。異質性の高い腫瘍に対し分子分類に基づく個別化治療の進展が望まれる。\n\n4. **精漿由来sEVsによる精子凍結保存改善**：クンダイ水牛で精漿sEVs添加が凍結生存性と受精能を向上。家畜繁殖効率改善への応用が期待され、EVsの機能解明が今後の焦点。\n\n5. **sEVs・エクソソーム研究の広がり**：上記sEVs研究に代表されるように、EVsは生殖医学からがん免疫まで応用が拡大。KlothoやPF4、NK細胞療法との連携による診断・治療基盤の統合が展望される。"
+}

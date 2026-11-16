@@ -1,0 +1,116 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Disarming oxidized lipids: AAV-delivered antibody neutralization as an emerging strategy against ALS.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43034702/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.omta.2026.201879",
+        "keyword": "Klotho",
+        "title_ja": "酸化脂質の武装解除：ALSに対する新興戦略としてのAAV送達抗体による中和",
+        "summary_ja": "本論文は、ALS（筋萎縮性側索硬化症）に対する新規治療戦略として、AAV（アデノ随伴ウイルス）ベクターを用いて酸化脂質を中和する抗体を送達するアプローチを提唱している。酸化脂質は神経変性を促進する要因とされ、これを抗体で中和することで病態進行の抑制が期待される。AAVによる持続的な抗体発現は、従来の抗体医薬が抱える血液脳関門通過や投与頻度の問題を克服し得る点で注目される。本戦略はALS治療における新たな可能性を示すものである。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Anti‐PF4 disorders: Pathogenesis, diagnosis and treatment",
+        "url": "https://www.semanticscholar.org/paper/f4faa2f2988ed7eb4a815981f63115bfd1719df2",
+        "abstract": "Platelet factor 4 (PF4) is a cationic protein, able to form complexes with negatively charged molecules upon its self‐assembly into PF4 tetramers. The targeting of these PF4 complexes by immunoglobulin G (IgG) antibodies underlies anti‐PF4 disorders such as heparin‐induced thrombocytopenia (HIT) and Vaccine‐Induced Immune Thrombocytopenia and Thrombosis (VITT)/VITT‐like disorders. The formation of IgG/PF4 immune complexes facilitates uncontrolled activation of platelets, neutrophils and monocytes, via IgG‐mediated Fcγ receptor binding. This promotes the thrombocytopenia and thrombosis characteristic of anti‐PF4 disorders. HIT is predominantly triggered by heparin exposure. VITT is a recently recognised anti‐PF4 disorder, which developed following specific SARS‐CoV‐2 vaccinations. It is thought that hexon proteins, components of adenoviral vectors, may form complexes with PF4 to trigger anti‐PF4 antibody production in VITT. A novel anti‐PF4 disorder has been recognised causing platelet activation without the administration of heparin or SARS‐CoV‐2 vaccination and referred to as ‘VITT‐like disorder.’ Clinical evaluation of HIT and VITT/VITT‐like disorders is based on thrombotic events, platelet counts and D‐dimer levels. Laboratory assays such as heparin/PF4‐induced platelet activation assays can be used to distinguish between HIT and VITT. Treatment plans for HIT and VITT may differ across patient groups. In this review, we discuss the pathogenesis, diagnosis and management of anti‐PF4 disorders.",
+        "source": "SemanticScholar",
+        "doi": "10.1111/bjh.20216",
+        "keyword": "PF4",
+        "title_ja": "抗PF4疾病：发病机制、诊断与治疗",
+        "summary_ja": "血小板第4因子（PF4）は陽イオン性蛋白で、四量体形成により陰性荷電分子と複合体を作る。このPF4複合体をIgG抗体が標的とすることが、ヘパリン誘発性血小板減少症（HIT）やワクチン誘発性免疫性血小板減少症・血栓症（VITT）等の抗PF4疾患の基盤となる。IgG/PF4免疫複合体はFcγ受容体結合を介し血小板・好中球・単球を活性化し、血小板減少と血栓症を惹起する。HITは主にヘパリン曝露で誘発され、VITTはSARS-CoV-2ワクチン接種後に発症し、アデノウイルスベクターのhexon蛋白がPF4と複合体を形成し抗体産生を促すと考えられる。ヘパリンやワクチン非関連の「VITT様疾患」も認識されている。診断は血栓事象・血小板数・D-ダイマーに基づき、ヘパリン/PF4誘発血小板活性化アッセイでHITとVITTを鑑別する。治療は患者群で異なる。本総説は抗PF4疾患の病態・診断・管理を論じる。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "MRI-defined necrosis morphology, circulating immune profiles and survival in glioblastoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43034977/",
+        "abstract": "Necrosis is a defining feature and an active hypoxic niche implicated in immune escape and treatment resistance in glioblastoma (GBM). We asked whether MRI-defined necrosis morphology is associated with circulating immune profiles and overall survival (OS).",
+        "source": "PubMed",
+        "doi": "10.1007/s11060-026-05872-1",
+        "keyword": "NK cell therapy",
+        "title_ja": "MRIで定義された壊死形態、循環免疫プロファイル、および膠芽腫の生存",
+        "summary_ja": "MRIで定義される壊死形態が膠芽腫（GBM）の循環免疫プロファイルおよび全生存期間（OS）と関連するかを検討した。壊死はGBMの特徴であり、免疫逃避や治療抵抗性に関与する低酸素ニッチである。MRI上の壊死形態と血中免疫プロファイル、OSの関連を解析した研究である。"
+      },
+      {
+        "title": "Timing-dependent dasatinib priming attenuates MHC class I-mediated inhibition of NK cells and CAR-NK cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43033140/",
+        "abstract": "Natural killer (NK) cells are promising candidates for adoptive immunotherapy, but their ",
+        "source": "PubMed",
+        "doi": "10.1080/2162402X.2026.2762243",
+        "keyword": "NK cell therapy",
+        "title_ja": "タイミング依存的なダサチニブのプライミングはMHCクラスIを介したNK細胞およびCAR-NK細胞の抑制を減弱させる。",
+        "summary_ja": "ダサチニブの前処理タイミングがNK細胞およびCAR-NK細胞の機能に与える影響を検討した研究。NK細胞は養子免疫療法の有望な候補だが、MHCクラスIを介した抑制性シグナルが障害となる。本研究では、ダサチニブの前処理タイミングを最適化することで、MHCクラスI媒介性のNK細胞抑制が減弱することを示した。タイミング依存的プライミングがNK細胞およびCAR-NK細胞の抗腫瘍活性を向上させる可能性を示唆する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Co-conditioning and parallel cell homing-driven pre-metastatic niche engineering: TGF-β-fuelled 3D microphysiological model for epithelial-mesenchymal transition in breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43034390/",
+        "abstract": "Bone marrow mesenchymal stem cells, also known as BMSCs, have been demonstrated to promote epithelial-to-mesenchymal transition (EMT) in triple-negative breast cancer (TNBC) cells, which contributes to the invasive and metastatic features of these cells. To be more specific, exosomes generated from bone marrow-derived mesenchymal stem cells (BMSC) that include microRNAs like miR-210-3p have the ability to activate the Wnt/β-catenin pathway, which further promotes the advancement of TNBC. Factors like as TGF-β and HGF are included in the BMSC secretome, which is a collection of chemicals that are released. These factors have the potential to contribute to extracellular matrix (ECM) and other aggressive behaviours like TNBC. Variable 2D and 3D models have been explored over the years to generate stable phenotyping characteristics of EMT in triple-negative breast cancer. Within the scope of this review, we have provided an in-depth analysis of the pathophysiology of EMT in breast cancer, as well as the varied crosstalk that occurs between distinct signalling pathways. A variety of in vivo and patient-derived xenograft models have been reviewed, along with their respective applications and possible limitations. This article provides a comprehensive discussion on the several cutting-edge 3D microphysiological disease models (Organoid, Spheroid, and Organ-on-Chip) that facilitate the replication of the pathophysiology of EMT in breast cancer. We have critically discussed our experimental observation on BMSC mediated co-conditioning and parallel cell homing with MDA-MB-231 to induce stable EMT. It will act as a marker pathway for medication targeting, treatments, and emphasis on drug resistance as a 3D in vitro microphysiological disease model.",
+        "source": "PubMed",
+        "doi": "10.1007/s44164-026-00119-9",
+        "keyword": "Exosomes",
+        "title_ja": "共 conditioning 与平行细胞归巢驱动的转移前生态位工程：TGF-β驱动的三维微生理模型用于乳腺癌上皮-间质转化。",
+        "summary_ja": "本論文は、骨髄間葉系幹細胞（BMSC）がトリプルネガティブ乳癌（TNBC）細胞の上皮間葉転換（EMT）を促進し、浸潤・転移を助長する機序を概説する。BMSC由来エクソソームのmiR-210-3pがWnt/β-catenin経路を活性化し、TGF-βやHGFを含む分泌因子がECMリモデリング等の悪性形質に寄与する。従来の2D/3Dモデルやin vivo・PDXモデルの応用と限界を整理し、Organoid、Spheroid、Organ-on-Chipといった3Dマイクロ生理学的疾患モデルによるEMT病態再現を議論する。さらにBMSCとの共培養とMDA-MB-231の並行セルホーミングによる安定EMT誘導の実験的知見を批判的に検討し、薬剤標的・治療・薬剤耐性研究の指標経路としての有用性を示す。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Decoding the implicit paradigm of exosome targeting blood brain barrier in neurodegenerative diseases: Molecular insight and therapeutic perspective.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43034360/",
+        "abstract": "Exosome physiology in the progression of neurodegenerative diseases is intricately tangled with various protein aggregations, including tau protein, α-synuclein, and amyloid-β protein. Exosomes facilitate therapeutic and prognostic avenues through cell-to-cell crosstalk mechanisms, drug delivery, and biomarker isolation strategies in neurodegenerative disease management. The significant implications of molecular insights into neurofibrillary tangles and synaptic dysfunction have been extensively explored through microRNA (miRNA) regulation. The therapeutic potential of exosomes as nano-cargo systems is significant in nervous tissue regeneration and the treatment of neuronal lesions. Advancements in exosome engineering, including genetic modifications, have expanded their capacity to transport RNA molecules, proteins, and novel gene-editing tools such as CRISPR/Cas9, thereby enabling neuroprotective treatment protocols. Integration with immunotherapeutic approaches further highlights exosomes as promising components of combined strategies with important clinical outcomes.",
+        "source": "PubMed",
+        "doi": "10.1007/s44164-026-00111-3",
+        "keyword": "Exosomes",
+        "title_ja": "神経変性疾患におけるエクソソームの血液脳関門標的化の暗黙のパラダイムを解読する：分子的洞察と治療的展望",
+        "summary_ja": "神経変性疾患におけるエクソソーム生理学は、タウタンパク質、α-シヌクレイン、アミロイドβタンパク質などの凝集体と複雑に絡み合っている。エクソソームは細胞間クロストーク機構、薬物送達、バイオマーカー単離戦略を通じて治療・予後の道筋を促進する。神経原線維変化やシナプス機能障害への分子的洞察は、microRNA（miRNA）制御を通じて広く探究されている。ナノカーゴシステムとしてのエクソソームの治療可能性は、神経組織再生や神経病変治療において重要である。遺伝子改変を含むエクソソーム工学の進歩により、RNA分子、タンパク質、CRISPR/Cas9などの新規ゲノム編集ツールの輸送能力が拡大し、神経保護治療プロトコルが可能となった。免疫療法との統合は、重要な臨床転帰を伴う併用戦略の有望な構成要素としてエクソソームをさらに際立たせている。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の注目5トピック：\n\n1. **ALSへのAAV抗体送達**：酸化脂質中和抗体をAAVで送達する新戦略。酸化脂質は神経変性促進因子で、中和により病態進行抑制が期待される。遺伝子治療と免疫療法の融合として今後の展開が注目される。\n\n2. **抗PF4疾患の病態解明**：PF4複合体をIgGが標的とするHIT・VITT等の機序・診断・治療を整理。血栓症リスク管理の基盤として重要。\n\n3. **膠芽腫のMRI壊死形態と免疫プロファイル**：壊死形態が循環免疫・生存期間と関連。低酸素ニッチの免疫逃避理解と予後予測バイオマーカー化に寄与。\n\n4. **ダサチニブ前処理とNK/CAR-NK細胞**：至適タイミングでMHCクラスI介在性抑制を軽減しNK機能を増強。養子免疫療法の効果改善に直結する知見。\n\n5. **エクソソームのBBB標的化**：神経変性疾患における凝集体連関と薬物送達・バイオマーカー応用を解説。治療・予後戦略の新機軸として期待される。"
+}

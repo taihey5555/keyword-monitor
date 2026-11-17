@@ -1,0 +1,109 @@
+{
+  "A": {
+    "医学": [
+      {
+        "title": "Core Strategies and Application Prospects of Engineered Exosomes in the Repair of Spinal Cord Injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43037814/",
+        "abstract": "Spinal cord injury represents a form of central nervous system trauma characterized by significant pathological complexity and a high potential for disability. Following such injury, a complex pathological microenvironment emerges, encompassing neuroinflammation, oxidative stress, glial scar formation, and impaired axonal regeneration. This environment hampers the efficacy of current clinical treatment approaches, including surgical decompression and corticosteroid pulse therapy, thereby complicating the recovery of neurological function. Exosomes serve not only as crucial mediators of intercellular communication but also as natural nanocarriers. They exhibit high biocompatibility, low immunogenicity, and the capacity to traverse the blood-spinal cord barrier, indicating their potential for nerve repair. Nevertheless, the inadequate targeting of natural exosomes, the limited effectiveness of their cargo, and their low homogeneity have hindered their clinical translation. Consequently, engineering modifications to exosomes are necessary to address these inherent limitations. Engineered exosomes can potentially enhance the efficiency and accuracy of targeted delivery through two core strategies: vesicle-directed engineering and cell-directed engineering. This paper reviews the biological characteristics and therapeutic potential of exosomes, sorts out in detail the two core transformation strategies of engineered exosomes, their mechanisms and application progress in spinal cord injury repair, and analyzes the existing challenges and prospects for future clinical translation, providing a theoretical basis for the treatment of spinal cord injury by engineered exosomes.",
+        "source": "PubMed",
+        "doi": "10.1007/s12035-026-06337-2",
+        "keyword": "Exosomes",
+        "matched_keywords": [
+          "Exosomes",
+          "sEVs"
+        ],
+        "title_ja": "工程化外泌体修复脊髓损伤的核心策略与应用前景",
+        "summary_ja": "脊髄損傷は病理学的複雑性と高い障害リスクを特徴とする中枢神経系外傷である。損傷後には神経炎症、酸化ストレス、グリア瘢痕形成、軸索再生障害を含む複雑な病理学的微小環境が生じ、手術的減圧やコルチコステロイドパルス療法などの既存治療の有効性を妨げる。エクソソームは細胞間通信の媒介者かつ天然ナノキャリアであり、高い生体適合性、低免疫原性、血液脊髄関門通過能を示す。しかし天然エクソソームの標的指向性不足、積荷の有効性限界、低均一性が臨床応用を妨げる。これを解決するため、小胞指向工学と細胞指向工学という2つの核心戦略による工学修飾が標的送達の効率と精度を高めうる。本論文はエクソソームの生物学的特性と治療可能性を概説し、工学的エクソソームの変換戦略、機序、脊髄損傷修復への応用進展を整理し、課題と将来展望を分析する。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Killer lifestyle: natural killer cells, obesity, and HIV/simian immunodeficiency virus infections.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43038066/",
+        "abstract": "The success of antiretroviral therapy (ART) that transformed HIV infection in a chronic clinical condition, and reversed the typical failure to thrive characteristic for HIV disease progression to weight gains, resulted in new challenges for the clinical management of the persons living with HIV (PLWH). Prolonged survival also dramatically increased the average age of PLWH, and the frequency of comorbidities associated with HIV. Most of these clinical challenges stem from the persistent inflammation and accelerated aging characteristic to PLWH, which are also associated with obesity.",
+        "source": "PubMed",
+        "doi": "10.1097/COH.0000000000001092",
+        "keyword": "NK cell therapy",
+        "title_ja": "キラーな生活習慣：ナチュラルキラー細胞、肥満、およびHIV/サル免疫不全ウイルス感染",
+        "summary_ja": "抗レトロウイルス療法（ART）の成功によりHIV感染は慢性疾患化し、体重増加が新たな課題となった。PLWHの平均年齢とHIV関連合併症の頻度が増加し、持続性炎症と加速老化が臨床課題の中心となっている。これらは肥満とも関連する。本論文は肥満とHIV/SIV感染におけるナチュラルキラー細胞の役割を論じる。"
+      },
+      {
+        "title": "Identification of IFI44L as a potential immune-associated molecule and theoretical CAR-T target for systemic lupus erythematosus: a cross-platform bioinformatic analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43037860/",
+        "abstract": "Systemic lupus erythematosus (SLE) is a highly heterogeneous autoimmune disorder characterized by disrupted immune homeostasis, persistent chronic inflammation, and progressive multi-organ injury, accompanied by frequent disease flares and marked interindividual clinical heterogeneity. At present, specific molecular biomarkers for precise evaluation of immune dysregulation and guidance for individualized targeted therapy for SLE remain scarce.",
+        "source": "PubMed",
+        "doi": "10.1007/s10067-026-08517-w",
+        "keyword": "NK cell therapy",
+        "title_ja": "IFI44Lの同定：全身性エリテマトーデスにおける潜在的免疫関連分子および理論的CAR-T標的としての可能性：クロスプラットフォームバイオインフォマティクス解析",
+        "summary_ja": "SLEは免疫恒常性の破綻、慢性炎症、多臓器障害を特徴とする異質性の高い自己免疫疾患だが、免疫異常の精密評価や個別化標的治療に資する分子バイオマーカーは乏しい。本研究はクロスプラットフォームのバイオインフォマティクス解析により、IFI44LをSLEの潜在的免疫関連分子および理論上のCAR-T標的として同定した。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "4T1-derived exosomes downregulate NKG2D expression on NKp46",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43036384/",
+        "abstract": "Tumor-derived exosomes can reshape anti-tumor immunity within the tumor microenvironment (TME), but their effects on the expression of NKG2D remain poorly defined. Here, we examined how exosomes from the 4T1 murine breast cancer cell line (Texosomes) affect NKp46",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbrep.2026.102874",
+        "keyword": "Exosomes",
+        "title_ja": "4T1由来エクソソームはNKp46上のNKG2D発現を下方制御する",
+        "summary_ja": "4T1マウス乳がん細胞株由来エクソソーム（Texosome）がNKp46陽性細胞上のNKG2D発現に与える影響を検討した。腫瘍由来エクソソームは腫瘍微小環境（TME）における抗腫瘍免疫を再構築しうるが、NKG2D発現への影響は不明であった。本研究により、TexosomeがNKp46陽性細胞上のNKG2D発現を低下させることが示された。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Astrocyte-derived small extracellular vesicles deliver Serpina3k to attenuate cerebral ischemia-reperfusion injury by restraining neuroinflammation and neuronal apoptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43037519/",
+        "abstract": "To determine whether astrocyte-derived small extracellular vesicles (sEVs) deliver Serpina3k to recipient neural cells and protect against cerebral ischemia-reperfusion injury (CIRI).",
+        "source": "PubMed",
+        "doi": "10.1080/00207454.2026.2764761",
+        "keyword": "sEVs",
+        "title_ja": "アストロサイト由来の小型細胞外小胞はSerpina3kを運搬し、神経炎症と神経細胞アポトーシスを抑制することで脳虚血再灌流障害を軽減する。",
+        "summary_ja": "アストロサイト由来small extracellular vesicles（sEVs）がSerpina3kを標的神経細胞へ輸送し、脳虚血再灌流障害（CIRI）を保護するかを検討した研究。アストロサイト由来sEVsがSerpina3kを運搬し、神経炎症の抑制と神経細胞アポトーシスの抑制を介してCIRIを軽減する可能性を示した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の注目5トピック：(1)脊髄損傷修復への工学化エクソソーム応用。神経炎症・グリア瘢痕など複雑な病理微小環境に対し、改変エクソソームは多面的治療の新機軸となり得る。(2)HIV感染者の肥満とNK細胞。ART普及で慢性化・老化が課題となる中、肥満がNK細胞機能を介し免疫老化を加速する可能性が重要。(3)SLEにおけるIFI44LのCAR-T標的候補としての同定。バイオインフォマティクス解析により個別化免疫治療の分子基盤を提示。(4)4T1由来エクソソームによるNKG2D発現低下。腫瘍由来エクソソームがNK細胞監視機構を回避する機序解明は免疫療法抵抗性の克服に寄与。(5)アストロサイト由来sEVsによるSerpina3k輸送。脳虚血再灌流障害で神経炎症・アポトーシスを抑制する新規治療戦略。今後、エクソソーム/sEVsの臨床応用とNK細胞・CAR-T標的の精密化が展望される。"
+}

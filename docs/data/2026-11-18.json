@@ -1,0 +1,147 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Holistic neuroimaging compression to improve clinical predictivity of post-stroke mood symptoms at 6 months.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43043500/",
+        "abstract": "Post-stroke mood impairments are frequent yet difficult to predict using neuroimaging markers. While voxel-level analyses have struggled to identify reliable predictors, network-level approaches may offer greater sensitivity. Accordingly, we developed a pipeline to predict post-stroke mood status using whole-brain components derived from MRI sequences routinely acquired in clinical practice. Three heterogeneous stroke cohorts (n",
+        "source": "PubMed",
+        "doi": "10.1007/s00429-026-03222-5",
+        "keyword": "PF4",
+        "title_ja": "脳卒中後6か月時点の気分症状の臨床的予測性を向上させるためのホリスティックな神経画像圧縮",
+        "summary_ja": "本論文は、脳卒中後6ヶ月時点の気分障害予測における新たな神経画像圧縮パイプラインを提案する。脳卒中後の気分障害は頻繁に生じるが、voxel-level解析では信頼性の高い予測因子の同定が困難であった。そこで著者らは、臨床現場で日常的に取得されるMRIシーケンスから導出した全脳コンポーネントを用い、ネットワークレベルアプローチによる予測パイプラインを開発した。3つの異種脳卒中コホート（n…）を用いて検証を行い、ネットワークレベルの手法がvoxel-level解析より高い感度を示す可能性を報告している。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Unsupervised Multi-modal Medical Image Registration via Invertible Translation",
+        "url": "http://arxiv.org/abs/2611.22152v1",
+        "abstract": "In medical imaging, the alignment of multi-modal images plays a critical role in providing comprehensive information for image-guided therapies. Despite its importance, multi-modal image registration poses significant challenges due to the complex and often unknown spatial relationships between different image modalities. To address this, we introduce a novel unsupervised translation-based multi-modal registration method, termed Invertible Neural Network-based Registration (INNReg). INNReg consists of an image-to-image translation network that converts multi-modal images into mono-modal counterparts and a registration network that uses the translated mono-modal images to align the multi-modal images. Specifically, to ensure the preservation of geometric consistency after image translation, we introduce an Invertible Neural Network (INN) that leverages a dynamic depthwise convolution-based local attention mechanism. Additionally, we design a novel barrier loss function based on Normalized Mutual Information to impose constraints on the registration network, which enhances the registration accuracy. The superior performance of INNReg is demonstrated through experiments on two public multi-modal medical image datasets, including MRI T1/T2 and MRI/CT pairs. The code is available at https://github.com/MeggieGuo/INNReg",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "インバーティブル変換による教師なしマルチモーダル医用画像レジストレーション",
+        "summary_ja": "医療画像においてマルチモーダル画像の位置合わせは画像誘導治療に包括的情報を提供する上で重要だが、異なるモダリティ間の複雑で未知の空間関係のため困難である。本研究では教師なし翻訳ベースのマルチモーダル位置合わせ法INNRegを提案する。INNRegはマルチモーダル画像をモノモーダル画像へ変換する画像間翻訳ネットワークと、翻訳されたモノモーダル画像を用いてマルチモーダル画像を位置合わせする位置合わせネットワークから成る。翻訳後の幾何学的整合性を保つため、動的depthwise convolutionベースの局所注意機構を活用したInvertible Neural Network（INN）を導入する。さらにNormalized Mutual Informationに基づく新規barrier損失関数を設計し位置合わせネットワークを制約することで精度を向上させる。MRI T1/T2およびMRI/CT"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Constitutive-fibre mechanics: mechanics-directed uncertainty in constitutive function space",
+        "url": "http://arxiv.org/abs/2611.22187v1",
+        "abstract": "A structural prediction rests on constitutive functions that are known only through a finite number of tests. The tests fix the response along the states they visit; together with a declared regularity bound they leave a set of admissible constitutive functions, which we call the constitutive fibre. Constitutive-fibre mechanics (CFM) computes the range of a quantity of interest over this set. Adjoint solves of the mechanical problem represent the test observations and the quantity of interest as elements of the constitutive function space. The part of the sensitivity of the quantity of interest that is orthogonal to all observation sensitivities is hidden from the tests; for exact data it alone determines the half-width of the prediction, and for data with tolerance the half-width is a finite convex problem in the span of the adjoint representers. Comparing the two values shows whether a new type of test or a more precise test is needed, and a rank-one update ranks candidate tests before they are performed. A learned constitutive class can only under-represent the range; the deficit is computable. Beyond the linear range, an optimality system with state-dependent representers gives the extreme constitutive functions. The same set decides whether the prediction is defined for every admissible constitutive function, which is a different question from its precision. For a phase-field bar with unknown degradation function, 3% of the sensitivity of the stability eigenvalue is hidden and produces 70% of its uncertainty. For an open-hole composite lamina, the coupon that sharpens the compliance most is not the one that makes the prediction valid; validity is proved on a declared cell by a certificate accepted in exact arithmetic.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "構成繊維力学：構成関数空間における力学指向型不確実性",
+        "summary_ja": "構造予測は有限回の試験でしか既知でない構成関数に依存する。試験は訪問状態での応答を固定し、宣言された正則性境界と共に許容構成関数の集合「構成ファイバー」を定める。構成ファイバー力学（CFM）はこの集合上で関心量の範囲を計算する。随伴解法により試験観測と関心量を構成関数空間の要素として表現する。関心量の感度のうち全観測感度に直交する部分は試験から隠れ、厳密データではこれのみが予測半幅を決定し、許容誤差データでは半幅は随伴表現子の張る空間上の有限凸問題となる。両値の比較で新種試験か高精度試験かの必要性を判定でき、ランク1更新で候補試験を事前順位付けする。学習構成クラスは範囲を過小表現し得るが欠損は計算可能。線形範囲外では状態依存表現子を持つ最適性系が極値構成関数を与える。同一集合は予測が全許容構成関数で定義されるかも決め、精度とは別問題である。未知劣化関数を持つ相場バーでは安定性固有値感度の3"
+      },
+      {
+        "title": "AI Agents Executing an RMS and EMT Ride-Through Workflow on a 2,000-Bus Synthetic Texas Grid: A Case Study with Open-Source Tools",
+        "url": "http://arxiv.org/abs/2611.22167v1",
+        "abstract": "This paper reports a case study of engineer-supervised AI agents executing a predefined RMS and EMT ride-through workflow on the 2,000-bus ACTIVSg2000 synthetic Texas grid with open-source tools. The test case is a 133 MW battery with a co-located 130 MW data-center load, assessed against ride-through criteria fixed before simulation and for loss of synchronism elsewhere in the grid. One agent ran 44 RMS cases and 15 without-project comparisons in ANDES; the other ran a 220-row EMT intake bench and an 84-row system study in DPsim and ParaEMT on a Kron-reduced area. Across the 44 RMS cases, 127 criterion cells fail, including loss of synchronism in all 44. Two findings concern the project plant. The battery keeps absorbing reactive power during sags on the light-load schedule (B3, as low as -19.8 Mvar on S4 T1), and the data-center load returns only at 5.00-5.56 s after long bolted faults (L3), which misses the ERCOT load-return requirement. In 13 of the 15 comparisons, which the authors selected after slips or speed-gate stops, the same machines slip without the project; the other 29 runs have no without-project comparison. RMS and EMT values differ in network, plant model, controls, operating point, and base, and so they are reported as separate, unaligned observations. The paper reports the errors the authors identified in the agent logs, 63 author messages, and 3.8 days from agent start to the integrated study report. The agents executed and documented the predefined ride-through and stability workflow, which covers one part of an interconnection study.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "AIエージェントによる2,000バスの合成テキサス電力網上でのRMSおよびEMTライドスルーワークフローの実行：オープンソースツールを用いたケーススタディ",
+        "summary_ja": "本論文は、オープンソースツールを用い、2,000バスのACTIVSg2000合成テキサスグリッド上で、エンジニア監督下のAIエージェントが事前定義されたRMSおよびEMTライドスルーワークフローを実行したケーススタディである。133MW電池と併設130MWデータセンター負荷を、シミュレーション前に固定したライドスルー基準と系統他箇所の脱調について評価した。一方のエージェントはANDESで44件のRMSケースと15件の比較を実行し、他方はDPsimとParaEMTでKron縮約領域のEMTベンチと系統研究を実行した。44件全てで脱調を含む127の基準セルが不合格となった。電池は軽負荷スケジュールで電圧低下中も無効電力を吸収し続け、データセンター負荷は長いボルト故障後5.00〜5.56秒でしか復帰せずERCOT要件を満たさない。RMSとEMTはモデル等が異なるため別個の非整合観測として報告され"
+      },
+      {
+        "title": "Learning Similarity-Reduced Ion Kinetics across Scales and Regimes in Capacitively Coupled Plasmas",
+        "url": "http://arxiv.org/abs/2611.22165v1",
+        "abstract": "Systematic kinetic investigations of discharge-mode and heating-mechanism transitions in low-pressure capacitively coupled plasmas (CCPs) are computationally expensive because particle-in-cell/Monte Carlo collision (PIC/MCC) simulations must resolve the inherently slow ion relaxation.In this Letter, we propose a similarity-reduced ion-kinetic representation and a machine learning (ML) reconstruction method for weakly ionized Boltzmann-Poisson discharge systems.Using discharge similarity, the three-dimensional control parameter space, comprising gas pressure p, gap distance d, and driving frequency f, is reduced into a two-dimensional similarity space (pd, fd).A dual-branch ML model predicts the ion density profile at the reference scale and the conditional ion velocity distribution.Taking a 1D3V argon discharge as the paradigm, we use the reconstructed ion kinetic state to initialize the PIC/MCC simulation, which then relaxes to a self-consistent periodic steady state after only a brief evolution.Compared to conventional uniform initializations, this approach achieves a maximum computational speedup of 56.8 times and a median speedup of 27.7 times.Furthermore, the physical regimes of complex nonlinear discharge transitions, including the alpha--gamma mode transition, local-to-nonlocal electron collisional heating mode transition and low-density jumps, are accurately mapped within the similarity space.Similarity transformations extend these boundaries across scales, opening a new avenue for rapid kinetic characterization and optimization of radio-frequency plasma sources.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "容量結合プラズマにおけるスケールと領域を超えた類似性低減イオン動力学の学習",
+        "summary_ja": "低圧容量結合プラズマ（CCP）における放電モード・加熱機構遷移の系統的運動論的調査は、PIC/MCCシミュレーションが本質的に遅いイオン緩和を解像する必要があるため計算コストが高い。本論文では、弱電離Boltzmann-Poisson放電系に対する相似縮約イオン運動論表現と機械学習（ML）再構成法を提案する。放電相似性を用いて、ガス圧力p、ギャップ距離d、駆動周波数fからなる3次元制御パラメータ空間を2次元相似空間（pd, fd）に縮約する。二枝MLモデルが参照スケールのイオン密度分布と条件付きイオン速度分布を予測する。1D3Vアルゴン放電を例に、再構成したイオン運動論状態でPIC/MCCシミュレーションを初期化すると、短時間の発展で自己無撞着な周期定常状態に緩和する。従来の一様初期化と比較して最大56.8倍、中央値27.7倍の計算高速化を達成した。さらにα–γモード遷移、局所–非局所電子"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Serum-derived extracellular vesicle-associated miRNA profiling in Mycobacterium abscessus pulmonary disease: an exploratory proof-of-concept study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43043558/",
+        "abstract": "Differentiating Mycobacterium abscessus pulmonary infection from pulmonary tuberculosis (TB) continues to be an unmet medical need due to their similar clinical, radiographic and microscopic features which may lead to delayed diagnosis and suboptimal therapy. Serum-derived extracellular vesicle-associated miRNAs represent potential minimally invasive biomarkers that warrant investigation for their diagnostic utility in differentiating M. abscessus pulmonary disease from other respiratory infections. Herein, we conducted a proof-of-concept small RNA sequencing of serum exosome for developing serum exosomal miRNA diagnostic signature against M. abscessus pulmonary disease. We analyzed 12 participants with serum derived from: (1) M. abscessus pulmonary infection (n = 3); (2) pulmonary TB (n = 3); (3) pneumonia (n = 3); and (4) healthy controls (n = 3). Exosomes were isolated from serum, followed by sequencing small RNAs using the Illumina platform. Differential expression was identified using DESeq2; candidate biomarkers were selected based on fold changes, nominal p-values, and reproducibility in comparisons. A total of 854 known miRNAs and 1,730 previously unknown (putative novel) miRNA candidates were detected. Among the annotated miRNAs, hsa-miR-5584-5p demonstrated the largest observed fold change in the comparison between M. abscessus pulmonary disease and pulmonary TB ([Formula: see text] fold change [Formula: see text]; nominal [Formula: see text]); however, this association did not remain statistically significant after correction for multiple testing (FDR [Formula: see text]). Among the computationally predicted putative novel small-RNA candidates, the sequence TTGAGGTCGGACATGGTGGCTC exhibited the largest observed fold change; however, its identity as a bona fide miRNA remains to be experimentally established. This exploratory proof-of-concept study provides preliminary insights into serum-derived extracellular vesicle-associated small RNA profiles in M. abscessus pulmonary disease and identifies candidate miRNAs that require independent validation using RT-qPCR in larger, well-characterized patient cohorts.",
+        "source": "PubMed",
+        "doi": "10.1007/s12223-026-01639-3",
+        "keyword": "Exosomes",
+        "title_ja": "血清由来細胞外小胞関連miRNAのプロファイリングによるMycobacterium abscessus肺疾患の探索的概念実証研究",
+        "summary_ja": "Mycobacterium abscessus肺疾患と肺結核は臨床・画像・顕微鏡所見が類似し鑑別が困難である。本研究は血清由来エクソソームmiRNAを鑑別バイオマーカーとする可能性を探るproof-of-concept研究で、M. abscessus肺感染3例、肺結核3例、肺炎3例、健常対照3例の血清エクソソームsmall RNAをIlluminaでシーケンスした。既知miRNA 854種と新規候補1,730種を検出し、DESeq2で比較した結果、M. abscessus肺疾患と肺結核間でhsa-miR-5584-5pが最大のfold changeを示したが、多重検定補正後は有意でなかった（FDR）。新規候補では配列TTGAGGTCGGACATGGTGGCTCが最大の変化を示したが、真正なmiRNAかは未確立である。候補miRNAは大規模コホートでのRT-qPCRによる独立検証が必要である"
+      },
+      {
+        "title": "Fungal pathogen ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43042801/",
+        "abstract": "Fungal pathogens have evolved sophisticated strategies to modulate host immunity and promote infection, yet the role of exosome-like vesicle (ELV) as mediators of small RNA delivery in fungal-animal interactions remains poorly understood. Here, we report that the pathogenic yeast ",
+        "source": "PubMed",
+        "doi": "10.1080/21505594.2026.2745326",
+        "keyword": "Exosomes",
+        "title_ja": "真菌病原体",
+        "summary_ja": "病原性酵母はエクソソーム様小胞（ELV）を介してsmall RNAを送達し、宿主免疫を調節する可能性が示されたが、真菌–動物間相互作用におけるELVの役割は未解明である。本論文は病原性酵母におけるELV媒介性small RNA送達の機構を報告する。（約100字）"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Diffusive and advective transport in structurally anisotropic fibrous hydrogels.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43043701/",
+        "abstract": "Changes in fiber orientation in structurally anisotropic fibrous extracellular matrices govern transport, distribution, and accumulation of biologically active molecules and therapeutic nanoparticles in tissues. Fundamental studies of advection-driven transport in such matrices are challenging because changes in network anisotropy are generally coupled with variation in fiber dimensions, density, and surface chemistry. Here, a fibrous hydrogel was engineered in which the type and degree of fiber orientation were decoupled from these structural characteristics. Advection of charge-neutral nanoparticle probes under physiologically relevant pressure gradients was studied in a channel geometry that imposed spatially nonuniform flow across the fibrous network. The probe advection was quantified by the time of probe permeation through the gel along the fastest flow path and the time of probe distribution within the gel. We show that the permeation timescale was governed by advection along the pressure gradient, whereas the distribution timescale transitioned between advection- and diffusion-limited behavior depending on fiber orientation and probe dimension. The decoupling between these timescales became more pronounced with stronger alignment along the pressure gradient and with increasing probe dimension. Scaling analysis and a fluid dynamics simulation model further provided mechanistic insight into these experimental findings. Together, these results identify the key structural factors governing advection in anisotropic fibrous networks and provide a platform for future studies of the role of fiber orientation in tissues in regulating the transport, distribution, and dissemination of biologically active molecules, exosomes, and nanoparticle therapeutics under interstitial fluid flow.",
+        "source": "PubMed",
+        "doi": "10.1073/pnas.2620401123",
+        "keyword": "Exosomes",
+        "title_ja": "構造的に異方性のある繊維状ハイドロゲルにおける拡散および移流輸送。",
+        "summary_ja": "構造異方性線維性ハイドロゲルにおいて、線維配向の変化が生体活性分子や治療用ナノ粒子の輸送・分布・蓄積を左右する。しかし、ネットワーク異方性の変化は線維寸法・密度・表面化学と結合しやすく、移流輸送の基礎研究は困難であった。本研究では、線維配向の種類と程度をこれらの構造特性から切り離した線維性ハイドロゲルを作製し、生理的圧力勾配下で中性ナノ粒子プローブの移流を、空間的に不均一な流れを課すチャネル形状で検討した。透過時間スケールは圧力勾配に沿った移流に支配され、分布時間スケールは線維配向とプローブ寸法に応じて移流律速と拡散律速の間で遷移した。両時間スケールの分離は、圧力勾配方向への配向が強く、プローブ寸法が大きいほど顕著となった。スケーリング解析と流体力学シミュレーションが機構的知見を与え、異方性線維ネットワークにおける移流を規定する構造因子を特定した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Dual DNA Nanomaterial-Regulated Homogeneous Immunoreaction-Enabled One-Step Electrochemical Analysis of Multiple Biomarkers in Clinical Samples.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43043207/",
+        "abstract": "Homogeneous immunoassays offer a streamlined alternative to traditional heterogeneous methods by eliminating separation and washing steps. However, they are often hampered by low sensitivity, matrix interference, and limited multiplexing capability. Herein, we reported a dual DNA nanomaterial-based homogeneous electrochemical immunoassay that achieved ultrasensitive, one-step, simultaneous detection of multiple biomarkers. The system comprised a cyclic DNA nanomaterial (C-DNM) and a Y-shaped DNA nanosphere (Y-DNM) that coordinated Ag+ and Hg2+ via base mismatching, and antibodies were conjugated by the biotin-streptavidin system. Specific antigen-antibody binding could exert spatial steric hindrance on C-DNM, thereby triggering cascade metal ions release from Y-DNM and producing a second burst of signal amplification. This mechanism enabled detection limits down to the ag/mL level. Utilizing this strategy, we successfully quantified urinary ESAT-6 and LAM for tuberculosis, as well as PD-L1/MUC1-positive small extracellular vesicles (SEVs) and circulating tumor cells for lung cancer. The whole detection could be completed within 30 min. Clinical validation was taken in 60 samples, and the receiver operating curve analysis demonstrated good diagnostic accuracy, which showed strong correlation with clinical imaging findings. This dual DNA nanomaterial strategy provided a universal, rapid, and ultrasensitive tool for homogeneous immunoassay-based precision diagnostics of diseases.",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.6c16444",
+        "keyword": "sEVs",
+        "title_ja": "二重DNAナノ材料制御による均一免疫反応を利用した、臨床サンプル中の複数バイオマーカーのワンステップ電気化学分析",
+        "summary_ja": "本論文では、分離・洗浄工程を不要とする均一系イムノアッセイの低感度・マトリックス干渉・多重化限界を克服するため、二重DNAナノ材料を用いた均一系電気化学イムノアッセイを報告した。環状DNAナノ材料（C-DNM）とY字型DNAナノスフェア（Y-DNM）が塩基ミスマッチを介してAg⁺およびHg²⁺を配位し、抗体はビオチン-ストレプトアビジン系で結合された。抗原-抗体結合がC-DNMに空間的立体障害を与え、Y-DNMからの金属イオン連鎖放出と二次シグナル増幅を引き起こし、検出限界はag/mLレベルに達した。本戦略により、結核の尿中ESAT-6およびLAM、肺癌のPD-L1/MUC1陽性small extracellular vesicles（SEVs）および循環腫瘍細胞を定量した。検出は30分以内に完了し、60検体の臨床検証でROC解析により良好な診断精度と臨床画像所見との強い相関が示された。本"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです（500字以内）。\n\n1. **脳卒中後気分障害の神経画像圧縮予測**：voxel解析の限界を克服する圧縮パイプラインは、日常臨床画像から予測因子を同定でき、予防的介入の実用化が期待される。\n\n2. **INNRegによるマルチモーダル画像位置合わせ**：可逆翻訳を用いた教師なし手法は、異モダリティ間の未知の空間関係を扱え、画像誘導治療の精度向上に寄与する。\n\n3. **AIエージェントによる電力系統ワークフロー実行**：2,000バス合成グリッドでRMS/EMT解析を監督下で実行した事例は、系統運用自動化の現実性を示す。\n\n4. **血清EV miRNAによる肺疾患鑑別**：M. abscessus肺疾患と肺結核の鑑別バイオマーカーとしての可能性を示す探索的研究で、非侵襲診断への展開が期待される。\n\n5. **病原性酵母のELV媒介small RNA送達**：真菌–宿主間相互作用における細胞外小胞の役割解明は、新規抗真菌戦略や免疫調節の標的として注目される。"
+}

@@ -1,0 +1,166 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "miRNA Regulation of the FGF23-Klotho Pathway Mitigates Adverse Cardiac Remodeling During Nocturnal Hemodialysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43050277/",
+        "abstract": "Cardiovascular disease (CVD) remains the leading cause of morbidity and mortality in patients with ESKD. Dysregulation of the fibroblast growth factor 23 (FGF23)/Klotho axis has been implicated in uremic cardiomyopathy, however the mechanism linking dialysis intensity to the regulation of this pathway remains poorly defined.",
+        "source": "PubMed",
+        "doi": "10.2215/CJN.0000001264",
+        "keyword": "Klotho",
+        "title_ja": "miRNAによるFGF23-Klotho経路の制御は夜間血液透析中の有害な心リモデリングを軽減する。",
+        "summary_ja": "夜間血液透析中の有害な心リモデリングにおけるFGF23-Klotho経路のmiRNA制御に関する論文。ESKD患者では心血管疾患が主要な罹病・死亡原因であり、FGF23/Klotho軸の調節異常が尿毒症性心筋症に関与するが、透析強度と本経路制御を結ぶ機序は不明である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Evaluation of a KLH-conjugated uroplakin 3A-derived peptide formulation in an OH-BBN bladder cancer model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43050130/",
+        "abstract": "Tissue-specific antigens expressed by normal tissues or cancer cells can be selected as targets for cancer immunotherapy. UPK3A is a bladder-associated differentiation antigen and a candidate target for inducing immune responses against bladder tumours. We have previously shown that targeting UPK3A can induce bladder-specific autoimmunity. In the current study, we tested a vaccination strategy using a well-characterised UPK3A-derived antigenic peptide in a mouse model of bladder cancer. To enhance immunogenicity in BALB/c mice, the UPK3A peptide was conjugated to KLH and administered with either CFA or a CpG-containing adjuvant formulation.We compared immune and tumour-associated changes after vaccination with the KLH-conjugated UPK3A formulation in two adjuvant settings by analysing immune-cell populations, apoptosis-associated markers, cytokine profiles, and immune-cell infiltration in bladder tumour tissues. Compared with matched adjuvant-only controls, vaccination with the formulation was associated with reductions in tumour burden of up to 47% in the preventive setting and up to 53% in the post-carcinogen vaccination setting, together with improved survival. The formulation-containing groups also showed higher levels of CD4 + T cells, CD8 + T cells, natural killer (NK) cells, and CD11c+ cells, along with broader cytokine activation and increased levels of apoptosis-associated markers.Overall, vaccination with the KLH-conjugated UPK3A formulation was associated with reduced bladder tumour burden and prolonged survival in this model. These findings support further evaluation of this formulation as a proof-of-concept vaccination strategy that may complement current intravesical therapies rather than directly replace BCG at this stage. However, UPK3A expression in treated tumours, antigen-specific T-cell responses, antigen heterogeneity, and local and systemic safety require direct evaluation before drawing translational conclusions.",
+        "source": "PubMed",
+        "doi": "10.1007/s12032-026-03509-x",
+        "keyword": "NK cell therapy",
+        "title_ja": "KLH結合ウロプラキン3A由来ペプチド製剤のOH-BBN膀胱がんモデルにおける評価",
+        "summary_ja": "UPK3Aは膀胱関連分化抗原で、膀胱腫瘍への免疫応答誘導の標的候補である。本研究では、マウス膀胱癌モデル（OH-BBN）において、KLH結合UPK3AペプチドワクチンをCFAまたはCpG含有アジュバントと共に投与し、免疫・腫瘍関連変化を解析した。アジュバント単独群と比較し、予防的設定で最大47%、発癌物質投与後設定で最大53%の腫瘍負担減少と生存改善が認められた。またCD4+ T細胞、CD8+ T細胞、NK細胞、CD11c+細胞の増加、サイトカイン活性化の拡大、アポトーシス関連マーカー上昇を伴った。KLH結合UPK3A製剤は腫瘍負担減少と生存延長と関連し、既存の膀胱内療法を補完する概念実証的ワクチン戦略として更なる評価が支持される。ただし治療腫瘍でのUPK3A発現、抗原特異的T細胞応答、抗原不均一性、局所・全身安全性の直接評価が翻訳的結論に必要である。"
+      },
+      {
+        "title": "Extranodal NK/T-Cell Lymphoma Mimicking Fixed Drug Eruption in a 19-Year-Old Man.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43049521/",
+        "abstract": "Extranodal NK/T-cell lymphoma, nasal type (ENKTL), is an aggressive Epstein-Barr virus (EBV)-associated lymphoma that typically shows angiocentric and angiodestructive growth and may secondarily involve the skin. Presentation as a fixed-drug-eruption-like process with an interface-dermatitis-like histopathologic pattern is exceedingly rare and may represent a major diagnostic pitfall. We report a 19-year-old man with stage IIE gingival ENKTL who developed a progressive, fixed-drug-eruption-like cutaneous eruption during chemotherapy. Skin biopsy demonstrated a subtle interface-dermatitis-like lymphoid infiltrate composed of small, atypical lymphocytes, closely mimicking an inflammatory drug reaction rather than conventional cutaneous lymphoma. Despite deceptively bland morphology, the cutaneous infiltrate shared an identical immunophenotype with the primary tumor, including diffuse cytoplasmic CD3ε expression, CD56 positivity, cytotoxic marker expression, and strong, uniform EBER positivity, confirming secondary cutaneous involvement by ENKTL. This case expands the recognized dermatopathologic spectrum of ENKTL and underscores the importance of maintaining diagnostic suspicion and performing EBV studies when evaluating interface-dermatitis-like eruptions with atypical clinical behavior.",
+        "source": "PubMed",
+        "doi": "10.1097/DAD.0000000000003441",
+        "keyword": "NK cell therapy",
+        "title_ja": "19歳男性において固定薬疹に類似した節外性NK/T細胞リンパ腫",
+        "summary_ja": "19歳男性の歯肉原発ENKTL（IIE期）症例。化学療法中に固定薬疹様の皮膚病変が進行し、生検で界面皮炎様の小型異型リンパ球浸潤を認めた。形態は炎症性薬疹に類似し診断的落とし穴となり得たが、浸潤細胞は原発巣と同一の免疫形質（CD3εびまん性細胞質発現、CD56陽性、細胞傷害性マーカー発現、EBER強陽性）を示し、ENKTLの続発性皮膚浸潤と確認された。本症例はENKTLの皮膚病理スペクトルを拡大し、非典型的経過を示す界面皮炎様皮疹ではEBV検査を含む診断的警戒の重要性を示す。"
+      },
+      {
+        "title": "Redox Reprogramming of the Tumor Microenvironment: Targeting Extracellular ROS to Restore Antitumor Immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43046839/",
+        "abstract": "Reactive oxygen species (ROS) are central regulators of redox homeostasis yet exert paradoxical effects in cancer. While ROS overproduction can directly kill tumor cells, persistent oxidative stress in the tumor microenvironment (TME) paradoxically impairs antitumor immunity. Excess extracellular ROS oxidize critical thiols on cytotoxic T lymphocytes (CTLs) and natural killer (NK) cells, disrupting immune synapse formation and effector function. ROS also compromise dendritic cells (DCs) antigen presentation via endoplasmic reticulum (ER) stress and lipid accumulation, and attenuate immunogenic cell death (ICD) by oxidizing damage-associated molecular patterns such as high mobility group box 1 protein (HMGB1) from its immunostimulatory disulfide form to an inert sulfonated state. These disruptions create a major barrier to effective immunotherapy. This review highlights that redox imbalance, rather than ROS abundance, determines therapeutic outcomes. We discuss mechanisms of ROS-mediated immune suppression, emphasizing oxidative modification of immune cell thiols, DC dysfunction, and disruption of danger signaling. Recent ROS-scavenging strategies, including small-molecule antioxidants and nanomedicine platforms, enable spatially and temporally controlled modulation of oxidative stress to restore immune competence. Emerging evidence supports strategies integrating transient ROS generation for tumor killing with sustained clearance to preserve immune signaling. We further outline challenges and future directions, including redox threshold identification, feedback-responsive systems, and biomarker-guided patient stratification. Precision redox modulation thus emerges as a promising approach to overcome immune suppression and enhance cancer immunotherapy durability.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.bioconjchem.6c00362",
+        "keyword": "NK cell therapy",
+        "title_ja": "腫瘍微小環境のレドックスリプログラミング：細胞外ROSを標的として抗腫瘍免疫を回復させる",
+        "summary_ja": "本論文は、腫瘍微小環境（TME）における細胞外ROSが抗腫瘍免疫を抑制する機構と、その制御による免疫療法改善の可能性を論じる。過剰なROSはCTLやNK細胞のチオール基を酸化し免疫シナプス形成とエフェクター機能を障害する。またDCの抗原提示をERストレスや脂質蓄積を介して損ない、HMGB1などのDAMPsを酸化してICDを減弱させる。これらの酸化修飾が免疫療法の障壁となる。本レビューはROSの量よりレドックス不均衡が治療転帰を決めると強調し、小分子抗酸化薬やナノメディシンによる時空間制御されたROS除去戦略を議論する。一過性ROS発生による腫瘍殺傷と持続的除去による免疫シグナル保持の統合戦略、レドックス閾値同定やフィードバック応答型システム、バイオマーカー層別化などの課題と将来展望を示し、精密レドックス調節を有望なアプローチと位置づける。"
+      },
+      {
+        "title": "Inhibiting or harnessing fratricide in CAR-engineered cell therapy: challenges and opportunities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43045822/",
+        "abstract": "Chimeric antigen receptor (CAR)-engineered cell therapy has transformed the therapeutic landscape of certain blood cancers; however, extending it to new disease settings has not yet succeeded. Among several well-recognized barriers to broader success, including antigen heterogeneity and escape, limited trafficking to tumor sites, poor in vivo persistence, and the immunosuppressive tumor microenvironment, fratricide represents an additional important challenge. This phenomenon arises when the CAR target antigen is also naturally expressed on CAR-engineered cells or induced during cell activation, leading to unintended recognition and destruction of the therapeutic cells by their counterparts. It can also arise through less direct pathways, such as trogocytosis- or extracellular vesicle (EV)-mediated antigen transfer, which can make CAR-engineered cells vulnerable to fratricide because they do not naturally express the target antigen. Biologically, fratricide is a very significant mechanism that can impair cell expansion during manufacturing, reduce product yield and fitness, promote exhaustion, and compromise persistence after infusion. This review examines the biological basis of both target-intrinsic and acquired-antigen fratricide across CAR-engineered cell therapies. We comprehensively discuss current strategies to prevent fratricide, including antigen knockout or knockdown, intracellular protein retention, transient pharmacologic suppression of CAR signaling, selective enrichment of antigen-negative cells, inhibition of trogocytosis or EV pathways, and alternative receptor designs such as inhibitory, bispecific, and tandem CARs. We also review clinical advances in fratricide-resistant CAR-T cells and summarize related clinical trials. Finally, we consider an emerging counterpoint: under controlled conditions, fratricide may be deliberately exploited to enrich desirable cell populations. Mechanistic understanding of fratricide and its preventive strategies can help to develop safer and more efficacious CAR-engineered cellular therapies.",
+        "source": "PubMed",
+        "doi": "10.1007/s00280-026-04979-6",
+        "keyword": "NK cell therapy",
+        "title_ja": "CARエンジニアリング細胞療法におけるフラトライサイド（同種細胞殺傷）の抑制または活用：課題と機会",
+        "summary_ja": "CAR発現細胞療法は一部の血液がん治療を変革したが、対象拡大には課題が残る。抗原不均一性や腫瘍集積性、持続性、免疫抑制微小環境に加え、fratricide（同種細胞殺傷）が重要課題である。これはCAR標的抗原がCAR発現細胞自身に発現する場合や活性化時に誘導される場合に生じ、trogocytosisや細胞外小胞を介した抗原転移でも惹起される。fratricideは製造中の細胞増殖や収量・適合性を低下させ、疲弊を促進し、輸注後の持続性を損なう。本レビューは内在性・獲得性抗原によるfratricideの生物学的基盤を検討し、抗原ノックアウト、細胞内保持、CARシグナル一過性抑制、抗原陰性細胞の選択的濃縮、trogocytosis/EV経路阻害、抑制性・二特異性・タンデムCAR等の防止戦略、臨床試験の進展を概説する。さらに制御下でfratricideを活用し望ましい細胞集団を濃縮する可能性にも言"
+      },
+      {
+        "title": "Deep single-cell immune- and signaling profiles predict therapy response in chronic myeloid leukemia within hours.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43045686/",
+        "abstract": "Chronic myeloid leukemia (CML) is effectively treated with small molecule BCR::ABL1 tyrosine kinase inhibitors (TKIs) but as in all cancers, early identification of suboptimal responders and non-responders is a challenge. Through mass cytometry analysis of peripheral blood leukocytes collected on the first day of TKI treatment, we generated high-dimensional single-cell data from de novo chronic phase CML patients enrolled in two multicenter clinical trials (clinicaltrials.gov: NCT01725204 and NCT01061177). In leukocytes, dasatinib and nilotinib inhibited intracellular signaling within 1 or 3 h after first oral dose, respectively, and each TKI had a unique signaling signature reflecting its kinase specificity profile beyond BCR::ABL1. From these data, an immune and signaling profile was constructed for each patient that predicted the treatment response (BCR::ABL1",
+        "source": "PubMed",
+        "doi": "10.1038/s41392-026-03070-z",
+        "keyword": "NK cell therapy",
+        "title_ja": "深層シングルセル免疫・シグナルプロファイルは数時間以内に慢性骨髄性白血病の治療反応を予測する。",
+        "summary_ja": "慢性骨髄性白血病（CML）はBCR::ABL1チロシンキナーゼ阻害薬（TKI）で治療されるが、早期の治療反応予測が課題である。2つの多施設臨床試験に登録された新規慢性期CML患者のTKI治療初日採取の末梢血白血球をマスサイトメトリーで解析し、高次元単一細胞データを生成した。ダサチニブとニロチニブは初回経口投与後それぞれ1時間または3時間以内に白血球内シグナル伝達を阻害し、各TKIはBCR::ABL1以外のキナーゼ特異性を反映する独自のシグナル伝達signatureを示した。これらのデータから患者ごとに免疫・シグナル伝達プロファイルを構築し、治療反応（BCR::ABL1...）を予測した。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Killers by Design: How Innovative Gene-Engineering Fine-Tunes NK Cells as Next Generation Immunotherapies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43048946/",
+        "abstract": "Natural killer (NK) cells have emerged as promising candidates for adoptive immunotherapies. Their natural cytotoxic capabilities and low incidence of side-effects such as cytokine release syndrome and immune effector cell-associated neurotoxicity, render NK cells a favorable alternative to T cells. Incorporation of a chimeric antigen receptor (CAR) has been shown to greatly enhance NK cell's antitumor capacity. Nevertheless, CAR-NK cell therapies still face several challenges, such as low ",
+        "source": "PubMed",
+        "doi": "10.1177/10430342261477949",
+        "keyword": "NK cell therapy",
+        "title_ja": "设计杀手：创新基因工程如何精细调控NK细胞作为下一代免疫疗法",
+        "summary_ja": "本論文は、NK細胞が養子免疫療法の有望な候補であると論じている。NK細胞は自然の細胞傷害能を持ち、サイトカイン放出症候群や免疫エフェクター細胞関連神経毒性症候群などの副作用が少ないため、T細胞の代替として有利である。CARの導入によりNK細胞の抗腫瘍能が大幅に強化されることが示されている。しかしCAR-NK細胞療法には依然としていくつかの課題が残る。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Urinary exosomal C5b-9 as a non-invasive biomarker for diagnosis and monitoring of pediatric IgA nephropathy: a single-center prospective study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43049943/",
+        "abstract": "This exploratory study aimed to evaluate the diagnostic and predictive value of urinary exosomal C5b-9 in children with IgA nephropathy (IgAN). A total of 70 children with biopsy-proven IgAN, 43 with non-IgAN glomerulopathies, and 30 healthy controls were enrolled. Urinary exosomal C5b-9 levels were measured at baseline and at 4, 8, and 12 weeks after renal biopsy. The diagnostic performance of baseline C5b-9 was assessed using ROC curve analysis. Multivariate logistic regression models were constructed to evaluate its independent association with 12-week remission. Longitudinal changes were analyzed using a repeated-measures mixed-effects model, and the predictive value of the early decline rate was assessed by ROC analysis. Kaplan-Meier analysis and Cox regression were also performed. Baseline urinary exosomal C5b-9 levels were significantly higher in IgAN patients compared with non-IgAN patients and healthy controls (both p < 0.01). The area under the curve (AUC) for distinguishing IgAN from non-IgAN was 0.942, with an optimal cutoff of 227.36 ng/mL (sensitivity, 92.9%; specificity, 83.7%). The optimal cutoff for predicting 12-week non-remission was 287.90 ng/mL (AUC = 0.819; sensitivity, 75.7%; specificity, 71.9%). Low baseline C5b-9 (< 287.90 ng/mL) was associated with significantly higher cumulative remission rates (log-rank p < 0.01). Across three multivariate models, baseline C5b-9 remained independently associated with 12-week remission (OR range, 0.599-0.623, all p < 0.01). Longitudinal analysis revealed a significant time × group interaction (p = 0.002), indicating greater C5b-9 decline in remitted patients. The early decline rate (> 8.15% reduction by week 4) predicted remission with an AUC of 0.754 (sensitivity, 63.9%; specificity, 84.4%). Combination therapy showed a trend toward faster remission (HR = 1.856, p = 0.056).",
+        "source": "PubMed",
+        "doi": "10.1007/s00431-026-07624-9",
+        "keyword": "Exosomes",
+        "title_ja": "尿中エクソソームC5b-9は小児IgA腎症の診断とモニタリングにおける非侵襲的バイオマーカー：単施設前向き研究",
+        "summary_ja": "小児IgA腎症（IgAN）における尿中エクソソームC5b-9の診断・予後予測能を検討した探索的研究。生検 proven IgAN 70例、非IgAN糸球体症43例、健常対照30例を登録。ベースラインC5b-9はIgANで非IgAN・健常対照より有意に高値（共にp<0.01）。IgAN鑑別のAUCは0.942、最適カットオフ227.36 ng/mL（感度92.9%、特異度83.7%）。12週非寛解予測のカットオフは287.90 ng/mL（AUC=0.819）。低値群は累積寛解率が有意に高く（log-rank p<0.01）、多変量解析でも12週寛解と独立関連（OR 0.599-0.623、共にp<0.01）。縦断解析で有意な時間×群交互作用（p=0.002）を認め、寛解例でC5b-9低下が大。4週時点の早期低下率>8.15%は寛解予測AUC 0.754。併用療法は寛解早期化の傾向（HR=1"
+      },
+      {
+        "title": "Platelet-Rich Plasma and Emerging Biologic Adjuncts in Skin Rejuvenation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43045403/",
+        "abstract": "Platelet-rich plasma (PRP) is a safe, autologous biologic therapy for facial skin rejuvenation. Evidence supports modest improvements in skin thickness, elasticity, and texture, particularly when combined with fractional lasers or microneedling. However, heterogeneity in preparation protocols and lack of standardized outcomes limit definitive conclusions and standardized treatment protocols. Emerging biologics including exosomes and stem cell therapies demonstrate early promise but are currently investigational. This review examines the evidence for PRP in skin rejuvenation, outlines treatment techniques and combination approaches, and discusses emerging biologic adjuncts with attention to their scientific rationale and ethical considerations.",
+        "source": "PubMed",
+        "doi": "10.1016/j.fsc.2026.09.008",
+        "keyword": "Exosomes",
+        "title_ja": "皮膚若返りにおける多血小板血漿および新興の生物学的補助療法",
+        "summary_ja": "多血小板血漿（PRP）は顔面皮膚若返りのための安全な自家生物学的療法である。皮膚の厚さ、弾性、質感の適度な改善が示されており、特にフラクショナルレーザーやマイクロニードリングとの併用で有効である。しかし調製プロトコルの不均一性と標準化された評価項目の欠如が、確定的な結論と標準的治療プロトコルの確立を妨げている。エクソソームや幹細胞療法などの新興生物学的製剤は初期段階で有望だが、現在は研究中である。本レビューは皮膚若返りにおけるPRPのエビデンスを検討し、治療技術と併用アプローチを概説し、新興生物学的補助療法について科学的根拠と倫理的考察に留意しつつ論じる。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Analysis of α-Synuclein in Cell-Type-Specific Extracellular Vesicles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43050146/",
+        "abstract": "α-Synuclein (α-Syn) is a key pathological protein in Parkinson's disease (PD) and related synucleinopathies. Recent evidence suggests that extracellular vesicles (EVs), particularly exosomes, contribute to the intercellular transmission of α-Syn and may serve as potential biomarkers. However, conventional EV isolation methods lack cell-type specificity, limiting their biological interpretability. In this chapter, we describe an optimized protocol for the isolation of cell-type-specific EVs derived from neurons, astrocytes, microglia, and oligodendrocytes using immunocapture strategies targeting ATP1A3, EAAT1, TMEM119, and CNPase, respectively. We further compare agarose bead-based and magnetic bead-based (Dynabeads) capture systems, and introduce methodological improvements to preserve the structural and seeding properties of α-Syn during extraction and quantification. Finally, we present a sensitive ELISA-based method for measuring α-Syn levels in EVs. This protocol enables more biologically meaningful analysis of EV-associated α-Syn and provides a framework for biomarker discovery in neurodegenerative diseases.",
+        "source": "PubMed",
+        "doi": "10.1007/978-1-0716-5699-0_6",
+        "keyword": "Exosomes",
+        "title_ja": "細胞種特異的細胞外小胞におけるα-シヌクレインの解析",
+        "summary_ja": "α-Synはパーキンソン病やシヌクレイノパチーの主要な病理蛋白質であり、EV（特にエクソソーム）を介した細胞間伝播やバイオマーカーとしての可能性が示唆されている。しかし従来のEV単離法は細胞種特異性を欠く。本章では、ATP1A3、EAAT1、TMEM119、CNPaseを標的とした免疫捕捉法により、神経細胞、アストロサイト、ミクログリア、オリゴデンドロサイト由来の細胞種特異的EVを単離する最適化プロトコルを記述する。アガロースビーズ法と磁気ビーズ法（Dynabeads）を比較し、α-Synの構造・seeding特性を保持する方法論的改良を紹介する。最後にEV中α-Synを測定する高感度ELISA法を提示する。本プロトコルはEV関連α-Synの生物学的に有意義な解析と神経変性疾患のバイオマーカー探索の基盤を提供する。"
+      },
+      {
+        "title": "A Novel Multi-Modality Approach to Skin Rejuvenation: Integrating Systemic Optimization, Nitric Oxide Priming, Placental Exosomes, Dermoelectroporation, and Injectable Biologic Scaffolds.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43045410/",
+        "abstract": "The fields of cellular medicine, regenerative, and stem cell therapy continue to scientifically grow exponentially. Peer-reviewed literature supports the science behind systemic optimization, nitric oxide skin priming, dermoelectroporation-enhanced exosome topical application, and injectable allograft fat and hyperdilute calcium hydroxylapatite, improving skin appearance, architecture, and molecular environment.",
+        "source": "PubMed",
+        "doi": "10.1016/j.fsc.2026.09.005",
+        "keyword": "Exosomes",
+        "title_ja": "皮膚若返りのための新規マルチモダリティアプローチ：全身最適化、一酸化窒素プライミング、胎盤エクソソーム、皮膚電気穿孔法、および注入可能な生物学的足場の統合",
+        "summary_ja": "本論文は、皮膚若返りのための新規マルチモーダルアプローチを提唱する。細胞医療・再生医療・幹細胞治療の科学的発展を背景に、全身最適化、一酸化窒素による皮膚プライミング、皮膚電気穿孔法（dermoelectroporation）を用いたエクソソーム外用、注射可能な同種移植脂肪および高希釈カルシウムヒドロキシアパタイトの併用を統合する。査読文献は、これらの手法が皮膚の外観・構造・分子環境を改善する科学的根拠を支持していると述べる。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の論文から注目すべき5トピックを選定します。\n\n**1. FGF23-Klotho経路と心リモデリング**：夜間透析中のmiRNAによるFGF23-Klotho制御が尿毒症性心筋症を軽減する可能性。ESKD患者の心血管死減少へ向け、透析強度と本経路の関連解明が期待される。\n\n**2. 腫瘍微小環境のレドックス再 programming**：細胞外ROSがCTLやNK細胞の機能を阻害する機構を標的とし、抗腫瘍免疫を回復させる新戦略。既存免疫療法の効果増強への応用が有望。\n\n**3. NK細胞の遺伝子工学による次世代免疫療法**：NK細胞はCRSや神経毒性が少なく、CAR導入で養子免疫療法の有力候補となる。設計精度の向上が実臨床展開の鍵。\n\n**4. 尿中エクソソームC5b-9による小児IgA腎症バイオマーカー**：非侵襲的に診断・モニタリングできる可能性を示す探索的研究。標準化と検証が今後の課題。\n\n**5. CAR細胞療法におけるfratricide制御**：CAR標的抗原の自己発現による同種細胞殺傷は適応拡大の障壁。抑制か活用かの戦略設計が重要。\n\n以上、Klotho、NK細胞、エクソソーム、CAR工学の融合的進展が注目されます。"
+}

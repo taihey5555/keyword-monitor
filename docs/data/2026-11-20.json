@@ -1,0 +1,124 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "NKTR-255, a polymer-conjugated IL-15, enhances CAR T cell therapy by engaging endogenous antitumor immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43056504/",
+        "abstract": "CAR-T cells have yet to show widespread efficacy in solid tumors due in part to poor persistence and dysfunction in the tumor microenvironment. Further, heterogenous expression of target antigens can lead to escape of antigen-null tumors that resist CAR-T killing. Strategies to cooperatively boost both CAR-T and endogenous antitumor immunity may be critical for achieving durable efficacy in cancer patients. NKTR-255 is a polymer-conjugated IL-15 with extended half-life that can boost endogenous T and NK cells, as well as CD19 CAR-T cells in B cell malignancies. However, whether NKTR-255 is sufficient to overcome CAR-T dysfunction in the suppressive solid tumor microenvironment, and how NKTR-255 and CAR-Ts together re-shape endogenous antitumor immunity, is not known. Using mouse models of ROR1+ lung adenocarcinoma, we show that NKTR-255 significantly boosted accumulation and function of tumor-infiltrating CAR-T cells targeting ROR1. Compared with NKTR-255 or CAR-T treatment alone, combination of NKTR-255 and CAR-T therapy increased endogenous tumor-specific T cells that preserved a PD-1+Tcf1+ stem-like phenotype. Consequently, NKTR-255 and CAR-T combination therapy completely eliminated ROR1+ tumor cells and significantly improved survival, with enhanced tumor control dependent on both CAR-Ts and endogenous T cells, though all mice ultimately succumbed to progression of ROR1- tumor. Compared to IL-15-armored CAR-T cells, systemic NKTR-255 induced greater accumulation and reduced terminal differentiation of endogenous tumor-specific T cells, resulting in superior tumor control. Thus, combining NKTR-255 with CAR-T therapy is a promising strategy to enhance both CAR-T and endogenous antitumor immunity to promote coordinated control of aggressive tumors.",
+        "source": "PubMed",
+        "doi": "10.1158/2326-6066.CIR-25-1569",
+        "keyword": "NK cell therapy",
+        "title_ja": "NKTR-255（ポリマー結合型IL-15）は、内因性の抗腫瘍免疫を活性化することでCAR T細胞療法を増強する。",
+        "summary_ja": "NKTR-255は半減期を延長したポリマー結合型IL-15で、内因性T細胞・NK細胞やCD19 CAR-T細胞を増強する。ROR1陽性肺腺癌マウスモデルにおいて、NKTR-255は腫瘍浸潤CAR-T細胞の集積と機能を有意に亢進した。NKTR-255とCAR-Tの併用は単独療法と比較し、PD-1+Tcf1+幹細胞様表現型を保持する内因性腫瘍特異的T細胞を増加させ、ROR1陽性腫瘍細胞を完全に排除し生存を有意に改善した。腫瘍制御はCAR-Tと内因性T細胞の両方に依存したが、最終的に全マウスがROR1陰性腫瘍の進行で死亡した。IL-15装甲CAR-T細胞と比較し、全身投与NKTR-255は内因性腫瘍特異的T細胞の集積増大と終末分化抑制を誘導し、優れた腫瘍制御を示した。NKTR-255とCAR-Tの併用は両免疫を増強する有望な戦略である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Intelligent hydrogels for targeted cancer theranostics: Smart solutions to a complex disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43055973/",
+        "abstract": "Intelligent hydrogels constitute revolutionary tools in oncology and cancer treatment, opening up unprecedented avenues spanning targeted drug delivery, combination therapy, biosensing, and diagnostic imaging. Methodically, integrating nanomaterials, such as quantum dots, gold nanoparticles, carbon nanotubes, and magnetic nanoparticles renders smart hydrogels responsive to tumor-specific stimuli, including pH, redox gradients, enzymatic activity, and external fields. This stimulus-responsive behavior facilitates site-specific and on-demand release of therapeutic agents, consequently enhancing therapeutic efficacy, reducing systemic toxicity, and overcoming limitations of conventional chemotherapy approaches. Furthermore, these hydrogels, with their multifunctionality, can be used for combination therapies to co-deliver chemotherapeutics, immunotherapies, and gene therapies. This can be achieved by simultaneous real-time monitoring through integrated imaging probes, advancing the theranostic paradigm. In the context of precision medicine, hydrogel-based biosensors appear promising for detecting cancer biomarkers, such as exosomal RNA, proteins, and genetic mutations, with high sensitivity and in a non-invasive fashion. As for diagnostic imaging, hydrogel formulations harboring contrast agents pave the way for longitudinal tracking of therapeutic outcomes by significantly improving tumor visualization across various imaging modalities, including MRI, CT, ultrasound, and fluorescence. In the face of current challenges in terms of immunogenicity, scalability, and regulatory translation from bench to bedside, the rapidly evolving intelligent hydrogels hold promise in preclinical models for next-generation cancer management, offering potential pathways toward personalized and adaptive oncology.",
+        "source": "PubMed",
+        "doi": "10.1007/s12032-026-03515-z",
+        "keyword": "Exosomes",
+        "title_ja": "標的型がんセラノスティクスに向けたインテリジェントハイドロゲル：複雑な疾患へのスマートな解決策",
+        "summary_ja": "インテリジェントハイドロゲルは、標的薬物送達、併用療法、バイオセンシング、診断イメージングにわたる腫瘍学の革新的ツールである。量子ドット、金ナノ粒子、カーボンナノチューブ、磁性ナノ粒子などのナノ材料を統合することで、pH、レドックス勾配、酵素活性、外部場といった腫瘍特異的刺激に応答する。この刺激応答性により治療薬の部位特異的・オンデマンド放出が可能となり、治療効果を高め、全身毒性を低減し、従来の化学療法の限界を克服する。さらに多機能性を活かし、化学療法・免疫療法・遺伝子治療の併用送達とイメージングプローブによるリアルタイムモニタリングを同時に実現し、セラノスティクスを推進する。精密医療において、ハイドロゲルベースのバイオセンサーはエクソソームRNA、タンパク質、遺伝子変異などの癌バイオマーカーを高感度かつ非侵襲的に検出する。診断イメージングでは造影剤を内包し、MRI、CT、超音波、蛍光など"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Interfacial Reorganization by Nonionic Surfactants Governs the Stability and Bioactivity of Exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43056536/",
+        "abstract": "Exosomes are promising nanoscale agents that can serve both as efficient drug delivery carriers and as bioactive therapeutics with intrinsic biological functions. Yet their clinical translation is hindered by formulation-dependent instability and an incomplete understanding of excipient-membrane interactions. Here, we systematically and, to our knowledge, for the first time dissect how nonionic surfactants govern exosome stability, membrane organization, and bioactivity across sub- to supra-critical micelle concentration regimes. Using bovine exosomes as a model, we verify that exosomes in phosphate-buffered saline are intrinsically metastable, undergoing progressive interfacial reorganization and particle loss even at 4 °C. Surfactants exhibit distinct, structure-dependent effects: polysorbates (PS20, PS80) reduce hydrodynamic size but accelerate particle loss, whereas poloxamer 188 (P188) preserves both size and concentration. Membrane analysis shows that polysorbates increase lipid fluidity, potentially through interactions with the lipid bilayer. P188 may act through preferential surface association with limited effects on the measured lipid packing environment. Functionally, PS20 enhances cellular uptake at the expense of structural integrity, whereas P188 maintains vesicle integrity with moderate functional gain. Across multiple exosome sources, these trends are conserved, demonstrating the generality of the underlying mechanisms. Together, our results establish a mechanistic framework linking surfactant structure, concentration, and membrane interaction to both physicochemical stability and biological performance, providing actionable design principles for exosome formulations.",
+        "source": "PubMed",
+        "doi": "10.1021/acsami.6c16837",
+        "keyword": "Exosomes",
+        "title_ja": "非イオン性界面活性剤による界面再編成がエクソソームの安定性と生物活性を制御する。",
+        "summary_ja": "エクソソームは薬物送達担体かつ生理活性治療薬として有望だが、製剤依存的な不安定性と添加剤-膜相互作用の理解不足が臨床応用を妨げている。本研究は非イオン性界面活性剤がエクソソームの安定性・膜組織化・生理活性に与える影響を、臨界ミセル濃度以下から以上まで初めて体系的に解析した。ウシ由来エクソソームはPBS中で準安定であり、4℃でも界面再編成と粒子損失が進行した。界面活性剤の効果は構造依存性を示し、ポリソルベート（PS20、PS80）は粒径を減少させるが粒子損失を加速し、ポロキサマー188（P188）は粒径と濃度を維持した。膜解析ではポリソルベートが脂質流動性を増加させ、P188は表面会合を優先し脂質充填への影響は限定的であった。機能的にはPS20は構造完全性と引き換えに細胞取り込みを促進し、P188は小胞完全性を維持しつつ中程度の機能向上を示した。これらの傾向は複数のエクソソーム源で保存され、"
+      },
+      {
+        "title": "The fate of poised pre-mRNAs shapes mitochondrial activity and cellular differentiation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43056446/",
+        "abstract": "Although RNA quality control tightly regulates gene expression, the scope of its regulatory functions in the nucleus remains unclear. In this study, we describe the quality control, on chromatin, of poised intron-containing polyadenylated RNAs (PIA-RNAs). Whether these precursor messenger RNAs (pre-mRNAs) constitute immature mRNAs whose splicing is pending or, alternatively, are degraded by the nuclear RNA exosome depends on whether they engage nuclear cap-binding protein 3 (NCBP3) or anillin, respectively. Many PIA-RNAs inversely controlled by NCBP3 and anillin encode mitochondrial factors. Thus, NCBP3 depletion in mouse as well as pathogenic mutations in the RNA exosome in humans result in reduced mitochondrial activity, muscle weakness, cerebellar hypomyelination, and diminished motor coordination. Our findings reveal a competition between pre-mRNA metabolic pathways whose balance controls mitochondrial function and, when perturbed, leads to neurological diseases.",
+        "source": "PubMed",
+        "doi": "10.1126/science.aee8018",
+        "keyword": "Exosomes",
+        "title_ja": "待命状态的前体mRNA的命运决定线粒体活性和细胞分化。",
+        "summary_ja": "本論文は、核内でのRNA品質管理の新たな役割を明らかにした。クロマチン上で、イントロンを含むポリアデニル化RNA（PIA-RNA）の品質管理が行われる。これらのpre-mRNAがスプライシング待機状態の未成熟mRNAとなるか、核RNAエキソソームで分解されるかは、NCBP3またはアニリンとの結合に依存する。NCBP3とアニリンにより逆制御される多くのPIA-RNAはミトコンドリア因子をコードする。マウスでのNCBP3欠損やヒトでのRNAエキソソームの病原性変異は、ミトコンドリア活性低下、筋力低下、小脳低髄鞘化、運動協調性低下を引き起こす。pre-mRNA代謝経路間の競合とそのバランスがミトコンドリア機能を制御し、破綻すると神経疾患につながることが示された。"
+      },
+      {
+        "title": "Bone Marrow Dendritic Cells-derived Exosomes Alleviate Ovariectomy-induced Depression in Rats by Suppressing NF-κB-mediated Neuroinflammation and Restoring T-cell Homeostasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43056023/",
+        "abstract": "Depression is a prevalent neuropsychiatric disorder, particularly among post-menopausal women, and is strongly linked to neuroinflammation and immune dysregulation. Emerging evidence suggests that exosomes derived from bone marrow dendritic cells (BMDCs) possess potent immunomodulatory properties. The present study investigated their therapeutic efficacy in an ovariectomy-induced rat model of post-menopausal depression. BMDCs were prepared and identified, and then the exosomes were isolated by differential ultracentrifugation. Forty-five female rats were randomly allocated into three groups (n = 15): sham-operated rats (SO), ovariectomized rats (OVX), and ovariectomized rats treated with BMDCs-derived exosomes (EXO), administered intravenously via the tail vein at a dose of 200 µg/kg/dose in 0.2 mL PBS on days 7 and 14 post-ovariectomy. Behavioral, neurochemical, and immunological assessments were subsequently performed. Ovariectomy-induced depression was associated with increased hippocampal neuronal apoptosis, enhanced microglial activation, and elevated levels of pro-inflammatory cytokines. In addition, ovariectomy disrupted T-cell homeostasis, as evidenced by alterations in CD4, CD8, and regulatory T-cell populations, and activated NF-κB signaling, thereby promoting a shift toward the pro-inflammatory M1 microglial phenotype. Administration of BMDCs-derived exosomes significantly attenuated these alterations by suppressing M1 polarization, enhancing the M2 phenotype, restoring T-cell balance, and inhibiting NF-κB activation. BMDCs-derived exosomes can be considered as a promising candidate for the management of post-menopausal depression and similar neuropsychiatric disorders through modulation of neuroinflammation and immune responses.",
+        "source": "PubMed",
+        "doi": "10.1007/s11064-026-04937-x",
+        "keyword": "Exosomes",
+        "title_ja": "骨髄樹状細胞由来エクソソームは、NF-κBを介した神経炎症を抑制し、T細胞の恒常性を回復することにより、卵巣摘出誘発性のラットうつ病を軽減する。",
+        "summary_ja": "骨髄樹状細胞（BMDC）由来エクソソームの、卵巣摘出（OVX）誘発性うつ病ラットモデルにおける治療効果を検討した研究。BMDCから超遠心法でエクソソームを単離し、OVXラットに静脈投与した。OVX誘発性うつ病は海馬神経細胞アポトーシス増加、ミクログリア活性化、炎症性サイトカイン上昇、CD4・CD8・制御性T細胞の変動によるT細胞恒常性破綻、NF-κBシグナル活性化によるM1ミクログリア偏位と関連していた。BMDC由来エクソソーム投与はM1分極抑制、M2表現型増強、T細胞バランス回復、NF-κB活性化阻害によりこれらの変化を有意に軽減した。BMDC由来エクソソームは神経炎症と免疫応答の調節を通じ、閉経後うつ病および類似の神経精神疾患に対する有望な治療候補と考えられる。"
+      },
+      {
+        "title": "Ribosome stalling activates a conserved quality control pathway in Archaea.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43055523/",
+        "abstract": "Ribosome stalling caused by defective mRNAs or translational stress can generate incomplete polypeptides and compromise ribosome availability. Although ribosome-associated quality control (RQC) pathways are well characterized in eukaryotes and bacteria, their presence in Archaea remains unexplored. Here, we established a programmable ribosome stalling system in the archaeon ",
+        "source": "PubMed",
+        "doi": "10.1128/mbio.02378-26",
+        "keyword": "Exosomes",
+        "title_ja": "リボソームの停止は古細菌において保存された品質管理経路を活性化する。",
+        "summary_ja": "本論文は、古細菌におけるリボソーム停止への応答機構を解析した。不良mRNAや翻訳ストレスによるリボソーム停止は不完全ポリペプチドの生成やリボソーム可用性の低下を招く。真核生物と細菌ではリボソーム関連品質管理（RQC）経路が解明されているが、古細菌での存在は未探索であった。著者らは古細菌においてプログラム可能なリボソーム停止系を構築し、保存された品質管理経路の活性化を明らかにした。"
+      },
+      {
+        "title": "Early Detection of Ovarian Cancer: Current Strategies and Future Directions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43055119/",
+        "abstract": "Ovarian cancer (OC) is a major cause of cancer-related mortality among women worldwide, mainly because most cases are diagnosed at advanced stages due to non-specific early symptoms. Although early detection is essential for improving clinical outcomes, accurate and accessible screening remains a major challenge, owing to the non-specific nature of early symptoms, the pronounced histological and molecular heterogeneity of the disease, and the poor performance of conventional screening approaches based on cancer antigen 125 (CA-125), human epididymis protein 4 (HE4) and imaging modalities. This review outlines the major biological and technical challenges in the early diagnosis of OC, briefly summarizes the value and limitations of conventional diagnostic approaches and focuses on current progress in emerging biomarkers, including circulating tumour DNA (ctDNA)/cell-free DNA (cfDNA) alterations, exosomal biomarkers and mesothelin multi-marker combined detection strategies, and novel technologies, such as artificial intelligence, nanotechnology, single-cell sequencing and biosensors for early detection. We also discuss the advantages, current limitations, practical considerations and translational barriers of these approaches. Future advances in OC screening will require the integration of sensitive biomarkers, multimodal detection strategies and more accessible, cost-effective technologies to improve early diagnosis and patient survival.",
+        "source": "PubMed",
+        "doi": "10.1017/erm.2026.10082",
+        "keyword": "Exosomes",
+        "title_ja": "卵巣がんの早期発見：現在の戦略と今後の方向性",
+        "summary_ja": "卵巣癌（OC）は女性の癌死亡の主因で、早期症状が非特異的なため多くが進行期に診断される。早期発見は予後改善に不可欠だが、症状の非特異性、組織学的・分子的異質性、CA-125・HE4・画像検査に基づく従来スクリーニングの低性能により、正確で汎用なスクリーニングは困難である。本レビューは早期診断の生物的・技術的課題を概説し、従来法の価値と限界を要約した上で、ctDNA/cfDNA変化、エクソソームバイオマーカー、メソテリン多マーカー併用検出などの新規バイオマーカー、および人工知能・ナノテクノロジー・単一細胞シーケンシング・バイオセンサー等の新技術の進展を焦点とする。さらにこれらの利点・限界・実用上の考慮点・翻訳上の障壁を論じる。今後のOCスクリーニングには、高感度バイオマーカー、マルチモーダル検出戦略、低コストでアクセス可能な技術の統合が必要である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の論文から注目すべき5トピックを選定します。①NKTR-255：半減期延長型IL-15がCAR-T療法を内因性免疫との協働で増強。腫瘍浸潤CAR-Tの集積・機能を亢進し、併用療法の有望性を示す。②インテリジェントハイドロゲル：ナノ材料統合によりpH・レドックス応答的な標的送達と診断を両立するセラノスティクス基盤。③エクソソーム製剤安定性：非イオン性界面活性剤の膜再編成が安定性・生理活性を左右し、臨床応用上の製剤設計指針を提示。④BMDC由来エクソソーム：OVXうつ病ラットでNF-κB抑制とT細胞恒常性回復を介し治療効果。無細胞療法としての可能性。⑤卵巣癌早期発見：非特異的症状と既存マーカー低性能が課題で、新規バイオマーカー・画像戦略の必要性を整理。全体として、免疫療法増強、ナノ製剤、エクソソーム治療、早期診断の融合が今後の展望です。"
+}

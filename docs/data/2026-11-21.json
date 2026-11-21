@@ -1,0 +1,124 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Impact of physical activity on immune cell populations and potential for synergy with immune checkpoint inhibitors (Review).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43059385/",
+        "abstract": "Over the last decade, immune checkpoint inhibitors have revolutionized cancer patient treatment. However, not all patients benefit from these therapies. A major predictive factor of response to immune checkpoint inhibitors is immune infiltration at the tumor site. Although immune infiltration is dictated mostly by intrinsic tumor attributes, particularly the tumor mutational burden, intense research is ongoing to identify approaches to increase the homing of immune cells, especially of T cells, to the tumor. The aim of the present review was to provide an overview of the impact of physical activity on immune cell populations and on the perspectives of synergy with immune checkpoint inhibitors in cancer treatment. Physical activity is known to induce peripheral leukocytosis and has been shown to increase T and NK cell infiltration at the tumor site, suggesting that its combination with immune checkpoint inhibitors could be beneficial. Available literature on exercise immunity lacks homogeneity and this is identified as a gap for establishing strong evidence.",
+        "source": "PubMed",
+        "doi": "10.3892/or.2026.9221",
+        "keyword": "NK cell therapy",
+        "title_ja": "身体活動が免疫細胞集団に与える影響と免疫チェックポイント阻害薬との相乗効果の可能性（総説）",
+        "summary_ja": "過去10年間で免疫チェックポイント阻害薬はがん治療を変革したが、全患者が恩恵を受けるわけではない。奏効の主要な予測因子は腫瘍部位への免疫細胞浸潤であり、これは主に腫瘍変異負荷などの腫瘍固有の特性に規定されるが、T細胞を中心とする免疫細胞の腫瘍への遊走を高める方策の研究が進められている。本レビューは、身体活動が免疫細胞集団に及ぼす影響と、免疫チェックポイント阻害薬との相乗効果の可能性を概観することを目的とする。身体活動は末梢性白血球増多を誘導し、腫瘍部位でのT細胞およびNK細胞浸潤を増加させることが示されており、免疫チェックポイント阻害薬との併用が有益である可能性を示唆する。運動免疫に関する既存文献は均一性を欠き、強いエビデンス確立への課題と特定されている。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Alginate hydrogel co-loaded with phellodendron bark extract and HucMSC-exosomes for combined antibacterial, anti-inflammatory, and pro-repair acne effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43063149/",
+        "abstract": "Acne vulgaris is a common inflammatory skin disorder involving follicular hyperkeratosis, Cutibacterium acnes proliferation, and aberrant inflammation, often leading to scarring. Current antibiotic treatments face resistance and limited repair capacity. Here, we developed an alginate-based hydrogel co-loaded with Phellodendron bark extract (PBE) and human umbilical cord mesenchymal stem cell-derived exosomes (HucMSC-Exo) (PE gel). Antibacterial activity of PBE was evaluated against C. acnes, S. aureus, and E. coli. Drug release and in vitro durability were characterized. A rat ear acne model assessed swelling resolution, bacterial load, histopathology, and inflammatory/repair-related markers. PBE exhibited potent broad-spectrum antibacterial activity (MIC ~ 5 mg/mL against C. acnes), which was retained in the presence of exosomes. Zeta potential showed a bimodal distribution, indicating the coexistence of distinct particle populations. PE gel sustained PBE release ≥24 h and prolonged antibacterial activity >72 h. In vivo, PE gel achieved 74.9% ear swelling resolution on day 11, reduced bacterial load >99.8%, lowered follicular hyperkeratosis to 11.2%, and increased collagen maturity to 73.4%. PBE suppressed TNF-α/IL-6, while exosomes enhanced VEGF/CD31-mediated angiogenesis and collagen remodeling. PE gel may help disrupt the acne pathological cycle through a combined antibacterial, anti-inflammatory, and pro-repair effects, representing a potential non-antibiotic strategy for acne management.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.pone.0363272",
+        "keyword": "Exosomes",
+        "title_ja": "アルギン酸ハイドロゲルに黄柏抽出物とHucMSCエクソソームを共担持した、抗菌・抗炎症・修復促進を組み合わせたニキビへの効果",
+        "summary_ja": "尋常性痤瘡は毛包角化亢進、Cutibacterium acnes増殖、異常炎症を伴う炎症性皮膚疾患である。本研究ではPhellodendron bark extract（PBE）とHucMSC由来エクソソームを共封入したアルギン酸ハイドロゲル（PEゲル）を開発した。PBEはC. acnes、S. aureus、E. coliに対し広域抗菌活性を示し（C. acnesのMIC約5 mg/mL）、エクソソーム共存下でも保持された。PEゲルはPBEを24時間以上徐放し、抗菌活性を72時間以上持続した。ラット耳瘡モデルで11日目に耳腫脹を74.9%改善し、細菌量を99.8%以上低減、毛包角化亢進を11.2%に低下、コラーゲン成熟度を73.4%に増加させた。PBEはTNF-α/IL-6を抑制し、エクソソームはVEGF/CD31を介した血管新生とコラーゲンリモデリングを促進した。PEゲルは抗菌・抗炎症"
+      },
+      {
+        "title": "Stem Cells and Derivatives in Inflammatory Bowel Disease: Mechanisms, Sources, and Therapeutic Perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43062771/",
+        "abstract": "Inflammatory bowel diseases (IBD), including Crohn's disease and ulcerative colitis, are chronic, relapsing disorders of the gastrointestinal tract for which a substantial proportion of patients fail to respond to current therapies, underscoring the need for novel strategies. Mesenchymal stromal cells (MSCs) and their derivatives have emerged as a promising frontier in regenerative medicine, owing to their self-renewal capacity, multilineage differentiation, and potent immunomodulatory properties. MSCs modulate the intestinal microenvironment by suppressing effector T-cell responses, expanding regulatory T (Treg) and B (Breg) cells, polarizing macrophages toward anti-inflammatory phenotypes, reducing pro-inflammatory cytokines, and shaping the gut microbiota. Most of these effects are mediated by paracrine signals carried by the MSC secretome and extracellular vesicles (EVs), which deliver cytokines, microRNAs, and proteins that promote tissue repair, angiogenesis, and resolution of inflammation. Cell-free approaches based on conditioned medium or exosomes offer further advantages over direct cell transplantation, including improved safety, easier standardization, and reduced immunogenicity. MSCs derived from bone marrow, adipose tissue, and perinatal tissues each show distinct biological and therapeutic features. The treatment of complex perianal fistulas in Crohn's disease is the most clinically advanced application, with darvadstrocel demonstrating safety and efficacy in clinical trials. Additional emerging indications include intestinal fibrosis and tissue regeneration. Key challenges remain, including cellular heterogeneity, lack of standardized manufacturing, and optimization of dosing and delivery. Future perspectives point toward a paradigm shift from cell-based therapies to next generation cell-free strategies, including secretome-derived formulations and engineered extracellular vescicles, which may provide safer, more scalable and ultimately disease-modifying therapeutic options for patients with IBD.",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11274-7",
+        "keyword": "Exosomes",
+        "title_ja": "炎症性腸疾患における幹細胞とその派生細胞：機序、供給源、治療の展望",
+        "summary_ja": "炎症性腸疾患（IBD）はクローン病や潰瘍性大腸炎を含む慢性再発性の消化管疾患で、既存治療に抵抗性の患者が多く新規戦略が求められる。間葉系間質細胞（MSC）とその派生物は自己複製能、多系統分化能、強力な免疫調節作用により再生医療の有望な選択肢となっている。MSCはエフェクターT細胞抑制、制御性T（Treg）・B（Breg）細胞拡大、マクロファージの抗炎症性極性化、炎症性サイトカイン減少、腸内細菌叢調整により腸管微小環境を調節する。多くはMSC分泌体や細胞外小胞（EV）によるパラクライン信号を介し、サイトカイン、microRNA、タンパク質を運搬し組織修復、血管新生、炎症消退を促進する。培養上清やエクソソームによる無細胞アプローチは安全性、標準化、免疫原性の面で利点がある。骨髄、脂肪組織、周産期組織由来MSCは各々異なる特徴を示す。クローン病の複雑性痔瘻が最も臨床応用が進み、darvadstr"
+      },
+      {
+        "title": "Stem Cell and Extracellular Vesicle Therapies for Subarachnoid Hemorrhage: Pathophysiology, Preclinical Evidence, and Translational Challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43062740/",
+        "abstract": "Subarachnoid hemorrhage (SAH) remains a devastating neurological condition with high mortality and morbidity, largely due to secondary brain injury mechanisms such as early brain injury (EBI) and secondary white matter injury (SWMI). Conventional surgical and medical interventions have not been sufficient to prevent long-term disability, prompting investigation into novel regenerative strategies. We conducted a narrative review of preclinical and limited clinical evidence on stem cell- and extracellular vesicle/exosome-based therapies for SAH, with emphasis on MSCs and their derivatives. PubMed/MEDLINE and Embase were searched between February and March 2025 for studies examining mechanisms, therapeutic targets, dosing, timing, and routes of administration. Stem cell-based therapies, particularly MSCs and their exosomes, have shown the ability to attenuate neuroinflammation, oxidative stress, excitotoxicity, and BBB disruption. Key mechanisms include modulation of the HMGB1/TLR4/NF-κB axis, polarization of microglia toward an anti-inflammatory phenotype, and secretion of trophic factors such as TSG-6, BDNF, and NT-3. Preclinical studies demonstrate improvements in neurological function, cognitive outcomes, and histological preservation across multiple SAH models. Exosome delivery of microRNAs (e.g., miR-129-5p, miR-193b-3p) has emerged as a potent cell-free strategy. Benefits have been reported after both early and delayed administration; however, differences in experimental models, therapeutic products, dosing methods, routes of administration, and outcome measures prevent direct cross-study comparisons and preclude identification of an optimal treatment window. MSC-derived therapies, hold significant promise for mitigating secondary injury and improving outcomes after SAH. Despite this promise, significant translational challenges concerning optimal dosing, delivery methods, and long-term safety must still be addressed. The path to clinical use requires rigorous validation in large animal models before advancing to human trials. Such validation may support the future clinical development of stem cell-based therapies for SAH.",
+        "source": "PubMed",
+        "doi": "10.1007/s12975-026-01506-w",
+        "keyword": "Exosomes",
+        "title_ja": "くも膜下出血に対する幹細胞および細胞外小胞療法：病態生理、前臨床エビデンス、および臨床応用への課題",
+        "summary_ja": "くも膜下出血（SAH）は死亡率・罹患率が高く、早期脳損傷（EBI）や二次性白質損傷（SWMI）が問題となる。従来治療では長期障害を防げず、再生医療への期待が高まっている。本レビューはMSCとその派生品を中心に、幹細胞・細胞外小胞/エクソソーム療法の前臨床および限られた臨床エビデンスを検討した。MSCおよびエクソソームは神経炎症、酸化ストレス、興奮毒性、BBB破綻を軽減し、HMGB1/TLR4/NF-κB軸の調節、ミクログリアの抗炎症性極性化、TSG-6・BDNF・NT-3等の分泌が関与する。miR-129-5pやmiR-193b-3pを搭載したエクソソームは無細胞戦略として有望で、早期・遅延投与双方で利益が報告される。しかし実験モデルや投与法の差異により最適治療時間窓は未同定である。実用化には至適用量・送達法・長期安全性の検証と大動物モデルでの厳密な評価が必要である。"
+      },
+      {
+        "title": "Statement of Retraction: Shikonin inhibited glycolysis and sensitized cisplatin treatment in non-small cell lung cancer cells via the exosomal pyruvate kinase M2 pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43059562/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1080/21655979.2026.2749384",
+        "keyword": "Exosomes",
+        "title_ja": "撤回声明：紫草素通过外泌体丙酮酸激酶M2通路抑制非小细胞肺癌细胞的糖酵解并增强顺铂治疗的敏感性",
+        "summary_ja": "申し訳ありませんが、ご指定の論文本文（Abstractや本文の内容）が提示されていません。タイトルと「Retraction（撤回）」という情報のみでは、研究内容の正確な要約ができません。\n\nタイトルから推測される内容は以下の通りです：シコニンがexosomal pyruvate kinase M2（PKM2）経路を介して解糖系を阻害し、非小細胞肺癌細胞のシスプラチン治療を感作したという研究。しかしこれは撤回されています。\n\n要約のため、論文のAbstractまたは本文をご提供ください。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Statement of Retraction: Exosomal circRNA FNDC3B promotes the progression of esophageal squamous cell carcinoma by sponging miR-490-5p and regulating thioredoxin reductase 1 expression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43059535/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1080/21655979.2026.2748729",
+        "keyword": "Exosomes",
+        "title_ja": "撤回声明：外泌体circRNA FNDC3B通过海绵吸附miR-490-5p并调控硫氧还蛋白还原酶1表达促进食管鳞状细胞癌进展",
+        "summary_ja": "『Exosomal circRNA FNDC3B promotes the progression of esophageal squamous cell carcinoma by sponging miR-490-5p and regulating thioredoxin reductase 1 expression』の撤回声明。本論文は、エクソソーム由来circRNA FNDC3BがmiR-490-5pをスポンジし、チオレドキシン還元酵素1（TXNRD1）の発現を調節することで食道扁平上皮癌の進展を促進するという内容であったが、撤回された。"
+      },
+      {
+        "title": "Cooperative DSN-Cas12a cascade and Cu/Zr-MOF nanozyme for label-free electrochemical detection of circulating exosomal miR-21 in colorectal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43058268/",
+        "abstract": "Circulating exosomal miR-21 has been investigated as a potential biomarker for colorectal cancer (CRC), but its low abundance poses challenges for highly sensitive detection. We report a signal-on, label-free electrochemical biosensor that integrates target-initiated duplex-specific nuclease (DSN)-assisted cyclic cleavage, Cas12a/crRNA trans-cleavage, Cu-doped Zr-UiO-66 (Cu/Zr-MOF) nanozyme catalysis, and DNA tetrahedron-based interfacial engineering for exosomal miR-21 detection. miR-21 triggers the DSN-Cas12a cascade, in which activated Cas12a cleaves 5'-hydroxyl single-stranded extensions from electrode-bound DNA tetrahedra, generating short 5'-phosphate strands. These strands bind Cu/Zr-MOF via Zr-O-P coordination, and the intrinsic nanozyme activity of Cu/Zr-MOF catalyzes TMB oxidation to produce electrochemical signals. Under optimized conditions, the biosensor shows a linear range of 50 aM-10 pM and a detection limit of 4.7 aM, with excellent selectivity against mismatched sequences and interfering miRNAs. It also distinguishes CRC patients from healthy controls, consistent with RT-qPCR. This strategy provides a robust signal-on and label-free approach for highly sensitive detection of circulating exosomal miR-21 in CRC patients, demonstrating its potential for liquid biopsy applications.",
+        "source": "PubMed",
+        "doi": "10.1007/s00604-026-08556-9",
+        "keyword": "Exosomes",
+        "title_ja": "協調的DSN-Cas12aカスケードとCu/Zr-MOFナノザイムによる大腸がん循環エクソソームmiR-21のラベルフリー電気化学検出",
+        "summary_ja": "大腸がん（CRC）のバイオマーカーである循環エクソソームmiR-21は低存在量のため高感度検出が課題である。本研究では、標的開始型DSN支援サイクリック切断、Cas12a/crRNAトランス切断、CuドープZr-UiO-66（Cu/Zr-MOF）ナノザイム触媒、DNAテトラヘドロン界面工学を統合したシグナルオン型・ラベルフリー電気化学バイオセンサーを報告する。miR-21がDSN-Cas12aカスケードを起動し、活性化Cas12aが電極固定DNAテトラヘドロンの5'水酸基一本鎖伸長部を切断して短鎖5'リン酸鎖を生成、これがZr-O-P配位でCu/Zr-MOFに結合し、ナノザイム活性がTMB酸化を触媒して電気化学シグナルを生じる。最適条件下で50 aM～10 pMの直線範囲、検出限界4.7 aMを示し、ミスマッチ配列や干渉miRNAに対し高い選択性を有する。CRC患者と健常者の識別も可能でR"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の論文から注目すべき5トピック：(1)運動が免疫細胞集団に与える影響と免疫チェックポイント阻害薬との相乗効果。腫瘍への免疫細胞浸潤が奏効の鍵であり、運動介入は非薬物的な併用戦略として有望。(2)アルギン酸ハイドロゲルに黄柏抽出物とHucMSCエクソソームを共封入した痤瘡治療。抗菌・抗炎症・修復の複合効果を狙う新規DDSとして注目。(3)IBDに対するMSCとその派生物。既存治療抵抗例への免疫調節・再生医療の可能性。(4)くも膜下出血への幹細胞・細胞外小胞療法。EBIや白質損傷への再生医療の翻訳課題を整理。(5)大腸がん循環エクソソームmiR-21の高感度電気化学検出。DSN-Cas12aとMOFナノザイムの融合によるリキッドバイオプシー実用化への展望。なお撤回論文2件は解釈に注意が必要。"
+}

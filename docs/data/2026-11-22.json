@@ -1,0 +1,83 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Engineered micro-nano system for ADSC-exosomes-based therapy of liver fibrosis via ROS elimination and PPARγ/PCK1 pathway reactivation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43065603/",
+        "abstract": "Liver fibrosis is a progressive hepatic disorder driven by persistent oxidative stress and dysregulated transcriptional reprogramming of hepatic stellate cells (HSCs). Effective clinical interventions remain extremely limited, as targeting a single pathological pathway provides only partial benefit and fails to fully arrest disease progression. Herein, by screening a dynamic human liver fibrosis organoid model, we identified miR-3682-3p as a previously unrecognized pro-fibrotic driver that was upregulated during fibrosis progression and associated with disease severity. To enable dual-pathway intervention, we engineered a targeted nanotherapeutic platform based on adipose-derived stem cell exosomes (ADSC-EVs), loaded with a miR-3682-3p inhibitor (in-3682) and surface-decorated with cRGDyk-modified cerium oxide (CeO",
+        "source": "PubMed",
+        "doi": "10.1016/j.mtbio.2026.103833",
+        "keyword": "Exosomes",
+        "title_ja": "肝線維症に対するADSCエクソソーム療法のための、ROS除去とPPARγ/PCK1経路の再活性化を介した工学設計マイクロ・ナノシステム",
+        "summary_ja": "肝線維化は持続的酸化ストレスと肝星細胞（HSC）の転写リプログラミング異常により進行する難治性疾患で、単一経路標的では進行を阻止できない。動的ヒト肝線維化オルガノイドモデルのスクリーニングにより、線維化進行で上昇し重症度と相関する新規促線維化ドライバーmiR-3682-3pを同定した。二経路介入のため、脂肪由来幹細胞エクソソーム（ADSC-EVs）を基盤とし、miR-3682-3p阻害剤（in-3682）を搭載、表面をcRGDyk修飾酸化セリウム（CeO）で装飾した標的ナノ治療プラットフォームを設計した。"
+      },
+      {
+        "title": "Small extracellular vesicle-associated miRNAs in lung cancer: therapeutic potential, drug delivery applications, and translational perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43064880/",
+        "abstract": "Small extracellular vesicle (EV)-associated microRNAs (miRNAs) have attracted interest as regulators of intercellular communication and candidates for lung cancer biomarkers and RNA therapeutics. However, uncertain cellular origin, analytical variability, and limited clinical validation complicate their translation.",
+        "source": "PubMed",
+        "doi": "10.1007/s40199-026-00695-x",
+        "keyword": "Exosomes",
+        "title_ja": "肺がんにおける小型細胞外小胞関連miRNA：治療の可能性、薬物送達への応用、およびトランスレーショナルな展望",
+        "summary_ja": "小細胞外小胞（EV）関連miRNAは、細胞間コミュニケーションの制御因子として注目され、肺癌のバイオマーカーやRNA治療薬の候補とされている。しかし、細胞起源の不明確さ、分析のばらつき、臨床的検証の不足が実用化を困難にしている。本論文は、肺癌におけるEV関連miRNAの治療可能性、drug delivery応用、translational perspectivesを論じる。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Brain-derived exosomes mediate antibody-resistant PRV transmission and blood-brain barrier disruption.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43065101/",
+        "abstract": "Exosomes are critical mediators of virus-host interactions and can transfer viral and host components that influence viral replication and tissue injury. Pseudorabies virus (PRV), a neurotropic alphaherpesvirus, has been reported to disrupt the blood-brain barrier (BBB) and cause severe neurological disease. However, the role of exosomes in PRV-induced neuropathogenesis remains unclear. Here, we systematically investigated the functional role of brain-derived exosomes generated during PRV infection. Exosomes were isolated from PRV-challenged and mock-treated mouse brains using differential ultracentrifugation coupled with cluster of differentiation (CD)9-/CD63-/CD81-based immunomagnetic enrichment. Purity was confirmed by transmission electron microscopy, nanoparticle tracking analysis, and western blotting, which excluded intact virion contamination. Notably, multimarker enrichment yielded higher recovery than CD63 alone. PRV-associated exosomes contained viral genomic DNA and glycoproteins and mediated efficient viral transmission in porcine kidney (PK)-15 cells. In a Transwell-based BBB model composed of bEnd.3 endothelial cells and astrocyte type I clone (C8-D1A), these exosomes induced significant barrier dysfunction. Consistently, intracranial administration of exosomes from PRV-infected mice resulted in neurological deficits and increased BBB permeability in vivo. Together, our findings identify brain-derived exosomes as previously underappreciated mediators of PRV dissemination and neurovascular injury. These findings reveal an exosome-associated pathway that may contribute to PRV neuropathogenesis.",
+        "source": "PubMed",
+        "doi": "10.1186/s13567-026-01856-1",
+        "keyword": "Exosomes",
+        "title_ja": "脑源性外泌体介导抗体的PRV传播和血脑屏障破坏。",
+        "summary_ja": "脳由来エクソソームはPRV感染時のウイルス-宿主相互作用の重要媒介因子だが、神経病原性への関与は不明であった。本研究ではPRV感染マウス脳からCD9/CD63/CD81免疫磁気濃縮でエクソソームを単離し、電子顕微鏡・NTA・ウェスタンブロットで純度を確認した。PRV関連エクソソームはウイルスゲノムDNAと糖タンパク質を含み、PK-15細胞への感染伝播を媒介した。bEnd.3内皮細胞とC8-D1AアストロサイトからなるTranswell BBBモデルで障壁機能障害を誘導し、in vivo頭蓋内投与でも神経症状とBBB透過性亢進を引き起こした。脳由来エクソソームは抗体抵抗性のPRV伝播と神経血管障害を媒介する新規経路として同定された。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **ADSC-exosomesによる肝線維化治療**：ROS除去とPPARγ/PCK1経路再活性化を両立する微細ナノシステム。単一標的の限界を克服する複合戦略として重要で、オルガノイドスクリーニング由来の新規促線維化因子は治療標的候補となる。今後は前臨床での有効性・安全性検証が課題。\n\n2. **sEV関連miRNAの肺癌応用**：バイオマーカーとRNA治療の二面性を持つが、細胞起源の不明確さや分析ばらつきが実用化の障壁。標準化と臨床検証の進展が鍵。\n\n3. **脳由来エクソソームとPRV感染**：抗体抵抗性のウイルス伝播と血液脳関門破綻を媒介する新機構。神経病原性理解と抗ウイルス戦略に貢献し得る。\n\n4. **Klotho研究の老化制御**：老化関連疾患への保護的役割が注目され、線維化・炎症抑制との関連で治療標的として期待。\n\n5. **NK細胞療法の拡張**：固形腫瘍や老化細胞除去への応用が進み、エクソソーム併用による送達改善が展望される。\n\n全体として、EVを基盤とした診断・治療の融合と、Klotho・NK細胞を含む多層的アプローチが今後の鍵となる。"
+}

@@ -1,0 +1,72 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Mixed-Ligand MOF/Quasi-solid Electrolyte ECL Sensor with TFF Pretreatment for miRNA Profiling in Ginseng Exosomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43071854/",
+        "abstract": "Ginseng exosomes were important carriers of functional microRNAs (miRNAs) and served as critical indicators for quality evaluation. However, accurate quantification of exosomal miRNAs was severely hindered by complex matrix interference. Herein, a highly sensitive electrochemiluminescence (ECL) sensing platform combined with a tangential flow filtration (TFF) separation technique was constructed for miR403a detection in ginseng exosomes. In the ECL sensing platform, a mixed-ligand metal-organic framework (m-MOF) was designed using H4TBAPy as the luminophore and N,N-diethylethylenediamine (DEDA) as the intramolecular co-reactant. This structure achieved a self-sufficient ECL probe without co-reactants. Meanwhile, a dual-network AAIG-Gel was prepared as a quasi-solid electrolyte. It was noteworthy that the co-reactant-free ECL mechanism of m-MOF matched well with the AAIG-Gel quasi-solid electrolyte system. The developed sensor exhibited a linear range from 1 fM to 1 nM with a detection limit of 0.19 fM for ginseng exosome miR403a detection. Furthermore, the results revealed that exosomal miR403a was most highly expressed in the main roots, followed by fibrous roots and leaves of ginseng, with obvious tissue specificity. This work provided a reliable and universal strategy for plant exosome purification and accurate detection.",
+        "source": "PubMed",
+        "doi": "10.1021/acssensors.6c04379",
+        "keyword": "Exosomes",
+        "title_ja": "混合配体MOF/准固态电解质ECL传感器结合TFF预处理用于人参外泌体中的miRNA分析",
+        "summary_ja": "人参エクソソーム中の機能性miRNA（特にmiR403a）は品質評価の重要指標だが、複雑なマトリックス干渉が正確な定量を妨げていた。本研究では、TFF（接線流ろ過）分離技術と高感度ECLセンシングプラットフォームを組み合わせた。センサーでは、H4TBAPyを発光体、DEDAを分子内共反応剤とする混合配位子MOF（m-MOF）を設計し、共反応剤不要の自己完結型ECLプローブを実現した。また、準固体電解質としてAAIG-Gelを調製し、m-MOFの共反応剤フリーECL機構と整合させた。本センサーは1 fM～1 nMの直線範囲、検出限界0.19 fMでmiR403aを検出した。さらに、miR403aは主根で最も高発現し、ひげ根、葉が続く組織特異性が明らかとなった。本研究は植物エクソソームの精製と正確な検出に信頼性の高い汎用戦略を提供する。"
+      },
+      {
+        "title": "Exosomal TGFBI Promotes Hair Follicle Regeneration by Enhancing Dermal Papilla Cell Inductivity via NF-κB Signaling and Driving Hair Matrix Cell Proliferation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43070680/",
+        "abstract": "Hair follicle (HF) regeneration is governed by epithelial-mesenchymal interactions between dermal papilla cells (DPCs) and epithelial progenitors. Transforming growth factor beta-induced protein (TGFBI) is an extracellular matrix-associated protein implicated in cell adhesion, proliferation, and tissue remodeling, but its role in HF biology has not been defined. In this study, we demonstrate that TGFBI functions as a critical extracellular regulator of HF growth. We found that TGFBI is predominantly secreted by DPCs via exosomes rather than as a free soluble protein. In vivo administration of recombinant TGFBI significantly increased hair density and HF numbers. In cultured DPCs, TGFBI overexpression enhanced cell proliferation, aggregation, and alkaline phosphatase activity, indicating improved hair-inductive characteristics. In hair matrix cells (HMCs), fluorescence tracking confirmed that HMCs can internalize DPC-derived exosomes, and depletion of TGFBI cargo from these exosomes significantly attenuated their ability to promote HMC proliferation. Transcriptomic analysis further showed that TGFBI altered the gene expression landscape of DPCs and was associated with the activation of IL-17, NF-kB, and TNF signaling pathways. Functional rescue assays using a specific inhibitor demonstrated that TGFBI-mediated enhancement of DPC inductivity and proliferation is dependent on the activation of the NF-κB signaling pathway. Collectively, these findings identify TGFBI as a vital functional cargo within DPC-derived exosomes that drives HF regeneration by enhancing DPC inductivity and supporting the proliferative state of HMCs through immune-associated regenerative signaling.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202601481R",
+        "keyword": "Exosomes",
+        "title_ja": "エクソソーム由来TGFBIはNF-κBシグナル伝達を介して真皮乳頭細胞の誘導能を高め、毛母細胞の増殖を促進することで毛包再生を促す",
+        "summary_ja": "毛包（HF）再生は、真皮乳頭細胞（DPCs）と上皮前駆細胞間の上皮-間葉相互作用により制御される。TGFBIは細胞接着・増殖・組織リモデリングに関与する細胞外マトリックス関連タンパク質だが、HF生物学における役割は未解明であった。本研究では、TGFBIがHF成長の重要な細胞外制御因子として機能することを示した。TGFBIは遊離可溶性タンパク質ではなく、主にエクソソームを介してDPCsから分泌される。組換えTGFBIのin vivo投与は毛密度とHF数を有意に増加させた。培養DPCsではTGFBI過剰発現が増殖・凝集・アルカリホスファターゼ活性を亢進し、毛誘導特性の改善を示した。毛母細胞（HMCs）では、DPC由来エクソソームの取り込みが確認され、TGFBIカーゴの枯渇によりHMC増殖促進能が有意に減弱した。トランスクリプトーム解析ではTGFBIがDPCsの遺伝子発現を変化させ、IL-17、"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **人参エクソソームmiRNA品質評価法の革新**：TFF分離とMOF/準固体電解質ECLセンサーを組み合わせ、複雑マトリックス干渉を克服しmiR403aを高感度定量。漢方素材の品質管理・機能性評価の標準化へ前進。\n\n2. **エクソソームTGFBIによる毛包再生**：TGFBIがNF-κBシグナルを介し真皮乳頭細胞の誘導能を高め、毛母細胞増殖を駆動。脱毛症治療や再生医療への応用が期待される新規標的。\n\n3. **Klothoと老化制御**：Klothoは加齢関連疾患・炎症抑制の鍵分子として注目され、腎臓・脳保護作用やFGF23連関の研究が進展。抗老化介入のバイオマーカー/治療標的として有望。\n\n4. **PF4と血小板-免疫連関**：血小板第4因子（PF4）は血管保護・造血調節・免疫細胞相互作用に関与。加齢や炎症におけるPF4動態の理解は、心血管・免疫疾患の新規治療戦略につながる。\n\n5. **NK細胞療法とsEVsの融合**：NK細胞療法はがん免疫の中心的選択肢となり、sEVs（小型細胞外小胞）は薬物送達・免疫調節の新ツールとして台頭。両者を組み合わせた次世代がん免疫療法の設計が今後の焦点。"
+}

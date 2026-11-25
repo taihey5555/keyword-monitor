@@ -1,0 +1,247 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "FGF23 in chronic kidney disease progression: biomarker or mediator?",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43070414/",
+        "abstract": "Fibroblast growth factor 23 (FGF23) is an important regulator of phosphate balance that rises early in chronic kidney disease (CKD). Evidence suggests that elevated FGF23 is associated with adverse renal outcomes. However, whether FGF23 is merely a biomarker or a direct mediator of CKD progression remains unresolved. In this narrative review, we synthesize current knowledge on the biology of FGF23, evaluate mechanistic and clinical evidence linking FGF23 to CKD progression, and highlight key areas for future research. We included observational and experimental studies indexed in PubMed from inception to March 2026 that examined the relationships between FGF23 and renal outcomes, as well as the underlying biological pathways. Available evidence suggests that elevated FGF23 levels are associated with an accelerated decline in estimated glomerular filtration rate, increased albuminuria, and a higher risk of kidney failure across diverse populations. Longitudinal data further demonstrate that rising FGF23 trajectories are associated with adverse renal outcomes. Experimental studies suggest that FGF23 may contribute to inflammation, oxidative stress, renin-angiotensin system activation, and tubulointerstitial fibrosis. However, the close interplay between FGF23, α-Klotho, phosphate load, and calciprotein particles complicates causal inference. Therefore, the pathogenic role of FGF23 in CKD progression remains unclear, underscoring the need for further research.",
+        "source": "PubMed",
+        "doi": "10.1080/0886022X.2026.2758468",
+        "keyword": "Klotho",
+        "title_ja": "慢性腎臓病の進行におけるFGF23：バイオマーカーか、それとも媒介因子か？",
+        "summary_ja": "FGF23はリン代謝の重要制御因子であり、CKD早期から上昇する。観察研究ではFGF23高値がeGFR低下加速、アルブミン尿増加、腎不全リスク上昇と関連し、縦断データでも上昇軌跡と不良な腎転帰の関連が示される。実験研究はFGF23が炎症、酸化ストレス、RAS活性化、尿細管間質線維化に関与しうると示唆する。しかしFGF23、α-Klotho、リン負荷、カルシプロテイン粒子の密接な相互作用が因果推論を困難にしている。FGF23が単なるバイオマーカーかCKD進行の直接のメディエーターかは未解決であり、今後の研究が必要である。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "CAR-based cellular therapy against breast cancer: a translational roadmap for engineering and clinical development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43077277/",
+        "abstract": "CAR-T cell therapy has transformed clinical outcomes in selected hematologic malignancies, but its translation to breast cancer remains limited by antigen heterogeneity, on-target/off-tumor toxicity, poor tumor trafficking, and an immunosuppressive tumor microenvironment. In this review, we provide a translational roadmap for CAR-based therapy in breast cancer, spanning target selection, therapeutic engineering, and clinical development. We performed a narrative targeted review of preclinical breast cancer models, clinical trials, conference abstracts, and registered CAR-based cellular therapy studies relevant to breast cancer, with evidence updated through 30 June 2026. The evidence was synthesized according to antigen selection, antigen density and safety, route of administration, engineering strategies, and biomarker-driven trial design. Preclinical models support the feasibility of CAR-based approaches in antigen-enriched settings, with activity reported against HER2, MUC1/MUC1*, ROR1, EGFR, c-MET, TROP2, B7-H3, Nectin-4, GD2, and mesothelin. Early clinical studies demonstrate that the administration is feasible with monitoring; however, objective responses remain uncommon, disease stabilization is the most frequent outcome, and clinically significant toxicities have occurred in selected programs. The most plausible near-term opportunities include HER2-positive disease with CNS or leptomeningeal involvement, antigen-enriched triple-negative breast cancer, and selected locoregional or high-antigen-density settings. Next-generation affinity-tuned, logic-gated, switchable, armored, and gene-edited platforms are being developed to improve tumor selectivity, trafficking, persistence, and resistance to immunosuppression. Overall, CAR-based therapy for breast cancer remains investigational, and future clinical trials should prospectively integrate quantitative target assessment, disease site, relevant biological and clinical barriers, manufacturing feasibility, and route of delivery to guide CAR-platform selection and correlative evaluation.",
+        "source": "PubMed",
+        "doi": "10.1080/2162402X.2026.2766633",
+        "keyword": "NK cell therapy",
+        "title_ja": "乳がんに対するCAR発現細胞療法：工学と臨床開発のためのトランスレーショナルロードマップ",
+        "summary_ja": "CAR-T細胞療法は血液悪性腫瘍で臨床転帰を変革したが、乳癌への応用は抗原不均一性、on-target/off-tumor毒性、腫瘍への遊走不良、免疫抑制性腫瘍微小環境により制限されている。本レビューは標的選択、治療工学、臨床開発にわたるtranslational roadmapを提示する。2026年6月30日までの前臨床モデル、臨床試験、会議抄録、登録研究を対象としたnarrative targeted reviewを実施し、抗原選択、抗原密度と安全性、投与経路、工学戦略、バイオマーカー駆動型試験デザインで統合した。前臨床ではHER2、MUC1/MUC1*、ROR1、EGFR、c-MET、TROP2、B7-H3、Nectin-4、GD2、mesothelinに対する活性が報告され、初期臨床では投与は監視下で実行可能だが客観的奏効は稀で、病勢安定が最多、有意な毒性も一部で発生した。近接機会"
+      },
+      {
+        "title": "Immunomodulatory effects of photobiomodulation in cancer: A narrative review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43075857/",
+        "abstract": "Photobiomodulation (PBM) has evolved beyond supportive oncology into a novel non-thermal cancer immuno-oncology strategy. Absorbed predominantly by cytochrome c oxidase, red and near-infrared lights at low-power modulate cellular bioenergetics, signalizing pathways to reprogram the tumor microenvironment. Although recent reviews addressed PBM in supportive care, syntheses on its direct immunomodulatory mechanism within tumors remain scarce, leaving a critical gap regarding how PBM could regulate immunity in cancer. Thus, the aim of this narrative review was to synthesize current evidence on PBM across cell-mediated and humoral immune responses in cancer. For this, specialized literature published between 1996 and 2026 was assessed through PubMed/Embase/Scopus. Innately, PBM triggers a mitochondrial superoxide anion burst accelerating macrophage phagocytosis, driving M1 polarization, and maturing S-100+/CD103+ dendritic cells. Adaptively, PBM rescues CD8+ T and natural killer cells from metabolic exhaustion by downregulating co-inhibitory checkpoints (PD-1, TIM-3) without expanding FoxP3+ regulatory T cells, selectively expanding Tcf-1+ progenitor-exhausted CD8+ T cells. This enhances meningeal lymphatic drainage and synergizes with immune checkpoint blockade and adoptive cell transfer. Conversely, PBM fails to engage direct humoral anti-tumor immunity, as B-lymphocyte accumulation proves dispensable for regression. Clinically, PBM safely manages treatment toxicities, bridging phototransduction with cell-mediated surveillance for multimodal cancer therapy.",
+        "source": "PubMed",
+        "doi": "10.1111/php.70174",
+        "keyword": "NK cell therapy",
+        "title_ja": "がんにおける光生物調節の免疫調節効果：ナラティブレビュー",
+        "summary_ja": "光免疫調節（PBM）は支持療法を超え、新たな非熱性がん免疫腫瘍学戦略となっている。赤色・近赤外光は主にシトクロムc酸化酵素に吸収され、細胞生体エネルギーを調節し腫瘍微小環境を再プログラムする。本レビューは1996～2026年の文献をPubMed/Embase/Scopusで評価し、細胞性・液性免疫へのPBMの影響を統合した。自然免疫では、PBMはミトコンドリアのスーパーオキシドアニオンバーストを誘発し、マクロファージ貪食能促進、M1極性化、S-100+/CD103+樹状細胞の成熟を駆動する。獲得免疫では、PD-1やTIM-3などの共抑制チェックポイントを下方制御し、FoxP3+制御性T細胞を増殖させずにCD8+T細胞とNK細胞の代謝性疲弊を回復させ、Tcf-1+前駆疲弊CD8+T細胞を選択的に拡大する。これにより髄膜リンパ排液を促進し、免疫チェックポイント阻害薬や養子細胞移植と相乗作用を示"
+      },
+      {
+        "title": "Failure in an infant with IL2RG-related severe combined immunodeficiency: a case report.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43075315/",
+        "abstract": "Severe combined immunodeficiency (SCID) caused by Interleukin-2 receptor gamma gene (IL2RG) mutations cause severe combined immunodeficiency (SCID), a fatal primary immunodeficiency disrupting T-cell and natural killer (NK)-cell development. Hematopoietic stem cell transplantation (HSCT) remains the sole curative option; however, graft failure and partial immune reconstitution pose critical hurdles, particularly in infants with severe infection and inflammatory complications. Here, we report the clinical course of an infant with genetically confirmed IL2RG-related SCID who suffered primary graft failure after cord blood transplantation and received rescue haploidentical HSCT. Whole-exome sequencing identified a hemizygous IL2RG c.854G>A variant, and immune testing revealed a typical T",
+        "source": "PubMed",
+        "doi": "10.1515/biol-2025-1373",
+        "keyword": "NK cell therapy",
+        "title_ja": "IL2RG関連重症複合免疫不全症の乳児における治療失敗：症例報告",
+        "summary_ja": "IL2RG遺伝子変異によるSCIDはT細胞とNK細胞の分化を障害する致死的原発性免疫不全症で、HSCTが唯一の根治的治療である。しかし重症感染や炎症合併症を有する乳児では生着不全や部分的免疫再構築が重大な問題となる。本報告は、遺伝学的に確認されたIL2RG関連SCIDの乳児が臍帯血移植後に一次生着不全を来し、救援的haploidentical HSCTを受けた経過を記述する。全エクソーム解析でIL2RG c.854G>Aヘミ接合体変異を同定し、免疫検査で典型的T細胞欠損を認めた。（約230文字）"
+      },
+      {
+        "title": "Idarubicin synergistically enhances NK cell-mediated cytotoxicity by upregulating the AML cell surface ligand ULBP2.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43025254/",
+        "abstract": "To compare the effects of four clinically used anti-AML agents on NK-92 cell-associated cytotoxicity and investigate whether idarubicin (IDA) enhances AML cell susceptibility to NK-mediated killing through ULBP2 upregulation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.leukres.2026.108368",
+        "keyword": "NK cell therapy",
+        "title_ja": "伊达比星通过上调AML细胞表面配体ULBP2协同增强NK细胞介导的细胞毒性。",
+        "summary_ja": "イダルビシン（IDA）がNK細胞媒介性細胞傷害を増強する機序を検討した研究。4種の抗AML薬の効果を比較し、IDAがAML細胞表面リガンドULBP2をアップレギュレートすることでNK-92細胞による殺傷感受性を高めることを示した。"
+      },
+      {
+        "title": "EnSurv: Deep Generative Survival Modeling with Application to Kidney Graft Outcomes",
+        "url": "http://arxiv.org/abs/2611.32127v1",
+        "abstract": "Kidney transplantation is the optimal treatment for life-threatening end-stage renal disease, providing significant survival advantages over dialysis. Given the severe shortage of donor organs, accurately predicting the time to premature graft failure is an essential clinical task for optimizing organ allocation and tailoring individualized immunosuppressive therapies. This study is motivated by a comprehensive United Network of Organ Sharing (UNOS) dataset containing 243,443 kidney transplant records with complex multi-region structures and high right-censoring rates. We propose EnSurv (survival engression), a deep generative survival framework designed to capture complex, non-linear clinical covariate interactions for modeling time to graft failure. Within a pre-additive noise model (pre-ANM) family, EnSurv optimizes an energy score augmented with pooled Kaplan-Meier tail completion to handle right-censoring. We identify the pooled-completion target of the objective, establish consistency for its best approximation within the pre-ANM family, and give conditions and error bounds for its relation to true conditional graft survival. EnSurv also provides global explainability through summaries of fitted feature weights and incorporates domain constraints through established clinical directions using a soft gradient penalty. Extensive simulation experiments were conducted to evaluate the performance of the proposed method in comparison with existing methods. Application to the UNOS cohort demonstrates that EnSurv effectively models individual and region-level effects, consistently outperforming baselines across evaluation metrics encompassing discrimination, calibration, and accuracy.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "EnSurv：深層生成生存モデリングと腎移植片転帰への応用",
+        "summary_ja": "腎移植は末期腎不全の最適治療だが、ドナー不足のため移植片不全までの時間予測が重要である。本研究は243,443件のUNOS移植記録（多地域構造・高右打ち切り率）に動機づけられ、非線形な臨床共変量交互作用を捉える深層生成生存モデルEnSurv（survival engression）を提案する。pre-additive noise model（pre-ANM）族内で、右打ち切りに対処するためenergy scoreにpooled Kaplan-Meier tail completionを付加して最適化する。目的関数のpooled-completion targetを特定し、pre-ANM族内での最良近似の一致性、真の条件付き移植片生存との関係の条件と誤差限界を示す。さらに fitted feature weightsの要約による大域的説明性と、soft gradient penaltyによる"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Optimal Transport Meets t-SNE: Integrated Visualization without Batch Effects in OT-tSNE",
+        "url": "http://arxiv.org/abs/2611.32402v1",
+        "abstract": "Visual exploration is an integral step in understanding the structure of datasets. However, systematic variation between datasets collected under different conditions, known as batch effects, can obscure shared structure and complicate their joint visualization. Existing methods often rely on cross-batch nearest-neighbor relations to integrate the batches. Yet, these local correspondences can be unreliable for challenging cross-batch geometries. We propose optimal-transport t-SNE (OT-tSNE), which replaces nearest-neighbor-based matching with globally coupled affinities derived from entropic optimal transport. Controlled synthetic experiments demonstrated that nearest-neighbor-based methods can deteriorate, while optimal-transport affinities and OT-tSNE embeddings remain robust. Across seven real single-cell datasets, we benchmarked OT-tSNE against a broad range of integration and visualization methods and found that it achieves a Pareto-efficient trade-off between batch mixing and biological conservation, and integrates batches particularly well.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "最適輸送とt-SNEの融合：OT-tSNEにおけるバッチ効果のない統合可視化",
+        "summary_ja": "異なる条件で収集されたデータ間の系統的変動（バッチ効果）は共有構造を隠し、統合可視化を困難にする。既存手法はバッチ間の最近傍関係に依存するが、困難なクロスバッチ幾何では局所的対応が信頼できない。本研究では、最近傍マッチングをエントロピック最適輸送に由来する大域的に結合されたアフィニティで置き換えるoptimal-transport t-SNE（OT-tSNE）を提案する。制御された合成実験では、最近傍ベース手法が劣化する一方、最適輸送アフィニティとOT-tSNE埋め込みは頑健であった。7つの実単一細胞データセットで広範な統合・可視化手法と比較した結果、OT-tSNEはバッチ混合と生物学的保存の間でパレート効率的なトレードオフを達成し、特にバッチ統合に優れることを示した。"
+      },
+      {
+        "title": "Annular-curvature effects on high-frequency azimuthal fluctuations in 3D PIC simulations of Hall-thruster plasmas",
+        "url": "http://arxiv.org/abs/2611.32385v1",
+        "abstract": "Azimuthal instabilities and associated plasma fluctuations play an important role in anomalous cross-field electron transport in Hall thrusters. Kinetic studies often approximate the annular discharge using local Cartesian domains, but the influence of the neglected curvature on threedimensional fluctuation dynamics remains insufficiently quantified. Here, three-dimensional cylindrical electrostatic particle-in-cell simulations assess this geometric effect in a reduced channel-plume model by varying the minimum computational-domain radius rmin at fixed channel width and imposed magnetic-field profile. The dominant channel wavenumbers on the centerline-reference scale remain similar, while pronounced radial amplitude asymmetry develops in the smaller-radius configurations. At rmin = 10 cm and 2 cm, the outer-channel electric-field amplitudes in the dominant wavenumber band exceed the inner-channel values by 26% and 53%, respectively. In the plume, low-wavenumber fluctuations favor the inner region, whereas high-wavenumber components favor the outer region. Density-electric-field covariance is preferentially concentrated in the outer channel and inner plume, with outer-to-inner magnitude ratios of 2.71 and 0.58 at rmin = 2 cm. These persistent spatial preferences connect the geometric redistribution of fluctuations to the correlated axial ExB drift contribution. For the 1.28 cm channel width studied, these results support retaining cylindrical geometry at rmin = 10 cm and 2 cm to resolve local fluctuations and transport-related correlations, even when the imposed magnetic-field profile is unchanged.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "ホールスラスタプラズマの3次元PICシミュレーションにおける高周波方位角変動に対する環状曲率効果",
+        "summary_ja": "本論文は、ホールスラスタプラズマの3次元円筒静電PICシミュレーションを用い、環状曲率が高周波方位角揺動に与える影響を評価した。チャネル幅と磁場分布を固定し、最小計算領域半径rminを変化させた。中心線基準の主要波数は同程度だが、小半径配置では顕著な半径方向振幅非対称が生じ、rmin=10cmと2cmで外側チャネルの電場振幅が内側より26%、53%大きい。プルームでは低波数揺動が内側、高波数成分が外側に偏る。密度-電場共分散は外側チャネルと内側プルームに集中し、rmin=2cmで外内比2.71と0.58を示す。これらの空間的選好は揺動の幾何学的再分布と軸方向ExBドリフト寄与を関連づける。1.28cm幅では、磁場分布が同一でも局所揺動と輸送相関の解像に円筒幾何の保持が支持される。"
+      },
+      {
+        "title": "$ε$-Seg++: Ensembling Across Hierarchy and Training Time for Label-Efficient EM Segmentation",
+        "url": "http://arxiv.org/abs/2611.32290v1",
+        "abstract": "Semantic segmentation of electron microscopy (EM) volumes is a central step in quantitative cell biology, but dense voxel-wise annotation is prohibitively expensive. $ε$-Seg showed that a hierarchical variational autoencoder trained on sparsely annotated voxels can yield competitive segmentations, but it classifies from its topmost latent level only and operates exclusively on 2D patches. We introduce $ε$-Seg++, which places a semantic expert at every level of the hierarchy and consolidates their predictions with a parameter-free product of experts. We further enable 3D inputs through a leakage-free sub-volume splitting protocol, which allows 2D and 3D models to be compared under identical sparse supervision. Because validation labels are just as scarce as training labels, we treat checkpoint selection as part of the method and average the top-ranked checkpoints, a second ensemble, this time across training time. On the BetaSeg FIB-SEM dataset, the multi-level experts improve 2D mean Dice by about 0.1 at 2,500 training labels. With up to 600 training labels, the 2D model matches or exceeds 3D $ε$-Seg at about one eleventh of its prediction cost. Above roughly a thousand labels, 3D inputs dominate, and at matched annotation cost 3D $ε$-Seg++ reaches a mean Dice of 0.905 versus 0.880 for D3PM, while predicting between 5.4 and 27 times faster (with our checkpoint ensemble or a single model, respectively). Checkpoint ensembling matches single-best selection on average and markedly improves the worst case when the validation set is small.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "$ε$-Seg++：ラベル効率の高いEMセグメンテーションのための階層と学習時間を横断するアンサンブル",
+        "summary_ja": "本論文は、電子顕微鏡（EM）画像のセマンティックセグメンテーションにおける高コストな密なボクセル注釈問題に対し、疎な注釈で学習する階層型変分オートエンコーダε-Segを拡張したε-Seg++を提案する。ε-Seg++は各階層レベルにセマンティックエキスパートを配置し、パラメータ不要のproduct of expertsで統合する。さらにリークのないサブボリューム分割プロトコルにより3D入力を可能にし、同一の疎監督下で2D/3Dモデルを比較可能とした。検証ラベルの不足に対処するため、チェックポイント選択を手法の一部とし、上位チェックポイントを平均する訓練時間方向のアンサンブルも導入する。BetaSeg FIB-SEMデータセットで、2,500ラベル時に2D平均Diceを約0.1改善し、600ラベル以下では2Dモデルが約11分の1の予測コストで3D ε-Segに匹敵または上回る。約1,000ラ"
+      },
+      {
+        "title": "Plasma Heating by Magnetic Reconnection and Alfven Waves in Collisionless Shocks",
+        "url": "http://arxiv.org/abs/2611.32287v1",
+        "abstract": "In collisionless shock waves, the ion and electron temperatures generally differ, and the mechanisms governing their energy partitioning remain one of the central unresolved problems in shock physics. Although energy can be exchanged through various plasma waves generated upstream and downstream of the shock, large-amplitude Alfven waves excited by ions reflected at the shock front play a particularly important role in high-Mach-number shocks. In this study, we focus on these large-amplitude Alfven waves and examine not only plasma heating through conventional wave-particle interactions but also preferential ion heating driven by magnetic reconnection within current sheets formed by trains of such waves. Using particle-in-cell (PIC) simulations, we find a correlation between ion heating and X-type magnetic field structures in the downstream region, and we suggest that magnetic reconnection and magnetic annihilation within these current sheets influence the energy partitioning between ions and electrons.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "無衝突衝撃波における磁気リコネクションとアルヴェン波によるプラズマ加熱",
+        "summary_ja": "無衝突衝撃波ではイオンと電子の温度が一般に異なり、そのエネルギー分配機構は衝撃波物理の未解決問題である。高マッハ数衝撃波では、衝撃波面で反射されたイオンが励起する大振幅アルヴェン波が重要となる。本研究はこの大振幅アルヴェン波に着目し、従来の波動粒子相互作用による加熱に加え、波列が形成する電流シート内の磁気リコネクションによる選択的イオン加熱を検討した。PICシミュレーションにより、下流領域のイオン加熱とX型磁場構造の相関を見出し、電流シート内の磁気リコネクションと磁気消滅がイオン・電子間のエネルギー分配に影響することを示唆した。"
+      },
+      {
+        "title": "Compressional-shear wave interference and wave suppression at exceptional-point gaps",
+        "url": "http://arxiv.org/abs/2611.32219v1",
+        "abstract": "Exceptional points (EPs) in complex elastic materials signify the coalescence of compressional and shear modes and bound a frequency gap where waves become evanescent. While their effects on wave propagation have been extensively studied, the physical mechanisms underlying their existence remain elusive. In this Letter, employing a transfer matrix formulation combined with Bloch's theorem, we demonstrate that the gaps bounded by EPs in layered media originate from destructive interference between the compressional and shear wave fields. We further reveal that the corresponding wavenumbers satisfy a Bragg-like condition with the unit cell thickness, causing the total wave field to become stationary, forming a standing wave. Finally, a finite layered medium is considered, where this mechanism is shown to manifest as forbidden wave propagation for both modes in the gap. These results provide a direct physical interpretation of EPs.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "圧縮波とせん断波の干渉および例外点ギャップにおける波の抑制",
+        "summary_ja": "複素弾性材料における例外点（EP）は圧縮波とせん断波のモードの合体を意味し、波がエバネッセントとなる周波数ギャップを境界付ける。EPの波動伝播への影響は広く研究されているが、その存在を支える物理的機構は未解明である。本論文では、転送行列法とBlochの定理を組み合わせ、層状媒質におけるEPに境界付けられたギャップが圧縮波場とせん断波場の破壊的干渉に起因することを示す。さらに、対応する波数が単位セル厚さに対してBragg的な条件を満たし、全波動場が定常化して定在波を形成することを明らかにする。最後に有限層状媒質を考察し、この機構がギャップ内で両モードの波伝播禁止として現れることを示す。これらの結果はEPの直接的な物理的解釈を与える。"
+      },
+      {
+        "title": "Benchmarking Protein Structure Tokenizers as Generation Targets for Language Models",
+        "url": "http://arxiv.org/abs/2611.32168v1",
+        "abstract": "Discrete structure tokenizers are the standard way to give a language model access to protein three-dimensional structure, yet they are selected on how accurately they can be read, their reconstruction fidelity, while the property that governs generation is how well a model can write them. We measure this property, writability, directly: holding the base model, data, recipe and compute fixed, we swap only the tokenizer and train the same 9B model to emit structure tokens residue by residue, over eight tokenizers, four compute budgets and three evaluation sets (96 cells). At 2B tokens final writability runs from TM 0.662 down to 0.378 under identical conditions, with five of the eight arms clearing the TM 0.5 mark at which a fold is usually called correct and three falling short of it. Neither codebook size nor reconstruction ceiling explains where an arm lands; the best and worst both use 8192 codewords. What does explain the spread is local structure preservation of the code space. In DPLM-2 a one-bit codeword error costs 0.019 TM where a random codeword costs 0.347, and the trained model's own errors are correspondingly local, at 0.51 of the random Hamming expectation; FoldToken4 fails both tests at the same codebook size and is 0.13 TM less writable. Three controls discipline how such a benchmark may be read. A same-recipe rerun puts the noise floor at $σ=0.0067$ TM, which collapses an apparent six-way ranking into four tiers. A reference-free geometry panel turns out to be nearly orthogonal to TM (Pearson $-0.58$), with the worst arm by TM producing the most physically valid backbones. And two pre-registered interventions are null for a reason the mechanism measurements reveal: the quantity they target saturates at 1.5B tokens while TM is still rising. All 131 evaluation cells, including raw generated token streams, are released.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "言語モデルの生成ターゲットとしてのタンパク質構造トークナイザーのベンチマーク評価",
+        "summary_ja": "本論文は、タンパク質3次元構造を言語モデルに与える離散構造トークナイザを、従来の再構成忠実度ではなく生成時の「書きやすさ（writability）」で評価する。ベースモデル・データ・レシピ・計算資源を固定し、トークナイザのみを8種、計算予算4段階、評価セット3種で計96条件比較した。2Bトークン時点の最終writabilityはTM 0.662〜0.378と大きく変動し、8種中5種がTM 0.5を超え3種が下回った。コードブックサイズや再構成上限では説明できず、コード空間の局所構造保持が決定的だった。DPLM-2では1ビット誤りがTM 0.019、ランダム誤りが0.347と局所的で、FoldToken4は同サイズで0.13低い。同一レシピ再実行のノイズ床σ=0.0067 TM、参照なし幾何パネルとTMの直交性（Pearson −0.58）、事前登録介入のnullなど制御も示す。全131評価"
+      },
+      {
+        "title": "Nonemissive Intermediates: Photon-Yield Limits and Timing Advantages for Optogenetic Light",
+        "url": "http://arxiv.org/abs/2611.32167v1",
+        "abstract": "Maximizing photon yield need not minimize the excitation required for a brief optogenetic stimulus. We consider a reversible luminescent source in which a mechanically prepared excitation can reach the emitter directly or through one nonemissive intermediate. Dividing the mechanically prepared photon yield by the yield from direct optical excitation of the emitter gives the probability of successful arrival. When intermediate loss is positive, the same two yields predict the mean photoluminescence emission time given independently calibrated terminal rates and thermal weights. A separate optical decay trace can test this prediction. For a fixed budget of squared transfer couplings and allocation-independent terminal losses, we prove that either direct transfer or a pure relay attains the maximum total yield. Above a sharp threshold in the intermediate loss rate, direct transfer is globally optimal. In a spectrally weighted model of the light-gated channel Chrimson, a fixed relay in this regime emits 5.21% fewer photons per prepared excitation than direct transfer. Its earlier emission produces the same mean conductance over 20 ms with 16.54% less effective preparation and leaves lower residual conductance at 50 ms. Weak-drive response kernels show how early photons contribute to activation while leaving time for closure. Sustained stimulation can favor direct transfer again. Replaying calibrated emission waveforms with a common spectrum in voltage-clamped cells would test which source meets both conductance targets with fewer prepared excitations.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "非発光中間体：光遺伝学的光に対する光子収率の限界とタイミング上の利点",
+        "summary_ja": "光子収量の最大化は、短時間の光遺伝学的刺激に必要な励起の最小化を必ずしも意味しない。機械的に準備した励起がエミッタへ直接または非発光中間体を介して到達する可逆的発光源を検討した。機械的準備光子収量を直接光学励起の収量で割ると到達成功確率が得られる。中間損失が正の場合、両収量は独立に較正された終端速度と熱重みから平均フォトルミネッセンス放出時間を予測し、別の光学減衰波形で検証可能である。二乗移動結合の固定予算と配分非依存の終端損失に対し、直接移動か純リレーのいずれかが最大総収量を達成することを証明した。中間損失率の急峻な閾値以上では直接移動が大域最適となる。光依存チャネルChrimsonのスペクトル重み付きモデルでは、この領域の固定リレーは準備励起あたり光子数が直接移動より5.21%少ないが、早期放出により20msで同一平均コンダクタンスを16.54%少ない実効準備で達成し、50msでの残留"
+      },
+      {
+        "title": "Contractible 4-Manifolds with Nonnegative Ricci Curvature and Euclidean Volume Growth",
+        "url": "http://arxiv.org/abs/2611.32112v1",
+        "abstract": "We prove that every contractible smooth 4-manifold admitting a complete Riemannian metric with nonnegative Ricci curvature and Euclidean volume growth is homeomorphic to $\\mathbb{R}^4$. More precisely, every compact subset lies in the interior of a connected compact regular domain with simply connected complement. The key construction produces compact domains whose boundaries admit positive scalar curvature and which are regular sublevels of global strictly three-convex Morse exhaustions. A topological criterion forces the exterior fundamental group to be trivial whenever it contains no nonabelian free subgroup and satisfies the resulting boundary, homological, and relative cell hypotheses; in the geometric application, this group is finite. Its proof uses a cellular formulation of the Gerstenhaber-Rothaus theorem and a smooth filling obstruction. The resulting complements give simple connectivity at infinity, and Freedman's recognition theorem completes the argument.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "非負のリッチ曲率とユークリッド体積成長を持つ可縮な4次元多様体",
+        "summary_ja": "本論文は、非負Ricci曲率とEuclidean体積増大を持つ完備Riemann計量を許容する任意の可縮滑らかな4次元多様体がℝ⁴に同相であることを証明する。より正確には、任意のコンパクト部分集合が、単連結な補集合を持つ連結コンパクト正則領域の内部に含まれることを示す。鍵となる構成は、境界が正のscalar曲率を持ち、大域的厳密3凸Morse exhaustionの正則sublevelとなるコンパクト領域を生成する。位相的判定法により、外部基本群が非可換自由部分群を含まず、境界・ホモロジー・相対cell仮説を満たすとき自明となる。幾何学的応用ではこの群は有限である。証明はGerstenhaber-Rothaus定理のcellular定式化と滑らかな充填障害を用いる。得られた補集合は無限遠での単連結性を与え、Freedmanの認識定理が議論を完成させる。"
+      },
+      {
+        "title": "Synchronized Memory-Dependent Intracellular Oscillations for a Cell-Bulk ODE-PDE Model in $\\mathbb{R}^3$",
+        "url": "http://arxiv.org/abs/2611.32077v1",
+        "abstract": "We develop a hybrid asymptotic-numerical theory for a cell-bulk ODE-PDE model in $\\mathbb{R}^3$ to analyze the long-range diffusive coupling of spatially localized, dynamically active cells. In the limit of small cell radius $\\varepsilon\\ll 1$, we derive a novel integro-differential ODE system for the intracellular dynamics, in which the 3-D bulk diffusion field is effectively replaced by a time-memory kernel whose strength depends on the inter-cell distances. To compute long-time solutions efficiently, we implement a fast time-marching scheme for this integro-differential system that is inspired by the \\emph{sum-of-exponentials} method. This scheme is applied to Sel'kov intracellular kinetics, which is a conceptual two-component model for a conditional oscillator. Our analysis reveals that, in contrast to the more strongly coupled 2-D case, each cell in $\\mathbb{R}^3$ experiences only a weak $\\mathcal{O}(\\varepsilon)$ coupling effect from the other cells in the population. Consequently, individual cells that exhibit oscillatory intracellular dynamics can only synchronize over very long time scales of order $\\mathcal{O}(\\varepsilon^{-1})$ when they are separated by $\\mathcal{O}(1)$ distances. Moreover, cells whose kinetic parameters are $\\mathcal{O}(\\varepsilon)$ close to their marginal stability threshold will be influenced by the weak $\\mathcal{O}(\\varepsilon)$ cell-cell coupling from the entire population. In order to resolve the effect of these subtle interactions on collective intracellular dynamics, we develop a novel matrix perturbation theory for the linear stability of steady-state solutions of the cell-bulk model. Finally, we validate our analytical predictions of the perturbed marginal stability thresholds of steady-state solutions using the time-marching numerical scheme, illustrating various types of synchronized intracellular dynamics that can emerge over long time scales.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "細胞-バルクODE-PDEモデルにおける同期した記憶依存性の細胞内振動（$\\mathbb{R}^3$の場合）",
+        "summary_ja": "本論文は、$\\mathbb{R}^3$における細胞-バルクODE-PDEモデルに対し、空間的に局在する動的細胞間の長距離拡散結合を解析するハイブリッド漸近数値理論を構築する。細胞半径$\\varepsilon\\ll 1$の極限で、3次元バルク拡散場を細胞間距離に依存する時間メモリカーネルで置換した新規の積分微分ODE系を導出。sum-of-exponentials法に着想を得た高速時間発展スキームをSel'kov細胞内動力学に適用する。2次元より弱い$\\mathcal{O}(\\varepsilon)$結合のため、振動細胞は$\\mathcal{O}(1)$距離で$\\mathcal{O}(\\varepsilon^{-1})$の長時間スケールでのみ同期する。臨界安定性閾値に$\\mathcal{O}(\\varepsilon)$近い細胞は集団全体の弱結合の影響を受けるため、定常解の線形安定性に対する新"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "Microalgae-Macrophage Hybrid Exosome-like Nanovesicles for Mitophagy Restoration and Wound Regeneration in Aging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43076591/",
+        "abstract": "The wound healing capacity in the elderly is significantly impaired, leading to increased susceptibility to inflammation and infection, and potentially contributing to reduced lifespan. In aged wounds, dysfunctional mitophagy in senescent cells (SnCs) results in the persistent release of pro-inflammatory cytokines, fostering a chronic inflammatory microenvironment that further delays tissue repair. To address this challenge, we developed a thermosensitive hydrogel loaded with hybrid exosome-like nanovesicles to enhance wound healing in aging. These hybrid nanovesicles (termed SP-M2-ENs) were generated by extrusion-mediated fusion of spirulina-derived exosome-like nanovesicles (SP-ENs) with M2 macrophage-derived exosome-like nanovesicles (M2-ENs). SP-ENs are rich in phycocyanin and exhibit strong antioxidant activity, whereas M2-ENs carry multiple anti-inflammatory cytokines and growth factors. This synergistic combination endows the hybrid system with enhanced anti-inflammatory and regenerative capabilities. To ensure sustained release and conformability to irregular wound topographies, the hybrid nanovesicles were encapsulated within a thermosensitive hydrogel (PF-127 gel), forming the final therapeutic construct, designated SP-M2-ENs@Gel. Comprehensive in vitro and in vivo studies demonstrated that SP-M2-ENs@Gel effectively scavenges reactive oxygen species (ROS), promotes tissue regeneration, stimulates angiogenesis, modulates macrophage polarization toward a reparative phenotype, and enables prolonged delivery of therapeutic agents. Specifically, SP-M2-ENs@Gel accelerates healing in aged wounds by restoring mitophagy function in senescent cells, thereby alleviating chronic inflammation. Collectively, this platform represents a promising strategy for overcoming senescence-impaired wound repair, highlighting the clinical translatability of engineered exosome-based therapies in regenerative medicine.",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.5c21869",
+        "keyword": "Exosomes",
+        "title_ja": "微細藻類-マクロファージハイブリッドエキソソーム様ナノ小胞による老化におけるマイトファジー回復と創傷再生",
+        "summary_ja": "加齢に伴い創傷治癒能力は低下し、炎症や感染への脆弱性が増す。老化創傷では老化細胞（SnCs）のマイトファジー機能不全が炎症性サイトカインの持続的放出を招き、慢性炎症環境が組織修復を遅延させる。本研究では、温感受性ヒドロゲルにハイブリッドエキソソーム様ナノ小胞を封入した治療系を開発した。スピルリナ由来小胞（SP-ENs）とM2マクロファージ由来小胞（M2-ENs）を押出融合し、SP-M2-ENsを作製。SP-ENsはフィコシアニン富含で抗酸化作用を、M2-ENsは抗炎症性サイトカインや成長因子を有し、相乗効果で抗炎症・再生能を高める。PF-127ゲルに封入したSP-M2-ENs@GelはROS除去、組織再生、血管新生、マクロファージの修復型極性化を促進し、老化創傷でマイトファジーを回復させ慢性炎症を軽減した。本プラットフォームは老化障害性創傷修復の有望な戦略である。"
+      },
+      {
+        "title": "Engineered MSC-Derived Nanovesicles Delivering Cascade-Responsive Self-Assembling Gd-Based Contrast Agents for Enhanced T2-Weighted MRI of Glioblastoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43074653/",
+        "abstract": "The clinical management of glioblastoma (GBM) remains severely constrained by the blood-brain barrier (BBB), which impedes both diagnostic and therapeutic interventions. Here, we present an innovative bioengineered platform (hMSC-NV-Gd-CBT) based on human mesenchymal stem cell-derived nanovesicles (hMSC-NVs) that are covalently modified with a self-assembling, small-molecule Gd-based contrast agent (N3-Gd-CBT). These nanovesicles retain the inherent BBB-penetrating capacity of their parent cells while offering substantially higher production yields than conventional hMSC-derived exosomes. Furthermore, the incorporation of glutathione/cathepsin B (CTSB) cascade-responsive self-assembling probe N3-Gd-CBT enables tumor-specific aggregation and accumulation of contrast agents, significantly enhancing T2-weighted MRI contrast in GBM. Systematic evaluation at 9.4 T reveals that hMSC-NV-Gd-CBT generates superior MRI contrast for GBM compared with the free N3-Gd-CBT probe, hMSC-NV-Gd-CBT co-treated with a CTSB inhibitor, and commercial Gd-DTPA. This strategy not only provides a novel diagnostic tool for brain tumors and other neurodegenerative diseases but also opens new avenues for developing next-generation T2-weighted MRI contrast agents.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.analchem.6c04670",
+        "keyword": "Exosomes",
+        "title_ja": "工学設計されたMSC由来ナノ小胞によるカスケード応答性自己集合型ガドリニウム系造影剤の送達：膠芽腫のT2強調MRI増強",
+        "summary_ja": "膠芽腫（GBM）の診療は血液脳関門（BBB）により制約されている。本研究では、ヒト間葉系幹細胞由来ナノ小胞（hMSC-NVs）に自己集合性低分子Gd系造影剤（N3-Gd-CBT）を共有結合修飾した新規バイオエンジニアリングプラットフォーム（hMSC-NV-Gd-CBT）を開発した。本ナノ小胞は親細胞のBBB透過能を保持しつつ、従来のエクソソームより高い産生収率を示す。さらにグルタチオン/カテプシンB（CTSB）カスケード応答性自己集合プローブの搭載により、腫瘍特異的な造影剤の凝集・蓄積が可能となり、GBMのT2強調MRIコントラストが显著に向上する。9.4Tでの系統的評価により、hMSC-NV-Gd-CBTは遊離プローブ、CTSB阻害剤併用群、商用Gd-DTPAと比較して優れたMRIコントラストを実現した。本戦略は脳腫瘍や神経変性疾患の新規診断ツールを提供するとともに、次世代T2強調MRI"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Orthobiologics 2026: State of the Art.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43076619/",
+        "abstract": "Orthobiologics are biologic products intended to promote healing and manage a range of musculoskeletal conditions. The field has evolved from a loosely defined collection of regenerative products into one that increasingly demands product-specific biology, indication-specific evidence, and disciplined postmarket surveillance. The strongest current clinical support remains for platelet-rich plasma for selected knee osteoarthritis and tendinopathy indications, whereas platelet-poor plasma may represent a distinct muscle-healing strategy. Cell-based therapies such as concentrated bone marrow aspirate and adipose-derived products remain biologically appealing but clinically heterogeneous, with outcomes influenced by harvest technique, processing method, route of administration, host phenotype, and disease severity. Perinatal tissue products, exosomes, and gene therapy occupy different positions on the translational spectrum: amniotic or placental products have the most mature clinical programs among emerging orthobiologic therapies, exosomes remain predominantly preclinical and highly regulated, and intra-articular gene transfer has now entered human trials with sustained transgene expression. A recurring theme across all presentations was that orthobiologics should no longer be studied as black-box interventions. Instead, progress will depend on linking clinical outcomes to rigorous product characterization, biomarker analysis, and scalable registry infrastructure. The Biologics Association Registry and Biorepository and the linked American Academy of Orthopaedic Surgeons Orthobiologics Registry represent an important attempt to generate real-world evidence while simultaneously measuring the biologic content of what is injected. It is important to summarize the state of the art across blood-derived products, cell-based therapies, advanced acellular therapeutics, and registry science and outline the priorities that should guide orthopaedic practice and research over the next cycle of orthobiologic development.",
+        "source": "PubMed",
+        "doi": "",
+        "keyword": "Exosomes",
+        "title_ja": "整形外科生物製剤2026：最新の知見",
+        "summary_ja": "Orthobiologicsは筋骨格系疾患の治癒促進を目的とする生物学的製剤で、製品特異的な生物学、適応別エビデンス、市販後調査が求められる段階に進化した。現時点で最も強い臨床的裏付けは、選択的膝OA・腱障害に対するPRPであり、PPPは筋治癒戦略として区別されうる。濃縮骨髄穿刺液や脂肪由来製品などの細胞療法は生物学的魅力があるものの臨床成績は不均一で、採取法、加工法、投与経路、宿主表現型、疾患重症度に影響される。周産期組織製品は新興領域で最も成熟し、エクソソームは前臨床段階かつ規制が強く、関節内遺伝子導入は持続的導入遺伝子発現を伴いヒト試験に到達した。共通課題はブラックボックス研究からの脱却であり、厳密な製品特性評価、バイオマーカー解析、登録制度基盤との連携が不可欠である。BARBやAAOS Orthobiologics Registryは、注入物の生物学的内容測定とリアルワールドエビデ"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Astrocyte Membrane-Engineered Extracellular Vesicles with Hypoxia-Remodeled Cargo Attenuate Reactive Astrocyte Programs and Promote Spinal Cord Repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43076521/",
+        "abstract": "Small extracellular vesicles (sEVs) represent promising cell-free therapeutics for spinal cord injury (SCI). However, their therapeutic efficacy remains limited by variable cargo potency and insufficient cell-selective delivery. Here, we developed a modular biomimetic vesicle platform integrating hypoxic remodeling of mesenchymal stem cell-derived sEV (MSC-sEV) cargo with astrocyte membrane engineering. In a rat model of SCI, hypoxia-preconditioned MSC-sEVs (Hyp-sEVs) attenuated C3-positive astrocyte reactivity and improved functional outcomes. Proteomic profiling and functional analyses identified ERBIN as a key therapeutic cargo enriched in Hyp-sEVs that contributed to suppression of the NOD2/IRF3/GBP1 signaling axis. To enhance astrocyte-directed delivery, Hyp-sEVs were fused with astrocyte-derived membranes to generate astrocyte membrane-engineered vesicles (A-EVs). A-EVs were preferentially taken up by astrocytes, and blocking and knockdown experiments implicated MERTK and the ligands PROS1/GAS6 in this uptake. A-EVs outperformed Hyp-sEVs in preserving spinal cord tissue and promoting functional recovery. Together, these findings indicate that coupling hypoxia-remodeled sEV cargo with astrocyte membrane engineering promotes preferential vesicle uptake by astrocytes, attenuates C3-positive astrocyte reactivity, and improves functional recovery after SCI in rats.",
+        "source": "PubMed",
+        "doi": "10.1021/acsnano.6c14884",
+        "keyword": "sEVs",
+        "title_ja": "星形胶质细胞膜工程化细胞外囊泡通过缺氧重塑货物减弱反应性星形胶质细胞程序并促进脊髓修复。",
+        "summary_ja": "低酸素処理した間葉系幹細胞由来small extracellular vesicles（Hyp-sEVs）は、脊髄損傷（SCI）ラットモデルでC3陽性アストロサイトの反応性を抑制し機能回復を改善した。プロテオミクス解析により、NOD2/IRF3/GBP1シグナル軸の抑制に寄与する治療的カーゴとしてERBINを同定した。アストロサイト指向性デリバリーを高めるため、Hyp-sEVsをアストロサイト由来膜と融合させたアストロサイト膜工学ベシクル（A-EVs）を作製した。A-EVsはアストロサイトに優先的に取り込まれ、MERTKおよびリガンドPROS1/GAS6が関与した。A-EVsはHyp-sEVsを上回る脊髄組織保護と機能回復促進効果を示した。低酸素リモデリングsEVカーゴとアストロサイト膜工学の組み合わせは、アストロサイト選択的取り込み、C3陽性アストロサイト反応性抑制、SCI後の機能回復改"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "本日の論文から注目すべき5トピックを選びます。\n\n**1. FGF23とCKD進展**：FGF23はリン代謝制御因子だが、CKD早期から上昇し腎不全リスクと関連する。バイオマーカーか媒介因子かの議論は、治療標的化の可能性を左右する重要な問いである。\n\n**2. イダルビシンによるNK細胞傷害増強**：IDAがAML細胞のULBP2をアップレギュレートしNK-92の殺傷能を高める。既存薬とNK細胞療法の併用という実用的戦略を示す。\n\n**3. 乳癌へのCAR-T療法ロードマップ**：抗原不均一性やTME抑制など障壁を整理し、標的選択から臨床開発までの翻訳指針を提示。固形癌CAR-Tの課題解決に資する。\n\n**4. 老化創傷治癒へのハイブリッドエキソソーム様ナノ小胞**：微細藻類-マクロファージ融合ナノ小胞でマイトファジーを回復し老化細胞の慢性炎症を抑制。加齢関連創傷治療の新機軸である。\n\n**5. アストロサイト膜工学sEVによる脊髄損傷修復**：低酸素処理sEVが反応性アストロサイトを抑制し機能回復を促進。NOD2/IR経路の関与が示唆され、SCI治療への応用が期待される。\n\n以上、エキソソーム/EV工学研究の治療応用と、既存薬・細胞療法の併用戦略が本日の注目点です。"
+}

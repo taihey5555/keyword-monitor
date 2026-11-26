@@ -1,0 +1,226 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Influence of menopausal status on the association between serum α-Klotho levels and depression in middle-aged and elderly women: A cross-sectional study from NHANES 2007-2016.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43084489/",
+        "abstract": "Depression tends to affect women more frequently, and hormonal and biochemical changes during menopause may increase the risk. While serum α-Klotho may influence depression through oxidative stress and inflammation, whether this association differs by menopausal status remains unknown. Therefore, we investigated the association between serum α-Klotho and depression in middle-aged and older women according to menopausal status. We included 5,373 women aged ≥ 40 years from National Health and Nutrition Examination Survey (NHANES) 2007-2016: 4,047 postmenopausal, 1,326 premenopausal. The Patient Health Questionnaire-9 (PHQ-9) measured depressive symptoms, with PHQ-9 ≥ 10 marking a positive screen. Serum α-Klotho was log-transformed and grouped into quartiles (Q1-Q4). We fit multivariable regression models adjusting for age, body mass index (BMI), and comorbid conditions, then ran stratified and interaction analyses for effect modification by age, marital status, BMI, hypertension, and serum uric acid. In postmenopausal women, we found lower odds of clinically relevant depressive symptoms at higher serum α-Klotho, reaching adjusted OR 0.70 (95% CI 0.52-0.95) in Q3. The premenopausal group (n = 1,326) showed no association. Sensitivity analyses sharpened the inverse pattern among women aged ≥ 55 years, those living alone, women with a normal BMI, and those with hypertension (OR range 0.30-0.45). Formally, though, the menopausal status × α-Klotho interaction was non-significant (P for interaction > 0.05). The timing and mechanisms remain unresolved. Longitudinal cohorts should establish both and show whether the Klotho pathway offers a realistic intervention target for groups at elevated depression risk.",
+        "source": "PubMed",
+        "doi": "10.1371/journal.pone.0362554",
+        "keyword": "Klotho",
+        "title_ja": "閉経状態が中年および高齢女性における血清α-Klotho値とうつ病との関連に及ぼす影響：NHANES 2007-2016の横断研究",
+        "summary_ja": "閉経に伴うホルモン・生化学的変化はうつ病リスクを高める可能性がある。血清α-Klothoは酸化ストレスや炎症を介しうつ病に影響しうるが、閉経状態による差異は不明である。NHANES 2007-2016の40歳以上女性5,373人（閉経後4,047人、閉経前1,326人）を対象に検討した。抑うつ症状はPHQ-9（≥10を陽性）で評価し、α-Klothoは対数変換し四分位群に分類、多変量回帰で年齢・BMI・併存疾患を調整した。閉経後女性ではα-Klotho高値で抑うつ症状のオッズが低く、Q3で調整OR 0.70（95%CI 0.52-0.95）であった。閉経前群では関連を認めなかった。感度分析では55歳以上、独居、正常BMI、高血圧者で逆相関が顕著だった（OR 0.30-0.45）。ただし閉経状態×α-Klothoの交互作用は非有意（P>0.05）。機序と時期は未解明であり、縦断研究が必要であ"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Effect of metformin on HIV reservoir, inflammation and cell differentiation in non-diabetic older people with HIV: a two-year placebo-controlled pilot trial (Metforaging).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43084581/",
+        "abstract": "People with HIV (PWH) on long-term antiretroviral therapy (ART) exhibit persistent inflammation, immune activation, and a stable HIV reservoir, contributing to non-AIDS age-related comorbidities. Metformin, an indirect mTOR inhibitor with immunometabolic properties, is a candidate geroprotective agent. We assessed its long-term immunological and virological impact in non-diabetic ART-suppressed PWH ≥50 years.",
+        "source": "PubMed",
+        "doi": "10.1093/infdis/jiag579",
+        "keyword": "NK cell therapy",
+        "title_ja": "メトホルミンが非糖尿病の高齢HIV感染者におけるHIVリザーバー、炎症、細胞分化に及ぼす影響：2年間のプラセボ対照パイロット試験（Metforaging）",
+        "summary_ja": "HIV長期治療中の非糖尿病高齢者（50歳以上）を対象に、メトホルミンがHIVリザーバー、炎症、細胞分化に及ぼす2年間の影響を検討したプラセボ対照パイロット試験。長期ART中のHIV感染者（PWH）は持続的炎症、免疫活性化、安定したHIVリザーバーを示し、非AIDS関連の加齢性併存症の原因となる。間接的mTOR阻害薬で免疫代謝作用を持つメトホルミンは老化保護薬の候補である。本研究はART抑制下の非糖尿病PWHにおける長期的な免疫学的・ウイルス学的影響を評価した。"
+      },
+      {
+        "title": "Development of a GPU-accelerated numerical simulation model for liver infection in realistic domains",
+        "url": "http://arxiv.org/abs/2611.34253v1",
+        "abstract": "Viral hepatitis reduces the functionality of the liver and constitutes a major global health concern because it oftentimes evolves to chronic inflammation leading to long term liver damage. Mathematical models on a mesoscopic scale abstract from only partly known cell-scale processes while providing an in-silico tool for understanding tissue-scale development of the disease. In this work, we investigate the interactions between virus and immune cells in a realistic three-dimensional liver geometries by using a reaction-diffusion model that reproduces infection courses with cure and with chronic developments. A GPU-based finite-difference implementation, released as an open-source Python library, achieves speedups greater than x30 for realistic mesh sizes, making three-dimensional simulations on realistic geometries computationally tractable. This provides a basis for future in-silico studies of treatment strategies, such as testing antiviral or immunomodulatory therapies, and for patient-specific simulations based on individual liver geometries, paving the way towards personalized healthcare.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "現実的な領域における肝臓感染症のGPU高速化数値シミュレーションモデルの開発",
+        "summary_ja": "ウイルス性肝炎は肝機能を低下させ、慢性炎症から長期的な肝障害へと進行しうる世界的な健康課題である。本論文では、治癒例と慢性化例の感染経過を再現する反応拡散モデルを用い、現実的な三次元肝臓形状内でのウイルスと免疫細胞の相互作用を解析した。GPUベースの有限差分実装をオープンソースPythonライブラリとして公開し、実用的なメッシュサイズで30倍以上の高速化を達成、三次元シミュレーションを計算可能にした。これにより抗ウイルス薬や免疫調節療法の評価、患者固有の肝形状に基づく個別化医療への応用基盤が提供される。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "From Immune Evasion to Synthetic Immune Privilege: Residual Immune Barriers in Universal Donor Cell Therapies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43084158/",
+        "abstract": "Universal donor cell therapies aim to combine the scalability and standardization of allogeneic manufacturing with reduced immune rejection across genetically diverse recipients. Current strategies primarily disrupt polymorphic human leukocyte antigen molecules and add constitutive protective modules against T cells, natural killer cells, antibodies, complement and phagocytes. However, immune compatibility cannot be inferred from the intended genotype alone. Reprogramming, genome engineering, clonal selection, expansion and differentiation can alter cellular identity, genomic integrity, proteostasis, inflammatory signaling and immune-ligand expression. In parallel, indirect antigen presentation, minor and non-HLA antigens, humoral memory, myeloid recognition and interindividual diversity in natural killer-cell repertoires may sustain rejection despite extensive immune editing. Here, we integrate these product-intrinsic, adaptive and innate barriers and examine the limitations of progressively accumulating permanent immune-evasion mechanisms. We argue that broader constitutive cloaking may increase manufacturing burden, compromise tissue-specific function and antiviral or antitumor surveillance, and protect cells that have become dysfunctional or unsafe. To address these trade-offs, we use the term Synthetic Immune Privilege to describe an integrative design framework for a programmable, localized and revocable protective state. This framework combines tissue-appropriate constitutive protection against predictable early threats with sensors of immune attack and cellular integrity, context-dependent decision circuits, temporally matched protective outputs and independent safety mechanisms. Rather than rendering grafts permanently invisible, Synthetic Immune Privilege seeks to deploy proportionate protection only when needed and withdraw it when the threat resolves or graft integrity is lost. Although its individual components have precedents in stem-cell and synthetic-cell engineering, their integration into universal donor grafts remains to be demonstrated and will require validation of circuit kinetics, stability, lineage compatibility and failure modes. We present this framework as a set of design principles for developing more controllable and adaptable universal donor cell therapies.",
+        "source": "PubMed",
+        "doi": "10.1007/s12015-026-11275-6",
+        "keyword": "NK cell therapy",
+        "title_ja": "从免疫逃逸到合成免疫特权：通用供体细胞疗法中残留的免疫屏障。",
+        "summary_ja": "本論文は、普遍ドナー細胞療法における免疫回避戦略の限界と新たな設計枠組みを論じる。現行戦略は多型HLA分子の破壊とT細胞・NK細胞・抗体・補体・食細胞への保護モジュール付加に依存するが、免疫適合性は遺伝子型のみからは推測できない。リプログラミングやゲノム工学、クローン選択、分化等が細胞同一性やゲノム完全性、炎症シグナル、免疫リガンド発現を変化させうる。また間接抗原提示、minor抗原・非HLA抗原、液性記憶、骨髄系認識、NKレパートリーの個人差が拒絶を持続させうる。著者らはこれらの障壁を統合し、恒久的免疫回避機構の蓄積が製造負担増大や組織特異的機能・抗ウイルス/抗腫瘍監視の損耗、機能不全細胞の保護につながると指摘。代わりに「Synthetic Immune Privilege」という、プログラマブルで局所的・撤回可能な保護状態の設計枠組みを提唱する。これは予測可能な初期脅威への組織適合的恒"
+      },
+      {
+        "title": "Biophysical Modulation of Lipid Membranes due to Interplay of Cholesterol, Interfacial Ions, and Antimicrobial Peptides: A Comprehensive Review of Membrane Electrostatics, Phase Behavior, and Peptide-Induced Perturbations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43084092/",
+        "abstract": "Biological membranes are highly dynamic, heterogeneous lipid bilayers whose physico-chemical properties are governed by a complex interplay of lipid composition, sterol abundance, and ambient environmental conditions. This comprehensive review synthesizes recent breakthroughs in membrane biophysics, examining how cholesterol content, lipid chain saturation, and ambient alkali metal salts collectively modulate membrane electrostatics, structural phase behavior, and susceptibility to host-defense antimicrobial peptides (AMPs). Drawing upon fundamental analytical models, including the Gouy-Chapman electrostatic double-layer theory, alongside robust experimental methodologies-such as Zeta Potential analysis, Isothermal Titration Calorimetry (ITC), Dynamic Light Scattering (DLS), Environment-Sensitive Fluorescence Spectroscopy, and Giant Unilamellar Vesicle (GUV) Phase-Contrast Microscopy-we elucidate the molecular rules underlying ion-lipid and peptide-lipid binding kinetics. Specifically, we evaluate the divergent electrostatic behaviors of monovalent cations (Na + ) across zwitterionic (DOPC, DMPC) and anionic (DOPG, DMPG) model lipid systems. While cholesterol systematically diminishes the negative surface charge density of anionic lipid membranes, it drastically shifts the ion-binding constants in a manner dictated by hydrophobic core saturation: enhancing Na + binding in fluid-phase unsaturated systems while inducing an opposite, suppressive trend in rigid, saturated lipid matrices. Furthermore, this review contextualizes these electrostatic anomalies within the broader mechanism of host selectivity exhibited by the potent α-helical AMP, NK-2. We examine how cholesterol acts as a critical structural gatekeeper, driving unique macro-scale membrane-membrane aggregation and structural collapse in sterol-doped bilayers exposed to AMPs. Collectively, these consolidated insights bridge the gap between microscopic ion-lipid coordination and macroscopic membrane behavior, providing pivotal design rules for advanced liposomal drug delivery platforms and novel biomimetic peptide therapeutics engineered to bypass escalating microbial resistance structures.",
+        "source": "PubMed",
+        "doi": "10.1007/s00232-026-00406-2",
+        "keyword": "NK cell therapy",
+        "title_ja": "コレステロール、界面イオン、抗菌ペプチドの相互作用による脂質膜の生物物理学的調節：膜の静電特性、相挙動、およびペプチド誘起摂動に関する包括的レビュー",
+        "summary_ja": "本レビューは、コレステロール含量、脂質鎖飽和度、アルカリ金属塩が膜の静電性、相挙動、抗菌ペプチド（AMP）感受性をどう調節するかを統合的に論じる。Gouy-Chapman理論やZeta電位、ITC、DLS、環境感受性蛍光、GUV顕微鏡を用い、イオン-脂質・ペプチド-脂質結合則を解明。コレステロールは陰性脂質膜の表面電荷密度を低下させ、疎水鎖飽和度に応じてNa⁺結合定数を逆方向に変化させる。さらにαヘリックスAMP・NK-2の宿主選択性や、コレステロールが膜凝集・構造崩壊を誘導する機構を整理し、リポソーム薬物送達や新規ペプチド治療設計への指針を示す。"
+      },
+      {
+        "title": "RAP: Radial-Angular Random Projection for Hyperbolic Representations",
+        "url": "http://arxiv.org/abs/2611.34298v1",
+        "abstract": "Random projection is a basic compression primitive for Euclidean representation learning, with the Johnson--Lindenstrauss lemma giving a target dimension $k=O(\\varepsilon^{-2}\\log n)$ independent of the ambient dimension. As hyperbolic representations gain increasing attention in modern Transformers, vision-language models, and large language models, the same need for oblivious dimensionality reduction arises, but no analogous primitive yet exists for hyperbolic representations. We study this gap. Two natural attempts fail in dual ways: a tangent-space scheme gives a clean local guarantee but is chart-bound and pays a curvature penalty, while a fully hyperbolic projection in the hyperboloid model is geometrically native but mixes radial and angular error before feeding them into the conditioning of $\\operatorname{arcosh}$. We propose radial-angular random projection (RAP), which preserves the radial coordinate exactly and applies a Euclidean random projection only to the angular direction, lifting the result back to the target hyperboloid. RAP is hyperbolic-to-hyperbolic by construction, costs one Gaussian matrix-vector product, and reduces hyperbolic compression to a normalized angular JL question on $\\mathbb{S}^{d-1}$. We prove a finite-set RAP guarantee with explicit $\\sinh(\\sqrt{c}\\,r_x)\\sinh(\\sqrt{c}\\,r_y)$ conditioning, complemented by a local tangent-space JL theorem and an arcosh-conditioning lemma for the fully hyperbolic comparator. Across an origin-centered broad-radius point cloud, a balanced tree, a clustered Gaussian, and the WordNet noun hierarchy, RAP attains the lowest mean relative distortion in every $(n,k)$ cell, reducing distortion over the strongest hyperbolic baseline by approximately $48\\%$--$49\\%$ on broad-radius data. RAP also scales to million-point datasets and improves retrieval on vision--language representations over hyperbolic projection baselines.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "RAP：双曲表現のための動径-角度ランダム投影",
+        "summary_ja": "本論文は、双曲表現における次元圧縮プリミティブが未整備である課題に対し、RAP（Radial-Angular Random Projection）を提案する。接空間法は局所保証を持つがチャート依存で曲率ペナルティを負い、双曲面モデル上の完全双曲射影は幾何学的に自然だが動径・角度誤差がarcoshの条件付け前に混ざる。RAPは動径座標を厳密に保存し、角度方向のみにEuclideanランダム射影を適用して双曲面上へ戻す。構成上hyperbolic-to-hyperbolicで、ガウス行列ベクトル積1回のコストで、双曲圧縮をS^{d-1}上の正規化角度JL問題に還元する。有限集合保証をsinh(√c r_x)sinh(√c r_y)の条件付けで証明し、局所接空間JL定理とarcosh条件付け補題も示す。広半径点雲、平衡木、クラスタガウス、WordNet名詞階層で全(n,k)セル中最低保証を達成し"
+      },
+      {
+        "title": "Quantum-centric assessment of saturated ferromagnetism beyond the flat-band limit",
+        "url": "http://arxiv.org/abs/2611.34204v1",
+        "abstract": "Saturated ferromagnetism has been proven for every on-site repulsion $U > 0$ in Hubbard models with a flat lowest band, and the interaction required for it grows with the band width $W$ when the band becomes dispersive. We study the dispersive case at quarter filling by quantum-selected configuration interaction and sample-based quantum diagonalization with IBM Quantum's Heron processors, focusing on the quantized square of the total spin of the computed states. We treat a sawtooth chain of 16 unit cells on 64 qubits, whose full configuration space of $1.1\\times 10^{14}$ determinants exceeds that of one of the largest full configuration interaction calculations, and obtain the stability diagram of saturated ferromagnetism on the decorated square lattice in the plane of $U$ and $W$. For the chain, a subspace of only $3\\times 10^{-5}$ of the full configuration space gives a state with more than $97\\%$ of its weight in the sector of maximal spin. For the decorated square lattice of $4\\times 3$ unit cells on 48 qubits, the computed states in subspaces of less than $1\\%$ of the full configuration space switch from low-spin states to nearly fully polarized states at $U \\simeq 2W$. The calculations also give a rigorous lower bound of $1.9W$ on the critical interaction of the $4\\times 3$ lattice.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "フラットバンド限界を超えた飽和強磁性の量子中心評価",
+        "summary_ja": "平坦な最低バンドを持つハバード模型では任意のオンサイト斥力U>0で飽和強磁性が証明されているが、バンドが分散的になると必要な相互作用はバンド幅Wとともに増大する。本研究では四分の一充填の分散系を、量子選択的配置間相互作用とIBM QuantumのHeronプロセッサによるサンプルベース量子対角化で調べ、計算状態の全スピン二乗の量子化に着目した。64量子ビット上の16単位セルの鋸歯状鎖（1.1×10^14個の行列式からなる全配置空間）を扱い、U-W平面における装飾正方格子上の飽和強磁性の安定性ダイアグラムを得た。鎖では全配置空間の3×10^-5のみの部分空間で最大スピン部門に97%以上の重みを持つ状態が得られた。48量子ビット上の4×3単位セルの装飾正方格子では、全配置空間の1%未満の部分空間でU≃2Wにおいて低スピン状態からほぼ完全偏極状態へ転移し、臨界相互作用に1.9Wの厳密な下限も与え"
+      },
+      {
+        "title": "Cell-Type-Specific Expression Is Hard to Predict from Bulk, but It Is Still Useful",
+        "url": "http://arxiv.org/abs/2611.34166v1",
+        "abstract": "Single-cell-informed deconvolution provides cell-type-resolved features for clinical bulk RNA cohorts. Most existing methods predict the proportions $π_k$ of the $K$ constituent cell types (CTs). Fewer predict cell-type-specific expression (CTSE) $μ_{kg}$ of gene $g$ in CT $k$, which can capture cell states that proportions miss, but recent benchmarks find it much harder. We explain this gap with closed-form accuracy bounds. For CTSE, we derive an $R^2$ ceiling for per-gene linear estimators. For proportions, the best linear estimator, which pools evidence across genes, has a closed-form $R^2$, and a computable lower bound on it predicts which CTs are learnable. We study targeted deconvolution of 106 biologically curated (CT, gene) pairs, found post hoc to have higher learnability scores. On overall survival in non-small cell lung cancer, estimation difficulty does not predict prognostic value across these targets. Yet a sparse survival model on deconvolved features, mostly CTSE, predicts survival as well as a sparse model on the bulk genes themselves, while attributing its signal to specific cell types. Some deconvolved CTSE features reveal prognostic signal not seen in the corresponding bulk gene.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "細胞型特異的発現はバルクから予測するのは難しいが、それでもなお有用である",
+        "summary_ja": "一括RNAデータから細胞型特異的発現（CTSE）を予測するのは、遺伝子ごとの線形推定に閉形式のR²上限が存在するため困難である。一方、遺伝子間で証拠を統合する細胞型比率の最良線形推定は閉形式のR²を持ち、計算可能な下限から学習可能な細胞型を予測できる。この差を閉形式の精度限界で説明する。生物学的に選定された106の（細胞型、遺伝子）ペアの標的型デコンボリューションを検討したところ、非小細胞肺がんでの全生存に対する予後予測値は推定困難度では予測できなかった。しかしデコンボリューション特徴（主にCTSE）上の疎な生存モデルは、バルク遺伝子自体の疎モデルと同等に生存を予測しつつ、信号を特定の細胞型に帰属できる。一部のCTSE特徴は対応するバルク遺伝子に見られない予後信号を示す。"
+      },
+      {
+        "title": "Foundation interatomic potentials capture structural disorder in metallic glasses",
+        "url": "http://arxiv.org/abs/2611.34156v1",
+        "abstract": "Foundation machine-learning interatomic potentials transfer well across chemical and structural space, yet their reliability for highly disordered metallic states is less established. Metallic glasses are a demanding benchmark: they have traditionally been modeled with Embedded Atom Method (EAM) potentials fitted to specific compositions, while ab initio molecular dynamics remains too expensive at the required sizes and timescales. Using the prototypical Cu-Zr-Al glass, we show that foundation potentials capture structural disorder, reproducing the structure, quenching dynamics, and elastic, mechanical and thermal properties of the amorphous state at near first-principles accuracy. We benchmark MACE foundation models against a classical EAM potential along molecular dynamics quenches, validating against density functional theory and experiment, first at Cu46Zr46Al8 and then across the good glass-forming region of the ternary. We further test two specialization routes: fine-tuning on glass structures generated with Lennard-Jones surrogate models, and on automatically generated small periodic cells (ASSYST). Models pre-trained on databases that include non-equilibrium liquid and amorphous configurations, such as OMAT, are accurate and transferable across composition out of the box, clearly outperforming the composition-specific EAM potential. Fine-tuning on target glass structures brings only modest gains, while specialization on small crystalline cells degrades the description of disorder. The readiness of foundation potentials for disordered metals is therefore set mainly by the diversity of their pre-training data rather than by system-specific fine-tuning, shifting the modeling effort from bespoke dataset generation to pre-training coverage and careful validation of the resulting dynamics.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "基礎原子間ポテンシャルが金属ガラスの構造的不規則性を捉える",
+        "summary_ja": "基盤機械学習原子間ポテンシャルは化学・構造空間を越えて良好に転移するが、高秩序度の金属ガラス状態での信頼性は未確立である。本研究はCu-Zr-Alガラスを対象に、MACE基盤モデルが構造無秩序・急冷ダイナミクス・弾性・機械的・熱的性質をほぼ第一原理精度で再現することを示した。DFTと実験で検証し、非平衡液体・アモルファス配置を含むOMAT等で事前学習したモデルは組成を越えて転移可能で、組成特化EAMを凌駕する。ガラス構造へのファインチューニングは限定的効果にとどまり、小結晶セルへの特化は無秩序記述を劣化させた。基盤ポテンシャルの無秩序金属への適用可否は、系特化調整よりも事前学習データの多様性に依存する。"
+      },
+      {
+        "title": "A Calibration-Referenced Protocol for Measuring Decision Stability under Reference Bank Compression",
+        "url": "http://arxiv.org/abs/2611.34134v1",
+        "abstract": "Reference banks used for industrial image inspection can be compressed to fit a deployment budget, but the resulting anomaly decisions depend on both the compressed scores and the operating threshold. We present a four-step protocol that compares compression methods at matched deployment sizes, establishes a reference distribution from 200 recalibrations, evaluates disagreement against two calibration benchmarks, and measures changes by distance from the full-bank threshold. With WideResNet-50, budget-matched product quantization (PQ) at the 10% budget has the lowest decision disagreement among five matched methods, including int8 scalar quantization, on VisA and MVTec AD at both operating levels. Int8 scalar quantization gives lower disagreement than PQ at the other four budgets. On MVTec AD at the lower operating level, PQ meets the calibration median in 34/39 cells and the upper quantile in 39/39 cells. Category-equally weighted image-level AUROC loss at this budget ranges from 0.0003 to 0.0037 across the evaluated configurations. On VisA at the 1% budget and a 1% operating level, disagreement reaches 28.12% (95% CI 23.25--33.58%) among near-threshold anomalies and 1.30% (0.79--2.14%) across the normal holdout. The 10% budget-matched PQ setting retains the lowest disagreement among four compared methods with ResNet-18, with clean reference banks, and when thresholds are estimated from normal-directory probes. The protocol connects deployment size to a calibration-referenced decision measure and identifies the evaluation populations most informative for inspection.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "参照バンク圧縮下での意思決定安定性を測定するためのキャリブレーション基準プロトコル",
+        "summary_ja": "本論文は、産業画像検査用リファレンスバンクの圧縮が異常判定に与える影響を評価する4段階プロトコルを提案する。展開サイズを揃えた圧縮手法比較、200回の再校正による参照分布の構築、2つの校正ベンチマークに対する不一致評価、フルバンク閾値からの距離による変化測定を行う。WideResNet-50では、10%予算のproduct quantization（PQ）がint8スカラー量子化を含む5手法中で最小の判定不一致を示し、他の4予算ではint8がPQを上回った。MVTec AD低運用レベルではPQが校正中央値を34/39セル、上側分位を39/39セルで満たす。AUROC損失は0.0003～0.0037。VisAの1%予算・1%運用レベルでは、閾値近傍異常で不一致28.12%、正常ホールドアウトで1.30%に達する。10%PQ設定はResNet-18やクリーンな参照バンク、正常ディレクトリプロー"
+      },
+      {
+        "title": "Reconstruction of Poisson Random Measures in the Variational Framework with Applications to Jump-Driven SPDEs",
+        "url": "http://arxiv.org/abs/2611.34119v1",
+        "abstract": "We establish a reconstruction principle for Poisson random measures arising in compactness arguments for jump-driven stochastic partial differential equations. A basic difficulty in such arguments is that, after a Skorokhod-type representation, almost sure convergence of the solution processes does not by itself identify the limiting stochastic integral, since integration with respect to a compensated Poisson random measure is not a pathwise continuous functional of the solution and the noise.\n  We address this problem in the variational framework of a Gelfand triple $V\\hookrightarrow H\\equiv H^\\ast\\hookrightarrow V^\\ast$ for equations with locally monotone drift. Starting from a tight sequence of approximating solutions in $D([0,T];H)\\cap L^α(0,T;V),$ we construct, on the represented probability space, a time-homogeneous Poisson random measure with the original Lévy intensity and compensator, compatible with the limiting filtration, such that the limiting process solves the corresponding SPDE.\n  The main ingredient is a noise bridge. Together with a shifted dyadic approximation of the solution, the increments of the solution path over dyadic time cells approximate the compensated noise increments; since the time integral of the drift is continuous in $H$, no regularisation of the drift is needed. The jumps are then recovered by a measurable registration procedure, while injectivity of the jump coefficient permits reconstruction of the corresponding marks through a Borel inverse obtained from the Lusin--Suslin theorem. The reconstruction is performed simultaneously at all truncation levels; consistency of the resulting finite jump measures and a monotone patching argument yield a Poisson random measure with the full Lévy measure. Under the injectivity assumption, no enlargement of the represented probability space is required.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "変分枠組みにおけるポアソンランダム測度の再構成とジャンプ駆動型SPDEへの応用",
+        "summary_ja": "本論文は、ジャンプ駆動型SPDEのコンパクト性議論に現れるPoisson random measureの再構成原理を確立する。Skorokhod型表現後も、補償付きPoisson測度に関する積分が解とノイズのpathwise連続汎関数でないため、解過程の概収束だけでは極限の確率積分を特定できない問題を扱う。局所単調ドリフトを持つ方程式に対しGelfand triple V↪H≡H*↪V*の変分枠組みで、D([0,T];H)∩L^α(0,T;V)におけるタイトな近似解列から、元のLévy強度とcompensatorを持つ時間一様Poisson random measureを構成し、極限過程が対応するSPDEを解くことを示す。主要要素はnoise bridgeであり、解のdyadicシフト近似と組み合わせ、dyadic時間セル上の解増分が補償ノイズ増分を近似する。ドリフトの時間積分はHで連続な"
+      },
+      {
+        "title": "Gradient Optical Diffraction Tomography Using Deep Learning-Assisted Amplitude Estimation",
+        "url": "http://arxiv.org/abs/2611.34059v1",
+        "abstract": "Gradient Optical Diffraction Tomography (GODT) enables the non-invasive reconstruction of a spatial derivative of the 3D sample's refractive index distribution, providing enhanced sensitivity to subtle refractive index variations through gradient-based contrast. Implemented using lateral shearing interferometry (LSI), GODT benefits from a common-path architecture that provides environmental stability and high signal-to-noise ratio measurements. Unlike conventional optical diffraction tomography (ODT), which requires numerical integration of LSI-derived phase gradients to recover the object phase, GODT enables direct tomographic reconstruction from the LSI data. Notably, GODT requires derivatives of both the phase and amplitude of the object fields as input. While the phase derivative can be readily extracted from LSI data, the amplitude gradient cannot be directly retrieved. Thus, in the original GODT formulation, the amplitude gradient was assumed to be negligible, limiting the accuracy of the resulting 3D reconstruction. In this work, we introduce amplitude-informed GODT (AI-GODT), which employs physics-informed supervised deep learning to estimate the missing amplitude gradient based on accessible LSI data, specifically the fringe modulation. The proposed approach, applying a ResNet architecture and training on computer-generated data, is validated through numerical simulation and experimental measurements of both a well-characterized test object and primary neuronal cell culture, demonstrating the network's ability to generalize to diverse samples. We show that incorporation of the recovered amplitude gradient into the GODT reconstruction pipeline improves the 3D reconstruction quality, especially in its out-of-focus regions. The software and datasets are openly available to facilitate reproducibility and further development.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "深層学習支援振幅推定を用いた勾配光学回折トモグラフィー",
+        "summary_ja": "Gradient Optical Diffraction Tomography（GODT）は、3D試料の屈折率分布の空間微分を非侵襲的に再構成し、勾配ベースのコントラストにより微細な屈折率変化への感度を高める。LSIを用いた共通光路構成で環境安定性と高SNRを実現し、従来のODTと異なりLSIデータから直接トモグラフィ再構成が可能である。しかしGODTは位相と振幅双方の勾配を入力に必要とし、位相勾配はLSIから抽出できるが振幅勾配は直接取得できず、従来は無視され再構成精度が制限されていた。本研究では、物理情報を組み込んだ教師あり深層学習により、LSIのフリンジ変調から欠落した振幅勾配を推定するamplitude-informed GODT（AI-GODT）を提案する。ResNetアーキテクチャを計算機生成データで訓練し、数値シミュレーションと実験で検証した。回復した振幅勾配の導入により、特"
+      },
+      {
+        "title": "Dopamine: A Cartesian grid large-eddy-simulation framework for coastal ocean modelling of free-surface waves",
+        "url": "http://arxiv.org/abs/2611.34058v1",
+        "abstract": "We present a Cartesian staggered-grid large-eddy simulation framework for modelling coastal ocean waves using the Dopamine solver. The framework combines a geometric volume-of-fluid method for simulating free-surface wave evolution with one-way-coupled Lagrangian point-particle tracking for heavy and buoyant particles. A ghost-cell immersed-boundary method represents stationary solid boundaries, including the seabed and coastal obstacles, and their interaction with free-surface waves. The framework includes the Vreman and anisotropic minimum-dissipation (AMD) sub-grid-scale models for simulating near-wall turbulence. Comparisons with analytical solutions and established experimental and numerical benchmarks illustrate the framework's ability to reproduce wave dynamics and particle motion. The results provide promising insights into the framework's capabilities for coastal ocean modelling applications focused on investigating small-scale turbulent physics using a low-numerical-dissipation approach. The solver runs on multi-CPU architectures, with two-fluid strong- and weak-scaling efficiencies at 512 ranks relative to 64 ranks of up to 77% and 73%, respectively, and a single-GPGPU build has been verified against the CPU solver.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "ドーパミン：自由表面波の沿岸海洋モデリングのためのデカルト格子ラージエディシミュレーション・フレームワーク",
+        "summary_ja": "Dopamineソルバーを用いた沿岸海洋波浪モデリング向けの直交スタッガード格子LESフレームワークを提示する。自由表面波の幾何学的VOF法と、重粒子・浮遊粒子の一方向連成ラグランジュ点粒子追跡を組み合わせる。静止固体境界（海底・沿岸障害物）と自由表面波の相互作用はゴーストセル没入境界法で表現する。近壁乱流用にVremanおよび異方性最小散逸（AMD）サブグリッドスケールモデルを実装する。解析解や実験・数値ベンチマークとの比較により、波の力学と粒子運動の再現性を示す。低数値散逸手法による小規模乱流物理の解明に資する沿岸海洋モデリングへの有用性が示唆される。マルチCPU上で動作し、512ランク対64ランクの二流体強・弱スケーリング効率は最大77%・73%、単一GPGPUビルドはCPUソルバーと検証済みである。"
+      },
+      {
+        "title": "A Nationwide Snapshot of Starlink Affordability",
+        "url": "http://arxiv.org/abs/2611.34050v1",
+        "abstract": "Starlink positions itself as \"fast affordable Internet\" that can provide service to nearly every household in the United States, and is slated to be responsible for providing the only broadband service to a significant number of US households via the NTIA's BEAD program. However, neither the FCC's National Broadband Map nor Starlink's own availability map captures what service costs. We present the first national census of Starlink's residential broadband pricing. We first identify that Starlink's offers are uniform within H3 resolution 6 grid cells, allowing us to collect plans and prices for every populated cell in the United States, more than 162,000 addresses, in October 2026. We find that while Starlink's service prices are fairly consistent, the effective price of the most affordable plan varies across the country, driven by restricting sales of less expensive plans as well as \"demand surcharges\" ranging between \\$100 and \\$1,500. Using a common affordability threshold of 2% of monthly income, we find that service restrictions or surcharges make Starlink unaffordable for approximately 4.3 million households, and in total nearly a quarter of all US households (roughly 25.5 million) cannot afford Starlink. Finally, approximately 80% of locations where Starlink is slated to receive BEAD funding face no constrained pricing today.",
+        "source": "arXiv",
+        "doi": "",
+        "keyword": "NK cell therapy",
+        "title_ja": "スターリンクの手頃さに関する全国的な概観",
+        "summary_ja": "本論文はStarlinkの全米住宅向け価格を初めて網羅的に調査した。H3解像度6のグリッド内で提供内容が均一であることを利用し、2026年10月に16万2000以上の住所のプランと価格を収集した。サービス価格自体は概ね一貫するが、安価なプランの販売制限と100〜1,500ドルの「需要サーチャージ」により、最安プランの実効価格は地域差が生じる。月収の2%という一般的な負担可能性基準を用いると、制限やサーチャージにより約430万世帯が負担不可能となり、合計で全米世帯の約4分の1（約2,550万世帯）がStarlinkを負担できない。またBEAD資金の対象地点の約80%は現時点で価格制約を受けていない。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "Exosomes: Mechanisms of Action and Potential Therapeutic Applications for Diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43080848/",
+        "abstract": "Exosomes are extracellular vesicles (EVs) of endosomal origin, whereas small extracellular vesicles (sEVs) are defined by size without specifying biogenesis. These vesicles mediate intercellular communication through surface interactions and molecular cargo transfer, with effects that depend on their cellular source, composition, and recipient cells. This review summarizes current understanding of exosome biogenesis, cargo sorting, cellular uptake, and major modes of action. We then examine their roles across cancer, cardiovascular, neurological, metabolic, inflammatory, autoimmune, and infectious diseases, highlighting both shared mechanisms and disease-specific effects. We also discuss the development of EV-associated biomarkers for diagnosis, prognosis, and treatment monitoring, together with the use of natural and engineered vesicles as therapeutic agents and drug-delivery platforms. By linking immune regulation, cell-fate control, and metabolic remodeling across diseases, we examine how vesicle-mediated cellular responses influence disease progression and tissue repair, and discuss their implications for diagnosis and therapy. Clinical translation remains constrained by vesicle heterogeneity, methodological variability, manufacturing challenges, and limited evidence from controlled clinical studies. Further progress requires standardized vesicle characterization and production, together with clinical studies that establish whether EV-based tests improve decision-making and EV-based treatments benefit patients.",
+        "source": "PubMed",
+        "doi": "10.1002/mco2.71158",
+        "keyword": "sEVs",
+        "title_ja": "エクソソーム：作用機序と疾患に対する治療応用の可能性",
+        "summary_ja": "エクソソームはエンドソーム由来の細胞外小胞（EV）であり、小型EV（sEV）は生合成を特定せずサイズで定義される。これらの小胞は表面相互作用と分子カーゴの転送を介して細胞間通信を仲介し、その効果は細胞源・組成・受容細胞に依存する。本レビューはエクソソームの生合成、カーゴ選別、細胞取り込み、主要な作用機序に関する現理解を要約する。次に、がん、心血管、神経、代謝、炎症、自己免疫、感染症における役割を検討し、共通機構と疾患特異的効果を強調する。さらに、診断・予後・治療モニタリング用のEV関連バイオマーカー開発と、天然および工学化小胞の治療薬・薬物送達プラットフォームとしての利用を論じる。免疫調節、細胞運命制御、代謝リモデリングを疾患横断的に結びつけ、小胞媒介性細胞応答が疾患進行と組織修復に与える影響と診断・治療への示唆を検討する。臨床応用は小胞の不均一性、方法論的変動、製造上の課題、対照臨床研究"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Hypothalamic delivery of self-assembled Ampkα1 siRNA via host extracellular vesicles treats obesity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43079974/",
+        "abstract": "Obesity remains a significant global health issue characterized by complex pathophysiology and severe metabolic complications. Genetic suppression of AMP-activated protein kinase alpha 1 (Ampkα1) in steroidogenic factor 1 (SF1) neurons of the ventromedial hypothalamus (VMH) promote feeding-independent obesity resistance by activating brown adipose tissue (BAT) thermogenesis via uncoupling protein 1 (UCP1). While RNA interference (RNAi) offers precision in modulating such targets, translating oligonucleotide therapies for neurological applications has been impeded by inefficient in vivo delivery, poor blood-brain barrier (BBB) penetration and off-target toxicity. Here, we report a non-viral RNA interference strategy combining small interfering RNA (siRNA) targeting hypothalamic Ampkα1 with a tissue-engineered platform that exploits host tissues as in vivo biogenerators. By leveraging small extracellular vesicles (sEVs) derived from host tissue, our approach achieves brain gene silencing while circumventing the limitations of conventional delivery systems. Notably, this strategy predominantly suppressed Ampkα1 in the SF1 neurons of the VMH of C57BL/6J mice, stimulating BAT thermogenesis and metabolic activation with minimal off-target effects and no detectable adverse effects-enabling a potent, feeding-independent anti-obesity intervention. Moreover, in order to avoid multiple administration of regular gene vector, we designed minicircle vectors that achieved sustained siRNA expression, resulting in significant weight loss for over a week from a single dose. Overall, our findings establish a safe, durable and effective siRNA delivery paradigm, positioning it as a next-generation RNAi therapeutic to address obesity and related metabolic disorders.",
+        "source": "PubMed",
+        "doi": "10.1093/brain/awag416",
+        "keyword": "sEVs",
+        "title_ja": "視床下部への宿主細胞外小胞を介した自己集合型Ampkα1 siRNAの送達は肥満を治療する。",
+        "summary_ja": "視床下部腹内側核（VMH）のSF1ニューロンにおけるAmpkα1の遺伝的抑制は、UCP1を介した褐色脂肪組織（BAT）の熱産生を活性化し、摂食非依存性の肥満抵抗性を促進する。本研究では、視床下部Ampkα1を標的とするsiRNAを、宿主組織由来のsmall extracellular vesicles（sEVs）を利用した組織工学プラットフォームで送達する非ウイルス的RNAi戦略を報告する。この手法は血液脳関門（BBB）透過やオフターゲット毒性といった従来の制限を回避し、C57BL/6JマウスのVMHのSF1ニューロンでAmpkα1を抑制、BAT熱産生と代謝活性化を促進した。さらに、minicircleベクターにより持続的siRNA発現を実現し、単回投与で1週間以上の有意な体重減少をもたらした。本知見は安全で持続的なsiRNA送達パラダイムを確立し、次世代RNAi治療として肥満関連代謝疾患"
+      },
+      {
+        "title": "Targeting V-ATPase assembly via sEVs-delivered doxorubicin triggers methuosis and circumvents temozolomide resistance in glioblastoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42925861/",
+        "abstract": "Temozolomide (TMZ) resistance remains a major challenge in glioblastoma (GBM). Whether lysosomal alterations represent a targetable vulnerability in TMZ-resistant GBM (TR-GBM) is unclear. This study investigates whether small extracellular vesicles (sEVs) can reprogram doxorubicin (DOX) subcellular trafficking to exploit lysosomal vulnerabilities and circumvent resistance.",
+        "source": "PubMed",
+        "doi": "10.1016/j.drup.2026.101493",
+        "keyword": "sEVs",
+        "title_ja": "sEVs送達ドキソルビシンによるV-ATPase集合体の標的化は、グリオブラストーマにおいてメチオーシスを誘導しテモゾロミド耐性を回避する",
+        "summary_ja": "TMZ耐性膠芽腫（TR-GBM）ではリソソーム変化が標的脆弱性となり得るか不明である。本研究は、small extracellular vesicles（sEVs）を用いてドキソルビシン（DOX）の細胞内輸送を再プログラムし、リソソーム脆弱性を利用して耐性を回避できるか検討した。sEVs送達DOXがV-ATPase assemblyを標的とし、methuosisを誘導してTMZ耐性を克服することを示した。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです（約480字）。\n\n1. **閉経とα-Klotho・うつ病**：NHANES大規模データで閉経状態によるα-Klothoとうつ病の関連差異を検討。抗老化因子の精神健康への役割解明が期待される。\n\n2. **sEVによる膠芽腫治療**：sEVでドキソルビシンを送達しV-ATPase集合を標的、メチュオーシス誘導でTMZ耐性を克服。難治性GBMへの新戦略として重要。\n\n3. **エクソソーム/sEV総説**：作用機序と治療応用を整理。細胞源・カーゴ依存の効果理解が臨床応用の鍵となる。\n\n4. **視床下部Ampkα1 siRNA送達**：宿主EVを用いVMHでAmpkα1を抑制、BAT熱産生を活性化し摂食非依存性の抗肥満効果。EV創薬の実証例。\n\n5. **普遍ドナー細胞療法の免疫障壁**：HLA破壊と保護モジュールだけでは不十分で、遺伝子型から免疫適合性を推測できない限界を指摘。合成免疫特権の設計枠組みを提唱し、再生医療の実装に重要な示唆を与える。"
+}

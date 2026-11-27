@@ -1,0 +1,193 @@
+{
+  "A": {
+    "医学": [
+      {
+        "title": "Exosomes as multifunctional therapeutics: drug delivery, immune modulation, regeneration across various disorders, and initial observations from clinical trials.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43086566/",
+        "abstract": "Exosomes are nanoscale extracellular vesicles that mediate intercellular communication and have emerged as promising therapeutic tools due to their intrinsic stability, low immunogenicity, and ability to cross biological barriers. This review offers a thorough examination of the therapeutic uses of exosomes in diverse pathological conditions, highlighting their functions as natural and engineered drug delivery systems, biological modulators, and regenerative agents. Exosomes derived from diverse cell types, including dendritic cells, mesenchymal stem cells, natural killer cells, and tumor cells, exhibit distinct functions ranging from anti-tumor activity and immune modulation to tissue repair. According to our analysis of 116 clinical trials, exosomes demonstrated favorable interests in non-malignant conditions (94%), especially skin/hair (22%), lung (21%), and neurological disorders (17%), while oncology trials (6%) focus mainly on GI cancers. The number of clinical trials increased substantially after 2020, with 53% of trials initiated during 2023-2025; most were Phase I trials (57%) and used MSC-derived exosomes (58%) for regenerative applications. The potential of exosomes in regenerative medicine has been evaluated, and the available evidence suggests considerable potential for their application in regenerative medicine; however, further clinical investigation, particularly in oncology and later-phase studies, is warranted.",
+        "source": "PubMed",
+        "doi": "10.1007/s10787-026-02456-3",
+        "keyword": "NK cell therapy",
+        "matched_keywords": [
+          "NK cell therapy",
+          "Exosomes"
+        ],
+        "title_ja": "エクソソームの多機能治療薬としての可能性：薬物送達、免疫調節、各種疾患における再生、および臨床試験からの初期知見",
+        "summary_ja": "エクソソームは細胞間通信を媒介するナノスケールの細胞外小胞で、安定性・低免疫原性・生体障壁透過能から治療ツールとして有望視される。本レビューは多様な病態における治療応用を検討し、天然・工学化した薬物送達系、生物学的調節因子、再生促進因子としての機能を論じる。樹状細胞、間葉系幹細胞（MSC）、NK細胞、腫瘍細胞由来のエクソソームは抗腫瘍活性、免疫調節、組織修復など異なる機能を示す。116件の臨床試験分析では、非悪性疾患（94%）で関心が高く、特に皮膚・毛髪（22%）、肺（21%）、神経疾患（17%）が多く、腫瘍領域（6%）は主に消化器癌に集中した。2020年以降試験数は急増し、53%が2023〜2025年開始、多くが第I相（57%）でMSC由来（58%）を再生用途に使用した。再生医療での有望性が示唆されるが、特に腫瘍領域と後期相試験での更なる臨床検討が必要である。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [
+      {
+        "title": "Serum β-glucuronidase activity in patients with acromegaly before and after pituitary surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43097316/",
+        "abstract": "Acromegaly is caused by excessive growth hormone (GH) secretion mainly due to a GH-secreting pituitary adenoma. Surgical removal of the GH-secreting adenoma decreases both GH and soluble α-Klotho serum levels. α-Klotho is structurally related to β-glucuronidase. We tested whether serum β-glucuronidase activity, like α-Klotho, decreases along with GH levels after removal of the GH-secreting pituitary adenoma.",
+        "source": "PubMed",
+        "doi": "10.1007/s12020-026-04866-3",
+        "keyword": "Klotho",
+        "title_ja": "肢端肥大症患者垂体手术前后的血清β-葡萄糖醛酸苷酶活性。",
+        "summary_ja": "先端巨大症はGH分泌下垂体腺腫によるGH過剰分泌で生じる。腺腫の外科的摘除によりGHと可溶性α-Klothoの血清値が低下する。α-Klothoは構造的にβ-glucuronidaseと関連する。本研究では、GH分泌下垂体腺腫摘除後、α-Klothoと同様に血清β-glucuronidase活性がGH値とともに低下するかを検討した。"
+      },
+      {
+        "title": "The Impact of Klotho in Cancer: From Development and Progression to Therapeutic Potential",
+        "url": "https://www.semanticscholar.org/paper/b3f217721d619a61aee56207717fff2c941f16f5",
+        "abstract": "Klotho, initially identified as an anti-aging gene, has been shown to play significant roles in cancer biology. Alongside α-Klotho, the β-Klotho and γ-Klotho isoforms have also been studied; these studies showed that Klotho functions as a potential tumor suppressor in many different cancers by inhibiting cancer cell proliferation, inducing apoptosis and modulating critical signaling pathways such as the Wnt/β-catenin and PI3K/Akt pathways. In cancers such as breast cancer, colorectal cancer, hepatocellular carcinoma, ovarian cancer, and renal cell carcinoma, reduced Klotho expression often correlates with a poor prognosis. In addition, Klotho’s role in enhancing chemotherapy sensitivity and its epigenetic regulation further underscores its potential as a target for cancer treatments. This review details Klotho’s multifaceted contributions to cancer suppression and its potential as a therapeutic target, enhancing the understanding of its significance in cancer treatment and prognoses.",
+        "source": "SemanticScholar",
+        "doi": "10.3390/genes16020128",
+        "keyword": "Klotho",
+        "title_ja": "癌におけるクロトーの影響：発生・進行から治療の可能性まで",
+        "summary_ja": "Klothoは当初抗老化遺伝子として同定されたが、癌生物学でも重要な役割を担う。α-Klothoに加えβ-Klotho、γ-Klothoアイソフォームも研究され、癌細胞の増殖抑制、アポトーシス誘導、Wnt/β-cateninやPI3K/Aktといった主要シグナル伝達経路の調節を通じ、多くの癌で腫瘍抑制因子として機能することが示された。乳癌、大腸癌、肝細胞癌、卵巣癌、腎細胞癌などではKlotho発現低下が予後不良と相関する。さらに化学療法感受性の亢進やエピジェネティック制御への関与が、癌治療標的としての可能性を裏付ける。本レビューは癌抑制におけるKlothoの多面的寄与と治療標的としての可能性を詳述し、癌治療・予後における意義の理解を深める。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Molecular reprogramming of natural killer cells: crosstalk between PI3K-AKT-mTOR, MAPK, NF-κB, and epigenetic regulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43097200/",
+        "abstract": "Natural killer (NK) cells are key effectors of innate immunity. They rapidly eliminate virus-infected, transformed, and stressed cells while maintaining immune homeostasis. However, persistent inflammatory stimulation, tumor-associated immunosuppression, and metabolic stress progressively reprogram NK-cell phenotype and function, which leads to impaired cytotoxicity, defective cytokine production, metabolic dysfunction, and immune exhaustion. This review examines the molecular mechanisms underlying NK-cell reprogramming in chronic diseases. It focuses on activating and inhibitory receptors, intracellular signaling pathways, transcriptional and epigenetic regulation, metabolic remodeling, mitochondrial dysfunction, oxidative stress, and non-coding RNAs. This review discusses how these interconnected mechanisms contribute to chronic inflammation, immune evasion, tumor progression, and metabolic disorders, ultimately impairing NK-cell-mediated immune surveillance. Finally, we highlight current therapeutic strategies to restore NK-cell function, including cytokine-based modulation, immune checkpoint blockade, metabolic intervention, adoptive NK-cell therapy, and CAR-NK cell therapy, along with their translational potential. Collectively, this review provides an integrated overview of the molecular mechanisms governing NK-cell dysfunction and discusses emerging therapeutic approaches for improving NK-cell-based immunotherapy in chronic diseases.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-13150-6",
+        "keyword": "NK cell therapy",
+        "title_ja": "ナチュラルキラー細胞の分子的リプログラミング：PI3K-AKT-mTOR、MAPK、NF-κB、およびエピジェネティック制御間のクロストーク",
+        "summary_ja": "本レビューは、慢性疾患におけるNK細胞の分子リプログラミング機構を概説する。持続的炎症、腫瘍関連免疫抑制、代謝ストレスがNK細胞の表現型と機能を再プログラムし、細胞傷害性低下、サイトカイン産生不全、代謝異常、免疫疲弊を招く。活性化・抑制性受容体、PI3K-AKT-mTOR、MAPK、NF-κBなどの細胞内シグナル伝達、転写・エピジェネティック制御、代謝リモデリング、ミトコンドリア機能障害、酸化ストレス、非コードRNAの相互連関が慢性炎症、免疫回避、腫瘍進展、代謝障害に関与し、免疫監視を障害する。治療戦略としてサイトカイン調節、免疫チェックポイント阻害、代謝介入、養子NK細胞療法、CAR-NK細胞療法とその臨床応用可能性を論じる。"
+      },
+      {
+        "title": "The immune landscape of chordoma and opportunities for immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43097191/",
+        "abstract": "Chordoma is a rare, locally aggressive tumor arising from notochordal remnants with limited effective systemic treatment options. Growing interest in immunotherapy has prompted investigation of the chordoma tumor immune microenvironment (TIME) and the development of immunotherapeutic strategies targeting its molecular and cellular components. This review synthesizes the current literature on the immune landscape of chordoma and evaluates the clinical evidence and translational rationale for immunotherapeutic strategies in this disease.",
+        "source": "PubMed",
+        "doi": "10.1007/s11060-026-05891-y",
+        "keyword": "NK cell therapy",
+        "title_ja": "脊索瘤的免疫景观及免疫治疗机遇。",
+        "summary_ja": "脊索腫は脊索遺残由来の稀な局所侵襲性腫瘍で、有効な全身治療が限られている。免疫療法への関心の高まりから、腫瘍免疫微小環境（TIME）の研究と、その分子的・細胞的構成要素を標的とする免疫療法戦略の開発が進んでいる。本レビューは脊索腫の免疫景観に関する現行文献を統合し、本疾患における免疫療法戦略の臨床的エビデンスとトランスレーショナルな根拠を評価する。"
+      },
+      {
+        "title": "Dual Histone Deacetylase/PD-1/PD-L1 Inhibitors Reprogram Tumor-Immune Interactions and Are Effective in Therapy-Resistant Melanoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43095961/",
+        "abstract": "Epigenetic modulators and immune checkpoint inhibitors represent two major therapeutic avenues in oncology, yet resistance and recurrence limit their efficacy. To address this, we designed and synthesized a series of dual histone deacetylase (HDAC)/PD-1/PD-L1 inhibitors (compounds 1-6). Among them, compounds 4 (HDAC6-selective) and 5 (HDAC1-3-selective) emerged as the most promising, both disrupting the PD-1/PD-L1 interaction in the nanomolar range and reducing tumor cell viability in vitro. Compound 4 counteracted T cell exhaustion, reshaped the immune landscape in vivo by enhancing neutrophil and NK cell activity, and showed potent antitumor activity in human BRAF-mutated melanoma models, including vemurafenib-resistant cells. Compound 5 exhibited strong direct cytotoxicity and induced PD-L1 expression, highlighting complex checkpoint regulation. Collectively, these findings support dual HDAC/PD-1/PD-L1 inhibition as a strategy to reprogram tumor-immune interactions and overcome resistance, with differential isoform selectivity proving critical for translational optimization.",
+        "source": "PubMed",
+        "doi": "10.1021/acs.jmedchem.6c01392",
+        "keyword": "NK cell therapy",
+        "title_ja": "二重ヒストン脱アセチル化酵素/PD-1/PD-L1阻害剤は腫瘍と免疫の相互作用を再プログラムし、治療抵抗性メラノーマに有効である。",
+        "summary_ja": "エピジェネティック調節薬と免疫チェックポイント阻害薬はがん治療の二大領域だが、耐性と再発が有効性を制限する。本研究では二重HDAC/PD-1/PD-L1阻害薬（化合物1-6）を設計・合成した。化合物4（HDAC6選択性）と5（HDAC1-3選択性）が最も有望で、ナノモル濃度でPD-1/PD-L1相互作用を阻害し、in vitroで腫瘍細胞生存率を低下させた。化合物4はT細胞疲弊を抑制し、in vivoで好中球・NK細胞活性を高めて免疫環境を再構築し、BRAF変異メラノーマ（ベムラフェニブ耐性株含む）で抗腫瘍活性を示した。化合物5は強い細胞毒性とPD-L1発現誘導を示し、複雑なチェックポイント制御を裏付けた。二重HDAC/PD-1/PD-L1阻害は腫瘍免疫相互作用を再プログラムし耐性克服に有効で、アイソフォーム選択性が最適化に重要である。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "CD34 Selected Haploidentical Stem Cell Transplant for Congenital Athymia Initially Diagnosed as Pre-T Cell Receptor Maturational Arrest in a Patient With Multiple Congenital Anomalies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43096650/",
+        "abstract": "Severe combined immunodeficiency (SCID) is a rare immunodeficiency characterized by various well-documented genetic mutations and phenotypic presentations. Congenital athymia is an extremely rare condition characterized by an absent thymus at birth and is typically associated with multiple genetic abnormalities. In this report, we describe the case of a 2-month-old male with NK",
+        "source": "PubMed",
+        "doi": "10.1111/petr.70536",
+        "keyword": "NK cell therapy",
+        "title_ja": "CD34選択的同種半合致造血幹細胞移植を施行した先天性無胸腺症—多発先天異常を有する患者において当初T細胞受容体前駆体成熟停止と診断された1例",
+        "summary_ja": "先天性無胸腺症は出生時に胸腺が欠如する極めて稀な疾患で、複数の遺伝的異常を伴う。本報告は、多発性先天奇形を有する2カ月男児の症例を記述する。当初T細胞受容体前駆細胞の成熟停止と診断されたが、後に先天性無胸腺症と判明した。重症複合免疫不全症（SCID）は様々な遺伝子変異と表現型を示す稀な免疫不全症である。本症例に対し、CD34選択的半同種造血幹細胞移植を施行した。先天性無胸腺症に対する同移植の有効性を示す貴重な報告である。（198文字）"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [
+      {
+        "title": "YBX1-Enriched iPSC-Derived Exosomes Rejuvenate Senescent Airway Basal Stem Cells in Idiopathic Pulmonary Fibrosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43078661/",
+        "abstract": "Idiopathic pulmonary fibrosis (IPF) is characterized by pronounced senescence of airway tissue stem cells, thereby accelerating disease progression and impairing endogenous repair. Although previous studies have shown that exosomes derived from pluripotent stem cells can attenuate adult tissue stem cell senescence in animal models, direct assessments of their impact on senescence and stemness in human IPF patient-derived tissue stem cells under pathophysiologically relevant conditions remain lacking. In this study, we used adult airway tissue stem cells (KRT5",
+        "source": "PubMed",
+        "doi": "10.1111/acel.70854",
+        "keyword": "Exosomes",
+        "title_ja": "YBX1を豊富に含むiPSC由来エクソソームは、特発性肺線維症において老化した気道基底幹細胞を若返らせる。",
+        "summary_ja": "iPSC由来エクソソームによるIPF気道基底幹細胞の若返りに関する研究。IPFでは気道組織幹細胞の老化が顕著で、疾患進行と内因性修復障害を促進する。多能性幹細胞由来エクソソームが動物モデルで成体組織幹細胞の老化を軽減することは示されていたが、ヒトIPF患者由来組織幹細胞への直接評価は欠如していた。本研究では成体気道組織幹細胞（KRT5陽性細胞）を用い、YBX1を豊富に含むiPSC由来エクソソームが老化した気道基底幹細胞を若返らせることを示した。"
+      },
+      {
+        "title": "Plant-derived extracellular vesicle-like nanoparticles in ulcerative colitis: Current progress, mechanisms, and translational challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43068584/",
+        "abstract": "Ulcerative colitis (UC) is a chronic inflammatory bowel disease with rising global incidence and substantial unmet therapeutic needs. Plant-derived extracellular vesicle-like nanoparticles (PELNs) have recently attracted growing attention as a potentially biocompatible and orally applicable therapeutic platform for intestinal inflammation.",
+        "source": "PubMed",
+        "doi": "10.1016/j.phymed.2026.158936",
+        "keyword": "Exosomes",
+        "title_ja": "植物由来の細胞外小胞様ナノ粒子と潰瘍性大腸炎：現在の進展、作用機序、および実用化への課題",
+        "summary_ja": "植物由来細胞外小胞様ナノ粒子（PELNs）は、生体親和性と経口投与可能性を備えた潰瘍性大腸炎（UC）治療プラットフォームとして注目されている。UCは世界的に増加する慢性炎症性腸疾患で、治療ニーズは高い。本論文はPELNsの最新研究動向、作用機序、実用化への課題を概説する。"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Corrigendum to \"miR-574-3p and miR-125a-5p in Adipose Derived Mesenchymal Stem Cell Exosomes Synergistically Target TGF-β1/SMAD2 Signaling Pathway for the Treatment of Androgenic Alopecia\" Journal of Investigative Dermatology, Volume 145, Issue 11, November 2025, Pages 2719-2735.e3.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43096966/",
+        "abstract": "",
+        "source": "PubMed",
+        "doi": "10.1016/j.jid.2026.03.001",
+        "keyword": "Exosomes",
+        "title_ja": "「脂肪由来間葉系幹細胞エクソソーム中のmiR-574-3pおよびmiR-125a-5pがTGF-β1/SMAD2シグナル伝達経路を相乗的に標的として男性型脱毛症を治療する」に対する訂正記事、Journal of Investigative Dermatology、第145巻、第11号、2025年11月、2719-2735.e3ページ。",
+        "summary_ja": "ご提示いただいた情報は「Corrigendum（訂正記事）」の書誌情報のみで、本文内容が含まれていません。そのため要約できません。本文（訂正内容の詳細）をご提供ください。"
+      },
+      {
+        "title": "Mesenchymal Stem Cell-Derived Exosomes Alleviate Acute Lung Injury via the miR-30b-5p-NEDD4L-PTEN Signaling Axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43096769/",
+        "abstract": "Acute lung injury (ALI) is characterized by uncontrolled inflammation and high mortality. While mesenchymal stem cell-derived exosomes (MSC-Exos) show therapeutic potential, their role in regulating macrophage function through PTEN protein stability remains poorly understood. Using LPS-induced mouse ALI and RAW264.7 models, the effects of MSCs or MSC-Exos were evaluated. Inflammatory markers and signaling pathways were analyzed via ELISA, qRT-PCR, Western blot, and immunofluorescence. The underlying molecular mechanism was elucidated using miRNA sequencing, dual-luciferase assays, and ubiquitination analysis. Gain- and loss-of-function experiments using miR-30b-5p mimics and inhibitors were performed in LPS-stimulated macrophages to assess inflammatory cytokine and PTEN expression. Both MSCs and MSC-Exos significantly suppressed TNF-α, IL-1β, and IL-6 expression in vivo and in vitro. Mechanistically, MSC-Exos upregulated PTEN levels and inhibited PI3K/AKT pathway activation by downregulating the E3 ubiquitin ligase NEDD4L, thereby reducing ubiquitin-mediated PTEN degradation. miR-30b-5p was identified as the key exosomal miRNA directly targeting the 3'UTR of NEDD4L to suppress its expression. miR-30b-5p overexpression mimicked the anti-inflammatory effects of MSC-Exos, whereas miR-30b-5p inhibition reversed the suppressive effects of MSC-Exos on TNF-α, IL-1β, and IL-6 expression and attenuated the MSC-Exos-induced increase in PTEN expression in LPS-stimulated macrophages. This study demonstrates that MSC-Exos deliver miR-30b-5p to inhibit NEDD4L, which stabilizes PTEN and suppresses PI3K/AKT activation to alleviate macrophage-driven pulmonary inflammation. These findings reveal a novel mechanism for exosome-mediated immune regulation and indicate that the anti-inflammatory effects of MSC-Exos are dependent on exosomal miR-30b-5p, offering potential therapeutic targets for ALI.",
+        "source": "PubMed",
+        "doi": "10.1002/jbt.71205",
+        "keyword": "Exosomes",
+        "title_ja": "間葉系幹細胞由来エクソソームはmiR-30b-5p-NEDD4L-PTENシグナル軸を介して急性肺損傷を軽減する",
+        "summary_ja": "急性肺損傷（ALI）は制御不能な炎症と高い死亡率を特徴とする。間葉系幹細胞由来エクソソーム（MSC-Exos）の治療可能性が示されるが、PTENタンパク質安定性を介したマクロファージ機能制御の詳細は不明であった。LPS誘導マウスALIおよびRAW264.7モデルを用い、MSC-Exosの効果を検討した。MSC-ExosはTNF-α、IL-1β、IL-6発現を有意に抑制した。機序として、MSC-ExosはE3ユビキチンリガーゼNEDD4Lを低下させ、ユビキチン介在性PTEN分解を抑制してPTENを安定化し、PI3K/AKT活性化を阻害した。miR-30b-5pがNEDD4Lの3'UTRを直接標的とする主要エクソソームmiRNAとして同定され、その過剰発現はMSC-Exosの抗炎症効果を模倣し、阻害は効果を逆転させた。MSC-ExosはmiR-30b-5pを介してNEDD4Lを抑制しPTENを"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [
+      {
+        "title": "OA Chondrocyte-Derived Small Extracellular Vesicles Inhibit Migration and Chondrogenic Differentiation of CSPCs and Promote OA Processes by Releasing miR-199b-5p.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43096642/",
+        "abstract": "Cartilage-derived stem/progenitor cells (CSPCs) and chondrocytes play critical roles in osteoarthritis (OA) progression. Small extracellular vesicles (sEVs) mediate intercellular crosstalk within the OA microenvironment, but their effects on CSPCs and underlying mechanisms remain unclear. This study was therefore designed to investigate the regulatory mechanisms by which chondrocyte-derived sEVs modulate the chondrogenic differentiation of CSPCs. sEVs derived from chondrocytes isolated from healthy joint tissues (Normal-chondrocyte-sEVs) and OA patient joints (OA-chondrocyte-sEVs) were co-cultured with CSPCs. The impact of these sEVs on chondrogenic differentiation and CSPC migration was assessed using Alcian blue staining and Transwell assays. The regulatory roles of miR-199b-5p and sex determining region Y-box 6 (SOX6) in CSPC chondrogenic differentiation were further investigated using both gain-of-function and loss-of-function approaches. Compared with the Normal-chondrocyte-sEVs treatment group, CSPCs treated with OA-chondrocyte-sEVs exhibited significantly impaired chondrogenic differentiation and migratory capacities. Furthermore, we observed markedly higher expression of miR-199b-5p in OA-chondrocyte-sEVs compared with Normal-chondrocyte-sEVs. Mechanistically, OA-chondrocyte-sEVs mediated the impairment of chondrogenic differentiation in CSPCs through sEV-mediated transfer of miR-199b-5p, which subsequently targeted and suppressed SOX6 expression, thereby disrupting both the differentiation potential and activation status of CSPCs. This study demonstrates that OA chondrocyte-derived sEVs exacerbated OA progression through the miR-199b-5p/SOX6 regulatory axis. These findings collectively identify sEV-mediated CSPC dysfunction as a novel potential therapeutic target for OA intervention.",
+        "source": "PubMed",
+        "doi": "10.1096/fj.202603339R",
+        "keyword": "sEVs",
+        "title_ja": "OA軟骨細胞由来の小型細胞外小胞は、miR-199b-5pを放出することによりCSPCの遊走と軟骨分化を阻害し、OAの進行を促進する。",
+        "summary_ja": "変形性関節症（OA）において軟骨由来幹/前駆細胞（CSPCs）と軟骨細胞は重要な役割を担う。本研究では、軟骨細胞由来small extracellular vesicles（sEVs）がCSPCsの軟骨分化に及ぼす調節機構を検討した。健常軟骨細胞由来sEVs（Normal-chondrocyte-sEVs）とOA患者軟骨細胞由来sEVs（OA-chondrocyte-sEVs）をCSPCsと共培養したところ、OA-chondrocyte-sEVs処理群ではNormal-chondrocyte-sEVs処理群と比較し、CSPCsの軟骨分化能および遊走能が有意に低下した。またOA-chondrocyte-sEVsではmiR-199b-5pが著明に高発現していた。機序として、OA-chondrocyte-sEVsはmiR-199b-5pを介してSOX6発現を標的抑制し、CSPCsの分化能と活性化"
+      }
+    ],
+    "生物学": [
+      {
+        "title": "Transcriptional signatures underlying divergent lifestyles of endophytic and pathogenic fungi in early colonisation of wheat roots.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43085924/",
+        "abstract": "Wheat take-all is a root disease which devastates crop yields, caused by the ascomycete fungus Gaeumannomyces tritici. The closely related root endophyte, Gaeumannomyces hyphopodioides, has been found to induce local host defence responses which confer protection against take-all and reduce disease severity. Chancellor et al. (2024) investigated the host transcriptional response to early colonisation by each of these two fungi. Using this RNA-seq dataset in conjunction with newly available Gaeumannomyces reference genomes, we have completed the picture by characterising the fungal transcriptional activity underpinning these different lifestyles. Even at early time points, their transcriptional profiles differ: G. hyphopodioides shows signs of transcriptional reprogramming between 4 and 5 days post inoculation (dpi), mirroring the wheat response. However, G. tritici expression varied very little between these two time points despite progressing into the vasculature, instead exhibiting a stealthy expression profile dominated by gene downregulation at earlier time points. Moreover, GO term enrichment in this study identified a stress response unique to G. hyphopodioides, which may explain the formation of its subepidermal vesicles (SEVs), putative resting structures that represent a key difference between the pathogen and non-pathogen, alongside upregulation of many putative effectors and CAZymes. The enrichment of a key lignin-degrading CAZyme may contribute to the lack of stress-response identified in G. tritici, allowing fungal hyphae to overcome localised host lignification. These findings highlight the transcriptional basis of colonisation differences and are a step towards understanding how closely related fungi with different lifestyles modulate their interactions within a common host and tissue.",
+        "source": "PubMed",
+        "doi": "10.1016/j.funbio.2026.101887",
+        "keyword": "sEVs",
+        "title_ja": "小麦根の初期定着における内生菌と病原菌の異なる生活様式の基盤となる転写シグネチャー",
+        "summary_ja": "本論文は、コムギ立枯病を引き起こす病原性子嚢菌Gaeumannomyces triticiと、近縁の内生菌G. hyphopodioidesの初期定着における宿主転写応答と菌側の転写活性を比較した研究である。RNA-seqデータと新規参照ゲノムを用い、両菌の転写プロファイルが早期から異なることを示した。G. hyphopodioidesは接種後4～5日で転写再 programmingを示し、コムギ応答と一致した。一方G. triticiは血管系へ進展するも発現変動が小さく、初期に遺伝子発現抑制が主体のstealthyなプロファイルを示した。GO解析ではG. hyphopodioides特異的なストレス応答が同定され、SEV形成やeffector・CAZymeのupregulationと関連づけられた。G. triticiではリグニン分解CAZymeの濃縮がストレス応答欠如に寄与し、宿主の局"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **iPSC由来エクソソームによるIPF老化幹細胞の若返り**：IPFでは気道基底幹細胞の老化が進行と修復障害を促進する。YBX1濃縮iPSC-Exoが老化を軽減する可能性は、再生医療と老化制御の融合として重要で、臨床応用が期待される。\n\n2. **Klothoの癌における二面性**：抗老化遺伝子Klothoが癌抑制・進展に多面的に関与。α/β/γアイソフォームの機能解明はバイオマーカー・治療標的開発につながる。\n\n3. **NK細胞の分子リプログラミング**：慢性炎症や腫瘍免疫抑制がNK細胞を疲弊させる機構をPI3K-AKT-mTOR等のシグナルとエピジェネティクスから解明。NK細胞療法の機能改善に直結する知見。\n\n4. **MSC-Exoによる急性肺損傷治療**：miR-30b-5p-NEDD4L-PTEN軸を介したマクロファージ制御機構を解明。エクソソーム治療の分子基盤強化として注目。\n\n5. **植物由来EV様ナノ粒子の潰瘍性大腸炎応用**：生体親和性・経口投与可能なPELNsは新規治療プラットフォーム。実用化への課題整理が進展中。"
+}

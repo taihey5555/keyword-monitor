@@ -1,0 +1,104 @@
+{
+  "A": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B1": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B2": {
+    "医学": [
+      {
+        "title": "Novel diagnostic proteomic biomarkers for stages II and III colorectal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43050900/",
+        "abstract": "Colorectal cancer (CRC) ranks third in global cancer incidence and second in mortality. However, reliable diagnostic and prognostic CRC biomarkers remain elusive. To identify potential biomarkers, proteomic profiling was performed on tumor and adjacent non-tumor tissues (n = 20) using a hybrid TIMS quadrupole time-of-flight mass spectrometer. Candidate proteins were analyzed on preoperative plasma of stages II and III CRC patients (n = 71) and healthy controls (n = 22) by ELISA. Plasma levels of platelet factor 4 (PF4) showed high sensitivity in discriminating CRC patients from controls (unadjusted AUC 0.942; age-adjusted model AUC 0.999), while combined PF4, G protein-coupled receptor class C group 5 member A (GPRC5A), and aminomethyltransferase (AMT) markers give the best diagnostic performance for CRC patients with 95% sensitivity and 100% specificity. In patients with normal CEA values (n = 55), combined PF4/AMT and PF4/GPRC5A measurements gave 65.5% and 41.8% sensitivity with 100% specificity (P < 0.001, respectively). Moreover, a strong trend of recurrence was observed in patients with abnormal plasma levels of PF4/GPRC5A (P = 0.075). In conclusion, combined analysis of PF4, GPRC5A and AMT in the plasma are novel diagnostic markers for locally advanced CRC patients. Combined PF4/GPRC5A assay could be an alternative marker panel for CEA-normal CRC patients with prognostic implication.",
+        "source": "PubMed",
+        "doi": "10.1016/j.bbrc.2026.154886",
+        "keyword": "PF4",
+        "title_ja": "ステージIIおよびIIIの大腸がんに対する新規診断プロテオミクスバイオマーカー",
+        "summary_ja": "大腸癌（CRC）は世界的に罹患率3位、死亡率2位だが、信頼できる診断・予後バイオマーカーは未確立である。TIMS四重極飛行時間型質量分析計を用いたプロテオミクス解析で腫瘍組織と隣接非腫瘍組織（n=20）を比較し、候補タンパク質をII・III期CRC患者（n=71）と健常対照（n=22）の術前血漿でELISAにより検証した。血漿PF4はCRC患者と対照の識別に高感度を示し（未調整AUC 0.942、年齢調整モデルAUC 0.999）、PF4・GPRC5A・AMTの併用が感度95%、特異度100%で最良の診断性能を示した。CEA正常例（n=55）ではPF4/AMTおよびPF4/GPRC5A併用が各々65.5%、41.8%の感度を特異度100%で示した（P<0.001）。PF4/GPRC5A異常例では再発傾向が認められた（P=0.075）。血漿PF4・GPRC5A・AMT併用は局所進行CRCの新"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B3": {
+    "医学": [
+      {
+        "title": "Tumor Organoid-Immune Co-Culture Guided Personalized and Precision Immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43098974/",
+        "abstract": "Traditional biomarkers (e.g., programmed death-ligand 1 (PD-L1), tumor mutational burden (TMB), deficient mismatch repair (dMMR), and microsatellite instability (MSI)) are limited by spatiotemporal heterogeneity and insufficient tumor-immune interactions, leading to suboptimal treatment efficacy prediction. Patient-derived tumor organoids (PDTOs) and immune co-culture models partially mitigated these limitations by mimicking tumor biology.",
+        "source": "PubMed",
+        "doi": "10.1002/cam4.72529",
+        "keyword": "NK cell therapy",
+        "title_ja": "腫瘍オルガノイド-免疫共培養による個別化精密免疫療法の誘導",
+        "summary_ja": "従来のバイオマーカー（PD-L1、TMB、dMMR、MSI）は時空間的異質性や腫瘍-免疫相互作用の不足により治療効果予測が不十分である。患者由来腫瘍オルガノイド（PDTO）と免疫共培養モデルは腫瘍生物学を模倣することでこれらの限界を部分的に軽減した。本論文は、腫瘍オルガノイド-免疫共培養が個別化・精密免疫療法を導く可能性を論じる。"
+      }
+    ],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B4": {
+    "医学": [],
+    "生物学": [
+      {
+        "title": "Role of dental pulp stem cell-derived exosomal miRNAs in modulating immunity, inflammation, and tissue repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43102694/",
+        "abstract": "Exosomal miRNAs derived from dental pulp stem cells play pivotal roles in immunomodulation, inflammatory responses, and tissue repair. Dental pulp stem cells have emerged as a key focus in regenerative medicine because of their high proliferative capacity and regenerative potential. Exosomes, which serve as intercellular signaling vehicles, carry diverse bioactive molecules, including miRNAs that regulate target gene expression to influence immune cell function, inflammatory responses, and tissue regeneration. This review summarizes the immune-inflammatory-repair-related regulatory functions of four candidate miRNAs (miR-210-3p, miR-122-5p, miR-140-5p, and miR-197-3p) that are potentially packaged within DPSC-derived exosomes, providing a reference basis for future experimental validation of their presence and biological roles in DPSC-derived exosomes. Notably, the experimental evidence supporting the functions of these miRNAs cannot all be obtained from DPSC-derived exosomes at present; some research findings are also derived from other mesenchymal stem cells, tumor-derived vesicles, and intracellular miRNA manipulation models. Specifically, miR-210-3p promotes M2 macrophage polarization and angiogenesis under hypoxic conditions while suppressing inflammation; miR-122-5p modulates immune cell activity and inflammatory cascades to facilitate hepatic and cardiac repair; miR-140-5p exerts anti-inflammatory effects by inhibiting proinflammatory cytokine release and macrophage polarization, thereby promoting cartilage regeneration; and miR-197-3p attenuates inflammasome activation and proinflammatory mediator secretion, offering neuroprotective and anti-inflammatory benefits. Limited by the lack of direct combinatorial experimental evidence, the crosstalk and synergistic effects among the four miRNAs remain hypothetical, yet their fine-tuned immunomodulatory and anti-inflammatory responses facilitate tissue regeneration and offer novel theoretical and translational insights for cell-free therapies, inflammatory disease management and tissue engineering, advancing regenerative and precision medicine.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-13228-1",
+        "keyword": "Exosomes",
+        "title_ja": "歯髄幹細胞由来エクソソームmiRNAの免疫、炎症、組織修復調節における役割",
+        "summary_ja": "歯髄幹細胞（DPSC）由来エクソソームのmiRNAは、免疫調節・炎症応答・組織修復に重要な役割を果たす。DPSCは高い増殖能と再生能から再生医療の注目対象である。エクソソームは細胞間シグナル伝達媒体としてmiRNA等を運び、標的遺伝子発現を制御する。本レビューはDPSC由来エクソソームに内包される可能性のある4種のmiRNA（miR-210-3p、miR-122-5p、miR-140-5p、miR-197-3p）の免疫・炎症・修復関連機能をまとめ、今後の実験的検証の基盤を提供する。ただしこれらの機能の実験的証拠は必ずしもDPSC由来エクソソームから得られたものではなく、他の間葉系幹細胞や腫瘍由来小胞等に基づく知見も含む。miR-210-3pは低酸素下でM2マクロファージ極性化と血管新生を促進し炎症を抑制、miR-122-5pは免疫細胞活性と炎症カスケードを調節し肝・心修復を促進、miR-1"
+      },
+      {
+        "title": "Fibroblast dynamics in oral submucous fibrosis: cellular origins, signaling networks, and emerging therapeutic targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43102669/",
+        "abstract": "Even though studies on oral submucous fibrosis (OSF) have been conducted over the past two decades of intensive molecular investigation, it remains unclear how fibroblasts are regulated, despite the fact that these cells are the main contributors to the development of the disease. Earlier reviews have addressed OSF pathogenesis generally. None of them, however, has put the fibroblast itself in the middle. The gap is relevant as OSF fibroblasts are not one cell type but several. They originate in at least four ways, being resident mesenchymal precursors, epithelial cells that undergo an EMT, endothelial cells (due to EndoMT), and bone marrow-derived fibrocytes. All the sources yield myofibroblasts with slightly different properties. Collectively, these cells constitute a heterogeneous pool that overproduces extracellular matrix (ECM), particularly type I collagen. Arecoline drives this process through multiple context-dependent pathways. It increases lysyl oxidase by using copper, provokes the release of transforming growth factor-β (TGF-β) by the use of mitochondrial reactive oxygen species (ROS), and transfers miR-17-5p to the fibroblasts by means of epithelial-derived exosomes. The unknowns are just as significant. What is the actual contribution of each source of fibroblasts? Do IGF-1R and TGF-β signal through separate cascades or converge downstream? And why does the same ROS insult kill epithelial cells while keeping fibroblasts alive? We summarize existing knowledge about the origin of OSF fibroblasts, their activation process and what they do after activation in this review. We also identify the key unresolved issues in this field and propose a conceptual framework that can relate fibroblast biology to the opportunities in therapy.",
+        "source": "PubMed",
+        "doi": "10.1007/s11033-026-13066-1",
+        "keyword": "Exosomes",
+        "title_ja": "口腔粘膜下線維症における線維芽細胞の動態：細胞起源、シグナルネットワーク、および新興の治療標的",
+        "summary_ja": "口腔粘膜下線維症（OSF）は線維芽細胞が主因だが、その制御機構は未解明である。OSF線維芽細胞は単一ではなく、間葉系前駆細胞、上皮間葉転換（EMT）、内皮間葉転換（EndoMT）、骨髄由来線維球という少なくとも4起源から成る異種集団で、I型コラーゲンを中心に細胞外マトリックス（ECM）を過剰産生する。アレコリンは銅依存性リシルオキシダーゼ増加、ミトコンドリアROSを介したTGF-β放出、上皮由来エクソソームによるmiR-17-5p移行など文脈依存的多経路で筋線維芽細胞を誘導する。各起源の寄与度、IGF-1RとTGF-βシグナルの収束性、ROSが上皮細胞を死滅させ線維芽細胞を生存させる機序は未解決である。本レビューは線維芽細胞の起源・活性化・機能を整理し、治療標的への概念的枠組みを提示する。"
+      },
+      {
+        "title": "Wild-Type RAS Protein Expression Confers Immune Evasion on Pulmonary Metastatic Tumour Cells in Hepatocellular Carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43100061/",
+        "abstract": "Hepatocellular carcinoma (HCC) exhibits a high propensity for pulmonary metastasis, but the underlying mechanisms remain poorly understood. Wild-type RAS proteins are frequently overexpressed in HCC, yet their functional contribution to metastasis has not been systematically investigated.",
+        "source": "PubMed",
+        "doi": "10.3350/cmh.2026.0852",
+        "keyword": "Exosomes",
+        "title_ja": "野生型RASタンパク質の発現は肝細胞癌における肺転移腫瘍細胞に免疫回避をもたらす",
+        "summary_ja": "肝細胞癌（HCC）は肺転移を起こしやすいが、その機序は不明な点が多い。野生型RASタンパク質はHCCで高頻度に過剰発現しているものの、転移への機能的寄与は体系的に検討されていない。本論文は、野生型RASタンパク質の発現が肺転移性腫瘍細胞に免疫回避能を付与することを示したもので、HCCの肺転移機構における野生型RASの役割を明らかにしている。"
+      }
+    ],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "B5": {
+    "医学": [],
+    "生物学": [],
+    "農学": [],
+    "工学": [],
+    "産業": [],
+    "ビジネス": []
+  },
+  "summary": "以下、注目すべき5トピックです。\n\n1. **大腸癌の新規プロテオミクスバイオマーカー**：TIMS質量分析で腫瘍・非腫瘍組織を比較しII・III期の診断候補を同定。信頼できるマーカー不在の大腸癌で早期診断・予後予測への貢献が期待される。\n\n2. **腫瘍オルガノイド-免疫共培養による個別化免疫療法**：PD-L1等の既存バイオマーカーの限界を補い、腫瘍-免疫相互作用を再現。治療効果予測の精度向上と精密医療の実現が展望される。\n\n3. **歯髄幹細胞由来エクソソームmiRNA**：免疫調節・炎症制御・組織修復を担う。再生医療における細胞間伝達媒体として、無細胞治療への応用が期待される。\n\n4. **口腔粘膜下線維症の線維芽細胞動態**：4起源からなる異種集団とシグナル網の解明は、新規治療標的の同定につながる。\n\n5. **野生型RASによる肝癌肺転移の免疫回避**：RAS過剰発現が免疫回避を誘導する機序を示し、転移制御の新戦略を提示。"
+}
